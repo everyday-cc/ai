@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA announces new class of supercomputer and other AI-focused data center services"
-    excerpt: "The NVIDIA DGX supercomputer could be the top of its class. Learn what this may mean for enterprise AI and high-performance computing."
-    publishedDateTime: 2023-06-01T04:07:00Z
-    webUrl: "https://www.techrepublic.com/article/nvidia-dgx-ai-supercomputer-computex-announcements/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 64
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/09/nvidia-omniverse-cloud.jpeg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Charting Nvidia’s 30-Year Ride to Overnight AI Success"
     excerpt: "But an increasing number of its chips are being installed in data centers to help companies like Microsoft Corp., Alphabet Inc., OpenAI, and Amazon.com Inc. build their AI capabilities and offer those services to clients. Last year’s release of ChatGPT ..."
     publishedDateTime: 2023-06-03T03:55:00Z

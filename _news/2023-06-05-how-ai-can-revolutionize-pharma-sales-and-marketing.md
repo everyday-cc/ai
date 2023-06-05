@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-rev
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/amp/"
 type: article
 quality: 121
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
       name: Chemist + Druggist
       domain: chemistanddruggist.co.uk
     quality: 19
-  - title: "Orlando companies harness the power of AI in revolutionizing health care"
-    excerpt: "As the health care industry faces staffing shortages and rising costs, AI is offering a solution that can free up time for health care providers to focus on patient care."
-    publishedDateTime: 2023-06-01T04:00:00Z
-    webUrl: "https://www.bizjournals.com/orlando/inno/stories/partner-content/2023/06/01/orlando-companies-harness-the-power-of-ai-in.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
 
 secured: "YpSFw8hZ/eWF5ddQ+Rl9o8YDeShtdPwTUb+/rhPBI7K0dlUiMnEZqn16m2oPI7Lqr6vxKj1jygZ/cTkQlEaygGZ4vadXt+OXQ9wDOCNdMFquSrhEwWHMIduPAueEv2it9dZYUMf9EV82erR+GIBAuVAFcQb8emFI3AWNgJaqSmCxE6gE8I5QDRZAWtnyeG+VKgrwTu0Cim7xeRZuyBybOAQ8xAMBJW/ph97qbUiJA07MeqmkAbIrRIDWZpP97MXNfu/5jCm42K7uOqYck5upHLmHXsbZrEGOXfBVomTeWsBSa9QSMOkZu5X8wAo2wMxXDZ1kksBxWB+jcnVa6LOHPNM24D2T//XWSBrpNKziFxQ=;AAB1xDx33USi+UESYxC9rQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/technology/generative-ai-replaces-crypto-as-te
 webUrl: "https://www.afr.com/technology/generative-ai-replaces-crypto-as-tech-s-latest-gold-rush-20230508-p5d6lq"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Crypto Rues Bitcoin’s Decoupling From AI-Fueled Tech Stock Gains"
-    excerpt: "Crypto fans are now paying a price for Bitcoin’s weakened correlation with technology stocks. The top digital asset posted a monthly slump in May for the first time in 2023, while the Nasdaq 100 added almost 8% amid hype over artificial intelligence."
-    publishedDateTime: 2023-06-01T02:56:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/crypto-rues-bitcoin-s-btc-decoupling-from-ai-fueled-tech-stock-gains"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUwJ9FEJpp60/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "/bT4+EOBcInqigG7QSX+u2EllaWtvUCzizFKJOusowXRSFXzuq8pMSyxsD8FOsLHjraQNTyWRjcETOVhCer4LAz9jEh+tODAnkfrp5/IwgKnTQM0Er0RJvxA1lgOzzPSgk3xeOrtYUc6cPk3CKsRoltac6iE3OPh3dv/YDZW9ZHleQIPf+44J/scOawOPZMkRSr1I8PvFrP+ttPxco5JcTuhcYgezKLwQnkCFDUMMl65KdByAEzqJzJeAG7ajLmPOxd3vMcQFVOuDGZKeGpuJT/+6zBYWqEXRMtG5HAYoDI31hs0MqMR1eh3kbyLQ4QZB51MLZkJwYPtlH+ti25uGZjBf7P1Z1HJLqmFSVK/IF6MRdUoSrrFYVikZeTLipcI7JIJSrdosknX0QClvkukTqgXWxlXM2M1SZf02cTScq8IUijT5omEgR8AfpdV3tXeXhmqC3CbVp1y6f5TcGYEhTJ/sZb1LateRz+3L+zl38GBiDeH5C/QT5h0p7Wtp3OxJHxcDAH/8Y1xdOycv+Iwiw==;9bmH5qmLYp7CXB3fmxp71w=="
 ---

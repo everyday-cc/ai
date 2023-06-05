@@ -3,10 +3,10 @@ category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
 excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
 publishedDateTime: 2023-06-01T13:10:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
 type: article
 quality: 68
 heat: -1
@@ -40,6 +40,20 @@ related:
       - url: "https://time.com/img/icons/wallet-connect.png"
         width: 256
         height: 256
+        isCached: true
+  - title: "US seeks to curb investment in Chinese chips, AI and quantum computing"
+    excerpt: "WASHINGTON (Reuters) - New rules under consideration would restrict the flow of U.S. investments and know-how into Chinese companies working on advanced semiconductors, artificial intelligence and quantum computing, a U.S. Treasury official said on ..."
+    publishedDateTime: 2023-06-01T15:41:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-congress-idCAKBN2XM1F6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230531&t=2&i=1634411747&r=LYNXMPEJ4U0Q7&w=800"
+        width: 800
+        height: 508
         isCached: true
   - title: "Nowhere for Investors to Hide From AI Hype"
     excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
@@ -199,6 +213,6 @@ related:
       domain: omaha.com
     quality: 28
 
-secured: "DPDh+xXBtn7NjA5pvz9XuqzGwppstnCFCZY49dO8QXpZDV3aLLdiQ2X+HUnqvBWdMONMY0ul30rVe26MO4+etts1Udh7sUiXWi0CozliXPZD6gNhwRlMX7rboh3Zw497snmrphfRqUwWvJU5kTEKRGAuDbZGN6ztyqIfZawy44CIKy6Ii2a74pUjJ5OqoDV+5vzDndilHBY2uX14Vv1JBs8zYlJB/dwMKZLG7GM2u+7irzm5i7YXt91ooBvceNHfxz7TdJ4IXo00NtxG04Msl32rxFDI/lnflm5hB+wLLh0JTQLksUzDqnaH6gTijgqei8am553MUOEz2OHmC69O3NWloEf2L66Ve0M8khBAF+U=;TGpZusIWGvB9Nyc4oi9drQ=="
+secured: "jh0tb23bHZWE7ay65dVOecOkrA8ILYJnuDaT4QALcFgouFyX+XrsZSJcPOqpEKAHRsIDX0p8qhEPi6ihAdUY92XyeDnEjiBCUrEqWlwYw/24v1GMetSzU4Ti+cYnOSVkjJ1dNEEGmctlRxYGVIoDeIfz+btmYYZ1clu9xCXKr5MlDbHqmr/Zth020x3jrkNP58wDx8skwed7T+p6+wTugTPcosPOWliC/OnLkBZ6awJZeU84SyInWnhKSrU3VigsBHTaU1z0lnL3nIjGma6lTX2BGVGOLlcn5LKh8pBxYqyoaDiY0zrTEN5KzbGVISqSAkcmt5bKdyIBRmod+VFD7M9P4CstPg4qAQ9PLiwZeq0=;xWtJaJIBCnDXpNw/rS25iQ=="
 ---
 

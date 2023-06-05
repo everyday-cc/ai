@@ -81,15 +81,6 @@ related:
         width: 970
         height: 464
         isCached: true
-  - title: "Orlando companies harness the power of AI in revolutionizing health care"
-    excerpt: "As the health care industry faces staffing shortages and rising costs, AI is offering a solution that can free up time for health care providers to focus on patient care."
-    publishedDateTime: 2023-06-01T04:00:00Z
-    webUrl: "https://www.bizjournals.com/orlando/inno/stories/partner-content/2023/06/01/orlando-companies-harness-the-power-of-ai-in.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
 
 secured: "YuoD55PJ71Gr4WOZ8QXBTQdR5dMz68WYxOt08Yyv4rhxnvxyBZYmRVG/EWnBzQFQcISKr1abruxk8H3qBCQbpDSoJ7+jCnpZDXNWZyg5Uu5kDSXKbT/lmnYJEDiKl9fQdoRLQ9JGUOHDCFoPQLstYDwQ4T9DPPdXg4Px/pmD+tHG7i9XnFS9Dv1FKnDnVyEqemNSszsRY2ZA3JjkCNsEHQcAf4Q5eZdtzKf0BfPvrdItPaPQs+yBwDTos4mtWG29hwvE03rlztzAXx7Vc7MaryEG+PWqhiiOF8HWKuE0/5UThJP3EYxC8yWemS3r9wJuLPZqOtV8tefhbhXvYchnHXlBRUkzvluPq2V2Ypw4Nd/XstdnXeLimyl6tVRgNLLaF8sUbIcouLNQc0H0HQptuyL6H2CDw0m1/qswApUG5NU5H/S5cAbRG4xICTsDJ12bOwD3N3ItsgmG1HYXX1ELUS73eNPGlsNqIPQexo+saeIIR+ZIGrFWeDLxkX8qr+jF0YtyiZ+Jtbhr8WoqgGVw4w==;nidrFbQ5HzZa4GzlruMKsA=="
 ---

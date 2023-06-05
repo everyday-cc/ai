@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32707325"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32707325"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "Vietnam’s FPT and Quebec’s Mila renew three-year strategic partnership, vow to practice responsible AI"
+    excerpt: "Vietnam’s FPT and Quebec’s Mila renew three-year strategic partnership, vow to practice responsible AI Organizations plan to collaborate on large language models and natural language processing. Vietnam-based FPT and Quebec-based Mila announced the renewal of a three-year strategic partnership that will see the two organizations explore collaboration on artificial intelligence (AI) research models,"
+    publishedDateTime: 2023-06-05T19:07:00Z
+    webUrl: "https://betakit.com/vietnams-fpt-and-quebecs-mila-renew-three-year-strategic-partnership-vow-to-practice-responsible-ai/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 5
 
 secured: "xux5Lo/lFH7r5KNWQSrZ+i3gKP5Y5Aqh5idD+lb0lhuB2twU5D9Lptk9p+SSUQq+5kZWcpB2rlxXYV8Yk5RIfL413XD4VqrWLHp8OAKgIRuj9aaDEvYePXfvbJy3UtY9g+9q6oNqVQO9bV52hgzwjW2GzC1vg81ANA5FRV4LbEh1RNTMTL0+ZkSh06pYJ1rAuPUkZkg+wHifU9H+7CDzzkOlC8aubU35DaFU2z3VW2zk2vKqCxKf+o07P5T0AfJ9ZN9wc8Dyd/zEAuCUkpkoBncq5UW7dPyHdDGiHwYskuaC8ZTSDjr1Q7cdbHkrFNV7GQvZdIoiWBXlqaaUJQ2mkUiuwYFcrVMB2bJIl4piYFU=;AzdrbuhJNDXKS590aFxznA=="
 ---

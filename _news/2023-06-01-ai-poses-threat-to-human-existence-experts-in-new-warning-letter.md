@@ -59,20 +59,6 @@ related:
         width: 800
         height: 527
         isCached: true
-  - title: "Does AI pose the same threat as nuclear war?"
-    excerpt: "A new open letter signed by prominent figures in the tech world claims artificial intelligence (AI) carries the same risks to human life as nuclear weapons or pandemics, but digital ethicists and researchers are saying it’s all hype that ignores the technology’s real dangers and promotes a strange ideology."
-    publishedDateTime: 2023-06-01T01:31:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/does-ai-pose-the-same-threat-as-nuclear-war.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/nuclear-bomb-explode.jpg"
-        width: 1067
-        height: 600
-        isCached: true
 
 secured: "njWWnjo2FyuptuNLeHJSXAhpj3ghKJoSkd2e8bMGllEOPaY1HmmsEHO2gF9iJDdsoxegy1todBQBxTSsd/QNoyeWbOCFEIef2sHeh0vSJVu6ZbMWODqYfsBiZyV3EFTrvPN1G0pw68xeeI/aR7j8I4j/ajyKHtG5wYb8nS+0wo1Kw+RiK/sMCyJkzTPP9vAM6Ote6auQGpZLn1sUwy3J/jv19gxKLjVd6+aV8mk/4zfTCLp6G73pwS7rJ0J8ZNO0rxDWVOPskBjS2hFAYAlWWAJyqtT+yq4+dyZufuoztNnvaatKNZDKzgW3R79jI6j865Fb6Bu8O09ry0wycDEpjI/WomIBjKqbq+tN1wGMeNY=;NznsnxcIRfEHSUA/sSydmA=="
 ---

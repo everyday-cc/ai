@@ -41,20 +41,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "NVIDIA announces new class of supercomputer and other AI-focused data center services"
-    excerpt: "The NVIDIA DGX supercomputer could be the top of its class. Learn what this may mean for enterprise AI and high-performance computing."
-    publishedDateTime: 2023-06-01T04:07:00Z
-    webUrl: "https://www.techrepublic.com/article/nvidia-dgx-ai-supercomputer-computex-announcements/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 64
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/09/nvidia-omniverse-cloud.jpeg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "This week in AI: Existential threat from AI, Nvidia announces AI supercomputer, UK wants global AI watchdog and more"
     excerpt: "The DGX GH200 uses Nvidia's NVLink technology to combine 256 GH200 superchips, which each house an ARM-based Grace CPU, and H100 Tensor Core GPU, that allow for performance up to 1 exaflop (equivalent to one quintillion floating point operations per second) with a whopping 144 Terabytes of shared memory."
     publishedDateTime: 2023-06-04T13:30:00Z

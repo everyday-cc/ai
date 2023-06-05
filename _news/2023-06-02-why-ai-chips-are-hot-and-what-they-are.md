@@ -73,6 +73,15 @@ related:
         width: 680
         height: 879
         isCached: true
+  - title: "Opinion: What AI means for healthcare leaders"
+    excerpt: "Generative artificial intelligence is a hot topic these days--the ... tech firms and teenagers have found novel uses for AI to improve our lives. Thousands of healthcare AI applications are available for drug discovery, clinical practice, supply chain ..."
+    publishedDateTime: 2023-06-05T19:07:00Z
+    webUrl: "https://www.modernhealthcare.com/opinion/generative-ai-healthcare-leadership-uab-christy-harris-lemak"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
 
 secured: "lxYWqdo33fJTnzQ1zncgY5bxFeON7By8OOJEbtgk59Xx9H53n9XFr8JMGKgcjgcBYAAQ6NmtA1KQnHjrHcUuT7tqED6decHDS6+b/wLmYDTe4iSkMQu1iHQxX37PMcAH5R1gjACK+L/igqW1hr9v23Hj1pHCyb3XIhbx4kzXKeuDsOs621se0q5ZA/aIZd+IHJOSsf9dZrOyPvJGb9jl8meZiKjmyJy18+dO9dKfpwflI1mlhq7lkGJAJXgXKApJBHXoq5MOSU2c1t/09pFRxz7vGWC7rlwr54G/K1TGQmuzgWNy+fLmzbYB6zH3K9ug3mBpsLn6sixUy9CeM+5CSxWWd+5+/FkPd/qEMY1v5NWjxHdrISgHiVswi/UjiyePp+1jLxYImITJ47xABwMBhe/9f8zZY4u6PfOkAUWl1SHVLFzSXmS+CjJUleiPVH0njMxtWTgAR12HiGtoiX28MsXSIlH+mibuXyBY9Lzmpe9fArb0LcCwt/odG4yvXsQ/KeOi3BW3zH4wdV15m+vHxw==;PzyMpg0Q9UJxukKzvdt6wQ=="
 ---

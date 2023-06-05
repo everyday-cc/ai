@@ -69,6 +69,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI regulation is not a silver bullet"
+    excerpt: "Post-ChatGPT, the chorus for AI regulation is reaching a crescendo. The one race that no one should win, however, is the race to the regulatory bottom."
+    publishedDateTime: 2023-06-05T18:00:00Z
+    webUrl: "https://thehill.com/opinion/technology/4034754-ai-regulation-is-not-a-silver-bullet/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 19
 
 secured: "VzEf2moOVHxqhpVMGR+3bJpgFfFloIlNVrFDWb6S8NP4RSLlR5Gn41fs8YgSPLEDqhG0HyYCp/sN4C/ztLLQZ3Md1wuI/RS4VG9+8RnqrPVKfmwsaxE+ZyoWgIKagTaxkNXSRWHlHppOynIYlO8PfiqoyB1EecUubxEPjBy/87txBBJqaIlO5JMLR8jZfu7NfKDZPigKNKmzYem/uoJzVgz3TliyDxAti8WgBlyxRv6dpWbPjf/9ym48ktz+lwozTuCVeDNqzMhZaQzW/yy3DvVPFY6oGKmrig3W/jMRpDmJlF/XUwawZm0udifGyFvI1TxD0qESM6v24pbXqBoeLdC89BD+ok9Xynm4HdH0NKHyECTCCOroOik7PaYf9/xrV9Fuu8xWu/AP9S0+nen+s4RLsQqekAe+/fZOmmyGYfghKJOKjKqpaUg2E5JZdiUYj//Ih9uwnSq3ExqnvydPKC4t3X+RcwGo6N50m8xICVMibIP+KmeNc3xf6TmikaagMCjV63gdkx7Hdh2oFjCIlA==;nqj+Ec4bvHbnb5nGVJivDA=="
 ---

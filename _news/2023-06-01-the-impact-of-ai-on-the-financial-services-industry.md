@@ -136,20 +136,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI set to take the world of weather forecasting by storm"
-    excerpt: "Papers have been released by the technology companies Google DeepMind, Huawei and Nvidia that appear to show impressive forecasting results driven by machine learning. Peter Dueben, head of earth ..."
-    publishedDateTime: 2023-06-01T02:51:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ai-set-to-take-the-world-of-weather-forecasting-by-storm-7nsqw3mjh"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F88280ba6-fba8-11ed-bc7a-1444acf8fa38.jpg?crop=4701%2C2644%2C787%2C658&resize=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Advancing Intelligence at the Edge with AI Vision Processors"
     excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
     publishedDateTime: 2023-06-05T16:21:00Z

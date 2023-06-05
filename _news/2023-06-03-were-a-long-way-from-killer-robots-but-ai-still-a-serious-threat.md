@@ -35,6 +35,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI could outwit humans in two years, says UK government adviser"
+    excerpt: "Matt Clifford, chair of the Advanced Research and Invention Agency, says AI is evolving much faster than most people realise"
+    publishedDateTime: 2023-06-05T17:41:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/05/ai-could-outwit-humans-in-two-years-says-uk-government-adviser"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "xkzGKFWdkx8uPmITFgfjB2AWeUPKYlxTma4Qe3RLt25fmW/DDu0ZKH91XyeQKE0PoFs01OoSIoZwLhX1yGSMSyuXzpcY8QobnP2sLjSLM3xU6FNTh9B45OxR60SmuRRXYkCZ7AQ5v5+BeqxwgtopWlPOFtLgUIxjoS2Gs7f6fGeNPVmbB/cIfJNzsJlub63Z8Kz+Ze58UiBRr7pd2luIagGGgjmUkpzE9NvRL9KDCMZiJHeSj/VtwArPrfla4GeqDN+25oyB7+LqbVyIGGqrxo82UnN12XwqUVSvwJ/CDZUyvebQ+ue2ke7kGNv6MwAh696bWPhBBPZNq3/+ahii9FA6ZFaBeac6AgtwMziYEG4mYMyuafLPexQcEUu6hGq7GmE/pWAWbxks0xyFubI5a8An6oxtyxpLjpzpS6zCuWO5ACuMK1t6Gzyik51EhZhvt+UtbU0BHXauGMtfrts3U78ZRCrgLtCiPcpJAEd3d3s4Wvoi31C5UY0ofocyoNgvAPpqPyKcnWiGzAgvMHcGPA==;E0nFwKN1wntzT/Nh+mMggA=="
 ---

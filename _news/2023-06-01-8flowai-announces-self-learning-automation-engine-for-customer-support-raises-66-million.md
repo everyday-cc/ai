@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 996
         isCached: true
+  - title: "Amazon SageMaker Automatic Model Tuning now automatically chooses tuning configurations to improve usability and cost efficiency"
+    excerpt: "Amazon SageMaker Automatic Model Tuning has introduced Autotune, a new feature to automatically choose hyperparameters on your behalf. This provides an accelerated and more efficient way to find hyperparameter ranges, and can provide significant optimized budget and time management for your automatic"
+    publishedDateTime: 2023-06-05T19:36:19Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-automatically-chooses-tuning-configurations-to-improve-usability-and-cost-efficiency/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 40
 
 secured: "SECgqD1vH2cw18y5ODP2AtrQvUl7mZouz140TChMO22diX16Vqa8OAsU37peZpbfbxNwsPgyf0QBPFY50OUl2UZSYg9nU1jsJnb48dYSGLlCfHAdi2ws2v3LAiX2p2zfaonSLxylQtE4GH5NVhXDZNHIkoXMJfOqTLDMBMtglNcxotAwIS+txaYvqwAf4zrQrNrrOtlW1FGnAzoWS6zpgM37lfs08AIeFp6KvOHPPEKIWAOae/p5CkrkKxkMjp/KFvJHWGwDvAQnByfzcUlENk9B+aK/+MiFVJIN4l/oP2vETmWxeJytYE+8wi8zYsy450XsLS5KPbmzLUCFDBEHb7tXs3vg4Us9wjNG1FDYWbc=;OyGEWkbT0v8D+n1eBozRmg=="
 ---

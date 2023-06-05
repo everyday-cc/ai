@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 129
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI regulation is not a silver bullet"
+    excerpt: "Post-ChatGPT, the chorus for AI regulation is reaching a crescendo. The one race that no one should win, however, is the race to the regulatory bottom."
+    publishedDateTime: 2023-06-05T18:00:00Z
+    webUrl: "https://thehill.com/opinion/technology/4034754-ai-regulation-is-not-a-silver-bullet/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 19
 
 secured: "XT115ya5xA44uGmEPikIoNUa3UhGuNtmsmOluJVmGwVTCKhrZ/yCU4kFrOPB+3VTUBOvaoAc+TkVrTzVYcKE3SHwLyQVeTbMVaZgXGwl/u9bjg+fQdVDyCclB/qCSejyisgTDcqvIxPmUSbFR2L8gWOOW9SWfqGiTBe17AgvK8vLFXh29tE0D/QztRlkjV9xCLt7ajl/WXU5dK902AXO3wLjiSYfCUtYQjrxp79cWUwMp+uz+QH7oYf7qgYC9/SZxX2fZh3wR6fWOqeHPb5Lxw3JMHs/W3sItINZ79Xxf/cOECfAXHLVlLcacfeWOZz6zoYetCW+o2liW4AJPMALdvbqQj/HLGwttv4utg+Wd/Q4p6DIHsC9TzfwUS+JL/Rmbtrj2VawWMx/691RQpuoBp8dEQ0uG2UalX3cb0pR7yjZZm+fYIP5etodQNvJCXXts7RKZRWQiror/8lws9MUnJBOEjaQWHKEAF5W2/ZSZNnNkrEfg5JKftuwFlc6sFN9rpJyIgenfY5HjD5yoI5o4A==;S0qCPjzHC8wrm7C1ujkjeg=="
 ---

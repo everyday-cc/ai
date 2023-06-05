@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-05T17:15:00Z
 originalUrl: "https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/104845"
 webUrl: "https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/104845"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets.medpagetoday.net/media/images/104xxx/104845.jpg"

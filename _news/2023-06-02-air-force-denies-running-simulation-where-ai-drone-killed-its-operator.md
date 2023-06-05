@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/air-force-den
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/"
 type: article
 quality: 86
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -197,6 +197,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 9
+  - title: "An Air Force Colonel Said a Simulated AI Drone Killed Its Operator, But the Service Is Denying It"
+    excerpt: "The Air Force has denied a widespread account that one of its killer drones turned on its masters and killed them in a simulation. The story, told at a defense conference last month, immediately raised concerns that artificial intelligence could interpret orders in unanticipated—or in this case,"
+    publishedDateTime: 2023-06-05T19:13:00Z
+    webUrl: "https://www.popularmechanics.com/military/aviation/a44078557/air-force-denies-ai-drone-killed-its-own-operator/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 6
 
 secured: "GSfxsUbBj/7fHSHl2Qy57nxS/87y9QI9CxqLQXMuIpWK8axbN+vkljQW5cN+1fKltYFLR9a9Vpugq3uyt3SFatZ1YnyxLD+ad2E1VkpjOP1KEKtXTSmbWnBTiA4t7f54X1BqDLDtO6+aQJXFsn5ev5l0HClrax8A2soTuBG75rgdHSJVmeNWDCRG8LbXn5ogbIxbpwvIxKdZ2DXH5jGHX3GaqX/bOYs4v8LSXAY025iuh72eNtwt3iEOrN98Azxcc+heGoyTePuWdAH1b/U4005rF8grW30mQtJo09FMsjRfoVeImW1D8X4SV3KRGv/CuCcsQfenbzyykWl7fxLW9OOhAJI1DiwJWmGbQ6yuWobp/sUit/IeJyODAYGkRUOsQOSKClWpbI+NNAH9gtDhGTGxbCpJMRIOAAvgQO9UndhWh3oPA0KNkxXYLXucZGYBV/fA0lahRO+SNb0E6ofsnmfz3EWkNA7PQxrZHrGF9NKo/kkDqyxueiJDa0iei4spJubT1ONHiJeLEZRL+0PTtw==;6w7tgqI02iTbBDfnyDo1WA=="
 ---

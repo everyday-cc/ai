@@ -86,15 +86,6 @@ related:
       name: Chemist + Druggist
       domain: chemistanddruggist.co.uk
     quality: 19
-  - title: "Orlando companies harness the power of AI in revolutionizing health care"
-    excerpt: "As the health care industry faces staffing shortages and rising costs, AI is offering a solution that can free up time for health care providers to focus on patient care."
-    publishedDateTime: 2023-06-01T04:00:00Z
-    webUrl: "https://www.bizjournals.com/orlando/inno/stories/partner-content/2023/06/01/orlando-companies-harness-the-power-of-ai-in.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
 
 secured: "BiWD4Loyp/u0thCEU8gm3kjXh5FpmyEf626JnCKGgIHMGzlHCHt26IsDC0mGu/OScWa0VbOGsBPAh5drxw7465YJEmKNoUPRm43kwRHE6fJkQqDoYBSv97bp6jBaIuYgjHHay4WW6tkuyErQRS6SP1AkGqUxHMZcokIgsfUZEj8qx6eMCig/LY1FBko/yvGNtMFZrR5UD8FLRzzchISwETwQ5kE/IuC3MAIzW8RzZynHcLsg+T8teX9PH5Sd2eg0DYowlMpDW6lwpkWvMqJ/43BrgccCE31gOFD98Cn2VkEmy4P7k8SsPZ3diCr29mEqvqocqvPkSgDl9NnSziVWNiIU7Ez0iAdZn437gCuCk1d/bhyxZ05hRPHVlSzrVNhM88VrwFovJZOzhZ/7O16lJtMopZF3vsCMHKapa4psYJnQDjCbTrfZS8NAfNXNYnMyxqwVfMqD7NQ+Z63iNCjmiZBTj3i33sRkjhwy7wYftclp7h7S3Gn0tZxVwrjd1rp7/0yL87QTO9Lgwx75GItA3A==;cyjfvC0Bngn8kLzTDF4U/A=="
 ---

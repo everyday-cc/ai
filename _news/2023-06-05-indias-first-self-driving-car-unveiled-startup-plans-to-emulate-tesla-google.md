@@ -9,8 +9,8 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/indias-first-self-driving-
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google/amp-41685937249629.html"
 type: article
 quality: 55
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Auto News India
@@ -27,49 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "How self driving cars are getting ready for Indian roads"
-    excerpt: "Work on autonomous cars is on full throttle in India, but self-driving cars are still some time away"
-    publishedDateTime: 2023-06-04T08:26:00Z
-    webUrl: "https://www.headlinestoday.in/news/how-self-driving-cars-are-getting-ready-for-indian-roads-556665477.html"
+  - title: "Elon Musk says 'happy' to license Tesla self-driving technology"
+    excerpt: "Tesla Inc Chief Executive Elon Musk said in a tweet on Monday that the electric-vehicle maker would be \"happy\" to license its self-driving technology and advanced driver assistance system Autopilot to other companies."
+    publishedDateTime: 2023-06-05T15:43:00Z
+    webUrl: "https://www.reuters.com/article/tesla-licensing-idUSL4N37X32Y"
     type: article
     provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 39
+      name: Reuters
+      domain: reuters.com
+    quality: 69
     images:
-      - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Elon Musk Takes Swipe At Rivals' Self-Driving Technology: 'Brittle And Unscalable'"
+    excerpt: "Tesla Inc TSLA CEO Elon Musk on Sunday criticized the self-driving tech developed by competitors including Alphabet Inc‘s GOOG GOOGL Waymo and General Motors-backed GM Cruise LLC. What Happened: “Yeah, extremely brittle to local conditions & doesn't ..."
+    publishedDateTime: 2023-06-05T10:09:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32710679/elon-musk-takes-swipe-at-rivals-self-driving-technology-brittle-and-unscalable"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32710679"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32710679"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk._Photo_courtesy:_Thomas_Hawk_on_Flickr_10.jpeg?width=1200&height=800&fit=crop"
         width: 1024
-        height: 576
-        isCached: true
-  - title: "Self-driving Startup Minus Zero Unveils ZPod Vehicle Based On Camera-sensor Suite"
-    excerpt: "Autonomous vehicle zPod unveiled by MinusZero can drive itself in all environmental and geographical constraints using camera sensors."
-    publishedDateTime: 2023-06-05T16:25:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 39
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/mhzulyros2ktmjaj_1685942650.jpeg"
-        width: 768
-        height: 438
-        isCached: true
-  - title: "India's first completely autonomous vehicle is unveiled by AI startup Minus Zero"
-    excerpt: "India's first completely autonomous vehicle is unveiled by AI startup Minus Zero - Minus Zero, an artificial intelligence (AI) startup, unveiled what it claimed is India’s first"
-    publishedDateTime: 2023-06-05T03:01:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/indias-first-completely-autonomous-vehicle-is-unveiled-by-ai-startup-minus-zero-nid-223376-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 32
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/UqCPZEah.jpg"
-        width: 570
-        height: 367
+        height: 683
         isCached: true
 
 secured: "meAeyQd7T3EjX5/gBf2fy5LZV+XjSZnh9aVkDDAalDHVUJSMZpg0H2hNbd4XjaQyYGzZ5yBPio95HmZWJg3dUrx2g2lg2lRPtwItTg8kTAXTsvp9NK4DLdrEyIFFRQEga6o67ZY5ZrBt0EZDwQla+/Qu5VZ/B3GpGRubVIs8yoKnK6AxYTxn/5Q/es7D5qNynbI/2dOprjOhMcNj118PKdQYLoOQ7nmnw/NYrGbebcYDdcwkAZwkUKEtvXIP8HbdRQDKvxsTwA3xz5rUEI/AHX23FN6Gs+YK18gh5LAN7de0iz3L4H1jI6Su2EqmjfdXTkKwk/hTMrNKFP0IJ7oD6K81x+yHnfjuOdcVbzso1NP2YAwrXZVIP9dq3Rv9pYWhEQo3lhe3vqNWEnjT0JQOmYekHVg7C9Z4JIpKnzeqtMZf/4kdvk+K78UMsdIu0c5PjWYdHFSSq4/a8y1BwHfY8PbYa4GbWXUrrsWZPL9HmPBhRsi3zhHiP2HN08qvi0ScUpTz/ZH7c5nb1w98TuDwWQ==;+GPnukIjTQVExZEK5QQHhA=="

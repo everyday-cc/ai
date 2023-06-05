@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How to thrive in a new era of AI with trust and confidence"
-    excerpt: "AI is already helping organizations achieve great things, but it's time to take advantage of its full business potential."
-    publishedDateTime: 2023-06-02T15:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://images2.markets.businessinsider.com/64777c4a085acb0018ff05b5?format=jpeg"
-        width: 702
-        height: 526
-        isCached: true
   - title: "How to Use AI in Your Job Search"
     excerpt: "Artificial intelligence is about to transform the job search. Research confirms the value of using AI in your job search. At the very least, AI can be of immediate practical help with your resume."
     publishedDateTime: 2023-06-01T20:49:00Z
@@ -90,6 +76,15 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "How to thrive in a new era of AI with trust and confidence"
+    excerpt: "AI is already helping organizations achieve great things, but it's time to take advantage of its full business potential."
+    publishedDateTime: 2023-06-02T13:58:00Z
+    webUrl: "https://www.businessinsider.com/sc/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "How AI Tools Both Help and Hinder Equity"
     excerpt: "The technology promises to assist students with disadvantages in developing skills needed for success. But AI also threatens to widen the education gap like no tech before it."
     publishedDateTime: 2023-06-05T04:05:00Z

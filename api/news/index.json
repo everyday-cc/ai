@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-06-tech-slips-as-ai-optimism-fades-tech-roundup.md",
+      "title": "Tech Slips as AI Optimism Fades -- Tech Roundup",
+      "excerpt": "Shares of technology companies slipped as optimism about a new wave of artificial-intelligence technology faltered somewhat. Palantir Technologies rose",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
+      "originalUrl": "https://www.marketwatch.com/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
+      "publishedDateTime": "2023-06-05T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-7-steps-for-managing-the-work-order-process.md",
+      "title": "7 steps for managing the work order process",
+      "excerpt": "The work order management process shows how a work order will move through the maintenance process, from task identification to post-completion analysis.\nThe post 7 steps for managing the work order process appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/7-steps-for-managing-the-work-order-process/",
+      "originalUrl": "https://www.ibm.com/blog/7-steps-for-managing-the-work-order-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T11:44:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-announcing-the-launch-of-new-hugging-face-llm-inference-containers-on-amazon-sagemaker.md",
       "title": "Announcing the launch of new Hugging Face LLM Inference containers on Amazon SageMaker",
       "excerpt": "This post is co-written with Philipp Schmid and Jeff Boudier from Hugging Face. Today, as part of Amazon Web Services’ partnership with Hugging Face, we are excited to announce the release of a new Hugging Face Deep Learning Container (DLC) for inference with Large Language Models (LLMs). This new Hugging",
@@ -10,7 +104,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-new-hugging-face-llm-inference-containers-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -269,7 +363,7 @@
       "originalUrl": "https://www.barrons.com/articles/micron-chip-ai-stock-pick-806ef36a",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -312,7 +406,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -365,7 +459,7 @@
       "originalUrl": "https://www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -450,7 +544,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -489,6 +583,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-elon-musk-says-happy-to-license-tesla-self-driving-technology.md",
+      "title": "Elon Musk says 'happy' to license Tesla self-driving technology",
+      "excerpt": "Tesla Inc Chief Executive Elon Musk said in a tweet on Monday that the electric-vehicle maker would be \"happy\" to license its self-driving technology and advanced driver assistance system Autopilot to other companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/tesla-licensing-idUSL4N37X32Y",
+      "originalUrl": "https://www.reuters.com/article/tesla-licensing-idUSL4N37X32Y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -542,6 +688,49 @@
       "topics": [
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-scientists-use-machine-learning-to-see-how-the-brain-adapts-to-different-environments.md",
+      "title": "Scientists use machine learning to 'see' how the brain adapts to different environments",
+      "excerpt": "Johns Hopkins scientists have developed a method involving artificial intelligence to visualize and track changes in the strength of synapses—the connection points through which nerve cells in the brain communicate—in live animals.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/scientists-use-machine.jpg",
+          "width": 1540,
+          "height": 2341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-scientists-machine-brain-environments.amp",
+      "publishedDateTime": "2023-06-05T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -992,21 +1181,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-05-it-might-be-controversial-but-ai-could-help-create-a-greener-future.md",
-      "title": "It Might Be Controversial, But AI Could Help Create A Greener Future",
-      "excerpt": "Arup’s digital services leader, Will Cavendish said it has used AI to calculate where best to deploy nature-based solutions in cities like Shanghai.",
+      "path": "_news/2023-06-05-getting-started-with-mqtt-in-azure-event-grid.md",
+      "title": "Getting started with MQTT in Azure Event Grid",
+      "excerpt": "Those events could also be stored in Azure Data Lake, where analysts can use tools like Data Explorer to extract insights from device data and use that data to train machine learning-powered control systems. Azure Event Grid is an important component of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/",
-      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/",
+      "webUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.html",
+      "originalUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647d9bae4c670bf9090e1092/0x0.jpg?format=jpg&width=1200",
+          "url": "https://images.idgesg.net/images/article/2023/02/shutterstock_1748437547-100937033-large.jpg?auto=webp&quality=85,70",
           "width": 1200,
-          "height": 789,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1014,211 +1203,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/amp/",
-      "publishedDateTime": "2023-06-05T01:31:00-07:00",
+      "ampWebUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.amp.html",
+      "publishedDateTime": "2023-06-05T02:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-australia-launches-consultative-review-of-ai.md",
-      "title": "Australia launches consultative review of AI",
-      "excerpt": "Following the U.S. and Europe, Australia has decided to explore a regulatory framework for AI amid mounting concerns about the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/australia-launches-consultative-review-of-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/australia-launches-consultative-review-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/92274b7619a0efc8c764d029afe0a002410d64b8/2023/06/04/0bdd189c-3a78-47c3-901a-e70e72ad5310/gettyimages-1258297475.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australia-launches-consultative-review-of-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australia-launches-consultative-review-of-artificial-intelligence/",
-      "publishedDateTime": "2023-06-05T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-artificial-intelligence-took-over-around-4000-jobs-in-the-tech-industry-in-may-alone.md",
-      "title": "Artificial Intelligence Took Over Around 4,000 Jobs In The Tech Industry In May Alone",
-      "excerpt": "Challenger, Gray & Christmas claims that 4% of the 4,000 people who lost their jobs in May 2023 were made redundant as a direct result of advancements in artificial intelligence. That's right, you read that right!",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/53962/artificial-intelligence-took-over-around-4000-jobs-in-the-tech-industry-in-may-alone",
-      "originalUrl": "https://in.mashable.com/tech/53962/artificial-intelligence-took-over-around-4000-jobs-in-the-tech-industry-in-may-alone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/mashable_in/seo/5/54426/54426_nbq4.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-the-impact-of-generative-ai-on-software-team-productivity-is-complicated.md",
-      "title": "The impact of generative AI on software team productivity is... complicated",
-      "excerpt": "Generative AI means faster coding, but also more code to manage, along with greater expectations from the business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/",
-      "originalUrl": "https://www.zdnet.com/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7f9aec1f5926e4ef120636f244c934732c1d3afa/2023/06/04/6037cf03-35a3-489f-a5bb-0f590ad0c148/gettyimages-1254096697.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/",
-      "publishedDateTime": "2023-06-05T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes.md",
-      "title": "AI could help solve NJ missing child mystery in new step for cold-case probes",
-      "excerpt": "New Jersey law enforcement will use artificial intelligence to help solve the three-decade cold case of Mark Himebaugh that could set a precedent for the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes",
-      "originalUrl": "https://www.foxnews.com/us/ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01b2467c-e906-47f1-b89c-f0941fbfe408/af430678-3518-4af0-b4c1-30530089dd9b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes.amp",
-      "publishedDateTime": "2023-06-04T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

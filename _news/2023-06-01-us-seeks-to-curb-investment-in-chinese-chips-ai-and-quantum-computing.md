@@ -29,73 +29,193 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s CEO plans trip to meet Chinese tech executives despite US curbs on AI chips"
-    excerpt: "Nvidia CEO Jensen Huang is heading to China to meet with executives from Tencent, ByteDance and EV makers Li Auto and BYD, despite rising tensions between Washington and Beijing."
-    publishedDateTime: 2023-06-01T02:34:00Z
-    webUrl: "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
-    ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
+  - title: "Investors See AI Chips as New Gold. Here’s Why"
+    excerpt: "AI chips have suddenly taken center stage in what is considered an AI revolution that could reshape the technology sector—and the world"
+    publishedDateTime: 2023-06-01T07:53:00Z
+    webUrl: "https://time.com/6284046/nvidia-ai-chips-investment/"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 97
+      name: Time
+      domain: time.com
+    quality: 84
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/01/bdb2ca71-bbb4-46b6-8dc5-afceee3cce14_a868d5fc.jpg?itok=qKnSkKzI&v=1685586767"
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
+    publishedDateTime: 2023-06-01T13:10:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 68
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Nowhere for Investors to Hide From AI Hype"
+    excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
+    publishedDateTime: 2023-06-02T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-792763/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nowhere for Investors to Hide From AI Hype"
+    excerpt: "This week, chip maker Nvidia was briefly worth more than $1 trillion, thanks to investor excitement about demand for its chips created by so-called “generative AI,\" the technology behind ChatGPT. Smaller AI-related stocks have also soared as investors search for the big winner from the latest fashionable theme."
+    publishedDateTime: 2023-06-02T23:59:00Z
+    webUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html"
+    ampWebUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/02/600x338/Nvidia_1685708783326_1685708790004.JPG"
+        width: 599
+        height: 338
+        isCached: true
+  - title: "AI chips are hot. Here's what they are."
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip,"
+    publishedDateTime: 2023-06-01T15:11:00Z
+    webUrl: "https://norfolkdailynews.com/news/national/feature_national/ai-chips-are-hot-heres-what-they-are/article_e50444c6-008e-11ee-8e38-6b3227a49a96.html"
+    type: article
+    provider:
+      name: Norfolk Daily News
+      domain: norfolkdailynews.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/2/f2/2f237702-008f-11ee-8f78-27dd5b461b9c/6478b65123d5c.image.jpg?crop=620%2C326%2C0%2C43&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
+        isCached: true
+  - title: "AI chips: Here’s what they are, what they’re for, why they’re hot"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed spec"
+    publishedDateTime: 2023-06-03T13:05:00Z
+    webUrl: "https://www.columbian.com/news/2023/jun/03/ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 54
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI chip shortage to last until 2024, according to top Chinese AI company"
-    excerpt: "The large-scale language model (LLM) has triggered the continuous growth of China's computing industry. SenseTime, which kept a low profile, has recently been tasked to pilot the AI computing supply chain taking shape in the Shanghai FTZ's Lingang New Area."
-    publishedDateTime: 2023-06-05T08:19:00Z
-    webUrl: "https://www.digitimes.com/news/a20230605PD211/ai-china-server-ipc-cloud-computing-iot.html"
+  - title: "AI Chips: What They Are and Why Investors See Gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+    publishedDateTime: 2023-06-03T08:55:00Z
+    webUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
+      name: Business Journal Daily
+      domain: businessjournaldaily.com
+    quality: 54
     images:
-      - url: "https://img.digitimes.com/newsshow/20230605pd211_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/06/Nvidia-HGX-H100-module-AP.jpg"
+        width: 925
+        height: 520
         isCached: true
-  - title: "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance"
-    excerpt: "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat."
-    publishedDateTime: 2023-06-01T06:10:00Z
-    webUrl: "https://techstory.in/the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance/"
+  - title: "AI chips are hot: Here's why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make"
+    publishedDateTime: 2023-06-05T15:04:00Z
+    webUrl: "https://www.news-journal.com/news/business/ai-chips-are-hot-heres-why-investors-see-gold/article_6d44afb2-03b2-11ee-bc1f-e72181d9132a.html"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 50
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 54
     images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/NVIDIA-Logo-inside-at-angle.jpg"
-        width: 1920
-        height: 1081
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/77/d7709f22-03b2-11ee-a124-0bc30dd5c12e/647dfa9936f24.image.jpg?crop=1646%2C864%2C0%2C196&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Nvidia researchers use AI to turn 2D video clips into detailed 3D graphics"
-    excerpt: "Neuralangelo, a new AI model from Nvidia Research, uses AI to take two-dimensional video clips and turn them into detailed 3D."
-    publishedDateTime: 2023-06-01T13:01:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-researchers-use-ai-to-turn-2d-video-clips-into-detailed-3d-graphics/"
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
+    publishedDateTime: 2023-06-04T04:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/jun/04/ai-chips-are-hot-tfp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Interest in AI causes developer Nvidia to reach $1 trillion in value"
-    excerpt: "As investors piled more capital into Nvidia the chipmaker has become one of the biggest winners of the artificial intelligence boom"
-    publishedDateTime: 2023-06-02T15:54:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273852108/interest-in-ai-causes-developer-nvidia-to-reach-1-trillion-in-value"
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 48
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/06/03/AP23152002685626_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "AP: AI chips are hot. Here’s what they are, what they’re for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed"
+    publishedDateTime: 2023-06-03T01:02:00Z
+    webUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+    ampWebUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
+    cdnAmpWebUrl: "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: 92.7 WMAY
+      domain: wmay.com
+    quality: 46
+  - title: "AI chips are hot: What they are, what they’re for and why investors see gold AI晶片在紅什麼？為何它是投資人眼中的金礦？"
+    excerpt: "Such chips have suddenly taken center stage in what some experts consider an AI revolution that could reshape the technology sector — and possibly the world along with it. Shares of Nvidia, the leading designer of AI chips,"
+    publishedDateTime: 2023-06-05T16:01:00Z
+    webUrl: "https://www.taipeitimes.com/News/lang/archives/2023/06/06/2003801017"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 40
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/06/06/P14-230606-334.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Big Tech has convinced investors that AI is the new goldrush"
+    excerpt: "Investors rushing to put cash into AI based companies In what could be a huge bubble, investors are rushing to put their savings into companies centred around AI technology.  Time Magazine has reported that such chips have suddenly taken center stage in what some experts consider an AI"
+    publishedDateTime: 2023-06-01T09:33:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57006-big-tech-has-convinced-investors-that-ai-is-the-new-goldrush"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
     quality: 39
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1685591446215.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.fudzilla.com/media/k2/items/cache/a293d8e24c55b90b471899afc06ee65a_L.jpg"
+        width: 620
+        height: 431
         isCached: true
+  - title: "What are AI chips and why are they in big demand?"
+    excerpt: "Artificial intelligence chips are designed specifically to make building AI systems such as ChatGPT faster and cheaper. They have suddenly taken centre stage in what some experts consider an AI revolu"
+    publishedDateTime: 2023-06-05T12:33:00Z
+    webUrl: "https://www.firstpost.com/explainers/what-are-ai-chips-and-why-are-they-in-big-demand-12694922.html"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 34
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "AI chips and their leading designer, Nvidia, are now at the center of what some experts consider an AI revolution that could reshape the technology sector and possibly the world along with it."
+    publishedDateTime: 2023-06-01T18:30:00Z
+    webUrl: "https://omaha.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_b29fedbe-109c-55f5-96f5-b3b3303c2067.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 28
 
 secured: "1fbcMt8Wd+mU7Hs5EGHZHN2pJCJDYu0nqQdBU18+DZua3gDPHAit8Rqr/Q/FowCBCv2t/CQ9W84EgUi9/tTlxAj+mokOslcMMzxmFTD7jKvb04uzChjZN8wEhI1Y0BYJmpdEj0IIF12aToBtt6DwVM9YtlwQImKqa6GRuHppXUgP157n+bM5GBLcDoWgKvdiSa0Djn6oUVhXe9hL0iaJlMB0mDRazRhTi6Psc/WORp9tSWa+gKYkFkAbyigNLvaX3F6Re61MZST/aNZKE5FDor6lWiH4q+w3K5zCGUBLaUfCn1gCMrZ0AR1pKITRFHpaFRxtH8R9QnUetvia8NhhRNRAUz0Dsg6TLovCJR3/GsE=;VjEUJQ7/kNOyyDfgiBXXug=="
 ---

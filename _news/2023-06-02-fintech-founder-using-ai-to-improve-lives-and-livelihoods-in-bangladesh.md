@@ -25,6 +25,45 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore Regulator Says AI is Focus of Marquee Fintech Festival"
+    excerpt: "Artificial intelligence will take center stage at Singapore’s annual fintech event in November, underscoring the growing significance of the technology."
+    publishedDateTime: 2023-06-01T05:12:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/singapore-regulator-says-ai-is-focus-of-marquee-fintech-festival"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id_yFIvm7P3Y/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Artificial Intelligence to take centre stage at the Singapore FinTech Festival 2023"
+    excerpt: "Artificial Intelligence to take centre stage at the Singapore FinTech Festival 2023 Singapore, 1 June 2023… The Monetary Authority of Singapore (MAS) and Elevandi[1] today announced the theme of the Singapore FinTech Festival (SFF) 2023 – ‘Applications of Artificial Intelligence (AI) in Financial Services’."
+    publishedDateTime: 2023-06-01T14:49:00Z
+    webUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 53
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2023/06/SPO.jpg"
+        width: 624
+        height: 416
+        isCached: true
+  - title: "Singapore puts AI on the cloud to boost public sector deployment"
+    excerpt: "Dedicated cloud resources running on Google's platform have been carved out to to enable Singapore government agencies to deploy AI applications more efficiently and securely."
+    publishedDateTime: 2023-06-02T13:08:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-puts-ai-on-the-cloud-to-boost-public-sector-deployment/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 51
   - title: "5 Companies leveraging AI to transform the future of FinTech"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-06-01T07:03:00Z
@@ -39,65 +78,47 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "STrade GPT Revolutionizes Financial Trading with AI and Machine Learning"
-    excerpt: "By adopting the highly flexible technology of GPT-4 and seamlessly integrating it with their unique AI capabilities, STrade GPT proudly presents Fintech's first Dual Intelligence Logic Training Algorithm (DILTA)."
-    publishedDateTime: 2023-06-01T23:26:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/getnews-2023-6-1-strade-gpt-revolutionizes-financial-trading-with-ai-and-machine-learning"
+  - title: "AI to take centre stage at Singapore Fintech Festival"
+    excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi today announced the theme of the Singapore FinTech Festival (SFF) 2023 – ‘Applications of Artificial Intelligence (AI) in Financial Services’."
+    publishedDateTime: 2023-06-01T09:44:00Z
+    webUrl: "https://www.finextra.com/pressarticle/97087/ai-to-take-centre-stage-at-singapore-fintech-festival"
     type: article
     provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 35
-  - title: "3 Undervalued Fintech Stocks to Buy in June 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks have continued trading sideways since the selloffs in late 2021"
-    publishedDateTime: 2023-06-02T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-undervalued-fintech-stocks-to-buy-in-june-2023-1032367066"
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Here’s What You Need to Know About the AI-Themed Singapore Fintech Festival 2023"
+    excerpt: "The theme for the upcoming Singapore Fintech Festival 2023 would be ‘Applications of Artificial Intelligence (AI) in Financial Services’."
+    publishedDateTime: 2023-06-05T04:05:00Z
+    webUrl: "https://fintechnews.sg/74766/singapore-fintech-festival-2023/heres-what-you-need-to-know-about-the-ai-themed-singapore-fintech-festival-2023/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "AI Disruption in FinTech: Exploring the Impact of AI-powered Tools Like IndexGPT"
-    excerpt: "AI's use cases in fintech continue to grow, from data analysis to customer service. New sophisticated tools like IndexGPT are being developed."
-    publishedDateTime: 2023-06-05T10:35:00Z
-    webUrl: "https://www.techopedia.com/ai-in-fintech-exploring-the-impact-of-tools-like-indexgpt"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
+      name: Fintech Singapore
+      domain: fintechnews.sg
     quality: 34
     images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/02/benefits-of-cloud-computing-3.jpg"
-        width: 810
-        height: 432
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Heres-What-You-Need-to-Know-About-the-AI-Themed-Singapore-Fintech-Festival-2023.png?x90673"
+        width: 1024
+        height: 567
         isCached: true
-  - title: "Generative AI Is Moving Into Adtech. But Which Companies Will Stand The Test Of Time?"
-    excerpt: "Generative AI is bulldozing through every industry possible, including advertising and brand marketing. And VCs have some choices to make."
-    publishedDateTime: 2023-06-02T11:00:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/generative-ai-adtech-venture-funding-startups"
+  - title: "Fintech disruptor Saphyre makes smarter trading simple"
+    excerpt: "Stephen and Gabino Roche are the twin trading titans behind Saphyre – the AI-powered tech company that is revolutionising financial transactions"
+    publishedDateTime: 2023-06-02T07:50:00Z
+    webUrl: "https://fintechmagazine.com/videos/fintech-disruptor-saphyre-makes-smarter-trading-simple"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 30
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Fintech On-Premise AI startup HaiVE Submits Proposal to Form Tamil Nadu Artificial Intelligence Alliance to the Secretary of State for IT"
-    excerpt: "HaiVE, an on-premise AI Startup, has announced that the Tamil Nadu government has accepted its proposal for an AI standards body – Tamil Nadu Artifici"
-    publishedDateTime: 2023-06-05T10:26:00Z
-    webUrl: "https://www.indianweb2.com/2023/06/fintech-on-premise-ai-startup-haive.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 21
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht9yxyY5RlPnfmJSA9JDN2NT_VUE7rWO0p_ZmhrU_imROZW6iAva1RwCoV7iXI64yJcm26TNjvWGKqudQRd7p5IhiuJ6abcFiuWVE1XBO2CLzef9OLNkZjYGilObUGo_rLchoz8IBAq73cdz_JshUNWjRYpe3iM7AfsIUsl-9yEaZYXFXU6kNuC1nV/w647-h633/Deepika%20Loganathan,%20Co-Founder%20&%20CEO%20of%20HaiVE%20submitting%20a%20proposal%20for%20formation%20of%20a%20standards%20body%20for%20AI%20to%20Thiru%20J.%20Kumaragurubaran,%20IAS%20Secretary%20of%20State%20for%20Information%20Technology.jpeg"
-        width: 647
-        height: 633
+      - url: "https://assets.bizclikmedia.net/1200/cda2db3002935d3a1a765aba1db2a6db:e704ea27743d6bd8d28806a905df0a50/maxresdefault.jpg.jpg"
+        width: 1200
+        height: 631
         isCached: true
 
 secured: "lXNR5PHzyO4StymV0zmcsPRHYUn8ZxlDTaGzaQBEyHuL0itWus3p+Ur5uJe4AonNwrDPiygtYUODrilhhxfRF8ezLZw3TmR8UFPTdonZdBapKXFuEBORTxIawUPFUMimd7eG1/N47qdQXQkW0X21n1gB7hGueMzuT1E2S9DP50cMtmAfxsIsEwhdknVwpa/dGsptomlORgkq3VRjTal3yUmTpz268DTYyKrHpDL9qeWxkLZGyF/ZNYXKsLlkxajFUOnZgEBXyAYhz5UeogglyweI+0TOd769TP49fgzFv+jevO0gvPdAeTtRIfWYf1INeQDowbVtvkS1IjjMXaOmqdu5v5JLCAcNnjS8roYIM1xS3Ow7zTcmrOCiSW2Eu3OI227lBoLSPj2MValHIpp8qopCmQxBoYK6irwjkn4F8n+u27xyp4Zbk0OnxvBB0y2/r1gs8OFWQ6d3fEMi/V9CBvsWl3ElUhbsFzVho4h9ZjynR5eM3d2NgmTMtNkJB52a5hAKrIQhHNq+ax8JCSxrAw==;m8bdypKh8jrxYVwpK72How=="

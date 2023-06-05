@@ -37,6 +37,24 @@ related:
         width: 1018
         height: 510
         isCached: true
+  - title: "Train a Large Language Model on a single Amazon SageMaker GPU with Hugging Face and LoRA"
+    excerpt: "This post is co-written with Philipp Schmid from Hugging Face. We have all heard about the progress being made in the field of large language models (LLMs) and the ever-growing number of problem sets where LLMs are providing valuable insights. Large models, when trained over massive datasets and several"
+    publishedDateTime: 2023-06-05T19:01:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-a-large-language-model-on-a-single-amazon-sagemaker-gpu-with-hugging-face-and-lora/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 92
+  - title: "Use Amazon SageMaker Canvas to build machine learning models using Parquet data from Amazon Athena and AWS Lake Formation"
+    excerpt: "Data is the foundation for machine learning (ML) algorithms. One of the most common formats for storing large amounts of data is Apache Parquet due to its compact and highly efficient format. This means that business analysts who want to extract insights from the large volumes of data in their data warehouse"
+    publishedDateTime: 2023-06-05T19:43:42Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-canvas-to-build-machine-learning-models-using-parquet-data-from-amazon-athena-and-aws-lake-formation/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 76
 
 secured: "FrgvXgXua2jejxNpZO+WKvvj5ra1TsdgNKurI7v64mvbpqugShD4rhLM7/CTX+MpBZqe2FQrLhD9JozlBeAB6k08Tabw6OVI3ZbqOuTt2D+OZUgZT4qBUu8gk/Ah1IUxDlSg1WaOJp76aBYTZCcNyaZIivOhf0FmPf/vNM77M/S6cYH7Rd0vk2OYh+e0yfAgkE6F9mCusFWRm0kBakIMhKuM+EU5cvYhHmsBQ1/XU/AMh5rUXZgNfISJ87tJhktwAUGahdFBq1vCdNY34WHIgLD0lDHV5rxPniPtrOqUoT7j7qADYfIbnsCLOjKdX6iTtm3smsMWaeOlZxDGfgXv28CJ4w2TLz5l+mcREDAX+rE=;wKkVaqb0eEIga/VNZCJg1Q=="
 ---

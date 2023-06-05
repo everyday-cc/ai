@@ -20,6 +20,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Voice model result of 10-year process for constitutional recognition of Indigenous people"
+    excerpt: "The proposal for an indigenous Voice to Parliament is the result of a 10-year process which saw other models of constitutional recognition “strongly rejected”, says Indigenous leader Noel Pearson. Mr Pearson said constitutional conservatives are on board with the current model after initial rejections of earlier ideas."
+    publishedDateTime: 2023-06-04T09:42:00Z
+    webUrl: "https://www.theaustralian.com.au/news/voice-model-result-of-10year-process-for-constitutional-recognition-of-indigenous-people/video/5946cfeec2fee39766ad59616bff177a"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
+
 secured: "J3CauvY5cZ0w0B1R25t+Xt2JI9hPdKWyWbD1lxmPqiJUevVTgocb5R82oJG5JIjpYKkgvjGKz29AIdNtQWMMM271ccWQ2YAWy9eqDoZt3kSXw7K6+Ztvr/Hdsz8qgJhNWneau5yaI+7AOO02dQHBRIqA180ayB3tlKnGET5KCKih6TrDZecvkCwZFR+830Rzyhe73F6hEqbfMVTBA7VySLOYzp5o5CY/A/G5DkupINifkzFSDZT28ftVIxSvbsgqtZrBqTCLmhLJ3Arby3vuu+6zxK0//Kyk8aNf3NmqMolHvOl+xACk3FtL71f0BN12GppRYxz5xMh5KjjpVVrHEkLrnGm9R5TGLMaOmSfVaAcXaVhYlktzqil7hOZI79b7ohEeMsaMMofNH8IruGkN2EPSqep29yA3uWgEbg0Jbm0MJ0+5X2ql69BS9rTr9Ww0YjZ1w1ig4DaakpRwScpU74GVm+HFzLrbl0ViqbHNOdZeF4XaxohwZUByFkq6+zrJ9pX+nVUQo2fk8K1tVCTBAA==;sPno5dv1zLLsZlpJoW4TBw=="
 ---
 

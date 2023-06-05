@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/kamala-harris-trusted-ai-regulation.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/kamala-harris-trusted-ai-regulation.amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Artificial intelligence is used widely, but few states have set rules"
+    excerpt: "In the fall of 2016, the Connecticut Department of Children and Families began using a predictive analytics tool that promised to help identify kids in imminent danger. The tool used"
+    publishedDateTime: 2023-06-05T18:00:00Z
+    webUrl: "https://www.kpcnews.com/news/national/article_f78a030a-e45d-5715-9e21-7e8250e90679.html"
+    type: article
+    provider:
+      name: KPCNews
+      domain: kpcnews.com
+    quality: 19
 
 secured: "KdfualWFfLUEdunvYrdZsOtg95oNM6lC2mfYw1ERxdD7oimY05If8y7MZ9YGrbSAlTLUkxkBn3h+oDzN9PxfQhAmHtpBM5cyOF9gd7ZPOxyKNeRbug4QiZgPqNwpaI/HqVVtmVWg4hYrgy4BHxHjrgK+jf9EV+mlMbHFY030kOZgB8nE4CPSUXsm/ii0b5dw0eFxP8nZwngrWSYTj6EnZG5jxxeWrsKGSabXRqxL+O2Wy6PTPVKrmDy72YSAwhcKgPfugzRL9/53sAhEJyXl1hYehE/ySZfZfsrLCWSvwMNCfjbaeQX9PcbLcIrU1B/joX0qL5TBCLca5IPer09qydlrjleS6/vrLYb4VqBIuU2PhTE5sb7uTlUNgZxCBQy3D9jniCCeKujERnI9xL4qUy5KJA61NuYtgufmDvDw2Irk8iO2CG2sxtBNs3y6cdaX+aw1JcFo8X9a2uTeOi5MLcgGMhRGFIjMHdgZerWHz5ZVpzHYyThyVGHchZjciQOiV6C1kD2Rl62hYQ1eSvHLQQ==;W3RSdOJw/KLBIvyZTl/oAw=="
 ---

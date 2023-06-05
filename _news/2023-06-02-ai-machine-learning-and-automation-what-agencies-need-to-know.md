@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon SageMaker Automatic Model Tuning now automatically chooses tuning configurations to improve usability and cost efficiency"
+    excerpt: "Amazon SageMaker Automatic Model Tuning has introduced Autotune, a new feature to automatically choose hyperparameters on your behalf. This provides an accelerated and more efficient way to find hyperparameter ranges, and can provide significant optimized budget and time management for your automatic"
+    publishedDateTime: 2023-06-05T19:36:19Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-automatically-chooses-tuning-configurations-to-improve-usability-and-cost-efficiency/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 40
   - title: "8Flow.ai Announces Self-Learning Automation Engine for Customer Support, Raises $6.6 Million"
     excerpt: "SAN FRANCISCO / ACCESSWIRE / June 1, 2023 / 8Flow.ai, a startup focused on analyzing and automating customer support workflows, has emerged from stealth and raised $6.6 million in funding. The round was led by Caffeinated Capital, with participation from ..."
     publishedDateTime: 2023-06-01T15:26:00Z

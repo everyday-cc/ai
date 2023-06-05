@@ -5,9 +5,11 @@ excerpt: "The main types of image recognition in retail are code recognition, di
 publishedDateTime: 2023-06-01T22:21:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32682999/image-recognition-in-retail-global-market-report-2023-increasing-use-of-image-recognition-applicat"
 webUrl: "https://www.benzinga.com/pressreleases/23/06/n32682999/image-recognition-in-retail-global-market-report-2023-increasing-use-of-image-recognition-applicat"
+ampWebUrl: "https://www.benzinga.com/amp/content/32682999"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32682999"
 type: article
-quality: 0
-heat: 0
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "OtSvqaZgzPkW8gJqtirF2CenUnNKi7Czcl9QlW/LP8zHxVWpX3W6Ein4ntsIQBTjmuBbDvRYU9uFSigjsrVKdhqU+2CReXR9HMBniT+hKtKo5FXiFw5y0DUFcGyMO3VPeBnC/tBQ5egZMJKA7IQ8GgLdDdZ2PiYFpGw/+Z5G4zwLsVvLxmwgU4QKVhVnBd8pcCfRKNZiNDmykjKw/GIWZmhYwt5PFRRE6wdHo0sXFctBQhiiZBtumCCzHTxY54juhovVfS7T8mSmUrpKiH1rXnONkL7XTd08Uod3pm/iqigJ5XYyo4aPCtOjc9SxSvYssp2MI/AMPGmz0v0uLHbBZVLAbI3TY7npGeBRe0GdaQI=;jPvqrXxpH8gpHfwLDYKwCA=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "DBS3XfySTJ/Phi4YqSXZ1hWVa5laWdeJJSbSuhgQHC2UOfKmUT/Q+JLS8wtdZAZr6PkjjX6kYD3f67KubxNbM1LJhIjF8OaLcRWuChORGIO8go4Gjj1POdH8Go+KHxH+uYVLkfEEBaLRpop52PTgl8jc0eHxXwjTI6CvhLDOsIo6rqfRmKBogu9GzeLxGpznZ5v3mG4eAlvoSSh3HE0/RolxxZRkMzMG3DprVOEnQCLmmdxPBFi9mMLE4h97khvu9NBYtKz4VrQVCTZ0bzqreOtz7323S3y2dUimukfctA5xfLV08YV8CN6SGlTN5gBVxSTfQesfqmm4hO9PfJzAqJYN6Jn11L9tXhrwZOqf8JY=;o7QBXl3iBNHCiLN04x13cw=="
 ---
 

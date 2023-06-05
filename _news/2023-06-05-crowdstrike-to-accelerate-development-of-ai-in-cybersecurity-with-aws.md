@@ -37,20 +37,6 @@ related:
         width: 900
         height: 430
         isCached: true
-  - title: "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS"
-    excerpt: "CrowdStrike has said that it is working with Amazon Web Services (AWS) to develop powerful new generative AI applications that help customers accelerate their cloud, security and artificial intelligen"
-    publishedDateTime: 2023-06-01T03:34:00Z
-    webUrl: "https://www.smechannels.com/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws/"
-    type: article
-    provider:
-      name: NETGEAR
-      domain: smechannels.com
-    quality: 54
-    images:
-      - url: "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2023/06/Raj-Rajamani.jpg?fit=610%2C349&ssl=1"
-        width: 610
-        height: 349
-        isCached: true
   - title: "CrowdStrike to accelerate development of AI in cyber-security with AWS"
     excerpt: "These include both cyber-security-related generative AI applications, as well as cloud-plus-cloud security solutions."
     publishedDateTime: 2023-06-01T13:07:00Z

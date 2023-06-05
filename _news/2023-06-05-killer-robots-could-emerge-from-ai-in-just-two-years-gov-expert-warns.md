@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/news/politics/22586259/killer-robots-could-
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: Bow Doin Polar Bears
       domain: bowdoin.edu
     quality: 34
+  - title: "AI could outwit humans in two years, says UK government adviser"
+    excerpt: "Matt Clifford, chair of the Advanced Research and Invention Agency, says AI is evolving much faster than most people realise"
+    publishedDateTime: 2023-06-05T17:41:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/05/ai-could-outwit-humans-in-two-years-says-uk-government-adviser"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "q8qVYmNxhM888CbGux7OWmEJquzGlrWtwMXxRuuKUw1/zB57bJfblx2+NEWTk4OE/T/WJPZldSCPh+Xo3bFEGme6EF3DTDNraBvHYhPq/nWp03Sh6RZ49ZaYoKEJ457D/eeiLhoHhiJKSS6bWYPLgkA4+xWAL79S7TTRl2CxJgCwB82MX5oRMhzJsrcoHGlu6dIkmktPQSqCqVoabzUOHAJ91FxYxvbIze7bTRNsLYBpgJ1ATUBj6S0lLvj/iS4C8a9YTXS945hHZFUESAWG7VfEOloNBPSYT0giTfwDGch+ivBGky1P/9tdaytLfHkBf4dYLx2LaT6aglqdqV3PxixQXP2TnO3z8Jxa2SQ2f04=;SWIAmeytbIqWxxXrFL+SOw=="
 ---

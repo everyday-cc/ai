@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 680
         height: 879
         isCached: true
+  - title: "Opinion: What AI means for healthcare leaders"
+    excerpt: "Generative artificial intelligence is a hot topic these days--the ... tech firms and teenagers have found novel uses for AI to improve our lives. Thousands of healthcare AI applications are available for drug discovery, clinical practice, supply chain ..."
+    publishedDateTime: 2023-06-05T19:07:00Z
+    webUrl: "https://www.modernhealthcare.com/opinion/generative-ai-healthcare-leadership-uab-christy-harris-lemak"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
 
 secured: "xQffv3Jt2lo+avD8VJ9BNxsIdcza0na7qtvrYfS+BK+Gbm5BvT0Jm0wBL+smHEf/Be82PBIi/L2xM9kmGDDwg6mJ6sql/IfCs0LiVVWvcHQ14B4o6CnxgNGuJ3/8mKejJ1BR3hkNtzeMWgpxJZT7L5nUST9bgzjmUKpQU7P6N7uhrZwtFUVGyUcTmmxBy+z801KIfdRWBNEzG6iSnmSB8TEQoFeD8GxOm00B9nJBsl2GlA9MEVNxJ5KqpLMfDFzcLMwJ/jK2SLLe/gNMkzcbVgW2R86jV4+ZjvXnCwmRdONz1ZUtzdBAwXVmKpQS/T0WLbatwYtd/nGLOVqvJRJYlNQ/6uuJkzMtSWfZoKmMwDI=;/2/ql3qyezbvmiWOfOmkCQ=="
 ---

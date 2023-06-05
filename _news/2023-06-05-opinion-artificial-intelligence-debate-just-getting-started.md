@@ -137,22 +137,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Analyzing artificial intelligence after calls for regulation"
-    excerpt: "Dozens of industry leaders are calling for artificial intelligence regulation, warning it could lead to the threat of extinction."
-    publishedDateTime: 2023-06-01T02:49:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 57
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/28abd6a7-6cc2-4f13-b9aa-3fc5e852fd83/thumbnail/1200x630/a7541c193cdf5136fedbe7569278ac01/snapshot-44.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Apple is accelerating hiring efforts for generative AI engineers"
     excerpt: "Apple is again recruiting for Machine Learning engineers for both Apple AR and \"Conversational and Generative AI.\""
     publishedDateTime: 2023-06-02T11:12:00Z
@@ -212,20 +196,6 @@ related:
       - url: "https://pctechmag.com/wp-content/uploads/2023/06/Gitex-Africa-AI-discussion.jpg"
         width: 1600
         height: 1024
-        isCached: true
-  - title: "Tech leaders call for more AI regulation and 'some degree' of industry coordination"
-    excerpt: "The need for a standardized approach towards innovation in AI is fast becoming an urgent matter. AI is currently causing havoc everywhere from plagiarism issues in academia to winning the World Photography Awards back in April,"
-    publishedDateTime: 2023-06-01T03:35:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202306/01/WS6477fbd4a3107584c3ac356b.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 33
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202306/01/6477fbd4a3107584e594749a.jpeg"
-        width: 720
-        height: 480
         isCached: true
 
 secured: "S9XIojcUGcVsp9ACdj2EM2Yv60LykOKz0VTcU8VKfpoMy25uA0l/UJF+HGA1GNxhKffjbyySFYkQ84TBw+iTEVLdHuBE0MetrguQB+IsGnwNMneej2PNDlQARFPEKhFmKErQ4pQldTpD81KgkKwmijBZdSVRlHngYxNCrma3mwak6M6etkAVU2RZCb4Wqot/cxKHiy4VjgJ9P4FnC4wZ8hmbtdHbPANYIcLFvxq6J/17hz3FIW4XUuo3evr15aowjKWMnXNiYuXMK3hyzYCZ3TNFG3CKDabBnXSnp8WfTPxJ/JeVbQpxTNRwlAnV2H0vnFrd4PyE591KzOZxSwU7+KqkigoAex6cbnHA6nwv7k4=;a/B2VFnkQS0gE3EukadsZw=="

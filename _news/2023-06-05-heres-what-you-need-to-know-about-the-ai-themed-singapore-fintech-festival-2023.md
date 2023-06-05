@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore's Central Bank Partners With Google to Explore AI for Internal Use"
-    excerpt: "The Central Bank of Singapore is partnering with Google’s cloud unit to explore potential internal use cases of the burgeoning artificial intelligence (AI) space and advance the development of innovative technologies in the Asian hub,"
-    publishedDateTime: 2023-06-01T02:30:00Z
-    webUrl: "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/"
-    ampWebUrl: "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/amp/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 71
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2020/04/imageForEntry16-Xbo.jpg?w=400"
-        width: 400
-        height: 224
-        isCached: true
   - title: "Singapore Regulator Says AI is Focus of Marquee Fintech Festival"
     excerpt: "Artificial intelligence will take center stage at Singapore’s annual fintech event in November, underscoring the growing significance of the technology."
     publishedDateTime: 2023-06-01T05:12:00Z
@@ -80,6 +64,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 51
+  - title: "5 Companies leveraging AI to transform the future of FinTech"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-06-01T07:03:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-companies-leveraging-ai-to-transform-the-future-of-fintech/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/ibs_Artificial-Intelligence.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "AI to take centre stage at Singapore Fintech Festival"
     excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi today announced the theme of the Singapore FinTech Festival (SFF) 2023 – ‘Applications of Artificial Intelligence (AI) in Financial Services’."
     publishedDateTime: 2023-06-01T09:44:00Z
@@ -94,17 +92,34 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Singapore FinTech Festival 2023 to explore applications of AI in financial services"
-    excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi have announced “Application of Artificial Intelligence (AI) in Financial Services” as the theme for Singapore FinTech Festival (SFF) this year. SFF 2023 will focus on the growth and adoption of AI and how the technology can be potentially used in financial services."
-    publishedDateTime: 2023-06-01T04:14:00Z
-    webUrl: "https://www.theedgesingapore.com/news/fintech/singapore-fintech-festival-2023-explore-applications-ai-financial-services"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/news/fintech/singapore-fintech-festival-2023-explore-applications-ai-financial-services"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/fintech/singapore-fintech-festival-2023-explore-applications-ai-financial-services"
+  - title: "Fintech founder using AI to improve lives and livelihoods in Bangladesh"
+    excerpt: "Women in Tech Excellence Rising Star of Financial Services awards winner, Shabnam Wazed is shaping fintech, using AI to make financial services more inclusive."
+    publishedDateTime: 2023-06-02T09:31:00Z
+    webUrl: "https://www.computing.co.uk/interview/4117005/fintech-founder-ai-improve-lives-livelihoods-bangladesh"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 33
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/d87be48/eabf10b8-256a-43f1-8809-6fdf5f835566/7/Wazed-1-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "Fintech disruptor Saphyre makes smarter trading simple"
+    excerpt: "Stephen and Gabino Roche are the twin trading titans behind Saphyre – the AI-powered tech company that is revolutionising financial transactions"
+    publishedDateTime: 2023-06-02T07:50:00Z
+    webUrl: "https://fintechmagazine.com/videos/fintech-disruptor-saphyre-makes-smarter-trading-simple"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/cda2db3002935d3a1a765aba1db2a6db:e704ea27743d6bd8d28806a905df0a50/maxresdefault.jpg.jpg"
+        width: 1200
+        height: 631
+        isCached: true
 
 secured: "jpBgt992MDMKdrTGMx11/sg/FOQmT1waLXBViCzo86G6kpCc+8bJFbsDBN9VQNvNTxrdLq8L05lQhRWZ8NwQl/FrYBfKEUPsPDtpLsisLWXj6TgMw+/cDC4FmrbSjSkN1LcTO1P9K8xZQi9pjXLOaAq53PLxVs7qifcvuL9hVdxJquJXGJhuitU6WCai9JIZ6Tq0DunK7c4tjiqIGvGpb1qCzNFdCDWnfl35YNvpk2VdtmWcOXV74L1kXV8bxvl6JbSrvUvnd+i4rdTIQdRsinFEgs49auXZONsq5k9dIXFjRiFD5nb9XbHiNCrL4zBPaq8+bli+sNCy10kDMs4wBLSRNmo5QPkTp24llG/86nt+3BShP6Luf+C4AIGpOaC6vHNWuqS7Vmh/1SURPQaYxmMLy239pHnwuhJTf4BW+MZnz6/oDSf2/YK5NZ5DEr2VM7ujoPvURMzoICMYlr0YXHmjPEDHqB3FkQ2CJPJIMo4WITeBAlw120y5rbem0KWVIY2j1KVnOTQLjJCQmUjDIg==;MaPdN8lY1aJJMf3vRjatWQ=="
 ---

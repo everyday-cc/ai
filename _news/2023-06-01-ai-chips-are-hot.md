@@ -25,67 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Fears Of AI Are Greatly Exaggerated"
-    excerpt: "Of course there are the usual worker concerns about wages, but fears have also been expressed of how ChatGPT and like AI applications will replace writers. Apart from Hollywood’s concerns, there are also more widespread job fears."
-    publishedDateTime: 2023-06-02T13:33:00Z
-    webUrl: "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/"
-    ampWebUrl: "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/"
+  - title: "Tech Slips as AI Optimism Fades -- Tech Roundup"
+    excerpt: "Shares of technology companies slipped as optimism about a new wave of artificial-intelligence technology faltered somewhat. Palantir Technologies rose"
+    publishedDateTime: 2023-06-05T21:06:00Z
+    webUrl: "https://www.marketwatch.com/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6107edfcfc8e877cae7a6fed/0x0.jpg?format=jpg&width=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 789
-        isCached: true
-  - title: "The 15 Biggest Risks Of Artificial Intelligence"
-    excerpt: "There's a dark side to AI. Learn about the potential negative consequences of this transformative technology and how we can help ensure a safer and more balanced future."
-    publishedDateTime: 2023-06-02T07:07:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647994d97ff0e466a60e1090/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The “death of self-driving cars” has been greatly exaggerated"
-    excerpt: "Seven years ago, hype about self-driving cars was off the charts. It wasn’t just Tesla CEO Elon Musk—who has been making outlandish predictions about self-driving technology since 2015. In 2016, Ford set a goal to start selling cars without steering ..."
-    publishedDateTime: 2023-06-01T11:00:00Z
-    webUrl: "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/"
-    ampWebUrl: "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 74
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IPACE_3-800x533.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "3 artificial intelligence share ideas"
-    excerpt: "Investing in artificial intelligence (AI) has become a key stock market theme in 2023. Here are three share ideas that could benefit."
-    publishedDateTime: 2023-06-01T16:23:00Z
-    webUrl: "https://www.hl.co.uk/news/articles/3-artificial-intelligence-share-ideas"
-    type: article
-    provider:
-      name: Hargreaves Lansdown
-      domain: hl.co.uk
-    quality: 39
-    images:
-      - url: "https://www.hl.co.uk/__data/assets/image/0004/18673762/Graphic-lightbulb.jpg"
-        width: 5150
-        height: 2508
+        height: 630
         isCached: true
 
 secured: "dE8y/uyyuQ3muAegKz9YUIENgO5ijLAKqyhBLdx/esF746eZcv7JS1DWj+zmExeAKzWmknYtxBCH9Hje4xfCZ/ThXeBqwGzptYtZ0u/CdBx9HHDTpvrT3WpZY9mgwErEg9Kt9odQZqVEQd7R5/Zlo+zbM/idbwuhmrNCz9o6f3tlZOdZJJenqWhCtkWnDVtlLkwimGHmjctX+d6MJ1/TQ98l9CnCto0QJOg7fLXqcFVDTkpuu0c35ZSIMWXgBjcZA25MPJK6d6nZba2fpvXkJaoaTTGQ4s2udx6yuyoUn8AIzBVzRQCGRGbyI/Fbghqd0XCGgHUHUmhw40paPP8arV+CzOaaQafoF7GqllgW4F7+Too4EWNYIm7niOFav9cuOZSmrMkghWAP65FR3lh2F7ZibWQ0EqXF7XxWpnCXpYIXHY1JuAfpM4gkJqfe08PZEtc+LlS8r9Pd5RCfpcZkMHYq0F2rMNzajcGgKsTby5y9gLHRJLYPpekjUjiVy6x08ghJD4QlKCEU46V/I9NidA==;b5W1rDO33ARxJdrdCZqMTA=="

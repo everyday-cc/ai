@@ -193,6 +193,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 9
+  - title: "An Air Force Colonel Said a Simulated AI Drone Killed Its Operator, But the Service Is Denying It"
+    excerpt: "The Air Force has denied a widespread account that one of its killer drones turned on its masters and killed them in a simulation. The story, told at a defense conference last month, immediately raised concerns that artificial intelligence could interpret orders in unanticipated—or in this case,"
+    publishedDateTime: 2023-06-05T19:13:00Z
+    webUrl: "https://www.popularmechanics.com/military/aviation/a44078557/air-force-denies-ai-drone-killed-its-own-operator/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 6
 
 secured: "WBXf4rrqBtEHSC90FpYxbw0lt3hxy4tQ99aoZEhZcm6c6/UNgQvLckWzSu12JSeNq9mVropudMsnINkvsMeXxxu5rhdwL9QHXD8iYTAxLB3ApuI0ZTQbZECAU5ubbzJ6dPtetTEmanuQzzV6EbrdtJ13mltyFLngDdni/Wtb92X2I+kBMPMjE4XgQJYfWemWi8bfJGGu0qHluXq+n99DAeQQObo6Yg3uVIpIz1GxAJaO9IP+8Pc5c8nsTDY+S41Xm/qcpcG78F5nQBz4Pr7PmCAnHHbje+gJB1OBplWRdXjbOn65XdEkMI6r3IApILmpKuu0ShGGL6qRcyf56clVuvi3Np8TeoVDavRF0PzDjYc=;gEZv7oiWAI9i9ZFp39o53Q=="
 ---

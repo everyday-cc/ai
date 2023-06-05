@@ -51,21 +51,14 @@ related:
       domain: dqindia.com
     quality: 56
   - title: "AI-Powered LetzChat and Managed Health Partner to Revolutionize Language Solutions in Employee Benefits"
-    excerpt: "Are you ready to take your business to new heights and break down language barriers like never before? Enter LetzChat, the revolutionary AI-powered language translation tool that operates live and in"
-    publishedDateTime: 2023-06-05T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/r32720552/ai-powered-letzchat-and-managed-health-partner-to-revolutionize-language-solutions-in-employee-ben"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32720552"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32720552"
+    excerpt: "LetzChat, a leading AI-driven language translation company, is excited to announce its strategic partnership with Managed Health, a prominent employee benefits"
+    publishedDateTime: 2023-06-05T17:02:00Z
+    webUrl: "https://www.sfexaminer.com/ap/national/ai-powered-letzchat-and-managed-health-partner-to-revolutionize-language-solutions-in-employee-benefits/article_65af1241-7b7d-5910-adfc-9963d9c0fec0.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 3
 
 secured: "+Clkn4D/0Wr2gEt/DeXu992f2VaFlDolEr3t13lbRdmRpYacOsbVbdlpYUeouyVdf7xFYNpJb5C9YJS6oWRB6kH5oW+zmdt6hFl/BWWolIm4/AVaT14zYmwgKZNhUVxZ+ot3fFRzXFDKOMncBPbVaP94t6/nGIXASeIabiHH3/bw7XgNoLOP0lIFGdscSVXmeRtr3IjxY9/+QtOkQ645kwJhz04sLFjs9p0KdCS5fuxV3nDYNEEAzgJ/GRlFleCsfub0PELIKHNp9iT0janwwf0v2e458SfFvmN6SE+Flb3Jx2U2eINNWFu5pvZtAS6Bv1uPJrQ99GpA8pKgWCBTZv7KvfI77tzO8/zq4FtoMSI=;86oo3NPxI7AbCZmumUhFug=="
 ---
