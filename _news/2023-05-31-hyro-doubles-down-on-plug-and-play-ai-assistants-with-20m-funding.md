@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-a
 webUrl: "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647765a27cd337408abdbfe4/0x0.jpg?format=jpg&crop=3823,2868,x0,y729,safe&width=1200"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Hyro, a conversational AI startup for enterprise, raised $20 million in new funding using this 15-slide pitch deck"
-    excerpt: "Hyro, an AI tool for enterprise users like healthcare providers, has brought in new funding to build out its conversational AI products."
-    publishedDateTime: 2023-05-31T14:00:00Z
-    webUrl: "https://www.businessinsider.com/hyro-conversational-ai-for-health-raises-20-million-funding-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://i.insider.com/64774869085acb0018fefaa1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "AI-Powered Hyro Raises $20M to Advance Responsible Artificial Intelligence-Enhanced Communications for Enterprise"
     excerpt: "Hyro, which claims to be the leader in plug-and-play conversational AI, announced that it has finalized a $20 million Series B funding round."

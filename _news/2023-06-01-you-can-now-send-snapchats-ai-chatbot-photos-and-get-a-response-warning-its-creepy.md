@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Snapchat launches a new generative AI feature, ‘My AI Snaps,’ for paid subscribers"
-    excerpt: "Snapchat today announced the launch of a new generative AI feature that will allow Snapchat+ subscribers to send Snaps of what they’re up to in order to receive a generative Snap back from the in-app chatbot,"
-    publishedDateTime: 2023-05-31T13:29:00Z
-    webUrl: "https://techcrunch.com/2023/05/31/snapchat-launches-a-new-generative-ai-feature-my-ai-snaps-for-paid-subscribers/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 41
 
 secured: "Je5ntxkDYWy1UDp8ejtuy80c7LPiRlexhw37BqOZmKRObTr2KVJuZ5IqcQ8vrY010UPGxl0cyukWfM1D+zzZfpjfoe6z/yOZxO17fp1duJ8GUZ6G7d7MobS0oEmqHL7O7vlFrHQ3JuMrZkX4uDn97DFueBxAaLII5+UK8FhAxpDu8V2JLhBp7T2IGzKIwE4xMUE7Z/bJGIhen/MRku7uJ/em0LcSgWj8oFv3CghTG13rMAIHJrlpeyaqPmc7cqi3HJicTgrO+dM/6LVkQ1l83nhh4ZaUPZeo7MEjwpIpfNBmYCykFB7CXtSCSh5bBj0+CnG6rpD92zowA8bq0pAvopQ3asec+ACzNK2VOwoVs5X3G9SC/PE2qpZV2OL9xNmvYx5JODxJ1nikDymIbeWEm/nNzZ3ocqSRssTgezH13O3h2zsUXZkb2lnRt81GhOg6b2Q1VL6mqKaESLtxIpX5BPqtj8G/XsrxoYybT4xC6UlG6N0Bdok24w639JNy74l8IlIdd/6g90Y9WyU/kZDFUQ==;VBvz3LVI94CxdpStDx1PoA=="
 ---

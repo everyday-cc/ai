@@ -205,20 +205,15 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Methane-cutting genetics research and disease-preventing AI project among Farming Innovation grant winners"
-    excerpt: "Ground-breaking research that could advance the UK dairy industry’s sustainability and efficiency is being funded through Defra’s Farming Innovation Program."
-    publishedDateTime: 2023-05-31T14:59:00Z
-    webUrl: "https://www.dairyreporter.com/Article/2023/05/31/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners"
+  - title: "Opinion: Artificial intelligence debate just getting started"
+    excerpt: "Fueled by rapid advances in artificial intelligence, tools enabling the exact digital replication of voices of celebrities and prominent figures are fairly commonplace online. Known as “deepfakes,” these creations can be practically indistinguishable from an actual person speaking."
+    publishedDateTime: 2023-06-05T07:06:00Z
+    webUrl: "https://www.ctpost.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
     type: article
     provider:
-      name: Dairy Reporter
-      domain: dairyreporter.com
-    quality: 21
-    images:
-      - url: "https://www.dairyreporter.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/dairyreporter.com/article/2023/05/31/methane-cutting-genetics-research-and-disease-preventing-ai-project-among-farming-innovation-grant-winners/16456604-1-eng-GB/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners.jpg"
-        width: 750
-        height: 500
-        isCached: true
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 17
 
 secured: "qz93u7MIjWDu5xWXHtevZqt7FbhVyIuciVAyou9QNKjsXsPJYlt+DRnw1B0Q+Em18zyQL03vHcTWHe7Osb6UJ9rHM+DxuS99Gt+4P0X9VKvd+UPzOCML5ZsEMNEvHDdyjpMoJ3vXJSzaqPAOnPjfaVjdfoO2i+rLiWgRvb9/LG5Uy6Ob7aVoJGGaqG48LUGFDsgwyrGql3Ol1VyWKTgqLrdpMHEzN+yIip4y45taLpCqNSCzTaiLMm0Yj8y4dA3gm+8deggD3H8+ltp2p6v4UasftQg3Y7g5Sy49au7hjepDy7CJHMIYQe0SaZbVKpnYymagXM0yg1qM9RCDgfFAQYW925Sspl1b0sw5nD1Hs9Q=;K4ueGy21iVL34WlPfqu8Tg=="
 ---

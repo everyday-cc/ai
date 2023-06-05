@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1440
         height: 969
         isCached: true
-  - title: "Innodisk empowers smart factories with NVIDIA AI and Metropolis Platforms, and Aetina's SuperEdge AI Training Platforms"
-    excerpt: "Innodisk is collaborating with NVIDIA and Aetina to bring the latest artificial intelligence (AI)-powered industrial digitalization and automated inspection into its factories for advanced electronics manufacturing."
-    publishedDateTime: 2023-05-31T13:51:00Z
-    webUrl: "https://electronics360.globalspec.com/article/19762/innodisk-empowers-smart-factories-with-nvidia-ai-and-metropolis-platforms-and-aetina-s-superedge-ai-training-platforms"
-    type: article
-    provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 0
   - title: "This week in AI: Existential threat from AI, Nvidia announces AI supercomputer, UK wants global AI watchdog and more"
     excerpt: "The DGX GH200 uses Nvidia's NVLink technology to combine 256 GH200 superchips, which each house an ARM-based Grace CPU, and H100 Tensor Core GPU, that allow for performance up to 1 exaflop (equivalent to one quintillion floating point operations per second) with a whopping 144 Terabytes of shared memory."
     publishedDateTime: 2023-06-04T13:30:00Z

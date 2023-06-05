@@ -207,20 +207,15 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Methane-cutting genetics research and disease-preventing AI project among Farming Innovation grant winners"
-    excerpt: "Ground-breaking research that could advance the UK dairy industry’s sustainability and efficiency is being funded through Defra’s Farming Innovation Program."
-    publishedDateTime: 2023-05-31T14:59:00Z
-    webUrl: "https://www.dairyreporter.com/Article/2023/05/31/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners"
+  - title: "Opinion: Artificial intelligence debate just getting started"
+    excerpt: "Fueled by rapid advances in artificial intelligence, tools enabling the exact digital replication of voices of celebrities and prominent figures are fairly commonplace online. Known as “deepfakes,” these creations can be practically indistinguishable from an actual person speaking."
+    publishedDateTime: 2023-06-05T07:06:00Z
+    webUrl: "https://www.ctpost.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
     type: article
     provider:
-      name: Dairy Reporter
-      domain: dairyreporter.com
-    quality: 21
-    images:
-      - url: "https://www.dairyreporter.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/dairyreporter.com/article/2023/05/31/methane-cutting-genetics-research-and-disease-preventing-ai-project-among-farming-innovation-grant-winners/16456604-1-eng-GB/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners.jpg"
-        width: 750
-        height: 500
-        isCached: true
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 17
 
 secured: "dsuy966MTxLVynvQTKC+frH/1yGdX+dvK8MSUrmXkk2WkdPustJa4DtS0oM42gbFQJN/+3nz0I+uaeV2rTpJxPkG7p2KRFTBjU3ZDRV+Lru7ptBwsLEavfIJtrn3TzXdyD6zPugezXKzotaPuKkie0ja+7URVEcDRSjFNcIHGBtKT4mJ6RV7X1SOK2jYmUS+XiWlWAudutcok8i5BHqcYQEcWvwK5w1lUlUTPB0E++Zh3HKi2R3zUubOHpxMvQ1BXIPf0wbYWx3AHIjPqcVLvGY14MttC+Om6s6SR2O2PishQKSxALmiC9R2PWkaaBP9bk+QJoQzt4a8c4K3PUOt/shAG1J2SLUz/jKlWQjGg0g=;ppYY3qv4m/wDZf4850LynQ=="
 ---

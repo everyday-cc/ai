@@ -7,7 +7,7 @@ originalUrl: "https://www.smechannels.com/crowdstrike-to-accelerate-development-
 webUrl: "https://www.smechannels.com/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws/"
 type: article
 quality: 54
-heat: 94
+heat: 74
 published: true
 
 provider:
@@ -48,29 +48,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "OneDegree Global and Microsoft Join Forces to Drive Insurtech and Cybersecurity Innovations with Azure OpenAI"
-    excerpt: "OneDegree Global (OneDegree), a leading technology startup in the insurtech and cybersecurity sectors, is thrilled to announce a strategic partnership with Microsoft Hong Kong. This collaboration marks a major milestone as OneDegree integrates Azure OpenAI Service into its IXT insurtech and Cymetrics cybersecurity solutions,"
-    publishedDateTime: 2023-06-02T07:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-onedegree-global-microsoft-jo-forces-drive-insurtech-cybersecurity-/2023/06/02/9825439.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 50
-    images:
-      - url: "https://mma.prnewswire.com/media/2091414/OneDegree_Global_and_Microsoft_Join_Forces_to_Drive_Insurtech_and_Cybersecurity_Innovations_with_Azu.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS"
-    excerpt: "CrowdStrike is leveraging new generative AI capabilities of Amazon Bedrock, a fully managed service that makes foundation models (FMs) from leading AI startups and Amazon available via an API, to help customers adopt advanced Falcon Platform search,"
-    publishedDateTime: 2023-05-31T13:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/31/9823444.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "WkykS80oSjrlexpQk3CLqf7sR0m5QVEdLpv4Z95i+nVTZ3OWElKgr+3rx9CDrM8heDkHdkfT3OeEVfkXx1XSLP0Ns/OQXKTShszo02z1fxU0IxqtIhfGznNS38A17OZgDffPzk4anezzTzjqUXrJC7Lw9jQZMcGK523Er3+/Z+XDus42w9kWhTGCXLxocclyUdxD1iuglI5IkQRb7dqy8RpURILe11rR+2h46BbcNnoHX0S0RQDRkpXtHszwzwgH5/NjPlZ163LLzS/rtIfwr7N87kI2N29T7x3ht/lyIuQj3Z6+ft5+8EN5eMHiJH4xWNyle6KJqQhdSk3qVSKarLS4gH06TfUDNKifo7nS/GXQRq5X3oZgNSUcnT4fzldXV0ZTLjOLALna4niERPlJ1B1zucJZkkXLQws8ejD3nSfoWE9DJyI4ppQXoua4BpaP6TRjrbZ4bUUIW5XxGye3i7o5YIlFCAMtnpQ2SVvqkMhfzRZ+B9cGyHivrfCl6fAkWB7AExf6w2xtwcV2kyspNQ==;1JrMhBzrIULB5Erydumi7w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/orlando/inno/stories/partner-content/2
 webUrl: "https://www.bizjournals.com/orlando/inno/stories/partner-content/2023/06/01/orlando-companies-harness-the-power-of-ai-in.html"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "The hardest part of working with generative AI in healthcare"
-    excerpt: "UC San Diego Health is piloting generative artificial intelligence, built by Epic and Microsoft, to help physicians respond to patients' questions. Challenges i"
-    publishedDateTime: 2023-06-02T18:28:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/the-hardest-part-of-working-with-generative-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
 
 secured: "kYol8+F2Uko/03NdD+d+wBalf0jaTi0LM41Dut235ua26sbfxCSPuBhhlD7WgkUTIGFB0f220JxThU+dbg5lQ4voB6Gfioq+id66hAyKgtJUESi6djJ5RhnM2axgLBZqUv01Xi9IyEh0RXI5sPMED3/nKfD1tjJamFWFCc6h7OhG2S98QiFvLaizJDEEHxa10QwzmtNWzVL9q4qC+sl4dkgGsCMkxH3dH4yY967DmhZzxX8HRKLBuCe9+aFQwlGpeWtS1VbRQ/+F0UAdl72tVGsYxIHZ1OqD5xpNk/6eA5LcaUMz+HKXlY9Vsn027ze3MAbOaBPnMn6qdL6L4HRdQEcGySnMbQaoJis8TP5oBkA=;d7yiuQVSHj2Qwrok66LxyA=="
 ---

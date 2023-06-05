@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/taskus-shares-rise-on-launch-o
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "How can innovative AI-powered tools optimise customer service in financial services?"
-    excerpt: "The introduction of generative AI has turned the head of many business leaders, eliciting mixed reactions. So, while already-high consumer expectations have been further elevated by recent advancements,"
-    publishedDateTime: 2023-05-31T13:29:00Z
-    webUrl: "https://www.raconteur.net/how-can-innovative-ai-powered-tools-optimise-customer-service-in-financial-services/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 32
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2023/05/iStock-1483272785-900x506.jpg"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "esTFRsq0/WB5a3OZoZclsknPz4dTbL1TUK0GpK7fqx0QcWPzSF4k1+/nWDW/2lK2WElG2Kl/9D0w8u9ybBReRdjRotGucYiIwGoIYmCGMlNYiY2TgU1SEi7t45NyZZ7SCx5pZI2zSPdE6ttdLpCty2haZ5u1gzRGh7DZ/cnG/rPl9YGp5dJKgFdl/Honqat5Ehv9Cdh2IaeNh0tDIk8uhtrdINN4GMiAOOF5AN2j44UKUgZ3P+vvQog9Z9Rz6nyCuW5cPMm3Kz2mTPs1LvHPRRM6k5wQeRVMNMhV9nBfluHhUTd2o9BOHAWSFetktXvL0aqTD15tB20mIi9wzaiBOINVwrW1PvO1rfQJ0adJh4o=;fYbf+vBItwE2NpS1sYg6FA=="
 ---

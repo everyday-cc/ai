@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Could more landscape maintenance robots be put to work?"
-excerpt: "If landscape maintenance robots ever become mainstream, what will that look like and who will adopt the technology? Believe it or not, some people and orga"
-publishedDateTime: 2023-06-02T20:28:00Z
-originalUrl: "https://www.chron.com/lifestyles/article/jeff-floyd-landscape-maintenance-robots-put-work-18132222.php"
-webUrl: "https://www.chron.com/lifestyles/article/jeff-floyd-landscape-maintenance-robots-put-work-18132222.php"
+excerpt: "If landscape maintenance robots ever become mainstream, what will that look like and who will adopt the technology? Believe it or not, some people and organizations are already putting robots to work on the lawn and on the farm."
+publishedDateTime: 2023-06-03T01:28:00Z
+originalUrl: "https://www.mrt.com/lifestyles/article/jeff-floyd-landscape-maintenance-robots-put-work-18132222.php"
+webUrl: "https://www.mrt.com/lifestyles/article/jeff-floyd-landscape-maintenance-robots-put-work-18132222.php"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Midland Reporter-Telegram
+  domain: mrt.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "I7OGkZFaEjTY9WAHMDYpvMvw0u2jwSaci+fdPs5XKqZef7f5FTBE4kmIuVygk4vpa2wlADNRW0RbrEqYWQiAkBGszd3ocfc6MlNRPit6a/fT9k42rR9RcG4XFFAftOF0v8tuvWSC9zXvYRJy60GHr0RVoWdNbqN0v1L09B5StfffVApj8dfwGiUPN/FAziEQLQdnkGKvWIFjUeCUdBWUBOkZDDC4aGCyooUXIFMkGFlNUVMW0grXTuW15vn2l7ZfkzBnsXCFvZNYJU2lgtDhcoOyAL54eRn6MnqOl7j75S125z7NG5RCXliw+WWjUMbRE5O1ZQWgzjR6zDC2aWPRsg6TJC+71PDLK/XI3M29LVxgdNZLdvSMGSOaRItqSWM91nEecFaLwPSTMS9VbecHtoNoBSP3M5EoUISL5S1hsjK0t6arpqzTM8ZHezoF508jt2pioV0m4hGpraXurfy4Uf9JfRpT2SQ1c9wc53c2HlCay4eMXxFksOlRG0siW1Tc0qwghfh9yugGOes6liEIMw==;Uc17ZcYBqJbVIK4CoJQTuA=="
+images:
+  - url: "https://s.hdnux.com/photos/01/33/11/54/23894807/3/rawImage.jpg"
+    width: 654
+    height: 872
+    isCached: true
+
+secured: "X2fpPQKHHyJ4poccaJ4s+YPoDBOSP8ZaMl0ZS2NEiKz7IQ5w+zeCqQbeGoTtuxnUDdp/nG/+MeOw2/uQhPt4G+aEd4up6aT4oTJ2cvhp4M7eAgw8eXnEP05HW2iI3Zmcd1YJn5Xn59O0wwXpABUOhY2ccKo9ZuF3HVJFBfkDt+jMHvjhisUlN/hwP49Xst2LHG7KtUGYDRQo5Lc73rjwvEQMfn/lnyo/FI057Rf9EHxUDJ2Iuk/nR+pmh7YwIGxjKSFfl/8lwPARDbUe/bu42GzwxkirNbb6qAhg+rCtqBsGjdEhFFXXxJjqTlkhd0R1UG1McKogPuxE7vfWbFdwoE+bNwwWhhYieZb3C5iQSrM=;O/LnSt3R246nCK/M3SgGIw=="
 ---
 

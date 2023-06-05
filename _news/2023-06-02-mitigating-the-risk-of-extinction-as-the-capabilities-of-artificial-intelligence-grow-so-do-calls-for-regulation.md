@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Leading experts warn of a risk of extinction from AI"
-    excerpt: "The call for guardrails on AI systems has intensified in recent months as public and profit-driven enterprises are embracing new generations of programs."
-    publishedDateTime: 2023-05-31T16:59:00Z
-    webUrl: "https://www.ktoo.org/2023/05/31/ai-risk-extinction-chatgpt/"
-    type: article
-    provider:
-      name: KTOO
-      domain: ktoo.org
-    quality: 39
-    images:
-      - url: "https://media.ktoo.org/wp-content/uploads/2023/05/gettyimages-1462188008-882e18cb60aa9f47fd79679ce541032789ee8e02-aspect-ratio-16-9-1536x864.jpg"
-        width: 1536
-        height: 864
-        isCached: true
   - title: "Tech leaders issue dire \"extinction\" risk warning over AI"
     excerpt: "We got an alarming warning this week about artificial intelligence from some of the world's top minds on the matter, explains Dr. Manjeet Rege, chair of the department of software engineering and data science at the University of St."
     publishedDateTime: 2023-06-01T21:50:00Z

@@ -80,15 +80,6 @@ related:
         width: 970
         height: 464
         isCached: true
-  - title: "Generative AI’s ‘productivity revolution’ will take time to pay off"
-    excerpt: "A boom in generative artificial intelligence and pandemic-induced workplace shifts will unleash a new era of faster productivity growth across the rich world, economists say, though it could take a decade or more for advanced economies to reap the full benefits."
-    publishedDateTime: 2023-06-05T04:00:00Z
-    webUrl: "https://www.ft.com/content/21384711-3506-4901-830c-7ecc3ae6b32a"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "+Clkn4D/0Wr2gEt/DeXu992f2VaFlDolEr3t13lbRdmRpYacOsbVbdlpYUeouyVdf7xFYNpJb5C9YJS6oWRB6kH5oW+zmdt6hFl/BWWolIm4/AVaT14zYmwgKZNhUVxZ+ot3fFRzXFDKOMncBPbVaP94t6/nGIXASeIabiHH3/bw7XgNoLOP0lIFGdscSVXmeRtr3IjxY9/+QtOkQ645kwJhz04sLFjs9p0KdCS5fuxV3nDYNEEAzgJ/GRlFleCsfub0PELIKHNp9iT0janwwf0v2e458SfFvmN6SE+Flb3Jx2U2eINNWFu5pvZtAS6Bv1uPJrQ99GpA8pKgWCBTZv7KvfI77tzO8/zq4FtoMSI=;86oo3NPxI7AbCZmumUhFug=="
 ---

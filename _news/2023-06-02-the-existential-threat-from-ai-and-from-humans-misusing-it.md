@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/02/the-existential-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: The Guardian
@@ -30,91 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "AI Poses Threat To Human Existence, Experts In New Warning Letter"
-    excerpt: "But now, this recent letter reportedly endorsed by Microsoft's chief technology and science officers, as well as Demis Hassabis, CEO of Google's AI research lab DeepMind, and two Google executives who lead its AI policy efforts. The statement doesn't ..."
-    publishedDateTime: 2023-06-01T08:38:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-poses-threat-to-human-existence-experts-in-new-warning/453287"
+  - title: "Holograms and AI can bring performers back from the dead – but will the fans keep buying it?"
+    excerpt: "A study of fan reactions to ABBA’s virtual Voyage tour highlights the ethical questions being raised by advances in holographic technology."
+    publishedDateTime: 2023-06-01T20:01:00Z
+    webUrl: "https://theconversation.com/holograms-and-ai-can-bring-performers-back-from-the-dead-but-will-the-fans-keep-buying-it-202431"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
+      name: The Conversation
+      domain: theconversation.com
+    quality: 28
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685607676-Untitleddesign-2023-06-01T134751526.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
+      - url: "https://images.theconversation.com/files/529216/original/file-20230531-23-ls23s6.jpg?ixlib=rb-1.1.0&rect=6%2C424%2C4555%2C2277&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
-  - title: "Embracing Human Expertise: Top Jobs That Artificial Intelligence Tools Will NOT Take Away"
-    excerpt: "As the world witnesses a rapid advancement in artificial intelligence (AI) and automation, there is a growing concern about job displacement and the impact of these technologies on traditional employment sectors."
-    publishedDateTime: 2023-06-03T15:04:00Z
-    webUrl: "https://www.ibtimes.sg/embracing-human-expertise-top-jobs-that-artificial-intelligence-tools-will-not-take-away-70456"
-    ampWebUrl: "https://amp.ibtimes.sg/embracing-human-expertise-top-jobs-that-artificial-intelligence-tools-will-not-take-away-70456"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/embracing-human-expertise-top-jobs-that-artificial-intelligence-tools-will-not-take-away-70456"
+  - title: "Holograms and AI can bring performers back from the dead – but will the fans keep buying it?"
+    excerpt: "Fans can mourn the passing of music legends for years, the hits echoing long after the original voice is silenced. Little wonder, then, that recent advances in holographic technology and artificial intelligence have"
+    publishedDateTime: 2023-06-03T03:25:00Z
+    webUrl: "https://www.econotimes.com/Holograms-and-AI-can-bring-performers-back-from-the-dead--but-will-the-fans-keep-buying-it-1657196"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 50
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 28
     images:
-      - url: "https://data.ibtimes.sg/en/full/67980/airesilient-career.jpg"
-        width: 1170
-        height: 780
+      - url: "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png"
+        width: 400
+        height: 330
         isCached: true
-  - title: "Does AI pose the same threat as nuclear war?"
-    excerpt: "A new open letter signed by prominent figures in the tech world claims artificial intelligence (AI) carries the same risks to human life as nuclear weapons or pandemics, but digital ethicists and researchers are saying it’s all hype that ignores the technology’s real dangers and promotes a strange ideology."
-    publishedDateTime: 2023-06-01T01:31:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/does-ai-pose-the-same-threat-as-nuclear-war.html"
+  - title: "In Montréal, one of the fathers of artificial intelligence warns of an existential threat to mankind"
+    excerpt: "Yoshua Bengio says his struggle is like the one waged by those who for decades warned of climate change without being heard."
+    publishedDateTime: 2023-06-04T01:16:00Z
+    webUrl: "https://www.lemonde.fr/en/international/article/2023/06/04/in-montreal-one-of-the-fathers-of-artificial-intelligence-warns-of-an-existential-threat-to-mankind_6029007_4.html"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
+      name: Le Monde.fr
+      domain: lemonde.fr
+    quality: 24
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/nuclear-bomb-explode.jpg"
-        width: 1067
-        height: 600
-        isCached: true
-  - title: "One-sentence warning on artificial intelligence"
-    excerpt: "THIS week, 80 artificial intelligence scientists and more than 200 ‘other notable figures’ signed a statement that says ‘mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as"
-    publishedDateTime: 2023-06-04T18:05:00Z
-    webUrl: "https://www.newagebd.net/article/203394/one-sentence-warning-on-artificial-intelligence"
-    type: article
-    provider:
-      name: New Age
-      domain: newagebd.net
-    quality: 39
-    images:
-      - url: "https://www.newagebd.com/files/records/news/202306/203394_og.png"
-        width: 790
-        height: 452
-        isCached: true
-  - title: "Tech executives sign warning letter regarding artificial intelligence risks"
-    excerpt: "The one-sentence open letter, issued by the nonprofit Center for AI Safety, is both brief and ominous, without extrapolating how the more than 300 signees foresee AI developing into an existential threat to humanity."
-    publishedDateTime: 2023-05-31T14:31:00Z
-    webUrl: "https://kyma.com/dsw-living/technology/2023/05/31/tech-executives-sign-warning-letter-regarding-artificial-intelligence-risks/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 37
-    images:
-      - url: "https://kyma.b-cdn.net/2023/05/InkOHhe2-AI-WARNING-LETTER.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Unregulated Artificial Intelligence Can Eliminate Humanity, Pose Extinction Risk - Industry Leaders Issue Warning!"
-    excerpt: "Several industry leaders and academics issued a statement warning that there is a need for rigorous mitigation of Artificial Intelligence (AI) associated risks. The statement in brief An open letter was posted by Center for AI Safety which is a San Francisco-based non-profit."
-    publishedDateTime: 2023-06-04T20:47:00Z
-    webUrl: "https://trak.in/stories/unregulated-artificial-intelligence-can-eliminate-humanity-pose-extinction-risk-industry-leaders-issue-warning/"
-    type: article
-    provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 17
-    images:
-      - url: "https://trak.in/stories/wp-content/uploads/2023/06/Untitled-design-20-1.jpg"
-        width: 1000
-        height: 465
+      - url: "https://img.lemde.fr/2023/06/01/41/0/606/404/1440/960/60/0/8a2052c_1685662076788-yoshua-bengio-2019-cropped.jpg"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "prKa6uRMnSVpyjEm5EdX4ZVcfoHMe8g7dnehfqHvjVuIEsMjhXjkrTmhl7KshI0TRe7wk02lVECP0WB/UTe9VrsTRQdTl44RiJh02EjzPN9CDK3feX0ZxpyCQr66Lpxm+TSJfJ7zuWo9CrCigLmwhJc018Oat5kJrw7BuXZIm4GdSpakuzW2T72kMq39OIqPqeL4beuI8RdLTRipuiKtwbsq3NfbaIb6rc+lAVgVh8dhaJ/FfnCJvYlUwsz9DFUHusaIsiLPAqcy3iQIXAnqOFB4zO/6R5CDdLv8L37Q4jAFMBLsCrzrMoEu2aEqso+4/UQ8TwQHfjCutMndXXvoLM48LAnonQ9KK+raDkWls8/QSwvLxQQotoKAsm8b1SeNlaxsCRvbNUBpwkfMvh+jZ11kWPaT9b2E4K+xNYNjzRA/9km94JWAlh0dgnVHEGc8u/Ya1RDt++0xCrTF9Ll8x4S9qtuyiWWdcd9U9tJ944BoAVQPeJ13Fnf7ypc18WE0Ez9sQ22BgeEGh7i5DRvj3A==;lnmZFInn648fDmNYaKaG+g=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32684334"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334"
 type: article
 quality: 63
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 970
         height: 464
         isCached: true
-  - title: "Generative AI’s ‘productivity revolution’ will take time to pay off"
-    excerpt: "A boom in generative artificial intelligence and pandemic-induced workplace shifts will unleash a new era of faster productivity growth across the rich world, economists say, though it could take a decade or more for advanced economies to reap the full benefits."
-    publishedDateTime: 2023-06-05T04:00:00Z
-    webUrl: "https://www.ft.com/content/21384711-3506-4901-830c-7ecc3ae6b32a"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "+/VKubG8PzWxFmvS6qhKcdDfGqRYhw5gVzWJCXmPwDvEG/Wh1gvvRQt3FL+8xRFyo+swd1y80Q7AkQcN+3XBb6Fofd/O/QDGrT2zpEaD7luvijwlK2jkLs8s2emHRPJfm0Yjdq7wK/RGgmpgESU9RvgzQIYGGe+OiH1RWK2vCkRLCINdHysMR7Au7UMrXaPSz+vGFGz4IIbGc2GMSSeDONXW79gS1GALCmlzeJ9KkP4AV1r0ktaYlmu6X0mk+Pn/HsCf0/REJPKG0Dw/ibQBlbhdim8gMgF63/mSQpY2I3afpbBdFHl8VhOQihseQHrW+SDQJsvjWPtrNeHLiiCgEGFEAyagSnJHDPvmw4Z+phs=;1+OH+BuykPXgOVefo+e7HA=="
 ---

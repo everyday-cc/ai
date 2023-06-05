@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
-    excerpt: "The statement underscores the tension between the government’s determination to be technological leaders and concerns about the possible harms of such technologies."
-    publishedDateTime: 2023-05-31T14:13:00Z
-    webUrl: "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna87021"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 93
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230531-xi-jinping-jm-1004-8797e3.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "OpenAI found a way to make AI models more logical and avoid hallucinations"
-    excerpt: "The creation of false information has led to widespread concerns about the dissemination of misinformation and its potential negative consequences. In a new research post, OpenAI shares that it may have found a way to make AI models act more logically and avoid hallucinations."
-    publishedDateTime: 2023-06-01T21:33:00Z
-    webUrl: "https://www.zdnet.com/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/dd3e7e04d52ada5ef30e6114a2d7e5e1747c90fd/2023/06/01/2df7ccbe-245b-426a-95df-d9ec5ff9cad3/gettyimages-1460653515.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI poses national security threat, warns terror watchdog"
     excerpt: "Security services fear the new technology could be used to groom vulnerable people"
     publishedDateTime: 2023-06-04T05:00:00Z
@@ -74,18 +42,32 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI in China: Xi aims for balance between progress and protection"
-    excerpt: "China calls for heightened national security measures for artificial intelligence. A meeting chaired by President Xi Jinping emphasized the need to safeguard political security and improve security governance of internet data and artificial intelligence."
-    publishedDateTime: 2023-05-31T15:57:00Z
-    webUrl: "https://www.csmonitor.com/World/Asia-Pacific/2023/0531/AI-in-China-Xi-aims-for-balance-between-progress-and-protection"
+  - title: "AI Poses Threat To Human Existence, Experts In New Warning Letter"
+    excerpt: "But now, this recent letter reportedly endorsed by Microsoft's chief technology and science officers, as well as Demis Hassabis, CEO of Google's AI research lab DeepMind, and two Google executives who lead its AI policy efforts. The statement doesn't ..."
+    publishedDateTime: 2023-06-01T08:38:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-poses-threat-to-human-existence-experts-in-new-warning/453287"
     type: article
     provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
-    quality: 37
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://images.csmonitor.com/csm/2023/05/1156877_1_053123-China-AI_standard.jpg?alias=standard_900x600"
-        width: 900
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685607676-Untitleddesign-2023-06-01T134751526.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Does AI pose the same threat as nuclear war?"
+    excerpt: "A new open letter signed by prominent figures in the tech world claims artificial intelligence (AI) carries the same risks to human life as nuclear weapons or pandemics, but digital ethicists and researchers are saying it’s all hype that ignores the technology’s real dangers and promotes a strange ideology."
+    publishedDateTime: 2023-06-01T01:31:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/does-ai-pose-the-same-threat-as-nuclear-war.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/nuclear-bomb-explode.jpg"
+        width: 1067
         height: 600
         isCached: true
 

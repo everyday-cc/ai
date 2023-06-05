@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/c3-ai-q1-earnings-beat-210159825.html"
 webUrl: "https://www.aol.com/finance/c3-ai-q1-earnings-beat-210159825.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Big Tech’s latest AI doomsday warning might be more of the same hype"
-    excerpt: "On Tuesday, a group including some of AI's leading minds proclaimed that we are facing an 'extinction crisis.'"
-    publishedDateTime: 2023-05-31T14:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-warning-critics/"
-    ampWebUrl: "https://www.popsci.com/technology/ai-warning-critics/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-warning-critics/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/05/31/My-project-2023-05-31T093409.076.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "00Mb40XI1Hopq8kPq1/iRcTxigmrJnPKMtl7w0QvgWBAazWDsT33iugIr6WqNXaWY8t+J8d6o1jw+v6m17sTT+B9Z9Dj/USnJs4AsttdEml7azCKX66zhlH5LoqXdGZV9Ke5HlQyijHAXHQqtWOiIbHR80HntuEUOHQQUsgoujLj48SypcPgyMFOvdTILbU1Gc7qTIM44yEEIvcVekgVpI66ip1/6IilWVcPDhzMehMLU93tNSsdCyEo6SCJlXxmK4L5nMvecE5bYsBm9KrCcxtbt+jdcLAwkMCvT2dxir6hkGen7WharD+vavovy6M0CCQORiwbR3L4BZHoX0fXA5jFyOttJP0wI9uz49SFxUI=;vibOReGAUK9DgZtAkiW96g=="
 ---

@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Asus plans on-site ChatGPT-like AI server rentals for privacy and data control"
-    excerpt: "Taiwan's Asustek Computer (known popularly as \"Asus\") plans to introduce a rental business AI server that will operate on-site to address security concerns and data control issues that come from cloud-based AI systems,"
-    publishedDateTime: 2023-06-01T16:00:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/"
+  - title: "OpenAI found a way to make AI models more logical and avoid hallucinations"
+    excerpt: "The creation of false information has led to widespread concerns about the dissemination of misinformation and its potential negative consequences. In a new research post, OpenAI shares that it may have found a way to make AI models act more logically and avoid hallucinations."
+    publishedDateTime: 2023-06-01T21:33:00Z
+    webUrl: "https://www.zdnet.com/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/asus_hero_3-800x427.jpg"
-        width: 800
-        height: 427
-        isCached: true
-  - title: "Alibaba to Build ChatGPT-Like AI Into Meeting, Messaging Apps"
-    excerpt: "Alibaba Group Holding Ltd. is integrating its most advanced artificial intelligence system into its Slack-like DingTalk messaging app and a meeting assistant named Tingwu."
-    publishedDateTime: 2023-06-01T02:15:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/alibaba-to-build-chatgpt-like-ai-into-meeting-messaging-apps"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikm5l1s5foiw/v0/1200x800.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/dd3e7e04d52ada5ef30e6114a2d7e5e1747c90fd/2023/06/01/2df7ccbe-245b-426a-95df-d9ec5ff9cad3/gettyimages-1460653515.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Asus rents businesses AI servers"
-    excerpt: "Fixes security worries on cloud Taiwan's Asus plans to introduce a rental business AI server that will operate on-site to address security concerns and data control issues from cloud-based AI systems."
-    publishedDateTime: 2023-06-02T09:47:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57016-asus-rents-businesses-ai-servers"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/5193e407ef1abf82eaf13b9d85bed0eb_L.jpg"
-        width: 620
-        height: 467
+        height: 675
         isCached: true
 
 secured: "wHNA48nyMKCNspAB406GQKLrm6eCE0wzDJcFqmg7wQRX3G5FAAyJXemDAfzBMfDI+SbeuRfWwQG8HB+wnV4GFE0aF1/UaPjIMVZJmPRGQuJXV9R6UuDnFMhYz1fgQXSbpTP+whurVAL5Q57ioNmUv3Ba7Ev0zPF6yeyy/cYMQl9EDGfuulEG/Sz8p39ytAbqv8R67+gbS1TwenuGFS/Z99GcYpyYlRSXGX9HRarCn85+3ZLRwTOnuHeeBdmJR2MXQWyXRw9kOHb37nbvjgCBngMHvOtW7wTHAUZLOk85O/GhtCW2RP295K4f4xOFifCatSd38MfQA6e6fqatQez5ptB1qAmwpcc/HpKR6vhMs06wXYxr/8/HkxnEt0QcvyxWVwmVtRKKfnZDy0Wiht0G7gIyrE8Z0pmi+q/+tlYlFe38pCyvwMWFqppmtFYcc4P768K3h5R7BzdDC3igfpfa+yWqNkFY8COMG5AlIV+IV5E/IpljZA28mmwFOtah6VX+qqN0jhVNdBapX2LFB46cKg==;P4Le+qA1ZFAlVaotQIr9EQ=="

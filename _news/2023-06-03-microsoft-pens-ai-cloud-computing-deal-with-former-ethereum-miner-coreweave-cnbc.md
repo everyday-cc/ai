@@ -27,61 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s CoreWeave Deal ‘Adds AI Pressure’ To AWS, Google"
-    excerpt: "Microsoft’s AI deal with Nvidia backed CoreWeave for GPU and cloud infrastructure puts pressure on AWS and Google in the generative AI market."
-    publishedDateTime: 2023-06-02T16:59:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-s-coreweave-deal-adds-ai-pressure-to-aws-google"
+  - title: "Paycor Strengthens Talent Platform with AI-Generated Job Description Feature Powered by Microsoft Azure OpenAI Service"
+    excerpt: "Newest Offering Automates the Process of Creating Job Descriptions, Optimizing the Talent Acquisition Process for Leaders CINCINNATI, June 1,"
+    publishedDateTime: 2023-06-01T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
     images:
-      - url: "https://www.crn.com/resources/0282-182941c9d993-f3abf62ff777-1000/coreweave-logo.jpeg"
-        width: 611
-        height: 458
+      - url: "https://mma.prnewswire.com/media/1738526/PaycorLogo_v2.jpg"
+        width: 400
+        height: 300
         isCached: true
-  - title: "Microsoft signs multi-billion dollar deal with GPU cloud provider CoreWeave to meet AI needs"
-    excerpt: "CoreWeave is a specialized cloud provider built for large-scale GPU-accelerated workloads. The company raised $200 million earlier this week - just a month after it raised $221m a"
-    publishedDateTime: 2023-06-02T10:35:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-signs-multi-billion-dollar-deal-with-gpu-cloud-provider-coreweave-to-meet-ai-needs/"
+  - title: "Microsoft bolsters AI capabilities with coreWeave partnership"
+    excerpt: "which offers simplified access to Nvidia's powerful GPUs for running AI models. Microsoft's investment in CoreWeave aims to ensure that OpenAI's viral ChatGPT chatbot has sufficient computing power. OpenAI relies on Microsoft's Azure cloud infrastructure ..."
+    publishedDateTime: 2023-06-01T21:37:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 60
+      name: The News International
+      domain: thenews.com.pk
+    quality: 74
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-06-02/1076105_024731_updates.jpg"
+        width: 700
+        height: 400
         isCached: true
-  - title: "Specialized Cloud Provider CoreWeave Rides AI Wave To Another $200M Round"
-    excerpt: "CoreWeave, an AI cloud infrastructure company, has raised another $200 million in a Series B extension funding round that values it at $2 billion"
-    publishedDateTime: 2023-05-31T16:50:00Z
-    webUrl: "https://news.crunchbase.com/cloud/ai-coreweave-funding-venture/"
+  - title: "Microsoft: Generative AI Unlocking Growth Potential"
+    excerpt: "Microsoft's AI initiatives, including the availability of OpenAI's GPT-4 in Azure, OpenAI Service and the introduction of Azure AI Studio can potentially drive significant growth and expand ..."
+    publishedDateTime: 2023-05-31T23:32:00Z
+    webUrl: "https://seekingalpha.com/article/4608596-microsoft-generative-ai-unlocking-growth-potential"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 38
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Cloud_Computing.jpg"
-        width: 900
-        height: 506
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561575/image_1464561575.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 864
         isCached: true
-  - title: "Report: CoreWeave Wins Miscrosoft Deal for GPU Cloud Services Worth Billions"
-    excerpt: "Suddenly, GPU cloud provider CoreWeave is one of the hot tech companies of the week and likely longer. No sooner did the Roseland, NY, startup announce on Wednesday it had secured $200 million in a series B venture round extension than the news broke the next day that CoreWeave has signed a deal with Microsoft"
-    publishedDateTime: 2023-06-02T16:52:00Z
-    webUrl: "https://insidehpc.com/2023/06/report-coreweave-wins-miscrosoft-deal-for-gpu-cloud-services-worth-billions/"
+  - title: "OneDegree Global and Microsoft Join Forces to Drive Insurtech and Cybersecurity Innovations with Azure OpenAI"
+    excerpt: "OneDegree Global (OneDegree), a leading technology startup in the insurtech and cybersecurity sectors, is thrilled to announce a strategic partnership with Microsoft Hong Kong. This collaboration marks a major milestone as OneDegree integrates Azure OpenAI Service into its IXT insurtech and Cymetrics cybersecurity solutions,"
+    publishedDateTime: 2023-06-02T07:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-onedegree-global-microsoft-jo-forces-drive-insurtech-cybersecurity-/2023/06/02/9825439.htm"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 50
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/06/CoreWeave-logo-0623.jpg"
-        width: 600
-        height: 396
+      - url: "https://mma.prnewswire.com/media/2091414/OneDegree_Global_and_Microsoft_Join_Forces_to_Drive_Insurtech_and_Cybersecurity_Innovations_with_Azu.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "w/Y1Zn5EyBCOf4Vd55A4+dKEAQVN/C8WdvAjp6SmmOmUFjkqD1UhwvTzfdhohQhvhbdfVV32qP1cz5IIhrMYUUVSgwE8bq0KPeNrcCYSDD873r8P+Qp/IQj5yGgUcHgco+B3iG2OPZjgUz7LYiKNQ/SkIDQKQ3KArFGUzohvH2kqOFFJvGbSFrP4SmVWmBJZWKDkDC+lbMuoo86NwYokwBTUWkYPKhRNo5Wj2/++zmD17L1RSRvkC6G+YIVMlAptuv7aXbC2gYQ1PtqA1sS0zvKJZsgwMcQ1XNtnRvTy7YyVFH86MCQHP0nQ5UTEzCwabzIT7duK4NRQBOkoIajwwUVrWZYgy6tvAQGE6AVPLDE=;y5fbYsPsQ5n/W/vkKYdQnQ=="

@@ -48,29 +48,6 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 51
-  - title: "OneDegree Global and Microsoft Join Forces to Drive Insurtech and Cybersecurity Innovations with Azure OpenAI"
-    excerpt: "OneDegree Global (OneDegree), a leading technology startup in the insurtech and cybersecurity sectors, is thrilled to announce a strategic partnership with Microsoft Hong Kong. This collaboration marks a major milestone as OneDegree integrates Azure OpenAI Service into its IXT insurtech and Cymetrics cybersecurity solutions,"
-    publishedDateTime: 2023-06-02T07:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-onedegree-global-microsoft-jo-forces-drive-insurtech-cybersecurity-/2023/06/02/9825439.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 50
-    images:
-      - url: "https://mma.prnewswire.com/media/2091414/OneDegree_Global_and_Microsoft_Join_Forces_to_Drive_Insurtech_and_Cybersecurity_Innovations_with_Azu.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS"
-    excerpt: "CrowdStrike is leveraging new generative AI capabilities of Amazon Bedrock, a fully managed service that makes foundation models (FMs) from leading AI startups and Amazon available via an API, to help customers adopt advanced Falcon Platform search,"
-    publishedDateTime: 2023-05-31T13:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/31/9823444.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "Ymxe8diA6q0l7GcLmfRuYr4BeR87HxMgPFR4BUpoF5gjlC0BtKmHPPbTSp12hWhn3Cc/k+hJJBHnd+LXfDy8yc9ANOk0GsrfvISnS8H0mWGc8Q4VQvPkU55mVwln7RqAo3qQCGtQAQthdeT9kghEQZpCRmiQPCkZB5CMKWuYBx7awkpcjbA4TOsg6PVSSpoUj6SalAhTYSZ7cL/1XgOkvu4vlrlfryazzVFql1w1zyWSg309d6ghunSgaMBD9QnSaE46jGkVnLSNme0SMzNFM2EzdXFJEatKsYga4MiNH72yVNfYwm9vB4tVUQT85TYGqKF0+TxboXDB7nVkT+d899B8Cc75AQnnsLFmr1Skg4gXmdba6EPZZku2acjFTDpxE72p0CpcKCck0YEMUiV3I66IZf5lMiiXeDNAOLsL2Z26/76LJCUrizAbzNnaRg8z1mQz02uSHDYeoh0BrbnmocEk+oaijzkrM4IEQ9ELucEtj85uajlAf9reKbg2KnMdUrijmvRnR/U18/WbtWxn3g==;QZWTSnElW7cpMHfA+mllQA=="
 ---

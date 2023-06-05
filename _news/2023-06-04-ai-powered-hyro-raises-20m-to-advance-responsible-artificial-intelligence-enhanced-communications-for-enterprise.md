@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Hyro, a conversational AI startup for enterprise, raised $20 million in new funding using this 15-slide pitch deck"
-    excerpt: "Hyro, an AI tool for enterprise users like healthcare providers, has brought in new funding to build out its conversational AI products."
-    publishedDateTime: 2023-05-31T14:00:00Z
-    webUrl: "https://www.businessinsider.com/hyro-conversational-ai-for-health-raises-20-million-funding-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://i.insider.com/64774869085acb0018fefaa1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Hyro Raises $20M for Conversational AI Assistant Used by Intermountain, Novant & More"
     excerpt: "Hyro — a New York-based startup selling a conversational AI platform for providers — recently closed a $20 million Series B funding round. The platform is \"mostly plug-and-play\" and requires minimal effort and resources from providers,"
     publishedDateTime: 2023-06-02T19:34:00Z

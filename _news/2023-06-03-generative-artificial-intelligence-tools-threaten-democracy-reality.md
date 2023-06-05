@@ -2,22 +2,22 @@
 category: news
 title: "Generative artificial intelligence tools ‘threaten democracy, reality’"
 excerpt: "You can’t believe everything you read. But if you see something with your own eyes or hear something with your own ears – well, that’s the ultimate fact-check. Isn’t it?"
-publishedDateTime: 2023-06-02T17:43:00Z
-originalUrl: "https://www.couriermail.com.au/news/world/generative-artificial-intelligence-tools-threaten-democracy-reality/news-story/e22ae3edfe6df70a00d89f2338f590cf"
-webUrl: "https://www.couriermail.com.au/news/world/generative-artificial-intelligence-tools-threaten-democracy-reality/news-story/e22ae3edfe6df70a00d89f2338f590cf"
+publishedDateTime: 2023-06-03T04:30:00Z
+originalUrl: "https://www.thechronicle.com.au/news/world/generative-artificial-intelligence-tools-threaten-democracy-reality/news-story/e22ae3edfe6df70a00d89f2338f590cf"
+webUrl: "https://www.thechronicle.com.au/news/world/generative-artificial-intelligence-tools-threaten-democracy-reality/news-story/e22ae3edfe6df70a00d89f2338f590cf"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: The Courier-Mail
-  domain: couriermail.com.au
+  name: The Toowoomba Chronicle
+  domain: thechronicle.com.au
 
 topics:
   - AI in Autos
   - AI
 
-secured: "ncdq1NVAdNYpYNinZkzNSwIHmpZyn7x/95VNGSi8x/AkqBhIkgSs4JcZgyU0MtpY5oKM40YfMsZF3pab5TFZbVj06fkEALATzwhBYh2oHQ+UDufl4tFLhxrotZh9BYDDUvSsiJlBE2YgY1farwZ0iPAzzovRsE3vKPWzBPv5AQI8flaNYGUWPiPRSdmlPWRickjdefsX9iT7mwNhB5njynjNYSZNMPud0uHpOzReO0PQnoYHc1xN8YYToQsglbWbCi5J/bUsDwAwsig1YAmPn0ox3A/yKF9upDjhAgekYULfK9icmshXG3m1LxVCcVu81FKW1leDyQ8LbxNIzWAGDh41wEbUqVn699LG2he6HgU5FJmi1n6i0j09fqthXGXASXRCO+tflkUmMYRk/Y7zBWJWB/RgZ8+iAcNxNwoKqFBl1hV1hdyiZjMmmeVJ/dDEkc5UylQ8TD8MqZ0o+v15fgQYb4RH9r5I3H1Femqi1K4RHnysddo9KfkCl1sc7xQ/zP758v2aqM24rsbeGmFPJg==;bQkENd74LScwPla9Nf788g=="
+secured: "nXAAYhM8x4pzD98DGUQHptjYhEbDhBqKDK1El/fsKmaEMhSLEdHAN1WAdStRQO68WL8iuiS4Id/IKFs9eY2q9rCIUTxh1cz+V9RoDpULwt5VNvN2pUPhfyBwnyxiJchmQVfum6MbnbYc7R5lEMMR31e8iD4mIeDS8WNHlFXm+qRVYc0g/Y4B7Lq9jBxZOAhmbcvLHXTjnhRau1Dq9QkofIHBEVaSmXVeRNhLBsS4rhRoibS1D7wH5zXQDtbUT1Yv+J2AhRanlqPEpS8DYBCFd+DyZNHfuqniplqCa3O/T/3dWmB3q9l9UIDupUYRFfXYpdlrOtqk7DYkNQpI56SVklIeTL/OwNz0CfhGKnlQRdW4zinlHhgiyT6d1sUIHn6u5g+JnpgNPCBHF6eMAAQYTsvPEtjcQ+S/kCkVecPJflepYuNBzf4npW39gZSKfTrQ7AoGNV/JrKl/ydy2BUz5py2luDl0I2ab+prQ+FOP8CJzgKQd9/bieSuYXnsN13bEghzA7qHqI9SrTo5+g+1IYw==;bd798hUp6UlzSUHEcN9BzA=="
 ---
 

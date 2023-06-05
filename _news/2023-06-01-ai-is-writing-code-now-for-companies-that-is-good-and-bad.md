@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/ai-is-writing-code-now-for-companies-
 webUrl: "https://www.wsj.com/articles/ai-is-writing-code-now-for-companies-that-is-good-and-bad-6f19ecdc"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wall Street Journal
@@ -26,6 +26,17 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "The AI Hype Cycle Is Distracting Companies"
+    excerpt: "Machine learning has an “AI” problem. With new breathtaking capabilities from generative AI released every several months — and AI hype escalating at an even higher rate — it’s high time we differentiate most of today’s practical ML projects from those research advances."
+    publishedDateTime: 2023-06-02T12:05:00Z
+    webUrl: "https://hbr.org/2023/06/the-ai-hype-cycle-is-distracting-companies"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "nYdSAhh8wF1ieaMiCucFov6XVoRBKKwlqGTlMb8IZPUqi1d63QvShDrjwXQ/DTymhNw7drWZQwypATDdIbaySkt/GgjIE27TMNv1sBkcxAID1Eld6cCDKP4DYyqKCXTRz8fcLGDyhjrEswwNW+FX/WFdBDPe0eAWgtTs4KQ6/3xOLb3rvFxFXpth1QsIkuP3++THEg0UgkWbbdXKZPYJ8dgN0RpjpwmrJYTkxsXRMp51FKgIKk96cfhPpUAy159JU+BPcvbVXkMJ6B5ZIxXXoMQJDLNBG3i11zoqFq220eqUsaFo3X77tXRfAoW7L0Y0S6wOWVqY65ZsuG9n5nR3AaRM0ClMxK//SkTbsgzWJdqjRbLGM5NqUu1ldeRWRRicXnKyk4f/Aik3daPi/NFkFkGX6hntMGlglnlVQWou4oItnQ15Ct4NB+37BoqSAMRlyydA2fZxEFAwX+25CWW6ugOZWw/aHvvt5gpamn0N6d78RvC5CNJleGyzNX+0sJqzo/TCP7+A0zARgMjH9aOTAQ==;+edXGv5nDfGyNqTeQjBmWg=="
 ---

@@ -25,52 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS"
-    excerpt: "CrowdStrike has said that it is working with Amazon Web Services (AWS) to develop powerful new generative AI applications that help customers accelerate their cloud, security and artificial intelligen"
-    publishedDateTime: 2023-06-01T03:34:00Z
-    webUrl: "https://www.smechannels.com/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws/"
+  - title: "Paycor Strengthens Talent Platform with AI-Generated Job Description Feature Powered by Microsoft Azure OpenAI Service"
+    excerpt: "Newest Offering Automates the Process of Creating Job Descriptions, Optimizing the Talent Acquisition Process for Leaders CINCINNATI, June 1,"
+    publishedDateTime: 2023-06-01T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080"
     type: article
     provider:
-      name: NETGEAR
-      domain: smechannels.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
     images:
-      - url: "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2023/06/Raj-Rajamani.jpg?fit=610%2C349&ssl=1"
-        width: 610
-        height: 349
+      - url: "https://mma.prnewswire.com/media/1738526/PaycorLogo_v2.jpg"
+        width: 400
+        height: 300
         isCached: true
-  - title: "CrowdStrike to accelerate development of AI in cyber-security with AWS"
-    excerpt: "These include both cyber-security-related generative AI applications, as well as cloud-plus-cloud security solutions."
-    publishedDateTime: 2023-06-01T13:07:00Z
-    webUrl: "https://www.voicendata.com/crowdstrike-to-accelerate-development-of-ai-in-cyber-security-with-aws/"
+  - title: "Microsoft bolsters AI capabilities with coreWeave partnership"
+    excerpt: "which offers simplified access to Nvidia's powerful GPUs for running AI models. Microsoft's investment in CoreWeave aims to ensure that OpenAI's viral ChatGPT chatbot has sufficient computing power. OpenAI relies on Microsoft's Azure cloud infrastructure ..."
+    publishedDateTime: 2023-06-01T21:37:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
     type: article
     provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 51
-  - title: "CrowdStrike debuts generative AI cybersecurity chatbot and new AWS integrations"
-    excerpt: "CrowdStrike Holdings Inc. is rolling out new capabilities that will help companies more effectively respond to breach attempts. The first set of features, a collection of integrations for Amazon Web Services Inc."
-    publishedDateTime: 2023-05-31T21:19:00Z
-    webUrl: "https://siliconangle.com/2023/05/31/crowdstrike-debuts-generative-ai-cybersecurity-chatbot-new-aws-integrations/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
+      name: The News International
+      domain: thenews.com.pk
+    quality: 74
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/crowdstrike.png"
-        width: 718
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-06-02/1076105_024731_updates.jpg"
+        width: 700
         height: 400
         isCached: true
-  - title: "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS"
-    excerpt: "CrowdStrike is leveraging new generative AI capabilities of Amazon Bedrock, a fully managed service that makes foundation models (FMs) from leading AI startups and Amazon available via an API, to help customers adopt advanced Falcon Platform search,"
-    publishedDateTime: 2023-05-31T13:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/31/9823444.htm"
+  - title: "Microsoft pens AI cloud computing deal with former Ethereum miner CoreWeave: CNBC"
+    excerpt: "With more than $400 million worth of funding raised in 2023, and a supposed Microsoft deal on the books, CoreWeave has grown significantly since pivoting from Ethereum mining."
+    publishedDateTime: 2023-06-03T02:19:00Z
+    webUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave"
+    ampWebUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 69
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/75e42a10-f7e8-4c95-a097-723db263e3b9.jpg"
+        width: 740
+        height: 492
+        isCached: true
+  - title: "Microsoft: Generative AI Unlocking Growth Potential"
+    excerpt: "Microsoft's AI initiatives, including the availability of OpenAI's GPT-4 in Azure, OpenAI Service and the introduction of Azure AI Studio can potentially drive significant growth and expand ..."
+    publishedDateTime: 2023-05-31T23:32:00Z
+    webUrl: "https://seekingalpha.com/article/4608596-microsoft-generative-ai-unlocking-growth-potential"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561575/image_1464561575.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 864
+        isCached: true
 
 secured: "Xpr1LSLXleauzT4KhKv3wUhQ24WIvah4cRHmSlNd2BZDOb1CRhNnK697InvHjw+8weMklV0TN0gaHATIXF2oSxY4oejkqDS1cH45dptXIUySWr8JUdy5PsASHTFmLCds5E3OpAjlHQjJvLxXLLPMx0UxZ57CQkLAFp1vCBguAE8HkGJSuIgFycFSMqknqBsrH8y9xOrMA3W2A163xWxdvmHXibPfgzkEDkDrTOnSdnIBmpAYWktp+lgneknNYddONkaKpbqzF09M61UvcetcUhhBiMVfq7TdJ8zGAJJy9c/zKQ9gIRLVtv/rCv9GIbmcT4boKR9m766C3Y97RnqOmUusjQIoKwLCKG85T68G3vb7hizaqJmP4N0bwEJtyEphV7PIHZpYmG5J/x9ULt3pQHz3yyimDVt09N5/ZucxsaAuga/ZeN7vt5BWHP9cc98eUskRyU1fHwsnS3pgUknJIf7TXXLeWj/Jj35PqyU3K7G2dh04kwezmILQqYYCdQV/9G5jRUWBAkNuK5GxoyUO1A==;6R9RrihNhgo2H1RbQTk1yQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/paycor-strengthens
 webUrl: "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: Business Insider
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft vets lead secretive education startup using generative AI to help students learn"
-    excerpt: "Two decades after selling their startup to Microsoft, Eran Megiddo and Liviu Asnash are going back to their entrepreneurial roots. The longtime Microsoft leaders are the co-founders of Maximal Learning,"
-    publishedDateTime: 2023-05-31T14:13:00Z
-    webUrl: "https://www.geekwire.com/2023/microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 91
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-31-at-7.07.16-AM.png"
-        width: 1088
-        height: 539
-        isCached: true
   - title: "Microsoft bolsters AI capabilities with coreWeave partnership"
     excerpt: "which offers simplified access to Nvidia's powerful GPUs for running AI models. Microsoft's investment in CoreWeave aims to ensure that OpenAI's viral ChatGPT chatbot has sufficient computing power. OpenAI relies on Microsoft's Azure cloud infrastructure ..."
     publishedDateTime: 2023-06-01T21:37:00Z
@@ -59,6 +45,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Microsoft pens AI cloud computing deal with former Ethereum miner CoreWeave: CNBC"
+    excerpt: "With more than $400 million worth of funding raised in 2023, and a supposed Microsoft deal on the books, CoreWeave has grown significantly since pivoting from Ethereum mining."
+    publishedDateTime: 2023-06-03T02:19:00Z
+    webUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave"
+    ampWebUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 69
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/75e42a10-f7e8-4c95-a097-723db263e3b9.jpg"
+        width: 740
+        height: 492
+        isCached: true
   - title: "Microsoft: Generative AI Unlocking Growth Potential"
     excerpt: "Microsoft's AI initiatives, including the availability of OpenAI's GPT-4 in Azure, OpenAI Service and the introduction of Azure AI Studio can potentially drive significant growth and expand ..."
     publishedDateTime: 2023-05-31T23:32:00Z
@@ -73,15 +75,20 @@ related:
         width: 1536
         height: 864
         isCached: true
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive"
-    publishedDateTime: 2023-05-31T17:04:00Z
-    webUrl: "https://www.inferse.com/528845/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+  - title: "OneDegree Global and Microsoft Join Forces to Drive Insurtech and Cybersecurity Innovations with Azure OpenAI"
+    excerpt: "OneDegree Global (OneDegree), a leading technology startup in the insurtech and cybersecurity sectors, is thrilled to announce a strategic partnership with Microsoft Hong Kong. This collaboration marks a major milestone as OneDegree integrates Azure OpenAI Service into its IXT insurtech and Cymetrics cybersecurity solutions,"
+    publishedDateTime: 2023-06-02T07:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-onedegree-global-microsoft-jo-forces-drive-insurtech-cybersecurity-/2023/06/02/9825439.htm"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 50
+    images:
+      - url: "https://mma.prnewswire.com/media/2091414/OneDegree_Global_and_Microsoft_Join_Forces_to_Drive_Insurtech_and_Cybersecurity_Innovations_with_Azu.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "imBsZTgTQRN2WlKaAFZgxi7tsG+WVd3hfto2bPlfDk+/AuaxVFVBEomRRzI3ugAXz4A8D/ohUWVe9dR1WoECzVePyWKVXeIY6sd/4kOcPrzKmzqr4oiSYGIMWKGDy8Sq9RRJJoONPiT9RJe0M9cSDSMFPYFGjhoEwxwg7G4oyxOYUI3IRKpHtnVC0aVUCMhNVOrIjYxpRv4cumxMaDeKRFwRRONWz02o7/FZI7oIf7LngWMyyZMHENjv9sYjURQW0dG/WviQsbkCrIA0d+65FchlzmawaXCW5MpeiUBKg/qx3ZFD7G3AWcF+2Hrera0Je52JKIrVDyXP+UlBLZLXLu1iIJtajNBqFbT4YhcJjbASLue93qcqWVgLSA4OkIvfS/7xqAD2VXq4rv/jp/IeLqXmExjsVKLv+hDrtcD+3iqiEotaQYMOQ1qZ5W7tBzAW+kfz4IjUi5uJhUKppHTPWge9/qWjledTO6KeyusSTLwRccAAtI66SEsR1Xd99q4Nj3hNGPQnB1rceQ1p83k7Pg==;hYdMMWSHUDn1q3Dr2ugMSQ=="
 ---

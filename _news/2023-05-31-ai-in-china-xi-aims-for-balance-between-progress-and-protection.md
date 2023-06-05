@@ -7,7 +7,7 @@ originalUrl: "https://www.csmonitor.com/World/Asia-Pacific/2023/0531/AI-in-China
 webUrl: "https://www.csmonitor.com/World/Asia-Pacific/2023/0531/AI-in-China-Xi-aims-for-balance-between-progress-and-protection"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,70 +22,6 @@ images:
     width: 900
     height: 600
     isCached: true
-
-related:
-  - title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
-    excerpt: "The statement underscores the tension between the government’s determination to be technological leaders and concerns about the possible harms of such technologies."
-    publishedDateTime: 2023-05-31T14:13:00Z
-    webUrl: "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna87021"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 93
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230531-xi-jinping-jm-1004-8797e3.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "OpenAI found a way to make AI models more logical and avoid hallucinations"
-    excerpt: "The creation of false information has led to widespread concerns about the dissemination of misinformation and its potential negative consequences. In a new research post, OpenAI shares that it may have found a way to make AI models act more logically and avoid hallucinations."
-    publishedDateTime: 2023-06-01T21:33:00Z
-    webUrl: "https://www.zdnet.com/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/dd3e7e04d52ada5ef30e6114a2d7e5e1747c90fd/2023/06/01/2df7ccbe-245b-426a-95df-d9ec5ff9cad3/gettyimages-1460653515.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI poses national security threat, warns terror watchdog"
-    excerpt: "Security services fear the new technology could be used to groom vulnerable people"
-    publishedDateTime: 2023-06-04T05:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/9a3d98be824baaddccb89605c324a9fa61aacfb4/168_0_3332_2000/master/3332.jpg?width=620&quality=85&auto=format&fit=max&s=e38cf6c3909a4fb8062ed0c96950171c"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Academic warns against using AI as therapy tool, points to security risks"
-    excerpt: "The artificial intelligence (AI) technology is not mature enough to allow the use of ChatGPT in psychotherapy or counseling, he said, urging people with mental health issues to seek help from a psychiatrist or therapist. “Some people who are going ..."
-    publishedDateTime: 2023-06-04T16:07:00Z
-    webUrl: "https://www.taipeitimes.com/News/taiwan/archives/2023/06/05/2003801002"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 70
-    images:
-      - url: "https://www.taipeitimes.com/images/2023/06/05/p03-230605-327.jpg"
-        width: 800
-        height: 527
-        isCached: true
 
 secured: "ISw7zuBAlCWZ4tMCHraN01P6d514qEEC54xoE1iRjROKhRQTJI8DMsrf54CQTR5LWvm6DL/SOEKsV+VW1zQ5BVSYK7E7crPUBEKc7XdXjwOnYRYkbHUaZga8RfJZmj7dUlEjsSNzN8/0NamU7YfE/vhbF6WoC5sfe0pALv5B9hAC5D7DP9pura43dU1vJ//tWr7/35bu3syevYI9BGpCrV4GXE6N/DxnW2za0/KhaYQVPBIGeac56/thLNajSPv1YHWdJtQ3XAzg2lLI+ry8a6YvCxmBBIRIJgvLj3j2bEL8txaO2RCALAbRJeZLeqoWosO6CgHumaS+y95egf7rTwZYZ6WknqXrG/ZX1oMbsK9JwX74AG/8epZFzK1jMvFmZRoELwe/PZvN5YeehYqBz3xKE76W9X6k21CMpZdlPNoPuveptf4ZNt8yZeb7DyPPSr4XpLbpQRHG5dfOE6tvllYux9MuUrmmqBTrN9jQwTnw3Vp3Dil0GUZ9JcX9q3rNFRkw1Hw/oe915oxGPOfL0w==;GtcHTz4nec992l64kwzPdw=="
 ---

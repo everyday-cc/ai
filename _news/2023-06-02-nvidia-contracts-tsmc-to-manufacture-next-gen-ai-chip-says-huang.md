@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20230601PD213/jensen-huang-nvidia-
 webUrl: "https://www.digitimes.com/news/a20230601PD213/jensen-huang-nvidia-tsmc.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Digi Times
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Bulls Are Way Overestimating AI GPU Demand"
-    excerpt: "Given past GPU needs, capturing the entire AI large language model market would increase revenue by $16 billion at the high end. However, this doesn't factor in recent research released in the ..."
-    publishedDateTime: 2023-05-31T13:16:00Z
-    webUrl: "https://seekingalpha.com/article/4608451-nvidia-bulls-way-overestimating-ai-gpu-demand"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
   - title: "The generative AI hype bubble runs through Nvidia"
     excerpt: "Generative AI is the hottest trend on Wall Street. Ever since OpenAI’s ChatGPT debuted in late 2022, kicking off a flurry of activity in the space, investors have been piling into AI stocks. And Nvidia (NVDA) has been the biggest winner."
     publishedDateTime: 2023-05-31T19:41:00Z

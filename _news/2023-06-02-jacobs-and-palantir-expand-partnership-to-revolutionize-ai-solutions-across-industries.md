@@ -77,15 +77,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Generative AI’s ‘productivity revolution’ will take time to pay off"
-    excerpt: "A boom in generative artificial intelligence and pandemic-induced workplace shifts will unleash a new era of faster productivity growth across the rich world, economists say, though it could take a decade or more for advanced economies to reap the full benefits."
-    publishedDateTime: 2023-06-05T04:00:00Z
-    webUrl: "https://www.ft.com/content/21384711-3506-4901-830c-7ecc3ae6b32a"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "DVq1dB6fuY1F1C2spQSEodgurmL5jBNDwn7pGVv8/DQPStDU+VPRcBKa6YiI2EarOXd/RN6GaWGhBnsHPNrQEIt6ZmA3ZxC8/gl+OKMTNx9LzQ0v+cQQKxkhecyJpRQ/7pXk/Mlh8LDJoIGLZu51mD4iznKk4dfyDRC0Mb9UcN5mhyKTG8CB/1kW4h/QJQ+3Eg/gC05HBvxaOjs/ztfe8OJXfnb7EuC7eTIgWWcMj+lWcVxOguLEGRtSd/RfahOQZ/3Hs2Tc03o0/qLR8/xxKBYhohJaRx3Q4W4DHVna+NDhdhaqO8KDByfCtpDWlbcePXDWWgt3EP/bQx/tdXovlgyeUGwralJLpXIL7JW3kG04dZLPmLULN2XHjYeIM+r/wpJkCv2lVkaXQBjZO7bXZ7PkhWJahpZUf/g0SZDuZAq10RsUHE9CKd41fCFpEkXzXSkx1A9de5W4jTnjfQpbRymSBVX4ZCfdzy80PkJhlfkaRUHH5nvngsPeObReXBTTeymqbu677Ftv1MVv8RknMQ==;nXcMtSBQRGU/Ewe3oFK1Sg=="
 ---

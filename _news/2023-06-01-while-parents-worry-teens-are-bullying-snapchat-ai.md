@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Snapchat launches a new generative AI feature, ‘My AI Snaps,’ for paid subscribers"
-    excerpt: "Snapchat today announced the launch of a new generative AI feature that will allow Snapchat+ subscribers to send Snaps of what they’re up to in order to receive a generative Snap back from the in-app chatbot,"
-    publishedDateTime: 2023-05-31T13:29:00Z
-    webUrl: "https://techcrunch.com/2023/05/31/snapchat-launches-a-new-generative-ai-feature-my-ai-snaps-for-paid-subscribers/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 41
 
 secured: "YO/bKOUxLQQxNmHBPPiUT4yvzMZ17PHYcjUO6WFvZPFACqWgp/pwAVDTD8RxaKijw3JmZPjmUcEO2GXkDBD5M4O+T0zINuoFKP1DR7UdyZeJT0QQR3+DbhZvd0vy6rgepiKJd7FqtYGbQpaGwE+KOtOjLtj6dd+IAr8iUJSgyWFOJk5ctj3ZKHerh5nfd+roASAJVG7LsRphqUH5tisqrck3hkge9vA0HYh1WkXNA1svUk7h7pFn7U6ai78X7FS3df/p9cOo9GxJ2MRaFFKQ1QqS6IdOfCxxkTegd60/YZfoWIEilNauTlPjjcesJKEK96ATkSzzHuH2IHAmQIRmNfZwbODQnSSuBS+Vx6vkFYfB5AS0YvHz5yTccjYLBAbQ/xaG/VlWZekbWGfzsY5lrzn1sb4BS/XNTFPWcasjSUPOSy2guzRlcEb+oo+z5AoCGORfetALdA6xkLNGKwmxex48bibOTq0+7/ddrCu4uRqw3Ya6MnhsGzhX7bs1ikozfWzuNsjzzGikfNlw5X6hIA==;g5eXXXRxHEqBC0SZXZB12w=="
 ---

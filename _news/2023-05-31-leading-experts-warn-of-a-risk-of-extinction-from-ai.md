@@ -7,7 +7,7 @@ originalUrl: "https://www.ktoo.org/2023/05/31/ai-risk-extinction-chatgpt/"
 webUrl: "https://www.ktoo.org/2023/05/31/ai-risk-extinction-chatgpt/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,38 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Tech leaders issue dire \"extinction\" risk warning over AI"
-    excerpt: "We got an alarming warning this week about artificial intelligence from some of the world's top minds on the matter, explains Dr. Manjeet Rege, chair of the department of software engineering and data science at the University of St."
-    publishedDateTime: 2023-06-01T21:50:00Z
-    webUrl: "https://www.cbsnews.com/minnesota/video/tech-leaders-issue-dire-extinction-risk-warning-over-ai/"
+  - title: "Experts warn of the dangers of AI, weigh in on ongoing EU regulation"
+    excerpt: "Experts including ChatGPT head Sam Altman suggest AI may pose a risk of \"extinction.\" Altman's OpenAI is among the U.S. tech companies keeping an eye on possible European Union regulation."
+    publishedDateTime: 2023-06-02T04:53:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-caution-risk-statement/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/8917377a-ae18-4434-be80-f6b4fc308536/thumbnail/1200x630/b78a61166ed28cb57e3005078cbb23b7/c95574ccc46cab15c6d6f35ce3e1976f.jpg"
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-ai-running-relevant.jpeg"
         width: 1200
-        height: 630
+        height: 750
         isCached: true
-  - title: "AI: Is there a risk of human extinction?"
-    excerpt: "Artificial intelligence could lead to extinction, experts warn"
-    publishedDateTime: 2023-06-01T13:19:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0frnnsd"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
-  - title: "‘Mitigating the risk of extinction’: As the capabilities of artificial intelligence grow, so do calls for regulation"
-    excerpt: "The Center for AI Safety released a statement earlier this week signed by a group of leaders in artificial intelligence about the technology’s risks: “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks,"
-    publishedDateTime: 2023-06-01T18:53:00Z
-    webUrl: "https://www.texasstandard.org/stories/ai-artificial-intelligence-dangers-deep-fakes-chatgpt-mitigating-risk-exctinction-statement-regulation/"
-    type: article
-    provider:
-      name: Texas Standard
-      domain: texasstandard.org
-    quality: 0
 
 secured: "KpncmRYpTbwJO9HAIGQWaWBF+yEuXKm0JXfmDfg44AR8aDJkYbqhyQNNK35uEyRIAzf9CnqCp8fy+0sq9EtQyXqT7wT4N0ewFdmHDk+Os44T9Ltztqe8EDAMeqJFW1FSZSiLHBlYcdInwdjlLfsQ40oAtskVnwpT9cucG5fDc66OErVdmCU175DRbz6H4V2g80ObbjQZIZSK/JzlGSXDjrlrMgyvLLwHL+2OjDyMj59GSa6tArWONNDPYo3jMJM0H2rsLc6To4w9auCbAE+pNc15mc2wnwjXlfoC0fy1caae4W82D2QBdAt0E2lRF3TA425p1LAEkQ1Ag93DVC9Zjjuv+BkrIWroiRovO9E9dsU=;aAaKo7onth4frskCUFo70Q=="
 ---

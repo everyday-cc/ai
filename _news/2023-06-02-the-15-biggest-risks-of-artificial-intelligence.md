@@ -30,31 +30,66 @@ images:
     isCached: true
 
 related:
-  - title: "The Cry Wolf Moment Of AI Hype Is Unhelpful"
-    excerpt: "AI increasingly represents a significant cybersecurity threat as an asset for criminals and hostile states. But cybersecurity is a mature industry with plenty of experts well equipped to handle the challenge. There is no reason to shut down AI because of cybersecurity fears."
-    publishedDateTime: 2023-05-31T14:57:00Z
-    webUrl: "https://www.forbes.com/sites/trondarneundheim/2023/05/31/the-cry-wolf-moment-of-ai-hype-is-unhelpful/"
-    ampWebUrl: "https://www.forbes.com/sites/trondarneundheim/2023/05/31/the-cry-wolf-moment-of-ai-hype-is-unhelpful/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/trondarneundheim/2023/05/31/the-cry-wolf-moment-of-ai-hype-is-unhelpful/amp/"
+  - title: "Fears Of AI Are Greatly Exaggerated"
+    excerpt: "Of course there are the usual worker concerns about wages, but fears have also been expressed of how ChatGPT and like AI applications will replace writers. Apart from Hollywood’s concerns, there are also more widespread job fears."
+    publishedDateTime: 2023-06-02T13:33:00Z
+    webUrl: "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/"
+    ampWebUrl: "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64775cf577dadfd9427b69d7/0x0.jpg?format=jpg&crop=3980,1867,x0,y390,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6107edfcfc8e877cae7a6fed/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 563
+        height: 789
         isCached: true
-  - title: "The AI Hype Cycle Is Distracting Companies"
-    excerpt: "Machine learning has an “AI” problem. With new breathtaking capabilities from generative AI released every several months — and AI hype escalating at an even higher rate — it’s high time we differentiate most of today’s practical ML projects from those research advances."
-    publishedDateTime: 2023-06-02T12:05:00Z
-    webUrl: "https://hbr.org/2023/06/the-ai-hype-cycle-is-distracting-companies"
+  - title: "The “death of self-driving cars” has been greatly exaggerated"
+    excerpt: "Seven years ago, hype about self-driving cars was off the charts. It wasn’t just Tesla CEO Elon Musk—who has been making outlandish predictions about self-driving technology since 2015. In 2016, Ford set a goal to start selling cars without steering ..."
+    publishedDateTime: 2023-06-01T11:00:00Z
+    webUrl: "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/"
+    ampWebUrl: "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/amp/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 74
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IPACE_3-800x533.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "AI Chips Are Hot"
+    excerpt: "Such chips have suddenly taken center stage in what some experts consider an AI revolution that could reshape the technology sector — and possibly the world along with it. Share"
+    publishedDateTime: 2023-06-01T14:28:00Z
+    webUrl: "https://www.manufacturing.net/operations/news/22863556/ai-chips-are-hot"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 54
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/AP23152002685626.6478ab3b5b0f1.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C99%2C1920%2C1080&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "3 artificial intelligence share ideas"
+    excerpt: "Investing in artificial intelligence (AI) has become a key stock market theme in 2023. Here are three share ideas that could benefit."
+    publishedDateTime: 2023-06-01T16:23:00Z
+    webUrl: "https://www.hl.co.uk/news/articles/3-artificial-intelligence-share-ideas"
+    type: article
+    provider:
+      name: Hargreaves Lansdown
+      domain: hl.co.uk
+    quality: 39
+    images:
+      - url: "https://www.hl.co.uk/__data/assets/image/0004/18673762/Graphic-lightbulb.jpg"
+        width: 5150
+        height: 2508
+        isCached: true
 
 secured: "Nkp4wJ/NaTEwp1sWuZDVCZxMy7uT8yx/d55L1AzGPFST9fj3dLhWypdOKcGhpsU9ZEgSZQCHe+k/cUJfO8UUEGcrbPlXjSwV3G4tOTOGcMaBAnYTYCTgc94mzQkWJRJVs4MDI7r6DBmsBGTa3TNUPc7eKMC/Bt3UiqDVSw4aJdyzBnk9RoZJISX2gqN+N43K48v/eXmf16oJ7YBjPHA/gnbXszfF2GxGlpme+hMU/qkfzUuZHUtAU/ThLeiT6P1Y2Xp1CWNHQvyETVpP9MZhdsoPSahWQ73udjeiAQhmoEJ9B5mPnGc/cft/anXkw3tjuKHaLui7tIyKn9n3DExeEqt9jZiZEFWJaCjPfa01rDatLUSiH4FoaRG00q7HcCA8HOXy6m2OhNWBw9XFMYiZYnE217rJUn2kmKs0C0zvnzfJBK9pZd34qnu9mfYaAgL9ONZbkJD1ronK3RWrqnpgI7F9AsLlMylBLsU9cdHUBSfxza/KGesSDoJiSe9KSrN29j7oL3/fCBvRn2pSOki7ow==;QxBXNvc+fJMDk2qNmOQwpw=="
 ---
