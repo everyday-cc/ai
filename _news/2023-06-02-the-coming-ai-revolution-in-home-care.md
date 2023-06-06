@@ -77,15 +77,6 @@ related:
         width: 970
         height: 464
         isCached: true
-  - title: "How can artificial intelligence help community pharmacists?"
-    excerpt: "Community pharmacy professionals are being squeezed like never before. Could artificial intelligence (AI) lend a helping hand, asks Saghir Ahmed"
-    publishedDateTime: 2023-06-01T16:27:00Z
-    webUrl: "https://www.chemistanddruggist.co.uk/CD137026/How-can-artificial-intelligence-help-community-pharmacists"
-    type: article
-    provider:
-      name: Chemist + Druggist
-      domain: chemistanddruggist.co.uk
-    quality: 19
 
 secured: "BiWD4Loyp/u0thCEU8gm3kjXh5FpmyEf626JnCKGgIHMGzlHCHt26IsDC0mGu/OScWa0VbOGsBPAh5drxw7465YJEmKNoUPRm43kwRHE6fJkQqDoYBSv97bp6jBaIuYgjHHay4WW6tkuyErQRS6SP1AkGqUxHMZcokIgsfUZEj8qx6eMCig/LY1FBko/yvGNtMFZrR5UD8FLRzzchISwETwQ5kE/IuC3MAIzW8RzZynHcLsg+T8teX9PH5Sd2eg0DYowlMpDW6lwpkWvMqJ/43BrgccCE31gOFD98Cn2VkEmy4P7k8SsPZ3diCr29mEqvqocqvPkSgDl9NnSziVWNiIU7Ez0iAdZn437gCuCk1d/bhyxZ05hRPHVlSzrVNhM88VrwFovJZOzhZ/7O16lJtMopZF3vsCMHKapa4psYJnQDjCbTrfZS8NAfNXNYnMyxqwVfMqD7NQ+Z63iNCjmiZBTj3i33sRkjhwy7wYftclp7h7S3Gn0tZxVwrjd1rp7/0yL87QTO9Lgwx75GItA3A==;cyjfvC0Bngn8kLzTDF4U/A=="
 ---

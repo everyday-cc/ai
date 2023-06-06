@@ -27,70 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "US seeks to curb investment in Chinese chips, AI and quantum computing"
-    excerpt: "WASHINGTON (Reuters) - New rules under consideration would restrict the flow of U.S. investments and know-how into Chinese companies working on advanced semiconductors, artificial intelligence and quantum computing, a U.S. Treasury official said on ..."
-    publishedDateTime: 2023-06-01T15:41:00Z
-    webUrl: "https://www.reuters.com/article/usa-china-congress-idCAKBN2XM1F6"
+  - title: "Nowhere for Investors to Hide From AI Hype"
+    excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
+    publishedDateTime: 2023-06-02T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20230531&t=2&i=1634411747&r=LYNXMPEJ4U0Q7&w=800"
-        width: 800
-        height: 508
+      - url: "https://images.wsj.net/im-792763/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "AI Chips: What They Are and Why Investors See Gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-    publishedDateTime: 2023-06-03T08:55:00Z
-    webUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
+  - title: "Nowhere for Investors to Hide From AI Hype"
+    excerpt: "This week, chip maker Nvidia was briefly worth more than $1 trillion, thanks to investor excitement about demand for its chips created by so-called “generative AI,\" the technology behind ChatGPT. Smaller AI-related stocks have also soared as investors search for the big winner from the latest fashionable theme."
+    publishedDateTime: 2023-06-02T23:59:00Z
+    webUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html"
+    ampWebUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
     type: article
     provider:
-      name: Business Journal Daily
-      domain: businessjournaldaily.com
-    quality: 54
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/06/Nvidia-HGX-H100-module-AP.jpg"
-        width: 925
-        height: 520
-        isCached: true
-  - title: "AI chip shortage to last until 2024, according to top Chinese AI company"
-    excerpt: "The large-scale language model (LLM) has triggered the continuous growth of China's computing industry. SenseTime, which kept a low profile, has recently been tasked to pilot the AI computing supply chain taking shape in the Shanghai FTZ's Lingang New Area."
-    publishedDateTime: 2023-06-05T08:19:00Z
-    webUrl: "https://www.digitimes.com/news/a20230605PD211/ai-china-server-ipc-cloud-computing-iot.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230605pd211_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Tottenham's Harry Kane invests in fitness AI and robotics company OxeFit"
-    excerpt: "Kane invested in OxeFit as part of the startup’s oversubscribed Series A2 investment round. The Dallas-based fitness AI and robotics company makes smart gym equipment that offers dynamic resistance and computer vision form tracking."
-    publishedDateTime: 2023-06-01T16:32:00Z
-    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/01/Technology/harry-kane-oxefit-investment.aspx"
-    type: article
-    provider:
-      name: Sports Business Journal
-      domain: sportsbusinessjournal.com
-    quality: 48
-  - title: "Chinese Self-Driving Truck Startup TuSimple Enters Japanese Market"
-    excerpt: "Chinese autonomous driving truck startup TuSimple Holdings announced it has entered Japan to alleviate the driver shortage and aging problems facing the Japanese freight market. TuSimple carried out self-driving tests on the Tomei Expressway,"
-    publishedDateTime: 2023-06-06T07:40:00Z
-    webUrl: "https://www.yicaiglobal.com/news/20230606-12-chinese-self-driving-truck-startup-tusimple-to-enter-japanese-market"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 24
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/06/24616890641093.jpg"
-        width: 770
-        height: 510
+      - url: "https://www.livemint.com/lm-img/img/2023/06/02/600x338/Nvidia_1685708783326_1685708790004.JPG"
+        width: 599
+        height: 338
         isCached: true
 
 secured: "a/FBnWSKPO11kqFIDy6HuLChwFdEE1sz2ZQfRzRAcotCJrQ/Ol6H42KR7G4hvYHyK1ygcpucQ/BFx15rMo/iSeKiXMtZ7hfzoqpqml1CZ2lQ+QQzN6qALt7/y41Out3YVROgnMleHGF9MISpM9u9D2hGTxOJWXSq8Ir2yzgQM6ym6+acPXXyTAc6yI5AsmuGlSYA4ekmZgLJlK+eSQI4bn0cFn6HUM6TkMDJcC4pHh9Tf4AqxTeJjMvf0WLGFsiTkFKdRltlbl9T2jZCuYqoG+DyNnLanCUAyqVE4rhJrh1DQ9LsXJIuxQvDHZiBzQ9QncZauQPoncIk8HYPOvK6F6YNh+EXDtjMNK7/KWEwpxs=;+4sIFGEV35J0Ms1miBk/5Q=="

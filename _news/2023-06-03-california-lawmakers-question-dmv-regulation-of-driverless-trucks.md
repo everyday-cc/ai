@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/fs/california-lawmakers-question-dmv-regulat
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Self-Driving Trucks Need Human Operator Under California Bill"
-    excerpt: "California lawmakers are moving forward with plans to restrict the deployment of self-driving trucks — a move that industry representatives say is misguided."
-    publishedDateTime: 2023-06-01T15:58:00Z
-    webUrl: "https://www.ttnews.com/articles/self-driving-trucks-calif"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-06/Aurora-FedEx-Truck-1200.jpg"
-        width: 470
-        height: 246
-        isCached: true
 
 secured: "xjrN9T9/+1I7Gdycr0nNIBoyyABzHkhdQh6sK7Jxjjwvd7+4qiRWJodSJPxUrAeU/JR6IzioKKi8Xfj4XaQ1dVZBbr4oMUg4Hbi/QN3ebqayqpOGDgNlQbD8+spGNbBGWDcn02+IYp7DVNqjeBx0rPGQu9xrB+IdIFRZJG1pmZ8urwJjStPJqsKQdKEFrigMMR7uxmFtygKG0p7BENkXsfFbwjUSW9Xh6I8kSeakS5Spw1f3ZgTCFqcRTnlK+JnAhgS7lNvTVsXxutNBcaiP87hPGlx8KEGo2L62+qxFCUyMQer6LooJZYsgrgZbcye9UC3SBO3QJGsjF5ov3pEAgqnx+tFrmWVibiyoLLs41P6kE9O2UviRe8SDSU3PqSThDDZNciRB6hKd2wuk8ENsdklKptIrwL5VLgjvIJYfTrZSFezaaK1TwTDHJe1yE0rfeTV8S9ywpztd+vDe5RaxyU9ook69wQx7cR6VfH8UfmbXzVKvXUJB+QhLq0OZ6qkn+j5DMJoPwMy2CuDXoBT4RQ==;SjadMkkHVt0uPzyIdcBr9A=="
 ---

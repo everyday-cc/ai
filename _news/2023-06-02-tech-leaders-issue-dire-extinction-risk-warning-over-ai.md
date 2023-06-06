@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/minnesota/video/tech-leaders-issue-dire-ex
 webUrl: "https://www.cbsnews.com/minnesota/video/tech-leaders-issue-dire-extinction-risk-warning-over-ai/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Let’s All Calm Down About AI’s ‘Extinction Risk’"
+    excerpt: "Even so, fibs travel halfway around the world before the truth laces up its boots and the story is bound to seep into our collective, unconscious worries about AI’s threat to the human race, an idea that has gained steam thanks to warnings from two “godfathers” of AI and two open letters about existential risk."
+    publishedDateTime: 2023-06-05T23:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/06/06/fear-of-ai-s-extinction-risk-is-a-helpful-distraction-for-openai-google/71988880-0426-11ee-b74a-5bdd335d4fa2_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "‘Mitigating the risk of extinction’: As the capabilities of artificial intelligence grow, so do calls for regulation"
     excerpt: "The Center for AI Safety released a statement earlier this week signed by a group of leaders in artificial intelligence about the technology’s risks: “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks,"
     publishedDateTime: 2023-06-01T18:53:00Z

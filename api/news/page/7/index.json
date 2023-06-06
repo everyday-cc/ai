@@ -2,6 +2,142 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-31-opinion-nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie.md",
+      "title": "Opinion: Nvidia and these 6 tech giants will gobble up the AI pie",
+      "excerpt": "In fact, the event was all about AI — from integrating artificial intelligence with Windows, Bing and developer tools. Note that many of the offerings were still in “preview” mode. As for Azure, its cloud platform, Microsoft is trying to catch ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-747436/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
+      "publishedDateTime": "2023-05-31T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-preventive-maintenance-vs-predictive-maintenance.md",
+      "title": "Preventive maintenance vs. predictive maintenance",
+      "excerpt": "Exploring some of the most commonly used proactive maintenance approaches.\nThe post Preventive maintenance vs. predictive maintenance appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/preventive-maintenance-vs-predictive-maintenance/",
+      "originalUrl": "https://www.ibm.com/blog/preventive-maintenance-vs-predictive-maintenance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T05:58:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-connected-products-at-the-edge.md",
+      "title": "Connected products at the edge",
+      "excerpt": "A look at the frequently overlooked phenomenon of connected products and how enterprises are using them to their advantage. \nThe post Connected products at the edge appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/connected-products-at-the-edge/",
+      "originalUrl": "https://www.ibm.com/blog/connected-products-at-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T05:55:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-salt-security-attains-aws-security-competency-status.md",
       "title": "Salt Security Attains AWS Security Competency Status",
       "excerpt": "Salt Security, the leading API security company, today announced that it has achieved Amazon Web Services (AWS) Security Competency status in the Application Security category. Salt is the only API security company to have earned AWS Security Competency.",
@@ -1086,135 +1222,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-aws-announces-general-availability-of-amazon-security-lake.md",
-      "title": "AWS Announces General Availability of Amazon Security Lake",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization's security data from across their AWS environments,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/05/30/9822968.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/05/30/9822968.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence.md",
-      "title": "Prepare For An Expanded Job Market, Thanks To Artificial Intelligence",
-      "excerpt": "Don't produce the same output as a generative AI tool. Differentiate yourself by adding value on top of the base output.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62579c7e40a68b70f7243179/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-05-30T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-uber-and-serve-robotics-to-deploy-up-to-2000-food-delivery-robots.md",
-      "title": "Uber and Serve Robotics to deploy up to 2,000 food delivery robots",
-      "excerpt": "Uber Technologies Inc. and startup Serve Robotics Inc. plan to deploy a fleet of up 2,000 delivery robots that will transport restaurant orders to consumers. The companies detailed the initiative today.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/05/30/uber-serve-robotics-deploy-2000-food-delivery-robots/",
-      "originalUrl": "https://siliconangle.com/2023/05/30/uber-serve-robotics-deploy-2000-food-delivery-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/robot.png",
-          "width": 800,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

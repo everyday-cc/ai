@@ -7,7 +7,7 @@ originalUrl: "https://www.forconstructionpros.com/construction-technology/articl
 webUrl: "https://www.forconstructionpros.com/construction-technology/article/22861073/can-chatgpt-ai-answer-your-asphalt-questions"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,52 +23,6 @@ images:
     width: 1200
     height: 673
     isCached: true
-
-related:
-  - title: "Asus plans on-site ChatGPT-like AI server rentals for privacy and data control"
-    excerpt: "Taiwan's Asustek Computer (known popularly as \"Asus\") plans to introduce a rental business AI server that will operate on-site to address security concerns and data control issues that come from cloud-based AI systems,"
-    publishedDateTime: 2023-06-01T16:00:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/asus_hero_3-800x427.jpg"
-        width: 800
-        height: 427
-        isCached: true
-  - title: "Asus rents businesses AI servers"
-    excerpt: "Fixes security worries on cloud Taiwan's Asus plans to introduce a rental business AI server that will operate on-site to address security concerns and data control issues from cloud-based AI systems."
-    publishedDateTime: 2023-06-02T09:47:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57016-asus-rents-businesses-ai-servers"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/5193e407ef1abf82eaf13b9d85bed0eb_L.jpg"
-        width: 620
-        height: 467
-        isCached: true
-  - title: "Apple’s Vision Pro needs AI like ChatGPT as soon as possible"
-    excerpt: "Apple just unveiled the Vision Pro AR/VR headset. But the powerful hardware needs one more thing: a ChatGPT-like generative AI assistant."
-    publishedDateTime: 2023-06-06T01:22:00Z
-    webUrl: "https://bgr.com/tech/apples-vision-pro-needs-ai-like-chatgpt-as-soon-as-possible/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-279.jpg?quality=82&strip=all"
-        width: 1600
-        height: 885
-        isCached: true
 
 secured: "fhDzOQb8DuDxDsi7mnnpsumuK0jHrK60d7iQQPBMKUKIbxv0GU/9hirYAUaIkz5wA7mA2ZaO70fqb8jbbcFv2lMSuvpm6BPLeBVeWcwpafVkt/XvrEItK01PkZvo/1WmcnMqRLfO9P7SA9/1wsOnyCWwxnjEV6JXPN4+d9Nw2LottY6+xkbnxbUs8X/30S3vw2aRU/Tckyb70n2tHltG7IzGWyW8IooGqt8j/a545Lbh9WRnqtZSBOqPmXonKW2X+UKY9iuXL9/fUL10ilYrJK7jSbHC3aylTJzDL/My7Q9XNQ0uuXn3XHDFOeNtNpvEJyl+2Q+Wvs0vOynQpB+4dFY0s46vT3kFSpsZZhq02lU=;H21N8VSf4E2tERY8OqmTqQ=="
 ---

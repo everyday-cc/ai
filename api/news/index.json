@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-06-nigerian-fg-to-install-facial-recognition-technology-at-airports.md",
+      "title": "Nigerian FG to install facial recognition technology at airports",
+      "excerpt": "The initial project phase includes Lagos and Abuja international airports, but will be extended to other airports, including Port Harcourt, Enugu and Kano.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/4r1lyMR9mpd7pmda",
+      "originalUrl": "https://www.itweb.co.za/content/4r1lyMR9mpd7pmda",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/06/Louw-Cilliers-06June2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda",
+      "publishedDateTime": "2023-06-06T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-deezer-streaming-service-to-detect-and-delete-deepfake-ai-songs.md",
+      "title": "Deezer: Streaming service to detect and delete 'deepfake' AI songs",
+      "excerpt": "Streaming service Deezer says it has developed technology that allows it to identify and potentially delete songs that clone pop stars' voices. The French company says it wants to \"weed out illegal and fraudulent content\" to protect artists. \"We need to take a stand now,\" CEO Jeronimo Folgueira told the BBC. \"We are at a pivotal moment in music.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-65792580.amp",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-65792580.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B112/production/_130003354_gettyimages-1300912283.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-65792580.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65792580.amp",
+      "publishedDateTime": "2023-06-06T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-ai-driven-security-processors-on-a-single-chip.md",
       "title": "AI-Driven Security Processors On A Single Chip",
       "excerpt": "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches.",
@@ -200,6 +294,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-06-aws-announces-general-availability-of-amazon-security-lake.md",
+      "title": "AWS Announces General Availability of Amazon Security Lake",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization’",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
+      "originalUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aws-announces-general-availability-of-amazon-security-lake/",
+      "publishedDateTime": "2023-06-05T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-eu-asks-big-tech-to-label-ai-generated-content.md",
       "title": "EU asks Big Tech to label AI-generated content",
       "excerpt": "The European Commission has called on online platforms to detect and label AI-generated content to tackle disinformation. Can the EU keep pace with tech developments?",
@@ -208,7 +346,7 @@
       "originalUrl": "https://www.nationalheraldindia.com/world/eu-asks-big-tech-to-label-ai-generated-content",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -656,7 +794,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -751,7 +889,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -804,7 +942,7 @@
       "originalUrl": "https://www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -847,7 +985,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -1085,152 +1223,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-can-ai-become-an-ally-in-the-dei-world.md",
-      "title": "Can AI Become An Ally In The DEI World?",
-      "excerpt": "For those of us in the diversity, equity, and inclusion (DEI) sphere, AI's emergence prompts a question: What implications does AI have for DEI?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/05/can-ai-become-an-ally-in-the-dei-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/05/can-ai-become-an-ally-in-the-dei-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647df61bfec965c17c13b283/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/05/can-ai-become-an-ally-in-the-dei-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/05/can-ai-become-an-ally-in-the-dei-world/amp/",
-      "publishedDateTime": "2023-06-05T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-stability-ai-ceo-says-hes-sad-about-report-he-exaggerated-his-resume.md",
-      "title": "Stability AI CEO says he’s ‘sad’ about report he exaggerated his resume",
-      "excerpt": "Emad Mostaque, the CEO of Stability AI, spoke with VentureBeat for a Q&A about the recent Forbes report and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/stability-ceo-says-hes-sad-about-report-he-exaggerated-his-resume/",
-      "originalUrl": "https://venturebeat.com/ai/stability-ceo-says-hes-sad-about-report-he-exaggerated-his-resume/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/VB22_StabilityA1_03-e1685971474825.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-using-advanced-scan-settings-in-the-ibm-cloud-security-and-compliance-center.md",
-      "title": "Using advanced scan settings in the IBM Cloud Security and Compliance Center",
-      "excerpt": "We’re taking another step forward in our mission to help you achieve continuous security and compliance by enhancing the scan functionality. \nThe post Using advanced scan settings in the IBM Cloud Security and Compliance Center appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/using-advanced-scan-settings-in-the-ibm-cloud-security-and-compliance-center/",
-      "originalUrl": "https://www.ibm.com/blog/using-advanced-scan-settings-in-the-ibm-cloud-security-and-compliance-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T06:12:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
       ]
     }
   ],

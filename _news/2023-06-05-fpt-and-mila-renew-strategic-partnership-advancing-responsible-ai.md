@@ -1,29 +1,27 @@
 ---
 category: news
 title: "FPT and Mila Renew Strategic Partnership, Advancing Responsible AI"
-excerpt: "FPT, Vietnam's largest IT service provider, and Mila, Quebec Artificial Intelligence Institute, announced the renewal of a three-year strategic partnership agreement. This press release features multimedia."
+excerpt: "FPT-Mila partnership agreement renewal ceremony took place within Canada-Vietnam AI Summit (Montreal, June 02, 2023) (Photo: Business Wire) As part of this continued commitment, F"
 publishedDateTime: 2023-06-05T01:59:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/b32707325/fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/b32707325/fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/32707325"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32707325"
+originalUrl: "https://www.bakersfield.com/ap/news/fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai/article_2f8c43a3-6ff9-5d70-b8e1-d3838d96adc0.html"
+webUrl: "https://www.bakersfield.com/ap/news/fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai/article_2f8c43a3-6ff9-5d70-b8e1-d3838d96adc0.html"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/9/b5/9b502559-1a1a-502f-b3ed-25575af7a64f/647d43f9834c6.image.jpg?crop=1749%2C918%2C0%2C133&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -46,6 +44,6 @@ related:
       domain: betakit.com
     quality: 5
 
-secured: "xux5Lo/lFH7r5KNWQSrZ+i3gKP5Y5Aqh5idD+lb0lhuB2twU5D9Lptk9p+SSUQq+5kZWcpB2rlxXYV8Yk5RIfL413XD4VqrWLHp8OAKgIRuj9aaDEvYePXfvbJy3UtY9g+9q6oNqVQO9bV52hgzwjW2GzC1vg81ANA5FRV4LbEh1RNTMTL0+ZkSh06pYJ1rAuPUkZkg+wHifU9H+7CDzzkOlC8aubU35DaFU2z3VW2zk2vKqCxKf+o07P5T0AfJ9ZN9wc8Dyd/zEAuCUkpkoBncq5UW7dPyHdDGiHwYskuaC8ZTSDjr1Q7cdbHkrFNV7GQvZdIoiWBXlqaaUJQ2mkUiuwYFcrVMB2bJIl4piYFU=;AzdrbuhJNDXKS590aFxznA=="
+secured: "1XuUPvVlMdqWn5dTQGKv5L1yK+/aZGXmj+Dy2eYjyQx1/3dEUs6Ft1y6JWeP7JmoWvghNg45fWLT0QDBwsW89l4mNdRB3vFPC1X3h/NssSda2Hh9JfnYidLRcUld2PJGvEwcGmnkV+SRRQkGdmWpzBkEZYgGlWf+MSg4XlwIFbANBdKMPovBL3ICNVJcylYukPdwQjaG+U2LZH+hSLEZPS3gizTIlBl2UG5QTlRDsJvAAIvo8yTWJDQLEUAret4MJNAp3CGkYZTMj5c21Ap6b8BeqdiIOGZCzG0A4eGj8S3j9V3R5KYWJ2WJNJU5IMPrE/j5C6v6KHu2n2JhcRib9HEAF/59ddbVeiFM1Tk4F3A=;AYy/U+jOATSyBPw5fzl4vQ=="
 ---
 

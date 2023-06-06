@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Deep In Sight unveils groundbreaking AI-powered 3D depth sensing solutions at CommunicAsia 2023"
-excerpt: "Showcasing In-Cabin Monitoring solution and Volume Management System which are Deep-In-Sight's cutting-edge 3D Sensing solutions at CommunicAsia 2023 Deep-In-Sight's solutions are expected to meet the diverse demands in the growing global robotics,"
-publishedDateTime: 2023-06-05T23:22:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/05/9826687.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/05/9826687.htm"
+excerpt: "Showcasing In-Cabin Monitoring solution and Volume Management System which are Deep-In-Sight's cutting-edge 3D Sensing solutions at CommunicAsia 2023 Deep-In-Sight's solutions are expected to meet the"
+publishedDateTime: 2023-06-06T09:00:00Z
+originalUrl: "https://www.asiaone.com/business/deep-sight-unveils-groundbreaking-ai-powered-3d-depth-sensing-solutions-communicasia-2023"
+webUrl: "https://www.asiaone.com/business/deep-sight-unveils-groundbreaking-ai-powered-3d-depth-sensing-solutions-communicasia-2023"
 type: article
 quality: 27
 heat: 27
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2092662/Image_1__Deep_In_Sight_ICMS.jpg"
-    width: 400
-    height: 251
+  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2023/Image_1__Deep_In_Sight_ICMS_0.jpg?itok=LjGFzI4g"
+    width: 599
+    height: 376
     isCached: true
 
-secured: "66aT3xrmU48glUDtevG02k3G5W1g/E+EyZv9b0jG+Y4NUzSzbMrxQdk8R+fzHYj+4yzG+T4QZB5cM2LxsffXZPj7nkvH49cKPhO0Pe9A2HZmcSpZ1/M1fwtPFMr7mo8QIjaUVSmQiN3O6fOUSJUXeLPMNzq+Ivy5p9Ri/VgflPd/CLpPEty+EfzVEGn6Z23/zRwRvJrk8rSiBi9ldBFGjKvfRxtlIQf9HGeMTf4igF6Zmmn56EZewHIxt6zHJYk6GPy9epNo7dH1EawROs35/viyhaRxHn0bO5LpY61NwcBDVy2OaJP7pSY0EnfivoqCRRXvdDw97hF476jCvn9QGGqvw4EtrTaVI4eernCLljS7a8n0LCxmSKFOrqUtRGj2TfgU7tsi7BRi9hxP6LdxC3jKRvlrRbjJ3giRCidXcNpPUJZ7XMVreKaBJ8R7pZg3oO1XyCd541RzS69wLttnU5twOqmByl/WfUeLrnnuZTq4cGlGEER01HcVcNnWRRzSalLwd05ng6Pzblzlc73YHA==;/MqhcKn6W5tUrQg3h37DCQ=="
+secured: "sZfX3klGfcJiaKRl3tOwIX189JvKQY16mP5CWTPB1lFugAIuNQ2PMPM3TdiCr/ZNWowILjcLho6KR21YMAgmt1MZDJJl5echF/pKXnMQj+yPx3y4X5IhlT5Mf0pBER3ijyQFsdJVm/qSuEwlUYNdz0pgZb/2Ckuil3zuphqK61xtl3ttOpK82U1EtEGpH/xY1pqnEuGPmnuZ/+KWaTms8U14zEou+QavmVj1XR7q/8A5fkEfogF3I4JjZw/PhN387tfqJzfRZnRki4RfQhpFhJx39GLcQb9Lxi5La1B2HB18CV97YLFXKkkK4Q7SNLlcAi0o5CELai9EF6Rx51xQ6/mYEvZIG2sMTMZCATk44AE=;8/F58pzu8Gi4i/uU6HJgDA=="
 ---
 

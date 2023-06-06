@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-25-run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes.md",
+      "title": "Run your local machine learning code as Amazon SageMaker Training jobs with minimal code changes",
+      "excerpt": "We recently introduced a new capability in the Amazon SageMaker Python SDK that lets data scientists run their machine learning (ML) code authored in their preferred integrated developer environment (IDE) and notebooks along with the associated runtime dependencies as Amazon SageMaker training jobs with",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-local-machine-learning-code-as-amazon-sagemaker-training-jobs-with-minimal-code-changes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/25/machine-learning-local-code-sagemaker.jpg",
+          "width": 959,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T13:55:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-perform-intelligent-search-across-emails-in-your-google-workspace-using-the-gmail-connector-for-amazon-kendra.md",
       "title": "Perform intelligent search across emails in your Google workspace using the Gmail connector for Amazon Kendra",
       "excerpt": "Many organizations use Gmail for their business email needs. Gmail for Business is part of Google Workspace, which provides a set of productivity and collaboration tools like Google Drive, Google Docs, Google Sheets, and more. For any organization, emails contain a wealth of information, which could",
@@ -1372,40 +1425,6 @@
         "AWS AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-amazon-takes-the-lead-in-generative-ai-with-two-new-large-language-models.md",
-      "title": "Amazon takes the lead in generative AI with two new large language models",
-      "excerpt": "In a recent blog post, Amazon Web Services (AWS) has announced its entry into the rapidly growing generative AI industry. The company has introduced Amazon Bedrock, a new service that allows AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.merca20.com/amazon-aws-artificial-intelligence-models/",
-      "originalUrl": "https://www.merca20.com/amazon-aws-artificial-intelligence-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "promocionar",
-        "domain": "merca20.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

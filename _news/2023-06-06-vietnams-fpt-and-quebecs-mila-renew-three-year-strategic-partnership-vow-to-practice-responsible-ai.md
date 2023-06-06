@@ -21,20 +21,18 @@ topics:
 
 related:
   - title: "FPT and Mila Renew Strategic Partnership, Advancing Responsible AI"
-    excerpt: "FPT, Vietnam's largest IT service provider, and Mila, Quebec Artificial Intelligence Institute, announced the renewal of a three-year strategic partnership agreement. This press release features multimedia."
+    excerpt: "FPT-Mila partnership agreement renewal ceremony took place within Canada-Vietnam AI Summit (Montreal, June 02, 2023) (Photo: Business Wire) As part of this continued commitment, F"
     publishedDateTime: 2023-06-05T01:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32707325/fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32707325"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32707325"
+    webUrl: "https://www.bakersfield.com/ap/news/fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai/article_2f8c43a3-6ff9-5d70-b8e1-d3838d96adc0.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 39
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/9/b5/9b502559-1a1a-502f-b3ed-25575af7a64f/647d43f9834c6.image.jpg?crop=1749%2C918%2C0%2C133&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "FPT and Mila Renew Strategic Partnership, Advancing Responsible AI"
     excerpt: "As part of this continued commitment, FPT and Mila will explore collaboration on research projects related to large language models (LLMs) and natural language processing (NLP) while promoting Responsible AI,"

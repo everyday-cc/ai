@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-05-can-ai-become-an-ally-in-the-dei-world.md",
+      "title": "Can AI Become An Ally In The DEI World?",
+      "excerpt": "For those of us in the diversity, equity, and inclusion (DEI) sphere, AI's emergence prompts a question: What implications does AI have for DEI?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/05/can-ai-become-an-ally-in-the-dei-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/05/can-ai-become-an-ally-in-the-dei-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647df61bfec965c17c13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/05/can-ai-become-an-ally-in-the-dei-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/05/can-ai-become-an-ally-in-the-dei-world/amp/",
+      "publishedDateTime": "2023-06-05T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-stability-ai-ceo-says-hes-sad-about-report-he-exaggerated-his-resume.md",
+      "title": "Stability AI CEO says he’s ‘sad’ about report he exaggerated his resume",
+      "excerpt": "Emad Mostaque, the CEO of Stability AI, spoke with VentureBeat for a Q&A about the recent Forbes report and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/stability-ceo-says-hes-sad-about-report-he-exaggerated-his-resume/",
+      "originalUrl": "https://venturebeat.com/ai/stability-ceo-says-hes-sad-about-report-he-exaggerated-his-resume/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/VB22_StabilityA1_03-e1685971474825.jpg?fit=750%2C500&#038;strip=all",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-using-advanced-scan-settings-in-the-ibm-cloud-security-and-compliance-center.md",
+      "title": "Using advanced scan settings in the IBM Cloud Security and Compliance Center",
+      "excerpt": "We’re taking another step forward in our mission to help you achieve continuous security and compliance by enhancing the scan functionality. \nThe post Using advanced scan settings in the IBM Cloud Security and Compliance Center appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/using-advanced-scan-settings-in-the-ibm-cloud-security-and-compliance-center/",
+      "originalUrl": "https://www.ibm.com/blog/using-advanced-scan-settings-in-the-ibm-cloud-security-and-compliance-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T06:12:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-generative-ai-will-elevate-humans-into-higher-value-jobs.md",
       "title": "Generative AI Will Elevate Humans Into Higher-Value Jobs",
       "excerpt": "Language-generating artificial-intelligence tools, such as ChatGPT, will make work more efficient by cutting repetitive tasks and freeing up humans for new, higher-value jobs, according to European technology firms.",
@@ -661,49 +807,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-05-fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai.md",
-      "title": "FPT and Mila Renew Strategic Partnership, Advancing Responsible AI",
-      "excerpt": "FPT, Vietnam's largest IT service provider, and Mila, Quebec Artificial Intelligence Institute, announced the renewal of a three-year strategic partnership agreement. This press release features multimedia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/b32707325/fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/b32707325/fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32707325",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32707325",
-      "publishedDateTime": "2023-06-04T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-04-google-is-using-machine-learning-models-to-speed-up-gmail-search.md",
       "title": "Google is using machine learning models to speed up Gmail search",
       "excerpt": "Millions of users around the world rely on Gmail as their primary email service. And it's no mystery that the sheer number of emails sent and",
@@ -1147,100 +1250,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide.md",
-      "title": "How AI could change the ways we live and work, reducing the digital divide",
-      "excerpt": "Guest Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More AI is everywhere. Its use is being debated in headlines,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281732617.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-plan-for-facial-recognition-tech-in-schools-riles-rights-groups.md",
-      "title": "Plan for facial recognition tech in schools riles rights groups",
-      "excerpt": "Teachers and students of the Telangana’s government schools will likely have to mark their attendance on an app that uses facial recognition technology (FRT), even as groups emphasising the right to privacy continue to raise concerns about the use of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/exu8vf/article66928332.ece/alternates/FREE_1200/LOCAL%20ELECTIONS",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/",
-      "publishedDateTime": "2023-06-03T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

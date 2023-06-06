@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/2023/06/06/fear-of-ai-s-ex
 webUrl: "https://www.washingtonpost.com/business/2023/06/06/fear-of-ai-s-extinction-risk-is-a-helpful-distraction-for-openai-google/71988880-0426-11ee-b74a-5bdd335d4fa2_story.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Top AI researcher dismisses AI ‘extinction’ fears, challenges ‘hero scientist’ narrative"
-    excerpt: "Kyunghyun Cho, a prominent AI researcher and associate professor at NYU, expressed frustration with the current discourse around AI risk."
-    publishedDateTime: 2023-06-01T17:02:00Z
-    webUrl: "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/"
+  - title: "Tech leaders issue dire \"extinction\" risk warning over AI"
+    excerpt: "We got an alarming warning this week about artificial intelligence from some of the world's top minds on the matter, explains Dr. Manjeet Rege, chair of the department of software engineering and data science at the University of St."
+    publishedDateTime: 2023-06-01T21:50:00Z
+    webUrl: "https://www.cbsnews.com/minnesota/video/tech-leaders-issue-dire-extinction-risk-warning-over-ai/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Ez6kELuXoAQ7r_B.jpeg?w=1200&strip=all"
-        width: 800
-        height: 533
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/8917377a-ae18-4434-be80-f6b4fc308536/thumbnail/1200x630/b78a61166ed28cb57e3005078cbb23b7/c95574ccc46cab15c6d6f35ce3e1976f.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "‘Mitigating the risk of extinction’: As the capabilities of artificial intelligence grow, so do calls for regulation"
+    excerpt: "The Center for AI Safety released a statement earlier this week signed by a group of leaders in artificial intelligence about the technology’s risks: “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks,"
+    publishedDateTime: 2023-06-01T18:53:00Z
+    webUrl: "https://www.texasstandard.org/stories/ai-artificial-intelligence-dangers-deep-fakes-chatgpt-mitigating-risk-exctinction-statement-regulation/"
+    type: article
+    provider:
+      name: Texas Standard
+      domain: texasstandard.org
+    quality: 0
 
 secured: "vAmH7ddBZIMay2U/aTKBZMp/MocoT+VIncf4uWmhOxdhNYp2O60+pWlXpBHX7LuT4CBTg9lG+0JMndLzeQ87tuQntjmR/6/CfjaeOvaeYrQgUAqG1bQGJbmT4lFHVroF+xcOHDsxer60/sIVVule4WMa46i4jX0u/qQrZs8hVt8lx+XosDtEMmV/n3QC+UrgditIXGBT7GlSEiKVFPjNTGGn2zVtqwTq5vnAhGgvsamGB5zDHdwM8hqF48onvnbFI6JLGZJzpfM0xSvplOvAbDXcbgTmy/0d+uPAhbID1enCn4UeFh7AEpyhG/oDebEFIusWyZdfYM7DpudekY3+Vb/nqmxYBhjoopy8i4KKho8=;oZWlM4Or5E2FX4it4v9Rwg=="
 ---

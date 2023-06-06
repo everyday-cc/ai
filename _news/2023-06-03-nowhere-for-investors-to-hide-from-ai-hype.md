@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "RXO To Host Investor Webcast About Artificial Intelligence and Machine Learning in the Freight Industry"
+    excerpt: "Event will feature a conversation among Yoav Amiel, Chief Information Officer, Jared Weisfeld, Chief Strategy Officer, and RXO technologists RXO (NYSE:RXO) will host a webcast for investors about arti"
+    publishedDateTime: 2023-06-05T12:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32713884/rxo-to-host-investor-webcast-about-artificial-intelligence-and-machine-learning-in-the-freight-ind"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32713884"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32713884"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "zJ68iYZVRHpDTOXo15NGHFaHL3r0gpQPlhyNBPD0atp9oqKKc+UfWK5nQQ3+EVaPnJxXpXcMU2zCK6Uh1LNB7f7Mv/gDhujtvnFBbC9sbrvmuS2SqFo5PkinR543AZhB2tWiYQIneIedGGIDIsIZ6YdSoVs1VjrjcBS70esFYOuRSjnuFiTHUqJCSr9JAnDKz0eapISwPCfkyFoaQeK0194vniYq8aptC3ZcxwmvysSldVAN+OLwd3Xz/dLOKsi15hIe7yo90ZTOC+odziko1WDuPCz6IGpeMulnt52xkNQab3mNSBAJWqSiJT/DDIevaocrRM8/m9d+y3iEBJFIKSeODKTlihnIlfztE+kP8R7gejYsetzGYSR412ufHoZn7Toa0sbH+FeWpzyOcXNt6z02JFYUzei4ipTa23idv11c0iuereelQdn+x8tlKpXZL0f1CZGCW1ipMbSkcfe4TojnvD4ZS6dzT4gX3WXEM9tVxim2oKmmwPIJdncyD6UVD31aByfDnsc8dZwRh+66YA==;/Dj7/KZOwjJeMGJmpco+/Q=="
 ---

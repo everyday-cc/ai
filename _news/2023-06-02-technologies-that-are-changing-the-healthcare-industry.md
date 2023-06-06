@@ -7,7 +7,7 @@ originalUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/06/
 webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/06/01/456050-technologies-that-changing-healthcare-industry.htm"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "What technology will have the biggest impact on healthcare, per ChatGPT"
+    excerpt: "AI and machine learning algorithms will revolutionize healthcare, improving diagnostics, personalized medicine, and drug discovery."
+    publishedDateTime: 2023-06-05T15:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-technology-will-have-the-biggest-impact-on-healthcare-per-chatgpt.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "9gmHPwxZs1SR8lQHq4jkm7O3jeBYypWNFAYM0yzEA0VoMESMlr+GvGLOb9N9AQd6mkg2RO4glqwWV1SyXAexQl1Pm+gvPeHb6j82pX/umUxoDvIydhDd1NNpghxQZoB3HyF8Nt92Zae7zHS7WwLyJaS7/KveeOYNwwVb2ZtM/bboRb61RBABF8caFFbEs+qfSBIJyP9CX0K3wVw9NjIcl4cluAmCl5jLVyhrK4lFAlguYhe/0PdX8VGlMCRbKnWIxhdS6+wtqv2H62u0jf3nY92gwPOCj4neV8KxDKR9UL5fWyiKS5cIwjUT6lOxEEtJHxVUdEoD65vv7KSLItswquUX6If2wIuK8FDeyXKbuT8C5D/JBgAs6vJLibU863cH8PlxiAmGW8LS7mf7yvCFAd2EOW/xUDTmbKfCJbTIyigiHvcjp5cy3Lt1Oly71uyEWilTZZGOW57RNV3urTZmV1Y03BdmZgtkxZuohsj2t3h++4nuze+13B7XK+6VYXFelI25M/uiJpBdSKTR23588Q==;R9vDQx/H8O72AjJekWwp2Q=="
 ---

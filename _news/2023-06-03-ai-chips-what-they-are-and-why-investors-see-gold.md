@@ -25,73 +25,123 @@ images:
     isCached: true
 
 related:
-  - title: "US seeks to curb investment in Chinese chips, AI and quantum computing"
-    excerpt: "WASHINGTON (Reuters) - New rules under consideration would restrict the flow of U.S. investments and know-how into Chinese companies working on advanced semiconductors, artificial intelligence and quantum computing, a U.S. Treasury official said on ..."
-    publishedDateTime: 2023-06-01T15:41:00Z
-    webUrl: "https://www.reuters.com/article/usa-china-congress-idCAKBN2XM1F6"
+  - title: "What are AI chips and why are they hot?"
+    excerpt: "SAN FRANCISCO >> The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
+    publishedDateTime: 2023-06-01T22:11:00Z
+    webUrl: "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 74
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20230531&t=2&i=1634411747&r=LYNXMPEJ4U0Q7&w=800"
-        width: 800
-        height: 508
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/06/web1_13859247-13f3b5a518ca4bafaefc4d7ce03ff410.jpg"
+        width: 760
+        height: 507
         isCached: true
-  - title: "RXO To Host Investor Webcast About Artificial Intelligence and Machine Learning in the Freight Industry"
-    excerpt: "Event will feature a conversation among Yoav Amiel, Chief Information Officer, Jared Weisfeld, Chief Strategy Officer, and RXO technologists RXO (NYSE:RXO) will host a webcast for investors about arti"
-    publishedDateTime: 2023-06-05T12:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32713884/rxo-to-host-investor-webcast-about-artificial-intelligence-and-machine-learning-in-the-freight-ind"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32713884"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32713884"
+  - title: "Why AI chips are hot and what they are"
+    excerpt: "SAN FRANCISCO >> The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
+    publishedDateTime: 2023-06-01T21:00:00Z
+    webUrl: "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 74
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/06/web1_13859247-13f3b5a518ca4bafaefc4d7ce03ff410.jpg"
+        width: 760
+        height: 507
         isCached: true
-  - title: "AI chip shortage to last until 2024, according to top Chinese AI company"
-    excerpt: "The large-scale language model (LLM) has triggered the continuous growth of China's computing industry. SenseTime, which kept a low profile, has recently been tasked to pilot the AI computing supply chain taking shape in the Shanghai FTZ's Lingang New Area."
-    publishedDateTime: 2023-06-05T08:19:00Z
-    webUrl: "https://www.digitimes.com/news/a20230605PD211/ai-china-server-ipc-cloud-computing-iot.html"
+  - title: "AI chips: Here’s what they are, what they’re for, why they’re hot"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed spec"
+    publishedDateTime: 2023-06-03T13:05:00Z
+    webUrl: "https://www.columbian.com/news/2023/jun/03/ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
+      name: The Columbian
+      domain: columbian.com
+    quality: 54
     images:
-      - url: "https://img.digitimes.com/newsshow/20230605pd211_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Tottenham's Harry Kane invests in fitness AI and robotics company OxeFit"
-    excerpt: "Kane invested in OxeFit as part of the startup’s oversubscribed Series A2 investment round. The Dallas-based fitness AI and robotics company makes smart gym equipment that offers dynamic resistance and computer vision form tracking."
-    publishedDateTime: 2023-06-01T16:32:00Z
-    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/01/Technology/harry-kane-oxefit-investment.aspx"
+  - title: "AI chips are hot: Here's why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make"
+    publishedDateTime: 2023-06-05T15:04:00Z
+    webUrl: "https://www.news-journal.com/news/business/ai-chips-are-hot-heres-why-investors-see-gold/article_6d44afb2-03b2-11ee-bc1f-e72181d9132a.html"
     type: article
     provider:
-      name: Sports Business Journal
-      domain: sportsbusinessjournal.com
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/77/d7709f22-03b2-11ee-a124-0bc30dd5c12e/647dfa9936f24.image.jpg?crop=1646%2C864%2C0%2C196&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
+    publishedDateTime: 2023-06-04T04:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/jun/04/ai-chips-are-hot-tfp/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
     quality: 48
-  - title: "Chinese Self-Driving Truck Startup TuSimple Enters Japanese Market"
-    excerpt: "Chinese autonomous driving truck startup TuSimple Holdings announced it has entered Japan to alleviate the driver shortage and aging problems facing the Japanese freight market. TuSimple carried out self-driving tests on the Tomei Expressway,"
-    publishedDateTime: 2023-06-06T07:40:00Z
-    webUrl: "https://www.yicaiglobal.com/news/20230606-12-chinese-self-driving-truck-startup-tusimple-to-enter-japanese-market"
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/06/03/AP23152002685626_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "AP: AI chips are hot. Here’s what they are, what they’re for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed"
+    publishedDateTime: 2023-06-03T01:02:00Z
+    webUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+    ampWebUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
+    cdnAmpWebUrl: "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 24
+      name: 92.7 WMAY
+      domain: wmay.com
+    quality: 46
+  - title: "AI chips are hot: What they are, what they’re for and why investors see gold AI晶片在紅什麼？為何它是投資人眼中的金礦？"
+    excerpt: "Such chips have suddenly taken center stage in what some experts consider an AI revolution that could reshape the technology sector — and possibly the world along with it. Shares of Nvidia, the leading designer of AI chips,"
+    publishedDateTime: 2023-06-05T16:01:00Z
+    webUrl: "https://www.taipeitimes.com/News/lang/archives/2023/06/06/2003801017"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 40
     images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/06/24616890641093.jpg"
-        width: 770
-        height: 510
+      - url: "https://www.taipeitimes.com/images/2023/06/06/P14-230606-334.jpg"
+        width: 800
+        height: 533
         isCached: true
+  - title: "What are AI chips and why are they in big demand?"
+    excerpt: "Artificial intelligence chips are designed specifically to make building AI systems such as ChatGPT faster and cheaper. They have suddenly taken centre stage in what some experts consider an AI revolu"
+    publishedDateTime: 2023-06-05T12:33:00Z
+    webUrl: "https://www.firstpost.com/explainers/what-are-ai-chips-and-why-are-they-in-big-demand-12694922.html"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 34
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "AI chips and their leading designer, Nvidia, are now at the center of what some experts consider an AI revolution that could reshape the technology sector and possibly the world along with it."
+    publishedDateTime: 2023-06-01T18:30:00Z
+    webUrl: "https://omaha.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_b29fedbe-109c-55f5-96f5-b3b3303c2067.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 28
 
 secured: "0eIc0CbM2nMKj+XuORupYOO9CsRsA+LJW5xHWPF5etYvweb+dKFrEoIp8vCEJC3DpCm5Ua+ol/N70uhE77dO2i2Ag4e8I4yPIClM4jT8u4aYGG4KjVNLYe5wShomn+fkWP+Eob6f6TrUx2D+sBnKlal6e2MRmW1QHyBKzHj5wXwQrxUpgTwsUMvLdcR0xhdrd1Ot8kJ94RRhfCftD8L3EV09AU8oaa5bIRA4gujGsk/biBOwAz/XLHeRdXfu3eFD4IHgpK67qLb9RqpAKIgWNFt1XzlswmatofyIBUJLwIfaFilx/WL7wlrNvmY+G/Xt7WgL2HphXbWvZwHYMrLzizodtzI7HKK0150/m5dlUa1XcnKUiOSUUYZOMrZ3jz85oJjvS0hwtCqR8TJB8kx/ypUw0xR4kQcy4K4fh/p9rfY2b1Dg5lqLpV7a16Q1i94vd7BVd5C7e8syRAXZV5qJVlwFDo0Ncdy8B8zmyFRAryathL6sjBgWC33YWy1ckua9aQGh9E+gX7qTz1ILR1HWGw==;c/2GA9JOLN88APM365bkOg=="
 ---

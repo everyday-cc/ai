@@ -7,7 +7,7 @@ originalUrl: "https://www.japantimes.co.jp/news/2023/06/06/business/ai-home-robo
 webUrl: "https://www.japantimes.co.jp/news/2023/06/06/business/ai-home-robot/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 489
     isCached: true
 
-secured: "dmdebwHkg0SVYgIVNWA5syLMttuzJ84TMDDtVM2hNA26Kvf5YF4Kz9fW/siAxD+e4dRuTMCSNYUJYxggBsTNNUwi19jKKfYeE7tYbOsYAzrKn6hxtxI0MSHpnmLN+fTmS846GYKBJRvfVTH8Er7S3ircQpglQlTJIGdEwrFo1kJVGkJVxV5UNdpz3qsmVvZHP5ZrovTopHskwX4bWQjDvMdX7jrrTvgTiiAQCRFbfZNCr/mKOhS05at789pyovwcUsnlZYDlGbzg4OzZteyfrP6V2Ngi4I7cehGpFG31paUy2fIxiGdz8zZ9IGSsyNZrzocf9Sr4OvoXGqrPFMYc0B8jbXDKjUsUB9Q/XDNrNPk=;AsY2kILydahfg9VUQGgVyA=="
+related:
+  - title: "Chinese Self-Driving Truck Startup TuSimple Enters Japanese Market"
+    excerpt: "Chinese autonomous driving truck startup TuSimple Holdings announced it has entered Japan to alleviate the driver shortage and aging problems facing the Japanese freight market. TuSimple carried out self-driving tests on the Tomei Expressway,"
+    publishedDateTime: 2023-06-06T07:40:00Z
+    webUrl: "https://www.yicaiglobal.com/news/20230606-12-chinese-self-driving-truck-startup-tusimple-to-enter-japanese-market"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 24
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/06/24616890641093.jpg"
+        width: 770
+        height: 510
+        isCached: true
+
+secured: "tDZD9ymqMJB2aC7UDQdtVw3gQ4lacCXiSqOTy4EmqSbzl6qWuz+kRQJir5D240LuzEIe0c/41AR/5/q06sTv/HYmSrXKsaggC9oUizOXqt6H6ETKWRYs4dCcggKcskLZhNwZwwfpXkZntE796XfnzpNTpdCiYWUQT+JBiNTFTd0+CdbxTkrdXGJfJCOvQviwOOR929ogfvkDnJg66sgcYGKSG+S48/JOdnfKHlZygBGkZkP1GS8dVftp1RzMFIqNFLIJEoN4SLaXdqy7/YapFDFX/gsouYIkYkl1wtzj+So6FwEiwEDv2ZKQUD//8waZl9dK2//Q33l1F25gmflxi3YpBn0RGLxm0IQttbJFOzah1zeO4qPXzDicCIF9VElRHgJjkqU/gpkvoHb/Pot0BqHh2X1G4wKTk991OmLvinIsNWy9zB/MoNbgY/h5sKNTHoI9J2p05e0SlEkN66HrwR6SfRgedDjD15bZd5S26c0BRyoGtwDtZItUyT/TI9Pq2N3YP76O/EyLDVViSBXFew==;GZiTs9gX+P3eLRsvhUSEmQ=="
 ---
 

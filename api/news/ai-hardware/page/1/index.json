@@ -530,49 +530,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
-      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
-      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "publishedDateTime": "2023-06-01T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-investors-see-ai-chips-as-new-gold-heres-why.md",
       "title": "Investors See AI Chips as New Gold. Here’s Why",
       "excerpt": "AI chips have suddenly taken center stage in what is considered an AI revolution that could reshape the technology sector—and the world",
@@ -1478,6 +1435,58 @@
         "AI",
         "AI Hardware",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets.md",
+      "title": "MediaTek taps Nvidia GPU and AI for connected car chipsets",
+      "excerpt": "Today at Computex, MediaTek and Nvidia announced a partnership to develop a unique platform for AI-powered connected cars.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/",
+      "originalUrl": "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA-e1685375149906.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-29T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

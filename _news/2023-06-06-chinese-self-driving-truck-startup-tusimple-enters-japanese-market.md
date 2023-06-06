@@ -25,74 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "US seeks to curb investment in Chinese chips, AI and quantum computing"
-    excerpt: "WASHINGTON (Reuters) - New rules under consideration would restrict the flow of U.S. investments and know-how into Chinese companies working on advanced semiconductors, artificial intelligence and quantum computing, a U.S. Treasury official said on ..."
-    publishedDateTime: 2023-06-01T15:41:00Z
-    webUrl: "https://www.reuters.com/article/usa-china-congress-idCAKBN2XM1F6"
+  - title: "Japanese AI startup launches robot for home use"
+    excerpt: "Weighing 10 kilograms, the Kachaka robot can carry up to 20 kg, including its attached table. It moves as fast as 80 centimeters per second."
+    publishedDateTime: 2023-06-06T05:56:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2023/06/06/business/ai-home-robot/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20230531&t=2&i=1634411747&r=LYNXMPEJ4U0Q7&w=800"
-        width: 800
-        height: 508
-        isCached: true
-  - title: "RXO To Host Investor Webcast About Artificial Intelligence and Machine Learning in the Freight Industry"
-    excerpt: "Event will feature a conversation among Yoav Amiel, Chief Information Officer, Jared Weisfeld, Chief Strategy Officer, and RXO technologists RXO (NYSE:RXO) will host a webcast for investors about arti"
-    publishedDateTime: 2023-06-05T12:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32713884/rxo-to-host-investor-webcast-about-artificial-intelligence-and-machine-learning-in-the-freight-ind"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32713884"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32713884"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "AI Chips: What They Are and Why Investors See Gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-    publishedDateTime: 2023-06-03T08:55:00Z
-    webUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
-    type: article
-    provider:
-      name: Business Journal Daily
-      domain: businessjournaldaily.com
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
     quality: 54
     images:
-      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/06/Nvidia-HGX-H100-module-AP.jpg"
-        width: 925
-        height: 520
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2023/06/np_file_230773-870x489.jpeg"
+        width: 870
+        height: 489
         isCached: true
-  - title: "AI chip shortage to last until 2024, according to top Chinese AI company"
-    excerpt: "The large-scale language model (LLM) has triggered the continuous growth of China's computing industry. SenseTime, which kept a low profile, has recently been tasked to pilot the AI computing supply chain taking shape in the Shanghai FTZ's Lingang New Area."
-    publishedDateTime: 2023-06-05T08:19:00Z
-    webUrl: "https://www.digitimes.com/news/a20230605PD211/ai-china-server-ipc-cloud-computing-iot.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230605pd211_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Tottenham's Harry Kane invests in fitness AI and robotics company OxeFit"
-    excerpt: "Kane invested in OxeFit as part of the startup’s oversubscribed Series A2 investment round. The Dallas-based fitness AI and robotics company makes smart gym equipment that offers dynamic resistance and computer vision form tracking."
-    publishedDateTime: 2023-06-01T16:32:00Z
-    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/01/Technology/harry-kane-oxefit-investment.aspx"
-    type: article
-    provider:
-      name: Sports Business Journal
-      domain: sportsbusinessjournal.com
-    quality: 48
 
-secured: "sOCu4n+y86JIaSC+J1YF9wo4NkDp9rl+9Xwc0p0WjWZYgEu7QNDSmVK99RkrZQk5RxbOYgYzLm2JyDO14saNrIMMZ/QJu5FEZDiEjvlDw7LNloZ4wYWu693tznW8POHMI751tOQmCu0tQe5w8PeKIBlyXQ/ftH96y3/Rjfr07Ld+Rr1lrdlGlqtgAg3xwxRDbQhJXPKUgCOxlybUNYQmaXDBPA09nuV5r4LNBSNU2p/p3gctNylrCKsMP57aHimUzstKNGwhSwReoRmdi5fYOXAVZJZ3FYZFeO1+InyC2m3+/7irMk1yfmYM+6+xuZt9YepT90/jDB2HM3HLEg45sOlyyhq7nSPza3bHzG8gysA=;pzeN0/Fm2CpRQMk/WInehQ=="
+secured: "hOcxL36zR3glkhQvWrpP3PhSoHnXYDa2wHC2wMqg+dysvH1S/O6JMavNpqkxaMSDL0aZiAqLs3WMkOy+LsxlLiMB6PZF8giMrA8FP5febFcBvdruf7PHHpL6ITjDGujpnfhF2+NvVx8BUrCMI+4OEw9m7XOqviNoEys7o7gnV2txfZgjApzE4DwiK0LssPnNQQ6QiOM6J/nABy9XY5bv9uVXvxQ77aPSTSIBk8L9TrbwKZeBqD8QHrV4cWzhc+dfZDnu18gqQJ3TAKpM1ny5m7XrIlV3hQGKoyuwcJ+f081KDiV0sIHCWZOUbl/FeeFbB/pl/YzAjQ+93yVQ8gjjPaZq66rhzIr7Nm+UE03ZUSKXJc1x/nt/pXNhAPHx626eAtRMvq38R3lLWED+suanIkx8ZPDpmABNHcp959rTfCsHU/6h8NNWlWBPOkHA3WCx8Im9NKHPXov/Xj1oyJH1AlvM0MyubwSVYWxXegxtyQu6wdp8zXLkmTwdNnRZ7o6Bt4o5QBmAd6GWZJW8NuMjuA==;6qwWRRPFJlpIgEvwhDOPfg=="
 ---
 

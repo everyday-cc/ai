@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/"
 type: article
 quality: 87
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.penncapital-star.com/wp-content/uploads/2022/03/GettyImages-521369998-scaled.jpg"
         width: 2560
         height: 1670
+        isCached: true
+  - title: "Bridging the regulatory gap plus other AI stories to read this month"
+    excerpt: "This artificial intelligence round-up brings you key AI stories from the last month including EU and US aims to bridge the AI regulatory gap."
+    publishedDateTime: 2023-06-06T08:21:00Z
+    webUrl: "https://www.itu.int/hub/2023/06/bridging-the-regulatory-gap-plus-other-ai-stories-to-read-this-month/"
+    type: article
+    provider:
+      name: ITU
+      domain: itu.int
+    quality: 39
+    images:
+      - url: "https://www.itu.int/hub/wp-content/uploads/sites/4/2023/05/jYO-NMb2GzFr4YfCq-Xrde2y9fchIQumY-2AeSQgp3Y_Unsplash-1.jpg.optimal.jpg"
+        width: 1920
+        height: 1517
         isCached: true
   - title: "How the Biden administration is trying to regulate bias in health care AI"
     excerpt: "Artificial intelligence could revolutionize health care. It could also perpetuate and exacerbate generations of racial inequities."

@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 996
         isCached: true
-  - title: "8Flow.ai Announces Self-Learning Automation Engine for Customer Support, Raises $6.6 Million"
-    excerpt: "SAN FRANCISCO / ACCESSWIRE / June 1, 2023 / 8Flow.ai, a startup focused on analyzing and automating customer support workflows, has emerged from stealth and raised $6.6 million in funding. The round was led by Caffeinated Capital, with participation from ..."
-    publishedDateTime: 2023-06-01T15:26:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article275984861.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 6
 
 secured: "2U1N7IiMgH/zLg7L7ofB43j3xCdaxKUujWnLcwyplQuJOhjWcuWhtzmemBXLuRjymvXkFPFn206+UU6NOq5INm/H3dIrxxx1LXU5wIsMipTWaUlf6pi1Dd9ZPt3TVOl53OqfyE1OS0kyyRi9lfl92TTbfz14+R/UgliETwg2NwiINkh/4PxG72Aooq8Fkocj75iFsXlQm4UD8Yw70jriMtbLGg3FcuG1RhcpUnvlPjdttGwx4HNTUgkYRuu62VJ85ZMiTU6zGZF3AxE1Ei0OvF2cb7wLSQhBxs66vURRJOPyBT0v9ENhAY9d2DcEYg0kh9csYBHLgp2uFjogw9BlZIVsgRKXCvCzvQJi7RWKBds=;cuZMl0Zzafsy2IwXY7sR8A=="
 ---

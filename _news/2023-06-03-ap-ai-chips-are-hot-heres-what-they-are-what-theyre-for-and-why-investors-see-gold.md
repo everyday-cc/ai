@@ -53,20 +53,6 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "AI chips are hot. Here's what they are."
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip,"
-    publishedDateTime: 2023-06-01T15:11:00Z
-    webUrl: "https://norfolkdailynews.com/news/national/feature_national/ai-chips-are-hot-heres-what-they-are/article_e50444c6-008e-11ee-8e38-6b3227a49a96.html"
-    type: article
-    provider:
-      name: Norfolk Daily News
-      domain: norfolkdailynews.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/2/f2/2f237702-008f-11ee-8f78-27dd5b461b9c/6478b65123d5c.image.jpg?crop=620%2C326%2C0%2C43&resize=620%2C326&order=crop%2Cresize"
-        width: 620
-        height: 326
-        isCached: true
   - title: "AI chips: Here’s what they are, what they’re for, why they’re hot"
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed spec"
     publishedDateTime: 2023-06-03T13:05:00Z
@@ -80,6 +66,20 @@ related:
       - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI Chips: What They Are and Why Investors See Gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+    publishedDateTime: 2023-06-03T08:55:00Z
+    webUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
+    type: article
+    provider:
+      name: Business Journal Daily
+      domain: businessjournaldaily.com
+    quality: 54
+    images:
+      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/06/Nvidia-HGX-H100-module-AP.jpg"
+        width: 925
+        height: 520
         isCached: true
   - title: "AI chips are hot: Here's why investors see gold"
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make"

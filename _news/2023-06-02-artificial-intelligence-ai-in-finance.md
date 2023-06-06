@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/artificial-intellige
 webUrl: "https://www.eweek.com/artificial-intelligence/artificial-intelligence-finance/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
+  - title: "Wolfe Research Remains a Sell on C3ai (AI)"
+    excerpt: "In a report released yesterday, Joshua Tilton from Wolfe Research maintained a Sell rating on C3ai (AI – Research Report), with a price"
+    publishedDateTime: 2023-06-06T08:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wolfe-research-remains-a-sell-on-c3ai-ai-1032372111"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "18drmMxGMGsABRHPOg/HCXASTTDbSypYSbqU0jCCCR1J4TBmkKQbuzDnbxm9GUnMjJuO2E9QEkAnW+zgykhSMGFT61W4rzr04IymorOCHpePDekDE69k3QVyr0Qo5blFjlHCnEO6CesJclm/XNg+P082BUjxCJRnG6lhYFr+pz+XYJyGcqmzIoMAgrUVl5J2x+toIL3ZmDiaAgy9/cff4+o5hIlvO3Xb7Facbjc/BxlBOwxPTVHj6FmSCszJ7jTYgQ7lgecxw+rUhr+I/1Hm+ayqJ1ykeRyk9IxDzxZazvaLguu6BTGfybhqPvtnJQmFa0LB9dXATzCb2VZNa38gNoOKizSpdXxAhqOJMdyRL3G23VVzRkcAGTrp2c8xfUXfznteiHgr/jrFk0qhWkhV/MR2zmeSwlkSeI1bZfE+YFvxHEZRfuya3wBJv78cyzSzUscUYVu99D1oJs4fJQzFFBRn2BayD3bEcw23jSo3KRXlflWRMNRaec48tE/q5gDevSSqnyKiB+eCVc2dZVM0+A==;ACtDjWvUM3dMZzjDSjnhGQ=="
 ---

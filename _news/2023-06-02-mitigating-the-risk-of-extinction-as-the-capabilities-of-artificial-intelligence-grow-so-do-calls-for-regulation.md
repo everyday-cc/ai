@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Let’s All Calm Down About AI’s ‘Extinction Risk’"
+    excerpt: "Even so, fibs travel halfway around the world before the truth laces up its boots and the story is bound to seep into our collective, unconscious worries about AI’s threat to the human race, an idea that has gained steam thanks to warnings from two “godfathers” of AI and two open letters about existential risk."
+    publishedDateTime: 2023-06-05T23:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/06/06/fear-of-ai-s-extinction-risk-is-a-helpful-distraction-for-openai-google/71988880-0426-11ee-b74a-5bdd335d4fa2_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Tech leaders issue dire \"extinction\" risk warning over AI"
     excerpt: "We got an alarming warning this week about artificial intelligence from some of the world's top minds on the matter, explains Dr. Manjeet Rege, chair of the department of software engineering and data science at the University of St."
     publishedDateTime: 2023-06-01T21:50:00Z

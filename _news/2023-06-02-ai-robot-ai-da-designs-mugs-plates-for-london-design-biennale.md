@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch: Artificial intelligence dominates London Robot Show"
-    excerpt: "A quick lesson in artificial intelligence from Ameca who uses OpenAI’s ChatGPT-3 to respond to any question you might have – and can respond in any language.The robot is built by Engineered Arts, a UK-based company."
-    publishedDateTime: 2023-06-01T16:46:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/videoshow/100685103.cms"
-    ampWebUrl: "https://m.economictimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/amp_videoshow/100685103.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/amp_videoshow/100685103.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://img.etimg.com/thumb/width-600,height-450,msid-100685103,imgsize-32844/watch-artificial-intelligence-dominates-london-robot-show.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AI dominates London Robot Show"
     excerpt: "A quick lesson in artificial intelligence from Ameca who uses OpenAI’s ChatGPT-3 to respond to any question you might have – and can respond in any language. The robot is"
     publishedDateTime: 2023-06-01T21:00:00Z

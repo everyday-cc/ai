@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647994d97ff0e466a60e1090/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "3 artificial intelligence share ideas"
-    excerpt: "Investing in artificial intelligence (AI) has become a key stock market theme in 2023. Here are three share ideas that could benefit."
-    publishedDateTime: 2023-06-01T16:23:00Z
-    webUrl: "https://www.hl.co.uk/news/articles/3-artificial-intelligence-share-ideas"
-    type: article
-    provider:
-      name: Hargreaves Lansdown
-      domain: hl.co.uk
-    quality: 39
-    images:
-      - url: "https://www.hl.co.uk/__data/assets/image/0004/18673762/Graphic-lightbulb.jpg"
-        width: 5150
-        height: 2508
         isCached: true
 
 secured: "USVoglaLLqFmW4fbVz88QXIPnTmWIEFXmzj6iko5WpNp+SueArHlE3rHdUCOA5EH6zf517c8xrck/Ny8XdrLS/bBYintCiTNiSSZkqVy88NH3BSzVCKi2LOM21pLyyfixAoLcAkbfkz8rMvAJJPiZbSwYKu9imhvbUm/k3wtaOnMkxGwoNTA4Hc3aV/bUlqRMA6G44rK4EmiyC83mNP3QjI2qR5FQKfchFw30AEU4eSnFFghEYxFXDJ9j02sBqVjBIo5YOSE13k2AMbjXMBBXjmJtmuzmUyVoIg4So62FaIet2cPDndyYy+ciX4t0hKNJi4dKz3iSTfD4VXpG1pI9V332g/8SRT5jSmC8Zw54Is=;ILceNle3zKzKRqg9waeh7w=="

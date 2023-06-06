@@ -2,6 +2,161 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2023-03-27-deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry.md",
+      "title": "Deep Agency shows the perils of applying AI to the fashion industry",
+      "excerpt": "Earlier this month, Danny Postma, the founder of Headlime, an AI-powered marketing copy startup that was recently acquired by Jasper, announced Deep Agency, a platform he describes as an “AI photo studio and modeling agency.” Using art-generating AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/",
+      "originalUrl": "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/11/489474058a.jpg?resize=1200,799",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/",
+      "publishedDateTime": "2023-03-27T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-turing-launches-ai-powered-services-to-form-engineering-dream-teams.md",
+      "title": "Turing launches AI-powered services to form engineering dream teams",
+      "excerpt": "Turing’s Talent Cloud uses AI to eliminate the arduous task of matching highly qualified ... GCP, BigQuery, Node, React, Azure and Python. Turing designs its services using a distributed application framework and the microservices architecture to scale ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/",
+      "originalUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/",
+      "publishedDateTime": "2023-03-27T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031.md",
+      "title": "AI and Big Data Analytics in Telecom Market Size and Forecast till 2031",
+      "excerpt": "The \"AI and Big Data Analytics in Telecom Market\" study describes how the technology industry is evolving and how major",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031-2023-03-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031-2023-03-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-how-to-use-gptzero-to-check-for-ai-generated-text.md",
       "title": "How to use GPTZero to check for AI-generated text",
       "excerpt": "GPTZero can tell you whether a document, report or other item was possibly written by a human or by AI. Here’s a step-by-step guide on using GPTZero for this purpose. With the popularity of ChatGPT, many people are starting to rely on AI to generate emails,",
@@ -1061,126 +1216,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-deep-learning-ip-listing.md",
-      "title": "Deep learning IP Listing",
-      "excerpt": "c.WAVE120 is a deep learning-based super-resolution HW IP that upscales low-resolution data into high resolution in real-time. The neural network on c.WAVE120 is designed and trained to upscale ... DMP's AI Processor IP, ZIA ™ DV 500, is the ultra low ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/sip/?q=deep+learning",
-      "originalUrl": "https://www.design-reuse.com/sip/?q=deep+learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-the-tiniest-computer-vision-platform-just-got-better.md",
-      "title": "The Tiniest Computer Vision Platform Just Got Better",
-      "excerpt": "The future, if you believe the ad copy, is a world filled with cameras backed by intelligence, neural nets, and computer vision. Despite the hype, this may actually turn out to be true ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
-      "originalUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/09/openmvheader.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-brain-computer-interface-enables-mind-control-of-robot-dog.md",
-      "title": "Brain-Computer Interface Enables Mind Control of Robot Dog",
-      "excerpt": "According to the scientists, their brain-machine interface solution is able to control and command the movement of a robotic dog with 94 percent accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog",
-      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic77155.jpg?itok=kEySPcAo",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp",
-      "publishedDateTime": "2023-03-26T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

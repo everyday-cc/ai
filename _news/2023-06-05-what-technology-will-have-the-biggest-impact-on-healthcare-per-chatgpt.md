@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-technology-will-have-the-biggest-impact-on-healthcare-per-chatgpt.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,132 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
-    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
-    publishedDateTime: 2023-06-01T16:31:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june"
-    ampWebUrl: "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp"
+  - title: "Technologies that are Changing the Healthcare Industry"
+    excerpt: "Health and wellness are topics that are growing in importance in the United States. Individuals, families, businesses, CEOs, and everyone in between are spending more time prioritizing well-being, and the industry itself is constantly evolving to keep up with everyone''s needs and health goals."
+    publishedDateTime: 2023-06-01T19:18:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/06/01/456050-technologies-that-changing-healthcare-industry.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
-        width: 470
-        height: 352
-        isCached: true
-  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
-    publishedDateTime: 2023-06-02T16:30:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-    images:
-      - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
-    publishedDateTime: 2023-06-01T17:30:00Z
-    webUrl: "https://www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-reality-hype-2023-june"
-    ampWebUrl: "https://www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-reality-hype-2023-june?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-reality-hype-2023-june?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/64403454632fda001803b2e0?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
-    publishedDateTime: 2023-06-05T17:30:00Z
-    webUrl: "https://www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june"
-    ampWebUrl: "https://www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/64403454632fda001803b2e0?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "A lawyer got ChatGPT to do his research, but he isn’t AI’s biggest fool"
-    excerpt: "The emerging technology is causing pratfalls all over – not least tech bosses begging for someone to regulate them"
-    publishedDateTime: 2023-06-03T14:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jun/03/lawyer-chatgpt-research-avianca-statement-ai-risk-openai-deepmind"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/03/lawyer-chatgpt-research-avianca-statement-ai-risk-openai-deepmind"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/03/lawyer-chatgpt-research-avianca-statement-ai-risk-openai-deepmind"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/1a91376e4676a8b5d2eef35632e0a54adcd7f2cf/0_123_4866_2920/master/4866.jpg?width=620&quality=85&auto=format&fit=max&s=b2774c2461091f7b2b6ea13932897571"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Sensory fast-tracks accurate custom voice UIs using ChatGPT generative AI"
-    excerpt: "Beyond its AI capabilities, VoiceHub 2.0 also features a refreshed portal UI layout and supports 25 languages and regional dialects."
-    publishedDateTime: 2023-06-01T15:47:00Z
-    webUrl: "https://www.biometricupdate.com/202306/sensory-fast-tracks-accurate-custom-voice-uis-using-chatgpt-generative-ai"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/01114551/voicehub-sensory.png"
-        width: 1497
-        height: 696
-        isCached: true
-  - title: "ChatGPT and Generative AI in Search: The Biggest Digital Ad Format Is Ripe for Revolution"
-    excerpt: "Microsoft and Google are racing to develop the best AI-assisted search experience, leaving advertisers on the precipice of major disruption."
-    publishedDateTime: 2023-06-01T18:59:00Z
-    webUrl: "https://www.businessinsider.com/search-generative-ai-chatgpt-biggest-search-format-ripe-for-revolution-2023-june"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "This test might be an easy way to distinguish humans from AI like ChatGPT"
-    excerpt: "A test called the Capital Letter Test might help you discern a human from generative AI software like ChatGPT - here's how it works."
-    publishedDateTime: 2023-06-02T17:04:00Z
-    webUrl: "https://bgr.com/tech/this-test-might-be-an-easy-way-to-distinguish-humans-from-ai-like-chatgpt/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 36
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/chat-gpt-open-ai.jpg?quality=82&strip=all"
-        width: 3024
-        height: 1701
-        isCached: true
-  - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
-    excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
-    publishedDateTime: 2023-06-01T18:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-media-use-cases-set-battle-begins-2023-june"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 19
 
 secured: "dSVAayZYM6lX/jZa7eUjKAcDcXbHhtbrmAfPx2aUlF5gH+srnJlpW2+9iK2B1Jw007XQcg8jmZAboFA41kgk1HJWc2Wu2ibAFIP6CrRQUw+iga/6+Kr3t1fI+OrI3PCadeP1QBykIRKRJ+pbHpMDRoTIvhBmhv2/3OC8Puj6jgm6sOVzT2j1s+W1B78zDexSNCbTlnaY2M5YIrgVkOYj6ljcPY1Wdwk9IC39P1NqizhzUd6bqSNLalJ0S4aVe3fve0BOnm6GC5UMQe46VwFzYTnETgd5Q4iiMTwFA4B38gX1+XuWN54mnV3pWFDC+AvhPvgozAJ13JAwJ0WmE44+91EqOOcA7wNUXz18Wyci6l8=;afHpcj043cAWkR5Q7wr9Ng=="
 ---

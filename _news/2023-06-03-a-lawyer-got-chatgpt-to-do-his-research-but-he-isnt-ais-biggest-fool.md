@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
-    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
-    publishedDateTime: 2023-06-01T16:31:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june"
-    ampWebUrl: "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
-        width: 470
-        height: 352
-        isCached: true
   - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
     publishedDateTime: 2023-06-02T16:30:00Z
@@ -94,33 +78,19 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "What technology will have the biggest impact on healthcare, per ChatGPT"
-    excerpt: "AI and machine learning algorithms will revolutionize healthcare, improving diagnostics, personalized medicine, and drug discovery."
-    publishedDateTime: 2023-06-05T15:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-technology-will-have-the-biggest-impact-on-healthcare-per-chatgpt.html"
+  - title: "Apple’s Vision Pro needs AI like ChatGPT as soon as possible"
+    excerpt: "Apple just unveiled the Vision Pro AR/VR headset. But the powerful hardware needs one more thing: a ChatGPT-like generative AI assistant."
+    publishedDateTime: 2023-06-06T01:22:00Z
+    webUrl: "https://bgr.com/tech/apples-vision-pro-needs-ai-like-chatgpt-as-soon-as-possible/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: BGR
+      domain: bgr.com
     quality: 39
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Sensory fast-tracks accurate custom voice UIs using ChatGPT generative AI"
-    excerpt: "Beyond its AI capabilities, VoiceHub 2.0 also features a refreshed portal UI layout and supports 25 languages and regional dialects."
-    publishedDateTime: 2023-06-01T15:47:00Z
-    webUrl: "https://www.biometricupdate.com/202306/sensory-fast-tracks-accurate-custom-voice-uis-using-chatgpt-generative-ai"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/01114551/voicehub-sensory.png"
-        width: 1497
-        height: 696
+      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-279.jpg?quality=82&strip=all"
+        width: 1600
+        height: 885
         isCached: true
   - title: "ChatGPT and Generative AI in Search: The Biggest Digital Ad Format Is Ripe for Revolution"
     excerpt: "Microsoft and Google are racing to develop the best AI-assisted search experience, leaving advertisers on the precipice of major disruption."

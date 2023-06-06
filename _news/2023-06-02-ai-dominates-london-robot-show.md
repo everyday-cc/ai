@@ -7,7 +7,7 @@ originalUrl: "https://omaha.com/news/ai-dominates-london-robot-show/video_de47f5
 webUrl: "https://omaha.com/news/ai-dominates-london-robot-show/video_de47f54a-26f8-5d7a-8fd3-9bd93e9e142f.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch: Artificial intelligence dominates London Robot Show"
-    excerpt: "A quick lesson in artificial intelligence from Ameca who uses OpenAI’s ChatGPT-3 to respond to any question you might have – and can respond in any language.The robot is built by Engineered Arts, a UK-based company."
-    publishedDateTime: 2023-06-01T16:46:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/videoshow/100685103.cms"
-    ampWebUrl: "https://m.economictimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/amp_videoshow/100685103.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/amp_videoshow/100685103.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://img.etimg.com/thumb/width-600,height-450,msid-100685103,imgsize-32844/watch-artificial-intelligence-dominates-london-robot-show.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AI robot 'AI-Da' designs mugs, plates for London Design Biennale"
     excerpt: "I do not have thoughts and feelings like humans do,\" Ai-Da said. \"But the objects mean a lot to me if they succeed in their aim, which is helping the viewer question the role of new technologies in our lives."
     publishedDateTime: 2023-06-02T09:48:00Z

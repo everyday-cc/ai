@@ -24,17 +24,6 @@ images:
     height: 316
     isCached: true
 
-related:
-  - title: "AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
-    excerpt: "African fintech startups have been selected for the inaugural Amazon Web Services (AWS) FinTech Africa Accelerator cohort. This cohort was selected from over 500 applications and is part of the EMEA Startup Loft Accelerator (SLA) program run by AWS."
-    publishedDateTime: 2023-06-01T16:43:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1326213&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 12
-
 secured: "+4CfxJy7ob10bjEcmbnmk0OW+m7BVHTWyywKdbQSy+crDWgsT5KiC5WV0IPP5MWUkIPCz/WilU5+Mr815WEQ+nlaB/Gu9ryHQnMvX5DgNe99GSe+zYjOJGcG3twVvmFOh/+W8bXm1WNfnB00i6Z/tybDmG2sxmxfDwR+I9jbgye+SRXCH98hC1ML2emp2rQaZ0wFrgKFTXvTwHkvFqOMdtAo2M7j9pikS9ku9W9fGtBWrDMXwKCxSN+tngRc/R9xDbFr9GaoXMX6ihEoHV4rc5tGo567+jerLqNdPvPKw63dXBskAve+KnJrecvVwvT1obS2RGV5tTuQR1HINCIwEkZcOP85COgsGUycxnV6MOxDeuS9qsoP22M5Xsh9/ubK/5vB7PdoHYV3w1gtVA3xS7+kJeXp7B2DV8peC00PbGjQThpoitf6ri/zR6525pkE8iVvbbzPt9H7qcZZC4OFPlPqBIgF6Hzz5dQVSg2x+zFVgzsmE2M/OGSBD56kYIJjyIQNj2KJUyNeCgHLJMiwMA==;ELHKSmxpkn4tWBaZQnwE0g=="
 ---
 

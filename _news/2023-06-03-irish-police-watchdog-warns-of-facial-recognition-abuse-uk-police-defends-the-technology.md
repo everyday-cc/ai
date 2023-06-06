@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202306/irish-police-watchdog-warns
 webUrl: "https://www.biometricupdate.com/202306/irish-police-watchdog-warns-of-facial-recognition-abuse-uk-police-defends-the-technology"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "GSOC chief warns that body cams and facial recognition tech will be open to abuse"
-    excerpt: "GSOC boss Hugh Hume said that the watchdog will need significant investment if it is to keep track of misconduct related to abuse of new technologies."
-    publishedDateTime: 2023-06-01T15:54:00Z
-    webUrl: "https://www.thejournal.ie/gsoc-ireland-6083158-Jun2023/"
-    type: article
-    provider:
-      name: TheJournal.ie
-      domain: thejournal.ie
-    quality: 34
-    images:
-      - url: "https://img2.thejournal.ie/article/6083158/river/?height=400&version=6083316"
-        width: 613
-        height: 400
-        isCached: true
 
 secured: "97XCTEKJxygxKMMbYwC1Icwa7pXeL3fdPJn6rl8QCoPVm/dYnCnLSpjVtjb5Mv9jBHBr1W0OzFIvMeX4wYm5I+Gu61kttsAgC1SWQ94XiwO5ZFM0EYrmWf84Z5OEmGxbn4FeH++oqd9mOrbRru2x7iRpRjIRa7jOo5hPjxG2rCksw2O2a2h3XRLVB/0QhWmcUYr5LO+4WSeD/wMUTAfeHKMwRGDTWy7JR4y2vtV4mAeB1xu5vEZo7tFsQXZIUr8n1HxNAVQ+Tt7NWebwsX51aVVcLdxR6RsIIBLx7ljRsBXAKH0buZNiRMZfsikdYO2AFtTvpENf/7P/aXzGWodMbdHJzWEqkZ1+ulsxgB3GZpchH85GrxAEBiiqXmNVD643IWHbJobXReaJ6Yzb0FLbR2NWTGyv7kTobisnGe6gGAoUVZmmeVTVyREp1JMgBpP2c0TNIwypazKs7SkFOUeEh9ZznWnNmfBo3ccYID93EsC/nKayrs5jPitJkkV6p2/YCmQ+smilbE4nO2JTC+gSWQ==;IZsB/VX49aUVcox4WK0EeA=="
 ---

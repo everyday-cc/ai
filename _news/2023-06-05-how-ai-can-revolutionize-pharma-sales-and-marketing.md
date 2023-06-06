@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-rev
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/amp/"
 type: article
 quality: 121
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
         width: 970
         height: 464
         isCached: true
-  - title: "How can artificial intelligence help community pharmacists?"
-    excerpt: "Community pharmacy professionals are being squeezed like never before. Could artificial intelligence (AI) lend a helping hand, asks Saghir Ahmed"
-    publishedDateTime: 2023-06-01T16:27:00Z
-    webUrl: "https://www.chemistanddruggist.co.uk/CD137026/How-can-artificial-intelligence-help-community-pharmacists"
-    type: article
-    provider:
-      name: Chemist + Druggist
-      domain: chemistanddruggist.co.uk
-    quality: 19
 
 secured: "YpSFw8hZ/eWF5ddQ+Rl9o8YDeShtdPwTUb+/rhPBI7K0dlUiMnEZqn16m2oPI7Lqr6vxKj1jygZ/cTkQlEaygGZ4vadXt+OXQ9wDOCNdMFquSrhEwWHMIduPAueEv2it9dZYUMf9EV82erR+GIBAuVAFcQb8emFI3AWNgJaqSmCxE6gE8I5QDRZAWtnyeG+VKgrwTu0Cim7xeRZuyBybOAQ8xAMBJW/ph97qbUiJA07MeqmkAbIrRIDWZpP97MXNfu/5jCm42K7uOqYck5upHLmHXsbZrEGOXfBVomTeWsBSa9QSMOkZu5X8wAo2wMxXDZ1kksBxWB+jcnVa6LOHPNM24D2T//XWSBrpNKziFxQ=;AAB1xDx33USi+UESYxC9rQ=="
 ---

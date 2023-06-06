@@ -38,6 +38,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "We could have only two years to rein in AI, warns Rishi Sunak’s adviser"
+    excerpt: "Matt Clifford, Rishi Sunak's adviser on technology, said that unless AI producers are regulated on a global scale, there could be 'very powerful' systems that humans could struggle to control."
+    publishedDateTime: 2023-06-06T08:55:00Z
+    webUrl: "https://metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/"
+    ampWebUrl: "https://metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 59
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2023/06/SEI_158285913-097a.jpg?quality=90&strip=all&zoom=1&resize=600%2C399"
+        width: 600
+        height: 399
+        isCached: true
   - title: "We’re a Long Way from Killer Robots, but AI Still a Serious Threat"
     excerpt: "AI is affecting our lives right now every day in ways most of us are unaware of,” said the Sarah and James Bowdoin Professor of Digital and Computational Studies (DCS), “whether it's the algorithms that are choosing what to show us on social media or algorithms that are determining who gets a"
     publishedDateTime: 2023-06-02T19:45:00Z

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "TSA expands testing of facial recognition technology as some in Congress voice concerns"
-    excerpt: "The agency is expanding its testing phase of facial recognition technology to make sure you match your ID from 16 to 28 airports nationwide."
-    publishedDateTime: 2023-06-02T19:19:00Z
-    webUrl: "https://www.whio.com/news/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/ZCZOEZJBVZB23HDE2VBWY3RARA/"
-    type: article
-    provider:
-      name: WHIO
-      domain: whio.com
-    quality: 13
   - title: "Facial recognition tech lets TSA to verify your ID without an agent staring at you"
     excerpt: "BALTIMORE — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through — all without having to hand over their ..."
     publishedDateTime: 2023-06-05T12:50:00Z
