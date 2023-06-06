@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/australia-launches-consulta
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australia-launches-consultative-review-of-artificial-intelligence/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/59098d6e393c5cfff31cc8ddd3773b76d93a39a7/0_190_5453_3272/master/5453.jpg?width=620&quality=85&auto=format&fit=max&s=e47a2a5569a083056c409bf204f4015c"
         width: 620
         height: 372
-        isCached: true
-  - title: "Young Australians could make voice referendum a success"
-    excerpt: "Young Australians are expected to be key to the Indigenous voice referendum succeeding. Cabinet minister Don Farrell told the National Press ClubÂ voters aged over 55 tended to oppose the voice, while Australians under 35 overwhelmingly backed it."
-    publishedDateTime: 2023-06-01T05:37:00Z
-    webUrl: "https://www.corowafreepress.com.au/national/young-australians-could-make-voice-referendum-a-success/"
-    type: article
-    provider:
-      name: corowafreepress
-      domain: corowafreepress.com.au
-    quality: 24
-    images:
-      - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=cfb4c592-f9cc-5811-8fbc-622940b7257d&function=original&type=preview"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "QGYDRpInhHyFYAvvvzhqce69SI1Z2XdR88bSTzOlxfXwL1zKk2x4zTq/4PZ++Nht7ysOS4XKSUvvBq+MPbOXbnoAl76M/3BvR9omh1hqZsUjT1GBVBO93RHQZGg3IQ0hshLEU7p5o57t/JXMRIckl/gDh1Pf0G78U0fOv51AZdct/lk6E20l8Dh0DPQrmsmaP5xF36pRAtTDHtDQJ4hU4AXYTh2TIR3b24qeHZKv3LHtspFThNii3gvVysXDqi/Rt7LTWOJdwZ0fhj4QNEvQXIvETBiISZBG8993haZBkG+dLd/6URpYH2SixDe1Zb09GmoskyXzVo6mXuh4HMm+AQEKMBWdV4Grpj7FomPVFQS8GjLsCRdTNHBJHdoKo+WptF8mINIS8LKNzHhkn4XOvipVN8keC9k2D5SxAs6vnRyN1pAXHA2AmhfYjJV8E0DtcHKmVkJHdkB5lM/Do3OPsjG+IrDQxM9u98x+9/IK/llwa6fzUOxwkvIhp7vhRDlZCYkIIPxx1xGG9kLCvGhx2g==;SOOTt2swV+3lBsLGzyGwRw=="

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore Regulator Says AI is Focus of Marquee Fintech Festival"
-    excerpt: "Artificial intelligence will take center stage at Singapore’s annual fintech event in November, underscoring the growing significance of the technology."
-    publishedDateTime: 2023-06-01T05:12:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/singapore-regulator-says-ai-is-focus-of-marquee-fintech-festival"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id_yFIvm7P3Y/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial Intelligence to take centre stage at the Singapore FinTech Festival 2023"
     excerpt: "Artificial Intelligence to take centre stage at the Singapore FinTech Festival 2023 Singapore, 1 June 2023… The Monetary Authority of Singapore (MAS) and Elevandi[1] today announced the theme of the Singapore FinTech Festival (SFF) 2023 – ‘Applications of Artificial Intelligence (AI) in Financial Services’."
     publishedDateTime: 2023-06-01T14:49:00Z
@@ -64,20 +50,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 51
-  - title: "5 Companies leveraging AI to transform the future of FinTech"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-06-01T07:03:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-companies-leveraging-ai-to-transform-the-future-of-fintech/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/ibs_Artificial-Intelligence.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "AI to take centre stage at Singapore Fintech Festival"
     excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi today announced the theme of the Singapore FinTech Festival (SFF) 2023 – ‘Applications of Artificial Intelligence (AI) in Financial Services’."
     publishedDateTime: 2023-06-01T09:44:00Z
@@ -91,34 +63,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "Fintech founder using AI to improve lives and livelihoods in Bangladesh"
-    excerpt: "Women in Tech Excellence Rising Star of Financial Services awards winner, Shabnam Wazed is shaping fintech, using AI to make financial services more inclusive."
-    publishedDateTime: 2023-06-02T09:31:00Z
-    webUrl: "https://www.computing.co.uk/interview/4117005/fintech-founder-ai-improve-lives-livelihoods-bangladesh"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/d87be48/eabf10b8-256a-43f1-8809-6fdf5f835566/7/Wazed-1-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "Fintech disruptor Saphyre makes smarter trading simple"
-    excerpt: "Stephen and Gabino Roche are the twin trading titans behind Saphyre – the AI-powered tech company that is revolutionising financial transactions"
-    publishedDateTime: 2023-06-02T07:50:00Z
-    webUrl: "https://fintechmagazine.com/videos/fintech-disruptor-saphyre-makes-smarter-trading-simple"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/cda2db3002935d3a1a765aba1db2a6db:e704ea27743d6bd8d28806a905df0a50/maxresdefault.jpg.jpg"
-        width: 1200
-        height: 631
         isCached: true
 
 secured: "jpBgt992MDMKdrTGMx11/sg/FOQmT1waLXBViCzo86G6kpCc+8bJFbsDBN9VQNvNTxrdLq8L05lQhRWZ8NwQl/FrYBfKEUPsPDtpLsisLWXj6TgMw+/cDC4FmrbSjSkN1LcTO1P9K8xZQi9pjXLOaAq53PLxVs7qifcvuL9hVdxJquJXGJhuitU6WCai9JIZ6Tq0DunK7c4tjiqIGvGpb1qCzNFdCDWnfl35YNvpk2VdtmWcOXV74L1kXV8bxvl6JbSrvUvnd+i4rdTIQdRsinFEgs49auXZONsq5k9dIXFjRiFD5nb9XbHiNCrL4zBPaq8+bli+sNCy10kDMs4wBLSRNmo5QPkTp24llG/86nt+3BShP6Luf+C4AIGpOaC6vHNWuqS7Vmh/1SURPQaYxmMLy239pHnwuhJTf4BW+MZnz6/oDSf2/YK5NZ5DEr2VM7ujoPvURMzoICMYlr0YXHmjPEDHqB3FkQ2CJPJIMo4WITeBAlw120y5rbem0KWVIY2j1KVnOTQLjJCQmUjDIg==;MaPdN8lY1aJJMf3vRjatWQ=="

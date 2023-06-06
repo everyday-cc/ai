@@ -2,6 +2,91 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-03-only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup.md",
+      "title": "Only in Bengaluru: Landlord invests Rs 8 lakh in tenant’s AI startup",
+      "excerpt": "Pawan Gupta, the co-founder and CEO of Betterhalf.ai, revealed that his landlord invested $10,000 (Rs 8.2 lakh approximately) in his AI-driven matrimonial app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html",
+      "originalUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Collage-Maker-03-Jun-2023-10-56-AM-1220.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html/amp",
+      "publishedDateTime": "2023-06-02T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-whats-inside-nvidias-ai-supercomputer-powerful-chips-and-a-lot-of-memory.md",
+      "title": "What’s Inside Nvidia’s AI Supercomputer? Powerful Chips and a Lot of Memory.",
+      "excerpt": "This past Monday, chip giant Nvidia which has seen its shares nearly triple to over $400 on rising demand for AI, announced its new DGX GH200 AI supercomputer powered by its GH200 Grace Hopper superchips. That’s a lot of letters, numbers, and supers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "originalUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-793870/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "publishedDateTime": "2023-06-02T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-california-lawmakers-question-dmv-regulation-of-driverless-trucks.md",
       "title": "California Lawmakers Question DMV Regulation of Driverless Trucks",
       "excerpt": "State lawmakers argue that the state Department of Motor Vehicles has so badly mishandled the driverless car industry that it can't be trusted to oversee big rigs barreling down the highways autonomously.",
@@ -361,7 +446,7 @@
       "originalUrl": "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -464,7 +549,7 @@
       "originalUrl": "https://www.zdnet.com/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -947,7 +1032,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1134,110 +1219,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-ai-is-trending-in-google-searches-but-its-not-yet-to-the-peak-reached-by-bitcoin-in-2017.md",
-      "title": "'AI' is trending in Google searches — but it's not yet to the peak reached by Bitcoin in 2017",
-      "excerpt": "Interest in AI is at an all-time high on Google searches, an Alliance Bernstein analyst notes. But it's still not as popular as Bitcoin at its height.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5",
-      "originalUrl": "https://www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6477bb1b085acb0018ff14ed?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5?amp",
-      "publishedDateTime": "2023-06-01T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-generative-ai-startup-runway-taps-google-to-lead-a-100-million-funding-round-and-sign-a-major-cloud-contract.md",
-      "title": "Generative AI startup Runway taps Google to lead a $100 million funding round and sign a major cloud contract",
-      "excerpt": "This is the latest example of a cloud provider making a significant investment in a generative AI startup as tools like ChatGPT become popular.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-runway-ai-invests-generative-startup-cloud-contract-2023-5",
-      "originalUrl": "https://www.businessinsider.com/google-runway-ai-invests-generative-startup-cloud-contract-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,308 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-05-17-the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better.md",
+      "title": "The ethics of AI in SEO and why humans are still (just) better",
+      "excerpt": "By prioritizing transparency, accountability and fairness and investing in worker training, we can ensure that AI is used in beneficial ways.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better/",
+      "originalUrl": "https://venturebeat.com/ai/the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-search_search-engine_connected_network_1400992296-e1665532643283.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better/amp/",
+      "publishedDateTime": "2023-05-16T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-us-or-global-agency.md",
+      "title": "ChatGPT chief says artificial intelligence should be regulated by a U.S. or global agency",
+      "excerpt": "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/sci-tech/chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-u-s-or-global-agency-1.6391175",
+      "originalUrl": "https://www.ctvnews.ca/sci-tech/chatgpt-chief-says-artificial-intelligence-should-be-regulated-by-a-u-s-or-global-agency-1.6391175",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/2/17/1_6215439.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2023/5/16/1_6391175.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/5/16/1_6391175.amp.html",
+      "publishedDateTime": "2023-05-16T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-chinas-baidu-beats-earnings-estimates-as-chatbot-awaits-govt-approval.md",
+      "title": "China's Baidu beats earnings estimates as chatbot awaits govt approval",
+      "excerpt": "Revenue from Baidu Core, which includes search-based advertising sales, cloud offerings and its autonomous driving initiatives, grew 8% to 23 billion yuan. Of this, revenue from Baidu's largest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-ad-strength-2023-05-16/",
+      "originalUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-ad-strength-2023-05-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/cakgkHqZr9houohLH-9MtAb94wU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HNYL5IOH5FM2POOZDSKBQ7LIJI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai.md",
+      "title": "What 20 Agency Leaders Are Doing To Better Understand And Embrace AI",
+      "excerpt": "The pervasive influence of AI continues to reshape industries across the globe, compelling professionals to deepen their understanding of its impact.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/16/what-20-agency-leaders-are-doing-to-better-understand-and-embrace-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645a69b21317ce4dc82796dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-get-ready-for-ai-climate-action.md",
+      "title": "Get Ready For AI Climate Action",
+      "excerpt": "AI can help predict climate risk zones, allocate resources efficiently, and develop impactful climate-related infrastructure projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sylvainduranton/2023/05/16/get-ready-for-ai-climate-action/",
+      "originalUrl": "https://www.forbes.com/sites/sylvainduranton/2023/05/16/get-ready-for-ai-climate-action/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6463b713b18d7efeca795103/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 830,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sylvainduranton/2023/05/16/get-ready-for-ai-climate-action/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sylvainduranton/2023/05/16/get-ready-for-ai-climate-action/amp/",
+      "publishedDateTime": "2023-05-16T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023.md",
+      "title": "Nvidia CEO highlights accelerated computing and AI’s role in chip manufacturing at ITF World 2023",
+      "excerpt": "Huang stressed the need for a new approach to meet the rising demand for computing power while addressing concerns regarding net-zero goals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/",
+      "publishedDateTime": "2023-05-16T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-senator-plays-opening-remarks-generated-by-ai.md",
       "title": "Senator plays opening remarks generated by AI",
       "excerpt": "Connecticut Senator Richard Blumenthal used ChatGPT to write his statement. Senator plays opening remarks generated by AI. Video, 00:01:15Senator plays opening remarks generated by AI Up Next. Huge cocaine stash found hidden in banana crates.",
@@ -905,316 +1207,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-hippocratic-ai-raises-50-mln-seed-funding-to-build-models-for-healthcare.md",
-      "title": "Hippocratic AI raises $50 mln seed funding to build models for healthcare",
-      "excerpt": "Hippocratic AI, a startup building artificial intelligence models for the healthcare industry, has raised $50 million in a larger-than-usual seed funding round, signaling strong investor interest in betting on AI models for specific industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/?taid=646381de5571eb000186b80a",
-      "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/hippocratic-health-raises-50-mln-seed-funding-build-ai-model-2023-05-16/?taid=646381de5571eb000186b80a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip.md",
-      "title": "Startup Etched Closes Seed Round, Promises More Cost-Effective AI Chip",
-      "excerpt": "Etched, a startup that has designed a more specialized, less power-intensive chip for running generative AI models, is expected to announce Tuesday that it raised $5.36 million in a seed round led ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip-f5fd79aa",
-      "originalUrl": "https://www.wsj.com/articles/startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip-f5fd79aa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-781926/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-how-to-achieve-high-impact-personalization-at-scale-with-managed-marketing-services.md",
-      "title": "How to achieve high-impact personalization at scale with managed marketing services",
-      "excerpt": "To help companies better deliver on their marketing vision and scale their marketing business processes, managed marketing services (MMS) offshore has become a fast growing trend. According to an Everest Group&#174; study, offshore MMS centers increased over 50% from 2019 to 2022. What&#8217;s more,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-achieve-high-impact-personalization-at-scale-with-managed-marketing-services/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-achieve-high-impact-personalization-at-scale-with-managed-marketing-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/How-to-achieve-high-impact-personalization-at-scale-with-managed-marketing-services--630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-three-ways-process-automation-can-help-modernize-financial-services-firms.md",
-      "title": "Three Ways Process Automation Can Help Modernize Financial Services Firms",
-      "excerpt": "By embracing process orchestration, financial services organizations can meet the ever-changing modern challenges of doing business, including updating legacy systems, meeting compliance and risk requirements and improving the customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/three-ways-process-automation-can-help-modernize-financial-services-firms/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/three-ways-process-automation-can-help-modernize-financial-services-firms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6012e16a009ca2cb00fa7e68/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/three-ways-process-automation-can-help-modernize-financial-services-firms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/16/three-ways-process-automation-can-help-modernize-financial-services-firms/amp/",
-      "publishedDateTime": "2023-05-16T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business.md",
-      "title": "Navigating The AI Revolution: How To Successfully Implement AI In Business",
-      "excerpt": "The next step is to test the new processes powered by AI, make the final tweaks and eventually establish service-level agreements (SLAs) for their use. 1. Start small. Begin by implementing AI in a specific area or department and gradually expand to other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646253945a385db669dd3ff9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/amp/",
-      "publishedDateTime": "2023-05-16T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could.md",
-      "title": "AI Won’t Separate You From Your Competitors, But Your Content Strategy Could",
-      "excerpt": "Artificial intelligence is a tool and is only as good as the content you feed it, the people who manage it and the structures you have in place to support it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64595406c962fe6795be84e9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/amp/",
-      "publishedDateTime": "2023-05-16T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

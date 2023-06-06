@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32684334"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 56
-  - title: "For more than 2 years: ALSO empowers SMBs with AI solutions"
-    excerpt: "Recognizing the immense potential of Artificial Intelligence (AI) for Small and Medium-sized Businesses (SMBs), the Technology Provider established its AI platform roughly two years ago to enable companies of all sizes to make the most of this groundbreaking technology."
-    publishedDateTime: 2023-06-01T05:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/for-more-than-2-years-also-empowers-smbs-with-ai-solutions-1032363069"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "AI-Powered LetzChat and Managed Health Partner to Revolutionize Language Solutions in Employee Benefits"
     excerpt: "LetzChat, a leading AI-driven language translation company, is excited to announce its strategic partnership with Managed Health, a prominent employee benefits"
     publishedDateTime: 2023-06-05T17:02:00Z

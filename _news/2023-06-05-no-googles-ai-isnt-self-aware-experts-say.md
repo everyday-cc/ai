@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Q&A: Experts say stopping AI is not possible — or desirable"
-    excerpt: "Generative AI systems such as ChatGPT are evolving at an exponential rate. Already some believe it's impossible to slow their progress, despite the threats they pose. So should we focus on the benefits instead?"
-    publishedDateTime: 2023-06-01T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3697691/qa-experts-say-stopping-ai-is-not-possible-or-desirable.html"
-    ampWebUrl: "https://www.computerworld.com/article/3697691/qa-experts-say-stopping-ai-is-not-possible-or-desirable.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697691/qa-experts-say-stopping-ai-is-not-possible-or-desirable.amp.html"
+  - title: "Google’s AI-powered search experience is way too slow"
+    excerpt: "The worst thing about Google’s new AI-powered search experience is how long you have to wait. Can you think of the last time you waited for a Google Search result? For me, searches are generally instant."
+    publishedDateTime: 2023-06-04T12:00:00Z
+    webUrl: "https://www.theverge.com/23746083/google-ai-search-generative-experience-slow"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/01/25/07/artificial_intelligence_virtual_digital_identity_binary_stream_thinkstock-100528010-large-100917127-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 900
-        isCached: true
+      name: The Verge
+      domain: theverge.com
+    quality: 47
 
 secured: "+Zai1+PgSlsBvNZRHJZkAdjOLUgUYR2ZcKpltRkTrDGfpFg7zMMjXXoKFJ1KTH4p7cg34qVEr/aEZQ9sJ0v+GHaTqjd0amlOyQrpvr8BvgOE4CXPux0cvMND+Jc6B12Uy548eKRcRLNOsMWobvzmDF6beeemOz4Gqmed6ZP2RwfBSqlHVa7z7WcCwHOgMbz+5FOJFdxNYxwMNJvI6MJe/GdG4TO0TM/zIU6MfsCHTJx/tmvLIChYYYqrVMxCiCXpUqpb6mc81bNE+LHUUjaUVP2SBtBdRbA8jSQT7BdhRSzu0JAC3AjINprwsHDWrA6rySVBMbNavPtqeZAqf1mkL7oR64X4eaAWvNVj2Iv5QT+/dSFjV5HoVo0XSENaPcT3M+UJ68dcZOl+LiuiiTUmvDFUG8zzyqvtClM3mbvhqEyWa4aHX1fuzQQVaylv1he5s1oyF1cxTGPwoLDPmcIwF3pkRgKZWVK96dMPUa2qcauIfwM1+bwaVPlY4QKc3gHrXUHYB8fC22nZ8msLGt7/7A==;ThxNogvkAgf+ayRGdSkfCg=="
 ---

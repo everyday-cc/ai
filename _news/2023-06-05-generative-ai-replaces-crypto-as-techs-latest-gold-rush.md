@@ -24,6 +24,17 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "AI Startups Take Over Crypto Miners: The Future of Mining is Renting Out GPU to AI Startups"
+    excerpt: "Crypto mining has been the buzzword of the past few years in the world of technology and investments. But as the market matures and the returns diminish, it is time for crypto miners to look for new opportunities to monetize their equipment."
+    publishedDateTime: 2023-06-05T16:40:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2023-6-5-ai-startups-take-over-crypto-miners-the-future-of-mining-is-renting-out-gpu-to-ai-startups"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 24
+
 secured: "/bT4+EOBcInqigG7QSX+u2EllaWtvUCzizFKJOusowXRSFXzuq8pMSyxsD8FOsLHjraQNTyWRjcETOVhCer4LAz9jEh+tODAnkfrp5/IwgKnTQM0Er0RJvxA1lgOzzPSgk3xeOrtYUc6cPk3CKsRoltac6iE3OPh3dv/YDZW9ZHleQIPf+44J/scOawOPZMkRSr1I8PvFrP+ttPxco5JcTuhcYgezKLwQnkCFDUMMl65KdByAEzqJzJeAG7ajLmPOxd3vMcQFVOuDGZKeGpuJT/+6zBYWqEXRMtG5HAYoDI31hs0MqMR1eh3kbyLQ4QZB51MLZkJwYPtlH+ti25uGZjBf7P1Z1HJLqmFSVK/IF6MRdUoSrrFYVikZeTLipcI7JIJSrdosknX0QClvkukTqgXWxlXM2M1SZf02cTScq8IUijT5omEgR8AfpdV3tXeXhmqC3CbVp1y6f5TcGYEhTJ/sZb1LateRz+3L+zl38GBiDeH5C/QT5h0p7Wtp3OxJHxcDAH/8Y1xdOycv+Iwiw==;9bmH5qmLYp7CXB3fmxp71w=="
 ---
 

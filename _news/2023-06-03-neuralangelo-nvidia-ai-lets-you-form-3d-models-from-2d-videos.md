@@ -34,6 +34,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Interest in AI causes developer Nvidia to reach $1 trillion in value"
+    excerpt: "As investors piled more capital into Nvidia the chipmaker has become one of the biggest winners of the artificial intelligence boom"
+    publishedDateTime: 2023-06-02T15:54:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273852108/interest-in-ai-causes-developer-nvidia-to-reach-1-trillion-in-value"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1685591446215.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "FnAEQo7r3JdAzXX7floveiBKZ0CwHVw98N6XiQYEFm10JRO0L9IVUdvAEJCMRwQcB1FfLJi5XRlnl/FkvtL/AMSVoA4ShWfLgBck6pKFE+t+XjdYq7IFcwFeYKma05hzUXQ+nhiuo5cCZHwFayI5JMIipw71Q924abpW+P3JNneEgl+ekdCog0H4paQ7tmhfMmie0dJulwkIy4XwbWNYx2gSqTsRCYfMeC7RPzAc1zca4A+7HGQII0pqgHJZXcPybl7l+/tYgt9vopmndotduaZqOA96orxsJTwE9IQaIlcZMuEJ4jREmQHzwqxvi6y9uLXue9c+fKV/CdwRIlveggGKVBUgvBVVlfnvzJQPgNQ=;NfhfstpuOdRBFCmdFsGolA=="
 ---

@@ -24,6 +24,20 @@ topics:
   - Facebook AI
 
 related:
+  - title: "Interest in AI causes developer Nvidia to reach $1 trillion in value"
+    excerpt: "As investors piled more capital into Nvidia the chipmaker has become one of the biggest winners of the artificial intelligence boom"
+    publishedDateTime: 2023-06-02T15:54:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273852108/interest-in-ai-causes-developer-nvidia-to-reach-1-trillion-in-value"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1685591446215.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Neuralangelo Nvidia AI Lets You Form 3D Models From 2D Videos"
     excerpt: "Nvidia unveiled an AI model that can generate three-dimensional objects from two-dimensional videos. It is called Neuralangelo, a mix of the words “neural” from neural networks and"
     publishedDateTime: 2023-06-03T01:01:00Z

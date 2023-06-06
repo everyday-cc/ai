@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-05-getting-started-with-mqtt-in-azure-event-grid.md",
+      "title": "Getting started with MQTT in Azure Event Grid",
+      "excerpt": "Those events could also be stored in Azure Data Lake, where analysts can use tools like Data Explorer to extract insights from device data and use that data to train machine learning-powered control systems. Azure Event Grid is an important component of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.html",
+      "originalUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/02/shutterstock_1748437547-100937033-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.amp.html",
+      "publishedDateTime": "2023-06-05T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-it-might-be-controversial-but-ai-could-help-create-a-greener-future.md",
       "title": "It Might Be Controversial, But AI Could Help Create A Greener Future",
       "excerpt": "Arup’s digital services leader, Will Cavendish said it has used AI to calculate where best to deploy nature-based solutions in cities like Shanghai.",
@@ -61,7 +113,7 @@
       "originalUrl": "https://www.zdnet.com/article/australia-launches-consultative-review-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -359,7 +411,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -411,7 +463,7 @@
       "originalUrl": "https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -515,7 +567,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-an-endless-opportunity-or-an-existential-threat-1032368956",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -556,6 +608,58 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-04-ai-doom-ai-boom-and-the-possible-destruction-of-humanity.md",
+      "title": "AI doom, AI boom and the possible destruction of humanity",
+      "excerpt": "Will AI solve complex problems and save us? Or will it obfuscate truth, destroying humanity? Like any paradox, the answer is unclear.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/",
+      "originalUrl": "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/annevb_shadowy_robotic_figure_with_clouds_gathering_and_lightni_a50019f4-a9ea-4a14-aa55-b83e599bd02c.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -774,7 +878,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/new-technology-creates-ai-romantic-partners-for-users-179778629880",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1109,7 +1213,7 @@
       "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1150,91 +1254,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup.md",
-      "title": "Only in Bengaluru: Landlord invests Rs 8 lakh in tenant’s AI startup",
-      "excerpt": "Pawan Gupta, the co-founder and CEO of Betterhalf.ai, revealed that his landlord invested $10,000 (Rs 8.2 lakh approximately) in his AI-driven matrimonial app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html",
-      "originalUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Collage-Maker-03-Jun-2023-10-56-AM-1220.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html/amp",
-      "publishedDateTime": "2023-06-02T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-whats-inside-nvidias-ai-supercomputer-powerful-chips-and-a-lot-of-memory.md",
-      "title": "What’s Inside Nvidia’s AI Supercomputer? Powerful Chips and a Lot of Memory.",
-      "excerpt": "This past Monday, chip giant Nvidia which has seen its shares nearly triple to over $400 on rising demand for AI, announced its new DGX GH200 AI supercomputer powered by its GH200 Grace Hopper superchips. That’s a lot of letters, numbers, and supers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-793870/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
-      "publishedDateTime": "2023-06-02T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

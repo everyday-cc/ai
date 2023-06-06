@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-duet-ai-for-workspace-3331
 webUrl: "https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/"
 type: article
 quality: 69
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bored at work? How AI could come to the rescue"
+    excerpt: "And I also think there’s gonna be a coming massive resistance to AI. New research from Pew suggests American workers overwhelmingly reject the idea of using AI for making, for example, final hiring decisions by a margin of 10 to 1. So as AI enters ..."
+    publishedDateTime: 2023-06-05T22:02:00Z
+    webUrl: "https://www.ft.com/content/d148ba53-e5fd-44bf-bd7a-a39a21d91816"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdbbf5f37-e5b4-438d-851e-28149bb15cb3.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Crazy new AI camera doesn’t even have a lens – how does it work?"
     excerpt: "An AI camera can capture photos of a location without using a lens and the way it does it will blow your mind."
     publishedDateTime: 2023-06-04T20:12:00Z

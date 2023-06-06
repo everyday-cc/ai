@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Top 5 AI Careers in 2023: Unlocking the Potential of Artificial Intelligence"
-    excerpt: "Artificial intelligence has become next big thing, paving the way for exciting career opportunities. From machine learning to robotics, AI careers have expanded across various domains. In this article,"
-    publishedDateTime: 2023-06-01T06:20:00Z
-    webUrl: "https://www.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424"
-    ampWebUrl: "https://amp.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424"
+  - title: "AI doom, AI boom and the possible destruction of humanity"
+    excerpt: "Will AI solve complex problems and save us? Or will it obfuscate truth, destroying humanity? Like any paradox, the answer is unclear."
+    publishedDateTime: 2023-06-04T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 71
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://data.ibtimes.sg/en/full/67921/ai-career.jpg"
-        width: 1600
-        height: 884
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_shadowy_robotic_figure_with_clouds_gathering_and_lightni_a50019f4-a9ea-4a14-aa55-b83e599bd02c.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Q81gM2tKBr8y36N1D3VutDuwwgHPCWebp3kL6Quh68HYhFIsnB+fMfHd7MZlpFNTYTok+j8dydChWGt6Kmj6yGUd/5DiPtd5h6jLjImBV4S9m1dQc6ZLtXypU4bzGfVLaGPmHXTP4PTUU44h6nVk4pgl3acBIuANEqnQBJr3rVUuT6owNz2omhAfi+YKwdWRU7J0KZLVJRkAozkdDwSWmLn5/eECsmRiSp23qb3nuwUinuk0Svkh2Lkc5Lm1mi4Pu8mUzBYD59dlLFs4dJbF1l2J9fwFf/JYB+y4M04a5Bfb11hJyg9M7lrwuqcW91L2WFoz/r09H5HDVEs/oT1pQXWaVqZzpAsuGVssy6YV8uM=;RP/cxyzhWXHcM/LQ3aOOwQ=="

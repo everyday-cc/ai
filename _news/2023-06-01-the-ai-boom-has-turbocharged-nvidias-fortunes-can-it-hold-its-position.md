@@ -7,7 +7,7 @@ originalUrl: "https://www.economist.com/leaders/2023/06/01/the-ai-boom-has-turbo
 webUrl: "https://www.economist.com/leaders/2023/06/01/the-ai-boom-has-turbocharged-nvidias-fortunes-can-it-hold-its-position"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance"
-    excerpt: "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat."
-    publishedDateTime: 2023-06-01T06:10:00Z
-    webUrl: "https://techstory.in/the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 50
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/NVIDIA-Logo-inside-at-angle.jpg"
-        width: 1920
-        height: 1081
-        isCached: true
-  - title: "Interest in AI causes developer Nvidia to reach $1 trillion in value"
-    excerpt: "As investors piled more capital into Nvidia the chipmaker has become one of the biggest winners of the artificial intelligence boom"
-    publishedDateTime: 2023-06-02T15:54:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273852108/interest-in-ai-causes-developer-nvidia-to-reach-1-trillion-in-value"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1685591446215.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "MediaTek, Nvidia partner for AI-based in-cabin solutions"
     excerpt: "The smart cabin automotive offerings will run Nvidia Drive OS, Drive IX, Cuda and TensorRT software technologies. MediaTek will use its Dimensity Auto platform with Nvidia’s advanced driver assistance systems (ADAS) solutions to deliver all-around smarter in-vehicle experiences,"
     publishedDateTime: 2023-06-01T13:05:00Z
@@ -61,15 +33,6 @@ related:
       name: electronics360.globalspec
       domain: globalspec.com
     quality: 19
-  - title: "Nvidia Market Cap Exceeds US$1 Trillion, an Early Winner in the AI Boom, Reports IDTechEx"
-    excerpt: "While the current AI boom is only just getting started, an early winner is Nvidia, who – on Tuesday, May 30th – saw the company's market capitalization exceed US$1 trillion for the first time. For a chip designer with no fabrication capabilities of its own,"
-    publishedDateTime: 2023-06-05T18:42:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/05/9826577.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "04VFFlEOp7hYxsQqP8YMO35UdEbfFZgDHVsTYYm8a5VWqkJn+ZfNH8PSv845slH/CWiLrSHOS04IgckYiNQxwRTuyQwt9boLxgenXY0OrGuqQK0/vHNyK3ptFW8ToMeD8QiyaNXQXsX8FWQF7LRikCNUSZCXUp8J28Xrnt/QsVIYiABVAIvsHa6+17at37kyOLqfFgJztwE4h5VcV3QNXmZki7M70+nMFqCBZfe1vNm76UFfi2sNMy8rgJInyypX6E3k/8mmyJSbNR43lVDaEANmmXARDZ7Wdn9nHXTswnKPnha9OBAJlwi0pXTjwcbZEfbF+OekqHq99PlyrIv/ldPHGZj/AwJIak5TX5KyOV7wJ14JT42gaLgIt3Eg7z5npvfZ/yP5S5o94Z1MfMmgA/LUKQL9U66eLqsYke/NP9HnsswwGpxLr7fBAFu+eaZIsIEYpGf/n+MuxuEGmKS/Ry+iBP6rYzoGkETKclvQfLvHY5qSU2N6Vy9+aAeD7M0w9qsxdYraaqjER6LrR8fiCw==;8sSAlPTKYyGBAmSZYZb2mQ=="
 ---

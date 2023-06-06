@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Comparing And Contrasting AI And Human Translation"
+    excerpt: "Translation plays a crucial role in bridging the gap between different languages and cultures. Traditionally, human translators have been the go-to choice for accurate and nuanced translations. However, AI translation, a blossoming subfield of natural ..."
+    publishedDateTime: 2023-06-05T14:17:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647a000b5e40ece5fb13b283/0x0.jpg?format=jpg&width=1200"
+        width: 931
+        height: 620
+        isCached: true
   - title: "The ethics of innovation in generative AI and the future of humanity"
     excerpt: "To address the moral conundrums around generative AI we must understand how it can create positive change, and where it may fall short."
     publishedDateTime: 2023-06-03T15:19:00Z

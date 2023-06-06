@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Bored at work? How AI could come to the rescue"
+    excerpt: "And I also think there’s gonna be a coming massive resistance to AI. New research from Pew suggests American workers overwhelmingly reject the idea of using AI for making, for example, final hiring decisions by a margin of 10 to 1. So as AI enters ..."
+    publishedDateTime: 2023-06-05T22:02:00Z
+    webUrl: "https://www.ft.com/content/d148ba53-e5fd-44bf-bd7a-a39a21d91816"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdbbf5f37-e5b4-438d-851e-28149bb15cb3.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "zZAAUJcXsITiN8/C3y5hmU+gCoRyiX2MQldDSr2t6eD+tRkCF33YZx7rHitiFpTJVt0rAQCN+HF9RQnu2ij7yFt+rbPKPct3yQjN4PNK0HFgpSoIcX93IZ347g6FvBl7DMVMzChttIEUmQSeKdcxzNJVY1Z1KiGVsWyWS61nVXX6n5bymFU4RbcfDUV15WfrbjfW6R4rtML8IDhHyo8l8QxYn0mNQ1MkilA3ZOHDW6LwDWczyXXD3mteZLT0nz7xPpnSrrL9pOPoaK0P55JkatEX4b4g+zLgpuRTyz/Nd9bdA4ZX/hRzInUw7iHf0BHwd89w3MiD+yoYP7TKv50blFbcel23HCcD2r5g1mpFUxxnVQBppBphSlLS4CImEcEIWuj7bT7AwWYxvL3yAV9gzkSI59uppdbVBMz2MGROuUilApDKAkMsZn8nQWTBLRxPnc3ptHT0ZmaTsxDeA6IJ3OHuFz4uVRa0PvAYuM0pMlBaRbaRLAtPU4MWAYhHbTpihgi019oozN8EkO0reywdkg==;Deto9680qcyD+IPBaFAKcQ=="
 ---

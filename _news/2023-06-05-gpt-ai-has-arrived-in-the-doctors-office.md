@@ -76,20 +76,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Wall Street banks seizing AI to rewire world of finance"
-    excerpt: "The AI revolution is unfolding on Wall Street as wider interest grows in the evolving technology and its likely impact on business."
-    publishedDateTime: 2023-06-01T06:37:00Z
-    webUrl: "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rewire-world-of-finance-20230601-p5dd3o"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 71
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.1226%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6f1786ce28c16c72663235a343f9913c7b67032b"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Cities and Counties Draft Guidelines for Workplace AI"
     excerpt: "Does your local government need a stance on generative AI? Boston encourages staff’s “responsible experimentation,” Seattle’s interim policy outlines cautions, and King County considers what responsible generative AI use might be."
     publishedDateTime: 2023-06-04T05:17:00Z
