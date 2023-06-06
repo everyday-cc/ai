@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/the-best-ai-features-apple-announced-at
 webUrl: "https://venturebeat.com/ai/the-best-ai-features-apple-announced-at-wwdc-2023/"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1200
     height: 669
     isCached: true
+
+related:
+  - title: "Why AI wasn't mentioned at all during Apple's big WWDC presentation"
+    excerpt: "AI. Here's why Tim Cook was mum on the term other Big Tech CEOs are loving."
+    publishedDateTime: 2023-06-06T16:30:00Z
+    webUrl: "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/647f51b89fcce6001935925d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "lcNAFqelaitRGp+GlIO2zZvgiSiIK2bjNjmmmWUYGA4pb0m4qsWkVmpyr0/rSlaZE6sJ5vFsFnFe5MXi+2DAkfNB7isTSolDnXfHGRwA+D+yMVngwZjp2LEhtJnY3rKxwOsH5HkGwV+L292ze7TO2Xbuk7BSY5kN4o9UkA4Fo4ZMZozi/pLF0Qm9e96/mDhYtKa7qDZqWQ75vQb/6h/fxnrEemoP/IQHj4MuNz/qtbyFfhJIfWs6ronO67ZBmZBRo/EmKVkaSw5XTXFBdFNDtiUTgbtobmq+1RbVIJA9rRq90p0Vt0Jw7PpMU9H7r4x9ePKVKUqqo3PEw32oXe2Zr6IieULleI16GvGXNgkxF0mKVd45PikrXA7MVg4RdMHEEMmBk9uSp4g3vNN/+BK2keHVQzaLV2SJ7IQwNOvefxUWlH1+WL+aGs5lzVslgqjUS7Q55n5UUe1Zmrq/sW5+djrU8S/yn6rKrVLXtHtGJpXQ11NJV4ghzjILvwkdSvahiZIXsbqPorW/bhpVKvIzog==;IxkF5A/SZIftKRs4Fv3LKw=="
 ---

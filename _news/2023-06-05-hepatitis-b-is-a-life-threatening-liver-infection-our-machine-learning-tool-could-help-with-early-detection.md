@@ -9,7 +9,7 @@ ampWebUrl: "https://www.modernghana.com/amp/news/1235763/hepatitis-b-is-a-life-t
 cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1235763/hepatitis-b-is-a-life-threatening-liver-infection.html"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hepatitis B is a life-threatening liver infection—our machine learning tool could help with early detection"
+    excerpt: "More than 296 million people worldwide live with hepatitis B, a potentially life-threatening liver infection caused by the hepatitis B virus (HBV). Most don't know they are infected, so they don't get medical care."
+    publishedDateTime: 2023-06-06T17:11:00Z
+    webUrl: "https://medicalxpress.com/news/2023-06-hepatitis-life-threatening-liver-infectionour-machine.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-06-hepatitis-life-threatening-liver-infectionour-machine.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-hepatitis-life-threatening-liver-infectionour-machine.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 41
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/hepatitisb.jpg"
+        width: 800
+        height: 530
+        isCached: true
   - title: "Machine Learning Tool Detects Hepatitis B Early, Saving Lives"
     excerpt: "More than 296 million people worldwide live with hepatitis B, a potentially life-threatening liver infection caused by the hepatitis B virus (HBV). Most don't know they are infected, so they don't get medical care."
     publishedDateTime: 2023-06-06T11:04:00Z

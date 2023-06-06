@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Experts warn of the dangers of AI, weigh in on ongoing EU regulation"
-    excerpt: "Experts including ChatGPT head Sam Altman suggest AI may pose a risk of \"extinction.\" Altman's OpenAI is among the U.S. tech companies keeping an eye on possible European Union regulation."
-    publishedDateTime: 2023-06-02T04:53:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-caution-risk-statement/"
+  - title: "Governments worldwide rush to place regulations on artificial intelligence, a rapidly growing technology"
+    excerpt: "Artificial intelligence continues to become more powerful, and governments across the world are looking to regulate the technology. Here's what different countries are doing."
+    publishedDateTime: 2023-06-06T16:31:00Z
+    webUrl: "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology"
+    ampWebUrl: "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology.amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
+      name: Fox News
+      domain: foxnews.com
+    quality: 70
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-ai-running-relevant.jpeg"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18095c3e-bc3a-4467-93fd-fbf40bb6ed4e/4488e10c-7119-406e-bfbb-9043f630b039/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
-        height: 750
+        height: 675
         isCached: true
 
 secured: "VLLAh+D8S7q91PuzzjJMzazdbUd1efd7XoH4q68bGr/X5RJyTzWqRmKcU5WPuvid3NEMLkqBq3AAeSDNtpo76Iq1idh1JAf+ckT6AuBCR6AFmom0ZYlIu7mushAJEfV3NDPOqv2XcAVAWo31UdE18516ZecN/PO9UAkpBKw5WZ6M7CkBCHD2WVBkIH9UeNFk8h188p4QbZeQ4Ek/CfPmk819pS9Q1WN+AFBHCIETPIYQ7AI0Ibgd69ht/jBpk6bPl1K0AHTo+BVKqZBFhUm0Wk1EraML3imI+5X35r0ZfZToOz0d21uh8mKyaKoXH3DtT1EXG4bUjAn+8pAaAI+cYQjPXuVmmUplCueH0VX5l/0=;zAZVnP67EtaRe5HQUs/oTQ=="

@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-07-conversations-with-ai-models-can-help-create-microprocessing-chips-researchers-discover.md",
+      "title": "Conversations with AI models can help create microprocessing chips, researchers discover",
+      "excerpt": "Researchers at NYU Tandon School of Engineering have fabricated a microprocessing chip using plain English \"conversations\" with an AI model, a first-of-its-kind achievement that could lead to faster chip development and allow individuals without specialized technical skills to design chips.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-conversations-ai-microprocessing-chips.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-conversations-ai-microprocessing-chips.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/conversations-with-ai.jpg",
+          "width": 662,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-conversations-ai-microprocessing-chips.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-conversations-ai-microprocessing-chips.amp",
+      "publishedDateTime": "2023-06-06T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-arrange-your-transcripts-into-paragraphs-with-amazon-transcribe.md",
+      "title": "Arrange your transcripts into paragraphs with Amazon Transcribe",
+      "excerpt": "Amazon Transcribe is a speech recognition service that generates transcripts from video and audio files in multiple supported languages and accents. It comes with a rich set of features, including automatic language identification, multi-channel and multi-speaker support, custom vocabularies, and transcript",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/arrange-your-transcripts-into-paragraphs-with-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/arrange-your-transcripts-into-paragraphs-with-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/arrange-transcripts-in-paragraphs.jpg",
+          "width": 1024,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T09:28:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-apple-avoids-ai-hype-at-wwdc-keynote-by-baking-ml-into-products.md",
       "title": "Apple avoids “AI” hype at WWDC keynote by baking ML into products",
       "excerpt": "Amid notable new products like the Apple Silicon Mac Pro and the Apple Vision Pro revealed at Monday's WWDC 2023 keynote event, Apple presenters never once mentioned the term \"AI,\" a notable omission given that its competitors like Microsoft and Google have been heavily focusing on generative AI at the moment.",
@@ -1330,93 +1427,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-are-alexa-and-siri-ai.md",
-      "title": "Are Alexa and Siri AI?",
-      "excerpt": "Conversational AI is a type of artificial intelligence that ... They have extensive amounts of data that allow them to recognize speech and text to then translate these inputs into meaning. Natural Language Processing in Alexa and Siri Natural language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/alexa-siri-ai",
-      "originalUrl": "https://www.foxnews.com/tech/alexa-siri-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5c69365-fe8d-493b-bfed-036295311cf9/fa99226e-59e6-4ec3-a739-7a0c2ea9d800/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/alexa-siri-ai.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/alexa-siri-ai.amp",
-      "publishedDateTime": "2023-05-17T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-how-common-is-common-sense-in-ai-and-why-should-we-care.md",
-      "title": "How Common is Common Sense in AI, and Why Should We Care?",
-      "excerpt": "Even JPMorgan CEO Jamie Dimon recently acknowledged the benefits of AI, calling the technology \"extraordinary and groundbreaking.” JPMorgan is now working on more than 300 AI use cases, and Dimon revealed that the bank has spent over $2 billion building cloud-based data centers and is working to modernize a significant portion of its applications to run in both their public and private cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
-      "originalUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
-      "publishedDateTime": "2023-05-17T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

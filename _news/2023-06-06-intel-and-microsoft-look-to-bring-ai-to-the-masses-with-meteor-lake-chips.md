@@ -42,22 +42,6 @@ related:
         width: 624
         height: 416
         isCached: true
-  - title: "Using Innovation To Expand Microsoft’s Markets"
-    excerpt: "Learn how Chris Capossela, Microsoft’s Executive Vice President and Chief Marketing Officer is helping the company realize the full market potential the shift to cloud infrastructure, the future of work,"
-    publishedDateTime: 2023-06-02T00:24:00Z
-    webUrl: "https://www.forbes.com/sites/stephendiorio/2023/06/01/using-innovation-to-expand-microsofts-markets/"
-    ampWebUrl: "https://www.forbes.com/sites/stephendiorio/2023/06/01/using-innovation-to-expand-microsofts-markets/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2023/06/01/using-innovation-to-expand-microsofts-markets/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647901c847b2a3e2ed11cc53/0x0.jpg?format=jpg&crop=5000,2342,x0,y284,safe&width=1200"
-        width: 1200
-        height: 562
-        isCached: true
   - title: "Microsoft’s CoreWeave Deal ‘Adds AI Pressure’ To AWS, Google"
     excerpt: "Microsoft’s AI deal with Nvidia backed CoreWeave for GPU and cloud infrastructure puts pressure on AWS and Google in the generative AI market."
     publishedDateTime: 2023-06-02T16:59:00Z
@@ -126,6 +110,6 @@ related:
       domain: tmcnet.com
     quality: 30
 
-secured: "z3zWYnMoaVeGA8nQv564wK6NOtAa1XJhQuHPQ7/HpBv+LUFBPHXCkWfg/3yfTtOcdNj9kl9POJZC3YMFX2dy4rj8QrYuHOW+EAB3fnZXn5x/i8YhHCrpi3Hbu6eqTjOx9xcQwBTmGAidLVfYWBAChzv7DEHt4wAGL5x4XRBFYS1Nn58pVnixJH3sp1QxTLzimRTPs6NAnDIlD8PMQg6qcHiUpDhRULSxXdxL03BSI3YorQMFZpzd1e/bvvA7WimgzTEJQJCxSsp49oO6pA0Icoa8QfKR/L6o+VOr+1sjQzpRliIwZtsvoPC6wHazSkqYZboGkzeE1A/hUV/AEH7kibnt2r3x13PFMSIvXByA5AU=;oELoX0JASiuN0c23lUtxOg=="
+secured: "sVwaNu5HQWB9piDMSMod9N5QaWuCeVaLz+kmGv1lPIZBRkncEZaExsd9w+C9iSC2XkZs/PebXOBgDh4cEPaWFeoEqb07HOV7BrDJ0ve3BYfxUqMNoCnYPiVNSFMAnDgvBT6IyDtjeH0u08mDWBn1i9B1Lz+6RyjMoE/F0lQHO/rbMflAdX381+9nRPbZvCW439WowuTf0mkATlrb/1jAlmjufxtjuVkok39M+bc6gb2LmuZiAPodHfOqjcwFiOcdMEryuXw7p1txieus7neNyP9Kq5P/cdBOFWyVYDMANpqfSxC22dx1JTtIy5DD5uVIw6d7zMRsMlea8/5ORT39+qxEZi8faXX3SPWE8hxgkfMQo/ANXZg2ZAS470ZUQ2DCsZotl9wSgSmoSnoSPOyTVj7j8zDS77fiKrLrGmjgImSF2LEwixS84Aya15l/mDh7k6hiWQzOlVI92Vf8AzwyXgF0pnPNXqi6fgM7LHKIEGMS+JNsG/+xL9iHyeNwdgwYAmcqnNYhnjC6fpFBRJb1qg==;mKV/11hj1+h0yXZSL4oSqA=="
 ---
 

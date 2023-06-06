@@ -92,38 +92,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "AI-licensed drone ‘killed’ human operator in surreal military simulated test"
-    excerpt: "An AI-licensed drone trained to cause destruction turned on its human operator in a simulated test, a top Air Force official reportedly revealed at a London summit."
-    publishedDateTime: 2023-06-02T00:25:00Z
-    webUrl: "https://nypost.com/2023/06/01/ai-enabled-drone-killed-human-operator-in-simulated-test/"
-    ampWebUrl: "https://nypost.com/2023/06/01/ai-enabled-drone-killed-human-operator-in-simulated-test/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/01/ai-enabled-drone-killed-human-operator-in-simulated-test/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 56
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/drone-comp-2.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "US military drone controlled by AI killed its operator during simulated test"
-    excerpt: "The artificial intelligence used ‘highly unexpected strategies’ to achieve its mission and attacked anyone who interfered"
-    publishedDateTime: 2023-06-02T00:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 54
-    images:
-      - url: "https://i.guim.co.uk/img/media/4e659b81ef7356d46c73bdc7f610f74a0b0cfc8c/0_0_4928_3280/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=16e2023f24c79048020b21ff42710d4e"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Air Force Now Claims Its Simulated AI Drone DIDN’T Try to Kill Anyone"
     excerpt: "The senior U.S. Air Force official who said a simulated test with an AI-controlled drone ended with the drone “killing” its human operator is now backtracking. The Royal Aeronautical Society, the host of the conference at which Colonel Tucker “Cinco” Hamilton discussed the incident,"
     publishedDateTime: 2023-06-02T13:52:00Z

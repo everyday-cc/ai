@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Instagram may be getting its own AI chatbot soon. Here's what we know"
+    excerpt: "Instagram's chatbot is very similar in purpose and design to Snapchat's My AI. Since Snapchat's feature has not been well received, it's interesting to see that Instagram is following in its footsteps. Whether this will become a useful feature or be quickly forgotten remains to be seen."
+    publishedDateTime: 2023-06-06T16:16:00Z
+    webUrl: "https://www.zdnet.com/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/731fa999b2b078dba0f7ffd929234df150b9a7bd/2023/06/06/0d67eed7-716a-47da-bb16-4b86e1f196b8/gettyimages-1256994567-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "David is friends with Lazarus. Lazarus is an AI chatbot"
     excerpt: "More and more people are forming friendships and even romantic relationships with AI chatbots, prompting concerns among experts who study the ethics around the rapidly evolving technology."
     publishedDateTime: 2023-06-05T16:52:00Z

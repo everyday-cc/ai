@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-06/startup-instaba
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-06/startup-instabase-notches-2-billion-valuation-incorporates-new-ai"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "AI-Enhanced Business Services Startup Instabase Raises At $2B Valuation"
+    excerpt: "Business services startup Instabase doubled its previous valuation to $2 billion after locking up a $45 million raise."
+    publishedDateTime: 2023-06-06T17:06:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/startup-instabase-funds-raised/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 39
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI-1.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "Of6ynZf8RugJF9JiI8qR02Gnk/Jn/i0B9UxbnRpnk5WKh/PNnmachkYx37TZQH7a4wncn4mITGTDD6RP0P87ZFa3CThFRr2V2zk0ftNKWFZfqFLiTfezcN67wQ1UWrb42NdomJnLZXBnHKDtTenTJFllNliReQIuyIhGSIpWkpwfFUXxVHmTQgl28pgxkFz+sx5aDanp6t+9Pc+hA4C6N07CIuWtTIrvwQqMLFwjX7ISiJeFuckYMHZysdccOBdJGD7EpakU6JT49p2O5Jo/7gO1Xb5BIq8ZKVRPlSHIRZoIyGGsDybwAXxVGlPi9hZXAB/7IpGvrSUIBXGzY/oNSwrmpxRoL0GH9RfUkaoPEV2pnnn+u+P2/GCLDnp/va28MdMToGkVGJugielYV63qG03REfpUcyXmkToP5LTILpGF/U0YE3YT6T09k+hT/9f2RvboKxGjqskkujzS0WF5GIcEdyc+CWK3vlfROyNjKG7xQ48pRzHGG1DuZFbbpRxJLoq/aAxqXL5yiFwtLPJvVQ==;wK8rkdtS1H8Rul/ndnVXsA=="
 ---

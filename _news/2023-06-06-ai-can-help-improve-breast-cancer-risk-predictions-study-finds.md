@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/ai-can-help-improve-breast-cancer-r
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-can-help-improve-breast-cancer-risk-predictions-study-finds/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI predicts 5-year breast cancer risk better than standard tools — but we aren't sure how it works"
+    excerpt: "Artificial intelligence models can use breast imaging data to pinpoint those at highest risk of getting breast cancer in the next five years, better than a standard approach."
+    publishedDateTime: 2023-06-06T16:31:00Z
+    webUrl: "https://www.livescience.com/health/breast-cancer/ai-predicts-5-year-breast-cancer-risk-better-than-standard-tools-but-we-arent-sure-how-it-works"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 23
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cBbZHrYiFsvS2Qm79HL2SR-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "H7ERBLfZWY7eIh2niwtFqqtqOUHqLQ6a8UKY/qo+Dnu4m2ZLtzbqRCKBNTTVHbZI0BQwV8n2D3/VuA4cjNRxZAd7h0gOasS/62S2aubKEtgjpAHZagHdi8TCuitj0FkTFm1X0OqqDY2BtIDtBPwTzbSmm4IlvCTdEwSY7GpQX03Q3TOiU63bY7DMkPQJY5NNhOSJOJtsPELxQLDZRr77UYZqvkn9FOhvJefMY1Tb/QdZUC/pAG3CjBOW58Ip8Mnr0bk13ZmZscTNaF+VWPkivWYgOK8AE0FL6W/8cfgdCjOaYKOeKeXPgHIQpi9QX/Gp609guZzGHY3NjkGQy3EhqO1WveRLBubzeuTi+gLhPzE=;Eq5O1+5SnCRAU802VCndbQ=="
 ---

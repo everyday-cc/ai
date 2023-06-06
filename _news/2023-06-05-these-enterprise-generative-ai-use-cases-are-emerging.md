@@ -95,6 +95,15 @@ related:
         width: 660
         height: 348
         isCached: true
+  - title: "Intuit Introduces Generative AI Operating System with Custom Trained Financial Large Language Models"
+    excerpt: "Intuit's GenOS empowers Intuit technologists to design, build and deploy breakthrough generative AI (GenAI) experiences with unparalleled speed. The company is fueling rapid innovation at scale across its products and services to solve its customers' most important financial problems and drive durable growth."
+    publishedDateTime: 2023-06-06T16:27:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/06/9827343.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "v/GaFl0JwK1FTmGPLpe/CqsNusr/nvJ8pUaf7x0vJVE96cgrpyfHbaB2IriaOTIEu0IvXjxHRlJrz/EZwBWzwtTzQb90WdmXHVCnwcwo2T4x4k0tislDNyvB32KUjSxjvOS0I1ILNZFRcoFAX/tSrjQ9PAxmDpjUb63D2d/QdLS8h31sPVKqb+DNXD6Zz7N2cFDblIcx5xTdT29VadvHy3pQu0VpzTrsB5FwI+ZXl/cYScELDpiynMS7HrcNUQBV7pgGaDqrx4wL2BZJtq/+Tq5VE6xzNZBNYPK+L9sVp2q2dAoRAF97xUXldimv/Z1ZBXxpW1eA8XeQ4ECM316Y0wP7Lugozuq1X85n1I+Sv5BQC70/epLtTH0QXI1w787/u854k7vg2sjjPef3bP1CqewNysACRBG50CrWynCGJJTbGVzJ4Dgd4rpUmDU6Np2wLKqoCBtk683sCMZk40+IQ1sUZ436O1NqaCh8tI0vO2uC8iHv+4TqtbAI0LJqGpilXKpEHXLEyczDO+lhct1ZjQ==;IZ4hKo5/wy6qFQdOx9OlCg=="
 ---

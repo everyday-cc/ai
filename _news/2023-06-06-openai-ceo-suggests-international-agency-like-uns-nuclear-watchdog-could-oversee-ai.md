@@ -20,6 +20,38 @@ topics:
   - AI
 
 related:
+  - title: "Should AI come to your doctor's office? OpenAI's co-founder thinks so"
+    excerpt: "This healthcare provider is trying out AI-assisted 'hands-free charting' to generate notes and visit summaries -- with impressive results, at least in time savings."
+    publishedDateTime: 2023-06-06T17:31:00Z
+    webUrl: "https://www.zdnet.com/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ba1422fba425e7bcbbf9e17c84169ceab5f1d38d/2023/06/06/e77e9997-e41e-4d49-9348-fcef291cf247/gettyimages-1013435444.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Should AI come to your doctor's office? OpenAI's CEO thinks so"
+    excerpt: "This healthcare provider is trying out AI-assisted 'hands-free charting' to generate notes and visit summaries -- with impressive results, at least in time savings."
+    publishedDateTime: 2023-06-06T16:31:00Z
+    webUrl: "https://www.zdnet.com/article/should-ai-reach-the-doctors-office-openai-ceo-thinks-so/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/should-ai-reach-the-doctors-office-openai-ceo-thinks-so/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-reach-the-doctors-office-openai-ceo-thinks-so/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ba1422fba425e7bcbbf9e17c84169ceab5f1d38d/2023/06/06/e77e9997-e41e-4d49-9348-fcef291cf247/gettyimages-1013435444.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI boss 'heartened' by talks with world leaders over will to contain AI risks"
     excerpt: "The CEO of OpenAI says he is encouraged by a desire shown by world leaders to contain any risks posed by the artificial intelligence technology his company and others are developing"
     publishedDateTime: 2023-06-05T16:47:00Z

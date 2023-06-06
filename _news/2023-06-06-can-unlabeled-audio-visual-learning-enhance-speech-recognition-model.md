@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsforu.com/news/can-unlabeled-audio-visual-le
 webUrl: "https://www.electronicsforu.com/news/can-unlabeled-audio-visual-learning-enhance-speech-recognition-model"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ topics:
   - AI
   - Natural Language Processing
   - Machine Learning
+
+related:
+  - title: "Multimodal technique for analyzing audio and visual data improves performance of machine-learning models"
+    excerpt: "Researchers from MIT, the MIT-IBM Watson AI Lab, IBM Research, and elsewhere have developed a new technique for analyzing unlabeled audio and visual data that could improve the performance of machine-learning models used in applications like speech recognition and object detection."
+    publishedDateTime: 2023-06-06T17:08:00Z
+    webUrl: "https://techxplore.com/news/2023-06-multimodal-technique-audio-visual-machine-learning.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-multimodal-technique-audio-visual-machine-learning.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-multimodal-technique-audio-visual-machine-learning.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 27
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/scaling-audio-visual-l.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "d4/GpJZbbkzlDVfv+surlG8WarOXIzs2OwtIEpCe4TP05K9lOaipeOvZxm5Ov+W7it72IgV2wpZgMbSs+MjG11U2fqqx7xx+HsPXR5G4z5TZqMqxq52em1HHUtewL4bbfBsZmHsF0lW8zZZhGPl5x5Ag3fD5Qdabqli7JWHHCng2pNWaccJh7KH6T+E8sXmfldv/2VSqkoxVJGboXEENigoybWGSIaf7/uSYWRg9k8elmSMs5Li7+uQbrygelie4bA9F1j+naVcSJl7uLR3YP5GGWL/yd/96WlKh8FSAS71z7qIophw4uGWhJESj0mBnXXMM6VKHzgovMJAO+P1b1rUUoK3EJh4jnZoF6PliVUK4TI1epH+nYgfwvY7FaZ3Ltne43jADi3tTq0T790LfLxYwYSD1jX6CaH4mUTZp/2toBZqHrBrVV/MVaYftWfZeNGzBCmDY4QZoxTQ+12y2sLmh4TYgAN+67Xnlz1Aj+ANFGe1oCaFozInne48XkejpVZR7hOVfRvkInoVoWU5UUQ==;nQAi54JHx0Jr2kAOBL1cEg=="
 ---

@@ -2,6 +2,95 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-02-geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears.md",
+      "title": "Geoffrey Hinton, a pioneer in artificial intelligence, resigns from Google over ethical fears",
+      "excerpt": "Geoffrey Hinton, a pioneer in artificial intelligence and a longtime leader of Google’s AI research division, has resigned from his position at the tech giant, citing growing concerns about the ethical implications of the technology he helped create,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/",
+      "originalUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 377,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/deepmind.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/",
+      "publishedDateTime": "2023-05-01T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review.md",
+      "title": "Mosaic Data Science has been named the Top AI & Machine Learning Services Company of 2023 By CIO Review",
+      "excerpt": "Mosaic is thrilled to be recognized as a leader in the Artificial Intelligence & Machine Learning space ... such as professional and financial services, retail, manufacturing, CPG, and oil ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentucky.com/press-releases/article274911516.html",
+      "originalUrl": "https://www.kentucky.com/press-releases/article274911516.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lexington Herald Leader",
+        "domain": "kentucky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain.md",
       "title": "EMOTIV Enlists Two Machine Learning Heavyweights as AI Takes Aim at the Human Brain",
       "excerpt": "Dr. Flake has been appointed CTO for EMOTIV after helming R&D teams for large technology companies across two decades. Author of the seminal book, The Computational Beauty of Nature, he earned renown as a scientist in academic and research circles before applying his knowledge within the commercial sector.",
@@ -1287,92 +1376,6 @@
       "provider": {
         "name": "The Indian Express",
         "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-5-emerging-trends-in-deep-learning-and-artificial-intelligence.md",
-      "title": "5 emerging trends in deep learning and artificial intelligence",
-      "excerpt": "Deep learning and artificial intelligence (AI) are rapidly evolving fields with new technologies emerging constantly. Five of the most promising emerging trends in this area include federated ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence",
-      "originalUrl": "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-04/2685aac9-95d3-4cc0-911c-64fc6de81bba.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/5-emerging-trends-in-deep-learning-and-artificial-intelligence/amp",
-      "publishedDateTime": "2023-04-22T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-simulations-with-a-machine-learning-model-predict-a-new-phase-of-solid-hydrogen.md",
-      "title": "Simulations with a machine learning model predict a new phase of solid hydrogen",
-      "excerpt": "Hydrogen, the most abundant element in the universe, is found everywhere from the dust filling most of outer space to the cores of stars to many substances here on Earth. This would be reason enough to study hydrogen,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.html",
-      "originalUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/putting-hydrogen-on-so.jpg",
-          "width": 955,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-simulations-machine-phase-solid-hydrogen.amp",
-      "publishedDateTime": "2023-04-21T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

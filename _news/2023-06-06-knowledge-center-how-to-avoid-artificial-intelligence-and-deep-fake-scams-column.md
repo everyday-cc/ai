@@ -8,8 +8,8 @@ webUrl: "https://www.pottsmerc.com/2023/06/06/knowledge-center-how-to-avoid-arti
 ampWebUrl: "https://www.pottsmerc.com/2023/06/06/knowledge-center-how-to-avoid-artificial-intelligence-and-deep-fake-scams-column/amp/"
 cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/2023/06/06/knowledge-center-how-to-avoid-artificial-intelligence-and-deep-fake-scams-column/amp/"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.pottsmerc.com/wp-content/uploads/2021/09/mercfall.jpeg"

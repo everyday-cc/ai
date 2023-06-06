@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -97,6 +97,15 @@ related:
         width: 660
         height: 348
         isCached: true
+  - title: "Intuit Introduces Generative AI Operating System with Custom Trained Financial Large Language Models"
+    excerpt: "Intuit's GenOS empowers Intuit technologists to design, build and deploy breakthrough generative AI (GenAI) experiences with unparalleled speed. The company is fueling rapid innovation at scale across its products and services to solve its customers' most important financial problems and drive durable growth."
+    publishedDateTime: 2023-06-06T16:27:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/06/9827343.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "++mdpsY5vvfvTOIlVB9IdnJIRazQm+8d1QuyzyZyO36PJDTBZMcWrVI6X7HM+yuGMUxE/RWP4M2yhu3Skg4x9f/ExY6Nu9fT25VqsMJ8I7eL5pYQBKYzF2FTi1rU1pnkqCRVldmqK+ktL+eKpNXYxm9Bt/hN8Kh3IgmaFSmseMtfjI2WwBljyzybazd/IS8zodHyxlPGejVNFpVVL/3aEDHUc7oQ2U9sHKMkMAGiWway3AibmghOmVA7q0jnZggNpQDHNwamv+KW2RoFszxYg4Tpf8pu8qbXQqBdiIsJB3sA8nhA9doXl8jrBXsYRy8QdiMhGIxMi+d/8F5VOA914v3JR6i5xZEIzv/mxb64iZARXXKMc1iWQ1bbPVZ7f+WT2DjH4ruzB0YQoztbkzJcL6FIbZ2M+xMb5a/8QXSYAtjvZdtQudhGwh9XbMaTjx5E6nyTv9vl3KiXtx8IM8fbZLd9gYYv9/Pq7Rib0pRIRB3Vlp3x5SqV9RRLBdSFdtQqJ+UxRtsYxWPUoT341O2fhQ==;bj0zdo8593vUTg11l7gyvw=="
 ---

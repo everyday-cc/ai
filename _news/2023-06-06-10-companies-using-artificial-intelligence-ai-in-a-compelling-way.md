@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-06T15:34:00Z
 originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/"
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/"
 type: article
-quality: 82
-heat: 92
+quality: 84
+heat: 94
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://m.foolcdn.com/media/dubs/images/AI_artificial_intelligence_robots_working_offi.width-600.jpg"
@@ -38,6 +39,6 @@ related:
       domain: hbr.org
     quality: 17
 
-secured: "J94oml0SIcE2LWvP6bGAF08hBVAFmXO5sIeLKt4GHUq2Oh8cyZMWRbAe+Gxls6jrUA/4IiE3OaH3y8cDAYy3iSJF5VqtVWYrFx4rJ1z5PKftSzDHe77A97khwq5YZXTitSbwoY/dIgAuSokmhbMmMCnNEbkWQHEX1PVOInEIhn7tcDHWDY3H/B3yNhXcGLs1WfrArP01wKXEeRGNR/y5vEOBwDzjd+/p4IA0TxF95WR0GVraJfVrBx9i1Gigti+bXOGUKYJSOBHJ7Gms7ISljD5QwlDgM+x7Cjg4HkOmn8d+Bup7ELqm2PedJpzHJBK0ywDqCLjFN619jKV6xCg9ckfdfjTwui9dmX1RfQ/bJ2U=;Aoj7FrUfWnLcfhSLuNI6rg=="
+secured: "ECWfGciy0PIn9/gMzAoa+Sx5YVmSEginl9nnlDR6wm68f4sW5TQoddD8wRJ1X7K/LkwlJZ27JHad4y0EXBQfMW18T59pDwDZTzpomqLdsLuZZWEm7NJmWCxClQvVLKA6LK/D7OM6coHar80Ar/XFDDtWQ5VC+BBGpJc7Sc8BeXZcdexOLcowUd4bVNVIEwOH9zHRMytscjCH4yWbaBLJH17v6nSTCTDlbB8pIRA3Y6Po4eecemzWiXd8Gfn+1pQJA2Z4seAQlzK1MfUJ++TGbgZXZ4d/ygokmdCt+UDCgFEkORXgCyRJ3i0GATQayFb+bOAdVxSdgefDICrmnjFxc/C0J4i6Nlakx1EpNC6LBEajRil1UOeVaKB8dGfpSZ4DyCK7jac+xiRTc34dSZwBdrjEPZwqiJ/uGxF+LvG+1kwRkew+fxE9CILWNJZyizk2rMh0rQ5LYyk3unNZA47lnxcDyl4H5ti+HoyKdG++VoPW0MND2JLaJ3IKtgetVv++7BbwyaFbIZAT2DpUGoWgLA==;36o1hMYOSk0DF86UVPVc+Q=="
 ---
 

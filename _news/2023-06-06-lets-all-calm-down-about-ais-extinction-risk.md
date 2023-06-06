@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/2023/06/06/fear-of-ai-s-ex
 webUrl: "https://www.washingtonpost.com/business/2023/06/06/fear-of-ai-s-extinction-risk-is-a-helpful-distraction-for-openai-google/71988880-0426-11ee-b74a-5bdd335d4fa2_story.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 1484
     height: 779
     isCached: true
+
+related:
+  - title: "Reflections – Will artificial intelligence compute to human extinction?"
+    excerpt: "The latest threat to humanity’s survival is artificial intelligence, which supposedly has the potential to outsmart us. Considering how many of us seem to be three bricks shy of a load, this seems quite plausible."
+    publishedDateTime: 2023-06-06T16:30:00Z
+    webUrl: "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/"
+    ampWebUrl: "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/amp/"
+    cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/amp/"
+    type: article
+    provider:
+      name: Reading Eagle
+      domain: readingeagle.com
+    quality: 57
+    images:
+      - url: "https://www.readingeagle.com/wp-content/uploads/2021/08/readeag.jpg"
+        width: 2100
+        height: 1500
+        isCached: true
+  - title: "How AI could take over elections – and undermine democracy"
+    excerpt: "Archon Fung, Harvard Kennedy School and Lawrence Lessig, Harvard University SPONSORED SPONSORED SPONSORED SPONSORED SPONSORED SPONSORED SPONSORED SPONSORED SPONSORED SPONSORED SPONSORED SPONSORED SPONSORED SPONSORED SPONSORED SPONSORED Could organizations use artificial intelligence language models such as ChatGPT to induce voters to behave in specific ways?"
+    publishedDateTime: 2023-06-05T12:22:00Z
+    webUrl: "https://gettysburgconnection.org/how-ai-could-take-over-elections-and-undermine-democracy/"
+    type: article
+    provider:
+      name: Gettysburg
+      domain: gettysburgconnection.org
+    quality: 19
 
 secured: "vAmH7ddBZIMay2U/aTKBZMp/MocoT+VIncf4uWmhOxdhNYp2O60+pWlXpBHX7LuT4CBTg9lG+0JMndLzeQ87tuQntjmR/6/CfjaeOvaeYrQgUAqG1bQGJbmT4lFHVroF+xcOHDsxer60/sIVVule4WMa46i4jX0u/qQrZs8hVt8lx+XosDtEMmV/n3QC+UrgditIXGBT7GlSEiKVFPjNTGGn2zVtqwTq5vnAhGgvsamGB5zDHdwM8hqF48onvnbFI6JLGZJzpfM0xSvplOvAbDXcbgTmy/0d+uPAhbID1enCn4UeFh7AEpyhG/oDebEFIusWyZdfYM7DpudekY3+Vb/nqmxYBhjoopy8i4KKho8=;oZWlM4Or5E2FX4it4v9Rwg=="
 ---

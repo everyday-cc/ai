@@ -93,6 +93,15 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 47
+  - title: "Intuit Introduces Generative AI Operating System with Custom Trained Financial Large Language Models"
+    excerpt: "Intuit's GenOS empowers Intuit technologists to design, build and deploy breakthrough generative AI (GenAI) experiences with unparalleled speed. The company is fueling rapid innovation at scale across its products and services to solve its customers' most important financial problems and drive durable growth."
+    publishedDateTime: 2023-06-06T16:27:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/06/9827343.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "B3bp8IOqBSVMFTFETn+CIXaKxnFap77Us2oJ27+J45vw1JZ7RORqsTyhanHtyx6zI5D7F+oHhLm88FlHq3rvB7yeSgH0gwhlrLbJ0GDAda7ddbycYvc6nHpiQ0vFCJlqQoKUVApccrZBs7u/iQK3OBr9eMsHrQ850NKcWDmRYQ6MKgGn0uPkvP3ZeditstLJ/lbPRQUbPgzZMebBmiupLY8sfIhS2S+GTxZ0+lcPkKkazYdAkO582AGdUiWh6W9fPM+vkb7TSt38dXs0KVdXW3E7rDn8xkxbtVq2I/Jnx6Q/g8GtQ6JckjM3BVSdJ7HDksS69rY3BWsaRb/NlB2/sGib65omqSaD+ahv7eQZVDM=;qS6qM5DcvCPnOw4yU7NnIA=="
 ---

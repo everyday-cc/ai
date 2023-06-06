@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-24-at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.md",
+      "title": "At Microsoft Build 2023, Azure Cosmos DB joins the AI toolchain",
+      "excerpt": "Microsoft has introduced a spectrum of new tools to make it easier to customize and focus the output of GPT-based AI models. Cosmos DB plays an important role.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.html",
+      "originalUrl": "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 689,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70",
+          "width": 1199,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.amp.html",
+      "publishedDateTime": "2023-05-23T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform.md",
       "title": "Microsoft launches Fabric, a new end-to-end data and analytics platform",
       "excerpt": "Microsoft Fabric is a new end-to-end data and analytics platform that centers around Microsoft's OneLake data lake but can also pull data from Amazon S3.",
@@ -1425,59 +1477,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation.md",
-      "title": "Cloud Services: AI, Partner Programs And Other Ways To Boost Your Company’s Valuation",
-      "excerpt": "These companies have leveraged Google's technology resources to develop cutting-edge solutions for a wide range of industries, including ICT, healthcare, finance, retail and manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6266a4046d73c134e2109d5b/0x0.jpg?format=jpg&crop=5735,3222,x1963,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/09/cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation/amp/",
-      "publishedDateTime": "2023-05-09T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

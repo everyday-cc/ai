@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-07-exploring-sharper-computer-vision-for-self-driving-cars-and-cybernetic-avatars.md",
+      "title": "Exploring sharper computer vision for self-driving cars and cybernetic avatars",
+      "excerpt": "Just making a small tweak to algorithms typically used to enhance images could dramatically boost computer vision recognition capabilities in applications ranging from self-driving cars to cybernetic avatars,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/car-windshield.jpg",
+          "width": 2880,
+          "height": 1908,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp",
+      "publishedDateTime": "2023-06-06T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-elon-musk-says-happy-to-license-tesla-self-driving-technology.md",
       "title": "Elon Musk says 'happy' to license Tesla self-driving technology",
       "excerpt": "Tesla Inc Chief Executive Elon Musk said in a tweet on Monday that the electric-vehicle maker would be \"happy\" to license its self-driving technology and advanced driver assistance system Autopilot to other companies.",
@@ -1323,50 +1367,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-tesla-updates-ai-trained-robot-army-takes-new-bots-for-a-walk.md",
-      "title": "Tesla updates AI-trained robot army, takes new bots for a walk",
-      "excerpt": "When it was first revealed at the Tesla AI Day 2022, the humanoid robot needed assistance from staff and could barely stand.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
-      "originalUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/48bbada3-10a1-4d54-813d-2764c5b0ce1c.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp",
-      "publishedDateTime": "2023-05-17T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

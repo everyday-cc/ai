@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/openai-boss-heartene
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/openai-boss-heartened-talks-world-leaders-ai-risks-99836465"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "Should AI come to your doctor's office? OpenAI's co-founder thinks so"
+    excerpt: "This healthcare provider is trying out AI-assisted 'hands-free charting' to generate notes and visit summaries -- with impressive results, at least in time savings."
+    publishedDateTime: 2023-06-06T17:31:00Z
+    webUrl: "https://www.zdnet.com/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ba1422fba425e7bcbbf9e17c84169ceab5f1d38d/2023/06/06/e77e9997-e41e-4d49-9348-fcef291cf247/gettyimages-1013435444.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Should AI come to your doctor's office? OpenAI's CEO thinks so"
+    excerpt: "This healthcare provider is trying out AI-assisted 'hands-free charting' to generate notes and visit summaries -- with impressive results, at least in time savings."
+    publishedDateTime: 2023-06-06T16:31:00Z
+    webUrl: "https://www.zdnet.com/article/should-ai-reach-the-doctors-office-openai-ceo-thinks-so/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/should-ai-reach-the-doctors-office-openai-ceo-thinks-so/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-reach-the-doctors-office-openai-ceo-thinks-so/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ba1422fba425e7bcbbf9e17c84169ceab5f1d38d/2023/06/06/e77e9997-e41e-4d49-9348-fcef291cf247/gettyimages-1013435444.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI CEO suggests international agency like UN’s nuclear watchdog could oversee AI"
     excerpt: "OpenAI CEO Sam Altman is on a global tour to discuss artificial intelligence. “The challenge that the world has is how we’re going to manage those risks and make sure we still get to enjoy those tremendous benefits,"
     publishedDateTime: 2023-06-06T15:08:00Z

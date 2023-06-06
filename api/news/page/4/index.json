@@ -2,6 +2,554 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-03-artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce.md",
+      "title": "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce",
+      "excerpt": "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/",
+      "publishedDateTime": "2023-06-03T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup.md",
+      "title": "Only in Bengaluru: Landlord invests Rs 8 lakh in tenant’s AI startup",
+      "excerpt": "Pawan Gupta, the co-founder and CEO of Betterhalf.ai, revealed that his landlord invested $10,000 (Rs 8.2 lakh approximately) in his AI-driven matrimonial app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html",
+      "originalUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Collage-Maker-03-Jun-2023-10-56-AM-1220.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html/amp",
+      "publishedDateTime": "2023-06-02T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-whats-inside-nvidias-ai-supercomputer-powerful-chips-and-a-lot-of-memory.md",
+      "title": "What’s Inside Nvidia’s AI Supercomputer? Powerful Chips and a Lot of Memory.",
+      "excerpt": "This past Monday, chip giant Nvidia which has seen its shares nearly triple to over $400 on rising demand for AI, announced its new DGX GH200 AI supercomputer powered by its GH200 Grace Hopper superchips. That’s a lot of letters, numbers, and supers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "originalUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-793870/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "publishedDateTime": "2023-06-02T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-google-opposed-a-shareholder-proposal-asking-for-more-transparency-around-its-ai-algorithms.md",
+      "title": "Google opposed a shareholder proposal asking for more transparency around its AI algorithms",
+      "excerpt": "During Alphabet's 2023 shareholder meeting,Trillium Asset Management proposed asking the search giant for more accountability on its AI algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6",
+      "originalUrl": "https://www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6460f406d391de0019bdd0f7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6?amp",
+      "publishedDateTime": "2023-06-02T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-the-latest-paris-fashions-in-fintech.md",
+      "title": "The Latest Paris Fashions (In Fintech)",
+      "excerpt": "I was flattered to be invited to chair the keynote panel on new business models for banking at the Paris Fintech Forum 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/",
+      "originalUrl": "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647a271e4865d126400b6f29/0x0.jpg?format=jpg&crop=2830,1591,x0,y50,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/amp/",
+      "publishedDateTime": "2023-06-02T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-whats-the-point-of-expanding-album-covers-with-ai.md",
+      "title": "What's The Point of Expanding Album Covers with AI?",
+      "excerpt": "With Photoshop’s new generative fill tool—which uses artificial intelligence to generate an expanded section of a piece of work—pro-AI knuckledraggers across Twitter are revealing the ExPaNdEd EdItIoNs of some of music’s most iconic album covers.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-ai-art-dall-e-expanded-album-covers-1850495918",
+      "originalUrl": "https://gizmodo.com/ai-ai-art-dall-e-expanded-album-covers-1850495918",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b917b007d29b3cc15579aab8fcefb4c4.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-yc-backed-dumme-raises-34m-for-its-ai-video-editor-that-turns-long-form-youtube-videos-into-shorts.md",
+      "title": "YC-backed Dumme raises $3.4M for its AI video editor that turns long-form YouTube videos into Shorts",
+      "excerpt": "Dumme, a startup putting AI to practical use in video editing, is already generating demand before opening up to the public. The Y Combinator-backed company has hundreds of video creators testing its product,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/",
+      "originalUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/IMG_0686.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/amp/",
+      "publishedDateTime": "2023-06-02T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-chatgpt-and-generative-ai-in-payments-reality-hype-whats-next-and-how-to-prepare.md",
+      "title": "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare",
+      "excerpt": "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june?amp",
+      "publishedDateTime": "2023-06-02T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-air-force-denies-running-simulation-where-ai-drone-killed-its-operator.md",
+      "title": "Air Force denies running simulation where AI drone “killed” its operator",
+      "excerpt": "Over the past 24 hours, several news outlets reported a now-retracted story claiming that the US Air Force had run a simulation in which an AI-controlled drone \"went rogue\" and \"killed the operator because that person was keeping it from accomplishing its objective.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/ucav_drone_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/",
+      "publishedDateTime": "2023-06-02T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-sigmaos-launches-a-contextual-ai-assistant-for-its-browser.md",
+      "title": "SigmaOS launches a contextual AI assistant for its browser",
+      "excerpt": "LocalGlobe- and Y Combinator-backed web browser startup SigmaOS launched its own AI assistant on Thursday to a limited set of people.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/",
+      "originalUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Explain.jpg?resize=1200,750",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/",
+      "publishedDateTime": "2023-06-02T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization.md",
+      "title": "Accelerating AI & Innovation: the future of banking depends on core modernization",
+      "excerpt": "In the rapidly evolving landscape of financial services, embracing AI and digital innovation at scale has become imperative for banks to stay competitive. With the power of AI and machine learning, financial institutions can leverage predictive analytics, anomaly detection and shared learning models",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/",
+      "originalUrl": "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 314,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/Accelerating-AI-Innovation-the-future-of-banking-depends-on-core-modernization-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T08:39:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-the-existential-threat-from-ai-and-from-humans-misusing-it.md",
       "title": "The existential threat from AI – and from humans misusing it",
       "excerpt": "Letters: Roger Haines writes that there is no evidence of AI sentience, while Prof Paul Huxley recalls Asimov’s laws of robotics, and Phyl Hyde says fears of AI are being overblown",
@@ -113,7 +661,7 @@
       "originalUrl": "https://www.zdnet.com/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -152,6 +700,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-ai-terminologies-101-how-attention-mechanism-is-transforming-deep-learning.md",
+      "title": "AI TERMINOLOGIES 101: How Attention Mechanism is Transforming Deep Learning",
+      "excerpt": "As machine learning and deep learning continue to revolutionize various industries, several innovative techniques and methodologies have been developed to optimize these learning processes. One of these techniques is the Attention Mechanism. In essence ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/06/understanding-attention-mechanism-in-deep-learning",
+      "originalUrl": "https://yourstory.com/2023/06/understanding-attention-mechanism-in-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Screenshot2023-06-02at6-1685709549095.png?fm=png&auto=format",
+          "width": 2134,
+          "height": 1058,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -588,57 +1179,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-02-experts-warn-of-the-dangers-of-ai-weigh-in-on-ongoing-eu-regulation.md",
-      "title": "Experts warn of the dangers of AI, weigh in on ongoing EU regulation",
-      "excerpt": "Experts including ChatGPT head Sam Altman suggest AI may pose a risk of \"extinction.\" Altman's OpenAI is among the U.S. tech companies keeping an eye on possible European Union regulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-caution-risk-statement/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-caution-risk-statement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-ai-running-relevant.jpeg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-02-apexoneai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions.md",
       "title": "ApexOne.AI Revolutionizes Business Operations with Advanced Artificial Intelligence Solutions",
       "excerpt": "ApexOne.AI, a leading provider of cutting-edge artificial intelligence (AI) solutions, announces the launch of their groundbreaking platform designed to transform business operations and drive unprece",
@@ -678,556 +1218,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-broadcom-ceo-sees-rising-ai-chip-demand-earnings-were-strong.md",
-      "title": "Broadcom CEO Sees Rising AI Chip Demand. Earnings Were Strong.",
-      "excerpt": "Chip maker Broadcom reported better-than-expected earnings for its fiscal second quarter. The revenue outlook topped Wall Street's forecast, as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "originalUrl": "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-791517/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "publishedDateTime": "2023-06-01T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-what-are-ai-chips-and-why-are-they-hot.md",
-      "title": "What are AI chips and why are they hot?",
-      "excerpt": "SAN FRANCISCO >> The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/",
-      "originalUrl": "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.staradvertiser.com/wp-content/uploads/2023/06/web1_13859247-13f3b5a518ca4bafaefc4d7ce03ff410.jpg",
-          "width": 760,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/",
-      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/",
-      "publishedDateTime": "2023-06-01T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Honolulu Star-Advertiser",
-        "domain": "staradvertiser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations.md",
-      "title": "OpenAI found a way to make AI models more logical and avoid hallucinations",
-      "excerpt": "The creation of false information has led to widespread concerns about the dissemination of misinformation and its potential negative consequences. In a new research post, OpenAI shares that it may have found a way to make AI models act more logically and avoid hallucinations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/",
-      "originalUrl": "https://www.zdnet.com/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/dd3e7e04d52ada5ef30e6114a2d7e5e1747c90fd/2023/06/01/2df7ccbe-245b-426a-95df-d9ec5ff9cad3/gettyimages-1460653515.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/",
-      "publishedDateTime": "2023-06-01T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-baidus-145m-ai-fund-signals-chinas-push-for-ai-self-reliance.md",
-      "title": "Baidu’s $145M AI fund signals China’s push for AI self-reliance",
-      "excerpt": "China, in order to reduce dependence on the U.S. technological foundation, has been pursuing its own large language models that match OpenAI's GPT models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/",
-      "originalUrl": "https://techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1061811420.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/amp/",
-      "publishedDateTime": "2023-06-01T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-your-evening-briefing-ai-is-sweeping-across-wall-street.md",
-      "title": "Your Evening Briefing: AI Is Sweeping Across Wall Street",
-      "excerpt": "JPMorgan is advertising for more AI roles than rivals. Morgan Stanley bankers are, well, “experimenting.” Unsurprisingly, the AI revolution is unfolding rapidly on Wall Street as wider interest grows in the evolving technology and its likely impact on business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-01/bloomberg-evening-briefing-new-ai-jobs-are-sweeping-across-wall-street",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-01/bloomberg-evening-briefing-new-ai-jobs-are-sweeping-across-wall-street",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1_ZOx4vSljQ/v0/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-ai-is-trending-in-google-searches-but-its-not-yet-to-the-peak-reached-by-bitcoin-in-2017.md",
-      "title": "'AI' is trending in Google searches — but it's not yet to the peak reached by Bitcoin in 2017",
-      "excerpt": "Interest in AI is at an all-time high on Google searches, an Alliance Bernstein analyst notes. But it's still not as popular as Bitcoin at its height.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5",
-      "originalUrl": "https://www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6477bb1b085acb0018ff14ed?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5?amp",
-      "publishedDateTime": "2023-06-01T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains.md",
-      "title": "Broadcom Suffers Sales Slowdown, Even as It Points to AI Gains",
-      "excerpt": "Broadcom Inc., one of the world’s biggest chipmakers, said that artificial intelligence spending is helping fuel sales, but not enough to offset a broader post-pandemic slowdown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZW6Tmm1CFkM/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-humanoid-robot-imagines-nightmare-ai-scenario.md",
-      "title": "Humanoid robot 'imagines' nightmare AI scenario",
-      "excerpt": "A UK-based company has made a humanoid robot that can have conversations almost as natural as human beings and make facial expressions. Almond Li has more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOV661501062023RP1",
-      "originalUrl": "https://www.reuters.com/video/watch/idOV661501062023RP1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20230601&i=OV661501062023RP1&r=OV661501062023RP1&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-ai-spurs-scientists-calling-to-fast-track-consciousness-research.md",
-      "title": "AI Spurs Scientists Calling To Fast-Track Consciousness Research",
-      "excerpt": "Now we’re in this pickle because we don’t want the AI system running the IRS to suddenly get creative one day,” says Mason only half-jokingly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/",
-      "originalUrl": "https://www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6477ccd6f0f14cbe8aa62ddd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/amp/",
-      "publishedDateTime": "2023-06-01T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-powerful-artificial-intelligence-ban-possible-government-adviser-warns.md",
-      "title": "Powerful artificial-intelligence ban possible, government adviser warns",
-      "excerpt": "Some very powerful artificial-general-intelligence systems may eventually have to be banned, a member of the government's AI Council has said. Marc Warner, also boss of Faculty AI, said AGI needed strong transparency and audit requirements as well as more inbuilt safety technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-65779181.amp",
-      "originalUrl": "https://www.bbc.com/news/technology-65779181.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1362E/production/_129960497_355e733a-d217-4c75-a8ea-91387d957009.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-65779181.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65779181.amp",
-      "publishedDateTime": "2023-06-01T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels.md",
-      "title": "Citizen’s New CZ Smart Watches Use AI To Forecast Your Energy Levels",
-      "excerpt": "Watchmaker Citizen just launched the newest generation of CZ Smart watches, now featuring an onboard wellness advisor, powered by AI learning via IBM Watson® and NASA research. Available in 16 styles across Sport and Casual Touchscreen and Hybrid Display, the CZ Smart puts a self-care coach right on your wrist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/",
-      "originalUrl": "https://www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/646cf8790227ed23db80423b/master/pass/Shot%2001_172_HERO_3_crop_small.jpg",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/amp",
-      "publishedDateTime": "2023-06-01T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

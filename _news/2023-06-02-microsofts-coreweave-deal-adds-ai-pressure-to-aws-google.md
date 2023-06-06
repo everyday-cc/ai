@@ -42,22 +42,6 @@ related:
         width: 624
         height: 416
         isCached: true
-  - title: "Using Innovation To Expand Microsoft’s Markets"
-    excerpt: "Learn how Chris Capossela, Microsoft’s Executive Vice President and Chief Marketing Officer is helping the company realize the full market potential the shift to cloud infrastructure, the future of work,"
-    publishedDateTime: 2023-06-02T00:24:00Z
-    webUrl: "https://www.forbes.com/sites/stephendiorio/2023/06/01/using-innovation-to-expand-microsofts-markets/"
-    ampWebUrl: "https://www.forbes.com/sites/stephendiorio/2023/06/01/using-innovation-to-expand-microsofts-markets/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2023/06/01/using-innovation-to-expand-microsofts-markets/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647901c847b2a3e2ed11cc53/0x0.jpg?format=jpg&crop=5000,2342,x0,y284,safe&width=1200"
-        width: 1200
-        height: 562
-        isCached: true
   - title: "Intel and Microsoft look to bring AI to the masses with Meteor Lake chips"
     excerpt: "Intel aims to put AI-accelerated experiences in the hands of hundreds of millions of people with its new Meteor Lake chips."
     publishedDateTime: 2023-06-06T13:16:00Z

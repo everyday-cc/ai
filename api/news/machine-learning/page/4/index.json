@@ -2,6 +2,103 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-07-the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai.md",
+      "title": "The Rise of the Machines: Assessing The Ethical Risks of Machine Learning And AI",
+      "excerpt": "As the world progresses towards digitalization, more people are adopting Artificial Intelligence (AI). The pandemic has accelerated this adoption. There are predictions that computers and robots will become more",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
+      "originalUrl": "https://timesofindia.indiatimes.com/readersblog/anawrites98/the-rise-of-the-machines-assessing-the-ethical-risks-of-machine-learning-and-ai-2-53549/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75476733.cms",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-a-mayday-call-for-artificial-intelligence.md",
+      "title": "A mayday call for artificial intelligence",
+      "excerpt": "Was Geoffrey Hinton's (the \"godfather of AI\") resignation from Google on May Day a true mayday signal for where AI is headed?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_0a36545d-071c-43e1-8b42-cc2ee04e5099.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/a-mayday-call-for-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-05-07T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-07-ai-pioneer-geoffrey-hinton-outlines-4-dangers-of-artificial-intelligence.md",
       "title": "AI pioneer Geoffrey Hinton outlines 4 dangers of artificial intelligence",
       "excerpt": "The “Godfather of artificial intelligence” has changed his mind about whether AI can become smarter than humans.",
@@ -1268,95 +1365,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears.md",
-      "title": "Geoffrey Hinton, a pioneer in artificial intelligence, resigns from Google over ethical fears",
-      "excerpt": "Geoffrey Hinton, a pioneer in artificial intelligence and a longtime leader of Google’s AI research division, has resigned from his position at the tech giant, citing growing concerns about the ethical implications of the technology he helped create,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/",
-      "originalUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 377,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/deepmind.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/geoffrey-hinton-a-pioneer-in-artificial-intelligence-resigns-from-google-over-ethical-fears/amp/",
-      "publishedDateTime": "2023-05-01T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review.md",
-      "title": "Mosaic Data Science has been named the Top AI & Machine Learning Services Company of 2023 By CIO Review",
-      "excerpt": "Mosaic is thrilled to be recognized as a leader in the Artificial Intelligence & Machine Learning space ... such as professional and financial services, retail, manufacturing, CPG, and oil ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentucky.com/press-releases/article274911516.html",
-      "originalUrl": "https://www.kentucky.com/press-releases/article274911516.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lexington Herald Leader",
-        "domain": "kentucky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
