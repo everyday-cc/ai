@@ -47,15 +47,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 92
-  - title: "Implement a multi-object tracking solution on a custom dataset with Amazon SageMaker"
-    excerpt: "The demand for multi-object tracking (MOT) in video analysis has increased significantly in many industries, such as live sports, manufacturing, and traffic monitoring. For example, in live sports, MOT can track soccer players in real time to analyze physical performance such as real-time speed and moving"
-    publishedDateTime: 2023-06-01T18:19:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-a-multi-object-tracking-solution-on-a-custom-dataset-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 62
 
 secured: "XwgikzYAAnTGRR6k4hhJxKm0KPVGa9m0vLAv8oLD8deQNcPEEDCmKuemDgeCwY/DcxJHThJnUxbj55FEQZWA6jYre19HmtcQlC/vSzjWSpp18g/j3PfysMbTlN+8jdnBycx8B1E/VzKfakta7w3oUE/lW1zJoVDHt3xQlxkIi4C+Y2xd+HTTFdxlC5hQ0fPFbbMaSuBh1mrBuoo3KTRwXXxhFEGcogDEXL7RG6XRZk/6fT+LPtJ0kF3z5vke04xquP3djTqG5ku5oWnnBXn100O7lIhA6A2yhelfCJLAdL1xrt1u6rj92J02ektZ/bTClYSNZOjZQG/UUKpiAxEWRM061VfzcAXwRVXleOKr5sI=;8p6eVeKrpHmRxDY+E8iVaA=="
 ---

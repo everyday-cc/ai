@@ -133,15 +133,6 @@ related:
       name: Firstpost
       domain: firstpost.com
     quality: 34
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "AI chips and their leading designer, Nvidia, are now at the center of what some experts consider an AI revolution that could reshape the technology sector and possibly the world along with it."
-    publishedDateTime: 2023-06-01T18:30:00Z
-    webUrl: "https://omaha.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_b29fedbe-109c-55f5-96f5-b3b3303c2067.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 28
 
 secured: "0eIc0CbM2nMKj+XuORupYOO9CsRsA+LJW5xHWPF5etYvweb+dKFrEoIp8vCEJC3DpCm5Ua+ol/N70uhE77dO2i2Ag4e8I4yPIClM4jT8u4aYGG4KjVNLYe5wShomn+fkWP+Eob6f6TrUx2D+sBnKlal6e2MRmW1QHyBKzHj5wXwQrxUpgTwsUMvLdcR0xhdrd1Ot8kJ94RRhfCftD8L3EV09AU8oaa5bIRA4gujGsk/biBOwAz/XLHeRdXfu3eFD4IHgpK67qLb9RqpAKIgWNFt1XzlswmatofyIBUJLwIfaFilx/WL7wlrNvmY+G/Xt7WgL2HphXbWvZwHYMrLzizodtzI7HKK0150/m5dlUa1XcnKUiOSUUYZOMrZ3jz85oJjvS0hwtCqR8TJB8kx/ypUw0xR4kQcy4K4fh/p9rfY2b1Dg5lqLpV7a16Q1i94vd7BVd5C7e8syRAXZV5qJVlwFDo0Ncdy8B8zmyFRAryathL6sjBgWC33YWy1ckua9aQGh9E+gX7qTz1ILR1HWGw==;c/2GA9JOLN88APM365bkOg=="
 ---

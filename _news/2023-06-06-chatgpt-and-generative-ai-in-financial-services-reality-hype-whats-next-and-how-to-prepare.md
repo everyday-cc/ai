@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
-    publishedDateTime: 2023-06-01T17:30:00Z
-    webUrl: "https://www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-reality-hype-2023-june"
-    ampWebUrl: "https://www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-reality-hype-2023-june?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-reality-hype-2023-june?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/64403454632fda001803b2e0?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "A lawyer got ChatGPT to do his research, but he isn’t AI’s biggest fool"
     excerpt: "The emerging technology is causing pratfalls all over – not least tech bosses begging for someone to regulate them"
     publishedDateTime: 2023-06-03T14:00:00Z
@@ -92,15 +76,6 @@ related:
         width: 1600
         height: 885
         isCached: true
-  - title: "ChatGPT and Generative AI in Search: The Biggest Digital Ad Format Is Ripe for Revolution"
-    excerpt: "Microsoft and Google are racing to develop the best AI-assisted search experience, leaving advertisers on the precipice of major disruption."
-    publishedDateTime: 2023-06-01T18:59:00Z
-    webUrl: "https://www.businessinsider.com/search-generative-ai-chatgpt-biggest-search-format-ripe-for-revolution-2023-june"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
   - title: "This test might be an easy way to distinguish humans from AI like ChatGPT"
     excerpt: "A test called the Capital Letter Test might help you discern a human from generative AI software like ChatGPT - here's how it works."
     publishedDateTime: 2023-06-02T17:04:00Z
@@ -115,15 +90,6 @@ related:
         width: 3024
         height: 1701
         isCached: true
-  - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
-    excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
-    publishedDateTime: 2023-06-01T18:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-media-use-cases-set-battle-begins-2023-june"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
 
 secured: "geBE7pbx2VVfgyHO1gvMmNL97voxzvfjSVxwI1J3ATiylPdBpRIuuwB3uUT+8ybU/rtxOOTq9CYd/jf+os+tW+NB4BsAjP6fvZJjgT/TnxSh72MIXums/uCgyyPN0nyc8u8nUTaRGHkPtdl3GOJUZF4M9zx7lfTWTlTNqAZxjkNf4bKNk21hf/kKJJzrnhVB0Hnu7PUB+0C//eIulg/Myl5zO1lInv7NSqryaU5XmRN6bImfqeJzzWPaD0a1run5eelA79JZ2iAbOudTsUFHJ/7jEIx6Hfl8q0odjVy4cAbDNkKTGn6BYBYsCf2wlpqA7x1TV/9ksglRt+480D8Y97+H/491AFj11RBEv0537DaTSmWQ5ONRl1pUGBZPsXzNDBQ07FmflNCk2LihNcTXKasaGvgnFF2cR9oldlo3p6ARVJWOqNIzn4VSg3yIqL7r4hPpq4Tst221ss/24p6tyKkmEg2OgpRATSZJlG3a0wGeVMIkuhplFWVCbN8eBiKKwAwVD/LGu3S6nhnE3wl+AA==;comsnp4xHlvgIjVd/KAS1w=="
 ---

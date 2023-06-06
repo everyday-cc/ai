@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-impact-of-generative-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The hardest part of working with generative AI in healthcare"
-    excerpt: "UC San Diego Health is piloting generative artificial intelligence, built by Epic and Microsoft, to help physicians respond to patients' questions. Challenges i"
-    publishedDateTime: 2023-06-02T18:28:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/the-hardest-part-of-working-with-generative-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
   - title: "Generative AI’s ‘productivity revolution’ will take time to pay off"
     excerpt: "A boom in generative artificial intelligence and pandemic-induced workplace shifts will unleash a new era of faster productivity growth across the rich world, economists say, though it could take a decade or more for advanced economies to reap the full benefits."
     publishedDateTime: 2023-06-05T04:00:00Z

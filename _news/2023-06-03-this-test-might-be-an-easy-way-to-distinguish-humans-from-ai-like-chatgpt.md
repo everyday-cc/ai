@@ -42,22 +42,6 @@ related:
         isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
-    publishedDateTime: 2023-06-01T17:30:00Z
-    webUrl: "https://www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-reality-hype-2023-june"
-    ampWebUrl: "https://www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-reality-hype-2023-june?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-reality-hype-2023-june?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/64403454632fda001803b2e0?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-06-05T17:30:00Z
     webUrl: "https://www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june"
     ampWebUrl: "https://www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june?amp"
@@ -102,24 +86,6 @@ related:
         width: 1600
         height: 885
         isCached: true
-  - title: "ChatGPT and Generative AI in Search: The Biggest Digital Ad Format Is Ripe for Revolution"
-    excerpt: "Microsoft and Google are racing to develop the best AI-assisted search experience, leaving advertisers on the precipice of major disruption."
-    publishedDateTime: 2023-06-01T18:59:00Z
-    webUrl: "https://www.businessinsider.com/search-generative-ai-chatgpt-biggest-search-format-ripe-for-revolution-2023-june"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
-    excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
-    publishedDateTime: 2023-06-01T18:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-media-use-cases-set-battle-begins-2023-june"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
 
 secured: "ejiFzqhCFWhWGgAGfK+z4a8EKF7TMJswyPszSIGLcbaDB/m4x7ajQCi4ru3zmJ82g00ogeU6L9MYx5dyxmUO+3A5tfaUeg6/hPWeA57fdf/IQlLRRkxLVsw0bwyggbEco03nBv3CxBHvcn/d6/H8lUFrDCMGpb/OTZjp9tHLyjYsFpXKUCLMiRm6bfsEBggwztG/tYR76eNoTF1SRwPGHRf0b1ukNBPd+uyZwbVyZHTEWbxCHy22/izFeV+JTTOeAeSxvXuvYVIFuaZvUjMlTDzLrFTEpo80OMBGH5thLkAe9IMVtfWybIGoS4gTyzD+mGMgfSMvTMtmw+f61tcxpxgaSoiYgP9bsyZPgmk5FkZ+7EIYDuTBF2Cqg/00jKQ7ODr7yOL3g2llJjCFElZtdSAyFyb+PE64kLXTYANCfjsrWJ+8OZkW3X2lkH0O56Rw1oeQNm9bCIEEOd5lv/qGZSksPneZi5No+g0o7V28Lh/UleDPqahg3DZrNI0welWvuiqCGYfwJgytES8XcEcVOA==;aDF+fMXSJgHyDD3gYcCMEw=="
 ---

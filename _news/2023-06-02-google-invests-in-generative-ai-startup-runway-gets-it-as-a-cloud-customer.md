@@ -24,29 +24,75 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI startup Runway taps Google to lead a $100 million funding round and sign a major cloud contract"
-    excerpt: "This is the latest example of a cloud provider making a significant investment in a generative AI startup as tools like ChatGPT become popular."
-    publishedDateTime: 2023-06-01T20:29:00Z
-    webUrl: "https://www.businessinsider.com/google-runway-ai-invests-generative-startup-cloud-contract-2023-5"
+  - title: "Where To Start With Generative AI & The Customer Experience"
+    excerpt: "With leading brands beginning to deploy generative AI in the enterprise setting, customer service has emerged as a key testing ground."
+    publishedDateTime: 2023-06-06T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62a255ae259caf06f4876076/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Google reportedly invests in generative AI startup Runway at $1.5B valuation"
-    excerpt: "Google LLC has reportedly invested in Runway AI Inc., a New York-based startup that develops generative artificial intelligence models. The Information reported the deal on Wednesday, citing two sources familiar with the matter."
-    publishedDateTime: 2023-06-01T18:33:00Z
-    webUrl: "https://siliconangle.com/2023/06/01/google-reportedly-invests-generative-ai-startup-runway-1-5b-valuation/"
+  - title: "Generative AI Will Elevate Humans Into Higher-Value Jobs"
+    excerpt: "Language-generating artificial-intelligence tools, such as ChatGPT, will make work more efficient by cutting repetitive tasks and freeing up humans for new, higher-value jobs, according to European technology firms."
+    publishedDateTime: 2023-06-05T13:06:00Z
+    webUrl: "https://www.wsj.com/articles/generative-ai-will-elevate-humans-into-higher-value-jobs-e7eb05de"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 16
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-788169/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How to create generative AI confidence for enterprise success"
+    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
+    publishedDateTime: 2023-06-04T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
+        width: 1200
+        height: 579
+        isCached: true
+  - title: "These Enterprise Generative AI Use Cases are Emerging"
+    excerpt: "Generative AI models are continuously bringing new business opportunities. Generative AI use cases are emerging in enterprises for bringing transformations."
+    publishedDateTime: 2023-06-05T14:45:00Z
+    webUrl: "https://enterprisetalk.com/featured/generative-ai/"
+    ampWebUrl: "https://enterprisetalk.com/featured/generative-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/generative-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 61
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/These-Enterprise-Generative-AI-Use-Cases-are-Emerging.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Google’s AI-powered search experience is way too slow"
+    excerpt: "The worst thing about Google’s new AI-powered search experience is how long you have to wait. Can you think of the last time you waited for a Google Search result? For me, searches are generally instant."
+    publishedDateTime: 2023-06-04T12:00:00Z
+    webUrl: "https://www.theverge.com/23746083/google-ai-search-generative-experience-slow"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 47
 
 secured: "B3bp8IOqBSVMFTFETn+CIXaKxnFap77Us2oJ27+J45vw1JZ7RORqsTyhanHtyx6zI5D7F+oHhLm88FlHq3rvB7yeSgH0gwhlrLbJ0GDAda7ddbycYvc6nHpiQ0vFCJlqQoKUVApccrZBs7u/iQK3OBr9eMsHrQ850NKcWDmRYQ6MKgGn0uPkvP3ZeditstLJ/lbPRQUbPgzZMebBmiupLY8sfIhS2S+GTxZ0+lcPkKkazYdAkO582AGdUiWh6W9fPM+vkb7TSt38dXs0KVdXW3E7rDn8xkxbtVq2I/Jnx6Q/g8GtQ6JckjM3BVSdJ7HDksS69rY3BWsaRb/NlB2/sGib65omqSaD+ahv7eQZVDM=;qS6qM5DcvCPnOw4yU7NnIA=="
 ---

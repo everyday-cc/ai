@@ -22,21 +22,79 @@ topics:
   - AI
 
 related:
-  - title: "How to Use AI in Your Job Search"
-    excerpt: "Artificial intelligence is about to transform the job search. Research confirms the value of using AI in your job search. At the very least, AI can be of immediate practical help with your resume."
-    publishedDateTime: 2023-06-01T20:49:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search?amp"
+  - title: "Where To Start With Generative AI & The Customer Experience"
+    excerpt: "With leading brands beginning to deploy generative AI in the enterprise setting, customer service has emerged as a key testing ground."
+    publishedDateTime: 2023-06-06T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-06/ai.jpg?itok=YfnF92cM"
-        width: 1528
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62a255ae259caf06f4876076/0x0.jpg?format=jpg&width=1200"
+        width: 1200
         height: 800
+        isCached: true
+  - title: "Generative AI Will Elevate Humans Into Higher-Value Jobs"
+    excerpt: "Language-generating artificial-intelligence tools, such as ChatGPT, will make work more efficient by cutting repetitive tasks and freeing up humans for new, higher-value jobs, according to European technology firms."
+    publishedDateTime: 2023-06-05T13:06:00Z
+    webUrl: "https://www.wsj.com/articles/generative-ai-will-elevate-humans-into-higher-value-jobs-e7eb05de"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-788169/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How to create generative AI confidence for enterprise success"
+    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
+    publishedDateTime: 2023-06-04T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
+        width: 1200
+        height: 579
+        isCached: true
+  - title: "These Enterprise Generative AI Use Cases are Emerging"
+    excerpt: "Generative AI models are continuously bringing new business opportunities. Generative AI use cases are emerging in enterprises for bringing transformations."
+    publishedDateTime: 2023-06-05T14:45:00Z
+    webUrl: "https://enterprisetalk.com/featured/generative-ai/"
+    ampWebUrl: "https://enterprisetalk.com/featured/generative-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/generative-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 61
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/These-Enterprise-Generative-AI-Use-Cases-are-Emerging.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Google invests in generative AI startup Runway, gets it as a cloud customer"
+    excerpt: "Google has invested in generative AI startup Runway in a deal that values the company at around $1.5 billion. The investment, which was part of a $100m funding round, also means that Runway will now use Google Cloud as its preferred cloud provider,"
+    publishedDateTime: 2023-06-02T16:58:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-invests-in-generative-ai-startup-runway-gets-it-as-a-cloud-customer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_Data_Center.2e16d0ba.fill-1200x630.jpg"
+        width: 660
+        height: 348
         isCached: true
 
 secured: "e4rUP7jPDyn3w2znomt8NDAOdFO7oiKG+Ft7WCBaXloYCojPJtwcYD2KgLBW0W6Z8VTFTtHL7RrhSImG7TqXD7NWj/7XZuc6i1d3v/ne6Bpppn58oRvEr3k4Rzi1zZeDUe2AOX1D+PRMYQ7UPklQLNgXyEYvRhmvTIswnexboxtz+hooKKFkiS1G6kLmYyiSCmIyluFXZEVXctjQfL5kmaN/3t+gDpjpQaRcFLGJ+5cLDbwi4H2v7vLNkwlwiGX024RTAiODjPXtjrpCZPnrz8bNSwMSqs2An9rWARwjfh3edD4FTeexdclwZ9Xvxcqrr1/JS+5puRVp3S9h5gu4PgIMeVv5FygrjS7QqldCk39WZ/XWZaBAV0/klWBhrVV0vWBkgkKs+wcMs9iEf74e08QSvg+HHWiTbj1me8Eb/n7jHmBA9azoCC+XkAVeza6GEhoEwtH6MagiulOTBh96YndXj2veoVwjGBuFunWC6nBj3HUCJZy0/yir70UcKriCD9FEKeRYD0C5MfI8XR1rpA==;skjva8w9BWKD3PgpAAh85g=="

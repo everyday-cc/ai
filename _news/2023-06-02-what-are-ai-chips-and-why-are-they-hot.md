@@ -9,7 +9,7 @@ ampWebUrl: "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips
 cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -133,15 +133,6 @@ related:
       name: Firstpost
       domain: firstpost.com
     quality: 34
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "AI chips and their leading designer, Nvidia, are now at the center of what some experts consider an AI revolution that could reshape the technology sector and possibly the world along with it."
-    publishedDateTime: 2023-06-01T18:30:00Z
-    webUrl: "https://omaha.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_b29fedbe-109c-55f5-96f5-b3b3303c2067.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 28
 
 secured: "l/Np1HNwVvAJk5hNS95je1whfyALiiW3fQ3YSS76aLNvJ1CpjLV4cdS6JmH7ylkmn5O/pDkcr1jSx36jtTsAf3Gh4fBZ6LEEyVLCKqX+dRQ5D6CMZTDiYuPN09oJupJp9UzK9fnuXagU+nYrBwgztGfS3KDc3Sk/7ZLQsdnDEyHqKuVClASAdXacl3A+v0zGokGqazOVD5Na6yJkQlMcv9EhaXYRO6EMgbP9ylE12BX3/jFxI+KXO9c6pNntPMn7xvroXd1tiVifSqDUNxE5NuZlMOY3KwfbC+Xho3uH+wY97AyGDug/EPAI4HMkQiWd+lJnb1S9QLNaLirJcLa9VkSxqL2BPR1WvnzNmkp1il/XU70rlaoCUO94fYhZGC+zrUz+g1yLyvVm/EaM2slBpMWzvr3YZrD+xccqehu1XYjC+9bQnm0Q9VsqlR4Kc6nePTpezHfuru/TCKxHdytgP7X3yZkp1mgKCFkrB4iFt/yCcL0r4jpl5riIsgkrDXfQ/YKiyaeouekVIRRK+Mu3vg==;nxbY3J+k9yyAsmTnkjwAVw=="
 ---

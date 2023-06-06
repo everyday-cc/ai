@@ -7,7 +7,7 @@ originalUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-ac
 webUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -25,34 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Will Elevate Humans Into Higher-Value Jobs"
-    excerpt: "Language-generating artificial-intelligence tools, such as ChatGPT, will make work more efficient by cutting repetitive tasks and freeing up humans for new, higher-value jobs, according to European technology firms."
-    publishedDateTime: 2023-06-05T13:06:00Z
-    webUrl: "https://www.wsj.com/articles/generative-ai-will-elevate-humans-into-higher-value-jobs-e7eb05de"
+  - title: "Generation AI fear for jobs as half of UK public think will robots will act against human interests"
+    excerpt: "More than half of 18 to 24-year-olds are concerned about the impact of the technology on their future job prospects"
+    publishedDateTime: 2023-06-04T17:17:00Z
+    webUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=most_popular"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-788169/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "How Will Artificial Intelligence Change Higher Ed?"
-    excerpt: "Even discounting for hyperbole, the release of ChatGPT suggests that we’re at the dawn of an era marked by rapid advances in artificial intelligence, with far-reaching consequences for nearly ..."
-    publishedDateTime: 2023-06-04T23:44:00Z
-    webUrl: "https://www.chronicle.com/article/how-will-artificial-intelligence-change-higher-ed"
-    type: article
-    provider:
-      name: The Chronicle of Higher Education
-      domain: chronicle.com
-    quality: 39
-    images:
-      - url: "https://chronicle.brightspotcdn.com/dims4/default/23c4fda/2147483647/strip/true/crop/1680x882+0+119/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2F5a%2F21%2Fef77707b4d5bb86422b3d7cf4b69%2Fai-promo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: i
+      domain: inews.co.uk
+    quality: 20
 
 secured: "DDnLumwHfeaSR0+zTv1lr3g/lB+tgre6FGGakvbOPiVb8DaFcw+OwisslL0PBDTsWAjmpW2oNG1Qt9poNtz1W+vrSzJQaFd0yIpcutXVMEXOLTIFw7WTN12kvAsisimHsrSo+IngiB+b5O3nJNYPSu33du2xsdyv6UJvzAPqG1oLJXNppD3CyZBgSxbdvY1G9Hq2ZcD1Uxxv1X4KOJd7Gbn3EqGGMRzsdsaOVowHC60+P3U2f0RnbZCcP5Nkx7qgnYqSSDnPlSxVx19rNYDBqMQYQmADWY3BWgfUR2RuH5AnOc/3XbLtXq8Pc5U7MvxAJB5xEOTM/8sLOoJKvBUTPfCziZRtLsJOtftxcPElD34uAAk7G1TpEDbONf1EKScuEJTo6UAUGW0cNHXMv51pgSPTeVuuKQnmjE8p1zRA13tgiHdwiAx+f6ThjMg42dnd/oYrsq4OQpbgTBAxsiPO5TVq90PhdaxyhOAPJmvv3U4p3s+baHCX436bg5+vS8eAzGAOWtbH73Fj1frvp9DIkQ==;Z06IXLWeUkx2fpj1lSYzRw=="
 ---

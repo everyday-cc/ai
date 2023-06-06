@@ -38,6 +38,17 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses"
+    excerpt: "Partnership to enable ZainTech and Zain B2B teams to offer cutting-edge data solutions that solve business challenges and drive efficiencies"
+    publishedDateTime: 2023-06-06T11:13:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
   - title: "AI-Powered LetzChat and Managed Health Partner to Revolutionize Language Solutions in Employee Benefits"
     excerpt: "LetzChat, a leading AI-driven language translation company, is excited to announce its strategic partnership with Managed Health, a prominent employee benefits"
     publishedDateTime: 2023-06-05T17:02:00Z

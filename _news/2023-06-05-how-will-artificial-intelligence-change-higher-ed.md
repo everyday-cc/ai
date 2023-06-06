@@ -7,7 +7,7 @@ originalUrl: "https://www.chronicle.com/article/how-will-artificial-intelligence
 webUrl: "https://www.chronicle.com/article/how-will-artificial-intelligence-change-higher-ed"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Generative AI Will Elevate Humans Into Higher-Value Jobs"
-    excerpt: "Language-generating artificial-intelligence tools, such as ChatGPT, will make work more efficient by cutting repetitive tasks and freeing up humans for new, higher-value jobs, according to European technology firms."
-    publishedDateTime: 2023-06-05T13:06:00Z
-    webUrl: "https://www.wsj.com/articles/generative-ai-will-elevate-humans-into-higher-value-jobs-e7eb05de"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-788169/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Generation AI fear for jobs as half of UK public think robots will act against human interests"
-    excerpt: "More than half of 18 to 24-year-olds are concerned about the impact of the technology on their future job prospects"
-    publishedDateTime: 2023-06-04T18:06:00Z
-    webUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 42
-    images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/04/SEI_151791596-1200x630-pl-exclusive.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ZvcRq5r90z8aO7b8CVMdg4kdRv5GgklxYLytZKzlq8kAIfVR757ar8icmEbMTwuyxQ9BOKEHpo2n7HPUf2v2/fcaG+Tmzwr8YSWeySLBB6CLvfJAPqpXG3DMiVDsREMOW0LTYdgyKTN1um5wWhSqcl/4qzFdb+8lfQ96LlgZNubJj4DJ0Ehd9ZG+98QgvSj5tK5S226X8csWN1rvc1fJcRUObgwRWwSJwwQFySuHcrqh1HGeRu4Qc3gyssJB+YllRh71cuADBtVAtIoKjZRmbtDXYwvk5ytF+JUJ1zxCUYThRqjh7pBJzT57bzUd2vr704kg+3BI1JQAwyNsvoxT4Zaid5zTvX6+Bdk9d/wharQ=;Nv8FKSudl2kBjbQH7ATFzA=="
 ---

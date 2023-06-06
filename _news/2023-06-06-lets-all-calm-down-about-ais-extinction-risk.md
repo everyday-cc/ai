@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "‘Mitigating the risk of extinction’: As the capabilities of artificial intelligence grow, so do calls for regulation"
-    excerpt: "The Center for AI Safety released a statement earlier this week signed by a group of leaders in artificial intelligence about the technology’s risks: “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks,"
-    publishedDateTime: 2023-06-01T18:53:00Z
-    webUrl: "https://www.texasstandard.org/stories/ai-artificial-intelligence-dangers-deep-fakes-chatgpt-mitigating-risk-exctinction-statement-regulation/"
-    type: article
-    provider:
-      name: Texas Standard
-      domain: texasstandard.org
-    quality: 0
 
 secured: "vAmH7ddBZIMay2U/aTKBZMp/MocoT+VIncf4uWmhOxdhNYp2O60+pWlXpBHX7LuT4CBTg9lG+0JMndLzeQ87tuQntjmR/6/CfjaeOvaeYrQgUAqG1bQGJbmT4lFHVroF+xcOHDsxer60/sIVVule4WMa46i4jX0u/qQrZs8hVt8lx+XosDtEMmV/n3QC+UrgditIXGBT7GlSEiKVFPjNTGGn2zVtqwTq5vnAhGgvsamGB5zDHdwM8hqF48onvnbFI6JLGZJzpfM0xSvplOvAbDXcbgTmy/0d+uPAhbID1enCn4UeFh7AEpyhG/oDebEFIusWyZdfYM7DpudekY3+Vb/nqmxYBhjoopy8i4KKho8=;oZWlM4Or5E2FX4it4v9Rwg=="
 ---

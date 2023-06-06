@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/featured/generative-ai/amp/"
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/generative-ai/amp/"
 type: article
 quality: 61
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,75 @@ images:
     width: 1500
     height: 844
     isCached: true
+
+related:
+  - title: "Where To Start With Generative AI & The Customer Experience"
+    excerpt: "With leading brands beginning to deploy generative AI in the enterprise setting, customer service has emerged as a key testing ground."
+    publishedDateTime: 2023-06-06T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62a255ae259caf06f4876076/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI Will Elevate Humans Into Higher-Value Jobs"
+    excerpt: "Language-generating artificial-intelligence tools, such as ChatGPT, will make work more efficient by cutting repetitive tasks and freeing up humans for new, higher-value jobs, according to European technology firms."
+    publishedDateTime: 2023-06-05T13:06:00Z
+    webUrl: "https://www.wsj.com/articles/generative-ai-will-elevate-humans-into-higher-value-jobs-e7eb05de"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-788169/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How to create generative AI confidence for enterprise success"
+    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
+    publishedDateTime: 2023-06-04T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
+        width: 1200
+        height: 579
+        isCached: true
+  - title: "Google’s AI-powered search experience is way too slow"
+    excerpt: "The worst thing about Google’s new AI-powered search experience is how long you have to wait. Can you think of the last time you waited for a Google Search result? For me, searches are generally instant."
+    publishedDateTime: 2023-06-04T12:00:00Z
+    webUrl: "https://www.theverge.com/23746083/google-ai-search-generative-experience-slow"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 47
+  - title: "Google invests in generative AI startup Runway, gets it as a cloud customer"
+    excerpt: "Google has invested in generative AI startup Runway in a deal that values the company at around $1.5 billion. The investment, which was part of a $100m funding round, also means that Runway will now use Google Cloud as its preferred cloud provider,"
+    publishedDateTime: 2023-06-02T16:58:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-invests-in-generative-ai-startup-runway-gets-it-as-a-cloud-customer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_Data_Center.2e16d0ba.fill-1200x630.jpg"
+        width: 660
+        height: 348
+        isCached: true
 
 secured: "v/GaFl0JwK1FTmGPLpe/CqsNusr/nvJ8pUaf7x0vJVE96cgrpyfHbaB2IriaOTIEu0IvXjxHRlJrz/EZwBWzwtTzQb90WdmXHVCnwcwo2T4x4k0tislDNyvB32KUjSxjvOS0I1ILNZFRcoFAX/tSrjQ9PAxmDpjUb63D2d/QdLS8h31sPVKqb+DNXD6Zz7N2cFDblIcx5xTdT29VadvHy3pQu0VpzTrsB5FwI+ZXl/cYScELDpiynMS7HrcNUQBV7pgGaDqrx4wL2BZJtq/+Tq5VE6xzNZBNYPK+L9sVp2q2dAoRAF97xUXldimv/Z1ZBXxpW1eA8XeQ4ECM316Y0wP7Lugozuq1X85n1I+Sv5BQC70/epLtTH0QXI1w787/u854k7vg2sjjPef3bP1CqewNysACRBG50CrWynCGJJTbGVzJ4Dgd4rpUmDU6Np2wLKqoCBtk683sCMZk40+IQ1sUZ436O1NqaCh8tI0vO2uC8iHv+4TqtbAI0LJqGpilXKpEHXLEyczDO+lhct1ZjQ==;IZ4hKo5/wy6qFQdOx9OlCg=="
 ---

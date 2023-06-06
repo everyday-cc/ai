@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/networking/singapor
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
 type: article
 quality: 84
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How to create generative AI confidence for enterprise success"
-    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
-    publishedDateTime: 2023-06-04T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
-        width: 1200
-        height: 579
-        isCached: true
   - title: "Singapore puts AI on the cloud to boost public sector deployment"
     excerpt: "Dedicated cloud resources running on Google's platform have been carved out to to enable Singapore government agencies to deploy AI applications more efficiently and securely."
     publishedDateTime: 2023-06-02T13:08:00Z
@@ -81,15 +67,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "IBM Consulting Creates Center of Excellence for Generative AI"
-    excerpt: "IBM Consulting is establishing a Center of Excellence for generative AI to stand alongside IBM Consulting's existing global AI and Automation practice, which includes 21,000 data and AI consultants who have conducted over 40,"
-    publishedDateTime: 2023-06-05T13:04:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Consulting-Creates-Center-of-Excellence-for-Generative-AI-158894.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 19
 
 secured: "FTGokyWpbj5aVx1fDbSza7cJrJYnto3GI9uF1jSVs+q7aYOtDrTT7JuAMumk1vJ5hA6V+p1FLzyx+fPH9KmsWw78jIX3uI4JTE1VWbRDXgr+9uVpo2TCcM7+ybOMd2+Up5m4XJmfhOcLNxw62DxHkP+SzyHzY9m+e/elCfljCEIkbDG8EPP9OEoPWkqSg6hMserJYDezOb3BGW8OIx04ULcORLZNHCIbf11Yl02ETM1QQ2cv44LVRTMG8qJ99L0CkyEihjReRbW5BKEL7o+eQqMAD/ecLhmVKJC7PugDk0M57HPVAlsHOGaFr66byeya1I69U2sRVwIKUyvNu47+hksYBoEyGXR1XBx0KYKDTpeNJDk8Ji7d8UFDCpe5xSt6rJ7VKKBYQ6uCd8xNgB81+c9DiQTHTSArA+uuuymbexUvKDmAXyJ9kjIP9i8ZV6dL+aPFB2JkVek6cw4aJr4I7VXXynoefMR5GTfhBq+cBc7P+qitCCout0b00oUznmurK2tK8L46fyKBee+4IyWMVA==;BqAox+QAvK8FJmeHMSGT/w=="
 ---

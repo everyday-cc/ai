@@ -55,6 +55,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "New superconducting diode could improve performance of quantum computers and artificial intelligence"
+    excerpt: "A University of Minnesota Twin Cities-led team has developed a new superconducting diode, a key component in electronic devices, that could help scale up quantum computers for industry use and improve the performance of artificial intelligence systems."
+    publishedDateTime: 2023-06-06T11:18:00Z
+    webUrl: "https://phys.org/news/2023-06-superconducting-diode-quantum-artificial-intelligence.html"
+    ampWebUrl: "https://phys.org/news/2023-06-superconducting-diode-quantum-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-superconducting-diode-quantum-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 42
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/new-superconducting-di.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "This week in AI: Existential threat from AI, Nvidia announces AI supercomputer, UK wants global AI watchdog and more"
     excerpt: "The DGX GH200 uses Nvidia's NVLink technology to combine 256 GH200 superchips, which each house an ARM-based Grace CPU, and H100 Tensor Core GPU, that allow for performance up to 1 exaflop (equivalent to one quintillion floating point operations per second) with a whopping 144 Terabytes of shared memory."
     publishedDateTime: 2023-06-04T13:30:00Z

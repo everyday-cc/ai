@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://thefinance.sg/wp-content/uploads/2022/04/Oil-Rig-at-Sunset.png"
         width: 800
         height: 533
+        isCached: true
+  - title: "New superconducting diode could improve performance of quantum computers and artificial intelligence"
+    excerpt: "A University of Minnesota Twin Cities-led team has developed a new superconducting diode, a key component in electronic devices, that could help scale up quantum computers for industry use and improve the performance of artificial intelligence systems."
+    publishedDateTime: 2023-06-06T11:18:00Z
+    webUrl: "https://phys.org/news/2023-06-superconducting-diode-quantum-artificial-intelligence.html"
+    ampWebUrl: "https://phys.org/news/2023-06-superconducting-diode-quantum-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-superconducting-diode-quantum-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 42
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/new-superconducting-di.jpg"
+        width: 1800
+        height: 1200
         isCached: true
   - title: "Charting Nvidia’s 30-Year Ride to Overnight AI Success"
     excerpt: "But an increasing number of its chips are being installed in data centers to help companies like Microsoft Corp., Alphabet Inc., OpenAI, and Amazon.com Inc. build their AI capabilities and offer those services to clients. Last year’s release of ChatGPT ..."

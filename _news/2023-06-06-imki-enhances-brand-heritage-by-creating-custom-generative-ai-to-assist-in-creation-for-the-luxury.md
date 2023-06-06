@@ -235,6 +235,20 @@ related:
         width: 1600
         height: 1024
         isCached: true
+  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
+    excerpt: "Automation Anywhere, the #1 leader in cloud-native intelligent automation, today announced it is working with Amazon Web Services (AWS)"
+    publishedDateTime: 2023-06-06T10:40:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-301843492.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/541440/Automation_Anywhere_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Applications for conversational AI within the organisation"
     excerpt: "OpenAI was established in 2015 and DeepMind in 2010. Both companies have been singularly focused on the potential and power of artificial intelligence (AI) and garnered significant media and consumer interest."
     publishedDateTime: 2023-06-06T07:19:00Z
@@ -253,6 +267,15 @@ related:
       name: Times Union
       domain: timesunion.com
     quality: 17
+  - title: "Automation Anywhere, Inc.: Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
+    excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent automation services LONDON, June 6, 2023 /PRNewswire/ -- Automation Anywhere ..."
+    publishedDateTime: 2023-06-06T10:57:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59270155-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "neCzirLQr8HgMjM3r14chNBQ/Go5qGqVJiJ3eCOcWDh0bnk2sqfaJaxDi1FOBdrNsEX9XiLRbSFqi9dycFsWo5HVh3GosBMSbr6HWsPee3xpWSVT1taLBER6Kvz9dIVAxcGW0hRu3dWbPR3lcohHtMvSHRbNmgiuK1GYF1TpMhqczV5+V3AUXLgYgENiVbe3moB5BrCkFZWjnx4tqYNjNZ769LrEFGRHWVMuI+TYgjZZFJNIlFGnL4roTVJySkteOkfVaSFy/sLZitUNGrMvdxuRmbVddBC3OuBblAJtCZ2HJIBOF3uMJg2IjFpZyV0oHZb86ev4dMV1E7j6G1I8I/WdfaVJgGDpscEFl/kI+EgmWbdxYO89kd5JJOoVKdmGjdg1Ngz7PjpzOOId7TfvaUoC8+5/q6sakEd+TebpxTqGy25VpLs4NmDfe40wGIjQnpIIlzN5/n9uaVYIegGKI5TyxcSGWOBGk/anegH8PBAHp5AGQsFskROyDWXZCrP3a5kc6dWmWN1d5hkOwAUM4w==;FaRzJ7f09e2af56NIlfoKA=="
 ---

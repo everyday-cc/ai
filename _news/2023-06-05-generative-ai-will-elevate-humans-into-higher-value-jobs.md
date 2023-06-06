@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/generative-ai-will-elevate-humans-int
 webUrl: "https://www.wsj.com/articles/generative-ai-will-elevate-humans-into-higher-value-jobs-e7eb05de"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -28,33 +28,74 @@ images:
     isCached: true
 
 related:
-  - title: "Generation AI fear for jobs as half of UK public think robots will act against human interests"
-    excerpt: "More than half of 18 to 24-year-olds are concerned about the impact of the technology on their future job prospects"
-    publishedDateTime: 2023-06-04T18:06:00Z
-    webUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893"
+  - title: "Where To Start With Generative AI & The Customer Experience"
+    excerpt: "With leading brands beginning to deploy generative AI in the enterprise setting, customer service has emerged as a key testing ground."
+    publishedDateTime: 2023-06-06T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
     type: article
     provider:
-      name: i
-      domain: inews.co.uk
-    quality: 42
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/04/SEI_151791596-1200x630-pl-exclusive.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62a255ae259caf06f4876076/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "How Will Artificial Intelligence Change Higher Ed?"
-    excerpt: "Even discounting for hyperbole, the release of ChatGPT suggests that we’re at the dawn of an era marked by rapid advances in artificial intelligence, with far-reaching consequences for nearly ..."
-    publishedDateTime: 2023-06-04T23:44:00Z
-    webUrl: "https://www.chronicle.com/article/how-will-artificial-intelligence-change-higher-ed"
+  - title: "How to create generative AI confidence for enterprise success"
+    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
+    publishedDateTime: 2023-06-04T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
     type: article
     provider:
-      name: The Chronicle of Higher Education
-      domain: chronicle.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://chronicle.brightspotcdn.com/dims4/default/23c4fda/2147483647/strip/true/crop/1680x882+0+119/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2F5a%2F21%2Fef77707b4d5bb86422b3d7cf4b69%2Fai-promo.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 579
+        isCached: true
+  - title: "These Enterprise Generative AI Use Cases are Emerging"
+    excerpt: "Generative AI models are continuously bringing new business opportunities. Generative AI use cases are emerging in enterprises for bringing transformations."
+    publishedDateTime: 2023-06-05T14:45:00Z
+    webUrl: "https://enterprisetalk.com/featured/generative-ai/"
+    ampWebUrl: "https://enterprisetalk.com/featured/generative-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/generative-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 61
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/These-Enterprise-Generative-AI-Use-Cases-are-Emerging.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Google’s AI-powered search experience is way too slow"
+    excerpt: "The worst thing about Google’s new AI-powered search experience is how long you have to wait. Can you think of the last time you waited for a Google Search result? For me, searches are generally instant."
+    publishedDateTime: 2023-06-04T12:00:00Z
+    webUrl: "https://www.theverge.com/23746083/google-ai-search-generative-experience-slow"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 47
+  - title: "Google invests in generative AI startup Runway, gets it as a cloud customer"
+    excerpt: "Google has invested in generative AI startup Runway in a deal that values the company at around $1.5 billion. The investment, which was part of a $100m funding round, also means that Runway will now use Google Cloud as its preferred cloud provider,"
+    publishedDateTime: 2023-06-02T16:58:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-invests-in-generative-ai-startup-runway-gets-it-as-a-cloud-customer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_Data_Center.2e16d0ba.fill-1200x630.jpg"
+        width: 660
+        height: 348
         isCached: true
 
 secured: "XzL/+D3mir9FUBKBkkJYE+C1VNT7WGpDUiwfCK/g0rK3PgL9Doh+fYZoeq/7w2JJKm0I2U5f0bCWEfoEc+wYmfeQttu7Ygp788IYI5Q1UiZlKzuQY63qZ91kcmse7WonJ1116wM9ELkUvWhGCyiINQbLQjKOzk5/9I46KTpAeXpasNlyzKNkoolfNqnjBcbzXDyR/TK8N7GUy9CIS8gWvs3speJbW0Rx0AAzV1VU7Wtk9PcMqyrmaO7Lu9hl4nYJTt+qrDOZ+Q2WEhCuqltpXSs/CtntfMnIpYz12qMhUSPgb48BvQGRIctok4PduNs1d2VSXleQKRYRpb6W9ndcwy+BBx9ka9Dy8IisQIL5dio=;gmAT2i4cLX2c3zFzAg+wbA=="

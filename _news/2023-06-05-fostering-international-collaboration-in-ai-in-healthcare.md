@@ -227,6 +227,20 @@ related:
         width: 1600
         height: 1024
         isCached: true
+  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
+    excerpt: "Automation Anywhere, the #1 leader in cloud-native intelligent automation, today announced it is working with Amazon Web Services (AWS)"
+    publishedDateTime: 2023-06-06T10:40:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-301843492.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/541440/Automation_Anywhere_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
     excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
     publishedDateTime: 2023-06-06T07:19:00Z
@@ -259,6 +273,15 @@ related:
       name: Times Union
       domain: timesunion.com
     quality: 17
+  - title: "Automation Anywhere, Inc.: Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
+    excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent automation services LONDON, June 6, 2023 /PRNewswire/ -- Automation Anywhere ..."
+    publishedDateTime: 2023-06-06T10:57:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59270155-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "EFpbSSQx7vWwZ9+kYSTuK+0x+h8wyzF+9NjEjQvprBgf1fUS0HWeu/dgp/TTaSsOuLsSoowIqTqONNMf8ErmTSPPZ9wv7dRnlqrO6X7DHgYkKmxCO8dC+LNU6f0I6KbxMRzh3Ax0UL+IeJx6ghm06rcidQnKODdesIfgDSYPCSaIWVBJ6d/KFeSC97+P3tp4NP7Au/Wsl7gI43FAG7K/2kIdEIPptZswPJrolfreE7mP+pQt72RF+MnDB8hyL5F9dQa9x/Hco3Vi3hSaRSqEJm63brpH7GztbYsODGKUrblT1psGrDjyamGbnFwfleXvZVoDKrc2Qb2drtmeICliFZ4vb/KqGaRUJyRI9NTRr2cRZt0akoXvw0m6NhPmyx48L4U+T6Va9mlPEYyFiznp+CePZ4QbjnALmTM0bj5V5YDLu1zpfP3iPljFmi1BZziDR2Hih60myNgwAZ+vRFRqUi2RuFD2JMniCt/H6KS0eH1JHSGCcVtngFbrgnqPqfbloyLgewHKp6JwE/v8OFolZw==;PwR0Ro5eaLrZLolg4FhcAQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/google-runway-ai-invests-generativ
 webUrl: "https://www.businessinsider.com/google-runway-ai-invests-generative-startup-cloud-contract-2023-5"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 52
+published: false
 
 provider:
   name: Business Insider
@@ -28,31 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Google invests in generative AI startup Runway, gets it as a cloud customer"
-    excerpt: "Google has invested in generative AI startup Runway in a deal that values the company at around $1.5 billion. The investment, which was part of a $100m funding round, also means that Runway will now use Google Cloud as its preferred cloud provider,"
-    publishedDateTime: 2023-06-02T16:58:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/google-invests-in-generative-ai-startup-runway-gets-it-as-a-cloud-customer/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 35
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Google_Data_Center.2e16d0ba.fill-1200x630.jpg"
-        width: 660
-        height: 348
-        isCached: true
-  - title: "Google reportedly invests in generative AI startup Runway at $1.5B valuation"
-    excerpt: "Google LLC has reportedly invested in Runway AI Inc., a New York-based startup that develops generative artificial intelligence models. The Information reported the deal on Wednesday, citing two sources familiar with the matter."
-    publishedDateTime: 2023-06-01T18:33:00Z
-    webUrl: "https://siliconangle.com/2023/06/01/google-reportedly-invests-generative-ai-startup-runway-1-5b-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 16
 
 secured: "mWIYETIaPxd86NZL5jXD5SoR0ZIg0zdN+w4ErC78y6PjuSeOVz9/HJTcRpyVPE3S7dka8tJd7w8h9QNbQ6LCNEDwr85vCp5+M42oRwybT329ApX00/2jOFN/7yoD5RojniKE9mQLvfwfgFeMupSV+M2ko4cukLzSRK1ZtHH76+F2sWNKqwH4jh1Zl97HCOJGcGvKZyWZzjn2IshZjNHV7iUmQby+8yYLtzKj+RXjISmrdMGqh8WX4k7g/3vIbu+UOY9aIxDdRRaHhYZldzYhMnFXFaWBFo/zALH5K1LBD68DsVfYk7SCOShXq5b3IY3VGaSinBkE74US1UtI5I4uaa4l78LX71bjdJgAsbqKVf9RF+jTN0Piu3iohQZz2+1qgbingfk9/AIPLGwrBHK6Ln98c/jfl9fxLymMnlN4S1EByV4TAjD4+IwbSalBrkftRiFmNRf+7XSZW0pKIBAmsimszref0o2fNPkgAQqKnEp9rcEs7JSjOrQoz4lDDkB/YvjZcPK8Vz6lKHdsxtf9EQ==;HVBNVTRS6N4xW7xZoO2z2w=="
 ---

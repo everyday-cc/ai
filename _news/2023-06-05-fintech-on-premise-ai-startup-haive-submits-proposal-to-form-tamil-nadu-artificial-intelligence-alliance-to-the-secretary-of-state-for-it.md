@@ -7,7 +7,7 @@ originalUrl: "https://www.indianweb2.com/2023/06/fintech-on-premise-ai-startup-h
 webUrl: "https://www.indianweb2.com/2023/06/fintech-on-premise-ai-startup-haive.html"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,87 @@ images:
     width: 647
     height: 633
     isCached: true
+
+related:
+  - title: "Inside The Rise Of A Fintech Startup Using AI And Human Insight To Fight Fraud"
+    excerpt: "Seven years ago, two twentysomething data scientists spotted a novel phenomenon: synthetic identity fraud. They turned that discovery into fast-growing SentiLink, a member of the Fintech 50 for 2023."
+    publishedDateTime: 2023-06-06T10:16:00Z
+    webUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-rise-of-a-fintech-startup-using-ai-and-human-insight-to-fight-fraud/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6479a5ba07d1215faa9b8c13/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Six Founders Making Their Debut On The Fintech 50"
+    excerpt: "The 19 newcomers on out 2023 list serve everyone from investors to truckers to beauty shop owners. The entrepreneurs behind these startups are just as diverse."
+    publishedDateTime: 2023-06-06T10:16:00Z
+    webUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/six-founders-making-their-debut-on-the-fintech-50/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647e885f569e20559457b388/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fintech founder using AI to improve lives and livelihoods in Bangladesh"
+    excerpt: "Women in Tech Excellence Rising Star of Financial Services awards winner, Shabnam Wazed is shaping fintech, using AI to make financial services more inclusive."
+    publishedDateTime: 2023-06-02T09:31:00Z
+    webUrl: "https://www.computing.co.uk/interview/4117005/fintech-founder-ai-improve-lives-livelihoods-bangladesh"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/d87be48/eabf10b8-256a-43f1-8809-6fdf5f835566/7/Wazed-1-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "3 Undervalued Fintech Stocks to Buy in June 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks have continued trading sideways since the selloffs in late 2021"
+    publishedDateTime: 2023-06-02T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-undervalued-fintech-stocks-to-buy-in-june-2023-1032367066"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "AI Disruption in FinTech: Exploring the Impact of AI-powered Tools Like IndexGPT"
+    excerpt: "AI's use cases in fintech continue to grow, from data analysis to customer service. New sophisticated tools like IndexGPT are being developed."
+    publishedDateTime: 2023-06-05T10:35:00Z
+    webUrl: "https://www.techopedia.com/ai-in-fintech-exploring-the-impact-of-tools-like-indexgpt"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 34
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/02/benefits-of-cloud-computing-3.jpg"
+        width: 810
+        height: 432
+        isCached: true
+  - title: "5 Interesting Startup Deals You May Have Missed In May: Brain-Boosting Nutrients And Fintech For Retirees"
+    excerpt: "The last full month of spring saw some big fundraising announcements, but these smaller, interesting startup deals are also worth noting."
+    publishedDateTime: 2023-06-06T10:59:00Z
+    webUrl: "https://news.crunchbase.com/venture/interesting-startup-deals-thesis-kinnos/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 22
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/5_Most_Interesting.jpeg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "dZF++lnOGWFfneM2jS175qOJsN+AalPyCB05/s1yg17uVGcJCpeE7WHm2jWJfkmGXln1A2+jl3eI91tBtIw5ZCo5bSnHSpkLlOErdL0TVtjDhXmwel/HAwwL7/M/V9JQLvFD1XF4ckE6mmsD6ol2wItciiUelZwf+9wj3iE3mFf/q3EBprkU++EAHxIiJ2quclpYK1hhlrHAfNYwL1DSvwsVzgfZIhDNjIMlHGQLVvD5VFRgo6t/NCS3/l9UZA8NhNgY1Q0miuz8RFGuLNI0EwDcpMKnqJ2U6LW3AQKW4jttoadMMgeGYM1AEnYv3oeyk9ECjfrDZffI5424L0i+JKSJbpebntpfJV10YYZPZrfpE7/t4WxBZU14NqPhUMHIbZRXPafmh41bfJ6Y+O+qp69FkmM0r3kg7qQw65jgJe+o1tUkxvXgjzuCSV0Z4JQUhJmjF8wI05jkHHqAexLyvgrLlRK+I1LOX/J5e88mS4Ff3tniKszfYhZPElGGpMg2p2ASqPYxO9TZ6yAzHRbPOA==;lJTAg1f6rERNNBABXtZEaQ=="
 ---

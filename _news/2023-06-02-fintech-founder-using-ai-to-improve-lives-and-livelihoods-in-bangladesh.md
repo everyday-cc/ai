@@ -7,7 +7,7 @@ originalUrl: "https://www.computing.co.uk/interview/4117005/fintech-founder-ai-i
 webUrl: "https://www.computing.co.uk/interview/4117005/fintech-founder-ai-improve-lives-livelihoods-bangladesh"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,87 @@ images:
     width: 370
     height: 229
     isCached: true
+
+related:
+  - title: "Inside The Rise Of A Fintech Startup Using AI And Human Insight To Fight Fraud"
+    excerpt: "Seven years ago, two twentysomething data scientists spotted a novel phenomenon: synthetic identity fraud. They turned that discovery into fast-growing SentiLink, a member of the Fintech 50 for 2023."
+    publishedDateTime: 2023-06-06T10:16:00Z
+    webUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-rise-of-a-fintech-startup-using-ai-and-human-insight-to-fight-fraud/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6479a5ba07d1215faa9b8c13/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Six Founders Making Their Debut On The Fintech 50"
+    excerpt: "The 19 newcomers on out 2023 list serve everyone from investors to truckers to beauty shop owners. The entrepreneurs behind these startups are just as diverse."
+    publishedDateTime: 2023-06-06T10:16:00Z
+    webUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/six-founders-making-their-debut-on-the-fintech-50/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647e885f569e20559457b388/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "3 Undervalued Fintech Stocks to Buy in June 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks have continued trading sideways since the selloffs in late 2021"
+    publishedDateTime: 2023-06-02T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-undervalued-fintech-stocks-to-buy-in-june-2023-1032367066"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "AI Disruption in FinTech: Exploring the Impact of AI-powered Tools Like IndexGPT"
+    excerpt: "AI's use cases in fintech continue to grow, from data analysis to customer service. New sophisticated tools like IndexGPT are being developed."
+    publishedDateTime: 2023-06-05T10:35:00Z
+    webUrl: "https://www.techopedia.com/ai-in-fintech-exploring-the-impact-of-tools-like-indexgpt"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 34
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/02/benefits-of-cloud-computing-3.jpg"
+        width: 810
+        height: 432
+        isCached: true
+  - title: "5 Interesting Startup Deals You May Have Missed In May: Brain-Boosting Nutrients And Fintech For Retirees"
+    excerpt: "The last full month of spring saw some big fundraising announcements, but these smaller, interesting startup deals are also worth noting."
+    publishedDateTime: 2023-06-06T10:59:00Z
+    webUrl: "https://news.crunchbase.com/venture/interesting-startup-deals-thesis-kinnos/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 22
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/5_Most_Interesting.jpeg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Fintech On-Premise AI startup HaiVE Submits Proposal to Form Tamil Nadu Artificial Intelligence Alliance to the Secretary of State for IT"
+    excerpt: "HaiVE, an on-premise AI Startup, has announced that the Tamil Nadu government has accepted its proposal for an AI standards body – Tamil Nadu Artifici"
+    publishedDateTime: 2023-06-05T10:26:00Z
+    webUrl: "https://www.indianweb2.com/2023/06/fintech-on-premise-ai-startup-haive.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 21
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht9yxyY5RlPnfmJSA9JDN2NT_VUE7rWO0p_ZmhrU_imROZW6iAva1RwCoV7iXI64yJcm26TNjvWGKqudQRd7p5IhiuJ6abcFiuWVE1XBO2CLzef9OLNkZjYGilObUGo_rLchoz8IBAq73cdz_JshUNWjRYpe3iM7AfsIUsl-9yEaZYXFXU6kNuC1nV/w647-h633/Deepika%20Loganathan,%20Co-Founder%20&%20CEO%20of%20HaiVE%20submitting%20a%20proposal%20for%20formation%20of%20a%20standards%20body%20for%20AI%20to%20Thiru%20J.%20Kumaragurubaran,%20IAS%20Secretary%20of%20State%20for%20Information%20Technology.jpeg"
+        width: 647
+        height: 633
+        isCached: true
 
 secured: "lXNR5PHzyO4StymV0zmcsPRHYUn8ZxlDTaGzaQBEyHuL0itWus3p+Ur5uJe4AonNwrDPiygtYUODrilhhxfRF8ezLZw3TmR8UFPTdonZdBapKXFuEBORTxIawUPFUMimd7eG1/N47qdQXQkW0X21n1gB7hGueMzuT1E2S9DP50cMtmAfxsIsEwhdknVwpa/dGsptomlORgkq3VRjTal3yUmTpz268DTYyKrHpDL9qeWxkLZGyF/ZNYXKsLlkxajFUOnZgEBXyAYhz5UeogglyweI+0TOd769TP49fgzFv+jevO0gvPdAeTtRIfWYf1INeQDowbVtvkS1IjjMXaOmqdu5v5JLCAcNnjS8roYIM1xS3Ow7zTcmrOCiSW2Eu3OI227lBoLSPj2MValHIpp8qopCmQxBoYK6irwjkn4F8n+u27xyp4Zbk0OnxvBB0y2/r1gs8OFWQ6d3fEMi/V9CBvsWl3ElUhbsFzVho4h9ZjynR5eM3d2NgmTMtNkJB52a5hAKrIQhHNq+ax8JCSxrAw==;m8bdypKh8jrxYVwpK72How=="
 ---

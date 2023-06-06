@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Tool Detects Hepatitis B Early, Saving Lives"
+    excerpt: "More than 296 million people worldwide live with hepatitis B, a potentially life-threatening liver infection caused by the hepatitis B virus (HBV). Most don't know they are infected, so they don't get medical care."
+    publishedDateTime: 2023-06-06T11:04:00Z
+    webUrl: "https://allafrica.com/view/group/main/main/id/00085944.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 39
+    images:
+      - url: "https://cdn09.allafrica.com/download/pic/main/main/csiid/00581821:c55379048d374c283cdc1270d30caade:arc614x376:w1200.png"
+        width: 960
+        height: 588
+        isCached: true
   - title: "Hepatitis B is a life-threatening liver infection – our machine learning tool could help with early detection"
     excerpt: "Part of the solution for public health challenges like this may lie in machine learning. This refers to the ability of computers to make sense of large amounts of information – and to build on their own “knowledge”. We are among a group of ..."
     publishedDateTime: 2023-06-05T18:36:00Z

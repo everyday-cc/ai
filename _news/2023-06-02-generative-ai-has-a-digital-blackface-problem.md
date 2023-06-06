@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How to create generative AI confidence for enterprise success"
-    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
-    publishedDateTime: 2023-06-04T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
-        width: 1200
-        height: 579
-        isCached: true
   - title: "Singapore puts AI on the cloud to boost public sector deployment"
     excerpt: "Dedicated cloud resources running on Google's platform have been carved out to to enable Singapore government agencies to deploy AI applications more efficiently and securely."
     publishedDateTime: 2023-06-02T13:08:00Z
@@ -82,15 +68,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "IBM Consulting Creates Center of Excellence for Generative AI"
-    excerpt: "IBM Consulting is establishing a Center of Excellence for generative AI to stand alongside IBM Consulting's existing global AI and Automation practice, which includes 21,000 data and AI consultants who have conducted over 40,"
-    publishedDateTime: 2023-06-05T13:04:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Consulting-Creates-Center-of-Excellence-for-Generative-AI-158894.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 19
 
 secured: "vqitOYp4sLbg30V8hgxnIXb+TI5aPAhm+iXMjlVpPUns/PLKZyPO4oDs6Cu7QYatnyiytO/v3lP0NRCAEsYv5nTLMUGdpAA9GyjQmL8wigbylY6qCO6MLycPJgXahqtDa2wvj+7TWZdlhYtnqj2+ifG8Op5WjnlynAdozntE8jb8hQt7qCiMTmzkdyMiqmQO6Dwz5WITPfSPqGCZ16E3gvjhiC9p3XGjwfkDAeKqx12DBD8k+6t2PaWWhGfrJN1d0gPbV4A7kORe52nZ1w8VOEMuM0Vy0kHFn5z27dwBn9Zjrn2LM+7xJGwflvGKLEiuNK+UomdNe4mLMyGjTMo8Fhh9c9OZFsDLPLLKV4ytHJAO4h0+t+CZ3kHLNUpFIzKYqB6MgcTarymEtyRSQ5bI1aieFPJLYP0L5jCRS1b/DCGaBA/nlWpoc0zOAcZkot3u0tEDGCWJt14MPiLSNOEicqj0OOO+C56sPwg92bb0srNutK/BBvLBjS4BvAMZFdnlYo9VoMG2dcNUId83SgatKQ==;6IDv27m65yLspyxVHiZeTw=="
 ---

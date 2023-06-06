@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-28-can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya.md",
+      "title": "Can ChatGPT versions make its way in healthcare and research?- Ft. Dr. Raju Vaishya",
+      "excerpt": "Medical information and healthcare have also gained an ample amount of importance in the tech world. Recently, OpenAI Inc. launched a new chatbot, called ChatGPT that interacts in a conversational way and its dialogue format makes it user-friendly and fast.",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087",
+      "originalUrl": "https://medicaldialogues.in/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2023/03/27/206163-why-sudden-increase-in-melioidosis-cases-in-india-1500-900px.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/medicine/videos/can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya-109087",
+      "publishedDateTime": "2023-03-27T20:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-ai-artificial-intelligence-image-recognition-market-2023-expected-to-reach-significant-rate-by-2031.md",
       "title": "AI (Artificial Intelligence) Image Recognition Market 2023 Expected to Reach Significant Rate by 2031",
       "excerpt": "Image Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face. One major attraction about AI (Artificial ...",

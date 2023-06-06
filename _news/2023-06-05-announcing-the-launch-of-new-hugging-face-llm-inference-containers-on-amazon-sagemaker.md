@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-launc
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-new-hugging-face-llm-inference-containers-on-amazon-sagemaker/"
 type: article
 quality: 96
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 76
-  - title: "Implement a multi-object tracking solution on a custom dataset with Amazon SageMaker"
-    excerpt: "The demand for multi-object tracking (MOT) in video analysis has increased significantly in many industries, such as live sports, manufacturing, and traffic monitoring. For example, in live sports, MOT can track soccer players in real time to analyze physical performance such as real-time speed and moving"
-    publishedDateTime: 2023-06-01T18:19:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-a-multi-object-tracking-solution-on-a-custom-dataset-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 62
 
 secured: "eVpHRBWNcADqgFBd9m0BC3D6aREszg812RhdJr1rhdLPEcqxy9cGqGsdp50aE/HCxiCX3r+/VwkKO6h2yWG2IY2H6gaL2npAJRASvH6+lZ9o7CKhqzxb52w7IgteAYLuzq7drsc+WGdLmrrl4I1LwNGWQP7/tTR3Bqcr22bi+Df4NyqWfeSbzko4f+glOJd4gTUw0f3lO/ksG1Pxsme/h+46avvlRiXZ+YfUD5F0OeQAWrJ3Gqn0vpeic/DzKw1NNdTbDdR2d+vtMOocKj/nC16DVsUppHp84nl0n28GBJziE+WtofMYLCUkvHRkI4gNfpRIRGPAJ532V7URIS1ZXsh0gF9XaeYhU/qocSTapto=;Ad1O5Dj1bjyLqWmDwzT+Ag=="
 ---

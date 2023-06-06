@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/platform-for-success/202306/
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search?amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1528
     height: 800
     isCached: true
-
-related:
-  - title: "Google’s AI-powered search experience is way too slow"
-    excerpt: "The worst thing about Google’s new AI-powered search experience is how long you have to wait. Can you think of the last time you waited for a Google Search result? For me, searches are generally instant."
-    publishedDateTime: 2023-06-04T12:00:00Z
-    webUrl: "https://www.theverge.com/23746083/google-ai-search-generative-experience-slow"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
 
 secured: "1NlCzqHCaZbt0CgOOUkOjyQiN7nvssPSSzsjoK2wkxp8L+WnEkROXQFcbcc1DadB2Z9uHPy83dogRHzOdCqE8h9JdoKcrOYIxcomum0E1gSRYrcKd3jq6mgzfVE9CGdIXskMZLIjeJuyFXWlwwplOnyNtjZwil+o1qkC2eQ3QMKVotPMSUcJrB0G+fxj2yYEYihQzWaZ3gM9/ZIyXwDCJqOxn+CjWyi5336Ou1k0cLfB3iNb5qbkmn5PGC7IWy3xOxmeCrwr7TBztXblO0dLAm8dVS9ZoytnNGpQ/1leE5vam1cGZ9IO7PZ+apmJt55xaXPOKbA8nlDdFnVLC1+zuplbv3KcoDX/HTHv7M85v2E=;Jpxx6YMI7OnPNYtdpKeXXw=="
 ---
