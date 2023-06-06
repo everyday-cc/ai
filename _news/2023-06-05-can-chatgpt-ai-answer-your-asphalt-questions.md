@@ -55,6 +55,20 @@ related:
         width: 620
         height: 467
         isCached: true
+  - title: "Apple’s Vision Pro needs AI like ChatGPT as soon as possible"
+    excerpt: "Apple just unveiled the Vision Pro AR/VR headset. But the powerful hardware needs one more thing: a ChatGPT-like generative AI assistant."
+    publishedDateTime: 2023-06-06T01:22:00Z
+    webUrl: "https://bgr.com/tech/apples-vision-pro-needs-ai-like-chatgpt-as-soon-as-possible/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-279.jpg?quality=82&strip=all"
+        width: 1600
+        height: 885
+        isCached: true
 
 secured: "fhDzOQb8DuDxDsi7mnnpsumuK0jHrK60d7iQQPBMKUKIbxv0GU/9hirYAUaIkz5wA7mA2ZaO70fqb8jbbcFv2lMSuvpm6BPLeBVeWcwpafVkt/XvrEItK01PkZvo/1WmcnMqRLfO9P7SA9/1wsOnyCWwxnjEV6JXPN4+d9Nw2LottY6+xkbnxbUs8X/30S3vw2aRU/Tckyb70n2tHltG7IzGWyW8IooGqt8j/a545Lbh9WRnqtZSBOqPmXonKW2X+UKY9iuXL9/fUL10ilYrJK7jSbHC3aylTJzDL/My7Q9XNQ0uuXn3XHDFOeNtNpvEJyl+2Q+Wvs0vOynQpB+4dFY0s46vT3kFSpsZZhq02lU=;H21N8VSf4E2tERY8OqmTqQ=="
 ---

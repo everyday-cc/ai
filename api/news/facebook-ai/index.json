@@ -114,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -399,19 +399,19 @@
     {
       "path": "_news/2023-05-30-artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning.md",
       "title": "Artificial intelligence raises risk of extinction, experts say in new warning",
-      "excerpt": "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind.",
+      "excerpt": "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement.",
       "sourceUrl": null,
-      "webUrl": "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/",
-      "originalUrl": "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/",
+      "webUrl": "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/",
+      "originalUrl": "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://wwwcache.wral.com/asset/news/technology/2023/05/30/20886277/6475fa6fa5ee5-media_7dd689f31dad4f5ca5d5ab652dfdfdec-DMID1-5z2v6gjo8-640x480.jpg",
-          "width": 640,
-          "height": 480,
+          "url": "https://gray-wbko-prod.cdn.arcpublishing.com/resizer/-8OSzfnXzfZ6vLJzJut8T5rHJys=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/IIVAIJHR7JBD7CFJJBUXPBQRBA.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -419,13 +419,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wral.com/amp/20886276/",
-      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20886276/",
-      "publishedDateTime": "2023-05-30T06:28:00-07:00",
+      "ampWebUrl": "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wbko-com.cdn.ampproject.org/c/s/www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp",
+      "publishedDateTime": "2023-05-30T06:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WRAL",
-        "domain": "wral.com",
+        "name": "WBKO",
+        "domain": "wbko.com",
         "images": null,
         "publishers": null,
         "authors": null

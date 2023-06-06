@@ -3,8 +3,8 @@ category: news
 title: "Machine Learning Model Improves Diagnosis of Myocardial Infarction"
 excerpt: "A machine learning model, incorporating cardiac troponin concentrations with clinical features, can improve the diagnosis of myocardial infarction, according to a study published"
 publishedDateTime: 2023-06-01T16:13:00Z
-originalUrl: "https://omaha.com/lifestyles/article_eb47f7fc-9e83-5eed-9e17-2a09ce3fc2b2.html"
-webUrl: "https://omaha.com/lifestyles/article_eb47f7fc-9e83-5eed-9e17-2a09ce3fc2b2.html"
+originalUrl: "https://omaha.com/lifestyles/health-med-fit/machine-learning-model-improves-diagnosis-of-myocardial-infarction/article_eb47f7fc-9e83-5eed-9e17-2a09ce3fc2b2.html"
+webUrl: "https://omaha.com/lifestyles/health-med-fit/machine-learning-model-improves-diagnosis-of-myocardial-infarction/article_eb47f7fc-9e83-5eed-9e17-2a09ce3fc2b2.html"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 315
     isCached: true
 
-secured: "Ezy60iV3xEyNKGbwwSehiv4yFXnPTDe2zJyZYlz1oeSJluPGyoSvbLmtN9xSXnIoKjgPquyuDJ0w0wsOZelTzTcS/GCF0mGbrlxaER9+V96WW4slCHJcjpMJTo4iV9TzfFinSeZXPtid4+Ueo+Nfjg5+oRdQ3Aun+gVMteo6V9sE9oeemvLyeOkOSeC1jsxct2wBbtVUAg9A2DVgc+JxP6l6G36hUNKAVQKOYSE+y1yCL1m+j9EfP2NycbzD52z4cJxTet9Qctsmok7w9OAdoaib9SYn6VcquHVlWUH256RuO+/XNigByXRCkqDIydr4sJrluu57rRWJ3hqfaJzAfNwN1uHuC05WTG2r5ZPcMyA=;FnnWQ0a1Ipo1CZ2uO15WFA=="
+secured: "dcvTY6QoggMoWceVW1twUrRktgS5oC32ZOGkQoJE2SLJ2slGwuv0+AxFpM4LmQCNC0p+xrWA2r28E4LpWLvtO7Mm9LwlTDnDkX+tKqzD0ZpFFYZ8tuVqMob+lg25BLJv7uyizVaTiD7KzjuPRUzvEgfh1Ad2Bm5AVGXrRFY6+93PYmCY0L01EJw1+9dEGvfpf/eL6oyG2ovlWZxJKLjUwCoHgyvkFoNe3/qFQ1docaZ3g439i2Bpk1ruUta8VXhVdsP1873p1Ug11DAmu3TJ32KkETiHhLCMEAWFXnAQLl6ZqYJJmegNET7dZ8qamHNWDTlmuob7L+zo0bb/gCBJdXDxttomsl4hDWu3ydJDNLA=;GtqT7KUFoVPxIRPzkGzKCw=="
 ---
 

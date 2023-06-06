@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Reflections on artificial intelligence"
+    excerpt: "When ChatGPT, a large language model artificial intelligence (AI ... It is not difficult to understand the main ideas of a neural network model being the platform of ChatGPT and other large AI models. It is a vast tangle of networks of input and output ..."
+    publishedDateTime: 2023-06-01T16:05:00Z
+    webUrl: "https://businessmirror.com.ph/2023/06/02/reflections-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 39
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/04/Column-box-Eagle-Watch.jpg"
+        width: 1400
+        height: 735
+        isCached: true
+
 secured: "bNdIASSdeHbO8Ofn+9apcTfmqwkzvIj3G85rkHOWVRkysbe+gfeDlIXDC1T8nhLndTdEIH7Cv5N/vPm2BqOkoF3cRnK5++6V0PX+0byj5+Cz9RBOgnvJMPdMOnRNJOoLCwFI00wEyui30J1jeesIb0oXXrMR4vvWmTVORS7fzkRyuanN6qCTpiZh33P18NxoqQV60L0WmW8G6zdUjiIfhPy5/brDbY4sd7/PiaHi3dEQntl9L7+iIw5Uc8WFzJIbp79bn7QBKtqtQH2AIFPRi6gYzVZEJlusnTdNwuHD7tkS8Dd5dUQ5/nsjRlzA+a4trbrvbth4A7G2tsvCFYUAJrNRuyz9EG5N00PKUo1JAkJ7//W4y7WIIMsyk3NiwODPeg5+axAGrQQM0ErWu6G2mf5laQnC+TZrlyR6uZ+WCdUc06BhxY9MSZYXOu/OcjFUY73ZhbPW3WfeyDHf9RDNLIrf5TKndkbKpymOy4Pt8dxwp52h+EaRU18tbsMSPnV8adcoQD7dvXk3pzQTlmRUrA==;Se7hAMhP+9vGCbqrcvR3XQ=="
 ---
 

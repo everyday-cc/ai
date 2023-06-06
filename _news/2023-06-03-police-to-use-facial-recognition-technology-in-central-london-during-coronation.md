@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Greens voice concerns over facial recognition technology"
-    excerpt: "A Green Party TD has said it is important to make a distinction between bodycams and facial recognition technology."
-    publishedDateTime: 2023-06-01T08:06:00Z
-    webUrl: "https://www.rte.ie/news/ireland/2023/0601/1386841-facial-recognition-technology/"
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 41
-    images:
-      - url: "https://img.rasset.ie/00132672-1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Dangers of facial recognition software"
     excerpt: "What if Clearview AI’s powerful facial recognition software, that could potentially be used for mass surveillance and profiling, fell into the wrong hands? What if it already has? This is the untold story of Clearview AI,"
     publishedDateTime: 2023-06-03T15:35:00Z
@@ -69,15 +55,6 @@ related:
         width: 752
         height: 423
         isCached: true
-  - title: "Met Police director of intelligence defends facial recognition"
-    excerpt: "The Met Police’s director of intelligence has appeared before MPs to make the case for its continuing use of facial recognition technology, following announcements from the force and the Home Office t"
-    publishedDateTime: 2023-06-01T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366538871/Met-Police-director-of-intelligence-defends-facial-recognition"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
 
 secured: "4Td2Tzn1SwiMeQS282ZM3+27S8q0w5Swr3r8l1S9Xc2W95IAGyliN2eDxeIKVOxTkA4KMxVvsJGZMPd8jXkOFwFcb4m8EPNyp+RmPAK3mJMzfljq3TEd6RQp+d2x8hsVW2lwMRc0TVP1x2O3ldsqD2ahYTTCk5cv8IGrodqfSdYqICbGv1gUdlExjOYaTWj6eQdETdq+LPsaGkXbsbgk5gvfMzd8w3bKNVr3ZJno4MkpgfszfnP0CtHeJ98NjyLRALknThTG0g6XQKTHbWd4YpiCQzNTNwlbaP/FSc/wibR8LvE/fLRfIzZohGsv3BFSdWpNNyASwxs7KZnfXYHWlwtycdiP4l2LIRjrV7R+ykY=;59pr+dwXEqeX2GBe7n75bQ=="
 ---

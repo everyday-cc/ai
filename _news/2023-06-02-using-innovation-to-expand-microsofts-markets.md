@@ -63,29 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Azure Machine Learning integrates with Snowflake data"
-    excerpt: "End users of Snowflake can now seamlessly integrate their data into Azure Machine Learning (Azure ML) for training this data for AI models. Azure ML's"
-    publishedDateTime: 2023-06-01T08:28:00Z
-    webUrl: "https://www.techzine.eu/news/data-management/106723/azure-machine-learning-integrates-with-snowflake-data/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 56
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/06/snowflake-data.jpg"
-        width: 1930
-        height: 866
-        isCached: true
-  - title: "Localization Professionals Mourn the Demise of Microsoft’s Language Portal"
-    excerpt: "Readers chime in on OpenAI’s GPT trademark, language companies’ ownership of language tools, and integrating large language models."
-    publishedDateTime: 2023-06-01T08:30:00Z
-    webUrl: "https://slator.com/localization-professionals-mourn-demise-of-microsofts-language-portal/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "3CPqIAFCFDyMxu49gnRxzy1nwFCFh3YR9jaxb7Ggd/1/Bg0CroXTpftO98z33KulwK3dYmoipX9KpvXPBsGMxxOvf7aPCrnNqyBAKRce+xzv3asKw5/n5EM4ISLrslWiDHH/RVgRYem+KU14qZdpMK+zCnrO5nLfBjRpcBRx5b0ctnC8cXsiGeHoXfGRzF9KARKmra8j1pmBB6nfDjxsnXNH+roDs04LHfy8t3/b+jXuJyEs7GIWZPGOri3Lsu+gqxMYeHb3rf+IznfchH6KbdSeMwCMfxUnI6SsWm19iMNiwZJFZdTzgrc/F9mvgGAeZndX1t3ztDhpGfjuP1CIW/ttgwXqbg6unfsWPkP3stZK8wfyVIYQJ6wq539kZQJoQmu0xXEklQowqH89oUYqDAUMe2df8dNwlskmG0rOXCA+z/hBlV9m4+rurZmNMt8YbDY3t1Pi6HlJvvIOqt62e3g0fTkqQWAuYxN5oKAdDHmBqpsFbwzTCEF0vqjtzkcm8aZ5kWqeKxBHXnh3aabZWg==;H6LyZ3/uvHQ0fiR1aJXY9w=="
 ---

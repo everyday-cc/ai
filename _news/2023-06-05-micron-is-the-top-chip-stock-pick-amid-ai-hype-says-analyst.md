@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/micron-chip-ai-stock-pick-806ef
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/micron-chip-ai-stock-pick-806ef36a"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

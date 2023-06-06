@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-05-fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai.md",
+      "title": "FPT and Mila Renew Strategic Partnership, Advancing Responsible AI",
+      "excerpt": "FPT, Vietnam's largest IT service provider, and Mila, Quebec Artificial Intelligence Institute, announced the renewal of a three-year strategic partnership agreement. This press release features multimedia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/b32707325/fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/b32707325/fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32707325",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32707325",
+      "publishedDateTime": "2023-06-04T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-plan-for-facial-recognition-tech-in-schools-riles-rights-groups.md",
       "title": "Plan for facial recognition tech in schools riles rights groups",
       "excerpt": "Teachers and students of the Telangana’s government schools will likely have to mark their attendance on an app that uses facial recognition technology (FRT), even as groups emphasising the right to privacy continue to raise concerns about the use of ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1291,58 +1334,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-facial-recognition-devices-market-research-2030.md",
-      "title": "Facial Recognition Devices Market Research, 2030",
-      "excerpt": "Research Reports has published a new report titled as \"Facial Recognition Devices Market\" by End User (Security",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

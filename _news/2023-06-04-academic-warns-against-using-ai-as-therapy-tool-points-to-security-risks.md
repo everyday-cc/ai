@@ -42,20 +42,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI Poses Threat To Human Existence, Experts In New Warning Letter"
-    excerpt: "But now, this recent letter reportedly endorsed by Microsoft's chief technology and science officers, as well as Demis Hassabis, CEO of Google's AI research lab DeepMind, and two Google executives who lead its AI policy efforts. The statement doesn't ..."
-    publishedDateTime: 2023-06-01T08:38:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-poses-threat-to-human-existence-experts-in-new-warning/453287"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685607676-Untitleddesign-2023-06-01T134751526.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "UffLsqJmryVw4djmd0f9bPt2sbGkqaOmKxx8Zlhu9u4H2umXgdIATgxlSOo+6sTszCoAV1T5aUCUr4HsDjKl0oaMPxJgqBqtLJ1VY5Ci17TOMOWBn8TDQ7w+quPIXjBgSqCE8liFH2WzWZSOtbNrakazwEBmpA1siyiAZ2CyvNtijVrt6L+TZjlHmQEQNNqtm57x9XG6yC9XFNcFPq3cFqsH+WDo0erzAZy8gcHa97Nyl4ThAf0uSjpmFxJU+SZ+8I7P6zJph18Kfvvpi2sGM9MaCA8dTMMWCOkbAIVS+lPj30FNiW2DKU3e7CEarQI8ByZmGDZZRTZmh70ync31kJz06Illcks/UKkj+HRTrQk=;JG1JIaqlzeucFVnbRvMnng=="
 ---

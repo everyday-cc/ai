@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
-    publishedDateTime: 2023-06-01T08:45:00Z
-    webUrl: "https://www.nwaonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
-    type: article
-    provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
-    quality: 54
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204479203_204479203-4497212ae77643a5a468fcbbb895bc0c_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
-        isCached: true
 
 secured: "55MQY3lrPfEIkuqHKN8cuvTLtZqC8KGm8B9dJPgsci0h+5RbG4CxvmZX0ttgKeY2kEQkiBmcAmxO+GhiU6S8QJCt55BuuS95xk0uszdkXzjB+NIfjNnVWrmIo4nY7e0LPKgB3hHU/WvFQDvZMSdkvp1HEPz1cHWNK5W1zGTP72ukjcng15sYXlUM+pAXdQfKJqjvZxc0fJUxExv9TvlwHPiLomNuv4ajqsXtPGehHXhodm3PkA+o4dJ+CMFzROeRB5WVectweHb2VZ4Fo59mCrRgtETSpZYOJfR3yxUaAjH16dhmCEn7h2UNYLrbT7Jq1U96l9yivEGptNRX/Pyb7XX3iEInJHrCOMDbNwU5Ghpf+9g0adj/TGaecRPcN5n2ufDVCotsQTEZtuw3NIiahp612BaT8FNtO2NRPiHnyFgESPpsXmdIZdW93QMdgdovLVjIT9pevEpre2KRYLx1eWWyjfS2Q6LaY8O4uQ3WaQpTzeS9cgfi4mBZGmwWt4TvJKxA1kxH0ySmc4+vIR/hXQ==;jxKD5SXh8WIBbSiAz0umWw=="
 ---

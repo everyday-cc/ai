@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/at-apples-wwd
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/amp/"
 type: article
 quality: 106
-heat: 106
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,6 @@ images:
     height: 451
     isCached: true
 
-secured: "eD6/ZnhNHtu5B3I9g0NQbVf+qIr2DVsfryDsUP64N88H+8nNZYIacSB59O3BhqsNivbzlMqkv3w1b8/vyIGzeNzm8YfelpSfp+T77Wck0+iBBTsUrZZpNBwB81RaEGnjouJZ6zIw9LJlS7sNChlO3qMh7j0idAXbURYiNK8TsonlKM0zy0fQMEvBTHtOENGFbLgSxrVsC/vJno0tap1lRews4KqQDZYqr0YMy0Pns2bmECImjMKz1PdSD1TP3vESE0lCZteKpcTnE2Tqp1wfinroO16TiupEmL1syeJSxNS1kCpP+oxE1eem9p5Zw9v4R4k3cam2d+JZGtLDaPJdJqoRTETc4mzuEwyMaJjUTiY=;ZawwKO9v4xpC4CHqdkJIFw=="
+secured: "DJfq6t68xu9M/j0/1l1zfznOelEZLUwFtwNUCuAEK3YtcAZVegZ/otXFP7RvX3SVu6KStBsVW1bdI3ZJiz3LiMympFPNdCTO2ni5VGMwwatQvfdc98+h+SQG2UMuYGAdeP+FcvU5usdX3gCvVM4HGrNP16AYF8+QIP3g49O9vb5Il4CEzMWxTwUIn9haqUuJjEHNGmYkieTtrW0Iu6OmxUOr14uqxgt8A4u1w1SemUQxwkeh++nA1RJHQXCd/uaNv7LXeljz89gJppRqr+5+PzcSHIrT6+pLvybV2auQz/FeT7ZlIJuzV568nXDAnxOj0EwwYLwLWrwE7AXj2pSoEcuG4k67E9EbUzQ7H36/xyi/wubd0ccj+sdyCgMUQLiTLrSuFiXLhojecX4pGM2cmC3jSE7fyZ1nBFE8yA1dacFL77wpz1aEdAQXVF5q5AaTGS6yOF1Tm/+tORFgMEZANi2DVD53ug6kS4fLtBqwcRhhg5HdcJRPq+BzdKYwaYMBRgTslNy6FECQ1ZVDgQvcbQ==;KmHUOPfv7yrx5zMsIlqJNg=="
 ---
 

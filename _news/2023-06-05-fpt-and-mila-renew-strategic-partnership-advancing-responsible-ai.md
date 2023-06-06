@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32707325"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32707325"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "FPT and Mila Renew Strategic Partnership, Advancing Responsible AI"
+    excerpt: "As part of this continued commitment, FPT and Mila will explore collaboration on research projects related to large language models (LLMs) and natural language processing (NLP) while promoting Responsible AI,"
+    publishedDateTime: 2023-06-03T23:59:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/04/9825883.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Vietnam’s FPT and Quebec’s Mila renew three-year strategic partnership, vow to practice responsible AI"
     excerpt: "Vietnam’s FPT and Quebec’s Mila renew three-year strategic partnership, vow to practice responsible AI Organizations plan to collaborate on large language models and natural language processing. Vietnam-based FPT and Quebec-based Mila announced the renewal of a three-year strategic partnership that will see the two organizations explore collaboration on artificial intelligence (AI) research models,"
     publishedDateTime: 2023-06-05T19:07:00Z

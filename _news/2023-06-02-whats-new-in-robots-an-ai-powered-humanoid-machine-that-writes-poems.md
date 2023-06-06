@@ -9,7 +9,7 @@ ampWebUrl: "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-
 cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -43,21 +43,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
-    publishedDateTime: 2023-06-01T08:45:00Z
-    webUrl: "https://www.nwaonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
-    type: article
-    provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
-    quality: 54
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204479203_204479203-4497212ae77643a5a468fcbbb895bc0c_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
-        isCached: true
 
-secured: "x446lz5DSTTSQX2IDj/h0Zw51Mofs1aFBj1v2vwiMvNMBvvAdLL7sjLvFzHx1WDlukCEQ/SeSzLEUqzYiJTEfeBw8UrjbT/LDrzHEGK5wJpuwe/EzD14rhGCQj7lFCdGkZjq+IJopoleLLenHfthB9zImBsykY79X9UMZSkB8JdzwRBcSM1z8h5zbAT0zWo2ZqhiEa1VCIf4ytbJUw3Chu9sIsGmxS0AQF/HkaKIQpuZULEEilQwcFzlk97QevF7RMDVQRxMGanSXf/WXEn2vtWp9vtKY7k1dAgWCLyR5mI5sho1y/2pkO786rJ2gh1z4xHRjzPxiCuXLlyw+TYwwGkZEJu14CZHcLPd8E3p9k8=;wKj+ruEJ/Kl5UXuRFcDYQw=="
+secured: "LblvgGxB7rVRqqcBjLLifDkoofbOCG5RwQZkWa/Ym4fwhvbB9zXhnsE10l3zv8D17Z56Yq+LgKJ/P5xVhEq4Y+hkfQb6A6pVlofgAEu8l++cjcAT6jj4tGPPg5fTrHNfc6gGph2SMUuJGQ7JLI3uaathnoTSrSa63aPz6Agdn8pEEkT4SMnx1XQ69sSQF+BPKksB3tM7lidysw5M+sf38DXDwjTYlj5dGLHNbFf5YtjBe7vGidXupI+mBA7L5nO9qR4yj0k4NuZlsnv4g7GLFuAi9wCKuzhZqofM4mu8yJATPgd7utvND+Tb27ZbxgyQBY+nWF8NtdNXg48DRkaDE+j7Rn2mAD/QroB5OgQNEJo=;mm4rwJoJ97bZK9pcdDGG0g=="
 ---
 

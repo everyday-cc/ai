@@ -10,7 +10,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -458,7 +458,7 @@
       "originalUrl": "https://www.barrons.com/articles/micron-chip-ai-stock-pick-806ef36a",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -941,6 +941,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-05-what-if-the-current-ai-hype-is-a-dead-end.md",
+      "title": "What if the Current AI Hype Is a Dead End?",
+      "excerpt": "If we face a Dead-End AI future, the cybersecurity industry will continue to rely on traditional approaches, especially human-driven ones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityweek.com/what-if-the-current-ai-hype-is-a-dead-end/",
+      "originalUrl": "https://www.securityweek.com/what-if-the-current-ai-hype-is-a-dead-end/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securityweek.com/wp-content/uploads/2023/06/Future-AI_artificial-intelligence.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.securityweek.com/what-if-the-current-ai-hype-is-a-dead-end/amp/",
+      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/what-if-the-current-ai-hype-is-a-dead-end/amp/",
+      "publishedDateTime": "2023-06-05T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecurityWeek",
+        "domain": "securityweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-stability-ai-ceo-says-hes-sad-about-report-he-exaggerated-his-resume.md",
       "title": "Stability AI CEO says he’s ‘sad’ about report he exaggerated his resume",
       "excerpt": "Emad Mostaque, the CEO of Stability AI, spoke with VentureBeat for a Q&A about the recent Forbes report and more.",
@@ -1187,50 +1230,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-unravelling-the-ethics-of-large-language-models-navigating-concerns-in-chatgpt-and-beyond.md",
-      "title": "Unravelling the ethics of large language models: Navigating concerns in ChatGPT and beyond",
-      "excerpt": "Here's a look at the evolution of the Internet and the growth of online content, leading to the emergence of search engines and the advancement of Natural Language Processing, leading to LLMs",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/isbinsight/unravelling-the-ethics-of-large-language-models-navigating-concerns-in-chatgpt-and-beyond/85395/1",
-      "originalUrl": "https://www.forbesindia.com/article/isbinsight/unravelling-the-ethics-of-large-language-models-navigating-concerns-in-chatgpt-and-beyond/85395/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2023/Jun/img_209145_chatgpt.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/isbinsight/unravelling-the-ethics-of-large-language-models-navigating-concerns-in-chatgpt-and-beyond/85395/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/unravelling-the-ethics-of-large-language-models-navigating-concerns-in-chatgpt-and-beyond/85395/1",
-      "publishedDateTime": "2023-06-05T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Greens voice concerns over facial recognition technology"
-    excerpt: "A Green Party TD has said it is important to make a distinction between bodycams and facial recognition technology."
-    publishedDateTime: 2023-06-01T08:06:00Z
-    webUrl: "https://www.rte.ie/news/ireland/2023/0601/1386841-facial-recognition-technology/"
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 41
-    images:
-      - url: "https://img.rasset.ie/00132672-1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Police to use facial recognition technology in central London during Coronation"
     excerpt: "acial recognition technology will be used by police as part of its security operation for King Charles’ Coronation. Ahead of events on Saturday a ring of steel was being put in place around ..."
     publishedDateTime: 2023-06-03T00:00:00Z
@@ -69,15 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Met Police director of intelligence defends facial recognition"
-    excerpt: "The Met Police’s director of intelligence has appeared before MPs to make the case for its continuing use of facial recognition technology, following announcements from the force and the Home Office t"
-    publishedDateTime: 2023-06-01T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366538871/Met-Police-director-of-intelligence-defends-facial-recognition"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
 
 secured: "vtYOEd99psKvbhhiwcTrLfGWYmbiwjc/4envfnc/WwM7a0+oaxh9AVv5a56t5DmEGoGwsk7peTlWM5aJt1hIpHgzt94I5ckliOlXxhZ4vRtqdmAf4STnQ2CW8TJviuJUnrKWgVDm29FGtEb/jJtmvyeg5xUZvqNTGNhKxOcZ9HtRq5XtSl7htR68OcKSv4hnjVDGzfYfPPwioNDRcGJpbDVNW9/6R/3hvGlhE84KvymOBAfb9eOupCgbGa+I6aD+RRLTGqZ65dOebedm9tkN/Cw6BFl3nNNQnxyzJQ+XUcopeajVeSuLyEFki7zlIcK5NnYePn0IhXO5uw+6r43aQ4K2wZi2nHA0RBpYt+oFmogqfv3R7lmOM7a9YRN5IwWjPBgxhvtHiLFL/Jjbqfm9QOmbC6zwQG3JvobJ4n6S1kOES2P32xOirliREh4w49RKBS89omm2ho1Toz9j34cBYPr1F7ANUFg0+3LxM0SnrOU7YYk+ohMDjWhoar5O4zMcIpCtcgGHoiEQL92AISWErw==;2wGdcPUK9IeJ8Vmq7sJscg=="
 ---

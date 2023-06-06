@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html"
 type: article
 quality: 118
-heat: 158
+heat: 138
 published: true
 
 provider:
@@ -64,29 +64,6 @@ related:
         width: 1200
         height: 562
         isCached: true
-  - title: "Azure Machine Learning integrates with Snowflake data"
-    excerpt: "End users of Snowflake can now seamlessly integrate their data into Azure Machine Learning (Azure ML) for training this data for AI models. Azure ML's"
-    publishedDateTime: 2023-06-01T08:28:00Z
-    webUrl: "https://www.techzine.eu/news/data-management/106723/azure-machine-learning-integrates-with-snowflake-data/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 56
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/06/snowflake-data.jpg"
-        width: 1930
-        height: 866
-        isCached: true
-  - title: "Localization Professionals Mourn the Demise of Microsoft’s Language Portal"
-    excerpt: "Readers chime in on OpenAI’s GPT trademark, language companies’ ownership of language tools, and integrating large language models."
-    publishedDateTime: 2023-06-01T08:30:00Z
-    webUrl: "https://slator.com/localization-professionals-mourn-demise-of-microsofts-language-portal/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "k+KA18rkCV6FMbDvm5llCiMvDllF7QD/1OvTypqRyldNXnqyysCXqGxAvbMO6waW0sm2ccXPly9a6gp4zZs/5oOV1bwYCG95OTLZtzdFPuYcPgKZJjdVujIca0eC18hlT5jaDU241Ny3eDC2Czy1ioGtdy3vQKIFnR8hHazZT1RRu0zB+Bmx+CAxc9PD0en013oxkeosyu0acYrR0lSMbIi5+pLgwGcjndJBD2CnXgxLn+cWxU65iNSsZZR+xeRGTkF7c6seku5R0dxvuW5SVD5yV8QgKaXiJYYN6ylWtiPV75nb/g7bFwggrzdeC2u3AFX6u3MopgsVwWHnAulebCMmbu1srPYXewsDVifejUShD+oCyvw7nvsBV6O1pqYKMLJp0ggFSblJUE8oF6QzztPbi2YqXYyG7L9MSa2x29wwCI5nore9idPAfITRi6cKEXHYaLZ0lqeeCqL/MjPkr8FOUFx1wtmupHw2HSpWxOD43gjX2PromBP6z7r4aTGPJC8XMaKGoLszbpGm1rk6qQ==;eEA8EGNw/F/y7yLeJ5+PHw=="
 ---

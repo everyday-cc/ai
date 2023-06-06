@@ -36,6 +36,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "FPT and Mila Renew Strategic Partnership, Advancing Responsible AI"
+    excerpt: "As part of this continued commitment, FPT and Mila will explore collaboration on research projects related to large language models (LLMs) and natural language processing (NLP) while promoting Responsible AI,"
+    publishedDateTime: 2023-06-03T23:59:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/04/9825883.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "/X+Xs5ypIslicMLBICE6HwxNwEwdnOx0h1zpvw4x55A4MpdHnkQP2Pa0hNA6n0VWgH32LYRccRcAK4rP0JjQwB5yc5il1NoHDm6BZ8nh4JKDGU20jwpz6KEn5eTI6Z+Pa+yrLNjHsiTy1IonjXaloj5YQogzFXcl6C+SxXK304xuFrZN64g524RjHgYj95uyT13LtWLYfQu7CGItrWgBC6Lq/trqsNu379rLPxAoZDUC1GyCOaDHdH2kVCJaIDaILhsurRWTLQCh+HMp3IDi8ff2LZZMfYYtxTTtbKpMLlYWhIyccEQGA3ig4kQCxiWWnLBE0SOOkveNJlkCKW68+ev8CfykSai301qzS4TjDXrxWf3EHtE1+vAHz8sPRs2k4/3Iavkky9CT4vQoproyl9VEZyoDm3D7o8HJZvvxS29OYQdDjBSL30W8xemaWQu8DF+upg5ctjqvoI7N9XtT4zje8+TiMzzZxxBWCN5BboNTHvfVtPdSseKSB+bOkNMzL6ZB8RVrDAwWp6bthZgZoQ==;TR/WaFJVvvwKqwT15agjLg=="
 ---

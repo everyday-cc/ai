@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-03-robot-takeover-not-quite-heres-what-ai-doomsday-would-look-like.md",
+      "title": "Robot takeover? Not quite. Here’s what AI doomsday would look like",
+      "excerpt": "Experts say the fallout from powerful AI will be less a nuclear bomb and more a creeping deterioration of society",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e5f4d936222873ba23161480fa267f6fb1ead285/0_0_5700_3800/master/5700.jpg?width=620&quality=85&auto=format&fit=max&s=046b8e059d1da3cb12fcb51f8c497ce0",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
+      "publishedDateTime": "2023-06-03T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce.md",
+      "title": "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce",
+      "excerpt": "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/",
+      "publishedDateTime": "2023-06-03T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup.md",
       "title": "Only in Bengaluru: Landlord invests Rs 8 lakh in tenant’s AI startup",
       "excerpt": "Pawan Gupta, the co-founder and CEO of Betterhalf.ai, revealed that his landlord invested $10,000 (Rs 8.2 lakh approximately) in his AI-driven matrimonial app.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -446,7 +550,7 @@
       "originalUrl": "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -790,7 +894,7 @@
       "originalUrl": "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -929,6 +1033,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-02-nowhere-for-investors-to-hide-from-ai-hype.md",
+      "title": "Nowhere for Investors to Hide From AI Hype",
+      "excerpt": "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7",
+      "originalUrl": "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-792763/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-rise-of-ai-to-give-freshers-an-edge-impact-of-artificial-intelligence-on-education-jobs-exclusive.md",
       "title": "Rise of AI to Give Freshers an Edge! Impact of Artificial Intelligence on Education, Jobs [Exclusive]",
       "excerpt": "The rise of AI has its pros and cons. With one of the major cons being the threat to job availability for freshers, experts have shared with the rise of ChatGPT and other AI tools, freshers are actually at an advantage!",
@@ -1063,161 +1218,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations.md",
-      "title": "OpenAI found a way to make AI models more logical and avoid hallucinations",
-      "excerpt": "The creation of false information has led to widespread concerns about the dissemination of misinformation and its potential negative consequences. In a new research post, OpenAI shares that it may have found a way to make AI models act more logically and avoid hallucinations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/",
-      "originalUrl": "https://www.zdnet.com/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/dd3e7e04d52ada5ef30e6114a2d7e5e1747c90fd/2023/06/01/2df7ccbe-245b-426a-95df-d9ec5ff9cad3/gettyimages-1460653515.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/",
-      "publishedDateTime": "2023-06-01T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-baidus-145m-ai-fund-signals-chinas-push-for-ai-self-reliance.md",
-      "title": "Baidu’s $145M AI fund signals China’s push for AI self-reliance",
-      "excerpt": "China, in order to reduce dependence on the U.S. technological foundation, has been pursuing its own large language models that match OpenAI's GPT models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/",
-      "originalUrl": "https://techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1061811420.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/amp/",
-      "publishedDateTime": "2023-06-01T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-your-evening-briefing-ai-is-sweeping-across-wall-street.md",
-      "title": "Your Evening Briefing: AI Is Sweeping Across Wall Street",
-      "excerpt": "JPMorgan is advertising for more AI roles than rivals. Morgan Stanley bankers are, well, “experimenting.” Unsurprisingly, the AI revolution is unfolding rapidly on Wall Street as wider interest grows in the evolving technology and its likely impact on business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-01/bloomberg-evening-briefing-new-ai-jobs-are-sweeping-across-wall-street",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-01/bloomberg-evening-briefing-new-ai-jobs-are-sweeping-across-wall-street",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1_ZOx4vSljQ/v0/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

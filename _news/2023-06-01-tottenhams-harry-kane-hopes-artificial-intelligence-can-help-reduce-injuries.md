@@ -9,8 +9,8 @@ ampWebUrl: "https://www.espn.com/soccer/story/_/id/37772984/tottenham-harry-kane
 cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/soccer/story/_/id/37772984/tottenham-harry-kane-hopes-artificial-intelligence-help-reduce-injuries?platform=amp"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: 64
+published: false
 
 provider:
   name: ESPN
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tottenham's Harry Kane invests in fitness AI and robotics company OxeFit"
-    excerpt: "Kane invested in OxeFit as part of the startup’s oversubscribed Series A2 investment round. The Dallas-based fitness AI and robotics company makes smart gym equipment that offers dynamic resistance and computer vision form tracking."
-    publishedDateTime: 2023-06-01T16:32:00Z
-    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/01/Technology/harry-kane-oxefit-investment.aspx"
-    type: article
-    provider:
-      name: Sports Business Journal
-      domain: sportsbusinessjournal.com
-    quality: 48
   - title: "Artificial intelligence can help reduce injuries, says Kane"
     excerpt: "England men's captain Harry Kane believes artificial intelligence (AI) could be the future of injury prevention in soccer as he bemoaned the fact that a number of leading players will miss this year's women's World Cup."
     publishedDateTime: 2023-06-01T12:11:00Z
@@ -44,15 +35,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "English soccer star Harry Kane invests in fitness AI and robotics company OxeFit"
-    excerpt: "Kane invested in OxeFit as part of the startup’s oversubscribed Series A2 investment round. The Dallas-based fitness AI and robotics company makes smart gym equipment that offers dynamic resistance and computer vision form tracking."
-    publishedDateTime: 2023-06-01T13:46:00Z
-    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/01/Technology/harry-kane-oxefit.aspx"
-    type: article
-    provider:
-      name: Sports Business Journal
-      domain: sportsbusinessjournal.com
-    quality: 44
 
 secured: "/SsAaMe/gPFcVdtkH83BC7v5cPT6VoikZg8P5ZZT3Ia1Nbp5VRvPStel8If6KP02bzCec99bHXgHU/dy9U3rBB77/a0z4MkwSxld4wqqCQJiMX4iVoWcKEu4jOfrtUMXpabkL7ciwMo6vuql0hLFi4Ho0RZG9khD4kG/3HLQ5HGH3VSz5STN/tu5FbgCWIgP4y2CoB/r1FO4ECAl4dAjEp9hcv5zdzgbQfVNRRtRWM/S3h0KZbS3Da+ddHkYWe0jRGm7fnixbCiqpM6l3ySY41mS5RDyxr4pLzkwe/xuxKy9AfV93HPAPaQVarWilM2Lgv8cMabl2nEXpCBcxY5Vxm69YgbJzshB8Lm0vAAB1ujYuvTci97htt5sFgDoDk13mB0IsvrwRayLPi+YmC8cr4gFgl0eaABuA4IlwFeEOeV0cexfdCYO+MU/1Uv6ArymrrV7DlKOdPXkHRMk7Cu4mMdXuEKWSEmAPrwOLMzNcw3gFW2Bkgh4DzbUeTcssT0dJPkGKVAIcEASGU3zBor9Mw==;0hKyfhs3+1j7R42SBT6T3g=="
 ---

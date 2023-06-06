@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/asus-plans-on
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/05/AdobeStock_389670688.6467a8dc2b87b.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C0%2C1920%2C1077&w=1200"
         width: 1200
         height: 673
+        isCached: true
+  - title: "Apple’s Vision Pro needs AI like ChatGPT as soon as possible"
+    excerpt: "Apple just unveiled the Vision Pro AR/VR headset. But the powerful hardware needs one more thing: a ChatGPT-like generative AI assistant."
+    publishedDateTime: 2023-06-06T01:22:00Z
+    webUrl: "https://bgr.com/tech/apples-vision-pro-needs-ai-like-chatgpt-as-soon-as-possible/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-279.jpg?quality=82&strip=all"
+        width: 1600
+        height: 885
         isCached: true
 
 secured: "x0DAFNWKVvu87yHF+HiQTqORvSYxZGbh19b5SDrKBQbR/OOq9uMQooC9q5FAvhREzQkYfBkfdsZu08kWN/amzNacZvLKNaFIQMnWI8IhAHx5ljB+qZdQU1vS0rVFzrnSGc6J5nl6ghu5cUB0aCn1/twoL7MUoLev/gekd5Xq9wnDoxSjig6rQnjXs3ABXusrZ/U9YhUkiyg7eJdBtqh+kcv8LcQ+CNo/MdDK53YMqQ1KhCL0+w+sjjduYq0sddBcPJfudYOE1N4P3o05jCZOuIgLiRhITrN4CkN+CN8Gi4KrZnPvvGC1xTJQ9zSpneEE8Xdi+nxd8qDlkGdQ3u4nA9RiWPQC6A+7UJyzyey6pvBPFaER+uNe66Le5flOxiePmG6o5U09A46wl62y2ksqMCDgOJ63TA9IL9jRlG9RKKsrIG0QvJ6NePYIMQmlbYuBe8Dr5A+n61HmzKvd0yrOW6dzDw/U7AxmXw9WAg2cnPp2l2cFHH/coA4N3+82PVS+w7t3Jwe962DuOPJVhs/8nA==;evIN+r7ANVjp4xmiyVaKsg=="

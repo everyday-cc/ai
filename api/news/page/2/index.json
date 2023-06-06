@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-05-ubs-buy-these-53-stocks-that-could-rise-at-least-20-as-they-profit-from-the-ai-revolution.md",
+      "title": "UBS: Buy these 53 stocks that could rise at least 20% as they profit from the AI revolution",
+      "excerpt": "UBS says investors who want exposure to the rise of the artificial intelligence industry should buy these 53 stocks with at least 20% upside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-ubs-2023-6",
+      "originalUrl": "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-ubs-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/647a410440bf000019fa14d0?width=1200&format=jpeg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-getting-started-with-mqtt-in-azure-event-grid.md",
       "title": "Getting started with MQTT in Azure Event Grid",
       "excerpt": "Those events could also be stored in Azure Data Lake, where analysts can use tools like Data Explorer to extract insights from device data and use that data to train machine learning-powered control systems. Azure Event Grid is an important component of ...",
@@ -507,6 +558,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-05-fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai.md",
+      "title": "FPT and Mila Renew Strategic Partnership, Advancing Responsible AI",
+      "excerpt": "FPT, Vietnam's largest IT service provider, and Mila, Quebec Artificial Intelligence Institute, announced the renewal of a three-year strategic partnership agreement. This press release features multimedia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/b32707325/fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/b32707325/fpt-and-mila-renew-strategic-partnership-advancing-responsible-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32707325",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32707325",
+      "publishedDateTime": "2023-06-04T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-04-google-is-using-machine-learning-models-to-speed-up-gmail-search.md",
       "title": "Google is using machine learning models to speed up Gmail search",
       "excerpt": "Millions of users around the world rely on Gmail as their primary email service. And it's no mystery that the sheer number of emails sent and",
@@ -619,7 +713,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -774,7 +868,7 @@
       "originalUrl": "https://www.bbc.com/news/uk-northern-ireland-65786063.amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -826,7 +920,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1013,7 +1107,7 @@
       "originalUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1056,7 +1150,7 @@
       "originalUrl": "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1150,110 +1244,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-robot-takeover-not-quite-heres-what-ai-doomsday-would-look-like.md",
-      "title": "Robot takeover? Not quite. Here’s what AI doomsday would look like",
-      "excerpt": "Experts say the fallout from powerful AI will be less a nuclear bomb and more a creeping deterioration of society",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears?ref=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e5f4d936222873ba23161480fa267f6fb1ead285/0_0_5700_3800/master/5700.jpg?width=620&quality=85&auto=format&fit=max&s=046b8e059d1da3cb12fcb51f8c497ce0",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
-      "publishedDateTime": "2023-06-03T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce.md",
-      "title": "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce",
-      "excerpt": "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/",
-      "publishedDateTime": "2023-06-03T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
