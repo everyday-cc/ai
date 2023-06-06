@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32686506"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32686506"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Benzinga.com
@@ -36,6 +36,15 @@ related:
       name: tynmagazine.com
       domain: tynmagazine.com
     quality: 39
+  - title: "Gene Prediction Tools Market is likely to register CAGR of 18.3% through 2033"
+    excerpt: "In 2023, the Gene Prediction Tools Market size is expected to be worth US$ 127.3 million. The market is expected to reach US$ 680.9 million by 2033, expanding at an 18.3% CAGR throughout the forecast period."
+    publishedDateTime: 2023-06-06T02:12:00Z
+    webUrl: "https://www.fmiblog.com/2023/06/06/gene-prediction-tools-market-is-likely-to-register-cagr-of-18-3-through-2033/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 1
 
 secured: "KRjS3ibq6Kof7Kl5ZhpeEjEnpTzMoVsRAek3WZol8oxA4yEJW8AKmACqBBeWX7C3+7aoaJSRZTKhxKUuJqIIy+ylWbvWKSUT/s4/L0Jo24Va2jXajlt9Zkj/0o5eCqIWnDF0phVgkhvrGQIVY75RIvbLGLwWRBaMTkb6MrKmSoiDcq9urCpNH/4mucYjsrN0mimzJnpMgq2arjmKJ2ix0CHXPjMnI7n4rWRYGrkk6AQjlh6rIQjfYvnOe2uV6aqFaY5Ml+hF7R0BkGm74xcyT+dislALq56cXInFpGL7h+pjv8ke4ND+yYVVU3VWdgYkv0TQ1Fj99KaofDrhw4wxdb146gDIOaiyNBaNtfgWhNs=;SyKAFTomYlRjlJ6gpN9+dQ=="
 ---

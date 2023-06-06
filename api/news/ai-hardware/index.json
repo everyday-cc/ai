@@ -114,7 +114,7 @@
       "originalUrl": "https://www.barrons.com/articles/micron-chip-ai-stock-pick-806ef36a",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -261,7 +261,7 @@
       "originalUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -391,21 +391,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are.md",
-      "title": "AI chips are hot. Here's what they are.",
-      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip,",
+      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
+      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics",
       "sourceUrl": null,
-      "webUrl": "https://norfolkdailynews.com/news/national/feature_national/ai-chips-are-hot-heres-what-they-are/article_e50444c6-008e-11ee-8e38-6b3227a49a96.html",
-      "originalUrl": "https://norfolkdailynews.com/news/national/feature_national/ai-chips-are-hot-heres-what-they-are/article_e50444c6-008e-11ee-8e38-6b3227a49a96.html",
+      "webUrl": "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 168,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/2/f2/2f237702-008f-11ee-8f78-27dd5b461b9c/6478b65123d5c.image.jpg?crop=620%2C326%2C0%2C43&resize=620%2C326&order=crop%2Cresize",
-          "width": 620,
-          "height": 326,
+          "url": "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -413,13 +413,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T08:11:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108",
+      "publishedDateTime": "2023-06-01T06:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Norfolk Daily News",
-        "domain": "norfolkdailynews.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null

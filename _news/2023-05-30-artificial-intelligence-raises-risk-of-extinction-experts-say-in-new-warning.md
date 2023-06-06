@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
-publishedDateTime: 2023-05-30T13:52:00Z
-originalUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
-webUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
-ampWebUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
-cdnAmpWebUrl: "https://www-wbko-com.cdn.ampproject.org/c/s/www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
+excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
+publishedDateTime: 2023-05-30T13:28:00Z
+originalUrl: "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/"
+webUrl: "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/"
+ampWebUrl: "https://www.wral.com/amp/20886276/"
+cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20886276/"
 type: article
 
 provider:
-  name: WBKO
-  domain: wbko.com
+  name: WRAL
+  domain: wral.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://gray-wbko-prod.cdn.arcpublishing.com/resizer/-8OSzfnXzfZ6vLJzJut8T5rHJys=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/IIVAIJHR7JBD7CFJJBUXPBQRBA.jpg"
-    width: 800
-    height: 450
+  - url: "https://wwwcache.wral.com/asset/news/technology/2023/05/30/20886277/6475fa6fa5ee5-media_7dd689f31dad4f5ca5d5ab652dfdfdec-DMID1-5z2v6gjo8-640x480.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "DSKOLWREXs1ITfSSP7mSQVXiRU3vgA/jCtm2F9LPgqYKitnay6HInSBbbdomjFZIBLBqqzYY8OACTosw+lStje8D/NpCmSvxzgx+BITuO2TozqjKadq4kSkE08w0X6d1u32nXIOSZIRE58zwmJ7oIcUvEGi+PapY35ONXLo2m2xtYC90wQmK8CUvBt6skzmgtyWD01hxL/vy+Y7FZlCQvPTPCZWU+GLyd+gTx1OQpAzG+/aUooFSiUp/MMbCkV6Yq1N9tDN7l0PFmVVoaGTV54pCLWSvNp9OoHpDFEaTnH/U5beKUlGOS82mo7s2pMDorA1vUTLoqfiWPn6A7/O4Uie1Q+61bhQi5DdxqTAj7w8=;prYYeeDcZ6CSYAbBTNTVug=="
+secured: "YvkKSo/uSTvqh1jMRzVmckU9rrFGjDMRuQv38KxvXsdk7Hel4Jz0WxM20dahqKGRsZutbX4luBUUdUz/Ofq48hGKGhbrTdNj5VmEXhsJofSPpaWAF9VnD3VIu3LjfTCSbbmsrp8yRFDY93GWOnXGmzjoXKRUjB8L8+F+hMBid593ju+CndTqiUF+WddGjYn6bolOYANgxY5GY61BhctIN61XMUNdwstG0gy9sC2/kL9jx4LthUnwH+KT6pP3E8PHtp4BGErLQaHC/Q6p2Bf6DT37V1Tju36pycfk+xyfmj8SK+LJUu+E3wIO8uXHF3Bilb2IlJDJI+ExuDb1qSOG3+8kOc2b+DCre/2fWuwv/Vc=;9wpm8qpUxTOrftCrwq2jxg=="
 ---
 

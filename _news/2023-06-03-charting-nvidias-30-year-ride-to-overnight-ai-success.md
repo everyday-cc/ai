@@ -41,6 +41,20 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "4 AI or chip stocks to buy aside from Nvidia"
+    excerpt: "NVIDIA and AMD will always go hand in hand whenever it comes to all prospects regarding Graphic Processing Units (GPUs). Prior to AI, AMD has always held a strong foothold in the PC space, powering most of the laptops alongside Intel Corporation (NASDAQ: INTC)."
+    publishedDateTime: 2023-06-06T02:55:00Z
+    webUrl: "https://thefinance.sg/2023/06/06/4-ai-or-chip-stocks-to-buy-aside-from-nvidia/"
+    type: article
+    provider:
+      name: thefinance
+      domain: thefinance.sg
+    quality: 54
+    images:
+      - url: "https://thefinance.sg/wp-content/uploads/2022/04/Oil-Rig-at-Sunset.png"
+        width: 800
+        height: 533
+        isCached: true
   - title: "This week in AI: Existential threat from AI, Nvidia announces AI supercomputer, UK wants global AI watchdog and more"
     excerpt: "The DGX GH200 uses Nvidia's NVLink technology to combine 256 GH200 superchips, which each house an ARM-based Grace CPU, and H100 Tensor Core GPU, that allow for performance up to 1 exaflop (equivalent to one quintillion floating point operations per second) with a whopping 144 Terabytes of shared memory."
     publishedDateTime: 2023-06-04T13:30:00Z

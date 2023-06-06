@@ -50,20 +50,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 51
-  - title: "AI to take centre stage at Singapore Fintech Festival"
-    excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi today announced the theme of the Singapore FinTech Festival (SFF) 2023 – ‘Applications of Artificial Intelligence (AI) in Financial Services’."
-    publishedDateTime: 2023-06-01T09:44:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97087/ai-to-take-centre-stage-at-singapore-fintech-festival"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "jpBgt992MDMKdrTGMx11/sg/FOQmT1waLXBViCzo86G6kpCc+8bJFbsDBN9VQNvNTxrdLq8L05lQhRWZ8NwQl/FrYBfKEUPsPDtpLsisLWXj6TgMw+/cDC4FmrbSjSkN1LcTO1P9K8xZQi9pjXLOaAq53PLxVs7qifcvuL9hVdxJquJXGJhuitU6WCai9JIZ6Tq0DunK7c4tjiqIGvGpb1qCzNFdCDWnfl35YNvpk2VdtmWcOXV74L1kXV8bxvl6JbSrvUvnd+i4rdTIQdRsinFEgs49auXZONsq5k9dIXFjRiFD5nb9XbHiNCrL4zBPaq8+bli+sNCy10kDMs4wBLSRNmo5QPkTp24llG/86nt+3BShP6Luf+C4AIGpOaC6vHNWuqS7Vmh/1SURPQaYxmMLy239pHnwuhJTf4BW+MZnz6/oDSf2/YK5NZ5DEr2VM7ujoPvURMzoICMYlr0YXHmjPEDHqB3FkQ2CJPJIMo4WITeBAlw120y5rbem0KWVIY2j1KVnOTQLjJCQmUjDIg==;MaPdN8lY1aJJMf3vRjatWQ=="
 ---

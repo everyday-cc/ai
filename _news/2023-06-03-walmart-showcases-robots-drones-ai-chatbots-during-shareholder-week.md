@@ -87,20 +87,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "An Eating Disorder Chatbot Is Suspended for Giving Harmful Advice"
-    excerpt: "A nonprofit that helps people with body image problems closed its human-run helpline. The chatbot that remained suggested things like losing weight."
-    publishedDateTime: 2023-06-01T11:00:00Z
-    webUrl: "https://www.wired.com/story/tessa-chatbot-suspended/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 54
-    images:
-      - url: "https://media.wired.com/photos/647691970124a91cee27d944/191:100/w_1280,c_limit/Eating-Disorder-Help-Chatbot-Business-1398764138.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Yellow.ai's generative AI-powered Voicebots and Chatbots Now Available on Genesys AppFoundry"
     excerpt: "Yellow.ai combines with Genesys marketplace of solutions, enabling enterprises to deliver autonomous, human-like experiences with its Dynamic"
     publishedDateTime: 2023-06-05T15:00:00Z
@@ -124,6 +110,15 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Do chatbot avatars prompt bias in health care?"
+    excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That’s what University of Colorado School of Medicine researchers are asking as they dig into patients’ experiences with the artificial intelligence ..."
+    publishedDateTime: 2023-06-05T23:26:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/991526"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
 
 secured: "iODTVDB9w9gdLFjMHGT5oBIav/+yAeXF2ZfZElKMV4A9mxn61UurY3UYi6PXauCC4Tcm3d8DmlEeNbsPEJUiewZusY+6+Sp9tHu18AMQ+eDNDG5kWLgY3VgzhoCYKTCtTnOaYu//Ft+gXqyuCNbKjxXdt8gjf2zFcCHI3l2O8NsKlfYwE1s8yPs+JfFiKqYF3H8IfA/XLR8mIEr6oUHxurWS3EpU7BxQSpvxAouVHBX8kNSbZ3mEABjiXK7fQvi01cAPZsUcT4TKXj+S116Xqkr4goQ4bARRZ1P8pRHoKMxRepAxhOgvufYwXGwABtOyewZpUKkRuT1QVWpOq4blFrX9wYCaiuSv0CNJxQzPmPs=;Txlypnvl3BotGUuvLkDWvA=="
 ---

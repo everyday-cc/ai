@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/news/international/uk/watch-artificial-i
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/amp_videoshow/100685103.cms"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/6/2/al-robot.ashx?h=450&w=750&hash=940203BF5B297C3C645CD9EB464F7B6F"
         width: 750
         height: 450
-        isCached: true
-  - title: "Robotics and automation dialogue in London takes off with new conference"
-    excerpt: "Secretary of State for Science, Innovation and Technology, Chloe Smith, spoke at Conference on Robotics and Automation held in London"
-    publishedDateTime: 2023-06-01T10:19:00Z
-    webUrl: "https://www.openaccessgovernment.org/secretary-smith-ignites-robotics-and-automation-in-london/160072/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 53
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/05/iStock-1443019955-scaled.jpg"
-        width: 2000
-        height: 1124
         isCached: true
 
 secured: "yfmSTec3cJ2D5pPJAMhosDh9oxhj+Che7xFeEC6CHgAkDSCU1p9Eq5ix7g2eLG+eq9f5ZEDK2Kpa67XGEnIzqyz8N/86avBQT3Oqd8Vhj+WR4FqHCVlXcI+KhsBLgJYxaPlo5lxWJ5/mkNg0dhyJix8uyUtg77/V79dGxg5eAmq8mS9LV4e8AG4CXxLJ+v1ha/8RPQ1QE5GczNGwgJCwWzACSn9RVcth6zfaWSP2l4QZrsmizEd9FDIkL/L/p4bk1nf8UU77f+pJXvFuqomAZATeS4r+/ajUsE81Cw81gmd84BdETpgURp8TljmC9qWfAXoQv2Rpolcwb2sMEyWwCWDRdo4htGPtOzLWrBufrebYsvAzq8fTpL8STltLCiTbblCL+9oS5X/gpP+76KKz0ch1r3s31vHmEc/PFKwpi3bW1Jpn2EFl6mtA5HGfEXsdesIfG332ntem5c1lsGvSs7lpbKGP/HHob1EY5LydjcuYQCBYuSHs5+vpuCjTUtlpQ6zDkh0CNfRoLyfm91eoMg==;D6HtOpIauv/fVkdSdpKo4w=="

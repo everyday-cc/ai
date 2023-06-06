@@ -73,20 +73,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "An Eating Disorder Chatbot Is Suspended for Giving Harmful Advice"
-    excerpt: "A nonprofit that helps people with body image problems closed its human-run helpline. The chatbot that remained suggested things like losing weight."
-    publishedDateTime: 2023-06-01T11:00:00Z
-    webUrl: "https://www.wired.com/story/tessa-chatbot-suspended/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 54
-    images:
-      - url: "https://media.wired.com/photos/647691970124a91cee27d944/191:100/w_1280,c_limit/Eating-Disorder-Help-Chatbot-Business-1398764138.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Walmart showcases robots, drones, AI chatbots during shareholder week"
     excerpt: "A robot makes hamburgers at a Sam’s Club. Robots retrieve items for order fulfillment in Bentonville. AI chatbots help Walmart merchants. Drones make deliveries in Northwest Arkansas. Highlighting such"
     publishedDateTime: 2023-06-02T17:55:00Z
@@ -124,6 +110,15 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Do chatbot avatars prompt bias in health care?"
+    excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That’s what University of Colorado School of Medicine researchers are asking as they dig into patients’ experiences with the artificial intelligence ..."
+    publishedDateTime: 2023-06-05T23:26:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/991526"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
 
 secured: "eiVGv6ocrT9kSwaJGLBYollGMd4xwZdjkDiVgqCJLk8YwXfXpVgaBY6g6fyG4SWyReV3KuPfhdfyZDN1Ib7HFAp+uVaOnZRrV+S4kcUeymPo46uzfAbZa83Q62fAe62kPDRZF2NO31ptOW3c3CiMJ29/lm9yKx4U+p9dP++akwjosBVS3RayQ+yASUE5a1FHVjQ2htgQc3Y781v87IS/1X/dVVAt1IKyGVUV4D6LLBFoUKtm4mY8zbX5TZRLdlC6kiEMIvYE7HuFoop9dEbRkUbQV/k/uhQs9TlSAePB9kQZH3OYqS/wx3ORIQryUbC+7XBMIOA9Kn53olPe1tCnieCKS9678hgizf4FcPSQIRs=;GFbIT+Ydd2ykCME40pHsoA=="
 ---

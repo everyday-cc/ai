@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 789
         isCached: true
-  - title: "The “death of self-driving cars” has been greatly exaggerated"
-    excerpt: "Seven years ago, hype about self-driving cars was off the charts. It wasn’t just Tesla CEO Elon Musk—who has been making outlandish predictions about self-driving technology since 2015. In 2016, Ford set a goal to start selling cars without steering ..."
-    publishedDateTime: 2023-06-01T11:00:00Z
-    webUrl: "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/"
-    ampWebUrl: "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 74
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IPACE_3-800x533.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "3 artificial intelligence share ideas"
     excerpt: "Investing in artificial intelligence (AI) has become a key stock market theme in 2023. Here are three share ideas that could benefit."
     publishedDateTime: 2023-06-01T16:23:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-companies-can-determine-potential-generative-ai-use-cases/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 157
+published: true
 
 provider:
   name: Forbes
@@ -30,80 +30,100 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Can Help Your Company Thrive"
-    excerpt: "AI has become one of the most important technologies of our time. I believe it will undoubtedly have an impact that will revolutionize the way companies are managed."
-    publishedDateTime: 2023-06-01T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/amp/"
+  - title: "Automation Anywhere collaborates with AWS to empower enterprise processes with generative AI"
+    excerpt: "Automation Anywhere will utilize Amazon SageMaker JumpStart and Bedrock to provide enhanced generative AI capabilities."
+    publishedDateTime: 2023-06-01T15:08:00Z
+    webUrl: "https://venturebeat.com/ai/automation-anywhere-collaborates-aws-empower-enterprise-processes-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6438211dffe260fd7c13615b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "How to thrive in a new era of AI with trust and confidence"
-    excerpt: "AI is already helping organizations achieve great things, but it's time to take advantage of its full business potential."
-    publishedDateTime: 2023-06-02T15:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://images2.markets.businessinsider.com/64777c4a085acb0018ff05b5?format=jpeg"
-        width: 702
-        height: 526
-        isCached: true
-  - title: "French Open Enlists AI Company to Help Players Fight Social Media Hate"
-    excerpt: "The automated software filters out abusive comments on social media platforms including Instagram, TikTok and Twitter."
-    publishedDateTime: 2023-06-01T23:38:00Z
-    webUrl: "https://www.cnet.com/tech/french-open-enlists-ai-company-to-help-players-fight-social-media-hate/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/3e2d53873a7382261bdedb700e09480800d14740/hub/2023/06/01/d873990a-8525-4fb2-9b9a-0aac6336a45a/french-open-getty-1495198907.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/AIAAI-VentureBeat-2023-Banner-Ads-1200x675-05312023.png?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
-  - title: "How to Use AI in Your Job Search"
-    excerpt: "Artificial intelligence is about to transform the job search. Research confirms the value of using AI in your job search. At the very least, AI can be of immediate practical help with your resume."
-    publishedDateTime: 2023-06-01T20:49:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search?amp"
+  - title: "How to create generative AI confidence for enterprise success"
+    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
+    publishedDateTime: 2023-06-04T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-06/ai.jpg?itok=YfnF92cM"
-        width: 1528
-        height: 800
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
+        width: 1200
+        height: 579
         isCached: true
-  - title: "How AI Tools Both Help and Hinder Equity"
-    excerpt: "The technology promises to assist students with disadvantages in developing skills needed for success. But AI also threatens to widen the education gap like no tech before it."
-    publishedDateTime: 2023-06-05T04:05:00Z
-    webUrl: "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2023/06/05/how-ai-tools-both-help-and-hinder-equity"
+  - title: "These Enterprise Generative AI Use Cases are Emerging"
+    excerpt: "Generative AI models are continuously bringing new business opportunities. Generative AI use cases are emerging in enterprises for bringing transformations."
+    publishedDateTime: 2023-06-05T14:45:00Z
+    webUrl: "https://enterprisetalk.com/featured/generative-ai/"
+    ampWebUrl: "https://enterprisetalk.com/featured/generative-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/generative-ai/amp/"
     type: article
     provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 37
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 61
     images:
-      - url: "https://www.insidehighered.com/sites/default/files/2023-06/GettyImages-1286627625%20%282%29.jpg"
-        width: 788
-        height: 443
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/These-Enterprise-Generative-AI-Use-Cases-are-Emerging.jpg"
+        width: 1500
+        height: 844
         isCached: true
+  - title: "EU wants tech companies to label AI-generated content to counter disinformation"
+    excerpt: "The European Commission is asking all tech companies operating in the European Union to begin voluntarily labeling content appearing on their platforms that is generated by artificial intelligence."
+    publishedDateTime: 2023-06-05T15:41:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2023/06/05/belgium-european-commission-ai-labeling/2541685977357/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2023/06/05/belgium-european-commission-ai-labeling/2541685977357/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2023/06/05/belgium-european-commission-ai-labeling/2541685977357/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/2541685977357/2023/1/efcaa7dcbf5f6e13a55ae812f09a5488/v1.5/EU-wants-tech-companies-to-label-AI-generated-content-to-counter-disinformation.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Europe calls for tech companies to fight disinformation by labeling AI-generated content"
+    excerpt: "A top EU Commission official said Monday that the ability of a new generation of AI chatbots to create complex content and visuals in seconds raises “fresh challenges for the fight against disinformation."
+    publishedDateTime: 2023-06-05T16:26:00Z
+    webUrl: "https://www.pbs.org/newshour/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 48
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/2021-11-02T133529Z_974093607_RC2DMQ9I1JJD_RTRMADP_3_TECH-WEBSUMMIT-e1685982315901-1024x614.jpg"
+        width: 1024
+        height: 614
+        isCached: true
+  - title: "IBM Consulting Creates Center of Excellence for Generative AI"
+    excerpt: "IBM Consulting is establishing a Center of Excellence for generative AI to stand alongside IBM Consulting's existing global AI and Automation practice, which includes 21,000 data and AI consultants who have conducted over 40,"
+    publishedDateTime: 2023-06-05T13:04:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Consulting-Creates-Center-of-Excellence-for-Generative-AI-158894.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 19
+  - title: "The AI Hype Cycle Is Distracting Companies"
+    excerpt: "Machine learning has an “AI” problem. With new breathtaking capabilities from generative AI released every several months — and AI hype escalating at an even higher rate — it’s high time we differentiate most of today’s practical ML projects from those research advances."
+    publishedDateTime: 2023-06-02T12:05:00Z
+    webUrl: "https://hbr.org/2023/06/the-ai-hype-cycle-is-distracting-companies"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "itV9Zyin9+HpUpL+cnIeBinIanUZBsB28CdZAtkuzUDaIC+hAFBz7EEnFJXT41qz8P551UnrYLnG6eFBgaOopH7WM1uYtUQYOOHiy0SVb41Urb40P0ivvOAKQtLIOJm650zSkJcUOSqGxm2hdqrINjQ/IZokzebcdJ5YFdjcZm0DM0u15RYQSAKIfvO41d7dls0/I16NesMGx/ah9mxHnMvfqCpGA/DxCHQKQefDPpiL6TEekYpb2NrGX3/zvZ4jiJlsEiJoXoTsDe2Xz+OlYRdJqdXf4vZG5U90qtT0OnSbsKt4AK4C+5Z2DPDs0pFa5FfCDXoQqjoII+W577p/91MGnaEY80DyOBjxXJxbgKdhce7jf/wf9IZCIzgzAB6C2js+/Y0qRAOs2H4RPJecNQ1oYdd/zQW1ezM/JQ+xNycndEW9rXETx5T+/NXlCoVpVa+v3WSF2LqFYTrvbQlxf6Q2DyTy0sbDoeSg7xOiZu599IivDi5zFvTVHtgOUtVzzTkGog1nzVJsDHzHKcvZSA==;LdemrF8/RV9VDmnSN+237w=="
 ---

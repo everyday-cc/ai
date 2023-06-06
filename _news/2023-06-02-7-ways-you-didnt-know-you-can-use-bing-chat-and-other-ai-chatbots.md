@@ -76,20 +76,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "An Eating Disorder Chatbot Is Suspended for Giving Harmful Advice"
-    excerpt: "A nonprofit that helps people with body image problems closed its human-run helpline. The chatbot that remained suggested things like losing weight."
-    publishedDateTime: 2023-06-01T11:00:00Z
-    webUrl: "https://www.wired.com/story/tessa-chatbot-suspended/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 54
-    images:
-      - url: "https://media.wired.com/photos/647691970124a91cee27d944/191:100/w_1280,c_limit/Eating-Disorder-Help-Chatbot-Business-1398764138.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Walmart showcases robots, drones, AI chatbots during shareholder week"
     excerpt: "A robot makes hamburgers at a Sam’s Club. Robots retrieve items for order fulfillment in Bentonville. AI chatbots help Walmart merchants. Drones make deliveries in Northwest Arkansas. Highlighting such"
     publishedDateTime: 2023-06-02T17:55:00Z
@@ -127,6 +113,15 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Do chatbot avatars prompt bias in health care?"
+    excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That’s what University of Colorado School of Medicine researchers are asking as they dig into patients’ experiences with the artificial intelligence ..."
+    publishedDateTime: 2023-06-05T23:26:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/991526"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
 
 secured: "wkwh77eGMsve0cVHpA7GodWtLyExYayfnfrMu+qbeNjiaufnMlFdbseH3Gcsjt+pcf28pchqCTe7nRcjGCmK04wAbIy6l8Dt096eA9EvIzc0RCCdG9zL6B5A8kovNmBPFMU01TULs4aLM0RmuRRUw+eNpk3fs4xpMdBwgy91bXWYWKXjM8Jcrj5etbB8lXXpBBluHTJoeOu5Fdm5C7x2ZIpuF+qFCylh/tjREwdEyJZsUV0iV+IUuAxxZvXX0aBIxTkNGdV6w+1Q6jSxlofwIgHFDg4QQ52J61Ste1vSrs8yDvRyKhOy8rAvtny8lSBgMl+Kn9a907qnpchaSeEVbudhIRWghgbZRVWasafby/7NhXYSYOHdKegz7NxPD2OU8yt7tBOPwDgly8GEvwsa23ChhaSIghc18SqCPg4qHDb2B0XvmLt0wcMMZaKfz9I9hUP8VxqW165gV/069VU6HqooX0s3Mjno9l2rIMICNa5ntmncqjulELf90YFkNbOdyXJdlu0tkwKc8W/Pvo3N8w==;jIWQeYgA4W+cuOCy+mvHCw=="
 ---

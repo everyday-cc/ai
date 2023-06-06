@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "4 AI or chip stocks to buy aside from Nvidia"
+    excerpt: "NVIDIA and AMD will always go hand in hand whenever it comes to all prospects regarding Graphic Processing Units (GPUs). Prior to AI, AMD has always held a strong foothold in the PC space, powering most of the laptops alongside Intel Corporation (NASDAQ: INTC)."
+    publishedDateTime: 2023-06-06T02:55:00Z
+    webUrl: "https://thefinance.sg/2023/06/06/4-ai-or-chip-stocks-to-buy-aside-from-nvidia/"
+    type: article
+    provider:
+      name: thefinance
+      domain: thefinance.sg
+    quality: 54
+    images:
+      - url: "https://thefinance.sg/wp-content/uploads/2022/04/Oil-Rig-at-Sunset.png"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Charting Nvidia’s 30-Year Ride to Overnight AI Success"
     excerpt: "But an increasing number of its chips are being installed in data centers to help companies like Microsoft Corp., Alphabet Inc., OpenAI, and Amazon.com Inc. build their AI capabilities and offer those services to clients. Last year’s release of ChatGPT ..."
     publishedDateTime: 2023-06-03T03:55:00Z

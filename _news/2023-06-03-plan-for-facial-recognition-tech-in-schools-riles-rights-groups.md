@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/telangana/plan-for-facial-rec
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://img.dunyanews.tv/news/2023/June/06-03-23/news_big_images/729044_91294148.jpg"
         width: 752
         height: 423
+        isCached: true
+  - title: "Calls in Senate for TSA to halt facial recognition program"
+    excerpt: "Kris Van Cleave reports on the letter signed by several US Senators expressing disapproval for the TSA's new facial recognition devices. (6/5/2023)"
+    publishedDateTime: 2023-06-06T02:37:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/calls-in-senate-for-tsa-to-halt-facial-recognition-program/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 39
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/06/7dd07095-23a7-4876-914f-827cd511b5a0/thumbnail/1200x630/346e67909ceeecb6e5360380e2435fd0/3b91baea8a7aef65fa2b29c929d6ae7b.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Police to use facial recognition technology in central London during Coronation"
     excerpt: "acial recognition technology will be used by police as part of its security operation for King Charles’ Coronation. Ahead of events on Saturday a ring of steel was being put in place around ..."

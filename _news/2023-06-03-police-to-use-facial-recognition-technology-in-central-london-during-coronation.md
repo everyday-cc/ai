@@ -55,6 +55,20 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Calls in Senate for TSA to halt facial recognition program"
+    excerpt: "Kris Van Cleave reports on the letter signed by several US Senators expressing disapproval for the TSA's new facial recognition devices. (6/5/2023)"
+    publishedDateTime: 2023-06-06T02:37:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/calls-in-senate-for-tsa-to-halt-facial-recognition-program/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 39
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/06/7dd07095-23a7-4876-914f-827cd511b5a0/thumbnail/1200x630/346e67909ceeecb6e5360380e2435fd0/3b91baea8a7aef65fa2b29c929d6ae7b.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4Td2Tzn1SwiMeQS282ZM3+27S8q0w5Swr3r8l1S9Xc2W95IAGyliN2eDxeIKVOxTkA4KMxVvsJGZMPd8jXkOFwFcb4m8EPNyp+RmPAK3mJMzfljq3TEd6RQp+d2x8hsVW2lwMRc0TVP1x2O3ldsqD2ahYTTCk5cv8IGrodqfSdYqICbGv1gUdlExjOYaTWj6eQdETdq+LPsaGkXbsbgk5gvfMzd8w3bKNVr3ZJno4MkpgfszfnP0CtHeJ98NjyLRALknThTG0g6XQKTHbWd4YpiCQzNTNwlbaP/FSc/wibR8LvE/fLRfIzZohGsv3BFSdWpNNyASwxs7KZnfXYHWlwtycdiP4l2LIRjrV7R+ykY=;59pr+dwXEqeX2GBe7n75bQ=="
 ---

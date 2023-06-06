@@ -55,20 +55,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Robotics and automation dialogue in London takes off with new conference"
-    excerpt: "Secretary of State for Science, Innovation and Technology, Chloe Smith, spoke at Conference on Robotics and Automation held in London"
-    publishedDateTime: 2023-06-01T10:19:00Z
-    webUrl: "https://www.openaccessgovernment.org/secretary-smith-ignites-robotics-and-automation-in-london/160072/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 53
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/05/iStock-1443019955-scaled.jpg"
-        width: 2000
-        height: 1124
-        isCached: true
 
 secured: "Uaj15+FfrZT79PwKLfP7t9BFbSN7/9JP326iZ5CHrmwcQVyAXbO3IQ370V/L9fCPR0sJX8OAUSrFftPMjzJeUBwZ4olT5BYkT+OumhKq2TnCgdtkR4PTTt7eAel4LKCVEY3JLpge5jaIeWYdFQwDHnYI2gKc4BYey01oTIpWfUq+8vps3qom3kZQbGQb0IHjxWJfglKeMKIrnYmTQOq0UtbckkAANjMLA7qgGAzX9pbvGwq5YK8NfcQ4XoDXDuAMOxo3l8IujkAs555uhxziJWUnL1J2ST+AM/sxifbulr8NuB/95uLx4+vBu+Y2ExVTXL0lnWGUSsXvL66YSSkozY9Mrdqs5hcuIACPa6vhNY0qje2mZf1tbO+x/FyIE+vgtbpcz9nzSusVASqeXaALpBhNUck/yYykbU97xG0Wzq6o0OrlgBI7tAvAOitszAxWbRH6p33ZW+AcmASBbI2yQarP4C7arcM9DeG9VzhmMuLuxqpw+HrgMQmFOfzF3WBM15gbTD0MN/68jxf9FYTk3w==;SxhMvx0slHdkaOL/Dipxhg=="
 ---

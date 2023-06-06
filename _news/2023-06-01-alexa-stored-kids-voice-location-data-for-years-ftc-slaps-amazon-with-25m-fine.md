@@ -9,7 +9,7 @@ ampWebUrl: "https://thegrio.com/2023/06/01/alexa-stored-kids-voice-location-data
 cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2023/06/01/alexa-stored-kids-voice-location-data-for-years-ftc-slaps-amazon-with-25m-fine/amp/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon fined $25M fine for violating child privacy with Alexa voice assistant"
-    excerpt: "Separately, the company agreed to pay $5.8 million in customer refunds for alleged privacy violations involving its doorbell camera Ring."
-    publishedDateTime: 2023-06-01T10:45:00Z
-    webUrl: "https://www.syracuse.com/us-news/2023/06/amazon-fined-25m-fine-for-violating-child-privacy-with-alexa-voice-assistant.html"
-    ampWebUrl: "https://www.syracuse.com/us-news/2023/06/amazon-fined-25m-fine-for-violating-child-privacy-with-alexa-voice-assistant.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2023/06/amazon-fined-25m-fine-for-violating-child-privacy-with-alexa-voice-assistant.html?outputType=amp"
-    type: article
-    provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 41
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UA22MMHJYBGE7FDLHIVRFJU6MM.jpg"
-        width: 4761
-        height: 3174
-        isCached: true
   - title: "Amazon to pay $31 million in fines for Alexa voice assistant and Ring camera privacy violations"
     excerpt: "Amazon has agreed to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids' voice and location data recorded by its Alexa voice assistant."
     publishedDateTime: 2023-06-01T16:28:00Z
@@ -100,20 +84,6 @@ related:
     quality: 10
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/9/1e/91e73e73-d2cd-5ff4-91a6-62f65e046f20/6478cbbf7da09.preview.jpg?crop=1721%2C904%2C8%2C160&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amazon to pay $31 million in privacy violation penalties for Alexa voice assistant and Ring camera (copy)"
-    excerpt: "Amazon said last month that it sold more than a half-billion Alexa-enabled devices globally and use of the service increased 35% last year."
-    publishedDateTime: 2023-06-01T17:45:00Z
-    webUrl: "https://cumberlink.com/business/technology/amazon-to-pay-31-million-in-privacy-violation-penalties-for-alexa-voice-assistant-and-ring/article_0505659e-00c5-11ee-8848-53f57ef4a334.html"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: cumberlink.com
-    quality: 7
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/0/50/0505659e-00c5-11ee-8848-53f57ef4a334/6478cbb026134.preview.jpg?crop=1721%2C904%2C8%2C160&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

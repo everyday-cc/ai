@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-an-endless-oppo
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-an-endless-opportunity-or-an-existential-threat-1032368956"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

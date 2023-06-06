@@ -231,6 +231,15 @@ related:
       name: Times Union
       domain: timesunion.com
     quality: 17
+  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
+    excerpt: "Automation Anywhere, the #1 leader in cloud-native intelligent automation, today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and generative AI innovations to market."
+    publishedDateTime: 2023-06-01T16:13:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/01/9824889.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "jCQ2zIIxvC4Yv6g6btoJy3Vjg0X5UqTmIgbl+AD9Nefxz+Id6RNz2NNjhs+KVorPY2/MjPaPQLkutKuGopu0/Vt3maBUyLOLML5lHHv3ojycvzkt5xKv4AB+XEAUVswsEjDphzhREDyQeuyRleQiNJsddcdbUbUit15utsyBdxzHL1gpSyZWb40SToFytZRfVJG3Op22Pmhe321USzsn0cxdHXU+iWv0JESESByaTDsX1COlR5znl490bo41NgmyTE9crPhS6XS6BfP344nw4K7cktLF8a6GCKjkS+kc8wX/xJsMPd1ZeJRJe/tY3QrT29Vw9M4mV7mVInCVlCQueIZ9SD1gTHJKMsVt+Mr2FYuao1LnpA9XJC2MAiEoBDR7z8OBjgXBV9HlIvqJ99Y4q1nipVwkyhiWe8fk4J1LZOiTH7qca6v/OAdIGvOyhxO6xzh0HrbKpqTJd/O7k5b6ptup2ZRWOrVUp0k7nqcmFCSObRMnqhkt6GgFahGn2ASwIxYgxDN+lN2kLAy2BNjvbw==;ZY56UdL3UagLMRYScHRAQg=="
 ---

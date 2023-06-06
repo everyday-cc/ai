@@ -54,58 +54,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-05-snowflake-cio-identifies-ai-focus-in-2023-data-trends-report.md",
-      "title": "Snowflake CIO identifies AI focus in 2023 data trends report",
-      "excerpt": "Snowflake CIO optimistic about impact of AI on data trends, with Snowpark framework and acquisitions of search vendor Neeva and Streamlit.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/snowflake-cio-identifies-ai-focus-in-2023-data-trends-report/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/snowflake-cio-identifies-ai-focus-in-2023-data-trends-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/snowflake-data-trends-2023.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-05-getting-started-with-mqtt-in-azure-event-grid.md",
       "title": "Getting started with MQTT in Azure Event Grid",
       "excerpt": "Those events could also be stored in Azure Data Lake, where analysts can use tools like Data Explorer to extract insights from device data and use that data to train machine learning-powered control systems. Azure Event Grid is an important component of ...",
@@ -190,6 +138,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-04-is-c3ai-stock-a-buy-now.md",
+      "title": "Is C3.ai Stock a Buy Now?",
+      "excerpt": "However, intense competition from other similar AI services -- including those that are already integrated into leading cloud platforms like Amazon Web Services (AWS) and Microsoft Azure -- could also be limiting C3.ai's pricing power and forcing it to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/04/is-c3ai-stock-a-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/04/is-c3ai-stock-a-buy-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/734665/android-head-shattering.jpg",
+          "width": 2000,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

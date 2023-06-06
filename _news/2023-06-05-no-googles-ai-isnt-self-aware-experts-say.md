@@ -7,7 +7,7 @@ originalUrl: "https://www.thetechedvocate.org/no-googles-ai-isnt-self-aware-expe
 webUrl: "https://www.thetechedvocate.org/no-googles-ai-isnt-self-aware-experts-say/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1500
     height: 844
     isCached: true
-
-related:
-  - title: "Google’s AI-powered search experience is way too slow"
-    excerpt: "The worst thing about Google’s new AI-powered search experience is how long you have to wait. Can you think of the last time you waited for a Google Search result? For me, searches are generally instant."
-    publishedDateTime: 2023-06-04T12:00:00Z
-    webUrl: "https://www.theverge.com/23746083/google-ai-search-generative-experience-slow"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
 
 secured: "+Zai1+PgSlsBvNZRHJZkAdjOLUgUYR2ZcKpltRkTrDGfpFg7zMMjXXoKFJ1KTH4p7cg34qVEr/aEZQ9sJ0v+GHaTqjd0amlOyQrpvr8BvgOE4CXPux0cvMND+Jc6B12Uy548eKRcRLNOsMWobvzmDF6beeemOz4Gqmed6ZP2RwfBSqlHVa7z7WcCwHOgMbz+5FOJFdxNYxwMNJvI6MJe/GdG4TO0TM/zIU6MfsCHTJx/tmvLIChYYYqrVMxCiCXpUqpb6mc81bNE+LHUUjaUVP2SBtBdRbA8jSQT7BdhRSzu0JAC3AjINprwsHDWrA6rySVBMbNavPtqeZAqf1mkL7oR64X4eaAWvNVj2Iv5QT+/dSFjV5HoVo0XSENaPcT3M+UJ68dcZOl+LiuiiTUmvDFUG8zzyqvtClM3mbvhqEyWa4aHX1fuzQQVaylv1he5s1oyF1cxTGPwoLDPmcIwF3pkRgKZWVK96dMPUa2qcauIfwM1+bwaVPlY4QKc3gHrXUHYB8fC22nZ8msLGt7/7A==;ThxNogvkAgf+ayRGdSkfCg=="
 ---

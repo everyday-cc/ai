@@ -40,20 +40,6 @@ related:
         width: 624
         height: 416
         isCached: true
-  - title: "AI to take centre stage at Singapore Fintech Festival"
-    excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi today announced the theme of the Singapore FinTech Festival (SFF) 2023 – ‘Applications of Artificial Intelligence (AI) in Financial Services’."
-    publishedDateTime: 2023-06-01T09:44:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97087/ai-to-take-centre-stage-at-singapore-fintech-festival"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Here’s What You Need to Know About the AI-Themed Singapore Fintech Festival 2023"
     excerpt: "The theme for the upcoming Singapore Fintech Festival 2023 would be ‘Applications of Artificial Intelligence (AI) in Financial Services’."
     publishedDateTime: 2023-06-05T04:05:00Z

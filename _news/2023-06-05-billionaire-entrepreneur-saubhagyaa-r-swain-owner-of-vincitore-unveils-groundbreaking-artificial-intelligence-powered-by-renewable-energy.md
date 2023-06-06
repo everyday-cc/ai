@@ -24,6 +24,17 @@ images:
     height: 420
     isCached: true
 
+related:
+  - title: "Billionaire Entrepreneur Saubhagyaa R Swain Owner of Vincitore unveils groundbreaking artificial intelligence powered by renewable energy"
+    excerpt: "Vincitore's owner, Saubhagyaa R. Swain, a billionaire entrepreneur, has revealed a revolutionary artificial intelligence system that runs on renewable energy. This groundbreaking technology is set to change the game in the world of AI."
+    publishedDateTime: 2023-06-06T03:08:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230605/4081767.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 1
+
 secured: "d+40qtoTRI8Wj8XsiPD6pnTIp5dBvioB3HbCE9Z87C5148E8HMFhaEcCbE1AXDRm5HOG/uiKLWkNFm73vers9LNxqXC+6t1aHzDGXhhCs2KS9ddhb69u2ryUKncq8fK4v913zBM5mv3jQb1bT6uNwGEUek/edx7g53wPZ9+FYzTXuTAahAlJyXioqtxEjPChp1awUgVMsMXp/UaNybSinthIWPOD5nGJqFv+xwBHH1EoMR0oTJR2SQMHTgXI4c33lBUkepRq+vkdGU8Ob7eULcMbyxX/KpZW8RkdaIF1NyXxvThgLUmWRbZzTG40QlURFBrPKzLmDHbnjrR3qO74YfouhIx+Jt0dgKpvglziY7M=;K4/e9zbl9ec1ju5nj6Ciyw=="
 ---
 

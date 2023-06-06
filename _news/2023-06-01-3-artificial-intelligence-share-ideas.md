@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The “death of self-driving cars” has been greatly exaggerated"
-    excerpt: "Seven years ago, hype about self-driving cars was off the charts. It wasn’t just Tesla CEO Elon Musk—who has been making outlandish predictions about self-driving technology since 2015. In 2016, Ford set a goal to start selling cars without steering ..."
-    publishedDateTime: 2023-06-01T11:00:00Z
-    webUrl: "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/"
-    ampWebUrl: "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 74
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IPACE_3-800x533.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "aLpiqSCnLG5ct5zGnm6ffg8T5phZS+2PPXWk0VC6CesXGqS4e2Aj1CrPcoK4YLmmkdb9NJ27+Lx7IXO8IMnzOJ2DAtHBYHu6i4lToseerMemPHoZyI1rDzR/oInDWAyJTFajBciIEKQohZzIJ7EfHw3fr2g8vqlLA+ysynWL8jmMhveB4dkk2Xjrhpv4CiH+r6fU0OhXOmi+ARGxFlwCziLizAhL89DKR0ZAo2kK/w9zFkt4Zy6lEiZc1fjQagPSKs/KxTBoEog4T/gq4kFTWhi5H+nTrHAIXZ5qhFk7T0ebi1m/2Uc8egN1MEvb2rq09pq9agfnsQNZZt5syy1chGD5BHqinK+CjQdaPvGBoE3REc0Lk07bOuhIVlfrFLyO09Fo5ycvx2jPn6YtpXXoB05+udqIuoA1Jp5KYGNocSmMduTIltbzlypaTomf4ytyVOmSXEf88nnYSqhzOr/iskrbJ91tloeuiiCmQzf+orAw4fd1A1K8lhPR6V5+O3amRPjluznb4g9mhmYfIGrgzw==;fKQNv7/jNMO6HPhvjGwKBQ=="
 ---
