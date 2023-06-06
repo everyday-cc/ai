@@ -7,7 +7,7 @@ originalUrl: "https://technology.inquirer.net/124770/neuralangelo-nvidia-ai-form
 webUrl: "https://technology.inquirer.net/124770/neuralangelo-nvidia-ai-forms-3d-models-from-2d-videos"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 620
     height: 349
     isCached: true
-
-related:
-  - title: "Nvidia researchers use AI to turn 2D video clips into detailed 3D graphics"
-    excerpt: "Neuralangelo, a new AI model from Nvidia Research, uses AI to take two-dimensional video clips and turn them into detailed 3D."
-    publishedDateTime: 2023-06-01T13:01:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-researchers-use-ai-to-turn-2d-video-clips-into-detailed-3d-graphics/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Interest in AI causes developer Nvidia to reach $1 trillion in value"
-    excerpt: "As investors piled more capital into Nvidia the chipmaker has become one of the biggest winners of the artificial intelligence boom"
-    publishedDateTime: 2023-06-02T15:54:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273852108/interest-in-ai-causes-developer-nvidia-to-reach-1-trillion-in-value"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1685591446215.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "FnAEQo7r3JdAzXX7floveiBKZ0CwHVw98N6XiQYEFm10JRO0L9IVUdvAEJCMRwQcB1FfLJi5XRlnl/FkvtL/AMSVoA4ShWfLgBck6pKFE+t+XjdYq7IFcwFeYKma05hzUXQ+nhiuo5cCZHwFayI5JMIipw71Q924abpW+P3JNneEgl+ekdCog0H4paQ7tmhfMmie0dJulwkIy4XwbWNYx2gSqTsRCYfMeC7RPzAc1zca4A+7HGQII0pqgHJZXcPybl7l+/tYgt9vopmndotduaZqOA96orxsJTwE9IQaIlcZMuEJ4jREmQHzwqxvi6y9uLXue9c+fKV/CdwRIlveggGKVBUgvBVVlfnvzJQPgNQ=;NfhfstpuOdRBFCmdFsGolA=="
 ---

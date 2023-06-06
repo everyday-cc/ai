@@ -54,22 +54,6 @@ related:
         width: 1125
         height: 900
         isCached: true
-  - title: "AI startup C3.ai’s stock plunges 22% after softer revenue guidance"
-    excerpt: "Shares of white-hot Ai startup C3.ai Inc., which had been hurtling toward record highs earlier this week, took an abrupt U-turn Wednesday. The company’s stock AI, -13.22% skidded 14% in after-hours trading in the minutes leading up to its quarterly financial results."
-    publishedDateTime: 2023-06-01T11:53:00Z
-    webUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
-    images:
-      - url: "https://images.mktw.net/im-789589/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "GPT AI Has Arrived in the Doctor's Office"
     excerpt: "The sheer power of GPT has been transformative for the AI field, with chatbot ChatGPT raising ethical questions because of its human-like communication and sometimes incorrect answers. In medicine, interest in AI has boomed as a way to increase efficiency from drug discovery to patient diagnoses."
     publishedDateTime: 2023-06-05T13:00:00Z
@@ -136,6 +120,20 @@ related:
     quality: 39
     images:
       - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Ground Rules for the Age of AI Warfare"
+    excerpt: "Encouraged by the benefits they already derive from AI-enabled systems, militaries will likely stay their current course and design future systems with growing degrees of autonomy. This push toward AI-enabled autonomy will certainly unlock strategic and tactical advantages, but they will come at a cost."
+    publishedDateTime: 2023-06-06T04:18:00Z
+    webUrl: "https://www.foreignaffairs.com/world/ground-rules-age-ai-warfare"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/05/RTSI6EY8.jpg?itok=9qYdXcBI"
         width: 1200
         height: 630
         isCached: true

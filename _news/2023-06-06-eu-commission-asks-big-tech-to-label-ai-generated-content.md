@@ -1,0 +1,99 @@
+---
+category: news
+title: "EU Commission asks Big Tech to label AI-generated content"
+excerpt: "The European Union's executive body has called on online platforms to detect and label AI-generated content to tackle disinformation"
+publishedDateTime: 2023-06-06T03:17:00Z
+originalUrl: "https://www.telegraphindia.com/world/european-union-asks-big-tech-to-label-ai-generated-content-dws/cid/1942638"
+webUrl: "https://www.telegraphindia.com/world/european-union-asks-big-tech-to-label-ai-generated-content-dws/cid/1942638"
+ampWebUrl: "https://www.telegraphindia.com/amp/world/european-union-asks-big-tech-to-label-ai-generated-content-dws/cid/1942638"
+cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/european-union-asks-big-tech-to-label-ai-generated-content-dws/cid/1942638"
+type: article
+quality: 59
+heat: -1
+published: false
+
+provider:
+  name: The Telegraph
+  domain: telegraphindia.com
+
+topics:
+  - Facebook AI
+  - AI
+
+images:
+  - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1686021351_eu.jpg"
+    width: 900
+    height: 600
+    isCached: true
+
+related:
+  - title: "EU asks Big Tech to label AI-generated content"
+    excerpt: "The European Commission has called on online platforms to detect and label AI-generated content to tackle disinformation. Can the EU keep pace with tech developments?"
+    publishedDateTime: 2023-06-06T02:54:00Z
+    webUrl: "https://www.nationalheraldindia.com/world/eu-asks-big-tech-to-label-ai-generated-content"
+    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content"
+    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content"
+    type: article
+    provider:
+      name: National Herald
+      domain: nationalheraldindia.com
+    quality: 59
+    images:
+      - url: "https://gumlet.assettype.com/nationalherald%2F2023-06%2F0ca0dd0d-d9f8-454c-af72-aa1acc943db1%2F65830692_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true"
+        width: 1200
+        height: 631
+        isCached: true
+  - title: "Devon tech start-up delivers an inspired AI-assisted content platform"
+    excerpt: "A Devon tech start-up has launched an AI-assisted content creation platform for online writing. Barnstaple-based Conturae, which launched this month, has harnessed AI technology and collaborated with"
+    publishedDateTime: 2023-06-06T02:56:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32729630/devon-tech-start-up-delivers-an-inspired-ai-assisted-content-platform"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32729630"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32729630"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Europe calls for tech companies to fight disinformation by labeling AI-generated content"
+    excerpt: "A top EU Commission official said Monday that the ability of a new generation of AI chatbots to create complex content and visuals in seconds raises “fresh challenges for the fight against disinformation."
+    publishedDateTime: 2023-06-05T16:26:00Z
+    webUrl: "https://www.pbs.org/newshour/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 48
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/2021-11-02T133529Z_974093607_RC2DMQ9I1JJD_RTRMADP_3_TECH-WEBSUMMIT-e1685982315901-1024x614.jpg"
+        width: 1024
+        height: 614
+        isCached: true
+  - title: "EU wants Google, Facebook to start labeling AI-generated content"
+    excerpt: "The European Commission is worried artificial intelligence tools like ChatGPT will result in more online disinformation."
+    publishedDateTime: 2023-06-05T13:13:00Z
+    webUrl: "https://www.politico.eu/article/chatgpt-dalle-google-facebook-microsoft-eu-wants-to-start-labeling-ai-generated-content/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 17
+  - title: "Google and Facebook urged by EU to label AI-generated content"
+    excerpt: "Call comes amid moves to combat disinformation from Russia, while Twitter is warned to comply with new digital content laws"
+    publishedDateTime: 2023-06-05T12:06:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/05/google-and-facebook-urged-by-eu-to-label-ai-generated-content"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+
+secured: "uprSCUXHagDM/yRhocvYnjOVROu2LMPmsUyeRZ+e4VycozR8boqv+NsapcS6Mtw+YLXxmTvpxEUqJtetRU0sSdWh9HaGIKJKq6UMculDq42OyK3kjAtWni4GZzMik7LhFCxZ9COOLCJsJeHLkdgZX0A68EIMfd48vqWuaAzlt7pXFixGL+8BXjjO/n5EZ9E6dYLF3ueDSQCK+5tSSTeH23tQwxkRE6WHw237oLFN6KhiURRQKHjBCqj5QbcSqYaQG6mGTde/nRlXoviJfXEwsZ/53NnglNzhzweqO64Vlqtq7HH8JIVZmKkQre44tM9TonMqX3yFA9NMRfniOPL6qXrSjokemp9zb0ZsOoXCTPg=;0mHkyvYwuZoibshBYCU2fg=="
+---
+

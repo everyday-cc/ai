@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "How can Congress regulate AI? Erect guardrails, ensure accountability and address monopolistic power"
-    excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountability. Instead of licensing companies"
-    publishedDateTime: 2023-06-01T11:41:00Z
-    webUrl: "https://www.econotimes.com/How-can-Congress-regulate-AI-Erect-guardrails-ensure-accountability-and-address-monopolistic-power-1657017"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 24
-    images:
-      - url: "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png"
-        width: 400
-        height: 330
-        isCached: true
   - title: "Why an octopus-like creature has come to symbolize AI | Commentary"
     excerpt: "The Shoggoth is a potent metaphor that encapsulates one of the most bizarre facts about the AI world, which is that many of the people working on this technology are somewhat mystified by their own creations."
     publishedDateTime: 2023-06-05T13:00:00Z

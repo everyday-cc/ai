@@ -26,99 +26,71 @@ images:
     isCached: true
 
 related:
-  - title: "How Companies Can Determine Potential Generative AI Use Cases"
-    excerpt: "While generative AI presents opportunities for some types of businesses, it creates serious challenges for others."
-    publishedDateTime: 2023-06-01T11:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-companies-can-determine-potential-generative-ai-use-cases/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-companies-can-determine-potential-generative-ai-use-cases/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-companies-can-determine-potential-generative-ai-use-cases/amp/"
+  - title: "EU asks Big Tech to label AI-generated content"
+    excerpt: "The European Commission has called on online platforms to detect and label AI-generated content to tackle disinformation. Can the EU keep pace with tech developments?"
+    publishedDateTime: 2023-06-06T02:54:00Z
+    webUrl: "https://www.nationalheraldindia.com/world/eu-asks-big-tech-to-label-ai-generated-content"
+    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content"
+    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: National Herald
+      domain: nationalheraldindia.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
+      - url: "https://gumlet.assettype.com/nationalherald%2F2023-06%2F0ca0dd0d-d9f8-454c-af72-aa1acc943db1%2F65830692_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true"
         width: 1200
-        height: 800
+        height: 631
         isCached: true
-  - title: "Automation Anywhere collaborates with AWS to empower enterprise processes with generative AI"
-    excerpt: "Automation Anywhere will utilize Amazon SageMaker JumpStart and Bedrock to provide enhanced generative AI capabilities."
-    publishedDateTime: 2023-06-01T15:08:00Z
-    webUrl: "https://venturebeat.com/ai/automation-anywhere-collaborates-aws-empower-enterprise-processes-generative-ai/"
+  - title: "EU Commission asks Big Tech to label AI-generated content"
+    excerpt: "The European Union's executive body has called on online platforms to detect and label AI-generated content to tackle disinformation"
+    publishedDateTime: 2023-06-06T03:17:00Z
+    webUrl: "https://www.telegraphindia.com/world/european-union-asks-big-tech-to-label-ai-generated-content-dws/cid/1942638"
+    ampWebUrl: "https://www.telegraphindia.com/amp/world/european-union-asks-big-tech-to-label-ai-generated-content-dws/cid/1942638"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/european-union-asks-big-tech-to-label-ai-generated-content-dws/cid/1942638"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/AIAAI-VentureBeat-2023-Banner-Ads-1200x675-05312023.png?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1686021351_eu.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "How to create generative AI confidence for enterprise success"
-    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
-    publishedDateTime: 2023-06-04T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
+  - title: "Devon tech start-up delivers an inspired AI-assisted content platform"
+    excerpt: "A Devon tech start-up has launched an AI-assisted content creation platform for online writing. Barnstaple-based Conturae, which launched this month, has harnessed AI technology and collaborated with"
+    publishedDateTime: 2023-06-06T02:56:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32729630/devon-tech-start-up-delivers-an-inspired-ai-assisted-content-platform"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32729630"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32729630"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
-        width: 1200
-        height: 579
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "These Enterprise Generative AI Use Cases are Emerging"
-    excerpt: "Generative AI models are continuously bringing new business opportunities. Generative AI use cases are emerging in enterprises for bringing transformations."
-    publishedDateTime: 2023-06-05T14:45:00Z
-    webUrl: "https://enterprisetalk.com/featured/generative-ai/"
-    ampWebUrl: "https://enterprisetalk.com/featured/generative-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/generative-ai/amp/"
+  - title: "EU wants Google, Facebook to start labeling AI-generated content"
+    excerpt: "The European Commission is worried artificial intelligence tools like ChatGPT will result in more online disinformation."
+    publishedDateTime: 2023-06-05T13:13:00Z
+    webUrl: "https://www.politico.eu/article/chatgpt-dalle-google-facebook-microsoft-eu-wants-to-start-labeling-ai-generated-content/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 61
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/These-Enterprise-Generative-AI-Use-Cases-are-Emerging.jpg"
-        width: 1500
-        height: 844
-        isCached: true
-  - title: "EU wants tech companies to label AI-generated content to counter disinformation"
-    excerpt: "The European Commission is asking all tech companies operating in the European Union to begin voluntarily labeling content appearing on their platforms that is generated by artificial intelligence."
-    publishedDateTime: 2023-06-05T15:41:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2023/06/05/belgium-european-commission-ai-labeling/2541685977357/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2023/06/05/belgium-european-commission-ai-labeling/2541685977357/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2023/06/05/belgium-european-commission-ai-labeling/2541685977357/"
+      name: Politico Europe
+      domain: politico.eu
+    quality: 17
+  - title: "Google and Facebook urged by EU to label AI-generated content"
+    excerpt: "Call comes amid moves to combat disinformation from Russia, while Twitter is warned to comply with new digital content laws"
+    publishedDateTime: 2023-06-05T12:06:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/05/google-and-facebook-urged-by-eu-to-label-ai-generated-content"
     type: article
     provider:
-      name: UPI
-      domain: upi.com
-    quality: 53
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/2541685977357/2023/1/efcaa7dcbf5f6e13a55ae812f09a5488/v1.5/EU-wants-tech-companies-to-label-AI-generated-content-to-counter-disinformation.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "IBM Consulting Creates Center of Excellence for Generative AI"
-    excerpt: "IBM Consulting is establishing a Center of Excellence for generative AI to stand alongside IBM Consulting's existing global AI and Automation practice, which includes 21,000 data and AI consultants who have conducted over 40,"
-    publishedDateTime: 2023-06-05T13:04:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Consulting-Creates-Center-of-Excellence-for-Generative-AI-158894.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 19
-  - title: "The AI Hype Cycle Is Distracting Companies"
-    excerpt: "Machine learning has an “AI” problem. With new breathtaking capabilities from generative AI released every several months — and AI hype escalating at an even higher rate — it’s high time we differentiate most of today’s practical ML projects from those research advances."
-    publishedDateTime: 2023-06-02T12:05:00Z
-    webUrl: "https://hbr.org/2023/06/the-ai-hype-cycle-is-distracting-companies"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
+      name: The Guardian
+      domain: theguardian.com
     quality: 17
 
 secured: "KlagTGv73RozFCCmXwXYirgf3A9Bp4MUHBHH06BfauN6cBC58S36mvmzZIDkswFQvD53Hxr4W6iemfryzi6wIqfUPYSas+2QLiq3PtPat8fKE8g8gEMu767DCultNk+b2spX/GzNjT9JF7chSA5eKzRKN46+c4gxdL44XtyIhsFMJudDuKvSQK3SkbrUYhmE8CWyZZwHyaWlr4yB6hlIUs5+lY+lGEmUp9UjJu3A7JOfTMZu2RahQ/zxOkcklVNs+82iIhXtxgY8hRpQKRkJ+gmNPy5N71VlWqoE0+hytDRRDJA8gqaUNmMmoH4OJRxmz7O+R52tDVyp932GeT05QoevuQJnoD6igiMutYdBJl8=;ouh4G9/RWGp/MeMkQwL71w=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp"
 type: article
 quality: 85
-heat: 195
+heat: 185
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/1a91376e4676a8b5d2eef35632e0a54adcd7f2cf/0_123_4866_2920/master/4866.jpg?width=620&quality=85&auto=format&fit=max&s=b2774c2461091f7b2b6ea13932897571"
         width: 620
         height: 372
-        isCached: true
-  - title: "Guidelines for the Ethical Use of Generative AI (i.e. ChatGPT) on Campus"
-    excerpt: "without dishonestly using the AI systems to cheat? The Campus Ethics team, a group of Hackworth Fellows from the Markkula Center for Applied Ethics, study this dilemma, providing a guide for students to help them use ChatGPT ethically. This guide outlines ..."
-    publishedDateTime: 2023-06-01T12:39:00Z
-    webUrl: "https://www.scu.edu/ethics/focus-areas/campus-ethics/guidelines-for-the-ethical-use-of-generative-ai-ie-chatgpt-on-campus/"
-    type: article
-    provider:
-      name: Santa Clara University
-      domain: scu.edu
-    quality: 53
-    images:
-      - url: "https://www.scu.edu/media/ethics-center/hackworth-fellows/ChatGPT-Image-360x225.jpg"
-        width: 360
-        height: 225
         isCached: true
   - title: "What technology will have the biggest impact on healthcare, per ChatGPT"
     excerpt: "AI and machine learning algorithms will revolutionize healthcare, improving diagnostics, personalized medicine, and drug discovery."

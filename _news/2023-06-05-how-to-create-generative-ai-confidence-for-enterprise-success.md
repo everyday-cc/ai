@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Companies Can Determine Potential Generative AI Use Cases"
-    excerpt: "While generative AI presents opportunities for some types of businesses, it creates serious challenges for others."
-    publishedDateTime: 2023-06-01T11:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-companies-can-determine-potential-generative-ai-use-cases/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-companies-can-determine-potential-generative-ai-use-cases/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-companies-can-determine-potential-generative-ai-use-cases/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Automation Anywhere collaborates with AWS to empower enterprise processes with generative AI"
     excerpt: "Automation Anywhere will utilize Amazon SageMaker JumpStart and Bedrock to provide enhanced generative AI capabilities."
     publishedDateTime: 2023-06-01T15:08:00Z
@@ -90,40 +74,15 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Europe calls for tech companies to fight disinformation by labeling AI-generated content"
-    excerpt: "A top EU Commission official said Monday that the ability of a new generation of AI chatbots to create complex content and visuals in seconds raises “fresh challenges for the fight against disinformation."
-    publishedDateTime: 2023-06-05T16:26:00Z
-    webUrl: "https://www.pbs.org/newshour/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
+    excerpt: "Automation Anywhere today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and"
+    publishedDateTime: 2023-06-01T16:38:00Z
+    webUrl: "https://www.datanami.com/this-just-in/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes/"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 48
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/2021-11-02T133529Z_974093607_RC2DMQ9I1JJD_RTRMADP_3_TECH-WEBSUMMIT-e1685982315901-1024x614.jpg"
-        width: 1024
-        height: 614
-        isCached: true
-  - title: "IBM Consulting Creates Center of Excellence for Generative AI"
-    excerpt: "IBM Consulting is establishing a Center of Excellence for generative AI to stand alongside IBM Consulting's existing global AI and Automation practice, which includes 21,000 data and AI consultants who have conducted over 40,"
-    publishedDateTime: 2023-06-05T13:04:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Consulting-Creates-Center-of-Excellence-for-Generative-AI-158894.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 19
-  - title: "The AI Hype Cycle Is Distracting Companies"
-    excerpt: "Machine learning has an “AI” problem. With new breathtaking capabilities from generative AI released every several months — and AI hype escalating at an even higher rate — it’s high time we differentiate most of today’s practical ML projects from those research advances."
-    publishedDateTime: 2023-06-02T12:05:00Z
-    webUrl: "https://hbr.org/2023/06/the-ai-hype-cycle-is-distracting-companies"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
+      name: datanami.com
+      domain: datanami.com
+    quality: 13
 
 secured: "/1e3VDiVobKqzccp8s9GFBlm9PL/DvltET626MrbCZMjEVO2kmutXnN9EhyHXQg5u1FFytIsm/W+XHTiXiJwzGzYN88dy4m7mYMR5xCevG25AGNzW2QtMxI5S4MniTC6tb4F+E9XE3ar7LtlMxOAdIfkmIYGFY45C2ccir7HMNgZ9g8OOq2Q0ZulD3AmbQG9jdgMpb44s65z0A3+WR/j9pKoHyjuCSRcD2XbjIjFkrgXrL8J3iKmXtV9e6YzGHLo0k+LjB1xeqnqjZYl7MPxiD/S3YmKXkPwPnqduROmIrRLVprkaHaQAKteJiz/3gZD2fJHzNpig9ItYo3DsBa7pxHQxUFrjUJ5ULBkc+44v7zkKqCZrTiL0heQz1eTeu8blxyAS2vW/vfK1j4UC3rtgvEk+7tjntVVufs5XoIb433zjBIO5WgT7Ph8sgdBBzEP9PriBNhXtKlWx6OB1lYDQdE7CGMeKw2TaIWeKbPpSUY1qE20nUc85bhU/uQHZI8rK0ygYIol0PFoH/abV4ymvQ==;iRRQLB7dhZGBc1vG6+r/2g=="
 ---

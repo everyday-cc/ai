@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-
 webUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/"
 type: article
 quality: 114
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -235,15 +235,6 @@ related:
       name: Times Union
       domain: timesunion.com
     quality: 17
-  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Automation Anywhere, the #1 leader in cloud-native intelligent automation, today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and generative AI innovations to market."
-    publishedDateTime: 2023-06-01T16:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/01/9824889.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "LAWrHK4IMve0/ezrChIUh3HMTGBk3QGJd37XGUKaF4l0gYxHagCDklVeoE/Ytv4LSXgcnsnSWanL+i8DejrYqQ4vgty8sJhyjewyFkl9fSeEc64zknXRfXjNEYqASWuye68qKRbcauyIT724hiiKFlkxiXwSD/zasrc/lTxjOhTIWxQeQir09IBOGLOOPPkX8HGF/NXL+xn9pZU5pfuNAJOvyXgrzKLJjAhdpKoof7NjFL+hyxOrckg/uLByoSxd6zLrQVVxEPpNj9Vw5lbysQbf6JQq1bn1QZdbrmqaC9BW+0UAi8W02cLErFTGH2e4u8QWFEX/yR6RGtori9d2oipA2XyYqxc2wIELSdRLUSg=;SuYle5+2ehd5HfI8FuaWrA=="
 ---

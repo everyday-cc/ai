@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "How can Congress regulate AI? Erect guardrails, ensure accountability and address monopolistic power"
-    excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountability. Instead of licensing companies"
-    publishedDateTime: 2023-06-01T11:41:00Z
-    webUrl: "https://www.econotimes.com/How-can-Congress-regulate-AI-Erect-guardrails-ensure-accountability-and-address-monopolistic-power-1657017"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 24
-    images:
-      - url: "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png"
-        width: 400
-        height: 330
-        isCached: true
 
 secured: "vuPFOedjqeeFab0Pdjnd65pGNG3vlskQP2O3WHp54m2r/wwb8/p1gU5wiRjH0fQovX2ONS8+aXfm3CBVX/6n2mOh7PJNqDD8qgSQcjSJC+E9X1RMhuc5bHF4uJIiyWC035GBPItbz+7Md/ld5tRjj4bk+2tCt4YZPEMpUt/w4YlIElNfrGJwqlrjKfDS2OKRYNmpBIx2ECOV4aN7fSIw7fIsvsXzAG0xXm3aAe3mupXhmIDGqxzyEssfTnFvL9Uc1IAQ8v41WSpGw1LUVR0Ua2MF43Dmg5cFSNsA6mY+EV7eR2qnbY3m+f77BZNNdzvATX1A/3fJW3oigBftXIdWn2FaORoV6wCnzDZXkKbBbhTBBydH4o0BNdPqWXhnRcHf4sqeuX7u8MmgmwoGbbr2Jmvs+dbGpAWoKmbvvJM29cTT6oSy7mQjhVeQKjdRLDY/779JdEpADgF/JzK8G0c6Nvv3yiMu1g35QmdeTMvVNfnjqcotXHLt/PPD9QVX5lCHE90rEGjcL4ak4GEHMBeUSg==;R6z2Df7h9skle9Kf/6JxlQ=="
 ---
