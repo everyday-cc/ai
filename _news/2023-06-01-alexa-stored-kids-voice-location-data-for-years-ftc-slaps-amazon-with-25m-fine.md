@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Amazon to pay $31 million in privacy violation penalties for Alexa voice assistant and Ring camera"
-    excerpt: "Amazon will pay more than $30 million to settle alleged privacy violations involving its voice assistant Alexa and its doorbell camera Ring. The Federal Trade Commission voted to"
-    publishedDateTime: 2023-06-01T14:50:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-technology/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 30
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/6478b2ee51d799.86293546.jpeg?w=1280"
-        width: 1280
-        height: 880
-        isCached: true
   - title: "Amazon to pay $31M in privacy violation penalties for Alexa voice assistant and Ring camera"
     excerpt: "Washington – Amazon agreed Wednesday to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids' voice and location data recorded by its popular Alexa voice assistant."
     publishedDateTime: 2023-06-01T15:08:00Z
@@ -84,20 +68,6 @@ related:
     quality: 10
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/9/1e/91e73e73-d2cd-5ff4-91a6-62f65e046f20/6478cbbf7da09.preview.jpg?crop=1721%2C904%2C8%2C160&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "FTC and Amazon negotiate $25 million fine over violations of child privacy involving Alexa voice assistant"
-    excerpt: "Amazon kept the kids’ data to refine its voice recognition algorithm, the artificial intelligence behind Alexa, which powers Echo and other smart speakers, Bedoya said. The FTC complaint sends a message to all tech companies who are “sprinting to do ..."
-    publishedDateTime: 2023-06-01T14:21:00Z
-    webUrl: "https://www.adn.com/nation-world/2023/06/01/ftc-and-amazon-negotiate-25-million-fine-over-violations-of-child-privacy-involving-alexa-voice-assistant/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 6
-    images:
-      - url: "https://www.adn.com/resizer//QjgWcAJ75nTessRLfBgeVPJwo-A=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/NOT7D6CYW57HOJIU6ODJDFVKVE.jpg"
         width: 1200
         height: 630
         isCached: true

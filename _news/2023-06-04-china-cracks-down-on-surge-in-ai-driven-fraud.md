@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/china-cracks-down-on-surge-in-ai-driv
 webUrl: "https://www.wsj.com/articles/china-cracks-down-on-surge-in-ai-driven-fraud-c6c4dca0"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Reflections on artificial intelligence"
-    excerpt: "When ChatGPT, a large language model artificial intelligence (AI ... It is not difficult to understand the main ideas of a neural network model being the platform of ChatGPT and other large AI models. It is a vast tangle of networks of input and output ..."
-    publishedDateTime: 2023-06-01T16:05:00Z
-    webUrl: "https://businessmirror.com.ph/2023/06/02/reflections-on-artificial-intelligence/"
+  - title: "AI-Driven Security Processors On A Single Chip"
+    excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
+    publishedDateTime: 2023-06-06T07:00:00Z
+    webUrl: "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip"
     type: article
     provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 39
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 71
     images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/04/Column-box-Eagle-Watch.jpg"
-        width: 1400
-        height: 735
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg"
+        width: 1024
+        height: 787
         isCached: true
 
 secured: "bNdIASSdeHbO8Ofn+9apcTfmqwkzvIj3G85rkHOWVRkysbe+gfeDlIXDC1T8nhLndTdEIH7Cv5N/vPm2BqOkoF3cRnK5++6V0PX+0byj5+Cz9RBOgnvJMPdMOnRNJOoLCwFI00wEyui30J1jeesIb0oXXrMR4vvWmTVORS7fzkRyuanN6qCTpiZh33P18NxoqQV60L0WmW8G6zdUjiIfhPy5/brDbY4sd7/PiaHi3dEQntl9L7+iIw5Uc8WFzJIbp79bn7QBKtqtQH2AIFPRi6gYzVZEJlusnTdNwuHD7tkS8Dd5dUQ5/nsjRlzA+a4trbrvbth4A7G2tsvCFYUAJrNRuyz9EG5N00PKUo1JAkJ7//W4y7WIIMsyk3NiwODPeg5+axAGrQQM0ErWu6G2mf5laQnC+TZrlyR6uZ+WCdUc06BhxY9MSZYXOu/OcjFUY73ZhbPW3WfeyDHf9RDNLIrf5TKndkbKpymOy4Pt8dxwp52h+EaRU18tbsMSPnV8adcoQD7dvXk3pzQTlmRUrA==;Se7hAMhP+9vGCbqrcvR3XQ=="

@@ -100,6 +100,22 @@ related:
         width: 1200
         height: 626
         isCached: true
+  - title: "Do chatbot avatars prompt bias in health care?"
+    excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That's what University of Colorado School of Medicine researchers are asking as they dig into patients' experiences with the artificial intelligence (AI) programs that simulate conversation."
+    publishedDateTime: 2023-06-06T07:58:00Z
+    webUrl: "https://medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatbot-2.jpg"
+        width: 1920
+        height: 1358
+        isCached: true
   - title: "Yellow.ai's generative AI-powered Voicebots and Chatbots Now Available on Genesys AppFoundry"
     excerpt: "Yellow.ai combines with Genesys marketplace of solutions, enabling enterprises to deliver autonomous, human-like experiences with its Dynamic"
     publishedDateTime: 2023-06-05T15:00:00Z
@@ -109,15 +125,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "Do chatbot avatars prompt bias in health care?"
-    excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That’s what University of Colorado School of Medicine researchers are asking as they dig into patients’ experiences with the artificial intelligence ..."
-    publishedDateTime: 2023-06-05T23:26:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/991526"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
 
 secured: "UlI2OgF54DMrRZejANw6ztgLsVwKMclGpNeDte8/9ZGnLkJlGv40dXEk4mmUpuXBncmJAw22a4kcxV4lq43BySn+Oar6/cRSwaxaNvogSWFAmK6hKiGrUjuhTxRp++kk3HNtttZvuCjbyCt1ks9PKGXziNJ7puvZaOfbDCKBhDOW75gNPaYLjeIL8NrKvngD6EtdxeGQcEs5m5XnL7+V3Wvj8/sUu8r1yInjOey8uPVlRcHcj4i2rRb/lnAfOquLBoO8KCzKLoA+KGl8hi+0DEulaPr9jQXNWekPfv9SrhuFKi4HEH2qP2+wCRY6DhuKocZm+msVc2wF2sJIEwEytkbxfWu/wE41vgJA/YW7pYgdr8mmApypQGq+xnKUXy4DBXAyP/lUYfgfyG/q1acKzUhle/Xc+C79VOk+FuZR5IUXPYoXcwmTp1OrHuOk3SZSGBwqWKdoXVGp0mO80rAL7QlEwnPdsDoTvKy7zytwRMCpQt46PWci1ODzrL2wNhIrRRMVfmIBi/3EGfQTdsmSkw==;p4j0xz4FBHImb8GNGtsj9Q=="
 ---

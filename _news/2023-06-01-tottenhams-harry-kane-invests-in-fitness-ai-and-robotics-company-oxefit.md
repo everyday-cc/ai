@@ -77,15 +77,20 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "English soccer star Harry Kane invests in fitness AI and robotics company OxeFit"
-    excerpt: "Kane invested in OxeFit as part of the startup’s oversubscribed Series A2 investment round. The Dallas-based fitness AI and robotics company makes smart gym equipment that offers dynamic resistance and computer vision form tracking."
-    publishedDateTime: 2023-06-01T13:46:00Z
-    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/01/Technology/harry-kane-oxefit.aspx"
+  - title: "Chinese Self-Driving Truck Startup TuSimple Enters Japanese Market"
+    excerpt: "Chinese autonomous driving truck startup TuSimple Holdings announced it has entered Japan to alleviate the driver shortage and aging problems facing the Japanese freight market. TuSimple carried out self-driving tests on the Tomei Expressway,"
+    publishedDateTime: 2023-06-06T07:40:00Z
+    webUrl: "https://www.yicaiglobal.com/news/20230606-12-chinese-self-driving-truck-startup-tusimple-to-enter-japanese-market"
     type: article
     provider:
-      name: Sports Business Journal
-      domain: sportsbusinessjournal.com
-    quality: 44
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 24
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/06/24616890641093.jpg"
+        width: 770
+        height: 510
+        isCached: true
 
 secured: "YtA3sUH4nWh6VIYgS14u+Rxy/YxuTyVEKeJ6OPcGd5sVfgDyV1qWVUMgRE7NAElqJNiPQkldcTikuikElxd12KprJcyXLpVfBIN8lfYl2KojlPTTESU0skddpA4eTmiHbJJF7N38bcH+/R3iObfsf6IGL5+Ka3jMboqbybf8JVOBPZPb1gwDoZc3VN61PXNTjIFBJEwXmlQB2soPlAoJUok/IvuYFR8fAjbybPgpIwxqqBLdDNtXKXkLDGy6xT4AqK+8tjtfUUKUN66YeMZH5GEsancMJMxbNOkUv1fSrDiPrr9ZtL5rJWTn/jeXvnM4YGwWXddtjyX8K4zJOu0b8Cef+x1XPfQ39a3dRBbbckA=;C2zlj3n5Sg5TS4YaX7GRiA=="
 ---

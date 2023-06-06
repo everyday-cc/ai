@@ -110,17 +110,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The impact of AI on the financial services industry"
-    excerpt: "Artificial Intelligence (AI) has emerged as a transformative force in various sectors, revolutionizing the way industries operate and deliver services. One such domain experiencing significant disruption is the financial services industry."
-    publishedDateTime: 2023-06-01T15:01:00Z
-    webUrl: "https://www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/"
-    ampWebUrl: "https://www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
   - title: "Ground Rules for the Age of AI Warfare"
     excerpt: "Encouraged by the benefits they already derive from AI-enabled systems, militaries will likely stay their current course and design future systems with growing degrees of autonomy. This push toward AI-enabled autonomy will certainly unlock strategic and tactical advantages, but they will come at a cost."
     publishedDateTime: 2023-06-06T04:18:00Z

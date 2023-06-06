@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-03-tesla-boosts-referral-program-to-help-sales-1000-off-and-3-months-of-free-full-self-driving.md",
+      "title": "Tesla boosts referral program to help sales, $1000 off and 3 months of free Full Self-Driving",
+      "excerpt": "Tesla is boosting its referral program to help sales at the end of the quarter with $1,000 off and 3 months of free Full Self-Driving for Model S and Model X, and more credits for Model 3 and Model Y.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/",
+      "originalUrl": "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2023/06/IMG_2404.png?w=472",
+          "width": 472,
+          "height": 1023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-03T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-security-news-this-week-ai-is-being-used-to-turbocharge-scams.md",
       "title": "Security News This Week: AI Is Being Used to ‘Turbocharge’ Scams",
       "excerpt": "Plus: Amazon’s Ring was ordered to delete algorithms, North Korea’s failed spy satellite, and a rogue drone “attack” isn’t what it seems.",
@@ -114,7 +167,7 @@
       "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -239,49 +292,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-california-lawmakers-question-dmv-regulation-of-driverless-trucks.md",
-      "title": "California Lawmakers Question DMV Regulation of Driverless Trucks",
-      "excerpt": "State lawmakers argue that the state Department of Motor Vehicles has so badly mishandled the driverless car industry that it can't be trusted to oversee big rigs barreling down the highways autonomously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks",
-      "originalUrl": "https://www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/5038a0a/2147483647/strip/true/crop/2123x1107+0+203/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F08%2Fd0%2Fa701469f4082a8e002171d503954%2Fbiz-auto-driverless-calif-assembly-dmt.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks?_amp=true",
-      "publishedDateTime": "2023-06-02T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -602,7 +612,7 @@
       "originalUrl": "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -1093,7 +1103,7 @@
       "originalUrl": "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1132,49 +1142,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-with-285-cagr-mobile-artificial-intelligence-ai-market-size-is-expected-to-reach-usd-88028-bn-by-2029.md",
-      "title": "With 28.5% CAGR, Mobile Artificial Intelligence (AI) Market Size is Expected to Reach USD 880.28 Bn by 2029",
-      "excerpt": "According to Exactitude Consultancy the Global Mobile Artificial Intelligence (AI) Market Size is expected to reach USD 80.28 Bn by 2029, growing at a 28.5% CAGR of Between Forecast Period 2023 to 2029,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32686506/with-28-5-cagr-mobile-artificial-intelligence-ai-market-size-is-expected-to-reach-usd-880-28-bn-by",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32686506/with-28-5-cagr-mobile-artificial-intelligence-ai-market-size-is-expected-to-reach-usd-880-28-bn-by",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32686506",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32686506",
-      "publishedDateTime": "2023-06-02T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1220,6 +1187,57 @@
         "AI in Healthcare",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-experts-warn-of-the-dangers-of-ai-weigh-in-on-ongoing-eu-regulation.md",
+      "title": "Experts warn of the dangers of AI, weigh in on ongoing EU regulation",
+      "excerpt": "Experts including ChatGPT head Sam Altman suggest AI may pose a risk of \"extinction.\" Altman's OpenAI is among the U.S. tech companies keeping an eye on possible European Union regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-caution-risk-statement/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-caution-risk-statement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-ai-running-relevant.jpeg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

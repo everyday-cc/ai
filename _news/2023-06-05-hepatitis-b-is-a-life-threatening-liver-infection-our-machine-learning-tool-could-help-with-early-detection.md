@@ -41,6 +41,20 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Nigeria: Hepatitis B Is a Life-Threatening Liver Infection - Our Machine Learning Tool Could Help With Early Detection"
+    excerpt: "Analysis - More than 296 million people worldwide live with hepatitis B, a potentially life-threatening liver infection caused by the hepatitis B virus (HBV). Most don't know they are infected, so they don't get medical care."
+    publishedDateTime: 2023-06-06T07:00:00Z
+    webUrl: "https://allafrica.com/stories/202306060066.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 15
+    images:
+      - url: "https://cdn07.allafrica.com/download/pic/main/main/csiid/00621682:90783eac6e281134fd8726fb3e86734b:arc614x376:w1200.jpg"
+        width: 1200
+        height: 735
+        isCached: true
 
 secured: "8k+xte/ecEJclmeYrTmgWsEqzWs9bTYYwMcRubZglTlE9lzFVfD38k+8rOR7LowKU/ubO7W2uSxaCJx4bOlVOsJqp4jFt5/3Jc9jNQqnF0xBA4sfSI5rS9zfU6q6ukHg9Lun9w013uFhcczpu+R7ZYZnX+g0vlZ8Hc/LgAkDu2rQ/iwXPlHIEOP9AzoK+8tMCizG3LtZQpLRLi7kVOfrmCc0NtP5RvW8rIIef+3/TM4/q74ITwx5TFpZAZIUfF85csuwkLNH5944yp8HdPFcD3NuYcGXAArPPQPQVlfpBZTvdPwcYK6OmkJp9QUvDlbO87JHf+fyuRLBUEqPmFTEZXHcQUEE8bfPzPm3JVh8RoLw0Q0P9LWc/kJMpYen5pMfmaJZ4fiGndD+N8LhqffDZ/Og4XiQs3e+gUXKBdUeaq+V6uqXNqXd/rYbRLNEEopBKvevNGj8EiYlMgJAfCx0LCkw9RDSXjMsJR3vDxyMbfSsAzSeFcpG79+k/pFMpK4V+mWruwfavQga8FxaHSyyiQ==;CZXlFUhKl528kRUYEnY3bg=="
 ---

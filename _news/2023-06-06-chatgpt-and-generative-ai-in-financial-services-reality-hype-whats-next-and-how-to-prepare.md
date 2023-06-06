@@ -154,15 +154,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "Auto-GPT an autonomous ChatGPT AI assistant"
-    excerpt: "What is AutoGPT? Its a new automation system that harnesses the power of ChatGPT and is capable of managing projects without user input."
-    publishedDateTime: 2023-06-01T13:27:00Z
-    webUrl: "https://www.geeky-gadgets.com/auto-gpt-an-autonomous-chatgpt-ai-assistant/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "geBE7pbx2VVfgyHO1gvMmNL97voxzvfjSVxwI1J3ATiylPdBpRIuuwB3uUT+8ybU/rtxOOTq9CYd/jf+os+tW+NB4BsAjP6fvZJjgT/TnxSh72MIXums/uCgyyPN0nyc8u8nUTaRGHkPtdl3GOJUZF4M9zx7lfTWTlTNqAZxjkNf4bKNk21hf/kKJJzrnhVB0Hnu7PUB+0C//eIulg/Myl5zO1lInv7NSqryaU5XmRN6bImfqeJzzWPaD0a1run5eelA79JZ2iAbOudTsUFHJ/7jEIx6Hfl8q0odjVy4cAbDNkKTGn6BYBYsCf2wlpqA7x1TV/9ksglRt+480D8Y97+H/491AFj11RBEv0537DaTSmWQ5ONRl1pUGBZPsXzNDBQ07FmflNCk2LihNcTXKasaGvgnFF2cR9oldlo3p6ARVJWOqNIzn4VSg3yIqL7r4hPpq4Tst221ss/24p6tyKkmEg2OgpRATSZJlG3a0wGeVMIkuhplFWVCbN8eBiKKwAwVD/LGu3S6nhnE3wl+AA==;comsnp4xHlvgIjVd/KAS1w=="
 ---

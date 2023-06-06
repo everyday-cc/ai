@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-bu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/amp/"
 type: article
 quality: 97
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Paycor Strengthens Talent Platform with AI-Generated Job Description Feature Powered by Microsoft Azure OpenAI Service"
-    excerpt: "Newest Offering Automates the Process of Creating Job Descriptions, Optimizing the Talent Acquisition Process for Leaders CINCINNATI, June 1,"
-    publishedDateTime: 2023-06-01T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://mma.prnewswire.com/media/1738526/PaycorLogo_v2.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Microsoft bolsters AI capabilities with coreWeave partnership"
     excerpt: "which offers simplified access to Nvidia's powerful GPUs for running AI models. Microsoft's investment in CoreWeave aims to ensure that OpenAI's viral ChatGPT chatbot has sufficient computing power. OpenAI relies on Microsoft's Azure cloud infrastructure ..."
     publishedDateTime: 2023-06-01T21:37:00Z

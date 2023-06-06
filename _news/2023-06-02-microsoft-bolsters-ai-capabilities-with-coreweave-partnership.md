@@ -43,20 +43,6 @@ related:
         width: 624
         height: 416
         isCached: true
-  - title: "Paycor Strengthens Talent Platform with AI-Generated Job Description Feature Powered by Microsoft Azure OpenAI Service"
-    excerpt: "Newest Offering Automates the Process of Creating Job Descriptions, Optimizing the Talent Acquisition Process for Leaders CINCINNATI, June 1,"
-    publishedDateTime: 2023-06-01T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://mma.prnewswire.com/media/1738526/PaycorLogo_v2.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Microsoft’s CoreWeave Deal ‘Adds AI Pressure’ To AWS, Google"
     excerpt: "Microsoft’s AI deal with Nvidia backed CoreWeave for GPU and cloud infrastructure puts pressure on AWS and Google in the generative AI market."
     publishedDateTime: 2023-06-02T16:59:00Z

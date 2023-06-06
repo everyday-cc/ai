@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp"
 type: article
 quality: 85
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -154,15 +154,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "Auto-GPT an autonomous ChatGPT AI assistant"
-    excerpt: "What is AutoGPT? Its a new automation system that harnesses the power of ChatGPT and is capable of managing projects without user input."
-    publishedDateTime: 2023-06-01T13:27:00Z
-    webUrl: "https://www.geeky-gadgets.com/auto-gpt-an-autonomous-chatgpt-ai-assistant/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "pglOB2LyVmR3TO21g/lBByydOcHGaqcSJ+ufX17SEphE7tpXsllIqd6NUS3GxIjw/Ux0nnbhITKbGXzeqGj9m3Bpjt2MWoC0DeIquFDfk2Diokf3pxLoPRvkam6TPf30/5Yl9b360Q3hEJQDaRsbt1lxeiN64YVaoKPFz9kxyR1HCNyfSlPE07nZozT9OoyNPPvlbWe+by/GTw1MHmqIqeS0vcG4pazsWYUJV6CgrnO71XuQIAyli9mudt0ssDPTgbXomfnbnCeMbncH3HVMwZzeBegFPOTKRyA/F3vPtj8ACtz6YC1JeuSj725bAVurwjICKMNdk4pConRKSZHJVJlf/hplNLgpeKHjaAAEirY=;pdAASN2b98pjgmTOKIfvFw=="
 ---

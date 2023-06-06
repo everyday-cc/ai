@@ -9,8 +9,8 @@ ampWebUrl: "https://www.securityweek.com/what-if-the-current-ai-hype-is-a-dead-e
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/what-if-the-current-ai-hype-is-a-dead-end/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: SecurityWeek
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "What are AI chips and why are they in big demand?"
-    excerpt: "Artificial intelligence chips are designed specifically to make building AI systems such as ChatGPT faster and cheaper. They have suddenly taken centre stage in what some experts consider an AI revolu"
-    publishedDateTime: 2023-06-05T12:33:00Z
-    webUrl: "https://www.firstpost.com/explainers/what-are-ai-chips-and-why-are-they-in-big-demand-12694922.html"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 34
   - title: "The AI Hype Cycle Is Distracting Companies"
     excerpt: "Machine learning has an “AI” problem. With new breathtaking capabilities from generative AI released every several months — and AI hype escalating at an even higher rate — it’s high time we differentiate most of today’s practical ML projects from those research advances."
     publishedDateTime: 2023-06-02T12:05:00Z

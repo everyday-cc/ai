@@ -41,20 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "18-wheel robot trucks on freeways? California lawmakers don't trust DMV to ensure big rig safety"
-    excerpt: "State legislators are pushing a bill that would delay the advent of driverless trucks and wrest away regulatory control from the Department of Motor Vehicles."
-    publishedDateTime: 2023-06-01T15:00:00Z
-    webUrl: "https://www.aol.com/news/18-wheel-robot-trucks-freeways-120029323.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 28
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "xN/U7TJEwW/WwRb6Cd1n0H03G3LbCMZz5/b4jNDAW2EMh2GevpvkBPUL7L8ouVeZeTlrDvsgVfZQoFF/vHcuNvlwR85ZOqZ+5PB21RmthwnKE51H9rsNRZo0zwdNNKwLRH6fPEyulcJsU6491O7HIXglBQ+lT6dfNJYLI5cfxpGmHuG2K6RgIb1a0WGGPNXa01jLkI0vUerQtZT69xrVdTHY8RWRurY9Fvo1dJPSltd0RiVZRYFffP5qV2aVGxLBqhXqKCMFEmMWctOUn0VwUfWE17lOAsf13PEFA9g9Y/B28zvB8i+FQl5Lke4yQYJowPSu+vuZStbk1PjjuiHqaLQsfcucEBKFbkmdk28KC0aSFJdiCdtMakY9PlhdYxePkMiWBLb1oSqWY/kUI77VkOhA7wUYy6DL5BZrNnjHhjRb6Mpc9GWvVprDkXkk2WmmvCVg98OfyldZvMaOKEKUGPpw6ZmGnwxbD378o4xR5f1+4Bledbk2GGnjtMGtHhl0xmxpJ+lSl5+G7SNPmzQhcA==;CLrv8oMduoPIxvKy0sH84g=="
 ---

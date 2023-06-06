@@ -153,15 +153,6 @@ related:
         width: 3024
         height: 1701
         isCached: true
-  - title: "Auto-GPT an autonomous ChatGPT AI assistant"
-    excerpt: "What is AutoGPT? Its a new automation system that harnesses the power of ChatGPT and is capable of managing projects without user input."
-    publishedDateTime: 2023-06-01T13:27:00Z
-    webUrl: "https://www.geeky-gadgets.com/auto-gpt-an-autonomous-chatgpt-ai-assistant/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "MPmXjBsUf2OrZi/tiE5zyXSQy5oC6wsLuMPI9lw6SXDtHDLCoI88Ujimvyz2v45X8FlXAwNoYTrqHUi5ysn3NLTR15XPnIOpOwN2+AV4cqreBOXGaK9yo4wQzUKPbGdRFw41MFoCqsEplvkB3gyCTQOB8u+TtBd72GPX3OENPvDLUL5Bl+vCIfEoF7Pzsy3VQtYag1BiRJSERfsMl9wL5218QrRiN7EEOAoN7fSVrCgKhiCDeHaqbIhR3QeLbMNVFNhv+JOXLZn0dYSBp5IBi/bDLXiVOZ6AXbBVgpFBCVf7GW2CaxzMxtqe0lIIJf9UVaOntLUcbCjDA8jw+SHJZJBPG/j7EPLJBDyGIst5UfyL4spYTKZxEHka0yptK6FcnNp7ZLvzknupWeAAJ334yaBvtRqqT88yseP2Q7nH3uzGNXhUDbuEnReowT6S7QXC1n2EoB7z1BFx+TGEH0wvK8oQOc9Un9qN99sgVdKOV5qNPZcmaZP44nBzIDbiBlPE64i8lnRL3V82WV6DDYUbDQ==;HjHEawoCvKoiD9lLe9cLKQ=="
 ---

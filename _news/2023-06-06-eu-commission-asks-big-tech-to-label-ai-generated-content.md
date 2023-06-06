@@ -75,6 +75,20 @@ related:
         width: 1024
         height: 614
         isCached: true
+  - title: "EU wants tech companies to clearly label AI-generated content"
+    excerpt: "The European Commission has asked online platforms to detect and label content created using AI tools in its attempt to tackle disinformation."
+    publishedDateTime: 2023-06-06T06:06:00Z
+    webUrl: "https://www.ibtimes.co.uk/eu-wants-tech-companies-clearly-label-ai-generated-content-1716420"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1715977/artificial-intelligence-tools-chatgpt.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "EU wants Google, Facebook to start labeling AI-generated content"
     excerpt: "The European Commission is worried artificial intelligence tools like ChatGPT will result in more online disinformation."
     publishedDateTime: 2023-06-05T13:13:00Z
@@ -94,6 +108,6 @@ related:
       domain: theguardian.com
     quality: 17
 
-secured: "uprSCUXHagDM/yRhocvYnjOVROu2LMPmsUyeRZ+e4VycozR8boqv+NsapcS6Mtw+YLXxmTvpxEUqJtetRU0sSdWh9HaGIKJKq6UMculDq42OyK3kjAtWni4GZzMik7LhFCxZ9COOLCJsJeHLkdgZX0A68EIMfd48vqWuaAzlt7pXFixGL+8BXjjO/n5EZ9E6dYLF3ueDSQCK+5tSSTeH23tQwxkRE6WHw237oLFN6KhiURRQKHjBCqj5QbcSqYaQG6mGTde/nRlXoviJfXEwsZ/53NnglNzhzweqO64Vlqtq7HH8JIVZmKkQre44tM9TonMqX3yFA9NMRfniOPL6qXrSjokemp9zb0ZsOoXCTPg=;0mHkyvYwuZoibshBYCU2fg=="
+secured: "ImZLhIPiF3iyio9qbY3himyPm9SR8rjgaF+MtNzZ9ben868Qq9xBQYLb+JZPLJKiGK3hxbZV52KxkkNkD7WI/6oW8FKtG9QQogNjEw+dO1DhK3HQSzIbYN36zg2NHMQDWFO4ZKFsdL8JtwcLpFdJnJ53dPLy0ikoJWG0n6HmsJNjjoTYChpAHC57MqvZDrWoNWrw2XhTdt3od3sGLHwgksLGoZ2ipxI7UO+wwd+FFpbFerdKP7+R85u1BSUgcU6+dIJxr6EjIMDP9udd0vi2Z9leXRxkuHP7IQyUe6nnP4LG0xdWY3bAe/p4oz1MLL200NpYpBBPJdLfciIy/xyi4PZ+F7pT+ZG8bxySJu7wMRhIn99IBHItfxsUqdJOPeDa6SHtxpyW0x7Ms57dyXYsiDOMuoNKGrwloFVpbvD/iolLnZkdYvIzh/7zkqJVZ3010L5Eb/J9pMVLZNkLagMlZ8hlNg1e9jz505T7qqOeMOUiEEU8kUXWA2tqVUpEdyokh6ApYKPYdkzt8SO8S4uTfg==;M2hyv1hbJyqYxgJIX4P2eQ=="
 ---
 

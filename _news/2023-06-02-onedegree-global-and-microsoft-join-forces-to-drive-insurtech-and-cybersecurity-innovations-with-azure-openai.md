@@ -52,15 +52,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 54
-  - title: "CrowdStrike to accelerate development of AI in cyber-security with AWS"
-    excerpt: "These include both cyber-security-related generative AI applications, as well as cloud-plus-cloud security solutions."
-    publishedDateTime: 2023-06-01T13:07:00Z
-    webUrl: "https://www.voicendata.com/crowdstrike-to-accelerate-development-of-ai-in-cyber-security-with-aws/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 51
   - title: "Today’s Cyber Threats Require Modern Cloud Network Security"
     excerpt: "In the past year, network security failures have led to downed websites, delayed flights, unavailable video games, and much more. Such incidents can erode customer, investor, and board member trust and result in the types of headlines you don’t want."
     publishedDateTime: 2023-06-02T13:02:00Z

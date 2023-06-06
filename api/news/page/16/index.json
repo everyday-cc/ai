@@ -2,110 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2023-05-24-ai-startup-figure-raises-70-million-for-humanoid-robot.md",
-      "title": "AI Startup Figure Raises $70 Million for Humanoid Robot",
-      "excerpt": "AI robotics startup Figure raised $70 million to help develop a humanoid robot that it believes could one day take on a wide range of tasks traditionally performed by people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figure-raises-70-million-for-humanoid-robot",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figure-raises-70-million-for-humanoid-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQfH1gdaW.uM/v1/1200x667.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-generative-ai-podcasts-are-here-prepare-to-be-bored.md",
-      "title": "Generative AI Podcasts Are Here. Prepare to Be Bored",
-      "excerpt": "Inside the strange world of podcasts made by artificial intelligence, where even creators aren’t sure who wants to hear robot chit-chat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/?utm_social-type=earned",
-      "originalUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/?utm_social-type=earned",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/646d44e7c3f2cf2daf39faa2/master/pass/Rise-Of-AI-Podcasts-Culture-1347076482.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-podcasts-boring/amp",
-      "publishedDateTime": "2023-05-24T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-05-24-prediction-this-cathie-wood-ai-stock-will-be-1-of-the-top-5-largest-companies-by-2030.md",
       "title": "Prediction: This Cathie Wood AI Stock Will Be 1 of the Top 5 Largest Companies by 2030",
       "excerpt": "Moreover, if Tesla achieved this, it could become one of the top five largest companies. As conditions stand now, Tesla's market cap already exceeds $570 billion, making it the ninth-largest company in terms of market cap. In today's market, its market cap would have to exceed $1.2 trillion to become a top-five company.",
@@ -1209,6 +1105,83 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud.md",
+      "title": "Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud",
+      "excerpt": "Red Hat, Inc. today announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/",
+      "originalUrl": "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-white-house-unveils-new-efforts-to-guide-federal-research-of-ai.md",
+      "title": "White House unveils new efforts to guide federal research of AI",
+      "excerpt": "FILE – President Joe Biden speaks in the East Room of the White House, May 17, 2023, in Washington. The White House has announced new efforts to guide federally backed research on artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/",
+      "originalUrl": "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/05/646d4436e3d464.95529234.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/",
+      "publishedDateTime": "2023-05-23T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     }

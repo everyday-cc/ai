@@ -41,40 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
-    publishedDateTime: 2023-06-04T04:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/jun/04/ai-chips-are-hot-tfp/"
-    type: article
-    provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 48
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/06/03/AP23152002685626_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "AP: AI chips are hot. Here’s what they are, what they’re for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed"
-    publishedDateTime: 2023-06-03T01:02:00Z
-    webUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
-    ampWebUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
-    cdnAmpWebUrl: "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
-    type: article
-    provider:
-      name: 92.7 WMAY
-      domain: wmay.com
-    quality: 46
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "AI chips and their leading designer, Nvidia, are now at the center of what some experts consider an AI revolution that could reshape the technology sector and possibly the world along with it."
-    publishedDateTime: 2023-06-01T18:30:00Z
-    webUrl: "https://omaha.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_b29fedbe-109c-55f5-96f5-b3b3303c2067.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 28
 
 secured: "zJ68iYZVRHpDTOXo15NGHFaHL3r0gpQPlhyNBPD0atp9oqKKc+UfWK5nQQ3+EVaPnJxXpXcMU2zCK6Uh1LNB7f7Mv/gDhujtvnFBbC9sbrvmuS2SqFo5PkinR543AZhB2tWiYQIneIedGGIDIsIZ6YdSoVs1VjrjcBS70esFYOuRSjnuFiTHUqJCSr9JAnDKz0eapISwPCfkyFoaQeK0194vniYq8aptC3ZcxwmvysSldVAN+OLwd3Xz/dLOKsi15hIe7yo90ZTOC+odziko1WDuPCz6IGpeMulnt52xkNQab3mNSBAJWqSiJT/DDIevaocrRM8/m9d+y3iEBJFIKSeODKTlihnIlfztE+kP8R7gejYsetzGYSR412ufHoZn7Toa0sbH+FeWpzyOcXNt6z02JFYUzei4ipTa23idv11c0iuereelQdn+x8tlKpXZL0f1CZGCW1ipMbSkcfe4TojnvD4ZS6dzT4gX3WXEM9tVxim2oKmmwPIJdncyD6UVD31aByfDnsc8dZwRh+66YA==;/Dj7/KZOwjJeMGJmpco+/Q=="
 ---

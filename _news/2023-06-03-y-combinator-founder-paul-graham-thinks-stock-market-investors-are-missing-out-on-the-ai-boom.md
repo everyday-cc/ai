@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/paul-graham-thinks-stock-market-in
 webUrl: "https://www.businessinsider.com/paul-graham-thinks-stock-market-investors-missing-out-ai-boom-2023-6"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,15 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "AI Throws Wrench in Bear Market Indicators"
-    excerpt: "Stock-market bulls are hoping the rally among artificial intelligence-linked stocks will bring an end to the bear market while averting a recession. A recession typically starts [before stocks hit the"
-    publishedDateTime: 2023-06-01T13:15:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-01-2023/card/ai-throws-wrench-in-bear-market-indicators-uq5DT63xZohOaFjk4v86"
+  - title: "‘Fear of missing out’ drives retail investors to ride AI wave"
+    excerpt: "Retail investors have increased their exposure to technology stocks after missing out on the market rally driven this year by artificial intelligence, with many having preferred cash or low-risk money market funds."
+    publishedDateTime: 2023-06-06T04:00:00Z
+    webUrl: "https://www.ft.com/content/6cc9c9d5-7006-43c9-8cb0-147a74031402"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
+        width: 619
+        height: 376
+        isCached: true
 
 secured: "PJ4XUZ/ZOyZym1AVpnGzd50rP9GjLwuEtj454z5H+ljI0khryOdAeoAMmIzEMwoEntop/rVBCHkxOtT4FdIvySZVAUfC1S9LVMX7kkFWbiI7xoqoKyjmaiIBLgF2cyerSMtOtCNnZJveN1th26XoCB3QCb5XWZiRn8gEXOPcb0uO92ZLMAXe3y2ARgN+YwbmXRP4i5+M3/FTjxkReAk//omivcPATWlNJ6RFkS+pqUSuU0eUvjwSTcGZEEvy5JhfgmcrSn//2N7vinDmKTTNuEJAcn27K9dnIo5deqZleWkJvaQ9PxcBQ+xAlhcT1sFobSS5/HNFpDPf8YdWDxfB5UN0dQxcK4uinn3+oPy+27k=;xikxikQmF69EOInswetQJg=="
 ---

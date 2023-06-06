@@ -2,59 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-04-27-artificial-intelligence-quiz-how-well-do-you-know-ai.md",
-      "title": "Artificial intelligence quiz! How well do you know AI?",
-      "excerpt": "How well do you know the basis of artificial intelligence? Take this quiz and find out what you have knowledge on regarding AI and what you might need more education on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-quiz-know-ai",
-      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-quiz-know-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/aipic.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-04-27-this-self-driving-lab-learns-to-make-nanoparticles-all-on-its-own.md",
       "title": "This self-driving lab learns to make nanoparticles all on its own",
       "excerpt": "Commun. 2023, DOI: 10.1038/s41467-023-37139-y). Researchers have previously combined artificial intelligence and automation to build self-driving scientific instruments to navigate the expansive r ...",
@@ -1356,6 +1303,58 @@
         "name": "Design News",
         "domain": "designnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-best-indian-artificial-intelligence-stocks-2023.md",
+      "title": "Best Indian Artificial Intelligence Stocks 2023",
+      "excerpt": "While investing in the stock market, veteran experts often advise investment in futuristic stocks that have a solid market share and the potential to provide significant gains over a long period of time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/investing/best-indian-ai-stocks/",
+      "originalUrl": "https://www.forbes.com/advisor/in/investing/best-indian-ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/04/pexels-alex-knight-2599244-1-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

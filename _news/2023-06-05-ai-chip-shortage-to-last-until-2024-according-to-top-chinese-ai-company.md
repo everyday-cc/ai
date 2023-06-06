@@ -78,15 +78,20 @@ related:
       name: Sports Business Journal
       domain: sportsbusinessjournal.com
     quality: 48
-  - title: "English soccer star Harry Kane invests in fitness AI and robotics company OxeFit"
-    excerpt: "Kane invested in OxeFit as part of the startup’s oversubscribed Series A2 investment round. The Dallas-based fitness AI and robotics company makes smart gym equipment that offers dynamic resistance and computer vision form tracking."
-    publishedDateTime: 2023-06-01T13:46:00Z
-    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/01/Technology/harry-kane-oxefit.aspx"
+  - title: "Chinese Self-Driving Truck Startup TuSimple Enters Japanese Market"
+    excerpt: "Chinese autonomous driving truck startup TuSimple Holdings announced it has entered Japan to alleviate the driver shortage and aging problems facing the Japanese freight market. TuSimple carried out self-driving tests on the Tomei Expressway,"
+    publishedDateTime: 2023-06-06T07:40:00Z
+    webUrl: "https://www.yicaiglobal.com/news/20230606-12-chinese-self-driving-truck-startup-tusimple-to-enter-japanese-market"
     type: article
     provider:
-      name: Sports Business Journal
-      domain: sportsbusinessjournal.com
-    quality: 44
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 24
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/06/24616890641093.jpg"
+        width: 770
+        height: 510
+        isCached: true
 
 secured: "ABeX4XOrN/n+9Xm+le400kl+oCbSLQRYL2hgrAUeJ1KLGcD5T1GwHBvAdwYmAdckbcHpKucPzkaJ+Dgf5DCfvt+Z6I9oftEqTee6ZcaCMorJYwL2hVw2JXrDwnABxQbYkGJUZ+wZ1iyaJyvVmRLDM8ExS3PfSweRcAnX9W36PqY2o7abeab+q9QI0+1E9tu564yiNERZNDseM7jKEiFbNTT/HUf+qPpbpjGaI3VazSQU1sOCEQaOdtK8Kh+POM+W90levxImFynKh7h7GeXTyCKJJ5D45Oq7rIV7bGpARfxHhlUDHwuJuB+GJ8+ODfL8VzDz/nE4d3jggTL1+ErOrVQfEkZXcsGsnpy7AcBJ2Dbv6lK6gg//2s0DVR5O++YrI2QFMYyGxAFb02sWm8tGyJEulhQNjsudw2N+HVsVRuRjxvE3xSVtcfZLvH8g5n+azvMDlLLV9XZgBrADUMmJA1hNuN/N5Ev2Lwiy4XsmSTKlX1+n/0VCo+m09bUN/geJuB2JRuzH1CgRAdPNr6MLFQ==;l8lckyJMlxp5PgxwB7yvGw=="
 ---

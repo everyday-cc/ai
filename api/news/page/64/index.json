@@ -2,100 +2,6 @@
   "page": 64,
   "value": [
     {
-      "path": "_news/2023-04-27-best-small-kitchen-appliance-deals-at-amazon.md",
-      "title": "Best small kitchen appliance deals at Amazon",
-      "excerpt": "Amazon's not the only place you'll find great deals on small kitchen appliances today. Way Day 2023 has arrived! But don't delay -- Way Day 2023 only lasts through April 27. These coveted kitchen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/05/05/027b22c8-d67f-4e1e-92d2-2520dfcbdefb/thumbnail/1200x630/dabab5ca4c47e730f305e03a1201de75/kitchen-appliances-amazon-prime.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
-      "publishedDateTime": "2023-04-26T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-apple-to-expand-health-initiatives-with-ai-health-coach-report-says.md",
-      "title": "Apple to Expand Health Initiatives With AI Health Coach, Report Says",
-      "excerpt": "Users would be motivated to exercise, eat well and improve their sleep based on individualized plans from the service, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/health/mental/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/",
-      "originalUrl": "https://www.cnet.com/health/mental/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/b51c7491a37488da50088db52ecc742f50031f18/hub/2023/04/25/24906f59-9de8-4dd1-8ee7-82ce372523dd/gettyimages-1360358389.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-to-expand-health-initiatives-with-ai-health-coach-report-says/",
-      "publishedDateTime": "2023-04-26T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-27-deloitte-looks-to-bring-ai-to-the-frontline-with-a-little-help-from-nvidia.md",
       "title": "Deloitte looks to bring AI to the frontline with a little help from Nvidia",
       "excerpt": "With help from Nvidia, Deloitte is rolling out new AI capabilities to enhance logistics, supply chain and customer care deployments.",
@@ -1168,6 +1074,109 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-ai-could-spell-the-end-of-big-business.md",
+      "title": "AI Could Spell the End of Big Business",
+      "excerpt": "The leading companies in artificial intelligence tend to be small, and many big ones will use it to get smaller.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-04-26/ai-could-spell-the-end-of-big-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9rRKQiMCs54/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-artificial-intelligence-software-market-share-and-forecast-till-2030.md",
+      "title": "Artificial Intelligence Software Market Share and Forecast till 2030",
+      "excerpt": "Apr 25, 2023 (The Expresswire) -- \"Artificial Intelligence Software Market\" Insights 2023 By Applications (On-Premise, Cloud-based), By Types (Voice Processing, Text Processing, Image Processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-share-and-forecast-till-2030-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-share-and-forecast-till-2030-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

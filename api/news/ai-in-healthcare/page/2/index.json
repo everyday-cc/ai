@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-05-20-artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones.md",
-      "title": "Artificial Intelligence Will Eliminate Many Tasks, But Also Create New Higher-Level Ones",
-      "excerpt": "Managers need to prepare for 'the biggest shock' coming with AI — replacing entry and low-level white-collar activities with 'first-draft automation.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6468d7b4762b340e022e9948/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/amp/",
-      "publishedDateTime": "2023-05-20T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-05-20-to-see-one-of-ais-greatest-dangers-look-to-the-military.md",
       "title": "To See One of A.I.’s Greatest Dangers, Look to the Military",
       "excerpt": "Anyone can read what you share. By Peter Coy Rogue artificial intelligence versus humankind is a common theme in science fiction. It could happen, I suppose. But a more imminent threat is human ...",
@@ -1433,6 +1381,49 @@
       "provider": {
         "name": "Los Angeles Times",
         "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-uva-researcher-receives-trailblazer-r21-award-to-improve-cardiac-resynchronization-therapy-outcomes.md",
+      "title": "UVA researcher receives Trailblazer R21 Award to improve cardiac resynchronization therapy outcomes",
+      "excerpt": "The National Institutes of Health Trailblazer Award will provide the project $660,000 over three years using an enhanced provision of the R21, the NIH's program for exploratory or developmental research. Trailblazer awards are designed for \"NIH-defined New and Early-Stage Investigators.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230508/UVA-researcher-receives-Trailblazer-R21-Award-to-improve-cardiac-resynchronization-therapy-outcomes.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230508/UVA-researcher-receives-Trailblazer-R21-Award-to-improve-cardiac-resynchronization-therapy-outcomes.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

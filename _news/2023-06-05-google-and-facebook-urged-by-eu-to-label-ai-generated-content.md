@@ -86,6 +86,20 @@ related:
         width: 1024
         height: 614
         isCached: true
+  - title: "EU wants tech companies to clearly label AI-generated content"
+    excerpt: "The European Commission has asked online platforms to detect and label content created using AI tools in its attempt to tackle disinformation."
+    publishedDateTime: 2023-06-06T06:06:00Z
+    webUrl: "https://www.ibtimes.co.uk/eu-wants-tech-companies-clearly-label-ai-generated-content-1716420"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1715977/artificial-intelligence-tools-chatgpt.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "EU wants Google, Facebook to start labeling AI-generated content"
     excerpt: "The European Commission is worried artificial intelligence tools like ChatGPT will result in more online disinformation."
     publishedDateTime: 2023-06-05T13:13:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips
 cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 164
+published: true
 
 provider:
   name: Honolulu Star-Advertiser
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "What AI Can’t Do And What Great Leaders Will Do"
-    excerpt: "As AI masters language, it will more easily fool us; reconnecting with the bodily resonance of language helps leaders put AI in service of life."
-    publishedDateTime: 2023-06-01T14:39:00Z
-    webUrl: "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/"
-    ampWebUrl: "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6478ab86174558bfeb7b69d9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Why AI chips are hot and what they are"
     excerpt: "SAN FRANCISCO >> The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
     publishedDateTime: 2023-06-01T21:00:00Z
@@ -59,29 +43,105 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "Readers ask about AI ethics, monkey tool use and more"
-    excerpt: "Reader Joel Sanet wondered about student papers that may have been written entirely by AI. Can a human plagiarize or steal the ... an expert in technology ethics at the University of Colorado Boulder. It’s important to remember that in most situations ..."
-    publishedDateTime: 2023-06-04T03:26:00Z
-    webUrl: "https://www.sciencenews.org/article/readers-questions-ai-ethics-monkey-tool-use"
+  - title: "AI chips are hot. Here's what they are."
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip,"
+    publishedDateTime: 2023-06-01T15:11:00Z
+    webUrl: "https://norfolkdailynews.com/news/national/feature_national/ai-chips-are-hot-heres-what-they-are/article_e50444c6-008e-11ee-8e38-6b3227a49a96.html"
     type: article
     provider:
-      name: Science News
-      domain: sciencenews.org
+      name: Norfolk Daily News
+      domain: norfolkdailynews.com
     quality: 54
     images:
-      - url: "https://www.sciencenews.org/wp-content/uploads/2023/06/060323_feedback_cover.jpg"
-        width: 680
-        height: 879
+      - url: "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/2/f2/2f237702-008f-11ee-8f78-27dd5b461b9c/6478b65123d5c.image.jpg?crop=620%2C326%2C0%2C43&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
         isCached: true
-  - title: "Opinion: What AI means for healthcare leaders"
-    excerpt: "Generative artificial intelligence is a hot topic these days--the ... tech firms and teenagers have found novel uses for AI to improve our lives. Thousands of healthcare AI applications are available for drug discovery, clinical practice, supply chain ..."
-    publishedDateTime: 2023-06-05T19:07:00Z
-    webUrl: "https://www.modernhealthcare.com/opinion/generative-ai-healthcare-leadership-uab-christy-harris-lemak"
+  - title: "AI chips: Here’s what they are, what they’re for, why they’re hot"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed spec"
+    publishedDateTime: 2023-06-03T13:05:00Z
+    webUrl: "https://www.columbian.com/news/2023/jun/03/ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot/"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
+      name: The Columbian
+      domain: columbian.com
+    quality: 54
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI chips are hot: Here's why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make"
+    publishedDateTime: 2023-06-05T15:04:00Z
+    webUrl: "https://www.news-journal.com/news/business/ai-chips-are-hot-heres-why-investors-see-gold/article_6d44afb2-03b2-11ee-bc1f-e72181d9132a.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/77/d7709f22-03b2-11ee-a124-0bc30dd5c12e/647dfa9936f24.image.jpg?crop=1646%2C864%2C0%2C196&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
+    publishedDateTime: 2023-06-04T04:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/jun/04/ai-chips-are-hot-tfp/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 48
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/06/03/AP23152002685626_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "AP: AI chips are hot. Here’s what they are, what they’re for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed"
+    publishedDateTime: 2023-06-03T01:02:00Z
+    webUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+    ampWebUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
+    cdnAmpWebUrl: "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
+    type: article
+    provider:
+      name: 92.7 WMAY
+      domain: wmay.com
+    quality: 46
+  - title: "AI chips are hot: What they are, what they’re for and why investors see gold AI晶片在紅什麼？為何它是投資人眼中的金礦？"
+    excerpt: "Such chips have suddenly taken center stage in what some experts consider an AI revolution that could reshape the technology sector — and possibly the world along with it. Shares of Nvidia, the leading designer of AI chips,"
+    publishedDateTime: 2023-06-05T16:01:00Z
+    webUrl: "https://www.taipeitimes.com/News/lang/archives/2023/06/06/2003801017"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 40
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/06/06/P14-230606-334.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "What are AI chips and why are they in big demand?"
+    excerpt: "Artificial intelligence chips are designed specifically to make building AI systems such as ChatGPT faster and cheaper. They have suddenly taken centre stage in what some experts consider an AI revolu"
+    publishedDateTime: 2023-06-05T12:33:00Z
+    webUrl: "https://www.firstpost.com/explainers/what-are-ai-chips-and-why-are-they-in-big-demand-12694922.html"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
     quality: 34
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "AI chips and their leading designer, Nvidia, are now at the center of what some experts consider an AI revolution that could reshape the technology sector and possibly the world along with it."
+    publishedDateTime: 2023-06-01T18:30:00Z
+    webUrl: "https://omaha.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_b29fedbe-109c-55f5-96f5-b3b3303c2067.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 28
 
 secured: "l/Np1HNwVvAJk5hNS95je1whfyALiiW3fQ3YSS76aLNvJ1CpjLV4cdS6JmH7ylkmn5O/pDkcr1jSx36jtTsAf3Gh4fBZ6LEEyVLCKqX+dRQ5D6CMZTDiYuPN09oJupJp9UzK9fnuXagU+nYrBwgztGfS3KDc3Sk/7ZLQsdnDEyHqKuVClASAdXacl3A+v0zGokGqazOVD5Na6yJkQlMcv9EhaXYRO6EMgbP9ylE12BX3/jFxI+KXO9c6pNntPMn7xvroXd1tiVifSqDUNxE5NuZlMOY3KwfbC+Xho3uH+wY97AyGDug/EPAI4HMkQiWd+lJnb1S9QLNaLirJcLa9VkSxqL2BPR1WvnzNmkp1il/XU70rlaoCUO94fYhZGC+zrUz+g1yLyvVm/EaM2slBpMWzvr3YZrD+xccqehu1XYjC+9bQnm0Q9VsqlR4Kc6nePTpezHfuru/TCKxHdytgP7X3yZkp1mgKCFkrB4iFt/yCcL0r4jpl5riIsgkrDXfQ/YKiyaeouekVIRRK+Mu3vg==;nxbY3J+k9yyAsmTnkjwAVw=="
 ---

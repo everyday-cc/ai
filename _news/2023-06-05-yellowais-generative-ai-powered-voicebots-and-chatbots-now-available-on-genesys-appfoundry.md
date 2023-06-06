@@ -99,6 +99,22 @@ related:
         width: 1200
         height: 626
         isCached: true
+  - title: "Do chatbot avatars prompt bias in health care?"
+    excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That's what University of Colorado School of Medicine researchers are asking as they dig into patients' experiences with the artificial intelligence (AI) programs that simulate conversation."
+    publishedDateTime: 2023-06-06T07:58:00Z
+    webUrl: "https://medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatbot-2.jpg"
+        width: 1920
+        height: 1358
+        isCached: true
   - title: "3 ChatGPT productivity hacks that’ll change the way you use AI"
     excerpt: "ChatGPT can be used to improve productivity at work for specific tasks that might require repetition - here are a few use cases."
     publishedDateTime: 2023-06-03T14:33:00Z
@@ -113,15 +129,6 @@ related:
         width: 2500
         height: 1668
         isCached: true
-  - title: "Do chatbot avatars prompt bias in health care?"
-    excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That’s what University of Colorado School of Medicine researchers are asking as they dig into patients’ experiences with the artificial intelligence ..."
-    publishedDateTime: 2023-06-05T23:26:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/991526"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
 
 secured: "XI/DEdqtsHyfFNJ7k9a5EVNpWpB91FNcTy5/kSiCehSDHc/sgn/nCE2T+tM7UIn+KISFvHQHPaox8AdqoqXKM+K6Z0NsMut/sm1IsC8OUa7VwBmx5FdAFTB4TkLCdPzR8lbyf03tjTi5ncdn37EMDN1QfgX7H9zrzQ4sBgeR9X15zgd3Prh7ayVuoY/SHTHNu1wEKUFha48sQuN2RLqHbVfHjEPABxiYKqCLoFxY1ZDJ1GM3nXdimLnU3Q62qW8L1kilGvFTsOtZBx6loHnUK4FE0pw9BBaviWt4hxvs7GhEICvc6pbF1QD1iZI8f8OdqPUEhZ1jY8rWdnmVSB0wSW3toKK1qwR4PHFXg9/MtZ0WoHWNSR8nLosvSCbbP64iypNm5FRVJDZZ5q8IhDzJpS7bgL//P4QEztddtHe0qjmYuZOi4iLxQbZXJ+/FKMxJm/rlvp0A9pNv7lP2WnPkGh1MI4rgoRSftQ7vVphjQHZnX3bnRAr97x8ilQuPE5iuhrroDmpBYYUp0paaD+GHHQ==;LbJ7X1w8cPOiVcs8BL/OhQ=="
 ---

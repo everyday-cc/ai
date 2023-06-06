@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 744
         isCached: true
-  - title: "Why This Investor Is Betting on AI for Climate Tech"
-    excerpt: "Optimized fish farms? Drones to track solar panels? Artificial intelligence helps fuel this $81 million venture-capital fund’s clean-energy investments."
-    publishedDateTime: 2023-06-01T14:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-climate-change-clean-energy-investment-e4242a23"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-791023/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "How the Biden administration is trying to regulate bias in health care AI"
     excerpt: "Artificial intelligence could revolutionize health care. It could also perpetuate and exacerbate generations of racial inequities."
     publishedDateTime: 2023-06-01T20:21:00Z

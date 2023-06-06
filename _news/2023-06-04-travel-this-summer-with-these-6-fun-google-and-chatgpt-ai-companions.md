@@ -90,6 +90,22 @@ related:
         width: 1200
         height: 626
         isCached: true
+  - title: "Do chatbot avatars prompt bias in health care?"
+    excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That's what University of Colorado School of Medicine researchers are asking as they dig into patients' experiences with the artificial intelligence (AI) programs that simulate conversation."
+    publishedDateTime: 2023-06-06T07:58:00Z
+    webUrl: "https://medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatbot-2.jpg"
+        width: 1920
+        height: 1358
+        isCached: true
   - title: "Yellow.ai's generative AI-powered Voicebots and Chatbots Now Available on Genesys AppFoundry"
     excerpt: "Yellow.ai combines with Genesys marketplace of solutions, enabling enterprises to deliver autonomous, human-like experiences with its Dynamic"
     publishedDateTime: 2023-06-05T15:00:00Z
@@ -113,15 +129,6 @@ related:
         width: 2500
         height: 1668
         isCached: true
-  - title: "Do chatbot avatars prompt bias in health care?"
-    excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That’s what University of Colorado School of Medicine researchers are asking as they dig into patients’ experiences with the artificial intelligence ..."
-    publishedDateTime: 2023-06-05T23:26:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/991526"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
 
 secured: "MFjWIUKg3YmVM7c4SRjUr3zGLNmnPPog4VCdcajOJTSCkqGPaSLFHgcDKpKQ69Ge4CW0Lo9+zlOvJ7iPeX7+4BTlkmgrxaH82xf/ibrGxgG+HSG4H5gZRhp36AZXBRedaNqpFqw7KLEzH5n2frr3f4/fhAsC/kqxWH3xpfq6b6nLGLZ18XTHVvvOLqpVAdRp3iemYxlTEL9wuH/UQmVdWdLVezG90oaFrU+TLwvh/bDBGrr8VXXLlaywK5OTit4KQ2NCoAMLtTV+Y1S0S/2Le7m2vIza+MQRQ/24zXCylDHE8C4DEWVm2jrygnR0kMtZmY/KPcC4rFtx15B/tSmTFwkJl3AeAL1XWoVwC8kma0iLNVWaA9Ra9w2j0Kxw6E1LUsaXKJEERDZbibZ/yVXM67q8JR4U//2zx/vPfSfANXvkc4wIT21cdRx1S+eWNucbI0DgH5MJ+ysHxoZf1VAvwRHyom79TcHNVWv0eyoQ6EME4QqnFCbrGF2LipcVgTozPve3RqZBCEoLH54Ew2fLTA==;E91ROPdDveoZpROdowOIAw=="
 ---

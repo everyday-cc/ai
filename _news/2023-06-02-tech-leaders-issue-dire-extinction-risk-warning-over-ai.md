@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI: Is there a risk of human extinction?"
-    excerpt: "Artificial intelligence could lead to extinction, experts warn"
-    publishedDateTime: 2023-06-01T13:19:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0frnnsd"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
   - title: "‘Mitigating the risk of extinction’: As the capabilities of artificial intelligence grow, so do calls for regulation"
     excerpt: "The Center for AI Safety released a statement earlier this week signed by a group of leaders in artificial intelligence about the technology’s risks: “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks,"
     publishedDateTime: 2023-06-01T18:53:00Z

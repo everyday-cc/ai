@@ -78,15 +78,20 @@ related:
       name: Sports Business Journal
       domain: sportsbusinessjournal.com
     quality: 48
-  - title: "English soccer star Harry Kane invests in fitness AI and robotics company OxeFit"
-    excerpt: "Kane invested in OxeFit as part of the startup’s oversubscribed Series A2 investment round. The Dallas-based fitness AI and robotics company makes smart gym equipment that offers dynamic resistance and computer vision form tracking."
-    publishedDateTime: 2023-06-01T13:46:00Z
-    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/01/Technology/harry-kane-oxefit.aspx"
+  - title: "Chinese Self-Driving Truck Startup TuSimple Enters Japanese Market"
+    excerpt: "Chinese autonomous driving truck startup TuSimple Holdings announced it has entered Japan to alleviate the driver shortage and aging problems facing the Japanese freight market. TuSimple carried out self-driving tests on the Tomei Expressway,"
+    publishedDateTime: 2023-06-06T07:40:00Z
+    webUrl: "https://www.yicaiglobal.com/news/20230606-12-chinese-self-driving-truck-startup-tusimple-to-enter-japanese-market"
     type: article
     provider:
-      name: Sports Business Journal
-      domain: sportsbusinessjournal.com
-    quality: 44
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 24
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/06/24616890641093.jpg"
+        width: 770
+        height: 510
+        isCached: true
 
 secured: "0eIc0CbM2nMKj+XuORupYOO9CsRsA+LJW5xHWPF5etYvweb+dKFrEoIp8vCEJC3DpCm5Ua+ol/N70uhE77dO2i2Ag4e8I4yPIClM4jT8u4aYGG4KjVNLYe5wShomn+fkWP+Eob6f6TrUx2D+sBnKlal6e2MRmW1QHyBKzHj5wXwQrxUpgTwsUMvLdcR0xhdrd1Ot8kJ94RRhfCftD8L3EV09AU8oaa5bIRA4gujGsk/biBOwAz/XLHeRdXfu3eFD4IHgpK67qLb9RqpAKIgWNFt1XzlswmatofyIBUJLwIfaFilx/WL7wlrNvmY+G/Xt7WgL2HphXbWvZwHYMrLzizodtzI7HKK0150/m5dlUa1XcnKUiOSUUYZOMrZ3jz85oJjvS0hwtCqR8TJB8kx/ypUw0xR4kQcy4K4fh/p9rfY2b1Dg5lqLpV7a16Q1i94vd7BVd5C7e8syRAXZV5qJVlwFDo0Ncdy8B8zmyFRAryathL6sjBgWC33YWy1ckua9aQGh9E+gX7qTz1ILR1HWGw==;c/2GA9JOLN88APM365bkOg=="
 ---

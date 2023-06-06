@@ -2,83 +2,6 @@
   "page": 59,
   "value": [
     {
-      "path": "_news/2023-04-29-new-report-finds-canadian-smbs-are-open-to-new-payment-options.md",
-      "title": "New report finds Canadian SMBs are open to new payment options",
-      "excerpt": "The 2023 Chase Payment Solutions State of Canadian Payments report reveals that merchants are open to adopting new payments options over the next year as payment innovations for consumers increase in Canada. The State of Canadian Payments Report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/new-report-finds-canadian-smbs-are-open-to-new-payment-options/124890",
-      "originalUrl": "https://www.itbusiness.ca/news/new-report-finds-canadian-smbs-are-open-to-new-payment-options/124890",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/10/GettyImages-576605112-e1541624080703.jpg",
-          "width": 620,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/new-report-finds-canadian-smbs-are-open-to-new-payment-options/124890?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/new-report-finds-canadian-smbs-are-open-to-new-payment-options/124890?amp=1",
-      "publishedDateTime": "2023-04-28T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-first-babies-born-after-being-conceived-by-playstation-controlled-robot.md",
-      "title": "First babies born after being conceived by PlayStation-controlled robot",
-      "excerpt": "San Francisco, April 28 (IANS) Overture Life, a Spanish startup, which developed a sperm-injecting robot that can be controlled using a PlayStation controller, has successfully fertilised human ...",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/first-babies-born-after-being-conceived-by-playstation-controlled-robot",
-      "originalUrl": "https://glamsham.com/world/technology/first-babies-born-after-being-conceived-by-playstation-controlled-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-29-ai-in-healthcare-whats-to-be-done-about-data.md",
       "title": "AI In Healthcare: What’s To Be Done About Data?",
       "excerpt": "The widespread deployment of AI in U.S. healthcare will succeed only with the establishment of a national infrastructure for open health data.",
@@ -1162,6 +1085,102 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-first-babies-born-after-being-conceived-by-playstation-controlled-robot.md",
+      "title": "First Babies Born After Being Conceived By Playstation-Controlled Robot",
+      "excerpt": "(MENAFN- IANS) San Francisco, April 28 (IANS) Overture Life, a Spanish startup, which developed a sperm-injecting robot that can be controlled using a PlayStation controller, has successfully ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106125998/First-Babies-Born-After-Being-Conceived-By-Playstation-Controlled-Robot",
+      "originalUrl": "https://menafn.com/1106125998/First-Babies-Born-After-Being-Conceived-By-Playstation-Controlled-Robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-04/28/I_b2afeimage_story.jpg",
+          "width": 400,
+          "height": 268,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-machine-learning-operations-mlops-market-research-analysis-2023-2031.md",
+      "title": "Machine Learning Operations (MLOps) Market Research Analysis 2023-2031",
+      "excerpt": "What is the Machine Learning Operations (MLOps) market growth? Machine Learning Operations (MLOps) Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-research-analysis-2023-2031-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-research-analysis-2023-2031-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

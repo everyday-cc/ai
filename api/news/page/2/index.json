@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-05-generative-ai-will-elevate-humans-into-higher-value-jobs.md",
+      "title": "Generative AI Will Elevate Humans Into Higher-Value Jobs",
+      "excerpt": "Language-generating artificial-intelligence tools, such as ChatGPT, will make work more efficient by cutting repetitive tasks and freeing up humans for new, higher-value jobs, according to European technology firms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/generative-ai-will-elevate-humans-into-higher-value-jobs-e7eb05de",
+      "originalUrl": "https://www.wsj.com/articles/generative-ai-will-elevate-humans-into-higher-value-jobs-e7eb05de",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-788169/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-cutting-through-the-hype-smart-deployment-of-ai-for-growth.md",
+      "title": "Cutting Through The Hype: Smart Deployment Of AI For Growth",
+      "excerpt": "The development and adoption of AI are stochastic, meaning that the outcome must account for variability and uncertainty.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6453b86b434b3a6451eabd2b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/amp/",
+      "publishedDateTime": "2023-06-05T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-google-pixel-8-could-get-a-major-gaming-and-ai-boost-from-leaked-tensor-g3-chip.md",
       "title": "Google Pixel 8 could get a major gaming and AI boost from leaked Tensor G3 chip",
       "excerpt": "One of the biggest upgrades likely to be offered by the Google Pixel 8 and Pixel 8 Pro is the chipset. We fully expect Google to replace the Tensor G2 found in the Pixel 7 series with a new Tensor G3, and now that chipset has leaked in full.",
@@ -50,57 +152,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-ubs-buy-these-53-stocks-that-could-rise-at-least-20-as-they-profit-from-the-ai-revolution.md",
-      "title": "UBS: Buy these 53 stocks that could rise at least 20% as they profit from the AI revolution",
-      "excerpt": "UBS says investors who want exposure to the rise of the artificial intelligence industry should buy these 53 stocks with at least 20% upside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-ubs-2023-6",
-      "originalUrl": "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-ubs-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/647a410440bf000019fa14d0?width=1200&format=jpeg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -216,7 +267,7 @@
       "originalUrl": "https://www.zdnet.com/article/australia-launches-consultative-review-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -868,7 +919,7 @@
       "originalUrl": "https://www.forbes.com/sites/ilonalimonta-volkova/2023/06/04/what-latin-american-fintech-startups-can-teach-silicon-valley/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1066,7 +1117,7 @@
       "originalUrl": "https://www.securityweek.com/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1191,59 +1242,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-tesla-boosts-referral-program-to-help-sales-1000-off-and-3-months-of-free-full-self-driving.md",
-      "title": "Tesla boosts referral program to help sales, $1000 off and 3 months of free Full Self-Driving",
-      "excerpt": "Tesla is boosting its referral program to help sales at the end of the quarter with $1,000 off and 3 months of free Full Self-Driving for Model S and Model X, and more credits for Model 3 and Model Y.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/",
-      "originalUrl": "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2023/06/IMG_2404.png?w=472",
-          "width": 472,
-          "height": 1023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

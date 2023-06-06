@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/"
 type: article
 quality: 87
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why This Investor Is Betting on AI for Climate Tech"
-    excerpt: "Optimized fish farms? Drones to track solar panels? Artificial intelligence helps fuel this $81 million venture-capital fund’s clean-energy investments."
-    publishedDateTime: 2023-06-01T14:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-climate-change-clean-energy-investment-e4242a23"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-791023/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Here’s how Congress can regulate AI | Opinion"
     excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountab"
     publishedDateTime: 2023-06-04T11:17:00Z

@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What are AI chips and why are they in big demand?"
-    excerpt: "Artificial intelligence chips are designed specifically to make building AI systems such as ChatGPT faster and cheaper. They have suddenly taken centre stage in what some experts consider an AI revolu"
-    publishedDateTime: 2023-06-05T12:33:00Z
-    webUrl: "https://www.firstpost.com/explainers/what-are-ai-chips-and-why-are-they-in-big-demand-12694922.html"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 34
 
 secured: "J20JFtH6pAVKeGoMidcfOPg/BYfzOP6+YM1KdnSLi+XppnVlsRClr8sA1hakwIbA8OhmB3z8LVYjWD6WiKGfNoMYxTwiBmooD/wrGJbmjpV8gRKvOIR9B7melz6NpxpGVT9o2LkqVRVRI/6LYtjnZygEsHytU5/jahF8GPDQzvVMjZ5dPcqlCAYFUIp8JHVJ8oQ48UzrwZr7I9WhzwvgjTzHT0zKJpmY4Gm32g/x/zX3acHjVH0oqBkX8pUGh+7lZJGsf/qgNIqRQxZ2BQBzbX91Q8hx1N7p65L9xLs/hw7eRMBCXXFSHIGXWzjSe9LVizacDmx9eQaFkswL4xxraYtmveiB6aksQZs70hehQzXCrjDfMa30ZyV9jCAenwdW4v2QM+Hem3lo/RbujCXsHFEQfRTnLEYT91RYyXJLAMrMDHrorjL4Kr3binWwcf1vaDSEFH1FdIekq+HnCjBH2MIMrTA0ZPQIANC4wQ24P0deg/uRqPJtCL74Y7suROIqb3CSuLJnhQqzl5jIobvnhQ==;8DCRpd0bqtTX7X7jbrFsZg=="
 ---

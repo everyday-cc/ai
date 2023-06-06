@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI: Is there a risk of human extinction?"
-    excerpt: "Artificial intelligence could lead to extinction, experts warn"
-    publishedDateTime: 2023-06-01T13:19:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0frnnsd"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
 
 secured: "Clb79xKl6/VOLB+iHvW7e5pJ0ri2OD/44J+Ztge2b/qnyhDWAtMoDhuq8xNeuU5fRbI4VbrCCjPJS6v/YhDkefQ4m2w8ZwoUj+B+rkuc1egggQuylrdctVXo1G+awHjxmkMJmM6m3Kqysd9KRn8Ga4HJRTB/BWMSpAs5zCgWNXMXmSIz0q/ULxPwgkHrN9MA7w5ZJCtTv1EwSzGGblo+TCBZFKeSjOgk3MvcOkg8DsCF7QTXAO2DJ7FY0gPmFAccCbfxIRfFLmobLj/f93gNmZ8brfU2JyN5C3gM5KdI9B6luLjDQhL3SXPC9TiHpgmh8nfuCLAH/IN5Krj3yEaVYII2RnBexSEszHwqEQE63HgvZPqy3aMRtaP/+efAvTjEFawJQUK4Pt/eo9TggV3PZ5+IHgZa0Dh9rdW5XqU3v4AxlB9+B4nKhDZPYF45OBWs+GohcZ9dqP/zIJEqsjHH/8TJxmXk+zRBrKI8NVOp42C7yVnCfUN04QwxGi5POGlkPCTcovQ8qc5yxS0sGjD09Q==;0W1GoI5AAsDOxQKJAOoQqA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/fs/california-lawmakers-question-dmv-regulat
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Government Technology
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "18-wheel robot trucks on freeways? California lawmakers don't trust DMV to ensure big rig safety"
-    excerpt: "State legislators are pushing a bill that would delay the advent of driverless trucks and wrest away regulatory control from the Department of Motor Vehicles."
-    publishedDateTime: 2023-06-01T15:00:00Z
-    webUrl: "https://www.aol.com/news/18-wheel-robot-trucks-freeways-120029323.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 28
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Driving Trucks Need Human Operator Under California Bill"
     excerpt: "California lawmakers are moving forward with plans to restrict the deployment of self-driving trucks — a move that industry representatives say is misguided."
     publishedDateTime: 2023-06-01T15:58:00Z

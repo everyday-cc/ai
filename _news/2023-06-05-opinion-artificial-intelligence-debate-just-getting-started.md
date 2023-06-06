@@ -229,6 +229,29 @@ related:
         width: 1600
         height: 1024
         isCached: true
+  - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
+    excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
+    publishedDateTime: 2023-06-06T07:19:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9826768.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/2093629/IMKI_Custom_AI.jpg"
+        width: 400
+        height: 224
+        isCached: true
+  - title: "Applications for conversational AI within the organisation"
+    excerpt: "OpenAI was established in 2015 and DeepMind in 2010. Both companies have been singularly focused on the potential and power of artificial intelligence (AI) and garnered significant media and consumer interest."
+    publishedDateTime: 2023-06-06T07:19:00Z
+    webUrl: "https://it-online.co.za/2023/06/06/applications-for-conversational-ai-within-the-organisation/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "S9XIojcUGcVsp9ACdj2EM2Yv60LykOKz0VTcU8VKfpoMy25uA0l/UJF+HGA1GNxhKffjbyySFYkQ84TBw+iTEVLdHuBE0MetrguQB+IsGnwNMneej2PNDlQARFPEKhFmKErQ4pQldTpD81KgkKwmijBZdSVRlHngYxNCrma3mwak6M6etkAVU2RZCb4Wqot/cxKHiy4VjgJ9P4FnC4wZ8hmbtdHbPANYIcLFvxq6J/17hz3FIW4XUuo3evr15aowjKWMnXNiYuXMK3hyzYCZ3TNFG3CKDabBnXSnp8WfTPxJ/JeVbQpxTNRwlAnV2H0vnFrd4PyE591KzOZxSwU7+KqkigoAex6cbnHA6nwv7k4=;a/B2VFnkQS0gE3EukadsZw=="
 ---

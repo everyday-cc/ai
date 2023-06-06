@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-inte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -100,17 +100,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The impact of AI on the financial services industry"
-    excerpt: "Artificial Intelligence (AI) has emerged as a transformative force in various sectors, revolutionizing the way industries operate and deliver services. One such domain experiencing significant disruption is the financial services industry."
-    publishedDateTime: 2023-06-01T15:01:00Z
-    webUrl: "https://www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/"
-    ampWebUrl: "https://www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
   - title: "Advancing Intelligence at the Edge with AI Vision Processors"
     excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
     publishedDateTime: 2023-06-05T16:21:00Z

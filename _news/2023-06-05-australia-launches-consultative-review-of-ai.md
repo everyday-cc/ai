@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/australia-launches-consulta
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australia-launches-consultative-review-of-artificial-intelligence/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/59098d6e393c5cfff31cc8ddd3773b76d93a39a7/0_190_5453_3272/master/5453.jpg?width=620&quality=85&auto=format&fit=max&s=e47a2a5569a083056c409bf204f4015c"
         width: 620
         height: 372
+        isCached: true
+  - title: "Australian Institute of Architects supports the Voice to Parliament"
+    excerpt: "The Australian Institute of Architects has announced its support for the Indigenous Voice to Parliament in the upcoming referendum."
+    publishedDateTime: 2023-06-06T07:08:00Z
+    webUrl: "https://architectureau.com/articles/australian-institute-of-architects-supports-the-voice-to-parliament/"
+    type: article
+    provider:
+      name: ArchitectureAU
+      domain: architectureau.com
+    quality: 24
+    images:
+      - url: "https://media3.architecturemedia.net/site_media/media/cache/76/b6/76b628622dc401b888069a3b9e847681.jpg"
+        width: 638
+        height: 425
         isCached: true
 
 secured: "QGYDRpInhHyFYAvvvzhqce69SI1Z2XdR88bSTzOlxfXwL1zKk2x4zTq/4PZ++Nht7ysOS4XKSUvvBq+MPbOXbnoAl76M/3BvR9omh1hqZsUjT1GBVBO93RHQZGg3IQ0hshLEU7p5o57t/JXMRIckl/gDh1Pf0G78U0fOv51AZdct/lk6E20l8Dh0DPQrmsmaP5xF36pRAtTDHtDQJ4hU4AXYTh2TIR3b24qeHZKv3LHtspFThNii3gvVysXDqi/Rt7LTWOJdwZ0fhj4QNEvQXIvETBiISZBG8993haZBkG+dLd/6URpYH2SixDe1Zb09GmoskyXzVo6mXuh4HMm+AQEKMBWdV4Grpj7FomPVFQS8GjLsCRdTNHBJHdoKo+WptF8mINIS8LKNzHhkn4XOvipVN8keC9k2D5SxAs6vnRyN1pAXHA2AmhfYjJV8E0DtcHKmVkJHdkB5lM/Do3OPsjG+IrDQxM9u98x+9/IK/llwa6fzUOxwkvIhp7vhRDlZCYkIIPxx1xGG9kLCvGhx2g==;SOOTt2swV+3lBsLGzyGwRw=="

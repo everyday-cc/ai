@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Do chatbot avatars prompt bias in health care?"
-excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That’s what University of Colorado School of Medicine researchers are asking as they dig into patients’ experiences with the artificial intelligence ..."
-publishedDateTime: 2023-06-05T23:26:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/991526"
-webUrl: "https://www.eurekalert.org/news-releases/991526"
+excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That's what University of Colorado School of Medicine researchers are asking as they dig into patients' experiences with the artificial intelligence (AI) programs that simulate conversation."
+publishedDateTime: 2023-06-06T07:58:00Z
+originalUrl: "https://medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.html"
+webUrl: "https://medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.amp"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatbot-2.jpg"
+    width: 1920
+    height: 1358
+    isCached: true
 
 related:
   - title: "7 ways you didn't know you can use Bing Chat and other AI chatbots"
@@ -119,6 +127,6 @@ related:
         height: 1668
         isCached: true
 
-secured: "bUnmOvf/gDDAzx9/BgU4lPcNVF+IGF52mGuHJz2Q/61rote9vDIxUiBByJHP1OcpRjs/mMlijFu/q6wR61W1EhbKekFaw2JU/D0lKmtApwyYL+DmGng1nel91rjZorRzCwf6y7IWVi0rJg801ErDxnwNWLo9S13vpF1LHCn1FFviALDxLdq0vz/Hyzvi3RNJyFtEWA9NjztdnXE7ZwkFzDGeX8TWmQQnBlIMjXxLO7gImVZPqajoDth1uI0V4XUvYW6Z3djb7lX1NjPWQ58d1a/bmSO/pVb+b0gvM6bBqFSR/ka+F8mnuVZIuW5thJquMP118ZwNfwxSvnicZHaPn/4UcqdnHPI5ocQunUQWULQ=;6ALUD6L5uYZLw/T2tPir8A=="
+secured: "4Ow4RLIcGNYkKpHAzqcfZCUw3HdK0pioxIfQ6yMxl+KN1pQybTkfUQN6Jl9JF1AIKnlKKCytcEsd+u5hC/NcuzmGX+7kjnJ86OQJQzozPq2Dyf+UJ3ThMDrSB2UZn0WBXSUIfHyVJRk5UOlO9+RVP4cOWg3kvcMMr+KaxtWxOxcUCGQ5/c+52fg9Qs/71z2In8vOIAYt2tCVnqsWMDpQa1ON1UUcx4sBXlOmWu2RGce7sI/lIU4UxH13yL+ADUG+E1cvnUqqAM5Ng/hsb1IAiyC8Iea07Rs6W8DklnSlpjK+xiXBXBDwzrvx+zGZNr2iL4GuY09bBKMxvknkz3gnuinXEqj8m9H6Inclnif7D7w=;MT6qzVd20778CaeOlSUpVw=="
 ---
 

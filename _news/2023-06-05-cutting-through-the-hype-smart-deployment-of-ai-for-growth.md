@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Helper, Hindrance Or Hype: How Understanding AI’s Existing Impact Forecasts Its Future"
-    excerpt: "AI enhances various industries and aspects of our daily lives by empowering people to make informed judgment calls, analyze risk at scale and personalize consumer experiences. Right now, it’s neither a savior nor a death sentence."
-    publishedDateTime: 2023-06-01T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/helper-hindrance-or-hype-how-understanding-ais-existing-impact-forecasts-its-future/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 39
 
 secured: "8W5WW1m4eHv6D8GuqFFystf2mneUtuck5BMoMSdJUuRz+jW3HkzUDf37KIXpmbWTl9XNS36Als7WyBdluHAZcU9uC2vHyoxhvPvycQepQOwscGuPJ71jHB28syGp3U1MlQjPPqfxyk5MaPWh0oIGKIdMt8jj3stRNILEViNwE94jsiityVvKdMqdXAzZgVZBmF945wXYlBM4kxdyj4bKveaVOBpoPuox5eMxujSXo38jjp3RRHNHPe2uk2ZU069WksNeYsT/SKJcwqXBWsTptS3TcdG87LTkvSNjSiJuJdx1+0p10Sco0Xh7rtzhZtm6SvnXyXjv02Gvnp7SqnecYIUpF35aYm2vUfyH+PL6h1xoK7E+EOicDoExOexjiFF5KftR+yJVq+vTpXiLjBx7IPcBdSzUM5dl50EvFLBSfOYtlzbMMv9LQhGq5FFE02BVHnJF10ntrLJYA73jr+0vhF7l3hNSMCsyIjFovzZWfg4HlqnXFZy+dQqXh42aMb8E1A46xjeBQfA9RhuKpsLncg==;tCjN16DZYZ7ER1RWlw1xCA=="
 ---

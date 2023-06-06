@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech
 cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/2021-11-02T133529Z_974093607_RC2DMQ9I1JJD_RTRMADP_3_TECH-WEBSUMMIT-e1685982315901-1024x614.jpg"
         width: 1024
         height: 614
+        isCached: true
+  - title: "EU wants tech companies to clearly label AI-generated content"
+    excerpt: "The European Commission has asked online platforms to detect and label content created using AI tools in its attempt to tackle disinformation."
+    publishedDateTime: 2023-06-06T06:06:00Z
+    webUrl: "https://www.ibtimes.co.uk/eu-wants-tech-companies-clearly-label-ai-generated-content-1716420"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1715977/artificial-intelligence-tools-chatgpt.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "EU wants Google, Facebook to start labeling AI-generated content"
     excerpt: "The European Commission is worried artificial intelligence tools like ChatGPT will result in more online disinformation."

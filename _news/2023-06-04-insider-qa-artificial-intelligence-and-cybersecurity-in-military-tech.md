@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/insider-qa-artificial-intelligence-and-
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 54
-  - title: "CrowdStrike to accelerate development of AI in cyber-security with AWS"
-    excerpt: "These include both cyber-security-related generative AI applications, as well as cloud-plus-cloud security solutions."
-    publishedDateTime: 2023-06-01T13:07:00Z
-    webUrl: "https://www.voicendata.com/crowdstrike-to-accelerate-development-of-ai-in-cyber-security-with-aws/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 51
   - title: "OneDegree Global and Microsoft Join Forces to Drive Insurtech and Cybersecurity Innovations with Azure OpenAI"
     excerpt: "OneDegree Global (OneDegree), a leading technology startup in the insurtech and cybersecurity sectors, is thrilled to announce a strategic partnership with Microsoft Hong Kong. This collaboration marks a major milestone as OneDegree integrates Azure OpenAI Service into its IXT insurtech and Cymetrics cybersecurity solutions,"
     publishedDateTime: 2023-06-02T07:52:00Z
