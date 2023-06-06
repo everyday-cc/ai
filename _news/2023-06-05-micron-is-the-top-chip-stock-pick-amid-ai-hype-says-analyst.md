@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/micron-chip-ai-stock-pick-806ef
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/micron-chip-ai-stock-pick-806ef36a"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Why This Chip Stock Is Citi’s Top Pick Amid AI Hype"
+    excerpt: "Citi analyst Christopher Danely says chip stocks \"are due for a pullback.” He's cautious on the group, and has moved Micron stock to the front of the pack."
+    publishedDateTime: 2023-06-06T12:31:00Z
+    webUrl: "https://www.barrons.com/articles/micron-stock-price-chips-ai-806ef36a"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 34
   - title: "This Tech Stock is Poised for Pick and Shovel Profits from the AI Revolution"
     excerpt: "The term \"pick and shovel\" originates from the Gold Rush when pick and shovel sellers often made more money than miners. I remember when the iPhone launched in 2007 and semiconductor stock prices-companies whose chips power smart devices like iPhones-went through the roof."
     publishedDateTime: 2023-06-05T21:25:00Z

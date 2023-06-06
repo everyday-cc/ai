@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-impact-of-generative-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "The Relationship Between Productivity and Ethics in AI"
+    excerpt: "Artificial intelligence (AI) can increase productivity, but developers must also address ethics in AI with the solutions they provide."
+    publishedDateTime: 2023-06-06T15:50:00Z
+    webUrl: "https://www.devprojournal.com/technology-trends/ai/the-relationship-between-productivity-and-ethics-in-ai/"
+    type: article
+    provider:
+      name: devprojournal
+      domain: devprojournal.com
+    quality: 34
   - title: "Generative AI’s ‘productivity revolution’ will take time to pay off"
     excerpt: "A boom in generative artificial intelligence and pandemic-induced workplace shifts will unleash a new era of faster productivity growth across the rich world, economists say, though it could take a decade or more for advanced economies to reap the full benefits."
     publishedDateTime: 2023-06-05T04:00:00Z

@@ -86,6 +86,29 @@ related:
         width: 1600
         height: 885
         isCached: true
+  - title: "Tim Cook covers Vision Pro, ChatGPT AI, and more in new interview"
+    excerpt: "Apple's CEO Tim Cook announced the Vision Pro, the company's first \"spatial computer. Now, he was interviewed about it."
+    publishedDateTime: 2023-06-06T15:23:00Z
+    webUrl: "https://bgr.com/tech/tim-cook-covers-vision-pro-chatgpt-ai-and-more-in-new-interview/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/tim-cook-apple-vision-pro-abc-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
+        isCached: true
+  - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
+    excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
+    publishedDateTime: 2023-06-06T14:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aprimo-introduces-ai-content-coach-with-chatgpt-revolutionize-/2023/06/06/9827428.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "ejiFzqhCFWhWGgAGfK+z4a8EKF7TMJswyPszSIGLcbaDB/m4x7ajQCi4ru3zmJ82g00ogeU6L9MYx5dyxmUO+3A5tfaUeg6/hPWeA57fdf/IQlLRRkxLVsw0bwyggbEco03nBv3CxBHvcn/d6/H8lUFrDCMGpb/OTZjp9tHLyjYsFpXKUCLMiRm6bfsEBggwztG/tYR76eNoTF1SRwPGHRf0b1ukNBPd+uyZwbVyZHTEWbxCHy22/izFeV+JTTOeAeSxvXuvYVIFuaZvUjMlTDzLrFTEpo80OMBGH5thLkAe9IMVtfWybIGoS4gTyzD+mGMgfSMvTMtmw+f61tcxpxgaSoiYgP9bsyZPgmk5FkZ+7EIYDuTBF2Cqg/00jKQ7ODr7yOL3g2llJjCFElZtdSAyFyb+PE64kLXTYANCfjsrWJ+8OZkW3X2lkH0O56Rw1oeQNm9bCIEEOd5lv/qGZSksPneZi5No+g0o7V28Lh/UleDPqahg3DZrNI0welWvuiqCGYfwJgytES8XcEcVOA==;aDF+fMXSJgHyDD3gYcCMEw=="
 ---

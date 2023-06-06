@@ -95,15 +95,6 @@ related:
         width: 704
         height: 415
         isCached: true
-  - title: "Technologies that are Changing the Healthcare Industry"
-    excerpt: "Health and wellness are topics that are growing in importance in the United States. Individuals, families, businesses, CEOs, and everyone in between are spending more time prioritizing well-being, and the industry itself is constantly evolving to keep up with everyone''s needs and health goals."
-    publishedDateTime: 2023-06-01T19:18:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/06/01/456050-technologies-that-changing-healthcare-industry.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 19
 
 secured: "b8e80IlcmMCCV9yUlq9I03pMrLoiNCprhGSfKJT+5tCtADguWB2ETjADKRqoU4ezokZ2fglvDcEkeTPmOheiSKclEay7Hnph5lvjhkTmfybXhk3bP0VFCMYxtBRJ0To7mVlrcLEAWTXdHQBlx/K4J+3TvGhGL0eQaNivvulcQqWh1UZTIhDBPhA1O404dUj2dnBEETwZA2KMBZRe8Fy59NcdYqLgpPO4qZOqozY1J/tC9GvANfjyzZZAzP9uB5CTeSIZQxa/oOXW2Rergzdg/DE2ZYPMnwHws8TEBkDzT4uuyvtnL7Rk1QKrkkF8BSzPFJCoYxWBBPZ84152h5U1Y2iGhkG4QIJ1faVUoM7J2W8=;purQdnwxjIssgwyZWZ1kJA=="
 ---

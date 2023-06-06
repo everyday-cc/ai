@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-adoption-in-m
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
 type: article
 quality: 101
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -100,6 +100,24 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "4 Keys to Executing Generative AI"
+    excerpt: "Generative artificial intelligence (AI) has captured the attention of health care providers and payers focused on reimagining care delivery."
+    publishedDateTime: 2023-06-06T12:19:00Z
+    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-06-06-4-keys-executing-generative-ai"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 19
+  - title: "How artificial intelligence can improve the hiring process"
+    excerpt: "Artificial intelligence isn’t new, but it’s quickly gone from a fringe computing concept to an everyday topic of discussion. Whether it’s AI art, AI chatbots or general AI, the introduction of AI is critical for many industries, as it can perform a ..."
+    publishedDateTime: 2023-06-06T13:06:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2023/06/06/artificial-intelligence-improve-hiring-process.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "AntChain Launches New Privacy-Preserving Computing Platform, Providing Data Privacy Protection Solution for AI Machine Learning"
     excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC), a new privacy-preserving computing (PPC) platform that brings a data privacy protection solution for large-scale AI machine learning."
     publishedDateTime: 2023-06-05T11:39:00Z

@@ -76,6 +76,20 @@ related:
         width: 1600
         height: 885
         isCached: true
+  - title: "Tim Cook covers Vision Pro, ChatGPT AI, and more in new interview"
+    excerpt: "Apple's CEO Tim Cook announced the Vision Pro, the company's first \"spatial computer. Now, he was interviewed about it."
+    publishedDateTime: 2023-06-06T15:23:00Z
+    webUrl: "https://bgr.com/tech/tim-cook-covers-vision-pro-chatgpt-ai-and-more-in-new-interview/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/tim-cook-apple-vision-pro-abc-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
+        isCached: true
   - title: "This test might be an easy way to distinguish humans from AI like ChatGPT"
     excerpt: "A test called the Capital Letter Test might help you discern a human from generative AI software like ChatGPT - here's how it works."
     publishedDateTime: 2023-06-02T17:04:00Z
@@ -90,6 +104,15 @@ related:
         width: 3024
         height: 1701
         isCached: true
+  - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
+    excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
+    publishedDateTime: 2023-06-06T14:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aprimo-introduces-ai-content-coach-with-chatgpt-revolutionize-/2023/06/06/9827428.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "BCRPDdnibjAS6GS8Ta1EUot9+7cpN2umSh/TlJFlYAXZWhlPySur6Ha1Xe+nrr88na82PEVBQpdFcIWQyLvr9W0t3nPehevClbYisWcVM+Ypsr9KppjWQ0CR4QcoFn1HjOt5AGxDxmpTxd/gRWr4wy8XmDSAKQSAF/yY+Xb9YdVrDrz1r485BC9S/6cnZ2UALG6jjPprmNWL7A2FpBbxXsbWUdvW0qNnjmdfHCGk3U89b0N5dT3Ahb1++dOswj4g0yGJWI7f38uc6ercUdkD1HKiavALi1RncoRqWVmwUs39upgT6cnKbQ2fITTZm9AdE3LfHbaA+sPwOgRMC7ZRw/lHU597cJuGSrMbS38FtvSOKUDgOlOQFK46ZTIPmgZdMnfxzr12MaVOZojb9P0/yn92pIMsBv8MUH723+Ec/LRo9DFXZJNfi10BEPFc/6KDDuLjZC5lpXYi+R+5YoaLaX/rT+0HhxBuJQH+pJvbyP1ROo3DqbyVWMHq53GQ4HTMsEbHLE3AbWi4Or/cNCHmjQ==;n+cDa9vfwuZO0nUiXw2Y9g=="
 ---

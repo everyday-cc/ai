@@ -57,6 +57,31 @@ related:
         width: 599
         height: 338
         isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
+    publishedDateTime: 2023-06-04T04:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/jun/04/ai-chips-are-hot-tfp/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 48
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/06/03/AP23152002685626_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "AP: AI chips are hot. Here’s what they are, what they’re for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed"
+    publishedDateTime: 2023-06-03T01:02:00Z
+    webUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+    ampWebUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
+    cdnAmpWebUrl: "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
+    type: article
+    provider:
+      name: 92.7 WMAY
+      domain: wmay.com
+    quality: 46
 
 secured: "a/FBnWSKPO11kqFIDy6HuLChwFdEE1sz2ZQfRzRAcotCJrQ/Ol6H42KR7G4hvYHyK1ygcpucQ/BFx15rMo/iSeKiXMtZ7hfzoqpqml1CZ2lQ+QQzN6qALt7/y41Out3YVROgnMleHGF9MISpM9u9D2hGTxOJWXSq8Ir2yzgQM6ym6+acPXXyTAc6yI5AsmuGlSYA4ekmZgLJlK+eSQI4bn0cFn6HUM6TkMDJcC4pHh9Tf4AqxTeJjMvf0WLGFsiTkFKdRltlbl9T2jZCuYqoG+DyNnLanCUAyqVE4rhJrh1DQ9LsXJIuxQvDHZiBzQ9QncZauQPoncIk8HYPOvK6F6YNh+EXDtjMNK7/KWEwpxs=;+4sIFGEV35J0Ms1miBk/5Q=="
 ---

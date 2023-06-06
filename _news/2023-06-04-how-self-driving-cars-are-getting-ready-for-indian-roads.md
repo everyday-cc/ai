@@ -39,6 +39,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Luminar Partners with Plus to Develop Self-Driving Tech for Big Rigs"
+    excerpt: "The lidar maker Luminar is working with an autonomous-driving start-up to provide self-driving solutions to the commercial vehicle industry."
+    publishedDateTime: 2023-06-06T12:00:00Z
+    webUrl: "https://www.barrons.com/articles/luminar-partners-plus-lidar-self-driving-trucks-78447151"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "u6Nbgff9snqjYXaLDHvaIVhyUWyKUR0fFOWt3ws/iueWV2Ikn8z1WvdW+VzYw8QBcz632F+Pcypwp5Qfa44L1qC/ptgveazoLN725LtcfJvTAxdCtWFlOqv1im8OxsO4w/HgIR5RxX2RMpmXu8UnuYs5IUTnH/HfmyGd0y7dd6nUT8qTZsG+xHufyij1F5iZlxsXfr2pOIpair9fAgmJqg6x53BpJhM5RBsN9kuQBvI7cKOYZCWstcuvQHOJvYWAg5uj35yw4dMYJjYeTvp5+934Dw4hehdsmJgJm3Ij7l4aMb9WO51ETnWp3DMDgocIaRxWY1RZOzLb4e7YDmVmOzykNWgEEzo3XcOJVqykC2M=;VR5OeZrDXWNVMt0oUXKrsw=="
 ---

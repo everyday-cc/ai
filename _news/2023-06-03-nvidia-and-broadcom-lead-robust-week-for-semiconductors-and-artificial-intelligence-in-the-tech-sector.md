@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Broadcom Suffers Sales Slowdown, Even as It Points to AI Gains"
-    excerpt: "Broadcom Inc., one of the world’s biggest chipmakers, said that artificial intelligence spending is helping fuel sales, but not enough to offset a broader post-pandemic slowdown."
-    publishedDateTime: 2023-06-01T20:27:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZW6Tmm1CFkM/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Broadcom CEO Sees Rising AI Chip Demand. Earnings Were Strong."
     excerpt: "Chip maker Broadcom reported better-than-expected earnings for its fiscal second quarter. The revenue outlook topped Wall Street's forecast, as well."
     publishedDateTime: 2023-06-02T01:44:00Z

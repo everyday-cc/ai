@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/06/06/1074077/to-avoid-ai-doom
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/06/1074077/to-avoid-ai-doom-learn-from-nuclear-safety/amp/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: MIT Technology Review
@@ -26,6 +26,17 @@ images:
     width: 3000
     height: 1688
     isCached: true
+
+related:
+  - title: "The Download: Apple’s headset challenges, and what AI can learn from nuclear safety"
+    excerpt: "The ‘one more thing’ announced by Apple at its Worldwide Developers Conference (WWDC) this year was the industry’s worst-kept secret. The Apple Vision Pro, the tech giant’s gamble on making mixed reality headsets a thing, has received a mixed reception. Most of the concern has centered on the eye-watering $3,499 cost."
+    publishedDateTime: 2023-06-06T12:07:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/06/1074091/the-download-apples-headset-challenges-and-what-ai-can-learn-from-nuclear-safety/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 11
 
 secured: "jsTKfXixUXvXqyi7Pi0NbMIbSUF2dVZ1e+QXTCP6nh1zUV2uV7Q3/Gsfda18vWjs2YqwZTW6bKaa5i+6Wpck4SO6HXf+TOukr5LPJL6VHoDHR3LN1PX5PNxN/c+LObLpL1usgO5/TG960sQE6PntRMXRFeG+i5aZxVnPGv1s975UaNXo62XCQORREyYhp4PHKiXnwbphijtJZRm8B8Y0lJ/7pEPXdj9j1tm/kzed0/WGc41NMR7kdPDL0/+TRuVpSfethHJgRgiRC7IJOlumMYSUntuDJ2zgpO9WHWNEGIoXmsTpmAg9w2kCgg+vZtZGm1stwc/CvhYyWcx0KDw66ls41IZEtDTGvQlcjGjaYqkdNiaeOTn01u6sJFSZM3ToEgNjFplV907E2+Y0KStWWVjmig3k6rueT7W90RDB6Eq8Re8lW9+LtbPF6jlTzLaoECI6avcfXqsbIwa0oDJTGOUB8tz8eGJRQ+UI+RUajPMbxDPFpISzagfOE6LJZLxg8CAYbylLroVsWkdwDHKU6Q==;aOIAhe/te85jzY5VnK+WSw=="
 ---

@@ -97,15 +97,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "Technologies that are Changing the Healthcare Industry"
-    excerpt: "Health and wellness are topics that are growing in importance in the United States. Individuals, families, businesses, CEOs, and everyone in between are spending more time prioritizing well-being, and the industry itself is constantly evolving to keep up with everyone''s needs and health goals."
-    publishedDateTime: 2023-06-01T19:18:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/06/01/456050-technologies-that-changing-healthcare-industry.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 19
 
 secured: "DN3q2w0HFtC/IekS4y9wWAZGrhUfFG8ELzkxXxXvaporu2dPhraO6YwBNOsQGMsi6P/whoDtjtejzqpOFGii2SPWjtlj5yLxo/+e1/VDaVF0HHxUnCwm92nOJ6AF6ifaWR+pqN5VXS/ZeEX2KnmfPjcAc2XetaDLB1yxYwAZZ9FZyII5laOrNX8Vq/NHwVYyJfrsbMShPOOWp7baNEN2erVMy6G4du2WqB1mdBkzMKe/k35TwiYsNBCYPLCAR68pIU/tYWywpRoAIRMCUTgj3sm7EoxDpgxbRweF+6PeJAJylp1WfgmzA1t+wZqWYt0wNKTlMdogEPCHt2YH7GxB1OWdSgmGNWcsM1jqLgt2BWspO2CSGI2X5WtJ7qF7dY75rWi8EcQUMt5vONWynhUMjIUJ8vImPHb0f9wAu9DB2M9vBNyIlzyG1sceCGMiyolwgFmcDTXppjNT5cbuKQUO42MQW3wYc4iqun/dv9rqewargHLvdeKdD0vT8Tb+N+5ves7V5q9eeEIKhoNG0D2YNQ==;Due0mMsH3eps8TdZjRZ2/Q=="
 ---

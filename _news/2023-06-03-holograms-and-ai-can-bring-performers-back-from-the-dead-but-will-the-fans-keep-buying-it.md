@@ -41,20 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Holograms and AI can bring performers back from the dead – but will the fans keep buying it?"
-    excerpt: "A study of fan reactions to ABBA’s virtual Voyage tour highlights the ethical questions being raised by advances in holographic technology."
-    publishedDateTime: 2023-06-01T20:01:00Z
-    webUrl: "https://theconversation.com/holograms-and-ai-can-bring-performers-back-from-the-dead-but-will-the-fans-keep-buying-it-202431"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 28
-    images:
-      - url: "https://images.theconversation.com/files/529216/original/file-20230531-23-ls23s6.jpg?ixlib=rb-1.1.0&rect=6%2C424%2C4555%2C2277&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "In Montréal, one of the fathers of artificial intelligence warns of an existential threat to mankind"
     excerpt: "Yoshua Bengio says his struggle is like the one waged by those who for decades warned of climate change without being heard."
     publishedDateTime: 2023-06-04T01:16:00Z

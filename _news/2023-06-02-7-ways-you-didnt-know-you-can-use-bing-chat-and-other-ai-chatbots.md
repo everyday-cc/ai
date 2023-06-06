@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -129,6 +129,15 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Editorial: Federal law shouldn’t shield AI chatbots from liability"
+    excerpt: "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,” 350 AI scientists and other notable figures cautioned in an open letter from the Center for AI Safety,"
+    publishedDateTime: 2023-06-06T12:30:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/06/06/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 19
 
 secured: "wkwh77eGMsve0cVHpA7GodWtLyExYayfnfrMu+qbeNjiaufnMlFdbseH3Gcsjt+pcf28pchqCTe7nRcjGCmK04wAbIy6l8Dt096eA9EvIzc0RCCdG9zL6B5A8kovNmBPFMU01TULs4aLM0RmuRRUw+eNpk3fs4xpMdBwgy91bXWYWKXjM8Jcrj5etbB8lXXpBBluHTJoeOu5Fdm5C7x2ZIpuF+qFCylh/tjREwdEyJZsUV0iV+IUuAxxZvXX0aBIxTkNGdV6w+1Q6jSxlofwIgHFDg4QQ52J61Ste1vSrs8yDvRyKhOy8rAvtny8lSBgMl+Kn9a907qnpchaSeEVbudhIRWghgbZRVWasafby/7NhXYSYOHdKegz7NxPD2OU8yt7tBOPwDgly8GEvwsa23ChhaSIghc18SqCPg4qHDb2B0XvmLt0wcMMZaKfz9I9hUP8VxqW165gV/069VU6HqooX0s3Mjno9l2rIMICNa5ntmncqjulELf90YFkNbOdyXJdlu0tkwKc8W/Pvo3N8w==;jIWQeYgA4W+cuOCy+mvHCw=="
 ---

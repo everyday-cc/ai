@@ -24,22 +24,6 @@ images:
     height: 779
     isCached: true
 
-related:
-  - title: "Tech leaders issue dire \"extinction\" risk warning over AI"
-    excerpt: "We got an alarming warning this week about artificial intelligence from some of the world's top minds on the matter, explains Dr. Manjeet Rege, chair of the department of software engineering and data science at the University of St."
-    publishedDateTime: 2023-06-01T21:50:00Z
-    webUrl: "https://www.cbsnews.com/minnesota/video/tech-leaders-issue-dire-extinction-risk-warning-over-ai/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/8917377a-ae18-4434-be80-f6b4fc308536/thumbnail/1200x630/b78a61166ed28cb57e3005078cbb23b7/c95574ccc46cab15c6d6f35ce3e1976f.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "vAmH7ddBZIMay2U/aTKBZMp/MocoT+VIncf4uWmhOxdhNYp2O60+pWlXpBHX7LuT4CBTg9lG+0JMndLzeQ87tuQntjmR/6/CfjaeOvaeYrQgUAqG1bQGJbmT4lFHVroF+xcOHDsxer60/sIVVule4WMa46i4jX0u/qQrZs8hVt8lx+XosDtEMmV/n3QC+UrgditIXGBT7GlSEiKVFPjNTGGn2zVtqwTq5vnAhGgvsamGB5zDHdwM8hqF48onvnbFI6JLGZJzpfM0xSvplOvAbDXcbgTmy/0d+uPAhbID1enCn4UeFh7AEpyhG/oDebEFIusWyZdfYM7DpudekY3+Vb/nqmxYBhjoopy8i4KKho8=;oZWlM4Or5E2FX4it4v9Rwg=="
 ---
 

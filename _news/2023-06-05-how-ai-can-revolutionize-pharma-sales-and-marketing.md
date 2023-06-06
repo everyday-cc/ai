@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-rev
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/amp/"
 type: article
 quality: 121
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/06/03/portadas_javi_benzinga41.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Jacobs and Palantir Expand Partnership to ‘Revolutionize’ AI Solutions Across Industries"
-    excerpt: "The partnership aims to harness Palantir's cutting-edge AI capabilities and revolutionize the commercialization of AI solutions across a range of sectors—including critical infrastructure, advanced facilities,"
-    publishedDateTime: 2023-06-01T22:23:00Z
-    webUrl: "https://dallasinnovates.com/jacobs-and-palantir-expand-partnership-to-revolutionize-ai-solutions-across-industries/"
-    type: article
-    provider:
-      name: Dallas Innovates
-      domain: dallasinnovates.com
-    quality: 30
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2023/06/Jacobs_Palantir2-iStock-970.jpg"
-        width: 970
-        height: 464
         isCached: true
 
 secured: "YpSFw8hZ/eWF5ddQ+Rl9o8YDeShtdPwTUb+/rhPBI7K0dlUiMnEZqn16m2oPI7Lqr6vxKj1jygZ/cTkQlEaygGZ4vadXt+OXQ9wDOCNdMFquSrhEwWHMIduPAueEv2it9dZYUMf9EV82erR+GIBAuVAFcQb8emFI3AWNgJaqSmCxE6gE8I5QDRZAWtnyeG+VKgrwTu0Cim7xeRZuyBybOAQ8xAMBJW/ph97qbUiJA07MeqmkAbIrRIDWZpP97MXNfu/5jCm42K7uOqYck5upHLmHXsbZrEGOXfBVomTeWsBSa9QSMOkZu5X8wAo2wMxXDZ1kksBxWB+jcnVa6LOHPNM24D2T//XWSBrpNKziFxQ=;AAB1xDx33USi+UESYxC9rQ=="

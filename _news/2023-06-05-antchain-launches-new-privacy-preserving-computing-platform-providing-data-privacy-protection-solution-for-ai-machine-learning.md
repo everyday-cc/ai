@@ -104,6 +104,24 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "4 Keys to Executing Generative AI"
+    excerpt: "Generative artificial intelligence (AI) has captured the attention of health care providers and payers focused on reimagining care delivery."
+    publishedDateTime: 2023-06-06T12:19:00Z
+    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-06-06-4-keys-executing-generative-ai"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 19
+  - title: "How artificial intelligence can improve the hiring process"
+    excerpt: "Artificial intelligence isn’t new, but it’s quickly gone from a fringe computing concept to an everyday topic of discussion. Whether it’s AI art, AI chatbots or general AI, the introduction of AI is critical for many industries, as it can perform a ..."
+    publishedDateTime: 2023-06-06T13:06:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2023/06/06/artificial-intelligence-improve-hiring-process.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "T21bK+EE5SXGTmRhZrz1DvTFqtnzldlAUt4TtKTSyIZJlQQJXpOrPHPmBPm71spK2DT4XeavRj4sL9e399ZYNVRwQfLGKUIvFNuSknHZU1pwDeCKj7J36v/kZCoTwHsoOXNFzpA56ElWJ1+nmebSM5K/oqpzZ3/Ouarx/maVryfnpHeUOsZTxhc4LLoZXZVc8bCEaTjVFY8WZQ6S5yUaFQk4zdaY3IEy2K5LUrJCor3kDNP+Qh5jlN8AvCNBfVPi+PnJqm2uYKFnoq3k+HkUHMvPvhOrPi/E6l535Kz0z7J4u4Bkzqw7RE6O+ZVYPJlT0odBuTFkZ5R59CHp5b9EuPSdYr6W59DNURpCYMir3BU=;1G+Wr2dyDMiPNJs376eByw=="
 ---

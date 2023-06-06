@@ -87,20 +87,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Wall Street is using AI to rewire the world of finance"
-    excerpt: "Morgan Stanley says its bankers are “experimenting” in a “safe and contained environment.” Meanwhile, JPMorgan Chase is hoovering up talent, advertising for more AI roles than any of its rivals. The AI revolution is unfolding on Wall Street as wider interest grows in the evolving technology and its likely impact on business."
-    publishedDateTime: 2023-06-01T20:02:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/ai-finance-wall-street-banks-roll-out-new-tools-chatgpt-era"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 56
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/1200x630/s3/aiwallstreet.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "When AI Needs A Human-In-The-Loop"
     excerpt: "In her role as senior director of product management for SS&C Blue Prism, Kavitha Chennupati is upbeat about automation and sees a specific space for humans-in-the-loop being brought in later on in the AI deployment process. With specific reference to the process of IDP (Intelligent Document Processing) which transcends into content processing."
     publishedDateTime: 2023-06-02T13:34:00Z
@@ -150,6 +136,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 19
+  - title: "Managing the Risks of Generative AI"
+    excerpt: "Generative artificial intelligence (AI) has become widely popular, but its adoption by businesses comes with a degree of ethical risk. Organizations must prioritize the responsible use of generative AI by ensuring it is accurate,"
+    publishedDateTime: 2023-06-06T12:15:00Z
+    webUrl: "https://hbr.org/2023/06/managing-the-risks-of-generative-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
     quality: 19
 
 secured: "vZY/qV19hM8tvn2KSo+GvTPTjLTF8N7SOsT2cqD14RYwkbJiPQ4y69DRkd2KT9XiqaScHMFw+M1SW40GTjCdOczRbCDqdFhROhpHIB18EcuATQcgA46fZmOhj2//J8e92yLzk2pjK06hGVyyoQy5heqf8tmGb2Xac4wlcdqAEMwzKLFvaFy27WA0vhEdfznXOeZBiuWlTfbNkQGs96Ys3lqVNf3y3ARVcKKJ88YBQsUDxv49eFnHZXYE2eRjLT6kQ9RmLr04PCB+ThG7ci3AA7fVLuQAmli2WFIvgqmAQD7DE//sNOwA7Vg+XAjtwVadBIt7WtIa8Vcoer1JiH3nz7zzszDkQ+MHukXOP8RTWj33L07rOy562j17l05W+JFCvnq2ZpVaG7oSr30PAo3HGY0150PV0am2Po3Mz9LkFMSRzRa1KBN5uq67Dep+U5yhkUBvYvL1xq2xNX2cdtlDDrEsGYdwXa86FnkGj+G9A5NiTNx9uKlqXEfrUI4m4105edKaD+U3wMYwx9uyuSPapA==;GzLAzBNcKd9FC0Z27Wbfmw=="

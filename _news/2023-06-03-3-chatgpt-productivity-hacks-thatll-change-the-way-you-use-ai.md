@@ -125,6 +125,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
+  - title: "Editorial: Federal law shouldn’t shield AI chatbots from liability"
+    excerpt: "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,” 350 AI scientists and other notable figures cautioned in an open letter from the Center for AI Safety,"
+    publishedDateTime: 2023-06-06T12:30:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/06/06/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 19
 
 secured: "UlI2OgF54DMrRZejANw6ztgLsVwKMclGpNeDte8/9ZGnLkJlGv40dXEk4mmUpuXBncmJAw22a4kcxV4lq43BySn+Oar6/cRSwaxaNvogSWFAmK6hKiGrUjuhTxRp++kk3HNtttZvuCjbyCt1ks9PKGXziNJ7puvZaOfbDCKBhDOW75gNPaYLjeIL8NrKvngD6EtdxeGQcEs5m5XnL7+V3Wvj8/sUu8r1yInjOey8uPVlRcHcj4i2rRb/lnAfOquLBoO8KCzKLoA+KGl8hi+0DEulaPr9jQXNWekPfv9SrhuFKi4HEH2qP2+wCRY6DhuKocZm+msVc2wF2sJIEwEytkbxfWu/wE41vgJA/YW7pYgdr8mmApypQGq+xnKUXy4DBXAyP/lUYfgfyG/q1acKzUhle/Xc+C79VOk+FuZR5IUXPYoXcwmTp1OrHuOk3SZSGBwqWKdoXVGp0mO80rAL7QlEwnPdsDoTvKy7zytwRMCpQt46PWci1ODzrL2wNhIrRRMVfmIBi/3EGfQTdsmSkw==;p4j0xz4FBHImb8GNGtsj9Q=="
 ---

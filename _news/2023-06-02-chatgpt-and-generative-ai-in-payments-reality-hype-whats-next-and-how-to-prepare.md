@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-in-payments-how-to-prepare-w
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june?amp"
 type: article
 quality: 80
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
         width: 1600
         height: 885
         isCached: true
+  - title: "Tim Cook covers Vision Pro, ChatGPT AI, and more in new interview"
+    excerpt: "Apple's CEO Tim Cook announced the Vision Pro, the company's first \"spatial computer. Now, he was interviewed about it."
+    publishedDateTime: 2023-06-06T15:23:00Z
+    webUrl: "https://bgr.com/tech/tim-cook-covers-vision-pro-chatgpt-ai-and-more-in-new-interview/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/tim-cook-apple-vision-pro-abc-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
+        isCached: true
   - title: "This test might be an easy way to distinguish humans from AI like ChatGPT"
     excerpt: "A test called the Capital Letter Test might help you discern a human from generative AI software like ChatGPT - here's how it works."
     publishedDateTime: 2023-06-02T17:04:00Z
@@ -90,6 +104,15 @@ related:
         width: 3024
         height: 1701
         isCached: true
+  - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
+    excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
+    publishedDateTime: 2023-06-06T14:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aprimo-introduces-ai-content-coach-with-chatgpt-revolutionize-/2023/06/06/9827428.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "js2+ywiSRTOftgptcVMks17l9KsgztWvafVVaKeg2SEybOchNiV/56HfFzXcoBHUYIIhsshTx67aMvVTlmfCrtWj0DT6u9xt7TOB6cWSAxw8NIysLFfBivvE9maajn5wTSXdvUVjKMB9sBlzz7JpkSEZUBOPPIexH6tXo8zZ7QQ4k85Vex0AwiOsxG/JaEu95Ir3BkY4mfugTdwbrQJv+GjaIZDIjl/Ho5CViL7k+kaqDRnyE7LKFg2p7hRCK66oac4FxTUWzjSOLJkZMTeNiB7WiHpEGunWul8MoKnTSRZQ5jvLWkkAZ3OU1KjA0dmtoV6CqAvehR7JYY+1p7aDa7/fQMfTo79ID8FM1TCLQR0=;rKa5ETOhckvem3K7hLU7dw=="
 ---

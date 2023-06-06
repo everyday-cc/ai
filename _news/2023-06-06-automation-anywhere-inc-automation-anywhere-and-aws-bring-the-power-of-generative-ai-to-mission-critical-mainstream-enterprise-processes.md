@@ -59,7 +59,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647e8876a92e58b45e214425/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -110,6 +110,22 @@ related:
     quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6479e7d30717c50fb50b6f29/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Privacy In The Age Of AI: Separating Fact From Fiction"
+    excerpt: "That said, AI obviously does not have emotions, empathy or the capacity for self-reflection, all of which are essential components of human intelligence. Plus, AI systems are still entirely reliant on human input and supervision, lacking the ability to make truly autonomous decisions."
+    publishedDateTime: 2023-06-06T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&crop=2433,1368,x0,y191,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -230,20 +246,6 @@ related:
         width: 1600
         height: 1024
         isCached: true
-  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Automation Anywhere, the #1 leader in cloud-native intelligent automation, today announced it is working with Amazon Web Services (AWS)"
-    publishedDateTime: 2023-06-06T10:40:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-301843492.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/541440/Automation_Anywhere_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
   - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
     excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
     publishedDateTime: 2023-06-06T07:19:00Z
@@ -258,6 +260,15 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Qwiet AI Continues Innovation Streak, Helping Organizations Reduce Legal Risks Associated with Open-Source Library Usage"
+    excerpt: "Newest addition to Qwiet AI's preZero platform affirms position as the most comprehensive AI-powered AppSec/DevOps tool on the market Disruptive startup led by cybersecurity AI pioneer Stuart McClure offers first look at Gartner Security & Risk Management ..."
+    publishedDateTime: 2023-06-06T12:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/qwiet-ai-continues-innovation-streak-helping-organizations-reduce-legal-risks-associated-with-open-source-library-usage-1032372720"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
   - title: "Applications for conversational AI within the organisation"
     excerpt: "OpenAI was established in 2015 and DeepMind in 2010. Both companies have been singularly focused on the potential and power of artificial intelligence (AI) and garnered significant media and consumer interest."
     publishedDateTime: 2023-06-06T07:19:00Z
@@ -276,6 +287,15 @@ related:
       name: Times Union
       domain: timesunion.com
     quality: 17
+  - title: "The Innovation Studio's mission: unleash and scale a generation of 'industrial AI' startups"
+    excerpt: "Exclusive: Homegrown companies are vital for Nashville to become a nationally prominent high-tech hub. These five executives are on a new mission to ignite and scale a generation of 'industrial AI' startups."
+    publishedDateTime: 2023-06-06T11:46:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2023/06/06/innovation-studio-tech-startups-ai-industrial.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 7
 
 secured: "UhoeVhbkYQGpP/V7EqqYsghpg816riIXzmayI1mdKNT8SKybS9N++qk9NRwaKnvAKVEdHZPCZD9Q70gaSvANaolOy4tiQpv4xJuq9pdQw1HgYsxztOqUU5N0D83G8rVZZ77iJ774TWi5ZbQOF+jmPeY5LOFP7brXMiT8qW51HZ+OCF/thbiJceHvjzOTjd8ZwXRSJOwfprztdGvWWR4jkQjYR7EqrVktvJT1jJTuzWNxpeXdn9LBPe0nEWdL6e2sk5x8StWd8thRodnsur1n7k206/Q/1w7U7eS7IAQoTh93IHs4MFlI4ybxnF1nJTweHNvjFK0MfBh97IPmaiNwFLsy0pdcPvbZDhK7NZ1CmHY=;RpQ3MvspeS9ukaT1Rq1MGg=="
 ---

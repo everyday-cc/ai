@@ -24,6 +24,17 @@ images:
     height: 635
     isCached: true
 
+related:
+  - title: "Robot Performs 1,100 Rebar-Ties-Per-Hour on Wisconsin Bridge Job"
+    excerpt: "The robot doesn't get paid overtime ... “When that TyBOT turned on and started moving and actually used the artificial intelligence to see the intersections where the cross sections of the rebar were and identified where the ties were supposed to ..."
+    publishedDateTime: 2023-06-06T13:53:00Z
+    webUrl: "https://www.enr.com/articles/56551-robot-performs-1-100-rebar-ties-per-hour-on-wisconsin-bridge-job"
+    type: article
+    provider:
+      name: Engineering News-Record
+      domain: enr.com
+    quality: 19
+
 secured: "XSMZkSZTf/20H3dzEDAUPmKG9uFkfOCa1nK76sssES/WnTDFiT+DYTwlXEcNwFjTHt/xaCbkYGBSp6VNjItoep3K9STCqykpMjwpNgAOre42SaoXH+ZoQtnviFm1STgMFKb7EWAM/Lo4c2xe0u8+OvzpTUhPojUME4SY9QRcNYn7jY06gqNI34UDYw0KvOzykf2L2fE/xgwtG0I7omLwu+V6rCDTIo5gJAyKSIPH0ORMHSowCDtx9VaWLTlUHjCKiTMyhVcJhoCNppgn8vaenJHvZQSJso92eyVnN9R42fUQ5cCkgEmQd1/kKKPKq2j9LpoM3J85e/1nH4zoZkGuel/TegB7RjxgGirC7tSUf1D4IUrTXBPUFgxLNuriabnmgezuJBnYmK5gtvgL2SPbT3OhoLAGBX12/+REvKrkPxLCc6vRhBqTF35RtHxvfcYgiV3T7FvJS6NP0Ao5QGFxn6r9B3V4CrLqFjV8a/rqF7yMHDrsUeF1V1tg4F5zIPO+M21AJuTLsFuJcPkcVUjrkA==;UDCA9TpYHKIs2r3emcuBcQ=="
 ---
 

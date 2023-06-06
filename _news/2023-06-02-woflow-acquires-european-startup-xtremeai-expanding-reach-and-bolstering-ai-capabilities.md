@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "European startup funding to drop 38% in 2023 — but there’s cause for hope"
+    excerpt: "Despite a tough funding landscape for European startups, the tech's ecosystem total value is expected to reach $1tn this year."
+    publishedDateTime: 2023-06-06T13:56:00Z
+    webUrl: "https://thenextweb.com/news/european-startup-funding-to-drop-2023-but-theres-cause-for-hope"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 51
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-3-4.jpg&signature=20f79e69dd75ffa5d93ccdc69e9a217f"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Woflow Took Over European Startup XtremeAI, Extending Reach and Strengthening AI Capabilities"
     excerpt: "Woflow, the data infrastructure company, announces the acquisition of XtremeAI, a Seville-based document digitization and data structuring platform."
     publishedDateTime: 2023-06-05T14:44:00Z

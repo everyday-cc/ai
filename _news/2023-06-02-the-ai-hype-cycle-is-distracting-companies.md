@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "What if the Current AI Hype Is a Dead End?"
-    excerpt: "If we face a Dead-End AI future, the cybersecurity industry will continue to rely on traditional approaches, especially human-driven ones."
-    publishedDateTime: 2023-06-05T14:09:00Z
-    webUrl: "https://www.securityweek.com/what-if-the-current-ai-hype-is-a-dead-end/"
-    ampWebUrl: "https://www.securityweek.com/what-if-the-current-ai-hype-is-a-dead-end/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/what-if-the-current-ai-hype-is-a-dead-end/amp/"
+  - title: "10 Companies Using Artificial Intelligence (AI) in a Compelling Way"
+    excerpt: "AI is changing the way many companies operate. Learn about how some of the biggest companies in the world are using AI."
+    publishedDateTime: 2023-06-06T15:34:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/"
     type: article
     provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 59
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
     images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/06/Future-AI_artificial-intelligence.jpg"
-        width: 1200
-        height: 675
+      - url: "https://m.foolcdn.com/media/dubs/images/AI_artificial_intelligence_robots_working_offi.width-600.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "J20JFtH6pAVKeGoMidcfOPg/BYfzOP6+YM1KdnSLi+XppnVlsRClr8sA1hakwIbA8OhmB3z8LVYjWD6WiKGfNoMYxTwiBmooD/wrGJbmjpV8gRKvOIR9B7melz6NpxpGVT9o2LkqVRVRI/6LYtjnZygEsHytU5/jahF8GPDQzvVMjZ5dPcqlCAYFUIp8JHVJ8oQ48UzrwZr7I9WhzwvgjTzHT0zKJpmY4Gm32g/x/zX3acHjVH0oqBkX8pUGh+7lZJGsf/qgNIqRQxZ2BQBzbX91Q8hx1N7p65L9xLs/hw7eRMBCXXFSHIGXWzjSe9LVizacDmx9eQaFkswL4xxraYtmveiB6aksQZs70hehQzXCrjDfMa30ZyV9jCAenwdW4v2QM+Hem3lo/RbujCXsHFEQfRTnLEYT91RYyXJLAMrMDHrorjL4Kr3binWwcf1vaDSEFH1FdIekq+HnCjBH2MIMrTA0ZPQIANC4wQ24P0deg/uRqPJtCL74Y7suROIqb3CSuLJnhQqzl5jIobvnhQ==;8DCRpd0bqtTX7X7jbrFsZg=="

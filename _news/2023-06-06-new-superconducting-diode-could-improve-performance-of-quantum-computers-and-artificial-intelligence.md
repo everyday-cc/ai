@@ -70,6 +70,20 @@ related:
         width: 1440
         height: 969
         isCached: true
+  - title: "Super Micro Computer: AI Beneficiary Priced To Perfection"
+    excerpt: "The more exciting product line of SMCI resulting in the recent share price rally is its GPU or accelerated systems to cater to the increasing demands for the generative AI applications, and data center optimized server systems that bring about improved ..."
+    publishedDateTime: 2023-06-06T13:49:00Z
+    webUrl: "https://seekingalpha.com/article/4609702-super-micro-computer-ai-beneficiary-priced-to-perfection"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1297493683/image_1297493683.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1152
+        isCached: true
   - title: "This week in AI: Existential threat from AI, Nvidia announces AI supercomputer, UK wants global AI watchdog and more"
     excerpt: "The DGX GH200 uses Nvidia's NVLink technology to combine 256 GH200 superchips, which each house an ARM-based Grace CPU, and H100 Tensor Core GPU, that allow for performance up to 1 exaflop (equivalent to one quintillion floating point operations per second) with a whopping 144 Terabytes of shared memory."
     publishedDateTime: 2023-06-04T13:30:00Z
@@ -80,6 +94,6 @@ related:
       domain: moneycontrol.com
     quality: 0
 
-secured: "xwaAXb7tsUPwYuwPRxa+VWWT/90EyKsp0xc9YOdOBwavIlYiv7zXCHb5z0W+W3ITsBAf4cL3yez0ZkmAUvy0rgMAuf/X188hEzLKp7vH7WceVJhauv7i8fBR2Ox3CVmTi3XccbWlJoKXVtbSx85wT3MgU1oBq/8/uHZzj8CSdOtiiH2+gBNp0LLyaiCQSOpfN2IcLGoyS0UxQ/jNcFVlm/8tlqJXsp+3/PD8BQULkjWILR+Qf3B0ulRJudAC00xvLc3K2dx3mGYvtlrttOvpfoJ0ITZal7jjbdSb2GR32cJYdVtUHPHlBx9V3iDS0ERvLi6dgJU+Y8/Ye8RGuJ/5cHvBIM37OTZh8QNBBFvyiV0=;USPZu/WVYX6/VACENOrOXg=="
+secured: "5zNOzhnzogsX9i8DbdDX5WpbLOmoHZ/Tz4iIpu8BJHGZFZ+4gcIfwDHle+HZQd0vLycYxXcCYTCyRdQhdTWgocCswXkhh6FTR9irNVStu8F9v/tY8Mpq4WffHZE2ZthJeTKVE3SDXGBYiprzWmmBGS5F10DULHAhoWEITbVuT7eUsSBrvKxHFEPuDnxHYMavlX5Rv4tBtu3AcFZBtq2XN85Ooi7+NkxSLZKYgfzTz7+lWoNtnkvhZ4t2QcPXENpXdLcxmEO4X3SbmC4agiGZle3rQYLxSfFrK5t6quahExobzjHpf1jK6IziSsYhfLTZ8ul3iffBwRwF4z2SNNFdJl1sxTTnkwH3+3j1AfqRl1+xCStch1/CV1Ll5Eb6FNnnVq0t6B+3abmbq49X48P1XmQ9TZ1fdWg0cJmCDONoi4l/UI/RsbnpYoLAF0Okt0SdD0xLfX/STHsGWPOTOe27FVEj7PyTJ8iV55+tIE4c3fKmGYfmTeBzE4DtRc2NdkudKLdS9QHucqyvacgmuPnkdg==;rKOAw8lzjNO/QDQmOYLY8w=="
 ---
 

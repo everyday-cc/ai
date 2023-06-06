@@ -47,22 +47,6 @@ related:
         width: 624
         height: 416
         isCached: true
-  - title: "Microsoft bolsters AI capabilities with coreWeave partnership"
-    excerpt: "which offers simplified access to Nvidia's powerful GPUs for running AI models. Microsoft's investment in CoreWeave aims to ensure that OpenAI's viral ChatGPT chatbot has sufficient computing power. OpenAI relies on Microsoft's Azure cloud infrastructure ..."
-    publishedDateTime: 2023-06-01T21:37:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
-    ampWebUrl: "https://www.thenews.com.pk/amp/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 74
-    images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-06-02/1076105_024731_updates.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Microsoft’s CoreWeave Deal ‘Adds AI Pressure’ To AWS, Google"
     excerpt: "Microsoft’s AI deal with Nvidia backed CoreWeave for GPU and cloud infrastructure puts pressure on AWS and Google in the generative AI market."
     publishedDateTime: 2023-06-02T16:59:00Z
@@ -76,6 +60,20 @@ related:
       - url: "https://www.crn.com/resources/0282-182941c9d993-f3abf62ff777-1000/coreweave-logo.jpeg"
         width: 611
         height: 458
+        isCached: true
+  - title: "Intel and Microsoft look to bring AI to the masses with Meteor Lake chips"
+    excerpt: "Intel aims to put AI-accelerated experiences in the hands of hundreds of millions of people with its new Meteor Lake chips."
+    publishedDateTime: 2023-06-06T13:16:00Z
+    webUrl: "https://interestingengineering.com/innovation/intel-and-microsoft-bring-ai-to-masses-meteor-lake-chips"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 70
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/06/image/jpeg/pOSv8dNxeKMqDTYoHX000kE4rPtKxTMrndXN0Mv6.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Microsoft pens AI cloud computing deal with former Ethereum miner CoreWeave: CNBC"
     excerpt: "With more than $400 million worth of funding raised in 2023, and a supposed Microsoft deal on the books, CoreWeave has grown significantly since pivoting from Ethereum mining."
@@ -121,6 +119,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
+    excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
+    publishedDateTime: 2023-06-06T13:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-microstrategy-expands-partnership-with-microsoft-drive-ai-enabled-/2023/06/06/9827097.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
 
 secured: "3CPqIAFCFDyMxu49gnRxzy1nwFCFh3YR9jaxb7Ggd/1/Bg0CroXTpftO98z33KulwK3dYmoipX9KpvXPBsGMxxOvf7aPCrnNqyBAKRce+xzv3asKw5/n5EM4ISLrslWiDHH/RVgRYem+KU14qZdpMK+zCnrO5nLfBjRpcBRx5b0ctnC8cXsiGeHoXfGRzF9KARKmra8j1pmBB6nfDjxsnXNH+roDs04LHfy8t3/b+jXuJyEs7GIWZPGOri3Lsu+gqxMYeHb3rf+IznfchH6KbdSeMwCMfxUnI6SsWm19iMNiwZJFZdTzgrc/F9mvgGAeZndX1t3ztDhpGfjuP1CIW/ttgwXqbg6unfsWPkP3stZK8wfyVIYQJ6wq539kZQJoQmu0xXEklQowqH89oUYqDAUMe2df8dNwlskmG0rOXCA+z/hBlV9m4+rurZmNMt8YbDY3t1Pi6HlJvvIOqt62e3g0fTkqQWAuYxN5oKAdDHmBqpsFbwzTCEF0vqjtzkcm8aZ5kWqeKxBHXnh3aabZWg==;H6LyZ3/uvHQ0fiR1aJXY9w=="
 ---

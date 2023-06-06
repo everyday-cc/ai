@@ -1,0 +1,46 @@
+---
+category: news
+title: "Glean Chat launches to unlock AI-driven search for the enterprise"
+excerpt: "Glean, an enterprise search startup, launched Glean Chat, a ChatGPT-like assistant specifically for workplace productivity."
+publishedDateTime: 2023-06-06T13:00:00Z
+originalUrl: "https://venturebeat.com/ai/glean-chat-launches-to-unlock-ai-driven-search-for-the-enterprise/"
+webUrl: "https://venturebeat.com/ai/glean-chat-launches-to-unlock-ai-driven-search-for-the-enterprise/"
+type: article
+quality: 47
+heat: -1
+published: false
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "Google Launches Free Generative AI Courses - Stock Continues To Rise"
+    excerpt: "AI has driven the tech market to new heights this year, bringing new investors into the ring as the craze continues."
+    publishedDateTime: 2023-06-06T12:09:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/06/06/google-launches-free-generative-ai-coursesstock-continues-to-rise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+  - title: "Hybrid AI concept would move AI generation from the cloud to our devices"
+    excerpt: "As exciting as AI tools like ChatGPT, Google's Bard and Microsoft's numerous Co-pilots may be, they all currently face the same restriction: you have to be"
+    publishedDateTime: 2023-06-02T12:35:00Z
+    webUrl: "https://www.techspot.com/news/98920-hybrid-ai-concept-would-move-ai-generation-cloud.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 50
+
+secured: "3LT3ymm1FZa7qlpZ/tOrjpixZu5QKzY6dntqZcZFX9bsJEVQwqXTQv29UUVEhM6PrNgEoxtUsw2CFylGmV/3ZfXisIer6npY5vFvBxtSFBKPfgl+igtCd46VyKntY+dQJ3BT37NaZ9w842wER5kfcZsDuwDmDsjWsa/2wIv4IFKMC8q+sQMAA4uiF8gytn0JF/SoAyZhqfRUyynTSpXXGQ9Ugx3NFrvB1KPgBDNigMmAWKLxvkhCt0fE8aadG/OY3Nrjy4eytCvXTVBtvG3vNnMD+lR5osXhGOqBIU7SeWblgSltYZ8nEP0okfenEkdNeGBbxqoWudauXfIjV8HDZo/pAGLLN4l8DbJ1jTRkVAWCV84OxiIpgHc1U3KRCNfolHCLQ5cZvmQTTFzm2d9o1hWdFjbcE9fTuMz2LZYg6OHykObSTCrIBxo42p4x64MEUFUhv/JDOW8ncdvnIoSvcKdQYrnvhLk0+ztg+i/FNiLZKEx6KUfB5JX9AY4z1xon4HSSwhZmMVjMEKp/HZWrAw==;cqi7uIuo/PIY3O9LPj2E6g=="
+---
+

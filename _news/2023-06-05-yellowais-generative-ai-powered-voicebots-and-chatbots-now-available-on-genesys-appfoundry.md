@@ -129,6 +129,15 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Editorial: Federal law shouldn’t shield AI chatbots from liability"
+    excerpt: "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,” 350 AI scientists and other notable figures cautioned in an open letter from the Center for AI Safety,"
+    publishedDateTime: 2023-06-06T12:30:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/06/06/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 19
 
 secured: "XI/DEdqtsHyfFNJ7k9a5EVNpWpB91FNcTy5/kSiCehSDHc/sgn/nCE2T+tM7UIn+KISFvHQHPaox8AdqoqXKM+K6Z0NsMut/sm1IsC8OUa7VwBmx5FdAFTB4TkLCdPzR8lbyf03tjTi5ncdn37EMDN1QfgX7H9zrzQ4sBgeR9X15zgd3Prh7ayVuoY/SHTHNu1wEKUFha48sQuN2RLqHbVfHjEPABxiYKqCLoFxY1ZDJ1GM3nXdimLnU3Q62qW8L1kilGvFTsOtZBx6loHnUK4FE0pw9BBaviWt4hxvs7GhEICvc6pbF1QD1iZI8f8OdqPUEhZ1jY8rWdnmVSB0wSW3toKK1qwR4PHFXg9/MtZ0WoHWNSR8nLosvSCbbP64iypNm5FRVJDZZ5q8IhDzJpS7bgL//P4QEztddtHe0qjmYuZOi4iLxQbZXJ+/FKMxJm/rlvp0A9pNv7lP2WnPkGh1MI4rgoRSftQ7vVphjQHZnX3bnRAr97x8ilQuPE5iuhrroDmpBYYUp0paaD+GHHQ==;LbJ7X1w8cPOiVcs8BL/OhQ=="
 ---

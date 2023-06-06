@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai
 webUrl: "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7"
 type: article
 quality: 67
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -60,6 +60,31 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
+    publishedDateTime: 2023-06-04T04:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/jun/04/ai-chips-are-hot-tfp/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 48
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/06/03/AP23152002685626_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "AP: AI chips are hot. Here’s what they are, what they’re for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed"
+    publishedDateTime: 2023-06-03T01:02:00Z
+    webUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+    ampWebUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
+    cdnAmpWebUrl: "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
+    type: article
+    provider:
+      name: 92.7 WMAY
+      domain: wmay.com
+    quality: 46
 
 secured: "Xb/7mgYGKIVzqbtskAe4mpNwYrrkSrrfuDfZjmSyUUJyaSPvjknHzMaw2RR7QBlgcyu68f1IxHec+pOklBzUPp4Lfusl9X6rhtnpqHpvNC86u5IUmBDq2AZS5ZP0zGeXpFn/E0qddnotATVMq0KtJ/Hwkzud7oS0K2H9an2hucOdXiL35lLtDNHhXvXPfCfzcpJye1sb61g1WqAD0Y3BjeTnvDvZhVJuVWb9ia+78YZmTvlcVM41yvmukOOw4ZNzMpBOfJLQov5xgmKZ1TCiUN9rArCSMAK/tj5tNng6YOQeeB8wHWznhHYEXpob12Foi1TOETOL/YVWq7FL/DbdWxOd9wmoNT+fLN3CT5lVxQ2ypN/kNwmPSHDwObPdhkqG9EvOGcZzIgCi6pgSfDOIcSSEgEstYPugIVdR4o8XKgJ+hWW1xGLDX3ZsxF8ub29srEVMH3qtMv/3dx/u1HfASwWaFWud1u2NjmJRGNCR2YBsNI6ys+4k8t78rbeIfIYpgqs9PMGFahUy9HFPioIk4g==;BCcicGlAhrvbn6AZPdqzyA=="
 ---

@@ -76,6 +76,20 @@ related:
         width: 1600
         height: 885
         isCached: true
+  - title: "Tim Cook covers Vision Pro, ChatGPT AI, and more in new interview"
+    excerpt: "Apple's CEO Tim Cook announced the Vision Pro, the company's first \"spatial computer. Now, he was interviewed about it."
+    publishedDateTime: 2023-06-06T15:23:00Z
+    webUrl: "https://bgr.com/tech/tim-cook-covers-vision-pro-chatgpt-ai-and-more-in-new-interview/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/tim-cook-apple-vision-pro-abc-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
+        isCached: true
   - title: "This test might be an easy way to distinguish humans from AI like ChatGPT"
     excerpt: "A test called the Capital Letter Test might help you discern a human from generative AI software like ChatGPT - here's how it works."
     publishedDateTime: 2023-06-02T17:04:00Z
@@ -90,6 +104,15 @@ related:
         width: 3024
         height: 1701
         isCached: true
+  - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
+    excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
+    publishedDateTime: 2023-06-06T14:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aprimo-introduces-ai-content-coach-with-chatgpt-revolutionize-/2023/06/06/9827428.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "geBE7pbx2VVfgyHO1gvMmNL97voxzvfjSVxwI1J3ATiylPdBpRIuuwB3uUT+8ybU/rtxOOTq9CYd/jf+os+tW+NB4BsAjP6fvZJjgT/TnxSh72MIXums/uCgyyPN0nyc8u8nUTaRGHkPtdl3GOJUZF4M9zx7lfTWTlTNqAZxjkNf4bKNk21hf/kKJJzrnhVB0Hnu7PUB+0C//eIulg/Myl5zO1lInv7NSqryaU5XmRN6bImfqeJzzWPaD0a1run5eelA79JZ2iAbOudTsUFHJ/7jEIx6Hfl8q0odjVy4cAbDNkKTGn6BYBYsCf2wlpqA7x1TV/9ksglRt+480D8Y97+H/491AFj11RBEv0537DaTSmWQ5ONRl1pUGBZPsXzNDBQ07FmflNCk2LihNcTXKasaGvgnFF2cR9oldlo3p6ARVJWOqNIzn4VSg3yIqL7r4hPpq4Tst221ss/24p6tyKkmEg2OgpRATSZJlG3a0wGeVMIkuhplFWVCbN8eBiKKwAwVD/LGu3S6nhnE3wl+AA==;comsnp4xHlvgIjVd/KAS1w=="
 ---

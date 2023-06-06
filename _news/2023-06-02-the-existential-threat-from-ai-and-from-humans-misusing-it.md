@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/02/the-existential-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Holograms and AI can bring performers back from the dead – but will the fans keep buying it?"
-    excerpt: "A study of fan reactions to ABBA’s virtual Voyage tour highlights the ethical questions being raised by advances in holographic technology."
-    publishedDateTime: 2023-06-01T20:01:00Z
-    webUrl: "https://theconversation.com/holograms-and-ai-can-bring-performers-back-from-the-dead-but-will-the-fans-keep-buying-it-202431"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 28
-    images:
-      - url: "https://images.theconversation.com/files/529216/original/file-20230531-23-ls23s6.jpg?ixlib=rb-1.1.0&rect=6%2C424%2C4555%2C2277&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Holograms and AI can bring performers back from the dead – but will the fans keep buying it?"
     excerpt: "Fans can mourn the passing of music legends for years, the hits echoing long after the original voice is silenced. Little wonder, then, that recent advances in holographic technology and artificial intelligence have"
     publishedDateTime: 2023-06-03T03:25:00Z

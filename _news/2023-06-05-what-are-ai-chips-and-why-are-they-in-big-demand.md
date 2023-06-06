@@ -19,118 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "What are AI chips and why are they hot?"
-    excerpt: "SAN FRANCISCO >> The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
-    publishedDateTime: 2023-06-01T22:11:00Z
-    webUrl: "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/"
-    ampWebUrl: "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/"
+  - title: "What if the Current AI Hype Is a Dead End?"
+    excerpt: "If we face a Dead-End AI future, the cybersecurity industry will continue to rely on traditional approaches, especially human-driven ones."
+    publishedDateTime: 2023-06-05T14:09:00Z
+    webUrl: "https://www.securityweek.com/what-if-the-current-ai-hype-is-a-dead-end/"
+    ampWebUrl: "https://www.securityweek.com/what-if-the-current-ai-hype-is-a-dead-end/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/what-if-the-current-ai-hype-is-a-dead-end/amp/"
     type: article
     provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 74
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 59
     images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/06/web1_13859247-13f3b5a518ca4bafaefc4d7ce03ff410.jpg"
-        width: 760
-        height: 507
-        isCached: true
-  - title: "Why AI chips are hot and what they are"
-    excerpt: "SAN FRANCISCO >> The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
-    publishedDateTime: 2023-06-01T21:00:00Z
-    webUrl: "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/"
-    ampWebUrl: "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 74
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/06/web1_13859247-13f3b5a518ca4bafaefc4d7ce03ff410.jpg"
-        width: 760
-        height: 507
-        isCached: true
-  - title: "AI chips: Here’s what they are, what they’re for, why they’re hot"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed spec"
-    publishedDateTime: 2023-06-03T13:05:00Z
-    webUrl: "https://www.columbian.com/news/2023/jun/03/ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 54
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg"
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/06/Future-AI_artificial-intelligence.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Chips: What They Are and Why Investors See Gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-    publishedDateTime: 2023-06-03T08:55:00Z
-    webUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
-    type: article
-    provider:
-      name: Business Journal Daily
-      domain: businessjournaldaily.com
-    quality: 54
-    images:
-      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/06/Nvidia-HGX-H100-module-AP.jpg"
-        width: 925
-        height: 520
-        isCached: true
-  - title: "AI chips are hot: Here's why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make"
-    publishedDateTime: 2023-06-05T15:04:00Z
-    webUrl: "https://www.news-journal.com/news/business/ai-chips-are-hot-heres-why-investors-see-gold/article_6d44afb2-03b2-11ee-bc1f-e72181d9132a.html"
-    type: article
-    provider:
-      name: Longview News-Journal
-      domain: news-journal.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/77/d7709f22-03b2-11ee-a124-0bc30dd5c12e/647dfa9936f24.image.jpg?crop=1646%2C864%2C0%2C196&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
-    publishedDateTime: 2023-06-04T04:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/jun/04/ai-chips-are-hot-tfp/"
-    type: article
-    provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 48
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/06/03/AP23152002685626_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "AP: AI chips are hot. Here’s what they are, what they’re for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed"
-    publishedDateTime: 2023-06-03T01:02:00Z
-    webUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
-    ampWebUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
-    cdnAmpWebUrl: "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
-    type: article
-    provider:
-      name: 92.7 WMAY
-      domain: wmay.com
-    quality: 46
-  - title: "AI chips are hot: What they are, what they’re for and why investors see gold AI晶片在紅什麼？為何它是投資人眼中的金礦？"
-    excerpt: "Such chips have suddenly taken center stage in what some experts consider an AI revolution that could reshape the technology sector — and possibly the world along with it. Shares of Nvidia, the leading designer of AI chips,"
-    publishedDateTime: 2023-06-05T16:01:00Z
-    webUrl: "https://www.taipeitimes.com/News/lang/archives/2023/06/06/2003801017"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 40
-    images:
-      - url: "https://www.taipeitimes.com/images/2023/06/06/P14-230606-334.jpg"
-        width: 800
-        height: 533
+        height: 675
         isCached: true
 
 secured: "lZkemwi1gVPNecs08Fgy1SsTOMpSOQMZ+8DoUOPx9QJS+79+BifUxbdU/KWgvc/I7y0W68R5JlezCeHpZnyDS0bcNPJoLTRCpLsYXvYOreKlSH6GtqtY0lJEizyNOxACyxRQygQSRdan7O8WCmxxVoetrJmT8d/0vM1vXqyxvc1DIKt4XuzqKEYDkJCa9oPEJwmxMgAAysyzb+gRpTen39kpBlzdCqhAQShVlD+hZllQF2TIn0Pd1kFpdj+f6xyaOLz+eoNFZSNUcrtlJ/mIYKlp9bsOd64UWxEllMQRt5sg0GpAHU/Cr9JrmbpNOi33bQJVwKEHCMixqHo/Q1Db/F0VzLLaxnS/X8scFT4qUYttjPF4K+4/YoToCCwmc/GwRD9cVZeuaxkNj7JwrutHEVbOrszCPH9Uxibw4WlsJiUcVhjLtwIX+LL23hjWjQ0m0U4XZ2i4kWyf83kfD2jn7y5cCjIoigAnZh7Efs3Bk45WflcoZN+pfVEOzr1zer+T6db5mo5GLDp2cjfolwyJUA==;OSfSDZ1djq0I92c7pj+7YA=="

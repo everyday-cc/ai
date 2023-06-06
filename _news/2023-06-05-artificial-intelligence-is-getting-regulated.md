@@ -58,19 +58,19 @@ related:
         width: 1920
         height: 1517
         isCached: true
-  - title: "How the Biden administration is trying to regulate bias in health care AI"
-    excerpt: "Artificial intelligence could revolutionize health care. It could also perpetuate and exacerbate generations of racial inequities."
-    publishedDateTime: 2023-06-01T20:21:00Z
-    webUrl: "https://www.wfyi.org/news/articles/how-the-biden-administration-is-trying-to-regulate-bias-in-health-care-ai"
+  - title: "With AI in Regulators’ Crosshairs, What’s Next for Fintech?"
+    excerpt: "AI is poised to change the face of fintech, promising groundbreaking enhancements to marketing and decisioning models and unmatched efficiency in content generation. But regulators are concerned that the adoption of AI tools may “perpetuate unlawful bias,"
+    publishedDateTime: 2023-06-06T15:51:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/06/06/with-ai-in-regulators-crosshairs-whats-next-for-fintech/"
     type: article
     provider:
-      name: WFYI
-      domain: wfyi.org
-    quality: 38
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://www.wfyi.org/files/wfyi/articles/original/pexels-ivan-samkov-4989167.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2023/06/shutterstock_1080340361-767x633-1.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "AI regulation is not a silver bullet"
     excerpt: "Post-ChatGPT, the chorus for AI regulation is reaching a crescendo. The one race that no one should win, however, is the race to the regulatory bottom."
