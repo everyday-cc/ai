@@ -60,22 +60,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "AI military drone kept murdering its human operator in simulated tests"
-    excerpt: "A U.S. Air Force Colonel reported that in a simulated test, an AI-controlled drone kept killing its human operator when it was denied from completing its search and destroy missions."
-    publishedDateTime: 2023-06-02T01:15:00Z
-    webUrl: "https://cointelegraph.com/news/ai-drone-kill-human-operator-in-tests"
-    ampWebUrl: "https://cointelegraph.com/news/ai-drone-kill-human-operator-in-tests/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/ai-drone-kill-human-operator-in-tests/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/d2d4e8db-2486-40f7-ad2d-2f05c217b331.jpg"
-        width: 740
-        height: 492
-        isCached: true
   - title: "AI-controlled US military drone 'KILLS' its human operator in simulated test"
     excerpt: "Hamilton suggested that there needed to be ethics discussions about the military's use of AI. He referred to his presentation as 'seemingly plucked from a science fiction thriller'. No humans were harmed in the incident. 'The system started realising that ..."
     publishedDateTime: 2023-06-02T09:48:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/european-startup-funding-to-drop-2023-
 webUrl: "https://thenextweb.com/news/european-startup-funding-to-drop-2023-but-theres-cause-for-hope"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: The Next Web
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Woflow Took Over European Startup XtremeAI, Extending Reach and Strengthening AI Capabilities"
-    excerpt: "Woflow, the data infrastructure company, announces the acquisition of XtremeAI, a Seville-based document digitization and data structuring platform."
-    publishedDateTime: 2023-06-05T14:44:00Z
-    webUrl: "https://enterprisetalk.com/news/woflow-took-over-european-startup-xtremeai-extending-reach-and-strengthening-ai-capabilities/"
-    ampWebUrl: "https://enterprisetalk.com/news/woflow-took-over-european-startup-xtremeai-extending-reach-and-strengthening-ai-capabilities/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/woflow-took-over-european-startup-xtremeai-extending-reach-and-strengthening-ai-capabilities/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 46
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/Woflow-Took-Over-European-Startup-XtremeAI-Extending-Reach-and-Strengthening-AI-Capabilities.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Woflow Acquires European Startup XtremeAI, Expanding Reach and Bolstering AI Capabilities"
     excerpt: "The deal brings new customers, valuable team expertise, and advanced AI technology to Woflow's growing data infrastructure platformSAN FRANCISCO,"
     publishedDateTime: 2023-06-02T14:39:00Z

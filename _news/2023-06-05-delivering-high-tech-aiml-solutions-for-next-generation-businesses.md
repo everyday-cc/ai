@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/delivering-high-tech-ai-ml-solutions-for-nex
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/delivering-high-tech-ai-ml-solutions-for-next-generation-businesses/amp/"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -22,42 +22,20 @@ topics:
   - Machine Learning
 
 related:
-  - title: "ApexOne.AI Revolutionizes Business Operations with Advanced Artificial Intelligence Solutions"
-    excerpt: "ApexOne.AI, a leading provider of cutting-edge artificial intelligence (AI) solutions, announces the launch of their groundbreaking platform designed to transform business operations and drive unprece"
-    publishedDateTime: 2023-06-02T01:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32684334"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334"
+  - title: "IBM Launches Watsonx to Power Next-Generation AI Foundation Models for Businesses"
+    excerpt: "IBM (NYSE: IBM) has announced IBM watsonx, a new AI and data platform that will enable enterprises to scale and accelerate the impact of the most advanced AI with trusted data. Enterprises turning to AI today need access to a full technology stack that enables them to train,"
+    publishedDateTime: 2023-06-02T17:34:00Z
+    webUrl: "https://www.kbc.co.ke/ibm-launches-watsonx-to-power-next-generation-ai-foundation-models-for-businesses/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 63
+      name: Kenya Broadcasting Corporation
+      domain: kbc.co.ke
+    quality: 51
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.kbc.co.ke/wp-content/uploads/2023/06/IBM-Watsonx.jpeg"
+        width: 2048
+        height: 1152
         isCached: true
-  - title: "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses"
-    excerpt: "Partnership to enable ZainTech and Zain B2B teams to offer cutting-edge data solutions that solve business challenges and drive efficiencies"
-    publishedDateTime: 2023-06-06T11:13:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-  - title: "AI-Powered LetzChat and Managed Health Partner to Revolutionize Language Solutions in Employee Benefits"
-    excerpt: "LetzChat, a leading AI-driven language translation company, is excited to announce its strategic partnership with Managed Health, a prominent employee benefits"
-    publishedDateTime: 2023-06-05T17:02:00Z
-    webUrl: "https://www.sfexaminer.com/ap/national/ai-powered-letzchat-and-managed-health-partner-to-revolutionize-language-solutions-in-employee-benefits/article_65af1241-7b7d-5910-adfc-9963d9c0fec0.html"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 3
 
 secured: "L86bxO051PhPlt56hizRP/bY0z7z2o8sz6+hTGKyWr6yOhyEgbk3rN3bHoeU595MUOmXBCTDPJKcK154b3SPtfmBb4X5uuMJEbLHcNErUiVMtYcQWcQTyCcJlGS+vi7hBucdoUSwZiJkwlc54DEzIQV1crimRe4s9gqOD6J5IFWcObElIdota3MRPNJeI7qb3vB6frN3xyWU/oYu2mc7VjC76mTK9c6a0OeyJqpXEas4i31nP3/XKCutWZObgK9+iqrBMHWm9+TS84c16k+NX5C42q3cuRb/1EW2QuWL+8/Btbg+65Pn01iiZP2LkHnsgBv8KiLZbw6XK56MXqUt+UYAQkvJatcFQVgflAbZLLNoufMpdCTFJ9Nvb273x4b7jRQH2xK79hfP2fcYxDf57qW2+zmCt2nPWcG4WhVMNa9OLVFWcezcQNM0tLLdqdoOaaAH9WH2oEofrBDqjlch3NoKZ3hl+ml2rPVgrJYWfIBRsviTsC4AtDlusMj2M01Lm5LGfE4Vqy32gUpYxaCTtA==;ECo27ADDs6sTW9Ll+f+LqA=="
 ---

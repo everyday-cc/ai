@@ -60,6 +60,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI Chatbots Are Causing Bank Customers Headaches"
+    excerpt: "Banks are implementing AI chatbots into their operations as a cost-cutting measure, but the Consumer Financial Protection Bureau says some bots are causing frustrations for customers."
+    publishedDateTime: 2023-06-06T18:19:00Z
+    webUrl: "https://www.cnet.com/personal-finance/ai-chatbots-are-causing-bank-customers-headaches/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 64
   - title: "Using AI to push the boundaries of wildlife survey technologies"
     excerpt: "In their research, associate professor from the NRS Department Tiejun Wang and his master's student Zijing Wu developed an AI-model to automatically locate and count large herds of migratory ungulates (wildebeest and zebra)."
     publishedDateTime: 2023-06-02T14:13:00Z
@@ -85,20 +94,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "How developing countries can regulate artificial intelligence, other emerging technologies"
-    excerpt: "Artificial Intelligence (AI) and other emerging technologies such as, Internet of Things (IoT), blockchain, big data, cybersecurity, robotics, and"
-    publishedDateTime: 2023-06-02T03:29:00Z
-    webUrl: "https://businessday.ng/opinion/article/how-developing-countries-can-regulate-artificial-intelligence-other-emerging-technologies/"
-    type: article
-    provider:
-      name: businessday
-      domain: businessday.ng
-    quality: 31
-    images:
-      - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2021/05/Artificial-Intelligence-AI.jpg"
-        width: 704
-        height: 415
-        isCached: true
 
 secured: "vz9qhjs0tNuHMToUnkcanUeGPpqPBa4mpal1pFTyrkQmD2mmtLza/ZYUl5KSp+1MiMN7UaqiLqGDk7yYZfI6knt7IiYpSe+oQFK3HwWUohmNiw7pbf5VoWwcd1yssJcQC909lHheAyEFjbW7jtbwjlQBEJBnTSYi2WY+BxI8a82Xe2xJCwuD+YYnLRpvpBEq15ryt7uO/AVcFo6rcqa5In6gXHyfmmFBi2qv1Y19uYW5gTb+qkQcxds20T2/ajzMk0aOqfpilA845GloDro6Taihwf/CZKN7Sc61nwC47WFqXSOB536A/twYa9AliroUHm01dtXy4GJ5fh7HlQUA02GKNeaC8qAVMNeK/mxc+pqwDZcngB5riGXBRWLGG5l1FStFO2h4JvJ7bZzXj3h/QhiQfLmyz8Ha1Ahevd4WOeHVALjR1FOwuGWsfRYNXRfBxzaLQTvMkCqyMRYylTPCeP42ghB5ngA3DztIyu7RJ2wI6v8n3VbjdExplnJZ2TQ/6JEl0JKuLED0XIHZInyC3g==;4TuNGAEyCVbh2Tt4VGslpg=="
 ---

@@ -90,6 +90,15 @@ related:
         width: 1024
         height: 614
         isCached: true
+  - title: "The EU tells social media companies that AI-generated content should be labeled"
+    excerpt: "Vera Jourova, deputy head of the European Commission, said, \"Signatories who integrate generative AI into their services like Bingchat for Microsoft, Bard for Google, should build"
+    publishedDateTime: 2023-06-06T13:53:00Z
+    webUrl: "https://www.techspot.com/news/98958-eu-tells-social-media-companies-ai-generated-content.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 45
   - title: "EU wants tech companies to clearly label AI-generated content"
     excerpt: "The European Commission has asked online platforms to detect and label content created using AI tools in its attempt to tackle disinformation."
     publishedDateTime: 2023-06-06T06:06:00Z
@@ -104,6 +113,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "CNET backpedals on AI-generated content… barely"
+    excerpt: "AI-generated articles on CNET and other Red Ventures sites will still be reviewed by an editor, but will that be enough to avoid previous missteps?"
+    publishedDateTime: 2023-06-06T19:30:00Z
+    webUrl: "https://crackberry.com/cnet-backpedals-ai-generated-content-barely"
+    type: article
+    provider:
+      name: CrackBerry.com
+      domain: crackberry.com
+    quality: 19
   - title: "EU wants Google, Facebook to start labeling AI-generated content"
     excerpt: "The European Commission is worried artificial intelligence tools like ChatGPT will result in more online disinformation."
     publishedDateTime: 2023-06-05T13:13:00Z

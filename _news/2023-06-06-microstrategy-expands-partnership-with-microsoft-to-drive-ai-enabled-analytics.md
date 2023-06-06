@@ -2,9 +2,9 @@
 category: news
 title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
 excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
-publishedDateTime: 2023-06-06T13:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-microstrategy-expands-partnership-with-microsoft-drive-ai-enabled-/2023/06/06/9827097.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-microstrategy-expands-partnership-with-microsoft-drive-ai-enabled-/2023/06/06/9827097.htm"
+publishedDateTime: 2023-06-06T12:22:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/06/9827097.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827097.htm"
 type: article
 quality: 30
 heat: -1
@@ -34,6 +34,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647e132a8740135a2713b283/0x0.jpg?format=jpg&width=1200"
         width: 624
         height: 416
+        isCached: true
+  - title: "How Microsoft Fabric aims to beat Amazon and Google in the cloud war"
+    excerpt: "Analysts and experts praised Microsoft Fabric as a significant advancement that could help Microsoft leapfrog Amazon and other cloud providers"
+    publishedDateTime: 2023-06-06T21:23:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/how-microsoft-fabric-aims-to-beat-amazon-and-google-in-the-cloud-war/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-05-at-6.22.08-PM.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Microsoft’s CoreWeave Deal ‘Adds AI Pressure’ To AWS, Google"
     excerpt: "Microsoft’s AI deal with Nvidia backed CoreWeave for GPU and cloud infrastructure puts pressure on AWS and Google in the generative AI market."
@@ -108,6 +122,6 @@ related:
         height: 630
         isCached: true
 
-secured: "N2IitfrER8TjMPygWm6bAmdn1sBP6ul6ATRlHz0EEMc6KX5Mqr6Q9o5rHBqMbDhCT0fZ83KJawAnVGXaa0sXT733dwrqV0erW+34UST/fNdWO3vEFhYB4FnwKNQaALTFrPDXFp3lblOE5KRUaRW5U60a8e042hDzUkEaAfFq14KiZieoFNUHeCapapRJF+/xvzv3HImkgZXAlrSk5Kqxs1M4Op53u/eGpHHVuTag7WWheIDBbPJ/uLPkhAYV9ENxCBeTatDoGW7sm3MHFt2PqthPUBC+TAunm6FDokJFVawOTGPJex0c4ajOMiVlTlWdIxT37VAz5sYaOOLqi4yLLvXlSiCcVZamefMWdgYeF08=;ROAEaroe9WniYm2BU+Oaog=="
+secured: "Co0DdFuds6RRYbWvYxU/TdMvpmzsuw2HrKwMJaIicqPRRRiC3L0LlzasUuNtMZLBVPrNbiVBaHpvpX7PZGt4xYJOCa+tsEP+85RHYpN9cbfK03/4ZTj5ZBctbjzRlmeqfqDOq4yUqx4jzrFtkPX1GQPuW2EEIjbsZcGeWG4/74o4InLyrNR+QwG4g+ssZTsSfu7TMKfqBHPEm8kVKSD8V5rVES8a67H8K+t7xpXh0EkhGcfXjJ21uscDo346dBdtfqvtrYoILtHOVFGeWoZ3KnUnIavm5cUCUkyI06/HNddRQgwh7EasoEACWsPgwGbJFGeuNG7j/9h1X7T1kpBSqR4Q4AmD+FnEjjmvZldzvrg=;9dyIjmxaFkkIiaGYsks32Q=="
 ---
 

@@ -56,7 +56,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 106
+    quality: 108
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647e8876a92e58b45e214425/0x0.jpg?format=jpg&width=1200"
         width: 1200

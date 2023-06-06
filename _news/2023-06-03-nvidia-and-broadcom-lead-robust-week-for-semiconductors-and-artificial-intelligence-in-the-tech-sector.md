@@ -19,31 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Broadcom CEO Sees Rising AI Chip Demand. Earnings Were Strong."
-    excerpt: "Chip maker Broadcom reported better-than-expected earnings for its fiscal second quarter. The revenue outlook topped Wall Street's forecast, as well."
-    publishedDateTime: 2023-06-02T01:44:00Z
-    webUrl: "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca"
-    ampWebUrl: "https://www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca"
+  - title: "Shares of semiconductor and chip stocks are trading higher amid strength in tech names as AI momentum lifts the sector."
+    excerpt: "This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want EXCLUSIVE stories originated by Benzinga reporters? Join 10,000+ serious traders in the Benzinga Pro community!"
+    publishedDateTime: 2023-06-06T18:24:00Z
+    webUrl: "https://www.benzinga.com/wiim/23/06/32745051/shares-of-semiconductor-and-chip-stocks-are-trading-higher-amid-strength-in-tech-names-as-ai-momentu"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-791517/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Buy Broadcom thanks to an undervalued artificial intelligence portfolio, Bank of America says"
-    excerpt: "Bank of America thinks chipmaker Broadcom can thrive in the ongoing artificial intelligence boom. The bank raised its price target on the stock to $950 from $800 and reiterated its buy rating. BofA's new forecast represents more than 20% upside compared to the stock's $789."
-    publishedDateTime: 2023-06-02T09:48:00Z
-    webUrl: "https://www.cnbc.com/2023/06/02/buy-broadcom-thanks-to-an-undervalued-ai-portfolio-bank-of-america-says.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 53
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
 
 secured: "yTmdBIDHPFfFjRlnRiqxZ/8c7jS/QfH52gTdFjE+yWcYAULIKZw5soQDiCbowxym529t07xJEpwS2NrNZ556H//3Pf+KHeATSWKwW615PAQrtEOzF5f4JQ/fIIOg0C3SRql4r2XSMgZsGUwTRXQ7sKGT013655Ihze44a0gTrLcKCpWksrXiuSqthAODqkZMFeLuVEKn3VdNZKmlXrE3dG3I1Py+bCXeEa/n1wp2cCL7RMhix8uO6RMCg0UllGChhI/1YnKViAat7EsYqVdXB/aQlL4BOfpzNJIaZDeSNTHedDUijTK0fvyYL5yzP2tZR3JACyNRcs0fgcYjz8IlInt6LbvFMMsNR1rZe0710Z6qnwI1bVtEZ9v7lrdOnoPN75j8wzOZZZgklcVPgMm/o/54Cvl+Lj/8jrn/52CENbR1hFloS2iOZ/FuVkkFB+PZEhkfAHVg9HZoVqiTat+bWHze7AvNINFnG7Cyagf891fBsQWjGIGx3FBhxFaraspIx+QsHVDbzurLJG2sQZPa5A==;UEjKvbtRZpv1HLrq+jAF9Q=="
 ---

@@ -119,6 +119,15 @@ related:
         width: 1200
         height: 626
         isCached: true
+  - title: "Instagram might be working on an AI chatbot"
+    excerpt: "According to the leaks, users can choose from 30 different AI personalities, who can also help users write messages."
+    publishedDateTime: 2023-06-06T19:27:00Z
+    webUrl: "https://techcrunch.com/2023/06/06/instagram-might-be-working-on-an-ai-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Yellow.ai's generative AI-powered Voicebots and Chatbots Now Available on Genesys AppFoundry"
     excerpt: "Yellow.ai combines with Genesys marketplace of solutions, enabling enterprises to deliver autonomous, human-like experiences with its Dynamic"
     publishedDateTime: 2023-06-05T15:00:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-06T16:00:00Z
 originalUrl: "https://www.iol.co.za/business-report/companies/tech-news-artificial-intelligence-that-can-see-d91679f6-febc-4f1c-bca8-fb7ac983c07a"
 webUrl: "https://www.iol.co.za/business-report/companies/tech-news-artificial-intelligence-that-can-see-d91679f6-febc-4f1c-bca8-fb7ac983c07a"
 type: article
-quality: 21
+quality: 23
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Computer Vision
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 related:
   - title: "EQS-News: net digital AG: Group subsidiary irisnet GmbH presents new AI product Live Identity Check"

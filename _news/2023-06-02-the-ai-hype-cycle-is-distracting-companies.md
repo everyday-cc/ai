@@ -26,7 +26,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://m.foolcdn.com/media/dubs/images/AI_artificial_intelligence_robots_working_offi.width-600.jpg"
         width: 600

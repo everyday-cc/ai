@@ -2,12 +2,12 @@
 category: news
 title: "Netsmart and nVoq partner to deliver integrated speech recognition to tackle the documentation challenge for in-home healthcare clients"
 excerpt: "As part of the partnership, Netsmart becomes the authorized reseller of the nVoq speech recognition products for Netsmart clients. The cloud-based speech recognition technology will be seamlessly integrated within the Netsmart myUnity EHR solution,"
-publishedDateTime: 2023-06-06T15:02:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm"
+publishedDateTime: 2023-06-06T13:53:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/06/9827449.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827449.htm"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://mma.prnewswire.com/media/2018676/nVoq_Incorporated__Logo.jpg"
-    width: 300
-    height: 300
-    isCached: true
-
-secured: "vrP2HnGBcq/TTDT9mxWBkxCxPAHcc7UHdthYPuw00u802bQ3hlzBCD8WTVhvY0lLpzQ44feE30NSW/a+8ssTGD2O4KH9tNOZeXZ50ytpS7ovTAtZChgHQqGRCfp8/1TyiboTkz6Bl6n9C/kVy1eBcGWf4DNeHOr8e3xzDiTnxlECSEgypvt3TksdBKDj8YiqI7GWl8Ilf9o7YzxUc57bIqPSUmhSdIRwmvN2mFJV3XnVRiq4Uru5EUt9pBtybQurwpv6Dc45pfjfvsWSS64cVs6G7hvgXcc9gXRIFdzxbHTj/U297lLkmKl46vJFCZLOID8YJCD+RMFwmeVjQh0ca78UfEgOw/DVqiX+bYYSwAq3KE446wbUGaQXUIGKz5YN5rsxwRoBghquTQxQan2MEPjlLQHRhtMX1apQCY9ppMpnZboegCMeXl+w0VcGjnNHSQ34A71Ipx+ShmrRdw6OUzDjuRXd/amXStaWQt9ClVtYLsnt16uA81/i+rKCXqMmY40xIWilXbVHd79WcSa3Tg==;fwcVYWywHiUj6pmmxXfJVA=="
+secured: "NQblNq5S7zJ6Y1VJYCzxdfWe/n/Vne8EEs5Ujx7qIfb07b7Cxm04HWTRmg3iVuD0ecl7+0btVCQ1rkg0gKcXR4DRFkpuTRJHj7+8026FWkur+XY+GTxmFh7BrKTFUD2rH0sCqSaHxm8t/aGdS0tbCIe7KHTalNA6sEd2/zMDbRtyxDNpntVmWY1VLhwdOZuy2OlGaDPRU4if5Oo3RTEE43CyzevwY23IDPym7lpWth3W2aM+L9FF97UrHTorVCPG12GHgScD3hJrVEKL8XfOBhTkGausMBvEOkMkMAZfY/ukmgKNLyNrUKSnf2u420/2nAQLkALh8+7hWCWp4V01dD8Vy9QsvxpazzfS20BA1tGGeqLCsSVrKdMnh94lSwhDlUwuqcxHJK8LUA41qc7l7C9OY8b2a0kYTbT2s3wmXXKkiWBLJ7wLzyWWEiQIXQk1tX8m/JWUqqJ86A2Bl8MAS4fREgNHWSGI92y8MJaXLxSDDqq7XUmDeCxCySBMTAZJ4f4A38ad73aQDdX/rrH0BQ==;47X8ZFt2MMpaaiTxtNRHAA=="
 ---
 

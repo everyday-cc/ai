@@ -68,6 +68,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "OpenAI CEO suggests international agency like UN's nuclear watchdog could oversee AI"
+    excerpt: "OpenAI CEO Sam Altman speaks in Abu Dhabi, United Arab Emirates, Tuesday,. Altman on Tuesday suggested an international agency like the International Atomic En"
+    publishedDateTime: 2023-06-06T19:09:00Z
+    webUrl: "https://www.chron.com/news/world/article/openai-ceo-suggests-international-agency-like-18137808.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 10
 
 secured: "I+S7HmM+e99+MxhsQaHIimbqjCfmpZi5UUFBgmLcJsQhmrcKXjlBQaOgrNrkl1yFgz4NDnjf98wZPB3yAoXw7jTvI0OJd95QawjUoia8XfTPh6koh9YK57CxhJRIi+jAGjLD18k5KcUkEA5+eHZdygEF1i1e8lrfOK1td+BPAbHjGcPpFv3F1YWyY74wpIQIQrvVTdgjz1JETAQzoINZg6C6tQuiii9OtaI99FgXwa1Y0s+vXHKrwd9AXxryZISqjvMvASf+6XMwg/3FVYqYgeTpAgtLGohra9XjPRdOzvzndT1X099ewzLeb2FomZ82JwE7lFM39pJuP+GPtNlPwlqrrsZZAfiZyLQHWUxxTU2fGF6A/BrAh5EKk/VR1V1f/r1r7FKtEoUUyRr9VHEmC2k3nLck9E5OFPHDz6YLlGyGr6VNOQF/2vVrOvDg5xpB1GguX+8WA/fh9ipz6YKn6/ns9jqXd6WDmwfYzTojncXIKGSnLmDbnIe/iLijc3+OttfZNgY0+v867+bLhEpsHg==;qPcebBpYtIq7bncipdATug=="
 ---

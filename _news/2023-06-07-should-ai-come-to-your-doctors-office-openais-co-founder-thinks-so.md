@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/should-ai-come-to-your-doct
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -74,7 +74,16 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 30
+  - title: "OpenAI CEO suggests international agency like UN's nuclear watchdog could oversee AI"
+    excerpt: "OpenAI CEO Sam Altman speaks in Abu Dhabi, United Arab Emirates, Tuesday,. Altman on Tuesday suggested an international agency like the International Atomic En"
+    publishedDateTime: 2023-06-06T19:09:00Z
+    webUrl: "https://www.chron.com/news/world/article/openai-ceo-suggests-international-agency-like-18137808.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 10
 
-secured: "EqtSm6M/XwK7oFXbr2kVoJ8oMKHfP4XnMwX5rbCVsQIBLy3YJWJc9cSG6Ya2xYXuUd8ht+ZQpUfdMFIB/8k7EQ/iJtkjIkOgW+B/8XUgk9NPqjGdJ8SdvUblZjKb9cpd4ck4DtCZ/lMODmiCt3jPyGwA8K686OvPx6tOnyltOXiYT3mOSZblSmSUB6qQCnye9BcQzuAp5osfnNEKeKeTO+FvWInXB8jJq0Y8C34/y/XyVN5xl0YkSzk07VwN6omsSroybhIQ1Y23jRa4K6FcCoOmruqouxWptgXJNw/lETG+CtWNB3ZQTfu8GPXgaxNg5FdXzFDlUw9FMD0Xt0cMSQpLOWbprszaRLqlxiJWb7c=;FcyZpZwG2HfWdpmq1bvXKA=="
+secured: "yQdz9NHIsDkT+Jz+y+c0g7i4CbASO6pfhReC+YHos3TIfaT3F3Lme0bSEUVUs19zoLDbIrdDB6/dr36ogRujDNUgg9wz06ohxl+SotZ7FJgPXlcDF31r6v9G7AD2+r2B4VUtDtfNfe/WhZE/XWMt2+frYdhOXRySucaEbi9qHjKdDJiazpjt3hxp8UdPU3QjHuyZy/WY20qTWW5ZBYOOlX5WYGkqyFcAAQtc6cY0mga+XFdVoPfv9PFPe1DUf5WxqUTbdDkyFK2+nziWGdWFeFeg9FPxlLGKcSyJI4I0NducpiJHf9VfFY3/R9swlG3a6NoZDfnFiRQo09ebtcrpSt6JvfWF33saSfjEHyCxj7Eeuo9DsqRe7zsLXSNelb4p8mCsOE15Ek/oIT6sbUiKBu5PWzx3oMuMwAYwh7ug2EM1ix3QuZFIcMGoM98ZI4FiqXwe8VjtRqW9TWA5VcviXb0sHQpybfcTMU3B1LpqF2dFUUZk6pZuIwAZwQN0ISsOct0K7aXGZ4efZjE0qqevfQ==;pZq3SComp1bhL2xA1Ab7tA=="
 ---
 

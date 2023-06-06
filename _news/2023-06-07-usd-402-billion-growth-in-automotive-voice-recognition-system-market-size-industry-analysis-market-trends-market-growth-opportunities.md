@@ -37,8 +37,8 @@ related:
         isCached: true
   - title: "Digital Twins in Healthcare Market worth $21.1 billion | MarketsandMarkets"
     excerpt: "Digital Twins in Healthcare Market in terms of revenue was estimated to be worth $1.6 billion in 2023 and is poised to reach $21.1 billion by 2028, growing at a CAGR of 67.0% from 2023 to 2028 according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-06-06T17:13:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827683.htm"
+    publishedDateTime: 2023-06-06T18:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-digital-twins-healthcare-market-worth-211-billion-marketsandmarkets-/2023/06/06/9827683.htm"
     type: article
     provider:
       name: TMCnet

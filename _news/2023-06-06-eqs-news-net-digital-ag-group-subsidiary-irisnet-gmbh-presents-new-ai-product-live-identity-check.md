@@ -31,7 +31,7 @@ related:
     provider:
       name: Independent Online
       domain: iol.co.za
-    quality: 21
+    quality: 23
 
 secured: "pLndOoBVJgQ5aJyl9T/UgqDHMfSOApCeKnZBNolFkd9qdvFYmWWhdwk2liBQqqm8dzEu4XulMDmRrdhcBl4VjIZnQJywe0W7hIU+39T9On1RjuXbzB9VWqLcVOmLwYigjJrVUCXRot/EUIqebwjxa1zQq17ecWFiK53Ms5UfVbWySDk91lxXZXTvU+jJ5zA+XfGgPbocb14JwA2saBdfXhGQezgrHfW7lQi/0/X0DiaUPGlSN80mcDhmfWu1Glq9eLxYJjM9rGsKvD9ZI1waTEuT8xgeomXyRV6yF8jNkgks/vHgXkj4WCf+BtGKTyOvt3682Lb0drNPcTo3WHX9ZKR49e7qhdS5yCM/VkNvycE=;0pfjkIyBsSNTPeAvAwUeWg=="
 ---

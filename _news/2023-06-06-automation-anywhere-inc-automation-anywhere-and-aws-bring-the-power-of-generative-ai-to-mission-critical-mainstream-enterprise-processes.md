@@ -33,6 +33,22 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "The Future Of Education - Disruption Caused By AI And ChatGPT: Artificial Intelligence Series 3 Of 5"
+    excerpt: "It is crucial for educational systems to adapt quickly and integrate AI into teaching/learning. However, educational systems are slow to adapt and full of bureaucracies."
+    publishedDateTime: 2023-06-06T01:25:00Z
+    webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/"
+    ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 108
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647e8876a92e58b45e214425/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 742
+        isCached: true
   - title: "Fostering International Collaboration In AI In Healthcare"
     excerpt: "Combining AI and robotics and healthcare with a mission to extend healthy human life. Meet Richard Yang, partner at Sinovation Ventures"
     publishedDateTime: 2023-06-05T11:00:00Z
@@ -48,22 +64,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647bdd7fddd81ae2fc13b283/0x0.jpg?format=jpg&width=1200"
         width: 800
         height: 1200
-        isCached: true
-  - title: "The Future Of Education - Disruption Caused By AI And ChatGPT: Artificial Intelligence Series 3 Of 5"
-    excerpt: "It is crucial for educational systems to adapt quickly and integrate AI into teaching/learning. However, educational systems are slow to adapt and full of bureaucracies."
-    publishedDateTime: 2023-06-06T01:25:00Z
-    webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647e8876a92e58b45e214425/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 742
         isCached: true
   - title: "The ethics of AI in education"
     excerpt: "One of the ethical concerns of AI in education is the potential impact on mental health. Studies have shown that students who rely heavily on technology for learning, whether it is adaptive learning systems,"
@@ -297,6 +297,6 @@ related:
       domain: bizjournals.com
     quality: 7
 
-secured: "rFHKxbseLF3NJ4TO/yIFC/xHmyfoOo4mklirBiQIq8XB7WH9uY5/fXRjgvYiuZR91v1fTl39i9RoBr9rV7sI+J5kV8tBUFKO6qp9U4zJSrPumdvNlO9VrFjmOZ4+u5GnHEWdyQMoR6jYkcleZRPsYY/fpARNmWD5INlWssd7jo5eZJSq3PhATExIAxcLGAGGKYb+jIdTUGBsKgMFTiFKhQ3uTMasuPoBwvyLUA6bBuj9jJqVaRAJw6r9Eo6PhH9WPT8Kr7BVJOOlXwKUhY1K3/e+LXT7pjSOnYuV8nuyRyOKC5tFBcH3SlP71fn64JGRLLV+ps68Q5iMP6t7iqRJ2BtSetickNu8DZshEcum2oY=;zpfRDz5c4vQQSBidtplbfA=="
+secured: "iJ9NIrM5uw1oLcHpW6vod+kcIFBXoN+Yyj+xqS93ghJA364cfiMfIHOrwaWbRaMvyeFh4Aq9tDwNN0s0IulB22+rWMc2hGmrdez4I/29VXnD7uvzC4CYMgC8NpQo5qJ/eRKpxASS8Kc/uc3kClAc2O+lpK6yHqWnmcEnIJV+EFWunlfgenIRjahE4giZHfXMZ8uLFKf2gHFYBrViWPVxs+KdGX1hJuPU/kx8uvMtnPdrs8pYmCY46YPQhEq1bqGmMcj2UvRS8oiLhh8NFw6ObxEzgsiU7+NZ5++evgBYOZt+npxkCkvm6O+3rXryKSpt3giFzmNJ8fGX/S2qnX+ax4irzzxJDyDfsE3iDLiFdic=;C10VRaw2J3mf/FQknNXJvA=="
 ---
 

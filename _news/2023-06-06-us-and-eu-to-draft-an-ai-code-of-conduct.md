@@ -39,6 +39,20 @@ related:
         width: 702
         height: 526
         isCached: true
+  - title: "How to Make Money With AI"
+    excerpt: "While many are worried that AI might eventually take their jobs, others are looking to harness its power to make money."
+    publishedDateTime: 2023-06-06T20:15:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/how-to-make-money-with-ai/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/Computer_user_in_deep_thought.width-600.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "GEljWoaEnJpEA5QuPFPCs+LtCIHYJ1mTMU5q0mY43fo0zLqyVROjYzqfQXgu+dv+F97OToQJbnUTlFuHDBJwY/clixw6sHroaffFssYhOZH9BJ2M+DNU5S2z+nHjtKqzse5hhwxZr07cj5MzQgkLqTca+fAhsdwY1JnD3TblVswtLnF8ixXHIV1JK4n8n3Guudwm3jzvEJS4SXttHhYQTu3usBSmCHtpQFZMwkEfbDPgPEU7piUUrtACoMAS3mbUPJdnpYaWFHYm+KdBw4vEhAwyb3d5cCcmiQSDBTsEgK9pEPCZCdDcEOYd2BhvSXZ+Kzf89n74+kniZlbg0gVmV6aEbZNma01wR5f42HhFKjA=;6s4PfhlvJ73rIk6lQAV8sw=="
 ---

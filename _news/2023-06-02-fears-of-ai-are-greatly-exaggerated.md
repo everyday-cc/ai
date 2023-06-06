@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Longer-term API attacks are suited to Artificial Intelligence security, says expert"
+    excerpt: "CrowdStrike, which furthers CrowdStrike’s recent thrust in trying to cover all aspects of an organization”s cyber security, not just the traditional IT-related. “APIs are just growing like crazy,” said Michael Nicosia (pictured),"
+    publishedDateTime: 2023-06-06T16:42:00Z
+    webUrl: "https://siliconangle.com/2023/06/06/longer-term-api-attacks-are-suited-to-artificial-intelligence-security-says-expert-falcon22/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
 
 secured: "USVoglaLLqFmW4fbVz88QXIPnTmWIEFXmzj6iko5WpNp+SueArHlE3rHdUCOA5EH6zf517c8xrck/Ny8XdrLS/bBYintCiTNiSSZkqVy88NH3BSzVCKi2LOM21pLyyfixAoLcAkbfkz8rMvAJJPiZbSwYKu9imhvbUm/k3wtaOnMkxGwoNTA4Hc3aV/bUlqRMA6G44rK4EmiyC83mNP3QjI2qR5FQKfchFw30AEU4eSnFFghEYxFXDJ9j02sBqVjBIo5YOSE13k2AMbjXMBBXjmJtmuzmUyVoIg4So62FaIet2cPDndyYy+ciX4t0hKNJi4dKz3iSTfD4VXpG1pI9V332g/8SRT5jSmC8Zw54Is=;ILceNle3zKzKRqg9waeh7w=="
 ---

@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6474d458bc83efe2be9811f3/0x0.jpg?format=jpg&width=1200"

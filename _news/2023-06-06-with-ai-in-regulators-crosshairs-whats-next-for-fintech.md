@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 744
         isCached: true
+  - title: "Lack of trust slowing down AI revolution in medical settings: GE Healthcare report"
+    excerpt: "A new survey from GE Healthcare reveals that clinicians lack trust in AI when it comes to using the technology in medical settings."
+    publishedDateTime: 2023-06-06T20:30:00Z
+    webUrl: "https://venturebeat.com/ai/lack-of-trust-slowing-down-ai-revolution-in-medical-settings-ge-healthcare-report/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Here’s how Congress can regulate AI | Opinion"
     excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountab"
     publishedDateTime: 2023-06-04T11:17:00Z
@@ -77,6 +91,15 @@ related:
     provider:
       name: The Hill
       domain: thehill.com
+    quality: 19
+  - title: "Japan Announces Groundbreaking Regulations on AI to Protect Artists"
+    excerpt: "These regulations are still coming together in Japan with officials, but this move is a watershed moment for AI and artistry. Currently, creators in America are facing down Hollyw"
+    publishedDateTime: 2023-06-06T17:48:00Z
+    webUrl: "https://comicbook.com/anime/news/anime-manga-artists-japan-law-ai/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
     quality: 19
 
 secured: "mup3YLQDzb9EJguaYs/jNLCRxKHYUvMwZLH5JoY3yB6XJrFMJ6VSuwibG7idQ/Hqq+9aSbZF6Xh/4AV28VfO0JLYj7s4BhYCy0tUGcLPHJjLopVNgQazwQkpOmx0DHYsrXGy0SJL5Yf2kMfPRVnNLBcxy7NrPehWiupPoQ840dXdlhW4qoCYq3PPc1Dd32CFOCSd+xGRgebGSJFslwE/tm/i35IX+yhF5OY3Z/VSfVvVFj0VYxIq7CnnXDAseP+vnrG18kJbJxxKFbo7V8fNz6l8GAEu5FaFTkl9Wkig/crdXBZMrAXRTpwaFhiomEPt4L59MBf3mm/PJVqmS+BQy1xbd8SZFBCeApbaZBj+C7eI5f6/kHONgcK6zRyDr+oyBSd+UH6XWVJkeXj8SerS5EpUr+FIMQFKp1iY/Zrq/U7ff+Zn0SvkjlJFSiK2KpSotf6XVIHdIph+grfEcGRWgTLvieSUCZ6KvmwmoaPPw4ljJ2dqj419tKy/JwRApELhh2UjOa83qsLgfNIP2I9KNw==;pzMiqzSIASDeiOB1Z0LRqA=="

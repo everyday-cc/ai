@@ -26,6 +26,19 @@ images:
     height: 1106
     isCached: true
 
+related:
+  - title: "Pennsylvania Bikers Rally for Self-Driving Vehicle Protections"
+    excerpt: "Hundreds of bikers urged Pennsylvania lawmakers to extend the automotive lemon law to motorcycles, grant motorcycle processions the same rights as funeral processions and continue supporting motorcycle safety training programs."
+    publishedDateTime: 2023-06-06T21:12:00Z
+    webUrl: "https://www.governing.com/transportation/pennsylvania-bikers-rally-for-self-driving-vehicle-protections"
+    ampWebUrl: "https://www.governing.com/transportation/pennsylvania-bikers-rally-for-self-driving-vehicle-protections?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/transportation/pennsylvania-bikers-rally-for-self-driving-vehicle-protections?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 24
+
 secured: "qBmDBipy+rFyruJaXaQVaSWDhlnJOxA7wJerYqOH7YqwON/+A5yizYWQs6PPNFEYc2UvhqXWEl4YZgiYQZfgbnLQwg2SrauMrPh0bUgQ9wSFcX+Ke1fMgAxmwTrhlak4vjHlpX6stRHqsB/+mLPyIBNZiIV8IQ0DnmLMEhg7ex1gIdAHcdHM1BIHjPsSXmzvkMrv7FC07ZNb2KCQrcwI5YM/WpiF8Ll0/ZAwJRTzKqKaft4Y/yXDb2ufIHCAVHY0epcK8EcvHaHpcI99GnkjcQ001yLrUIyDeeLBcxIw6EQ4f9jQDCxfteyWRq2Ok7PS9xSBroJyAPsvVmfQ2O/t6oirLuFYd5ZVKdhrBr+qFpb4UnuQBAqhZHCES8pAtP6DCMs7SincQKWOVbj0sJpCdPFYUTv0/vW6FFnFujbYzNKpy1Kf/Ah3w0GHs2yTIzyMiUCg2WeT34DJeJLWFgpTwTBh9i9TVMUIJZDL6aRLW3Up1naJzh/N8xmxUp8lwDqslllC9/oxIH/DSElBWhBnKg==;MBw8hmgMaxQe8OJdTLijzg=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2023-06-multimodal-technique-audio-visual-m
 ampWebUrl: "https://techxplore.com/news/2023-06-multimodal-technique-audio-visual-machine-learning.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-multimodal-technique-audio-visual-machine-learning.amp"
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/scaling-audio-visual-l.jpg"
@@ -37,6 +38,6 @@ related:
       domain: electronicsforu.com
     quality: 23
 
-secured: "VtuZjhDR/jIKe0nqe/or1DzGYULrQYWFkCDFW8hzCjL5cNqgvda9LMB9lLvRK7BexAIhiPNySkNwwVo/tm66nCEXS5DMgyr724EAv17t+PlGATXZxugJlXi4tEWbpAE37RXBKbkJV8HW8TSMziH1WsqgGhwISEcDJEv0aXv2lZuFr7cACKBvBg/JcBZtvKnFjcAB6yjxSDqKCJZ2fIhcq3UUAehMRPy7dIabhL9ygrkJju53stoUJzvOElxMjvybk1HYosFeekYJanEgHwWlDqO4RnmV6enjg/2K7MUu4BaLyjHPo9WoIr8nUwl4UbNtkpx225hw3V8PNvNXHyiUCLC27aJ4iREiVEhoxg1C/8c=;OODjKI9gE4Do+HRASof/uQ=="
+secured: "42OGbbcQnauY5JYMsd+HuL/9TGqsTLIW8xDpCWURY01aGJjQR63Z4DmRRxKfBuLuCwva4n634Yd2dT662Ec1OIzad1rF4tzo4I0JaJvb0y/qM8kZZiWPiJ/jEnbQWWSEOmml7FAZ2NtbUyAVKiS9popKT2DCUxgByEJMddg23AeZcHnw96yQ7zyesUNz/ghFwGQYwmDAIagr6jEjEdtjiU+vPpFJWb5p2vjdXvVKuu+vOxPP0J8EpZYg8mX7mENRYty1JqQxhv/gjj4UIFvT6SSuPr0+Pof4NjltHXebN2YVwLBbd7cEh4Uj2RxFMXvgCe5CGw0nRGYVh3KqnMIZhjMj9mYdyriYa6aiM6KXtOKaJO3k26S/Vnzy1+oSdHWQdqYgkVSGY0RLBCLEjgjNnQ4aKdRlb2WSw+cdCIaKlJHE1YL8NxP76wHQM7YNe97fxRnZyWEdisgagtpToArq6iHxypbHxwy9DTsQN9juaTKQA7rq/0BtiyXaMRk2r2MeZSN0RNcPDa8narKvmdMrnw==;++xfy5lZeC0kuLMuS1iNEQ=="
 ---
 

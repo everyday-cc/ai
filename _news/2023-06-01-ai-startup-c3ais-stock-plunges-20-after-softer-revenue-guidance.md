@@ -2,11 +2,9 @@
 category: news
 title: "AI startup C3.ai’s stock plunges 20% after softer revenue guidance"
 excerpt: "The company's stock skidded 14% in the minutes leading up to its quarterly financial results. And when C3.ai reported mere minutes before its earnings"
-publishedDateTime: 2023-05-31T21:15:00Z
-originalUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=us-markets"
-webUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=us-markets"
-ampWebUrl: "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
-cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
+publishedDateTime: 2023-05-31T22:09:00Z
+originalUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=mw_quote_news"
 type: article
 
 provider:
@@ -20,12 +18,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://images.mktw.net/im-789589/social"
-    width: 1280
-    height: 640
-    isCached: true
-
-secured: "02UxtSg9F80+kZDlmUrqA0PgMDNMPSHqAu4qxtYsi4vLUPhlK+GGlKQ4uuUaO9sUm9gNdywzVREjjqnhD/zjDmRRz3w2Qrf8Yd3qRLJrH2jsHGKBFZbV5lCp2HmprLwWQ0Z8BisDs8P5CEpJw0LHqnhAmPt6TG7z63MAD7tAPByETb4VN7oUY3HVVDa0pnLUPF7rPgHBTbr3SI7J7Gfys7Y3+SbjkalVJC/FJbBlNmUKswIAIjXjkQYp3pOPUAjZ1WB48368YLJVgoHpKO/kuJtCtPzaUb9exE6haKNU0c90LFzv9moaU+5i/7uzS+kqazpHc1wL2+VhwrlIX4M74BljD6cdnJjAyKvtfuxZcmQ=;2pIBocz60jfmptL2QMY5Tg=="
+secured: "dvLUqHz+RHQkbF58peMb7ESS26AIXWaAxdA53800GduDt+zNhp2lLdvlytytozcS9mrWy5+j9RPd7HKFwco0JQUbN4/6izz3ObDZdWHjwDp7BhSzlV3tsZK7JwagU7QjdixvzrtuEFlu0cteyQ17ofcceV74ArHWPCP011Unn0LJid134mIJTefcuBAV2yUziZct6XB6LHIJ3FNfQNzeSeQGnHndxw50we8CLkxeN8qZOd3nRYTO8OC3b+7rnh3bnZbdLL9rMI8bNL+OGVpcdEgqz68A4XZBt/vuCr01CnaxExLyZH9YPdmBlXQnCcl8XKd2Ry6AMyPYXb43psmEUesYicm6dOnKoAx1lyLxt+kk1dhBE4bpddYLFZMi/Z13X0pvPwf5XZ31dzbBioTMvOpNYMIOFTFOz0zyEm6JAoW36zHIe7AfHB/D8iI/q/ic/Umej6m3qEaeChQ7jbz7m/OY1Rb5OElqTDfVjwhNuE/CFFXCiJ9dz0Dsr/tm2+L7bu3D8Xfctdw96bKdPSAWag==;1fBcAAM/ttJG4pusC+lU8g=="
 ---
 

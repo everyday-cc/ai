@@ -31,7 +31,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 27
+    quality: 29
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/scaling-audio-visual-l.jpg"
         width: 600

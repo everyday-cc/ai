@@ -103,6 +103,15 @@ related:
         width: 1200
         height: 626
         isCached: true
+  - title: "Instagram might be working on an AI chatbot"
+    excerpt: "According to the leaks, users can choose from 30 different AI personalities, who can also help users write messages."
+    publishedDateTime: 2023-06-06T19:27:00Z
+    webUrl: "https://techcrunch.com/2023/06/06/instagram-might-be-working-on-an-ai-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Do chatbot avatars prompt bias in health care?"
     excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That's what University of Colorado School of Medicine researchers are asking as they dig into patients' experiences with the artificial intelligence (AI) programs that simulate conversation."
     publishedDateTime: 2023-06-06T07:58:00Z

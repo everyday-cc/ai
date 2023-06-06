@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Enterprise search startup Glean launches generative AI assistant"
+    excerpt: "The startup says the assistant, which is powered by generative AI models, is also capable of helping engineers with coding tasks. Palo Alto, California-based Glean exited stealth mode in 2021 with $55 million from investors."
+    publishedDateTime: 2023-06-06T17:31:00Z
+    webUrl: "https://siliconangle.com/2023/06/06/enterprise-search-startup-glean-launches-generative-ai-assistant/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "mFysIF5BOWtnZlZR4INlyvC0HltgrDgyQVUtYtQCbX4hw5iDXoQRfx0AiNymOcE0zY7DxOELgBaasKS+e3iKRHXnwTbr1S64XpFS785FnCc2XF981ViJ88SI731GiHxbD/SN0Y2BfLN7qkWEvJ+aCQ/jSwyasCv8QLVdczd6KBeg49XSNEn3qj4LaqJ6B9bGrtCJxt8i+bUwgzqnMR1WCWs0fbd+coUMKkf4Rvunz5EHR9ArCW+HwVNrqVFDg6xnjj5J3bKHsanjJj5gtLi4+XqtHwByK2gsm4UJbsEP4aOCAUhc1jkK5VoFFq83+pp5n+OZqemI/4IfDbPcSrB49yLiN28hj9pC1aVj9SFyg/ID8oUllR2zCmWmzKQRRegbAx9S2QOPcErDxxk6vrmw1Wi1xx687yJ7eM2tE7GKyuX9lBAAjiXRj1Rx00xOZO8T1oUgk9NmhCEgUi5uOIavRicVkcqeoQAXgm3T7wYXVdBQTKbg2yq1dZ5GBcSgRk8lha/0NOqbJZdn933M6QpgkQ==;iaqZBZerdr2nDgwG5d2aNw=="
 ---

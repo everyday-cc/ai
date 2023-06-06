@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/source/features/digital-transformation/
 webUrl: "https://news.microsoft.com/source/features/digital-transformation/the-last-frontier-of-disruption-with-its-new-ai-chatbot-ey-teams-seek-to-take-the-pain-out-of-payroll-questions"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "AI-Powered LetzChat and Managed Health Partner to Revolutionize Language Solutions in Employee Benefits"
+    excerpt: "LetzChat, a leading AI-driven language translation company, is excited to announce its strategic partnership with Managed Health, a prominent employee benefits"
+    publishedDateTime: 2023-06-05T17:02:00Z
+    webUrl: "https://www.sfexaminer.com/ap/national/ai-powered-letzchat-and-managed-health-partner-to-revolutionize-language-solutions-in-employee-benefits/article_65af1241-7b7d-5910-adfc-9963d9c0fec0.html"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 3
 
 secured: "OAeze6Y4J1j73qptRIFia1JyClVqsHAhN5UJGhz0swgKkW8+zQ1dsRB4rZA6+cNskNmufsgbSklQRakgJpBDPeul3Qe2SOPDJo+SAgXf8XFvnMMRLVyyPFtTM43DR6cixJwoCmqihfa8q1sxsRqAGrWXZRXiqN6BpIuis6cHUUgUX/vRXPZ8lgV1kXNUccdMWiFxN/W8qJlg7VmA3v7s9KVBvBKEi365L9kjY4XPSv6iia2RgH1EzcIWNfnlz1koprSac0Qv2xy8jPnyNPOoglI4I9wLyJkaQMpgdO4tXQcIZBZBrp1l5PlCtixD0PaeFBl70KllJdsOa7Z8hoeag3fgZTkfQPLGDKXuq0C2ydVWZp2i5LHNjGPwC3uYgsDS2LMGjOXlERoMs5hDEpOBF0gEID3Gh72hskQ9TBTjpsqPdx3B4jR8S2OQA4hk9Y8Ff5h5XahQsUyNdgXxgX5qqLYEVwL3z2Byi1FoabgLp9ist0Ktzg6wVbKGoljGfPQfvhfrRXq46iScqR8upbH5Lg==;TjiHq41OawVHzk5n0ZqJUQ=="
 ---

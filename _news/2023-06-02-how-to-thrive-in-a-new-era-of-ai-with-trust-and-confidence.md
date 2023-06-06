@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a
 webUrl: "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to Make Money With AI"
+    excerpt: "While many are worried that AI might eventually take their jobs, others are looking to harness its power to make money."
+    publishedDateTime: 2023-06-06T20:15:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/how-to-make-money-with-ai/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/Computer_user_in_deep_thought.width-600.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "US and EU to draft an AI code of conduct"
     excerpt: "As talks of global AI governance intensify around the world, with G7 leaders agreeing on this May to produce a Hiroshima AI process by the end of the year, every international summit seems to touch upon questions of AI Governance."
     publishedDateTime: 2023-06-06T15:48:00Z

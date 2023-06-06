@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-05T08:00:00Z
 originalUrl: "https://www.newsday.com/long-island/artificial-intelligence-scientists-extinction-regulations-stony-brook-l9etp6f6"
 webUrl: "https://www.newsday.com/long-island/artificial-intelligence-scientists-extinction-regulations-stony-brook-l9etp6f6"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.newsday.com/ace/c:NmYzNzY0MzMtNTMwMi00:MjE2NmRh/landscape/1280"

@@ -52,15 +52,6 @@ related:
         width: 1022
         height: 508
         isCached: true
-  - title: "Use Amazon SageMaker Canvas to build machine learning models using Parquet data from Amazon Athena and AWS Lake Formation"
-    excerpt: "Data is the foundation for machine learning (ML) algorithms. One of the most common formats for storing large amounts of data is Apache Parquet due to its compact and highly efficient format. This means that business analysts who want to extract insights from the large volumes of data in their data warehouse"
-    publishedDateTime: 2023-06-05T19:43:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-canvas-to-build-machine-learning-models-using-parquet-data-from-amazon-athena-and-aws-lake-formation/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
 
 secured: "/7ztbScZfw5NPKqwMCAIgMdWqp2+7vsirXD3A3HzT2coDMTOoWDynRa5SfRboT42ZiQEoR2bkk4mflgD+jYz81QwWT0lRUiLZH9X3EowGgcGt5MG21VBJ6dDHdcMSPPjuJg3DwmE9mqsySayBpUMTO4aL6hj4oTAlBsdhqZW0VoeIea1eeZLwmBps5iOejYonylNNfTYlxFu90M4CW7yn/o8hqh/0gMBW0GuclKrYlULWULsX5nD2f57+X8XjSTxp0+Wm/QxucRxE9pgsBr5KEMi7/PfAaIx96eE/v+wB66Hev2sE32VlQmxlJ8ktDcEADtH8KLuBe89qWH6t3YWq6sSDM/8inkBQQScgap1PCw=;egH3x11Dw1N+9WVXt1Mfhg=="
 ---

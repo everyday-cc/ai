@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Apple Ghosts the Generative AI Revolution"
+    excerpt: "Apple unveiled the Vision Pro headset and a number of AI-powered features yesterday, but largely ignored generative AI applications embraced by Google and Microsoft."
+    publishedDateTime: 2023-06-06T10:59:00Z
+    webUrl: "https://www.wired.com/story/apple-ghosts-the-generative-ai-revolution/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
 
 secured: "sEyyNsSYtyaz9wZzzhemKpx+XJd8wwtAzS8C5mu6gKU7dO0GC2xj1tC8MZWaptJJVSElZvYvlZK69xf20mUuTIKpvo0PeAoSCHwQasB9HxQFcTl7EtVWdiq4sfox9eycheKoII3m8AwtwEV0S34MCXbEIaoaUvWXjuB5FTe/xilgFn1qzbefPN3iJK+M3fQnkOe/PPsAkOEQho9PWYDhlrZ0SZ5/PUM3tn0r0AlUm4W1zRy+on8Q7aUKmFOgIY1sSYPdIy3GkXjNi41gC7+d02fCBN9TQAdbAkLLnKyeCycN37gltEB/rIPcss9cWEvhoU6r4DBTMN8ULAQa0xjTRYlyTe8elDo8s08VWjBPkONnbkpMs/TLmutbrF0fP3LAUyk1rDyzxHe7MX6LMOqzLlQ9Kmw5PccTAwaLYie/pW41ewHYR8hEMBGE/F69G7VIhwuYYbwtV//XKkT8CNd/C6ZhmmHYg9HOqCuHvYBEBIG8dtCvfotAsOUNCguIVMZI7oqWhvgX/gju6HJWqkRoMA==;GyXriMLcV3krxVlu614RKA=="
 ---

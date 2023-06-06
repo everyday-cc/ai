@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/telangana/plan-for-facial-rec
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Building Better Schools: NDA student receives national recognition"
+    excerpt: "NDA junior Numa Mujeeb has been appointed to the National Speech and Debate Association’s Student Leadership Council."
+    publishedDateTime: 2023-06-06T21:55:00Z
+    webUrl: "https://www.13abc.com/2023/06/06/building-better-schools-nda-student-receives-national-recognition/"
+    ampWebUrl: "https://www.13abc.com/2023/06/06/building-better-schools-nda-student-receives-national-recognition/?outputType=amp"
+    cdnAmpWebUrl: "https://www-13abc-com.cdn.ampproject.org/c/s/www.13abc.com/2023/06/06/building-better-schools-nda-student-receives-national-recognition/?outputType=amp"
+    type: article
+    provider:
+      name: 13abc
+      domain: 13abc.com
+    quality: 44
+    images:
+      - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/CoXwnMr308rYeM8rjFwbRwmMWTQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/YXVR5FJOEFDOXI4EYOTIRDVFFI.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Dangers of facial recognition software"
     excerpt: "What if Clearview AI’s powerful facial recognition software, that could potentially be used for mass surveillance and profiling, fell into the wrong hands? What if it already has? This is the untold story of Clearview AI,"
     publishedDateTime: 2023-06-03T15:35:00Z

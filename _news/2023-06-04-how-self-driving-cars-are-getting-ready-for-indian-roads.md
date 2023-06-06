@@ -3,10 +3,10 @@ category: news
 title: "How self driving cars are getting ready for Indian roads"
 excerpt: "Work on autonomous cars is on full throttle in India, but self-driving cars are still some time away"
 publishedDateTime: 2023-06-04T08:26:00Z
-originalUrl: "https://www.headlinestoday.in/news/how-self-driving-cars-are-getting-ready-for-indian-roads-556665477.html"
-webUrl: "https://www.headlinestoday.in/news/how-self-driving-cars-are-getting-ready-for-indian-roads-556665477.html"
+originalUrl: "https://www.headlinestoday.in/top-news/how-self-driving-cars-are-getting-ready-for-indian-roads-556665453.html"
+webUrl: "https://www.headlinestoday.in/top-news/how-self-driving-cars-are-getting-ready-for-indian-roads-556665453.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
   - title: "Exploring sharper computer vision for self-driving cars and cybernetic avatars"
@@ -56,6 +50,6 @@ related:
         height: 675
         isCached: true
 
-secured: "u6Nbgff9snqjYXaLDHvaIVhyUWyKUR0fFOWt3ws/iueWV2Ikn8z1WvdW+VzYw8QBcz632F+Pcypwp5Qfa44L1qC/ptgveazoLN725LtcfJvTAxdCtWFlOqv1im8OxsO4w/HgIR5RxX2RMpmXu8UnuYs5IUTnH/HfmyGd0y7dd6nUT8qTZsG+xHufyij1F5iZlxsXfr2pOIpair9fAgmJqg6x53BpJhM5RBsN9kuQBvI7cKOYZCWstcuvQHOJvYWAg5uj35yw4dMYJjYeTvp5+934Dw4hehdsmJgJm3Ij7l4aMb9WO51ETnWp3DMDgocIaRxWY1RZOzLb4e7YDmVmOzykNWgEEzo3XcOJVqykC2M=;VR5OeZrDXWNVMt0oUXKrsw=="
+secured: "vv7MFbXLKAFCYct1dgjL4DB0AT/0ZSondFWfspAfRs/LIA0LKRqpnZh033Wa0pUtdsVJAWg64UJ1eXOznacL4V57VXvMmUcByWl4ZlB9I7BhFMfMXZZgLBAv1bbvV7tf/UpYvrWf5OpcMxkOiHjdSLamuIqKf9E529MrgnF6FvJabmoCIm99L7yYr11SX+tCgqzzwObM84C20gAff+YCQf+JONwMYnnX/1cNXFYgpgEHH4SlGaEcSnrWy3+VgAmMqaY+Z3RGfTTGe/JczSrw8SSm0bDMbEnWZFXHFvfISaf5TpF3tDDhqvZdATMS/BwTvb8PSHpEoXIaU0hQzREK/9xPiMNmSHlcVfUni8j/MP2Vn3IloBNOucF2PCcWIzpVtcn+SzBopS3cDZbuNOAoro/T6hzJRvZfGFXgr8k7DuntLuLVnmLQyrusFi3b3QeyDz65lCQ3HTufZbhMdziNSio8ZZrv337igI3+/iFtlQCvGGPFWguS78sq0ThxJPwjk5PTE6PSmL/0DvIydm2IfA==;u8colJZTLEUnZ/SNN7zEXg=="
 ---
 

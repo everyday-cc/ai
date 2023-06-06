@@ -36,22 +36,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Woflow Took Over European Startup XtremeAI, Extending Reach and Strengthening AI Capabilities"
-    excerpt: "Woflow, the data infrastructure company, announces the acquisition of XtremeAI, a Seville-based document digitization and data structuring platform."
-    publishedDateTime: 2023-06-05T14:44:00Z
-    webUrl: "https://enterprisetalk.com/news/woflow-took-over-european-startup-xtremeai-extending-reach-and-strengthening-ai-capabilities/"
-    ampWebUrl: "https://enterprisetalk.com/news/woflow-took-over-european-startup-xtremeai-extending-reach-and-strengthening-ai-capabilities/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/woflow-took-over-european-startup-xtremeai-extending-reach-and-strengthening-ai-capabilities/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 46
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/Woflow-Took-Over-European-Startup-XtremeAI-Extending-Reach-and-Strengthening-AI-Capabilities.jpg"
-        width: 1500
-        height: 844
-        isCached: true
 
 secured: "DMG1tBa3pEPNgNsyhqtiHDQvzhAqsxG/mruvJ5K0VGVQDDax/jDduXoquWOdWV4R2aeVml+G5uRHKy5SpQKEjHcijnOHcTKG0LH2O4wR14RqV/jkIghx91VX874zt8NlyajZZjcR2w3dcqiOPqe+eBqkTbABFhCTv/+FnqamcRw33ffGgLZevNzvLFiLb9znGCGuInDXpqVFovE4dzSEl7yjS8ctt1t/NVAfps7t/A6VfDLKDbb38KSy8tVpvJYdPLqjlHg3ExuL6Eju4vg4VjY0ZVGmRSkRduOkCuKOAa+ukwaWIZpGsAxPiQ3Ii4iYGn5ri3Ut7SMs5fhm/skwEigwUkuPVaJ6jDto7zOxO3M=;857qJTOr/3hYAvHWLr9Mpw=="
 ---

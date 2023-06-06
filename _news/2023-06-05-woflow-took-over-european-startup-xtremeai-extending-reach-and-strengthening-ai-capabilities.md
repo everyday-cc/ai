@@ -26,29 +26,24 @@ images:
     isCached: true
 
 related:
-  - title: "European startup funding to drop 38% in 2023 — but there’s cause for hope"
-    excerpt: "Despite a tough funding landscape for European startups, the tech's ecosystem total value is expected to reach $1tn this year."
-    publishedDateTime: 2023-06-06T13:56:00Z
-    webUrl: "https://thenextweb.com/news/european-startup-funding-to-drop-2023-but-theres-cause-for-hope"
+  - title: "Landing AI launches new SDK to bring computer vision capabilities to developers"
+    excerpt: "Computer vision company Landing AI has announced a new SDK to help those working with AI. The repository is freely available on GitHub now. The SDK covers a wide range of use cases, such as object detection and Visual Prompting, which is a new feature ..."
+    publishedDateTime: 2023-06-06T19:46:00Z
+    webUrl: "https://sdtimes.com/ai/landing-ai-launches-new-sdk-to-bring-computer-vision-capabilities-to-developers/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 51
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-3-4.jpg&signature=20f79e69dd75ffa5d93ccdc69e9a217f"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Woflow Acquires European Startup XtremeAI, Expanding Reach and Bolstering AI Capabilities"
-    excerpt: "The deal brings new customers, valuable team expertise, and advanced AI technology to Woflow's growing data infrastructure platformSAN FRANCISCO,"
-    publishedDateTime: 2023-06-02T14:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/woflow-acquires-european-startup-xtremeai-expanding-reach-and-bolstering-ai-capabilities-1032367504"
+      name: SD Times
+      domain: sdtimes.com
+    quality: 60
+  - title: "Wallaroo.AI Launches Unique Workload Orchestration Capabilities to Help Scale Production Machine Learning (ML) Workflows 5- 10x, with 40% Time Savings"
+    excerpt: "Wallaroo.AI, the leader in scaling production machine learning (ML) on premise, in the cloud, and at the edge, today announced early access of ML Workload Orchestration features in its unified production ML platform."
+    publishedDateTime: 2023-06-06T11:19:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9826955.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "mE3cLO3xvnYT/JyVw5qx3mVg6oMvmNhDYKJlh+DCOjFX1rcCzlg3C3XjgZFF+uWA3hpM7kWiAJmIVAzh3RpOnZSCnFjSXc88WBqWriBK0kJQJVoDLgwtOEEh10k7QLoQhfvOzQY6j6H/gkRd0aKeKWtN0SXQQaQ42N+f+miNldUTj47Yp9NwWKcvGZzWCwg0UUYYAjjKK3eUcvW9FnkbSR6eiuN8PkOTbrJ3gPkVPPZejXHOI3C3azMxra6HhzOf1UzqItr0/RrD/UxmBV2YdDPAU8AUbp/cvNEpmav+zb721+Nk1e+wu3C29Pcrz8SsnlPBO8vLQ09qz9fF274wFbA+Ye3vgNzi8o5XyObnuRHhYXTya5/oAiFCml3kL/cQNCHmtHqHFdKAJsAVT/dHGjnAtSi4T9uUqTb5Gu6cpZp/MvAQiYlcsGLIiv/8JTWHza6fBupgW4/eGk3ciaDS3f+ihud5JHsHUoNy4vYb6QNGsIygxg951qHc1HzxQVp4ve0wEsEfwjMBofeelNw7/w==;vJOY9efea8uMru1Bn5b0Xg=="
 ---

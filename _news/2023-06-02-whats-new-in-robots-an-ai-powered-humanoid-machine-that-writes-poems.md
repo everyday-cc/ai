@@ -9,7 +9,7 @@ ampWebUrl: "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-
 cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,7 +43,23 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
+    publishedDateTime: 2023-06-06T13:17:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 74
+    images:
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
-secured: "DtDP1RsSscgA1PFMcOhEJTKCPOb+I4I52Cba8kc2Y77kygmk2ggqgDr8IvsxZ5mI4EnpOJZhksj0gtLF3cF1e9OgjyUT3beb2sk8MoaAAcm54UGZiMCZYIkkHx5PKleZMj7+ZmeEWDyCXg2X3zIs2Bah84nfUacdU4ntUXPs7pMOMdEqL3pwFYuyzlzPEnnGV3nn4XbJCmr5Lt1E0DTfP9FOkipZ6xsqE4fK42jJoK72gcG2Udb4ywpJodQz+qtrnNxrctqSrR1KlIGvkDErLwAo0G+nKulDavbmTcYIZnO5qEB3Ykf85MDn6szUModP6rRt4uAVlByV5WCBzhzmuODlEieqGTEMAAfFnjItomY=;bXnNaq84tSYSSeKSkZ4LiA=="
+secured: "gZA0MKMOQe23rmDKoEjDp7BSIhwPx/izwQlda+XlTnHrKJ1HIVzEWqqRWu0HUHu3JkJy/ZBK9H3E0wI34nwzcUGdr6hEB6kP8ql8D1IaCr7DI+6K5pm3ExcxtpmxZlwRORXj0jVk5zgkskGsbs2PNB5UkmzYIqzow+V+t6VXxQY1eRX1xx3My2ju/JRvfjbVL0SbtHjhBK95dguG7Zlb+HsONyjNoOJlYQ6w4WU14p833EKOPfmrYeAziwh7Ir8zLvqZ3f03BTxdPq5nqzpF20kG3ocSKPKu2qbyX8msf6tZ8rTrkLa2ltULWVUOT++1Yd4JIJfyeA27uoc1W5gYckvkcani9GooZp0ev2Psbl0=;qxrR1SS8DzvNv4j+KDgGbA=="
 ---
 

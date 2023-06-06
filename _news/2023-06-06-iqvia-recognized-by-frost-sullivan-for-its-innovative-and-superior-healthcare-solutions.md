@@ -22,6 +22,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "IQVIA Recognized by Frost & Sullivan for Its Innovative and Superior Healthcare Solutions"
+    excerpt: "Frost & Sullivan recently researched the quality management systems (QMS) market for the life sciences industry and, based on its findings, recognizes IQVIA with the 2023 North American Enabling Technology Leadership Award."
+    publishedDateTime: 2023-06-06T18:54:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/06/9827010.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+
 secured: "xdO2xnXBonCm9Gj5TTAWCfLio7p6VMk7Tgvp6fE9Eufe4llCkvaYxWTi2DXQQPDIDrH1aPRvJ0jMDldXPqCQpR7dQoVx3MuBktnDosYCiOdKGXtBV3NFMSSCNTMAKLkbqTuz/C28d8ekNRkbbvxLlFMrBmB7enO4Yz3PlTz2aVnU+rq2PlP8vPZbCYlOd/eKVvpJCzhpWsM0DmBaCCjcTcNs07/WAglB6LTyirHdUVjJKeHoOnQ47nQZqjeZ7Cnr2EmH3+SAiBUWMLi1Lt5jFuOmBhutNypp61srheKEcGOJXmx1kILxatbHyoyX0rqD5VBKv67cvR3Um73TYobA/JAmF2/VrW0OJIH0bNKlBn/2Peil6T8jhi3Gj9QUlxYSth1/8SB5vtUCpa9/Rn8QQR96h2YKfucfmEnvPoKH2a5OziT7IiIyxfkNDi4mK8qBlpbztHLyoMrVD+zTN0MGPPaeBSnxJXcPTFuAgmp6JeHklyeJcqpOBd0DaFr/KQoOiKJeDYLhgypBzN1AWlFn4w==;p2ebpQe5NJ385e4vt04juw=="
 ---
 

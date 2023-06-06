@@ -73,6 +73,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 30
+  - title: "OpenAI CEO suggests international agency like UN's nuclear watchdog could oversee AI"
+    excerpt: "OpenAI CEO Sam Altman speaks in Abu Dhabi, United Arab Emirates, Tuesday,. Altman on Tuesday suggested an international agency like the International Atomic En"
+    publishedDateTime: 2023-06-06T19:09:00Z
+    webUrl: "https://www.chron.com/news/world/article/openai-ceo-suggests-international-agency-like-18137808.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 10
 
 secured: "uXpatddAa2lcRyPSANFgSSF/Huk6jiz4aXtU6SkRFijUMEd5hyeEWR7f80yk1BfDDy8v6PfzSv4I6OXyuOv4AwEP9Penii13Onip87hjvKx/FnBLI+vRYSnzWTwO+MLiChhopDHfDKD4vDw3IXSrSBfMn/6rvbw4dEo5wmLGXYK3T4E44n5EG7mm3h2y2L0OVB6wF5/OK0vyk5yT1m+qIlcRfA/RTo7n331VecOKcvPDeKA3APxguzl++FjFUbonhQwDTSviojSR9qUey79+8zzMthkfJwGZBjRiEv2hzIPPXHx9iBPKYZEgbLx29gCJoApKbzP6eFcu+J5NGh3eNM+qiNq4uGsmjRTEsLp4jVc=;rgqauafYUpB8lROD/vWdjA=="
 ---

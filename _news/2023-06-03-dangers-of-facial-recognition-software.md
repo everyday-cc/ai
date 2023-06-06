@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Building Better Schools: NDA student receives national recognition"
+    excerpt: "NDA junior Numa Mujeeb has been appointed to the National Speech and Debate Association’s Student Leadership Council."
+    publishedDateTime: 2023-06-06T21:55:00Z
+    webUrl: "https://www.13abc.com/2023/06/06/building-better-schools-nda-student-receives-national-recognition/"
+    ampWebUrl: "https://www.13abc.com/2023/06/06/building-better-schools-nda-student-receives-national-recognition/?outputType=amp"
+    cdnAmpWebUrl: "https://www-13abc-com.cdn.ampproject.org/c/s/www.13abc.com/2023/06/06/building-better-schools-nda-student-receives-national-recognition/?outputType=amp"
+    type: article
+    provider:
+      name: 13abc
+      domain: 13abc.com
+    quality: 44
+    images:
+      - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/CoXwnMr308rYeM8rjFwbRwmMWTQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/YXVR5FJOEFDOXI4EYOTIRDVFFI.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Calls in Senate for TSA to halt facial recognition program"
     excerpt: "Kris Van Cleave reports on the letter signed by several US Senators expressing disapproval for the TSA's new facial recognition devices. (6/5/2023)"
     publishedDateTime: 2023-06-06T02:37:00Z

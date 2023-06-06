@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educ
 ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
 type: article
-quality: 106
+quality: 108
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - AI
   - AI in Education
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/647e8876a92e58b45e214425/0x0.jpg?format=jpg&width=1200"

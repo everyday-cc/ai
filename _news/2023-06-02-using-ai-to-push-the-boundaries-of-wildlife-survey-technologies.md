@@ -72,6 +72,15 @@ related:
         width: 800
         height: 389
         isCached: true
+  - title: "AI Chatbots Are Causing Bank Customers Headaches"
+    excerpt: "Banks are implementing AI chatbots into their operations as a cost-cutting measure, but the Consumer Financial Protection Bureau says some bots are causing frustrations for customers."
+    publishedDateTime: 2023-06-06T18:19:00Z
+    webUrl: "https://www.cnet.com/personal-finance/ai-chatbots-are-causing-bank-customers-headaches/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 64
   - title: "The hardest part of working with generative AI in healthcare"
     excerpt: "UC San Diego Health is piloting generative artificial intelligence, built by Epic and Microsoft, to help physicians respond to patients' questions. Challenges i"
     publishedDateTime: 2023-06-02T18:28:00Z
@@ -81,20 +90,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "How developing countries can regulate artificial intelligence, other emerging technologies"
-    excerpt: "Artificial Intelligence (AI) and other emerging technologies such as, Internet of Things (IoT), blockchain, big data, cybersecurity, robotics, and"
-    publishedDateTime: 2023-06-02T03:29:00Z
-    webUrl: "https://businessday.ng/opinion/article/how-developing-countries-can-regulate-artificial-intelligence-other-emerging-technologies/"
-    type: article
-    provider:
-      name: businessday
-      domain: businessday.ng
-    quality: 31
-    images:
-      - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2021/05/Artificial-Intelligence-AI.jpg"
-        width: 704
-        height: 415
-        isCached: true
 
 secured: "lxLgMQtc38D8v2WC5V4qfJczAjwpcVxBsuz2irMH2/h9VyBHIOIGk/9YJsYTCoatpkkHJ4+PAdXW9Wx2iwYAsgVDITFaXlXgUOP9G3I7nes3ReCH/K3gcVYuB2aHNB16M6oa5ly/rDPnOsFEku1KwFcMbcLqHbstqA0hCP7Onzaf8xhqQeJ55JHizRRFPTwtRep4tpyAtnoD2RbOS7dcS3Y/nW9M9wcSAwSyF/Zo0/q0/VS5T35oiyraKawJHJjkCA8dDu5MjQ0+eVXJG1MZxBrtAlmSr310TdzQVRhwiXofZAEelhz9k6KoZ3pv6hkuQP+WCHU05/Mx6y2k8dl0vUelDXcymUeZDMwKNFBLR7c=;wbjQncO1DQLoGiDPSFqkZw=="
 ---
