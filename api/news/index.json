@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-07-optimism-about-ai-is-growing-as-more-people-use-it-bcg-report-finds.md",
+      "title": "Optimism about AI is growing as more people use it, BCG report finds",
+      "excerpt": "The percentage of respondents who viewed AI optimistically grew as they used the technology more, while their concerns about the tech dropped.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/optimism-about-ai-is-growing-as-more-people-use-it-bcg-report-finds/",
+      "originalUrl": "https://venturebeat.com/ai/optimism-about-ai-is-growing-as-more-people-use-it-bcg-report-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_smiling_man_wearing_circuit_gloves_types_on_a_glowing_h_1996188f-aca0-4226-8817-c2534d933729.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-artificial-intelligence-regulation-why-experts-are-calling-for-slowing-down-ai-ai-series-4-of-5.md",
       "title": "Artificial Intelligence Regulation, Why Experts Are Calling For Slowing Down AI: AI Series 4 Of 5",
       "excerpt": "Unchecked artificial intelligence development could lead to large potential threats for humanity and negative consequences. Learn why experts want to slow down AI.",
@@ -112,7 +163,7 @@
       "originalUrl": "https://www.zdnet.com/article/samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -215,7 +266,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -267,7 +318,7 @@
       "originalUrl": "https://www.autoblog.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -310,7 +361,7 @@
       "originalUrl": "https://sdtimes.com/ai/landing-ai-launches-new-sdk-to-bring-computer-vision-capabilities-to-developers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -441,7 +492,7 @@
       "originalUrl": "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -494,7 +545,7 @@
       "originalUrl": "https://techxplore.com/news/2023-06-conversations-ai-microprocessing-chips.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -538,7 +589,7 @@
       "originalUrl": "https://www.zdnet.com/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -641,7 +692,7 @@
       "originalUrl": "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -891,7 +942,7 @@
       "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -975,50 +1026,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-google-launches-free-generative-ai-courses-stock-continues-to-rise.md",
-      "title": "Google Launches Free Generative AI Courses - Stock Continues To Rise",
-      "excerpt": "AI has driven the tech market to new heights this year, bringing new investors into the ring as the craze continues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/06/06/google-launches-free-generative-ai-coursesstock-continues-to-rise/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/06/06/google-launches-free-generative-ai-coursesstock-continues-to-rise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
       ]
     },
     {

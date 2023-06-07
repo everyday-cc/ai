@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-o
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/"
 type: article
 quality: 96
-heat: 126
+heat: 127
 published: true
 
 provider:

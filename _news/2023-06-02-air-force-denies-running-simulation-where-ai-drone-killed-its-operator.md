@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/air-force-den
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1480
         height: 833
         isCached: true
-  - title: "Reports of an AI drone that 'killed' its operator are pure fiction"
-    excerpt: "It has been widely reported that a US Air Force drone went rogue and 'killed' its operator in a simulation, sparking fears of an AI revolution - but this simulation never took place. Why are we so quick to believe AI horror stories?"
-    publishedDateTime: 2023-06-02T12:20:00Z
-    webUrl: "https://www.newscientist.com/article/2376660-reports-of-an-ai-drone-that-killed-its-operator-are-pure-fiction/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 17
   - title: "Terminator-Like Skynet Vision Seems Reality As AI Drone Kills Its Operator"
     excerpt: "Conversations about AI and related technologies cannot be heard if you are not going to talk about ethics and AI.”"
     publishedDateTime: 2023-06-02T17:56:00Z

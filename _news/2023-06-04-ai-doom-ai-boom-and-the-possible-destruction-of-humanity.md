@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destru
 webUrl: "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/"
 type: article
 quality: 69
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: VentureBeat

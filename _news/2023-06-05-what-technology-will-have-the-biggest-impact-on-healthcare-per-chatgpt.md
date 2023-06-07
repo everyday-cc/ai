@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-technology-will-have-the-biggest-impact-on-healthcare-per-chatgpt.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "‘What should the limits be?’ The father of ChatGPT on whether AI will save humanity – or destroy it"
+    excerpt: "Sam Altman is among the most vocal supporters of artificial intelligence, but is also leading calls to regulate it. He outlines his vision of a very uncertain future"
+    publishedDateTime: 2023-06-07T04:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/d67dc626115d9507a3876fefd572a1fd9bb33481/0_116_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=46f7d7637665f0421a5914ebe539dc77"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Can ChatGPT AI Answer Your Asphalt Questions?"
+    excerpt: "The rise of \"A.I.\" to the level of household name means everyone has an opinion, but true expertise is harder to come by. What can these algorithms do for the likes of our industry? Can they help you answer your asphalt or business questions?"
+    publishedDateTime: 2023-06-05T13:32:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/article/22861073/can-chatgpt-ai-answer-your-asphalt-questions"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 39
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/05/AdobeStock_389670688.6467a8dc2b87b.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C0%2C1920%2C1077&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
 
 secured: "dSVAayZYM6lX/jZa7eUjKAcDcXbHhtbrmAfPx2aUlF5gH+srnJlpW2+9iK2B1Jw007XQcg8jmZAboFA41kgk1HJWc2Wu2ibAFIP6CrRQUw+iga/6+Kr3t1fI+OrI3PCadeP1QBykIRKRJ+pbHpMDRoTIvhBmhv2/3OC8Puj6jgm6sOVzT2j1s+W1B78zDexSNCbTlnaY2M5YIrgVkOYj6ljcPY1Wdwk9IC39P1NqizhzUd6bqSNLalJ0S4aVe3fve0BOnm6GC5UMQe46VwFzYTnETgd5Q4iiMTwFA4B38gX1+XuWN54mnV3pWFDC+AvhPvgozAJ13JAwJ0WmE44+91EqOOcA7wNUXz18Wyci6l8=;afHpcj043cAWkR5Q7wr9Ng=="
 ---

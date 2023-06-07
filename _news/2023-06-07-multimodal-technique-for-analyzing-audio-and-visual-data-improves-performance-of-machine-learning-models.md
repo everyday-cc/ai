@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-multimodal-technique-audio-visua
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-multimodal-technique-audio-visual-machine-learning.amp"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "New deep learning model lays the foundation for specialized diagnostic models"
+    excerpt: "Mount Sinai researchers have developed an innovative artificial intelligence (AI) model for electrocardiogram (ECG) analysis that allows for the interpretation of ECGs as language. This approach can enhance the accuracy and effectiveness of ECG-related diagnoses,"
+    publishedDateTime: 2023-06-07T04:38:00Z
+    webUrl: "https://www.news-medical.net/news/20230607/New-deep-learning-model-lays-the-foundation-for-specialized-diagnostic-models.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 36
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Can Unlabeled Audio Visual Learning Enhance Speech Recognition Model?"
     excerpt: "Researchers have developed a technique for analyzing unlabeled audio and visual data, enhancing machine learning models for speech recognition"
     publishedDateTime: 2023-06-06T11:35:00Z

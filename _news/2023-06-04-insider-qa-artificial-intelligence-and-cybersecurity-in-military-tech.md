@@ -53,20 +53,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 54
-  - title: "Today’s Cyber Threats Require Modern Cloud Network Security"
-    excerpt: "In the past year, network security failures have led to downed websites, delayed flights, unavailable video games, and much more. Such incidents can erode customer, investor, and board member trust and result in the types of headlines you don’t want."
-    publishedDateTime: 2023-06-02T13:02:00Z
-    webUrl: "https://hbr.org/sponsored/2023/06/todays-cyber-threats-require-modern-cloud-network-security"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 41
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/05/Azure_AMD-Hero_Image-for-HBR-Network-Security-Article.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "1tIZDkBHtixvQhmpV2nVKSQ8tz4EN7+TRF96YMPBlLnUAh/QhxRHZidyfpZmemVUUn67KoKxULW1YoX2ChBs91jUyxbo7qe2b5gdfaQ3b0aeK3OQlJhGntjRIIoDoMwe654cjtAscj2YMfpvgEr6sapoEPk69o7OpVT0fBK71bScmN2cnshei5BTgRfXdCca8a2FMUywuGd7lC4Wg1V6Fuj71g2RGW7y+ydsHQOo+7fbsxp7+asXhzNTG53csWFtSh2gmLh8ns/N7S7KpW7jpn0cQPgzVubPsUC9wUKQMA9CTkcMhKZp3vccwaVNaNNXb9o8w33WzRbPhXWbqeG9l9gyt8rlCXlvliwVsmoHmYA=;VHQ1FA2KDDvFbbr5oz69Sw=="
 ---

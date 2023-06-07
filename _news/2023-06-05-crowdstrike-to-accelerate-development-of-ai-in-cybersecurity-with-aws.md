@@ -53,20 +53,6 @@ related:
         width: 900
         height: 430
         isCached: true
-  - title: "Today’s Cyber Threats Require Modern Cloud Network Security"
-    excerpt: "In the past year, network security failures have led to downed websites, delayed flights, unavailable video games, and much more. Such incidents can erode customer, investor, and board member trust and result in the types of headlines you don’t want."
-    publishedDateTime: 2023-06-02T13:02:00Z
-    webUrl: "https://hbr.org/sponsored/2023/06/todays-cyber-threats-require-modern-cloud-network-security"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 41
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/05/Azure_AMD-Hero_Image-for-HBR-Network-Security-Article.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "/8QbNJh+NcRlxHb+Bb1ZSVUFHtHm8VyiVzTEZNDDO2dk9EoTyIwzkPDj7fgqAABQTSlnIHVAOvuLOtdyVy59GctYBMIhDEbKoXKKrKF0XA4OH/sXr0+4+KEBRR1/Yh6SQcbIVZ/k/cRxLKrVn5w7RUsQHdTbItS/zqiH0dRHpxiC+N1RzjBJT3bbMFw1EBH4dSgSzSf6C1uwQzi8jE34WO+DYw0S6ZnA4c2a7HdbHvLpnGLWq8rpAipwMoeNIgmIpzrUeec2V0HcmMcOiXIetoy20sVLh+l35kIfqAcuYcMBsXG3VYOk3cwKlgjMP42Bqj9fz+8Y1ESGObMwYgoLMKuuXMlkqc7PhFVksmescfE=;nl7GOuNSzx9HKOqbJi8gAw=="
 ---

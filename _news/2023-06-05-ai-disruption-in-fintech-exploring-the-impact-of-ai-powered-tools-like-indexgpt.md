@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "3 Undervalued Fintech Stocks to Buy in June 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks have continued trading sideways since the selloffs in late 2021"
-    publishedDateTime: 2023-06-02T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-undervalued-fintech-stocks-to-buy-in-june-2023-1032367066"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "5 Interesting Startup Deals You May Have Missed In May: Brain-Boosting Nutrients And Fintech For Retirees"
     excerpt: "The last full month of spring saw some big fundraising announcements, but these smaller, interesting startup deals are also worth noting."
     publishedDateTime: 2023-06-06T10:59:00Z

@@ -563,6 +563,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-30-110-of-the-sp-500-companies-are-talking-about-ai-2-stocks-to-buy-right-now.md",
+      "title": "110 of the S&P 500 Companies Are Talking About AI -- 2 Stocks to Buy Right Now",
+      "excerpt": "Robots can operate around the clock ... like performance to train the most advanced AI applications. AI start-up Anthropic -- which was founded by ex-OpenAI executives -- plans to use EC2 P5 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/05/30/110-sp-500-companies-talking-ai-2-stocks-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/05/30/110-sp-500-companies-talking-ai-2-stocks-buy-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/734225/two-autonomous-robots-carrying-boxes-through-a-digitized-fulfillment-center.jpg",
+          "width": 5120,
+          "height": 2880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-is-ai-easier-to-control-than-gain-of-function-research-on-viruses-it-depends-on-whom-you-ask.md",
       "title": "Is AI Easier To Control Than Gain-Of-Function Research On Viruses? It Depends On Whom You Ask.",
       "excerpt": "AI scientists think AI should be regulated because it might be dangerous. Virologists working to create deadly viruses think they can regulate themselves. Hmm.",
@@ -1119,57 +1171,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal.md",
-      "title": "Sequoia China-Backed AI Startup Xtalpi To Partner With Pharma Giant Eli Lilly In $250 Million Novel Drug Deal",
-      "excerpt": "Xtalpi declined to comment on the report. Last year, AI-powered biotech startup Insilico Medicine, based across the border in Hong Kong, raised $60 million in Series D funding from investors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zinnialee/2023/05/30/sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal/",
-      "originalUrl": "https://www.forbes.com/sites/zinnialee/2023/05/30/sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6475df6af28e84d39d7b69dd/0x0.jpg?format=jpg&crop=3500,1970,x0,y76,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zinnialee/2023/05/30/sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zinnialee/2023/05/30/sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal/amp/",
-      "publishedDateTime": "2023-05-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

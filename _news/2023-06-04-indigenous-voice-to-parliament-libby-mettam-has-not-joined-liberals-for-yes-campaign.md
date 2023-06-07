@@ -7,7 +7,7 @@ originalUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-
 webUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-libby-mettam-has-not-joined-liberals-for-yes-campaign-c-10868273"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "State premiers ‘important’ to Indigenous voice to parliament Yes campaign, referendum"
-    excerpt: "The Albanese government is banking on the country’s premiers playing a crucial role in getting the Indigenous voice to parliament referendum across the line, hoping the state leaders’ popularity in states like South Australia and NSW will help clinch a Yes vote."
-    publishedDateTime: 2023-06-05T17:57:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/state-premiers-important-to-indigenous-voice-to-parliament-yes-campaign-referendum/news-story/d5d9a18c453c938562dab00d03551a15"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/state-premiers-important-to-indigenous-voice-to-parliament-yes-campaign-referendum/news-story/d5d9a18c453c938562dab00d03551a15?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/state-premiers-important-to-indigenous-voice-to-parliament-yes-campaign-referendum/news-story/d5d9a18c453c938562dab00d03551a15?amp"
+  - title: "Vote Liberal? You should vote yes for an Indigenous voice to parliament"
+    excerpt: "A voice to parliament is fair, practical and constitutionally safe, making it well-aligned with Liberal values"
+    publishedDateTime: 2023-06-07T04:02:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jun/07/vote-liberal-you-should-vote-yes-for-an-indigenous-voice-to-parliament-referendum"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/07/vote-liberal-you-should-vote-yes-for-an-indigenous-voice-to-parliament-referendum"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/07/vote-liberal-you-should-vote-yes-for-an-indigenous-voice-to-parliament-referendum"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 32
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/31c6154f4c2e8e60a2d17a8959ddc9241de74619/0_275_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=d2e2e2bfadb035dc0cc0489fde75e152"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "ip2TsiWblZ8tvfW20/Ps8KBc1mNHMAlTM8BbA9Hpbh97KeohcaX8rmfrdk8n6DSMVeeQbYHa0+3l1uz2IbAT5kZqM9zNLTkX2ODYMXpogEmybo3x4EeF6JUnrbKHz/9BihMrMUeqaJujymFxZ0LYtZ8rYdKOeim9LOydFtPZixqhV9Ph5aBKNxnPZ/vK/LobQSTj0SDNc3YrewSkZaR8SP8Zx1B8ze0UrpizSzxb24+M+NUPtZ8FoldFQdCcc0hS1hDTXdnXqev3Mi8u10lWMugC4lcwSuV12vp9nwnT40dRNh94CNRJfN3LP2Y3SXqjYitxCecRGHWF+rJsL3sEr1TLmXq4dQNMq6KT54gR2xM=;zKZ6qIfSlMEb3L+BxQntXQ=="
 ---

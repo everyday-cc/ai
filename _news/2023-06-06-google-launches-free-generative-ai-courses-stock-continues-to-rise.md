@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/qai/2023/06/06/google-launches-free-g
 webUrl: "https://www.forbes.com/sites/qai/2023/06/06/google-launches-free-generative-ai-coursesstock-continues-to-rise/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Forbes
@@ -24,15 +24,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Hybrid AI concept would move AI generation from the cloud to our devices"
-    excerpt: "As exciting as AI tools like ChatGPT, Google's Bard and Microsoft's numerous Co-pilots may be, they all currently face the same restriction: you have to be"
-    publishedDateTime: 2023-06-02T12:35:00Z
-    webUrl: "https://www.techspot.com/news/98920-hybrid-ai-concept-would-move-ai-generation-cloud.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 50
   - title: "Glean Chat launches to unlock AI-driven search for the enterprise"
     excerpt: "Glean, an enterprise search startup, launched Glean Chat, a ChatGPT-like assistant specifically for workplace productivity."
     publishedDateTime: 2023-06-06T13:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/movie-stars-fight-for-higher-pay-act
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/movie-stars-fight-for-higher-pay-acting-ai-digital-doubles-2023-6?amp"
 type: article
 quality: 73
-heat: 84
+heat: 83
 published: true
 
 provider:

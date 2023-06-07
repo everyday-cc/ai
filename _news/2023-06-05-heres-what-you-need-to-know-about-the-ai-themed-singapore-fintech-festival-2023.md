@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Singapore puts AI on the cloud to boost public sector deployment"
-    excerpt: "Dedicated cloud resources running on Google's platform have been carved out to to enable Singapore government agencies to deploy AI applications more efficiently and securely."
-    publishedDateTime: 2023-06-02T13:08:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-puts-ai-on-the-cloud-to-boost-public-sector-deployment/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 51
   - title: "Singapore to encourage development of international AI standards by open sourcing AI Verify"
     excerpt: "With the AI Verify toolkit, companies can generate testing reports that cover different governance principles for an AI system."
     publishedDateTime: 2023-06-07T02:11:00Z

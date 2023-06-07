@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 54
-  - title: "Today’s Cyber Threats Require Modern Cloud Network Security"
-    excerpt: "In the past year, network security failures have led to downed websites, delayed flights, unavailable video games, and much more. Such incidents can erode customer, investor, and board member trust and result in the types of headlines you don’t want."
-    publishedDateTime: 2023-06-02T13:02:00Z
-    webUrl: "https://hbr.org/sponsored/2023/06/todays-cyber-threats-require-modern-cloud-network-security"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 41
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/05/Azure_AMD-Hero_Image-for-HBR-Network-Security-Article.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "OdrVAFrvuFUO/tzJGjh/U0a6hDEEEwnJbCILiaVURRwXq3No76lWTwLa6LmRPn3Cjk3424kvDwqV03ctIw5zQEVf2H/aMhXQ2O2eM3FNHV3gjRtsYq6sXXD63CkyFNDRbzimIV/oIUG2ywjhricJ7C/qscwyqm8nKdzvutTnOGvhqegSExcCUjQx1xauxS9DtlkGqYJJlI7Rk+wjE1iQwdZoqjeFrYXH05+UyfuU9KR0dD3WCLHYRSo6U7j0zm41CQBdUFK8dgYtIM79V+W5cvAKeO/EsumnUIz9UtrhquVO09+hpmt7hAG9IGPzidgcDT81uAnFmEbmbGI3beszPpSKyP6ruJOl1QIk+D0w8i1QX4bN+5vRgu9VnTkporDcSzMY+RDjzUKB0alo0dbSXPEK0di7cRX+J+hIH5filXfpWCUr0WgysvNegWifZDBwt3MJTbT4illiJvuYmN7/tK1QLbdCv/fumj6B3oAhvWFBcTm4Z2HFGLPiPw4ZIMnjqHjIlKDvtgNorTGjjNZLtw==;9nWOSIy5zQUWlfxFmwcN+A=="
 ---

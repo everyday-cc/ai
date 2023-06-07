@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-conversations-ai-microprocessing
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-conversations-ai-microprocessing-chips.amp"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:

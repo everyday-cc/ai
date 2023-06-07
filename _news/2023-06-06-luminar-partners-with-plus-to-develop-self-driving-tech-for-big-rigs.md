@@ -51,6 +51,20 @@ related:
         width: 2880
         height: 1908
         isCached: true
+  - title: "Waymo self-driving car killed dog in accident: Report"
+    excerpt: "A Waymo robotaxi travelling in autonomous mode hit and killed a little dog last month in San Francisco according to an incident report filed with the California Department of Motor Vehicles"
+    publishedDateTime: 2023-06-07T04:09:00Z
+    webUrl: "https://glamsham.com/world/technology/waymo-self-driving-car-killed-dog-in-accident-report"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/06/2881ebf1e4dc0cdb98b50f9b5cfdcb15.jpg"
+        width: 426
+        height: 439
+        isCached: true
   - title: "How self driving cars are getting ready for Indian roads"
     excerpt: "Work on autonomous cars is on full throttle in India, but self-driving cars are still some time away"
     publishedDateTime: 2023-06-04T08:26:00Z

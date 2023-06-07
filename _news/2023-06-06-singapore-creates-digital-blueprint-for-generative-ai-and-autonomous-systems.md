@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/networking/singapor
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore puts AI on the cloud to boost public sector deployment"
-    excerpt: "Dedicated cloud resources running on Google's platform have been carved out to to enable Singapore government agencies to deploy AI applications more efficiently and securely."
-    publishedDateTime: 2023-06-02T13:08:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-puts-ai-on-the-cloud-to-boost-public-sector-deployment/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 51
   - title: "Here’s What You Need to Know About the AI-Themed Singapore Fintech Festival 2023"
     excerpt: "The theme for the upcoming Singapore Fintech Festival 2023 would be ‘Applications of Artificial Intelligence (AI) in Financial Services’."
     publishedDateTime: 2023-06-05T04:05:00Z

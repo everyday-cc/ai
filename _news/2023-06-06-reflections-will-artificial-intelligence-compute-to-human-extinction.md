@@ -9,7 +9,7 @@ ampWebUrl: "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-
 cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

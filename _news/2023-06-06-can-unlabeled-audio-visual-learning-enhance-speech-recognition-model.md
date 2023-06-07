@@ -21,6 +21,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "New deep learning model lays the foundation for specialized diagnostic models"
+    excerpt: "Mount Sinai researchers have developed an innovative artificial intelligence (AI) model for electrocardiogram (ECG) analysis that allows for the interpretation of ECGs as language. This approach can enhance the accuracy and effectiveness of ECG-related diagnoses,"
+    publishedDateTime: 2023-06-07T04:38:00Z
+    webUrl: "https://www.news-medical.net/news/20230607/New-deep-learning-model-lays-the-foundation-for-specialized-diagnostic-models.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 36
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Multimodal technique for analyzing audio and visual data improves performance of machine-learning models"
     excerpt: "Researchers from MIT, the MIT-IBM Watson AI Lab, IBM Research, and elsewhere have developed a new technique for analyzing unlabeled audio and visual data that could improve the performance of machine-learning models used in applications like speech recognition and object detection."
     publishedDateTime: 2023-06-06T17:08:00Z

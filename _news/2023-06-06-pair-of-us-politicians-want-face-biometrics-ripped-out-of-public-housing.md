@@ -33,6 +33,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Facial recognition technology row is Hamlet with the biometric prints"
+    excerpt: "It is a red herring to conflate body-worn cameras with this tech, which has been controversial in every state where it has been mooted; and with very good reason"
+    publishedDateTime: 2023-06-07T04:00:00Z
+    webUrl: "https://www.irishtimes.com/opinion/2023/06/07/facial-recognition-technology-row-is-hamlet-with-the-biometric-prints/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: "https://www.irishtimes.com/resizer/cByn80Ga7NCANY7BZDaJebPX2dI=/1200x630/filters:format(jpg):quality(70):focal(4195x2320:4205x2330)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/6RBCWUIP7BDINH6RUG6EP6Z2A4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SmartMetric to embed AI into biometric credit card"
     excerpt: "While the company is close to releasing its advanced premium fingerprint biometric activated credit card the company’s engineers are now working on adding embedded AI into the card’s electronics."
     publishedDateTime: 2023-06-05T13:47:00Z

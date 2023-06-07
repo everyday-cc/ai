@@ -149,33 +149,6 @@ related:
         width: 1200
         height: 613
         isCached: true
-  - title: "How a Jiffy Lube franchisee with 500 locations used machine learning to fine-tune their finance tech transformation"
-    excerpt: "So, the company made the move to modernize how it handles financial workflows with automation and machine learning. “The first thing we ... after more than three decades of service with the company, according to a Securities and Exchange Commission ..."
-    publishedDateTime: 2023-06-02T11:33:00Z
-    webUrl: "https://fortune.com/2023/06/02/jiffy-lube-franchisee-machine-learning-finance-tech-transformation/"
-    ampWebUrl: "https://fortune.com/2023/06/02/jiffy-lube-franchisee-machine-learning-finance-tech-transformation/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/06/02/jiffy-lube-franchisee-machine-learning-finance-tech-transformation/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 84
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/06/GettyImages-1423782273.jpg?w=840"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "AI Acceleration in the Racing Industry"
-    excerpt: "In this article, we’ll explore how AI is reshaping the racing landscape and the top companies to invest in the AI self-driving space – specifically race cars. In contrast to normal road traffic, car racing has no rules,"
-    publishedDateTime: 2023-06-02T12:52:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-acceleration-in-the-racing-industry"
-    ampWebUrl: "https://www.nasdaq.com/articles/ai-acceleration-in-the-racing-industry?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-acceleration-in-the-racing-industry?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 71
   - title: "ChatGPT and the Future of Banking: How AI Is Revolutionizing Financial Services"
     excerpt: "How AI Is Revolutionizing Financial Services By Raghuram Madiraju​ ChatGPT is a conversational artificial intelligence (AI) platform that has taken the world by storm. Part of its popularity is due to its responses being so human-like."
     publishedDateTime: 2023-06-02T16:13:00Z
@@ -191,22 +164,6 @@ related:
       - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2023/06/iStock-1488400461.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "Apple is accelerating hiring efforts for generative AI engineers"
-    excerpt: "Apple is again recruiting for Machine Learning engineers for both Apple AR and \"Conversational and Generative AI.\""
-    publishedDateTime: 2023-06-02T11:12:00Z
-    webUrl: "https://appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers"
-    ampWebUrl: "https://appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
-        width: 1312
-        height: 738
         isCached: true
   - title: "UAE’s Artificial Intelligence Office explores opportunities to Accelerate innovation with precision medicine"
     excerpt: "The government's approach involves harnessing advanced digital technology and artificial intelligence to address the prevailing challenges in the healthcare sector. This strategic utilisation of cutting-edge innovations has yielded favorable outcomes ..."
@@ -289,9 +246,9 @@ related:
       domain: bizjournals.com
     quality: 7
   - title: "Automation Anywhere, Inc.: Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "\"At AWS, our goal is to make it easy ... The company offers the world's only cloud-native platform combining RPA, artificial intelligence, machine learning, and analytics to automate repetitive tasks and build enterprise agility, freeing up humans to ..."
-    publishedDateTime: 2023-06-06T10:24:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59269783-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
+    excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent automation services LONDON, June 6, 2023 /PRNewswire/ -- Automation Anywhere ..."
+    publishedDateTime: 2023-06-06T10:57:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59270155-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
     type: article
     provider:
       name: Finanznachrichten

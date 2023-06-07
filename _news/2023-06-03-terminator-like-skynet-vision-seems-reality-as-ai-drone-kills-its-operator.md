@@ -65,15 +65,6 @@ related:
         width: 1480
         height: 833
         isCached: true
-  - title: "Reports of an AI drone that 'killed' its operator are pure fiction"
-    excerpt: "It has been widely reported that a US Air Force drone went rogue and 'killed' its operator in a simulation, sparking fears of an AI revolution - but this simulation never took place. Why are we so quick to believe AI horror stories?"
-    publishedDateTime: 2023-06-02T12:20:00Z
-    webUrl: "https://www.newscientist.com/article/2376660-reports-of-an-ai-drone-that-killed-its-operator-are-pure-fiction/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 17
   - title: "Air Force official ‘misspoke’ in tale of AI drone killing human operator in US test mission"
     excerpt: "An Air Force official says he “misspoke” when describing how an artificially intelligent drone programmed to destroy air defence systems rebelled and “killed” its human operator after it decided they were in the way of its mission air defence systems."
     publishedDateTime: 2023-06-02T18:43:00Z

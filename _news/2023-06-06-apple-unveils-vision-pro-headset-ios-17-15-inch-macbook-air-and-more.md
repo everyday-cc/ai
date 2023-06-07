@@ -22,6 +22,22 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Good News For Metaverse Users, As Apple Unleashes Its New Vision Pro VR Headset"
+    excerpt: "Tech giant Apple has unveiled its highly anticipated mixed reality wearable computer headset, which had been in the works for some years."
+    publishedDateTime: 2023-06-07T04:23:00Z
+    webUrl: "https://insidebitcoins.com/news/good-news-for-metaverse-users-as-apple-unleashes-its-new-vision-pro-vr-headset"
+    type: article
+    provider:
+      name: Inside Bitcoins
+      domain: insidebitcoins.com
+    quality: 20
+    images:
+      - url: "https://insidebitcoins.com/wp-content/uploads/2023/06/Apple-AR-Headset.png"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "KhpeCgUj+/XveQsuzMHcao79Ct7GVye18okqit6+NHNS17kbOmtOvTD0qswkrqmamyBFzXeaADAN9OQfBftHM7Q7pzOWFHre7xwODi4p77t0sRTuQ0Weft3elOjiXuNK86p/6F/8+PmQUIyQlnQQXoZQlDEaN76Qz9tjCusyC0T24O+chEo5TMg6OpfTG9n/Kl55S9nVTNhNTyPQdmqxzHwvvYKTRaGAqZwcV0sqLAj/oW4pxC7bvzksSAQd+UN49tVMq1DzxNaEH9rpsarWLwebh54LV06nsBsH2oHv6vvqj1SH2IyUnYspckx/gAu1z8DGpKMZV45wgLHQ6WAEVh4YmPo1QJEps9up6wNd1VU=;MOXoxZSkYOkbhmxib1dL2A=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
 excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
-publishedDateTime: 2023-06-06T14:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aprimo-introduces-ai-content-coach-with-chatgpt-revolutionize-/2023/06/06/9827428.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aprimo-introduces-ai-content-coach-with-chatgpt-revolutionize-/2023/06/06/9827428.htm"
+publishedDateTime: 2023-06-06T13:34:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/06/9827428.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827428.htm"
 type: article
 quality: 13
 heat: -1
@@ -110,6 +110,6 @@ related:
         height: 1701
         isCached: true
 
-secured: "E8JeSjdxCK5cijy/g6mH1xAyfL6TN6joWUPJkpTUIH3yLg7z8OueuqijCwFczJYFiPP86FzBmwkZgHRXQ6F86BVmCzJIP4C25wGgKiPbzTkfWlZOiE68Lm40a5/YwTdm/cIQbwyNo+nNuyugI+lLpMrD9AhwO7k0vm88WYhdyiXwndNQCCTEeh7DphAtoxwWML3gBA0lWcqICMICBztVHZwM4DOHGQ0pwnoaff7SBvyaw1lDqk3pUkrB90oy78gT5oBHMpkaO/FMiLo4PrWRbC9gV5G0j6F914Dhq8oHUmRKttdgLliQEb5hFJmWiMW3XLJZ5KUaw0iwRXWKTAqVSnO5nE5MUC7pLJu1tjEMEsg=;H8x0U4kz7gcsoHozP/0YRw=="
+secured: "gcb0HQ6AvuL81WWCGZJkBPF8v4NwUVtagboXrbkfKhSOiwVZ4OYjZN9X/2M+45nL67WUa2+b+2adhoANjl5W3b4epZfgpOmSi/GcbXzaho9Xop8rKuFDeguKCE94o8g1OaZtvUeBhRH7C58gyCsGX/2eGEuiD62db58IMaw2aoO88XJp6HvtxFsOaxEYjDln/t4hjqDrBoplwT9zRaNBEY+7eHRmj0fB8QuG/dXrhlsIROGqyZlwt3+7fyneC/rrp4g4eGW6qqjX6r2h5rEGFub1aQ9wzqzXDGhX2ZwkXyGQvvxek4XjWo1lN2GVH5JaV9QyZeT9bJ/f4bblJfSjAycaAvkhOK6YBKf5qBE1Uvc=;GAn/fqIQ4nHvT5C/wsirVQ=="
 ---
 
