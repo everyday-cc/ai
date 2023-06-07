@@ -35,6 +35,20 @@ related:
       name: SD Times
       domain: sdtimes.com
     quality: 60
+  - title: "Landing AI Releases SDK to Accelerate Computer Vision Development"
+    excerpt: "Comprehensive Selection of AI Use Cases: Landing AI's repositories cover a range of computer vision use cases, including object dete"
+    publishedDateTime: 2023-06-06T13:45:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827444.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/2093665/Landing_AI_SDK.jpg"
+        width: 400
+        height: 210
+        isCached: true
   - title: "Wallaroo.AI Launches Unique Workload Orchestration Capabilities to Help Scale Production Machine Learning (ML) Workflows 5- 10x, with 40% Time Savings"
     excerpt: "Wallaroo.AI, the leader in scaling production machine learning (ML) on premise, in the cloud, and at the edge, today announced early access of ML Workload Orchestration features in its unified production ML platform."
     publishedDateTime: 2023-06-06T11:19:00Z

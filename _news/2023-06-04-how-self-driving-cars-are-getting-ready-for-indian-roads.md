@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "A Waymo self-driving car killed a dog"
+    excerpt: "And a self-driving car killing a sweet pooch has the potential to kick out that third leg. It also comes at a critical time for the industry and, specifically, for Waymo, which is expanding its robotaxi network in Phoenix and gearing up to charge fares for ..."
+    publishedDateTime: 2023-06-06T22:02:00Z
+    webUrl: "https://www.autoblog.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
+    ampWebUrl: "https://www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-10/fc275060-2ddd-11ec-9df6-28e42309b04a"
+        width: 1062
+        height: 597
+        isCached: true
   - title: "Exploring sharper computer vision for self-driving cars and cybernetic avatars"
     excerpt: "Just making a small tweak to algorithms typically used to enhance images could dramatically boost computer vision recognition capabilities in applications ranging from self-driving cars to cybernetic avatars,"
     publishedDateTime: 2023-06-06T17:24:00Z
@@ -35,20 +51,15 @@ related:
         width: 2880
         height: 1908
         isCached: true
-  - title: "E-scooters and Self-Driving Vehicles Inquiry"
-    excerpt: "Commons Transport Committee session on e-scooters and self-driving vehicles, with evidence from transport minister Jesse Norman and senior officials, from Wednesday 17 May."
-    publishedDateTime: 2023-06-03T01:50:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/m001n2rf"
+  - title: "Luminar Partners with Plus to Develop Self-Driving Tech for Big Rigs"
+    excerpt: "The lidar maker Luminar is working with an autonomous-driving start-up to provide self-driving solutions to the commercial vehicle industry."
+    publishedDateTime: 2023-06-06T12:00:00Z
+    webUrl: "https://www.barrons.com/articles/luminar-partners-plus-lidar-self-driving-trucks-78447151"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 24
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p04bplqj.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "vv7MFbXLKAFCYct1dgjL4DB0AT/0ZSondFWfspAfRs/LIA0LKRqpnZh033Wa0pUtdsVJAWg64UJ1eXOznacL4V57VXvMmUcByWl4ZlB9I7BhFMfMXZZgLBAv1bbvV7tf/UpYvrWf5OpcMxkOiHjdSLamuIqKf9E529MrgnF6FvJabmoCIm99L7yYr11SX+tCgqzzwObM84C20gAff+YCQf+JONwMYnnX/1cNXFYgpgEHH4SlGaEcSnrWy3+VgAmMqaY+Z3RGfTTGe/JczSrw8SSm0bDMbEnWZFXHFvfISaf5TpF3tDDhqvZdATMS/BwTvb8PSHpEoXIaU0hQzREK/9xPiMNmSHlcVfUni8j/MP2Vn3IloBNOucF2PCcWIzpVtcn+SzBopS3cDZbuNOAoro/T6hzJRvZfGFXgr8k7DuntLuLVnmLQyrusFi3b3QeyDz65lCQ3HTufZbhMdziNSio8ZZrv337igI3+/iFtlQCvGGPFWguS78sq0ThxJPwjk5PTE6PSmL/0DvIydm2IfA==;u8colJZTLEUnZ/SNN7zEXg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-duet-ai-for-workspace-3331
 webUrl: "https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/"
 type: article
 quality: 69
-heat: 101
+heat: 99
 published: true
 
 provider:

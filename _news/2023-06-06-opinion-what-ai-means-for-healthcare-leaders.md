@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Religion: Artificial Intelligence and us"
-    excerpt: "I was introduced to the prospects of Artificial Intelligence in 1968. I was sitting in my car at a drive-in theater watching the blockbuster movie, \"2001: A Space Odyssey.\" HAL,"
-    publishedDateTime: 2023-06-02T14:59:00Z
-    webUrl: "https://wacotrib.com/news/local/religion-artificial-intelligence-and-us/article_3a84ccb2-ffff-11ed-8ea8-1b594d4a8d6b.html"
+  - title: "Don’t let artificial intelligence create alternate reality | Opinion"
+    excerpt: "Artificial intelligence is the latest in the increasingly rapid stream of feared “existential threats” to American society. The virtual horses are out of the imaginary barn and into the corral. There’s widespread fear of their escaping to the hills."
+    publishedDateTime: 2023-06-06T22:01:00Z
+    webUrl: "https://www.tennessean.com/story/opinion/2023/06/06/opinion-dont-let-artificial-intelligence-create-alternate-reality/70289334007/"
     type: article
     provider:
-      name: wacotrib
-      domain: wacotrib.com
-    quality: 37
+      name: Tennessean
+      domain: tennessean.com
+    quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/custom/image/0ed30134-f79f-11e6-94c4-93314ab365a9.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://www.gannett-cdn.com/presto/2023/05/16/USAT/13a5aa23-9254-4ac0-abf5-bd3e73f5addd-GTY_1490690420.jpg?auto=webp&crop=5557,3126,x0,y555&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "YDm4ZHO177lPRZGaN1CsWHgX5x/M1WUK3uzGIfpbdYxSi24vwlbZzJR7Vvzc67lvJ4WipDYs6ITxTYq/5Fz0pcrrBtTGXEpQxNb9A8IU9zZRtWjfm+hoY48oFtS6DQ7VRsmk/YrpAMBeMbqrB9Kklgc9J++nqnSvikG3qNNxxX5gssq0ii5xKp1NhcQtIA3D/XFLrD7Z2yYxuWu2RkIvD4cnrl5+2hUXbXMZlxRhvA9kVhEp9s43LWWqRnzPd5wxkfZqMDhzo0DmWrJM7Lijw7zUZ9Yfrn5ss/zQK5Hc6DvXPfAqozi5tMRFXm2fvLFI+1oi6mmh85VjyucvPElibp/yLC9Ce2Ki5q7SVBYI5ds=;2ucyLtRq+PQHqVFn0+x5Tg=="

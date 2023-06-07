@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 744
         isCached: true
-  - title: "Lack of trust slowing down AI revolution in medical settings: GE Healthcare report"
-    excerpt: "A new survey from GE Healthcare reveals that clinicians lack trust in AI when it comes to using the technology in medical settings."
-    publishedDateTime: 2023-06-06T20:30:00Z
-    webUrl: "https://venturebeat.com/ai/lack-of-trust-slowing-down-ai-revolution-in-medical-settings-ge-healthcare-report/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Bridging the regulatory gap plus other AI stories to read this month"
     excerpt: "This artificial intelligence round-up brings you key AI stories from the last month including EU and US aims to bridge the AI regulatory gap."
     publishedDateTime: 2023-06-06T08:21:00Z

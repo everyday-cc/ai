@@ -29,6 +29,20 @@ related:
       name: SD Times
       domain: sdtimes.com
     quality: 60
+  - title: "Landing AI Releases SDK to Accelerate Computer Vision Development"
+    excerpt: "Comprehensive Selection of AI Use Cases: Landing AI's repositories cover a range of computer vision use cases, including object dete"
+    publishedDateTime: 2023-06-06T13:45:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827444.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/2093665/Landing_AI_SDK.jpg"
+        width: 400
+        height: 210
+        isCached: true
   - title: "Woflow Took Over European Startup XtremeAI, Extending Reach and Strengthening AI Capabilities"
     excerpt: "Woflow, the data infrastructure company, announces the acquisition of XtremeAI, a Seville-based document digitization and data structuring platform."
     publishedDateTime: 2023-06-05T14:44:00Z

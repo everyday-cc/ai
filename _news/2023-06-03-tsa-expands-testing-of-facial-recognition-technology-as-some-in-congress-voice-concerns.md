@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NEC XON to Install Facial Recognition Technology at Nigeria Airports"
+    excerpt: "Kindly share this postNEC XON, African integrator of ICT solutions firm will soon introduce facial recognition technology at major airports across Nigeria. NEC XON, which is part of NEC, a Japanese global company,"
+    publishedDateTime: 2023-06-06T23:40:00Z
+    webUrl: "https://www.nigeriacommunicationsweek.com.ng/nec-xon-to-install-facial-recognition-technology-at-nigeria-airports/"
+    type: article
+    provider:
+      name: nigeriacommunicationsweek
+      domain: nigeriacommunicationsweek.com.ng
+    quality: 54
+    images:
+      - url: "https://i0.wp.com/www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2023/06/Facial-Recognation-Image.jpg?resize=629%2C349&#038;ssl=1"
+        width: 629
+        height: 349
+        isCached: true
   - title: "Police to use facial recognition technology in central London during Coronation"
     excerpt: "acial recognition technology will be used by police as part of its security operation for King Charles’ Coronation. Ahead of events on Saturday a ring of steel was being put in place around ..."
     publishedDateTime: 2023-06-03T00:00:00Z

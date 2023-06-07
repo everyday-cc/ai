@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "E-scooters and Self-Driving Vehicles Inquiry"
+    excerpt: "Commons Transport Committee session on e-scooters and self-driving vehicles, with evidence from transport minister Jesse Norman and senior officials, from Wednesday 17 May."
+    publishedDateTime: 2023-06-03T01:50:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/m001n2rf"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 24
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p04bplqj.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pennsylvania Bikers Rally for Self-Driving Vehicle Protections"
     excerpt: "Hundreds of bikers urged Pennsylvania lawmakers to extend the automotive lemon law to motorcycles, grant motorcycle processions the same rights as funeral processions and continue supporting motorcycle safety training programs."
     publishedDateTime: 2023-06-06T21:12:00Z

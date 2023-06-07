@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-07-exploring-sharper-computer-vision-for-self-driving-cars-and-cybernetic-avatars.md",
-      "title": "Exploring sharper computer vision for self-driving cars and cybernetic avatars",
-      "excerpt": "Just making a small tweak to algorithms typically used to enhance images could dramatically boost computer vision recognition capabilities in applications ranging from self-driving cars to cybernetic avatars,",
+      "path": "_news/2023-06-07-a-waymo-self-driving-car-killed-a-dog.md",
+      "title": "A Waymo self-driving car killed a dog",
+      "excerpt": "And a self-driving car killing a sweet pooch has the potential to kick out that third leg. It also comes at a critical time for the industry and, specifically, for Waymo, which is expanding its robotaxi network in Phoenix and gearing up to charge fares for ...",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html",
+      "webUrl": "https://www.autoblog.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog/",
+      "originalUrl": "https://www.autoblog.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/car-windshield.jpg",
-          "width": 2880,
-          "height": 1908,
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-10/fc275060-2ddd-11ec-9df6-28e42309b04a",
+          "width": 1062,
+          "height": 597,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp",
-      "publishedDateTime": "2023-06-06T10:24:00-07:00",
+      "ampWebUrl": "https://www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/",
+      "publishedDateTime": "2023-06-06T15:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
+        "name": "Autoblog",
+        "domain": "autoblog.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,8 +41,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "Computer Vision"
+        "AI"
       ]
     },
     {

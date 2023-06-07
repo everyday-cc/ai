@@ -7,7 +7,7 @@ originalUrl: "https://www.barrons.com/articles/luminar-partners-plus-lidar-self-
 webUrl: "https://www.barrons.com/articles/luminar-partners-plus-lidar-self-driving-trucks-78447151"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,49 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "A Waymo self-driving car killed a dog"
+    excerpt: "And a self-driving car killing a sweet pooch has the potential to kick out that third leg. It also comes at a critical time for the industry and, specifically, for Waymo, which is expanding its robotaxi network in Phoenix and gearing up to charge fares for ..."
+    publishedDateTime: 2023-06-06T22:02:00Z
+    webUrl: "https://www.autoblog.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
+    ampWebUrl: "https://www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-10/fc275060-2ddd-11ec-9df6-28e42309b04a"
+        width: 1062
+        height: 597
+        isCached: true
+  - title: "Exploring sharper computer vision for self-driving cars and cybernetic avatars"
+    excerpt: "Just making a small tweak to algorithms typically used to enhance images could dramatically boost computer vision recognition capabilities in applications ranging from self-driving cars to cybernetic avatars,"
+    publishedDateTime: 2023-06-06T17:24:00Z
+    webUrl: "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/car-windshield.jpg"
+        width: 2880
+        height: 1908
+        isCached: true
+  - title: "How self driving cars are getting ready for Indian roads"
+    excerpt: "Work on autonomous cars is on full throttle in India, but self-driving cars are still some time away"
+    publishedDateTime: 2023-06-04T08:26:00Z
+    webUrl: "https://www.headlinestoday.in/top-news/how-self-driving-cars-are-getting-ready-for-indian-roads-556665453.html"
+    type: article
+    provider:
+      name: headlinestoday
+      domain: headlinestoday.in
+    quality: 19
 
 secured: "HPB7V7QmajpjdNNhz3t3rj1FC0qNiWsAzp0l7az8OqfVRoin+D5ooaBdt/LN1jYwNJixq5L2B1p+6dVykJh9isiKL9rZy0Qokwf7lBT6yJp4WtYB3ZjDLohGBT0XDCcqUeYGHDu2wPbl0RQHm9iUoG5FDmWIV0F7unDS0okw+WDU1i0QsxRRjOipIY1RVBdR12gMUuqLGAsgeEVOOl9DXV7cawGaiN5SYwpItPFsSXJj44GhCBOP76VPf2HE7K0uaAd9nDOS8A2yMEvjUxCJqHa+4Zp+O+FxeSzF9zHqu0SRjOs7Q2hSU5gPu4rRrzA4pA8+XbwVbEbvryCTq/s/jKxsnCbgVIJUUOc2MYp/KlkgeuwCSc5/ydWS35kxMmVZMo/MimTePPDaCGTrywdxPP/+KLpWUxn+T04cmCaNR17ZhrYxEIYsm6YkEIKUrnCul/LnbBKoCjb6I6EGXZQl6mXCrS8OA2IS2DeoWy77RDfi+1c0fuvkQGj8Mg3YyxConSI55/yJfj3Pnbb36YZ94g==;CDnbsT+zbvcAaJQj6hGQ8Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/98937-google-using-machine-learning-
 webUrl: "https://www.techspot.com/news/98937-google-using-machine-learning-models-speed-up-gmail.html"
 type: article
 quality: 84
-heat: 116
+heat: 114
 published: true
 
 provider:

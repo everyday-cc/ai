@@ -7,7 +7,7 @@ originalUrl: "https://in.mashable.com/tech/53962/artificial-intelligence-took-ov
 webUrl: "https://in.mashable.com/tech/53962/artificial-intelligence-took-over-around-4000-jobs-in-the-tech-industry-in-may-alone"
 type: article
 quality: 60
-heat: 106
+heat: 100
 published: true
 
 provider:

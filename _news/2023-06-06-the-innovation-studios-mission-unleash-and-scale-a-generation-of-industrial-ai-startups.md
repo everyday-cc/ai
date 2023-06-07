@@ -288,8 +288,8 @@ related:
     quality: 17
   - title: "Automation Anywhere, Inc.: Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
     excerpt: "\"At AWS, our goal is to make it easy ... The company offers the world's only cloud-native platform combining RPA, artificial intelligence, machine learning, and analytics to automate repetitive tasks and build enterprise agility, freeing up humans to ..."
-    publishedDateTime: 2023-06-06T10:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59269919-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
+    publishedDateTime: 2023-06-06T10:57:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59270155-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
     type: article
     provider:
       name: Finanznachrichten

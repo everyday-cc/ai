@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-06T20:54:00Z
 originalUrl: "https://www.bankingdive.com/press-release/20230606-encapture-a-high-growth-machine-learning-platform-for-banks-and-lenders-r/"
 webUrl: "https://www.bankingdive.com/press-release/20230606-encapture-a-high-growth-machine-learning-platform-for-banks-and-lenders-r/"
 type: article
-quality: 28
-heat: 28
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1686082637/press_release/assets/header_images/DiveBankingGraphics_Encapture_June2023_2_vp29ir.png"
@@ -24,6 +25,6 @@ images:
     height: 700
     isCached: true
 
-secured: "tsX88Aw4wOKP4beMDX9ay1zP9fuDSy1HUmfl6BVaws1vEHI6xbIzyXBrYg9WpJaiw3sVK+xsO9FWFF4t3Viy5y+Bs/NuUYBpW78TrucaQWTD6rUIPvMnD4UrLimlDIn4edGhaMrjk5QDzWmpprw8kTENTmGtceuQU4XDI0QjhC2Cp/6ybwibmIX+YmT25hoyD8zDLHa0aeJkj5GtyGqQDLTISnY97fbXJzQJOjMEyqFB2y5quXN959jlem/3TtCZEan1FeSd7HMhMa/krihdQVV05RnPkPX7xb7ib/YoMWzZxrIOs7vGstfGOcKV44G2jp0pCMLJE/8mI7dDxOzpMJqpKdu3A66k98LWGvvk128=;T9IJnDxeynk75WvP8knhAg=="
+secured: "M9uxB8K/HrV07htlnK6vjaYN4N4o7870vAwsAGKRYaiIODM3AkN4XMloAFZ4H9DiGXwc7zpn1YYryu5V6XfzO5EnRd49hGVoYEPfSxH4ltEZvQQaupOVkLI83qtQ4NtianXLbOY2Q4YvTsI9pD3G7VOXf2pxRDmsQIEkmLi2Cpi9EIUSqYhtXwdnC730Ltyk8apouz5YOguCfYbVmOLHSbH9obhrz2p5mghtxLCWhvHeLOM7N+dQH6gptOM7l4Bi6Xdd4PL6ViSZ4gjxgpwaOqYlaHaD5O0H3jKani6I2c2iEfZQOaGv3NaaRZT0RM4xFY1QzSnFuPYdjr5uloGskMjpXfywlgyaDfPTGzV57lJh79bc2rFfSJhMzxg5jon83KM/uQdT99sC9RBwpp9BNVltHe93NUKuo8P+eHGPtOplVMYvF+gJWujlgvCzacvrQMWdvxf74Pa5SSxFHo6QLeHBftT64flkl+2BUilfxruzN8DJPOK3y3eMRbPxOiVrheXPIOcdTNXmv4P8MXFEDA==;m6ykQH8rOjicGGJy46TSow=="
 ---
 

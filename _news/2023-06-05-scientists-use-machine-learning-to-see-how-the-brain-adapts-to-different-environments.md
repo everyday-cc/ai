@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-06-scientists-machine-brain-envi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-scientists-machine-brain-environments.amp"
 type: article
 quality: 66
-heat: 76
+heat: 77
 published: true
 
 provider:
