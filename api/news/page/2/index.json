@@ -44,6 +44,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-06-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799",
+      "publishedDateTime": "2023-06-06T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-where-to-start-with-generative-ai-the-customer-experience.md",
       "title": "Where To Start With Generative AI & The Customer Experience",
       "excerpt": "With leading brands beginning to deploy generative AI in the enterprise setting, customer service has emerged as a key testing ground.",
@@ -52,7 +95,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -1161,58 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-apples-brainiest-mac-chip-so-far-the-m2-ultra-means-no-more-intel.md",
-      "title": "Apple's Brainiest Mac Chip So Far, the M2 Ultra, Means No More Intel",
-      "excerpt": "The new chip powers Apple's new Mac Pro and upgraded Mac Studio, letting power users pack as much as 192GB of memory into their machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/apples-brainiest-mac-chip-so-far-the-m2-ultra-means-no-more-intel/",
-      "originalUrl": "https://www.cnet.com/tech/computing/apples-brainiest-mac-chip-so-far-the-m2-ultra-means-no-more-intel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/ac9f4e6185ebc3ddef15f8ddeb86f837ce737b6f/hub/2023/06/05/3d6a31c0-2940-4f7d-952b-e0ca9eb6e96b/apple-m2-ultra-processor.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -35,15 +35,6 @@ related:
         width: 690
         height: 407
         isCached: true
-  - title: "Terminator-Like Skynet Vision Seems Reality As AI Drone Kills Its Operator"
-    excerpt: "Conversations about AI and related technologies cannot be heard if you are not going to talk about ethics and AI.”"
-    publishedDateTime: 2023-06-02T17:56:00Z
-    webUrl: "https://insidebitcoins.com/news/terminator-like-skynet-vision-seems-reality-as-ai-drone-kills-its-operator"
-    type: article
-    provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 17
 
 secured: "3T2D5T6YtuzszMfHXUzvsYMHcfqzEOw/nf8YRaEX7kNnIbg/6xpGiFXtxkcH5zlP3245FhMvSKpc4uWTwOjOUlMCeA62aOpLiEXuT3TRS5j4JURHZLwZAu0Rtl60eR7hK+wNnUA1XIDG51gJTY8CfLCGw0trxCd6nTQA57xb+K+DR58lyIZ2j84xaxJRI42/2NkQp7kH2LUJ6s5+UKV8OMpz3FvrWJXliTFUXp8w+qD/LXl+yXxnUyOiMlIzlgE8Z7rorlX0LN4CHd8gOeAt+eY2P/q4wAQR43jtOEAMg8WyzMuqpd5jhtOGiJSzQCbzAOvvaS95tXVKY+AMkHPUb3nDjPk91ynRoLkXNfBxLSTp2yak2GlTOmcplcgnPfzBM9gE8AgpX1b2HoaQOfVj6DfW4OOPSdGqTC2MUIkymkSI6TJ5uz1ad2AubW4+TjtK6eywgCucB0mJgR9o3uQoMy72mLGB7WPx7A6AaZJuatvXy205GxmQvEmNNzllUCcEA6eqosNd2qpSWQSXjPHz5w==;2quXQOAwMl9lwod5IdVowA=="
 ---

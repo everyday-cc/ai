@@ -91,6 +91,20 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 4
+  - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
+    excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
+    publishedDateTime: 2023-06-07T10:07:00Z
+    webUrl: "https://www.thenewsmarket.com/news/self-driving-cars-are-not-yet-on-our-roads--but-assisted-driving-systems-are-already-supporting-driv/s/4f416199-ae4e-438f-bbb6-7418798e6e40"
+    type: article
+    provider:
+      name: thenewsmarket
+      domain: thenewsmarket.com
+    quality: 1
+    images:
+      - url: "https://preview.thenewsmarket.com/Previews/NCAP/StillAssets/960x540/644091_v3.jpg"
+        width: 1168
+        height: 657
+        isCached: true
 
 secured: "YDZxmB5mywAZ8AA/wYNVacV3FrN1IslY0ony1WJB0x8EZXdDv0PxskiN51uocL3UAegZ7H7wMWmQNmBTEYHGgh7dBOjJeD+Td5LvsbJiwUD+EegrW87RboeNaI2j2aXEbogXGTvIjVdCWO5nVq063LC7SBNA1rPXe2DPRaj9bNsDlktLZI48QaKZ9YIuyLrGECAeLlkeIgew9l9S34+jNdRBlaTId2nyQvKlMzyTfpmI1Nb5eXfdRLuzWjF2CyxcUzIDkvWv9M4SBxfMNO0wLa4oWOw9ALQC8kc7v/hImneIZyHx+rCSVQzbD/CyHSwRn4g1wWz2qBYPQMz/76mRwlQUEadcdzqNrXxXTcJoo18=;418xe8Ri9UO4QtdYM68Kpw=="
 ---

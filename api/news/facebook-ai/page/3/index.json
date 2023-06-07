@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-04-25-66-of-americans-would-not-want-ai-to-help-make-hiring-decisions.md",
-      "title": "66% of Americans would not want AI to help make hiring decisions",
-      "excerpt": "A recent Pew Research study about using artificial intelligence when hiring and evaluating workers reveals mixed opinions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
-      "originalUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/future-procurement-data-first.jpeg",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/hiring-with-ai-pew/amp/",
-      "publishedDateTime": "2023-04-24T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-25-mark-zuckerberg-has-become-so-obsessed-with-ai-that-one-wall-street-research-firm-is-jesting-that-facebook-will-change-its-name-to-metai.md",
       "title": "Mark Zuckerberg has become so obsessed with AI that one Wall Street research firm is jesting that Facebook will change its name to MetAI",
       "excerpt": "After a Metaverse spending splurge last year, the company has been buying a lot of Nvidia chips, which are needed to train large AI models.",
@@ -1365,6 +1313,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-03-how-researchers-are-using-ai-fruit-flies-to-make-major-biological-breakthroughs.md",
+      "title": "How researchers are using AI, fruit flies to make major biological breakthroughs",
+      "excerpt": "KANSAS CITY, Mo. (KCTV) - Artificial intelligence is taking the world to a new era at the Stowers Institute for Medical Research. AI is making major breakthroughs in biology that have stumped ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/",
+      "originalUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/T8YzKAN3cuVd7ooBW0YR1SxdDMg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QE3MRHDW6NAFJHDPKHACMG53UM.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/?outputType=amp",
+      "publishedDateTime": "2023-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KCTV News",
+        "domain": "kctv5.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-07-ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing.md",
+      "title": "AI Is Here To Stay, But It's No Match For Humans In PR And Marketing",
+      "excerpt": "While AI chatbots like ChatGPT are poised to fundamentally alter the nature of work, now is not the time to panic. Armageddon is not upon us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632863e848add909c4b00d1b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/amp/",
+      "publishedDateTime": "2023-06-07T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach.md",
+      "title": "Can we achieve fairness in machine learning? UNC researchers have new approach",
+      "excerpt": "From facial recognition software to employment and interview pre-screening, algorithms have been found to reinforce systemic biases, exacerbating existing asymmetries and inequities rather than reducing them.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/",
+      "originalUrl": "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kenaninstitute.unc.edu/wp-content/uploads/2018/01/eric_ghysels-768x768.jpg",
+          "width": 768,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/?amp=1",
+      "publishedDateTime": "2023-06-07T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-the-future-of-generative-ai-from-google-cloud-what-you-need-to-know.md",
       "title": "The Future of Generative AI from Google Cloud: What You Need to Know",
       "excerpt": "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that",
@@ -206,7 +301,7 @@
       "originalUrl": "https://venturebeat.com/ai/optimism-about-ai-is-growing-as-more-people-use-it-bcg-report-finds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -404,49 +499,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-07-did-an-ai-drone-go-rogue-and-kill-its-human-operator-in-a-simulation-report.md",
-      "title": "Did an AI drone go rogue and kill its human operator in a simulation? - report",
-      "excerpt": "\"You can't have a conversation about artificial intelligence, intelligence, machine learning, autonomy if you're not going to talk about ethics and AI,\" the person added. \"The Department of the Air Force has not conducted any such AI-drone simulations and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-745463",
-      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-745463",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/536262",
-          "width": 690,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-745463/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-745463/amp",
-      "publishedDateTime": "2023-06-06T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-07-black-mirror-creator-tried-to-get-artificial-intelligence-to-write-an-episode-but-it-was-sht.md",
       "title": "‘Black Mirror’ Creator Tried To Get Artificial Intelligence To Write An Episode, But It Was ‘Sh*t’",
       "excerpt": "The hit Netflix show’s creator, Charlie Brooker, enlisted ChatGPT to help draft an episode ahead of the Season 6 premiere.",
@@ -506,7 +558,7 @@
       "originalUrl": "https://www.autoblog.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -678,49 +730,6 @@
         "AWS AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as-language.md",
-      "title": "Mount Sinai Researchers Use New Deep Learning Approach to Enable Analysis of Electrocardiograms as Language",
-      "excerpt": "Mount Sinai researchers have developed an innovative artificial intelligence (AI) model for electrocardiogram (ECG) analysis that allows for the interpretation of ECGs as language. This approach can e",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32746157/mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32746157/mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32746157",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32746157",
-      "publishedDateTime": "2023-06-06T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1034,7 +1043,7 @@
       "originalUrl": "https://www.zdnet.com/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {

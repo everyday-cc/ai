@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The rise of digital marketing: Assessing the impact of AI and machine learning on advertising practices"
-    excerpt: "The rapid progress in artificial intelligence and machine learning has provided marketers with powerful tools to effectively connect and engage with their target"
-    publishedDateTime: 2023-06-06T07:21:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/16/239002.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 55
-    images:
-      - url: "https://biz-file.com/c/2306/700581.jpg"
-        width: 700
-        height: 364
-        isCached: true
   - title: "Generative AI, digital skills, ageism: 5 interesting stats to start your week"
     excerpt: "Generative AI is marketers’ top consumer trend. Some 59% of marketers have singled out generative AI as the most important consumer trend to watch, according to Mediaocean’s m"
     publishedDateTime: 2023-06-05T14:18:00Z

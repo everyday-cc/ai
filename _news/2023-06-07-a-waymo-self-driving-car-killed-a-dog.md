@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-kil
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 4
+  - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
+    excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
+    publishedDateTime: 2023-06-07T10:07:00Z
+    webUrl: "https://www.thenewsmarket.com/news/self-driving-cars-are-not-yet-on-our-roads--but-assisted-driving-systems-are-already-supporting-driv/s/4f416199-ae4e-438f-bbb6-7418798e6e40"
+    type: article
+    provider:
+      name: thenewsmarket
+      domain: thenewsmarket.com
+    quality: 1
+    images:
+      - url: "https://preview.thenewsmarket.com/Previews/NCAP/StillAssets/960x540/644091_v3.jpg"
+        width: 1168
+        height: 657
+        isCached: true
 
 secured: "slIrICQGp43Lr8yaMsh6F549ff6tv7B6N8tH1MgJOycnCztU/MHRFctISkqkSwb1dILWpKO/0WzXuvTM3xGx7Q/wyQ3dso1ZrIP1YB8gvjeeBOPelGZOQYefP7+g8XK2lZOJ4ZYG12CeEfsh2n1u6CTDQMGLKf0d4kbCA4cxW/bFxmST4MoRCW1PtxQXgjs/ZzuTWPW7SDCaAzvJMQRNa78D9MXV+DduOOSsw4mnGibFnr9wvo+ye01o0uSToplpq80pJ/RZ09MBU09diu2ABwfcatFRsT8glBBlvGlVO3qR3VSZ1wjHp+5hs2xFDPuua2VhB/kqM00lVWWNAtp8j3XMAmdIjRZrlEn2hG+swInQkA3PJ4LkHKR1Jsh+o7rJsmWmCGGNAozYneEcqRz6U8PePsfxR7FAvP8uJpTwZNUnz6KgA118Fd9//eRQ54lHmc6gV1Mr43NYdPRroLYgtlp0ASRhML/kNcpom/eZErTtunEkO8FFGWAY5kLsGua7ZVkqoeZ073oRpFjPf2D+9g==;tFuPeKc3A6LfK1gJ7m194Q=="
 ---

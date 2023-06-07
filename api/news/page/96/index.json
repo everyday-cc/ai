@@ -2,6 +2,83 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2023-04-03-life-of-an-architect-podcast-ep-122-architecture-and-artificial-intelligence.md",
+      "title": "Life of an Architect Podcast Ep. 122: Architecture and Artificial Intelligence",
+      "excerpt": "Even though artificial intelligence can conceptually trace its roots back to the 1950s, the reality is AI and machine learning went mainstream not too long ago. As recently as November 2022, anyone with a computer and Internet access can dip their toes in the AI waters for not much more than the time needed to understand how to make it work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bdcnetwork.com/life-architect-podcast-ep-122-architecture-and-artificial-intelligence",
+      "originalUrl": "https://www.bdcnetwork.com/life-architect-podcast-ep-122-architecture-and-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bdcnetwork.com",
+        "domain": "bdcnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-03-whats-the-promise-of-large-language-models-for-life-insurance.md",
+      "title": "What's the promise of large language models for life insurance?",
+      "excerpt": "Drive'n Save was built in partnership with Allstate's telematics subsidiary. IntraFi, R&T Deposit Solutions and other companies help banks capture and insure the entirety of their customers' balances — a cogent need in the aftermath of SVB.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dig-in.com/opinion/whats-the-promise-of-large-language-models-for-life-insurance",
+      "originalUrl": "https://www.dig-in.com/opinion/whats-the-promise-of-large-language-models-for-life-insurance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/ce203be/2147483647/strip/true/crop/3500x1838+0+218/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F00%2Fa6%2Fa6921d7f45ee8da5f5511e47ec3b%2F395578340.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Insurance",
+        "domain": "dig-in.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-03-amazon-signs-ppas-with-iberdrola.md",
       "title": "Amazon signs PPAs with Iberdrola",
       "excerpt": "Amazon has signed a number of Power Purchase Agreements (PPAs) with energy company Iberdrola. Iberdrola announced last week that it and Amazon.com Inc. have signed PPAs for new wind and solar capacity in Europe,",
@@ -900,83 +977,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training.md",
-      "title": "ChatGPT neural network said it uses Moskovsky Komsomolets website for training",
-      "excerpt": "Chatbot with artificial intelligence ChatGPT said it used, among other things, the Moskovsky Komsomolets website for its training. In addition to MK, the",
-      "sourceUrl": null,
-      "webUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/",
-      "originalUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.easternherald.com/cdn-cgi/image/width=550,height=412,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2023/04/ChatGPT-neural-network-said-it-uses-Moskovsky-Komsomolets-website-for.jpg",
-          "width": 550,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/?amp=1",
-      "cdnAmpWebUrl": "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/?amp=1",
-      "publishedDateTime": "2023-04-01T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Eastern Herald",
-        "domain": "easternherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-april-1st-nzxt-gpu-ai-fans-and-other-incredible-tech-innovations.md",
-      "title": "April 1st, NZXT GPU, AI Fans and Other Incredible Tech Innovations",
-      "excerpt": "This GPU sports a white minimalist squared design ... XPG this year announced that they would be taking a step into AI and introduced the XPG 1337GPT. XPG understands that gamers can have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eteknix.com/april-1st-nzxt-gpu-ai-fans-and-other-incredible-tech-innovations/",
-      "originalUrl": "https://www.eteknix.com/april-1st-nzxt-gpu-ai-fans-and-other-incredible-tech-innovations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-01T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTeknix",
-        "domain": "eteknix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Australia takes steps to tackle the dangers posed by artificial intelligence"
+    excerpt: "Regarding the potential dangers posed by artificial intelligence the Australian government has launched an examination into AI technology"
+    publishedDateTime: 2023-06-07T10:46:00Z
+    webUrl: "https://www.openaccessgovernment.org/australia-takes-steps-to-tackle-the-dangers-posed-by-artificial-intelligence/160480/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 34
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/06/iStock-1470520357-scaled.jpg"
+        width: 2000
+        height: 1209
+        isCached: true
 
 secured: "5Z7FCeAytU3ug/uES2gdSUXSPBCCCWbNWmwzMlGC/uFZOyNL4WtZ3XuvJ1+ezdXQ3XwQ5lhUm3Ha9oQ9pDpneSm0idUgNgNp3FqWKxtPErSImMKwZfpes9vp+FoKw10FUG7NBlUq7hGI1viNA1TSGdtZrE7pAcXGXWUBgSwsQHKqEj9OP/I532SBNaj5c+iJ3U42X9I8Y9ooWA618Hp0oLO8kk80tB7dBy+iLD8duD7rnPFcjAFMR55L5txw0Bkex3Upayw2xY1CgGBF5B0tzq9U2jNz31QariyirHj7nS1PNWv9SZlSkifCNhsAb+90ef1y/xaHT7mWSjr8+0Fw2JRB+0n9W1+9iLv/qnvxT/YNlOMUlaL4Km8UmjWKfqtHnNByWoMw62vv0eHWe5ZPVNq9rTPYrjSX+F075omS5VqtjFSIrAa92Ggxvkp3gtySDXB9EDju7iGmpr/RHj1XdjFNPQ5HS13cU48vqjEfZYdzWCxsUWPOzCslt0K9Rnox/d89ngSw7jSnvULxRqCfAw==;nzlbHAM/NqsVsHYu6UJ/Aw=="
 ---

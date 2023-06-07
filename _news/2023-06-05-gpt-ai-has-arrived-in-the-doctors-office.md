@@ -60,6 +60,22 @@ related:
         width: 1125
         height: 900
         isCached: true
+  - title: "Four Ways For Leaders To Embrace The Future Of AI"
+    excerpt: "As for leaders, the more you learn, the better you can assess how AI can positively impact your business—and how others may use it to disrupt that business."
+    publishedDateTime: 2023-06-07T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f3a9899c38d7ddb595934/0x0.jpg?format=jpg&crop=1205,678,x0,y62,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cities and Counties Draft Guidelines for Workplace AI"
     excerpt: "Does your local government need a stance on generative AI? Boston encourages staff’s “responsible experimentation,” Seattle’s interim policy outlines cautions, and King County considers what responsible generative AI use might be."
     publishedDateTime: 2023-06-04T05:17:00Z

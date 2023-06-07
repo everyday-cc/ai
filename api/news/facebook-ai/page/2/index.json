@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-05-18-big-name-investors-are-going-all-in-on-ai.md",
-      "title": "Big-name investors are going all-in on AI",
-      "excerpt": "The Tiger Global founder told investors to buy the so-called FAANG stocks – shorthand for Facebook parent Meta ... It's not just individual investors who are caught up in the AI fanfare. In a research note last month, Morgan Stanley said that 2023 ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62e3b3a0e1179200195ee85b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp",
-      "publishedDateTime": "2023-05-18T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-17-2-ai-stocks-to-buy-before-they-skyrocket.md",
       "title": "2 AI Stocks to Buy Before They Skyrocket",
       "excerpt": "Known for its social media businesses, Facebook and Instagram, Meta Platforms is another tech giant that could be greatly influenced by the AI megatrend. While management has spent recent years ...",
@@ -1453,6 +1401,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-66-of-americans-would-not-want-ai-to-help-make-hiring-decisions.md",
+      "title": "66% of Americans would not want AI to help make hiring decisions",
+      "excerpt": "A recent Pew Research study about using artificial intelligence when hiring and evaluating workers reveals mixed opinions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
+      "originalUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/future-procurement-data-first.jpeg",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/hiring-with-ai-pew/amp/",
+      "publishedDateTime": "2023-04-24T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

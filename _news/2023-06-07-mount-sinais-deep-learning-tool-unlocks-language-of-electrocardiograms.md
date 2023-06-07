@@ -41,22 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Researchers use new deep learning approach to enable analysis of electrocardiograms as language"
-    excerpt: "Mount Sinai researchers have developed an innovative artificial intelligence (AI) model for electrocardiogram (ECG) analysis that allows for the interpretation of ECGs as language. This approach can enhance the accuracy and effectiveness of ECG-related diagnoses,"
-    publishedDateTime: 2023-06-06T09:03:00Z
-    webUrl: "https://medicalxpress.com/news/2023-06-deep-approach-enable-analysis-electrocardiograms.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-06-deep-approach-enable-analysis-electrocardiograms.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-deep-approach-enable-analysis-electrocardiograms.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 47
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/mount-sinai-researcher-1.jpg"
-        width: 2880
-        height: 3291
-        isCached: true
 
 secured: "DX9ufD4+MCw5A8olyLeyGok4RK8kIvqN5gzN3NJ68ib8kGGxTcFi06vEP3Vqyn0XxPhPeXDf7xFw92JuP6ePdiazUsz/EhP2tw98y14V9AkxzBfL4u6xaQRDo/kF9wDZTgzqWylaiJEjmWYv+o+Cv+WaLhsdHcxXLOy5RF4YiMfxnRdXBzYYbD1K6MKAdJ10dZhmjPys/b6cBIvtdcsNAW50bCROtzn2Oyw7yn1K8XQ+MTp9I5NCMLDuLVczksZmrRid3bHPmJgrUvwHFdd9B1z6RBL9/uay0PBStyeOu0ZE5iJH1gMrbQXcq39ULvcur1KwicfHSTq0InW0KYglj51iS+0XAcIX0aihWAMOpk4=;CvgUnTFj3ZxAFFKw7BKveA=="
 ---

@@ -2,6 +2,101 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-04-17-asda-will-start-delivering-food-to-customers-across-london-using-driverless-cars.md",
+      "title": "Asda will start delivering food to customers across London using driverless cars",
+      "excerpt": "In partnership with Wayve, a developer of artificial intelligence for driverless vehicles, the year-long trial will enable Asda to autonomously deliver orders to a catchment area of more than ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
+      "originalUrl": "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/04/17/15/69917209-0-image-a-2_1681740960641.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
+      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
+      "publishedDateTime": "2023-04-17T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This is Money",
+        "domain": "thisismoney.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service.md",
+      "title": "Microsoft and Epic expand strategic collaboration with integration of Azure OpenAI Service",
+      "excerpt": "April 17, 2023 /PRNewswire/ -- Microsoft Corp. and Epic on Monday announced they are expanding their long-standing strategic collaboration to develop and integrate generative AI into healthcare by combining the scale and power of Azure OpenAI Service 1 ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service-1032236844",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-and-epic-expand-strategic-collaboration-with-integration-of-azure-openai-service-1032236844",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1795836/Epic_NEW_Logo.jpg",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-nvidia-stock-excellent-ai-growth-play.md",
       "title": "Nvidia Stock: Excellent AI Growth Play",
       "excerpt": "For those following market trends, it has been impossible to ignore the buzz around generative AI (artificial intelligence) in recent months.",
@@ -1085,110 +1180,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market Growth and Forecast till 2031",
-      "excerpt": "The latest market research report on the Global \"Healthcare Artificial Intelligence (AI) Market\" is segmented by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031-2023-04-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031-2023-04-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 268,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out.md",
-      "title": "The AI Dilemma For Entrepreneurs: Pivot Now Or Wait It Out?",
-      "excerpt": "In November 2022 Chat GPT made artificial intelligence widely accessible to entrepreneurs, arguably for the first time. What followed was a wave of business owners figuring out how they could use AI to save time, ramp up production, make more money and stand out in their field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6410537ca114703a117aa269/0x0.jpg?format=jpg&crop=2217,1247,x0,y214,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/amp/",
-      "publishedDateTime": "2023-04-16T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

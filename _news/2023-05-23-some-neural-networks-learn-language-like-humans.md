@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Some Neural Networks Learn Language Like Humans"
-excerpt: "Even though artificial neural networks (ANNs) are built from elaborate webs of artificial neurons, ostensibly mimicking the way our brains process information, we don’t know if they process input in similar ways."
+excerpt: "We preselected all newsletters you had before unsubscribing."
 publishedDateTime: 2023-05-23T06:05:00Z
-originalUrl: "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html"
-webUrl: "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html"
+originalUrl: "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html#!"
+webUrl: "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html#!"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "6PQHW/AIb7xKnArJbsP5Ak0/sOKZTHW1MzbCYIG0U4Psa/7Q5shOOH6H3WFvGsjGRfb63PZojxnv8pXI7yJxNyvVAUYvM2OLieNzySindJMiVTtU5d7UbdIVgQb3UnyRJOtwl1i9RAsTX5+5i5WrN61ueZu7RTNw5FIrLLf2oCHWcMHA/etFryE7Gp04vN5g6OwsfShrCUa7DPJZUA5GHhNv/ewDqwpapTN4GV1kL3iPe8hLYYRtxB+FhreFFs0PCv2/IVoLzwvO6HhoVsN0TdOn8B9hrDn33L4hGQyIMM7oM4ecsJzquN0y9YEYru+N+2w0yeE2ZcHkPDilLI6mhrXWxUJ+V4JE7aIq1jnoyuA=;V5A7REqAFaePOSVuTzaZlQ=="
+secured: "RAyB0Tqh+WfWY4s/22f/oRyN3psBEEoFlUl8N7euQruGM5AeLCDgc53gOkgKaxZ1Mpt2GfitVFex3k+43MH6IYg8Nf8QE6yEIoLDnnuW0D2Qs2KbfZbpkQ24f5R+Ghk6UJxAp4i5FEx1lrMzOnue3liS6RXLWjTZUZnN/iMWQrJANe8PSQORBoa6SRpxYgw/MglJ5fSGbBBXfzkWe6MN4elAU5bydnSr//1/nvxuH+Poz+l8Tn1GGQvCadyDHbOY8lcJTFogSD6CELXPOtrOZtxsRjJQUeSEy76D7hQWxIvsf8k+d5A8Il7o614TRzUUmowe8hsru32D3EDMpePpHWJCIsbfN8h030tSKz8LeKg=;pLEx5EZJ6T9iQaWEyjNlUQ=="
 ---
 

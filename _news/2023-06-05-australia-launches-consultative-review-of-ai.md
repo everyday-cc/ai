@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/australia-launches-consulta
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australia-launches-consultative-review-of-artificial-intelligence/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Australia takes steps to tackle the dangers posed by artificial intelligence"
+    excerpt: "Regarding the potential dangers posed by artificial intelligence the Australian government has launched an examination into AI technology"
+    publishedDateTime: 2023-06-07T10:46:00Z
+    webUrl: "https://www.openaccessgovernment.org/australia-takes-steps-to-tackle-the-dangers-posed-by-artificial-intelligence/160480/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 34
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/06/iStock-1470520357-scaled.jpg"
+        width: 2000
+        height: 1209
+        isCached: true
   - title: "Australian Institute of Architects supports the Voice to Parliament"
     excerpt: "The Australian Institute of Architects has announced its support for the Indigenous Voice to Parliament in the upcoming referendum."
     publishedDateTime: 2023-06-06T07:08:00Z

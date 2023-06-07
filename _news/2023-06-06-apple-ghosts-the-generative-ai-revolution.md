@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-06T10:59:00Z
 originalUrl: "https://www.wired.com/story/apple-ghosts-the-generative-ai-revolution/"
 webUrl: "https://www.wired.com/story/apple-ghosts-the-generative-ai-revolution/"
 type: article
-quality: 49
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,13 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://media.wired.com/photos/647e7aef82d37ced55dff567/191:100/w_1280,c_limit/Apple-Ghosts-AI-At-WWDC-2023-Business-1258464875.jpg"
+    width: 1280
+    height: 670
+    isCached: true
 
 related:
   - title: "Where To Start With Generative AI & The Customer Experience"
@@ -83,6 +90,20 @@ related:
         width: 1200
         height: 579
         isCached: true
+  - title: "Typeface expands customized generative AI approach with Google Cloud partnership"
+    excerpt: "A new partnership will directly integrate Typeface with Google Workspace to support specific enterprise generative AI use cases."
+    publishedDateTime: 2023-06-07T10:00:00Z
+    webUrl: "https://venturebeat.com/ai/typeface-expands-customized-generative-ai-approach-with-google-cloud-partnership/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/analytics-g6fbbe52da_1920-e1633121636347.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "These Enterprise Generative AI Use Cases are Emerging"
     excerpt: "Generative AI models are continuously bringing new business opportunities. Generative AI use cases are emerging in enterprises for bringing transformations."
     publishedDateTime: 2023-06-05T14:45:00Z
@@ -117,6 +138,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "How generative AI could change the life sciences landscape - an interview with Indegene"
+    excerpt: "With generative AI continuing to create a buzz, OSP took the opportunity to speak to Indegene, a digital-first, life sciences commercialization company that helps biopharmaceutical, emerging biotech and medical device companies develop products."
+    publishedDateTime: 2023-06-07T11:48:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2023/06/07/how-generative-ai-could-change-the-life-sciences-landscape"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 31
+    images:
+      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/markets-regulations/how-generative-ai-could-change-the-life-sciences-landscape/16476737-1-eng-GB/How-generative-AI-could-change-the-life-sciences-landscape.jpg"
+        width: 1500
+        height: 1061
+        isCached: true
   - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
     excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
     publishedDateTime: 2023-06-06T07:19:00Z
@@ -150,6 +185,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "dZx2TyVsVe1JBW4C4bH9KlFuoW6fFdemojfg99MPA+SG8Lora9o6hmJwWMrjkBOq+/GSL9Dka2vHWONswxbKUjQrQSr4DMn5ddSfViLkMTJJ9BlX8d3xgkq3HMvVgy5ID4xTKJDZJZXHI1bczn6yQU4vHDgb7VU511E41uv0X1QhHHn26wpTNUFRAU8PCfahDdID66Xw3aN+LHpU7PrLxM7+y1ryJz5kU0B2pfXJS+VyUfApsIBgiBr6mtLJvm2GnC2ttSVFUf/Q1/9BOtuB67JybWYJdVLVURV+f7wBgQy4Zc0Hux1rbNMfvWvuUFBv5yZIizQRlgzEnG426kgR8pNtvXVgGUGoWr9BWZhHHobP+PhrV0+rBhLXke7M9EazPjdb65l4pMPzYSde3sxp7XoDpHP6X5cpAC68eCE4WtesVxDLs64aLTNQS1BeG4Y+HoHyVHEtneHIBwhGdG39XEYgA+JV5TMjHLMPoiiyZU1130mADBzLw1/pAaYNdC1mBaTicARy+AA0DqzCpnkS6Q==;3HB/4gj+hUQSVWy8r+2fDQ=="
+secured: "UqCgnGNM9RpbZMXc1/yXvVLLfhtRDaI5Fb7YELyhn5lHXdHVvcDKZl87WcOl4JNZ9T7I2CIRl3+oSDM2D6JA00CFt+wgew6wg8xLk4vqxCB+F8WqAqIImHpAeX9Wx2ccB360Cydzaxngjwd6JO61aV4ZWSvblDkqlDOps8DCgUPzDrCGDvpxvppcObY+Q/8DUlASQ8qarknSfQsXbxJZSDLRlKttGaJxlSUwhxoBhwP5QRdhOvpr/jcfk4+VzntlRVEHYykVewtGk7mceVH5tYhibfazVXUGkpjf40kRfPvdQj8JjuGKi9V92oARGfAxSD14dHyjt529T/9GCS6rw3EWKKrWNBGmFhlmmFZtrPM=;fKH9fgwCZ9Ar6LNk3fTNPA=="
 ---
 

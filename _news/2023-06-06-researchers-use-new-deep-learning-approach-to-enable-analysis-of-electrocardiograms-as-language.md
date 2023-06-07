@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mount Sinai Researchers Use New Deep Learning Approach to Enable Analysis of Electrocardiograms as Language"
-    excerpt: "Mount Sinai researchers have developed an innovative artificial intelligence (AI) model for electrocardiogram (ECG) analysis that allows for the interpretation of ECGs as language. This approach can e"
-    publishedDateTime: 2023-06-06T19:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32746157/mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32746157"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32746157"
+  - title: "Can we achieve fairness in machine learning? UNC researchers have new approach"
+    excerpt: "From facial recognition software to employment and interview pre-screening, algorithms have been found to reinforce systemic biases, exacerbating existing asymmetries and inequities rather than reducing them."
+    publishedDateTime: 2023-06-07T10:37:00Z
+    webUrl: "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/"
+    ampWebUrl: "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/?amp=1"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 70
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Mount Sinai's deep learning tool unlocks 'language' of electrocardiograms"
-    excerpt: "Mount Sinai researchers have developed HeartBEiT, a deep learning model that can diagnose heart attacks better than existing methods for ECG analysis."
-    publishedDateTime: 2023-06-06T21:01:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/mount-sinais-deep-learning-tool-unlocks-language-of-electrocardiograms.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 53
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://kenaninstitute.unc.edu/wp-content/uploads/2018/01/eric_ghysels-768x768.jpg"
+        width: 768
+        height: 768
         isCached: true
 
 secured: "h8eMqu9Cc/HX5pXBwtdaVNl9Jd+J26z6dLiLEA5RrVoo6r69rTizBDYmyo3iJD86CHo1rMZjFRLIwBDTPwe8WO1shnPkLApDeG+Yzw9VtZje8S5LW9fiUKWXlt1fSSCxqXzwvbnbqkeAkXI9f+MAUsv4FYyRfqlfsf2mbSrE5PhtIuxkFnddN4dlRV7Bjrvax9bvOjGoK8CtQsEjQ9mdr4jS7UQZcvjiuAF5PrhL9+NUqX89ldheWLVvMyXGxEeGTO1pSOglKzumYJclrqFyUjFglN+gn0Dud6FWxwiOjrsXxcksQ+Oxb9gytNTpCR+/d+xMLWDP2MF7chn/YCP21kGSVpuxk5aKiyCYyeXQwHbTxzGRUjeEApKQgf/TbXJXBWGvQbrXkf5BpPbJ5Z9g9eZ9WQN8EVD9Y2iTXnkuDuwmrTHkohye+xdOXAWnoOsjSzjbvzF10FAP+OVTVbBBRRNddTkkHZ6gsSbUyIWhvzp/9RVl/fiW4/SrLl32M3nqUb4VMqHYjPCrTxubMlEnLw==;XRqG7E30pNGOOuRofz2HqA=="

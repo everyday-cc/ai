@@ -518,6 +518,40 @@
       ]
     },
     {
+      "path": "_news/2023-05-30-thematics-leading-ai-driven-platform-incorporates-generative-ai-embracing-large-language-models-for-customer-feedback-analysis.md",
+      "title": "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis",
+      "excerpt": "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
+      "originalUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-five-next-level-marketing-uses-for-ai.md",
       "title": "Five Next-Level Marketing Uses For AI",
       "excerpt": "Tom Wozniak heads up Marketing and Communications as the COO for OPTIZMO Technologies.",
@@ -1392,50 +1426,6 @@
         "AI",
         "AI in Healthcare",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-multan-airport-4th-in-country-to-get-facial-recognition-system.md",
-      "title": "Multan airport 4th in country to get Facial Recognition System",
-      "excerpt": "The Multan International Airport has become the fourth in the country to have a functional Facial Recognition System, a Pakistan Civil Aviation Authority spokesperson confirmed Friday. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
-      "originalUrl": "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-05-19/1071894_065954_updates.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
-      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
-      "publishedDateTime": "2023-05-19T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News International",
-        "domain": "thenews.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

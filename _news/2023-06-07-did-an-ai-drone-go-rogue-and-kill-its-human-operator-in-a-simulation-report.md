@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jpost.com/business-and-innovation/tech-and-start-ups/artic
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-745463/amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: The Jerusalem Post Blogs
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Terminator-Like Skynet Vision Seems Reality As AI Drone Kills Its Operator"
-    excerpt: "Conversations about AI and related technologies cannot be heard if you are not going to talk about ethics and AI.”"
-    publishedDateTime: 2023-06-02T17:56:00Z
-    webUrl: "https://insidebitcoins.com/news/terminator-like-skynet-vision-seems-reality-as-ai-drone-kills-its-operator"
-    type: article
-    provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 17
   - title: "An Air Force Colonel Said a Simulated AI Drone Killed Its Operator, But the Service Is Denying It"
     excerpt: "The Air Force has denied a widespread account that one of its killer drones turned on its masters and killed them in a simulation. The story, told at a defense conference last month, immediately raised concerns that artificial intelligence could interpret orders in unanticipated—or in this case,"
     publishedDateTime: 2023-06-05T19:13:00Z

@@ -2,6 +2,110 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-04-17-healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market Growth and Forecast till 2031",
+      "excerpt": "The latest market research report on the Global \"Healthcare Artificial Intelligence (AI) Market\" is segmented by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-growth-and-forecast-till-2031-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 268,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out.md",
+      "title": "The AI Dilemma For Entrepreneurs: Pivot Now Or Wait It Out?",
+      "excerpt": "In November 2022 Chat GPT made artificial intelligence widely accessible to entrepreneurs, arguably for the first time. What followed was a wave of business owners figuring out how they could use AI to save time, ramp up production, make more money and stand out in their field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6410537ca114703a117aa269/0x0.jpg?format=jpg&crop=2217,1247,x0,y214,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/04/17/the-ai-dilemma-for-entrepreneurs-pivot-now-or-wait-it-out/amp/",
+      "publishedDateTime": "2023-04-16T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-chatgpt-and-generative-ai-are-booming-but-the-costs-can-be-extraordinary.md",
       "title": "ChatGPT and generative AI are booming, but the costs can be extraordinary",
       "excerpt": "AI Dungeon's text-generation software was powered ... It took about 1 million GPU hours to train. With dedicated prices from AWS, that would cost over $2.4 million. And at 65 billion parameters ...",
@@ -1060,91 +1164,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-mit-physicist-max-tegmark-calls-for-a-halt-on-ai-development.md",
-      "title": "MIT physicist Max Tegmark calls for a halt on AI development",
-      "excerpt": "Physicist and MIT professor Max Tegmark tells 'Unfiltered' host Dan Bongino that we should be building technology we can 'trust and understand.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6325184853112",
-      "originalUrl": "https://www.foxnews.com/video/6325184853112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4b5d133-0cef-4983-92c5-91ed27dd6887/8092b1a6-c899-4a2b-a195-1aa7249216e9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow.md",
-      "title": "Baidu Apollo Releases Major Product Updates to Help Manufacturers Build Smarter Cars for Tomorrow",
-      "excerpt": "Baidu Apollo City Driving Max is upgraded with \"lightweight HD map\", which is 80% \"lighter\" compared to traditional HD maps. Baidu's Apollo Highway Driving Pro will be deployed on Black Sesame Semiconductor's Huashan II A1000 chip computing platform and will be officially released in Q3 this year.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/16/9795077.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/16/9795077.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

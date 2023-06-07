@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-02-yc-backed-dumme-raises-34m-for-its-ai-video-editor-that-turns-long-form-youtube-videos-into-shorts.md",
+      "title": "YC-backed Dumme raises $3.4M for its AI video editor that turns long-form YouTube videos into Shorts",
+      "excerpt": "Dumme, a startup putting AI to practical use in video editing, is already generating demand before opening up to the public. The Y Combinator-backed company has hundreds of video creators testing its product,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/",
+      "originalUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/IMG_0686.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/amp/",
+      "publishedDateTime": "2023-06-02T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-air-force-denies-running-simulation-where-ai-drone-killed-its-operator.md",
       "title": "Air Force denies running simulation where AI drone “killed” its operator",
       "excerpt": "Over the past 24 hours, several news outlets reported a now-retracted story claiming that the US Air Force had run a simulation in which an AI-controlled drone \"went rogue\" and \"killed the operator because that person was keeping it from accomplishing its objective.",
@@ -208,6 +259,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-02-how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence.md",
+      "title": "How to thrive in a new era of AI with trust and confidence",
+      "excerpt": "AI is already helping organizations achieve great things, but it's time to take advantage of its full business potential.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images2.markets.businessinsider.com/64777c4a085acb0018ff05b5?format=jpeg",
+          "width": 702,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots.md",
       "title": "7 ways you didn't know you can use Bing Chat and other AI chatbots",
       "excerpt": "You can also use Bing Chat to generate unique drinks from fun prompts. For example, at a Bing press event in NYC, the company had a smoothie bar that used Bing Chat to make smoothies according to your favorite TV character.",
@@ -394,58 +497,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence.md",
-      "title": "How to thrive in a new era of AI with trust and confidence",
-      "excerpt": "AI is already helping organizations achieve great things, but it's time to take advantage of its full business potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
-      "originalUrl": "https://www.businessinsider.com/sc/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64777bfedf2567001837dccc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     },
@@ -1170,58 +1221,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-humanoid-robot-imagines-nightmare-ai-scenario.md",
-      "title": "Humanoid robot 'imagines' nightmare AI scenario",
-      "excerpt": "A UK-based company has made a humanoid robot that can have conversations almost as natural as human beings and make facial expressions. Almond Li has more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOV661501062023RP1",
-      "originalUrl": "https://www.reuters.com/video/watch/idOV661501062023RP1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20230601&i=OV661501062023RP1&r=OV661501062023RP1&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

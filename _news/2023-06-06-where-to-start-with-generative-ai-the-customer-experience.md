@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Apple Ghosts the Generative AI Revolution"
+    excerpt: "Apple unveiled the Vision Pro headset and a number of AI-powered features yesterday, but largely ignored generative AI applications embraced by Google and Microsoft."
+    publishedDateTime: 2023-06-06T10:59:00Z
+    webUrl: "https://www.wired.com/story/apple-ghosts-the-generative-ai-revolution/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 71
+    images:
+      - url: "https://media.wired.com/photos/647e7aef82d37ced55dff567/191:100/w_1280,c_limit/Apple-Ghosts-AI-At-WWDC-2023-Business-1258464875.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Generative AI Will Elevate Humans Into Higher-Value Jobs"
     excerpt: "Language-generating artificial-intelligence tools, such as ChatGPT, will make work more efficient by cutting repetitive tasks and freeing up humans for new, higher-value jobs, according to European technology firms."
     publishedDateTime: 2023-06-05T13:06:00Z
@@ -74,6 +88,20 @@ related:
         width: 1200
         height: 579
         isCached: true
+  - title: "Typeface expands customized generative AI approach with Google Cloud partnership"
+    excerpt: "A new partnership will directly integrate Typeface with Google Workspace to support specific enterprise generative AI use cases."
+    publishedDateTime: 2023-06-07T10:00:00Z
+    webUrl: "https://venturebeat.com/ai/typeface-expands-customized-generative-ai-approach-with-google-cloud-partnership/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/analytics-g6fbbe52da_1920-e1633121636347.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "These Enterprise Generative AI Use Cases are Emerging"
     excerpt: "Generative AI models are continuously bringing new business opportunities. Generative AI use cases are emerging in enterprises for bringing transformations."
     publishedDateTime: 2023-06-05T14:45:00Z
@@ -90,15 +118,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Apple Ghosts the Generative AI Revolution"
-    excerpt: "Apple unveiled the Vision Pro headset and a number of AI-powered features yesterday, but largely ignored generative AI applications embraced by Google and Microsoft."
-    publishedDateTime: 2023-06-06T10:59:00Z
-    webUrl: "https://www.wired.com/story/apple-ghosts-the-generative-ai-revolution/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
   - title: "Google’s AI-powered search experience is way too slow"
     excerpt: "The worst thing about Google’s new AI-powered search experience is how long you have to wait. Can you think of the last time you waited for a Google Search result? For me, searches are generally instant."
     publishedDateTime: 2023-06-04T12:00:00Z
@@ -117,6 +136,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "How generative AI could change the life sciences landscape - an interview with Indegene"
+    excerpt: "With generative AI continuing to create a buzz, OSP took the opportunity to speak to Indegene, a digital-first, life sciences commercialization company that helps biopharmaceutical, emerging biotech and medical device companies develop products."
+    publishedDateTime: 2023-06-07T11:48:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2023/06/07/how-generative-ai-could-change-the-life-sciences-landscape"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 31
+    images:
+      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/markets-regulations/how-generative-ai-could-change-the-life-sciences-landscape/16476737-1-eng-GB/How-generative-AI-could-change-the-life-sciences-landscape.jpg"
+        width: 1500
+        height: 1061
+        isCached: true
   - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
     excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
     publishedDateTime: 2023-06-06T07:19:00Z

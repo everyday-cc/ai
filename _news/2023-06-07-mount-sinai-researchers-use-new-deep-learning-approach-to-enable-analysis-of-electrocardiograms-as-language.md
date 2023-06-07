@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32746157"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32746157"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Benzinga.com
@@ -40,22 +40,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Researchers use new deep learning approach to enable analysis of electrocardiograms as language"
-    excerpt: "Mount Sinai researchers have developed an innovative artificial intelligence (AI) model for electrocardiogram (ECG) analysis that allows for the interpretation of ECGs as language. This approach can enhance the accuracy and effectiveness of ECG-related diagnoses,"
-    publishedDateTime: 2023-06-06T09:03:00Z
-    webUrl: "https://medicalxpress.com/news/2023-06-deep-approach-enable-analysis-electrocardiograms.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-06-deep-approach-enable-analysis-electrocardiograms.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-deep-approach-enable-analysis-electrocardiograms.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 47
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/mount-sinai-researcher-1.jpg"
-        width: 2880
-        height: 3291
         isCached: true
 
 secured: "yTGg1rLpv5qGRkWJUM6IhqRpj8Izo9CsvbKM9z0jghYT9Vv5VqjxIZTVMNsytuwUcAlmt6Ilhb3d/dE0luP4XOCl8rNjeqv/H5AqMGkK7TdkStvTLRrH61FbYE0mgqGsevX0OzLGdUpkBdbRMA5FHOEZ1HZgB9IcG3slyYW1WMZn2EPtgIcr8u9kADjv9ohtb14U74FqVXBYD5Qt9uPLBJT2/ybjw6GGQsPPVLUXd32vuTvzgd+WiN6/RWvvRb0EaePoS6tkBmQiozxGBpGwOyXSmCoPio+awHASm6dtyjHHYnlZmcJNMw2OKC6h9f/VFTnJ5qbuimTgWbggNua6Xy6VmZ5mY4EdfUTCCfzkAp8=;YP4CQ9SUkjxa/9ep43ZogQ=="

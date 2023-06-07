@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-05-american-pie-icon-don-mclean-on-ai-itll-be-better-than-what-passes-itself-off-as-music-today.md",
+      "title": "'American Pie' icon Don McLean on AI: 'It'll be better than what passes itself off as music today'",
+      "excerpt": "Don McLean, musician, songwriter and creator of \"American Pie\" and other iconic songs, spoke at length to Fox News Digital about artificial intelligence and his views of the new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music",
+      "originalUrl": "https://www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music.amp",
+      "publishedDateTime": "2023-06-04T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-kamala-harris-cant-be-trusted-with-ai-regulation.md",
       "title": "Kamala Harris can't be trusted with AI regulation",
       "excerpt": "Kamala Harris can't be trusted with AI regulation. Rules for rapidly growing area of technology must be handled by a panel of experts, not the vice president.",
@@ -812,7 +863,7 @@
       "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1162,57 +1213,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-yc-backed-dumme-raises-34m-for-its-ai-video-editor-that-turns-long-form-youtube-videos-into-shorts.md",
-      "title": "YC-backed Dumme raises $3.4M for its AI video editor that turns long-form YouTube videos into Shorts",
-      "excerpt": "Dumme, a startup putting AI to practical use in video editing, is already generating demand before opening up to the public. The Y Combinator-backed company has hundreds of video creators testing its product,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/",
-      "originalUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/IMG_0686.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/amp/",
-      "publishedDateTime": "2023-06-02T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

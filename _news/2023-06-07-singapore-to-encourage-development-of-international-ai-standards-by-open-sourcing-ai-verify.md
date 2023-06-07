@@ -170,15 +170,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "The hardest part of working with generative AI in healthcare"
-    excerpt: "UC San Diego Health is piloting generative artificial intelligence, built by Epic and Microsoft, to help physicians respond to patients' questions. Challenges i"
-    publishedDateTime: 2023-06-02T18:28:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/the-hardest-part-of-working-with-generative-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
   - title: "Google Cloud Collaborates with Mayo Clinic to Transform Healthcare with Generative AI"
     excerpt: "Google Cloud today announced a collaboration with Mayo Clinic to transform healthcare with generative AI, starting with Enterprise Search in Generative AI App Builder (Gen App Builder ), to improve the efficiency of clinical workflows,"
     publishedDateTime: 2023-06-07T09:12:00Z

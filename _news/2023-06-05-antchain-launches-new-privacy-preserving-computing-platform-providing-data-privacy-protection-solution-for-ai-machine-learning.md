@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The rise of digital marketing: Assessing the impact of AI and machine learning on advertising practices"
-    excerpt: "The rapid progress in artificial intelligence and machine learning has provided marketers with powerful tools to effectively connect and engage with their target"
-    publishedDateTime: 2023-06-06T07:21:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/16/239002.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 55
-    images:
-      - url: "https://biz-file.com/c/2306/700581.jpg"
-        width: 700
-        height: 364
-        isCached: true
   - title: "How Generative AI-Powered Robots Are Shaking Things Up"
     excerpt: "Robots are making their way into nearly every sector of the ... Reports suggest that Musk is busy creating his own generative AI startup that would go head-to-head with OpenAI. Image by Twitter While generative AI has already taken the world by storm ..."
     publishedDateTime: 2023-06-05T15:08:00Z

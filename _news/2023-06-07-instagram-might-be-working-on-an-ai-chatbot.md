@@ -63,20 +63,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Walmart showcases robots, drones, AI chatbots during shareholder week"
-    excerpt: "A robot makes hamburgers at a Sam’s Club. Robots retrieve items for order fulfillment in Bentonville. AI chatbots help Walmart merchants. Drones make deliveries in Northwest Arkansas. Highlighting such"
-    publishedDateTime: 2023-06-02T17:55:00Z
-    webUrl: "https://talkbusiness.net/2023/06/walmart-showcases-robots-drones-ai-chatbots-during-shareholder-week/"
-    type: article
-    provider:
-      name: Talk Business
-      domain: talkbusiness.net
-    quality: 54
-    images:
-      - url: "https://talkbusiness.net/wp-content/uploads/2023/06/alphabot-machine-walmart.jpg"
-        width: 1200
-        height: 626
-        isCached: true
 
 secured: "nFMjsMDNCFvBG1NL0M4rfR9LhHSuIsR4GLLgEOaqa9EtrhKWvL8p/k6SDy5E8zdwBWSMvgFNjV1zyx3o8QgDVjNBrzfAIVAO7b9csTM/Kqh8mVcvu9/TIA3dCoo2VpUMTpE7LAQFuSkcB9X2lgDuRYz/EGUL2r/HTPu7nXfO3w884jBBXqLagQhmwlmnTY2LQv9ZoIslDmSudPcrqPa48ErwlnWvc7cxzuvMgxuZaanJGD/4leXQnvxoJT1CAHN3Y0kGTad65+yxrGU7dSUlh8GNLUwDCm3BAapuMXIEWLc0ASioZaHH+ogJCG2w1/j6JAaQrGoNk9aZdYjiL00+BHicef0VXvkCdepoys+eP6YgT/KLZp5ccqiCtC3QsOlegtwhZFFsk7sFvTwTtb0/uqjFtwkO/f8IiRRZ2pv0c/3zK1uIu/+QsJGn+8pc4rDOXZQ3TI+p+IFMQaXR+mm+Ibe/aH7niZh2qsr9RL/nGlKQuZSw/QfQnLKI/EXbJ6O+YFA7oxH4fhEjLbRD8qxgRw==;dWxhKhIYJhfVSTvADUMdcg=="
 ---

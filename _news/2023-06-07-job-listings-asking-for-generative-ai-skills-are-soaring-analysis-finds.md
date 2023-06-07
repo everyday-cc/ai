@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The rise of digital marketing: Assessing the impact of AI and machine learning on advertising practices"
-    excerpt: "The rapid progress in artificial intelligence and machine learning has provided marketers with powerful tools to effectively connect and engage with their target"
-    publishedDateTime: 2023-06-06T07:21:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/16/239002.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 55
-    images:
-      - url: "https://biz-file.com/c/2306/700581.jpg"
-        width: 700
-        height: 364
-        isCached: true
   - title: "How Generative AI-Powered Robots Are Shaking Things Up"
     excerpt: "Robots are making their way into nearly every sector of the ... Reports suggest that Musk is busy creating his own generative AI startup that would go head-to-head with OpenAI. Image by Twitter While generative AI has already taken the world by storm ..."
     publishedDateTime: 2023-06-05T15:08:00Z
@@ -128,6 +114,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "yi5xZysHL1+YRa27Q267QPHA3TI5QhOsUzGn7q1GydVLCM2bjkdyC0tLJHhNF+67tz2hzfHizs9HWURFsvRhINADssKHnNwDus/xJvElRjL99x9YrweHcuwowyr5NnxDzSXV1CM1vPHdDdVZXSpML7Jeorhxgyjbu9pSXqH2LmLkSB9UTJCmjqjTBbhlIfgz6eFHkfvPnf0K+keIL6s0o0Dtiu7mjz1GeQWBOyzUvxRir36Zngul8jiNmAVHrZHsdFxsps43JiF6bUdaV9KA1XBHF/xcqr2stTbkNLOvNYUfMEfql+mCAa5zcbsN6j8JSrlt4E0FPpwFJhHieDYsQi57B2wOJPPJe5a+AhldqCA=;vTM3/yzfCM9E8t6jsrmSuA=="
+secured: "duln9jBW1S5gdIPvonXO55yVctDt5DWXCRWEeAFk+hsDrEyUdCT0L0U3jQdwxXkxFFO0gb2RhmEs38F5KkgynO1SMes+mdhOrAOW29j+paKZ/+E/UTdpog637cHTXGWztp8x5ii5+pXALXAooTzoC6gE7Bh//CQa64iXPNh/kwJDD3doxlD7OzKyleBWgqDW9iGc8DMC2CptQ+dCS2aCzxgWu7CXr3SAyPj+o194UUnJ9vwgW2QAzfUxNFgZWNl0aJ553pSj70cN8PHLNMxGJwqz0f3pSFhCtYO+smcaZ/3xcNxkZWOpZuJrLhmQP0Z0V+BuGQhTTYaqx2JzFxg0xMkdbiVj5Os2+iG4OuPa02Lf7m30hNQh2Wpeko7DOa/lu6nSEXKNJ3TxBo0W6DoWnyf9kjrbl/8UYsc55eZLy/9coH2aMlwv5YimG2gj5rsdmajp1zVj6p9YPtm3Hgpm2I7qiHTlhLHnC8fjs1AlDTzqE/lKHMJUZI4GmTwUn7eiBUc9mYEitZ5+fg7xjJyVPQ==;bQ/zskHdkBRb/QG5vHG0rw=="
 ---
 

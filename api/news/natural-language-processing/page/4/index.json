@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-29-latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend.md",
+      "title": "Latest \"Healthcare Natural Language Processing Market\" Share 2023-2029, With New Trend",
+      "excerpt": "The Readers in the section will understand how the Healthcare Natural Language Processing market scenario changed",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/latest-healthcare-natural-language-processing-market-share-2023-2029-with-new-trend-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T18:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-chatgpt-may-have-better-bedside-manner-than-some-doctors-but-it-lacks-some-expertise.md",
       "title": "ChatGPT may have better bedside manner than some doctors, but it lacks some expertise",
       "excerpt": "ChatGPT can be a useful tool for patients who are seeking medical information and guidance, but the artificial intelligence tool can't fully replace the value of a human physician -- it says so itself.",
@@ -1392,50 +1445,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-how-modern-natural-language-processing-is-improving-healthcare.md",
-      "title": "How Modern Natural Language Processing Is Improving Healthcare",
-      "excerpt": "This is where natural language processing (NLP) can be of immense value. NLP software can read and understand unstructured clinical notes, extract data from them in a structured format ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2023/04/how-modern-natural-language-processing-is-improving-healthcare/",
-      "originalUrl": "https://medcitynews.com/2023/04/how-modern-natural-language-processing-is-improving-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2019/03/GettyImages-905433516.jpg",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

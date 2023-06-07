@@ -160,15 +160,6 @@ related:
         width: 679
         height: 432
         isCached: true
-  - title: "The hardest part of working with generative AI in healthcare"
-    excerpt: "UC San Diego Health is piloting generative artificial intelligence, built by Epic and Microsoft, to help physicians respond to patients' questions. Challenges i"
-    publishedDateTime: 2023-06-02T18:28:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/the-hardest-part-of-working-with-generative-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
   - title: "Singapore to encourage development of international AI standards by open sourcing AI Verify"
     excerpt: "With the AI Verify toolkit, companies can generate testing reports that cover different governance principles for an AI system."
     publishedDateTime: 2023-06-07T02:11:00Z

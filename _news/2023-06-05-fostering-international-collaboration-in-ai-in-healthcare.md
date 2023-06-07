@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/"
 type: article
 quality: 106
-heat: 236
+heat: 226
 published: true
 
 provider:
@@ -165,15 +165,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "The hardest part of working with generative AI in healthcare"
-    excerpt: "UC San Diego Health is piloting generative artificial intelligence, built by Epic and Microsoft, to help physicians respond to patients' questions. Challenges i"
-    publishedDateTime: 2023-06-02T18:28:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/the-hardest-part-of-working-with-generative-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
   - title: "Singapore to encourage development of international AI standards by open sourcing AI Verify"
     excerpt: "With the AI Verify toolkit, companies can generate testing reports that cover different governance principles for an AI system."
     publishedDateTime: 2023-06-07T02:11:00Z
