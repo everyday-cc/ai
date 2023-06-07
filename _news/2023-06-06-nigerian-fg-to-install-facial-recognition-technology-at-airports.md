@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://i0.wp.com/www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2023/06/Facial-Recognation-Image.jpg?resize=629%2C349&#038;ssl=1"
         width: 629
         height: 349
+        isCached: true
+  - title: "Prosecution in first N.J. arrest using controversial facial recognition technology hits snag with court ruling"
+    excerpt: "The arrest of Francisco Arteaga in late 2019 is believed to be the first in the state using the facial recognition technology."
+    publishedDateTime: 2023-06-07T19:55:00Z
+    webUrl: "https://www.nj.com/hudson/2023/06/prosecution-in-first-nj-arrest-using-controversial-facial-recognition-technology-hits-snag-with-court-ruling.html"
+    ampWebUrl: "https://www.nj.com/hudson/2023/06/prosecution-in-first-nj-arrest-using-controversial-facial-recognition-technology-hits-snag-with-court-ruling.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/hudson/2023/06/prosecution-in-first-nj-arrest-using-controversial-facial-recognition-technology-hits-snag-with-court-ruling.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 39
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5K2QXOCSZFGUPAUBGRDZANQIGY.jpg"
+        width: 1166
+        height: 706
         isCached: true
 
 secured: "kRX3jzKv/30wUfjCaNWsQtSLi8QRuGoRe9SzqXaTNGC7tGvUt9yyn2G3oURznFTYsKeDAXHQnj0IKGd8jtnkxtPLmb+ZXSV+HJ7F2YoPvmTOxC2utxBPbgi9+AnxjBAU/TCAXC0hU8HmabQGV0mvawQsmRe7IBwEnrPfj+S224jMfm9t/zLQV/BCN4h9k7MbWiKkxtr2Hxp1Mn35DTXsfld5xsfPDs4ixZagHeNvbgMVqTkoDDpfOIoUUWCwzMvmwlezsyAZejGEi+6wv4PhMlsKsoyJRiZkfYYNvhQX0/kzpSedSyjzE3WA9ShazdBTSumv4MPfwdcqpLvvbMfEz8+UgYabZlWus7fsCjnmlFs=;3kh3k3udYd1zwp8zvkusJA=="

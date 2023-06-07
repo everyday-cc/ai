@@ -25,7 +25,7 @@ related:
   - title: "How to develop artificial super-intelligence without destroying humanity"
     excerpt: "Sam Altman, the founder of the revolutionary application Chat-GPT, is touring Europe with a message: AI is changing the world and there are big risks, but also big potential rewards"
     publishedDateTime: 2023-06-07T01:01:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2023/jun/07/how-to-develop-artificial-super-intelligence-without-destroying-humanity"
+    webUrl: "https://www.theguardian.com/news/audio/2023/jun/07/how-to-develop-artificial-super-intelligence-without-destroying-humanity?ref=upstract.com"
     type: article
     provider:
       name: The Guardian

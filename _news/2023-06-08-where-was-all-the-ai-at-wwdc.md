@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI was all over Apple's WWDC. It was just running in the background"
+    excerpt: "Although generative AI did not make an appearance, AI is still behind some of the biggest new features. Here's how."
+    publishedDateTime: 2023-06-07T20:58:00Z
+    webUrl: "https://www.zdnet.com/article/ai-was-all-over-apples-wwdc-it-was-just-running-in-the-background/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-was-all-over-apples-wwdc-it-was-just-running-in-the-background/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-was-all-over-apples-wwdc-it-was-just-running-in-the-background/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/2bb1594db607650070d3b6f2134c704779c1df4b/2023/06/07/f2daeb0d-4128-4ee7-8f5a-b4558701ec5a/image-720.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The best AI features Apple announced at WWDC 2023"
     excerpt: "Apple announced a host of new software features for its popular devices and the new Apple Vision Pro headset, many of them leveraging AI."
     publishedDateTime: 2023-06-05T20:51:00Z
@@ -61,6 +77,6 @@ related:
         height: 669
         isCached: true
 
-secured: "3tcUh70IsPQLHAFsM9TFXrxkSrlf15vbRjAZC1VErRC8eJVo2kEDURmssr0gUWFbSX/NzckCfNuyYyCg8V2EFk6CGEt0Fg747QBgmV9WvvhC6vtN1qKyGoS3SaGih470AZImgjtsNZkhDqvQLxe+n2bo3TgORN2yAaV5clyYHpVUu6JocJVvdjqDlHKuA/cRCEA8wH/B3ZMqDHMeAxKYRTcI6fZuu0Yv6qzlAQMg2tykecnRxbug8uWOYE4P/ocGQTe+tFRxxhW/P1+jvEt1sbPjI076HlNNQy8qcihCz+y3+ly+3amOx79e0jy+Bmp0ULoa5piICXJuedqrtuiMdq+RaRLyc6NopwZU6BZMx30=;iqJV2C6A0FkODjtw2E5/Mg=="
+secured: "vYiYQT/W9XQnl2kr4eWQI9SQr6X1DKmkv9A5xSavB5luay2FwSdSeGEsJQGc/yKRWW0Ftqu/DEylftSdL2mY6+UtDTBDVbGZNWnQKvI3uTnNft6yJcUejcs0E5ODgMq025F9Plp6TDA7abQfHeCzcMpWaAqqx04rr2UgDTgnpnCpOiJ4Z01U8CUFdxSbX3cwjy1mYa+9Q5hEodTMpe0is+uRQsQqnUHnITAu6dW6P3eLECQJdrAxf6gy6OjkYturNq0THe+P7pqePkRnMa9+J17o8usJhb0G6I6Tx2AnKp7YTMFAC8tScPVylUXGWYlz18YGsYVwkawkbHk8SlTYZssSMPalnmr4XDzPMxZCY4XNBKw6uJEPc/2qoUFMtUPDQt0Vu6rYgMqjgsSsVPFdjORog4kepXKyq2DJT67AWCQ0gSRGcpnybeSWuTi2I4iuqkrXWxdvLOJbqLymblee01ewX6gmyJIQARHuwzt5CCYY9u9Li1JluXhRrqYVsbFWxMDnYLWtIUNANznq3yzdGg==;jy0WwEJ9sNHlLr88dUmNkw=="
 ---
 

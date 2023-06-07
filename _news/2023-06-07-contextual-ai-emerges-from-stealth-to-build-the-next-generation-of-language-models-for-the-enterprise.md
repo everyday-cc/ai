@@ -55,6 +55,15 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Genpact Teams With Google Cloud to Accelerate Artificial Intelligence Adoption for the Enterprise"
+    excerpt: "Genpact (NYSE: G), a global professional services firm focused on delivering outcomes that transform businesses today announced it is working with Google Cloud to help businesses accelerate artificial intelligence (AI) strategies,"
+    publishedDateTime: 2023-06-07T12:17:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9828204.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "zfjsfu8TTjn++mmpllelNe8ESOEAYGkougDcZAw8ZqM44cNwArFv9WkB1ncYONJwC49+XoHnbffo84QfRKjYAvyFBXFwubICWsI3VJG6jFtWDJrYb0brKtp3PkoXwdyjMPbXn5QiEjvzPdGbtshnTrI93p34g+/QiEKZAzOjTOFqWB9yiOV0K1HkDCn3/O5eUSyOks3/iglbkVLssIVK6OQHFxwGTMmSG/Cdzz67Pl8I1B8ADP3eTuFXks++0rLb/sHN+TJK4svBxdMwCK1ooyBDYVeK0Qa3iSB0kmtsxYvMm/DQKTNmN+UTisijFXvUEo3Zk+WvPOqQptFVHWBE2wJkY99EVJL4B2UaP5egsb4=;MKJ5iRxch2Npi/KctBRz0Q=="
 ---

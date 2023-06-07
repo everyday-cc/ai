@@ -41,20 +41,6 @@ related:
         width: 2880
         height: 1908
         isCached: true
-  - title: "E-scooters and Self-Driving Vehicles Inquiry"
-    excerpt: "Commons Transport Committee session on e-scooters and self-driving vehicles, with evidence from transport minister Jesse Norman and senior officials, from Wednesday 17 May."
-    publishedDateTime: 2023-06-03T01:50:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/m001n2rf"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 24
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p04bplqj.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How self driving cars are getting ready for Indian roads"
     excerpt: "Work on autonomous cars is on full throttle in India, but self-driving cars are still some time away"
     publishedDateTime: 2023-06-04T08:26:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-08-covid-sparked-a-mass-adoption-of-technology-heres-how-its-influencing-healthcare-design.md",
+      "title": "Covid Sparked A Mass Adoption Of Technology — Here’s How It’s Influencing Healthcare Design",
+      "excerpt": "Hospital design experts Christina Grimes and Ryan Hullinger explain how technology, from telehealth to avatars, are being incorporated into healthcare environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/",
+      "originalUrl": "https://www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6480e0cb711147192b595934/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/amp/",
+      "publishedDateTime": "2023-06-07T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-the-future-of-education-disruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5.md",
       "title": "The Future Of Education - Disruption Caused By AI And ChatGPT: Artificial Intelligence Series 3 Of 5",
       "excerpt": "It is crucial for educational systems to adapt quickly and integrate AI into teaching/learning. However, educational systems are slow to adapt and full of bureaucracies.",
@@ -158,49 +210,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-10-of-the-best-artificial-intelligence-courses-you-can-take-online-for-free.md",
-      "title": "10 of the best artificial intelligence courses you can take online for free",
-      "excerpt": "TL;DR: Find a wide range of free online courses on artificial intelligence at Udemy. Learn how to create engaging content, boost your productivity, and much more with the help of AI. It's too early to say whether or not artificial intelligence will end up ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/uk/deals/free-artificial-intelligence-chatgpt-courses",
-      "originalUrl": "https://mashable.com/uk/deals/free-artificial-intelligence-chatgpt-courses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/06HfKjvZCAEDPWZYxG7ISD9/hero-image.fill.size_1200x675.v1685714245.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {

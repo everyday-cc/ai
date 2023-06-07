@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/cnets-new-guidelines-for-ai-journalism-me
 webUrl: "https://www.engadget.com/cnets-new-guidelines-for-ai-journalism-met-with-union-pushback-152311269.html"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Engadget
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How We Will Use Artificial Intelligence at CNET"
+    excerpt: "CNET has built our expertise through more than 25 years of testing and assessing new technology. Our goal is to help drive conversations about how those advancements -- including AI -- can solve real-world problems,"
+    publishedDateTime: 2023-06-07T21:02:00Z
+    webUrl: "https://www.cnet.com/ai-policy/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
 
 secured: "egWPvnZ78ml0zn0zsTwatxZ4NC58YLnXwtBOIqrx12gfBUZOFQUBEnJdvoBrT/ZmGb8RZhFIbVjANM3gOJ1jASKETnj4cqNktrWycd1KCNpnBHTOoAEFrTNg2UMkwerwUCjgnetlTnhvWsRzZ/Ih1/TgonPfpwHncUAD8AdGjHCk0I70cAzzjSwTzN6p/7Klo6lVTsratgvgKT+eFpMWMzA8wkQJYKpCagn6DjS3vMdgzPLoKBIn92Z+D/HI5Wn8NKM99dVgEAZLKh/V/fVXEtw0rFp/E/+EKWU2Kna0IEBRT3pRErLpPBzsZgeUTgsNS9lQjgo/KsJy8CyGXRveNiZVRSibA9qkg1RMOlp0OSg=;bjg30laBlD3emDvBjzvhQg=="
 ---

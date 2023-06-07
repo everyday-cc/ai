@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI was all over Apple's WWDC. It was just running in the background"
+    excerpt: "Although generative AI did not make an appearance, AI is still behind some of the biggest new features. Here's how."
+    publishedDateTime: 2023-06-07T20:58:00Z
+    webUrl: "https://www.zdnet.com/article/ai-was-all-over-apples-wwdc-it-was-just-running-in-the-background/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-was-all-over-apples-wwdc-it-was-just-running-in-the-background/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-was-all-over-apples-wwdc-it-was-just-running-in-the-background/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/2bb1594db607650070d3b6f2134c704779c1df4b/2023/06/07/f2daeb0d-4128-4ee7-8f5a-b4558701ec5a/image-720.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Where was all the AI at WWDC?"
     excerpt: "If you’d been drinking two fingers every time Apple mentioned \"artificial intelligence\" at WWDC 2023, you’d be stone sober right now.."
     publishedDateTime: 2023-06-07T17:12:00Z

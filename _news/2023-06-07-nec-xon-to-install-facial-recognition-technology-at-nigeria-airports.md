@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Prosecution in first N.J. arrest using controversial facial recognition technology hits snag with court ruling"
+    excerpt: "The arrest of Francisco Arteaga in late 2019 is believed to be the first in the state using the facial recognition technology."
+    publishedDateTime: 2023-06-07T19:55:00Z
+    webUrl: "https://www.nj.com/hudson/2023/06/prosecution-in-first-nj-arrest-using-controversial-facial-recognition-technology-hits-snag-with-court-ruling.html"
+    ampWebUrl: "https://www.nj.com/hudson/2023/06/prosecution-in-first-nj-arrest-using-controversial-facial-recognition-technology-hits-snag-with-court-ruling.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/hudson/2023/06/prosecution-in-first-nj-arrest-using-controversial-facial-recognition-technology-hits-snag-with-court-ruling.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 39
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5K2QXOCSZFGUPAUBGRDZANQIGY.jpg"
+        width: 1166
+        height: 706
+        isCached: true
 
 secured: "ikWdfVs/uF/ANcF6XZTskLoGkalWYH0OBFTqELGHIEWdc5OU7V6Prj0vRdwKl/PZ0Twrheh9+8vYRkHktl0FtfBQ9wy1EC1oqyECuVYyEV7NwlG0FyZueu7mI+rJm4GooFd68LnHFFK1IvXWvb8jjK7ePNveykqErgojdeoVGjxNAKBnWmoiwcpt38HaydMhEo1+RkRCRkJLZ7btnMveM1lCPAyzAKu9VeV/lzOBvnoq8YRjOfMigFlm2zMFt+nVihKvWVsmT7U8+JNeaT4uZ6gwnwayIaMKcYFOROIH6/qwtJF314Ip+vU6pD3Sgfl3T5ig6OLRtXS4TYXaQPemCbyiQH7SkhbNxMVEyAL44ws=;ern6zosTafJsf+kvFM7KaQ=="
 ---

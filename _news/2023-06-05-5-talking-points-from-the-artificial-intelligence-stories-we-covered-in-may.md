@@ -7,7 +7,7 @@ originalUrl: "https://www.medianama.com/2023/06/223-five-talking-points-ai-stori
 webUrl: "https://www.medianama.com/2023/06/223-five-talking-points-ai-stories-may/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 2560
     height: 1770
     isCached: true
+
+related:
+  - title: "8 tips for achieving better results from the new Bing AI"
+    excerpt: "How can you get better results from the new Bing Chat AI? Discover tips on how you can navigate searching for accurate and useful information in Bing AI."
+    publishedDateTime: 2023-06-07T19:05:00Z
+    webUrl: "https://www.techrepublic.com/article/bing-chat-ai-tips-for-better-results/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
 
 secured: "ZD+y0BZrGAcnS08npWucYPhCzUvkTg2rx6XQmNl4mRU+XaBSvpCFAxORY6VoenmIuLiMFwV/LuDH8DlkvxrVrXDM5iy26HgoR+aUNWfnAMOUV9Dvu5OfKLkVTwfutXyv6iUs3zgFvjIp5dvOW5DmiXZJWmtGm939lZoNg2Sg6kzX8j+BLyp/Tl+GO6zC5/1gcEF0U1E1fX+wdRHa3FAmxfqQrxyzEtq2OON5G5sq7jVRdTHVp9HaVawPzAaBkdM1iE+poQH0IZGablqcjsSyy3sC/9CF/ENvWAeYblfbkdeHlsaiwONjiS8CQqSP69uefva80mSDL3CGBPyZbQJXubeaRVpY6ZEEqSTKHpwQjWI=;kr4DYCHXzIKXUiqKarEU0A=="
 ---

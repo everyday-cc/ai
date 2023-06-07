@@ -73,22 +73,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft pens AI cloud computing deal with former Ethereum miner CoreWeave: CNBC"
-    excerpt: "With more than $400 million worth of funding raised in 2023, and a supposed Microsoft deal on the books, CoreWeave has grown significantly since pivoting from Ethereum mining."
-    publishedDateTime: 2023-06-03T02:19:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave"
-    ampWebUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 69
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/75e42a10-f7e8-4c95-a097-723db263e3b9.jpg"
-        width: 740
-        height: 492
-        isCached: true
   - title: "Microsoft launches generative AI service for government agencies"
     excerpt: "Microsoft's Azure OpenAI Service will allow departments to adapt generative AI models for tasks including content generation and semantic search."
     publishedDateTime: 2023-06-07T15:03:00Z

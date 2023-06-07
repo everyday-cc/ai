@@ -2,6 +2,257 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-08-googles-deepmind-develops-a-system-that-writes-efficient-algorithms.md",
+      "title": "Google’s DeepMind develops a system that writes efficient algorithms",
+      "excerpt": "Sorting is so basic that algorithms are built into most standard libraries for programming languages. And, in the case of the C++ library used with the LLVM compiler, the code hasn't been touched in over a decade.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/",
+      "originalUrl": "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1403644222-800x533.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/",
+      "publishedDateTime": "2023-06-07T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-blush-the-ai-lover-from-the-same-team-as-replika-is-more-than-just-a-sexbot.md",
+      "title": "Blush, the AI lover from the same team as Replika, is more than just a sexbot",
+      "excerpt": "Blush, an AI dating sim from the same team as Replika, is designed to \"practice\" dating, from flirting to complex conversations about boundaries.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/07/blush-ai-dating-sim-replika-sexbot/",
+      "originalUrl": "https://techcrunch.com/2023/06/07/blush-ai-dating-sim-replika-sexbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Blush.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/07/blush-ai-dating-sim-replika-sexbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/blush-ai-dating-sim-replika-sexbot/amp/",
+      "publishedDateTime": "2023-06-07T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-covid-sparked-a-mass-adoption-of-technology-heres-how-its-influencing-healthcare-design.md",
+      "title": "Covid Sparked A Mass Adoption Of Technology — Here’s How It’s Influencing Healthcare Design",
+      "excerpt": "Hospital design experts Christina Grimes and Ryan Hullinger explain how technology, from telehealth to avatars, are being incorporated into healthcare environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/",
+      "originalUrl": "https://www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6480e0cb711147192b595934/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/amp/",
+      "publishedDateTime": "2023-06-07T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks.md",
+      "title": "Here's one thing AI can do for 3 of our mega-cap tech stocks",
+      "excerpt": "A series of recent deals, announcements and upgrades involving three major cloud-computing names all share a common thread: Artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106207351-1572269966772gettyimages-1135936133.jpeg?v=1686171192&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-accelerate-pytorch-with-deepspeed-to-train-large-language-models-with-intel-habana-gaudi-based-dl1-ec2-instances.md",
+      "title": "Accelerate PyTorch with DeepSpeed to train large language models with Intel Habana Gaudi-based DL1 EC2 instances",
+      "excerpt": "Training large language models (LLMs) with billions of parameters can be challenging. In addition to designing the model architecture, researchers need to set up state-of-the-art training techniques for distributed training like mixed precision support, gradient accumulation, and checkpointing. With",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-pytorch-with-deepspeed-to-train-large-language-models-with-intel-habana-gaudi-based-dl1-ec2-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-pytorch-with-deepspeed-to-train-large-language-models-with-intel-habana-gaudi-based-dl1-ec2-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T11:42:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-retrain-ml-models-and-automate-batch-predictions-in-amazon-sagemaker-canvas-using-updated-datasets.md",
       "title": "Retrain ML models and automate batch predictions in Amazon SageMaker Canvas using updated datasets",
       "excerpt": "You can now retrain machine learning (ML) models and automate batch prediction workflows with updated datasets in Amazon SageMaker Canvas, thereby making it easier to constantly learn and improve the model performance and drive efficiency. An ML model’s effectiveness depends on the quality and relevance",
@@ -675,7 +926,7 @@
       "originalUrl": "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -908,49 +1159,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-07-the-future-of-generative-ai-from-google-cloud-what-you-need-to-know.md",
-      "title": "The Future of Generative AI from Google Cloud: What You Need to Know",
-      "excerpt": "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1",
-      "originalUrl": "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com/images/2023/June/762023/google-ai.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1",
-      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1",
-      "publishedDateTime": "2023-06-07T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jagranjosh.com",
-        "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-07-us-china-competition-for-artificial-intelligence-dominance-will-dictate-the-future-of-humanity-warn-experts.md",
       "title": "US, China competition for artificial intelligence dominance will 'dictate the future of humanity' warn experts",
       "excerpt": "Experts weighed American and Chinese military and civil investments in AI and while some believe the U.S. has a slight advantage in developing the technology, others worry China has already surpassed U.",
@@ -1041,211 +1249,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-pixel-perfect-the-rise-of-ai-fashion-models.md",
-      "title": "Pixel Perfect: The Rise Of AI Fashion Models",
-      "excerpt": "AI is transforming the catwalk! Read on to discover how AI-generated models are revolutionizing the fashion industry — including iconic brands like Levi's.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/07/pixel-perfect-the-rise-of-ai-fashion-models/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/07/pixel-perfect-the-rise-of-ai-fashion-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648023de4e1df48ea857d5cb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/07/pixel-perfect-the-rise-of-ai-fashion-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/07/pixel-perfect-the-rise-of-ai-fashion-models/amp/",
-      "publishedDateTime": "2023-06-06T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-asia-ex-china-is-asleep-at-the-ai-wheel.md",
-      "title": "Asia (ex China) Is Asleep At The AI Wheel",
-      "excerpt": "A huge swathe of the the Asian region appears unmoved with what looks like momentous shifts in the global economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/",
-      "originalUrl": "https://www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647ec23eacf21e7eed595938/0x0.jpg?format=jpg&crop=2778,1564,x0,y35,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/amp/",
-      "publishedDateTime": "2023-06-06T23:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-optimism-about-ai-is-growing-as-more-people-use-it-bcg-report-finds.md",
-      "title": "Optimism about AI is growing as more people use it, BCG report finds",
-      "excerpt": "The percentage of respondents who viewed AI optimistically grew as they used the technology more, while their concerns about the tech dropped.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/optimism-about-ai-is-growing-as-more-people-use-it-bcg-report-finds/",
-      "originalUrl": "https://venturebeat.com/ai/optimism-about-ai-is-growing-as-more-people-use-it-bcg-report-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_smiling_man_wearing_circuit_gloves_types_on_a_glowing_h_1996188f-aca0-4226-8817-c2534d933729.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-artificial-intelligence-regulation-why-experts-are-calling-for-slowing-down-ai-ai-series-4-of-5.md",
-      "title": "Artificial Intelligence Regulation, Why Experts Are Calling For Slowing Down AI: AI Series 4 Of 5",
-      "excerpt": "Unchecked artificial intelligence development could lead to large potential threats for humanity and negative consequences. Learn why experts want to slow down AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/06/artificial-intelligence-regulation-why-experts-are-calling-for-slowing-down-ai-ai-series-4-of-5/",
-      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/06/artificial-intelligence-regulation-why-experts-are-calling-for-slowing-down-ai-ai-series-4-of-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64781e7ad5a222cb969b8c19/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/06/artificial-intelligence-regulation-why-experts-are-calling-for-slowing-down-ai-ai-series-4-of-5/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/06/artificial-intelligence-regulation-why-experts-are-calling-for-slowing-down-ai-ai-series-4-of-5/amp/",
-      "publishedDateTime": "2023-06-06T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

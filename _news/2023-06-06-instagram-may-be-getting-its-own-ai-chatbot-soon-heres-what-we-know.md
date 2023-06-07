@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-it
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "An AI chatbot might soon slide into your Instagram DMs"
+    excerpt: "Instagram is reportedly working on an AI chatbot that will let users choose between 30 different personalities to chat with."
+    publishedDateTime: 2023-06-07T18:21:00Z
+    webUrl: "https://bgr.com/tech/an-ai-chatbot-might-soon-slide-into-your-instagram-dms/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
 
 secured: "swa7PIzarRFDpYr1bzQfz+B7j6u3bd8GoqWdQU3q4ZcCzv8oDj4Uz7/k57llGjMofiOG1KPr1ncznTgOXRJKfC59Y8bt248dK2+dNEYWAT2DGorJkNFS3Yc62Cik3vZAt5aEgM/iuoR7st0w12EPGJN6wFGua6EbneEXt36G8fxQKu6eBaHdMZdl6dq1WEM7QyXKphnI6eKFKONPbgQNJj/K0fPlIEKmi1fkBMsV4o2nitJDTgUO2evoPEtRq+2TfOuLoyDiynLg78IpDgAzqoh+PjJvB6OHGmVMEpM3mGrP9SAFvveo72jiDR77d/5v9t4t4XTBCU3x3q1w7BrV0Rn4fKca5d6KuO1zjFLxr1xaIOMAY4CElrH0hs5b81QaoyPAiOU7C8O5n7iMvsa1k/E7y0jEaefUyINYHgd0sNCPRBHRvSb0Z+ye+XsIBxr4kWK75bjFbwuftpAK6nJuh0hKUTA9+doBCWI8FgQ6bylkIVyFlIg2o8tEMA1L/aaZgtXs5K5y1EEZ17vPao9Yfw==;+Zwp+3UGktx/RdVq3j3Lcg=="
 ---

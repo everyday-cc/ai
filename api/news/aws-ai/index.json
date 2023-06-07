@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-07-accelerate-pytorch-with-deepspeed-to-train-large-language-models-with-intel-habana-gaudi-based-dl1-ec2-instances.md",
+      "title": "Accelerate PyTorch with DeepSpeed to train large language models with Intel Habana Gaudi-based DL1 EC2 instances",
+      "excerpt": "Training large language models (LLMs) with billions of parameters can be challenging. In addition to designing the model architecture, researchers need to set up state-of-the-art training techniques for distributed training like mixed precision support, gradient accumulation, and checkpointing. With",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-pytorch-with-deepspeed-to-train-large-language-models-with-intel-habana-gaudi-based-dl1-ec2-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-pytorch-with-deepspeed-to-train-large-language-models-with-intel-habana-gaudi-based-dl1-ec2-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T11:42:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-retrain-ml-models-and-automate-batch-predictions-in-amazon-sagemaker-canvas-using-updated-datasets.md",
       "title": "Retrain ML models and automate batch predictions in Amazon SageMaker Canvas using updated datasets",
       "excerpt": "You can now retrain machine learning (ML) models and automate batch prediction workflows with updated datasets in Amazon SageMaker Canvas, thereby making it easier to constantly learn and improve the model performance and drive efficiency. An ML model’s effectiveness depends on the quality and relevance",
@@ -1294,40 +1338,6 @@
       "provider": {
         "name": "techawkng",
         "domain": "techawkng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-film-the-innocent-deep-rising.md",
-      "title": "Film: The Innocent, Deep Rising",
-      "excerpt": "Familial tensions, criminal hijinks and unexpected romance collide in the uproariously entertaining new comedy hit from the multi-talented Louis Garrel (A Faithful Man). Lyon, present day. When ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newstalkzb.co.nz/on-air/saturday-morning-with-jack-tame/audio/francesca-rudkin-the-innocent-deep-rising/",
-      "originalUrl": "https://www.newstalkzb.co.nz/on-air/saturday-morning-with-jack-tame/audio/francesca-rudkin-the-innocent-deep-rising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newstalk ZB",
-        "domain": "newstalkzb.co.nz",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-08-googles-deepmind-develops-a-system-that-writes-efficient-algorithms.md",
+      "title": "Google’s DeepMind develops a system that writes efficient algorithms",
+      "excerpt": "Sorting is so basic that algorithms are built into most standard libraries for programming languages. And, in the case of the C++ library used with the LLVM compiler, the code hasn't been touched in over a decade.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/",
+      "originalUrl": "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1403644222-800x533.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/",
+      "publishedDateTime": "2023-06-07T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure.md",
       "title": "DeepMind repurposes game-playing AIs to optimize code and infrastructure",
       "excerpt": "DeepMind's AIs mastered Go and Chess - now these game-playing models are taking on more practical (if boring) problems like video compression.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1394,60 +1446,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development.md",
-      "title": "Google expands TensorFlow open-source tooling for accelerated machine learning development",
-      "excerpt": "Google enhances TensorFlow with deep learning capabilities and parallelism techniques for developer choice in machine language tooling.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/",
-      "originalUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_google_deepmind_annc_042023-copy.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/amp/",
-      "publishedDateTime": "2023-05-10T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

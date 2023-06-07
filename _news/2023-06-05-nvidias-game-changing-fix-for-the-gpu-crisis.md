@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NVIDIA's RTX 4060 Ti GPU Powers YEYIAN Gaming's New Desktops for Unmatched Gaming Performance"
+    excerpt: "New Shoge and Yari II gaming desktops feature NVIDIA's latest RTX 4060 Ti GPU with upgraded AI-accelerated graphics performance and stunning ray tracing effects. SAN DIEGO, June 7, 2023 /PRNewswire-PR"
+    publishedDateTime: 2023-06-07T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32760571/nvidias-rtx-4060-ti-gpu-powers-yeyian-gamings-new-desktops-for-unmatched-gaming-performance"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "WLx5HvAIeVhS0DSXzLBiMyzqnkMGKLf5QnU9frDEJoOwDo1nyXwrb/+t9P4DOqHeiccOGWuQkck9zQKjLL9BgdFR4SLiJMk/16waZqLxhgzoR9RDPgljSIVw1q8APpEixmDiX2W33mnVvjuRGUe3rr9TkVYsOdDKKjabwO+bGGpTkgcs/Y4/URmT9zDZwZEpeVDhb7ZaIn0gNHkF+euf5A/anlnPcRa2VVcA4B6XaoHmLyHT9E0YrTeJAbr7xrxEUcwCm9di64G+DQFOGjj79qrwCHjBI+4ckOutWEHTFIOP+XJAvvGo0OAvCvKojoezy8gHQkmME+u6UQR4bIuRzzhvPIDnVND3KivPucenFFZf8kv208Yvb1HjkzsoQm+GkyAdXVtM1qwRFNrqgE7VAWQt/dnjqyZ/fXxgnbR/0EmrSmwN0f10HnEvHjUi4Pg/yfJ+j6/CpGsbrQRPgQyFN8pgiFql5fLN7TL3BpY5oOViqIkyzSEqEYZM8cohBJIhPK2B8/a655PET9bN+kxvZQ==;GP5aGrcxo+1NAu5uh+6JCQ=="
 ---

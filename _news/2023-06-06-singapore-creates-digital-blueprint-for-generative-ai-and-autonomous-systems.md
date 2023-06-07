@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/networking/singapor
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intuit reveals generative AI system across its platforms"
+    excerpt: "The AI will have custom-trained financial language models specialising in solving, tax, accounting, cash flow and personal finance challenges."
+    publishedDateTime: 2023-06-07T20:56:00Z
+    webUrl: "https://www.accountantsdaily.com.au/technology/18638-intuit-reveals-generative-ai-system-across-its-platforms"
+    type: article
+    provider:
+      name: accountantsdaily.com.au
+      domain: accountantsdaily.com.au
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1684912798/Accountants%20Daily/sasan-goodarzi-intuit-ad_g3icx2.jpg"
+        width: 1200
+        height: 776
+        isCached: true
   - title: "Here’s What You Need to Know About the AI-Themed Singapore Fintech Festival 2023"
     excerpt: "The theme for the upcoming Singapore Fintech Festival 2023 would be ‘Applications of Artificial Intelligence (AI) in Financial Services’."
     publishedDateTime: 2023-06-05T04:05:00Z

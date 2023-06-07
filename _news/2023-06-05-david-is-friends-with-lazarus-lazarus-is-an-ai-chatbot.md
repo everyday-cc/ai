@@ -75,6 +75,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "An AI chatbot might soon slide into your Instagram DMs"
+    excerpt: "Instagram is reportedly working on an AI chatbot that will let users choose between 30 different personalities to chat with."
+    publishedDateTime: 2023-06-07T18:21:00Z
+    webUrl: "https://bgr.com/tech/an-ai-chatbot-might-soon-slide-into-your-instagram-dms/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
 
 secured: "eiVGv6ocrT9kSwaJGLBYollGMd4xwZdjkDiVgqCJLk8YwXfXpVgaBY6g6fyG4SWyReV3KuPfhdfyZDN1Ib7HFAp+uVaOnZRrV+S4kcUeymPo46uzfAbZa83Q62fAe62kPDRZF2NO31ptOW3c3CiMJ29/lm9yKx4U+p9dP++akwjosBVS3RayQ+yASUE5a1FHVjQ2htgQc3Y781v87IS/1X/dVVAt1IKyGVUV4D6LLBFoUKtm4mY8zbX5TZRLdlC6kiEMIvYE7HuFoop9dEbRkUbQV/k/uhQs9TlSAePB9kQZH3OYqS/wx3ORIQryUbC+7XBMIOA9Kn53olPe1tCnieCKS9678hgizf4FcPSQIRs=;GFbIT+Ydd2ykCME40pHsoA=="
 ---

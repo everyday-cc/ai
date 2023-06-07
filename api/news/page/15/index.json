@@ -2,6 +2,222 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-05-27-h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
+      "title": "H2O.ai Recognized as a Visionary in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services",
+      "excerpt": "“We believe H2O AI Cloud is one of the best autoML and enables organizations to build predictive models and gain insights from their data quickly and easily. “As a community powered organization, our grassroots movement to democratize AI has led us to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "originalUrl": "https://www.01net.it/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-what-you-need-to-know-about-ai-etfs.md",
+      "title": "What You Need to Know About AI ETFs",
+      "excerpt": "BOTZ aims to provide investment returns that generally correspond to performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index (before fees and expenses), Global X says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
+      "originalUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2022/02/2022-2-22-artificial-intelligence_Adobe-Stock_640x640_peshkov.jpg",
+          "width": 640,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Think Advisor",
+        "domain": "thinkadvisor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
+      "title": "H2O.ai Recognized as a Visionary in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services",
+      "excerpt": "“We believe H2O AI Cloud is one of the best autoML and enables organizations to build predictive models and gain insights from their data quickly and easily. “As a community powered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20230526005264/h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20230526005264/h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says.md",
+      "title": "Stock market’s AI frenzy reinforces this crucial rule for traders, RenMac says",
+      "excerpt": "A mind-blowing Thursday surge by shares of chip maker Nvidia Corp. that fed a frenzy for artificial ... the 50-day moving average falls below the 200-day moving average. And the AI rally has some market watchers pondering if another bubble may be in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "originalUrl": "https://www.marketwatch.com/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-789668/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "publishedDateTime": "2023-05-26T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position.md",
+      "title": "How ChatGPT Is Reshaping The C-Suite, With New AI Leadership Position",
+      "excerpt": "A stunning forecast from the chipmaker - whose silicon solutions are powering the future with artificial intelligence (AI) chips - pushed the company’s stock up 24%. The company forecast revenue that was 50% higher than estimates, according to Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/",
+      "originalUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 331,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6470b943b202b5301a9d86b2/0x0.jpg?format=jpg&crop=3250,1523,x0,y6,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/",
+      "publishedDateTime": "2023-05-26T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-aiml-considerations-of-healthcares-new-frontier.md",
       "title": "AI/ML: Considerations of Healthcare’s New Frontier",
       "excerpt": "Artificial Intelligence (AI) and Machine Learning (ML) is bringing healthcare into a new frontier with vast potential to improve clinical outcomes, manage resources, and support therapeutic development. They also raise ethical, legal, and operational ...",
@@ -931,205 +1147,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-news-tagged-ai-chips.md",
-      "title": "NEWS TAGGED AI CHIPS",
-      "excerpt": "A boost in demand for AI chips may help TSMC sustain its annual revenue increase this year, according to market observers. Almost all of TSMC's top-10 customers have readied plans to adopt the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/tag/ai_chips/00110853.html",
-      "originalUrl": "https://www.digitimes.com/tag/ai_chips/00110853.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/ad/en_20230302_dtmember_bigbutton.gif",
-          "width": 336,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-researcher-combines-ai-and-microelectronics-to-create-neural-implants-that-fight-brain-disorders.md",
-      "title": "Researcher combines AI and microelectronics to create neural implants that fight brain disorders",
-      "excerpt": "Neural implants can help treat brain disorders such as Parkinson’s disease and epilepsy by directly modulating abnormal activities – and the University of Toronto’s Xilin Liu is working with microelectronics and artificial intelligence to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.utoronto.ca/news/researcher-combines-ai-and-microelectronics-create-neural-implants-fight-brain-disorders",
-      "originalUrl": "https://www.utoronto.ca/news/researcher-combines-ai-and-microelectronics-create-neural-implants-fight-brain-disorders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University of Toronto",
-        "domain": "utoronto.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
-      "title": "Nvidia: The chip maker that became an AI superpower",
-      "excerpt": "Jensen Huang, now the chief executive of Nvidia, was one of its founders back in 1993. Then, Nvidia was focused on making graphics better for gaming and other applications. In 1999 it developed GPUs to enhance image display for computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-65675027",
-      "originalUrl": "https://www.bbc.co.uk/news/business-65675027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/business-65675027.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp",
-      "publishedDateTime": "2023-05-25T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-microsoft-rains-more-machine-learning-on-azure-cloud.md",
-      "title": "Microsoft rains more machine learning on Azure cloud",
-      "excerpt": "Microsoft made sure to include Azure in the AI-fest that was the Build 2023 developer conference this week. As enterprises consider experimenting with or deploying generative AI, they may well look to public clouds and similar scalable compute and storage infrastructure to run things like large-language models (LLMs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
-      "originalUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-deep-fake-video-of-biden-in-drag-promoting-bud-light-goes-viral-as-experts-warn-of-techs-risks.md",
-      "title": "Deep Fake video of Biden in drag promoting Bud Light goes viral, as experts warn of tech's risks",
-      "excerpt": "The word stems from the collaboration of the terms 'deep learning' and 'fake,' and is a form of artificial intelligence. The system studies a target person in pictures and videos, allowing it to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12125237/Deep-Fake-video-Biden-drag-promoting-Bud-Light-goes-viral-experts-warn-techs-risks.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12125237/Deep-Fake-video-Biden-drag-promoting-Bud-Light-goes-viral-experts-warn-techs-risks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/05/25/18/71416449-0-image-a-229_1685037259162.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-12125237/amp/Deep-Fake-video-Biden-drag-promoting-Bud-Light-goes-viral-experts-warn-techs-risks.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12125237/amp/Deep-Fake-video-Biden-drag-promoting-Bud-Light-goes-viral-experts-warn-techs-risks.html",
-      "publishedDateTime": "2023-05-25T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

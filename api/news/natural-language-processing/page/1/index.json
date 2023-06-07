@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-07-the-future-of-generative-ai-from-google-cloud-what-you-need-to-know.md",
-      "title": "The Future of Generative AI from Google Cloud: What You Need to Know",
-      "excerpt": "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1",
-      "originalUrl": "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com/images/2023/June/762023/google-ai.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1",
-      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1",
-      "publishedDateTime": "2023-06-07T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jagranjosh.com",
-        "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-07-how-to-make-money-with-ai.md",
       "title": "How to Make Money With AI",
       "excerpt": "While many are worried that AI might eventually take their jobs, others are looking to harness its power to make money.",
@@ -306,6 +263,49 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-google-launches-extensive-ai-course-for-free.md",
+      "title": "Google Launches Extensive AI Course for Free",
+      "excerpt": "Search engine giant Google has announced 7 new generative AI courses that are completely free. These courses are meant to \"advance your cloud career\" and",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/",
+      "originalUrl": "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2023/06/geneartive-AI-google-e1685947361160.png",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/amp/?fbclid=IwAR1Yaru5I1qSaH5ZSFdkBXI6BVqX218vhIRH4ivDhpeU7mUW_jhiSFyIhx0",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/amp/?fbclid=IwAR1Yaru5I1qSaH5ZSFdkBXI6BVqX218vhIRH4ivDhpeU7mUW_jhiSFyIhx0",
+      "publishedDateTime": "2023-06-05T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -575,8 +575,8 @@
       "title": "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis",
       "excerpt": "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients.",
       "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/press-releases/article275901341.html",
-      "originalUrl": "https://www.miamiherald.com/press-releases/article275901341.html",
+      "webUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
+      "originalUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -589,8 +589,8 @@
       "publishedDateTime": "2023-05-30T04:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -35,20 +35,6 @@ related:
         width: 2880
         height: 1908
         isCached: true
-  - title: "E-scooters and Self-Driving Vehicles Inquiry"
-    excerpt: "Commons Transport Committee session on e-scooters and self-driving vehicles, with evidence from transport minister Jesse Norman and senior officials, from Wednesday 17 May."
-    publishedDateTime: 2023-06-03T01:50:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/m001n2rf"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 24
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p04bplqj.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
     excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
     publishedDateTime: 2023-06-07T10:07:00Z

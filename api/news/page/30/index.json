@@ -2,6 +2,249 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-05-17-2-ai-stocks-to-buy-before-they-skyrocket.md",
+      "title": "2 AI Stocks to Buy Before They Skyrocket",
+      "excerpt": "Known for its social media businesses, Facebook and Instagram, Meta Platforms is another tech giant that could be greatly influenced by the AI megatrend. While management has spent recent years ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/05/17/2-ai-stocks-to-buy-before-they-skyrocket/",
+      "originalUrl": "https://www.fool.com/investing/2023/05/17/2-ai-stocks-to-buy-before-they-skyrocket/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/732436/gettyimages-1364859722.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-tesla-updates-ai-trained-robot-army-takes-new-bots-for-a-walk.md",
+      "title": "Tesla updates AI-trained robot army, takes new bots for a walk",
+      "excerpt": "When it was first revealed at the Tesla AI Day 2022, the humanoid robot needed assistance from staff and could barely stand.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
+      "originalUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/48bbada3-10a1-4d54-813d-2764c5b0ce1c.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp",
+      "publishedDateTime": "2023-05-17T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-astr-how-govts-ai-and-face-recognition-tool-will-detect-phone-frauds.md",
+      "title": "ASTR: How govt’s AI and face recognition tool will detect phone frauds",
+      "excerpt": "The DoT claims the tool — called Artificial Intelligence and Facial Recognition powered Solution for Telecom SIM Subscriber Verification (ASTR) — can potentially bring down cyber frauds by detecting and blocking possible fraudulent mobile connections.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/explained/explained-sci-tech/govt-ai-face-recognition-tool-astr-detect-phone-frauds-8614162/",
+      "originalUrl": "https://indianexpress.com/article/explained/explained-sci-tech/govt-ai-face-recognition-tool-astr-detect-phone-frauds-8614162/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/05/Face-recognition.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/explained/explained-sci-tech/govt-ai-face-recognition-tool-astr-detect-phone-frauds-8614162/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/govt-ai-face-recognition-tool-astr-detect-phone-frauds-8614162/lite/",
+      "publishedDateTime": "2023-05-17T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-from-pixels-to-pavement-generative-ai-use-cases-in-automotive-industry.md",
+      "title": "From Pixels To Pavement: Generative AI Use Cases In Automotive Industry",
+      "excerpt": "In other milestones, it has taken only six months for GPT-3 based models to increase from 1 to 300,000, even as MarketsnMarkets estimates market size to burgeon from",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sarwantsingh/2023/05/17/from-pixels-to-pavement-generative-ai-use-cases-in-automotive-industry/",
+      "originalUrl": "https://www.forbes.com/sites/sarwantsingh/2023/05/17/from-pixels-to-pavement-generative-ai-use-cases-in-automotive-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6464857496d4b02236c2ff1a/0x0.jpg?format=jpg&crop=1231,577,x24,y82,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sarwantsingh/2023/05/17/from-pixels-to-pavement-generative-ai-use-cases-in-automotive-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sarwantsingh/2023/05/17/from-pixels-to-pavement-generative-ai-use-cases-in-automotive-industry/amp/",
+      "publishedDateTime": "2023-05-17T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-the-case-for-a-code-of-conduct-for-ai-in-healthcare.md",
+      "title": "The case for a code of conduct for AI in healthcare",
+      "excerpt": "The rise of generative AI has prompted an AI ethicist to propose a framework to mitigate the risks of using the ever-developing tech in the healthcare space. This coincides with the chief executive of ChatGPT’s OpenAI urging US legislators to start regulating AI for the safety of humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/",
+      "originalUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/4f3d9da/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F14%2Fd0%2F9be4e9844471ab60db09eb3130d5%2Fdepositphotos-198133002-l.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true",
+      "publishedDateTime": "2023-05-17T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision.md",
       "title": "Future of AI in e-commerce: Transforming data with ML and computer vision",
       "excerpt": "While a lot has been discussedin areas of face recognition, graphical capabilities, some of the following use cases in e-Commerce can greatly benefit from computer vision, image processing. As a customer you want to know the best offers on your favourite ...",
@@ -969,247 +1212,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-ex-apple-employee-accused-of-stealing-trade-secrets-is-exec-at-baidu-self-driving-car-joint-venture.md",
-      "title": "Ex-Apple employee accused of stealing trade secrets is exec at Baidu self-driving car joint venture",
-      "excerpt": "an electric vehicle joint venture between Baidu and Chinese car maker Geely. On Tuesday, the DOJ accused Wang of stealing trade secrets from Apple's self-driving car division. Wang is the third ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html",
-      "originalUrl": "https://www.cnbc.com/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107194711-1676427099559-gettyimages-1453437554-vcg111416077998.jpeg?v=1684262125",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html",
-      "publishedDateTime": "2023-05-16T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-ai-hearing-fills-technical-knowledge-that-lawmakers-sometimes-lack-democratic-congressman.md",
-      "title": "AI hearing fills ‘technical knowledge’ that lawmakers sometimes ‘lack’: Democratic congressman",
-      "excerpt": "Rep. Jay Obernolte (R-Calif.) joins Meet the Press NOW to discuss the potential and dangers of AI, as well as Congress’ road to regulation for the rapidly developing technology following Tuesday’s AI hearing on Capitol Hill.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/ai-hearing-fills-technical-knowledge-that-lawmakers-sometimes-lack-democratic-congressman-174544453566",
-      "originalUrl": "https://www.nbcnews.com/video/ai-hearing-fills-technical-knowledge-that-lawmakers-sometimes-lack-democratic-congressman-174544453566",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684273276825_now_mtp_full_obernolte_230518_1920x1080-81fq9s.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174544453566",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174544453566",
-      "publishedDateTime": "2023-05-16T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-nigeria-election-di-unexplained-nigeria-election-votes-wey-political-parties-dey-contest.md",
-      "title": "Nigeria election: Di unexplained Nigeria election votes wey political parties dey contest",
-      "excerpt": "Wen we compare di profile image for dis account to di television pictures of Dr Ariaga using Amazon Rekognition software, we achieve a match of 97.2%, wey indicate a very high probability say dem be di same man. Dr Ariaga no respond to messages wey we send ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/pidgin/tori-65564971?at_link_origin=bbcnewspidgin&at_campaign_type=owned&at_format=link&at_link_id=7E3B4882-F3B1-11ED-9926-EF73AD7C7D13&at_ptr_name=twitter&at_link_type=web_link&at_bbc_team=editorial",
-      "originalUrl": "https://www.bbc.com/pidgin/tori-65564971?at_link_origin=bbcnewspidgin&at_campaign_type=owned&at_format=link&at_link_id=7E3B4882-F3B1-11ED-9926-EF73AD7C7D13&at_ptr_name=twitter&at_link_type=web_link&at_bbc_team=editorial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_pidgin/7854/production/_129440803_tinubu1.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/pidgin/tori-65564971.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/pidgin/tori-65564971.amp",
-      "publishedDateTime": "2023-05-16T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup.md",
-      "title": "Tech Up as Sector Seen Less Vulnerable to Default Fallout -- Tech Roundup",
-      "excerpt": "Chinese search engine Baidu posted a sharp increase in first-quarter revenue. A former Apple engineer was charged with trying to steal the company's self-driving-car technology. Write to Rob Curran at rob.curran@dowjones.com Back to Top",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
-      "originalUrl": "https://www.marketwatch.com/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
-      "publishedDateTime": "2023-05-16T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers-fire-coach-doc-rivers-top-headlines-for-may-16-.md",
-      "title": "ChatGPT chief says AI should be regulated; China ready to 'smash' Taiwan self-rule; 76ers fire coach Doc Rivers | Top headlines for May 16 & 17, 2023",
-      "excerpt": "On the version of Hot off the Wire posted May 16 at 4 p.m. CT: OpenAI CEO Sam Altman, the head of the artificial intelligence company that makes ChatGPT, told",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers/audio_45629a65-9fdf-5b61-8df4-4ccc518beddb.html",
-      "originalUrl": "https://www.stltoday.com/chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers/audio_45629a65-9fdf-5b61-8df4-4ccc518beddb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/56/45629a65-9fdf-5b61-8df4-4ccc518beddb/6463fc24d6906.preview.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

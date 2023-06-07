@@ -71,6 +71,31 @@ related:
         width: 707
         height: 471
         isCached: true
+  - title: "Self-driving Waymo car kills dog amid increasing concern over robotaxis"
+    excerpt: "Collision occurred as canine ran out from behind another car, but autonomous vehicle could not stop in time to avoid contact"
+    publishedDateTime: 2023-06-07T19:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/e00f02701042ab5e25107c0616d98bbbf908dad3/0_190_4704_2823/master/4704.jpg?width=620&quality=85&auto=format&fit=max&s=f3e82d73872bffddfbf35a8c1eaa33f8"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "A Waymo self-driving car killed a dog in ‘unavoidable’ accident"
+    excerpt: "Waymo said the collision with the dog was unavoidable, but it still might spark public concerns over the safety of autonomous vehicles."
+    publishedDateTime: 2023-06-07T01:47:00Z
+    webUrl: "https://techcrunch.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog-in-unavoidable-accident/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
   - title: "Self-driving crash kills San Francisco dog"
     excerpt: "San Francisco is a hub for self-driving vehicle development. Its streets recently saw a crash between a self-driving Jaguar and a dog."
     publishedDateTime: 2023-06-07T02:52:00Z

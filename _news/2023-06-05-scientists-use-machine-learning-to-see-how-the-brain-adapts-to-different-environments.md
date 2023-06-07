@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-06-scientists-machine-brain-envi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-scientists-machine-brain-environments.amp"
 type: article
 quality: 66
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
     provider:
       name: ThePrint
       domain: theprint.in
+    quality: 27
+  - title: "Machine learning helps scientists see how the brain adapts to different environments"
+    excerpt: "Visualizing connections in the brain could yield insights into how our brains change with learning, aging, injury, and disease"
+    publishedDateTime: 2023-06-07T19:00:00Z
+    webUrl: "https://hub.jhu.edu/2023/06/07/artificial-intelligence-brain-adaptation-synapses/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
     quality: 27
 
 secured: "BfQt5w39KUwpOElkjVeiLtKRd4X6Fzgrg7kW8LjbygbV5oscyxU8Q9Zs7iej5o/RligIrtHACIEFtxahmJ2ev7jXaXSQGad3aCabNaeTO67HZDS1cQtPdGS1zmwfX8PNYuWXd8pb2fUxasPUez5Lbmlax/NyRqeccNAM8e7jKep+ZV+3I29u6gy7zg4uDMhb9qT/Xodr4fSsM2HdbPtYkyHewjkKucZAxMFvuEXsez5kJM1WnNVNk43gJp3BRYYRbaE+Q6exNJEtGFO2cQeZkIVwF36T1cz02w/dvuEAV5wf6I4GhekAOJkxdwvzyWIdqZKrXtp8KniUJtaHhv5vCJHtK0TczB9SDtNzI2shvOKmVFug4ffGO5YddQV84qIo+q6jbjDHmYvl+11v32DPcR0r5O2312MFBABa/DITAEVC0ew3fodkX3dm2+MGMWopmEiKiFrVTmSxcDVHHbcqefBJe7XFjRSiLdDcb18r5OAMxlQCxud0vEATagCgFB3GifYRu8A+SpR1IcLtaAegFA==;DRPYpomZNMNbjwiWVWt2Ng=="

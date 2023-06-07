@@ -7,8 +7,8 @@ originalUrl: "https://mashable.com/uk/deals/free-artificial-intelligence-chatgpt
 webUrl: "https://mashable.com/uk/deals/free-artificial-intelligence-chatgpt-courses"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mashable
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google Launches Extensive AI Course for Free"
-    excerpt: "Search engine giant Google has announced 7 new generative AI courses that are completely free. These courses are meant to \"advance your cloud career\" and"
-    publishedDateTime: 2023-06-05T07:53:00Z
-    webUrl: "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/"
-    ampWebUrl: "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/amp/?fbclid=IwAR1Yaru5I1qSaH5ZSFdkBXI6BVqX218vhIRH4ivDhpeU7mUW_jhiSFyIhx0"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/amp/?fbclid=IwAR1Yaru5I1qSaH5ZSFdkBXI6BVqX218vhIRH4ivDhpeU7mUW_jhiSFyIhx0"
+  - title: "Here's one thing AI can do for 3 of our mega-cap tech stocks"
+    excerpt: "A series of recent deals, announcements and upgrades involving three major cloud-computing names all share a common thread: Artificial intelligence."
+    publishedDateTime: 2023-06-07T18:54:00Z
+    webUrl: "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html"
     type: article
     provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 59
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
     images:
-      - url: "https://propakistani.pk/wp-content/uploads/2023/06/geneartive-AI-google-e1685947361160.png"
-        width: 1000
-        height: 562
+      - url: "https://image.cnbcfm.com/api/v1/image/106207351-1572269966772gettyimages-1135936133.jpeg?v=1686171192&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "/olEjOArTyHuj5gY2nIzoNBuuiS0yG/QjWFu3vsWwAA3/JVye+FNyiCdQ5JT6Mf2VZ5OrIa7g4Pq/6N9L4CJYZjR0X7f7aElGxUvA5RHYCLxoiDw8cp5xdw4M90FNLDeEwBswqupaxPYgDgsOV9tqt7ZskKEs7qtJhTLPI0Vtcs5QxG316FpAk90/ipz+U0NypKExh40GfuHRHuRtyaYLpp4ouf6xSwKgcE8zP2Z9cJWJQK/b/uHWeTa1p8gpvop4+PRFMhDe9KaoHHy0AkEGM1fMudT8RTl5uwIHCDtmUYbXP7hSKr+I89HPORpt3QXVcx+hRSE0KRz8pWTboVsnaJ6DKBe2WGw5Lm//GjNkZE=;eWAYW0d1Pwyl8qvILrs1gQ=="

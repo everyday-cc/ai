@@ -3,8 +3,8 @@ category: news
 title: "How to develop artificial super-intelligence without destroying humanity"
 excerpt: "Sam Altman, the founder of the revolutionary application Chat-GPT, is touring Europe with a message: AI is changing the world and there are big risks, but also big potential rewards"
 publishedDateTime: 2023-06-07T01:01:00Z
-originalUrl: "https://www.theguardian.com/news/audio/2023/jun/07/how-to-develop-artificial-super-intelligence-without-destroying-humanity"
-webUrl: "https://www.theguardian.com/news/audio/2023/jun/07/how-to-develop-artificial-super-intelligence-without-destroying-humanity"
+originalUrl: "https://www.theguardian.com/news/audio/2023/jun/07/how-to-develop-artificial-super-intelligence-without-destroying-humanity?ref=upstract.com"
+webUrl: "https://www.theguardian.com/news/audio/2023/jun/07/how-to-develop-artificial-super-intelligence-without-destroying-humanity?ref=upstract.com"
 type: article
 quality: 21
 heat: -1
@@ -38,6 +38,6 @@ related:
       domain: wsj.com
     quality: 32
 
-secured: "1r7WM0LsqUQxH2ZJVS2zyK99JNiRW5AED/atmxzFLwy2yRbz0X9lIuG7H5P12sF7UIS4/rJmh9JtOBIGM3Lilx644/uDWJwHI+sl5UTNJ5xwRyCQsSGIiFlCKYiVVyOXh1KQNWqswYabijPzA43KRYxtT+YKazVnHPLFpCd1S49nI7ZOmg/W8ByzeczMHgDTjih6HJahEsvyfbIxBd9TIsQrNzlwXU8uFRDYCQHrfFt5xajXR3MEjfhc+U+oI+KEGmNMRTx8uvBmtDOK0XpKubmInWhreqX3+nZHydP7TUgziO+HQoF/1u8vN6y6HCv9thRGoKOISkntVJJpxAPhv6P3uuu/+TinydK93vquEktCpOwMfIsZ3fSEl1ylGcoe8BTMPQDT6De4VxFtqYkDYFJjbT10ZM+BMVFLRLXJ8SQYY6Ni9NuaMMAaA3tZe6Y/p7+wsfX3VvQ4g7W40DMOpmqczFRcjHBExP6g53+6YIJv4z9STkF/zD7bzSl11f4vFIHk5TltEeB/EzPW5X8xpA==;6+fzc1kNcZEM13/PHcFVyQ=="
+secured: "rzs3pCM30zsWDd9aGL7kR9hcNhuMSgzY2ydjtk7me1r9lsd9/YnhLTyN3GFds7WSknQW9l6PVjmzGZBe+5rtbC8AKOQcsZm8OZUkQh2B0dKFnrrKdRtcF5IyR8CHiHycXOMTho6CIroCljIaQ22W29fRzWDTANZxn7tXbPIRw/JCIuFx7p/87O59UxiZwU17Tzbo/7C+D0FZwuKMAYnHsbSZuwFaanYjpHX8c7o0+tabUQblwUsl+f9sm7UFU/Kiwr9fT0mJPsrSFpq3jwz7s2up0hPj+DBLfDSikSeyUfHz7gnlmDzVoNYmS+9NPe5KX0QZ753jYGdkhwwbntVtKEO0a0pPnpyQVruqAzVAoOo=;N1s/OX0ubKiG8iM/oR7ZOg=="
 ---
 

@@ -24,6 +24,22 @@ topics:
   - AI Ethics
 
 related:
+  - title: "Google Launches Extensive AI Course for Free"
+    excerpt: "Search engine giant Google has announced 7 new generative AI courses that are completely free. These courses are meant to \"advance your cloud career\" and"
+    publishedDateTime: 2023-06-05T07:53:00Z
+    webUrl: "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/"
+    ampWebUrl: "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/amp/?fbclid=IwAR1Yaru5I1qSaH5ZSFdkBXI6BVqX218vhIRH4ivDhpeU7mUW_jhiSFyIhx0"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/amp/?fbclid=IwAR1Yaru5I1qSaH5ZSFdkBXI6BVqX218vhIRH4ivDhpeU7mUW_jhiSFyIhx0"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/06/geneartive-AI-google-e1685947361160.png"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "The Future of Generative AI from Google Cloud: What You Need to Know"
     excerpt: "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that"
     publishedDateTime: 2023-06-07T09:19:00Z
@@ -40,43 +56,38 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AWS vs. Azure vs. Google Cloud: Which Is the Best Cloud Platform for You?"
-    excerpt: "Spread the loveCloud computing has been one of the biggest technological advancements in recent times. Cloud platforms like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP) have opened up a world of possibilities for businesses and developers alike."
-    publishedDateTime: 2023-06-05T01:27:00Z
-    webUrl: "https://www.thetechedvocate.org/aws-vs-azure-vs-google-cloud-which-is-the-best-cloud-platform-for-you/"
+  - title: "Japanese AI startup launches robot for home use"
+    excerpt: "Weighing 10 kilograms, the Kachaka robot can carry up to 20 kg, including its attached table. It moves as fast as 80 centimeters per second."
+    publishedDateTime: 2023-06-06T05:56:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2023/06/06/business/ai-home-robot/"
     type: article
     provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 55
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 54
     images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/04/google-widgets-1200x720-710.jpg"
-        width: 2000
-        height: 1000
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2023/06/np_file_230773-870x489.jpeg"
+        width: 870
+        height: 489
         isCached: true
-  - title: "Does your agency have an AI usage policy yet? Here’s what you need to know"
-    excerpt: "As AI adoption continues, we ask a selection of agencies how they’re designing formal usage guidelines. How can agencies promote responsible use of AI tools without stifling experimentation? / Unsplash The emergence of generative artificial intelligence (AI) as a viable tool for the modern workplace has thrown up myriad ethical and legal issues."
-    publishedDateTime: 2023-06-06T09:27:00Z
-    webUrl: "https://www.thedrum.com/insight/2023/06/06/does-your-agency-have-ai-usage-policy-yet-here-s-what-you-need-know"
+  - title: "Glean Chat launches to unlock AI-driven search for the enterprise"
+    excerpt: "Glean, an enterprise search startup, launched Glean Chat, a ChatGPT-like assistant specifically for workplace productivity."
+    publishedDateTime: 2023-06-06T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/glean-chat-launches-to-unlock-ai-driven-search-for-the-enterprise/"
     type: article
     provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 37
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/147154/tdp-still-article15.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Genpact Teams With Google Cloud to Accelerate Artificial Intelligence Adoption for the Enterprise"
-    excerpt: "Genpact (NYSE: G), a global professional services firm focused on delivering outcomes that transform businesses today announced it is working with Google Cloud to help businesses accelerate artificial intelligence (AI) strategies,"
-    publishedDateTime: 2023-06-07T12:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9828204.htm"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Free - 11 AI Courses @ Google Cloud"
+    excerpt: "Generative AI Fundamentals(cloudskillsboost.google) Earn a skill badge by completing the Introduction to Generative AI, Introduction to Large Language Models and Introduction ... to-sequence tasks such as machine translation, text summarization, and ..."
+    publishedDateTime: 2023-06-07T21:55:00Z
+    webUrl: "https://www.geekzone.co.nz/forums.asp?topicid=305851"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
+      name: Geekzone
+      domain: geekzone.co.nz
+    quality: 19
 
 secured: "Otb8cbTVP7s+xxeMRcnHwedDuCIott5bN3zaLv187/PLU6nWsPQBMwdjCIpHd0v8FhPfouvmvhmCdqSeY3dEt95MRccw7Gy8BZ2MsBU/SDig/lYR+mYhDCyagdWao3Bfel2e4s8SAD7TyJQUcTsd2djPpyQMGZWn7zPxU3XRwbzrpFEm3yBsryYlnGDaIBY/fL3RfFSDiWVWI6YcmA8PsJEHUXBHYgSrLfVVMz7RbpWLf8VRHbcE/xwjR3qoc1kgkJSbNZ13vVBfjqyrbhK+Wf61sDEbH++Xmrqygvfn0IDrcDHIzEw7USPfRZaXw5E7cd8zhFyp/xlrbFwCXon0tkhAec2NpGINQwHO/h+slRry70BNnl7vtXSSa7oK4So1SYwhP5g5osVaQJ6Mp6XHrGR5nLW5+d6J89KtZVlGJCLc+OzoT3GoctcL4gqM1MXeNaIDiEIUMOdwoF6cXcG/rBiRHggtRuvvyQ4ev1z3p+0kn8xA8kTJKpNd3TwIT9Mfh1sBSwWXvpEuivd2ovtVqA==;dNQVlUWetDpm6f+MlLdBow=="
 ---

@@ -26,20 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Persistent Systems: Persistent Expands Relationship with AWS to Adopt Amazon CodeWhisperer"
-    excerpt: "Over the last decade, Persistent has continually expanded its relationship with AWS. As a leader in democratizing access to artificial intelligence (AI) and machine learning (ML) technologies, AWS plays a key role in making Generative AI easy, secure ..."
-    publishedDateTime: 2023-06-07T08:10:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59279292-persistent-systems-persistent-expands-relationship-with-aws-to-adopt-amazon-codewhisperer-008.htm"
+  - title: "Accelerate PyTorch with DeepSpeed to train large language models with Intel Habana Gaudi-based DL1 EC2 instances"
+    excerpt: "Training large language models (LLMs) with billions of parameters can be challenging. In addition to designing the model architecture, researchers need to set up state-of-the-art training techniques for distributed training like mixed precision support, gradient accumulation, and checkpointing. With"
+    publishedDateTime: 2023-06-07T18:42:18Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-pytorch-with-deepspeed-to-train-large-language-models-with-intel-habana-gaudi-based-dl1-ec2-instances/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: AWS
+      domain: aws.amazon.com
+    quality: 65
 
 secured: "p+i98djx88JvXxPSnhlC2o1WY7FJOenrjpSABWu9Ie85GAjanZipdFFa+3ciWYqFR0faY6HAvio5Ah4THtZHnxgQmQppc3XDczjayfiVHLUKuhH1EZ0n3kVafKJfkEouMNrpKCoDNlGgDWRVvc4KZLoBe1zqk/urTsxlGEqcI57tbHvMnjj3Dcv2hr9cIFiynsSSE/lpcgYqfNs4VoZKI2boj5RMJQhTo0he8nlhfOqpq0v5pyMavK6i+4RZLFn8g11aNmI5/aKRZrxfqS1PrHJeaac+yvhotb4yvPmarvLFFhetdHOt0Z7ywxVL9cGPch7EUMOmg/K1zgz8uUrx5XY0u3TbWAVoLzjAhdplYQQFxnFKNHZ1UppsM2gjL7QKhRXpDPT8H59TJL5kSaVq752CbnuBJ8xug3LwWYZ8LrWuv7Zk0c/mU4M1+40NTYC0BKCzIcuKcyfYYCGlOAgeagqETASufki6gp2ym/QSuOjjQvmJGxeadstB2YQLC2wQSR/OQHDq40xieo0K5LQ7Rg==;rIjzEfzOGBcu34G9qKVsXQ=="
 ---

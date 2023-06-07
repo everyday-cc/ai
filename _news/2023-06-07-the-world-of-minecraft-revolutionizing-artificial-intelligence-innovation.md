@@ -24,6 +24,17 @@ images:
     height: 746
     isCached: true
 
+related:
+  - title: "Banking On Innovation: Q&A With DBS Chief Data And Transformation Officer Nimish Panchmatia"
+    excerpt: "Nimish Panchmatia, Chief Data & Transformation Officer at DBS, speaks to Global Finance about how the bank is transforming its business with innovation."
+    publishedDateTime: 2023-06-07T18:58:00Z
+    webUrl: "https://www.gfmag.com/magazine/june-2023/dbs-chief-data-transformation-officer-nimish-panchmatia-interview"
+    type: article
+    provider:
+      name: Global Finance
+      domain: gfmag.com
+    quality: 0
+
 secured: "+vBkJgpEUSRPjuwFJ6Q4vzMdNXR5zLJs2vSnaukvMvD37bgF5PFuLWrwhQvtSD1Kz70oWNBetg74RfpMO0ciLFmHddVctFc4WsabmUuhRypfcKlNLJ44b2a05DT3eLsNmtj88We15ccCGLqEqAsgQGdQkf2wiSJLnujfPAgZEzYuEv43wGkQ2qPs2aqHt9jkHMha19iST7IFMPi/+FqYZw3lj/ken0W8Aktsz2v0+Mu7BYr5GlkcLqw4JLoJbyGa7+hBAAbqpdKuA7kTBoTz9BVC0DEUFyIlKm06bTvVtLWDnFFf7PvgCnmHw7WIxcor+BN2JHGXX19F6SzzbR4HNlVvvW3Iprowtclk6UR3Hnck8XW7GYmSOXCJcSJCupdaQwA2dXqFyN/HYZnZBIZ72tzIppbkg0iknuBie86o/GmaHBK7CmHU/YSxJQc0KfGWtMxu8S31cKQvtmw/Oh8P8hWpnHqMt5ShTKXFJBq+VLJQakfoHiOReud+gcYJtZd6RRAJUz4pEiiwfi7hMIomRg==;NGEqYVY7dxXUrg+LVOHpjQ=="
 ---
 

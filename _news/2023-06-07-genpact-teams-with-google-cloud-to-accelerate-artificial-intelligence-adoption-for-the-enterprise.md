@@ -19,58 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "The Future of Generative AI from Google Cloud: What You Need to Know"
-    excerpt: "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that"
-    publishedDateTime: 2023-06-07T09:19:00Z
-    webUrl: "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
+  - title: "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise"
+    excerpt: "Founded by former Hugging Face and Meta AI researchers, Contextual AI raised $20 million in seed funding from Bain Capital Ventures, Lightspeed and Greycroft. Contextual AI emerged from stealth today"
+    publishedDateTime: 2023-06-07T16:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32762843/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the-enterpr"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32762843"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32762843"
     type: article
     provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
-    quality: 59
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
     images:
-      - url: "https://img.jagranjosh.com/images/2023/June/762023/google-ai.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "AWS vs. Azure vs. Google Cloud: Which Is the Best Cloud Platform for You?"
-    excerpt: "Spread the loveCloud computing has been one of the biggest technological advancements in recent times. Cloud platforms like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP) have opened up a world of possibilities for businesses and developers alike."
-    publishedDateTime: 2023-06-05T01:27:00Z
-    webUrl: "https://www.thetechedvocate.org/aws-vs-azure-vs-google-cloud-which-is-the-best-cloud-platform-for-you/"
+  - title: "AI-Powered Hyro Raises $20M to Advance Responsible Artificial Intelligence-Enhanced Communications for Enterprise"
+    excerpt: "Hyro, which claims to be the leader in plug-and-play conversational AI, announced that it has finalized a $20 million Series B funding round."
+    publishedDateTime: 2023-06-04T11:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208056-ai-powered-hyro-raises-20m-to-advance-responsible-artificial-intelligence-enhanced-communications-for-enterprise/"
     type: article
     provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 55
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 35
     images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/04/google-widgets-1200x720-710.jpg"
-        width: 2000
-        height: 1000
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Machine-Learning-Artificial-Intelligence-AI.jpg"
+        width: 1400
+        height: 1050
         isCached: true
-  - title: "Google Launches Free Generative AI Courses - Stock Continues To Rise"
-    excerpt: "AI has driven the tech market to new heights this year, bringing new investors into the ring as the craze continues."
-    publishedDateTime: 2023-06-06T12:09:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/06/06/google-launches-free-generative-ai-coursesstock-continues-to-rise/"
+  - title: "Artificial Intelligence: Sana Raises Additional $28M Led by NEA to Build Universal AI Platform for the Enterprise"
+    excerpt: "Sana’s mission is “to augment human intelligence through artificial intelligence.” To that end, the company has “built a category-defining product that blends the best of enterprise search, a learning management system, meeting tools, and a ..."
+    publishedDateTime: 2023-06-04T21:20:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208054-artificial-intelligence-sana-raises-additional-28m-led-by-nea-to-build-universal-ai-platform-for-the-enterprise/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
-  - title: "Does your agency have an AI usage policy yet? Here’s what you need to know"
-    excerpt: "As AI adoption continues, we ask a selection of agencies how they’re designing formal usage guidelines. How can agencies promote responsible use of AI tools without stifling experimentation? / Unsplash The emergence of generative artificial intelligence (AI) as a viable tool for the modern workplace has thrown up myriad ethical and legal issues."
-    publishedDateTime: 2023-06-06T09:27:00Z
-    webUrl: "https://www.thedrum.com/insight/2023/06/06/does-your-agency-have-ai-usage-policy-yet-here-s-what-you-need-know"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 37
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 31
     images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/147154/tdp-still-article15.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg"
         width: 1280
-        height: 640
+        height: 960
         isCached: true
 
 secured: "SRzMPlhpLzeX+q3bOywx5xqA4VhrRaEQiMMnxl41fs2KoZ/XDmfXG1XoYAS73z+rYhdj+wDgKF82ITxJS3yuiVshjodvwH3JgD6xQx6K7mxcScBQwJGkUurwqWAea8u8OrZrfNyZbuSWd60GS1i1We5OESXl4Tef5I1sav/qYZ0siTc8mmh0MJLN00jthhB1TWQmGCYBlBDgLDlXuOKHW4ABIpOtkr6xh9J1DLzt5AvuF6E1H7ZpAEeRmCDVuYHwEqLrOp7ATTGzSQTprpQwo/j81Dw1UmAhf+2U5eXD0W6V/Bh45V+32DzEKBBahzvPUbf8KjgxBKyrFffux7RRluNzmclhLq0EXE2wz0ni6F3MyJQTPQv2rZrKHna4VeUjrpuCIYTfwvGoaUem4t8IwcINirL3gIk6G/4p/oPDQu4LIT2cw2cigN7ozpeHtNttQWTfyg7xsGUeOrSIdGRj3Kc6kXQBs3sernfOc1ZpTdCPLFyZEmvB9gdEUNd6BaRx+iTeUq5PBOn7oQSekEzPLA==;3AjGcSrq9QUVZpOOVmObIw=="
