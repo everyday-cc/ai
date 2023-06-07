@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-ris
 webUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-rise-of-a-fintech-startup-using-ai-and-human-insight-to-fight-fraud/"
 type: article
 quality: 65
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647e885f569e20559457b388/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Fintech founder using AI to improve lives and livelihoods in Bangladesh"
-    excerpt: "Women in Tech Excellence Rising Star of Financial Services awards winner, Shabnam Wazed is shaping fintech, using AI to make financial services more inclusive."
-    publishedDateTime: 2023-06-02T09:31:00Z
-    webUrl: "https://www.computing.co.uk/interview/4117005/fintech-founder-ai-improve-lives-livelihoods-bangladesh"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/d87be48/eabf10b8-256a-43f1-8809-6fdf5f835566/7/Wazed-1-370x229.jpg"
-        width: 370
-        height: 229
         isCached: true
   - title: "3 Undervalued Fintech Stocks to Buy in June 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks have continued trading sideways since the selloffs in late 2021"

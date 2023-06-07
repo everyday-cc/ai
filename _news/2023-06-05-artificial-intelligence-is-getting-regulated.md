@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/"
 type: article
 quality: 87
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -80,15 +80,6 @@ related:
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 19
-  - title: "Japan Announces Groundbreaking Regulations on AI to Protect Artists"
-    excerpt: "These regulations are still coming together in Japan with officials, but this move is a watershed moment for AI and artistry. Currently, creators in America are facing down Hollyw"
-    publishedDateTime: 2023-06-06T17:48:00Z
-    webUrl: "https://comicbook.com/anime/news/anime-manga-artists-japan-law-ai/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
     quality: 19
 
 secured: "XT115ya5xA44uGmEPikIoNUa3UhGuNtmsmOluJVmGwVTCKhrZ/yCU4kFrOPB+3VTUBOvaoAc+TkVrTzVYcKE3SHwLyQVeTbMVaZgXGwl/u9bjg+fQdVDyCclB/qCSejyisgTDcqvIxPmUSbFR2L8gWOOW9SWfqGiTBe17AgvK8vLFXh29tE0D/QztRlkjV9xCLt7ajl/WXU5dK902AXO3wLjiSYfCUtYQjrxp79cWUwMp+uz+QH7oYf7qgYC9/SZxX2fZh3wR6fWOqeHPb5Lxw3JMHs/W3sItINZ79Xxf/cOECfAXHLVlLcacfeWOZz6zoYetCW+o2liW4AJPMALdvbqQj/HLGwttv4utg+Wd/Q4p6DIHsC9TzfwUS+JL/Rmbtrj2VawWMx/691RQpuoBp8dEQ0uG2UalX3cb0pR7yjZZm+fYIP5etodQNvJCXXts7RKZRWQiror/8lws9MUnJBOEjaQWHKEAF5W2/ZSZNnNkrEfg5JKftuwFlc6sFN9rpJyIgenfY5HjD5yoI5o4A==;S0qCPjzHC8wrm7C1ujkjeg=="

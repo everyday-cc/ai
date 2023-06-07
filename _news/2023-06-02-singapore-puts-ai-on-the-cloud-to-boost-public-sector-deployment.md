@@ -54,6 +54,17 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Singapore to encourage development of international AI standards by open sourcing AI Verify"
+    excerpt: "With the AI Verify toolkit, companies can generate testing reports that cover different governance principles for an AI system."
+    publishedDateTime: 2023-06-07T02:11:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/singapore-encourage-development-international-ai-standards-open-sourcing-ai-verify"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/singapore-encourage-development-international-ai-standards-open-sourcing-ai-verify"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/singapore-encourage-development-international-ai-standards-open-sourcing-ai-verify"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 29
 
 secured: "nOYa5SW1mQqYqAWT3fQR/bqXiTLLoHPWLPEv+iOtFN1Vm+72x32d5pZeVm4MNSo9seZVYvNzzSgDBUpxxf5EfP3vhX+xn4AbqcmBiNnYlKQyfFevu8T5fy97TPADue2tkeMuNErdDzhA1Zalosj80O9/nqpJu2lUIU5xfE6Jn2fHE+DjJbnQUJUpv2bN2DL4yrzQ06UyogOWIuz1ndnB9VMnIlcXprUcEA//C0YPWLq5cFxGEvADpesOhaVwgDBftZmAHAY21tDXcEmRSjjDnEqRv5LMUJeYmTTLhWUtSNJDkmQPezBUfymsXuTuWmabkvR3VfeO9l3vsPAfteyWSjbE/EHvWZMaEJRIWRHShIWTP4YSPLplq21k+XcszKDXKyIxKQJQ7c9j42zGfx+MSapA96q3ZVp6brzO2OayFhY3GWpo98FRt+pEFWHPcJxukT+euDQM82EyBN9riQQ7ndeaXB0XlVjKqujs71QOf1QvkOBKGk88TXHvb27H+RCcFup9zo/zc7v464xZ62XATA==;K9HxRDXjPnBXOvZJV3kNCQ=="
 ---

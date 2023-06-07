@@ -107,20 +107,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "Microsoft signs multi-billion dollar deal with GPU cloud provider CoreWeave to meet AI needs"
-    excerpt: "CoreWeave is a specialized cloud provider built for large-scale GPU-accelerated workloads. The company raised $200 million earlier this week - just a month after it raised $221m a"
-    publishedDateTime: 2023-06-02T10:35:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-signs-multi-billion-dollar-deal-with-gpu-cloud-provider-coreweave-to-meet-ai-needs/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 60
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Co0DdFuds6RRYbWvYxU/TdMvpmzsuw2HrKwMJaIicqPRRRiC3L0LlzasUuNtMZLBVPrNbiVBaHpvpX7PZGt4xYJOCa+tsEP+85RHYpN9cbfK03/4ZTj5ZBctbjzRlmeqfqDOq4yUqx4jzrFtkPX1GQPuW2EEIjbsZcGeWG4/74o4InLyrNR+QwG4g+ssZTsSfu7TMKfqBHPEm8kVKSD8V5rVES8a67H8K+t7xpXh0EkhGcfXjJ21uscDo346dBdtfqvtrYoILtHOVFGeWoZ3KnUnIavm5cUCUkyI06/HNddRQgwh7EasoEACWsPgwGbJFGeuNG7j/9h1X7T1kpBSqR4Q4AmD+FnEjjmvZldzvrg=;9dyIjmxaFkkIiaGYsks32Q=="
 ---

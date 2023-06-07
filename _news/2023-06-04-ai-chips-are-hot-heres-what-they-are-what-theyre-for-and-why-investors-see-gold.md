@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Nowhere for Investors to Hide From AI Hype"
-    excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
-    publishedDateTime: 2023-06-02T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-792763/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Nowhere for Investors to Hide From AI Hype"
     excerpt: "This week, chip maker Nvidia was briefly worth more than $1 trillion, thanks to investor excitement about demand for its chips created by so-called “generative AI,\" the technology behind ChatGPT. Smaller AI-related stocks have also soared as investors search for the big winner from the latest fashionable theme."
     publishedDateTime: 2023-06-02T23:59:00Z
     webUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html"
@@ -71,6 +57,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "AI chips are hot: Here's why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make"
+    publishedDateTime: 2023-06-05T15:04:00Z
+    webUrl: "https://www.news-journal.com/news/business/ai-chips-are-hot-heres-why-investors-see-gold/article_6d44afb2-03b2-11ee-bc1f-e72181d9132a.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/77/d7709f22-03b2-11ee-a124-0bc30dd5c12e/647dfa9936f24.image.jpg?crop=1646%2C864%2C0%2C196&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AP: AI chips are hot. Here’s what they are, what they’re for and why investors see gold"
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed"
     publishedDateTime: 2023-06-03T01:02:00Z
@@ -82,6 +82,20 @@ related:
       name: 92.7 WMAY
       domain: wmay.com
     quality: 46
+  - title: "‘Fear of missing out’ drives retail investors to ride AI wave"
+    excerpt: "Retail investors have increased their exposure to technology stocks after missing out on the market rally driven this year by artificial intelligence, with many having preferred cash or low-risk money market funds."
+    publishedDateTime: 2023-06-06T04:00:00Z
+    webUrl: "https://www.ft.com/content/6cc9c9d5-7006-43c9-8cb0-147a74031402?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff776ecfb-8eef-46e1-9643-99522a32f4a2.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "53J6+FUPrWiWEIJVhih8TT0y9kwUhybpIiCsF+C61/M8YflzrnmLeJYYMu+zs6MY2bmg8Niku4osxVWQNWZMgTRjAy5LDgPDptXllK0ru8DJhWo3qsHZfPsLoJFn2tDnPYHwoM0pVhoVuddnA5F7MKTsFmrskur+RDUCCViIU6LkncKMBiOkUnPyWsBHsbKuyC4qY7+seA6ycdNtSDgBHOPyRpw3HBhPhO38zD2vBO1+h468M7if8OUcuYMygYvruKhah7OGePuryhj4HgFcCdRXQY1aac+UZyCY6KiG4z2fjrGicG/QSxvA3NluSXLkKxcR7Qe77JZ1QZv0qU+xOz1f2JgRx2I19EaUkTrkZOQSDjVEAnSS2KJm6mMps+HBxyt8fg5GhNH/0wxbP82hMsDhwhwoyK6aUEdv0MEA9ap3pjLasXPHdAiEPeN5z+sO3VeaXjmTT7PGmSrERjUfp6bgxaVuxRbvljfDLZFYjO4Oi0bk3ii464AxI8cxO1mQJ5RtcxmqzltMMrf0osJBxw==;0UuZdBQcLlZPZLeEwsJ5Gw=="
 ---

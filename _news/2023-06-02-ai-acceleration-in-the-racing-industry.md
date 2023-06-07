@@ -289,9 +289,9 @@ related:
       domain: bizjournals.com
     quality: 7
   - title: "Automation Anywhere, Inc.: Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent automation services SINGAPORE, June 6, 2023 /PRNewswire/ -- Automation Anywhere ..."
-    publishedDateTime: 2023-06-06T10:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59269919-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
+    excerpt: "\"At AWS, our goal is to make it easy ... The company offers the world's only cloud-native platform combining RPA, artificial intelligence, machine learning, and analytics to automate repetitive tasks and build enterprise agility, freeing up humans to ..."
+    publishedDateTime: 2023-06-06T10:24:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59269783-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
     type: article
     provider:
       name: Finanznachrichten

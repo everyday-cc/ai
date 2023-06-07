@@ -77,15 +77,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Japan Announces Groundbreaking Regulations on AI to Protect Artists"
-    excerpt: "These regulations are still coming together in Japan with officials, but this move is a watershed moment for AI and artistry. Currently, creators in America are facing down Hollyw"
-    publishedDateTime: 2023-06-06T17:48:00Z
-    webUrl: "https://comicbook.com/anime/news/anime-manga-artists-japan-law-ai/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 19
 
 secured: "qvsWguGCzkh857vd0lga0f8F41UaeVQkruuInpIKK0PTr3kwqiIGbaFxnhtYJazLXzffusyYEBzRbCtjpnjpP4a7ykjFQK3xboj6CGhZh+d6AqdQq6h9tUusw6wpjOlxpKtN6ZLhSCIjBS+g8UqE26QzIaVcLWakv8ta1dVta5y0c69JLIZEvSMSyrDQk3PpnkAuT+LahIvaP2af214iboEK9gkeAQQvuAKJZTU6bzdt5xlj/XCl7b0+VGZvBvdvLncFATHZQfhsfN8O+kfWaID6QAnqHCrWAUcQ/qo2S7rgiZrdiSMunlf59K3QE8lqMnPlsKOtZuwsTGzKSXRKXBWbtxfkBp0wFzJTGhALlYCEftRbCU+xPz61y84Za9zCuh6i55Q68Yc5rAyrCsD2Lc3ivNnwEyoIVIwHAJTv064Du19yt/wGAYTqAvzF7Ew4MWx/M8NlYZZggYUHq+xBcNYGxjklilghDbU9gBVdlbTuvk/Uze0FsXMzgDzw7DKfW1Fncdi0QRlPhNGRUvmXDw==;IUVjaEbxTcfnMHQeFzB8+Q=="
 ---

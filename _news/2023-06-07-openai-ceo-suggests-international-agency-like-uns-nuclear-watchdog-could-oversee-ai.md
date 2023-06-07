@@ -66,17 +66,22 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "OpenAI CEO suggests international agency like UN’s nuclear watchdog could oversee AI"
-    excerpt: "OpenAI CEO Sam Altman is on a global tour to discuss artificial intelligence. “The challenge that the world has is how we’re going to manage those risks and make sure we still get to enjoy those tremendous benefits,"
-    publishedDateTime: 2023-06-06T15:08:00Z
-    webUrl: "https://www.seattletimes.com/business/openai-ceo-suggests-international-agency-like-uns-nuclear-watchdog-could-oversee-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/openai-ceo-suggests-international-agency-like-uns-nuclear-watchdog-could-oversee-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/openai-ceo-suggests-international-agency-like-uns-nuclear-watchdog-could-oversee-ai/?amp=1"
+  - title: "OpenAI CEO suggests international agency like UN's nuclear watchdog could oversee AI"
+    excerpt: "Altman made a point to reference the IAEA, the United Nations nuclear watchdog, as an example of how the world came together to oversee nuclear power. That agency was created in the years after the U.S. dropping atom bombs on Japan at the end of World War II."
+    publishedDateTime: 2023-06-06T15:18:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/openai-ceo-suggests-international-agency-uns-nuclear-watchdog-99870107"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-ceo-suggests-international-agency-uns-nuclear-watchdog-99870107"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-ceo-suggests-international-agency-uns-nuclear-watchdog-99870107"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 30
+      name: ABC
+      domain: abcnews.go.com
+    quality: 50
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_10b15d748212be7dc5d09eabd642ff39_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "GDdtaAcI0nFZ+VJJuzMphf8LHMYPt9OWVFwjNTYqBLcL9IS+xpSji3kUEgdUT2gk6DHrdrBJVchRxw61i8NPbFG7sbGbwdCQVTvZScR973rA1vcMmwuzoCg+CyWF1e082cHGv1Reep7cz4ypBQ988dhwddY0MzqFviFi1w+I90O6ExnJKaW8AFfAU7qPeJRnR2UAh9QJIoDhuP7/DABLp+A5u6QOcTJuifmy2xA818r6DyK2dKUDA5bq8WxAhNpxIeNc4rayXzS0D9+Ud9MwCDvuBhm1/v4pElE91K9jcTjyqOApX1qiu0rNogiGB6o+OsumysFVSJ3rk2SUcrJTREH4NaYC9c1YsKQNkLZjd2V/DDf2QbxHNwiP9vqfAWeY70qDRREm6OBnGEaohMAL4+x1iWtulD/hn15sMAljDAIDzOLptwDXUOtcYalo9PzFjU5/Qa+fgGUFoZIhD1fex8TUidFbC9Cn9QfdAfFnfIpkrLcgAcr1pFydGpltDWp00Nr/A+cZK6j60PTgPB1pyw==;v6vKSHn2XwDKA7QvrlL7Yw=="
 ---

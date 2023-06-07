@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AntChain Introduces Privacy-Preserving Computing Platform, Offering Data Privacy Protection Solution for AI Machine Learning"
+    excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC)."
+    publishedDateTime: 2023-06-07T01:51:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/AntChain-Ant-Group.jpg"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "0ex0zvtRF/+3zScp7Bsx4Auw1dJrVZ6YMrSDsYd4WHXtub1nFh2qHGlP9se0hebfDxI+1UnC6+xj+FsXyv1SWFX9BjcaPry0Q6i0DM0lpgXyJhiOLvsZiwHYoEZgF8Gl5WaPp5xJpkwYm2/OzLSl1U/TNBq7I/pn7JzqprZZlUAWEsOQYH6MRHKwLlYVRVK9YjZqVmq+J6XZmDIWPmSLR+yPxEWAtQvP6dH+f9pr0b6ZjL6KnqREG+XjeZT25A85ls2ZPeeeM5l4NOszAxNnsdvaG6vqNP+2kHWrwq/5hNr7vl1+pG/0vsJbP6wsFHuazRl6oecOilKuro9PHS2Cj3MxwhEZR26QqM55r3tj2tA4C6yKeN/wKuEay3kBo9PtKTVFcJxfigH0hS2MfrMn97gMgi2MOPvpBBOJqMFAFajKrFZmhb2gOk3sI4kcwy85N0jR8E3Z1CXhK+MkseYU6X/77Fz2s6KtzbkpWG03XOMWSN0qEdQ7wj6aUPczuod6CA4BmrMfaXzj0IqnoffyVg==;5NywMXn/IKEKwgtpk/fadg=="
 ---

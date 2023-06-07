@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Mint
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nowhere for Investors to Hide From AI Hype"
-    excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
-    publishedDateTime: 2023-06-02T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-792763/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "RXO To Host Investor Webcast About Artificial Intelligence and Machine Learning in the Freight Industry"
     excerpt: "Event will feature a conversation among Yoav Amiel, Chief Information Officer, Jared Weisfeld, Chief Strategy Officer, and RXO technologists RXO (NYSE:RXO) will host a webcast for investors about arti"
     publishedDateTime: 2023-06-05T12:31:00Z
@@ -56,6 +42,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "AI chips are hot: Here's why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make"
+    publishedDateTime: 2023-06-05T15:04:00Z
+    webUrl: "https://www.news-journal.com/news/business/ai-chips-are-hot-heres-why-investors-see-gold/article_6d44afb2-03b2-11ee-bc1f-e72181d9132a.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/77/d7709f22-03b2-11ee-a124-0bc30dd5c12e/647dfa9936f24.image.jpg?crop=1646%2C864%2C0%2C196&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
@@ -82,6 +82,20 @@ related:
       name: 92.7 WMAY
       domain: wmay.com
     quality: 46
+  - title: "‘Fear of missing out’ drives retail investors to ride AI wave"
+    excerpt: "Retail investors have increased their exposure to technology stocks after missing out on the market rally driven this year by artificial intelligence, with many having preferred cash or low-risk money market funds."
+    publishedDateTime: 2023-06-06T04:00:00Z
+    webUrl: "https://www.ft.com/content/6cc9c9d5-7006-43c9-8cb0-147a74031402?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff776ecfb-8eef-46e1-9643-99522a32f4a2.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "zJ68iYZVRHpDTOXo15NGHFaHL3r0gpQPlhyNBPD0atp9oqKKc+UfWK5nQQ3+EVaPnJxXpXcMU2zCK6Uh1LNB7f7Mv/gDhujtvnFBbC9sbrvmuS2SqFo5PkinR543AZhB2tWiYQIneIedGGIDIsIZ6YdSoVs1VjrjcBS70esFYOuRSjnuFiTHUqJCSr9JAnDKz0eapISwPCfkyFoaQeK0194vniYq8aptC3ZcxwmvysSldVAN+OLwd3Xz/dLOKsi15hIe7yo90ZTOC+odziko1WDuPCz6IGpeMulnt52xkNQab3mNSBAJWqSiJT/DDIevaocrRM8/m9d+y3iEBJFIKSeODKTlihnIlfztE+kP8R7gejYsetzGYSR412ufHoZn7Toa0sbH+FeWpzyOcXNt6z02JFYUzei4ipTa23idv11c0iuereelQdn+x8tlKpXZL0f1CZGCW1ipMbSkcfe4TojnvD4ZS6dzT4gX3WXEM9tVxim2oKmmwPIJdncyD6UVD31aByfDnsc8dZwRh+66YA==;/Dj7/KZOwjJeMGJmpco+/Q=="
 ---

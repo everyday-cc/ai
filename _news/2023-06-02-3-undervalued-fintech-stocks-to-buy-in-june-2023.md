@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fintech founder using AI to improve lives and livelihoods in Bangladesh"
-    excerpt: "Women in Tech Excellence Rising Star of Financial Services awards winner, Shabnam Wazed is shaping fintech, using AI to make financial services more inclusive."
-    publishedDateTime: 2023-06-02T09:31:00Z
-    webUrl: "https://www.computing.co.uk/interview/4117005/fintech-founder-ai-improve-lives-livelihoods-bangladesh"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/d87be48/eabf10b8-256a-43f1-8809-6fdf5f835566/7/Wazed-1-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "AI Disruption in FinTech: Exploring the Impact of AI-powered Tools Like IndexGPT"
     excerpt: "AI's use cases in fintech continue to grow, from data analysis to customer service. New sophisticated tools like IndexGPT are being developed."
     publishedDateTime: 2023-06-05T10:35:00Z

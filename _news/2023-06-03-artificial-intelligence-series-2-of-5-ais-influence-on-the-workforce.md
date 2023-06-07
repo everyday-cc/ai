@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-inte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -123,15 +123,6 @@ related:
       name: Foreign Affairs
       domain: foreignaffairs.com
     quality: 21
-  - title: "We have bigger worries than AI"
-    excerpt: "Now, all of a sudden, we’re told that artificial intelligence is a growing menace that should be considered as potentially dangerous as nuclear weapons, climate change, gun deaths or even the mind of Marjorie Taylor Greene."
-    publishedDateTime: 2023-06-02T09:38:00Z
-    webUrl: "https://lasvegassun.com/news/2023/jun/02/we-have-bigger-worries-than-ai/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 19
   - title: "Keeping an eye on AI"
     excerpt: "Sunak is expected to discuss the idea of a “Cern for AI” — a research base modelled on the particle physics laboratory in Switzerland — with a global regulatory body that could look something like the International Atomic Energy Agency."
     publishedDateTime: 2023-06-05T17:15:00Z

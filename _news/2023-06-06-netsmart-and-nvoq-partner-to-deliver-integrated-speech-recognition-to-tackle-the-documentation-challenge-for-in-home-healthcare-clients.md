@@ -2,12 +2,12 @@
 category: news
 title: "Netsmart and nVoq partner to deliver integrated speech recognition to tackle the documentation challenge for in-home healthcare clients"
 excerpt: "As part of the partnership, Netsmart becomes the authorized reseller of the nVoq speech recognition products for Netsmart clients. The cloud-based speech recognition technology will be seamlessly integrated within the Netsmart myUnity EHR solution,"
-publishedDateTime: 2023-06-06T13:53:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/06/9827449.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827449.htm"
+publishedDateTime: 2023-06-06T15:02:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "NQblNq5S7zJ6Y1VJYCzxdfWe/n/Vne8EEs5Ujx7qIfb07b7Cxm04HWTRmg3iVuD0ecl7+0btVCQ1rkg0gKcXR4DRFkpuTRJHj7+8026FWkur+XY+GTxmFh7BrKTFUD2rH0sCqSaHxm8t/aGdS0tbCIe7KHTalNA6sEd2/zMDbRtyxDNpntVmWY1VLhwdOZuy2OlGaDPRU4if5Oo3RTEE43CyzevwY23IDPym7lpWth3W2aM+L9FF97UrHTorVCPG12GHgScD3hJrVEKL8XfOBhTkGausMBvEOkMkMAZfY/ukmgKNLyNrUKSnf2u420/2nAQLkALh8+7hWCWp4V01dD8Vy9QsvxpazzfS20BA1tGGeqLCsSVrKdMnh94lSwhDlUwuqcxHJK8LUA41qc7l7C9OY8b2a0kYTbT2s3wmXXKkiWBLJ7wLzyWWEiQIXQk1tX8m/JWUqqJ86A2Bl8MAS4fREgNHWSGI92y8MJaXLxSDDqq7XUmDeCxCySBMTAZJ4f4A38ad73aQDdX/rrH0BQ==;47X8ZFt2MMpaaiTxtNRHAA=="
+images:
+  - url: "https://mma.prnewswire.com/media/2018676/nVoq_Incorporated__Logo.jpg"
+    width: 300
+    height: 300
+    isCached: true
+
+secured: "Rd3T/zi3fzgUaIG9KPzY4R6P34RGZpnBs+j38CLb6tyNUufIDAZ8HexmaQ88VhOHmZiSZg+UkUYnAS6j5Y/JvHQqODItBraqA9HFiuYM/cesGXYGM+iISe9n7+69TYjtLoK9mZGo4JkQ7ODShKzSRHvXjXAH24pgdFsFjSQ+FessJ2uZAtOs4mVGpB18DmJoQXalfttBNwqHkXEDjOjKS7kbwaKFzu6Isd6D8CXDz/+WbtfJZm2oKdbrZth8Yb9oioeWDgdhmG8X1P38MLbwjyYsKKxsH1didrTmsQGGQ5XNsqELBhTBaGHBqIg8S1LhablJ6Z6AiJq4EPmQecsTVrXL+25l71IGlhXom73YODo=;iikjUlQ4B3EV8X2xwsMWAw=="
 ---
 

@@ -28,9 +28,9 @@ related:
   - title: "Mount Sinai Researchers Use New Deep Learning Approach to Enable Analysis of Electrocardiograms as Language"
     excerpt: "Mount Sinai researchers have developed an innovative artificial intelligence (AI) model for electrocardiogram (ECG) analysis that allows for the interpretation of ECGs as language. This approach can e"
     publishedDateTime: 2023-06-06T19:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/p32746178/mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32746178"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32746178"
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32746157/mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32746157"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32746157"
     type: article
     provider:
       name: Benzinga.com

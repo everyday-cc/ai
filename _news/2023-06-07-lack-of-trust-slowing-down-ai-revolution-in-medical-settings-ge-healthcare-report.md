@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AntChain Introduces Privacy-Preserving Computing Platform, Offering Data Privacy Protection Solution for AI Machine Learning"
+    excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC)."
+    publishedDateTime: 2023-06-07T01:51:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/AntChain-Ant-Group.jpg"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "Deep In Sight unveils groundbreaking AI-powered 3D depth sensing solutions at CommunicAsia 2023"
     excerpt: "Showcasing In-Cabin Monitoring solution and Volume Management System which are Deep-In-Sight's cutting-edge 3D Sensing solutions at CommunicAsia 2023 Deep-In-Sight's solutions are expected to meet the diverse demands in the growing global robotics,"
     publishedDateTime: 2023-06-05T23:22:00Z
@@ -60,6 +76,6 @@ related:
         height: 251
         isCached: true
 
-secured: "mgKnxkOYrxvoT1XEokWQvmkn8mnc6t2v86w+GhAk51GDAxnukYhXWVciNFxSopo/xEiZQJIonmAEs3SbhYsVOP561wS9/3MegED+N77ba/4JeaKAZcmVIMnZA7kZ9Ge7mm4VeaXY6+n3EyptYjJRBOQbD5wRfp9oqxVxmf6zwfX91XKsTRf2FVgKAEK8t928c8eZ89ubMp1bMLy05Vi0RTQ0PJBUlTWiAcxgaDwzFTj1HG5Q6Jkf//ZsgLWeopLJpBT04d1mwDjkNhzA0Ecg6sNML5oKj5H+KHw9pOc+reYZYC9OWT6CefA1XS+GLocQh0pp4n+UrO7oVH7iY39tKBYBTehl+GgGAPQbu62Y0Ec=;WVcK+cZZrD7hkiPOrfAsyg=="
+secured: "fVWb5PtNINLXh8WeLnRVgYi9mBaxh3X96xpaXBFha2lVUGCM4zKir9/V2uv3PU4D24cCbuTQR0w7PeVS3TpOdOdrsw4cZq/nfUSwZX/rlLaSsRmzrEWXMlzeF6oHL6og+N8G9K4DQLqMjR7h8OkKwmsIN2XKJAHcuu/NcZvkusKnohtcnEuZ5t55SlB+9DALwyo0ejt3Hkkwvj4pVw8twgtJVhp02gN/wy47wJPzp3FDvSMJQ5sXDJ5rRf0FUMcIDPxbNx7nNwa/lROqm5wuuyZH/cSPUEocVv1IEtStqC9oP6gcdZF0kwJfZbIvcjIovj0QCBkrXeZ1g+CuGJHndjOn1aWuUg4O8/A3+oUPCtxKszMw1duV3y7CwWot+O2Xk0l4Nn8xfaYf67N4KvyRxme7f+na4SpTePHPhPVQxTy4Qzf6XXYfn4d0SbmX9tcJOYz9ug6dlrFMBE3OsVEB3CaNmeIyjYOfNjTnACw1EGVM9BOZWWdVEnOicKtnshVv/8lQnRVZwW653ft3erKdYA==;Nw/M8hajZvIQw1QC1lOXGA=="
 ---
 

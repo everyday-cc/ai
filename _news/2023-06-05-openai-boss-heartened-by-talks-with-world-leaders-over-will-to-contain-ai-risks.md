@@ -58,17 +58,22 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI CEO suggests international agency like UN’s nuclear watchdog could oversee AI"
-    excerpt: "OpenAI CEO Sam Altman is on a global tour to discuss artificial intelligence. “The challenge that the world has is how we’re going to manage those risks and make sure we still get to enjoy those tremendous benefits,"
-    publishedDateTime: 2023-06-06T15:08:00Z
-    webUrl: "https://www.seattletimes.com/business/openai-ceo-suggests-international-agency-like-uns-nuclear-watchdog-could-oversee-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/openai-ceo-suggests-international-agency-like-uns-nuclear-watchdog-could-oversee-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/openai-ceo-suggests-international-agency-like-uns-nuclear-watchdog-could-oversee-ai/?amp=1"
+  - title: "OpenAI CEO suggests international agency like UN's nuclear watchdog could oversee AI"
+    excerpt: "Altman made a point to reference the IAEA, the United Nations nuclear watchdog, as an example of how the world came together to oversee nuclear power. That agency was created in the years after the U.S. dropping atom bombs on Japan at the end of World War II."
+    publishedDateTime: 2023-06-06T15:18:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/openai-ceo-suggests-international-agency-uns-nuclear-watchdog-99870107"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-ceo-suggests-international-agency-uns-nuclear-watchdog-99870107"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-ceo-suggests-international-agency-uns-nuclear-watchdog-99870107"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 30
+      name: ABC
+      domain: abcnews.go.com
+    quality: 50
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_10b15d748212be7dc5d09eabd642ff39_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "OpenAI CEO suggests international agency like UN's nuclear watchdog could oversee AI"
     excerpt: "OpenAI CEO Sam Altman speaks in Abu Dhabi, United Arab Emirates, Tuesday,. Altman on Tuesday suggested an international agency like the International Atomic En"
     publishedDateTime: 2023-06-06T19:09:00Z

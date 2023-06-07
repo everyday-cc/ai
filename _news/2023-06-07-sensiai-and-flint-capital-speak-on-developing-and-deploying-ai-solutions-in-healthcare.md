@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-o
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AntChain Introduces Privacy-Preserving Computing Platform, Offering Data Privacy Protection Solution for AI Machine Learning"
+    excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC)."
+    publishedDateTime: 2023-06-07T01:51:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/AntChain-Ant-Group.jpg"
+        width: 1080
+        height: 720
         isCached: true
   - title: "Deep In Sight unveils groundbreaking AI-powered 3D depth sensing solutions at CommunicAsia 2023"
     excerpt: "Showcasing In-Cabin Monitoring solution and Volume Management System which are Deep-In-Sight's cutting-edge 3D Sensing solutions at CommunicAsia 2023 Deep-In-Sight's solutions are expected to meet the diverse demands in the growing global robotics,"

@@ -127,15 +127,6 @@ related:
       name: Foreign Affairs
       domain: foreignaffairs.com
     quality: 21
-  - title: "We have bigger worries than AI"
-    excerpt: "Now, all of a sudden, we’re told that artificial intelligence is a growing menace that should be considered as potentially dangerous as nuclear weapons, climate change, gun deaths or even the mind of Marjorie Taylor Greene."
-    publishedDateTime: 2023-06-02T09:38:00Z
-    webUrl: "https://lasvegassun.com/news/2023/jun/02/we-have-bigger-worries-than-ai/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 19
   - title: "Managing the Risks of Generative AI"
     excerpt: "Generative artificial intelligence (AI) has become widely popular, but its adoption by businesses comes with a degree of ethical risk. Organizations must prioritize the responsible use of generative AI by ensuring it is accurate,"
     publishedDateTime: 2023-06-06T12:15:00Z

@@ -78,15 +78,6 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 19
-  - title: "Japan Announces Groundbreaking Regulations on AI to Protect Artists"
-    excerpt: "These regulations are still coming together in Japan with officials, but this move is a watershed moment for AI and artistry. Currently, creators in America are facing down Hollyw"
-    publishedDateTime: 2023-06-06T17:48:00Z
-    webUrl: "https://comicbook.com/anime/news/anime-manga-artists-japan-law-ai/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 19
 
 secured: "MQusEqYQNoeu1fEeEMPGAWCdEjPwARtzZE5lUKwPJQdHbiZ8deWl5m7GY3UKr3y890KILsDbTO+5ya6IQl5tFaDmNftYcU3NXJbURsUKnjIdd2t4jUuDhRm5iQpFbVCbJb+c8VrWu9vNx4oQLxzX0fdGZs4s3wkWcdRBBghJ7SpcCHoNimDxUcG9DWkvusCRxtYR75DmtL/C8G9fJ7MG/3TuaK1FeP1IDcNOYgWevRwLwy0Hw6C37rOr5XvQp5zk7PU27jkvy57wz6/ViGJRmZk6RvZMI34RojgPFkMieQbBk4i3apn7qJhXJJpqXEttXQHJepftPYD5+reNBBxCvFdmrn60fKMUrzLt8W8AMmw=;9kXdDyxs4IkPagWcQomBCg=="
 ---

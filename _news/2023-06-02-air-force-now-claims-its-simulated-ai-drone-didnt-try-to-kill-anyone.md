@@ -40,36 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AI-Controlled Drone Decides to Kill Human Operator in Simulated Mission"
-    excerpt: "An AI-enabled drone decided to kill its human operator during a mission simulation because it proved to be the best way to score more points. As the Royal Aeronautical Society rep"
-    publishedDateTime: 2023-06-02T10:49:00Z
-    webUrl: "https://www.pcmag.com/news/ai-controlled-drone-decides-to-kill-human-operator-in-simulated-mission"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/067OZxsxcuPrMfhuQNEUjZY-1.fit_lim.size_1200x630.v1685702074.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "AI-controlled US military drone 'KILLS' its human operator in simulated test"
-    excerpt: "Hamilton suggested that there needed to be ethics discussions about the military's use of AI. He referred to his presentation as 'seemingly plucked from a science fiction thriller'. No humans were harmed in the incident. 'The system started realising that ..."
-    publishedDateTime: 2023-06-02T09:48:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12151635/AI-controlled-military-drone-KILLS-human-operator-simulated-test.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12151635/amp/AI-controlled-military-drone-KILLS-human-operator-simulated-test.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12151635/amp/AI-controlled-military-drone-KILLS-human-operator-simulated-test.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 56
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/06/02/10/71687705-0-image-a-17_1685697238382.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Did an AI drone go rogue and kill its human operator in a simulation? - report"
     excerpt: "\"You can't have a conversation about artificial intelligence, intelligence, machine learning, autonomy if you're not going to talk about ethics and AI,\" the person added. \"The Department of the Air Force has not conducted any such AI-drone simulations and ..."
     publishedDateTime: 2023-06-07T00:54:00Z

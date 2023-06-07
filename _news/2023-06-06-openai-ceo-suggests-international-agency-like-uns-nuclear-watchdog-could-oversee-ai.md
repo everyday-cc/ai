@@ -1,23 +1,29 @@
 ---
 category: news
-title: "OpenAI CEO suggests international agency like UN’s nuclear watchdog could oversee AI"
-excerpt: "OpenAI CEO Sam Altman is on a global tour to discuss artificial intelligence. “The challenge that the world has is how we’re going to manage those risks and make sure we still get to enjoy those tremendous benefits,"
-publishedDateTime: 2023-06-06T15:08:00Z
-originalUrl: "https://www.seattletimes.com/business/openai-ceo-suggests-international-agency-like-uns-nuclear-watchdog-could-oversee-ai/"
-webUrl: "https://www.seattletimes.com/business/openai-ceo-suggests-international-agency-like-uns-nuclear-watchdog-could-oversee-ai/"
-ampWebUrl: "https://www.seattletimes.com/business/openai-ceo-suggests-international-agency-like-uns-nuclear-watchdog-could-oversee-ai/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/openai-ceo-suggests-international-agency-like-uns-nuclear-watchdog-could-oversee-ai/?amp=1"
+title: "OpenAI CEO suggests international agency like UN's nuclear watchdog could oversee AI"
+excerpt: "Altman made a point to reference the IAEA, the United Nations nuclear watchdog, as an example of how the world came together to oversee nuclear power. That agency was created in the years after the U.S. dropping atom bombs on Japan at the end of World War II."
+publishedDateTime: 2023-06-06T15:18:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/openai-ceo-suggests-international-agency-uns-nuclear-watchdog-99870107"
+webUrl: "https://abcnews.go.com/Business/wireStory/openai-ceo-suggests-international-agency-uns-nuclear-watchdog-99870107"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-ceo-suggests-international-agency-uns-nuclear-watchdog-99870107"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-ceo-suggests-international-agency-uns-nuclear-watchdog-99870107"
 type: article
-quality: 30
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/International/wirestory_10b15d748212be7dc5d09eabd642ff39_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Should AI come to your doctor's office? OpenAI's co-founder thinks so"
@@ -78,6 +84,6 @@ related:
       domain: chron.com
     quality: 10
 
-secured: "I+S7HmM+e99+MxhsQaHIimbqjCfmpZi5UUFBgmLcJsQhmrcKXjlBQaOgrNrkl1yFgz4NDnjf98wZPB3yAoXw7jTvI0OJd95QawjUoia8XfTPh6koh9YK57CxhJRIi+jAGjLD18k5KcUkEA5+eHZdygEF1i1e8lrfOK1td+BPAbHjGcPpFv3F1YWyY74wpIQIQrvVTdgjz1JETAQzoINZg6C6tQuiii9OtaI99FgXwa1Y0s+vXHKrwd9AXxryZISqjvMvASf+6XMwg/3FVYqYgeTpAgtLGohra9XjPRdOzvzndT1X099ewzLeb2FomZ82JwE7lFM39pJuP+GPtNlPwlqrrsZZAfiZyLQHWUxxTU2fGF6A/BrAh5EKk/VR1V1f/r1r7FKtEoUUyRr9VHEmC2k3nLck9E5OFPHDz6YLlGyGr6VNOQF/2vVrOvDg5xpB1GguX+8WA/fh9ipz6YKn6/ns9jqXd6WDmwfYzTojncXIKGSnLmDbnIe/iLijc3+OttfZNgY0+v867+bLhEpsHg==;qPcebBpYtIq7bncipdATug=="
+secured: "y15HdfSVnBo4f07HTAATl8Wn8xyhyT5v++XPEiwOQNvOHSKkGXZaNiyrUyggpcc7ppdPKqBo7KxEEt7R+yadZbO5G5SiVsIXa+1p8NvBxZ3ovFpRWxwRnhEdKVj1A70SbHnzS6o+Ie4roWG/QIm2rU8Ibhq6BWWF1ZzKfG4yywhp732f7lBs0hTnlZMzqMtqANYxiFJMwIUe+pW2kogaWwitJHgxat+C6b7IzYqFqgcycey8f94LYrWGo8KVtekygowxjJb3dQxJ6vQzd0H3iQKQEcfMW0RS9GvETIHt8HaoDgG0uaFFd1TWfD8dmJgUKoKz8Q5mkZVrMNMAt2NFu7kpZcQa0HToJoBCzWc3LjU=;j3YcEFpZ/dw9gLPX6bF+jg=="
 ---
 

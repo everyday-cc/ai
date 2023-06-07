@@ -103,20 +103,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "Microsoft signs multi-billion dollar deal with GPU cloud provider CoreWeave to meet AI needs"
-    excerpt: "CoreWeave is a specialized cloud provider built for large-scale GPU-accelerated workloads. The company raised $200 million earlier this week - just a month after it raised $221m a"
-    publishedDateTime: 2023-06-02T10:35:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-signs-multi-billion-dollar-deal-with-gpu-cloud-provider-coreweave-to-meet-ai-needs/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 60
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
     excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
     publishedDateTime: 2023-06-06T12:22:00Z
@@ -127,6 +113,6 @@ related:
       domain: tmcnet.com
     quality: 30
 
-secured: "f9mjX3HcWrHAgmXM8HwPqS8/+c0mS1hXEq4GaT241USsAlsKOrU4ySRH69jC8KtMg5yJKZXz7sE3Fjpod3F2Cv7TaoLGaTICu8aAOFhwMfMRN1AG2oUbeIrTUVN0CtsXnswTPPsAcYRb6SDeu6Irl6x6bgukUmTiIRnZXvmoHXq1f+V7Uva8/wr7O7w270FqbhfIwKaa7S0GgdjsPcM68pgDoaT3AK1ejQ9dib56hbJog66SI5nRlVlQGwAfzUSzgKcJuTgzilO0JMARL1ugjxXH7JWrWFuob9tYaGm430Clng0PYIawdIA30ZIeHUL9o8M2O5r4H1Xuydqnqi20axYaimdrgD2qI4NGkA3Ndqg=;vemZ26SbRFjlDCkVTmhj+g=="
+secured: "BerYFAPp6oWME2BzjquoV5PdyuK9YwjWbsQYIKL9Izoc9dZrg2/47yc74CVZNehpXQ6k+ob8NxW1Ye2B0N8+WmTWJyQLjbzYFmFnLvvIOLn5NvHpzvOi2aIR0Gc4dtSZIhBaP2BtASCcJHSeqG4c6Jy4f1AYV5DCcOgExGrY9YZZ9kZ1tpa9lGHAnZo8GZd2oxjqaM5s4P42QHTVdaLWCN/zeCLdn9Ce0oH3ARjB7GentiZtluWQCvTIOAuffsl2RZK0RTQwCozST1GfhdL2jqXkcmS0vHtoICPD+F/oY4HBndjgEPmDwX3bX/IrZKRI+IPWxbqZzAV3bOBXn6yaTtXmvi5z/PkeUKcygb1JEXsbCJYPPZils0TWMlPPRgKdDqGEw4M1gOtRUiflyCwl2j+Ahr0WKjUa/+tymmv3PTvQPGpz+G4HUr1KB03lRlI5xHIXbAGDjwZN4NzNEXj2J03Hwbal3uQ4dLXl6qHHfZ67HS3wF0Xcmklw2hHA6ZQIi9n04RrlHnkVtlUDqgnc6A==;b/Cdt+QjZhrAeSxUr+wevg=="
 ---
 
