@@ -125,6 +125,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "BHP and Microsoft use AI to boost copper recovery at Escondida"
+    excerpt: "The use of new digital technology to optimise concentrator performance at the world's biggest copper mine in Chile is expected to improve recovery."
+    publishedDateTime: 2023-06-07T17:18:00Z
+    webUrl: "https://www.mining.com/bhp-and-microsoft-use-ai-to-boost-copper-recovery-at-escondida/"
+    type: article
+    provider:
+      name: Mining
+      domain: mining.com
+    quality: 34
   - title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
     excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
     publishedDateTime: 2023-06-06T12:22:00Z
@@ -135,6 +144,6 @@ related:
       domain: tmcnet.com
     quality: 30
 
-secured: "umkIgwJI6kDqY7EhfLeEvtDgfa8DFx4y5aR1bHxcgwQ1XdcwLQh0vn67TNbx99iKpdHXm+G3SOdVtXSRWcRd7MNlHYjw+hwEovAVM8Y65BVgt0muyQdJnCqAPzLarcJhBodyPkot0GYSGnEbfjxgoWMg2c8yUy8n+eMuHjmY6x4TBVWG5Rf0UQUekuaHmWLl8H38FXcID0YG8WFlMevgNkKvZ1oSwBCLlWhRZgfRcSHThm5tTIW1OwGZk77ISomCBJBKCcrmugqWGNwjAv0R9Wl8FLi+aoXrDdpTG1QO4h5XSHvv0VerqAN6VUvl+tBb60bVo+rffrURd12JXeb3jUzg8WU8zDCtbaKr8y+zczg=;04kYaQ5KwEs5z9815xY7Wg=="
+secured: "wRnGtC1mVZkC1i/CGoqvtsT8GhO0JdmVpYRiu8gzO6usOSxCr9+OQyRv+UIn7TYxFWiVsbFGo84hGVqi1i8cyk+be8wjEZvhIa+Mk5NaIExMR8pCUblm4h57TV+ONQWhyIB6hVitOgJ4KKy3H9vFxLoSnEz1MM/K+4396qFrjO4iK+mNcukpRSUB78HkRbxjzbQ1FxYnY07wytp4UKuVLYFqZkC/BRTlifJEKNSHvmtneTEO46cXHsG9+MBGlFA6iIOk4AKpDFqEwskrcs5EUlxbcHcvDzzVylDdk8grOYDPOfkLkaO47TptvpjEVpR9Pn9XQkOnDC5LG4UNSuUrytRb6FY3txJJsoxcQS24IGjKc8+ssQ14UDHbLUEBV6cqhF390mJxf71PHdGDKREnf/FMHJBOT77yjrf77PFNT3KG3z5Q/TfaFgUl+n4hJvDK3vdSR88uPovJzqNv6zY0A9/fWaqgzUjKBIl+VqvGHW4ww5Z2tTizmcJtuoTqwsKFMvcEosglEs+/p4Lp1wIFLQ==;GwambhRsqVnFy63AbWROmA=="
 ---
 

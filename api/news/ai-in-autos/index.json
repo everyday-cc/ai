@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-07-teslas-optimus-robot-fuses-self-driving-tech-with-mind-blowing-humanlike-capabilities.md",
+      "title": "Tesla's Optimus robot fuses self-driving tech with mind-blowing humanlike capabilities",
+      "excerpt": "Tesla is developing a robot that can take over your daily chores and errands, but what does this mean for us as humans? Kurt \"CyberGuy\" Knutsson explains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities",
+      "originalUrl": "https://www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/548995ea-53a7-4f7b-a9aa-de824d7a91d8/0c6dffc3-5cf9-477c-89fa-1c8433580e0a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities.amp",
+      "publishedDateTime": "2023-06-07T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-waymo-self-driving-vehicle-kills-dog-in-san-francisco.md",
       "title": "Waymo Self-Driving Vehicle Kills Dog in San Francisco",
       "excerpt": "The dog ran into the street from behind a parked car causing what Waymo describes as an unavoidable incident. A Waymo robotaxi struck and killed a small dog in San Francisco last month while it was in self-driving mode.",
@@ -1280,58 +1333,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-a-third-former-apple-employee-has-been-charged-with-stealing-self-driving-car-tech.md",
-      "title": "A third former Apple employee has been charged with stealing self-driving car tech",
-      "excerpt": "A federal court in the Northern District of California has unsealed charges against Weibao Wang, a former Apple software engineer. Wang started working at the company in 2016 as part of a team that developed hardware and software for autonomous systems — technology that could conceivably wind up in self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
-      "originalUrl": "https://www.engadget.com/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/MA9mbp9EV5VsAq9RVuHZog--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/1a90b300-f413-11ed-bbdd-b46ed16b28aa.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
-      "publishedDateTime": "2023-05-17T21:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

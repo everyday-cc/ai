@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise"
+    excerpt: "Founded by former Hugging Face and Meta AI researchers, Contextual AI raised $20 million in seed funding from Bain Capital Ventures, Lightspeed and Greycroft. Contextual AI emerged from stealth today"
+    publishedDateTime: 2023-06-07T16:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32762843/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the-enterpr"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32762843"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32762843"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "AI-Powered Hyro Raises $20M to Advance Responsible Artificial Intelligence-Enhanced Communications for Enterprise"
     excerpt: "Hyro, which claims to be the leader in plug-and-play conversational AI, announced that it has finalized a $20 million Series B funding round."
     publishedDateTime: 2023-06-04T11:27:00Z

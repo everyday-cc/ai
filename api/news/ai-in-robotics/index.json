@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-07-teslas-optimus-robot-fuses-self-driving-tech-with-mind-blowing-humanlike-capabilities.md",
+      "title": "Tesla's Optimus robot fuses self-driving tech with mind-blowing humanlike capabilities",
+      "excerpt": "Tesla is developing a robot that can take over your daily chores and errands, but what does this mean for us as humans? Kurt \"CyberGuy\" Knutsson explains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities",
+      "originalUrl": "https://www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/548995ea-53a7-4f7b-a9aa-de824d7a91d8/0c6dffc3-5cf9-477c-89fa-1c8433580e0a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/teslas-optimus-robot-fuses-self-driving-tech-mind-blowing-humanlike-capabilities.amp",
+      "publishedDateTime": "2023-06-07T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-10-companies-using-artificial-intelligence-ai-in-a-compelling-way.md",
       "title": "10 Companies Using Artificial Intelligence (AI) in a Compelling Way",
       "excerpt": "AI is changing the way many companies operate. Learn about how some of the biggest companies in the world are using AI.",
@@ -868,24 +921,33 @@
     {
       "path": "_news/2023-05-31-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
       "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
+      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It’s one of hundreds of robots on ...",
       "sourceUrl": null,
-      "webUrl": "https://www.seattlepi.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php",
-      "originalUrl": "https://www.seattlepi.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php",
+      "webUrl": "https://www.washingtonpost.com/business/2023/05/30/robot-show-artificial-intelligence-chatgpt/5bdc8800-ff0f-11ed-9eb0-6c94dcb16fcf_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/2023/05/30/robot-show-artificial-intelligence-chatgpt/5bdc8800-ff0f-11ed-9eb0-6c94dcb16fcf_story.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T10:39:00-07:00",
+      "publishedDateTime": "2023-05-30T10:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "seattlepi.com",
-        "domain": "seattlepi.com",
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1353,49 +1415,6 @@
       "provider": {
         "name": "Los Angeles Times",
         "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-what-you-need-to-know-about-ai-etfs.md",
-      "title": "What You Need to Know About AI ETFs",
-      "excerpt": "BOTZ aims to provide investment returns that generally correspond to performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index (before fees and expenses), Global X says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
-      "originalUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2022/02/2022-2-22-artificial-intelligence_Adobe-Stock_640x640_peshkov.jpg",
-          "width": 640,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Think Advisor",
-        "domain": "thinkadvisor.com",
         "images": null,
         "publishers": null,
         "authors": null

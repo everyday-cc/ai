@@ -124,6 +124,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 55
+  - title: "BHP and Microsoft use AI to boost copper recovery at Escondida"
+    excerpt: "The use of new digital technology to optimise concentrator performance at the world's biggest copper mine in Chile is expected to improve recovery."
+    publishedDateTime: 2023-06-07T17:18:00Z
+    webUrl: "https://www.mining.com/bhp-and-microsoft-use-ai-to-boost-copper-recovery-at-escondida/"
+    type: article
+    provider:
+      name: Mining
+      domain: mining.com
+    quality: 34
   - title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
     excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
     publishedDateTime: 2023-06-06T12:22:00Z
@@ -134,6 +143,6 @@ related:
       domain: tmcnet.com
     quality: 30
 
-secured: "T3V+62PZN9nReXgAlAnggbSI/+1o4ApCJ4vSd9VxeRUGvwQkS1xwGTt8Wthwbly0su15qB6e0gvoHaBO6jfnoTQBFr4MMYmNrSVPnPDow2G5awPlcMuiE9FqeIaB6ZQo6s2t4pI6I6AIBDFBnfFhmay93ZONDFBWj7lNJxpQp5UBcPpQJTGAhxD/tkgEbnAj61Rfu+vREhR3im78WjRZdsvWPrJ5GJq0rlFOFVC/vA/524VG2YsIClUYhwloEmO9YkOIP1Glk/wjUhce1J9S341dR1UEsOR0FSfMQtzb71hJ24gaDl/6PCfGsvDRfBzlmOejenNW0Cvv/OmB9f/GGVBTPSFwnBKi2SKaMI1/Zug=;37rYjuhYPq6Jcgpbo34ifA=="
+secured: "O/dU9Hp6enS11YyGJQrKQ0reapn9sOEoYhAmbfIEig2FW2jjK9AXKbi1AswagFeSKaDU8BLL5VSsX4VBF5HZEdWkNf4fkBLpkYRDRiiqzjOr7UMiqqVyi75yY57Hp89fNAT3/S8P84l7yY78ArlkDCZIkSKSeCaG9W1PHDCUf3qTIkVukzvVVDPRej3ZKiDdKzqimaPCPkzpPuLYdMAO5nwJaY7uUaACpneftwJ5c4vQlaBvNWoKdiUQ9qG9rvn1SzPCPvE4XnOMONZAjrLLCAeWpMu7GluXmVA4y9pY3jlpjuqTkqFnodo5j9al7Px7sdUaq3qp+HlYGNGZo4uvd9EzPCxxR9VJOS1XcFL+FfVTu+6pY2KPGjemhkShd/rjhsbwegM/UdOMGF8oeSSGy1Iz56eEk/q2/XeWs7DdJnpdYnN2PYsH2jqy5MMMLVJKn7YnAnoyjcZkpjtNG2HEMdkcs7Wqdjp77oRi2cMwPCmhnjkjFk2m74AotV9MeGFIoStDDuvsLy5SpOiTi6GuOg==;jO+8HGaQz9qb1Yy4p5t2ww=="
 ---
 

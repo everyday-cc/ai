@@ -198,7 +198,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 9
+    quality: 11
     images:
       - url: "https://mma.prnewswire.com/media/2095479/Generative_Artificial_Intelligence.jpg"
         width: 399

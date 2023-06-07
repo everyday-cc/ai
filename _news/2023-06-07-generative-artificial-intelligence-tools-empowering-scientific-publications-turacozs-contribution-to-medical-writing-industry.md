@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-07T13:42:00Z
 originalUrl: "https://technews.tmcnet.com/news/2023/06/07/9828482.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/06/07/9828482.htm"
 type: article
-quality: 9
+quality: 11
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/2095479/Generative_Artificial_Intelligence.jpg"
@@ -203,6 +204,6 @@ related:
       domain: it-online.co.za
     quality: 19
 
-secured: "fRxh/+6ochtIe0xQF6xarfAc1obCwpgcP6UizVKXohGUg31pLX7d8SmXlCy4noNUmiCVfuR5GRG+yHImI8V+a0v9v/vrqfLPsW+bWiAzB1+6kbtvcpxixQzH1SkY6W/+0jA45ym5vo7RRDDhPAjUDwgxPNfOQLQ9MQkU1GiwXFkijpkMiTQpT8vJfy9J/kRJ+mZhP1fyQWJnOExwt4rs7Qo1HQOtKHxL1GYt8nu7hT7WSO0WBD3F/0IL6frL8UlFwLf52kE8DcNeY0leXzyxQkFM7paUbbChglbMvhUwruULyns8X5KV59DTY/KwQn+ZVkjFWYhEt69IZOhCWJI0J1XIuz1anQugrKnlxv2+E4w=;07o42jKZQtRlJPKnPvZ7GA=="
+secured: "Eql/+w1MpiUmpfUxb5VCQKSsMRHhgNpzvquIFE7J3VA9Ga62enAR/pAHCZWLY98JwluBtJN60bDT9ZmpY4aFSnMhrpvOkfUmj+ZGr8+PR/65Q0t7KS1BWlJowmrVLlPw07ArcCUjqbJHO+sQJ2RY0X8SNi7NIyNw3j2krJ7IhCtwNDec9Vxm26ksZj8+xnVis+ggYjC4qXtbdy5PLgelN3OyULcNCs/5grrup/PEoNp84v0qNj3llIytB1ebJdV/r8mTgn76OwA4qBRsnqoM3Mjo9WkQemCP5PvgH/mEB4TTyu/07+vpW1WXLZp7fU3tmtKVs/VVHRNhVI4mURAto3f4SVuylW8KNrh8d9eV8v4wGQkIDW+jRAEk2JlIGvWqKVVMKh9C19wMS/g1XsD7uqm150eHAU/oaUlXB5Y/VIC77c2BXrbUB9nfzYS+odhlO/+jv2YNX1GLWhfG1HJA8glDEr6AxsBagsmZsU2RM+m7BSdXy6uGFVAGN3S9BjFVuUpyN4ypANRIxdw3BbivAQ==;KDzciyMrf4PBVcJA9ncruA=="
 ---
 

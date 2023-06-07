@@ -2,6 +2,111 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-18-generative-ai-companies-top-12-leaders.md",
+      "title": "Generative AI Companies: Top 12 Leaders",
+      "excerpt": "Generative AI companies — both existing enterprises that are adding generative AI to their solution stacks and new generative AI startups — are popping up everywhere and quickly. But what makes generative AI companies so different from other AI and ML companies?",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-companies/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/04/top-generative-ai-companies.png",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-overcome-the-machine-learning-cold-start-challenge-in-fraud-detection-using-amazon-fraud-detector.md",
+      "title": "Overcome the machine learning cold start challenge in fraud detection using Amazon Fraud Detector",
+      "excerpt": "As more businesses increase their online presence to serve their customers better, new fraud patterns are constantly emerging. In today’s ever-evolving digital landscape, where fraudsters are becoming more sophisticated in their tactics, detecting and preventing such fraudulent activities has become",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/overcome-the-machine-learning-cold-start-challenge-in-fraud-detection-using-amazon-fraud-detector/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/overcome-the-machine-learning-cold-start-challenge-in-fraud-detection-using-amazon-fraud-detector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/17/machine-learning-cold-start-fraud-detector.jpg",
+          "width": 1151,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T13:16:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-ai-terminologies-101-understanding-the-basics-of-deep-learning.md",
       "title": "AI Terminologies 101: Understanding the Basics of Deep Learning",
       "excerpt": "Deep Learning is a type of artificial intelligence (AI) that uses neural networks with multiple layers to learn and extract increasingly complex features from data. Deep Learning is the foundation ...",
@@ -1168,75 +1273,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-application-development-software-market-size-to-reach-around-usd-11592-billion-by-2031-cagr-of-235.md",
-      "title": "Application Development Software Market Size To Reach Around USD 1159.2 Billion By 2031, CAGR Of 23.5%",
-      "excerpt": "Application Development Software Market Size Big Data Security positively impacts the growth of the application development software mark",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105953633/Application-Development-Software-Market-Size-To-Reach-Around-USD-11592-Billion-By-2031-CAGR-Of-235",
-      "originalUrl": "https://menafn.com/1105953633/Application-Development-Software-Market-Size-To-Reach-Around-USD-11592-Billion-By-2031-CAGR-Of-235",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023.md",
-      "title": "How AI & Machine Learning Are Being Used By Financial Lenders in 2023",
-      "excerpt": "Artificial Intelligence (AI) and Machine Learning (ML) technologies continue to expand in their applications, uses and benefits for lenders and financial institutions. Because of this maturity and expanded adoption rate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023/",
-      "originalUrl": "https://www.unite.ai/how-ai-machine-learning-are-being-used-by-financial-lenders-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

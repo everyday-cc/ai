@@ -72,33 +72,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google Cloud, Mayo Clinic make generative AI play"
-    excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
-    publishedDateTime: 2023-06-07T12:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/google-cloud-mayo-clinic-generative-ai-search-chatgpt-hipaa"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
-  - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
-    excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
-    publishedDateTime: 2023-06-07T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/google-mayo-clinic-launch-generative-artificial-intelligence-collab"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
-  - title: "Google Cloud is partnering with Mayo Clinic as it tries to expand use of generative A.I. in health care"
-    excerpt: "Mayo Clinic will be using Google Cloud's generative artificial intelligence technology to help doctors and nurses more easily track patient data."
-    publishedDateTime: 2023-06-07T10:00:00Z
-    webUrl: "https://www.cnbc.com/2023/06/07/google-cloud-partners-with-mayo-clinic-brings-generative-ai-to-health.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 18
 
 secured: "SRzMPlhpLzeX+q3bOywx5xqA4VhrRaEQiMMnxl41fs2KoZ/XDmfXG1XoYAS73z+rYhdj+wDgKF82ITxJS3yuiVshjodvwH3JgD6xQx6K7mxcScBQwJGkUurwqWAea8u8OrZrfNyZbuSWd60GS1i1We5OESXl4Tef5I1sav/qYZ0siTc8mmh0MJLN00jthhB1TWQmGCYBlBDgLDlXuOKHW4ABIpOtkr6xh9J1DLzt5AvuF6E1H7ZpAEeRmCDVuYHwEqLrOp7ATTGzSQTprpQwo/j81Dw1UmAhf+2U5eXD0W6V/Bh45V+32DzEKBBahzvPUbf8KjgxBKyrFffux7RRluNzmclhLq0EXE2wz0ni6F3MyJQTPQv2rZrKHna4VeUjrpuCIYTfwvGoaUem4t8IwcINirL3gIk6G/4p/oPDQu4LIT2cw2cigN7ozpeHtNttQWTfyg7xsGUeOrSIdGRj3Kc6kXQBs3sernfOc1ZpTdCPLFyZEmvB9gdEUNd6BaRx+iTeUq5PBOn7oQSekEzPLA==;3AjGcSrq9QUVZpOOVmObIw=="
 ---

@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Where was all the AI at WWDC?"
+    excerpt: "If you’d been drinking two fingers every time Apple mentioned \"artificial intelligence\" at WWDC 2023, you’d be stone sober right now.."
+    publishedDateTime: 2023-06-07T17:12:00Z
+    webUrl: "https://www.engadget.com/where-was-all-the-ai-at-wwdc-163048564.html"
+    ampWebUrl: "https://www.engadget.com/amp/where-was-all-the-ai-at-wwdc-163048564.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/where-was-all-the-ai-at-wwdc-163048564.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/7LtvDyBgvhNliVRSAWFa7Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/3e1ebc90-0548-11ee-b6ef-6783efebbad6.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lcNAFqelaitRGp+GlIO2zZvgiSiIK2bjNjmmmWUYGA4pb0m4qsWkVmpyr0/rSlaZE6sJ5vFsFnFe5MXi+2DAkfNB7isTSolDnXfHGRwA+D+yMVngwZjp2LEhtJnY3rKxwOsH5HkGwV+L292ze7TO2Xbuk7BSY5kN4o9UkA4Fo4ZMZozi/pLF0Qm9e96/mDhYtKa7qDZqWQ75vQb/6h/fxnrEemoP/IQHj4MuNz/qtbyFfhJIfWs6ronO67ZBmZBRo/EmKVkaSw5XTXFBdFNDtiUTgbtobmq+1RbVIJA9rRq90p0Vt0Jw7PpMU9H7r4x9ePKVKUqqo3PEw32oXe2Zr6IieULleI16GvGXNgkxF0mKVd45PikrXA7MVg4RdMHEEMmBk9uSp4g3vNN/+BK2keHVQzaLV2SJ7IQwNOvefxUWlH1+WL+aGs5lzVslgqjUS7Q55n5UUe1Zmrq/sW5+djrU8S/yn6rKrVLXtHtGJpXQ11NJV4ghzjILvwkdSvahiZIXsbqPorW/bhpVKvIzog==;IxkF5A/SZIftKRs4Fv3LKw=="
 ---

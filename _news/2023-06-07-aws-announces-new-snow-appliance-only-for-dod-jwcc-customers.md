@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/aws-announces-new-snow-
 webUrl: "https://www.datacenterdynamics.com/en/news/aws-announces-new-snow-appliance-only-for-dod-jwcc-customers/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "For DoD Only: AWS Announces Snowblade Edge Device"
+    excerpt: "AWS Snowblade supports a select set of AWS services that include Amazon EC2, AWS IAM, AWS CloudTrail, AWS IoT Greengrass, AWS Deep Learning AMIs, Amazon Sagemaker Neo, and AWS DataSync. Using AWS hybrid cloud services like AWS Snowblade, customers can ..."
+    publishedDateTime: 2023-06-07T17:09:00Z
+    webUrl: "https://insidehpc.com/2023/06/for-dod-only-aws-announces-snowblade-edge-device/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2018/05/aws.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "j8l3wAjoVAzpyDc7aL2gUe8cOBEW+Mz4MeOmxFeAgMKklAhI1twp3liLe3zPRmbuLFZUcVwZuQBk5cG6Bi5NqtsTe2alN/Iqx8+1sCvwmDJbI4gF4IlfsweKm+u2fpK0R5mdAPZ1xhWQBx6718eiq9C8OeWwOns8eDmRXmTX8yambOCWB9SdSyGDhgljVbE9an9UFLi21w7U9KLCVTU1TZKp56CqEVXJ8b+GeUnzkSwmGEy6e4bNC1n+cX/3accKEDfUjO2wM7K51HnY46f8FjWLhslrG8EbyKPbnxURsj3U8agqF0rG6VVjpTwicuVcGnYvG/8OtnHLy+UvD/QIOGXM7SkvIoCzTmV2smvudNcAIaPejNi9fKMEjZhwrvcC/nS/077lY2HmIXK5K9qW8CJQ77zQEcjDy/rhTTF9H2grbgdyCmkb7rZ32zvD5En9angHo30xOXiUhv+W0R++fen7aiieFLjpwOXaRTyMK2CJUH9NaclM6BSdm3E3fqGtEx6REUT/fLF2dT7i3IQgUg==;t43AUq1lnBLJ0nMzvUNLSg=="
 ---

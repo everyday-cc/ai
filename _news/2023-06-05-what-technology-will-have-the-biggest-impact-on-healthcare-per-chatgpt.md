@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "‘What should the limits be?’ The father of ChatGPT on whether AI will save humanity – or destroy it"
-    excerpt: "Sam Altman is among the most vocal supporters of artificial intelligence, but is also leading calls to regulate it. He outlines his vision of a very uncertain future"
-    publishedDateTime: 2023-06-07T04:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
+  - title: "How good is ChatGPT at answering tough health questions?"
+    excerpt: "Artificial intelligence (AI) technologies like ChatGPT someday may make a big difference for people seeking answers to questions such as \"How can I stop smoking?\" They may even offer resources to someone who was sexually assaulted."
+    publishedDateTime: 2023-06-07T17:50:00Z
+    webUrl: "https://techxplore.com/news/2023-06-good-chatgpt-tough-health.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-good-chatgpt-tough-health.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-good-chatgpt-tough-health.amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
+      name: techxplore
+      domain: techxplore.com
+    quality: 44
     images:
-      - url: "https://i.guim.co.uk/img/media/d67dc626115d9507a3876fefd572a1fd9bb33481/0_116_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=46f7d7637665f0421a5914ebe539dc77"
-        width: 620
-        height: 372
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-good-is-chatgpt-at-1.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "dSVAayZYM6lX/jZa7eUjKAcDcXbHhtbrmAfPx2aUlF5gH+srnJlpW2+9iK2B1Jw007XQcg8jmZAboFA41kgk1HJWc2Wu2ibAFIP6CrRQUw+iga/6+Kr3t1fI+OrI3PCadeP1QBykIRKRJ+pbHpMDRoTIvhBmhv2/3OC8Puj6jgm6sOVzT2j1s+W1B78zDexSNCbTlnaY2M5YIrgVkOYj6ljcPY1Wdwk9IC39P1NqizhzUd6bqSNLalJ0S4aVe3fve0BOnm6GC5UMQe46VwFzYTnETgd5Q4iiMTwFA4B38gX1+XuWN54mnV3pWFDC+AvhPvgozAJ13JAwJ0WmE44+91EqOOcA7wNUXz18Wyci6l8=;afHpcj043cAWkR5Q7wr9Ng=="

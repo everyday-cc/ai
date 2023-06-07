@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-07-wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you.md",
-      "title": "WordPress's New AI Tool Can Write Entire Blog Posts For You",
-      "excerpt": "WordPress is incorporating ChatGPT-like technology through an AI-powered tool that can write entire blog posts for you. The so-called “Jetpack Assistant AI” is arriving as an experimental feature for users to try out starting today.",
+      "path": "_news/2023-06-07-announcing-enhanced-table-extractions-with-amazon-textract.md",
+      "title": "Announcing enhanced table extractions with Amazon Textract",
+      "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. Amazon Textract has a Tables feature within the AnalyzeDocument API that offers the ability to automatically extract tabular structures from any document. In this post,",
       "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/ai/100360/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you",
-      "originalUrl": "https://au.pcmag.com/ai/100360/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-enhanced-table-extractions-with-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-enhanced-table-extractions-with-amazon-textract/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/w/wordpresss/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you_dmyz.1200.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/07/enhanced-table-extractions.jpg",
+          "width": 1024,
+          "height": 506,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T08:30:00-07:00",
+      "publishedDateTime": "2023-06-07T09:53:26-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -62,7 +63,7 @@
       "originalUrl": "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 99,
       "tags": null,
       "images": [
         {

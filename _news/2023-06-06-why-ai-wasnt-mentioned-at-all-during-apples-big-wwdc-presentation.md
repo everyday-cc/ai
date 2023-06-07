@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Where was all the AI at WWDC?"
+    excerpt: "If you’d been drinking two fingers every time Apple mentioned \"artificial intelligence\" at WWDC 2023, you’d be stone sober right now.."
+    publishedDateTime: 2023-06-07T17:12:00Z
+    webUrl: "https://www.engadget.com/where-was-all-the-ai-at-wwdc-163048564.html"
+    ampWebUrl: "https://www.engadget.com/amp/where-was-all-the-ai-at-wwdc-163048564.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/where-was-all-the-ai-at-wwdc-163048564.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/7LtvDyBgvhNliVRSAWFa7Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/3e1ebc90-0548-11ee-b6ef-6783efebbad6.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The best AI features Apple announced at WWDC 2023"
     excerpt: "Apple announced a host of new software features for its popular devices and the new Apple Vision Pro headset, many of them leveraging AI."
     publishedDateTime: 2023-06-05T20:51:00Z

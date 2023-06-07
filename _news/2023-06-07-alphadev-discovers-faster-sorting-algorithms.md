@@ -7,8 +7,8 @@ originalUrl: "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-al
 webUrl: "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: DeepMind
@@ -29,36 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind Unveils AI System to Discover Faster Algorithms"
-    excerpt: "The new system, called AlphaDev, focuses on finding more efficient algorithms for software development"
-    publishedDateTime: 2023-06-07T14:15:00Z
-    webUrl: "https://www.wsj.com/articles/google-deepmind-unveils-ai-system-to-discover-faster-algorithms-90f7e242"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-795508/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Google DeepMind’s game-playing AI just found another way to make code faster"
-    excerpt: "AlphaDev is built on top of AlphaZero, the reinforcement-learning model that DeepMind trained to master games such as Go and chess. DeepMind’s breakthrough was to treat the problem of finding a faster algorithm as a game and then get its AI to win it—the same method it used to speed up calculations in last year’s research."
-    publishedDateTime: 2023-06-07T15:27:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/07/1074184/google-deepmind-game-ai-alphadev-algorithm-code-faster/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/07/1074184/google-deepmind-game-ai-alphadev-algorithm-code-faster/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/07/1074184/google-deepmind-game-ai-alphadev-algorithm-code-faster/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 73
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/2570_MIA.jpeg?w=2686"
-        width: 2686
-        height: 1511
-        isCached: true
   - title: "Deepmind’s AlphaDev discovers sorting algorithms that can revolutionize computing foundations"
     excerpt: "The AI system has made a significant breakthrough by uncovering faster sorting and hashing algorithms for AI developers worldwide."
     publishedDateTime: 2023-06-07T15:00:00Z

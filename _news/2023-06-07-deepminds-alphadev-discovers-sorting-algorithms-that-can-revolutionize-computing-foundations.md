@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind Unveils AI System to Discover Faster Algorithms"
-    excerpt: "The new system, called AlphaDev, focuses on finding more efficient algorithms for software development"
-    publishedDateTime: 2023-06-07T14:15:00Z
-    webUrl: "https://www.wsj.com/articles/google-deepmind-unveils-ai-system-to-discover-faster-algorithms-90f7e242"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-795508/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AlphaDev discovers faster sorting algorithms"
     excerpt: "In our paper published today in Nature, we introduce AlphaDev, an artificial intelligence (AI) system that uses reinforcement learning to discover enhanced computer science algorithms – surpassing those honed by scientists and engineers over decades."
     publishedDateTime: 2023-06-07T00:00:00Z
@@ -57,23 +43,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google DeepMind’s game-playing AI just found another way to make code faster"
-    excerpt: "AlphaDev is built on top of AlphaZero, the reinforcement-learning model that DeepMind trained to master games such as Go and chess. DeepMind’s breakthrough was to treat the problem of finding a faster algorithm as a game and then get its AI to win it—the same method it used to speed up calculations in last year’s research."
-    publishedDateTime: 2023-06-07T15:27:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/07/1074184/google-deepmind-game-ai-alphadev-algorithm-code-faster/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/07/1074184/google-deepmind-game-ai-alphadev-algorithm-code-faster/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/07/1074184/google-deepmind-game-ai-alphadev-algorithm-code-faster/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 73
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/2570_MIA.jpeg?w=2686"
-        width: 2686
-        height: 1511
-        isCached: true
 
-secured: "PFymXvroNcRihM78lZKyH1yLT+5cdltwyxFcB4aOft3FPCt5w50u6m8I+0T/T9dpXIai86qJLY+tD95NSbPecAwoL9gUW8yLDnQw6mpuODxG412DTFOAR+Y0E4m6HXt8HdfuC7AN2U0I8du6prFdmy8idkX8YHkr0ysdSiR8xaaKxUN05oURmv3l8pEW9qjdzoIsow6VNmtOD9rHEKzkXjcyyx/F2o7iXtELAbeGsW7TpHc91CRzc4QA1zB3FemGYNh/+nfRtQEZaxlqlpkDokaFA5CescJJ5Cbj9rVGrEKNGphrBhPU1LwACFT+9esYEVx2+03y3ZnqwXjsq2fQ3cRuYhAAppt3wlLON4Ok+b4=;/7XCGpTMJ9KG4Jbda6VT9Q=="
+secured: "85ZkHIVMfc7gDu4HO0MLojZbAsq9Kj9h9yl9OoAhYid6YU8BjVLB825ATA++m0OGCiRGaQqtKKqr68qLDp9ccDQeqIlS4cZYLOuBKs4/XYTeSNecpgxAZVTevC89rSrKCT7MOxFyZV0oNGoNEA+cYK+IZalfiEBxx39/qwanl7AvX3J5aXNhrF221MDa5qXmLfkYLqkdxeIzSPfpuWylDvWAcAnIC5/w4+a8cPfiPjvrE/50lpVDdpReVN4DdQonsnUQtjh/Ztx8gvZk7hnnTg2DInLYBJP7kVo8xho2nzguGV8t07IaBVa1wkZ+gIwfBOj+46PAC5iBlTWq1wo2kcNt9sm+oabSGzLNq+/52OJ4KmvDKHssqt240hkEuX0p+btWp0vrGxzwcFrPbX4GmqjpYJMIeoabhpGYZ/+v0krSevRKDzbKoy0h9JYAzdGESYMqNW9pIhXU380e1YqLsC4Z4UlvwsKO8vcOHlBMVKZV9joTzWFw9vZNWZR6eH952nd8TyQOQP3tyqGIDcfkAA==;9Pg1Q+APuLqnY2mrvblsow=="
 ---
 

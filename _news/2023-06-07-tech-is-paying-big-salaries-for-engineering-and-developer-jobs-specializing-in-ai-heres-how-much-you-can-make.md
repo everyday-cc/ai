@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-engineer-developer-salary-jobs-
 webUrl: "https://www.businessinsider.com/ai-engineer-developer-salary-jobs-2023-6"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -29,29 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI Prompt Engineering Isn’t the Future"
-    excerpt: "Despite the buzz surrounding it, the prominence of prompt engineering may be fleeting. A more enduring and adaptable skill will keep enabling us to harness the potential of generative AI? It is called problem formulation — the ability to identify,"
-    publishedDateTime: 2023-06-06T12:05:00Z
-    webUrl: "https://hbr.org/2023/06/ai-prompt-engineering-isnt-the-future"
+  - title: "Apple CEO denies new tech is AI but admits it is 'powered by machine learning'"
+    excerpt: "Tim Cook made the comments speaking to Good Morning America which comes just a week after leading AI figures such as OpenAI CEO Sam Altman and DeepMind CEO Demis Hassabis warned AI could risk the 'ext"
+    publishedDateTime: 2023-06-07T16:22:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/apple-ceo-denies-new-tech-30176788"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/apple-ceo-denies-new-tech-30176788.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/apple-ceo-denies-new-tech-30176788.amp"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 70
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_06_-1084380192_-1335901954_-523318725.jpg"
+      - url: "https://i2-prod.mirror.co.uk/incoming/article30176846.ece/ALTERNATES/s1200/0_Apple-Unveils-New-Products-At-Its-Worldwide-Developers-Conference.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "From Integrating AI To Strictly Protecting Client Data, How Online Education Company Amesite Inc Is Doing Things Differently To Disrupt Learning"
-    excerpt: "As an online platform and product developer powered by artificial intelligence (AI), Amesite is positioning itself to disrupt ... In 2022 Amesite started a collaboration with Microsoft for the use of its Azure cloud, and it was featured in a story on ..."
-    publishedDateTime: 2023-06-07T13:11:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/06/32756767/from-integrating-ai-to-strictly-protecting-client-data-how-online-education-company-amesite-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "o9obf6lIpzmaiH0stVswwfVRvxA2oQGB6oIwcJaVULy8SXSn2g9/zLJZsx8akYpcjVbufuqDbOuZAQ9dQy40emENopRO55p3puzYMB2/T2rsTVilmJ7HUtb8cCciWhosUjToJUNKeoNDhs4Bk/H0moRRNcppJb9KwBcIBx2CVHf6pVIO4t+W0JlCOAIGh65Ydxm0aJytoMTPtq7pz7eOYAwHWFhTdozufen2EZBDaTk2c4YQ/tqPYx0JjxwwzpWpvGjg5EorZrWAUHzMnBe7HrRdrFYY5oVtvvGNmm/esp8jSidFaHElTvMwpQyRvz2dGLa3w7F0iOyVoFQbZIN1IBx8yayKcgfS3FJzHhQfgnY=;1zCdV5tLQuBVzaDlZUrTSw=="
 ---

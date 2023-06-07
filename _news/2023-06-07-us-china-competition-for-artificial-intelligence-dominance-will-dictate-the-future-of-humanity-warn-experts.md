@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/us-china-competition-artificial-intell
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/us-china-competition-artificial-intelligence-dominance-dictate-the-future-of-humanity-warn-experts.amp"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Investments are needed to stop the US from falling behind China in AI"
+    excerpt: "Incentives, investment and a light regulatory hand on artificial intelligence will allow the U.S. to prevent the Chinese Communist Party from achieving its AI domination dreams."
+    publishedDateTime: 2023-06-07T17:00:00Z
+    webUrl: "https://thehill.com/opinion/national-security/4034909-investments-are-needed-to-stop-the-us-from-falling-behind-china-in-ai/"
+    ampWebUrl: "https://thehill.com/opinion/national-security/4034909-investments-are-needed-to-stop-the-us-from-falling-behind-china-in-ai/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/national-security/4034909-investments-are-needed-to-stop-the-us-from-falling-behind-china-in-ai/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/artificial_intelligence_getty-.jpg?w=1280"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Why AI will ultimately lose the war of creativity with humanity"
     excerpt: "Art created by artificial intelligence is everywhere. But, as a leading AI scientist explains, these works will always lack a creative spark."
     publishedDateTime: 2023-06-04T09:49:00Z

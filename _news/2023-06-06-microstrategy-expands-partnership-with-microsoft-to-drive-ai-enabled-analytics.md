@@ -132,6 +132,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "BHP and Microsoft use AI to boost copper recovery at Escondida"
+    excerpt: "The use of new digital technology to optimise concentrator performance at the world's biggest copper mine in Chile is expected to improve recovery."
+    publishedDateTime: 2023-06-07T17:18:00Z
+    webUrl: "https://www.mining.com/bhp-and-microsoft-use-ai-to-boost-copper-recovery-at-escondida/"
+    type: article
+    provider:
+      name: Mining
+      domain: mining.com
+    quality: 34
 
 secured: "kSEiSB7wGcFKQvW3GZ8TSBO1xjLFwDnmQaQ5r24JfOv6b+awKNbY1cc6JE5I2tyZqQYbtN5XUlAx/N1nf8A3xnN2Sf/n7dV2Ea1r7NG0b2GiNSRADQyTya6I9pSa8y7hWEReNd9Rm7VzYBKpofMs9bqQCd4TvU0u6Fq0RTW7fz1jIAKkvaVMJUeT6FHhKtQV9wvw53RkvU+JHb52hO6ia6i32oQ13yhupAHkCdiEnWZMU3oPwldImYEPin8EcZ/jULi793PMw+0bUwMY0mBy31B7XLZYN1S5aI7u0SEOsv9BQZOM0/268e/e72Ndv+UHULBVePspjd84ahi4V25FV11JWlxpnUZ35xHWcDhC4wA=;XHZqkyDCtEYWGolC2LMMwg=="
 ---

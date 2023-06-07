@@ -26,18 +26,32 @@ images:
 
 related:
   - title: "WordPress's New AI Tool Can Write Entire Blog Posts For You"
-    excerpt: "WordPress is incorporating ChatGPT-like technology through an AI-powered tool that can write entire blog posts for you. The so-called “Jetpack Assistant AI” is arriving as an experimental feature for users to try out starting today."
+    excerpt: "The Jetpack AI Assistant uses large language models from ChatGPT's developer OpenAI. WordPress is incorporating ChatGPT-like technology through an AI-powered tool that can write entire blog posts for you."
     publishedDateTime: 2023-06-07T15:30:00Z
-    webUrl: "https://au.pcmag.com/ai/100360/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you"
+    webUrl: "https://www.pcmag.com/news/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 69
+    quality: 67
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/w/wordpresss/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you_dmyz.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/060tUMI8mtRg2xOSiP2UTQq-1.fit_lim.size_1200x630.v1686149363.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "WordPress is getting an AI assistant that will write blog posts for you"
+    excerpt: "Automattic Inc., the company that runs WordPress.com and contributes to the open-source WordPress content management software, today released a new artificial intelligence-powered tool that can help users write and edit blog posts."
+    publishedDateTime: 2023-06-07T16:31:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/wordpress-getting-ai-assistant-will-write-blog-posts/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/jetpack-ai-assistant-image.jpg"
+        width: 1263
+        height: 710
         isCached: true
 
 secured: "mpD3xif3ULiHR1WBKi1k5rEXU50MwqKudr4RLVGFOfqX4w9W3WoQNAsA+VwP4VokBY+Q0VvGNeOVz9nP/hEdamy0HYwagqiyksNKjFi4p9rlhuFq7lXPUo1HwsHFtNbI5zLWOWGitCl/QuaPCrRSCdVShkRVFbvjC5F18/fCCELOWCmM9iQt73w1z/liH5te9dDtYhxXkljNXhLZ/TFkQCfZq84CgtjvhzLO/etA4jhZzEkSNHn0+rv8//YKE8JbMT+XDTkLelIqji3JfGMfWOOpjlROKAg/q4OKIAJzqQGKnO/eLwzCRoDhh+ZDNo/KSs0EDeXr/7eUra08bITcLNSOWt82JetHUeIY3m1LQRYlcQZvLICUf6NQAliQubwLjWV+g94CgrCenbUdFnXD6wkKiznx57WU7OBpsuGn/RiqDGjn8GBAHwFHsTNanXS5QzRvTsUUIhzr/OXyCWZ41ghIizrNr3o3/3pkyL35AWfI3jHxh/WSbnIG9QLSVdORq5S82Liszq2ReJTZklw6dA==;4DxP2mQaWJY8Ups4GNhjTQ=="

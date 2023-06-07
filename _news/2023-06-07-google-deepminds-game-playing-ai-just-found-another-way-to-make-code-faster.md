@@ -28,6 +28,36 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind repurposes game-playing AIs to optimize code and infrastructure"
+    excerpt: "DeepMind's AIs mastered Go and Chess - now these game-playing models are taking on more practical (if boring) problems like video compression."
+    publishedDateTime: 2023-06-07T15:35:00Z
+    webUrl: "https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/"
+    ampWebUrl: "https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 103
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/deepmind-illo.jpg?resize=1200,680"
+        width: 1200
+        height: 680
+        isCached: true
+  - title: "Deepmind’s AI Is Learning About the Art of Coding"
+    excerpt: "AlphaDev has made small but significant improvements to decades-old C++ algorithms. Its builders say that’s just the start."
+    publishedDateTime: 2023-06-07T15:00:00Z
+    webUrl: "https://www.wired.com/story/deepminds-ai-is-learning-about-the-art-of-coding/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 86
+    images:
+      - url: "https://media.wired.com/photos/64800cea7b25a434b1f3be07/191:100/w_1280,c_limit/business_deepmind_ai_code.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Google DeepMind Unveils AI System to Discover Faster Algorithms"
     excerpt: "The new system, called AlphaDev, focuses on finding more efficient algorithms for software development"
     publishedDateTime: 2023-06-07T14:15:00Z
@@ -42,35 +72,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AlphaDev discovers faster sorting algorithms"
-    excerpt: "In our paper published today in Nature, we introduce AlphaDev, an artificial intelligence (AI) system that uses reinforcement learning to discover enhanced computer science algorithms – surpassing those honed by scientists and engineers over decades."
-    publishedDateTime: 2023-06-07T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms"
+  - title: "DeepMind made its AI name in games. Now it’s playing with the foundations of computing"
+    excerpt: "DeepMind wasn't only playing chess and Go for fun. The lab's new AlphaDev system applies the lessons from games to fundamental algorithms."
+    publishedDateTime: 2023-06-07T17:13:00Z
+    webUrl: "https://thenextweb.com/news/deepmind-applies-games-ai-to-fundamental-algorithms"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 76
     images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/64807d68d425bdd22cc43233_Copy%20of%20alphadev_01_06_crops_crop5_0114%20(1).png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Deepmind’s AlphaDev discovers sorting algorithms that can revolutionize computing foundations"
-    excerpt: "The AI system has made a significant breakthrough by uncovering faster sorting and hashing algorithms for AI developers worldwide."
-    publishedDateTime: 2023-06-07T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/deepminds-alphadev-discovers-sorting-algorithms-that-can-revolutionize-computing-foundations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/1200_x_675_pixels_-alphadev_presspack.png?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-6.jpg&signature=cdc070d431840e67fd8f122b3ceccef6"
+        width: 1280
+        height: 640
         isCached: true
 
-secured: "+tm3sJAoMsrgTeL+EYvFbu6sxDlNe1u8CbUp6O8hrBodaXsg98LwsnRAkPfC7lmdvxczYZ8nLa5i/lxiY+sRahGtTdBk6wIFPHQ6KokKmIldhTKc221R5pgjd7Qy0O0YZdsKMcTwdX7SL2q2ChluBX7mXvOH28FMXKK22pKsEauxWjUZ2XXfXyARixBb7adLuzkHjiGK0IdEIOZfrYRKhXGQB+Eyy1PXySVYh8cCBB6srBuH0G9c1dUQeRmt5+iNagsoc7Nr6S97+l4mhSvbY5aujNKaoP2qR5n6QSKWghmIaVrpLYSZjKhfwB0Fi993iVpWr9JM9WidpxM5mhw+/HVGtbZs93/Hyk1eEz6Aalc=;mwtPQWQVZtl1SWoXac3A5w=="
+secured: "tQVzWDTrUnLTJw/svuLocU4uztEDEzeJHryUP1dxz4XYqLZpPRQzKiwXgItfxC1wSVGJeijpZOyq/fo9jkcnWzws2CW5ryx1ib/oB6HtPj2yWOkobBfY2YVHNi6kiovJEnFlPHQnj5Bt00TXy+y8KkOIprsRRKmR5iNp+s5rYVPFuYoC+Rp07zMp+d5tUxWj6LZZTTl+UGDCNfWAy+oBu29NNzCrSf2hbq3nq3CbNOdt3esE2KHsGEfVJ6Rc1fJJ7f6x2cEi4k2gG/tQk/NYZwnLaQ2WicB4ecLYtXAbtX71kf5radziNx9LYy1qxr24xfpqK4G9zhFmBNucniCoEpBh5P18nBjLQmBDLSLRbmjlrlbpJfPIwWMK/FMuz6eF/RI5ou+ewKHgXqKAkAGtvoWlyUnwXBXfyk+hQim1sGNrHp1XLg+YSOvhrXpwnlDEoL39sqSbTSZSf/IN4eTZ9qkJ4v8byILmoiTxAM7WcbojUw2fR1Sp8DDBuXiRwhoYc6ka0n2Z0gN1DM8OqdUCLw==;Hi8ROXJwkpyQPiww5Ja0hA=="
 ---
 

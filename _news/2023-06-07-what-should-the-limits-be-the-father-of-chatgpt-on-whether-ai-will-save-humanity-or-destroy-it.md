@@ -29,22 +29,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "What technology will have the biggest impact on healthcare, per ChatGPT"
-    excerpt: "AI and machine learning algorithms will revolutionize healthcare, improving diagnostics, personalized medicine, and drug discovery."
-    publishedDateTime: 2023-06-05T15:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-technology-will-have-the-biggest-impact-on-healthcare-per-chatgpt.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-
 secured: "VV9BQx+BK0xiEhnMn6cjdpE+PPaomQWEZ1EPRSxsAPEkiRBvlck9bj/lJFls5vqt1H8k4NvpRpDMHyfdXR89amnocN/Usy3GFAQ5JCMzRlAKwy/egVdssL8yatdhlRblY7ra8QF93BQcHIl3DJCI+C3dFLnJxjGlqJEaV8krPlt4D+DWlXTeKGiw0ZiTRh61k7+nl1BNKbiSX09pZ+LS9wVHShF6rZ7ACmDw9eNSTv85hn2T+Hs1X6YJ3Ada8AxOBbFpWMJ5yReV6wmvMdC6ZZ+25E01O6lB9KCOiXrQS4L/gz7hVZg1uZjMFbNFFfjl0Xn5MXwH3JJX5zJAPLbmoofbbUZf9DSUBTTsoeMEe5tssvVUStFE4snj4wkyAyxt6WwfIDxsGHkPyGrAfhTTsOxVMZuuMpFGAuVEdcmnJdvXCVObR2Glkc9RuPHZgdDUS77zTu68hvUramJ4VLY3KRS8nOFF8vubQIUMNbVgHcMpFbWPFHkU5au7r7fHenqTIIE4mTQVeDUXNmNGU+u0fg==;R9puVYUaHCJyDBEyQAKaBg=="
 ---
 

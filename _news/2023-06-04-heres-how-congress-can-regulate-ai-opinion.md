@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 744
         isCached: true
+  - title: "Bard is getting better at logic and reasoning"
+    excerpt: "Two improvements are launching in Bard to help you get more accurate responses and export to Google Sheets."
+    publishedDateTime: 2023-06-07T16:00:00Z
+    webUrl: "https://blog.google/technology/ai/bard-improved-reasoning-google-sheets-export/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 74
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bard_Social_Share_1280x720.width-1300.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Bridging the regulatory gap plus other AI stories to read this month"
     excerpt: "This artificial intelligence round-up brings you key AI stories from the last month including EU and US aims to bridge the AI regulatory gap."
     publishedDateTime: 2023-06-06T08:21:00Z

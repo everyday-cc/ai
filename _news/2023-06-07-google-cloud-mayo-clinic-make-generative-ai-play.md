@@ -19,59 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "The Future of Generative AI from Google Cloud: What You Need to Know"
-    excerpt: "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that"
-    publishedDateTime: 2023-06-07T09:19:00Z
-    webUrl: "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
+  - title: "Google and Mayo Clinic Partner to Infuse AI Into Health Care"
+    excerpt: "Google Cloud launched a partnership with Mayo Clinic to implement use of its generative AI software, the tech giant announced ... as well as clinical protocols and research papers. With Google-level search capabilities, it can help health organizations ..."
+    publishedDateTime: 2023-06-07T17:37:00Z
+    webUrl: "https://www.cnet.com/health/medical/google-and-mayo-clinic-partner-to-infuse-ai-into-health-care/"
     type: article
     provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
-    quality: 59
+      name: CNET
+      domain: cnet.com
+    quality: 69
     images:
-      - url: "https://img.jagranjosh.com/images/2023/June/762023/google-ai.jpg"
+      - url: "https://www.cnet.com/a/img/resize/b619c70256fe80ec93cb22ae82d3099364a1f446/hub/2023/06/07/27bd616e-820d-43bf-8913-4eb7badfb1aa/gettyimages-1247992080-google-cloud-logo.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
-  - title: "AWS vs. Azure vs. Google Cloud: Which Is the Best Cloud Platform for You?"
-    excerpt: "Spread the loveCloud computing has been one of the biggest technological advancements in recent times. Cloud platforms like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP) have opened up a world of possibilities for businesses and developers alike."
-    publishedDateTime: 2023-06-05T01:27:00Z
-    webUrl: "https://www.thetechedvocate.org/aws-vs-azure-vs-google-cloud-which-is-the-best-cloud-platform-for-you/"
+  - title: "Google Cloud expands AI offerings with new tools, programs and partnerships"
+    excerpt: "Google Cloud is expanding into generative AI with a slew of new tools, services and programs aimed at helping businesses adopt the technology."
+    publishedDateTime: 2023-06-07T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/google-cloud-expands-ai-offerings-with-new-tools-programs-and-partnerships/"
     type: article
     provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 55
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/04/google-widgets-1200x720-710.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
-  - title: "Google Launches Free Generative AI Courses - Stock Continues To Rise"
-    excerpt: "AI has driven the tech market to new heights this year, bringing new investors into the ring as the craze continues."
-    publishedDateTime: 2023-06-06T12:09:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/06/06/google-launches-free-generative-ai-coursesstock-continues-to-rise/"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Healthcare and generative AI: What are the emerging use cases?"
+    excerpt: "Microsoft announces new partnerships with Nuance and Epic, integrating generative AI-powered tools to enable HCPs to document patient records and draft messages. – Google releases Med-Palm-2, a generative AI trained to answer medical questions,"
+    publishedDateTime: 2023-06-06T13:27:00Z
+    webUrl: "https://econsultancy.com/healthcare-generative-ai-examples/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
-  - title: "Does your agency have an AI usage policy yet? Here’s what you need to know"
-    excerpt: "As AI adoption continues, we ask a selection of agencies how they’re designing formal usage guidelines. How can agencies promote responsible use of AI tools without stifling experimentation? / Unsplash The emergence of generative artificial intelligence (AI) as a viable tool for the modern workplace has thrown up myriad ethical and legal issues."
-    publishedDateTime: 2023-06-06T09:27:00Z
-    webUrl: "https://www.thedrum.com/insight/2023/06/06/does-your-agency-have-ai-usage-policy-yet-here-s-what-you-need-know"
+      name: Econsultancy
+      domain: econsultancy.com
+    quality: 38
+  - title: "Local physicians offer insight on future of AI in health care"
+    excerpt: "That is according to a recent study from physicians at the University of Alabama at Birmingham. Dr. Andrew Smith, vice chair of innovation in the radiology department and clinical director of AI in the Marnix E."
+    publishedDateTime: 2023-06-06T03:53:00Z
+    webUrl: "https://www.bizjournals.com/birmingham/news/2023/06/05/uab-physicians-publish-ai-in-health-care-study.html"
     type: article
     provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 37
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/147154/tdp-still-article15.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 640
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
     excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
     publishedDateTime: 2023-06-07T13:30:00Z
@@ -90,15 +78,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 18
-  - title: "Genpact Teams With Google Cloud to Accelerate Artificial Intelligence Adoption for the Enterprise"
-    excerpt: "Genpact (NYSE: G), a global professional services firm focused on delivering outcomes that transform businesses today announced it is working with Google Cloud to help businesses accelerate artificial intelligence (AI) strategies,"
-    publishedDateTime: 2023-06-07T12:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9828204.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "qI2IWgyQOM0Fjf8zAGIHahzQNy7Mz1ghe6iNufam70+BhMOJuYvZHbSodMv3SvHgQaMj5wnVg7riWkvnLukD5cpq9Xz507zgVrnC5IFJzvtHQVsCCPNCijVabmjug54ulsfoJIGorqPGfX2L1pweN2Hlfdtu8S3qnAgXGYJnrsWkfwmGhs1Ndm0J89Tico0QVY3eR4uUgnU7nHzca6KcesU/VYSLzEHoyttnLV4gHQ9rPMtsYHxg2Kwtg3L8azHxjVe4w3eoBYMmP7SXKbqukVsTmBJWEvqbjhymFZARmAsY+5uF5foTUI6reoj82FF5I2ifDbYvtKR3LYWr05xPUwOev6VjOn2dqOP+tpJlKIBQ8Y9Y0IRFi+3WlLRqRMTDzXPWBcgeU0cfwalQuL43ytZiE15/hV6ucxwS3or06L8ZPMplg8tpqjFIHlPLfBgzkQPWap3qVROjlPMq9yj+wwrkSx1Ds4KiMMPZv11vhstOlYmbfVt1ERpmEZRdR9mcxlBiGlNoucD7nKe9326WpA==;conOuRTWHvBae6XhTXSZtA=="
 ---

@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "What’s Inside Nvidia’s AI Supercomputer? Powerful Chips and a Lot of Memory."
-    excerpt: "This past Monday, chip giant Nvidia which has seen its shares nearly triple to over $400 on rising demand for AI, announced its new DGX GH200 AI supercomputer powered by its GH200 Grace Hopper superchips. That’s a lot of letters, numbers, and supers."
-    publishedDateTime: 2023-06-02T23:35:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
+  - title: "SoftBank and NVIDIA to Bring Generative AI to Telcos"
+    excerpt: "Telco modernization will enable telcos to leverage AI to deliver a wide range of new services and automate operations."
+    publishedDateTime: 2023-06-05T19:48:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/softbank-nvidia-generative-ai-telcos/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 71
+      name: eWeek
+      domain: eweek.com
+    quality: 67
     images:
-      - url: "https://images.barrons.com/im-793870/social"
-        width: 1279
-        height: 640
+      - url: "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt-vs-github-copilot.png"
+        width: 1400
+        height: 788
         isCached: true
   - title: "4 AI or chip stocks to buy aside from Nvidia"
     excerpt: "NVIDIA and AMD will always go hand in hand whenever it comes to all prospects regarding Graphic Processing Units (GPUs). Prior to AI, AMD has always held a strong foothold in the PC space, powering most of the laptops alongside Intel Corporation (NASDAQ: INTC)."
@@ -55,31 +53,20 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "New superconducting diode could improve performance of quantum computers and artificial intelligence"
-    excerpt: "A University of Minnesota Twin Cities-led team has developed a new superconducting diode, a key component in electronic devices, that could help scale up quantum computers for industry use and improve the performance of artificial intelligence systems."
-    publishedDateTime: 2023-06-06T11:18:00Z
-    webUrl: "https://phys.org/news/2023-06-superconducting-diode-quantum-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2023-06-superconducting-diode-quantum-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-superconducting-diode-quantum-artificial-intelligence.amp"
+  - title: "TSMC rushes to increase packaging capacity for Nvidia AI chips"
+    excerpt: "TSMC has placed rush orders for CoWoS packaging equipment in order to meet surging demand for Nvidia's AI chips, according to sources at fab toolmakers."
+    publishedDateTime: 2023-06-06T01:35:00Z
+    webUrl: "https://www.digitimes.com/news/a20230605PD219/cowos-nvidia-tsmc.html"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 42
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/new-superconducting-di.jpg"
-        width: 1800
-        height: 1200
+      - url: "https://img.digitimes.com/newsshow/20230605pd219_files/2_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "This week in AI: Existential threat from AI, Nvidia announces AI supercomputer, UK wants global AI watchdog and more"
-    excerpt: "The DGX GH200 uses Nvidia's NVLink technology to combine 256 GH200 superchips, which each house an ARM-based Grace CPU, and H100 Tensor Core GPU, that allow for performance up to 1 exaflop (equivalent to one quintillion floating point operations per second) with a whopping 144 Terabytes of shared memory."
-    publishedDateTime: 2023-06-04T13:30:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/this-week-in-ai-existential-threat-from-ai-nvidia-announces-ai-supercomputer-uk-wants-global-ai-watchdog-and-more-10740031.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 0
 
 secured: "0aW5xirBSLQ+u2G0R1gSQGaJmtn2SAhrntEtUwMHlsV38s89haet6qHhf6xCzCQx2zqFPEZu9YY30n13MW2EZB65rDk8TlfetQpfQmVyCCWWYSUYmRtelil138BiR8SZWt5njek/Y+RXd91Jhy+wbuBQ3SPuZPnqe17t3PVfgro+MUeNQyya0rhIm33wpRS/dotqd2dbaBU5aYtzqDS8J1YT3NfLnAF2VWHAj736JNKUUrE/KaFOnFelDxvSiLllpy47JkQhw27D41vK2HdRVygTAHkpzzo6TzjPmyB9yBkouzIrSjhsdJg6uItgeGqTGoe7eFV8CZGgv//KLpiefRHg1kxWm3QXDg743G98q0hAt8CQiIM84DM7dMAC303iMzBvAoMmEpfNJzUO3BM1OgXxCPYgPXWeOrxC+uFRZR9onWCsIYr7eX5x/HP7YPT0kA4A7Ii8vo/CbZror7+owWYKzJG2c+Bzif5ad0MCJ1Gvx7AkgDAMPl4zVVr9MNi9Ivpu/sSZO0TOz167tLdYwQ==;OLBJoDrMtqbyLaEo97EIIQ=="
 ---

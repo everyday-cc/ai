@@ -487,6 +487,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-03-ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot.md",
+      "title": "AI chips: Here’s what they are, what they’re for, why they’re hot",
+      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed spec",
+      "sourceUrl": null,
+      "webUrl": "https://www.columbian.com/news/2023/jun/03/ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot/",
+      "originalUrl": "https://www.columbian.com/news/2023/jun/03/ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-03T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Columbian",
+        "domain": "columbian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-whats-inside-nvidias-ai-supercomputer-powerful-chips-and-a-lot-of-memory.md",
       "title": "What’s Inside Nvidia’s AI Supercomputer? Powerful Chips and a Lot of Memory.",
       "excerpt": "This past Monday, chip giant Nvidia which has seen its shares nearly triple to over $400 on rising demand for AI, announced its new DGX GH200 AI supercomputer powered by its GH200 Grace Hopper superchips. That’s a lot of letters, numbers, and supers.",
@@ -715,8 +758,8 @@
       "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
       "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
+      "webUrl": "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -733,8 +776,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108",
       "publishedDateTime": "2023-06-01T06:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1387,59 +1430,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training.md",
-      "title": "Amazon SageMaker XGBoost now offers fully distributed GPU training",
-      "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/30/sagemaker-xgboost-gpu-training.jpg",
-          "width": 1024,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T10:29:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI Hardware"
       ]
     }
   ],

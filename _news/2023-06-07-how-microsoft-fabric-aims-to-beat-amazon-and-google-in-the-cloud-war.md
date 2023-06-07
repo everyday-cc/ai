@@ -128,6 +128,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "BHP and Microsoft use AI to boost copper recovery at Escondida"
+    excerpt: "The use of new digital technology to optimise concentrator performance at the world's biggest copper mine in Chile is expected to improve recovery."
+    publishedDateTime: 2023-06-07T17:18:00Z
+    webUrl: "https://www.mining.com/bhp-and-microsoft-use-ai-to-boost-copper-recovery-at-escondida/"
+    type: article
+    provider:
+      name: Mining
+      domain: mining.com
+    quality: 34
   - title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
     excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
     publishedDateTime: 2023-06-06T12:22:00Z

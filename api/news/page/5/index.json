@@ -2,6 +2,498 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-04-what-latin-american-fintech-startups-can-teach-silicon-valley.md",
+      "title": "What Latin American Fintech Startups Can Teach Silicon Valley",
+      "excerpt": "As Silicon Valley-based startups contend with the reality of sustained high inflation, here are the lessons that they can learn from their neighbors in Latin America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ilonalimonta-volkova/2023/06/04/what-latin-american-fintech-startups-can-teach-silicon-valley/",
+      "originalUrl": "https://www.forbes.com/sites/ilonalimonta-volkova/2023/06/04/what-latin-american-fintech-startups-can-teach-silicon-valley/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647be613a0280688a413b283/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilonalimonta-volkova/2023/06/04/what-latin-american-fintech-startups-can-teach-silicon-valley/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilonalimonta-volkova/2023/06/04/what-latin-american-fintech-startups-can-teach-silicon-valley/amp/",
+      "publishedDateTime": "2023-06-04T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-04-derry-singer-roisin-quinn-who-had-stroke-at-14-finds-her-voice-again.md",
+      "title": "Derry: Singer Roisin Quinn, who had stroke at 14, finds her voice again",
+      "excerpt": "Now, four years on, Roisin has truly found her voice again. She is studying performing arts at Derry's North West Regional College and is choreographing a dance to reflect her journey. Later this month she will perform it at the Derry campus, where she has already starred in re-imaginings of Shakespeare's Romeo and Juliet and Macbeth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-northern-ireland-65786063.amp",
+      "originalUrl": "https://www.bbc.com/news/uk-northern-ireland-65786063.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/17063/production/_129970349_whatsappimage2023-06-01at09.26.08.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-northern-ireland-65786063.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-northern-ireland-65786063.amp",
+      "publishedDateTime": "2023-06-04T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-04-ai-poses-national-security-threat-warns-terror-watchdog.md",
+      "title": "AI poses national security threat, warns terror watchdog",
+      "excerpt": "Security services fear the new technology could be used to groom vulnerable people",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9a3d98be824baaddccb89605c324a9fa61aacfb4/168_0_3332_2000/master/3332.jpg?width=620&quality=85&auto=format&fit=max&s=e38cf6c3909a4fb8062ed0c96950171c",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog",
+      "publishedDateTime": "2023-06-03T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-04-new-technology-creates-ai-romantic-partners-for-users.md",
+      "title": "New technology creates AI romantic partners for users",
+      "excerpt": "As artificial intelligence continues to advance, some are now turning to technology to fill the void, engaging in friendships and sometimes romances with AI chatbots. NBC News’ Jake Ward explores the new frontier of modern relationships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/new-technology-creates-ai-romantic-partners-for-users-179778629880",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/new-technology-creates-ai-romantic-partners-for-users-179778629880",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1685832939527_nn_jwa_ai_romances_relationships_230603_1920x1080-2873om.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo179778629880",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo179778629880",
+      "publishedDateTime": "2023-06-03T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide.md",
+      "title": "How AI could change the ways we live and work, reducing the digital divide",
+      "excerpt": "Guest Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More AI is everywhere. Its use is being debated in headlines,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281732617.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-03T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-plan-for-facial-recognition-tech-in-schools-riles-rights-groups.md",
+      "title": "Plan for facial recognition tech in schools riles rights groups",
+      "excerpt": "Teachers and students of the Telangana’s government schools will likely have to mark their attendance on an app that uses facial recognition technology (FRT), even as groups emphasising the right to privacy continue to raise concerns about the use of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/exu8vf/article66928332.ece/alternates/FREE_1200/LOCAL%20ELECTIONS",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/",
+      "publishedDateTime": "2023-06-03T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-tesla-boosts-referral-program-to-help-sales-1000-off-and-3-months-of-free-full-self-driving.md",
+      "title": "Tesla boosts referral program to help sales, $1000 off and 3 months of free Full Self-Driving",
+      "excerpt": "Tesla is boosting its referral program to help sales at the end of the quarter with $1,000 off and 3 months of free Full Self-Driving for Model S and Model X, and more credits for Model 3 and Model Y.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/",
+      "originalUrl": "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2023/06/IMG_2404.png?w=472",
+          "width": 472,
+          "height": 1023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-03T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot.md",
+      "title": "AI chips: Here’s what they are, what they’re for, why they’re hot",
+      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed spec",
+      "sourceUrl": null,
+      "webUrl": "https://www.columbian.com/news/2023/jun/03/ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot/",
+      "originalUrl": "https://www.columbian.com/news/2023/jun/03/ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-03T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Columbian",
+        "domain": "columbian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-security-news-this-week-ai-is-being-used-to-turbocharge-scams.md",
+      "title": "Security News This Week: AI Is Being Used to ‘Turbocharge’ Scams",
+      "excerpt": "Plus: Amazon’s Ring was ordered to delete algorithms, North Korea’s failed spy satellite, and a rogue drone “attack” isn’t what it seems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/security-roundup-ai-scams-voice-cloning/",
+      "originalUrl": "https://www.wired.com/story/security-roundup-ai-scams-voice-cloning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/647a58662cc57777ec67f04a/191:100/w_1280,c_limit/AI-Is-Being-Used-to-%E2%80%98Turbocharge%E2%80%99-Scams-Security-GettyImages-683670662.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-robot-takeover-not-quite-heres-what-ai-doomsday-would-look-like.md",
+      "title": "Robot takeover? Not quite. Here’s what AI doomsday would look like",
+      "excerpt": "Experts say the fallout from powerful AI will be less a nuclear bomb and more a creeping deterioration of society",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e5f4d936222873ba23161480fa267f6fb1ead285/0_0_5700_3800/master/5700.jpg?width=620&quality=85&auto=format&fit=max&s=046b8e059d1da3cb12fcb51f8c497ce0",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
+      "publishedDateTime": "2023-06-03T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-10-of-the-best-artificial-intelligence-courses-you-can-take-online-for-free.md",
       "title": "10 of the best artificial intelligence courses you can take online for free",
       "excerpt": "TL;DR: Find a wide range of free online courses on artificial intelligence at Udemy. Learn how to create engaging content, boost your productivity, and much more with the help of AI. It's too early to say whether or not artificial intelligence will end up ...",
@@ -709,489 +1201,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots.md",
-      "title": "7 ways you didn't know you can use Bing Chat and other AI chatbots",
-      "excerpt": "You can also use Bing Chat to generate unique drinks from fun prompts. For example, at a Bing press event in NYC, the company had a smoothie bar that used Bing Chat to make smoothies according to your favorite TV character.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
-      "originalUrl": "https://www.zdnet.com/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/8647ff8681b655b1556ed0e26907c10c6472ad79/2023/06/01/c92eb6e5-9691-45b3-9ad4-66599a5aa3df/gettyimages-1479076604.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
-      "publishedDateTime": "2023-06-02T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-ai-terminologies-101-how-attention-mechanism-is-transforming-deep-learning.md",
-      "title": "AI TERMINOLOGIES 101: How Attention Mechanism is Transforming Deep Learning",
-      "excerpt": "As machine learning and deep learning continue to revolutionize various industries, several innovative techniques and methodologies have been developed to optimize these learning processes. One of these techniques is the Attention Mechanism. In essence ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/06/understanding-attention-mechanism-in-deep-learning",
-      "originalUrl": "https://yourstory.com/2023/06/understanding-attention-mechanism-in-deep-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Screenshot2023-06-02at6-1685709549095.png?fm=png&auto=format",
-          "width": 2134,
-          "height": 1058,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence.md",
-      "title": "A Quantum Leap In AI: IonQ Aims To Create Quantum Machine Learning Models At The Level Of General Human Intelligence",
-      "excerpt": "At some point, quantum systems will more easily handle the ongoing exponential growth in data compared to classical computers, which may struggle to keep up. Theoretically, at some point in the not-too-distant future,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6479fa2e14cc95f64c13b283/0x0.jpg?format=jpg&width=1200",
-          "width": 624,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/amp/",
-      "publishedDateTime": "2023-06-02T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-massrobotics-recognizes-2-women-for-their-robotics-accomplishments.md",
-      "title": "MassRobotics recognizes 2 women for their robotics accomplishments",
-      "excerpt": "This inaugural MassRobotics Robotics Medal award was presented to Nancy Amato for her research on the algorithmic foundations of motion planning and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/massrobotics-recognizes-2-women-for-their-robotics-accomplishments/",
-      "originalUrl": "https://www.therobotreport.com/massrobotics-recognizes-2-women-for-their-robotics-accomplishments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/massrobotics-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence.md",
-      "title": "How to thrive in a new era of AI with trust and confidence",
-      "excerpt": "AI is already helping organizations achieve great things, but it's time to take advantage of its full business potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
-      "originalUrl": "https://www.businessinsider.com/sc/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64777bfedf2567001837dccc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-fears-of-ai-are-greatly-exaggerated.md",
-      "title": "Fears Of AI Are Greatly Exaggerated",
-      "excerpt": "Of course there are the usual worker concerns about wages, but fears have also been expressed of how ChatGPT and like AI applications will replace writers. Apart from Hollywood’s concerns, there are also more widespread job fears.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/",
-      "originalUrl": "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6107edfcfc8e877cae7a6fed/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/",
-      "publishedDateTime": "2023-06-02T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-modernizing-child-support-enforcement-with-ibm-and-aws.md",
-      "title": "Modernizing child support enforcement with IBM and AWS",
-      "excerpt": "The IBM and AWS partnership can accelerate your child support enforcement modernization journey.\nThe post Modernizing child support enforcement with IBM and AWS appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/modernizing-child-support-enforcement-with-ibm-and-aws/",
-      "originalUrl": "https://www.ibm.com/blog/modernizing-child-support-enforcement-with-ibm-and-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T06:03:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
-      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc11.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "originalUrl": "https://abc11.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc11.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "cdnAmpWebUrl": "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "publishedDateTime": "2023-06-02T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVD",
-        "domain": "abc11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-ai-machine-learning-and-automation-what-agencies-need-to-know.md",
-      "title": "AI, Machine Learning And Automation: What Agencies Need To Know",
-      "excerpt": "Automation refers to the use of machines to automate routine tasks that would otherwise be executed by humans. It involves configuring a set of rules and triggers to initiate actions. While automation is often complex, it lacks AI’s ability to learn from data to optimize performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fa196489a65b17baccf944f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/",
-      "publishedDateTime": "2023-06-02T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-is-generative-ai-a-friend-or-foe-to-pr-practitioners.md",
-      "title": "Is Generative AI A Friend Or Foe To PR Practitioners?",
-      "excerpt": "The capabilities of AI are impressive and guaranteed to advance at light speed, but don’t hang your communications hats up just yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6478b9c953bca67d1aa62ddd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/amp/",
-      "publishedDateTime": "2023-06-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

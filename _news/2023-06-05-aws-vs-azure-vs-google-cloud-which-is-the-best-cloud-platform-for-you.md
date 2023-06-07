@@ -65,33 +65,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google Cloud, Mayo Clinic make generative AI play"
-    excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
-    publishedDateTime: 2023-06-07T12:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/google-cloud-mayo-clinic-generative-ai-search-chatgpt-hipaa"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
-  - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
-    excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
-    publishedDateTime: 2023-06-07T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/google-mayo-clinic-launch-generative-artificial-intelligence-collab"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
-  - title: "Google Cloud is partnering with Mayo Clinic as it tries to expand use of generative A.I. in health care"
-    excerpt: "Mayo Clinic will be using Google Cloud's generative artificial intelligence technology to help doctors and nurses more easily track patient data."
-    publishedDateTime: 2023-06-07T10:00:00Z
-    webUrl: "https://www.cnbc.com/2023/06/07/google-cloud-partners-with-mayo-clinic-brings-generative-ai-to-health.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 18
   - title: "Genpact Teams With Google Cloud to Accelerate Artificial Intelligence Adoption for the Enterprise"
     excerpt: "Genpact (NYSE: G), a global professional services firm focused on delivering outcomes that transform businesses today announced it is working with Google Cloud to help businesses accelerate artificial intelligence (AI) strategies,"
     publishedDateTime: 2023-06-07T12:17:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/6cc9c9d5-7006-43c9-8cb0-147a74031402?sh
 webUrl: "https://www.ft.com/content/6cc9c9d5-7006-43c9-8cb0-147a74031402?shareType=nongift"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,79 +22,6 @@ images:
     width: 900
     height: 506
     isCached: true
-
-related:
-  - title: "Nowhere for Investors to Hide From AI Hype"
-    excerpt: "This week, chip maker Nvidia was briefly worth more than $1 trillion, thanks to investor excitement about demand for its chips created by so-called “generative AI,\" the technology behind ChatGPT. Smaller AI-related stocks have also soared as investors search for the big winner from the latest fashionable theme."
-    publishedDateTime: 2023-06-02T23:59:00Z
-    webUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html"
-    ampWebUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/02/600x338/Nvidia_1685708783326_1685708790004.JPG"
-        width: 599
-        height: 338
-        isCached: true
-  - title: "RXO To Host Investor Webcast About Artificial Intelligence and Machine Learning in the Freight Industry"
-    excerpt: "Event will feature a conversation among Yoav Amiel, Chief Information Officer, Jared Weisfeld, Chief Strategy Officer, and RXO technologists RXO (NYSE:RXO) will host a webcast for investors about arti"
-    publishedDateTime: 2023-06-05T12:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32713884/rxo-to-host-investor-webcast-about-artificial-intelligence-and-machine-learning-in-the-freight-ind"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32713884"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32713884"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "AI chips are hot: Here's why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make"
-    publishedDateTime: 2023-06-05T15:04:00Z
-    webUrl: "https://www.news-journal.com/news/business/ai-chips-are-hot-heres-why-investors-see-gold/article_6d44afb2-03b2-11ee-bc1f-e72181d9132a.html"
-    type: article
-    provider:
-      name: Longview News-Journal
-      domain: news-journal.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/77/d7709f22-03b2-11ee-a124-0bc30dd5c12e/647dfa9936f24.image.jpg?crop=1646%2C864%2C0%2C196&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
-    publishedDateTime: 2023-06-04T04:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/jun/04/ai-chips-are-hot-tfp/"
-    type: article
-    provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 48
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/06/03/AP23152002685626_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "AP: AI chips are hot. Here’s what they are, what they’re for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed"
-    publishedDateTime: 2023-06-03T01:02:00Z
-    webUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
-    ampWebUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
-    cdnAmpWebUrl: "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
-    type: article
-    provider:
-      name: 92.7 WMAY
-      domain: wmay.com
-    quality: 46
 
 secured: "doBzWauM49n2rMUSIBxRqS5JPhoM+wG1A86ytX7WigKngYqyaZqR4Cxm8fM/0UnIJE49rfGoyJZ9eWjl9zMJtP9EMbthjjSbFp+286N1bHS4eOB7ZoVJSUPk0gHgqKpSDL/WwgVFHNgq6Eg5/Xidh340+1IfiWDM6xEMwJxCVbpXu4hrwfyKc34RrObeYJdB7K00tshi29QX12guoTE1x0JaNwX7xgL7Eh2g7rszX2VKR4LO0RXceAx3HQYFRcDG28jl2p2wmrxymaNQF5EaSh7y6I1U7qtJ5sL4xzIuJSsCuCgBWMPO0glfuJRfsrpagyJEYlgSFx5iobe7bLqtkBdA03Lg7FM6//XG0x5QpXg=;JfsoKjStl3EXdN6oqMhsSg=="
 ---
