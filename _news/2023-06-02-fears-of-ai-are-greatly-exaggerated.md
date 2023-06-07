@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 15 Biggest Risks Of Artificial Intelligence"
-    excerpt: "There's a dark side to AI. Learn about the potential negative consequences of this transformative technology and how we can help ensure a safer and more balanced future."
-    publishedDateTime: 2023-06-02T07:07:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647994d97ff0e466a60e1090/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Longer-term API attacks are suited to Artificial Intelligence security, says expert"
     excerpt: "CrowdStrike, which furthers CrowdStrike’s recent thrust in trying to cover all aspects of an organization”s cyber security, not just the traditional IT-related. “APIs are just growing like crazy,” said Michael Nicosia (pictured),"
     publishedDateTime: 2023-06-06T16:42:00Z

@@ -69,20 +69,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 54
-  - title: "OneDegree Global and Microsoft Join Forces to Drive Insurtech and Cybersecurity Innovations with Azure OpenAI"
-    excerpt: "OneDegree Global (OneDegree), a leading technology startup in the insurtech and cybersecurity sectors, is thrilled to announce a strategic partnership with Microsoft Hong Kong. This collaboration marks a major milestone as OneDegree integrates Azure OpenAI Service into its IXT insurtech and Cymetrics cybersecurity solutions,"
-    publishedDateTime: 2023-06-02T07:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-onedegree-global-microsoft-jo-forces-drive-insurtech-cybersecurity-/2023/06/02/9825439.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 50
-    images:
-      - url: "https://mma.prnewswire.com/media/2091414/OneDegree_Global_and_Microsoft_Join_Forces_to_Drive_Insurtech_and_Cybersecurity_Innovations_with_Azu.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "9rup0yzUxMrIhEei612PMNZN9L+agwFYXkW2oRqGqNMtfJ1RH1t0BYOTLSUU1RNO9cXdv3xgekR3rXr5DaYwyS/YsQA3qj+etpSmLnJx7g7i9d+ebmdv8kQ6tz5R/6wyZZcaaTtptysmUTqK4awRXnVCUl0AN9NEN78bFO1krKpyUUOvO6IVM9FcUlv1jE0+t7X3NqGHvGxkiPFWHo/tMdNHCKsuJxFJBwqrFjHwGdIEeHXPNJsrzm9kZXTYUUHoCSQORok/ELCIFCFIunbOGkD+8hwVjmnL8i6bxewMYSonk5mhwaKlPEjTUMawvZkLDZz2YqFCKSDq5afOQyP/d4pn7qkql7ISGpWs0zaw5jnSQu8lFd5J2rzgh4uctasqEpbAr9zHM/NcHd2wlNaDA2SXwYzF6HEE1iCN/RnNzQ6+HCWX72XIHTLVnGYe90dzjDkFpKVK3xk/YpcxHSbssWzdqOSBXeSWC87kDywvU71pGMQD8kKYBSLa3Q7FXJgoM8AhMo7lPAsiOYYOsAofPA==;Fi+/1m1EFz9k4Wgteih6HA=="
 ---

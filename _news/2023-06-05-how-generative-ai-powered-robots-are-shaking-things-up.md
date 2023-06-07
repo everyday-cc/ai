@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Funding for cloud-based generative AI"
-    excerpt: "Get ready for the rush of generative AI applications heading your way in 2024, but watch out for the size of the bill. Who is going to pay for it?"
-    publishedDateTime: 2023-06-02T09:04:00Z
-    webUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/01/red-wheel-barrow_pile-of-money_high-paying-salary-100745643-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Generative AI can save 5 hours of marketing hustle every week: Salesforce report"
     excerpt: "A survey from Salesforce and YouGov has revealed that generative AI can save marketers' five hours every week, or more than a month in a year."
     publishedDateTime: 2023-06-05T15:19:00Z

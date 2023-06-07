@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32746178"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32746178"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mount Sinai's deep learning tool unlocks 'language' of electrocardiograms"
+    excerpt: "Mount Sinai researchers have developed HeartBEiT, a deep learning model that can diagnose heart attacks better than existing methods for ECG analysis."
+    publishedDateTime: 2023-06-06T21:01:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/mount-sinais-deep-learning-tool-unlocks-language-of-electrocardiograms.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 53
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Researchers use new deep learning approach to enable analysis of electrocardiograms as language"
     excerpt: "Mount Sinai researchers have developed an innovative artificial intelligence (AI) model for electrocardiogram (ECG) analysis that allows for the interpretation of ECGs as language. This approach can enhance the accuracy and effectiveness of ECG-related diagnoses,"
     publishedDateTime: 2023-06-06T09:03:00Z

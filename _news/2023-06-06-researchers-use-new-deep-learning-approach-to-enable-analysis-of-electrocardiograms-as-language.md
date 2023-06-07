@@ -43,6 +43,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Mount Sinai's deep learning tool unlocks 'language' of electrocardiograms"
+    excerpt: "Mount Sinai researchers have developed HeartBEiT, a deep learning model that can diagnose heart attacks better than existing methods for ECG analysis."
+    publishedDateTime: 2023-06-06T21:01:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/mount-sinais-deep-learning-tool-unlocks-language-of-electrocardiograms.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 53
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "h8eMqu9Cc/HX5pXBwtdaVNl9Jd+J26z6dLiLEA5RrVoo6r69rTizBDYmyo3iJD86CHo1rMZjFRLIwBDTPwe8WO1shnPkLApDeG+Yzw9VtZje8S5LW9fiUKWXlt1fSSCxqXzwvbnbqkeAkXI9f+MAUsv4FYyRfqlfsf2mbSrE5PhtIuxkFnddN4dlRV7Bjrvax9bvOjGoK8CtQsEjQ9mdr4jS7UQZcvjiuAF5PrhL9+NUqX89ldheWLVvMyXGxEeGTO1pSOglKzumYJclrqFyUjFglN+gn0Dud6FWxwiOjrsXxcksQ+Oxb9gytNTpCR+/d+xMLWDP2MF7chn/YCP21kGSVpuxk5aKiyCYyeXQwHbTxzGRUjeEApKQgf/TbXJXBWGvQbrXkf5BpPbJ5Z9g9eZ9WQN8EVD9Y2iTXnkuDuwmrTHkohye+xdOXAWnoOsjSzjbvzF10FAP+OVTVbBBRRNddTkkHZ6gsSbUyIWhvzp/9RVl/fiW4/SrLl32M3nqUb4VMqHYjPCrTxubMlEnLw==;XRqG7E30pNGOOuRofz2HqA=="
 ---

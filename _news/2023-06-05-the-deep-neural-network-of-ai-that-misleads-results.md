@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The Deep Neural Network of AI That Misleads Results"
-excerpt: "Artificial intelligence has entered our daily lives ... scientists can get more reliable explanations out of powerful AIs known as deep neural networks. That means they can continue chasing down genuine DNA features. Those features might just signal ..."
-publishedDateTime: 2023-06-05T15:13:00Z
-originalUrl: "https://www.technologynetworks.com/neuroscience/news/the-deep-neural-network-of-ai-that-misleads-results-374252"
-webUrl: "https://www.technologynetworks.com/neuroscience/news/the-deep-neural-network-of-ai-that-misleads-results-374252"
+excerpt: "Assistant Professor Peter Koo has found that scientists using popular computational tools to interpret AI predictions are picking up too much “noise,” or extra information, when analyzing DNA. And he’s found a way to fix this."
+publishedDateTime: 2023-06-05T15:08:00Z
+originalUrl: "https://www.technologynetworks.com/informatics/news/the-deep-neural-network-of-ai-that-misleads-results-374252"
+webUrl: "https://www.technologynetworks.com/informatics/news/the-deep-neural-network-of-ai-that-misleads-results-374252"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "dGP3sz4NU1ohsBaeItoL27Obl/rD4wlZ9+STPEWfcIvq6rV1Ie3XD2AvO1taug1qkFLuCy2XStlKGuzxpbhbUY6iyuDL30tDH9d2aibc7JZ0Stmbhq72jO+t9aMZzxG/kYTDjDrnmtJB/nJBD7xayWmX+KJBkCTRiXUcUPMOFy5s09y4hlrIifFEIrDrvIBnm3qUr0L8qSjDz8qSW5w0ziN7ag80riTTCMFvluFIhTTCvVlhiovsei75VJPjFdZuhaFpGRumAkyXoSSccLnmlluyXQlVLqNV6Pq2PpZs8jg/crKw4DM3WzoAU9/vGiLugEfOpWB6Pm+IuGP0yAjeY6vCgtLPwIVHk8mSD1uDJYE=;SswVRzm5NkuLH6/fIvCySg=="
+secured: "Omizgp8J1oMNct8p+bwABKEd0d6NDPKd7JtyFAsWe6fbXSEvGwOyKxa82iWQ+r0/7XuHb81T98fi0mIDus8w/+T7LSH+nzSyJJMcMa+8mOCKfnr7yZNG1gMoTbIe3zYs/6PT604506eV7y3EimjGnysCwyEbUtZjlw401jBS/75Xr0QMtLx5RbC+/AuQq4W43ePo6wKLamyWt3IR/uaIobYAnW34EVFTjhPNmmtGeZfrdbzuzTTvHf6lohVriVrDXVKm+KM9ZTrbBB2nhrtCbbOlvAPLEcW5IE9xIvWv0tS0Q7xrzizwcmpXtJa+5OHEAIjRmrjdBOuujRAfySKiXTgyC6DgRH2D82jk4jDLWxI=;apldL30fs4f+4B1iW2K0cA=="
 ---
 

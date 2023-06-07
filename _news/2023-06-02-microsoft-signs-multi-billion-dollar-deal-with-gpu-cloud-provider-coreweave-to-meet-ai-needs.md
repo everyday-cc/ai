@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer"
+    excerpt: "I typed “Chrome” into the Microsoft Edge search bar. I was greeted with a full-screen Microsoft Bing AI chatbot window, which promptly told me it was searching for... Bing features. I get it to work on a different computer."
+    publishedDateTime: 2023-06-07T01:33:00Z
+    webUrl: "https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 81
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft’s CoreWeave Deal ‘Adds AI Pressure’ To AWS, Google"
     excerpt: "Microsoft’s AI deal with Nvidia backed CoreWeave for GPU and cloud infrastructure puts pressure on AWS and Google in the generative AI market."
     publishedDateTime: 2023-06-02T16:59:00Z
@@ -99,20 +113,6 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/75e42a10-f7e8-4c95-a097-723db263e3b9.jpg"
         width: 740
         height: 492
-        isCached: true
-  - title: "Microsoft Build 2023: Bing AI and Copilot Plugins for ChatGPT OpenAI, Microsoft Fabric and More"
-    excerpt: "This year's Microsoft Build was focused on artificial intelligence, with new Copilot experience additions for Windows 11 and Edge, as well as new Bing AI and Copilot plugins for ChatGPT OpenAI. Key announcements also included the Microsoft Fabric analytics platform,"
-    publishedDateTime: 2023-06-02T07:05:00Z
-    webUrl: "https://www.infoq.com/news/2023/06/microsoft-build-2023/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 42
-    images:
-      - url: "https://res.infoq.com/news/2023/06/microsoft-build-2023/en/headerimage/generatedHeaderImage-1685637758526.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
     excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
