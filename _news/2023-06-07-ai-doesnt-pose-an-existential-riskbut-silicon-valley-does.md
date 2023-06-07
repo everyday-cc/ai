@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenation.com/article/economy/artificial-intelligence-si
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/economy/artificial-intelligence-silicon-valley/tnamp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1440
     height: 907
     isCached: true
-
-related:
-  - title: "AI Poses Major Societal Risks, Says Statement Signed by Industry Leaders"
-    excerpt: "AI industry leaders, scientists and notables signed the statement that says mitigating the risks of AI should be a global priority."
-    publishedDateTime: 2023-06-02T19:28:00Z
-    webUrl: "https://www.cnet.com/tech/ai-poses-major-societal-risks-says-statement-signed-by-industry-leaders/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 46
 
 secured: "IRbBdAVKNDB8Eu3EIuKjn3D6R3OlQVT430nywi7OIxtg9EUZDlFNSOePgjuJ/3rteA/qtaBvwKRE+rnXSo325gkTJg520mj12ojw7DzEwnFp4ye1H8JOP/4bL3ooj6r2T+qi5jPxUsnweWu6MpDky7cJRqi/Js9goqfqu/sAHv+rCOufJXobw5tCcyreGJeHTHO75HrF6jl3fP6YwAmUMq8pr6jE8383UjHNUNBRkb9jKdTamB8FknJo3JV/FdyzBRsqFxKCBJrGnUB7MJ3Ks2IXJ1sXNiDA+mYvItj+n+cQFGQybHE6EejCuUGYYeAn7R+Ia/6i8iqRAnx5fcICf5mDLIyJaWejeAw7Q+s1d0+Dd//mFmBv2loAehz5R6JVbhTm/zoQ0OVW0oK+n9QzBJOXzoyxcNrlPWte/Xb03M0tvb6b5Fva9uFTOr3zrtcc/Imsz+QLARxgOHBueg7MVpYLuNcbcm4u9tm/TllK13vCNOAL7R34eQcLdYi2zRyVP1PoSrqRcDo+X7XBbMQGng==;rQPkgru+DuznGGvPm8QNCg=="
 ---

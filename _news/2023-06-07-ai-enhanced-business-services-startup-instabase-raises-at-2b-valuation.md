@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Instabase unveils AI Hub, a generative AI platform for content understanding"
+    excerpt: "Powered by generative AI, Instabase with its AI Hub aims to provide self-service solutions to harness the potential of AI-driven insights."
+    publishedDateTime: 2023-06-07T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/instabase-unveils-ai-hub-a-generative-ai-platform-for-content-understanding/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
 
 secured: "RTw/o3nbPxCJKzHLCT/SfQ4kAgDokWk89XA3LJyyUT5AmSb/pHQ4naOQEpqHzWHSMwdYvYgZb0x3+wjTvMC2rJVbhhcGuimwVsYJW9uzOlG3RDbR4y9wTHZBL8TDpWpS8zB4k8vL/pm/UXXWBgl6XPR6dWm967bm1N7DLal612s4aph6S7cF7td7X59Vi4bHu7k1RM7aX/z0lHukn34I6s/+xYvS/qFmIz1mmi8CXpjLGeq6KTF5FaI451SZuOrgTIBrvXJK5ZuWGQ4G7rwf82HujIKwJb6E2fibKLr55KKkKCeo15o6RKI/yhQ1BMRV8ISma2rx61+zjy4vaNtTBzzRJAApfpZKGG9UR8vSpUqXMLlRbkVRUbubTJ3WJjVWteqMzCszSlCmeVq3bpc494kVh5pcbTroJftpw61InU5ECggHDO0SdG1OWZnyvvgqhiqhKYsdhYrjW7Z/QY0rNUxvaavESojQ2J5HF+DDfcQy7I/K36P3hf6uIbAPcDjvU1Mma7kjGbLg0hKgHkFQ9g==;syXijoIChxts6ZCa90O/3Q=="
 ---

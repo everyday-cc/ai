@@ -93,6 +93,45 @@ related:
         width: 740
         height: 492
         isCached: true
+  - title: "Microsoft launches generative AI service for government agencies"
+    excerpt: "Microsoft's Azure OpenAI Service will allow departments to adapt generative AI models for tasks including content generation and semantic search."
+    publishedDateTime: 2023-06-07T15:03:00Z
+    webUrl: "https://fedscoop.com/microsoft-launches-azure-openai-service-for-government/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 56
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2021/11/GettyImages-1337905405.jpg?w=506"
+        width: 506
+        height: 337
+        isCached: true
+  - title: "OpenAI's ChatGPT Enters Government Sphere: Microsoft's Azure to Provide AI Models for Federal Users"
+    excerpt: "The company will not utilize data from Azure Government customers to train the AI models. Price Action: MSFT shares traded lower by 1.89% at $327.43 on the last check Wednesday."
+    publishedDateTime: 2023-06-07T15:03:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32759301/openais-chatgpt-enters-government-sphere-microsofts-azure-to-provide-ai-models-for-federal-users"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32759301"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32759301"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+  - title: "Microsoft will provide the US government agencies with OpenAI’s GPT-4 AI model"
+    excerpt: "Microsoft is expanding its Azure Government cloud computing service by incorporating the advanced AI language models that power ChatGPT. This move follows the"
+    publishedDateTime: 2023-06-07T15:09:00Z
+    webUrl: "https://onmsft.com/news/microsoft-will-provide-the-us-government-agencies-with-openais-gpt-4-ai-model/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 50
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/08/Azure-cloud-image.png"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "kSEiSB7wGcFKQvW3GZ8TSBO1xjLFwDnmQaQ5r24JfOv6b+awKNbY1cc6JE5I2tyZqQYbtN5XUlAx/N1nf8A3xnN2Sf/n7dV2Ea1r7NG0b2GiNSRADQyTya6I9pSa8y7hWEReNd9Rm7VzYBKpofMs9bqQCd4TvU0u6Fq0RTW7fz1jIAKkvaVMJUeT6FHhKtQV9wvw53RkvU+JHb52hO6ia6i32oQ13yhupAHkCdiEnWZMU3oPwldImYEPin8EcZ/jULi793PMw+0bUwMY0mBy31B7XLZYN1S5aI7u0SEOsv9BQZOM0/268e/e72Ndv+UHULBVePspjd84ahi4V25FV11JWlxpnUZ35xHWcDhC4wA=;XHZqkyDCtEYWGolC2LMMwg=="
 ---

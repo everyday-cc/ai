@@ -9,7 +9,7 @@ ampWebUrl: "https://www.retail4growth.com/viewpoints/lite/global-image-recogniti
 cdnAmpWebUrl: "https://www-retail4growth-com.cdn.ampproject.org/c/s/www.retail4growth.com/viewpoints/lite/global-image-recognition-in-retail-market-set-for-growth-says-report-1060"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

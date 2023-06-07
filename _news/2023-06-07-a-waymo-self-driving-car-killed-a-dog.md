@@ -9,8 +9,8 @@ ampWebUrl: "https://www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-kil
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
 type: article
 quality: 59
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Autoblog
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo Self-Driving Vehicle Kills Dog in San Francisco"
+    excerpt: "The dog ran into the street from behind a parked car causing what Waymo describes as an unavoidable incident. A Waymo robotaxi struck and killed a small dog in San Francisco last month while it was in self-driving mode."
+    publishedDateTime: 2023-06-07T13:32:00Z
+    webUrl: "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04SKS3KBJp73X6USecAt2qd-1.fit_lim.size_1200x630.v1686140384.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Waymo self-driving car killed dog in accident, says report"
     excerpt: "According to a Waymo spokesperson, neither the safety operator nor the autonomous system applied brakes to prevent a crash. In both cases, that was caused because of the dog's \"unusual path\" while travelling \"at a high rate of speed directly towards the side of the vehicle.\""
     publishedDateTime: 2023-06-07T09:01:00Z
@@ -43,22 +57,6 @@ related:
         width: 707
         height: 471
         isCached: true
-  - title: "Exploring sharper computer vision for self-driving cars and cybernetic avatars"
-    excerpt: "Just making a small tweak to algorithms typically used to enhance images could dramatically boost computer vision recognition capabilities in applications ranging from self-driving cars to cybernetic avatars,"
-    publishedDateTime: 2023-06-06T17:24:00Z
-    webUrl: "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/car-windshield.jpg"
-        width: 2880
-        height: 1908
-        isCached: true
   - title: "Waymo self-driving car killed dog in accident: Report"
     excerpt: "A Waymo robotaxi travelling in autonomous mode hit and killed a little dog last month in San Francisco according to an incident report filed with the California Department of Motor Vehicles"
     publishedDateTime: 2023-06-07T04:09:00Z
@@ -73,37 +71,19 @@ related:
         width: 426
         height: 439
         isCached: true
-  - title: "How self driving cars are getting ready for Indian roads"
-    excerpt: "Work on autonomous cars is on full throttle in India, but self-driving cars are still some time away"
-    publishedDateTime: 2023-06-04T08:26:00Z
-    webUrl: "https://www.headlinestoday.in/top-news/how-self-driving-cars-are-getting-ready-for-indian-roads-556665453.html"
+  - title: "Self-driving crash kills San Francisco dog"
+    excerpt: "San Francisco is a hub for self-driving vehicle development. Its streets recently saw a crash between a self-driving Jaguar and a dog."
+    publishedDateTime: 2023-06-07T02:52:00Z
+    webUrl: "https://www.perthnow.com.au/lifestyle/motoring/self-driving-crash-kills-san-francisco-dog-c-10902186"
     type: article
     provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 19
-  - title: "Luminar Partners with Plus to Develop Self-Driving Tech for Big Rigs"
-    excerpt: "The lidar maker Luminar is working with an autonomous-driving start-up to provide self-driving solutions to the commercial vehicle industry."
-    publishedDateTime: 2023-06-06T12:00:00Z
-    webUrl: "https://www.barrons.com/articles/luminar-partners-plus-lidar-self-driving-trucks-78447151"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
-  - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
-    excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
-    publishedDateTime: 2023-06-07T10:07:00Z
-    webUrl: "https://www.thenewsmarket.com/news/self-driving-cars-are-not-yet-on-our-roads--but-assisted-driving-systems-are-already-supporting-driv/s/4f416199-ae4e-438f-bbb6-7418798e6e40"
-    type: article
-    provider:
-      name: thenewsmarket
-      domain: thenewsmarket.com
-    quality: 1
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 24
     images:
-      - url: "https://preview.thenewsmarket.com/Previews/NCAP/StillAssets/960x540/644091_v3.jpg"
-        width: 1168
-        height: 657
+      - url: "https://images.perthnow.com.au/publication/C-10902186/cc57146a7bc8bebd0603f3d96206e4b96582f70e-16x9-x0y70w1339h753.jpg?imwidth=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "slIrICQGp43Lr8yaMsh6F549ff6tv7B6N8tH1MgJOycnCztU/MHRFctISkqkSwb1dILWpKO/0WzXuvTM3xGx7Q/wyQ3dso1ZrIP1YB8gvjeeBOPelGZOQYefP7+g8XK2lZOJ4ZYG12CeEfsh2n1u6CTDQMGLKf0d4kbCA4cxW/bFxmST4MoRCW1PtxQXgjs/ZzuTWPW7SDCaAzvJMQRNa78D9MXV+DduOOSsw4mnGibFnr9wvo+ye01o0uSToplpq80pJ/RZ09MBU09diu2ABwfcatFRsT8glBBlvGlVO3qR3VSZ1wjHp+5hs2xFDPuua2VhB/kqM00lVWWNAtp8j3XMAmdIjRZrlEn2hG+swInQkA3PJ4LkHKR1Jsh+o7rJsmWmCGGNAozYneEcqRz6U8PePsfxR7FAvP8uJpTwZNUnz6KgA118Fd9//eRQ54lHmc6gV1Mr43NYdPRroLYgtlp0ASRhML/kNcpom/eZErTtunEkO8FFGWAY5kLsGua7ZVkqoeZ073oRpFjPf2D+9g==;tFuPeKc3A6LfK1gJ7m194Q=="

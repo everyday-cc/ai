@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo Self-Driving Vehicle Kills Dog in San Francisco"
+    excerpt: "The dog ran into the street from behind a parked car causing what Waymo describes as an unavoidable incident. A Waymo robotaxi struck and killed a small dog in San Francisco last month while it was in self-driving mode."
+    publishedDateTime: 2023-06-07T13:32:00Z
+    webUrl: "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04SKS3KBJp73X6USecAt2qd-1.fit_lim.size_1200x630.v1686140384.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "A Waymo self-driving car killed a dog"
     excerpt: "And a self-driving car killing a sweet pooch has the potential to kick out that third leg. It also comes at a critical time for the industry and, specifically, for Waymo, which is expanding its robotaxi network in Phoenix and gearing up to charge fares for ..."
     publishedDateTime: 2023-06-06T22:02:00Z
@@ -57,53 +71,19 @@ related:
         width: 707
         height: 471
         isCached: true
-  - title: "Exploring sharper computer vision for self-driving cars and cybernetic avatars"
-    excerpt: "Just making a small tweak to algorithms typically used to enhance images could dramatically boost computer vision recognition capabilities in applications ranging from self-driving cars to cybernetic avatars,"
-    publishedDateTime: 2023-06-06T17:24:00Z
-    webUrl: "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp"
+  - title: "Self-driving crash kills San Francisco dog"
+    excerpt: "San Francisco is a hub for self-driving vehicle development. Its streets recently saw a crash between a self-driving Jaguar and a dog."
+    publishedDateTime: 2023-06-07T02:52:00Z
+    webUrl: "https://www.perthnow.com.au/lifestyle/motoring/self-driving-crash-kills-san-francisco-dog-c-10902186"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 24
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/car-windshield.jpg"
-        width: 2880
-        height: 1908
-        isCached: true
-  - title: "How self driving cars are getting ready for Indian roads"
-    excerpt: "Work on autonomous cars is on full throttle in India, but self-driving cars are still some time away"
-    publishedDateTime: 2023-06-04T08:26:00Z
-    webUrl: "https://www.headlinestoday.in/top-news/how-self-driving-cars-are-getting-ready-for-indian-roads-556665453.html"
-    type: article
-    provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 19
-  - title: "Luminar Partners with Plus to Develop Self-Driving Tech for Big Rigs"
-    excerpt: "The lidar maker Luminar is working with an autonomous-driving start-up to provide self-driving solutions to the commercial vehicle industry."
-    publishedDateTime: 2023-06-06T12:00:00Z
-    webUrl: "https://www.barrons.com/articles/luminar-partners-plus-lidar-self-driving-trucks-78447151"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
-  - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
-    excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
-    publishedDateTime: 2023-06-07T10:07:00Z
-    webUrl: "https://www.thenewsmarket.com/news/self-driving-cars-are-not-yet-on-our-roads--but-assisted-driving-systems-are-already-supporting-driv/s/4f416199-ae4e-438f-bbb6-7418798e6e40"
-    type: article
-    provider:
-      name: thenewsmarket
-      domain: thenewsmarket.com
-    quality: 1
-    images:
-      - url: "https://preview.thenewsmarket.com/Previews/NCAP/StillAssets/960x540/644091_v3.jpg"
-        width: 1168
-        height: 657
+      - url: "https://images.perthnow.com.au/publication/C-10902186/cc57146a7bc8bebd0603f3d96206e4b96582f70e-16x9-x0y70w1339h753.jpg?imwidth=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "YDZxmB5mywAZ8AA/wYNVacV3FrN1IslY0ony1WJB0x8EZXdDv0PxskiN51uocL3UAegZ7H7wMWmQNmBTEYHGgh7dBOjJeD+Td5LvsbJiwUD+EegrW87RboeNaI2j2aXEbogXGTvIjVdCWO5nVq063LC7SBNA1rPXe2DPRaj9bNsDlktLZI48QaKZ9YIuyLrGECAeLlkeIgew9l9S34+jNdRBlaTId2nyQvKlMzyTfpmI1Nb5eXfdRLuzWjF2CyxcUzIDkvWv9M4SBxfMNO0wLa4oWOw9ALQC8kc7v/hImneIZyHx+rCSVQzbD/CyHSwRn4g1wWz2qBYPQMz/76mRwlQUEadcdzqNrXxXTcJoo18=;418xe8Ri9UO4QtdYM68Kpw=="

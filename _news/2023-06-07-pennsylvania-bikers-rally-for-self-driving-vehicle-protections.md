@@ -37,20 +37,6 @@ related:
         width: 1882
         height: 1106
         isCached: true
-  - title: "E-scooters and Self-Driving Vehicles Inquiry"
-    excerpt: "Commons Transport Committee session on e-scooters and self-driving vehicles, with evidence from transport minister Jesse Norman and senior officials, from Wednesday 17 May."
-    publishedDateTime: 2023-06-03T01:50:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/m001n2rf"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 24
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p04bplqj.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "3/jkC+18nulOkKon06S4Qqd+OKh7FQQWgnSwSvhqy1B9w40WcFs97bNaYoDCbQ48hfX/OmqXINno7f5iElTqjsXotBX1CRmVbQrbtGAiWNXRF4okXkfk36PATjfLE6W4pjQZ4B4sDXBV1lZrXEcswoMNmIKIbfG8OU5NB5H/Po5OQOmizFmwq6dVlOgHpAk232sgJ9efG++vUVXXn1b1TWXdMcTeQvbEEyUzvZrzs3GVb+oP2q5YECIclyPegKfG/9pITVvXMv7HJk1bKsqELUXqXOamqcpg6s+i54Mof74HWJaZpKbGe971cqyfybKBTSYTPnWGYiOiPOIy2h1+YH1fNURRBR9wGEcxJl9w08k=;LjNXH6ecj8NkB5WEwWn/Qg=="
 ---

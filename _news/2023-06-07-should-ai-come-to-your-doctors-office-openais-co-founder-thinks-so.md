@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/should-ai-come-to-your-doct
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/"
 type: article
 quality: 89
-heat: 140
+heat: 139
 published: true
 
 provider:

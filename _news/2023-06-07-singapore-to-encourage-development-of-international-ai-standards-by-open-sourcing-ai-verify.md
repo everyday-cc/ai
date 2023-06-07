@@ -188,6 +188,20 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
+  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
+    excerpt: "Building on the momentum, Turacoz also hosted two consecutive webinars on \"Developing Scientific Publications Ethically in the Era of Generative AI (ChatGPT) \". These webinars provided participants with opportunities to explore the intersection o generative AI and scientific publications,"
+    publishedDateTime: 2023-06-07T13:42:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9828482.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/2095479/Generative_Artificial_Intelligence.jpg"
+        width: 399
+        height: 400
+        isCached: true
 
 secured: "su6+41092CXR6bAZ2hctlNZoHVBV64AhgVA9uc89zpwCN99Vu6Fa+eKMJnxi8vANnwH4KjG04rCmzkt+XCE1zRZo4/9VlTWqkDe5Gp3b2X+TN/TbF5jFtvCCrtlaf+5aKhyYsP8OxXe0Cl3JGHfJIGcuWK4vD33jjYPAKbmkclljyrblVyrDmx5pYdKmoUTnrngeCuJP1ZFZSBQVpF7VxFp8koh/Wy/c5+xXWF/+/VLfeo5EeIQgJk9NfJqpjgmeHuiQUacd7MTcwQtq1eXCp0Az3pXuMClixO4ABRXA0lnz2AiHliaxkJGQcs+TSAbo9qWlUcp8xAthq1hjbBe21qxku+qf2Usv3TYi1FKFA7sS5ktrdoauFpEiT1A+D4Vtfbs1av9jwZ6RbG65aEe5/f5vq5mit5Ta2U1ftZTCQumMg3O6duk2suZc4cMSXk3dgDzYMCH9Soi+9IXrGVtaXHr7NnuRYo2biS/HUuEHCZy7KtmD2kTNIwN5apV3RF2XfKT61BtSengbSCZeqChtaQ==;caPGeteeu3Cxhnlxeguxag=="
 ---

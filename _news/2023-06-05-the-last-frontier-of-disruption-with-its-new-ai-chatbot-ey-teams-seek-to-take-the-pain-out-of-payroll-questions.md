@@ -99,6 +99,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Intelligent Classrooms: What AI Means For The Future Of Education"
+    excerpt: "AI systems will have expansive implications for how schools function, teachers work, and how students prepare for tomorrow's world of work."
+    publishedDateTime: 2023-06-07T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/vickiphillips/2023/06/07/intelligent-classrooms-what-ai-means-for-the-future-of-education/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Can ChatGPT AI Answer Your Asphalt Questions?"
     excerpt: "The rise of \"A.I.\" to the level of household name means everyone has an opinion, but true expertise is harder to come by. What can these algorithms do for the likes of our industry? Can they help you answer your asphalt or business questions?"
     publishedDateTime: 2023-06-05T13:32:00Z
@@ -157,8 +166,8 @@ related:
         isCached: true
   - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
     excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
-    publishedDateTime: 2023-06-06T13:34:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827428.htm"
+    publishedDateTime: 2023-06-06T14:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aprimo-introduces-ai-content-coach-with-chatgpt-revolutionize-/2023/06/06/9827428.htm"
     type: article
     provider:
       name: TMCnet

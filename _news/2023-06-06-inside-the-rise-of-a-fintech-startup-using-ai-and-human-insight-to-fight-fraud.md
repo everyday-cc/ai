@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-ris
 webUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-rise-of-a-fintech-startup-using-ai-and-human-insight-to-fight-fraud/"
 type: article
 quality: 65
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 647
         height: 633
         isCached: true
+  - title: "Tenet Fintech Group Inc.: Tenet Closes First Tranche of Private Placement of up to CAD$3M"
+    excerpt: "Toronto, Ontario--(Newsfile Corp. - June 7, 2023) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative fintech technology services provider and operator of the Cubeler® Business Hub, announced today that it has ..."
+    publishedDateTime: 2023-06-07T12:38:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59282839-tenet-fintech-group-inc-tenet-closes-first-tranche-of-private-placement-of-up-to-cad-dollar-3m-296.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "aUZs+0N04MSrDIiaNIEtzNebU/ddrjIwBxq1thDoqvg5f5/trv5K7WaaM2xqMdOOSB8rg7ldWCsT6ruxXo7E9WJ8TXbfCOOTTJZ06g7ofZN/hO7juqoKjeaJ8m48P1OAqUMEdN6qaNj7dsOwfr0IxiQVnJZc2BaY3GO9YbTcu7Pe9byQggVON5oCMP9KxEWNYS59iuVPjkZI4EO8170jJ5oIMQVbfPlINGpZIkVjmYxVBDOi+QCGH252M3XaAsxFZOeG0wr5PhjXTElj/T70AdxTt4NeNLImRfOofbPMFz9BulZR82EAkPwHIjHJYbQ1zelmbx06KJh9K+w5ev2vyef2rk2iZTUOwtD2e/ML4v37iHKLMhVl0HxIdfd60f8jUur+C80zm6Fbnl7rgc1RVMiTMaA3/HX11/m9FWAeoVJU6vM4Ct5Jq/lh6h5GabcwfwQd1OrMaEu/L9ck2Eb1ng9jPV+EFyQyzhOT+tJ3nc1+CLTWGlIvxF3sZTF2N5xxLo2Unka5Mk4xFWa+2WjKSQ==;XIG16w0u/tExCTzZaeounA=="
 ---

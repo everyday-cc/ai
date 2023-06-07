@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://i.dailymail.co.uk/1s/2023/05/25/18/71416449-0-image-a-229_1685037259162.jpg"

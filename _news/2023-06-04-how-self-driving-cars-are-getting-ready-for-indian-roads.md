@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "A Waymo self-driving car killed a dog"
-    excerpt: "And a self-driving car killing a sweet pooch has the potential to kick out that third leg. It also comes at a critical time for the industry and, specifically, for Waymo, which is expanding its robotaxi network in Phoenix and gearing up to charge fares for ..."
-    publishedDateTime: 2023-06-06T22:02:00Z
-    webUrl: "https://www.autoblog.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
-    ampWebUrl: "https://www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 59
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-10/fc275060-2ddd-11ec-9df6-28e42309b04a"
-        width: 1062
-        height: 597
-        isCached: true
-  - title: "Waymo self-driving car killed dog in accident, says report"
-    excerpt: "According to a Waymo spokesperson, neither the safety operator nor the autonomous system applied brakes to prevent a crash. In both cases, that was caused because of the dog's \"unusual path\" while travelling \"at a high rate of speed directly towards the side of the vehicle.\""
-    publishedDateTime: 2023-06-07T09:01:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
-    ampWebUrl: "https://m.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
-    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 59
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/6/2023_6$largeimg_400747444.jpg"
-        width: 707
-        height: 471
-        isCached: true
   - title: "Exploring sharper computer vision for self-driving cars and cybernetic avatars"
     excerpt: "Just making a small tweak to algorithms typically used to enhance images could dramatically boost computer vision recognition capabilities in applications ranging from self-driving cars to cybernetic avatars,"
     publishedDateTime: 2023-06-06T17:24:00Z
@@ -67,29 +35,20 @@ related:
         width: 2880
         height: 1908
         isCached: true
-  - title: "Waymo self-driving car killed dog in accident: Report"
-    excerpt: "A Waymo robotaxi travelling in autonomous mode hit and killed a little dog last month in San Francisco according to an incident report filed with the California Department of Motor Vehicles"
-    publishedDateTime: 2023-06-07T04:09:00Z
-    webUrl: "https://glamsham.com/world/technology/waymo-self-driving-car-killed-dog-in-accident-report"
+  - title: "E-scooters and Self-Driving Vehicles Inquiry"
+    excerpt: "Commons Transport Committee session on e-scooters and self-driving vehicles, with evidence from transport minister Jesse Norman and senior officials, from Wednesday 17 May."
+    publishedDateTime: 2023-06-03T01:50:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/m001n2rf"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 39
+      name: BBC
+      domain: bbc.co.uk
+    quality: 24
     images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/06/2881ebf1e4dc0cdb98b50f9b5cfdcb15.jpg"
-        width: 426
-        height: 439
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p04bplqj.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Luminar Partners with Plus to Develop Self-Driving Tech for Big Rigs"
-    excerpt: "The lidar maker Luminar is working with an autonomous-driving start-up to provide self-driving solutions to the commercial vehicle industry."
-    publishedDateTime: 2023-06-06T12:00:00Z
-    webUrl: "https://www.barrons.com/articles/luminar-partners-plus-lidar-self-driving-trucks-78447151"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
   - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
     excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
     publishedDateTime: 2023-06-07T10:07:00Z

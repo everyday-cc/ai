@@ -9,7 +9,7 @@ ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/the-future-of-gener
 cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
 type: article
 quality: 59
-heat: 89
+heat: 129
 published: true
 
 provider:
@@ -64,6 +64,42 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google Cloud, Mayo Clinic make generative AI play"
+    excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
+    publishedDateTime: 2023-06-07T12:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/google-cloud-mayo-clinic-generative-ai-search-chatgpt-hipaa"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
+  - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
+    excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
+    publishedDateTime: 2023-06-07T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/google-mayo-clinic-launch-generative-artificial-intelligence-collab"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
+  - title: "Google Cloud is partnering with Mayo Clinic as it tries to expand use of generative A.I. in health care"
+    excerpt: "Mayo Clinic will be using Google Cloud's generative artificial intelligence technology to help doctors and nurses more easily track patient data."
+    publishedDateTime: 2023-06-07T10:00:00Z
+    webUrl: "https://www.cnbc.com/2023/06/07/google-cloud-partners-with-mayo-clinic-brings-generative-ai-to-health.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 18
+  - title: "Genpact Teams With Google Cloud to Accelerate Artificial Intelligence Adoption for the Enterprise"
+    excerpt: "Genpact (NYSE: G), a global professional services firm focused on delivering outcomes that transform businesses today announced it is working with Google Cloud to help businesses accelerate artificial intelligence (AI) strategies,"
+    publishedDateTime: 2023-06-07T12:17:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9828204.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "k3ybw5Fy2VdrWXHD2MBrILwKjraeB/+cR6of1aVAn3A6eINqSLh1Vi9LSrlGgRck7Ia+FIzAjnIi73gTwJfE8UsiSRiBy3Zbge2CKDEIuawhhpXg4US/w4xMZxuguBN2OL5z4huSexF2WdT5RZzMK9UvoQuz1N+WFSSjGnr9hr6xuE4BzhA5ZUZCAR2JuCQcddB3BKgF3GZUDPTgxg2owWvwyzrnJXVeGabCdsCNfx+LVh9uaDf5q/EXETZp1LbAGr4xSJ3lO4tjs68c/5a04emNS3sHrCkI9nn4Az1U/i7IkcRfb9TXU+hWjMVmlNzHSbPmpVmopcnY25nY9R3omrq/CxmCNUd3q+N7nsmxKLQ=;uyXbENSs4N08dY6JSCbXBw=="
 ---

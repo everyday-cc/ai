@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-07-a-waymo-self-driving-car-killed-a-dog.md",
-      "title": "A Waymo self-driving car killed a dog",
-      "excerpt": "And a self-driving car killing a sweet pooch has the potential to kick out that third leg. It also comes at a critical time for the industry and, specifically, for Waymo, which is expanding its robotaxi network in Phoenix and gearing up to charge fares for ...",
+      "path": "_news/2023-06-07-waymo-self-driving-vehicle-kills-dog-in-san-francisco.md",
+      "title": "Waymo Self-Driving Vehicle Kills Dog in San Francisco",
+      "excerpt": "The dog ran into the street from behind a parked car causing what Waymo describes as an unavoidable incident. A Waymo robotaxi struck and killed a small dog in San Francisco last month while it was in self-driving mode.",
       "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog/",
-      "originalUrl": "https://www.autoblog.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog/",
+      "webUrl": "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco",
+      "originalUrl": "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-10/fc275060-2ddd-11ec-9df6-28e42309b04a",
-          "width": 1062,
-          "height": 597,
+          "url": "https://i.pcmag.com/imagery/articles/04SKS3KBJp73X6USecAt2qd-1.fit_lim.size_1200x630.v1686140384.jpg",
+          "width": 1120,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/",
-      "publishedDateTime": "2023-06-06T15:02:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T06:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-the-transformative-power-of-artificial-intelligence-in-everyday-life.md",
+      "title": "The Transformative Power of Artificial Intelligence in Everyday Life",
+      "excerpt": "Artificial intelligence (AI) has become an integral part of our lives, revolutionizing the way we work, communicate, and navigate the world around us. | The Eastern Herald",
+      "sourceUrl": null,
+      "webUrl": "https://www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/",
+      "originalUrl": "https://www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagedelivery.net/-CGPfOWoVHcRcTbwHaRGUQ/www.easternherald.com/2023/06/Transformative-Power-of-Artificial-Intelligence-google-news.png/w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/?amp=1",
+      "cdnAmpWebUrl": "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/?amp=1",
+      "publishedDateTime": "2023-06-07T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Eastern Herald",
+        "domain": "easternherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -42,6 +94,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-exploring-sharper-computer-vision-for-self-driving-cars-and-cybernetic-avatars.md",
+      "title": "Exploring sharper computer vision for self-driving cars and cybernetic avatars",
+      "excerpt": "Just making a small tweak to algorithms typically used to enhance images could dramatically boost computer vision recognition capabilities in applications ranging from self-driving cars to cybernetic avatars,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/car-windshield.jpg",
+          "width": 2880,
+          "height": 1908,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp",
+      "publishedDateTime": "2023-06-06T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1226,83 +1322,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-elon-musk-says-teslas-self-driving-tech-is-better-than-humans.md",
-      "title": "Elon Musk says Tesla’s self-driving tech is better than humans",
-      "excerpt": "He predicted Tesla’s self driving tech will reach a point where it ”exceeds human-level safety this year”. And he said the manufacturer was ahead of the curve on artificial intelligence for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thechronicle.com.au/motoring/hitech/elon-musk-says-teslas-selfdriving-tech-is-better-than-humans/news-story/fa1f9b8174b46422a7c85f87533a90f6",
-      "originalUrl": "https://www.thechronicle.com.au/motoring/hitech/elon-musk-says-teslas-selfdriving-tech-is-better-than-humans/news-story/fa1f9b8174b46422a7c85f87533a90f6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Toowoomba Chronicle",
-        "domain": "thechronicle.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-sec-looks-to-provide-rules-on-predictive-data-analytics-chair-gensler-says.md",
-      "title": "SEC Looks to Provide Rules on Predictive Data Analytics, Chair Gensler Says",
-      "excerpt": "U.S. Securities and Exchange Commission Chair Gary Gensler said Tuesday that artificial intelligence tools offer promise to companies seeking to detect marketplace trends but also",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/texaslawyer/2023/05/17/sec-looks-to-provide-rules-on-predictive-data-analytics-chair-gensler-says/",
-      "originalUrl": "https://www.law.com/texaslawyer/2023/05/17/sec-looks-to-provide-rules-on-predictive-data-analytics-chair-gensler-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/292/2023/05/Gary-Gensler-2-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "TSA expands testing of facial recognition technology as some in Congress voice concerns"
-    excerpt: "The agency is expanding its testing phase of facial recognition technology to make sure you match your ID from 16 to 28 airports nationwide."
-    publishedDateTime: 2023-06-02T19:19:00Z
-    webUrl: "https://www.whio.com/news/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/ZCZOEZJBVZB23HDE2VBWY3RARA/"
-    type: article
-    provider:
-      name: WHIO
-      domain: whio.com
-    quality: 13
 
 secured: "kRX3jzKv/30wUfjCaNWsQtSLi8QRuGoRe9SzqXaTNGC7tGvUt9yyn2G3oURznFTYsKeDAXHQnj0IKGd8jtnkxtPLmb+ZXSV+HJ7F2YoPvmTOxC2utxBPbgi9+AnxjBAU/TCAXC0hU8HmabQGV0mvawQsmRe7IBwEnrPfj+S224jMfm9t/zLQV/BCN4h9k7MbWiKkxtr2Hxp1Mn35DTXsfld5xsfPDs4ixZagHeNvbgMVqTkoDDpfOIoUUWCwzMvmwlezsyAZejGEi+6wv4PhMlsKsoyJRiZkfYYNvhQX0/kzpSedSyjzE3WA9ShazdBTSumv4MPfwdcqpLvvbMfEz8+UgYabZlWus7fsCjnmlFs=;3kh3k3udYd1zwp8zvkusJA=="
 ---

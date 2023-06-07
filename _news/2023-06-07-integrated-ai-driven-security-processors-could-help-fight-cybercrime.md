@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cisco announces next-gen solutions boosting security and productivity with generative AI"
+    excerpt: "By harnessing LLMs across its collaboration and security portfolios, Cisco aims to enhance productivity and simplicity within organizations."
+    publishedDateTime: 2023-06-07T15:30:00Z
+    webUrl: "https://venturebeat.com/ai/cisco-announces-next-gen-solutions-security-productivity-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 75
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screenshot-2023-06-06-213946.jpg?w=1200&strip=all"
+        width: 1200
+        height: 710
+        isCached: true
   - title: "Insider Q&A: Artificial Intelligence and Cybersecurity In Military Tech"
     excerpt: "Shift5 founder Josh Lospinoso discusses AI and how software vulnerabilities in weapons systems are a major threat to the U.S. military."
     publishedDateTime: 2023-06-03T19:47:00Z

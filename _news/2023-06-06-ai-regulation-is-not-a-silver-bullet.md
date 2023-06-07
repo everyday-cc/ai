@@ -77,6 +77,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "The 360° UPSC Debate: Should Artificial Intelligence Be Regulated?"
+    excerpt: "Whether artificial intelligence (AI) should be regulated is a complicated question. While there are many different viewpoints on AI regulation, some advocate comprehensive regulation or control while others argue that just partial regulation is presently necessary."
+    publishedDateTime: 2023-06-07T12:34:00Z
+    webUrl: "https://indianexpress.com/article/upsc-current-affairs/the-360-upsc-debate-should-artificial-intelligence-be-regulated-8650851/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 19
 
 secured: "qvsWguGCzkh857vd0lga0f8F41UaeVQkruuInpIKK0PTr3kwqiIGbaFxnhtYJazLXzffusyYEBzRbCtjpnjpP4a7ykjFQK3xboj6CGhZh+d6AqdQq6h9tUusw6wpjOlxpKtN6ZLhSCIjBS+g8UqE26QzIaVcLWakv8ta1dVta5y0c69JLIZEvSMSyrDQk3PpnkAuT+LahIvaP2af214iboEK9gkeAQQvuAKJZTU6bzdt5xlj/XCl7b0+VGZvBvdvLncFATHZQfhsfN8O+kfWaID6QAnqHCrWAUcQ/qo2S7rgiZrdiSMunlf59K3QE8lqMnPlsKOtZuwsTGzKSXRKXBWbtxfkBp0wFzJTGhALlYCEftRbCU+xPz61y84Za9zCuh6i55Q68Yc5rAyrCsD2Lc3ivNnwEyoIVIwHAJTv064Du19yt/wGAYTqAvzF7Ew4MWx/M8NlYZZggYUHq+xBcNYGxjklilghDbU9gBVdlbTuvk/Uze0FsXMzgDzw7DKfW1Fncdi0QRlPhNGRUvmXDw==;IUVjaEbxTcfnMHQeFzB8+Q=="
 ---

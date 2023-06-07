@@ -65,6 +65,42 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google Cloud, Mayo Clinic make generative AI play"
+    excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
+    publishedDateTime: 2023-06-07T12:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/google-cloud-mayo-clinic-generative-ai-search-chatgpt-hipaa"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
+  - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
+    excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
+    publishedDateTime: 2023-06-07T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/google-mayo-clinic-launch-generative-artificial-intelligence-collab"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
+  - title: "Google Cloud is partnering with Mayo Clinic as it tries to expand use of generative A.I. in health care"
+    excerpt: "Mayo Clinic will be using Google Cloud's generative artificial intelligence technology to help doctors and nurses more easily track patient data."
+    publishedDateTime: 2023-06-07T10:00:00Z
+    webUrl: "https://www.cnbc.com/2023/06/07/google-cloud-partners-with-mayo-clinic-brings-generative-ai-to-health.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 18
+  - title: "Genpact Teams With Google Cloud to Accelerate Artificial Intelligence Adoption for the Enterprise"
+    excerpt: "Genpact (NYSE: G), a global professional services firm focused on delivering outcomes that transform businesses today announced it is working with Google Cloud to help businesses accelerate artificial intelligence (AI) strategies,"
+    publishedDateTime: 2023-06-07T12:17:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9828204.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "hZh50Dv2CtoQHyVGJN6Cr6x/c6evBS6Ld6xlHhYOoOJNnkLmVtz+HT6FJ7749qZln7SDP9K//cxmvn0mPtw61bfwUj/pdoEcjXZEbf3LyUh8D/k9mt40LTEAZFYPJ8yLWO/sIjJVggUCqg9v6UztsdqJy7927mq0BC9HC9wny1k7sjKHXSF/Ei8r1oKySCQiNz6t/jZra10YNH3rGFi6WH6DBOoq3JJKzUrYjdTdZ+M1rycHfik4Hb5UagHF0tDTkFRNQ/BSakBVCBdteRu+iaLMxpKxxzn2cPJXJh2jJIFkuvKYkH4a23OJ5jNRN8vU6z26EkaXeATx3iV8XJ6i0fkehjynrkPGuCkfgp9O7tqKZdytGmaoPuN4tPzt2kAtZzO2bpHVKlcodOtCrw5nzyNE9vvMzhsbq+Y5vA1oZ+TJFKFJhcpC7+2mnmfMMz/203nt+aC7vm4u6gpOjRXBFp9A/nTYboA4HCaQZA+npvsRc8tDE9QNqyJid14y/N4Zfbas4tneQRYeUd79WRn+Tg==;Y0MToYE6wD7NV2VtCL23dQ=="
 ---

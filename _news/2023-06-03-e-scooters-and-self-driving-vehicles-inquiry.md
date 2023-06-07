@@ -25,33 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Bikers rally for laws that protect motorcyclists, including from self-driving vehicles"
-    excerpt: "\"I do not want to become a crash test dummy,\" said Ken Edwards, legislative coordinator for Alliance of Bikers Aimed Toward Education of Pennsylvania, at a rally the group held at the Pennsylvania Capitol on Monday that drew hundreds of motorcyclists from across Pennsylvania."
-    publishedDateTime: 2023-06-05T16:18:00Z
-    webUrl: "https://www.pennlive.com/politics/2023/06/bikers-rally-for-laws-that-protect-motorcyclists-including-from-self-driving-vehicles.html"
-    ampWebUrl: "https://www.pennlive.com/politics/2023/06/bikers-rally-for-laws-that-protect-motorcyclists-including-from-self-driving-vehicles.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/politics/2023/06/bikers-rally-for-laws-that-protect-motorcyclists-including-from-self-driving-vehicles.html?outputType=amp"
+  - title: "Exploring sharper computer vision for self-driving cars and cybernetic avatars"
+    excerpt: "Just making a small tweak to algorithms typically used to enhance images could dramatically boost computer vision recognition capabilities in applications ranging from self-driving cars to cybernetic avatars,"
+    publishedDateTime: 2023-06-06T17:24:00Z
+    webUrl: "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp"
     type: article
     provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 36
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6XLHBPHTSJG3PKASL4WIRV6NOA.png"
-        width: 1882
-        height: 1106
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/car-windshield.jpg"
+        width: 2880
+        height: 1908
         isCached: true
-  - title: "Pennsylvania Bikers Rally for Self-Driving Vehicle Protections"
-    excerpt: "Hundreds of bikers urged Pennsylvania lawmakers to extend the automotive lemon law to motorcycles, grant motorcycle processions the same rights as funeral processions and continue supporting motorcycle safety training programs."
-    publishedDateTime: 2023-06-06T21:12:00Z
-    webUrl: "https://www.governing.com/transportation/pennsylvania-bikers-rally-for-self-driving-vehicle-protections"
-    ampWebUrl: "https://www.governing.com/transportation/pennsylvania-bikers-rally-for-self-driving-vehicle-protections?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/transportation/pennsylvania-bikers-rally-for-self-driving-vehicle-protections?_amp=true"
+  - title: "How self driving cars are getting ready for Indian roads"
+    excerpt: "Work on autonomous cars is on full throttle in India, but self-driving cars are still some time away"
+    publishedDateTime: 2023-06-04T08:26:00Z
+    webUrl: "https://www.headlinestoday.in/top-news/how-self-driving-cars-are-getting-ready-for-indian-roads-556665453.html"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 24
+      name: headlinestoday
+      domain: headlinestoday.in
+    quality: 19
+  - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
+    excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
+    publishedDateTime: 2023-06-07T10:07:00Z
+    webUrl: "https://www.thenewsmarket.com/news/self-driving-cars-are-not-yet-on-our-roads--but-assisted-driving-systems-are-already-supporting-driv/s/4f416199-ae4e-438f-bbb6-7418798e6e40"
+    type: article
+    provider:
+      name: thenewsmarket
+      domain: thenewsmarket.com
+    quality: 1
+    images:
+      - url: "https://preview.thenewsmarket.com/Previews/NCAP/StillAssets/960x540/644091_v3.jpg"
+        width: 1168
+        height: 657
+        isCached: true
 
 secured: "XhawD3NUPr4lF64PbI8ncC3s3eSfC+sBkuP49kBivMK401uk/JaneIqMGOAr50UkoyeSszhx+oy1Zr86F7KFg1WZzyctQwSHnTKLaJGQ7ztua/cz8PmVbL8DNmgcILlEuQZ56ogCz/NcnCx27B2RWUp52ujbaUJRsbI0BRNKqHa1PNtp3GWBOcNBhYQT37ZzqoYu/0J8vN2VGpivt8lZNfZoFFNKb1Kj0jnA7myVdvO4MwUMB9+zOyL3vq0fs7epMvyQJqlBHhIuBbuiYfAYr6th5pvmD7xIc1xAJFE+NbS5tijL4z+IfBMVjLyKVILvaOtYDtX6Hqnivy7A5ZKXcdu0OhTXU9DwaRuZz4YsjrokT23q9isXM2wDcmLT6UC2rFAJSr4cQI0kunLfJZbyuWIpnU8cuoG4HmYxNy8ZBuUnaqJjzAsD5r/cd400TTCCicEx1Rx7c/50D66RH+vfIOF25KyxHCsMzt0d9wjpoqrrLpX/T3akFhp75lnbHYJOyIk1KhqTSIPQxKr7GlUXsw==;MwO8czPR1gOwPxjuZdb+GA=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Threatens to Widen Latin America’s Digital Divide"
+    excerpt: "The challenge is designing public policies to address the rise of the technology in poor nations often beset with unstable leadership."
+    publishedDateTime: 2023-06-07T13:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-07/ai-threatens-to-widen-latin-america-s-digital-divide"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "F47oabJY2vZrdr2xrQzu+Uojxe8X5fh2pLSDiklPX3JUoG97Xq7W/GEGXJEYzA8uLxbC/cSP3DVqdn5sXhJrKrFuLzvjynhmZx/IGS7RZiFh4pjYCsUni69hNryOnqbM0W/uqpo3dbV16pegyljRva/OGKBOhgNCQHEWUSMPQYKOpO6mSsqqtNn50dd1sx/f/RH8C/wTaP8L2Or28LFKZqOScVsDXqRO2mWY4OoDxqy+NNphQoVYeK/DhEJHNzBuy01JzUQqOY6BI1yM4jW2euBFAPnD8fG80SQ98Gq9qB0ZwpyEW/WmzPOegaA55olLXOwp+rnHTy+k6spyHFJBD7xflHl8tM2Q3XtOoD5GEqhA3Nv6/MXjaZAg+c58MBdRlyRoazDF7Zg8T9aoqNgK5zkD7HI2zr4IWs2FZi46GxJYL6EzYioaK+a3Rq5wtGnCdPUCl6grKHp3w6zc5VRUDWb5j9Rkp57nVO+lzzb9AdLNjSCtoXZ6DuUSbmnKs098JgDK/0ux0Wk73qrJosI01w==;7JEuj1GcitzD/nZJW4UqmA=="
 ---

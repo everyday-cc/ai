@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 237
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why The CHRO Will Be The New Boss Of Generative AI"
+    excerpt: "Your CHRO and team need to be firmly integrated into any initiative to successfully bring generative AI into your business."
+    publishedDateTime: 2023-06-07T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f4446248590063657d5cd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "SAFE Security claims to predict data breaches with new generative AI offering"
     excerpt: "SAFE Security’s Cyber Risk Cloud of Clouds generates likelihoods for different risk scenarios based on an organization’s cybersecurity posture."
     publishedDateTime: 2023-06-05T11:04:00Z
@@ -136,6 +152,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "Impact Analytics enhances its AI-native product portfolio with generative AI technologies"
+    excerpt: "Today's fastest-growing AI-powered retail-planning provider seizes the opportunity to exploit complementary, innovative AI technologies.LINTHICUM"
+    publishedDateTime: 2023-06-07T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/impact-analytics-enhances-its-ai-native-product-portfolio-with-generative-ai-technologies-1032375681"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "Google Cloud and Mayo Clinic to explore uses of generative AI in healthcare"
+    excerpt: "To get the ball rolling, the Mayo Clinic is adopting a new service called Enterprise Search on Generative AI App Builder that will help to improve the efficiency of clinical workflows and make it easier for clinicians and medical researchers to find the data they need to improve patient outcomes,"
+    publishedDateTime: 2023-06-07T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/google-cloud-mayo-clinic-explore-uses-generative-ai-healthcare/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
   - title: "How generative AI could change the life sciences landscape - an interview with Indegene"
     excerpt: "With generative AI continuing to create a buzz, OSP took the opportunity to speak to Indegene, a digital-first, life sciences commercialization company that helps biopharmaceutical, emerging biotech and medical device companies develop products."
     publishedDateTime: 2023-06-07T11:48:00Z

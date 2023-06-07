@@ -33,12 +33,17 @@ related:
   - title: "Artificial intelligence is used widely, but few states have set rules"
     excerpt: "In the fall of 2016, the Connecticut Department of Children and Families began using a predictive analytics tool that promised to help identify kids in imminent danger. The tool used"
     publishedDateTime: 2023-06-05T18:00:00Z
-    webUrl: "https://www.kpcnews.com/news/national/article_f78a030a-e45d-5715-9e21-7e8250e90679.html"
+    webUrl: "https://www.nbcrightnow.com/national/artificial-intelligence-is-used-widely-but-few-states-have-set-rules/article_2f98796f-f4f4-53dd-adef-a43b6b4e70fb.html"
     type: article
     provider:
-      name: KPCNews
-      domain: kpcnews.com
-    quality: 19
+      name: NBC Right Now
+      domain: nbcrightnow.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nbcrightnow.com/content/tncms/custom/image/0c0acdd4-cbf5-11e8-ac89-4fb1b5fd70a7.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "KdfualWFfLUEdunvYrdZsOtg95oNM6lC2mfYw1ERxdD7oimY05If8y7MZ9YGrbSAlTLUkxkBn3h+oDzN9PxfQhAmHtpBM5cyOF9gd7ZPOxyKNeRbug4QiZgPqNwpaI/HqVVtmVWg4hYrgy4BHxHjrgK+jf9EV+mlMbHFY030kOZgB8nE4CPSUXsm/ii0b5dw0eFxP8nZwngrWSYTj6EnZG5jxxeWrsKGSabXRqxL+O2Wy6PTPVKrmDy72YSAwhcKgPfugzRL9/53sAhEJyXl1hYehE/ySZfZfsrLCWSvwMNCfjbaeQX9PcbLcIrU1B/joX0qL5TBCLca5IPer09qydlrjleS6/vrLYb4VqBIuU2PhTE5sb7uTlUNgZxCBQy3D9jniCCeKujERnI9xL4qUy5KJA61NuYtgufmDvDw2Irk8iO2CG2sxtBNs3y6cdaX+aw1JcFo8X9a2uTeOi5MLcgGMhRGFIjMHdgZerWHz5ZVpzHYyThyVGHchZjciQOiV6C1kD2Rl62hYQ1eSvHLQQ==;W3RSdOJw/KLBIvyZTl/oAw=="
 ---

@@ -19,90 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "A Waymo self-driving car killed a dog"
-    excerpt: "And a self-driving car killing a sweet pooch has the potential to kick out that third leg. It also comes at a critical time for the industry and, specifically, for Waymo, which is expanding its robotaxi network in Phoenix and gearing up to charge fares for ..."
-    publishedDateTime: 2023-06-06T22:02:00Z
-    webUrl: "https://www.autoblog.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
-    ampWebUrl: "https://www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
+  - title: "70% Of Respondents Feel Uncomfortable With Self-Driving Cars Survey"
+    excerpt: "New survey sheds light on the public's attitude towards self-driving cars and AI in the automotive industry, revealing that 70% of respo"
+    publishedDateTime: 2023-06-07T03:27:00Z
+    webUrl: "https://menafn.com/1106403869/70-Of-Respondents-Feel-Uncomfortable-With-Self-Driving-Cars-Survey"
     type: article
     provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 59
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
     images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-10/fc275060-2ddd-11ec-9df6-28e42309b04a"
-        width: 1062
-        height: 597
-        isCached: true
-  - title: "Waymo self-driving car killed dog in accident, says report"
-    excerpt: "According to a Waymo spokesperson, neither the safety operator nor the autonomous system applied brakes to prevent a crash. In both cases, that was caused because of the dog's \"unusual path\" while travelling \"at a high rate of speed directly towards the side of the vehicle.\""
-    publishedDateTime: 2023-06-07T09:01:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
-    ampWebUrl: "https://m.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
-    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 59
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/6/2023_6$largeimg_400747444.jpg"
-        width: 707
-        height: 471
-        isCached: true
-  - title: "Exploring sharper computer vision for self-driving cars and cybernetic avatars"
-    excerpt: "Just making a small tweak to algorithms typically used to enhance images could dramatically boost computer vision recognition capabilities in applications ranging from self-driving cars to cybernetic avatars,"
-    publishedDateTime: 2023-06-06T17:24:00Z
-    webUrl: "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/car-windshield.jpg"
-        width: 2880
-        height: 1908
-        isCached: true
-  - title: "Waymo self-driving car killed dog in accident: Report"
-    excerpt: "A Waymo robotaxi travelling in autonomous mode hit and killed a little dog last month in San Francisco according to an incident report filed with the California Department of Motor Vehicles"
-    publishedDateTime: 2023-06-07T04:09:00Z
-    webUrl: "https://glamsham.com/world/technology/waymo-self-driving-car-killed-dog-in-accident-report"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 39
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/06/2881ebf1e4dc0cdb98b50f9b5cfdcb15.jpg"
-        width: 426
-        height: 439
-        isCached: true
-  - title: "How self driving cars are getting ready for Indian roads"
-    excerpt: "Work on autonomous cars is on full throttle in India, but self-driving cars are still some time away"
-    publishedDateTime: 2023-06-04T08:26:00Z
-    webUrl: "https://www.headlinestoday.in/top-news/how-self-driving-cars-are-getting-ready-for-indian-roads-556665453.html"
-    type: article
-    provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 19
-  - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
-    excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
-    publishedDateTime: 2023-06-07T10:07:00Z
-    webUrl: "https://www.thenewsmarket.com/news/self-driving-cars-are-not-yet-on-our-roads--but-assisted-driving-systems-are-already-supporting-driv/s/4f416199-ae4e-438f-bbb6-7418798e6e40"
-    type: article
-    provider:
-      name: thenewsmarket
-      domain: thenewsmarket.com
-    quality: 1
-    images:
-      - url: "https://preview.thenewsmarket.com/Previews/NCAP/StillAssets/960x540/644091_v3.jpg"
-        width: 1168
-        height: 657
+      - url: "https://menafn.com/updates/pr/2023-06/06/V_8e5c2image_story.jpeg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "HPB7V7QmajpjdNNhz3t3rj1FC0qNiWsAzp0l7az8OqfVRoin+D5ooaBdt/LN1jYwNJixq5L2B1p+6dVykJh9isiKL9rZy0Qokwf7lBT6yJp4WtYB3ZjDLohGBT0XDCcqUeYGHDu2wPbl0RQHm9iUoG5FDmWIV0F7unDS0okw+WDU1i0QsxRRjOipIY1RVBdR12gMUuqLGAsgeEVOOl9DXV7cawGaiN5SYwpItPFsSXJj44GhCBOP76VPf2HE7K0uaAd9nDOS8A2yMEvjUxCJqHa+4Zp+O+FxeSzF9zHqu0SRjOs7Q2hSU5gPu4rRrzA4pA8+XbwVbEbvryCTq/s/jKxsnCbgVIJUUOc2MYp/KlkgeuwCSc5/ydWS35kxMmVZMo/MimTePPDaCGTrywdxPP/+KLpWUxn+T04cmCaNR17ZhrYxEIYsm6YkEIKUrnCul/LnbBKoCjb6I6EGXZQl6mXCrS8OA2IS2DeoWy77RDfi+1c0fuvkQGj8Mg3YyxConSI55/yJfj3Pnbb36YZ94g==;CDnbsT+zbvcAaJQj6hGQ8Q=="

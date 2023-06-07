@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/"
 type: article
 quality: 106
-heat: 226
+heat: 236
 published: true
 
 provider:
@@ -194,6 +194,20 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
+  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
+    excerpt: "Building on the momentum, Turacoz also hosted two consecutive webinars on \"Developing Scientific Publications Ethically in the Era of Generative AI (ChatGPT) \". These webinars provided participants with opportunities to explore the intersection o generative AI and scientific publications,"
+    publishedDateTime: 2023-06-07T13:42:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9828482.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/2095479/Generative_Artificial_Intelligence.jpg"
+        width: 399
+        height: 400
+        isCached: true
 
 secured: "EFpbSSQx7vWwZ9+kYSTuK+0x+h8wyzF+9NjEjQvprBgf1fUS0HWeu/dgp/TTaSsOuLsSoowIqTqONNMf8ErmTSPPZ9wv7dRnlqrO6X7DHgYkKmxCO8dC+LNU6f0I6KbxMRzh3Ax0UL+IeJx6ghm06rcidQnKODdesIfgDSYPCSaIWVBJ6d/KFeSC97+P3tp4NP7Au/Wsl7gI43FAG7K/2kIdEIPptZswPJrolfreE7mP+pQt72RF+MnDB8hyL5F9dQa9x/Hco3Vi3hSaRSqEJm63brpH7GztbYsODGKUrblT1psGrDjyamGbnFwfleXvZVoDKrc2Qb2drtmeICliFZ4vb/KqGaRUJyRI9NTRr2cRZt0akoXvw0m6NhPmyx48L4U+T6Va9mlPEYyFiznp+CePZ4QbjnALmTM0bj5V5YDLu1zpfP3iPljFmi1BZziDR2Hih60myNgwAZ+vRFRqUi2RuFD2JMniCt/H6KS0eH1JHSGCcVtngFbrgnqPqfbloyLgewHKp6JwE/v8OFolZw==;PwR0Ro5eaLrZLolg4FhcAQ=="
 ---

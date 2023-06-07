@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why The CHRO Will Be The New Boss Of Generative AI"
+    excerpt: "Your CHRO and team need to be firmly integrated into any initiative to successfully bring generative AI into your business."
+    publishedDateTime: 2023-06-07T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f4446248590063657d5cd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "SAFE Security claims to predict data breaches with new generative AI offering"
     excerpt: "SAFE Security’s Cyber Risk Cloud of Clouds generates likelihoods for different risk scenarios based on an organization’s cybersecurity posture."
     publishedDateTime: 2023-06-05T11:04:00Z
@@ -138,6 +154,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "Impact Analytics enhances its AI-native product portfolio with generative AI technologies"
+    excerpt: "Today's fastest-growing AI-powered retail-planning provider seizes the opportunity to exploit complementary, innovative AI technologies.LINTHICUM"
+    publishedDateTime: 2023-06-07T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/impact-analytics-enhances-its-ai-native-product-portfolio-with-generative-ai-technologies-1032375681"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "Google Cloud and Mayo Clinic to explore uses of generative AI in healthcare"
+    excerpt: "To get the ball rolling, the Mayo Clinic is adopting a new service called Enterprise Search on Generative AI App Builder that will help to improve the efficiency of clinical workflows and make it easier for clinicians and medical researchers to find the data they need to improve patient outcomes,"
+    publishedDateTime: 2023-06-07T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/google-cloud-mayo-clinic-explore-uses-generative-ai-healthcare/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
   - title: "How generative AI could change the life sciences landscape - an interview with Indegene"
     excerpt: "With generative AI continuing to create a buzz, OSP took the opportunity to speak to Indegene, a digital-first, life sciences commercialization company that helps biopharmaceutical, emerging biotech and medical device companies develop products."
     publishedDateTime: 2023-06-07T11:48:00Z
@@ -185,6 +219,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "UqCgnGNM9RpbZMXc1/yXvVLLfhtRDaI5Fb7YELyhn5lHXdHVvcDKZl87WcOl4JNZ9T7I2CIRl3+oSDM2D6JA00CFt+wgew6wg8xLk4vqxCB+F8WqAqIImHpAeX9Wx2ccB360Cydzaxngjwd6JO61aV4ZWSvblDkqlDOps8DCgUPzDrCGDvpxvppcObY+Q/8DUlASQ8qarknSfQsXbxJZSDLRlKttGaJxlSUwhxoBhwP5QRdhOvpr/jcfk4+VzntlRVEHYykVewtGk7mceVH5tYhibfazVXUGkpjf40kRfPvdQj8JjuGKi9V92oARGfAxSD14dHyjt529T/9GCS6rw3EWKKrWNBGmFhlmmFZtrPM=;fKH9fgwCZ9Ar6LNk3fTNPA=="
+secured: "CJbegei6v2RVPFbRnwKZlUNKbEl8B+k4x8yad5+adjuvu68LAhk7pvZyOdNVgF7dR5Q/2CTx0/jFdW/iyPpfKXnk7QZSsfMrmg/ZR+NRaqUnGYyj654E9tqFI9INkC6tCzbh68E6obecy2cmxrB1KON6hGObAA9OD9kCgIh4EgwXrlGDPFKo8frqecn4ao6yu++g2p9mIvsFQRX/dWpFoMb8Rl6wBu2HAodNEnhEptYhPAjY7qReJlDbHJM1wWb0c+vBMObH9rBfAeung2Ns+47txVLwrBsQ5uaM1yTrOT23cFiJOGngKxoXK+9zxDauglZ0/jZxL+op6VQo6/kRemGJBXHfBc/mB2aC5LuC84cgqaSqCpZLbvXzqr01NKUihsBEGxxpUmszMdxzEHncC6vse/FDU/EDmoeUcumUg6XKaM2W7S/x4IDLHcWSzUBs3a9LfG7dU6oLvzcMVKxFXjO8JZ4ndViVrORl5E98wm58BP+dYMj/4g+MtnpRmm7Hg/Bbt6ijvi/1Zuc+/5GTdw==;cL990g0m+SPt+uSIPIaWfA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-it
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Instagram Reportedly Developing AI Chatbot With 30 Personalities"
+    excerpt: "Meta is reportedly testing an Instagram AI chatbot that offers users the choice of switching between 30 different personalities. A screenshot (Opens in a new window) shared on Twi"
+    publishedDateTime: 2023-06-07T15:37:00Z
+    webUrl: "https://www.pcmag.com/news/instagram-reportedly-developing-ai-chatbot-with-30-personalities"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02AjtLzVbG0hbhR2FyEyKiP-1.fit_lim.size_1200x630.v1686147613.png"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "AI Chatbots Are Causing Bank Customers Headaches"
     excerpt: "Banks are implementing AI chatbots into their operations as a cost-cutting measure, but the Consumer Financial Protection Bureau says some bots are causing frustrations for customers."
     publishedDateTime: 2023-06-06T18:19:00Z

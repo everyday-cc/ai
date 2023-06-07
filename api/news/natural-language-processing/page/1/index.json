@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-07-wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you.md",
+      "title": "WordPress's New AI Tool Can Write Entire Blog Posts For You",
+      "excerpt": "WordPress is incorporating ChatGPT-like technology through an AI-powered tool that can write entire blog posts for you. The so-called “Jetpack Assistant AI” is arriving as an experimental feature for users to try out starting today.",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/ai/100360/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you",
+      "originalUrl": "https://au.pcmag.com/ai/100360/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/w/wordpresss/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you_dmyz.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-the-future-of-generative-ai-from-google-cloud-what-you-need-to-know.md",
       "title": "The Future of Generative AI from Google Cloud: What You Need to Know",
       "excerpt": "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -522,8 +574,8 @@
       "title": "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis",
       "excerpt": "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients.",
       "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
-      "originalUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
+      "webUrl": "https://www.miamiherald.com/press-releases/article275901341.html",
+      "originalUrl": "https://www.miamiherald.com/press-releases/article275901341.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -536,8 +588,8 @@
       "publishedDateTime": "2023-05-30T04:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1373,59 +1425,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-ai-excites-healthcare-yet-it-urgently-needs-regulations.md",
-      "title": "AI Excites Healthcare, Yet It Urgently Needs Regulations",
-      "excerpt": "The healthcare sector should pay attention to Sam Altman's statements on AI regulation. AI has exponential potential in healthcare but requires regulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
-      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646989f4cacc478d7bbd2c16/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
-      "publishedDateTime": "2023-05-20T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing"
       ]
     }
   ],

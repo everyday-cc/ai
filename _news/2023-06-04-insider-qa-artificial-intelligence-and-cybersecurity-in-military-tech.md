@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cisco announces next-gen solutions boosting security and productivity with generative AI"
+    excerpt: "By harnessing LLMs across its collaboration and security portfolios, Cisco aims to enhance productivity and simplicity within organizations."
+    publishedDateTime: 2023-06-07T15:30:00Z
+    webUrl: "https://venturebeat.com/ai/cisco-announces-next-gen-solutions-security-productivity-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 75
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screenshot-2023-06-06-213946.jpg?w=1200&strip=all"
+        width: 1200
+        height: 710
+        isCached: true
   - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
     excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
     publishedDateTime: 2023-06-07T06:04:00Z

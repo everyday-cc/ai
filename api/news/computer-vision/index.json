@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-07-landing-ai-launches-new-sdk-to-bring-computer-vision-capabilities-to-developers.md",
-      "title": "Landing AI launches new SDK to bring computer vision capabilities to developers",
-      "excerpt": "Computer vision company Landing AI has announced a new SDK to help those working with AI. The repository is freely available on GitHub now. The SDK covers a wide range of use cases, such as object detection and Visual Prompting, which is a new feature ...",
+      "path": "_news/2023-06-07-exploring-sharper-computer-vision-for-self-driving-cars-and-cybernetic-avatars.md",
+      "title": "Exploring sharper computer vision for self-driving cars and cybernetic avatars",
+      "excerpt": "Just making a small tweak to algorithms typically used to enhance images could dramatically boost computer vision recognition capabilities in applications ranging from self-driving cars to cybernetic avatars,",
       "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/landing-ai-launches-new-sdk-to-bring-computer-vision-capabilities-to-developers/",
-      "originalUrl": "https://sdtimes.com/ai/landing-ai-launches-new-sdk-to-bring-computer-vision-capabilities-to-developers/",
+      "webUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 87,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/car-windshield.jpg",
+          "width": 2880,
+          "height": 1908,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T12:46:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp",
+      "publishedDateTime": "2023-06-06T10:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -40,8 +40,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -53,7 +54,7 @@
       "originalUrl": "https://www.itweb.co.za/content/4r1lyMR9mpd7pmda",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -96,7 +97,7 @@
       "originalUrl": "https://www.retail4growth.com/viewpoints/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {

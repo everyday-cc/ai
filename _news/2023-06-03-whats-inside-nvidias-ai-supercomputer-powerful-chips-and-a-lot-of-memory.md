@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q74LDABYEI65HVQNSKNZMLPZ4.jpg&w=1440"
         width: 1440
         height: 969
-        isCached: true
-  - title: "Super Micro Computer: AI Beneficiary Priced To Perfection"
-    excerpt: "The more exciting product line of SMCI resulting in the recent share price rally is its GPU or accelerated systems to cater to the increasing demands for the generative AI applications, and data center optimized server systems that bring about improved ..."
-    publishedDateTime: 2023-06-06T13:49:00Z
-    webUrl: "https://seekingalpha.com/article/4609702-super-micro-computer-ai-beneficiary-priced-to-perfection"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1297493683/image_1297493683.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1152
         isCached: true
   - title: "This week in AI: Existential threat from AI, Nvidia announces AI supercomputer, UK wants global AI watchdog and more"
     excerpt: "The DGX GH200 uses Nvidia's NVLink technology to combine 256 GH200 superchips, which each house an ARM-based Grace CPU, and H100 Tensor Core GPU, that allow for performance up to 1 exaflop (equivalent to one quintillion floating point operations per second) with a whopping 144 Terabytes of shared memory."

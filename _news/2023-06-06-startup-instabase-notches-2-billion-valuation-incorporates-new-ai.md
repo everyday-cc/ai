@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-06/startup-instaba
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-06/startup-instabase-notches-2-billion-valuation-incorporates-new-ai"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Instabase unveils AI Hub, a generative AI platform for content understanding"
+    excerpt: "Powered by generative AI, Instabase with its AI Hub aims to provide self-service solutions to harness the potential of AI-driven insights."
+    publishedDateTime: 2023-06-07T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/instabase-unveils-ai-hub-a-generative-ai-platform-for-content-understanding/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
   - title: "AI-Enhanced Business Services Startup Instabase Raises At $2B Valuation"
     excerpt: "Business services startup Instabase doubled its previous valuation to $2 billion after locking up a $45 million raise."
     publishedDateTime: 2023-06-06T17:06:00Z

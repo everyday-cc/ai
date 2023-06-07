@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-06-mobileye-stock-falls-intel-found-a-way-to-cash-in-on-ai.md",
+      "title": "Mobileye Stock Falls. Intel Found a Way to Cash in on AI.",
+      "excerpt": "Mobileye Global shares were dropping early on Tuesday as chip maker Intel planned to sell shares of the company worth around $1.4 billion. Intel looks to be taking profit from a run up in the shares of the self-driving technology company it spun off last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/intel-mobileye-global-stock-price-6299c8e8",
+      "originalUrl": "https://www.barrons.com/articles/intel-mobileye-global-stock-price-6299c8e8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-499870/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/intel-mobileye-global-stock-price-6299c8e8",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-mobileye-global-stock-price-6299c8e8",
+      "publishedDateTime": "2023-06-06T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-japan-eyes-labor-market-reform-focuses-on-ai-chips-to-drive-growth.md",
       "title": "Japan eyes labor market reform, focuses on AI, chips to drive growth",
       "excerpt": "The government said Tuesday it will aim to close wage gaps between Japan and other countries and attract more foreign talent while de",
@@ -62,7 +105,7 @@
       "originalUrl": "https://mainichi.jp/english/articles/20230606/p2g/00m/0na/037000c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -452,7 +495,7 @@
       "originalUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -697,6 +740,40 @@
       "provider": {
         "name": "ABC",
         "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-stable-diffusion-torch-is-not-able-to-use-gpu-can-you-fix.md",
+      "title": "Stable Diffusion “Torch is not able to use GPU” – can you fix?",
+      "excerpt": "Having issues with running Stable Diffusion? Need to resolve “Torch is not able to use GPU” error message? Take a read of this post which explains how to resolve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.videogamer.com/tech/ai/stable-diffusion-torch-gpu-error/",
+      "originalUrl": "https://www.videogamer.com/tech/ai/stable-diffusion-torch-gpu-error/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1362,111 +1439,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-amperes-ampereone-wants-to-achieve-chip-nirvana-more-datacenter-compute-for-less-power.md",
-      "title": "Ampere’s AmpereOne Wants To Achieve Chip Nirvana: More Datacenter Compute For Less Power",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead examines Ampere’s new milestone, which is unique and undoubtedly disruptive to all the datacenter CPU and SoC players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/amperes-ampereone-wants-to-achieve-chip-nirvana-more-datacenter-compute-for-less-power/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/amperes-ampereone-wants-to-achieve-chip-nirvana-more-datacenter-compute-for-less-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647626c58c1e7ad3d4996727/0x0.jpg?format=jpg&width=1200",
-          "width": 881,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/amperes-ampereone-wants-to-achieve-chip-nirvana-more-datacenter-compute-for-less-power/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/30/amperes-ampereone-wants-to-achieve-chip-nirvana-more-datacenter-compute-for-less-power/amp/",
-      "publishedDateTime": "2023-05-30T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more.md",
-      "title": "Generative AI $7 Trillion Ecosystem: Invest In Nvidia, Microsoft, Adobe And More",
-      "excerpt": "Worldwide cloud revenue is expected to increase 21.7% in 2023 to $597.3 billion. Gartner IT +1.5% expects generative AI to create “a surge in cloud revenue” driven primarily by these and other hyperscalers. Ultimately, all the investment in generative AI technology must result in applications that people pay money to use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64733c9329fc673cfa0cb088/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/",
-      "publishedDateTime": "2023-05-30T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
         "AI Hardware"
       ]
     }

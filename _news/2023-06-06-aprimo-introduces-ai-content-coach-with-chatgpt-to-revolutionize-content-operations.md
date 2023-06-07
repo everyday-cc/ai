@@ -2,9 +2,9 @@
 category: news
 title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
 excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
-publishedDateTime: 2023-06-06T13:34:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/06/9827428.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827428.htm"
+publishedDateTime: 2023-06-06T14:45:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aprimo-introduces-ai-content-coach-with-chatgpt-revolutionize-/2023/06/06/9827428.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aprimo-introduces-ai-content-coach-with-chatgpt-revolutionize-/2023/06/06/9827428.htm"
 type: article
 quality: 13
 heat: -1
@@ -95,6 +95,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Intelligent Classrooms: What AI Means For The Future Of Education"
+    excerpt: "AI systems will have expansive implications for how schools function, teachers work, and how students prepare for tomorrow's world of work."
+    publishedDateTime: 2023-06-07T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/vickiphillips/2023/06/07/intelligent-classrooms-what-ai-means-for-the-future-of-education/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Can ChatGPT AI Answer Your Asphalt Questions?"
     excerpt: "The rise of \"A.I.\" to the level of household name means everyone has an opinion, but true expertise is harder to come by. What can these algorithms do for the likes of our industry? Can they help you answer your asphalt or business questions?"
     publishedDateTime: 2023-06-05T13:32:00Z
@@ -161,6 +170,6 @@ related:
       domain: microsoft.com
     quality: 0
 
-secured: "HfdU6GUSnsFe+bsWqWDzI5jRRjH9LawjfiMNYH5XgzV5HBRQXBsVCkP3pqdNOsB5c1CNyWnY6wio8FXaDe4JaRrfuM86Ac6dGTdwpIGW48RYsrhaqcMzm359ifA/319uy7Gz/Bqbm8+8IfAqIwUqXQRI9wiXSxxaqhU0njSDskQ1Q/hyl3XmQAgRlcEcbkCY11CpJtUctiHtp381TqbUjznhqwD9XedXjy1ECZezYHDdnWLM1uOVXx9LPV95CceBy/hROjCg49B0Zaojqnpjx8HAotnKSvIiIz3M5vC2KPVnCOBBxrvvW80FDP+3MN0H6id8DX7zwPasX3txhJL4IbcHmuF1g62E07waaNPOJdM=;rScsLkstoB1RUhnt7lbeJw=="
+secured: "g6PC079zmzw3RcpTvxMDeBeYsKFRcVSIP4UJ1SB7VUU4dZ7yrXOmwDFHBY1wMVPWhGLXwGL2Hr0jkcY+gsL3F7yNU5GDURHBu58dGFn0fa66LE/NVM6pt32t0QOiGOrzJP71PO2FX7ef8OfSZze7yAgKsY3zCr2JLbmcQA3las6Wzqh8bFv6RFLvTLHvG+oYc66L2XivNfZSke0Qr9MDe2rwGbbrKf+RbsSMshHGVsHqiqmRzJuafeRXZ+ZMiZZ9O4EkgjABxtPxg6LNxppqyOg2vrSl032Ft3ksNpulhPMbyxtUHWtvawo3xJorEjrqR/X+EsK6iT3mu0WS4CcvLPJ2ze3W4vtrCCC9lb+6404=;/O6tsUuDTAGQo/piuP6ghA=="
 ---
 

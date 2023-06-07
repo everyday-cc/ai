@@ -55,15 +55,6 @@ related:
         width: 629
         height: 349
         isCached: true
-  - title: "TSA expands testing of facial recognition technology as some in Congress voice concerns"
-    excerpt: "The agency is expanding its testing phase of facial recognition technology to make sure you match your ID from 16 to 28 airports nationwide."
-    publishedDateTime: 2023-06-02T19:19:00Z
-    webUrl: "https://www.whio.com/news/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/ZCZOEZJBVZB23HDE2VBWY3RARA/"
-    type: article
-    provider:
-      name: WHIO
-      domain: whio.com
-    quality: 13
 
 secured: "4Td2Tzn1SwiMeQS282ZM3+27S8q0w5Swr3r8l1S9Xc2W95IAGyliN2eDxeIKVOxTkA4KMxVvsJGZMPd8jXkOFwFcb4m8EPNyp+RmPAK3mJMzfljq3TEd6RQp+d2x8hsVW2lwMRc0TVP1x2O3ldsqD2ahYTTCk5cv8IGrodqfSdYqICbGv1gUdlExjOYaTWj6eQdETdq+LPsaGkXbsbgk5gvfMzd8w3bKNVr3ZJno4MkpgfszfnP0CtHeJ98NjyLRALknThTG0g6XQKTHbWd4YpiCQzNTNwlbaP/FSc/wibR8LvE/fLRfIzZohGsv3BFSdWpNNyASwxs7KZnfXYHWlwtycdiP4l2LIRjrV7R+ykY=;59pr+dwXEqeX2GBe7n75bQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ilonalimonta-volkova/2023/06/04/what-la
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilonalimonta-volkova/2023/06/04/what-latin-american-fintech-startups-can-teach-silicon-valley/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI Threatens to Widen Latin America’s Digital Divide"
+    excerpt: "The challenge is designing public policies to address the rise of the technology in poor nations often beset with unstable leadership."
+    publishedDateTime: 2023-06-07T13:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-07/ai-threatens-to-widen-latin-america-s-digital-divide"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "From fintech to alt protein, Latam’s next generation of agrifood startups is building a farmer-first food system"
     excerpt: "Latam startups fight food insecurity and inequality with agrifoodtech tools like farmer financing logistics and healthier ingredients."
     publishedDateTime: 2023-06-06T10:23:00Z

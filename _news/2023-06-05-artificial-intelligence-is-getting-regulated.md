@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
     provider:
       name: The Hill
       domain: thehill.com
+    quality: 19
+  - title: "The 360° UPSC Debate: Should Artificial Intelligence Be Regulated?"
+    excerpt: "Whether artificial intelligence (AI) should be regulated is a complicated question. While there are many different viewpoints on AI regulation, some advocate comprehensive regulation or control while others argue that just partial regulation is presently necessary."
+    publishedDateTime: 2023-06-07T12:34:00Z
+    webUrl: "https://indianexpress.com/article/upsc-current-affairs/the-360-upsc-debate-should-artificial-intelligence-be-regulated-8650851/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
     quality: 19
 
 secured: "XT115ya5xA44uGmEPikIoNUa3UhGuNtmsmOluJVmGwVTCKhrZ/yCU4kFrOPB+3VTUBOvaoAc+TkVrTzVYcKE3SHwLyQVeTbMVaZgXGwl/u9bjg+fQdVDyCclB/qCSejyisgTDcqvIxPmUSbFR2L8gWOOW9SWfqGiTBe17AgvK8vLFXh29tE0D/QztRlkjV9xCLt7ajl/WXU5dK902AXO3wLjiSYfCUtYQjrxp79cWUwMp+uz+QH7oYf7qgYC9/SZxX2fZh3wR6fWOqeHPb5Lxw3JMHs/W3sItINZ79Xxf/cOECfAXHLVlLcacfeWOZz6zoYetCW+o2liW4AJPMALdvbqQj/HLGwttv4utg+Wd/Q4p6DIHsC9TzfwUS+JL/Rmbtrj2VawWMx/691RQpuoBp8dEQ0uG2UalX3cb0pR7yjZZm+fYIP5etodQNvJCXXts7RKZRWQiror/8lws9MUnJBOEjaQWHKEAF5W2/ZSZNnNkrEfg5JKftuwFlc6sFN9rpJyIgenfY5HjD5yoI5o4A==;S0qCPjzHC8wrm7C1ujkjeg=="

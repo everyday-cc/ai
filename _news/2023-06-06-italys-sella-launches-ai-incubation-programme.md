@@ -24,6 +24,17 @@ images:
     height: 270
     isCached: true
 
+related:
+  - title: "Artificial Intelligence: Sella Announces Global Incubation Program on AI Applied to Finance Is Underway"
+    excerpt: "Sella is launching \"Artificial Intelligence Business Incubator\", which is described as the the initiative aimed at researchers, entrepreneurial teams."
+    publishedDateTime: 2023-06-07T12:52:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208379-artificial-intelligence-sella-announces-global-incubation-program-on-ai-applied-to-finance-is-underway/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 33
+
 secured: "T20TBFKRFLip+3SYF8XLN1rzcTDAbPdrUUMyfF+E2odbvWap8kfBYgJgbotaDSbZ3VlsMT1Z52Yb9O7ky4nYAYuKyx8yrarRokWRSw8OYbK9O6CRiGfFCP+ZdYBF+0FypFzLJiFgNRrXXTC/ZT8SFaElBc3xT3gpFZuwD/EMLEvJfjHoIkAejqvRyiBW7sIP85q7fzU8sqZ3OIdm6R2i4KR13/y1D/9MFrZ2yerQKt8MyurQJ9m89iDoagTlvUHpOJN2c6CmmurLQoSFrUFXA6losoy9+eDz3ShB1MaOlCDypset2ocLSq3eJK1Twb9bUgnWf5++sGCwOLCgZO/4EMZHZoX6sQ2J5XqgXtaqJq8FR7J40jAkKAtRLBJeb0imAAYjXXyL81bwzVyD6upFbTxDQnQprkf+e0VLsJAe5t1ztYHWhEPrGRSbIhFnijqqT5cI2K8Nj8oaByKORqCjjMk5S3Gml4wqin2nwCf787YQaAlfQub0tcdISEsjNAJYSkq0HdnAigijjW2QjSxl8g==;i5cgpJyqB6WWMWovjl2deg=="
 ---
 

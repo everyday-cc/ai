@@ -81,6 +81,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Tenet Fintech Group Inc.: Tenet Closes First Tranche of Private Placement of up to CAD$3M"
+    excerpt: "Toronto, Ontario--(Newsfile Corp. - June 7, 2023) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative fintech technology services provider and operator of the Cubeler® Business Hub, announced today that it has ..."
+    publishedDateTime: 2023-06-07T12:38:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59282839-tenet-fintech-group-inc-tenet-closes-first-tranche-of-private-placement-of-up-to-cad-dollar-3m-296.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "dZF++lnOGWFfneM2jS175qOJsN+AalPyCB05/s1yg17uVGcJCpeE7WHm2jWJfkmGXln1A2+jl3eI91tBtIw5ZCo5bSnHSpkLlOErdL0TVtjDhXmwel/HAwwL7/M/V9JQLvFD1XF4ckE6mmsD6ol2wItciiUelZwf+9wj3iE3mFf/q3EBprkU++EAHxIiJ2quclpYK1hhlrHAfNYwL1DSvwsVzgfZIhDNjIMlHGQLVvD5VFRgo6t/NCS3/l9UZA8NhNgY1Q0miuz8RFGuLNI0EwDcpMKnqJ2U6LW3AQKW4jttoadMMgeGYM1AEnYv3oeyk9ECjfrDZffI5424L0i+JKSJbpebntpfJV10YYZPZrfpE7/t4WxBZU14NqPhUMHIbZRXPafmh41bfJ6Y+O+qp69FkmM0r3kg7qQw65jgJe+o1tUkxvXgjzuCSV0Z4JQUhJmjF8wI05jkHHqAexLyvgrLlRK+I1LOX/J5e88mS4Ff3tniKszfYhZPElGGpMg2p2ASqPYxO9TZ6yAzHRbPOA==;lJTAg1f6rERNNBABXtZEaQ=="
 ---
