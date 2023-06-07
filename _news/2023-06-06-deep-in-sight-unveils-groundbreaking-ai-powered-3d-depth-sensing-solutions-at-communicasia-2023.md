@@ -71,6 +71,22 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "From writing codes to drug development, generative AI is reshaping various industries: Anshul Rustaggi"
+    excerpt: "From synthesising medical images and predicting novel drugs in healthcare, to creating art and video game levels in entertainment, generative AI is transforming industries."
+    publishedDateTime: 2023-06-07T05:57:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/from-writing-codes-to-drug-development-generative-ai-is-reshaping-various-industries-anshul-rustaggi/articleshow/100811886.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/from-writing-codes-to-drug-development-generative-ai-is-reshaping-various-industries-anshul-rustaggi/amp_articleshow/100811886.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/from-writing-codes-to-drug-development-generative-ai-is-reshaping-various-industries-anshul-rustaggi/amp_articleshow/100811886.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 43
+    images:
+      - url: "https://img.etimg.com/photo/96164744.cms"
+        width: 2448
+        height: 1224
+        isCached: true
 
 secured: "0ex0zvtRF/+3zScp7Bsx4Auw1dJrVZ6YMrSDsYd4WHXtub1nFh2qHGlP9se0hebfDxI+1UnC6+xj+FsXyv1SWFX9BjcaPry0Q6i0DM0lpgXyJhiOLvsZiwHYoEZgF8Gl5WaPp5xJpkwYm2/OzLSl1U/TNBq7I/pn7JzqprZZlUAWEsOQYH6MRHKwLlYVRVK9YjZqVmq+J6XZmDIWPmSLR+yPxEWAtQvP6dH+f9pr0b6ZjL6KnqREG+XjeZT25A85ls2ZPeeeM5l4NOszAxNnsdvaG6vqNP+2kHWrwq/5hNr7vl1+pG/0vsJbP6wsFHuazRl6oecOilKuro9PHS2Cj3MxwhEZR26QqM55r3tj2tA4C6yKeN/wKuEay3kBo9PtKTVFcJxfigH0hS2MfrMn97gMgi2MOPvpBBOJqMFAFajKrFZmhb2gOk3sI4kcwy85N0jR8E3Z1CXhK+MkseYU6X/77Fz2s6KtzbkpWG03XOMWSN0qEdQ7wj6aUPczuod6CA4BmrMfaXzj0IqnoffyVg==;5NywMXn/IKEKwgtpk/fadg=="
 ---

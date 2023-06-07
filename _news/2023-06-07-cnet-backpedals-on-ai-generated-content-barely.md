@@ -122,6 +122,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "US and EU to draft an AI code of conduct"
+    excerpt: "As talks of global AI governance intensify around the world, with G7 leaders agreeing on this May to produce a Hiroshima AI process by the end of the year, every international summit seems to touch upon questions of AI Governance."
+    publishedDateTime: 2023-06-06T15:48:00Z
+    webUrl: "https://www.techuk.org/resource/us-and-eu-to-draft-an-ai-code-of-conduct.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/7f890400-cfb8-4788-95e96a473cacf61a/resourcegridlistingimagedefault_4d12532919c64e60a22baf03232bbf94_4a7c7e45a350/Website-Abstract-tech-background-made-of-printed-circuit-board-iStock-1206097406.jpg"
+        width: 440
+        height: 248
+        isCached: true
   - title: "EU wants Google, Facebook to start labeling AI-generated content"
     excerpt: "The European Commission is worried artificial intelligence tools like ChatGPT will result in more online disinformation."
     publishedDateTime: 2023-06-05T13:13:00Z

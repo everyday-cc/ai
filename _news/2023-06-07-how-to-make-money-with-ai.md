@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/how-to-make-money-with-ai/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Motley Fool
@@ -29,34 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "How to thrive in a new era of AI with trust and confidence"
-    excerpt: "AI is already helping organizations achieve great things, but it's time to take advantage of its full business potential."
-    publishedDateTime: 2023-06-02T13:58:00Z
-    webUrl: "https://www.businessinsider.com/sc/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence"
+  - title: "Policymakers Need To Deal With Real AI Challenges"
+    excerpt: "Policymakers need not and should not wander off into misty realms where autonomous AI programs spin out of control and threaten human survival."
+    publishedDateTime: 2023-06-06T18:40:00Z
+    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/06/policymakers-need-to-deal-with-real-ai-challenges/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/64777bfedf2567001837dccc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "US and EU to draft an AI code of conduct"
-    excerpt: "As talks of global AI governance intensify around the world, with G7 leaders agreeing on this May to produce a Hiroshima AI process by the end of the year, every international summit seems to touch upon questions of AI Governance."
-    publishedDateTime: 2023-06-06T15:48:00Z
-    webUrl: "https://www.techuk.org/resource/us-and-eu-to-draft-an-ai-code-of-conduct.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 39
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/7f890400-cfb8-4788-95e96a473cacf61a/resourcegridlistingimagedefault_4d12532919c64e60a22baf03232bbf94_4a7c7e45a350/Website-Abstract-tech-background-made-of-printed-circuit-board-iStock-1206097406.jpg"
-        width: 440
-        height: 248
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "AmzbBF1GYmwcWsylxS6oH8k9HiXTi/GFwdj8VAK6VAKmRGTH7tqqH2S+XSksvpBVRDqbF+gPodwR7HDsJ+1mKUS1ORHXy1ilOE9rqBmfZ0brw6RzNI9BOY8615GRmKN/ZXZzF4b4QOK05jbxhFyrw6GOWSv01wZE8M9eAmFf+zQPXw3eVF1ijSpfaIOo2hLTFiDCYFBtCJlb9BS6mlhyBS0RpnbupwS/qNaoKiMnmt3Zl0FS+bkWbyOwBM7lzZOdCPf8XUhV1W0N1Cyn7EeQRUg+8lfymRXBwOqlfS7nRM8osYGtwQyaTAG8Gd+FGyi99t8G1R0F562VNR8Vg0LoTHQiHSApg7tXvJPC8S4B7SHcyUIDAvZnYHUkeNk/C/ObKgDfjL/x4Nrk5HrZ/ewgmgwW51u6/clUx/TmCUope+/XGNz7ex4yXxBwQ3IFA5EI02hxaX/XNm5ef2VSh2XQPA48RbAKnjgOhhk89QyE3FFkYXTJeAiT3vWNAQ7fpNzi08floYcS53uImkoIlcegAQ==;dho2H0BL4cDFCZnCegq0mA=="
 ---

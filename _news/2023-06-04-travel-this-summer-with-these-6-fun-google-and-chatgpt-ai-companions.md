@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-compan
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 217
+published: true
 
 provider:
   name: Forbes
@@ -30,37 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "7 ways you didn't know you can use Bing Chat and other AI chatbots"
-    excerpt: "You can also use Bing Chat to generate unique drinks from fun prompts. For example, at a Bing press event in NYC, the company had a smoothie bar that used Bing Chat to make smoothies according to your favorite TV character."
-    publishedDateTime: 2023-06-02T14:40:00Z
-    webUrl: "https://www.zdnet.com/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/"
+  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
+    publishedDateTime: 2023-06-02T16:30:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
     images:
-      - url: "https://www.zdnet.com/a/img/resize/8647ff8681b655b1556ed0e26907c10c6472ad79/2023/06/01/c92eb6e5-9691-45b3-9ad4-66599a5aa3df/gettyimages-1479076604.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
-  - title: "Instagram may be getting its own AI chatbot soon. Here's what we know"
-    excerpt: "Instagram's chatbot is very similar in purpose and design to Snapchat's My AI. Since Snapchat's feature has not been well received, it's interesting to see that Instagram is following in its footsteps. Whether this will become a useful feature or be quickly forgotten remains to be seen."
-    publishedDateTime: 2023-06-06T16:16:00Z
-    webUrl: "https://www.zdnet.com/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
+  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
+    publishedDateTime: 2023-06-05T17:30:00Z
+    webUrl: "https://www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june"
+    ampWebUrl: "https://www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
     images:
-      - url: "https://www.zdnet.com/a/img/resize/731fa999b2b078dba0f7ffd929234df150b9a7bd/2023/06/06/0d67eed7-716a-47da-bb16-4b86e1f196b8/gettyimages-1256994567-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://i.insider.com/64403454632fda001803b2e0?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
   - title: "Chegg Embraced AI. ChatGPT Ate Its Lunch Anyway"
     excerpt: "The education company is a case study in generative AI’s disruptive power. Now it’s trying to prove it can beat back ChatGPT with an in-house chatbot."
@@ -76,70 +76,80 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "David is friends with Lazarus. Lazarus is an AI chatbot"
-    excerpt: "More and more people are forming friendships and even romantic relationships with AI chatbots, prompting concerns among experts who study the ethics around the rapidly evolving technology."
-    publishedDateTime: 2023-06-05T16:52:00Z
-    webUrl: "https://www.cbc.ca/radio/thecurrent/ai-chatbot-friends-romance-relationships-1.6864001"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6864001"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6864001"
+  - title: "A lawyer got ChatGPT to do his research, but he isn’t AI’s biggest fool"
+    excerpt: "The emerging technology is causing pratfalls all over – not least tech bosses begging for someone to regulate them"
+    publishedDateTime: 2023-06-03T14:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jun/03/lawyer-chatgpt-research-avianca-statement-ai-risk-openai-deepmind"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/03/lawyer-chatgpt-research-avianca-statement-ai-risk-openai-deepmind"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/03/lawyer-chatgpt-research-avianca-statement-ai-risk-openai-deepmind"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 59
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://i.cbc.ca/1.6864030.1685732571!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/david-beaver.jpg"
+      - url: "https://i.guim.co.uk/img/media/1a91376e4676a8b5d2eef35632e0a54adcd7f2cf/0_123_4866_2920/master/4866.jpg?width=620&quality=85&auto=format&fit=max&s=b2774c2461091f7b2b6ea13932897571"
         width: 620
-        height: 349
+        height: 372
         isCached: true
-  - title: "Walmart showcases robots, drones, AI chatbots during shareholder week"
-    excerpt: "A robot makes hamburgers at a Sam’s Club. Robots retrieve items for order fulfillment in Bentonville. AI chatbots help Walmart merchants. Drones make deliveries in Northwest Arkansas. Highlighting such"
-    publishedDateTime: 2023-06-02T17:55:00Z
-    webUrl: "https://talkbusiness.net/2023/06/walmart-showcases-robots-drones-ai-chatbots-during-shareholder-week/"
+  - title: "‘What should the limits be?’ The father of ChatGPT on whether AI will save humanity – or destroy it"
+    excerpt: "Sam Altman is among the most vocal supporters of artificial intelligence, but is also leading calls to regulate it. He outlines his vision of a very uncertain future"
+    publishedDateTime: 2023-06-07T04:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
     type: article
     provider:
-      name: Talk Business
-      domain: talkbusiness.net
-    quality: 54
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
     images:
-      - url: "https://talkbusiness.net/wp-content/uploads/2023/06/alphabot-machine-walmart.jpg"
+      - url: "https://i.guim.co.uk/img/media/d67dc626115d9507a3876fefd572a1fd9bb33481/0_116_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=46f7d7637665f0421a5914ebe539dc77"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Can ChatGPT AI Answer Your Asphalt Questions?"
+    excerpt: "The rise of \"A.I.\" to the level of household name means everyone has an opinion, but true expertise is harder to come by. What can these algorithms do for the likes of our industry? Can they help you answer your asphalt or business questions?"
+    publishedDateTime: 2023-06-05T13:32:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/article/22861073/can-chatgpt-ai-answer-your-asphalt-questions"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 39
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/05/AdobeStock_389670688.6467a8dc2b87b.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C0%2C1920%2C1077&w=1200"
         width: 1200
-        height: 626
+        height: 673
         isCached: true
-  - title: "Instagram might be working on an AI chatbot"
-    excerpt: "According to the leaks, users can choose from 30 different AI personalities, who can also help users write messages."
-    publishedDateTime: 2023-06-06T19:27:00Z
-    webUrl: "https://techcrunch.com/2023/06/06/instagram-might-be-working-on-an-ai-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "Do chatbot avatars prompt bias in health care?"
-    excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That's what University of Colorado School of Medicine researchers are asking as they dig into patients' experiences with the artificial intelligence (AI) programs that simulate conversation."
-    publishedDateTime: 2023-06-06T07:58:00Z
-    webUrl: "https://medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatbot-2.jpg"
-        width: 1920
-        height: 1358
-        isCached: true
-  - title: "Yellow.ai's generative AI-powered Voicebots and Chatbots Now Available on Genesys AppFoundry"
-    excerpt: "Yellow.ai combines with Genesys marketplace of solutions, enabling enterprises to deliver autonomous, human-like experiences with its Dynamic"
+  - title: "What technology will have the biggest impact on healthcare, per ChatGPT"
+    excerpt: "AI and machine learning algorithms will revolutionize healthcare, improving diagnostics, personalized medicine, and drug discovery."
     publishedDateTime: 2023-06-05T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-s-generative-ai-powered-voicebots-and-chatbots-now-available-on-genesys-appfoundry-1032370385"
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-technology-will-have-the-biggest-impact-on-healthcare-per-chatgpt.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Apple’s Vision Pro needs AI like ChatGPT as soon as possible"
+    excerpt: "Apple just unveiled the Vision Pro AR/VR headset. But the powerful hardware needs one more thing: a ChatGPT-like generative AI assistant."
+    publishedDateTime: 2023-06-06T01:22:00Z
+    webUrl: "https://bgr.com/tech/apples-vision-pro-needs-ai-like-chatgpt-as-soon-as-possible/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-279.jpg?quality=82&strip=all"
+        width: 1600
+        height: 885
+        isCached: true
   - title: "3 ChatGPT productivity hacks that’ll change the way you use AI"
     excerpt: "ChatGPT can be used to improve productivity at work for specific tasks that might require repetition - here are a few use cases."
     publishedDateTime: 2023-06-03T14:33:00Z
@@ -154,15 +164,57 @@ related:
         width: 2500
         height: 1668
         isCached: true
-  - title: "Editorial: Federal law shouldn’t shield AI chatbots from liability"
-    excerpt: "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,” 350 AI scientists and other notable figures cautioned in an open letter from the Center for AI Safety,"
-    publishedDateTime: 2023-06-06T12:30:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/06/06/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/"
+  - title: "Tim Cook covers Vision Pro, ChatGPT AI, and more in new interview"
+    excerpt: "Apple's CEO Tim Cook announced the Vision Pro, the company's first \"spatial computer. Now, he was interviewed about it."
+    publishedDateTime: 2023-06-06T15:23:00Z
+    webUrl: "https://bgr.com/tech/tim-cook-covers-vision-pro-chatgpt-ai-and-more-in-new-interview/"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 19
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/tim-cook-apple-vision-pro-abc-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
+        isCached: true
+  - title: "This test might be an easy way to distinguish humans from AI like ChatGPT"
+    excerpt: "A test called the Capital Letter Test might help you discern a human from generative AI software like ChatGPT - here's how it works."
+    publishedDateTime: 2023-06-02T17:04:00Z
+    webUrl: "https://bgr.com/tech/this-test-might-be-an-easy-way-to-distinguish-humans-from-ai-like-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 36
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/chat-gpt-open-ai.jpg?quality=82&strip=all"
+        width: 3024
+        height: 1701
+        isCached: true
+  - title: "Smart Compose rolling out for Google Chat makes me wonder where Apple is with AI"
+    excerpt: "Google has announced that it is rolling out its Smart Compose feature to Google Chat, so where is Apple with iMessage?"
+    publishedDateTime: 2023-06-06T21:02:00Z
+    webUrl: "https://bgr.com/tech/smart-compose-rolling-out-for-google-chat-makes-me-wonder-where-apple-is-with-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 32
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/google-chat-material-you.png"
+        width: 2552
+        height: 1378
+        isCached: true
+  - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
+    excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
+    publishedDateTime: 2023-06-06T14:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aprimo-introduces-ai-content-coach-with-chatgpt-revolutionize-/2023/06/06/9827428.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "MFjWIUKg3YmVM7c4SRjUr3zGLNmnPPog4VCdcajOJTSCkqGPaSLFHgcDKpKQ69Ge4CW0Lo9+zlOvJ7iPeX7+4BTlkmgrxaH82xf/ibrGxgG+HSG4H5gZRhp36AZXBRedaNqpFqw7KLEzH5n2frr3f4/fhAsC/kqxWH3xpfq6b6nLGLZ18XTHVvvOLqpVAdRp3iemYxlTEL9wuH/UQmVdWdLVezG90oaFrU+TLwvh/bDBGrr8VXXLlaywK5OTit4KQ2NCoAMLtTV+Y1S0S/2Le7m2vIza+MQRQ/24zXCylDHE8C4DEWVm2jrygnR0kMtZmY/KPcC4rFtx15B/tSmTFwkJl3AeAL1XWoVwC8kma0iLNVWaA9Ra9w2j0Kxw6E1LUsaXKJEERDZbibZ/yVXM67q8JR4U//2zx/vPfSfANXvkc4wIT21cdRx1S+eWNucbI0DgH5MJ+ysHxoZf1VAvwRHyom79TcHNVWv0eyoQ6EME4QqnFCbrGF2LipcVgTozPve3RqZBCEoLH54Ew2fLTA==;E91ROPdDveoZpROdowOIAw=="
 ---

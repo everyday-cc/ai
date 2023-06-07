@@ -33,7 +33,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_smiling_man_wearing_circuit_gloves_types_on_a_glowing_h_1996188f-aca0-4226-8817-c2534d933729.png?w=1200&strip=all"
         width: 1200

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Jeep is working on off-road self-driving and I’m here for it"
-    excerpt: "I was just in Utah and had a chance to take a Jeep off-road for the first time. It was a nerve-racking and exciting experience"
-    publishedDateTime: 2023-06-02T15:10:00Z
-    webUrl: "https://bgr.com/tech/jeep-is-working-on-off-road-self-driving-and-im-here-for-it/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 24
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/jeep-delf-driving.jpg?quality=82&strip=all"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Jeep previews autonomous off-road driving tech"
     excerpt: "To test this in the real world, two Jeep Grand Cherokee 4xe models were installed with the AI and autonomous off-road driving technology, then taken out over the rocky landscapes"
     publishedDateTime: 2023-06-06T10:16:00Z

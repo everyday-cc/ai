@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/landing-ai-launches-new-sdk-to-bring-comput
 webUrl: "https://sdtimes.com/ai/landing-ai-launches-new-sdk-to-bring-computer-vision-capabilities-to-developers/"
 type: article
 quality: 60
-heat: 91
+heat: 90
 published: true
 
 provider:

@@ -77,15 +77,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "When AI Needs A Human-In-The-Loop"
-    excerpt: "In her role as senior director of product management for SS&C Blue Prism, Kavitha Chennupati is upbeat about automation and sees a specific space for humans-in-the-loop being brought in later on in the AI deployment process. With specific reference to the process of IDP (Intelligent Document Processing) which transcends into content processing."
-    publishedDateTime: 2023-06-02T13:34:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/06/02/when-ai-needs-a-human-in-the-loop/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Advancing Intelligence at the Edge with AI Vision Processors"
     excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
     publishedDateTime: 2023-06-05T16:21:00Z
@@ -99,6 +90,20 @@ related:
       - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "As AI enters the workplace, optimism levels are high"
+    excerpt: "Employees at all organisational levels recognise that artificial intelligence (AI) is here to stay and will fundamentally change or even supersede their jobs. But there is a generally high level of optimism about the positive impacts of the technology."
+    publishedDateTime: 2023-06-07T07:56:00Z
+    webUrl: "https://it-online.co.za/2023/06/07/as-ai-enters-the-workplace-optimism-levels-are-high/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/06/ai-3.jpg"
+        width: 855
+        height: 474
         isCached: true
   - title: "Ground Rules for the Age of AI Warfare"
     excerpt: "Encouraged by the benefits they already derive from AI-enabled systems, militaries will likely stay their current course and design future systems with growing degrees of autonomy. This push toward AI-enabled autonomy will certainly unlock strategic and tactical advantages, but they will come at a cost."
@@ -114,15 +119,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Illusion of China’s AI Prowess"
-    excerpt: "JENNY XIAO is a venture capitalist investing in AI startups and a Ph.D. candidate at Columbia University. In the abstract, these concerns make sense. It would not serve U.S. interests if a regulatory crackdown crippled the domestic AI industry while Chinese AI companies,"
-    publishedDateTime: 2023-06-02T13:36:00Z
-    webUrl: "https://www.foreignaffairs.com/china/illusion-chinas-ai-prowess-regulation"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 21
   - title: "Keeping an eye on AI"
     excerpt: "Sunak is expected to discuss the idea of a “Cern for AI” — a research base modelled on the particle physics laboratory in Switzerland — with a global regulatory body that could look something like the International Atomic Energy Agency."
     publishedDateTime: 2023-06-05T17:15:00Z

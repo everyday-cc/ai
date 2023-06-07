@@ -7,7 +7,7 @@ originalUrl: "https://mainichi.jp/english/articles/20230606/p2g/00m/0na/037000c"
 webUrl: "https://mainichi.jp/english/articles/20230606/p2g/00m/0na/037000c"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

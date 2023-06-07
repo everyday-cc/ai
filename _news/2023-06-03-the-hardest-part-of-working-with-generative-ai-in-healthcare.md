@@ -74,22 +74,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 64
-  - title: "Using AI to push the boundaries of wildlife survey technologies"
-    excerpt: "In their research, associate professor from the NRS Department Tiejun Wang and his master's student Zijing Wu developed an AI-model to automatically locate and count large herds of migratory ungulates (wildebeest and zebra)."
-    publishedDateTime: 2023-06-02T14:13:00Z
-    webUrl: "https://phys.org/news/2023-06-ai-boundaries-wildlife-survey-technologies.html"
-    ampWebUrl: "https://phys.org/news/2023-06-ai-boundaries-wildlife-survey-technologies.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-ai-boundaries-wildlife-survey-technologies.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/using-ai-to-push-the-b.jpg"
-        width: 1110
-        height: 624
-        isCached: true
 
 secured: "b8e80IlcmMCCV9yUlq9I03pMrLoiNCprhGSfKJT+5tCtADguWB2ETjADKRqoU4ezokZ2fglvDcEkeTPmOheiSKclEay7Hnph5lvjhkTmfybXhk3bP0VFCMYxtBRJ0To7mVlrcLEAWTXdHQBlx/K4J+3TvGhGL0eQaNivvulcQqWh1UZTIhDBPhA1O404dUj2dnBEETwZA2KMBZRe8Fy59NcdYqLgpPO4qZOqozY1J/tC9GvANfjyzZZAzP9uB5CTeSIZQxa/oOXW2Rergzdg/DE2ZYPMnwHws8TEBkDzT4uuyvtnL7Rk1QKrkkF8BSzPFJCoYxWBBPZ84152h5U1Y2iGhkG4QIJ1faVUoM7J2W8=;purQdnwxjIssgwyZWZ1kJA=="
 ---

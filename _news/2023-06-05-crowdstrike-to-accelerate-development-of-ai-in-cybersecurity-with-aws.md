@@ -53,6 +53,20 @@ related:
         width: 900
         height: 430
         isCached: true
+  - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
+    excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
+    publishedDateTime: 2023-06-07T06:04:00Z
+    webUrl: "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 56
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg"
+        width: 1024
+        height: 787
+        isCached: true
 
 secured: "/8QbNJh+NcRlxHb+Bb1ZSVUFHtHm8VyiVzTEZNDDO2dk9EoTyIwzkPDj7fgqAABQTSlnIHVAOvuLOtdyVy59GctYBMIhDEbKoXKKrKF0XA4OH/sXr0+4+KEBRR1/Yh6SQcbIVZ/k/cRxLKrVn5w7RUsQHdTbItS/zqiH0dRHpxiC+N1RzjBJT3bbMFw1EBH4dSgSzSf6C1uwQzi8jE34WO+DYw0S6ZnA4c2a7HdbHvLpnGLWq8rpAipwMoeNIgmIpzrUeec2V0HcmMcOiXIetoy20sVLh+l35kIfqAcuYcMBsXG3VYOk3cwKlgjMP42Bqj9fz+8Y1ESGObMwYgoLMKuuXMlkqc7PhFVksmescfE=;nl7GOuNSzx9HKOqbJi8gAw=="
 ---

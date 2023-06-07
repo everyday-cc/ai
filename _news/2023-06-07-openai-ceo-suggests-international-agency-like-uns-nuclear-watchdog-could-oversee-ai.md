@@ -82,6 +82,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "OpenAI CEO reveals why he isn't interested in taking the AI startup public"
+    excerpt: "OpenAI CEO Sam Altman has been meeting lawmakers who are creating rules to monitor AI during his weeks-long world tour."
+    publishedDateTime: 2023-06-07T06:14:00Z
+    webUrl: "https://www.ibtimes.co.uk/openai-ceo-reveals-why-he-isnt-interested-taking-ai-startup-public-1716466"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 35
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1716031/sam-altman.jpg"
+        width: 2048
+        height: 1458
+        isCached: true
 
 secured: "GDdtaAcI0nFZ+VJJuzMphf8LHMYPt9OWVFwjNTYqBLcL9IS+xpSji3kUEgdUT2gk6DHrdrBJVchRxw61i8NPbFG7sbGbwdCQVTvZScR973rA1vcMmwuzoCg+CyWF1e082cHGv1Reep7cz4ypBQ988dhwddY0MzqFviFi1w+I90O6ExnJKaW8AFfAU7qPeJRnR2UAh9QJIoDhuP7/DABLp+A5u6QOcTJuifmy2xA818r6DyK2dKUDA5bq8WxAhNpxIeNc4rayXzS0D9+Ud9MwCDvuBhm1/v4pElE91K9jcTjyqOApX1qiu0rNogiGB6o+OsumysFVSJ3rk2SUcrJTREH4NaYC9c1YsKQNkLZjd2V/DDf2QbxHNwiP9vqfAWeY70qDRREm6OBnGEaohMAL4+x1iWtulD/hn15sMAljDAIDzOLptwDXUOtcYalo9PzFjU5/Qa+fgGUFoZIhD1fex8TUidFbC9Cn9QfdAfFnfIpkrLcgAcr1pFydGpltDWp00Nr/A+cZK6j60PTgPB1pyw==;v6vKSHn2XwDKA7QvrlL7Yw=="
 ---

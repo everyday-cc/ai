@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://www.securityweek.com/wp-content/uploads/2022/09/AI_Cybersecurity.jpeg"
         width: 900
         height: 430
+        isCached: true
+  - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
+    excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
+    publishedDateTime: 2023-06-07T06:04:00Z
+    webUrl: "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 56
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg"
+        width: 1024
+        height: 787
         isCached: true
   - title: "CrowdStrike to accelerate development of AI in cybersecurity with AWS"
     excerpt: "Powered by the CrowdStrike Security Cloud and world-class AI, the CrowdStrike Falcon® platform leverages real-time indicators of attack, threat intelligence, evolving adversary tradecraft and enriched telemetry from across the enterprise to deliver hyper-accurate detections,"

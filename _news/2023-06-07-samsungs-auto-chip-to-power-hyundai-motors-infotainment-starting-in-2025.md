@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsungs-auto-chip-to-power
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025/"
 type: article
 quality: 102
-heat: 103
+heat: 102
 published: true
 
 provider:

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
-publishedDateTime: 2023-05-30T17:59:00Z
-originalUrl: "https://pressofatlanticcity.com/lifestyles/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_3096b7b6-e794-5d3d-ab84-5f629934cbc7.html"
-webUrl: "https://pressofatlanticcity.com/lifestyles/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_3096b7b6-e794-5d3d-ab84-5f629934cbc7.html"
+excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ..."
+publishedDateTime: 2023-05-31T12:21:00Z
+originalUrl: "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
+webUrl: "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
 type: article
 
 provider:
-  name: The Press of Atlantic City
-  domain: pressofatlanticcity.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/b/8e/b8ee49f4-7466-58c0-bd98-a66d732b54a0/64763723f33b8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/90/f904fd40-d989-5782-8c5f-7669aadb68b8/6477381e4afce.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
     width: 1200
-    height: 630
+    height: 631
     isCached: true
 
-secured: "rm4Oa4HCOlM7gGFDjNn+TVXpWKshn291Y/Ke4LNQR13gXyeUIqtlVmkb3RmtIZJ6q15xvENCKr/EGZpDSnTvOlrEaca6MNlumL860A009DIVzOU64rkAy7W1Gr0lSuWSnpqAU+nFEyzuBblCKkeOyaBBP+uP/kukw3noNpIwJcDFxX/nGtBb8JfwL7OVu/4jBwJd18aBCiDLbywxYgrRtb7Yty6OFQP5oFZ64ukg3fOilsLULKs5ZSKrK4lCEDcxGxUsW0EU1LmG4ZWSu0q680Df3XMJP9M32+mbnw7LmGLKXJ5Yel0iruTcnIUUk9SG/hmSGutmcZTUAG5CEdYvL+DqLaoE47ptRvtEPT51eHg=;37GJhIXfeh9cUUuhqH6yoQ=="
+secured: "j+tukFg8AguJ2s4FgtwMatjaLOFw4IVwNp3SGnMY9abgVX7zMaJjjObD7MhXT/FAZgxxHR3ZSSRxgbZm3ElRtqWaO2REk1Ay2J9zfPQ0yIvfQKwtTbeXSchnLlLpHZ1UFp6aMzrXrXSTRjcS0ClndrAyxFv0CxR/HUsrDKP8rUMJwnHl9XlZNZUmvwHWra3fGAX3JmvX7wBNIDfSJsORdFBSgJx/E7zzBx35hbj/8FTPJFehZOv7Hzd5EnANBd+0Ugno4kRyOLL+ymE/qWR2yNhoih0dPia9Z0Cc1cjgvPecw448C2MnSAZtMTnaHKQAprAcSs5Bj6xKvhKjIQgHTo+yy3zy+WG9qKUr52R4G6Q=;exqoHHdlY3+QZoIgjLsXPw=="
 ---
 

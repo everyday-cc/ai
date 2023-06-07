@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/06/policymake
 webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/06/policymakers-need-to-deal-with-real-ai-challenges/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "How to Make Money With AI"
+    excerpt: "While many are worried that AI might eventually take their jobs, others are looking to harness its power to make money."
+    publishedDateTime: 2023-06-06T20:15:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/how-to-make-money-with-ai/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/Computer_user_in_deep_thought.width-600.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "EEfMYFQLHTnXNlrt+sa4fURaYcfMbNWJyxcOwBbv0phwziuwGcy/nfShBmfkeXH3yV5m+EdqWvKI83wm2wSFQUz14KM9Pb4hwvfz6odXesvnc/smSMkiu+kdtsFOxNxx2/QKfPt1WmEsAYfbnSuY2hQlkvLPAa+loZcweZi2IFQfYFUBgNxJNUxdJjExjd8AXL4WqfDVqNkc26BcxskgI3wJExgVUhz3fMtxvqZF8O+hh4NPNE6RYjpgFZX8OM+eJiQOokGJTz1j6caTaFBdhj4mTx2qYkHJEbL0KRSPWI5qp6bFZfWNwsDl0Rdyah9COKHy27s9iEXoIjLdeLYDP9TFCwNKjIwUQ86PmLLlvrGgy5/F0dgaF1AjxAvreF2kC0NsmHZQhFkDgroaBZLGBLrprlJIzRn5He8XuvSFHmTkzE8i9gSR5A1dfwpKBv9YA1p6iQJlLK/EVqsBqVaV+uQra2lYw35F4uLyfXxvXgtX+L/uf8IiyurIuA8wdP1wxp8Lzv5+lzhnXWoAboco0w==;S8P6VI7Mfh2y3ny5oBQTUA=="
 ---

@@ -51,20 +51,6 @@ related:
         width: 690
         height: 407
         isCached: true
-  - title: "Air Force Now Claims Its Simulated AI Drone DIDN’T Try to Kill Anyone"
-    excerpt: "The senior U.S. Air Force official who said a simulated test with an AI-controlled drone ended with the drone “killing” its human operator is now backtracking. The Royal Aeronautical Society, the host of the conference at which Colonel Tucker “Cinco” Hamilton discussed the incident,"
-    publishedDateTime: 2023-06-02T13:52:00Z
-    webUrl: "https://www.thedailybeast.com/air-force-now-claims-its-simulated-ai-drone-didnt-try-to-kill-anyone"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2916,w_5184,x_0,y_137/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1685716547/2022-09-08T105621Z_1676758531_RC2XCW9HXSAO_RTRMADP_3_SWISS-DEFENCE_whexap"
-        width: 1480
-        height: 833
-        isCached: true
   - title: "Air Force official ‘misspoke’ in tale of AI drone killing human operator in US test mission"
     excerpt: "An Air Force official says he “misspoke” when describing how an artificially intelligent drone programmed to destroy air defence systems rebelled and “killed” its human operator after it decided they were in the way of its mission air defence systems."
     publishedDateTime: 2023-06-02T18:43:00Z

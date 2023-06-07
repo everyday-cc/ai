@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/european-startup-funding-to-drop-2023-
 webUrl: "https://thenextweb.com/news/european-startup-funding-to-drop-2023-but-theres-cause-for-hope"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Woflow Acquires European Startup XtremeAI, Expanding Reach and Bolstering AI Capabilities"
-    excerpt: "The deal brings new customers, valuable team expertise, and advanced AI technology to Woflow's growing data infrastructure platformSAN FRANCISCO,"
-    publishedDateTime: 2023-06-02T14:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/woflow-acquires-european-startup-xtremeai-expanding-reach-and-bolstering-ai-capabilities-1032367504"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
 
 secured: "Kf67tBe/sj9esoNhpCPimGKeT4bgGINrh09wfJQG1znUvkrNRXsSck7SvRq1+FeqRdHSeLTCYO4dMs4ZtNGQudorcZiBAsY1RpMOfhpzImbdX7jVFx8eROK+8HATuUO/j49Tz2/sx1uVHufjy9/0Rk5l588OzpAk2DI+PPFjuMDB1zitUEqBF6R7QqXS2DtHOsUPgDdhVd9xYYWFsv+p4q1s7L7cprt0zpp9tYyKlTzCCAuxIG1qeTOi+tK0Pdy6iq1nSzsUzx9c1uAnMrlR3VTMC+xZkyrPHX8m9R9/sNti3tfl2u5K6ro9XY5R+I1pWcEjO2D5RMHxropoi9ReYLnNsbUUb2vUCYEssllb7Fg=;olU2NSc8q9ght1SkDWODZg=="
 ---

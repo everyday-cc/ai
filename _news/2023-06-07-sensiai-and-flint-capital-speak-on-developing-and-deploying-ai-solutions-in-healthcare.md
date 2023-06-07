@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-o
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/"
 type: article
 quality: 96
-heat: 127
+heat: 136
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/AntChain-Ant-Group.jpg"
         width: 1080
         height: 720
+        isCached: true
+  - title: "From writing codes to drug development, generative AI is reshaping various industries: Anshul Rustaggi"
+    excerpt: "From synthesising medical images and predicting novel drugs in healthcare, to creating art and video game levels in entertainment, generative AI is transforming industries."
+    publishedDateTime: 2023-06-07T05:57:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/from-writing-codes-to-drug-development-generative-ai-is-reshaping-various-industries-anshul-rustaggi/articleshow/100811886.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/from-writing-codes-to-drug-development-generative-ai-is-reshaping-various-industries-anshul-rustaggi/amp_articleshow/100811886.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/from-writing-codes-to-drug-development-generative-ai-is-reshaping-various-industries-anshul-rustaggi/amp_articleshow/100811886.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 43
+    images:
+      - url: "https://img.etimg.com/photo/96164744.cms"
+        width: 2448
+        height: 1224
         isCached: true
   - title: "Deep In Sight unveils groundbreaking AI-powered 3D depth sensing solutions at CommunicAsia 2023"
     excerpt: "Showcasing In-Cabin Monitoring solution and Volume Management System which are Deep-In-Sight's cutting-edge 3D Sensing solutions at CommunicAsia 2023 Deep-In-Sight's solutions are expected to meet the diverse demands in the growing global robotics,"

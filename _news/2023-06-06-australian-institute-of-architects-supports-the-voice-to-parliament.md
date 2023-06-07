@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Australia is looking to regulate AI – what might they be used for and what could go wrong?"
-    excerpt: "Growing sense that artificial intelligence is in accelerated development prompts government review looking to make ‘modern laws for modern technology’"
-    publishedDateTime: 2023-06-02T14:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/03/australia-is-looking-to-regulate-ai-what-might-they-be-used-for-and-what-could-go-wrong"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/03/australia-is-looking-to-regulate-ai-what-might-they-be-used-for-and-what-could-go-wrong"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/03/australia-is-looking-to-regulate-ai-what-might-they-be-used-for-and-what-could-go-wrong"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 47
-    images:
-      - url: "https://i.guim.co.uk/img/media/59098d6e393c5cfff31cc8ddd3773b76d93a39a7/0_190_5453_3272/master/5453.jpg?width=620&quality=85&auto=format&fit=max&s=e47a2a5569a083056c409bf204f4015c"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "5Z7FCeAytU3ug/uES2gdSUXSPBCCCWbNWmwzMlGC/uFZOyNL4WtZ3XuvJ1+ezdXQ3XwQ5lhUm3Ha9oQ9pDpneSm0idUgNgNp3FqWKxtPErSImMKwZfpes9vp+FoKw10FUG7NBlUq7hGI1viNA1TSGdtZrE7pAcXGXWUBgSwsQHKqEj9OP/I532SBNaj5c+iJ3U42X9I8Y9ooWA618Hp0oLO8kk80tB7dBy+iLD8duD7rnPFcjAFMR55L5txw0Bkex3Upayw2xY1CgGBF5B0tzq9U2jNz31QariyirHj7nS1PNWv9SZlSkifCNhsAb+90ef1y/xaHT7mWSjr8+0Fw2JRB+0n9W1+9iLv/qnvxT/YNlOMUlaL4Km8UmjWKfqtHnNByWoMw62vv0eHWe5ZPVNq9rTPYrjSX+F075omS5VqtjFSIrAa92Ggxvkp3gtySDXB9EDju7iGmpr/RHj1XdjFNPQ5HS13cU48vqjEfZYdzWCxsUWPOzCslt0K9Rnox/d89ngSw7jSnvULxRqCfAw==;nzlbHAM/NqsVsHYu6UJ/Aw=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-07T04:01:00Z
 originalUrl: "https://venturebeat.com/ai/optimism-about-ai-is-growing-as-more-people-use-it-bcg-report-finds/"
 webUrl: "https://venturebeat.com/ai/optimism-about-ai-is-growing-as-more-people-use-it-bcg-report-finds/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 80
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_smiling_man_wearing_circuit_gloves_types_on_a_glowing_h_1996188f-aca0-4226-8817-c2534d933729.png?w=1200&strip=all"
@@ -43,6 +44,6 @@ related:
         height: 879
         isCached: true
 
-secured: "sxcOTEOwhvm3vsFAc97SYR/5asmemV03eJxlk9+HLVV+wl8LMCm6sOxjhaxUyTz0fi/AymzcPd25PwD6Msdd+/34iq7HAUIicfjZUAg2fS+8ZoO4MUWwopzgOedXRCVlwTJJ9jrc40G0SwKuSs/LWRfKJ14oE8Vjkk4snibfl3c3SLxD7UPwXQRyTb6HjHTchglYBI7Ye1eGkaf6Th+HXirEEhZRoDxq/dD1k3oA8PxR+DQh84isvPthgienPKEKp21ZCcS3IWIXCNdGo+IdO1LJsackXyxTMQ3+5Zj/eypQSFVRrtlIQD/IThkWTMdayK+JqLcIXrbzxQENeyZzr1Q2k4vRMlQefFo+uEDO624=;eTl/LfyJv7fHQ7mgurVXVw=="
+secured: "ztOAc0P0Yjp7nbeu+92+y3LDNkjck/z4PHRWLd8Mo0qNJRrFPdoj2aVnsqE0SiKUn62+rvi8dgFGUfqGO4p/dTseBThYWrsKOFnvzjoOSYmm7Y+xeQoe0fz4Rw8q+hDF300+Q7XM89lrmsodFfSyuMtE736v/67ccIXwPCnAqdIit0x0IIQNvvyztBRbxE1sbdxXrprXx7ScfAt9bITlI4wBzYg5amXMeLfti59hFlAmPLhnzzJ+RIBe14KPHIjPO0kKnEJweTgWK3P/fmJVtMEioP3tZ12duOik2kt6Hv6q9sG9Rg3MXORuYHMl9hmAvpjpcfGBQGFEJNzsjeAqAYRwcXX0KealdF80NRQKDLu9F4A+oT+3zt8E9k5sNFhyrZ2KiTGeaTcn1RbcbuYdkGG+PMc37MedHSIehtmXuj5rcHfi/Yu8pcSwvV7WddMRQv4xrLH3XsCobrxoh+9N0KKvqHtXSX8wfG5X2uC9PRSqEKBZRLJ/AVxZpaUZNEBPc7RlShJbd0gxsl1Z+mgXlQ==;cFzZZdpBlDaqOkSzkRNLTg=="
 ---
 

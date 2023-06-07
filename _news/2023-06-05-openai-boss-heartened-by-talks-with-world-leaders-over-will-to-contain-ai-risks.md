@@ -74,6 +74,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "OpenAI CEO reveals why he isn't interested in taking the AI startup public"
+    excerpt: "OpenAI CEO Sam Altman has been meeting lawmakers who are creating rules to monitor AI during his weeks-long world tour."
+    publishedDateTime: 2023-06-07T06:14:00Z
+    webUrl: "https://www.ibtimes.co.uk/openai-ceo-reveals-why-he-isnt-interested-taking-ai-startup-public-1716466"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 35
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1716031/sam-altman.jpg"
+        width: 2048
+        height: 1458
+        isCached: true
   - title: "OpenAI CEO suggests international agency like UN's nuclear watchdog could oversee AI"
     excerpt: "OpenAI CEO Sam Altman speaks in Abu Dhabi, United Arab Emirates, Tuesday,. Altman on Tuesday suggested an international agency like the International Atomic En"
     publishedDateTime: 2023-06-06T19:09:00Z

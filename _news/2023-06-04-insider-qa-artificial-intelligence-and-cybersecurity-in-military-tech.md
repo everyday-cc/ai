@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
+    excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
+    publishedDateTime: 2023-06-07T06:04:00Z
+    webUrl: "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 56
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg"
+        width: 1024
+        height: 787
+        isCached: true
   - title: "CrowdStrike to accelerate development of AI in cybersecurity with AWS"
     excerpt: "Powered by the CrowdStrike Security Cloud and world-class AI, the CrowdStrike Falcon® platform leverages real-time indicators of attack, threat intelligence, evolving adversary tradecraft and enriched telemetry from across the enterprise to deliver hyper-accurate detections,"
     publishedDateTime: 2023-06-05T08:57:00Z

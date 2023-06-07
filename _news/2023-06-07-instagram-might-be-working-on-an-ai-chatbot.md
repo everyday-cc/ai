@@ -22,38 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "7 ways you didn't know you can use Bing Chat and other AI chatbots"
-    excerpt: "You can also use Bing Chat to generate unique drinks from fun prompts. For example, at a Bing press event in NYC, the company had a smoothie bar that used Bing Chat to make smoothies according to your favorite TV character."
-    publishedDateTime: 2023-06-02T14:40:00Z
-    webUrl: "https://www.zdnet.com/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/8647ff8681b655b1556ed0e26907c10c6472ad79/2023/06/01/c92eb6e5-9691-45b3-9ad4-66599a5aa3df/gettyimages-1479076604.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Travel This Summer With These 6 Fun Google And ChatGPT AI Companions"
-    excerpt: "Can AI plan three perfect days in Tokyo? You bet. Here's a look at the new chat features from Expedia, Kayak, SnapChat, Google Bard, ChatGPT Mobile and Roam Around."
-    publishedDateTime: 2023-06-04T01:08:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647bd1788c78818aad0b6f67/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Instagram may be getting its own AI chatbot soon. Here's what we know"
     excerpt: "Instagram's chatbot is very similar in purpose and design to Snapchat's My AI. Since Snapchat's feature has not been well received, it's interesting to see that Instagram is following in its footsteps. Whether this will become a useful feature or be quickly forgotten remains to be seen."
     publishedDateTime: 2023-06-06T16:16:00Z
@@ -69,20 +37,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/731fa999b2b078dba0f7ffd929234df150b9a7bd/2023/06/06/0d67eed7-716a-47da-bb16-4b86e1f196b8/gettyimages-1256994567-1.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Chegg Embraced AI. ChatGPT Ate Its Lunch Anyway"
-    excerpt: "The education company is a case study in generative AI’s disruptive power. Now it’s trying to prove it can beat back ChatGPT with an in-house chatbot."
-    publishedDateTime: 2023-06-05T11:00:00Z
-    webUrl: "https://www.wired.com/story/chegg-embraced-ai-chatgpt-ate-its-lunch-anyway/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/647a758e57ff6ec62db8a75e/191:100/w_1280,c_limit/Chegg-Getting-Crushed-By-ChatGPT-Business-1289189057.jpg"
-        width: 1280
-        height: 670
         isCached: true
   - title: "David is friends with Lazarus. Lazarus is an AI chatbot"
     excerpt: "More and more people are forming friendships and even romantic relationships with AI chatbots, prompting concerns among experts who study the ethics around the rapidly evolving technology."
@@ -114,54 +68,6 @@ related:
         width: 1200
         height: 626
         isCached: true
-  - title: "Do chatbot avatars prompt bias in health care?"
-    excerpt: "Chatbots are increasingly becoming a part of health care around the world, but do they encourage bias? That's what University of Colorado School of Medicine researchers are asking as they dig into patients' experiences with the artificial intelligence (AI) programs that simulate conversation."
-    publishedDateTime: 2023-06-06T07:58:00Z
-    webUrl: "https://medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-chatbot-avatars-prompt-bias-health.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatbot-2.jpg"
-        width: 1920
-        height: 1358
-        isCached: true
-  - title: "Yellow.ai's generative AI-powered Voicebots and Chatbots Now Available on Genesys AppFoundry"
-    excerpt: "Yellow.ai combines with Genesys marketplace of solutions, enabling enterprises to deliver autonomous, human-like experiences with its Dynamic"
-    publishedDateTime: 2023-06-05T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-s-generative-ai-powered-voicebots-and-chatbots-now-available-on-genesys-appfoundry-1032370385"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "3 ChatGPT productivity hacks that’ll change the way you use AI"
-    excerpt: "ChatGPT can be used to improve productivity at work for specific tasks that might require repetition - here are a few use cases."
-    publishedDateTime: 2023-06-03T14:33:00Z
-    webUrl: "https://bgr.com/tech/3-chatgpt-productivity-hacks-thatll-change-the-way-you-use-ai/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/rsz_gettyimages-1252207238.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1668
-        isCached: true
-  - title: "Editorial: Federal law shouldn’t shield AI chatbots from liability"
-    excerpt: "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,” 350 AI scientists and other notable figures cautioned in an open letter from the Center for AI Safety,"
-    publishedDateTime: 2023-06-06T12:30:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/06/06/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 19
 
 secured: "nFMjsMDNCFvBG1NL0M4rfR9LhHSuIsR4GLLgEOaqa9EtrhKWvL8p/k6SDy5E8zdwBWSMvgFNjV1zyx3o8QgDVjNBrzfAIVAO7b9csTM/Kqh8mVcvu9/TIA3dCoo2VpUMTpE7LAQFuSkcB9X2lgDuRYz/EGUL2r/HTPu7nXfO3w884jBBXqLagQhmwlmnTY2LQv9ZoIslDmSudPcrqPa48ErwlnWvc7cxzuvMgxuZaanJGD/4leXQnvxoJT1CAHN3Y0kGTad65+yxrGU7dSUlh8GNLUwDCm3BAapuMXIEWLc0ASioZaHH+ogJCG2w1/j6JAaQrGoNk9aZdYjiL00+BHicef0VXvkCdepoys+eP6YgT/KLZp5ccqiCtC3QsOlegtwhZFFsk7sFvTwTtb0/uqjFtwkO/f8IiRRZ2pv0c/3zK1uIu/+QsJGn+8pc4rDOXZQ3TI+p+IFMQaXR+mm+Ibe/aH7niZh2qsr9RL/nGlKQuZSw/QfQnLKI/EXbJ6O+YFA7oxH4fhEjLbRD8qxgRw==;dWxhKhIYJhfVSTvADUMdcg=="
 ---

@@ -1,0 +1,93 @@
+---
+category: news
+title: "From writing codes to drug development, generative AI is reshaping various industries: Anshul Rustaggi"
+excerpt: "From synthesising medical images and predicting novel drugs in healthcare, to creating art and video game levels in entertainment, generative AI is transforming industries."
+publishedDateTime: 2023-06-07T05:57:00Z
+originalUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/from-writing-codes-to-drug-development-generative-ai-is-reshaping-various-industries-anshul-rustaggi/articleshow/100811886.cms"
+webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/from-writing-codes-to-drug-development-generative-ai-is-reshaping-various-industries-anshul-rustaggi/articleshow/100811886.cms"
+ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/from-writing-codes-to-drug-development-generative-ai-is-reshaping-various-industries-anshul-rustaggi/amp_articleshow/100811886.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/from-writing-codes-to-drug-development-generative-ai-is-reshaping-various-industries-anshul-rustaggi/amp_articleshow/100811886.cms"
+type: article
+quality: 43
+heat: -1
+published: false
+
+provider:
+  name: Indiatimes
+  domain: indiatimes.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://img.etimg.com/photo/96164744.cms"
+    width: 2448
+    height: 1224
+    isCached: true
+
+related:
+  - title: "Sensi.AI and Flint Capital speak on developing and deploying AI solutions in healthcare"
+    excerpt: "Romi Gubes, the CEO of Sensi.AI, spoke on a recent TechCrunch Live episode about how her company is enabling privacy-preserving, in-home remote patient monitoring."
+    publishedDateTime: 2023-06-06T22:04:00Z
+    webUrl: "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/"
+    ampWebUrl: "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 96
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1074257938.jpeg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Lack of trust slowing down AI revolution in medical settings: GE Healthcare report"
+    excerpt: "A new survey from GE Healthcare reveals that clinicians lack trust in AI when it comes to using the technology in medical settings."
+    publishedDateTime: 2023-06-06T20:30:00Z
+    webUrl: "https://venturebeat.com/ai/lack-of-trust-slowing-down-ai-revolution-in-medical-settings-ge-healthcare-report/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AntChain Introduces Privacy-Preserving Computing Platform, Offering Data Privacy Protection Solution for AI Machine Learning"
+    excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC)."
+    publishedDateTime: 2023-06-07T01:51:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/AntChain-Ant-Group.jpg"
+        width: 1080
+        height: 720
+        isCached: true
+  - title: "Deep In Sight unveils groundbreaking AI-powered 3D depth sensing solutions at CommunicAsia 2023"
+    excerpt: "Showcasing In-Cabin Monitoring solution and Volume Management System which are Deep-In-Sight's cutting-edge 3D Sensing solutions at CommunicAsia 2023 Deep-In-Sight's solutions are expected to meet the diverse demands in the growing global robotics,"
+    publishedDateTime: 2023-06-05T23:22:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/05/9826687.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/2092662/Image_1__Deep_In_Sight_ICMS.jpg"
+        width: 400
+        height: 251
+        isCached: true
+
+secured: "9843ltJQlSBY4ewJcnqH4+mLOeNqTZ9d0+FhCagpN3T7eJr/59dWnxCEmQO/ifK6wH/6Y3a1FUhCcNKUSCGi8oeWUZxv4NnqiH1zZmHguoZ2naRyU5yTwLFQVikCceccIq90/uwvn0XHn6asgZ4mAdX2ii288mJyUtlCeC1U9pbUuJwvpu4SzlanrCDKDReCFI0K7r0abEsSRXRb0OktvGxVeeFfTFWRsPmoqsbtQ/8mQkkHl7LjfvB7ktBjFJ2eiysgF4bR0tjYqL27Ro+VvEePGdSVmQkCYGkPjj6OtjZsFAX0T6dDtYQYsENSIzejiUFjng38Lxb+IgH4BUyfZQZ+ugv2S8wj9t6wHQjfW0E=;+n0Em9WXg322jU/6oYbFdA=="
+---
+

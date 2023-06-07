@@ -101,8 +101,8 @@ related:
         isCached: true
   - title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
     excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
-    publishedDateTime: 2023-06-06T12:22:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827097.htm"
+    publishedDateTime: 2023-06-06T13:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-microstrategy-expands-partnership-with-microsoft-drive-ai-enabled-/2023/06/06/9827097.htm"
     type: article
     provider:
       name: TMCnet

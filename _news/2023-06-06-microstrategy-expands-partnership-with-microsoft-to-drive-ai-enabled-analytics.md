@@ -2,9 +2,9 @@
 category: news
 title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
 excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
-publishedDateTime: 2023-06-06T12:22:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/06/9827097.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827097.htm"
+publishedDateTime: 2023-06-06T13:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-microstrategy-expands-partnership-with-microsoft-drive-ai-enabled-/2023/06/06/9827097.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-microstrategy-expands-partnership-with-microsoft-drive-ai-enabled-/2023/06/06/9827097.htm"
 type: article
 quality: 30
 heat: -1
@@ -108,6 +108,6 @@ related:
         height: 492
         isCached: true
 
-secured: "Co0DdFuds6RRYbWvYxU/TdMvpmzsuw2HrKwMJaIicqPRRRiC3L0LlzasUuNtMZLBVPrNbiVBaHpvpX7PZGt4xYJOCa+tsEP+85RHYpN9cbfK03/4ZTj5ZBctbjzRlmeqfqDOq4yUqx4jzrFtkPX1GQPuW2EEIjbsZcGeWG4/74o4InLyrNR+QwG4g+ssZTsSfu7TMKfqBHPEm8kVKSD8V5rVES8a67H8K+t7xpXh0EkhGcfXjJ21uscDo346dBdtfqvtrYoILtHOVFGeWoZ3KnUnIavm5cUCUkyI06/HNddRQgwh7EasoEACWsPgwGbJFGeuNG7j/9h1X7T1kpBSqR4Q4AmD+FnEjjmvZldzvrg=;9dyIjmxaFkkIiaGYsks32Q=="
+secured: "bHPFxBkBuHBpJB9UcK1Pb2XMBgPFV5uDEUHinilUbnDqFs0bM5uczI6oFsfAz9F5Fn2AeKSIzyMbw93ezmCsYwRtWsoYgam8Kbis47OgOxumgQ9mlniElBkQcfrllh9pf+OVPlB/Brc9zPHVOlqlNQl4+83oDxHG68z9yM9LHvYsLfI+fkkLRDGXL8p1j+z65zEuVdKRjJioJclNWLul7cMOUj5j9PjA2BvSaDV3vME3BOCsrkuUiJLLAEMd8KMgq7iQEmn+qAL7QBxAEofpkIYkn8O1SPqzgzGGecLSnQN74cBuLMRc/lYZrYNyHnzu1gKwQ0lRNIW+9KsWPB5pPcSdIjvW1camLrilZb0yLGs=;E3Y951vW/Qp58pToq4sqPw=="
 ---
 
