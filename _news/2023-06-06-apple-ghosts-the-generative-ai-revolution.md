@@ -117,20 +117,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
-  - title: "Google invests in generative AI startup Runway, gets it as a cloud customer"
-    excerpt: "Google has invested in generative AI startup Runway in a deal that values the company at around $1.5 billion. The investment, which was part of a $100m funding round, also means that Runway will now use Google Cloud as its preferred cloud provider,"
-    publishedDateTime: 2023-06-02T16:58:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/google-invests-in-generative-ai-startup-runway-gets-it-as-a-cloud-customer/"
+  - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
+    excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
+    publishedDateTime: 2023-06-06T07:19:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9826768.htm"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 35
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 23
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Google_Data_Center.2e16d0ba.fill-1200x630.jpg"
-        width: 660
-        height: 348
+      - url: "https://mma.prnewswire.com/media/2093629/IMKI_Custom_AI.jpg"
+        width: 400
+        height: 224
         isCached: true
+  - title: "Enterprise search startup Glean launches generative AI assistant"
+    excerpt: "The startup says the assistant, which is powered by generative AI models, is also capable of helping engineers with coding tasks. Palo Alto, California-based Glean exited stealth mode in 2021 with $55 million from investors."
+    publishedDateTime: 2023-06-06T17:31:00Z
+    webUrl: "https://siliconangle.com/2023/06/06/enterprise-search-startup-glean-launches-generative-ai-assistant/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
   - title: "Intuit Introduces Generative AI Operating System with Custom Trained Financial Large Language Models"
     excerpt: "Intuit's GenOS empowers Intuit technologists to design, build and deploy breakthrough generative AI (GenAI) experiences with unparalleled speed. The company is fueling rapid innovation at scale across its products and services to solve its customers' most important financial problems and drive durable growth."
     publishedDateTime: 2023-06-06T16:27:00Z

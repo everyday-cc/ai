@@ -44,6 +44,22 @@ related:
         width: 1062
         height: 597
         isCached: true
+  - title: "Waymo self-driving car killed dog in accident, says report"
+    excerpt: "According to a Waymo spokesperson, neither the safety operator nor the autonomous system applied brakes to prevent a crash. In both cases, that was caused because of the dog's \"unusual path\" while travelling \"at a high rate of speed directly towards the side of the vehicle.\""
+    publishedDateTime: 2023-06-07T09:01:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
+    ampWebUrl: "https://m.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
+    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 59
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/6/2023_6$largeimg_400747444.jpg"
+        width: 707
+        height: 471
+        isCached: true
   - title: "Waymo self-driving car killed dog in accident: Report"
     excerpt: "A Waymo robotaxi travelling in autonomous mode hit and killed a little dog last month in San Francisco according to an incident report filed with the California Department of Motor Vehicles"
     publishedDateTime: 2023-06-07T04:09:00Z

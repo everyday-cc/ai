@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 754
         isCached: true
+  - title: "Privacy In The Age Of AI: Separating Fact From Fiction"
+    excerpt: "That said, AI obviously does not have emotions, empathy or the capacity for self-reflection, all of which are essential components of human intelligence. Plus, AI systems are still entirely reliant on human input and supervision, lacking the ability to make truly autonomous decisions."
+    publishedDateTime: 2023-06-06T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&crop=2433,1368,x0,y191,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Ce9VWVhJttRkDkvt5GMnV4v8NECjnEiFgnkEILR40a87Ylq9gS7B6qCaydIem6Ib24WUEekE9EG92zUThNl/pSLwIio2wIj0AbxnGmUXiNtijy9BJtPRQr8VbhZkLZTYzCdeokZtrrIeRHxp10iyGf/Ek3lct986p1842Dpxq1qbTS03e4hnKtjzbHa+CAPl+Xj1JjG4lfTrK2FVCdAV3wHA4m4Xkw3NUOCEWTKhr3y4t0fAKvIuSsu7Qyv2I9+aVcjr/mnDHtEnG+TID/DORRurco+bIM7p7346s5haGYsdgUBSyTkJ9MOh85b2oE27fRvx0Y823jvL2Ah9OXHHGsB5FzRAi6tp5zceXe2DIPiO5au7yoHk63jWNBBWluz+16p0XgkB5dbPtoAqNDZaEoRvxu7m/5JH7enLvv6AMy1MlVqfhv9r9/78aqPvykDJHC3kviVoqsU99rpq/XABmox2j+kBrLBTuM5QYG+va/Uirj7QL5SwNAKPq52LX2p/jNhg6yaJCNuFbi3iOwTdGA==;nq8WzQHCS51nv6J0HRvj6w=="
 ---

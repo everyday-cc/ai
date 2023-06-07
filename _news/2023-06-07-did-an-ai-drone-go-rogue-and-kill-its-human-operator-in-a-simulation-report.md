@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jpost.com/business-and-innovation/tech-and-start-ups/artic
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-745463/amp"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: The Jerusalem Post Blogs
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Air Force denies running simulation where AI drone “killed” its operator"
-    excerpt: "Over the past 24 hours, several news outlets reported a now-retracted story claiming that the US Air Force had run a simulation in which an AI-controlled drone \"went rogue\" and \"killed the operator because that person was keeping it from accomplishing its objective."
-    publishedDateTime: 2023-06-02T16:21:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 86
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/ucav_drone_hero_1-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Terminator-Like Skynet Vision Seems Reality As AI Drone Kills Its Operator"
     excerpt: "Conversations about AI and related technologies cannot be heard if you are not going to talk about ethics and AI.”"
     publishedDateTime: 2023-06-02T17:56:00Z
@@ -52,15 +36,6 @@ related:
       name: Inside Bitcoins
       domain: insidebitcoins.com
     quality: 17
-  - title: "Air Force official ‘misspoke’ in tale of AI drone killing human operator in US test mission"
-    excerpt: "An Air Force official says he “misspoke” when describing how an artificially intelligent drone programmed to destroy air defence systems rebelled and “killed” its human operator after it decided they were in the way of its mission air defence systems."
-    publishedDateTime: 2023-06-02T18:43:00Z
-    webUrl: "https://www.aol.com/ai-operated-drone-kills-human-090205649.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 9
   - title: "An Air Force Colonel Said a Simulated AI Drone Killed Its Operator, But the Service Is Denying It"
     excerpt: "The Air Force has denied a widespread account that one of its killer drones turned on its masters and killed them in a simulation. The story, told at a defense conference last month, immediately raised concerns that artificial intelligence could interpret orders in unanticipated—or in this case,"
     publishedDateTime: 2023-06-05T19:13:00Z

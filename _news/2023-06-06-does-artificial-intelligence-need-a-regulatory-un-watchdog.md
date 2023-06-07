@@ -24,6 +24,22 @@ images:
     height: 351
     isCached: true
 
-secured: "NUtD8aF4D4OT9d/4CsTqxtMHlZKY7rO6TIN6F3Xxe66qEcfgBKpJIEc81KY96IHAYAFbRQ4WW6okNsOSUVXAooo+1YzxbnB2YUG4icCEz2FxOvKOS9LLL9mYtqMMUP2YiCPQco16OWh3evoJje/PeUAViBvlVbUyaGn1189TssmD4GgrZ6oijTS5s4vOW5FGPpaKeevrFO08gGNHZNtTyhiQZJPFmxcXjqawOxnqaW5Uot3Hr+ksDWg6ffHGPzTzYxc27ydV+h8gReOVWZy956WbhjxjcWmz/6ZhOUB8VPt9CR7uKGQAIRrFa81Mn32lcNnJUS5gx3mskEeag00HQegoBhNULfoAEmBZZgLfb8Q=;yf1AT8PUoXBw4GKF+C+SpQ=="
+related:
+  - title: "Africa: Does Artificial Intelligence Need a Regulatory UN Watchdog?"
+    excerpt: "Analysis - The frighteningly rapid advances in artificial intelligence (AI) have triggered the question: is there a UN role for monitoring and regulating it?"
+    publishedDateTime: 2023-06-07T08:20:00Z
+    webUrl: "https://allafrica.com/stories/202306070122.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 39
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+
+secured: "t9O6ziMXXKx7ggpwbf8O2yFge9DvogJTYO55qufGwGfOhKqq+b5zC3fyW1AHn1q20ID4UA+rreoPn7IF7dqKmxD2wczMMALZiqC8Osp8RlB1X1R4HjxfOYeJkLpYMjzf0UWezWRAhq1vCnV93tKyM3msyPOy959k+4rE9OX9rYvfm7Nnu0BLqg9LW/7lmgywppFmrXuTxzTQDTnbrO/lRzk5ehfEGJyw6kaFeTquhB3THHcGAL+riXl+2nr5m7Iw9CDP75Uu9NHX/KYjJI0d5pW1DR/QxyQlj5A7yYZ0Fp6nWaVnlXkzbYXpPQuMcNe2rDw1fcjs1gPhP64esL9ffDFbBLH3IA6nET1PPcAJA9DGTpwPUFpob5akgEggAPqmZn1CPrWgPBPSbq4YHZ1Qbxw6caOqXHiPz/bGhm75oT4trqdOgWAhNDb5ImUlhpzlU5vOSTIYiIYam3oS/FerAPItt/kEi/PPcv3+P4CjiNDjbr90VjZKqDY9k/qBrJRmJt8LX/KpALpfV30VfzfRiQ==;Q25rj5ZlA4aWcMOtUvPDVw=="
 ---
 

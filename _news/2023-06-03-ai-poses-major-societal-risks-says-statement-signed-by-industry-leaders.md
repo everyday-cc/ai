@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/ai-poses-major-societal-risks-says-state
 webUrl: "https://www.cnet.com/tech/ai-poses-major-societal-risks-says-statement-signed-by-industry-leaders/"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Unregulated Artificial Intelligence Can Eliminate Humanity, Pose Extinction Risk - Industry Leaders Issue Warning!"
-    excerpt: "Several industry leaders and academics issued a statement warning that there is a need for rigorous mitigation of Artificial Intelligence (AI) associated risks. The statement in brief An open letter was posted by Center for AI Safety which is a San Francisco-based non-profit."
-    publishedDateTime: 2023-06-04T20:47:00Z
-    webUrl: "https://trak.in/stories/unregulated-artificial-intelligence-can-eliminate-humanity-pose-extinction-risk-industry-leaders-issue-warning/"
+  - title: "AI Doesn’t Pose an Existential Risk—but Silicon Valley Does"
+    excerpt: "More than 350 executives, engineers, and researchers who work on AI have signed a pithy one-sentence statement: “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks,"
+    publishedDateTime: 2023-06-07T09:00:00Z
+    webUrl: "https://www.thenation.com/article/economy/artificial-intelligence-silicon-valley/"
+    ampWebUrl: "https://www.thenation.com/article/economy/artificial-intelligence-silicon-valley/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/economy/artificial-intelligence-silicon-valley/tnamp/"
     type: article
     provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 17
+      name: The Nation
+      domain: thenation.com
+    quality: 59
     images:
-      - url: "https://trak.in/stories/wp-content/uploads/2023/06/Untitled-design-20-1.jpg"
-        width: 1000
-        height: 465
+      - url: "https://www.thenation.com/wp-content/uploads/2023/06/zuckerberg-facial-recognition-getty.jpg"
+        width: 1440
+        height: 907
         isCached: true
 
 secured: "hESj3yMOgvVv2nfZIlwTNXjQpDaC4mtVlrUeZj4yiXIPqxTPrKex/bst9X/qNU458tG4rMXOZl4JvQpnet5m14hOqBpcj7W2lnH8lCLo84eTmabxyPTyn15wMdMTpA2hJ00lDO5mctXXnTTsTAhPFkI5qCUtcYRxRoUEKzyPZWUihIz+U2tZOAkTxDzOJMPzLkKie5O21SNeya+AAkI3jSC5xQX55Gv1usPAMRoCEYMk1LIp8LeTYMgj1udJ0lkdnCMqDKKH0nPt3aH1+mJ+Reizv7f+QJ/8kbbFNT8nsJhzr3HQcm9FKFUNbfqQEohr5ZK9CyZJhvSgGg1dtVvJMVg8uN/+4Yr43J/oTrsM5sti46ll0TN5E3j9CfwWbpIfxladTQs5Ct6O9O/Elahm09c9SrPIVI2WzhE6ozUFQJLjHdf1tzKcwiRZ+yLAGAgTTI72D4LAhy7PnnQ3ehplTgjl2a7uiOUlde1TFyGzNy31cVg1eIXa6VEqVNRrzKZ8OpEzVCALS20UZEL4+DRlAg==;WZ6cwjOxcpT+VsFyAjzEmA=="

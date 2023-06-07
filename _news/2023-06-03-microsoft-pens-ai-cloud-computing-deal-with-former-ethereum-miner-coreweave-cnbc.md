@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft’s CoreWeave Deal ‘Adds AI Pressure’ To AWS, Google"
-    excerpt: "Microsoft’s AI deal with Nvidia backed CoreWeave for GPU and cloud infrastructure puts pressure on AWS and Google in the generative AI market."
-    publishedDateTime: 2023-06-02T16:59:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-s-coreweave-deal-adds-ai-pressure-to-aws-google"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
-    images:
-      - url: "https://www.crn.com/resources/0282-182941c9d993-f3abf62ff777-1000/coreweave-logo.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Intel and Microsoft look to bring AI to the masses with Meteor Lake chips"
     excerpt: "Intel aims to put AI-accelerated experiences in the hands of hundreds of millions of people with its new Meteor Lake chips."
     publishedDateTime: 2023-06-06T13:16:00Z
@@ -101,8 +87,8 @@ related:
         isCached: true
   - title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
     excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
-    publishedDateTime: 2023-06-06T13:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-microstrategy-expands-partnership-with-microsoft-drive-ai-enabled-/2023/06/06/9827097.htm"
+    publishedDateTime: 2023-06-06T12:22:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827097.htm"
     type: article
     provider:
       name: TMCnet

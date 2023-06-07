@@ -27,31 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "SigmaOS launches a contextual AI assistant for its browser"
-    excerpt: "LocalGlobe- and Y Combinator-backed web browser startup SigmaOS launched its own AI assistant on Thursday to a limited set of people."
-    publishedDateTime: 2023-06-02T16:16:00Z
-    webUrl: "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/"
-    ampWebUrl: "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/"
+  - title: "10 of the best artificial intelligence courses you can take online for free"
+    excerpt: "TL;DR: Find a wide range of free online courses on artificial intelligence at Udemy. Learn how to create engaging content, boost your productivity, and much more with the help of AI. It's too early to say whether or not artificial intelligence will end up ..."
+    publishedDateTime: 2023-06-03T07:43:00Z
+    webUrl: "https://mashable.com/uk/deals/free-artificial-intelligence-chatgpt-courses"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Mashable
+      domain: mashable.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/Explain.jpg?resize=1200,750"
+      - url: "https://helios-i.mashable.com/imagery/articles/06HfKjvZCAEDPWZYxG7ISD9/hero-image.fill.size_1200x675.v1685714245.jpg"
         width: 1200
-        height: 750
+        height: 675
         isCached: true
-  - title: "Enterprise search startup Glean launches generative AI assistant"
-    excerpt: "The startup says the assistant, which is powered by generative AI models, is also capable of helping engineers with coding tasks. Palo Alto, California-based Glean exited stealth mode in 2021 with $55 million from investors."
-    publishedDateTime: 2023-06-06T17:31:00Z
-    webUrl: "https://siliconangle.com/2023/06/06/enterprise-search-startup-glean-launches-generative-ai-assistant/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "mFysIF5BOWtnZlZR4INlyvC0HltgrDgyQVUtYtQCbX4hw5iDXoQRfx0AiNymOcE0zY7DxOELgBaasKS+e3iKRHXnwTbr1S64XpFS785FnCc2XF981ViJ88SI731GiHxbD/SN0Y2BfLN7qkWEvJ+aCQ/jSwyasCv8QLVdczd6KBeg49XSNEn3qj4LaqJ6B9bGrtCJxt8i+bUwgzqnMR1WCWs0fbd+coUMKkf4Rvunz5EHR9ArCW+HwVNrqVFDg6xnjj5J3bKHsanjJj5gtLi4+XqtHwByK2gsm4UJbsEP4aOCAUhc1jkK5VoFFq83+pp5n+OZqemI/4IfDbPcSrB49yLiN28hj9pC1aVj9SFyg/ID8oUllR2zCmWmzKQRRegbAx9S2QOPcErDxxk6vrmw1Wi1xx687yJ7eM2tE7GKyuX9lBAAjiXRj1Rx00xOZO8T1oUgk9NmhCEgUi5uOIavRicVkcqeoQAXgm3T7wYXVdBQTKbg2yq1dZ5GBcSgRk8lha/0NOqbJZdn933M6QpgkQ==;iaqZBZerdr2nDgwG5d2aNw=="
 ---

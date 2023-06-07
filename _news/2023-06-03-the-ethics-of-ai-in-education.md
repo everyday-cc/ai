@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Accelerating AI & Innovation: the future of banking depends on core modernization"
-    excerpt: "In the rapidly evolving landscape of financial services, embracing AI and digital innovation at scale has become imperative for banks to stay competitive. With the power of AI and machine learning, financial institutions can leverage predictive analytics, anomaly detection and shared learning models"
-    publishedDateTime: 2023-06-02T15:39:20Z
-    webUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 114
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/Accelerating-AI-Innovation-the-future-of-banking-depends-on-core-modernization-scaled.jpg"
-        width: 2560
-        height: 1280
-        isCached: true
   - title: "The Future Of Education - Disruption Caused By AI And ChatGPT: Artificial Intelligence Series 3 Of 5"
     excerpt: "It is crucial for educational systems to adapt quickly and integrate AI into teaching/learning. However, educational systems are slow to adapt and full of bureaucracies."
     publishedDateTime: 2023-06-06T01:25:00Z
@@ -58,69 +44,21 @@ related:
         width: 1200
         height: 742
         isCached: true
-  - title: "Fostering International Collaboration In AI In Healthcare"
-    excerpt: "Combining AI and robotics and healthcare with a mission to extend healthy human life. Meet Richard Yang, partner at Sinovation Ventures"
-    publishedDateTime: 2023-06-05T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647bdd7fddd81ae2fc13b283/0x0.jpg?format=jpg&width=1200"
-        width: 800
-        height: 1200
-        isCached: true
-  - title: "Comparing And Contrasting AI And Human Translation"
-    excerpt: "Translation plays a crucial role in bridging the gap between different languages and cultures. Traditionally, human translators have been the go-to choice for accurate and nuanced translations. However, AI translation, a blossoming subfield of natural ..."
-    publishedDateTime: 2023-06-05T14:17:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647a000b5e40ece5fb13b283/0x0.jpg?format=jpg&width=1200"
-        width: 931
-        height: 620
-        isCached: true
-  - title: "How Computer Vision Is Driving Innovation Across Industries"
-    excerpt: "The fusion of AI and computer vision is reshaping countless sectors, ranging from healthcare and manufacturing to retail and transportation."
-    publishedDateTime: 2023-06-05T10:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6479e7d30717c50fb50b6f29/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Privacy In The Age Of AI: Separating Fact From Fiction"
-    excerpt: "That said, AI obviously does not have emotions, empathy or the capacity for self-reflection, all of which are essential components of human intelligence. Plus, AI systems are still entirely reliant on human input and supervision, lacking the ability to make truly autonomous decisions."
-    publishedDateTime: 2023-06-06T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/amp/"
+  - title: "Travel This Summer With These 6 Fun Google And ChatGPT AI Companions"
+    excerpt: "Can AI plan three perfect days in Tokyo? You bet. Here's a look at the new chat features from Expedia, Kayak, SnapChat, Google Bard, ChatGPT Mobile and Roam Around."
+    publishedDateTime: 2023-06-04T01:08:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&crop=2433,1368,x0,y191,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647bd1788c78818aad0b6f67/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "The ethics of innovation in generative AI and the future of humanity"
     excerpt: "To address the moral conundrums around generative AI we must understand how it can create positive change, and where it may fall short."
@@ -136,124 +74,93 @@ related:
         width: 1200
         height: 613
         isCached: true
-  - title: "ChatGPT and the Future of Banking: How AI Is Revolutionizing Financial Services"
-    excerpt: "How AI Is Revolutionizing Financial Services By Raghuram Madiraju​ ChatGPT is a conversational artificial intelligence (AI) platform that has taken the world by storm. Part of its popularity is due to its responses being so human-like."
-    publishedDateTime: 2023-06-02T16:13:00Z
-    webUrl: "https://www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
+  - title: "Chegg Embraced AI. ChatGPT Ate Its Lunch Anyway"
+    excerpt: "The education company is a case study in generative AI’s disruptive power. Now it’s trying to prove it can beat back ChatGPT with an in-house chatbot."
+    publishedDateTime: 2023-06-05T11:00:00Z
+    webUrl: "https://www.wired.com/story/chegg-embraced-ai-chatgpt-ate-its-lunch-anyway/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 70
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2023/06/iStock-1488400461.jpg"
-        width: 750
-        height: 422
+      - url: "https://media.wired.com/photos/647a758e57ff6ec62db8a75e/191:100/w_1280,c_limit/Chegg-Getting-Crushed-By-ChatGPT-Business-1289189057.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "UAE’s Artificial Intelligence Office explores opportunities to Accelerate innovation with precision medicine"
-    excerpt: "The government's approach involves harnessing advanced digital technology and artificial intelligence to address the prevailing challenges in the healthcare sector. This strategic utilisation of cutting-edge innovations has yielded favorable outcomes ..."
-    publishedDateTime: 2023-06-05T13:24:00Z
-    webUrl: "https://www.emirates247.com/technology/uae-s-artificial-intelligence-office-explores-opportunities-to-accelerate-innovation-with-precision-medicine-2023-06-05-1.712597"
-    ampWebUrl: "https://www.emirates247.com/technology/uae-s-artificial-intelligence-office-explores-opportunities-to-accelerate-innovation-with-precision-medicine-2023-06-05-1.712597?ot=ot.AMPPageLayout"
-    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/uae-s-artificial-intelligence-office-explores-opportunities-to-accelerate-innovation-with-precision-medicine-2023-06-05-1.712597?ot=ot.AMPPageLayout"
+  - title: "Can ChatGPT AI Answer Your Asphalt Questions?"
+    excerpt: "The rise of \"A.I.\" to the level of household name means everyone has an opinion, but true expertise is harder to come by. What can these algorithms do for the likes of our industry? Can they help you answer your asphalt or business questions?"
+    publishedDateTime: 2023-06-05T13:32:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/article/22861073/can-chatgpt-ai-answer-your-asphalt-questions"
     type: article
     provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 40
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 39
     images:
-      - url: "https://www.emirates247.com/polopoly_fs/1.712598.1685971153!/image/image.jpeg"
-        width: 3828
-        height: 2089
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/05/AdobeStock_389670688.6467a8dc2b87b.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C0%2C1920%2C1077&w=1200"
+        width: 1200
+        height: 673
         isCached: true
-  - title: "AI, Adaptive Leadership, and Innovation: Gartner CFO Conference Highlights"
-    excerpt: "Seven takeaways for finance chiefs and senior finance executives from the Gartner CFO and finance executive conference."
-    publishedDateTime: 2023-06-05T15:47:00Z
-    webUrl: "https://www.cfo.com/finance-leadership/2023/06/gartner-cfo-conference-innovation-artificial-intelligence-leadership-disruptors-technology/"
+  - title: "Apple’s Vision Pro needs AI like ChatGPT as soon as possible"
+    excerpt: "Apple just unveiled the Vision Pro AR/VR headset. But the powerful hardware needs one more thing: a ChatGPT-like generative AI assistant."
+    publishedDateTime: 2023-06-06T01:22:00Z
+    webUrl: "https://bgr.com/tech/apples-vision-pro-needs-ai-like-chatgpt-as-soon-as-possible/"
     type: article
     provider:
-      name: CFO
-      domain: cfo.com
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-279.jpg?quality=82&strip=all"
+        width: 1600
+        height: 885
+        isCached: true
+  - title: "3 ChatGPT productivity hacks that’ll change the way you use AI"
+    excerpt: "ChatGPT can be used to improve productivity at work for specific tasks that might require repetition - here are a few use cases."
+    publishedDateTime: 2023-06-03T14:33:00Z
+    webUrl: "https://bgr.com/tech/3-chatgpt-productivity-hacks-thatll-change-the-way-you-use-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
     quality: 37
     images:
-      - url: "https://assets.cfo.com/images/Zz02N2NjZGJjODAzYTcxMWVlYmMyZWE2OGIzZTQ4YzQxZg==?width=1200"
-        width: 1200
-        height: 900
+      - url: "https://bgr.com/wp-content/uploads/2023/04/rsz_gettyimages-1252207238.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1668
         isCached: true
-  - title: "Africa is Embracing the Artificial Intelligence Innovation Wave, says Experts"
-    excerpt: "The rise of Artificial intelligence and its revolutionary impact on African business, society, and culture led discussions during the GITEX Africa."
-    publishedDateTime: 2023-06-03T14:09:00Z
-    webUrl: "https://pctechmag.com/2023/06/africa-is-embracing-the-artificial-intelligence-innovation-wave-says-experts/"
+  - title: "Tim Cook covers Vision Pro, ChatGPT AI, and more in new interview"
+    excerpt: "Apple's CEO Tim Cook announced the Vision Pro, the company's first \"spatial computer. Now, he was interviewed about it."
+    publishedDateTime: 2023-06-06T15:23:00Z
+    webUrl: "https://bgr.com/tech/tim-cook-covers-vision-pro-chatgpt-ai-and-more-in-new-interview/"
     type: article
     provider:
-      name: PC Tech Magazine
-      domain: pctechmag.com
-    quality: 36
+      name: BGR
+      domain: bgr.com
+    quality: 37
     images:
-      - url: "https://pctechmag.com/wp-content/uploads/2023/06/Gitex-Africa-AI-discussion.jpg"
-        width: 1600
-        height: 1024
+      - url: "https://bgr.com/wp-content/uploads/2023/06/tim-cook-apple-vision-pro-abc-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
         isCached: true
-  - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
-    excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
-    publishedDateTime: 2023-06-06T07:19:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9826768.htm"
+  - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
+    excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
+    publishedDateTime: 2023-06-06T14:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aprimo-introduces-ai-content-coach-with-chatgpt-revolutionize-/2023/06/06/9827428.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/2093629/IMKI_Custom_AI.jpg"
-        width: 400
-        height: 224
-        isCached: true
-  - title: "Qwiet AI Continues Innovation Streak, Helping Organizations Reduce Legal Risks Associated with Open-Source Library Usage"
-    excerpt: "Newest addition to Qwiet AI's preZero platform affirms position as the most comprehensive AI-powered AppSec/DevOps tool on the market Disruptive startup led by cybersecurity AI pioneer Stuart McClure offers first look at Gartner Security & Risk Management ..."
-    publishedDateTime: 2023-06-06T12:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/qwiet-ai-continues-innovation-streak-helping-organizations-reduce-legal-risks-associated-with-open-source-library-usage-1032372720"
+    quality: 13
+  - title: "‘The last frontier of disruption’: With its new AI chatbot, EY teams seek to take the pain out of payroll questions"
+    excerpt: "The chatbot, which leverages the Microsoft Cloud and ChatGPT in Azure OpenAI Service, uses a large language model (LLM) that analyzes information from pay slips, tax regulations and employer policies to provide answers to complex payroll questions — with the goal of increasing employee satisfaction and reducing costs for employers."
+    publishedDateTime: 2023-06-05T15:57:00Z
+    webUrl: "https://news.microsoft.com/source/features/digital-transformation/the-last-frontier-of-disruption-with-its-new-ai-chatbot-ey-teams-seek-to-take-the-pain-out-of-payroll-questions"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
-  - title: "Applications for conversational AI within the organisation"
-    excerpt: "OpenAI was established in 2015 and DeepMind in 2010. Both companies have been singularly focused on the potential and power of artificial intelligence (AI) and garnered significant media and consumer interest."
-    publishedDateTime: 2023-06-06T07:19:00Z
-    webUrl: "https://it-online.co.za/2023/06/06/applications-for-conversational-ai-within-the-organisation/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
-  - title: "Opinion: Artificial intelligence debate just getting started"
-    excerpt: "Fueled by rapid advances in artificial intelligence, tools enabling the exact digital replication of voices of celebrities and prominent figures are fairly commonplace online. Known as “deepfakes,” these creations can be practically indistinguishable from an actual person speaking."
-    publishedDateTime: 2023-06-05T11:06:00Z
-    webUrl: "https://www.timesunion.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 17
-  - title: "The Innovation Studio's mission: unleash and scale a generation of 'industrial AI' startups"
-    excerpt: "Exclusive: Homegrown companies are vital for Nashville to become a nationally prominent high-tech hub. These five executives are on a new mission to ignite and scale a generation of 'industrial AI' startups."
-    publishedDateTime: 2023-06-06T11:46:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2023/06/06/innovation-studio-tech-startups-ai-industrial.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 7
-  - title: "Automation Anywhere, Inc.: Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent automation services SINGAPORE, June 6, 2023 /PRNewswire/ -- Automation Anywhere ..."
-    publishedDateTime: 2023-06-06T10:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59269919-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: Microsoft
+      domain: microsoft.com
     quality: 0
 
 secured: "WVIcIo0k8g3MnYk7DrL+d1XrCb4kEaIfUXxqgXHr+X8Ydq6YFlmuY1dMDbOCcEE1HY3gQeVxDuAAEov5QsqwYjZ5o45/ZmprCVvbvWUXJjk3sUOz9XK1ocFtqo0HAw/9bEmX5ijYCmZ1ACuKeGCPHrmWvjjQtNwew565guYVPfkpdmbmGWDJn0wTz3108yoD+Q4p/fhPUHrAhqPEdiU/6eLih9Sz6QtdMLbTOIsvPXZst96Ssc/hYB99S/gD1kbG3TVI5OHNJNWko6InbM0cT1otSfF4u2x6Y7CXeY114svb1zpibfjKQxrKqfkfV5BP2apZjIRQft7cBrg/OxEm2LI1JSVzz3d7E43D4GKt+DVD/EXJBB5050xqWfnYtQEpHiHFGzHKBYLBQ9duQWJOJzI9wHeF68KDQUFc5YfHPiZ6rrLNuY+0zvzJ6VbGhu2UR2yTQ2b56Vm1PPmHe4ZwdMG04Of39dmcI8HWvmIm6z1peFB4TESJm2uXnvOfrxug0HsVQMZ7RdrDT7s4PBWpMA==;Xw7Vnbo8w7D1g55JdAhSKg=="

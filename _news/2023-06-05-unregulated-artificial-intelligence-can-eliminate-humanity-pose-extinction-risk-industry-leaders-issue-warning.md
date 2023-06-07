@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI Poses Major Societal Risks, Says Statement Signed by Industry Leaders"
-    excerpt: "AI industry leaders, scientists and notables signed the statement that says mitigating the risks of AI should be a global priority."
-    publishedDateTime: 2023-06-02T19:28:00Z
-    webUrl: "https://www.cnet.com/tech/ai-poses-major-societal-risks-says-statement-signed-by-industry-leaders/"
+  - title: "One-sentence warning on artificial intelligence"
+    excerpt: "THIS week, 80 artificial intelligence scientists and more than 200 ‘other notable figures’ signed a statement that says ‘mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as"
+    publishedDateTime: 2023-06-04T18:05:00Z
+    webUrl: "https://www.newagebd.net/article/203394/one-sentence-warning-on-artificial-intelligence"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 46
+      name: New Age
+      domain: newagebd.net
+    quality: 39
+    images:
+      - url: "https://www.newagebd.com/files/records/news/202306/203394_og.png"
+        width: 790
+        height: 452
+        isCached: true
 
 secured: "kg+PgulLnHIiOk/jwQY7P35D71UY2de0zKdeS1bbhC7snhJHnT4VuqXX37K9PbAq3zFeM9nIW4h6c27MIXKg4ZxuDBj0//l7mbYsNBGvjsXYyZ3rvgGvaG0RN+b7Uekji3Z0BbAl4IRKNel+Z8alAZ8mKA1YEDpmcSu1xJzVP1njly+RCDjH0yLDExe542LgsvjZpgaZlpQb1n46MsoE//OQPv1bm8T9NsuggDPtnTBcbmVmUdX61fj583ialqWdv3laVDsoi9QSzbUAV7FAkIZgl7HLO26sGjXOXE/lua2aSh+h7J5LG7vPQBKjJgQBxBb2h9wXSAW/3K3+yaEx0A4xSJjpmuaKt5hkQiwLY4d0M1DB6AatoWW+2wFNu9+Z/khPzLFXATC/BdQdHwKOze6ONUgIavwF41vrNvU7417UUWVaaQpfae17CzbdS4ZLbZaET5ayeg4zHT9v6UdFyQqdP3hKWiRsEVNi0BlDTtccTe1FvHslhnbPP4uJ48GSc2bC/2qWwghRHTZ5zvOxYQ==;FBh481w8IEL/H99m71tiGw=="
 ---

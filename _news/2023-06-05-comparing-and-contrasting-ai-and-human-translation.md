@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Accelerating AI & Innovation: the future of banking depends on core modernization"
-    excerpt: "In the rapidly evolving landscape of financial services, embracing AI and digital innovation at scale has become imperative for banks to stay competitive. With the power of AI and machine learning, financial institutions can leverage predictive analytics, anomaly detection and shared learning models"
-    publishedDateTime: 2023-06-02T15:39:20Z
-    webUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 114
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/Accelerating-AI-Innovation-the-future-of-banking-depends-on-core-modernization-scaled.jpg"
-        width: 2560
-        height: 1280
-        isCached: true
-  - title: "The Future Of Education - Disruption Caused By AI And ChatGPT: Artificial Intelligence Series 3 Of 5"
-    excerpt: "It is crucial for educational systems to adapt quickly and integrate AI into teaching/learning. However, educational systems are slow to adapt and full of bureaucracies."
-    publishedDateTime: 2023-06-06T01:25:00Z
-    webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 108
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647e8876a92e58b45e214425/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 742
-        isCached: true
   - title: "Fostering International Collaboration In AI In Healthcare"
     excerpt: "Combining AI and robotics and healthcare with a mission to extend healthy human life. Meet Richard Yang, partner at Sinovation Ventures"
     publishedDateTime: 2023-06-05T11:00:00Z
@@ -77,21 +47,53 @@ related:
         width: 800
         height: 1200
         isCached: true
-  - title: "The ethics of AI in education"
-    excerpt: "One of the ethical concerns of AI in education is the potential impact on mental health. Studies have shown that students who rely heavily on technology for learning, whether it is adaptive learning systems,"
-    publishedDateTime: 2023-06-03T10:59:00Z
-    webUrl: "https://www.financialexpress.com/education-2/the-ethics-of-ai-in-education/3111961/"
-    ampWebUrl: "https://www.financialexpress.com/education-2/the-ethics-of-ai-in-education/3111961/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/the-ethics-of-ai-in-education/3111961/lite/"
+  - title: "5 Strategies For Implementing AI Technology In Healthcare"
+    excerpt: "Here are five ways in which leaders healthcare leaders should seek out opportunities to implement AI solutions in their operations."
+    publishedDateTime: 2023-06-06T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/ai1-1.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647e0a794fed9a2fd7d81907/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 738
+        isCached: true
+  - title: "How AI Can Address The Crisis In Healthcare Labor Costs"
+    excerpt: "AI creates exciting possibilities in healthcare, and it’s tempting to fixate on the sexiest use cases. A much nearer-term opportunity lies in addressing labor costs."
+    publishedDateTime: 2023-06-07T09:45:00Z
+    webUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647fd04bcc09b43b71595934/0x0.jpg?format=jpg&width=1200"
+        width: 633
+        height: 322
+        isCached: true
+  - title: "Sensi.AI and Flint Capital speak on developing and deploying AI solutions in healthcare"
+    excerpt: "Romi Gubes, the CEO of Sensi.AI, spoke on a recent TechCrunch Live episode about how her company is enabling privacy-preserving, in-home remote patient monitoring."
+    publishedDateTime: 2023-06-06T22:04:00Z
+    webUrl: "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/"
+    ampWebUrl: "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 96
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1074257938.jpeg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How Computer Vision Is Driving Innovation Across Industries"
     excerpt: "The fusion of AI and computer vision is reshaping countless sectors, ranging from healthcare and manufacturing to retail and transportation."
@@ -109,119 +111,88 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Privacy In The Age Of AI: Separating Fact From Fiction"
-    excerpt: "That said, AI obviously does not have emotions, empathy or the capacity for self-reflection, all of which are essential components of human intelligence. Plus, AI systems are still entirely reliant on human input and supervision, lacking the ability to make truly autonomous decisions."
-    publishedDateTime: 2023-06-06T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&crop=2433,1368,x0,y191,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The ethics of innovation in generative AI and the future of humanity"
-    excerpt: "To address the moral conundrums around generative AI we must understand how it can create positive change, and where it may fall short."
-    publishedDateTime: 2023-06-03T15:19:00Z
-    webUrl: "https://venturebeat.com/ai/the-ethics-of-innovation-in-generative-ai-and-the-future-of-humanity/"
+  - title: "Lack of trust slowing down AI revolution in medical settings: GE Healthcare report"
+    excerpt: "A new survey from GE Healthcare reveals that clinicians lack trust in AI when it comes to using the technology in medical settings."
+    publishedDateTime: 2023-06-06T20:30:00Z
+    webUrl: "https://venturebeat.com/ai/lack-of-trust-slowing-down-ai-revolution-in-medical-settings-ge-healthcare-report/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 86
+    quality: 78
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
         width: 1200
-        height: 613
+        height: 600
         isCached: true
-  - title: "ChatGPT and the Future of Banking: How AI Is Revolutionizing Financial Services"
-    excerpt: "How AI Is Revolutionizing Financial Services By Raghuram Madiraju​ ChatGPT is a conversational artificial intelligence (AI) platform that has taken the world by storm. Part of its popularity is due to its responses being so human-like."
-    publishedDateTime: 2023-06-02T16:13:00Z
-    webUrl: "https://www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
+  - title: "Merge unveils Blueprint, an AI-powered tool to enable easier API integrations"
+    excerpt: "Merge launches Blueprint, a tool that leverages OpenAI's GPT-3.5 LLM, allowing users to paste a link to the documentation of an API."
+    publishedDateTime: 2023-06-06T12:51:00Z
+    webUrl: "https://venturebeat.com/ai/merge-unveils-blueprint-an-ai-powered-tool-to-enable-easier-api-integrations/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 70
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2023/06/iStock-1488400461.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "UAE’s Artificial Intelligence Office explores opportunities to Accelerate innovation with precision medicine"
-    excerpt: "The government's approach involves harnessing advanced digital technology and artificial intelligence to address the prevailing challenges in the healthcare sector. This strategic utilisation of cutting-edge innovations has yielded favorable outcomes ..."
-    publishedDateTime: 2023-06-05T13:24:00Z
-    webUrl: "https://www.emirates247.com/technology/uae-s-artificial-intelligence-office-explores-opportunities-to-accelerate-innovation-with-precision-medicine-2023-06-05-1.712597"
-    ampWebUrl: "https://www.emirates247.com/technology/uae-s-artificial-intelligence-office-explores-opportunities-to-accelerate-innovation-with-precision-medicine-2023-06-05-1.712597?ot=ot.AMPPageLayout"
-    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/uae-s-artificial-intelligence-office-explores-opportunities-to-accelerate-innovation-with-precision-medicine-2023-06-05-1.712597?ot=ot.AMPPageLayout"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 44
+  - title: "Hong Kong: IOST Collaborates with Fintech, Digital Transformation Professional to Establish Global Education DAO"
+    excerpt: "IOST is pleased to announce a collaboration with Professor Emil Chan, a Fintech visionary and digital transformation professional."
+    publishedDateTime: 2023-06-04T02:15:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208173-hong-kong-iost-collaborates-with-fintech-digital-transformation-professional-to-establish-global-education-dao/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208173-hong-kong-iost-collaborates-with-fintech-digital-transformation-professional-to-establish-global-education-dao/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208173-hong-kong-iost-collaborates-with-fintech-digital-transformation-professional-to-establish-global-education-dao/amp/"
     type: article
     provider:
-      name: Emirates247
-      domain: emirates247.com
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 40
     images:
-      - url: "https://www.emirates247.com/polopoly_fs/1.712598.1685971153!/image/image.jpeg"
-        width: 3828
-        height: 2089
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-05-at-11.05.44-AM.png"
+        width: 679
+        height: 432
         isCached: true
-  - title: "AI, Adaptive Leadership, and Innovation: Gartner CFO Conference Highlights"
-    excerpt: "Seven takeaways for finance chiefs and senior finance executives from the Gartner CFO and finance executive conference."
-    publishedDateTime: 2023-06-05T15:47:00Z
-    webUrl: "https://www.cfo.com/finance-leadership/2023/06/gartner-cfo-conference-innovation-artificial-intelligence-leadership-disruptors-technology/"
+  - title: "Leveraging data for healthcare innovation in Africa"
+    excerpt: "Despite recent progress, Africa carries a disproportionate share of the global burden of disease, with rising rates of non-communicable diseases (NCDs)"
+    publishedDateTime: 2023-06-05T23:37:00Z
+    webUrl: "https://businessday.ng/columnist/article/leveraging-data-for-healthcare-innovation-in-africa/"
     type: article
     provider:
-      name: CFO
-      domain: cfo.com
-    quality: 37
+      name: businessday
+      domain: businessday.ng
+    quality: 39
     images:
-      - url: "https://assets.cfo.com/images/Zz02N2NjZGJjODAzYTcxMWVlYmMyZWE2OGIzZTQ4YzQxZg==?width=1200"
-        width: 1200
-        height: 900
+      - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2022/07/healthcare-1.png"
+        width: 700
+        height: 400
         isCached: true
-  - title: "Africa is Embracing the Artificial Intelligence Innovation Wave, says Experts"
-    excerpt: "The rise of Artificial intelligence and its revolutionary impact on African business, society, and culture led discussions during the GITEX Africa."
-    publishedDateTime: 2023-06-03T14:09:00Z
-    webUrl: "https://pctechmag.com/2023/06/africa-is-embracing-the-artificial-intelligence-innovation-wave-says-experts/"
+  - title: "The hardest part of working with generative AI in healthcare"
+    excerpt: "UC San Diego Health is piloting generative artificial intelligence, built by Epic and Microsoft, to help physicians respond to patients' questions. Challenges i"
+    publishedDateTime: 2023-06-02T18:28:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/the-hardest-part-of-working-with-generative-ai-in-healthcare.html"
     type: article
     provider:
-      name: PC Tech Magazine
-      domain: pctechmag.com
-    quality: 36
-    images:
-      - url: "https://pctechmag.com/wp-content/uploads/2023/06/Gitex-Africa-AI-discussion.jpg"
-        width: 1600
-        height: 1024
-        isCached: true
-  - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
-    excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
-    publishedDateTime: 2023-06-06T07:19:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9826768.htm"
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
+  - title: "Singapore to encourage development of international AI standards by open sourcing AI Verify"
+    excerpt: "With the AI Verify toolkit, companies can generate testing reports that cover different governance principles for an AI system."
+    publishedDateTime: 2023-06-07T02:11:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/singapore-encourage-development-international-ai-standards-open-sourcing-ai-verify"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/singapore-encourage-development-international-ai-standards-open-sourcing-ai-verify"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/singapore-encourage-development-international-ai-standards-open-sourcing-ai-verify"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 29
+  - title: "Google Cloud Collaborates with Mayo Clinic to Transform Healthcare with Generative AI"
+    excerpt: "Google Cloud today announced a collaboration with Mayo Clinic to transform healthcare with generative AI, starting with Enterprise Search in Generative AI App Builder (Gen App Builder ), to improve the efficiency of clinical workflows,"
+    publishedDateTime: 2023-06-07T09:12:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9827972.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/2093629/IMKI_Custom_AI.jpg"
-        width: 400
-        height: 224
-        isCached: true
-  - title: "Qwiet AI Continues Innovation Streak, Helping Organizations Reduce Legal Risks Associated with Open-Source Library Usage"
-    excerpt: "Newest addition to Qwiet AI's preZero platform affirms position as the most comprehensive AI-powered AppSec/DevOps tool on the market Disruptive startup led by cybersecurity AI pioneer Stuart McClure offers first look at Gartner Security & Risk Management ..."
-    publishedDateTime: 2023-06-06T12:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/qwiet-ai-continues-innovation-streak-helping-organizations-reduce-legal-risks-associated-with-open-source-library-usage-1032372720"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
+    quality: 27
   - title: "Applications for conversational AI within the organisation"
     excerpt: "OpenAI was established in 2015 and DeepMind in 2010. Both companies have been singularly focused on the potential and power of artificial intelligence (AI) and garnered significant media and consumer interest."
     publishedDateTime: 2023-06-06T07:19:00Z
@@ -231,33 +202,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
-  - title: "Opinion: Artificial intelligence debate just getting started"
-    excerpt: "Fueled by rapid advances in artificial intelligence, tools enabling the exact digital replication of voices of celebrities and prominent figures are fairly commonplace online. Known as “deepfakes,” these creations can be practically indistinguishable from an actual person speaking."
-    publishedDateTime: 2023-06-05T11:06:00Z
-    webUrl: "https://www.timesunion.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 17
-  - title: "The Innovation Studio's mission: unleash and scale a generation of 'industrial AI' startups"
-    excerpt: "Exclusive: Homegrown companies are vital for Nashville to become a nationally prominent high-tech hub. These five executives are on a new mission to ignite and scale a generation of 'industrial AI' startups."
-    publishedDateTime: 2023-06-06T11:46:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2023/06/06/innovation-studio-tech-startups-ai-industrial.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 7
-  - title: "Automation Anywhere, Inc.: Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent automation services SINGAPORE, June 6, 2023 /PRNewswire/ -- Automation Anywhere ..."
-    publishedDateTime: 2023-06-06T10:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59269919-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "EsKXX9oeGbT7szlB9qKNi0AQn8TeE5c/32vlaio+DWsju2psyw/DDuciv18WSr/VU2y6FB9+dMldACIr7a3Pa0YPlvFiI+t/HftlmYoj5hHqTc6Mu3QK6gOjk8TARMPaM2kYJ4RjIzvY7MZUNiPn0fj32JIv3AvagPc1QOC4wAFIDdglGHMFU8gJ5FEp0lP6hV1XjTK/eu14ouYywIApZFF+3Y7UZe7anprLUA+nOF9tR2gtTtbo/Ec87Lq0JAWCFT6aCNquTEdPts/4e1rYpVQgq2zR8YxLz7WrsFKM4QSYcFucHGCzVOdW+mFBApk8CefibMSruzL2D3go6T6VMjc+GkSFckBf6UEM3kHpk5Q=;MJwTOpgmJwVdFjY6zEHLDQ=="
 ---

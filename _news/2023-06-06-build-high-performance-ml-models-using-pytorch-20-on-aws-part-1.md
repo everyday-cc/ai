@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-build-high-pe
 webUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-build-high-performance-ml-models-using-pytorch-2-0-on-aws/"
 type: article
 quality: 103
-heat: 114
+heat: 113
 published: true
 
 provider:

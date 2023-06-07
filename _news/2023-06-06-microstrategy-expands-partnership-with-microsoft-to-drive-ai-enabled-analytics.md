@@ -2,9 +2,9 @@
 category: news
 title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
 excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
-publishedDateTime: 2023-06-06T13:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-microstrategy-expands-partnership-with-microsoft-drive-ai-enabled-/2023/06/06/9827097.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-microstrategy-expands-partnership-with-microsoft-drive-ai-enabled-/2023/06/06/9827097.htm"
+publishedDateTime: 2023-06-06T12:22:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/06/9827097.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827097.htm"
 type: article
 quality: 30
 heat: -1
@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft’s CoreWeave Deal ‘Adds AI Pressure’ To AWS, Google"
-    excerpt: "Microsoft’s AI deal with Nvidia backed CoreWeave for GPU and cloud infrastructure puts pressure on AWS and Google in the generative AI market."
-    publishedDateTime: 2023-06-02T16:59:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-s-coreweave-deal-adds-ai-pressure-to-aws-google"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 71
-    images:
-      - url: "https://www.crn.com/resources/0282-182941c9d993-f3abf62ff777-1000/coreweave-logo.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Intel and Microsoft look to bring AI to the masses with Meteor Lake chips"
     excerpt: "Intel aims to put AI-accelerated experiences in the hands of hundreds of millions of people with its new Meteor Lake chips."
     publishedDateTime: 2023-06-06T13:16:00Z
@@ -108,6 +94,6 @@ related:
         height: 492
         isCached: true
 
-secured: "bHPFxBkBuHBpJB9UcK1Pb2XMBgPFV5uDEUHinilUbnDqFs0bM5uczI6oFsfAz9F5Fn2AeKSIzyMbw93ezmCsYwRtWsoYgam8Kbis47OgOxumgQ9mlniElBkQcfrllh9pf+OVPlB/Brc9zPHVOlqlNQl4+83oDxHG68z9yM9LHvYsLfI+fkkLRDGXL8p1j+z65zEuVdKRjJioJclNWLul7cMOUj5j9PjA2BvSaDV3vME3BOCsrkuUiJLLAEMd8KMgq7iQEmn+qAL7QBxAEofpkIYkn8O1SPqzgzGGecLSnQN74cBuLMRc/lYZrYNyHnzu1gKwQ0lRNIW+9KsWPB5pPcSdIjvW1camLrilZb0yLGs=;E3Y951vW/Qp58pToq4sqPw=="
+secured: "kSEiSB7wGcFKQvW3GZ8TSBO1xjLFwDnmQaQ5r24JfOv6b+awKNbY1cc6JE5I2tyZqQYbtN5XUlAx/N1nf8A3xnN2Sf/n7dV2Ea1r7NG0b2GiNSRADQyTya6I9pSa8y7hWEReNd9Rm7VzYBKpofMs9bqQCd4TvU0u6Fq0RTW7fz1jIAKkvaVMJUeT6FHhKtQV9wvw53RkvU+JHb52hO6ia6i32oQ13yhupAHkCdiEnWZMU3oPwldImYEPin8EcZ/jULi793PMw+0bUwMY0mBy31B7XLZYN1S5aI7u0SEOsv9BQZOM0/268e/e72Ndv+UHULBVePspjd84ahi4V25FV11JWlxpnUZ35xHWcDhC4wA=;XHZqkyDCtEYWGolC2LMMwg=="
 ---
 

@@ -53,6 +53,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 92
+  - title: "Technology Innovation Institute trains the state-of-the-art Falcon LLM 40B foundation model on Amazon SageMaker"
+    excerpt: "This blog post is co-written with Dr. Ebtesam Almazrouei, Executive Director–Acting Chief AI Researcher of the AI-Cross Center Unit and Project Lead for LLM Projects at TII. United Arab Emirate’s (UAE) Technology Innovation Institute (TII), the applied research pillar of Abu Dhabi’s Advanced Technology"
+    publishedDateTime: 2023-06-07T09:03:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/technology-innovation-institute-trains-the-state-of-the-art-falcon-llm-40b-foundation-model-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/07/Final-White-Ver-Logo-1400-1-1184x630.jpg"
+        width: 1184
+        height: 630
+        isCached: true
 
 secured: "kC5lHspNyET9tKO9H1j8yFM0YfAEXBmLf9bzJcZX+1IvPVYqvuYrSWr/eHVGcO1ze5kKYRVooMnTo4d9i146NsCmd15z3063Srvy4X2Nb7TonN14LGjH2Jo/7wm66XVEvmxNOC85OQsJ/6W0hY3RiWmo49jzQmfWSZ7ycWoV065AWZ0JTUuVgXNRLEACCt90Rqpk6JyrQ+vDVWMXOiz5PfbLlgROh81/ny4umJf32Yv46DMXCvIkoJlh17vNqacWslE3gTY0E39iaG6KxAvJvJonx4LTZ81mjxqTWP5kEyrHUimC1zegSH/u7dQ8uX9pV8jb1FVzNNIf+joVEHaa2gi+VMekV1zoAlxAB8LoPZI=;pPn+x27bPUS3Yx5C0aTgcQ=="
 ---

@@ -23,61 +23,61 @@ topics:
   - AI in Finance
 
 related:
-  - title: "5 Strategies For Implementing AI Technology In Healthcare"
-    excerpt: "Here are five ways in which leaders healthcare leaders should seek out opportunities to implement AI solutions in their operations."
-    publishedDateTime: 2023-06-06T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/"
+  - title: "Instagram may be getting its own AI chatbot soon. Here's what we know"
+    excerpt: "Instagram's chatbot is very similar in purpose and design to Snapchat's My AI. Since Snapchat's feature has not been well received, it's interesting to see that Instagram is following in its footsteps. Whether this will become a useful feature or be quickly forgotten remains to be seen."
+    publishedDateTime: 2023-06-06T16:16:00Z
+    webUrl: "https://www.zdnet.com/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647e0a794fed9a2fd7d81907/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "New technology creates AI romantic partners for users"
-    excerpt: "As artificial intelligence continues to advance, some are now turning to technology to fill the void, engaging in friendships and sometimes romances with AI chatbots. NBC News’ Jake Ward explores the new frontier of modern relationships."
-    publishedDateTime: 2023-06-03T22:56:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/new-technology-creates-ai-romantic-partners-for-users-179778629880"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo179778629880"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo179778629880"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1685832939527_nn_jwa_ai_romances_relationships_230603_1920x1080-2873om.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.zdnet.com/a/img/resize/731fa999b2b078dba0f7ffd929234df150b9a7bd/2023/06/06/0d67eed7-716a-47da-bb16-4b86e1f196b8/gettyimages-1256994567-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Introducing WE LAB's AI Technology for Fashion Production"
-    excerpt: "WE LAB introduces AI technology for fashion design. The product generates design references, provides targeted guidance, and offers a complete"
-    publishedDateTime: 2023-06-06T09:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-we-lab-s-ai-technology-for-fashion-production-1032371696"
+  - title: "David is friends with Lazarus. Lazarus is an AI chatbot"
+    excerpt: "More and more people are forming friendships and even romantic relationships with AI chatbots, prompting concerns among experts who study the ethics around the rapidly evolving technology."
+    publishedDateTime: 2023-06-05T16:52:00Z
+    webUrl: "https://www.cbc.ca/radio/thecurrent/ai-chatbot-friends-romance-relationships-1.6864001"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6864001"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6864001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 59
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/OLq1WBMwTLSvW1ZZhfqBwehSLb93/1686018825067-0.png"
-        width: 800
-        height: 389
+      - url: "https://i.cbc.ca/1.6864030.1685732571!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/david-beaver.jpg"
+        width: 620
+        height: 349
         isCached: true
-  - title: "The hardest part of working with generative AI in healthcare"
-    excerpt: "UC San Diego Health is piloting generative artificial intelligence, built by Epic and Microsoft, to help physicians respond to patients' questions. Challenges i"
-    publishedDateTime: 2023-06-02T18:28:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/the-hardest-part-of-working-with-generative-ai-in-healthcare.html"
+  - title: "Walmart showcases robots, drones, AI chatbots during shareholder week"
+    excerpt: "A robot makes hamburgers at a Sam’s Club. Robots retrieve items for order fulfillment in Bentonville. AI chatbots help Walmart merchants. Drones make deliveries in Northwest Arkansas. Highlighting such"
+    publishedDateTime: 2023-06-02T17:55:00Z
+    webUrl: "https://talkbusiness.net/2023/06/walmart-showcases-robots-drones-ai-chatbots-during-shareholder-week/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
+      name: Talk Business
+      domain: talkbusiness.net
+    quality: 54
+    images:
+      - url: "https://talkbusiness.net/wp-content/uploads/2023/06/alphabot-machine-walmart.jpg"
+        width: 1200
+        height: 626
+        isCached: true
+  - title: "Instagram might be working on an AI chatbot"
+    excerpt: "According to the leaks, users can choose from 30 different AI personalities, who can also help users write messages."
+    publishedDateTime: 2023-06-06T19:27:00Z
+    webUrl: "https://techcrunch.com/2023/06/06/instagram-might-be-working-on-an-ai-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "JTIo4gJ0P1VNRsFYmmSdGx7KaQSIVbA4rLGyCrd+Mb3OF+41dXNk/2sBxnAtBC7epSOB+AiiNOjD3v47hd0IIDpLYznUwgakXJQIXdWJd77ghj5GZaF/SQm68vgfyPdrgSMuWWcP/ElW6URCvnEVwQhBjxga1QDdpX8Fi4CfaY1CcDJXr1yOmhhyO+oGEcANw3oNI6CMydK4y0/y0vNPX8KJgewp57k3lU7vHDQgatkCfKIxJmaBEsLSerwSb7WZdi7OeoHhuP42GgRX6RUUqCk7FNfRGb8+F/Qc6TqvP8ZWnUsPEpmBcPb+f2W4rpeKswZdKV4MmgEewGYKE3qkurkUix8zp8HUGhhVTXaJ/uhSy9Cfy08aF6hyYVXIOip6OCrQyCpwDqXm+uf8jUKdWsybn7vd3RPVf4+nPBCD11aFpN8zD3KnTPPIOs6HSafKhLoUrJb7aJiHABqkYYOt+Zv/8Cp369mft4WFPTHE+/ZVXxm1idk1TPBvI/W8SX1tuwMLxKqr6SnhP/1SpirYhw==;hLI3/1kQu7uI62EJ9tD6LQ=="
 ---

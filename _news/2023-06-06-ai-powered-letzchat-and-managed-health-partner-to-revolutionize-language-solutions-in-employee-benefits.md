@@ -18,17 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "‘The last frontier of disruption’: With its new AI chatbot, EY teams seek to take the pain out of payroll questions"
-    excerpt: "The chatbot, which leverages the Microsoft Cloud and ChatGPT in Azure OpenAI Service, uses a large language model (LLM) that analyzes information from pay slips, tax regulations and employer policies to provide answers to complex payroll questions — with the goal of increasing employee satisfaction and reducing costs for employers."
-    publishedDateTime: 2023-06-05T15:57:00Z
-    webUrl: "https://news.microsoft.com/source/features/digital-transformation/the-last-frontier-of-disruption-with-its-new-ai-chatbot-ey-teams-seek-to-take-the-pain-out-of-payroll-questions"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 0
-
 secured: "O3tcluILxfZfD7fExumomB6IUG1igylpAknuu1oP00opx6YZZKW4796xc8VAaZhOm+YOdvlzBI9WLZ8B06m0CRy++7hUNphkdHrBSxTPh1Fs5oy5oDFu2LhVyrU5CfWyaV4L0f3GDeCsAeb4sVXsvwRtVrGGKtrLrUBLvWiuREJZG2I4DJIYvehd0wAPu77DPCxj1hgQHKGt3esZQdSSbQLVEAMgpYkla+8QoO2dEOEUJVkarbjNroZGMBx7KXsnRWz8JoWLtkBFvtd25SyvwLBvLB+R6n0VzI7896uLX62xP64kSISEyfcCTIC06QKVTsyD23MXiRagBmCPHrrBI+f6TKKqPChbK04vy7XHvYc=;ThyREh6nbtZ1COAK18hYkQ=="
 ---
 

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Air Force denies running simulation where AI drone “killed” its operator"
-    excerpt: "Over the past 24 hours, several news outlets reported a now-retracted story claiming that the US Air Force had run a simulation in which an AI-controlled drone \"went rogue\" and \"killed the operator because that person was keeping it from accomplishing its objective."
-    publishedDateTime: 2023-06-02T16:21:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 86
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/ucav_drone_hero_1-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Did an AI drone go rogue and kill its human operator in a simulation? - report"
     excerpt: "\"You can't have a conversation about artificial intelligence, intelligence, machine learning, autonomy if you're not going to talk about ethics and AI,\" the person added. \"The Department of the Air Force has not conducted any such AI-drone simulations and ..."
     publishedDateTime: 2023-06-07T00:54:00Z
@@ -60,15 +44,6 @@ related:
       name: Inside Bitcoins
       domain: insidebitcoins.com
     quality: 17
-  - title: "Air Force official ‘misspoke’ in tale of AI drone killing human operator in US test mission"
-    excerpt: "An Air Force official says he “misspoke” when describing how an artificially intelligent drone programmed to destroy air defence systems rebelled and “killed” its human operator after it decided they were in the way of its mission air defence systems."
-    publishedDateTime: 2023-06-02T18:43:00Z
-    webUrl: "https://www.aol.com/ai-operated-drone-kills-human-090205649.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 9
 
 secured: "3T2D5T6YtuzszMfHXUzvsYMHcfqzEOw/nf8YRaEX7kNnIbg/6xpGiFXtxkcH5zlP3245FhMvSKpc4uWTwOjOUlMCeA62aOpLiEXuT3TRS5j4JURHZLwZAu0Rtl60eR7hK+wNnUA1XIDG51gJTY8CfLCGw0trxCd6nTQA57xb+K+DR58lyIZ2j84xaxJRI42/2NkQp7kH2LUJ6s5+UKV8OMpz3FvrWJXliTFUXp8w+qD/LXl+yXxnUyOiMlIzlgE8Z7rorlX0LN4CHd8gOeAt+eY2P/q4wAQR43jtOEAMg8WyzMuqpd5jhtOGiJSzQCbzAOvvaS95tXVKY+AMkHPUb3nDjPk91ynRoLkXNfBxLSTp2yak2GlTOmcplcgnPfzBM9gE8AgpX1b2HoaQOfVj6DfW4OOPSdGqTC2MUIkymkSI6TJ5uz1ad2AubW4+TjtK6eywgCucB0mJgR9o3uQoMy72mLGB7WPx7A6AaZJuatvXy205GxmQvEmNNzllUCcEA6eqosNd2qpSWQSXjPHz5w==;2quXQOAwMl9lwod5IdVowA=="
 ---

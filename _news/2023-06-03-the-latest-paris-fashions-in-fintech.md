@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Why banks are chasing fintech partnerships"
-    excerpt: "Traditional banks are keen to partner with fintechs for their knowledge. But what do the digital players get out of the deal?"
-    publishedDateTime: 2023-06-02T15:17:00Z
-    webUrl: "https://www.raconteur.net/growth-strategies/why-banks-are-chasing-fintech-partnerships/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2023/05/fintech_online_banking_app.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "wvOizggGHxMIL4W/u1Ami4Z/QPblooi8qInnNZewpFDv8p04JsZ84OWD+MvrY1flvofh6v84Rq08gLGHWj8NdwIDGHt0DnrsPpBJ+W7BUj6MTtHC5OHqQpX9VWrpmT+n+ikJztrud9MYj+tnuxTnSYat3eAkxmTBLjP/jMHTPLaxka6Zvkra3wu3S1Vq4K9CiuOCA0y99xtU7PxSc21EftaI/O0Ax4Cll29NFycNhiZeYdaGLpnJeg2uQ12iY/9zh6aSiDNByub1NdnfrPK34tBJRwuefhF1s8Lsux1DsHR99VC12+Pky9qoqVAEBHBIZTehRUcAaaO8Y+R5ht6mp0Dsl7mLkIxziX2b5YvP+w4osCtrWTrgSlnejKJy1s8HARo6tHLr+towxG0oxggIkcqzt/R8r1Dk2Y49A2IXxt1wYCqbHB7Ph1/IgsQYqm4cMWa1ZBBKmRikeONxy84xrN7oMypsjwzBmdcU+XWlb+gtsozkEkO4MPwwk5nx6vWY6fb/0QX1Bw35N5wTiwBRhQ==;E6CC0HOQcnLn1GuOhKMfuQ=="
 ---
