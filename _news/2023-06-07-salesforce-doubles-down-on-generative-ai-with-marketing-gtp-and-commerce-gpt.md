@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/salesforce-doubles-down-on-generative-a
 webUrl: "https://venturebeat.com/ai/salesforce-doubles-down-on-generative-ai-with-marketing-gtp-and-commerce-gpt/"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce.jpg?w=1200&strip=all"
         width: 1200
         height: 616
+        isCached: true
+  - title: "Salesforce Connections - \"No offense to crypto fans, but this is real.\" Salesforce customers react to generative AI news"
+    excerpt: "Salesforce Connections 2023 kicked off with the expected generative AI fanfare - including the launch of Commerce GPT and Marketing GPT. But where do customers stand? I hit the show floor and found out."
+    publishedDateTime: 2023-06-08T10:33:00Z
+    webUrl: "https://diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news"
+    ampWebUrl: "https://diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 34
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-06/salesforce%20-%20retail%20ai.jpg"
+        width: 1260
+        height: 818
         isCached: true
   - title: "Salesforce Connections - if AI is the new UI, what does that mean for marketing and commerce?"
     excerpt: "Every company has to become an AI company. Salesforce is absolutely an AI company! That emphatic declaration from Stephen Hammond, GM of Marketing Cloud at Salesforce, shouldn’t really come as any surprise - and we’ll doubtless be hearing that again from CEO Marc Benioff himself next week at a dedicated AI Day event in New York."

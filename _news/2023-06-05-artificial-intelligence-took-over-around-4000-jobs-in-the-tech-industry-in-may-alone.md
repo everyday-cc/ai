@@ -7,7 +7,7 @@ originalUrl: "https://in.mashable.com/tech/53962/artificial-intelligence-took-ov
 webUrl: "https://in.mashable.com/tech/53962/artificial-intelligence-took-over-around-4000-jobs-in-the-tech-industry-in-may-alone"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI cost nearly 4,000 people in the U.S. their jobs, report says"
-    excerpt: "U.S. companies said over 80,000 jobs would be eliminated, the report found. Those cuts brought the total number of job cuts announced by U.S. employers since the start of"
-    publishedDateTime: 2023-06-03T17:43:00Z
-    webUrl: "https://www.fox7austin.com/news/ai-cost-nearly-4000-people-in-the-u-s-their-jobs-report-says"
-    type: article
-    provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 19
 
 secured: "Z8W5j72vZTwLCb/ApfkxHh5Q3vVVOEGMv34M55hb/JZqU/+9zEHnegQCtswXk52Huumh3HUmXXcJl8jtNJoXCumdrNlDqSFm42WfBf60Cz/+dBl+IFUvBMb5SxV9oUSHBWfG5r7pP9K7NXHBnXnaSCwR+264oFXnuvNjcynF7D9ZiEA5ZCke0p7/TrleM1wyNOBrNJFnbfOMiv7Fk/40jmx0tToo2lalKQpSE1Gv8Tro3hBI1zJTx5o5VUbh+A8Qa+NKG93hFavDFWNsXLFqFvw1PnZPGoJos6jNU1Ma+ePnsERBND8jgSWfn0gBm0vJxjQ57O5SdIXFQejZrrUr0Lbio1I4H/caX/44TpXGUuI=;pDkqTVLtDKPnL/8qxmeT3A=="
 ---

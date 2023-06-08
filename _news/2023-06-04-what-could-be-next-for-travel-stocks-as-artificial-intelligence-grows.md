@@ -36,6 +36,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "3 AI Stocks That Could Skyrocket in the Next 12 Months"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) stocks continue to cause volatility in the tech"
+    publishedDateTime: 2023-06-08T11:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-could-skyrocket-in-the-next-12-months-1032378081"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "uuWN4yH7Z6h5tFkWkdgjgDXs7q5+/sDEO0NrrTB4G3vMdZyCUS5xrj+022zNT+k5llQ65axAv5UchXSP7MNVEF68hU4atz8H/WnKkjQzRsLlDadRrAqlLV2AJmobKhm895AFcLaalorJ++W/qAWunduyDCec/5PVSgDRAOA+eWny3BuJgmE7BzaClkG4Rjd/bAcqetfRr6aw5gmauUYWjpTarg85Xn/n7jGjDTJiydIPxltTTHlniNIiPsdyVy4Sp7dGPt3nlfch/eOFPgjWpZVoX1IePinkke08LNqFhU4lW1pnFKx1BdBmtsBcE5PdbV5D5sEPCWRZxoYSCnObtOYbvo/MvMJ+rRh3R6pgWryxEz9j/ivCtqJxCyKxcES6s22I5nsRAdLIJPvg7Bj9Qa6vfBJiMsIutpoIIiUS89h+BG7IXlMpYvSj2B7nVeOYHis6eFECn80lLDHZE6SOTBxaZ+BX13XYeE3WPTzVTJLz5P/RY57JhESMVvPJZ3Bz/j5Nv93SZMPjAI93pMZCmQ==;Rk34L54QaTHJ1L40fytliw=="
 ---

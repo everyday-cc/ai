@@ -25,6 +25,22 @@ images:
     height: 650
     isCached: true
 
+related:
+  - title: "Construction AI & Sensors: Unlocking Productivity & Sustainability"
+    excerpt: "Continued research and development in this area are essential to drive further progress and unlock the full potential of AI and sensor technologies in the construction industry. By embracing these innovations, builders can pave the way for a more ..."
+    publishedDateTime: 2023-06-08T11:00:00Z
+    webUrl: "https://www.forconstructionpros.com/concrete/equipment-products/technology-services/article/22862287/avoid-concrete-overdesign-with-construction-ai-and-concrete-sensors"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 39
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/05/AdobeStock_580721911.646e23ceef8d4.png?auto=format%2Ccompress&fit=max&q=70&rect=162%2C12%2C1530%2C861&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "VGTZtMtGaVPTVptMCggDoy5hoPOO0Fq1D09sfEPnFl/0x5hB3Xn/auSw4F6kDEYZenfypTGKLFBGjWRpQrm622hQCYpXvMqvn72RCS6OZgdaz72cez70BUC2kmGZ+sgR5IMuGAJnJ5ATWIk2BD572cmjLiLpHKoOSXJbRi+KM8El6oh3YwRP0yFxr4/1m/jXEqyQu6O+t63t+/fWJnqinlY9f/uR4W8QOhEFDsxOAnYF3KPXu0s8G+KC4y0mlwVcp40lTrIqYh1OzH41LztOo1TdzcVmLKPQvQy6gorrxcqbfEuX6g9Sa4Xep35whhaw+qUU4mj7kfBHWVvdzw2cA+iSkDt6gchw3s55y0GeyS3fuCA6ztWbNv4UebFQq3jMDIEdG6clHi1cz6fZ55msePqoC9QVp5Qnpf6noBYvq24EFwfYUIYvn+UwuCuMv2lruJYT0OEVJVQiPDSRw8P4l+fS6xAUO9oxH7cVnaRhqnyzDAaP+fbxaMZhxznyhij+VXAo/gS4luKFNr8xwtn/AQ==;zi7KXNk5trXskClcY4iTng=="
 ---
 

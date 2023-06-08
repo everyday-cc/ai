@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/this-ai-powered-platform-could-predict
 webUrl: "https://thenextweb.com/news/this-ai-powered-platform-could-predict-the-next-big-flood"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 AI Stocks That Could Skyrocket in the Next 12 Months"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) stocks continue to cause volatility in the tech"
+    publishedDateTime: 2023-06-08T11:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-could-skyrocket-in-the-next-12-months-1032378081"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "What could be next for travel stocks as artificial intelligence grows"
     excerpt: "The boom in artificial intelligence technology is leaving few industries untouched. Don't be surprised if future tools also alter how you book your vacations."
     publishedDateTime: 2023-06-04T11:06:00Z

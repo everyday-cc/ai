@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-bu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/amp/"
 type: article
 quality: 97
-heat: 187
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches GPT-enabled Azure AI for US government agencies"
+    excerpt: "Microsoft has announced the availability of a new Azure OpenAI service, designed specifically to meet stringent requirements of US government agencies. These generative AI capabilities offered by the new service can help US government agencies improve ..."
+    publishedDateTime: 2023-06-08T09:32:00Z
+    webUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.html"
+    ampWebUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 119
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/05/shutterstock_716332027-100940548-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Microsoft Fabric aims to beat Amazon and Google in the cloud war"
     excerpt: "Analysts and experts praised Microsoft Fabric as a significant advancement that could help Microsoft leapfrog Amazon and other cloud providers"
     publishedDateTime: 2023-06-06T21:23:00Z
@@ -44,20 +60,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-05-at-6.22.08-PM.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer"
-    excerpt: "I typed “Chrome” into the Microsoft Edge search bar. I was greeted with a full-screen Microsoft Bing AI chatbot window, which promptly told me it was searching for... Bing features. I get it to work on a different computer."
-    publishedDateTime: 2023-06-07T01:33:00Z
-    webUrl: "https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 81
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Intel and Microsoft look to bring AI to the masses with Meteor Lake chips"
     excerpt: "Intel aims to put AI-accelerated experiences in the hands of hundreds of millions of people with its new Meteor Lake chips."
@@ -146,6 +148,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 30
+  - title: "Microsoft Agrees To A $20 Million Settlement For Improper Data Collection From Children"
+    excerpt: "FTC has imposed a $20 million fine on Microsoft for collecting and sharing sensitive children data in the US without parental consent."
+    publishedDateTime: 2023-06-06T12:49:00Z
+    webUrl: "https://techreport.com/news/microsoft-agrees-to-a-20-million-settlement-for-improper-data-collection-from-children/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 11
 
 secured: "i35Bw2lx1QItuK7F/hiHX8Tl7e9OK5bkMyACj9E09UGb4piDETYFCuqcHoiagCbskb4OU3NSUTxp5p9RnTRg1X2W1N3YuOJk68yFccDGj9fn7kL5QYDo03I8cQUEbSycCea5Fds2pa0Noh2Swq8KaS+ALj94EArLZSzYyt/5GhKIWc4vwwZRAI678CaGJEgrITFRw8gMMynmp0ZBwgTOhV0xAlKDdMSlIWOX59TX2klRawfCtMpmbZwgX87wGIdBljgjxXq0UiH1ueECN40lViX18ctOe/aIi8xGG6ncJQyDUDud9IK8sYffnrMWip983eGxXAx9pyLlo3zgdea88qwJCoJZc25ABONmI2AjJa9jmzKs2icYdc4NJ3mVEaczgIq7RkXj/E/5vYJHKr5YVY8NY0CKSN7NmFTds9WFpcMnm8WG2bwc/ZAuGDPFflgW7p4MHVdQrOCLHN8YRRSsIGhwwZ1jbWNg5PSlTtzm+tORIaC3hZ7Sw+phOXI/HSVDgM0s2XPClbArzqwtbt/vvg==;a2Vir8ySvkkhiTmW03r1ew=="
 ---

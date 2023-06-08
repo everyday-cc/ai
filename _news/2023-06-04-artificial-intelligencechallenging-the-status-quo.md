@@ -23,6 +23,17 @@ images:
     height: 399
     isCached: true
 
+related:
+  - title: "Regulating Artificial Intelligence: The Need, Challenges, and Possible Solutions"
+    excerpt: "ethics, computer science, economics, and social sciences. However, there is currently a shortage of experts who can navigate the interdisciplinary nature of regulating AI effectively."
+    publishedDateTime: 2023-06-08T10:01:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/regulating-artificial-intelligence-the-need-challenges-and-possible-solutions/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 14
+
 secured: "DSQFzIKtcCxZOM9Ak3T8O4mt1vcShjATaqtuPzA//L6QbKSJhzgKHD5IPsR5D4OC4JYX7j8ciBLW5vxutegJGB5eXyy7tDCZBlX58iTsSQIe/k8/i4M1Jj0A2zJyeINAemo7RNF9ePIQD4KmQvDU7Y/RLM9wL87v2eGlULAD95M+yPnqsjQYDKg1jD4D8+1ykcIjlL6qComvCXgT9B2ZQ0eO+f3KUD06QBbXUQX6/9wg4mzDAODuZYL6ZVi819Yjj1pAa0iO6a3rw7lO5r7L/En2iNaaGGD707EIryRGS5uTXN8L9Ey1UhfQxXioz7kEvS07TOEe/7EnpTUr9KLju/pX2bpyHIhrKtXqfhRspgI=;F7x2vqU8NcrNqytriFd8Iw=="
 ---
 

@@ -83,6 +83,17 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "WordPress’s new Jetpack AI tool can write blog posts"
+    excerpt: "WordPress has announced the release of Jetpack, an AI assistant that the company describes as a, “creative writing partner” It can, “generate diverse content at your command, significantly reducing the time and effort required for content creation”. Also Read | UK to lead way on AI safety with first global summit, says PM Rishi Sunak"
+    publishedDateTime: 2023-06-08T11:35:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/wordpresss-new-jetpack-ai-tool-can-write-blog-posts-10765751.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/wordpresss-new-jetpack-ai-tool-can-write-blog-posts-10765751.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/wordpresss-new-jetpack-ai-tool-can-write-blog-posts-10765751.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 39
 
 secured: "SRuKCDrehPDuemoJL6cWRtot7XzNRHavHe9Ud4cysyCC4rox08GdNfPldb87EBlKgqfH/kB5E9V9Vmyvdj2Ua+ZLYSgfC3fFEPJK0zBKi9nwJjhOl7ggUc5gzDBksKQ1OG34iMlnegrVHusK3YuorKoWkWG1kChqYeoicACY2fzxQ0Jv+BXTWyl0h022UNMUEBnUo76AeUnPdP8Do8VEqexqv7TKbEepeSQlomcACFAk1vEVrfGqaiCZbRDGU8+QB4gN5ckn6mLeFINpP16HSLSPjZT+SAg7juMnYt6M9LHI7dq8Z9hmLF0iH+hKSIFuIsRd5KAudKYOtrUIABFiuXqnzW22J1/KPaJ/TBN4QNQVXoWS10U/GfhC1uyyrG8QkWAhWednDD3W89V1EiATQNvCsKdZTAF4a73QKwOTKoGGoViPmf2x6YOHTumR+UhrOHibmrlTFoqIRsDBLTSF4vL8WcG66hu/2j8SVLY5LlSvsEv+ZKDAoQMi2eYBk4snCGHD2pLbAY6foZRC9+bMDQ==;zIE3XuTBrsvhGnfkScK15w=="
 ---

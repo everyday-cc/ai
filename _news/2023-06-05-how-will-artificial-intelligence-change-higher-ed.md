@@ -7,7 +7,7 @@ originalUrl: "https://www.chronicle.com/article/how-will-artificial-intelligence
 webUrl: "https://www.chronicle.com/article/how-will-artificial-intelligence-change-higher-ed"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI And The Economy: What Has Changed?"
+    excerpt: "The economy will change markedly due to ChatGPT and similar models. After years of gradual advances, the latest tools will lead to a huge shift in the economy."
+    publishedDateTime: 2023-06-08T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/billconerly/2023/06/08/ai-and-the-economy-what-has-changed/"
+    ampWebUrl: "https://www.forbes.com/sites/billconerly/2023/06/08/ai-and-the-economy-what-has-changed/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/06/08/ai-and-the-economy-what-has-changed/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647e1daafc74342c7713b285/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 748
+        isCached: true
 
 secured: "ZvcRq5r90z8aO7b8CVMdg4kdRv5GgklxYLytZKzlq8kAIfVR757ar8icmEbMTwuyxQ9BOKEHpo2n7HPUf2v2/fcaG+Tmzwr8YSWeySLBB6CLvfJAPqpXG3DMiVDsREMOW0LTYdgyKTN1um5wWhSqcl/4qzFdb+8lfQ96LlgZNubJj4DJ0Ehd9ZG+98QgvSj5tK5S226X8csWN1rvc1fJcRUObgwRWwSJwwQFySuHcrqh1HGeRu4Qc3gyssJB+YllRh71cuADBtVAtIoKjZRmbtDXYwvk5ytF+JUJ1zxCUYThRqjh7pBJzT57bzUd2vr704kg+3BI1JQAwyNsvoxT4Zaid5zTvX6+Bdk9d/wharQ=;Nv8FKSudl2kBjbQH7ATFzA=="
 ---

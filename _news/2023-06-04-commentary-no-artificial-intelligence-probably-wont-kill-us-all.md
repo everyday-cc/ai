@@ -52,6 +52,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Comment: We should worry more about AI’s creators than AI itself"
+    excerpt: "Even so, fibs travel halfway around the world before the truth laces up its boots and the story is bound to seep into our collective, unconscious worries about AI’s threat to the human race, an idea that has gained steam thanks to warnings from two “godfathers” of AI and two open letters about existential risk."
+    publishedDateTime: 2023-06-08T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/comment-we-should-worry-more-about-ais-creators-than-ai-itself/"
+    type: article
+    provider:
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 39
+    images:
+      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Why an octopus-like creature has come to symbolize AI | Commentary"
     excerpt: "The Shoggoth is a potent metaphor that encapsulates one of the most bizarre facts about the AI world, which is that many of the people working on this technology are somewhat mystified by their own creations."
     publishedDateTime: 2023-06-05T13:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialize
 webUrl: "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialized-intelligence/"
 type: article
 quality: 58
-heat: 89
+heat: 88
 published: true
 
 provider:

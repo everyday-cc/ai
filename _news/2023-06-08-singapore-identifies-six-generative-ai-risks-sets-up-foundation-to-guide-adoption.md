@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/singapore-identifies-six-generative-ai-ri
 ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
 type: article
-quality: 81
+quality: 83
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/67181d585de08fe20b24ec7a9fb98a85b8747e20/2023/06/07/c25bec5e-dc42-4e7b-b1e0-d04d05aa7004/gettyimages-1258475356.jpg?auto=webp&fit=crop&height=675&width=1200"
@@ -61,6 +62,6 @@ related:
         height: 567
         isCached: true
 
-secured: "dqxRFO21TLZgs/tGJwWfOi6S1cYvvC6WHy/aDObT8wBh1Kx2F7BJ1zBpYMZKFcfi5eZgjrXVEwn7QdmOdjOuDGG0hbEFR0+gVZH7cwC1SueZyi47H0dhinITY3zjOpEqmqFsUX5YaL/GU4FE279YF82fjm91rsgwzFx+3Li7ghl3UIRUi66ffmPHhyqRzXNoAb1Gsnx8hoX6mwx8soAw1xWuN12+D8dXdX0GptvCo2ACBWFYH6O2tj2WHRkN9NM+5suP0s3CwjVO0gYdwqM4eCvTy3vbwPUw58HxtK0pwt2GgjLn0aZ7rewGmx/iWkvuZImCtKNCvpQCOtU8LCuRCOXHJYSOp5nNGrCofR+MgTE=;uwPIs9eMMgMUg1M4+zUKkQ=="
+secured: "8XPomU1preIH0prUtB+CY+Z1LJhzQ+YnlF/P+P80hZtdNFjo78UREBwRkaGSduh9DagpNUnhC96igfqkSwsV2DNcbfDCKK3ZEtuSleA8oxRe3VREQSIl3zHeOzSY4Uab+/vMY10eSpZO5/EuZ0oWS9gKwUOw/1IcjHXlFyu9lQaJQzBtmkyZQRHgyOUJfrUNMqCL1iy9tpH2eGf1Di/u4GtLl994V44tpbrMpeHaEcU0itN53USs69QFkKqQZ86pw+tMXHGNVhtPk5phbUDbs125Q3qHqXHQHtMq9NtFi5g94ThOQX+DKmXYz9GTU88WKKvHoySCnP0vFxftsFvABhdj773DJCmjwyP1gzhZNYlQAU0Mu3IPyU0ICKS6Z7HfllasdCngQPK1nzjOcR8SjjS/V1LIt5pogRX2waFkw+XRi+WPqSKPF6vKGC6FvE6RBQY/yvPx98aIbAWhD7RSMJR7M6kgq2L3dC+KeGYQa8X1gRE8flyCIkXh/l2/iAZ5EJ2R7olCRiP5bjPz9e1jtw==;mVsqq61XLYibP/8LYHzO/w=="
 ---
 

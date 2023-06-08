@@ -2,9 +2,9 @@
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
 excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ..."
-publishedDateTime: 2023-05-31T14:00:00Z
-originalUrl: "https://www.stltoday.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
-webUrl: "https://www.stltoday.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
+publishedDateTime: 2023-05-31T12:21:00Z
+originalUrl: "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
+webUrl: "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 631
     isCached: true
 
-secured: "zEQPEHmgMfu/LGAgaKKt6WgdzGvYNdlZUJCQ+nMy9q6Ra/ymDFEZXKJBHRn+RpKxuSIAnGAhEaieezQPMBy2Y7i46LuxRpe1Jyn22GJxEuLv2M7o9jaZq7zuwezag574PHqU03iI+8OtqvY0avdq1F58n8hdSzem2+Q9RpCB+pYODfPqlys73WW/AKC+7mRTuoLEkctR8USQncwkbSFFxJm40rZ0sx5whq+PJHE7/dJleTeiuK5tc5DI9tsd9CfCOfGtFxTDssdrTeM6lK06OW0NwyqLbKsVmgxQHDA/55czh2UkQK9CzBILuK8IXhEutml/N5TrxHFDnrE3bbHhN8JmT5lQkrdRbFNiDjHZ2uE=;/JtU28jkfo7+Nl9ANgGs9A=="
+secured: "OioJO+D9cX9pO02oSv1inVbrXrox/unqA8pJuo+eVX/cycB4MkdJvobp4IavZiD9cwg9I+YzY8LbIdex1e0YVevAOGGYfcvpUTeWq0R9cYg9kw6kJ1KcdVGskvOaS03moROgyvBSideOn2qhsGCrnZ+RurY/MrWUs5ln31OlUfBtXiyvUNbeQH5iKeUEW0qiNP6aNqHuMdP/cvjvrsXkEbbuq9Ppei93Dr8kcRbPGw/ZZd0KSjcI77akFxYkaqlu3yHoYvkswlNxoRPHpiedC5+5ZBsV1Bs+v697025cdQvSYgtNO5UzsHVAGAUBG/B37MaMgxKwJxY5XUStOjsYPa8+bihN7OB0bETCuoyQ724=;/YiWyt0NeT2hC+H/P45NFA=="
 ---
 

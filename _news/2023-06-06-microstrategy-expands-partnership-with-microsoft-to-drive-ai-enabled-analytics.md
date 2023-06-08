@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft launches GPT-enabled Azure AI for US government agencies"
+    excerpt: "Microsoft has announced the availability of a new Azure OpenAI service, designed specifically to meet stringent requirements of US government agencies. These generative AI capabilities offered by the new service can help US government agencies improve ..."
+    publishedDateTime: 2023-06-08T09:32:00Z
+    webUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.html"
+    ampWebUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 119
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/05/shutterstock_716332027-100940548-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft Build 2023 Brings AI Tools To Where Work Is Done With Copilots And Plugins"
     excerpt: "Ranked Industry Analyst Patrick Moorhead shares his highlights from Microsoft Build 2023 and examines how its latest AI developments fit into plugins and copilots."
     publishedDateTime: 2023-06-05T16:58:00Z
@@ -48,20 +64,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-05-at-6.22.08-PM.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer"
-    excerpt: "I typed “Chrome” into the Microsoft Edge search bar. I was greeted with a full-screen Microsoft Bing AI chatbot window, which promptly told me it was searching for... Bing features. I get it to work on a different computer."
-    publishedDateTime: 2023-06-07T01:33:00Z
-    webUrl: "https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 81
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Intel and Microsoft look to bring AI to the masses with Meteor Lake chips"
     excerpt: "Intel aims to put AI-accelerated experiences in the hands of hundreds of millions of people with its new Meteor Lake chips."
@@ -141,6 +143,15 @@ related:
       name: Mining
       domain: mining.com
     quality: 34
+  - title: "Microsoft Agrees To A $20 Million Settlement For Improper Data Collection From Children"
+    excerpt: "FTC has imposed a $20 million fine on Microsoft for collecting and sharing sensitive children data in the US without parental consent."
+    publishedDateTime: 2023-06-06T12:49:00Z
+    webUrl: "https://techreport.com/news/microsoft-agrees-to-a-20-million-settlement-for-improper-data-collection-from-children/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 11
 
 secured: "kSEiSB7wGcFKQvW3GZ8TSBO1xjLFwDnmQaQ5r24JfOv6b+awKNbY1cc6JE5I2tyZqQYbtN5XUlAx/N1nf8A3xnN2Sf/n7dV2Ea1r7NG0b2GiNSRADQyTya6I9pSa8y7hWEReNd9Rm7VzYBKpofMs9bqQCd4TvU0u6Fq0RTW7fz1jIAKkvaVMJUeT6FHhKtQV9wvw53RkvU+JHb52hO6ia6i32oQ13yhupAHkCdiEnWZMU3oPwldImYEPin8EcZ/jULi793PMw+0bUwMY0mBy31B7XLZYN1S5aI7u0SEOsv9BQZOM0/268e/e72Ndv+UHULBVePspjd84ahi4V25FV11JWlxpnUZ35xHWcDhC4wA=;XHZqkyDCtEYWGolC2LMMwg=="
 ---

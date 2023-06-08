@@ -44,6 +44,36 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "What To Know About Generative AI For Customer Support"
+    excerpt: "Its promising results include enhanced text summarization, translation, question-answering ... systems can answer the question in more than fifty languages. 4. Cost-Effectiveness: Implementing AI-based customer support systems can lead to cost savings ..."
+    publishedDateTime: 2023-06-08T11:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64808b0b0747fc9f7c17834f/0x0.jpg?format=jpg&crop=1457,819,x89,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Rush to Use Generative AI Pushes Companies to Get Data in Order"
+    excerpt: "Interest in large language models, such as those developed by ChatGPT maker OpenAI, has put renewed focus on data management—placing more pressure on corporate technology chiefs to ensure their companies’ data is stored,"
+    publishedDateTime: 2023-06-08T10:01:00Z
+    webUrl: "https://www.wsj.com/articles/rush-to-use-generative-ai-pushes-companies-to-get-data-in-order-c34a7e13"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-796217/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "The Future of Generative AI from Google Cloud: What You Need to Know"
     excerpt: "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that"
     publishedDateTime: 2023-06-07T09:19:00Z
