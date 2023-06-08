@@ -28,130 +28,107 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce"
-    excerpt: "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?"
-    publishedDateTime: 2023-06-03T07:18:00Z
-    webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
+  - title: "Should AI come to your doctor's office? OpenAI's co-founder thinks so"
+    excerpt: "This healthcare provider is trying out AI-assisted 'hands-free charting' to generate notes and visit summaries -- with impressive results, at least in time savings."
+    publishedDateTime: 2023-06-06T17:31:00Z
+    webUrl: "https://www.zdnet.com/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200"
-        width: 1200
-        height: 562
-        isCached: true
-  - title: "The Devious Dance Of AI-Generated Misinformation"
-    excerpt: "The rise of generative AI poses a significant threat of misinformation. We must safeguard the truth and integrity of our information landscape."
-    publishedDateTime: 2023-06-04T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/"
-    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647aecbada2ba3a38c0e1090/0x0.jpg?format=jpg&width=1200"
-        width: 1125
-        height: 900
-        isCached: true
-  - title: "Four Ways For Leaders To Embrace The Future Of AI"
-    excerpt: "As for leaders, the more you learn, the better you can assess how AI can positively impact your business—and how others may use it to disrupt that business."
-    publishedDateTime: 2023-06-07T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f3a9899c38d7ddb595934/0x0.jpg?format=jpg&crop=1205,678,x0,y62,safe&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/ba1422fba425e7bcbbf9e17c84169ceab5f1d38d/2023/06/06/e77e9997-e41e-4d49-9348-fcef291cf247/gettyimages-1013435444.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Cities and Counties Draft Guidelines for Workplace AI"
-    excerpt: "Does your local government need a stance on generative AI? Boston encourages staff’s “responsible experimentation,” Seattle’s interim policy outlines cautions, and King County considers what responsible generative AI use might be."
-    publishedDateTime: 2023-06-04T05:17:00Z
-    webUrl: "https://www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai"
-    ampWebUrl: "https://www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai?_amp=true"
+  - title: "Should AI come to your doctor's office? OpenAI's CEO thinks so"
+    excerpt: "This healthcare provider is trying out AI-assisted 'hands-free charting' to generate notes and visit summaries -- with impressive results, at least in time savings."
+    publishedDateTime: 2023-06-06T16:31:00Z
+    webUrl: "https://www.zdnet.com/article/should-ai-reach-the-doctors-office-openai-ceo-thinks-so/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/should-ai-reach-the-doctors-office-openai-ceo-thinks-so/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-reach-the-doctors-office-openai-ceo-thinks-so/"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 57
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/c055d6a/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fad%2Ffa%2Fc71201bd45859940e3d10b77c455%2Fshutterstock-2239373423.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Advancing Intelligence at the Edge with AI Vision Processors"
-    excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
-    publishedDateTime: 2023-06-05T16:21:00Z
-    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21266232/texas-instruments-advancing-intelligence-at-the-edge-with-ai-vision-processors"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://www.zdnet.com/a/img/resize/ba1422fba425e7bcbbf9e17c84169ceab5f1d38d/2023/06/06/e77e9997-e41e-4d49-9348-fcef291cf247/gettyimages-1013435444.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "As AI enters the workplace, optimism levels are high"
-    excerpt: "Employees at all organisational levels recognise that artificial intelligence (AI) is here to stay and will fundamentally change or even supersede their jobs. But there is a generally high level of optimism about the positive impacts of the technology."
-    publishedDateTime: 2023-06-07T07:56:00Z
-    webUrl: "https://it-online.co.za/2023/06/07/as-ai-enters-the-workplace-optimism-levels-are-high/"
+  - title: "Azure Government cloud gets access to OpenAI’s generative AI models"
+    excerpt: "Azure Government cloud infrastructure platform can now access the latest artificial intelligence models from ChatGPT creator OpenAI LP. The company said in a blog post that Azure Government users will be able to experiment with two of OpenAI’s large language models,"
+    publishedDateTime: 2023-06-08T01:14:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/azure-government-cloud-gets-access-openais-generative-ai-models/"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/06/ai-3.jpg"
-        width: 855
-        height: 474
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/microsoft-1.png"
+        width: 900
+        height: 506
         isCached: true
-  - title: "Ground Rules for the Age of AI Warfare"
-    excerpt: "Encouraged by the benefits they already derive from AI-enabled systems, militaries will likely stay their current course and design future systems with growing degrees of autonomy. This push toward AI-enabled autonomy will certainly unlock strategic and tactical advantages, but they will come at a cost."
-    publishedDateTime: 2023-06-06T04:18:00Z
-    webUrl: "https://www.foreignaffairs.com/world/ground-rules-age-ai-warfare"
+  - title: "OpenAI boss 'heartened' by talks with world leaders over will to contain AI risks"
+    excerpt: "The CEO of OpenAI says he is encouraged by a desire shown by world leaders to contain any risks posed by the artificial intelligence technology his company and others are developing"
+    publishedDateTime: 2023-06-05T16:47:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/openai-boss-heartened-talks-world-leaders-ai-risks-99836465"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/openai-boss-heartened-talks-world-leaders-ai-risks-99836465"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/openai-boss-heartened-talks-world-leaders-ai-risks-99836465"
     type: article
     provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
+      name: ABC
+      domain: abcnews.go.com
+    quality: 52
     images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/05/RTSI6EY8.jpg?itok=9qYdXcBI"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/International/wirestory_0687c5645c191bceeb6c481deb985177_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Keeping an eye on AI"
-    excerpt: "Sunak is expected to discuss the idea of a “Cern for AI” — a research base modelled on the particle physics laboratory in Switzerland — with a global regulatory body that could look something like the International Atomic Energy Agency."
-    publishedDateTime: 2023-06-05T17:15:00Z
-    webUrl: "https://www.ft.com/content/e2980b91-7e8f-4648-96b9-4da6e394942a"
+  - title: "OpenAI CEO suggests international agency like UN's nuclear watchdog could oversee AI"
+    excerpt: "Altman made a point to reference the IAEA, the United Nations nuclear watchdog, as an example of how the world came together to oversee nuclear power. That agency was created in the years after the U.S. dropping atom bombs on Japan at the end of World War II."
+    publishedDateTime: 2023-06-06T15:18:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/openai-ceo-suggests-international-agency-uns-nuclear-watchdog-99870107"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-ceo-suggests-international-agency-uns-nuclear-watchdog-99870107"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-ceo-suggests-international-agency-uns-nuclear-watchdog-99870107"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
-  - title: "Managing the Risks of Generative AI"
-    excerpt: "Generative artificial intelligence (AI) has become widely popular, but its adoption by businesses comes with a degree of ethical risk. Organizations must prioritize the responsible use of generative AI by ensuring it is accurate,"
-    publishedDateTime: 2023-06-06T12:15:00Z
-    webUrl: "https://hbr.org/2023/06/managing-the-risks-of-generative-ai"
+      name: ABC
+      domain: abcnews.go.com
+    quality: 50
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_10b15d748212be7dc5d09eabd642ff39_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "OpenAI CEO reveals why he isn't interested in taking the AI startup public"
+    excerpt: "OpenAI CEO Sam Altman has been meeting lawmakers who are creating rules to monitor AI during his weeks-long world tour."
+    publishedDateTime: 2023-06-07T06:14:00Z
+    webUrl: "https://www.ibtimes.co.uk/openai-ceo-reveals-why-he-isnt-interested-taking-ai-startup-public-1716466"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 19
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 35
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1716031/sam-altman.jpg"
+        width: 2048
+        height: 1458
+        isCached: true
+  - title: "OpenAI CEO suggests international agency like UN's nuclear watchdog could oversee AI"
+    excerpt: "OpenAI CEO Sam Altman speaks in Abu Dhabi, United Arab Emirates, Tuesday,. Altman on Tuesday suggested an international agency like the International Atomic En"
+    publishedDateTime: 2023-06-06T19:09:00Z
+    webUrl: "https://www.chron.com/news/world/article/openai-ceo-suggests-international-agency-like-18137808.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 10
 
 secured: "fvqjDHPC7Me/ETeSTs5rCtgrX6wNm0aP4vLtpZvXnONlsYY/agaDF9JYdZ+QNigpjmLqooTsHEQRQvKLniCxS0N9v+G+89Sh2IOl/wOt8Icd4cFi+TZOk80YCesXKuG/8UJM3ICRMj8B5lPG0gCJEpdrFXkHuqkTVXMawogi+tyfGd8WyrUCE5EBs5UUtx4PhG4Oqmtdx2Q7i9rH7NButQrImCYpdDI3xeJG6Sphpr7imIkUX/dgk//n2jden4Gqn5TRqjPQABuHUwhFsbH6NbvECkGhBwlBS6/0ktkBpK9WM0wwsFi3h71dO0FtEuynGf0aWi2ZfTd+NRcZ7WMi9wi3JBOcx9dC1CAyXNOCZ+5xIaqwNqO4wgBFjDvQ8hSxiizitJ2JhZwde6WLGbYk5QbBi0UM4/AOaX+rUGYAjWb/buj1ogCtcInPL7P51b+mXCqTWP6MEQfDRi/exshaZ4WWD+Feted+tVzD49050ZkG4aMM9nuaEmX/TdMMnPrsC1pZdsqV0pIpBUFYDANf+A==;GS85oBrqLrwuc2B6qzjXKw=="
 ---

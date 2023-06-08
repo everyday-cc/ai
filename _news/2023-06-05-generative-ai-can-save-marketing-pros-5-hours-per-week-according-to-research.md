@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-adoption-in-m
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
 type: article
 quality: 101
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
     provider:
       name: aha.org
       domain: aha.org
+    quality: 19
+  - title: "Managing the Risks of Generative AI"
+    excerpt: "Generative artificial intelligence (AI) has become widely popular, but its adoption by businesses comes with a degree of ethical risk. Organizations must prioritize the responsible use of generative AI by ensuring it is accurate,"
+    publishedDateTime: 2023-06-06T12:15:00Z
+    webUrl: "https://hbr.org/2023/06/managing-the-risks-of-generative-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
     quality: 19
   - title: "How artificial intelligence can improve the hiring process"
     excerpt: "Artificial intelligence isn’t new, but it’s quickly gone from a fringe computing concept to an everyday topic of discussion. Whether it’s AI art, AI chatbots or general AI, the introduction of AI is critical for many industries, as it can perform a ..."

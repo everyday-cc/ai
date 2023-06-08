@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Four Ways For Leaders To Embrace The Future Of AI"
+    excerpt: "As for leaders, the more you learn, the better you can assess how AI can positively impact your business—and how others may use it to disrupt that business."
+    publishedDateTime: 2023-06-07T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f3a9899c38d7ddb595934/0x0.jpg?format=jpg&crop=1205,678,x0,y62,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial intelligence in agriculture isn’t the future; it’s now"
     excerpt: "Cengiz Koparan, a new assistant professor at the University of Arkansas, said the rapid rise of artificial intelligence is already making cutting-edge technology more available."
     publishedDateTime: 2023-06-07T21:47:00Z

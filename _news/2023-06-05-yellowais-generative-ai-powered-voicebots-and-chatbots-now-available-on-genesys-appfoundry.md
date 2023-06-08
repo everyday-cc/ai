@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Apple Ghosts the Generative AI Revolution"
-    excerpt: "Apple unveiled the Vision Pro headset and a number of AI-powered features yesterday, but largely ignored generative AI applications embraced by Google and Microsoft."
-    publishedDateTime: 2023-06-06T10:59:00Z
-    webUrl: "https://www.wired.com/story/apple-ghosts-the-generative-ai-revolution/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 71
-    images:
-      - url: "https://media.wired.com/photos/647e7aef82d37ced55dff567/191:100/w_1280,c_limit/Apple-Ghosts-AI-At-WWDC-2023-Business-1258464875.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "How to create generative AI confidence for enterprise success"
     excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
     publishedDateTime: 2023-06-04T23:10:00Z
@@ -106,15 +92,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
-  - title: "Newest Genesys Generative AI Capabilities Boost Power of Experience Orchestration"
-    excerpt: "Using large language models, Genesys Cloud CX helps employees improve quality, speed and accuracy to drive stronger post-customer engagement"
-    publishedDateTime: 2023-06-05T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/newest-genesys-generative-ai-capabilities-boost-power-of-experience-orchestration-1032370089"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
   - title: "Lawyers' Trust in Generative AI May Be Overstated"
     excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into trust."
     publishedDateTime: 2023-06-06T23:09:00Z

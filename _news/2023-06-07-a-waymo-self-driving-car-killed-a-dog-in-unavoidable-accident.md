@@ -99,6 +99,17 @@ related:
         width: 426
         height: 439
         isCached: true
+  - title: "They fled San Francisco. The AI boom pulled them back"
+    excerpt: "The latest wave of AI technology — known as generative AI, which produces text, images and video in response to prompts — is feeding a Bay Area boom."
+    publishedDateTime: 2023-06-08T01:39:00Z
+    webUrl: "https://www.seattletimes.com/business/they-fled-san-francisco-the-ai-boom-pulled-them-back/"
+    ampWebUrl: "https://www.seattletimes.com/business/they-fled-san-francisco-the-ai-boom-pulled-them-back/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/they-fled-san-francisco-the-ai-boom-pulled-them-back/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "Self-driving crash kills San Francisco dog"
     excerpt: "San Francisco is a hub for self-driving vehicle development. Its streets recently saw a crash between a self-driving Jaguar and a dog."
     publishedDateTime: 2023-06-07T02:52:00Z

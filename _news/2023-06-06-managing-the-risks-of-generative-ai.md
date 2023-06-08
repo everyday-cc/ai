@@ -19,135 +19,104 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce"
-    excerpt: "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?"
-    publishedDateTime: 2023-06-03T07:18:00Z
-    webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
+  - title: "Generative AI can save marketing pros 5 hours per week, according to research"
+    excerpt: "Generative AI adoption in marketing reveals promising productivity gains with marketers estimating generative AI can save them the equivalent of over a month per year, making room for more meaningful work."
+    publishedDateTime: 2023-06-05T16:59:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200"
-        width: 1200
-        height: 562
-        isCached: true
-  - title: "The Devious Dance Of AI-Generated Misinformation"
-    excerpt: "The rise of generative AI poses a significant threat of misinformation. We must safeguard the truth and integrity of our information landscape."
-    publishedDateTime: 2023-06-04T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/"
-    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647aecbada2ba3a38c0e1090/0x0.jpg?format=jpg&width=1200"
-        width: 1125
-        height: 900
-        isCached: true
-  - title: "Four Ways For Leaders To Embrace The Future Of AI"
-    excerpt: "As for leaders, the more you learn, the better you can assess how AI can positively impact your business—and how others may use it to disrupt that business."
-    publishedDateTime: 2023-06-07T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f3a9899c38d7ddb595934/0x0.jpg?format=jpg&crop=1205,678,x0,y62,safe&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/16496ceb203eeb2527b2456b29f8cf1bfc83b0bb/2023/06/05/4cb060d3-f8af-4921-b60d-7f413238c35d/gettyimages-1466924677.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "GPT AI Has Arrived in the Doctor's Office"
-    excerpt: "The sheer power of GPT has been transformative for the AI field, with chatbot ChatGPT raising ethical questions because of its human-like communication and sometimes incorrect answers. In medicine, interest in AI has boomed as a way to increase efficiency from drug discovery to patient diagnoses."
-    publishedDateTime: 2023-06-05T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-05/technology-behind-chatgpt-has-arrived-in-the-doctor-s-office"
+  - title: "Job listings asking for generative AI skills are soaring, analysis finds"
+    excerpt: "The average advertised salary for jobs citing generative AI skills is $146,244, according to job search engine Adzuna."
+    publishedDateTime: 2023-06-07T08:46:00Z
+    webUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imhf8114n0Mw/v1/1200x675.png"
+      - url: "https://i.insider.com/647df19740bf000019fa30c1?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Cities and Counties Draft Guidelines for Workplace AI"
-    excerpt: "Does your local government need a stance on generative AI? Boston encourages staff’s “responsible experimentation,” Seattle’s interim policy outlines cautions, and King County considers what responsible generative AI use might be."
-    publishedDateTime: 2023-06-04T05:17:00Z
-    webUrl: "https://www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai"
-    ampWebUrl: "https://www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai?_amp=true"
+  - title: "Generative AI can save 5 hours of marketing hustle every week: Salesforce report"
+    excerpt: "A survey from Salesforce and YouGov has revealed that generative AI can save marketers' five hours every week, or more than a month in a year."
+    publishedDateTime: 2023-06-05T15:19:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-can-save-5-hours-of-marketing-hustle-every-week-salesforce-report/"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/c055d6a/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fad%2Ffa%2Fc71201bd45859940e3d10b77c455%2Fshutterstock-2239373423.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Advancing Intelligence at the Edge with AI Vision Processors"
-    excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
-    publishedDateTime: 2023-06-05T16:21:00Z
-    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21266232/texas-instruments-advancing-intelligence-at-the-edge-with-ai-vision-processors"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1180183363-e1636482579984.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "As AI enters the workplace, optimism levels are high"
-    excerpt: "Employees at all organisational levels recognise that artificial intelligence (AI) is here to stay and will fundamentally change or even supersede their jobs. But there is a generally high level of optimism about the positive impacts of the technology."
-    publishedDateTime: 2023-06-07T07:56:00Z
-    webUrl: "https://it-online.co.za/2023/06/07/as-ai-enters-the-workplace-optimism-levels-are-high/"
+  - title: "How Generative AI-Powered Robots Are Shaking Things Up"
+    excerpt: "Robots are making their way into nearly every sector of the ... Reports suggest that Musk is busy creating his own generative AI startup that would go head-to-head with OpenAI. Image by Twitter While generative AI has already taken the world by storm ..."
+    publishedDateTime: 2023-06-05T15:08:00Z
+    webUrl: "https://www.fxempire.com/forecasts/article/how-generative-ai-powered-robots-are-shaking-things-up-1351853"
+    ampWebUrl: "https://amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
+    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 39
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/06/ai-3.jpg"
-        width: 855
-        height: 474
-        isCached: true
-  - title: "Ground Rules for the Age of AI Warfare"
-    excerpt: "Encouraged by the benefits they already derive from AI-enabled systems, militaries will likely stay their current course and design future systems with growing degrees of autonomy. This push toward AI-enabled autonomy will certainly unlock strategic and tactical advantages, but they will come at a cost."
-    publishedDateTime: 2023-06-06T04:18:00Z
-    webUrl: "https://www.foreignaffairs.com/world/ground-rules-age-ai-warfare"
+      name: FXEmpire.com
+      domain: fxempire.com
+    quality: 54
+  - title: "Generative AI, digital skills, ageism: 5 interesting stats to start your week"
+    excerpt: "Generative AI is marketers’ top consumer trend. Some 59% of marketers have singled out generative AI as the most important consumer trend to watch, according to Mediaocean’s m"
+    publishedDateTime: 2023-06-05T14:18:00Z
+    webUrl: "https://www.marketingweek.com/generative-ai-digital-skills-ageism-5-interesting-stats-to-start-your-week/"
     type: article
     provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
+      name: Marketing Week
+      domain: marketingweek.com
+    quality: 34
     images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/05/RTSI6EY8.jpg?itok=9qYdXcBI"
+      - url: "https://marketingweek.imgix.net/content/uploads/2023/02/03170259/Numbers.jpg"
         width: 1200
-        height: 630
+        height: 700
         isCached: true
-  - title: "Keeping an eye on AI"
-    excerpt: "Sunak is expected to discuss the idea of a “Cern for AI” — a research base modelled on the particle physics laboratory in Switzerland — with a global regulatory body that could look something like the International Atomic Energy Agency."
-    publishedDateTime: 2023-06-05T17:15:00Z
-    webUrl: "https://www.ft.com/content/e2980b91-7e8f-4648-96b9-4da6e394942a"
+  - title: "4 Keys to Executing Generative AI"
+    excerpt: "Generative artificial intelligence (AI) has captured the attention of health care providers and payers focused on reimagining care delivery."
+    publishedDateTime: 2023-06-06T12:19:00Z
+    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-06-06-4-keys-executing-generative-ai"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: aha.org
+      domain: aha.org
     quality: 19
+  - title: "How artificial intelligence can improve the hiring process"
+    excerpt: "Artificial intelligence isn’t new, but it’s quickly gone from a fringe computing concept to an everyday topic of discussion. Whether it’s AI art, AI chatbots or general AI, the introduction of AI is critical for many industries, as it can perform a ..."
+    publishedDateTime: 2023-06-06T13:06:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2023/06/06/artificial-intelligence-improve-hiring-process.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+  - title: "AntChain Launches New Privacy-Preserving Computing Platform, Providing Data Privacy Protection Solution for AI Machine Learning"
+    excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC), a new privacy-preserving computing (PPC) platform that brings a data privacy protection solution for large-scale AI machine learning."
+    publishedDateTime: 2023-06-05T11:39:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/05/9825978.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "b+BZMcqFKaacuFFAZghLjhlTXK5fc0qsRUvgK4kw8SUpH0podW436YiogQQ8RNjSgZWBHHfLxqjgHDkprcD6WLiuNT7yJygALuEyoKbvvUQ74SyK0ZMb9U4POAzaSJYIlYi/uiIU+74q1OOVT0bBwC/ZM2ztkoMvEEYD8iJRrzJqKSHGjyWSlAMBb5sioCo5gekdwINJcmV9ocrlTDZzN5AXG8D8+KjVSXp4qGwGu48F9+kgx9rrjF96Yc+6VYteLaCzsyODbPBvl0cJN7KJ4IQs2BC/zTsPImNfMXf6XeAhVA3nzZYhBF+EkIy5IFHsB4vdNX9BlQlJ807AshHYrdMWEenflRfDd93Km7vwF1rtq6mz2zPMGHjXkSmPnk7eibCFrCZJMU31kgVmIEHsTQ65Z0uks4iyiOll3xIcjDsFHrop9KJHavHPe7AhLtpkEAERXC/ApQTkn4Z/yrZNPoPv9QFrTwqprQRkiDbXwwdd+y5DE7i5xuzcNO+W6DawWnS4zpjd7oe0E7WdGSSiqQ==;6y+fsgJiOpR5NO8T3IGlTw=="
 ---

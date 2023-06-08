@@ -98,6 +98,15 @@ related:
       name: aha.org
       domain: aha.org
     quality: 19
+  - title: "Managing the Risks of Generative AI"
+    excerpt: "Generative artificial intelligence (AI) has become widely popular, but its adoption by businesses comes with a degree of ethical risk. Organizations must prioritize the responsible use of generative AI by ensuring it is accurate,"
+    publishedDateTime: 2023-06-06T12:15:00Z
+    webUrl: "https://hbr.org/2023/06/managing-the-risks-of-generative-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 19
   - title: "AntChain Launches New Privacy-Preserving Computing Platform, Providing Data Privacy Protection Solution for AI Machine Learning"
     excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC), a new privacy-preserving computing (PPC) platform that brings a data privacy protection solution for large-scale AI machine learning."
     publishedDateTime: 2023-06-05T11:39:00Z

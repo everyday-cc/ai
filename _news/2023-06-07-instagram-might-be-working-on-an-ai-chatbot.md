@@ -77,6 +77,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "AI Chatbots Offer Comfort To The Bereaved"
+    excerpt: "Staying in touch with a loved one after their death is the promise of several start-ups using the powers artificial intelligence, though not without raising ethical questions."
+    publishedDateTime: 2023-06-08T01:29:00Z
+    webUrl: "https://www.barrons.com/news/ai-chatbots-offer-comfort-to-the-bereaved-c58e926a"
+    ampWebUrl: "https://www.barrons.com/amp/news/ai-chatbots-offer-comfort-to-the-bereaved-c58e926a"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-chatbots-offer-comfort-to-the-bereaved-c58e926a"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1012993008938145891848327800656702415566---1.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "An AI chatbot might soon slide into your Instagram DMs"
     excerpt: "Instagram is reportedly working on an AI chatbot that will let users choose between 30 different personalities to chat with."
     publishedDateTime: 2023-06-07T18:21:00Z

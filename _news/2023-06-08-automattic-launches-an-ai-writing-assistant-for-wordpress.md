@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -73,7 +73,21 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "WordPress Is Launching an AI Writing Assistant"
+    excerpt: "The new tool can create blog posts, change the tone of an existing post, or translate one language into another."
+    publishedDateTime: 2023-06-08T00:10:00Z
+    webUrl: "https://tech.co/news/wordpress-ai-writing-assistant"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2022/05/13111932/wordpress-website-e1652455213732.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
 
-secured: "6OKcAFq5VY6w4rFrz9FwG+GXBmHpvygkhKsRbP0raKpyw7IOqYSjO7qmTcxmH8QS7cdqv2JJkG4UH7bHRDZmiZds/XnR7wmAYs+hFmi0uD5E2XcrsszLpnQ68XThDose4pxGE/iawDGLtvOBslW2mHz+B4ruw+g5nfSVSQgdz/UhyC+zlOB2GlZpdHs0Yz6MYlDr7rLwfYfB9Adx0+3CLBtouYThajebjaxtin8kwFV0Bwfn6MjqAfls+ug0ywazNM9gqC1QklYNbIsXLE/9w1aKDQZQQX3ZIKkevTpjKY2pTJCs0BVsdtAraD+E1XSwQz/CYAikzzqR38ytEn5X8G7DS2mKQXOL1gkCPdnqSSk=;pB0WzAk1+3HINRn4kquf0w=="
+secured: "E2Qv6OeD8772x8pq0I2yISVccSgx2sqEbeIxs6gCpuaBZA3H51gjLcn0XMicFcrv1rxpDc3LT6ZyaSCy7vCXpeD15E7xSrWT18Et8v6YkrPjSA3r9iEHEnJH2A4lxke0pd4XTIw93F8rVUrBAYta9Xj5BK6/j5OF/+bMTpjFVzZDowMJsvtGjPBOl6uvfTWeLFl3myK0CxABUFcsgzS9T+TIOswyYq6ss22hUlWbdEH2w2+MiytmLuK3tbCI6mFTFYtj9piY1pQvX3OJdrqUKlQ9Wyh6KYMOrT4OQzHfXsJKF1VkQmyzu9QYjoQXtTLI1kPM4pxWoqxGF+dTcwGuVMZqBmflAPGy0RMfV/WDcgmG9gZDlKwt6Ae9Sxv/gECNlcE6LA6n4VmzymGHa27b+z5c6FJRREgeSp22TcWqvj448Mscha6t2ne0Kvu+umFd7A7hQbW2v0TG/kjQvSNSLtxESWHZ2dKmAjgGK6ObVdO4lL52ijTZDaQuPtJugAm8R4NpIJIVm4BpFiRxEpk80g==;IsA9kgzulMocCyUixSVPAw=="
 ---
 

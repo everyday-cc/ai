@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-12-the-open-source-ai-boom-is-built-on-big-techs-handouts-how-long-will-it-last.md",
+      "title": "The open-source AI boom is built on Big Tech’s handouts. How long will it last?",
+      "excerpt": "Greater access to the code behind generative models is fueling innovation. But if top companies get spooked, they could close up shop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/05/12/1072950/open-source-ai-google-openai-eleuther-meta/",
+      "originalUrl": "https://www.technologyreview.com/2023/05/12/1072950/open-source-ai-google-openai-eleuther-meta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/open-closed2.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/05/12/1072950/open-source-ai-google-openai-eleuther-meta/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/12/1072950/open-source-ai-google-openai-eleuther-meta/amp/",
+      "publishedDateTime": "2023-05-12T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-the-future-of-ai-has-begun-to-look-rather-too-human.md",
       "title": "The future of AI has begun to look rather too human",
       "excerpt": "The advancements in Large Language Models (LLMs) have led to the creation of AI chatbots that can provide personalized fitness plans and even answer questions as historical figures. However, this raises questions about the potential for AI to become indistinguishable from humans,",
@@ -1388,50 +1431,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-dont-pause-ai-development-prioritize-ethics-instead.md",
-      "title": "Don’t pause AI development, prioritize ethics instead",
-      "excerpt": "Some tech companies and lawmakers are getting it wrong when it comes to AI. Instead of pausing progress, they should be prioritizing AI ethics. Here's how.\nThe post Don’t pause AI development, prioritize ethics instead appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethics-instead/",
-      "originalUrl": "https://www.ibm.com/blog/dont-pause-ai-development-prioritize-ethics-instead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T11:43:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-v
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 209
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Ghosts the Generative AI Revolution"
-    excerpt: "Apple unveiled the Vision Pro headset and a number of AI-powered features yesterday, but largely ignored generative AI applications embraced by Google and Microsoft."
-    publishedDateTime: 2023-06-06T10:59:00Z
-    webUrl: "https://www.wired.com/story/apple-ghosts-the-generative-ai-revolution/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 71
-    images:
-      - url: "https://media.wired.com/photos/647e7aef82d37ced55dff567/191:100/w_1280,c_limit/Apple-Ghosts-AI-At-WWDC-2023-Business-1258464875.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "How to create generative AI confidence for enterprise success"
     excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
     publishedDateTime: 2023-06-04T23:10:00Z
@@ -98,15 +84,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
-  - title: "Newest Genesys Generative AI Capabilities Boost Power of Experience Orchestration"
-    excerpt: "Using large language models, Genesys Cloud CX helps employees improve quality, speed and accuracy to drive stronger post-customer engagement"
-    publishedDateTime: 2023-06-05T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/newest-genesys-generative-ai-capabilities-boost-power-of-experience-orchestration-1032370089"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
   - title: "Lawyers' Trust in Generative AI May Be Overstated"
     excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into trust."
     publishedDateTime: 2023-06-06T23:09:00Z
@@ -195,6 +172,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "TaP3nT5w3UxGW8xDYFvs2iTS1N6vRSmRtGGPu3ZAFBpBn/PYzr97Rg0duP9r6DUzcofNNxnWUnPJeSJYZ+5oPsd2EpWSl+w0TeekvM6SP95azkiCYcYxVqqRoOe1fXRr1TqcTO2cNP3nG7wveOW9zpWx/swDYwKo0mBfPFgMAS5xKW5YOEoer/Q1KsO5XFwtNsAabtIvGKJ5oMpdwCDCZarQrjzWXUMWC3Q6YZ45mvFwCQ4iS4DHcHAaiEoXyTQ0UUItqqww35teyMAM4ll1UxgYz9HjWFdJlDr4VPNv3U608/Ym9f5hn7qP0Mi3NDpVEQ9jQboNs1nkuaye+mnIzMHKRZbC+9AFcRVsWmp3UEA=;p8u5bbwI/Vn8vaWcGT7R4g=="
+secured: "mdYnfaSbln+eHVuF5Axz8Q8sFBJrxilS7P8lKv3+qrqHPnG8fd7ZvVlZPzyS20cAYn8LbCV/QPLLsCz3wlZZCTcCRw+eALVlY6n3ZqN29+iA/MvSA/Cn4ZsWFJzip2vPcYylhzsj5FyVUcNk8hs1X768qm7kEE/D9BSeRka/SNe0M0K7OKF5F0u2DuwWgUJ7Yb0AhwGzb2KiImGHIkXPCC705AbaHUmSswIelcNPsIXkgMZAikDK9I52x8JMbv/D0iGLkSbMduNQA0Ll1rLhsOyjHcdpm9NUeQykv9Na8Ujd9TH6ha5pDgMWGTYgutJum5lLualml2FmUM1ndXC27I1EMrg+VTUM29lkUFC4wyzEWQfiU0J2fzMtC2LlBfCosk0KG4YLB4cx8+iDOmbwR0sZL2ehv0BmBX3BxcDItQaWvFNuPGfhIQvdqF6THjWgoqWnsn6wh+vQt60AQxzCvn7HNFXk2+eabprf1t0eDkC4OdR7Fd7ELqOAqefuX2KyAr8eO02ExRJKh64HpRttjw==;xj1mdDpwxcRby70hwedwWA=="
 ---
 

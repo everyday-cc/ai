@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-da
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 189
+published: true
 
 provider:
   name: Forbes
@@ -31,95 +31,122 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce"
-    excerpt: "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?"
-    publishedDateTime: 2023-06-03T07:18:00Z
-    webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
+  - title: "The impact of generative AI on software team productivity is... complicated"
+    excerpt: "Generative AI means faster coding, but also more code to manage, along with greater expectations from the business."
+    publishedDateTime: 2023-06-05T07:12:00Z
+    webUrl: "https://www.zdnet.com/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200"
-        width: 1200
-        height: 562
-        isCached: true
-  - title: "Four Ways For Leaders To Embrace The Future Of AI"
-    excerpt: "As for leaders, the more you learn, the better you can assess how AI can positively impact your business—and how others may use it to disrupt that business."
-    publishedDateTime: 2023-06-07T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f3a9899c38d7ddb595934/0x0.jpg?format=jpg&crop=1205,678,x0,y62,safe&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/7f9aec1f5926e4ef120636f244c934732c1d3afa/2023/06/04/6037cf03-35a3-489f-a5bb-0f590ad0c148/gettyimages-1254096697.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "GPT AI Has Arrived in the Doctor's Office"
-    excerpt: "The sheer power of GPT has been transformative for the AI field, with chatbot ChatGPT raising ethical questions because of its human-like communication and sometimes incorrect answers. In medicine, interest in AI has boomed as a way to increase efficiency from drug discovery to patient diagnoses."
-    publishedDateTime: 2023-06-05T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-05/technology-behind-chatgpt-has-arrived-in-the-doctor-s-office"
+  - title: "Apple Ghosts the Generative AI Revolution"
+    excerpt: "Apple unveiled the Vision Pro headset and a number of AI-powered features yesterday, but largely ignored generative AI applications embraced by Google and Microsoft."
+    publishedDateTime: 2023-06-06T10:59:00Z
+    webUrl: "https://www.wired.com/story/apple-ghosts-the-generative-ai-revolution/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Wired
+      domain: wired.com
+    quality: 71
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imhf8114n0Mw/v1/1200x675.png"
+      - url: "https://media.wired.com/photos/647e7aef82d37ced55dff567/191:100/w_1280,c_limit/Apple-Ghosts-AI-At-WWDC-2023-Business-1258464875.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "EU asks Big Tech to label AI-generated content"
+    excerpt: "The European Commission has called on online platforms to detect and label AI-generated content to tackle disinformation. Can the EU keep pace with tech developments?"
+    publishedDateTime: 2023-06-06T02:54:00Z
+    webUrl: "https://www.nationalheraldindia.com/world/eu-asks-big-tech-to-label-ai-generated-content"
+    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content"
+    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content"
+    type: article
+    provider:
+      name: National Herald
+      domain: nationalheraldindia.com
+    quality: 59
+    images:
+      - url: "https://gumlet.assettype.com/nationalherald%2F2023-06%2F0ca0dd0d-d9f8-454c-af72-aa1acc943db1%2F65830692_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true"
         width: 1200
-        height: 675
+        height: 631
         isCached: true
-  - title: "Cities and Counties Draft Guidelines for Workplace AI"
-    excerpt: "Does your local government need a stance on generative AI? Boston encourages staff’s “responsible experimentation,” Seattle’s interim policy outlines cautions, and King County considers what responsible generative AI use might be."
-    publishedDateTime: 2023-06-04T05:17:00Z
-    webUrl: "https://www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai"
-    ampWebUrl: "https://www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai?_amp=true"
+  - title: "EU Commission asks Big Tech to label AI-generated content"
+    excerpt: "The European Union's executive body has called on online platforms to detect and label AI-generated content to tackle disinformation"
+    publishedDateTime: 2023-06-06T03:17:00Z
+    webUrl: "https://www.telegraphindia.com/world/european-union-asks-big-tech-to-label-ai-generated-content-dws/cid/1942638"
+    ampWebUrl: "https://www.telegraphindia.com/amp/world/european-union-asks-big-tech-to-label-ai-generated-content-dws/cid/1942638"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/european-union-asks-big-tech-to-label-ai-generated-content-dws/cid/1942638"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 57
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 59
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/c055d6a/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fad%2Ffa%2Fc71201bd45859940e3d10b77c455%2Fshutterstock-2239373423.jpg"
-        width: 840
-        height: 438
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1686021351_eu.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Advancing Intelligence at the Edge with AI Vision Processors"
-    excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
-    publishedDateTime: 2023-06-05T16:21:00Z
-    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21266232/texas-instruments-advancing-intelligence-at-the-edge-with-ai-vision-processors"
+  - title: "EU wants tech companies to label AI-generated content to counter disinformation"
+    excerpt: "The European Commission is asking all tech companies operating in the European Union to begin voluntarily labeling content appearing on their platforms that is generated by artificial intelligence."
+    publishedDateTime: 2023-06-05T15:41:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2023/06/05/belgium-european-commission-ai-labeling/2541685977357/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2023/06/05/belgium-european-commission-ai-labeling/2541685977357/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2023/06/05/belgium-european-commission-ai-labeling/2541685977357/"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
+      name: UPI
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/2541685977357/2023/1/efcaa7dcbf5f6e13a55ae812f09a5488/v1.5/EU-wants-tech-companies-to-label-AI-generated-content-to-counter-disinformation.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Europe calls for tech companies to fight disinformation by labeling AI-generated content"
+    excerpt: "A top EU Commission official said Monday that the ability of a new generation of AI chatbots to create complex content and visuals in seconds raises “fresh challenges for the fight against disinformation."
+    publishedDateTime: 2023-06-05T16:26:00Z
+    webUrl: "https://www.pbs.org/newshour/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 48
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/2021-11-02T133529Z_974093607_RC2DMQ9I1JJD_RTRMADP_3_TECH-WEBSUMMIT-e1685982315901-1024x614.jpg"
+        width: 1024
+        height: 614
+        isCached: true
+  - title: "Newest Genesys Generative AI Capabilities Boost Power of Experience Orchestration"
+    excerpt: "Using large language models, Genesys Cloud CX helps employees improve quality, speed and accuracy to drive stronger post-customer engagement"
+    publishedDateTime: 2023-06-05T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/newest-genesys-generative-ai-capabilities-boost-power-of-experience-orchestration-1032370089"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+  - title: "Ross: Tech companies need to be held liable for any AI misinformation"
+    excerpt: "There are warnings of a robot takeover, maybe even the extinction of civilization. At the very least an attempt to use AI to subvert the election process."
+    publishedDateTime: 2023-06-05T15:04:00Z
+    webUrl: "https://mynorthwest.com/3896838/ross-tech-companies-need-to-be-held-liable-for-any-ai-misinformation/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
     quality: 39
     images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "As AI enters the workplace, optimism levels are high"
-    excerpt: "Employees at all organisational levels recognise that artificial intelligence (AI) is here to stay and will fundamentally change or even supersede their jobs. But there is a generally high level of optimism about the positive impacts of the technology."
-    publishedDateTime: 2023-06-07T07:56:00Z
-    webUrl: "https://it-online.co.za/2023/06/07/as-ai-enters-the-workplace-optimism-levels-are-high/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 39
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/06/ai-3.jpg"
-        width: 855
-        height: 474
+      - url: "https://mynorthwest.com/wp-content/uploads/2023/01/ap_5e52c119fdde40e5adaa218f0f3e27aa-e1685976018674.jpg"
+        width: 897
+        height: 506
         isCached: true
   - title: "Ground Rules for the Age of AI Warfare"
     excerpt: "Encouraged by the benefits they already derive from AI-enabled systems, militaries will likely stay their current course and design future systems with growing degrees of autonomy. This push toward AI-enabled autonomy will certainly unlock strategic and tactical advantages, but they will come at a cost."
@@ -135,24 +162,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Keeping an eye on AI"
-    excerpt: "Sunak is expected to discuss the idea of a “Cern for AI” — a research base modelled on the particle physics laboratory in Switzerland — with a global regulatory body that could look something like the International Atomic Energy Agency."
-    publishedDateTime: 2023-06-05T17:15:00Z
-    webUrl: "https://www.ft.com/content/e2980b91-7e8f-4648-96b9-4da6e394942a"
+  - title: "From science fiction to reality: Business transformation through generative AI"
+    excerpt: "Generative AI models offer valuable applications across diverse business functions, spanning IT, human resources, operations, and more."
+    publishedDateTime: 2023-06-07T23:29:00Z
+    webUrl: "https://techwireasia.com/2023/06/from-science-fiction-to-reality-business-transformation-through-generative-ai/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
-  - title: "Managing the Risks of Generative AI"
-    excerpt: "Generative artificial intelligence (AI) has become widely popular, but its adoption by businesses comes with a degree of ethical risk. Organizations must prioritize the responsible use of generative AI by ensuring it is accurate,"
-    publishedDateTime: 2023-06-06T12:15:00Z
-    webUrl: "https://hbr.org/2023/06/managing-the-risks-of-generative-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 19
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 35
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/GenerativeAIinBusinesses-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "vA1rg+Mw1HurA92LRiTQYz6sejbZweK2WP5ZGrtu8sHC++Yp5dSJMyWrllrUvA9sjrPjz/nC9VP3MEKki8WCnlPi0eGPaMvaV9UmWa4XXCT2YPCpkBfEF8gL8W+KyVEnFLyW1pUxsQS/Pbj7Bws/G32i1ScjsDBPbKGlGBH1+S9ZC2hcRhKju5ECE+AIgCeyIR8zFPk1eZ7YxNrtsDeAcSBzescMYOxQYDVZZlrIpE8R8F5Uf6kMaq7r2DUjXj1rmp+XBIxpU0htdBfRhdIklOZwYkR+uiWX5M1YmFg/ec2LtbJUVhZS9YLyIdv71wBwRyUGQIrXedYkXJ9OUVmbsIPCgyEMHCVhKfKhQEye4G/OCsHUMhSPjiscvJqLuvDz39r+WUI/UsdS9LacnpJojnj5dRj+zZxwmsaB+SA2g8nAKuhYQpXGBLyO6CXrBRyuOIG4ACDmZHSGjKoVlRqH+HlAZMCuphgkRqJZ+6yjadI5ZyknDRtzKEz099CehCevUMUzHBRVCccgIZufDsAHtw==;1w4A8ZiFU2q0OOdFa0HSrQ=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 800
         height: 389
         isCached: true
+  - title: "The Relationship Between Productivity and Ethics in AI"
+    excerpt: "Artificial intelligence (AI) can increase productivity, but developers must also address ethics in AI with the solutions they provide."
+    publishedDateTime: 2023-06-06T15:50:00Z
+    webUrl: "https://www.devprojournal.com/technology-trends/ai/the-relationship-between-productivity-and-ethics-in-ai/"
+    type: article
+    provider:
+      name: devprojournal
+      domain: devprojournal.com
+    quality: 34
 
 secured: "EjR+ut39TlOtJt/8rpEewZMwqNq95skntgNTqRt3Bv+X7lQJOj5y70H+ajUAO8xAGHQkvBwywdl0aFwf/dB0tL8BqjP6gjlcGsNY1jcjC/dWoind3RigGtBxkh7f2u3BogaXj17f24WN3eOCKMzu6G8lxasgE84Asmo2SRxnaRGOexTWKEJJ+MFQyBbVMccGQ6Jo7Wg1iVHmoRt4lYfVa2OMER9J5wt+tZJYFAp96+9fo0Jz48z3H49AeKlIWE5zrYQeibWzFNAwMLwDriFrXINBHISg+u0nqQetC/dIIXsPZSaqoUuwcE/HOFeFUQ7fHLytBcmAYqymX0sS/3skFR+JYvtl8k0/dSn4brwEFUo=;pu7mt0WUuqd3Usq7r8jZKg=="
 ---

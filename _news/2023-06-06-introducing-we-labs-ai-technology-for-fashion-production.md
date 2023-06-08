@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/introducing-we-lab
 webUrl: "https://markets.businessinsider.com/news/stocks/introducing-we-lab-s-ai-technology-for-fashion-production-1032371696"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "The Relationship Between Productivity and Ethics in AI"
+    excerpt: "Artificial intelligence (AI) can increase productivity, but developers must also address ethics in AI with the solutions they provide."
+    publishedDateTime: 2023-06-06T15:50:00Z
+    webUrl: "https://www.devprojournal.com/technology-trends/ai/the-relationship-between-productivity-and-ethics-in-ai/"
+    type: article
+    provider:
+      name: devprojournal
+      domain: devprojournal.com
+    quality: 34
 
 secured: "vz9qhjs0tNuHMToUnkcanUeGPpqPBa4mpal1pFTyrkQmD2mmtLza/ZYUl5KSp+1MiMN7UaqiLqGDk7yYZfI6knt7IiYpSe+oQFK3HwWUohmNiw7pbf5VoWwcd1yssJcQC909lHheAyEFjbW7jtbwjlQBEJBnTSYi2WY+BxI8a82Xe2xJCwuD+YYnLRpvpBEq15ryt7uO/AVcFo6rcqa5In6gXHyfmmFBi2qv1Y19uYW5gTb+qkQcxds20T2/ajzMk0aOqfpilA845GloDro6Taihwf/CZKN7Sc61nwC47WFqXSOB536A/twYa9AliroUHm01dtXy4GJ5fh7HlQUA02GKNeaC8qAVMNeK/mxc+pqwDZcngB5riGXBRWLGG5l1FStFO2h4JvJ7bZzXj3h/QhiQfLmyz8Ha1Ahevd4WOeHVALjR1FOwuGWsfRYNXRfBxzaLQTvMkCqyMRYylTPCeP42ghB5ngA3DztIyu7RJ2wI6v8n3VbjdExplnJZ2TQ/6JEl0JKuLED0XIHZInyC3g==;4TuNGAEyCVbh2Tt4VGslpg=="
 ---

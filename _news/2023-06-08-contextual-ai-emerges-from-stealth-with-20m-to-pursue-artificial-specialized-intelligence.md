@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialize
 webUrl: "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialized-intelligence/"
 type: article
 quality: 56
-heat: 106
+heat: 107
 published: true
 
 provider:
@@ -96,6 +96,6 @@ related:
         height: 630
         isCached: true
 
-secured: "bwhRy+46M4c2tw1LPDlAesfv63T6cUzWt4jWes6PnRFhZKmzm53g6xZOwpb5sdVTUZGTyo6T9QWbLc39FVUnng8sC+MtNRVsS7ytwZMVkNYzS3ZIYNgJIXXam0/Z4Ny5NkNay+VAonSbodQXQqb6aqMZEJmMbEQT6ZCtJiCnLaQWPF0MUXSIaBFvVJXMDOjPFDSctyPZ32evm99GnZdNtO1BNcRos6YIjR2SuGE4rms6yi+aOS2bi2VwJIwmdctHjQYkbgQi84k32Z9UOipMsQVlSMS1BS3JdCf97yJH83Z/438+eiUlPMuxTIwVs/+dRAOLeKYUFSNhAkv1sHwY3y99Uk3VQOBS/LvPwZ9qqVY=;OPpK49ZFg07W/6M1ASeDgA=="
+secured: "xxE5rXA0j+dpd/nCV0ct+gds2lYKR4UBQh31E2fRSx2y5se/FXp/pgWue2iYiP8zgiGiz3SOfOiQW8nAQ8RrkbFq0BItbWpzJdg0ZFy+CgzTzQtIMT6Q6hgKk1M3T98QyCCgR3Z1o6we31EopAlvMIaHXAFo+G5I2gTtLNK/7RRA0lJ2rQ+twRyOPBSjodXGjGHQNiuTZp/QlpLymhkx2xlE38/Sx8XVZGK9C5dQTdVPkzUJB9HJsfpetC8O7JyOd8yO6N23yMyahlI8/n+/ZDMdonpw91HPeACozLM5MELOuEzv6E7kmNP4RwZuXE+Cx3QMZf7x1cIlCrYMshyANTgmbhWeE8B50rnaykQf/OOtz5JaB5WIpKO/GppE8gaAczE0xgA3cJ7bqLley9w0pt1A0ApdjadWJp4uzG+mZFB/SjlLzSJsL8/dy1oV5XWS/T+SgHAiYfGyq14DTq5s9ctqWD9JSG9hJGSVvokT3GIQjqvmlg8BQj2f5nbevC2uc8EhT9LNd4DUYspYDF1l9w==;a7+fo+wzoElvrzxdQAvq+Q=="
 ---
 

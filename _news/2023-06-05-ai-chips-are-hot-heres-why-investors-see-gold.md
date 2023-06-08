@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Chips: What They Are and Why Investors See Gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-    publishedDateTime: 2023-06-03T08:55:00Z
-    webUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
-    type: article
-    provider:
-      name: Business Journal Daily
-      domain: businessjournaldaily.com
-    quality: 54
-    images:
-      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/06/Nvidia-HGX-H100-module-AP.jpg"
-        width: 925
-        height: 520
-        isCached: true
   - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
     publishedDateTime: 2023-06-04T04:00:00Z

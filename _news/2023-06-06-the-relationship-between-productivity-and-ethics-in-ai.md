@@ -19,31 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "The impact of generative AI on software team productivity is... complicated"
-    excerpt: "Generative AI means faster coding, but also more code to manage, along with greater expectations from the business."
-    publishedDateTime: 2023-06-05T07:12:00Z
-    webUrl: "https://www.zdnet.com/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
+  - title: "Introducing WE LAB's AI Technology for Fashion Production"
+    excerpt: "WE LAB introduces AI technology for fashion design. The product generates design references, provides targeted guidance, and offers a complete"
+    publishedDateTime: 2023-06-06T09:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-we-lab-s-ai-technology-for-fashion-production-1032371696"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://www.zdnet.com/a/img/resize/7f9aec1f5926e4ef120636f244c934732c1d3afa/2023/06/04/6037cf03-35a3-489f-a5bb-0f590ad0c148/gettyimages-1254096697.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/OLq1WBMwTLSvW1ZZhfqBwehSLb93/1686018825067-0.png"
+        width: 800
+        height: 389
         isCached: true
-  - title: "Generative AI’s ‘productivity revolution’ will take time to pay off"
-    excerpt: "A boom in generative artificial intelligence and pandemic-induced workplace shifts will unleash a new era of faster productivity growth across the rich world, economists say, though it could take a decade or more for advanced economies to reap the full benefits."
-    publishedDateTime: 2023-06-05T04:00:00Z
-    webUrl: "https://www.ft.com/content/21384711-3506-4901-830c-7ecc3ae6b32a"
+  - title: "AntChain Introduces Privacy-Preserving Computing Platform, Offering Data Privacy Protection Solution for AI Machine Learning"
+    excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC)."
+    publishedDateTime: 2023-06-07T01:51:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/AntChain-Ant-Group.jpg"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "iY+XJtMmwMRZ4EDiZ8NWTUKwwO9+G4fpFNIKYxFzHC2QqPqSnI8DDD6M9ovWNPrOYdIYcXICKiDU9DVJkfzKIVTqg1NDCZbPcu93moqM4ehdOuYZii6v9L4eJMFPN28fiXK1Y9qIwgK4zdKoX+dN22ilQzOyxxYsKcoFK52Q1defXEOnU7UZUiC6sHWmYPFbEgPnOaQ9rqxJw1wZcccJYztVjgV2eqdsMbvoaxMnWkEo12zoFYcfKQDsmudIqNj2dV1SH9UpVj8G4t+tpBjxJmiIt4yvLSPmEdAGc8d0kxmdKuaH8IgmCjMqFN1rhk4+oPYADGCTjYYvterX0DKvYVKhVe0gbntNcB5P1XBdqYikD7SzqxXajV/kCwWDkFHCFGXHkhMR2wVGffrRAgcqfdHhZmqpf1snYh96FRRK9K+2YYOn642WtSTF+eJOYSpL9n9wL/SyJbkesECNUT/KgFti01bxJHN2rT7TzcSP3WhIYcDQJi1sM9zh3hMmEkNd0aESYmu5wRuMkj9yIs9XqA==;XTBNU94D8Nb+cGIF9dzytQ=="
 ---

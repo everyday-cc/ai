@@ -58,6 +58,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "GPT AI Has Arrived in the Doctor's Office"
+    excerpt: "The sheer power of GPT has been transformative for the AI field, with chatbot ChatGPT raising ethical questions because of its human-like communication and sometimes incorrect answers. In medicine, interest in AI has boomed as a way to increase efficiency from drug discovery to patient diagnoses."
+    publishedDateTime: 2023-06-05T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-05/technology-behind-chatgpt-has-arrived-in-the-doctor-s-office"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imhf8114n0Mw/v1/1200x675.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Azure Government cloud gets access to OpenAI’s generative AI models"
+    excerpt: "Azure Government cloud infrastructure platform can now access the latest artificial intelligence models from ChatGPT creator OpenAI LP. The company said in a blog post that Azure Government users will be able to experiment with two of OpenAI’s large language models,"
+    publishedDateTime: 2023-06-08T01:14:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/azure-government-cloud-gets-access-openais-generative-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/microsoft-1.png"
+        width: 900
+        height: 506
+        isCached: true
   - title: "OpenAI boss 'heartened' by talks with world leaders over will to contain AI risks"
     excerpt: "The CEO of OpenAI says he is encouraged by a desire shown by world leaders to contain any risks posed by the artificial intelligence technology his company and others are developing"
     publishedDateTime: 2023-06-05T16:47:00Z

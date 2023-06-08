@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp"
 type: article
 quality: 87
-heat: 118
+heat: 117
 published: true
 
 provider:

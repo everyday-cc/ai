@@ -69,6 +69,20 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "WordPress Is Launching an AI Writing Assistant"
+    excerpt: "The new tool can create blog posts, change the tone of an existing post, or translate one language into another."
+    publishedDateTime: 2023-06-08T00:10:00Z
+    webUrl: "https://tech.co/news/wordpress-ai-writing-assistant"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2022/05/13111932/wordpress-website-e1652455213732.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
 
 secured: "BQnQDfw0k79/g5lKS1dhdDx4uFboo4BRTrwaAYyFf1luMO7aaAIbkPIM6fxFaEqh8xGVsnaAr2seJccgmueDzA6Z8G7xoFevlj8QF7Dt8yGMxhsHu87Ve3X8psLqLck7EzcBuoG43S8EIBhQCwLjI79JFJ3schlYpignyR7uj/ilRX3UAm7KuX6B7pOehHCQYXX6UB/CUCs0yTqf02fGj4iaKz959Uj51P5vqSjcLNhiIA9Dgx3gS3BAqCP35uAxmFJxvH6xJxU7iB7vWWtcr7iCNfRrg3qpgIy8RAIRHdXacI+xnA3NaWWrnoHQisWAK0E3Mwnt6/BKhSaxSbQqkAtJT+NO3HWgA5Q+vI2HhI/K2BoRf1sZ/SG2cs483STrjpNzF8QA/88k/Z/yU0nAwUBYsFIDwSZmMpT+i1hmlTMTpZRYC1275Dq0OUx0z53cAwrIDaP8hNXthnPwJFVVThpWzaaK+0BSRuHWxeP+LasP10w9bVMan61MSzYs0cPyx+SoLfJw4qfXuvVLpvb7GA==;wI0YRipnWYs/hAgU7BlNaA=="
 ---

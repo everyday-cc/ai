@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-08-uk-to-host-global-ai-safety-measure-summit-in-autumn.md",
+      "title": "UK to host global AI 'safety measure' summit in autumn",
+      "excerpt": "The government says the UK will host a global artificial intelligence (AI) summit this autumn to evaluate the technology's \"most significant risks\". There has been a slew of dire warnings about the potentially existential threat AI poses to humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/technology-65834085",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-65834085",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6AA6/production/_130020372_92c26ebb676b8889758a4bcb2a4a3ba7de125d6d.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-65834085.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65834085.amp",
+      "publishedDateTime": "2023-06-07T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-ai-meets-agriculture-with-new-farm-machines-to-kill-weeds-and-harvest-crops.md",
       "title": "AI meets agriculture with new farm machines to kill weeds and harvest crops",
       "excerpt": "Artificial intelligence is now hard at work on American farms. New machines are used to kill weeds and harvest crops, speeding up the process. NBC News’ Jacob Ward shows us how it works on one Central California farm.",
@@ -52,7 +94,7 @@
       "originalUrl": "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialized-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -76,6 +118,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-ai-system-devises-first-optimizations-to-sorting-code-in-over-a-decade.md",
+      "title": "AI system devises first optimizations to sorting code in over a decade",
+      "excerpt": "Sorting is so basic that algorithms are built into most standard libraries for programming languages. And, in the case of the C++ library used with the LLVM compiler, the code hasn't been touched in over a decade.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/",
+      "originalUrl": "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1403644222-800x533.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/",
+      "publishedDateTime": "2023-06-07T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -155,7 +248,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -258,7 +351,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1072,7 +1165,7 @@
       "originalUrl": "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1155,110 +1248,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing.md",
-      "title": "AI Is Here To Stay, But It's No Match For Humans In PR And Marketing",
-      "excerpt": "While AI chatbots like ChatGPT are poised to fundamentally alter the nature of work, now is not the time to panic. Armageddon is not upon us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632863e848add909c4b00d1b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/amp/",
-      "publishedDateTime": "2023-06-07T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-the-price-well-pay-for-our-ai-future-more-loneliness.md",
-      "title": "The price we'll pay for our AI future: more loneliness",
-      "excerpt": "Many Amercians already harbor this worry: A recent survey by the Pew Research Center found that one of Americans' top concerns with AI is the technology's inherent \"lack of human connection.\" Our time on earth is limited. While the convenience of AI could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/647653d9df2567001837c25c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp",
-      "publishedDateTime": "2023-06-07T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

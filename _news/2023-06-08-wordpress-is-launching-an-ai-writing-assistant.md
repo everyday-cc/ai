@@ -1,0 +1,89 @@
+---
+category: news
+title: "WordPress Is Launching an AI Writing Assistant"
+excerpt: "The new tool can create blog posts, change the tone of an existing post, or translate one language into another."
+publishedDateTime: 2023-06-08T00:10:00Z
+originalUrl: "https://tech.co/news/wordpress-ai-writing-assistant"
+webUrl: "https://tech.co/news/wordpress-ai-writing-assistant"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Tech.co
+  domain: tech.co
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://images.tech.co/wp-content/uploads/2022/05/13111932/wordpress-website-e1652455213732.jpeg"
+    width: 1920
+    height: 960
+    isCached: true
+
+related:
+  - title: "Automattic launches an AI writing assistant for WordPress"
+    excerpt: "WordPress.com owner Automattic launched a Jetpack AI assistant for the popular content management system on Tuesday."
+    publishedDateTime: 2023-06-07T21:27:00Z
+    webUrl: "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/"
+    ampWebUrl: "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/jetpack-ai-assistant.jpg?w=840"
+        width: 840
+        height: 481
+        isCached: true
+  - title: "WordPress's New AI Tool Can Write Entire Blog Posts For You"
+    excerpt: "The Jetpack AI Assistant uses large language models from ChatGPT's developer OpenAI. WordPress is incorporating ChatGPT-like technology through an AI-powered tool that can write entire blog posts for you."
+    publishedDateTime: 2023-06-07T15:30:00Z
+    webUrl: "https://www.pcmag.com/news/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/060tUMI8mtRg2xOSiP2UTQq-1.fit_lim.size_1200x630.v1686149363.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "WordPress is getting an AI assistant that will write blog posts for you"
+    excerpt: "Automattic Inc., the company that runs WordPress.com and contributes to the open-source WordPress content management software, today released a new artificial intelligence-powered tool that can help users write and edit blog posts."
+    publishedDateTime: 2023-06-07T16:31:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/wordpress-getting-ai-assistant-will-write-blog-posts/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/jetpack-ai-assistant-image.jpg"
+        width: 1263
+        height: 710
+        isCached: true
+  - title: "WordPress Now Has An AI Content Generator – Free Access Available"
+    excerpt: "Jetpack took the wraps off a new plugin called Jetpack AI Assistant to serve as a writing assistant for publishers. The plugin makes the AI assistant available within the WordPress editor block within a chat-like interface, what is known as a conversational user interface."
+    publishedDateTime: 2023-06-07T08:58:00Z
+    webUrl: "https://www.searchenginejournal.com/wordpress-ai-content-generator/488669/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 39
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/06/wordpress-ai-64804284de84c-sej.jpg"
+        width: 1600
+        height: 840
+        isCached: true
+
+secured: "ePCBzP4yba8lwzmIJfuqP5fPKH271IMNMLnV8TwcB+wjyjd5PerHfIkdGICSSbHdqZ3TwDFIzcl7D8iTPnOQSRCgC1eMh1CzokCNwXjBY3woymmFv3sZ367xRkeRqAqyT/kI5KyE8jvbf/F4t9+0AQTu+1qV1xtidQ/Tdcnj2lhAvXmn+jB3fSgliifmR/Lqgi800mgFdGE4j4M8DWtNshMJfyA9doEHYCexLl+ayMmqMu1vpzEempnuB1Yu0qPMMvRc9qJ7r4UuSDJTAnRA5stkYcIDFcnFmmj0xy0mq7X9qOBiO56chb1f148ImWS7QWqwCjlvpmdtpcVDmUtSJ15nanTSu0Y9SZQVIDf4cwQ=;xTtGb+gWFvoTBD2s5gajig=="
+---
+

@@ -2,6 +2,126 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-04-07-ai-desperately-needs-global-oversight.md",
+      "title": "AI Desperately Needs Global Oversight",
+      "excerpt": "This is not a group for research alone ... to clarify that the Facebook Oversight Board is funded by Meta through an independent trust. Rumman Chowdhury is a Responsible AI Fellow at the Berkman ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-desperately-needs-global-oversight/",
+      "originalUrl": "https://www.wired.com/story/ai-desperately-needs-global-oversight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-artificial-intelligence-ai-chips-market-2023-with-latest-growing-cagr-status-leading-players-till-2030.md",
+      "title": "Artificial Intelligence (AI) Chips Market 2023 with Latest Growing CAGR Status & Leading Players till 2030",
+      "excerpt": "Chips Market Research Report give analysis of industry development growth opportunities, Trend till 2029. Artificial Intelligence (AI) Chips Market detailed analysis of business is mainly cover by Application [ Natural Language Processing (NLP),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-with-latest-growing-cagr-status-leading-players-till-2030-2023-04-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-with-latest-growing-cagr-status-leading-players-till-2030-2023-04-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-multi-class-classification-using-a-scikit-neural-network.md",
+      "title": "Multi-Class Classification Using a scikit Neural Network",
+      "excerpt": "Dr. James McCaffrey of Microsoft Research says a neural network model is arguably the most powerful multi-class classification technique. A multi-class classification problem is one where the goal is to predict the value of a variable where there are three ...",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/articles/2023/04/03/scikit-neural-network.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2023/04/03/scikit-neural-network.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-meta-unveils-ai-model-that-can-detect-items-within-images.md",
       "title": "Meta unveils AI model that can detect items within images",
       "excerpt": "Meta has teased several features that deploy the type of generative AI popularised by ChatGPT, which creates brand new content instead of simply identifying or categorizing data l",
@@ -819,117 +939,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-cognitive-services-global-market-report-2023.md",
-      "title": "Cognitive Services Global Market Report 2023",
-      "excerpt": "Cognitive services are a set of tools and frameworks ... For instance, in May 2022, Microsoft Corporation, a US-based technology company expanded the Azure OpenAI service with the help of InstructGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105956934/Cognitive-Services-Global-Market-Report-2023",
-      "originalUrl": "https://menafn.com/1105956934/Cognitive-Services-Global-Market-Report-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-speech-and-voice-recognition-market-to-be-worth-6752-billion-by-2030-exclusive-report-by-meticulous-research.md",
-      "title": "Speech and Voice Recognition Market to be Worth $67.52 Billion by 2030 - Exclusive Report by Meticulous Research®",
-      "excerpt": "‘Speech and Voice Recognition Market by Function (Speech, Voice Recognition), Technology (AI and Non-AI), Deployment Mode (Cloud-based, On-premise), End User (Consumer Electronics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g31698924/speech-and-voice-recognition-market-to-be-worth-67-52-billion-by-2030-exclusive-report-by-meticulo",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g31698924/speech-and-voice-recognition-market-to-be-worth-67-52-billion-by-2030-exclusive-report-by-meticulo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-ai-machine-learning-predicts-alzheimers-disease-risk.md",
-      "title": "AI Machine Learning Predicts Alzheimer’s Disease Risk",
-      "excerpt": "The AI machine learning model revealed that age ranks first among all features in the age 40+ group and that the genetic effects reflected in the polygenic risk scores become more important than age for individuals aged 65 and older for predicting Alzheimer’s disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-04/pic77878%5D.jpg?itok=A8DBJyRM",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk?amp",
-      "publishedDateTime": "2023-04-06T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

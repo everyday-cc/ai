@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-it
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -68,6 +68,22 @@ related:
       - url: "https://i.cbc.ca/1.6864030.1685732571!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/david-beaver.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "AI Chatbots Offer Comfort To The Bereaved"
+    excerpt: "Staying in touch with a loved one after their death is the promise of several start-ups using the powers artificial intelligence, though not without raising ethical questions."
+    publishedDateTime: 2023-06-08T01:29:00Z
+    webUrl: "https://www.barrons.com/news/ai-chatbots-offer-comfort-to-the-bereaved-c58e926a"
+    ampWebUrl: "https://www.barrons.com/amp/news/ai-chatbots-offer-comfort-to-the-bereaved-c58e926a"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-chatbots-offer-comfort-to-the-bereaved-c58e926a"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1012993008938145891848327800656702415566---1.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "Instagram might be working on an AI chatbot"
     excerpt: "According to the leaks, users can choose from 30 different AI personalities, who can also help users write messages."
