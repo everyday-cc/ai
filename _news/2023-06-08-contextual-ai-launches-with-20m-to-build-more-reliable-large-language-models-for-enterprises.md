@@ -68,15 +68,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "How to Be Smart About Artificial-Intelligence ETFs"
-    excerpt: "With all the attention on ChatGPT, here is how to choose an AI fund. They’re not all alike."
-    publishedDateTime: 2023-06-03T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/investors-flock-etfs-focused-ai-artificial-intelligence-33676b0"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 32
   - title: "How to develop artificial super-intelligence without destroying humanity"
     excerpt: "Sam Altman, the founder of the revolutionary application Chat-GPT, is touring Europe with a message: AI is changing the world and there are big risks, but also big potential rewards"
     publishedDateTime: 2023-06-07T01:01:00Z

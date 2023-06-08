@@ -2,9 +2,9 @@
 category: news
 title: "‘Black Mirror’ Creator Tried To Get Artificial Intelligence To Write An Episode, But It Was ‘Sh*t’"
 excerpt: "The hit Netflix show’s creator, Charlie Brooker, enlisted ChatGPT to help draft an episode ahead of the Season 6 premiere."
-publishedDateTime: 2023-06-07T00:21:00Z
-originalUrl: "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b"
-webUrl: "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b"
+publishedDateTime: 2023-06-07T04:22:00Z
+originalUrl: "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b?ncid=engmodushpmg00000004"
+webUrl: "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b?ncid=engmodushpmg00000004"
 ampWebUrl: "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b/amp"
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b/amp"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 629
     isCached: true
 
-secured: "tiQl0aLoUMOHFpsiLBgD5Uk3Ps0fvlgEWwWIxJ6V2zxb7umQ1JagitskrPXYXAe32CXzmdqxHKhaMt3jHrMjCoysUwtfhPeJOC6sBC8CK2Gh0LF0MDJ6EQb8dyCSM/M7LMw8pywJr9uGhDU+toiPQ360oUo4uX2qRpy23EyPhQvpezHAD5RvBFjQTPjiJW0Ir8Hj4ShT0RSJxblz/mVSmjwd6OGj5X1jUVtpoVfleH6WoZb8cUfcSe2kENZ0eqwcjErbEF8XCSmpzI7udsHCymOH14kZ5ftdVo4miNOOiyrqg8AdIQq3iOTJ5UUXG60E+2yk7Ib5oA6reF1A9/ao+idhAkC7kEJ59z1sVNJRLgY=;JXAs9yuw6Fvnt1vBqfp5Ng=="
+secured: "pR1aQ9EFfEkFTm+HAPHQTN6sTDGSaZf1U6kanYqoum1fJmWBM3B7yIMKt9rcHdYwIcT9vQNg/8me8nicAdGQNkx/ji/tdOXQSNAbRMwgQ0Ygq8lSpcKVy/4U8epugaC0zJpsY8B4reqIWla4AcUDkGGryeigHdPUyRgZIJHyvc+Gw3AyOi/yibz5ORNoxV11sbNGEYkmMtPH4SQpf6V8wykmQDY+sfSVwVmD0zm6juLnOcGOOxkL1elhQ7CkLWZzvOa/tBwoaYdUm+vvqJHG+/Jxe3ak01KhZx0dUMrm44t8RGDwTgXTofn74dbdkQZfpB+TpgqFWwi7y3BWwj4ouVzY+8/My3E6V42tAPZAFiE=;hoZcL9pNOB6fSAWczZNJjA=="
 ---
 

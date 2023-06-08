@@ -2,6 +2,60 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-06-the-future-of-education-disruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5.md",
+      "title": "The Future Of Education - Disruption Caused By AI And ChatGPT: Artificial Intelligence Series 3 Of 5",
+      "excerpt": "It is crucial for educational systems to adapt quickly and integrate AI into teaching/learning. However, educational systems are slow to adapt and full of bureaucracies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/",
+      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647e8876a92e58b45e214425/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/",
+      "publishedDateTime": "2023-06-05T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-apple-avoids-ai-hype-at-wwdc-keynote-by-baking-ml-into-products.md",
       "title": "Apple avoids “AI” hype at WWDC keynote by baking ML into products",
       "excerpt": "Amid notable new products like the Apple Silicon Mac Pro and the Apple Vision Pro revealed at Monday's WWDC 2023 keynote event, Apple presenters never once mentioned the term \"AI,\" a notable omission given that its competitors like Microsoft and Google have been heavily focusing on generative AI at the moment.",
@@ -760,7 +814,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1195,58 +1249,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-getting-started-with-mqtt-in-azure-event-grid.md",
-      "title": "Getting started with MQTT in Azure Event Grid",
-      "excerpt": "Those events could also be stored in Azure Data Lake, where analysts can use tools like Data Explorer to extract insights from device data and use that data to train machine learning-powered control systems. Azure Event Grid is an important component of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.html",
-      "originalUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/02/shutterstock_1748437547-100937033-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.amp.html",
-      "publishedDateTime": "2023-06-05T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

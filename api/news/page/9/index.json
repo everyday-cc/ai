@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-06-01-crypto-rues-bitcoins-decoupling-from-ai-fueled-tech-stock-gains.md",
+      "title": "Crypto Rues Bitcoin’s Decoupling From AI-Fueled Tech Stock Gains",
+      "excerpt": "Crypto fans are now paying a price for Bitcoin’s weakened correlation with technology stocks. The top digital asset posted a monthly slump in May for the first time in 2023, while the Nasdaq 100 added almost 8% amid hype over artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-01/crypto-rues-bitcoin-s-btc-decoupling-from-ai-fueled-tech-stock-gains",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-01/crypto-rues-bitcoin-s-btc-decoupling-from-ai-fueled-tech-stock-gains",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUwJ9FEJpp60/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-nvidias-ceo-plans-trip-to-meet-chinese-tech-executives-despite-us-curbs-on-ai-chips.md",
       "title": "Nvidia’s CEO plans trip to meet Chinese tech executives despite US curbs on AI chips",
       "excerpt": "Nvidia CEO Jensen Huang is heading to China to meet with executives from Tencent, ByteDance and EV makers Li Auto and BYD, despite rising tensions between Washington and Beijing.",
@@ -1132,57 +1183,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding.md",
-      "title": "Hyro doubles down on plug-and-play AI assistants with $20M funding",
-      "excerpt": "Hyro, a company offering plug-and-play AI assistants for enterprises, today raised $20 million in a series B funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding/",
-      "originalUrl": "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_734436697-e1685544872753.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

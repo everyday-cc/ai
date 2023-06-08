@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-05-31-universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai.md",
+      "title": "Universities As Vistas Of Intellectual Conflicts In The Age Of AI",
+      "excerpt": "Our best hope for AI is that it advances individual freedom. That it presents more options, not more homogeneity. That the freedom to choose and free will still prevail.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mungchiang/2023/05/30/universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/mungchiang/2023/05/30/universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64762bce971f36c972996729/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mungchiang/2023/05/30/universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mungchiang/2023/05/30/universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai/amp/",
+      "publishedDateTime": "2023-05-30T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training.md",
       "title": "Amazon SageMaker XGBoost now offers fully distributed GPU training",
       "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
@@ -809,8 +861,8 @@
       "title": "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis",
       "excerpt": "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients.",
       "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/press-releases/article275901341.html",
-      "originalUrl": "https://www.miamiherald.com/press-releases/article275901341.html",
+      "webUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
+      "originalUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -823,8 +875,8 @@
       "publishedDateTime": "2023-05-30T04:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1138,58 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-nortons-new-super-naked-cafe-racer-is-highly-saucy-way-too-pricey.md",
-      "title": "Norton's new super-naked cafe racer is highly saucy, way too pricey",
-      "excerpt": "Norton has made good on its threat to turn its slinky V4SV superbike into a cafe racer – without neutering its rorty 1200cc V4 engine. The new V4CR carries an absolutely brutal price tag, but a ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/motorcycles/norton-v4cr-cafe-racer/",
-      "originalUrl": "https://newatlas.com/motorcycles/norton-v4cr-cafe-racer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/b438591/2147483647/strip/true/crop/1013x532+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fca%2Fb7%2F272f2e404139a49750dc2dcb84b0%2Fv4cr-video-thumb-01.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

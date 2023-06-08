@@ -35,6 +35,20 @@ related:
         width: 1823
         height: 1070
         isCached: true
+  - title: "Vision Pro: I just tried Apple’s first spatial computer, and here’s what I think"
+    excerpt: "Apple officially unveiled its new Vision Pro headset, which it describes as a “revolutionary spatial computer.”"
+    publishedDateTime: 2023-06-07T14:58:00Z
+    webUrl: "https://9to5mac.com/2023/06/05/hands-on-apple-vision-pro-mixed-reality-headset/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 19
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/CleanShot-2023-06-05-at-18.00.21@2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "H3Ar4O3DLZg6dlpHD+SEcOAf9O2uEbpsIJHzYvtwOcetn6UzavlYIJETDLm2F5gIzJxZ+9k0paTxLAUTlxthz/N/R33eFq+W4RumfA+KHQvASzKVoiKnMEY7297UHUXFcSAVuUg2zng3FqsQpvxTzZIWCkI+9fm/IOhdGV86ME+eUPd6uOYF7z6JrJAW9JYhYHt/JHzM4QYb1MDyxVLzKAEXQ3XEnIzgBg+pw/I4FywUjr8Km7RDIer/P6E78MzqMUkT5Dq1SOubVRsM8PgO1b3nYsLb41fibC7QfMFbnoMz7xphYspxwUwjGkXhyAgTT3cykvIWiKRcuUyasyg9ZUWWgVzbB2roPy40iHl8QziCLV11DdNvg1lqd/RFU64GZTaFpyE9nBJ/FUkP6KWPa3VslcerLwGPo/GJhAC0kI57HA5Jn3R7Xo1L30FDYNBvvhVEq6xfhXymIwASjyErW3o6V+Q4aESuxpHW5Z+rHGogDey+GsjfiyUyC7amZ81ecphBSapaZz3G/IHsl6JQFQ==;IPVZbBsTA1B82/PGSmjbag=="
 ---

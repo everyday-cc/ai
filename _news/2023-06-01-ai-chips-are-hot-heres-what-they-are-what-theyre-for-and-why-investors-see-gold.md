@@ -3,10 +3,10 @@ category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
 excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
 publishedDateTime: 2023-06-01T13:10:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 558
     isCached: true
 
-secured: "sIWHzUBPBRQhmEsY6kp6fM3Jf2p1SZV2LMRmbRQI9Js/3UZcaebkBsfQtKvZPdSQ093piruU1NeQGZ0FdaT12an06vGEiFxqZBMCKIwPCUu9WeF5835AWlrljwAd+iWZiz1JtWA4Q3VuHqgMWIdGIlSQabFQO33zwujkwoZ5ucbiKvqCpxyQ1LEN/xs4mF+51W/02X1DDfU89DNsSYMWoK9ZospJTwQv8WVkpCgdde4mHGc1XPW53bFtqJku4zqsbnVbqmrb34kbcDZ3YPfv98Wl99EAWDFIqW0aw2dGbr9nJ0R8hBdbqk3f0PFs1oHP+O08g1Z1tWcOqCWTpIpI5NHlNEsKkWM75pVQxgY7k7M=;ih65BVdBLGm9749C3sKwzw=="
+secured: "QaG9wPogyo3usO+fuxY3fylp42lnk+oBiTKTz/HZzoyXk1mTCIiiELg9lVVdsfRR1aCvCWSpP2o0lRurN+U+Y6WxEf81/9HIfv5CInSyP48Aw9eGpL9/hQoJJ1261OOIf1BjwWhC0DxiIwHDnTahcTxwdgWlJFGhLnXQ/ohDEgKGQD/9+4N4S77g6s0j/+zO88ntFE/ME8L8DMqYNosmj2OWglClnYvkHSIJ3PiHDSLiZLWIbnNAip8ktBa6vldHxpVSIk0m4O8tNFdfPu34cP3+Aiwwo4+eORjZclalIMLCQoeDU+9nEhbqGHFAQ33S1fs6ULFFsumlcn+x052cHuVHcQDqByeDhkh1zQlBYHI=;YbwX+nPUFpMUKsN6o5QjMA=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Can the yes campaign overcome the cold political calculus of Australia’s voice referendum?"
+    excerpt: "The fact is negative campaigning works. Doubt – or its energised cousin, fear – always has a head start"
+    publishedDateTime: 2023-06-08T04:03:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jun/08/can-the-yes-campaign-overcome-the-cold-political-calculus-of-australias-voice-referendum"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/08/can-the-yes-campaign-overcome-the-cold-political-calculus-of-australias-voice-referendum"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/08/can-the-yes-campaign-overcome-the-cold-political-calculus-of-australias-voice-referendum"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/8514486a7c66bf18cabfb55a6c1fa619bf25c19b/0_0_3128_2085/master/3128.jpg?width=620&quality=85&auto=format&fit=max&s=db9fba0db951da807fafee1ca60e4e96"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Australia takes steps to tackle the dangers posed by artificial intelligence"
     excerpt: "Regarding the potential dangers posed by artificial intelligence the Australian government has launched an examination into AI technology"
     publishedDateTime: 2023-06-07T10:46:00Z

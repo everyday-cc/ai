@@ -42,15 +42,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Gmail's new machine learning models will improve your search results"
-    excerpt: "Gmail can already do some pretty cool things, like letting you filter results based on the type of attachments, date, labels, and so on. But this should make searching less cumbersome, especially if you have a lot of emails bearing the same or similar keywords."
-    publishedDateTime: 2023-06-03T12:00:00Z
-    webUrl: "https://www.androidpolice.com/gmail-app-machine-learning-relevant-search-results/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 34
 
 secured: "tkRqrNpeC1X5xZSMugAtmgIiYukz8m3tPaBPsgSHSA8tWlivS+SfYPtqC68NfPGW14ud9xMoJONRpOHNJnP0qlQiHsFRYx/mUf0N5IEeCRLevRZxq0B5qLoSh3pbrDNAEgqBk+bRSlj/LKG403xg0NsaVRsYnXC2W230u15IsuCD5/Le0bgqFxI/NXdGDHsd9hOjuCrrWXownOHY2HYZKC1upCT5ZKh2fJNatUEtA4T4NpJOzAeYdfFestvARBx+HIxk8qw1rgPWe1lt0j32/vkMeFFUV9GtrE9SWof2et8lmsD+vMnwZjVlZBUZGD/0BDXvhlnCo8p5NRaBkzT6pbtP4RTW1jhg/XlrPcHbJ6j4nQOrKzwaBK/zZsIc0rw9XLfADBAxSmAnfhhII0M6fVcpJS1nBs4N7lj4RXJR0vHI/pI4vYC/yEnezuWb6bi84o0UPRsBX0vP4AG5p8Y6sILRDTEUfmro2ms9GYOWsaz0I6Wkfd+QWeLrkIJ1J9PWARL/5jupfJiieOHFp9rw2A==;4OLjhBwjUXqao7ZdKG2XaQ=="
 ---

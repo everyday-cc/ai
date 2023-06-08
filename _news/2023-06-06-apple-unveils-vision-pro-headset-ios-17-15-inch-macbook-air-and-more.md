@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "I Tried Apple's $3,499 Vision Pro Headset and It's Incredibly Impressive"
+    excerpt: "Apple’s Vision Pro is a spatial computer that packs a bunch of hardware, including both the company’s M2 Chip and a new R1 chip, 12 cameras, and a multitude of sensors. It’s also running an entirely new platform: Vision OS. The result is a headset ..."
+    publishedDateTime: 2023-06-08T03:09:00Z
+    webUrl: "https://www.thestreet.com/deals/apple-vision-pro-headset-hands-on"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 3
 
 secured: "KhpeCgUj+/XveQsuzMHcao79Ct7GVye18okqit6+NHNS17kbOmtOvTD0qswkrqmamyBFzXeaADAN9OQfBftHM7Q7pzOWFHre7xwODi4p77t0sRTuQ0Weft3elOjiXuNK86p/6F/8+PmQUIyQlnQQXoZQlDEaN76Qz9tjCusyC0T24O+chEo5TMg6OpfTG9n/Kl55S9nVTNhNTyPQdmqxzHwvvYKTRaGAqZwcV0sqLAj/oW4pxC7bvzksSAQd+UN49tVMq1DzxNaEH9rpsarWLwebh54LV06nsBsH2oHv6vvqj1SH2IyUnYspckx/gAu1z8DGpKMZV45wgLHQ6WAEVh4YmPo1QJEps9up6wNd1VU=;MOXoxZSkYOkbhmxib1dL2A=="
 ---

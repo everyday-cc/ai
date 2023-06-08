@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Can the yes campaign overcome the cold political calculus of Australia’s voice referendum?"
+    excerpt: "The fact is negative campaigning works. Doubt – or its energised cousin, fear – always has a head start"
+    publishedDateTime: 2023-06-08T04:03:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jun/08/can-the-yes-campaign-overcome-the-cold-political-calculus-of-australias-voice-referendum"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/08/can-the-yes-campaign-overcome-the-cold-political-calculus-of-australias-voice-referendum"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/08/can-the-yes-campaign-overcome-the-cold-political-calculus-of-australias-voice-referendum"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/8514486a7c66bf18cabfb55a6c1fa619bf25c19b/0_0_3128_2085/master/3128.jpg?width=620&quality=85&auto=format&fit=max&s=db9fba0db951da807fafee1ca60e4e96"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Australian Institute of Architects supports the Voice to Parliament"
     excerpt: "The Australian Institute of Architects has announced its support for the Indigenous Voice to Parliament in the upcoming referendum."
     publishedDateTime: 2023-06-06T07:08:00Z

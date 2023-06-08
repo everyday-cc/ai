@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-25-gigantor-technologies-announces-uspto-allowed-next-patent-for-artificial-intelligence-target-recognition-using-novel-synthetic-scaling-technique.md",
+      "title": "Gigantor Technologies Announces USPTO Allowed Next Patent for Artificial Intelligence Target Recognition using Novel Synthetic Scaling Technique",
+      "excerpt": "\"Our approach to processing multiple scales in parallel has significant implications for the field of AI, particularly in areas such as object recognition and target tracking. By applying the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230425005728/en/Gigantor-Technologies-Announces-USPTO-Allowed-Next-Patent-for-Artificial-Intelligence-Target-Recognition-using-Novel-Synthetic-Scaling-Technique",
+      "originalUrl": "https://www.businesswire.com/news/home/20230425005728/en/Gigantor-Technologies-Announces-USPTO-Allowed-Next-Patent-for-Artificial-Intelligence-Target-Recognition-using-Novel-Synthetic-Scaling-Technique",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-face-recognition-software-market-new-development-strategy-2023-2030-fully-explained.md",
       "title": "Face Recognition Software Market New Development Strategy [2023-2030]| Fully Explained",
       "excerpt": "The \"Face Recognition Software Market\" Report covers the global and regional market with an in-depth analysis of",
@@ -1308,49 +1342,6 @@
       "provider": {
         "name": "VietnamPlus",
         "domain": "vietnamplus.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-the-most-valuable-object-to-sink-with-the-titanic-was-a-colossal-neoclassical-painting-heres-the-paintings-unusual-backstory.md",
-      "title": "The Most Valuable Object to Sink With the Titanic Was a Colossal Neoclassical Painting. Here’s the Painting’s Unusual Backstory",
-      "excerpt": "Merry-Joseph Blondel's little-known 19th century Neoclassical work had the highest insurance claim of any single item. Learn about it here.",
-      "sourceUrl": null,
-      "webUrl": "https://news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910",
-      "originalUrl": "https://news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.artnet.com/app/news-upload/2023/04/Willy-Stoewer_Titanic_1912-scaled.jpg",
-          "width": 2560,
-          "height": 1742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910/amp-page",
-      "cdnAmpWebUrl": "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/titanic-111-anniversary-merry-joseph-blondel-2282910/amp-page",
-      "publishedDateTime": "2023-04-13T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Artnet",
-        "domain": "artnet.com",
         "images": null,
         "publishers": null,
         "authors": null

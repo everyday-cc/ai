@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-05-31-hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding.md",
+      "title": "Hyro doubles down on plug-and-play AI assistants with $20M funding",
+      "excerpt": "Hyro, a company offering plug-and-play AI assistants for enterprises, today raised $20 million in a series B funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding/",
+      "originalUrl": "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_734436697-e1685544872753.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-10-ways-gpt-4-is-impressive-but-still-flawed-the-new-york-times.md",
       "title": "10 Ways GPT-4 Is Impressive but Still Flawed – The New York Times",
       "excerpt": "When Chris Nicholson, an A.I. expert and a partner with the venture capital firm Page One Ventures, used GPT-4 on a recent afternoon, he told the bot that he was an English speaker with no knowledge of Spanish.",
@@ -1144,59 +1195,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-the-future-of-generative-ai-beyond-chatgpt.md",
-      "title": "The Future Of Generative AI Beyond ChatGPT",
-      "excerpt": "Step into the future of artificial intelligence as we explore its extraordinary potential, from next-generation language models to generative design and gaming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 321,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6476f9bd5141e2d7f0a62ddd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/amp/",
-      "publishedDateTime": "2023-05-31T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

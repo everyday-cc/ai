@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Vision Pro: I just tried Apple’s first spatial computer, and here’s what I think"
+    excerpt: "Apple officially unveiled its new Vision Pro headset, which it describes as a “revolutionary spatial computer.”"
+    publishedDateTime: 2023-06-07T14:58:00Z
+    webUrl: "https://9to5mac.com/2023/06/05/hands-on-apple-vision-pro-mixed-reality-headset/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 19
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/CleanShot-2023-06-05-at-18.00.21@2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Apple Vision Pro headset: what does it do and will it deliver?"
     excerpt: "In terms of technical specifications, the Vision Pro is impressive. It uses a combination of the M2 microchip and a new chip called the R1. M2 is running visionOS, which Apple calls its first spatial operating system, along with computer vision algorithms and computer graphics generation."
     publishedDateTime: 2023-06-06T18:03:00Z

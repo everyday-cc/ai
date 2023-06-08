@@ -72,15 +72,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "How to Be Smart About Artificial-Intelligence ETFs"
-    excerpt: "With all the attention on ChatGPT, here is how to choose an AI fund. They’re not all alike."
-    publishedDateTime: 2023-06-03T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/investors-flock-etfs-focused-ai-artificial-intelligence-33676b0"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 32
   - title: "Contextual AI launches with $20M to build more reliable large language models for enterprises"
     excerpt: "Palo Alto, California-based Contextual AI raised the capital from a group of investors led by Bain Capital Ventures. The investment firm was joined by Lightspeed Venture Partners, Greycroft and SV Angel."
     publishedDateTime: 2023-06-07T21:14:00Z

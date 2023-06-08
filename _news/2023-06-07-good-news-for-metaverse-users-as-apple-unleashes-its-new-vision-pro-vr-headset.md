@@ -34,6 +34,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "I Tried Apple's $3,499 Vision Pro Headset and It's Incredibly Impressive"
+    excerpt: "Apple’s Vision Pro is a spatial computer that packs a bunch of hardware, including both the company’s M2 Chip and a new R1 chip, 12 cameras, and a multitude of sensors. It’s also running an entirely new platform: Vision OS. The result is a headset ..."
+    publishedDateTime: 2023-06-08T03:09:00Z
+    webUrl: "https://www.thestreet.com/deals/apple-vision-pro-headset-hands-on"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 3
 
 secured: "8s+EOFX1T9Z1eQInJhd9UoVr6pnFEjbUWNkrBUF5xz9/90eyfhHlxQUuhsKwJPSdLxyhsdbCfbJJsd4ASsE6N378bNd+kxaSIWWn/K36/3KFVO6SIMvh3eTkMICAqWNg578D6kuXLptBNSTFg1munQm2HjQ04yyqMt69MIuJnluco1GB8FsNvvsTpPt+W8X8n6ggfgAM3St9KULPZjBWyvHWwbbeJRtHM5CPzYFrMNENkMBIJKqdbpSMHjBPJyO8finMf27jLbTw+71N3JL/jJPTusUrxv+mAj+yteQnz2dTOla6sAUhCjD+OAUYYiHDDX4rnYIWIC3HhZUBQci2hPesGrFKvzO3GmxsiiTbTNaE3hPFiMj0YjUtOAUrmxLEhzhix8T5OKfwghgXOI9ST3SLwc6+WFh0FzQkCqV1WcxGIOwGzpjC+jFpu0bb0eoHbSQKsu5dOKCOP/LjipGaoMpsPE5mxLCjvuYo4yIFz1DsxlmezLHB1HDKFLE/SAWAvpzG783Jp1sNGdwfhQYuhQ==;SuzgQxwfWTGre/sauNcEIA=="
 ---

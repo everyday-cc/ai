@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/98937-google-using-machine-learning-
 webUrl: "https://www.techspot.com/news/98937-google-using-machine-learning-models-speed-up-gmail.html"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Gmail's new machine learning models will improve your search results"
-    excerpt: "Gmail can already do some pretty cool things, like letting you filter results based on the type of attachments, date, labels, and so on. But this should make searching less cumbersome, especially if you have a lot of emails bearing the same or similar keywords."
-    publishedDateTime: 2023-06-03T12:00:00Z
-    webUrl: "https://www.androidpolice.com/gmail-app-machine-learning-relevant-search-results/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 34
 
 secured: "nWU2qwqzlWxHinQ/ngqKrEJpNdwcmOkZZCGgqNjD4iJcEbkoXr06Qkavd2iuURaSld81riPjkoLi9HhhJZuYxJMxg9ZlFkP0H/o2D0Z1ggnM8C6cJycEOM8CsGgfJFkt9dzy3mBicgeQJhuXyB9IkHpjdDCa5WxHE2LvqZr10DZHKi/DDbcYrGSuratbjSnsiMEGvwvtTc0+0islGk8AX8mOTwyggbqITnaS6uChBKZUhSEB1QgNpAnbWZLVvslNUPYFLNsiX4cGPYlj3AtfI/XmvP8xjgdmlUx9lcKCul6dKzgdETql1GzOM9365b/mrHL/XB0F0lmJ+oEwHf0DNSNlf9PgyjPpcwZTjlO5YVIMlfrwah4K3S67d92tSm6gEk8tLw2uSLLSOJk0AJgGhFdX71toCl2LaP+0PbqQBJvGPp/kGNg9MUi5peuJKlzh1N0R2sQL7qYJmJ52i76/Lo9LJMmnO7uMu55B3LpUSJzSn7npqJ+Z3MVLJDhOXYnRyPMpeMrSmH3WCGs+IjT6jg==;7CaJyCjSznYrKaUuTcjFUA=="
 ---

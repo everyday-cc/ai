@@ -2,6 +2,40 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2023-04-16-baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow.md",
+      "title": "Baidu Apollo Releases Major Product Updates to Help Manufacturers Build Smarter Cars for Tomorrow",
+      "excerpt": "Baidu Apollo City Driving Max is upgraded with \"lightweight HD map\", which is 80% \"lighter\" compared to traditional HD maps. Baidu's Apollo Highway Driving Pro will be deployed on Black Sesame Semiconductor's Huashan II A1000 chip computing platform and will be officially released in Q3 this year.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/16/9795077.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/16/9795077.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-16-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
       "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
       "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
@@ -1098,57 +1132,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-a-chinese-company-is-reportedly-planning-to-replace-some-human-copywriters-and-graphic-designers-with-ai.md",
-      "title": "A Chinese company is reportedly planning to replace some human copywriters and graphic designers with AI",
-      "excerpt": "Some news sites have already experimented with using AI models to write articles and other types of media content, including BuzzFeed and CNET. Insider's global editor-in-chief recently announced its newsroom will start experimenting with ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4",
-      "originalUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/643965fb028f6800183d9a7a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-to-replace-some-copywriters-graphic-designers-ai-report-2023-4?amp",
-      "publishedDateTime": "2023-04-14T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

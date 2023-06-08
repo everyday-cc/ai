@@ -7,7 +7,7 @@ originalUrl: "https://www.news-journal.com/news/business/ai-chips-are-hot-heres-
 webUrl: "https://www.news-journal.com/news/business/ai-chips-are-hot-heres-why-investors-see-gold/article_6d44afb2-03b2-11ee-bc1f-e72181d9132a.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chips: Here’s what they are, what they’re for, why they’re hot"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed spec"
-    publishedDateTime: 2023-06-03T13:05:00Z
-    webUrl: "https://www.columbian.com/news/2023/jun/03/ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 54
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
     publishedDateTime: 2023-06-04T04:00:00Z
