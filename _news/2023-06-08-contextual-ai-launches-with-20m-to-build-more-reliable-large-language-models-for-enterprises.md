@@ -32,7 +32,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_dollar_bills_flying_out_of_a_computer_b43d3a39-ce5b-4104-930c-4893233dd616.png?w=1200&strip=all"
         width: 1200

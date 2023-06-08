@@ -2,12 +2,12 @@
 category: news
 title: "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
 excerpt: "The Mark Cuban Foundation’s Artificial Intelligence Bootcamp Initiative Teaches AI Concepts to Underserved High School Students through a 4-Saturday Bootcamp in the Fall. CHICAG"
-publishedDateTime: 2023-06-06T20:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/06/06/9827727.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/06/06/9827727.htm"
+publishedDateTime: 2023-06-06T18:46:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/06/9827727.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827727.htm"
 type: article
-quality: 3
-heat: 3
+quality: 1
+heat: 1
 published: false
 
 provider:
@@ -17,8 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
-  - AI in Robotics
 
-secured: "tVcMCkIyguW+zyE9tp6qsI/T/18+akLSZwiZVy5o/nCdaTu+NvJz4ZNFHJp6tWRVW2xaxU5z2Kjy4d+xYCvG4TcG+AomezR4Q66JbMlOrCLAhf/ZeJKfzWaQ5a4DS60zgsSFLdghB5UXTQEWF2UtaagBjgPZjK95S0ADatWp4b3BUGA/UqRfKnu9GhGkWA6IQQD2Iz3XN8qkUc1ONhmgCaM8SgzFa8MDRMMAGkrVR+AKwNUIP6bdRbDyW1zsPPs7Fp0/VlBFyhlwnAajLld3Y06fOQFoXQFCN1au0d+4z4uMwTcWZbS+W273yy1U54hYvY+muj+UkXFQsuJ4jfMbCH4EYYDL4a0uKsgSfOXzGIc=;LpyDfFQf7Ny4U9Fs+00H9A=="
+secured: "dGIqv77NK5HGXhv8/iVc5eK9lpW6DZWgSiPPBrW1znzw9knk2v+3IpBhR4JOT4hsmloK0Jjtm/4heUY8vcDsuydMfmBG+2RxCH/uFfv7SyQlsUBX4QNyEIyQq0yzOunZ0j3CugsPj7nXqFV7uiZRwFFnrRvNMkDPmw+QL9g0jdJf3I+L9kGJG8e+LMJZusfG5xzgJTIW5ImCLLhhYsYWeHdWDneF54f4+6AXKEqtv/l3hFf0Yr9/vw5vsylO8owfu+0qVvblRiKUpZhxlEHezDNIq5eWqixpEwupf0zxOdxcHVe6+1HIF8ZMKVKByA3K7bmEHV98mZfO98reGOQY3EKvsOFR5R9ECPxWv/hdVY4=;a7+9X8Gi76TGNr2umtuZqQ=="
 ---
 

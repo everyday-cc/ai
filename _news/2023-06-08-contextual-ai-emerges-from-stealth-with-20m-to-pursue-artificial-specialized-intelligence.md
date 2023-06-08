@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-07T23:18:00Z
 originalUrl: "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialized-intelligence/"
 webUrl: "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialized-intelligence/"
 type: article
-quality: 56
-heat: 107
+quality: 58
+heat: 109
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_dollar_bills_flying_out_of_a_computer_b43d3a39-ce5b-4104-930c-4893233dd616.png?w=1200&strip=all"

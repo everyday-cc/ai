@@ -3,10 +3,10 @@ category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
 excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
 publishedDateTime: 2023-06-01T13:10:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+originalUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 558
     isCached: true
 
-secured: "UXZqtNw6arrnOc3kXw2dehjdjffUOAkoZNhO3yIWbnBmpAsvTsc1idjQGlYU94w9HZpyWjmS0J1qepLVsOTIEfuGeS4RU/fQYm5qCjRH6XVHNYtExhRV1iEUcwEgSjNu+tcINl6nGugOuCLfBabeqauzROxnud3q79EhYmt2vzGqw8dUcvFLawxhy6SuIgHEhe+CENY+CqxGwsWSMJQhYXu5LrcdlUyMFbElo4FJzmTBf1lA5InUww5LdAdhjBoqnMHHLnUD7/k4idScSAPQ8B//heSIZqgTqi1fOztFGHM+S0gT0fF5RXLMW8WmK+Y61HN7qy3kBcXKsHEbtke5wdu/bA3mnOrmq6WUC+npS8GOOuPJ1Kxu4RBDCMk+9Q5D4kiMw6GFSg0p8ZZ0LnENyAjNH0W4VRDI0xdLnY7wYHqvbI4fbb/P/AuYNF5+iiQ/NUv21PbRjgP3l+Q7fLtO5YfSkQm8ccNwY7GYKne2i9MNSxrfzFrODgZ/Y7hB1ppaG96gK1j111aR99JmV1UZdQ==;eY5vtfAR4gqWo4SF3GVzKQ=="
+secured: "sIWHzUBPBRQhmEsY6kp6fM3Jf2p1SZV2LMRmbRQI9Js/3UZcaebkBsfQtKvZPdSQ093piruU1NeQGZ0FdaT12an06vGEiFxqZBMCKIwPCUu9WeF5835AWlrljwAd+iWZiz1JtWA4Q3VuHqgMWIdGIlSQabFQO33zwujkwoZ5ucbiKvqCpxyQ1LEN/xs4mF+51W/02X1DDfU89DNsSYMWoK9ZospJTwQv8WVkpCgdde4mHGc1XPW53bFtqJku4zqsbnVbqmrb34kbcDZ3YPfv98Wl99EAWDFIqW0aw2dGbr9nJ0R8hBdbqk3f0PFs1oHP+O08g1Z1tWcOqCWTpIpI5NHlNEsKkWM75pVQxgY7k7M=;ih65BVdBLGm9749C3sKwzw=="
 ---
 

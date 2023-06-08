@@ -18,6 +18,54 @@ topics:
   - AI
 
 related:
+  - title: "Sunak hopes to bring Biden on board for AI safety summit"
+    excerpt: "Prime minister uses Washington visit to push UK as global centre for regulation of technology"
+    publishedDateTime: 2023-06-07T20:30:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/2796cc8e904d1faae3e12e54ec228e465d4e6e9c/0_94_3839_2303/master/3839.jpg?width=620&quality=85&auto=format&fit=max&s=d1fc6eae00a6c874f53f6c35c06dd63b"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "UK not too small to be centre of AI regulation, says Rishi Sunak"
+    excerpt: "PM uses Washington visit to push Britain as global centre for technology and seek US involvement in safety summit"
+    publishedDateTime: 2023-06-07T20:58:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/2796cc8e904d1faae3e12e54ec228e465d4e6e9c/0_94_3839_2303/master/3839.jpg?width=620&quality=85&auto=format&fit=max&s=d1fc6eae00a6c874f53f6c35c06dd63b"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "UK to host first global summit on artificial intelligence safety: PM Sunak"
+    excerpt: "The summit is expected to take place in the autumn and will gather \"like-minded countries\" to shape a regulatory response, Sunak's spokesman said."
+    publishedDateTime: 2023-06-07T21:43:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/global-summit-on-artificial-intelligence-safety-ai-rishi-sunak-uk-britain-101686173924627.html"
+    ampWebUrl: "https://www.hindustantimes.com/world-news/global-summit-on-artificial-intelligence-safety-ai-rishi-sunak-uk-britain-101686173924627-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/global-summit-on-artificial-intelligence-safety-ai-rishi-sunak-uk-britain-101686173924627-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/06/07/1600x900/AP06-07-2023-000246B-0_1686171851184_1686174095113.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Rishi Sunak in D.C. with Ukraine, economy, AI on agenda for Biden meet"
     excerpt: "The war in Ukraine is top of British Prime Minister Rishi Sunak’s agenda as he starts a two-day trip to Washington."
     publishedDateTime: 2023-06-07T16:51:00Z
@@ -26,6 +74,15 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 17
+  - title: "Britain to host first global AI regulation summit in autumn"
+    excerpt: "Rishi Sunak, UK prime minister, will on Thursday announce that Britain will this autumn host the first global summit on the regulation of artificial intelligence, after a meeting in Washington with President Joe Biden."
+    publishedDateTime: 2023-06-07T21:30:00Z
+    webUrl: "https://www.ft.com/content/3929908e-0f6a-4223-9c1c-5cd68d82a828"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 17
 
 secured: "ks+6Y9KcrAf/xdNewQvW42K/x84+UfKewMh32EvbWWEFPD5R99X3DP3aPglGLX7uVDW0IFiDgvoHbmT32qZcs6srBUBP1f0FW0XT/19pHc6zHnCQiqTeVuqyqHt4j5/HFHYgaF6FAdUkJ5+ZbLp3QiGV7WSKVleCpqpwzgjzMdgpEzLGEyF5yOhbSU2dJ0Nrl4hynuImMHeQan9ILXxlT4pB9fTR1qAxdUP8j7sJLmgcZGs9p0P2/FvbEODEA//Xr2hGOD8pl6SYBRN73iRiQTuuLZG0Xbvv8XI2zBD/i8fAEGMKsL3UZZMCEhbHou16BnFXTKyzu64dT0uSS01HAxAMFMhKvBjLGkmpRwNFAoIi/jqj7IaMgW3c2l07Ufg4CXTNnhMTFb8ZemK7AhLrQwtPA2Q8MaQCkL+IO+Fk1tGRjLXzEtXPJgFaRCMcFG8KRGRB+iok0TTzJzRXavQlKAYP4Z7LYHM2gFpSABA0VR0chpXn9jF7p1Q6xN8rtCdx0++H19BzoT+ktePj/YNcOw==;OA/jtZMSp54HLMTWA+QZvw=="

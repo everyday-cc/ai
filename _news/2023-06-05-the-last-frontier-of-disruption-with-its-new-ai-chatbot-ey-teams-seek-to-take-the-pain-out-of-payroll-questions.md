@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 742
         isCached: true
-  - title: "The ethics of AI in education"
-    excerpt: "One of the ethical concerns of AI in education is the potential impact on mental health. Studies have shown that students who rely heavily on technology for learning, whether it is adaptive learning systems,"
-    publishedDateTime: 2023-06-03T10:59:00Z
-    webUrl: "https://www.financialexpress.com/education-2/the-ethics-of-ai-in-education/3111961/"
-    ampWebUrl: "https://www.financialexpress.com/education-2/the-ethics-of-ai-in-education/3111961/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/the-ethics-of-ai-in-education/3111961/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 91
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/ai1-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Travel This Summer With These 6 Fun Google And ChatGPT AI Companions"
     excerpt: "Can AI plan three perfect days in Tokyo? You bet. Here's a look at the new chat features from Expedia, Kayak, SnapChat, Google Bard, ChatGPT Mobile and Roam Around."
     publishedDateTime: 2023-06-04T01:08:00Z
