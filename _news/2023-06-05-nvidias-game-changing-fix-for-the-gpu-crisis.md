@@ -51,6 +51,22 @@ related:
         width: 1038
         height: 478
         isCached: true
+  - title: "Intel Downplays Hybrid CPU-GPU Engines, Merges NNP Into GPU"
+    excerpt: "When Intel announced its “Falcon Shores” project to build a hybrid CPU-GPU compute engine back in February 2022 that allowed the independent scaling of"
+    publishedDateTime: 2023-06-08T17:46:00Z
+    webUrl: "https://www.nextplatform.com/2023/06/08/intel-downplays-hybrid-cpu-gpu-compute-engines-merges-nnp-into-gpu/"
+    ampWebUrl: "https://www.nextplatform.com/2023/06/08/intel-downplays-hybrid-cpu-gpu-compute-engines-merges-nnp-into-gpu/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/08/intel-downplays-hybrid-cpu-gpu-compute-engines-merges-nnp-into-gpu/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/06/intel-falcon-shores-logo-scaled.jpg"
+        width: 2560
+        height: 1705
+        isCached: true
   - title: "4 AI or chip stocks to buy aside from Nvidia"
     excerpt: "NVIDIA and AMD will always go hand in hand whenever it comes to all prospects regarding Graphic Processing Units (GPUs). Prior to AI, AMD has always held a strong foothold in the PC space, powering most of the laptops alongside Intel Corporation (NASDAQ: INTC)."
     publishedDateTime: 2023-06-06T02:55:00Z

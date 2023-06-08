@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/australia-launches-consulta
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australia-launches-consultative-review-of-artificial-intelligence/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://media3.architecturemedia.net/site_media/media/cache/76/b6/76b628622dc401b888069a3b9e847681.jpg"
         width: 638
         height: 425
+        isCached: true
+  - title: "Voice, treaty, truth: compared to other settler nations, Australia is the exception, not the rule"
+    excerpt: "These histories remind us how long First Nations people have waited for political recognition in this country – and that, compared to other former colonial sites, Australia is the exception, not the rule."
+    publishedDateTime: 2023-06-08T20:07:00Z
+    webUrl: "https://theconversation.com/voice-treaty-truth-compared-to-other-settler-nations-australia-is-the-exception-not-the-rule-206092"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 11
+    images:
+      - url: "https://images.theconversation.com/files/529694/original/file-20230602-19-8wjczk.jpeg?ixlib=rb-1.1.0&rect=0%2C75%2C1290%2C645&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "QGYDRpInhHyFYAvvvzhqce69SI1Z2XdR88bSTzOlxfXwL1zKk2x4zTq/4PZ++Nht7ysOS4XKSUvvBq+MPbOXbnoAl76M/3BvR9omh1hqZsUjT1GBVBO93RHQZGg3IQ0hshLEU7p5o57t/JXMRIckl/gDh1Pf0G78U0fOv51AZdct/lk6E20l8Dh0DPQrmsmaP5xF36pRAtTDHtDQJ4hU4AXYTh2TIR3b24qeHZKv3LHtspFThNii3gvVysXDqi/Rt7LTWOJdwZ0fhj4QNEvQXIvETBiISZBG8993haZBkG+dLd/6URpYH2SixDe1Zb09GmoskyXzVo6mXuh4HMm+AQEKMBWdV4Grpj7FomPVFQS8GjLsCRdTNHBJHdoKo+WptF8mINIS8LKNzHhkn4XOvipVN8keC9k2D5SxAs6vnRyN1pAXHA2AmhfYjJV8E0DtcHKmVkJHdkB5lM/Do3OPsjG+IrDQxM9u98x+9/IK/llwa6fzUOxwkvIhp7vhRDlZCYkIIPxx1xGG9kLCvGhx2g==;SOOTt2swV+3lBsLGzyGwRw=="

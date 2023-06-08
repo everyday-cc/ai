@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Sleep Apnea Devices Market worth $8.0 billion | MarketsandMarkets"
+    excerpt: "The sleep apnea devices industry is poised for significant growth and innovation in the near future. With increasing awareness about the detrimental effects of untreated sleep apnea,"
+    publishedDateTime: 2023-06-08T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32783569/sleep-apnea-devices-market-worth-8-0-billion-marketsandmarkets"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
   - title: "Synthetic Data Generation Market worth $2.1 billion by 2028 - Exclusive Report by MarketsandMarkets"
     excerpt: "Stability AI will use Amazon SageMaker (AWS's end-to-end machine learning service), as well as AWS's proven computing infrastructure and storage, to accelerate its work on open-source generative AI models. In October 2022, Microsoft partnered with ..."
     publishedDateTime: 2023-06-05T15:08:00Z

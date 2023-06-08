@@ -152,22 +152,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
-  - title: "Hong Kong: IOST Collaborates with Fintech, Digital Transformation Professional to Establish Global Education DAO"
-    excerpt: "IOST is pleased to announce a collaboration with Professor Emil Chan, a Fintech visionary and digital transformation professional."
-    publishedDateTime: 2023-06-04T02:15:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/06/208173-hong-kong-iost-collaborates-with-fintech-digital-transformation-professional-to-establish-global-education-dao/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208173-hong-kong-iost-collaborates-with-fintech-digital-transformation-professional-to-establish-global-education-dao/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208173-hong-kong-iost-collaborates-with-fintech-digital-transformation-professional-to-establish-global-education-dao/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 40
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-05-at-11.05.44-AM.png"
-        width: 679
-        height: 432
-        isCached: true
   - title: "Leveraging data for healthcare innovation in Africa"
     excerpt: "Despite recent progress, Africa carries a disproportionate share of the global burden of disease, with rising rates of non-communicable diseases (NCDs)"
     publishedDateTime: 2023-06-05T23:37:00Z

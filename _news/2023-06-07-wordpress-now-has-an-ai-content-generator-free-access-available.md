@@ -41,6 +41,20 @@ related:
         width: 840
         height: 481
         isCached: true
+  - title: "WordPress launches generative AI assistant to enhance content writing"
+    excerpt: "The company characterizes the tool as a creative writing partner that empowers users to effortlessly generate diverse content."
+    publishedDateTime: 2023-06-08T21:52:00Z
+    webUrl: "https://venturebeat.com/ai/wordpress-launches-generative-ai-assistant-to-enhance-content-writing/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_a_robot_writes_on_a_piece_of_paper_with_a_pencil_de43219b-1ff3-4e62-acaf-a4b9e4399163.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "WordPress's New AI Tool Can Write Entire Blog Posts For You"
     excerpt: "The Jetpack AI Assistant uses large language models from ChatGPT's developer OpenAI. WordPress is incorporating ChatGPT-like technology through an AI-powered tool that can write entire blog posts for you."
     publishedDateTime: 2023-06-07T15:30:00Z

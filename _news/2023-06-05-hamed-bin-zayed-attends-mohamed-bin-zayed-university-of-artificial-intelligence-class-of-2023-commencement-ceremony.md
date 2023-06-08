@@ -63,6 +63,15 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Hamdan Bin Mohammed Launches Dubai Centre For Artificial Intelligence To Accelerate AI Adoption In Government"
+    excerpt: "H.H. said Dubai continues to rapidly advance its adoption of new artificial intelligence and future technologies ... for 10 percent of all data produced by 2025. Meanwhile, in the healthcare space, more than 30 percent of new drugs and materials are ..."
+    publishedDateTime: 2023-06-08T18:49:00Z
+    webUrl: "https://menafn.com/1106414226/Hamdan-Bin-Mohammed-Launches-Dubai-Centre-For-Artificial-Intelligence-To-Accelerate-AI-Adoption-In-Government"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 15
 
 secured: "3oUPDO90ayhjuRO8+tylJVvpUaXNqJ6zyz6okWF2yQvRn6C3aILPMYhv+hlYPh5qOUArFpttOBeQm5RWN5bNchTI/QOHdyo7SPL4ik6AQ+0OkinqKa9dTVJWL6+bk0+y1+wrIj9EWFmZO93MPY0oBfoPGEGBDXfA3KXmFJzvfpHkMeOKrTlq6pWStoTOLH/d7nTelTVZXMwbAaLuiQHAF6HnBatr4jGBxMCla3LyPe5nAtXCBWjE8T17Ctav2ig9Iy0ulZN8k7o22aTc8fBSYH6dclllKvrtQeCwNqqXh8oHZCpnp3ECL/8C+o69BbjDXm8CCPx/zVnkWpnd1k+d4oxXCHPPsVwwlf1V0QDi63X8+G/sqIR+RKAoPdhpQkOLnA27PiOMIhile4QjjfjNoMK3LISVJ0d34f9rx5nk9wk+z3yE/whEGmuHS3b16WB+tpgwYa1e8qv5TvfO9qtnywKKTNLhQzhE3uj0gR0tpPm5F/Yvqs+xTiJ9Rc1/S7folL1XGaXeG5lc5RQEvxpdug==;OYgF9SHdhWpMk4UVu0eraw=="
 ---

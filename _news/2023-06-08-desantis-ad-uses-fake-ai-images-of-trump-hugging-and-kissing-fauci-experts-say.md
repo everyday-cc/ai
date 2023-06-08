@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/06/desantis-ad-uses-fake-ai
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/06/desantis-ad-uses-fake-ai-images-of-trump-hugging-and-kissing-fauci-experts-say/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "DeSantis Pushes Video With Fake AI Photos Showing Trump Hugging Fauci"
+    excerpt: "The DeSantis presidential campaign published a new video to social media this week criticizing Donald Trump for refusing to fire Anthony Fauci. But the images are fake."
+    publishedDateTime: 2023-06-08T18:34:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/06/08/desantis-pushes-video-with-fake-ai-photos-showing-trump-hugging-fauci/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "svJ3koKSDCLZDgdawlPrnR9CzLyGM4x/WdKnWMPa4J5r3smRSENBl+Zq5H5RKBo04Q4Oa1CtflI7xoilipPyYC4/s9kkH6hnqdQW+IZFkCbtQf1YoRX/np7A/j8SZ1H98DrvfIISF1WfbgWL5cukNf1cUjsJewKrfVnMrvekh9cCK7ARWfLSNwE4ZC34mCRLcl8/4LkiIt9B2a7dsAn9/qY/6k7pBhSCQjJX/+iXPKd9Ptm7Q3+7jdLOuscu02uL7+iyYddMDgdllhtTfA3ZJ5jUvrXabYro2YG27tcoSkeHwoHZDyhsdgW/eIuu8yVulRLxvYJtOzYY3UdPdUks+ikp2eRv/ZN9AukEEueiCO0=;cq0JdP62kRQoVU9hx4LpOw=="
 ---

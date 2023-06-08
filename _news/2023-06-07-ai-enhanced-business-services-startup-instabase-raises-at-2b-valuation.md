@@ -48,6 +48,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
+  - title: "AI Startup Cohere Locks Up $270M At $2.2B Valuation"
+    excerpt: "In March, Character.ai closed a $150 million Series A at a $1 billion valuation led by Andreessen Horowitz. The Palo Alto, California-based AI startup allows people to create their own personalized AI chatbot using language models and deep-learning algorithms."
+    publishedDateTime: 2023-06-08T18:26:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-startup-cohere-series-c/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 19
 
 secured: "RTw/o3nbPxCJKzHLCT/SfQ4kAgDokWk89XA3LJyyUT5AmSb/pHQ4naOQEpqHzWHSMwdYvYgZb0x3+wjTvMC2rJVbhhcGuimwVsYJW9uzOlG3RDbR4y9wTHZBL8TDpWpS8zB4k8vL/pm/UXXWBgl6XPR6dWm967bm1N7DLal612s4aph6S7cF7td7X59Vi4bHu7k1RM7aX/z0lHukn34I6s/+xYvS/qFmIz1mmi8CXpjLGeq6KTF5FaI451SZuOrgTIBrvXJK5ZuWGQ4G7rwf82HujIKwJb6E2fibKLr55KKkKCeo15o6RKI/yhQ1BMRV8ISma2rx61+zjy4vaNtTBzzRJAApfpZKGG9UR8vSpUqXMLlRbkVRUbubTJ3WJjVWteqMzCszSlCmeVq3bpc494kVh5pcbTroJftpw61InU5ECggHDO0SdG1OWZnyvvgqhiqhKYsdhYrjW7Z/QY0rNUxvaavESojQ2J5HF+DDfcQy7I/K36P3hf6uIbAPcDjvU1Mma7kjGbLg0hKgHkFQ9g==;syXijoIChxts6ZCa90O/3Q=="
 ---

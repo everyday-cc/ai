@@ -23,59 +23,91 @@ topics:
   - AI
 
 related:
-  - title: "SAFE Security claims to predict data breaches with new generative AI offering"
-    excerpt: "SAFE Security’s Cyber Risk Cloud of Clouds generates likelihoods for different risk scenarios based on an organization’s cybersecurity posture."
-    publishedDateTime: 2023-06-05T11:04:00Z
-    webUrl: "https://www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.html"
-    ampWebUrl: "https://www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.amp.html"
+  - title: "Google Cloud and Salesforce partner to help improve customer experience with AI"
+    excerpt: "The two companies are coming together to analyze data with AI and help businesses create ads customers probably want to see."
+    publishedDateTime: 2023-06-08T20:49:00Z
+    webUrl: "https://www.zdnet.com/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 73
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
     images:
-      - url: "https://images.idgesg.net/images/article/2017/12/digital-ball-hand-prediction-100744622-large.jpg?auto=webp&quality=85,70"
+      - url: "https://www.zdnet.com/a/img/resize/6c3f1f1d520c9f4a0429e5cc917d81087c1f7390/2023/06/08/8afc8c54-f7ab-4207-b16b-1a8741aed571/gettyimages-1332177687.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "LinkedIn launches generative AI tool to write ad copy"
-    excerpt: "LinkedIn today launched a generative AI tool called AI Copy Suggestions to help advertisers draft texts for their ad campaigns."
-    publishedDateTime: 2023-06-08T15:52:00Z
-    webUrl: "https://venturebeat.com/ai/linkedin-launches-generative-ai-tool-to-write-ad-copy/"
+  - title: "Salesforce doubles down on generative AI with Marketing GTP and Commerce GPT"
+    excerpt: "Salesforce today launched Marketing GPT and Commerce GPT to help enterprises quickly deliver personalized campaigns and shopping experiences."
+    publishedDateTime: 2023-06-07T16:08:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-doubles-down-on-generative-ai-with-marketing-gtp-and-commerce-gpt/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 81
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1081412082.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce.jpg?w=1200&strip=all"
         width: 1200
-        height: 606
+        height: 616
         isCached: true
-  - title: "Impact Analytics enhances its AI-native product portfolio with generative AI technologies"
-    excerpt: "Today's fastest-growing AI-powered retail-planning provider seizes the opportunity to exploit complementary, innovative AI technologies.LINTHICUM"
-    publishedDateTime: 2023-06-07T14:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/impact-analytics-enhances-its-ai-native-product-portfolio-with-generative-ai-technologies-1032375681"
+  - title: "Salesforce doubles down on generative AI with Marketing GPT and Commerce GPT"
+    excerpt: "Salesforce today launched Marketing GPT and Commerce GPT to help enterprises quickly deliver personalized campaigns and shopping experiences."
+    publishedDateTime: 2023-06-07T23:07:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-doubles-down-on-generative-ai-with-marketing-gpt-and-commerce-gpt/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "CORRECTING and REPLACING Clarify Health Launches Generative Artificial Intelligence, Clara"
-    excerpt: "Contact us at clara@clarifyhealth.com to learn more about the closed beta program for Clarify's new generative artificial intelligence, Clara. (Graphic: Business Wire) The updated"
-    publishedDateTime: 2023-06-07T01:16:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_d5bc83a5-75d2-599c-bb85-5fc557b45a99.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 29
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/f/cc/fcc62d5d-2310-5539-8550-44fdcc6a06dd/647fdbe0269f6.image.jpg?crop=1019%2C535%2C2%2C0&resize=1019%2C535&order=crop%2Cresize"
-        width: 1019
-        height: 535
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce.jpg?w=1200&strip=all"
+        width: 1200
+        height: 616
         isCached: true
+  - title: "Google Cloud Partners With Mayo Clinic To Use AI In Health Care"
+    excerpt: "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the"
+    publishedDateTime: 2023-06-08T07:58:00Z
+    webUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/"
+    ampWebUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
+    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
+    type: article
+    provider:
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 59
+    images:
+      - url: "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Salesforce Connections - \"No offense to crypto fans, but this is real.\" Salesforce customers react to generative AI news"
+    excerpt: "Salesforce Connections 2023 kicked off with the expected generative AI fanfare - including the launch of Commerce GPT and Marketing GPT. But where do customers stand? I hit the show floor and found out."
+    publishedDateTime: 2023-06-08T10:33:00Z
+    webUrl: "https://diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news"
+    ampWebUrl: "https://diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 34
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-06/salesforce%20-%20retail%20ai.jpg"
+        width: 1260
+        height: 818
+        isCached: true
+  - title: "Salesforce Connections - if AI is the new UI, what does that mean for marketing and commerce?"
+    excerpt: "Every company has to become an AI company. Salesforce is absolutely an AI company! That emphatic declaration from Stephen Hammond, GM of Marketing Cloud at Salesforce, shouldn’t really come as any surprise - and we’ll doubtless be hearing that again from CEO Marc Benioff himself next week at a dedicated AI Day event in New York."
+    publishedDateTime: 2023-06-07T12:00:00Z
+    webUrl: "https://diginomica.com/salesforce-connections-if-ai-new-ui-what-does-mean-marketing-and-commerce"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 25
 
 secured: "MTw/uedvhCjgMjs2em8syVydYeJLDLR/ND59Hu1AUVmWIuiTD7aRoJxmzr+KuThu/v1Kz5hAXM+ronCYuYqmIRdrfxoGgoaAxS673lPJt2Im2cFGOQSsk/vAtPQZanyh6vLKq5t68cHUVOZTiGFMgIp7Guy+TLYJNs4celhOCVruJ16Ks70MhC2Y4l6dh8wdTmpKjTrVCcEX3vb4I+SAHP1Gs7X6DunTi30e5R0pVGn9ud8Q9YlaJ/ZNwLBWjaOWkBRKDso0MGPrcyVSzOc5kTZrfXBX9H3r3qlkRMUuGKFnVXy53/spCINTjiU+Tg8zzLjZ/znKlLHrlgt0ZrEw/BnYCUhpHF5Nj0ut8fT9DXgN7Po77PZM2ZvKnzIdpp9N2PEKlNksVEQmdwC/FiE3UMvyvinNxam9YOMlFU7qoHXhSTF7nNIo/K0Y96IhF9UZk04Bzgk8HzhwgDMZVcyHqiUfBsY2fepCV2qPkOfJRj4SF6J4HdxZH6oHwdowy4bYw32b6fCU0skjo4tunP3HNg==;tCJPx7/F5J2U+4eXhekYjA=="
 ---

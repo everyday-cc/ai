@@ -43,6 +43,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Intel Downplays Hybrid CPU-GPU Engines, Merges NNP Into GPU"
+    excerpt: "When Intel announced its “Falcon Shores” project to build a hybrid CPU-GPU compute engine back in February 2022 that allowed the independent scaling of"
+    publishedDateTime: 2023-06-08T17:46:00Z
+    webUrl: "https://www.nextplatform.com/2023/06/08/intel-downplays-hybrid-cpu-gpu-compute-engines-merges-nnp-into-gpu/"
+    ampWebUrl: "https://www.nextplatform.com/2023/06/08/intel-downplays-hybrid-cpu-gpu-compute-engines-merges-nnp-into-gpu/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/08/intel-downplays-hybrid-cpu-gpu-compute-engines-merges-nnp-into-gpu/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/06/intel-falcon-shores-logo-scaled.jpg"
+        width: 2560
+        height: 1705
+        isCached: true
   - title: "4 AI or chip stocks to buy aside from Nvidia"
     excerpt: "NVIDIA and AMD will always go hand in hand whenever it comes to all prospects regarding Graphic Processing Units (GPUs). Prior to AI, AMD has always held a strong foothold in the PC space, powering most of the laptops alongside Intel Corporation (NASDAQ: INTC)."
     publishedDateTime: 2023-06-06T02:55:00Z
@@ -76,6 +92,6 @@ related:
       domain: moneycontrol.com
     quality: 0
 
-secured: "6gLnY1JWpa2tTGkncbxCwX2neMdAdTMQU1lUJLabTMXZe4CLz5DCQb1KwcG6H8h7f4Nr0IGQMM3Yk6OUBOegXINB8WooPfs+ZtoFfwej76mbpYCJ3FU1eBlSnrZhGZ+4734nWrONoCcNpY/R7FhVkg2gLMHFZ+KVUAwzvqMHDlC5glSjQ+xoS3W9Inatn7XmT3bBP6PkRQeBYuV3QllO5gq9caTJBGG1HcGAD8Li8U/jA4AKN9T3RojUr7TgPEQw0DDoDqka5MVq0uEzYvwK+Rn3HeQClnxd2vNtZfraKD+deo6SAN7eYVti+Uq9V/X9mVDqDJa2cFhz2xjLgOKnPxSRfWd0j/rmnWiiinz/6FA=;eUD0lLkPQVXv4M9EqTpJWQ=="
+secured: "a56krq7Qbdk7fqGQavaJukvo3VNp8SRWkySiC46anNiQGFKRUnTvB5nHg+nWWtSykDKXZ16tJRae0hhKfcsdSsNFRfzjebi4+LiCg6ea/QRrVtgdYTS8M3wqdumjJ+X9mUxJOKj8V3j4lN9p7JCRiGAIwbWFg0kjcw7GTDfe1SRoI9OqE3SoZaV4uqU/DiJrpFRczzNPQeev4hARvr5UB3WGT1SYqMahrfq8qZZM15hGhV120a4YdSzGR6DBUg2PK/QB4Sq+EZ+0pYjoNws/nM3vXEOdSRUmkQa5IRNEQH+4vTePUxll5iaNncXkLE3Se9uOazbMhBEU3Eep6ansQoQ3IF5PC6ebmTfapWC0uipfK50G+0NFsWgnxA+587cDguDZfuthtrpJ0MuNiZ1W+Lw/+lLhQUc+N3aSsSleQ19Su1cVqqpHqOFU7liYUBUuWqJLdDvDXekOE1RExnC5xN5MIQidjfE+CfP6Dnql9J/9t4r4hCv/kOAKQTdU9tGxF0TAFC2aR2Xvm1BqafPTSA==;1okKfEdv2EDDTHbphJ8+lg=="
 ---
 

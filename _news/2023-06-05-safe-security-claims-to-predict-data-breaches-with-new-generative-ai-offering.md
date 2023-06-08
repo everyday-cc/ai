@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/3698728/safe-security-claims-to-pr
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.amp.html"
 type: article
 quality: 73
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 606
         isCached: true
-  - title: "Google Cloud expands AI offerings with new tools, programs and partnerships"
-    excerpt: "Google Cloud is expanding into generative AI with a slew of new tools, services and programs aimed at helping businesses adopt the technology."
-    publishedDateTime: 2023-06-07T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/google-cloud-expands-ai-offerings-with-new-tools-programs-and-partnerships/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Impact Analytics enhances its AI-native product portfolio with generative AI technologies"
     excerpt: "Today's fastest-growing AI-powered retail-planning provider seizes the opportunity to exploit complementary, innovative AI technologies.LINTHICUM"
     publishedDateTime: 2023-06-07T14:01:00Z

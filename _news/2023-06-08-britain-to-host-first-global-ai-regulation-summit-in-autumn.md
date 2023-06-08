@@ -18,37 +18,37 @@ topics:
   - AI
 
 related:
-  - title: "Sunak hopes to bring Biden on board for AI safety summit"
-    excerpt: "Prime minister uses Washington visit to push UK as global centre for regulation of technology"
-    publishedDateTime: 2023-06-07T20:30:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
+  - title: "UK’s plans for “first global summit” on AI safety draw criticism"
+    excerpt: "These worries were recently amplified by some AI experts likening the potential threats posed by AI to those of pandemics or nuclear weapons. \"AI\" has also been an extremely buzzy term in business recently."
+    publishedDateTime: 2023-06-08T21:17:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
     images:
-      - url: "https://i.guim.co.uk/img/media/2796cc8e904d1faae3e12e54ec228e465d4e6e9c/0_94_3839_2303/master/3839.jpg?width=620&quality=85&auto=format&fit=max&s=d1fc6eae00a6c874f53f6c35c06dd63b"
-        width: 620
-        height: 372
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/uk_ai_summit_hero-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "UK not too small to be centre of AI regulation, says Rishi Sunak"
-    excerpt: "PM uses Washington visit to push Britain as global centre for technology and seek US involvement in safety summit"
-    publishedDateTime: 2023-06-07T20:58:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
+  - title: "UK to host global AI 'safety measure' summit in autumn"
+    excerpt: "The government says the UK will host a global artificial intelligence (AI) summit this autumn to evaluate the technology's \"most significant risks\". There has been a slew of dire warnings about the potentially existential threat AI poses to humanity."
+    publishedDateTime: 2023-06-08T00:02:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-65834085.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-65834085.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65834085.amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: BBC
+      domain: bbc.co.uk
     quality: 57
     images:
-      - url: "https://i.guim.co.uk/img/media/2796cc8e904d1faae3e12e54ec228e465d4e6e9c/0_94_3839_2303/master/3839.jpg?width=620&quality=85&auto=format&fit=max&s=d1fc6eae00a6c874f53f6c35c06dd63b"
-        width: 620
-        height: 372
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6AA6/production/_130020372_92c26ebb676b8889758a4bcb2a4a3ba7de125d6d.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "UK to host first global summit on artificial intelligence safety: PM Sunak"
     excerpt: "The summit is expected to take place in the autumn and will gather \"like-minded countries\" to shape a regulatory response, Sunak's spokesman said."
@@ -66,24 +66,15 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Rishi Sunak in D.C. with Ukraine, economy, AI on agenda for Biden meet"
-    excerpt: "The war in Ukraine is top of British Prime Minister Rishi Sunak’s agenda as he starts a two-day trip to Washington."
-    publishedDateTime: 2023-06-07T16:51:00Z
-    webUrl: "https://www.seattletimes.com/business/rishi-sunak-goes-to-washington-with-ukraine-economy-and-ai-on-agenda-for-biden-meeting/"
+  - title: "UK summit to address risks of AI"
+    excerpt: "The UK is to host a global summit in London in the autumn to try and coordinate a common global response to the rise of AI technology. Concerns about the risks posed by AI have increased recently with a group of Silicon Valley executives issuing a statement arguing that artificial intelligence could even lead to the extinction of humanity."
+    publishedDateTime: 2023-06-08T12:36:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0fszc8s"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: BBC
+      domain: bbc.co.uk
     quality: 17
-  - title: "Rishi Sunak goes to Washington with Ukraine, economy and AI on agenda for Biden meeting"
-    excerpt: "The war in Ukraine is top of British Prime Minister Rishi Sunak’s agenda as he starts a two-day trip to Washington"
-    publishedDateTime: 2023-06-07T11:02:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/rishi-sunak-washington-ukraine-economy-ai-agenda-biden-99894464"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 9
 
 secured: "cElTTJXZ6OkRmA0QalHxH9QQpOoZkly0Rs2W3kcaOb/kHCoCY/D9id6t3zHKxIspgBetAS2SsGO3fDDPh0L7qSiW1W319BdexH/cGO1sUsBT7wWHHE/4yCxvMkQlWLd1VHjkTf4pSEimEKTePdxpbNxe6oUl4uT9uKRgBKCeZ7nCybtS+ggBThViz8rZn2ynmcvgnXs5ZjYYn6gBBmbnUCvx6fmGtXyYnnm94JRhCjuhZq4iqJRxlt1QsrqIWiCOqZP95qDnv+9Vl5Tqt3rTo8TjpIOAZQGmqAXYMgY4XS41uceYwjrQIvo59kwzyZPTTFkL48FRb7x3GhV1kwOKTL4L+tAiGAEjscSKUGE2dmSIeYHhGmGPtvZ3zShISWyx+5MOiL+c2OytXeea5pQvXlO8orgKPGfjESEGmhoQCM8aQ5wezG6ljy7wr7VwTlBO0ATBhbA0qtL4wX7JLiCsYRhF5wRZ17QdNbGnDeItdaEsHJx9ve6ShoZqwUvWlzHDLE6njZbO0gUrtg5I/xmBuA==;poRNRXLOLU4w9Z3zO0YIkQ=="
 ---

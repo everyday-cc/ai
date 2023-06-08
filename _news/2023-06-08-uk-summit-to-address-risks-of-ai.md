@@ -18,56 +18,63 @@ topics:
   - AI
 
 related:
-  - title: "How to Navigate the Hidden Risks of AI and Digitization"
-    excerpt: "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ..."
-    publishedDateTime: 2023-06-08T17:42:00Z
-    webUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777"
+  - title: "UK’s plans for “first global summit” on AI safety draw criticism"
+    excerpt: "These worries were recently amplified by some AI experts likening the potential threats posed by AI to those of pandemics or nuclear weapons. \"AI\" has also been an extremely buzzy term in business recently."
+    publishedDateTime: 2023-06-08T21:17:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685715379-GettyImages-1434121527.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/uk_ai_summit_hero-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "A row over artificial intelligence regulations looms on the horizon"
-    excerpt: "EU officials say Britain is behind the AI curve, while the UK points to the size of London’s tech industry as evidence that this country is best placed to play a vital role in any regulatory framework"
-    publishedDateTime: 2023-06-07T19:35:00Z
-    webUrl: "https://inews.co.uk/opinion/a-row-over-artificial-intelligence-regulations-looms-on-the-horizon-2395126?ico=most_popular"
+  - title: "UK to host global AI 'safety measure' summit in autumn"
+    excerpt: "The government says the UK will host a global artificial intelligence (AI) summit this autumn to evaluate the technology's \"most significant risks\". There has been a slew of dire warnings about the potentially existential threat AI poses to humanity."
+    publishedDateTime: 2023-06-08T00:02:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-65834085.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-65834085.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65834085.amp"
     type: article
     provider:
-      name: i
-      domain: inews.co.uk
-    quality: 19
-  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent"
-    publishedDateTime: 2023-06-06T12:44:00Z
-    webUrl: "https://www.asiaone.com/business/automation-anywhere-and-aws-bring-power-generative-ai-mission-critical-mainstream"
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6AA6/production/_130020372_92c26ebb676b8889758a4bcb2a4a3ba7de125d6d.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "UK to host first global summit on artificial intelligence safety: PM Sunak"
+    excerpt: "The summit is expected to take place in the autumn and will gather \"like-minded countries\" to shape a regulatory response, Sunak's spokesman said."
+    publishedDateTime: 2023-06-07T21:43:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/global-summit-on-artificial-intelligence-safety-ai-rishi-sunak-uk-britain-101686173924627.html"
+    ampWebUrl: "https://www.hindustantimes.com/world-news/global-summit-on-artificial-intelligence-safety-ai-rishi-sunak-uk-britain-101686173924627-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/global-summit-on-artificial-intelligence-safety-ai-rishi-sunak-uk-britain-101686173924627-amp.html"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 13
-  - title: "5 sci fi anime that will totally blow your mind on the implications of AI advancements"
-    excerpt: "From Ghost in the Shell to Psycho Pass, here are five sci fi anime that discuss the complexities of artificial intelligence or AI."
-    publishedDateTime: 2023-06-08T13:00:00Z
-    webUrl: "https://www.oneesports.gg/anime/sci-fi-anime-artificial-intelligence-ai/"
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/06/07/1600x900/AP06-07-2023-000246B-0_1686171851184_1686174095113.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Britain to host first global AI regulation summit in autumn"
+    excerpt: "Rishi Sunak, UK prime minister, will on Thursday announce that Britain will this autumn host the first global summit on the regulation of artificial intelligence, after a meeting in Washington with President Joe Biden."
+    publishedDateTime: 2023-06-07T21:30:00Z
+    webUrl: "https://www.ft.com/content/3929908e-0f6a-4223-9c1c-5cd68d82a828"
     type: article
     provider:
-      name: oneesports
-      domain: oneesports.gg
-    quality: 11
-  - title: "Automation Anywhere, Inc.: Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent automation services SINGAPORE, June 6, 2023 /PRNewswire/ -- Automation Anywhere ..."
-    publishedDateTime: 2023-06-06T10:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59269919-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "rJXSer7xBuQ272unImrJnVyfE6cihMrnz3ocJbpmRO4H3AgHl0p76RwahBDVaFT3ArU+98Ntlw9oEsVQhqptHcTDHyxLfC6oIR5lLkGst7xmJT6Ou4p9zoXGUVveuc7ZVyZnhsBI1irYlaQe/ZGyNBW51xmr8saCXA/Cs0tWbm6qBfl52WtzCaDzpD+VT6oGoNyEtb9vyxesXrhf1wF8YV4Moc6RULv0DWSnLm5xvHnxOmm6WBLarVqfbIzEwJOVyNVfAohDWBwZoRDlSQhr5ApilaFLUtUPAsd3pEfq3Cx2/9xVJo5z02RRmYg9O7kEh/fFVNXN8CkZZIS7Yc1/hiHsUgNF/iXbuvwKNa03a7uVibrdov4NjYUxOT5jrD/rnfeJrXtWLbwz0EVRGcIUFdXp6g0kqQGdKSJFMBeDZUA5AP5l009YcwC8ZbNMzq7AHvXt7WQAwuk/kJvOBV+8Lobg1QGscmSo02TpNLNSLiXo6rGZ9y+A0+MKYLbTtqsu9/sp/LGTOHrEVxAwlJMHpA==;ktEvGJMRGHsY977RhbD8DQ=="
 ---

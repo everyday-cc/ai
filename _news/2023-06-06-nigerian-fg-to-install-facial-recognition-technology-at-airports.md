@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1166
         height: 706
         isCached: true
+  - title: "Man Nabbed by Facial Recognition Wins Right to Inspect Tech (1)"
+    excerpt: "Facial recognition technology software design data, source code, and algorithms must be turned over by New Jersey in a first-of-its-kind appeals court ruling that pits police use of artificial intelligence against a defendant’s right to a fair trial."
+    publishedDateTime: 2023-06-07T21:44:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/suspect-nabbed-by-facial-recognition-wins-right-to-inspect-tech"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 19
 
 secured: "kRX3jzKv/30wUfjCaNWsQtSLi8QRuGoRe9SzqXaTNGC7tGvUt9yyn2G3oURznFTYsKeDAXHQnj0IKGd8jtnkxtPLmb+ZXSV+HJ7F2YoPvmTOxC2utxBPbgi9+AnxjBAU/TCAXC0hU8HmabQGV0mvawQsmRe7IBwEnrPfj+S224jMfm9t/zLQV/BCN4h9k7MbWiKkxtr2Hxp1Mn35DTXsfld5xsfPDs4ixZagHeNvbgMVqTkoDDpfOIoUUWCwzMvmwlezsyAZejGEi+6wv4PhMlsKsoyJRiZkfYYNvhQX0/kzpSedSyjzE3WA9ShazdBTSumv4MPfwdcqpLvvbMfEz8+UgYabZlWus7fsCjnmlFs=;3kh3k3udYd1zwp8zvkusJA=="
 ---

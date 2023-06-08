@@ -55,6 +55,15 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Hamdan Bin Mohammed Launches Dubai Centre For Artificial Intelligence To Accelerate AI Adoption In Government"
+    excerpt: "H.H. said Dubai continues to rapidly advance its adoption of new artificial intelligence and future technologies ... for 10 percent of all data produced by 2025. Meanwhile, in the healthcare space, more than 30 percent of new drugs and materials are ..."
+    publishedDateTime: 2023-06-08T18:49:00Z
+    webUrl: "https://menafn.com/1106414226/Hamdan-Bin-Mohammed-Launches-Dubai-Centre-For-Artificial-Intelligence-To-Accelerate-AI-Adoption-In-Government"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 15
   - title: "Hamed Bin Zayed Attends Mohamed Bin Zayed University Of Artificial Intelligence Class Of 2023 Commencement Ceremony"
     excerpt: "In the presence of H.H. Sheikh Hamed bin Zayed Al Nahyan, the Mohamed bin Zayed University of Artificial Intel"
     publishedDateTime: 2023-06-04T19:23:00Z

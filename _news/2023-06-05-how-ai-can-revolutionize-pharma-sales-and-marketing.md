@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-rev
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/amp/"
 type: article
 quality: 121
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Using AI to Adjust Your Marketing and Sales in a Volatile World"
+    excerpt: "Why are some firms better and faster than others at adapting their use of customer data to respond to changing or uncertain marketing conditions? A common thread across faster-acting firms is the use of AI models to predict outcomes at various stages of the customer journey."
+    publishedDateTime: 2023-06-08T19:02:00Z
+    webUrl: "https://hbr.org/sponsored/2023/06/using-ai-to-adjust-your-marketing-and-sales-in-a-volatile-world"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 51
 
 secured: "YpSFw8hZ/eWF5ddQ+Rl9o8YDeShtdPwTUb+/rhPBI7K0dlUiMnEZqn16m2oPI7Lqr6vxKj1jygZ/cTkQlEaygGZ4vadXt+OXQ9wDOCNdMFquSrhEwWHMIduPAueEv2it9dZYUMf9EV82erR+GIBAuVAFcQb8emFI3AWNgJaqSmCxE6gE8I5QDRZAWtnyeG+VKgrwTu0Cim7xeRZuyBybOAQ8xAMBJW/ph97qbUiJA07MeqmkAbIrRIDWZpP97MXNfu/5jCm42K7uOqYck5upHLmHXsbZrEGOXfBVomTeWsBSa9QSMOkZu5X8wAo2wMxXDZ1kksBxWB+jcnVa6LOHPNM24D2T//XWSBrpNKziFxQ=;AAB1xDx33USi+UESYxC9rQ=="
 ---

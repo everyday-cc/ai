@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Valencia Announces VDS2023, fostering innovation in AI, Mobility, and Sustainability"
-    excerpt: "Startup Valencia announces the VDS2023. Under the theme \"Building the Good Future,\" this prestigious event will bring together the global economic and tech"
-    publishedDateTime: 2023-06-07T14:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/g32759850/startup-valencia-announces-vds2023-fostering-innovation-in-ai-mobility-and-sustainability"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32759850"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32759850"
+  - title: "Professors call for further study of potential uses of AI in special education, avoiding bans"
+    excerpt: "Artificial intelligence is making headlines about its potentially disruptive influence in many spaces, including the classroom. A group of educators that includes a University of Kansas researcher has just published a position paper reviewing AI's potential in special education,"
+    publishedDateTime: 2023-06-08T20:04:00Z
+    webUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.html"
+    ampWebUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-professors-potential-ai-special.amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
+      name: Phys.org
+      domain: phys.org
+    quality: 63
     images:
-      - url: "https://newsroom.submitmypressrelease.com/system/media_files/images/000/035/082/original_jpeg/image.jpg"
-        width: 975
-        height: 650
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/professors-call-for-fu.jpg"
+        width: 2880
+        height: 1744
+        isCached: true
+  - title: "Professors React to Call for ‘Pause’ on AI Research"
+    excerpt: "Whether or not they agree with calls to halt innovation, many professors and computer scientists in higher education share the feelings of tech leaders that emerging AI needs oversight and regulation."
+    publishedDateTime: 2023-06-06T23:01:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/professors-react-to-call-for-pause-on-ai-research"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/professors-react-to-call-for-pause-on-ai-research?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/professors-react-to-call-for-pause-on-ai-research?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/de6f650/2147483647/strip/true/crop/6000x3129+0+11/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc9%2F12%2F58d3fe9d4c85821530a88ef106d2%2Fshutterstock-1089540200.jpg"
+        width: 840
+        height: 438
         isCached: true
 
 secured: "578KMxc/cT5sCa6dj1hxw2wkcQ09HvrYUdy7N/FJFjAZaECSTtRuZJGbXFe+7bAYYI8DHyD/gnlWtScSEWUbWT0qKFqAHUSHKgZYrVpR5jxKo1rtzS7Eionv2GmlwylPzhJ2tVwNK/1kiuTfibPPIhYt0A6iKv9cxI2YjWajXIy3V0R5nGhc/FvX0JWtkilZV9AnRXKU22TaaRl6fwk6escN+CkfFXuTq2bQGqPcAzoQeveKg7AD0z5scMEnaq8VIwJq2bQqcl/YdiAK52lHGkxJ9gcnCcHOo8FMmVtrdH72Mk63gvHXJaXxK3FUGwd45XM8NkUoKv+9TCP1FIj6S+mmPH/OFgs+bdcjYW30BIY=;e/cfXGUxUwcaRdgjPsZ7PQ=="

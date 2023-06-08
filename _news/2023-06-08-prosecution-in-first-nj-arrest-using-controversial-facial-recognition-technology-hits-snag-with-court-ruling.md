@@ -57,6 +57,15 @@ related:
         width: 629
         height: 349
         isCached: true
+  - title: "Man Nabbed by Facial Recognition Wins Right to Inspect Tech (1)"
+    excerpt: "Facial recognition technology software design data, source code, and algorithms must be turned over by New Jersey in a first-of-its-kind appeals court ruling that pits police use of artificial intelligence against a defendant’s right to a fair trial."
+    publishedDateTime: 2023-06-07T21:44:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/suspect-nabbed-by-facial-recognition-wins-right-to-inspect-tech"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 19
 
 secured: "h8rLIWsVwlj1IvGx/E9GCGFhdVrwzpx4MR1xLUf8Ce1Wp2ytznpcKhcPq5BAQ2+iPGbdtBKTt2lwopUq9sMjhJkYVdq843u79krtMTjpcblzHK5EgRyWSLZpzQj5w5NFou3cwDsvDylcjLi+FZ5UnEqRjqt7fHB0rh5yb5ixRfs9PnK6csCwwtM0qCSgb3j+vX9t98+79p2iRD4WxbUJ8hIiY9Qh8PfBQRHUt/vy6p41rDGzD5cHrHdY+bfyQdUQAeMMKfHzmlVtTUwZCVv81D4WhUElc1ckhSQs3IOnJ590cyGQwDOPBEn+tw75EgZMUF5y1DYSDJ3oloBan+dCY4bErLsYSi1EjXRtDOb7JJdGV/wpekvhq6YjYV1Cn+IASV47blnSRCjDCJFFxdn8Hxa8kO+pLwL3J5uAMhMAJjHhSwe9Ze1S5NrH/zsK8CMx7rbQAsPUoG5NK4HzgKoJ+AJDjbCVXBW3x6GnPuCJ4bMhOXGb+kwIweX0QKtG3t6UKvmNKz5R9RULeY4snmUFpw==;CTLnFmgz6AWqxvAS+5GQuA=="
 ---

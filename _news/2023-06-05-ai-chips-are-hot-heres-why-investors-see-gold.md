@@ -7,7 +7,7 @@ originalUrl: "https://www.news-journal.com/news/business/ai-chips-are-hot-heres-
 webUrl: "https://www.news-journal.com/news/business/ai-chips-are-hot-heres-why-investors-see-gold/article_6d44afb2-03b2-11ee-bc1f-e72181d9132a.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
-    publishedDateTime: 2023-06-04T04:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/jun/04/ai-chips-are-hot-tfp/"
-    type: article
-    provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 48
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/06/03/AP23152002685626_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "FHZXCUpGJ7LEhpgBgu45Ssu5L1pygXSJ9kLAowyT1OA7IglNEtRS92O/CuP3qLFQhx9Fz0GsRjLwy/9eDtZ8JtyWYFBrxtjqwbl83M2B8wFAkF89arhbetFfFdQg3HpR7mGACiw87epiInuHLkuwD168CjOQiJicNTRSb2X8KAKZfX7nijJkgMmoAcnrodiDqfox0nUEHUQG8uIiNBUhLEcXLObtX3EY/vNtgOKXQK8YnPZ8vUh1ajbqp/kKj/wmKCtjqItapspzW7DJkUGdLnvoxR6OXQm9wCTXmOs3Vph/Y9ynZ/zbejw7DMzFxOuUMv4alah3ZJElICkCW+NmPi8mmVu7uAqUuj+s2fl9NHQyRbjEAnsnHewkbQT4MtU3Lk/IB/NOunuQ5XCsKpbfTrIRQF3ScNpTEgkelSMlRIKk9a+MwcoiMENOQtaywJ3PRHmF1Du3afYXeTnShYFdWZ63SDs081b3psLAt3u/eHNnDOJZQDkYFbBXWQENOkdyiWGhj+oGqxjf//q6Zukd2A==;qkMD75FOcfE2g6LdBm8jcg=="
 ---

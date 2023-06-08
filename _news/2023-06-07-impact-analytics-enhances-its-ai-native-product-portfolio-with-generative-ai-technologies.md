@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 606
         isCached: true
-  - title: "Google Cloud expands AI offerings with new tools, programs and partnerships"
-    excerpt: "Google Cloud is expanding into generative AI with a slew of new tools, services and programs aimed at helping businesses adopt the technology."
-    publishedDateTime: 2023-06-07T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/google-cloud-expands-ai-offerings-with-new-tools-programs-and-partnerships/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "CORRECTING and REPLACING Clarify Health Launches Generative Artificial Intelligence, Clara"
     excerpt: "Contact us at clara@clarifyhealth.com to learn more about the closed beta program for Clarify's new generative artificial intelligence, Clara. (Graphic: Business Wire) The updated"
     publishedDateTime: 2023-06-07T01:16:00Z

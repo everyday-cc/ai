@@ -75,6 +75,20 @@ related:
         width: 638
         height: 425
         isCached: true
+  - title: "Voice, treaty, truth: compared to other settler nations, Australia is the exception, not the rule"
+    excerpt: "These histories remind us how long First Nations people have waited for political recognition in this country – and that, compared to other former colonial sites, Australia is the exception, not the rule."
+    publishedDateTime: 2023-06-08T20:07:00Z
+    webUrl: "https://theconversation.com/voice-treaty-truth-compared-to-other-settler-nations-australia-is-the-exception-not-the-rule-206092"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 11
+    images:
+      - url: "https://images.theconversation.com/files/529694/original/file-20230602-19-8wjczk.jpeg?ixlib=rb-1.1.0&rect=0%2C75%2C1290%2C645&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "xTlmstAbtKoNK+MG06Gs1d3W9X33qTJy9Av8YTo9/5j9mIE6f6iGhjGY38nH4oBuG1zyubkwjXKWyjOYXhmRRaraF3FP+q12J8erQ8QKlH4Y3Go11X531Aeu6lq+wCEl0uNzLBUZ7OA7hVkUmFKZzsbFKTAgFPHAxvsIxhVhLRoO924Sb2Bxvij5lsHRDCaAPDrYaOamXxg4QJ00DU2HwEaWaal0JZZkWob5Pf2qk6pb5BMk3HwbJ/cjHQDkggZQXw7XdxgXiH+QMGpV0vA3MTBtE+jNtmDjuBLb24n0Xj80YTKObTp7yydMPMLVmVuzUm21HEb1S+HN7z7xIA4e2AAAJV+rAEseiIFmVGE12w0=;SpWUwSluVmIgZowYPDrOnA=="
 ---

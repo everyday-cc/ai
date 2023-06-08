@@ -89,6 +89,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Meta unveils plan to infuse generative AI into Facebook, Instagram, Messenger"
+    excerpt: "Mark Zuckerberg, the CEO of Meta , recently shared his plans to integrate generative artificial intelligence into popular platforms like Facebook, Instagram, and Messenger.Generative AI has"
+    publishedDateTime: 2023-06-08T21:18:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 56
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-06-09/1078378_023343_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Instagram might be working on an AI chatbot"
     excerpt: "According to the leaks, users can choose from 30 different AI personalities, who can also help users write messages."
     publishedDateTime: 2023-06-06T19:27:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-06/startup-instaba
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-06/startup-instabase-notches-2-billion-valuation-incorporates-new-ai"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "AI Startup Cohere Locks Up $270M At $2.2B Valuation"
+    excerpt: "In March, Character.ai closed a $150 million Series A at a $1 billion valuation led by Andreessen Horowitz. The Palo Alto, California-based AI startup allows people to create their own personalized AI chatbot using language models and deep-learning algorithms."
+    publishedDateTime: 2023-06-08T18:26:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-startup-cohere-series-c/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 19
 
 secured: "Of6ynZf8RugJF9JiI8qR02Gnk/Jn/i0B9UxbnRpnk5WKh/PNnmachkYx37TZQH7a4wncn4mITGTDD6RP0P87ZFa3CThFRr2V2zk0ftNKWFZfqFLiTfezcN67wQ1UWrb42NdomJnLZXBnHKDtTenTJFllNliReQIuyIhGSIpWkpwfFUXxVHmTQgl28pgxkFz+sx5aDanp6t+9Pc+hA4C6N07CIuWtTIrvwQqMLFwjX7ISiJeFuckYMHZysdccOBdJGD7EpakU6JT49p2O5Jo/7gO1Xb5BIq8ZKVRPlSHIRZoIyGGsDybwAXxVGlPi9hZXAB/7IpGvrSUIBXGzY/oNSwrmpxRoL0GH9RfUkaoPEV2pnnn+u+P2/GCLDnp/va28MdMToGkVGJugielYV63qG03REfpUcyXmkToP5LTILpGF/U0YE3YT6T09k+hT/9f2RvboKxGjqskkujzS0WF5GIcEdyc+CWK3vlfROyNjKG7xQ48pRzHGG1DuZFbbpRxJLoq/aAxqXL5yiFwtLPJvVQ==;wK8rkdtS1H8Rul/ndnVXsA=="
 ---

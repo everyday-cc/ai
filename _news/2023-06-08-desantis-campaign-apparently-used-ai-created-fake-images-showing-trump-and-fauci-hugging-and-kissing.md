@@ -46,6 +46,15 @@ related:
         width: 800
         height: 454
         isCached: true
+  - title: "DeSantis Pushes Video With Fake AI Photos Showing Trump Hugging Fauci"
+    excerpt: "The DeSantis presidential campaign published a new video to social media this week criticizing Donald Trump for refusing to fire Anthony Fauci. But the images are fake."
+    publishedDateTime: 2023-06-08T18:34:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/06/08/desantis-pushes-video-with-fake-ai-photos-showing-trump-hugging-fauci/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "YkSKVTqArYt6p6SrUcCaVUr09IkdzJSq0Mk664e6tCqmmxwGplCuR3gwxYNnpBznka1Ls0ITmXrpX9BG7vcJ7stVTetLSM6JsE4kawEVStgyGPei0MkONW87+bS9rB+CtxmoaMPcEQM485LH13emzsxwVswQo6KySL4ULlzlUhwHqSQrKQRzgoEroRb0jFrKMsc2mbb3UOI3CzGZq3ByKNLB2VEkT53riLRzi0A/9Dyv/f4Mr5A88tlaizv3MDE3dO3Jik2MsMZMR8KZBIhC/jRmt7T+Lt80wTeXNg0qe8CBZWbOw0igAkNT+0Kls75K/8gRH1mITBkNu+rAx81h4o5W5cWFLJAeuiKdJDjLGRM=;dxOfmmk1NCZoC5mcMS87ZQ=="
 ---

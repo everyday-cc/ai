@@ -66,6 +66,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 92
+  - title: "Get started with the open-source Amazon SageMaker Distribution"
+    excerpt: "Data scientists need a consistent and reproducible environment for machine learning (ML) and data science workloads that enables managing dependencies and is secure. AWS Deep Learning Containers already provides pre-built Docker images for training and serving models in common frameworks such as TensorFlow,"
+    publishedDateTime: 2023-06-08T21:21:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-open-source-amazon-sagemaker-distribution/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/08/get-started-open-source-sagemaker-1260x630.jpg"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Build machine learning-ready datasets from the Amazon SageMaker offline Feature Store using the Amazon SageMaker Python SDK"
     excerpt: "Amazon SageMaker Feature Store is a purpose-built service to store and retrieve feature data for use by machine learning (ML) models. Feature Store provides an online store capable of low-latency, high-throughput reads and writes, and an offline store that provides bulk access to all historical record"
     publishedDateTime: 2023-06-06T16:23:10Z

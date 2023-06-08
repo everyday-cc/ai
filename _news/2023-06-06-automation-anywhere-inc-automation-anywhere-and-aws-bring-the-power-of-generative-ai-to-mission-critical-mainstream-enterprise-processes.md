@@ -42,15 +42,6 @@ related:
       name: i
       domain: inews.co.uk
     quality: 19
-  - title: "UK summit to address risks of AI"
-    excerpt: "The UK is to host a global summit in London in the autumn to try and coordinate a common global response to the rise of AI technology. Concerns about the risks posed by AI have increased recently with a group of Silicon Valley executives issuing a statement arguing that artificial intelligence could even lead to the extinction of humanity."
-    publishedDateTime: 2023-06-08T12:36:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0fszc8s"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
   - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
     excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent"
     publishedDateTime: 2023-06-06T12:44:00Z
@@ -70,6 +61,6 @@ related:
       domain: oneesports.gg
     quality: 11
 
-secured: "rTKORIb0n8cISJa3AbeJhVQvohFUfGVNuvheM7752nmCM1bkVWr0oH+FBaDmN+5DGgAnFuKw8W9C86le9dVfTAKE1EBScxvrjkML4qIEI4SsFfunhmip8y38+8qW+ZFLMh05WEEKx5DqT890kS59LvRkTC3agyV/XOLq1CJk39uYKfm6IdUR1xtygsC0cmqtiEe4yRsSp7lxjIaI/3+mKMu5AanJGOKXdUAtrZKuPkbnd6brf+vmtVKBeBAAdVNfMjZymBA3QZMltun7cKDfgmf4Jzz6Rk812pxY+LJX7I7NDOX+qbLIHtGDrLVIPGI0M3g1ha76UzHN8YvtPWG7I7gpQDw4im8re31NO7jzmK0=;1bTY/5D3uTMkK7R1hD5dYQ=="
+secured: "iiQ3UaH4R4PZpljRhUvCIVB/iY1yeobW21G5a2FTdX5Rwacgfdcgr/0S2eMFhk6hV5N4MxfNG4g/0bnQZ9dF12OPNK/y1ljCVW0gF/+lXkawPGxAemBS+6Qv7h4rlUuyXmFh7Hb0liuY1vqsSS5Rq92xlLH1sV4q3qkCySFD32f7+CRdHLp/5FX4HKk+jadqDrp2nWYDMIy2bevzyNPfnk4eltD6VorGLi6eQUL81mDRQH8NoCthlij2czcfHVnkfHjiyG5aq0KGjsI1UGWrtzwB2bFuNsz72KfDS5PYQQXBolWsScGvs4u7jBhyybTispFQkxGsEpSBeyLJN4rJ4G2FLP6mt+U3qzsxaR9J9Sw=;qbmCqmu6DQSiQZ/JJgZBqQ=="
 ---
 

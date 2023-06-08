@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-adoption-in-m
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
 type: article
 quality: 101
-heat: 211
+heat: 221
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "The Ethics of Using Generative Artificial Intelligence in the Practice of Law"
+    excerpt: "Understanding how generative AI solutions collect, store and use the information that ... certainly will not be sufficient to rise to the level of expected competence by ethics officials. In other words, arguing that the information provided by ChatGPT ..."
+    publishedDateTime: 2023-06-07T20:17:00Z
+    webUrl: "https://ipwatchdog.com/2023/06/07/ethics-using-generative-artificial-intelligence-practice-law/id=162097/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 31
   - title: "4 Keys to Executing Generative AI"
     excerpt: "Generative artificial intelligence (AI) has captured the attention of health care providers and payers focused on reimagining care delivery."
     publishedDateTime: 2023-06-06T12:19:00Z
