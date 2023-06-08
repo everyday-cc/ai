@@ -7,7 +7,7 @@ originalUrl: "https://www.economist.com/finance-and-economics/2023/06/07/surging
 webUrl: "https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,24 +24,54 @@ images:
     isCached: true
 
 related:
-  - title: "Synthetic Data Generation Market worth $2.1 billion by 2028 - Exclusive Report by MarketsandMarkets"
-    excerpt: "Stability AI will use Amazon SageMaker (AWS's end-to-end machine learning service), as well as AWS's proven computing infrastructure and storage, to accelerate its work on open-source generative AI models. In October 2022, Microsoft partnered with ..."
-    publishedDateTime: 2023-06-05T15:08:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59262076-synthetic-data-generation-market-worth-dollar-2-1-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
+  - title: "Don't bank on AI predicting the stock market anytime soon"
+    excerpt: "The idea of artificial intelligence being able to predict the market is a pipe dream, according to Wall Street vet Marty Chavez. Here's why."
+    publishedDateTime: 2023-06-08T17:38:00Z
+    webUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
-  - title: "Fintech as a Service (FaaS) Market worth $676.9 billion by 2028 - Exclusive Report by MarketsandMarkets"
-    excerpt: "service integration with AI and automation, data analytics emphasis, worldwide expansion, and improved security and compliance, the future of the Fintech as a Service (FaaS) business appears bright. These patterns show that FaaS will continue to develop ..."
-    publishedDateTime: 2023-06-08T15:40:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59294900-fintech-as-a-service-faas-market-worth-dollar-676-9-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/64820c2d8f265d001998c5e8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Yet another article on artificial intelligence"
+    excerpt: "My original article said they really should put the brakes on this experiment for a while, but I didn’t declare an emergency. We’ve been hearing warnings about AI taking over since the first “Terminator” movie 39 years ago,"
+    publishedDateTime: 2023-06-05T10:00:00Z
+    webUrl: "https://www.bangordailynews.com/2023/06/05/opinion/opinion-contributor/artificial-intelligence-warnings/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 37
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2023/06/Europe-AI-Rules.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Keeping an eye on AI"
+    excerpt: "Sunak is expected to discuss the idea of a “Cern for AI” — a research base modelled on the particle physics laboratory in Switzerland — with a global regulatory body that could look something like the International Atomic Energy Agency."
+    publishedDateTime: 2023-06-05T17:15:00Z
+    webUrl: "https://www.ft.com/content/e2980b91-7e8f-4648-96b9-4da6e394942a"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
+  - title: "On artificial intelligence, the sky really may be falling"
+    excerpt: "“Sometimes I think it’s as if aliens have landed and people haven’t realized because they speak very good English,” said Geoffrey Hinton, the “godfather of AI” (artificial intelligence), who resigned from Google and now fears his godchildren ..."
+    publishedDateTime: 2023-06-05T02:43:00Z
+    webUrl: "https://www.thestar.com/ths/opinion/contributors/2023/05/31/on-artificial-intelligence-the-sky-really-may-be-falling.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 17
 
 secured: "73D0udUvF0vfzTEGRJ8WO8H/4aLVH+LCXGnZyu0guVhPB807fKHn0jl9QWM2fGo50QGVoHwOglyNf9VUj3BWMK2325yaRzLJZTJ+IvgqR9jwwKJycCMnCmQpB2tIHIxu7adulto00oHwZgH4LcQIx4r/r+/qhhQLbjIq42XM8ZglJqTSZ/d8+n3WM/BEX9nfpW3d/pGt7DR4YntCLqGDc937F2RgjE9OU3xIZ4FyZUtFc6Efj+4txN16+rUbrbhtQrXYtigvWUY4VDQ4FI8HZbxDnjBPde3fuMbWdbrw7XkNP0prAkYegthOr+CbKakO91CI8I/2DxJfIpmvQdjUR2k1zUyUbB4jcI4Q8yG2NsckVwydecvPMPM181Mwp+GbpTzf96HLDjdPWGtWE0Su4fRRZqh2VenuK5N6qMdf/wgOW4rISgy27djRnKJXicr9hAT5ifRqllsF01IxSAiyi+ZmONa+k1HGvklRPGh4O8nELBrdXTHsq64xhcLAyIFi1jqbMakiHjd656oFmaefuw==;kkseRT97p+zQA0xZ1SOv2w=="
 ---

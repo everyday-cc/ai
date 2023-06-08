@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-08T15:33:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-etf-plays-for-passive-investors-1032378942"
 webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-etf-plays-for-passive-investors-1032378942"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "AI For Value Investors: MegaCap Tech, ETN & DLR"

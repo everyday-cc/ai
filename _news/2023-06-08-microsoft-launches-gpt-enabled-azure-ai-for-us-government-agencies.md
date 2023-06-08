@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-ena
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
 type: article
 quality: 119
-heat: 239
+heat: 259
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft, Cisco, Adobe And More Bring Generative AI At Work To Where Work Is Done"
+    excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, looks at how GAI tools impact the everyday worker with copilots and AI assistants."
+    publishedDateTime: 2023-06-08T16:07:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 98
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6481fb87f19ce780d7bec538/0x0.jpg?format=jpg&width=1200"
+        width: 1100
+        height: 665
+        isCached: true
   - title: "Microsoft Build 2023 Brings AI Tools To Where Work Is Done With Copilots And Plugins"
     excerpt: "Ranked Industry Analyst Patrick Moorhead shares his highlights from Microsoft Build 2023 and examines how its latest AI developments fit into plugins and copilots."
     publishedDateTime: 2023-06-05T16:58:00Z
@@ -130,6 +146,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Satori's Data Security Platform is Selected for the Microsoft Pegasus Program and is Available in the Azure Marketplace"
+    excerpt: "Satori’s continued product innovation and customizable data security platform is recognized by its inclusion in the Microsoft for Startups Pegasus Program, an invite-only program that connects growth-stage startups to thousands of Microsoft’s top customers."
+    publishedDateTime: 2023-06-08T13:08:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/08/9829283.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
   - title: "BHP and Microsoft use AI to boost copper recovery at Escondida"
     excerpt: "The use of new digital technology to optimise concentrator performance at the world's biggest copper mine in Chile is expected to improve recovery."
     publishedDateTime: 2023-06-07T17:18:00Z

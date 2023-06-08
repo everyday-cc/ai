@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/leadership-alert-the-dust-w
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/leadership-alert-the-dust-will-never-settle-and-generative-ai-can-help/"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -28,6 +28,40 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Why The CHRO Will Be The New Boss Of Generative AI"
+    excerpt: "Your CHRO and team need to be firmly integrated into any initiative to successfully bring generative AI into your business."
+    publishedDateTime: 2023-06-07T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f4446248590063657d5cd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Human Connection In The Digital Age: Leadership Lessons From Hybrid Work, Generative AI, And Taylor Swift"
+    excerpt: "As hybrid work and generative AI advance, effective leaders recognize and tap the need for human connection to make their workplaces more desirable and productive."
+    publishedDateTime: 2023-06-08T17:52:00Z
+    webUrl: "https://www.forbes.com/sites/johnbremen/2023/06/08/human-connection-in-the-digital-age-leadership-lessons-from-hybrid-work-generative-ai-and-taylor-swift/"
+    ampWebUrl: "https://www.forbes.com/sites/johnbremen/2023/06/08/human-connection-in-the-digital-age-leadership-lessons-from-hybrid-work-generative-ai-and-taylor-swift/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbremen/2023/06/08/human-connection-in-the-digital-age-leadership-lessons-from-hybrid-work-generative-ai-and-taylor-swift/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6481d37a8043380174214435/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 756
+        isCached: true
 
 secured: "ZFp2gLg/6+10yKP8r0ecfpta670RyJ4eQROwOHCWZAJ+tdoSgcVwlw9BDq6CX/r2OfsZXlVFdqP3hnaGMhrkBCqv7jViF/lnZz3VM0D5KPvL0VRycv1tNaoRAGSE9h2VG+K5BnpVn3QiuKG5EGAyYsoELQRTfF/gf0bGHe7zj0fetFSjSIbMpEVK8qh6lBRTW8FnZAPCofGZiwwu2JSFIDsAWpOawnP03utk3UaGFyAgItsGhHLljozPDNETd/hC+jkXaHQbunyEwIoCqv1ToWpTU9uIm030u0p3/t9pM/PPUHuH0kJ9fEDyHDigl59d7I6JtvWS7ygZHu9qaZwPMy7oBfoglO66upABqi9dQU6PhWQbobjkK2Rty5/a/p7pPJ0pm+UJqkMH1pKkhVlUXp083Ww4LcfQ4rLQ8COG3CfArwZZ8NJKQWGT3vg3XEP/4VjGfaz3gqRnCcrKC9Bw/Sx8Jhv7waBgS3ICBQowPgL5k2SqYPDu+eGOkAiF/qIHsdhzcf4oYiEkBY79ds1EZQ==;oAONf7EAianEw2HCWBncVA=="
 ---

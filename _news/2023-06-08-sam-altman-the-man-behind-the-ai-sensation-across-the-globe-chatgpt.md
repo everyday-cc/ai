@@ -110,6 +110,20 @@ related:
         width: 1600
         height: 885
         isCached: true
+  - title: "Aprimo Introduces AI Content Coach with ChatGPT"
+    excerpt: "Aprimo, a provider of digital asset management and marketing resource management solutions, has launched AI Content Coach, a content creation tool powered by Microsoft Azure OpenAI Service and ChatGPT. The interactive assistant seamlessly integrates with ..."
+    publishedDateTime: 2023-06-07T14:05:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Aprimo-Introduces-AI-Content-Coach-with-ChatGPT-159014.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/153076-0623_Concentrix_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
   - title: "Tim Cook covers Vision Pro, ChatGPT AI, and more in new interview"
     excerpt: "Apple's CEO Tim Cook announced the Vision Pro, the company's first \"spatial computer. Now, he was interviewed about it."
     publishedDateTime: 2023-06-06T15:23:00Z
@@ -143,6 +157,6 @@ related:
       domain: microsoft.com
     quality: 0
 
-secured: "1QFmAmPPU0Rd6eclq3gJdDMljLOuaEWNfAg60D66GymYnoocn9siT95A/vrXk8chE6KRWUtFyREn+ULC4cynAQDBjE53L3yQiC9JTp3gZcUbmfkKtSz3ik/bIoEpE6MOXAsoqJozezRhEwIg39nlJEIV4lhHmXC4G9uepIBMDFOkHCgkHafwWzfzJItLFhn7aQRUyYi8dcdrdLSGyasxCnBRkc8oWzbo1v9uK/UWVyToYDQ90SmwwDirGTGcYeRGk1wxXdXL0sHlnSVzvCtsGTtvwCQKXR06Ov4LBkjVPWEDqXZToHNEYXPAwpHNy8hhB1oXZJCNmbJW8H3c3fFwNAxw8A2E7fNR00yR9xxxRQo=;l2IiznnkYP/dlX19kfArgA=="
+secured: "MEx3zf9Ik1uWVJgrb2TgEpN1ONVpZWvZGhXKP6IfVgryXEuzx+PI3OO1IPx3fSlxXVchQ91hnrnUQeDAgqA1lc7u0NxxuaW7K7355FYYD5k9ZgnsBWXgxDu28hnC9MSV/JMiqIgXDgRAx5aYRkflP1U/Z84YRGGVY56Q2/CyYiWchNLN097eYROIWmElxHq2DEusOVPtkS0MfEbwV2LXecABFbad/GNCQHyhaiO683qprVgq++hUUnc/UYof0Eu/jN3/znVNptNvzC+8fnvSVU8yKIsVg/ZnUzGb8mWhuHB1sbc73Mv/SuAx7FJVoWCEHqGcVuqLw4Kr5vhXFlpRJ8KTFxLDiiruVw4tRlJoFN5KV0/4RIzDbuX/Ueh5T2gGwPi4hjD0W80hnlgGWorbdbp25Ajk9OhnMbNHraBkW+DQunofGd4gw9dNVq6ZAzK8O6T+z35Zy4b07jCP9migBl2HyznwxK302SC/GJx6pxtAAJ1Sa23NRQ88k8fDeVDFB1XAglvzg0VWzHTi8y/rRw==;baAaCIyH+oZRKD1n4Mc7vg=="
 ---
 

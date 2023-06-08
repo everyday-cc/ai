@@ -22,38 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Where To Start With Generative AI & The Customer Experience"
-    excerpt: "With leading brands beginning to deploy generative AI in the enterprise setting, customer service has emerged as a key testing ground."
-    publishedDateTime: 2023-06-06T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62a255ae259caf06f4876076/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Why The CHRO Will Be The New Boss Of Generative AI"
-    excerpt: "Your CHRO and team need to be firmly integrated into any initiative to successfully bring generative AI into your business."
-    publishedDateTime: 2023-06-07T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f4446248590063657d5cd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "SAFE Security claims to predict data breaches with new generative AI offering"
     excerpt: "SAFE Security’s Cyber Risk Cloud of Clouds generates likelihoods for different risk scenarios based on an organization’s cybersecurity posture."
     publishedDateTime: 2023-06-05T11:04:00Z
@@ -70,70 +38,43 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI Will Elevate Humans Into Higher-Value Jobs"
-    excerpt: "Language-generating artificial-intelligence tools, such as ChatGPT, will make work more efficient by cutting repetitive tasks and freeing up humans for new, higher-value jobs, according to European technology firms."
-    publishedDateTime: 2023-06-05T13:06:00Z
-    webUrl: "https://www.wsj.com/articles/generative-ai-will-elevate-humans-into-higher-value-jobs-e7eb05de"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-788169/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Gong launches customizable generative AI models to streamline sales workflows"
-    excerpt: "Gong unveiled a suite of proprietary generative AI models designed specifically for enhancing sales productivity."
-    publishedDateTime: 2023-06-08T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/gong-launches-customizable-generative-ai-models-to-streamline-sales-workflows/"
+  - title: "LinkedIn launches generative AI tool to write ad copy"
+    excerpt: "LinkedIn today launched a generative AI tool called AI Copy Suggestions to help advertisers draft texts for their ad campaigns."
+    publishedDateTime: 2023-06-08T15:52:00Z
+    webUrl: "https://venturebeat.com/ai/linkedin-launches-generative-ai-tool-to-write-ad-copy/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 61
-  - title: "Google’s AI-powered search experience is way too slow"
-    excerpt: "The worst thing about Google’s new AI-powered search experience is how long you have to wait. Can you think of the last time you waited for a Google Search result? For me, searches are generally instant."
-    publishedDateTime: 2023-06-04T12:00:00Z
-    webUrl: "https://www.theverge.com/23746083/google-ai-search-generative-experience-slow"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
-  - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
-    excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
-    publishedDateTime: 2023-06-06T07:19:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9826768.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 23
+    quality: 67
     images:
-      - url: "https://mma.prnewswire.com/media/2093629/IMKI_Custom_AI.jpg"
-        width: 400
-        height: 224
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1081412082.jpg?w=1200&strip=all"
+        width: 1200
+        height: 606
         isCached: true
-  - title: "Enterprise search startup Glean launches generative AI assistant"
-    excerpt: "The startup says the assistant, which is powered by generative AI models, is also capable of helping engineers with coding tasks. Palo Alto, California-based Glean exited stealth mode in 2021 with $55 million from investors."
-    publishedDateTime: 2023-06-06T17:31:00Z
-    webUrl: "https://siliconangle.com/2023/06/06/enterprise-search-startup-glean-launches-generative-ai-assistant/"
+  - title: "Google Cloud expands AI offerings with new tools, programs and partnerships"
+    excerpt: "Google Cloud is expanding into generative AI with a slew of new tools, services and programs aimed at helping businesses adopt the technology."
+    publishedDateTime: 2023-06-07T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/google-cloud-expands-ai-offerings-with-new-tools-programs-and-partnerships/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
-  - title: "Intuit Introduces Generative AI Operating System with Custom Trained Financial Large Language Models"
-    excerpt: "Intuit's GenOS empowers Intuit technologists to design, build and deploy breakthrough generative AI (GenAI) experiences with unparalleled speed. The company is fueling rapid innovation at scale across its products and services to solve its customers' most important financial problems and drive durable growth."
-    publishedDateTime: 2023-06-06T16:27:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/06/9827343.htm"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "CORRECTING and REPLACING Clarify Health Launches Generative Artificial Intelligence, Clara"
+    excerpt: "Contact us at clara@clarifyhealth.com to learn more about the closed beta program for Clarify's new generative artificial intelligence, Clara. (Graphic: Business Wire) The updated"
+    publishedDateTime: 2023-06-07T01:16:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_d5bc83a5-75d2-599c-bb85-5fc557b45a99.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 29
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/f/cc/fcc62d5d-2310-5539-8550-44fdcc6a06dd/647fdbe0269f6.image.jpg?crop=1019%2C535%2C2%2C0&resize=1019%2C535&order=crop%2Cresize"
+        width: 1019
+        height: 535
+        isCached: true
 
 secured: "R8CeDVEdoPQiq3FT0iPdjoj9cocfy6SCH1SY7N1E5paKJf4XgEFy7UKU0dNnT0m1B6Hf3Uf7z52YHOJ8XQBGrJ9AH4Vo2GGqaxPSr0vSWqVcZqFGx5Y3bP5a5lf8INbxZX2RE84ZHr60fOdpBg6gJ57Vdj4qW8wn304JYcUJKUUEoIhzszQormAhUhJNWVD/4sZEOYJOburza5lw63nrR/eN5l7G1y1Bk+83BtB4LW3Vq6wzAcLAVWvensJpmMBXmNlqP20xfZ9IJGZb0rQeE2epypi6t4ydfQu7fEzQXeyeAC2Y79RaGd/LPJhL1WpKqgquGmLvwl0OoTUsP7ARUbyI2uPGCj6MQzwwE0uwtNShbg/Yy93Zuij5/wUr3CoaelIorsrn3y4bXPNjl/8rzwYBe0DsaR9aGJnjYsX1pf8lhd2XLJ3XoklZIr+JHjQFnvr8tFZH/7hA9dJqNC7EMLe7WbXFBGyZaKqYr0xGNOb8Xc95UXQhsfrZEi8hR55wgK4ZBy4krIPC/JqEAH84ig==;4D6fzm2mZ9GgDCBFJ8h5ww=="
 ---

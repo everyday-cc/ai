@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Surging stockmarkets are powered by artificial intelligence"
-    excerpt: "D o you buy the hype? The release of Chat gpt, a tool designed by Open AI, has kicked off a wave of enthusiasm about artificial intelligence ( ai ). Everyone from spy agencies to law firms is trying to make use of the technology. And investors are working out how they might be able to take advantage of this by buying ai -exposed firms."
-    publishedDateTime: 2023-06-07T20:12:00Z
-    webUrl: "https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 37
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230610_FND001.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Synthetic Data Generation Market worth $2.1 billion by 2028 - Exclusive Report by MarketsandMarkets"
     excerpt: "Stability AI will use Amazon SageMaker (AWS's end-to-end machine learning service), as well as AWS's proven computing infrastructure and storage, to accelerate its work on open-source generative AI models. In October 2022, Microsoft partnered with ..."
     publishedDateTime: 2023-06-05T15:08:00Z

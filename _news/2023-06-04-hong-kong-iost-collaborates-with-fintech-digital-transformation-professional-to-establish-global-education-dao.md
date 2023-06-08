@@ -241,6 +241,15 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 0
+  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
+    excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
+    publishedDateTime: 2023-06-08T17:41:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230608/4082619.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "Oojbnvf9N3G8tXVxm0cxqEwNaLCr5fpIY5PiV6N1nscZGdKnf6IY3RAOpDW5+bolI0p2j8yJOwJIhQ3u2kHF4WGkuIsPjQ6VMlXCqbS8Jq87ZZ+GlCYOOU+WLbSVATGCI3o6L41U5tw4fq4EmSBxxCMlWjIWJ8/NBBZ6w7FJHNEk0za5qui6Wzx+dJ598zKBBZd4Bcr7RpkGC32w2KddxMsj90lkH+h+L0iPk5LYZR8JVZx7l38hZFhC4zxvb/cX7mJ0Yr8ij1UrxG/5jUqeMERFwCM+xlI5Sgkg7Pchu+WkiKPsr9/TmSusC7WFTkFQpQr6rDLMZmtfqZdy7lJ+SNTUqh4PgksNGwtcvuBqJ5hRH+cYl2YgP/hqin00QOw+GgCzhJ417nmmsP3aDfr+DAGlxdYH9ofMiBD/LO9yOCRmObsET/UdwvZ/aZvxvXxrPhFfSWoet07rthoETDECmNIOMh9kVNZy33KYAV2vpXYpHm94rVt3YP/jY2hJrqDuxYBMKOY5IkHb5D+pKf0acw==;4L60evtrVigpPP1xH/dZyA=="
 ---

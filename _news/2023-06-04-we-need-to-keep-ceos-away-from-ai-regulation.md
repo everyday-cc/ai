@@ -23,17 +23,6 @@ images:
     height: 377
     isCached: true
 
-related:
-  - title: "A row over artificial intelligence regulations looms on the horizon"
-    excerpt: "EU officials say Britain is behind the AI curve, while the UK points to the size of London’s tech industry as evidence that this country is best placed to play a vital role in any regulatory framework"
-    publishedDateTime: 2023-06-07T19:35:00Z
-    webUrl: "https://inews.co.uk/opinion/a-row-over-artificial-intelligence-regulations-looms-on-the-horizon-2395126?ico=most_popular"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 19
-
 secured: "y193b3s03SJpvbabaiU2E/UK63eRGFcVDOdtbUcPL+u0iPdA4vnk9MMbdaa2HGBjZwTV4YAqfdgXcNLMjgO9MOLw0J6JCkavZv9mrS1GT+IQinlUqAhyHiUVBT6wQT9IsRqiGvg8DU0cM0jwYWK4ObPYhmorGM0qBNdlgQAoyCRPZ2zI1bx/PzKVCmS8YE277soiMc6vfsnU42pHyF6dFZ1/y4Y/FVcjo1/VyXatygAXWWYxmkPpXMxH2e+EZs8cZoysYsfA6AzbQCXVejSITA9JVXcW8XE9xVhJvNwwpoYfHUSXi46JEI/FZzQ+6zQOuipStO+dF3cQnRf+S8HeOhluK4YWQ3poYdTahDH5NHFTvlZ2d7cxagBE7HSGYzVEieP4VC9uVbWh1/bMigzQARWV6fusPVkGiUHGWeRIj2y5HV+DBdq1VeBYrBXEdiwRTUArkxdmqDMVR0gzVixGNH2Sf4C7O3j0fN9LUZ/Q4TqHqU3lJpMKxKEJSg4ZrNibA2zGs+7OYxF4gaN2pGfEVQ==;bJNm9wA7ZHMKxXhTtZecHA=="
 ---
 

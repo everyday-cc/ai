@@ -123,6 +123,20 @@ related:
         width: 1600
         height: 885
         isCached: true
+  - title: "Aprimo Introduces AI Content Coach with ChatGPT"
+    excerpt: "Aprimo, a provider of digital asset management and marketing resource management solutions, has launched AI Content Coach, a content creation tool powered by Microsoft Azure OpenAI Service and ChatGPT. The interactive assistant seamlessly integrates with ..."
+    publishedDateTime: 2023-06-07T14:05:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Aprimo-Introduces-AI-Content-Coach-with-ChatGPT-159014.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/153076-0623_Concentrix_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
   - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
     excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
     publishedDateTime: 2023-06-06T14:45:00Z

@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Cloud expands AI offerings with new tools, programs and partnerships"
-    excerpt: "Google Cloud is expanding into generative AI with a slew of new tools, services and programs aimed at helping businesses adopt the technology."
-    publishedDateTime: 2023-06-07T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/google-cloud-expands-ai-offerings-with-new-tools-programs-and-partnerships/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Healthcare and generative AI: What are the emerging use cases?"
     excerpt: "Microsoft announces new partnerships with Nuance and Epic, integrating generative AI-powered tools to enable HCPs to document patient records and draft messages. – Google releases Med-Palm-2, a generative AI trained to answer medical questions,"
     publishedDateTime: 2023-06-06T13:27:00Z

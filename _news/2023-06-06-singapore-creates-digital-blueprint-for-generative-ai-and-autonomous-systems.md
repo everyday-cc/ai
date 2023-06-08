@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/networking/singapor
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Heres-What-You-Need-to-Know-About-the-AI-Themed-Singapore-Fintech-Festival-2023.png?x90673"
         width: 1024
         height: 567
+        isCached: true
+  - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
+    excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
+    publishedDateTime: 2023-06-06T07:19:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9826768.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/2093629/IMKI_Custom_AI.jpg"
+        width: 400
+        height: 224
         isCached: true
 
 secured: "FTGokyWpbj5aVx1fDbSza7cJrJYnto3GI9uF1jSVs+q7aYOtDrTT7JuAMumk1vJ5hA6V+p1FLzyx+fPH9KmsWw78jIX3uI4JTE1VWbRDXgr+9uVpo2TCcM7+ybOMd2+Up5m4XJmfhOcLNxw62DxHkP+SzyHzY9m+e/elCfljCEIkbDG8EPP9OEoPWkqSg6hMserJYDezOb3BGW8OIx04ULcORLZNHCIbf11Yl02ETM1QQ2cv44LVRTMG8qJ99L0CkyEihjReRbW5BKEL7o+eQqMAD/ecLhmVKJC7PugDk0M57HPVAlsHOGaFr66byeya1I69U2sRVwIKUyvNu47+hksYBoEyGXR1XBx0KYKDTpeNJDk8Ji7d8UFDCpe5xSt6rJ7VKKBYQ6uCd8xNgB81+c9DiQTHTSArA+uuuymbexUvKDmAXyJ9kjIP9i8ZV6dL+aPFB2JkVek6cw4aJr4I7VXXynoefMR5GTfhBq+cBc7P+qitCCout0b00oUznmurK2tK8L46fyKBee+4IyWMVA==;BqAox+QAvK8FJmeHMSGT/w=="

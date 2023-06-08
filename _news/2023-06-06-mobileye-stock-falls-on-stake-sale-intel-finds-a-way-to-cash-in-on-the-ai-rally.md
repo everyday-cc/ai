@@ -43,15 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Qualcomm, Mobileye, Other AI Chip Stocks That Can Thrive. It’s Not All About the Cloud."
-    excerpt: "While Nvidia is stealing the headlines, there are others players in the semiconductor space that can ride the artificial intelligence wave."
-    publishedDateTime: 2023-06-07T12:31:00Z
-    webUrl: "https://www.barrons.com/articles/qualcomm-mobileye-nvidia-ai-chip-stocks-497a0ab7"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 26
   - title: "Buy Mobileye Stock, Says Analyst. Self-Driving Cars Will Be Safer and Greener."
     excerpt: "Canaccord analyst George Gianarikas launched coverage of Mobileye with a Buy and a $50 price target for the stock."
     publishedDateTime: 2023-06-07T13:45:00Z

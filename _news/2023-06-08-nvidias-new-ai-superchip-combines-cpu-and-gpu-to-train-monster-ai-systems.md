@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/nvidias-new-a
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/amp/"
 type: article
 quality: 118
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Downplays Hybrid CPU-GPU Compute Engines, Merges NNP Into GPU"
+    excerpt: "When Intel announced its “Falcon Shores” project to build a hybrid CPU-GPU compute engine back in February 2022 that allowed the independent scaling of"
+    publishedDateTime: 2023-06-08T17:39:00Z
+    webUrl: "https://www.nextplatform.com/2023/06/08/intel-downplays-hybrid-cpu-gpu-compute-engines-merges-nnp-into-gpu/"
+    ampWebUrl: "https://www.nextplatform.com/2023/06/08/intel-downplays-hybrid-cpu-gpu-compute-engines-merges-nnp-into-gpu/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/08/intel-downplays-hybrid-cpu-gpu-compute-engines-merges-nnp-into-gpu/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "http://www.nextplatform.com/wp-content/uploads/2022/06/intel-super-compute-falcon-shores-packages.jpg"
+        width: 1038
+        height: 478
+        isCached: true
   - title: "4 AI or chip stocks to buy aside from Nvidia"
     excerpt: "NVIDIA and AMD will always go hand in hand whenever it comes to all prospects regarding Graphic Processing Units (GPUs). Prior to AI, AMD has always held a strong foothold in the PC space, powering most of the laptops alongside Intel Corporation (NASDAQ: INTC)."
     publishedDateTime: 2023-06-06T02:55:00Z
@@ -65,6 +81,6 @@ related:
       domain: moneycontrol.com
     quality: 0
 
-secured: "3STYJoiZbwMCOY8ohKjuLq5t727HSChlncJiQF7ud/Qn6LeWoH3k3huaZSIswuF7atsWibP1isA0yQ8Umt+8mxbqQfRDrWAoNdOE4m26PNbmxKQU9H4mtsBnmFbpc2GUeT+laoI6QSw8diobgUrZMJsRXXzSH3lhFsmB53k5MBhZzXDSOHCuvVLK2eznTf45iWBHz2u5XsUP7gZyIteRkqY+oxZv/2l7gVTsTQZ8yb3XlPxZsB0PZuOxR5wuCgv466kCD0x2rwbhWQvhRWcDte1/Uw3s7qNtHmZb8MV6OZkfI/dM7sgt7JZS6RoaZxgnG4i5mBpZxD2RU0RvlG+JhpYXtv9hmgHpxze2cc0UgNI=;6Rph8lD7gAnsBJWObDs8kg=="
+secured: "bIMns3mUnCaqJgBeEXaKGYTN4izhuoaXCXx3Df4Vzs3u1SbfmXEr7oWXrXJfP7Uw3c+4ug8qnP6imRXo2L95vLPFFqe/woaRTGhIjOBp4W8AHajgc8joCJdtl+xfxzejPYsiEUFUZP14McHlt+RCzvRTus4VSwNXhk8qUxW1Bg/zEBmpmleKpcwG0QjjYOATu7l6LaA1hsmNEe+31Gh4Rh4W5++wwFtEl7IEGwlAfwtBKnQ2JTwg/wNmpXhYn6SI4Q9GqIBoa80Hv7wXOeNoL5vAWYdgJHIuXb+SvTOTakBQPnbjSAvWoZz+ghScyB/GCsMCxSDheTk8owxUh+pBMsbZ7R80PuWXvgKjFsaMC/zNN9fal+/luquydV3eDXhm4xtJlDL1JjCDALRGwmqdlM+6eXrUtCkaNcOf6DmpDM5D5bH6hUdVaeVBcYesPEpEKJH+rHL4dsY3boURdi8U2B7w3Kci2W2GP0WiMqtETNKymYbvz/+lSqu7qOphT3GrePew8YSV+bnd35TD8l1bAA==;wHONqGERyQEts5HFzyoRLQ=="
 ---
 

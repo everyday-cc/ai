@@ -19,11 +19,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://dcs-static.gprod.postmedia.digital/13.7.5/websites/images/canada/fallback.jpg"
+  - url: "https://dcs-static.gprod.postmedia.digital/13.7.7/websites/images/canada/fallback.jpg"
     width: 640
     height: 480
     isCached: true
 
-secured: "XD4EhORXBimEJmEXEeI1ND4LT2GAr2nkBW+SvJKgN+28OcMNWgLl1vN40py1bqoZXCLVFhGl8xXQCeaMgniO3ASGBQVkExSjBTbYysUziOmIyYNixdfB5IBfpmzXSC2yNAAwlRKOFcPi4thddXJGVu9Jk54MSzQ+CiGqcfjprgn80YPYTsEQusmZ68awua+xymsYSFf6SzWeRVmOdxB9GIEGFgTGLs5bdwyLLb24yz+G72KYX8QLepOBzyqocQih6XhXPMQRkSfys2d63CCGEi+H5gxZKwDw7KhpsKttQ/7+a9Ixi5yNxY2jycWTl7N7rP9xLR5pDfMvwvxCq+lxCq7SQgDoWA78t9LBEhRNknk=;DZZ5TIPRy/e+hQumRZhZew=="
+secured: "J0HZMIxFEDYxJl+I0xalRyaig5gGgqYK4AoBWrUwhesckpXBy11E/yE0Oe+t92qE1G2rUeFHXXQg0cPbmSWxOUgjgKfaKSsu8LL/rxT4ORE5lm8hpeZHXIEFgdxKNQJC24dsnfzIfUMsp/xPghU4vqCHvWJH77QeGzLYA9DFXIh2VfhHvmBG3bs8O9i/IMakB3BL6sFS2To5dMxJ0gdlEYWGPAiqVfL4wdTDRp1xtzCBkVaboN50QBSsGUtsQAMVMKVtibh0QkgSC4FZwrPPTfxOMBF8MmQOQSIysSts+Tn2TKk29RlmWl5MnrtKXr4TcETGslwwn4zKnkGFdkkghAYHztBx4WnPdA7TkReS7v8=;MR4GX2UWman9EBzsqGB3mw=="
 ---
 

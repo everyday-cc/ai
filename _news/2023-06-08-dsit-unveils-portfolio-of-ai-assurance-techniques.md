@@ -7,7 +7,7 @@ originalUrl: "https://www.ukauthority.com/articles/dsit-unveils-portfolio-of-ai-
 webUrl: "https://www.ukauthority.com/articles/dsit-unveils-portfolio-of-ai-assurance-techniques/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 683
     height: 443
     isCached: true
+
+related:
+  - title: "CDEI publishes portfolio of AI assurance techniques"
+    excerpt: "The UK’s Centre for Data Ethics and Innovation has published a variety of case studies to show how different assurance techniques can build and maintain trust in artificial intelligence systems, which"
+    publishedDateTime: 2023-06-08T12:28:00Z
+    webUrl: "https://www.computerweekly.com/news/366539654/CDEI-publishes-portfolio-of-AI-assurance-techniques"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/certification-compliance-box-tick-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "sJpSZRqD+uLuL4SSxUtUzm83E1sbTPhHPGBRt7Av7zwRW6mSCDoOACd5z+fk192eH2KDKmzvO1OG9FUg9KJGIwsGJdHwaRPaCJD7kfZ1wDVoC0zwJ2GcS3gOWOPpCk6pyc3vhTaKSnNDOxFgmo4KDG6350JXzUI/ZPe9+4vjqDen6gBvaaNgbL7tUAsc5ddzZb/V+CWex3uD3hqFXHhCS0Ot6poVGRSY75Fml36H9F7dfG3/e6esTn50ejxw/yYbHNFB0lPd6Jd1iEypKLUjQKMB1Nd4MbPPe0hgCd+HD+ocT+gNXFy1SoABbM8bytti9yKp+8R0mvu9vPgRUmqLLX35YNv3FwvR3UZTTBgsSSILbA/HA/iWwyXCixp99hQonba6LHGZPREari7D5DwECZ5o3K4q/vs2JDSTg5mMf2EP3R5mHeAevCObRUePHMTvha2Z6VSam7xe398gakTpFMNdjVio/8pOZZseaawKnCRkeIPxv7RZSUdjnU7YVRaZPfnSY0VCuNNULLXcnoUgXw==;vPR8dJeOEYsJxCBECH4vfw=="
 ---

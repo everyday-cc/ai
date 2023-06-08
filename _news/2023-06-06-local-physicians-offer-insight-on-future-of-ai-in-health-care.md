@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Cloud expands AI offerings with new tools, programs and partnerships"
-    excerpt: "Google Cloud is expanding into generative AI with a slew of new tools, services and programs aimed at helping businesses adopt the technology."
-    publishedDateTime: 2023-06-07T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/google-cloud-expands-ai-offerings-with-new-tools-programs-and-partnerships/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Google expands intelligent cloud into healthcare"
     excerpt: "Helping medical professionals find patent informationGoogle's cloud business is expanding its use of new artificial intelligence technologies in health care. It allows medical professionals at Mayo Clinic to find patient information using tools powering the latest chatbots quickly."
     publishedDateTime: 2023-06-08T09:50:00Z

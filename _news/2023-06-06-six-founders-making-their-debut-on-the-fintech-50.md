@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tech giants throw weight behind AI start-up Cohere"
+    excerpt: "AI developer Cohere scored an investment worth $270 million from its latest funding round which was joined by technology giants."
+    publishedDateTime: 2023-06-08T16:19:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/tech-giants-throw-weight-behind-ai-start-up-cohere/"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/tech-giants-throw-weight-behind-ai-start-up-cohere/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/tech-giants-throw-weight-behind-ai-start-up-cohere/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 57
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2023/05/MWL_AI_generative_bot_morals_rights_650.jpeg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "5 Interesting Startup Deals You May Have Missed In May: Brain-Boosting Nutrients And Fintech For Retirees"
     excerpt: "The last full month of spring saw some big fundraising announcements, but these smaller, interesting startup deals are also worth noting."
     publishedDateTime: 2023-06-06T10:59:00Z

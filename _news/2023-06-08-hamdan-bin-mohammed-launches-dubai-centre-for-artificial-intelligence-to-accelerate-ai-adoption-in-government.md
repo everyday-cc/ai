@@ -9,7 +9,7 @@ ampWebUrl: "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-
 cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
     quality: 46
     images:
       - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2019/12/29/dubai-property-750.ashx?h=450&w=750&hash=AF2A133D845714D6DAC80260444D29A9"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "Sheikh Hamdan launches Dubai Centre for Artificial Intelligence to accelerate government services"
+    excerpt: "\"Dubai’s government will be the best in the world in deploying artificial intelligence (AI) within its various entities. This new Centre is the first step in achieving this goal and developing future services to keep pace with rapid technological advancements."
+    publishedDateTime: 2023-06-08T16:29:00Z
+    webUrl: "https://www.gulftoday.ae/business/2023/06/08/sheikh-hamdan-launches-dubai-centre-for-artificial-intelligence-to-accelerate-government-services"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 41
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/6/8/hamdan1-ai-centre.ashx?h=450&w=750&hash=7015494E182873E00ED3CF41B76A09A3"
         width: 750
         height: 450
         isCached: true

@@ -19,29 +19,59 @@ topics:
   - AI
 
 related:
-  - title: "Here's one thing AI can do for 3 of our mega-cap tech stocks"
-    excerpt: "A series of recent deals, announcements and upgrades involving three major cloud-computing names all share a common thread: Artificial intelligence."
-    publishedDateTime: 2023-06-07T18:54:00Z
-    webUrl: "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html"
+  - title: "Don't bank on AI predicting the stock market anytime soon"
+    excerpt: "The idea of artificial intelligence being able to predict the market is a pipe dream, according to Wall Street vet Marty Chavez. Here's why."
+    publishedDateTime: 2023-06-08T17:38:00Z
+    webUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106207351-1572269966772gettyimages-1135936133.jpeg?v=1686171192&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://i.insider.com/64820c2d8f265d001998c5e8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Here's one thing AI can do for 3 of our mega-cap tech stocks that they couldn’t do before"
-    excerpt: "A series of recent deals, announcements and upgrades involving three major cloud-computing names all share a common thread: Artificial intelligence."
-    publishedDateTime: 2023-06-07T23:53:00Z
-    webUrl: "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html"
+  - title: "Yet another article on artificial intelligence"
+    excerpt: "My original article said they really should put the brakes on this experiment for a while, but I didn’t declare an emergency. We’ve been hearing warnings about AI taking over since the first “Terminator” movie 39 years ago,"
+    publishedDateTime: 2023-06-05T10:00:00Z
+    webUrl: "https://www.bangordailynews.com/2023/06/05/opinion/opinion-contributor/artificial-intelligence-warnings/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 40
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 37
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2023/06/Europe-AI-Rules.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Surging stockmarkets are powered by artificial intelligence"
+    excerpt: "D o you buy the hype? The release of Chat gpt, a tool designed by Open AI, has kicked off a wave of enthusiasm about artificial intelligence ( ai ). Everyone from spy agencies to law firms is trying to make use of the technology. And investors are working out how they might be able to take advantage of this by buying ai -exposed firms."
+    publishedDateTime: 2023-06-07T20:12:00Z
+    webUrl: "https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230610_FND001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "On artificial intelligence, the sky really may be falling"
+    excerpt: "“Sometimes I think it’s as if aliens have landed and people haven’t realized because they speak very good English,” said Geoffrey Hinton, the “godfather of AI” (artificial intelligence), who resigned from Google and now fears his godchildren ..."
+    publishedDateTime: 2023-06-05T02:43:00Z
+    webUrl: "https://www.thestar.com/ths/opinion/contributors/2023/05/31/on-artificial-intelligence-the-sky-really-may-be-falling.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 17
 
 secured: "ZsvAR1EN8ldZ6FJGVH4DcTJcUN2kSceWDsyf9LKbAHHgt9dp4KlQ/EE0Io589NqXhPIi77N3tk2ZUKVwdVpav9F14tXHHeo6oyVbw4QDSE/F0Ck4ORhQ8CvlCggZyw1htfWxUzsRW+1vOcdIKQ8u66/+nPsqHGGGszN2F1uV9MWD36BcVWBG5C41kRUSHVywb6EQ3KtfXlgZnOOgCb6AY1o+gGZ+M3swgn5wVm106arQuniXgFbGltvh/VAHSUKWOq3dGI0AJZOdsBHNqsSkhgq21vC0kC769CW8FRuqzLDsCPxyCRygYee934DKibSn3pdKu2FzUUfmebFXvV4X0iOlZl3YLTWZw6eqWJuyHKJgShWKmBAc0ZiUGNAP0kDoYVbRlneMkzRHDtSzp8eSEph6RWn3LeKA1YHpg4bOCjAFPPLb7hqknzeLO0RQNJhYlMgzcSdSTIAD/7bC0BWzXf0HPLaNvppTBU3k0ql/BJhNQuTAp/3Jxne9vh6UykJwS6tbrOHXspKyOLMLbF0Kzw==;YtaJ9urZW/nKdY+nlBdGiA=="
 ---

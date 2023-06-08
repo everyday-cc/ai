@@ -239,6 +239,15 @@ related:
         width: 399
         height: 400
         isCached: true
+  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
+    excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
+    publishedDateTime: 2023-06-08T17:41:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230608/4082619.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "gTSJaPG6djc7cnbKweBj+5sx5ya36l051sIltcKyTZBHQeV6116rS34CD6nBZLlMuZ2JMBblr8AeHWaabgA5+PSxgrQv/U8O2AqAJMDAjNqGBFqcVNck807MApDqo2AF82yUpykgsgVjlBTZPafH003fzQY5OBjkVCr75I+JWFDprdTjyPbgspxDLJXz629vosYGn3Tp96j0CrUml+Hmu2Ek0HD5kFfSmEwr6haxJHjpKNTFT/NoRG0HeWxN/oWN0Wl21y4zdAv/G3QB8xVvdUZ9NHzOe5/WzO/gFEw1kAvET06b0F+ewuhZo93/8lnqpqh/5BVoQQtgeAIoWrCqEGyBYoU3l9ex2usqZKB4DjI=;ALcvhyE2OnG65CDVVnpYJw=="
 ---

@@ -24,113 +24,52 @@ images:
     isCached: true
 
 related:
-  - title: "Where To Start With Generative AI & The Customer Experience"
-    excerpt: "With leading brands beginning to deploy generative AI in the enterprise setting, customer service has emerged as a key testing ground."
-    publishedDateTime: 2023-06-06T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
+  - title: "Singapore creates digital blueprint for generative AI and autonomous systems"
+    excerpt: "Singapore has laid out a years-long roadmap it believes will ensure its digital infrastructure is ready to tap emerging technologies, such as generative artificial intelligence (AI), autonomous systems, and immersive multi-party interactions."
+    publishedDateTime: 2023-06-06T06:58:00Z
+    webUrl: "https://www.zdnet.com/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62a255ae259caf06f4876076/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/ff53e6c4483e5779afacd8333ae6436da3ef5629/2023/06/06/c440993d-c081-419a-8e99-fa6ca3d33864/gettyimages-601843233.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Why The CHRO Will Be The New Boss Of Generative AI"
-    excerpt: "Your CHRO and team need to be firmly integrated into any initiative to successfully bring generative AI into your business."
-    publishedDateTime: 2023-06-07T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
+  - title: "Singapore identifies six generative AI risks, sets up foundation to guide adoption"
+    excerpt: "Singapore has identified six top risks associated with generative artificial intelligence (AI) and proposed a framework on how these issues can be addressed. It also has established a foundation that looks to tap the open-source community to develop test toolkits that mitigate the risks of adopting AI ."
+    publishedDateTime: 2023-06-08T08:12:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f4446248590063657d5cd/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/67181d585de08fe20b24ec7a9fb98a85b8747e20/2023/06/07/c25bec5e-dc42-4e7b-b1e0-d04d05aa7004/gettyimages-1258475356.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "SAFE Security claims to predict data breaches with new generative AI offering"
-    excerpt: "SAFE Security’s Cyber Risk Cloud of Clouds generates likelihoods for different risk scenarios based on an organization’s cybersecurity posture."
-    publishedDateTime: 2023-06-05T11:04:00Z
-    webUrl: "https://www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.html"
-    ampWebUrl: "https://www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.amp.html"
+  - title: "Here’s What You Need to Know About the AI-Themed Singapore Fintech Festival 2023"
+    excerpt: "The theme for the upcoming Singapore Fintech Festival 2023 would be ‘Applications of Artificial Intelligence (AI) in Financial Services’."
+    publishedDateTime: 2023-06-05T04:05:00Z
+    webUrl: "https://fintechnews.sg/74766/singapore-fintech-festival-2023/heres-what-you-need-to-know-about-the-ai-themed-singapore-fintech-festival-2023/"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 73
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 34
     images:
-      - url: "https://images.idgesg.net/images/article/2017/12/digital-ball-hand-prediction-100744622-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Heres-What-You-Need-to-Know-About-the-AI-Themed-Singapore-Fintech-Festival-2023.png?x90673"
+        width: 1024
+        height: 567
         isCached: true
-  - title: "Generative AI Will Elevate Humans Into Higher-Value Jobs"
-    excerpt: "Language-generating artificial-intelligence tools, such as ChatGPT, will make work more efficient by cutting repetitive tasks and freeing up humans for new, higher-value jobs, according to European technology firms."
-    publishedDateTime: 2023-06-05T13:06:00Z
-    webUrl: "https://www.wsj.com/articles/generative-ai-will-elevate-humans-into-higher-value-jobs-e7eb05de"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-788169/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Gong launches customizable generative AI models to streamline sales workflows"
-    excerpt: "Gong unveiled a suite of proprietary generative AI models designed specifically for enhancing sales productivity."
-    publishedDateTime: 2023-06-08T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/gong-launches-customizable-generative-ai-models-to-streamline-sales-workflows/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-  - title: "Google’s AI-powered search experience is way too slow"
-    excerpt: "The worst thing about Google’s new AI-powered search experience is how long you have to wait. Can you think of the last time you waited for a Google Search result? For me, searches are generally instant."
-    publishedDateTime: 2023-06-04T12:00:00Z
-    webUrl: "https://www.theverge.com/23746083/google-ai-search-generative-experience-slow"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
-  - title: "Impact Analytics enhances its AI-native product portfolio with generative AI technologies"
-    excerpt: "Today's fastest-growing AI-powered retail-planning provider seizes the opportunity to exploit complementary, innovative AI technologies.LINTHICUM"
-    publishedDateTime: 2023-06-07T14:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/impact-analytics-enhances-its-ai-native-product-portfolio-with-generative-ai-technologies-1032375681"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "Enterprise search startup Glean launches generative AI assistant"
-    excerpt: "The startup says the assistant, which is powered by generative AI models, is also capable of helping engineers with coding tasks. Palo Alto, California-based Glean exited stealth mode in 2021 with $55 million from investors."
-    publishedDateTime: 2023-06-06T17:31:00Z
-    webUrl: "https://siliconangle.com/2023/06/06/enterprise-search-startup-glean-launches-generative-ai-assistant/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
-  - title: "Intuit Introduces Generative AI Operating System with Custom Trained Financial Large Language Models"
-    excerpt: "Intuit's GenOS empowers Intuit technologists to design, build and deploy breakthrough generative AI (GenAI) experiences with unparalleled speed. The company is fueling rapid innovation at scale across its products and services to solve its customers' most important financial problems and drive durable growth."
-    publishedDateTime: 2023-06-06T16:27:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/06/9827343.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "neCzirLQr8HgMjM3r14chNBQ/Go5qGqVJiJ3eCOcWDh0bnk2sqfaJaxDi1FOBdrNsEX9XiLRbSFqi9dycFsWo5HVh3GosBMSbr6HWsPee3xpWSVT1taLBER6Kvz9dIVAxcGW0hRu3dWbPR3lcohHtMvSHRbNmgiuK1GYF1TpMhqczV5+V3AUXLgYgENiVbe3moB5BrCkFZWjnx4tqYNjNZ769LrEFGRHWVMuI+TYgjZZFJNIlFGnL4roTVJySkteOkfVaSFy/sLZitUNGrMvdxuRmbVddBC3OuBblAJtCZ2HJIBOF3uMJg2IjFpZyV0oHZb86ev4dMV1E7j6G1I8I/WdfaVJgGDpscEFl/kI+EgmWbdxYO89kd5JJOoVKdmGjdg1Ngz7PjpzOOId7TfvaUoC8+5/q6sakEd+TebpxTqGy25VpLs4NmDfe40wGIjQnpIIlzN5/n9uaVYIegGKI5TyxcSGWOBGk/anegH8PBAHp5AGQsFskROyDWXZCrP3a5kc6dWmWN1d5hkOwAUM4w==;FaRzJ7f09e2af56NIlfoKA=="
 ---

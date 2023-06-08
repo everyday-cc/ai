@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/"
 type: article
 quality: 106
-heat: 266
+heat: 276
 published: true
 
 provider:
@@ -244,6 +244,15 @@ related:
     provider:
       name: Medgadget
       domain: medgadget.com
+    quality: 0
+  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
+    excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
+    publishedDateTime: 2023-06-08T17:41:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230608/4082619.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "EFpbSSQx7vWwZ9+kYSTuK+0x+h8wyzF+9NjEjQvprBgf1fUS0HWeu/dgp/TTaSsOuLsSoowIqTqONNMf8ErmTSPPZ9wv7dRnlqrO6X7DHgYkKmxCO8dC+LNU6f0I6KbxMRzh3Ax0UL+IeJx6ghm06rcidQnKODdesIfgDSYPCSaIWVBJ6d/KFeSC97+P3tp4NP7Au/Wsl7gI43FAG7K/2kIdEIPptZswPJrolfreE7mP+pQt72RF+MnDB8hyL5F9dQa9x/Hco3Vi3hSaRSqEJm63brpH7GztbYsODGKUrblT1psGrDjyamGbnFwfleXvZVoDKrc2Qb2drtmeICliFZ4vb/KqGaRUJyRI9NTRr2cRZt0akoXvw0m6NhPmyx48L4U+T6Va9mlPEYyFiznp+CePZ4QbjnALmTM0bj5V5YDLu1zpfP3iPljFmi1BZziDR2Hih60myNgwAZ+vRFRqUi2RuFD2JMniCt/H6KS0eH1JHSGCcVtngFbrgnqPqfbloyLgewHKp6JwE/v8OFolZw==;PwR0Ro5eaLrZLolg4FhcAQ=="

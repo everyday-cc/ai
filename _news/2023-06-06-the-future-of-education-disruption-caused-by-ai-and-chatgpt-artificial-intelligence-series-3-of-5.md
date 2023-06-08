@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
 type: article
 quality: 108
-heat: 198
+heat: 208
 published: true
 
 provider:
@@ -115,6 +115,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-279.jpg?quality=82&strip=all"
         width: 1600
         height: 885
+        isCached: true
+  - title: "Aprimo Introduces AI Content Coach with ChatGPT"
+    excerpt: "Aprimo, a provider of digital asset management and marketing resource management solutions, has launched AI Content Coach, a content creation tool powered by Microsoft Azure OpenAI Service and ChatGPT. The interactive assistant seamlessly integrates with ..."
+    publishedDateTime: 2023-06-07T14:05:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Aprimo-Introduces-AI-Content-Coach-with-ChatGPT-159014.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/153076-0623_Concentrix_480x610-ORG.png"
+        width: 480
+        height: 610
         isCached: true
   - title: "Tim Cook covers Vision Pro, ChatGPT AI, and more in new interview"
     excerpt: "Apple's CEO Tim Cook announced the Vision Pro, the company's first \"spatial computer. Now, he was interviewed about it."
