@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
       - url: "https://images.wsj.net/im-788169/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "These Enterprise Generative AI Use Cases are Emerging"
-    excerpt: "Generative AI models are continuously bringing new business opportunities. Generative AI use cases are emerging in enterprises for bringing transformations."
-    publishedDateTime: 2023-06-05T14:45:00Z
-    webUrl: "https://enterprisetalk.com/featured/generative-ai/"
-    ampWebUrl: "https://enterprisetalk.com/featured/generative-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/generative-ai/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 61
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/These-Enterprise-Generative-AI-Use-Cases-are-Emerging.jpg"
-        width: 1500
-        height: 844
         isCached: true
   - title: "Google’s AI-powered search experience is way too slow"
     excerpt: "The worst thing about Google’s new AI-powered search experience is how long you have to wait. Can you think of the last time you waited for a Google Search result? For me, searches are generally instant."

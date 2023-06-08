@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-ris
 webUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-rise-of-a-fintech-startup-using-ai-and-human-insight-to-fight-fraud/"
 type: article
 quality: 65
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647e885f569e20559457b388/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI Disruption in FinTech: Exploring the Impact of AI-powered Tools Like IndexGPT"
-    excerpt: "AI's use cases in fintech continue to grow, from data analysis to customer service. New sophisticated tools like IndexGPT are being developed."
-    publishedDateTime: 2023-06-05T10:35:00Z
-    webUrl: "https://www.techopedia.com/ai-in-fintech-exploring-the-impact-of-tools-like-indexgpt"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 34
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/02/benefits-of-cloud-computing-3.jpg"
-        width: 810
-        height: 432
         isCached: true
   - title: "5 Interesting Startup Deals You May Have Missed In May: Brain-Boosting Nutrients And Fintech For Retirees"
     excerpt: "The last full month of spring saw some big fundraising announcements, but these smaller, interesting startup deals are also worth noting."

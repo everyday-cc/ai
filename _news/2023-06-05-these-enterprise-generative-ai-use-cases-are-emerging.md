@@ -28,118 +28,90 @@ images:
     isCached: true
 
 related:
-  - title: "Where To Start With Generative AI & The Customer Experience"
-    excerpt: "With leading brands beginning to deploy generative AI in the enterprise setting, customer service has emerged as a key testing ground."
-    publishedDateTime: 2023-06-06T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
+  - title: "Enabling AI-powered business intelligence across the enterprise"
+    excerpt: "Data is the lifeblood of successful organizations. Beyond the traditional data roles&#8212;data engineers, analysts, architects&#8212;decision-makers across an organization need flexible, self-service access to data-driven insights accelerated by artificial intelligence (AI). From marketing to HR, finance"
+    publishedDateTime: 2023-06-08T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62a255ae259caf06f4876076/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enabling-AI-powered-business-intelligence-across-the-enterprise--scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
-  - title: "Why The CHRO Will Be The New Boss Of Generative AI"
-    excerpt: "Your CHRO and team need to be firmly integrated into any initiative to successfully bring generative AI into your business."
-    publishedDateTime: 2023-06-07T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
+  - title: "How to create generative AI confidence for enterprise success"
+    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
+    publishedDateTime: 2023-06-04T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f4446248590063657d5cd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "SAFE Security claims to predict data breaches with new generative AI offering"
-    excerpt: "SAFE Security’s Cyber Risk Cloud of Clouds generates likelihoods for different risk scenarios based on an organization’s cybersecurity posture."
-    publishedDateTime: 2023-06-05T11:04:00Z
-    webUrl: "https://www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.html"
-    ampWebUrl: "https://www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3698728/safe-security-claims-to-predict-data-breaches-with-new-generative-ai-offering.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 73
-    images:
-      - url: "https://images.idgesg.net/images/article/2017/12/digital-ball-hand-prediction-100744622-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Generative AI Will Elevate Humans Into Higher-Value Jobs"
-    excerpt: "Language-generating artificial-intelligence tools, such as ChatGPT, will make work more efficient by cutting repetitive tasks and freeing up humans for new, higher-value jobs, according to European technology firms."
-    publishedDateTime: 2023-06-05T13:06:00Z
-    webUrl: "https://www.wsj.com/articles/generative-ai-will-elevate-humans-into-higher-value-jobs-e7eb05de"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 67
     images:
-      - url: "https://images.wsj.net/im-788169/social"
-        width: 1280
-        height: 640
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
+        width: 1200
+        height: 579
         isCached: true
-  - title: "Google’s AI-powered search experience is way too slow"
-    excerpt: "The worst thing about Google’s new AI-powered search experience is how long you have to wait. Can you think of the last time you waited for a Google Search result? For me, searches are generally instant."
-    publishedDateTime: 2023-06-04T12:00:00Z
-    webUrl: "https://www.theverge.com/23746083/google-ai-search-generative-experience-slow"
+  - title: "Advancing Intelligence at the Edge with AI Vision Processors"
+    excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
+    publishedDateTime: 2023-06-05T16:21:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21266232/texas-instruments-advancing-intelligence-at-the-edge-with-ai-vision-processors"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
-  - title: "Impact Analytics enhances its AI-native product portfolio with generative AI technologies"
-    excerpt: "Today's fastest-growing AI-powered retail-planning provider seizes the opportunity to exploit complementary, innovative AI technologies.LINTHICUM"
-    publishedDateTime: 2023-06-07T14:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/impact-analytics-enhances-its-ai-native-product-portfolio-with-generative-ai-technologies-1032375681"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
-    excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
-    publishedDateTime: 2023-06-06T07:19:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9826768.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 23
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/2093629/IMKI_Custom_AI.jpg"
-        width: 400
-        height: 224
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Enterprise search startup Glean launches generative AI assistant"
-    excerpt: "The startup says the assistant, which is powered by generative AI models, is also capable of helping engineers with coding tasks. Palo Alto, California-based Glean exited stealth mode in 2021 with $55 million from investors."
-    publishedDateTime: 2023-06-06T17:31:00Z
-    webUrl: "https://siliconangle.com/2023/06/06/enterprise-search-startup-glean-launches-generative-ai-assistant/"
+  - title: "One-sentence warning on artificial intelligence"
+    excerpt: "THIS week, 80 artificial intelligence scientists and more than 200 ‘other notable figures’ signed a statement that says ‘mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as"
+    publishedDateTime: 2023-06-04T18:05:00Z
+    webUrl: "https://www.newagebd.net/article/203394/one-sentence-warning-on-artificial-intelligence"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
-  - title: "Intuit Introduces Generative AI Operating System with Custom Trained Financial Large Language Models"
-    excerpt: "Intuit's GenOS empowers Intuit technologists to design, build and deploy breakthrough generative AI (GenAI) experiences with unparalleled speed. The company is fueling rapid innovation at scale across its products and services to solve its customers' most important financial problems and drive durable growth."
-    publishedDateTime: 2023-06-06T16:27:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/06/9827343.htm"
+      name: New Age
+      domain: newagebd.net
+    quality: 39
+    images:
+      - url: "https://www.newagebd.com/files/records/news/202306/203394_og.png"
+        width: 790
+        height: 452
+        isCached: true
+  - title: "AI-Powered Hyro Raises $20M to Advance Responsible Artificial Intelligence-Enhanced Communications for Enterprise"
+    excerpt: "Hyro, which claims to be the leader in plug-and-play conversational AI, announced that it has finalized a $20 million Series B funding round."
+    publishedDateTime: 2023-06-04T11:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208056-ai-powered-hyro-raises-20m-to-advance-responsible-artificial-intelligence-enhanced-communications-for-enterprise/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 35
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Machine-Learning-Artificial-Intelligence-AI.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
+  - title: "AI Disruption in FinTech: Exploring the Impact of AI-powered Tools Like IndexGPT"
+    excerpt: "AI's use cases in fintech continue to grow, from data analysis to customer service. New sophisticated tools like IndexGPT are being developed."
+    publishedDateTime: 2023-06-05T10:35:00Z
+    webUrl: "https://www.techopedia.com/ai-in-fintech-exploring-the-impact-of-tools-like-indexgpt"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 34
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/02/benefits-of-cloud-computing-3.jpg"
+        width: 810
+        height: 432
+        isCached: true
 
 secured: "v/GaFl0JwK1FTmGPLpe/CqsNusr/nvJ8pUaf7x0vJVE96cgrpyfHbaB2IriaOTIEu0IvXjxHRlJrz/EZwBWzwtTzQb90WdmXHVCnwcwo2T4x4k0tislDNyvB32KUjSxjvOS0I1ILNZFRcoFAX/tSrjQ9PAxmDpjUb63D2d/QdLS8h31sPVKqb+DNXD6Zz7N2cFDblIcx5xTdT29VadvHy3pQu0VpzTrsB5FwI+ZXl/cYScELDpiynMS7HrcNUQBV7pgGaDqrx4wL2BZJtq/+Tq5VE6xzNZBNYPK+L9sVp2q2dAoRAF97xUXldimv/Z1ZBXxpW1eA8XeQ4ECM316Y0wP7Lugozuq1X85n1I+Sv5BQC70/epLtTH0QXI1w787/u854k7vg2sjjPef3bP1CqewNysACRBG50CrWynCGJJTbGVzJ4Dgd4rpUmDU6Np2wLKqoCBtk683sCMZk40+IQ1sUZ436O1NqaCh8tI0vO2uC8iHv+4TqtbAI0LJqGpilXKpEHXLEyczDO+lhct1ZjQ==;IZ4hKo5/wy6qFQdOx9OlCg=="
 ---

@@ -1,28 +1,28 @@
 ---
 category: news
-title: "AI Chatbots Offer Comfort To The Bereaved"
+title: "AI chatbots offer comfort to the bereaved"
 excerpt: "Staying in touch with a loved one after their death is the promise of several start-ups using the powers artificial intelligence, though not without raising ethical questions."
-publishedDateTime: 2023-06-08T01:29:00Z
-originalUrl: "https://www.barrons.com/news/ai-chatbots-offer-comfort-to-the-bereaved-c58e926a"
-webUrl: "https://www.barrons.com/news/ai-chatbots-offer-comfort-to-the-bereaved-c58e926a"
-ampWebUrl: "https://www.barrons.com/amp/news/ai-chatbots-offer-comfort-to-the-bereaved-c58e926a"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-chatbots-offer-comfort-to-the-bereaved-c58e926a"
+publishedDateTime: 2023-06-08T07:55:00Z
+originalUrl: "https://techxplore.com/news/2023-06-ai-chatbots-comfort-bereaved.html"
+webUrl: "https://techxplore.com/news/2023-06-ai-chatbots-comfort-bereaved.html"
+ampWebUrl: "https://techxplore.com/news/2023-06-ai-chatbots-comfort-bereaved.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chatbots-comfort-bereaved.amp"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP1012993008938145891848327800656702415566---1.jpg"
-    width: 768
-    height: 512
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/actor-william-shatner.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -90,6 +90,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "AI chatbots offer comfort to the bereaved, ethics notwithstanding"
+    excerpt: "Thanks to generative artificial intelligence, avatars of departed loved ones can now convey things they never said when they were alive."
+    publishedDateTime: 2023-06-08T07:32:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/06/08/ai-chatbots-offer-comfort-to-the-bereaved-ethics-notwithstanding/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
   - title: "An AI chatbot might soon slide into your Instagram DMs"
     excerpt: "Instagram is reportedly working on an AI chatbot that will let users choose between 30 different personalities to chat with."
     publishedDateTime: 2023-06-07T18:21:00Z
@@ -100,6 +109,6 @@ related:
       domain: bgr.com
     quality: 17
 
-secured: "1KKAnKv1L2jLnjUYqFrzwZk+EgBQQ08OA8Mh6LrPnh/p0PElSO28OXEElMb/eIxt84cw2wj6pRUPZe9uuWcCnYFHdY6Ghq1coQeg0QKLAaRhhUeogd7CQHpFpryGTyYpmT4c5mojpnmMDM7NX//ncHPCe8yN8nean1tQhgJlkfrhhyT2cia73g0qz2qBXUde8wHvbkkQtLbwE+k7LqS8adw6Dh8gcZEZhQugOmc6PAtJrPdNusBS01qJG/LAaPmlbF0WTi+ebro8hSyvGfBMraBugp1G2T/gPaW0BRBs0ecV/rHnSTzQHW/i3sDtzTyfkjqq4Cyv6Stjd/hHhdO6Y3yC5sS7MseASQf/xQLDVNRyyhHXm4zgxW7kIdZPIj+4GJoi8XGDxCLB1jf5XmB0Slr66l822w4uSAIZeOdvd7fFpvVCsJ+lvFNmzh02rV5He7uPuId0QYtNUFS95PIThtV0XKr5smDcJY7iUNTr4uGCuwXU0vm8FoIXMYumretqMiI0vXZQBZjXB3R22A4WGA==;ndUuq1xQEWe5y+Ur91DeUg=="
+secured: "wZ92VBlxKCJHDCVbePXIbsWJma3teznwIb1/HnMMV3eZ3mbAuXmeKwxOEeCmuYelKgrKAE/icqvmvcHkuy4Vqg2QLhJUY2ejYIeTKZMHUH3vF01ayUiRu97HxBfiZ3B/bHbSK0txRpVN8HNBjbxVnLB4BOpFmFDXHSTBysY94opVrKS3eKplixdfDI/oBYA3GMSEo+R+j8kyyhO0gUZAIZYvPlXiQNCYAJmFuEJUz5ZYkpyzI5v+iTAuB4NnHEBRNTWK+GaIgJYZpPTVRuXO/GixxXMmCpiVDpzkszcmuC9tMTHNYS05g8HRfC5ZQbWmbwW8gOolZT8716GrPwIYhoZSGr99a8YxEuQltmOP6K0=;E5Y5Ipf9Msn1Ucx4fIZUaw=="
 ---
 

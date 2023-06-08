@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-06-01-china-ai-startup-minimax-raising-over-250-mln-from-tencent-backed-entity-others-sources.md",
+      "title": "China AI startup MiniMax raising over $250 mln from Tencent-backed entity, others - sources",
+      "excerpt": "Chinese startup MiniMax, working on AI solutions similar to that of Microsoft-backed OpenAI's ChatGPT, is close to completing a fundraising of more than $250 million that will value it at about $1.2 billion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/china-ai-startup-minimax-raising-over-250-mln-tencent-backed-entity-others-2023-06-01/?taid=647861acc5325a0001468301",
+      "originalUrl": "https://www.reuters.com/technology/china-ai-startup-minimax-raising-over-250-mln-tencent-backed-entity-others-2023-06-01/?taid=647861acc5325a0001468301",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/zbM4LKzDJ8HMsa46MNnK7MqdDPI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34BX3KHMXBPTPP4KRTJSDCN4AA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-one-third-of-people-cant-tell-a-human-from-an-ai-heres-why-that-matters.md",
       "title": "One-third of people can’t tell a human from an AI. Here’s why that matters",
       "excerpt": "OpenAI-rival AI21 Labs performed a social experiment that found that 32% of people can't tell the difference between a human and an AI bot.",
@@ -1157,48 +1208,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-us-europe-working-on-voluntary-ai-code-of-conduct-as-calls-grow-for-regulation.md",
-      "title": "US, Europe working on voluntary AI code of conduct as calls grow for regulation",
-      "excerpt": "The United States and Europe are drawing up a voluntary code of conduct for artificial intelligence, with a draft expected in weeks",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/us-europe-working-voluntary-ai-code-conduct-calls-99729628",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/us-europe-working-voluntary-ai-code-conduct-calls-99729628",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/us-europe-working-voluntary-ai-code-conduct-calls-99729628",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/us-europe-working-voluntary-ai-code-conduct-calls-99729628",
-      "publishedDateTime": "2023-05-31T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

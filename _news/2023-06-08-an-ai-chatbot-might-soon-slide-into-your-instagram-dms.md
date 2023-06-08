@@ -73,21 +73,21 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "AI Chatbots Offer Comfort To The Bereaved"
+  - title: "AI chatbots offer comfort to the bereaved"
     excerpt: "Staying in touch with a loved one after their death is the promise of several start-ups using the powers artificial intelligence, though not without raising ethical questions."
-    publishedDateTime: 2023-06-08T01:29:00Z
-    webUrl: "https://www.barrons.com/news/ai-chatbots-offer-comfort-to-the-bereaved-c58e926a"
-    ampWebUrl: "https://www.barrons.com/amp/news/ai-chatbots-offer-comfort-to-the-bereaved-c58e926a"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-chatbots-offer-comfort-to-the-bereaved-c58e926a"
+    publishedDateTime: 2023-06-08T07:55:00Z
+    webUrl: "https://techxplore.com/news/2023-06-ai-chatbots-comfort-bereaved.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-ai-chatbots-comfort-bereaved.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chatbots-comfort-bereaved.amp"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: techxplore
+      domain: techxplore.com
     quality: 57
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP1012993008938145891848327800656702415566---1.jpg"
-        width: 768
-        height: 512
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/actor-william-shatner.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Instagram might be working on an AI chatbot"
     excerpt: "According to the leaks, users can choose from 30 different AI personalities, who can also help users write messages."
@@ -98,6 +98,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "AI chatbots offer comfort to the bereaved, ethics notwithstanding"
+    excerpt: "Thanks to generative artificial intelligence, avatars of departed loved ones can now convey things they never said when they were alive."
+    publishedDateTime: 2023-06-08T07:32:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/06/08/ai-chatbots-offer-comfort-to-the-bereaved-ethics-notwithstanding/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
 
 secured: "TaW1Q9U/1V1a3fyRgpmZC9n0s7vUDAlZN2QEXBYCub2hwB/2sIdSxp5yu//g9+MElZTd4NnTp07aLaDgSDuDJgRcLghoRpnK94l+dcizQeqTTuFx/Wwf9febaUElL3t343Tfp7O/b4ibO1pRV5U70D2KLugC4EnQ1BUOh6tvh+4DUdH4mHHZrAQNcUZXZip8LnyK3uq8AXydfeVzyxpyUeCyuOx3RZKFX1b1fLN1lUOZQ5rDlHOWJXGJ2y8FR7eRjr24VStAZOFLfpgIiYWiEERAStA57jy51RhUixEbupbSdsjscJss3RVK1WJecGtA1yzoxtz/X+NEwxmU0ezX/x+mmJ59/TEuBVSAkrnLmEEf8xn8seZAQbw5dcSQOFWJcOJOKpRYWUqPsdf27LDPLzhtVhTYfiwTa+Obk7LLav8CxjVAyxa+ZfpBmhWH919hmjQqKsPWf9b2ducvymeO3pA+ze+hYogJWE7WoUQh7HyCr8H506NyvM/56QBEPqJKphDPdevGsgoDFI7AK60d6w==;lwnNZ3m3UI34CX/OJmjB5g=="
 ---

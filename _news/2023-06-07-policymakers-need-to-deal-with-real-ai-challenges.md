@@ -36,6 +36,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Google Cloud Partners With Mayo Clinic To Use AI In Health Care"
+    excerpt: "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the"
+    publishedDateTime: 2023-06-08T07:58:00Z
+    webUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/"
+    ampWebUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
+    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
+    type: article
+    provider:
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 59
+    images:
+      - url: "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "EEfMYFQLHTnXNlrt+sa4fURaYcfMbNWJyxcOwBbv0phwziuwGcy/nfShBmfkeXH3yV5m+EdqWvKI83wm2wSFQUz14KM9Pb4hwvfz6odXesvnc/smSMkiu+kdtsFOxNxx2/QKfPt1WmEsAYfbnSuY2hQlkvLPAa+loZcweZi2IFQfYFUBgNxJNUxdJjExjd8AXL4WqfDVqNkc26BcxskgI3wJExgVUhz3fMtxvqZF8O+hh4NPNE6RYjpgFZX8OM+eJiQOokGJTz1j6caTaFBdhj4mTx2qYkHJEbL0KRSPWI5qp6bFZfWNwsDl0Rdyah9COKHy27s9iEXoIjLdeLYDP9TFCwNKjIwUQ86PmLLlvrGgy5/F0dgaF1AjxAvreF2kC0NsmHZQhFkDgroaBZLGBLrprlJIzRn5He8XuvSFHmTkzE8i9gSR5A1dfwpKBv9YA1p6iQJlLK/EVqsBqVaV+uQra2lYw35F4uLyfXxvXgtX+L/uf8IiyurIuA8wdP1wxp8Lzv5+lzhnXWoAboco0w==;S8P6VI7Mfh2y3ny5oBQTUA=="
 ---

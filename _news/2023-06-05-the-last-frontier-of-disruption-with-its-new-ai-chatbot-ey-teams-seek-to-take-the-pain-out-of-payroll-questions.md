@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The ethics of innovation in generative AI and the future of humanity"
-    excerpt: "To address the moral conundrums around generative AI we must understand how it can create positive change, and where it may fall short."
-    publishedDateTime: 2023-06-03T15:19:00Z
-    webUrl: "https://venturebeat.com/ai/the-ethics-of-innovation-in-generative-ai-and-the-future-of-humanity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all"
-        width: 1200
-        height: 613
-        isCached: true
   - title: "Chegg Embraced AI. ChatGPT Ate Its Lunch Anyway"
     excerpt: "The education company is a case study in generative AI’s disruptive power. Now it’s trying to prove it can beat back ChatGPT with an in-house chatbot."
     publishedDateTime: 2023-06-05T11:00:00Z

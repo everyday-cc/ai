@@ -33,22 +33,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI cost nearly 4,000 people in the U.S. their jobs, report says"
-    excerpt: "U.S. companies said over 80,000 jobs would be eliminated, the report found. Those cuts brought the total number of job cuts announced by U.S. employers since the start of"
-    publishedDateTime: 2023-06-03T15:04:00Z
-    webUrl: "https://www.fox9.com/news/ai-cost-nearly-4000-people-in-the-u-s-their-jobs-report-says"
-    ampWebUrl: "https://www.fox9.com/news/ai-cost-nearly-4000-people-in-the-u-s-their-jobs-report-says.amp"
-    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/ai-cost-nearly-4000-people-in-the-u-s-their-jobs-report-says.amp"
-    type: article
-    provider:
-      name: Fox 9
-      domain: fox9.com
-    quality: 59
-    images:
-      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2023/06/932/470/GettyImages-1494885365.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "AI Eliminated Nearly 4,000 Jobs In May, Report Says"
     excerpt: "In March, investment bank Goldman Sachs predicted in a report that AI could eventually replace 300 million full-time jobs globally and affect nearly one-fifth of employment — with a particular hit to white-collar jobs often considered automation-proof, such as administrative and legal professions."
     publishedDateTime: 2023-06-05T11:44:00Z

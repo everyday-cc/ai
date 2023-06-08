@@ -28,148 +28,92 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s generative AI support in Vertex AI is now generally available"
-    excerpt: "Google's generative AI support in Vertex AI, the company's machine learning platform, is now generally available."
-    publishedDateTime: 2023-06-07T20:45:00Z
-    webUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/"
-    ampWebUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
+  - title: "Enabling AI-powered business intelligence across the enterprise"
+    excerpt: "Data is the lifeblood of successful organizations. Beyond the traditional data roles&#8212;data engineers, analysts, architects&#8212;decision-makers across an organization need flexible, self-service access to data-driven insights accelerated by artificial intelligence (AI). From marketing to HR, finance"
+    publishedDateTime: 2023-06-08T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135936636.jpg?resize=1200,801"
-        width: 1200
-        height: 801
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enabling-AI-powered-business-intelligence-across-the-enterprise--scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
-  - title: "Typeface expands customized generative AI approach with Google Cloud partnership"
-    excerpt: "A new partnership will directly integrate Typeface with Google Workspace to support specific enterprise generative AI use cases."
-    publishedDateTime: 2023-06-07T10:00:00Z
-    webUrl: "https://venturebeat.com/ai/typeface-expands-customized-generative-ai-approach-with-google-cloud-partnership/"
+  - title: "These Enterprise Generative AI Use Cases are Emerging"
+    excerpt: "Generative AI models are continuously bringing new business opportunities. Generative AI use cases are emerging in enterprises for bringing transformations."
+    publishedDateTime: 2023-06-05T14:45:00Z
+    webUrl: "https://enterprisetalk.com/featured/generative-ai/"
+    ampWebUrl: "https://enterprisetalk.com/featured/generative-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/generative-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 61
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/analytics-g6fbbe52da_1920-e1633121636347.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Future of Generative AI from Google Cloud: What You Need to Know"
-    excerpt: "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that"
-    publishedDateTime: 2023-06-07T09:19:00Z
-    webUrl: "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    type: article
-    provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
-    quality: 59
-    images:
-      - url: "https://img.jagranjosh.com/images/2023/June/762023/google-ai.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Google Launches Free Generative AI Courses - Stock Continues To Rise"
-    excerpt: "AI has driven the tech market to new heights this year, bringing new investors into the ring as the craze continues."
-    publishedDateTime: 2023-06-06T12:09:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/06/06/google-launches-free-generative-ai-coursesstock-continues-to-rise/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
-  - title: "Lawyers' Trust in Generative AI May Be Overstated"
-    excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into trust."
-    publishedDateTime: 2023-06-06T23:09:00Z
-    webUrl: "https://www.law.com/2023/06/05/lawyers-trust-in-generative-ai-may-be-overstated/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/Robotic-Assistance-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Intuit reveals generative AI system across its platforms"
-    excerpt: "The AI will have custom-trained financial language models specialising in solving, tax, accounting, cash flow and personal finance challenges."
-    publishedDateTime: 2023-06-07T20:56:00Z
-    webUrl: "https://www.accountantsdaily.com.au/technology/18638-intuit-reveals-generative-ai-system-across-its-platforms"
-    type: article
-    provider:
-      name: accountantsdaily.com.au
-      domain: accountantsdaily.com.au
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1684912798/Accountants%20Daily/sasan-goodarzi-intuit-ad_g3icx2.jpg"
-        width: 1200
-        height: 776
-        isCached: true
-  - title: "Yellow.ai's generative AI-powered Voicebots and Chatbots Now Available on Genesys AppFoundry"
-    excerpt: "Yellow.ai combines with Genesys marketplace of solutions, enabling enterprises to deliver autonomous, human-like experiences with its Dynamic"
-    publishedDateTime: 2023-06-05T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-s-generative-ai-powered-voicebots-and-chatbots-now-available-on-genesys-appfoundry-1032370385"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "Google Cloud and Mayo Clinic to explore uses of generative AI in healthcare"
-    excerpt: "To get the ball rolling, the Mayo Clinic is adopting a new service called Enterprise Search on Generative AI App Builder that will help to improve the efficiency of clinical workflows and make it easier for clinicians and medical researchers to find the data they need to improve patient outcomes,"
-    publishedDateTime: 2023-06-07T12:00:00Z
-    webUrl: "https://siliconangle.com/2023/06/07/google-cloud-mayo-clinic-explore-uses-generative-ai-healthcare/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-  - title: "How generative AI could change the life sciences landscape - an interview with Indegene"
-    excerpt: "With generative AI continuing to create a buzz, OSP took the opportunity to speak to Indegene, a digital-first, life sciences commercialization company that helps biopharmaceutical, emerging biotech and medical device companies develop products."
-    publishedDateTime: 2023-06-07T11:48:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2023/06/07/how-generative-ai-could-change-the-life-sciences-landscape"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 31
-    images:
-      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/markets-regulations/how-generative-ai-could-change-the-life-sciences-landscape/16476737-1-eng-GB/How-generative-AI-could-change-the-life-sciences-landscape.jpg"
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/These-Enterprise-Generative-AI-Use-Cases-are-Emerging.jpg"
         width: 1500
-        height: 1061
+        height: 844
         isCached: true
-  - title: "Lawyers' Trust in Generative AI May Be Overstated"
-    excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into 'trust'."
-    publishedDateTime: 2023-06-05T19:32:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/06/05/lawyers-trust-in-generative-ai-may-be-overstated/"
+  - title: "Advancing Intelligence at the Edge with AI Vision Processors"
+    excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
+    publishedDateTime: 2023-06-05T16:21:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21266232/texas-instruments-advancing-intelligence-at-the-edge-with-ai-vision-processors"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 19
-  - title: "Google Cloud, Mayo Clinic make generative AI play"
-    excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
-    publishedDateTime: 2023-06-07T12:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/google-cloud-mayo-clinic-generative-ai-search-chatgpt-hipaa"
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "One-sentence warning on artificial intelligence"
+    excerpt: "THIS week, 80 artificial intelligence scientists and more than 200 ‘other notable figures’ signed a statement that says ‘mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as"
+    publishedDateTime: 2023-06-04T18:05:00Z
+    webUrl: "https://www.newagebd.net/article/203394/one-sentence-warning-on-artificial-intelligence"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
-  - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
-    excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
-    publishedDateTime: 2023-06-07T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/google-mayo-clinic-launch-generative-artificial-intelligence-collab"
+      name: New Age
+      domain: newagebd.net
+    quality: 39
+    images:
+      - url: "https://www.newagebd.com/files/records/news/202306/203394_og.png"
+        width: 790
+        height: 452
+        isCached: true
+  - title: "AI-Powered Hyro Raises $20M to Advance Responsible Artificial Intelligence-Enhanced Communications for Enterprise"
+    excerpt: "Hyro, which claims to be the leader in plug-and-play conversational AI, announced that it has finalized a $20 million Series B funding round."
+    publishedDateTime: 2023-06-04T11:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208056-ai-powered-hyro-raises-20m-to-advance-responsible-artificial-intelligence-enhanced-communications-for-enterprise/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 35
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Machine-Learning-Artificial-Intelligence-AI.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
+  - title: "AI Disruption in FinTech: Exploring the Impact of AI-powered Tools Like IndexGPT"
+    excerpt: "AI's use cases in fintech continue to grow, from data analysis to customer service. New sophisticated tools like IndexGPT are being developed."
+    publishedDateTime: 2023-06-05T10:35:00Z
+    webUrl: "https://www.techopedia.com/ai-in-fintech-exploring-the-impact-of-tools-like-indexgpt"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 34
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/02/benefits-of-cloud-computing-3.jpg"
+        width: 810
+        height: 432
+        isCached: true
 
 secured: "/1e3VDiVobKqzccp8s9GFBlm9PL/DvltET626MrbCZMjEVO2kmutXnN9EhyHXQg5u1FFytIsm/W+XHTiXiJwzGzYN88dy4m7mYMR5xCevG25AGNzW2QtMxI5S4MniTC6tb4F+E9XE3ar7LtlMxOAdIfkmIYGFY45C2ccir7HMNgZ9g8OOq2Q0ZulD3AmbQG9jdgMpb44s65z0A3+WR/j9pKoHyjuCSRcD2XbjIjFkrgXrL8J3iKmXtV9e6YzGHLo0k+LjB1xeqnqjZYl7MPxiD/S3YmKXkPwPnqduROmIrRLVprkaHaQAKteJiz/3gZD2fJHzNpig9ItYo3DsBa7pxHQxUFrjUJ5ULBkc+44v7zkKqCZrTiL0heQz1eTeu8blxyAS2vW/vfK1j4UC3rtgvEk+7tjntVVufs5XoIb433zjBIO5WgT7Ph8sgdBBzEP9PriBNhXtKlWx6OB1lYDQdE7CGMeKw2TaIWeKbPpSUY1qE20nUc85bhU/uQHZI8rK0ygYIol0PFoH/abV4ymvQ==;iRRQLB7dhZGBc1vG6+r/2g=="
 ---

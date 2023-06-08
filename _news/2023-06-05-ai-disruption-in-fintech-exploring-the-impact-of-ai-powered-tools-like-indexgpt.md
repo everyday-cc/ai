@@ -25,71 +25,92 @@ images:
     isCached: true
 
 related:
-  - title: "Inside The Rise Of A Fintech Startup Using AI And Human Insight To Fight Fraud"
-    excerpt: "Seven years ago, two twentysomething data scientists spotted a novel phenomenon: synthetic identity fraud. They turned that discovery into fast-growing SentiLink, a member of the Fintech 50 for 2023."
-    publishedDateTime: 2023-06-06T10:16:00Z
-    webUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-rise-of-a-fintech-startup-using-ai-and-human-insight-to-fight-fraud/"
+  - title: "Enabling AI-powered business intelligence across the enterprise"
+    excerpt: "Data is the lifeblood of successful organizations. Beyond the traditional data roles&#8212;data engineers, analysts, architects&#8212;decision-makers across an organization need flexible, self-service access to data-driven insights accelerated by artificial intelligence (AI). From marketing to HR, finance"
+    publishedDateTime: 2023-06-08T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6479a5ba07d1215faa9b8c13/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enabling-AI-powered-business-intelligence-across-the-enterprise--scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
+  - title: "How to create generative AI confidence for enterprise success"
+    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
+    publishedDateTime: 2023-06-04T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 579
         isCached: true
-  - title: "Six Founders Making Their Debut On The Fintech 50"
-    excerpt: "The 19 newcomers on out 2023 list serve everyone from investors to truckers to beauty shop owners. The entrepreneurs behind these startups are just as diverse."
-    publishedDateTime: 2023-06-06T10:16:00Z
-    webUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/six-founders-making-their-debut-on-the-fintech-50/"
+  - title: "These Enterprise Generative AI Use Cases are Emerging"
+    excerpt: "Generative AI models are continuously bringing new business opportunities. Generative AI use cases are emerging in enterprises for bringing transformations."
+    publishedDateTime: 2023-06-05T14:45:00Z
+    webUrl: "https://enterprisetalk.com/featured/generative-ai/"
+    ampWebUrl: "https://enterprisetalk.com/featured/generative-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/generative-ai/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 61
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647e885f569e20559457b388/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/These-Enterprise-Generative-AI-Use-Cases-are-Emerging.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Advancing Intelligence at the Edge with AI Vision Processors"
+    excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
+    publishedDateTime: 2023-06-05T16:21:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21266232/texas-instruments-advancing-intelligence-at-the-edge-with-ai-vision-processors"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "5 Interesting Startup Deals You May Have Missed In May: Brain-Boosting Nutrients And Fintech For Retirees"
-    excerpt: "The last full month of spring saw some big fundraising announcements, but these smaller, interesting startup deals are also worth noting."
-    publishedDateTime: 2023-06-06T10:59:00Z
-    webUrl: "https://news.crunchbase.com/venture/interesting-startup-deals-thesis-kinnos/"
+  - title: "One-sentence warning on artificial intelligence"
+    excerpt: "THIS week, 80 artificial intelligence scientists and more than 200 ‘other notable figures’ signed a statement that says ‘mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as"
+    publishedDateTime: 2023-06-04T18:05:00Z
+    webUrl: "https://www.newagebd.net/article/203394/one-sentence-warning-on-artificial-intelligence"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 22
+      name: New Age
+      domain: newagebd.net
+    quality: 39
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/5_Most_Interesting.jpeg"
-        width: 900
-        height: 506
+      - url: "https://www.newagebd.com/files/records/news/202306/203394_og.png"
+        width: 790
+        height: 452
         isCached: true
-  - title: "Fintech On-Premise AI startup HaiVE Submits Proposal to Form Tamil Nadu Artificial Intelligence Alliance to the Secretary of State for IT"
-    excerpt: "HaiVE, an on-premise AI Startup, has announced that the Tamil Nadu government has accepted its proposal for an AI standards body – Tamil Nadu Artifici"
-    publishedDateTime: 2023-06-05T10:26:00Z
-    webUrl: "https://www.indianweb2.com/2023/06/fintech-on-premise-ai-startup-haive.html"
+  - title: "AI-Powered Hyro Raises $20M to Advance Responsible Artificial Intelligence-Enhanced Communications for Enterprise"
+    excerpt: "Hyro, which claims to be the leader in plug-and-play conversational AI, announced that it has finalized a $20 million Series B funding round."
+    publishedDateTime: 2023-06-04T11:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208056-ai-powered-hyro-raises-20m-to-advance-responsible-artificial-intelligence-enhanced-communications-for-enterprise/"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 21
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 35
     images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht9yxyY5RlPnfmJSA9JDN2NT_VUE7rWO0p_ZmhrU_imROZW6iAva1RwCoV7iXI64yJcm26TNjvWGKqudQRd7p5IhiuJ6abcFiuWVE1XBO2CLzef9OLNkZjYGilObUGo_rLchoz8IBAq73cdz_JshUNWjRYpe3iM7AfsIUsl-9yEaZYXFXU6kNuC1nV/w647-h633/Deepika%20Loganathan,%20Co-Founder%20&%20CEO%20of%20HaiVE%20submitting%20a%20proposal%20for%20formation%20of%20a%20standards%20body%20for%20AI%20to%20Thiru%20J.%20Kumaragurubaran,%20IAS%20Secretary%20of%20State%20for%20Information%20Technology.jpeg"
-        width: 647
-        height: 633
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Machine-Learning-Artificial-Intelligence-AI.jpg"
+        width: 1400
+        height: 1050
         isCached: true
-  - title: "Tenet Fintech Group Inc.: Tenet Closes First Tranche of Private Placement of up to CAD$3M"
-    excerpt: "Toronto, Ontario--(Newsfile Corp. - June 7, 2023) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative fintech technology services provider and operator of the Cubeler® Business Hub, announced today that it has ..."
-    publishedDateTime: 2023-06-07T12:38:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59282839-tenet-fintech-group-inc-tenet-closes-first-tranche-of-private-placement-of-up-to-cad-dollar-3m-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "ZqaRpfzylwvzTUtXmGmN1vXOmBNaNpE2KtMy+6lQY6e9ZJgJ91m7BGCctTbnCgbPCKF5kT1vhPz8vpByK2XLB4p7bArDMAt4+chLlhAex8JSsdhxj86BompOUjKRj6kwOf9UYYWWa9rVXpulQnlOjNtych++bS6O3Rx9bUsCw8eB3aLVaQF4Rw6MDH50ZDg/dMVZaSaNsMSHuUaSLPKAr02wc9F6mar02JRJofJl2upFI8t5QOF0A4EkTXmuSS07340CcZVIUvUG6nqxJecLWAQQ0uF9iFVI+m4ujdHsUmX52LQ9sY+tORJ6iHSHlJOfiSTMJ8/H95kqvkWjJEhP0jskweG7cRdjjMa/CEb4k0VltFH9/HE9xDdvf3BdS/4CCnPuxIo/dJY26rjeDn0WKbLkDHM4bSpL7F1c7o288mP9AuZfoPNJvdKCFkw8Hx1GFU4FEYyN0A2+upuIBnhoPfL7shXxztkW9tBqk7897wTTzb0pWer50vfSrxs+5+B0DmYZmwZ/OsTdRIYawM9w9w==;CPX0V317gsogI2Bc4GKRiw=="
 ---

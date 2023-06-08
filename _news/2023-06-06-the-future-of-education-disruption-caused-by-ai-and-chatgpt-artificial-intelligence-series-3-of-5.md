@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
 type: article
 quality: 108
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647bd1788c78818aad0b6f67/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The ethics of innovation in generative AI and the future of humanity"
-    excerpt: "To address the moral conundrums around generative AI we must understand how it can create positive change, and where it may fall short."
-    publishedDateTime: 2023-06-03T15:19:00Z
-    webUrl: "https://venturebeat.com/ai/the-ethics-of-innovation-in-generative-ai-and-the-future-of-humanity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all"
-        width: 1200
-        height: 613
         isCached: true
   - title: "Chegg Embraced AI. ChatGPT Ate Its Lunch Anyway"
     excerpt: "The education company is a case study in generative AI’s disruptive power. Now it’s trying to prove it can beat back ChatGPT with an in-house chatbot."

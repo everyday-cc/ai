@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01883-4/d41586-023-01883-4_25458996.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Can Apple keep the Metaverse dream alive? Plus, Google's DeepMind AI develop \"extremely\" optimised algorithm tool."
+    excerpt: "After Meta boss, Mark Zuckerberg has spent countless hours and billions of dollars on his Metaverse dream, has Apple just blown that dream out of the water with its new spatial reality headset? Plus,"
+    publishedDateTime: 2023-06-08T06:53:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/drive/can-apple-keep-the-metaverse-dream-alive-/102458142"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 32
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/5ad45e8c5f9db438c30c9e71f6e44722?impolicy=wcms_crop_resize&cropH=1103&cropW=1960&xPos=0&yPos=0&width=862&height=485"
+        width: 862
+        height: 485
         isCached: true
 
 secured: "uuUwIhNhCYStaVudrEpHfXkOt6j8Cd2GjAvwI333FFp2zgHe+UEq86K6Yk9tSrMENayY/XxuNyK+gGRUW08TR0fxnkLtFQXnCeD/vDAZdEhKQkDapwN3ZLByAQA0GEV2S33a3TiSrZTCKagquSnyyKsXe2rLAKYTPgKdM+FrV1RhO54KehPsW2+1kZ8U0N5xwhZYl/d9QmsVCzvxn1n60sobNn+AhSzjpWsGTlbwrxpR2s8c5A0yE6SlSwUMpxJ5GDePIxH+COLrK3uKbIOmD8Je+DzQQVu0gzJUItbdHsCbmDAgXbNXGxfbcNNpwRyL+4QxlFUKvns9gqMOdAvruksEKQFY7y6QCPcLvoL6MugljBMGZoL1jui9JdXld2hx+Iuuq9zqNaziaBGHfnE0gNb5Wp+pzivo7qyNJaar9MqU9J2uHHo8bwup9XIn3VyQntMNBwNGK9mVeUZUQnsEeXb1LI6xkMtuhO2PdLfgHi/AckmDoVD4mifDGb9T8DNLh/0a14IyW3fAZ9mL3iNCNA==;03IYv/SsInRO1rv/H28Pzw=="

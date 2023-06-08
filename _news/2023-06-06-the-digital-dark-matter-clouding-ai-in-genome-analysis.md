@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-06-digital-dark-clouding-ai-genome.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-digital-dark-clouding-ai-genome.amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1417
     height: 1011
     isCached: true
-
-related:
-  - title: "How AI could change the ways we live and work, reducing the digital divide"
-    excerpt: "Guest Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More AI is everywhere. Its use is being debated in headlines,"
-    publishedDateTime: 2023-06-03T16:09:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281732617.jpg?w=1200&strip=all"
-        width: 1200
-        height: 632
-        isCached: true
 
 secured: "sXs+ldSIgSJ5zKiJZz4s4JHWnrNOahpwnwaMgTi2I4nLkq5TCElo4B96mYXyCTYswXbAEAh4DFUy4tRw/PmopXgtnRX7yXGDOr/oWkHberEvnHFUnRcYxo8AjoSaKBMsvhdpEC9Z20zlMMA+G7mzvRWFZ5C74OpOF7SK0o7Q6CFtKASmE9p/ejYXC5G3ZQ6HGwKmuO8v6JkvB4pPytsbrY2DxJz813Pgyu3WxZC2fMmvzdvzvfDYOrmtvkxZznXbVqCI6fhBwKxvbI0WB5Pdapl8rgY0Bvb/kKCOWW0QK28yFqE01R34wX49tjREtz9t6KFe++AX7EdV6WELy3QzcDJZL17+aAhonVBMZO1/pNKPEvLwt4gGheF5eII3FLFGYQl0imNWTfADJQXm91W4677sCqnQ4jIyTlmEBjJn3tm8Hi+TflCcm2650FjHqQT/1PD862Aca7YjXgDuZFTiuP3KbWfk7InIVd4BQ/7cle10YalM7mX4uxMtDOuxfme1x6OVwF09YNm0IodXNyjsHw==;X00nW2eI46Ig80LxKTkGPw=="
 ---

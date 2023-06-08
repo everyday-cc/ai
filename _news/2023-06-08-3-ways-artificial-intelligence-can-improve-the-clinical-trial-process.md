@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-08T07:51:00Z
 originalUrl: "https://pharmaphorum.com/rd/3-ways-artificial-intelligence-can-improve-clinical-trial-process"
 webUrl: "https://pharmaphorum.com/rd/3-ways-artificial-intelligence-can-improve-clinical-trial-process"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://pharmaphorum.com/sites/default/files/2023-06/artificial-intelligence-healthcare.jpg"
@@ -23,6 +24,6 @@ images:
     height: 900
     isCached: true
 
-secured: "+dUCh7pJeXJUMc72HDQ9V3Q+rtEsBQDvCj1vv3O5MhYdwUIChhSZBH+ApcBI6mTq0PrOM9u3QTFU2SvJbbaePwSKpYRkPdmOytiNRzIBkQ4j6xmw+L1AudezeVVDC+SKDsTjAp83LxD+jaKT4OGy++VYkF2tboMQEK7HbpcWecMT1jZvWtduDAooSDitwACCAVnamfDa1XgnP2EJKCp5bNh445YunUQfwYFRQdZM1AbqNIT+pKwukO+BE+ClNF0b8Toz8MhlfVtaZHS3Q5axnepfRlVE7/izixY2VgzdHPCSuOstCNA+c6pTZUzz0o/KevffBN6TP7mkC9WbHQltEhHRs+aW0uGHPIlTY3EvaNA=;4e/wHVPOYKgMcgtRqbC8LA=="
+secured: "Uo3nBb6oA/1j2DgZl8mYPQQ2JNlAYw9bKgt192qsAhNLg790PlE+OaGdQdUvFEDRjifRyyXJUV6PAjQv1VKonNExBGyVjIvDBf8vngjcqWEoh7WVwoqMo1RrPOEWYG8gkOow6eU/GyNPsxiHLRL479STIkeFB7NMqvJpU13tHw/cHN0Oaol/TGCVbw4Vcw5NXismQpIRszoNwnsWTUSWFE8BGnqeAn2pGFvvNHIUqZq3bRn1h8p45UlF8ONs55CCwpGNRQixk5mn9azSlE7okVNleFXmO43+0DjJ0xKqTjNfGcDnu6gGtbHQTAc6QKEzR6TlaYp+keTgBA0KTkyze4lCTeJQgdbuc/UWUbxPBPDPfX5JrHyaSTpG8zNzCYa32JrpyKXLbfp7uaXThAnAORHVNwUIl7u09pj3Sq1yMOtYHuIcdoU9XF1gfXFRUlUaa+Z3lgL5v6ndjS0aeL1uBvpcya2bxXs5uBQCLqlxxMkd5x0Z2EbZuGg977U09T/9rXvHvTus1WiWmf8aTPF4jQ==;WtF1ijEwS0otCPSgOCPatw=="
 ---
 

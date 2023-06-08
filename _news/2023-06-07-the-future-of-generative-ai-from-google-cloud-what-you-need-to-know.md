@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "How to create generative AI confidence for enterprise success"
-    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
-    publishedDateTime: 2023-06-04T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
-        width: 1200
-        height: 579
-        isCached: true
   - title: "Typeface expands customized generative AI approach with Google Cloud partnership"
     excerpt: "A new partnership will directly integrate Typeface with Google Workspace to support specific enterprise generative AI use cases."
     publishedDateTime: 2023-06-07T10:00:00Z

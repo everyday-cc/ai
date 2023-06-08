@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-adoption-in-m
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
 type: article
 quality: 101
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1180183363-e1636482579984.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "5 AI tools for summarizing a research paper"
+    excerpt: "An AI-powered tool called IBM Watson Discovery makes it possible to analyze and summarize academic publications. It makes use of cutting-edge machine learning and NLP techniques to glean insights from massive amounts of unstructured data, including papers ..."
+    publishedDateTime: 2023-06-07T08:42:00Z
+    webUrl: "https://cointelegraph.com/news/5-ai-tools-for-summarizing-a-research-paper"
+    ampWebUrl: "https://cointelegraph.com/news/5-ai-tools-for-summarizing-a-research-paper/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/5-ai-tools-for-summarizing-a-research-paper/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/9c27e59f-a0e1-4cb2-b8b0-2187621598ad.jpg"
+        width: 740
+        height: 492
         isCached: true
   - title: "How Generative AI-Powered Robots Are Shaking Things Up"
     excerpt: "Robots are making their way into nearly every sector of the ... Reports suggest that Musk is busy creating his own generative AI startup that would go head-to-head with OpenAI. Image by Twitter While generative AI has already taken the world by storm ..."

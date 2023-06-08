@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/networking/singapor
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore identifies six generative AI risks, sets up foundation to guide adoption"
+    excerpt: "Singapore has identified six top risks associated with generative artificial intelligence (AI) and proposed a framework on how these issues can be addressed. It also has established a foundation that looks to tap the open-source community to develop test toolkits that mitigate the risks of adopting AI ."
+    publishedDateTime: 2023-06-08T08:12:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/67181d585de08fe20b24ec7a9fb98a85b8747e20/2023/06/07/c25bec5e-dc42-4e7b-b1e0-d04d05aa7004/gettyimages-1258475356.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Here’s What You Need to Know About the AI-Themed Singapore Fintech Festival 2023"
     excerpt: "The theme for the upcoming Singapore Fintech Festival 2023 would be ‘Applications of Artificial Intelligence (AI) in Financial Services’."
     publishedDateTime: 2023-06-05T04:05:00Z

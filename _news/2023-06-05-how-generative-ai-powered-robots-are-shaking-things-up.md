@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "5 AI tools for summarizing a research paper"
+    excerpt: "An AI-powered tool called IBM Watson Discovery makes it possible to analyze and summarize academic publications. It makes use of cutting-edge machine learning and NLP techniques to glean insights from massive amounts of unstructured data, including papers ..."
+    publishedDateTime: 2023-06-07T08:42:00Z
+    webUrl: "https://cointelegraph.com/news/5-ai-tools-for-summarizing-a-research-paper"
+    ampWebUrl: "https://cointelegraph.com/news/5-ai-tools-for-summarizing-a-research-paper/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/5-ai-tools-for-summarizing-a-research-paper/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/9c27e59f-a0e1-4cb2-b8b0-2187621598ad.jpg"
+        width: 740
+        height: 492
+        isCached: true
   - title: "Generative AI, digital skills, ageism: 5 interesting stats to start your week"
     excerpt: "Generative AI is marketers’ top consumer trend. Some 59% of marketers have singled out generative AI as the most important consumer trend to watch, according to Mediaocean’s m"
     publishedDateTime: 2023-06-05T14:18:00Z

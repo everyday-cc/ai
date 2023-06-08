@@ -59,6 +59,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Can Apple keep the Metaverse dream alive? Plus, Google's DeepMind AI develop \"extremely\" optimised algorithm tool."
+    excerpt: "After Meta boss, Mark Zuckerberg has spent countless hours and billions of dollars on his Metaverse dream, has Apple just blown that dream out of the water with its new spatial reality headset? Plus,"
+    publishedDateTime: 2023-06-08T06:53:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/drive/can-apple-keep-the-metaverse-dream-alive-/102458142"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 32
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/5ad45e8c5f9db438c30c9e71f6e44722?impolicy=wcms_crop_resize&cropH=1103&cropW=1960&xPos=0&yPos=0&width=862&height=485"
+        width: 862
+        height: 485
+        isCached: true
 
 secured: "85ZkHIVMfc7gDu4HO0MLojZbAsq9Kj9h9yl9OoAhYid6YU8BjVLB825ATA++m0OGCiRGaQqtKKqr68qLDp9ccDQeqIlS4cZYLOuBKs4/XYTeSNecpgxAZVTevC89rSrKCT7MOxFyZV0oNGoNEA+cYK+IZalfiEBxx39/qwanl7AvX3J5aXNhrF221MDa5qXmLfkYLqkdxeIzSPfpuWylDvWAcAnIC5/w4+a8cPfiPjvrE/50lpVDdpReVN4DdQonsnUQtjh/Ztx8gvZk7hnnTg2DInLYBJP7kVo8xho2nzguGV8t07IaBVa1wkZ+gIwfBOj+46PAC5iBlTWq1wo2kcNt9sm+oabSGzLNq+/52OJ4KmvDKHssqt240hkEuX0p+btWp0vrGxzwcFrPbX4GmqjpYJMIeoabhpGYZ/+v0krSevRKDzbKoy0h9JYAzdGESYMqNW9pIhXU380e1YqLsC4Z4UlvwsKO8vcOHlBMVKZV9joTzWFw9vZNWZR6eH952nd8TyQOQP3tyqGIDcfkAA==;9Pg1Q+APuLqnY2mrvblsow=="
 ---

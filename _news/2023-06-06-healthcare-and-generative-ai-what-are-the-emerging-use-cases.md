@@ -44,6 +44,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Google expands intelligent cloud into healthcare"
+    excerpt: "Helping medical professionals find patent informationGoogle's cloud business is expanding its use of new artificial intelligence technologies in health care. It allows medical professionals at Mayo Clinic to find patient information using tools powering the latest chatbots quickly."
+    publishedDateTime: 2023-06-08T09:50:00Z
+    webUrl: "https://www.fudzilla.com/news/memory-and-storage/57046-google-expands-intelligent-cloud-into-healthcare"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/151e65d7467e972252b5079a40b808dc_L.jpg"
+        width: 620
+        height: 454
+        isCached: true
   - title: "Local physicians offer insight on future of AI in health care"
     excerpt: "That is according to a recent study from physicians at the University of Alabama at Birmingham. Dr. Andrew Smith, vice chair of innovation in the radiology department and clinical director of AI in the Marnix E."
     publishedDateTime: 2023-06-06T03:53:00Z

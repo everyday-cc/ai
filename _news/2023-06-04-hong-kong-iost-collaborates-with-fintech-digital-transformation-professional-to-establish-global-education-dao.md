@@ -138,6 +138,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Cashing in on AI chips"
+    excerpt: "There was an error generating the full edition PDF. Please try again later. Click and hold your mouse button on the page to select the area you wish to save or print ..."
+    publishedDateTime: 2023-06-08T09:03:00Z
+    webUrl: "https://richmond.com/eedition/richmond/page-a9/page_6ec8cd17-437c-5ace-8d63-1b347045ca58.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/eedition/6/ec/6ec8cd17-437c-5ace-8d63-1b347045ca58/648153e60cd5b.preview-620.jpg?crop=620%2C326%2C0%2C478&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
+        isCached: true
   - title: "Merge unveils Blueprint, an AI-powered tool to enable easier API integrations"
     excerpt: "Merge launches Blueprint, a tool that leverages OpenAI's GPT-3.5 LLM, allowing users to paste a link to the documentation of an API."
     publishedDateTime: 2023-06-06T12:51:00Z
@@ -181,6 +195,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 27
+  - title: "The Generative AI Revolution: Key Legal Considerations for the Nonprofit & Trade Association Industry"
+    excerpt: "Transforming the way we live and work. Within two months of its initial release to the public, ChatGPT reached 100 million monthly active users, making it the fastest-growing consumer application in h"
+    publishedDateTime: 2023-06-06T23:59:00Z
+    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-nonprofit-trade-association"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 24
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI_Artificial_Intelligence_Robot_SMALL_1_0.jpg?itok=Y8ZxQOUW"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Applications for conversational AI within the organisation"
     excerpt: "OpenAI was established in 2015 and DeepMind in 2010. Both companies have been singularly focused on the potential and power of artificial intelligence (AI) and garnered significant media and consumer interest."
     publishedDateTime: 2023-06-06T07:19:00Z

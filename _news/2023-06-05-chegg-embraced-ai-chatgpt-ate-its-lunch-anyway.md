@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The ethics of innovation in generative AI and the future of humanity"
-    excerpt: "To address the moral conundrums around generative AI we must understand how it can create positive change, and where it may fall short."
-    publishedDateTime: 2023-06-03T15:19:00Z
-    webUrl: "https://venturebeat.com/ai/the-ethics-of-innovation-in-generative-ai-and-the-future-of-humanity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all"
-        width: 1200
-        height: 613
-        isCached: true
   - title: "Intelligent Classrooms: What AI Means For The Future Of Education"
     excerpt: "AI systems will have expansive implications for how schools function, teachers work, and how students prepare for tomorrow's world of work."
     publishedDateTime: 2023-06-07T13:00:00Z

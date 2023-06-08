@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/sanfrancisco/video/calls-in-senate-for-tsa
 webUrl: "https://www.cbsnews.com/sanfrancisco/video/calls-in-senate-for-tsa-to-halt-facial-recognition-program/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,52 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Plan for facial recognition tech in schools riles rights groups"
-    excerpt: "Teachers and students of the Telangana’s government schools will likely have to mark their attendance on an app that uses facial recognition technology (FRT), even as groups emphasising the right to privacy continue to raise concerns about the use of ..."
-    publishedDateTime: 2023-06-03T15:35:00Z
-    webUrl: "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/"
+  - title: "Facial recognition tech lets TSA to verify your ID without an agent staring at you"
+    excerpt: "BALTIMORE — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through — all without having to hand over their ..."
+    publishedDateTime: 2023-06-05T20:47:00Z
+    webUrl: "https://www.indystar.com/story/travel/airline-news/2023/05/15/tsa-airport-screening-facial-recognition/70218060007/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
+      name: The Indianapolis Star
+      domain: indystar.com
+    quality: 33
     images:
-      - url: "https://th-i.thgim.com/public/incoming/exu8vf/article66928332.ece/alternates/FREE_1200/LOCAL%20ELECTIONS"
+      - url: "https://www.gannett-cdn.com/presto/2023/01/01/USAT/3f44de1c-410f-4417-904c-173f8f370140-AP_Winter_Weather_Travel.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Building Better Schools: NDA student receives national recognition"
-    excerpt: "NDA junior Numa Mujeeb has been appointed to the National Speech and Debate Association’s Student Leadership Council."
-    publishedDateTime: 2023-06-06T21:55:00Z
-    webUrl: "https://www.13abc.com/2023/06/06/building-better-schools-nda-student-receives-national-recognition/"
-    ampWebUrl: "https://www.13abc.com/2023/06/06/building-better-schools-nda-student-receives-national-recognition/?outputType=amp"
-    cdnAmpWebUrl: "https://www-13abc-com.cdn.ampproject.org/c/s/www.13abc.com/2023/06/06/building-better-schools-nda-student-receives-national-recognition/?outputType=amp"
+  - title: "Facial recognition tech lets TSA to verify your ID without an agent staring at you"
+    excerpt: "BALTIMORE — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through — all without having to hand over their ..."
+    publishedDateTime: 2023-06-05T12:50:00Z
+    webUrl: "https://www.dispatch.com/story/travel/airline-news/2023/05/15/tsa-airport-screening-facial-recognition/70218060007/"
     type: article
     provider:
-      name: 13abc
-      domain: 13abc.com
-    quality: 44
-    images:
-      - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/CoXwnMr308rYeM8rjFwbRwmMWTQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/YXVR5FJOEFDOXI4EYOTIRDVFFI.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Dangers of facial recognition software"
-    excerpt: "What if Clearview AI’s powerful facial recognition software, that could potentially be used for mass surveillance and profiling, fell into the wrong hands? What if it already has? This is the untold story of Clearview AI,"
-    publishedDateTime: 2023-06-03T15:35:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/729044-Dangers-of-facial-recognition-software"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 39
-    images:
-      - url: "https://img.dunyanews.tv/news/2023/June/06-03-23/news_big_images/729044_91294148.jpg"
-        width: 752
-        height: 423
-        isCached: true
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 13
 
 secured: "yQv/lzz2GEY73Z0q6Fuc6A6sJkRPBiNsp3ytGXlcK+96qpmVtLwY/dSRQ2ue5Zr3ZPbLQAOIcwcn5tSSyGRL6RH7wFLvGBwgZg6cr32zlWxCAkh4IKh1IRDf0LR8CX9mWFUUb0OEw48DHKEpw/dQCN5G48fu/p2JciC7+o4ZNgxVl1Y/d19msJC5FvG0+5A+zqq6z25BWbiCMtGe3YNJExxsAy7mEL/sZpDnW7Tr8GZf4tYRy5D6KKQPoI6E+KRHXghwQgpzlDgsz7nFLmJlntt6vf5wEvqNIstAdaEN93dBsux/pkPMmG3CC+mcXbQuxjkDsVG/1ynWjqHGZQizxC9VwHvQVPEqwMNQzC7R+Q0TGEWROYBDT63DruFaBJ71Et9UGyhZGGfKAOiyOO1aq+Oy5JTtfgg1KH0ff8z8SnOi12Mfst0lWeV02MAfFu12yaGDnxAqkf2LUIY8Le9OlnCrSGDl2xclyPXlsjswRaUKOH0D+Zxc+q3jK6GH8YoQ8e16xXt9ybkuA6sFu/d2Fw==;op+vNUoedfbezVqkqVZMiA=="
 ---
