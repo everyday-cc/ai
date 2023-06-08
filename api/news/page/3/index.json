@@ -2,6 +2,154 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-06-cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud.md",
+      "title": "Cisco Shows Breakthrough Innovation Towards AI-First Security Cloud",
+      "excerpt": "Cisco launches new security service edge (SSE) solution to enable superior hybrid work experiences and dramatically simplify access",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud-1032373587",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud-1032373587",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/813707/Cisco_v2_Logo.jpg",
+          "width": 400,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-10-companies-using-artificial-intelligence-ai-in-a-compelling-way.md",
+      "title": "10 Companies Using Artificial Intelligence (AI) in a Compelling Way",
+      "excerpt": "AI is changing the way many companies operate. Learn about how some of the biggest companies in the world are using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/AI_artificial_intelligence_robots_working_offi.width-600.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-ai-can-help-improve-breast-cancer-risk-predictions-study-finds.md",
+      "title": "AI can help improve breast cancer risk predictions, study finds",
+      "excerpt": "A new study is showing yet another way artificial intelligence is entering the medical field​. This time, researchers found AI algorithms improved on existing practices for predicting breast cancer risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/ai-can-help-improve-breast-cancer-risk-predictions-study-finds/",
+      "originalUrl": "https://www.cbsnews.com/news/ai-can-help-improve-breast-cancer-risk-predictions-study-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/06/1cb70bff-8b1f-4ba2-af53-7229cb8cfa96/thumbnail/1200x630/3f00484f6a9e49b203486425ce2bed75/gettyimages-1128870494.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-can-help-improve-breast-cancer-risk-predictions-study-finds/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-can-help-improve-breast-cancer-risk-predictions-study-finds/",
+      "publishedDateTime": "2023-06-06T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
       "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
       "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
@@ -53,7 +201,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -484,7 +632,7 @@
       "originalUrl": "https://www.zdnet.com/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -586,7 +734,7 @@
       "originalUrl": "https://www.retail4growth.com/viewpoints/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -873,7 +1021,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1060,161 +1208,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-chatgpt-and-generative-ai-in-financial-services-reality-hype-whats-next-and-how-to-prepare.md",
-      "title": "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare",
-      "excerpt": "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june",
-      "originalUrl": "https://www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64403454632fda001803b2e0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june?amp",
-      "publishedDateTime": "2023-06-05T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-apples-brainiest-mac-chip-so-far-the-m2-ultra-means-no-more-intel.md",
-      "title": "Apple's Brainiest Mac Chip So Far, the M2 Ultra, Means No More Intel",
-      "excerpt": "The new chip powers Apple's new Mac Pro and upgraded Mac Studio, letting power users pack as much as 192GB of memory into their machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/apples-brainiest-mac-chip-so-far-the-m2-ultra-means-no-more-intel/",
-      "originalUrl": "https://www.cnet.com/tech/computing/apples-brainiest-mac-chip-so-far-the-m2-ultra-means-no-more-intel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/ac9f4e6185ebc3ddef15f8ddeb86f837ce737b6f/hub/2023/06/05/3d6a31c0-2940-4f7d-952b-e0ca9eb6e96b/apple-m2-ultra-processor.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-generative-ai-can-save-marketing-pros-5-hours-per-week-according-to-research.md",
-      "title": "Generative AI can save marketing pros 5 hours per week, according to research",
-      "excerpt": "Generative AI adoption in marketing reveals promising productivity gains with marketers estimating generative AI can save them the equivalent of over a month per year, making room for more meaningful work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/16496ceb203eeb2527b2456b29f8cf1bfc83b0bb/2023/06/05/4cb060d3-f8af-4921-b60d-7f413238c35d/gettyimages-1466924677.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/",
-      "publishedDateTime": "2023-06-05T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

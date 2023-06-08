@@ -28,6 +28,50 @@ images:
     isCached: true
 
 related:
+  - title: "Contextual AI emerges from stealth with $20M to pursue ‘artificial specialized intelligence’"
+    excerpt: "Contextual AI, a new enterprise-focused AI startup founded in Palo Alto by veterans of Facebook AI Research (FAIR) and Hugging Face, today emerged from stealth and announced it has raised $20 million in a seed round led by Bain Capital Ventures (BCV),"
+    publishedDateTime: 2023-06-07T23:18:00Z
+    webUrl: "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialized-intelligence/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 56
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_dollar_bills_flying_out_of_a_computer_b43d3a39-ce5b-4104-930c-4893233dd616.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise"
+    excerpt: "Founded by former Hugging Face and Meta AI researchers, Contextual AI raised $20 million in seed funding from Bain Capital Ventures, Lightspeed and Greycroft. Contextual AI emerged from stealth today"
+    publishedDateTime: 2023-06-07T16:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32762843/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the-enterpr"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32762843"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32762843"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "AI-Powered Hyro Raises $20M to Advance Responsible Artificial Intelligence-Enhanced Communications for Enterprise"
+    excerpt: "Hyro, which claims to be the leader in plug-and-play conversational AI, announced that it has finalized a $20 million Series B funding round."
+    publishedDateTime: 2023-06-04T11:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208056-ai-powered-hyro-raises-20m-to-advance-responsible-artificial-intelligence-enhanced-communications-for-enterprise/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 35
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Machine-Learning-Artificial-Intelligence-AI.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "How to Be Smart About Artificial-Intelligence ETFs"
     excerpt: "With all the attention on ChatGPT, here is how to choose an AI fund. They’re not all alike."
     publishedDateTime: 2023-06-03T12:00:00Z
@@ -37,7 +81,21 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 32
+  - title: "Contextual AI launches with $20M to build more reliable large language models for enterprises"
+    excerpt: "Palo Alto, California-based Contextual AI raised the capital from a group of investors led by Bain Capital Ventures. The investment firm was joined by Lightspeed Venture Partners, Greycroft and SV Angel."
+    publishedDateTime: 2023-06-07T21:14:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/contextual-ai-launches-20m-build-reliable-large-language-models-enterprises/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image-1.png"
+        width: 1032
+        height: 580
+        isCached: true
 
-secured: "rzs3pCM30zsWDd9aGL7kR9hcNhuMSgzY2ydjtk7me1r9lsd9/YnhLTyN3GFds7WSknQW9l6PVjmzGZBe+5rtbC8AKOQcsZm8OZUkQh2B0dKFnrrKdRtcF5IyR8CHiHycXOMTho6CIroCljIaQ22W29fRzWDTANZxn7tXbPIRw/JCIuFx7p/87O59UxiZwU17Tzbo/7C+D0FZwuKMAYnHsbSZuwFaanYjpHX8c7o0+tabUQblwUsl+f9sm7UFU/Kiwr9fT0mJPsrSFpq3jwz7s2up0hPj+DBLfDSikSeyUfHz7gnlmDzVoNYmS+9NPe5KX0QZ753jYGdkhwwbntVtKEO0a0pPnpyQVruqAzVAoOo=;N1s/OX0ubKiG8iM/oR7ZOg=="
+secured: "/HCngP1UQZ6FaKz8ZC+mDNF9KtcJrOoBuHMDR9s3aaRw1bBe/0UPZWKKqXN7Drs9T06k1F5q9ofuqlscD5ugxN7bcB0HmkxUeMTnb00/WfUiXtFJwtCis3zEKLrqCAvVZTPc/bqKdk5MaPtiGqSOMoMGALz/opdsVHXxsj/jT0dwmCrPbMavXCim261yl4ZkYXfImJGlhj88E7WgiMcufruoe8FUyzMNFFOgUXb37tSoUhO5UQVl5Uv36dZw3/nwcnVNPVGz5oRRn0KoR6xv4aV32q/8Mhh1OxDfpsJZJBRQc39Lm0n5V8ZnmyWeSeW5DEif5aMsxVjfqtbFxl32bE+yM8BhniwoH1/h4BILWBXuXfzrcLDoD/kxPY+Q3Vkp2WETrtBYXS8/YcODANmFO2HPauYv5+y7Ekio5MejEUa58/O0CL4awJnT11BO2ILeT7VEsgG3ISiHXeFqSRrYfW8t2fHmEvrqRMxw6K1XfRdBVXnMZu2sFSMYE7eSZm2Vb3YpIJzu7AQ6oRb4KNta4Q==;uloD+ZgZO3hM+M2U8+ZXJQ=="
 ---
 

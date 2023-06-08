@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intuit reveals generative AI system across its platforms"
-    excerpt: "The AI will have custom-trained financial language models specialising in solving, tax, accounting, cash flow and personal finance challenges."
-    publishedDateTime: 2023-06-07T20:56:00Z
-    webUrl: "https://www.accountantsdaily.com.au/technology/18638-intuit-reveals-generative-ai-system-across-its-platforms"
-    type: article
-    provider:
-      name: accountantsdaily.com.au
-      domain: accountantsdaily.com.au
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1684912798/Accountants%20Daily/sasan-goodarzi-intuit-ad_g3icx2.jpg"
-        width: 1200
-        height: 776
-        isCached: true
 
 secured: "jpBgt992MDMKdrTGMx11/sg/FOQmT1waLXBViCzo86G6kpCc+8bJFbsDBN9VQNvNTxrdLq8L05lQhRWZ8NwQl/FrYBfKEUPsPDtpLsisLWXj6TgMw+/cDC4FmrbSjSkN1LcTO1P9K8xZQi9pjXLOaAq53PLxVs7qifcvuL9hVdxJquJXGJhuitU6WCai9JIZ6Tq0DunK7c4tjiqIGvGpb1qCzNFdCDWnfl35YNvpk2VdtmWcOXV74L1kXV8bxvl6JbSrvUvnd+i4rdTIQdRsinFEgs49auXZONsq5k9dIXFjRiFD5nb9XbHiNCrL4zBPaq8+bli+sNCy10kDMs4wBLSRNmo5QPkTp24llG/86nt+3BShP6Luf+C4AIGpOaC6vHNWuqS7Vmh/1SURPQaYxmMLy239pHnwuhJTf4BW+MZnz6/oDSf2/YK5NZ5DEr2VM7ujoPvURMzoICMYlr0YXHmjPEDHqB3FkQ2CJPJIMo4WITeBAlw120y5rbem0KWVIY2j1KVnOTQLjJCQmUjDIg==;MaPdN8lY1aJJMf3vRjatWQ=="
 ---

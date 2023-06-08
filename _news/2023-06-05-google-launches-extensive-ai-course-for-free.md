@@ -9,7 +9,7 @@ ampWebUrl: "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-cour
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/amp/?fbclid=IwAR1Yaru5I1qSaH5ZSFdkBXI6BVqX218vhIRH4ivDhpeU7mUW_jhiSFyIhx0"
 type: article
 quality: 59
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Generative AI from Google Cloud: What You Need to Know"
-    excerpt: "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that"
-    publishedDateTime: 2023-06-07T09:19:00Z
-    webUrl: "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    type: article
-    provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
-    quality: 59
-    images:
-      - url: "https://img.jagranjosh.com/images/2023/June/762023/google-ai.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Japanese AI startup launches robot for home use"
     excerpt: "Weighing 10 kilograms, the Kachaka robot can carry up to 20 kg, including its attached table. It moves as fast as 80 centimeters per second."
     publishedDateTime: 2023-06-06T05:56:00Z
@@ -57,15 +41,6 @@ related:
         width: 870
         height: 489
         isCached: true
-  - title: "Google Launches Free Generative AI Courses - Stock Continues To Rise"
-    excerpt: "AI has driven the tech market to new heights this year, bringing new investors into the ring as the craze continues."
-    publishedDateTime: 2023-06-06T12:09:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/06/06/google-launches-free-generative-ai-coursesstock-continues-to-rise/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
   - title: "Glean Chat launches to unlock AI-driven search for the enterprise"
     excerpt: "Glean, an enterprise search startup, launched Glean Chat, a ChatGPT-like assistant specifically for workplace productivity."
     publishedDateTime: 2023-06-06T13:00:00Z

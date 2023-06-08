@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-07T10:18:00Z
 originalUrl: "https://www.cnbc.com/2023/06/07/mobileye-is-the-leading-self-driving-stock-canaccord-genuity-says-.html"
 webUrl: "https://www.cnbc.com/2023/06/07/mobileye-is-the-leading-self-driving-stock-canaccord-genuity-says-.html"
 type: article
-quality: 25
-heat: 25
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -22,6 +22,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "nkX6eYopGoe7ZHoy0pNHyVSSO9Y1pcu5SQUwIx0qdqVgw1OcMJKCeMzYossbYBIzCb6+JS/CqTLPkVmGL0f1zc7xaijVu9P3VNyhzCNwvD/dduq88+wT6spqcZz4JvuF0N8stQ+dNr7Lc9wQYYlblrspKC50/DGictNWUvOYTeKhg/RjRSFwgbSX/6lXCIsdrrMB8BlKiz0QdGFG8S+V+EtVxT6FqxbkXnk5/CtmB2NMVV03pdOCTSxfhccBXL7ehMH/ueE/RoWozY3Ii+J6oIssxdUhwjFw9rlOFczxehAUEYAe866s2iPK+/iYZWyFvC9rvkhOgEO/wummnp/UgPLylDT32dR1d7xmEI7Ys6E=;pXiAwXU7sLpLGnwuYmSOhw=="
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/107141221-1666806847373-gettyimages-1244238646-MOBILEYE_IPO.jpeg?v=1686140319&w=1920&h=1080"
+    width: 1920
+    height: 1080
+    isCached: true
+
+secured: "L/U95dFDs8TluJLv+8zOB29a4CHksfT1DBIKW9rYM3NHWSinxSpMlNjgsqUuEKWoVQ2phQNm6f7f6NClQTi6wG5jUmUesvPhxmIzAC+cOQrWgvmBmQvE1RlRriGBKd+NzuA3o7fh3qqe2OyKo/gJoKW8seuZE4HdNOExIQvfnVriFvaYcHjr15BpzbmbTsdfMK2erPZJt7FE3vlCTAYp7gZ6+ik3c+TqiiKPb9huY5PJi47dxe1PkSLAgQFQ15XD/cIH53Xop3f4QNW+Tak1IFtwrfYPHfJP7NNkYMjFiY+3H74qhb1Rqs4bY+GXe0DXIdz2rcnvY1Oq/Dt1wrzegmyfvFECt8phWYHKU0+za34=;GP92c35IOn79H8WmLhWH6Q=="
 ---
 

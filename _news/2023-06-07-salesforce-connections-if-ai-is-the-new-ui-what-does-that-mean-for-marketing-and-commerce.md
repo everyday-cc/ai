@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 616
         isCached: true
+  - title: "Salesforce doubles down on generative AI with Marketing GPT and Commerce GPT"
+    excerpt: "Salesforce today launched Marketing GPT and Commerce GPT to help enterprises quickly deliver personalized campaigns and shopping experiences."
+    publishedDateTime: 2023-06-07T23:07:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-doubles-down-on-generative-ai-with-marketing-gpt-and-commerce-gpt/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce.jpg?w=1200&strip=all"
+        width: 1200
+        height: 616
+        isCached: true
 
 secured: "G+mVRU7Q981eCea60ItZmU8rZJBqtQd6LDDO/KvMFMHjGedk5LRZQghZp8z5DjpNu8B4f8ysKAnOvCOkm2ZfZ+z0QfozfejFinDN8mddpOmx0Pazx65DmOtH2C6ZCrk0ETZIFTcrS4Fi5KOMZdj8m2ojZTbr1G/VG3JuIslKB5d1kIPO9LJJ6PrVhn/1wU/IFS1+odQyp9F+v6le4WVIXxEHIf+24t1qef4gyvKWcdo0scyD38UPLrb8y+Mse/+TXAxnNOCL+GH6qX3Zt1ZdXo66qd3HU5XWhCUt6TGBk94Btc/9rc/d/e6J8YZie+6g7TPc4KWdV3Uhv4KmPCoHHozD0ptfsPJDJhNsenWXdx7WpU3H8ujnTBGNYb+eeeC+K5x2IpoPua2U6fxB1WTUhGeDNQd8OONA/vavYhwIS+GnIH3ZY+K8KNsG1pp1WrdTw77s14ig9je8dxBoq07MMdvnCQn9XBpImegDj8AuUoddWU5Ot8V9FhWnKtnYJLCitypIdLGESt6HOozeQUETFA==;7k8U5CMhM9DaAQSkRvvy1A=="
 ---

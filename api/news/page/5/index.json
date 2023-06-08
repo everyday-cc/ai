@@ -2,6 +2,160 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-05-the-impact-of-generative-ai-on-software-team-productivity-is-complicated.md",
+      "title": "The impact of generative AI on software team productivity is... complicated",
+      "excerpt": "Generative AI means faster coding, but also more code to manage, along with greater expectations from the business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/",
+      "originalUrl": "https://www.zdnet.com/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7f9aec1f5926e4ef120636f244c934732c1d3afa/2023/06/04/6037cf03-35a3-489f-a5bb-0f590ad0c148/gettyimages-1254096697.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/",
+      "publishedDateTime": "2023-06-05T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes.md",
+      "title": "AI could help solve NJ missing child mystery in new step for cold-case probes",
+      "excerpt": "New Jersey law enforcement will use artificial intelligence to help solve the three-decade cold case of Mark Himebaugh that could set a precedent for the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes",
+      "originalUrl": "https://www.foxnews.com/us/ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01b2467c-e906-47f1-b89c-f0941fbfe408/af430678-3518-4af0-b4c1-30530089dd9b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes.amp",
+      "publishedDateTime": "2023-06-04T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-american-pie-icon-don-mclean-on-ai-itll-be-better-than-what-passes-itself-off-as-music-today.md",
+      "title": "'American Pie' icon Don McLean on AI: 'It'll be better than what passes itself off as music today'",
+      "excerpt": "Don McLean, musician, songwriter and creator of \"American Pie\" and other iconic songs, spoke at length to Fox News Digital about artificial intelligence and his views of the new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music",
+      "originalUrl": "https://www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music.amp",
+      "publishedDateTime": "2023-06-04T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-kamala-harris-cant-be-trusted-with-ai-regulation.md",
       "title": "Kamala Harris can't be trusted with AI regulation",
       "excerpt": "Kamala Harris can't be trusted with AI regulation. Rules for rapidly growing area of technology must be handled by a panel of experts, not the vice president.",
@@ -165,7 +319,7 @@
       "originalUrl": "https://www.techspot.com/news/98937-google-using-machine-learning-models-speed-up-gmail.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1074,160 +1228,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-the-latest-paris-fashions-in-fintech.md",
-      "title": "The Latest Paris Fashions (In Fintech)",
-      "excerpt": "I was flattered to be invited to chair the keynote panel on new business models for banking at the Paris Fintech Forum 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647a271e4865d126400b6f29/0x0.jpg?format=jpg&crop=2830,1591,x0,y50,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/amp/",
-      "publishedDateTime": "2023-06-02T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-whats-the-point-of-expanding-album-covers-with-ai.md",
-      "title": "What's The Point of Expanding Album Covers with AI?",
-      "excerpt": "With Photoshop’s new generative fill tool—which uses artificial intelligence to generate an expanded section of a piece of work—pro-AI knuckledraggers across Twitter are revealing the ExPaNdEd EdItIoNs of some of music’s most iconic album covers.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-ai-art-dall-e-expanded-album-covers-1850495918",
-      "originalUrl": "https://gizmodo.com/ai-ai-art-dall-e-expanded-album-covers-1850495918",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b917b007d29b3cc15579aab8fcefb4c4.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-yc-backed-dumme-raises-34m-for-its-ai-video-editor-that-turns-long-form-youtube-videos-into-shorts.md",
-      "title": "YC-backed Dumme raises $3.4M for its AI video editor that turns long-form YouTube videos into Shorts",
-      "excerpt": "Dumme, a startup putting AI to practical use in video editing, is already generating demand before opening up to the public. The Y Combinator-backed company has hundreds of video creators testing its product,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/",
-      "originalUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/IMG_0686.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/amp/",
-      "publishedDateTime": "2023-06-02T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

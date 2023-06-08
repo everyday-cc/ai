@@ -27,35 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Google Launches Extensive AI Course for Free"
-    excerpt: "Search engine giant Google has announced 7 new generative AI courses that are completely free. These courses are meant to \"advance your cloud career\" and"
-    publishedDateTime: 2023-06-05T07:53:00Z
-    webUrl: "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/"
-    ampWebUrl: "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/amp/?fbclid=IwAR1Yaru5I1qSaH5ZSFdkBXI6BVqX218vhIRH4ivDhpeU7mUW_jhiSFyIhx0"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/amp/?fbclid=IwAR1Yaru5I1qSaH5ZSFdkBXI6BVqX218vhIRH4ivDhpeU7mUW_jhiSFyIhx0"
+  - title: "Google’s generative AI support in Vertex AI is now generally available"
+    excerpt: "Google's generative AI support in Vertex AI, the company's machine learning platform, is now generally available."
+    publishedDateTime: 2023-06-07T20:45:00Z
+    webUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/"
+    ampWebUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
     type: article
     provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 59
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://propakistani.pk/wp-content/uploads/2023/06/geneartive-AI-google-e1685947361160.png"
-        width: 1000
-        height: 562
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135936636.jpg?resize=1200,801"
+        width: 1200
+        height: 801
         isCached: true
-  - title: "Japanese AI startup launches robot for home use"
-    excerpt: "Weighing 10 kilograms, the Kachaka robot can carry up to 20 kg, including its attached table. It moves as fast as 80 centimeters per second."
-    publishedDateTime: 2023-06-06T05:56:00Z
-    webUrl: "https://www.japantimes.co.jp/news/2023/06/06/business/ai-home-robot/"
+  - title: "Apple Ghosts the Generative AI Revolution"
+    excerpt: "Apple unveiled the Vision Pro headset and a number of AI-powered features yesterday, but largely ignored generative AI applications embraced by Google and Microsoft."
+    publishedDateTime: 2023-06-06T10:59:00Z
+    webUrl: "https://www.wired.com/story/apple-ghosts-the-generative-ai-revolution/"
     type: article
     provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 54
+      name: Wired
+      domain: wired.com
+    quality: 71
     images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2023/06/np_file_230773-870x489.jpeg"
-        width: 870
-        height: 489
+      - url: "https://media.wired.com/photos/647e7aef82d37ced55dff567/191:100/w_1280,c_limit/Apple-Ghosts-AI-At-WWDC-2023-Business-1258464875.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "How to create generative AI confidence for enterprise success"
+    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
+    publishedDateTime: 2023-06-04T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
+        width: 1200
+        height: 579
+        isCached: true
+  - title: "Typeface expands customized generative AI approach with Google Cloud partnership"
+    excerpt: "A new partnership will directly integrate Typeface with Google Workspace to support specific enterprise generative AI use cases."
+    publishedDateTime: 2023-06-07T10:00:00Z
+    webUrl: "https://venturebeat.com/ai/typeface-expands-customized-generative-ai-approach-with-google-cloud-partnership/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/analytics-g6fbbe52da_1920-e1633121636347.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Google Launches Free Generative AI Courses - Stock Continues To Rise"
     excerpt: "AI has driven the tech market to new heights this year, bringing new investors into the ring as the craze continues."
@@ -66,23 +94,101 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
-  - title: "Glean Chat launches to unlock AI-driven search for the enterprise"
-    excerpt: "Glean, an enterprise search startup, launched Glean Chat, a ChatGPT-like assistant specifically for workplace productivity."
-    publishedDateTime: 2023-06-06T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/glean-chat-launches-to-unlock-ai-driven-search-for-the-enterprise/"
+  - title: "Newest Genesys Generative AI Capabilities Boost Power of Experience Orchestration"
+    excerpt: "Using large language models, Genesys Cloud CX helps employees improve quality, speed and accuracy to drive stronger post-customer engagement"
+    publishedDateTime: 2023-06-05T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/newest-genesys-generative-ai-capabilities-boost-power-of-experience-orchestration-1032370089"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Free - 11 AI Courses @ Google Cloud"
-    excerpt: "Generative AI Fundamentals(cloudskillsboost.google) Earn a skill badge by completing the Introduction to Generative AI, Introduction to Large Language Models and Introduction ... to-sequence tasks such as machine translation, text summarization, and ..."
-    publishedDateTime: 2023-06-07T21:55:00Z
-    webUrl: "https://www.geekzone.co.nz/forums.asp?topicid=305851"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+  - title: "Lawyers' Trust in Generative AI May Be Overstated"
+    excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into trust."
+    publishedDateTime: 2023-06-06T23:09:00Z
+    webUrl: "https://www.law.com/2023/06/05/lawyers-trust-in-generative-ai-may-be-overstated/"
     type: article
     provider:
-      name: Geekzone
-      domain: geekzone.co.nz
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/Robotic-Assistance-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Intuit reveals generative AI system across its platforms"
+    excerpt: "The AI will have custom-trained financial language models specialising in solving, tax, accounting, cash flow and personal finance challenges."
+    publishedDateTime: 2023-06-07T20:56:00Z
+    webUrl: "https://www.accountantsdaily.com.au/technology/18638-intuit-reveals-generative-ai-system-across-its-platforms"
+    type: article
+    provider:
+      name: accountantsdaily.com.au
+      domain: accountantsdaily.com.au
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1684912798/Accountants%20Daily/sasan-goodarzi-intuit-ad_g3icx2.jpg"
+        width: 1200
+        height: 776
+        isCached: true
+  - title: "Yellow.ai's generative AI-powered Voicebots and Chatbots Now Available on Genesys AppFoundry"
+    excerpt: "Yellow.ai combines with Genesys marketplace of solutions, enabling enterprises to deliver autonomous, human-like experiences with its Dynamic"
+    publishedDateTime: 2023-06-05T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-s-generative-ai-powered-voicebots-and-chatbots-now-available-on-genesys-appfoundry-1032370385"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "Google Cloud and Mayo Clinic to explore uses of generative AI in healthcare"
+    excerpt: "To get the ball rolling, the Mayo Clinic is adopting a new service called Enterprise Search on Generative AI App Builder that will help to improve the efficiency of clinical workflows and make it easier for clinicians and medical researchers to find the data they need to improve patient outcomes,"
+    publishedDateTime: 2023-06-07T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/google-cloud-mayo-clinic-explore-uses-generative-ai-healthcare/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+  - title: "How generative AI could change the life sciences landscape - an interview with Indegene"
+    excerpt: "With generative AI continuing to create a buzz, OSP took the opportunity to speak to Indegene, a digital-first, life sciences commercialization company that helps biopharmaceutical, emerging biotech and medical device companies develop products."
+    publishedDateTime: 2023-06-07T11:48:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2023/06/07/how-generative-ai-could-change-the-life-sciences-landscape"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 31
+    images:
+      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/markets-regulations/how-generative-ai-could-change-the-life-sciences-landscape/16476737-1-eng-GB/How-generative-AI-could-change-the-life-sciences-landscape.jpg"
+        width: 1500
+        height: 1061
+        isCached: true
+  - title: "Lawyers' Trust in Generative AI May Be Overstated"
+    excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into 'trust'."
+    publishedDateTime: 2023-06-05T19:32:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/05/lawyers-trust-in-generative-ai-may-be-overstated/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
+  - title: "Google Cloud, Mayo Clinic make generative AI play"
+    excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
+    publishedDateTime: 2023-06-07T12:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/google-cloud-mayo-clinic-generative-ai-search-chatgpt-hipaa"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
+  - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
+    excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
+    publishedDateTime: 2023-06-07T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/google-mayo-clinic-launch-generative-artificial-intelligence-collab"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
     quality: 19
 
 secured: "k3ybw5Fy2VdrWXHD2MBrILwKjraeB/+cR6of1aVAn3A6eINqSLh1Vi9LSrlGgRck7Ia+FIzAjnIi73gTwJfE8UsiSRiBy3Zbge2CKDEIuawhhpXg4US/w4xMZxuguBN2OL5z4huSexF2WdT5RZzMK9UvoQuz1N+WFSSjGnr9hr6xuE4BzhA5ZUZCAR2JuCQcddB3BKgF3GZUDPTgxg2owWvwyzrnJXVeGabCdsCNfx+LVh9uaDf5q/EXETZp1LbAGr4xSJ3lO4tjs68c/5a04emNS3sHrCkI9nn4Az1U/i7IkcRfb9TXU+hWjMVmlNzHSbPmpVmopcnY25nY9R3omrq/CxmCNUd3q+N7nsmxKLQ=;uyXbENSs4N08dY6JSCbXBw=="

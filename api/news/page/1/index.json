@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-08-ai-meets-agriculture-with-new-farm-machines-to-kill-weeds-and-harvest-crops.md",
+      "title": "AI meets agriculture with new farm machines to kill weeds and harvest crops",
+      "excerpt": "Artificial intelligence is now hard at work on American farms. New machines are used to kill weeds and harvest crops, speeding up the process. NBC News’ Jacob Ward shows us how it works on one Central California farm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-meets-agriculture-with-new-farm-machines-to-kill-weeds-and-harvest-crops-180937797700",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-meets-agriculture-with-new-farm-machines-to-kill-weeds-and-harvest-crops-180937797700",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1686180263552_nn_jwa_ai_revolution_robots_farming_230607_1920x1080-0lxquw.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo180937797700",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo180937797700",
+      "publishedDateTime": "2023-06-07T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-contextual-ai-emerges-from-stealth-with-20m-to-pursue-artificial-specialized-intelligence.md",
+      "title": "Contextual AI emerges from stealth with $20M to pursue ‘artificial specialized intelligence’",
+      "excerpt": "Contextual AI, a new enterprise-focused AI startup founded in Palo Alto by veterans of Facebook AI Research (FAIR) and Hugging Face, today emerged from stealth and announced it has raised $20 million in a seed round led by Bain Capital Ventures (BCV),",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialized-intelligence/",
+      "originalUrl": "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialized-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_dollar_bills_flying_out_of_a_computer_b43d3a39-ce5b-4104-930c-4893233dd616.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-googles-deepmind-develops-a-system-that-writes-efficient-algorithms.md",
       "title": "Google’s DeepMind develops a system that writes efficient algorithms",
       "excerpt": "Sorting is so basic that algorithms are built into most standard libraries for programming languages. And, in the case of the C++ library used with the LLVM compiler, the code hasn't been touched in over a decade.",
@@ -54,6 +147,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-08-automattic-launches-an-ai-writing-assistant-for-wordpress.md",
+      "title": "Automattic launches an AI writing assistant for WordPress",
+      "excerpt": "WordPress.com owner Automattic launched a Jetpack AI assistant for the popular content management system on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/",
+      "originalUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/jetpack-ai-assistant.jpg?w=840",
+          "width": 840,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/",
+      "publishedDateTime": "2023-06-07T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-blush-the-ai-lover-from-the-same-team-as-replika-is-more-than-just-a-sexbot.md",
       "title": "Blush, the AI lover from the same team as Replika, is more than just a sexbot",
       "excerpt": "Blush, an AI dating sim from the same team as Replika, is designed to \"practice\" dating, from flirting to complex conversations about boundaries.",
@@ -101,6 +246,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-googles-generative-ai-support-in-vertex-ai-is-now-generally-available.md",
+      "title": "Google’s generative AI support in Vertex AI is now generally available",
+      "excerpt": "Google's generative AI support in Vertex AI, the company's machine learning platform, is now generally available.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/",
+      "originalUrl": "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135936636.jpg?resize=1200,801",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/",
+      "publishedDateTime": "2023-06-07T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -314,7 +511,7 @@
       "originalUrl": "https://www.cnet.com/health/medical/google-and-mayo-clinic-partner-to-infuse-ai-into-health-care/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -565,7 +762,7 @@
       "originalUrl": "https://venturebeat.com/ai/salesforce-doubles-down-on-generative-ai-with-marketing-gtp-and-commerce-gpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -710,57 +907,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you.md",
-      "title": "WordPress's New AI Tool Can Write Entire Blog Posts For You",
-      "excerpt": "The Jetpack AI Assistant uses large language models from ChatGPT's developer OpenAI. WordPress is incorporating ChatGPT-like technology through an AI-powered tool that can write entire blog posts for you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you",
-      "originalUrl": "https://www.pcmag.com/news/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/060tUMI8mtRg2xOSiP2UTQq-1.fit_lim.size_1200x630.v1686149363.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1072,7 +1218,7 @@
       "originalUrl": "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1112,143 +1258,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach.md",
-      "title": "Can we achieve fairness in machine learning? UNC researchers have new approach",
-      "excerpt": "From facial recognition software to employment and interview pre-screening, algorithms have been found to reinforce systemic biases, exacerbating existing asymmetries and inequities rather than reducing them.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/",
-      "originalUrl": "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kenaninstitute.unc.edu/wp-content/uploads/2018/01/eric_ghysels-768x768.jpg",
-          "width": 768,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/?amp=1",
-      "publishedDateTime": "2023-06-07T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-us-china-competition-for-artificial-intelligence-dominance-will-dictate-the-future-of-humanity-warn-experts.md",
-      "title": "US, China competition for artificial intelligence dominance will 'dictate the future of humanity' warn experts",
-      "excerpt": "Experts weighed American and Chinese military and civil investments in AI and while some believe the U.S. has a slight advantage in developing the technology, others worry China has already surpassed U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/us-china-competition-artificial-intelligence-dominance-dictate-the-future-of-humanity-warn-experts",
-      "originalUrl": "https://www.foxnews.com/media/us-china-competition-artificial-intelligence-dominance-dictate-the-future-of-humanity-warn-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eb5c2b7-5a43-4584-8a5d-981a0ab93cfd/e6a35246-7829-4bf2-829e-e2147b2fbba8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/us-china-competition-artificial-intelligence-dominance-dictate-the-future-of-humanity-warn-experts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/us-china-competition-artificial-intelligence-dominance-dictate-the-future-of-humanity-warn-experts.amp",
-      "publishedDateTime": "2023-06-07T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-the-transformative-power-of-artificial-intelligence-in-everyday-life.md",
-      "title": "The Transformative Power of Artificial Intelligence in Everyday Life",
-      "excerpt": "Artificial intelligence (AI) has become an integral part of our lives, revolutionizing the way we work, communicate, and navigate the world around us. | The Eastern Herald",
-      "sourceUrl": null,
-      "webUrl": "https://www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/",
-      "originalUrl": "https://www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagedelivery.net/-CGPfOWoVHcRcTbwHaRGUQ/www.easternherald.com/2023/06/Transformative-Power-of-Artificial-Intelligence-google-news.png/w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/?amp=1",
-      "cdnAmpWebUrl": "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/?amp=1",
-      "publishedDateTime": "2023-06-07T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Eastern Herald",
-        "domain": "easternherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

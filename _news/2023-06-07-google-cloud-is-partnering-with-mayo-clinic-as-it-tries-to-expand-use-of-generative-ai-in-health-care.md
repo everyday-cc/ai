@@ -64,24 +64,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "Google Cloud, Mayo Clinic make generative AI play"
-    excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
-    publishedDateTime: 2023-06-07T12:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/google-cloud-mayo-clinic-generative-ai-search-chatgpt-hipaa"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
-  - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
-    excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
-    publishedDateTime: 2023-06-07T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/google-mayo-clinic-launch-generative-artificial-intelligence-collab"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "lFQ7sXxbEaaEEL2el/m7ZZB2+30LzwU/4LA2zG8GDcGVs0DkpMDG4WoJsyhOR4qglIr+SVWwMTXqMzDbc67NpXq1NfZuP0+iiGh5EG3p0LdlNYU9+chotZnOxNxSw/fsdUd8SRu/Rh+G73L6OddoAx5TIwO5IsO0EkGhUxxmuRyI3aC6S2OCwhaFdFM3R7OXOm5sNl/Wbjo/CJCV44AdMqashr7MR2n133+og8MgUhpfiNcPMWOJqnkHuU+G3q4iikHdHrMgKhRVFd7y2AwlChXaaEF5HvotRKoXlhz2pXApzemWeHqqBGUAMqntkABlzXlfJQ4IJkKuJVw111HYU9hI7RwqC0p48EUYTq1R7vc=;ZyLIOOiGl+jl3driXx9hRg=="
 ---

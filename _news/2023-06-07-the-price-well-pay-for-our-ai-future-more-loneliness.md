@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-technology-americans-lone
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence in agriculture isn’t the future; it’s now"
+    excerpt: "Cengiz Koparan, a new assistant professor at the University of Arkansas, said the rapid rise of artificial intelligence is already making cutting-edge technology more available."
+    publishedDateTime: 2023-06-07T21:47:00Z
+    webUrl: "https://arkadelphian.com/2023/06/07/artificial-intelligence-in-agriculture-isnt-the-future-its-now/"
+    ampWebUrl: "https://arkadelphian.com/2023/06/07/artificial-intelligence-in-agriculture-isnt-the-future-its-now/?amp=1"
+    cdnAmpWebUrl: "https://arkadelphian-com.cdn.ampproject.org/c/s/arkadelphian.com/2023/06/07/artificial-intelligence-in-agriculture-isnt-the-future-its-now/?amp=1"
+    type: article
+    provider:
+      name: arkadelphian
+      domain: arkadelphian.com
+    quality: 59
+    images:
+      - url: "https://arkadelphian.com/wp-content/uploads/2023/06/AgricultureFarmAIArtificialIntelligence-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AI Prompt Engineering Isn’t the Future"
     excerpt: "Despite the buzz surrounding it, the prominence of prompt engineering may be fleeting. A more enduring and adaptable skill will keep enabling us to harness the potential of generative AI? It is called problem formulation — the ability to identify,"
     publishedDateTime: 2023-06-06T12:05:00Z

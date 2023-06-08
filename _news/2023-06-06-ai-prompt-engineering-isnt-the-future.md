@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial intelligence in agriculture isn’t the future; it’s now"
+    excerpt: "Cengiz Koparan, a new assistant professor at the University of Arkansas, said the rapid rise of artificial intelligence is already making cutting-edge technology more available."
+    publishedDateTime: 2023-06-07T21:47:00Z
+    webUrl: "https://arkadelphian.com/2023/06/07/artificial-intelligence-in-agriculture-isnt-the-future-its-now/"
+    ampWebUrl: "https://arkadelphian.com/2023/06/07/artificial-intelligence-in-agriculture-isnt-the-future-its-now/?amp=1"
+    cdnAmpWebUrl: "https://arkadelphian-com.cdn.ampproject.org/c/s/arkadelphian.com/2023/06/07/artificial-intelligence-in-agriculture-isnt-the-future-its-now/?amp=1"
+    type: article
+    provider:
+      name: arkadelphian
+      domain: arkadelphian.com
+    quality: 59
+    images:
+      - url: "https://arkadelphian.com/wp-content/uploads/2023/06/AgricultureFarmAIArtificialIntelligence-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "j5kNyVeg74mEw2PHgIGT2aqGFSJvGR0kTikyxmfbvXIhWfKo6zjyLVYA9DaUJzLwYhkH/tCKu5y/WEu4X6Rqww0W6AD/2PBRn0X78vgjgxCyhxUYk9r6ya20uJQspZuzzSxokRGeVoczdlvKN3JwUCsbC9xxnMBE+X+ewUNYJRRFG8pbO7QbeOPu/mlpw4LEioR65NNdoZ8IXRHPnP4GZG/6MYjca1k2tYK1OYGah7YrI9peQXgbj4zuNFoxN+orbm47zF8ZOWxGUOJCcR81RBySvTtYrNZwXvOBgQx+IESV36W/JEgyzds060iZE0gnXINsdlczde9uT1RlcIpH31bBvSvkkSRpXhp3mhpJXVinhkMwLG4vpDsDYdl+zf/H//9bTBmp1ocDP3Wr0b3WoI1nNkIjbUSeXJSNVypy9hfa6tye8nbG2oNQt+G7PxSqKg/F0iEkQ/X89ql+CLgTyH7O0YI6fTtueeQbI55DvxLsnIKInf3tsPVmicpstqVPL+Ct2WqU0fn6Xv5uLL38Cw==;xasvlP11tDwYkEI8G1B7ew=="
 ---

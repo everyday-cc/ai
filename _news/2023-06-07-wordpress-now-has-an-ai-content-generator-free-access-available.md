@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Automattic launches an AI writing assistant for WordPress"
+    excerpt: "WordPress.com owner Automattic launched a Jetpack AI assistant for the popular content management system on Tuesday."
+    publishedDateTime: 2023-06-07T21:27:00Z
+    webUrl: "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/"
+    ampWebUrl: "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/jetpack-ai-assistant.jpg?w=840"
+        width: 840
+        height: 481
+        isCached: true
   - title: "WordPress's New AI Tool Can Write Entire Blog Posts For You"
     excerpt: "The Jetpack AI Assistant uses large language models from ChatGPT's developer OpenAI. WordPress is incorporating ChatGPT-like technology through an AI-powered tool that can write entire blog posts for you."
     publishedDateTime: 2023-06-07T15:30:00Z

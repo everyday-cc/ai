@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/wordpresss-new-ai-tool-can-write-entire
 webUrl: "https://www.pcmag.com/news/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Automattic launches an AI writing assistant for WordPress"
+    excerpt: "WordPress.com owner Automattic launched a Jetpack AI assistant for the popular content management system on Tuesday."
+    publishedDateTime: 2023-06-07T21:27:00Z
+    webUrl: "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/"
+    ampWebUrl: "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/jetpack-ai-assistant.jpg?w=840"
+        width: 840
+        height: 481
+        isCached: true
   - title: "WordPress is getting an AI assistant that will write blog posts for you"
     excerpt: "Automattic Inc., the company that runs WordPress.com and contributes to the open-source WordPress content management software, today released a new artificial intelligence-powered tool that can help users write and edit blog posts."
     publishedDateTime: 2023-06-07T16:31:00Z
