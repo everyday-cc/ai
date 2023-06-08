@@ -20,15 +20,33 @@ topics:
   - AI in Education
 
 related:
-  - title: "Parameter-reduced frame interpolation using machine learning"
-    excerpt: "Read more about this work in our conference paper (I. Khalifeh, M. G. Blanch, E. Izquierdo and M. Mrak. ‘Multi-encoder Network for Parameter Reduction of a Kernel-based Interpolation Architecture’, in NTIRE, CVPR 2022)"
-    publishedDateTime: 2023-06-05T13:15:00Z
-    webUrl: "https://www.bbc.co.uk/rd/blog/2023-06-parameter-reduced-frame-interpolation-machine-learning"
+  - title: "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses"
+    excerpt: "Commenting on the collaboration with Mastercard, Andrew Hanna, ZainTech CEO said: “The benefits of sophisticated data to productivity, safety, and cost-savings being driven by AI and machine learning are revolutionizing business processes. This ..."
+    publishedDateTime: 2023-06-08T06:51:00Z
+    webUrl: "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 19
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 57
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/mastercard.jpg?itok=xiDRXJSm"
+        width: 960
+        height: 502
+        isCached: true
+  - title: "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses"
+    excerpt: "Partnership to enable ZainTech and Zain B2B teams to offer cutting-edge data solutions that solve business challenges and drive efficiencies"
+    publishedDateTime: 2023-06-06T11:13:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
 
 secured: "cvFnGoV6dEjZxVXNX31iTW/Sbba6eKAtA4uH4fuhcKGpg6vOoUVzctxThahO8x1eLNlc1WrU7aBA/90ij4ynq9ST/Q4Vh3UvJk5ndfVSs3WL8y4y6zJAx8pChSEQXbOm2y6pHSJlPkDQuPx6q9OvncfWjAHKbK7fMGlsCqIgsz7VMhuh21ykU+rt+CmSD2PEmnZfnxhG2jPIP80VExjFRnrlg5sQ4Qxui82GMTMoZClLg20dr1iBmcVvtEmvC3jvMtZaltVhCD2NBxRj4ztn5wEOOmQhgPD5l2lKuNIiEvkWmG44lCC/5quBXSeCYRqIMfVyNRwtA8ifyTUT0lGsnwlLBYERaO+LYuPM3grXqsM=;Zuf9+Kz/rPUFDYqFKZsZGg=="
 ---

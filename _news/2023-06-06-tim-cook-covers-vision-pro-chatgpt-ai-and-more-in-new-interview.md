@@ -121,20 +121,6 @@ related:
         width: 1600
         height: 885
         isCached: true
-  - title: "3 ChatGPT productivity hacks that’ll change the way you use AI"
-    excerpt: "ChatGPT can be used to improve productivity at work for specific tasks that might require repetition - here are a few use cases."
-    publishedDateTime: 2023-06-03T14:33:00Z
-    webUrl: "https://bgr.com/tech/3-chatgpt-productivity-hacks-thatll-change-the-way-you-use-ai/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/rsz_gettyimages-1252207238.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1668
-        isCached: true
   - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
     excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
     publishedDateTime: 2023-06-06T14:45:00Z

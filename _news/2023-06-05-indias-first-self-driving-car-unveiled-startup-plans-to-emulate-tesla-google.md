@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla ‘Full Self-Driving’ software testing in Australia – report"
+    excerpt: "Tesla is quietly testing its so-called 'Full Self-Driving' semi-autonomous driving software on Australian roads, a new report has revealed. According to Teslascope – a service that tracks Tesla software updates and vehicle changes – the US electric-car ..."
+    publishedDateTime: 2023-06-06T00:56:00Z
+    webUrl: "https://www.drive.com.au/news/tesla-fsd-testing-in-australia-report/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 39
+    images:
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:good,w_1200/cms/uploads/ypor6suuzbggrm1iezkq"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Elon Musk Takes Swipe At Rivals' Self-Driving Technology: 'Brittle And Unscalable'"
     excerpt: "Tesla Inc TSLA CEO Elon Musk on Sunday criticized the self-driving tech developed by competitors including Alphabet Inc‘s GOOG GOOGL Waymo and General Motors-backed GM Cruise LLC. What Happened: “Yeah, extremely brittle to local conditions & doesn't ..."
     publishedDateTime: 2023-06-05T10:09:00Z

@@ -97,6 +97,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 76
+  - title: "AWS says Falcon40B Large Language Model Trained on Sagemaker"
+    excerpt: "AWS revealed that TII), a leading global scientific research centre in Abu Dhabi, trained its top-performing, open-source Falcon 40B model on AWS."
+    publishedDateTime: 2023-06-08T06:57:00Z
+    webUrl: "https://analyticsindiamag.com/aws-says-falcon40b-large-language-model-trained-on-sagemaker/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/AWS-falcon.jpeg"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "2U1N7IiMgH/zLg7L7ofB43j3xCdaxKUujWnLcwyplQuJOhjWcuWhtzmemBXLuRjymvXkFPFn206+UU6NOq5INm/H3dIrxxx1LXU5wIsMipTWaUlf6pi1Dd9ZPt3TVOl53OqfyE1OS0kyyRi9lfl92TTbfz14+R/UgliETwg2NwiINkh/4PxG72Aooq8Fkocj75iFsXlQm4UD8Yw70jriMtbLGg3FcuG1RhcpUnvlPjdttGwx4HNTUgkYRuu62VJ85ZMiTU6zGZF3AxE1Ei0OvF2cb7wLSQhBxs66vURRJOPyBT0v9ENhAY9d2DcEYg0kh9csYBHLgp2uFjogw9BlZIVsgRKXCvCzvQJi7RWKBds=;cuZMl0Zzafsy2IwXY7sR8A=="
 ---

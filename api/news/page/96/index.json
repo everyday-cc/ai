@@ -2,6 +2,40 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2023-04-05-covariant-raises-75m-for-its-ai-powered-warehouse-robots.md",
+      "title": "Covariant raises $75M for its AI-powered warehouse robots",
+      "excerpt": "Covariant, a startup developing warehouse robots that can ... “The leading companies have turned to AI robots to automate their most manual operations in order to decrease labor costs, increase ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/04/covariant-raises-75m-ai-powered-warehouse-robots/",
+      "originalUrl": "https://siliconangle.com/2023/04/04/covariant-raises-75m-ai-powered-warehouse-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-australian-aws-partners-take-spotlight-at-cloud-innovation-awards-in-sydney.md",
       "title": "Australian AWS partners take spotlight at Cloud Innovation Awards in Sydney",
       "excerpt": "More than 300 representatives of AWS partner organisations gathered in Sydney for the announcement of the cloud giant’s Cloud Innovation Awards. The awards dinner, held at Doltone House in Pyrmont, took place on the eve of the AWS Summit in Sydney.",
@@ -925,49 +959,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-university-of-lincoln-robot-seal-used-to-help-vulnerable-people.md",
-      "title": "University of Lincoln 'robot' seal used to help vulnerable people",
-      "excerpt": "Health and social care students at the University of Lincoln are learning to operate a robotic seal to help prepare them to use the technology in their work with patients. It is hoped the £6,000 \"social robot\" can provide an alternative form of communication for those who may be uncomfortable interacting with other people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/uk-england-lincolnshire-65178888",
-      "originalUrl": "https://www.bbc.com/news/av/uk-england-lincolnshire-65178888",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

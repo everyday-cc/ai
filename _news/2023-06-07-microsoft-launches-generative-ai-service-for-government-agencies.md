@@ -84,6 +84,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft to host exclusive event showcasing how AI can unlock potential of UAE organizations"
+    excerpt: "The company will share practical examples and showcase how its Azure AI platform is ushering in a new era of AI"
+    publishedDateTime: 2023-06-08T06:59:00Z
+    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-to-host-exclusive-event-showcasing-how-ai-can-unlock-potential-of-uae-organizations-vml0wc72"
+    ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-to-host-exclusive-event-showcasing-how-ai-can-unlock-potential-of-uae-organizations-vml0wc72?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/microsoft-to-host-exclusive-event-showcasing-how-ai-can-unlock-potential-of-uae-organizations-vml0wc72?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 63
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MzI0ZDk0MjQtNWFjNy00/0/naimyazbeck-gmmicrosoftuae-2023-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 599
+        isCached: true
   - title: "OpenAI's ChatGPT Enters Government Sphere: Microsoft's Azure to Provide AI Models for Federal Users"
     excerpt: "The company will not utilize data from Azure Government customers to train the AI models. Price Action: MSFT shares traded lower by 1.89% at $327.43 on the last check Wednesday."
     publishedDateTime: 2023-06-07T15:03:00Z

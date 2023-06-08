@@ -57,6 +57,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tesla ‘Full Self-Driving’ software testing in Australia – report"
+    excerpt: "Tesla is quietly testing its so-called 'Full Self-Driving' semi-autonomous driving software on Australian roads, a new report has revealed. According to Teslascope – a service that tracks Tesla software updates and vehicle changes – the US electric-car ..."
+    publishedDateTime: 2023-06-06T00:56:00Z
+    webUrl: "https://www.drive.com.au/news/tesla-fsd-testing-in-australia-report/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 39
+    images:
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:good,w_1200/cms/uploads/ypor6suuzbggrm1iezkq"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ymmiB1seEBNc4uTV+owI6QstqqFQ+AVouY3tfle4sa3pAxWM5Pt8NH4/oj4mOkYzUM+3YuJL2PGrQD2mTPdcKZ1j3SbpDI13DvviK2goOMMUpgY0JmTtw0f6fR7nGuTeiYUEkjs74Zvc8mAdrBT2D42ts5Zs0bGj3n8jDNU8YXzSDIQWAxdtZel4jJ7AeuyTHZSaUhKr6R2u80FrN95iSs8pxp5bxOtcU7QNL/vhRNcvYNxfrFL5FSbI/vjX8F5qsXlmRyCLAake0UryVRd+Hndl1Ey9mBA9hM9TvrAMJYmx8apbYdqoQWDBBcCF/Sth13NkMZBrFECyBL8Y5AHiAke0WGwllAIyEMjftSbEgtQ=;4LsBwxa1n7UQ7oTeoNeCzQ=="
 ---

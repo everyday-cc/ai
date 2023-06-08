@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in
 webUrl: "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -125,6 +125,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Waymo self-driving car killed dog in accident: Report"
+    excerpt: "As per the report, a self-driving Jaguar I-Pace car was travelling on Toland Street, a slow-speed street close to Waymo's depot, when a dog ran into the road. At the time of the incident, the car was in autonomous mode, with a human safety operator at the ..."
+    publishedDateTime: 2023-06-08T07:28:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20230608/4083207.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "OhAfTTI5qOpdxfwFwcWNETfVEf7FlHyPeS3ZlMUjFMpnU0V7+nv/OHad+cPyGgcwPA/fN4DVfIF5MxiUf2kIk+xlsUor1DOYibPuhFx9QIbAwoROugNUxlrTIYRyEwCW8EY5Vup/pRA3NAH9vMelEUfFFFmEYvCXmoZzLpiSwHCqHoWAkJjawFx5EitcLSIWVLujJVWYSpfq6EkWCbBIstShpM+sJgCL8H/+WVgOTRA+K7c6rcLFfTJd+snISxsRXrQyBGwIL6HXl7GWnU/x2girc/jQqY3/vXP/bdm8X5SKCEKej32fSjba4Ze7dgruW+pgQ+KbiYYO1hEEFoGRABfNvz+p28VED0upT1bGRXowrprGDdaTMHK4GRT1OloZKQNquD4aZSkaOwzkkLP0i7APmLzXljBKdQMeYGwQQVrwq5OorAacd2NA10umQcDWm/+PPhmUeqw+qqzluq8i/eCXaByyFi0DKBuHptY+pooPDPXuoSl5y48G8YiKLi5LL6T86uHrjJ6NQ4Zm1Y/JjQ==;2xBJ5XHvC9q+Xy39rE0bhw=="
 ---

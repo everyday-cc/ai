@@ -125,6 +125,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Waymo self-driving car killed dog in accident: Report"
+    excerpt: "As per the report, a self-driving Jaguar I-Pace car was travelling on Toland Street, a slow-speed street close to Waymo's depot, when a dog ran into the road. At the time of the incident, the car was in autonomous mode, with a human safety operator at the ..."
+    publishedDateTime: 2023-06-08T07:28:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20230608/4083207.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "0O6WBVBjdB9+n0iAGM7NvYAk8IAx1gwE1Os+SJJcnlYap3DnhJmfNGgwBox4BYgUcbVW9VM/Skbh9A4EU8B7Gp7WoZIw98GqaUbVj9iBuR+a7YYRtHLccrT0TjO6KMifrLhaXZpoHcOGC5vIcZzYt7axvVnNTkmOJ9op0IeMgb7XTfr88SfYtf+4H4YB3fk6Nwzg1QUP+FDPKK9x5WYy5eU70C3776OgD78rD2CZhivYTOuw1hlipVpwrejc6PNPyuClyDKlzFspN9GUTdISHmIiWugAAv65I5aF2tJqS0OOh1xCIJB7qB01/paLucJyP0307gXP0o+FbkEQduevivxe0+nuiYaTD7Bk2S3QHKqUapwe8w3oLmgF0+UJit6KD6Jz9eOIf5XL35l7dJOzy/p7DMM3/T01eFGXoJwSp6NYoCCoPy3/23mKf9AO9y86b6Gj+Gk8e/nwzn2YLAc62Ca64L1VFyDxjHpafMFP1N4GaV0SJ+85Itg+lL6v+KvxtymUdyiwAhD7c31oUdaskQ==;a60Yx9pZc3M59eL58B0Yqw=="
 ---

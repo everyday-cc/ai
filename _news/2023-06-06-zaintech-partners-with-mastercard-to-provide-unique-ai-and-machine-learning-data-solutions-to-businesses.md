@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/zaintech-partn
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh?amp=1"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,33 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+
+related:
+  - title: "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses"
+    excerpt: "Commenting on the collaboration with Mastercard, Andrew Hanna, ZainTech CEO said: “The benefits of sophisticated data to productivity, safety, and cost-savings being driven by AI and machine learning are revolutionizing business processes. This ..."
+    publishedDateTime: 2023-06-08T06:51:00Z
+    webUrl: "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 57
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/mastercard.jpg?itok=xiDRXJSm"
+        width: 960
+        height: 502
+        isCached: true
+  - title: "From Integrating AI To Strictly Protecting Client Data, How Online Education Company Amesite Inc Is Doing Things Differently To Disrupt Learning"
+    excerpt: "As an online platform and product developer powered by artificial intelligence (AI), Amesite is positioning itself to disrupt ... In 2022 Amesite started a collaboration with Microsoft for the use of its Azure cloud, and it was featured in a story on ..."
+    publishedDateTime: 2023-06-07T13:11:00Z
+    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/06/32756767/from-integrating-ai-to-strictly-protecting-client-data-how-online-education-company-amesite-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "pQgFJqa13gpt6jLXj5EN7PnAk3df6wfC0B8jNoGxRPXE6qeRV2xyJl+FJYNePIWcUWwdmRs+eMiQ0gChaT+er5OqXvYi5BRqArjmvITNcKIy/WNatnoGXZQdhEtS18qXNkPNoPy0SeqaB/l5YklBIGu1b1kLgH12tBrYqMNakKHnpGQocKmGyILZo/O1QBlPclGVMKrK9Nh/5Ib5h1x/+/YzfclmBUCAOFs5CIisGZqlIkI1mHisuLjmk31wD8xza/z0h3YWMGDju17c8SX+uqFn2V/pNFTXqZGuqw1Pn558SA37GxbW4H3GSFt7SO/Jkh7IJ+4x77aPEH6rqQ+vDSIK9ge7kuM6/f+HNbH4Cic=;lTJRxeZvtEJvXR0wyH0p3Q=="
 ---

@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-06-reflections-will-artificial-intelligence-compute-to-human-extinction.md",
+      "title": "Reflections – Will artificial intelligence compute to human extinction?",
+      "excerpt": "The latest threat to humanity’s survival is artificial intelligence, which supposedly has the potential to outsmart us. Considering how many of us seem to be three bricks shy of a load, this seems quite plausible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/",
+      "originalUrl": "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.readingeagle.com/wp-content/uploads/2021/08/readeag.jpg",
+          "width": 2100,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/amp/",
+      "cdnAmpWebUrl": "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/amp/",
+      "publishedDateTime": "2023-06-06T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reading Eagle",
+        "domain": "readingeagle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-why-ai-wasnt-mentioned-at-all-during-apples-big-wwdc-presentation.md",
       "title": "Why AI wasn't mentioned at all during Apple's big WWDC presentation",
       "excerpt": "AI. Here's why Tim Cook was mum on the term other Big Tech CEOs are loving.",
@@ -1170,48 +1212,6 @@
         "AWS AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-devon-tech-start-up-delivers-an-inspired-ai-assisted-content-platform.md",
-      "title": "Devon tech start-up delivers an inspired AI-assisted content platform",
-      "excerpt": "A Devon tech start-up has launched an AI-assisted content creation platform for online writing. Barnstaple-based Conturae, which launched this month, has harnessed AI technology and collaborated with",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/ab32729630/devon-tech-start-up-delivers-an-inspired-ai-assisted-content-platform",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32729630/devon-tech-start-up-delivers-an-inspired-ai-assisted-content-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32729630",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32729630",
-      "publishedDateTime": "2023-06-05T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

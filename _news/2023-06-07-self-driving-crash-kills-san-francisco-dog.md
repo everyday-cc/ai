@@ -121,6 +121,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Waymo self-driving car killed dog in accident: Report"
+    excerpt: "As per the report, a self-driving Jaguar I-Pace car was travelling on Toland Street, a slow-speed street close to Waymo's depot, when a dog ran into the road. At the time of the incident, the car was in autonomous mode, with a human safety operator at the ..."
+    publishedDateTime: 2023-06-08T07:28:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20230608/4083207.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "WZFOlSzuWLppMfl25SbtcvnDx6zX3328DeUeeqJhKjhWEBel0EWQMzphO4GXdL38K6kuxlKkomdo2/1yegVb0vYsRPob8omkY1GtxkKv6aqI2VjWovbNGiJtGqRwV674o0WoS5C3Oc8BnS9Ix0wf8w7qzyYeMLoFnh+rbhZTfdmScE7N/GJhAf4ax/H7lHGexXfZwdudKxtlPPr0y3bWIiNQYdttimeyhDPgdFdBqZW326fzEoVdTLQhCC5YVbRs2lGTdigc9qBaF8jAZMv/uBkznCvx5dW8VSz5NOUfnCmsfvZfYs5kG2eNry4eglloien5o6/lq00nca/KawS46s69hEhN719fwKM6mj/CvCwaWgohYmZv0qADYGGNTISGly2kZua5mPrAUp/gYIl+dppL8AuB84Tsm44+r7KsK7yef8z2V0tB51ly+1wyUm7bWzZytgkCH/keUlPwsJvmApQ7OSUvTOmpzJQgJfmUkC8QwVV+i0l/sTtSb4Ml+biPG6oZHMLKvYeGyyE8J+8Lng==;ofb+tKbIgAMEAbXnW/Ibmg=="
 ---

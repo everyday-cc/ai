@@ -26,6 +26,22 @@ images:
     height: 1224
     isCached: true
 
+related:
+  - title: "AltFi Fintech Index: A merry (8.6% month of May"
+    excerpt: "The AltFi Fintech increased 8.6 per cent during the month of May, bucking a three-month-long losing streak and substantially outpacing the MSCI World Index’s 0.92 per cent fall. The index is made up of 47 constituent publicly listed companies,"
+    publishedDateTime: 2023-06-08T06:11:00Z
+    webUrl: "https://www.altfi.com/article/10773_altfi-fintech-index-a-merry-86-month-of-may"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/altfi-fintech-index-a-merry-86-month-of-may.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+
 secured: "ZxDSUgPrtimQPzCVK6wromnO3d8lgyGzYNHNx4x9tZPuq1qbPO9gOn72Pcy+iCkV8kNilKB6mnZiPNZimfqX/a/4Tw6+0dHV1nG8zd9R7OOho9AsOUCKPSKyr3DQA7/Y9HgYI4T/mi3iG5GEHk0zndgIQnppQohrwFfYNwolZH6kBwm5MKMdsXhk1k+r3OvsofdxkBuAWRqGCp0ALWY/OpMWO1ayB0pjKJExiNyiQu9SN1YDFZC5bMpJwkRhagnpU8uyJ1sqSUGb/jVCDvnRjO6+3AD24sPLBgqTg3GDRkgGCWY9KYCs27/O3rGejifxJ4ow9dIO6mKzeccr27xB5ZvtR2p1A37GT3n7wLhQVbU=;fCLFKIY8xIPWUHgY7Zo9Jg=="
 ---
 

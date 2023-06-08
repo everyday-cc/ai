@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-bu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/amp/"
 type: article
 quality: 97
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -72,6 +72,22 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/06/image/jpeg/pOSv8dNxeKMqDTYoHX000kE4rPtKxTMrndXN0Mv6.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Microsoft to host exclusive event showcasing how AI can unlock potential of UAE organizations"
+    excerpt: "The company will share practical examples and showcase how its Azure AI platform is ushering in a new era of AI"
+    publishedDateTime: 2023-06-08T06:59:00Z
+    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-to-host-exclusive-event-showcasing-how-ai-can-unlock-potential-of-uae-organizations-vml0wc72"
+    ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-to-host-exclusive-event-showcasing-how-ai-can-unlock-potential-of-uae-organizations-vml0wc72?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/microsoft-to-host-exclusive-event-showcasing-how-ai-can-unlock-potential-of-uae-organizations-vml0wc72?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 63
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MzI0ZDk0MjQtNWFjNy00/0/naimyazbeck-gmmicrosoftuae-2023-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 599
         isCached: true
   - title: "Microsoft launches generative AI service for government agencies"
     excerpt: "Microsoft's Azure OpenAI Service will allow departments to adapt generative AI models for tasks including content generation and semantic search."

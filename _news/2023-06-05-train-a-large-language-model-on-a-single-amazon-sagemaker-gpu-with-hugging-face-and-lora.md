@@ -89,6 +89,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 76
+  - title: "AWS says Falcon40B Large Language Model Trained on Sagemaker"
+    excerpt: "AWS revealed that TII), a leading global scientific research centre in Abu Dhabi, trained its top-performing, open-source Falcon 40B model on AWS."
+    publishedDateTime: 2023-06-08T06:57:00Z
+    webUrl: "https://analyticsindiamag.com/aws-says-falcon40b-large-language-model-trained-on-sagemaker/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/AWS-falcon.jpeg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "Amazon SageMaker Automatic Model Tuning now automatically chooses tuning configurations to improve usability and cost efficiency"
     excerpt: "Amazon SageMaker Automatic Model Tuning has introduced Autotune, a new feature to automatically choose hyperparameters on your behalf. This provides an accelerated and more efficient way to find hyperparameter ranges, and can provide significant optimized budget and time management for your automatic"
     publishedDateTime: 2023-06-05T19:36:19Z
