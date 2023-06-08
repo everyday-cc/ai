@@ -90,6 +90,15 @@ related:
         width: 2686
         height: 1511
         isCached: true
+  - title: "DeepMind AI's new way to sort objects could speed up global computing"
+    excerpt: "Sorting algorithms are basic functions used constantly by computers around the world, so an improved one created by an artificial intelligence could make millions of programs run faster"
+    publishedDateTime: 2023-06-07T15:47:00Z
+    webUrl: "https://www.newscientist.com/article/2376512-deepmind-ais-new-way-to-sort-objects-could-speed-up-global-computing/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 34
 
 secured: "/WnLxr688vSQGEI2tViDhSU8NqPvwQ69Xn9ZqExlh7H3IqqF9GC7Sx9iX+HIkslbCODawByRhrD7d/KUTYlSH4sI0/5JUcxvp9aNRo8xLf7xRF/Z7Krdqu0MFUpljcoaLSI/dO3LktQ/AA8RA7KhR4tBY7Hln4h6p4ebakTsVp23wIWlHUkGtLSJdfLdnNq1RF7im4+cerEOPsG5jpkKiReaWOSxqORjeNRp2u/+D3shc21drF+UPscgSQ+iUJ88IiPIbjNKq8JHHMX8AWoJ2rKv419NfsJw8dSF3iyBxJ23DYCLP1HNAS8zQec033nnDOzkttpJLvY1P64fnKhgws5QB4wjAgz97RDDlKPKTHRGsVnyQnghCYFHMDxDN/84iwRcNIrfxMO0AO6/uMsT95QyenTvkkzW3Wq33l5q/zS+Yrdk4EI0N/Ae/eAfsjU6YOCMCukvV0JbTgqlfRRNn69fjwA7xogAHfKyK6GvEx7aFrcwG1+mZpfVpjDFaN5isWK9cT1O1QnW4doVcsFhjA==;M+g2r7XFM2Qsz997o617JQ=="
 ---

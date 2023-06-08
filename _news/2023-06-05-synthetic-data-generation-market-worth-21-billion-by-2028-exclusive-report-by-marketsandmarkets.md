@@ -33,6 +33,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fintech as a Service (FaaS) Market worth $676.9 billion by 2028 - Exclusive Report by MarketsandMarkets"
+    excerpt: "service integration with AI and automation, data analytics emphasis, worldwide expansion, and improved security and compliance, the future of the Fintech as a Service (FaaS) business appears bright. These patterns show that FaaS will continue to develop ..."
+    publishedDateTime: 2023-06-08T15:40:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59294900-fintech-as-a-service-faas-market-worth-dollar-676-9-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "pcNUcSEjpN3wEuuA245EUiUiPGhsZq4XwHJSEn+m3BkAWTSJcRwE3RDKVeANAJZJsZ4XFAITl13es+hHD4vdeG9h6JnLa+7cLKg/5GRNoN61dmfZMD8TCpsoDJbZxJ7cfF5Jtvyl2pEWup6KkyKwbvFWY5PbFyCQwqS1V0IFld2C3EIN+Ft8iSTy0HVTtYiajNNnWWoqzDrfYrHmYJQeDQsvPeoYPwXV7kIIozLN9Qx6GeOhdqnHGHszBfGP597EzIlsSJBz4dv87OKxLmQZB5VoqzmC8CgheLMkGHRcWFukONy/dYm4e2SQ3IRf542ZlVSDC08cZtpDzPie8JLGdAMQNrTwxtXa4x1zYHyv4Es=;UTdkSWNM2sNXyaEwUvC2JA=="
 ---

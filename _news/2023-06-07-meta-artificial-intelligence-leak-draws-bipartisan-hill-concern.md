@@ -7,7 +7,7 @@ originalUrl: "https://www.nexttv.com/news/meta-artificial-intelligence-leak-draw
 webUrl: "https://www.nexttv.com/news/meta-artificial-intelligence-leak-draws-bipartisan-hill-concern"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 794
     isCached: true
+
+related:
+  - title: "Senators to introduce a bipartisan AI bill aimed at keeping up with China"
+    excerpt: "The Global Technology Leadership Act comes as Senate Majority Leader Chuck Schumer and other members of Congress have made addressing artificial intelligence a key target."
+    publishedDateTime: 2023-06-08T11:45:00Z
+    webUrl: "https://www.cnbc.com/2023/06/08/senators-to-introduce-a-bipartisan-ai-bill-aimed-at-keeping-up-with-china.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 46
 
 secured: "U/LppP2AU7zP96qoSbe8U7p9C73lSMWIdZwdzYln7CH9THmASnqzf12rHBOZ6VReK8MTl6YinyQQckHM8pgzXC1+NU9o+U750G8SRahY0yTIQuhI1ljLE2wuuZge9neM2sOAwZvEZ3JwHv88vKKuyswAB1oRkDxfFZdJNzPt4fH1EwTGYQY84ngvORYZ9DqiO6bCuGbp3UatIVYv0Prqjt+u+Uu+RCyAnIjmGAywRe7DXLZC1aXwDmXcvexg/tjr97P5eO58AjpK4gxrAeVic+gJsvHB6qqNvlqPlzAOv1/8FQHmkC5XTjC4JonjU75U/r4SrWmd114JrlqkWjt3j08YSYt6ngdFAAcxUWj0oeZskx+2vcN5gKTDQhZIfz+X/D8sSXiJhGiQVsJQ/Xjs0T4lnYQH+YUpD1Fi6LmGzWlwLQpp0/DtI9PGtOazso2Nb3PIUixiQOgOI0UWiHHOIDm2v4mslgHa8q77XJKoLXlZ1sYEhhq21o6iYLF8kYTCJ6EKT8SX3CbDUFsZFFiDYA==;uOBcGeSuzTtviAqig7qlzg=="
 ---

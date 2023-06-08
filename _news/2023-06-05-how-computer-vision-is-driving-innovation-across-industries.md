@@ -235,6 +235,15 @@ related:
         width: 399
         height: 400
         isCached: true
+  - title: "Healthcare Automation Market Top Participant To Focus On Regional Expansion | Aetna, Inc., Allscripts Healthcare Solutions, Cerner, Cigna Corporation."
+    excerpt: "The healthcare industry is rapidly adopting advanced technologies such as artificial intelligence (AI), robots, and medical imaging analytics to boost operational efficiency, reduce costs, and enhance service quality. Healthcare professionals and hospital ..."
+    publishedDateTime: 2023-06-08T12:40:00Z
+    webUrl: "https://www.medgadget.com/2023/06/healthcare-automation-market-top-participant-to-focus-on-regional-expansion-aetna-inc-allscripts-healthcare-solutions-cerner-cigna-corporation.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "5MAKn5TagYG0lroAwcRpGysa+IlgH3QQKI+lZ1PYvnDex99/vAOvVpFAJTstspZCXQKD44WpUKX+9AWfNR27yJOepL6x5TS62JI2+B2jsPnvlwC83xVJGSvwOoz2OohvLnGI7lNzhfY6xLtU4BJqAGtQMNd0Y7WYwucy/t/aoSyFe/vBdj1Ue3xt9nN4e886JphCgbmEZqQtFTVaq0gEJ/itbW1b9QLnUQn2ZfLXx7rsmQ1JgLL2+VcL6U3bl+LK7kgoNPNl7Xf1qMf0dMcsGph7+yZ6jvN70IhdlT6lEDc0jB2cvXRigBgwpousf5IxnCPOD4/O+Ah0ecA3pugmIlCEjPg2JyOz9nS58hEmZerm05I6+BmzOmk1ZuIeZknRho2OlnMu8gpgrOgfnD7zaZbnabxgBXUxtcRmYCCcIVvZta1r+CPl0OcJPDKfPhADh5fNixpaXRP2p8snmVMVZr/sQNhKanNI9gsSeukyqfXzADmzqS+YlgF2iwJY6LDY3sTPZWGs1O0HzV73LTRibA==;FKfJiI6f8hkFmT8aMh8BgA=="
 ---

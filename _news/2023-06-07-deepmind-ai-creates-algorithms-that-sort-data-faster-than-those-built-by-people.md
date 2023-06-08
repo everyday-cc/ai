@@ -69,6 +69,15 @@ related:
         width: 862
         height: 485
         isCached: true
+  - title: "The Download: carbon-capturing super trees, and DeepMind’s sorting breakthrough"
+    excerpt: "The news: A year after DeepMind used a version of its game-playing AI AlphaZero to find new ways to speed up the calculation of a crucial piece of math, the AI research lab has pulled the same trick again—twice."
+    publishedDateTime: 2023-06-08T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/08/1074316/the-download-carbon-capturing-super-trees-and-deepminds-sorting-breakthrough/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 15
 
 secured: "tAy1JMJb/l4knxnfqwtDM+ugNoE/JreUPHsNYVny1jWXGbUFg6BGYd3GiSYbiW1RegFse21YHpPzCTVo1yOlZm+pKN4FOGQ3XS7niEm54KXRdH8umiYztZZij2X+aGnoClPHo0IngLEUJQrEXerwRpIDhPe1crujyx5azZr/IJiaefoT2noihbjSDQilVi/TQ7cnZNWPRzD75VfkJEwEtCUJuUAAxd4TbwR+0yu+oillBOBCdlPGJ5Q+ht6e7AeCUGfBdeXmvfwWATx+8DvWeW0kNnLPu90534hiUHaf9YNGZpuOymNycz6sWYLxFXRBNcZZowlx5n2QuSdEMcxlD0+sq72Pv5qfLZjnU+l5pJmrwNzKYc0yGbSfi57XX+ljGoOreAbCcvXnBVSWRQSbj1/0WRorLzyoO6nUWslK4U4GPOZJXz3G+yP8sW3dnDwAH2WOFXdVOk4fTPKIMCeRQ/d9Skkfl0FaEpApzjmx/t8WYrJTZFXf09si5CK6KPtV3bD3TsZdKZFs/gep/gdDQQ==;PHxJXZB28TnmmEU1CdHU1w=="
 ---

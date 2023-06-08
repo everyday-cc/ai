@@ -69,6 +69,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "OpenAI rival Cohere raises a fresh $270 million to bring generative AI to the enterprise"
+    excerpt: "AI startup Cohere is no longer flying under the radar. The Toronto-based company just announced $270 million in funding backed by Nvidia and Oracle."
+    publishedDateTime: 2023-06-08T13:06:00Z
+    webUrl: "https://venturebeat.com/ai/openai-rival-cohere-raises-a-fresh-270-million-to-bring-generative-ai-to-the-enterprise/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_stacks_of_dollar_bills_and_golden_coins_rise_into_the_s_183429ec-10a6-4d30-b5c0-15109995c0d5.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "One-sentence warning on artificial intelligence"
     excerpt: "THIS week, 80 artificial intelligence scientists and more than 200 ‘other notable figures’ signed a statement that says ‘mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as"
     publishedDateTime: 2023-06-04T18:05:00Z
@@ -110,6 +124,20 @@ related:
       - url: "https://www.techopedia.com/wp-content/uploads/2023/02/benefits-of-cloud-computing-3.jpg"
         width: 810
         height: 432
+        isCached: true
+  - title: "In AI Talent War, Rushing to Hire Tech Experts Without a Business Plan Is the Least Intelligent Approach"
+    excerpt: "And the reassuring news, according to Wang: “There’s not going to be a robot that’s going to walk up ... said that before jumping on the AI bandwagon, it’s important to start from square one with a plan in place. “If you’re hiring AI technical ..."
+    publishedDateTime: 2023-06-08T14:38:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/06/08/in-ai-talent-war-rushing-to-hire-tech-experts-without-a-business-plan-is-the-least-intelligent-approach/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 22
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2023/06/AI-hiring-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "vZY/qV19hM8tvn2KSo+GvTPTjLTF8N7SOsT2cqD14RYwkbJiPQ4y69DRkd2KT9XiqaScHMFw+M1SW40GTjCdOczRbCDqdFhROhpHIB18EcuATQcgA46fZmOhj2//J8e92yLzk2pjK06hGVyyoQy5heqf8tmGb2Xac4wlcdqAEMwzKLFvaFy27WA0vhEdfznXOeZBiuWlTfbNkQGs96Ys3lqVNf3y3ARVcKKJ88YBQsUDxv49eFnHZXYE2eRjLT6kQ9RmLr04PCB+ThG7ci3AA7fVLuQAmli2WFIvgqmAQD7DE//sNOwA7Vg+XAjtwVadBIt7WtIa8Vcoer1JiH3nz7zzszDkQ+MHukXOP8RTWj33L07rOy562j17l05W+JFCvnq2ZpVaG7oSr30PAo3HGY0150PV0am2Po3Mz9LkFMSRzRa1KBN5uq67Dep+U5yhkUBvYvL1xq2xNX2cdtlDDrEsGYdwXa86FnkGj+G9A5NiTNx9uKlqXEfrUI4m4105edKaD+U3wMYwx9uyuSPapA==;GzLAzBNcKd9FC0Z27Wbfmw=="

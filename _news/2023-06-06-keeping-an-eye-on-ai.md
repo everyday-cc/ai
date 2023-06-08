@@ -33,6 +33,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Here's one thing AI can do for 3 of our mega-cap tech stocks that they couldn’t do before"
+    excerpt: "A series of recent deals, announcements and upgrades involving three major cloud-computing names all share a common thread: Artificial intelligence."
+    publishedDateTime: 2023-06-07T23:53:00Z
+    webUrl: "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 40
 
 secured: "ZsvAR1EN8ldZ6FJGVH4DcTJcUN2kSceWDsyf9LKbAHHgt9dp4KlQ/EE0Io589NqXhPIi77N3tk2ZUKVwdVpav9F14tXHHeo6oyVbw4QDSE/F0Ck4ORhQ8CvlCggZyw1htfWxUzsRW+1vOcdIKQ8u66/+nPsqHGGGszN2F1uV9MWD36BcVWBG5C41kRUSHVywb6EQ3KtfXlgZnOOgCb6AY1o+gGZ+M3swgn5wVm106arQuniXgFbGltvh/VAHSUKWOq3dGI0AJZOdsBHNqsSkhgq21vC0kC769CW8FRuqzLDsCPxyCRygYee934DKibSn3pdKu2FzUUfmebFXvV4X0iOlZl3YLTWZw6eqWJuyHKJgShWKmBAc0ZiUGNAP0kDoYVbRlneMkzRHDtSzp8eSEph6RWn3LeKA1YHpg4bOCjAFPPLb7hqknzeLO0RQNJhYlMgzcSdSTIAD/7bC0BWzXf0HPLaNvppTBU3k0ql/BJhNQuTAp/3Jxne9vh6UykJwS6tbrOHXspKyOLMLbF0Kzw==;YtaJ9urZW/nKdY+nlBdGiA=="
 ---

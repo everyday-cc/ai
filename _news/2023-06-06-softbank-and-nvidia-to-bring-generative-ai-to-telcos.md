@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/softbank-nvidia-gene
 webUrl: "https://www.eweek.com/artificial-intelligence/softbank-nvidia-generative-ai-telcos/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 AI or chip stocks to buy aside from Nvidia"
-    excerpt: "NVIDIA and AMD will always go hand in hand whenever it comes to all prospects regarding Graphic Processing Units (GPUs). Prior to AI, AMD has always held a strong foothold in the PC space, powering most of the laptops alongside Intel Corporation (NASDAQ: INTC)."
-    publishedDateTime: 2023-06-06T02:55:00Z
-    webUrl: "https://thefinance.sg/2023/06/06/4-ai-or-chip-stocks-to-buy-aside-from-nvidia/"
-    type: article
-    provider:
-      name: thefinance
-      domain: thefinance.sg
-    quality: 54
-    images:
-      - url: "https://thefinance.sg/wp-content/uploads/2022/04/Oil-Rig-at-Sunset.png"
-        width: 800
-        height: 533
-        isCached: true
   - title: "TSMC rushes to increase packaging capacity for Nvidia AI chips"
     excerpt: "TSMC has placed rush orders for CoWoS packaging equipment in order to meet surging demand for Nvidia's AI chips, according to sources at fab toolmakers."
     publishedDateTime: 2023-06-06T01:35:00Z

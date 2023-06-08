@@ -1,0 +1,34 @@
+---
+category: news
+title: "DeSantis' campaign apparently used AI-created fake images showing Trump and Fauci hugging and kissing"
+excerpt: "Images in a video shared by Florida Gov. Ron DeSantis' presidential campaign on Twitter have been debunked by AFP."
+publishedDateTime: 2023-06-08T14:56:00Z
+originalUrl: "https://www.businessinsider.com/desantis-campaign-appears-to-use-ai-images-trump-fauci-video-2023-6"
+webUrl: "https://www.businessinsider.com/desantis-campaign-appears-to-use-ai-images-trump-fauci-video-2023-6"
+ampWebUrl: "https://www.businessinsider.com/desantis-campaign-appears-to-use-ai-images-trump-fauci-video-2023-6?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/desantis-campaign-appears-to-use-ai-images-trump-fauci-video-2023-6?amp"
+type: article
+quality: 72
+heat: 72
+published: true
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://i.insider.com/6481e80b9ea86100194961dc?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "YkSKVTqArYt6p6SrUcCaVUr09IkdzJSq0Mk664e6tCqmmxwGplCuR3gwxYNnpBznka1Ls0ITmXrpX9BG7vcJ7stVTetLSM6JsE4kawEVStgyGPei0MkONW87+bS9rB+CtxmoaMPcEQM485LH13emzsxwVswQo6KySL4ULlzlUhwHqSQrKQRzgoEroRb0jFrKMsc2mbb3UOI3CzGZq3ByKNLB2VEkT53riLRzi0A/9Dyv/f4Mr5A88tlaizv3MDE3dO3Jik2MsMZMR8KZBIhC/jRmt7T+Lt80wTeXNg0qe8CBZWbOw0igAkNT+0Kls75K/8gRH1mITBkNu+rAx81h4o5W5cWFLJAeuiKdJDjLGRM=;dxOfmmk1NCZoC5mcMS87ZQ=="
+---
+

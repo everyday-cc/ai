@@ -84,6 +84,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Gong launches customizable generative AI models to streamline sales workflows"
+    excerpt: "Gong unveiled a suite of proprietary generative AI models designed specifically for enhancing sales productivity."
+    publishedDateTime: 2023-06-08T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/gong-launches-customizable-generative-ai-models-to-streamline-sales-workflows/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
   - title: "Impact Analytics enhances its AI-native product portfolio with generative AI technologies"
     excerpt: "Today's fastest-growing AI-powered retail-planning provider seizes the opportunity to exploit complementary, innovative AI technologies.LINTHICUM"
     publishedDateTime: 2023-06-07T14:01:00Z

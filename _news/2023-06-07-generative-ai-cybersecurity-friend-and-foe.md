@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screenshot-2023-06-06-213946.jpg?w=1200&strip=all"
         width: 1200
         height: 710
-        isCached: true
-  - title: "Insider Q&A: Artificial Intelligence and Cybersecurity In Military Tech"
-    excerpt: "Shift5 founder Josh Lospinoso discusses AI and how software vulnerabilities in weapons systems are a major threat to the U.S. military."
-    publishedDateTime: 2023-06-03T19:47:00Z
-    webUrl: "https://www.securityweek.com/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
-    ampWebUrl: "https://www.securityweek.com/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 57
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2022/09/AI_Cybersecurity.jpeg"
-        width: 900
-        height: 430
         isCached: true
   - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
     excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."

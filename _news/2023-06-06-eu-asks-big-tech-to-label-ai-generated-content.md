@@ -43,6 +43,22 @@ related:
         width: 1125
         height: 900
         isCached: true
+  - title: "The Impact Of AI On Strategy Games"
+    excerpt: "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development."
+    publishedDateTime: 2023-06-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The impact of generative AI on software team productivity is... complicated"
     excerpt: "Generative AI means faster coding, but also more code to manage, along with greater expectations from the business."
     publishedDateTime: 2023-06-05T07:12:00Z

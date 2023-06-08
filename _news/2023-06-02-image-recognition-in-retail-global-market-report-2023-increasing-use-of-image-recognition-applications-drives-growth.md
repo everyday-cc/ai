@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Image Recognition In Retail Global Market Report 2023: Increasing use of Image Recognition Applications Drives Growth"
-excerpt: "The main types of image recognition in retail are code recognition, digital image processing, facial recognition, object recognition, and others. Code recognition is an identifying solution that can read and validate both QR codes, all conventional ..."
-publishedDateTime: 2023-06-01T22:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32682999/image-recognition-in-retail-global-market-report-2023-increasing-use-of-image-recognition-applicat"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/n32682999/image-recognition-in-retail-global-market-report-2023-increasing-use-of-image-recognition-applicat"
-ampWebUrl: "https://www.benzinga.com/amp/content/32682999"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32682999"
+excerpt: "This report provides strategists, marketers and senior management with the critical information they need to assess the market. The global image recognition in retail market is expected to grow from $1."
+publishedDateTime: 2023-06-01T23:40:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/01/9825362.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/01/9825362.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "Myl2YxU59gr3rhW4sMoEu2f0+a1QhbORsCsLJJLL+6S0xoJ/gNMHzrqQkk2emo4IOat2hKbvjrcNPeOBX/XfQOYqsCKm4FFTOVV2JUqlWGIEodqa1HVuNJbPc7rnkYzSEj7Jc9omamNRNecliSWHaqaaI7esAUNKCl4YULZwv4roMdtpZA3u5DA+NndqL8+8gtrXthhtk4xXSmHwn1ZxjnqMQpV+gFDLmwNhKi8AXviB9DEqVE/8kJMhkOX1HzRc9EdrCvZ10STaUDc9+1VqUxztWpipvw80an90Je1YvPJEC1GFwIx5Vk7jTSSLcdbyvyiyDcTfPaeRes6jCobWY/n4MpxzsYs2DRcNPCHG0Uw=;twoAHEBDyM0n3QTSh4RCzQ=="
+secured: "pcgtvF1tqBisyMdcV9KnmDVSOfT2mo0KkmMTfru2fBlzhzWWS47oCjpiKWsz7POnx/ZeqLGqKkVptmLZAv3tC++MBV7ILsfqeS7+C96ek1+lMdavO3rBAgiDhfTKR4YPDowNd9Tb/DESEQZemL0P0kGR2NmUfzPzvMWBnLXLZASjbacCfBrmiqIwSdRbWUNWCmPdsiaSytGhTDtnqiXhPrpFqeureFjUhGI9Nh9gp7kTH3Bp6NlUMUyBaw0UxtODxQKFl9SkZJ0wjtj7GKAKO/Yvj4pol8xXNIQ9SRZ4oiOv+jARwTNL6mEflcTcoknhOZIgpykvqCY19hmnKCvRZY4HwFO3Bp12/bAdecvZ/JY=;tnkP49o0UbB8DZ350LPlAQ=="
 ---
 

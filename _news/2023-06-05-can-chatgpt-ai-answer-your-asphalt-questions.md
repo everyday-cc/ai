@@ -80,6 +80,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Sam Altman: The man behind the AI sensation across the globe, ChatGPT"
+    excerpt: "ChatGPT: OpenAI co-founder Sam Altman says that artificial intelligence might kill jobs but it is not a permanent job killer"
+    publishedDateTime: 2023-06-08T13:45:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/16/full/1684251299-6933.jpg"
+        width: 3500
+        height: 2332
+        isCached: true
   - title: "Apple’s Vision Pro needs AI like ChatGPT as soon as possible"
     excerpt: "Apple just unveiled the Vision Pro AR/VR headset. But the powerful hardware needs one more thing: a ChatGPT-like generative AI assistant."
     publishedDateTime: 2023-06-06T01:22:00Z

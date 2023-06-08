@@ -19,29 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia 4060 Ti 8GB offers up the sort of performance Nvidia promises – and questions the current GPU market"
-    excerpt: "With the GeForce RTX 4060 Ti 8GB, Nvidia has a clear audience and a clear goal in mind. We all like to make a big song and dance about the hardest-hitting, heaviest-lifting state-of-the-art graphics cards – but the truth is, the majority of people don’t buy them."
-    publishedDateTime: 2023-06-06T14:00:00Z
-    webUrl: "https://www.vg247.com/nvidia-4060-ti-8gb-gpu-market"
+  - title: "Nvidia’s new AI “Superchip” combines CPU and GPU to train monster AI systems"
+    excerpt: "Early last week at COMPUTEX, Nvidia announced that its new GH200  \"Superchip\"—a combination CPU and GPU specifically created for large-scale AI applications—has entered full production. It's a beast."
+    publishedDateTime: 2023-06-08T15:48:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/amp/"
     type: article
     provider:
-      name: vg247
-      domain: vg247.com
-    quality: 21
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 118
     images:
-      - url: "https://assetsio.reedpopcdn.com/nvidia-rtx-4060-ti.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        width: 1200
-        height: 630
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/gh200_grace_hopper_chip-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "NVIDIA's RTX 4060 Ti GPU Powers YEYIAN Gaming's New Desktops for Unmatched Gaming Performance"
-    excerpt: "New Shoge and Yari II gaming desktops feature NVIDIA's latest RTX 4060 Ti GPU with upgraded AI-accelerated graphics performance and stunning ray tracing effects. SAN DIEGO, June 7, 2023 /PRNewswire-PR"
-    publishedDateTime: 2023-06-07T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32760571/nvidias-rtx-4060-ti-gpu-powers-yeyian-gamings-new-desktops-for-unmatched-gaming-performance"
+  - title: "4 AI or chip stocks to buy aside from Nvidia"
+    excerpt: "NVIDIA and AMD will always go hand in hand whenever it comes to all prospects regarding Graphic Processing Units (GPUs). Prior to AI, AMD has always held a strong foothold in the PC space, powering most of the laptops alongside Intel Corporation (NASDAQ: INTC)."
+    publishedDateTime: 2023-06-06T02:55:00Z
+    webUrl: "https://thefinance.sg/2023/06/06/4-ai-or-chip-stocks-to-buy-aside-from-nvidia/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
+      name: thefinance
+      domain: thefinance.sg
+    quality: 54
+    images:
+      - url: "https://thefinance.sg/wp-content/uploads/2022/04/Oil-Rig-at-Sunset.png"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "This week in AI: Existential threat from AI, Nvidia announces AI supercomputer, UK wants global AI watchdog and more"
+    excerpt: "The DGX GH200 uses Nvidia's NVLink technology to combine 256 GH200 superchips, which each house an ARM-based Grace CPU, and H100 Tensor Core GPU, that allow for performance up to 1 exaflop (equivalent to one quintillion floating point operations per second) with a whopping 144 Terabytes of shared memory."
+    publishedDateTime: 2023-06-04T13:30:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/this-week-in-ai-existential-threat-from-ai-nvidia-announces-ai-supercomputer-uk-wants-global-ai-watchdog-and-more-10740031.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 0
 
 secured: "WLx5HvAIeVhS0DSXzLBiMyzqnkMGKLf5QnU9frDEJoOwDo1nyXwrb/+t9P4DOqHeiccOGWuQkck9zQKjLL9BgdFR4SLiJMk/16waZqLxhgzoR9RDPgljSIVw1q8APpEixmDiX2W33mnVvjuRGUe3rr9TkVYsOdDKKjabwO+bGGpTkgcs/Y4/URmT9zDZwZEpeVDhb7ZaIn0gNHkF+euf5A/anlnPcRa2VVcA4B6XaoHmLyHT9E0YrTeJAbr7xrxEUcwCm9di64G+DQFOGjj79qrwCHjBI+4ckOutWEHTFIOP+XJAvvGo0OAvCvKojoezy8gHQkmME+u6UQR4bIuRzzhvPIDnVND3KivPucenFFZf8kv208Yvb1HjkzsoQm+GkyAdXVtM1qwRFNrqgE7VAWQt/dnjqyZ/fXxgnbR/0EmrSmwN0f10HnEvHjUi4Pg/yfJ+j6/CpGsbrQRPgQyFN8pgiFql5fLN7TL3BpY5oOViqIkyzSEqEYZM8cohBJIhPK2B8/a655PET9bN+kxvZQ==;GP5aGrcxo+1NAu5uh+6JCQ=="
 ---

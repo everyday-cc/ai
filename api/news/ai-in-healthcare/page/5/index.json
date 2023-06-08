@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-19-artificial-intelligence-ai-chips-market-2023-key-findings-throughout-globally-by-2030.md",
+      "title": "Artificial intelligence (AI) Chips Market [2023] | Key Findings Throughout Globally by 2030",
+      "excerpt": "GlobalArtificial intelligence (AI) Chips Market[2023-2030] research report is a compilation of information and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-key-findings-throughout-globally-by-2030-2023-04-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-key-findings-throughout-globally-by-2030-2023-04-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-artificial-intelligence-in-healthcare-market-new-trend-analysis-2023-2030.md",
       "title": "Artificial Intelligence in Healthcare Market New Trend Analysis 2023-2030",
       "excerpt": "The Global Artificial Intelligence in Healthcare market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
@@ -1282,50 +1334,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-deepminds-ai-used-to-develop-tiny-syringe-for-injecting-gene-therapy-and-tumor-killing-drugs.md",
-      "title": "DeepMind’s AI used to develop tiny ‘syringe’ for injecting gene therapy and tumor-killing drugs",
-      "excerpt": "Scientists have developed a molecular “syringe” that can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells. And the researchers did it using an artificial intelligence (AI) program made by Google’s DeepMind.",
-      "sourceUrl": null,
-      "webUrl": "https://en.protothema.gr/deepminds-ai-used-to-develop-tiny-syringe-for-injecting-gene-therapy-and-tumor-killing-drugs/",
-      "originalUrl": "https://en.protothema.gr/deepminds-ai-used-to-develop-tiny-syringe-for-injecting-gene-therapy-and-tumor-killing-drugs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://en.protothema.gr/wp-content/uploads/2023/04/mkhb-405x270.png",
-          "width": 405,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "protothema.gr",
-        "domain": "protothema.gr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Google AI"
       ]
     }
   ],

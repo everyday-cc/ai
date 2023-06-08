@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208283-antchain-introduces-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208283-antchain-introduces-privacy-preserving-computing-platform-offering-data-privacy-protection-solution-for-ai-machine-learning/amp/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,29 +27,24 @@ images:
     isCached: true
 
 related:
-  - title: "Introducing WE LAB's AI Technology for Fashion Production"
-    excerpt: "WE LAB introduces AI technology for fashion design. The product generates design references, provides targeted guidance, and offers a complete"
-    publishedDateTime: 2023-06-06T09:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-we-lab-s-ai-technology-for-fashion-production-1032371696"
+  - title: "AntChain, Intel Create New Privacy-Preserving Computing Platform for AI Training"
+    excerpt: "AntChain has teamed up with Intel for a Massive Data Privacy-Preserving Computing Platform (MAPPIC) for AI machine learning."
+    publishedDateTime: 2023-06-06T13:52:00Z
+    webUrl: "https://www.securityweek.com/antchain-intel-create-new-privacy-preserving-computing-platform-for-ai-training/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/OLq1WBMwTLSvW1ZZhfqBwehSLb93/1686018825067-0.png"
-        width: 800
-        height: 389
-        isCached: true
-  - title: "The Relationship Between Productivity and Ethics in AI"
-    excerpt: "Artificial intelligence (AI) can increase productivity, but developers must also address ethics in AI with the solutions they provide."
-    publishedDateTime: 2023-06-06T15:50:00Z
-    webUrl: "https://www.devprojournal.com/technology-trends/ai/the-relationship-between-productivity-and-ethics-in-ai/"
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 14
+  - title: "dnata Introduces Ground-Breaking Cooking Robot at World Travel Catering and Onboard Services Expo (WTCE)"
+    excerpt: "AI-powered robot capable of handling cooking operations in commercial and residential kitchens. Hamburg, Germany, June 7, 2023 – dnata, a leading global air and travel services provider, announced an exciting addition to their presence at the World Travel Catering and Onboard Services Expo (WTCE)."
+    publishedDateTime: 2023-06-07T13:28:00Z
+    webUrl: "https://www.aviationpros.com/ground-handling/ground-handlers-service-providers/catering-cleaning-services/press-release/53062710/dnata-dnata-introduces-groundbreaking-cooking-robot-at-world-travel-catering-and-onboard-services-expo-wtce"
     type: article
     provider:
-      name: devprojournal
-      domain: devprojournal.com
-    quality: 34
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 2
 
 secured: "EjR+ut39TlOtJt/8rpEewZMwqNq95skntgNTqRt3Bv+X7lQJOj5y70H+ajUAO8xAGHQkvBwywdl0aFwf/dB0tL8BqjP6gjlcGsNY1jcjC/dWoind3RigGtBxkh7f2u3BogaXj17f24WN3eOCKMzu6G8lxasgE84Asmo2SRxnaRGOexTWKEJJ+MFQyBbVMccGQ6Jo7Wg1iVHmoRt4lYfVa2OMER9J5wt+tZJYFAp96+9fo0Jz48z3H49AeKlIWE5zrYQeibWzFNAwMLwDriFrXINBHISg+u0nqQetC/dIIXsPZSaqoUuwcE/HOFeFUQ7fHLytBcmAYqymX0sS/3skFR+JYvtl8k0/dSn4brwEFUo=;pu7mt0WUuqd3Usq7r8jZKg=="
 ---

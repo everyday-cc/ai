@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/amp/"
 type: article
 quality: 103
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 2686
         height: 1511
         isCached: true
+  - title: "DeepMind AI's new way to sort objects could speed up global computing"
+    excerpt: "Sorting algorithms are basic functions used constantly by computers around the world, so an improved one created by an artificial intelligence could make millions of programs run faster"
+    publishedDateTime: 2023-06-07T15:47:00Z
+    webUrl: "https://www.newscientist.com/article/2376512-deepmind-ais-new-way-to-sort-objects-could-speed-up-global-computing/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 34
 
 secured: "qjtwvNLWtrVNr+eFuXoJJ0z0IVyYC764r58ZbnuplBqeMQieZc6XzYfbizP3LrVOCgTWs83RXwnHbO+mz1giLlBhxaT6xoa14R3UzmvYJMPy0A6WTAptlGu8SRAkpn/6bbSJlBQ83Bg8Tqtf46JKdw6P6fjBz277F/DAI7wYYz415kE/p/LyGHYVSLgMH1S4PDLdXzzhrBGpYGNZev1cNahCKLftflKka/bTk2noHQq2t77wxnLuFux/wkSwXRwXT5HCi/l3Ua2orIxBh0dMCtkb0s0O60b08dzLo+EQRs5a/CNL4BTB3WkQLWrxW5PdDnhrdqUETZkX3LvXxFT3pm/ZLBk7t2m0RIcQYCIOW43geWFfcwz8WY+h/aA9MQIplFlnCPpjzy1ujX1cSyzS+vVyvZ7uXkB4kzXVy3kHILFIvzQREtX81xLOJs9C0j/S0mO2cG20c0fVG495QIlyx/w7ARnIWMZtRTfh44GJTjEVL1PVrUiGLaFWsykdU9+aOnpDXbUD7ZF58j4dw1VgTA==;YqVu03TXkSAQK+p6KvUIiA=="
 ---

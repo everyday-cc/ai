@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-08-nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems.md",
+      "title": "Nvidia’s new AI “Superchip” combines CPU and GPU to train monster AI systems",
+      "excerpt": "Early last week at COMPUTEX, Nvidia announced that its new GH200  \"Superchip\"—a combination CPU and GPU specifically created for large-scale AI applications—has entered full production. It's a beast.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/gh200_grace_hopper_chip-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/amp/",
+      "publishedDateTime": "2023-06-08T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-to-combat-gpu-shortage-for-generative-ai-startup-works-to-optimize-hardware.md",
+      "title": "To combat GPU shortage for generative AI, startup works to optimize hardware",
+      "excerpt": "AI startup CentML aims to help address the worldwide shortage of GPUs for training and inference of generative AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/to-combat-gpu-shortage-for-generative-ai-startup-works-to-optimize-hardware/",
+      "originalUrl": "https://venturebeat.com/ai/to-combat-gpu-shortage-for-generative-ai-startup-works-to-optimize-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025.md",
       "title": "Samsung's auto chip to power Hyundai Motor's infotainment starting in 2025",
       "excerpt": "Samsung said on Wednesday that it will be supplying its latest automotive processor to Hyundai Motor for the auto giant's new in-vehicle infotainment (IVI) systems launching in 2025. It is the South Korean tech giant's first collaboration on automotive semiconductors with Hyundai Motor, one of the largest automobile manufacturers in the world.",
@@ -192,7 +288,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -754,49 +850,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
-      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
-      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "publishedDateTime": "2023-06-01T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-stable-diffusion-torch-is-not-able-to-use-gpu-can-you-fix.md",
       "title": "Stable Diffusion “Torch is not able to use GPU” – can you fix?",
       "excerpt": "Having issues with running Stable Diffusion? Need to resolve “Torch is not able to use GPU” error message? Take a read of this post which explains how to resolve ...",
@@ -969,6 +1022,40 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
+      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1309,110 +1396,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-the-ai-chip-market-landscape-choose-your-battles-carefully.md",
-      "title": "The AI chip market landscape: Choose your battles carefully",
-      "excerpt": "Right now, the world is fixated on Nvidia's dominant position in the market, but it's important to delve into this a bit further. Nvidia is clearly",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/98879-ai-chip-market-landscape-choose-battles-carefully.html",
-      "originalUrl": "https://www.techspot.com/news/98879-ai-chip-market-landscape-choose-battles-carefully.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-30-image-21.jpg",
-          "width": 4000,
-          "height": 3418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai.md",
-      "title": "Universities As Vistas Of Intellectual Conflicts In The Age Of AI",
-      "excerpt": "Our best hope for AI is that it advances individual freedom. That it presents more options, not more homogeneity. That the freedom to choose and free will still prevail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mungchiang/2023/05/30/universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/mungchiang/2023/05/30/universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64762bce971f36c972996729/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mungchiang/2023/05/30/universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mungchiang/2023/05/30/universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2023-05-30T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

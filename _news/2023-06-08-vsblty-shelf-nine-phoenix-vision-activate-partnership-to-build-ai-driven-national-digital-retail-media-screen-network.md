@@ -2,12 +2,12 @@
 category: news
 title: "VSBLTY, SHELF NINE & PHOENIX VISION ACTIVATE PARTNERSHIP TO BUILD AI-DRIVEN NATIONAL DIGITAL RETAIL MEDIA SCREEN NETWORK"
 excerpt: "(OTCQB: VSBGF) (CSE: VSBY) ( Frankfurt 5VS) (\"VSBLTY\"), a leading software provider of AI-driven security and retail analytics technology, today announced that it has begun to activate a partnership with Shelf Nine and Phoenix Vision to build and manage a national in-store media network that will bring news and advertising via active digital signage technology using artificial intelligence directly to shoppers in retail stores."
-publishedDateTime: 2023-06-08T11:26:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/08/9829070.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/08/9829070.htm"
+publishedDateTime: 2023-06-08T12:40:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/08/9829070.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/08/9829070.htm"
 type: article
-quality: 14
-heat: 14
+quality: 0
+heat: 0
 published: false
 
 provider:
@@ -18,12 +18,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg"
-    width: 400
-    height: 283
-    isCached: true
-
-secured: "pzlSdQSQsD3cs7o5nyTZP0NAH/kJApjdWW7Y6OOn+1OCa3b0kn9FGDRucRdYO1Y/3QqNPSxBGX1PSceh+Uj8RhEj1bDZ5UjBeaygU1KVCNTWuHGvvTAtmPXIVYgGkUkNDK7KpYjtcV36Q0seTGaW/ylJSg3KTFn5jGAnaXGF4NlpV3mM4PSvehlqU4N9dR/F1TIDXw6EYcJODtxjDO/tpn4DkvDpjlNknfsaA4YYUxk4Q4ikx7YX0n2qVV6c/B/SWehNfoIHkO9aTY6PFMAl4xx+7K1P85ODp9zXkuidhMTxJUGiBpeSX6ofPo7Hk46EvREQCd1+tTMfLegCz4uXv4mgVbosU1FrT4f6B8di0/E=;BTfifM5H5h8bJeT4Hy2KEA=="
+secured: "YcJcCXfp358Dq1hxny0B/8CoLlUWB4U9H3GIqUVJIgJVapl+a33D6PAjKUEAKgId4QVX4ZIjt5WfFZedxrAUQRXt5o2R0PBKob09VIEKIFZXndOrNcy5onegH/t275CHYF0C5T6XOKhXnIbDDejxusLF2kuxzSelS55xzmMnaiYfng3xCSFrV8AbHSm8ULygKBHiplUC1lT8KxAFx4ke+77XVT3QH4ESNku9Tyarhyhxi/6TgBWHodX8WyP6ZL/+7liNjWpyn47hG9DydPPzoI1+/bMoDFuHyH6PoSU6+Hf/0rbdsEq9A7P3DJPTKo/1vS1X9SCcqIWCntJoa9hMiAKEgJz2i3MSub6sium+9i0Jwrr3Ku+rvleIh4KIr91JA8mEmxODjc1psErTojzWE+EaojZO7udBhIRAQu9lXsI6Fv8N+X36USAYBRCiHitTdHQ9YmR2pwegnC0njx9ivietTJ+H7Zx35jbfXsX3F+Vvp+YXYNY/pAWNFp8QgE686MkpLzdOL83gAMOqO4J54Q==;Rmb7q+6k1lo77aTq6sIOpQ=="
 ---
 

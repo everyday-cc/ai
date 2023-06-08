@@ -69,6 +69,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Sam Altman: The man behind the AI sensation across the globe, ChatGPT"
+    excerpt: "ChatGPT: OpenAI co-founder Sam Altman says that artificial intelligence might kill jobs but it is not a permanent job killer"
+    publishedDateTime: 2023-06-08T13:45:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/16/full/1684251299-6933.jpg"
+        width: 3500
+        height: 2332
+        isCached: true
   - title: "Can ChatGPT AI Answer Your Asphalt Questions?"
     excerpt: "The rise of \"A.I.\" to the level of household name means everyone has an opinion, but true expertise is harder to come by. What can these algorithms do for the likes of our industry? Can they help you answer your asphalt or business questions?"
     publishedDateTime: 2023-06-05T13:32:00Z

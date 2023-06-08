@@ -81,6 +81,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Waymo Self-Driving Car Runs Over And Kills Dog In “Unavoidable Accident”"
+    excerpt: "The vehicle was driving in autonomous mode when the accident occurred. Waymo, which is owned by Google’s parent company Alphabet, said that although the vehicle saw the dog running towards it, it was “not able to avoid contact.” It cites the ..."
+    publishedDateTime: 2023-06-08T14:24:00Z
+    webUrl: "https://www.carscoops.com/2023/06/waymo-self-driving-car-kills-dog-in-unavoidable-accident-according-to-the-company/"
+    ampWebUrl: "https://www.carscoops.com/2023/06/waymo-self-driving-car-kills-dog-in-unavoidable-accident-according-to-the-company/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/waymo-self-driving-car-kills-dog-in-unavoidable-accident-according-to-the-company/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 58
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/06/2023-Waymo-Jaguar-I-Pace-AV-1.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "A Waymo self-driving car killed a dog in ‘unavoidable’ accident"
     excerpt: "Waymo said the collision with the dog was unavoidable, but it still might spark public concerns over the safety of autonomous vehicles."
     publishedDateTime: 2023-06-07T01:47:00Z

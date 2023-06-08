@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 710
         isCached: true
-  - title: "Insider Q&A: Artificial Intelligence and Cybersecurity In Military Tech"
-    excerpt: "Shift5 founder Josh Lospinoso discusses AI and how software vulnerabilities in weapons systems are a major threat to the U.S. military."
-    publishedDateTime: 2023-06-03T19:47:00Z
-    webUrl: "https://www.securityweek.com/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
-    ampWebUrl: "https://www.securityweek.com/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 57
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2022/09/AI_Cybersecurity.jpeg"
-        width: 900
-        height: 430
-        isCached: true
   - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
     excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
     publishedDateTime: 2023-06-07T06:04:00Z
@@ -103,6 +87,6 @@ related:
       domain: zawya.com
     quality: 54
 
-secured: "LLVqLtsrrrVL3nhCGGhviG8lN+P4K5KqQXpxFzMN/23p7QihMnf7OW2/+RrR4MhM7Py7+26IZs+rGG3RM5o2gXyWetv3Xvhp2At2uUCpXR0XQGNBYUROVKH3a4quNXbKAwmMEchs2cEqWbPnSQJOxUXwbQIgC8YTLtAyY5mQvTHOONLVWLkb46LO0eJAAuTXYDQYbStTCX6ZLwI3ctGyePWjv2LrE9x2BTEi1H5vpO1ulDY6YEDooWKM45fnJUoAKAYuuI3pkSassRc1fw5dezMEmGL6+WHyh848HcMcCVZTEM859QzoHVEVzCkuLRLNO/ZWpdeQ4+oUpcswkaWIYUV4G82Qmw3WYRreHuSnf2o=;xk8Q9CDAMJRuqaz8i9t9Cg=="
+secured: "tBUqL9zG5UybSYMm8u3Gl2KRLlHWmx9JY3AqtMlN103H2b47SU+GzB/5QKqFaPRRyqEkB8A5IjTnzUPT9fikKGi/rrcQKHydVAXciVtx/gBlBjy6I4eTnslwkbSR/6+YE0J3M3Jd1ClmsPJizB875WRuZTq/YGFl73oUV05Z1+A/bSLRIU+F7xEKVLDMoYWnJ8Xmz5qAuw/T05ykcUUfMcwzl5XAaSDdK5eCAKwNHs0N9CMOC33ktNwJBNV0uv1m6MQDDkbapEoq1+BLdKmFctvu+yh59GkUxc6+ApoAjcrkL0hxG5ta3JcCP9Inb0dthGa8GYUHLEckE0rtExueDA22mawqDe3SUQcncOk25IW1GFRIsQfv/MfLCsqbGrVNwfxY0/59ovh4cYJLDe28tTgi/6c3Fk3qA0kNUf3gZdgmRiaGvok6yOllsm25gKAmyEj8BkFRMl84R6ucS2B5Jh8cwc0foc9RF7L4ieQT1agz4OCWm0i4EW59fS0rMEWA8i8o4Ty5VxsxbwK1p00hzw==;EFJl2NOe4aLwletxdS2KHg=="
 ---
 

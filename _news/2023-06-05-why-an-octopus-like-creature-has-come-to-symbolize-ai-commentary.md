@@ -60,20 +60,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Commentary: No, artificial intelligence probably won't kill us all"
-    excerpt: "Framing artificial intelligence as an existential threat is merely a doomsaying tactic. There may be more to this fear campaign than meets the eye, says this researcher."
-    publishedDateTime: 2023-06-03T22:02:00Z
-    webUrl: "https://www.channelnewsasia.com/commentary/artificial-intelligence-wont-kill-us-fear-openai-microsoft-meta-3530821"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--J961NJ9J--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/06/01/istock-1364859722.jpg?itok=p0zA9twF"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "vuPFOedjqeeFab0Pdjnd65pGNG3vlskQP2O3WHp54m2r/wwb8/p1gU5wiRjH0fQovX2ONS8+aXfm3CBVX/6n2mOh7PJNqDD8qgSQcjSJC+E9X1RMhuc5bHF4uJIiyWC035GBPItbz+7Md/ld5tRjj4bk+2tCt4YZPEMpUt/w4YlIElNfrGJwqlrjKfDS2OKRYNmpBIx2ECOV4aN7fSIw7fIsvsXzAG0xXm3aAe3mupXhmIDGqxzyEssfTnFvL9Uc1IAQ8v41WSpGw1LUVR0Ua2MF43Dmg5cFSNsA6mY+EV7eR2qnbY3m+f77BZNNdzvATX1A/3fJW3oigBftXIdWn2FaORoV6wCnzDZXkKbBbhTBBydH4o0BNdPqWXhnRcHf4sqeuX7u8MmgmwoGbbr2Jmvs+dbGpAWoKmbvvJM29cTT6oSy7mQjhVeQKjdRLDY/779JdEpADgF/JzK8G0c6Nvv3yiMu1g35QmdeTMvVNfnjqcotXHLt/PPD9QVX5lCHE90rEGjcL4ak4GEHMBeUSg==;R6z2Df7h9skle9Kf/6JxlQ=="
 ---

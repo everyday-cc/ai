@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "The World AI Show Comes To Dubai To Unveil The Latest Trends and Solutions In AI From June 7-8, 2023"
-    excerpt: "highlighting the transformative potential of AI for businesses and society. According to a report by Grand View Research, the global AI market size is expected to reach $733.7 billion by 2027. Want to make a career change without compromising your finances ..."
-    publishedDateTime: 2023-06-05T08:29:00Z
-    webUrl: "https://www.entrepreneur.com/en-ae/news-and-trends/the-world-ai-show-comes-to-dubai-to-unveil-the-latest/453476"
+  - title: "Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence to accelerate AI adoption in government"
+    excerpt: "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Chairman of The Executive Council of Dubai and Chairman of the Board of Trustees of the Dubai Future Foundation, t"
+    publishedDateTime: 2023-06-08T14:33:00Z
+    webUrl: "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890"
+    ampWebUrl: "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout"
+    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: Emirates247
+      domain: emirates247.com
+    quality: 55
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685953194-Shutterstock-2214511421.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
+      - url: "https://www.emirates247.com/polopoly_fs/1.712892.1686234760!/image/image.jpg"
+        width: 2048
+        height: 1362
         isCached: true
+  - title: "Hamed Bin Zayed Attends Mohamed Bin Zayed University Of Artificial Intelligence Class Of 2023 Commencement Ceremony"
+    excerpt: "In the presence of H.H. Sheikh Hamed bin Zayed Al Nahyan, the Mohamed bin Zayed University of Artificial Intel"
+    publishedDateTime: 2023-06-04T19:23:00Z
+    webUrl: "https://menafn.com/1106384088/Hamed-Bin-Zayed-Attends-Mohamed-Bin-Zayed-University-Of-Artificial-Intelligence-Class-Of-2023-Commencement-Ceremony"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "kV9hTa2qlJ8ZQ6ooAyJhwtdZ2xtef5oynbov9rRssh6Fi6a+QlKJyfRnKCGT9fFk/1Oj+MjE5QyHs+2wUpt4aff29SeLWbCjv2ZsBhsWw8EA2wDcOrNxlV6xBvrXYlvZF2JOLLKcGmMv0GoCCQc2lj2GP3j9a7bc2tQw96XjBRuTCOnuXyI8tLw0VeCaD1wb7TZuQmRiWtRr2nupIcSM/dEpSBRdSV/5pZLrtZvkM9NUkL/tbEo7tMu0cv3p46suwhoMYrhunVtwh2j1rzSshCoNPgSuX7ZqZswy99PAmNarmWnH1KyoBRJwxj8qrJvySBqUBceyhFVh+w+yeeghNf87gd/iN6LOyYwtLYvfG6U6gymV3drGxRbr/W+dio6gSUWnlCw2B51TZ9dhDpuHrnZxY3hZ+2Rn5Zn9si2uo4X/94mFzo9nzv29im1c8PaKl8JPva+tHt8Upwp7Uw5MZvs1P2sMC92KaRKdmrNzxACUxTdu5zIzFMiMVOA2crrYxY3pEyY4ccrTsgEs8hVeag==;yLTiGAI0cpT1oxRbPFIv0Q=="
 ---

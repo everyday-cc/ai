@@ -97,6 +97,15 @@ related:
       name: FXEmpire.com
       domain: fxempire.com
     quality: 54
+  - title: "Lilt Launches Generative AI Multilingual Writing App"
+    excerpt: "New Tool Enables Quick Generation and Finalization of On-brand, Locally Relevant Content SAN FRANCISCO, June 8, 2023 /PRNewswire/ -- Lilt, the"
+    publishedDateTime: 2023-06-08T15:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-launches-generative-ai-multilingual-writing-app-1032378920"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "4 Keys to Executing Generative AI"
     excerpt: "Generative artificial intelligence (AI) has captured the attention of health care providers and payers focused on reimagining care delivery."
     publishedDateTime: 2023-06-06T12:19:00Z

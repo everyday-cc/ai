@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59279292-pers
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59279292-persistent-systems-persistent-expands-relationship-with-aws-to-adopt-amazon-codewhisperer-008.htm"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "Persistent Expands Relationship with AWS to Adopt Amazon CodeWhisperer"
+    excerpt: "Persistent Systems (BSE: PERSISTENT) and (NSE: PERSISTENT), a global Digital Engineering leader, is strengthening its relationship with Amazon Web Services (AWS) and becoming a collaborator for the latest Generative AI services from AWS."
+    publishedDateTime: 2023-06-07T08:44:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9827934.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "jiW/AzpMorkdj2wTEhCXd1Tvjra8bpRI0kzTR30qOfi7noSjSEqvb047mWu4K3eeDt+9Ua/rSmFJ5PwlARwQMCm+WAatC9N2fJXGrrPQxE9jiE9HTHPy8AEPypdS1KgIE4T6RhJr0vtyyVYv9C16BterkiQ3r5F3wRUFNkI+bBkiOQk73ZLxRREQg/E3ZQ70TvUhMUpY7DhcM0/8i/Q//Vf5g3TVG7GFkoHbctwQb/D3hmQr6u/k+rW1VgcAkT7tGr+Zo8FUdnT1mkAsuo6N3/3LoXb/0LRYHJZvEaiUsZaU6jHFt7ngJxtbX69HWr/ICNOPgU3aTv56fr43dGCAt7Yh2uwcsCUOE2WcH+4B/cw=;ICBH/NAWTpPjWs5Qt8zZrw=="
 ---

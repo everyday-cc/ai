@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/"
 type: article
 quality: 89
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 862
         height: 485
         isCached: true
+  - title: "The Download: carbon-capturing super trees, and DeepMind’s sorting breakthrough"
+    excerpt: "The news: A year after DeepMind used a version of its game-playing AI AlphaZero to find new ways to speed up the calculation of a crucial piece of math, the AI research lab has pulled the same trick again—twice."
+    publishedDateTime: 2023-06-08T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/08/1074316/the-download-carbon-capturing-super-trees-and-deepminds-sorting-breakthrough/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 15
 
 secured: "uuUwIhNhCYStaVudrEpHfXkOt6j8Cd2GjAvwI333FFp2zgHe+UEq86K6Yk9tSrMENayY/XxuNyK+gGRUW08TR0fxnkLtFQXnCeD/vDAZdEhKQkDapwN3ZLByAQA0GEV2S33a3TiSrZTCKagquSnyyKsXe2rLAKYTPgKdM+FrV1RhO54KehPsW2+1kZ8U0N5xwhZYl/d9QmsVCzvxn1n60sobNn+AhSzjpWsGTlbwrxpR2s8c5A0yE6SlSwUMpxJ5GDePIxH+COLrK3uKbIOmD8Je+DzQQVu0gzJUItbdHsCbmDAgXbNXGxfbcNNpwRyL+4QxlFUKvns9gqMOdAvruksEKQFY7y6QCPcLvoL6MugljBMGZoL1jui9JdXld2hx+Iuuq9zqNaziaBGHfnE0gNb5Wp+pzivo7qyNJaar9MqU9J2uHHo8bwup9XIn3VyQntMNBwNGK9mVeUZUQnsEeXb1LI6xkMtuhO2PdLfgHi/AckmDoVD4mifDGb9T8DNLh/0a14IyW3fAZ9mL3iNCNA==;03IYv/SsInRO1rv/H28Pzw=="
 ---

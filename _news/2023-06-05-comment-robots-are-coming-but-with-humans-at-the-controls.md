@@ -53,20 +53,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Commentary: No, artificial intelligence probably won't kill us all"
-    excerpt: "Framing artificial intelligence as an existential threat is merely a doomsaying tactic. There may be more to this fear campaign than meets the eye, says this researcher."
-    publishedDateTime: 2023-06-03T22:02:00Z
-    webUrl: "https://www.channelnewsasia.com/commentary/artificial-intelligence-wont-kill-us-fear-openai-microsoft-meta-3530821"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--J961NJ9J--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/06/01/istock-1364859722.jpg?itok=p0zA9twF"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Why an octopus-like creature has come to symbolize AI | Commentary"
     excerpt: "The Shoggoth is a potent metaphor that encapsulates one of the most bizarre facts about the AI world, which is that many of the people working on this technology are somewhat mystified by their own creations."
     publishedDateTime: 2023-06-05T13:00:00Z

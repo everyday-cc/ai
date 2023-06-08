@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-cha
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/06/cloudera-charts-a-path-toward-responsible-ai-at-scale/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 796
         isCached: true
+  - title: "A Call For The Ethical And Responsible Use Of AI"
+    excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"
+    publishedDateTime: 2023-06-08T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/a-call-for-the-ethical-and-responsible-use-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
 
 secured: "XJaTUqDRAHA3ZpFaGNiE+qc95C7MTLOEevyJpT6YFASLRuZw24cRjCJ2d4rNBanDoZP4IVWskmT+sVkhBPEQoaD1MKdcc+L2Dlz0kOqtO9W6Gu+eAx4dpdTG325SWrAxc/xRWjaF9EIngSa5eTj0FZh3JOGvyHhzxqN+IYFhO3x9q5EAKC9vmEhL71PUyOe5c9kpYh32ExQ0okPmEYbYiKjW8SvTD4p6gBR4U9sLyAc3F6FDHtUM5XKFmz81HGvmqYgubMkQVdL451vJ/PnP87BhqtqTZiNXwRO0o0cZ/ifizQ9a/TqhBGmoF+C+QrVt9VD7n0tuOOSeX1SeXE/vfBygKc7v1/QHX++sPnTmkC0=;E3y/QCqbV/EUXmc75dK50Q=="
 ---

@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-31-the-ai-chip-market-landscape-choose-your-battles-carefully.md",
+      "title": "The AI chip market landscape: Choose your battles carefully",
+      "excerpt": "Right now, the world is fixated on Nvidia's dominant position in the market, but it's important to delve into this a bit further. Nvidia is clearly",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/98879-ai-chip-market-landscape-choose-battles-carefully.html",
+      "originalUrl": "https://www.techspot.com/news/98879-ai-chip-market-landscape-choose-battles-carefully.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-30-image-21.jpg",
+          "width": 4000,
+          "height": 3418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai.md",
+      "title": "Universities As Vistas Of Intellectual Conflicts In The Age Of AI",
+      "excerpt": "Our best hope for AI is that it advances individual freedom. That it presents more options, not more homogeneity. That the freedom to choose and free will still prevail.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mungchiang/2023/05/30/universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/mungchiang/2023/05/30/universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64762bce971f36c972996729/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mungchiang/2023/05/30/universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mungchiang/2023/05/30/universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai/amp/",
+      "publishedDateTime": "2023-05-30T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training.md",
       "title": "Amazon SageMaker XGBoost now offers fully distributed GPU training",
       "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
@@ -1383,111 +1487,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-prediction-this-cathie-wood-ai-stock-will-be-1-of-the-top-5-largest-companies-by-2030.md",
-      "title": "Prediction: This Cathie Wood AI Stock Will Be 1 of the Top 5 Largest Companies by 2030",
-      "excerpt": "Moreover, if Tesla achieved this, it could become one of the top five largest companies. As conditions stand now, Tesla's market cap already exceeds $570 billion, making it the ninth-largest company in terms of market cap. In today's market, its market cap would have to exceed $1.2 trillion to become a top-five company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/24/prediction-cathie-wood-ai-stock-top-5-2030/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/24/prediction-cathie-wood-ai-stock-top-5-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/733173/artificial-intelligence-ai.jpg",
-          "width": 2102,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-axiado-sampling-the-industrys-first-ai-driven-security-chip.md",
-      "title": "Axiado Sampling The Industry’s First AI-Driven Security Chip",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as Axiado introduced the latest technologies in its portfolio, the AX3000 and AX2000 trusted control/compute unit",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646d3315192d6cfc7da62c39/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/amp/",
-      "publishedDateTime": "2023-05-23T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

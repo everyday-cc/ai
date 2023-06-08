@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 710
         isCached: true
-  - title: "Insider Q&A: Artificial Intelligence and Cybersecurity In Military Tech"
-    excerpt: "Shift5 founder Josh Lospinoso discusses AI and how software vulnerabilities in weapons systems are a major threat to the U.S. military."
-    publishedDateTime: 2023-06-03T19:47:00Z
-    webUrl: "https://www.securityweek.com/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
-    ampWebUrl: "https://www.securityweek.com/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 57
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2022/09/AI_Cybersecurity.jpeg"
-        width: 900
-        height: 430
-        isCached: true
   - title: "CrowdStrike to accelerate development of AI in cybersecurity with AWS"
     excerpt: "Powered by the CrowdStrike Security Cloud and world-class AI, the CrowdStrike Falcon® platform leverages real-time indicators of attack, threat intelligence, evolving adversary tradecraft and enriched telemetry from across the enterprise to deliver hyper-accurate detections,"
     publishedDateTime: 2023-06-05T08:57:00Z

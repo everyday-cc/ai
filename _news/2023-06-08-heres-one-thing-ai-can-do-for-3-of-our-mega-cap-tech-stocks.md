@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of
 webUrl: "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Here's one thing AI can do for 3 of our mega-cap tech stocks that they couldn’t do before"
+    excerpt: "A series of recent deals, announcements and upgrades involving three major cloud-computing names all share a common thread: Artificial intelligence."
+    publishedDateTime: 2023-06-07T23:53:00Z
+    webUrl: "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 40
   - title: "Keeping an eye on AI"
     excerpt: "Sunak is expected to discuss the idea of a “Cern for AI” — a research base modelled on the particle physics laboratory in Switzerland — with a global regulatory body that could look something like the International Atomic Energy Agency."
     publishedDateTime: 2023-06-05T17:15:00Z

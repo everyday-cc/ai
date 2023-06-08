@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-ae/news-and-trends/the-world-ai-sh
 webUrl: "https://www.entrepreneur.com/en-ae/news-and-trends/the-world-ai-show-comes-to-dubai-to-unveil-the-latest/453476"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "Dubai to establish first integrated centre to attract artificial intelligence companies"
-    excerpt: "The sources indicated that the Dubai Multi Commodities Centre (DMCC) will be the headquarters and destination for new emerging companies in the technology and artificial intelligence sector, which are looking for new markets for them in the region,"
-    publishedDateTime: 2023-06-07T20:43:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/06/07/dubai-to-establish-first-integrated-centre-to-attract-artificial-intelligence-companies"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 46
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2019/12/29/dubai-property-750.ashx?h=450&w=750&hash=AF2A133D845714D6DAC80260444D29A9"
-        width: 750
-        height: 450
-        isCached: true
 
 secured: "TtldEzzEAko2DslJ4wNN8rH4EFkizEad3O+z6xxQWV++jjfB8uFaSiuUCcCI92Tv1PsL2OA/lU0fspHwJ+gUrBeD2/AqjtmmIZ3CA29voOq3rGhqKDSGhtrwRlZ2/BTZceRUo18IEvJUUQ0F+EC3odPD4i59miGD8SH8pfYFRWSxUFdRxAoGMna1NcnZ6R8e4hTdrMf02TuRLFkJoeTVRbpXX3ge9NSw10TkG/BY84cVhybfS31ULq+iXsxALg81r5fM3asv0bAdnKx07Meh7p26zaj5FlwSFCOBvzV+gqQLO7dZ5A/XdffEFlcebJP2Pzx9YfjN4W3oycM9MCVstV1hdmEgYNBBo8MXeB/xvGc=;0Wou9TcqUwaSDdxXmZBlzg=="
 ---

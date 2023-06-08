@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-23-enough-with-the-corporate-therapy-speak-workers-say.md",
+      "title": "Enough With The Corporate ‘Therapy Speak,’ Workers Say",
+      "excerpt": "The published version of this week’s Forbes Careers newsletter brings the latest news, insights and ideas about the workplace straight to your inbox every Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmylucas/2023/05/23/enough-with-the-corporate-therapy-speak-workers-say/",
+      "originalUrl": "https://www.forbes.com/sites/emmylucas/2023/05/23/enough-with-the-corporate-therapy-speak-workers-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646cc3c6f58a5b8e308e4343/0x0.jpg?format=jpg&width=1200",
+          "width": 570,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-addressing-the-ethical-use-of-ai-in-healthcare.md",
       "title": "Addressing The Ethical Use Of AI In Healthcare",
       "excerpt": "The push to digitize and automate healthcare data management represents a giant leap forward in helping health plans deliver better outcomes for their members.",
@@ -1399,51 +1451,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-cedars-sinai-launches-center-for-artificial-intelligence-research-and-education.md",
-      "title": "Cedars-Sinai Launches Center for Artificial Intelligence Research and Education",
-      "excerpt": "The center’s efforts will focus on developing new AI and machine learning algorithms for personalized medicine, genomics, and other healthcare research.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/cedars-sinai-launches-center-for-artificial-intelligence-research-and-education",
-      "originalUrl": "https://healthitanalytics.com/news/cedars-sinai-launches-center-for-artificial-intelligence-research-and-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-14-GettyImages-1033717120.jpg",
-          "width": 690,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education",
-        "AI in Healthcare"
       ]
     }
   ],

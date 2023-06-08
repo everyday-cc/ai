@@ -143,6 +143,29 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 30
+  - title: "Personal Injury Startup EvenUp Announces $50.5 Million Investment, Launches Gen AI Assistant ‘Litty’"
+    excerpt: "And again, avoid manual data entry when it comes to the tabulation of bills.” Lastly, the startup is focused on further refining Litty’s generative AI capabilities. “We want to be able to accelerate the client’s ability to get to a demand draft ..."
+    publishedDateTime: 2023-06-08T14:07:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/08/personal-injury-startup-evenup-announces-50-5-million-investment-launches-gen-ai-assistant-litty/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 22
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/EvenUp-Logo-767x633-1.jpg"
+        width: 767
+        height: 634
+        isCached: true
+  - title: "Adobe Launches AI Image Generator Tool for Enterprise Customers"
+    excerpt: "Adobe has announced the availability of its Firefly generative image generator for enterprise customers, allowing them to customize the model with their own branded assets."
+    publishedDateTime: 2023-06-08T12:23:00Z
+    webUrl: "https://www.tasnimnews.com/en/news/2023/06/08/2907854/adobe-launches-ai-image-generator-tool-for-enterprise-customers"
+    type: article
+    provider:
+      name: Tasnim News Agency
+      domain: tasnimnews.com
+    quality: 19
   - title: "Microsoft Agrees To A $20 Million Settlement For Improper Data Collection From Children"
     excerpt: "FTC has imposed a $20 million fine on Microsoft for collecting and sharing sensitive children data in the US without parental consent."
     publishedDateTime: 2023-06-06T12:49:00Z

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-26-deep-fake-video-of-biden-in-drag-promoting-bud-light-goes-viral-as-experts-warn-of-techs-risks.md",
+      "title": "Deep Fake video of Biden in drag promoting Bud Light goes viral, as experts warn of tech's risks",
+      "excerpt": "The word stems from the collaboration of the terms 'deep learning' and 'fake,' and is a form of artificial intelligence. The system studies a target person in pictures and videos, allowing it to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12125237/Deep-Fake-video-Biden-drag-promoting-Bud-Light-goes-viral-experts-warn-techs-risks.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12125237/Deep-Fake-video-Biden-drag-promoting-Bud-Light-goes-viral-experts-warn-techs-risks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/05/25/18/71416449-0-image-a-229_1685037259162.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-12125237/amp/Deep-Fake-video-Biden-drag-promoting-Bud-Light-goes-viral-experts-warn-techs-risks.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12125237/amp/Deep-Fake-video-Biden-drag-promoting-Bud-Light-goes-viral-experts-warn-techs-risks.html",
+      "publishedDateTime": "2023-05-25T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack.md",
       "title": "Get insights on your user’s search behavior from Amazon Kendra using an ML-powered serverless stack",
       "excerpt": "Amazon Kendra is a highly accurate and intelligent search service that enables users to search unstructured and structured data using natural language processing (NLP) and advanced search algorithms. With Amazon Kendra, you can find relevant answers to your questions quickly, without sifting through",
@@ -1225,58 +1269,6 @@
       "ampWebUrl": "https://www.marketwatch.com/amp/story/infineon-acquires-swedish-machine-learning-startup-42dfdb65",
       "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/infineon-acquires-swedish-machine-learning-startup-42dfdb65",
       "publishedDateTime": "2023-05-16T00:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-deep-learning-in-manufacturing-market-2023-2030.md",
-      "title": "Deep Learning in Manufacturing Market 2023-2030",
-      "excerpt": "The major players covered in the Deep Learning in Manufacturing market report are: Get a sample copy of the Deep Learning in Manufacturing Market report 2023 Market Overview of Global Deep Learning in Manufacturing market: According to our latest research,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2023-2030-2023-05-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T23:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

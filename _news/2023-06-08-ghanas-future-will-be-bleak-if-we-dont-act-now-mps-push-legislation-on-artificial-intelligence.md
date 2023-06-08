@@ -24,6 +24,22 @@ images:
     height: 1066
     isCached: true
 
-secured: "C/gPywemmz2NcuQMvzVMn0+iytK3rBI0nfUfNRp1MSEncWNAoTbC6/ht5jqp0cN7TCrkhhHToWhrf+pIfts1PRSw9Ou12pfrtWK5W3VIBzRFAviYP0w1c8Ll8TasMvxVXDEeaYpbJr9kiF8qWK0EP+eLaC2ZZxjUD+j/mWr8BZuhyVr0z1yhRyHdDuzmbhcVitR97Ol3gh8lt2OCbZ6KxmFwxwPoCIFFoNDQT6LK96GfGJocFP8jxOKqmqZRaA51EeIkwT5I+ICEDehvmky6tNssMbzwkCNkMGZtzjz+hF3G7WhIo5b4WpBnXRc68gb8EjGI3YC8KCOIIzJ2XZdKFhdN/8URmxT1fviG5dp4+EQ=;PPYRxwJAhJ3ZnW1/2NB4uQ=="
+related:
+  - title: "‘Ghana’s future will be bleak if we don’t act now’ – MPs push for legislation on Artificial Intelligence"
+    excerpt: "Several Members of Parliament have expressed their concerns and called for the implementation of legislation to govern the use of Artificial Intelligence (AI) in the country. AI tools are software applications that utilise algorithms based on artificial intelligence to perform specific tasks and address various challenges."
+    publishedDateTime: 2023-06-08T14:05:00Z
+    webUrl: "https://www.myjoyonline.com/ghanas-future-will-be-bleak-if-we-dont-act-now-mps-push-for-legislation-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 22
+    images:
+      - url: "https://www.myjoyonline.com/wp-content/uploads/2023/03/Akufo-Addo_Parliament_SONA-2023-3.jpg"
+        width: 1600
+        height: 1066
+        isCached: true
+
+secured: "8dFuEdtrpOPxwDyLlo4Hd5mTKHyhBuZz4R6g20dutqGnhvL8iCZxNKzuuljFzEa9bYziapJP47IMnSP02bCkYM5ApnlaXiiyiBvFa/byq/6PqP5m+a66PItc60KbM+cZBIIa3TvpzLf/6hE4kJ6wVon91t2XHEEqI2sufGT05OfG2pyfM3kpJwBbe7mKcGVA+IFlQGyxSYq5clmxUboGLCcan1dsqucXBKrw8aQXt8c1wbVpVDW1kxWNsZ+iB7imwAkeYnIGhyJGEBtr9quBY05mYJ7DktaM7r7V2U12ksxwd64H2UXiTvo//859bJ+2otQrYrY4x9l7PxjQjxLlGE++lxk7woR5UaSOVOWpcR1NIJWMyk8Rn7YabygppQD3oWfHYPkX4Or0ofEMJbvRySu9DY7BqhlapNRabTXk+8rgInEWdnLZ0VsmE/db+hfF5DvQ+ij42AhLrAMSd6IpaHCK6Mr2Dkvlv5nDisOjMVNuwcSDgXPSPdD4voGdCg6dHpWC5fNzTSGOiU9Ev7vFEg==;f72Gd5nur8pLa5XjSq2Z2g=="
 ---
 

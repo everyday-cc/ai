@@ -152,6 +152,29 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 30
+  - title: "Personal Injury Startup EvenUp Announces $50.5 Million Investment, Launches Gen AI Assistant ‘Litty’"
+    excerpt: "And again, avoid manual data entry when it comes to the tabulation of bills.” Lastly, the startup is focused on further refining Litty’s generative AI capabilities. “We want to be able to accelerate the client’s ability to get to a demand draft ..."
+    publishedDateTime: 2023-06-08T14:07:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/08/personal-injury-startup-evenup-announces-50-5-million-investment-launches-gen-ai-assistant-litty/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 22
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/EvenUp-Logo-767x633-1.jpg"
+        width: 767
+        height: 634
+        isCached: true
+  - title: "Adobe Launches AI Image Generator Tool for Enterprise Customers"
+    excerpt: "Adobe has announced the availability of its Firefly generative image generator for enterprise customers, allowing them to customize the model with their own branded assets."
+    publishedDateTime: 2023-06-08T12:23:00Z
+    webUrl: "https://www.tasnimnews.com/en/news/2023/06/08/2907854/adobe-launches-ai-image-generator-tool-for-enterprise-customers"
+    type: article
+    provider:
+      name: Tasnim News Agency
+      domain: tasnimnews.com
+    quality: 19
 
 secured: "+67q42u9LddJip0MdFgmr+Ma71re0oJP7tadeZ7DmNBUkFjO2V5dMkIPq9qdxl4JB7zqNT23kw9Y6MXkLUgHXCATNQz4QoHR/szxneQSskzQrstAejL1oN9Lb451riWWkTpk3nVmwfKrckZDM4lDtSA/Q78wOPPktLIa4EXZ37LVTNQllAiiAMarfCHqbEgzvAoyi9F57sscDsTTLplZhf1HPPYQblaA5ejtfJUfIsJycw9jcDEaNrwaYlsIvXxU6dowvHAKgzDATFsgPUQZ34lhQui8hJivGkx5B+kt8BIv9VvXLfxGl2mcCJkZQvyPGYXDVOfPwEboBOiT58mMZeK39dwyaOZ2IWQymie/KBOZxaZCFsYyRIzCb10WWYTgcxcNm9hwOJarYn6MtJ/NWxt4hE810zA4ZEdGYjC5CjcM6nZrNF5WRwlIxcB9vneXEz/nJGIczb/9S8/YbGUViWjPosmLzs0ezixNrUkjfcg3OiAmGz843X/1wXjuXvjIO8gdvdTh2obEKCjdVhGoCg==;JfHGm8GiOe47s5E2ui8htg=="
 ---

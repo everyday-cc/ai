@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-rev
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/amp/"
 type: article
 quality: 121
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 624
     height: 428
     isCached: true
+
+related:
+  - title: "The AI Revolution: How Machine Learning is Changing the Way We Live and Work : Sanchar Shakti"
+    excerpt: "In the discussion like this we can talk on & on but raising concerns and suggesting solutions  are not going to work . We need a robust platform where these suggestions become our way of life that turns  our choices into our command says “Productivity Conultant & Founder of Sanchar Shakti” Kabeer Goswami."
+    publishedDateTime: 2023-06-08T15:08:00Z
+    webUrl: "https://www.mid-day.com/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
+    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 63
+    images:
+      - url: "https://images.mid-day.com/images/images/2023/jun/Sanchar-Shakti-0806_d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "YpSFw8hZ/eWF5ddQ+Rl9o8YDeShtdPwTUb+/rhPBI7K0dlUiMnEZqn16m2oPI7Lqr6vxKj1jygZ/cTkQlEaygGZ4vadXt+OXQ9wDOCNdMFquSrhEwWHMIduPAueEv2it9dZYUMf9EV82erR+GIBAuVAFcQb8emFI3AWNgJaqSmCxE6gE8I5QDRZAWtnyeG+VKgrwTu0Cim7xeRZuyBybOAQ8xAMBJW/ph97qbUiJA07MeqmkAbIrRIDWZpP97MXNfu/5jCm42K7uOqYck5upHLmHXsbZrEGOXfBVomTeWsBSa9QSMOkZu5X8wAo2wMxXDZ1kksBxWB+jcnVa6LOHPNM24D2T//XWSBrpNKziFxQ=;AAB1xDx33USi+UESYxC9rQ=="
 ---

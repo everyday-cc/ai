@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Gong launches customizable generative AI models to streamline sales workflows"
+    excerpt: "Gong unveiled a suite of proprietary generative AI models designed specifically for enhancing sales productivity."
+    publishedDateTime: 2023-06-08T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/gong-launches-customizable-generative-ai-models-to-streamline-sales-workflows/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
   - title: "Google’s AI-powered search experience is way too slow"
     excerpt: "The worst thing about Google’s new AI-powered search experience is how long you have to wait. Can you think of the last time you waited for a Google Search result? For me, searches are generally instant."
     publishedDateTime: 2023-06-04T12:00:00Z

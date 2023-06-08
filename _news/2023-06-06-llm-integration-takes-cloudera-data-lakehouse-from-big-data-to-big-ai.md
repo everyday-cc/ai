@@ -44,6 +44,15 @@ related:
         width: 624
         height: 326
         isCached: true
+  - title: "A Call For The Ethical And Responsible Use Of AI"
+    excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"
+    publishedDateTime: 2023-06-08T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/a-call-for-the-ethical-and-responsible-use-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
 
 secured: "SbahKWEbK2z5JQkRPsVLub1fswvvvq6IxQiGPjR8siIkUGHRn4ti5luOyyNnW2CbwB21x2WBfEJyQ5MzrNliyGEVyg7iCVt9Ez/ITI1w9zUgCYfXD1LTbnCGj1TzYPYJUnbTr06kLLxAxpJBt79XRmk4pr9lOUtyBeW+PHeIhYyutMcijSI0OMBG+bcWWNaoBU3KHCFmhOQoHECW8i+eGdSz7TwPtqyzYV+W83eBWM0Rrb6cCxiWX/f39KN6P0vkzEsSDbBIAHFlmvp/l8nv0yIRy7cCFE0JEcbqfnh4/Ei4zl86moOpFIGlQkrStgJdaVr+h0NOY+4pd79fUdcGSZqSlTbMPJQV9kXxG8ra2YLqSbZ7OCQzEik0swYALbCV3Doc6XTFQr6YcOPpusi718O6+q89NekCcAWShs0Mn6+9E28s6NGSQ24BgnHSgdkeHw8IKtDIApIFGKgXGqOAoQmR4cQveoOtOJN1Nsa+z/6rAbD7L+m0b6X3u78+Wz1U2ZZdAX0wR1ra7o0Ucr0a3Q==;XsrXT2rTDo8nh1Pz/sPZwA=="
 ---
