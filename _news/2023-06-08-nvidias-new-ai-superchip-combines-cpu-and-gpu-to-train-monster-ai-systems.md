@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/nvidias-new-a
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/amp/"
 type: article
 quality: 118
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 19
-  - title: "This week in AI: Existential threat from AI, Nvidia announces AI supercomputer, UK wants global AI watchdog and more"
-    excerpt: "The DGX GH200 uses Nvidia's NVLink technology to combine 256 GH200 superchips, which each house an ARM-based Grace CPU, and H100 Tensor Core GPU, that allow for performance up to 1 exaflop (equivalent to one quintillion floating point operations per second) with a whopping 144 Terabytes of shared memory."
-    publishedDateTime: 2023-06-04T13:30:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/this-week-in-ai-existential-threat-from-ai-nvidia-announces-ai-supercomputer-uk-wants-global-ai-watchdog-and-more-10740031.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 0
 
 secured: "bIMns3mUnCaqJgBeEXaKGYTN4izhuoaXCXx3Df4Vzs3u1SbfmXEr7oWXrXJfP7Uw3c+4ug8qnP6imRXo2L95vLPFFqe/woaRTGhIjOBp4W8AHajgc8joCJdtl+xfxzejPYsiEUFUZP14McHlt+RCzvRTus4VSwNXhk8qUxW1Bg/zEBmpmleKpcwG0QjjYOATu7l6LaA1hsmNEe+31Gh4Rh4W5++wwFtEl7IEGwlAfwtBKnQ2JTwg/wNmpXhYn6SI4Q9GqIBoa80Hv7wXOeNoL5vAWYdgJHIuXb+SvTOTakBQPnbjSAvWoZz+ghScyB/GCsMCxSDheTk8owxUh+pBMsbZ7R80PuWXvgKjFsaMC/zNN9fal+/luquydV3eDXhm4xtJlDL1JjCDALRGwmqdlM+6eXrUtCkaNcOf6DmpDM5D5bH6hUdVaeVBcYesPEpEKJH+rHL4dsY3boURdi8U2B7w3Kci2W2GP0WiMqtETNKymYbvz/+lSqu7qOphT3GrePew8YSV+bnd35TD8l1bAA==;wHONqGERyQEts5HFzyoRLQ=="
 ---

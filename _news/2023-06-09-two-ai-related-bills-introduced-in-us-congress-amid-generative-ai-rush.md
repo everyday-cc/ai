@@ -68,7 +68,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6482b8837a0f4f82412c5c61/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -294,6 +294,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "eFs9neebnaFZ2L6SHrUdqUjzv9e1Lx35YIhA5d6W7pG5We6meKYNLBiMIg103nr3RMaTJYahRbhGWfk4AbmvUrbaocEbW5LCxub6YKQ+ZyAckGv81tiC8QR12U2bPNR08TVGbXqrb2Nv/Y10rbRcsdPynj4X4kaigsHgD9bHB9zc/8fTSgCNfslUokye+ULfm9XH0ZdmmmjybRW/Fom9y49oEqLjrznVI/34ABpfj4LJY/2jyxCCbGLg1Zenn6JoMwOSkGBVYlvHeJckfhfSaFWNk8G5MvFJ8t87ADBZnDytoe5KRzGkBRav13/2OR3tZIYJld8UGobmwrVojTybxnj+B77HeLwJWoFafAroBr4=;ZOKtdCvMmGdNOFaoRKoktA=="
+secured: "TJMQD0eFo7VDUBRdPcJIdKMgQXsS2f8bVrPF3Jm8LmZ3hz2CbFI65Xn23m8LvmQn0W/Qs0lT6YPukVwBb6qyhOIyDb02VurtNZgg+6WWyrFnpH2dtC3y3pkdpvt76yRx0F1fCUtLnbW9rb2DwPvhLXw9j1S7b5nG1Ih1Dp4H5CeNnv4zJ630AiFhiFAdxlVfxPVIE7GkqGU9TCWtYZiIKi6F12sTr7U9IUVIM2JkPgOLIdAu5uVZ+44VR0x/4yeBf1p4t4iyjPKS5a8cehl61H3ZlR4aSaf2PF4MvstmBVNgeJlFjbAVLlby81yNIKsohk2TJlF5hrikdtnSxfzlGZpTF/asYe5Hxxd74ZoX9+OmZ3zpvzeWkHabTgdQR7bdgoRm1KtFQcsUPsZwMazoGWRT0YXSi2NSOdQvZtyLpz1MRIF3GJXE1wXasfR+zU2x0RKu8GnzAAOfED8nHpmO9UN4xqcnh336xDGyjJbjjcP3Re6OsNTuPYvUWwGKw5KoLAE87VvQl5u1SAd8Nvh+lQ==;NWae5QAJnVpexT2/V/yoYA=="
 ---
 

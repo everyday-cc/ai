@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "With apparently fake photos, DeSantis raises AI ante"
+    excerpt: "In one apparently altered image, former U.S. President Donald Trump is seen hugging his bête noire Dr. Anthony Fauci, who beams in response. In another, Trump is kissing Fauci on the nose."
+    publishedDateTime: 2023-06-09T02:09:00Z
+    webUrl: "https://www.reuters.com/world/us/is-trump-kissing-fauci-with-apparently-fake-photos-desantis-raises-ai-ante-2023-06-08/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/96_i0ZlBzL_ld9oyvgUf5I-qc5c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QEF7VFAMEJLNXN4IBKJL2QDDN4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "yk6NMeJWh/6T7vqarhkv56vs1bT4gbBlq1fS1xqAdVBvOgdvFrsvEkcig+c2fUIuQOlwuepD3eAkB4F4jaD8ePTkse55QBqMdahAHuT7ugyFpSOefsT7VTILJtf150XQp/t1yy9ToIghnSJtI3RLyCp4Rb/gboxojY5kWReA30cbt/byMPfQUZj6mIf7E8izSODLSGTbcfi6tbFdxORF9P9mvFLAkrFhQXqfeO7YDv4PcwGZUNgBpHawdvCb7fWK6f2q4CwwkFXkhqlUIWKil7lwJXbBuyjY1to/0MKKxN7v/FXJDv59x2yr0ybpFsLoTk9VDo/9GjX1aeCkH8Dm+1uYW0vLoW6no3+PJhsxFC9VmtEYssnTu5+uxTxlJS8mA8PnZ2ipR6o2Be0bNwOxc5/+737P8wJ2aPwfV3ZHjI/fLB77us1Ta7VVeN2qHUWpFZ0D0PkG/52yKrnWb1qTs+jGRJx3OFMOXOSLga+kBtHv7IAAVuJoHzaNfRokgKdD2bBB2mBl4uwWdMyzAoT4Wg==;4uTDsSLZGoNMSmyhx1eQ2A=="
 ---

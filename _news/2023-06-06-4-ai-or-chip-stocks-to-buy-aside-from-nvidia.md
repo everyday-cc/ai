@@ -82,15 +82,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 19
-  - title: "This week in AI: Existential threat from AI, Nvidia announces AI supercomputer, UK wants global AI watchdog and more"
-    excerpt: "The DGX GH200 uses Nvidia's NVLink technology to combine 256 GH200 superchips, which each house an ARM-based Grace CPU, and H100 Tensor Core GPU, that allow for performance up to 1 exaflop (equivalent to one quintillion floating point operations per second) with a whopping 144 Terabytes of shared memory."
-    publishedDateTime: 2023-06-04T13:30:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/this-week-in-ai-existential-threat-from-ai-nvidia-announces-ai-supercomputer-uk-wants-global-ai-watchdog-and-more-10740031.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 0
 
 secured: "gQywQOtydCGkMngD69qfV0lJNLFXsSAlUcVUtnHSDtj0u5l+Oo2cjJD9Kx5ZCmBoeEHElNoMflx14H99HNcXg30FCJmayFoROF0NVnvQ10Deujpp0MKjal6/ETtrvG3V9Zm12vB8r4A74rVnnb/Cp6K7Hh4Sx6owZ+W7XySzTauwhMKJxINPOeIsnBaAiGmgl21++DrhjwxZHYAez75rnriu4dmf4sNXDXcYuaCnDsj/MA2k722XsBz/4c4RFo/rmuP11Dp7XxE755ipmITcvlpbybxRwQ3B/OdJy7hAlk8KE8YVlkEcJhDIJHUxAGyXRmZ4XRazMZ5gZFVILEjtvzGy+3f2EZEwBUEaEauvZ+E=;9cncULiNMTO3ZpYgsQNBpA=="
 ---

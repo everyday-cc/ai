@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6482b8837a0f4f82412c5c61/0x0.jpg?format=jpg&width=1200"
@@ -298,6 +299,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "p08XlKbP/k6S8QFMLL2v/w5L/jol6MutwpxR+MF3UMFqIefSKQMmtgBNhJBtc5glM/p8DRXeZlQLgpBG6gUtKbQYJpomOhDIfh69+RVAiFFn9RKMixbchxep7zI1nPd2gvOJQ8DIkCFRlZspn0blxaixDB4hcYfnHqS7qWsNKHKNlVvPiunYi8KHWJIEdZunMLDOYzX+TT64tzYaRwIWL5ywownjUQfZwblQ7NUIYXzX3Vr/DYsuzjx+ca800s+oTXgPjwTfPeAnWQ0EBtk3yWpjHg8IswEpLnX0vl0v5sax0QdyezDLO4as82yaerZvRWT9YZgBpU9fU7Wd1ldulBWekUlBuygWzMVwTU5d5bo=;kiGfy8J4jkrzUdziJU8YIg=="
+secured: "nNp5bfXZq203b+HZPtt1C6yir0+gxJkAX5tesvIrfdvz48kaRnq5Ad4oTJB2Yk4I2hwG/jOsfNmNAbxr7UqooBL2Tmsgoh6LlPrGuI3m5BawO2qzvnmELitf9lbOkEwDVc6b3puJqPxGUU39CXRXVnZMUUvGANSbQ6GMKH5/S5J9QxTCYeHFlGYfweTue9ESJ4so5hrpiUbCPcqaNqHPEjtZkbnIS/KbC0YxDpuTUhIzl7q+gtjbTsWwLWFzplyzoAcXpOpq3ZZFbijuf4QaVTiZmlH4bFUdxqVkEeQGUxtCb0QeU+wWRw5Gw2TDjrZ24/gvD1Jgvg3eQ8GLUJGtTi+l6ZzIwyF5ebpJiiCTcCwp8bItSSV9Cqs6fnc7CGVqR+cIiweXzHuiITaaX/U56deNTCkU8NZzsp+UyGpASPL506MJ/8sbU0H+ekbMQ/+UhQgomPiuy89evNxld73149yo1z7mNhQFTTB78GEbmdrX+CD3ynebwhfAunaNub5QFkdgaIc35NRe0N0QeF/hrg==;y/XqxCcqN7yjkgYEMjyCRA=="
 ---
 

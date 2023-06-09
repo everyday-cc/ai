@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/06/desantis-ad-uses-fake-ai
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/06/desantis-ad-uses-fake-ai-images-of-trump-hugging-and-kissing-fauci-experts-say/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://i.insider.com/6481e80b9ea86100194961dc?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "With apparently fake photos, DeSantis raises AI ante"
+    excerpt: "In one apparently altered image, former U.S. President Donald Trump is seen hugging his bête noire Dr. Anthony Fauci, who beams in response. In another, Trump is kissing Fauci on the nose."
+    publishedDateTime: 2023-06-09T02:09:00Z
+    webUrl: "https://www.reuters.com/world/us/is-trump-kissing-fauci-with-apparently-fake-photos-desantis-raises-ai-ante-2023-06-08/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/96_i0ZlBzL_ld9oyvgUf5I-qc5c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QEF7VFAMEJLNXN4IBKJL2QDDN4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "DeSantis Pushes Video With Fake AI Photos Showing Trump Hugging Fauci"
     excerpt: "The DeSantis presidential campaign published a new video to social media this week criticizing Donald Trump for refusing to fire Anthony Fauci. But the images are fake."
