@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Automation Anywhere, Inc.: Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent automation services SINGAPORE, June 6, 2023 /PRNewswire/ -- Automation Anywhere ..."
-publishedDateTime: 2023-06-06T10:37:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59269919-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59269919-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
+excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent automation services LONDON, June 6, 2023 /PRNewswire/ -- Automation Anywhere ..."
+publishedDateTime: 2023-06-06T12:54:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59270155-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59270155-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
 type: article
 quality: 0
 heat: -1
@@ -61,6 +61,6 @@ related:
       domain: oneesports.gg
     quality: 11
 
-secured: "S0XCZOw9PinZRwcS5r0OE/gRGRl5kbhvJAGaJvyOoHWKfFQptcixv4eobOnAtkI2iJ3VGCkn41P3fE8JO6NJ7+ydI6VVyUHstr2cC+RSfqCa2pDbPxl1SN8kom+v+Z7Ca3hjqtNNY1X6fGKHxXgqbhq4FfJ0PbkUZor5BDR4/rry7TuB7/UrbJgODtU+XtBIHAEbrKZyzGuINWB+IIOi6WpNd0O+UDPW1ribho4YhTFj/wNTQqwJwXqI5EzKkgwP2mflROFIg5qIFogQBwvr9A7Vj6BZaWU7qF9N/eFdJzEXpDRXBrBSvIvHAwAjzNW+G8lrywlRcdwZ5nSjGJPOxjD6Z/ujOMVQkP9/y2wNVNU=;etlvo6SV+xStEj9dxDwO/A=="
+secured: "RaH1eTmtfpiV++dQV4RdKv2XZ734ZjGIbX27JDaaC6i+duTkZj2GHYKLavnv73aEOxhreqwgjgDGlRwH6UhjSpah2KAJHjzYaiUTrgCyCxEueRQuyoVjALBtIqVVWrCtIW0YJWBTkMajE2OAVjlT7q4cmIKgWhJ4VT6Eg5TI/FJ7eM58Yl0r1x5qqCitOmhX6dPY7nCOIYLvKLYCaMVI5kNgCqmc1JJxwESOPpp8N4ucgb79nwv5AlWUPPWfbbuDZbOJdN7zCI1XvEkDgVNVQMU8DhC8SQjIW2qYav03d1SwcMm6zMssHH/34emX+Zd+3st6s1NO2Xo+eLvhB1qYZgxwO4SbtyH/dMmn3TuUw6s=;5EpaT/rEe1EPPhFZYzczDQ=="
 ---
 

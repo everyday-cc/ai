@@ -39,6 +39,20 @@ related:
         width: 768
         height: 513
         isCached: true
+  - title: "Meta huddle: Zuckerberg unveils AI tools and snubs Apple headset"
+    excerpt: "Employees got a sneak peek into Meta’s generative AI plans, upcoming Twitter rival, and Zuckerberg’s thoughts on the Apple Vision Pro."
+    publishedDateTime: 2023-06-09T07:58:00Z
+    webUrl: "https://www.siliconrepublic.com/business/meta-generative-ai-twitter-competitor-mark-zuckerberg-apple-vision-pro"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/06/a-4.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Zuckerberg says Meta building generative AI into all its products, recommits to ‘open science’"
     excerpt: "Meta CEO Mark Zuckerberg said Meta is building generative AI into all of its products and reaffirmed the company's commitment to an \"open science-based approach\" to AI research."
     publishedDateTime: 2023-06-08T19:53:00Z

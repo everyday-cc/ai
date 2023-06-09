@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enable
 ampWebUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
 type: article
-quality: 119
-heat: 309
+quality: 121
+heat: 311
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.idgesg.net/images/article/2023/05/shutterstock_716332027-100940548-large.jpg?auto=webp&quality=85,70"
@@ -278,6 +279,6 @@ related:
       domain: techreport.com
     quality: 11
 
-secured: "WJ8J4fS5BtIgQLFzhTEF6DB8CFhHZLJHZC2zZq+GEQSb1M3zhHmAHZ6OjJHS0+DIGybxczfmHiDofMP5/4Wo6KlAXyUncxDoqImjiVWHrzf/eDM/4tVXu71VV/YbAoXIcCkJ+gvh6612C+reBIBbu8jhhPnW36r9bMMGmIV790LGlL6CubU573xySozq4CpVc/efvFfdcQC4MbvxT8nBN0ppg8bReSfSzZy5vAAd94YjS9zaMi539lbskJ0ngICN6Xm7ygyJTEc6unWdf/H1Ge+C0Om/dRFBS6axY9biDYEP8CGqCGzyooqoTlu0POw5igLyrRkbhFbQXpIxrN1atzcQJF9XCOgsc0ymGuBilsw=;/siQ+tMOZrtBd0Fku2p1MQ=="
+secured: "pc0fkb7jdmF5+WimDxbiGC/rnWmy1sFwG5t8IZJLzAenIpyw8jlvDRxLpV1/yDtLJvr74qYD4MAGgSajhZqUiXYtOU1167O2eF6nJ0M6ZXjcMCt82nzqgyC4PnjF6FMOCHANJoHwUsx3bqhW9aeLILgUcG6In9jajuOl95Eyxc5ijkMa9ImrHQQIbNx5SDsqNtsUIcTW3mqRjNVRgpf4kudc36rCkO2T/9UUoggZYlvnJwkXCMM8gCORnNm1Z6YHSlsZET0dh/FVrbntfqV4R0R2MwOvmZxDvhQUxqkf6fEteTwPrJcy96Jk7YcfELDLEllOpGb43MU4c6eUWl0vWBzlTZA7S8TjzaDMM67wEYeYgrOo9kktUmuJhfyE/nON8cG1QoiEOC33b+HHdsbtDi3MfDMHdD8+NQdPfgFGcItXwvt10Xapt0l4RmorpAY7+7LZdwY6uM5Ia0GB1OuGSlZvSzyOdA0GH07s6iR68UlhWa3NZfqkQjqlFDdyw6cnoojN5FUVcB2JKS/P+EFbWA==;/CSz/+eo9TkeZ6EqJEFvjw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-technology-americans-lone
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp"
 type: article
 quality: 89
-heat: 129
+heat: 130
 published: true
 
 provider:

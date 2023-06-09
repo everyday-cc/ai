@@ -59,6 +59,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Inside Google DeepMind’s approach to AI safety"
+    excerpt: "Lila Ibrahim, COO of Google DeepMind, will speak at TNW Conference on June 16. Ahead of the talk, she shared the lab's approach to AI safety."
+    publishedDateTime: 2023-06-09T09:10:00Z
+    webUrl: "https://thenextweb.com/news/inside-google-deepmind-ai-safety-strategy-lila-ibrahim"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-4.jpg&signature=95de9df374e2fef286cd748ac5d07e5c"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "DeepMind made its AI name in games. Now it’s playing with the foundations of computing"
     excerpt: "DeepMind wasn't only playing chess and Go for fun. The lab's new AlphaDev system applies the lessons from games to fundamental algorithms."
     publishedDateTime: 2023-06-07T17:13:00Z

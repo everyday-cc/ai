@@ -7,7 +7,7 @@ originalUrl: "https://www.scmagazine.com/brief/cloud-security/blink-ops-releases
 webUrl: "https://www.scmagazine.com/brief/cloud-security/blink-ops-releases-ai-based-security-tool-blink-copilot"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 750
     height: 450
     isCached: true
-
-related:
-  - title: "Academic warns against using AI as therapy tool, points to security risks"
-    excerpt: "The artificial intelligence (AI) technology is not mature enough to allow the use of ChatGPT in psychotherapy or counseling, he said, urging people with mental health issues to seek help from a psychiatrist or therapist. “Some people who are going ..."
-    publishedDateTime: 2023-06-04T16:07:00Z
-    webUrl: "https://www.taipeitimes.com/News/taiwan/archives/2023/06/05/2003801002"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 70
-    images:
-      - url: "https://www.taipeitimes.com/images/2023/06/05/p03-230605-327.jpg"
-        width: 800
-        height: 527
-        isCached: true
 
 secured: "+4rEP8vxN1qXU4P0HrCEXLeniW7CoWgP/Ogo3r/acQKHBaFPQIZat8MpUPQcwhgZ27GED551a5sLNDIBOmcWY8WSLhLPSK5fOUcoyLFeuzuI7+dkk914uTjCSUNRCVs/whCZexmS74b/zjyDCviog3oBkzIKx1ZzgLcHhCebi2OaV/0QDEyrj4IsmW2dZcu504gIklU+XXzYVwKHPqbsJ/x6G1B+cdXcf+wW2q7hEmyTWWm6C1n/wdmbGrN1HAKZscSQgiDQxlXK4fERIZG9XykKq5Nrm8eK1yd5R4RGWizVa2AHI3AVimRwxIh9VXwIl8vFOb68f97ID37/IeeZ2OMTluLtMqTC99OI75Kabes=;LjVUyO1255ut363oeZ3QAw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/sanfrancisco/video/calls-in-senate-for-tsa
 webUrl: "https://www.cbsnews.com/sanfrancisco/video/calls-in-senate-for-tsa-to-halt-facial-recognition-program/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "TSA expands testing of facial recognition technology as some in Congress voice concerns"
+    excerpt: "The agency is expanding its testing phase of facial recognition technology to make sure you match your ID from 16 to 28 airports nationwide. “We have automated what we have been doing manually as a snapshot in time to make sure you who you say you,"
+    publishedDateTime: 2023-06-04T23:39:00Z
+    webUrl: "https://www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/"
+    ampWebUrl: "https://www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/?outputType=amp"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 51
+    images:
+      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/C0cSv-lZx4l3-D9MG9QEqpr8_O8=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/06-04-2023/t_281f04564334492bb78a1e8b52c877f0_name_WNB2ALL_TSA_Tech_Concerns_PKG.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Facial recognition tech lets TSA to verify your ID without an agent staring at you"
     excerpt: "BALTIMORE — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through — all without having to hand over their ..."
     publishedDateTime: 2023-06-05T20:47:00Z

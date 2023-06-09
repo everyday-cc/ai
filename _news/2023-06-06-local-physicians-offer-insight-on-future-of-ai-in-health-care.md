@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Injects AI Into Gmail on Mobile"
+    excerpt: "Google is attempting to improve search for Gmail users by introducing artificial intelligence to the experience. The mobile apps for both Google Workspace and personal Google accounts are being updated to add machine learning models."
+    publishedDateTime: 2023-06-05T11:08:00Z
+    webUrl: "https://www.pcmag.com/news/google-injects-ai-into-gmail-on-mobile"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/058ur0Ph0qXNPgEunOkT8LO-1.fit_lim.size_1200x630.v1685962920.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Google expands intelligent cloud into healthcare"
     excerpt: "Helping medical professionals find patent informationGoogle's cloud business is expanding its use of new artificial intelligence technologies in health care. It allows medical professionals at Mayo Clinic to find patient information using tools powering the latest chatbots quickly."
     publishedDateTime: 2023-06-08T09:50:00Z

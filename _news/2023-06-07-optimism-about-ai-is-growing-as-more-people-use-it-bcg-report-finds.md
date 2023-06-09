@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/optimism-about-ai-is-growing-as-more-pe
 webUrl: "https://venturebeat.com/ai/optimism-about-ai-is-growing-as-more-people-use-it-bcg-report-finds/"
 type: article
 quality: 69
-heat: 74
-published: true
+heat: 69
+published: false
 
 provider:
   name: VentureBeat

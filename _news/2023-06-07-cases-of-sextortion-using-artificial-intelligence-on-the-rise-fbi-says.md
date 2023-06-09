@@ -40,6 +40,20 @@ related:
         width: 800
         height: 574
         isCached: true
+  - title: "AI-generated content creation hub secures $4.2 million in seed funding"
+    excerpt: "A recent push to utilize artificial intelligence for content creation has hit an inflection point for a St. Petersburg startup. One big example: It recently secured $4.2 million in an investment seed round."
+    publishedDateTime: 2023-06-09T09:00:00Z
+    webUrl: "https://www.businessobserverfl.com/news/2023/jun/09/ai-generated-content-creation-hub-seed-funding/"
+    type: article
+    provider:
+      name: Business Observer
+      domain: businessobserverfl.com
+    quality: 37
+    images:
+      - url: "https://media.yourobserver.com/img/photos/2023/06/08/_MG_3321_r850x580.png?50e13880ccc54d977011a5484f156b28f4611466"
+        width: 850
+        height: 580
+        isCached: true
 
 secured: "jjImqOJGzNoagpnJWDSb8EZ23XZ7TdZIZEbiusjb9/XBSKUZ8elQKLmWAk4glepGrit0eKGNHXVMMxVDJu04SDsqE2TFvDbop6ob4N6QtCE8UsunrcXzJnTaHjDKo+3d5hCBx1GgNSYks/zfKJzCu1BYg8sNz+lPF51PW6IVklT5oCeFNxTu1YGa9HVwNSBkoh3esVM6r7Q9PPfJZCgH+fHb1cKDDRIkvoNt0xIdZE+LnZ0eHBC1bgHv80XW7QvJsaVjzhb/Ly74rQcL0TdTEX5WibNeA8+5SG174KkTB3oXaGzSGUzwhlZiPJrmoFvoxSl+Az1tNwc2QmCuqcts8iwQSrQM6Bp5KK+Ycn/0EwaoCNpYXymRiq5ho8y3tNiwLykYWRZvUhVhC6Y6xfmQPILNZxHcVoZk+FQW5oRVcr2mZGODFwGQhJF6Wj7Dsto7JVzHInMMaVoonte9A4E3fzP/yKZLi92yOvIF+FXZ8ta639xTujZ1zlMVeq5WzfefXMMrHp1hLGrtoKEw1ioczQ==;hNfaXT/D2fX/T42oOxVGZA=="
 ---

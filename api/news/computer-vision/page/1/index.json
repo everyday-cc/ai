@@ -246,6 +246,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-05-tsa-expands-testing-of-facial-recognition-technology-as-some-in-congress-voice-concerns.md",
+      "title": "TSA expands testing of facial recognition technology as some in Congress voice concerns",
+      "excerpt": "The agency is expanding its testing phase of facial recognition technology to make sure you match your ID from 16 to 28 airports nationwide. “We have automated what we have been doing manually as a snapshot in time to make sure you who you say you,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/",
+      "originalUrl": "https://www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/C0cSv-lZx4l3-D9MG9QEqpr8_O8=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/06-04-2023/t_281f04564334492bb78a1e8b52c877f0_name_WNB2ALL_TSA_Tech_Concerns_PKG.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/?outputType=amp",
+      "publishedDateTime": "2023-06-04T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSB-TV",
+        "domain": "wsbtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-plan-for-facial-recognition-tech-in-schools-riles-rights-groups.md",
       "title": "Plan for facial recognition tech in schools riles rights groups",
       "excerpt": "Teachers and students of the Telangana’s government schools will likely have to mark their attendance on an app that uses facial recognition technology (FRT), even as groups emphasising the right to privacy continue to raise concerns about the use of ...",
@@ -1275,58 +1318,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-2023-face-recognition-systems-market-global-industry-analysis-till-2030.md",
-      "title": "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030",
-      "excerpt": "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T23:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

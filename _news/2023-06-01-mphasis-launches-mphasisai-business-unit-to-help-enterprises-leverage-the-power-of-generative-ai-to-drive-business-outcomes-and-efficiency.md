@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Mphasis launches 'Mphasis.ai' business unit to help enterprises leverage the power of Generative AI to drive business outcomes and efficiency"
-excerpt: "Platform to integrate capabilities of Next Labs, Sparkle Innovation Ecosystem, and Mphasis' Hyperscaler network. NEW YORK, June 1, 2023 /PRNewswire/ -- Mphasis, (BSE: 526299; NSE: MPHASIS), an Informa"
-publishedDateTime: 2023-06-01T14:41:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32671902/mphasis-launches-mphasis-ai-business-unit-to-help-enterprises-leverage-the-power-of-generative-ai-"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/n32671902/mphasis-launches-mphasis-ai-business-unit-to-help-enterprises-leverage-the-power-of-generative-ai-"
-ampWebUrl: "https://www.benzinga.com/amp/content/32671902"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32671902"
+excerpt: "Mphasis, (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today launched 'Mphasis.ai', a first-of-its-kind business unit, focused on transforming organizations globally by unlocking the potential of Artificial Intelligence (AI) to maximize business outcomes."
+publishedDateTime: 2023-06-01T16:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mphasis-launches-mphasisai-business-unit-help-enterprises-leverage-/2023/06/01/9825024.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mphasis-launches-mphasisai-business-unit-help-enterprises-leverage-/2023/06/01/9825024.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://mma.prnewswire.com/media/876509/Mphasis_Logo.jpg"
+    width: 400
+    height: 215
     isCached: true
 
-secured: "ovrX6fnsM9hFg4WA1HIKhfObiXY6td+2+SUpCkd2hk1bjN/fdtxmEMu9f2j3CQucokVQOG4PYTl047+7fUorZeE5LNZ992DF4qF3lIG2Ydo8ipWRJDl2s24ckxC6M0p38gIC8vEu6ZvGV5CYAlfzcBCSRQ2tNctPHe1dJ6o2/KAgURXsVflcXkVkGBfEyZR4NpDH937zTQOE6T8qwci5xoqWX4M1EAJKiJ+fzG8u6jrsQSblH04FR5ildJQmnibsQgQQKAdFAPn+vqZ0q/k/E/oUaHXlJ+0KkXgmLr9uWldlkyoPb6j0uBX2dVRpk5+r0bywPeVrzMfNWhwUUANEJq/YZthP7p1kIRlZSdAfhXg=;/mdEpbuklzQ2sOoaE+6qFA=="
+secured: "VwL0KZ6XinGSRvxgsNT4IfGCl2RGceq7tNyGeIWQ8GIm875mRhl05CS/TE/skIcULHRR5iVqHxrPVeazpW6utKNbLXvqDzNgSQM8LXI3Km1X23X3nB2KhRs1YmISbjHgovx5pwhMdb3m+P3O5PZ/bBY+ym7rwHRtv8WiZoqwlLTNc8DiXaN1MxwmlTt6d5PUz+MO0H3+vyuM37Vrweg0CgoNBnFMMzDmge3PPSXwJl+/phKYNKw7FvYXfMHExl6B1s8dV6vkHoPuUwRDeVMRolN9T/PIvN2oUlLbuCQqjQid/sMMbzwwQYzrb5czITR2yJPMPjVznbo8Yb+o1fZ/Y1xbfvxdbqUynxvraqnj+9k=;uEWFbcuo7jLTme9Qhxm1MA=="
 ---
 

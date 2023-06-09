@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/fbi-warns-of-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-generated content creation hub secures $4.2 million in seed funding"
+    excerpt: "A recent push to utilize artificial intelligence for content creation has hit an inflection point for a St. Petersburg startup. One big example: It recently secured $4.2 million in an investment seed round."
+    publishedDateTime: 2023-06-09T09:00:00Z
+    webUrl: "https://www.businessobserverfl.com/news/2023/jun/09/ai-generated-content-creation-hub-seed-funding/"
+    type: article
+    provider:
+      name: Business Observer
+      domain: businessobserverfl.com
+    quality: 37
+    images:
+      - url: "https://media.yourobserver.com/img/photos/2023/06/08/_MG_3321_r850x580.png?50e13880ccc54d977011a5484f156b28f4611466"
+        width: 850
+        height: 580
+        isCached: true
   - title: "Cases of ‘sextortion’ using artificial intelligence on the rise, FBI says"
     excerpt: "As technology continues to advance, suicides among victims of sextortion are also said to be on the rise. That’s according to federal agents who say criminals are finding new, sophisticated ways to target innocent victims. Officials are also emphasizing ways to fight back."
     publishedDateTime: 2023-06-07T02:54:00Z

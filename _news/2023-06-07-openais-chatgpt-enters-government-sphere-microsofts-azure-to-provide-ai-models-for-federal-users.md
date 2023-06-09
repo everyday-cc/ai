@@ -31,7 +31,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 119
+    quality: 121
     images:
       - url: "https://images.idgesg.net/images/article/2023/05/shutterstock_716332027-100940548-large.jpg?auto=webp&quality=85,70"
         width: 1200

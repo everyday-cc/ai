@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AntChain, Intel Create New Privacy-Preserving Computing Platform for AI Training"
-    excerpt: "AntChain has teamed up with Intel for a Massive Data Privacy-Preserving Computing Platform (MAPPIC) for AI machine learning."
-    publishedDateTime: 2023-06-06T13:52:00Z
-    webUrl: "https://www.securityweek.com/antchain-intel-create-new-privacy-preserving-computing-platform-for-ai-training/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 14
   - title: "AntChain Launches New Privacy-Preserving Computing Platform, Providing Data Privacy Protection Solution for AI Machine Learning"
     excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC), a new privacy-preserving computing (PPC) platform that brings a data privacy protection solution for large-scale AI machine learning."
     publishedDateTime: 2023-06-05T11:39:00Z

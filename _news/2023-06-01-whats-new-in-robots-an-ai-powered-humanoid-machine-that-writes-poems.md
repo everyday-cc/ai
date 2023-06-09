@@ -1,18 +1,15 @@
 ---
 category: news
 title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
-excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
+excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
 publishedDateTime: 2023-06-01T08:45:00Z
-originalUrl: "https://www.nwaonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
-webUrl: "https://www.nwaonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
+originalUrl: "https://www.arkansasonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
+webUrl: "https://www.arkansasonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - AI in Robotics
@@ -24,40 +21,6 @@ images:
     height: 399
     isCached: true
 
-related:
-  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
-    publishedDateTime: 2023-06-02T12:59:00Z
-    webUrl: "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-    ampWebUrl: "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-    type: article
-    provider:
-      name: abc13
-      domain: abc13.com
-    quality: 74
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
-    publishedDateTime: 2023-06-02T17:59:00Z
-    webUrl: "https://abc7chicago.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-    ampWebUrl: "https://abc7chicago.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 74
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
-secured: "pHoulBKti5jsWtySQazUNFwoIdPNZ4rWHbgfR4RNhE6bJ3hFSBQiUjwCClnAMlhhf+XCv3yC0TeimnzRescLOCf8YtJ16uAWDAakVTGksdOQ6RRXbqYMfG8eGzLvmEIUMGgfAi3qvuVWCEFu3sn8ViszmlzwB39n6I1jCnFl3TjcHK7UwEEK5LP9RSJLozjHROhimLY7cA5tUIYCOP7SRVMOOCzXXH3AB0Y3h0QUu88JNNgNVPv1KDFFQHJZc5891BozXuOfu8zO1PbYBnl4VFTerd7dNHHb85DxOVejyU0MZH+zBlvKxobZOHSA7sIP46Qdcki1OMgyAooYJEKLZE6VAOXbmRm85U00BrbgAq0=;H+ArfeGqMb48dgK3xor0fQ=="
+secured: "1EsN9VDtfs+PAEeYZk0xJsb4j1Hrc0jGwaXScU24bWGRlD02iauVw8WQe6gVNhphpqQjDKwkjX49fP4DNaZgYMNpf6keDqbpuCcd4daefmHQvmdyzej2SOeILuo/l3NJORJT3xl4GG76+ApWXe5rs9MrG4qQiI4/vCTjqS+CAW0QdyHyY2wa1+9xX0ULLgxA7lIERFhnovgwWmiLsKF0y9bzwjM/UMqDfL4fw82vPyWRGY78u7as5p7ZaFt/A2VGP/NeTasBRx4CDVMLskb41KabBad4J6O1LNrpF19t/SMUWKzukUAqJOeQx0a9c6nE8HWzsbc98Uzuk5HIXu1TIjYOlNEmpv78hW5bvVDCjmg=;PPVC4353Sgh32YPlet+V4g=="
 ---
 

@@ -73,6 +73,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Inside Google DeepMind’s approach to AI safety"
+    excerpt: "Lila Ibrahim, COO of Google DeepMind, will speak at TNW Conference on June 16. Ahead of the talk, she shared the lab's approach to AI safety."
+    publishedDateTime: 2023-06-09T09:10:00Z
+    webUrl: "https://thenextweb.com/news/inside-google-deepmind-ai-safety-strategy-lila-ibrahim"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-4.jpg&signature=95de9df374e2fef286cd748ac5d07e5c"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google DeepMind’s game-playing AI just found another way to make code faster"
     excerpt: "AlphaDev is built on top of AlphaZero, the reinforcement-learning model that DeepMind trained to master games such as Go and chess. DeepMind’s breakthrough was to treat the problem of finding a faster algorithm as a game and then get its AI to win it—the same method it used to speed up calculations in last year’s research."
     publishedDateTime: 2023-06-07T15:27:00Z

@@ -631,6 +631,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-01-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What’s new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arkansasonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/",
+      "originalUrl": "https://www.arkansasonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204479203_204479203-4497212ae77643a5a468fcbbb895bc0c_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
+          "width": 600,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arkansas Democrat-Gazette",
+        "domain": "arkansasonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-artificial-intelligence-series-1-of-5-past-present-and-future.md",
       "title": "Artificial Intelligence Series 1 Of 5: Past, Present, And Future",
       "excerpt": "Human integration with technology has always been intertwined. From fire to AI. However, the speed of technology development is exponentially changing.",
@@ -888,17 +931,17 @@
     {
       "path": "_news/2023-05-31-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
       "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
+      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ...",
       "sourceUrl": null,
-      "webUrl": "https://tulsaworld.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_4a29eddd-b50b-5b16-92d1-fd12dfd2e97e.html",
-      "originalUrl": "https://tulsaworld.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_4a29eddd-b50b-5b16-92d1-fd12dfd2e97e.html",
+      "webUrl": "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html",
+      "originalUrl": "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/a2/4a29eddd-b50b-5b16-92d1-fd12dfd2e97e/647738202e94e.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/90/f904fd40-d989-5782-8c5f-7669aadb68b8/6477381e4afce.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize",
           "width": 1200,
           "height": 631,
           "title": null,
@@ -910,11 +953,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T06:40:00-07:00",
+      "publishedDateTime": "2023-05-31T05:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tulsa World",
-        "domain": "tulsaworld.com",
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1393,50 +1436,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-open-ai-backed-start-up-deploys-robot-as-security-guard.md",
-      "title": "Open AI-backed start-up deploys robot as security guard",
-      "excerpt": "The Norway-based robotic start-up deployed the AI-enabled robot as patrolling guard at two manufacturing sites, one in the USA and the other in Europe",
-      "sourceUrl": null,
-      "webUrl": "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard",
-      "originalUrl": "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.telanganatoday.com/wp-content/uploads/2023/05/robot-1.jpg",
-          "width": 1280,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telangana Today",
-        "domain": "telanganatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

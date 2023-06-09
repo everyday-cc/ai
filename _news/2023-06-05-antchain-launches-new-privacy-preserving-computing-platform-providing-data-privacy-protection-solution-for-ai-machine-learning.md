@@ -35,15 +35,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "AntChain, Intel Create New Privacy-Preserving Computing Platform for AI Training"
-    excerpt: "AntChain has teamed up with Intel for a Massive Data Privacy-Preserving Computing Platform (MAPPIC) for AI machine learning."
-    publishedDateTime: 2023-06-06T13:52:00Z
-    webUrl: "https://www.securityweek.com/antchain-intel-create-new-privacy-preserving-computing-platform-for-ai-training/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 14
   - title: "dnata Introduces Ground-Breaking Cooking Robot at World Travel Catering and Onboard Services Expo (WTCE)"
     excerpt: "AI-powered robot capable of handling cooking operations in commercial and residential kitchens. Hamburg, Germany, June 7, 2023 – dnata, a leading global air and travel services provider, announced an exciting addition to their presence at the World Travel Catering and Onboard Services Expo (WTCE)."
     publishedDateTime: 2023-06-07T13:28:00Z

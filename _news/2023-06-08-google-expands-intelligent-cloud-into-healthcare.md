@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Injects AI Into Gmail on Mobile"
+    excerpt: "Google is attempting to improve search for Gmail users by introducing artificial intelligence to the experience. The mobile apps for both Google Workspace and personal Google accounts are being updated to add machine learning models."
+    publishedDateTime: 2023-06-05T11:08:00Z
+    webUrl: "https://www.pcmag.com/news/google-injects-ai-into-gmail-on-mobile"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/058ur0Ph0qXNPgEunOkT8LO-1.fit_lim.size_1200x630.v1685962920.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Healthcare and generative AI: What are the emerging use cases?"
     excerpt: "Microsoft announces new partnerships with Nuance and Epic, integrating generative AI-powered tools to enable HCPs to document patient records and draft messages. – Google releases Med-Palm-2, a generative AI trained to answer medical questions,"
     publishedDateTime: 2023-06-06T13:27:00Z
