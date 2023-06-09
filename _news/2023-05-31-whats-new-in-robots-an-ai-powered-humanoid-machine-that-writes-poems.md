@@ -2,25 +2,19 @@
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
 excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
-publishedDateTime: 2023-05-30T17:34:00Z
-originalUrl: "https://www.chron.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php"
-webUrl: "https://www.chron.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php"
+publishedDateTime: 2023-05-30T17:39:00Z
+originalUrl: "https://www.seattlepi.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php"
+webUrl: "https://www.seattlepi.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php"
 type: article
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://s.hdnux.com/photos/01/33/06/50/23882290/3/rawImage.jpg"
-    width: 2048
-    height: 1365
-    isCached: true
-
-secured: "FfBwDSCfy8EIM6EDRkBziZAtrx1VUafMcwGtt0idq2GStEkYC4EXSpPZpT4ErR+6ZLYkvBLBXf4QzqDxLEhWVjb67du/gLT3UFD4myku+raaNXza9bfcpIYdZqxe+9Fr+Kw0nImWQ3pkd/zXJztr7Q+TeJt/LIKZ1Yy9bNVp2DaOGL1MTwSZvNUz/zjohaXeS/v31JM4tZAdiNgg5A8yfucMQ8wcNBwgynZrG6buPJl2e6n0mBhXj7eTDFknJ83OIaXkYMT08m4r2vVDJ/eFAFhUzxopQe3tYnJb5OwPIFksLovQH3nRFLIfCx4Gyst350MvwP4rg7pc29BvLAJcZ/gtCK01LhT4ax2zKl83wy4=;oie6L7XxDzJ/rB2viKOxqA=="
+secured: "30br1N0Rjy7QSUOG872NOD2UzKcprm7ljNOgH9DUS0+ulQWDiGc51U/12KFwJZLvUeYQ+pnaM2TiQmKCn3H2jRaUYyUz28ACY9o2AqXEpl8c/55r7CSpyy5CMcbfamKm17qxX0f5UJQlw7gv0OQ6AobPuPwgaNdW7TnZRMRCqQKqCI6/+2CDE7LW9vYR2WUMgcCzFgkiV4lCAacQCmBZvy1GFeNe9p4ZbHrGYKhlO88F3eY7rqaOl6fPb5syQNaHD0rUhfqjOmOBKgaRvTog84fJN4w2CCh9UUwI9uV7I9FV9tP9lK83Viy7hkEKUUQVMyIWnbq+m8ylBFIGdDA9CUAtB+SedviwGVG3N6e8H4g=;bKubrcr+kHphD5unsIr/YQ=="
 ---
 

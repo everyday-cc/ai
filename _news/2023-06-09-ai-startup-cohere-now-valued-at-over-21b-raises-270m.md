@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-ov
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "AI startup Cohere raises $270 mln in Nvidia-backed funding round"
-    excerpt: "Cohere, an AI foundation model company that competes with Microsoft-backed OpenAI, said on Thursday it had raised $270 million in a funding round backed by Nvidia , Oracle and Salesforce Ventures, among others."
-    publishedDateTime: 2023-06-08T14:41:00Z
-    webUrl: "https://www.reuters.com/technology/ai-startup-cohere-raises-270-mln-nvidia-backed-funding-round-2023-06-08/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/UlFS-HCyPyOhqvGErwKxsmm53ZA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CMOR6ZPOFRK25FN5J26IFXMIVA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI-Enhanced Business Services Startup Instabase Raises At $2B Valuation"
     excerpt: "Business services startup Instabase doubled its previous valuation to $2 billion after locking up a $45 million raise."
     publishedDateTime: 2023-06-06T17:06:00Z
@@ -81,15 +67,6 @@ related:
       name: news.crunchbase
       domain: crunchbase.com
     quality: 19
-  - title: "Nvidia and Oracle back $270M funding round for generative AI startup Cohere"
-    excerpt: "Generative artificial intelligence startup Cohere Inc. today announced that it has raised $270 million in funding from a group of prominent tech investors. The investment, a Series C round, included the participation of Nvidia Corp."
-    publishedDateTime: 2023-06-08T19:33:00Z
-    webUrl: "https://siliconangle.com/2023/06/08/nvidia-oracle-back-270m-funding-round-generative-ai-startup-cohere/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 15
 
 secured: "Hg35LMo6c3vHErKbUbf09h7H8gH8u7mYeih+4YHphiXPs9OUGOi4x1WKANqnG7ucZwXIpbPcogOfW7OgJTvGn12j49fF9s3ZBNYChZAPCmfxMH99+fGSbeTO2G/s9ofHrPSY9C0KwultEcuSNdOYFlcPLGq0VhrA7OsJcTFpQGDeact9C/R5AyPG39O9SLNexXRHWtyMCQ+yO/hv0KSVbIj0BQD/A/6S8XTz0U01xd5aOUYJgtdwnGKR8tETWNwoNcl2qaJwc7ogUi2d4MtYwtpfXUHK6JWStlVolF03JyHOi1nYBP1kGg3181ovu09ovKh554FttT/Zr4XYxo1gKfFUVgq1RRQVEWubFAySLBNTuVXYBl1i6Fl/QnsbKa0PGGVxekRYHv0j8BWWlYd+94G7qKDDttUyhdGi1Lr940NTQpahLJN5KBCJO21DCFnuxMgQrVK8+nMV8spU8ui0LxpKeGbgmorxqvgBk57rp5z22/is+G6Y9H3EsBiCToCTgfNMOdPpDl/nwhjGLQVgnw==;hvbrCTdqhxM4jCqMY8bxHw=="
 ---

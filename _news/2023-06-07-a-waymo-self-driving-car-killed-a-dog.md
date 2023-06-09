@@ -27,125 +27,103 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo Self-Driving Vehicle Kills Dog in San Francisco"
-    excerpt: "The dog ran into the street from behind a parked car causing what Waymo describes as an unavoidable incident. A Waymo robotaxi struck and killed a small dog in San Francisco last month while it was in self-driving mode."
-    publishedDateTime: 2023-06-07T13:32:00Z
-    webUrl: "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco"
+  - title: "Tesla driver hits a dog, claim they were on Full Self-Driving Beta"
+    excerpt: "A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times."
+    publishedDateTime: 2023-06-09T17:06:00Z
+    webUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: Electrek
+      domain: electrek.co
+    quality: 84
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Elon Musk says 'happy' to license Tesla self-driving technology"
+    excerpt: "Tesla Inc Chief Executive Elon Musk said in a tweet on Monday that the electric-vehicle maker would be \"happy\" to license its self-driving technology and advanced driver assistance system Autopilot to other companies."
+    publishedDateTime: 2023-06-05T15:43:00Z
+    webUrl: "https://www.reuters.com/article/tesla-licensing-idUSL4N37X32Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 69
     images:
-      - url: "https://i.pcmag.com/imagery/articles/04SKS3KBJp73X6USecAt2qd-1.fit_lim.size_1200x630.v1686140384.jpg"
-        width: 1120
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
         height: 630
         isCached: true
-  - title: "Waymo self-driving car killed dog in accident, says report"
-    excerpt: "According to a Waymo spokesperson, neither the safety operator nor the autonomous system applied brakes to prevent a crash. In both cases, that was caused because of the dog's \"unusual path\" while travelling \"at a high rate of speed directly towards the side of the vehicle.\""
-    publishedDateTime: 2023-06-07T09:01:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
-    ampWebUrl: "https://m.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
-    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
+  - title: "India's first self-driving car unveiled, startup plans to emulate Tesla, Google"
+    excerpt: "The Bengaluru-based AI startup, called Minus Zero, unveiled the zPod self-driving car that claims to drive itself in all environmental and geographical constraints."
+    publishedDateTime: 2023-06-05T04:35:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google-41685937249629.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google/amp-41685937249629.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google/amp-41685937249629.html"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 59
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 55
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/6/2023_6$largeimg_400747444.jpg"
-        width: 707
-        height: 471
+      - url: "https://images.hindustantimes.com/auto/img/2023/06/05/1600x900/Minus_Zero_1685937382520_1685937382698.png"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Self-driving Waymo car kills dog amid increasing concern over robotaxis"
-    excerpt: "Collision occurred as canine ran out from behind another car, but autonomous vehicle could not stop in time to avoid contact"
-    publishedDateTime: 2023-06-07T19:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco"
+  - title: "Tesla ‘Full Self-Driving’ software testing in Australia – report"
+    excerpt: "Tesla is quietly testing its so-called 'Full Self-Driving' semi-autonomous driving software on Australian roads, a new report has revealed. According to Teslascope – a service that tracks Tesla software updates and vehicle changes – the US electric-car ..."
+    publishedDateTime: 2023-06-06T00:56:00Z
+    webUrl: "https://www.drive.com.au/news/tesla-fsd-testing-in-australia-report/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/e00f02701042ab5e25107c0616d98bbbf908dad3/0_190_4704_2823/master/4704.jpg?width=620&quality=85&auto=format&fit=max&s=f3e82d73872bffddfbf35a8c1eaa33f8"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Waymo Self-Driving Car Runs Over And Kills Dog In “Unavoidable Accident”"
-    excerpt: "The vehicle was driving in autonomous mode when the accident occurred. Waymo, which is owned by Google’s parent company Alphabet, said that although the vehicle saw the dog running towards it, it was “not able to avoid contact.” It cites the ..."
-    publishedDateTime: 2023-06-08T14:24:00Z
-    webUrl: "https://www.carscoops.com/2023/06/waymo-self-driving-car-kills-dog-in-unavoidable-accident-according-to-the-company/"
-    ampWebUrl: "https://www.carscoops.com/2023/06/waymo-self-driving-car-kills-dog-in-unavoidable-accident-according-to-the-company/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/waymo-self-driving-car-kills-dog-in-unavoidable-accident-according-to-the-company/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 58
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2023/06/2023-Waymo-Jaguar-I-Pace-AV-1.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "A Waymo self-driving car killed a dog in ‘unavoidable’ accident"
-    excerpt: "Waymo said the collision with the dog was unavoidable, but it still might spark public concerns over the safety of autonomous vehicles."
-    publishedDateTime: 2023-06-07T01:47:00Z
-    webUrl: "https://techcrunch.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog-in-unavoidable-accident/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
-  - title: "Waymo self-driving car killed dog in accident: Report"
-    excerpt: "A Waymo robotaxi travelling in autonomous mode hit and killed a little dog last month in San Francisco according to an incident report filed with the California Department of Motor Vehicles"
-    publishedDateTime: 2023-06-07T04:09:00Z
-    webUrl: "https://glamsham.com/world/technology/waymo-self-driving-car-killed-dog-in-accident-report"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
+      name: Drive.com.au
+      domain: drive.com.au
     quality: 39
     images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/06/2881ebf1e4dc0cdb98b50f9b5cfdcb15.jpg"
-        width: 426
-        height: 439
-        isCached: true
-  - title: "They fled San Francisco. The AI boom pulled them back"
-    excerpt: "The latest wave of AI technology — known as generative AI, which produces text, images and video in response to prompts — is feeding a Bay Area boom."
-    publishedDateTime: 2023-06-08T01:39:00Z
-    webUrl: "https://www.seattletimes.com/business/they-fled-san-francisco-the-ai-boom-pulled-them-back/"
-    ampWebUrl: "https://www.seattletimes.com/business/they-fled-san-francisco-the-ai-boom-pulled-them-back/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/they-fled-san-francisco-the-ai-boom-pulled-them-back/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
-  - title: "Self-driving crash kills San Francisco dog"
-    excerpt: "San Francisco is a hub for self-driving vehicle development. Its streets recently saw a crash between a self-driving Jaguar and a dog."
-    publishedDateTime: 2023-06-07T02:52:00Z
-    webUrl: "https://www.perthnow.com.au/lifestyle/motoring/self-driving-crash-kills-san-francisco-dog-c-10902186"
-    type: article
-    provider:
-      name: Perth Now
-      domain: perthnow.com.au
-    quality: 24
-    images:
-      - url: "https://images.perthnow.com.au/publication/C-10902186/cc57146a7bc8bebd0603f3d96206e4b96582f70e-16x9-x0y70w1339h753.jpg?imwidth=1200"
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:good,w_1200/cms/uploads/ypor6suuzbggrm1iezkq"
         width: 1200
         height: 675
         isCached: true
-  - title: "Waymo self-driving car killed dog in accident: Report"
-    excerpt: "As per the report, a self-driving Jaguar I-Pace car was travelling on Toland Street, a slow-speed street close to Waymo's depot, when a dog ran into the road. At the time of the incident, the car was in autonomous mode, with a human safety operator at the ..."
-    publishedDateTime: 2023-06-08T07:28:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20230608/4083207.html"
+  - title: "Self-driving Google robotaxi hit and killed a dog in San Francisco during test drive"
+    excerpt: "A Waymo rep said the self-driving car’s software “correctly identified the dog” but “was not able to avoid contact,” killing it in March."
+    publishedDateTime: 2023-06-09T16:10:00Z
+    webUrl: "https://nypost.com/2023/06/09/self-driving-google-robotaxi-hit-and-killed-a-dog/"
+    ampWebUrl: "https://nypost.com/2023/06/09/self-driving-google-robotaxi-hit-and-killed-a-dog/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/09/self-driving-google-robotaxi-hit-and-killed-a-dog/amp/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
+      name: New York Post
+      domain: nypost.com
+    quality: 37
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012409491.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
+    excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
+    publishedDateTime: 2023-06-07T10:07:00Z
+    webUrl: "https://www.thenewsmarket.com/news/self-driving-cars-are-not-yet-on-our-roads--but-assisted-driving-systems-are-already-supporting-driv/s/4f416199-ae4e-438f-bbb6-7418798e6e40"
+    type: article
+    provider:
+      name: thenewsmarket
+      domain: thenewsmarket.com
+    quality: 1
+    images:
+      - url: "https://preview.thenewsmarket.com/Previews/NCAP/StillAssets/960x540/644091_v3.jpg"
+        width: 1168
+        height: 657
+        isCached: true
+  - title: "Self-driving delivery trucks are already on North Texas highways. How safe are they?"
+    excerpt: "For anyone who likes to complain about North Texas drivers, it might sound alarming to know that soon they will be sharing the highways with transport trucks that don't have a driver at all."
+    publishedDateTime: 2023-06-06T03:33:00Z
+    webUrl: "https://www.texarkanagazette.com/news/2023/jun/05/self-driving-delivery-trucks-are-already-on-north/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 0
 
 secured: "slIrICQGp43Lr8yaMsh6F549ff6tv7B6N8tH1MgJOycnCztU/MHRFctISkqkSwb1dILWpKO/0WzXuvTM3xGx7Q/wyQ3dso1ZrIP1YB8gvjeeBOPelGZOQYefP7+g8XK2lZOJ4ZYG12CeEfsh2n1u6CTDQMGLKf0d4kbCA4cxW/bFxmST4MoRCW1PtxQXgjs/ZzuTWPW7SDCaAzvJMQRNa78D9MXV+DduOOSsw4mnGibFnr9wvo+ye01o0uSToplpq80pJ/RZ09MBU09diu2ABwfcatFRsT8glBBlvGlVO3qR3VSZ1wjHp+5hs2xFDPuua2VhB/kqM00lVWWNAtp8j3XMAmdIjRZrlEn2hG+swInQkA3PJ4LkHKR1Jsh+o7rJsmWmCGGNAozYneEcqRz6U8PePsfxR7FAvP8uJpTwZNUnz6KgA118Fd9//eRQ54lHmc6gV1Mr43NYdPRroLYgtlp0ASRhML/kNcpom/eZErTtunEkO8FFGWAY5kLsGua7ZVkqoeZ073oRpFjPf2D+9g==;tFuPeKc3A6LfK1gJ7m194Q=="
 ---

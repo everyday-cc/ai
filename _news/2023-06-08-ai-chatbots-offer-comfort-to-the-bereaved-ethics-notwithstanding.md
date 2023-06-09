@@ -115,6 +115,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
+    excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."
+    publishedDateTime: 2023-06-09T17:00:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/ai-chatbot-chatgpt-cant-create-convincing-scientific-papers-yet"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/RsTwfc7HXdDsw9UdxSjqwi-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "An AI chatbot might soon slide into your Instagram DMs"
     excerpt: "Instagram is reportedly working on an AI chatbot that will let users choose between 30 different personalities to chat with."
     publishedDateTime: 2023-06-07T18:21:00Z

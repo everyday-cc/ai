@@ -2,9 +2,9 @@
 category: news
 title: "Unicorns are hard to come by, unless you're an AI startup"
 excerpt: "The number of tech upstarts valued at $1 billion has fallen from its peak in 2021, but there's new traction the AI space in particular."
-publishedDateTime: 2023-06-09T11:09:00Z
-originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2023/06/09/generative-ai-unicorn-startups.html"
-webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2023/06/09/generative-ai-unicorn-startups.html"
+publishedDateTime: 2023-06-09T16:24:00Z
+originalUrl: "https://www.bizjournals.com/tampabay/inno/stories/news/2023/06/09/generative-ai-unicorn-startups.html"
+webUrl: "https://www.bizjournals.com/tampabay/inno/stories/news/2023/06/09/generative-ai-unicorn-startups.html"
 type: article
 quality: 17
 heat: -1
@@ -46,6 +46,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "jFYaNyKgtLYwhEQnaI2O9atQynX89AJ7lUi8iVkp5Gaqanar+l63IxRsAcCRcfXB/gG48ojXBQ8k/6thTfri2nDk88Sqmvn8M5I9v/lJeVg2qdYQkcPlx0Bb3jepuq5l/wr0jXcZK78MCfCly5RmM/BgZ2TzWJ5WByoVOU9j2+/t0xiQfT41THM9XKlJoNgZSQw+p0+6pxpTCo1e8nHoDleOGMZ/4c+eCVPlcsK+8Lm1YsLrA5bDHUbyXqEc1k9VVZ9QuO1IOWxV8pqMd1a9934SL6OWHcVJmJgcZO7heKxfS8uCq021JFFlRmDl33P1IcYTazSkmTm+yajOFLZwZE7ZwCyp9AjlhDaOpeeWmukpx9OfBz6C05qejh7Jx0x1KPJqtNSPlEQ6N32OV4Rr0xAKCaeATVMOlvlPA5puBN/YFIi989qiKwgycKrZGyKjXTIOtRgoz8c31Eu9Yc5YcAQhK87pARFXXAQDFjD1giVc4zXFnXBaO1GilIU2a3IsN4vYmEPUTx/l3eVz3yiwkg==;r5hp0iq5WJYJnRtOkDzHcg=="
+secured: "mzKOaWCip+Ts/5WJsWdvo11+T9ekQ/3W2kmSEJJWDiW2xe0jmaGgYg9OVO3eRnKli25F3JB7rat+8wULtj1YL+AW8/ioWul/6U7rCeLIiCvxaCml0hK51asJjJcKN/yLmKI3PohbJnatazSLMr6Kz5BkElDXJbL7Ekk9ymKwF0z+4CoFqtoZidOgr7XoxD4OJ0YU1cUKk/rIe5xHd2lZ9dq454bqEYvQQeNzXnmjeTFujnpxS9ePmUbDLaK58hOMW7vV3+vI0TqG/bQaSxBhP9jIk3AO2StxnDNr0ZQO75Q0vKTea/0npMUbQv4ztbfm2Dqe/JUVwYVbhepPmbUVDwQTz+rj8wtQZdHjXqzTf+mQZuUyHE42T+S7RCjgH8EmgPK1QxlLGzQHQA/Ad2f3vTL8Jkx9cf2IyQigo2JdM1yjynMW69cRC91hU6Gtt74lP745UQ/nqGGijn3R1VxngsQpst65fVbIu1SPfm9NIAdcZljMT96mUuLQ+ptYYec96D7UsxeQ6Gi732nwNWID1Q==;zd8pfqUzl5sHeUVVjAC4ag=="
 ---
 

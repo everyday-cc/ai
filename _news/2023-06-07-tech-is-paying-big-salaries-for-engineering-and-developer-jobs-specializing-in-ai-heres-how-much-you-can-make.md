@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI can help bring tomorrow's gaming NPCs to life"
+    excerpt: "Today's non-playable characters are a step above the Ghost Gang of yesteryear but they're still a far cry from human-level fidelity."
+    publishedDateTime: 2023-06-09T17:03:00Z
+    webUrl: "https://www.engadget.com/generative-ai-can-help-bring-tomorrows-gaming-npcs-to-life-163037183.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/_Clt3C93ea40vhgdQIikgQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/6ff8cac0-0620-11ee-87bf-cbb98ba4bcdc.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The digital dark matter clouding AI in genome analysis"
     excerpt: "Artificial intelligence has entered our daily lives. First, it was ChatGPT. Now, it's AI-generated pizza and beer commercials. While we can't trust AI to be perfect, it turns out that sometimes we can't trust ourselves with AI either."
     publishedDateTime: 2023-06-05T17:19:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "‘Late in the game’: Sunak and Starmer in policy scramble as AI surges ahead"
 excerpt: "PM and Labour leader to set out views but experts say UK unlikely to become home of global regulator"
-publishedDateTime: 2023-06-09T13:13:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jun/09/sunak-starmer-policy-scramble-ai-surges-ahead?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/jun/09/sunak-starmer-policy-scramble-ai-surges-ahead?ref=biztoc.com"
+publishedDateTime: 2023-06-09T13:48:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/jun/09/sunak-starmer-policy-scramble-ai-surges-ahead"
+webUrl: "https://www.theguardian.com/technology/2023/jun/09/sunak-starmer-policy-scramble-ai-surges-ahead"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/09/sunak-starmer-policy-scramble-ai-surges-ahead"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/09/sunak-starmer-policy-scramble-ai-surges-ahead"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "LUOWxwMFOB9LhPFCwEdfOFHEvbVBv1x3rwE6HuhZtovWVoYsTYfrmSs7ask201xxft2IcbtHpL1TiPw9ih9hFqubTwUyR7yiGGwRiRJ4/Nmi27pimUN+KftIB2vEVhZHVlCki5pK/l2kJEs5NgFKnJxtBqlHzci3IpdaeAW+0p5QlySu2JBhs/ABUK2tZyvdVMFd9Ha9gJoRFmIusdP9DPd4JatsnTJgbujMfpRjRUtxLNWDvbiBmH9v5N55Ib62g/PBUFviWDIdKz2U82cMSgjA2YQRn49Vjg37u3VYVGCHi3eXOfQQK3zVdFF5rZmJN1XSjet4ZwDugurWsQkAOVopKGfi2LrUETaMFxKWuKw=;6coAMohxtSfsCIM2ryEbYg=="
+secured: "ZMx0hzOZ8KyuNJgHXPiHKRIpfQogL89yvdURDXZhvkTUVVJmOx1guis7SZgYDCYPaWE5thrtI6l5wRjiQPSXfkexfjFWE2MHoP02M30hLIi+5Zhm5sUAHUDDKfeNVs94PWGKwmAKOBcyX8ntROaUppkFmPpRBUwe/Fia79AKBDloWkvds9zbvA0HFu1UIv7TDNF49uvsqqrlRGnke1jzsSBlhVp1aBGmbpeBx6Hnda4afekhDX70wzEnR0Y+WFMnITWzp/aTaqBWWSfrgz4EuSDTI2ldmWgG23GsWQOq6NvczxGGfynVs5wWFBeEW1M4W5JjOd+VakGjm3F03w66+BvnxEOcmYXoTrz2rytFKR8=;TWQ2RTsjNYCKQaDr5yx/6w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
 type: article
 quality: 88
-heat: 168
+heat: 178
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/ff53e6c4483e5779afacd8333ae6436da3ef5629/2023/06/06/c440993d-c081-419a-8e99-fa6ca3d33864/gettyimages-601843233.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Generative AI can help bring tomorrow's gaming NPCs to life"
+    excerpt: "Today's non-playable characters are a step above the Ghost Gang of yesteryear but they're still a far cry from human-level fidelity."
+    publishedDateTime: 2023-06-09T17:03:00Z
+    webUrl: "https://www.engadget.com/generative-ai-can-help-bring-tomorrows-gaming-npcs-to-life-163037183.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/_Clt3C93ea40vhgdQIikgQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/6ff8cac0-0620-11ee-87bf-cbb98ba4bcdc.cf.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The digital dark matter clouding AI in genome analysis"
     excerpt: "Artificial intelligence has entered our daily lives. First, it was ChatGPT. Now, it's AI-generated pizza and beer commercials. While we can't trust AI to be perfect, it turns out that sometimes we can't trust ourselves with AI either."

@@ -40,20 +40,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Chiratae, Nvidia Execs -backed Minus Zero Unveils India's 1st Autonomous Car zPod"
-    excerpt: "Artificial Intelligence (AI) startup Minus Zero has just unveiled India's first autonomous/ driverless car — z-Pod. With z-Pod, Minus Zero achieved f"
-    publishedDateTime: 2023-06-06T03:24:00Z
-    webUrl: "https://www.indianweb2.com/2023/06/chiratae-nvidia-execs-backed-minus-zero.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 19
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDy_BKwANVrwdsKI0ccea307p5P0813h3V3t2IVxnAp1dz3mOjbaSB8_3QiFCy3VfdSOttPPyLrjnK6FzXMM6iTnJnf7e4-RUZd4VwLnt7Sm0hWfAiT2Y8lvcwCXfRyGVGDMh803UfS_jZzmYLZ38aPY-FuoeTwdN2rDGpqf09Ixi7f8Akl_2TINIy/s16000/20230606_074928_0000.png"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "6hAkLXltNt2u4il5Q7bH4DRI7MnuSpK5XZDSI8jh+48YtXOO5JJLFeXMKDxO9wCs3F0K342iaL2VQb8ga5tuADUnkL9g13WUlnCVFJUs2qgFtGJ7dd+kDSaqWRkK8Yo99XjvlB753WIANpZhiP6kL9PhF62k0VJ1IZ5jQXparXYLzDk9wlEvBu+O6IH/ykCSszU8Ggdo918TWv1jRGEYMEFSgjxZzn3Wo41hpBV3UL3mXewrlvQ1/p7DWlkoKRtL5jmX81lkqeMabisYECR9ttJipx8WkQzC9uBPwce+yH1bkngv3aov0kJL6awR872UZljWbPBO+bOyLRTmpMnM7fzJMPXl46hPKphzTqUcUi6Yfqry/hrOOM3VUSgET+yNV760DHYv9XzLplxzEMbCC6J4LiIoonhm6STLGsyznmLFo5SECgTgwFmcWpWjqLopEoYcFH16r8X38NJaHzE86V8zrouk/DBNk0y8WX1xyK4oAH7WZ8MCuSpheTgumSuUSn4Nnr+IO8WVCiq+JnsNpA==;swlO5cVqq5ipLJO+3RvxCA=="
 ---

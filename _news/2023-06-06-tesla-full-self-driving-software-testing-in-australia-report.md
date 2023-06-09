@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla driver hits a dog, claim they were on Full Self-Driving Beta"
+    excerpt: "A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times."
+    publishedDateTime: 2023-06-09T17:06:00Z
+    webUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 84
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk says 'happy' to license Tesla self-driving technology"
     excerpt: "Tesla Inc Chief Executive Elon Musk said in a tweet on Monday that the electric-vehicle maker would be \"happy\" to license its self-driving technology and advanced driver assistance system Autopilot to other companies."
     publishedDateTime: 2023-06-05T15:43:00Z
@@ -38,6 +52,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
         height: 630
+        isCached: true
+  - title: "A Waymo self-driving car killed a dog"
+    excerpt: "And a self-driving car killing a sweet pooch has the potential to kick out that third leg. It also comes at a critical time for the industry and, specifically, for Waymo, which is expanding its robotaxi network in Phoenix and gearing up to charge fares for ..."
+    publishedDateTime: 2023-06-06T22:02:00Z
+    webUrl: "https://www.autoblog.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
+    ampWebUrl: "https://www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-10/fc275060-2ddd-11ec-9df6-28e42309b04a"
+        width: 1062
+        height: 597
         isCached: true
   - title: "India's first self-driving car unveiled, startup plans to emulate Tesla, Google"
     excerpt: "The Bengaluru-based AI startup, called Minus Zero, unveiled the zPod self-driving car that claims to drive itself in all environmental and geographical constraints."
@@ -55,22 +85,45 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Elon Musk Takes Swipe At Rivals' Self-Driving Technology: 'Brittle And Unscalable'"
-    excerpt: "Tesla Inc TSLA CEO Elon Musk on Sunday criticized the self-driving tech developed by competitors including Alphabet Inc‘s GOOG GOOGL Waymo and General Motors-backed GM Cruise LLC. What Happened: “Yeah, extremely brittle to local conditions & doesn't ..."
-    publishedDateTime: 2023-06-05T10:09:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32710679/elon-musk-takes-swipe-at-rivals-self-driving-technology-brittle-and-unscalable"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32710679"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32710679"
+  - title: "Self-driving Google robotaxi hit and killed a dog in San Francisco during test drive"
+    excerpt: "A Waymo rep said the self-driving car’s software “correctly identified the dog” but “was not able to avoid contact,” killing it in March."
+    publishedDateTime: 2023-06-09T16:10:00Z
+    webUrl: "https://nypost.com/2023/06/09/self-driving-google-robotaxi-hit-and-killed-a-dog/"
+    ampWebUrl: "https://nypost.com/2023/06/09/self-driving-google-robotaxi-hit-and-killed-a-dog/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/09/self-driving-google-robotaxi-hit-and-killed-a-dog/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
+      name: New York Post
+      domain: nypost.com
+    quality: 37
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk._Photo_courtesy:_Thomas_Hawk_on_Flickr_10.jpeg?width=1200&height=800&fit=crop"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012409491.jpg?quality=75&strip=all&w=1024"
         width: 1024
-        height: 683
+        height: 682
         isCached: true
+  - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
+    excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
+    publishedDateTime: 2023-06-07T10:07:00Z
+    webUrl: "https://www.thenewsmarket.com/news/self-driving-cars-are-not-yet-on-our-roads--but-assisted-driving-systems-are-already-supporting-driv/s/4f416199-ae4e-438f-bbb6-7418798e6e40"
+    type: article
+    provider:
+      name: thenewsmarket
+      domain: thenewsmarket.com
+    quality: 1
+    images:
+      - url: "https://preview.thenewsmarket.com/Previews/NCAP/StillAssets/960x540/644091_v3.jpg"
+        width: 1168
+        height: 657
+        isCached: true
+  - title: "Self-driving delivery trucks are already on North Texas highways. How safe are they?"
+    excerpt: "For anyone who likes to complain about North Texas drivers, it might sound alarming to know that soon they will be sharing the highways with transport trucks that don't have a driver at all."
+    publishedDateTime: 2023-06-06T03:33:00Z
+    webUrl: "https://www.texarkanagazette.com/news/2023/jun/05/self-driving-delivery-trucks-are-already-on-north/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 0
 
 secured: "FEk81F3NzfJkXO/yBP0hL1DTnhTGe2NXC4Lt/2xwqtXrNIP6Hqn7llE03jTyxScQXslpfJo0fUfV3aQigObRoEC3oCxVuz/gqUnkhYdaWjtVhxOk+K92pRreV685YJR8oPL2ke8fH+itz90saiWI8Lastsx+JJ2f+u/Y92PEKtJSby7cm4HuQteA4f44YACu1uRHYz9RsxhabJMBJ6hMXMz8jSmOn8h2lHFedgrHco4QXFQV3N/mBhNI222iA5D4thKWq4cpC9fkXnHEWrK2+VJH/LbAdDqhIHobGBx8krx+ZN/XV6aEy8TZ001bDEPD5asR/xPjNujDS229YwPua6SZd2qqHUnDvTYx/LpBV4nF7t1+4DLEbTZ7VfhH6w1E1iujBREFxYqiv1hSNnXBSEEnfj2GT0BJaJRUeAnCvTOjHnvoOVi/Ydc+M9naG/lipM97GCBHgkhAWThP1zgfdkM0Qb6UZVXgCCz/mmei+LHoueEoOKRDTOWZfBcnR12GSEReJmR2HnXCci3nGFjbtw==;UAU0uezAgjRPylHDtoqNJQ=="
 ---

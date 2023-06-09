@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "TSA expands testing of facial recognition technology as some in Congress voice concerns"
-    excerpt: "The agency is expanding its testing phase of facial recognition technology to make sure you match your ID from 16 to 28 airports nationwide. “We have automated what we have been doing manually as a snapshot in time to make sure you who you say you,"
-    publishedDateTime: 2023-06-04T23:39:00Z
-    webUrl: "https://www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/"
-    ampWebUrl: "https://www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/?outputType=amp"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 51
-    images:
-      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/C0cSv-lZx4l3-D9MG9QEqpr8_O8=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/06-04-2023/t_281f04564334492bb78a1e8b52c877f0_name_WNB2ALL_TSA_Tech_Concerns_PKG.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Calls in Senate for TSA to halt facial recognition program"
     excerpt: "Kris Van Cleave reports on the letter signed by several US Senators expressing disapproval for the TSA's new facial recognition devices. (6/5/2023)"
     publishedDateTime: 2023-06-06T02:37:00Z

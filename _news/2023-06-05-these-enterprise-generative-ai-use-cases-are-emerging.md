@@ -42,20 +42,6 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "How to create generative AI confidence for enterprise success"
-    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
-    publishedDateTime: 2023-06-04T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
-        width: 1200
-        height: 579
-        isCached: true
   - title: "OpenAI rival Cohere raises a fresh $270 million to bring generative AI to the enterprise"
     excerpt: "AI startup Cohere is no longer flying under the radar. The Toronto-based company just announced $270 million in funding backed by Nvidia and Oracle."
     publishedDateTime: 2023-06-08T13:06:00Z

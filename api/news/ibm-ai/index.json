@@ -104,7 +104,7 @@
       "originalUrl": "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -374,8 +374,8 @@
       "title": "How to thrive in a new era of AI with trust and confidence",
       "excerpt": "AI is already helping organizations achieve great things, but it's time to take advantage of its full business potential.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
-      "originalUrl": "https://www.businessinsider.com/sc/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -385,7 +385,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T06:58:00-07:00",
+      "publishedDateTime": "2023-06-02T08:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -973,6 +973,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-28-can-chatgpt-really-think-like-a-human-qa-with-ai-scientist-dave-ferrucci.md",
+      "title": "Can ChatGPT Really Think Like a Human? Q&A With A.I. Scientist Dave Ferrucci",
+      "excerpt": "Artificial intelligence is getting smart quickly ... Ferrucci is best known as the creator of IBM Watson. Developed in the late 2000s to answer questions on the television quiz show Jeopardy!,",
+      "sourceUrl": null,
+      "webUrl": "https://observer.com/2023/05/david-ferrucci-artificial-intelligence-interview/",
+      "originalUrl": "https://observer.com/2023/05/david-ferrucci-artificial-intelligence-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://observer.com/wp-content/uploads/sites/2/2023/05/Dave-Ferrucci-Headshot-1.png?quality=80&#038;strip",
+          "width": 750,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-strengthening-cybersecurity-in-life-sciences-with-ibm-and-aws.md",
       "title": "Strengthening cybersecurity in life sciences with IBM and AWS",
       "excerpt": "While AWS focuses on the security of the cloud, IBM Consulting is dedicated to improving clients' AWS cloud security posture.\nThe post Strengthening cybersecurity in life sciences with IBM and AWS appeared first on IBM Blog.\n",
@@ -1329,57 +1372,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-what-is-smart-transportation.md",
-      "title": "What is smart transportation?",
-      "excerpt": "From traffic jams to seamless journeys— exploring the promise of smart transportation.\nThe post What is smart transportation? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/smart-transportation/",
-      "originalUrl": "https://www.ibm.com/blog/smart-transportation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/ams_3992.lr_.jpg",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T07:09:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

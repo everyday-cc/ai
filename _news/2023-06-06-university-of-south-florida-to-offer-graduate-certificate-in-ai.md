@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Florida universities see potential and pitfalls of AI on campus"
+    excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher e Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
+    publishedDateTime: 2023-06-09T16:14:00Z
+    webUrl: "https://www.wuft.org/news/2023/06/09/florida-universities-see-potential-and-pitfalls-of-ai-on-campus/"
+    type: article
+    provider:
+      name: WUFT
+      domain: wuft.org
+    quality: 39
+    images:
+      - url: "https://www.wuft.org/news/files/2023/04/century-tower-scaled-e1681830178841.jpg"
+        width: 2560
+        height: 1068
+        isCached: true
   - title: "Florida universities study pros, cons of artificial intelligence"
     excerpt: "Florida universities are discussing how to harness the power of artificial intelligence and to stave off student cheating using it."
     publishedDateTime: 2023-06-09T14:59:00Z
@@ -39,6 +53,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Florida universities eye AI initiatives"
+    excerpt: "As AI continues to grow Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
+    publishedDateTime: 2023-06-09T16:43:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/news/2023/06/09/florida-universities-eye-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "USF to offer artificial intelligence certificate to boost local tech talent pipeline"
     excerpt: "The certificate is launching in part to strengthen Tampa Bay's local tech talent pipeline and build its growing startup scene."
     publishedDateTime: 2023-06-05T18:43:00Z

@@ -25,36 +25,130 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Startup Minus Zero Unveils ZPod Vehicle Based On Camera-sensor Suite"
-    excerpt: "Autonomous vehicle zPod unveiled by MinusZero can drive itself in all environmental and geographical constraints using camera sensors."
-    publishedDateTime: 2023-06-05T16:25:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+  - title: "Nvidia’s AI software tricked into leaking data"
+    excerpt: "Others have followed with bespoke but experimental AIs that teach young pupils, dispense simple medical advice, translate between languages and write code. Nearly all have suffered safety hiccups. Nvidia and others in the AI industry need to “really ..."
+    publishedDateTime: 2023-06-09T17:26:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/amp/"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 39
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/mhzulyros2ktmjaj_1685942650.jpeg"
-        width: 768
-        height: 438
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-1-800x534.jpg"
+        width: 800
+        height: 534
         isCached: true
-  - title: "India's first completely autonomous vehicle is unveiled by AI startup Minus Zero"
-    excerpt: "India's first completely autonomous vehicle is unveiled by AI startup Minus Zero - Minus Zero, an artificial intelligence (AI) startup, unveiled what it claimed is India’s first"
-    publishedDateTime: 2023-06-05T03:01:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/indias-first-completely-autonomous-vehicle-is-unveiled-by-ai-startup-minus-zero-nid-223376-cid-19.html"
+  - title: "How Nvidia uses GPT-4 to make AI better at Minecraft"
+    excerpt: "The Voyager program can both devise new challenges in the game, and then continuously refine strategies for success. Sometimes it hallucinates non-existent items, though, such as an \"acacia axe.\""
+    publishedDateTime: 2023-06-08T16:13:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-uses-gpt-4-to-make-ai-better-at-minecraft/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-uses-gpt-4-to-make-ai-better-at-minecraft/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-uses-gpt-4-to-make-ai-better-at-minecraft/"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 32
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/UqCPZEah.jpg"
-        width: 570
-        height: 367
+      - url: "https://www.zdnet.com/a/img/resize/3254d39ece56272c940e248d8e90114b88c5cfcf/2023/06/08/4e2ef3ce-ebe1-45de-a461-0a68864c16fa/gettyimages-1258475304.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "AI hype driven by names like Nvidia is finally luring retail investors back into the stock market"
+    excerpt: "The hype in artificial intelligence stocks like Nvidia, combined with the resolution of the US debt ceiling last week helped finally push retail investors back into the stock market. That's according to a Thursday note from Vanda Research, which ..."
+    publishedDateTime: 2023-06-08T20:12:00Z
+    webUrl: "https://www.businessinsider.com/ai-stocks-retail-investors-stock-market-flows-artificial-intelligence-nvidia-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/ai-stocks-retail-investors-stock-market-flows-artificial-intelligence-nvidia-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-stocks-retail-investors-stock-market-flows-artificial-intelligence-nvidia-2023-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/61d74c8037afc20019ac8e4a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "SoftBank and NVIDIA to Bring Generative AI to Telcos"
+    excerpt: "Telco modernization will enable telcos to leverage AI to deliver a wide range of new services and automate operations."
+    publishedDateTime: 2023-06-05T19:48:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/softbank-nvidia-generative-ai-telcos/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt-vs-github-copilot.png"
+        width: 1400
+        height: 788
+        isCached: true
+  - title: "AI startup Cohere raises $270 mln in Nvidia-backed funding round"
+    excerpt: "Cohere, an AI foundation model company that competes with Microsoft-backed OpenAI, said on Thursday it had raised $270 million in a funding round backed by Nvidia , Oracle and Salesforce Ventures, among others."
+    publishedDateTime: 2023-06-08T14:41:00Z
+    webUrl: "https://www.reuters.com/technology/ai-startup-cohere-raises-270-mln-nvidia-backed-funding-round-2023-06-08/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/UlFS-HCyPyOhqvGErwKxsmm53ZA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CMOR6ZPOFRK25FN5J26IFXMIVA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "AI-Powered ETF Dumps Nvidia In June For A FAANG Stock"
+    excerpt: "Much of the upside stemmed from the company's leverage to AI, which has gained momentum with the popularity of OpenAI's ChatGPT. Nvidia's A100 chip is considered one of the most important tools for the AI industry. The stock capitalized on this massive ..."
+    publishedDateTime: 2023-06-08T13:00:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/23/06/32773110/ai-powered-etf-dumps-nvidia-in-june-for-a-faang-stock"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32773110"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32773110"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Nvidia_8.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
+        isCached: true
+  - title: "TSMC rushes to increase packaging capacity for Nvidia AI chips"
+    excerpt: "TSMC has placed rush orders for CoWoS packaging equipment in order to meet surging demand for Nvidia's AI chips, according to sources at fab toolmakers."
+    publishedDateTime: 2023-06-06T01:35:00Z
+    webUrl: "https://www.digitimes.com/news/a20230605PD219/cowos-nvidia-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230605pd219_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Nvidia’s AI software tricked into leaking data"
+    excerpt: "A feature in Nvidia’s artificial intelligence software can be manipulated into ignoring safety restraints and reveal private information, according to new research."
+    publishedDateTime: 2023-06-09T04:00:00Z
+    webUrl: "https://www.ft.com/content/5aceb7a6-9d5a-4f1f-af3d-1ef0129b0934"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "Nvidia and Oracle back $270M funding round for generative AI startup Cohere"
+    excerpt: "Generative artificial intelligence startup Cohere Inc. today announced that it has raised $270 million in funding from a group of prominent tech investors. The investment, a Series C round, included the participation of Nvidia Corp."
+    publishedDateTime: 2023-06-08T19:33:00Z
+    webUrl: "https://siliconangle.com/2023/06/08/nvidia-oracle-back-270m-funding-round-generative-ai-startup-cohere/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
 
 secured: "VDuY8yOPP4R1Y+1shMlL6F9S/y9hkrcLcpqC9CtkZcd/6hHlVtD3TJavj+hVRRk78YRMZLdicPKUW6menB7ht/boAPKoLtMISy1gAi8wvLicgloPJq1BMt8CPCwOb+9jWgA8iX1/pJ/npYEqLuvZY0Hj90sKesVQ277ocYoo039tJeVb1lERxTF9VovoOlzp0JhsGOQ1V2VYDMoU/V/kpFtMhTes0wxPwDYFO7DcdYqQYkV8ZbHZCxRuiiOv9sAjcMzw0xabeDO5PYgeH/ymsh2ABBOaIUqP73RC+a/akcuJu2BFNU7HJNP6LKctW70js0OMMfcfRkqp5weIex+rTBmky2SfXtpN94eBvBvO5hh1XAYz7R2H8cV8iA1xAxOGwCt2AJZVOU2vIPd1WYxN6ufHqvA42kSIvZ4QdcbzRyWpR/S2nC1ifwWbspgIWwXv4Rr+5im5kepBw+WY4r5Q/62oWDwqk8++6oq0+fRwLROIe6KUMzZarf6vYXIobrcTKhP7WS4PkNDG257ZeQtaEQ==;tuzlLkaMilwDgurimRQyWA=="
 ---

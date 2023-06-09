@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in
 webUrl: "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco"
 type: article
 quality: 69
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Waymo self-driving car killed a dog"
-    excerpt: "And a self-driving car killing a sweet pooch has the potential to kick out that third leg. It also comes at a critical time for the industry and, specifically, for Waymo, which is expanding its robotaxi network in Phoenix and gearing up to charge fares for ..."
-    publishedDateTime: 2023-06-06T22:02:00Z
-    webUrl: "https://www.autoblog.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
-    ampWebUrl: "https://www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 59
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-10/fc275060-2ddd-11ec-9df6-28e42309b04a"
-        width: 1062
-        height: 597
-        isCached: true
   - title: "Waymo self-driving car killed dog in accident, says report"
     excerpt: "According to a Waymo spokesperson, neither the safety operator nor the autonomous system applied brakes to prevent a crash. In both cases, that was caused because of the dog's \"unusual path\" while travelling \"at a high rate of speed directly towards the side of the vehicle.\""
     publishedDateTime: 2023-06-07T09:01:00Z

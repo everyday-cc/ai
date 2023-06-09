@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-09-fast-track-graph-ml-with-graphstorm-a-new-way-to-solve-problems-on-enterprise-scale-graphs.md",
+      "title": "Fast-track graph ML with GraphStorm: A new way to solve problems on enterprise-scale graphs",
+      "excerpt": "We are excited to announce the open-source release of GraphStorm 0.1, a low-code enterprise graph machine learning (ML) framework to build, train, and deploy graph ML solutions on complex enterprise-scale graphs in days instead of months. With GraphStorm, you can build solutions that directly take into",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fast-track-graph-ml-with-graphstorm-a-new-way-to-solve-problems-on-enterprise-scale-graphs/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fast-track-graph-ml-with-graphstorm-a-new-way-to-solve-problems-on-enterprise-scale-graphs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/09/graphstorm-fast-track-1260x627.jpg",
+          "width": 1260,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T10:20:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-exploring-how-the-human-brain-and-artificial-neural-networks-assemble-knowledge.md",
       "title": "Exploring how the human brain and artificial neural networks assemble knowledge",
       "excerpt": "As humans explore the world around them and experience new things, they innately start to make sense of what they encounter, creating mental connections between the objects, people, places, and events they encounter.",
@@ -813,17 +866,17 @@
       "title": "Artificial intelligence brings Mona Lisa to life as a hologram",
       "excerpt": "The Mona Lisa has been brought to life as a hologram. Leonardo da Vinci's most famous work has been recreated using AI (artificial intelligence). A state of the art computer neural network reconstructed the model's enigmatic smile in finer detail than ever before.",
       "sourceUrl": null,
-      "webUrl": "https://tylerpaper.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_fed334d3-faff-522a-8a82-1ba1d5d77989.html",
-      "originalUrl": "https://tylerpaper.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_fed334d3-faff-522a-8a82-1ba1d5d77989.html",
+      "webUrl": "https://www.montanarightnow.com/national_news/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_f70c3f30-f55f-596e-9de9-c77aa2e06c89.html",
+      "originalUrl": "https://www.montanarightnow.com/national_news/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_f70c3f30-f55f-596e-9de9-c77aa2e06c89.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/1/22/12230a68-e66a-5213-b9e4-167e5dbdfdad/647612fe5b31f.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
+          "url": "https://bloximages.newyork1.vip.townnews.com/montanarightnow.com/content/tncms/assets/v3/editorial/8/25/8251cc81-749c-54f9-ab54-cfa99fe9c622/64761327c2c30.image.jpg?crop=1762%2C928%2C0%2C176&resize=1200%2C632&order=crop%2Cresize",
+          "width": 1200,
+          "height": 632,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -831,13 +884,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://tylerpaper.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_fed334d3-faff-522a-8a82-1ba1d5d77989.amp.html",
-      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_fed334d3-faff-522a-8a82-1ba1d5d77989.amp.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-30T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tyler Morning Telegraph",
-        "domain": "tylerpaper.com",
+        "name": "montanarightnow",
+        "domain": "montanarightnow.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1302,41 +1355,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-microsoft-rains-more-machine-learning-on-azure-cloud.md",
-      "title": "Microsoft rains more machine learning on Azure cloud",
-      "excerpt": "Microsoft made sure to include Azure in the AI-fest that was the Build 2023 developer conference this week. As enterprises consider experimenting with or deploying generative AI, they may well look to public clouds and similar scalable compute and storage infrastructure to run things like large-language models (LLMs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
-      "originalUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

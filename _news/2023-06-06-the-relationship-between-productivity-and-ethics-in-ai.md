@@ -7,7 +7,7 @@ originalUrl: "https://www.devprojournal.com/technology-trends/ai/the-relationshi
 webUrl: "https://www.devprojournal.com/technology-trends/ai/the-relationship-between-productivity-and-ethics-in-ai/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Will generative AI boost productivity?"
+    excerpt: "There is no doubting the potential of generative AI. Its ability to boost cognitive activities, which are harder to value, means we may be unable to accurately measure its impact. But as prior technologies demonstrate, productivity gains are not guaranteed until the technology can be harnessed effectively. We should keep our feet on the ground."
+    publishedDateTime: 2023-06-09T16:25:00Z
+    webUrl: "https://www.ft.com/content/3b145574-760f-49fd-b42c-a2c4ae22101c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "Generative AI’s ‘productivity revolution’ will take time to pay off"
     excerpt: "A boom in generative artificial intelligence and pandemic-induced workplace shifts will unleash a new era of faster productivity growth across the rich world, economists say, though it could take a decade or more for advanced economies to reap the full benefits."
     publishedDateTime: 2023-06-05T04:00:00Z

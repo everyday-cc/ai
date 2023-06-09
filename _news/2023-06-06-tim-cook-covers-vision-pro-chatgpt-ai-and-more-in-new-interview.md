@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 742
         isCached: true
+  - title: "Lawyers who used ChatGPT included fake legal research fabricated by AI chatbot"
+    excerpt: "A couple of lawyers who cited fictitious research concocted by AI bot ChatGPT is asking a New York-based federal judge to spare sanctions."
+    publishedDateTime: 2023-06-09T16:34:00Z
+    webUrl: "https://www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot"
+    ampWebUrl: "https://www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 83
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/263d618f-c90f-4453-825c-0e53ced8d257/65c8223d-3861-4e2a-8508-affb94e3c6f5/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Chegg Embraced AI. ChatGPT Ate Its Lunch Anyway"
     excerpt: "The education company is a case study in generative AI’s disruptive power. Now it’s trying to prove it can beat back ChatGPT with an in-house chatbot."
     publishedDateTime: 2023-06-05T11:00:00Z

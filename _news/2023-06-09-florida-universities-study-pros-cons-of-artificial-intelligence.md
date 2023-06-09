@@ -39,6 +39,29 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Florida universities see potential and pitfalls of AI on campus"
+    excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher e Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
+    publishedDateTime: 2023-06-09T16:14:00Z
+    webUrl: "https://www.wuft.org/news/2023/06/09/florida-universities-see-potential-and-pitfalls-of-ai-on-campus/"
+    type: article
+    provider:
+      name: WUFT
+      domain: wuft.org
+    quality: 39
+    images:
+      - url: "https://www.wuft.org/news/files/2023/04/century-tower-scaled-e1681830178841.jpg"
+        width: 2560
+        height: 1068
+        isCached: true
+  - title: "Florida universities eye AI initiatives"
+    excerpt: "As AI continues to grow Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
+    publishedDateTime: 2023-06-09T16:43:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/news/2023/06/09/florida-universities-eye-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "USF to offer artificial intelligence certificate to boost local tech talent pipeline"
     excerpt: "The certificate is launching in part to strengthen Tampa Bay's local tech talent pipeline and build its growing startup scene."
     publishedDateTime: 2023-06-05T18:43:00Z
@@ -49,6 +72,6 @@ related:
       domain: bizjournals.com
     quality: 10
 
-secured: "DQUxvkx/5G9hiSSDRDuCIUkCZszb0LCPWE5OpmPVUdpO76+XXDh4fXmo117pb8klO6kLggONWWDFy6NLjvGjGk9BjJN7nRcpr+yOk4+53i/0Kb4svXUazavAQFbRFEmhMDHmV02XRQWmDqMdyp6r+JFkS67UaIRlAPlVDb1VOhDzBa6soogeuFw/j833fTCDoOS93YqMdOvbSEZYwQCTcKv3a48eN95fH1SBazotr6gbW5tS5GTBxtDYHM/YIpS0oIi+b2kry3PY5e6sWz+UoWyA8QvspG/H/LZ4acXlygCnrNtsnAqLs7HLrhqwh9jC4aL62f6qwCcCqeDUnlLgE6GVbiX20fC94d1lYMHsYco=;SYv6NMEU5YbZVAx0ODGt7g=="
+secured: "4dIyTcmhXkjkQKCzfYSCvkqIT9i1QgDZvgHci67D+Pkk3iUL/8VwUx5izQZsN2m7gNM06tiuhR/8RdJJ43NPcpwWozuER0bvtsoFztnC5g3m8xAV7ejFpt7vN6dweo+v7/S8vOT2aK9M7PS5e87gw3pTegDnfUvE1SteZNI6VDoTb9LY8k9sWLFlgyc3WISjlugubVC9pOi8S4bfrGUXazOxmZ8B8V3RG1Gw5Lm+u4QDRfUnZHwisBHUQQUcOfKJ/2vKPcmfqQUenH+xJkvJMz9zI4tSQPgTv6BoiPLLesKmiSpBPIHYVsk7vzrlA+zHn8Dtq5H43KfpUB/x5RR6WDn+dcf+JNUIfoN+Bv/8XGIW4toKHRbIpnszdlAucT/CCri3qMhMs3UYtkO3Y5O+Guowo7hSjZCym3uB/3bOjqu/HtL7d3lIbdWbLJ2phzPEDZZBP24uAwxkl3rxOqiWmuYjlcBSc82sf6ljp2XOGg4vFKZLuPjqouF16uVG9csWW8BlBxH7F/qn3X2muTIlYQ==;2tcVQhlooqs6WKM9yxok8Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-dr
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 2880
     height: 1908
     isCached: true
-
-related:
-  - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
-    excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
-    publishedDateTime: 2023-06-07T10:07:00Z
-    webUrl: "https://www.thenewsmarket.com/news/self-driving-cars-are-not-yet-on-our-roads--but-assisted-driving-systems-are-already-supporting-driv/s/4f416199-ae4e-438f-bbb6-7418798e6e40"
-    type: article
-    provider:
-      name: thenewsmarket
-      domain: thenewsmarket.com
-    quality: 1
-    images:
-      - url: "https://preview.thenewsmarket.com/Previews/NCAP/StillAssets/960x540/644091_v3.jpg"
-        width: 1168
-        height: 657
-        isCached: true
 
 secured: "mfQAsbkXULWSlAqwgEewhzPFrqBQHRSvfg8tKcy0zUwIROCvZApcBY3uSf1m+d+fAIWW7yFZZEp0eLgznvWsIBUuSvAsdsaSuAXoOkUx10t34SE32LYhyrISzxzvheTNXnn2bWHsOmBlPS/1zIUBr6ztkzO3+FrXQAL4fiy5Ijt/heUzPnLSkMY5P1VwHDJa0Jdm6QiT60xK6Jq2nEL/xUiAqBqS0uZm503ieBZjthJhaL9389iJr0p1kjO9Qnb2N4neiUF1HLPopl5Q0C7xGP7zb0kZK9SNLNtXRggV9Vu/0SSF8l4bTB0/WxppRmvtlefvLG02h7jgimyeErFZsw/9BuPpTWAf3JJ2OTqKU3t0yfP7nvp+/2eh+f6X5GsSphT2JB1MsC3qTZFK9FHmepLfz+oiMbWcDUm5XlvMNoTTTLx4ExUwYZ3yCxggl2Mk5IURhiPbnMqueD5qu3ppo25A8ngqypMNJK3CdnPRRnVjFEsCfnAcfCF2rKgl4dJR6SwgbgQD8MaBJQP1IMPamQ==;ybBm6LkW/12AtBDO/OmMdg=="
 ---

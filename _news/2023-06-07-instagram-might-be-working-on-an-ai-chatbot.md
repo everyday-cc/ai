@@ -109,6 +109,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
+    excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."
+    publishedDateTime: 2023-06-09T17:00:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/ai-chatbot-chatgpt-cant-create-convincing-scientific-papers-yet"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/RsTwfc7HXdDsw9UdxSjqwi-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI chatbots offer comfort to the bereaved, ethics notwithstanding"
     excerpt: "Thanks to generative artificial intelligence, avatars of departed loved ones can now convey things they never said when they were alive."
     publishedDateTime: 2023-06-08T07:32:00Z
