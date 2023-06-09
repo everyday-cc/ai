@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-dr
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: techxplore
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How self driving cars are getting ready for Indian roads"
-    excerpt: "Work on autonomous cars is on full throttle in India, but self-driving cars are still some time away"
-    publishedDateTime: 2023-06-04T08:26:00Z
-    webUrl: "https://www.headlinestoday.in/top-news/how-self-driving-cars-are-getting-ready-for-indian-roads-556665453.html"
-    type: article
-    provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 19
   - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
     excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
     publishedDateTime: 2023-06-07T10:07:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Comment: What Congress can do to keep an eye on AI"
-    excerpt: "A new federal agency to regulate artificial intellitence (AI) sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountability. Instead of licensing companies to release advanced AI technologies, the government could license auditors and push for companies to set up institutional review boards."
-    publishedDateTime: 2023-06-04T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-what-congress-can-do-to-keep-an-eye-on-ai/"
-    type: article
-    provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 39
-    images:
-      - url: "https://www.heraldnet.com/wp-content/uploads/2023/06/32887389_web1_TSR-230603-edh-opi-AIguardrailes.jpg"
-        width: 1302
-        height: 868
-        isCached: true
   - title: "Comment: Robots are coming, but with humans at the controls"
     excerpt: "Take Alfie. It’s the prototype of London startup Prosper Robotics and looks like a Minecraft character made real: slightly taller than a grown man, bulky and gliding slowly around on wheels. It is also steered by a team of gamers in the Philippines, who wear virtual reality headsets throughout the day to control its movements."
     publishedDateTime: 2023-06-05T08:30:00Z
@@ -53,15 +39,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Why an octopus-like creature has come to symbolize AI | Commentary"
-    excerpt: "The Shoggoth is a potent metaphor that encapsulates one of the most bizarre facts about the AI world, which is that many of the people working on this technology are somewhat mystified by their own creations."
-    publishedDateTime: 2023-06-05T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/why-an-octopus-like-creature-has-come-to-symbolize-ai-commentary/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "Kv2VGf7Zs/V2CBxh/nxIVUx1MTt1QSkXABVj7ME76aG1A+ThaF4JLa2WMQcrI6URufVStAoxyWLAJTQcRxCwGpeBieQiLTTJ/3P0rAVXYxqTIGRaJ88VGMl05rr4MrcSixehUOWOek5ZnplQKRYc1QpGYIlaNgxMHAE0UEmcDlwpKti9bfHEHVzPLA8/2MPkF2pT2wdJbJUjt7BWu3agBqQQQomwp3TC6othEM3aGRQtOVb8DGhSel7W35rZATwTGeUZ5jMMNUSHpflqaRdk19QplJF71Wh8WuNGkkq5Eu0r2fmJXvTXd2gFmRVN/x9UL6CIeaxoMa66WhNfF2omTfPdTtwaHfZiiE+EuAOcDwM=;l1HvEhOIQVjonKtvQeYx2w=="
 ---

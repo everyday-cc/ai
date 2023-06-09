@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "An AI Robot Learns Recipes by Watching Human Chefs"
+    excerpt: "Your salad may be prepared by a robot chef one day. A new University of Cambridge study published in IEEE Access shows how artificial intelligence (AI) computer vision empowers a robotic chef to identify and learn new recipes by watching videos of human chefs."
+    publishedDateTime: 2023-06-08T23:33:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 74
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-06/pic726.jpg?itok=14wLmoad"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "oBgHSuiPNBrr6uMVaKsq3mITG8ZZ7SNND1tSLIWZIywMwuYhn6izjiFgU7yAxF+WjwUL0+Tk9DFM9eO1j87FkS9yry2W9dbiOypoBsDkEO+bKQuhODh/vk7cmx+PZKpq8aYu2aL6fgHR0zOtcFu2JsoK0dtBVAa0gbufy9NL3EXdIWNtJvfQjct8jp4kxtThhH5K4UcL7DYKGRZpNgwA50DIPJ66W7qcjfJeOCDLr85Vs7elfKvWq3DUsZ3BBAuvVZEsxZoCB2qFdF/2AnsbVt6J0hUF25J2HIHIAoK4lsixMkgJaI9xFzzSGV7LEc83DpDpxCJMsdxUzNQCzIlTC71MMJOMhG1i29FnLcwpZueRSYXbdO3L5oKiA00rI1twp5Kmvh2QU9N5muQbI7XiCpD2ScOQkN9AnVg/p+r6jYPYLjSpXCz1tpBnEtjSm1guZbPGOgB8QyDTt0YpdOSGvv5+AfrOM0GsVcLEKdkBNiz52cWStSMthwZ+ShRQ8ZNt2ChFhv31Wh0f9zpDBl2Ssg==;jCWPPlekXyOelhn2sMG4bQ=="
 ---

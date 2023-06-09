@@ -30,7 +30,7 @@ related:
   - title: "Unicorns are hard to come by, unless you're an AI startup"
     excerpt: "The number of tech upstarts valued at $1 billion has fallen from its peak in 2021, but there's new traction the AI space in particular."
     publishedDateTime: 2023-06-07T18:56:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html"
+    webUrl: "https://www.bizjournals.com/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html"
     type: article
     provider:
       name: The Business Journals

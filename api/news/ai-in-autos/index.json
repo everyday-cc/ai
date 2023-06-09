@@ -254,50 +254,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-07-exploring-sharper-computer-vision-for-self-driving-cars-and-cybernetic-avatars.md",
-      "title": "Exploring sharper computer vision for self-driving cars and cybernetic avatars",
-      "excerpt": "Just making a small tweak to algorithms typically used to enhance images could dramatically boost computer vision recognition capabilities in applications ranging from self-driving cars to cybernetic avatars,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/car-windshield.jpg",
-          "width": 2880,
-          "height": 1908,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-exploring-sharper-vision-self-driving-cars.amp",
-      "publishedDateTime": "2023-06-06T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2023-06-06-10-companies-using-artificial-intelligence-ai-in-a-compelling-way.md",
       "title": "10 Companies Using Artificial Intelligence (AI) in a Compelling Way",
       "excerpt": "AI is changing the way many companies operate. Learn about how some of the biggest companies in the world are using AI.",
@@ -306,7 +262,7 @@
       "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1339,6 +1295,40 @@
       "provider": {
         "name": "InfoQ",
         "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-ex-apple-employee-accused-of-stealing-self-driving-tech-secrets.md",
+      "title": "Ex-Apple employee accused of stealing self-driving tech secrets",
+      "excerpt": "Wang is the third employee from China to face charges of trade secrets theft is the third to hit the company. Last year Xiaolang Zhang pleaded guilty to stealing trade secrets from Apple’s autonomous division. Another man faces charges, but the trial is to be set at a later date.",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/news/ex-apple-employee-accused-of-stealing-self-driving-tech-secrets/",
+      "originalUrl": "https://www.just-auto.com/news/ex-apple-employee-accused-of-stealing-self-driving-tech-secrets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -18,47 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Comment: What Congress can do to keep an eye on AI"
-    excerpt: "A new federal agency to regulate artificial intellitence (AI) sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountability. Instead of licensing companies to release advanced AI technologies, the government could license auditors and push for companies to set up institutional review boards."
-    publishedDateTime: 2023-06-04T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-what-congress-can-do-to-keep-an-eye-on-ai/"
+  - title: "Artificial intelligence is valuable, but still a tool | READER COMMENTARY"
+    excerpt: "The recent commentary by James Stavridis (”How will AI change modern warfare?” June 2) demands that artificial intelligence be put in its proper place in our data system. Admiral Stavridis first observes how AI will be a powerful tool for decision ..."
+    publishedDateTime: 2023-06-06T21:33:00Z
+    webUrl: "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-artificial-intelligence-tool-letter-20230606-ql5zxccz25bwhbw33skm4hmiau-story.html"
     type: article
     provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 39
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 38
     images:
-      - url: "https://www.heraldnet.com/wp-content/uploads/2023/06/32887389_web1_TSR-230603-edh-opi-AIguardrailes.jpg"
-        width: 1302
-        height: 868
-        isCached: true
-  - title: "Comment: Robots are coming, but with humans at the controls"
-    excerpt: "Take Alfie. It’s the prototype of London startup Prosper Robotics and looks like a Minecraft character made real: slightly taller than a grown man, bulky and gliding slowly around on wheels. It is also steered by a team of gamers in the Philippines, who wear virtual reality headsets throughout the day to control its movements."
-    publishedDateTime: 2023-06-05T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-robots-are-coming-but-with-humans-at-the-controls/"
-    type: article
-    provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 39
-    images:
-      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Comment: We should worry more about AI’s creators than AI itself"
-    excerpt: "Even so, fibs travel halfway around the world before the truth laces up its boots and the story is bound to seep into our collective, unconscious worries about AI’s threat to the human race, an idea that has gained steam thanks to warnings from two “godfathers” of AI and two open letters about existential risk."
-    publishedDateTime: 2023-06-08T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-we-should-worry-more-about-ais-creators-than-ai-itself/"
-    type: article
-    provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 39
-    images:
-      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
-        width: 400
-        height: 400
+      - url: "https://www.baltimoresun.com/resizer//RSUO-FYq4KmTjew5GtYjxnsdC9w=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/DR3MP4JPMECTAR5NQROWXX6O3M.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "vuPFOedjqeeFab0Pdjnd65pGNG3vlskQP2O3WHp54m2r/wwb8/p1gU5wiRjH0fQovX2ONS8+aXfm3CBVX/6n2mOh7PJNqDD8qgSQcjSJC+E9X1RMhuc5bHF4uJIiyWC035GBPItbz+7Md/ld5tRjj4bk+2tCt4YZPEMpUt/w4YlIElNfrGJwqlrjKfDS2OKRYNmpBIx2ECOV4aN7fSIw7fIsvsXzAG0xXm3aAe3mupXhmIDGqxzyEssfTnFvL9Uc1IAQ8v41WSpGw1LUVR0Ua2MF43Dmg5cFSNsA6mY+EV7eR2qnbY3m+f77BZNNdzvATX1A/3fJW3oigBftXIdWn2FaORoV6wCnzDZXkKbBbhTBBydH4o0BNdPqWXhnRcHf4sqeuX7u8MmgmwoGbbr2Jmvs+dbGpAWoKmbvvJM29cTT6oSy7mQjhVeQKjdRLDY/779JdEpADgF/JzK8G0c6Nvv3yiMu1g35QmdeTMvVNfnjqcotXHLt/PPD9QVX5lCHE90rEGjcL4ak4GEHMBeUSg==;R6z2Df7h9skle9Kf/6JxlQ=="

@@ -2,17 +2,17 @@
 category: news
 title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
 excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
-publishedDateTime: 2023-06-08T17:41:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20230608/4082619.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20230608/4082619.html"
+publishedDateTime: 2023-06-09T01:00:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/268577"
+webUrl: "https://www.ryt9.com/en/anpi/268577"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - AI in Healthcare
@@ -233,6 +233,6 @@ related:
       domain: medgadget.com
     quality: 0
 
-secured: "+NJJTp89Lc79O1326hI/BGbYoEjLGiIrsTpXwdlpnwNIJrTw+aC+S2NTLOQ+IluaYbp77Eo4hiW5bAWKxZCVIp2Qxmyuh4aVi0pp8MaMfStitfM5nqXI2pJALZ8QJzsGtrK9C7rLGJqnKfbjrzvMw7ioADtZ7YmojAdcE6MHi5XCK7K/FHCf9HRwnc6ocW4ecuxvbI4Fn02lcb5EVr14x7hMnNteSZSsl70LMOcI+gWSXs2po72NFzUCIb6nvSWkLBtHa6bOTksrqKJMrLC+2oBuXXVXz4rQzIGAjI2AU5h+GucXGn2I4/AP30KTkW8E6HpdowS4tkLGqbDpWzh7djI+p63LzekTL2zh/czNy3U=;QN58f5YTCcpwqRiiHOC25Q=="
+secured: "pPydEIaeAIYdToh/nIxRtGVLcJMmVEuhDUMF9kgoUHftfrKvYXOw9OjeNh3/R9N/UdrC9QrIBN/DrYpGgHDfNAr3Wu6Z8HTsJJdWWpl3wFK/S5bk3wQO2xIm0b3zq35ucSGgDvABKDczP5kEWz6L2tUKQ2mWths4QB0NAULUXvan1eZWOGSUW0hqmQ1sw0aeByDiibAMdyB3aUlvRRDUF9KlIBs9jKVYY6FvkvY7nyvqEU8aBz6rTdFdIcIHPK2wDpJCiDiwl8B0Tufyv1Ry3XtXlzIl1FRnrL5D7GCejSeTCr1KzqSV+9ZhRCC5N7BZXd/pEtqnr/qJlLdNTXcd9+mFgxv66UgHBAjCHDnELQc=;+9RcXrk066UZD+ziMdGZgQ=="
 ---
 

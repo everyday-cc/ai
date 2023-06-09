@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/how-to-make-money-with-ai/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Use AI with caution when comes to mental health"
+    excerpt: "When people read that AI could replace the equivalent of 300 million full-time jobs,"
+    publishedDateTime: 2023-06-09T00:00:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/alton-artificial-intelligence-ai-saint-anthony-s-18141135.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/16/21/23913580/3/rawImage.jpg"
+        width: 1463
+        height: 2048
+        isCached: true
 
 secured: "AmzbBF1GYmwcWsylxS6oH8k9HiXTi/GFwdj8VAK6VAKmRGTH7tqqH2S+XSksvpBVRDqbF+gPodwR7HDsJ+1mKUS1ORHXy1ilOE9rqBmfZ0brw6RzNI9BOY8615GRmKN/ZXZzF4b4QOK05jbxhFyrw6GOWSv01wZE8M9eAmFf+zQPXw3eVF1ijSpfaIOo2hLTFiDCYFBtCJlb9BS6mlhyBS0RpnbupwS/qNaoKiMnmt3Zl0FS+bkWbyOwBM7lzZOdCPf8XUhV1W0N1Cyn7EeQRUg+8lfymRXBwOqlfS7nRM8osYGtwQyaTAG8Gd+FGyi99t8G1R0F562VNR8Vg0LoTHQiHSApg7tXvJPC8S4B7SHcyUIDAvZnYHUkeNk/C/ObKgDfjL/x4Nrk5HrZ/ewgmgwW51u6/clUx/TmCUope+/XGNz7ex4yXxBwQ3IFA5EI02hxaX/XNm5ef2VSh2XQPA48RbAKnjgOhhk89QyE3FFkYXTJeAiT3vWNAQ7fpNzi08floYcS53uImkoIlcegAQ==;dho2H0BL4cDFCZnCegq0mA=="
 ---

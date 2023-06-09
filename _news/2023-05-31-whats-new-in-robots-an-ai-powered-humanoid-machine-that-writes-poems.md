@@ -1,10 +1,10 @@
 ---
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ..."
-publishedDateTime: 2023-05-31T12:21:00Z
-originalUrl: "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
-webUrl: "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
+excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
+publishedDateTime: 2023-05-31T14:00:00Z
+originalUrl: "https://www.stltoday.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
+webUrl: "https://www.stltoday.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 631
     isCached: true
 
-secured: "Sys8jg9rkFUku4A3ZrBNJUJUacJBfk9ZACWR94sKWBpFRjFDVdFszdywwvcMkX2VhxdqRSbN2GTRYQSIl+rul7w2QB4LD1SLHWM8LBKjde7sVHvVy9NBjc57/jJkOO1EOjHj0ijAwZUF8oWn/EkczN2K63jkDBq0ThdlWbHtLet2gY1c7z67582UIvgJDRYD/6y1gwRvvjI6/rYWwgerdIH37wTGy8B3Rh57fENzosERNV+y9XOrAmXCtVbnwo8sozdvIJj1Bj6beA8a37ohtXz42CAFW8xlnluvlPXrFQuWxcc6kUf7DEPeBifJGRjZNvvtab7Z5/97HNxYmlBD8KPI1aq+/vQyihBXCjEZ5kI=;fW+ta+sHB/vxvwttatRI3w=="
+secured: "5x8nWFf3Qx8q90NwUcYq9sWX0Y4j7wEd9xm+R8GvTBOYdBBCX0IEuezqV3vWPTEs05Dhv9YBp7ThbK6WznlM8lhu81P1Y1zvh1VmZq77HNMlcDvpS3X3b9BrxuxkSIvENHGHGKwB9pDpub1KTU2GB/8nmcjrMCVYlYphZRaFaTPr++K3MGdvuxShtebc9U1yOaHpEexztrFIEbLNmElmv+EKolT6jzG3WJS4L+Z9efEipXtghS1AUggqWVHHtbVqs/q/iQGlstPJJ4w60cxGV8Tn8vQQHApQU4u0N4cZdSOM5w1wgQmcyKZ8ICN2WhGanREbyVaeAEWAWRh+K06zh5/KcKzFPYqZzD6I6Yuv1Lc=;kV/Xz9d+4p0VdHV9ENZipA=="
 ---
 

@@ -36,6 +36,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Use AI with caution when comes to mental health"
+    excerpt: "When people read that AI could replace the equivalent of 300 million full-time jobs,"
+    publishedDateTime: 2023-06-09T00:00:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/alton-artificial-intelligence-ai-saint-anthony-s-18141135.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/16/21/23913580/3/rawImage.jpg"
+        width: 1463
+        height: 2048
+        isCached: true
 
 secured: "EEfMYFQLHTnXNlrt+sa4fURaYcfMbNWJyxcOwBbv0phwziuwGcy/nfShBmfkeXH3yV5m+EdqWvKI83wm2wSFQUz14KM9Pb4hwvfz6odXesvnc/smSMkiu+kdtsFOxNxx2/QKfPt1WmEsAYfbnSuY2hQlkvLPAa+loZcweZi2IFQfYFUBgNxJNUxdJjExjd8AXL4WqfDVqNkc26BcxskgI3wJExgVUhz3fMtxvqZF8O+hh4NPNE6RYjpgFZX8OM+eJiQOokGJTz1j6caTaFBdhj4mTx2qYkHJEbL0KRSPWI5qp6bFZfWNwsDl0Rdyah9COKHy27s9iEXoIjLdeLYDP9TFCwNKjIwUQ86PmLLlvrGgy5/F0dgaF1AjxAvreF2kC0NsmHZQhFkDgroaBZLGBLrprlJIzRn5He8XuvSFHmTkzE8i9gSR5A1dfwpKBv9YA1p6iQJlLK/EVqsBqVaV+uQra2lYw35F4uLyfXxvXgtX+L/uf8IiyurIuA8wdP1wxp8Lzv5+lzhnXWoAboco0w==;S8P6VI7Mfh2y3ny5oBQTUA=="
 ---

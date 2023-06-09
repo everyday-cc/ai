@@ -65,6 +65,17 @@ related:
         width: 1166
         height: 706
         isCached: true
+  - title: "Ideal Innovations, Inc.’s facial identification training: fostering responsible use of facial recognition technology in law enforcement"
+    excerpt: "Ideal Innovations Incorporated (I-3) is a company that provides system-agnostic Facial Identification Training (F.I.T.) courses to law enforcement agencies across the country. Facial Recognition (FR) software has become crucial in law enforcement investigations."
+    publishedDateTime: 2023-06-07T19:22:00Z
+    webUrl: "https://lawandcrime.com/partner-content/ideal-innovations-inc-s-facial-identification-training-fostering-responsible-use-of-facial-recognition-technology-in-law-enforcement/"
+    ampWebUrl: "https://lawandcrime.com/partner-content/ideal-innovations-inc-s-facial-identification-training-fostering-responsible-use-of-facial-recognition-technology-in-law-enforcement/amp/"
+    cdnAmpWebUrl: "https://lawandcrime-com.cdn.ampproject.org/c/s/lawandcrime.com/partner-content/ideal-innovations-inc-s-facial-identification-training-fostering-responsible-use-of-facial-recognition-technology-in-law-enforcement/amp/"
+    type: article
+    provider:
+      name: lawandcrime
+      domain: lawandcrime.com
+    quality: 22
 
 secured: "Ja6Zo2TNfT4FJEZLEq0BNU6y54hjICOQSx0iXUC6g1pPUBUa5Q7Laup1n8OzjCeU/sx6NrrvSxI6wq1F324XYefsmzuy0shJjfwvUJUQXbXddJOLsp4Hyg3RRIk7IbTyEVUf4ngMhetbSb6Tu8X2zrEhGL34ff5Jyb13BoqOPP2lr13dCM40kVuBIzmf4tQ7o3YYQXHcwd/M+nSgZl7CYq27S2o2+xEn1aKoopMwY7e05RKWlgv1ChG6uFd8UENOzrdzHN6+2lI7K8Y5Y1/0ZgAvD+iNMclSL2qMj5fqaT1yfLcadpk/NFvP8FJiYjDBIEQiD40+3/9d0EZ3pQDOVq2/CVLVOzl9M7jdF4QjP8/Kjr5Co/qf+TsL1dBDg5/MGI72sngpou4eFLH2KqZ7s3CbJ6jIcCU7i33XNuUX4vDLPPVzkRCHh2YqmkX0XbBQNNM7wrmnrAM68zggEMBauSZr5N+saRDUbMVAO3oH8PhDvlXeqXyTKI2Y8G27aUXyKG7HrU55SPTbiwZ8FL1UKg==;cvEyXYTiZ3LsQ4XiaHtWyA=="
 ---

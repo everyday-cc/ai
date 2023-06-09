@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 1166
         height: 706
         isCached: true
+  - title: "Ideal Innovations, Inc.’s facial identification training: fostering responsible use of facial recognition technology in law enforcement"
+    excerpt: "Ideal Innovations Incorporated (I-3) is a company that provides system-agnostic Facial Identification Training (F.I.T.) courses to law enforcement agencies across the country. Facial Recognition (FR) software has become crucial in law enforcement investigations."
+    publishedDateTime: 2023-06-07T19:22:00Z
+    webUrl: "https://lawandcrime.com/partner-content/ideal-innovations-inc-s-facial-identification-training-fostering-responsible-use-of-facial-recognition-technology-in-law-enforcement/"
+    ampWebUrl: "https://lawandcrime.com/partner-content/ideal-innovations-inc-s-facial-identification-training-fostering-responsible-use-of-facial-recognition-technology-in-law-enforcement/amp/"
+    cdnAmpWebUrl: "https://lawandcrime-com.cdn.ampproject.org/c/s/lawandcrime.com/partner-content/ideal-innovations-inc-s-facial-identification-training-fostering-responsible-use-of-facial-recognition-technology-in-law-enforcement/amp/"
+    type: article
+    provider:
+      name: lawandcrime
+      domain: lawandcrime.com
+    quality: 22
   - title: "Man Nabbed by Facial Recognition Wins Right to Inspect Tech (1)"
     excerpt: "Facial recognition technology software design data, source code, and algorithms must be turned over by New Jersey in a first-of-its-kind appeals court ruling that pits police use of artificial intelligence against a defendant’s right to a fair trial."
     publishedDateTime: 2023-06-07T21:44:00Z

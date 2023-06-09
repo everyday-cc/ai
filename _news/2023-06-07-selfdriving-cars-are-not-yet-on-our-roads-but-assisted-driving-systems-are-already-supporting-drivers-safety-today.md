@@ -41,15 +41,6 @@ related:
         width: 2880
         height: 1908
         isCached: true
-  - title: "How self driving cars are getting ready for Indian roads"
-    excerpt: "Work on autonomous cars is on full throttle in India, but self-driving cars are still some time away"
-    publishedDateTime: 2023-06-04T08:26:00Z
-    webUrl: "https://www.headlinestoday.in/top-news/how-self-driving-cars-are-getting-ready-for-indian-roads-556665453.html"
-    type: article
-    provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 19
 
 secured: "CuMVjebfnaqe6C17pLyjV9l7qmAgP6P/62SQaAN88M3T6yqL5di/6JJgyht1VeYTAXI7UkWpRzKh4+Z7Pxn0Oe8Hl7QUkX3XPn1Yu8mhqbmdbt3gAp5TkjV5niJWPonpFNS1Op3h4SN6ECA0HXF6/7YLKsjAeSdfZPLble8flMttgbT4EwzzyPx0h1OTEke1jmfRusR2e9R2HpH+6l/NxhqlhxbcqimGsOv6MFbo0DBAkHtKsfs10uGCTqFnmTsMbQOOzTMolmtjFUqB85P8sNVnk+N0y/GTQcZJM3JZ05tAlAqiFYZIae8hRc0aG0SaPJfOpSWxxOF41XaoXkv+ZaD/PcfUeByBazDkc8X7asL6jpzo6p+/D9RK+j0toGP35tgqOWz+RMq1xbhzhoY00UAddP+b5liQmZ1EQi4mnSrNNE862qDGpQB3nvPjeu7gpqbXeCqqxxKlNh51GXgSZP4lroJW9y4kTQJdyyNtKFUohoJIG9jox3AtrQtdOL8SOUCjT2HKdHGf64kxYtaXsw==;2g/2qeCQGJ3Fxf9FfSj9Bg=="
 ---
