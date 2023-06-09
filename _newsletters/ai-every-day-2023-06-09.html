@@ -1,0 +1,1351 @@
+---
+title: "A.I. Every Day (2023-06-09)"
+excerpt: "Nvidia’s AI software tricked into leaking data / Tesla driver hits a dog, claim they were on Full Self-Driving Beta / Why advanced API security is critical to outsmarting new threats"
+publishedDateTime: 2023-06-09T18:13:18Z
+webUrl: "https://everyday.cc/ai/newsletter/ai-every-day-2023-06-09/"
+type: article
+
+topics:
+  - AI
+
+---
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="x-apple-disable-message-reformatting">
+  <meta name="format-detection" content="telephone=no,address=no,email=no,date=no,url=no">
+  <title>A.I. Every Day (2023-06-09)</title>
+  <meta name="description" content="Nvidia’s AI software tricked into leaking data / Tesla driver hits a dog, claim they were on Full Self-Driving Beta / Why advanced API security is critical to outsmarting new threats">
+  <!--[if mso]>
+    <style>
+        * {
+            font-family: sans-serif !important;
+        }
+    </style>
+  <![endif]-->
+  <!--[if !mso]><!-->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&amp;display=swap" rel="stylesheet"
+    type="text/css">
+  <!--<![endif]-->
+  <style>
+    html,
+    body {
+      margin: 0 auto !important;
+      padding: 0 !important;
+      height: 100% !important;
+      width: 100% !important;
+    }
+
+    * {
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
+    }
+
+    div[style*="margin: 16px 0"] {
+      margin: 0 !important;
+    }
+
+    table,
+    td {
+      mso-table-lspace: 0pt !important;
+      mso-table-rspace: 0pt !important;
+    }
+
+    table {
+      border-spacing: 0 !important;
+      border-collapse: collapse !important;
+      table-layout: fixed !important;
+      margin: 0 auto !important;
+    }
+
+    img {
+      -ms-interpolation-mode: bicubic;
+    }
+
+    a[x-apple-data-detectors] {
+      border-bottom: 0 !important;
+      cursor: default !important;
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+
+    .im {
+      color: #180b01 !important;
+    }
+
+    @media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+      u~div .newsletter-content {
+        min-width: 320px !important;
+      }
+    }
+
+    @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+      u~div .newsletter-content {
+        min-width: 375px !important;
+      }
+    }
+
+    @media only screen and (min-device-width: 414px) {
+      u~div .newsletter-content {
+        min-width: 414px !important;
+      }
+    }
+  </style>
+
+  <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+  <![endif]-->
+
+  <style>
+    @media screen and (max-width: 680px) {
+      a {
+        color: {link_color} !important;
+        text-decoration: none !important;
+      }
+
+      .logo {
+        max-width: 80% !important;
+        height: auto !important;
+        max-height: 43px !important;
+      }
+
+      .story-title p {
+        margin: 0 !important;
+      }
+
+      .sm-px-none {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+
+      .sm-p {
+        padding: 20px !important;
+      }
+
+      .sm-pt {
+        padding-top: 20px !important;
+      }
+
+      .sm-px10 {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+      }
+
+      .markets {
+        width: 100%;
+        border: 0;
+      }
+
+      .markets td {
+        border-bottom: 1px solid #e6d1c6;
+        padding: 10px 0;
+      }
+
+      .text-left {
+        text-align: left !important;
+      }
+
+      .copyright-area p,
+      .date-area p {
+        text-align: center !important;
+      }
+    }
+  </style>
+  <style>
+    @media only screen and (min-width: 681px) {
+      .template-button {
+        background-color: #2956CD !important;
+        border-radius: 5px !important;
+        font-weight: 700 !important;
+        text-transform: uppercase !important;
+        letter-spacing: 1px !important;
+        padding: 12px 10px !important;
+        color: #fff !important;
+        Margin-left: 0px !important;
+        font-size: 12px !important;
+        line-height: 12px !important;
+        text-decoration: none !important;
+      }
+
+      a {
+        color: {link_color} !important;
+        text-decoration: none !important;
+      }
+
+      .copyright-area p,
+      .date-area p {
+        text-align: left !important;
+      }
+
+      .text-left {
+        text-align: left !important;
+      }
+
+      .story-body p {
+        margin-top: 0 !important;
+      }
+
+      .story-title p {
+        margin: 0 !important;
+      }
+
+      .area-share,
+      .area-content,
+      .ad-image,
+      .social-area,
+      .copyright-area,
+      .date-area,
+      .hidden-area,
+      .network-area {
+        display: table-cell;
+        vertical-align: top;
+      }
+
+      .area-share {
+        width: 55px;
+      }
+
+      .area-content {
+        width: 585px;
+      }
+
+      .network-area {
+        width: 310px;
+      }
+
+      .hidden-area,
+      .date-area {
+        width: 165px;
+      }
+
+      .copyright-area,
+      .social-area {
+        width: 320px;
+      }
+
+      .template-button {
+        color: #FFF !important;
+      }
+
+      .markets {
+        width: 100%;
+        border: 0;
+      }
+
+      .markets td {
+        border-bottom: 1px solid #e6d1c6;
+        padding: 10px 0;
+      }
+    }
+  </style>
+</head>
+
+<body style="margin: 0; padding: 0 !important; mso-line-height-rule: exactly; line-height: .8;" id="body">
+  <center style="width: 100%;">
+    <!--[if mso]>
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+    <tr>
+    <td>
+    <![endif]-->
+
+    <!--Header-->
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0"
+      style="background-color: #0A0300; width: 100%;">
+      <tr>
+        <td align="ccenter">
+          <div style="font-size: 0; max-width: 640px; margin: 0 auto; line-height: 2;" class="newsletter-content">
+          <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" style="width: 640px; margin: 0 auto;" align="center">
+          <tr>
+          <td align="center" style="vertical-align: middle; width: 165px; height: 50px; margin: 0 auto;">
+          <![endif]-->
+            <div class="hidden-area"></div>
+          <!--[if mso]>
+          </td>
+          <td align="center" style="vertical-align: middle; width: 310px; height: 50px; margin: 0 auto;">
+          <![endif]-->
+            <div class="network-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%; height: 50px;">
+                <tr>
+                  <td>
+                    <p
+                      style="color: #2956CD; text-align: center; text-transform: uppercase; font-size: 12px; letter-spacing: 1px; font-family: Open Sans, Segoe UI, sans-serif;">
+                      Part of Everyday Course Club</p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+                </td>
+                <td align="right" style="vertical-align: middle; width: 165px; height: 50px; margin: right;">
+                <![endif]-->
+
+            <div class="date-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%; height: 50px;">
+                <tr>
+                  <td>
+                    <p
+                      style="font-size: 12px; text-align: center; color: #FFFFFF; text-transform: uppercase; letter-spacing: 1px; font-family: Open Sans, Segoe UI, sans-serif;">
+                      <a href="https://everyday.cc/ai/newsletter/ai-every-day-2023-06-09/" style="text-decoration: none; color: #FFFFFF !important;">2023-06-09</a>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+          </div>
+        </td>
+      </tr>
+    </table>
+    <!--End of Header-->
+    <!--Content-->
+    <div class="newsletter-content" style="max-width: 680px; margin: 0 auto;">
+      <!--[if mso]>
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 680px; margin: 0 auto;" align="center">
+            <tr>
+            <td>
+            <![endif]-->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tr>
+          <td style="padding:70px 0 20px;" align="center">
+            <h1 style="text-align:center; margin: 0;">
+              <span style="vertical-align: middle; font-family: Open Sans, Segoe UI, Tahoma, sans-serif; font-size: 28px">A.I. Every Day<br />
+                <a href="https://everyday.cc/ai/" style="text-decoration: none;vertical-align: middle; display: table-cell;">
+                  <img alt="Logo" src="https://everyday.azureedge.net/ai10/sites/4/2021/04/ai_round_corner.png" border="0" height="43" style="width: auto;" class="logo">
+                </a>
+              </span>
+            </h1>
+          </td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width: 680px;">
+        <tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>News of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Nvidia%e2%80%99s+AI+software+tricked+into+leaking+data https%3a%2f%2farstechnica.com%2fgadgets%2f2023%2f06%2fnvidias-ai-software-tricked-into-leaking-data%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2farstechnica.com%2fgadgets%2f2023%2f06%2fnvidias-ai-software-tricked-into-leaking-data%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/"><img src="https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-1-800x534.jpg" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Nvidia’s AI software tricked into leaking data{% endraw %}</strong> Others have followed with bespoke but experimental AIs that teach young pupils, dispense simple medical advice, translate between languages and write code. Nearly all have suffered safety hiccups. Nvidia and others in the AI industry need to “really ...</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/"
+                                    style="color: #2956CD; text-decoration: none;">↪ Ars Technica
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Tesla+driver+hits+a+dog%2c+claim+they+were+on+Full+Self-Driving+Beta https%3a%2f%2felectrek.co%2f2023%2f06%2f09%2ftesla-driver-hits-dog-claim-full-self-driving-beta%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2felectrek.co%2f2023%2f06%2f09%2ftesla-driver-hits-dog-claim-full-self-driving-beta%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"><img src="https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Tesla driver hits a dog, claim they were on Full Self-Driving Beta{% endraw %}</strong> A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"
+                                    style="color: #2956CD; text-decoration: none;">↪ Electrek
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.ibm.com/blog/noname-advanced-api-security-for-ibm/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/3-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Why+advanced+API+security+is+critical+to+outsmarting+new+threats https%3a%2f%2fwww.ibm.com%2fblog%2fnoname-advanced-api-security-for-ibm%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.ibm.com%2fblog%2fnoname-advanced-api-security-for-ibm%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.ibm.com/blog/noname-advanced-api-security-for-ibm/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Why advanced API security is critical to outsmarting new threats{% endraw %}</strong> Noname Advanced API Security for IBM aims to further enhance the strength of solutions for monitoring and locking down APIs from evolving threats. 
+The post Why advanced API security is critical to outsmarting new threats appeared first on IBM Blog.
+</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.ibm.com/blog/noname-advanced-api-security-for-ibm/"
+                                    style="color: #2956CD; text-decoration: none;">↪ IBM
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/4-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Revolutionizing+Business+Finance+With+AI%3a+A+New+Era+Is+Coming https%3a%2f%2fwww.forbes.com%2fsites%2fforbestechcouncil%2f2023%2f06%2f09%2frevolutionizing-business-finance-with-ai-a-new-era-is-coming%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.forbes.com%2fsites%2fforbestechcouncil%2f2023%2f06%2f09%2frevolutionizing-business-finance-with-ai-a-new-era-is-coming%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/"><img src="https://imageio.forbes.com/specials-images/imageserve/61814ed70e1ae168d212c0bd/0x0.jpg?format=jpg&width=1200" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Revolutionizing Business Finance With AI: A New Era Is Coming{% endraw %}</strong> With AI’s help, business finance is ripe for disruption. New technologies will be able to wrap around legacy bank systems and create a new layer of data attribution, ushering in a modern era for accounting and business finance.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/"
+                                    style="color: #2956CD; text-decoration: none;">↪ Forbes
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.benzinga.com/pressreleases/23/06/n32799034/artificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-1-53-billion-by-2028-a"><img alt="" src="https://everyday.azureedge.net/media/2021/04/5-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Artificial+Intelligence+(AI)+in+MRI+Global+Market+Report+2023%3a+Sector+to+Reach+%241.53+Billion+by+2028+at+a+35.7%25+CAGR https%3a%2f%2fwww.benzinga.com%2fpressreleases%2f23%2f06%2fn32799034%2fartificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-1-53-billion-by-2028-a">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.benzinga.com%2fpressreleases%2f23%2f06%2fn32799034%2fartificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-1-53-billion-by-2028-a">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.benzinga.com/pressreleases/23/06/n32799034/artificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-1-53-billion-by-2028-a">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Artificial Intelligence (AI) in MRI Global Market Report 2023: Sector to Reach $1.53 Billion by 2028 at a 35.7% CAGR{% endraw %}</strong> The &quot;Artificial Intelligence (AI) in MRI Market - Forecasts from 2023 to 2028&quot; report has been added to ResearchAndMarkets.com&#39;s offering. The artificial intelligence in</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.benzinga.com/pressreleases/23/06/n32799034/artificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-1-53-billion-by-2028-a"
+                                    style="color: #2956CD; text-decoration: none;">↪ Benzinga.com
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Learning of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.pluralsight.com/courses/building-your-first-pytorch-solution"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Building+Your+First+PyTorch+Solution https%3a%2f%2fwww.pluralsight.com%2fcourses%2fbuilding-your-first-pytorch-solution">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.pluralsight.com%2fcourses%2fbuilding-your-first-pytorch-solution">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.pluralsight.com/courses/building-your-first-pytorch-solution">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://www.pluralsight.com/courses/building-your-first-pytorch-solution"><img src="https://pluralsight.imgix.net/course-images/building-your-first-pytorch-solution-v1.jpg" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Building Your First PyTorch Solution{% endraw %}</strong> This course covers the important practical aspects of installing PyTorch from scratch on a variety of different platforms and getting going with classification and regression models.&#160;</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.pluralsight.com/courses/building-your-first-pytorch-solution"
+                                    style="color: #2956CD; text-decoration: none;">↪ Pluralsight
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.amazon.com/Statistical-Learning-Sparsity-Generalizations-Probability/dp/1498712169/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Statistical+Learning+with+Sparsity%3a+The+Lasso+and+Generalizations+(Chapman+%26+Hall%2fCRC+Monographs+on+Statistics+and+Applied+Probability) https%3a%2f%2fwww.amazon.com%2fStatistical-Learning-Sparsity-Generalizations-Probability%2fdp%2f1498712169%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.amazon.com%2fStatistical-Learning-Sparsity-Generalizations-Probability%2fdp%2f1498712169%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.amazon.com/Statistical-Learning-Sparsity-Generalizations-Probability/dp/1498712169/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Statistical Learning with Sparsity: The Lasso and Generalizations (Chapman &amp; Hall/CRC Monographs on Statistics and Applied Probability){% endraw %}</strong> A sparse statistical model has only a small number of nonzero parameters or weights; therefore, it is much easier to estimate and interpret than a dense model. Statistical Learning with Sparsity: The Lasso and Generalizations presents methods that exploit sparsity to help recover the underlying signal in a set of data.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.amazon.com/Statistical-Learning-Sparsity-Generalizations-Probability/dp/1498712169/"
+                                    style="color: #2956CD; text-decoration: none;">↪ Amazon
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Companies of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://everyday.cc/ai/company/aviso/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Aviso https%3a%2f%2feveryday.cc%2fai%2fcompany%2faviso%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fai%2fcompany%2faviso%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/ai/company/aviso/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Aviso{% endraw %}</strong> Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/ai/company/aviso/"
+                                    style="color: #2956CD; text-decoration: none;">↪ View Company
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://everyday.cc/ai/company/yuanfudao/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Yuanfudao https%3a%2f%2feveryday.cc%2fai%2fcompany%2fyuanfudao%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fai%2fcompany%2fyuanfudao%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/ai/company/yuanfudao/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Yuanfudao{% endraw %}</strong> Yuanfudao provides live courses and tutoring through an online platform.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/ai/company/yuanfudao/"
+                                    style="color: #2956CD; text-decoration: none;">↪ View Company
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Influencers of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://everyday.cc/ai/people/jacob-searcy/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Jacob+Searcy https%3a%2f%2feveryday.cc%2fai%2fpeople%2fjacob-searcy%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fai%2fpeople%2fjacob-searcy%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/ai/people/jacob-searcy/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Jacob Searcy{% endraw %}</strong> Jake Searcy joined UO&#39;s Data Science Initiative from Michigan where he worked for Ford Motor Company, developing novel AI methods in their Global Data Insight and Analytics department. He began his data science career as a University of Michigan particle physicist, building data pipelines and applying machine learning techniques to the vast datasets produced at CERN&#39;s Large Hadron Collider. He currently collaborates with researchers across campus to implement AI solutions for emerging research problems and is the Associate Director of AI for UO&#39;s Research Advanced Computing Services. Searcy received his PhD from the University of Oregon in 2012.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/ai/people/jacob-searcy/"
+                                    style="color: #2956CD; text-decoration: none;">↪ View Profile
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://everyday.cc/ai/people/karl-iagnemma/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Karl+Iagnemma https%3a%2f%2feveryday.cc%2fai%2fpeople%2fkarl-iagnemma%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fai%2fpeople%2fkarl-iagnemma%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/ai/people/karl-iagnemma/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Karl Iagnemma{% endraw %}</strong> Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/ai/people/karl-iagnemma/"
+                                    style="color: #2956CD; text-decoration: none;">↪ View Profile
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+
+      </table>
+      <!--[if mso]>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
+    </div>
+    <!--End of Content-->
+    <!--Footer-->
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0"
+      style="width: 100%;">
+      <tr>
+        <td style="padding: 10px;">
+          <div style="font-size: 0; max-width: 640px; margin: 0 auto;" class="newsletter-content">
+            <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" style="width: 640px; margin: 0 auto;">
+          <tr>
+          <td align="left" style="vertical-align: middle; width: 140px;">
+          <![endif]-->
+
+            <div class="social-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                <tr>
+                  <td>
+                    <a clicktracking="off" href="https://twitter.com/everydayfeeds"
+                      style="box-sizing: content-box; display: inline-block; width: 35px; height: 35px; border: 1px solid #200a00; Margin: 10px 16px 10px 0; text-align: center; border-radius: 50%;">
+                      <img alt="Twitter" src="https://everyday.azureedge.net/media/2021/04/twitter-black.png" border="0" height="35" width="35">
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+          </td>
+          <td align="left" style="vertical-align: middle; width: 500px;">
+          <![endif]-->
+
+            <div class="copyright-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%;">
+                <tr>
+                  <td>
+                    <p style="margin: 0; font-size: 12px; font-family: Open Sans, Segoe UI, sans-serif; line-height: 28px"
+                      class="sm-pt">
+                      <a href="mailto:hello@everyday.cc" style="text-decoration: none;">hello@everyday.cc</a><br />
+                      Copyright (c) 2020 Everyday.cc, All rights reserved.
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 20px;">
+          <div style="max-width: 640px; margin: 0 auto;" class="newsletter-content">
+            <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" style="width: 640px; margin: 0 auto" align="center">
+          <tr>
+          <td align="left" style="vertical-align: middle;">
+          <![endif]-->
+
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%;">
+              <tr>
+                <td>
+                  <p
+                    style="text-align: center; text-decoration: none; font-size: 12px; font-family: Open Sans, Segoe UI, sans-serif; line-height: 24px">
+                    {can-spam}
+                  </p>
+                </td>
+              </tr>
+            </table>
+
+            <!--[if mso]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+          </div>
+        </td>
+      </tr>
+    </table>
+    <!--End of Footer-->
+    <!--[if mso]>
+  </td>
+  </tr>
+  </table>
+  <![endif]-->
+  </center>
+</body>
+
+</html>
+
