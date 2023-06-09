@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/local/tampa-bay/2023/06/06/usf-ai-certificat
 webUrl: "https://www.axios.com/local/tampa-bay/2023/06/06/usf-ai-certificate"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Florida universities look to stave off AI in academic malfeasance"
+    excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology's power - and stave off the potential for academic malfeasance."
+    publishedDateTime: 2023-06-09T17:59:00Z
+    webUrl: "https://www.cbsnews.com/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/"
+    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2021/08/25/7e0af7b7-b883-4e71-8888-91f4a6d57169/thumbnail/1200x630/e39dd1ecc9fadc10750a0c64b128bd1b/snapshot-2-4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Florida universities see potential and pitfalls of AI on campus"
     excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher e Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
     publishedDateTime: 2023-06-09T16:14:00Z
@@ -62,15 +78,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "USF to offer artificial intelligence certificate to boost local tech talent pipeline"
-    excerpt: "The certificate is launching in part to strengthen Tampa Bay's local tech talent pipeline and build its growing startup scene."
-    publishedDateTime: 2023-06-05T18:43:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/news/2023/06/05/usf-artificial-intelligence-ai-certificate.html"
+  - title: "Florida universities eye AI initiatives"
+    excerpt: "As AI continues to grow Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
+    publishedDateTime: 2023-06-09T18:41:00Z
+    webUrl: "https://www.bizjournals.com/jacksonville/news/2023/06/09/florida-universities-eye-ai.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 10
+    quality: 19
 
 secured: "8wVet5j29hQSmw0ht4hBm1x+/6M0seOk8HOVWcMzATpwWyVze24ijm3mpga/jn0I4N2qdXYTtqzIMrcqeQWalfsuLwOcSu+pq41s8I/NWLSh5vF+ujRLe2wPRr1HUcjurhbo0IEiuj5I4DNvcstT9EAcuOnVpCwqBt5OF3HV7ce0FwUUjk5IpPK+g360qPQCYOUF2wwYxI/hOVChK05EQuQrE2Psfg1dGiENRUptwce7MGvDGcwtI4wFmrpx0ItgHTSwlj0Ds01ytW1btu3Hi39EmlAK+ykP05bdB5YMlwJhlnOBrcbF/8mdrunHbWkGVaRKJsbC23UYm6uIYe12oBhbjL47Pp+J1cxR1RUrEETsHKwvDDINTTiemLgTNjY7CqHBf9LcIsQlhximDHtQMs6QLUHH5Oz9pfrRcwbjFEFsLFANeguIYZ0hcU7AOMt6ghEBvSBw59K6yi0y3J9a37OPqGRHLvLGCGsT78nEasAGZYgpDXPAnHhs1oJ028VPL/3dCddtvBMMXn4VLxFFuQ==;m3fMJX+ffEkILxt83BdFvQ=="
 ---

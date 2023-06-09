@@ -2,9 +2,9 @@
 category: news
 title: "Rishi Sunak’s AI summit: what is its aim, and is it really necessary?"
 excerpt: "UK government says meeting will discuss ‘internationally coordinated action’ to mitigate the risks posed"
-publishedDateTime: 2023-06-09T11:51:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary"
-webUrl: "https://www.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary"
+publishedDateTime: 2023-06-09T12:01:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary?ref=biztoc.com"
 type: article
 quality: 17
 heat: -1
@@ -73,6 +73,6 @@ related:
       domain: abcnews.go.com
     quality: 9
 
-secured: "fOk7wfIN2vTdaFPG+KiGoOemrlolORnpJSa/FuASZMoyIqUqB6QWVIVKgdDmkGlVbgu7OnIS0yxud6pGxUyqhF3fCDPP5OWlodZAfX3wKGrkhHzc8McD+CW6yoYPKKbQO4UseIFLPfvZGoUwjA5rsd8IxWQEjgZ787TbnVbN6AP+6I+Bmvm1UZAa/UE+Dwk382nMS7VIhiPTeMgSxmw2o648R/id1kafysS56PgXp8FvoqJGLoETDYwwkD8cq+DUm4CGbtM3sKjH5sF7uh2mXNBy4OrnzfLS3nloKhJLmgxviJJGWQ7zaukrAEeRaseLoE189YzCujHzKyH5o24SLHcK7pzc1hz80qTOEFvdRClnfCFK0T0VN1LAk4bGHPCrzyixjAgrMVi0oX6mGs9duYNsvQmaS+avMCuMT0L3P9Q7Wz2dyt1CYe2E8QZRSFhyJzl8A6ysllzVOckeo1X3DsSiH69cZO5kg8sGls9wKHSOZRo1dFLlgANE6ywliVNsg99DqGsll/b23Lk896nH5g==;M2QXkzUgI9dXb+KfPMSZRA=="
+secured: "0E0tQ6L0cusvp7y9xzRp1GCtLXZUDBitDZmW4Z5etmH7Gqy8bWvomZSBdfiOWxdRkIfG8ZKDyDnuUCuoHtlBU52lxhW5vz1FphJ0MU6ATCHxMiZNSMzq0ZizyMrQ6eEAu//qq1opbAbeQ/xQloC9r7Zt1AUQV3uRQfXkyRyYQ/MNfxsDLswaH7jYkqyYTEflGaRMoQ3/r8yLo2LWuwp5SWgkOQjEtOQ6Aufs2s+EYdaNuf07mXvVAPYKk6Bvd2YzlEa4zTHN5hzy6NTT/FFewcP85IFPLGCVj7ygAldFKasQWym/ngCrra5hNPpHO463ja1cRfyb0Bf1cp3ep8zVYRveNRGQFyPkRl6Kb/oLznUh2xVifvxNWlf3fZgjKNZtLav0PEIRD/fxmF9l5PcnBm+9LTO6xtExzNsCaKhNE6F9+jfT+MGadbAxDFGZfmB8neTNYtYZPc1ggdcrFc5IK1RixS2YlIgbzkwc5GMYoGrUK9FC6i1jpiZx0CaIN6IrmjM+NROTn6PqHRLnpSgPvg==;9kUV7/wFH/u7MwWgqFj/RQ=="
 ---
 

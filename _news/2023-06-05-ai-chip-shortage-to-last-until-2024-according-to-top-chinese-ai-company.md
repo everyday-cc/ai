@@ -39,6 +39,15 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "The Chinese Tech Firms Pushing Boundaries Of Artificial Intelligence"
+    excerpt: "In China’s quest to shed its reputation as a land of copycats, the world’s second-biggest economy is pouring resources in to the hottest area in technology innovation: artificial intelligence."
+    publishedDateTime: 2023-06-08T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/ywang/2017/04/10/the-chinese-tech-firms-pushing-boundaries-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "ABeX4XOrN/n+9Xm+le400kl+oCbSLQRYL2hgrAUeJ1KLGcD5T1GwHBvAdwYmAdckbcHpKucPzkaJ+Dgf5DCfvt+Z6I9oftEqTee6ZcaCMorJYwL2hVw2JXrDwnABxQbYkGJUZ+wZ1iyaJyvVmRLDM8ExS3PfSweRcAnX9W36PqY2o7abeab+q9QI0+1E9tu564yiNERZNDseM7jKEiFbNTT/HUf+qPpbpjGaI3VazSQU1sOCEQaOdtK8Kh+POM+W90levxImFynKh7h7GeXTyCKJJ5D45Oq7rIV7bGpARfxHhlUDHwuJuB+GJ8+ODfL8VzDz/nE4d3jggTL1+ErOrVQfEkZXcsGsnpy7AcBJ2Dbv6lK6gg//2s0DVR5O++YrI2QFMYyGxAFb02sWm8tGyJEulhQNjsudw2N+HVsVRuRjxvE3xSVtcfZLvH8g5n+azvMDlLLV9XZgBrADUMmJA1hNuN/N5Ev2Lwiy4XsmSTKlX1+n/0VCo+m09bUN/geJuB2JRuzH1CgRAdPNr6MLFQ==;l8lckyJMlxp5PgxwB7yvGw=="
 ---

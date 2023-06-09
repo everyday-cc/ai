@@ -63,15 +63,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "On artificial intelligence, the sky really may be falling"
-    excerpt: "“Sometimes I think it’s as if aliens have landed and people haven’t realized because they speak very good English,” said Geoffrey Hinton, the “godfather of AI” (artificial intelligence), who resigned from Google and now fears his godchildren ..."
-    publishedDateTime: 2023-06-05T02:43:00Z
-    webUrl: "https://www.thestar.com/ths/opinion/contributors/2023/05/31/on-artificial-intelligence-the-sky-really-may-be-falling.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 17
 
 secured: "gzYMTchkgfzytn7rHHj9RlCYZEiWj0oHf1ITxWQoa/eGGz4tnqS3WLuTCgrlHEmh9VQg2cTL3B3OC8GDYC2Xhi5WRYVznmlLJ3nrvFJ26J9lMfu87mn5wqTSyYQtxivUdgAv6sRopoxVDpYW00109huczclqh1vpXKTK8SpOkAKdGZJH2Zl7anItLVVF7bEk5CJXB9/U2BqwtOCno17IgBlyWUn2MU3nzh+bPK5IOALSJKZdDOFsRbqvuVDXG4HtvCDD3VQJ29FNDCtJfCjYtXyw0j3dQCXn5To03rkpbIfUEw3cy/vE1ASb5+qx4LhzTS/WQNt6mjvGG+8UoqogE3nVS1yzT5wQKEeBfzkGUZXz26M/DLJHOvWzUUf0NSSB/K1RDisOMJWvU3JFND1N/lJxg1WXm3Ry9PGBySF072knsJjOSV8IzD1RnpGXTzOw2kS0QZAejrWe+hWrdeX78ViBmKCtTsf1fKgmW77ubtyl4RHoBqz68Dgt8P2sIk84DK3xOURZi1+QhrjJwjDPUg==;PSgTubwMG+EDDEP3PfnVPQ=="
 ---

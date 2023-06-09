@@ -24,6 +24,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "The healthcare disruptors exciting physicians"
+    excerpt: "Excited physicians discuss the healthcare disruptors driving rapid change in the industry, such as fixed-profit pharmacy companies, AI in ICU therapeutics and more."
+    publishedDateTime: 2023-06-09T18:02:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/the-healthcare-disruptors-exciting-physicians.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 19
+
 secured: "qB143dvfWSxzCMIK1CQuwx8jmuTewvWLhQ7yebT933/gqfu/zJ6MAfFeVzgrZunTfkH3h+OdkewjGWJ0mRlq8/qPwSvcGPxbyu8ykmwDAeOP3JgJqDRpP65NjsNqHSV848gDWQsznzE8sVdtmKEU6LChRvLWd/rZjhLAhbEatXrWgXjxLlW3rrlw6WiNJfyYsC9ueDsiyIJ3VOA8VdlC7rOziJMJUNkbykjPvpeIrNy6Ulp6Zl/xJ9afwdPDTgvDZo+hpayhXhRsorCQDENlbI5z36ZOQPOTDQhbO9fi84IlpOFFnYHFjoHx/M4CUvZ5awvT4rw027yQMUsR4zlipLOuQ1XOxQcp0o8z8DtIFtY=;LVfJL7SVqornnTUwk29XSw=="
 ---
 

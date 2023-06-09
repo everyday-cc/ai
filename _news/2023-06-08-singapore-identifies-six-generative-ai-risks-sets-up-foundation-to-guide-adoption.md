@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-identifies-six-ge
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Here’s What You Need to Know About the AI-Themed Singapore Fintech Festival 2023"
-    excerpt: "The theme for the upcoming Singapore Fintech Festival 2023 would be ‘Applications of Artificial Intelligence (AI) in Financial Services’."
-    publishedDateTime: 2023-06-05T04:05:00Z
-    webUrl: "https://fintechnews.sg/74766/singapore-fintech-festival-2023/heres-what-you-need-to-know-about-the-ai-themed-singapore-fintech-festival-2023/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 34
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Heres-What-You-Need-to-Know-About-the-AI-Themed-Singapore-Fintech-Festival-2023.png?x90673"
-        width: 1024
-        height: 567
-        isCached: true
 
 secured: "8XPomU1preIH0prUtB+CY+Z1LJhzQ+YnlF/P+P80hZtdNFjo78UREBwRkaGSduh9DagpNUnhC96igfqkSwsV2DNcbfDCKK3ZEtuSleA8oxRe3VREQSIl3zHeOzSY4Uab+/vMY10eSpZO5/EuZ0oWS9gKwUOw/1IcjHXlFyu9lQaJQzBtmkyZQRHgyOUJfrUNMqCL1iy9tpH2eGf1Di/u4GtLl994V44tpbrMpeHaEcU0itN53USs69QFkKqQZ86pw+tMXHGNVhtPk5phbUDbs125Q3qHqXHQHtMq9NtFi5g94ThOQX+DKmXYz9GTU88WKKvHoySCnP0vFxftsFvABhdj773DJCmjwyP1gzhZNYlQAU0Mu3IPyU0ICKS6Z7HfllasdCngQPK1nzjOcR8SjjS/V1LIt5pogRX2waFkw+XRi+WPqSKPF6vKGC6FvE6RBQY/yvPx98aIbAWhD7RSMJR7M6kgq2L3dC+KeGYQa8X1gRE8flyCIkXh/l2/iAZ5EJ2R7olCRiP5bjPz9e1jtw==;mVsqq61XLYibP/8LYHzO/w=="
 ---

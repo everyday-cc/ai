@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Has Qualcomm Already Beaten Apple to the Punch in Smartphone AI?"
+    excerpt: "But that training process happens once. Inference occurs countless times, as users may prompt an AI algorithm to process work for many years -- consuming lots more electricity on powerful cloud-based chips in the process. This is why on-device inference is ..."
+    publishedDateTime: 2023-06-09T21:27:00Z
+    webUrl: "https://www.fool.com/investing/2023/06/09/has-qualcomm-already-beaten-apple-to-the-punch-in/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/735629/smartphone-city-connectivity.jpg"
+        width: 4896
+        height: 3264
+        isCached: true
 
 secured: "zNaLy94FQ4cGaHobzY37ZLA8cuf8wC2S9Re+3TZwgtdIdGN3q1vUvoA6SfKGHua0MKzswJW6OCYF/xutcTSVXce33YuPh3BZQVmuHkrJf1hl3dE5+OFEsPEOfCpv0iMXrDPXKJ2uX3ka74B2N0ZjAtNXRzDyvMJKMkGQACicUF6uJi29amHbnb874erVEZhnqjX+asCTG7krIi2xkgcamDQsSRvowSTVtCeVoSKIwqggBM2z7uu4HU5+D851my9lhivCU/2wQYbVY15/bD64AzSHuMLN3Dp+A3i8pdkWJX27GqVyCLVEu8/lsVdCfZkfLNm4SgA40sKXpePVDYhrtqGMtsrflEvWL/nWppSeTdPmeoRxXVeCpBKnduWtD5sSKFGJIk9AakzGM7ZK729aUpQKrct0/x8H7VYVG319YFgEIfWeKUlxzTq5RtGBTxeNF5fK+kb19AZGPwopNnIHqb8N6kI42QNA3uosE6OLZmzZ30Wq45I0wOAjkXBfCHH7YlC4J6xNPQoz4XO+LzVTZQ==;MNkTfybYoTZc+oqO6bOz7g=="
 ---

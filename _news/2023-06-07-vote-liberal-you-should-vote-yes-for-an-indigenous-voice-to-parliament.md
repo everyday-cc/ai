@@ -30,6 +30,17 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "Vote Liberal? Vote ‘no’ for an Indigenous Voice to Parliament"
+    excerpt: "The article continues: ‘We are approaching a referendum which will ask if constitutional recognition of Indigenous Australians should be in the form requested by Aboriginal and Torres Strait Islander people – a Voice to Parliament.’ ‘A career in ..."
+    publishedDateTime: 2023-06-09T18:35:00Z
+    webUrl: "https://www.spectator.com.au/2023/06/vote-liberal-vote-no-for-an-indigenous-voice-to-parliament/"
+    type: article
+    provider:
+      name: spectator.com.au
+      domain: spectator.com.au
+    quality: 4
+
 secured: "GQvJmfKwPLMNwv1rM7wgtvmOaL8qIODYiwiRi9y8HZLx700b/gOv3oM4vvOSE6Y3pyxx3E5+cbqIyA4jR9nnWPEMiKRr7LTnokZa2SmcGf1bPObDVq64xAx6mhotglIQCJvXJMKrR6co8qh0Rh9awgPIWcR1uRqDQiizWJZzIC56rVixsOUr+TnTjqkv9WXGwowrEpiSRvJZX8SlxEKDLhMUQLqI2Y14qCPYWOhGxDUQup3t6svxqvAgNHfjrNO4ddBnCaZoxAugli9F+Rr368VoAmxEQbu/YIhlZmIaSlpjc8qbvaJzux9wl1D5hlSlE8wvRyI8qUvSmXWHrD2EouiH3/2x3Q8/G7SzJj2qG/M=;rBICMJ8/bY/zbsk6mlb37w=="
 ---
 

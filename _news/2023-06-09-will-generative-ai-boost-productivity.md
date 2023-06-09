@@ -34,16 +34,7 @@ related:
       name: devprojournal
       domain: devprojournal.com
     quality: 34
-  - title: "Generative AI’s ‘productivity revolution’ will take time to pay off"
-    excerpt: "A boom in generative artificial intelligence and pandemic-induced workplace shifts will unleash a new era of faster productivity growth across the rich world, economists say, though it could take a decade or more for advanced economies to reap the full benefits."
-    publishedDateTime: 2023-06-05T04:00:00Z
-    webUrl: "https://www.ft.com/content/21384711-3506-4901-830c-7ecc3ae6b32a"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
-secured: "VAdZZDMgIswzTdvMwhGaCbPFK5rma0OLAZKxViMPbwT/6F2L+6avZdffU6okCIfcsf4LcuW9H7z07gPuRQFbkyeeUzHFBC7EJg8iiDqvI3NQ6jbWTn7IoCmi18hT6miaZ2Mfu7wmVOWqsdJmQHtwAlaVLRN39oeGJgo93Pito99K9YtUJom7teuPoXePFeiOv0F3AhP/iaisGwFu+Io4xLXXeIrph8BSJ9dUHzPPSvwt/XKCOYanzVjcqMkvQ3rV2gJTFECPfFtey4wzYOYZ3LVWnU148JC229EzcOuBtDpoA+7XMRqUAA5zzNDWObnHSOkovNdrdVAYtsXFiZ5/GIgwjbZgL75dx0XmN+4P86c=;BtkbDIu1T5g//gkQJbgdPw=="
+secured: "0ZKraZT5ksVA3pA6VQGmMr7+HYWRehBq9H57Z5bx7kSBbpDJGTRUL0xcl/XL3d6fmTlhKKqFGb8VxsAEwvVNxEPe8cSPLE7b175l2Ks7oKKH8BuyMO/e+fmyfb0wcE4EjWcw6HcUSFmayDz/iJZ2GjjeTfA37FhO+MQUQyf+2aw5EfQcR8CFjeiIKkUMSewvb4bXn9YL77vFXRg/ZNRExuXtGkdwGwbI1NnArjs3XK4eSBavgRSk1+ic327Rqk0zFKap5cLrbBM9D03YdHi1i2Fl0IxA3BoIch4cLJNvVlxRsJ9py4LFLDrUVz6I4Ls73w5Mq7WJuK+SLsX2So7x8sYiuSeoDxfQTsuY7GSwY1rM3Pm+CnnQPvkvOxuzR49OOe1b83IhcNdcXwrvUuO6RhBrJNrDAUouUfSyyjFGiqh1oz1B+0yR5AW4HGat8KwK565P/i04/jbysNU+v5grWbndYjnOhh6/a5XNALQPXri4OxkXOrvOaDq5YsvtAlR+o7tbk/l46fQVLOclavAlTQ==;n15TYIElR6MHGCvBVOrmvA=="
 ---
 

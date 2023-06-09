@@ -41,15 +41,15 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Can artificial intelligence provide evidence-based responses to public health questions?"
-    excerpt: "AI assistants can revolutionize public health by providing precise and practical information to the public. AI assistants are specifically designed to provide exact answers to complex questions instead of web-based knowledge resources that often return multiple results and require the user to synthesize data."
-    publishedDateTime: 2023-06-09T12:05:00Z
-    webUrl: "https://www.news-medical.net/news/20230609/Can-artificial-intelligence-provide-evidence-based-responses-to-public-health-questions.aspx"
+  - title: "That Startup Run by ChatGPT Doesn't Seem to Be Doing So Great"
+    excerpt: "That startup being run by ChatGPT is still going — but from the outside, it looks like kind of a mess. To recap: about two weeks ago, self-described \"AI soothsayer\" Jackson Greathouse Fall took ..."
+    publishedDateTime: 2023-06-06T03:35:00Z
+    webUrl: "https://futurism.com/startup-run-chatgpt"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 10
+      name: Futurism
+      domain: futurism.com
+    quality: 2
 
 secured: "wuqu4z+9j1/ejhrmEFROBdqvOGULQlrv/dHsjkQv2cUMLdm0p2ZZL2UaZ1jiTMJ/9oD5EdZzxq7MYcNcaAr+dtJzvz8Cbm53dQgwsT63t8f/FW7Os1HqUxKOxrZm92adm0Db4rTmIhiq95n9p6wai2/hQsmdG8OBPXOeHD9Y93yb3+uzSiR6qPql4tXXSd6MvdTfYLvVr4nB6pK/rfhr5BFd2a3HnNexwIsPjo1a4R9Glt6Izw92E5utIg4GAHc1UHBn122cbQJJ5NKkc0JvrVtAOIRXwrb1f33KJMZEiDj50TOeuSvnnyLXSm0a2y1VThxxYbiIRoc6xTNBQoO+n5vYTLlKjbnaitzXOa91BjU=;TAQzgEWhX4byNyDcWPExcw=="
 ---

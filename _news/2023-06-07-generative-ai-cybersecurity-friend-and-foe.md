@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -119,6 +119,15 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 54
+  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
+    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
+    publishedDateTime: 2023-06-09T18:39:00Z
+    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
+    type: article
+    provider:
+      name: WWT
+      domain: wwt.com
+    quality: 33
 
 secured: "OdrVAFrvuFUO/tzJGjh/U0a6hDEEEwnJbCILiaVURRwXq3No76lWTwLa6LmRPn3Cjk3424kvDwqV03ctIw5zQEVf2H/aMhXQ2O2eM3FNHV3gjRtsYq6sXXD63CkyFNDRbzimIV/oIUG2ywjhricJ7C/qscwyqm8nKdzvutTnOGvhqegSExcCUjQx1xauxS9DtlkGqYJJlI7Rk+wjE1iQwdZoqjeFrYXH05+UyfuU9KR0dD3WCLHYRSo6U7j0zm41CQBdUFK8dgYtIM79V+W5cvAKeO/EsumnUIz9UtrhquVO09+hpmt7hAG9IGPzidgcDT81uAnFmEbmbGI3beszPpSKyP6ruJOl1QIk+D0w8i1QX4bN+5vRgu9VnTkporDcSzMY+RDjzUKB0alo0dbSXPEK0di7cRX+J+hIH5filXfpWCUr0WgysvNegWifZDBwt3MJTbT4illiJvuYmN7/tK1QLbdCv/fumj6B3oAhvWFBcTm4Z2HFGLPiPw4ZIMnjqHjIlKDvtgNorTGjjNZLtw==;9nWOSIy5zQUWlfxFmwcN+A=="
 ---

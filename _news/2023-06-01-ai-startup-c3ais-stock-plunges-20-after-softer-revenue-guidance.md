@@ -3,8 +3,8 @@ category: news
 title: "AI startup C3.ai’s stock plunges 20% after softer revenue guidance"
 excerpt: "The company's stock skidded 14% in the minutes leading up to its quarterly financial results. And when C3.ai reported mere minutes before its earnings"
 publishedDateTime: 2023-05-31T21:15:00Z
-originalUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=silvia-ascarelli"
-webUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=silvia-ascarelli"
+originalUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=newsroom-roster"
+webUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=newsroom-roster"
 ampWebUrl: "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 640
     isCached: true
 
-secured: "Evron9sJfufA5YIAiNUkC/y+vLurxs75JbdRjcdJs0otRDuEGhiBCsXTIqurzXAGrB84Ub3y5rJ0/FzDgNSOowYYs4p8jSjX2Ue9TsugtIzJsYSLrd70MNIpEd3DrGtpmmxFv4X5TZm6Fd3GWlMhvacxOHUgXckF3wgfdgz7HXZZKB/H7/8zmCNnCz0vkWFTrsTOZwAo4xIlpIEq/K3D0lAwkd11CGZKkcUdHNGE75zQVC7J7vEY7acgHdGrSWjhq3dLg2aQ6LqEHgmM8EBJVSHWocPyAnxHf5FwhBrPKxJSh/gIMEElmZ5HsYb+siKklLsEWy6hj8tgZZr2qEIBjB7RTwiNsPGvCZc/KNQX9Pw=;uVvsE6BBSlrhfuwIhkQRmg=="
+secured: "LsPRwZ1wffYI5EXXLoFsoZQCPtoM41Acuimy/gPQ6na5nTgU4bf15gmUgJ76PI03yX4aizWGzTSehOZpq7WV/RNVnfVjqgCiEBIZRmuvLWPBNvlpaQeVYHSaQUIJu90fSPBjE6o+d6CVdmwkruOcrxy6+IzVhoGu6OEXXsmzBOw3IzVyiSHLbWTZJUHIJLBtNLI3YY/MokQwaaiW4AKpoqlfxDpRDgUu1S35v7QACYu0Ft/vgeI0KjXaN6K8Oq0ATFHPGMxCTY1vxJVp4gSrHhQ0Z24mVtyA7AsW0H3Kpc3KuyX1MshIU7qDXwqzLIaVd8juKJ1Q2gFM15Pxdl7cAhy9qbcxUcvpHSHQGyanqYs=;Qqq672OOY+qJkGSSGHOBIg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machi
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/?amp=1"
 type: article
 quality: 70
-heat: 82
+heat: 80
 published: true
 
 provider:

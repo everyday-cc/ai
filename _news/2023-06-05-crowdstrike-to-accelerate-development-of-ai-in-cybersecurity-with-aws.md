@@ -113,6 +113,15 @@ related:
         width: 1024
         height: 787
         isCached: true
+  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
+    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
+    publishedDateTime: 2023-06-09T18:39:00Z
+    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
+    type: article
+    provider:
+      name: WWT
+      domain: wwt.com
+    quality: 33
 
 secured: "/8QbNJh+NcRlxHb+Bb1ZSVUFHtHm8VyiVzTEZNDDO2dk9EoTyIwzkPDj7fgqAABQTSlnIHVAOvuLOtdyVy59GctYBMIhDEbKoXKKrKF0XA4OH/sXr0+4+KEBRR1/Yh6SQcbIVZ/k/cRxLKrVn5w7RUsQHdTbItS/zqiH0dRHpxiC+N1RzjBJT3bbMFw1EBH4dSgSzSf6C1uwQzi8jE34WO+DYw0S6ZnA4c2a7HdbHvLpnGLWq8rpAipwMoeNIgmIpzrUeec2V0HcmMcOiXIetoy20sVLh+l35kIfqAcuYcMBsXG3VYOk3cwKlgjMP42Bqj9fz+8Y1ESGObMwYgoLMKuuXMlkqc7PhFVksmescfE=;nl7GOuNSzx9HKOqbJi8gAw=="
 ---

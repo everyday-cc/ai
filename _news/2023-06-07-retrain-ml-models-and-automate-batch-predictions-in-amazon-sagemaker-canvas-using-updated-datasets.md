@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/retrain-ml-models-an
 webUrl: "https://aws.amazon.com/blogs/machine-learning/retrain-ml-models-and-automate-batch-predictions-in-amazon-sagemaker-canvas-using-updated-datasets/"
 type: article
 quality: 107
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Host ML models on Amazon SageMaker using Triton: ONNX Models"
+    excerpt: "ONNX (Open Neural Network Exchange) is an open-source standard for representing deep learning models widely supported by many providers. ONNX provides tools for optimizing and quantizing models to reduce the memory and compute needed to run machine learning (ML) models. One of the biggest benefits of"
+    publishedDateTime: 2023-06-09T19:48:33Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 103
   - title: "Announcing the launch of new Hugging Face LLM Inference containers on Amazon SageMaker"
     excerpt: "This post is co-written with Philipp Schmid and Jeff Boudier from Hugging Face. Today, as part of Amazon Web Services’ partnership with Hugging Face, we are excited to announce the release of a new Hugging Face Deep Learning Container (DLC) for inference with Large Language Models (LLMs). This new Hugging"
     publishedDateTime: 2023-06-05T17:57:42Z

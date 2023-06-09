@@ -19,35 +19,28 @@ topics:
   - AI
 
 related:
-  - title: "How good is ChatGPT at answering tough health questions?"
-    excerpt: "Artificial intelligence (AI) technologies like ChatGPT someday may make a big difference for people seeking answers to questions such as \"How can I stop smoking?\" They may even offer resources to someone who was sexually assaulted."
-    publishedDateTime: 2023-06-07T17:50:00Z
-    webUrl: "https://techxplore.com/news/2023-06-good-chatgpt-tough-health.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-good-chatgpt-tough-health.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-good-chatgpt-tough-health.amp"
+  - title: "Google’s Bard AI can now write and execute code to answer a question"
+    excerpt: "Large language models (LLMs) like ChatGPT and Google Bard can provide some decent answers to certain types of questions, but these computers are ironically pretty bad at computing stuff. Google has a new solution to try to get language models to do simple tasks,"
+    publishedDateTime: 2023-06-09T18:07:00Z
+    webUrl: "https://arstechnica.com/google/2023/06/googles-bard-ai-can-now-write-and-execute-code-to-answer-a-question/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-good-is-chatgpt-at-1.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "What technology will have the biggest impact on healthcare, per ChatGPT"
-    excerpt: "AI and machine learning algorithms will revolutionize healthcare, improving diagnostics, personalized medicine, and drug discovery."
-    publishedDateTime: 2023-06-05T15:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-technology-will-have-the-biggest-impact-on-healthcare-per-chatgpt.html"
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
+  - title: "When You Ask AI to Write an Obituary"
+    excerpt: "Despite this fact, funeral home websites all over the country are now offering AI obituary-writing services, but you really shouldn’t use them. Not only is AI prone to getting details wrong or just making things up,"
+    publishedDateTime: 2023-06-09T14:29:00Z
+    webUrl: "https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: Lifehacker
+      domain: lifehacker.com
     quality: 39
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/03a7f0acbb16f94166fe2409a1f723f6.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "xGzkY6d0bBaeH+2NjtCGSbovP9tY25ZmyPsRIe/4WRql/7t5ZQIHxga1/yd32lDKvLxyEUrqaF/NlH9cO2svoYzmPyyCtLQICC+fDV0zy4dzZvljfC4seh8cW+EPpFtjzbhVjGwmgcACCqG2mflA/rABMxQBtNqLRsZumAOMWCJoAyhkKo/ILT/7YZe8FrQ7r5xO67t3utao4OLLfqiyTKwpAmoPyhNIKCwRDAQFVydrbkuzz2gY0uzYgE3QktUnxvE421kMSydjE6ESTdFccXW3ytVBaUpFK93vEMvh7fn6YUbYdB9Kfd/jaWeBEE4CM5pNhBW35aeaEKGzYgg0yoAzrYH3BmjJlB5PCTcLWsQVtZr0wupwwWHtpdkeYkXKq+l0LvSSe8enufRIFyR3A8T7m2C1vtMM8dPZrOmQT/3VJ8nqJB4bgu0ejor0KeYEPJ0oXp4RPQwsVuXriFSfzpMJrGn07EraRCB4SprCivahRXTAyUJIExJKscVaXpxzL7kWQUKgQ53angJ+Jxg/Ug==;ViMNerYzCakGptDYejj8dg=="

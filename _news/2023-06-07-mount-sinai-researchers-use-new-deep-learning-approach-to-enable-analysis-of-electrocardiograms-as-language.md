@@ -3,13 +3,11 @@ category: news
 title: "Mount Sinai Researchers Use New Deep Learning Approach to Enable Analysis of Electrocardiograms as Language"
 excerpt: "Mount Sinai researchers have developed an innovative artificial intelligence (AI) model for electrocardiogram (ECG) analysis that allows for the interpretation of ECGs as language. This approach can e"
 publishedDateTime: 2023-06-06T19:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/p32746178/mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/p32746178/mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as"
-ampWebUrl: "https://www.benzinga.com/amp/content/32746178"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32746178"
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32746157/mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32746157/mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as"
 type: article
-quality: 56
-heat: 66
+quality: 16
+heat: -1
 published: false
 
 provider:
@@ -19,12 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Mount Sinai's deep learning tool unlocks 'language' of electrocardiograms"
@@ -42,6 +34,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Jo4Zn/+7DsGYszIzPvVTiso06fHvZLE8X1C7IBm0P56MrAariw9KhRDp5cXzxdte6p6Qfm11gshbVXubUYZGJote3fOEtuOLHnYkiVcdNbdII1iR1h896lmoiZoN+9/5wzBPsxVd7irrRw7kLZK7mfDOJwQZBz4VONCbJk2VbnEnx+UcX5jp5LFJOswO+RQ1sNOyub3mDc3Ja6TSTJg2aKFH2RCqAXsbALQHyrRHQ/kxSpZwUqAMOeo6pIkEj0cXEreBhzUc991BnvkFROzPW9w0gwHuqYKG5VdljH8LT3LZjx6xihRoD1ZdQV5x70YnaTEYcvw21uZz/t2d3VBhF4WSskfwZos1J2GTfXzyqlA=;+C+Kk9VpUU9HYvHgF/Z3gA=="
+secured: "Q4A8nFLWLR8rT1BfdzEsHaO/w3+BjbcWNPj6+WsQKcKE3yKrQjPm2MLu/8j5jrb1PnQ4eWocj0tpsGQhFfM/dkH5bFNxYvUSzIplBLN3UFo2272iU9oSnS9JtUnyYlCcWoVVmb/x+JjvX8ELgTrQZuVo9xcQYfbK3/b0v3ACY1FWEX9T+vDfYdRa/N5VsfUyiHPDkJbOTCVsnHm942/i+alvO57luAytvhL3mNouy7htme9nOQT3c5ZCia3nOld7T6LOz8zp42Cd7M2NuJaLTffAUnw+gvM99q4VUXZ4GO6dB8xGODgbuZYRoo0azjehXqJzwbwSVz81abztQPari/KccweHE/UFxj2unPUx6kY=;jHTL4FZxhJX3otznoex/1g=="
 ---
 

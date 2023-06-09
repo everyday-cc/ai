@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Has Qualcomm Already Beaten Apple to the Punch in Smartphone AI?"
+    excerpt: "But that training process happens once. Inference occurs countless times, as users may prompt an AI algorithm to process work for many years -- consuming lots more electricity on powerful cloud-based chips in the process. This is why on-device inference is ..."
+    publishedDateTime: 2023-06-09T21:27:00Z
+    webUrl: "https://www.fool.com/investing/2023/06/09/has-qualcomm-already-beaten-apple-to-the-punch-in/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/735629/smartphone-city-connectivity.jpg"
+        width: 4896
+        height: 3264
+        isCached: true
   - title: "Qualcomm, Mobileye, Other AI Chip Stocks That Can Thrive. It’s Not All About the Cloud."
     excerpt: "While Nvidia is stealing the headlines, there are others players in the semiconductor space that can ride the artificial intelligence wave."
     publishedDateTime: 2023-06-07T12:31:00Z

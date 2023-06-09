@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/this-ai-powered-platform-could-predict
 webUrl: "https://thenextweb.com/news/this-ai-powered-platform-could-predict-the-next-big-flood"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 49
+  - title: "AI Craze Could Power These ETFs"
+    excerpt: "The universe of investable assets with ties to artificial intelligence (AI) is commanding plenty of attention ... Inc. Todd Shriber got his start in financial markets as a reporter with Bloomberg News. Later, he became a trader at a Southern California ..."
+    publishedDateTime: 2023-06-09T16:36:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-craze-could-power-these-etfs"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 49
 
 secured: "/imqgnhvFgSaB8heWN9jLcRmF5wIdLEJ/AcG+79rh4rkSny1T+cKT+QeHTLQRJbgUMpyFMvGpy7tGxj396pMoJtoJc6faHBXxRsJ38QveOuzFrfk48t/zDPtsoFaH1bn0YQy2/POUs9lli8BzEfeYo4a1IA9LkGdEBFX0BqJcETL/XQsY9KAqg9pbinLLvrfZmmB9Qc716odSiKhdrv90gO0zpXrEsjvTYUXvRjR0k8dJ7TTsyz+ZR0uYbjBBImyEEgd7uAMv811CO4ihS61t8znUSbexAMKntXVFSTuJSWsnZZjfPwxXrG94cL7r6XkLDCh6l3TDX2rnGd30aSTdqhtotnBaLvQ26tiZXGdDvY=;kS00NNzSS9BGiQXY47qRfw=="

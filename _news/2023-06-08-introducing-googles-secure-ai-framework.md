@@ -43,19 +43,19 @@ related:
         width: 800
         height: 389
         isCached: true
-  - title: "No, Google’s AI Isn’t Self-Aware, Experts Say"
-    excerpt: "Spread the loveRecently, there has been a lot of buzz surrounding the concept of artificial intelligence and whether or not it is self-aware. A popular question that arises is whether Google’s AI is self-aware."
-    publishedDateTime: 2023-06-05T01:27:00Z
-    webUrl: "https://www.thetechedvocate.org/no-googles-ai-isnt-self-aware-experts-say/"
+  - title: "Google’s Secure AI Framework: A good start, but a lot of work ahead"
+    excerpt: "Google plans to work closely with government standards agencies to help develop the industry's first AI certification standard."
+    publishedDateTime: 2023-06-09T20:25:00Z
+    webUrl: "https://www.scmagazine.com/news/emerging-technology/google-secure-ai-framework"
     type: article
     provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 39
+      name: SC Media
+      domain: scmagazine.com
+    quality: 37
     images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/04/b0f5c7463bfd4278c3351d578ed9b373-20.jpg"
-        width: 1500
-        height: 844
+      - url: "https://files.scmagazine.com/wp-content/uploads/2023/06/0608_artificial_intelligence.jpg"
+        width: 1280
+        height: 800
         isCached: true
 
 secured: "8KTOWb/0VO92LceR+AQp4Tdw3fxE80SD5HSUaaEBHlqkJ8lV70QbeDibHZoYc1r7KarYUS0wdtDVz0TgE5BY0KgNRgjBVrxjW7K9eByX9mBUnlcQPeqqUiNxVbwdQg1wUGG+Fr5NDjiC1vZRf5e47zpg2P/6CAC5sYs5XCjd0oCW+Sp7DzYYOpoXNzoa14oMtg0goWIr+c7+N8FHXzwkJSEGfDGL/Y085nBhE4WUE/T+/i+SaRJMo9cAZlXWLNIs8uQAa1mV3EBWATj5to09e8IapdolwuL48L07Nlyrpxnxu4ahQpsj7Ke6vZvzHfvMtubaNwTyBIba2TeraYncR8S8py0DHieWlkJdMZ1y908=;nHTwk8JxmXtVIGJzCJTokQ=="

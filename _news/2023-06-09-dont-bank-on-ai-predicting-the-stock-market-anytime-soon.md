@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-mart
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
 type: article
 quality: 104
-heat: 144
+heat: 136
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "On artificial intelligence, the sky really may be falling"
-    excerpt: "“Sometimes I think it’s as if aliens have landed and people haven’t realized because they speak very good English,” said Geoffrey Hinton, the “godfather of AI” (artificial intelligence), who resigned from Google and now fears his godchildren ..."
-    publishedDateTime: 2023-06-05T02:43:00Z
-    webUrl: "https://www.thestar.com/ths/opinion/contributors/2023/05/31/on-artificial-intelligence-the-sky-really-may-be-falling.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 17
 
 secured: "K+7Vr4gUl16dcinuuvLByx0Ya8eYoXmYh3OI3s8qY1JKXmI5ZsmEqAS+FNn0usZAVV3BdOKkUjr3mwjn7EEn3JDKrF6cTZe+OKXCraMesRilEiZl6QkwPK4s810nahWIk7kx1WRpec9jiwKVHCF9VGzSo4ezszy43Fm67zMzRfsJkPLd4vkgvwFks3IkylkVciesAZ5VfyttA0PUDF06fX5yJqu6TpYGa7wnG7pE3HQ45wDMhbdLRP2ohpCNZ2fJqI2SoRWOJ3q65QAlvDOvjKcFdR4th9KlODbtgOA3TWB5Yj/2okcl4Hu08a4+reV4VFw8YQzxfIc+4I2gsfcjXSy+4fxEF9wWHJ9SA1XJ0wO4SenSnc/GaDFwqDqzDBGj7Vct+ID09jpF/lXcIJjky63Ka18RUQwydNLulDEus2WyGv+3v8MtPvFtevTDznHPibOQ7n9TZ7GCOLbWu9U1tUXevFDoPocmLbyQK+fIuVuFZGhVmaa8c6gUKDjBMvYFGI4kQLfw/QT8scXgn8mqKw==;wyRtVW1a+5oXZVVGhqVfrQ=="
 ---

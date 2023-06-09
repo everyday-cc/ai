@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "What To Know About Generative AI For Customer Support"
-    excerpt: "Its promising results include enhanced text summarization, translation, question-answering ... systems can answer the question in more than fifty languages. 4. Cost-Effectiveness: Implementing AI-based customer support systems can lead to cost savings ..."
-    publishedDateTime: 2023-06-08T11:02:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64808b0b0747fc9f7c17834f/0x0.jpg?format=jpg&crop=1457,819,x89,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Apple Ghosts the Generative AI Revolution"
     excerpt: "Apple unveiled the Vision Pro headset and a number of AI-powered features yesterday, but largely ignored generative AI applications embraced by Google and Microsoft."
     publishedDateTime: 2023-06-06T10:59:00Z
@@ -104,22 +88,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/analytics-g6fbbe52da_1920-e1633121636347.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "The Future of Generative AI from Google Cloud: What You Need to Know"
-    excerpt: "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that"
-    publishedDateTime: 2023-06-07T09:19:00Z
-    webUrl: "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    type: article
-    provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
-    quality: 59
-    images:
-      - url: "https://img.jagranjosh.com/images/2023/June/762023/google-ai.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
     excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."

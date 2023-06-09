@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/06/desantis-ad-uses-fake-ai
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/06/desantis-ad-uses-fake-ai-images-of-trump-hugging-and-kissing-fauci-experts-say/amp/"
 type: article
 quality: 83
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ron DeSantis Angers MAGA With AI-Generated Trump Attack Ad Images"
+    excerpt: "On Thursday, Trump supporter Laura Loomer tagged Elon Musk —who hosted DeSantis last month on Twitter Spaces as he announced his candidacy to become president in 2024—as part of a tweet request to understand why Trump supporters receive a \"community note\" when posting about DeSantis, but the DeSantis War Room video did not."
+    publishedDateTime: 2023-06-09T21:12:00Z
+    webUrl: "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687"
+    ampWebUrl: "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 87
+    images:
+      - url: "https://d.newsweek.com/en/full/2244911/ron-desantis-angers-maga.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "DeSantis Ad Showing Fake AI Images Of Trump Hugging Fauci Enrages MAGA Supporters"
     excerpt: "DeSantis and Trump have been attacking each other’s responses to the Covid-19 pandemic as the 2024 race heats up."
     publishedDateTime: 2023-06-08T22:36:00Z

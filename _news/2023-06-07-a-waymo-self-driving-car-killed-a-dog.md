@@ -55,22 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "India's first self-driving car unveiled, startup plans to emulate Tesla, Google"
-    excerpt: "The Bengaluru-based AI startup, called Minus Zero, unveiled the zPod self-driving car that claims to drive itself in all environmental and geographical constraints."
-    publishedDateTime: 2023-06-05T04:35:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google-41685937249629.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google/amp-41685937249629.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google/amp-41685937249629.html"
+  - title: "Tesla driver hits a dog, claims they were on Full Self-Driving Beta"
+    excerpt: "A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times."
+    publishedDateTime: 2023-06-09T17:33:00Z
+    webUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"
     type: article
     provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 55
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2023/06/05/1600x900/Minus_Zero_1685937382520_1685937382698.png"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Electrek
+      domain: electrek.co
+    quality: 64
   - title: "Tesla ‘Full Self-Driving’ software testing in Australia – report"
     excerpt: "Tesla is quietly testing its so-called 'Full Self-Driving' semi-autonomous driving software on Australian roads, a new report has revealed. According to Teslascope – a service that tracks Tesla software updates and vehicle changes – the US electric-car ..."
     publishedDateTime: 2023-06-06T00:56:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-09T07:05:00Z
 originalUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/a45f368e-06be-11ee-b74a-5bdd335d4fa2_story.html"
 webUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/a45f368e-06be-11ee-b74a-5bdd335d4fa2_story.html"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-  - AI in Robotics
 
 images:
   - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
@@ -41,6 +40,6 @@ related:
         height: 800
         isCached: true
 
-secured: "5fZclx5Ae+tScxdba8O8oJ3Qr2glqZObUDuvbdBQJETqkgRYCA0BYC3IZMn0YCCQKXFlJir9AjiHN+wq/LbUZKwgUMsc9u3M3qn6M4GB6S5L9maqBprfbBEzNjcq9T6NCRHT+1Jb5mgxSo91tV5X82NkIELz2smM3ffxIpd5dQnr5q5+BjkJi9Ra1I+S7xsLeaNMrB9Og4WYcotuFp2G655QDJRX/Pluc3VTbUf2Wd7xfpIgoi4wKnlteSD08Shd2WZ6ljbjBj1Wy96IlLU6gq/0pR1EoVTEicvDbjqv3vdUdH2CyRmyJzB32rnuZjAwEZoswj1uQl7G+Hdmq4lWGyJ7a6uaoMJQ3uLpR9auNnY=;7LLYjfuPhF6sZiIsKfjSYQ=="
+secured: "eyXKTcnJ1IXFL6o4YwODacom8PI/O6/shaxfiwGz+AKCX3LtYLG2niaCqzFJFgN1vgYs/sBWZpscIqORDwb9DbGdhnHV4yMJPHORmIBr69DXJn27Ld/oHIdu2Moj6AHrj+qhI8l/E0oYG2SrhWdpd0TrT5RUjkpFJJ58H2uMO3x8vR0r0t8AdKyjFAwHeXMI2n8F6Ti3XVRv7UP4qVXH529Qt4p7VzwiqWApKt0UEVQMiKnvMgohljzDA+HpsnLvuIaC050RkzclDeY/ZYSTGFYiy5+zq9ptBR4+pubwFnaFdqsN/ScH1hYKcfPiIZiGYqEwfZBcKOYDkrh2dzExdJnJcRFvmnvH8Lj2JeM2I3M=;iOcatG9b6Yzfb5ErP8rCmA=="
 ---
 

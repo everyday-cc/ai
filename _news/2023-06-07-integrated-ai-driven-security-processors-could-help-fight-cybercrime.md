@@ -115,6 +115,15 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 54
+  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
+    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
+    publishedDateTime: 2023-06-09T18:39:00Z
+    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
+    type: article
+    provider:
+      name: WWT
+      domain: wwt.com
+    quality: 33
 
 secured: "oIeDMNivLI04odrBPR7noY5IiW1PpfL6uJT7Jay+XWApOCt7r1Jncrwb+K/3YRsbZnIQadZbtLavlS0uagj9oGFBQC4J9s51IcBRHC4ud+duunyg/bu9BphHTlRu9n/yyDjplQhYdNZAVZU78US3w5Pl+9VaWpEsBwNBqemsrKE6zi79towbmjXSSYEhkxdZcTet7SaMp9ckwMPde3D8GnTamGFDcmFSFPmkp93doXPPm3lAlZa5a+GH7cD0WcjLPLbjaF6eyCjEBSDrGQZpGmx1Ct56McqzSOglWY2652R4s7jDXMXukE3A+JFh6b4uZccfK1o+mJ4aqrY9pqXZiQre4ksPzjIf4zvMxJZGLHc=;Q05DvHjfSpZTmuibi6eOnQ=="
 ---

@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla driver hits a dog, claims they were on Full Self-Driving Beta"
+    excerpt: "A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times."
+    publishedDateTime: 2023-06-09T17:33:00Z
+    webUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 64
   - title: "A Waymo self-driving car killed a dog"
     excerpt: "And a self-driving car killing a sweet pooch has the potential to kick out that third leg. It also comes at a critical time for the industry and, specifically, for Waymo, which is expanding its robotaxi network in Phoenix and gearing up to charge fares for ..."
     publishedDateTime: 2023-06-06T22:02:00Z
@@ -70,22 +79,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-10/fc275060-2ddd-11ec-9df6-28e42309b04a"
         width: 1062
         height: 597
-        isCached: true
-  - title: "India's first self-driving car unveiled, startup plans to emulate Tesla, Google"
-    excerpt: "The Bengaluru-based AI startup, called Minus Zero, unveiled the zPod self-driving car that claims to drive itself in all environmental and geographical constraints."
-    publishedDateTime: 2023-06-05T04:35:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google-41685937249629.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google/amp-41685937249629.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google/amp-41685937249629.html"
-    type: article
-    provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 55
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2023/06/05/1600x900/Minus_Zero_1685937382520_1685937382698.png"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Tesla ‘Full Self-Driving’ software testing in Australia – report"
     excerpt: "Tesla is quietly testing its so-called 'Full Self-Driving' semi-autonomous driving software on Australian roads, a new report has revealed. According to Teslascope – a service that tracks Tesla software updates and vehicle changes – the US electric-car ..."
@@ -125,6 +118,6 @@ related:
       domain: texarkanagazette.com
     quality: 0
 
-secured: "xEultBrwyFKZNOm7CQ8t1bSN8EzZR7LvReDLk9quuDPwWN0wKTpYhu5kZ/a4/ZMrFCOUFz7ccnW3yet/AjnMnaasYwhkN9F6HR3rvNNOMIjbzZbw1HbVYIdYo2gvzgif41NplEQPDxVBXZz+hzelCUl7J33XYTDqDtwt8YXq7pWiUXBxmgzJJm0erQEg89sEjm7Dt7qMavIJLR2NKNdz9f9IAbzE6nUV3HKFPbDeP+BnW5JJpsx0h6c+8OopAZXQPUgJ4cLrPXgLntDVLZjdsNYU9z88MTfEM48/7vqy944tPOgZsd1MS8Tkh6IF9EsKvvZRL2CghJzPC6Sy2i388IjPRMe6Echbvj+rq0NWa5o=;5iFyeePTJ6S//4yuJn3G7A=="
+secured: "uSJ8CbLdq+a2ZssSwOFnctCm/2RPCpHegJxoxcnSmO7aCY3j208MdCfLr+CpS8IazvDRyYPuezIQB3t25VFFR///qQ9aN1OGGdEE7QA2eTjmW5fWAFXOhm7vHDdpseZ5xj+zuKLF825XO83sbS9y0m3VYEc2JAhD8EG0nruEt+jF3qu51UZxPzAGO612BS3PwRUp+esbeom8Yusfe/h/SlwISDSXFO243E65Gc8TR4vOWY4gPUNl7mY5+SqawsHgb+x3uXr+997lJBCAHEIe+AmUJiskjgnmAu5CfQrsSZjLp3XgC13/X8sw14tnJT6QzMlEThrFviN53Yyzi3uyHD2WN4umTJj3ljB5CcIj6ZzdKtbhJ8iLYXyoO7KSlQPAAxayWNZujkfGRSfmdOF2RTOQHuRVhq4RxdLrmSzT+qsf4gJ/3ZaPZfskwR/+Ih8NJeUznkUfhnAYAxVoW39N+AOkXFIqmGFUm6aUCGbutH+zQ/gMkqzOx367kDK0kVPYY4ja09ZGDHGvLIH4NzHzlQ==;i4LE/3BeWYY2E62IkO6/Ww=="
 ---
 

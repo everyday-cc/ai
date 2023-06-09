@@ -57,8 +57,8 @@ related:
     quality: 17
   - title: "Rishi Sunak’s AI summit: what is its aim, and is it really necessary?"
     excerpt: "UK government says meeting will discuss ‘internationally coordinated action’ to mitigate the risks posed"
-    publishedDateTime: 2023-06-09T11:51:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary"
+    publishedDateTime: 2023-06-09T12:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary?ref=biztoc.com"
     type: article
     provider:
       name: The Guardian

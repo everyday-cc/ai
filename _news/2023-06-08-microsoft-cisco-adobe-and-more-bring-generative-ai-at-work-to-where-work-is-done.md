@@ -165,6 +165,15 @@ related:
         width: 900
         height: 599
         isCached: true
+  - title: "As Cortana Retires, Microsoft Brings AI-Powered Bing Voice Mode to Desktop"
+    excerpt: "This new voice mode makes it more convenient to use the AI-powered Bing Chat since you can talk to it while you work on other stuff."
+    publishedDateTime: 2023-06-09T18:37:00Z
+    webUrl: "https://www.pcmag.com/news/as-cortana-retires-microsoft-brings-ai-powered-bing-voice-mode-to-desktop"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 62
   - title: "Microsoft launches generative AI service for government agencies"
     excerpt: "Microsoft's Azure OpenAI Service will allow departments to adapt generative AI models for tasks including content generation and semantic search."
     publishedDateTime: 2023-06-07T15:03:00Z
@@ -241,6 +250,24 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
+  - title: "AWS Unveils Unique Approach to Generative AI, Setting It Apart from Google and Microsoft"
+    excerpt: "AWS is making significant strides in the field of generative AI with its distinctive approach. By focusing on customization, fine-tuning, and responsible development, AWS sets itself apart from competitors like Google and Microsoft."
+    publishedDateTime: 2023-06-09T18:18:00Z
+    webUrl: "https://techstory.in/aws-distances-itself-from-google-microsoft-unique-generative-ai/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 42
+  - title: "Microsoft moving some top AI experts from China to new lab in Canada"
+    excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
+    publishedDateTime: 2023-06-09T20:00:00Z
+    webUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 36
   - title: "BHP and Microsoft use AI to boost copper recovery at Escondida"
     excerpt: "The use of new digital technology to optimise concentrator performance at the world's biggest copper mine in Chile is expected to improve recovery."
     publishedDateTime: 2023-06-07T17:18:00Z
@@ -292,6 +319,6 @@ related:
       domain: techreport.com
     quality: 11
 
-secured: "PjPVWSkSKadDaCzc7jLYWj6U7vmrXnUZvcV+lhEzyQou6TsRApKLLAVsth+IIrYnT7ez/onF8NxT7l4kdiIkZbnqtcTQhrrz4PVnFk0FMgh5Pi4DEx7vXx/G4AypNRIgEL/RLDYuEzR3syrtOAkLVL+ecr9PwUtcAA6GaavgwCfqUy4iNNZWhjJQBCk9RvZlcfk8TiNGjhlfD0f2iMH8YnTyPHHQw0UgA8WgLe6qxVUB9GXNS+Zi7TfuFffVltgYreMgGbNcqOysmNQHKPlqEqYkGVCbDUAYPR4FppUAhLbu15aPV+f527jrdsQQ2NL7jEt9Ai4qErAq0VyezOddc+gsEYF+yOTbLOoBuy/FAEI=;vgn8ppy9OGdFKfN19OE0ZA=="
+secured: "X1UJ9p6xnrQ09Weu6lPYZjiUPzo7x949xDKU9F8zLyQRO3yzNDFIZ9xxcPMZCq9t2G2VH4RyluCmycBYVYVLLZl6S/H+9q1P0FHGoF/THE1pKbpLoF1EsoGBb3F9U8apro/YkJOE7J6QUCDHiGoMCW1WxznUWR/I6QtQlRuqKw6thlVNDWELT7DHHd2NKi16LexMFbtnNIi+u57giM8xEPit5Zd1WZ2BktMnKnO0saUDlV3uBQBizz4fdLuSUOgtavGv1GbUCvgyqGNBs8SQYix+KG9XIj0hjzSycga0pfJYBoINOtusc/cSEXICWpDvKJff3fsbNf7zMVtYncJBphHhZOuswp/1wr/yyWqx4lncgpYNkBstFqzu6rMQEsolb5Tkji7rNpxYY+TkJWjpGv+3MBPNCz2GEJd8U3XWo8DyTy9QkrVygLbk1MIB+J2PHAdbELI13wt/iYNnRo+UDGq49AslVnSRWUsaMKPrSLoToDpaZ8uCxEuESioirR96ha4e/GOede6jPcQrRp6HVQ==;goGsz79I9dwcolB21zuGQg=="
 ---
 

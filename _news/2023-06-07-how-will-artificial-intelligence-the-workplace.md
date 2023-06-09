@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wwlp.com/massappeal/how-will-artificial-intelligence-the
 cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/massappeal/how-will-artificial-intelligence-the-workplace/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Duet AI for Google Workspace: What is it and how does it work?"
-    excerpt: "Google has unveiled a new basket of features for its suite of apps, collectively called Duet AI for Workspace. Here's how to use it."
-    publishedDateTime: 2023-06-05T03:14:00Z
-    webUrl: "https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-duet-ai-for-workspace.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Bored at work? How AI could come to the rescue"
     excerpt: "And I also think there’s gonna be a coming massive resistance to AI. New research from Pew suggests American workers overwhelmingly reject the idea of using AI for making, for example, final hiring decisions by a margin of 10 to 1. So as AI enters ..."
     publishedDateTime: 2023-06-05T22:02:00Z

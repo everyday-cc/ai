@@ -50,6 +50,29 @@ related:
         width: 1463
         height: 2048
         isCached: true
+  - title: "AI Music Generators Make You Feel Like a Maestro. Here’s How They Work"
+    excerpt: "Instead of yanking the rug away from producers, these tools can actually streamline the music production workflow. We put together a guide to help you get your feet wet."
+    publishedDateTime: 2023-06-09T20:19:00Z
+    webUrl: "https://www.popularmechanics.com/technology/audio/a44109081/ai-music-generators-explained/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 37
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod/images/mcrisara-robot-music-producer-sitting-in-a-desk-chair-at-a-desk-cb859b1a-ee11-442f-b197-9467bda35584-647f916bcd882.png?crop=1xw:0.8921568627450981xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "5 Ways People Are Using AI to Try to Make Money"
+    excerpt: "Start repairing your credit today! As entrepreneurs, corporate executives and investors race to figure out how to leverage artificial intelligence to make money, folks at home are also wondering if AI tools like ChatGPT can help them get rich. On social ..."
+    publishedDateTime: 2023-06-09T21:05:00Z
+    webUrl: "https://www.charlotteobserver.com/money/make-money-online-with-ai-chatgpt/"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 17
 
 secured: "EEfMYFQLHTnXNlrt+sa4fURaYcfMbNWJyxcOwBbv0phwziuwGcy/nfShBmfkeXH3yV5m+EdqWvKI83wm2wSFQUz14KM9Pb4hwvfz6odXesvnc/smSMkiu+kdtsFOxNxx2/QKfPt1WmEsAYfbnSuY2hQlkvLPAa+loZcweZi2IFQfYFUBgNxJNUxdJjExjd8AXL4WqfDVqNkc26BcxskgI3wJExgVUhz3fMtxvqZF8O+hh4NPNE6RYjpgFZX8OM+eJiQOokGJTz1j6caTaFBdhj4mTx2qYkHJEbL0KRSPWI5qp6bFZfWNwsDl0Rdyah9COKHy27s9iEXoIjLdeLYDP9TFCwNKjIwUQ86PmLLlvrGgy5/F0dgaF1AjxAvreF2kC0NsmHZQhFkDgroaBZLGBLrprlJIzRn5He8XuvSFHmTkzE8i9gSR5A1dfwpKBv9YA1p6iQJlLK/EVqsBqVaV+uQra2lYw35F4uLyfXxvXgtX+L/uf8IiyurIuA8wdP1wxp8Lzv5+lzhnXWoAboco0w==;S8P6VI7Mfh2y3ny5oBQTUA=="
 ---

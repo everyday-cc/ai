@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Era of artificial intelligence in India"
+    excerpt: "Ishant Gupta In today’s digital era, technological advancements have revolutionized the way we live, work, and interact. Among these advancements, Artificial Intelligence (AI) has emerged as a powerful tool,"
+    publishedDateTime: 2023-06-09T19:11:00Z
+    webUrl: "https://www.dailyexcelsior.com/era-of-artificial-intelligence-in-india/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 19
   - title: "Nvidia’s AI software tricked into leaking data"
     excerpt: "A feature in Nvidia’s artificial intelligence software can be manipulated into ignoring safety restraints and reveal private information, according to new research."
     publishedDateTime: 2023-06-09T04:00:00Z
@@ -154,6 +163,6 @@ related:
       domain: siliconangle.com
     quality: 15
 
-secured: "KxaA8FRVH95wH15yKYd3Y9ICZUyETdXA+VjwMnLZC0LNmR2p1q3PIAo4ilpmy+e8XsU/S7/PBQBGkahDrS5iYtXQwnbW7DHG148ILQJwu0eqa6ek9i9Uu57xhzSNjDLuoTbdYgVgeSZgr8BuJrlaujF2rjPh9PRNdhDPdnb8cuGFnozfwlEowhhail7zL7TCH7ceqNlSrLE1c21+7rEiEOjAFGn46O3OjI3jbUrT6ZYQEzBiEl29KLb8KfcF8oZzPY3/Avfs6cmX/HMejLA4qDBYofjgg50jS8dXVku1RT0ESXZd+NIXVokK+aFYOveKJYenuNK7ftgrcwQR3MWowsV7qyOLksmjj4hxcx7AJQA=;jYiSSMXHsXM8R12Fja0CPQ=="
+secured: "KrAijv+TbXgbYEng4w+j1GAsWxe7GLsl7rW1LGafhBOQQMQGwgXIkh7byqDL9q7iZHkLbspsGv/5OvYeAsH5AEzo9AIbDOGKEnqf4NAueFABRZWOXO0TvonqsLvjPmo1C9Chb3FIKrbqWLCYP57M2bECdn2+tY5SRMnNOZ36cclTvFG3ximBBN/ylZVq0vrIAyfd+F0cGD8ruXV2dEuT8MBNAHR4Q/4nhcxXN1TkU+PWACfwnXXqBG4YmmovqW8ZK1Mfddwz1c2cnmz4dIx1D1uPnmU+dwPofyd5xuU/oNJVSL96rKF7a1GC36cyazuwvQBZWcItG1E+/adQpCONT0m/bHy5yP9U93i6AF3/1a4tJ7gpyZFjKvVv2BuN7SzrBbbkvjUF/EcmGW/WrpVVdVgjx1DKccvBToBe8bJn/cuiCfqg4JBdYDm3R44/5n4OYCxxDdA//c+bTXI+Nvv6LbxVXfLqWwMHKqc66DTDboMZ0Qfas8LuCTp+/JryMCMGT/fOkGZfvFRSXUgiYOkDIg==;jG7piubZfwyJZgC+1LMcsQ=="
 ---
 
