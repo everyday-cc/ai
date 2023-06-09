@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta exhibits new AI tools similar to ChatGPT during a company meeting"
+    excerpt: "During an all-hands meeting held on Thursday, Meta's Chief Executive Officer (CEO), Mark Zuckerberg, disclosed a proposal to integrate generative artificial"
+    publishedDateTime: 2023-06-09T13:53:00Z
+    webUrl: "https://www.onmsft.com/news/meta-exhibits-new-ai-tools-similar-to-chatgpt-during-a-company-meeting/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Image-with-the-Meta-Logo.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "ChatGPT teams up with humans to develop its first robot which can harvest tomatoes"
     excerpt: "Researchers used ChatGPT-3 to develop a robotic gripper for harvesting tomatoes, in a first demonstration of the AI tool’s potential for collaborating with humans on robot design."
     publishedDateTime: 2023-06-08T11:32:00Z
@@ -51,6 +65,6 @@ related:
       domain: theaustralian.com.au
     quality: 24
 
-secured: "nhnEL9RTBTz8l+prNCIhelia08GrTtSnr7ISGtL/lJF8YC/czBuEls6nL0XjwuXnFJPxOJy0MdaPgyXIXMhTI/7XNX4VYIiOEvjVxjcC9KJb4UTrgHVOy934hmj/X0mnq4Pp9jp88wjZS7OqIMJF+Rlr0c5Izh76F7VTgoZfS4rGfK8bLCgisc2Gss9KsFEhQcTsfmYFBnEHGiYsCsrb2wBieo5GW3F87GH0RVXhUhPyDSQANRmdcXTrL3baibcR7rJfPxyhYz8Qb4JTyI2DluieZ+tF7/N2yt5WVc/heAtqlKKicAU6bLrwmJHPK/dBmx9ou/Zcpv3EhrjLNpTcD1t//JhujyQR6dP0wbL8OBk=;bfpbNG9xoQSAKQeCV27Z4w=="
+secured: "oq/E7p/x5YFJ+ia+slUlAIMXXMswgUZ4j8x0rAPgz0LHdvqJ5ByTMnrzHQVoIFxVCAkwHu+fZuCOhlEX2YTfZwcFJI/QYGk1m9V/7a9Yl8czj95cV2yyEVCzlAXxhYjECacdrRDfTlq2+/0VOO6ZX4sqbPqAheVNLP0OfdrDIQZHqN238jQcp17jNepJmopfbEj9E1aIci9Y2m7MrWqOdzVs595qm11bikwtdC7rHp3KCYY6AZtoKWb1PgGwQNgLWfPknzfLSTnC/IqHr3iyjBhiAnYxHhBCkiAVG+UqGKqVMRrwHugksAUYYi7XPMmMllJI4/ZCkv1BO52dES0+SUSQesCYGQ7Ouhho2QILwLwH/IT3i05CTZsV2YjWb1sCgKdGFszAr+2keVDGnEjaMPzMdOFakV77rLfaQkArcQX6Xq0xLdPfvi58bE9PtBVyRP8zFeHVENKZ0e6jMjluHH1obpq1pQ04FhZoZ5l2nj1JmlvUUS5s1WbuZJYDGNFaAT9+wz+A426UOxyekfLXrg==;M8jfUibhzzYL+FQJtkSAzw=="
 ---
 

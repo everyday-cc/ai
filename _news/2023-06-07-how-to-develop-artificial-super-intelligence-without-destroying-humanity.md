@@ -58,18 +58,13 @@ related:
         isCached: true
   - title: "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise"
     excerpt: "Contextual AI emerged from stealth today with $20 million in funding led by Bain Capital Ventures (BCV) with participation from Lightspeed, Greycroft, SV Angel and well-known angel investors including Elad Gil,"
-    publishedDateTime: 2023-06-07T16:14:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the/article_c0ad8fec-1fab-558c-9422-7ce5c3a260b8.html"
+    publishedDateTime: 2023-06-07T16:40:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the/article_07ae5763-9554-5f5f-badd-ca35121e3a06.html"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 23
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/db/fdb0ba0e-d1a1-5c42-9f06-abebcb4bff4e/6480afc3258c3.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 3
 
 secured: "/HCngP1UQZ6FaKz8ZC+mDNF9KtcJrOoBuHMDR9s3aaRw1bBe/0UPZWKKqXN7Drs9T06k1F5q9ofuqlscD5ugxN7bcB0HmkxUeMTnb00/WfUiXtFJwtCis3zEKLrqCAvVZTPc/bqKdk5MaPtiGqSOMoMGALz/opdsVHXxsj/jT0dwmCrPbMavXCim261yl4ZkYXfImJGlhj88E7WgiMcufruoe8FUyzMNFFOgUXb37tSoUhO5UQVl5Uv36dZw3/nwcnVNPVGz5oRRn0KoR6xv4aV32q/8Mhh1OxDfpsJZJBRQc39Lm0n5V8ZnmyWeSeW5DEif5aMsxVjfqtbFxl32bE+yM8BhniwoH1/h4BILWBXuXfzrcLDoD/kxPY+Q3Vkp2WETrtBYXS8/YcODANmFO2HPauYv5+y7Ekio5MejEUa58/O0CL4awJnT11BO2ILeT7VEsgG3ISiHXeFqSRrYfW8t2fHmEvrqRMxw6K1XfRdBVXnMZu2sFSMYE7eSZm2Vb3YpIJzu7AQ6oRb4KNta4Q==;uloD+ZgZO3hM+M2U8+ZXJQ=="
 ---

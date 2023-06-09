@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-09T09:00:00Z
 originalUrl: "https://www.businessobserverfl.com/news/2023/jun/09/creative-organizations-entrepreneurs-artificial-intelligence/"
 webUrl: "https://www.businessobserverfl.com/news/2023/jun/09/creative-organizations-entrepreneurs-artificial-intelligence/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.yourobserver.com/img/photos/2023/06/08/Ilustration_FINAL_r850x580.jpg?50e13880ccc54d977011a5484f156b28f4611466"

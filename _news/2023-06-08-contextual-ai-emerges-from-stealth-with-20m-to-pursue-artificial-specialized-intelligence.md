@@ -43,20 +43,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise"
-    excerpt: "Contextual AI emerged from stealth today with $20 million in funding led by Bain Capital Ventures (BCV) with participation from Lightspeed, Greycroft, SV Angel and well-known angel investors including Elad Gil,"
-    publishedDateTime: 2023-06-07T16:14:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the/article_c0ad8fec-1fab-558c-9422-7ce5c3a260b8.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 23
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/db/fdb0ba0e-d1a1-5c42-9f06-abebcb4bff4e/6480afc3258c3.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How to develop artificial super-intelligence without destroying humanity"
     excerpt: "Sam Altman, the founder of the revolutionary application Chat-GPT, is touring Europe with a message: AI is changing the world and there are big risks, but also big potential rewards"
     publishedDateTime: 2023-06-07T01:01:00Z
@@ -71,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise"
+    excerpt: "Contextual AI emerged from stealth today with $20 million in funding led by Bain Capital Ventures (BCV) with participation from Lightspeed, Greycroft, SV Angel and well-known angel investors including Elad Gil,"
+    publishedDateTime: 2023-06-07T16:40:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the/article_07ae5763-9554-5f5f-badd-ca35121e3a06.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 3
 
 secured: "xxE5rXA0j+dpd/nCV0ct+gds2lYKR4UBQh31E2fRSx2y5se/FXp/pgWue2iYiP8zgiGiz3SOfOiQW8nAQ8RrkbFq0BItbWpzJdg0ZFy+CgzTzQtIMT6Q6hgKk1M3T98QyCCgR3Z1o6we31EopAlvMIaHXAFo+G5I2gTtLNK/7RRA0lJ2rQ+twRyOPBSjodXGjGHQNiuTZp/QlpLymhkx2xlE38/Sx8XVZGK9C5dQTdVPkzUJB9HJsfpetC8O7JyOd8yO6N23yMyahlI8/n+/ZDMdonpw91HPeACozLM5MELOuEzv6E7kmNP4RwZuXE+Cx3QMZf7x1cIlCrYMshyANTgmbhWeE8B50rnaykQf/OOtz5JaB5WIpKO/GppE8gaAczE0xgA3cJ7bqLley9w0pt1A0ApdjadWJp4uzG+mZFB/SjlLzSJsL8/dy1oV5XWS/T+SgHAiYfGyq14DTq5s9ctqWD9JSG9hJGSVvokT3GIQjqvmlg8BQj2f5nbevC2uc8EhT9LNd4DUYspYDF1l9w==;a7+fo+wzoElvrzxdQAvq+Q=="
 ---

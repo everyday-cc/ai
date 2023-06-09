@@ -32,6 +32,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Florida universities study pros, cons of artificial intelligence"
+    excerpt: "Florida universities are discussing how to harness the power of artificial intelligence and to stave off student cheating using it."
+    publishedDateTime: 2023-06-09T14:59:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/06/09/florida-universities-study-pros-cons-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 39
+    images:
+      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/04/XD7AKQQKAGGKZQBPYO7RJPRZBQ.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "TTy2mVVFYKlkX0n5BGk7wuUZsKVC+V0WCKt3Xf+yZCi3OR0qb71jCCzjwWVRsdvVDTsEI8aVSRV0nLd1TK/QaJsa/BLYyFQXFq5qKgjtI8ni6JCKa/q0+fcQS9F3wRPJ4L7o5pT4VELButeQBKXo5+AKXLofGJYnBBorervUOCAapeXJaqoeGQ4z1CIAdrNhlS6qCB7lWa7Vx7t6KImnX40GHI5CtqBmVDQ/BuThFnBmQy7p+MD27qyntNxnYzQsUY2/ekx/LI5dzjl6DJOeXoRYXu4hbeRXLIaAJdJIOSmhL1Y2x9lrulbBLThKiWgeUmmcDsGTsvvjooBRJ7EK5d1oS6ZMv70lyuDScFpnefb+VNo9vdulC9plo3wGXUIK8yJVNHNX2PZUrmqHAsr6IcXBwX4GmXcpMwd+z+XU2Mb3VVe4D9GIdEebDlng2JSf/7ihou4sAie9rRzqAldQ931HKcj+wp59zjTFXBU1rURCSQdjHQrFpOhfF30672QmSFGT299jjjofet11TVJ2Vw==;vYaan43wzINiipjoZtferQ=="
 ---

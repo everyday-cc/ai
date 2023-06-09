@@ -3,8 +3,8 @@ category: news
 title: "‘The change in pace is crazy’: AI boosts climate information translation drive"
 excerpt: "Google-designed tools help 9,000 young Climate Cardinals volunteers who translate reports into more than 100 languages"
 publishedDateTime: 2023-06-06T11:46:00Z
-originalUrl: "https://www.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
-webUrl: "https://www.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
+originalUrl: "https://www.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence?ref=upstract.com"
+webUrl: "https://www.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
 type: article
@@ -71,6 +71,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "9XSwOp6GxmwOXAU+FxlRP9DJ5F0qGQzRbnoIGlFO10rGrt8fgYm2Ed+TVtMRPBS7b1IMF6j15rXxg6DXT6ErMclbCvghUrJ1d2mIHOoHxuWj75D7T8AykDJma6bil9Ycxy7qiRL77AliyfPfV0CXgF4XGLQmJdF4zQ2lSf6Gc0rHS0kvwh523kIx+oga15CzuIHh7mg8tx1uZ42Y2suHjlAUkg55Pb6mGatgzRVH/3cXw6HyRJA/NCZ+7CrvRoD6kjEXi8wpSBynmObOvdQTJi7uzESmrzwyHoDGtTmhak0qw8oHgsm7ce46/oigYBzTefvbr89p/QTQAVYE36uwuDgnzk/VzQvbXeAcBag5Kf5TWaTQZ+8b//8tLmz7l6bNkTVC0wZQDZpw4OlArsQ7NHVlQnA+m0tkTnmfEp4DC9HZZbUlQ6OEHfs6hIWXK7PURDhUEMvcqChIg5tlg4++fUT+Wllyi98xxX/eEizamAFoR03Bd+1/WTY1EqbqYRpwZg1MslIRLUCssF5EsY2FJw==;J+PwVDTn0tA+zx6487pllQ=="
+secured: "SRhBNcCGQtXrjyXeCy2mmzp0WVFVYHWWkjBIJPQ4vsjOcmRfIsyXrF9tg+WZvckQr2HM2s/LRKk1hxdwAaAUrZKiWM98xZdTt79/++6TBnX+uo9MkVCphuqTbviLAT3aFvZOuuyayNzWZ2ycOoQj2YzQWi9bOrAuiXyz4kAM5wazFHQulSSLaB/JrL7fZQq1e5KTQJQFXBkk0xiVNaY9b+hKcu+SSsaIexATqRMpYO/WvTOqPFqqKUCx1sukSY/o9EEgBmJEux858IZ7GTHRHGiXUW3qxHA8Vqeq0d0Ys/gw6A3bZD1W4CYw7q7SyCt/Iad9RfmrC6eQPmfZarpRg49qLhyHf5xcTVsus+ar90I=;JCEBBgD4jTmtixBXWxoAOQ=="
 ---
 

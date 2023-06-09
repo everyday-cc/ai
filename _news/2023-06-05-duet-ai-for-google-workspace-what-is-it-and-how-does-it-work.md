@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-duet-ai-for-workspace-3331
 webUrl: "https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdbbf5f37-e5b4-438d-851e-28149bb15cb3.jpg?source=next-opengraph&fit=scale-down&width=900"
         width: 900
         height: 506
-        isCached: true
-  - title: "Crazy new AI camera doesn’t even have a lens – how does it work?"
-    excerpt: "An AI camera can capture photos of a location without using a lens and the way it does it will blow your mind."
-    publishedDateTime: 2023-06-04T20:12:00Z
-    webUrl: "https://bgr.com/science/crazy-new-ai-camera-doesnt-even-have-a-lens-how-does-it-work/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/ai-camera-with-no-lens.jpg?quality=82&strip=all"
-        width: 1200
-        height: 897
         isCached: true
 
 secured: "2swfr1zeuigMheuP9gQFll5HANZiDriatFfstfp7sZEtNztpe08DJcvF1+uf1Y5cU/XYUQhpauYxCQJXMI+/3BxPXHBwkS+sPofgwmDe8YLFjAg8MiOxF8Z8vNFZleAxFAR629DphloSpJBTkvz5KebuKk1MuSGQqOlK2poMIpdFTi9rd38PXYlwJdtrQVIKx7EIHzBaNtt/03J1Rg0vBSL6BlLgYkbrWvSZ7X+NjIFWt75Ua9+4s3l3UucG8V3iR8mGzY0VxzmEW4PuYOwZGaOaLOLewqm3T+9NWdXoT3lemLQcRQG+BJRcQ2gfQwErJBhz1brRKyd5ig4wd1Z0m2K1EEGcbWeLXmH3YDPCEWDeLlbEp6OyY7npPtzkDgY4snQsegEHBFr3+/ZGus5rqBMEFVrFKY4tIe8pJQMfoyA6zqxEdjt3Qg2ffVmhxdf1pd29dxVl6MQ7N0mxGNm3lpqCjgzy6hdKlbKUpyR6pdlpDvSqHQZSeT4Zgg+t3TtL9bKjkk2Q15gTqqc0E6peXA==;Zvq+f1PoE4KBsKztyl0LPQ=="

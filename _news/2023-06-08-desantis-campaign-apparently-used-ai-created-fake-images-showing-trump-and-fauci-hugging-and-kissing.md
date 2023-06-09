@@ -85,6 +85,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "DeSantis takes AI campaign messaging in an unsettling direction"
+    excerpt: "The RNC broke new ground in April with literally fake AI-generated messages in an attack ad. Ron DeSantis' campaign just made matters even worse."
+    publishedDateTime: 2023-06-09T12:53:00Z
+    webUrl: "https://www.msnbc.com/rachel-maddow-show/maddowblog/desantis-takes-ai-campaign-messaging-unsettling-direction-rcna88523"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 17
 
 secured: "YkSKVTqArYt6p6SrUcCaVUr09IkdzJSq0Mk664e6tCqmmxwGplCuR3gwxYNnpBznka1Ls0ITmXrpX9BG7vcJ7stVTetLSM6JsE4kawEVStgyGPei0MkONW87+bS9rB+CtxmoaMPcEQM485LH13emzsxwVswQo6KySL4ULlzlUhwHqSQrKQRzgoEroRb0jFrKMsc2mbb3UOI3CzGZq3ByKNLB2VEkT53riLRzi0A/9Dyv/f4Mr5A88tlaizv3MDE3dO3Jik2MsMZMR8KZBIhC/jRmt7T+Lt80wTeXNg0qe8CBZWbOw0igAkNT+0Kls75K/8gRH1mITBkNu+rAx81h4o5W5cWFLJAeuiKdJDjLGRM=;dxOfmmk1NCZoC5mcMS87ZQ=="
 ---

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Centific Launches Pitaya.AI SaaS Platform"
+    excerpt: "Pitaya.AI will be able to address stealing by preventing theft at cashier-assisted and self-checkout lanes often found in retail stores."
+    publishedDateTime: 2023-06-06T17:26:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/37418-centific-launches-pitayaai-saas-platform"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 39
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-May-2023-LG.png?crop=1&height=348&t=1682456967&width=271"
+        width: 271
+        height: 348
+        isCached: true
   - title: "Centific Global Solutions announce the launch of Pitaya.AI innovative SAAS platform"
     excerpt: "Centific Global Solutions announced the launch of Pitaya.AI, a SaaS (Software as a Service) platform for retailers that provides a suite of intelligent storage solutions.These solutions leverage"
     publishedDateTime: 2023-06-07T11:19:00Z

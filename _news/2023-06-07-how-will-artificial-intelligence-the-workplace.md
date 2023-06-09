@@ -54,20 +54,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Crazy new AI camera doesn’t even have a lens – how does it work?"
-    excerpt: "An AI camera can capture photos of a location without using a lens and the way it does it will blow your mind."
-    publishedDateTime: 2023-06-04T20:12:00Z
-    webUrl: "https://bgr.com/science/crazy-new-ai-camera-doesnt-even-have-a-lens-how-does-it-work/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/ai-camera-with-no-lens.jpg?quality=82&strip=all"
-        width: 1200
-        height: 897
-        isCached: true
 
 secured: "pnMl5oxr5IhW+W87c8zT+Ryqt7cbP9pTnU+cd0dBFjm1nmMoZ56OE87Oxy3MbdLEYe0w1LPhi5XjAsEvo4VJ7FBzRZQf8w2heqEr92HVTVW9n9HfLVn2xr8zxXBeURWsMxtvRqoZk5XMw62RxP0ip9i5SmJK28v4T0d8YGH6698AQKX1AzUnHTb/IthZLJwKhTa2iU9cqy/kHauGmBX9PhwPdnhx1a0bleOfKWFX3OJ8VHh/VbfyV19lx/gx5OCAUmGc20EfEpYAxI/PlkYxT04BiVQj1ylalmOqcpkv93UruKmgQEM1l0/sWQdUdrAv2VM10WtYRZsGOm4TWu8sZ4vzYlwLXbgsP583rqGJWcU=;B9Nb7lJIJDe9rKUCf//7/g=="
 ---

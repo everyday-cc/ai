@@ -123,6 +123,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "Facebook, Instagram to get ChatGPT-like smarts as Mark Zuckerberg’s Meta plans big generative AI push"
+    excerpt: "Mark Zuckerberg, who plans to incorporate generative AI into Meta’s flagship products, talks about his AI plans at a meeting held on Thursday."
+    publishedDateTime: 2023-06-09T11:57:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-facebook-instagram-to-get-chatgpt-like-smarts-as-mark-zuckerbergs-meta-plans-big-generative-ai-push-3119862/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 4
 
 secured: "TaW1Q9U/1V1a3fyRgpmZC9n0s7vUDAlZN2QEXBYCub2hwB/2sIdSxp5yu//g9+MElZTd4NnTp07aLaDgSDuDJgRcLghoRpnK94l+dcizQeqTTuFx/Wwf9febaUElL3t343Tfp7O/b4ibO1pRV5U70D2KLugC4EnQ1BUOh6tvh+4DUdH4mHHZrAQNcUZXZip8LnyK3uq8AXydfeVzyxpyUeCyuOx3RZKFX1b1fLN1lUOZQ5rDlHOWJXGJ2y8FR7eRjr24VStAZOFLfpgIiYWiEERAStA57jy51RhUixEbupbSdsjscJss3RVK1WJecGtA1yzoxtz/X+NEwxmU0ezX/x+mmJ59/TEuBVSAkrnLmEEf8xn8seZAQbw5dcSQOFWJcOJOKpRYWUqPsdf27LDPLzhtVhTYfiwTa+Obk7LLav8CxjVAyxa+ZfpBmhWH919hmjQqKsPWf9b2ducvymeO3pA+ze+hYogJWE7WoUQh7HyCr8H506NyvM/56QBEPqJKphDPdevGsgoDFI7AK60d6w==;lwnNZ3m3UI34CX/OJmjB5g=="
 ---

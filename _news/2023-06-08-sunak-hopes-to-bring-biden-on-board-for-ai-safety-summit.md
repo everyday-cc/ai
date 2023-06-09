@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-br
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 17
+  - title: "Rishi Sunak’s AI summit: what is its aim, and is it really necessary?"
+    excerpt: "UK government says meeting will discuss ‘internationally coordinated action’ to mitigate the risks posed"
+    publishedDateTime: 2023-06-09T11:51:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 17
   - title: "Rishi Sunak goes to Washington with Ukraine, economy and AI on agenda for Biden meeting"
     excerpt: "The war in Ukraine is top of British Prime Minister Rishi Sunak’s agenda as he starts a two-day trip to Washington"

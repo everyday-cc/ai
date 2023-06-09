@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-it
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -128,6 +128,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 17
+  - title: "Facebook, Instagram to get ChatGPT-like smarts as Mark Zuckerberg’s Meta plans big generative AI push"
+    excerpt: "Mark Zuckerberg, who plans to incorporate generative AI into Meta’s flagship products, talks about his AI plans at a meeting held on Thursday."
+    publishedDateTime: 2023-06-09T11:57:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-facebook-instagram-to-get-chatgpt-like-smarts-as-mark-zuckerbergs-meta-plans-big-generative-ai-push-3119862/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 4
 
 secured: "swa7PIzarRFDpYr1bzQfz+B7j6u3bd8GoqWdQU3q4ZcCzv8oDj4Uz7/k57llGjMofiOG1KPr1ncznTgOXRJKfC59Y8bt248dK2+dNEYWAT2DGorJkNFS3Yc62Cik3vZAt5aEgM/iuoR7st0w12EPGJN6wFGua6EbneEXt36G8fxQKu6eBaHdMZdl6dq1WEM7QyXKphnI6eKFKONPbgQNJj/K0fPlIEKmi1fkBMsV4o2nitJDTgUO2evoPEtRq+2TfOuLoyDiynLg78IpDgAzqoh+PjJvB6OHGmVMEpM3mGrP9SAFvveo72jiDR77d/5v9t4t4XTBCU3x3q1w7BrV0Rn4fKca5d6KuO1zjFLxr1xaIOMAY4CElrH0hs5b81QaoyPAiOU7C8O5n7iMvsa1k/E7y0jEaefUyINYHgd0sNCPRBHRvSb0Z+ye+XsIBxr4kWK75bjFbwuftpAK6nJuh0hKUTA9+doBCWI8FgQ6bylkIVyFlIg2o8tEMA1L/aaZgtXs5K5y1EEZ17vPao9Yfw==;+Zwp+3UGktx/RdVq3j3Lcg=="
 ---

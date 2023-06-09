@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2023-06-ai-robots-middle-class-jobs.ht
 webUrl: "https://techxplore.com/news/2023-06-ai-robots-middle-class-jobs.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -27,7 +27,7 @@ related:
     provider:
       name: Reader's Digest
       domain: rd.com
-    quality: 32
+    quality: 49
     images:
       - url: "https://www.rd.com/wp-content/uploads/2022/08/RD-robots-taking-jobs-GettyImages-1356768388-578183815-JVedit.jpg"
         width: 2400

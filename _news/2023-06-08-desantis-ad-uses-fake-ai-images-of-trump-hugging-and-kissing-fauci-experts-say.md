@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/06/desantis-ad-uses-fake-ai
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/06/desantis-ad-uses-fake-ai-images-of-trump-hugging-and-kissing-fauci-experts-say/amp/"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "DeSantis takes AI campaign messaging in an unsettling direction"
+    excerpt: "The RNC broke new ground in April with literally fake AI-generated messages in an attack ad. Ron DeSantis' campaign just made matters even worse."
+    publishedDateTime: 2023-06-09T12:53:00Z
+    webUrl: "https://www.msnbc.com/rachel-maddow-show/maddowblog/desantis-takes-ai-campaign-messaging-unsettling-direction-rcna88523"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 17
 
 secured: "svJ3koKSDCLZDgdawlPrnR9CzLyGM4x/WdKnWMPa4J5r3smRSENBl+Zq5H5RKBo04Q4Oa1CtflI7xoilipPyYC4/s9kkH6hnqdQW+IZFkCbtQf1YoRX/np7A/j8SZ1H98DrvfIISF1WfbgWL5cukNf1cUjsJewKrfVnMrvekh9cCK7ARWfLSNwE4ZC34mCRLcl8/4LkiIt9B2a7dsAn9/qY/6k7pBhSCQjJX/+iXPKd9Ptm7Q3+7jdLOuscu02uL7+iyYddMDgdllhtTfA3ZJ5jUvrXabYro2YG27tcoSkeHwoHZDyhsdgW/eIuu8yVulRLxvYJtOzYY3UdPdUks+ikp2eRv/ZN9AukEEueiCO0=;cq0JdP62kRQoVU9hx4LpOw=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 2048
         height: 1362
         isCached: true
-  - title: "Dubai to establish first integrated centre to attract artificial intelligence companies"
-    excerpt: "The sources indicated that the Dubai Multi Commodities Centre (DMCC) will be the headquarters and destination for new emerging companies in the technology and artificial intelligence sector, which are looking for new markets for them in the region,"
-    publishedDateTime: 2023-06-07T20:43:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/06/07/dubai-to-establish-first-integrated-centre-to-attract-artificial-intelligence-companies"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 46
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2019/12/29/dubai-property-750.ashx?h=450&w=750&hash=AF2A133D845714D6DAC80260444D29A9"
-        width: 750
-        height: 450
-        isCached: true
   - title: "Hamdan Bin Mohammed Launches Dubai Centre For Artificial Intelligence To Accelerate AI Adoption In Government"
     excerpt: "H.H. said Dubai continues to rapidly advance its adoption of new artificial intelligence and future technologies ... for 10 percent of all data produced by 2025. Meanwhile, in the healthcare space, more than 30 percent of new drugs and materials are ..."
     publishedDateTime: 2023-06-08T18:49:00Z
@@ -64,15 +50,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 15
-  - title: "Hamed Bin Zayed Attends Mohamed Bin Zayed University Of Artificial Intelligence Class Of 2023 Commencement Ceremony"
-    excerpt: "In the presence of H.H. Sheikh Hamed bin Zayed Al Nahyan, the Mohamed bin Zayed University of Artificial Intel"
-    publishedDateTime: 2023-06-04T19:23:00Z
-    webUrl: "https://menafn.com/1106384088/Hamed-Bin-Zayed-Attends-Mohamed-Bin-Zayed-University-Of-Artificial-Intelligence-Class-Of-2023-Commencement-Ceremony"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "pCI6GIOL3TzgX+6S+Nyh1seoNf78NBHUxs1NlJWudxRXGirVD69dlJF6UcNFbKVpzh+gTyqQl7DNyWrwO/0aedIcwMgFI6ioxpJqKQF9ZPRalQmncXxY74UcBVO2LQe70IuXuRnBP4wOgxZlKq1OAJpynC5smyzhYAa9pFjOZECLD3+u0jTF27Ynf8BlvZfiV90d0itAk/Hdw2Xkz05hrZRXDAtn2AuafIcEEWUkLAjKWLikEcHXJD7xhNYY2aIDv0Pj0JP1MpTNJi034CdcER5PfExjWVi1YtszZRapQcnRDtbXCLBRW+q+B01UIGelIU0Bef7BiDB5WQ3Hw+CsXKTCrPrc3AXARDCk291yzo8=;rFiCMRgHZ6helHVHXE8jew=="
 ---

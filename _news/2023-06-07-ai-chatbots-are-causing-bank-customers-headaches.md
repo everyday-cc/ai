@@ -128,6 +128,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 17
+  - title: "Facebook, Instagram to get ChatGPT-like smarts as Mark Zuckerberg’s Meta plans big generative AI push"
+    excerpt: "Mark Zuckerberg, who plans to incorporate generative AI into Meta’s flagship products, talks about his AI plans at a meeting held on Thursday."
+    publishedDateTime: 2023-06-09T11:57:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-facebook-instagram-to-get-chatgpt-like-smarts-as-mark-zuckerbergs-meta-plans-big-generative-ai-push-3119862/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 4
 
 secured: "JTIo4gJ0P1VNRsFYmmSdGx7KaQSIVbA4rLGyCrd+Mb3OF+41dXNk/2sBxnAtBC7epSOB+AiiNOjD3v47hd0IIDpLYznUwgakXJQIXdWJd77ghj5GZaF/SQm68vgfyPdrgSMuWWcP/ElW6URCvnEVwQhBjxga1QDdpX8Fi4CfaY1CcDJXr1yOmhhyO+oGEcANw3oNI6CMydK4y0/y0vNPX8KJgewp57k3lU7vHDQgatkCfKIxJmaBEsLSerwSb7WZdi7OeoHhuP42GgRX6RUUqCk7FNfRGb8+F/Qc6TqvP8ZWnUsPEpmBcPb+f2W4rpeKswZdKV4MmgEewGYKE3qkurkUix8zp8HUGhhVTXaJ/uhSy9Cfy08aF6hyYVXIOip6OCrQyCpwDqXm+uf8jUKdWsybn7vd3RPVf4+nPBCD11aFpN8zD3KnTPPIOs6HSafKhLoUrJb7aJiHABqkYYOt+Zv/8Cp369mft4WFPTHE+/ZVXxm1idk1TPBvI/W8SX1tuwMLxKqr6SnhP/1SpirYhw==;hLI3/1kQu7uI62EJ9tD6LQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/nvidias-new-a
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/amp/"
 type: article
 quality: 118
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://thefinance.sg/wp-content/uploads/2022/04/Oil-Rig-at-Sunset.png"
         width: 800
         height: 533
+        isCached: true
+  - title: "Nvidia launches new 'Grace Hopper' super chips, with CPU and GPU"
+    excerpt: "Nvidia also plans to build an exaflop scale supercomputer using 256 GH200 chips that will work together as one large GPU."
+    publishedDateTime: 2023-06-09T14:25:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-unveils-new-cpugpu-chip"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/09/image/jpeg/ApTbkZwxBnQpSF4pBh9uSI0kVUHvJ2zaal61P3yw.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "NVIDIA’s Game-Changing Fix for the GPU Crisis"
     excerpt: "The scarcity of GPUs used in training large language and vision models has triggered a race among companies to secure spare capacity and computing power."

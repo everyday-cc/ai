@@ -47,6 +47,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Britain to host first global summit on artificial intelligence safety"
+    excerpt: "Britain will host a global summit on artificial intelligence safety later this year and Prime Minister Rishi Sunak and U.S. President Joe Biden will discuss the technology at their Thursday meeting, the UK government said."
+    publishedDateTime: 2023-06-07T22:20:00Z
+    webUrl: "https://www.reuters.com/technology/britain-host-first-global-summit-artificial-intelligence-safety-2023-06-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 62
   - title: "UK to host global AI 'safety measure' summit in autumn"
     excerpt: "The government says the UK will host a global artificial intelligence (AI) summit this autumn to evaluate the technology's \"most significant risks\". There has been a slew of dire warnings about the potentially existential threat AI poses to humanity."
     publishedDateTime: 2023-06-08T00:02:00Z

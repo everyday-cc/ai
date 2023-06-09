@@ -7,7 +7,7 @@ originalUrl: "https://www.sourcesecurity.com/news/centific-global-solutions-laun
 webUrl: "https://www.sourcesecurity.com/news/centific-global-solutions-launch-pitaya-ai-innovative-saas-platform-co-1686120773-ga-co-1686121046-ga-npr.1686121720.html"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Centific Launches Pitaya.AI SaaS Platform"
+    excerpt: "Pitaya.AI will be able to address stealing by preventing theft at cashier-assisted and self-checkout lanes often found in retail stores."
+    publishedDateTime: 2023-06-06T17:26:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/37418-centific-launches-pitayaai-saas-platform"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 39
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-May-2023-LG.png?crop=1&height=348&t=1682456967&width=271"
+        width: 271
+        height: 348
+        isCached: true
   - title: "Centific Announces the Launch of Pitaya.AI: A Suite of Intelligent Store Solutions to Enable Hyper-Automation and Immersive Experiences"
     excerpt: "Centific Global Solutions today announced the launch of Pitaya.AI, a SaaS (Software as a Service) platform for retailers that provides a suite of intelligent store solutions. These solutions leverage AI to tackle industry-wide business challenges such as shrinkage,"
     publishedDateTime: 2023-06-06T18:54:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-05T00:00:00Z
 originalUrl: "https://www.rd.com/article/future-of-ai/"
 webUrl: "https://www.rd.com/article/future-of-ai/"
 type: article
-quality: 32
-heat: -1
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.rd.com/wp-content/uploads/2022/08/RD-robots-taking-jobs-GettyImages-1356768388-578183815-JVedit.jpg"

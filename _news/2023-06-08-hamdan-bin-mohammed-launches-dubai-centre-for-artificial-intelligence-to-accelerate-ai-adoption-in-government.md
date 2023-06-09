@@ -9,7 +9,7 @@ ampWebUrl: "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-
 cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout"
 type: article
 quality: 55
-heat: 95
+heat: 75
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai to establish first integrated centre to attract artificial intelligence companies"
-    excerpt: "The sources indicated that the Dubai Multi Commodities Centre (DMCC) will be the headquarters and destination for new emerging companies in the technology and artificial intelligence sector, which are looking for new markets for them in the region,"
-    publishedDateTime: 2023-06-07T20:43:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/06/07/dubai-to-establish-first-integrated-centre-to-attract-artificial-intelligence-companies"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 46
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2019/12/29/dubai-property-750.ashx?h=450&w=750&hash=AF2A133D845714D6DAC80260444D29A9"
-        width: 750
-        height: 450
-        isCached: true
   - title: "Sheikh Hamdan launches Dubai Centre for Artificial Intelligence to accelerate government services"
     excerpt: "\"Dubai’s government will be the best in the world in deploying artificial intelligence (AI) within its various entities. This new Centre is the first step in achieving this goal and developing future services to keep pace with rapid technological advancements."
     publishedDateTime: 2023-06-08T16:29:00Z
@@ -64,15 +50,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 15
-  - title: "Hamed Bin Zayed Attends Mohamed Bin Zayed University Of Artificial Intelligence Class Of 2023 Commencement Ceremony"
-    excerpt: "In the presence of H.H. Sheikh Hamed bin Zayed Al Nahyan, the Mohamed bin Zayed University of Artificial Intel"
-    publishedDateTime: 2023-06-04T19:23:00Z
-    webUrl: "https://menafn.com/1106384088/Hamed-Bin-Zayed-Attends-Mohamed-Bin-Zayed-University-Of-Artificial-Intelligence-Class-Of-2023-Commencement-Ceremony"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "jb2h7EVU9kwJetuEFnG4yR9uBD8krlXNZSXEVhLqczqg+wPErR5RJSWBxUlg9B2jQF6bituNpRoTY2ryFo4PXd6L6dQevhj/k0ty2fwMlYpKyCTLOkJ0rSlxND+glvfvU9M100Nxho75qmxAMZtvQqMeHgeDFrTy2WkN1azmiom76AJOxY59IpitvwocOne6A5VQORkTLLEn1g64Xhj/tw0gJYpfnjlYiLhSvCabXg+zudHtKNj1+URGLTsa3uq7QuKrfwJmSH1Y1pjCNY8OPmOsLAquaB59bfZXUuPM7mPwZGoVT5TR0xXH0XtbIH1yQR/EQMIxcJUqMv6Z+sOAbExgD6jnGvZI61G3GtkSN6Q=;XOqseh0YYacGYIuWnD3cwQ=="
 ---

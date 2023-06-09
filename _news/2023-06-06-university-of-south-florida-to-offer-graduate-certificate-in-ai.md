@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Florida universities study pros, cons of artificial intelligence"
+    excerpt: "Florida universities are discussing how to harness the power of artificial intelligence and to stave off student cheating using it."
+    publishedDateTime: 2023-06-09T14:59:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/06/09/florida-universities-study-pros-cons-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 39
+    images:
+      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/04/XD7AKQQKAGGKZQBPYO7RJPRZBQ.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "USF to offer artificial intelligence certificate to boost local tech talent pipeline"
     excerpt: "The certificate is launching in part to strengthen Tampa Bay's local tech talent pipeline and build its growing startup scene."
     publishedDateTime: 2023-06-05T18:43:00Z

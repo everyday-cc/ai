@@ -2,27 +2,21 @@
 category: news
 title: "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise"
 excerpt: "Contextual AI emerged from stealth today with $20 million in funding led by Bain Capital Ventures (BCV) with participation from Lightspeed, Greycroft, SV Angel and well-known angel investors including Elad Gil,"
-publishedDateTime: 2023-06-07T16:14:00Z
-originalUrl: "https://www.valdostadailytimes.com/ap/business/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the/article_c0ad8fec-1fab-558c-9422-7ce5c3a260b8.html"
-webUrl: "https://www.valdostadailytimes.com/ap/business/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the/article_c0ad8fec-1fab-558c-9422-7ce5c3a260b8.html"
+publishedDateTime: 2023-06-07T16:40:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the/article_07ae5763-9554-5f5f-badd-ca35121e3a06.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the/article_07ae5763-9554-5f5f-badd-ca35121e3a06.html"
 type: article
-quality: 23
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/db/fdb0ba0e-d1a1-5c42-9f06-abebcb4bff4e/6480afc3258c3.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Contextual AI emerges from stealth with $20M to pursue ‘artificial specialized intelligence’"
@@ -68,6 +62,6 @@ related:
         height: 630
         isCached: true
 
-secured: "O3gWCC6GUcAOB2M0NlxmRxhJrpKMpxa4zPn5qTrfndUVINzG1k692mECVp2Gv86RLQc0Rt6a0tGQiArnxEYsX7v1ZM6CCVFropM9d0B3dmCsl5oXtCrpCAYtvMdC44PS/hNnbQJrN6WpLhf3926ZCAkJ3Tf56XhTU1uyf4eQYWL/4jwmj7BsCw7K65QRVhSfgj3DKkeoJ64cpPLlvjltUN2rzwvpSDGBIiBNhp2hWVn0sIVVkD4NCX6v0oIz7TwC4Q7o8NRYu7mOk/NgvlDAo6yQ/S0iAb2FfEPVbpyHq1wuMLQE4mWwuoRcH+N+fEkAjnagWqRVFSziOWeHoWYVTnCVaXFzOhczqrPQsqhJG9FNiNw1jzsjdqTa5p2G1M8XxBKsBYDP4TbH/9zlIDRM2GQJ9Ugja/cRhVH0N0otsnQLrGKLCAw5LrgHxt7qyZCaEZEILHswX0sTpGeD8c6d8U2vdYeeLzwBJ11pJKJaTt3tajEoj6I91jsI1ifufA5kFjxYcA93knyeJ1hH0b/WfA==;04Bb1zPEWNBZ7sKC6doOJQ=="
+secured: "yBeJVSm0rgbUbqvZQVss1D1RShLviKVNHrWxhbKDSlUa2eAS/01hTnq3iEXNpJGX6PO2LuHFMD6fbcx/lVJZym1mPIqWGmODQS8w5pJUQlo3n3837hkHv0OYgsTWQQaMEL0tez2drsrDJLxCTu7fRO9xAlnJTyEGahneiOtzTxl6dsHXO1+xhC4t85YayZxzWofa57qzx7WJRJULaGz59F7J227MZasCZHDqzSLkSW78e/bvH/BL8JyfUEy846O9oCuo2WiSQ7WXcSKKDvz1NsQ8gWmBIqicYOlv4WZvOCaj2FVGVx3yzAZOgVulR3QxzdgUEiSlQ0iIbc6O44IwqjLYWT4Lqdn2hqiiK95nlpWtBAd4Nu+mVlBSJeZNI5br8D4n8lI/k/Uxdkv3DqB6MwJoYhrKXWI6zAX4gzmmpLze0A5dp/T1p2F8M4vhqmXjoBf6zxe5II8VsR+5E2tTMuVjOka42uix+5JL9Vq+26jvloLJWJDNHYocmzakAHjWvzBeDhT9l+hUubVTtiqDAw==;oBMrSd5mnSj7rcbQtbkXxg=="
 ---
 

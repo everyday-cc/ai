@@ -30,7 +30,7 @@ related:
     provider:
       name: Business Observer
       domain: businessobserverfl.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://media.yourobserver.com/img/photos/2023/06/08/Ilustration_FINAL_r850x580.jpg?50e13880ccc54d977011a5484f156b28f4611466"
         width: 850

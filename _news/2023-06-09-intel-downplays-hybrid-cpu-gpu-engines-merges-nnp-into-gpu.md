@@ -73,6 +73,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Nvidia launches new 'Grace Hopper' super chips, with CPU and GPU"
+    excerpt: "Nvidia also plans to build an exaflop scale supercomputer using 256 GH200 chips that will work together as one large GPU."
+    publishedDateTime: 2023-06-09T14:25:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-unveils-new-cpugpu-chip"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/09/image/jpeg/ApTbkZwxBnQpSF4pBh9uSI0kVUHvJ2zaal61P3yw.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "NVIDIA’s Game-Changing Fix for the GPU Crisis"
     excerpt: "The scarcity of GPUs used in training large language and vision models has triggered a race among companies to secure spare capacity and computing power."
     publishedDateTime: 2023-06-05T12:46:00Z

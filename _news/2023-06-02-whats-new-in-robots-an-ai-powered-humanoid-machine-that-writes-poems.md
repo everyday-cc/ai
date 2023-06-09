@@ -1,17 +1,17 @@
 ---
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ..."
-publishedDateTime: 2023-06-02T14:57:00Z
-originalUrl: "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-webUrl: "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-ampWebUrl: "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
+publishedDateTime: 2023-06-02T13:01:00Z
+originalUrl: "https://abc30.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+webUrl: "https://abc30.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+ampWebUrl: "https://abc30.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
 type: article
 
 provider:
-  name: abc13
-  domain: abc13.com
+  name: ABC30 Action News
+  domain: abc30.com
 
 topics:
   - AI in Robotics
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "b2d/Z6+IqNufdg3ciOlN9Xi80MMlTiqwltVWffeGjwmhpxBm7sQ8iEf8qlLNxfBOy9ychxr5t/oBgn1myHjrxO2C+bYvIVFsLY7YnbMrcAktK8DgkKvj7mhkEr37e5U8hEfYIiLgVzdjDfw1uZ4zH4eBeQkA0yslUz7okp/IYMAvBppVgzqa4Ed6eMgtK11s1Vjmm9n4Nv+CB6LMpOaI5bc2IGrqVTnIX3yd2S4r+jY8YDj0QEH+8au84Pfoy6aECn5/uwHhliaw0Em/B0+xc35nDeh22e9/cTWafnt/OZMBtuRigz5hQlRiFK4KvlDsXfd92BNqyHSB4u9K5q7+ww2VrnkbfrKdozxcRZL1GRM=;Iq3JKYZB9yoNwdo5nDGMmg=="
+secured: "1a/sFp/3df/sDDTPccZfkZ/CAfvTyJ68mR/Hm3wNlGFEDCv/+OHyDDd2U32LhzCmu1RZRFyvgpyZ4yFsNL5ON+SlsA+5c7WXGqaa6JtaXv0LYXVDBPddZoEnnpBNB/Yjv5mxQGmTJq2Lg8SEdY9Zetrej7Jw+szV6jJSqTyPbZ0ri4Oxm09EsKnv8P4zGVl2kGbFIOZHMseKqpSYA9JtZKo5RQolYjJUW8I12fdwzxa9Nmf+lWHyY0p6iVq5NFOzgb9na46l2wfAv6/z90SduQSO18N5cSgabHcdT/VKZZRF5rri0h4xSttkROvEOn63BXvzIXBzOmYBkS14VW5/6QGj/GA4vPHAKOkuXwv5CDo=;ujHRdnov/ImCqvXoT7qEcg=="
 ---
 

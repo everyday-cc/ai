@@ -2,30 +2,20 @@
 category: news
 title: "What’s the Best Use for Crypto? Let AI Figure It Out"
 excerpt: "Web 3.0 is mostly forgotten now, but the ideas behind it will regain their relevance as bots become more common."
-publishedDateTime: 2023-06-09T11:30:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2023-06-09/what-s-the-best-use-for-crypto-ai-will-figure-it-out"
-webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-09/what-s-the-best-use-for-crypto-ai-will-figure-it-out"
+publishedDateTime: 2023-06-09T06:33:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-the-best-use-for-crypto-ai-will-figure-it-out/e40d3888-06bb-11ee-b74a-5bdd335d4fa2_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-the-best-use-for-crypto-ai-will-figure-it-out/e40d3888-06bb-11ee-b74a-5bdd335d4fa2_story.html"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
-
-images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikzfteIQaFGk/v2/1200x788.jpg"
-    width: 1200
-    height: 788
-    isCached: true
 
 related:
   - title: "Generative AI replaces crypto as tech’s latest gold rush"
@@ -42,7 +32,16 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI Startups Take Over Crypto Miners: The Future of Mining is Renting Out GPU to AI Startups"
+    excerpt: "Crypto mining has been the buzzword of the past few years in the world of technology and investments. But as the market matures and the returns diminish, it is time for crypto miners to look for new opportunities to monetize their equipment."
+    publishedDateTime: 2023-06-05T16:40:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2023-6-5-ai-startups-take-over-crypto-miners-the-future-of-mining-is-renting-out-gpu-to-ai-startups"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 24
 
-secured: "9p8oTo7oAEGg9veRo3YE+FksxF2nlG34+5Tz3rYa/yZbV+bboS40/sAmZNawDTsMvPC+IVLSyL13SSTpH4h3uGwnn9eFRHEaTKpqLIOzNp7n/e4Q4zlSRtuSs0pYZKFEK9KEPgp3lHNIZjTvKnZe81WSGHR1p+JxD6sONCFCdFy0L5mHhwBfOd3nAFvvXO6jTCDGkWCJTlvt1ET9D1wtO7Rd2ZckTmdk8CkrMaoteH1MCw46uA3y+gFNBgxlpkkxmiJm8L3mfITG8Ca6sVmreYeOEgnGkK+tPSZmdh4NQPVjIpewPj5+STjtbz7DjOYZ8bNJPs6kWNimyhyrTWMh6wVJzGyhGYtiEg/9yR6exUc=;43oeDwyQIUKEu/tRyW6Q0A=="
+secured: "tg+ysRgyV42c/UdwVZstLODDcXE+2WLpuUTaqkJDAvFvwjIqU3UiGiMffkCMZlBRJTB4jL7cRv0iIAXY4FPUVRZty+INbKylmepCgqy01N0jBSVdsMcurZ1qNMZ0ZCouhw0val/3J5azyMk9nfcupNEQvI3KjFdtAaJqGI6UXmXRyX4/S8ohs8fksBWoEP6d4byvXsgtjkTTjeMQY9LMSlsMUvU0oogbipXBjnMhVb+c11cYZKrOSe7Sl1S3IHvJMSgw/ekdDtHCJ3p+lNVdFRPKF6J3nCjXUfW3RmZUNdTyERsKfqSZQ+YXBiKSY3LAdWdiCVLYshLj6iEO5lkZk210T508Iasto+mUdMRFVlU93ZSHLyRkt3/HkXB8ANtAwWZ9Gt6FB6xPKHd5XGj4TdAl5Q5E9ngF3TyiEL8fcidFRopeRxFlNqPturfcN7tqcMv28IIFm5ceXY0xXnvkNAmHdxEghBLL5x+0ByXtKykU63JOpBkBN21oQp2KGEg8qsCRMA3HYU8qMMlNmyMsXQ==;Fnk6hi35JVPdQDT21G3X+Q=="
 ---
 

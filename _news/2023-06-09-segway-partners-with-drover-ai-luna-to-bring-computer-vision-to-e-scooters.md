@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-lun
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/amp/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1168
     height: 762
     isCached: true
+
+related:
+  - title: "Segway brings computer vision technology to e-scooters, in partnership with Drover AI and Luna"
+    excerpt: "The move is aimed at driving the development of Segway’s AI-powered e-scooter plans. Segway-Ninebot is working on introducing computer vision tech to its AI-enabled electric scooter. The company’s new partnership with Drover AI and Luna aims at ..."
+    publishedDateTime: 2023-06-09T11:50:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/09/segway-brings-computer-vision-technology-e-scooters-partnership-drover-ai-luna/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 52
 
 secured: "ib5AITJxIWKVmGrp2LyWc/QYKcu4trdEstoHyLwKK/rg3hpEJHz2X7wnY4RRcI8PFF3Z69hw39EDbUKMyO13SGy4zNyxhKE01iOvVhcSqT3nD3nS3/OLpx5EyH1A6wovgTekqZJTiwrv6KxPeqFJEGKsHCYvJoMwDDSFxIIGsHspoZh1EhNlaqMY6Mw0ylzZkmcm5KGbYwP21o79CsLTFmUsb8epcE0Z6aP3t+8x4+Ekojn0r19V/9swPpNH/7CpIhiamRxp0ndHnc+Vb4Ye0GWxJBRuBbNXsGmvDPj+SAGys2DzumTBl3FR/SvBWr5FLLPI8drFIeQqtvUuvFNtxYJngVPj9SR9Z1jBNtZIR6HrP2URXs+xotomOA/eL5Lg8uGgOI0LeoGB5HuyyR2Og1BocX1jwNUKaj1Ysfh3IA7oCyuICHM9c3l7Enh0kNISNgSjkekTrB37VgD04Zp3dQELDymTT9H7H5/gFsusVCE2TIelaWSnCGhhs/L0E1ckgJ3IdqXmC3qetuRvdPwy+w==;kFq/uySTk0KKFI8jziJe2A=="
 ---

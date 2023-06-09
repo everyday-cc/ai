@@ -84,6 +84,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "DeSantis takes AI campaign messaging in an unsettling direction"
+    excerpt: "The RNC broke new ground in April with literally fake AI-generated messages in an attack ad. Ron DeSantis' campaign just made matters even worse."
+    publishedDateTime: 2023-06-09T12:53:00Z
+    webUrl: "https://www.msnbc.com/rachel-maddow-show/maddowblog/desantis-takes-ai-campaign-messaging-unsettling-direction-rcna88523"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 17
 
 secured: "yk6NMeJWh/6T7vqarhkv56vs1bT4gbBlq1fS1xqAdVBvOgdvFrsvEkcig+c2fUIuQOlwuepD3eAkB4F4jaD8ePTkse55QBqMdahAHuT7ugyFpSOefsT7VTILJtf150XQp/t1yy9ToIghnSJtI3RLyCp4Rb/gboxojY5kWReA30cbt/byMPfQUZj6mIf7E8izSODLSGTbcfi6tbFdxORF9P9mvFLAkrFhQXqfeO7YDv4PcwGZUNgBpHawdvCb7fWK6f2q4CwwkFXkhqlUIWKil7lwJXbBuyjY1to/0MKKxN7v/FXJDv59x2yr0ybpFsLoTk9VDo/9GjX1aeCkH8Dm+1uYW0vLoW6no3+PJhsxFC9VmtEYssnTu5+uxTxlJS8mA8PnZ2ipR6o2Be0bNwOxc5/+737P8wJ2aPwfV3ZHjI/fLB77us1Ta7VVeN2qHUWpFZ0D0PkG/52yKrnWb1qTs+jGRJx3OFMOXOSLga+kBtHv7IAAVuJoHzaNfRokgKdD2bBB2mBl4uwWdMyzAoT4Wg==;4uTDsSLZGoNMSmyhx1eQ2A=="
 ---
