@@ -1,10 +1,10 @@
 ---
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ..."
-publishedDateTime: 2023-05-31T12:21:00Z
-originalUrl: "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
-webUrl: "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
+excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
+publishedDateTime: 2023-05-31T14:00:00Z
+originalUrl: "https://www.stltoday.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
+webUrl: "https://www.stltoday.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 631
     isCached: true
 
-secured: "+5Sj/higIqeIm/eU10xbBS04j4cx4Qt4AfgmGA21zseaj04fmBUZw0XknJQyaJtaVlIbDQdSUrpszz1OfDCJ/eOnrreJRhXBQMXwxPiTo5UiYWQ5vErHj9QjhQxcB1/8UWyAENxjmsnmXoFxTkviC8MIGXGwz1TRyvoX+GEPnklghYZwgxoJIlhKO2HFEBsfHk+MyVM6aZFH/l1ylBCcOnYYl7bsv9W2xi44V4qodEOIZidiB0xmpJJq1GEUiVo2ob2ZbVZjDJ8SRIPyRDWyJqWVGi0IT5oCbPfXfm2yfrDdqmkz5EA1dxVvAl20kFD6lZQajj0x6F0I6YViwqKOce6r19Id8YX3zjkLbLJnh/Y=;5e9OABthfQWcI95shWcqiw=="
+secured: "8nABUIUR2L1/tzbyQMLx7OviiZOGJDYICYMs88JfWOXKuIqT59ZXoGb1r+MUaGJ635SBdiaUFP3Nq75h1+DxJtJ9lJ6H1onUPhO51B/sAlqzJj9vLPRiWVc40Ud0LzWrdsK1VKG8lvntEd2RyZw4wKGNHBNbqw7F1JLpF6C30Uwr+7QVe6YkkUhym7WMShgXvZniDR8VFMHqHia3EMK+kGiDUsLlFKynMnlDf3yABsr3jOxy6GrV5Jd5tqaQor6/sPa8NXQv21HWklFDnJFeNDe7UEwp7PgkVnIqMsOsaIOtOTAZJOIALNFHVSQTNxv+xpwgAVpdfr3NIO2fko+Mzny1vkqzLFht9s/6UTJ8+GY=;HiA3sqe5+SA+VU8XxggYEw=="
 ---
 

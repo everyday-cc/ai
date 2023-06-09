@@ -147,6 +147,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Adds OpenAI’s GPT-4 Models to Azure Government Services"
+    excerpt: "Potential government clients that could obtain access to ChatGPT AI models include NASA, the Defense Department, and the Energy Department."
+    publishedDateTime: 2023-06-07T14:24:00Z
+    webUrl: "https://tokenist.com/microsoft-adds-openais-gpt-4-models-to-azure-government-services/"
+    type: article
+    provider:
+      name: The Tokenist
+      domain: tokenist.com
+    quality: 69
+    images:
+      - url: "https://tokenist.com/wp-content/uploads/2023/06/182807824_m_normal_none.jpg"
+        width: 2508
+        height: 1672
+        isCached: true
   - title: "Microsoft launches generative AI service for government agencies"
     excerpt: "Microsoft's Azure OpenAI Service will allow departments to adapt generative AI models for tasks including content generation and semantic search."
     publishedDateTime: 2023-06-07T15:03:00Z

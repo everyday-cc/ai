@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Aspetar lecture explores regenerative artificial intelligence in healthcare"
-excerpt: "The Aspetar Tuesday Lecture Series recently featured a thought provoking session titled Towards regenerative AI in healthcare: How"
-publishedDateTime: 2023-06-08T06:18:00Z
-originalUrl: "https://thepeninsulaqatar.com/article/08/06/2023/aspetar-lecture-explores-regenerative-artificial-intelligence-in-healthcare"
-webUrl: "https://thepeninsulaqatar.com/article/08/06/2023/aspetar-lecture-explores-regenerative-artificial-intelligence-in-healthcare"
+title: "Aspetar Lecture Explores Regenerative Artificial Intelligence In Healthcare"
+excerpt: "The lecture was delivered by Bart de Witte, the CEO-Founder of the HIPPO AI Foundation and a member of the Aspetar Scientific Advisory Board. De Witte began his lecture by emphasising the umbrella term 'artificial intelligence' (AI) to encompass various techniques,"
+publishedDateTime: 2023-06-08T07:39:00Z
+originalUrl: "https://menafn.com/1106410607/Aspetar-Lecture-Explores-Regenerative-Artificial-Intelligence-In-Healthcare"
+webUrl: "https://menafn.com/1106410607/Aspetar-Lecture-Explores-Regenerative-Artificial-Intelligence-In-Healthcare"
 type: article
 quality: 52
 heat: 52
 published: false
 
 provider:
-  name: The Peninsula
-  domain: thepeninsulaqatar.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://thepeninsulaqatar.com/get/maximage/20230608_1686209479-783.jpeg?1686209479"
-    width: 1200
-    height: 800
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?736727"
+    width: 351
+    height: 250
     isCached: true
 
-secured: "Aod45zYqgxGLk+6rXZWhvjndQE52habbf18mH5CmtVHMOYsnhjFgX7/shXq9uqkmOiiTfWXQsBMGzn4U0FCpXR56eZbYEXVKXpIxkfRLmSnCCEDz8UZ9MWx2/7uQp1PeBQUApiogBbt9xHe8BrKrOMp8N4tqeMkL0tWV2GNrYp/myrWBOsWljW7Ek299MQ9ksvFBLmvaW/bB57jx7S78gyFFaTzRe7qDly48bhFq7Rmdds111c3i1q4JraJVprWIG+M3Bn8letH+Qz8doK2ur7aJhbwz93K07vptVg7xaKY5iQTH1qam1G3VatbskviNQ2YkwKhqGvQnwnvd4TbWOXELxxkO46tYDQbakgT+RKg=;BVI7h9EZu/sy5H6js+/ztw=="
+secured: "5DcMNgcKCfJe4ZxDPLsAvUOTXnFpDlFLy7Shyw/qENznZ4PoJehdeMpvqCdpEzznGLk+hqKFfb6CUZ6kvO4O9mvjF2ouDX4niMQ2TNQhS66qRjKII4Zy7hKz3eTcjDjSR7cIh1GTxi2CRar++7dXlx8Ml51hTcc7xnhIurnQHjIXDD0UXzjj2/8Wuq3cn7AU79oNrMxb1gMK/V0dYqLokJolkRB54yJsEq9rRdeR1FWhOhbgdYczV6tyGV+h5njgrSB5W0lLyuIkrDUkr/h1OAqokmGlNuY72sakkW39E4EW9terxAuMVlskUcL4ctxxxbcm3Y0RgkBUsv6gxTQgyS1iRbwU7fiAT48YWs0ni0c=;3N/cSp2r6ipS7k2l9/nDOQ=="
 ---
 

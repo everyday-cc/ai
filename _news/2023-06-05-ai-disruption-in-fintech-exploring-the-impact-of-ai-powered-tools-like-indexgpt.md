@@ -97,20 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "One-sentence warning on artificial intelligence"
-    excerpt: "THIS week, 80 artificial intelligence scientists and more than 200 ‘other notable figures’ signed a statement that says ‘mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as"
-    publishedDateTime: 2023-06-04T18:05:00Z
-    webUrl: "https://www.newagebd.net/article/203394/one-sentence-warning-on-artificial-intelligence"
-    type: article
-    provider:
-      name: New Age
-      domain: newagebd.net
-    quality: 39
-    images:
-      - url: "https://www.newagebd.com/files/records/news/202306/203394_og.png"
-        width: 790
-        height: 452
-        isCached: true
   - title: "In AI Talent War, Rushing to Hire Tech Experts Without a Business Plan Is the Least Intelligent Approach"
     excerpt: "And the reassuring news, according to Wang: “There’s not going to be a robot that’s going to walk up ... said that before jumping on the AI bandwagon, it’s important to start from square one with a plan in place. “If you’re hiring AI technical ..."
     publishedDateTime: 2023-06-08T14:38:00Z

@@ -2,6 +2,92 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-05-12-the-open-source-ai-boom-is-built-on-big-techs-handouts-how-long-will-it-last.md",
+      "title": "The open-source AI boom is built on Big Tech’s handouts. How long will it last?",
+      "excerpt": "Greater access to the code behind generative models is fueling innovation. But if top companies get spooked, they could close up shop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/05/12/1072950/open-source-ai-google-openai-eleuther-meta/",
+      "originalUrl": "https://www.technologyreview.com/2023/05/12/1072950/open-source-ai-google-openai-eleuther-meta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/open-closed2.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/05/12/1072950/open-source-ai-google-openai-eleuther-meta/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/12/1072950/open-source-ai-google-openai-eleuther-meta/amp/",
+      "publishedDateTime": "2023-05-12T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-study-presents-large-brain-like-neural-networks-for-ai.md",
+      "title": "Study presents large brain-like neural networks for AI",
+      "excerpt": "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/445321687/study-presents-large-brain-like-neural-networks-for-ai.html",
+      "originalUrl": "https://sciencex.com/wire-news/445321687/study-presents-large-brain-like-neural-networks-for-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2023/study-presents-large-b.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/445321687/study-presents-large-brain-like-neural-networks-for-ai.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/445321687/study-presents-large-brain-like-neural-networks-for-ai.amp",
+      "publishedDateTime": "2023-05-12T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-artificial-intelligence-etf-hits-52-week-high-as-its-23-ytd.md",
       "title": "Artificial Intelligence ETF hits 52-week high as its +23% YTD",
       "excerpt": "Artificial Intelligence has been one of the big buzzwords of 2023 and the Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) has taken notice as the exchange traded fund touched a new ...",
@@ -1081,109 +1167,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-how-ubers-robotics-partner-is-reinventing-the-310b-food-delivery-industry.md",
-      "title": "How Uber's Robotics Partner Is Reinventing the $310B Food Delivery Industry",
-      "excerpt": "Serve's technology is the future of sidewalk delivery, a $310B market opportunity. Here's why they are leading the charge and why you don't want to miss this investment opportunity. Why brands like Uber and Pizza Hut are turning to Serve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/how-ubers-robotics-partner-is-reinventing-the-310b-food/451928",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ubers-robotics-partner-is-reinventing-the-310b-food/451928",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1683752225-unnamed-6.png",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally.md",
-      "title": "Google Insiders Are $9 Billion Richer After AI-Fueled Stock Rally",
-      "excerpt": "Google cofounders Larry Page and Sergey Brin surged back into the ranks of the 10 richest people in the world Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/05/11/google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally/",
-      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/05/11/google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645d405718760da33bcb5cb6/0x0.jpg?format=jpg&crop=2096,1178,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/05/11/google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/05/11/google-insiders-are-9-billion-richer-after-ai-fueled-stock-rally/amp/",
-      "publishedDateTime": "2023-05-11T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

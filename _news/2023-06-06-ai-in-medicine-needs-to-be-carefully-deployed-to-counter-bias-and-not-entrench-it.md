@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-06T09:00:00Z
 originalUrl: "https://www.mprnews.org/story/2023/06/06/npr-artificial-intelligence-racial-bias-health-care"
 webUrl: "https://www.mprnews.org/story/2023/06/06/npr-artificial-intelligence-racial-bias-health-care"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media.npr.org/assets/img/2023/06/05/gettyimages-1219328016_wide-b6a0b0c3b40cee5cd45ad490ceadf74762416255.jpg?s=2000"

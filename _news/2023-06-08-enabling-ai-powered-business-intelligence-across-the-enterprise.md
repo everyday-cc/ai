@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence
 webUrl: "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/"
 type: article
 quality: 119
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "One-sentence warning on artificial intelligence"
-    excerpt: "THIS week, 80 artificial intelligence scientists and more than 200 ‘other notable figures’ signed a statement that says ‘mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as"
-    publishedDateTime: 2023-06-04T18:05:00Z
-    webUrl: "https://www.newagebd.net/article/203394/one-sentence-warning-on-artificial-intelligence"
-    type: article
-    provider:
-      name: New Age
-      domain: newagebd.net
-    quality: 39
-    images:
-      - url: "https://www.newagebd.com/files/records/news/202306/203394_og.png"
-        width: 790
-        height: 452
         isCached: true
   - title: "AI Disruption in FinTech: Exploring the Impact of AI-powered Tools Like IndexGPT"
     excerpt: "AI's use cases in fintech continue to grow, from data analysis to customer service. New sophisticated tools like IndexGPT are being developed."

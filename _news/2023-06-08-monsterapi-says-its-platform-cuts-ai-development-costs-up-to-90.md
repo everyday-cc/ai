@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-08T11:00:00Z
 originalUrl: "https://insidehpc.com/2023/06/monsterapi-says-its-platform-cuts-ai-development-costs-up-to-90/"
 webUrl: "https://insidehpc.com/2023/06/monsterapi-says-its-platform-cuts-ai-development-costs-up-to-90/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2021/09/HPCAsAService-Cover-Image.png"

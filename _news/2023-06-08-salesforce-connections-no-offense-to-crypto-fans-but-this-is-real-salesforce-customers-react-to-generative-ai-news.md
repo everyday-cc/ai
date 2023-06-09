@@ -124,6 +124,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Salesforce Connections - how Baptist Health personalizes its patient engagement and what AI may bring to the story"
+    excerpt: "How to personalize and scale patient engagement in the hugely competitive US healthcare sector is a major challenge for all providers. New AI tech may be one way to achieve this, reckons Baptist Health,"
+    publishedDateTime: 2023-06-09T11:08:00Z
+    webUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring"
+    ampWebUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 35
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-06/medicine-g81bb96e1e_640.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Salesforce Connections - if AI is the new UI, what does that mean for marketing and commerce?"
     excerpt: "Every company has to become an AI company. Salesforce is absolutely an AI company! That emphatic declaration from Stephen Hammond, GM of Marketing Cloud at Salesforce, shouldn’t really come as any surprise - and we’ll doubtless be hearing that again from CEO Marc Benioff himself next week at a dedicated AI Day event in New York."
     publishedDateTime: 2023-06-07T12:00:00Z

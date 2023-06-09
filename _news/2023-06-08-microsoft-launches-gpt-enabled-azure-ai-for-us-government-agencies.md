@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-ena
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
 type: article
 quality: 121
-heat: 311
+heat: 321
 published: true
 
 provider:
@@ -135,6 +135,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/06/image/jpeg/pOSv8dNxeKMqDTYoHX000kE4rPtKxTMrndXN0Mv6.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Microsoft Adds OpenAI’s GPT-4 Models to Azure Government Services"
+    excerpt: "Potential government clients that could obtain access to ChatGPT AI models include NASA, the Defense Department, and the Energy Department."
+    publishedDateTime: 2023-06-07T14:24:00Z
+    webUrl: "https://tokenist.com/microsoft-adds-openais-gpt-4-models-to-azure-government-services/"
+    type: article
+    provider:
+      name: The Tokenist
+      domain: tokenist.com
+    quality: 69
+    images:
+      - url: "https://tokenist.com/wp-content/uploads/2023/06/182807824_m_normal_none.jpg"
+        width: 2508
+        height: 1672
         isCached: true
   - title: "Microsoft to host exclusive event showcasing how AI can unlock potential of UAE organizations"
     excerpt: "The company will share practical examples and showcase how its Azure AI platform is ushering in a new era of AI"

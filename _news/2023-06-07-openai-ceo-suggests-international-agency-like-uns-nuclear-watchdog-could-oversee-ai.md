@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI CEO calls for global cooperation to regulate AI"
+    excerpt: "Sam Altman, the CEO of ChatGPT maker OpenAI, used a high-profile trip to South Korea on Friday to call for coordinated international regulation of generative artificial intelligence, the technology that underpins his famous chatbot."
+    publishedDateTime: 2023-06-09T11:47:00Z
+    webUrl: "https://www.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230609034602-01-sam-altman-chatgpt-060923-restricted.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "GPT AI Has Arrived in the Doctor's Office"
     excerpt: "The sheer power of GPT has been transformative for the AI field, with chatbot ChatGPT raising ethical questions because of its human-like communication and sometimes incorrect answers. In medicine, interest in AI has boomed as a way to increase efficiency from drug discovery to patient diagnoses."
     publishedDateTime: 2023-06-05T13:00:00Z

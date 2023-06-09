@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 710
         isCached: true
+  - title: "Artificial intelligence: challenges and controversies for US national security"
+    excerpt: "The United States and other countries must consider the possible impact of AI on their armed forces and their preparedness for war fighting or deterrence. Military theorists, strategic planners, scientists,"
+    publishedDateTime: 2023-06-09T10:30:00Z
+    webUrl: "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/"
+    ampWebUrl: "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/"
+    cdnAmpWebUrl: "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/"
+    type: article
+    provider:
+      name: Bulletin of the Atomic Scientists
+      domain: thebulletin.org
+    quality: 70
+    images:
+      - url: "https://thebulletin.org/wp-content/uploads/2018/06/Landing-Page-AI-Twitter.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
     excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
     publishedDateTime: 2023-06-07T06:04:00Z
