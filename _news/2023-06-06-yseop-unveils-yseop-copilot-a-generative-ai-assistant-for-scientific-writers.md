@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Instabase unveils AI Hub, a generative AI platform for content understanding"
+    excerpt: "Powered by generative AI, Instabase with its AI Hub aims to provide self-service solutions to harness the potential of AI-driven insights."
+    publishedDateTime: 2023-06-07T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/instabase-unveils-ai-hub-a-generative-ai-platform-for-content-understanding/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
   - title: "Lucinity unveils generative AI-powered financial crime compliance copilot"
     excerpt: "Lucinity has launched a generative AI-powered 'copilot' designed to boost the productivity of financial crime compliance teams."
     publishedDateTime: 2023-06-06T23:51:00Z

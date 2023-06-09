@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/cutting-edge-techn
 webUrl: "https://markets.businessinsider.com/news/stocks/cutting-edge-technology-can-help-veterans-heal-from-post-traumatic-stress-1032378748"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "CUTTING EDGE TECHNOLOGY CAN HELP VETERANS HEAL FROM POST-TRAUMATIC STRESS"
+    excerpt: "Technology is evolving mental health care. From virtual reality to artificial intelligence, the use of technology can improve how we heal our mind, particularly after experiencing something traumatic."
+    publishedDateTime: 2023-06-08T21:50:00Z
+    webUrl: "https://www.wtva.com/news/national/cutting-edge-technology-can-help-veterans-heal-from-post-traumatic-stress/article_42607ddb-15a5-5e19-8133-4acb9aacf3ae.html"
+    type: article
+    provider:
+      name: WTVA
+      domain: wtva.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wtva.com/content/tncms/custom/image/c1b448be-3cb7-11ec-8535-6791a281df39.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "aTBQ5jQcmXSZH6Yt71EcdEKyyz/wtZX5+cle0kw4V0qNxUVInlFKZqXqn2pv+9w0nin/3Klh2T38ineGsS2h7v7hsQPbUXrT4TtSZ4JqwjW0Zjx2Hx6YvyiQojBn+2vs162ixnjfkp5L80jYESMjsS+aOI10mOBxMmrxyoBd3dm76elhWDhLjjR45ZXIolQCfi3RBhrqNIWULLvv6WpBBLp8nGLG2o5HP7K56jclr2Xq0939A8u4vQLkhQr9Qyfum6OjKi9GdfPwnOYVL0CKIjVcMzoDeF0DVSwNnL1dK84YpafFPk0cM8/hNxBMNSQAWA/sopXRCRSZlKjCWuiScdk1x/CIv5r/tMw3gmtoUVqbUWONDbsmnDgx/tiolbVGw6yXStrc0XK+h61yeKIb/ZI6xM/RpoZ5BIUVPynhZTIGXbqCVhnN7iZY51GWkX6oNEVUvdSLSCQprXq20ZlQdtEKW8mVX7YP84DnCggZq0Spm4YGyoGkB/+iMfiwg8iv/lkQ8k3BJ7HTEMlHUcrMgw==;q8dR8Gl9nJCOUYRCRc1gCw=="
 ---

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-21-googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored.md",
+      "title": "Googlers say Bard AI is “worse than useless,” ethics concerns were ignored",
+      "excerpt": "From the outside, Google Bard looks like a rushed product to try to compete with ChatGPT, and some Google employees share those sentiments. A new report from Bloomberg interviews 18 current and former workers and came away with a pile of damning commentary and concerns about AI ethics teams that were \"disempowered and demoralized\" so Google could get Bard out the door.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg",
+          "width": 760,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
+      "publishedDateTime": "2023-04-20T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-pensions-pressure-electric-cars-and-ai-ethics.md",
       "title": "Pensions pressure, electric cars and AI ethics",
       "excerpt": "The government may have to raise the state pension age to 70 by 2050 due to pressure on the public finances. Ian King is joined by Carl Emmerson, deputy director of the Institute for Fiscal Studies - who says nine in 10 workers are saving less than needed for a decent standard of living in retirement.",

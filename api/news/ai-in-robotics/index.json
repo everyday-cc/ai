@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-08-apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf.md",
+      "title": "Apple Displaced As Top Holding By AI-Play Big Tech In Robot-Run Large-Cap ETF",
+      "excerpt": "In a surprising twist in the world of AI-driven investment, the Qraft AI-Enhanced U.S. Large Cap ETF (NYSE:QRFT) has displaced Apple Inc. (NASDAQ:AAPL) as its top holding, replacing it with another big tech player,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/TCS_Invests_In_AI_1.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-teslas-optimus-robot-fuses-self-driving-tech-with-mind-blowing-humanlike-capabilities.md",
       "title": "Tesla's Optimus robot fuses self-driving tech with mind-blowing humanlike capabilities",
       "excerpt": "Tesla is developing a robot that can take over your daily chores and errands, but what does this mean for us as humans? Kurt \"CyberGuy\" Knutsson explains.",
@@ -834,10 +888,10 @@
     {
       "path": "_news/2023-05-31-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
       "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
+      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ...",
       "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html",
-      "originalUrl": "https://www.stltoday.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html",
+      "webUrl": "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html",
+      "originalUrl": "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -856,7 +910,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T07:00:00-07:00",
+      "publishedDateTime": "2023-05-31T05:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "St. Louis Post-Dispatch",
@@ -1383,49 +1437,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems.md",
-      "title": "Opinion: Stop the robot takeover: How AI advancement can pose problems",
-      "excerpt": "Pospisil explains that most jobs robots will take over are automated. They still cannot compare to a human’s ability to adapt or critical thinking skills in more specialized jobs not having to do with Ford production. In short, they won’t replace us in the job market because they’re missing a human element.",
-      "sourceUrl": null,
-      "webUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
-      "originalUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/01/Screenshot-2023-01-28-11.17.25-PM.png?fit=361%2C240&ssl=1",
-          "width": 361,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
-      "cdnAmpWebUrl": "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
-      "publishedDateTime": "2023-05-26T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

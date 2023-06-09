@@ -2,6 +2,246 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-06-mobileye-stock-falls-intel-found-a-way-to-cash-in-on-ai.md",
+      "title": "Mobileye Stock Falls. Intel Found a Way to Cash in on AI.",
+      "excerpt": "Mobileye Global shares were dropping early on Tuesday as chip maker Intel planned to sell shares of the company worth around $1.4 billion. Intel looks to be taking profit from a run up in the shares of the self-driving technology company it spun off last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/intel-mobileye-global-stock-price-6299c8e8",
+      "originalUrl": "https://www.barrons.com/articles/intel-mobileye-global-stock-price-6299c8e8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-499870/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/intel-mobileye-global-stock-price-6299c8e8",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-mobileye-global-stock-price-6299c8e8",
+      "publishedDateTime": "2023-06-06T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-governments-worldwide-rush-to-place-regulations-on-artificial-intelligence-a-rapidly-growing-technology.md",
+      "title": "Governments worldwide rush to place regulations on artificial intelligence, a rapidly growing technology",
+      "excerpt": "Artificial intelligence continues to become more powerful, and governments across the world are looking to regulate the technology. Here's what different countries are doing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology",
+      "originalUrl": "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18095c3e-bc3a-4467-93fd-fbf40bb6ed4e/4488e10c-7119-406e-bfbb-9043f630b039/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology.amp",
+      "publishedDateTime": "2023-06-06T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-reflections-will-artificial-intelligence-compute-to-human-extinction.md",
+      "title": "Reflections – Will artificial intelligence compute to human extinction?",
+      "excerpt": "The latest threat to humanity’s survival is artificial intelligence, which supposedly has the potential to outsmart us. Considering how many of us seem to be three bricks shy of a load, this seems quite plausible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/",
+      "originalUrl": "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.readingeagle.com/wp-content/uploads/2021/08/readeag.jpg",
+          "width": 2100,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/amp/",
+      "cdnAmpWebUrl": "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/amp/",
+      "publishedDateTime": "2023-06-06T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reading Eagle",
+        "domain": "readingeagle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-why-ai-wasnt-mentioned-at-all-during-apples-big-wwdc-presentation.md",
+      "title": "Why AI wasn't mentioned at all during Apple's big WWDC presentation",
+      "excerpt": "AI. Here's why Tim Cook was mum on the term other Big Tech CEOs are loving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6",
+      "originalUrl": "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/647f51b89fcce6001935925d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp",
+      "publishedDateTime": "2023-06-06T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-arrange-your-transcripts-into-paragraphs-with-amazon-transcribe.md",
+      "title": "Arrange your transcripts into paragraphs with Amazon Transcribe",
+      "excerpt": "Amazon Transcribe is a speech recognition service that generates transcripts from video and audio files in multiple supported languages and accents. It comes with a rich set of features, including automatic language identification, multi-channel and multi-speaker support, custom vocabularies, and transcript",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/arrange-your-transcripts-into-paragraphs-with-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/arrange-your-transcripts-into-paragraphs-with-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/arrange-transcripts-in-paragraphs.jpg",
+          "width": 1024,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T09:28:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know.md",
       "title": "Instagram may be getting its own AI chatbot soon. Here's what we know",
       "excerpt": "Instagram's chatbot is very similar in purpose and design to Snapchat's My AI. Since Snapchat's feature has not been well received, it's interesting to see that Instagram is following in its footsteps. Whether this will become a useful feature or be quickly forgotten remains to be seen.",
@@ -346,57 +586,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-06-startup-instabase-notches-2-billion-valuation-incorporates-new-ai.md",
-      "title": "Startup Instabase Notches $2 Billion Valuation, Incorporates New AI",
-      "excerpt": "Business services startup Instabase Inc. has raised a new round of funding that doubles its valuation to $2 billion, a deal buoyed by the company’s use of new generative artificial intelligence tools in its suite of corporate products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-06/startup-instabase-notches-2-billion-valuation-incorporates-new-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-06/startup-instabase-notches-2-billion-valuation-incorporates-new-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibQZYADtB..w/v0/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-06-why-ai-is-a-force-multiplier-for-consultants-and-clients-alike.md",
       "title": "Why AI Is A Force Multiplier For Consultants And Clients Alike",
       "excerpt": "Just like an expert consultant, only certain use cases are best suited for AI and several considerations should be part of that decision.",
@@ -509,7 +698,7 @@
       "originalUrl": "https://mainichi.jp/english/articles/20230606/p2g/00m/0na/037000c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -785,7 +974,7 @@
       "originalUrl": "https://www.retail4growth.com/viewpoints/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -997,216 +1186,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-the-future-of-education-disruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5.md",
-      "title": "The Future Of Education - Disruption Caused By AI And ChatGPT: Artificial Intelligence Series 3 Of 5",
-      "excerpt": "It is crucial for educational systems to adapt quickly and integrate AI into teaching/learning. However, educational systems are slow to adapt and full of bureaucracies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/",
-      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647e8876a92e58b45e214425/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/",
-      "publishedDateTime": "2023-06-05T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-apple-avoids-ai-hype-at-wwdc-keynote-by-baking-ml-into-products.md",
-      "title": "Apple avoids “AI” hype at WWDC keynote by baking ML into products",
-      "excerpt": "Amid notable new products like the Apple Silicon Mac Pro and the Apple Vision Pro revealed at Monday's WWDC 2023 keynote event, Apple presenters never once mentioned the term \"AI,\" a notable omission given that its competitors like Microsoft and Google have been heavily focusing on generative AI at the moment.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/vision_pro_face_scanning_2-800x451.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/amp/",
-      "publishedDateTime": "2023-06-05T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-tech-slips-as-ai-optimism-fades-tech-roundup.md",
-      "title": "Tech Slips as AI Optimism Fades -- Tech Roundup",
-      "excerpt": "Shares of technology companies slipped as optimism about a new wave of artificial-intelligence technology faltered somewhat. Palantir Technologies rose",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
-      "originalUrl": "https://www.marketwatch.com/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
-      "publishedDateTime": "2023-06-05T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-softbank-and-nvidia-to-bring-generative-ai-to-telcos.md",
-      "title": "SoftBank and NVIDIA to Bring Generative AI to Telcos",
-      "excerpt": "Telco modernization will enable telcos to leverage AI to deliver a wide range of new services and automate operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/softbank-nvidia-generative-ai-telcos/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/softbank-nvidia-generative-ai-telcos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt-vs-github-copilot.png",
-          "width": 1400,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

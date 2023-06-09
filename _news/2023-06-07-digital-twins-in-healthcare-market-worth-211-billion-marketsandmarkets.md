@@ -35,6 +35,22 @@ related:
         width: 715
         height: 440
         isCached: true
+  - title: "Global Public Relation Robots Market Report 2023: Increasing Applications of Artificial Intelligence Bolsters Growth"
+    excerpt: "Global Market Size, Forecast, Insights, Segmentation, and Competitive Landscape with Impact of COVID-19 & Russia-Ukraine War\" report"
+    publishedDateTime: 2023-06-06T21:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32748796/global-public-relation-robots-market-report-2023-increasing-applications-of-artificial-intelligenc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32748796"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32748796"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "USD 4.02 Billion Growth in Automotive Voice Recognition System Market Size - Industry Analysis, Market Trends, Market Growth, Opportunities"
     excerpt: "Automotive voice recognition system refers to the concept of using speech recognition technology in vehicles. The technology is gaining traction among consumers across the globe due to its growing advancements in recognition algorithms."
     publishedDateTime: 2023-06-06T17:04:00Z

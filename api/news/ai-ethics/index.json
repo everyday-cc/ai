@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-09-another-us-judge-says-lawyers-must-disclose-ai-use.md",
+      "title": "Another US judge says lawyers must disclose AI use",
+      "excerpt": "A judge on the U.S. Court of International Trade on Thursday issued an order requiring lawyers to disclose their use of generative artificial intelligence tools to create legal documents, citing security concerns related to confidential information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/another-us-judge-says-lawyers-must-disclose-ai-use-2023-06-08/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/another-us-judge-says-lawyers-must-disclose-ai-use-2023-06-08/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/WUJ86NY10CE9sTDRdOnDiXYlMC0=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/756AIQQZJJNOPKCKJOSCV46MAM.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-uks-plans-for-first-global-summit-on-ai-safety-draw-criticism.md",
       "title": "UK’s plans for “first global summit” on AI safety draw criticism",
       "excerpt": "These worries were recently amplified by some AI experts likening the potential threats posed by AI to those of pandemics or nuclear weapons. \"AI\" has also been an extremely buzzy term in business recently.",
@@ -1450,59 +1502,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response.md",
-      "title": "Combining Generative AI ChatGPT Into Handguns Triggers Fiery Response",
-      "excerpt": "Would handguns be better with generative AI onboard, or is this a non-starter? Either way, it is a highly controversial topic. See what it is all about.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 641,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645bfa0c8aa4ed65ec653182/0x0.jpg?format=jpg&crop=3887,2914,x350,y0,safe&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/",
-      "publishedDateTime": "2023-05-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

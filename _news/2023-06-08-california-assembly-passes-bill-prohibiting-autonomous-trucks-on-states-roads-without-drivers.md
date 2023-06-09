@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelharley/2023/06/07/california-ass
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelharley/2023/06/07/california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers/amp/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/3631686152912/2023/1/16861531432766/v1.5/Lost-coyote-pup-found-visiting-California-familys-dogs-in-kennel.jpg"
         width: 1080
         height: 721
+        isCached: true
+  - title: "Mercedes achieves SAE Level 3 self-driving certification in California, but there’s a catch"
+    excerpt: "After achieving SAE Level 3 certification in Nevada back in January, Mercedes has done the same in California as well."
+    publishedDateTime: 2023-06-08T22:54:00Z
+    webUrl: "https://bgr.com/tech/mercedes-achieves-sae-level-3-self-driving-certification-in-california-but-theres-a-catch/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 14
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/mercedes-self-driving-california.jpeg?quality=82&strip=all"
+        width: 928
+        height: 619
         isCached: true
 
 secured: "s00havM0XQi11kNDg6P85qh2QwrqBVyWxd4i+MifG2LO64akNq0IPShtBEsctBwk5X2LC72hQ+0pgp8mpoIDV0QMGf2XTikJVRhki/0M+0G2QFvAjQYD+affiNpxulp9A4HyR9kl/hF9ATE4WRlmm7EXAke98qnL716z5Vq/KmTX/OedRjJywXg9DLCFh19YtCo8585OPgmKi1bJ6MIIWn1l2gegOw3X9VnSYbDij0EAI3CtycgnpgWYcw2wkqulHs1LnwF5nJFRY+d+113/CgeXPrkZQRSPcDUu0wGsypLlOFMMJ81A3Sxk1mGNFp2k1I9kVUEbZhH+PAikpKH2ylK12h4yZMFa3jqKiHftP5DM0XKUO3NVX0gtx91QcjqThvN6+ubfXi6NQHMzipLeawPiANX7XBQHM51LskIbgWfYviBJc5W34mEYeFoKzWuA48p2bci8MZW+hMK2XBrLsM9rbQGz1nsnYtLVYlZBDRbjrAH5BH4xh6vHD8H8X8+IS9m+9JWJCHi1cS+4RlOYFA==;LL0WXnNRwW6FCtqgeVH5mQ=="

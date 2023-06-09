@@ -2,6 +2,186 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-03-artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce.md",
+      "title": "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce",
+      "excerpt": "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/",
+      "publishedDateTime": "2023-06-03T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup.md",
+      "title": "Only in Bengaluru: Landlord invests Rs 8 lakh in tenant’s AI startup",
+      "excerpt": "Pawan Gupta, the co-founder and CEO of Betterhalf.ai, revealed that his landlord invested $10,000 (Rs 8.2 lakh approximately) in his AI-driven matrimonial app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html",
+      "originalUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Collage-Maker-03-Jun-2023-10-56-AM-1220.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html/amp",
+      "publishedDateTime": "2023-06-02T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-nowhere-for-investors-to-hide-from-ai-hype.md",
+      "title": "Nowhere for Investors to Hide From AI Hype",
+      "excerpt": "This week, chip maker Nvidia was briefly worth more than $1 trillion, thanks to investor excitement about demand for its chips created by so-called “generative AI,\" the technology behind ChatGPT. Smaller AI-related stocks have also soared as investors search for the big winner from the latest fashionable theme.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html",
+      "originalUrl": "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/06/02/600x338/Nvidia_1685708783326_1685708790004.JPG",
+          "width": 599,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html",
+      "publishedDateTime": "2023-06-02T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-whats-inside-nvidias-ai-supercomputer-powerful-chips-and-a-lot-of-memory.md",
+      "title": "What’s Inside Nvidia’s AI Supercomputer? Powerful Chips and a Lot of Memory.",
+      "excerpt": "This past Monday, chip giant Nvidia which has seen its shares nearly triple to over $400 on rising demand for AI, announced its new DGX GH200 AI supercomputer powered by its GH200 Grace Hopper superchips. That’s a lot of letters, numbers, and supers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "originalUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-793870/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "publishedDateTime": "2023-06-02T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-google-opposed-a-shareholder-proposal-asking-for-more-transparency-around-its-ai-algorithms.md",
       "title": "Google opposed a shareholder proposal asking for more transparency around its AI algorithms",
       "excerpt": "During Alphabet's 2023 shareholder meeting,Trillium Asset Management proposed asking the search giant for more accountability on its AI algorithms.",
@@ -1003,187 +1183,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-nowhere-for-investors-to-hide-from-ai-hype.md",
-      "title": "Nowhere for Investors to Hide From AI Hype",
-      "excerpt": "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7",
-      "originalUrl": "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-792763/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-rise-of-ai-to-give-freshers-an-edge-impact-of-artificial-intelligence-on-education-jobs-exclusive.md",
-      "title": "Rise of AI to Give Freshers an Edge! Impact of Artificial Intelligence on Education, Jobs [Exclusive]",
-      "excerpt": "The rise of AI has its pros and cons. With one of the major cons being the threat to job availability for freshers, experts have shared with the rise of ChatGPT and other AI tools, freshers are actually at an advantage!",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/education/rise-of-ai-to-give-freshers-an-edge-impact-of-artificial-intelligence-on-education-jobs-exclusive-article-100697648",
-      "originalUrl": "https://www.timesnownews.com/education/rise-of-ai-to-give-freshers-an-edge-impact-of-artificial-intelligence-on-education-jobs-exclusive-article-100697648",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-100697648,updatedat-1685688968821,width-1280,height-720,resizemode-75/100697648.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/education/rise-of-ai-to-give-freshers-an-edge-impact-of-artificial-intelligence-on-education-jobs-exclusive-article-100697648/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/rise-of-ai-to-give-freshers-an-edge-impact-of-artificial-intelligence-on-education-jobs-exclusive-article-100697648/amp",
-      "publishedDateTime": "2023-06-01T23:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-apexoneai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions.md",
-      "title": "ApexOne.AI Revolutionizes Business Operations with Advanced Artificial Intelligence Solutions",
-      "excerpt": "ApexOne.AI, a leading provider of cutting-edge artificial intelligence (AI) solutions, announces the launch of their groundbreaking platform designed to transform business operations and drive unprece",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32684334",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334",
-      "publishedDateTime": "2023-06-01T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-broadcom-ceo-sees-rising-ai-chip-demand-earnings-were-strong.md",
-      "title": "Broadcom CEO Sees Rising AI Chip Demand. Earnings Were Strong.",
-      "excerpt": "Chip maker Broadcom reported better-than-expected earnings for its fiscal second quarter. The revenue outlook topped Wall Street's forecast, as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "originalUrl": "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-791517/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "publishedDateTime": "2023-06-01T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.retail4growth.com/viewpoints/lite/global-image-recogniti
 cdnAmpWebUrl: "https://www-retail4growth-com.cdn.ampproject.org/c/s/www.retail4growth.com/viewpoints/lite/global-image-recognition-in-retail-market-set-for-growth-says-report-1060"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Public Relation Robots Market Report 2023: Increasing Applications of Artificial Intelligence Bolsters Growth"
+    excerpt: "Global Market Size, Forecast, Insights, Segmentation, and Competitive Landscape with Impact of COVID-19 & Russia-Ukraine War\" report"
+    publishedDateTime: 2023-06-06T21:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32748796/global-public-relation-robots-market-report-2023-increasing-applications-of-artificial-intelligenc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32748796"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32748796"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Digital Twins in Healthcare Market worth $21.1 billion | MarketsandMarkets"
     excerpt: "Digital Twins in Healthcare Market in terms of revenue was estimated to be worth $1.6 billion in 2023 and is poised to reach $21.1 billion by 2028, growing at a CAGR of 67.0% from 2023 to 2028 according to a new report by MarketsandMarkets™."
     publishedDateTime: 2023-06-06T18:24:00Z

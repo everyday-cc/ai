@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-08-apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf.md",
+      "title": "Apple Displaced As Top Holding By AI-Play Big Tech In Robot-Run Large-Cap ETF",
+      "excerpt": "In a surprising twist in the world of AI-driven investment, the Qraft AI-Enhanced U.S. Large Cap ETF (NYSE:QRFT) has displaced Apple Inc. (NASDAQ:AAPL) as its top holding, replacing it with another big tech player,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/TCS_Invests_In_AI_1.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-apples-vision-pro-is-the-retina-display-moment-for-headsets.md",
       "title": "Apple’s Vision Pro is the Retina display moment for headsets",
       "excerpt": "That was when Apple shipped its first-ever Retina display and Steve Jobs said that, once you use it, “you can’t go back.” It was something I couldn’t unsee, like looking through prescription glasses for the first time.",
@@ -149,7 +203,7 @@
       "originalUrl": "https://www.retail4growth.com/viewpoints/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1272,40 +1326,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns.md",
-      "title": "TSA is testing facial recognition at more airports, raising privacy concerns",
-      "excerpt": "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/",
-      "originalUrl": "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

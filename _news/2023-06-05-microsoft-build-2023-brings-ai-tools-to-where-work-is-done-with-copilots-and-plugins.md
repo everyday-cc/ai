@@ -63,6 +63,20 @@ related:
         width: 1100
         height: 665
         isCached: true
+  - title: "Microsoft unveils Azure OpenAI Service for Government & AI customer commitments"
+    excerpt: "Microsoft announced its new Azure OpenAI Service for government and the tech giant unveiled a new set of three AI commitments to its customers"
+    publishedDateTime: 2023-06-08T22:43:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-unveils-azure-openai-service-for-government-ai-customer-commitments/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 95
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_u.s._flag_made_out_of_computer_code_edcc3754-3681-4c8e-8cc6-5e39e2d58c06.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "How Microsoft Fabric aims to beat Amazon and Google in the cloud war"
     excerpt: "Analysts and experts praised Microsoft Fabric as a significant advancement that could help Microsoft leapfrog Amazon and other cloud providers"
     publishedDateTime: 2023-06-06T21:23:00Z
@@ -76,6 +90,36 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-05-at-6.22.08-PM.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Microsoft Is Bringing OpenAI’s GPT-4 AI model to US Government Agencies"
+    excerpt: "Microsoft Corp. will make it possible for users of its Azure Government cloud computing service, which include a variety of US agencies, to access artificial intelligence models from ChatGPT creator OpenAI."
+    publishedDateTime: 2023-06-07T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLkcciEoUAyI/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft used AI to refrain people from downloading Chrome"
+    excerpt: "It comes as no surprise that ever since the success of ChatGPT and its subsequent integration into the Edge browser as the Bing AI chatbot, Microsoft has gone from being the underdog in the search engine market to now seeing themselves fighting for market ..."
+    publishedDateTime: 2023-06-08T22:40:00Z
+    webUrl: "https://www.androidheadlines.com/2023/06/microsoft-used-ai-to-refrain-people-from-downloading-chrome.html"
+    ampWebUrl: "https://www.androidheadlines.com/2023/06/microsoft-used-ai-to-refrain-people-from-downloading-chrome.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/06/microsoft-used-ai-to-refrain-people-from-downloading-chrome.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 76
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/03/Bing-AI-Logo-AH.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Intel and Microsoft look to bring AI to the masses with Meteor Lake chips"
     excerpt: "Intel aims to put AI-accelerated experiences in the hands of hundreds of millions of people with its new Meteor Lake chips."

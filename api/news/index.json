@@ -2,6 +2,203 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-09-opinion-ai-on-wall-street-impacts-higher-ed-on-main-street.md",
+      "title": "Opinion: AI on Wall Street Impacts Higher Ed on Main Street",
+      "excerpt": "Chip-maker Nvidia joined the trillion-dollar club recently, and it’s eyeing AI’s transformative potential in life sciences, physics, climate, cybersecurity, data science, robotics and simulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/opinion-ai-on-wall-street-impacts-higher-ed-on-main-street",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/opinion-ai-on-wall-street-impacts-higher-ed-on-main-street",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/5ceb6b4/2147483647/strip/true/crop/1000x521+0+96/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd6%2F1d%2F37941b4e4568bdf99e4071f5e54c%2Fwall-street-main-street.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/opinion-ai-on-wall-street-impacts-higher-ed-on-main-street?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/opinion-ai-on-wall-street-impacts-higher-ed-on-main-street?_amp=true",
+      "publishedDateTime": "2023-06-08T16:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-startup-valencia-announces-vds2023-discussing-ai-mobility-and-sustainability.md",
+      "title": "Startup Valencia Announces VDS2023, discussing AI, Mobility, and Sustainability",
+      "excerpt": "Startup Valencia, a private non-profit organization that has been representing and promoting the Valencian tech and innovation ecosystem,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/startup-valencia-announces-vds2023-discussing-ai-mobility-and-sustainability-1032379551",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/startup-valencia-announces-vds2023-discussing-ai-mobility-and-sustainability-1032379551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newsfilecorp.com/files/8568/169365_figure1_550.jpg",
+          "width": 550,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-ai-startup-cohere-now-valued-at-over-21b-raises-270m.md",
+      "title": "AI startup Cohere, now valued at over $2.1B, raises $270M",
+      "excerpt": "Cohere, a generative AI startup with ties to Google, has raised $270 million in a round that values the company at over $2.1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/",
+      "originalUrl": "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1226864145.jpg?resize=1200,420",
+          "width": 1200,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/",
+      "publishedDateTime": "2023-06-08T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-another-us-judge-says-lawyers-must-disclose-ai-use.md",
+      "title": "Another US judge says lawyers must disclose AI use",
+      "excerpt": "A judge on the U.S. Court of International Trade on Thursday issued an order requiring lawyers to disclose their use of generative artificial intelligence tools to create legal documents, citing security concerns related to confidential information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/another-us-judge-says-lawyers-must-disclose-ai-use-2023-06-08/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/another-us-judge-says-lawyers-must-disclose-ai-use-2023-06-08/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/WUJ86NY10CE9sTDRdOnDiXYlMC0=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/756AIQQZJJNOPKCKJOSCV46MAM.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-uks-plans-for-first-global-summit-on-ai-safety-draw-criticism.md",
       "title": "UK’s plans for “first global summit” on AI safety draw criticism",
       "excerpt": "These worries were recently amplified by some AI experts likening the potential threats posed by AI to those of pandemics or nuclear weapons. \"AI\" has also been an extremely buzzy term in business recently.",
@@ -407,7 +604,7 @@
       "originalUrl": "https://arstechnica.com/tech-policy/2023/06/desantis-ad-uses-fake-ai-images-of-trump-hugging-and-kissing-fauci-experts-say/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -795,6 +992,60 @@
       ]
     },
     {
+      "path": "_news/2023-06-08-apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf.md",
+      "title": "Apple Displaced As Top Holding By AI-Play Big Tech In Robot-Run Large-Cap ETF",
+      "excerpt": "In a surprising twist in the world of AI-driven investment, the Qraft AI-Enhanced U.S. Large Cap ETF (NYSE:QRFT) has displaced Apple Inc. (NASDAQ:AAPL) as its top holding, replacing it with another big tech player,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/TCS_Invests_In_AI_1.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-to-combat-gpu-shortage-for-generative-ai-startup-works-to-optimize-hardware.md",
       "title": "To combat GPU shortage for generative AI, startup works to optimize hardware",
       "excerpt": "AI startup CentML aims to help address the worldwide shortage of GPUs for training and inference of generative AI models.",
@@ -948,7 +1199,7 @@
       "originalUrl": "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -988,248 +1239,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-teslas-ai-dreams-may-already-be-priced-into-stock.md",
-      "title": "Tesla’s AI Dreams May Already Be Priced Into Stock",
-      "excerpt": "After an 82% year-to-date rally, Tesla shares trade at about 61 times forward earnings, compared with the mid-to-high single-digit multiples of auto stalwarts General Motors Co. and Ford Motor Co. Even current AI darling Nvidia Corp. trades at only 42 times.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-08/tesla-s-ai-dreams-may-already-be-priced-into-stock-tech-watch",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-08/tesla-s-ai-dreams-may-already-be-priced-into-stock-tech-watch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDkRIumkcuUc/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-enabling-ai-powered-business-intelligence-across-the-enterprise.md",
-      "title": "Enabling AI-powered business intelligence across the enterprise",
-      "excerpt": "Data is the lifeblood of successful organizations. Beyond the traditional data roles&#8212;data engineers, analysts, architects&#8212;decision-makers across an organization need flexible, self-service access to data-driven insights accelerated by artificial intelligence (AI). From marketing to HR, finance",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/",
-      "originalUrl": "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enabling-AI-powered-business-intelligence-across-the-enterprise--scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses.md",
-      "title": "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses",
-      "excerpt": "Commenting on the collaboration with Mastercard, Andrew Hanna, ZainTech CEO said: “The benefits of sophisticated data to productivity, safety, and cost-savings being driven by AI and machine learning are revolutionizing business processes. This ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "originalUrl": "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/mastercard.jpg?itok=xiDRXJSm",
-          "width": 960,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "publishedDateTime": "2023-06-07T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-iit-bhu-showcases-efforts-in-healthcare-and-ai.md",
-      "title": "IIT-BHU showcases efforts in healthcare and AI",
-      "excerpt": "Varanasi: The Indian Institute of Technology (BHU) displayed its efforts in the areas of healthcare, biomaterials and artificial intelligence at the t.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/articleshow/100836651.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/articleshow/100836651.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms",
-      "publishedDateTime": "2023-06-07T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers.md",
-      "title": "California Assembly Passes Bill Prohibiting Autonomous Trucks On State’s Roads Without Drivers",
-      "excerpt": "Late last month, the California State Assembly passed a bill, Assembly Bill 316, prohibiting autonomous weighing over 10,000 pounds from operating on the state's",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelharley/2023/06/07/california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers/",
-      "originalUrl": "https://www.forbes.com/sites/michaelharley/2023/06/07/california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64813c964fc929378330c0ae/0x0.jpg?format=jpg&width=1200",
-          "width": 712,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelharley/2023/06/07/california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelharley/2023/06/07/california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers/amp/",
-      "publishedDateTime": "2023-06-07T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

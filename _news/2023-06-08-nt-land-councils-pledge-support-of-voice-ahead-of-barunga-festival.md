@@ -24,6 +24,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Indigenous voice to parliament adds a political dimension to the Barunga Festival"
+    excerpt: "Before Easter, when I was grounded for a few months for medical reasons, I had to abandon an extensive travel program in my role as Special Envoy for Reconciliation and Implementation of the Uluru Statement from the Heart."
+    publishedDateTime: 2023-06-08T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-adds-a-political-dimension-to-the-barunga-festival/news-story/7c15563bd7c7d0b4bfb81016e99cfa8a"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
+
 secured: "SZda74ugEd783219bmE7rj8/J/0iVt6Eyp9L7wn4QMsrDOQAqcvbYtgmpG+4sg6bS4N1KvRLCQD2KWGUWSHdpEVt3KomUWc9RUZ570Q+NDropd1c1+vF+lCUReO85o5egB+/33Cl84AY2o/al4v6OW4v8zSDkkve3Kc+UwFbWDYMsWoCRCIHR9Ob0vNrPw3zdy5lKKmd2EBg6X50r1DZCheXepUQJoTarLDjo+PSRkt6EJjGekjYCM3R5TIf5RBX8DvSwAkpK8barB9998wjoczzpMN5zWh5ajrmwL6c6CQ9PhDBHg4+dhQ+yxc3TlpEscdFZbAAK0NMgvrKPQkvtwbfd5uBXCfLKVjA9ZkbYs8=;tOBon7UmGN66NLL5v79I7g=="
 ---
 

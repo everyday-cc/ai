@@ -6,9 +6,9 @@ publishedDateTime: 2023-06-08T13:55:00Z
 originalUrl: "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628"
 webUrl: "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628"
 type: article
-quality: 63
-heat: 63
-published: false
+quality: 85
+heat: 85
+published: true
 
 provider:
   name: Business Insider
@@ -22,7 +22,14 @@ topics:
   - Computer Vision
   - AI
   - AI in Robotics
+  - Microsoft AI
 
-secured: "f6N9/hjIzzZLQL70PpzuxTGPNjjF2xd0bXAk2U6lBWdp4II8rt5xwev8+2Who8doM4i2dmDEobSZaOmBC1UzMpmcmFRiBkokFobc/5AjI8kZyy4XFuyIYS97YGuEoXlqXoqT8czGVBaRhZEoIh1vwliY8lwBq9LinwU0/AfFX1DxVTir0f7GzqNMyH7J1N+1jSxxtRPBNPG9s8ipBqmCNpliAjSIBx++mKhnPMDIxZf6KXYrPb6gzJt8H1nQ7KLpEf60/SevYRlPsNJi7mlgaA9aJwEMkkNKtTt11qipbrWv0wHkPVM7ENBbCCyPsVfLplE4808tBo1Nk71PHWWk9wpxfZ/Za7TBqiZf/fKRfWkLbWJ/IiR+Jh3PyV+DpFURoYx6V40xX09ngEqzLwYuVVDJ1C5F4D/fxqsJsFG2WwrSfPVQ0/utPXml9c3kV4WJm0W7blQrIbG1DY632VvSMCV+Kg2WqOXiy/eZEWa1yYxT6lhm+T7aWSWKxV2pJb3jpXJexIHlpc7yhaTbZE6wng==;b2jRgn1E2z09Zt2jMKt9IQ=="
+images:
+  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/TCS_Invests_In_AI_1.jpeg"
+    width: 1024
+    height: 768
+    isCached: true
+
+secured: "SlwbtGbWYG187WOEhXhPVGruS7wLXwMSp0saniZpg8bcSBO2grVNxbwdib9dKgmyWYfDzLOMksTIv5aPgTszMxl+y3qI4d874x1GU7Wcyeq7VHbtVwupRKNP+9OKxcL3kwtEejskkDEgXUGwbaAUzly1WBxMCcn5inbQ2BlZFgm++d/2VF5pRSQts8w+RaUj+w6vWmVsg0AR76w7F9PC0cE1GrM5GJwR5QRDQ7AVDmNhrFjuqUaeJ+JalhKSxpiCDGAMKl5JgbWqH22D2loo1eJNd8EjYUqnKOE7Mrtv/NwNIEHL8CFQxrBWdcru5qW9TWr9U/UAHKfcRGA4E7c5XFvbR3ehYVac6Er4vDQVJ08=;Oi42rU11auEmN5MexrsKDQ=="
 ---
 

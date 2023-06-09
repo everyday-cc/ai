@@ -42,7 +42,7 @@ related:
   - title: "‘The change in pace is crazy’: AI boosts climate information translation drive"
     excerpt: "Google-designed tools help 9,000 young Climate Cardinals volunteers who translate reports into more than 100 languages"
     publishedDateTime: 2023-06-06T11:46:00Z
-    webUrl: "https://www.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
+    webUrl: "https://www.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
     type: article

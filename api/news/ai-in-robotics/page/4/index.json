@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-11-advanced-navigation-unveils-australias-largest-subsea-robotics-centre.md",
+      "title": "Advanced Navigation Unveils Australia's Largest Subsea Robotics Centre",
+      "excerpt": "Sydney, New South Wales - Advanced Navigation, the world's most determined innovator in artificial intelligence (AI) for robotic and navigation technologies, is",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32322249/advanced-navigation-unveils-australias-largest-subsea-robotics-centre",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32322249/advanced-navigation-unveils-australias-largest-subsea-robotics-centre",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32322249",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32322249",
+      "publishedDateTime": "2023-05-10T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-ai-and-modern-workforce-challenges.md",
       "title": "AI And Modern Workforce Challenges",
       "excerpt": "The global workforce should expect big changes over the next decade, and I believe humans will lead those changes.",
@@ -1323,58 +1366,6 @@
         "name": "The Daily Telegraph",
         "domain": "telegraph.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-robot-control-program-market-and-forecast-2030.md",
-      "title": "Robot Control Program Market And Forecast 2030",
-      "excerpt": "May 04, 2023 (The Expresswire) -- The \"Robot Control Program Market\" Size, Trends and Forecasts (2023-2030)â , provides a comprehensive analysis of the Robot Control Program Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robot-control-program-market-and-forecast-2030-2023-05-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/robot-control-program-market-and-forecast-2030-2023-05-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

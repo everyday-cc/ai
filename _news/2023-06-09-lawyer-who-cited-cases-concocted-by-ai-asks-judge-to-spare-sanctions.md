@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/transactional/lawyer-who-cited-cases
 webUrl: "https://www.reuters.com/legal/transactional/lawyer-who-cited-cases-concocted-by-ai-asks-judge-spare-sanctions-2023-06-08/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Another US judge says lawyers must disclose AI use"
+    excerpt: "A judge on the U.S. Court of International Trade on Thursday issued an order requiring lawyers to disclose their use of generative artificial intelligence tools to create legal documents, citing security concerns related to confidential information."
+    publishedDateTime: 2023-06-08T21:35:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/another-us-judge-says-lawyers-must-disclose-ai-use-2023-06-08/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/WUJ86NY10CE9sTDRdOnDiXYlMC0=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/756AIQQZJJNOPKCKJOSCV46MAM.jpg"
+        width: 728
+        height: 381
+        isCached: true
 
 secured: "puKdlDd4ehkMqExwBaS+82BLLDrOBd2KfKQtwRVDX7ZfxZTrzACG4d+gGGPh4K0vKOlWWczFPnjoxxu+Ha4XxkYnqcPZH48XxD+D+QEzg1mIXr5C8jDiYKn7poLshHNL1PdC4NAVkWNxcasWN6sC/jTx7LP1PVpKB/7LUFThO0mDAWjj8KXvwEmDp4hOMXA0AeyAZGr0obmhmIY2VSowAaT+q/EhPeu60vJSqh6qX2qAtw1xtSbEZD1Cz8TVebMvMKL/b+WEfYEL5Xh5pnsqlI0g3KOR4TJSUicGGl0TXt9iiQJvgQn4DwDa3sE9CtptO83u90IbL9OCaEY8mB9YAT3C1f3UiXYgMlUwWvV3VK+pyZCC08WLFj/nxVMi897NnqKEYuC4pw4GWF5++xi7Y541F+5l+q0Fnw5T8fu3eTXL/nt4WPwjVnufLj7Jvsdf0RI8yTH2Lqh2NPhLxK48KmkV2KKSNlisQkrUM1E79WkgDkn5OOurxrb7+2vhiCpuCTLktYmV+HW2RZ4zf4FiVQ==;H7x/IY+mlx4AchbzzktHkA=="
 ---

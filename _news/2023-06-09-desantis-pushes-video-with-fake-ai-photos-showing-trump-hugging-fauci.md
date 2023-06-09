@@ -38,6 +38,22 @@ related:
         width: 800
         height: 454
         isCached: true
+  - title: "DeSantis Ad Showing Fake AI Images Of Trump Hugging Fauci Enrages MAGA Supporters"
+    excerpt: "DeSantis and Trump have been attacking each other’s responses to the Covid-19 pandemic as the 2024 race heats up."
+    publishedDateTime: 2023-06-08T22:36:00Z
+    webUrl: "https://www.forbes.com/sites/saradorn/2023/06/08/desantis-ad-showing-fake-ai-images-of-trump-hugging-fauci-enrages-maga-supporters/"
+    ampWebUrl: "https://www.forbes.com/sites/saradorn/2023/06/08/desantis-ad-showing-fake-ai-images-of-trump-hugging-fauci-enrages-maga-supporters/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saradorn/2023/06/08/desantis-ad-showing-fake-ai-images-of-trump-hugging-fauci-enrages-maga-supporters/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6482578f13cb061c7d2a569a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "DeSantis' campaign apparently used AI-created fake images showing Trump and Fauci hugging and kissing"
     excerpt: "Images in a video shared by Florida Gov. Ron DeSantis' presidential campaign on Twitter have been debunked by AFP."
     publishedDateTime: 2023-06-08T14:56:00Z
