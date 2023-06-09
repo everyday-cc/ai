@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://media.philstar.com/images/bites/artificial-intelligence_2023-05-03_13-02-10.jpg"

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia’s AI software tricked into leaking data"
+    excerpt: "A feature in Nvidia’s artificial intelligence software can be manipulated into ignoring safety restraints and reveal private information, according to new research."
+    publishedDateTime: 2023-06-09T04:00:00Z
+    webUrl: "https://www.ft.com/content/5aceb7a6-9d5a-4f1f-af3d-1ef0129b0934"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "+vBkJgpEUSRPjuwFJ6Q4vzMdNXR5zLJs2vSnaukvMvD37bgF5PFuLWrwhQvtSD1Kz70oWNBetg74RfpMO0ciLFmHddVctFc4WsabmUuhRypfcKlNLJ44b2a05DT3eLsNmtj88We15ccCGLqEqAsgQGdQkf2wiSJLnujfPAgZEzYuEv43wGkQ2qPs2aqHt9jkHMha19iST7IFMPi/+FqYZw3lj/ken0W8Aktsz2v0+Mu7BYr5GlkcLqw4JLoJbyGa7+hBAAbqpdKuA7kTBoTz9BVC0DEUFyIlKm06bTvVtLWDnFFf7PvgCnmHw7WIxcor+BN2JHGXX19F6SzzbR4HNlVvvW3Iprowtclk6UR3Hnck8XW7GYmSOXCJcSJCupdaQwA2dXqFyN/HYZnZBIZ72tzIppbkg0iknuBie86o/GmaHBK7CmHU/YSxJQc0KfGWtMxu8S31cKQvtmw/Oh8P8hWpnHqMt5ShTKXFJBq+VLJQakfoHiOReud+gcYJtZd6RRAJUz4pEiiwfi7hMIomRg==;NGEqYVY7dxXUrg+LVOHpjQ=="
 ---

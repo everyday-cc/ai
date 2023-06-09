@@ -969,6 +969,51 @@
       ]
     },
     {
+      "path": "_news/2023-05-04-artificial-intelligence-and-robotics-updates.md",
+      "title": "Artificial intelligence and robotics updates",
+      "excerpt": "A US regulator put artificial intelligence in the crosshairs ahead of a White House meeting Thursday with tech firms to strategize about its dangers. \"While the technology is moving swiftly, we already can see several risks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.philstar.com/happens/1132",
+      "originalUrl": "https://www.philstar.com/happens/1132",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.philstar.com/images/bites/artificial-intelligence_2023-05-03_13-02-10.jpg",
+          "width": 800,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.philstar.com/happens/1132/amp/",
+      "cdnAmpWebUrl": "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/happens/1132/amp/",
+      "publishedDateTime": "2023-05-03T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "philstar.com",
+        "domain": "philstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt.md",
       "title": "Explained | What is the EU’s Artificial Intelligence Act and how does it plan to rein in tech like ChatGPT?",
       "excerpt": "As artificial intelligence technologies become omnipresent and their algorithms more advanced—capable of performing a wide variety of tasks including voice assistance, recommending music, driving cars, detecting cancer, and even deciding whether you get shortlisted for a job— the risks and uncertainties associated with them have also ballooned.",
@@ -1323,49 +1368,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud.md",
-      "title": "AI lessons from healthcare: Overcoming complexity and embracing the cloud",
-      "excerpt": "The healthcare industry has pioneered some of the most effective, innovative approaches for moving AI into production.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/",
-      "originalUrl": "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Healthcare"
       ]

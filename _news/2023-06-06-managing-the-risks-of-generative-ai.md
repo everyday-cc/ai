@@ -19,51 +19,51 @@ topics:
   - AI
 
 related:
-  - title: "The Devious Dance Of AI-Generated Misinformation"
-    excerpt: "The rise of generative AI poses a significant threat of misinformation. We must safeguard the truth and integrity of our information landscape."
-    publishedDateTime: 2023-06-04T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/"
-    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/"
+  - title: "Google’s generative AI support in Vertex AI is now generally available"
+    excerpt: "Google's generative AI support in Vertex AI, the company's machine learning platform, is now generally available."
+    publishedDateTime: 2023-06-07T20:45:00Z
+    webUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/"
+    ampWebUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135936636.jpg?resize=1200,801"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "What To Know About Generative AI For Customer Support"
+    excerpt: "Its promising results include enhanced text summarization, translation, question-answering ... systems can answer the question in more than fifty languages. 4. Cost-Effectiveness: Implementing AI-based customer support systems can lead to cost savings ..."
+    publishedDateTime: 2023-06-08T11:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647aecbada2ba3a38c0e1090/0x0.jpg?format=jpg&width=1200"
-        width: 1125
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64808b0b0747fc9f7c17834f/0x0.jpg?format=jpg&crop=1457,819,x89,y0,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Impact Of AI On Strategy Games"
-    excerpt: "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development."
-    publishedDateTime: 2023-06-08T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+  - title: "Google's Generative AI Platform Is Now Available To Everyone"
+    excerpt: "With the service becoming GA, enterprises and organizations could integrate the platform's capabilities with their applications."
+    publishedDateTime: 2023-06-09T05:30:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The impact of generative AI on software team productivity is... complicated"
-    excerpt: "Generative AI means faster coding, but also more code to manage, along with greater expectations from the business."
-    publishedDateTime: 2023-06-05T07:12:00Z
-    webUrl: "https://www.zdnet.com/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/7f9aec1f5926e4ef120636f244c934732c1d3afa/2023/06/04/6037cf03-35a3-489f-a5bb-0f590ad0c148/gettyimages-1254096697.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6482b8837a0f4f82412c5c61/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -81,70 +81,104 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "EU asks Big Tech to label AI-generated content"
-    excerpt: "The European Commission has called on online platforms to detect and label AI-generated content to tackle disinformation. Can the EU keep pace with tech developments?"
-    publishedDateTime: 2023-06-06T02:54:00Z
-    webUrl: "https://www.nationalheraldindia.com/world/eu-asks-big-tech-to-label-ai-generated-content"
-    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content"
-    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content"
+  - title: "Rush to Use Generative AI Pushes Companies to Get Data in Order"
+    excerpt: "Interest in large language models, such as those developed by ChatGPT maker OpenAI, has put renewed focus on data management—placing more pressure on corporate technology chiefs to ensure their companies’ data is stored,"
+    publishedDateTime: 2023-06-08T10:01:00Z
+    webUrl: "https://www.wsj.com/articles/rush-to-use-generative-ai-pushes-companies-to-get-data-in-order-c34a7e13"
     type: article
     provider:
-      name: National Herald
-      domain: nationalheraldindia.com
-    quality: 59
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://gumlet.assettype.com/nationalherald%2F2023-06%2F0ca0dd0d-d9f8-454c-af72-aa1acc943db1%2F65830692_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true"
-        width: 1200
-        height: 631
+      - url: "https://images.wsj.net/im-796217/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "EU Commission asks Big Tech to label AI-generated content"
-    excerpt: "The European Union's executive body has called on online platforms to detect and label AI-generated content to tackle disinformation"
-    publishedDateTime: 2023-06-06T03:17:00Z
-    webUrl: "https://www.telegraphindia.com/world/european-union-asks-big-tech-to-label-ai-generated-content-dws/cid/1942638"
-    ampWebUrl: "https://www.telegraphindia.com/amp/world/european-union-asks-big-tech-to-label-ai-generated-content-dws/cid/1942638"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/european-union-asks-big-tech-to-label-ai-generated-content-dws/cid/1942638"
+  - title: "Typeface expands customized generative AI approach with Google Cloud partnership"
+    excerpt: "A new partnership will directly integrate Typeface with Google Workspace to support specific enterprise generative AI use cases."
+    publishedDateTime: 2023-06-07T10:00:00Z
+    webUrl: "https://venturebeat.com/ai/typeface-expands-customized-generative-ai-approach-with-google-cloud-partnership/"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
     images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1686021351_eu.jpg"
-        width: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/analytics-g6fbbe52da_1920-e1633121636347.jpg?w=1200&strip=all"
+        width: 1200
         height: 600
         isCached: true
-  - title: "EU wants tech companies to label AI-generated content to counter disinformation"
-    excerpt: "The European Commission is asking all tech companies operating in the European Union to begin voluntarily labeling content appearing on their platforms that is generated by artificial intelligence."
-    publishedDateTime: 2023-06-05T15:41:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2023/06/05/belgium-european-commission-ai-labeling/2541685977357/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2023/06/05/belgium-european-commission-ai-labeling/2541685977357/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2023/06/05/belgium-european-commission-ai-labeling/2541685977357/"
+  - title: "The Future of Generative AI from Google Cloud: What You Need to Know"
+    excerpt: "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that"
+    publishedDateTime: 2023-06-07T09:19:00Z
+    webUrl: "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
+    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
+    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
     type: article
     provider:
-      name: UPI
-      domain: upi.com
-    quality: 53
+      name: jagranjosh.com
+      domain: jagranjosh.com
+    quality: 59
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/2541685977357/2023/1/efcaa7dcbf5f6e13a55ae812f09a5488/v1.5/EU-wants-tech-companies-to-label-AI-generated-content-to-counter-disinformation.jpg"
+      - url: "https://img.jagranjosh.com/images/2023/June/762023/google-ai.jpg"
         width: 1200
-        height: 801
+        height: 628
         isCached: true
-  - title: "Europe calls for tech companies to fight disinformation by labeling AI-generated content"
-    excerpt: "A top EU Commission official said Monday that the ability of a new generation of AI chatbots to create complex content and visuals in seconds raises “fresh challenges for the fight against disinformation."
-    publishedDateTime: 2023-06-05T16:26:00Z
-    webUrl: "https://www.pbs.org/newshour/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+  - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
+    excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
+    publishedDateTime: 2023-06-09T02:06:00Z
+    webUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html"
+    ampWebUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 48
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/2021-11-02T133529Z_974093607_RC2DMQ9I1JJD_RTRMADP_3_TECH-WEBSUMMIT-e1685982315901-1024x614.jpg"
-        width: 1024
-        height: 614
+      - url: "https://images.idgesg.net/images/article/2020/01/united_states_capitol_building_washington_dc_congress_legislation_by_mcdustelroy_gettyimages-1036372454_digital_landscape_by_dkosig_gettyimages-1146014337_2400x1600-100825944-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "How Generative AI-Powered Robots Are Shaking Things Up"
+    excerpt: "Robots are making their way into nearly every sector of the ... Reports suggest that Musk is busy creating his own generative AI startup that would go head-to-head with OpenAI. Image by Twitter While generative AI has already taken the world by storm ..."
+    publishedDateTime: 2023-06-05T15:08:00Z
+    webUrl: "https://www.fxempire.com/forecasts/article/how-generative-ai-powered-robots-are-shaking-things-up-1351853"
+    ampWebUrl: "https://amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
+    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
+    type: article
+    provider:
+      name: FXEmpire.com
+      domain: fxempire.com
+    quality: 54
+  - title: "Google Launches Free Generative AI Courses - Stock Continues To Rise"
+    excerpt: "AI has driven the tech market to new heights this year, bringing new investors into the ring as the craze continues."
+    publishedDateTime: 2023-06-06T12:09:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/06/06/google-launches-free-generative-ai-coursesstock-continues-to-rise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+  - title: "Lilt Launches Generative AI Multilingual Writing App"
+    excerpt: "New Tool Enables Quick Generation and Finalization of On-brand, Locally Relevant Content SAN FRANCISCO, June 8, 2023 /PRNewswire/ -- Lilt, the"
+    publishedDateTime: 2023-06-08T15:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-launches-generative-ai-multilingual-writing-app-1032378920"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "PhotoRoom, Google Cloud partner to democratize generative AI photo editing"
+    excerpt: "PhotoRoom says its generative AI capabilities and Google Cloud partnership will speed production of product photography content."
+    publishedDateTime: 2023-06-08T18:37:00Z
+    webUrl: "https://venturebeat.com/ai/photoroom-google-cloud-partner-democratize-generative-ai-photo-editing/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
   - title: "Newest Genesys Generative AI Capabilities Boost Power of Experience Orchestration"
     excerpt: "Using large language models, Genesys Cloud CX helps employees improve quality, speed and accuracy to drive stronger post-customer engagement"
     publishedDateTime: 2023-06-05T12:13:00Z
@@ -154,47 +188,65 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
-  - title: "Ross: Tech companies need to be held liable for any AI misinformation"
-    excerpt: "There are warnings of a robot takeover, maybe even the extinction of civilization. At the very least an attempt to use AI to subvert the election process."
-    publishedDateTime: 2023-06-05T15:04:00Z
-    webUrl: "https://mynorthwest.com/3896838/ross-tech-companies-need-to-be-held-liable-for-any-ai-misinformation/"
+  - title: "Lawyers' Trust in Generative AI May Be Overstated"
+    excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into trust."
+    publishedDateTime: 2023-06-06T23:09:00Z
+    webUrl: "https://www.law.com/2023/06/05/lawyers-trust-in-generative-ai-may-be-overstated/"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
+      name: Law
+      domain: law.com
     quality: 39
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2023/01/ap_5e52c119fdde40e5adaa218f0f3e27aa-e1685976018674.jpg"
-        width: 897
-        height: 506
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/Robotic-Assistance-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "Ground Rules for the Age of AI Warfare"
-    excerpt: "Encouraged by the benefits they already derive from AI-enabled systems, militaries will likely stay their current course and design future systems with growing degrees of autonomy. This push toward AI-enabled autonomy will certainly unlock strategic and tactical advantages, but they will come at a cost."
-    publishedDateTime: 2023-06-06T04:18:00Z
-    webUrl: "https://www.foreignaffairs.com/world/ground-rules-age-ai-warfare"
+  - title: "Intuit reveals generative AI system across its platforms"
+    excerpt: "The AI will have custom-trained financial language models specialising in solving, tax, accounting, cash flow and personal finance challenges."
+    publishedDateTime: 2023-06-07T20:56:00Z
+    webUrl: "https://www.accountantsdaily.com.au/technology/18638-intuit-reveals-generative-ai-system-across-its-platforms"
     type: article
     provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
+      name: accountantsdaily.com.au
+      domain: accountantsdaily.com.au
+    quality: 39
     images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/05/RTSI6EY8.jpg?itok=9qYdXcBI"
+      - url: "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1684912798/Accountants%20Daily/sasan-goodarzi-intuit-ad_g3icx2.jpg"
         width: 1200
-        height: 630
+        height: 776
         isCached: true
-  - title: "From science fiction to reality: Business transformation through generative AI"
-    excerpt: "Generative AI models offer valuable applications across diverse business functions, spanning IT, human resources, operations, and more."
-    publishedDateTime: 2023-06-07T23:29:00Z
-    webUrl: "https://techwireasia.com/2023/06/from-science-fiction-to-reality-business-transformation-through-generative-ai/"
+  - title: "Yellow.ai's generative AI-powered Voicebots and Chatbots Now Available on Genesys AppFoundry"
+    excerpt: "Yellow.ai combines with Genesys marketplace of solutions, enabling enterprises to deliver autonomous, human-like experiences with its Dynamic"
+    publishedDateTime: 2023-06-05T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-s-generative-ai-powered-voicebots-and-chatbots-now-available-on-genesys-appfoundry-1032370385"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 35
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "Google Cloud and Mayo Clinic to explore uses of generative AI in healthcare"
+    excerpt: "To get the ball rolling, the Mayo Clinic is adopting a new service called Enterprise Search on Generative AI App Builder that will help to improve the efficiency of clinical workflows and make it easier for clinicians and medical researchers to find the data they need to improve patient outcomes,"
+    publishedDateTime: 2023-06-07T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/google-cloud-mayo-clinic-explore-uses-generative-ai-healthcare/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+  - title: "How generative AI could change the life sciences landscape - an interview with Indegene"
+    excerpt: "With generative AI continuing to create a buzz, OSP took the opportunity to speak to Indegene, a digital-first, life sciences commercialization company that helps biopharmaceutical, emerging biotech and medical device companies develop products."
+    publishedDateTime: 2023-06-07T11:48:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2023/06/07/how-generative-ai-could-change-the-life-sciences-landscape"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 31
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/06/GenerativeAIinBusinesses-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/markets-regulations/how-generative-ai-could-change-the-life-sciences-landscape/16476737-1-eng-GB/How-generative-AI-could-change-the-life-sciences-landscape.jpg"
+        width: 1500
+        height: 1061
         isCached: true
   - title: "The Ethics of Using Generative Artificial Intelligence in the Practice of Law"
     excerpt: "Understanding how generative AI solutions collect, store and use the information that ... certainly will not be sufficient to rise to the level of expected competence by ethics officials. In other words, arguing that the information provided by ChatGPT ..."
@@ -205,6 +257,42 @@ related:
       name: IPWatchdog
       domain: ipwatchdog.com
     quality: 31
+  - title: "4 Keys to Executing Generative AI"
+    excerpt: "Generative artificial intelligence (AI) has captured the attention of health care providers and payers focused on reimagining care delivery."
+    publishedDateTime: 2023-06-06T12:19:00Z
+    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-06-06-4-keys-executing-generative-ai"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 19
+  - title: "Lawyers' Trust in Generative AI May Be Overstated"
+    excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into 'trust'."
+    publishedDateTime: 2023-06-05T19:32:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/05/lawyers-trust-in-generative-ai-may-be-overstated/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
+  - title: "Google Cloud, Mayo Clinic make generative AI play"
+    excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
+    publishedDateTime: 2023-06-07T12:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/google-cloud-mayo-clinic-generative-ai-search-chatgpt-hipaa"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
+  - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
+    excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
+    publishedDateTime: 2023-06-07T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/google-mayo-clinic-launch-generative-artificial-intelligence-collab"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
 secured: "b+BZMcqFKaacuFFAZghLjhlTXK5fc0qsRUvgK4kw8SUpH0podW436YiogQQ8RNjSgZWBHHfLxqjgHDkprcD6WLiuNT7yJygALuEyoKbvvUQ74SyK0ZMb9U4POAzaSJYIlYi/uiIU+74q1OOVT0bBwC/ZM2ztkoMvEEYD8iJRrzJqKSHGjyWSlAMBb5sioCo5gekdwINJcmV9ocrlTDZzN5AXG8D8+KjVSXp4qGwGu48F9+kgx9rrjF96Yc+6VYteLaCzsyODbPBvl0cJN7KJ4IQs2BC/zTsPImNfMXf6XeAhVA3nzZYhBF+EkIy5IFHsB4vdNX9BlQlJ807AshHYrdMWEenflRfDd93Km7vwF1rtq6mz2zPMGHjXkSmPnk7eibCFrCZJMU31kgVmIEHsTQ65Z0uks4iyiOll3xIcjDsFHrop9KJHavHPe7AhLtpkEAERXC/ApQTkn4Z/yrZNPoPv9QFrTwqprQRkiDbXwwdd+y5DE7i5xuzcNO+W6DawWnS4zpjd7oe0E7WdGSSiqQ==;6y+fsgJiOpR5NO8T3IGlTw=="
 ---

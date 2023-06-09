@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise"
-excerpt: "Founded by former Hugging Face and Meta AI researchers, Contextual AI raised $20 million in seed funding from Bain Capital Ventures, Lightspeed and Greycroft. Contextual AI emerged from stealth today"
-publishedDateTime: 2023-06-07T16:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/b32762843/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the-enterpr"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/b32762843/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the-enterpr"
-ampWebUrl: "https://www.benzinga.com/amp/content/32762843"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32762843"
+excerpt: "Contextual AI emerged from stealth today with $20 million in funding led by Bain Capital Ventures (BCV) with participation from Lightspeed, Greycroft, SV Angel and well-known angel investors including Elad Gil,"
+publishedDateTime: 2023-06-07T16:14:00Z
+originalUrl: "https://www.valdostadailytimes.com/ap/business/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the/article_c0ad8fec-1fab-558c-9422-7ce5c3a260b8.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the/article_c0ad8fec-1fab-558c-9422-7ce5c3a260b8.html"
 type: article
-quality: 43
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/db/fdb0ba0e-d1a1-5c42-9f06-abebcb4bff4e/6480afc3258c3.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -70,6 +68,6 @@ related:
         height: 630
         isCached: true
 
-secured: "zfjsfu8TTjn++mmpllelNe8ESOEAYGkougDcZAw8ZqM44cNwArFv9WkB1ncYONJwC49+XoHnbffo84QfRKjYAvyFBXFwubICWsI3VJG6jFtWDJrYb0brKtp3PkoXwdyjMPbXn5QiEjvzPdGbtshnTrI93p34g+/QiEKZAzOjTOFqWB9yiOV0K1HkDCn3/O5eUSyOks3/iglbkVLssIVK6OQHFxwGTMmSG/Cdzz67Pl8I1B8ADP3eTuFXks++0rLb/sHN+TJK4svBxdMwCK1ooyBDYVeK0Qa3iSB0kmtsxYvMm/DQKTNmN+UTisijFXvUEo3Zk+WvPOqQptFVHWBE2wJkY99EVJL4B2UaP5egsb4=;MKJ5iRxch2Npi/KctBRz0Q=="
+secured: "Gsl1ybs6QEa2rFCRMjP9hOh4RCjiYFmctHkCxzmYcv262ftfTbc84rbFdl1wnWI2U6A7rz0NiM44OaLFbINA2YL5tu0MmBI8dfXLB+7F3GRZRTwJgJA/mjNgZpXhdaGlEdvoGUFBq/BZEHYSwjfzbyXa7sPopjHk3e8SvD3VXAPMsZkdFC76sNyU448It9tF3ZeY2uOUG6M64rqr9MScWz7vvr2LrSAH5VFOlCtTzvsHKL6pSA86XML9AumP86lxlBKD9DulxuZidojxCpK+RvJ3t6eQjv2zKXQPIhrxtEKYL71fw9UAXQR8MCA/3ABpyoNJ4rpyibNEZv41rND1LTkh3SeRaU806ZyzGGjjlIA=;1zuwfKE/jD4v/uXYORVyIA=="
 ---
 

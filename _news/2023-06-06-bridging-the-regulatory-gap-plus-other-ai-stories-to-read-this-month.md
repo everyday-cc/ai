@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Here’s how Congress can regulate AI | Opinion"
-    excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountab"
-    publishedDateTime: 2023-06-04T11:17:00Z
-    webUrl: "https://www.penncapital-star.com/commentary/heres-how-congress-can-regulate-ai-opinion/"
-    type: article
-    provider:
-      name: penncapital-star
-      domain: penncapital-star.com
-    quality: 39
-    images:
-      - url: "https://www.penncapital-star.com/wp-content/uploads/2022/03/GettyImages-521369998-scaled.jpg"
-        width: 2560
-        height: 1670
-        isCached: true
   - title: "With AI in Regulators’ Crosshairs, What’s Next for Fintech?"
     excerpt: "AI is poised to change the face of fintech, promising groundbreaking enhancements to marketing and decisioning models and unmatched efficiency in content generation. But regulators are concerned that the adoption of AI tools may “perpetuate unlawful bias,"
     publishedDateTime: 2023-06-06T15:51:00Z

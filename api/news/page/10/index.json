@@ -2,6 +2,95 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-01-security-becomes-much-bigger-issue-for-aiml-chips-tools.md",
+      "title": "Security Becomes Much Bigger Issue For AI/ML Chips, Tools",
+      "excerpt": "Security is becoming a bigger issue in AI and machine learning chips, in part because the chip industry is racing just to get new devices working, and in part because it’s difficult to secure a new technology that is expected to adapt over time.",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/security-becomes-much-bigger-issue-for-ai-ml-chips-tools/",
+      "originalUrl": "https://semiengineering.com/security-becomes-much-bigger-issue-for-ai-ml-chips-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/AdobeStock_436324709-security-05-08-23-scaled.jpeg?fit=2560%2C1181&ssl=1",
+          "width": 2560,
+          "height": 1181,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-the-top-5-ai-careers-in-2023-unlocking-the-potential-of-artificial-intelligence.md",
+      "title": "The Top 5 AI Careers in 2023: Unlocking the Potential of Artificial Intelligence",
+      "excerpt": "Artificial intelligence has become next big thing, paving the way for exciting career opportunities. From machine learning to robotics, AI careers have expanded across various domains. In this article,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
+      "originalUrl": "https://www.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/67921/ai-career.jpg",
+          "width": 1600,
+          "height": 884,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
+      "publishedDateTime": "2023-05-31T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance.md",
       "title": "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance",
       "excerpt": "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat.",
@@ -1117,85 +1206,6 @@
       "provider": {
         "name": "autoweek",
         "domain": "autoweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend.md",
-      "title": "Host ML models on Amazon SageMaker using Triton: CV model with PyTorch backend",
-      "excerpt": "PyTorch is a machine learning (ML) framework based on the Torch library, used for applications such as computer vision and natural language processing. One of the primary reasons that customers are choosing a PyTorch framework is its simplicity and the fact that it’s designed and assembled to work with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T11:40:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-china-begins-digging-a-10000-meter-deep-hole-into-the-earth.md",
-      "title": "China Begins Digging a 10,000-Meter-Deep Hole Into the Earth",
-      "excerpt": "Chinese scientists are embarking on their own real-life journey to the center of the earth by drilling the deepest-ever hole the country has attempted at 10,000 meters or 32,808 feet. The project ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailybeast.com/china-begins-digging-a-10000-meter-deep-hole-into-the-earth",
-      "originalUrl": "https://www.thedailybeast.com/china-begins-digging-a-10000-meter-deep-hole-into-the-earth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Beast",
-        "domain": "thedailybeast.com",
         "images": null,
         "publishers": null,
         "authors": null

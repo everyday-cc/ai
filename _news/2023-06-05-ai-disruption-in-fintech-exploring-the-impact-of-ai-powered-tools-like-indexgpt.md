@@ -111,20 +111,6 @@ related:
         width: 790
         height: 452
         isCached: true
-  - title: "AI-Powered Hyro Raises $20M to Advance Responsible Artificial Intelligence-Enhanced Communications for Enterprise"
-    excerpt: "Hyro, which claims to be the leader in plug-and-play conversational AI, announced that it has finalized a $20 million Series B funding round."
-    publishedDateTime: 2023-06-04T11:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/06/208056-ai-powered-hyro-raises-20m-to-advance-responsible-artificial-intelligence-enhanced-communications-for-enterprise/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 35
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Machine-Learning-Artificial-Intelligence-AI.jpg"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "In AI Talent War, Rushing to Hire Tech Experts Without a Business Plan Is the Least Intelligent Approach"
     excerpt: "And the reassuring news, according to Wang: “There’s not going to be a robot that’s going to walk up ... said that before jumping on the AI bandwagon, it’s important to start from square one with a plan in place. “If you’re hiring AI technical ..."
     publishedDateTime: 2023-06-08T14:38:00Z

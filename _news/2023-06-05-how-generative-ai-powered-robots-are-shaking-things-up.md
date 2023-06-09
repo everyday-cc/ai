@@ -53,6 +53,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google's Generative AI Platform Is Now Available To Everyone"
+    excerpt: "With the service becoming GA, enterprises and organizations could integrate the platform's capabilities with their applications."
+    publishedDateTime: 2023-06-09T05:30:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6482b8837a0f4f82412c5c61/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Apple Ghosts the Generative AI Revolution"
+    excerpt: "Apple unveiled the Vision Pro headset and a number of AI-powered features yesterday, but largely ignored generative AI applications embraced by Google and Microsoft."
+    publishedDateTime: 2023-06-06T10:59:00Z
+    webUrl: "https://www.wired.com/story/apple-ghosts-the-generative-ai-revolution/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 71
+    images:
+      - url: "https://media.wired.com/photos/647e7aef82d37ced55dff567/191:100/w_1280,c_limit/Apple-Ghosts-AI-At-WWDC-2023-Business-1258464875.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Rush to Use Generative AI Pushes Companies to Get Data in Order"
     excerpt: "Interest in large language models, such as those developed by ChatGPT maker OpenAI, has put renewed focus on data management—placing more pressure on corporate technology chiefs to ensure their companies’ data is stored,"
     publishedDateTime: 2023-06-08T10:01:00Z
@@ -97,6 +127,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
+    excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
+    publishedDateTime: 2023-06-09T02:06:00Z
+    webUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html"
+    ampWebUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/01/united_states_capitol_building_washington_dc_congress_legislation_by_mcdustelroy_gettyimages-1036372454_digital_landscape_by_dkosig_gettyimages-1146014337_2400x1600-100825944-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google Launches Free Generative AI Courses - Stock Continues To Rise"
     excerpt: "AI has driven the tech market to new heights this year, bringing new investors into the ring as the craze continues."
     publishedDateTime: 2023-06-06T12:09:00Z
@@ -124,6 +170,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
+  - title: "Newest Genesys Generative AI Capabilities Boost Power of Experience Orchestration"
+    excerpt: "Using large language models, Genesys Cloud CX helps employees improve quality, speed and accuracy to drive stronger post-customer engagement"
+    publishedDateTime: 2023-06-05T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/newest-genesys-generative-ai-capabilities-boost-power-of-experience-orchestration-1032370089"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "Lawyers' Trust in Generative AI May Be Overstated"
     excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into trust."
     publishedDateTime: 2023-06-06T23:09:00Z
@@ -184,6 +239,15 @@ related:
         width: 1500
         height: 1061
         isCached: true
+  - title: "The Ethics of Using Generative Artificial Intelligence in the Practice of Law"
+    excerpt: "Understanding how generative AI solutions collect, store and use the information that ... certainly will not be sufficient to rise to the level of expected competence by ethics officials. In other words, arguing that the information provided by ChatGPT ..."
+    publishedDateTime: 2023-06-07T20:17:00Z
+    webUrl: "https://ipwatchdog.com/2023/06/07/ethics-using-generative-artificial-intelligence-practice-law/id=162097/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 31
   - title: "4 Keys to Executing Generative AI"
     excerpt: "Generative artificial intelligence (AI) has captured the attention of health care providers and payers focused on reimagining care delivery."
     publishedDateTime: 2023-06-06T12:19:00Z
@@ -201,6 +265,15 @@ related:
     provider:
       name: Law
       domain: law.com
+    quality: 19
+  - title: "Managing the Risks of Generative AI"
+    excerpt: "Generative artificial intelligence (AI) has become widely popular, but its adoption by businesses comes with a degree of ethical risk. Organizations must prioritize the responsible use of generative AI by ensuring it is accurate,"
+    publishedDateTime: 2023-06-06T12:15:00Z
+    webUrl: "https://hbr.org/2023/06/managing-the-risks-of-generative-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
     quality: 19
   - title: "Google Cloud, Mayo Clinic make generative AI play"
     excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."

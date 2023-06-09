@@ -8,7 +8,7 @@ webUrl: "https://arstechnica.com/information-technology/2023/06/uks-plans-for-fi
 ampWebUrl: "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/"
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/uk_ai_summit_hero-800x450.jpg"
@@ -97,6 +98,6 @@ related:
       domain: bbc.co.uk
     quality: 17
 
-secured: "b2dLEp5XSH0eqJpZkKtFj+I8QuZnWzAHgHXnsOhRzFze+lMLSkWirG8ycYY7IdnEcX9fWiqCmL6YuGJnVGxsVYOShllrZJkWaXwtPEQfWMNHuW9JMlhdkWZUv3LEwz58jqE8wVsQWP+jX2uqR9HBdKMEFJQx07KLbgldIUQvquJI0hqQCnKAn4fNZw37sLbVje39J9Pn+CkIJFx7CUUwC1R11uwVUD9hrO1UwirdDmKtjAIqun7s4OJ6KXQHQsV58Qmo8Uvmz+XJNh/gTNHaidQ3soM+Mcpi2MH/NgSQY7OuK2/YdBETFYoSzgThA5+5+diQAYYxAN2K80MNpNQXr6hjZJokV9sR21yTchB0orA=;N4hjmdbiU/0jLHxYNIvm1A=="
+secured: "wnmJbSA07aGZTp0FfvoCfAGcA49lmKbkhaexTaQeirCOE5ox2iktsqe7Lx3CLp4u/32l/Yq3ysvXJyjLo6/ulWnnSp6I28DIWEagSODwhlJrIvdY7PHymA2SyUCYJqFgHlRvOdM/q2mvu670/0N9b2dMNr9zMN37mJYRYmOc2su9OiFX80BqNxuz1W9ZEjMPxwWTb1sAiZT2qKXkrHrDh3jrfNTLemAWYPlUjpvCLxS4GLKchhKt4luijBeDf/aFSyLg/OUR9fjNiEFSEKf/ytkV3thcBCcu3Rwh8LRmYl3oondm1aOjmAncZ8TXPcr6A9jO56/YhWqGPhia+FTUbz6hXxVf1p81smEfd9DdRapa3nlZeHx1aRC6u5gF4Lcf9KaPGNJRdWnLyswvsH1Ux/gLzy3+fMvDZOeJhXNXb64XCUw8j+mYtYT2DRzkHPUk4DmMPObVXHWP2qHMUiqiJZR5agoFaKQ/7SHcp1HraNCBFZB/OVHe2sln0l+h01Y65TwYYDOxzZKQs71FBqHH8g==;sif2ii59YgtvzC2VUPOzHQ=="
 ---
 

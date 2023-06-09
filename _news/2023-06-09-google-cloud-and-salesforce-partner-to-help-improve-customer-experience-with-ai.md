@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-and-salesforce
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
 type: article
 quality: 83
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Ethics should be at the foundation of building AI systems: Salesforce executive"
+    excerpt: "There has been growing concern among regulators around sensitive data collection from AI software and the need to balance privacy concerns with allowing room to foster innovation. CNA's Heidi Ng spoke to Kathy Baxter,"
+    publishedDateTime: 2023-06-09T03:47:00Z
+    webUrl: "https://www.channelnewsasia.com/watch/ethics-should-be-foundation-building-ai-systems-salesforce-executive-3547126"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 50
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--zEHybKOT--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/06/09/Screenshot%20(168).png?itok=WGtO9sDB"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Google Cloud expands AI offerings with new tools, programs and partnerships"
     excerpt: "Google Cloud is expanding into generative AI with a slew of new tools, services and programs aimed at helping businesses adopt the technology."

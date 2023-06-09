@@ -3,8 +3,8 @@ category: news
 title: "Unicorns are hard to come by, unless you're an AI startup"
 excerpt: "The number of tech upstarts valued at $1 billion has fallen from its peak in 2021, but there's new traction the AI space in particular."
 publishedDateTime: 2023-06-07T18:56:00Z
-originalUrl: "https://www.bizjournals.com/austin/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html"
-webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html"
+originalUrl: "https://www.bizjournals.com/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html"
+webUrl: "https://www.bizjournals.com/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html"
 type: article
 quality: 17
 heat: -1
@@ -37,6 +37,6 @@ related:
       domain: siliconangle.com
     quality: 17
 
-secured: "OnGT1g0LCmxsYynz1ryWo9SenlpqAObS8kxGLqZHjHzLWFwjADTCj/aD6wsVuCkC1xl3qPL6P2tnXRSaW1ZYQ/EIkuDF3UwdLrbzlPCDixEhpsPnnjMT0Pk2cnhi/fFUO9NXF7n5aRvjZVMEBZg5an4QrbPJAvWp3AngYVuNhBQNxnFhbyBT5yo6eLlbHX7oRde2yX2d5ZcZ+fLTycxIKE9QB/7cLm2iYVmdJ7A1AT2aH/0t4/H021JOYlq5kyocY0gKKeM9qMpVvE2OZVAtdsTOdZAI2ihSD0dw70vtwyK0KrDYRzlWCjVIysh7gFEscmjPE18BKMSQGGKuugU7YaewIBHf5LmcbJ7mkoSDYJTwv+sJfDixk1IJZM98g5/dYMWQ0sYtkonAr3EFU/vTx8PPDyx59NUZSH+Aqh2Aspik2Ap+Svuga9L0l6VtRY1RuUmqSYb9aLiGihWPpN/09jV9fcNjGjFAOeIRe1t2+F7Y+hdZ/xnMIUcKR6iII/cQgJAN/XkgDLL0QZobkn7yMA==;zMnKzQfwzMBi0V+/Yo+PJA=="
+secured: "LKiniajbrseBBD3c0HAOrlMpqsRRE/FYzqS0r38v5bYEg9s60n9Mq3BsI+KXGGH0uuusu2XMNOx6BH3KPK0fmoatppmjfFnVeb1fPFnrK1AoL+er63JtrR46k5ghLQTGeJNiCYyKqqJTncODM75RF25oxyEm65JjMhH7ZJ+o6po38RYj+V41yfKci4/PMdVQ+BxKC2nSaHXhAdh5lZZHGEZIxTUUfkQXwSHccbXjYo+o1dVDqmmrb08Okj1QxfFTtJLnOC7krNLlzCpePo8Irlgoc7kgPsv2AiTnZsKv2836Knx9LrBe1wG6CyDBGmtPBGrYoNQV/GjNWrQSsbnLHhoNVfcx8w1MnqDXQ4X7w5/Aw3Ug98IlD7TxajUs+z8bcUrVXML7wfiGrP+uRo5meWEuXo/b2jSqnWIJL8CoxiQPkxCVota9+G8JIvTrF6WrAofqF0LfPq+qpNxTPpv44e7VhH3JKrkiWrd4KhVZN2S56ICaePQe8xRJBQheS58DTgTuTo1269svppPStxsxhQ==;UnbI64CcmnrLJw2a7jbKcQ=="
 ---
 

@@ -2,6 +2,85 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-31-host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend.md",
+      "title": "Host ML models on Amazon SageMaker using Triton: CV model with PyTorch backend",
+      "excerpt": "PyTorch is a machine learning (ML) framework based on the Torch library, used for applications such as computer vision and natural language processing. One of the primary reasons that customers are choosing a PyTorch framework is its simplicity and the fact that it’s designed and assembled to work with",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T11:40:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-china-begins-digging-a-10000-meter-deep-hole-into-the-earth.md",
+      "title": "China Begins Digging a 10,000-Meter-Deep Hole Into the Earth",
+      "excerpt": "Chinese scientists are embarking on their own real-life journey to the center of the earth by drilling the deepest-ever hole the country has attempted at 10,000 meters or 32,808 feet. The project ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailybeast.com/china-begins-digging-a-10000-meter-deep-hole-into-the-earth",
+      "originalUrl": "https://www.thedailybeast.com/china-begins-digging-a-10000-meter-deep-hole-into-the-earth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Beast",
+        "domain": "thedailybeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-aws-announces-general-availability-of-amazon-security-lake.md",
       "title": "AWS Announces General Availability of Amazon Security Lake",
       "excerpt": "Amazon Web Services, Inc. (AWS) has announced the general availability of Amazon Security Lake, a service that automatically",
@@ -720,15 +799,15 @@
       "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
       "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
       "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html",
-      "originalUrl": "https://www.stltoday.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html",
+      "webUrl": "https://tulsaworld.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_4a29eddd-b50b-5b16-92d1-fd12dfd2e97e.html",
+      "originalUrl": "https://tulsaworld.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_4a29eddd-b50b-5b16-92d1-fd12dfd2e97e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/90/f904fd40-d989-5782-8c5f-7669aadb68b8/6477381e4afce.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/a2/4a29eddd-b50b-5b16-92d1-fd12dfd2e97e/647738202e94e.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize",
           "width": 1200,
           "height": 631,
           "title": null,
@@ -740,11 +819,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T07:00:00-07:00",
+      "publishedDateTime": "2023-05-31T06:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
+        "name": "Tulsa World",
+        "domain": "tulsaworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1080,100 +1159,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-cathie-wood-says-software-stocks-will-ride-ai-wave-next-these-three-could-rival-nvidia.md",
-      "title": "Cathie Wood Says Software Stocks Will Ride AI Wave Next — These Three Could Rival Nvidia",
-      "excerpt": "Wood defended the decision to dump Nvidia stock before the company soared to a $1 trillion valuation and said Ark is “onto the next thing.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthart/2023/05/31/cathie-wood-says-software-stocks-will-ride-ai-wave-next---these-three-could-rival-nvidia/",
-      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/05/31/cathie-wood-says-software-stocks-will-ride-ai-wave-next---these-three-could-rival-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-leaders-its-time-to-cut-through-the-ai-clutter.md",
-      "title": "Leaders, It’s Time To Cut Through The AI Clutter",
-      "excerpt": "With so much noise surrounding AI, it’s vital for anyone looking at the role that AI can play in their business to cut through the clutter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-its-time-to-cut-through-the-ai-clutter/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-its-time-to-cut-through-the-ai-clutter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-its-time-to-cut-through-the-ai-clutter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-its-time-to-cut-through-the-ai-clutter/amp/",
-      "publishedDateTime": "2023-05-31T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

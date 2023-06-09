@@ -55,6 +55,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "From science fiction to reality: Business transformation through generative AI"
+    excerpt: "Generative AI models offer valuable applications across diverse business functions, spanning IT, human resources, operations, and more."
+    publishedDateTime: 2023-06-07T23:29:00Z
+    webUrl: "https://techwireasia.com/2023/06/from-science-fiction-to-reality-business-transformation-through-generative-ai/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 35
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/GenerativeAIinBusinesses-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "n6GgtchQRGgkJ2giI+U7wyI/WT9ZwqQ30wIfqDkmNlI6xRr1RGvVAqUekdz5WDuqjAUJDd8Y9hs2Oz+0J8poJiSKemedI7JXCAZJt0mi+xJtafGNbsxte3/4M1F20q+doGU8+q6hEue4+l4d1ESr5PGW1HeBzcSMvEsr0Nk4Ca3JkCPVWZm/TVWuaaxiH/oiCjU9LYSdMglOGtN60UFUZM2vEyGpP7gOV/j0mH5zPk0jQiywrbRm7Z/ihyqLY7EuoxnQp35unJOgPvxjlC+k588EBB0LnnXcGMHdNZEBNK3mmYxRRQDL26vBlM6qw0Fa9vJ+L0/G728NnM19LmvKwy36oEtW0J1s+wB8mXaZilQ=;OsRkOLLwLT7/D7tA1LPfuA=="
 ---

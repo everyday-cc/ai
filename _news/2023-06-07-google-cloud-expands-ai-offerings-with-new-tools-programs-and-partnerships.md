@@ -97,6 +97,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Ethics should be at the foundation of building AI systems: Salesforce executive"
+    excerpt: "There has been growing concern among regulators around sensitive data collection from AI software and the need to balance privacy concerns with allowing room to foster innovation. CNA's Heidi Ng spoke to Kathy Baxter,"
+    publishedDateTime: 2023-06-09T03:47:00Z
+    webUrl: "https://www.channelnewsasia.com/watch/ethics-should-be-foundation-building-ai-systems-salesforce-executive-3547126"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 50
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--zEHybKOT--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/06/09/Screenshot%20(168).png?itok=WGtO9sDB"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Salesforce Connections - \"No offense to crypto fans, but this is real.\" Salesforce customers react to generative AI news"
     excerpt: "Salesforce Connections 2023 kicked off with the expected generative AI fanfare - including the launch of Commerce GPT and Marketing GPT. But where do customers stand? I hit the show floor and found out."
     publishedDateTime: 2023-06-08T10:33:00Z

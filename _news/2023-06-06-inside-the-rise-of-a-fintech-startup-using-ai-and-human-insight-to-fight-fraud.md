@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-ris
 webUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-rise-of-a-fintech-startup-using-ai-and-human-insight-to-fight-fraud/"
 type: article
 quality: 65
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -58,6 +58,29 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647e885f569e20559457b388/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The 3 Most Promising Fintech Stocks to Buy for June 2023"
+    excerpt: "Fintech stocks are returning to a more sustainable growth path following the monstrous growth experienced during the pandemic. However, this shouldn’t mislead investors about the sector’s long-term potential."
+    publishedDateTime: 2023-06-07T15:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-3-most-promising-fintech-stocks-to-buy-for-june-2023"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "Rise of Digital Nomads Introduces Identify Verification Challenges to Banks and Fintech Companies"
+    excerpt: "The rise of remote work is forcing adjustments within businesses and introducing new challenges. For finance and technology businesses, the number of foreign document verification cases has increased considerably throughout the years,"
+    publishedDateTime: 2023-06-09T05:24:00Z
+    webUrl: "https://fintechnews.ch/fintech/rise-of-digital-nomads-introduces-identify-verification-challenges-to-banks-and-fintech-companies/62063/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 26
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/04/abacus-Featured-Fintech-Product-300x250.jpg?x30842"
+        width: 300
+        height: 250
         isCached: true
   - title: "5 Interesting Startup Deals You May Have Missed In May: Brain-Boosting Nutrients And Fintech For Retirees"
     excerpt: "The last full month of spring saw some big fundraising announcements, but these smaller, interesting startup deals are also worth noting."

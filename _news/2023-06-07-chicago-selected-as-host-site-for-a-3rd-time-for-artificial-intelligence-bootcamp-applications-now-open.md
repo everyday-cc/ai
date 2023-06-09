@@ -36,6 +36,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 23
+  - title: "San Antonio Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "San Antonio is one of 28+ cities selected to host camps across the US in Fall 2023. The San Antonio Bootcamp will be held over four consecutive Saturdays starting on October 14th and ending on November 4th."
+    publishedDateTime: 2023-06-06T18:02:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827710.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "EeWp0MfgEEh0uJcUm5QUHImIhaB++LsYQk7Ueo1IgALhQhi/VlG1THyh2ZBnVigV8X4JlTrls0s30kAxZG0El50CW7oNABDW6a5H/fvGDq6ySGPQMV/adt8wSnms5kcXBDYq56FtugAw0M9TT6R+ir/wjKNwwuOl5X9Qk/pTzN5pqgoIa/0ImEz+imWJrjo4dj4/GS6vwT4xcMXPF/XVJOYCkyyOH0FM1oGcXCcuEZz9kCR/9KnIIXIsAgutRWoyIbQ3vwLjgM+TSx6cbHKCGk2mM4IyXjwIRVNjsCOan1kEGbt2+7dsFdsA2FO2TMU5L7yqyLTW0dEoPRuDyr2526PFg/HrYMgvZnfYwpvkoxg=;QqeJ+a7fxByKXBYPai8YjA=="
 ---

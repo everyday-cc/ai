@@ -44,7 +44,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/uk_ai_summit_hero-800x450.jpg"
         width: 800

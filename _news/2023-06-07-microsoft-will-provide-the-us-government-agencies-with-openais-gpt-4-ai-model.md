@@ -3,8 +3,8 @@ category: news
 title: "Microsoft will provide the US government agencies with OpenAI’s GPT-4 AI model"
 excerpt: "Microsoft is expanding its Azure Government cloud computing service by incorporating the advanced AI language models that power ChatGPT. This move follows the"
 publishedDateTime: 2023-06-07T15:09:00Z
-originalUrl: "https://onmsft.com/news/microsoft-will-provide-the-us-government-agencies-with-openais-gpt-4-ai-model/"
-webUrl: "https://onmsft.com/news/microsoft-will-provide-the-us-government-agencies-with-openais-gpt-4-ai-model/"
+originalUrl: "https://www.onmsft.com/news/microsoft-will-provide-the-us-government-agencies-with-openais-gpt-4-ai-model/"
+webUrl: "https://www.onmsft.com/news/microsoft-will-provide-the-us-government-agencies-with-openais-gpt-4-ai-model/"
 type: article
 quality: 50
 heat: -1
@@ -186,6 +186,34 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 55
+  - title: "Combat financial crime with AI and advanced technology from Microsoft"
+    excerpt: "With Microsoft Cloud for Financial Services, our customers are managing financial services data at scale and building solutions that improve customer experiences and operational efficiencies. With the advent of generative AI capabilities in Azure OpenAI Service,"
+    publishedDateTime: 2023-06-05T15:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/industry/blog/financial-services/2023/06/05/combat-financial-crime-with-ai-and-advanced-technology-from-microsoft/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/05/iStock-846814618_transaction-credit-card-social.jpg"
+        width: 943
+        height: 628
+        isCached: true
+  - title: "Sheikh Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence"
+    excerpt: "The Dubai Centre for AI aims to train 1,000 government employees from over 30 government entities on the uses of generative artificial intelligence"
+    publishedDateTime: 2023-06-09T04:00:00Z
+    webUrl: "https://gulfbusiness.com/sheikh-hamdan-launches-dubai-centre-artificial-intelligence/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 51
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/Dubai-AI.jpg"
+        width: 920
+        height: 630
+        isCached: true
   - title: "Satori's Data Security Platform is Selected for the Microsoft Pegasus Program and is Available in the Azure Marketplace"
     excerpt: "Satori’s continued product innovation and customizable data security platform is recognized by its inclusion in the Microsoft for Startups Pegasus Program, an invite-only program that connects growth-stage startups to thousands of Microsoft’s top customers."
     publishedDateTime: 2023-06-08T13:08:00Z
@@ -246,6 +274,6 @@ related:
       domain: techreport.com
     quality: 11
 
-secured: "O/dU9Hp6enS11YyGJQrKQ0reapn9sOEoYhAmbfIEig2FW2jjK9AXKbi1AswagFeSKaDU8BLL5VSsX4VBF5HZEdWkNf4fkBLpkYRDRiiqzjOr7UMiqqVyi75yY57Hp89fNAT3/S8P84l7yY78ArlkDCZIkSKSeCaG9W1PHDCUf3qTIkVukzvVVDPRej3ZKiDdKzqimaPCPkzpPuLYdMAO5nwJaY7uUaACpneftwJ5c4vQlaBvNWoKdiUQ9qG9rvn1SzPCPvE4XnOMONZAjrLLCAeWpMu7GluXmVA4y9pY3jlpjuqTkqFnodo5j9al7Px7sdUaq3qp+HlYGNGZo4uvd9EzPCxxR9VJOS1XcFL+FfVTu+6pY2KPGjemhkShd/rjhsbwegM/UdOMGF8oeSSGy1Iz56eEk/q2/XeWs7DdJnpdYnN2PYsH2jqy5MMMLVJKn7YnAnoyjcZkpjtNG2HEMdkcs7Wqdjp77oRi2cMwPCmhnjkjFk2m74AotV9MeGFIoStDDuvsLy5SpOiTi6GuOg==;jO+8HGaQz9qb1Yy4p5t2ww=="
+secured: "LOxElOES3dT8mtS5Z8yl2Dq2hfOR/zGW08IpDPI7wXkwUNa4K4065kjp20bpNKXL4z1+MW0lC6lSk3TEzLNMowMFt97+3W+LD7jCGzpS3WgmX+Zw7f1U0EUnfowkpJxEVmp9VF3p1rOw1FvHF590rKRNvo0RmFOPiBz3nRVsRmKoxKNaNVKl/ShrA7u1XyBpuHrCQhT7HwOvRd0JK1YtYpCtICKSK4s48vkVWaVIdbvjHfCfFX1KVzEj116Hb3KyfNmP+jWCrBFVLlLa/xqWZmWTnc97IxTNGzUFTvfDI2rlI1OnmEtkSieX/kiInrRslErGhNuuDBiX6yF7NYiTzu6SSwi6SHvkIsdEIbZG36s=;KjWaUbKNwjrP1rnVv8TO7w=="
 ---
 

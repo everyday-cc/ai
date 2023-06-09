@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bard_Social_Share_1280x720.width-1300.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Here’s how Congress can regulate AI | Opinion"
-    excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountab"
-    publishedDateTime: 2023-06-04T11:17:00Z
-    webUrl: "https://www.penncapital-star.com/commentary/heres-how-congress-can-regulate-ai-opinion/"
-    type: article
-    provider:
-      name: penncapital-star
-      domain: penncapital-star.com
-    quality: 39
-    images:
-      - url: "https://www.penncapital-star.com/wp-content/uploads/2022/03/GettyImages-521369998-scaled.jpg"
-        width: 2560
-        height: 1670
         isCached: true
   - title: "Bridging the regulatory gap plus other AI stories to read this month"
     excerpt: "This artificial intelligence round-up brings you key AI stories from the last month including EU and US aims to bridge the AI regulatory gap."

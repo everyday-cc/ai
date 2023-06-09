@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 754
         isCached: true
+  - title: "Ground Rules for the Age of AI Warfare"
+    excerpt: "Encouraged by the benefits they already derive from AI-enabled systems, militaries will likely stay their current course and design future systems with growing degrees of autonomy. This push toward AI-enabled autonomy will certainly unlock strategic and tactical advantages, but they will come at a cost."
+    publishedDateTime: 2023-06-06T04:18:00Z
+    webUrl: "https://www.foreignaffairs.com/world/ground-rules-age-ai-warfare"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/05/RTSI6EY8.jpg?itok=9qYdXcBI"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Japan Announces Groundbreaking Regulations on AI to Protect Artists"
     excerpt: "These regulations are still coming together in Japan with officials, but this move is a watershed moment for AI and artistry. Currently, creators in America are facing down Hollyw"
     publishedDateTime: 2023-06-06T17:48:00Z

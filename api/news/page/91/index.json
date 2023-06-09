@@ -2,6 +2,92 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2023-04-11-cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software.md",
+      "title": "Cadence CEO Drives Growth Beyond Chip Design With AI And Computational Software",
+      "excerpt": "Dr. Devgan and his company have a vision of bringing the power of simulation, modeling and computational software to far more than just semiconductor chip design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/04/11/cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/04/11/cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai.md",
+      "title": "Global executives and AI strategy for HR: How to tackle bias in algorithmic AI",
+      "excerpt": "The move towards monitoring HR tools and applications for bias is gaining traction worldwide, driven by various global and domestic data privacy laws and the US Equal Employment Opportunity Commission (EEOC). In line with this trend, the New York City Council has enacted new regulations requiring organizations",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai/",
+      "originalUrl": "https://www.ibm.com/blog/global-executives-and-ai-strategy-for-hr-how-to-tackle-bias-in-algorithmic-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-11-back-from-the-dead-ibms-watson-ai-is-alive-and-re-emerging.md",
       "title": "Back from the Dead, IBM’s Watson AI is Alive and Re-Emerging",
       "excerpt": "While Warson Health is in the rearview mirror, Watson AI continues to improve. In it’s Q4 2022 earnings report, IBM CEO Arvind Krishna commented. “Clients in all geographies increasingly ...",
@@ -1081,93 +1167,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-coach-soch-ai-and-ethics-heres-why-the-policy-makers-should-worry-about-it.md",
-      "title": "Coach Soch: AI and ethics — here's why the policy makers should worry about it",
-      "excerpt": "Regulating artificial intelligence (AI) presents a unique challenge for regulators due to the complexity of the technology and its potential impact on society. The pace of AI innovation and commercialisation is so rapid,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/views/coach-soch-ai-and-ethics--heres-why-the-policy-makers-should-worry-about-it-16363791.htm",
-      "originalUrl": "https://www.cnbctv18.com/views/coach-soch-ai-and-ethics--heres-why-the-policy-makers-should-worry-about-it-16363791.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2021/09/artificial-intelligence-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/views/coach-soch-ai-and-ethics--heres-why-the-policy-makers-should-worry-about-it-16363791.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/views/coach-soch-ai-and-ethics--heres-why-the-policy-makers-should-worry-about-it-16363791.htm/amp",
-      "publishedDateTime": "2023-04-09T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-gpu-for-deep-learning-market-2023-size-and-forecast-to-2031.md",
-      "title": "GPU for Deep Learning Market 2023 Size and Forecast to 2031",
-      "excerpt": "GPU for Deep Learning Marketinformation for each competitor includes (Amazon, Microsoft, Google, Fancy Startup, Intel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

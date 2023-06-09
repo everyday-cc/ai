@@ -39,20 +39,18 @@ related:
         height: 672
         isCached: true
   - title: "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise"
-    excerpt: "Founded by former Hugging Face and Meta AI researchers, Contextual AI raised $20 million in seed funding from Bain Capital Ventures, Lightspeed and Greycroft. Contextual AI emerged from stealth today"
-    publishedDateTime: 2023-06-07T16:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32762843/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the-enterpr"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32762843"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32762843"
+    excerpt: "Contextual AI emerged from stealth today with $20 million in funding led by Bain Capital Ventures (BCV) with participation from Lightspeed, Greycroft, SV Angel and well-known angel investors including Elad Gil,"
+    publishedDateTime: 2023-06-07T16:14:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the/article_c0ad8fec-1fab-558c-9422-7ce5c3a260b8.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 23
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/db/fdb0ba0e-d1a1-5c42-9f06-abebcb4bff4e/6480afc3258c3.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How to develop artificial super-intelligence without destroying humanity"
     excerpt: "Sam Altman, the founder of the revolutionary application Chat-GPT, is touring Europe with a message: AI is changing the world and there are big risks, but also big potential rewards"

@@ -56,6 +56,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "From science fiction to reality: Business transformation through generative AI"
+    excerpt: "Generative AI models offer valuable applications across diverse business functions, spanning IT, human resources, operations, and more."
+    publishedDateTime: 2023-06-07T23:29:00Z
+    webUrl: "https://techwireasia.com/2023/06/from-science-fiction-to-reality-business-transformation-through-generative-ai/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 35
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/GenerativeAIinBusinesses-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "9XSwOp6GxmwOXAU+FxlRP9DJ5F0qGQzRbnoIGlFO10rGrt8fgYm2Ed+TVtMRPBS7b1IMF6j15rXxg6DXT6ErMclbCvghUrJ1d2mIHOoHxuWj75D7T8AykDJma6bil9Ycxy7qiRL77AliyfPfV0CXgF4XGLQmJdF4zQ2lSf6Gc0rHS0kvwh523kIx+oga15CzuIHh7mg8tx1uZ42Y2suHjlAUkg55Pb6mGatgzRVH/3cXw6HyRJA/NCZ+7CrvRoD6kjEXi8wpSBynmObOvdQTJi7uzESmrzwyHoDGtTmhak0qw8oHgsm7ce46/oigYBzTefvbr89p/QTQAVYE36uwuDgnzk/VzQvbXeAcBag5Kf5TWaTQZ+8b//8tLmz7l6bNkTVC0wZQDZpw4OlArsQ7NHVlQnA+m0tkTnmfEp4DC9HZZbUlQ6OEHfs6hIWXK7PURDhUEMvcqChIg5tlg4++fUT+Wllyi98xxX/eEizamAFoR03Bd+1/WTY1EqbqYRpwZg1MslIRLUCssF5EsY2FJw==;J+PwVDTn0tA+zx6487pllQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-uses-gpt-4-to-make-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-uses-gpt-4-to-make-ai-better-at-minecraft/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1366
         height: 746
         isCached: true
+  - title: "Nvidia’s AI software tricked into leaking data"
+    excerpt: "A feature in Nvidia’s artificial intelligence software can be manipulated into ignoring safety restraints and reveal private information, according to new research."
+    publishedDateTime: 2023-06-09T04:00:00Z
+    webUrl: "https://www.ft.com/content/5aceb7a6-9d5a-4f1f-af3d-1ef0129b0934"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "8oAvS3CwnLsmJ7Z9bt91kuEWsVal6k07zksA1PO6qQ/r0FGlnRKb2Rm4HTVEVcwUFQytOBY5YSuso/CVBzqZdQCQ1g10pk89sCHKK0ZerhzH4b/LABMVMevy4nfxN0095t81g892hLiK6+2XlTxb6ntyHyPziQaqF+26MsZlIKCZNAbUF/c9enyvru9yJCIQqAwPyYHkiS7xWthYenShdX1t6Uc52Yzszjzn+aQmoCcRnwGLId8BX15zoFr/i9WXRl3FuH5R2wKlfwGQuaCvgalV4SPxAXgwjONCCg1Q2piEnZw2BjYRmk43a43PVRjxBT0JE2cMauBuj6uiElHG8N0gTbN7soeq7aKGqKSj5/c6P7JxF4cTYHSJK40myskZaIaky1wURcyT4uP/gz8MRCauGOrrk9iKGYa6N1YelgAAA7QBcaAdMDuaNUPgPmbe3il3j6rr6bd1HS5Ggzkf3+hYzpfwweFtjRnE68gPodYs7T0q5nQ2yr4nedwxxXr3uxNSvDUbkF6amgQoW0IzHw==;k6aB2CaGwCznFgM9DqCCWw=="
 ---
