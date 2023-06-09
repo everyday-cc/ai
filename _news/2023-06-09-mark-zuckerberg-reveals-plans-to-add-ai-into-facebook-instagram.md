@@ -7,7 +7,7 @@ originalUrl: "https://www.dexerto.com/tech/mark-zuckerberg-reveals-plans-to-add-
 webUrl: "https://www.dexerto.com/tech/mark-zuckerberg-reveals-plans-to-add-ai-into-facebook-instagram-2171246/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mark Zuckerberg lays out Meta’s grand ambitions for generative AI"
+    excerpt: "In a meeting today with employees at the company’s headquarters in Menlo Park, California, Meta Chief Executive Mark Zuckerberg insisted AI is the company’s main priority going forward. The company is looking to incorporate cutting-edge AI technologies into both its existing platforms — Facebook,"
+    publishedDateTime: 2023-06-09T00:30:00Z
+    webUrl: "https://siliconangle.com/2023/06/08/mark-zuckerberg-lays-metas-grand-ambitions-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/47774197691_ef179b2c80_c-768x513.jpg"
+        width: 768
+        height: 513
+        isCached: true
   - title: "Zuckerberg says Meta building generative AI into all its products, recommits to ‘open science’"
     excerpt: "Meta CEO Mark Zuckerberg said Meta is building generative AI into all of its products and reaffirmed the company's commitment to an \"open science-based approach\" to AI research."
     publishedDateTime: 2023-06-08T19:53:00Z

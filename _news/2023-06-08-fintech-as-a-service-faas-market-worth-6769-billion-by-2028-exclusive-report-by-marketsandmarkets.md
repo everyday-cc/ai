@@ -1,43 +1,98 @@
 ---
 category: news
-title: "Fintech as a Service (FaaS) Market worth $676.9 billion by 2028 - Exclusive Report by MarketsandMarkets"
-excerpt: "service integration with AI and automation, data analytics emphasis, worldwide expansion, and improved security and compliance, the future of the Fintech as a Service (FaaS) business appears bright. These patterns show that FaaS will continue to develop ..."
-publishedDateTime: 2023-06-08T15:40:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59294900-fintech-as-a-service-faas-market-worth-dollar-676-9-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59294900-fintech-as-a-service-faas-market-worth-dollar-676-9-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
+title: "Fintech as a Service (FaaS) Market worth $676.9 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+excerpt: "Market is expected to experience substantial growth, with projections indicating a rise from USD 310.5 billion in 2023 to USD 676.9 billion by 2028, exhibiting a compound annual growth rate of 16.9%,"
+publishedDateTime: 2023-06-08T15:39:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/08/9829532.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/08/9829532.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
 related:
-  - title: "Sleep Apnea Devices Market worth $8.0 billion | MarketsandMarkets"
-    excerpt: "The sleep apnea devices industry is poised for significant growth and innovation in the near future. With increasing awareness about the detrimental effects of untreated sleep apnea,"
-    publishedDateTime: 2023-06-08T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32783569/sleep-apnea-devices-market-worth-8-0-billion-marketsandmarkets"
+  - title: "Global image recognition in retail market set for growth, says report"
+    excerpt: "According to a report by Research and Markets, the increasing use of image recognition applications is expected to drive the demand for image recognition in the retail market going forward and image recognition in retail market is expected to grow to $4."
+    publishedDateTime: 2023-06-06T05:38:00Z
+    webUrl: "https://www.retail4growth.com/viewpoints/global-image-recognition-in-retail-market-set-for-growth-says-report-1060"
+    ampWebUrl: "https://www.retail4growth.com/viewpoints/lite/global-image-recognition-in-retail-market-set-for-growth-says-report-1060"
+    cdnAmpWebUrl: "https://www-retail4growth-com.cdn.ampproject.org/c/s/www.retail4growth.com/viewpoints/lite/global-image-recognition-in-retail-market-set-for-growth-says-report-1060"
+    type: article
+    provider:
+      name: retail4growth
+      domain: retail4growth.com
+    quality: 59
+    images:
+      - url: "https://www.retail4growth.com/public/thumbs/viewpoints/2023/06/1060/r4g-Thumbnail-research5_440_851.jpg"
+        width: 715
+        height: 440
+        isCached: true
+  - title: "Global Public Relation Robots Market Report 2023: Increasing Applications of Artificial Intelligence Bolsters Growth"
+    excerpt: "Global Market Size, Forecast, Insights, Segmentation, and Competitive Landscape with Impact of COVID-19 & Russia-Ukraine War\" report"
+    publishedDateTime: 2023-06-06T21:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32748796/global-public-relation-robots-market-report-2023-increasing-applications-of-artificial-intelligenc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32748796"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32748796"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 4
-  - title: "Synthetic Data Generation Market worth $2.1 billion by 2028 - Exclusive Report by MarketsandMarkets"
-    excerpt: "Stability AI will use Amazon SageMaker (AWS's end-to-end machine learning service), as well as AWS's proven computing infrastructure and storage, to accelerate its work on open-source generative AI models. In October 2022, Microsoft partnered with ..."
-    publishedDateTime: 2023-06-05T15:08:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59262076-synthetic-data-generation-market-worth-dollar-2-1-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Digital Twins in Healthcare Market worth $21.1 billion | MarketsandMarkets"
+    excerpt: "Digital Twins in Healthcare Market in terms of revenue was estimated to be worth $1.6 billion in 2023 and is poised to reach $21.1 billion by 2028, growing at a CAGR of 67.0% from 2023 to 2028 according to a new report by MarketsandMarkets™."
+    publishedDateTime: 2023-06-06T18:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-digital-twins-healthcare-market-worth-211-billion-marketsandmarkets-/2023/06/06/9827683.htm"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+  - title: "USD 4.02 Billion Growth in Automotive Voice Recognition System Market Size - Industry Analysis, Market Trends, Market Growth, Opportunities"
+    excerpt: "Automotive voice recognition system refers to the concept of using speech recognition technology in vehicles. The technology is gaining traction among consumers across the globe due to its growing advancements in recognition algorithms."
+    publishedDateTime: 2023-06-06T17:04:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827599.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Cognitive Computing Market Revenue Is Expected To Increase By USD 239.5 Billion By 2032 Says Acumen Research And Consulting"
+    excerpt: "Global Cognitive Computing Market revenue is expected to increase by USD 239.5 Billion by 2032, with a 23.2% CAGR from 2023 to 2032 North America region led with more than 39% of cognitive computing market share in 2022 Asia-Pacific cognitive computing market growth will record a CAGR of more than 25% from 2023 to 2032 According to a study conducted by Accenture,"
+    publishedDateTime: 2023-06-09T00:48:00Z
+    webUrl: "https://menafn.com/1106415115/Cognitive-Computing-Market-Revenue-Is-Expected-To-Increase-By-USD-2395-Billion-By-2032-Says-Acumen-Research-And-Consulting"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?643498"
+        width: 437
+        height: 250
+        isCached: true
+  - title: "Fintech as a Service (FaaS) Market worth $676.9 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Market is expected to experience substantial growth, with projections indicating a rise from USD 310.5 billion in 2023 to USD 676.9 billion by 2028, exhibiting a compound annual growth rate of 16.9%,"
+    publishedDateTime: 2023-06-08T17:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/06/08/9829532.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
-secured: "ODeFmYBAdO7XGfw7Ge5avJgSExLK2wA5VnjN8Jc7jFwL5QFUUOMyUusr8RL6ttpPaZTtx0EWlODahyWGKe49ZeHkrUDXvZTBRLJEL33qa02UC4Ueh4J//pvks4myi2jJqAe9cmdPX1pQ7iilPWxqKShup6HdoBeDn/wQZHkfqR+YQQ63ufXokgqEF12Mifkc0FEO4oetsnxP9PN8sc1qJg02kqi5cj81FEH636tODLn7M/0ZQdR0P1H03NsRjG5T5ECEGHVY6jA57U33jlW+EQFVncPa4OAeX8BiES1cZ6qycb9LcqNIR8wTXTPNBKeKHcgorKrFK2j3fNIq/OtNC9E+L5RKoIyaiaI1c9Ae6fE=;US9yTx2IFLW7UChu1lp7IQ=="
+secured: "vNKYWg2xebtn18IptoJlZ2W93PDY5Avleh4fnhivCNnolgVjpMncEsscmEJ/MZzsX8zNiO7s7xJ6lEV47z/+BjpxEx8oVMSIt4JXbWrRAKkcCpq9cjUpfXR7SmLH5GzVU2Rk5h//4B7h4CSJq/JyK2Rye3cRPUeplCMgOn56n2xraUyDlDPUbdwMj+8z7c8TcG+LF5yHEteQyypmV3cbimo3xHilvzeBVGGNp8XYnXnZuQ4iZTh6u3QQ2UivHlvyye4VsorAtwCoi1iWpCTf//yyUCAmjT7VLvrckewIGuSXNo3TcYH5svd/4oBJjhPq4a/iLbanXh1U2zHl7XpfWgNhL9TJWzdkifxkSWxrcGoR6DsidczALTSIqgo7ELxkXYtmeYdK1WS8ocDRep12owqHxIixsmSmKEQfn5/0tSA8tw+B4Ar8acA5guwSjy0968CbTVlqbq99XTj8H4OSFofP0pUlcEVaX/piRZ2knUBi6h4QrfQ6FOuYP2AMKvXFr99agTlkgTZR8i5sxPLtTA==;TKc7VNq77Ah8HIDWO1h7Jw=="
 ---
 

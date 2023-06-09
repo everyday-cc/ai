@@ -36,6 +36,15 @@ related:
       name: SecurityWeek
       domain: securityweek.com
     quality: 14
+  - title: "AntChain Launches New Privacy-Preserving Computing Platform, Providing Data Privacy Protection Solution for AI Machine Learning"
+    excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC), a new privacy-preserving computing (PPC) platform that brings a data privacy protection solution for large-scale AI machine learning."
+    publishedDateTime: 2023-06-05T11:39:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/05/9825978.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
   - title: "dnata Introduces Ground-Breaking Cooking Robot at World Travel Catering and Onboard Services Expo (WTCE)"
     excerpt: "AI-powered robot capable of handling cooking operations in commercial and residential kitchens. Hamburg, Germany, June 7, 2023 – dnata, a leading global air and travel services provider, announced an exciting addition to their presence at the World Travel Catering and Onboard Services Expo (WTCE)."
     publishedDateTime: 2023-06-07T13:28:00Z

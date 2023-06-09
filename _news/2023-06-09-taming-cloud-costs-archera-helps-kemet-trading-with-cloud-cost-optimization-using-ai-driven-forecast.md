@@ -24,17 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "Human Powered AI Meromai Launches, Bringing Crowdsourced Human Curation to Artificial Intelligence while Rewarding Contributors"
-    excerpt: "Unlike most AI platforms, Meromai is trained using Reinforcement Learning from Human Feedback (RLHF), where users are recognized and valued for their contributions. The platform incentivizes AI curation with a points based rewards system,"
-    publishedDateTime: 2023-06-08T17:58:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/08/9829613.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
-
 secured: "mTezhr6BnUQb1B531RFbZbcTOVMKWtKjGOTNlkDRcDDrUu21Gf2dilp2p0M5a3GFZ2KyWJRGa8j5aEA0MTEvESrj7M8o0OVLlMWf/1GRspQxHbVMfEeCEa1bboeIDpozh53B328YVS3rmvPWgLWpiyT8u/yoL2E9GzYaub7Vxj1gylz/u6VS7sSWmBpJy1ExJDDtMG8H7nvHpuxiykUi8Z5dAg8AuftIPqeHDMbe2azkZ7aZBvuRKlqAqXt1s5aiEUrM09lUCAIzRRLlVc6IvLzbqBTz18OvzPmeWfBceUPBE5g7CmRikzpOojH/zzr22VF9Kbz0nxRpyMp86hi8UIiASuTUxHi1CisR5su95pwNh82SUf125T7Vq9KOV+IcrtPfPSgHKJSvX/F/tHqbAN4KQ1pna9al3QMxMLSAMTs5a3jBPLqUruEgm50paGdhOrLrjuI4l5zz3yrrejpkepx7Al5xLFvTpWlbzmBml+RGHrUUEQCR0JO6sQqi3Rs+g+/s5QSabe+TQVG0rx1otQ==;OgvrO1KEza/7/BrZg62UJg=="
 ---
 

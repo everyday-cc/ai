@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why AI will ultimately lose the war of creativity with humanity"
-    excerpt: "Art created by artificial intelligence is everywhere. But, as a leading AI scientist explains, these works will always lack a creative spark."
-    publishedDateTime: 2023-06-04T09:49:00Z
-    webUrl: "https://www.sciencefocus.com/future-technology/ai-art-creativity-war/"
-    ampWebUrl: "https://www.sciencefocus.com/future-technology/ai-art-creativity-war/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/ai-art-creativity-war/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 57
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2023/06/ai-art2-838fe91.jpg?quality=90&resize=960,413"
-        width: 960
-        height: 413
-        isCached: true
 
 secured: "/B+73S33FfFaeSdEjFuCaH58QMGCzHFZk29XvcLbOw8RJxXoHNH2sniQrgAVL6BpxL4GdhBGetc/0DIVtiHEVKrm27l8OpYASA9zm73LIJTzJpqgR5LtZeowYjSisYE0HRzFGUOY7yIsVY7E8zSP1keTBs9rW2jd81xMWl8GrOXMqlRnjsoexVDs870MIEZ3z5yVZFfZ0v1SbBgT1AJpxsDDEJia/Hvi+ennIkqde7gAQNkDlLdNeFnh3RNrXPgkqk7tbBo9L7Q+AclqsTWbZmyG/fSqBQ4KaLUTCcJDAxqc3dWxo8+2B2auyEKauQ9XiyhkBCS5FdBUUdYXzaQVneSbfzLyE/251iy24CatFvs=;1bVBqFiUuTxsAeKAEyIrog=="
 ---

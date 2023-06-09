@@ -30,22 +30,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Indigenous Voice to Parliament: Libby Mettam has not joined Liberals for Yes campaign"
-    excerpt: "Liberal leader Libby Mettam has said publicly she will vote yes in the coming referendum, but she doesn’t intent to formally campaign for either side on the Indigenous Voice."
-    publishedDateTime: 2023-06-04T09:15:00Z
-    webUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-libby-mettam-has-not-joined-liberals-for-yes-campaign-c-10868273"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 32
-    images:
-      - url: "https://images.thewest.com.au/publication/C-10868273/41f42e4377bae0bf46328f26a300c1ea4e5093e9-16x9-x1y0w2446h1376.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "GQvJmfKwPLMNwv1rM7wgtvmOaL8qIODYiwiRi9y8HZLx700b/gOv3oM4vvOSE6Y3pyxx3E5+cbqIyA4jR9nnWPEMiKRr7LTnokZa2SmcGf1bPObDVq64xAx6mhotglIQCJvXJMKrR6co8qh0Rh9awgPIWcR1uRqDQiizWJZzIC56rVixsOUr+TnTjqkv9WXGwowrEpiSRvJZX8SlxEKDLhMUQLqI2Y14qCPYWOhGxDUQup3t6svxqvAgNHfjrNO4ddBnCaZoxAugli9F+Rr368VoAmxEQbu/YIhlZmIaSlpjc8qbvaJzux9wl1D5hlSlE8wvRyI8qUvSmXWHrD2EouiH3/2x3Q8/G7SzJj2qG/M=;rBICMJ8/bY/zbsk6mlb37w=="
 ---
 

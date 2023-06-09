@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-and-salesforce
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
 type: article
 quality: 83
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce.jpg?w=1200&strip=all"
         width: 1200
         height: 616
+        isCached: true
+  - title: "Generative AI can save 5 hours of marketing hustle every week: Salesforce report"
+    excerpt: "A survey from Salesforce and YouGov has revealed that generative AI can save marketers' five hours every week, or more than a month in a year."
+    publishedDateTime: 2023-06-05T15:19:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-can-save-5-hours-of-marketing-hustle-every-week-salesforce-report/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1180183363-e1636482579984.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Google Cloud Partners With Mayo Clinic To Use AI In Health Care"
     excerpt: "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the"
@@ -109,6 +123,6 @@ related:
       domain: diginomica.com
     quality: 25
 
-secured: "JszzLH90pfaSge310VBj0GH/KEYZx8RFacuXWn1uTgI7DiOzsjhgD4Thq8yYxO9ZcJoxVO7iDb2x853OCAT4OJx4/zD5Eilw/ZnYBKg1jhaUJVZZFb5mprhxL5NNZV4dDoJoSkMehxhnAi90GoCXBBn91IgZx+tGaoEm50PMvtOMT43TPpIGt01+7QY8uriL90xslBB/GGG0baDYaDaqFFFF8Qafa3+AIkO/h6QlxpvuSNKz+aIHRBHyoZS22j9jku+te7wB/0347VxBegfxWCyuzWsyCKu0OVBv2VuBznwnz1v6POWZ/ebUdCwmTamdxgJoJxnhRpZvXWlHhn3woslVafs86Qy603HkfcIfV+Q=;bynuoSEhXWJACxQd9LWqOA=="
+secured: "+G87ZeBjr7pun9nsHo6HbT0+tEhrZ0Fwrbeo9pamt3jA3o3Z7R622frz9AwtyaPAMa7kd5izvytC7znrm+FOePSv6mfvP1VNMyf37AnoXGV76kX9AvD6HhOJlXsiQCfy6NHgppUfBLQyT5ZFPFXljVsXFoVqBPKEx5GgibBbs8BJGlSBgoBSZfeVyXHFx83a+LcTCjmXw+QArJ+9iEPaP8J62mTyUQLAMLqz3HwAGzndcx6nBD63dn/Szx8orXOkNWaZAwwhvAGPfWxfKPytxX6Y9Ru4DCac6SPj1eyzjjsE2VF27jh0nfLyM3CSufhECTgJMhNoVwRCP20LE0wgI1X4t/4/vq8rDZYy1WE8sA38NRvuX5aCcEn7/R6de7qCcYZPTrGiYCbH5ohW1n1M57lPO0gk6VzlR4Kc2CVjeDBBofw0tZLjdcCzoPMdPrXy9NLrvgf/fvfH/4QyZkfNShsU4Q5BAwxkmViNmNYTlJHgXAL2k/zbLtJ/uINMky+4CFcD09IPKywHlrdT7H6FnQ==;QElJsE+iJcVBL5KDCmbNyw=="
 ---
 

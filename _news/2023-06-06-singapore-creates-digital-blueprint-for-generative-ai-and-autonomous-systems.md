@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/networking/singapor
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
 type: article
 quality: 84
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,49 +30,113 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore identifies six generative AI risks, sets up foundation to guide adoption"
-    excerpt: "Singapore has identified six top risks associated with generative artificial intelligence (AI) and proposed a framework on how these issues can be addressed. It also has established a foundation that looks to tap the open-source community to develop test toolkits that mitigate the risks of adopting AI ."
-    publishedDateTime: 2023-06-08T08:12:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
+  - title: "Job listings asking for generative AI skills are soaring, analysis finds"
+    excerpt: "The average advertised salary for jobs citing generative AI skills is $146,244, according to job search engine Adzuna."
+    publishedDateTime: 2023-06-07T08:46:00Z
+    webUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
     images:
-      - url: "https://www.zdnet.com/a/img/resize/67181d585de08fe20b24ec7a9fb98a85b8747e20/2023/06/07/c25bec5e-dc42-4e7b-b1e0-d04d05aa7004/gettyimages-1258475356.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://i.insider.com/647df19740bf000019fa30c1?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Here’s What You Need to Know About the AI-Themed Singapore Fintech Festival 2023"
-    excerpt: "The theme for the upcoming Singapore Fintech Festival 2023 would be ‘Applications of Artificial Intelligence (AI) in Financial Services’."
-    publishedDateTime: 2023-06-05T04:05:00Z
-    webUrl: "https://fintechnews.sg/74766/singapore-fintech-festival-2023/heres-what-you-need-to-know-about-the-ai-themed-singapore-fintech-festival-2023/"
+  - title: "Generative AI Is ‘Emerging Opportunity’ For Gaming Investors In 2023"
+    excerpt: "Venture capitalists and other gaming investors should consider generative AI as a huge emerging opportunity, according to PitchBook."
+    publishedDateTime: 2023-06-08T10:07:00Z
+    webUrl: "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6480ea0b59cee9714cd235e2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 659
+        isCached: true
+  - title: "The digital dark matter clouding AI in genome analysis"
+    excerpt: "Artificial intelligence has entered our daily lives. First, it was ChatGPT. Now, it's AI-generated pizza and beer commercials. While we can't trust AI to be perfect, it turns out that sometimes we can't trust ourselves with AI either."
+    publishedDateTime: 2023-06-05T17:19:00Z
+    webUrl: "https://phys.org/news/2023-06-digital-dark-clouding-ai-genome.html"
+    ampWebUrl: "https://phys.org/news/2023-06-digital-dark-clouding-ai-genome.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-digital-dark-clouding-ai-genome.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/the-digital-dark-matte.jpg"
+        width: 1417
+        height: 1011
+        isCached: true
+  - title: "Tech is paying big salaries for engineering and developer jobs specializing in AI. Here's how much you can make."
+    excerpt: "The company secured deals with OpenAI that allow it to integrate the technology into its Bing search engine and sell it to customers through its Azure cloud business ... on Levels.fyi for a level-four machine-learning engineer was $505,000, consisting ..."
+    publishedDateTime: 2023-06-07T09:17:00Z
+    webUrl: "https://www.businessinsider.com/ai-engineer-developer-salary-jobs-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://i.insider.com/6426cffced593e00183f654b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Is AI Manufacturing’s Answer For Front-Line Skills Attrition?"
+    excerpt: "Leo Sigal is co-founder and CEO of ROO.AI, a company founded to address the vast disparity in technology use by office and frontline workers Today, companies are struggling with one of the most problematic aspects of the “great resignation”: skills attrition."
+    publishedDateTime: 2023-06-05T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/05/is-ai-manufacturings-answer-for-front-line-skills-attrition/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Impact Analytics enhances its AI-native product portfolio with generative AI technologies"
+    excerpt: "Today's fastest-growing AI-powered retail-planning provider seizes the opportunity to exploit complementary, innovative AI technologies.LINTHICUM"
+    publishedDateTime: 2023-06-07T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/impact-analytics-enhances-its-ai-native-product-portfolio-with-generative-ai-technologies-1032375681"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "Generative AI, digital skills, ageism: 5 interesting stats to start your week"
+    excerpt: "Generative AI is marketers’ top consumer trend. Some 59% of marketers have singled out generative AI as the most important consumer trend to watch, according to Mediaocean’s m"
+    publishedDateTime: 2023-06-05T14:18:00Z
+    webUrl: "https://www.marketingweek.com/generative-ai-digital-skills-ageism-5-interesting-stats-to-start-your-week/"
+    type: article
+    provider:
+      name: Marketing Week
+      domain: marketingweek.com
     quality: 34
     images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Heres-What-You-Need-to-Know-About-the-AI-Themed-Singapore-Fintech-Festival-2023.png?x90673"
-        width: 1024
-        height: 567
+      - url: "https://marketingweek.imgix.net/content/uploads/2023/02/03170259/Numbers.jpg"
+        width: 1200
+        height: 700
         isCached: true
-  - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
-    excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
-    publishedDateTime: 2023-06-06T07:19:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9826768.htm"
+  - title: "CORRECTING and REPLACING Clarify Health Launches Generative Artificial Intelligence, Clara"
+    excerpt: "Contact us at clara@clarifyhealth.com to learn more about the closed beta program for Clarify's new generative artificial intelligence, Clara. (Graphic: Business Wire) The updated"
+    publishedDateTime: 2023-06-07T01:16:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_d5bc83a5-75d2-599c-bb85-5fc557b45a99.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 23
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 29
     images:
-      - url: "https://mma.prnewswire.com/media/2093629/IMKI_Custom_AI.jpg"
-        width: 400
-        height: 224
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/f/cc/fcc62d5d-2310-5539-8550-44fdcc6a06dd/647fdbe0269f6.image.jpg?crop=1019%2C535%2C2%2C0&resize=1019%2C535&order=crop%2Cresize"
+        width: 1019
+        height: 535
         isCached: true
 
 secured: "FTGokyWpbj5aVx1fDbSza7cJrJYnto3GI9uF1jSVs+q7aYOtDrTT7JuAMumk1vJ5hA6V+p1FLzyx+fPH9KmsWw78jIX3uI4JTE1VWbRDXgr+9uVpo2TCcM7+ybOMd2+Up5m4XJmfhOcLNxw62DxHkP+SzyHzY9m+e/elCfljCEIkbDG8EPP9OEoPWkqSg6hMserJYDezOb3BGW8OIx04ULcORLZNHCIbf11Yl02ETM1QQ2cv44LVRTMG8qJ99L0CkyEihjReRbW5BKEL7o+eQqMAD/ecLhmVKJC7PugDk0M57HPVAlsHOGaFr66byeya1I69U2sRVwIKUyvNu47+hksYBoEyGXR1XBx0KYKDTpeNJDk8Ji7d8UFDCpe5xSt6rJ7VKKBYQ6uCd8xNgB81+c9DiQTHTSArA+uuuymbexUvKDmAXyJ9kjIP9i8ZV6dL+aPFB2JkVek6cw4aJr4I7VXXynoefMR5GTfhBq+cBc7P+qitCCout0b00oUznmurK2tK8L46fyKBee+4IyWMVA==;BqAox+QAvK8FJmeHMSGT/w=="

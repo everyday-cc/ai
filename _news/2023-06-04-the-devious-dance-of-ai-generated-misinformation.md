@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-da
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 219
 published: true
 
 provider:
@@ -192,6 +192,24 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "The Ethics of Using Generative Artificial Intelligence in the Practice of Law"
+    excerpt: "Understanding how generative AI solutions collect, store and use the information that ... certainly will not be sufficient to rise to the level of expected competence by ethics officials. In other words, arguing that the information provided by ChatGPT ..."
+    publishedDateTime: 2023-06-07T20:17:00Z
+    webUrl: "https://ipwatchdog.com/2023/06/07/ethics-using-generative-artificial-intelligence-practice-law/id=162097/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 31
+  - title: "Managing the Risks of Generative AI"
+    excerpt: "Generative artificial intelligence (AI) has become widely popular, but its adoption by businesses comes with a degree of ethical risk. Organizations must prioritize the responsible use of generative AI by ensuring it is accurate,"
+    publishedDateTime: 2023-06-06T12:15:00Z
+    webUrl: "https://hbr.org/2023/06/managing-the-risks-of-generative-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 19
 
 secured: "vA1rg+Mw1HurA92LRiTQYz6sejbZweK2WP5ZGrtu8sHC++Yp5dSJMyWrllrUvA9sjrPjz/nC9VP3MEKki8WCnlPi0eGPaMvaV9UmWa4XXCT2YPCpkBfEF8gL8W+KyVEnFLyW1pUxsQS/Pbj7Bws/G32i1ScjsDBPbKGlGBH1+S9ZC2hcRhKju5ECE+AIgCeyIR8zFPk1eZ7YxNrtsDeAcSBzescMYOxQYDVZZlrIpE8R8F5Uf6kMaq7r2DUjXj1rmp+XBIxpU0htdBfRhdIklOZwYkR+uiWX5M1YmFg/ec2LtbJUVhZS9YLyIdv71wBwRyUGQIrXedYkXJ9OUVmbsIPCgyEMHCVhKfKhQEye4G/OCsHUMhSPjiscvJqLuvDz39r+WUI/UsdS9LacnpJojnj5dRj+zZxwmsaB+SA2g8nAKuhYQpXGBLyO6CXrBRyuOIG4ACDmZHSGjKoVlRqH+HlAZMCuphgkRqJZ+6yjadI5ZyknDRtzKEz099CehCevUMUzHBRVCccgIZufDsAHtw==;1w4A8ZiFU2q0OOdFa0HSrQ=="
 ---

@@ -1,40 +1,28 @@
 ---
 category: news
 title: "Mphasis launches 'Mphasis.ai' business unit to help enterprises leverage the power of Generative AI to drive business outcomes and efficiency"
-excerpt: "Mphasis, (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today launched 'Mphasis.ai', a first-of-its-kind business unit, focused on transforming organizations globally by unlocking the potential of Artificial Intelligence (AI) to maximize business outcomes."
-publishedDateTime: 2023-06-01T16:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-mphasis-launches-mphasisai-business-unit-help-enterprises-leverage-/2023/06/01/9825024.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-mphasis-launches-mphasisai-business-unit-help-enterprises-leverage-/2023/06/01/9825024.htm"
+excerpt: "Platform to integrate capabilities of Next Labs, Sparkle Innovation Ecosystem, and Mphasis' Hyperscaler network. NEW YORK, June 1, 2023 /PRNewswire/ -- Mphasis, (BSE: 526299; NSE: MPHASIS), an Informa"
+publishedDateTime: 2023-06-01T14:41:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32671902/mphasis-launches-mphasis-ai-business-unit-to-help-enterprises-leverage-the-power-of-generative-ai-"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32671902/mphasis-launches-mphasis-ai-business-unit-to-help-enterprises-leverage-the-power-of-generative-ai-"
+ampWebUrl: "https://www.benzinga.com/amp/content/32671902"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32671902"
 type: article
-quality: 4
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/876509/Mphasis_Logo.jpg"
-    width: 400
-    height: 215
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-related:
-  - title: "Mphasis launches AI unit to focus on business outcomes"
-    excerpt: "Anup Nair, a veteran technology leader at Mphasis, will assume the role of chief architect and chief technology officer at Mphasis.ai."
-    publishedDateTime: 2023-06-01T19:28:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/mphasis-launches-ai-unit-to-focus-on-business-outcomes/articleshow/100686608.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
-
-secured: "2bqHex8Oh3LEQ6aZToKmh4LSP4guRqoA/nwFkksPI4BTAQBcub6WSEoqHvqfnvH4luF4H6xF9mc9Nw0hQlrfSDiLVHHCd5JavJtUwXwb45Xg0cJytcUxX6QBj0c+V1ITdA/7tzXjZXzolVbsqMgUymoG4Mzw7tEXbR8gM2OywNlZC1dPMF5HnWa/7baqJkEswAhGvlORPTTs+jzLeMHCeBJ84BQELJ+zwtLINF2/4pzVpEMQTCpkzUdRZfxxqZENC4bc56nq0MHqddWrtPEJuDM1mTBALliSBbs658PVH7r093VEYyUFAN6OK5Bh6L/HVFuA3Jo5R7TLSmFvKLbT5ZZo53UKibRbcAIO8p3AOMs=;EqzbHiCWGrEiIvXhlKXfEg=="
+secured: "ovrX6fnsM9hFg4WA1HIKhfObiXY6td+2+SUpCkd2hk1bjN/fdtxmEMu9f2j3CQucokVQOG4PYTl047+7fUorZeE5LNZ992DF4qF3lIG2Ydo8ipWRJDl2s24ckxC6M0p38gIC8vEu6ZvGV5CYAlfzcBCSRQ2tNctPHe1dJ6o2/KAgURXsVflcXkVkGBfEyZR4NpDH937zTQOE6T8qwci5xoqWX4M1EAJKiJ+fzG8u6jrsQSblH04FR5ildJQmnibsQgQQKAdFAPn+vqZ0q/k/E/oUaHXlJ+0KkXgmLr9uWldlkyoPb6j0uBX2dVRpk5+r0bywPeVrzMfNWhwUUANEJq/YZthP7p1kIRlZSdAfhXg=;/mdEpbuklzQ2sOoaE+6qFA=="
 ---
 

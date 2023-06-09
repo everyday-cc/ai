@@ -2,11 +2,11 @@
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
 excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
-publishedDateTime: 2023-06-01T13:10:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+publishedDateTime: 2023-06-01T05:42:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106"
+webUrl: "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 558
     isCached: true
 
-secured: "8R8xJ4ornPVlmXrHpWjTyadcTDYS3E2Kx/lE8AhKX/tZ+sjUL5YHTT7xi0JxU6TUBlEJzekYPKHtta24F4CM8PLTOE41dd0QJ1Y3lOmpYsc7FxpHJYGlYpRJ2hEXgFpmGC8qJJAbetcTTxh6GNoD6ph0UU++oS5x+qj/3BROL+Plh+BH1NM1n+7BmS+oykWjaC+J1jAYXh20HS7NvCwPVtswomNy1+li5u3tm83SK7DmQyaHiKcezO7xRv5V3fjAcTN0t+yeW7gj+dBaBIWOlc02xTSa1Hx63Rm2S1K+FN+AtxTqttbn/qC/FzTJ/5rD4KpsSLdf9Nosjv9fJ1Sw6TIv6SOmko9GnYer/fXkfeI=;Fg8x5Il2aFLD/eG38xlPvQ=="
+secured: "coKg53MG1Am+9iEpavvdV9n2j27MsRV/3G5Vt4GCRwjOm+jitHPeA1gDkxhqZ1hbOpS8ggvUjhsMlG9W/6awneSNtVnPlfzfcbyN43/8K9ni9o1KhlpiUU0YYEge+hgrrZzacMkrBC+3sqw6BVzzjHIOjCERxLfNv615AIGdYx8gfyhgMg3vm1MaIrc+SKsX48mnOL/7+pBjfMYD/rx9oaejGOXF/mDYpipJPtpNo+3Qi7PEQio6LrUGdzi9hrZIIfBMRr4sutgrx9NNicpTzTcAhcjONVMmGd5Rfrg2grLt1wrGiiXvmGAyCadJs1Ybdu42j0Dg4GsWWwAzWc5cUf0w7abeEhtXrhU1FB/I1n4=;/K9a5k+9TM+ZGjzHLJd/7Q=="
 ---
 

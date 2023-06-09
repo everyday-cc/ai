@@ -10,7 +10,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-06-exploring-human-brain-artificial-neural.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -149,7 +149,7 @@
       "originalUrl": "https://www.mirror.co.uk/news/us-news/apple-ceo-denies-new-tech-30176788",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -192,7 +192,7 @@
       "originalUrl": "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -333,7 +333,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -813,17 +813,17 @@
       "title": "Artificial intelligence brings Mona Lisa to life as a hologram",
       "excerpt": "The Mona Lisa has been brought to life as a hologram. Leonardo da Vinci's most famous work has been recreated using AI (artificial intelligence). A state of the art computer neural network reconstructed the model's enigmatic smile in finer detail than ever before.",
       "sourceUrl": null,
-      "webUrl": "https://tylerpaper.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_fed334d3-faff-522a-8a82-1ba1d5d77989.html",
-      "originalUrl": "https://tylerpaper.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_fed334d3-faff-522a-8a82-1ba1d5d77989.html",
+      "webUrl": "https://www.montanarightnow.com/national_news/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_f70c3f30-f55f-596e-9de9-c77aa2e06c89.html",
+      "originalUrl": "https://www.montanarightnow.com/national_news/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_f70c3f30-f55f-596e-9de9-c77aa2e06c89.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/1/22/12230a68-e66a-5213-b9e4-167e5dbdfdad/647612fe5b31f.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
+          "url": "https://bloximages.newyork1.vip.townnews.com/montanarightnow.com/content/tncms/assets/v3/editorial/8/25/8251cc81-749c-54f9-ab54-cfa99fe9c622/64761327c2c30.image.jpg?crop=1762%2C928%2C0%2C176&resize=1200%2C632&order=crop%2Cresize",
+          "width": 1200,
+          "height": 632,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -831,13 +831,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://tylerpaper.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_fed334d3-faff-522a-8a82-1ba1d5d77989.amp.html",
-      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_fed334d3-faff-522a-8a82-1ba1d5d77989.amp.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-30T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tyler Morning Telegraph",
-        "domain": "tylerpaper.com",
+        "name": "montanarightnow",
+        "domain": "montanarightnow.com",
         "images": null,
         "publishers": null,
         "authors": null

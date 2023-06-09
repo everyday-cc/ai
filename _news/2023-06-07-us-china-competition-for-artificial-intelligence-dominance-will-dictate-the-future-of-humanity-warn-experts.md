@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/us-china-competition-artificial-intell
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/us-china-competition-artificial-intelligence-dominance-dictate-the-future-of-humanity-warn-experts.amp"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/artificial_intelligence_getty-.jpg?w=1280"
         width: 1280
         height: 719
-        isCached: true
-  - title: "Why AI will ultimately lose the war of creativity with humanity"
-    excerpt: "Art created by artificial intelligence is everywhere. But, as a leading AI scientist explains, these works will always lack a creative spark."
-    publishedDateTime: 2023-06-04T09:49:00Z
-    webUrl: "https://www.sciencefocus.com/future-technology/ai-art-creativity-war/"
-    ampWebUrl: "https://www.sciencefocus.com/future-technology/ai-art-creativity-war/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/ai-art-creativity-war/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 57
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2023/06/ai-art2-838fe91.jpg?quality=90&resize=960,413"
-        width: 960
-        height: 413
         isCached: true
 
 secured: "kEpkrPvUQ5F5/yUKsJkfYq8beShqH/OXBG+h8t6p1O+SJ5uHJrd24kNcvD9OK01jb1qRmDF3PoJTvmLWJBT6TgAAfT8TLUJKQxTDM1R5hP+2Eq65kuP10SVWsCyGn/8TaQX31UH1OMSHY2+4GrASLaiokwQa0IVjvovHHpmpEup1JqFbdJL8UI5WO+MZhySw0iJ+ELrraK2KFBfMRwOyjInU4wl2mogNLiPOeOqdt7U+wUWycJfRFME56j8Bv5yZfi0ley5Ms3AhXwXMZupy6K/9uR8J1bYT4U1EJRs2VO5wMqHtif6B2K09m+3z71omXYC3Yqr2tvwHFfsLxZK7IAUB7SwppgogKsQVk/aAs3gKPqhJL9Z0EYqHTIuA4b+s+q6qfoyOGoLJThGBYC6FbFok3tl0kiSzNcIPlI2TXxWIJrWrr8T9Lz7hzg6/NXGrGUqHKUglk5ID+rQdScQ48p8vqL/i/pliINmvGyw5cSO7RuXdhTHmQB2SNf41KSFVJ32jFXRzvDCPl4wIPQH8UQ==;ySwRZ0+6x+gXbHf1JDHNTQ=="

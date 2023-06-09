@@ -3,26 +3,24 @@ category: news
 title: "Artificial intelligence brings Mona Lisa to life as a hologram"
 excerpt: "The Mona Lisa has been brought to life as a hologram. Leonardo da Vinci's most famous work has been recreated using AI (artificial intelligence). A state of the art computer neural network reconstructed the model's enigmatic smile in finer detail than ever before."
 publishedDateTime: 2023-05-31T00:00:00Z
-originalUrl: "https://tylerpaper.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_fed334d3-faff-522a-8a82-1ba1d5d77989.html"
-webUrl: "https://tylerpaper.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_fed334d3-faff-522a-8a82-1ba1d5d77989.html"
-ampWebUrl: "https://tylerpaper.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_fed334d3-faff-522a-8a82-1ba1d5d77989.amp.html"
-cdnAmpWebUrl: "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_fed334d3-faff-522a-8a82-1ba1d5d77989.amp.html"
+originalUrl: "https://www.montanarightnow.com/national_news/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_f70c3f30-f55f-596e-9de9-c77aa2e06c89.html"
+webUrl: "https://www.montanarightnow.com/national_news/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_f70c3f30-f55f-596e-9de9-c77aa2e06c89.html"
 type: article
 
 provider:
-  name: Tyler Morning Telegraph
-  domain: tylerpaper.com
+  name: montanarightnow
+  domain: montanarightnow.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/1/22/12230a68-e66a-5213-b9e4-167e5dbdfdad/647612fe5b31f.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://bloximages.newyork1.vip.townnews.com/montanarightnow.com/content/tncms/assets/v3/editorial/8/25/8251cc81-749c-54f9-ab54-cfa99fe9c622/64761327c2c30.image.jpg?crop=1762%2C928%2C0%2C176&resize=1200%2C632&order=crop%2Cresize"
+    width: 1200
+    height: 632
     isCached: true
 
-secured: "0YKz8f8bOFbVjpY3nTYhKH6e1CSWO98R1Ay4xr1sIoAvqtWbttbjxedGK3wwVwEgwIgbE7yYE/ZCUIyvL12Vx+NlX8tIePVhzsKtDGfpvDPbCN3NCiUmg+rGY+5hBe34a90d/VfVEKPmCjYaC4qAzx19we1w335u0bgGQzsBgtXyBMeatHsPxFjVyPhhb1/Cl3s8bmIRm0YQTd993tgF0cI+to6sCEN36wc6fyCQWbyWQX+S0+fuSpJ8pV1NhNDWj1n8UoPQPszcuveb7TViTwkz8synXVFNwqNZUBlmoeBvHzdbRXtoIRxErXs4vslAKFM1xc6wNrSOEoYffvMt2JXNToD53WRgG5pwoTZrug8=;yZH7YZ73vOJ+4iWpAZUytA=="
+secured: "5UedBrEAqjHDrsNz/F9HffUIskgQwGpS+B49ysyrG84/f6UH5xHZyeNq0U7U8bu4IdrmolxjuCMUGWvG0IIR9+QDFo82+cB5CXPgSOly1UOiCzLP0AEgLl0I0R+y3G4sfTSioOeSHm0KZfsAFF6KUcwI18pz4R3T3juc2J7SB6TqR4QbjPAB2wSN/5fHKQBFA+Pw+WFBQv+OKQRI77UVhx6GQ+AGY8KhA6xPBj0R7gefvVgORluXFpdb0ohgUgom9TFa0n9maxazCMMKmL1ScFDrCOl+C9l5Bv8IYgFKO9kehTyrfnpObQisAj2GwtgAcePw3JD+tFqX30flrVUgMGoIEjrr1gRHZSjsNqry5u0=;2s4a1/smYDDkPLyboa09MQ=="
 ---
 

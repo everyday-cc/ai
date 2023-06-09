@@ -44,6 +44,15 @@ related:
       name: SecurityWeek
       domain: securityweek.com
     quality: 14
+  - title: "AntChain Launches New Privacy-Preserving Computing Platform, Providing Data Privacy Protection Solution for AI Machine Learning"
+    excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC), a new privacy-preserving computing (PPC) platform that brings a data privacy protection solution for large-scale AI machine learning."
+    publishedDateTime: 2023-06-05T11:39:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/05/9825978.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "PtMPXNsISnmHx1WoKABea96sIgcF1wvWyAXEIoVt41aXmWnftoiZzcQqmygD4dm8jxRRYJ1j4F2FhesbJmQMh0BRpQ5hLTfX3Ti4Z2uXZW6xNVvku1rdSF+ldgba/ex+ZR+TptnQkyGzuNeEOoxpk9p4vi2EE7QJj88SWyV9ARoX/UWsYW7vgiX6QxXCS5Jz+NJ/RjxAkwjGs8YBUJYAyQ4JCNnvLmsWx0zzmspcN15SYtNC0gUbfEFmMrviSPaWYfHsx/dzMhwrUxbMSJUdLQ6BZDjj4rn7a4erB9F6AUUslZb1qZ0UDKUrr5w0bOnkHxyfye5BbWcERRibamGSFBtdVk3rs8fs90nf8A3TdJRoW47spT5UtuDC6n3L4GxHsXCmc/7Ol6HNUf1QjIXhdqq/+eaiwX6euzGVYjVI4S31x6+yqzLNwsnU23KX8dFWVyoFAp6J06ITaKOFqmt2SMC9jbGIShSY2kuF1gqKqM8IySYTD1Xx0wjkt9v3W5ef4bLa60I0RnFTr3QGbgZb+w==;TMJWtkqkKriolfiFx/jdHw=="
 ---

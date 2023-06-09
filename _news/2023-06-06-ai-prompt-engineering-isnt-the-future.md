@@ -72,6 +72,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Artificial intelligence and the future of work"
+    excerpt: "Artificial intelligence (AI) has pervaded almost every field of innovation and development, starting from driverless cars to recommendation of product."
+    publishedDateTime: 2023-06-09T03:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/startups/people/ai-and-the-future-of-work/articleshow/100864261.cms"
+    ampWebUrl: "https://m.timesofindia.com/business/startups/people/ai-and-the-future-of-work/amp_articleshow/100864261.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/startups/people/ai-and-the-future-of-work/amp_articleshow/100864261.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-100864261,width-1070,height-580,imgsize-4548,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
 
 secured: "j5kNyVeg74mEw2PHgIGT2aqGFSJvGR0kTikyxmfbvXIhWfKo6zjyLVYA9DaUJzLwYhkH/tCKu5y/WEu4X6Rqww0W6AD/2PBRn0X78vgjgxCyhxUYk9r6ya20uJQspZuzzSxokRGeVoczdlvKN3JwUCsbC9xxnMBE+X+ewUNYJRRFG8pbO7QbeOPu/mlpw4LEioR65NNdoZ8IXRHPnP4GZG/6MYjca1k2tYK1OYGah7YrI9peQXgbj4zuNFoxN+orbm47zF8ZOWxGUOJCcR81RBySvTtYrNZwXvOBgQx+IESV36W/JEgyzds060iZE0gnXINsdlczde9uT1RlcIpH31bBvSvkkSRpXhp3mhpJXVinhkMwLG4vpDsDYdl+zf/H//9bTBmp1ocDP3Wr0b3WoI1nNkIjbUSeXJSNVypy9hfa6tye8nbG2oNQt+G7PxSqKg/F0iEkQ/X89ql+CLgTyH7O0YI6fTtueeQbI55DvxLsnIKInf3tsPVmicpstqVPL+Ct2WqU0fn6Xv5uLL38Cw==;xasvlP11tDwYkEI8G1B7ew=="
 ---

@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 710
         isCached: true
+  - title: "How AI can help India's healthcare system in cybersecurity? Experts say this"
+    excerpt: "The Indian healthcare industry has faced 1.9 million cyberattacks in 2022 and experts are calling for stronger cybersecurity infrastructure, with artificial intelligence (AI) recommended as a solution."
+    publishedDateTime: 2023-06-09T02:06:00Z
+    webUrl: "https://www.livemint.com/technology/how-ai-can-help-indias-healthcare-system-in-cybersecurity-experts-say-this-cyberattacks-aiims-delhi-11686272124440.html"
+    ampWebUrl: "https://www.livemint.com/technology/how-ai-can-help-indias-healthcare-system-in-cybersecurity-experts-say-this-cyberattacks-aiims-delhi/amp-11686272124440.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/how-ai-can-help-indias-healthcare-system-in-cybersecurity-experts-say-this-cyberattacks-aiims-delhi/amp-11686272124440.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 73
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/09/600x338/artificial_intelligence_1686276079470_1686276079790.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
     excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
     publishedDateTime: 2023-06-07T06:04:00Z

@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Mark Zuckerberg lays out Meta’s grand ambitions for generative AI"
+    excerpt: "In a meeting today with employees at the company’s headquarters in Menlo Park, California, Meta Chief Executive Mark Zuckerberg insisted AI is the company’s main priority going forward. The company is looking to incorporate cutting-edge AI technologies into both its existing platforms — Facebook,"
+    publishedDateTime: 2023-06-09T00:30:00Z
+    webUrl: "https://siliconangle.com/2023/06/08/mark-zuckerberg-lays-metas-grand-ambitions-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/47774197691_ef179b2c80_c-768x513.jpg"
+        width: 768
+        height: 513
+        isCached: true
   - title: "Mark Zuckerberg reveals plans to add AI into Facebook & Instagram"
     excerpt: "Meta CEO Mark Zuckerberg has revealed plans to bring generative AI text, image, and video to Facebook, Instagram, and more."
     publishedDateTime: 2023-06-08T20:47:00Z

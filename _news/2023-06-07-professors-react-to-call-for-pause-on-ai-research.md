@@ -43,6 +43,20 @@ related:
         width: 2880
         height: 1744
         isCached: true
+  - title: "Artificial Intelligence raises questions for educators"
+    excerpt: "The increase of artificial intelligence use is forcing teachers to face how it will change the learning process."
+    publishedDateTime: 2023-06-09T02:40:00Z
+    webUrl: "https://listen.sdpb.org/education/2023-06-08/artificial-intelligence-raises-questions-for-educators"
+    type: article
+    provider:
+      name: South Dakota Public Broadcasting
+      domain: sdpb.org
+    quality: 52
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/ff84040/2147483647/strip/true/crop/3000x1575+0+56/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2019%2F10%2F15%2Faid-evidence_wide-851025a61a9e7bbb8382dafed3c617413d4fdd1e.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Construction AI & Sensors: Unlocking Productivity & Sustainability"
     excerpt: "Continued research and development in this area are essential to drive further progress and unlock the full potential of AI and sensor technologies in the construction industry. By embracing these innovations, builders can pave the way for a more ..."
     publishedDateTime: 2023-06-08T11:00:00Z

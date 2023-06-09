@@ -191,6 +191,24 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "The Ethics of Using Generative Artificial Intelligence in the Practice of Law"
+    excerpt: "Understanding how generative AI solutions collect, store and use the information that ... certainly will not be sufficient to rise to the level of expected competence by ethics officials. In other words, arguing that the information provided by ChatGPT ..."
+    publishedDateTime: 2023-06-07T20:17:00Z
+    webUrl: "https://ipwatchdog.com/2023/06/07/ethics-using-generative-artificial-intelligence-practice-law/id=162097/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 31
+  - title: "Managing the Risks of Generative AI"
+    excerpt: "Generative artificial intelligence (AI) has become widely popular, but its adoption by businesses comes with a degree of ethical risk. Organizations must prioritize the responsible use of generative AI by ensuring it is accurate,"
+    publishedDateTime: 2023-06-06T12:15:00Z
+    webUrl: "https://hbr.org/2023/06/managing-the-risks-of-generative-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 19
 
 secured: "vXXcfgTrwSlHvu6v4MLEVkoQOtsE6ugN8XtenTISDQqfXzqRAdly6Vb+3Be0usBsBNglXAE5vajW2OxWGerpAWVvzLnfclDFnenGeJgKQSt9dTeABQ2uWbhe+fECPBTXvStvkdfz9+Cw+GQGewSDMw0R32VBOjaCBBqHS4oDPz3yz/k3KzRN3ug2MNtjL+bOIB0d5EXFVdPF184x1I2GJshfLBx9kRVcE1E63zJQIBjGZw4laOcmL2b4HmW9sCkuVTWOd1HEs09zFcxcaOT5w8+IGcrFwOVt8nIzCYy/PiFwjC0oZOxNUnf0BcJxsSyZbkk26vafUV6O8lPJ/Yv0L70axwYidRzZaV+4d9kGzE0z1guxKGqPTDWuV0STznr0SZq/OYGKkuY9Bc0kNvB7nSsqQ3/d1Q/+aMcjL+Kb4OIzG/iSVCD6Gw7ozh5lhISH4xP5F+Hg91NZEh0Yb0U5D8vsmFdDelMmnquO9kssH6Q1/EC8JwT6HVHBeIcObRJqLVbZhf5S1n0w/P2ZoFRm/w==;HaHQ1Kv0ITpIN4Gl41w3+w=="
 ---

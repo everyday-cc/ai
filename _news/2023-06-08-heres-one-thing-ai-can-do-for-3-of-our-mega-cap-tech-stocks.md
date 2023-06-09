@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of
 webUrl: "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "3 Small-Cap AI Stocks Worth Checking Out"
+    excerpt: "Its products and services include facial and object recognition technology, AI-powered chatbots, blockchain-based financial services, and data analysis tools. The company is headquartered in Las Vegas, Nevada, and has a strong presence in China ..."
+    publishedDateTime: 2023-06-09T03:11:00Z
+    webUrl: "https://247wallst.com/investing/2023/06/08/3-small-cap-ai-stocks-worth-checking-out/"
+    ampWebUrl: "https://247wallst.com/investing/2023/06/08/3-small-cap-ai-stocks-worth-checking-out/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/06/08/3-small-cap-ai-stocks-worth-checking-out/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 59
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2019/08/imageforentry4-mhb.jpg?w=400"
+        width: 400
+        height: 224
+        isCached: true
   - title: "Here's one thing AI can do for 3 of our mega-cap tech stocks that they couldn’t do before"
     excerpt: "A series of recent deals, announcements and upgrades involving three major cloud-computing names all share a common thread: Artificial intelligence."
     publishedDateTime: 2023-06-07T23:53:00Z
