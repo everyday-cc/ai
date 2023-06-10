@@ -22,33 +22,97 @@ topics:
   - AI
 
 related:
-  - title: "CDEI publishes portfolio of AI assurance techniques"
-    excerpt: "The UK’s Centre for Data Ethics and Innovation has published a variety of case studies to show how different assurance techniques can build and maintain trust in artificial intelligence systems, which"
-    publishedDateTime: 2023-06-08T12:28:00Z
-    webUrl: "https://www.computerweekly.com/news/366539654/CDEI-publishes-portfolio-of-AI-assurance-techniques"
+  - title: "Job listings asking for generative AI skills are soaring, analysis finds"
+    excerpt: "The average advertised salary for jobs citing generative AI skills is $146,244, according to job search engine Adzuna."
+    publishedDateTime: 2023-06-07T08:46:00Z
+    webUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
     images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/certification-compliance-box-tick-adobe.jpg"
+      - url: "https://i.insider.com/647df19740bf000019fa30c1?width=1200&format=jpeg"
         width: 1200
-        height: 400
+        height: 600
         isCached: true
-  - title: "DSIT unveils portfolio of AI assurance techniques"
-    excerpt: "The Department for Science, Innovation and Technology (DSIT) has launched a portfolio of AI assurance techniques aimed at supporting the development of trust in the use of the technology. It has been developed by the Centre for Data Ethics and Innovation (CDEI) and IT industry association techUK as a resource for anyone involved in designing,"
-    publishedDateTime: 2023-06-08T04:52:00Z
-    webUrl: "https://www.ukauthority.com/articles/dsit-unveils-portfolio-of-ai-assurance-techniques/"
+  - title: "Generative AI Is ‘Emerging Opportunity’ For Gaming Investors In 2023"
+    excerpt: "Venture capitalists and other gaming investors should consider generative AI as a huge emerging opportunity, according to PitchBook."
+    publishedDateTime: 2023-06-08T10:07:00Z
+    webUrl: "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/"
     type: article
     provider:
-      name: ukauthority.com
-      domain: ukauthority.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.ukauthority.com/media/10040/ai-logo-cyborg-woman-istock-andrey-suslov.jpg"
-        width: 683
-        height: 443
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6480ea0b59cee9714cd235e2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 659
+        isCached: true
+  - title: "Singapore creates digital blueprint for generative AI and autonomous systems"
+    excerpt: "Singapore has laid out a years-long roadmap it believes will ensure its digital infrastructure is ready to tap emerging technologies, such as generative artificial intelligence (AI), autonomous systems, and immersive multi-party interactions."
+    publishedDateTime: 2023-06-06T06:58:00Z
+    webUrl: "https://www.zdnet.com/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ff53e6c4483e5779afacd8333ae6436da3ef5629/2023/06/06/c440993d-c081-419a-8e99-fa6ca3d33864/gettyimages-601843233.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Generative AI can help bring tomorrow's gaming NPCs to life"
+    excerpt: "Today's non-playable characters are a step above the Ghost Gang of yesteryear but they're still a far cry from human-level fidelity."
+    publishedDateTime: 2023-06-09T17:03:00Z
+    webUrl: "https://www.engadget.com/generative-ai-can-help-bring-tomorrows-gaming-npcs-to-life-163037183.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/_Clt3C93ea40vhgdQIikgQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/6ff8cac0-0620-11ee-87bf-cbb98ba4bcdc.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The digital dark matter clouding AI in genome analysis"
+    excerpt: "Artificial intelligence has entered our daily lives. First, it was ChatGPT. Now, it's AI-generated pizza and beer commercials. While we can't trust AI to be perfect, it turns out that sometimes we can't trust ourselves with AI either."
+    publishedDateTime: 2023-06-05T17:19:00Z
+    webUrl: "https://phys.org/news/2023-06-digital-dark-clouding-ai-genome.html"
+    ampWebUrl: "https://phys.org/news/2023-06-digital-dark-clouding-ai-genome.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-digital-dark-clouding-ai-genome.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/the-digital-dark-matte.jpg"
+        width: 1417
+        height: 1011
+        isCached: true
+  - title: "CORRECTING and REPLACING Clarify Health Launches Generative Artificial Intelligence, Clara"
+    excerpt: "Contact us at clara@clarifyhealth.com to learn more about the closed beta program for Clarify's new generative artificial intelligence, Clara. (Graphic: Business Wire) The updated"
+    publishedDateTime: 2023-06-07T01:16:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_f365d0b6-e6bc-54a5-8b4e-d7155a8ded82.html"
+    type: article
+    provider:
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/assets/v3/editorial/6/1c/61c9737a-13f0-5e55-8fb3-70df61f04918/647fdafee5207.image.jpg?crop=1019%2C535%2C2%2C0&resize=1019%2C535&order=crop%2Cresize"
+        width: 1019
+        height: 535
         isCached: true
 
 secured: "R8CeDVEdoPQiq3FT0iPdjoj9cocfy6SCH1SY7N1E5paKJf4XgEFy7UKU0dNnT0m1B6Hf3Uf7z52YHOJ8XQBGrJ9AH4Vo2GGqaxPSr0vSWqVcZqFGx5Y3bP5a5lf8INbxZX2RE84ZHr60fOdpBg6gJ57Vdj4qW8wn304JYcUJKUUEoIhzszQormAhUhJNWVD/4sZEOYJOburza5lw63nrR/eN5l7G1y1Bk+83BtB4LW3Vq6wzAcLAVWvensJpmMBXmNlqP20xfZ9IJGZb0rQeE2epypi6t4ydfQu7fEzQXeyeAC2Y79RaGd/LPJhL1WpKqgquGmLvwl0OoTUsP7ARUbyI2uPGCj6MQzwwE0uwtNShbg/Yy93Zuij5/wUr3CoaelIorsrn3y4bXPNjl/8rzwYBe0DsaR9aGJnjYsX1pf8lhd2XLJ3XoklZIr+JHjQFnvr8tFZH/7hA9dJqNC7EMLe7WbXFBGyZaKqYr0xGNOb8Xc95UXQhsfrZEi8hR55wgK4ZBy4krIPC/JqEAH84ig==;4D6fzm2mZ9GgDCBFJ8h5ww=="

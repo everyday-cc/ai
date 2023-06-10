@@ -44,6 +44,20 @@ related:
         width: 936
         height: 364
         isCached: true
+  - title: "OpenAI CEO Calls for Collaboration With China to Counter AI Risks"
+    excerpt: "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement."
+    publishedDateTime: 2023-06-10T05:19:00Z
+    webUrl: "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-797978/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Azure Government cloud gets access to OpenAI’s generative AI models"
     excerpt: "Azure Government cloud infrastructure platform can now access the latest artificial intelligence models from ChatGPT creator OpenAI LP. The company said in a blog post that Azure Government users will be able to experiment with two of OpenAI’s large language models,"
     publishedDateTime: 2023-06-08T01:14:00Z

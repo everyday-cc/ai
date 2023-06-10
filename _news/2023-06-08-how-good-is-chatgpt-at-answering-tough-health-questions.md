@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "What technology will have the biggest impact on healthcare, per ChatGPT"
-    excerpt: "AI and machine learning algorithms will revolutionize healthcare, improving diagnostics, personalized medicine, and drug discovery."
-    publishedDateTime: 2023-06-05T15:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-technology-will-have-the-biggest-impact-on-healthcare-per-chatgpt.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "That Startup Run by ChatGPT Doesn't Seem to Be Doing So Great"
     excerpt: "That startup being run by ChatGPT is still going — but from the outside, it looks like kind of a mess. To recap: about two weeks ago, self-described \"AI soothsayer\" Jackson Greathouse Fall took ..."
     publishedDateTime: 2023-06-06T03:35:00Z

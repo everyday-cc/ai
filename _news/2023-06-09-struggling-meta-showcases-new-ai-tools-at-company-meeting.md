@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/08/meta-facebook-ai-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/08/meta-facebook-ai-mark-zuckerberg"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meta exhibits new AI tools similar to ChatGPT during a company meeting"
-    excerpt: "During an all-hands meeting held on Thursday, Meta's Chief Executive Officer (CEO), Mark Zuckerberg, disclosed a proposal to integrate generative artificial"
-    publishedDateTime: 2023-06-09T13:53:00Z
-    webUrl: "https://www.onmsft.com/news/meta-exhibits-new-ai-tools-similar-to-chatgpt-during-a-company-meeting/"
+  - title: "10 Companies Using Artificial Intelligence (AI) in a Compelling Way"
+    excerpt: "AI is changing the way many companies operate. Learn about how some of the biggest companies in the world are using AI."
+    publishedDateTime: 2023-06-06T15:34:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
     images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Image-with-the-Meta-Logo.jpg"
-        width: 1024
-        height: 768
+      - url: "https://m.foolcdn.com/media/dubs/images/AI_artificial_intelligence_robots_working_offi.width-600.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "h/rBC6N+Ltlt/ytEjBe6v6KSoqlY9r7EQgXMVse1KpYETaJVCk48cm4EOgywXyPTDCMLuxZmXUge/He3Oj+Tg01sZS75ITKSlFMG0G3bB9Z/hx1wW4RJCGzri3JVGzZnySFPd7Bdv+7ifvBikkY3khNv3N8nagmf3l5VTkAdd32wCL9v+eCB4hKI36H3KaHipdUYpV0GF4BYAs2XM3PlVPIx0KEauWV3mKSGGDlM1mf2J7K18hSOGCglGWWxASukqxb0IdQla9mSMc57QebNTTpmJjTDWm3io5HEZLh9nLi7s+nohRi4h9P7zs5h9U6Z9j5AG0+HGiuwrd8Cz0l9USjTpw0OgQ7ZSn6KFUQfG3E1qoMIFm0hJ4R67l2rUaAl5t0sF21GheGYciSdvLUy2BCoi3HHzZCkDffiuv16Vnnbglfy36X0CMILy5W7678zOPJHJGtR7mzDShRhI8w3OXe082eApUNSDfPze6y5Zmf5QE57w6H56snnWMr0aEFAmfZLyT3yagEIYBykGbNbMA==;IvEg0nULatI6/Di8qF2RFQ=="

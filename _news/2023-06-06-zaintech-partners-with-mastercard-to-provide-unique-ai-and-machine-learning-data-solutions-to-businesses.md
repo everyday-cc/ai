@@ -38,6 +38,15 @@ related:
         width: 960
         height: 502
         isCached: true
+  - title: "From Integrating AI To Strictly Protecting Client Data, How Online Education Company Amesite Inc Is Doing Things Differently To Disrupt Learning"
+    excerpt: "As an online platform and product developer powered by artificial intelligence (AI), Amesite is positioning itself to disrupt ... In 2022 Amesite started a collaboration with Microsoft for the use of its Azure cloud, and it was featured in a story on ..."
+    publishedDateTime: 2023-06-07T13:11:00Z
+    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/06/32756767/from-integrating-ai-to-strictly-protecting-client-data-how-online-education-company-amesite-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "pQgFJqa13gpt6jLXj5EN7PnAk3df6wfC0B8jNoGxRPXE6qeRV2xyJl+FJYNePIWcUWwdmRs+eMiQ0gChaT+er5OqXvYi5BRqArjmvITNcKIy/WNatnoGXZQdhEtS18qXNkPNoPy0SeqaB/l5YklBIGu1b1kLgH12tBrYqMNakKHnpGQocKmGyILZo/O1QBlPclGVMKrK9Nh/5Ib5h1x/+/YzfclmBUCAOFs5CIisGZqlIkI1mHisuLjmk31wD8xza/z0h3YWMGDju17c8SX+uqFn2V/pNFTXqZGuqw1Pn558SA37GxbW4H3GSFt7SO/Jkh7IJ+4x77aPEH6rqQ+vDSIK9ge7kuM6/f+HNbH4Cic=;lTJRxeZvtEJvXR0wyH0p3Q=="
 ---

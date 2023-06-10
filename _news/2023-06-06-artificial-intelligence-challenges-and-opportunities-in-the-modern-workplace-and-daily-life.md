@@ -24,6 +24,22 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "DSET: AI opportunities and data challenges informing strategic planning"
+    excerpt: "Robert Siegfried from NATO Modelling and Simulation Group and Roa Powell from the Alan Turing Institute discuss the impact of AI."
+    publishedDateTime: 2023-06-08T10:48:00Z
+    webUrl: "https://www.airforce-technology.com/news/dset-ai-opportunities-and-data-challenges-informing-strategic-planning/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 39
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2023/06/DSET_Tuesday_06June23_4686_Credit@iamphotolaura.jpg"
+        width: 2000
+        height: 1332
+        isCached: true
+
 secured: "OsELF8lsr0NtMcM/jQ3ZwvT0+Yi7cAlhpzhTL4XmcJRx+tcoD543odW1oNO9I/fDzwuYo1KkiGDx1VKOsoKtxyxlFd5xCS4I0lrpLhLCtx3YnOP62dhgab6qn0rveLBWSA0A6fmddApUGWIW5nRCbzG1lhGKVgbamYAzW8wDpjUG6emivv2aDrrgpIN92IaGBrCv8+7fYVTdDtPXjv3gwDSUw/7Flg/vU8mFmqjDkAC9v9xv+2V9wdLa6LQrTPvurQx9W9wGt7qPjSP/R6TthzDygdgV8snmP/HYnnl78T6DxvwzbaMHTUdGhhXaewNX8mWixVY+L2Dr8PpzAsaCYMAeibWUE3KzfAqv5IpL9sY=;SxlOaZxCO8ZlF0SL3EwD6Q=="
 ---
 

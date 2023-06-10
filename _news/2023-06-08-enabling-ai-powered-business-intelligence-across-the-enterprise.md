@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence
 webUrl: "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/"
 type: article
 quality: 119
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "These Enterprise Generative AI Use Cases are Emerging"
-    excerpt: "Generative AI models are continuously bringing new business opportunities. Generative AI use cases are emerging in enterprises for bringing transformations."
-    publishedDateTime: 2023-06-05T14:45:00Z
-    webUrl: "https://enterprisetalk.com/featured/generative-ai/"
-    ampWebUrl: "https://enterprisetalk.com/featured/generative-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/generative-ai/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 61
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/These-Enterprise-Generative-AI-Use-Cases-are-Emerging.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "OpenAI rival Cohere raises a fresh $270 million to bring generative AI to the enterprise"
     excerpt: "AI startup Cohere is no longer flying under the radar. The Toronto-based company just announced $270 million in funding backed by Nvidia and Oracle."
     publishedDateTime: 2023-06-08T13:06:00Z

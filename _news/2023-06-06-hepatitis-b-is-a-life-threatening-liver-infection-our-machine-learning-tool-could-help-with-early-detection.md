@@ -41,22 +41,6 @@ related:
         width: 800
         height: 530
         isCached: true
-  - title: "Hepatitis B is a life-threatening liver infection – our machine learning tool could help with early detection"
-    excerpt: "Machine learning can spot patterns in patient data and help detect hepatitis B earlier, which could save lives."
-    publishedDateTime: 2023-06-05T14:53:00Z
-    webUrl: "https://www.modernghana.com/news/1235763/hepatitis-b-is-a-life-threatening-liver-infection.html"
-    ampWebUrl: "https://www.modernghana.com/amp/news/1235763/hepatitis-b-is-a-life-threatening-liver-infection.html"
-    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1235763/hepatitis-b-is-a-life-threatening-liver-infection.html"
-    type: article
-    provider:
-      name: modernghana.com
-      domain: modernghana.com
-    quality: 40
-    images:
-      - url: "https://cdn.modernghana.com/images/content/65202344732-h41o266fea-file-20230530-15-9wf3s7.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Machine Learning Tool Detects Hepatitis B Early, Saving Lives"
     excerpt: "More than 296 million people worldwide live with hepatitis B, a potentially life-threatening liver infection caused by the hepatitis B virus (HBV). Most don't know they are infected, so they don't get medical care."
     publishedDateTime: 2023-06-06T11:04:00Z

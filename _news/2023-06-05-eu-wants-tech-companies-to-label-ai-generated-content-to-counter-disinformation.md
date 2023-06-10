@@ -120,15 +120,6 @@ related:
       name: CrackBerry.com
       domain: crackberry.com
     quality: 19
-  - title: "EU wants Google, Facebook to start labeling AI-generated content"
-    excerpt: "The European Commission is worried artificial intelligence tools like ChatGPT will result in more online disinformation."
-    publishedDateTime: 2023-06-05T13:13:00Z
-    webUrl: "https://www.politico.eu/article/chatgpt-dalle-google-facebook-microsoft-eu-wants-to-start-labeling-ai-generated-content/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 17
 
 secured: "G1N4JWPg/PKKH8zhoiiBLJcqxamcfRIVPQSotmNz39rQW48V2jWW3aFS6mw2umGC8f2VeIg20KsxHdpvZf9lQLJXt0G1fsTcmmrEM0PhPSB2ERCJdyzOr6f10qrCp84dhvg7pO+s/09i+ykWii6RBxM5vDecywVU7AxhEGaghb1TnxbUqSdFjRexkW/KI3ai2/R675dsYwha/EKXHnMDtRB7rjJiPOuMLURCHXGJEkxmIgEXf+iu0LkXN/Lnsra7HgUqfOMK/MOgNBBQ8rO4RFuAdIKSYp7X2kR1gejFD+A1f62iBGxroLO1INb44ca0ZxwYqeHxmT0eMDAA7ZvCeuMOL3f6VMSRzNbXpSsKfHO/62STwI8+8Ua99rXBY2tWaSGM26QsrZaOsWYitQ53en1L/4fQs/pLCKqnOqSsOzr0hNMvLyuSQI4TbguE81O1fgEvNDBUU/IivGiH18dRHssuftWtMFuXdk5+BepzjiohcZbTL6/0bCB5F+PfAsZvxYR9tdKbF0ImmRrpVo3iAQ==;oUxdrH0+XZvbJJujLh7mnA=="
 ---

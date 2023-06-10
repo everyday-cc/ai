@@ -42,22 +42,6 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "These Enterprise Generative AI Use Cases are Emerging"
-    excerpt: "Generative AI models are continuously bringing new business opportunities. Generative AI use cases are emerging in enterprises for bringing transformations."
-    publishedDateTime: 2023-06-05T14:45:00Z
-    webUrl: "https://enterprisetalk.com/featured/generative-ai/"
-    ampWebUrl: "https://enterprisetalk.com/featured/generative-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/generative-ai/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 61
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/These-Enterprise-Generative-AI-Use-Cases-are-Emerging.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Advancing Intelligence at the Edge with AI Vision Processors"
     excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
     publishedDateTime: 2023-06-05T16:21:00Z

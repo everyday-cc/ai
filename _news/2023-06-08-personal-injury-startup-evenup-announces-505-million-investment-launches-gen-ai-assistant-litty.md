@@ -208,20 +208,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 55
-  - title: "Combat financial crime with AI and advanced technology from Microsoft"
-    excerpt: "With Microsoft Cloud for Financial Services, our customers are managing financial services data at scale and building solutions that improve customer experiences and operational efficiencies. With the advent of generative AI capabilities in Azure OpenAI Service,"
-    publishedDateTime: 2023-06-05T15:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/industry/blog/financial-services/2023/06/05/combat-financial-crime-with-ai-and-advanced-technology-from-microsoft/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/05/iStock-846814618_transaction-credit-card-social.jpg"
-        width: 943
-        height: 628
-        isCached: true
   - title: "Sheikh Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence"
     excerpt: "The Dubai Centre for AI aims to train 1,000 government employees from over 30 government entities on the uses of generative artificial intelligence"
     publishedDateTime: 2023-06-09T04:00:00Z

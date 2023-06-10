@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/european-startup-funding-to-drop-2023-
 webUrl: "https://thenextweb.com/news/european-startup-funding-to-drop-2023-but-theres-cause-for-hope"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Woflow Took Over European Startup XtremeAI, Extending Reach and Strengthening AI Capabilities"
-    excerpt: "Woflow, the data infrastructure company, announces the acquisition of XtremeAI, a Seville-based document digitization and data structuring platform."
-    publishedDateTime: 2023-06-05T14:44:00Z
-    webUrl: "https://enterprisetalk.com/news/woflow-took-over-european-startup-xtremeai-extending-reach-and-strengthening-ai-capabilities/"
-    ampWebUrl: "https://enterprisetalk.com/news/woflow-took-over-european-startup-xtremeai-extending-reach-and-strengthening-ai-capabilities/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/woflow-took-over-european-startup-xtremeai-extending-reach-and-strengthening-ai-capabilities/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 46
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/Woflow-Took-Over-European-Startup-XtremeAI-Extending-Reach-and-Strengthening-AI-Capabilities.jpg"
-        width: 1500
-        height: 844
-        isCached: true
 
 secured: "Kf67tBe/sj9esoNhpCPimGKeT4bgGINrh09wfJQG1znUvkrNRXsSck7SvRq1+FeqRdHSeLTCYO4dMs4ZtNGQudorcZiBAsY1RpMOfhpzImbdX7jVFx8eROK+8HATuUO/j49Tz2/sx1uVHufjy9/0Rk5l588OzpAk2DI+PPFjuMDB1zitUEqBF6R7QqXS2DtHOsUPgDdhVd9xYYWFsv+p4q1s7L7cprt0zpp9tYyKlTzCCAuxIG1qeTOi+tK0Pdy6iq1nSzsUzx9c1uAnMrlR3VTMC+xZkyrPHX8m9R9/sNti3tfl2u5K6ro9XY5R+I1pWcEjO2D5RMHxropoi9ReYLnNsbUUb2vUCYEssllb7Fg=;olU2NSc8q9ght1SkDWODZg=="
 ---

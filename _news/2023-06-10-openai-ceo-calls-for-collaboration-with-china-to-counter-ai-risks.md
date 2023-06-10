@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Azure Government cloud gets access to OpenAI’s generative AI models"
-excerpt: "Azure Government cloud infrastructure platform can now access the latest artificial intelligence models from ChatGPT creator OpenAI LP. The company said in a blog post that Azure Government users will be able to experiment with two of OpenAI’s large language models,"
-publishedDateTime: 2023-06-08T01:14:00Z
-originalUrl: "https://siliconangle.com/2023/06/07/azure-government-cloud-gets-access-openais-generative-ai-models/"
-webUrl: "https://siliconangle.com/2023/06/07/azure-government-cloud-gets-access-openais-generative-ai-models/"
+title: "OpenAI CEO Calls for Collaboration With China to Counter AI Risks"
+excerpt: "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement."
+publishedDateTime: 2023-06-10T05:19:00Z
+originalUrl: "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe"
+webUrl: "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe"
 type: article
-quality: 54
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/microsoft-1.png"
-    width: 900
-    height: 506
+  - url: "https://images.wsj.net/im-797978/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -55,21 +58,21 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "OpenAI CEO Calls for Collaboration With China to Counter AI Risks"
-    excerpt: "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement."
-    publishedDateTime: 2023-06-10T05:19:00Z
-    webUrl: "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe"
+  - title: "Azure Government cloud gets access to OpenAI’s generative AI models"
+    excerpt: "Azure Government cloud infrastructure platform can now access the latest artificial intelligence models from ChatGPT creator OpenAI LP. The company said in a blog post that Azure Government users will be able to experiment with two of OpenAI’s large language models,"
+    publishedDateTime: 2023-06-08T01:14:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/azure-government-cloud-gets-access-openais-generative-ai-models/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://images.wsj.net/im-797978/social"
-        width: 1280
-        height: 640
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/microsoft-1.png"
+        width: 900
+        height: 506
         isCached: true
 
-secured: "TWuzBSPH7H2DJfZTMGIj/5fChbOl+95nXs4/FQ+Li/A+STXP2iLmzi66Mcg3n5EKjdLTcNSbiKely7yvwgCZ674poFgCM2it0nibb1Stfq5cY9g8MAODBbWWZioS7nCrdOreDqCrpcQygWf1PBbWPdvm54T9ERc9mGAhglYGfym7N59Phx7MFyBDUm+K3UUWq5ZxBDimjMuBQLMXszStCTdMWnrj7YcXNlDR9XZu4PP4KpJyav6VtoOk/3h+vFS9CxH6B3FcZU8uoGd3vhBxBFjSXcqybcs57M1+L3mCvnVtQ12YbBHzNcaclaUuLl5zitqTtE7HGaGaemi9CaPcwoFElXQbdi8cXgXM+/FBs1jcIWs7r9lQW/uyYZXVJs5RsmjIFRdnWUYQlGpXkWHd2HzTg2mJWdn56yr2ODJN9SpyRK9Z1d9g0deEEZT3kUwKyiSfoTvjdVWhQ/iyd2llBSZuCRaJn4CkdQW8BlQruVVQmghMipfvmwqR0NslB1GuzkvxECmQQL49opGrBLgH1w==;2HdQDP7xcll0zQ/qcfKPKg=="
+secured: "ATNlr9uhuqdjzSpICeOdONs5elOw0QTh9RwCgHu/N6Tuy1NMrA3w05egY8qJ1YXlquARhMtkrvm5TSlKTjL2hvcKAHfKMiwdAQ/HJISqBuDztRPuqEyiCbu2rl0ERoPNJ/wjkGr9lNK5mSCmktYxseuXXrv2EftUQvlhXfToKNKOJ790rmnAmxGVsqFyHC/LLXod0Gyq21gYagsw7XuOlpvYLMRJ8f89MctCZ3HEdgW8XMihgAyXJbqAc1o2YHdijXQDYupHRAnpbtQX52f1y0SvXVPueP2awbNkGQNXGeI+kSQMc55M+FmnjDGR6s0IbBZyo0PzfG4jXSGMZPWo8pRViAfl93IZ2lIapj5NeFE=;mkd/xrjYOIDbXizhQM7FLQ=="
 ---
 

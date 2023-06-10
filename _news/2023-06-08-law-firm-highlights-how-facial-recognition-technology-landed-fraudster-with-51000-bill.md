@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SmartMetric to embed AI into biometric credit card"
-    excerpt: "While the company is close to releasing its advanced premium fingerprint biometric activated credit card the company’s engineers are now working on adding embedded AI into the card’s electronics."
-    publishedDateTime: 2023-06-05T13:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97119/smartmetric-to-embed-ai-into-biometric-credit-card"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "Pair of US politicians want face biometrics ripped out of public housing"
     excerpt: "A pair of United States Representatives have issued a statement saying biometric surveillance does not increase stability and fairness in public housing."
     publishedDateTime: 2023-06-05T19:16:00Z

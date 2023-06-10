@@ -120,15 +120,6 @@ related:
         width: 440
         height: 248
         isCached: true
-  - title: "EU wants Google, Facebook to start labeling AI-generated content"
-    excerpt: "The European Commission is worried artificial intelligence tools like ChatGPT will result in more online disinformation."
-    publishedDateTime: 2023-06-05T13:13:00Z
-    webUrl: "https://www.politico.eu/article/chatgpt-dalle-google-facebook-microsoft-eu-wants-to-start-labeling-ai-generated-content/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 17
 
 secured: "7OttHeLbfJHroxEAtkweOXcRgEdvseEXVfprfHf1L1ZiwcZcxUEruBw1Fymwi7C9CedNhmc6PcT9Il8XnHv83+bfEgZU4xeHKmTPhEVVorUvl9hyCLzuQ96Rfaegrf3xpomPeVfBh6wTlIP7eiFY4NkKMfCabXK8fytq5DnY7LTW1ZvPkCZZ5Gxda1R3BT7bw3S3f2sXnPujS/veMxZNn+mXGDBVa+eKOpgItafYJMJqJ74+KtPPPh9vGFScSIehbpQS2pOw7hqAy4bM5DLmB1ygMxNv40/crCncvT6Ht/wqkLPI1tiGSIOz8ng6qhCmn2TmjRmC2/WkElHXEZTSW4h+Wh5wrzEKtXSR9ZN9xFpBRp1by9/r5Bc53CPEXxPTj1dcxMeR5ImvXF1RXMxX20ZH3RW0JJ5kNbMe+FAJbgdjkrLtwaSANR4zFynNZRXgMLfMQousA6sz6wjLGiROdSVVwasAhdtp+jlajB5Uet0dUrKfm1GAVQ1AG7wpj0wWUxTKZTn3NMsOb41VGK6M/A==;D6XpE4lxPdalJX3sOFqqwA=="
 ---

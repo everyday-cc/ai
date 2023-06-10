@@ -76,20 +76,6 @@ related:
         width: 3500
         height: 2332
         isCached: true
-  - title: "Can ChatGPT AI Answer Your Asphalt Questions?"
-    excerpt: "The rise of \"A.I.\" to the level of household name means everyone has an opinion, but true expertise is harder to come by. What can these algorithms do for the likes of our industry? Can they help you answer your asphalt or business questions?"
-    publishedDateTime: 2023-06-05T13:32:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/article/22861073/can-chatgpt-ai-answer-your-asphalt-questions"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 39
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/05/AdobeStock_389670688.6467a8dc2b87b.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C0%2C1920%2C1077&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "Apple’s Vision Pro needs AI like ChatGPT as soon as possible"
     excerpt: "Apple just unveiled the Vision Pro AR/VR headset. But the powerful hardware needs one more thing: a ChatGPT-like generative AI assistant."
     publishedDateTime: 2023-06-06T01:22:00Z
