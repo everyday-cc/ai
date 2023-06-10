@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple Vision Pro, a Spatial Computer Headset, Revealed"
-    excerpt: "Apple has revealed their much anticipated virtual reality headset, called Vision Pro. Apple describes the headset as their “first spatial computer”, and the device offers both"
-    publishedDateTime: 2023-06-05T22:21:00Z
-    webUrl: "https://osxdaily.com/2023/06/05/apple-vision-pro-a-spatial-computer-headset-revealed/"
-    type: article
-    provider:
-      name: OS X Daily
-      domain: osxdaily.com
-    quality: 24
-    images:
-      - url: "https://cdn.osxdaily.com/wp-content/uploads/2023/06/apple-vision-pro-ar-vr-headset.jpg"
-        width: 1600
-        height: 894
-        isCached: true
   - title: "ARway.ai Congratulates Apple On Its Industry Leading \"Apple Vision Pro\" Augmented Reality Headset"
     excerpt: "TORONTO, ON / ACCESSWIRE / June 6, 2023 / ARway.ai (\"ARway\" or the \"Company\") (CSE:ARWY) (OTCQB:ARWYF) (FSE:E65) is an AI powered Augmented Reality Experience platform with a disruptive no-code, no beacon spatial computing solution enabled by visual marker tracking with centimeter precision congratulates Apple on its release of its Apple Vision Pro Headset."
     publishedDateTime: 2023-06-06T11:31:00Z

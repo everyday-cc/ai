@@ -6,9 +6,6 @@ publishedDateTime: 2023-06-05T17:02:00Z
 originalUrl: "https://www.sfexaminer.com/ap/national/ai-powered-letzchat-and-managed-health-partner-to-revolutionize-language-solutions-in-employee-benefits/article_65af1241-7b7d-5910-adfc-9963d9c0fec0.html"
 webUrl: "https://www.sfexaminer.com/ap/national/ai-powered-letzchat-and-managed-health-partner-to-revolutionize-language-solutions-in-employee-benefits/article_65af1241-7b7d-5910-adfc-9963d9c0fec0.html"
 type: article
-quality: 3
-heat: 3
-published: false
 
 provider:
   name: San Francisco Examiner
@@ -18,6 +15,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "HVEGBZVcjBvgZA/L0ZmyF0gae23I2+XRZwqJxLX0SkAosGaZQ9OsSXcb+XNhjOFWuVkOEJs1E1VKlc6J3csGM8RaYOg9UJ73N7s/9nAq6w2UbvxWNVBSHuKmF4Wo8CCHwBHrxD6wJ2h0v/bq9v7vqKYVoROcVJsL6I0c8upznu6RRnfj96qOXp+Rbne5sEbuAUOne7Tj/5JLpsVsfuJVZFpwgxP3G3cVF2ZmnqshhqQcQxmUS2eouC6agqTASyG1BZ43uB1o8cKP5WWmBG8JxQfM2mQ/YNaAu8oA8fHo/Ja86OU+mmxwwA7GXU/464xEps+am3u+p6fpUvdrg5c73ZXHmEBf/bGZ4Dhd8IRJllg=;q+DEcCwhJlPT/ZkN1XUo9w=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/custom/image/d2e5172a-cfb6-11ec-8535-8fc7aae45ad1.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "lswXXwwXxrDobfGYqGkXHSmFmHJhUN2gON3v1H+xR7+jvfhMX3liFYO9LECLWSO3wKS882LPKUuaMI7kjbdGSl50PMME3K8ixN4gDz5k0xlIyrgx+Sunvaw00dM9554e5R+GxkF5tQY31pHN+MaJHqHOYiuL4muzu1XF074exAZFxONMlrNoEzKFYBClLFC5U9X5Yn2P7g+U+lNPy05Cbpg7Y9KCr6LzdkqRHJXZBxgEer0bxYhvAJr3GkDDtQdyeRBZu/HPggbkPZfRgf+w0/q8x0shCG2lqI1XcpKrnyk9rXYpUeoCztlPHAtMfaIXfUlPrafDo8ABw/jR+zjT6AvqBDiKl87ux6THYDnkJ4I=;/ltPK6VAGN2QkSdWWCJGKQ=="
 ---
 

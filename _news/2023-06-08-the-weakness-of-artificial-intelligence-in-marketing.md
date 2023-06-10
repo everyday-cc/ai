@@ -70,20 +70,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 51
-  - title: "AI In Healthcare Market 2023 Is Ready To Set Outstanding Growth In Upcoming Years X Herald"
-    excerpt: "The Most Recent Research On The  global ai in healthcare market 2023  was undertaken across a number of sectors in numerous countri"
-    publishedDateTime: 2023-06-05T20:32:00Z
-    webUrl: "https://menafn.com/1106390990/AI-In-Healthcare-Market-2023-Is-Ready-To-Set-Outstanding-Growth-In-Upcoming-Years-X-Herald"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?771337"
-        width: 324
-        height: 250
-        isCached: true
 
 secured: "mFwdGuXGcg8WYOVRkB/ePAc+Igx16pqiMJrQ5bTR4qrkmUkzt9VCLXtGz/gk+3JtzP3t+pSJodtRJAMXNCBtCLoeIWsivGMavkzp2nFizl6EEEz7pBal+SEOYf/x6JR7pq0SwIVLEubxGCFr0RM6JU26pic9DSrfmY1JU/nrK5TqI0mx48QB9rIWxF0in9iRtrkEzNCvkNkjVlIaASAQXjtxqiJ22ge1y+naLAJRC9Ieuwl7CC93d0m1fGVimrLex64N3eQ2V+1AcWhp7uK3vipb5youE4eTfIWyAlSBsyk5G7dF6AA50NiuH+CgXueLXm6FGQU0TABnRWRH3ahteNCCxEBm0n1h4tuwPtB6wqTgs2Q1kJvZJ7m4KEWSXhkjJk+w275798+0m5thVQzbKjUyU/M+B1jRSH7rF3pb1l7vC+zZHomXNjEA3yqcVx8a/e5qt4h02M7brzPOHCs5OTZCGV7/eYxbd8bM4GGOmu4e8hCb4Gt6NexmvCoNW+zrgxMha2WtpfJdu5K02DbtIA==;V7iiU404I6G5r9FM3VCyRQ=="
 ---

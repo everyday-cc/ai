@@ -228,15 +228,6 @@ related:
       name: aha.org
       domain: aha.org
     quality: 19
-  - title: "Lawyers' Trust in Generative AI May Be Overstated"
-    excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into 'trust'."
-    publishedDateTime: 2023-06-05T19:32:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/06/05/lawyers-trust-in-generative-ai-may-be-overstated/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
   - title: "Google Cloud, Mayo Clinic make generative AI play"
     excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
     publishedDateTime: 2023-06-07T12:00:00Z

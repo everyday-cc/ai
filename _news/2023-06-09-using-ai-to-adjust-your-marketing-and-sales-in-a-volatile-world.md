@@ -66,20 +66,6 @@ related:
         width: 700
         height: 364
         isCached: true
-  - title: "AI In Healthcare Market 2023 Is Ready To Set Outstanding Growth In Upcoming Years X Herald"
-    excerpt: "The Most Recent Research On The  global ai in healthcare market 2023  was undertaken across a number of sectors in numerous countri"
-    publishedDateTime: 2023-06-05T20:32:00Z
-    webUrl: "https://menafn.com/1106390990/AI-In-Healthcare-Market-2023-Is-Ready-To-Set-Outstanding-Growth-In-Upcoming-Years-X-Herald"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?771337"
-        width: 324
-        height: 250
-        isCached: true
 
 secured: "6c4ddokCN2k4u3uvRh8U8M0XWiP+JsqnuRxS0MJB7bu1f9q6+xHuVJh9j+qJqM0axNyBfUdERKxrfJC16oCr6UNYUSpde0NtRAbfLfX/lhtH+jOEp5CGTBNwkzm14JCmqDzfXA7bQydTyPIjKR19B6HfcTsFfSiUsxob0wHsUeKNAcovfkPLMqoI0qI4s+sUu1jfpD2Joa+bOYbXlVshlTk1KKf6oq7aNwSbHPHagk3w2GJVT2CrrTseC0hCggaa+7lL80C/0lzFu/ROe+aksWYJ8HIO2s5fhhO55IBOiB0xFih8Ym40dEOqAlBQLWpVHTmcKYFYn1P4VNboepBcwTYLWo+ODnAhmKhoCjSjKqwKddF2zgMggAaw9Uf3Q910U8IOAj/SKt+vMOLRJvrgg2ROL/dlT4BQh991jJDpcG8CGRNKttDcPbMJVfvWIno7coeheYsujscEzOqgM502Cprmu9FTFMy7inaq9FznT3LMh4GeGstm9jmpPx2TOsl0J7Mv+yhnMblxBD1d/1ihOw==;kfLqlKhsrvs61BHzLbOKig=="
 ---

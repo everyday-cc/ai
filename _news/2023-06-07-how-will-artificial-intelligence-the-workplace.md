@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bored at work? How AI could come to the rescue"
-    excerpt: "And I also think there’s gonna be a coming massive resistance to AI. New research from Pew suggests American workers overwhelmingly reject the idea of using AI for making, for example, final hiring decisions by a margin of 10 to 1. So as AI enters ..."
-    publishedDateTime: 2023-06-05T22:02:00Z
-    webUrl: "https://www.ft.com/content/d148ba53-e5fd-44bf-bd7a-a39a21d91816"
+  - title: "As AI enters the workplace, optimism levels are high"
+    excerpt: "Employees at all organisational levels recognise that artificial intelligence (AI) is here to stay and will fundamentally change or even supersede their jobs. But there is a generally high level of optimism about the positive impacts of the technology."
+    publishedDateTime: 2023-06-07T07:56:00Z
+    webUrl: "https://it-online.co.za/2023/06/07/as-ai-enters-the-workplace-optimism-levels-are-high/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: IT-Online
+      domain: it-online.co.za
     quality: 39
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdbbf5f37-e5b4-438d-851e-28149bb15cb3.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
+      - url: "https://it-online.co.za/wp-content/uploads/2023/06/ai-3.jpg"
+        width: 855
+        height: 474
         isCached: true
 
 secured: "pnMl5oxr5IhW+W87c8zT+Ryqt7cbP9pTnU+cd0dBFjm1nmMoZ56OE87Oxy3MbdLEYe0w1LPhi5XjAsEvo4VJ7FBzRZQf8w2heqEr92HVTVW9n9HfLVn2xr8zxXBeURWsMxtvRqoZk5XMw62RxP0ip9i5SmJK28v4T0d8YGH6698AQKX1AzUnHTb/IthZLJwKhTa2iU9cqy/kHauGmBX9PhwPdnhx1a0bleOfKWFX3OJ8VHh/VbfyV19lx/gx5OCAUmGc20EfEpYAxI/PlkYxT04BiVQj1ylalmOqcpkv93UruKmgQEM1l0/sWQdUdrAv2VM10WtYRZsGOm4TWu8sZ4vzYlwLXbgsP583rqGJWcU=;B9Nb7lJIJDe9rKUCf//7/g=="

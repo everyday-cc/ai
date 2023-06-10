@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple Vision Pro, a Spatial Computer Headset, Revealed"
-    excerpt: "Apple has revealed their much anticipated virtual reality headset, called Vision Pro. Apple describes the headset as their “first spatial computer”, and the device offers both"
-    publishedDateTime: 2023-06-05T22:21:00Z
-    webUrl: "https://osxdaily.com/2023/06/05/apple-vision-pro-a-spatial-computer-headset-revealed/"
-    type: article
-    provider:
-      name: OS X Daily
-      domain: osxdaily.com
-    quality: 24
-    images:
-      - url: "https://cdn.osxdaily.com/wp-content/uploads/2023/06/apple-vision-pro-ar-vr-headset.jpg"
-        width: 1600
-        height: 894
-        isCached: true
   - title: "Apple Vision Pro: How revolutionary is the headset really? We asked six experts."
     excerpt: "Apple this week launched its much-anticipated mixed reality headset, the Apple Vision Pro. So, it's a technological marvel, but is it revolutionary? Yahoo Finance asked six experts what they thought."
     publishedDateTime: 2023-06-07T21:10:00Z

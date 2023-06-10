@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/7LtvDyBgvhNliVRSAWFa7Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/3e1ebc90-0548-11ee-b6ef-6783efebbad6.cf.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The best AI features Apple announced at WWDC 2023"
-    excerpt: "Apple announced a host of new software features for its popular devices and the new Apple Vision Pro headset, many of them leveraging AI."
-    publishedDateTime: 2023-06-05T20:51:00Z
-    webUrl: "https://venturebeat.com/ai/the-best-ai-features-apple-announced-at-wwdc-2023/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/dog-photo-apple.png?w=1200&strip=all"
-        width: 1200
-        height: 669
         isCached: true
 
 secured: "e2Wo3RzHY5Uh/VT5i08FGKTIcHXctuCwJhv7zy15UwCbV6pAm/Hu/qHk8+89l1pNWNJnqZsDiJPWzwkckgkECBSBrqBQBV+ca4pPfr6uMD/Iji7483hkWbRNh6TAJTWTq2lAxnpin1BGPufg/I9jvCjluI54ra5MZBJAeKFpMLSd+6aIqEkXkCVYHJ6rX+2096maW/TS0GxcUnrs5RC7FIxQiSxCp29Pvt6i22F+27blyB2au0Yx8kFDNXz3qiFi/N0l5NJP8rOZ2eQ+/IBV6y4fH0LtRBRDqxWPXCw0V47SgCrLPUXFcsd5UDc6OqJMAC9Lkp8Aw3dvE7bChLmaNNFKzCGZ4O9NjkVWdyhEXWw=;L43EnFUtP1i/aw5XbdZ1Qw=="

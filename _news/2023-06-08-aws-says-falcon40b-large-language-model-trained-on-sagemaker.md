@@ -48,15 +48,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 103
-  - title: "Train a Large Language Model on a single Amazon SageMaker GPU with Hugging Face and LoRA"
-    excerpt: "This post is co-written with Philipp Schmid from Hugging Face. We have all heard about the progress being made in the field of large language models (LLMs) and the ever-growing number of problem sets where LLMs are providing valuable insights. Large models, when trained over massive datasets and several"
-    publishedDateTime: 2023-06-05T19:01:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-a-large-language-model-on-a-single-amazon-sagemaker-gpu-with-hugging-face-and-lora/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 92
   - title: "Get started with the open-source Amazon SageMaker Distribution"
     excerpt: "Data scientists need a consistent and reproducible environment for machine learning (ML) and data science workloads that enables managing dependencies and is secure. AWS Deep Learning Containers already provides pre-built Docker images for training and serving models in common frameworks such as TensorFlow,"
     publishedDateTime: 2023-06-08T21:21:43Z
@@ -99,15 +90,6 @@ related:
         width: 1022
         height: 508
         isCached: true
-  - title: "Use Amazon SageMaker Canvas to build machine learning models using Parquet data from Amazon Athena and AWS Lake Formation"
-    excerpt: "Data is the foundation for machine learning (ML) algorithms. One of the most common formats for storing large amounts of data is Apache Parquet due to its compact and highly efficient format. This means that business analysts who want to extract insights from the large volumes of data in their data warehouse"
-    publishedDateTime: 2023-06-05T19:43:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-canvas-to-build-machine-learning-models-using-parquet-data-from-amazon-athena-and-aws-lake-formation/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
   - title: "TII announces the open source launch of the UAE's first language model trained on Amazon SageMaker"
     excerpt: "The #1 model on the Hugging Face Open LLM Leaderboard is now available via Amazon SageMaker Jumpstart, making it easier to build cutting-edge generative AI applications using the top open source model."
     publishedDateTime: 2023-06-08T10:32:00Z
@@ -124,15 +106,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "Amazon SageMaker Automatic Model Tuning now automatically chooses tuning configurations to improve usability and cost efficiency"
-    excerpt: "Amazon SageMaker Automatic Model Tuning has introduced Autotune, a new feature to automatically choose hyperparameters on your behalf. This provides an accelerated and more efficient way to find hyperparameter ranges, and can provide significant optimized budget and time management for your automatic"
-    publishedDateTime: 2023-06-05T19:36:19Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-automatically-chooses-tuning-configurations-to-improve-usability-and-cost-efficiency/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 40
 
 secured: "C/xAltWBi4efw+zkLDW53OOcm0ROI3jyYqNSS6lhK5TkXFCoVczxXZxyF7juUJZO1pEyHzsrnyTc1nMvPAnb40t0e/Ca2URi64GuCgnza9Qn+SIi4AtYkTZ9ocipEhSCSd39kUUMi2Bim2RGRPGnRrDt0Cuv299pmjVohtb7MqfrIJ2+Ah6R2ZuR108nAEW0en4XAK5SH2WisXClVDa/zqS3HdS66+wxZMOdzNjUdVDWwHNIoRunOseRF595cHTtuXCAlV1HcQ8agNF+5rEhNREtNCNABpqBW27ejr8qoBuWPw+gOCo6GYeqK7HA84tUxQGQaOQipzZnKhF5MVCosx7gzG9df5A6idgVnIRhDYuKgBfvH2qRD47M8yH2fBHdhaJk7gP2E3h52hTawdGagNm8cey/0HoeWeYvH6xZMXcqUis7JGaYPw41/NvaYoi1UPUTV8QeW/FuSxHOe6R9CC9v4ettlLMhl/+ekZvCsNBhtZ86R1L5tId0tLcV16cQa2gp2L6Ec2O5RGXJXtEjNA==;4/sIm3IWhcXRUjC4LHoreQ=="
 ---

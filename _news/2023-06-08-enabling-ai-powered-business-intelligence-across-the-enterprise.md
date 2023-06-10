@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence
 webUrl: "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/"
 type: article
 quality: 119
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Is transforming business outcomes across industries and sectors"
+    excerpt: "Why companies that embrace AI will find new and productive ways to integrate it with their existing workforces, products and operations."
+    publishedDateTime: 2023-06-10T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-transforming-business-outcomes-across-industries-and-sectors/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1347947373.jpg?w=1200&strip=all"
+        width: 1200
+        height: 616
+        isCached: true
   - title: "OpenAI rival Cohere raises a fresh $270 million to bring generative AI to the enterprise"
     excerpt: "AI startup Cohere is no longer flying under the radar. The Toronto-based company just announced $270 million in funding backed by Nvidia and Oracle."
     publishedDateTime: 2023-06-08T13:06:00Z

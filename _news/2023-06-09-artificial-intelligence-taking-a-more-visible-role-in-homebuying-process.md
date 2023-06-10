@@ -23,6 +23,22 @@ images:
     height: 682
     isCached: true
 
+related:
+  - title: "Artificial intelligence taking a more visible role in homebuying process"
+    excerpt: "Artificial intelligence will play a bigger role in helping consumers buy and sell homes, as it moves from behind the scenes to front and center in a whole range of areas, according to members of a panel at the annual conference of the National Association of Real Estate Editors in Las Vegas."
+    publishedDateTime: 2023-06-10T15:00:00Z
+    webUrl: "https://www.limaohio.com/news/2023/06/10/artificial-intelligence-taking-a-more-visible-role-in-homebuying-process/"
+    type: article
+    provider:
+      name: The Lima News
+      domain: limaohio.com
+    quality: 36
+    images:
+      - url: "https://www.limaohio.com/wp-content/uploads/2023/06/131434120_web1_BIZ-REAL-BANKRATE-ARM-DMT.jpg"
+        width: 1068
+        height: 710
+        isCached: true
+
 secured: "UkhIAEm7fGy1pkWsXIOVLmHHKfjOc9jF8xnahdEz3JVJiiVEMPpgTmnsNsiFrG3TEpcsabQo3fEVWiuy5apIzc09M5KvBPxSCk0MUjKOFxLYj8EnjXUpXgE0q4H8ff+IqAOGEKEKu+K8slg80c5QUAS0w7q/6/QVsVjkfrEdTPwxSXwLqiBsfGj66jQHGPMJINW47k59JuItEyT1nNdCFXfUa4X2Zm5MPQlHBKlgFMywhJGyYuUfigpehqQqKqD6R7fAD1eppxZqmc29PJmgffRZUjzazLRmmF2VLcC0h3LueMU7cvn0WqRdtfhY6XQUXOvpg4mhRx5gXJ7cP5XUCe+T2Bs3pjmsuy5l0GWS2OQ=;DGZAe5ROBhgEMZea5NWsYg=="
 ---
 

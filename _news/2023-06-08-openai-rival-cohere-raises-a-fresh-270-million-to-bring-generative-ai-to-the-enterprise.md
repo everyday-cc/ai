@@ -42,6 +42,20 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "How AI Is transforming business outcomes across industries and sectors"
+    excerpt: "Why companies that embrace AI will find new and productive ways to integrate it with their existing workforces, products and operations."
+    publishedDateTime: 2023-06-10T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-transforming-business-outcomes-across-industries-and-sectors/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1347947373.jpg?w=1200&strip=all"
+        width: 1200
+        height: 616
+        isCached: true
   - title: "In AI Talent War, Rushing to Hire Tech Experts Without a Business Plan Is the Least Intelligent Approach"
     excerpt: "And the reassuring news, according to Wang: “There’s not going to be a robot that’s going to walk up ... said that before jumping on the AI bandwagon, it’s important to start from square one with a plan in place. “If you’re hiring AI technical ..."
     publishedDateTime: 2023-06-08T14:38:00Z

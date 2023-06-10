@@ -39,15 +39,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Pair of US politicians want face biometrics ripped out of public housing"
-    excerpt: "A pair of United States Representatives have issued a statement saying biometric surveillance does not increase stability and fairness in public housing."
-    publishedDateTime: 2023-06-05T19:16:00Z
-    webUrl: "https://www.biometricupdate.com/202306/pair-of-us-politicians-want-face-biometrics-ripped-out-of-public-housing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
 
 secured: "JFgKgN1oPgW9pX5zXyWmPe+K9rlfKF18lqUt7LEeAam9OQ+/rBlyUw4gAaSg6Id2worMGBYhag6P/w7zkx1JVk8/4AZ7RfhAVOe5HpGwxDk0ZNHKS/zpVJt1coDl/JVIFdSUt0xdUVaMN2Ez9c8ernymI2KKV+c/D9G8aLlDCUvGWFyvTieL3KXPp7BQx5D3qaWnupYmxPz584PcuY+POsb1oGk/RxFsqu5vDfH8lqinpfPW5xuA8wDbmLlM/Fnfst4rh/W64QQ76wCSEowxSzgyQ/O/WtGCTPlhwHYsyNSHN3J/WKFZiv01zLh5bgR07CWnXyWf/ej7Si6/+gZKzkzLCmu3hMApCxLm11h1MHaVr+FbE7Bvhe3wqQe5uWm13157Caj5OHDVw674St5LjjjVQG1PBmj3UBHVIVA+dDKKsLhCF1yp+jJBe+3tEVsQawwPj3C5CUpgZAjXMhnXh3FM9MxMp4sTbgx17CppVmn7xlAqwBHt3c/L+LAzpmbkpQfdVjzABn2qrOinxl2puA==;FgrLDuitXWDI6Awd8oZhqQ=="
 ---

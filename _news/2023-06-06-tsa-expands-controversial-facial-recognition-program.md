@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/tsa-facial-recognition-program-airp
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tsa-facial-recognition-program-airports-expands/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
         width: 2048
         height: 1152
-        isCached: true
-  - title: "Facial recognition tech lets TSA to verify your ID without an agent staring at you"
-    excerpt: "BALTIMORE — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through — all without having to hand over their ..."
-    publishedDateTime: 2023-06-05T20:47:00Z
-    webUrl: "https://www.indystar.com/story/travel/airline-news/2023/05/15/tsa-airport-screening-facial-recognition/70218060007/"
-    type: article
-    provider:
-      name: The Indianapolis Star
-      domain: indystar.com
-    quality: 33
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/01/01/USAT/3f44de1c-410f-4417-904c-173f8f370140-AP_Winter_Weather_Travel.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "WjZj4UZdG10+u+KVFY59eAhHuLah1yjK94YipXvi0pF0RohMy+9pMax4SVd99yzW07Cvf3/BXc56kXXGiW6X3eOcl5VY8uuKLKkf2r6m6uLxr8BUB4QN2DXzMqFg/Jww5f5j8R1N2nwFY2HTVGJ0089NG0GHHpt+Vb2mD4Wunm7oc2yYwNJUSN/YyhmreTTMpA/nNiOF/ZXBiRazzYcsuQgCEIQAn+rmLV+2eORODm+E9X3d2jAwDSBEQOgTrMN2YLWDlE94YayBa5OiFVhvZu3h4dieyCLIgEePv+cjLgxlWXgBboLHRhgh7wx9zkEnZwKnYQXP7068t4ZWkBeT1M7VcUjOiX6Ia88J4s9X1wI=;AzCZU5yH/ghm3w/vzyfWIg=="

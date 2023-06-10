@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/three-bills-to-regulate-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/"
 type: article
 quality: 82
-heat: 102
+heat: 104
 published: true
 
 provider:

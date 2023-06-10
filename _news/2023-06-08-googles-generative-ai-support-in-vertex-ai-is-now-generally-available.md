@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-v
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
 type: article
 quality: 89
-heat: 289
+heat: 279
 published: true
 
 provider:
@@ -223,15 +223,6 @@ related:
     provider:
       name: aha.org
       domain: aha.org
-    quality: 19
-  - title: "Lawyers' Trust in Generative AI May Be Overstated"
-    excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into 'trust'."
-    publishedDateTime: 2023-06-05T19:32:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/06/05/lawyers-trust-in-generative-ai-may-be-overstated/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
     quality: 19
   - title: "Managing the Risks of Generative AI"
     excerpt: "Generative artificial intelligence (AI) has become widely popular, but its adoption by businesses comes with a degree of ethical risk. Organizations must prioritize the responsible use of generative AI by ensuring it is accurate,"

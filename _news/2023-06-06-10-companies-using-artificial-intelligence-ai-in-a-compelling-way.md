@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Top 5 Best Artificial Intelligence Consulting Companies in 2023"
+    excerpt: "Want to maximize the uses of AI technology? Seek the expertise of the five best AI consulting companies of 2023."
+    publishedDateTime: 2023-06-10T10:00:00Z
+    webUrl: "https://www.techtimes.com/articles/292467/20230610/top-5-best-artificial-intelligence-consulting-companies-2023.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 19
 
 secured: "ECWfGciy0PIn9/gMzAoa+Sx5YVmSEginl9nnlDR6wm68f4sW5TQoddD8wRJ1X7K/LkwlJZ27JHad4y0EXBQfMW18T59pDwDZTzpomqLdsLuZZWEm7NJmWCxClQvVLKA6LK/D7OM6coHar80Ar/XFDDtWQ5VC+BBGpJc7Sc8BeXZcdexOLcowUd4bVNVIEwOH9zHRMytscjCH4yWbaBLJH17v6nSTCTDlbB8pIRA3Y6Po4eecemzWiXd8Gfn+1pQJA2Z4seAQlzK1MfUJ++TGbgZXZ4d/ygokmdCt+UDCgFEkORXgCyRJ3i0GATQayFb+bOAdVxSdgefDICrmnjFxc/C0J4i6Nlakx1EpNC6LBEajRil1UOeVaKB8dGfpSZ4DyCK7jac+xiRTc34dSZwBdrjEPZwqiJ/uGxF+LvG+1kwRkew+fxE9CILWNJZyizk2rMh0rQ5LYyk3unNZA47lnxcDyl4H5ti+HoyKdG++VoPW0MND2JLaJ3IKtgetVv++7BbwyaFbIZAT2DpUGoWgLA==;36o1hMYOSk0DF86UVPVc+Q=="
 ---

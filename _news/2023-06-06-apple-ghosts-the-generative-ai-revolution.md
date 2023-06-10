@@ -225,15 +225,6 @@ related:
       name: aha.org
       domain: aha.org
     quality: 19
-  - title: "Lawyers' Trust in Generative AI May Be Overstated"
-    excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into 'trust'."
-    publishedDateTime: 2023-06-05T19:32:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/06/05/lawyers-trust-in-generative-ai-may-be-overstated/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
   - title: "Managing the Risks of Generative AI"
     excerpt: "Generative artificial intelligence (AI) has become widely popular, but its adoption by businesses comes with a degree of ethical risk. Organizations must prioritize the responsible use of generative AI by ensuring it is accurate,"
     publishedDateTime: 2023-06-06T12:15:00Z

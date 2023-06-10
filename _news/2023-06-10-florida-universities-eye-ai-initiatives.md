@@ -86,6 +86,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Florida universities are keeping an eye on AI"
+    excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology's power --- and stave off the potential for academic malfeasance."
+    publishedDateTime: 2023-06-10T12:00:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/education/2023-06-10/florida-universities-keeping-eye-ai"
+    type: article
+    provider:
+      name: wusfnews.wusf.usf.edu
+      domain: usf.edu
+    quality: 19
 
 secured: "uohojmhlyM7lpR1mkk8w7IS0LZVs0HU5qwqvxJqyeCOPMpibcqq7khJqu/7OH3pwdBb8fplSAdoGVHmXAI3KhJL+0QRAQo4mRA1csdW1KEzI/8KsTI2rPAsFc3OvrAS1YvdTvsuvO6HJRWt+GyBiv5ka8My2ExSMnCUosVM2TVC+JFYMF8FE3tb57MCf7lXuOoplCPdzDPq8+9iP/jvpSHJNF/OME+odUm7nEiMoOZAj6XX/vvWHobu5KAMj+9X5Y2DATWaGDx1KUTvQUv37Whhw6+goJTNK50cTrbnBUZdtNfX/damvVRPLHoL/UA01GlZV9x1Utrn/Oy8Y/N2loWxk8cL9qk8MXrc9FeZGdctICrgtEYiAuK4HgqFueV+663u0/HwkbWp7NHiK5oa4m73T0/YUDHMYL+1wuYbwddpyPt6+EY2aAd5vgSoIy5mGIKYoix7xLDIzaZu2N1NHKqtA9UXMswPV+T5ASWShHaIHPdNrtEgN3NsrWyy9lvPC1eV1fdME5Tsznrb+KSCSvw==;EINrGZE/YNgHHG2k3YxCXg=="
 ---

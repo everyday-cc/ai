@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/opinion-ai-on-wall-stree
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/opinion-ai-on-wall-street-impacts-higher-ed-on-main-street?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Opinion: What AI means for healthcare leaders"
-    excerpt: "Generative artificial intelligence is a hot topic these days--the ... tech firms and teenagers have found novel uses for AI to improve our lives. Thousands of healthcare AI applications are available for drug discovery, clinical practice, supply chain ..."
-    publishedDateTime: 2023-06-05T19:07:00Z
-    webUrl: "https://www.modernhealthcare.com/opinion/generative-ai-healthcare-leadership-uab-christy-harris-lemak"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
 
 secured: "vNJFjmWVn8Bx1z/9u3lBERqx2QWHonzdE5u6TM5FjeiGiLhRgW663wUWJGqIX1LTXDghxcPlWBC81g+dbylTcAYUOcXQGOn6rnzWE9lkrarc1gVKGF1ZilS/ll6PJrgQTt4PymSxz4eXlEMWAh06Q2kOcLgs9A8vF8s6wkqxwk4/D6hyvMT+QxObi33D3iOU/VJ4Bs5x8qORWY91Nh8HkdFJUqo+rc3M9j8z1WtUQkVqR175JR4sFeCPJ3R85SQx50iOKAIlYg/URCEePg/S1L7JoaIjG3SNG7yUIexkr95Kw8m7RPWkmPVqviBg2QN51Gmk5O73X2V9tfX+mSQ7o789a/3JNScr6FruoK+/ww7ETBF8SX3lIlrOm22RTr21yafTFickzt0phIzleU/TAHbk8DPDphqHd6Xq+LUNsFTXNRJRzhb/XDlqwxR8h5N2+0sw9E4ME6el2xFg/suE6CvwVOp04eraDaQOUmt4zf9KW3X5ybFQLvxp4rc4mrHblfBgKYWEGg6acGIDpzraIw==;81g9phI3n0Rd3Gi4KG+VOg=="
 ---

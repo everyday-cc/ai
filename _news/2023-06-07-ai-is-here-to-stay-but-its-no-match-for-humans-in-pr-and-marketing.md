@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 51
-  - title: "AI In Healthcare Market 2023 Is Ready To Set Outstanding Growth In Upcoming Years X Herald"
-    excerpt: "The Most Recent Research On The  global ai in healthcare market 2023  was undertaken across a number of sectors in numerous countri"
-    publishedDateTime: 2023-06-05T20:32:00Z
-    webUrl: "https://menafn.com/1106390990/AI-In-Healthcare-Market-2023-Is-Ready-To-Set-Outstanding-Growth-In-Upcoming-Years-X-Herald"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?771337"
-        width: 324
-        height: 250
-        isCached: true
 
 secured: "bWOoiQy3kY6oa056GNVQs5P11QgBHrnTssALZZztnK0EVW+PmWy7cnYNVnt4F/TQADlG6j9gmG4w6CrIr6kVMYyQ+FBvv4KlCzMIjV2CkuiJxVdCDrh2kCbN4vbt8pLMu6eKMDiRFq/Eo+Xi6QGjzQog1qxeOp2GvBoN0deMLVGTPggJ9lEkoiQRZ2TciWmHPlMax9AE8AyaecdjZKw1EjUAwptExvDgjDbkb5NlA8iey8ERw+QZFrUNckqkGl5AGK9rDbfWkonboiTPVeuTtyzHdnzljQhiwxjdngdfJCL9eWJARoAWoY/v+DFsi0XKnJfNEEcAwP2dwNfdHGGd7K3YPTOubjYEyoR9lANqlPM=;NJmkqIIM/G/ZuuU0H3SPcg=="
 ---

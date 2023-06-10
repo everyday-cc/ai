@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "SoftBank and NVIDIA to Bring Generative AI to Telcos"
-    excerpt: "Telco modernization will enable telcos to leverage AI to deliver a wide range of new services and automate operations."
-    publishedDateTime: 2023-06-05T19:48:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/softbank-nvidia-generative-ai-telcos/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt-vs-github-copilot.png"
-        width: 1400
-        height: 788
-        isCached: true
   - title: "AI startup Cohere raises $270 mln in Nvidia-backed funding round"
     excerpt: "Cohere, an AI foundation model company that competes with Microsoft-backed OpenAI, said on Thursday it had raised $270 million in a funding round backed by Nvidia , Oracle and Salesforce Ventures, among others."
     publishedDateTime: 2023-06-08T14:41:00Z
@@ -119,6 +105,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230605pd219_files/2_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "There’s an AI war, and Nvidia is the only arms dealer: Analyst"
+    excerpt: "Shares of Nvidia (NVDA) rocketed more than 26% on Thursday, as the graphics chip maker rides the generative AI explosion. The rip higher comes after the company reported better-than-expected first ..."
+    publishedDateTime: 2023-06-09T04:55:00Z
+    webUrl: "https://www.aol.com/finance/ai-war-nvidia-only-arms-174654285.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/vic5SKs0jnzKZ75V9jiHnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTA-/https://media.zenfs.com/en/aol_yahoo_finance_433/278a4c77804c64b2f9dcd57da2b3125e"
+        width: 1199
+        height: 650
         isCached: true
   - title: "Chiratae, Nvidia Execs -backed Minus Zero Unveils India's 1st Autonomous Car zPod"
     excerpt: "Artificial Intelligence (AI) startup Minus Zero has just unveiled India's first autonomous/ driverless car — z-Pod. With z-Pod, Minus Zero achieved f"

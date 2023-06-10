@@ -52,15 +52,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 103
-  - title: "Train a Large Language Model on a single Amazon SageMaker GPU with Hugging Face and LoRA"
-    excerpt: "This post is co-written with Philipp Schmid from Hugging Face. We have all heard about the progress being made in the field of large language models (LLMs) and the ever-growing number of problem sets where LLMs are providing valuable insights. Large models, when trained over massive datasets and several"
-    publishedDateTime: 2023-06-05T19:01:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-a-large-language-model-on-a-single-amazon-sagemaker-gpu-with-hugging-face-and-lora/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 92
   - title: "Technology Innovation Institute trains the state-of-the-art Falcon LLM 40B foundation model on Amazon SageMaker"
     excerpt: "This blog post is co-written with Dr. Ebtesam Almazrouei, Executive Director–Acting Chief AI Researcher of the AI-Cross Center Unit and Project Lead for LLM Projects at TII. United Arab Emirate’s (UAE) Technology Innovation Institute (TII), the applied research pillar of Abu Dhabi’s Advanced Technology"
     publishedDateTime: 2023-06-07T09:03:35Z
@@ -89,15 +80,6 @@ related:
         width: 1022
         height: 508
         isCached: true
-  - title: "Use Amazon SageMaker Canvas to build machine learning models using Parquet data from Amazon Athena and AWS Lake Formation"
-    excerpt: "Data is the foundation for machine learning (ML) algorithms. One of the most common formats for storing large amounts of data is Apache Parquet due to its compact and highly efficient format. This means that business analysts who want to extract insights from the large volumes of data in their data warehouse"
-    publishedDateTime: 2023-06-05T19:43:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-canvas-to-build-machine-learning-models-using-parquet-data-from-amazon-athena-and-aws-lake-formation/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
   - title: "AWS says Falcon40B Large Language Model Trained on Sagemaker"
     excerpt: "AWS revealed that TII), a leading global scientific research centre in Abu Dhabi, trained its top-performing, open-source Falcon 40B model on AWS."
     publishedDateTime: 2023-06-08T06:57:00Z
@@ -128,15 +110,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "Amazon SageMaker Automatic Model Tuning now automatically chooses tuning configurations to improve usability and cost efficiency"
-    excerpt: "Amazon SageMaker Automatic Model Tuning has introduced Autotune, a new feature to automatically choose hyperparameters on your behalf. This provides an accelerated and more efficient way to find hyperparameter ranges, and can provide significant optimized budget and time management for your automatic"
-    publishedDateTime: 2023-06-05T19:36:19Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-automatically-chooses-tuning-configurations-to-improve-usability-and-cost-efficiency/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 40
 
 secured: "agb0U+XH/Hw3lbSagg9M9HZ1YAGxh0POKmH8j4fZXGGiwMcaO04EdmJmI+tOLAoFHXUIsQxPdXyhbcbFtbECNdW41R14kiwVVlQ0cZdJgq5dZOZy/Y9+zFj7JrIGtDXwuwddH4M8DKuhWFtfnoWkSSP3n+HnDzWd+ul+OqXiHghri8vsavpIjba6Umuxac4m//nfESAuMpCx0688k1qZegtfZ6Sq31bb9tuwtenNeG2IC1XmpWZv+lER9NraNnq0cK5vhWlMsnjV8SOBSKIzJkFm2s6v+6L7CwisepTBZhajHeUS07Zygx5gkuIiFUSR0IhVl4ghWPyXqKJqdFH7TumrcaOol2dmST2T+RY3phw=;sGD6gbax/gWPZ1/V/QHJ0g=="
 ---

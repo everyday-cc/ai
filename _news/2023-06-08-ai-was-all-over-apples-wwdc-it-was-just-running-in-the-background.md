@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The best AI features Apple announced at WWDC 2023"
-    excerpt: "Apple announced a host of new software features for its popular devices and the new Apple Vision Pro headset, many of them leveraging AI."
-    publishedDateTime: 2023-06-05T20:51:00Z
-    webUrl: "https://venturebeat.com/ai/the-best-ai-features-apple-announced-at-wwdc-2023/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/dog-photo-apple.png?w=1200&strip=all"
-        width: 1200
-        height: 669
-        isCached: true
 
 secured: "t1JsZ4nO7uuBFAHR9YZ81YiAt7tr2t5/x6TPOdBpl9fmeSG7W5yknB1uom13aE+L88SBu9BkKbVh25wBBxZulG71KJMc9GBjbGMaDljJZOz8suWKCcIZPeMqTbSi64GaQ3XX6vaQ6OUDONm+DqS1gMEYeHqkyC9k+wlWsi81TSXvXSu2WFn4W1B+cTYM5zM/s/YuaXilafluGVFYCe2aSkixRhRqbcGXGQJ4JXSQImahqARwFv9RA0ctoJKTpT3l9evcMZSADI/Nqn03odsnKhj35N0XzBtruJrwu/IXecPUJmIQdOqnJ+yR4fJwikfg99pO1/HtUiN0+QTpaWqOOxD2peHwIrZOL8vvq3QW8AkNHvW+GaPKVCzotdGjOWxHqcDxkgnrv4FwZGvdRZLOz0GwilUWLp1xebun1uxtnHfmeGYJg1pYnhX1ybAay8KUx+2lMWqvM5Eax446Gq67ncCTJobTo1zpw50Rl6+d8WV+iDMcaY1h8g/vFopmOd88NP0T2X0oVx67YOFJDeXHcQ==;s1LsPBT72viCHhrYbvEmXA=="
 ---

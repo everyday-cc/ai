@@ -80,20 +80,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Facial recognition tech lets TSA to verify your ID without an agent staring at you"
-    excerpt: "BALTIMORE — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through — all without having to hand over their ..."
-    publishedDateTime: 2023-06-05T20:47:00Z
-    webUrl: "https://www.indystar.com/story/travel/airline-news/2023/05/15/tsa-airport-screening-facial-recognition/70218060007/"
-    type: article
-    provider:
-      name: The Indianapolis Star
-      domain: indystar.com
-    quality: 33
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/01/01/USAT/3f44de1c-410f-4417-904c-173f8f370140-AP_Winter_Weather_Travel.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "aNOBjgVvpKff4rDnCKZp1g2sqhtVDFqBdlSMD3pxegMeBni827Cx0dFN5HzUz8ykqwR+zTIJQN5lfJ6u0o6Y1RTxrUbrEZxKySfAHZIkAlBiMMcKCa/n+KP7nE8//StFqay8ff8X3kSeCf5lC4m0V7Z6vf1Sivz3bIEOnIt4k5qnRdLqwQtIJqRo6P17MgPFa4mr3gvbslsOzVlzkP2rM3tGqbIvt35ObhCabHHgbJcMyqIpMKZCocDrqjRqkHbyw7ADO9d/bFtIhuQxEE6BDDu/dWmXSkRc0GfcgqF0pqqK988CPpp7kjkvZgGKE5rR8cm1yIDSg8VEOpYi8+2nHQK0lzAgsRCpmcfIqIV79GQ=;tEWZS0zhfXIPkSgMJISoJw=="
 ---
