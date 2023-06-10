@@ -220,7 +220,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 319,
       "tags": null,
       "images": [
         {
@@ -569,6 +569,58 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-comparing-and-contrasting-ai-and-human-translation.md",
+      "title": "Comparing And Contrasting AI And Human Translation",
+      "excerpt": "Translation plays a crucial role in bridging the gap between different languages and cultures. Traditionally, human translators have been the go-to choice for accurate and nuanced translations. However, AI translation, a blossoming subfield of natural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647a000b5e40ece5fb13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 931,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/",
+      "publishedDateTime": "2023-06-05T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -992,8 +1044,8 @@
       "title": "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis",
       "excerpt": "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients.",
       "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
-      "originalUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
+      "webUrl": "https://www.miamiherald.com/press-releases/article275901341.html",
+      "originalUrl": "https://www.miamiherald.com/press-releases/article275901341.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1006,8 +1058,8 @@
       "publishedDateTime": "2023-05-30T04:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1374,59 +1426,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-in-retail-smarter-stores-smarter-product-design.md",
-      "title": "AI in retail: Smarter stores, smarter product design",
-      "excerpt": "Retail companies are turning to AI to handle a long list of challenges that would keep any business leader awake at night",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/",
-      "originalUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/AdobeStock_573239156-1.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/amp/",
-      "publishedDateTime": "2023-05-24T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 102
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://img.jagranjosh.com/images/2023/June/762023/google-ai.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Cashing in on AI chips"
+    excerpt: "There was an error generating the full edition PDF. Please try again later. Click and hold your mouse button on the page to select the area you wish to save or print ..."
+    publishedDateTime: 2023-06-08T09:03:00Z
+    webUrl: "https://richmond.com/eedition/richmond/page-a9/page_6ec8cd17-437c-5ace-8d63-1b347045ca58.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/eedition/6/ec/6ec8cd17-437c-5ace-8d63-1b347045ca58/648153e60cd5b.preview-620.jpg?crop=620%2C326%2C0%2C478&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
         isCached: true
   - title: "Comment: We should worry more about AI’s creators than AI itself"
     excerpt: "Even so, fibs travel halfway around the world before the truth laces up its boots and the story is bound to seep into our collective, unconscious worries about AI’s threat to the human race, an idea that has gained steam thanks to warnings from two “godfathers” of AI and two open letters about existential risk."

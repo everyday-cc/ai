@@ -19,219 +19,271 @@ topics:
   - AI
 
 related:
-  - title: "Fostering International Collaboration In AI In Healthcare"
-    excerpt: "Combining AI and robotics and healthcare with a mission to extend healthy human life. Meet Richard Yang, partner at Sinovation Ventures"
-    publishedDateTime: 2023-06-05T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647bdd7fddd81ae2fc13b283/0x0.jpg?format=jpg&width=1200"
-        width: 800
-        height: 1200
-        isCached: true
-  - title: "5 Strategies For Implementing AI Technology In Healthcare"
-    excerpt: "Here are five ways in which leaders healthcare leaders should seek out opportunities to implement AI solutions in their operations."
-    publishedDateTime: 2023-06-06T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647e0a794fed9a2fd7d81907/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "How AI Can Address The Crisis In Healthcare Labor Costs"
-    excerpt: "AI creates exciting possibilities in healthcare, and it’s tempting to fixate on the sexiest use cases. A much nearer-term opportunity lies in addressing labor costs."
-    publishedDateTime: 2023-06-07T09:45:00Z
-    webUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647fd04bcc09b43b71595934/0x0.jpg?format=jpg&width=1200"
-        width: 633
-        height: 322
-        isCached: true
-  - title: "Sensi.AI and Flint Capital speak on developing and deploying AI solutions in healthcare"
-    excerpt: "Romi Gubes, the CEO of Sensi.AI, spoke on a recent TechCrunch Live episode about how her company is enabling privacy-preserving, in-home remote patient monitoring."
-    publishedDateTime: 2023-06-06T22:04:00Z
-    webUrl: "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/"
-    ampWebUrl: "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/"
+  - title: "Google’s generative AI support in Vertex AI is now generally available"
+    excerpt: "Google's generative AI support in Vertex AI, the company's machine learning platform, is now generally available."
+    publishedDateTime: 2023-06-07T20:45:00Z
+    webUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/"
+    ampWebUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 96
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1074257938.jpeg?resize=1200,800"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135936636.jpg?resize=1200,801"
         width: 1200
-        height: 800
+        height: 801
         isCached: true
-  - title: "Comparing And Contrasting AI And Human Translation"
-    excerpt: "Translation plays a crucial role in bridging the gap between different languages and cultures. Traditionally, human translators have been the go-to choice for accurate and nuanced translations. However, AI translation, a blossoming subfield of natural ..."
-    publishedDateTime: 2023-06-05T14:17:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/"
+  - title: "Google's Generative AI Platform Is Now Available To Everyone"
+    excerpt: "With the service becoming GA, enterprises and organizations could integrate the platform's capabilities with their applications."
+    publishedDateTime: 2023-06-09T05:30:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647a000b5e40ece5fb13b283/0x0.jpg?format=jpg&width=1200"
-        width: 931
-        height: 620
-        isCached: true
-  - title: "How Computer Vision Is Driving Innovation Across Industries"
-    excerpt: "The fusion of AI and computer vision is reshaping countless sectors, ranging from healthcare and manufacturing to retail and transportation."
-    publishedDateTime: 2023-06-05T10:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6479e7d30717c50fb50b6f29/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6482b8837a0f4f82412c5c61/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Lack of trust slowing down AI revolution in medical settings: GE Healthcare report"
-    excerpt: "A new survey from GE Healthcare reveals that clinicians lack trust in AI when it comes to using the technology in medical settings."
-    publishedDateTime: 2023-06-06T20:30:00Z
-    webUrl: "https://venturebeat.com/ai/lack-of-trust-slowing-down-ai-revolution-in-medical-settings-ge-healthcare-report/"
+  - title: "Apple Ghosts the Generative AI Revolution"
+    excerpt: "Apple unveiled the Vision Pro headset and a number of AI-powered features yesterday, but largely ignored generative AI applications embraced by Google and Microsoft."
+    publishedDateTime: 2023-06-06T10:59:00Z
+    webUrl: "https://www.wired.com/story/apple-ghosts-the-generative-ai-revolution/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 71
+    images:
+      - url: "https://media.wired.com/photos/647e7aef82d37ced55dff567/191:100/w_1280,c_limit/Apple-Ghosts-AI-At-WWDC-2023-Business-1258464875.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Firm study predicts big spends on generative AI"
+    excerpt: "A new study polling software buyers at businesses worldwide finds strong intention to increase budget, with special interest in AI. It also looks at how vendors can engage buyers."
+    publishedDateTime: 2023-06-09T22:22:00Z
+    webUrl: "https://www.techrepublic.com/article/big-spends-generative-ai-saas-g2/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr6923-Hero.G2.jpeg"
+        width: 969
+        height: 610
+        isCached: true
+  - title: "Rush to Use Generative AI Pushes Companies to Get Data in Order"
+    excerpt: "Interest in large language models, such as those developed by ChatGPT maker OpenAI, has put renewed focus on data management—placing more pressure on corporate technology chiefs to ensure their companies’ data is stored,"
+    publishedDateTime: 2023-06-08T10:01:00Z
+    webUrl: "https://www.wsj.com/articles/rush-to-use-generative-ai-pushes-companies-to-get-data-in-order-c34a7e13"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-796217/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Typeface expands customized generative AI approach with Google Cloud partnership"
+    excerpt: "A new partnership will directly integrate Typeface with Google Workspace to support specific enterprise generative AI use cases."
+    publishedDateTime: 2023-06-07T10:00:00Z
+    webUrl: "https://venturebeat.com/ai/typeface-expands-customized-generative-ai-approach-with-google-cloud-partnership/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 78
+    quality: 62
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/analytics-g6fbbe52da_1920-e1633121636347.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true
-  - title: "Cashing in on AI chips"
-    excerpt: "There was an error generating the full edition PDF. Please try again later. Click and hold your mouse button on the page to select the area you wish to save or print ..."
-    publishedDateTime: 2023-06-08T09:03:00Z
-    webUrl: "https://richmond.com/eedition/richmond/page-a9/page_6ec8cd17-437c-5ace-8d63-1b347045ca58.html"
+  - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
+    excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
+    publishedDateTime: 2023-06-09T02:06:00Z
+    webUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html"
+    ampWebUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
     type: article
     provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 54
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/eedition/6/ec/6ec8cd17-437c-5ace-8d63-1b347045ca58/648153e60cd5b.preview-620.jpg?crop=620%2C326%2C0%2C478&resize=620%2C326&order=crop%2Cresize"
-        width: 620
-        height: 326
+      - url: "https://images.idgesg.net/images/article/2020/01/united_states_capitol_building_washington_dc_congress_legislation_by_mcdustelroy_gettyimages-1036372454_digital_landscape_by_dkosig_gettyimages-1146014337_2400x1600-100825944-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Merge unveils Blueprint, an AI-powered tool to enable easier API integrations"
-    excerpt: "Merge launches Blueprint, a tool that leverages OpenAI's GPT-3.5 LLM, allowing users to paste a link to the documentation of an API."
-    publishedDateTime: 2023-06-06T12:51:00Z
-    webUrl: "https://venturebeat.com/ai/merge-unveils-blueprint-an-ai-powered-tool-to-enable-easier-api-integrations/"
+  - title: "How Generative AI-Powered Robots Are Shaking Things Up"
+    excerpt: "Robots are making their way into nearly every sector of the ... Reports suggest that Musk is busy creating his own generative AI startup that would go head-to-head with OpenAI. Image by Twitter While generative AI has already taken the world by storm ..."
+    publishedDateTime: 2023-06-05T15:08:00Z
+    webUrl: "https://www.fxempire.com/forecasts/article/how-generative-ai-powered-robots-are-shaking-things-up-1351853"
+    ampWebUrl: "https://amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
+    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
+    type: article
+    provider:
+      name: FXEmpire.com
+      domain: fxempire.com
+    quality: 54
+  - title: "Google Launches Free Generative AI Courses - Stock Continues To Rise"
+    excerpt: "AI has driven the tech market to new heights this year, bringing new investors into the ring as the craze continues."
+    publishedDateTime: 2023-06-06T12:09:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/06/06/google-launches-free-generative-ai-coursesstock-continues-to-rise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+  - title: "Lilt Launches Generative AI Multilingual Writing App"
+    excerpt: "New Tool Enables Quick Generation and Finalization of On-brand, Locally Relevant Content SAN FRANCISCO, June 8, 2023 /PRNewswire/ -- Lilt, the"
+    publishedDateTime: 2023-06-08T15:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-launches-generative-ai-multilingual-writing-app-1032378920"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "PhotoRoom, Google Cloud partner to democratize generative AI photo editing"
+    excerpt: "PhotoRoom says its generative AI capabilities and Google Cloud partnership will speed production of product photography content."
+    publishedDateTime: 2023-06-08T18:37:00Z
+    webUrl: "https://venturebeat.com/ai/photoroom-google-cloud-partner-democratize-generative-ai-photo-editing/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 44
-  - title: "Leveraging data for healthcare innovation in Africa"
-    excerpt: "Despite recent progress, Africa carries a disproportionate share of the global burden of disease, with rising rates of non-communicable diseases (NCDs)"
-    publishedDateTime: 2023-06-05T23:37:00Z
-    webUrl: "https://businessday.ng/columnist/article/leveraging-data-for-healthcare-innovation-in-africa/"
+    quality: 45
+  - title: "Newest Genesys Generative AI Capabilities Boost Power of Experience Orchestration"
+    excerpt: "Using large language models, Genesys Cloud CX helps employees improve quality, speed and accuracy to drive stronger post-customer engagement"
+    publishedDateTime: 2023-06-05T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/newest-genesys-generative-ai-capabilities-boost-power-of-experience-orchestration-1032370089"
     type: article
     provider:
-      name: businessday
-      domain: businessday.ng
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+  - title: "Lawyers' Trust in Generative AI May Be Overstated"
+    excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into trust."
+    publishedDateTime: 2023-06-06T23:09:00Z
+    webUrl: "https://www.law.com/2023/06/05/lawyers-trust-in-generative-ai-may-be-overstated/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
     quality: 39
     images:
-      - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2022/07/healthcare-1.png"
-        width: 700
-        height: 400
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/Robotic-Assistance-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "Singapore to encourage development of international AI standards by open sourcing AI Verify"
-    excerpt: "With the AI Verify toolkit, companies can generate testing reports that cover different governance principles for an AI system."
-    publishedDateTime: 2023-06-07T02:11:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/singapore-encourage-development-international-ai-standards-open-sourcing-ai-verify"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/singapore-encourage-development-international-ai-standards-open-sourcing-ai-verify"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/singapore-encourage-development-international-ai-standards-open-sourcing-ai-verify"
+  - title: "Intuit reveals generative AI system across its platforms"
+    excerpt: "The AI will have custom-trained financial language models specialising in solving, tax, accounting, cash flow and personal finance challenges."
+    publishedDateTime: 2023-06-07T20:56:00Z
+    webUrl: "https://www.accountantsdaily.com.au/technology/18638-intuit-reveals-generative-ai-system-across-its-platforms"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 29
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Nonprofit & Trade Association Industry"
-    excerpt: "Transforming the way we live and work. Within two months of its initial release to the public, ChatGPT reached 100 million monthly active users, making it the fastest-growing consumer application in h"
-    publishedDateTime: 2023-06-06T23:59:00Z
-    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-nonprofit-trade-association"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 24
+      name: accountantsdaily.com.au
+      domain: accountantsdaily.com.au
+    quality: 39
     images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI_Artificial_Intelligence_Robot_SMALL_1_0.jpg?itok=Y8ZxQOUW"
-        width: 500
-        height: 333
+      - url: "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1684912798/Accountants%20Daily/sasan-goodarzi-intuit-ad_g3icx2.jpg"
+        width: 1200
+        height: 776
         isCached: true
-  - title: "Applications for conversational AI within the organisation"
-    excerpt: "OpenAI was established in 2015 and DeepMind in 2010. Both companies have been singularly focused on the potential and power of artificial intelligence (AI) and garnered significant media and consumer interest."
-    publishedDateTime: 2023-06-06T07:19:00Z
-    webUrl: "https://it-online.co.za/2023/06/06/applications-for-conversational-ai-within-the-organisation/"
+  - title: "Yellow.ai's generative AI-powered Voicebots and Chatbots Now Available on Genesys AppFoundry"
+    excerpt: "Yellow.ai combines with Genesys marketplace of solutions, enabling enterprises to deliver autonomous, human-like experiences with its Dynamic"
+    publishedDateTime: 2023-06-05T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-s-generative-ai-powered-voicebots-and-chatbots-now-available-on-genesys-appfoundry-1032370385"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "Google Cloud and Mayo Clinic to explore uses of generative AI in healthcare"
+    excerpt: "To get the ball rolling, the Mayo Clinic is adopting a new service called Enterprise Search on Generative AI App Builder that will help to improve the efficiency of clinical workflows and make it easier for clinicians and medical researchers to find the data they need to improve patient outcomes,"
+    publishedDateTime: 2023-06-07T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/google-cloud-mayo-clinic-explore-uses-generative-ai-healthcare/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+  - title: "How generative AI could change the life sciences landscape - an interview with Indegene"
+    excerpt: "With generative AI continuing to create a buzz, OSP took the opportunity to speak to Indegene, a digital-first, life sciences commercialization company that helps biopharmaceutical, emerging biotech and medical device companies develop products."
+    publishedDateTime: 2023-06-07T11:48:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2023/06/07/how-generative-ai-could-change-the-life-sciences-landscape"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 31
+    images:
+      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/markets-regulations/how-generative-ai-could-change-the-life-sciences-landscape/16476737-1-eng-GB/How-generative-AI-could-change-the-life-sciences-landscape.jpg"
+        width: 1500
+        height: 1061
+        isCached: true
+  - title: "The Ethics of Using Generative Artificial Intelligence in the Practice of Law"
+    excerpt: "Understanding how generative AI solutions collect, store and use the information that ... certainly will not be sufficient to rise to the level of expected competence by ethics officials. In other words, arguing that the information provided by ChatGPT ..."
+    publishedDateTime: 2023-06-07T20:17:00Z
+    webUrl: "https://ipwatchdog.com/2023/06/07/ethics-using-generative-artificial-intelligence-practice-law/id=162097/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 31
+  - title: "4 Keys to Executing Generative AI"
+    excerpt: "Generative artificial intelligence (AI) has captured the attention of health care providers and payers focused on reimagining care delivery."
+    publishedDateTime: 2023-06-06T12:19:00Z
+    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-06-06-4-keys-executing-generative-ai"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
     quality: 19
-  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
-    excerpt: "Building on the momentum, Turacoz also hosted two consecutive webinars on \"Developing Scientific Publications Ethically in the Era of Generative AI (ChatGPT) \". These webinars provided participants with opportunities to explore the intersection o generative AI and scientific publications,"
-    publishedDateTime: 2023-06-07T13:42:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9828482.htm"
+  - title: "Lawyers' Trust in Generative AI May Be Overstated"
+    excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into 'trust'."
+    publishedDateTime: 2023-06-05T19:32:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/05/lawyers-trust-in-generative-ai-may-be-overstated/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/2095479/Generative_Artificial_Intelligence.jpg"
-        width: 399
-        height: 400
-        isCached: true
-  - title: "Healthcare Automation Market Top Participant To Focus On Regional Expansion | Aetna, Inc., Allscripts Healthcare Solutions, Cerner, Cigna Corporation."
-    excerpt: "The healthcare industry is rapidly adopting advanced technologies such as artificial intelligence (AI), robots, and medical imaging analytics to boost operational efficiency, reduce costs, and enhance service quality. Healthcare professionals and hospital ..."
-    publishedDateTime: 2023-06-08T12:40:00Z
-    webUrl: "https://www.medgadget.com/2023/06/healthcare-automation-market-top-participant-to-focus-on-regional-expansion-aetna-inc-allscripts-healthcare-solutions-cerner-cigna-corporation.html"
+      name: Law
+      domain: law.com
+    quality: 19
+  - title: "Managing the Risks of Generative AI"
+    excerpt: "Generative artificial intelligence (AI) has become widely popular, but its adoption by businesses comes with a degree of ethical risk. Organizations must prioritize the responsible use of generative AI by ensuring it is accurate,"
+    publishedDateTime: 2023-06-06T12:15:00Z
+    webUrl: "https://hbr.org/2023/06/managing-the-risks-of-generative-ai"
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
-  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
-    excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
-    publishedDateTime: 2023-06-09T01:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/268577"
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 19
+  - title: "Google Cloud, Mayo Clinic make generative AI play"
+    excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
+    publishedDateTime: 2023-06-07T12:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/google-cloud-mayo-clinic-generative-ai-search-chatgpt-hipaa"
     type: article
     provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 0
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
+  - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
+    excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
+    publishedDateTime: 2023-06-07T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/google-mayo-clinic-launch-generative-artificial-intelligence-collab"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
 secured: "dR/Upc2x+5z4PSGrf6PcSI2CRbA5slRIFF/52G0fvn1cHn/bOQnvwUZx6xYsTglsDtyiP3gqrx6Rr5hGec5A8MjQ9CrSgMEaDXfsij7/hZHcivI97Pr9pBNu2UCvZ4Iyj8cPberIhtt/alxBujOQxLLfFmN/aR3oWh1qPvtciBC9Wbc1MyoL3ir5yqET5LAbz6dekXmjcGejK+gqDKo5OW+YaV0EcMKLmyPeFD59ZepUKiZMaNeLp8vQxkS0tONODMuN6V1CSPXDiiza0Bz/jRY0lbi96L5Z6QipmQLDOo8KvOnXpZnasu/M/nFQWksr5XyQvwPsNfcC8VuuRoIEPgHhueCNQDQDGJRLunHFHYQ=;n55PyY6PisBkLq2efmFtGg=="
 ---

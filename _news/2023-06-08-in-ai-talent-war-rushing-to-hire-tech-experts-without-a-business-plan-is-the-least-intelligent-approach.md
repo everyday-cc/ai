@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Disruption in FinTech: Exploring the Impact of AI-powered Tools Like IndexGPT"
-    excerpt: "AI's use cases in fintech continue to grow, from data analysis to customer service. New sophisticated tools like IndexGPT are being developed."
-    publishedDateTime: 2023-06-05T10:35:00Z
-    webUrl: "https://www.techopedia.com/ai-in-fintech-exploring-the-impact-of-tools-like-indexgpt"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 34
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/02/benefits-of-cloud-computing-3.jpg"
-        width: 810
-        height: 432
-        isCached: true
 
 secured: "R52AMoulEql9bArSJW+lWqk2PVwto00myOW5zr3JAJUlpQ3J7G1scviZPL2UmDeqaags/k1S74wNDYKVhFM15KOSDPPfqD4GEp94BJ+9ws2/9egeRsvIJTETMNuH96iTypz5v8mjcpMLDEEu/HP9u3M4zPNsImO1asclpsfYUlwZ5NJKrW7FY57S6Y3QP4TqVOEDHiH5Qx2SD0BogIan1qrkdIaVGrn+OmIddwiQaXAOSUFHSTDSoz08VViKHocYJo/QS5st6TtSC/VwGhF8B9dAUA35Eo8fY87S/kpC6KUofBg7EB8plleTf4KgQ10kVkAVRFQU7N1yDDOCQYnGuFXKXL/eAmiH4Lqpuo5vq4c=;nRU9wtnHLhoniHC6AZ/BDA=="
 ---

@@ -28,34 +28,93 @@ images:
     isCached: true
 
 related:
-  - title: "Introducing Google’s Secure AI Framework"
-    excerpt: "Today Google released released the Secure AI Framework to help collaboratively secure AI technology."
-    publishedDateTime: 2023-06-08T16:00:00Z
-    webUrl: "https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/"
+  - title: "5 Strategies For Implementing AI Technology In Healthcare"
+    excerpt: "Here are five ways in which leaders healthcare leaders should seek out opportunities to implement AI solutions in their operations."
+    publishedDateTime: 2023-06-06T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
-        width: 1000
-        height: 1000
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647e0a794fed9a2fd7d81907/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 738
         isCached: true
-  - title: "Google’s Secure AI Framework: A good start, but a lot of work ahead"
-    excerpt: "Google plans to work closely with government standards agencies to help develop the industry's first AI certification standard."
-    publishedDateTime: 2023-06-09T20:25:00Z
-    webUrl: "https://www.scmagazine.com/news/emerging-technology/google-secure-ai-framework"
+  - title: "How AI Can Address The Crisis In Healthcare Labor Costs"
+    excerpt: "AI creates exciting possibilities in healthcare, and it’s tempting to fixate on the sexiest use cases. A much nearer-term opportunity lies in addressing labor costs."
+    publishedDateTime: 2023-06-07T09:45:00Z
+    webUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2023/06/0608_artificial_intelligence.jpg"
-        width: 1280
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647fd04bcc09b43b71595934/0x0.jpg?format=jpg&width=1200"
+        width: 633
+        height: 322
+        isCached: true
+  - title: "The Impact Of AI On Strategy Games"
+    excerpt: "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development."
+    publishedDateTime: 2023-06-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
         height: 800
         isCached: true
+  - title: "IIT-BHU showcases efforts in healthcare and AI"
+    excerpt: "Varanasi: The Indian Institute of Technology (BHU) displayed its efforts in the areas of healthcare, biomaterials and artificial intelligence at the t."
+    publishedDateTime: 2023-06-08T03:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/articleshow/100836651.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
+  - title: "DPO Centre Shares Opinions About the New Technologies in the Healthcare Sector"
+    excerpt: "2023 — The healthcare industry is on the brink of a technological revolution that promises to reshape patient care, enhance outcomes, and lower costs. Seven emerging technologies are at the forefront of this transformation: Artificial Intelligence (AI ..."
+    publishedDateTime: 2023-06-09T14:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector-1032380181"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/1685615763869-0.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "AI Chatbots Are Causing Bank Customers Headaches"
+    excerpt: "Banks are implementing AI chatbots into their operations as a cost-cutting measure, but the Consumer Financial Protection Bureau says some bots are causing frustrations for customers."
+    publishedDateTime: 2023-06-06T18:19:00Z
+    webUrl: "https://www.cnet.com/personal-finance/ai-chatbots-are-causing-bank-customers-headaches/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 64
 
 secured: "vz9qhjs0tNuHMToUnkcanUeGPpqPBa4mpal1pFTyrkQmD2mmtLza/ZYUl5KSp+1MiMN7UaqiLqGDk7yYZfI6knt7IiYpSe+oQFK3HwWUohmNiw7pbf5VoWwcd1yssJcQC909lHheAyEFjbW7jtbwjlQBEJBnTSYi2WY+BxI8a82Xe2xJCwuD+YYnLRpvpBEq15ryt7uO/AVcFo6rcqa5In6gXHyfmmFBi2qv1Y19uYW5gTb+qkQcxds20T2/ajzMk0aOqfpilA845GloDro6Taihwf/CZKN7Sc61nwC47WFqXSOB536A/twYa9AliroUHm01dtXy4GJ5fh7HlQUA02GKNeaC8qAVMNeK/mxc+pqwDZcngB5riGXBRWLGG5l1FStFO2h4JvJ7bZzXj3h/QhiQfLmyz8Ha1Ahevd4WOeHVALjR1FOwuGWsfRYNXRfBxzaLQTvMkCqyMRYylTPCeP42ghB5ngA3DztIyu7RJ2wI6v8n3VbjdExplnJZ2TQ/6JEl0JKuLED0XIHZInyC3g==;4TuNGAEyCVbh2Tt4VGslpg=="
 ---

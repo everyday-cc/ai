@@ -10,7 +10,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32799034/artificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-1-53-billion-by-2028-a",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -88,58 +88,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-09-dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector.md",
-      "title": "DPO Centre Shares Opinions About the New Technologies in the Healthcare Sector",
-      "excerpt": "2023 — The healthcare industry is on the brink of a technological revolution that promises to reshape patient care, enhance outcomes, and lower costs. Seven emerging technologies are at the forefront of this transformation: Artificial Intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector-1032380181",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector-1032380181",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/1685615763869-0.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-08-hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government.md",
       "title": "Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence to accelerate AI adoption in government",
       "excerpt": "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Chairman of The Executive Council of Dubai and Chairman of the Board of Trustees of the Dubai Future Foundation, t",
@@ -148,7 +96,7 @@
       "originalUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -169,49 +117,6 @@
       "provider": {
         "name": "Emirates247",
         "domain": "emirates247.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-iit-bhu-showcases-efforts-in-healthcare-and-ai.md",
-      "title": "IIT-BHU showcases efforts in healthcare and AI",
-      "excerpt": "Varanasi: The Indian Institute of Technology (BHU) displayed its efforts in the areas of healthcare, biomaterials and artificial intelligence at the t.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/articleshow/100836651.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/articleshow/100836651.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms",
-      "publishedDateTime": "2023-06-07T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -278,6 +183,110 @@
       ]
     },
     {
+      "path": "_news/2023-06-07-sensiai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare.md",
+      "title": "Sensi.AI and Flint Capital speak on developing and deploying AI solutions in healthcare",
+      "excerpt": "Romi Gubes, the CEO of Sensi.AI, spoke on a recent TechCrunch Live episode about how her company is enabling privacy-preserving, in-home remote patient monitoring.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/",
+      "originalUrl": "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1074257938.jpeg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/",
+      "publishedDateTime": "2023-06-06T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-5-strategies-for-implementing-ai-technology-in-healthcare.md",
+      "title": "5 Strategies For Implementing AI Technology In Healthcare",
+      "excerpt": "Here are five ways in which leaders healthcare leaders should seek out opportunities to implement AI solutions in their operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647e0a794fed9a2fd7d81907/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/",
+      "publishedDateTime": "2023-06-06T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-the-future-of-education-disruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5.md",
       "title": "The Future Of Education - Disruption Caused By AI And ChatGPT: Artificial Intelligence Series 3 Of 5",
       "excerpt": "It is crucial for educational systems to adapt quickly and integrate AI into teaching/learning. However, educational systems are slow to adapt and full of bureaucracies.",
@@ -286,7 +295,7 @@
       "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 198,
       "tags": null,
       "images": [
         {

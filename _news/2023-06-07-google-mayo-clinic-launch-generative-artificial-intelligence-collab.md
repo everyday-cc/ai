@@ -239,6 +239,15 @@ related:
       name: IPWatchdog
       domain: ipwatchdog.com
     quality: 31
+  - title: "Google Cloud Collaborates with Mayo Clinic to Transform Healthcare with Generative AI"
+    excerpt: "Google Cloud today announced a collaboration with Mayo Clinic to transform healthcare with generative AI, starting with Enterprise Search in Generative AI App Builder (Gen App Builder ), to improve the efficiency of clinical workflows,"
+    publishedDateTime: 2023-06-07T09:12:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9827972.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
   - title: "4 Keys to Executing Generative AI"
     excerpt: "Generative artificial intelligence (AI) has captured the attention of health care providers and payers focused on reimagining care delivery."
     publishedDateTime: 2023-06-06T12:19:00Z

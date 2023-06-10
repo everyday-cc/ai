@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Yet another article on artificial intelligence"
-    excerpt: "My original article said they really should put the brakes on this experiment for a while, but I didn’t declare an emergency. We’ve been hearing warnings about AI taking over since the first “Terminator” movie 39 years ago,"
-    publishedDateTime: 2023-06-05T10:00:00Z
-    webUrl: "https://www.bangordailynews.com/2023/06/05/opinion/opinion-contributor/artificial-intelligence-warnings/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 37
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2023/06/Europe-AI-Rules.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Surging stockmarkets are powered by artificial intelligence"
     excerpt: "D o you buy the hype? The release of Chat gpt, a tool designed by Open AI, has kicked off a wave of enthusiasm about artificial intelligence ( ai ). Everyone from spy agencies to law firms is trying to make use of the technology. And investors are working out how they might be able to take advantage of this by buying ai -exposed firms."
     publishedDateTime: 2023-06-07T20:12:00Z

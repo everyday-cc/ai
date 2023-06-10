@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolution
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 117
 published: true
 
 provider:

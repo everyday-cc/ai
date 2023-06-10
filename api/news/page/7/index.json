@@ -2,57 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-06-05-american-pie-icon-don-mclean-on-ai-itll-be-better-than-what-passes-itself-off-as-music-today.md",
-      "title": "'American Pie' icon Don McLean on AI: 'It'll be better than what passes itself off as music today'",
-      "excerpt": "Don McLean, musician, songwriter and creator of \"American Pie\" and other iconic songs, spoke at length to Fox News Digital about artificial intelligence and his views of the new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music",
-      "originalUrl": "https://www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music.amp",
-      "publishedDateTime": "2023-06-04T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-05-kamala-harris-cant-be-trusted-with-ai-regulation.md",
       "title": "Kamala Harris can't be trusted with AI regulation",
       "excerpt": "Kamala Harris can't be trusted with AI regulation. Rules for rapidly growing area of technology must be handled by a panel of experts, not the vice president.",
@@ -1212,6 +1161,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-the-latest-paris-fashions-in-fintech.md",
+      "title": "The Latest Paris Fashions (In Fintech)",
+      "excerpt": "I was flattered to be invited to chair the keynote panel on new business models for banking at the Paris Fintech Forum 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/",
+      "originalUrl": "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647a271e4865d126400b6f29/0x0.jpg?format=jpg&crop=2830,1591,x0,y50,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/amp/",
+      "publishedDateTime": "2023-06-02T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

@@ -23,38 +23,77 @@ topics:
   - AI
 
 related:
-  - title: "The Transformative Power of Artificial Intelligence in Everyday Life"
-    excerpt: "Artificial intelligence (AI) has become an integral part of our lives, revolutionizing the way we work, communicate, and navigate the world around us. | The Eastern Herald"
-    publishedDateTime: 2023-06-07T08:40:00Z
-    webUrl: "https://www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/"
-    ampWebUrl: "https://www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/?amp=1"
-    cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/?amp=1"
+  - title: "Comparing And Contrasting AI And Human Translation"
+    excerpt: "Translation plays a crucial role in bridging the gap between different languages and cultures. Traditionally, human translators have been the go-to choice for accurate and nuanced translations. However, AI translation, a blossoming subfield of natural ..."
+    publishedDateTime: 2023-06-05T14:17:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/"
     type: article
     provider:
-      name: The Eastern Herald
-      domain: easternherald.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://imagedelivery.net/-CGPfOWoVHcRcTbwHaRGUQ/www.easternherald.com/2023/06/Transformative-Power-of-Artificial-Intelligence-google-news.png/w=1000"
-        width: 1000
-        height: 667
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647a000b5e40ece5fb13b283/0x0.jpg?format=jpg&width=1200"
+        width: 931
+        height: 620
         isCached: true
-  - title: "‘The change in pace is crazy’: AI boosts climate information translation drive"
-    excerpt: "Google-designed tools help 9,000 young Climate Cardinals volunteers who translate reports into more than 100 languages"
-    publishedDateTime: 2023-06-06T11:46:00Z
-    webUrl: "https://www.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
-    ampWebUrl: "https://amp.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
+  - title: "Job listings asking for generative AI skills are soaring, analysis finds"
+    excerpt: "The average advertised salary for jobs citing generative AI skills is $146,244, according to job search engine Adzuna."
+    publishedDateTime: 2023-06-07T08:46:00Z
+    webUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
     images:
-      - url: "https://i.guim.co.uk/img/media/6d96369fed528786fee85861cdd1e64be1385984/248_12_2494_1496/master/2494.jpg?width=620&quality=85&auto=format&fit=max&s=a2e0307b75908dbf804bc3afb47abb58"
-        width: 620
-        height: 372
+      - url: "https://i.insider.com/647df19740bf000019fa30c1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "10 Companies Using Artificial Intelligence (AI) in a Compelling Way"
+    excerpt: "AI is changing the way many companies operate. Learn about how some of the biggest companies in the world are using AI."
+    publishedDateTime: 2023-06-06T15:34:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/AI_artificial_intelligence_robots_working_offi.width-600.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Human Powered AI Meromai Launches, Bringing Crowdsourced Human Curation to Artificial Intelligence while Rewarding Contributors"
+    excerpt: "Meromai, the decentralized human-powered AI platform, launches today, promising to change the way people work, shop, play, and interact with the world -"
+    publishedDateTime: 2023-06-08T17:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/g32784356/human-powered-ai-meromai-launches-bringing-crowdsourced-human-curation-to-artificial-intelligence-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32784356"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32784356"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "From Integrating AI To Strictly Protecting Client Data, How Online Education Company Amesite Inc Is Doing Things Differently To Disrupt Learning"
+    excerpt: "As an online platform and product developer powered by artificial intelligence (AI), Amesite is positioning itself to disrupt ... In 2022 Amesite started a collaboration with Microsoft for the use of its Azure cloud, and it was featured in a story on ..."
+    publishedDateTime: 2023-06-07T13:11:00Z
+    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/06/32756767/from-integrating-ai-to-strictly-protecting-client-data-how-online-education-company-amesite-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "n6GgtchQRGgkJ2giI+U7wyI/WT9ZwqQ30wIfqDkmNlI6xRr1RGvVAqUekdz5WDuqjAUJDd8Y9hs2Oz+0J8poJiSKemedI7JXCAZJt0mi+xJtafGNbsxte3/4M1F20q+doGU8+q6hEue4+l4d1ESr5PGW1HeBzcSMvEsr0Nk4Ca3JkCPVWZm/TVWuaaxiH/oiCjU9LYSdMglOGtN60UFUZM2vEyGpP7gOV/j0mH5zPk0jQiywrbRm7Z/ihyqLY7EuoxnQp35unJOgPvxjlC+k588EBB0LnnXcGMHdNZEBNK3mmYxRRQDL26vBlM6qw0Fa9vJ+L0/G728NnM19LmvKwy36oEtW0J1s+wB8mXaZilQ=;OsRkOLLwLT7/D7tA1LPfuA=="
 ---

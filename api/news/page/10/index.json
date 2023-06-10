@@ -2,57 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2023-06-01-what-ai-cant-do-and-what-great-leaders-will-do.md",
-      "title": "What AI Can’t Do And What Great Leaders Will Do",
-      "excerpt": "As AI masters language, it will more easily fool us; reconnecting with the bodily resonance of language helps leaders put AI in service of life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/",
-      "originalUrl": "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6478ab86174558bfeb7b69d9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/amp/",
-      "publishedDateTime": "2023-06-01T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-ai-terminology-101-transformer-networks-revolutionizing-natural-language-processing-and-beyond.md",
       "title": "AI TERMINOLOGY 101: Transformer Networks - Revolutionizing Natural Language Processing and Beyond",
       "excerpt": "Traditional NLP models struggled to capture long-range dependencies and contextual relationships in language due to their ... relevant words or phrases while processing input.",
@@ -92,6 +41,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
+      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
+      "publishedDateTime": "2023-06-01T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -915,49 +907,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
-      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
-      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106",
-      "publishedDateTime": "2023-05-31T22:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-singapore-regulator-says-ai-is-focus-of-marquee-fintech-festival.md",
       "title": "Singapore Regulator Says AI is Focus of Marquee Fintech Festival",
       "excerpt": "Artificial intelligence will take center stage at Singapore’s annual fintech event in November, underscoring the growing significance of the technology.",
@@ -1144,6 +1093,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-crypto-rues-bitcoins-decoupling-from-ai-fueled-tech-stock-gains.md",
+      "title": "Crypto Rues Bitcoin’s Decoupling From AI-Fueled Tech Stock Gains",
+      "excerpt": "Crypto fans are now paying a price for Bitcoin’s weakened correlation with technology stocks. The top digital asset posted a monthly slump in May for the first time in 2023, while the Nasdaq 100 added almost 8% amid hype over artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-01/crypto-rues-bitcoin-s-btc-decoupling-from-ai-fueled-tech-stock-gains",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-01/crypto-rues-bitcoin-s-btc-decoupling-from-ai-fueled-tech-stock-gains",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUwJ9FEJpp60/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -25,43 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "UBS: Buy these 53 stocks that could rise at least 20% as they profit from the AI revolution"
-    excerpt: "UBS says investors who want exposure to the rise of the artificial intelligence industry should buy these 53 stocks with at least 20% upside."
-    publishedDateTime: 2023-06-05T09:30:00Z
-    webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-ubs-2023-6"
+  - title: "AI chips are hot: Here's why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make"
+    publishedDateTime: 2023-06-05T15:04:00Z
+    webUrl: "https://www.news-journal.com/news/business/ai-chips-are-hot-heres-why-investors-see-gold/article_6d44afb2-03b2-11ee-bc1f-e72181d9132a.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 54
     images:
-      - url: "https://i.insider.com/647a410440bf000019fa14d0?width=1200&format=jpeg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Buy these 6 semiconductor stocks that offer upside as they fuel the AI revolution, Bernstein says"
-    excerpt: "While other companies hog the headlines, semiconductor makers are sitting on big upside as people go all-in on AI."
-    publishedDateTime: 2023-06-05T16:44:00Z
-    webUrl: "https://www.businessinsider.com/semiconductor-ai-artificial-intelligence-stock-picks-to-buy-investing-wave-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://i.insider.com/647a495f92151200199f5ef3?width=1200&format=jpeg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/77/d7709f22-03b2-11ee-a124-0bc30dd5c12e/647dfa9936f24.image.jpg?crop=1646%2C864%2C0%2C196&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Caution! 3 AI Stocks That Could Run Out of Steam in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is the buzzword of 2023, and that has AI"
-    publishedDateTime: 2023-06-08T10:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/caution-3-ai-stocks-that-could-run-out-of-steam-in-2023-1032378039"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "l+7Z6L+PY1rlk6J6IfHzUfz/pNdAxBFMc/tO5p+ArJZfyjXqPORXYG6fnFhDv1x9u1l4dXGGmOmrLkRwgqJrpYnWpe2X3cp89aPyuzhyAI4mXDvsb4xmoVRUpBsGzXLyJ1+xHSilr7HhDX6q74nnj6JKhKOZbiSOPchbI8XdvjhoOxqCup9vkMuBjuGfHkeHY9Neop21xsCLK1MKzMIR08OogwNHkwKb0+9MTnAjgxHTSN0E1hmgpqMM91650I3+5mdhRuZS2rvuXpnXgtJ1zPGBzl0i+7A2KIk9UXShV64PKiytLsB+eBMqaju6rBpFZUONvBPokiWJ69vQYwL+GY1hkXxlwrnviHADe7AXH+w=;ypdbJGxNf2suFHXaFYrK4g=="
 ---

@@ -2,49 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2023-05-25-ai-startup-figure-raises-95-million-to-build-humanoid-robots.md",
-      "title": "AI startup Figure raises $95 million to build humanoid robots",
-      "excerpt": "Figure, a startup that wants to build general-purpose humanoid robots, has raised US$70 million (S$95 million) from investors led by Parkway Venture Capital in its first external round ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/digital/ai-startup-figure-raises-95-million-build-humanoid-robots",
-      "originalUrl": "https://www.asiaone.com/digital/ai-startup-figure-raises-95-million-build-humanoid-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2023/20230525_AI_reuters.jpg?h=c6450fd3&itok=0esVRwlp",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-25-microsofts-2023-imagine-cup-phl-empowers-next-generation-of-filipino-innovators.md",
       "title": "Microsoft’s 2023 Imagine Cup PHL empowers next generation of Filipino innovators",
       "excerpt": "Imagine Cup, Microsoft’s premier student technology competition, has once again drawn the attention of young and aspiring tech enthusiasts from all over the world. In the Philippines, student-teams from",
@@ -1232,6 +1189,40 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-facebook-open-sources-two-billion-parameter-multilingual-speech-recognition-model-xls-r.md",
+      "title": "Facebook Open-Sources Two Billion Parameter Multilingual Speech Recognition Model XLS-R",
+      "excerpt": "Facebook AI Research (FAIR) open-sourced XLS-R, a cross-lingual speech recognition (SR) AI model.XSLR is trained on 436K hours of speech audio from 128 languages, an order of magnitude more than ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/01/facebook-multilingual-speech-rec/",
+      "originalUrl": "https://www.infoq.com/news/2022/01/facebook-multilingual-speech-rec/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

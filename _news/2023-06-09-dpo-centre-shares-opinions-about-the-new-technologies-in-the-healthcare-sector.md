@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/dpo-centre-shares-
 webUrl: "https://markets.businessinsider.com/news/stocks/dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector-1032380181"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,20 +29,93 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai to establish first integrated centre to attract artificial intelligence companies"
-    excerpt: "The sources indicated that the Dubai Multi Commodities Centre (DMCC) will be the headquarters and destination for new emerging companies in the technology and artificial intelligence sector, which are looking for new markets for them in the region,"
-    publishedDateTime: 2023-06-07T20:43:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/06/07/dubai-to-establish-first-integrated-centre-to-attract-artificial-intelligence-companies"
+  - title: "5 Strategies For Implementing AI Technology In Healthcare"
+    excerpt: "Here are five ways in which leaders healthcare leaders should seek out opportunities to implement AI solutions in their operations."
+    publishedDateTime: 2023-06-06T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/"
     type: article
     provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 46
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2019/12/29/dubai-property-750.ashx?h=450&w=750&hash=AF2A133D845714D6DAC80260444D29A9"
-        width: 750
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647e0a794fed9a2fd7d81907/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 738
         isCached: true
+  - title: "How AI Can Address The Crisis In Healthcare Labor Costs"
+    excerpt: "AI creates exciting possibilities in healthcare, and it’s tempting to fixate on the sexiest use cases. A much nearer-term opportunity lies in addressing labor costs."
+    publishedDateTime: 2023-06-07T09:45:00Z
+    webUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647fd04bcc09b43b71595934/0x0.jpg?format=jpg&width=1200"
+        width: 633
+        height: 322
+        isCached: true
+  - title: "The Impact Of AI On Strategy Games"
+    excerpt: "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development."
+    publishedDateTime: 2023-06-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IIT-BHU showcases efforts in healthcare and AI"
+    excerpt: "Varanasi: The Indian Institute of Technology (BHU) displayed its efforts in the areas of healthcare, biomaterials and artificial intelligence at the t."
+    publishedDateTime: 2023-06-08T03:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/articleshow/100836651.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
+  - title: "Introducing WE LAB's AI Technology for Fashion Production"
+    excerpt: "WE LAB introduces AI technology for fashion design. The product generates design references, provides targeted guidance, and offers a complete"
+    publishedDateTime: 2023-06-06T09:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-we-lab-s-ai-technology-for-fashion-production-1032371696"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/OLq1WBMwTLSvW1ZZhfqBwehSLb93/1686018825067-0.png"
+        width: 800
+        height: 389
+        isCached: true
+  - title: "AI Chatbots Are Causing Bank Customers Headaches"
+    excerpt: "Banks are implementing AI chatbots into their operations as a cost-cutting measure, but the Consumer Financial Protection Bureau says some bots are causing frustrations for customers."
+    publishedDateTime: 2023-06-06T18:19:00Z
+    webUrl: "https://www.cnet.com/personal-finance/ai-chatbots-are-causing-bank-customers-headaches/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 64
 
 secured: "cPpFXHUBx7IVSWtXJ9lD6aWQ94X3pbwUF+4T1JKbPLLItw8CaeiCscqoXgU/4jwsHbtPpLuou7UNoTy749WozN/gmwu0C5brdYT6r1nLaTUwpYSmE1xTmawAea5v6adzUoIyYyCflPsnUFPZzoR5X2V1b2WKzCQDgYE4RHWS59uF8SSb9W19d8I88XdeXZCoVIOVIWyCUagmbszQyYmVnN9vNt0X+mutDcA6Wb4rta9mkL4KIpzOWQd+VK/ha7fn/2HUaqxWN2/0RHUxtaERWMiUhtmvIcbo74ks5lt8a5imlJjKg148ozZvsRnE1MDqlTEBYykAsdRHBR86y/47NXa2hjzD0Q5+1pLZlJLiLcc=;Yt+nN5rw2lCH8yVYBN6wxw=="
 ---

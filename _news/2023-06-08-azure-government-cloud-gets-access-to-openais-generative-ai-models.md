@@ -42,7 +42,7 @@ related:
   - title: "OpenAI CEO calls for global cooperation to regulate AI"
     excerpt: "Sam Altman, the CEO of ChatGPT maker OpenAI, used a high-profile trip to South Korea on Friday to call for coordinated international regulation of generative artificial intelligence, the technology that underpins his famous chatbot."
     publishedDateTime: 2023-06-09T11:47:00Z
-    webUrl: "https://www.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+    webUrl: "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
     type: article

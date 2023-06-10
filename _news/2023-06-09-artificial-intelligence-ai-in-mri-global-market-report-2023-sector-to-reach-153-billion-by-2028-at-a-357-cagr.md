@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32799034"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32799034"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Military Market Research"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Natural Language Processing), Platform (Airborne, Land, Space), Application,"
-    publishedDateTime: 2023-06-07T23:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-military-market-research-report-/2023/06/07/9828815.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Autonomous Mobile Robot Market is Set to Globally Reach $18.9 Billion by 2032 at 21.8% CAGR: Allied Market Research"
     excerpt: "Allied Market Research published a report, titled, \"Autonomous Mobile Robot Market by Type (Goods to Person Picking Robots, Self Driving Forklifts, Autonomous Inventory"
     publishedDateTime: 2023-06-06T16:31:00Z

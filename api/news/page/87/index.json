@@ -2,49 +2,6 @@
   "page": 87,
   "value": [
     {
-      "path": "_news/2023-04-17-ai-could-have-a-14-trillion-impact-by-2030-here-are-3-top-stocks-to-buy-now.md",
-      "title": "AI Could Have a $14 Trillion Impact by 2030: Here Are 3 Top Stocks to Buy Now",
-      "excerpt": "Artificial intelligence has been all the rage lately, capturing the imagination of consumers and investors alike. Ark Invest estimates the opportunity from AI at $14 trillion by 2030. Palantir ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/16/ai-trillion-dollar-impact-2030-top-stocks-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/16/ai-trillion-dollar-impact-2030-top-stocks-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-17-posts-tagged-aws-artificial-intelligence-and-machine-learning-practice-lead.md",
       "title": "Posts tagged \"AWS Artificial Intelligence and Machine Learning Practice Lead\"",
       "excerpt": "Download this eBook to look at each of these trends to give you background on why AI and ML is so powerful today, how businesses are using it responsibly and to their benefit, and how the ...",
@@ -1150,6 +1107,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-15-thailand-uses-facial-recognition-technology-in-disease-control.md",
+      "title": "Thailand uses facial recognition technology in disease control",
+      "excerpt": "Eye and facial recognition technology will be used in a pilot project in Thailand, aimed at improving healthcare services for foreign workers, refugees and ethnic people in five provinces, the Thai Department of Disease Control has said.",
+      "sourceUrl": null,
+      "webUrl": "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.vnp",
+      "originalUrl": "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.vnp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2023_04_15/thailand.jpg",
+          "width": 660,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.amp",
+      "cdnAmpWebUrl": "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/thailand-uses-facial-recognition-technology-in-disease-control/251608.amp",
+      "publishedDateTime": "2023-04-15T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VietnamPlus",
+        "domain": "vietnamplus.vn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

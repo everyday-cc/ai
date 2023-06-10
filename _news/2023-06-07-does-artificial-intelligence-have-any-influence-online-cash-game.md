@@ -18,22 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "The Impact Of AI On Strategy Games"
-    excerpt: "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development."
-    publishedDateTime: 2023-06-08T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+  - title: "How Machine Learning is Transforming Online Card Game in India"
+    excerpt: "Machine learning, a subset of artificial intelligence, has gained significant traction in various industries. One such sector where machine learning is making a remarkable impact is online gaming. Specifically,"
+    publishedDateTime: 2023-06-06T18:32:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/06/06/456090-how-machine-learning-transforming-online-card-game-india.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "Gu+K1CYHT6N1jFYcXMHYjayGHkB0wXgjUOMJPPq+J+PmZVB0k8wS/Xhlu/yv5/fhQ/bgRH1MXoP8FbMc9JR1wInqjeV29ePG6rhYUx4Qi7OajOxu0iNaLDoO2kScLPJL02ll8QeFOg6irC3xIt4e8uUDoqFOiC4hK8TUvCKUlDIOe5kW2c8g4fO8iTCElFqcuHnF8cJvCMG56u2xGuX/HoTlcQ8oGic0qNYs5iFzpNCDpdWiTSMKGgRSll9k8Los03XwFWKQ0sGWzjYz4RVjgNpy+7C93/uXPvsqOZEcjYL7lee2yup0iQOfdwK0LUBJdYqNlJJpPQSHRhc/Zcexkjz1G/1dwKugMR44D7y2P9E+Pcaq5qYV01JuhgamPYaZpqLjOBdD4AvkbmpmArOB5duqeOs0ICs5OWnC+YiuEo0pwfHlMd9qtSEi+vxEL7BLygXZ/3o212KZWdFmlOCKXQOkfq9kAdg+QhVks/r91xSjsguIOv7G5hszk+cByK8q4RCSxjI9ZUWIA19hhNobrw==;RzDJWGcweJbzJqzHMqoE1Q=="
 ---

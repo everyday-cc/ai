@@ -38,20 +38,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Introducing WE LAB's AI Technology for Fashion Production"
-    excerpt: "WE LAB introduces AI technology for fashion design. The product generates design references, provides targeted guidance, and offers a complete"
-    publishedDateTime: 2023-06-06T09:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-we-lab-s-ai-technology-for-fashion-production-1032371696"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/OLq1WBMwTLSvW1ZZhfqBwehSLb93/1686018825067-0.png"
-        width: 800
-        height: 389
-        isCached: true
 
 secured: "gkXmkpKHOwkGhBVkYdm03Vz51FYAdPIhh4Tkfj8XkxhexdaHbzhtPpW0pGE3Mezli/OblewTWaewElEnHY2btUk1bNAQy9LXlQ56LLAN0GtZ+L4+6EAAgzPJmTmpFa/mzbrTH6nICt3Nht9P9O+RDcWBwIzQGzqqo9tyQbn9qPtTIHYOVn+xy2NH/Xb+dWcJJP6N4BKJMr8p6R+kifMf0DxeHrADRcBRliN2SbUMI7HPNlnnrLXzpwT84uq+vTqNK1JeqWP09vdegtx14FZgH3quyHesUd0aKS2hJ2ocsPbESKt2ynGs7LB6VS7tVuunqhR6OtvQFf0crg/Q0T3QoHwoX6CdM+UhTeLVr76PqU1c1rfob3wlktjuqC4QT7grnIs5X7+Gp35HLg/Ebvr9MF9riWL5wLGlt1Q3JFUvztIbkZXy5LNFduNubv/cfJztVtPqqOw6Aw/VrmRAVlSCtok5aFGUjT+7MktkixUOR65LkaIhCGwS0JTOk76to72cbAtNyXutlDDL2omyAG5t/g==;ZZYHQbc9wbX5AXGOTNetwg=="
 ---

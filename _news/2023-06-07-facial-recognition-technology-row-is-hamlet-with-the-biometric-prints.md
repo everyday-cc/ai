@@ -7,7 +7,7 @@ originalUrl: "https://www.irishtimes.com/opinion/2023/06/07/facial-recognition-t
 webUrl: "https://www.irishtimes.com/opinion/2023/06/07/facial-recognition-technology-row-is-hamlet-with-the-biometric-prints/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Smartmeric to embed AI into biometric credit card"
-    excerpt: "While the company is close to releasing its advanced premium fingerprint biometric activated credit card the company’s engineers are now working on adding embedded AI into the card’s electronics."
-    publishedDateTime: 2023-06-05T11:01:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97119/smartmeric-to-embed-ai-into-biometric-credit-card"
+  - title: "Law firm highlights how facial recognition technology landed fraudster with £51,000 bill"
+    excerpt: "Investment into facial recognition technology by law firm Clyde and Co and Axa UK led to a motorist who issued a fraudulent claim having to stump up more than £50,000. Ashley Copley – a 26-year-old hospitality worker from Barnsley – was found to have lied about a witness to an accident he was involved in being independent."
+    publishedDateTime: 2023-06-08T06:00:00Z
+    webUrl: "https://www.insurancetimes.co.uk/news/law-firm-highlights-how-facial-recognition-technology-landed-fraudster-with-51000-bill/1444771.article"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: Insurance Times
+      domain: insurancetimes.co.uk
+    quality: 30
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://d17mj6xr9uykrr.cloudfront.net/Pictures/1024x536/6/1/1/97611_facialrecognition_229168.jpg"
+        width: 1024
+        height: 536
         isCached: true
   - title: "SmartMetric to embed AI into biometric credit card"
     excerpt: "While the company is close to releasing its advanced premium fingerprint biometric activated credit card the company’s engineers are now working on adding embedded AI into the card’s electronics."

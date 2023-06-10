@@ -41,15 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Military Market Research"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Natural Language Processing), Platform (Airborne, Land, Space), Application,"
-    publishedDateTime: 2023-06-07T23:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-military-market-research-report-/2023/06/07/9828815.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Generative AI In Devops Market Predicted To Garner USD 22,100 Mn By 2032, At CAGR 38.20% | Report By Marketresearch.Biz"
     excerpt: "According to MarketResearch.biz , the generative ai in devops market size is projected to surpass around USD 22,100 Million by 2032, and it is poised to reach a registered CAGR of 38.20% from 2023 to 2032."
     publishedDateTime: 2023-06-08T07:45:00Z

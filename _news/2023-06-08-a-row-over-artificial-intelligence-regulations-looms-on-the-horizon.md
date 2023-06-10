@@ -60,6 +60,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 0
+  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
+    excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
+    publishedDateTime: 2023-06-09T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/268577"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 0
 
 secured: "li+XorZt0vx9wl34LNSieoeUj6yYw/2pUr836pocMvk+HVcLdrECt30m6HMFO8N7+gJpyyMYAA5dZZcvRzBKmwKYX1ou6qYLzgd5S1EItayLp+4M0Y4D5p8FmfIWcZmiTHTQTX4lD7CFV8s1WHOzlALB/D7lu/gljcCVM0Klw+1SQ+9yrVfP+xT1G0ZR+TbCwIQsIDHJcXvb0yGrzIwwxbBrX66VVAN6sy7deRre7HVR3bENE1r+tjj1PXpGu6JLTPdmW8uMZGruXZbieYnQNcWsVBPXf/urI6CTcCHRZTQP51dxzyCXALBcD76Qax8HmoqY6YH1kkGHj6mqfz9kNCaA1kkxRsw1wUd/ldfG4AZ1HS/3uerxaBNN1VXwrABuBhnubafFmrwE2F3QGkIFeDlFQ6sVu81yMW+ucsciMApTB3iFWbx5I+CClPG3S7aGK+mGUEUVsrh0rctEee1gs5Ycj3366h6oHShSS47CmsEcxPJFxLz/gb92lWL/CNUPQPZd+Cw6hrac6UL5BqapRQ==;UJxYQ7ga5JTmg7SIzrcPEA=="
 ---

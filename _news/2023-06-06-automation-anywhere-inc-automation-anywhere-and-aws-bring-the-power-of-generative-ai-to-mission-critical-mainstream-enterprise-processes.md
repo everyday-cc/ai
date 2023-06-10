@@ -60,6 +60,15 @@ related:
       name: oneesports
       domain: oneesports.gg
     quality: 11
+  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
+    excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
+    publishedDateTime: 2023-06-09T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/268577"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 0
 
 secured: "INY63v8cR+5PMnS842hVQNTrrGefKDChIlui3M9njYH9nwmyazawgJHJnzylMEbOLUoWqUVTf2R4NX3zVZ9AFJ4SGn0tVFx2fSw+nZDb8Nd64Ya28j0DXhfy8zTp//SdcSBr1cAZlXcpTTs0mhz1OtjcSxXmVpfh2Mp5tZ2zEBfwyDAYYWM/35KtOpqFJfaxI9324CGiuDXm8mw2I+gjkjkVL3OZu+OhHnJhLrLK2OafM1JOLfVnk5Ox2kxvbOD+ReNHEooaXh46kO8ejNuwuZ0AtaHn6aZ59L4D5UaMfIaylVD9MGTPfiKRlZn8T9FNk/TrrtApW3z42kBhbEGtXvuS/zi7/f0vrHmohvTWpTk=;R7+jEPxUFyXtH1o04sB/1A=="
 ---

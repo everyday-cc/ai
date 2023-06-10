@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fostering International Collaboration In AI In Healthcare"
-    excerpt: "Combining AI and robotics and healthcare with a mission to extend healthy human life. Meet Richard Yang, partner at Sinovation Ventures"
-    publishedDateTime: 2023-06-05T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647bdd7fddd81ae2fc13b283/0x0.jpg?format=jpg&width=1200"
-        width: 800
-        height: 1200
-        isCached: true
   - title: "5 Strategies For Implementing AI Technology In Healthcare"
     excerpt: "Here are five ways in which leaders healthcare leaders should seek out opportunities to implement AI solutions in their operations."
     publishedDateTime: 2023-06-06T11:45:00Z
@@ -63,180 +47,75 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Sensi.AI and Flint Capital speak on developing and deploying AI solutions in healthcare"
-    excerpt: "Romi Gubes, the CEO of Sensi.AI, spoke on a recent TechCrunch Live episode about how her company is enabling privacy-preserving, in-home remote patient monitoring."
-    publishedDateTime: 2023-06-06T22:04:00Z
-    webUrl: "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/"
-    ampWebUrl: "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/"
+  - title: "The Impact Of AI On Strategy Games"
+    excerpt: "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development."
+    publishedDateTime: 2023-06-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 96
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1074257938.jpeg?resize=1200,800"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Comparing And Contrasting AI And Human Translation"
-    excerpt: "Translation plays a crucial role in bridging the gap between different languages and cultures. Traditionally, human translators have been the go-to choice for accurate and nuanced translations. However, AI translation, a blossoming subfield of natural ..."
-    publishedDateTime: 2023-06-05T14:17:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/"
+  - title: "IIT-BHU showcases efforts in healthcare and AI"
+    excerpt: "Varanasi: The Indian Institute of Technology (BHU) displayed its efforts in the areas of healthcare, biomaterials and artificial intelligence at the t."
+    publishedDateTime: 2023-06-08T03:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/articleshow/100836651.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647a000b5e40ece5fb13b283/0x0.jpg?format=jpg&width=1200"
-        width: 931
-        height: 620
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
         isCached: true
-  - title: "How Computer Vision Is Driving Innovation Across Industries"
-    excerpt: "The fusion of AI and computer vision is reshaping countless sectors, ranging from healthcare and manufacturing to retail and transportation."
-    publishedDateTime: 2023-06-05T10:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/amp/"
+  - title: "Introducing WE LAB's AI Technology for Fashion Production"
+    excerpt: "WE LAB introduces AI technology for fashion design. The product generates design references, provides targeted guidance, and offers a complete"
+    publishedDateTime: 2023-06-06T09:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-we-lab-s-ai-technology-for-fashion-production-1032371696"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6479e7d30717c50fb50b6f29/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/OLq1WBMwTLSvW1ZZhfqBwehSLb93/1686018825067-0.png"
+        width: 800
+        height: 389
         isCached: true
-  - title: "Lack of trust slowing down AI revolution in medical settings: GE Healthcare report"
-    excerpt: "A new survey from GE Healthcare reveals that clinicians lack trust in AI when it comes to using the technology in medical settings."
-    publishedDateTime: 2023-06-06T20:30:00Z
-    webUrl: "https://venturebeat.com/ai/lack-of-trust-slowing-down-ai-revolution-in-medical-settings-ge-healthcare-report/"
+  - title: "DPO Centre Shares Opinions About the New Technologies in the Healthcare Sector"
+    excerpt: "2023 — The healthcare industry is on the brink of a technological revolution that promises to reshape patient care, enhance outcomes, and lower costs. Seven emerging technologies are at the forefront of this transformation: Artificial Intelligence (AI ..."
+    publishedDateTime: 2023-06-09T14:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector-1032380181"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/1685615763869-0.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Cashing in on AI chips"
-    excerpt: "There was an error generating the full edition PDF. Please try again later. Click and hold your mouse button on the page to select the area you wish to save or print ..."
-    publishedDateTime: 2023-06-08T09:03:00Z
-    webUrl: "https://richmond.com/eedition/richmond/page-a9/page_6ec8cd17-437c-5ace-8d63-1b347045ca58.html"
+  - title: "AI Chatbots Are Causing Bank Customers Headaches"
+    excerpt: "Banks are implementing AI chatbots into their operations as a cost-cutting measure, but the Consumer Financial Protection Bureau says some bots are causing frustrations for customers."
+    publishedDateTime: 2023-06-06T18:19:00Z
+    webUrl: "https://www.cnet.com/personal-finance/ai-chatbots-are-causing-bank-customers-headaches/"
     type: article
     provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/eedition/6/ec/6ec8cd17-437c-5ace-8d63-1b347045ca58/648153e60cd5b.preview-620.jpg?crop=620%2C326%2C0%2C478&resize=620%2C326&order=crop%2Cresize"
-        width: 620
-        height: 326
-        isCached: true
-  - title: "Merge unveils Blueprint, an AI-powered tool to enable easier API integrations"
-    excerpt: "Merge launches Blueprint, a tool that leverages OpenAI's GPT-3.5 LLM, allowing users to paste a link to the documentation of an API."
-    publishedDateTime: 2023-06-06T12:51:00Z
-    webUrl: "https://venturebeat.com/ai/merge-unveils-blueprint-an-ai-powered-tool-to-enable-easier-api-integrations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 44
-  - title: "Leveraging data for healthcare innovation in Africa"
-    excerpt: "Despite recent progress, Africa carries a disproportionate share of the global burden of disease, with rising rates of non-communicable diseases (NCDs)"
-    publishedDateTime: 2023-06-05T23:37:00Z
-    webUrl: "https://businessday.ng/columnist/article/leveraging-data-for-healthcare-innovation-in-africa/"
-    type: article
-    provider:
-      name: businessday
-      domain: businessday.ng
-    quality: 39
-    images:
-      - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2022/07/healthcare-1.png"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Singapore to encourage development of international AI standards by open sourcing AI Verify"
-    excerpt: "With the AI Verify toolkit, companies can generate testing reports that cover different governance principles for an AI system."
-    publishedDateTime: 2023-06-07T02:11:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/singapore-encourage-development-international-ai-standards-open-sourcing-ai-verify"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/focus/singapore-encourage-development-international-ai-standards-open-sourcing-ai-verify"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/focus/singapore-encourage-development-international-ai-standards-open-sourcing-ai-verify"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 29
-  - title: "Google Cloud Collaborates with Mayo Clinic to Transform Healthcare with Generative AI"
-    excerpt: "Google Cloud today announced a collaboration with Mayo Clinic to transform healthcare with generative AI, starting with Enterprise Search in Generative AI App Builder (Gen App Builder ), to improve the efficiency of clinical workflows,"
-    publishedDateTime: 2023-06-07T09:12:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9827972.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Nonprofit & Trade Association Industry"
-    excerpt: "Transforming the way we live and work. Within two months of its initial release to the public, ChatGPT reached 100 million monthly active users, making it the fastest-growing consumer application in h"
-    publishedDateTime: 2023-06-06T23:59:00Z
-    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-nonprofit-trade-association"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 24
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI_Artificial_Intelligence_Robot_SMALL_1_0.jpg?itok=Y8ZxQOUW"
-        width: 500
-        height: 333
-        isCached: true
-  - title: "Applications for conversational AI within the organisation"
-    excerpt: "OpenAI was established in 2015 and DeepMind in 2010. Both companies have been singularly focused on the potential and power of artificial intelligence (AI) and garnered significant media and consumer interest."
-    publishedDateTime: 2023-06-06T07:19:00Z
-    webUrl: "https://it-online.co.za/2023/06/06/applications-for-conversational-ai-within-the-organisation/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
-  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
-    excerpt: "Building on the momentum, Turacoz also hosted two consecutive webinars on \"Developing Scientific Publications Ethically in the Era of Generative AI (ChatGPT) \". These webinars provided participants with opportunities to explore the intersection o generative AI and scientific publications,"
-    publishedDateTime: 2023-06-07T13:42:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9828482.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/2095479/Generative_Artificial_Intelligence.jpg"
-        width: 399
-        height: 400
-        isCached: true
-  - title: "Healthcare Automation Market Top Participant To Focus On Regional Expansion | Aetna, Inc., Allscripts Healthcare Solutions, Cerner, Cigna Corporation."
-    excerpt: "The healthcare industry is rapidly adopting advanced technologies such as artificial intelligence (AI), robots, and medical imaging analytics to boost operational efficiency, reduce costs, and enhance service quality. Healthcare professionals and hospital ..."
-    publishedDateTime: 2023-06-08T12:40:00Z
-    webUrl: "https://www.medgadget.com/2023/06/healthcare-automation-market-top-participant-to-focus-on-regional-expansion-aetna-inc-allscripts-healthcare-solutions-cerner-cigna-corporation.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
-  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
-    excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
-    publishedDateTime: 2023-06-09T01:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/268577"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 0
+      name: CNET
+      domain: cnet.com
+    quality: 64
 
 secured: "dufxuHjQcuosQ7YYUxGAFQeqhtTzgrOjCDcEF1aoi8FKA5HpIz2emJV9iDj2a8Iup8qAkaoON30eV2QWGd4RGZ6OXmiOZvZip6aI8UjoVmsM7U8Cj5Jur2vUfNEztHge2VfgxxZ00Af+moQ1hvR8mF60oX+3m4BNxomTe+Yr8XD+NYrr9Cje2b16b03PgT5nTMUdiwiY4ex0PL3gp0RkATW3UDFNMmFtTCf/UmjqwBL/tRONE765AeYCVuO7CNJKSZSwSx+v61ftulJuPO4pjNuVcR7T3Q//Mt/edpgFW1fCqth9EskslUHdNFF8eZRYG6xJNdbR/cHlf23GFbsepS4/nvmW4ANTz8yy5RseaB8=;aSgwgx4iYJ1pBhYrtJmCFA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence
 webUrl: "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/"
 type: article
 quality: 119
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI Disruption in FinTech: Exploring the Impact of AI-powered Tools Like IndexGPT"
-    excerpt: "AI's use cases in fintech continue to grow, from data analysis to customer service. New sophisticated tools like IndexGPT are being developed."
-    publishedDateTime: 2023-06-05T10:35:00Z
-    webUrl: "https://www.techopedia.com/ai-in-fintech-exploring-the-impact-of-tools-like-indexgpt"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 34
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/02/benefits-of-cloud-computing-3.jpg"
-        width: 810
-        height: 432
         isCached: true
   - title: "In AI Talent War, Rushing to Hire Tech Experts Without a Business Plan Is the Least Intelligent Approach"
     excerpt: "And the reassuring news, according to Wang: “There’s not going to be a robot that’s going to walk up ... said that before jumping on the AI bandwagon, it’s important to start from square one with a plan in place. “If you’re hiring AI technical ..."

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and
 webUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
+    quality: 0
+  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
+    excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
+    publishedDateTime: 2023-06-09T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/268577"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
     quality: 0
 
 secured: "eubKUVBdUHb78K1RuIHsjvf3Lb5AhzSzH00gow+Ic8AA3B7hWXBr/iOsyz4+y3xxQiMJdCDQDKG5quSsfYYQUN6kvGk0QGN1ZXu7IXXpOn97w7ROjyBOK+0PWmCaH8H2JwA3OmzUV1BJCQKatclY/66xo6C+SE8VlqoP6UqvxtyDDPmCUUDBV6Bv7RXG7T/OUrsWy6ApkGGUSUZkSIy7UXCLcbsG222mnAb/FEUJgB3GWqL9x4HeI7B4shY9ltF07ty5XyvqFv1WSnuJ2t2CTh+6DHWtgK2sIIfo5qIxd/YBo+6HmdDnNajmsOxu9/nZKO6sr7PpS0wmDH6gtvQnWUuweeRhkRHgr34CAKsx9+4=;jfWBjl+hx2v2RZhpv5PgTw=="

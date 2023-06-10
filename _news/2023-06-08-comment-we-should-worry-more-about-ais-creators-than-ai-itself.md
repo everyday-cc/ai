@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Cashing in on AI chips"
+    excerpt: "There was an error generating the full edition PDF. Please try again later. Click and hold your mouse button on the page to select the area you wish to save or print ..."
+    publishedDateTime: 2023-06-08T09:03:00Z
+    webUrl: "https://richmond.com/eedition/richmond/page-a9/page_6ec8cd17-437c-5ace-8d63-1b347045ca58.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/eedition/6/ec/6ec8cd17-437c-5ace-8d63-1b347045ca58/648153e60cd5b.preview-620.jpg?crop=620%2C326%2C0%2C478&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
+        isCached: true
   - title: "Meta plans AI everywhere"
     excerpt: "On Thursday Mark Zuckerberg revealed his plans regarding AI to Meta employees during an all-hands meeting. An aggressive push forwards is based, he says, on “really incred"
     publishedDateTime: 2023-06-09T11:43:00Z

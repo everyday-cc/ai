@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/movie-stars-fight-for-higher-pay-act
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/movie-stars-fight-for-higher-pay-acting-ai-digital-doubles-2023-6?amp"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Hollywood actors seek new deal over use of AI ‘digital doubles’"
-    excerpt: "Unions fear artificial intelligence could cause artists to lose control of their image while making writers obsolete"
-    publishedDateTime: 2023-06-05T11:00:00Z
-    webUrl: "https://www.ft.com/content/ffa4e333-b691-4964-ada1-20bf6ce60396"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "z/aujqmoxVrbEIE+w9pzbdjur31JNXjMDpoqz3cOFlfMuij2U95Epm3Skm0mpDzACRF2pAcR75UiRN4wfxuSxe+T63ddnxol6pwH3QDPaIaU3rsPp2Jtn/lmc4VNIs5apvqdkorxp/mrrSP6aFPmOXGei5xm3B90JIOyMIi0S1lyfhBMwZVH48u2PamcpnI8w7CfK5sNSK0xRpjAp9SU2DWfjCPdhtcI32t/XHgrddp8nemr6++MoRBL20miB/bAJsv2EoXogh9LYNhgS9f4qrS0sKI19UCXEDBq9kJssn/aohrk9Oc/XlC/GfFJCZNu6djE+ETDlZSbCs6OJTKaaBAiSzsiv9EmfOCT+rKsgjc=;CTaTV0dvaBvVm/I0E6VlJw=="
 ---

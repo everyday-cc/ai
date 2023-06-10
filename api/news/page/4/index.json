@@ -2,100 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-06-07-waymo-self-driving-vehicle-kills-dog-in-san-francisco.md",
-      "title": "Waymo Self-Driving Vehicle Kills Dog in San Francisco",
-      "excerpt": "The dog ran into the street from behind a parked car causing what Waymo describes as an unavoidable incident. A Waymo robotaxi struck and killed a small dog in San Francisco last month while it was in self-driving mode.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco",
-      "originalUrl": "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/04SKS3KBJp73X6USecAt2qd-1.fit_lim.size_1200x630.v1686140384.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-integrating-data-center-support-lower-costs-and-decrease-downtime-with-your-support-strategy.md",
-      "title": "Integrating data center support: Lower costs and decrease downtime with your support strategy",
-      "excerpt": "Exploring the benefits of integrating data center support with a single vendor who can provide holistic support.\nThe post Integrating data center support: Lower costs and decrease downtime with your support strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/integrating-data-center-support-lower-costs-and-decrease-downtime-with-your-support-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/integrating-data-center-support-lower-costs-and-decrease-downtime-with-your-support-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T06:06:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-07-ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing.md",
       "title": "AI Is Here To Stay, But It's No Match For Humans In PR And Marketing",
       "excerpt": "While AI chatbots like ChatGPT are poised to fundamentally alter the nature of work, now is not the time to panic. Armageddon is not upon us.",
@@ -294,58 +200,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-07-job-listings-asking-for-generative-ai-skills-are-soaring-analysis-finds.md",
-      "title": "Job listings asking for generative AI skills are soaring, analysis finds",
-      "excerpt": "The average advertised salary for jobs citing generative AI skills is $146,244, according to job search engine Adzuna.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6",
-      "originalUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/647df19740bf000019fa30c1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp",
-      "publishedDateTime": "2023-06-07T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-07-5-ai-tools-for-summarizing-a-research-paper.md",
       "title": "5 AI tools for summarizing a research paper",
       "excerpt": "An AI-powered tool called IBM Watson Discovery makes it possible to analyze and summarize academic publications. It makes use of cutting-edge machine learning and NLP techniques to glean insights from massive amounts of unstructured data, including papers ...",
@@ -385,49 +239,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-the-transformative-power-of-artificial-intelligence-in-everyday-life.md",
-      "title": "The Transformative Power of Artificial Intelligence in Everyday Life",
-      "excerpt": "Artificial intelligence (AI) has become an integral part of our lives, revolutionizing the way we work, communicate, and navigate the world around us. | The Eastern Herald",
-      "sourceUrl": null,
-      "webUrl": "https://www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/",
-      "originalUrl": "https://www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagedelivery.net/-CGPfOWoVHcRcTbwHaRGUQ/www.easternherald.com/2023/06/Transformative-Power-of-Artificial-Intelligence-google-news.png/w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/?amp=1",
-      "cdnAmpWebUrl": "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/?amp=1",
-      "publishedDateTime": "2023-06-07T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Eastern Herald",
-        "domain": "easternherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -895,6 +706,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-07-sensiai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare.md",
+      "title": "Sensi.AI and Flint Capital speak on developing and deploying AI solutions in healthcare",
+      "excerpt": "Romi Gubes, the CEO of Sensi.AI, spoke on a recent TechCrunch Live episode about how her company is enabling privacy-preserving, in-home remote patient monitoring.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/",
+      "originalUrl": "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1074257938.jpeg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/",
+      "publishedDateTime": "2023-06-06T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-how-to-make-money-with-ai.md",
       "title": "How to Make Money With AI",
       "excerpt": "While many are worried that AI might eventually take their jobs, others are looking to harness its power to make money.",
@@ -1232,6 +1095,152 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-reflections-will-artificial-intelligence-compute-to-human-extinction.md",
+      "title": "Reflections – Will artificial intelligence compute to human extinction?",
+      "excerpt": "The latest threat to humanity’s survival is artificial intelligence, which supposedly has the potential to outsmart us. Considering how many of us seem to be three bricks shy of a load, this seems quite plausible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/",
+      "originalUrl": "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.readingeagle.com/wp-content/uploads/2021/08/readeag.jpg",
+          "width": 2100,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/amp/",
+      "cdnAmpWebUrl": "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/amp/",
+      "publishedDateTime": "2023-06-06T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reading Eagle",
+        "domain": "readingeagle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-why-ai-wasnt-mentioned-at-all-during-apples-big-wwdc-presentation.md",
+      "title": "Why AI wasn't mentioned at all during Apple's big WWDC presentation",
+      "excerpt": "AI. Here's why Tim Cook was mum on the term other Big Tech CEOs are loving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6",
+      "originalUrl": "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/647f51b89fcce6001935925d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp",
+      "publishedDateTime": "2023-06-06T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-arrange-your-transcripts-into-paragraphs-with-amazon-transcribe.md",
+      "title": "Arrange your transcripts into paragraphs with Amazon Transcribe",
+      "excerpt": "Amazon Transcribe is a speech recognition service that generates transcripts from video and audio files in multiple supported languages and accents. It comes with a rich set of features, including automatic language identification, multi-channel and multi-speaker support, custom vocabularies, and transcript",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/arrange-your-transcripts-into-paragraphs-with-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/arrange-your-transcripts-into-paragraphs-with-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/arrange-transcripts-in-paragraphs.jpg",
+          "width": 1024,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T09:28:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     }
   ],

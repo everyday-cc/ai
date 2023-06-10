@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-03-ai-brain-activity-decoder-can-reveal-stories-in-peoples-minds-researchers-say.md",
+      "title": "AI brain activity decoder can reveal stories in peoples' minds, researchers say",
+      "excerpt": "An artificial intelligence system developed at the University of Texas is able to translate a subject's brain activity into a stream of text after storytelling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say",
+      "originalUrl": "https://www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cbb3aee-10db-495f-9fe0-b479aa2bec89/0ec766a6-9a55-4885-b3f4-4c77f19ec376/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say.amp",
+      "publishedDateTime": "2023-05-03T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-intelligence-agencies-have-used-ai-since-the-cold-war-but-now-face-new-security-challenges.md",
       "title": "Intelligence agencies have used AI since the cold war – but now face new security challenges",
       "excerpt": "But intelligence agencies, including the CIA, in charge of foreign intelligence for the US, and its sister organisation the National Security Agency (NSA), have been using earlier forms of AI since the start of the cold war.",
@@ -1400,50 +1452,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-6-ways-azure-ai-is-empowering-people-with-disabilities.md",
-      "title": "6 Ways Azure AI is Empowering People with Disabilities",
-      "excerpt": "Accessibility in technology is crucial for ensuring that everyone, regardless of their physical or cognitive abilities, can fully participate in the digital world., Technology & Science News, Times No",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/6-ways-azure-ai-is-empowering-people-with-disabilities-article-99727313",
-      "originalUrl": "https://www.timesnownews.com/technology-science/6-ways-azure-ai-is-empowering-people-with-disabilities-article-99727313",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-99727313,updatedat-1682325428407,width-1280,height-720,resizemode-75/99727313.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/6-ways-azure-ai-is-empowering-people-with-disabilities-article-99727313/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/6-ways-azure-ai-is-empowering-people-with-disabilities-article-99727313/amp",
-      "publishedDateTime": "2023-04-24T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

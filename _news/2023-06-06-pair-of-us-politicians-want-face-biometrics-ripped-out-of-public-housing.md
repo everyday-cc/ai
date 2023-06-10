@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Smartmeric to embed AI into biometric credit card"
-    excerpt: "While the company is close to releasing its advanced premium fingerprint biometric activated credit card the company’s engineers are now working on adding embedded AI into the card’s electronics."
-    publishedDateTime: 2023-06-05T11:01:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97119/smartmeric-to-embed-ai-into-biometric-credit-card"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Facial recognition technology row is Hamlet with the biometric prints"
     excerpt: "It is a red herring to conflate body-worn cameras with this tech, which has been controversial in every state where it has been mooted; and with very good reason"
     publishedDateTime: 2023-06-07T04:00:00Z
@@ -46,6 +32,20 @@ related:
       - url: "https://www.irishtimes.com/resizer/cByn80Ga7NCANY7BZDaJebPX2dI=/1200x630/filters:format(jpg):quality(70):focal(4195x2320:4205x2330)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/6RBCWUIP7BDINH6RUG6EP6Z2A4.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Law firm highlights how facial recognition technology landed fraudster with £51,000 bill"
+    excerpt: "Investment into facial recognition technology by law firm Clyde and Co and Axa UK led to a motorist who issued a fraudulent claim having to stump up more than £50,000. Ashley Copley – a 26-year-old hospitality worker from Barnsley – was found to have lied about a witness to an accident he was involved in being independent."
+    publishedDateTime: 2023-06-08T06:00:00Z
+    webUrl: "https://www.insurancetimes.co.uk/news/law-firm-highlights-how-facial-recognition-technology-landed-fraudster-with-51000-bill/1444771.article"
+    type: article
+    provider:
+      name: Insurance Times
+      domain: insurancetimes.co.uk
+    quality: 30
+    images:
+      - url: "https://d17mj6xr9uykrr.cloudfront.net/Pictures/1024x536/6/1/1/97611_facialrecognition_229168.jpg"
+        width: 1024
+        height: 536
         isCached: true
   - title: "SmartMetric to embed AI into biometric credit card"
     excerpt: "While the company is close to releasing its advanced premium fingerprint biometric activated credit card the company’s engineers are now working on adding embedded AI into the card’s electronics."

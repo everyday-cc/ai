@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/safety-security/introducing-googles
 webUrl: "https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Introducing WE LAB's AI Technology for Fashion Production"
-    excerpt: "WE LAB introduces AI technology for fashion design. The product generates design references, provides targeted guidance, and offers a complete"
-    publishedDateTime: 2023-06-06T09:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-we-lab-s-ai-technology-for-fashion-production-1032371696"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/OLq1WBMwTLSvW1ZZhfqBwehSLb93/1686018825067-0.png"
-        width: 800
-        height: 389
-        isCached: true
   - title: "Google’s Secure AI Framework: A good start, but a lot of work ahead"
     excerpt: "Google plans to work closely with government standards agencies to help develop the industry's first AI certification standard."
     publishedDateTime: 2023-06-09T20:25:00Z

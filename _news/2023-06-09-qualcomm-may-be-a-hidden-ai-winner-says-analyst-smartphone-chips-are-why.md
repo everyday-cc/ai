@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5"
 type: article
 quality: 72
-heat: 93
+heat: 92
 published: true
 
 provider:

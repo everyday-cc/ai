@@ -98,49 +98,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-08-zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses.md",
-      "title": "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses",
-      "excerpt": "Commenting on the collaboration with Mastercard, Andrew Hanna, ZainTech CEO said: “The benefits of sophisticated data to productivity, safety, and cost-savings being driven by AI and machine learning are revolutionizing business processes. This ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "originalUrl": "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/mastercard.jpg?itok=xiDRXJSm",
-          "width": 960,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "publishedDateTime": "2023-06-07T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-07-retrain-ml-models-and-automate-batch-predictions-in-amazon-sagemaker-canvas-using-updated-datasets.md",
       "title": "Retrain ML models and automate batch predictions in Amazon SageMaker Canvas using updated datasets",
       "excerpt": "You can now retrain machine learning (ML) models and automate batch prediction workflows with updated datasets in Amazon SageMaker Canvas, thereby making it easier to constantly learn and improve the model performance and drive efficiency. An ML model’s effectiveness depends on the quality and relevance",
@@ -866,15 +823,15 @@
       "title": "Artificial intelligence brings Mona Lisa to life as a hologram",
       "excerpt": "The Mona Lisa has been brought to life as a hologram. Leonardo da Vinci's most famous work has been recreated using AI (artificial intelligence). A state of the art computer neural network reconstructed the model's enigmatic smile in finer detail than ever before.",
       "sourceUrl": null,
-      "webUrl": "https://www.msuexponent.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_472e1483-cbb5-58cb-a6d7-f764c744efb2.html",
-      "originalUrl": "https://www.msuexponent.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_472e1483-cbb5-58cb-a6d7-f764c744efb2.html",
+      "webUrl": "https://www.montanarightnow.com/national_news/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_f70c3f30-f55f-596e-9de9-c77aa2e06c89.html",
+      "originalUrl": "https://www.montanarightnow.com/national_news/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_f70c3f30-f55f-596e-9de9-c77aa2e06c89.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/msuexponent.com/content/tncms/assets/v3/editorial/2/a9/2a96f6dd-0125-5ee1-b0eb-7837f8e49572/64761306cb15f.image.jpg?crop=1762%2C928%2C0%2C176&resize=1200%2C632&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/montanarightnow.com/content/tncms/assets/v3/editorial/8/25/8251cc81-749c-54f9-ab54-cfa99fe9c622/64761327c2c30.image.jpg?crop=1762%2C928%2C0%2C176&resize=1200%2C632&order=crop%2Cresize",
           "width": 1200,
           "height": 632,
           "title": null,
@@ -886,11 +843,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T16:00:00-07:00",
+      "publishedDateTime": "2023-05-30T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Exponent",
-        "domain": "msuexponent.com",
+        "name": "montanarightnow",
+        "domain": "montanarightnow.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1355,6 +1312,41 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-microsoft-rains-more-machine-learning-on-azure-cloud.md",
+      "title": "Microsoft rains more machine learning on Azure cloud",
+      "excerpt": "Microsoft made sure to include Azure in the AI-fest that was the Build 2023 developer conference this week. As enterprises consider experimenting with or deploying generative AI, they may well look to public clouds and similar scalable compute and storage infrastructure to run things like large-language models (LLMs).",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
+      "originalUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

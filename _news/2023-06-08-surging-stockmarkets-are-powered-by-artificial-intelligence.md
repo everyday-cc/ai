@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Yet another article on artificial intelligence"
-    excerpt: "My original article said they really should put the brakes on this experiment for a while, but I didn’t declare an emergency. We’ve been hearing warnings about AI taking over since the first “Terminator” movie 39 years ago,"
-    publishedDateTime: 2023-06-05T10:00:00Z
-    webUrl: "https://www.bangordailynews.com/2023/06/05/opinion/opinion-contributor/artificial-intelligence-warnings/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 37
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2023/06/Europe-AI-Rules.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Keeping an eye on AI"
     excerpt: "Sunak is expected to discuss the idea of a “Cern for AI” — a research base modelled on the particle physics laboratory in Switzerland — with a global regulatory body that could look something like the International Atomic Energy Agency."
     publishedDateTime: 2023-06-05T17:15:00Z

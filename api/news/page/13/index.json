@@ -2,50 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2023-05-31-hands-are-more-critical-for-robot-intelligence-than-ai-says-robotics-ceo.md",
-      "title": "Hands are more critical for robot intelligence than AI, says robotics CEO",
-      "excerpt": "In fact, they don't address the central problem of intelligence at all, which is how to understand the world around you, and then act on it. For Rose, and for the humanoid robots built and operated by Sanctuary AI,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo",
-      "originalUrl": "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-05/597F4F78-034F-4C75-A533-1DD249D8DA70.jpeg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp",
-      "publishedDateTime": "2023-05-31T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-31-cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom.md",
       "title": "Cloud computing firm CoreWeave raises another $200 mln amid AI boom",
       "excerpt": "Specialized cloud computing provider CoreWeave has raised $200 million in funding from its existing investor Magnetar Capital, highlighting investor interest in backing infrastructure powering the generative AI boom.",
@@ -582,6 +538,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-31-artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram.md",
+      "title": "Artificial intelligence brings Mona Lisa to life as a hologram",
+      "excerpt": "The Mona Lisa has been brought to life as a hologram. Leonardo da Vinci's most famous work has been recreated using AI (artificial intelligence). A state of the art computer neural network reconstructed the model's enigmatic smile in finer detail than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.montanarightnow.com/national_news/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_f70c3f30-f55f-596e-9de9-c77aa2e06c89.html",
+      "originalUrl": "https://www.montanarightnow.com/national_news/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_f70c3f30-f55f-596e-9de9-c77aa2e06c89.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/montanarightnow.com/content/tncms/assets/v3/editorial/8/25/8251cc81-749c-54f9-ab54-cfa99fe9c622/64761327c2c30.image.jpg?crop=1762%2C928%2C0%2C176&resize=1200%2C632&order=crop%2Cresize",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "montanarightnow",
+        "domain": "montanarightnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-putting-artificial-intelligence-to-work-in-cancer-diagnosis-and-treatment.md",
       "title": "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment",
       "excerpt": "Artificial intelligence's future involvement in healthcare, particularly in the detection and treatment of cancer, is anticipated to take a variety of forms, ranging from identifying a specific form of cancer to evaluating which therapy method may best ...",
@@ -718,49 +717,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram.md",
-      "title": "Artificial intelligence brings Mona Lisa to life as a hologram",
-      "excerpt": "The Mona Lisa has been brought to life as a hologram. Leonardo da Vinci's most famous work has been recreated using AI (artificial intelligence). A state of the art computer neural network reconstructed the model's enigmatic smile in finer detail than ever before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.msuexponent.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_472e1483-cbb5-58cb-a6d7-f764c744efb2.html",
-      "originalUrl": "https://www.msuexponent.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_472e1483-cbb5-58cb-a6d7-f764c744efb2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/msuexponent.com/content/tncms/assets/v3/editorial/2/a9/2a96f6dd-0125-5ee1-b0eb-7837f8e49572/64761306cb15f.image.jpg?crop=1762%2C928%2C0%2C176&resize=1200%2C632&order=crop%2Cresize",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Exponent",
-        "domain": "msuexponent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1190,6 +1146,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-google-deepmind-introduces-barkour-a-benchmark-for-quadrupedal-robots.md",
+      "title": "Google DeepMind introduces Barkour, a benchmark for quadrupedal robots",
+      "excerpt": "The team at DeepMind issued a research paper outlining a potential benchmarking system to quantify the performance of quadrupedal robots.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/30/google-deepmind-introduces-barkour-a-benchmark-for-quadrupedal-robots/",
+      "originalUrl": "https://techcrunch.com/2023/05/30/google-deepmind-introduces-barkour-a-benchmark-for-quadrupedal-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Screenshot-2023-05-30-at-3.04.22-PM.jpg?resize=1200,678",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/30/google-deepmind-introduces-barkour-a-benchmark-for-quadrupedal-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/30/google-deepmind-introduces-barkour-a-benchmark-for-quadrupedal-robots/amp/",
+      "publishedDateTime": "2023-05-30T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

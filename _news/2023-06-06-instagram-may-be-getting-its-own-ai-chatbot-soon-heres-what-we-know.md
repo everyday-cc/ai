@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-it
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "AI Chatbots Are Causing Bank Customers Headaches"
-    excerpt: "Banks are implementing AI chatbots into their operations as a cost-cutting measure, but the Consumer Financial Protection Bureau says some bots are causing frustrations for customers."
-    publishedDateTime: 2023-06-06T18:19:00Z
-    webUrl: "https://www.cnet.com/personal-finance/ai-chatbots-are-causing-bank-customers-headaches/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 64
   - title: "David is friends with Lazarus. Lazarus is an AI chatbot"
     excerpt: "More and more people are forming friendships and even romantic relationships with AI chatbots, prompting concerns among experts who study the ethics around the rapidly evolving technology."
     publishedDateTime: 2023-06-05T16:52:00Z

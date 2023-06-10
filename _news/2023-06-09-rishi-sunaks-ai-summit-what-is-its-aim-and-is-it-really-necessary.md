@@ -2,11 +2,13 @@
 category: news
 title: "Rishi Sunak’s AI summit: what is its aim, and is it really necessary?"
 excerpt: "UK government says meeting will discuss ‘internationally coordinated action’ to mitigate the risks posed"
-publishedDateTime: 2023-06-09T12:01:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary?ref=biztoc.com"
+publishedDateTime: 2023-06-09T13:13:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary"
+webUrl: "https://www.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary"
+ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/cdd7dbf6b2851930cbc2eb7bcc23473a0b6d999f/23_0_5447_3273/master/5447.jpg?width=620&quality=85&auto=format&fit=max&s=5d769730d1e41bbe1df2e42f7d0c75ae"
+    width: 620
+    height: 373
+    isCached: true
 
 related:
   - title: "Sunak hopes to bring Biden on board for AI safety summit"
@@ -73,6 +81,6 @@ related:
       domain: abcnews.go.com
     quality: 9
 
-secured: "0E0tQ6L0cusvp7y9xzRp1GCtLXZUDBitDZmW4Z5etmH7Gqy8bWvomZSBdfiOWxdRkIfG8ZKDyDnuUCuoHtlBU52lxhW5vz1FphJ0MU6ATCHxMiZNSMzq0ZizyMrQ6eEAu//qq1opbAbeQ/xQloC9r7Zt1AUQV3uRQfXkyRyYQ/MNfxsDLswaH7jYkqyYTEflGaRMoQ3/r8yLo2LWuwp5SWgkOQjEtOQ6Aufs2s+EYdaNuf07mXvVAPYKk6Bvd2YzlEa4zTHN5hzy6NTT/FFewcP85IFPLGCVj7ygAldFKasQWym/ngCrra5hNPpHO463ja1cRfyb0Bf1cp3ep8zVYRveNRGQFyPkRl6Kb/oLznUh2xVifvxNWlf3fZgjKNZtLav0PEIRD/fxmF9l5PcnBm+9LTO6xtExzNsCaKhNE6F9+jfT+MGadbAxDFGZfmB8neTNYtYZPc1ggdcrFc5IK1RixS2YlIgbzkwc5GMYoGrUK9FC6i1jpiZx0CaIN6IrmjM+NROTn6PqHRLnpSgPvg==;9kUV7/wFH/u7MwWgqFj/RQ=="
+secured: "xsY1XrzppQMJswLLco8ru6GSn6mqZC7ODP/KcJ5pIoQJIT3Qit9yrG5Qr9lM08VU4BJgeQmAq8O1/C6fVGhH/OwYS8ANskXkwdS6XR7gdEs6pR6qYYXx1be1bzhMxX5x6icJAVO21di8pJl4J1J/0d6XFBNnJT3S8hnfY8p77LWwSxMSgNhXR2dSy16tAigxCiNPS6ra1YQt5tfC4U03jQw65OhPkNd/NsBE7++zXT3MEfaaHA7Kerl5/ys1FkfuJGnWBsggzFNRkTu+DZmm9D3Q3nmwYcPcc8nssuCJMrCJZZR/WxckB4yalvo2MVU6NPATJb79EO8m8QQ8VlcLXgxPBDmMcsFXtikeHInAiPw=;0G7UkBrsJQ2PHu60YlUwzg=="
 ---
 

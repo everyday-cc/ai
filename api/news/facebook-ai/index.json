@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-10-the-next-threat-from-generative-ai-disinformation-campaigns.md",
+      "title": "The Next Threat From Generative AI: Disinformation Campaigns",
+      "excerpt": "Generative AI, coupled with deepfakes, could present truly dire consequences for the 2024 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/",
+      "originalUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6483c3a8fa78a1eb97750fc7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/",
+      "publishedDateTime": "2023-06-09T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-senate-letter-to-meta-on-llama-leak-is-a-threat-to-open-source-ai-say-experts.md",
+      "title": "Senate letter to Meta on LLaMA leak is a threat to open-source AI, say experts",
+      "excerpt": "A letter two senators sent to Meta on Tuesday questioning the LLaMA leak sends a threat to the open-source AI community, say experts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/senate-letter-to-meta-on-llama-leak-is-a-threat-to-open-source-ai-at-a-key-moment-say-experts/?n=@",
+      "originalUrl": "https://venturebeat.com/ai/senate-letter-to-meta-on-llama-leak-is-a-threat-to-open-source-ai-at-a-key-moment-say-experts/?n=@",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-92.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-contextual-ai-emerges-from-stealth-with-20m-to-pursue-artificial-specialized-intelligence.md",
       "title": "Contextual AI emerges from stealth with $20M to pursue ‘artificial specialized intelligence’",
       "excerpt": "Contextual AI, a new enterprise-focused AI startup founded in Palo Alto by veterans of Facebook AI Research (FAIR) and Hugging Face, today emerged from stealth and announced it has raised $20 million in a seed round led by Bain Capital Ventures (BCV),",
@@ -175,58 +279,6 @@
       "ampWebUrl": "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp",
       "publishedDateTime": "2023-06-07T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-job-listings-asking-for-generative-ai-skills-are-soaring-analysis-finds.md",
-      "title": "Job listings asking for generative AI skills are soaring, analysis finds",
-      "excerpt": "The average advertised salary for jobs citing generative AI skills is $146,244, according to job search engine Adzuna.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6",
-      "originalUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/647df19740bf000019fa30c1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp",
-      "publishedDateTime": "2023-06-07T01:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1389,58 +1441,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-procedural-justice-can-address-generative-ais-trustlegitimacy-problem.md",
-      "title": "Procedural justice can address generative AI’s trust/legitimacy problem",
-      "excerpt": "He previously directed Integrity Research at Facebook and built out Twitter’s first Social ... The much-touted arrival of generative AI has reignited a familiar debate about trust and safety: Can tech executives be trusted to keep society’s best ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/",
-      "originalUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1255249519.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/amp/",
-      "publishedDateTime": "2023-05-19T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

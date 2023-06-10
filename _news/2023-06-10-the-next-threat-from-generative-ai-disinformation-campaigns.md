@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from
 ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
 type: article
-quality: 87
-heat: 127
+quality: 89
+heat: 129
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6483c3a8fa78a1eb97750fc7/0x0.jpg?format=jpg&width=1200"
@@ -84,6 +85,6 @@ related:
         height: 224
         isCached: true
 
-secured: "pEIuQZBMfVH28r+a/kCj2eXZWcTGjR/y/FxQE3gtFpBTuBjQGvcPoDfN1CRDAYjfunq4LNMqVb/0BZ5/WKanbpZh+JYLd1RtPbJzCibodo8PMBhvTqnuRJdRVoYJdr6ELtzoiz8eWFZnT38qK9sMFmMEyvDeQCbZaVYtejM8Pbv2F/QpBe8hex/YXfy83Q6NUrxy02E0gsFlsod5uo0J79gbn3it+RSwe+3RAnHc9LrzhOhDfjzpxqxD80/V4jWTZ0B8afNsriG2KE2g6+u27D7vlxBB0majt9NEzPA1CnXrHNYgxA8M+mV0NKXFZrjQ+Ez4KgKbhddV+ZTwntZfjaJbG8a3MyYMcL5/nPC7YbI=;d1KXg30ah5ZZ/pnOGkoS4Q=="
+secured: "OlI8ulCmPztRv2jEBw5UNUtL3NYkdqFVJ+JzMcn5SpG/7b0bTFlRRaYh4bjPtsQqLhpcHolvOP+8Xy2QnwYbJt2CDG8ovnrtD3NhCRmWTotAF2IqV30dbYn4ZQKPdZMSpQiEDiBCALJ8V+buHGKfTzvR90rvThAIqXpWRjsU/EO992HicLC0uHSPogktcoLN8X+qDEprECJFJRW0gxtIAnUFZj/S0rsp49DdEqfir+Wpsxvgt8Rp+HJka62YRuqQks6K0RHHF9d/RQG19edkRSTL/I1NaaoCf/sxrrHlcp2xfIcmU7bRQBhojRhm701zned6S7ZDfksg/o6teNJt1JzWdse6pJ68E33cjlSlQzIIDuOObCgkZFprKNfDckjGR7EnVFwSOq2an2U+3oPP0uzxn4MEWeU1LRdOMsoHJFgRcmYjHSbz+4hBV0YnppFTrrha7SnF7Gya+rJ6AGZovs70NiaKQqw1IGW1VJjO2rBYH6TiwHcYl7sg3/zyU5dKhfQfqZoo2nsjcv8Az80Jnw==;ej5ZG8MwDRTAYsl5tgi4Xw=="
 ---
 

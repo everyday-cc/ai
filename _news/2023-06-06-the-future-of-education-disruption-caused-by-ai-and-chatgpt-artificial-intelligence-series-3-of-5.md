@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
 type: article
 quality: 108
-heat: 208
+heat: 198
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/263d618f-c90f-4453-825c-0e53ced8d257/65c8223d-3861-4e2a-8508-affb94e3c6f5/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Chegg Embraced AI. ChatGPT Ate Its Lunch Anyway"
-    excerpt: "The education company is a case study in generative AI’s disruptive power. Now it’s trying to prove it can beat back ChatGPT with an in-house chatbot."
-    publishedDateTime: 2023-06-05T11:00:00Z
-    webUrl: "https://www.wired.com/story/chegg-embraced-ai-chatgpt-ate-its-lunch-anyway/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/647a758e57ff6ec62db8a75e/191:100/w_1280,c_limit/Chegg-Getting-Crushed-By-ChatGPT-Business-1289189057.jpg"
-        width: 1280
-        height: 670
         isCached: true
   - title: "Intelligent Classrooms: What AI Means For The Future Of Education"
     excerpt: "AI systems will have expansive implications for how schools function, teachers work, and how students prepare for tomorrow's world of work."

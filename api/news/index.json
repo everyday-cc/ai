@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-10-15-best-artificial-intelligence-ai-stocks-to-buy-in-2023.md",
+      "title": "15 Best Artificial Intelligence (AI) Stocks To Buy in 2023",
+      "excerpt": "Since the launch of the AI-powered chatbot, Open AI's ChatGPT, artificial intelligence, and machine learning have been hot topics. This trend will",
+      "sourceUrl": null,
+      "webUrl": "https://www.techworm.net/2023/06/best-artificial-intelligence-ai-stocks-buy.html",
+      "originalUrl": "https://www.techworm.net/2023/06/best-artificial-intelligence-ai-stocks-buy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techworm.net/wp-content/uploads/2023/06/best-ai-stocks.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techworm.net",
+        "domain": "techworm.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-10-the-next-threat-from-generative-ai-disinformation-campaigns.md",
       "title": "The Next Threat From Generative AI: Disinformation Campaigns",
       "excerpt": "Generative AI, coupled with deepfakes, could present truly dire consequences for the 2024 presidential election.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -49,7 +92,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -164,7 +208,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -457,7 +501,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32799034/artificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-1-53-billion-by-2028-a",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -587,58 +631,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-09-dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector.md",
-      "title": "DPO Centre Shares Opinions About the New Technologies in the Healthcare Sector",
-      "excerpt": "2023 — The healthcare industry is on the brink of a technological revolution that promises to reshape patient care, enhance outcomes, and lower costs. Seven emerging technologies are at the forefront of this transformation: Artificial Intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector-1032380181",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector-1032380181",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/1685615763869-0.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-09-why-advanced-api-security-is-critical-to-outsmarting-new-threats.md",
       "title": "Why advanced API security is critical to outsmarting new threats",
       "excerpt": "Noname Advanced API Security for IBM aims to further enhance the strength of solutions for monitoring and locking down APIs from evolving threats. \nThe post Why advanced API security is critical to outsmarting new threats appeared first on IBM Blog.\n",
@@ -690,7 +682,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -932,6 +924,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-09-senate-letter-to-meta-on-llama-leak-is-a-threat-to-open-source-ai-say-experts.md",
+      "title": "Senate letter to Meta on LLaMA leak is a threat to open-source AI, say experts",
+      "excerpt": "A letter two senators sent to Meta on Tuesday questioning the LLaMA leak sends a threat to the open-source AI community, say experts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/senate-letter-to-meta-on-llama-leak-is-a-threat-to-open-source-ai-at-a-key-moment-say-experts/?n=@",
+      "originalUrl": "https://venturebeat.com/ai/senate-letter-to-meta-on-llama-leak-is-a-threat-to-open-source-ai-at-a-key-moment-say-experts/?n=@",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-92.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-opinion-ai-on-wall-street-impacts-higher-ed-on-main-street.md",
       "title": "Opinion: AI on Wall Street Impacts Higher Ed on Main Street",
       "excerpt": "Chip-maker Nvidia joined the trillion-dollar club recently, and it’s eyeing AI’s transformative potential in life sciences, physics, climate, cybersecurity, data science, robotics and simulation.",
@@ -1161,58 +1205,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-uks-plans-for-first-global-summit-on-ai-safety-draw-criticism.md",
-      "title": "UK’s plans for “first global summit” on AI safety draw criticism",
-      "excerpt": "These worries were recently amplified by some AI experts likening the potential threats posed by AI to those of pandemics or nuclear weapons. \"AI\" has also been an extremely buzzy term in business recently.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/uk_ai_summit_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/",
-      "publishedDateTime": "2023-06-08T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

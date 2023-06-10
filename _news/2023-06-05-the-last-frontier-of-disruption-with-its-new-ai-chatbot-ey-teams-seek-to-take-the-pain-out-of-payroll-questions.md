@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Chegg Embraced AI. ChatGPT Ate Its Lunch Anyway"
-    excerpt: "The education company is a case study in generative AI’s disruptive power. Now it’s trying to prove it can beat back ChatGPT with an in-house chatbot."
-    publishedDateTime: 2023-06-05T11:00:00Z
-    webUrl: "https://www.wired.com/story/chegg-embraced-ai-chatgpt-ate-its-lunch-anyway/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/647a758e57ff6ec62db8a75e/191:100/w_1280,c_limit/Chegg-Getting-Crushed-By-ChatGPT-Business-1289189057.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Intelligent Classrooms: What AI Means For The Future Of Education"
     excerpt: "AI systems will have expansive implications for how schools function, teachers work, and how students prepare for tomorrow's world of work."
     publishedDateTime: 2023-06-07T13:00:00Z
