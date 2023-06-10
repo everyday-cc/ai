@@ -1,27 +1,33 @@
 ---
 category: news
-title: "CORRECTING and REPLACING Clarify Health Launches Generative Artificial Intelligence, Clara"
-excerpt: "Contact us at clara@clarifyhealth.com to learn more about the closed beta program for Clarify's new generative artificial intelligence, Clara. (Graphic: Business Wire) The updated"
-publishedDateTime: 2023-06-07T01:16:00Z
-originalUrl: "https://www.kentuckytoday.com/news/business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_f365d0b6-e6bc-54a5-8b4e-d7155a8ded82.html"
-webUrl: "https://www.kentuckytoday.com/news/business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_f365d0b6-e6bc-54a5-8b4e-d7155a8ded82.html"
+title: "Ingeniously Using Generative AI Such As GPT-4 To Reveal The Puzzling Secrets Of How Generative AI Startlingly Works, Lauds AI Ethics And AI Law"
+excerpt: "Nobody can say for sure why generative AI works so startlingly well. A new approach revealed by OpenAI uses GPT-4 to decipher generative AI secrets. Here's the deal."
+publishedDateTime: 2023-06-10T11:00:00Z
+originalUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/"
+webUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
 type: article
-quality: 29
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Kentucky Today
-  domain: kentuckytoday.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/assets/v3/editorial/6/1c/61c9737a-13f0-5e55-8fb3-70df61f04918/647fdafee5207.image.jpg?crop=1019%2C535%2C2%2C0&resize=1019%2C535&order=crop%2Cresize"
-    width: 1019
-    height: 535
+  - url: "https://imageio.forbes.com/specials-images/imageserve/63731fd487e442fe938888a7/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 652
     isCached: true
 
 related:
@@ -73,22 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ingeniously Using Generative AI Such As GPT-4 To Reveal The Puzzling Secrets Of How Generative AI Startlingly Works, Lauds AI Ethics And AI Law"
-    excerpt: "Nobody can say for sure why generative AI works so startlingly well. A new approach revealed by OpenAI uses GPT-4 to decipher generative AI secrets. Here's the deal."
-    publishedDateTime: 2023-06-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63731fd487e442fe938888a7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 652
-        isCached: true
   - title: "Generative AI can help bring tomorrow's gaming NPCs to life"
     excerpt: "Today's non-playable characters are a step above the Ghost Gang of yesteryear but they're still a far cry from human-level fidelity."
     publishedDateTime: 2023-06-09T17:03:00Z
@@ -112,7 +102,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
+  - title: "CORRECTING and REPLACING Clarify Health Launches Generative Artificial Intelligence, Clara"
+    excerpt: "Contact us at clara@clarifyhealth.com to learn more about the closed beta program for Clarify's new generative artificial intelligence, Clara. (Graphic: Business Wire) The updated"
+    publishedDateTime: 2023-06-07T01:16:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_f365d0b6-e6bc-54a5-8b4e-d7155a8ded82.html"
+    type: article
+    provider:
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/assets/v3/editorial/6/1c/61c9737a-13f0-5e55-8fb3-70df61f04918/647fdafee5207.image.jpg?crop=1019%2C535%2C2%2C0&resize=1019%2C535&order=crop%2Cresize"
+        width: 1019
+        height: 535
+        isCached: true
 
-secured: "HU58ysCAT3Fdh50LokDsact77H7M40dGXEGbTfKixFlAIXfDzWAYjb8UHw/Y/cTvBgH3E8mP7u8QSSOg8od3bqRI5JiESFtt9k084tZWvY6rcqrLg6/m74R3yobfXwMizjDH55pYqoM7QNdUgOFG0uErWDEgrz5Pzv45Nc4EqHIixfe0V0G8v5csIHKP2NnDlXZf9muUGJXGyKVYymbS/u1tff5SvZKbL6JKdPd0BKwQBoueBflqE6/X4j2jyo0QuHrlew8DIdcX2hY/S+nCNOlgz4UY3mqrXRyxWBqaxKzsdEGVUww0e/e7E0DIo1W/AI0Or54XFrr1Co/uto997IRDF/xDhYbQZRud/RTL4O+NaWEEYOWSoyUFEXmIAtjcnq3E5kXv2VDGiY/oIdddKMeA/F0urPgXmqoJvseQwclg57XjeAhCSaHn06kmgof7+muRm+/L5uqXPBVUmb5csVaLEohoUXqmurSQrAvrMuDyX9X7nmG8YyhHapFc5dKs4afqlTjoWjPACp7X9ELRQw==;f31JrEj2KsWDxLoplSIYqg=="
+secured: "GxvjpGONSOWkUwb9mhwwSCwStF+Ik5dVmWFlAsX1Imz/xTOPYHuXI1WzgJzk2t+r4Zp/AAdmCJaT17QhWW5ytye0M9Ly1TBjIfyzoi4OM04razx94bHDH9dW5kbiggQGqv9of3ca4WmnZsDoggrFpSjaOJb2qS0iiXNABC6+YRK2qrC86w269Hhd9an/Pd2vle7ze/rimf43nc6r/NSSS1cPk/IloHInpSgXQMxp9dg7zGPIAqm3zEG+Lpe0OxQIcLTgw+J5TqKhsAnz46K1KfHDYBiEeloL0BQ0R34NWwtlvnA0Aew07s5IU7LNVhSJKC1pu+fGVf7Mo6g9zZFr4wC9KAZ4KTxNKVTNrzOexCM=;xVjkpX4G6pzzMjrIthUDpQ=="
 ---
 

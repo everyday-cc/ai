@@ -47,20 +47,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 103
-  - title: "Announcing the launch of new Hugging Face LLM Inference containers on Amazon SageMaker"
-    excerpt: "This post is co-written with Philipp Schmid and Jeff Boudier from Hugging Face. Today, as part of Amazon Web Services’ partnership with Hugging Face, we are excited to announce the release of a new Hugging Face Deep Learning Container (DLC) for inference with Large Language Models (LLMs). This new Hugging"
-    publishedDateTime: 2023-06-05T17:57:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-new-hugging-face-llm-inference-containers-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 96
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/05/hugging-face-llm-sagemaker.jpg"
-        width: 1018
-        height: 510
-        isCached: true
   - title: "Get started with the open-source Amazon SageMaker Distribution"
     excerpt: "Data scientists need a consistent and reproducible environment for machine learning (ML) and data science workloads that enables managing dependencies and is secure. AWS Deep Learning Containers already provides pre-built Docker images for training and serving models in common frameworks such as TensorFlow,"
     publishedDateTime: 2023-06-08T21:21:43Z

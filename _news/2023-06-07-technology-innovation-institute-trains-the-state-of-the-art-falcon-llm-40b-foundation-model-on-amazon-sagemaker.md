@@ -52,20 +52,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 103
-  - title: "Announcing the launch of new Hugging Face LLM Inference containers on Amazon SageMaker"
-    excerpt: "This post is co-written with Philipp Schmid and Jeff Boudier from Hugging Face. Today, as part of Amazon Web Services’ partnership with Hugging Face, we are excited to announce the release of a new Hugging Face Deep Learning Container (DLC) for inference with Large Language Models (LLMs). This new Hugging"
-    publishedDateTime: 2023-06-05T17:57:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-new-hugging-face-llm-inference-containers-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 96
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/05/hugging-face-llm-sagemaker.jpg"
-        width: 1018
-        height: 510
-        isCached: true
   - title: "Train a Large Language Model on a single Amazon SageMaker GPU with Hugging Face and LoRA"
     excerpt: "This post is co-written with Philipp Schmid from Hugging Face. We have all heard about the progress being made in the field of large language models (LLMs) and the ever-growing number of problem sets where LLMs are providing valuable insights. Large models, when trained over massive datasets and several"
     publishedDateTime: 2023-06-05T19:01:51Z

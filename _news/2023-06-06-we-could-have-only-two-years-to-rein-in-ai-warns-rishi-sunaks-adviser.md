@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -84,15 +84,6 @@ related:
       name: The Mirror
       domain: mirror.co.uk
     quality: 29
-  - title: "AI could outwit humans in two years, says UK government adviser"
-    excerpt: "Matt Clifford, chair of the Advanced Research and Invention Agency, says AI is evolving much faster than most people realise"
-    publishedDateTime: 2023-06-05T17:41:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/05/ai-could-outwit-humans-in-two-years-says-uk-government-adviser"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
   - title: "Rishi Sunak in D.C. with Ukraine, economy, AI on agenda for Biden meet"
     excerpt: "The war in Ukraine is top of British Prime Minister Rishi Sunak’s agenda as he starts a two-day trip to Washington."
     publishedDateTime: 2023-06-07T16:51:00Z

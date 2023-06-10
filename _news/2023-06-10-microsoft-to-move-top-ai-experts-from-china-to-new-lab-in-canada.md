@@ -3,10 +3,10 @@ category: news
 title: "Microsoft to move top AI experts from China to new lab in Canada"
 excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
 publishedDateTime: 2023-06-09T20:00:00Z
-originalUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55?shareType=nongift"
-webUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55?shareType=nongift"
+originalUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55"
+webUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55"
 type: article
-quality: 36
+quality: 34
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: ft.com
 
 topics:
-  - Facebook AI
   - AI
   - Microsoft AI
 
@@ -294,6 +293,6 @@ related:
       domain: techreport.com
     quality: 11
 
-secured: "TUvE6J1KuyHYxboQ9JiCf4p+4GpwXw+BI0tBHjhyB5Hco+NraSSl3VXzq6yAeswjoMu1aciogLdHD31g/3fNoCoasr8DOLFZ6mA50HTueUQVr8JOLqXb3AdcIsfnEQ2Tv6P96dDU5iERsgUQhCx8E9SD0nBYuC1izwHhQLzpb0ISycRqFimLD5lif1V0mgA0rizWMxAhxyR+UdxQNCBNHpCRJwUiK+ZNRWv6ubcXNuGTNY+RcudG2ldXW5PzegTyi/xpYU/+M5xZ8gXuDoaYrAYV9gfJV+AznHI5ONLHZDqOBdZmufvZPEtr9M524POHoDUnkb0QVAVD3TYmLvTB29WG17QM8rwOjiPGyMLB23cxBhipjy0JIJHtBLrGDKQjpeYW/ynD8S8TwatOVid/MSzJeGLTbeOXiIXUGrt6e5a1OTs+E62q4ov+2pWYVzOb3tEV4kFiaS/2je3T404IEFIhpCbDF7PlJ8dyp+IEmp0UGhMCLSD5VdNb8RJ+l8DZn6gHfsVCEYK08aeE/cX9+A==;VOKstHDZnz7GM6ufAolXYg=="
+secured: "HwIjPnOPy2KlSV+7hu1S7GbagsevmYBmko5NMM5lsnu5ArHBdII38lnKA9OwHY6fig5LdJbeiXv2uVuY7fNoYt2JClonupS8r3Kn3ghrdH1wZlwX+MC8i2LYiz6mit/JoXRRzV1MoHu7DQv/TShE0pZ0X1DeZElJM6tTyH158/06Enq3oM672AeMrBy/yqIZcYcrXIzTppvbGSIXjrHaVvqkcobe2IFwH1rZkTvFElnC6J8byKQNfMHcxMDIveASuRWbOFPZDBOIpntL5/6oU+REH2cPhe6fPJLel6o6aBUzvwRoL5fVLbKwrEwCibo4vf0Hmpg/LUz5kJln23vYIDQbQDtOKFOJHzHNnzdWUAA57OQlSWzxIscb2za+2k7i8mCj9YPleWOMDSBd7np26n+sYrcHX6wNY98pIWNSeETT4PacqFRZ8YFVKnEDIZ9o5o+nw9/bV8IjKSAy8lG9xe5MGy7kARQ0tlEkxJHz3ObHe9VFbblofFNi+Rxr5IN0fsVi1dDAx4nFVIOHBu6Zrg==;qAoCaiu4ojjQTBbEW6eCQQ=="
 ---
 

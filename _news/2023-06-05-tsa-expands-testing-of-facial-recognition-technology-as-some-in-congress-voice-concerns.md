@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/C0cSv-lZx4l3-D9MG9QEqpr8_O8=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/06-04-2023/t_281f04564334492bb78a1e8b52c877f0_name_WNB2ALL_TSA_Tech_Concerns_PKG.jpg"
@@ -65,6 +66,6 @@ related:
       domain: dispatch.com
     quality: 13
 
-secured: "nHaKfXFse9xitrP8MQeU4FKfKasyYBV9FacUvXsZlnHeIKxfLbx7L/tBBGCGZuUhZ9gTuVnoonRm80ObMODVLiSq9Be+rbWjrAiZqwM/oMTXThqB1xM2/fXCzFoG2/cS/R7U/ui507ylOUOU8N1EHv5k4xGrX19oJnpga+WxueYMb47RdGDZeyIx6NOoKFGFo+WRuhakObDTAstSItIAg8jNbpzmBSSoYanMs1bQMOKdNWZuSBELgK1ynVkJjKo7xt3tDjkjmAr41u6MqUQxtP6gKj5iA7fIhDXzM9AQLrlvTLpIbyWTj4CJqSv3VWb3gwalS1sab13z6k1XPV9V526lrK1UASOffsxalQESfV8=;zYj/KFt78GzQxPgA0jZBCQ=="
+secured: "YTlEGxcpDv/u98A8Nxakmf2V7gZ3yMbKKdEd0KsyfxDy2nMVEWtW9noL6iIB9MtEw9/fG8xD6i+dLUv/+QgfWa3ZUFwe4wuznkg6zHSh5maZOWrY8zLikRX2UjIldRBQrxwBWDdB7FB4ZTELL1lD7uozg6K13Yp5vcmD+AYkTZGYXsnEyxnoWq/PGLLj8de36fLz+pS+TPhgN02zP3mVInjcJQzaC18eE2OyCS6s8rk4MGKF38fb9+JQin6Yuvoagj5mJMvHIxLkI6lmtLTIR28PXdInigQT2D3Qb6Sfr1Jvoc7yiee1fWy5XjnPteBnvm2DNsYex5wr9+5oNWZ48Y3mhm4uTE2IYWgtXsXSki+6KDRi6NKvMl0Ulj6CSMQyE2IlYfwVlDotzs3thZu1sDV9oUoF8eGiIcj2Vd+H7/X91hz/C+ry1eOtbaJLCGqN2ukFwNxrVE4egj/MaR/aveHD7yMAy6IOQOiXLu9sVx9a1RrGxG9iliwTu9JjB86UDb/hy1yahNVEbuiFKAtdYQ==;RPEFLiwKbfwLRtGNUNdvYQ=="
 ---
 

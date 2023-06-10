@@ -1064,33 +1064,24 @@
     {
       "path": "_news/2023-05-31-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
       "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It’s one of hundreds of robots on ...",
+      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2023/05/30/robot-show-artificial-intelligence-chatgpt/5bdc8800-ff0f-11ed-9eb0-6c94dcb16fcf_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/2023/05/30/robot-show-artificial-intelligence-chatgpt/5bdc8800-ff0f-11ed-9eb0-6c94dcb16fcf_story.html",
+      "webUrl": "https://www.seattlepi.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php",
+      "originalUrl": "https://www.seattlepi.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T10:32:00-07:00",
+      "publishedDateTime": "2023-05-30T10:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
         "images": null,
         "publishers": null,
         "authors": null

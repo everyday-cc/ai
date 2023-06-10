@@ -55,20 +55,6 @@ related:
         width: 960
         height: 588
         isCached: true
-  - title: "Hepatitis B is a life-threatening liver infection – our machine learning tool could help with early detection"
-    excerpt: "Part of the solution for public health challenges like this may lie in machine learning. This refers to the ability of computers to make sense of large amounts of information – and to build on their own “knowledge”. We are among a group of ..."
-    publishedDateTime: 2023-06-05T18:36:00Z
-    webUrl: "https://theconversation.com/hepatitis-b-is-a-life-threatening-liver-infection-our-machine-learning-tool-could-help-with-early-detection-205069"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 20
-    images:
-      - url: "https://images.theconversation.com/files/529046/original/file-20230530-15-9wf3s7.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "rjxXRg/y0vMLoRqVJBhx845mZH1CRxUHbTMLA6yBSV2HX5q+/EOgo5a3R8cMGC5qvgU/+hvjdVRRI5ef2PzZ3BnHzdNyMmYRzX1aQxYsZbG+HE7ImT/i8T7rILjBDghgqzcLFiKi14MlKaYEwXOLGXIhAPhIygNc4H3kahZFeEq7iQpPIq400KpGI4sJaF5YsVYqiE6WfKxpluzwbqcEJXVvrlibzBBPwdjWDFEa2V0Cv326T+ljMjutDujNU7U4goGs6cyqQSCo9wTcWkdkwveuqM1r/RHkcqBSyjw7DmucoRKgnuaN7K2BOWqmPba/ZHY1QOA44/v8LJxF8b31T/It1yr9mCW7yuyhc2sw02Q=;gwnCTyEuFZTktA/cTx0KUg=="
 ---

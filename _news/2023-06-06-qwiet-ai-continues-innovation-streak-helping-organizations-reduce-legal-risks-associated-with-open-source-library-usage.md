@@ -36,15 +36,6 @@ related:
         width: 850
         height: 580
         isCached: true
-  - title: "Empathy, entrepreneurship & AI"
-    excerpt: "With AI support, a new venture can be better positioned to “fail faster” and pivot quickly to a different business model. Steve Blank, the creator of the Lean Startup Methodology and Adjunct Professor of Entrepreneurship at Stanford University ..."
-    publishedDateTime: 2023-06-05T18:48:00Z
-    webUrl: "https://sbnonline.com/article/empathy-entrepreneurship-ai/"
-    type: article
-    provider:
-      name: Smart Business Magazine
-      domain: sbnonline.com
-    quality: 17
 
 secured: "h013mcZpJjKuoGwVa6JA/5XwIGxdVZur9NBjJQrdghphOFiguF+FckSUdFknMuuNhgBzfgxoIagVf3O5B/klDhkYuw9idquqCjwAwpP6L3digjXs4VhG8hHJyWkuRQ/EA5xQHT58KPFqFb/xF2iRqM9DgQhqLGesqwB3yOXvxdB/jmeam/RJMTR4EByenfDK7JE5O8UCViGI9f6wK0rOyOHKELtivjZcwaxx1UwK+Uk3UaM/m/6/fN1s56cE96oc+QdkbeiFegqwrk0k9DPrk+nIFIsTSyLbPvoxtiPnF6cYuaZnI0viL/x/A39uEgJEi+STJ40LZfk0BpG7kbNlg2lXkCdMzjTyDxFPRBqvs9o=;ifS394Kq9uK0VZtMsnVZmQ=="
 ---

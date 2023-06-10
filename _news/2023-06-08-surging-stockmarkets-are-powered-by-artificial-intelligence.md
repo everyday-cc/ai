@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Keeping an eye on AI"
-    excerpt: "Sunak is expected to discuss the idea of a “Cern for AI” — a research base modelled on the particle physics laboratory in Switzerland — with a global regulatory body that could look something like the International Atomic Energy Agency."
-    publishedDateTime: 2023-06-05T17:15:00Z
-    webUrl: "https://www.ft.com/content/e2980b91-7e8f-4648-96b9-4da6e394942a"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "73D0udUvF0vfzTEGRJ8WO8H/4aLVH+LCXGnZyu0guVhPB807fKHn0jl9QWM2fGo50QGVoHwOglyNf9VUj3BWMK2325yaRzLJZTJ+IvgqR9jwwKJycCMnCmQpB2tIHIxu7adulto00oHwZgH4LcQIx4r/r+/qhhQLbjIq42XM8ZglJqTSZ/d8+n3WM/BEX9nfpW3d/pGt7DR4YntCLqGDc937F2RgjE9OU3xIZ4FyZUtFc6Efj+4txN16+rUbrbhtQrXYtigvWUY4VDQ4FI8HZbxDnjBPde3fuMbWdbrw7XkNP0prAkYegthOr+CbKakO91CI8I/2DxJfIpmvQdjUR2k1zUyUbB4jcI4Q8yG2NsckVwydecvPMPM181Mwp+GbpTzf96HLDjdPWGtWE0Su4fRRZqh2VenuK5N6qMdf/wgOW4rISgy27djRnKJXicr9hAT5ifRqllsF01IxSAiyi+ZmONa+k1HGvklRPGh4O8nELBrdXTHsq64xhcLAyIFi1jqbMakiHjd656oFmaefuw==;kkseRT97p+zQA0xZ1SOv2w=="
 ---

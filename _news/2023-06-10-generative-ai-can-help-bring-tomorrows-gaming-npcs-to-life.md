@@ -76,21 +76,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The digital dark matter clouding AI in genome analysis"
-    excerpt: "Artificial intelligence has entered our daily lives. First, it was ChatGPT. Now, it's AI-generated pizza and beer commercials. While we can't trust AI to be perfect, it turns out that sometimes we can't trust ourselves with AI either."
-    publishedDateTime: 2023-06-05T17:19:00Z
-    webUrl: "https://phys.org/news/2023-06-digital-dark-clouding-ai-genome.html"
-    ampWebUrl: "https://phys.org/news/2023-06-digital-dark-clouding-ai-genome.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-digital-dark-clouding-ai-genome.amp"
+  - title: "Ingeniously Using Generative AI Such As GPT-4 To Reveal The Puzzling Secrets Of How Generative AI Startlingly Works, Lauds AI Ethics And AI Law"
+    excerpt: "Nobody can say for sure why generative AI works so startlingly well. A new approach revealed by OpenAI uses GPT-4 to decipher generative AI secrets. Here's the deal."
+    publishedDateTime: 2023-06-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/the-digital-dark-matte.jpg"
-        width: 1417
-        height: 1011
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63731fd487e442fe938888a7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 652
         isCached: true
   - title: "Impact Analytics enhances its AI-native product portfolio with generative AI technologies"
     excerpt: "Today's fastest-growing AI-powered retail-planning provider seizes the opportunity to exploit complementary, innovative AI technologies.LINTHICUM"

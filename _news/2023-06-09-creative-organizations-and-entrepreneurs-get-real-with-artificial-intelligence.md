@@ -35,15 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
-  - title: "Empathy, entrepreneurship & AI"
-    excerpt: "With AI support, a new venture can be better positioned to “fail faster” and pivot quickly to a different business model. Steve Blank, the creator of the Lean Startup Methodology and Adjunct Professor of Entrepreneurship at Stanford University ..."
-    publishedDateTime: 2023-06-05T18:48:00Z
-    webUrl: "https://sbnonline.com/article/empathy-entrepreneurship-ai/"
-    type: article
-    provider:
-      name: Smart Business Magazine
-      domain: sbnonline.com
-    quality: 17
 
 secured: "L2JJWrwHwHuivCxSRBrlzVgN9QnFIP8LWr9y/oMve48tlfa5dJ2zAnSVhPn3Fp3qV5YgE7pt2YshsVONSm/uDh7Ll288h+0SlJsjgPK+9aiOHh6wGu9LhaqsqOkbiaOeOpNSDwVB90uV2523TCb48/0ZdwRDGbPxn0okjU2SVF5Z02mFuDy4iiO7EoUY0abZPCQ+PQ9Wq717oLryBfOWogZTuyq/Nz4LCttKo3GL9oZEC7zthmPfrq9MErHy4RTtYP45hbadE3zh2R4rHXrfZNmf2gvcM9+sy5MdYAspq1a9cXPMtvNto9fUbaXRbBAOIfPJzEbjBqdcARTcTKC57EeNczalrWoSm0rAVzx7dCIVl2CMCt+4zP3HU+pJszh7X0mCzLlIUQr+zTi2ZNMsPqKt3QDfa9Lr5F9VFA1ELNkEt6KnTS1dgvGKpXmGyk94lIGzZ17PkKHBJ3nKoAlawNUjUHc0uABWM2KqJuL45D2Za2KBlvkN6z+p4vkgxhETjHiAMs+/PG3xFtsYm2D4Xg==;haX/R7jn1Ue9vWSbfPYDqQ=="
 ---
