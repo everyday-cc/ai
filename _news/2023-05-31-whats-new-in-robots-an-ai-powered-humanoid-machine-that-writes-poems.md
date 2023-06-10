@@ -1,20 +1,26 @@
 ---
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
-publishedDateTime: 2023-05-30T17:39:00Z
-originalUrl: "https://www.seattlepi.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php"
-webUrl: "https://www.seattlepi.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php"
+excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It’s one of hundreds of robots on ..."
+publishedDateTime: 2023-05-30T17:32:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/05/30/robot-show-artificial-intelligence-chatgpt/5bdc8800-ff0f-11ed-9eb0-6c94dcb16fcf_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/05/30/robot-show-artificial-intelligence-chatgpt/5bdc8800-ff0f-11ed-9eb0-6c94dcb16fcf_story.html"
 type: article
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "S/Lph1HlcvTA0t3tvhUvc+Kf6dNqC6zSdzdacDc3vSm1XEZNO2h1mq+Mn/zZec7i8BSn/PSEDq9o2vQzWDekDRm1xkUOFKzrBbPKs3PaePxc9YPbBiPWTpA7CrZPthjiVyK/dExBhG39HwerN2vs3h2tF/fcxdEiD5S5ORzuUmptkGrHrAwhEEIuUwH3ftARpSRR5VnlD7+e6NfYIymbUziUyAxQdgBCzFz6H4SbocmtdbHyPXSHXJPRBBOz7ZyAGXQG4d79EG3+PvOU45L1bimhwNjKcfdDeIDimuKvPXTraxy8z4eEuYtctWsJ6sbi3ET4yRvYyVXRiqXgp31B3Fu+FWsKk0gtMa9io2S8CHk=;VAt2PMh+v0N0zAz2Q3IMxQ=="
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
+
+secured: "hv8WVV5swZCibCXbQSfELvHijTN6n9Pqty95sPAf9BgWQOS7iowvob38DZe9PJCGZUYoO0fWQxUn02oowJ/42/SQnk7lLDwX6lAdtTfUxxPR8sb8/oJBy0kxwMwsrGtYtZzPdtd6bCRBV/1G3HwFiK1lSabaCDE+F0uLCSEGJxuHBjvYmnBxtlrd+0+5j9u1zlY0QGGzbu+KcQXKSPBMy0jfsB7O6LRhj3GTyMf/8gf8/yLhIPgW7cO2LTjUHU5zylnlV87QaWHi/RXZFUjcP0MQBX44jzVwL51T4BH5BvnIWmPmSl8Ts0SWNBOKGtmODStZ10Oo2nCv9tPdJnYzNCDFz7RiOUVosk46+ruc2/Q=;cbh5iPSPEG6jhrAG0j0IlA=="
 ---
 

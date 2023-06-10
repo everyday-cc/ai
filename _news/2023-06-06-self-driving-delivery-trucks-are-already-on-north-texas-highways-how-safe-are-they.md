@@ -58,19 +58,19 @@ related:
         width: 1062
         height: 597
         isCached: true
-  - title: "Tesla ‘Full Self-Driving’ software testing in Australia – report"
-    excerpt: "Tesla is quietly testing its so-called 'Full Self-Driving' semi-autonomous driving software on Australian roads, a new report has revealed. According to Teslascope – a service that tracks Tesla software updates and vehicle changes – the US electric-car ..."
-    publishedDateTime: 2023-06-06T00:56:00Z
-    webUrl: "https://www.drive.com.au/news/tesla-fsd-testing-in-australia-report/"
+  - title: "Self-driving car from Google's Waymo company runs over dog"
+    excerpt: "In a rare accident involving a self-driving car, a vehicle from Google's sister company Waymo killed a dog that ran into the road in front of it. The car was driving autonomously here with an employee in the driver's seat,"
+    publishedDateTime: 2023-06-10T16:00:00Z
+    webUrl: "https://www.carsifu.my/news/self-driving-car-from-googles-waymo-company-runs-over-dog"
     type: article
     provider:
-      name: Drive.com.au
-      domain: drive.com.au
+      name: CarSifu
+      domain: carsifu.my
     quality: 39
     images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:good,w_1200/cms/uploads/ypor6suuzbggrm1iezkq"
-        width: 1200
-        height: 675
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/06/2023-06-09-23_40_44-dpa-news-_-Photos-Release-2.17.7-Brave.png"
+        width: 800
+        height: 478
         isCached: true
   - title: "Self-driving Google robotaxi hit and killed a dog in San Francisco during test drive"
     excerpt: "A Waymo rep said the self-driving car’s software “correctly identified the dog” but “was not able to avoid contact,” killing it in March."

@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generati
 webUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/a45f368e-06be-11ee-b74a-5bdd335d4fa2_story.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Thanks to AI, Robots Are Aware of Their Surroundings"
-    excerpt: "Now we’re looking at machine learning and AI algorithms that teach the robot new tasks ... Not a lot the companies are doing that yet, but a lot of start-ups are developing it.” Robots have taken over manufacturing and warehouses."
-    publishedDateTime: 2023-06-06T00:00:00Z
-    webUrl: "https://www.mddionline.com/robotics/thanks-ai-robots-are-aware-their-surroundings"
+  - title: "AI buzzwords and what they mean"
+    excerpt: "Here are some frequently used artificial intelligence buzzwords and what they actually mean.  Read more at straitstimes.com."
+    publishedDateTime: 2023-06-08T21:00:00Z
+    webUrl: "https://www.straitstimes.com/business/invest/ai-buzzwords-and-what-they-mean"
     type: article
     provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 54
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
     images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/Feature_106.jpg"
-        width: 1540
-        height: 800
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/06/09/2023-05-16T092805Z263326407RC2WR0ARBQ4YRTRMADP3TECH-AI-WHO.JPG?VersionId=IW4Ygs6RDj4lMsNnKUIzkjDBmDVuR_tx"
+        width: 860
+        height: 573
         isCached: true
+  - title: "From AI to ML: Big Techs and their Obsessions"
+    excerpt: "The big tech companies have all heavily invested in generative AI and AI/ML, shifting their focus from other deep learning methods"
+    publishedDateTime: 2023-06-10T12:08:00Z
+    webUrl: "https://analyticsindiamag.com/from-ai-to-ml-big-techs-and-their-obsessions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
 
 secured: "3/NSC5yFXBOi4Ax3RZUQc9bctSvlW0zZS46Suu2XMB4xmAXCsjTHRuFd8fOHlk/rPhuYcWF2dwaY1CQpsOuBya9niWy3i9Rx9L78EYYs1D3lkMOKVOTJtYeZB82hYvIYlUC7bzn83XxBAdaK38JQVe2VtyXHYIvHGIEI7LoIIk966o7iVlOsyZEn9dx3TCPt9dq7+ok5TfZhK22I/S7HdFpoYslGpQd0SfTyQTAdLcXPVo0akvurzFrzvXaf9Evrs78mvIK4rJ7BUqiF3lvRhWgOwGDNNkpi0VjvnVUDSf9sZI+dYo7yWNd9lHIcrGvl7cP9Zn8Wq0cAA5OC+uEzpU2+dEY2bIBQ+b7l4WyAchY=;t/+D74reXAnOIYbTiDZnRg=="
 ---

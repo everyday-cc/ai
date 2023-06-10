@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Finance
+  - Google AI
 
 images:
   - url: "https://247wallst.com/wp-content/uploads/2020/04/imageForEntry16-Xbo.jpg?w=400"
@@ -106,6 +107,6 @@ related:
       domain: theedgesingapore.com
     quality: 33
 
-secured: "vZ0BkfDDvg/02MjdBRDfmKnk5XV87aAF1BIg6zAlJF75Gym+YkpgZtOPBEDynvcsFr744aOielWOZRhH45Qabq7PcIeH894xYjN7FzJ1LTk22rXAtp1ysevxhPhqBna8ogH6HFaX0V31ArNpdRB8hWuZTy0uQRrYzY3U6AYa2SxtnOE6SPwL9y8m/c7JgG7V0q4BmuwhwUv5/Iz94PIe19EFow5s4GDNZXMNhzPLIOLFoYojasKxCzQHBAS+Tq9zTLW1yOIkDm4ORlHfTyJWemyl0KF6GFsHZXQlrTLhHl0mfA/zBcVEi5JnL/EjuI/IKkSYke0kwT56G9TRSfEz/VdIn/vona48zhq1Qcp9Nc4=;QX7tKSRV2ChQa2x5ldUzEw=="
+secured: "AqJhKXkDRfBKUV8CZiPxCqWiZwBSO6XKDeoZvygkJ0oMMOReGZRf0UJ0vtzLDWtbff4aH0XBM58dzUaaU1ebjHd85ajly+sfNKHUXeaifzRzilpaInXtnNEEtzSgo2Rze/7xkAJTcH72w+uMpHJWs772NrHwRPN5CzVNbsGGtTsJfiCzYIsj0jPl0aY0kX6wDVWRFCdPgWJymNa5RAji+CZFHafv0qUjJhJ2EXFxE2CIn0GAiXEgBmAyu4GmA61NmgE59fTYXQgR8iYb/Z0Qo1GPhZ8atNO2CTcJQdngTEC1nlK1+7gk0dqZ+93uADZes7XR/NHXNLHDgdMc/AOUYwLQ+zmb1umyaWzLyRyCa1tXL3Sn+nVKUUa/4Wi5k5yGVX9PHm6NU/ggVzuJEVRpo+/9O9mYVyLBv4EZUPlXp6D7xpWwAHHl204ZO3xhagp44sPGj8Yt1fE3bEJxUPYQDJJmlkrKSvUpoj37wgwhVJ8AhT3YzQBWE+fc8TLrsJTcPWT/rnLg3y0SyNZkHe7kJg==;f2AguaYuzY9SANCgsqkjaQ=="
 ---
 

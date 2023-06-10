@@ -17,6 +17,13 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
+
+images:
+  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/unnamed-14.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Nvidia’s new AI “Superchip” combines CPU and GPU to train monster AI systems"
@@ -96,6 +103,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "WLx5HvAIeVhS0DSXzLBiMyzqnkMGKLf5QnU9frDEJoOwDo1nyXwrb/+t9P4DOqHeiccOGWuQkck9zQKjLL9BgdFR4SLiJMk/16waZqLxhgzoR9RDPgljSIVw1q8APpEixmDiX2W33mnVvjuRGUe3rr9TkVYsOdDKKjabwO+bGGpTkgcs/Y4/URmT9zDZwZEpeVDhb7ZaIn0gNHkF+euf5A/anlnPcRa2VVcA4B6XaoHmLyHT9E0YrTeJAbr7xrxEUcwCm9di64G+DQFOGjj79qrwCHjBI+4ckOutWEHTFIOP+XJAvvGo0OAvCvKojoezy8gHQkmME+u6UQR4bIuRzzhvPIDnVND3KivPucenFFZf8kv208Yvb1HjkzsoQm+GkyAdXVtM1qwRFNrqgE7VAWQt/dnjqyZ/fXxgnbR/0EmrSmwN0f10HnEvHjUi4Pg/yfJ+j6/CpGsbrQRPgQyFN8pgiFql5fLN7TL3BpY5oOViqIkyzSEqEYZM8cohBJIhPK2B8/a655PET9bN+kxvZQ==;GP5aGrcxo+1NAu5uh+6JCQ=="
+secured: "4Geu/g43RkLlcJVoPnjORBvBKeECCrLZEBztWEDmjnokpAG8AgbjNxGhZmvodcI2MBnDbvrpo6dajOhdosukMrwR3QqqVh+BQ//fjMBD5Rqp2e/1vFfjLAm/qjmdWV4MmkQeCsE14mH9N70F+SVjykciNTY89fVpLltJ4z9ILVRTD2RDgRbFD7FGvJTgjFZUlI9HF3DhuXwDsFa64CBo71jFEYG09v9l7cYbMkkX4L/mCfLTjkC1tnfj9R15j2ro1V6fjeiJxsEEu7R5+YJTjh8zJoz0Dvqw3Ox41qwqEf8mRQGAX2W1tjtNKx7J/oxTBHhzwP0V+9WC91mwKGrW3c2/0JhbLVxOYXRpc5IRvlA=;Q5JlpA2TVJh763/XE0eU7Q=="
 ---
 

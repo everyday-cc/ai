@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft to move top AI experts from China to new lab in Canada"
 excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
-publishedDateTime: 2023-06-09T20:00:00Z
-originalUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55"
-webUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55"
+publishedDateTime: 2023-06-10T10:49:00Z
+originalUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55?sharetype=gift"
+webUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55?sharetype=gift"
 type: article
 quality: 34
 heat: -1
@@ -293,6 +293,6 @@ related:
       domain: techreport.com
     quality: 11
 
-secured: "HwIjPnOPy2KlSV+7hu1S7GbagsevmYBmko5NMM5lsnu5ArHBdII38lnKA9OwHY6fig5LdJbeiXv2uVuY7fNoYt2JClonupS8r3Kn3ghrdH1wZlwX+MC8i2LYiz6mit/JoXRRzV1MoHu7DQv/TShE0pZ0X1DeZElJM6tTyH158/06Enq3oM672AeMrBy/yqIZcYcrXIzTppvbGSIXjrHaVvqkcobe2IFwH1rZkTvFElnC6J8byKQNfMHcxMDIveASuRWbOFPZDBOIpntL5/6oU+REH2cPhe6fPJLel6o6aBUzvwRoL5fVLbKwrEwCibo4vf0Hmpg/LUz5kJln23vYIDQbQDtOKFOJHzHNnzdWUAA57OQlSWzxIscb2za+2k7i8mCj9YPleWOMDSBd7np26n+sYrcHX6wNY98pIWNSeETT4PacqFRZ8YFVKnEDIZ9o5o+nw9/bV8IjKSAy8lG9xe5MGy7kARQ0tlEkxJHz3ObHe9VFbblofFNi+Rxr5IN0fsVi1dDAx4nFVIOHBu6Zrg==;qAoCaiu4ojjQTBbEW6eCQQ=="
+secured: "XOL6Yd9e7L7Z36xxp5q6EKew2PIhRcZhi9cRfSsGOBQFxEZlmAiNmTCutvkPP6QbvY7OBBCEEJ3TuNKu9paKFmTBLSBB3loLchyLKrKPPS03X7Ngc97L/rxiY5uStrHY6nnEYwh5lcFPydgM/hWjRnbRfPVfmY4ouIEXEBXiTKjVDbPY3askhtjHkMQYzKXanBerdwm4GqzrfVZWrzBJNVd/xvwRxlxM0ocKV0dBGAXOgIHoVnHn0dYvEOoT+a2tPgz2XRFFDKKs2q7/wm81jKywmc8ei9yell90HWs6uBxuD6esiZjZWZ2U66PvZh2iU6gfmKRvzn4NGiSv014ABSVSnFKqYlBCXw6nIhb1uqvi/j6BhgZjvvJamO6NaURCCpxT57l4nhcQZ4KFEKXPF+xFimIKakIoaDNxhMZrt5GtieQXGe8N2/I2/z26ZCD7v7GYaPPE17vtA/kfUZ2lw8oAouWObO09cQpJJ1uH5ps9tifhgbslUb5jiyj1/6SlWgRxMO2HW4Gv/WAg9O/Kew==;SEzAvIxMOEB/Enk+Y1DtZw=="
 ---
 

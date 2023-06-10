@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-o
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/amp/"
 type: article
 quality: 96
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://img.etimg.com/photo/96164744.cms"
         width: 2448
         height: 1224
-        isCached: true
-  - title: "Deep In Sight unveils groundbreaking AI-powered 3D depth sensing solutions at CommunicAsia 2023"
-    excerpt: "Showcasing In-Cabin Monitoring solution and Volume Management System which are Deep-In-Sight's cutting-edge 3D Sensing solutions at CommunicAsia 2023 Deep-In-Sight's solutions are expected to meet the diverse demands in the growing global robotics,"
-    publishedDateTime: 2023-06-05T23:22:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/05/9826687.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/2092662/Image_1__Deep_In_Sight_ICMS.jpg"
-        width: 400
-        height: 251
         isCached: true
 
 secured: "bbSyBs1fY5CurJN/xtJS61ab06G6PPpF9lk6Hs7F/jS6XNjiohnDSoTCQiaNkHLdJba3C8kffhopC3R7Q0NMD78FcDw+xNA3Roc+UVRQexq+qTKYM5Y7EimC6tJ6tAIzkgcxpxy18eTDUyq+vBcZFwf3JBKNoMFXycNq5v+PO70t80rULXQqZYuSSBmSB6QPlXBp3ATrNV1Hf70fHdcsRxvcO6+aRv2avLtXn1yBtS6/g8efsYcN9h59+E8ShxsUzShSY7D60Ybo4lOc2ShnFRiI+raHEa/uqMwMIX+2fjTNOxwZLlqxQEaoOxydtY+wR1GhOu1TF8DHwI9N1ILdmJyZe7c9AOZAD2RwlMr8up91K/6xhnh3OH6j0PcL60FmFoC9M/Ndze/YhLY7Eto0xbBMBSOvQLSYb1YlLxPizTYeclIK8BQbsfi8RNnS7K5lr+8HmVrFfS4JR0PvJxDITE51r7BOClphROvX7ThCy/gtLOPChc/eeIj20QAx+RXgiI8VOYwVvG2vHoY6dK6ebA==;jU2ogbJiNIIH5AZS+inClg=="

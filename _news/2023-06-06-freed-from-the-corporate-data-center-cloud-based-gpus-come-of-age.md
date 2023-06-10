@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Google AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/nvidia-g32c7f685a_1280.jpg"

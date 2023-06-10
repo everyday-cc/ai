@@ -3,10 +3,10 @@ category: news
 title: "Mount Sinai Researchers Use New Deep Learning Approach to Enable Analysis of Electrocardiograms as Language"
 excerpt: "Mount Sinai researchers have developed an innovative artificial intelligence (AI) model for electrocardiogram (ECG) analysis that allows for the interpretation of ECGs as language. This approach can e"
 publishedDateTime: 2023-06-06T19:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/p32746178/mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/p32746178/mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as"
-ampWebUrl: "https://www.benzinga.com/amp/content/32746178"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32746178"
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32746157/mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32746157/mount-sinai-researchers-use-new-deep-learning-approach-to-enable-analysis-of-electrocardiograms-as"
+ampWebUrl: "https://www.benzinga.com/amp/content/32746157"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32746157"
 type: article
 quality: 56
 heat: 66
@@ -42,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "vI2uyWaBGztz0HZ5rAUaMFNkrEvmlkHfK1lvaIFxBPi6VduBAxcepgmTuRLrO7X77XbiSt3Mqo8vdnhLJMeY5hfrC1TRa143mnWnqBeopD91BKi9jrDjFQt5ZKJSnHjHb9i5K5vg+vurW99D9UIcIpAKDbSCf8FJ/IMxa3Mz+lq1BK9lDkEgaG3qz9S5UMHK4qg8n/HkXclfd2iWnzWhAis4OBIpHxrW83ZF9IrA+xdg8OVfrAVzw+1znDxueaSJ7xhXmf0t36hrAYkn96epQCURCsdPyxMJjYdEswv7VJh1a/D//8xP1P6nmgsZyj6cD2KGINBNRi9n1wUX1diQPQimy0AhpibdAyIpIOzQx2g=;bpTbF4iL6coeAz5Lf44v4g=="
+secured: "bddanxUsS0ew4ox80Tv812e55sO+Db3USWPJcHsAvMZ2fv3llgV84sMqjQoxpoe96Loil2oW6fMY+OiWylJNo6xVVcvI4UY52OZL9bKFbtt1vPJaM1wmeyG0K9YxdhKIZqTSB6PjCVo0Pym8mWZe1IPyKO1yQIMTSKBUT/JWJ8zQQ0vd0IimGjg/T+iQuHURCQZJixyHJsNhZm9i3dWimMqynve+HmlMsDPRPL1b1OIGZnPPtdZ7IX/x6Z8AUpBIhO4Vl80YeaRyK1ukias0f8vaw4LkuOZDUO+xOQ4jBBeeTNCBeSRd/elFtscmk5edYGGSlFRw+Mae7kQEb9mRJ216mkP1nkwqtbLj5WRR90s=;CF036zRT64cyjrjgqWUOEw=="
 ---
 

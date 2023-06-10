@@ -87,20 +87,6 @@ related:
         width: 2448
         height: 1224
         isCached: true
-  - title: "Deep In Sight unveils groundbreaking AI-powered 3D depth sensing solutions at CommunicAsia 2023"
-    excerpt: "Showcasing In-Cabin Monitoring solution and Volume Management System which are Deep-In-Sight's cutting-edge 3D Sensing solutions at CommunicAsia 2023 Deep-In-Sight's solutions are expected to meet the diverse demands in the growing global robotics,"
-    publishedDateTime: 2023-06-05T23:22:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/05/9826687.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/2092662/Image_1__Deep_In_Sight_ICMS.jpg"
-        width: 400
-        height: 251
-        isCached: true
 
 secured: "EjR+ut39TlOtJt/8rpEewZMwqNq95skntgNTqRt3Bv+X7lQJOj5y70H+ajUAO8xAGHQkvBwywdl0aFwf/dB0tL8BqjP6gjlcGsNY1jcjC/dWoind3RigGtBxkh7f2u3BogaXj17f24WN3eOCKMzu6G8lxasgE84Asmo2SRxnaRGOexTWKEJJ+MFQyBbVMccGQ6Jo7Wg1iVHmoRt4lYfVa2OMER9J5wt+tZJYFAp96+9fo0Jz48z3H49AeKlIWE5zrYQeibWzFNAwMLwDriFrXINBHISg+u0nqQetC/dIIXsPZSaqoUuwcE/HOFeFUQ7fHLytBcmAYqymX0sS/3skFR+JYvtl8k0/dSn4brwEFUo=;pu7mt0WUuqd3Usq7r8jZKg=="
 ---

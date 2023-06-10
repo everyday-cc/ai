@@ -9,7 +9,7 @@ ampWebUrl: "https://www.steelguru.com/amp/story/innovations/journey-of-hands-fre
 cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/innovations/journey-of-hands-free-travel-with-cutting-edge-facial-recognition"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,61 +25,6 @@ images:
     width: 1200
     height: 874
     isCached: true
-
-related:
-  - title: "TSA expands controversial facial recognition program"
-    excerpt: "At 25 airports in the U.S. and Puerto Rico, the TSA is expanding a controversial digital identification program that uses facial recognition. This comes as the TSA and other divisions of Homeland ..."
-    publishedDateTime: 2023-06-05T23:24:00Z
-    webUrl: "https://www.cbsnews.com/news/tsa-facial-recognition-program-airports-expands/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/tsa-facial-recognition-program-airports-expands/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tsa-facial-recognition-program-airports-expands/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/05/3affcfd9-5415-4c0a-ad36-c70430eb2c34/thumbnail/1200x630/c0e2aa04e10814ca6a8433e8cf5505e3/facial.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI, facial recognition tech front and center at China security expo"
-    excerpt: "AI tech that spots \"undesirable\" behavior and long-distance facial recognition software were on show Thursday at a Beijing expo attended by hundreds of companies -- many blacklisted by the United States for their alleged role in repression in China and abroad."
-    publishedDateTime: 2023-06-08T21:51:00Z
-    webUrl: "https://japantoday.com/category/tech/ai-facial-recognition-tech-front-and-centre-at-china-security-expo1"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 51
-  - title: "Calls in Senate for TSA to halt facial recognition program"
-    excerpt: "Kris Van Cleave reports on the letter signed by several US Senators expressing disapproval for the TSA's new facial recognition devices. (6/5/2023)"
-    publishedDateTime: 2023-06-06T02:37:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/calls-in-senate-for-tsa-to-halt-facial-recognition-program/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 39
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/06/7dd07095-23a7-4876-914f-827cd511b5a0/thumbnail/1200x630/346e67909ceeecb6e5360380e2435fd0/3b91baea8a7aef65fa2b29c929d6ae7b.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Lawsuit alleges facial recognition contract breach, amid questions about litigant"
-    excerpt: "A partner of Vigilant Solutions claims in a lawsuit that a licensing agreement for facial recognition technology has been breached."
-    publishedDateTime: 2023-06-08T20:22:00Z
-    webUrl: "https://www.biometricupdate.com/202306/lawsuit-alleges-facial-recognition-contract-breach-amid-questions-about-litigant"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
 
 secured: "aNOBjgVvpKff4rDnCKZp1g2sqhtVDFqBdlSMD3pxegMeBni827Cx0dFN5HzUz8ykqwR+zTIJQN5lfJ6u0o6Y1RTxrUbrEZxKySfAHZIkAlBiMMcKCa/n+KP7nE8//StFqay8ff8X3kSeCf5lC4m0V7Z6vf1Sivz3bIEOnIt4k5qnRdLqwQtIJqRo6P17MgPFa4mr3gvbslsOzVlzkP2rM3tGqbIvt35ObhCabHHgbJcMyqIpMKZCocDrqjRqkHbyw7ADO9d/bFtIhuQxEE6BDDu/dWmXSkRc0GfcgqF0pqqK988CPpp7kjkvZgGKE5rR8cm1yIDSg8VEOpYi8+2nHQK0lzAgsRCpmcfIqIV79GQ=;tEWZS0zhfXIPkSgMJISoJw=="
 ---
