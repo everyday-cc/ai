@@ -49,15 +49,6 @@ related:
         width: 560
         height: 315
         isCached: true
-  - title: "8 tips for achieving better results from the new Bing AI"
-    excerpt: "How can you get better results from the new Bing Chat AI? Discover tips on how you can navigate searching for accurate and useful information in Bing AI."
-    publishedDateTime: 2023-06-07T19:05:00Z
-    webUrl: "https://www.techrepublic.com/article/bing-chat-ai-tips-for-better-results/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 49
   - title: "Zoom’s new AI tools will let you ditch meetings for good"
     excerpt: "Zoom IQ adopts OpenAI artificial intelligence to deliver a summary of conversations to users when they enter Zoom chats."
     publishedDateTime: 2023-06-06T19:53:00Z

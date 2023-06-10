@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/us-china-competition-artificial-intell
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/us-china-competition-artificial-intelligence-dominance-dictate-the-future-of-humanity-warn-experts.amp"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Investments are needed to stop the US from falling behind China in AI"
-    excerpt: "Incentives, investment and a light regulatory hand on artificial intelligence will allow the U.S. to prevent the Chinese Communist Party from achieving its AI domination dreams."
-    publishedDateTime: 2023-06-07T17:00:00Z
-    webUrl: "https://thehill.com/opinion/national-security/4034909-investments-are-needed-to-stop-the-us-from-falling-behind-china-in-ai/"
-    ampWebUrl: "https://thehill.com/opinion/national-security/4034909-investments-are-needed-to-stop-the-us-from-falling-behind-china-in-ai/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/national-security/4034909-investments-are-needed-to-stop-the-us-from-falling-behind-china-in-ai/amp/"
+  - title: "Over-regulation of artificial intelligence could lead to Chinese dominance, experts warn: 'They want to win'"
+    excerpt: "Experts argue difference between AI investment in China and the U.S. is the fact that the American model is driven by private companies whereas China takes a government approach"
+    publishedDateTime: 2023-06-09T06:00:00Z
+    webUrl: "https://www.foxnews.com/media/over-regulation-artificial-intelligence-lead-chinese-dominance-experts-warn-they-want-to-win"
+    ampWebUrl: "https://www.foxnews.com/media/over-regulation-artificial-intelligence-lead-chinese-dominance-experts-warn-they-want-to-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/over-regulation-artificial-intelligence-lead-chinese-dominance-experts-warn-they-want-to-win.amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
+      name: Fox News
+      domain: foxnews.com
+    quality: 70
     images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/artificial_intelligence_getty-.jpg?w=1280"
-        width: 1280
-        height: 719
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/AI-can-stalk-unsuspecting-victims-with-ease-and-precision-2-1.gif"
+        width: 550
+        height: 309
         isCached: true
 
 secured: "kEpkrPvUQ5F5/yUKsJkfYq8beShqH/OXBG+h8t6p1O+SJ5uHJrd24kNcvD9OK01jb1qRmDF3PoJTvmLWJBT6TgAAfT8TLUJKQxTDM1R5hP+2Eq65kuP10SVWsCyGn/8TaQX31UH1OMSHY2+4GrASLaiokwQa0IVjvovHHpmpEup1JqFbdJL8UI5WO+MZhySw0iJ+ELrraK2KFBfMRwOyjInU4wl2mogNLiPOeOqdt7U+wUWycJfRFME56j8Bv5yZfi0ley5Ms3AhXwXMZupy6K/9uR8J1bYT4U1EJRs2VO5wMqHtif6B2K09m+3z71omXYC3Yqr2tvwHFfsLxZK7IAUB7SwppgogKsQVk/aAs3gKPqhJL9Z0EYqHTIuA4b+s+q6qfoyOGoLJThGBYC6FbFok3tl0kiSzNcIPlI2TXxWIJrWrr8T9Lz7hzg6/NXGrGUqHKUglk5ID+rQdScQ48p8vqL/i/pliINmvGyw5cSO7RuXdhTHmQB2SNf41KSFVJ32jFXRzvDCPl4wIPQH8UQ==;ySwRZ0+6x+gXbHf1JDHNTQ=="

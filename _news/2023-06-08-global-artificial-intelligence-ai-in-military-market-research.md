@@ -27,7 +27,7 @@ related:
     provider:
       name: techworm.net
       domain: techworm.net
-    quality: 58
+    quality: 60
     images:
       - url: "https://www.techworm.net/wp-content/uploads/2023/06/best-ai-stocks.jpg"
         width: 1200

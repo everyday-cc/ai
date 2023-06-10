@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Advancing Intelligence at the Edge with AI Vision Processors"
-    excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
-    publishedDateTime: 2023-06-05T16:21:00Z
-    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21266232/texas-instruments-advancing-intelligence-at-the-edge-with-ai-vision-processors"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "R52AMoulEql9bArSJW+lWqk2PVwto00myOW5zr3JAJUlpQ3J7G1scviZPL2UmDeqaags/k1S74wNDYKVhFM15KOSDPPfqD4GEp94BJ+9ws2/9egeRsvIJTETMNuH96iTypz5v8mjcpMLDEEu/HP9u3M4zPNsImO1asclpsfYUlwZ5NJKrW7FY57S6Y3QP4TqVOEDHiH5Qx2SD0BogIan1qrkdIaVGrn+OmIddwiQaXAOSUFHSTDSoz08VViKHocYJo/QS5st6TtSC/VwGhF8B9dAUA35Eo8fY87S/kpC6KUofBg7EB8plleTf4KgQ10kVkAVRFQU7N1yDDOCQYnGuFXKXL/eAmiH4Lqpuo5vq4c=;nRU9wtnHLhoniHC6AZ/BDA=="
 ---

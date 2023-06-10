@@ -74,22 +74,6 @@ related:
         width: 800
         height: 529
         isCached: true
-  - title: "OpenAI boss 'heartened' by talks with world leaders over will to contain AI risks"
-    excerpt: "The CEO of OpenAI says he is encouraged by a desire shown by world leaders to contain any risks posed by the artificial intelligence technology his company and others are developing"
-    publishedDateTime: 2023-06-05T16:47:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/openai-boss-heartened-talks-world-leaders-ai-risks-99836465"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/openai-boss-heartened-talks-world-leaders-ai-risks-99836465"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/openai-boss-heartened-talks-world-leaders-ai-risks-99836465"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 52
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_0687c5645c191bceeb6c481deb985177_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "OpenAI CEO reveals why he isn't interested in taking the AI startup public"
     excerpt: "OpenAI CEO Sam Altman has been meeting lawmakers who are creating rules to monitor AI during his weeks-long world tour."
     publishedDateTime: 2023-06-07T06:14:00Z

@@ -73,6 +73,15 @@ related:
         width: 700
         height: 364
         isCached: true
+  - title: "Using AI to Adjust Your Marketing and Sales in a Volatile World"
+    excerpt: "Why are some firms better and faster than others at adapting their use of customer data to respond to changing or uncertain marketing conditions? A common thread across faster-acting firms is the use of AI models to predict outcomes at various stages of the customer journey."
+    publishedDateTime: 2023-06-08T19:02:00Z
+    webUrl: "https://hbr.org/sponsored/2023/06/using-ai-to-adjust-your-marketing-and-sales-in-a-volatile-world"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 51
 
 secured: "OMZlcX34Ue6RKaPFedz75p/4EL9jAzd+VmfvibxO21FnsBaShDmYICKNBQG3+3scp9lCrot6r4queBDa5UJDwBNDqQz9zQgPDM15lkxQHiBMpK/njHbMM3Txpp1m0AEb0S84Exph7pqab9W6Gg6uqTnUGeSLiIp6cxE95kHQ9MR3xvl7BIctIGJDRJelv5jginK7EAF/Wqz3HHgniGNwDXxOr21Z9gJlXRF6CdiARMhcoHzbVCjuokebYsXEb1lLFo0Kj5YAZlp5/bFYKDJ1l6VE3DwzoGUi9KVuXHeewS7GuP8/ANlR8DoTZcQbNcC8ld8/FFW649f1pqiXc30fXzvkYoRZ1wo5HwvBAWOHs9k=;A/iIIsLrEufc4B5/ed4V3w=="
 ---

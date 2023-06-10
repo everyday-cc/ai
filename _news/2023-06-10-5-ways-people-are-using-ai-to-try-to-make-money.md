@@ -32,6 +32,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Someone Rigged a Big Mouth Billy Bass with Artificial Intelligence"
+    excerpt: "Jessie Carabajal outfitted the classic, tacky wall decoration with artificial intelligence. You have to see it to believe it."
+    publishedDateTime: 2023-06-08T14:41:00Z
+    webUrl: "https://www.fieldandstream.com/survival/big-mouth-billy-bass-artificial-intelligence/"
+    ampWebUrl: "https://www.fieldandstream.com/survival/big-mouth-billy-bass-artificial-intelligence/?amp"
+    cdnAmpWebUrl: "https://www-fieldandstream-com.cdn.ampproject.org/c/s/www.fieldandstream.com/survival/big-mouth-billy-bass-artificial-intelligence/?amp"
+    type: article
+    provider:
+      name: Field & Stream
+      domain: fieldandstream.com
+    quality: 59
+    images:
+      - url: "https://www.fieldandstream.com/uploads/2023/06/07/Screen-Shot-2023-06-07-at-9.24.59-AM.png?auto=webp"
+        width: 2606
+        height: 1450
+        isCached: true
   - title: "Policymakers Need To Deal With Real AI Challenges"
     excerpt: "Policymakers need not and should not wander off into misty realms where autonomous AI programs spin out of control and threaten human survival."
     publishedDateTime: 2023-06-06T18:40:00Z

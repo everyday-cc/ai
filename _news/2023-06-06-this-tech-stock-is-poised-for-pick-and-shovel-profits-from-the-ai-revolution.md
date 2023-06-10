@@ -19,31 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Micron Is the Top Chip Stock Pick Amid AI Hype, Says Analyst"
-    excerpt: "Citi analyst Christopher Danely says chip stocks \"are due for a pullback.” He's cautious on the group, and has moved Micron stock to the front of the pack."
-    publishedDateTime: 2023-06-05T16:40:00Z
-    webUrl: "https://www.barrons.com/articles/micron-chip-ai-stock-pick-806ef36a"
-    ampWebUrl: "https://www.barrons.com/amp/articles/micron-chip-ai-stock-pick-806ef36a"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/micron-chip-ai-stock-pick-806ef36a"
+  - title: "20 Artificial Intelligence Stock Picks, and 10 AI Predictions, From RBC"
+    excerpt: "Wall Street has been cranking out the research on which stocks will be winners from generative artificial intelligency. RBC has weighed in too."
+    publishedDateTime: 2023-06-09T17:18:00Z
+    webUrl: "https://www.barrons.com/articles/artificial-intelligence-stock-picks-ai-predictions-24455b3b"
+    ampWebUrl: "https://www.barrons.com/amp/articles/artificial-intelligence-stock-picks-ai-predictions-24455b3b"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/artificial-intelligence-stock-picks-ai-predictions-24455b3b"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 74
+    quality: 72
     images:
-      - url: "https://images.barrons.com/im-794279/social"
+      - url: "https://images.barrons.com/im-797680/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Why This Chip Stock Is Citi’s Top Pick Amid AI Hype"
-    excerpt: "Citi analyst Christopher Danely says chip stocks \"are due for a pullback.” He's cautious on the group, and has moved Micron stock to the front of the pack."
-    publishedDateTime: 2023-06-06T12:31:00Z
-    webUrl: "https://www.barrons.com/articles/micron-stock-price-chips-ai-806ef36a"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 34
 
 secured: "8ebA01VTAd3cNWU1Op5lxauB/asJ4kbWHtw7jNtVgORb3yhhH5uzvTloPCG2Y4Ek9HttFt7Ex6Kwfs6444Wb8HxjVfhofX7AIFkmv6NW677z4Vyzloa+SnuZmv+qkYLOsRz/iIk2rlAdHXQpCOfWi+erjf45fld/LgZQR9hJJvanZKqhAs4UH4uO7rFUerIP0hubXDtbzYnZRaekiY7iCM1LnMUo1vBWFcjYWZq81f0n5o5AijIo2J8LJ/5ZU/eDBdwq/vKat0cX3aG/aFcJ2azFtLzgPazgxrYHpItIGxlWZ1efX/izetJAdzmRjeRxdGk9zdUZoIOlo2gmYG1jjfO7dZnA2U4lHMmdCSMdoc50mr8eoLE+PSAxFyyEQHnVdUL4Sq6F4tjhs7OoWXoms4Vqq+re79RMXEpM3d5wZpv5GEmtasKq2h3EAT3bpAeLOCOROgFcEf3TfGKH4Ho8q6j1RKNCQZIzxB22jnO3Tuwx9l7SJvf9adSb0wRBxrg2j8YFLRc5QHXiVtdVI8nUMg==;wKWhKtn1pmvkq8FBCPSvzQ=="
 ---

@@ -119,15 +119,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 13
-  - title: "‘The last frontier of disruption’: With its new AI chatbot, EY teams seek to take the pain out of payroll questions"
-    excerpt: "The chatbot, which leverages the Microsoft Cloud and ChatGPT in Azure OpenAI Service, uses a large language model (LLM) that analyzes information from pay slips, tax regulations and employer policies to provide answers to complex payroll questions — with the goal of increasing employee satisfaction and reducing costs for employers."
-    publishedDateTime: 2023-06-05T15:57:00Z
-    webUrl: "https://news.microsoft.com/source/features/digital-transformation/the-last-frontier-of-disruption-with-its-new-ai-chatbot-ey-teams-seek-to-take-the-pain-out-of-payroll-questions"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 0
 
 secured: "pEClB/taHeO5qSPkYlAjzXmKkJBT6VZTsXtXdltlswgGbpXukqURrkcs3w36lh65cdolBBDm5TPZMXMrAEQUkcAU1AcjwG1jDUsL7BAi86IcuItHQS2GgI0xYJ56GqhrV7jCpQLq3kOPLVb/ngT9nF8+QvXIewnD8TTqoaLj0225GqNoypyNCO/rXGXCVZXmidSGxk6VlGvQmuT97fhY0+dlszhCk6nor0D8Jt5mWsvC3usw+gSxVGgdFOiuiUxo926w4lNpHNFijO1ksI9tia/iYP1jOV27wp4Pw97QT4kogUsEGLS8VFmG6svgKgpXAvS60a1x8rg9GVCLvom2P60C6hU7YUrksuXEt/jOnPk=;Y3OoXP0s32QvzWfGG6P7pg=="
 ---

@@ -1,21 +1,32 @@
 ---
 category: news
-title: "An AI chatbot might soon slide into your Instagram DMs"
-excerpt: "Instagram is reportedly working on an AI chatbot that will let users choose between 30 different personalities to chat with."
-publishedDateTime: 2023-06-07T18:21:00Z
-originalUrl: "https://bgr.com/tech/an-ai-chatbot-might-soon-slide-into-your-instagram-dms/"
-webUrl: "https://bgr.com/tech/an-ai-chatbot-might-soon-slide-into-your-instagram-dms/"
+title: "Bank Customers Aren't Happy With AI Chatbots. Here's Why"
+excerpt: "Banks are implementing AI chatbots in their customer relations operations, but the Consumer Financial Protection Bureau says some bots are causing frustrations."
+publishedDateTime: 2023-06-10T08:15:00Z
+originalUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/"
+webUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/"
 type: article
-quality: 17
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: BGR
-  domain: bgr.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+  - AI in Finance
+
+images:
+  - url: "https://www.cnet.com/a/img/resize/2dc3500f203ced9cff4738727c8a636b25abb1a6/hub/2022/12/10/f740691c-a2e7-4119-9d71-bd37ced7afbb/chatgpt-chatbot-art.jpg?auto=webp&fit=crop&height=630&width=1200"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Instagram may be getting its own AI chatbot soon. Here's what we know"
@@ -33,20 +44,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/731fa999b2b078dba0f7ffd929234df150b9a7bd/2023/06/06/0d67eed7-716a-47da-bb16-4b86e1f196b8/gettyimages-1256994567-1.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Bank Customers Aren't Happy With AI Chatbots. Here's Why"
-    excerpt: "Banks are implementing AI chatbots in their customer relations operations, but the Consumer Financial Protection Bureau says some bots are causing frustrations."
-    publishedDateTime: 2023-06-10T08:15:00Z
-    webUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
-    images:
-      - url: "https://www.cnet.com/a/img/resize/2dc3500f203ced9cff4738727c8a636b25abb1a6/hub/2022/12/10/f740691c-a2e7-4119-9d71-bd37ced7afbb/chatgpt-chatbot-art.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Instagram Reportedly Developing AI Chatbot With 30 Personalities"
     excerpt: "Meta is reportedly testing an Instagram AI chatbot that offers users the choice of switching between 30 different personalities. A screenshot (Opens in a new window) shared on Twi"
@@ -126,6 +123,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "An AI chatbot might soon slide into your Instagram DMs"
+    excerpt: "Instagram is reportedly working on an AI chatbot that will let users choose between 30 different personalities to chat with."
+    publishedDateTime: 2023-06-07T18:21:00Z
+    webUrl: "https://bgr.com/tech/an-ai-chatbot-might-soon-slide-into-your-instagram-dms/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
   - title: "Facebook, Instagram to get ChatGPT-like smarts as Mark Zuckerberg’s Meta plans big generative AI push"
     excerpt: "Mark Zuckerberg, who plans to incorporate generative AI into Meta’s flagship products, talks about his AI plans at a meeting held on Thursday."
     publishedDateTime: 2023-06-09T11:57:00Z
@@ -136,6 +142,6 @@ related:
       domain: financialexpress.com
     quality: 4
 
-secured: "TaW1Q9U/1V1a3fyRgpmZC9n0s7vUDAlZN2QEXBYCub2hwB/2sIdSxp5yu//g9+MElZTd4NnTp07aLaDgSDuDJgRcLghoRpnK94l+dcizQeqTTuFx/Wwf9febaUElL3t343Tfp7O/b4ibO1pRV5U70D2KLugC4EnQ1BUOh6tvh+4DUdH4mHHZrAQNcUZXZip8LnyK3uq8AXydfeVzyxpyUeCyuOx3RZKFX1b1fLN1lUOZQ5rDlHOWJXGJ2y8FR7eRjr24VStAZOFLfpgIiYWiEERAStA57jy51RhUixEbupbSdsjscJss3RVK1WJecGtA1yzoxtz/X+NEwxmU0ezX/x+mmJ59/TEuBVSAkrnLmEEf8xn8seZAQbw5dcSQOFWJcOJOKpRYWUqPsdf27LDPLzhtVhTYfiwTa+Obk7LLav8CxjVAyxa+ZfpBmhWH919hmjQqKsPWf9b2ducvymeO3pA+ze+hYogJWE7WoUQh7HyCr8H506NyvM/56QBEPqJKphDPdevGsgoDFI7AK60d6w==;lwnNZ3m3UI34CX/OJmjB5g=="
+secured: "/TyAcYsr7u2P7UKs9bTEoGrNCDSSXtQxpF5XmayZ9CC8niA7Oi6e7HuBQlVM7IdfDofSCjFLeh8ysS3GPMJnfPzUZWuX2cQ0we0n8FsZFEaXRt6JEO0DDBvLI+ReEspuAxeWI890TrvJ/0ygvy1yehw0MfYgqOv2Ui7g/IlK203g1JdpDMxWnnxDZajOTleGGiDWZ5pfwy4oFuAgYoclbRzv0GaK+n3iw7uwM+MeHOwBySMc1WAbO60AnXHLW8hdmsmsuhu1ij+7f2DFFey8LBp1nyu5/7B4QjO9XqGYSpvAb+Yg3rQI13VMGmD94znIBoP89BDRPgQD+4avAiIPSa+SPPCLDVFblld8e9O7Akw=;X1v4sMwM5qDUlpdIoR+kvA=="
 ---
 

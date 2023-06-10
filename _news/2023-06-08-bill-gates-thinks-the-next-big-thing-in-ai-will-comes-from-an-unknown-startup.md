@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32768497"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32768497"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1000
     height: 667
     isCached: true
+
+related:
+  - title: "Investments are needed to stop the US from falling behind China in AI"
+    excerpt: "Incentives, investment and a light regulatory hand on artificial intelligence will allow the U.S. to prevent the Chinese Communist Party from achieving its AI domination dreams."
+    publishedDateTime: 2023-06-07T17:00:00Z
+    webUrl: "https://thehill.com/opinion/national-security/4034909-investments-are-needed-to-stop-the-us-from-falling-behind-china-in-ai/"
+    ampWebUrl: "https://thehill.com/opinion/national-security/4034909-investments-are-needed-to-stop-the-us-from-falling-behind-china-in-ai/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/national-security/4034909-investments-are-needed-to-stop-the-us-from-falling-behind-china-in-ai/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/artificial_intelligence_getty-.jpg?w=1280"
+        width: 1280
+        height: 719
+        isCached: true
 
 secured: "XTP4WZX9NMf6P1nhJ8arLZhSPAgpg+31QWyzG2VOflBw2YdfXixklj4RJdYYLHq5LMnKiRbLUzQt8gFKfNyoXzaZiiZuakQq+dOoD7nGsKEYa/0DLy24JvBS1L4bRLOiFSEX1WkYNi4fmjF274phY/xLuQfztHZAJcUhJSXUVwMoYVamp7kMxWbVjfJ9MWguKdPayORyiNAcOViuvvkTexulnmQBIMGV7UpnxP4MQnl50V5S6VJA3ES8vWCbdreqPdya6wRASlx++ifC1MizFaWyX0EJ2b6UFHviCShJHSOTWzjIXmFuhxa1XT0JqIDTHF/e4lV3utJNuEzoYS0EgFCsNOPnwK+JVMuj5uNTcJE=;6uMLLY1lVr8RGEdpPNg7oQ=="
 ---

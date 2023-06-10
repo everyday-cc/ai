@@ -20,37 +20,65 @@ topics:
   - AI in Sales
 
 related:
-  - title: "How AI Can Revolutionize Pharma Sales And Marketing"
-    excerpt: "The challenge has been to interpret large quantities of ever-changing data to create clear prioritization and messaging. It's a problem statement tailor-made for AI."
-    publishedDateTime: 2023-06-05T16:15:00Z
-    webUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/amp/"
+  - title: "AI Is Here To Stay, But It's No Match For Humans In PR And Marketing"
+    excerpt: "While AI chatbots like ChatGPT are poised to fundamentally alter the nature of work, now is not the time to panic. Armageddon is not upon us."
+    publishedDateTime: 2023-06-07T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 121
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647cd384304f51197113b283/0x0.jpg?format=jpg&width=1200"
-        width: 624
-        height: 428
+      - url: "https://imageio.forbes.com/specials-images/imageserve/632863e848add909c4b00d1b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "The AI Revolution: How Machine Learning is Changing the Way We Live and Work : Sanchar Shakti"
-    excerpt: "In the discussion like this we can talk on & on but raising concerns and suggesting solutions  are not going to work . We need a robust platform where these suggestions become our way of life that turns  our choices into our command says “Productivity Conultant & Founder of Sanchar Shakti” Kabeer Goswami."
-    publishedDateTime: 2023-06-08T15:08:00Z
-    webUrl: "https://www.mid-day.com/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
-    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
+  - title: "The Weakness Of Artificial Intelligence In Marketing"
+    excerpt: "Artificial intelligence (AI) is the new \"internet.\" Like the internet, AI has created a lot of these same responses. The stark reality is technology has never gone backward. It marches on, and how we respond to these developments for better or worse is what shapes the outcome."
+    publishedDateTime: 2023-06-08T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/"
     type: article
     provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 63
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://images.mid-day.com/images/images/2023/jun/Sanchar-Shakti-0806_d.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6480df6d3a8f502c9a595936/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The rise of digital marketing: Assessing the impact of AI and machine learning on advertising practices"
+    excerpt: "The rapid progress in artificial intelligence and machine learning has provided marketers with powerful tools to effectively connect and engage with their target"
+    publishedDateTime: 2023-06-06T07:21:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/16/239002.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 55
+    images:
+      - url: "https://biz-file.com/c/2306/700581.jpg"
+        width: 700
+        height: 364
+        isCached: true
+  - title: "AI In Healthcare Market 2023 Is Ready To Set Outstanding Growth In Upcoming Years X Herald"
+    excerpt: "The Most Recent Research On The  global ai in healthcare market 2023  was undertaken across a number of sectors in numerous countri"
+    publishedDateTime: 2023-06-05T20:32:00Z
+    webUrl: "https://menafn.com/1106390990/AI-In-Healthcare-Market-2023-Is-Ready-To-Set-Outstanding-Growth-In-Upcoming-Years-X-Herald"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 48
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?771337"
+        width: 324
+        height: 250
         isCached: true
 
 secured: "6c4ddokCN2k4u3uvRh8U8M0XWiP+JsqnuRxS0MJB7bu1f9q6+xHuVJh9j+qJqM0axNyBfUdERKxrfJC16oCr6UNYUSpde0NtRAbfLfX/lhtH+jOEp5CGTBNwkzm14JCmqDzfXA7bQydTyPIjKR19B6HfcTsFfSiUsxob0wHsUeKNAcovfkPLMqoI0qI4s+sUu1jfpD2Joa+bOYbXlVshlTk1KKf6oq7aNwSbHPHagk3w2GJVT2CrrTseC0hCggaa+7lL80C/0lzFu/ROe+aksWYJ8HIO2s5fhhO55IBOiB0xFih8Ym40dEOqAlBQLWpVHTmcKYFYn1P4VNboepBcwTYLWo+ODnAhmKhoCjSjKqwKddF2zgMggAaw9Uf3Q910U8IOAj/SKt+vMOLRJvrgg2ROL/dlT4BQh991jJDpcG8CGRNKttDcPbMJVfvWIno7coeheYsujscEzOqgM502Cprmu9FTFMy7inaq9FznT3LMh4GeGstm9jmpPx2TOsl0J7Mv+yhnMblxBD1d/1ihOw==;kfLqlKhsrvs61BHzLbOKig=="

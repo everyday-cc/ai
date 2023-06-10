@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/national-security/4034909-investments-ar
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/national-security/4034909-investments-are-needed-to-stop-the-us-from-falling-behind-china-in-ai/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "US, China competition for artificial intelligence dominance will 'dictate the future of humanity' warn experts"
-    excerpt: "Experts weighed American and Chinese military and civil investments in AI and while some believe the U.S. has a slight advantage in developing the technology, others worry China has already surpassed U."
-    publishedDateTime: 2023-06-07T09:19:00Z
-    webUrl: "https://www.foxnews.com/media/us-china-competition-artificial-intelligence-dominance-dictate-the-future-of-humanity-warn-experts"
-    ampWebUrl: "https://www.foxnews.com/media/us-china-competition-artificial-intelligence-dominance-dictate-the-future-of-humanity-warn-experts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/us-china-competition-artificial-intelligence-dominance-dictate-the-future-of-humanity-warn-experts.amp"
+  - title: "Bill Gates Thinks The Next Big Thing In AI Will Comes From An Unknown Startup"
+    excerpt: "While many people believe that a tech giant — such as Google or Microsoft — will change the AI game, Gates said there's a 50-50 chance that a startup could be the winner of the future. \"I'd be disappointed if Microsoft didn't come in there,\" Gates ..."
+    publishedDateTime: 2023-06-07T20:47:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32768497/bill-gates-thinks-the-next-big-thing-in-ai-will-comes-from-an-unknown-startup"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32768497"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32768497"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 67
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eb5c2b7-5a43-4584-8a5d-981a0ab93cfd/e6a35246-7829-4bf2-829e-e2147b2fbba8/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Kaunas,,Lithuania,2022,-,April,20:,Microsoft,Logo,On,Screen.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "/B+73S33FfFaeSdEjFuCaH58QMGCzHFZk29XvcLbOw8RJxXoHNH2sniQrgAVL6BpxL4GdhBGetc/0DIVtiHEVKrm27l8OpYASA9zm73LIJTzJpqgR5LtZeowYjSisYE0HRzFGUOY7yIsVY7E8zSP1keTBs9rW2jd81xMWl8GrOXMqlRnjsoexVDs870MIEZ3z5yVZFfZ0v1SbBgT1AJpxsDDEJia/Hvi+ennIkqde7gAQNkDlLdNeFnh3RNrXPgkqk7tbBo9L7Q+AclqsTWbZmyG/fSqBQ4KaLUTCcJDAxqc3dWxo8+2B2auyEKauQ9XiyhkBCS5FdBUUdYXzaQVneSbfzLyE/251iy24CatFvs=;1bVBqFiUuTxsAeKAEyIrog=="

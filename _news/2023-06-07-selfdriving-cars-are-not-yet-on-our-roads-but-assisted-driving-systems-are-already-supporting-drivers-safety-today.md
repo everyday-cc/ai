@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk says 'happy' to license Tesla self-driving technology"
-    excerpt: "Tesla Inc Chief Executive Elon Musk said in a tweet on Monday that the electric-vehicle maker would be \"happy\" to license its self-driving technology and advanced driver assistance system Autopilot to other companies."
-    publishedDateTime: 2023-06-05T15:43:00Z
-    webUrl: "https://www.reuters.com/article/tesla-licensing-idUSL4N37X32Y"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla driver hits a dog, claims they were on Full Self-Driving Beta"
     excerpt: "A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times."
     publishedDateTime: 2023-06-09T17:33:00Z

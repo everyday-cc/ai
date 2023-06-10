@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Use AI with caution when comes to mental health"
-excerpt: "When people read that AI could replace the equivalent of 300 million full-time jobs,"
-publishedDateTime: 2023-06-09T00:00:00Z
-originalUrl: "https://www.thetelegraph.com/news/article/alton-artificial-intelligence-ai-saint-anthony-s-18141135.php"
-webUrl: "https://www.thetelegraph.com/news/article/alton-artificial-intelligence-ai-saint-anthony-s-18141135.php"
+title: "Someone Rigged a Big Mouth Billy Bass with Artificial Intelligence"
+excerpt: "Jessie Carabajal outfitted the classic, tacky wall decoration with artificial intelligence. You have to see it to believe it."
+publishedDateTime: 2023-06-08T14:41:00Z
+originalUrl: "https://www.fieldandstream.com/survival/big-mouth-billy-bass-artificial-intelligence/"
+webUrl: "https://www.fieldandstream.com/survival/big-mouth-billy-bass-artificial-intelligence/"
+ampWebUrl: "https://www.fieldandstream.com/survival/big-mouth-billy-bass-artificial-intelligence/?amp"
+cdnAmpWebUrl: "https://www-fieldandstream-com.cdn.ampproject.org/c/s/www.fieldandstream.com/survival/big-mouth-billy-bass-artificial-intelligence/?amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Telegraph
-  domain: thetelegraph.com
+  name: Field & Stream
+  domain: fieldandstream.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/33/16/21/23913580/3/rawImage.jpg"
-    width: 1463
-    height: 2048
+  - url: "https://www.fieldandstream.com/uploads/2023/06/07/Screen-Shot-2023-06-07-at-9.24.59-AM.png?auto=webp"
+    width: 2606
+    height: 1450
     isCached: true
 
 related:
@@ -39,22 +41,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Someone Rigged a Big Mouth Billy Bass with Artificial Intelligence"
-    excerpt: "Jessie Carabajal outfitted the classic, tacky wall decoration with artificial intelligence. You have to see it to believe it."
-    publishedDateTime: 2023-06-08T14:41:00Z
-    webUrl: "https://www.fieldandstream.com/survival/big-mouth-billy-bass-artificial-intelligence/"
-    ampWebUrl: "https://www.fieldandstream.com/survival/big-mouth-billy-bass-artificial-intelligence/?amp"
-    cdnAmpWebUrl: "https://www-fieldandstream-com.cdn.ampproject.org/c/s/www.fieldandstream.com/survival/big-mouth-billy-bass-artificial-intelligence/?amp"
-    type: article
-    provider:
-      name: Field & Stream
-      domain: fieldandstream.com
-    quality: 59
-    images:
-      - url: "https://www.fieldandstream.com/uploads/2023/06/07/Screen-Shot-2023-06-07-at-9.24.59-AM.png?auto=webp"
-        width: 2606
-        height: 1450
-        isCached: true
   - title: "Policymakers Need To Deal With Real AI Challenges"
     excerpt: "Policymakers need not and should not wander off into misty realms where autonomous AI programs spin out of control and threaten human survival."
     publishedDateTime: 2023-06-06T18:40:00Z
@@ -64,6 +50,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Use AI with caution when comes to mental health"
+    excerpt: "When people read that AI could replace the equivalent of 300 million full-time jobs,"
+    publishedDateTime: 2023-06-09T00:00:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/alton-artificial-intelligence-ai-saint-anthony-s-18141135.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/16/21/23913580/3/rawImage.jpg"
+        width: 1463
+        height: 2048
+        isCached: true
   - title: "AI Music Generators Make You Feel Like a Maestro. Here’s How They Work"
     excerpt: "Instead of yanking the rug away from producers, these tools can actually streamline the music production workflow. We put together a guide to help you get your feet wet."
     publishedDateTime: 2023-06-09T20:19:00Z
@@ -88,6 +88,6 @@ related:
       domain: newsobserver.com
     quality: 17
 
-secured: "xl6StuB+RxzCllXZMr6LmP7FNS7n+FKAYAKdjdE8NUvAa5iJA6DBkfsCRunREwILZoJhj+hY+HJ5WEFSicywV4rTf/PTiO50joTekHUSU/rrZUBt60LEIkBa1wD56DJFJdag+ZtoX0q1vQs5h+ct/wplnDJ3bSbexBY3uIBjgwhGHeqANkpQTMNDm3mFREjmEyB6R0/vMltq3upOP7a/KMIA5t6Uc6lPh48pZ67J8GSkVJu2dA5BGuOJ4KhEi/FHyAFjjCht6TjOjMdB0h5BYUeqrM7K4POeI9NG6Y4l5TAJK5YrnsB8/bHF9p+1QvgTsS1GzWoFD3fKEaSOdQmPPXrHxqIeY7vY8yhNUsx0d1arjbSUQmQjHvmeQ9AbHKO9Bk2z5vQcTTJPJL0y78LDp19bfa74gUM1bIwStvlT1jVj97+HuP2HCQDLgP3e6VEVyXaZ+8YyqSnOVIzJmwxhD8pinbA7DvkoAwu+vv4gjMdx4QwzIRkEmcSGrI5Le3qHXo1KY0ggFuDckgfFGYkQ2Q==;POjatFKArx+5Wxn/pkYslA=="
+secured: "HVTGFghamICyt4G9qPrffKXLXAkNgRlRpeMApUDJVBlKyc4YKuTOT+yqvBApufswG/nC7h85xKMA6jtOrWetgvGP6+6zpRrVZzkehDKzmTul39U5PCCuMZ+MMYkow9rcoPQRiWynDG9AGCDGSEFmqgSX+cz5Oqb6TToufiFkdOLAo2b8MGpaIVF5mCYm44y8+MkqMlRM/c/gHOPd22tD54uSmrTvQozVsyDTeL80qVnTZbEN8cIHrOeozGeprJyoWN4ynZkak27jCdPjxxvvNXxIfILrGWL5TS8VfEnnzEYPnJX3A6QC0is5+cioaAXCqe4PhNF6BAyyM4kvFr3KMHxzp7ZmdfWmbQDna9IIkt0=;e8OAuU5xgM/+DDTEA6LjSQ=="
 ---
 

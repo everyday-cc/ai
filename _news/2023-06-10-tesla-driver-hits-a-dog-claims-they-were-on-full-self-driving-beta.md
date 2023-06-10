@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk says 'happy' to license Tesla self-driving technology"
-    excerpt: "Tesla Inc Chief Executive Elon Musk said in a tweet on Monday that the electric-vehicle maker would be \"happy\" to license its self-driving technology and advanced driver assistance system Autopilot to other companies."
-    publishedDateTime: 2023-06-05T15:43:00Z
-    webUrl: "https://www.reuters.com/article/tesla-licensing-idUSL4N37X32Y"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A Waymo self-driving car killed a dog"
     excerpt: "And a self-driving car killing a sweet pooch has the potential to kick out that third leg. It also comes at a critical time for the industry and, specifically, for Waymo, which is expanding its robotaxi network in Phoenix and gearing up to charge fares for ..."
     publishedDateTime: 2023-06-06T22:02:00Z

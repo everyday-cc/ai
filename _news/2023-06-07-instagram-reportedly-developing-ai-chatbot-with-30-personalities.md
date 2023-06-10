@@ -44,21 +44,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "David is friends with Lazarus. Lazarus is an AI chatbot"
-    excerpt: "More and more people are forming friendships and even romantic relationships with AI chatbots, prompting concerns among experts who study the ethics around the rapidly evolving technology."
-    publishedDateTime: 2023-06-05T16:52:00Z
-    webUrl: "https://www.cbc.ca/radio/thecurrent/ai-chatbot-friends-romance-relationships-1.6864001"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6864001"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6864001"
+  - title: "Bank Customers Aren't Happy With AI Chatbots. Here's Why"
+    excerpt: "Banks are implementing AI chatbots in their customer relations operations, but the Consumer Financial Protection Bureau says some bots are causing frustrations."
+    publishedDateTime: 2023-06-10T08:15:00Z
+    webUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 59
+      name: CNET
+      domain: cnet.com
+    quality: 84
     images:
-      - url: "https://i.cbc.ca/1.6864030.1685732571!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/david-beaver.jpg"
-        width: 620
-        height: 349
+      - url: "https://www.cnet.com/a/img/resize/2dc3500f203ced9cff4738727c8a636b25abb1a6/hub/2022/12/10/f740691c-a2e7-4119-9d71-bd37ced7afbb/chatgpt-chatbot-art.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI chatbots offer comfort to the bereaved"
     excerpt: "Staying in touch with a loved one after their death is the promise of several start-ups using the powers artificial intelligence, though not without raising ethical questions."

@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 616
         isCached: true
-  - title: "Generative AI can save 5 hours of marketing hustle every week: Salesforce report"
-    excerpt: "A survey from Salesforce and YouGov has revealed that generative AI can save marketers' five hours every week, or more than a month in a year."
-    publishedDateTime: 2023-06-05T15:19:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-can-save-5-hours-of-marketing-hustle-every-week-salesforce-report/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1180183363-e1636482579984.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google Cloud Partners With Mayo Clinic To Use AI In Health Care"
     excerpt: "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the"
     publishedDateTime: 2023-06-08T07:58:00Z

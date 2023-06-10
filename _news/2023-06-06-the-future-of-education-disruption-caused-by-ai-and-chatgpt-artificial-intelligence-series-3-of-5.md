@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
 type: article
 quality: 108
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -125,15 +125,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 13
-  - title: "‘The last frontier of disruption’: With its new AI chatbot, EY teams seek to take the pain out of payroll questions"
-    excerpt: "The chatbot, which leverages the Microsoft Cloud and ChatGPT in Azure OpenAI Service, uses a large language model (LLM) that analyzes information from pay slips, tax regulations and employer policies to provide answers to complex payroll questions — with the goal of increasing employee satisfaction and reducing costs for employers."
-    publishedDateTime: 2023-06-05T15:57:00Z
-    webUrl: "https://news.microsoft.com/source/features/digital-transformation/the-last-frontier-of-disruption-with-its-new-ai-chatbot-ey-teams-seek-to-take-the-pain-out-of-payroll-questions"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 0
 
 secured: "asE83PuMn/UzOVDQI6+NukrHArUz2JUlTBeDjtahCX5XcUg3UybDjMVSCadSzbV+coGeZ7bRQmk/heZrKZwabIrBBvQAPEFS15Sg6yE7IqQMksCXPQq1PwsDSFM0w/TDo6PBAzs6euRZrSyvxlgrnPwaplZl84WyVMxXA4As5yy1nnOjpBMZqlQ3AMMKebtDvD+Gc9UwNwH6izqMmakX35KhnDf+FAbm+8MvBvU67qd5gENyBq6o4YXpL5Ljjmw0DCbZJDJvjMIiCMX0/mjQjvVxBxjdhvpE5xCEtVf9CtBzQGaqCBwPaEirk4WmRgdkz0uWpNSumUX9EpUfZZgEUNRYeIXaVzszRvRMUjP3d71CIffIph49q6SsnMKbs/3Lp16WmbRtolQnwCv5USNlYvikjUsnbEiCQL7tr622tHTalqBYJ4Y7vPgPVtvYT7ZIAlbkk8bt3TDjjlx9fLEjO9bbiR/X/8LOqlfuQqSuIJTMEy71SFG1HW69Ph7K+ZB3CPoePT8qMXUKiSKBRH91/Q==;50fdC0YPnj5sV+gTzAgJlQ=="
 ---

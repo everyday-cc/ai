@@ -52,15 +52,6 @@ related:
         width: 560
         height: 315
         isCached: true
-  - title: "8 tips for achieving better results from the new Bing AI"
-    excerpt: "How can you get better results from the new Bing Chat AI? Discover tips on how you can navigate searching for accurate and useful information in Bing AI."
-    publishedDateTime: 2023-06-07T19:05:00Z
-    webUrl: "https://www.techrepublic.com/article/bing-chat-ai-tips-for-better-results/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 49
   - title: "Researchers apply artificial intelligence for early risk forecasting of Alzheimer's disease"
     excerpt: "An international research team led by the Hong Kong University of Science and Technology (HKUST) has developed an artificial intelligence (AI)-based model that uses genetic information to predict an individual's risk of developing Alzheimer's disease (AD) well before symptoms occur."
     publishedDateTime: 2023-06-07T13:17:00Z

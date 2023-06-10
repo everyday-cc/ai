@@ -61,22 +61,6 @@ related:
         width: 1100
         height: 665
         isCached: true
-  - title: "Microsoft Build 2023 Brings AI Tools To Where Work Is Done With Copilots And Plugins"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead shares his highlights from Microsoft Build 2023 and examines how its latest AI developments fit into plugins and copilots."
-    publishedDateTime: 2023-06-05T16:58:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647e132a8740135a2713b283/0x0.jpg?format=jpg&width=1200"
-        width: 624
-        height: 416
-        isCached: true
   - title: "How Microsoft Fabric aims to beat Amazon and Google in the cloud war"
     excerpt: "Analysts and experts praised Microsoft Fabric as a significant advancement that could help Microsoft leapfrog Amazon and other cloud providers"
     publishedDateTime: 2023-06-06T21:23:00Z

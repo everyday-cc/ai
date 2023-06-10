@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Generative AI can save marketing pros 5 hours per week, according to research"
-    excerpt: "Generative AI adoption in marketing reveals promising productivity gains with marketers estimating generative AI can save them the equivalent of over a month per year, making room for more meaningful work."
-    publishedDateTime: 2023-06-05T16:59:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/16496ceb203eeb2527b2456b29f8cf1bfc83b0bb/2023/06/05/4cb060d3-f8af-4921-b60d-7f413238c35d/gettyimages-1466924677.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "J1dDuRLU32pswBKiWVrEwpMl4n0x3IAxhmXIM8+0pFTaRZ15FLZD86Ll/Ak+VVGPTWVl3nud31H9WVO6YJTXVvMpxmMqlQzhWaygEBnQ2A8tUNhy31ApgC6hJIFpgfyLeGvov1Vs0EHB+jtibRNgfbF2cIt9y7bMVByIyKXV+w6AFMz7rDbn3CxoKh4OXCuibMCkrarFvbZ/2GhVoCWwHt15WURuEdRaUAWV7FMaiGHeh1kXDxugSof822x0uhio9rrYnH+YO9WJpbNsHU14EHyfxO7I4RoAUIVVvDDrfIfdUEwCfGv+2sZ4GwFxpeoBE6xSqweG/1bYrMZEWoKxFMeIO/gnJAtbJVe//EdBBj0=;0Y75EyJL4N0HP+MEI8BDHA=="
 ---
