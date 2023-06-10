@@ -2,9 +2,9 @@
 category: news
 title: "A Cheat Sheet to AI Buzzwords and Their Meanings"
 excerpt: "The arrival in late 2022 of the ChatGPT chatbot represented a milestone in artificial intelligence that took decades to reach. Scientists were experimenting with “computer vision” and giving machines the ability to “read” as far back as the 1960s."
-publishedDateTime: 2023-06-09T10:08:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/c8cabde0-06d7-11ee-b74a-5bdd335d4fa2_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/c8cabde0-06d7-11ee-b74a-5bdd335d4fa2_story.html"
+publishedDateTime: 2023-06-09T07:05:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/a45f368e-06be-11ee-b74a-5bdd335d4fa2_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/a45f368e-06be-11ee-b74a-5bdd335d4fa2_story.html"
 type: article
 quality: 39
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 800
         isCached: true
 
-secured: "I5fP+ThQ1lUdvgY+U9CFgk5rjqkqyxqBMf5g/ad2votkEWk4sdh3FIN4EEACjgpvEsvEnduu05nd/RnFtBMBU8OTz/q2/sD/OXYGKxuZJfb7o3sSKXxOEkBdmkv3T2kZfFtDVrzgpSFaDI98PfdQiqQq5+xZrzraMnRL+X2OFrehUzSBEH9ip+TFstDQ21fC3l8pV/G569CXHO8y5MyJxlRgikk7KAtw475RlYgzkpKiJNAxFfICcM6jVKVDOFVsQU4ml+YXdyggqWEA7VAPwI8IfJ8JzNESTEmj8InzW7XYlTiQaKTP3vtkF/RGs+9QyYyw1xhS9bgqvxqbgLdHPe7zi7EuZNjHgLCox/dBgkE=;4kwNCjCinnn1wzdIY3Q/nw=="
+secured: "yP5vjpEcwZTo9JeQ9JQrkOFhTNK81atANyOvQrSrLuwmHU9OC/WSQ85nQN2Yjm2Ef8tEIekhUxO+BdAEpsgUcsPmq2Yl/IStyB2LoOdUbUC107LsX4bSYZeRzknToG12CaITmgj2tprxiBHB7/BiTt215ZvjvNKbF2f59N2izXAw5EH7mYLeeQWztXOXIjdJwDCZUNPoAaFhg7OiTq6zY3hk9Ta/E5otHQfANuguaqoHRAKa101mXJ1S/8zRzWZdkZEZb3oK6K29PsWU/yKaPvPoskO/9wrj7PZrTlPJzmoyNMbKiYfsxBSjM+X01YNJ8KXGFwq8STEZrElveXPOqWHicVk18Y8qjG95hft/NQM=;6iIwPBLyxvFn9dY24FKRVw=="
 ---
 

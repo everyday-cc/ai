@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech
 cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content"
 type: article
 quality: 59
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -129,15 +129,6 @@ related:
     provider:
       name: Politico Europe
       domain: politico.eu
-    quality: 17
-  - title: "Google and Facebook urged by EU to label AI-generated content"
-    excerpt: "Call comes amid moves to combat disinformation from Russia, while Twitter is warned to comply with new digital content laws"
-    publishedDateTime: 2023-06-05T12:06:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/05/google-and-facebook-urged-by-eu-to-label-ai-generated-content"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
     quality: 17
 
 secured: "nMxvP39Z6CWN7nSS/NFxRqTIBxuZFUDO0UDohvAN+p/QfW8070DYahm1s27M1thEGfWqp2G9Wk0o6VAouptn7IcoFXvUdRUA30AHoyHUIafrzZDubn6xqvPKawp0hhqWVd8ZX4wDIGdcIveee+YxKeae6DVI0RXMeL6PUQZIlHhIDjs1jul83b5YxZUE7UGwGpk+ExDZzEwmWWWgqxvfN1/PpYZ5jJEvNn+j53GMoW8XyIB4GKYQXRi4Mu0j4aO+mnvy2Ew/csE12Qr3p8T4ndFLswbzkDafHeu6lMS+MkanXIwyp/QTWhNZqdeFiXUkgwrqNXx9HXcGInj7/4dRQr6H82ITNDHbJUEh8Dq4hzo=;5hfCcKNKUKcUitq5wIkkmQ=="

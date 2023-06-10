@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Rise of AI: shaping the 5th Industrial Revolution"
+    excerpt: "This is how AI has the potential to break through new revolution on our tiny planet. Language evolution is attributed to humans’ competent mindset. In the last thousand years, humans have taken pride in their linguistic viability."
+    publishedDateTime: 2023-06-10T04:48:00Z
+    webUrl: "https://tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution"
+    ampWebUrl: "https://tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 59
+    images:
+      - url: "https://i.tribune.com.pk/media/images/Muhammad-Wajahat-Sultan1664910846-1/Muhammad-Wajahat-Sultan1664910846-1.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "zNvh8PkZPpJJ4UGoQCJRPqfLNa65z647ouTr3mzmty1f3W7jR21Ql+jG+aQfkt0pl7Z41YnOEqe5q2JIij0l74E8pyoAFc/7asylzEPC1g+Kc+9KA4F88fu0beV9T7N9l3xz8okt5DeiCmuZ/U/zlAcAWu4j28AcBUfwGB240TmEi2fN1fAJrEEZlKPIXdcqWM/FEfv4BcCeDS08+RoH89kXU68dJZtCc1B8lf8E3hv7uhh4do850J78UoR1NxuDPPVdlbeGuXgZvnLuPBI5buk7ToVAiEMGliSq63ZfiDHnwkMwS/8GlrG23mQWnps6bNSA4JU8Tj5RpulrhtwfJdj6X4gDYsboqBDpqRO8kcMR2XsUJdmLkYJmp7AIQCU6FsIyxAcnVia/hTNV2hrpq5aud3sS9Udt3OPo9lgNh67PmY39BJgbclx3QI3lwmbIvU5XJTWEG0d6MQiImvsfmZgmVHt/JR2BKXaT3ftMjPEtO83kBDU1I2pzKZiUUm449ie7ntX3WqaDA3tGZEuK5w==;omMkqdbLljs3noDtSrZH6A=="
 ---

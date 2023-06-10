@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/opinion-ai-on-wall-stree
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/opinion-ai-on-wall-street-impacts-higher-ed-on-main-street?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Government Technology
@@ -36,15 +36,6 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 34
-  - title: "Opinion: Artificial intelligence debate just getting started"
-    excerpt: "Fueled by rapid advances in artificial intelligence, tools enabling the exact digital replication of voices of celebrities and prominent figures are fairly commonplace online. Known as “deepfakes,” these creations can be practically indistinguishable from an actual person speaking."
-    publishedDateTime: 2023-06-05T11:06:00Z
-    webUrl: "https://www.timesunion.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 17
 
 secured: "vNJFjmWVn8Bx1z/9u3lBERqx2QWHonzdE5u6TM5FjeiGiLhRgW663wUWJGqIX1LTXDghxcPlWBC81g+dbylTcAYUOcXQGOn6rnzWE9lkrarc1gVKGF1ZilS/ll6PJrgQTt4PymSxz4eXlEMWAh06Q2kOcLgs9A8vF8s6wkqxwk4/D6hyvMT+QxObi33D3iOU/VJ4Bs5x8qORWY91Nh8HkdFJUqo+rc3M9j8z1WtUQkVqR175JR4sFeCPJ3R85SQx50iOKAIlYg/URCEePg/S1L7JoaIjG3SNG7yUIexkr95Kw8m7RPWkmPVqviBg2QN51Gmk5O73X2V9tfX+mSQ7o789a/3JNScr6FruoK+/ww7ETBF8SX3lIlrOm22RTr21yafTFickzt0phIzleU/TAHbk8DPDphqHd6Xq+LUNsFTXNRJRzhb/XDlqwxR8h5N2+0sw9E4ME6el2xFg/suE6CvwVOp04eraDaQOUmt4zf9KW3X5ybFQLvxp4rc4mrHblfBgKYWEGg6acGIDpzraIw==;81g9phI3n0Rd3Gi4KG+VOg=="
 ---

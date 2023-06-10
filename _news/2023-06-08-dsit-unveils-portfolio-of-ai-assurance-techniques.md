@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Impact Analytics enhances its AI-native product portfolio with generative AI technologies"
+    excerpt: "Today's fastest-growing AI-powered retail-planning provider seizes the opportunity to exploit complementary, innovative AI technologies.LINTHICUM"
+    publishedDateTime: 2023-06-07T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/impact-analytics-enhances-its-ai-native-product-portfolio-with-generative-ai-technologies-1032375681"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
 
 secured: "sJpSZRqD+uLuL4SSxUtUzm83E1sbTPhHPGBRt7Av7zwRW6mSCDoOACd5z+fk192eH2KDKmzvO1OG9FUg9KJGIwsGJdHwaRPaCJD7kfZ1wDVoC0zwJ2GcS3gOWOPpCk6pyc3vhTaKSnNDOxFgmo4KDG6350JXzUI/ZPe9+4vjqDen6gBvaaNgbL7tUAsc5ddzZb/V+CWex3uD3hqFXHhCS0Ot6poVGRSY75Fml36H9F7dfG3/e6esTn50ejxw/yYbHNFB0lPd6Jd1iEypKLUjQKMB1Nd4MbPPe0hgCd+HD+ocT+gNXFy1SoABbM8bytti9yKp+8R0mvu9vPgRUmqLLX35YNv3FwvR3UZTTBgsSSILbA/HA/iWwyXCixp99hQonba6LHGZPREari7D5DwECZ5o3K4q/vs2JDSTg5mMf2EP3R5mHeAevCObRUePHMTvha2Z6VSam7xe398gakTpFMNdjVio/8pOZZseaawKnCRkeIPxv7RZSUdjnU7YVRaZPfnSY0VCuNNULLXcnoUgXw==;vPR8dJeOEYsJxCBECH4vfw=="
 ---

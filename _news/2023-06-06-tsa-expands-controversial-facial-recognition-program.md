@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/tsa-facial-recognition-program-airp
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tsa-facial-recognition-program-airports-expands/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facial recognition tech lets TSA to verify your ID without an agent staring at you"
-    excerpt: "BALTIMORE — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through — all without having to hand over their ..."
-    publishedDateTime: 2023-06-05T12:50:00Z
-    webUrl: "https://www.dispatch.com/story/travel/airline-news/2023/05/15/tsa-airport-screening-facial-recognition/70218060007/"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 13
 
 secured: "WjZj4UZdG10+u+KVFY59eAhHuLah1yjK94YipXvi0pF0RohMy+9pMax4SVd99yzW07Cvf3/BXc56kXXGiW6X3eOcl5VY8uuKLKkf2r6m6uLxr8BUB4QN2DXzMqFg/Jww5f5j8R1N2nwFY2HTVGJ0089NG0GHHpt+Vb2mD4Wunm7oc2yYwNJUSN/YyhmreTTMpA/nNiOF/ZXBiRazzYcsuQgCEIQAn+rmLV+2eORODm+E9X3d2jAwDSBEQOgTrMN2YLWDlE94YayBa5OiFVhvZu3h4dieyCLIgEePv+cjLgxlWXgBboLHRhgh7wx9zkEnZwKnYQXP7068t4ZWkBeT1M7VcUjOiX6Ia88J4s9X1wI=;AzCZU5yH/ghm3w/vzyfWIg=="
 ---

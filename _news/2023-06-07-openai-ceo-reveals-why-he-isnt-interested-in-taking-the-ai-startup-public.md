@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "GPT AI Has Arrived in the Doctor's Office"
-    excerpt: "The sheer power of GPT has been transformative for the AI field, with chatbot ChatGPT raising ethical questions because of its human-like communication and sometimes incorrect answers. In medicine, interest in AI has boomed as a way to increase efficiency from drug discovery to patient diagnoses."
-    publishedDateTime: 2023-06-05T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-05/technology-behind-chatgpt-has-arrived-in-the-doctor-s-office"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imhf8114n0Mw/v1/1200x675.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "OpenAI competitor: Reason why Nvidia, Oracle are investing in AI startup Cohere"
     excerpt: "Cohere, an AI foundation model startup, has raised $270 million in a funding round from investors, which include technology giants such as Nvidia, Oracle and Salesforce Ventures. The Toronto-based AI startup competes with Microsoft-backed OpenAI and focuses on building AI models for enterprise customers."
     publishedDateTime: 2023-06-09T02:09:00Z

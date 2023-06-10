@@ -167,15 +167,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
-  - title: "Newest Genesys Generative AI Capabilities Boost Power of Experience Orchestration"
-    excerpt: "Using large language models, Genesys Cloud CX helps employees improve quality, speed and accuracy to drive stronger post-customer engagement"
-    publishedDateTime: 2023-06-05T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/newest-genesys-generative-ai-capabilities-boost-power-of-experience-orchestration-1032370089"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
   - title: "Intuit reveals generative AI system across its platforms"
     excerpt: "The AI will have custom-trained financial language models specialising in solving, tax, accounting, cash flow and personal finance challenges."
     publishedDateTime: 2023-06-07T20:56:00Z

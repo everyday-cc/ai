@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/should-ai-come-to-your-doct
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
     quality: 87
     images:
       - url: "https://www.zdnet.com/a/img/resize/ba1422fba425e7bcbbf9e17c84169ceab5f1d38d/2023/06/06/e77e9997-e41e-4d49-9348-fcef291cf247/gettyimages-1013435444.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "GPT AI Has Arrived in the Doctor's Office"
-    excerpt: "The sheer power of GPT has been transformative for the AI field, with chatbot ChatGPT raising ethical questions because of its human-like communication and sometimes incorrect answers. In medicine, interest in AI has boomed as a way to increase efficiency from drug discovery to patient diagnoses."
-    publishedDateTime: 2023-06-05T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-05/technology-behind-chatgpt-has-arrived-in-the-doctor-s-office"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imhf8114n0Mw/v1/1200x675.png"
         width: 1200
         height: 675
         isCached: true

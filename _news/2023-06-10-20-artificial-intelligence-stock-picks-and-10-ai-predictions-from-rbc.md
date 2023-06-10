@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/artificial-intelligence-stock-p
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/artificial-intelligence-stock-picks-ai-predictions-24455b3b"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

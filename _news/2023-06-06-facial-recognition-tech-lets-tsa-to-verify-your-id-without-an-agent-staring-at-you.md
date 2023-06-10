@@ -94,15 +94,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Facial recognition tech lets TSA to verify your ID without an agent staring at you"
-    excerpt: "BALTIMORE — A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through — all without having to hand over their ..."
-    publishedDateTime: 2023-06-05T12:50:00Z
-    webUrl: "https://www.dispatch.com/story/travel/airline-news/2023/05/15/tsa-airport-screening-facial-recognition/70218060007/"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 13
 
 secured: "kIZ0zBnoUXy5LzXxlfwLgmA96Ilg/tohStuELgHpwGR6C0ypzUmgXPllRvurAx7Xr1L1Z7FuI1EYhQyDjIZg97xgCj3ItbMjRfHIiCWhN4FG2rpr+RYfICdRCDluUKrTaCPmI5wMZFtsP4jgeMccu8eFOEQr2fpzHL/qQPg28i17xmhGgLmwxfwXVDpGLsROAbMSi6zOqd4T1DzBQRUcdgK0fRri27jJrJTUfvbkBGENEWf/EcY1b50e/KpG5rqRKoJ7Cm07TQQ9ti6H/Yi7hiutWwv/b4vz8F/ykZ9Ez0yXdPn3DPkLs+ZFhcnuGlWX8olY4jwFUUi93pvjdacUtaJXguxcV2yqNS/+icd8n/8=;cFvU/BidrWhmmDwAK80SLw=="
 ---

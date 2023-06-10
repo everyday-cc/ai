@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/nvidias-new-a
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/amp/"
 type: article
 quality: 118
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -92,15 +92,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "NVIDIA’s Game-Changing Fix for the GPU Crisis"
-    excerpt: "The scarcity of GPUs used in training large language and vision models has triggered a race among companies to secure spare capacity and computing power."
-    publishedDateTime: 2023-06-05T12:46:00Z
-    webUrl: "https://analyticsindiamag.com/nvidias-game-changing-fix-for-the-gpu-crisis/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "bIMns3mUnCaqJgBeEXaKGYTN4izhuoaXCXx3Df4Vzs3u1SbfmXEr7oWXrXJfP7Uw3c+4ug8qnP6imRXo2L95vLPFFqe/woaRTGhIjOBp4W8AHajgc8joCJdtl+xfxzejPYsiEUFUZP14McHlt+RCzvRTus4VSwNXhk8qUxW1Bg/zEBmpmleKpcwG0QjjYOATu7l6LaA1hsmNEe+31Gh4Rh4W5++wwFtEl7IEGwlAfwtBKnQ2JTwg/wNmpXhYn6SI4Q9GqIBoa80Hv7wXOeNoL5vAWYdgJHIuXb+SvTOTakBQPnbjSAvWoZz+ghScyB/GCsMCxSDheTk8owxUh+pBMsbZ7R80PuWXvgKjFsaMC/zNN9fal+/luquydV3eDXhm4xtJlDL1JjCDALRGwmqdlM+6eXrUtCkaNcOf6DmpDM5D5bH6hUdVaeVBcYesPEpEKJH+rHL4dsY3boURdi8U2B7w3Kci2W2GP0WiMqtETNKymYbvz/+lSqu7qOphT3GrePew8YSV+bnd35TD8l1bAA==;wHONqGERyQEts5HFzyoRLQ=="
 ---

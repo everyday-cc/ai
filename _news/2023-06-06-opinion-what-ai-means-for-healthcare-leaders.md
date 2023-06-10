@@ -35,15 +35,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Opinion: Artificial intelligence debate just getting started"
-    excerpt: "Fueled by rapid advances in artificial intelligence, tools enabling the exact digital replication of voices of celebrities and prominent figures are fairly commonplace online. Known as “deepfakes,” these creations can be practically indistinguishable from an actual person speaking."
-    publishedDateTime: 2023-06-05T11:06:00Z
-    webUrl: "https://www.timesunion.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 17
 
 secured: "YDm4ZHO177lPRZGaN1CsWHgX5x/M1WUK3uzGIfpbdYxSi24vwlbZzJR7Vvzc67lvJ4WipDYs6ITxTYq/5Fz0pcrrBtTGXEpQxNb9A8IU9zZRtWjfm+hoY48oFtS6DQ7VRsmk/YrpAMBeMbqrB9Kklgc9J++nqnSvikG3qNNxxX5gssq0ii5xKp1NhcQtIA3D/XFLrD7Z2yYxuWu2RkIvD4cnrl5+2hUXbXMZlxRhvA9kVhEp9s43LWWqRnzPd5wxkfZqMDhzo0DmWrJM7Lijw7zUZ9Yfrn5ss/zQK5Hc6DvXPfAqozi5tMRFXm2fvLFI+1oi6mmh85VjyucvPElibp/yLC9Ce2Ki5q7SVBYI5ds=;2ucyLtRq+PQHqVFn0+x5Tg=="
 ---

@@ -130,15 +130,6 @@ related:
       name: Politico Europe
       domain: politico.eu
     quality: 17
-  - title: "Google and Facebook urged by EU to label AI-generated content"
-    excerpt: "Call comes amid moves to combat disinformation from Russia, while Twitter is warned to comply with new digital content laws"
-    publishedDateTime: 2023-06-05T12:06:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/05/google-and-facebook-urged-by-eu-to-label-ai-generated-content"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "n9BP7z1XyT1GHMKRK6D1/NGdR9eQCWS1W+UqaXtfvdN2TGIKMnr5dorO9FEG3SPMyRXex9ViF0Gv+/igedj11Pjp8YSHDypK9RATq3TAfI3w6CjrQBeN8JMiwhRmQ3R1BB2uGbRLAq8ZnAIQ+imUsGZxJPe2QCXoKgB3piNubm2VpUeFRetoR6+0+yqtlNyHPL8MojmopPLRYKe5Yh57FauedWxJMpNPivnqBRpBsc1dgmw/eoLxBUa1qELNrlyNhX+oUygDm5LW13d0nQ10Xxb7/ILDLZQSRCaCaJTzjTGLZefpL4pdmbv+jM8DKOctXExxolyHRI4qSt3piRJIQL67c90mxgdWAYp9i9Tbbmf21a7zgQN1PhJ4H/x8uBA7hE8qOIdBd0FvvVY/b6yErnRCBEkI0A5lScdWj5WcaJxBsbFFz0MzKwSuuKHYXBr5zAtsvoB+TUTkw6lj7gbi3uHvVSSDYm9EIGdc6Vj8tLwHAow8PmqlReaD306cOUqlPHfeW0SsBCoyp7kjFqRZrQ==;Jn1cIIOvw8seTYsfuPl+aQ=="
 ---

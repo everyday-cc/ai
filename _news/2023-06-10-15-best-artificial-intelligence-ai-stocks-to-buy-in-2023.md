@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-10T01:34:00Z
 originalUrl: "https://www.techworm.net/2023/06/best-artificial-intelligence-ai-stocks-buy.html"
 webUrl: "https://www.techworm.net/2023/06/best-artificial-intelligence-ai-stocks-buy.html"
 type: article
-quality: 54
-heat: 74
+quality: 58
+heat: 78
 published: true
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Microsoft AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.techworm.net/wp-content/uploads/2023/06/best-ai-stocks.jpg"
@@ -49,6 +51,6 @@ related:
       domain: tmcnet.com
     quality: 34
 
-secured: "UU+9qRgYEr98sH5uwsXVMvEw/KRcv4iYsV3lNoqHcMOalavpaMyfOVMYapebO5lAI1qEVJGXrf/UvCr2YeR8u/uFuPCSw4GPrdjYTL92kjTmF16ftmKhIXeynqWfDU4aoe7RsvNYEU8MGZtZbr+qF7HP/Y2x187NizhL9rNhKZ8tZ6redV0NfNu89fCesNvXXz2OqUuVCUhb9eiJDeQNF3+7ipSLvgdwRZyJVD/eXiOTU3h8mr3O/oECEbaPvxuaMOP+70Ooz4eNRduVTbzzI0JXbkTq/n35m1WrAWHOcFyLNfxi8jDJriDffrAgk3zHiiQgB4uWwmxG8vPBi9bE9xyCbh1w+//HpH0Z5m1jVOU=;35CuT6cA/ZQwmaepyln61Q=="
+secured: "6tpUh1r/9I8/Kya203w1bxqY2+cR0mITu4CWfEPLZEnWRkRY1RGykxMSAa7cP2oGhn/YBuolRMo8ByFu10rH8uRkq9Sn1Af/wECKE743eVwF8MX2hOKw7G1Z1x+frpSunoddNpFGimIJVALg4o9rkMDMIhT/0zrm+d6BK8vC6Wmq9qKHYiOiVxJqNlaWIwOmFpkHT0+/gDuTIMvjj1yJjNaxCKAjcwlCcx4H6UDUTqd/yBiAX5VUgvbwEsVqPavJ28bLK3TDcyxNcbKzy/6R30Yd48K7DzZl2ZCAsMOCefoy+FSvC6uuIwgoWrQhJc4hYLoOTRVLG0wLsFo0Bb4FXL/WVmjWhlRHhDDE28mlo5QAj4y73SEzwbXCWbFpXJfdD41TVhVpeoN+unR34G7A5h2PWl2/TAhALAiVULEOO+GkJbfXHtJpU/A33ode/o05lSfy38azhximjl+IVJcGB5XwN0IZMu4dVBnJpIJ0oNthBcGEm5hkrS+IStAPvId97Zuo7fiNNuQkEx6NRi4UOg==;ujPDkdUf9BdhXoZCVaecVA=="
 ---
 

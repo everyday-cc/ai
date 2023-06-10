@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Cutting Through The Hype: Smart Deployment Of AI For Growth"
-    excerpt: "The development and adoption of AI are stochastic, meaning that the outcome must account for variability and uncertainty."
-    publishedDateTime: 2023-06-05T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/amp/"
+  - title: "Waymark: Building The Future Of Commercials Through AI Technology"
+    excerpt: "The world’s first official TV advertisement came with a 10 second spot for Bulova watches in 1941, while single companies sponsoring entire shows (with the broadcast"
+    publishedDateTime: 2023-06-07T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6453b86b434b3a6451eabd2b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f76f7f5af3da79657d5cb/0x0.jpg?format=jpg&width=1200"
+        width: 600
+        height: 319
         isCached: true
 
 secured: "NDgjbqISGFu8SoYm8HrSMFm+20VohTqCt5bVc//r+eEEpQVv6FrqOkWuHvi95eLbq4eY1LoYQcbFDKScTVvzjQkbKKhWZefkW0YJsMp90goMszPamfaMMPPbeXKsJWfFMRXEworncL7BFbliLjc6Pzem1+jRBCnhZ7TaKrdemP8gJqPyMnZOsfxms9KzBF0+831ODo0DWVfuQ4/KgsVzzocp9GErlTmM0F39IedrhrgLmL5oNo0a1UHh/ys8flNT9qqVgsS1VhGwWgqzPazigmFlsn3wipEZ5FDecfLUhF7rEZINmaaf/YKwb+FjHuW0P7Se0HTAvml/g9pkFEkdJIa2/mXwjHxmfq+GmWi7VQs=;RgM1tLhOs+fSWt22ukpFyg=="
