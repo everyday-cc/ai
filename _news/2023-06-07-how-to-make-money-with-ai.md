@@ -68,12 +68,12 @@ related:
         isCached: true
   - title: "5 Ways People Are Using AI to Try to Make Money"
     excerpt: "Start repairing your credit today! As entrepreneurs, corporate executives and investors race to figure out how to leverage artificial intelligence to make money, folks at home are also wondering if AI tools like ChatGPT can help them get rich. On social ..."
-    publishedDateTime: 2023-06-09T21:05:00Z
-    webUrl: "https://www.charlotteobserver.com/money/make-money-online-with-ai-chatgpt/"
+    publishedDateTime: 2023-06-09T23:38:00Z
+    webUrl: "https://www.newsobserver.com/money/make-money-online-with-ai-chatgpt/"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
+      name: Raleigh News & Observer
+      domain: newsobserver.com
     quality: 17
 
 secured: "AmzbBF1GYmwcWsylxS6oH8k9HiXTi/GFwdj8VAK6VAKmRGTH7tqqH2S+XSksvpBVRDqbF+gPodwR7HDsJ+1mKUS1ORHXy1ilOE9rqBmfZ0brw6RzNI9BOY8615GRmKN/ZXZzF4b4QOK05jbxhFyrw6GOWSv01wZE8M9eAmFf+zQPXw3eVF1ijSpfaIOo2hLTFiDCYFBtCJlb9BS6mlhyBS0RpnbupwS/qNaoKiMnmt3Zl0FS+bkWbyOwBM7lzZOdCPf8XUhV1W0N1Cyn7EeQRUg+8lfymRXBwOqlfS7nRM8osYGtwQyaTAG8Gd+FGyi99t8G1R0F562VNR8Vg0LoTHQiHSApg7tXvJPC8S4B7SHcyUIDAvZnYHUkeNk/C/ObKgDfjL/x4Nrk5HrZ/ewgmgwW51u6/clUx/TmCUope+/XGNz7ex4yXxBwQ3IFA5EI02hxaX/XNm5ef2VSh2XQPA48RbAKnjgOhhk89QyE3FFkYXTJeAiT3vWNAQ7fpNzi08floYcS53uImkoIlcegAQ==;dho2H0BL4cDFCZnCegq0mA=="

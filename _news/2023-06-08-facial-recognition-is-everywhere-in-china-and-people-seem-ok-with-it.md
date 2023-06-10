@@ -7,7 +7,7 @@ originalUrl: "https://www.retail-week.com/opinion/facial-recognition-is-everywhe
 webUrl: "https://www.retail-week.com/opinion/facial-recognition-is-everywhere-in-china-and-people-seem-ok-with-it/7043894.article"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1024
     height: 536
     isCached: true
-
-related:
-  - title: "AI, facial recognition tech front and center at China security expo"
-    excerpt: "AI tech that spots \"undesirable\" behavior and long-distance facial recognition software were on show Thursday at a Beijing expo attended by hundreds of companies -- many blacklisted by the United States for their alleged role in repression in China and abroad."
-    publishedDateTime: 2023-06-08T21:51:00Z
-    webUrl: "https://japantoday.com/category/tech/ai-facial-recognition-tech-front-and-centre-at-china-security-expo1"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 51
 
 secured: "fyJ4Z1w4WOestziEMXul2ZX++GHEzJGsatWoMbpseJ5lrpPtIcilyD0Nvbz0xvJ6Ajy1VZEnykNNxUHJ10DeHAN5xQmHke7rHt2p7LBVspbW7UFCtRuZ+b8X9W7W9fROYbAV/HNA/yIf8n0CLz1SaVB2CzZlrMEClNvsOwfBljFQSsS2OaKCSB+PwHduAuQgbKa8WLuzaymCpj1qdJ7ANW48RgHXIjEHklJ/6AoOCz3+QMwX9KZy9+1PpBetGfIXXCQAGCksZkmkawLOeS6QRQxO6vVcdjHe5cs6Cki4BqhZ68gR+5znM4CqATsD9DBVJhBUK4oE5T1OTpJBzHURkSGEBc46VPXJAva+MmYmN/U=;9/F28hsafNnn7P6El7SKwQ=="
 ---

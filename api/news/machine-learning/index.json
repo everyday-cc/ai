@@ -63,7 +63,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-06-exploring-human-brain-artificial-neural.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -106,7 +106,7 @@
       "originalUrl": "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -866,15 +866,15 @@
       "title": "Artificial intelligence brings Mona Lisa to life as a hologram",
       "excerpt": "The Mona Lisa has been brought to life as a hologram. Leonardo da Vinci's most famous work has been recreated using AI (artificial intelligence). A state of the art computer neural network reconstructed the model's enigmatic smile in finer detail than ever before.",
       "sourceUrl": null,
-      "webUrl": "https://www.montanarightnow.com/national_news/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_f70c3f30-f55f-596e-9de9-c77aa2e06c89.html",
-      "originalUrl": "https://www.montanarightnow.com/national_news/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_f70c3f30-f55f-596e-9de9-c77aa2e06c89.html",
+      "webUrl": "https://www.msuexponent.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_472e1483-cbb5-58cb-a6d7-f764c744efb2.html",
+      "originalUrl": "https://www.msuexponent.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_472e1483-cbb5-58cb-a6d7-f764c744efb2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/montanarightnow.com/content/tncms/assets/v3/editorial/8/25/8251cc81-749c-54f9-ab54-cfa99fe9c622/64761327c2c30.image.jpg?crop=1762%2C928%2C0%2C176&resize=1200%2C632&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/msuexponent.com/content/tncms/assets/v3/editorial/2/a9/2a96f6dd-0125-5ee1-b0eb-7837f8e49572/64761306cb15f.image.jpg?crop=1762%2C928%2C0%2C176&resize=1200%2C632&order=crop%2Cresize",
           "width": 1200,
           "height": 632,
           "title": null,
@@ -886,11 +886,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T17:00:00-07:00",
+      "publishedDateTime": "2023-05-30T16:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "montanarightnow",
-        "domain": "montanarightnow.com",
+        "name": "The Exponent",
+        "domain": "msuexponent.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/amp/"
 type: article
 quality: 103
-heat: 165
+heat: 163
 published: true
 
 provider:

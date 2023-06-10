@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

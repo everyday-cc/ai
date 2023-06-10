@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Firm study predicts big spends on generative AI"
+    excerpt: "A new study polling software buyers at businesses worldwide finds strong intention to increase budget, with special interest in AI. It also looks at how vendors can engage buyers."
+    publishedDateTime: 2023-06-09T22:22:00Z
+    webUrl: "https://www.techrepublic.com/article/big-spends-generative-ai-saas-g2/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr6923-Hero.G2.jpeg"
+        width: 969
+        height: 610
+        isCached: true
   - title: "Rush to Use Generative AI Pushes Companies to Get Data in Order"
     excerpt: "Interest in large language models, such as those developed by ChatGPT maker OpenAI, has put renewed focus on data management—placing more pressure on corporate technology chiefs to ensure their companies’ data is stored,"
     publishedDateTime: 2023-06-08T10:01:00Z

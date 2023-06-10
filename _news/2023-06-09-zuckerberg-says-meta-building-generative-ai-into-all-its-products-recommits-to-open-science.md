@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Mark Zuckerberg lays out Meta’s grand ambitions for generative AI"
-    excerpt: "In a meeting today with employees at the company’s headquarters in Menlo Park, California, Meta Chief Executive Mark Zuckerberg insisted AI is the company’s main priority going forward. The company is looking to incorporate cutting-edge AI technologies into both its existing platforms — Facebook,"
-    publishedDateTime: 2023-06-09T00:30:00Z
-    webUrl: "https://siliconangle.com/2023/06/08/mark-zuckerberg-lays-metas-grand-ambitions-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/47774197691_ef179b2c80_c-768x513.jpg"
-        width: 768
-        height: 513
-        isCached: true
   - title: "Mark Zuckerberg reveals plans to add AI into Facebook & Instagram"
     excerpt: "Meta CEO Mark Zuckerberg has revealed plans to bring generative AI text, image, and video to Facebook, Instagram, and more."
     publishedDateTime: 2023-06-08T20:47:00Z
@@ -50,20 +36,6 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/02/19/Meta-Facebook.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Meta huddle: Zuckerberg unveils AI tools and snubs Apple headset"
-    excerpt: "Employees got a sneak peek into Meta’s generative AI plans, upcoming Twitter rival, and Zuckerberg’s thoughts on the Apple Vision Pro."
-    publishedDateTime: 2023-06-09T07:58:00Z
-    webUrl: "https://www.siliconrepublic.com/business/meta-generative-ai-twitter-competitor-mark-zuckerberg-apple-vision-pro"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/06/a-4.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "aI/+uwLHsN1GjaMaHRoI79zR5xh3IU2OCcueanVPXNowwh0oQAHlFCrmJ3pAkROkPnj8/I2i3q6ERfUaAXdHjbeRhhxVy2X8yssW+f2sVB9UjEnIVE/BEaVibbjt9wPzNprWHlEUurhIEymUno4217FWYhB9WF1WVaFhwO2TJS1R6a94H1rMeYWm1U88QOBLxe2YBs6NGNGmE4K3Mm7qOj/i+nA/LmnkiCXmccWMSzi3FFAkT+geU65GixOg4q7tyRrfj++mI3DBA+FkS/Af88xWsb/cBpXZTgqC82dyGrpqdgEeG2P1z2b7KzGZ8zFNB+5K0AX6++U5Pi1vyUFXIJwh3I525KRP1NFB4jEmsNbUg7vnyrMQFod6U3DGeSA0Ffaoiu6VMCIYNrhn/0SCWsewfy6mXEEuDPjoLXM8y6cHL4ktomuFg6q19BmYkROT8DkWWqvH+6ff8cXjhQ1206lI7NdgdEMckkqlsictEPNeDd9kJF3X7mRxlhJpOHKpvidYlBkCi73bSAVwX7L3UQ==;aKLZgRu9jmOb/+RTjzmKJQ=="

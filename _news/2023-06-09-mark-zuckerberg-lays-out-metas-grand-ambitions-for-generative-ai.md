@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/06/08/mark-zuckerberg-lays-metas-gra
 webUrl: "https://siliconangle.com/2023/06/08/mark-zuckerberg-lays-metas-grand-ambitions-generative-ai/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mark Zuckerberg reveals plans to add AI into Facebook & Instagram"
-    excerpt: "Meta CEO Mark Zuckerberg has revealed plans to bring generative AI text, image, and video to Facebook, Instagram, and more."
-    publishedDateTime: 2023-06-08T20:47:00Z
-    webUrl: "https://www.dexerto.com/tech/mark-zuckerberg-reveals-plans-to-add-ai-into-facebook-instagram-2171246/"
+  - title: "From Layoffs to Hackathons: Zuckerberg Discusses AI Adventures and More at Meta's Latest Employee Meet"
+    excerpt: "The Facebook parent detailed its work incorporating generative ... Meta voiced its commitment to releasing AI research to the open-source community. Price Action: META shares traded lower by 0.62% at $262.96 premarket on the last check Friday."
+    publishedDateTime: 2023-06-09T16:10:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32791928/from-layoffs-to-hackathons-zuckerberg-discusses-ai-adventures-and-more-at-metas-latest-employee-meet"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32791928"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32791928"
     type: article
     provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
     images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/02/19/Meta-Facebook.jpg"
-        width: 1600
-        height: 900
+      - url: "https://cdn.benzinga.com/files/images/story/2023/06/09/mark_avatar.png?width=1200&height=800&fit=crop"
+        width: 566
+        height: 377
         isCached: true
   - title: "Meta huddle: Zuckerberg unveils AI tools and snubs Apple headset"
     excerpt: "Employees got a sneak peek into Meta’s generative AI plans, upcoming Twitter rival, and Zuckerberg’s thoughts on the Apple Vision Pro."
@@ -53,15 +55,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Zuckerberg says Meta building generative AI into all its products, recommits to ‘open science’"
-    excerpt: "Meta CEO Mark Zuckerberg said Meta is building generative AI into all of its products and reaffirmed the company's commitment to an \"open science-based approach\" to AI research."
-    publishedDateTime: 2023-06-08T19:53:00Z
-    webUrl: "https://venturebeat.com/ai/zuckerberg-says-meta-building-generative-ai-into-all-its-products-recommits-to-open-science/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 37
 
 secured: "xY6OXNWgCIHlUCFU6phPucl7cLpGzixX7QdX/jWrZovp/KhwKv1E+5ozxLilAUjA2RZOMKNYWFakWQyDJGGxANGuaNkpepawsXEZY3f1WNBJ++vK716dswH4l0jkcgiVm/TgWXlyhe6M7kXGYBwl3EKMSuCKiOMfT68PxgADpSlKKuFtSf5CCmNQiNZ8/LSf6pAvAsMXwUpnP0QDYxDJASkkvBUO7U6iME8hNzLTbjlxBxuiOVW/K+nwJwAocxo9NsSX7JdmNgLcFu6IeBAi+lqmn2/hTJAK+fDGoHVW5T5wTwYuT8qZuarijASjVik5xx98VtJSgXrALFhKKH94LkFapRLnfHk9/sZS3ALBm406KPvtv7mBR35fluQOhz3XSD3tSXoSY3U1B6JJGK0+03oGSGTRflai+D9iCS8/2lvI/I70Tt11lM5zueMSthXm5pMJtr5xYzrgm4+K9JQIB7wzkQFMqIlWedmfkF7X6YE+b3/8+/vKVI7KAr9xumjSad3pnMjaNI7g/uSYrkQzIQ==;+278eRTiPhzN9bSdii9CGQ=="
 ---

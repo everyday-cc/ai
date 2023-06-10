@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-ena
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
 type: article
 quality: 121
-heat: 351
+heat: 361
 published: true
 
 provider:
@@ -264,6 +264,15 @@ related:
     excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
     publishedDateTime: 2023-06-09T20:00:00Z
     webUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 36
+  - title: "Microsoft to move top AI experts from China to new lab in Canada"
+    excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
+    publishedDateTime: 2023-06-09T20:00:00Z
+    webUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55?shareType=nongift"
     type: article
     provider:
       name: The Financial Times

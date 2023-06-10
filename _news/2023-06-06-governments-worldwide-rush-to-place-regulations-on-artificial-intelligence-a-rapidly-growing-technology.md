@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/governments-worldwide-rush-place-regul
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology.amp"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Governments worldwide grapple with regulation to rein in AI dangers"
-    excerpt: "As generative AI revolutionizes tech, governments around the world are trying to come up with regulations that encourage its benefits while minimizing risks such as bias and disinformation."
-    publishedDateTime: 2023-06-05T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3698191/governments-worldwide-grapple-with-regulation-to-rein-in-ai-dangers.html"
-    ampWebUrl: "https://www.computerworld.com/article/3698191/governments-worldwide-grapple-with-regulation-to-rein-in-ai-dangers.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3698191/governments-worldwide-grapple-with-regulation-to-rein-in-ai-dangers.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "/WPNXxuZDyKbUZQJG7SE/ft1JoAaZqzA5faPwiCA7lC4BzlnXx4tI1BuuIV+8KQVsnDX4ZFkrRfd5b/ddfnyVlco/oM7efqQsqwod1QGZRgTLNmD5jqSlDGTnFHsfS8VJnbReQ+FsUM5RvbFPHC+9MTElDdhfu9xs7v5VLMSQ3ARXh745kKuHov0SyLIDU1sLIZeXZSlTqutiFsv//+sv4yrdml9BbwkWn+HyZ9wsISNGmHOG1lRpq4xOU7zTjMvIYKq3pYCKDcFDEgI4YkNPTVgVVAVG/IgYE5afGalNHFrhHk8Hb+EclQPSqs54Ip6v7Bxpib23qer5Uh64XlBRO1pmOE1rCA+H+FK/E62LtGevon+8JBc+UD8xQp1FBh116ns58tl/6iK3wZiU22daAPT/27Le+lBM4cSTK/UD1hw5viyA2MlPnFkQobGfWv7VXvz6YBFKznE5mupDWGfOAaUv57L+NdbMtV07jmw6dpo8PY1khXXqvTbjQj/f5xlPwoHfpiEFTSzSvbUM2xLhA==;t8A1vijxUH1n3DsD0RUwNw=="
 ---
