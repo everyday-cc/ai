@@ -76,7 +76,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr6923-Hero.G2.jpeg"
         width: 969

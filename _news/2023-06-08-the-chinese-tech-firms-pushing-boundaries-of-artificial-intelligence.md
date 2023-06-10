@@ -37,20 +37,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "AI chip shortage to last until 2024, according to top Chinese AI company"
-    excerpt: "The large-scale language model (LLM) has triggered the continuous growth of China's computing industry. SenseTime, which kept a low profile, has recently been tasked to pilot the AI computing supply chain taking shape in the Shanghai FTZ's Lingang New Area."
-    publishedDateTime: 2023-06-05T08:19:00Z
-    webUrl: "https://www.digitimes.com/news/a20230605PD211/ai-china-server-ipc-cloud-computing-iot.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230605pd211_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "PFVhABAh+M6Ayg+3WYWmGfF23oMQcSjxT3/SkcAAmwAAzOaoYo2kJy4Safjsx2pGVThvYk7i6jBVPzU9NvJV0KDiReiA+Plx+5rbJ4RHzTa1xiVMdtnQNJ37MKmCA7eZ52WOQ0m896LVz8KGy5Ldy8Z+4GCjOAETcxmEkJiW6GIZalK7hgEmT+6e/rK37vxhHi+MHPOLbzjnUsrQDNIXIxdG7oeLKBgmKAbfjvaNKSpHr5N+1v+c0Z+GBXZWMsSB8+vAN6WjMYTCOHfnW6UVeeFzo3sY2tX60ERrovzKDflbvCPSEdINuJL/XbmliJt6e+LEcMn7c4MWS9DDDwh0tGgPxxzYz9YTOnf1lth2Njo=;1cQKzQfWdAOtLorVOFKmyA=="
 ---

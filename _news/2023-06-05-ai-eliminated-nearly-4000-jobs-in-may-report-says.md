@@ -7,7 +7,7 @@ originalUrl: "https://www.news9.com/story/647dca954a31c3072cb26ce0/ai-eliminated
 webUrl: "https://www.news9.com/story/647dca954a31c3072cb26ce0/ai-eliminated-nearly-4000-jobs-in-may-report-says"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Took Over Around 4,000 Jobs In The Tech Industry In May Alone"
-    excerpt: "Challenger, Gray & Christmas claims that 4% of the 4,000 people who lost their jobs in May 2023 were made redundant as a direct result of advancements in artificial intelligence. That's right, you read that right!"
-    publishedDateTime: 2023-06-05T07:42:00Z
-    webUrl: "https://in.mashable.com/tech/53962/artificial-intelligence-took-over-around-4000-jobs-in-the-tech-industry-in-may-alone"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 60
-    images:
-      - url: "https://sm.mashable.com/mashable_in/seo/5/54426/54426_nbq4.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "H/6WkvfKqOQ7y8YGOepal1W0ELy0jT+Vz0vExtiNtE2jPvI4RfhD/gCQ95MiaCpX496iLRb64H69acGPRiPeioI6uwAq+M9EtgKLQOqPIdpV/1oa77HdV1oAadq815zCsFd6NUZdzPIjGy3SvwL8Wu3SpCnxOzNm90a4IyALjzYV0gRsKxak5hWEVAVmcRPjshnMILL63jdWCi5k1ycGlzetbNqVejUv+jCj2XBNmAmgaN+/HL+gVMHN7yNqbMlqJ38LcBrSk2e3/KAmgiFT/HlcsLOYCKbUQbzWTU6kOmKpSQXxbWCUjPTp07gSkQxwvJktUj6/LjTSGUMf1u31/16mVpVGxCMREIo455WeDUE=;kY0y7vVgpgUw1pUjvaPv4w=="
 ---

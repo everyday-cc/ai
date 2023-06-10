@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/health/medical/google-and-mayo-clinic-partner
 webUrl: "https://www.cnet.com/health/medical/google-and-mayo-clinic-partner-to-infuse-ai-into-health-care/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 620
         height: 454
         isCached: true
-  - title: "Healthcare and generative AI: What are the emerging use cases?"
-    excerpt: "Microsoft announces new partnerships with Nuance and Epic, integrating generative AI-powered tools to enable HCPs to document patient records and draft messages. – Google releases Med-Palm-2, a generative AI trained to answer medical questions,"
-    publishedDateTime: 2023-06-06T13:27:00Z
-    webUrl: "https://econsultancy.com/healthcare-generative-ai-examples/"
-    type: article
-    provider:
-      name: Econsultancy
-      domain: econsultancy.com
-    quality: 38
   - title: "Local physicians offer insight on future of AI in health care"
     excerpt: "That is according to a recent study from physicians at the University of Alabama at Birmingham. Dr. Andrew Smith, vice chair of innovation in the radiology department and clinical director of AI in the Marnix E."
     publishedDateTime: 2023-06-06T03:53:00Z

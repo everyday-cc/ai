@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech
 cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/world/eu-asks-big-tech-to-label-ai-generated-content"
 type: article
 quality: 59
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi_com/2541685977357/2023/1/efcaa7dcbf5f6e13a55ae812f09a5488/v1.5/EU-wants-tech-companies-to-label-AI-generated-content-to-counter-disinformation.jpg"
         width: 1200
         height: 801
-        isCached: true
-  - title: "Europe calls for tech companies to fight disinformation by labeling AI-generated content"
-    excerpt: "A top EU Commission official said Monday that the ability of a new generation of AI chatbots to create complex content and visuals in seconds raises “fresh challenges for the fight against disinformation."
-    publishedDateTime: 2023-06-05T16:26:00Z
-    webUrl: "https://www.pbs.org/newshour/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 48
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/2021-11-02T133529Z_974093607_RC2DMQ9I1JJD_RTRMADP_3_TECH-WEBSUMMIT-e1685982315901-1024x614.jpg"
-        width: 1024
-        height: 614
         isCached: true
   - title: "The EU tells social media companies that AI-generated content should be labeled"
     excerpt: "Vera Jourova, deputy head of the European Commission, said, \"Signatories who integrate generative AI into their services like Bingchat for Microsoft, Bard for Google, should build"

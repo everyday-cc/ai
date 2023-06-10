@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/06/07/9828204.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/06/07/9828204.htm"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Glean Chat launches to unlock AI-driven search for the enterprise"
+    excerpt: "Glean, an enterprise search startup, launched Glean Chat, a ChatGPT-like assistant specifically for workplace productivity."
+    publishedDateTime: 2023-06-06T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/glean-chat-launches-to-unlock-ai-driven-search-for-the-enterprise/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "SRzMPlhpLzeX+q3bOywx5xqA4VhrRaEQiMMnxl41fs2KoZ/XDmfXG1XoYAS73z+rYhdj+wDgKF82ITxJS3yuiVshjodvwH3JgD6xQx6K7mxcScBQwJGkUurwqWAea8u8OrZrfNyZbuSWd60GS1i1We5OESXl4Tef5I1sav/qYZ0siTc8mmh0MJLN00jthhB1TWQmGCYBlBDgLDlXuOKHW4ABIpOtkr6xh9J1DLzt5AvuF6E1H7ZpAEeRmCDVuYHwEqLrOp7ATTGzSQTprpQwo/j81Dw1UmAhf+2U5eXD0W6V/Bh45V+32DzEKBBahzvPUbf8KjgxBKyrFffux7RRluNzmclhLq0EXE2wz0ni6F3MyJQTPQv2rZrKHna4VeUjrpuCIYTfwvGoaUem4t8IwcINirL3gIk6G/4p/oPDQu4LIT2cw2cigN7ozpeHtNttQWTfyg7xsGUeOrSIdGRj3Kc6kXQBs3sernfOc1ZpTdCPLFyZEmvB9gdEUNd6BaRx+iTeUq5PBOn7oQSekEzPLA==;3AjGcSrq9QUVZpOOVmObIw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/08/can-the-yes-ca
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/08/can-the-yes-campaign-overcome-the-cold-political-calculus-of-australias-voice-referendum"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australia launches consultative review of AI"
-    excerpt: "Following the U.S. and Europe, Australia has decided to explore a regulatory framework for AI amid mounting concerns about the technology."
-    publishedDateTime: 2023-06-05T08:13:00Z
-    webUrl: "https://www.zdnet.com/article/australia-launches-consultative-review-of-artificial-intelligence/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/australia-launches-consultative-review-of-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australia-launches-consultative-review-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/92274b7619a0efc8c764d029afe0a002410d64b8/2023/06/04/0bdd189c-3a78-47c3-901a-e70e72ad5310/gettyimages-1258297475.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Australia takes steps to tackle the dangers posed by artificial intelligence"
-    excerpt: "Regarding the potential dangers posed by artificial intelligence the Australian government has launched an examination into AI technology"
-    publishedDateTime: 2023-06-07T10:46:00Z
-    webUrl: "https://www.openaccessgovernment.org/australia-takes-steps-to-tackle-the-dangers-posed-by-artificial-intelligence/160480/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 34
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/06/iStock-1470520357-scaled.jpg"
-        width: 2000
-        height: 1209
-        isCached: true
   - title: "Australian Institute of Architects supports the Voice to Parliament"
     excerpt: "The Australian Institute of Architects has announced its support for the Indigenous Voice to Parliament in the upcoming referendum."
     publishedDateTime: 2023-06-06T07:08:00Z
@@ -74,20 +44,6 @@ related:
       - url: "https://media3.architecturemedia.net/site_media/media/cache/76/b6/76b628622dc401b888069a3b9e847681.jpg"
         width: 638
         height: 425
-        isCached: true
-  - title: "Voice, treaty, truth: compared to other settler nations, Australia is the exception, not the rule"
-    excerpt: "These histories remind us how long First Nations people have waited for political recognition in this country – and that, compared to other former colonial sites, Australia is the exception, not the rule."
-    publishedDateTime: 2023-06-08T20:07:00Z
-    webUrl: "https://theconversation.com/voice-treaty-truth-compared-to-other-settler-nations-australia-is-the-exception-not-the-rule-206092"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 11
-    images:
-      - url: "https://images.theconversation.com/files/529694/original/file-20230602-19-8wjczk.jpeg?ixlib=rb-1.1.0&rect=0%2C75%2C1290%2C645&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
         isCached: true
 
 secured: "xTlmstAbtKoNK+MG06Gs1d3W9X33qTJy9Av8YTo9/5j9mIE6f6iGhjGY38nH4oBuG1zyubkwjXKWyjOYXhmRRaraF3FP+q12J8erQ8QKlH4Y3Go11X531Aeu6lq+wCEl0uNzLBUZ7OA7hVkUmFKZzsbFKTAgFPHAxvsIxhVhLRoO924Sb2Bxvij5lsHRDCaAPDrYaOamXxg4QJ00DU2HwEaWaal0JZZkWob5Pf2qk6pb5BMk3HwbJ/cjHQDkggZQXw7XdxgXiH+QMGpV0vA3MTBtE+jNtmDjuBLb24n0Xj80YTKObTp7yydMPMLVmVuzUm21HEb1S+HN7z7xIA4e2AAAJV+rAEseiIFmVGE12w0=;SpWUwSluVmIgZowYPDrOnA=="

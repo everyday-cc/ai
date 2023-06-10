@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6286069/bytedance-tiktok-artificial-intelligence-
 webUrl: "https://time.com/6286069/bytedance-tiktok-artificial-intelligence-chatbot-china/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip shortage to last until 2024, according to top Chinese AI company"
-    excerpt: "The large-scale language model (LLM) has triggered the continuous growth of China's computing industry. SenseTime, which kept a low profile, has recently been tasked to pilot the AI computing supply chain taking shape in the Shanghai FTZ's Lingang New Area."
-    publishedDateTime: 2023-06-05T08:19:00Z
-    webUrl: "https://www.digitimes.com/news/a20230605PD211/ai-china-server-ipc-cloud-computing-iot.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230605pd211_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "The Chinese Tech Firms Pushing Boundaries Of Artificial Intelligence"
     excerpt: "In China’s quest to shed its reputation as a land of copycats, the world’s second-biggest economy is pouring resources in to the hottest area in technology innovation: artificial intelligence."
     publishedDateTime: 2023-06-08T10:15:00Z

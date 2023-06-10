@@ -2,6 +2,49 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2023-04-07-artificial-intelligence-chatbots-market-regional-forecast-to-2030.md",
+      "title": "Artificial Intelligence Chatbots Market | Regional Forecast to 2030",
+      "excerpt": "The latest market research report on the Global \"Artificial Intelligence Chatbots Market\" is segmented by Regions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-regional-forecast-to-2030-2023-04-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-regional-forecast-to-2030-2023-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-robotics-data-startup-roboto-raises-48m-to-help-developers-save-time-using-ai.md",
       "title": "Robotics data startup Roboto raises $4.8M to help developers save time using AI",
       "excerpt": "Roboto Technologies Inc., a startup that emerged from stealth today with $4.8 million in funding, aims to use artificial intelligence to help robotics developers save time when developing robots.",
@@ -906,40 +949,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-data-science-analytics-trends-to-watch-in-2023.md",
-      "title": "Data science & analytics trends to watch in 2023",
-      "excerpt": "Modern day society is dominated by the extensive use of digital technologies which result in the generation of a large amount of data. Data science helps extract patterns and deduce valuable insights from it.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/data-science-analytics-trends-to-watch-in-2023/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/data-science-analytics-trends-to-watch-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

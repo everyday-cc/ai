@@ -2,6 +2,49 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-04-27-microsoft-365-apps-and-services-switching-to-cloudmicrosoft-domain-name.md",
+      "title": "Microsoft 365 Apps and Services Switching to 'Cloud.Microsoft' Domain Name",
+      "excerpt": "Microsoft on Wednesday announced that user-facing Microsoft 365 apps and services are getting consolidated into a new domain-name pattern, namely \"cloud.microsoft.\" Users and organizations will ...",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/articles/2023/04/26/microsoft-365-apps-and-services-switching-to-cloud.microsoft-domain-name.aspx",
+      "originalUrl": "https://redmondmag.com/articles/2023/04/26/microsoft-365-apps-and-services-switching-to-cloud.microsoft-domain-name.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0814red_RedReportChgORdie.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-review-the-magic-conveyor-belt-supply-chain-and-ai-a-tale-of-two-halves.md",
       "title": "Review: “The Magic Conveyor Belt, Supply Chain And AI,” A Tale Of Two Halves",
       "excerpt": "I had hopes that this would be a great book about modern supply chains and how artificial intelligence (AI) can address the challenges of the sector. Sadly, I was only half right.",
@@ -1129,58 +1172,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content.md",
-      "title": "Kinetix launches text-to-animation AI for new era in user-generated content",
-      "excerpt": "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/",
-      "originalUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/",
-      "publishedDateTime": "2023-04-26T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

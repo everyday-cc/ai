@@ -1,46 +1,35 @@
 ---
 category: news
-title: "From science fiction to reality: Business transformation through generative AI"
-excerpt: "Generative AI models offer valuable applications across diverse business functions, spanning IT, human resources, operations, and more."
-publishedDateTime: 2023-06-07T23:29:00Z
-originalUrl: "https://techwireasia.com/2023/06/from-science-fiction-to-reality-business-transformation-through-generative-ai/"
-webUrl: "https://techwireasia.com/2023/06/from-science-fiction-to-reality-business-transformation-through-generative-ai/"
+title: "The Next Threat From Generative AI: Disinformation Campaigns"
+excerpt: "Generative AI, coupled with deepfakes, could present truly dire consequences for the 2024 presidential election."
+publishedDateTime: 2023-06-10T00:29:00Z
+originalUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/"
+webUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/"
+ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
 type: article
-quality: 35
-heat: -1
-published: false
+quality: 87
+heat: 127
+published: true
 
 provider:
-  name: techwireasia.com
-  domain: techwireasia.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://techwireasia.com/wp-content/uploads/2023/06/GenerativeAIinBusinesses-scaled.jpg"
-    width: 2560
-    height: 1707
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6483c3a8fa78a1eb97750fc7/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "The Next Threat From Generative AI: Disinformation Campaigns"
-    excerpt: "Generative AI, coupled with deepfakes, could present truly dire consequences for the 2024 presidential election."
-    publishedDateTime: 2023-06-10T00:29:00Z
-    webUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/"
-    ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6483c3a8fa78a1eb97750fc7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Europe calls for tech companies to fight disinformation by labeling AI-generated content"
     excerpt: "A top EU Commission official said Monday that the ability of a new generation of AI chatbots to create complex content and visuals in seconds raises “fresh challenges for the fight against disinformation."
     publishedDateTime: 2023-06-05T16:26:00Z
@@ -66,6 +55,20 @@ related:
       name: Econsultancy
       domain: econsultancy.com
     quality: 38
+  - title: "From science fiction to reality: Business transformation through generative AI"
+    excerpt: "Generative AI models offer valuable applications across diverse business functions, spanning IT, human resources, operations, and more."
+    publishedDateTime: 2023-06-07T23:29:00Z
+    webUrl: "https://techwireasia.com/2023/06/from-science-fiction-to-reality-business-transformation-through-generative-ai/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 35
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/GenerativeAIinBusinesses-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
     excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
     publishedDateTime: 2023-06-06T07:19:00Z
@@ -81,6 +84,6 @@ related:
         height: 224
         isCached: true
 
-secured: "cAn5Lhuk7IL+Jh1XK7GO1WEcvlEyquCWwKRGDVGFHU8AS62hO6PadyJwvtEQQxASxs9dQp2dkEirt1LbJgKRQGGymwJx7K6RETwSspOKU8/hTEnL40N2LkFF6aHZUNJcEePsK4Beb7Yq7Uq8OWcWx46M0RMJLyUfzB8kh+fF/8CxlN+DKj3mUAs3xioWMbDw2NT7qMfU8RG+6BAsIvNKWR3blg0BuknpKScL0vc1OJqMKeYCnxmjJm50zQbafbflHIsU6FmtIqsVfHa3eH6/y4p9rEteZfvTviNn9NxEUzoFcl2g9sw4mCvzKt6WEPpS8M1ppwcsZQx0tz/8VZJKT9DwyPLdtxhIkXuuwk18e9A=;96f4R7IqUqwvKbXQ7AEhIA=="
+secured: "pEIuQZBMfVH28r+a/kCj2eXZWcTGjR/y/FxQE3gtFpBTuBjQGvcPoDfN1CRDAYjfunq4LNMqVb/0BZ5/WKanbpZh+JYLd1RtPbJzCibodo8PMBhvTqnuRJdRVoYJdr6ELtzoiz8eWFZnT38qK9sMFmMEyvDeQCbZaVYtejM8Pbv2F/QpBe8hex/YXfy83Q6NUrxy02E0gsFlsod5uo0J79gbn3it+RSwe+3RAnHc9LrzhOhDfjzpxqxD80/V4jWTZ0B8afNsriG2KE2g6+u27D7vlxBB0majt9NEzPA1CnXrHNYgxA8M+mV0NKXFZrjQ+Ez4KgKbhddV+ZTwntZfjaJbG8a3MyYMcL5/nPC7YbI=;d1KXg30ah5ZZ/pnOGkoS4Q=="
 ---
 

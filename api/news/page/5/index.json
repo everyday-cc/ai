@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-06-reflections-will-artificial-intelligence-compute-to-human-extinction.md",
+      "title": "Reflections – Will artificial intelligence compute to human extinction?",
+      "excerpt": "The latest threat to humanity’s survival is artificial intelligence, which supposedly has the potential to outsmart us. Considering how many of us seem to be three bricks shy of a load, this seems quite plausible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/",
+      "originalUrl": "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.readingeagle.com/wp-content/uploads/2021/08/readeag.jpg",
+          "width": 2100,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/amp/",
+      "cdnAmpWebUrl": "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/2023/06/06/reflections-will-artificial-intelligence-compute-to-human-extinction/amp/",
+      "publishedDateTime": "2023-06-06T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reading Eagle",
+        "domain": "readingeagle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-why-ai-wasnt-mentioned-at-all-during-apples-big-wwdc-presentation.md",
       "title": "Why AI wasn't mentioned at all during Apple's big WWDC presentation",
       "excerpt": "AI. Here's why Tim Cook was mum on the term other Big Tech CEOs are loving.",
@@ -977,7 +1019,7 @@
       "originalUrl": "https://www.nationalheraldindia.com/world/eu-asks-big-tech-to-label-ai-generated-content",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1159,58 +1201,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-tech-slips-as-ai-optimism-fades-tech-roundup.md",
-      "title": "Tech Slips as AI Optimism Fades -- Tech Roundup",
-      "excerpt": "Shares of technology companies slipped as optimism about a new wave of artificial-intelligence technology faltered somewhat. Palantir Technologies rose",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
-      "originalUrl": "https://www.marketwatch.com/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
-      "publishedDateTime": "2023-06-05T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

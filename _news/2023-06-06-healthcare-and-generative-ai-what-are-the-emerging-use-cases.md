@@ -21,66 +21,66 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Google and Mayo Clinic Partner to Infuse AI Into Health Care"
-    excerpt: "Google Cloud launched a partnership with Mayo Clinic to implement use of its generative AI software, the tech giant announced ... as well as clinical protocols and research papers. With Google-level search capabilities, it can help health organizations ..."
-    publishedDateTime: 2023-06-07T17:37:00Z
-    webUrl: "https://www.cnet.com/health/medical/google-and-mayo-clinic-partner-to-infuse-ai-into-health-care/"
+  - title: "The Next Threat From Generative AI: Disinformation Campaigns"
+    excerpt: "Generative AI, coupled with deepfakes, could present truly dire consequences for the 2024 presidential election."
+    publishedDateTime: 2023-06-10T00:29:00Z
+    webUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/"
+    ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.cnet.com/a/img/resize/b619c70256fe80ec93cb22ae82d3099364a1f446/hub/2023/06/07/27bd616e-820d-43bf-8913-4eb7badfb1aa/gettyimages-1247992080-google-cloud-logo.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6483c3a8fa78a1eb97750fc7/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Injects AI Into Gmail on Mobile"
-    excerpt: "Google is attempting to improve search for Gmail users by introducing artificial intelligence to the experience. The mobile apps for both Google Workspace and personal Google accounts are being updated to add machine learning models."
-    publishedDateTime: 2023-06-05T11:08:00Z
-    webUrl: "https://www.pcmag.com/news/google-injects-ai-into-gmail-on-mobile"
+  - title: "Europe calls for tech companies to fight disinformation by labeling AI-generated content"
+    excerpt: "A top EU Commission official said Monday that the ability of a new generation of AI chatbots to create complex content and visuals in seconds raises “fresh challenges for the fight against disinformation."
+    publishedDateTime: 2023-06-05T16:26:00Z
+    webUrl: "https://www.pbs.org/newshour/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: PBS
+      domain: pbs.org
+    quality: 48
     images:
-      - url: "https://i.pcmag.com/imagery/articles/058ur0Ph0qXNPgEunOkT8LO-1.fit_lim.size_1200x630.v1685962920.jpg"
-        width: 1120
-        height: 630
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/2021-11-02T133529Z_974093607_RC2DMQ9I1JJD_RTRMADP_3_TECH-WEBSUMMIT-e1685982315901-1024x614.jpg"
+        width: 1024
+        height: 614
         isCached: true
-  - title: "Google expands intelligent cloud into healthcare"
-    excerpt: "Helping medical professionals find patent informationGoogle's cloud business is expanding its use of new artificial intelligence technologies in health care. It allows medical professionals at Mayo Clinic to find patient information using tools powering the latest chatbots quickly."
-    publishedDateTime: 2023-06-08T09:50:00Z
-    webUrl: "https://www.fudzilla.com/news/memory-and-storage/57046-google-expands-intelligent-cloud-into-healthcare"
+  - title: "From science fiction to reality: Business transformation through generative AI"
+    excerpt: "Generative AI models offer valuable applications across diverse business functions, spanning IT, human resources, operations, and more."
+    publishedDateTime: 2023-06-07T23:29:00Z
+    webUrl: "https://techwireasia.com/2023/06/from-science-fiction-to-reality-business-transformation-through-generative-ai/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 35
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/151e65d7467e972252b5079a40b808dc_L.jpg"
-        width: 620
-        height: 454
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/GenerativeAIinBusinesses-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Local physicians offer insight on future of AI in health care"
-    excerpt: "That is according to a recent study from physicians at the University of Alabama at Birmingham. Dr. Andrew Smith, vice chair of innovation in the radiology department and clinical director of AI in the Marnix E."
-    publishedDateTime: 2023-06-06T03:53:00Z
-    webUrl: "https://www.bizjournals.com/birmingham/news/2023/06/05/uab-physicians-publish-ai-in-health-care-study.html"
+  - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
+    excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
+    publishedDateTime: 2023-06-06T07:19:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9826768.htm"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "Google Cloud is partnering with Mayo Clinic as it tries to expand use of generative A.I. in health care"
-    excerpt: "Mayo Clinic will be using Google Cloud's generative artificial intelligence technology to help doctors and nurses more easily track patient data."
-    publishedDateTime: 2023-06-07T10:00:00Z
-    webUrl: "https://www.cnbc.com/2023/06/07/google-cloud-partners-with-mayo-clinic-brings-generative-ai-to-health.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 18
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/2093629/IMKI_Custom_AI.jpg"
+        width: 400
+        height: 224
+        isCached: true
 
 secured: "A9afcoH1/qYkspC3OfhSuoXjhGH04+Vs3BrrcHlQTS0G2ZzgAZjEA8eddZv0XPqL0Ra/CIR8Ogx66AcDN/y6+rNWabFVtiK8xRaeiBRju0wtuDkYgcNj/Wqz4J538ODRPtcI/JJzbe5lgnUGlTuJM14VbpSG20uV3ciZEN4P8NkUXsQ6Yi/Y9nwdRyPxvxQGEsPrHZ0ix+Wenl7GcpCXtHlCYNRQ+hXR06AYFhuYZ3oOiZTbUm/9off3GvULslvXUxrtS+w4cDm1gxEP+ELVRJWuLA9DIvKpuFjFrIN5TA/x78L/Xnqw8E3CEpxwjDPVNGHWKGiMaok234FqALD6BfCf9Libp8cF7DKE0fScFw4RI7e4yIEy8jLui60N7JAiijIkK9jrfqyXdcztCIokIroUYexgGiaUkEy5R2CSVKNnudbwiS2r+V6fuTQzqzPK8rDL4oXjHgucCkDM4eRQqWInPCn+tSOrejkEowT7xHvVU/MrZKUF026Wqgf6uFVwpRkL2PGAfHPpwLGt3W86gQ==;upxG96U+0gmZr4yXNq3e8Q=="
 ---

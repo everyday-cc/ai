@@ -1,22 +1,30 @@
 ---
 category: news
-title: "San Antonio Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-excerpt: "San Antonio is one of 28+ cities selected to host camps across the US in Fall 2023. The San Antonio Bootcamp will be held over four consecutive Saturdays starting on October 14th and ending on November 4th."
-publishedDateTime: 2023-06-06T18:02:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/06/9827710.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827710.htm"
+title: "San Antonio Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+excerpt: "For the 1st time the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp program for high school students will take place in San Antonio. The No-Cost Fall"
+publishedDateTime: 2023-06-06T17:59:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/g32744440/san-antonio-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/g32744440/san-antonio-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
+ampWebUrl: "https://www.benzinga.com/amp/content/32744440"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32744440"
 type: article
-quality: 7
-heat: -1
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
@@ -45,6 +53,6 @@ related:
       domain: tmcnet.com
     quality: 23
 
-secured: "7cZ+pDCpP7cJjfJTlyuKcutxY3Yf51f8egl3f5P/KvIJY9KHf+d4BGGdEnEc6xKVfBFljDLEfAoXV+1YcMdF177j3+TyZfa4iuTIKi1A+AZ6+WpQrs3rdUj4GXdKg8GaBeHMI+VQVDUtLPdLe09JKKl6xMJlXvSrTRaVk8cev4vu2m3Zqn+KDB8LjhcelW+nC5vEqTVZs2x0OJvTFPJNsfYwrk16/TFyI+SmdYbVhjaAfEIL/z3jnPAlGp+hl0lyLhQryCvLTdAPI6RYiN8c2zH4xSoIHIY4pmygIkEF/tQLyWY3fReNH4OW9AkXWfdwtxcZIbN7iF89GFw25gZQbcfsFNJCF7e075IV/o2VOEI=;l/yhHrsl9kxnMt9W9DtXlw=="
+secured: "Q79H9jlJ2eGXEnJEp43AE09cKEO/3zZruLZ9qj49bmx44Qh0S2ZgNj9cg4c6sWK4YHK23nC7EHudCmjmJcUZ2awwKwLjUjWO5OPAV+P++25i77dmFYTaCNZBdek9UxpPQtyWK94I/GCJZqYWU1DXmx/+eazN1GPEC8uifzMSMypOroQzzriVzDq1QM0XHvGSU+fT/g50xDZ8MUVQ8eDN5gyZZ9gMgO9HOPqC32O0qlSJ3//bx6nx/CIDSR1+v5XJ0myzF7tdHluiRZexQiLSWGGp/C6s/DXxb4Le/T61vzjMJahNFwetEGyQuKO7/xwmWy0NaEnnV2f3D3THOwK4ZLgouC/9DHZLe357X+z3++E=;OP914WPWaWw9pHCZeMw3SA=="
 ---
 

@@ -112,17 +112,6 @@ related:
         width: 1024
         height: 787
         isCached: true
-  - title: "CrowdStrike to accelerate development of AI in cybersecurity with AWS"
-    excerpt: "Powered by the CrowdStrike Security Cloud and world-class AI, the CrowdStrike Falcon® platform leverages real-time indicators of attack, threat intelligence, evolving adversary tradecraft and enriched telemetry from across the enterprise to deliver hyper-accurate detections,"
-    publishedDateTime: 2023-06-05T08:57:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws-cqo4tia7"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws-cqo4tia7?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws-cqo4tia7?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
 
 secured: "G2SUF0K8nhs4tD1DbtvhiEJEfjHkVUL+bZpkpPuRno5YLIqoiiPFlRGBBJO9Xk62ggbkomIsKApt9Ay7H08Fw2RGrnRbQs+yZKqaWfipSwg64U8otP4+kbTrAoXI7qWXT4qsgWh4+A4AMfb9Sx+nMmeqvs+Wx3ZM1XHyYbS+0ofW9f+mgT3IShk9+wXeNYKvj4esYg101v1U23+J8td1cPWyIfwt8lPjdtEFEBJueYEq0T8kR0oXU6yJiR51vXmPB8lEsTtxG/4O6Js4EgeO41zOOhXJ+EOr0WjePUGdFzSpOyw9CQHLLN8YHYstP/0zFvrUrOye7X83jzokHGXnFW7+2ZWZ1TDK77XzCd/oqS+jPjvGGx/Pg+rz13jlWfdBSRhKT6cSuSb2nFUDsqkGEQC1dQuNutupCSffEz9oj4QcF6l6zf+c1BTaQZQTkZQnIvi7N8krVcZ7Acq+lto8sV0n2MsLnHQEvMG02jz07x7GGtMJ8YIu1zF2vJlSWSL/JFY9HV+tcImJZTIuyrJjKw==;4/FtH4eEoZVO96wo3zH1dw=="
 ---

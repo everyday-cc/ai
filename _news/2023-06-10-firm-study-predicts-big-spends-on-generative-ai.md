@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-09T22:22:00Z
 originalUrl: "https://www.techrepublic.com/article/big-spends-generative-ai-saas-g2/"
 webUrl: "https://www.techrepublic.com/article/big-spends-generative-ai-saas-g2/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr6923-Hero.G2.jpeg"
@@ -281,6 +282,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "COvzLu/0EXQkl2QOUjhQO+o+M1m4fULoJUsxJ+xek0vI3tS7fKKt2naNEMVix7+xdDVeIap/oy+OVru+MIAaI1GugzpbQqkTpO5vLeac6aOdAKx/uoKu/jCOfeGTNb+XbuPxCVVa9YDUy+fFgFnW38EySpp30zEZX29XSoaJTZGelGOKa2aV2CuPD0T7wGkp+ukM/cl+9+KSmOmXHYdRr/fRp1JcugBqEYCH2FnqDXkrv8NXpZ9AVUnOKAwbuoYigusFneAzO6Oc5ntXYM26pUcg7yQ3C7mraxGWsCdw+WZ/uXTalWaV8ST8purKASvyu4Gwvyb5hQhgWQ4VAyFHafGgb00sy0dcbDGCMOA2rvo=;xGCEWbrThnV8xjvqDC11Gg=="
+secured: "aM9jCGZcQeRSl12J9J30/nYVVmMcOXZQ7M9rstdxBw6FiHFMb1pvJbyNCAo3aCG5GxrCznkDC8L/A10E8OI/a+DH9OLA1+FB+tHFXBv339Pr9tl43XcQxDtTJ81aJFEyS73gFZX61dn38dhXkwAZ3ljIjECd++esaBKCtuD4+WFoRQHHU/tV2btpRAs0wuPy8ciqkABa7/X78wL9ix6Nd8UcdApedfu0owDOxYipaAVr09fqfb74T4S9olCkK7BHS0l4jHbDhYHchM88sDjXm7aAd+K/XA3NOcQRAMkIqLWsINbXW3xbCPSLa4a1Eci0etchoEusc9fZNG5YKPJKgzd4lrBVPWenOGk6OmlB7hmkau8TNTfthOw08hkdOEKciQb3vILFXyg5NTIEnIToHi95u7+8ENSHBVEtayI3WwN4YIzTlm0Ao8fuNgBz7xXNxm/hMHmUvbfK805oNHivSZK/LtCljP0bGu4XveHIAoboDoy90c1c5xQ+EaFNBZ+ZVvKRQRJyqHMULcs6UEwGAQ==;fOPHCBVIcCNlkpVN/5c4nQ=="
 ---
 

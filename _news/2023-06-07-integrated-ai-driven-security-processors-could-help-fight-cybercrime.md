@@ -104,17 +104,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "CrowdStrike to accelerate development of AI in cybersecurity with AWS"
-    excerpt: "Powered by the CrowdStrike Security Cloud and world-class AI, the CrowdStrike Falcon® platform leverages real-time indicators of attack, threat intelligence, evolving adversary tradecraft and enriched telemetry from across the enterprise to deliver hyper-accurate detections,"
-    publishedDateTime: 2023-06-05T08:57:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws-cqo4tia7"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws-cqo4tia7?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws-cqo4tia7?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
   - title: "The Security Implications of Adopting Large Language Models and Generative AI"
     excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
     publishedDateTime: 2023-06-09T18:39:00Z

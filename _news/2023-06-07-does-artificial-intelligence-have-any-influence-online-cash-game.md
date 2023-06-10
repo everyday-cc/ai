@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The impact of generative AI on software team productivity is... complicated"
-    excerpt: "Generative AI means faster coding, but also more code to manage, along with greater expectations from the business."
-    publishedDateTime: 2023-06-05T07:12:00Z
-    webUrl: "https://www.zdnet.com/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-generative-ai-on-software-team-productivity-is-complicated/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/7f9aec1f5926e4ef120636f244c934732c1d3afa/2023/06/04/6037cf03-35a3-489f-a5bb-0f590ad0c148/gettyimages-1254096697.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Gu+K1CYHT6N1jFYcXMHYjayGHkB0wXgjUOMJPPq+J+PmZVB0k8wS/Xhlu/yv5/fhQ/bgRH1MXoP8FbMc9JR1wInqjeV29ePG6rhYUx4Qi7OajOxu0iNaLDoO2kScLPJL02ll8QeFOg6irC3xIt4e8uUDoqFOiC4hK8TUvCKUlDIOe5kW2c8g4fO8iTCElFqcuHnF8cJvCMG56u2xGuX/HoTlcQ8oGic0qNYs5iFzpNCDpdWiTSMKGgRSll9k8Los03XwFWKQ0sGWzjYz4RVjgNpy+7C93/uXPvsqOZEcjYL7lee2yup0iQOfdwK0LUBJdYqNlJJpPQSHRhc/Zcexkjz1G/1dwKugMR44D7y2P9E+Pcaq5qYV01JuhgamPYaZpqLjOBdD4AvkbmpmArOB5duqeOs0ICs5OWnC+YiuEo0pwfHlMd9qtSEi+vxEL7BLygXZ/3o212KZWdFmlOCKXQOkfq9kAdg+QhVks/r91xSjsguIOv7G5hszk+cByK8q4RCSxjI9ZUWIA19hhNobrw==;RzDJWGcweJbzJqzHMqoE1Q=="
 ---

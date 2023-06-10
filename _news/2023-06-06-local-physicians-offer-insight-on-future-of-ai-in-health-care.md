@@ -61,15 +61,6 @@ related:
         width: 620
         height: 454
         isCached: true
-  - title: "Healthcare and generative AI: What are the emerging use cases?"
-    excerpt: "Microsoft announces new partnerships with Nuance and Epic, integrating generative AI-powered tools to enable HCPs to document patient records and draft messages. – Google releases Med-Palm-2, a generative AI trained to answer medical questions,"
-    publishedDateTime: 2023-06-06T13:27:00Z
-    webUrl: "https://econsultancy.com/healthcare-generative-ai-examples/"
-    type: article
-    provider:
-      name: Econsultancy
-      domain: econsultancy.com
-    quality: 38
   - title: "Google Cloud is partnering with Mayo Clinic as it tries to expand use of generative A.I. in health care"
     excerpt: "Mayo Clinic will be using Google Cloud's generative artificial intelligence technology to help doctors and nurses more easily track patient data."
     publishedDateTime: 2023-06-07T10:00:00Z

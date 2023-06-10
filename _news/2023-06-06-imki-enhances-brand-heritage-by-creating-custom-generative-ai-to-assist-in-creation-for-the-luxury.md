@@ -24,21 +24,60 @@ images:
     isCached: true
 
 related:
-  - title: "Ai-Da the world's first humanoid robot creates beautiful but essentially flawed art - how can we trust AI behaviour?"
-    excerpt: "Ai-Da is an accomplished artist who has shown her designs at the Venice Biennale and addressed the House of Lords about the future of the creative industries. She is also a robot. One that can talk, answer complex questions, paint, and create art currently ..."
-    publishedDateTime: 2023-06-06T21:44:00Z
-    webUrl: "https://news.sky.com/story/ai-da-the-worlds-first-humanoid-robot-creates-beautiful-but-essentially-flawed-art-how-can-we-trust-ai-behaviour-12894505?trk=public_post_comment-text"
-    ampWebUrl: "https://news.sky.com/story/amp/ai-da-the-worlds-first-humanoid-robot-creates-beautiful-but-essentially-flawed-art-how-can-we-trust-ai-behaviour-12894505"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/ai-da-the-worlds-first-humanoid-robot-creates-beautiful-but-essentially-flawed-art-how-can-we-trust-ai-behaviour-12894505"
+  - title: "The Next Threat From Generative AI: Disinformation Campaigns"
+    excerpt: "Generative AI, coupled with deepfakes, could present truly dire consequences for the 2024 presidential election."
+    publishedDateTime: 2023-06-10T00:29:00Z
+    webUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/"
+    ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 51
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://e3.365dm.com/23/06/1600x900/skynews-ai-ai-da-artificial-intelligence_6174695.jpg?20230601094207"
-        width: 1600
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6483c3a8fa78a1eb97750fc7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Europe calls for tech companies to fight disinformation by labeling AI-generated content"
+    excerpt: "A top EU Commission official said Monday that the ability of a new generation of AI chatbots to create complex content and visuals in seconds raises “fresh challenges for the fight against disinformation."
+    publishedDateTime: 2023-06-05T16:26:00Z
+    webUrl: "https://www.pbs.org/newshour/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 48
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/2021-11-02T133529Z_974093607_RC2DMQ9I1JJD_RTRMADP_3_TECH-WEBSUMMIT-e1685982315901-1024x614.jpg"
+        width: 1024
+        height: 614
+        isCached: true
+  - title: "Healthcare and generative AI: What are the emerging use cases?"
+    excerpt: "Microsoft announces new partnerships with Nuance and Epic, integrating generative AI-powered tools to enable HCPs to document patient records and draft messages. – Google releases Med-Palm-2, a generative AI trained to answer medical questions,"
+    publishedDateTime: 2023-06-06T13:27:00Z
+    webUrl: "https://econsultancy.com/healthcare-generative-ai-examples/"
+    type: article
+    provider:
+      name: Econsultancy
+      domain: econsultancy.com
+    quality: 38
+  - title: "From science fiction to reality: Business transformation through generative AI"
+    excerpt: "Generative AI models offer valuable applications across diverse business functions, spanning IT, human resources, operations, and more."
+    publishedDateTime: 2023-06-07T23:29:00Z
+    webUrl: "https://techwireasia.com/2023/06/from-science-fiction-to-reality-business-transformation-through-generative-ai/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 35
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/GenerativeAIinBusinesses-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "neCzirLQr8HgMjM3r14chNBQ/Go5qGqVJiJ3eCOcWDh0bnk2sqfaJaxDi1FOBdrNsEX9XiLRbSFqi9dycFsWo5HVh3GosBMSbr6HWsPee3xpWSVT1taLBER6Kvz9dIVAxcGW0hRu3dWbPR3lcohHtMvSHRbNmgiuK1GYF1TpMhqczV5+V3AUXLgYgENiVbe3moB5BrCkFZWjnx4tqYNjNZ769LrEFGRHWVMuI+TYgjZZFJNIlFGnL4roTVJySkteOkfVaSFy/sLZitUNGrMvdxuRmbVddBC3OuBblAJtCZ2HJIBOF3uMJg2IjFpZyV0oHZb86ev4dMV1E7j6G1I8I/WdfaVJgGDpscEFl/kI+EgmWbdxYO89kd5JJOoVKdmGjdg1Ngz7PjpzOOId7TfvaUoC8+5/q6sakEd+TebpxTqGy25VpLs4NmDfe40wGIjQnpIIlzN5/n9uaVYIegGKI5TyxcSGWOBGk/anegH8PBAHp5AGQsFskROyDWXZCrP3a5kc6dWmWN1d5hkOwAUM4w==;FaRzJ7f09e2af56NIlfoKA=="

@@ -2,6 +2,57 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-05-17-ai-over-hype-is-under-valued.md",
+      "title": "AI “Over” Hype Is “Under” Valued",
+      "excerpt": "The Silicon Valley Playbook heavily relies on hype to attract early investors, employees, and customers. Something important struck me recently while attending a startup event in Cleveland, Ohio with Steve Case.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmckenna/2023/05/17/ai-over-hype-is-under-valued/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmckenna/2023/05/17/ai-over-hype-is-under-valued/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6464fa9675c3b7eb6046245d/0x0.jpg?format=jpg&width=1200",
+          "width": 1019,
+          "height": 1012,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmckenna/2023/05/17/ai-over-hype-is-under-valued/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmckenna/2023/05/17/ai-over-hype-is-under-valued/amp/",
+      "publishedDateTime": "2023-05-17T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-cardiff-beyonce-concert-face-recognition-use-criticised.md",
       "title": "Cardiff Beyoncé concert: Face recognition use criticised",
       "excerpt": "Thousands of fans attending the Beyoncé concert in Cardiff could be scanned by live face recognition cameras deployed in the area by South Wales Police. The cameras will help identify people wanted for \"priority offences\". Police also used the cameras at the Coronation, but the technology has been criticised by human rights campaigners.",
@@ -1169,49 +1220,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-astr-how-govts-ai-and-face-recognition-tool-will-detect-phone-frauds.md",
-      "title": "ASTR: How govt’s AI and face recognition tool will detect phone frauds",
-      "excerpt": "The DoT claims the tool — called Artificial Intelligence and Facial Recognition powered Solution for Telecom SIM Subscriber Verification (ASTR) — can potentially bring down cyber frauds by detecting and blocking possible fraudulent mobile connections.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-sci-tech/govt-ai-face-recognition-tool-astr-detect-phone-frauds-8614162/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-sci-tech/govt-ai-face-recognition-tool-astr-detect-phone-frauds-8614162/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/05/Face-recognition.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-sci-tech/govt-ai-face-recognition-tool-astr-detect-phone-frauds-8614162/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/govt-ai-face-recognition-tool-astr-detect-phone-frauds-8614162/lite/",
-      "publishedDateTime": "2023-05-17T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
