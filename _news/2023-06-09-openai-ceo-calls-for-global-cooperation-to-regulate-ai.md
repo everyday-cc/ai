@@ -72,6 +72,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "OpenAI CEO highlights South Korean chips sector for AI growth, investment"
+    excerpt: "OpenAI CEO Sam Altman encourages South Korea to lead in AI chip production, expressing interest in investing in Korean startups."
+    publishedDateTime: 2023-06-10T10:29:00Z
+    webUrl: "https://cointelegraph.com/news/openai-ceo-highlights-south-korean-chips-sector-for-ai-growth-willing-to-invest"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 33
 
 secured: "QiElym800OB2Cmy2IuapmF/m36ejgRW/tKQn2mqeis7idzhvS127jd33PbqEGg59D+Rl5SMOpuS00eAwXx1naoOg6R+qqW5bVyUaNGjc3qJ3P0djKg+7r9N0Y3L4YGXPbubkqb4tvKsViwb739ivpxXYetglvITIX67OxzZmLOEMtL0hF4aeE7j+HtTuCc6oepYsib6jAVsezxZT6gFWSVTCZm7Ngcb1WfWxH/Hb4YA+xvBv8AKQ56zAG2MuiaZrqoZ44l1ajzLuoic8AgqWSvsMba4acYShZGxYnMWk1bZMdYe+SmJhPNZ1FU7ElB+1uXazfXY1xs4cMCwerqZDzER+5V5vXmIte4WlP3hYWcIFw2tDN6HBha11DwdJlD1du/9fAVc2wBQO/radiiInJmU3ouRU88ejBugYMPi8CkqAn93lvhNl3ySbxhbFlV4zyyYddw2DAULE6ItmjKggSO/uMWXXL1xf6uWCcCXcyNZ2PXGVxXViw3vXwjKB6dWlFDgL0TdSI6h7wZaV/77uzg==;BLEpzIMtHbU63C3ZGQPYhw=="
 ---

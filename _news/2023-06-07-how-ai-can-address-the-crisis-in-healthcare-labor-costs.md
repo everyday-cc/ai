@@ -116,6 +116,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 64
+  - title: "Generative AI is coming for healthcare"
+    excerpt: "ChatGPT and its close generative AI cousins (like Bard and MedPaLM) are now being deployed and tested in healthcare settings. At its simplest, generative AI is a tool or algorithm that can create astonishing new content (think poetry,"
+    publishedDateTime: 2023-06-08T12:17:00Z
+    webUrl: "https://www.pmlive.com/blogs/smart_thinking/archive/2023/rohit/generative_ai_is_coming_for_healthcare"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 36
 
 secured: "dufxuHjQcuosQ7YYUxGAFQeqhtTzgrOjCDcEF1aoi8FKA5HpIz2emJV9iDj2a8Iup8qAkaoON30eV2QWGd4RGZ6OXmiOZvZip6aI8UjoVmsM7U8Cj5Jur2vUfNEztHge2VfgxxZ00Af+moQ1hvR8mF60oX+3m4BNxomTe+Yr8XD+NYrr9Cje2b16b03PgT5nTMUdiwiY4ex0PL3gp0RkATW3UDFNMmFtTCf/UmjqwBL/tRONE765AeYCVuO7CNJKSZSwSx+v61ftulJuPO4pjNuVcR7T3Q//Mt/edpgFW1fCqth9EskslUHdNFF8eZRYG6xJNdbR/cHlf23GFbsepS4/nvmW4ANTz8yy5RseaB8=;aSgwgx4iYJ1pBhYrtJmCFA=="
 ---

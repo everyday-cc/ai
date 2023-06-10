@@ -26,17 +26,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "That Startup Run by ChatGPT Doesn't Seem to Be Doing So Great"
-    excerpt: "That startup being run by ChatGPT is still going — but from the outside, it looks like kind of a mess. To recap: about two weeks ago, self-described \"AI soothsayer\" Jackson Greathouse Fall took ..."
-    publishedDateTime: 2023-06-06T03:35:00Z
-    webUrl: "https://futurism.com/startup-run-chatgpt"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 2
-
 secured: "wuqu4z+9j1/ejhrmEFROBdqvOGULQlrv/dHsjkQv2cUMLdm0p2ZZL2UaZ1jiTMJ/9oD5EdZzxq7MYcNcaAr+dtJzvz8Cbm53dQgwsT63t8f/FW7Os1HqUxKOxrZm92adm0Db4rTmIhiq95n9p6wai2/hQsmdG8OBPXOeHD9Y93yb3+uzSiR6qPql4tXXSd6MvdTfYLvVr4nB6pK/rfhr5BFd2a3HnNexwIsPjo1a4R9Glt6Izw92E5utIg4GAHc1UHBn122cbQJJ5NKkc0JvrVtAOIRXwrb1f33KJMZEiDj50TOeuSvnnyLXSm0a2y1VThxxYbiIRoc6xTNBQoO+n5vYTLlKjbnaitzXOa91BjU=;TAQzgEWhX4byNyDcWPExcw=="
 ---
 

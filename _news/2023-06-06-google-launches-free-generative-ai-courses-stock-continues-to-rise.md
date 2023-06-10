@@ -182,7 +182,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 32
+    quality: 34
   - title: "How generative AI could change the life sciences landscape - an interview with Indegene"
     excerpt: "With generative AI continuing to create a buzz, OSP took the opportunity to speak to Indegene, a digital-first, life sciences commercialization company that helps biopharmaceutical, emerging biotech and medical device companies develop products."
     publishedDateTime: 2023-06-07T11:48:00Z

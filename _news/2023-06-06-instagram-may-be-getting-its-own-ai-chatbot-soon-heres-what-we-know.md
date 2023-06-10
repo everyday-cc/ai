@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-it
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/2dc3500f203ced9cff4738727c8a636b25abb1a6/hub/2022/12/10/f740691c-a2e7-4119-9d71-bd37ced7afbb/chatgpt-chatbot-art.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Lawyers who used ChatGPT included fake legal research fabricated by AI chatbot"
+    excerpt: "A couple of lawyers who cited fictitious research concocted by AI bot ChatGPT is asking a New York-based federal judge to spare sanctions."
+    publishedDateTime: 2023-06-09T16:34:00Z
+    webUrl: "https://www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot"
+    ampWebUrl: "https://www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 83
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/263d618f-c90f-4453-825c-0e53ced8d257/65c8223d-3861-4e2a-8508-affb94e3c6f5/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Instagram Reportedly Developing AI Chatbot With 30 Personalities"
     excerpt: "Meta is reportedly testing an Instagram AI chatbot that offers users the choice of switching between 30 different personalities. A screenshot (Opens in a new window) shared on Twi"

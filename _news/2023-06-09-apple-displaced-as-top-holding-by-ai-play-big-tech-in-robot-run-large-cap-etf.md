@@ -42,6 +42,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "3 Artificial Intelligence ETF Plays for Passive Investors"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors want to capitalize on ChatGPT’s popularity, a notable OpenAI"
+    publishedDateTime: 2023-06-08T15:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-etf-plays-for-passive-investors-1032378942"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "NS/YYAAgOh1Fzmls/hfRvRwGyPup/gTv6KynXOcfaKlWIcbKXP+yDWs1WIIY8G+SlxWoQbjh5oEMranhLa0HGWOYHuWBN7heSwEyCv/bUtxsAV/njnUZDwyx7/YLVT2+pYNWGgrs6x6zyz1npx7OX/4h0yrZvyFiEL7SOAKmwlacqrki3mVRsJxRBPeCilCTDM0wMANiopit97DblKnztXfGauxNp7LR8tllIozQyhr0JiHDtrzITC+Kv27ive616HUu2pdx7LgB37SMjeaDv42lpr2UV+U1GPgzlZOAUhq4teSq7DqvoSAf2GcCqOqVOk+hp0m/EtgU+tV07Lz1eigtPtdW4UduAbY8SeB2YPY=;MYslHuBzVrNdstEEHrhyeA=="
 ---

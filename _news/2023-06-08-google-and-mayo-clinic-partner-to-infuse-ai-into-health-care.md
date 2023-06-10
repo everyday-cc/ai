@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/health/medical/google-and-mayo-clinic-partner
 webUrl: "https://www.cnet.com/health/medical/google-and-mayo-clinic-partner-to-infuse-ai-into-health-care/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 620
         height: 454
         isCached: true
-  - title: "Local physicians offer insight on future of AI in health care"
-    excerpt: "That is according to a recent study from physicians at the University of Alabama at Birmingham. Dr. Andrew Smith, vice chair of innovation in the radiology department and clinical director of AI in the Marnix E."
-    publishedDateTime: 2023-06-06T03:53:00Z
-    webUrl: "https://www.bizjournals.com/birmingham/news/2023/06/05/uab-physicians-publish-ai-in-health-care-study.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Google Cloud is partnering with Mayo Clinic as it tries to expand use of generative A.I. in health care"
     excerpt: "Mayo Clinic will be using Google Cloud's generative artificial intelligence technology to help doctors and nurses more easily track patient data."
     publishedDateTime: 2023-06-07T10:00:00Z

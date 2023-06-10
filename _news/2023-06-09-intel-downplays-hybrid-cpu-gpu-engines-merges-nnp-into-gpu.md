@@ -59,20 +59,6 @@ related:
         width: 1038
         height: 478
         isCached: true
-  - title: "4 AI or chip stocks to buy aside from Nvidia"
-    excerpt: "NVIDIA and AMD will always go hand in hand whenever it comes to all prospects regarding Graphic Processing Units (GPUs). Prior to AI, AMD has always held a strong foothold in the PC space, powering most of the laptops alongside Intel Corporation (NASDAQ: INTC)."
-    publishedDateTime: 2023-06-06T02:55:00Z
-    webUrl: "https://thefinance.sg/2023/06/06/4-ai-or-chip-stocks-to-buy-aside-from-nvidia/"
-    type: article
-    provider:
-      name: thefinance
-      domain: thefinance.sg
-    quality: 54
-    images:
-      - url: "https://thefinance.sg/wp-content/uploads/2022/04/Oil-Rig-at-Sunset.png"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Nvidia launches new 'Grace Hopper' super chips, with CPU and GPU"
     excerpt: "Nvidia also plans to build an exaflop scale supercomputer using 256 GH200 chips that will work together as one large GPU."
     publishedDateTime: 2023-06-09T14:25:00Z

@@ -94,15 +94,6 @@ related:
         width: 1168
         height: 657
         isCached: true
-  - title: "Self-driving delivery trucks are already on North Texas highways. How safe are they?"
-    excerpt: "For anyone who likes to complain about North Texas drivers, it might sound alarming to know that soon they will be sharing the highways with transport trucks that don't have a driver at all."
-    publishedDateTime: 2023-06-06T03:33:00Z
-    webUrl: "https://www.texarkanagazette.com/news/2023/jun/05/self-driving-delivery-trucks-are-already-on-north/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 0
 
 secured: "scYezq53EVosLrfP7mDvAr+95YvmROrn/HSrDJLc0rW96OepmUgeQ5chnlPd+HFrFk+ASDWYiQ1ckbPbCPisnNZuLAHcpSmWUcYZsixunkiiYIPCKtooD32qebn8rcu3HqCUTzHACVq8LYYc1vANe8lETqjzoK2/EQ6N7Nb3dHPAQ4LKwDecrIhhRaapmCBH4rdT3dHcxefTkHyzevL0zU/7dIXZ5NND/pkbIJP11WoNYVFv6GR1zbz7aLM9mFexAX7tiQEFwM5gDMWGaTAXNOuyVtlbSPFH/WtaDoNqwdT5B3eemdRKtEEnMS9Z6V0hgI//Fi72SUyrWMdcFp7y0QwZcG7MV4mmovpMFAODgkQ=;mNT4EAdFGF3XP3Th98V3og=="
 ---

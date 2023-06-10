@@ -192,7 +192,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 32
+    quality: 34
   - title: "The Ethics of Using Generative Artificial Intelligence in the Practice of Law"
     excerpt: "Understanding how generative AI solutions collect, store and use the information that ... certainly will not be sufficient to rise to the level of expected competence by ethics officials. In other words, arguing that the information provided by ChatGPT ..."
     publishedDateTime: 2023-06-07T20:17:00Z

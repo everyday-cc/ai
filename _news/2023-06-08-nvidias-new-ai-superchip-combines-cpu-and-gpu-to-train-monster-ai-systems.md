@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/nvidias-new-a
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/amp/"
 type: article
 quality: 118
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "http://www.nextplatform.com/wp-content/uploads/2023/06/intel-falcon-shores-logo-scaled.jpg"
         width: 2560
         height: 1705
-        isCached: true
-  - title: "4 AI or chip stocks to buy aside from Nvidia"
-    excerpt: "NVIDIA and AMD will always go hand in hand whenever it comes to all prospects regarding Graphic Processing Units (GPUs). Prior to AI, AMD has always held a strong foothold in the PC space, powering most of the laptops alongside Intel Corporation (NASDAQ: INTC)."
-    publishedDateTime: 2023-06-06T02:55:00Z
-    webUrl: "https://thefinance.sg/2023/06/06/4-ai-or-chip-stocks-to-buy-aside-from-nvidia/"
-    type: article
-    provider:
-      name: thefinance
-      domain: thefinance.sg
-    quality: 54
-    images:
-      - url: "https://thefinance.sg/wp-content/uploads/2022/04/Oil-Rig-at-Sunset.png"
-        width: 800
-        height: 533
         isCached: true
   - title: "Nvidia launches new 'Grace Hopper' super chips, with CPU and GPU"
     excerpt: "Nvidia also plans to build an exaflop scale supercomputer using 256 GH200 chips that will work together as one large GPU."

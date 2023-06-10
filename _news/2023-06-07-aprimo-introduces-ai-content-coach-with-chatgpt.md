@@ -25,47 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Education - Disruption Caused By AI And ChatGPT: Artificial Intelligence Series 3 Of 5"
-    excerpt: "It is crucial for educational systems to adapt quickly and integrate AI into teaching/learning. However, educational systems are slow to adapt and full of bureaucracies."
-    publishedDateTime: 2023-06-06T01:25:00Z
-    webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 108
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647e8876a92e58b45e214425/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 742
-        isCached: true
-  - title: "Lawyers who used ChatGPT included fake legal research fabricated by AI chatbot"
-    excerpt: "A couple of lawyers who cited fictitious research concocted by AI bot ChatGPT is asking a New York-based federal judge to spare sanctions."
-    publishedDateTime: 2023-06-09T16:34:00Z
-    webUrl: "https://www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot"
-    ampWebUrl: "https://www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 83
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/263d618f-c90f-4453-825c-0e53ced8d257/65c8223d-3861-4e2a-8508-affb94e3c6f5/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Intelligent Classrooms: What AI Means For The Future Of Education"
-    excerpt: "AI systems will have expansive implications for how schools function, teachers work, and how students prepare for tomorrow's world of work."
-    publishedDateTime: 2023-06-07T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/vickiphillips/2023/06/07/intelligent-classrooms-what-ai-means-for-the-future-of-education/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Sam Altman: The man behind the AI sensation across the globe, ChatGPT"
     excerpt: "ChatGPT: OpenAI co-founder Sam Altman says that artificial intelligence might kill jobs but it is not a permanent job killer"
     publishedDateTime: 2023-06-08T13:45:00Z
@@ -82,19 +41,53 @@ related:
         width: 3500
         height: 2332
         isCached: true
-  - title: "Apple’s Vision Pro needs AI like ChatGPT as soon as possible"
-    excerpt: "Apple just unveiled the Vision Pro AR/VR headset. But the powerful hardware needs one more thing: a ChatGPT-like generative AI assistant."
-    publishedDateTime: 2023-06-06T01:22:00Z
-    webUrl: "https://bgr.com/tech/apples-vision-pro-needs-ai-like-chatgpt-as-soon-as-possible/"
+  - title: "OpenAI CEO Sam Altman visits South Korea as country seeks to encourage AI development"
+    excerpt: "After crisscrossing Europe last month meeting lawmakers and national leaders to discuss the prospects and threats of AI, Altman has travelled to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea - all this week."
+    publishedDateTime: 2023-06-09T01:34:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 52
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-279.jpg?quality=82&strip=all"
-        width: 1600
-        height: 885
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399065870.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "OpenAI’s chief Sam Altman meets PM Modi, discusses startup ecosystem’s benefits from AI"
+    excerpt: "Sam Altman, chief executive officer of ChatGPT’s parent company OpenAI, on Thursday met Prime Minister Narendra Modi in New Delhi to discuss the potential of artificial intelligence (AI), and the need for global regulation. “Great conversation with @ ..."
+    publishedDateTime: 2023-06-09T15:46:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai-11686325363721.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai/amp-11686325363721.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai/amp-11686325363721.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 49
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/09/600x338/ANI-20230609032-0_1686325462996_1686325504553.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "‘What should the limits be?’ The father of ChatGPT on whether AI will save humanity – or destroy it"
+    excerpt: "Sam Altman is among the most vocal supporters of artificial intelligence, but is also leading calls to regulate it. He outlines his vision of a very uncertain future"
+    publishedDateTime: 2023-06-07T04:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/d67dc626115d9507a3876fefd572a1fd9bb33481/0_116_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=46f7d7637665f0421a5914ebe539dc77"
+        width: 620
+        height: 372
         isCached: true
   - title: "Tim Cook covers Vision Pro, ChatGPT AI, and more in new interview"
     excerpt: "Apple's CEO Tim Cook announced the Vision Pro, the company's first \"spatial computer. Now, he was interviewed about it."
@@ -110,15 +103,24 @@ related:
         width: 1812
         height: 900
         isCached: true
-  - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
-    excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
-    publishedDateTime: 2023-06-06T13:34:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827428.htm"
+  - title: "OpenAI CEO Sam Altman encourages South Korea to supply chips in AI boom"
+    excerpt: "Altman, after crisscrossing Europe last month meeting lawmakers and national leaders to discuss AI's prospects and threats, has travelled this week to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea."
+    publishedDateTime: 2023-06-09T13:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/openai-ceo-encourages-south-korea-to-supply-chips-in-ai-boom/articleshow/100879979.cms"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+  - title: "ChatGPT creator Sam Altman meets Modi, discusses global regulation for AI"
+    excerpt: "Creator of ChatGPT and CEO of Open AI Sam Altman called on Prime Minister Narendra Modi and talked about its downside and why it is important to look into it."
+    publishedDateTime: 2023-06-10T18:47:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/chatgpt-creator-meets-modi-discusses-global-regulation-for-ai-515746"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 18
 
 secured: "pEClB/taHeO5qSPkYlAjzXmKkJBT6VZTsXtXdltlswgGbpXukqURrkcs3w36lh65cdolBBDm5TPZMXMrAEQUkcAU1AcjwG1jDUsL7BAi86IcuItHQS2GgI0xYJ56GqhrV7jCpQLq3kOPLVb/ngT9nF8+QvXIewnD8TTqoaLj0225GqNoypyNCO/rXGXCVZXmidSGxk6VlGvQmuT97fhY0+dlszhCk6nor0D8Jt5mWsvC3usw+gSxVGgdFOiuiUxo926w4lNpHNFijO1ksI9tia/iYP1jOV27wp4Pw97QT4kogUsEGLS8VFmG6svgKgpXAvS60a1x8rg9GVCLvom2P60C6hU7YUrksuXEt/jOnPk=;Y3OoXP0s32QvzWfGG6P7pg=="
 ---

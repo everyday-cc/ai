@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-az
 webUrl: "https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "OpenAI CEO highlights South Korean chips sector for AI growth, investment"
+    excerpt: "OpenAI CEO Sam Altman encourages South Korea to lead in AI chip production, expressing interest in investing in Korean startups."
+    publishedDateTime: 2023-06-10T10:29:00Z
+    webUrl: "https://cointelegraph.com/news/openai-ceo-highlights-south-korean-chips-sector-for-ai-growth-willing-to-invest"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 33
 
 secured: "cmrln+onlTFSlqKoQy5sWrIIfK/OgCtMlzJI3iwsBU3qBNTF7y+0spOmuziGQognpfx8UwtiCaEqsoS0LHi+HoUIO1QXu0g2pkMMUGjFeSS6t9fDTWWMNBG/F5pO386OCv5NMaT0bnMJEzFLzsps/gh+yAt6TGcVk0+bwkSQakGVsvGDzlOS0xX/nqb96eshhvKok+0syTk3RzjGI1/iw1vcSgRXUfkJs2oYWMnpCaAsSVMtu9jY98qiC0am8eJn0Nu4XbRS/V5Q5O93XJ8gL6sOUlSy35KLM41dM0PMLR9zkPVot5RStyEQM4t0LriJ+4eaZjUsSQSNZpnIxuce0x/+2sQMCMe0W9pHXON/Suw=;Gc3UMsxH5XYp5Z7tVu2adA=="
 ---

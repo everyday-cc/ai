@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-se
 webUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -98,15 +98,6 @@ related:
         width: 1168
         height: 657
         isCached: true
-  - title: "Self-driving delivery trucks are already on North Texas highways. How safe are they?"
-    excerpt: "For anyone who likes to complain about North Texas drivers, it might sound alarming to know that soon they will be sharing the highways with transport trucks that don't have a driver at all."
-    publishedDateTime: 2023-06-06T03:33:00Z
-    webUrl: "https://www.texarkanagazette.com/news/2023/jun/05/self-driving-delivery-trucks-are-already-on-north/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 0
 
 secured: "f7fZYUMIZcb82qHCTiJgAQp6wUYUOMndX3BNJSBfpsEQQF2VNVcfaANGV6tJsfX0cd+ZIJbmiR9t74w0vJBczj3PCbRK1cmqL+JDnO24jvn9sIguYUqxmE/62RJHghbSFCxrTP3WdPePh3J1EPET1GrREr15i96imx6yK5TenI5TWYJ0Fa2IQvxrql4k7Vrq6rDHUNlmjgOjblydwD64bJjParS0RyqYqfDTG3dVUdgkgwiiqmcmspjWq07Mkkgg1t6l4qlYcm0/l048+FWD/dv5tpgYqPXwCqX2sfLLrUM2b7DzAZqbXQCRn63rgeicP3llyMYFhavjWHisvi1ZYO2x+P71YSN2X5vhl/r8Lac=;IRgYbbHeC5E1MV9efSVsTA=="
 ---

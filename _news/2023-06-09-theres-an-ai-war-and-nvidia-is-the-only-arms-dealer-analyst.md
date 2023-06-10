@@ -103,34 +103,6 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "TSMC rushes to increase packaging capacity for Nvidia AI chips"
-    excerpt: "TSMC has placed rush orders for CoWoS packaging equipment in order to meet surging demand for Nvidia's AI chips, according to sources at fab toolmakers."
-    publishedDateTime: 2023-06-06T01:35:00Z
-    webUrl: "https://www.digitimes.com/news/a20230605PD219/cowos-nvidia-tsmc.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230605pd219_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Chiratae, Nvidia Execs -backed Minus Zero Unveils India's 1st Autonomous Car zPod"
-    excerpt: "Artificial Intelligence (AI) startup Minus Zero has just unveiled India's first autonomous/ driverless car — z-Pod. With z-Pod, Minus Zero achieved f"
-    publishedDateTime: 2023-06-06T03:24:00Z
-    webUrl: "https://www.indianweb2.com/2023/06/chiratae-nvidia-execs-backed-minus-zero.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 19
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDy_BKwANVrwdsKI0ccea307p5P0813h3V3t2IVxnAp1dz3mOjbaSB8_3QiFCy3VfdSOttPPyLrjnK6FzXMM6iTnJnf7e4-RUZd4VwLnt7Sm0hWfAiT2Y8lvcwCXfRyGVGDMh803UfS_jZzmYLZ38aPY-FuoeTwdN2rDGpqf09Ixi7f8Akl_2TINIy/s16000/20230606_074928_0000.png"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Era of artificial intelligence in India"
     excerpt: "Ishant Gupta In today’s digital era, technological advancements have revolutionized the way we live, work, and interact. Among these advancements, Artificial Intelligence (AI) has emerged as a powerful tool,"
     publishedDateTime: 2023-06-09T19:11:00Z

@@ -115,6 +115,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Generative AI is coming for healthcare"
+    excerpt: "ChatGPT and its close generative AI cousins (like Bard and MedPaLM) are now being deployed and tested in healthcare settings. At its simplest, generative AI is a tool or algorithm that can create astonishing new content (think poetry,"
+    publishedDateTime: 2023-06-08T12:17:00Z
+    webUrl: "https://www.pmlive.com/blogs/smart_thinking/archive/2023/rohit/generative_ai_is_coming_for_healthcare"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 36
 
 secured: "JTIo4gJ0P1VNRsFYmmSdGx7KaQSIVbA4rLGyCrd+Mb3OF+41dXNk/2sBxnAtBC7epSOB+AiiNOjD3v47hd0IIDpLYznUwgakXJQIXdWJd77ghj5GZaF/SQm68vgfyPdrgSMuWWcP/ElW6URCvnEVwQhBjxga1QDdpX8Fi4CfaY1CcDJXr1yOmhhyO+oGEcANw3oNI6CMydK4y0/y0vNPX8KJgewp57k3lU7vHDQgatkCfKIxJmaBEsLSerwSb7WZdi7OeoHhuP42GgRX6RUUqCk7FNfRGb8+F/Qc6TqvP8ZWnUsPEpmBcPb+f2W4rpeKswZdKV4MmgEewGYKE3qkurkUix8zp8HUGhhVTXaJ/uhSy9Cfy08aF6hyYVXIOip6OCrQyCpwDqXm+uf8jUKdWsybn7vd3RPVf4+nPBCD11aFpN8zD3KnTPPIOs6HSafKhLoUrJb7aJiHABqkYYOt+Zv/8Cp369mft4WFPTHE+/ZVXxm1idk1TPBvI/W8SX1tuwMLxKqr6SnhP/1SpirYhw==;hLI3/1kQu7uI62EJ9tD6LQ=="
 ---

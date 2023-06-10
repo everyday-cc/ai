@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-10T15:20:00Z
 originalUrl: "https://venturebeat.com/ai/how-ai-is-transforming-business-outcomes-across-industries-and-sectors/"
 webUrl: "https://venturebeat.com/ai/how-ai-is-transforming-business-outcomes-across-industries-and-sectors/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1347947373.jpg?w=1200&strip=all"

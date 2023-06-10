@@ -30,98 +30,132 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Education - Disruption Caused By AI And ChatGPT: Artificial Intelligence Series 3 Of 5"
-    excerpt: "It is crucial for educational systems to adapt quickly and integrate AI into teaching/learning. However, educational systems are slow to adapt and full of bureaucracies."
-    publishedDateTime: 2023-06-06T01:25:00Z
-    webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/amp/"
+  - title: "Instagram may be getting its own AI chatbot soon. Here's what we know"
+    excerpt: "Instagram's chatbot is very similar in purpose and design to Snapchat's My AI. Since Snapchat's feature has not been well received, it's interesting to see that Instagram is following in its footsteps. Whether this will become a useful feature or be quickly forgotten remains to be seen."
+    publishedDateTime: 2023-06-06T16:16:00Z
+    webUrl: "https://www.zdnet.com/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 108
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647e8876a92e58b45e214425/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/731fa999b2b078dba0f7ffd929234df150b9a7bd/2023/06/06/0d67eed7-716a-47da-bb16-4b86e1f196b8/gettyimages-1256994567-1.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 742
+        height: 675
         isCached: true
-  - title: "Intelligent Classrooms: What AI Means For The Future Of Education"
-    excerpt: "AI systems will have expansive implications for how schools function, teachers work, and how students prepare for tomorrow's world of work."
-    publishedDateTime: 2023-06-07T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/vickiphillips/2023/06/07/intelligent-classrooms-what-ai-means-for-the-future-of-education/"
+  - title: "Bank Customers Aren't Happy With AI Chatbots. Here's Why"
+    excerpt: "Banks are implementing AI chatbots in their customer relations operations, but the Consumer Financial Protection Bureau says some bots are causing frustrations."
+    publishedDateTime: 2023-06-10T08:15:00Z
+    webUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Sam Altman: The man behind the AI sensation across the globe, ChatGPT"
-    excerpt: "ChatGPT: OpenAI co-founder Sam Altman says that artificial intelligence might kill jobs but it is not a permanent job killer"
-    publishedDateTime: 2023-06-08T13:45:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
+      name: CNET
+      domain: cnet.com
+    quality: 84
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/16/full/1684251299-6933.jpg"
-        width: 3500
-        height: 2332
+      - url: "https://www.cnet.com/a/img/resize/2dc3500f203ced9cff4738727c8a636b25abb1a6/hub/2022/12/10/f740691c-a2e7-4119-9d71-bd37ced7afbb/chatgpt-chatbot-art.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Apple’s Vision Pro needs AI like ChatGPT as soon as possible"
-    excerpt: "Apple just unveiled the Vision Pro AR/VR headset. But the powerful hardware needs one more thing: a ChatGPT-like generative AI assistant."
-    publishedDateTime: 2023-06-06T01:22:00Z
-    webUrl: "https://bgr.com/tech/apples-vision-pro-needs-ai-like-chatgpt-as-soon-as-possible/"
+  - title: "Instagram Reportedly Developing AI Chatbot With 30 Personalities"
+    excerpt: "Meta is reportedly testing an Instagram AI chatbot that offers users the choice of switching between 30 different personalities. A screenshot (Opens in a new window) shared on Twi"
+    publishedDateTime: 2023-06-07T15:37:00Z
+    webUrl: "https://www.pcmag.com/news/instagram-reportedly-developing-ai-chatbot-with-30-personalities"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-279.jpg?quality=82&strip=all"
-        width: 1600
-        height: 885
+      - url: "https://i.pcmag.com/imagery/articles/02AjtLzVbG0hbhR2FyEyKiP-1.fit_lim.size_1200x630.v1686147613.png"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "Aprimo Introduces AI Content Coach with ChatGPT"
-    excerpt: "Aprimo, a provider of digital asset management and marketing resource management solutions, has launched AI Content Coach, a content creation tool powered by Microsoft Azure OpenAI Service and ChatGPT. The interactive assistant seamlessly integrates with ..."
-    publishedDateTime: 2023-06-07T14:05:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Aprimo-Introduces-AI-Content-Coach-with-ChatGPT-159014.aspx"
+  - title: "AI chatbots offer comfort to the bereaved"
+    excerpt: "Staying in touch with a loved one after their death is the promise of several start-ups using the powers artificial intelligence, though not without raising ethical questions."
+    publishedDateTime: 2023-06-08T07:55:00Z
+    webUrl: "https://techxplore.com/news/2023-06-ai-chatbots-comfort-bereaved.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-ai-chatbots-comfort-bereaved.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chatbots-comfort-bereaved.amp"
     type: article
     provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 39
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/153076-0623_Concentrix_480x610-ORG.png"
-        width: 480
-        height: 610
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/actor-william-shatner.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Tim Cook covers Vision Pro, ChatGPT AI, and more in new interview"
-    excerpt: "Apple's CEO Tim Cook announced the Vision Pro, the company's first \"spatial computer. Now, he was interviewed about it."
-    publishedDateTime: 2023-06-06T15:23:00Z
-    webUrl: "https://bgr.com/tech/tim-cook-covers-vision-pro-chatgpt-ai-and-more-in-new-interview/"
+  - title: "Meta unveils plan to infuse generative AI into Facebook, Instagram, Messenger"
+    excerpt: "Mark Zuckerberg, the CEO of Meta , recently shared his plans to integrate generative artificial intelligence into popular platforms like Facebook, Instagram, and Messenger.Generative AI has"
+    publishedDateTime: 2023-06-08T21:18:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
+      name: The News International
+      domain: thenews.com.pk
+    quality: 56
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-06-09/1078378_023343_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Instagram might be working on an AI chatbot"
+    excerpt: "According to the leaks, users can choose from 30 different AI personalities, who can also help users write messages."
+    publishedDateTime: 2023-06-06T19:27:00Z
+    webUrl: "https://techcrunch.com/2023/06/06/instagram-might-be-working-on-an-ai-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
+    excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."
+    publishedDateTime: 2023-06-09T17:00:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/ai-chatbot-chatgpt-cant-create-convincing-scientific-papers-yet"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
     quality: 37
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/tim-cook-apple-vision-pro-abc-bgr.jpg?quality=82&strip=all"
-        width: 1812
-        height: 900
+      - url: "https://cdn.mos.cms.futurecdn.net/RsTwfc7HXdDsw9UdxSjqwi-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
-    excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
-    publishedDateTime: 2023-06-06T13:34:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827428.htm"
+  - title: "AI chatbots offer comfort to the bereaved, ethics notwithstanding"
+    excerpt: "Thanks to generative artificial intelligence, avatars of departed loved ones can now convey things they never said when they were alive."
+    publishedDateTime: 2023-06-08T07:32:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/06/08/ai-chatbots-offer-comfort-to-the-bereaved-ethics-notwithstanding/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
+  - title: "An AI chatbot might soon slide into your Instagram DMs"
+    excerpt: "Instagram is reportedly working on an AI chatbot that will let users choose between 30 different personalities to chat with."
+    publishedDateTime: 2023-06-07T18:21:00Z
+    webUrl: "https://bgr.com/tech/an-ai-chatbot-might-soon-slide-into-your-instagram-dms/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
+  - title: "Facebook, Instagram to get ChatGPT-like smarts as Mark Zuckerberg’s Meta plans big generative AI push"
+    excerpt: "Mark Zuckerberg, who plans to incorporate generative AI into Meta’s flagship products, talks about his AI plans at a meeting held on Thursday."
+    publishedDateTime: 2023-06-09T11:57:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-facebook-instagram-to-get-chatgpt-like-smarts-as-mark-zuckerbergs-meta-plans-big-generative-ai-push-3119862/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 4
 
 secured: "sIxoR4rbmt7csi9AVeL8xIYy/snHVA0ndFTJxwb03Sxz13MTvaqLQChPkaAfL7hMBs9ZOPtpmGFUTKtHF0h9LfKgzC3spdqF66OgTo0NuiWKobs8tpM0Pn86SKpw40auwdcX2hisZkf3/jtSh0Q0KWrvqHjPzaYWi+WnCAYC1HQZf2TatcpPV0ltdVwtQWlp5gkt4vIpsIr2VkYMPr2Rthxzj0cD8C8nv8AQMCgyiVpWAvfJHTnmaDs8MkAVSsKcWnguB8vupRTVsonfOah92yc/P/O7q9f36lUOInqqGQF0JdyyWLVufNvxI6I000jztA78nVVk3JlaL8GnSF0sLekAiZ8tMiX/8IN4oRUBU64=;HcJZqg+A+/8dLu3UFSOfRw=="
 ---

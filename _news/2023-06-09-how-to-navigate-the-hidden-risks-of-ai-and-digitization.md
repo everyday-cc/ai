@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and
 webUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI in distribution: How artificial intelligence can drive growth"
+    excerpt: "Artificial intelligence (AI) is a growing industry that has changed the way businesses function and interact with their customers."
+    publishedDateTime: 2023-06-09T04:00:00Z
+    webUrl: "https://www.supplyht.com/articles/105371-ai-in-distribution-how-artificial-intelligence-can-drive-growth"
+    type: article
+    provider:
+      name: Supply House Times
+      domain: supplyht.com
+    quality: 34
   - title: "A row over artificial intelligence regulations looms on the horizon"
     excerpt: "EU officials say Britain is behind the AI curve, while the UK points to the size of London’s tech industry as evidence that this country is best placed to play a vital role in any regulatory framework"
     publishedDateTime: 2023-06-07T19:35:00Z

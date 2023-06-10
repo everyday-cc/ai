@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/06/08/9829575.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/06/08/9829575.htm"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -20,22 +20,15 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "San Antonio Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-    excerpt: "For the 1st time the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp program for high school students will take place in San Antonio. The No-Cost Fall"
-    publishedDateTime: 2023-06-06T17:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/g32744440/san-antonio-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32744440"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32744440"
+  - title: "San Antonio Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+    excerpt: "San Antonio is one of 28+ cities selected to host camps across the US in Fall 2023. The San Antonio Bootcamp will be held over four consecutive Saturdays starting on October 14th and ending on November 4th."
+    publishedDateTime: 2023-06-06T18:02:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827710.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
   - title: "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
     excerpt: "The Mark Cuban Foundation’s Artificial Intelligence Bootcamp Initiative Teaches AI Concepts to Underserved High School Students through a 4-Saturday Bootcamp in the Fall. CHICAG"
     publishedDateTime: 2023-06-06T18:46:00Z

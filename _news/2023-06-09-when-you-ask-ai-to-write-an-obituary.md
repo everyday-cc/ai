@@ -34,6 +34,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "US and EU to draft an AI code of conduct"
+    excerpt: "As talks of global AI governance intensify around the world, with G7 leaders agreeing on this May to produce a Hiroshima AI process by the end of the year, every international summit seems to touch upon questions of AI Governance."
+    publishedDateTime: 2023-06-06T15:48:00Z
+    webUrl: "https://www.techuk.org/resource/us-and-eu-to-draft-an-ai-code-of-conduct.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/7f890400-cfb8-4788-95e96a473cacf61a/resourcegridlistingimagedefault_4d12532919c64e60a22baf03232bbf94_4a7c7e45a350/Website-Abstract-tech-background-made-of-printed-circuit-board-iStock-1206097406.jpg"
+        width: 440
+        height: 248
+        isCached: true
   - title: "Can artificial intelligence provide evidence-based responses to public health questions?"
     excerpt: "AI assistants can revolutionize public health by providing precise and practical information to the public. AI assistants are specifically designed to provide exact answers to complex questions instead of web-based knowledge resources that often return multiple results and require the user to synthesize data."
     publishedDateTime: 2023-06-09T12:05:00Z

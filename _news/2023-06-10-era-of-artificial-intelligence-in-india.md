@@ -97,20 +97,6 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "TSMC rushes to increase packaging capacity for Nvidia AI chips"
-    excerpt: "TSMC has placed rush orders for CoWoS packaging equipment in order to meet surging demand for Nvidia's AI chips, according to sources at fab toolmakers."
-    publishedDateTime: 2023-06-06T01:35:00Z
-    webUrl: "https://www.digitimes.com/news/a20230605PD219/cowos-nvidia-tsmc.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230605pd219_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "There’s an AI war, and Nvidia is the only arms dealer: Analyst"
     excerpt: "Shares of Nvidia (NVDA) rocketed more than 26% on Thursday, as the graphics chip maker rides the generative AI explosion. The rip higher comes after the company reported better-than-expected first ..."
     publishedDateTime: 2023-06-09T04:55:00Z
@@ -124,20 +110,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/vic5SKs0jnzKZ75V9jiHnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTA-/https://media.zenfs.com/en/aol_yahoo_finance_433/278a4c77804c64b2f9dcd57da2b3125e"
         width: 1199
         height: 650
-        isCached: true
-  - title: "Chiratae, Nvidia Execs -backed Minus Zero Unveils India's 1st Autonomous Car zPod"
-    excerpt: "Artificial Intelligence (AI) startup Minus Zero has just unveiled India's first autonomous/ driverless car — z-Pod. With z-Pod, Minus Zero achieved f"
-    publishedDateTime: 2023-06-06T03:24:00Z
-    webUrl: "https://www.indianweb2.com/2023/06/chiratae-nvidia-execs-backed-minus-zero.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 19
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDy_BKwANVrwdsKI0ccea307p5P0813h3V3t2IVxnAp1dz3mOjbaSB8_3QiFCy3VfdSOttPPyLrjnK6FzXMM6iTnJnf7e4-RUZd4VwLnt7Sm0hWfAiT2Y8lvcwCXfRyGVGDMh803UfS_jZzmYLZ38aPY-FuoeTwdN2rDGpqf09Ixi7f8Akl_2TINIy/s16000/20230606_074928_0000.png"
-        width: 900
-        height: 600
         isCached: true
   - title: "Nvidia’s AI software tricked into leaking data"
     excerpt: "A feature in Nvidia’s artificial intelligence software can be manipulated into ignoring safety restraints and reveal private information, according to new research."

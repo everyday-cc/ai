@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/etf/apple-displaced-as-to
 webUrl: "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "3 Artificial Intelligence ETF Plays for Passive Investors"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors want to capitalize on ChatGPT’s popularity, a notable OpenAI"
+    publishedDateTime: 2023-06-08T15:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-etf-plays-for-passive-investors-1032378942"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "+v23ucYsKH9J0648rErxj3stsDwWzy10uG55U7esR517ptrqJuUyh9HUxv3IWM254qBlqAGK+TSLsU5I/YaD+G83X8rIMBxaIgmXT5xdoX7MWRppjXg+p6QzE1nQhFwGGQNB+8BskEWZ4myAZKrm4/MUlDwQInwUOsfJWD0M0ViL0bTvTM8Q3sSEy70xJefXJ2hZUfWIx8Nl5b+r7qMYw5p0F4CkuehO7JRTflSJiLRI+eQbmWLLVXz1uN5i84r1tOlQBliG+i8vaZbzgXKhUH3ZENkzF9U8/pqpwFc/Pmy1wSJ68fxWeTEz447a09MBrP4meyBh9yJ9muoimnMakSNmwg/x0fDIk2A0oEcAUS7V5IBmpgG8CfofOg35vVm+cux4GvXTa9d7i5D7EyYwcxUMMHDTFemcFZN7JFUzirMUUbW+V06qFrg32jUTT6F2n2I7txqePgv+8t6GCwLieTKHjp+7TX9OL4bI8joXhuJALdNSlQ5A5Lr3K8hbbBcZhArHHbCyYUawDfEYMZJNfg==;yMQe3nubRuqaAhpz8sZKGQ=="
 ---

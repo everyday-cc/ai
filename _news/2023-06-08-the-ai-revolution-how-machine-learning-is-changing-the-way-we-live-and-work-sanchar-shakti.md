@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/the-ai-revolution-ho
 cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Mid Day
@@ -25,6 +25,17 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "The AI revolution will change work but nobody agrees how"
+    excerpt: "Goldman Sachs estimated that the technology behind popular AI tools such as DALL-E and ChatGPT could automate the equivalent of 300 million full-time jobs."
+    publishedDateTime: 2023-06-10T04:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-ai-revolution-will-change-work-but-nobody-agrees-how/articleshow/100890168.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "rBfaHNC2Rw1jzMZt+f4rAPdu2buHm/sc+ocKVLS84dY3k7/ejJgqYjblU8EoPszAzt8OSgFcdSa60D8OAbfIFxzEnj6CXdVrwMgqCuMpO5RfG/gHCDOyUYLPFmfyjThSgN7vfYePpK+K4b7HqXSJbGY8sm1YNFLWo9gZ548IMfR6lxXrj9AOqK8+LAR/DVqRIJQHJ7MTT/N7YVWKdDDLofDUor7Lax1sZ91BO9dCOBJ3CDElmbuam7rDvLHO24A32SIFlmPftr2l7NZvIZG096LclI8zq97yH5FesAMRVrehsDfMvpTjN5snfoX+vpQnRVA1J99pXnirvlcLd7IENK1R3V/0EeEK4hBVTbT5kBrq4Pzxwn6fEhWhjG/zf869EjRx+BDoSWT96d0iPyhs9WOOE3Cl84foMhb2Xg2BoXNZOSIFK0OByHF9iR3rTcAd8zCrzTelnRbVWUHcfPyhIXTNIAh1gnY74eke7jmivIf5vEIVQNSjzSE8NxATAYB/PystJbbRZsRirbKFxdMeVQ==;tC6yS8kkTCLvtBHayVKDZg=="
 ---

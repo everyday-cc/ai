@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -116,6 +116,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 64
+  - title: "Generative AI is coming for healthcare"
+    excerpt: "ChatGPT and its close generative AI cousins (like Bard and MedPaLM) are now being deployed and tested in healthcare settings. At its simplest, generative AI is a tool or algorithm that can create astonishing new content (think poetry,"
+    publishedDateTime: 2023-06-08T12:17:00Z
+    webUrl: "https://www.pmlive.com/blogs/smart_thinking/archive/2023/rohit/generative_ai_is_coming_for_healthcare"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 36
 
 secured: "LnMQcv/5F8Wvzjx/e+tEIUlAfZgvxrcXnf0d4mZacACM6fPqAPbjbiGTNyev4K/XNGxsB29RbZc7liTQ1MziqpX3OkKmmJsTr5vUrorQMFXtwOoibQ/XDM0HfwuR7nQQi3RIHoTHe/K0yj161hPewSJNw2RSQerJ81RfC0+ieEUVhspgFtXf1/yzJyU5h7D/CJ8hk0wJS4PRP0IhpX9mhDq/wnyD9JLPCMt8Qy84h9cO/VI34u+VBHFUvUbgPQSf3oyVwW2tPCVP6tar3sTwbCl0YxCCGaF1i4SGRnlwHu4QvYuzIDr/z4kANCgtWK3kf6cZtLZE73awRTLtUebEDuBXVxJwWVKm+BndbZQbf7s=;f0cjxFVz3D9uowjVmx8iow=="
 ---

@@ -23,21 +23,35 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "AI For Value Investors: MegaCap Tech, ETN & DLR"
-    excerpt: "No doubt, the big news on the individual stock front was the euphoria surrounding just about any stock having anything to do with artificial intelligence (AI),"
-    publishedDateTime: 2023-06-06T04:57:00Z
-    webUrl: "https://www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/"
-    ampWebUrl: "https://www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbuckingham/2023/06/06/ai-for-value-investors-megacap-tech-etn--dlr/amp/"
+  - title: "Apple Displaced As Top Holding By AI-Play Big Tech In Robot-Run Large-Cap ETF"
+    excerpt: "In a surprising twist in the world of AI-driven investment, the Qraft AI-Enhanced U.S. Large Cap ETF (NYSE:QRFT) has displaced Apple Inc. (NASDAQ:AAPL) as its top holding, replacing it with another big tech player,"
+    publishedDateTime: 2023-06-08T13:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647e71f5e8e43bc88257b388/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/TCS_Invests_In_AI_1.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Apple Displaced As Top Holding By AI-Play Big Tech In Robot-Run Large-Cap ETF"
+    excerpt: "The company’s potential to leverage its AI capabilities into standard features within every iPhone, iPad, and MacBook, including object and person recognition tools, could position it as a significant player in the AI space. The intensifying AI battle ..."
+    publishedDateTime: 2023-06-09T03:49:00Z
+    webUrl: "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/23/06/32778787/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32778787"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32778787"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 73
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/TCS_Invests_In_AI_1.jpeg?width=1200&height=800&fit=crop"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "IwxFrUzd2LKCeE4HLFrrBQgJozhoZl/D7vO+q61J115aGKz2nykIxiB5rGKnyMgyXTnb3Qne9a8bp04JQd0wHYSiMGHjJyMR5SL32hKadLj7sg1cHymJ7dE5tDaLQGCWePTwZwHXPBLk3jQWZNPBU2IU1O0QFXeDNMGU4wMXvCFrmsybGVDWfKGjOHhTr2lF4gC20iq6nySwBMLCrUCpKtRDK0yLm2tC3JjKR4lZa4h+7jomJSuMuckkc6QnRv5MKmHTWupoR7YY5n8Rdw+yp5/+6mw1Styp1B6d1l/U123M8PQqEIaPOHiWMHoYpKfdEGyAGePZiSdu6M+wxACi864PT1tJoCXL5oqHlD5mu5t4wq7ePH3JSaH88ibnKlMCDkBNXp5lPexIB/K41z1G85mI8wBVS4CPDHEpubVyK4kaMNGJ0yc+ruSghLqnhxMKmbS4VzDfXleeL5cBfwbRNv1uoKphD2uoLshigWEl1bn8r59mnjLNkHXsPsp2shzVATFM4E2m+CJLS+iQkDAp4Q==;H0cCf5NRRKwoRYo3aKcubQ=="

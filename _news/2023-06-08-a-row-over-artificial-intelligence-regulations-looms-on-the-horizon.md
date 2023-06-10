@@ -33,6 +33,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "AI in distribution: How artificial intelligence can drive growth"
+    excerpt: "Artificial intelligence (AI) is a growing industry that has changed the way businesses function and interact with their customers."
+    publishedDateTime: 2023-06-09T04:00:00Z
+    webUrl: "https://www.supplyht.com/articles/105371-ai-in-distribution-how-artificial-intelligence-can-drive-growth"
+    type: article
+    provider:
+      name: Supply House Times
+      domain: supplyht.com
+    quality: 34
   - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
     excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent"
     publishedDateTime: 2023-06-06T12:44:00Z

@@ -62,7 +62,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -419,6 +419,40 @@
       ]
     },
     {
+      "path": "_news/2023-06-01-new-method-improves-efficiency-of-vision-transformer-ai-systems.md",
+      "title": "New method improves efficiency of ‘vision transformer’ AI systems",
+      "excerpt": "The paper, “PaCa-ViT: Learning Patch-to-Cluster Attention in Vision Transformers,” will be presented at the IEEE/CVF Conference on Computer Vision and Pattern Recognition, being held June 18 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/991133",
+      "originalUrl": "https://www.eurekalert.org/news-releases/991133",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-should-the-government-be-allowed-to-use-facial-recognition.md",
       "title": "Should the government be allowed to use facial recognition?",
       "excerpt": "While security implementations of facial-recognition software continue, the technology has reportedly found uses in more nefarious settings. A report in The Washington Post found that dozens of ...",
@@ -466,17 +500,17 @@
       "title": "Landing AI's Visual Prompting Makes Building and Deploying Computer Vision Easy with NVIDIA Metropolis",
       "excerpt": "PALO ALTO, Calif., May 29, 2023 /PRNewswire/ -- Landing AI, a leading computer vision cloud company, today announced at Computex that it is using the new NVIDIA Metropolis for Factories ...",
       "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis/article_e9750c34-bdf7-53d9-a642-a9fe9c761712.html",
-      "originalUrl": "https://www.news-journal.com/landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis/article_e9750c34-bdf7-53d9-a642-a9fe9c761712.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32611926/landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32611926/landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropo",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/7/90/7905e726-097b-5429-a306-d7bcad9e7521/64742de0a2e9e.image.jpg?crop=1154%2C606%2C13%2C0&resize=1154%2C606&order=crop%2Cresize",
-          "width": 1154,
-          "height": 606,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -484,13 +518,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T22:39:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32611926",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32611926",
+      "publishedDateTime": "2023-05-28T21:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1284,58 +1318,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-computer-vision-system-market-research-2023-2030.md",
-      "title": "Computer Vision System Market Research | 2023-2030",
-      "excerpt": "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-research-2023-2030-2023-05-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
