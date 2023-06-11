@@ -93,20 +93,6 @@ related:
         width: 1070
         height: 579
         isCached: true
-  - title: "Introducing WE LAB's AI Technology for Fashion Production"
-    excerpt: "WE LAB introduces AI technology for fashion design. The product generates design references, provides targeted guidance, and offers a complete"
-    publishedDateTime: 2023-06-06T09:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-we-lab-s-ai-technology-for-fashion-production-1032371696"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/OLq1WBMwTLSvW1ZZhfqBwehSLb93/1686018825067-0.png"
-        width: 800
-        height: 389
-        isCached: true
   - title: "AI Chatbots Are Causing Bank Customers Headaches"
     excerpt: "Banks are implementing AI chatbots into their operations as a cost-cutting measure, but the Consumer Financial Protection Bureau says some bots are causing frustrations for customers."
     publishedDateTime: 2023-06-06T18:19:00Z

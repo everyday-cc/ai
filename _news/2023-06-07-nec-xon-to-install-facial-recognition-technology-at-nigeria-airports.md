@@ -7,7 +7,7 @@ originalUrl: "https://www.nigeriacommunicationsweek.com.ng/nec-xon-to-install-fa
 webUrl: "https://www.nigeriacommunicationsweek.com.ng/nec-xon-to-install-facial-recognition-technology-at-nigeria-airports/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,60 +23,6 @@ images:
     width: 629
     height: 349
     isCached: true
-
-related:
-  - title: "Nigerian FG to install facial recognition technology at airports"
-    excerpt: "The initial project phase includes Lagos and Abuja international airports, but will be extended to other airports, including Port Harcourt, Enugu and Kano."
-    publishedDateTime: 2023-06-06T09:08:00Z
-    webUrl: "https://www.itweb.co.za/content/4r1lyMR9mpd7pmda"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/06/Louw-Cilliers-06June2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Prosecution in first N.J. arrest using controversial facial recognition technology hits snag with court ruling"
-    excerpt: "The arrest of Francisco Arteaga in late 2019 is believed to be the first in the state using the facial recognition technology."
-    publishedDateTime: 2023-06-07T19:55:00Z
-    webUrl: "https://www.nj.com/hudson/2023/06/prosecution-in-first-nj-arrest-using-controversial-facial-recognition-technology-hits-snag-with-court-ruling.html"
-    ampWebUrl: "https://www.nj.com/hudson/2023/06/prosecution-in-first-nj-arrest-using-controversial-facial-recognition-technology-hits-snag-with-court-ruling.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/hudson/2023/06/prosecution-in-first-nj-arrest-using-controversial-facial-recognition-technology-hits-snag-with-court-ruling.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 39
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5K2QXOCSZFGUPAUBGRDZANQIGY.jpg"
-        width: 1166
-        height: 706
-        isCached: true
-  - title: "Ideal Innovations, Inc.’s facial identification training: fostering responsible use of facial recognition technology in law enforcement"
-    excerpt: "Ideal Innovations Incorporated (I-3) is a company that provides system-agnostic Facial Identification Training (F.I.T.) courses to law enforcement agencies across the country. Facial Recognition (FR) software has become crucial in law enforcement investigations."
-    publishedDateTime: 2023-06-07T19:22:00Z
-    webUrl: "https://lawandcrime.com/partner-content/ideal-innovations-inc-s-facial-identification-training-fostering-responsible-use-of-facial-recognition-technology-in-law-enforcement/"
-    ampWebUrl: "https://lawandcrime.com/partner-content/ideal-innovations-inc-s-facial-identification-training-fostering-responsible-use-of-facial-recognition-technology-in-law-enforcement/amp/"
-    cdnAmpWebUrl: "https://lawandcrime-com.cdn.ampproject.org/c/s/lawandcrime.com/partner-content/ideal-innovations-inc-s-facial-identification-training-fostering-responsible-use-of-facial-recognition-technology-in-law-enforcement/amp/"
-    type: article
-    provider:
-      name: lawandcrime
-      domain: lawandcrime.com
-    quality: 22
-  - title: "Man Nabbed by Facial Recognition Wins Right to Inspect Tech (1)"
-    excerpt: "Facial recognition technology software design data, source code, and algorithms must be turned over by New Jersey in a first-of-its-kind appeals court ruling that pits police use of artificial intelligence against a defendant’s right to a fair trial."
-    publishedDateTime: 2023-06-07T21:44:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/suspect-nabbed-by-facial-recognition-wins-right-to-inspect-tech"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 19
 
 secured: "ikWdfVs/uF/ANcF6XZTskLoGkalWYH0OBFTqELGHIEWdc5OU7V6Prj0vRdwKl/PZ0Twrheh9+8vYRkHktl0FtfBQ9wy1EC1oqyECuVYyEV7NwlG0FyZueu7mI+rJm4GooFd68LnHFFK1IvXWvb8jjK7ePNveykqErgojdeoVGjxNAKBnWmoiwcpt38HaydMhEo1+RkRCRkJLZ7btnMveM1lCPAyzAKu9VeV/lzOBvnoq8YRjOfMigFlm2zMFt+nVihKvWVsmT7U8+JNeaT4uZ6gwnwayIaMKcYFOROIH6/qwtJF314Ip+vU6pD3Sgfl3T5ig6OLRtXS4TYXaQPemCbyiQH7SkhbNxMVEyAL44ws=;ern6zosTafJsf+kvFM7KaQ=="
 ---

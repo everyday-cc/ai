@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Apple Ghosts the Generative AI Revolution"
-    excerpt: "Apple unveiled the Vision Pro headset and a number of AI-powered features yesterday, but largely ignored generative AI applications embraced by Google and Microsoft."
-    publishedDateTime: 2023-06-06T10:59:00Z
-    webUrl: "https://www.wired.com/story/apple-ghosts-the-generative-ai-revolution/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 71
-    images:
-      - url: "https://media.wired.com/photos/647e7aef82d37ced55dff567/191:100/w_1280,c_limit/Apple-Ghosts-AI-At-WWDC-2023-Business-1258464875.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Firm study predicts big spends on generative AI"
     excerpt: "A new study polling software buyers at businesses worldwide finds strong intention to increase budget, with special interest in AI. It also looks at how vendors can engage buyers."
     publishedDateTime: 2023-06-09T22:22:00Z

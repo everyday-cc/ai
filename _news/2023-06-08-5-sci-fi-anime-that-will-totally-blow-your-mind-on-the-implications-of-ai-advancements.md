@@ -76,15 +76,6 @@ related:
       name: Asia One
       domain: asiaone.com
     quality: 13
-  - title: "Automation Anywhere, Inc.: Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent automation services SINGAPORE, June 6, 2023 /PRNewswire/ -- Automation Anywhere ..."
-    publishedDateTime: 2023-06-06T10:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59269919-automation-anywhere-inc-automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
   - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
     excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
     publishedDateTime: 2023-06-09T01:00:00Z

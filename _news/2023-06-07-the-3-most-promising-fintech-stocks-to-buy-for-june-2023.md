@@ -19,49 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Inside The Rise Of A Fintech Startup Using AI And Human Insight To Fight Fraud"
-    excerpt: "Seven years ago, two twentysomething data scientists spotted a novel phenomenon: synthetic identity fraud. They turned that discovery into fast-growing SentiLink, a member of the Fintech 50 for 2023."
-    publishedDateTime: 2023-06-06T10:16:00Z
-    webUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/inside-the-rise-of-a-fintech-startup-using-ai-and-human-insight-to-fight-fraud/"
+  - title: "Intuit introduces proprietary large language models for fintech with GenOS"
+    excerpt: "Intuit, makers of TurboTax, Mint, QuickBooks, MailChimp, and CreditKarma, announced the launch of GenOS, an operating system for developing and deploying large language models for fintech."
+    publishedDateTime: 2023-06-07T21:00:00Z
+    webUrl: "https://cointelegraph.com/news/intuit-introduces-proprietary-large-language-models-for-fintech-with-genos"
+    ampWebUrl: "https://cointelegraph.com/news/intuit-introduces-proprietary-large-language-models-for-fintech-with-genos/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/intuit-introduces-proprietary-large-language-models-for-fintech-with-genos/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 42
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6479a5ba07d1215faa9b8c13/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tech giants throw weight behind AI start-up Cohere"
-    excerpt: "AI developer Cohere scored an investment worth $270 million from its latest funding round which was joined by technology giants."
-    publishedDateTime: 2023-06-08T16:19:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/tech-giants-throw-weight-behind-ai-start-up-cohere/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/tech-giants-throw-weight-behind-ai-start-up-cohere/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/tech-giants-throw-weight-behind-ai-start-up-cohere/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 57
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2023/05/MWL_AI_generative_bot_morals_rights_650.jpeg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Six Founders Making Their Debut On The Fintech 50"
-    excerpt: "The 19 newcomers on out 2023 list serve everyone from investors to truckers to beauty shop owners. The entrepreneurs behind these startups are just as diverse."
-    publishedDateTime: 2023-06-06T10:16:00Z
-    webUrl: "https://www.forbes.com/sites/jeffkauflin/2023/06/06/six-founders-making-their-debut-on-the-fintech-50/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647e885f569e20559457b388/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/820b2ec6-2648-401c-84af-f99b31b5923e.jpg"
+        width: 740
+        height: 492
         isCached: true
   - title: "Rise of Digital Nomads Introduces Identify Verification Challenges to Banks and Fintech Companies"
     excerpt: "The rise of remote work is forcing adjustments within businesses and introducing new challenges. For finance and technology businesses, the number of foreign document verification cases has increased considerably throughout the years,"
@@ -77,29 +49,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "5 Interesting Startup Deals You May Have Missed In May: Brain-Boosting Nutrients And Fintech For Retirees"
-    excerpt: "The last full month of spring saw some big fundraising announcements, but these smaller, interesting startup deals are also worth noting."
-    publishedDateTime: 2023-06-06T10:59:00Z
-    webUrl: "https://news.crunchbase.com/venture/interesting-startup-deals-thesis-kinnos/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 22
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/5_Most_Interesting.jpeg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Tenet Fintech Group Inc.: Tenet Closes First Tranche of Private Placement of up to CAD$3M"
-    excerpt: "Toronto, Ontario--(Newsfile Corp. - June 7, 2023) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative fintech technology services provider and operator of the Cubeler® Business Hub, announced today that it has ..."
-    publishedDateTime: 2023-06-07T12:38:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59282839-tenet-fintech-group-inc-tenet-closes-first-tranche-of-private-placement-of-up-to-cad-dollar-3m-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "SoEwxodKfR81JpAKch4MjZk7dPePcgz1ThnFAI1aeXnLqvpvfxpzOj6ycRsnlxQihH6zYoF1a9qmtsHBMXc6kFVzZHdc9oPQaDal/VMnv1Xyc1mJkye4xrFNm9qKtD7kyEdLCTY/Mx6x2se1iPdzGXaZTM+dpu23zPE1xo8XHhQXAlpQcP6WLw9Nt/WnMVyYTU1oBj62QsV9lgGrxsfG1insHQUF6as0nq7/UTqdKPuCMumQj9sHqzKeh5LkamTsKf0WpcBiG/k3yUpCA3sn05n7q57jVdqxZSWWdtyHlCFJK4h6tf+aUy8CYxzd65WN3M+palcZx2Z2T5VMxAe0xxAVgckCkzVnkIzVN+l+yg7jDuJ4o02/rF0vzkr10jV1UucDfHS3DoVlYbowir8PkqaOMv9yx8Up87DEAKVgP+RjqEOfpmsdDeiOVj8DNZoatrL7KF4T5stUKMMQUsPb9m7qAhhBVSj9gLm2nwxABaEDERAC3yRTmr4VUp2z1Jq4YwUVo82FWz7UNPEVdvtVRA==;NXx8qqD/pKQ2Drfz1aHuCw=="
 ---

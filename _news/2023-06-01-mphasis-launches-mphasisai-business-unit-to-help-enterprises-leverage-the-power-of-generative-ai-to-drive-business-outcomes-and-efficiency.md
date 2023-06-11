@@ -2,9 +2,9 @@
 category: news
 title: "Mphasis launches 'Mphasis.ai' business unit to help enterprises leverage the power of Generative AI to drive business outcomes and efficiency"
 excerpt: "Mphasis, (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today launched 'Mphasis.ai', a first-of-its-kind business unit, focused on transforming organizations globally by unlocking the potential of Artificial Intelligence (AI) to maximize business outcomes."
-publishedDateTime: 2023-06-01T16:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-mphasis-launches-mphasisai-business-unit-help-enterprises-leverage-/2023/06/01/9825024.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-mphasis-launches-mphasisai-business-unit-help-enterprises-leverage-/2023/06/01/9825024.htm"
+publishedDateTime: 2023-06-01T14:48:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/01/9825024.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/01/9825024.htm"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "yhyFTSsrGlFL+xNL7MUW63ZGj42fDk31PFGJv82FtqR010k9S7TbpXfkrVeRD1wbBRt9znnJah10IS7zXG42rCiwNSzCVpZm6QfY8szlFWaPS/7WPNUQOmcRgbhv6Oor3rBL8UB79eHVI1wLVGPMIS7DGxBT0Pk9ceosjp0Lx5KQUFTKeWnT622qeuryfIBW/Vqlf9wozWqcdjTgZIoV+mJEsihMC3oDsiNFMjCE650aXHexYaamTJqVw/RF2o+cNJ3fUtaonsj+e66i0ZW4bDn+1P9LFrcsN94l8PTS4aYP8023lVNo47etDr6F15dZPFvE8MQglM0aYmZaO46BAOCeBAI8q7LDg8ecd2wjE+d0vRlOWH1lq1K5vYWBAr55Uj5KzactE8mHUGXC1ov+s/mZ+cVyN/baKgrDAF2g7RJRN1qn3vgE+h50nBjP8OFEFR/tQyK4KAQWV6Z3Vwg+mClefj7KRakJzvlSmrZvkg1srmU+S0hsU1MMQycphhUWYgi/MLKcmnS+8QJ4eYlLDg==;ExUisjOMVqLWXsdgzQj93A=="
+images:
+  - url: "https://mma.prnewswire.com/media/876509/Mphasis_Logo.jpg"
+    width: 400
+    height: 215
+    isCached: true
+
+secured: "cbzuyBKem/mOeP+1eTcpu9q2ncTSCoyxfWqtr/gkXGu9uxVZR18Rlx9vx/oqk9AWGVWot/Khkm401r5GHhHW3bJswNf/Kqk2mM22j91XQgBkME0LiXQcczyRmr5y/EeBc2w33O6nvapdYKYbU+vD3EyCEo70eorqoMvzVB+l4M0pLdrNQO4xa+RMqvddPyHZ/oaB3sV9nqT/v+HgJJMBNT6VuPTsEbQ1iWG8J9wprPMDdE58NialnpwUCU6/dxBObyqSndV0KqARYYJbi4ysxV9+hTdz6gl9IJBUSNMpTDqsqy3SNDhADJT8sxA3azJRMnZWPB7d+ak7Du4MonAALp1y/XNX0lrEiI3v/KEvTx0=;94f8F0jjUZoIhntZmmMMjw=="
 ---
 

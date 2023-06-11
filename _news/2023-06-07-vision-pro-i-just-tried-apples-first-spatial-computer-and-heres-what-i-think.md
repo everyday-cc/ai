@@ -59,6 +59,15 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 4
+  - title: "I Tried Apple's $3,499 Vision Pro Headset and It's Incredibly Impressive"
+    excerpt: "Apple’s Vision Pro is a spatial computer that packs a bunch of hardware, including both the company’s M2 Chip and a new R1 chip, 12 cameras, and a multitude of sensors. It’s also running an entirely new platform: Vision OS. The result is a headset ..."
+    publishedDateTime: 2023-06-08T03:09:00Z
+    webUrl: "https://www.thestreet.com/deals/apple-vision-pro-headset-hands-on"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 3
 
 secured: "gwgyvyPhHNnd+9bObl5k1jY6lSssCOuEUxQ9EgvtAYfGdAgMenFUdLbflSUUDGWQ2hRrNqk5qxIIvgUT1nChggaebHLjGo6Fd20iFCAWzjxEJ+DK0ioX1lkhLWz7Q/tMOuDwp4Ir0r3vX6CJXMrztbAK2FpJSpmSS2S6qrBjOIoUjputo31aB7c+Drxoy5dxuXI+e8VUfSyBVpqhjJ2v8BSrftm4BxM9T0g1UO9GFqa3xQYANIm6grgxItVYeNggdUs7SrQnazUti1cgUUmNnc/Q05M9Dj+iBwHSujr6wrZ2ydkMZ2IFKpsMMZHFw10EEDsPO6BxicUB/muhpqYxuLgRCkWw/5sDTRVaYWYW3tM=;lFCDznW9Uow4hDFNv4i0tA=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techworm.net/2023/06/best-artificial-intelligence-ai-stocks-buy.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -154,7 +154,7 @@
       "originalUrl": "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 341,
+      "heat": 351,
       "tags": null,
       "images": [
         {
@@ -717,18 +717,27 @@
       "title": "Mphasis launches 'Mphasis.ai' business unit to help enterprises leverage the power of Generative AI to drive business outcomes and efficiency",
       "excerpt": "Mphasis, (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today launched 'Mphasis.ai', a first-of-its-kind business unit, focused on transforming organizations globally by unlocking the potential of Artificial Intelligence (AI) to maximize business outcomes.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mphasis-launches-mphasisai-business-unit-help-enterprises-leverage-/2023/06/01/9825024.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mphasis-launches-mphasisai-business-unit-help-enterprises-leverage-/2023/06/01/9825024.htm",
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/01/9825024.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/01/9825024.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/876509/Mphasis_Logo.jpg",
+          "width": 400,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T09:06:00-07:00",
+      "publishedDateTime": "2023-06-01T07:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",

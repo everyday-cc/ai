@@ -120,20 +120,6 @@ related:
         width: 440
         height: 264
         isCached: true
-  - title: "Does your agency have an AI usage policy yet? Here’s what you need to know"
-    excerpt: "As AI adoption continues, we ask a selection of agencies how they’re designing formal usage guidelines. How can agencies promote responsible use of AI tools without stifling experimentation? / Unsplash The emergence of generative artificial intelligence (AI) as a viable tool for the modern workplace has thrown up myriad ethical and legal issues."
-    publishedDateTime: 2023-06-06T09:27:00Z
-    webUrl: "https://www.thedrum.com/insight/2023/06/06/does-your-agency-have-ai-usage-policy-yet-here-s-what-you-need-know"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 37
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/147154/tdp-still-article15.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "6 podcasts to make sense of AI"
     excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics"
     publishedDateTime: 2023-06-09T16:35:00Z

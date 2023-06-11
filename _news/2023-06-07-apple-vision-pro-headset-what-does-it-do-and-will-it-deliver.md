@@ -58,6 +58,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 11
+  - title: "I Tried Apple's $3,499 Vision Pro Headset and It's Incredibly Impressive"
+    excerpt: "Apple’s Vision Pro is a spatial computer that packs a bunch of hardware, including both the company’s M2 Chip and a new R1 chip, 12 cameras, and a multitude of sensors. It’s also running an entirely new platform: Vision OS. The result is a headset ..."
+    publishedDateTime: 2023-06-08T03:09:00Z
+    webUrl: "https://www.thestreet.com/deals/apple-vision-pro-headset-hands-on"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 3
 
 secured: "H3Ar4O3DLZg6dlpHD+SEcOAf9O2uEbpsIJHzYvtwOcetn6UzavlYIJETDLm2F5gIzJxZ+9k0paTxLAUTlxthz/N/R33eFq+W4RumfA+KHQvASzKVoiKnMEY7297UHUXFcSAVuUg2zng3FqsQpvxTzZIWCkI+9fm/IOhdGV86ME+eUPd6uOYF7z6JrJAW9JYhYHt/JHzM4QYb1MDyxVLzKAEXQ3XEnIzgBg+pw/I4FywUjr8Km7RDIer/P6E78MzqMUkT5Dq1SOubVRsM8PgO1b3nYsLb41fibC7QfMFbnoMz7xphYspxwUwjGkXhyAgTT3cykvIWiKRcuUyasyg9ZUWWgVzbB2roPy40iHl8QziCLV11DdNvg1lqd/RFU64GZTaFpyE9nBJ/FUkP6KWPa3VslcerLwGPo/GJhAC0kI57HA5Jn3R7Xo1L30FDYNBvvhVEq6xfhXymIwASjyErW3o6V+Q4aESuxpHW5Z+rHGogDey+GsjfiyUyC7amZ81ecphBSapaZz3G/IHsl6JQFQ==;IPVZbBsTA1B82/PGSmjbag=="
 ---

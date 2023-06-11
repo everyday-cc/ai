@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 420
         isCached: true
-  - title: "Startup Instabase Notches $2 Billion Valuation, Incorporates New AI"
-    excerpt: "Business services startup Instabase Inc. has raised a new round of funding that doubles its valuation to $2 billion, a deal buoyed by the company’s use of new generative artificial intelligence tools in its suite of corporate products."
-    publishedDateTime: 2023-06-06T10:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-06/startup-instabase-notches-2-billion-valuation-incorporates-new-ai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibQZYADtB..w/v0/1200x900.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "AI Startup Cohere Locks Up $270M At $2.2B Valuation"
     excerpt: "In March, Character.ai closed a $150 million Series A at a $1 billion valuation led by Andreessen Horowitz. The Palo Alto, California-based AI startup allows people to create their own personalized AI chatbot using language models and deep-learning algorithms."
     publishedDateTime: 2023-06-08T18:26:00Z

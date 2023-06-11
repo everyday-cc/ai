@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-ena
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
 type: article
 quality: 121
-heat: 341
+heat: 351
 published: true
 
 provider:
@@ -211,6 +211,20 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/08/Azure-cloud-image.png"
         width: 1024
         height: 768
+        isCached: true
+  - title: "We are seeing an artificial intelligence battle between Microsoft and Google: Beth Kindig"
+    excerpt: "I/O Fund CEO and lead tech analyst Beth Kindig provides insight on stock performance and the development of AI on 'Making Money.'"
+    publishedDateTime: 2023-06-09T18:54:00Z
+    webUrl: "https://www.foxbusiness.com/video/6329098666112"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 45
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/0cd95be2-8c2c-4d7b-b899-9e6e5990c8a3/01e569c3-a14c-4973-b7fc-baf39650a674/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Satori's Data Security Platform is Selected for the Microsoft Pegasus Program and is Available in the Azure Marketplace"
     excerpt: "Satori’s continued product innovation and customizable data security platform is recognized by its inclusion in the Microsoft for Startups Pegasus Program, an invite-only program that connects growth-stage startups to thousands of Microsoft’s top customers."

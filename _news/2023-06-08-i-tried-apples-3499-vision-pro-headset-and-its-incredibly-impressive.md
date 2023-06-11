@@ -19,29 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "Apple Unveils Vision Pro Headset, IOS 17, 15-inch MacBook Air And More"
-    excerpt: "Apple has unveiled a bunch of new products for its customers including its first spatial computer Vision Pro Headset. The tech major"
-    publishedDateTime: 2023-06-06T10:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/apple-unveils-vision-pro-headset-ios-17-15-inch-macbook-air-and-more-1032372441"
+  - title: "Apple Vision Pro headset: What does it do and will it deliver?"
+    excerpt: "Apple recently unveiled its Vision Pro headset at the Worldwide Developers Conference in California. With it, Apple is venturing into a market of head-mounted devices (HMDs)—which are usually just displays,"
+    publishedDateTime: 2023-06-07T17:32:00Z
+    webUrl: "https://techxplore.com/news/2023-06-apple-vision-pro-headset.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-apple-vision-pro-headset.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-apple-vision-pro-headset.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Good News For Metaverse Users, As Apple Unleashes Its New Vision Pro VR Headset"
-    excerpt: "Tech giant Apple has unveiled its highly anticipated mixed reality wearable computer headset, which had been in the works for some years."
-    publishedDateTime: 2023-06-07T04:23:00Z
-    webUrl: "https://insidebitcoins.com/news/good-news-for-metaverse-users-as-apple-unleashes-its-new-vision-pro-vr-headset"
-    type: article
-    provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 20
+      name: techxplore
+      domain: techxplore.com
+    quality: 44
     images:
-      - url: "https://insidebitcoins.com/wp-content/uploads/2023/06/Apple-AR-Headset.png"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/apple-vision-pro-heads.jpg"
+        width: 1823
+        height: 1070
         isCached: true
+  - title: "Vision Pro: I just tried Apple’s first spatial computer, and here’s what I think"
+    excerpt: "Apple officially unveiled its new Vision Pro headset, which it describes as a “revolutionary spatial computer.”"
+    publishedDateTime: 2023-06-07T14:58:00Z
+    webUrl: "https://9to5mac.com/2023/06/05/hands-on-apple-vision-pro-mixed-reality-headset/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 19
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/CleanShot-2023-06-05-at-18.00.21@2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "The Download: Apple’s headset challenges, and what AI can learn from nuclear safety"
+    excerpt: "The ‘one more thing’ announced by Apple at its Worldwide Developers Conference (WWDC) this year was the industry’s worst-kept secret. The Apple Vision Pro, the tech giant’s gamble on making mixed reality headsets a thing, has received a mixed reception. Most of the concern has centered on the eye-watering $3,499 cost."
+    publishedDateTime: 2023-06-06T12:07:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/06/1074091/the-download-apples-headset-challenges-and-what-ai-can-learn-from-nuclear-safety/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 11
+  - title: "Apple Vision Pro headset: what does it do and will it deliver?"
+    excerpt: "In terms of technical specifications, the Vision Pro is impressive. It uses a combination of the M2 microchip and a new chip called the R1. M2 is running visionOS, which Apple calls its first spatial operating system, along with computer vision algorithms and computer graphics generation."
+    publishedDateTime: 2023-06-06T18:03:00Z
+    webUrl: "https://theconversation.com/apple-vision-pro-headset-what-does-it-do-and-will-it-deliver-207125"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 4
 
 secured: "0ynpLMEhWC3XWnmRdvjzzQaFdhl+Pqhg2U7fjAITPN2MIUmfsE/HIeflWA0RS+0K1ucsQXgzcdwyo/5ctziJxEqofpessrv+Q4XUoyu1KncpJW7Fs3RerMhxBagytsX1hBPyVvYSWBe2/lfEsnmpYU5vtTtFwrTrbGVQKZYOokvN1/ibPiSpiDmLnfV8u5TS7VWGjKs1RtnOTsFJBTInWR41ombLYiSGHtuxbR4Fjbf30D6AFsr7wvr/Vy8cseEgSE0yl2PNF4lMnedW4OpiGFE+bGQ4SmVzA+SvKSG5II5UNrCs5PAMA+Kd6742mkfFAwVBgMCJtsljfy2akMxrB2elDtLEZy98Kjj84uGW3Js=;XU3pHPWgaVSCsFWu8CMCEw=="
 ---

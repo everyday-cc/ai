@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "University of South Florida to offer graduate certificate in AI"
-    excerpt: "The University of South Florida (USF) is launching an artificial intelligence graduate certificate as part of its larger push to explore the technology's applications."
-    publishedDateTime: 2023-06-06T10:19:00Z
-    webUrl: "https://www.axios.com/local/tampa-bay/2023/06/06/usf-ai-certificate"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/OK6_4PUmNKeaHdnmEacENu4Yp70=/0x0:1280x720/1366x768/2023/06/05/1686000955804.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Florida universities see potential and pitfalls of AI on campus"
     excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher e Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
     publishedDateTime: 2023-06-09T16:14:00Z

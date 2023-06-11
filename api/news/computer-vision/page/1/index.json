@@ -160,6 +160,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-08-journey-of-hands-free-travel-with-cutting-edge-facial-recognition.md",
+      "title": "Journey of Hands-Free Travel with Cutting-Edge Facial Recognition",
+      "excerpt": "In a world rapidly transitioning to contactless and cashless systems, Marubeni Corporation and Toyama Chihou Tetsudou Inc. have joined forces to introduce an innovative pilot test for facial recognition payment on the Ikuji loop bus route. By seamlessly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.steelguru.com/innovations/journey-of-hands-free-travel-with-cutting-edge-facial-recognition",
+      "originalUrl": "https://www.steelguru.com/innovations/journey-of-hands-free-travel-with-cutting-edge-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/steelguru%2F2023-06%2F21532fd6-6f0b-41d8-b9b3-65f2040dbfa6%2FFacial_Recognition_Payment.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
+          "width": 1200,
+          "height": 874,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.steelguru.com/amp/story/innovations/journey-of-hands-free-travel-with-cutting-edge-facial-recognition",
+      "cdnAmpWebUrl": "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/innovations/journey-of-hands-free-travel-with-cutting-edge-facial-recognition",
+      "publishedDateTime": "2023-06-07T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Steel News",
+        "domain": "steelguru.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-nigerian-fg-to-install-facial-recognition-technology-at-airports.md",
       "title": "Nigerian FG to install facial recognition technology at airports",
       "excerpt": "The initial project phase includes Lagos and Abuja international airports, but will be extended to other airports, including Port Harcourt, Enugu and Kano.",
@@ -1274,50 +1317,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
-      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
-      "excerpt": "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country. \"What we are trying to ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc7news.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "originalUrl": "https://abc7news.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "publishedDateTime": "2023-05-16T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7 San Francisco",
-        "domain": "abc7news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

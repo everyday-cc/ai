@@ -445,49 +445,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-06-mobileye-stock-falls-intel-found-a-way-to-cash-in-on-ai.md",
-      "title": "Mobileye Stock Falls. Intel Found a Way to Cash in on AI.",
-      "excerpt": "Mobileye Global shares were dropping early on Tuesday as chip maker Intel planned to sell shares of the company worth around $1.4 billion. Intel looks to be taking profit from a run up in the shares of the self-driving technology company it spun off last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/intel-mobileye-global-stock-price-6299c8e8",
-      "originalUrl": "https://www.barrons.com/articles/intel-mobileye-global-stock-price-6299c8e8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-499870/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/intel-mobileye-global-stock-price-6299c8e8",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-mobileye-global-stock-price-6299c8e8",
-      "publishedDateTime": "2023-06-06T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-06-japan-eyes-labor-market-reform-focuses-on-ai-chips-to-drive-growth.md",
       "title": "Japan eyes labor market reform, focuses on AI, chips to drive growth",
       "excerpt": "The government said Tuesday it will aim to close wage gaps between Japan and other countries and attract more foreign talent while de",
@@ -1393,6 +1350,58 @@
         "name": "ABC",
         "domain": "abcnews.go.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-nvidias-ceo-plans-trip-to-meet-chinese-tech-executives-despite-us-curbs-on-ai-chips.md",
+      "title": "Nvidia’s CEO plans trip to meet Chinese tech executives despite US curbs on AI chips",
+      "excerpt": "Nvidia CEO Jensen Huang is heading to China to meet with executives from Tencent, ByteDance and EV makers Li Auto and BYD, despite rising tensions between Washington and Beijing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/01/bdb2ca71-bbb4-46b6-8dc5-afceee3cce14_a868d5fc.jpg?itok=qKnSkKzI&v=1685586767",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
+      "publishedDateTime": "2023-05-31T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

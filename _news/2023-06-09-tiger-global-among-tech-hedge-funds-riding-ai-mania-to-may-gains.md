@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Global Venture Funding Leveled In May 2023 Despite Big AI Raises"
-    excerpt: "For the past two months, global venture funding has leveled off as investors continue to pare their funding pace."
-    publishedDateTime: 2023-06-06T10:59:00Z
-    webUrl: "https://news.crunchbase.com/venture/monthly-vc-funding-ai-recap-may-2023/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 39
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/apr-may-3.jpg"
-        width: 900
-        height: 506
-        isCached: true
-
 secured: "Wik9rE56C1BK7+nKq5pNJeT/H6Wi0vb5qjYwingdg54J5xgYJ/aKT0MLy4lRvfyzQeTe5epwvFstGAdL0icHx/YMAx0y3+68gGHV9tgVwLWl0xexj52GANFb+GQYsknR3AwRFgjOfnzLGncgo84MK8qoo/f33p7Kj6v1mu2lF5bXeSS/Z3vKJUUpJE9LioAlaibJL8xVhVV76HkPZUpXYEejenTNpJSLP+4SisqEmwQE6xZ5FvRykwkyNQvzlgVymNWwHOmGGwz+8V46aZrQbs45mzpF1FWnUDxR9a+zBVNBMFR4oSSfkcN4zMcb90ODrdV1QUiKebRN4lfkLM/Vy+EAwM9ahjVOIAmgPjqssJj/acFsQ2/YQV2YcGwBAYHJiSoOnSffqTmdoVo9JoUIjMDpD+InW7sR72xLl0mlQonmvdJQgIUo2oxWZxuVBOcvYaS6da9/OdsrW4o74TQF24iGV9v3rwqwKIxh7yg3fKeTnSxGC/aLvd2kF4fE/memlHZr2/9YGTNXcAA1xIL/qw==;gr8pkZ6mJxVeK93xm90rtA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/miami/news/florida-universities-look-to-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "University of South Florida to offer graduate certificate in AI"
-    excerpt: "The University of South Florida (USF) is launching an artificial intelligence graduate certificate as part of its larger push to explore the technology's applications."
-    publishedDateTime: 2023-06-06T10:19:00Z
-    webUrl: "https://www.axios.com/local/tampa-bay/2023/06/06/usf-ai-certificate"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/OK6_4PUmNKeaHdnmEacENu4Yp70=/0x0:1280x720/1366x768/2023/06/05/1686000955804.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Florida universities see potential and pitfalls of AI on campus"
     excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher e Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
     publishedDateTime: 2023-06-09T16:14:00Z
