@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-05-winnai-announces-general-availability-ga-of-their-no-typing-crm-ai-tool-for-modern-sales-teams.md",
+      "title": "Winn.AI Announces General Availability (GA) of Their 'No-Typing CRM' AI Tool for Modern Sales Teams",
+      "excerpt": "Source: Winn.ai To view an enhanced version of this graphic, please visit:  In a 2023 report by Salesforce, sales representatives only spend 28% of their time selling, with 72% consumed by record keeping,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/winn.ai-announces-general-availability-ga-of-their-notyping-crm-ai-tool-for-modern-sales-teams-1032370792",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/winn.ai-announces-general-availability-ga-of-their-notyping-crm-ai-tool-for-modern-sales-teams-1032370792",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newsfilecorp.com/files/9219/168755_5c312d6e149cfbb0_001.jpg",
+          "width": 550,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-scientists-use-machine-learning-to-see-how-the-brain-adapts-to-different-environments.md",
       "title": "Scientists use machine learning to 'see' how the brain adapts to different environments",
       "excerpt": "Johns Hopkins scientists have developed a method involving artificial intelligence to visualize and track changes in the strength of synapses—the connection points through which nerve cells in the brain communicate—in live animals.",
@@ -1161,40 +1213,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-these-deep-sea-animals-are-new-to-scienceand-already-at-risk.md",
-      "title": "These deep-sea animals are new to science—and already at risk",
-      "excerpt": "About 90 percent of species found in the Clarion Clipperton Zone have never been identified, yet they may be at risk from mining for minerals such as cobalt and nickel. Spanning 1.7 million square ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationalgeographic.com/animals/article/deep-sea-animals-new-species-mining",
-      "originalUrl": "https://www.nationalgeographic.com/animals/article/deep-sea-animals-new-species-mining",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-04T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Geographic news",
-        "domain": "nationalgeographic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

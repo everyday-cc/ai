@@ -87,15 +87,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Instagram might be working on an AI chatbot"
-    excerpt: "According to the leaks, users can choose from 30 different AI personalities, who can also help users write messages."
-    publishedDateTime: 2023-06-06T19:27:00Z
-    webUrl: "https://techcrunch.com/2023/06/06/instagram-might-be-working-on-an-ai-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
     excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."
     publishedDateTime: 2023-06-09T17:00:00Z

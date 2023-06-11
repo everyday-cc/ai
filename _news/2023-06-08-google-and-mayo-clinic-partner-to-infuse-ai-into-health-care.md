@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/health/medical/google-and-mayo-clinic-partner
 webUrl: "https://www.cnet.com/health/medical/google-and-mayo-clinic-partner-to-infuse-ai-into-health-care/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/151e65d7467e972252b5079a40b808dc_L.jpg"
         width: 620
         height: 454
+        isCached: true
+  - title: "Use AI with caution when comes to mental health"
+    excerpt: "When people read that AI could replace the equivalent of 300 million full-time jobs,"
+    publishedDateTime: 2023-06-09T00:00:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/alton-artificial-intelligence-ai-saint-anthony-s-18141135.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/16/21/23913580/3/rawImage.jpg"
+        width: 1463
+        height: 2048
         isCached: true
   - title: "Google Cloud is partnering with Mayo Clinic as it tries to expand use of generative A.I. in health care"
     excerpt: "Mayo Clinic will be using Google Cloud's generative artificial intelligence technology to help doctors and nurses more easily track patient data."

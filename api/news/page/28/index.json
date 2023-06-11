@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-05-22-google-may-pray-for-ai-to-save-tensor-g3-chips-reputation-in-pixel-8-phones.md",
+      "title": "Google may pray for AI to save Tensor G3 chip’s reputation in Pixel 8 phones",
+      "excerpt": "After the dust has settled from Google I/O 2023 and all the interesting hardware launched at the event, Google doesn't want to miss a beat and is working towards its next big hardware product launch – its flagship smartphone, the Pixel 8 and Pixel 8 Pro.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/mobile-phones/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones-68075.html",
+      "originalUrl": "https://www.digit.in/news/mobile-phones/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones-68075.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/tr:w-1200/tensor-g3-1280-e5866089b7.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/mobile-phones/68075/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/mobile-phones/68075/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones",
+      "publishedDateTime": "2023-05-21T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-reduces-data-center-power-costs-by-up-to.md",
       "title": "Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%",
       "excerpt": "Liquid Cooled Large Scale AI Training Infrastructure Delivered as a Total Rack Integrated Solution to Accelerate Deployment, Increase Performance, and Reduce Total Cost to the Environment ...",
@@ -1081,57 +1124,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-china-is-using-ai-to-raise-the-dead-and-give-people-one-last-chance-to-say-goodbye.md",
-      "title": "China is using AI to raise the dead, and give people one last chance to say goodbye",
-      "excerpt": "They wanted to speak to their dead grandparents one last time, so they used artificial intelligence to rebuild loved ones they'd lost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5",
-      "originalUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6453d02bb4a8cd00187ac433?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5?amp",
-      "publishedDateTime": "2023-05-20T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

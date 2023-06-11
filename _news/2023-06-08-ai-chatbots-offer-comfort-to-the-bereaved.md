@@ -70,15 +70,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Instagram might be working on an AI chatbot"
-    excerpt: "According to the leaks, users can choose from 30 different AI personalities, who can also help users write messages."
-    publishedDateTime: 2023-06-06T19:27:00Z
-    webUrl: "https://techcrunch.com/2023/06/06/instagram-might-be-working-on-an-ai-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Financial Chatbots: Enhancing Customer Service and Engagement in Fintech"
     excerpt: "Enhancing Customer Service and Engagement in Fintech In the fast-paced world of fintech, customer service and engagement have become crucial factors for success. To meet the evolving needs and expectations of customers,"
     publishedDateTime: 2023-06-07T04:41:00Z

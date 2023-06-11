@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32799034"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32799034"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -27,31 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Global Public Relation Robots Market Report 2023: Increasing Applications of Artificial Intelligence Bolsters Growth"
-    excerpt: "Global Market Size, Forecast, Insights, Segmentation, and Competitive Landscape with Impact of COVID-19 & Russia-Ukraine War\" report"
-    publishedDateTime: 2023-06-06T21:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32748796/global-public-relation-robots-market-report-2023-increasing-applications-of-artificial-intelligenc"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32748796"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32748796"
+  - title: "Generative AI In Devops Market Predicted To Garner USD 22,100 Mn By 2032, At CAGR 38.20% | Report By Marketresearch.Biz"
+    excerpt: "According to MarketResearch.biz , the generative ai in devops market size is projected to surpass around USD 22,100 Million by 2032, and it is poised to reach a registered CAGR of 38.20% from 2023 to 2032."
+    publishedDateTime: 2023-06-08T07:45:00Z
+    webUrl: "https://menafn.com/1106410564/Generative-AI-In-Devops-Market-Predicted-To-Garner-USD-22100-Mn-By-2032-At-CAGR-3820-Report-By-MarketresearchBiz"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?142799"
+        width: 395
+        height: 250
         isCached: true
-  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
-    excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
-    publishedDateTime: 2023-06-09T01:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/268577"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 0
 
 secured: "dEUtSpCyvl8jPxwV3JbMnYFKdOttrD4ZZ6/4Tye6gWaLmn6AfI8prVnLhFa1VZNAEVQ5E51UeHcBaqvy5+V09T42XfHLvrWDEx7Bea6acv4plO+g6VZ8fjf7irtlW8Dnr6jPlpZN09UgSXld32rRP1LbKYBJxb+D6QEoShZE4WGT7gTjxhXOQMcWLs8MEzTNsPpxu7a5bJqQUy2HUf+T+0MIcDTO91k4oHHmSfse1w0Gpx6OW3xq4e/75Jp9tphfF+KJYbNAZb3asVvRdFVzdm7ovhmpctWFhlVG07Il8otBlqO7tVhAQh8m1CKi+L2LEZiNdy2HUkohIs0WAoUM3ASbUiXq94p9o+0Kne4RLLE=;I7opzDn3WDaEvCSdSjfRdw=="
 ---

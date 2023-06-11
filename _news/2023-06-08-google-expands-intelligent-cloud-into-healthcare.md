@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Use AI with caution when comes to mental health"
+    excerpt: "When people read that AI could replace the equivalent of 300 million full-time jobs,"
+    publishedDateTime: 2023-06-09T00:00:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/alton-artificial-intelligence-ai-saint-anthony-s-18141135.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/16/21/23913580/3/rawImage.jpg"
+        width: 1463
+        height: 2048
+        isCached: true
   - title: "Google Cloud is partnering with Mayo Clinic as it tries to expand use of generative A.I. in health care"
     excerpt: "Mayo Clinic will be using Google Cloud's generative artificial intelligence technology to help doctors and nurses more easily track patient data."
     publishedDateTime: 2023-06-07T10:00:00Z

@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-06-03-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7chicago.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "originalUrl": "https://abc7chicago.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7chicago.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "publishedDateTime": "2023-06-02T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 7 Chicago",
+        "domain": "abc7chicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-the-latest-paris-fashions-in-fintech.md",
       "title": "The Latest Paris Fashions (In Fintech)",
       "excerpt": "I was flattered to be invited to chair the keynote panel on new business models for banking at the Paris Fintech Forum 2023.",
@@ -482,49 +525,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-02-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
-      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "originalUrl": "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "publishedDateTime": "2023-06-02T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc13",
-        "domain": "abc13.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-02-7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots.md",
       "title": "7 ways you didn't know you can use Bing Chat and other AI chatbots",
       "excerpt": "You can also use Bing Chat to generate unique drinks from fun prompts. For example, at a Bing press event in NYC, the company had a smoothie bar that used Bing Chat to make smoothies according to your favorite TV character.",
@@ -852,6 +852,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-02-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ...",
+      "sourceUrl": null,
+      "webUrl": "https://6abc.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "originalUrl": "https://6abc.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://6abc.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "publishedDateTime": "2023-06-02T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "6abc News",
+        "domain": "6abc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-not-self-driving-cars-infosys-narayana-murthy-believes-this-is-how-india-should-use-ai.md",
       "title": "Not self-driving cars! Infosys' Narayana Murthy believes THIS is how India should use AI",
       "excerpt": "shared his perspective on the strategic use of artificial intelligence (AI) in India. Murthy emphasised the importance of employing AI in a judicious and assistive manner rather than focusing on ...",
@@ -1134,49 +1177,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-apexoneai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions.md",
-      "title": "ApexOne.AI Revolutionizes Business Operations with Advanced Artificial Intelligence Solutions",
-      "excerpt": "ApexOne.AI, a leading provider of cutting-edge artificial intelligence (AI) solutions, announces the launch of their groundbreaking platform designed to transform business operations and drive unprece",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32684334",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334",
-      "publishedDateTime": "2023-06-01T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

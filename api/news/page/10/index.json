@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-02-apexoneai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions.md",
+      "title": "ApexOne.AI Revolutionizes Business Operations with Advanced Artificial Intelligence Solutions",
+      "excerpt": "ApexOne.AI, a leading provider of cutting-edge artificial intelligence (AI) solutions, announces the launch of their groundbreaking platform designed to transform business operations and drive unprece",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32684334",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334",
+      "publishedDateTime": "2023-06-01T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-wanted-an-ai-job-that-mostly-doesnt-exist-yet.md",
       "title": "Wanted: An AI Job That (Mostly) Doesn’t Exist Yet",
       "excerpt": "head of AI ethics at Indeed. But, he adds, “The interest is undeniable.” Workers want to ride the next job wave Indeed isn’t the only site seeing more searches geared toward AI. Daniel Zhao ...",
@@ -1160,40 +1203,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-heres-why-the-new-norton-v4cr-is-the-ultimate-cafe-racer.md",
-      "title": "Here’s Why The New Norton V4CR Is The ULTIMATE Cafe Racer",
-      "excerpt": "Did you know the Norton Motorcycle Company first opened its door 125 years ago in 1898? Well, now you do, and in these years, the British bikemaker has had a rollercoaster of a run. There’ve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.topspeed.com/heres-why-the-new-norton-v4cr-is-the-ultimate-cafe-racer/",
-      "originalUrl": "https://www.topspeed.com/heres-why-the-new-norton-v4cr-is-the-ultimate-cafe-racer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TopSpeed",
-        "domain": "topspeed.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

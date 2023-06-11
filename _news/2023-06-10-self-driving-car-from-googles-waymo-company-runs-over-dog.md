@@ -48,22 +48,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 64
-  - title: "A Waymo self-driving car killed a dog"
-    excerpt: "And a self-driving car killing a sweet pooch has the potential to kick out that third leg. It also comes at a critical time for the industry and, specifically, for Waymo, which is expanding its robotaxi network in Phoenix and gearing up to charge fares for ..."
-    publishedDateTime: 2023-06-06T22:02:00Z
-    webUrl: "https://www.autoblog.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
-    ampWebUrl: "https://www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/06/06/a-waymo-self-driving-car-killed-a-dog/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 59
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-10/fc275060-2ddd-11ec-9df6-28e42309b04a"
-        width: 1062
-        height: 597
-        isCached: true
   - title: "Self-driving Google robotaxi hit and killed a dog in San Francisco during test drive"
     excerpt: "A Waymo rep said the self-driving car’s software “correctly identified the dog” but “was not able to avoid contact,” killing it in March."
     publishedDateTime: 2023-06-09T16:10:00Z

@@ -41,15 +41,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "Zoom’s new AI tools will let you ditch meetings for good"
-    excerpt: "Zoom IQ adopts OpenAI artificial intelligence to deliver a summary of conversations to users when they enter Zoom chats."
-    publishedDateTime: 2023-06-06T19:53:00Z
-    webUrl: "https://www.digitaltrends.com/computing/zoom-business-ai-offerings-compete-with-microsoft-and-google/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 47
   - title: "Researchers apply artificial intelligence for early risk forecasting of Alzheimer's disease"
     excerpt: "An international research team led by the Hong Kong University of Science and Technology (HKUST) has developed an artificial intelligence (AI)-based model that uses genetic information to predict an individual's risk of developing Alzheimer's disease (AD) well before symptoms occur."
     publishedDateTime: 2023-06-07T13:17:00Z

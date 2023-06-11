@@ -74,15 +74,15 @@ related:
         width: 2048
         height: 1458
         isCached: true
-  - title: "OpenAI CEO suggests international agency like UN's nuclear watchdog could oversee AI"
-    excerpt: "OpenAI CEO Sam Altman speaks in Abu Dhabi, United Arab Emirates, Tuesday,. Altman on Tuesday suggested an international agency like the International Atomic En"
-    publishedDateTime: 2023-06-06T19:09:00Z
-    webUrl: "https://www.chron.com/news/world/article/openai-ceo-suggests-international-agency-like-18137808.php"
+  - title: "Altman Urges South Korea To Lead In AI Chip Production"
+    excerpt: "Sam Altman, the chief executive officer of ChatGPT developer OpenAI, met with South Korean President Yoon Suk Yeol on June 9 and urged South Korea"
+    publishedDateTime: 2023-06-11T12:50:00Z
+    webUrl: "https://menafn.com/1106422872/Altman-Urges-South-Korea-To-Lead-In-AI-Chip-Production"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 10
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
 
 secured: "omfijU4i9AzsVOGUEcEB0bkm8FtIhbKYdJCwSp+a539E/W0FBTG9Icb8vVWYlUmgvfVnfnRfXK8R+0VulgNy4sfGlBfF22mcuNJuFFwT/XkAk/0PaUGGmXy0Qzne5v3lHZ3KRQOieZ4M0cjZfKDAq5p12hoPWWVIlQM0qwnAM3FJwcT4wGupsUzKMGtybfeg9cYEzX6lLQD36RMtoFBewU0sY/9MlYb+YrVeXmNOFuv69ziKQ51R4aWzvlIHnDWLFBblsMRfD7xrX4Bk4BUA2kP9mAd8oyy8VGYJG8R9hLlre3NEx8K40gAg/nUbPF0CmDUJVD3F8nQocufa4p4jTB9NA1QLvPczd4CUZOWPXhRonfSveO8UkoNYkUgPfoxuQJNKFqKFUvS1A1gC1+3nZ0y1qMgNpjPms/DQF3R7tbAYp0T1/TNAbLhRfpwKAdIHn1tc80oGQZ0+iOCWWD1EpIN/txqktnSxGPqD5b1r2ifB9/atNeMlE8s8RcTNevLNT6sj0iAqkytK+k+RtYeRlg==;MujkIkNk7EDZjt1QsfgFyg=="
 ---

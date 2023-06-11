@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "How Microsoft Fabric aims to beat Amazon and Google in the cloud war"
-    excerpt: "Analysts and experts praised Microsoft Fabric as a significant advancement that could help Microsoft leapfrog Amazon and other cloud providers"
-    publishedDateTime: 2023-06-06T21:23:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/how-microsoft-fabric-aims-to-beat-amazon-and-google-in-the-cloud-war/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-05-at-6.22.08-PM.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft Is Bringing OpenAI’s GPT-4 AI model to US Government Agencies"
     excerpt: "Microsoft Corp. will make it possible for users of its Azure Government cloud computing service, which include a variety of US agencies, to access artificial intelligence models from ChatGPT creator OpenAI."
     publishedDateTime: 2023-06-07T13:00:00Z

@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-05-30-mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets.md",
+      "title": "MediaTek taps Nvidia GPU and AI for connected car chipsets",
+      "excerpt": "Today at Computex, MediaTek and Nvidia announced a partnership to develop a unique platform for AI-powered connected cars.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/",
+      "originalUrl": "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA-e1685375149906.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-29T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-should-the-government-be-allowed-to-use-facial-recognition.md",
       "title": "Should the government be allowed to use facial recognition?",
       "excerpt": "While security implementations of facial-recognition software continue, the technology has reportedly found uses in more nefarious settings. A report in The Washington Post found that dozens of ...",
@@ -1120,58 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-28-ai-versus-machine-learning-whats-the-difference.md",
-      "title": "AI Versus Machine Learning: What's The Difference?",
-      "excerpt": "The key to developing such technology and best taking advantage of it, however, is in utilizing both AI and machine learning to the best of their increasingly substantial potential. Though the two ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1298487/ai-vs-machine-learning-difference/",
-      "originalUrl": "https://www.slashgear.com/1298487/ai-vs-machine-learning-difference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/ai-vs-machine-learning-whats-the-difference/l-intro-1685212071.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

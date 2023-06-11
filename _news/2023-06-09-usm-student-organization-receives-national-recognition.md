@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Building Better Schools: NDA student receives national recognition"
-    excerpt: "NDA junior Numa Mujeeb has been appointed to the National Speech and Debate Association’s Student Leadership Council."
-    publishedDateTime: 2023-06-06T21:55:00Z
-    webUrl: "https://www.13abc.com/2023/06/06/building-better-schools-nda-student-receives-national-recognition/"
-    ampWebUrl: "https://www.13abc.com/2023/06/06/building-better-schools-nda-student-receives-national-recognition/?outputType=amp"
-    cdnAmpWebUrl: "https://www-13abc-com.cdn.ampproject.org/c/s/www.13abc.com/2023/06/06/building-better-schools-nda-student-receives-national-recognition/?outputType=amp"
+  - title: "Lawsuit alleges facial recognition contract breach, amid questions about litigant"
+    excerpt: "A partner of Vigilant Solutions claims in a lawsuit that a licensing agreement for facial recognition technology has been breached."
+    publishedDateTime: 2023-06-08T20:22:00Z
+    webUrl: "https://www.biometricupdate.com/202306/lawsuit-alleges-facial-recognition-contract-breach-amid-questions-about-litigant"
     type: article
     provider:
-      name: 13abc
-      domain: 13abc.com
-    quality: 44
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
     images:
-      - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/CoXwnMr308rYeM8rjFwbRwmMWTQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/YXVR5FJOEFDOXI4EYOTIRDVFFI.png"
-        width: 800
-        height: 450
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "C0Lb0ouBJQ72wdL+DplUPOESPSp8VljsziWdWYwbPwUUPAQtMV6VWoC7ksbOhOvs1hpKWhGq8Z1uSbhnVsIxxAuhdNps6tRvH5C6DJdrdLMCKb7ixekXB/fsf9IWS4hF/cbimPvdOBaQNic+/IzN3jwmrlLnljylXoL5Kk+zHzgOi4rADj1oul5oCv17o9S55nyUlfClJn5kpN4DLH/iGZsj99RYLsxvBpLyRJCPdN2ANJwcQ8o48piAn01gi4KphHbMhKZVRUPOH6Cm1RUSyhwr2SZVFI1j/OlvevI2+87zj26uHYb16K8AelNy8OXM+D/XSChmVp7y1UdvN8/XQQzdrpgPVIo7THPWzQRjv1E=;VSAQkg281Gu1qhJgQqXwAw=="

@@ -49,15 +49,6 @@ related:
         width: 560
         height: 315
         isCached: true
-  - title: "Zoom’s new AI tools will let you ditch meetings for good"
-    excerpt: "Zoom IQ adopts OpenAI artificial intelligence to deliver a summary of conversations to users when they enter Zoom chats."
-    publishedDateTime: 2023-06-06T19:53:00Z
-    webUrl: "https://www.digitaltrends.com/computing/zoom-business-ai-offerings-compete-with-microsoft-and-google/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 47
 
 secured: "nAJTW8KBCQecinqG4docKuullkjk9xvZiFCH6HeMAJNO9FfbqFuUXszekr6zbL84XJ5W0NIEcNn5ZodQEodsePz1tgHHBihP3jDBEDJQCNCeZOfhDQCvxEk2OS9BNWeBiSlqG/60gnx3vK6ehngpwRnCbrimOR0OlzOduyAYpeb1WMCZGRHxnR+F6cqx8FWc7Mfk+en2og9kyvqOW684eXh97f01alkPaZn4SnKuM/i+uZszOfTmF8jyOwSlfY8Dxt31Tmf0zrHNeBgnM67fvuiwt7EOubiJRtnWf/2+SO8CndzpmILnQNpXw66xmYfMcdMHS4q8Iys1nlvX2ERCmH97SEcrhtvu2jnSfcEjsHPjoQ8+Qpm4S9l3rTasUinrQ75fR3vhh8LZOa/Zzt6jTnVWH3xXVHDX5ziqoLQBFskzKQl6WYzIKiddzvAmEPPVrvlH9uUQG6RwzDo49Gh+5UisQsxiyMOHtT2IpkpZEEJ0+PUhjXPunxI1ZIPPqOrhxEjaHSIPqsQBTVqon0UNiQ==;ZfWhl3BhmWpmnLl0E3k9Gg=="
 ---

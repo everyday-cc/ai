@@ -24,17 +24,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "UC Berkeley Startup Accelerator and Nonprofit Cal Hacks to Host Generative AI Hackathon"
-    excerpt: "Berkeley SkyDeck, a startup accelerator at the University of California, Berkeley, and Cal Hacks, a nonprofit organization devoted to fostering a culture of hacking, entrepreneurship, and social good,"
-    publishedDateTime: 2023-06-06T19:33:00Z
-    webUrl: "https://campustechnology.com/articles/2023/06/06/uc-berkeley-startup-accelerator-and-nonprofit-cal-hacks-to-host-generative-ai-hackathon.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 9
-
 secured: "RIYHAt2kV7I3OvGPwPZ0ogpeNiQLgusEfr7dP/Qb1Wb6WDiBYRUrocXkd+pv+L94Y8YKH+ZEDbkWOc8XiG1mdS9V4UYMeDzkIxDmNii9pr+ZJhV9y8JiFWdClHZ3gfQM7GBgHZsJnPdhIwWMDM4lKJu/I2RpyP0bwdGNpNtne6YJL2clnvzNp8MMxBJywNp3z8ueiyCo7RZJ8F20Swlpq8y6qfeWRPiKxQB1ZRPiTuwYd5BNhCk1n0ClXIXXG0i2b0Lc8hSHuPsVttDp3dzn2esaw2PMPziLL/kA08xt+z6UkKgl0d5+u4DCHusR/m/5sGGHikHG2gLbNZ6ptFRsOcuMdTjYcAUy7Y++T5zuxAw=;CndMKO7CDplzdvXOMn9Hkw=="
 ---
 

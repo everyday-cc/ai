@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "CNET backpedals on AI-generated content… barely"
-    excerpt: "AI-generated articles on CNET and other Red Ventures sites will still be reviewed by an editor, but will that be enough to avoid previous missteps?"
-    publishedDateTime: 2023-06-06T19:30:00Z
-    webUrl: "https://crackberry.com/cnet-backpedals-ai-generated-content-barely"
-    type: article
-    provider:
-      name: CrackBerry.com
-      domain: crackberry.com
-    quality: 19
-
 secured: "GwkYKeN1/P+R6Qic87OnVfm6BcLgVWtyVT/JbigWbbGpKUDiDdksWuv/CqDN1pyCTy1WRFwvbg6XDV+BFTz5EkO7yFL8g33oC+V1UVXlWSwGHDXkPo9NrlOmN1nhj8b3H+R8dniXJ3cJ91WVuHFa0uNExiYoJUq5/X0DomKMyzrxZieox9Z54obr+Sszy1R5u9YlYQxN9KkFDFxR21YKFka9VfbInAe+HkYb1fywKkyGAE4Wpm6sJNhrhLb+az1BgMbooG7PQY5qDkuJvOrfh6CpZMIPO/p6e3XKqKiWP0B3IpiQ0fTxhcTvdJY2QBgfXJUjZMb37Ab1jbtWle+0DHzp09hHnWTFEE/f86bhrtw=;/0wMQdRut8O+Pv6kNslqRQ=="
 ---
 

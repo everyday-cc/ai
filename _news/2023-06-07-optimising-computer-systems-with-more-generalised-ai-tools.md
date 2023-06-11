@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/optimising-computer-systems-with-mor
 webUrl: "https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 2684
     height: 1485
     isCached: true
-
-related:
-  - title: "Landing AI launches new SDK to bring computer vision capabilities to developers"
-    excerpt: "Computer vision company Landing AI has announced a new SDK to help those working with AI. The repository is freely available on GitHub now. The SDK covers a wide range of use cases, such as object detection and Visual Prompting, which is a new feature ..."
-    publishedDateTime: 2023-06-06T19:46:00Z
-    webUrl: "https://sdtimes.com/ai/landing-ai-launches-new-sdk-to-bring-computer-vision-capabilities-to-developers/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 60
 
 secured: "PqkB20Ecc/4S0ClTB2Cy/P9zwdFLjBUufPwoskP5Db0D0vFHjWvV2wFb2yMl2Akwn/7Z1+8sJzY1z8RIowxf46RZF++sPXpgVLx08tGiDKEjgA7P9IWvKxYghgkf+UkvHhtbqstF/46ti3sIMpvfkGnmv154ZrugqqE1ksfCYH5UCM0yi5GU03SEpOSXcIqtHEH6gAMgQtQdUybpQBJhZ8LJ7L4pRaInh1mMwSKd1if5WyhgWR3z24u/HttBMXaiL5Wl2kHMHP2zdIpOunkpsufKU/GlOWjgsxpI+41updJGkwMye7aPYEqR5wnapOLnTss1+QlOJRQAiSe8crI/OGcH0O9tf7Fd56x4IRivD9A=;Qh1SQk4kxQKK3trgyjqTPA=="
 ---

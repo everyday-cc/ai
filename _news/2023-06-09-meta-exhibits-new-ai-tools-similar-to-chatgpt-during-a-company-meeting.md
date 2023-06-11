@@ -101,6 +101,20 @@ related:
         width: 800
         height: 530
         isCached: true
+  - title: "Researchers Collaborate with ChatGPT to Design Robot"
+    excerpt: "The advent of artificial intelligence has not only reshaped our digital landscape but has also permeated various fields in unexpected ways. In the most recent manifestation of AI's transformative power,"
+    publishedDateTime: 2023-06-11T15:30:00Z
+    webUrl: "https://www.unite.ai/researchers-collaborate-with-chatgpt-to-design-robot/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/06/Screenshot-2023-06-08-at-7.18.42-PM-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "ChatGPT creator Sam Altman meets Modi, discusses global regulation for AI"
     excerpt: "Creator of ChatGPT and CEO of Open AI Sam Altman called on Prime Minister Narendra Modi and talked about its downside and why it is important to look into it."
     publishedDateTime: 2023-06-10T18:47:00Z

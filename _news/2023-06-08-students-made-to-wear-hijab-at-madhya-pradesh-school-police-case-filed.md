@@ -26,6 +26,17 @@ images:
     height: 738
     isCached: true
 
+related:
+  - title: "Soon, AI tools, machine learning to augment teaching in Andhra Pradesh govt’s primary schools"
+    excerpt: "The School Education Department released a government order regarding the formation of a high-level working group to equip the students of government schools with next generation education concepts and futuristic technologies."
+    publishedDateTime: 2023-06-11T13:12:00Z
+    webUrl: "https://indianexpress.com/article/cities/hyderabad/ai-tools-machine-learning-andhra-pradesh-govt-primary-schools-8657282/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 23
+
 secured: "DpxTOPsixJnRCjD1uUHSwE65h8XzAAp2KpaJ9jSz00vBAWySR6EttaFg4V3MAEvpKk0TOEF8yG6M3NE3xHWH9oG/iEiQAqw//2g/CGMf1Fy4CrqfjMVO6BfAMqQYF5IRLDU/ryz9bhOowPakdhknd5rq6vWoQfT9nQFXPOUlkpPeVCsvkO/RDpeLHNAMUckXDHogphQJC47MlWVlqKITPslxAC4/vwiSSLF/jqZQsB/bBpNM1dm6WrcWZspiv1QboT05W9kp0VPCgfNk3HaLy2evokaw4bfYIJSGulAQvFs+zKzfhIdl7k0A4Vvo1B9fKRurxcLe00hW61eQPsQ5H1X0I7LPnE+NgGsHjfX9pxg=;NEqeaOYdkOzIoxQWQiR93Q=="
 ---
 

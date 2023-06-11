@@ -40,6 +40,15 @@ related:
       name: spectator.com.au
       domain: spectator.com.au
     quality: 4
+  - title: "Indigenous voice to parliament can complete the unfinished business of the 1967 referendum"
+    excerpt: "Australians last voted in a referendum to improve the lives of Indigenous peoples in 1967. That poll erased racially discriminatory wording from the Constitution and enabled the commonwealth to make laws for Aboriginal peoples."
+    publishedDateTime: 2023-06-11T13:20:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-can-complete-the-unfinished-business-of-the-1967-referendum/news-story/bebc8d28236201af478121dbce2c67d1"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "GQvJmfKwPLMNwv1rM7wgtvmOaL8qIODYiwiRi9y8HZLx700b/gOv3oM4vvOSE6Y3pyxx3E5+cbqIyA4jR9nnWPEMiKRr7LTnokZa2SmcGf1bPObDVq64xAx6mhotglIQCJvXJMKrR6co8qh0Rh9awgPIWcR1uRqDQiizWJZzIC56rVixsOUr+TnTjqkv9WXGwowrEpiSRvJZX8SlxEKDLhMUQLqI2Y14qCPYWOhGxDUQup3t6svxqvAgNHfjrNO4ddBnCaZoxAugli9F+Rr368VoAmxEQbu/YIhlZmIaSlpjc8qbvaJzux9wl1D5hlSlE8wvRyI8qUvSmXWHrD2EouiH3/2x3Q8/G7SzJj2qG/M=;rBICMJ8/bY/zbsk6mlb37w=="
 ---

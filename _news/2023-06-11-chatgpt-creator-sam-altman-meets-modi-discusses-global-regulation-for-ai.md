@@ -109,6 +109,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Researchers Collaborate with ChatGPT to Design Robot"
+    excerpt: "The advent of artificial intelligence has not only reshaped our digital landscape but has also permeated various fields in unexpected ways. In the most recent manifestation of AI's transformative power,"
+    publishedDateTime: 2023-06-11T15:30:00Z
+    webUrl: "https://www.unite.ai/researchers-collaborate-with-chatgpt-to-design-robot/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/06/Screenshot-2023-06-08-at-7.18.42-PM-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "00n2oUC4/ENmwVbCjy8QdX0G80CzGmVSi1mWVYk4877nqAEu5mNapY+w4OYc/58mDXcT4/FXTshmUexmolZ3y9h8EeHIHXEpQD5P/oIjMhsENRThRjqkURGv5zmEpC0YUWuebJjLXbuxC1+0Qm+gUjGYsMUSvxKIpdR2H/PycroPj9bv6b1MrsqW93kMhk4uVxMsG/ci4ebJjq2OKWwUNbS0eyNytcy75QzVp3uMe4wX3sB/dQvWO6Zc/Dzy9sFZco6ZfN++8Z2YAImdKDpsUklc/Wx7AMhei5jbZhGabKYFoqZL6o2kf/RvocODy4QSCyxXh4Gn9Q5WTP9e5Yjjbn47fgwCKIe8wGmZ5wlbG7E3wGwBEXXArObidWLpDCcdEXVJwFOzjUbmshcpXyWqIgNRDPYiLWZVq3Kjm9WnukvOB8y3L3o3ySLxrVzgMH4iLuQacJ231VDUa8NeL5bDDy3aqXwiahOcKpDOhjwcjoakwNdAHTdO2GxM2YWxVmUh7gEXRfrjjoTORuULxKTdsg==;zNNr/rwtxQTvXB5D79F0UA=="
 ---

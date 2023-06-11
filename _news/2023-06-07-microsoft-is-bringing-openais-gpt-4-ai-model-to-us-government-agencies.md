@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "How Microsoft Fabric aims to beat Amazon and Google in the cloud war"
-    excerpt: "Analysts and experts praised Microsoft Fabric as a significant advancement that could help Microsoft leapfrog Amazon and other cloud providers"
-    publishedDateTime: 2023-06-06T21:23:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/how-microsoft-fabric-aims-to-beat-amazon-and-google-in-the-cloud-war/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-05-at-6.22.08-PM.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft used AI to refrain people from downloading Chrome"
     excerpt: "It comes as no surprise that ever since the success of ChatGPT and its subsequent integration into the Edge browser as the Bing AI chatbot, Microsoft has gone from being the underdog in the search engine market to now seeing themselves fighting for market ..."
     publishedDateTime: 2023-06-08T22:40:00Z

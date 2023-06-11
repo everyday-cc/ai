@@ -2,6 +2,58 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-05-01-best-fintech-app-development-companies-in-the-usa.md",
+      "title": "Best Fintech App Development Companies in the USA",
+      "excerpt": "Fintech apps are designed for various purposes such as payments, budgeting, investing, and lending. Fintech app development incorporates advanced technologies such as AI, ML, and Blockchain. Developing a fintech app requires expertise in both finance and technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-iit-mandi-startup-develops-ai-based-solution-to-detect-respiratory-genetic-disorders.md",
       "title": "IIT-Mandi startup develops AI-based solution to detect respiratory, genetic disorders",
       "excerpt": "IIT-Mandi startup developed an AI-based solution able to diagnose respiratory abnormalities that have significant mortalities. To learn more, read the full story on The Hindu.",
@@ -1126,57 +1178,6 @@
       "ampWebUrl": "https://venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/understand-risks-generative-ai-better-business-outcomes/amp/",
       "publishedDateTime": "2023-04-29T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-cybersecurity-meets-ai-augmenting-and-accelerating-humans.md",
-      "title": "Cybersecurity meets AI: Augmenting and accelerating humans",
-      "excerpt": "AI in cybersecurity must be collaborative, with humans and AI improving efficiency and efficacy over what either could do independently.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/",
-      "originalUrl": "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_Cybersecurity_meets_artificial_intelligence_AI_making_se_980107ce-9d5e-47af-9002-48f47fc5a493.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cybersecurity-meets-ai-augmenting-and-accelerating-humans/amp/",
-      "publishedDateTime": "2023-04-29T08:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

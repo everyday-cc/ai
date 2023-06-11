@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/_Clt3C93ea40vhgdQIikgQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/6ff8cac0-0620-11ee-87bf-cbb98ba4bcdc.cf.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tech is paying big salaries for engineering and developer jobs specializing in AI. Here's how much you can make."
+    excerpt: "The company secured deals with OpenAI that allow it to integrate the technology into its Bing search engine and sell it to customers through its Azure cloud business ... on Levels.fyi for a level-four machine-learning engineer was $505,000, consisting ..."
+    publishedDateTime: 2023-06-07T09:17:00Z
+    webUrl: "https://www.businessinsider.com/ai-engineer-developer-salary-jobs-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://i.insider.com/6426cffced593e00183f654b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Impact Analytics enhances its AI-native product portfolio with generative AI technologies"
     excerpt: "Today's fastest-growing AI-powered retail-planning provider seizes the opportunity to exploit complementary, innovative AI technologies.LINTHICUM"

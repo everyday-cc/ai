@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-28-first-man-wrongfully-arrested-because-of-facial-recognition-testifies-as-california-weighs-new-bills.md",
+      "title": "First man wrongfully arrested because of facial recognition testifies as California weighs new bills",
+      "excerpt": "Detroit police had matched grainy surveillance footage of the crime to Williams’ driver’s license photo using a facial recognition service. But Williams wasn’t the robber. At the time of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/us-news/2023/apr/27/california-police-facial-recognition-software?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-which-segments-computer-vision-system-market-are-anticipated-to-highest-cagr-by-2030.md",
       "title": "Which Segments Computer Vision System Market Are Anticipated To Highest CAGR By 2030",
       "excerpt": "New Analysis of Computer Vision System Market overview, spend analysis, imports, segmentation, key players, and",
@@ -1337,49 +1380,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-ironyun-wins-loss-prevention-and-article-surveillance-solutions-award-at-isc-west-for-its-vaidio-ai-vision-platform.md",
-      "title": "IronYun wins Loss Prevention and Article Surveillance Solutions award at ISC West for its Vaidio AI Vision Platform",
-      "excerpt": "IronYun was named the 2023 winner in the Loss Prevention and Article Surveillance Solutions category at the Security Industry Association (SIA) New Products and Solutions (NPS) Awards ceremony. The award,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/04/17/9795527.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/04/17/9795527.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1932792/IronYun_v1_Logo.jpg",
-          "width": 400,
-          "height": 204,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

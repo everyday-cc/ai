@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712"
 type: article
 quality: 76
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Image-with-the-Meta-Logo.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Researchers Collaborate with ChatGPT to Design Robot"
+    excerpt: "The advent of artificial intelligence has not only reshaped our digital landscape but has also permeated various fields in unexpected ways. In the most recent manifestation of AI's transformative power,"
+    publishedDateTime: 2023-06-11T15:30:00Z
+    webUrl: "https://www.unite.ai/researchers-collaborate-with-chatgpt-to-design-robot/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/06/Screenshot-2023-06-08-at-7.18.42-PM-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "ChatGPT creator Sam Altman meets Modi, discusses global regulation for AI"
     excerpt: "Creator of ChatGPT and CEO of Open AI Sam Altman called on Prime Minister Narendra Modi and talked about its downside and why it is important to look into it."
