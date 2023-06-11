@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsungs-auto-chip-to-power
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Samsung's chip division to introduce custom AI Services for employees"
+    excerpt: "Samsung Electronics reportedly plans to launch an in-house artificial intelligence-based service for internal use this year amid security concerns raised over OpenAI’s highly-advanced chatbot ChatGPT,"
+    publishedDateTime: 2023-06-11T06:51:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20230611000126"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230611000126"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230611000126"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 74
+    images:
+      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F06%2F11%2F20230611000114_0.jpg"
+        width: 630
+        height: 408
+        isCached: true
 
 secured: "PpgmT4jPZFp3g9+tBtPapRLnLDUtJz7N4PnwfImk76OguhJdDCg9E0hkR/mY3YV4QQEdN+OkYu1qu1Df7YrbU3qgzfFDVoZMtjbZQ3iE1PVz04cnY1WgGK4S1X5ehPmnsAxQjP7+IZBej2+Is7jMWnrL+EiUUN0nRa43zMUnstv6+9UoZf7Sw/lUs4f9knfjRsVxzdHYzG71+jek620O9NT2RxRalBmSUXNziGiv9Wc5Ez2Q1mp+PzNvQE7DgkExSOIgapz2+LqfXUiDfpOCRcaaNILrJjpTjybXHaWg8+tut7Yhriqc8xwmDYJ9OyGuDTydtUom2hHKl4EE6vDxB+KphsoJLZN0GOiRvGkTrX0=;q1NaBGIDXQW82R0fNJxphQ=="
 ---

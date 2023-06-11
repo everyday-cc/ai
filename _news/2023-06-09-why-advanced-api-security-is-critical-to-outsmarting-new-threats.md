@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/noname-advanced-api-security-for-ibm/"
 webUrl: "https://www.ibm.com/blog/noname-advanced-api-security-for-ibm/"
 type: article
 quality: 99
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - IBM AI
   - AI in Security
-
-related:
-  - title: "Longer-term API attacks are suited to Artificial Intelligence security, says expert"
-    excerpt: "CrowdStrike, which furthers CrowdStrike’s recent thrust in trying to cover all aspects of an organization”s cyber security, not just the traditional IT-related. “APIs are just growing like crazy,” said Michael Nicosia (pictured),"
-    publishedDateTime: 2023-06-06T16:42:00Z
-    webUrl: "https://siliconangle.com/2023/06/06/longer-term-api-attacks-are-suited-to-artificial-intelligence-security-says-expert-falcon22/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 28
 
 secured: "LS4apSqe4fAB7hr87B1bUyN/Kvw8dReWJOOLGt9RbPAkSwA2zrKKUSMxw4aDoS9OCwYvTXxZMMpls/GMB5zkSVG2elNRJ1yzdyMDkp6hFZDIc43PCCqD6lh9qeTw6U6lSHBB0M8K+7hX3t3mfyr6TgGJ9//DAZ12JjY3Z2ikhrVT860+WDkVRT4rRMdBzOvErA+wkTMIp/jRRczKqn+SoYiYH3mh6yuvLCXCGY7gwZ8EQMOj09/rQ/5g2pCwDYvivgsT8jkZgxrUk/jP4Xyt5h9XgA2kc9x8tp1rhFd17k816kVBrY1OqmdLofidm6jQ0ipwLIgjxUJrMosLnR4IFmd9OIDKb960xDBy4JsXCEo=;l3vpelQgiPP0oj+86Ll5Qw=="
 ---

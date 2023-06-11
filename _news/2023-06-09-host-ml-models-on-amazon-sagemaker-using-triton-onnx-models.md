@@ -67,20 +67,6 @@ related:
         width: 1184
         height: 630
         isCached: true
-  - title: "Build machine learning-ready datasets from the Amazon SageMaker offline Feature Store using the Amazon SageMaker Python SDK"
-    excerpt: "Amazon SageMaker Feature Store is a purpose-built service to store and retrieve feature data for use by machine learning (ML) models. Feature Store provides an online store capable of low-latency, high-throughput reads and writes, and an offline store that provides bulk access to all historical record"
-    publishedDateTime: 2023-06-06T16:23:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-machine-learning-ready-datasets-from-the-amazon-sagemaker-offline-feature-store-using-the-amazon-sagemaker-python-sdk/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/build-machine-learning-ready-datasets.jpg"
-        width: 1022
-        height: 508
-        isCached: true
   - title: "AWS says Falcon40B Large Language Model Trained on Sagemaker"
     excerpt: "AWS revealed that TII), a leading global scientific research centre in Abu Dhabi, trained its top-performing, open-source Falcon 40B model on AWS."
     publishedDateTime: 2023-06-08T06:57:00Z

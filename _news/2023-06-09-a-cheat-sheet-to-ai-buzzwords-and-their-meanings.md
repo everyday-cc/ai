@@ -2,9 +2,9 @@
 category: news
 title: "A Cheat Sheet to AI Buzzwords and Their Meanings"
 excerpt: "The arrival in late 2022 of the ChatGPT chatbot represented a milestone in artificial intelligence that took decades to reach. Scientists were experimenting with “computer vision” and giving machines the ability to “read” as far back as the 1960s."
-publishedDateTime: 2023-06-09T10:08:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/c8cabde0-06d7-11ee-b74a-5bdd335d4fa2_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/c8cabde0-06d7-11ee-b74a-5bdd335d4fa2_story.html"
+publishedDateTime: 2023-06-09T07:05:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/a45f368e-06be-11ee-b74a-5bdd335d4fa2_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/a45f368e-06be-11ee-b74a-5bdd335d4fa2_story.html"
 type: article
 quality: 39
 heat: 39
@@ -49,6 +49,6 @@ related:
       domain: analyticsindiamag.com
     quality: 36
 
-secured: "e2OQWka64r8o6CeqpZqgarqOEAMwJKa9HALW1a+m50+elchurGA7TjTdqtLMMN8qnF+LBLZdI1C1QNCce5Pl6QdCW2AOXalCySKr/KtSZf6J6jMBkMNHZGjJQ3Zr4stXqw4yvyZa6lGf6ZhSkbkGO0pct6asvLvZSmawhl7U+z30u2bBR4AQMOIkwFCCMyOB49wXNuU1rZzkYoBrswg62wVmafWdpk3+5ghdIx03tm0RP7bZiZetXK+eEGbyj2IDSxAzTzIkbBGvR4lwCn/GoZUix0lO+0TN2k8zN62QHC5eZgTFHo1Eav2C5V1C3oKt+mJwHyu+XAm6Au+ooPdjESgDElLC+arrrz8soRmyB/8=;H8jgkLXmOP71SECd16eD6w=="
+secured: "g0BANGOIhYqPVKmGpTFzSSGq8MYoy3c95SGF+yowPAdNdWa6G4mJLLj3PPWK5gcObNv21a0zM5D7FDpRNKRhxwby3Srrf6kFTulz/TA+2NOXVMh1LbyBVqiMUygoWk9CRJFEZ6Sifvf83aaDOxUCwPrF4g4FOFKhjMhJ4D5YLe2Qg8iEiJI8zkHX9PfizcpnFBZph7k1hTo33fTlg5A57PBUyZ+96It0rOYSh0xiulMVMzNXqX9H8D1eqrRUOUehz+0WoQQc5pTY++h2POKYiAz0ZD+g6kSKGV8Su2CjXE3LkcTRTeZH0syFEmd7XeRI0Q+PuyQQau0vlUCa0d9FvlPKebqXFEFqpuXnj4z2iFc=;71XEzqbYUbgFzWVaPNxPCg=="
 ---
 

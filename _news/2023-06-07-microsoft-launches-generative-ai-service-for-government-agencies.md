@@ -155,6 +155,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 62
+  - title: "Microsoft Extends OpenAI's Language Models to US Government Agencies via Azure Cloud"
+    excerpt: "By bringing OpenAI's sophisticated language models to Azure Government, Microsoft aims to empower US federal agencies with cutting-edge AI capabilities. This move underscores the company's commitment to delivering innovative solutions and advanced ..."
+    publishedDateTime: 2023-06-11T09:04:00Z
+    webUrl: "https://menafn.com/1106422461/Microsoft-Extends-OpenAIs-Language-Models-to-US-Government-Agencies-via-Azure-Cloud"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 62
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_80_menafn.jpg"
+        width: 512
+        height: 262
+        isCached: true
   - title: "OpenAI's ChatGPT Enters Government Sphere: Microsoft's Azure to Provide AI Models for Federal Users"
     excerpt: "The company will not utilize data from Azure Government customers to train the AI models. Price Action: MSFT shares traded lower by 1.89% at $327.43 on the last check Wednesday."
     publishedDateTime: 2023-06-07T15:03:00Z

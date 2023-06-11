@@ -28,6 +28,17 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Buy Mobileye Stock, Says Analyst. Self-Driving Cars Will Be Safer and Greener."
+    excerpt: "Canaccord analyst George Gianarikas launched coverage of Mobileye with a Buy and a $50 price target for the stock."
+    publishedDateTime: 2023-06-07T13:45:00Z
+    webUrl: "https://www.barrons.com/articles/buy-mobileye-stock-self-driving-cars-c7e6bfd9"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 0
+
 secured: "XlchWBLhn7R9AA+ZboDul0O2LnvhrDbNRi84Ea/LUOPcroX7e3spl/5o4v7c2DUi/j17Hluj5yQrD+dJLz9Fp9p5Vq2ooTYXG72BzLmlWcuh3njRv0i3S99vDYLShnLi9FLiWtsFOb64zZkZc8oVFv0QTKsIPmeWQjjVBu3aiWSJisDUyOdcgZw5SDQpS8MEmlSnY2Pm2HZeolHjLvsfa4YOTb4JekXQmh0+o+VUzjKWqbYYSr105sEzRDH9YILS3g0B4PtCLAGSF/AqE/uozmSGJV9knHT7ADghiUPbVw5neF2MXPU7Mj/YW7/oMXAyOoNyLKofZYB2dxgQx8uoyYHgrjV4SjGfOJEywlgcd9uoq4FR3f+SmnrKFufzyE+V/xx/ivVk2JuaR/CMMj2QWjndipLxm2CPt+cPzK3mqrjo1HUjspsOkKUwJnjWQh0r+q1s3RREisL/5qd542qLI49nnzYfP48jww+1IbTWJ6GHVq4yMuBsMT7UT+aV3kuGaGt6O6yj/fKam6R4d+wVwQ==;GFcO5Y79iJ80yaAKvwfLVQ=="
 ---
 

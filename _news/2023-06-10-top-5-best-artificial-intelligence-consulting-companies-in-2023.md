@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "10 Companies Using Artificial Intelligence (AI) in a Compelling Way"
-    excerpt: "AI is changing the way many companies operate. Learn about how some of the biggest companies in the world are using AI."
-    publishedDateTime: 2023-06-06T15:34:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/AI_artificial_intelligence_robots_working_offi.width-600.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Struggling Meta showcases new AI tools at company meeting"
     excerpt: "Employees get preview of chatbots similar to ChatGPT for Messenger and WhatsApp"
     publishedDateTime: 2023-06-09T00:10:00Z

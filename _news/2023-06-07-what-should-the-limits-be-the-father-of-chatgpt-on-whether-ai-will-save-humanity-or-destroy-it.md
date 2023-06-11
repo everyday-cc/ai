@@ -104,20 +104,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Tim Cook covers Vision Pro, ChatGPT AI, and more in new interview"
-    excerpt: "Apple's CEO Tim Cook announced the Vision Pro, the company's first \"spatial computer. Now, he was interviewed about it."
-    publishedDateTime: 2023-06-06T15:23:00Z
-    webUrl: "https://bgr.com/tech/tim-cook-covers-vision-pro-chatgpt-ai-and-more-in-new-interview/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/tim-cook-apple-vision-pro-abc-bgr.jpg?quality=82&strip=all"
-        width: 1812
-        height: 900
-        isCached: true
   - title: "ChatGPT creator Sam Altman meets Modi, discusses global regulation for AI"
     excerpt: "Creator of ChatGPT and CEO of Open AI Sam Altman called on Prime Minister Narendra Modi and talked about its downside and why it is important to look into it."
     publishedDateTime: 2023-06-10T18:47:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/categories/ai?page=2"
 webUrl: "https://www.pcmag.com/news/categories/ai?page=2"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: PC Magazine
@@ -27,17 +27,6 @@ images:
     width: 997
     height: 1201
     isCached: true
-
-related:
-  - title: "TECH NEWS: Artificial intelligence that can see"
-    excerpt: "By leveraging AI’s visual capabilities, businesses can gain actionable insights, automate processes, improve decision-making, and enhance overall efficiency and competitiveness."
-    publishedDateTime: 2023-06-06T16:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/tech-news-artificial-intelligence-that-can-see-d91679f6-febc-4f1c-bca8-fb7ac983c07a"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 23
 
 secured: "OH8wfaTSVfnWa4NIDOwvhNeffaQFjzWuPps4nyclUxo8/ZXmzGMCM41S3rtQ41Iok9tBrZuTBvv7e1OiohmcJl+1GkCaWXaS9fITS2Vs77t+K+kq+S496mt85xSovpYI/UMLkgdZawV8nAszKK7NTYGfsFXDn2QE5OzEY96bRs0BkrpbqdCssh8ovP1q6KAzEtNVZkclqpbdzZDUix6+62skRjCMa/7ydD202wjVt2n5wYtilYtt+k9HQdGzqKSiYtvpWZdGdUAB9ia7nkjVvp9s2U4UVNb6+SM9/Wir8ivYahY3GwIXKxi3IJKPEtXdppCv2H9kZG5uprd4AIv8v4kD3gBM+3kIVVoc4aSF1VI=;sbvokZvnLjHwPO5PzlhC+g=="
 ---

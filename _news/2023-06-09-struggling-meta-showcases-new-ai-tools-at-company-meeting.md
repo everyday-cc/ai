@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/08/meta-facebook-ai-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/08/meta-facebook-ai-mark-zuckerberg"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 Companies Using Artificial Intelligence (AI) in a Compelling Way"
-    excerpt: "AI is changing the way many companies operate. Learn about how some of the biggest companies in the world are using AI."
-    publishedDateTime: 2023-06-06T15:34:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/AI_artificial_intelligence_robots_working_offi.width-600.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Top 5 Best Artificial Intelligence Consulting Companies in 2023"
     excerpt: "Want to maximize the uses of AI technology? Seek the expertise of the five best AI consulting companies of 2023."
     publishedDateTime: 2023-06-10T10:00:00Z

@@ -28,20 +28,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "US and EU to draft an AI code of conduct"
-    excerpt: "As talks of global AI governance intensify around the world, with G7 leaders agreeing on this May to produce a Hiroshima AI process by the end of the year, every international summit seems to touch upon questions of AI Governance."
-    publishedDateTime: 2023-06-06T15:48:00Z
-    webUrl: "https://www.techuk.org/resource/us-and-eu-to-draft-an-ai-code-of-conduct.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 39
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/7f890400-cfb8-4788-95e96a473cacf61a/resourcegridlistingimagedefault_4d12532919c64e60a22baf03232bbf94_4a7c7e45a350/Website-Abstract-tech-background-made-of-printed-circuit-board-iStock-1206097406.jpg"
-        width: 440
-        height: 248
-        isCached: true
   - title: "When You Ask AI to Write an Obituary"
     excerpt: "Despite this fact, funeral home websites all over the country are now offering AI obituary-writing services, but you really shouldn’t use them. Not only is AI prone to getting details wrong or just making things up,"
     publishedDateTime: 2023-06-09T14:29:00Z

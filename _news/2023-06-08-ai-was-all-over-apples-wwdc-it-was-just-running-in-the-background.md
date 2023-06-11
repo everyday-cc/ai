@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-was-all-over-apples-wwdc
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-was-all-over-apples-wwdc-it-was-just-running-in-the-background/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: ZDNet
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI wasn't mentioned at all during Apple's big WWDC presentation"
-    excerpt: "AI. Here's why Tim Cook was mum on the term other Big Tech CEOs are loving."
-    publishedDateTime: 2023-06-06T16:30:00Z
-    webUrl: "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-ai-artificial-intelligence-wasnt-mentioned-apple-wwdc-tim-cook-2023-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/647f51b89fcce6001935925d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Where was all the AI at WWDC?"
     excerpt: "If you’d been drinking two fingers every time Apple mentioned \"artificial intelligence\" at WWDC 2023, you’d be stone sober right now.."
     publishedDateTime: 2023-06-07T17:12:00Z

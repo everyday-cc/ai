@@ -59,22 +59,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Revolutionising BFSI Customer Experience: How Fintech is Leading the Way"
-    excerpt: "India has the greatest acceptance rate of fintech in the world, according to Invest India, at 87%, significantly higher than the average adoption rate worldwide of 64%. The banking and financial industries are undergoing"
-    publishedDateTime: 2023-06-06T16:57:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionising-bfsi-customer-experience-how-fintech-is-leading-the-way/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/revolutionising-bfsi-customer-experience-how-fintech-is-leading-the-way/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/revolutionising-bfsi-customer-experience-how-fintech-is-leading-the-way/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 43
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/06/rlani-1.jpg"
-        width: 900
-        height: 900
-        isCached: true
 
 secured: "77ndphhkl2Fv7JtcIlU6I7btwPwnazIXy9teN8Krsv5uWh+YNBM/0jn8emEzxAKM3Dwgo/5CmZZLWhTJWH6Eex1imJ0SUSQmrtBPNYtzst6FMu+PsYk1/qKusrdYa3KsGijf8iPAjJ9r2Mis55AdfkLUw7zrr1QjQLowPv/diacJkqdI9kp/4l5UrNiHPfsoLYIMxs8mdIcvai4jG2IhV6d/8wnrHKPYA9iv6Tcm+c/IBwTlAMsIdtfdGBkIagRIXpP3HZv4yhhx014EMM2N7XH4EO5l/lrMChJAO7xBoLzgrHLp6OxgWfxdcQ4EoQKHCgRIeG+NYBGmeJ4D7ANL2qyreH1Plj1M6rX4ArTG2RJvuzd8JZzkyPUYpoq0Mhf1J6GIRvMxsztorh3539YFsiqwFlgSiKzUY2gmvnmnoIKMGqAo/D5CfBLqATCb/m+ZJHSaon4E6EYvKtZDzVVt8KocgwYUt1C+sMFFZ69BnRW/YkwVXd/kBO08Afvv6MPiy5quwOjlaMFSeLRWzOO7uQ==;+8zMX2AlOPZ4DQI8qtAY8Q=="
 ---

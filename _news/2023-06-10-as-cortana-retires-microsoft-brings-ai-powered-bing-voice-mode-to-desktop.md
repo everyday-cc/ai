@@ -143,6 +143,20 @@ related:
         width: 900
         height: 599
         isCached: true
+  - title: "Microsoft Extends OpenAI's Language Models to US Government Agencies via Azure Cloud"
+    excerpt: "By bringing OpenAI's sophisticated language models to Azure Government, Microsoft aims to empower US federal agencies with cutting-edge AI capabilities. This move underscores the company's commitment to delivering innovative solutions and advanced ..."
+    publishedDateTime: 2023-06-11T09:04:00Z
+    webUrl: "https://menafn.com/1106422461/Microsoft-Extends-OpenAIs-Language-Models-to-US-Government-Agencies-via-Azure-Cloud"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 62
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_80_menafn.jpg"
+        width: 512
+        height: 262
+        isCached: true
   - title: "Microsoft launches generative AI service for government agencies"
     excerpt: "Microsoft's Azure OpenAI Service will allow departments to adapt generative AI models for tasks including content generation and semantic search."
     publishedDateTime: 2023-06-07T15:03:00Z

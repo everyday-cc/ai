@@ -9,7 +9,7 @@ ampWebUrl: "https://www.easternherald.com/2023/06/07/transformative-power-of-art
 cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/?amp=1"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "How AI is Transforming Music Creation in Web3"
-    excerpt: "Warner Music Group chief digital officer and executive vice president of business development Oana Ruxandra told CoinDesk’s The"
-    publishedDateTime: 2023-06-06T17:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/how-ai-is-transforming-music-creation-in-web3-1032373862"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "HGJHtzGjC5ir5SnzjqnjcHxDATV1t0yWjE+3CuMBXogDrXgOwABntnsXFZfc0/Eq2T14YUPBycaku0tucJV0QC2Z+ux5C9x+krZ1Lv1I/3JiKP6LBj8nRXqL4PkOzJb2xLzpiJyqWZQHTQiEVYZpWgn24lWQYP4J5/2zMBf45QBWTm36LiLQe1ex9pHl4a9QG9SPlf31wmmS5Sm685F3pANpwc8PF1jEtTQJNfmWGEzkIHEuUO8PXoF6L+uwe9zcDLTPU6R7wJYHAdS7hbmuUu+73+LaENcNqWjxn3oIzRup8ExoOnRAa1U1K2FVinf2lJJa6wYe4lKNpa/zzyKrfcLZHMlf/4GlnUswsitd7GXGwejM7Xcrlp3Kpds/echBVrKIa1Hsvrn8Q93g9ATwxkVCmCqZdpoy1KUzmxeKjO3em7vj6E3u5TxTorQ8GfeMncMnp/qvxtpWZOSIaGc+BIuD+wBjTDZRfYSqeCqCZMayCt5W1tOJl/Sy7DkmD8+KJhAQKYTKsuvpJx0d8n2yZg==;5GuYcszhSDjrzqD+7zt+5w=="
 ---

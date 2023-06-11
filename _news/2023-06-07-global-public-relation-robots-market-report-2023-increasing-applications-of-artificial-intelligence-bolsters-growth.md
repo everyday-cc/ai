@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32748796"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32748796"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Benzinga.com
@@ -43,6 +43,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
+    excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
+    publishedDateTime: 2023-06-09T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/268577"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 0
 
 secured: "XjB3BTtI+JIWHueT20SALolJn5vTet0kHqAY1rr1d0FjAO81twvihi43Yb8L7E7AeLmG+l8p6hQ3cFVmAtlb269H1sMfT4RjZPN4dOQgkxpNapQDH3zPLQqrDg5oluys4EfcQUjRZdTylekXV5EpuXy4FcS8KRBgNy1gyxZVSjXVXxTlIC4Vw0RBJoESk9rXLnG7swf8eYbLIS9NEI5r3PK3P5AIPQ4izO0Qofl4Cd95TpQXFhZML0XFY6TYxPu28pyT8V7qcH0iav2O2W/fN0OvF5YLIU3OK0HFMGSnqgL52mUkE0ZmboRKzbJsTNAroytEgfuNm1QN2i+cBNPjmrBRoL4UVrCij7MWs9hgT7k=;A9lR2CCQS/8H1pFuGqDoGw=="
 ---

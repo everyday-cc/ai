@@ -43,6 +43,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
+    excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
+    publishedDateTime: 2023-06-09T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/268577"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 0
 
 secured: "dEUtSpCyvl8jPxwV3JbMnYFKdOttrD4ZZ6/4Tye6gWaLmn6AfI8prVnLhFa1VZNAEVQ5E51UeHcBaqvy5+V09T42XfHLvrWDEx7Bea6acv4plO+g6VZ8fjf7irtlW8Dnr6jPlpZN09UgSXld32rRP1LbKYBJxb+D6QEoShZE4WGT7gTjxhXOQMcWLs8MEzTNsPpxu7a5bJqQUy2HUf+T+0MIcDTO91k4oHHmSfse1w0Gpx6OW3xq4e/75Jp9tphfF+KJYbNAZb3asVvRdFVzdm7ovhmpctWFhlVG07Il8otBlqO7tVhAQh8m1CKi+L2LEZiNdy2HUkohIs0WAoUM3ASbUiXq94p9o+0Kne4RLLE=;I7opzDn3WDaEvCSdSjfRdw=="
 ---

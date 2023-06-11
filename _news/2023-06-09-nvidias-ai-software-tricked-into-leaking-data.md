@@ -110,15 +110,6 @@ related:
         width: 1199
         height: 650
         isCached: true
-  - title: "Era of artificial intelligence in India"
-    excerpt: "Ishant Gupta In today’s digital era, technological advancements have revolutionized the way we live, work, and interact. Among these advancements, Artificial Intelligence (AI) has emerged as a powerful tool,"
-    publishedDateTime: 2023-06-09T19:11:00Z
-    webUrl: "https://www.dailyexcelsior.com/era-of-artificial-intelligence-in-india/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 19
   - title: "Nvidia and Oracle back $270M funding round for generative AI startup Cohere"
     excerpt: "Generative artificial intelligence startup Cohere Inc. today announced that it has raised $270 million in funding from a group of prominent tech investors. The investment, a Series C round, included the participation of Nvidia Corp."
     publishedDateTime: 2023-06-08T19:33:00Z

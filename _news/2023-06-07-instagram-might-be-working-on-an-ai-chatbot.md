@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Instagram may be getting its own AI chatbot soon. Here's what we know"
-    excerpt: "Instagram's chatbot is very similar in purpose and design to Snapchat's My AI. Since Snapchat's feature has not been well received, it's interesting to see that Instagram is following in its footsteps. Whether this will become a useful feature or be quickly forgotten remains to be seen."
-    publishedDateTime: 2023-06-06T16:16:00Z
-    webUrl: "https://www.zdnet.com/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instagram-may-be-getting-its-own-ai-chatbot-soon-heres-what-we-know/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/731fa999b2b078dba0f7ffd929234df150b9a7bd/2023/06/06/0d67eed7-716a-47da-bb16-4b86e1f196b8/gettyimages-1256994567-1.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Bank Customers Aren't Happy With AI Chatbots. Here's Why"
     excerpt: "Banks are implementing AI chatbots in their customer relations operations, but the Consumer Financial Protection Bureau says some bots are causing frustrations."
     publishedDateTime: 2023-06-10T08:15:00Z
@@ -107,21 +91,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Meta unveils plan to infuse generative AI into Facebook, Instagram, Messenger"
-    excerpt: "Mark Zuckerberg, the CEO of Meta , recently shared his plans to integrate generative artificial intelligence into popular platforms like Facebook, Instagram, and Messenger.Generative AI has"
-    publishedDateTime: 2023-06-08T21:18:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger"
-    ampWebUrl: "https://www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger"
+  - title: "Financial Chatbots: Enhancing Customer Service and Engagement in Fintech"
+    excerpt: "Enhancing Customer Service and Engagement in Fintech In the fast-paced world of fintech, customer service and engagement have become crucial factors for success. To meet the evolving needs and expectations of customers,"
+    publishedDateTime: 2023-06-07T04:41:00Z
+    webUrl: "https://www.globalbankingandfinance.com/financial-chatbots-enhancing-customer-service-and-engagement-in-fintech/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/financial-chatbots-enhancing-customer-service-and-engagement-in-fintech/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/financial-chatbots-enhancing-customer-service-and-engagement-in-fintech/"
     type: article
     provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 56
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 43
     images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-06-09/1078378_023343_updates.jpg"
-        width: 700
-        height: 400
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/iStock-1364072782.jpg"
+        width: 750
+        height: 474
         isCached: true
   - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
     excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."
@@ -146,24 +130,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
-  - title: "An AI chatbot might soon slide into your Instagram DMs"
-    excerpt: "Instagram is reportedly working on an AI chatbot that will let users choose between 30 different personalities to chat with."
-    publishedDateTime: 2023-06-07T18:21:00Z
-    webUrl: "https://bgr.com/tech/an-ai-chatbot-might-soon-slide-into-your-instagram-dms/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
-  - title: "Facebook, Instagram to get ChatGPT-like smarts as Mark Zuckerberg’s Meta plans big generative AI push"
-    excerpt: "Mark Zuckerberg, who plans to incorporate generative AI into Meta’s flagship products, talks about his AI plans at a meeting held on Thursday."
-    publishedDateTime: 2023-06-09T11:57:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-facebook-instagram-to-get-chatgpt-like-smarts-as-mark-zuckerbergs-meta-plans-big-generative-ai-push-3119862/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 4
 
 secured: "nFMjsMDNCFvBG1NL0M4rfR9LhHSuIsR4GLLgEOaqa9EtrhKWvL8p/k6SDy5E8zdwBWSMvgFNjV1zyx3o8QgDVjNBrzfAIVAO7b9csTM/Kqh8mVcvu9/TIA3dCoo2VpUMTpE7LAQFuSkcB9X2lgDuRYz/EGUL2r/HTPu7nXfO3w884jBBXqLagQhmwlmnTY2LQv9ZoIslDmSudPcrqPa48ErwlnWvc7cxzuvMgxuZaanJGD/4leXQnvxoJT1CAHN3Y0kGTad65+yxrGU7dSUlh8GNLUwDCm3BAapuMXIEWLc0ASioZaHH+ogJCG2w1/j6JAaQrGoNk9aZdYjiL00+BHicef0VXvkCdepoys+eP6YgT/KLZp5ccqiCtC3QsOlegtwhZFFsk7sFvTwTtb0/uqjFtwkO/f8IiRRZ2pv0c/3zK1uIu/+QsJGn+8pc4rDOXZQ3TI+p+IFMQaXR+mm+Ibe/aH7niZh2qsr9RL/nGlKQuZSw/QfQnLKI/EXbJ6O+YFA7oxH4fhEjLbRD8qxgRw==;dWxhKhIYJhfVSTvADUMdcg=="
 ---

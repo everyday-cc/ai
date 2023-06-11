@@ -109,20 +109,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Tim Cook covers Vision Pro, ChatGPT AI, and more in new interview"
-    excerpt: "Apple's CEO Tim Cook announced the Vision Pro, the company's first \"spatial computer. Now, he was interviewed about it."
-    publishedDateTime: 2023-06-06T15:23:00Z
-    webUrl: "https://bgr.com/tech/tim-cook-covers-vision-pro-chatgpt-ai-and-more-in-new-interview/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/tim-cook-apple-vision-pro-abc-bgr.jpg?quality=82&strip=all"
-        width: 1812
-        height: 900
-        isCached: true
 
 secured: "00n2oUC4/ENmwVbCjy8QdX0G80CzGmVSi1mWVYk4877nqAEu5mNapY+w4OYc/58mDXcT4/FXTshmUexmolZ3y9h8EeHIHXEpQD5P/oIjMhsENRThRjqkURGv5zmEpC0YUWuebJjLXbuxC1+0Qm+gUjGYsMUSvxKIpdR2H/PycroPj9bv6b1MrsqW93kMhk4uVxMsG/ci4ebJjq2OKWwUNbS0eyNytcy75QzVp3uMe4wX3sB/dQvWO6Zc/Dzy9sFZco6ZfN++8Z2YAImdKDpsUklc/Wx7AMhei5jbZhGabKYFoqZL6o2kf/RvocODy4QSCyxXh4Gn9Q5WTP9e5Yjjbn47fgwCKIe8wGmZ5wlbG7E3wGwBEXXArObidWLpDCcdEXVJwFOzjUbmshcpXyWqIgNRDPYiLWZVq3Kjm9WnukvOB8y3L3o3ySLxrVzgMH4iLuQacJ231VDUa8NeL5bDDy3aqXwiahOcKpDOhjwcjoakwNdAHTdO2GxM2YWxVmUh7gEXRfrjjoTORuULxKTdsg==;zNNr/rwtxQTvXB5D79F0UA=="
 ---
