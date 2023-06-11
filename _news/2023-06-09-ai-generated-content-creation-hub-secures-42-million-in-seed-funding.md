@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "FBI warns of increasing use of AI-generated deepfakes in sextortion schemes"
-    excerpt: "The FBI on Monday warned of the increasing use of artificial intelligence to generate phony videos for use in sextortion schemes that attempt to harass minors and non-consulting adults or coerce them into paying ransoms or complying with other demands."
-    publishedDateTime: 2023-06-07T03:39:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/amp/"
+  - title: "Dutch fintech LoopingOne raises €2 million in seed funding"
+    excerpt: "LoopingOne, the pioneering fintech startup, is thrilled to announce that it has secured an impressive €2 million during a recent seed funding round."
+    publishedDateTime: 2023-06-07T10:23:00Z
+    webUrl: "https://www.finextra.com/pressarticle/97168/dutch-fintech-loopingone-raises-2-million-in-seed-funding"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 85
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/face-in-silicon-1-800x574.jpg"
-        width: 800
-        height: 574
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "mNQnVHVm9oQPaGlcwW3Aw/yDd9KSSmyC0UsJqHkZljwbCTKt2J/+j9zfVrx6atWPXNYjZ9uSywCty/+DZqjOZ5LcqrYnSMCtUuYKiZuC8Ir+2EL795JWj81uW7HxaaeummO75Nk2fiAkiII/RLBs53pCq5KSSQ7eDCbOZta6WG7FLbsA2zcXnwNWC1pYDvah6/CGjfL93TMETCqshtIJKWZtKNzQB7RYJzhuVpodwRn/i5QoLUp+p42LBMq6UPq1LlaO+/zoZc6SC2jcleSGrv8vyqCmS5Ci2WdC/pj03vnPbztc4NMJXUFroOxnXrUuEEGnoDSwHYcQeNEUAZtaZe6+eLUm/EjX970SZNyMQMg=;xf6pcGDoRy3uf7NbPtUcJg=="

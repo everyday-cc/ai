@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-26-aiml-considerations-of-healthcares-new-frontier.md",
+      "title": "AI/ML: Considerations of Healthcare’s New Frontier",
+      "excerpt": "Artificial Intelligence (AI) and Machine Learning (ML) is bringing healthcare into a new frontier with vast potential to improve clinical outcomes, manage resources, and support therapeutic development. They also raise ethical, legal, and operational ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2023/05/ai-ml-considerations-of-healthcares-new-frontier/",
+      "originalUrl": "https://medcitynews.com/2023/05/ai-ml-considerations-of-healthcares-new-frontier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2021/03/GettyImages-1206796363.jpg",
+          "width": 810,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
       "title": "H2O.ai Recognized as a Visionary in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services",
       "excerpt": "The AI cloud leader, H2O.ai, announced it has been named a Visionary in the 20223 Gartner Magic Quadrant for Cloud AI Developer Services. “H2O.ai is excited to be recognized by Gartner to be the only Visionary in the 2023 Magic Quadrant for Cloud AI Developer Services,",
@@ -1222,41 +1266,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision.md",
-      "title": "Future of AI in e-commerce: Transforming data with ML and computer vision",
-      "excerpt": "While a lot has been discussedin areas of face recognition, graphical capabilities, some of the following use cases in e-Commerce can greatly benefit from computer vision, image processing. As a customer you want to know the best offers on your favourite ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
-      "originalUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
-      "publishedDateTime": "2023-05-16T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

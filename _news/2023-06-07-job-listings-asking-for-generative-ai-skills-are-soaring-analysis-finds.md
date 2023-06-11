@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
 type: article
 quality: 88
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
       name: WWT
       domain: wwt.com
     quality: 33
-  - title: "CORRECTING and REPLACING Clarify Health Launches Generative Artificial Intelligence, Clara"
-    excerpt: "Contact us at clara@clarifyhealth.com to learn more about the closed beta program for Clarify's new generative artificial intelligence, Clara. (Graphic: Business Wire) The updated"
-    publishedDateTime: 2023-06-07T01:16:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_454b3320-9f48-5ddd-9604-7e382f1d2672.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 29
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/5/b0/5b049543-b15f-5826-a8e9-166988596f31/647fdd7855695.image.jpg?crop=1019%2C535%2C2%2C0&resize=1019%2C535&order=crop%2Cresize"
-        width: 1019
-        height: 535
-        isCached: true
 
 secured: "duln9jBW1S5gdIPvonXO55yVctDt5DWXCRWEeAFk+hsDrEyUdCT0L0U3jQdwxXkxFFO0gb2RhmEs38F5KkgynO1SMes+mdhOrAOW29j+paKZ/+E/UTdpog637cHTXGWztp8x5ii5+pXALXAooTzoC6gE7Bh//CQa64iXPNh/kwJDD3doxlD7OzKyleBWgqDW9iGc8DMC2CptQ+dCS2aCzxgWu7CXr3SAyPj+o194UUnJ9vwgW2QAzfUxNFgZWNl0aJ553pSj70cN8PHLNMxGJwqz0f3pSFhCtYO+smcaZ/3xcNxkZWOpZuJrLhmQP0Z0V+BuGQhTTYaqx2JzFxg0xMkdbiVj5Os2+iG4OuPa02Lf7m30hNQh2Wpeko7DOa/lu6nSEXKNJ3TxBo0W6DoWnyf9kjrbl/8UYsc55eZLy/9coH2aMlwv5YimG2gj5rsdmajp1zVj6p9YPtm3Hgpm2I7qiHTlhLHnC8fjs1AlDTzqE/lKHMJUZI4GmTwUn7eiBUc9mYEitZ5+fg7xjJyVPQ==;bQ/zskHdkBRb/QG5vHG0rw=="
 ---

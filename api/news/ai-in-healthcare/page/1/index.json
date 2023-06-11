@@ -452,8 +452,8 @@
       "title": "Netsmart and nVoq partner to deliver integrated speech recognition to tackle the documentation challenge for in-home healthcare clients",
       "excerpt": "As part of the partnership, Netsmart becomes the authorized reseller of the nVoq speech recognition products for Netsmart clients. The cloud-based speech recognition technology will be seamlessly integrated within the Netsmart myUnity EHR solution,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/06/9827449.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/06/9827449.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -472,7 +472,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:02:00-07:00",
+      "publishedDateTime": "2023-06-06T06:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -1367,6 +1367,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-31-ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for-enhanced-image-quality-in-petct-advancing-its-leadership-position.md",
+      "title": "GE HealthCare Receives FDA Clearance of a New Deep Learning Solution for Enhanced Image Quality in PET/CT, Advancing its Leadership Position in AI",
+      "excerpt": "GE HealthCare (Nasdaq: GEHC) today announced US FDA 510(k) clearance of Precision DL – a new, revolutionary deep learning-based image processing software included in GE HealthCare’s growing Effortless Recon DL portfolio. Precision DL provides the image ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for-enhanced-image-quality/article_5c89fef1-fd44-59dd-bbcc-c8791007d7c0.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for-enhanced-image-quality/article_5c89fef1-fd44-59dd-bbcc-c8791007d7c0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for-enhanced-image-quality-in-petct-advancing-its-leadership-position.md",
       "title": "GE HealthCare Receives FDA Clearance of a New Deep Learning Solution for Enhanced Image Quality in PET/CT, Advancing its Leadership Position in AI",
       "excerpt": "GE HealthCare (Nasdaq: GEHC) today announced US FDA 510(k) clearance of Precision DL – a new, revolutionary deep learning-based image processing software included in GE HealthCare&CloseCurlyQuote;s growing Effortless Recon DL portfolio. Precision DL ...",
@@ -1399,49 +1443,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-ai-in-drug-discovery-market-is-expected-to-reach-40-billion-marketsandmarkets.md",
-      "title": "AI in Drug Discovery Market is Expected to Reach $4.0 billion | MarketsandMarkets.",
-      "excerpt": "AI (Artificial Intelligence) is poised to revolutionize the drug discovery industry in the near future, offering immense potential to accelerate and enhance the process of",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32613837/ai-in-drug-discovery-market-is-expected-to-reach-4-0-billion-marketsandmarkets",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32613837/ai-in-drug-discovery-market-is-expected-to-reach-4-0-billion-marketsandmarkets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32613837",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32613837",
-      "publishedDateTime": "2023-05-29T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

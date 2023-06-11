@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-08T18:37:00Z
 originalUrl: "https://venturebeat.com/ai/photoroom-google-cloud-partner-democratize-generative-ai-photo-editing/"
 webUrl: "https://venturebeat.com/ai/photoroom-google-cloud-partner-democratize-generative-ai-photo-editing/"
 type: article
-quality: 45
+quality: 67
 heat: -1
 published: false
 
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/06/PhotoRoom-banner-1x.png?w=1200&strip=all"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Google’s generative AI support in Vertex AI is now generally available"
@@ -184,6 +191,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "OYi9D5M9b+aZp/7sb+1RtEJGj8ofUviXU6LRzNOn809Cc/mWzUOmj+K5ZOcrR5Be8sNJoz7y/3/W7vxkUgof9/EgLOwVDLm1YUG/vjdcYylEU6OfHM+0Fusf/3XDzz8wY77li2YK1KMUN4JGVQ2n/2WdB4wAklf3IAZ5+zq906hiW8hBXhEzHQwNqvxwEQZR4OXDLOZsoVDIyMFSGQprOKB8fl2FugDV/dTDnFTCmnXpau3R5sC2yDQhh1n9Btx7ZLVH69Uf8hLhHrgqUvYEcA+/8Kv4OsP9dE5qbwQrcM9Ltaudr3ft1TmcE8lyVYRup/smVEKfZ3CfyNVh3goSAXSKR5EcAqkMHVi48L0oNEc5Q2Ltc5y37Q7myIRhp0pjfHKGHnyYRYteq20NN4ijkKMyNJYUcxmzPxCqNcgEySCU+7Lui3TCxI6d+jUWr8JLI5AcgZbsCE7V08ARSc75DegovfeIk7szfXFrBLrrLEhBQ8bqIKkd+CFntcnb6Azf0ArlwCSA6xmkIeQux8pTOg==;5cS6HXvOjsCuPg9Upqh2gg=="
+secured: "ulQs6LsK/hZBlWSKuRaej6jMZkpVBOhWq1MbpPAHXIl4PVKAZKhhXpjX+aheQePxdyU/l1f7tDNTkc2AbUUywmGZC3y2LIhf2i6BvVCfBbLU1nVL4xzUAywcKUsUmFdn2arScix+A1OHBf8z0g69X7bvRkQnmt4Jr6sZSobK1I/4kbK4U/O6Wvo45NHSXbstViJ15oPGKrImya/rM4R2ttotBLpvAvWAHdV/olp3BKQRDz0G2LFZTlEPFlpys14YtJXLwBd78pRwD6K5pqyi5Jb5wvJP+RfEwbM9u5yVNt9hrrlfupIIrHIouKxtFek+WG5V35NUD+gW7SsFi7X7NDtxnJBHE/45ybnWOlIgjSo=;XyJ1NPnnKF7Z9pPQ3/VB7w=="
 ---
 

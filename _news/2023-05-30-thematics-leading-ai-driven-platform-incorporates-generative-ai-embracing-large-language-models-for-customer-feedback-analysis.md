@@ -2,19 +2,19 @@
 category: news
 title: "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis"
 excerpt: "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients."
-publishedDateTime: 2023-05-30T10:14:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article275901341.html"
-webUrl: "https://www.sacbee.com/press-releases/article275901341.html"
+publishedDateTime: 2023-05-30T11:14:00Z
+originalUrl: "https://www.charlotteobserver.com/press-releases/article275901341.html"
+webUrl: "https://www.charlotteobserver.com/press-releases/article275901341.html"
 type: article
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Charlotte Observer
+  domain: charlotteobserver.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "Ko1Sb9nS20RYoHwR+j1TJ6OwVTz2j0+nQAbe6gs8cx8XF9BZ4oDWj6xbhXxVmd2KvEA2sZUFWO+XGPfv6+CX1UB4EthI1LiweViPrMSfXlSwi03oPa3aYLzC+7jz2khfpMOTAdn32ol2yaWlepbSjeHJlvCSgtD6QlIer00RCecibySWtrumQaJRZUbfxpgiwL/INvsp0T6GQgfSUuKaeRkUBuNQZUvY8I0Iui3C+1NivSX4La7sIEyecjZketrPGWYAHVGtxhDOkyIWg9ffZiD5NFtK3ZX+e0uW2WYXx9VMt2udlNLvIXjebsE0ZkIz4PjYlPEwP3Kt6f8prK7pwSl5KB2JKuUT1ldaYYS9lQhzsrb7DnYVTbTYVTICRWhZjs5otpY4tp3R5Zn9IMX+uZImD+uLIVl3/jcsQvGPWAhimtAN8GF5iAmQMoFAKWrxiugxD4rQFJX6Wr9wNpolp/I2VWNUjw5fX3Kzpy24Tk5hNFXFXH1nfCubo05qvm1sVAFxC5eZCFOvdFD7JtMHzw==;P2Ox78i1KS97oszTIgwU+w=="
+secured: "L7vhDtSwoh3WGbJ8xH9I/sUsFdQDyKttuDKzegIeusIOy20Rcq+fe8irAUwwWTWCS0FfcJo2z2RtvCDfNDMvLDPAEvt8YNAePi3oamx4Gji0Wm/qFrDrwVm+F4Ve6H09quXabVV63ilOf1DEHao/1uyvXZNJowyxbvQ9yrH6ks5PN0fA1Hwz1YTvq5GTc+l64R1sB806SnJ7vuIZ6R1OREwFKLduMmp/QGE0jVTMwqLYX5Q6zkBwy79JjjkzT+sRFg+Z89jUZHWW0olm3OEsqnaZBWoRwb0k0wGZT5ZjcghT8bmV47vDmSOdiWCYygG5OPAZHl/y1jBnwirJr08KArG/nFMMHgEIhFV7wjtvprhh4Y2kQCsp6vKByLRsPVD3fZOyCcWsRSZLYbbdlex9wVljpXxl3TLBsF8nuwoREgdY/z/jYcHQcTFRp5dtLFFDN0sWFbx9JCd3Xf+CslTtvOrtYwrSJaaNJrV92MztsbHYbGGOT3ng81fOKjrvDAGJGvmE6dfbEmdvLbjD2EHjnw==;XjcenIyip7gPCwViWT9bsw=="
 ---
 

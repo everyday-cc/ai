@@ -2,6 +2,152 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-02-is-generative-ai-a-friend-or-foe-to-pr-practitioners.md",
+      "title": "Is Generative AI A Friend Or Foe To PR Practitioners?",
+      "excerpt": "The capabilities of AI are impressive and guaranteed to advance at light speed, but don’t hang your communications hats up just yet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6478b9c953bca67d1aa62ddd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/amp/",
+      "publishedDateTime": "2023-06-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-nowhere-for-investors-to-hide-from-ai-hype.md",
+      "title": "Nowhere for Investors to Hide From AI Hype",
+      "excerpt": "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7",
+      "originalUrl": "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-792763/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-robots-could-go-full-terminator-after-scientists-create-realistic-self-healing-skin.md",
+      "title": "Robots could go full 'Terminator' after scientists create realistic, self-healing skin",
+      "excerpt": "Armoring an artificial intelligence-powered robot with life ... that will be used to assist with household duties, while a robotics startup backed by OpenAI is working to commercialize humanoid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/robots-full-terminator-scientists-create-realistic-self-healing-skin",
+      "originalUrl": "https://www.foxnews.com/tech/robots-full-terminator-scientists-create-realistic-self-healing-skin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-rise-of-ai-to-give-freshers-an-edge-impact-of-artificial-intelligence-on-education-jobs-exclusive.md",
       "title": "Rise of AI to Give Freshers an Edge! Impact of Artificial Intelligence on Education, Jobs [Exclusive]",
       "excerpt": "The rise of AI has its pros and cons. With one of the major cons being the threat to job availability for freshers, experts have shared with the rise of ChatGPT and other AI tools, freshers are actually at an advantage!",
@@ -1049,152 +1195,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-taskus-shares-rise-on-launch-of-ai-customer-service-app.md",
-      "title": "TaskUs Shares Rise on Launch of AI Customer Service App",
-      "excerpt": "By Sabela Ojea Shares of TaskUs on Thursday rose after the company said it launched a generative AI customer service application named TaskGPT. At",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
-      "originalUrl": "https://www.marketwatch.com/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
-      "publishedDateTime": "2023-06-01T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control.md",
-      "title": "Asus plans on-site ChatGPT-like AI server rentals for privacy and data control",
-      "excerpt": "Taiwan's Asustek Computer (known popularly as \"Asus\") plans to introduce a rental business AI server that will operate on-site to address security concerns and data control issues that come from cloud-based AI systems,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/asus_hero_3-800x427.jpg",
-          "width": 800,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/",
-      "publishedDateTime": "2023-06-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-2-chip-stocks-that-jp-morgan-says-could-dominate-the-critical-ai-market.md",
-      "title": "2 Chip Stocks That J.P. Morgan Says Could Dominate the Critical AI Market",
-      "excerpt": "J.P. Morgan says two chip stocks will do well riding the rising demand for custom-designed semiconductors: Broadcom and Marvell Technology Already a subscriber? Sign In",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/broadcom-marvell-technology-chip-stock-ai-66c05d9b",
-      "originalUrl": "https://www.barrons.com/articles/broadcom-marvell-technology-chip-stock-ai-66c05d9b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-792379/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/broadcom-marvell-technology-chip-stock-ai-66c05d9b",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/broadcom-marvell-technology-chip-stock-ai-66c05d9b",
-      "publishedDateTime": "2023-06-01T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

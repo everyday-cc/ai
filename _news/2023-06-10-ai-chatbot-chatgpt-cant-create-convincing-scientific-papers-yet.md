@@ -84,22 +84,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Financial Chatbots: Enhancing Customer Service and Engagement in Fintech"
-    excerpt: "Enhancing Customer Service and Engagement in Fintech In the fast-paced world of fintech, customer service and engagement have become crucial factors for success. To meet the evolving needs and expectations of customers,"
-    publishedDateTime: 2023-06-07T04:41:00Z
-    webUrl: "https://www.globalbankingandfinance.com/financial-chatbots-enhancing-customer-service-and-engagement-in-fintech/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/financial-chatbots-enhancing-customer-service-and-engagement-in-fintech/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/financial-chatbots-enhancing-customer-service-and-engagement-in-fintech/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 43
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/iStock-1364072782.jpg"
-        width: 750
-        height: 474
-        isCached: true
   - title: "AI chatbots offer comfort to the bereaved, ethics notwithstanding"
     excerpt: "Thanks to generative artificial intelligence, avatars of departed loved ones can now convey things they never said when they were alive."
     publishedDateTime: 2023-06-08T07:32:00Z

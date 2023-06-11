@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 923
         isCached: true
-  - title: "Artificial Intelligence Regulation, Why Experts Are Calling For Slowing Down AI: AI Series 4 Of 5"
-    excerpt: "Unchecked artificial intelligence development could lead to large potential threats for humanity and negative consequences. Learn why experts want to slow down AI."
-    publishedDateTime: 2023-06-07T03:51:00Z
-    webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/06/artificial-intelligence-regulation-why-experts-are-calling-for-slowing-down-ai-ai-series-4-of-5/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/06/artificial-intelligence-regulation-why-experts-are-calling-for-slowing-down-ai-ai-series-4-of-5/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/06/artificial-intelligence-regulation-why-experts-are-calling-for-slowing-down-ai-ai-series-4-of-5/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64781e7ad5a222cb969b8c19/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 754
-        isCached: true
   - title: "How to Navigate the Hidden Risks of AI and Digitization"
     excerpt: "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ..."
     publishedDateTime: 2023-06-08T17:42:00Z
@@ -191,20 +175,6 @@ related:
       - url: "https://static.israel21c.org/www/uploads/2023/05/COVER_courtesy_of_Session_42_s_Facebook.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Cases of ‘sextortion’ using artificial intelligence on the rise, FBI says"
-    excerpt: "As technology continues to advance, suicides among victims of sextortion are also said to be on the rise. That’s according to federal agents who say criminals are finding new, sophisticated ways to target innocent victims. Officials are also emphasizing ways to fight back."
-    publishedDateTime: 2023-06-07T02:54:00Z
-    webUrl: "https://www.click2houston.com/news/local/2023/06/07/cases-of-sextortion-using-artificial-intelligence-on-the-rise-fbi-says/"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 36
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/06-07-2023/t_c8639fb1d1024e4385df268070ed78e0_name_image.jpg?_a=ATCqVhC0"
-        width: 700
-        height: 394
         isCached: true
   - title: "The Ethics of Using Generative Artificial Intelligence in the Practice of Law"
     excerpt: "Understanding how generative AI solutions collect, store and use the information that ... certainly will not be sufficient to rise to the level of expected competence by ethics officials. In other words, arguing that the information provided by ChatGPT ..."

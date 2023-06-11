@@ -128,6 +128,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Artificial Intelligence Office organises AI-Enabled Entrepreneurs conference in collaboration with NVIDIA"
+    excerpt: "The conference aimed to introduce the latest innovations and developments in the fields of Generative Artificial Intelligence, Metaverses and robotics, and highlight the \"NVIDIA Inception\" programme. The conference further celebrated the success stories of ..."
+    publishedDateTime: 2023-06-11T15:48:00Z
+    webUrl: "https://www.emirates247.com/uae/artificial-intelligence-office-organises-ai-enabled-entrepreneurs-conference-in-collaboration-with-nvidia-2023-06-11-1.712994"
+    type: article
+    provider:
+      name: Emirates247
+      domain: emirates247.com
+    quality: 17
   - title: "Nvidia and Oracle back $270M funding round for generative AI startup Cohere"
     excerpt: "Generative artificial intelligence startup Cohere Inc. today announced that it has raised $270 million in funding from a group of prominent tech investors. The investment, a Series C round, included the participation of Nvidia Corp."
     publishedDateTime: 2023-06-08T19:33:00Z

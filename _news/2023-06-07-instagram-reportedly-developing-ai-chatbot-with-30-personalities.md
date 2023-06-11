@@ -74,22 +74,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Financial Chatbots: Enhancing Customer Service and Engagement in Fintech"
-    excerpt: "Enhancing Customer Service and Engagement in Fintech In the fast-paced world of fintech, customer service and engagement have become crucial factors for success. To meet the evolving needs and expectations of customers,"
-    publishedDateTime: 2023-06-07T04:41:00Z
-    webUrl: "https://www.globalbankingandfinance.com/financial-chatbots-enhancing-customer-service-and-engagement-in-fintech/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/financial-chatbots-enhancing-customer-service-and-engagement-in-fintech/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/financial-chatbots-enhancing-customer-service-and-engagement-in-fintech/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 43
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/iStock-1364072782.jpg"
-        width: 750
-        height: 474
-        isCached: true
   - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
     excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."
     publishedDateTime: 2023-06-09T17:00:00Z

@@ -2,9 +2,11 @@
 category: news
 title: "We’re still waiting for self-driving cars, but autonomous boats are already here"
 excerpt: "Fully self-driving cars have been promised for years, but despite numerous road trials and advances in technology, we’re still waiting. In 2016, Lyft predicted that most of its rides would be ..."
-publishedDateTime: 2023-05-26T08:32:00Z
-originalUrl: "https://edition.cnn.com/travel/article/autonomous-boats-spc-intl/index.html"
-webUrl: "https://edition.cnn.com/travel/article/autonomous-boats-spc-intl/index.html"
+publishedDateTime: 2023-05-26T09:49:00Z
+originalUrl: "https://www.cnn.com/travel/article/autonomous-boats-spc-intl/index.html"
+webUrl: "https://www.cnn.com/travel/article/autonomous-boats-spc-intl/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/travel/article/autonomous-boats-spc-intl/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/travel/article/autonomous-boats-spc-intl/index.html"
 type: article
 
 provider:
@@ -19,6 +21,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "jbmWdeotE9VdgdXRpCVzBHh9iXLW+MFiDvtu7wSmM071XbPjENTcavETWcy5TwyV5kt8K6OrUTXknBRQJbJi/Rj+C36CFI2xSnqG66VW9qVtf/6oKn1Bn5AKzzQsBqP+nxmClagppeauSLpbC4x43goIVjhrrTMPUwYJ4jHXznri5O8QBfy5I+neZn4HkLskiIsLJt3BDSKyGNRJTHZUHQJiPFbeK64m0DdfEHDderFIWCk26iLVGNxWSFanFp30qRtYFj4RpYaNEddWxV8wedDdzYiuTa6N2QwPBqeuWnBpBozhUhIQqhpuruIux/fplbGFWyBDbEeHZ81ABSM6SmgKw4jEu7F9d3Ed/54uG0A=;7JyPWyyjTFeW+zAZWcqERg=="
+images:
+  - url: "https://media.cnn.com/api/v1/images/stellar/prod/230524161415-self-driving-boats-spc-intl-2.jpg?c=16x9&q=w_800,c_fill"
+    width: 800
+    height: 450
+    isCached: true
+
+secured: "PjbSE/Zm0ZlkwGGK/nZB4NJisRKAVqHN+KMMTnS/2IQuOqG15enRYqu4INjxZdHsLHK05K8LEOA1pqWZzXyupHOf1fJAoBH5O2XLYVXouN1gyHniNiT4tYaM8OXyOdMGRmmsypwyjGGEtKSrJLIUjgz52k2h5kUUNZdKh4FemdvNmjHVf55Mg8UqoQ6smbdhgl8rLlrjqygXbn6YIHJf9uVGxS07ihdd3SyEbr93TRUH0bf2xzsQ1G7O/ZNGeWrieY6C/qVPGz1edicShU5HcnCCYprjaC/CTu1lP5o39xHAr9etdWcWYic/kHo0CvIqwANKJYDejLh8l5rfeduwrp6kzHqdoArL80/dJvKahEo=;i1JMT45W7WsCNxWmZpUWGg=="
 ---
 

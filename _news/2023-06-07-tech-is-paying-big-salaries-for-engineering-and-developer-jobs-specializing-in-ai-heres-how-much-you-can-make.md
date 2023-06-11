@@ -93,20 +93,6 @@ related:
       name: WWT
       domain: wwt.com
     quality: 33
-  - title: "CORRECTING and REPLACING Clarify Health Launches Generative Artificial Intelligence, Clara"
-    excerpt: "Contact us at clara@clarifyhealth.com to learn more about the closed beta program for Clarify's new generative artificial intelligence, Clara. (Graphic: Business Wire) The updated"
-    publishedDateTime: 2023-06-07T01:16:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_454b3320-9f48-5ddd-9604-7e382f1d2672.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 29
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/5/b0/5b049543-b15f-5826-a8e9-166988596f31/647fdd7855695.image.jpg?crop=1019%2C535%2C2%2C0&resize=1019%2C535&order=crop%2Cresize"
-        width: 1019
-        height: 535
-        isCached: true
 
 secured: "WQiMz2dZ0IL88cnI/NbxaGPvEEWE0EIZ1IiJDJSsp5PyHpbTGkuBCw/UsP/AzTDghuZ8mpgh1fgaD3zGDOe5GzwhAmmZUILh1BCHQiY/+9q91dwPY4+Qk87fyURoAWCsM4qxwzr2S59rtp9zweMK3MigmC8n6bb+XuJ+cfkoaRDQMbVCRtafgjeo1pXFCFAuYFN0oeU0mCJIDtu5qakhpCJJyY1QxP6TliBT67BazXdSVSLo9VxaAArvY0tvYUTX22W88WgxUlkd8f18qABT+Vzsy442KVPuuR6IKgG3fVD+MHa21h7VrDrmbQVb/413SRsUvB0M+66BjE6hKY+6GzR7Z6H/4GrsCN4OMIVDN/vksapyKHYEWqDM5ILcWylc+JhcZfhNzoIIi3xF5iu+cJJhbVrr2LjZyFWkcccZM93Kpii06CzPLlHRx7BjnZW1HGmtV/S91ezGfDcpIWKLGI7ZG3bY0Ugd9UvaYJThHsVqVs9rF/IaXs3klpPNrdklPVlRWmcfJ7YPGwLp4fYbGA==;uCu6h2Bm/tyZkh2p2mIUQw=="
 ---

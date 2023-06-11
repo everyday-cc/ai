@@ -7,7 +7,7 @@ originalUrl: "https://www.spectator.com.au/2023/06/vote-liberal-vote-no-for-an-i
 webUrl: "https://www.spectator.com.au/2023/06/vote-liberal-vote-no-for-an-indigenous-voice-to-parliament/"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Vote Liberal? You should vote yes for an Indigenous voice to parliament"
-    excerpt: "A voice to parliament is fair, practical and constitutionally safe, making it well-aligned with Liberal values"
-    publishedDateTime: 2023-06-07T04:02:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jun/07/vote-liberal-you-should-vote-yes-for-an-indigenous-voice-to-parliament-referendum"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/07/vote-liberal-you-should-vote-yes-for-an-indigenous-voice-to-parliament-referendum"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/07/vote-liberal-you-should-vote-yes-for-an-indigenous-voice-to-parliament-referendum"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/31c6154f4c2e8e60a2d17a8959ddc9241de74619/0_275_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=d2e2e2bfadb035dc0cc0489fde75e152"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Indigenous voice to parliament can complete the unfinished business of the 1967 referendum"
     excerpt: "Australians last voted in a referendum to improve the lives of Indigenous peoples in 1967. That poll erased racially discriminatory wording from the Constitution and enabled the commonwealth to make laws for Aboriginal peoples."
     publishedDateTime: 2023-06-11T13:20:00Z

@@ -106,7 +106,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -575,8 +575,8 @@
       "title": "Netsmart and nVoq partner to deliver integrated speech recognition to tackle the documentation challenge for in-home healthcare clients",
       "excerpt": "As part of the partnership, Netsmart becomes the authorized reseller of the nVoq speech recognition products for Netsmart clients. The cloud-based speech recognition technology will be seamlessly integrated within the Netsmart myUnity EHR solution,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/06/9827449.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/06/9827449.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -595,7 +595,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:02:00-07:00",
+      "publishedDateTime": "2023-06-06T06:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -1223,6 +1223,40 @@
       ]
     },
     {
+      "path": "_news/2023-05-30-thematics-leading-ai-driven-platform-incorporates-generative-ai-embracing-large-language-models-for-customer-feedback-analysis.md",
+      "title": "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis",
+      "excerpt": "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
+      "originalUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-five-next-level-marketing-uses-for-ai.md",
       "title": "Five Next-Level Marketing Uses For AI",
       "excerpt": "Tom Wozniak heads up Marketing and Communications as the COO for OPTIZMO Technologies.",
@@ -1273,40 +1307,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-thematics-leading-ai-driven-platform-incorporates-generative-ai-embracing-large-language-models-for-customer-feedback-analysis.md",
-      "title": "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis",
-      "excerpt": "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/press-releases/article275901341.html",
-      "originalUrl": "https://www.sacbee.com/press-releases/article275901341.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {

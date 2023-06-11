@@ -89,20 +89,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "CORRECTING and REPLACING Clarify Health Launches Generative Artificial Intelligence, Clara"
-    excerpt: "Contact us at clara@clarifyhealth.com to learn more about the closed beta program for Clarify's new generative artificial intelligence, Clara. (Graphic: Business Wire) The updated"
-    publishedDateTime: 2023-06-07T01:16:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_454b3320-9f48-5ddd-9604-7e382f1d2672.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 29
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/5/b0/5b049543-b15f-5826-a8e9-166988596f31/647fdd7855695.image.jpg?crop=1019%2C535%2C2%2C0&resize=1019%2C535&order=crop%2Cresize"
-        width: 1019
-        height: 535
-        isCached: true
 
 secured: "G2SUF0K8nhs4tD1DbtvhiEJEfjHkVUL+bZpkpPuRno5YLIqoiiPFlRGBBJO9Xk62ggbkomIsKApt9Ay7H08Fw2RGrnRbQs+yZKqaWfipSwg64U8otP4+kbTrAoXI7qWXT4qsgWh4+A4AMfb9Sx+nMmeqvs+Wx3ZM1XHyYbS+0ofW9f+mgT3IShk9+wXeNYKvj4esYg101v1U23+J8td1cPWyIfwt8lPjdtEFEBJueYEq0T8kR0oXU6yJiR51vXmPB8lEsTtxG/4O6Js4EgeO41zOOhXJ+EOr0WjePUGdFzSpOyw9CQHLLN8YHYstP/0zFvrUrOye7X83jzokHGXnFW7+2ZWZ1TDK77XzCd/oqS+jPjvGGx/Pg+rz13jlWfdBSRhKT6cSuSb2nFUDsqkGEQC1dQuNutupCSffEz9oj4QcF6l6zf+c1BTaQZQTkZQnIvi7N8krVcZ7Acq+lto8sV0n2MsLnHQEvMG02jz07x7GGtMJ8YIu1zF2vJlSWSL/JFY9HV+tcImJZTIuyrJjKw==;4/FtH4eEoZVO96wo3zH1dw=="
 ---

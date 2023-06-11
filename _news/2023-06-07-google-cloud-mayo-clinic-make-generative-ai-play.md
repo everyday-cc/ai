@@ -79,6 +79,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "PhotoRoom, Google Cloud partner to democratize generative AI photo editing"
+    excerpt: "PhotoRoom says its generative AI capabilities and Google Cloud partnership will speed production of product photography content."
+    publishedDateTime: 2023-06-08T18:37:00Z
+    webUrl: "https://venturebeat.com/ai/photoroom-google-cloud-partner-democratize-generative-ai-photo-editing/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/PhotoRoom-banner-1x.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Typeface expands customized generative AI approach with Google Cloud partnership"
     excerpt: "A new partnership will directly integrate Typeface with Google Workspace to support specific enterprise generative AI use cases."
     publishedDateTime: 2023-06-07T10:00:00Z
@@ -102,15 +116,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "PhotoRoom, Google Cloud partner to democratize generative AI photo editing"
-    excerpt: "PhotoRoom says its generative AI capabilities and Google Cloud partnership will speed production of product photography content."
-    publishedDateTime: 2023-06-08T18:37:00Z
-    webUrl: "https://venturebeat.com/ai/photoroom-google-cloud-partner-democratize-generative-ai-photo-editing/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
   - title: "Intuit reveals generative AI system across its platforms"
     excerpt: "The AI will have custom-trained financial language models specialising in solving, tax, accounting, cash flow and personal finance challenges."
     publishedDateTime: 2023-06-07T20:56:00Z

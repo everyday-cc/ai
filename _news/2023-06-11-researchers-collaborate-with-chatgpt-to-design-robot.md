@@ -41,6 +41,22 @@ related:
         width: 980
         height: 536
         isCached: true
+  - title: "Samsung's chip division to introduce custom AI Services for employees"
+    excerpt: "Samsung Electronics reportedly plans to launch an in-house artificial intelligence-based service for internal use this year amid security concerns raised over OpenAI’s highly-advanced chatbot ChatGPT,"
+    publishedDateTime: 2023-06-11T06:51:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20230611000126"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20230611000126"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230611000126"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 74
+    images:
+      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F06%2F11%2F20230611000114_0.jpg"
+        width: 630
+        height: 408
+        isCached: true
   - title: "Sam Altman: The man behind the AI sensation across the globe, ChatGPT"
     excerpt: "ChatGPT: OpenAI co-founder Sam Altman says that artificial intelligence might kill jobs but it is not a permanent job killer"
     publishedDateTime: 2023-06-08T13:45:00Z
@@ -56,22 +72,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/16/full/1684251299-6933.jpg"
         width: 3500
         height: 2332
-        isCached: true
-  - title: "‘What should the limits be?’ The father of ChatGPT on whether AI will save humanity – or destroy it"
-    excerpt: "Sam Altman is among the most vocal supporters of artificial intelligence, but is also leading calls to regulate it. He outlines his vision of a very uncertain future"
-    publishedDateTime: 2023-06-07T04:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/d67dc626115d9507a3876fefd572a1fd9bb33481/0_116_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=46f7d7637665f0421a5914ebe539dc77"
-        width: 620
-        height: 372
         isCached: true
   - title: "Aprimo Introduces AI Content Coach with ChatGPT"
     excerpt: "Aprimo, a provider of digital asset management and marketing resource management solutions, has launched AI Content Coach, a content creation tool powered by Microsoft Azure OpenAI Service and ChatGPT. The interactive assistant seamlessly integrates with ..."

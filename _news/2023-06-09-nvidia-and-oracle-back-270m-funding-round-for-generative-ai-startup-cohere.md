@@ -135,6 +135,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Artificial Intelligence Office organises AI-Enabled Entrepreneurs conference in collaboration with NVIDIA"
+    excerpt: "The conference aimed to introduce the latest innovations and developments in the fields of Generative Artificial Intelligence, Metaverses and robotics, and highlight the \"NVIDIA Inception\" programme. The conference further celebrated the success stories of ..."
+    publishedDateTime: 2023-06-11T15:48:00Z
+    webUrl: "https://www.emirates247.com/uae/artificial-intelligence-office-organises-ai-enabled-entrepreneurs-conference-in-collaboration-with-nvidia-2023-06-11-1.712994"
+    type: article
+    provider:
+      name: Emirates247
+      domain: emirates247.com
+    quality: 17
 
 secured: "/0oZE33CLYftEMkxXJBSLEEnZC/NmZ2wicNKYa5Nb66euju/Fh/vyZJ61sjWcWICjMw0cz857LK8V9nvbkAv0+/wVUdpJI7ZvN8GdsO/6MdUjtdmYU9pYlPc6FQYLxgbTn0drbh5Zua48vWhehD5FUkBl9Q8pVcu7SqKtd+ypQJBhEiRAPGPtqHdOlUhdaPWp2kDohDPe97/UmtZomBuQCm2WbRujbj+SrHq5Iu7PELygZbzvSg8Dj36e7wdcCvt8988MOXegzZTKCi8eG210iGzvxCRsaATR4AATZDmVkZ4bV1kka/i8ggIXqzhTb/I2TiwPobFKBezadL6TEOtdilr3Wsy1UbNur3e4qNtQbFwTyowa6nndu2Ku9uYgwCaLbRT9vl/EXn43+BOLAMvW193PXLrEKlBdYyMfz9zDaaYj8T4eRMlWnX+VUf/Bw1pR+dCsspOtsJEJq7Wy5JzjrdUw4uPtPl1qGviOe9fTwgpNxGlyirUxwaPXDS6dc9miFB25HM51f7oSkeNLAiLFg==;n+2+sLivVGyOHWeotDJ/Eg=="
 ---

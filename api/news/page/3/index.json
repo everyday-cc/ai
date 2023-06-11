@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-08-hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government.md",
+      "title": "Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence to accelerate AI adoption in government",
+      "excerpt": "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Chairman of The Executive Council of Dubai and Chairman of the Board of Trustees of the Dubai Future Foundation, t",
+      "sourceUrl": null,
+      "webUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890",
+      "originalUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.emirates247.com/polopoly_fs/1.712892.1686234760!/image/image.jpg",
+          "width": 2048,
+          "height": 1362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout",
+      "cdnAmpWebUrl": "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout",
+      "publishedDateTime": "2023-06-08T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Emirates247",
+        "domain": "emirates247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-exploring-how-the-human-brain-and-artificial-neural-networks-assemble-knowledge.md",
       "title": "Exploring how the human brain and artificial neural networks assemble knowledge",
       "excerpt": "As humans explore the world around them and experience new things, they innately start to make sense of what they encounter, creating mental connections between the objects, people, places, and events they encounter.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-06-exploring-human-brain-artificial-neural.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -461,7 +504,7 @@
       "originalUrl": "https://www.zdnet.com/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -502,6 +545,57 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-for-banks-ai-is-like-having-an-army-of-interns.md",
+      "title": "For Banks, AI Is Like Having an Army of Interns",
+      "excerpt": "On this episode of In the City, we show why New York leads the search for humans to command those robot troops, with London not far behind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-08/podcast-for-banks-ai-is-like-having-an-army-of-interns",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-08/podcast-for-banks-ai-is-like-having-an-army-of-interns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Vn8ucvSg3s/v0/1200x799.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1155,102 +1249,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks.md",
-      "title": "Here's one thing AI can do for 3 of our mega-cap tech stocks",
-      "excerpt": "A series of recent deals, announcements and upgrades involving three major cloud-computing names all share a common thread: Artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html",
-      "originalUrl": "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106207351-1572269966772gettyimages-1135936133.jpeg?v=1686171192&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-accelerate-pytorch-with-deepspeed-to-train-large-language-models-with-intel-habana-gaudi-based-dl1-ec2-instances.md",
-      "title": "Accelerate PyTorch with DeepSpeed to train large language models with Intel Habana Gaudi-based DL1 EC2 instances",
-      "excerpt": "Training large language models (LLMs) with billions of parameters can be challenging. In addition to designing the model architecture, researchers need to set up state-of-the-art training techniques for distributed training like mixed precision support, gradient accumulation, and checkpointing. With",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-pytorch-with-deepspeed-to-train-large-language-models-with-intel-habana-gaudi-based-dl1-ec2-instances/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-pytorch-with-deepspeed-to-train-large-language-models-with-intel-habana-gaudi-based-dl1-ec2-instances/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T11:42:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Facebook AI"
       ]
     }
   ],

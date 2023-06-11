@@ -41,7 +41,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
         width: 2560

@@ -2,6 +2,103 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-17-chinas-baidu-beats-earnings-estimates-as-chatbot-awaits-govt-approval.md",
+      "title": "China's Baidu beats earnings estimates as chatbot awaits govt approval",
+      "excerpt": "Revenue from Baidu Core, which includes search-based advertising sales, cloud offerings and its autonomous driving initiatives, grew 8% to 23 billion yuan. Of this, revenue from Baidu's largest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-ad-strength-2023-05-16/",
+      "originalUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-ad-strength-2023-05-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/cakgkHqZr9houohLH-9MtAb94wU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HNYL5IOH5FM2POOZDSKBQ7LIJI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-trying-to-make-sense-of-artificial-intelligence-heres-your-guide.md",
+      "title": "Trying to make sense of artificial intelligence? Here’s your guide",
+      "excerpt": "ChatGPT came on the scene as something different. Not only could it answer a seemingly unlimited number of questions, but it could also write screenplays, summarize huge amounts of information and imitate a human in conversation somewhat convincingly. It immediately seemed, at a minimum, that it could one day make everyday life more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-to-rcna77889",
+      "originalUrl": "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-to-rcna77889",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-ai-explainer-lr-5c8005.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna77889",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna77889",
+      "publishedDateTime": "2023-05-16T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down.md",
       "title": "Tesla’s “Full Self-Driving” sees pedestrian, chooses not to slow down",
       "excerpt": "But alarmingly, a video posted to Twitter over the weekend shows that although the Tesla system can see pedestrians crossing the road, a Tesla can choose not to stop or even slow down as it drives past.",
@@ -1316,101 +1413,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ai-dude-the-most-sophisticated-artificial-intelligence-technology.md",
-      "title": "AI DUDE: The Most Sophisticated Artificial Intelligence Technology",
-      "excerpt": "The AIDUDE company is proud to announce the launch of its latest innovation, Ai Dude, which utilizes the most sophisticated Artificial Intelligence (AI) technology to provide businesses with a powerful tool for content creation and optimization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-dude-the-most-sophisticated-artificial-intelligence-technology-2023-05-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-dude-the-most-sophisticated-artificial-intelligence-technology-2023-05-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-driving-profitable-business-growth-5-areas-for-cfos-to-explore.md",
-      "title": "Driving Profitable Business Growth: 5 Areas For CFOs To Explore",
-      "excerpt": "In this new world, business leaders should not forget about the other side of the coin, growth, which drives companies forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/08/driving-profitable-business-growth-5-areas-for-cfos-to-explore/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/08/driving-profitable-business-growth-5-areas-for-cfos-to-explore/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fb69234ea23938ddf5c154f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/08/driving-profitable-business-growth-5-areas-for-cfos-to-explore/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/05/08/driving-profitable-business-growth-5-areas-for-cfos-to-explore/amp/",
-      "publishedDateTime": "2023-05-08T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
