@@ -80,6 +80,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
+  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
+    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
+    publishedDateTime: 2023-06-09T18:39:00Z
+    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
+    type: article
+    provider:
+      name: WWT
+      domain: wwt.com
+    quality: 33
 
 secured: "NdnMntq3Kt+eBxT+Tp5pWBWLOQvAOVZno8cUvLzZ4VD75zogAH9IicNNAw2gE2ZjVY1kMN6Bt52v8aj4s/qcvaIyWz6w/yTbNpqfBDoxulsc5jvDaiKVEqnM+10YDFXMp5YMIbjV+ingW2oegQdwNcbsKEIM2+A8RjKLd8MbpqFUMn4/V2WBMCyh+3SZRTvBUmJoCzZHJgH+LzXK1nLr/4t8oMfXV6zzXxE+5k0VBBzVnEtlc23HfjoSh9kq6VqmFdX+nepPymgWykuCzvgg7Ik65GkPGAe+Yi3Cnjg+ZcrjJ5CEvq859Z3c0FSbt7ip6KfSu9hYsElmV5KpPerqtVm8joZGeLRmagVtW9n3KfJB6gXB2Fy45S0ZQ5vWnMO9UzKbZhlXvL5F54doN9T02iVELquVo6sucK2LOrlhhcfP/TanRDWwxQu6P6B+IRfW3j15ytz6i2VYae3dGx9G+V2zRpkey75X6+boBKHjminmT5tQJOYpELAw3e3k/lTn2pEwON5Dd0UJ5O69iV++fQ==;dBsmM5h42bChwgCFoTixLA=="
 ---

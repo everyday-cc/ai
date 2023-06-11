@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple Vision Pro headset: what does it do and will it deliver?"
-    excerpt: "In terms of technical specifications, the Vision Pro is impressive. It uses a combination of the M2 microchip and a new chip called the R1. M2 is running visionOS, which Apple calls its first spatial operating system, along with computer vision algorithms and computer graphics generation."
-    publishedDateTime: 2023-06-06T18:03:00Z
-    webUrl: "https://theconversation.com/apple-vision-pro-headset-what-does-it-do-and-will-it-deliver-207125"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 4
 
 secured: "0ynpLMEhWC3XWnmRdvjzzQaFdhl+Pqhg2U7fjAITPN2MIUmfsE/HIeflWA0RS+0K1ucsQXgzcdwyo/5ctziJxEqofpessrv+Q4XUoyu1KncpJW7Fs3RerMhxBagytsX1hBPyVvYSWBe2/lfEsnmpYU5vtTtFwrTrbGVQKZYOokvN1/ibPiSpiDmLnfV8u5TS7VWGjKs1RtnOTsFJBTInWR41ombLYiSGHtuxbR4Fjbf30D6AFsr7wvr/Vy8cseEgSE0yl2PNF4lMnedW4OpiGFE+bGQ4SmVzA+SvKSG5II5UNrCs5PAMA+Kd6742mkfFAwVBgMCJtsljfy2akMxrB2elDtLEZy98Kjj84uGW3Js=;XU3pHPWgaVSCsFWu8CMCEw=="
 ---

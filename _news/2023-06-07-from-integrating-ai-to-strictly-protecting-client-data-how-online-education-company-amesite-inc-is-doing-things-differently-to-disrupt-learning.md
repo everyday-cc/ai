@@ -151,15 +151,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "How AI is Transforming Music Creation in Web3"
-    excerpt: "Warner Music Group chief digital officer and executive vice president of business development Oana Ruxandra told CoinDesk’s The"
-    publishedDateTime: 2023-06-06T17:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/how-ai-is-transforming-music-creation-in-web3-1032373862"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Increasing focus on AI is driving demand for empathetic women leaders"
     excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
     publishedDateTime: 2023-06-11T01:50:00Z

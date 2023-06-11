@@ -54,15 +54,6 @@ related:
         width: 2606
         height: 1450
         isCached: true
-  - title: "Policymakers Need To Deal With Real AI Challenges"
-    excerpt: "Policymakers need not and should not wander off into misty realms where autonomous AI programs spin out of control and threaten human survival."
-    publishedDateTime: 2023-06-06T18:40:00Z
-    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/06/policymakers-need-to-deal-with-real-ai-challenges/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Use AI with caution when comes to mental health"
     excerpt: "When people read that AI could replace the equivalent of 300 million full-time jobs,"
     publishedDateTime: 2023-06-09T00:00:00Z

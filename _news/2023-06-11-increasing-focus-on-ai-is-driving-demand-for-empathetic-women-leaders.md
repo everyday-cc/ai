@@ -156,15 +156,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "How AI is Transforming Music Creation in Web3"
-    excerpt: "Warner Music Group chief digital officer and executive vice president of business development Oana Ruxandra told CoinDesk’s The"
-    publishedDateTime: 2023-06-06T17:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/how-ai-is-transforming-music-creation-in-web3-1032373862"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The World of Minecraft: Revolutionizing Artificial Intelligence Innovation"
     excerpt: "Minecraft's transformation from a beloved construction game to a pioneering platform for AI innovation is a testament to the game's versatility and the ingenuity of researchers."
     publishedDateTime: 2023-06-07T11:37:00Z

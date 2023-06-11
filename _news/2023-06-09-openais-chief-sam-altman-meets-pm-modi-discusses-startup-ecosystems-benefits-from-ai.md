@@ -42,6 +42,29 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "OpenAI’s CEO Calls on China to Help Shape AI Safety Guidelines"
+    excerpt: "China should play a key role in shaping the artificial intelligence guardrails needed to ensure the safety of transformative new systems, OpenAI Inc.’s Chief Executive Officer Sam Altman said."
+    publishedDateTime: 2023-06-10T03:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-10/openai-s-ceo-altman-calls-on-china-to-help-shape-ai-safety-guidelines"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "OpenAI CEO reveals why he isn't interested in taking the AI startup public"
+    excerpt: "OpenAI CEO Sam Altman has been meeting lawmakers who are creating rules to monitor AI during his weeks-long world tour."
+    publishedDateTime: 2023-06-07T06:14:00Z
+    webUrl: "https://www.ibtimes.co.uk/openai-ceo-reveals-why-he-isnt-interested-taking-ai-startup-public-1716466"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 35
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1716031/sam-altman.jpg"
+        width: 2048
+        height: 1458
+        isCached: true
   - title: "OpenAI CEO Sam Altman encourages South Korea to supply chips in AI boom"
     excerpt: "Altman, after crisscrossing Europe last month meeting lawmakers and national leaders to discuss AI's prospects and threats, has travelled this week to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea."
     publishedDateTime: 2023-06-09T13:20:00Z
@@ -51,6 +74,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 34
+  - title: "OpenAI CEO suggests international agency like UN's nuclear watchdog could oversee AI"
+    excerpt: "OpenAI CEO Sam Altman speaks in Abu Dhabi, United Arab Emirates, Tuesday,. Altman on Tuesday suggested an international agency like the International Atomic En"
+    publishedDateTime: 2023-06-06T19:09:00Z
+    webUrl: "https://www.chron.com/news/world/article/openai-ceo-suggests-international-agency-like-18137808.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 10
 
 secured: "E/FXO1S1XiX44r6GteLyLYV6J7/IBQpdezuCzI4RO+Yc9ttflBYOVxNtgZkP5RIcO2FXvX1caje381gn1gnmi8SYzLQbPs4k5Fn3eEbeRUVgHJ56AO7znfO4aQesOIXTk1sHmHAM8+psnY+gWaiIz/BEjmDkTaH1qHuZWirFv33hL7Tgs1Gum3POU5ko243T556zKNPd4ASbgqHAGNYqU8/S/EG1BeOtGugW4dehn89UDtFlvtC1tcQrxscHbFrEJJuy014wwQ5IjZCvTHnWdg/kO+38uC09lQ+MTx9bSythfLhqIfpOFfdMj8qBOuis9fg7ciDPfyjBUN88nsdLwPhWS+9pVCxu982rShAbjaA=;cpB+M6UnaZzQaO7KL1X11w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Nvidia_8.jpeg?width=1200&height=800&fit=crop"
         width: 830
         height: 553
+        isCached: true
+  - title: "OpenAI competitor: Reason why Nvidia, Oracle are investing in AI startup Cohere"
+    excerpt: "Cohere, an AI foundation model startup, has raised $270 million in a funding round from investors, which include technology giants such as Nvidia, Oracle and Salesforce Ventures. The Toronto-based AI startup competes with Microsoft-backed OpenAI and focuses on building AI models for enterprise customers."
+    publishedDateTime: 2023-06-09T02:09:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/articleshow/100862259.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 53
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-100862259,imgsize-832578,width-800/100862259.jpg"
+        width: 800
+        height: 529
         isCached: true
   - title: "There’s an AI war, and Nvidia is the only arms dealer: Analyst"
     excerpt: "Shares of Nvidia (NVDA) rocketed more than 26% on Thursday, as the graphics chip maker rides the generative AI explosion. The rip higher comes after the company reported better-than-expected first ..."

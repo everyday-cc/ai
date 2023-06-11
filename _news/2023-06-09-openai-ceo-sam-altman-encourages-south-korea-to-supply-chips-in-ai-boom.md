@@ -51,6 +51,38 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "OpenAI’s CEO Calls on China to Help Shape AI Safety Guidelines"
+    excerpt: "China should play a key role in shaping the artificial intelligence guardrails needed to ensure the safety of transformative new systems, OpenAI Inc.’s Chief Executive Officer Sam Altman said."
+    publishedDateTime: 2023-06-10T03:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-10/openai-s-ceo-altman-calls-on-china-to-help-shape-ai-safety-guidelines"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "OpenAI CEO reveals why he isn't interested in taking the AI startup public"
+    excerpt: "OpenAI CEO Sam Altman has been meeting lawmakers who are creating rules to monitor AI during his weeks-long world tour."
+    publishedDateTime: 2023-06-07T06:14:00Z
+    webUrl: "https://www.ibtimes.co.uk/openai-ceo-reveals-why-he-isnt-interested-taking-ai-startup-public-1716466"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 35
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1716031/sam-altman.jpg"
+        width: 2048
+        height: 1458
+        isCached: true
+  - title: "OpenAI CEO suggests international agency like UN's nuclear watchdog could oversee AI"
+    excerpt: "OpenAI CEO Sam Altman speaks in Abu Dhabi, United Arab Emirates, Tuesday,. Altman on Tuesday suggested an international agency like the International Atomic En"
+    publishedDateTime: 2023-06-06T19:09:00Z
+    webUrl: "https://www.chron.com/news/world/article/openai-ceo-suggests-international-agency-like-18137808.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 10
 
 secured: "omfijU4i9AzsVOGUEcEB0bkm8FtIhbKYdJCwSp+a539E/W0FBTG9Icb8vVWYlUmgvfVnfnRfXK8R+0VulgNy4sfGlBfF22mcuNJuFFwT/XkAk/0PaUGGmXy0Qzne5v3lHZ3KRQOieZ4M0cjZfKDAq5p12hoPWWVIlQM0qwnAM3FJwcT4wGupsUzKMGtybfeg9cYEzX6lLQD36RMtoFBewU0sY/9MlYb+YrVeXmNOFuv69ziKQ51R4aWzvlIHnDWLFBblsMRfD7xrX4Bk4BUA2kP9mAd8oyy8VGYJG8R9hLlre3NEx8K40gAg/nUbPF0CmDUJVD3F8nQocufa4p4jTB9NA1QLvPczd4CUZOWPXhRonfSveO8UkoNYkUgPfoxuQJNKFqKFUvS1A1gC1+3nZ0y1qMgNpjPms/DQF3R7tbAYp0T1/TNAbLhRfpwKAdIHn1tc80oGQZ0+iOCWWD1EpIN/txqktnSxGPqD5b1r2ifB9/atNeMlE8s8RcTNevLNT6sj0iAqkytK+k+RtYeRlg==;MujkIkNk7EDZjt1QsfgFyg=="
 ---

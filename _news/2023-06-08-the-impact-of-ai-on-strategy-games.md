@@ -30,15 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "Does Artificial Intelligence Have Any Influence Online Cash Game?"
-    excerpt: "Artificial Intelligence (AI) has become increasingly prevalent in various industries, and the world of online gaming is no exception. One particular area where AI has gained prominence is in online rummy cash game."
-    publishedDateTime: 2023-06-06T18:42:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2023/06/06/456092-does-artificial-intelligence-have-any-influence-online-cash.htm"
+  - title: "5 ways how Artificial Intelligence improve the workplace"
+    excerpt: "Artificial intelligence (AI) is now a part of our everyday lives. More than we may sometimes realize; AI solutions are changing almost every aspect of our lives, and this extends well into the workplace as well. The impact of AI on the future of work is a ..."
+    publishedDateTime: 2023-06-11T11:31:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Untitled-design83.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "83RwPvEMLrtWHSaBkigEhuS1QfaFRSsHZQYJzC27CZVRehVJ5XMK8yQOMniI5bHH4VI76yuCt02pQ7HJQxBl/DT4GUjKN9FkIFL/aNzHQMywNDj23euBOVjAlK/3Dw/6Ch3tPv7jNSyGIkIfmHZtDVWAfxkXXI6ntV47ymGpd/XSlMiKv1Y1kt8ZL2sUaA+luVjVhK3YnwUjgE0Jq+8MbFEaMvxg0H8/zEgZmUe8gA4lCwV4QhvopETHO3Au/9Zv70dLtkYNcE2C06qhuxs5t1ZIOhYQPT5yM5663kkoWXsEgRJv2OoPTwRnqFDbchE75iXTFz2nIWs7s2/Vs6/Mw/1V33zJqu7o3cV0+lp7U9Y=;E5mlo8suE1qiT7K4ceoztA=="
 ---

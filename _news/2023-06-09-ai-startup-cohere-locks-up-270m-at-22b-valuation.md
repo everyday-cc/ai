@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 420
         isCached: true
-  - title: "AI-Enhanced Business Services Startup Instabase Raises At $2B Valuation"
-    excerpt: "Business services startup Instabase doubled its previous valuation to $2 billion after locking up a $45 million raise."
-    publishedDateTime: 2023-06-06T17:06:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/startup-instabase-funds-raised/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 39
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI-1.jpg"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "7yY8U4/biLdRtRZdz3gEejSuMOyIgovWPMFKwa4zqwqMEeUGr0bQSjHu898+xDH7hh2KgasCf8rPRIGSCMjvAMdq5blI0SgLExK6B7dKAD2gxjkCT7JJ+I4LyU3bgkRl1BogWLA98RRSEYl//0DF7kFLdFdBv6AN4yJz798xWhhuOf+PAM2Dymw3gg8FBrKY7dh/8x4SR2P8fG6cQy8+AwKcuoUjahtDQuoIdN4t+zaaUeh1reIp4BzXaBWh06x76T5Gjo+UkQsqQuMEYNy7sdYjkIIvrI8NU9LlUhExi6ADYI28efwowPBX/JxVnvqdk2OIWp2LTkjxzqlHISHoGXMKtaDvHtbj7MrHHL2eoiQgGKNXvAAbSOByvDQL5NDHLz6IN/RV/cPpZJFDtntVMAIWlgnuFi/CzYjiKxLtdjeNPi3daZD5FT9Nki0+IgswDO1dSmf3x/ErqahhMvSoGeM6/TuGcM0KcRGo0FwHN877KdSgKtCE7YB+IOIg1JNEKbCoS6oSGjvdblPq9VtW1A==;q7gjvUvEq9KWoaDQYeRt6g=="
 ---

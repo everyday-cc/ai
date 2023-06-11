@@ -7,7 +7,7 @@ originalUrl: "https://www.sourcesecurity.com/news/centific-global-solutions-laun
 webUrl: "https://www.sourcesecurity.com/news/centific-global-solutions-launch-pitaya-ai-innovative-saas-platform-co-1686120773-ga-co-1686121046-ga-npr.1686121720.html"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -17,31 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Centific Launches Pitaya.AI SaaS Platform"
-    excerpt: "Pitaya.AI will be able to address stealing by preventing theft at cashier-assisted and self-checkout lanes often found in retail stores."
-    publishedDateTime: 2023-06-06T17:26:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/37418-centific-launches-pitayaai-saas-platform"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-May-2023-LG.png?crop=1&height=348&t=1682456967&width=271"
-        width: 271
-        height: 348
-        isCached: true
-  - title: "Centific Announces the Launch of Pitaya.AI: A Suite of Intelligent Store Solutions to Enable Hyper-Automation and Immersive Experiences"
-    excerpt: "Centific Global Solutions today announced the launch of Pitaya.AI, a SaaS (Software as a Service) platform for retailers that provides a suite of intelligent store solutions. These solutions leverage AI to tackle industry-wide business challenges such as shrinkage,"
-    publishedDateTime: 2023-06-06T18:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-centific-announces-launch-pitayaai-suite-intelligent-store-solutions-/2023/06/06/9827698.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "2wY1xML6NXaaVke/+Nykw1eGLnfYo22zu27tzLqUYpRQ9Fc3wkwkM/1VODExsFH7eihpPvLW8X2m0rx1BQ+USeJEndKaad4vCnvnxh9AF/dHiT4xpFHaU+iH89jkRobXtFZirt0HewQI/W3ea55lycnvRyRt6oSqs2HnPNVLit6+TBMfrtIoNaFD1y2VDlQFD7yAedUW0TXt5ejX0huZmdQwhNegykqWx1rcoiqWUyj3dTVWEIjXFKX27hrs1/it3hVNQYL5xvPKnVQTC60362gffeSW4in/Twj3Gwanmz61c/zYYSW5RS27vu/cNoZxZ1aVF1OZg4PIpBhhx5aPJhWsoTjJ1OFXIKVMJUOWcDIh6AQ14AhQeUU5BeabuyJa4zWmvKg7+fb9fIv40lux8vJFTyy68UhIVyRgAgRgMkKhyESXvpr15ZCJ4RIK8V0ZU04bQXMxC5aUEAjhT4DMuIn8Aj6oMp22LpGZexQHQm8QOdsi68cNB2S95hpTCeeQ/68YnWrakC/xr4YJJ57fpA==;WfL6pv+YFvWEdu+FD1eWug=="
 ---

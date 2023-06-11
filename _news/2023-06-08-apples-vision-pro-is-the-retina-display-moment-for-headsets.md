@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/23752959/apple-vision-pro-headset-hands-o
 webUrl: "https://www.theverge.com/23752959/apple-vision-pro-headset-hands-on-demo-impressions"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Verge
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "visionOS: Features, release date, Apple Vision Pro, more"
+    excerpt: "visionOS is the announced operating system for Apple’s first spatial computer, Vision Pro. While it was first rumored to be called xrOS – it was even called that way internally – Apple decided on this other name, probably for marketing purposes."
+    publishedDateTime: 2023-06-09T19:38:00Z
+    webUrl: "https://bgr.com/guides/visionos-features-release-date-apple-vision-pro/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 24
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-210.jpg?quality=82&strip=all"
+        width: 1600
+        height: 885
+        isCached: true
   - title: "Apple Vision Pro: How revolutionary is the headset really? We asked six experts."
     excerpt: "Apple this week launched its much-anticipated mixed reality headset, the Apple Vision Pro. So, it's a technological marvel, but is it revolutionary? Yahoo Finance asked six experts what they thought."
     publishedDateTime: 2023-06-07T21:10:00Z

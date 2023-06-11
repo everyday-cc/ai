@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/cisco-announces-next-gen-solutions-secu
 webUrl: "https://venturebeat.com/ai/cisco-announces-next-gen-solutions-security-productivity-generative-ai/"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: VentureBeat
@@ -29,77 +29,45 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: Cybersecurity Friend And Foe"
-    excerpt: "Generative AI can automate cybersecurity to stay ahead of hackers. Yet bad actors are using it to automate and advance attacks."
-    publishedDateTime: 2023-06-06T18:12:00Z
-    webUrl: "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/"
-    ampWebUrl: "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/"
+  - title: "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses"
+    excerpt: "Commenting on the collaboration with Mastercard, Andrew Hanna, ZainTech CEO said: “The benefits of sophisticated data to productivity, safety, and cost-savings being driven by AI and machine learning are revolutionizing business processes. This ..."
+    publishedDateTime: 2023-06-08T06:51:00Z
+    webUrl: "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f70fd358907018a595934/0x0.jpg?format=jpg&crop=2739,1540,x0,y27,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/mastercard.jpg?itok=xiDRXJSm"
+        width: 960
+        height: 502
         isCached: true
-  - title: "The Multidimensional Relationship Between AI And Cybersecurity And Its Impact On Fintech"
-    excerpt: "The relationship between AI and cybersecurity has massive implications for the banking ecosystem and can be explained by looking at three different dimensions."
-    publishedDateTime: 2023-06-08T10:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/"
+  - title: "Will generative AI boost productivity?"
+    excerpt: "There is no doubting the potential of generative AI. Its ability to boost cognitive activities, which are harder to value, means we may be unable to accurately measure its impact. But as prior technologies demonstrate, productivity gains are not guaranteed until the technology can be harnessed effectively. We should keep our feet on the ground."
+    publishedDateTime: 2023-06-09T16:25:00Z
+    webUrl: "https://www.ft.com/content/3b145574-760f-49fd-b42c-a2c4ae22101c"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/603e3db037a40065dd90c173/0x0.jpg?format=jpg&width=1200"
-        width: 797
-        height: 531
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
         isCached: true
-  - title: "Artificial intelligence: challenges and controversies for US national security"
-    excerpt: "The United States and other countries must consider the possible impact of AI on their armed forces and their preparedness for war fighting or deterrence. Military theorists, strategic planners, scientists,"
-    publishedDateTime: 2023-06-09T10:30:00Z
-    webUrl: "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/"
-    ampWebUrl: "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/"
-    cdnAmpWebUrl: "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/"
+  - title: "Cisco Systems CEO sees artificial intelligence making security management simpler, more efficient"
+    excerpt: "In his keynote address Tuesday kicking off the San Jose tech giant's Cisco Live 2023 event in Las Vegas, CEO Chuck Robbins told the audience the company's goal is to make technology simpler to use for its consumers."
+    publishedDateTime: 2023-06-07T14:31:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/07/cisco-systems-chuck-robbins-ai.html"
     type: article
     provider:
-      name: Bulletin of the Atomic Scientists
-      domain: thebulletin.org
-    quality: 70
-    images:
-      - url: "https://thebulletin.org/wp-content/uploads/2018/06/Landing-Page-AI-Twitter.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
-    excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
-    publishedDateTime: 2023-06-07T06:04:00Z
-    webUrl: "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 56
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg"
-        width: 1024
-        height: 787
-        isCached: true
-  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
-    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
-    publishedDateTime: 2023-06-09T18:39:00Z
-    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
-    type: article
-    provider:
-      name: WWT
-      domain: wwt.com
-    quality: 33
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
 
 secured: "3PEr++Kyhd/9JEb/tsQq9pyP2fzpzkRAF1g5HCFEhGWl3zTTAI2tFWxC7zKM8ueXSqecx/rZkz9DCWQLpWFic7vrTUX4NBIAbhwYYgLWNHP/OY/O/FKvIGJmUAhxIwvu/25BLtu2F+wnTSafjZBg/60UUMQLTMNzMRTxPZaAnBu8wVnYFkUKmnXXLZyzg8VLpaRFnRg+rpUYND6ibluB35imDTClXWTEAnt0XS9Kk/j77c2qV6L7BpwjixODyVng3akcabSoJLJNno00Hys4marRdixdYruuQ8b66gGC+c1uSfSIvXIqtm/FRtgph2aHBf1vG8SAx1FRHJ/dGJq5cd2qX5ZZqAfR4Ra4TBShoV+iN1gXHihS4/DpR4irw0pRkr3qxKiq5JBrrwonvWqTRMHn9uQOJ2nwvIiefFRj/6CWxgsGEhJDmf2/0W++rEgiVSvf1HnG+58ZubQodM7CO6GuuRh80Mib1bsS8Ui/3C901BVUARs08QdCz78J/NA1amUuNm+1oWK3aQlvtvhqpA==;JIKWi5g1fMEcW2E274lgcA=="
 ---

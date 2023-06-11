@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "visionOS: Features, release date, Apple Vision Pro, more"
+    excerpt: "visionOS is the announced operating system for Apple’s first spatial computer, Vision Pro. While it was first rumored to be called xrOS – it was even called that way internally – Apple decided on this other name, probably for marketing purposes."
+    publishedDateTime: 2023-06-09T19:38:00Z
+    webUrl: "https://bgr.com/guides/visionos-features-release-date-apple-vision-pro/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 24
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-210.jpg?quality=82&strip=all"
+        width: 1600
+        height: 885
+        isCached: true
 
 secured: "cYI+DzvqsuVQ9lx2CKy6Nd18ESp8zv8DVVvdrSQTsLTIODCblqs0T/XFCfbVlfIb9wCyEUGHO+j06gcHOt+0dly1i8oXYpbIwMUshmxxrzWMOyh7KquK4xITIN3J37Gr7/NWbZv9kX+Pur5+tSY4296xFiSculxRgxl+yoNBFwEJROZNcJSB+iOlFrrrck8fsGXRVl0iBscM8j/AUT9AmZKL7rdx05baKoHDy1xNHaLYNhUEE4EvDA5SITTk91wON6MgWNm02uwBnBsOFAOPDRkcrs5gNbtvpQsj56beXoYNxwkUQ/mcSENhke5o7x9TL9R7n2FqwlmU8b6DZVolIwdnqIcvUYETiwvLfzuSnhY=;npfQY+RUgiFiGJsTr740bw=="
 ---

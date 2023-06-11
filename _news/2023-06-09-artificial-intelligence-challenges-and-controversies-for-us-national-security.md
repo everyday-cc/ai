@@ -9,8 +9,8 @@ ampWebUrl: "https://thebulletin.org/2023/06/artificial-intelligence-challenges-a
 cdnAmpWebUrl: "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: Bulletin of the Atomic Scientists
@@ -27,75 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: Cybersecurity Friend And Foe"
-    excerpt: "Generative AI can automate cybersecurity to stay ahead of hackers. Yet bad actors are using it to automate and advance attacks."
-    publishedDateTime: 2023-06-06T18:12:00Z
-    webUrl: "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/"
-    ampWebUrl: "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f70fd358907018a595934/0x0.jpg?format=jpg&crop=2739,1540,x0,y27,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Multidimensional Relationship Between AI And Cybersecurity And Its Impact On Fintech"
-    excerpt: "The relationship between AI and cybersecurity has massive implications for the banking ecosystem and can be explained by looking at three different dimensions."
+  - title: "Regulating Artificial Intelligence: The Need, Challenges, and Possible Solutions"
+    excerpt: "ethics, computer science, economics, and social sciences. However, there is currently a shortage of experts who can navigate the interdisciplinary nature of regulating AI effectively."
     publishedDateTime: 2023-06-08T10:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/"
+    webUrl: "https://www.aei.org/technology-and-innovation/regulating-artificial-intelligence-the-need-challenges-and-possible-solutions/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/603e3db037a40065dd90c173/0x0.jpg?format=jpg&width=1200"
-        width: 797
-        height: 531
-        isCached: true
-  - title: "Cisco announces next-gen solutions boosting security and productivity with generative AI"
-    excerpt: "By harnessing LLMs across its collaboration and security portfolios, Cisco aims to enhance productivity and simplicity within organizations."
-    publishedDateTime: 2023-06-07T15:30:00Z
-    webUrl: "https://venturebeat.com/ai/cisco-announces-next-gen-solutions-security-productivity-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 75
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screenshot-2023-06-06-213946.jpg?w=1200&strip=all"
-        width: 1200
-        height: 710
-        isCached: true
-  - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
-    excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
-    publishedDateTime: 2023-06-07T06:04:00Z
-    webUrl: "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 56
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg"
-        width: 1024
-        height: 787
-        isCached: true
-  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
-    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
-    publishedDateTime: 2023-06-09T18:39:00Z
-    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
-    type: article
-    provider:
-      name: WWT
-      domain: wwt.com
-    quality: 33
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 14
 
 secured: "jq+cRdNoGSyTLeNmiMrOtt4hdQFEkk/qHPLMceW6ATqyD5Wft9eoaMJGGiOwvBFWnLJaC9iPLT8oXdWdSGhf8S6sKU1F7x/amPfkP44xTpWD7Qc5jB1bw+bFRTdRplI9ut4ZJVHF/4w1qmGi4TTmzukELtJdw3NYXszqNgz0L8IJdY6PGMdu3nFF2IaQ50peG8vX8zSgjaVx95JU/YWoKpZV4DH6GJqE+syNtm1mU20M2xevFAyOxAYXiYk9fzW2dvGph1bc4D6Za6c9eZ7EyBvz2XH5801vUfYBELOnZXf5UwnoHCPIpzx3zP4LoFtKqiw7crpN+yLNLv0FeZN55YM1xihS1wgdtdOLg2VPXdc=;JFh58Tc+S7yibxsKsWnA3A=="
 ---

@@ -55,15 +55,6 @@ related:
         width: 2606
         height: 1450
         isCached: true
-  - title: "Policymakers Need To Deal With Real AI Challenges"
-    excerpt: "Policymakers need not and should not wander off into misty realms where autonomous AI programs spin out of control and threaten human survival."
-    publishedDateTime: 2023-06-06T18:40:00Z
-    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/06/policymakers-need-to-deal-with-real-ai-challenges/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI Music Generators Make You Feel Like a Maestro. Here’s How They Work"
     excerpt: "Instead of yanking the rug away from producers, these tools can actually streamline the music production workflow. We put together a guide to help you get your feet wet."
     publishedDateTime: 2023-06-09T20:19:00Z

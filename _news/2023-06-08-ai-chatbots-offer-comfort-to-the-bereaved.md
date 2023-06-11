@@ -70,15 +70,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "AI Chatbots Are Causing Bank Customers Headaches"
-    excerpt: "Banks are implementing AI chatbots into their operations as a cost-cutting measure, but the Consumer Financial Protection Bureau says some bots are causing frustrations for customers."
-    publishedDateTime: 2023-06-06T18:19:00Z
-    webUrl: "https://www.cnet.com/personal-finance/ai-chatbots-are-causing-bank-customers-headaches/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 64
   - title: "Instagram might be working on an AI chatbot"
     excerpt: "According to the leaks, users can choose from 30 different AI personalities, who can also help users write messages."
     publishedDateTime: 2023-06-06T19:27:00Z

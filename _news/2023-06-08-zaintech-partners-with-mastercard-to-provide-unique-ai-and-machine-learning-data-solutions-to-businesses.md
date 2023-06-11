@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/zaintech-partners-mastercar
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,45 @@ images:
     width: 960
     height: 502
     isCached: true
+
+related:
+  - title: "Cisco announces next-gen solutions boosting security and productivity with generative AI"
+    excerpt: "By harnessing LLMs across its collaboration and security portfolios, Cisco aims to enhance productivity and simplicity within organizations."
+    publishedDateTime: 2023-06-07T15:30:00Z
+    webUrl: "https://venturebeat.com/ai/cisco-announces-next-gen-solutions-security-productivity-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 75
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screenshot-2023-06-06-213946.jpg?w=1200&strip=all"
+        width: 1200
+        height: 710
+        isCached: true
+  - title: "Will generative AI boost productivity?"
+    excerpt: "There is no doubting the potential of generative AI. Its ability to boost cognitive activities, which are harder to value, means we may be unable to accurately measure its impact. But as prior technologies demonstrate, productivity gains are not guaranteed until the technology can be harnessed effectively. We should keep our feet on the ground."
+    publishedDateTime: 2023-06-09T16:25:00Z
+    webUrl: "https://www.ft.com/content/3b145574-760f-49fd-b42c-a2c4ae22101c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
+  - title: "Cisco Systems CEO sees artificial intelligence making security management simpler, more efficient"
+    excerpt: "In his keynote address Tuesday kicking off the San Jose tech giant's Cisco Live 2023 event in Las Vegas, CEO Chuck Robbins told the audience the company's goal is to make technology simpler to use for its consumers."
+    publishedDateTime: 2023-06-07T14:31:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/07/cisco-systems-chuck-robbins-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
 
 secured: "nVO8obZt8CQiEC3PZnwFwSilBGteDNCzGJH8UKpOFJl7OH6G+E8ZCM+WYNZwrimt76ss3QFhAfsGKhbVjSgb10Iv+F7+x5S2dCTMkf8T/yFbpxqx+hOgEaavS/KtrBq/i6NpyLs78p/f5o5whC+0ZTMv65JV5POF3spdNoS1IFtUyBIt5S00+hr8ZL1nhWXUIwwrlbuVBXDEL9H9/qpGTzlNLVpXGlPU56ekuIdKnAAaCxPVJH4ThqMkrQeGvLPUSOCyboAyXD2/0P9RL+XGqbaZkWWztNaudQpy2MEbcFHgSdEqfQdFkHHzJDjTT6Z0/w+o3JuLpYUvKH7XkNuwFYj01C5wajj8MWRwZOGv3Z8=;l3uRSBqczd5GQ6AjyrtY7A=="
 ---

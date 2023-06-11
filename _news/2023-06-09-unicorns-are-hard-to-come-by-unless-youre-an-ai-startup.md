@@ -27,15 +27,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 61
-  - title: "Enterprise search startup Glean launches generative AI assistant"
-    excerpt: "The startup says the assistant, which is powered by generative AI models, is also capable of helping engineers with coding tasks. Palo Alto, California-based Glean exited stealth mode in 2021 with $55 million from investors."
-    publishedDateTime: 2023-06-06T17:31:00Z
-    webUrl: "https://siliconangle.com/2023/06/06/enterprise-search-startup-glean-launches-generative-ai-assistant/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
   - title: "Unicorns are hard to come by, unless you're an AI startup"
     excerpt: "The number of tech upstarts valued at $1 billion has fallen from its peak in 2021, but there's new traction the AI space in particular."
     publishedDateTime: 2023-06-07T18:56:00Z

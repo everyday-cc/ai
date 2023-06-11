@@ -7,7 +7,7 @@ originalUrl: "https://japantoday.com/category/tech/ai-facial-recognition-tech-fr
 webUrl: "https://japantoday.com/category/tech/ai-facial-recognition-tech-front-and-centre-at-china-security-expo1"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -20,19 +20,35 @@ topics:
   - AI in Security
 
 related:
-  - title: "‘Facial recognition is everywhere in China and people seem OK with it’"
-    excerpt: "Returning to China, Retail Week analyst Hanna Hua shares her experience of how technology such as facial recognition, payments and robots is transforming shopping. Can such dramatic change be expected in the UK?"
-    publishedDateTime: 2023-06-08T05:00:00Z
-    webUrl: "https://www.retail-week.com/opinion/facial-recognition-is-everywhere-in-china-and-people-seem-ok-with-it/7043894.article"
+  - title: "The Multidimensional Relationship Between AI And Cybersecurity And Its Impact On Fintech"
+    excerpt: "The relationship between AI and cybersecurity has massive implications for the banking ecosystem and can be explained by looking at three different dimensions."
+    publishedDateTime: 2023-06-08T10:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/"
     type: article
     provider:
-      name: Retail Week
-      domain: retail-week.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 80
     images:
-      - url: "https://d53bpfpeyyyn7.cloudfront.net/Pictures/1024x536/6/3/9/3106639_facialrecognitiontech_205786.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/603e3db037a40065dd90c173/0x0.jpg?format=jpg&width=1200"
+        width: 797
+        height: 531
+        isCached: true
+  - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
+    excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
+    publishedDateTime: 2023-06-07T06:04:00Z
+    webUrl: "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 56
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg"
         width: 1024
-        height: 536
+        height: 787
         isCached: true
 
 secured: "+FFm7i3XvnvOEQzZhqLi0/kfa0kNwT3cQ3LRYiwm5lySsqZtQ3L60gexwzXnHsL63KIa48VfgxGtxJ/iU7u6+FCKAwgHQ4Vk3lPDT0lTyfdchT8hGjldWzSfdMsEtpp4GRDKiJH5Gf8lt/7CENf9QCqOJ/2wLlbrboVsAILRGg2uTym4B481XPcoyJb42JTV8YV4R+dh9lZmLU3UHfZJOJ+rmmgDeJD9JpI5OTSwBOzd/pYBHE4Tl3QS+EDLCK3o23H965mMke7/+6jchw4Gw87SanirJMqdQzQhmERzhrJTQFs1Mx9wG3RknyxWaRSVtywDure06QwJNa7+oyjvvEYTHqj2jsBQKRBTL4c+Nnnz2HfYbXnjeGYvNUcTvO35JeRugA0XOwCJL8WOZLThx36w2P6aysr/7Lifajgx74b4mNUcIV6WqQcQsusKdzz/gYklu0Ad5TzFkOw9OBYjWRplq4GFq4JrEUp0IwTHItUBGIN/v+LmJMYq2Ghe6H55za/6f2rXfYWVGz1nwfdjjg==;t8WbsojaS10q+0vwkYSK7Q=="

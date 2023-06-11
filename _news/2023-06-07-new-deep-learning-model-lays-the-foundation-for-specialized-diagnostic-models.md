@@ -24,24 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Multimodal technique for analyzing audio and visual data improves performance of machine-learning models"
-    excerpt: "Researchers from MIT, the MIT-IBM Watson AI Lab, IBM Research, and elsewhere have developed a new technique for analyzing unlabeled audio and visual data that could improve the performance of machine-learning models used in applications like speech recognition and object detection."
-    publishedDateTime: 2023-06-06T17:08:00Z
-    webUrl: "https://techxplore.com/news/2023-06-multimodal-technique-audio-visual-machine-learning.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-multimodal-technique-audio-visual-machine-learning.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-multimodal-technique-audio-visual-machine-learning.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 29
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/scaling-audio-visual-l.jpg"
-        width: 600
-        height: 600
-        isCached: true
-
 secured: "OP0EnZcU/qKmzFJRRcejO629f1v07TXXjBZHw67/vNWAbIQSIBI8yEoHFhrq35jIqSvoGXlSJZ92vZg0vpIgAdqnszCveExpbAjgZQ3KJzzxJ5WJM6clD+ZD429lBnCyyOnuDCqdti2oLZaLGA/BG6srF4t6A+sL2lKWLTsnss5PZ5/thEYMZXOJvtr1L7rAbsqbh5+Ga/Kva+z+A27BsiCIt+QsjPruAlN/NuSMeWa42Xr9b9D8wbWrnnGGywChSit5bhtYS08T5xmBBJPtEEluVSQRIERf6NSZ1WURxrp6RlKiTvlrJQQIoOQrtml2FR48s1t5Zb6oh61uRagn+ibIk+sbbZVf5S45o/bMX2M=;RpK94hdW75CT8t0BuxPuvA=="
 ---
 

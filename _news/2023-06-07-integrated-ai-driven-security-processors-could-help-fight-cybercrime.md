@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: Cybersecurity Friend And Foe"
-    excerpt: "Generative AI can automate cybersecurity to stay ahead of hackers. Yet bad actors are using it to automate and advance attacks."
-    publishedDateTime: 2023-06-06T18:12:00Z
-    webUrl: "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/"
-    ampWebUrl: "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f70fd358907018a595934/0x0.jpg?format=jpg&crop=2739,1540,x0,y27,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Multidimensional Relationship Between AI And Cybersecurity And Its Impact On Fintech"
     excerpt: "The relationship between AI and cybersecurity has massive implications for the banking ecosystem and can be explained by looking at three different dimensions."
     publishedDateTime: 2023-06-08T10:01:00Z
@@ -58,45 +42,15 @@ related:
         width: 797
         height: 531
         isCached: true
-  - title: "Cisco announces next-gen solutions boosting security and productivity with generative AI"
-    excerpt: "By harnessing LLMs across its collaboration and security portfolios, Cisco aims to enhance productivity and simplicity within organizations."
-    publishedDateTime: 2023-06-07T15:30:00Z
-    webUrl: "https://venturebeat.com/ai/cisco-announces-next-gen-solutions-security-productivity-generative-ai/"
+  - title: "AI, facial recognition tech front and center at China security expo"
+    excerpt: "AI tech that spots \"undesirable\" behavior and long-distance facial recognition software were on show Thursday at a Beijing expo attended by hundreds of companies -- many blacklisted by the United States for their alleged role in repression in China and abroad."
+    publishedDateTime: 2023-06-08T21:51:00Z
+    webUrl: "https://japantoday.com/category/tech/ai-facial-recognition-tech-front-and-centre-at-china-security-expo1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 75
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screenshot-2023-06-06-213946.jpg?w=1200&strip=all"
-        width: 1200
-        height: 710
-        isCached: true
-  - title: "Artificial intelligence: challenges and controversies for US national security"
-    excerpt: "The United States and other countries must consider the possible impact of AI on their armed forces and their preparedness for war fighting or deterrence. Military theorists, strategic planners, scientists,"
-    publishedDateTime: 2023-06-09T10:30:00Z
-    webUrl: "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/"
-    ampWebUrl: "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/"
-    cdnAmpWebUrl: "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/"
-    type: article
-    provider:
-      name: Bulletin of the Atomic Scientists
-      domain: thebulletin.org
-    quality: 70
-    images:
-      - url: "https://thebulletin.org/wp-content/uploads/2018/06/Landing-Page-AI-Twitter.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
-    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
-    publishedDateTime: 2023-06-09T18:39:00Z
-    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
-    type: article
-    provider:
-      name: WWT
-      domain: wwt.com
-    quality: 33
+      name: Japan Today
+      domain: japantoday.com
+    quality: 51
 
 secured: "oIeDMNivLI04odrBPR7noY5IiW1PpfL6uJT7Jay+XWApOCt7r1Jncrwb+K/3YRsbZnIQadZbtLavlS0uagj9oGFBQC4J9s51IcBRHC4ud+duunyg/bu9BphHTlRu9n/yyDjplQhYdNZAVZU78US3w5Pl+9VaWpEsBwNBqemsrKE6zi79towbmjXSSYEhkxdZcTet7SaMp9ckwMPde3D8GnTamGFDcmFSFPmkp93doXPPm3lAlZa5a+GH7cD0WcjLPLbjaF6eyCjEBSDrGQZpGmx1Ct56McqzSOglWY2652R4s7jDXMXukE3A+JFh6b4uZccfK1o+mJ4aqrY9pqXZiQre4ksPzjIf4zvMxJZGLHc=;Q05DvHjfSpZTmuibi6eOnQ=="
 ---

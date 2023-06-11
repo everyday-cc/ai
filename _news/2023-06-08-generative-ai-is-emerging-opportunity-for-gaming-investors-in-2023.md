@@ -69,6 +69,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
+  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
+    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
+    publishedDateTime: 2023-06-09T18:39:00Z
+    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
+    type: article
+    provider:
+      name: WWT
+      domain: wwt.com
+    quality: 33
   - title: "CORRECTING and REPLACING Clarify Health Launches Generative Artificial Intelligence, Clara"
     excerpt: "Contact us at clara@clarifyhealth.com to learn more about the closed beta program for Clarify's new generative artificial intelligence, Clara. (Graphic: Business Wire) The updated"
     publishedDateTime: 2023-06-07T01:16:00Z

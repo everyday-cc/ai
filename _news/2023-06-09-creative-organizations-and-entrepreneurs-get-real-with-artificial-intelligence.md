@@ -7,7 +7,7 @@ originalUrl: "https://www.businessobserverfl.com/news/2023/jun/09/creative-organ
 webUrl: "https://www.businessobserverfl.com/news/2023/jun/09/creative-organizations-entrepreneurs-artificial-intelligence/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,33 @@ images:
     width: 850
     height: 580
     isCached: true
+
+related:
+  - title: "Creating A Strong Foundation For Your Startup With AI"
+    excerpt: "Startups must take proactive steps to overcome business challenges and get ahead. One of those steps should be implementing AI."
+    publishedDateTime: 2023-06-11T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64824c948f1cd79e3030c0ae/0x0.jpg?format=jpg&crop=2988,1679,x0,y0,safe&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "AI FAANG Stocks You Can’t Go Wrong With"
+    excerpt: "All of them are good buy. To some all are working on similar advances in the field, and this competition will likely drive bigger and better things out of all of them."
+    publishedDateTime: 2023-06-08T10:40:00Z
+    webUrl: "https://www.industryleadersmagazine.com/ai-faang-stocks-you-cant-go-wrong-with/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 19
 
 secured: "L2JJWrwHwHuivCxSRBrlzVgN9QnFIP8LWr9y/oMve48tlfa5dJ2zAnSVhPn3Fp3qV5YgE7pt2YshsVONSm/uDh7Ll288h+0SlJsjgPK+9aiOHh6wGu9LhaqsqOkbiaOeOpNSDwVB90uV2523TCb48/0ZdwRDGbPxn0okjU2SVF5Z02mFuDy4iiO7EoUY0abZPCQ+PQ9Wq717oLryBfOWogZTuyq/Nz4LCttKo3GL9oZEC7zthmPfrq9MErHy4RTtYP45hbadE3zh2R4rHXrfZNmf2gvcM9+sy5MdYAspq1a9cXPMtvNto9fUbaXRbBAOIfPJzEbjBqdcARTcTKC57EeNczalrWoSm0rAVzx7dCIVl2CMCt+4zP3HU+pJszh7X0mCzLlIUQr+zTi2ZNMsPqKt3QDfa9Lr5F9VFA1ELNkEt6KnTS1dgvGKpXmGyk94lIGzZ17PkKHBJ3nKoAlawNUjUHc0uABWM2KqJuL45D2Za2KBlvkN6z+p4vkgxhETjHiAMs+/PG3xFtsYm2D4Xg==;haX/R7jn1Ue9vWSbfPYDqQ=="
 ---

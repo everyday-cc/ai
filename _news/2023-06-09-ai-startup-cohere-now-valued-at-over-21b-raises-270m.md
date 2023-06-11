@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-ov
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Enhanced Business Services Startup Instabase Raises At $2B Valuation"
-    excerpt: "Business services startup Instabase doubled its previous valuation to $2 billion after locking up a $45 million raise."
-    publishedDateTime: 2023-06-06T17:06:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/startup-instabase-funds-raised/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 39
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI-1.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "AI Startup Cohere Locks Up $270M At $2.2B Valuation"
     excerpt: "In March, Character.ai closed a $150 million Series A at a $1 billion valuation led by Andreessen Horowitz. The Palo Alto, California-based AI startup allows people to create their own personalized AI chatbot using language models and deep-learning algorithms."
     publishedDateTime: 2023-06-08T18:26:00Z

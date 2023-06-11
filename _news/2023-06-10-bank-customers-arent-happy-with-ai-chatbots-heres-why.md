@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-w
 webUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/"
 type: article
 quality: 84
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "AI Chatbots Are Causing Bank Customers Headaches"
-    excerpt: "Banks are implementing AI chatbots into their operations as a cost-cutting measure, but the Consumer Financial Protection Bureau says some bots are causing frustrations for customers."
-    publishedDateTime: 2023-06-06T18:19:00Z
-    webUrl: "https://www.cnet.com/personal-finance/ai-chatbots-are-causing-bank-customers-headaches/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 64
   - title: "AI chatbots offer comfort to the bereaved"
     excerpt: "Staying in touch with a loved one after their death is the promise of several start-ups using the powers artificial intelligence, though not without raising ethical questions."
     publishedDateTime: 2023-06-08T07:55:00Z
