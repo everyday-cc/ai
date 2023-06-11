@@ -2,6 +2,109 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-06-01-how-artificial-intelligence-can-help-your-company-thrive.md",
+      "title": "How Artificial Intelligence Can Help Your Company Thrive",
+      "excerpt": "AI has become one of the most important technologies of our time. I believe it will undoubtedly have an impact that will revolutionize the way companies are managed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6438211dffe260fd7c13615b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/amp/",
+      "publishedDateTime": "2023-06-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-augmented-reality-is-already-changing-healthcare-for-the-better.md",
+      "title": "Augmented Reality Is Already Changing Healthcare For The Better",
+      "excerpt": "Ari Grobman is the Chief Executive Officer at Lumus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64776950a4d59f3c17a62ddd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/amp/",
+      "publishedDateTime": "2023-06-01T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-stable-diffusion-torch-is-not-able-to-use-gpu-can-you-fix.md",
       "title": "Stable Diffusion “Torch is not able to use GPU” – can you fix?",
       "excerpt": "Having issues with running Stable Diffusion? Need to resolve “Torch is not able to use GPU” error message? Take a read of this post which explains how to resolve ...",
@@ -435,6 +538,49 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
+      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106",
+      "publishedDateTime": "2023-05-31T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -984,143 +1130,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-ai-war-crimes-evidence-erased-by-social-media-platforms.md",
-      "title": "AI: War crimes evidence erased by social media platforms",
-      "excerpt": "Evidence of potential human rights abuses may be lost after being deleted by tech companies, the BBC has found. Platforms remove graphic videos, often using artificial intelligence - but footage that may help prosecutions can be taken down without being archived.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-65755517",
-      "originalUrl": "https://www.bbc.com/news/technology-65755517",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/16D5E/production/_129943539_still02.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-65755517.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65755517.amp",
-      "publishedDateTime": "2023-05-31T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-lawmakers-and-big-tech-clash-over-the-fate-of-self-driving-semitrucks-in-california.md",
-      "title": "Lawmakers and Big Tech clash over the fate of self-driving semitrucks in California",
-      "excerpt": "Let’s face it. There are a lot of people in Big Tech lobbying against this bill,” said Assemblywoman Cecilia Aguiar-Curry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modbee.com/news/california/article275831791.html",
-      "originalUrl": "https://www.modbee.com/news/california/article275831791.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.modbee.com/news/california/article275831791.html",
-      "cdnAmpWebUrl": "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/california/article275831791.html",
-      "publishedDateTime": "2023-05-31T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modesto Bee",
-        "domain": "modbee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-generative-ai-startup-runway-recently-signed-a-huge-cloud-computing-contract-with-google.md",
-      "title": "Generative AI startup Runway recently signed a huge cloud computing contract with Google",
-      "excerpt": "It indicates the ability to send an email. An curved arrow pointing right. Google and Runway have a major new contract that provides the generative AI startup will millions of dollars in cloud services and related credits. Runway, which has raised funding ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-cloud-runway-generative-ai-startup-contract-2023-5",
-      "originalUrl": "https://www.businessinsider.com/google-cloud-runway-generative-ai-startup-contract-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

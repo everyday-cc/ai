@@ -51,20 +51,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "IMKI enhances brand heritage by creating custom Generative AI to assist in creation for the Luxury"
-    excerpt: "Generative AI is a revolution and is evolving very rapidly. It engenders strong changes in the processes of creation and innovation. Will AI make creators and creatives disappear ? No ! IMKI today addresses all creative companies worldwide for which the past is an asset to build future developments and provides them with the technological solution that allows them to take part in the AI revolution."
-    publishedDateTime: 2023-06-06T07:19:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9826768.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/2093629/IMKI_Custom_AI.jpg"
-        width: 400
-        height: 224
-        isCached: true
 
 secured: "A9afcoH1/qYkspC3OfhSuoXjhGH04+Vs3BrrcHlQTS0G2ZzgAZjEA8eddZv0XPqL0Ra/CIR8Ogx66AcDN/y6+rNWabFVtiK8xRaeiBRju0wtuDkYgcNj/Wqz4J538ODRPtcI/JJzbe5lgnUGlTuJM14VbpSG20uV3ciZEN4P8NkUXsQ6Yi/Y9nwdRyPxvxQGEsPrHZ0ix+Wenl7GcpCXtHlCYNRQ+hXR06AYFhuYZ3oOiZTbUm/9off3GvULslvXUxrtS+w4cDm1gxEP+ELVRJWuLA9DIvKpuFjFrIN5TA/x78L/Xnqw8E3CEpxwjDPVNGHWKGiMaok234FqALD6BfCf9Libp8cF7DKE0fScFw4RI7e4yIEy8jLui60N7JAiijIkK9jrfqyXdcztCIokIroUYexgGiaUkEy5R2CSVKNnudbwiS2r+V6fuTQzqzPK8rDL4oXjHgucCkDM4eRQqWInPCn+tSOrejkEowT7xHvVU/MrZKUF026Wqgf6uFVwpRkL2PGAfHPpwLGt3W86gQ==;upxG96U+0gmZr4yXNq3e8Q=="
 ---

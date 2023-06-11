@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-08-zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses.md",
+      "title": "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses",
+      "excerpt": "Commenting on the collaboration with Mastercard, Andrew Hanna, ZainTech CEO said: “The benefits of sophisticated data to productivity, safety, and cost-savings being driven by AI and machine learning are revolutionizing business processes. This ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
+      "originalUrl": "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/mastercard.jpg?itok=xiDRXJSm",
+          "width": 960,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
+      "publishedDateTime": "2023-06-07T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers.md",
       "title": "California Assembly Passes Bill Prohibiting Autonomous Trucks On State’s Roads Without Drivers",
       "excerpt": "Late last month, the California State Assembly passed a bill, Assembly Bill 316, prohibiting autonomous weighing over 10,000 pounds from operating on the state's",
@@ -454,6 +497,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit.md",
+      "title": "Sunak hopes to bring Biden on board for AI safety summit",
+      "excerpt": "Prime minister uses Washington visit to push UK as global centre for regulation of technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2796cc8e904d1faae3e12e54ec228e465d4e6e9c/0_94_3839_2303/master/3839.jpg?width=620&quality=85&auto=format&fit=max&s=d1fc6eae00a6c874f53f6c35c06dd63b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit",
+      "publishedDateTime": "2023-06-07T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1150,109 +1244,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-unlock-new-insights-with-azure-openai-service-for-government.md",
-      "title": "Unlock new insights with Azure OpenAI Service for government",
-      "excerpt": "You now have the opportunity to use Microsoft Azure OpenAI Service through purpose-built, AI-optimized infrastructure to securely access the large language models in the commercial environment from Azure Government.\nThe post Unlock new insights with Azure OpenAI Service for government appeared first",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Picture6-1.png",
-          "width": 936,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-waymark-building-the-future-of-commercials-through-ai-technology.md",
-      "title": "Waymark: Building The Future Of Commercials Through AI Technology",
-      "excerpt": "The world’s first official TV advertisement came with a 10 second spot for Bulova watches in 1941, while single companies sponsoring entire shows (with the broadcast",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/",
-      "originalUrl": "https://www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647f76f7f5af3da79657d5cb/0x0.jpg?format=jpg&width=1200",
-          "width": 600,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/amp/",
-      "publishedDateTime": "2023-06-07T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

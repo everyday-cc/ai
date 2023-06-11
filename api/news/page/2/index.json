@@ -503,6 +503,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-08-why-the-story-of-an-ai-drone-trying-to-kill-its-operator-seems-so-true.md",
+      "title": "Why the Story of an AI Drone Trying to Kill Its Operator Seems So True",
+      "excerpt": "A widely shared—and false—story highlights the need for greater transparency in the development and engineering of AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/business-fast-forward/",
+      "originalUrl": "https://www.wired.com/story/business-fast-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6481160420abe9537824f792/191:100/w_1280,c_limit/060723-business-mythical-drone-ai.png",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-celebrating-world-oceans-day-revitalizing-the-marine-ecosystem-with-technology-driven-engineered-reefs-to-accelerate-co2-capture.md",
       "title": "Celebrating World Oceans Day: Revitalizing the marine ecosystem with technology-driven engineered reefs to accelerate CO2 capture",
       "excerpt": "Coral reefs play a vital role in sustaining marine life, capturing CO2 and mitigating the effects of global warming. Technology can help.\nThe post Celebrating World Oceans Day: Revitalizing the marine ecosystem with technology-driven engineered reefs to accelerate CO2 capture appeared first on IBM Blog.\n",
@@ -1176,49 +1227,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses.md",
-      "title": "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses",
-      "excerpt": "Commenting on the collaboration with Mastercard, Andrew Hanna, ZainTech CEO said: “The benefits of sophisticated data to productivity, safety, and cost-savings being driven by AI and machine learning are revolutionizing business processes. This ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "originalUrl": "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/mastercard.jpg?itok=xiDRXJSm",
-          "width": 960,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "publishedDateTime": "2023-06-07T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

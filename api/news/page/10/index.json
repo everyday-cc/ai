@@ -2,6 +2,161 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-02-washington-boy-plummets-20-feet-deep-into-well-during-recess.md",
+      "title": "Washington boy plummets 20 feet deep into well during recess",
+      "excerpt": "A 12-year-old boy in Washington state fell into a well during recess on Tuesday afternoon. Fire officials in Marysville, Washington said in a press release that firefighters initially responded to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess",
+      "originalUrl": "https://www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/340/340/23004538_10210746000863057_8699735736880323065_o.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess.amp",
+      "publishedDateTime": "2023-06-01T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-powerful-artificial-intelligence-ban-possible-government-adviser-warns.md",
+      "title": "Powerful artificial-intelligence ban possible, government adviser warns",
+      "excerpt": "Some very powerful artificial-general-intelligence systems may eventually have to be banned, a member of the government's AI Council has said. Marc Warner, also boss of Faculty AI, said AGI needed strong transparency and audit requirements as well as more inbuilt safety technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-65779181.amp",
+      "originalUrl": "https://www.bbc.com/news/technology-65779181.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1362E/production/_129960497_355e733a-d217-4c75-a8ea-91387d957009.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-65779181.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65779181.amp",
+      "publishedDateTime": "2023-06-01T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels.md",
+      "title": "Citizen’s New CZ Smart Watches Use AI To Forecast Your Energy Levels",
+      "excerpt": "Watchmaker Citizen just launched the newest generation of CZ Smart watches, now featuring an onboard wellness advisor, powered by AI learning via IBM Watson® and NASA research. Available in 16 styles across Sport and Casual Touchscreen and Hybrid Display, the CZ Smart puts a self-care coach right on your wrist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/",
+      "originalUrl": "https://www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/646cf8790227ed23db80423b/master/pass/Shot%2001_172_HERO_3_crop_small.jpg",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/amp",
+      "publishedDateTime": "2023-06-01T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-artificial-intelligence-ai-in-finance.md",
       "title": "Artificial Intelligence (AI) in Finance",
       "excerpt": "Artificial intelligence is poised to reshape the finance industry, yet finance companies face numerous concerns about this emerging technology.",
@@ -699,49 +854,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
-      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
-      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "publishedDateTime": "2023-06-01T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-ibm-cloud-databases-for-elasticsearch-end-of-life-and-pricing-changes.md",
       "title": "IBM Cloud Databases for Elasticsearch End of Life and pricing changes",
       "excerpt": "There is action required before November 30, 2023, for your Elasticsearch version 7.9 and 7.10 deployments. On November 30, these versions will be End Of Life.\nThe post IBM Cloud Databases for Elasticsearch End of Life and pricing changes appeared first on IBM Blog.\n",
@@ -1061,109 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-how-artificial-intelligence-can-help-your-company-thrive.md",
-      "title": "How Artificial Intelligence Can Help Your Company Thrive",
-      "excerpt": "AI has become one of the most important technologies of our time. I believe it will undoubtedly have an impact that will revolutionize the way companies are managed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/",
-      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6438211dffe260fd7c13615b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/amp/",
-      "publishedDateTime": "2023-06-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-augmented-reality-is-already-changing-healthcare-for-the-better.md",
-      "title": "Augmented Reality Is Already Changing Healthcare For The Better",
-      "excerpt": "Ari Grobman is the Chief Executive Officer at Lumus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64776950a4d59f3c17a62ddd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/amp/",
-      "publishedDateTime": "2023-06-01T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

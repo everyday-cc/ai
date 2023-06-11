@@ -3,21 +3,24 @@ category: news
 title: "Improving AI chips with the help of human brain cells"
 excerpt: "AI is modeled on the human brain. To copy the brain's functions, an Australian startup has grown human brain cells on electrodes in a petri dish. This means the new"
 publishedDateTime: 2023-06-05T14:16:00Z
-originalUrl: "https://omaha.com/news/science/improving-ai-chips-with-the-help-of-human-brain-cells/video_686ad286-bc62-5d3f-a872-9d00e912b2fe.html"
-webUrl: "https://omaha.com/news/science/improving-ai-chips-with-the-help-of-human-brain-cells/video_686ad286-bc62-5d3f-a872-9d00e912b2fe.html"
+originalUrl: "https://www.stltoday.com/news/science/video_b1717220-2a58-560f-afc1-2f57888497c1.html"
+webUrl: "https://www.stltoday.com/news/science/video_b1717220-2a58-560f-afc1-2f57888497c1.html"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "mkze+bQf2dVF8RWLr1K3R/XPFG/IBS1HjoNsR9y6jeMOw5ZZ2dfHQg4kShSH00No1EU0XPPhjMLsALi7WqO7s52Q+U20c5pwgxGKjXPVSYHOcQI122Re/iq3yenhyT6eWdBwS7n5Ypxz+QFIdivsvFDfbMTKh9kjbvfzw5jM26Enw01wK5C1Nu5DN9U896+OrGfCVRjsFPLQ9G46FVZj11+or3w8J4I4w55lYPSY86wzT6yHmzO3BkUwAUtgE1OBqW9mp7D4KaOpI08y6AweGg+7gc6SbQR1TlOqZiA0qnFUi25HSo6Z1SdGjCiUFD+71XYySuRaiJm6IosZdfrp7sHAtQjNdcG4eTOo0GsvTUF62sZ8gkeoS/YDI+2It+o+PwTB1rgDHxUd9j+gk84Dp7o82e3PEJrNYUEP6GCQXZBLD5fePLEoBj5KvWkwkYIc62vkhqfbcmAE1/NmefVOPD1CbPEXi0G1XZC7KKCRcwvgK+i1/gFPUk0Xc6yBKE4IYHu6inaN0CekoaqEFfrong==;TEdcSjjhJMS/5ywI9k2ZFw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/17/b1717220-2a58-560f-afc1-2f57888497c1/647a3666d2595.image.jpg?crop=940%2C494%2C0%2C17&resize=940%2C494&order=crop%2Cresize"
+    width: 940
+    height: 494
+    isCached: true
+
+secured: "8j5vuxp8CbMpjRGtdYuGF/vAKDYkKBmXIyt9hzl2b4yGMDQKDZbG/bVqRMepL4Op8FCnuvAhK+89NNm47ZTI1SzS+dycB5m/ObEpu9JhUEsr0tPoQzM2ouNosIejdWl7M+CXELioobQSSgWEx0z14GZQEBN2NWpmMkgEP1WZpO80hOGpdG1BUwLqk9GAMOxP+xxkXJRXTLivUWj5vWBzcWm7C3WD0cNR+qNvIjzARzujBavI/MSPd2HJYOdep/SyMtv732Jf/E1Xbtdc88At24fxJ2xOJRKFEiVJqkrhcwUo3stc8qKFsD8WxoSGphh1c6vByO0A5rSKPx4/CaaCx93HubA/cYPpuEdWxWqte6A=;JJFXX86iSR7vw+eKGX7J6g=="
 ---
 

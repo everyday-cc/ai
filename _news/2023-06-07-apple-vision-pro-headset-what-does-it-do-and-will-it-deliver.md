@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The Download: Apple’s headset challenges, and what AI can learn from nuclear safety"
+    excerpt: "The ‘one more thing’ announced by Apple at its Worldwide Developers Conference (WWDC) this year was the industry’s worst-kept secret. The Apple Vision Pro, the tech giant’s gamble on making mixed reality headsets a thing, has received a mixed reception. Most of the concern has centered on the eye-watering $3,499 cost."
+    publishedDateTime: 2023-06-06T12:07:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/06/1074091/the-download-apples-headset-challenges-and-what-ai-can-learn-from-nuclear-safety/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 11
 
 secured: "H3Ar4O3DLZg6dlpHD+SEcOAf9O2uEbpsIJHzYvtwOcetn6UzavlYIJETDLm2F5gIzJxZ+9k0paTxLAUTlxthz/N/R33eFq+W4RumfA+KHQvASzKVoiKnMEY7297UHUXFcSAVuUg2zng3FqsQpvxTzZIWCkI+9fm/IOhdGV86ME+eUPd6uOYF7z6JrJAW9JYhYHt/JHzM4QYb1MDyxVLzKAEXQ3XEnIzgBg+pw/I4FywUjr8Km7RDIer/P6E78MzqMUkT5Dq1SOubVRsM8PgO1b3nYsLb41fibC7QfMFbnoMz7xphYspxwUwjGkXhyAgTT3cykvIWiKRcuUyasyg9ZUWWgVzbB2roPy40iHl8QziCLV11DdNvg1lqd/RFU64GZTaFpyE9nBJ/FUkP6KWPa3VslcerLwGPo/GJhAC0kI57HA5Jn3R7Xo1L30FDYNBvvhVEq6xfhXymIwASjyErW3o6V+Q4aESuxpHW5Z+rHGogDey+GsjfiyUyC7amZ81ecphBSapaZz3G/IHsl6JQFQ==;IPVZbBsTA1B82/PGSmjbag=="
 ---

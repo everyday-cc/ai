@@ -30,22 +30,6 @@ images:
     height: 413
     isCached: true
 
-related:
-  - title: "Australian Institute of Architects supports the Voice to Parliament"
-    excerpt: "The Australian Institute of Architects has announced its support for the Indigenous Voice to Parliament in the upcoming referendum."
-    publishedDateTime: 2023-06-06T07:08:00Z
-    webUrl: "https://architectureau.com/articles/australian-institute-of-architects-supports-the-voice-to-parliament/"
-    type: article
-    provider:
-      name: ArchitectureAU
-      domain: architectureau.com
-    quality: 24
-    images:
-      - url: "https://media3.architecturemedia.net/site_media/media/cache/76/b6/76b628622dc401b888069a3b9e847681.jpg"
-        width: 638
-        height: 425
-        isCached: true
-
 secured: "xTlmstAbtKoNK+MG06Gs1d3W9X33qTJy9Av8YTo9/5j9mIE6f6iGhjGY38nH4oBuG1zyubkwjXKWyjOYXhmRRaraF3FP+q12J8erQ8QKlH4Y3Go11X531Aeu6lq+wCEl0uNzLBUZ7OA7hVkUmFKZzsbFKTAgFPHAxvsIxhVhLRoO924Sb2Bxvij5lsHRDCaAPDrYaOamXxg4QJ00DU2HwEaWaal0JZZkWob5Pf2qk6pb5BMk3HwbJ/cjHQDkggZQXw7XdxgXiH+QMGpV0vA3MTBtE+jNtmDjuBLb24n0Xj80YTKObTp7yydMPMLVmVuzUm21HEb1S+HN7z7xIA4e2AAAJV+rAEseiIFmVGE12w0=;SpWUwSluVmIgZowYPDrOnA=="
 ---
 

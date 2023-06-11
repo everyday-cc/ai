@@ -774,6 +774,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-05-improving-ai-chips-with-the-help-of-human-brain-cells.md",
+      "title": "Improving AI chips with the help of human brain cells",
+      "excerpt": "AI is modeled on the human brain. To copy the brain's functions, an Australian startup has grown human brain cells on electrodes in a petri dish. This means the new",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/science/video_b1717220-2a58-560f-afc1-2f57888497c1.html",
+      "originalUrl": "https://www.stltoday.com/news/science/video_b1717220-2a58-560f-afc1-2f57888497c1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/17/b1717220-2a58-560f-afc1-2f57888497c1/647a3666d2595.image.jpg?crop=940%2C494%2C0%2C17&resize=940%2C494&order=crop%2Cresize",
+          "width": 940,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-google-pixel-8-could-get-a-major-gaming-and-ai-boost-from-leaked-tensor-g3-chip.md",
       "title": "Google Pixel 8 could get a major gaming and AI boost from leaked Tensor G3 chip",
       "excerpt": "One of the biggest upgrades likely to be offered by the Google Pixel 8 and Pixel 8 Pro is the chipset. We fully expect Google to replace the Tensor G2 found in the Pixel 7 series with a new Tensor G3, and now that chipset has leaked in full.",
@@ -1145,49 +1188,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
-      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
-      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109",
-      "publishedDateTime": "2023-06-01T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-stable-diffusion-torch-is-not-able-to-use-gpu-can-you-fix.md",
       "title": "Stable Diffusion “Torch is not able to use GPU” – can you fix?",
       "excerpt": "Having issues with running Stable Diffusion? Need to resolve “Torch is not able to use GPU” error message? Take a read of this post which explains how to resolve ...",
@@ -1363,21 +1363,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-01-nvidias-ceo-plans-trip-to-meet-chinese-tech-executives-despite-us-curbs-on-ai-chips.md",
-      "title": "Nvidia’s CEO plans trip to meet Chinese tech executives despite US curbs on AI chips",
-      "excerpt": "Nvidia CEO Jensen Huang is heading to China to meet with executives from Tencent, ByteDance and EV makers Li Auto and BYD, despite rising tensions between Washington and Beijing.",
+      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
+      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
+      "webUrl": "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/01/bdb2ca71-bbb4-46b6-8dc5-afceee3cce14_a868d5fc.jpg?itok=qKnSkKzI&v=1685586767",
-          "width": 1200,
-          "height": 630,
+          "url": "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1385,23 +1385,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
-      "publishedDateTime": "2023-05-31T19:34:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106",
+      "publishedDateTime": "2023-05-31T22:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

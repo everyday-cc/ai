@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The rise of digital marketing: Assessing the impact of AI and machine learning on advertising practices"
-    excerpt: "The rapid progress in artificial intelligence and machine learning has provided marketers with powerful tools to effectively connect and engage with their target"
-    publishedDateTime: 2023-06-06T07:21:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/16/239002.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 55
-    images:
-      - url: "https://biz-file.com/c/2306/700581.jpg"
-        width: 700
-        height: 364
-        isCached: true
 
 secured: "6c4ddokCN2k4u3uvRh8U8M0XWiP+JsqnuRxS0MJB7bu1f9q6+xHuVJh9j+qJqM0axNyBfUdERKxrfJC16oCr6UNYUSpde0NtRAbfLfX/lhtH+jOEp5CGTBNwkzm14JCmqDzfXA7bQydTyPIjKR19B6HfcTsFfSiUsxob0wHsUeKNAcovfkPLMqoI0qI4s+sUu1jfpD2Joa+bOYbXlVshlTk1KKf6oq7aNwSbHPHagk3w2GJVT2CrrTseC0hCggaa+7lL80C/0lzFu/ROe+aksWYJ8HIO2s5fhhO55IBOiB0xFih8Ym40dEOqAlBQLWpVHTmcKYFYn1P4VNboepBcwTYLWo+ODnAhmKhoCjSjKqwKddF2zgMggAaw9Uf3Q910U8IOAj/SKt+vMOLRJvrgg2ROL/dlT4BQh991jJDpcG8CGRNKttDcPbMJVfvWIno7coeheYsujscEzOqgM502Cprmu9FTFMy7inaq9FznT3LMh4GeGstm9jmpPx2TOsl0J7Mv+yhnMblxBD1d/1ihOw==;kfLqlKhsrvs61BHzLbOKig=="
 ---

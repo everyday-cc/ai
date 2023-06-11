@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "We could have only two years to rein in AI, warns Rishi Sunak’s adviser"
-    excerpt: "Matt Clifford, Rishi Sunak's adviser on technology, said that unless AI producers are regulated on a global scale, there could be 'very powerful' systems that humans could struggle to control."
-    publishedDateTime: 2023-06-06T08:55:00Z
-    webUrl: "https://metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/"
-    ampWebUrl: "https://metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/amp/"
+  - title: "Sunak hopes to bring Biden on board for AI safety summit"
+    excerpt: "Prime minister uses Washington visit to push UK as global centre for regulation of technology"
+    publishedDateTime: 2023-06-07T20:30:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2023/06/SEI_158285913-097a.jpg?quality=90&strip=all&zoom=1&resize=600%2C399"
-        width: 600
-        height: 399
+      - url: "https://i.guim.co.uk/img/media/2796cc8e904d1faae3e12e54ec228e465d4e6e9c/0_94_3839_2303/master/3839.jpg?width=620&quality=85&auto=format&fit=max&s=d1fc6eae00a6c874f53f6c35c06dd63b"
+        width: 620
+        height: 372
         isCached: true
   - title: "UK not too small to be centre of AI regulation, says Rishi Sunak"
     excerpt: "PM uses Washington visit to push Britain as global centre for technology and seek US involvement in safety summit"
@@ -62,31 +62,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "America, Britain to 'lead together' on AI, tech and more, Rishi Sunak says"
-    excerpt: "British Prime Minister Rishi Sunak said his country and the United States have agreed to a new deal for transatlantic cooperation, that includes working together on artificial intelligence."
-    publishedDateTime: 2023-06-08T12:42:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/06/08/British-PM-Sunak-US-Visit-Pushes-For-Tech-Partnership/2251686221770/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/06/08/British-PM-Sunak-US-Visit-Pushes-For-Tech-Partnership/2251686221770/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/06/08/British-PM-Sunak-US-Visit-Pushes-For-Tech-Partnership/2251686221770/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/2251686221770/2023/1/588e1db6c5cff3b37c676d837ace6a54/v1.5/America-Britain-to-lead-together-on-AI-tech-and-more-Rishi-Sunak-says.jpg"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Future of war will be in artificial intelligence, warns ex-national security adviser"
-    excerpt: "It comes amid mounting alarm over the threat from AI technology after Rishi Sunak's top tech adviser warned world leaders had just two years to get a grip on the rapidly developing field"
-    publishedDateTime: 2023-06-08T17:52:00Z
-    webUrl: "https://www.mirror.co.uk/news/politics/future-war-artificial-intelligence-warns-30187224"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 29
   - title: "Rishi Sunak in D.C. with Ukraine, economy, AI on agenda for Biden meet"
     excerpt: "The war in Ukraine is top of British Prime Minister Rishi Sunak’s agenda as he starts a two-day trip to Washington."
     publishedDateTime: 2023-06-07T16:51:00Z

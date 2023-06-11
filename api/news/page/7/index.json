@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-05-baidus-2022-esg-report-highlights-safe-and-controllable-as-highest-principle-of-ai-ethics.md",
+      "title": "Baidu's 2022 ESG Report Highlights \"Safe and Controllable\" as Highest Principle of AI Ethics",
+      "excerpt": "autonomous driving, smart terminals, system services, and a wide range of additional components. In 2022, Baidu's self-developed ERNIE Big Model has been used in place of traditional data classification technique to achieve automatic data management ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2023/06/05/baidu-s-2022-esg-report-highlights-safe-and-controllable-as-highest-principle-of",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2023/06/05/baidu-s-2022-esg-report-highlights-safe-and-controllable-as-highest-principle-of",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-ubs-buy-these-53-stocks-that-could-rise-at-least-20-as-they-profit-from-the-ai-revolution.md",
+      "title": "UBS: Buy these 53 stocks that could rise at least 20% as they profit from the AI revolution",
+      "excerpt": "UBS says investors who want exposure to the rise of the artificial intelligence industry should buy these 53 stocks with at least 20% upside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-ubs-2023-6",
+      "originalUrl": "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-ubs-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/647a410440bf000019fa14d0?width=1200&format=jpeg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-getting-started-with-mqtt-in-azure-event-grid.md",
+      "title": "Getting started with MQTT in Azure Event Grid",
+      "excerpt": "Those events could also be stored in Azure Data Lake, where analysts can use tools like Data Explorer to extract insights from device data and use that data to train machine learning-powered control systems. Azure Event Grid is an important component of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.html",
+      "originalUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/02/shutterstock_1748437547-100937033-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.amp.html",
+      "publishedDateTime": "2023-06-05T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-it-might-be-controversial-but-ai-could-help-create-a-greener-future.md",
       "title": "It Might Be Controversial, But AI Could Help Create A Greener Future",
       "excerpt": "Arup’s digital services leader, Will Cavendish said it has used AI to calculate where best to deploy nature-based solutions in cities like Shanghai.",
@@ -1056,136 +1194,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-these-robot-hands-can-be-controlled-from-anywhere-in-the-world.md",
-      "title": "These robot hands can be controlled from anywhere in the world",
-      "excerpt": "Finally, once I step on a paddle, I'm in control of the 4.3kg robot arms. It doesn't take too long to get used to, as it's super intuitive. So, if I suddenly drop my hands, they don't crash into ...",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/",
-      "originalUrl": "https://metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-plan-for-facial-recognition-tech-in-schools-riles-rights-groups.md",
-      "title": "Plan for facial recognition tech in schools riles rights groups",
-      "excerpt": "Teachers and students of the Telangana’s government schools will likely have to mark their attendance on an app that uses facial recognition technology (FRT), even as groups emphasising the right to privacy continue to raise concerns about the use of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/exu8vf/article66928332.ece/alternates/FREE_1200/LOCAL%20ELECTIONS",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/",
-      "publishedDateTime": "2023-06-03T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-tesla-boosts-referral-program-to-help-sales-1000-off-and-3-months-of-free-full-self-driving.md",
-      "title": "Tesla boosts referral program to help sales, $1000 off and 3 months of free Full Self-Driving",
-      "excerpt": "Tesla is boosting its referral program to help sales at the end of the quarter with $1,000 off and 3 months of free Full Self-Driving for Model S and Model X, and more credits for Model 3 and Model Y.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/",
-      "originalUrl": "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2023/06/IMG_2404.png?w=472",
-          "width": 472,
-          "height": 1023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

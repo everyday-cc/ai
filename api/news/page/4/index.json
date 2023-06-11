@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-07-unlock-new-insights-with-azure-openai-service-for-government.md",
+      "title": "Unlock new insights with Azure OpenAI Service for government",
+      "excerpt": "You now have the opportunity to use Microsoft Azure OpenAI Service through purpose-built, AI-optimized infrastructure to securely access the large language models in the commercial environment from Azure Government.\nThe post Unlock new insights with Azure OpenAI Service for government appeared first",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Picture6-1.png",
+          "width": 936,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-waymark-building-the-future-of-commercials-through-ai-technology.md",
+      "title": "Waymark: Building The Future Of Commercials Through AI Technology",
+      "excerpt": "The world’s first official TV advertisement came with a 10 second spot for Bulova watches in 1941, while single companies sponsoring entire shows (with the broadcast",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/",
+      "originalUrl": "https://www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647f76f7f5af3da79657d5cb/0x0.jpg?format=jpg&width=1200",
+          "width": 600,
+          "height": 319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/amp/",
+      "publishedDateTime": "2023-06-07T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-waymo-self-driving-vehicle-kills-dog-in-san-francisco.md",
       "title": "Waymo Self-Driving Vehicle Kills Dog in San Francisco",
       "excerpt": "The dog ran into the street from behind a parked car causing what Waymo describes as an unavoidable incident. A Waymo robotaxi struck and killed a small dog in San Francisco last month while it was in self-driving mode.",
@@ -104,7 +207,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1138,100 +1241,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-mobileye-stock-falls-intel-found-a-way-to-cash-in-on-ai.md",
-      "title": "Mobileye Stock Falls. Intel Found a Way to Cash in on AI.",
-      "excerpt": "Mobileye Global shares were dropping early on Tuesday as chip maker Intel planned to sell shares of the company worth around $1.4 billion. Intel looks to be taking profit from a run up in the shares of the self-driving technology company it spun off last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/intel-mobileye-global-stock-price-6299c8e8",
-      "originalUrl": "https://www.barrons.com/articles/intel-mobileye-global-stock-price-6299c8e8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-499870/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/intel-mobileye-global-stock-price-6299c8e8",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-mobileye-global-stock-price-6299c8e8",
-      "publishedDateTime": "2023-06-06T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-governments-worldwide-rush-to-place-regulations-on-artificial-intelligence-a-rapidly-growing-technology.md",
-      "title": "Governments worldwide rush to place regulations on artificial intelligence, a rapidly growing technology",
-      "excerpt": "Artificial intelligence continues to become more powerful, and governments across the world are looking to regulate the technology. Here's what different countries are doing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology",
-      "originalUrl": "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18095c3e-bc3a-4467-93fd-fbf40bb6ed4e/4488e10c-7119-406e-bfbb-9043f630b039/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology.amp",
-      "publishedDateTime": "2023-06-06T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
