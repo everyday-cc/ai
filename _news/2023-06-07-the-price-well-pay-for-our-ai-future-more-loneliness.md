@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-technology-americans-lone
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-100864261,width-1070,height-580,imgsize-4548,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
-        isCached: true
-  - title: "AI Prompt Engineering Isn’t the Future"
-    excerpt: "Despite the buzz surrounding it, the prominence of prompt engineering may be fleeting. A more enduring and adaptable skill will keep enabling us to harness the potential of generative AI? It is called problem formulation — the ability to identify,"
-    publishedDateTime: 2023-06-06T12:05:00Z
-    webUrl: "https://hbr.org/2023/06/ai-prompt-engineering-isnt-the-future"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_06_-1084380192_-1335901954_-523318725.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "lt2fAwC4Fdb3i4P9MCoaauC5E9hIGK9lld8wZrK8cWioRwGRKRRLCL5AsEKy04S5f0j8XDLplWOXK/vwu7UzglceijK/wHIdm0YIlToRvTSeUzWoByS7BkHDOOmVvIeaMeY68zx/e7aCW4aPJXakLUtS4NTWo5I9EY0nztWslTLcxPDmCb6R0S8KiRkAiCeAgA1DsezNBkrKwFrH7hrhsB55RdVDYyM0agLIcDYoYfRbnlgYrsZzrm9WycecU7G9oLMYPzGJ4U/NjLWKXuVMRLTtbiZbHD0yxewn2bTxSwvVgJBwWmjvx25btoHhRURHDkK854IXKAq51wDCot/L/KsbpPPUDQa1qDor2fXXbzQ=;gNyak84tBmkmUaqhH4kwVA=="

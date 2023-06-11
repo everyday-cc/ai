@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and
 webUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
       name: i
       domain: inews.co.uk
     quality: 19
-  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent"
-    publishedDateTime: 2023-06-06T12:44:00Z
-    webUrl: "https://www.asiaone.com/business/automation-anywhere-and-aws-bring-power-generative-ai-mission-critical-mainstream"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 13
   - title: "5 sci fi anime that will totally blow your mind on the implications of AI advancements"
     excerpt: "From Ghost in the Shell to Psycho Pass, here are five sci fi anime that discuss the complexities of artificial intelligence or AI."
     publishedDateTime: 2023-06-08T13:00:00Z

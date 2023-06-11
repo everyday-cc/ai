@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-us
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "FzXkEccW+6NeND1EZDRKivhXrVTGKdMApTqeczsTHL4Ndo1Eg2ijppE0qZ7KlnDL51UlL9BxuYxbnv756spN5pFDfgesf8XhifSDb0oRRIrB/qwU+8fuJnnIHJ6QMWX3AWQGCWGpqIPoSBpznvhOiW/GsGEfYWLKIOGkuV9P4vlFaaS0IkyWXxHN4b/aRFb/7RvGPnXtAVs6+bkhQQLB6SkDFq+bwMNmAi1zS4P56twZkVZ/N9R8Mw8O2hjTA5t6zPI199SvLeZru265fS6+g6e7cGYnltLNQlfNv6bKF65M00WA9C6D/rk5O05iXzCKhYRrmukuy2Zc1FUprbMTi+SMzZzVPuSlmNixfWVB4L8=;W4hvFMRdQalYLIxgT+aW0A=="
+secured: "yzVnwOPSklvVwRiNKVh3ztYtlZNQwstBSSsc6uI4jOsvqJBzuroYL3H2m/RzVIeInDjWsQjXD/5HLr7dNBruQop6RUk3Bvk7Xq2ldQ8XB6iQY/Y+ZOCKsX4yzfrIKIPs/w+ADFABFSRYf97AyuBjhalJZODrfiAVDZnJ4vcWJm2qLOtFGiVtUdMGlwumLjUgwxzRyjzKck0MzbIGYVSoZUsbxWVJerc2bvCwktyJL6/lXQXPVHFZsYTj7UMToFH8OsYGnpF+6MzGFun78m6v+0vKbhPGcSBDgH/hFCbuhJCjGO5FmZEGcMemP2f82W/NhK0VvjtWYISTcWe/FZ3ZesMJ9E2rfZimhkPH+THyfyhZcqIRWodTpjdb6B9f3mfsqg3bEMNMBqzSELcEy+mHVPdl+tsOQ4teLBGZ1uOXAiWJ75ZBf8P15b2O0KUDuXEqtzoq+Wgtw+rM5Bo2u87tfNjFYcUkiKraXSm5ouITRQB+aomyw3xASz4kYcklPN0KJQSQhcxOgNSyIYllqM+FHg==;xA3RtWvsuBHs/aRvJEpkKg=="
 ---
 

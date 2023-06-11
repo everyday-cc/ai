@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-ena
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
 type: article
 quality: 121
-heat: 351
+heat: 331
 published: true
 
 provider:
@@ -271,15 +271,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
-    excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
-    publishedDateTime: 2023-06-06T12:22:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827097.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
   - title: "Personal Injury Startup EvenUp Announces $50.5 Million Investment, Launches Gen AI Assistant ‘Litty’"
     excerpt: "And again, avoid manual data entry when it comes to the tabulation of bills.” Lastly, the startup is focused on further refining Litty’s generative AI capabilities. “We want to be able to accelerate the client’s ability to get to a demand draft ..."
     publishedDateTime: 2023-06-08T14:07:00Z
@@ -303,15 +294,6 @@ related:
       name: Tasnim News Agency
       domain: tasnimnews.com
     quality: 19
-  - title: "Microsoft Agrees To A $20 Million Settlement For Improper Data Collection From Children"
-    excerpt: "FTC has imposed a $20 million fine on Microsoft for collecting and sharing sensitive children data in the US without parental consent."
-    publishedDateTime: 2023-06-06T12:49:00Z
-    webUrl: "https://techreport.com/news/microsoft-agrees-to-a-20-million-settlement-for-improper-data-collection-from-children/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 11
 
 secured: "pc0fkb7jdmF5+WimDxbiGC/rnWmy1sFwG5t8IZJLzAenIpyw8jlvDRxLpV1/yDtLJvr74qYD4MAGgSajhZqUiXYtOU1167O2eF6nJ0M6ZXjcMCt82nzqgyC4PnjF6FMOCHANJoHwUsx3bqhW9aeLILgUcG6In9jajuOl95Eyxc5ijkMa9ImrHQQIbNx5SDsqNtsUIcTW3mqRjNVRgpf4kudc36rCkO2T/9UUoggZYlvnJwkXCMM8gCORnNm1Z6YHSlsZET0dh/FVrbntfqV4R0R2MwOvmZxDvhQUxqkf6fEteTwPrJcy96Jk7YcfELDLEllOpGb43MU4c6eUWl0vWBzlTZA7S8TjzaDMM67wEYeYgrOo9kktUmuJhfyE/nON8cG1QoiEOC33b+HHdsbtDi3MfDMHdD8+NQdPfgFGcItXwvt10Xapt0l4RmorpAY7+7LZdwY6uM5Ia0GB1OuGSlZvSzyOdA0GH07s6iR68UlhWa3NZfqkQjqlFDdyw6cnoojN5FUVcB2JKS/P+EFbWA==;/CSz/+eo9TkeZ6EqJEFvjw=="
 ---

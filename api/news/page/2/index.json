@@ -2,6 +2,160 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-09-startup-valencia-announces-vds2023-discussing-ai-mobility-and-sustainability.md",
+      "title": "Startup Valencia Announces VDS2023, discussing AI, Mobility, and Sustainability",
+      "excerpt": "Startup Valencia, a private non-profit organization that has been representing and promoting the Valencian tech and innovation ecosystem,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/startup-valencia-announces-vds2023-discussing-ai-mobility-and-sustainability-1032379551",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/startup-valencia-announces-vds2023-discussing-ai-mobility-and-sustainability-1032379551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newsfilecorp.com/files/8568/169365_figure1_550.jpg",
+          "width": 550,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-ai-startup-cohere-now-valued-at-over-21b-raises-270m.md",
+      "title": "AI startup Cohere, now valued at over $2.1B, raises $270M",
+      "excerpt": "Cohere, a generative AI startup with ties to Google, has raised $270 million in a round that values the company at over $2.1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/",
+      "originalUrl": "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1226864145.jpg?resize=1200,420",
+          "width": 1200,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/",
+      "publishedDateTime": "2023-06-08T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-another-us-judge-says-lawyers-must-disclose-ai-use.md",
+      "title": "Another US judge says lawyers must disclose AI use",
+      "excerpt": "A judge on the U.S. Court of International Trade on Thursday issued an order requiring lawyers to disclose their use of generative artificial intelligence tools to create legal documents, citing security concerns related to confidential information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/another-us-judge-says-lawyers-must-disclose-ai-use-2023-06-08/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/another-us-judge-says-lawyers-must-disclose-ai-use-2023-06-08/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/WUJ86NY10CE9sTDRdOnDiXYlMC0=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/756AIQQZJJNOPKCKJOSCV46MAM.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-uks-plans-for-first-global-summit-on-ai-safety-draw-criticism.md",
       "title": "UK’s plans for “first global summit” on AI safety draw criticism",
       "excerpt": "These worries were recently amplified by some AI experts likening the potential threats posed by AI to those of pandemics or nuclear weapons. \"AI\" has also been an extremely buzzy term in business recently.",
@@ -260,7 +414,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/exploring-generative-ai-in-conversational-experiences-an-introduction-with-amazon-lex-langchain-and-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -312,7 +466,7 @@
       "originalUrl": "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -804,7 +958,7 @@
       "originalUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -882,6 +1036,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-08-the-impact-of-ai-on-strategy-games.md",
+      "title": "The Impact Of AI On Strategy Games",
+      "excerpt": "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/",
+      "publishedDateTime": "2023-06-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf.md",
       "title": "Apple Displaced As Top Holding By AI-Play Big Tech In Robot-Run Large-Cap ETF",
       "excerpt": "In a surprising twist in the world of AI-driven investment, the Qraft AI-Enhanced U.S. Large Cap ETF (NYSE:QRFT) has displaced Apple Inc. (NASDAQ:AAPL) as its top holding, replacing it with another big tech player,",
@@ -933,49 +1138,6 @@
         "AI",
         "AI in Robotics",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt.md",
-      "title": "Sam Altman: The man behind the AI sensation across the globe, ChatGPT",
-      "excerpt": "ChatGPT: OpenAI co-founder Sam Altman says that artificial intelligence might kill jobs but it is not a permanent job killer",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html",
-      "originalUrl": "https://www.business-standard.com/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/16/full/1684251299-6933.jpg",
-          "width": 3500,
-          "height": 2332,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business-standard.com/amp/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html",
-      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html",
-      "publishedDateTime": "2023-06-08T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     },
     {
@@ -1069,163 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.md",
-      "title": "Microsoft launches GPT-enabled Azure AI for US government agencies",
-      "excerpt": "Microsoft has announced the availability of a new Azure OpenAI service, designed specifically to meet stringent requirements of US government agencies. These generative AI capabilities offered by the new service can help US government agencies improve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.html",
-      "originalUrl": "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 351,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/05/shutterstock_716332027-100940548-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html",
-      "publishedDateTime": "2023-06-08T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-teslas-ai-dreams-may-already-be-priced-into-stock.md",
-      "title": "Tesla’s AI Dreams May Already Be Priced Into Stock",
-      "excerpt": "After an 82% year-to-date rally, Tesla shares trade at about 61 times forward earnings, compared with the mid-to-high single-digit multiples of auto stalwarts General Motors Co. and Ford Motor Co. Even current AI darling Nvidia Corp. trades at only 42 times.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-08/tesla-s-ai-dreams-may-already-be-priced-into-stock-tech-watch",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-08/tesla-s-ai-dreams-may-already-be-priced-into-stock-tech-watch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDkRIumkcuUc/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-enabling-ai-powered-business-intelligence-across-the-enterprise.md",
-      "title": "Enabling AI-powered business intelligence across the enterprise",
-      "excerpt": "Data is the lifeblood of successful organizations. Beyond the traditional data roles&#8212;data engineers, analysts, architects&#8212;decision-makers across an organization need flexible, self-service access to data-driven insights accelerated by artificial intelligence (AI). From marketing to HR, finance",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/",
-      "originalUrl": "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enabling-AI-powered-business-intelligence-across-the-enterprise--scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Fantasy fears about AI are obscuring how we already abuse machine intelligence"
+    excerpt: "We blame technology for decisions really made by governments and corporations"
+    publishedDateTime: 2023-06-11T04:31:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jun/11/big-tech-warns-of-threat-from-ai-but-the-real-danger-is-the-people-behind-it"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/11/big-tech-warns-of-threat-from-ai-but-the-real-danger-is-the-people-behind-it"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/11/big-tech-warns-of-threat-from-ai-but-the-real-danger-is-the-people-behind-it"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/dd3b950b0e0f8ed546aa0a5c13fa029e05b68059/0_186_4519_2712/master/4519.jpg?width=620&quality=85&auto=format&fit=max&s=e2f2e12c0280acc7f8b580f28de16677"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "R52AMoulEql9bArSJW+lWqk2PVwto00myOW5zr3JAJUlpQ3J7G1scviZPL2UmDeqaags/k1S74wNDYKVhFM15KOSDPPfqD4GEp94BJ+9ws2/9egeRsvIJTETMNuH96iTypz5v8mjcpMLDEEu/HP9u3M4zPNsImO1asclpsfYUlwZ5NJKrW7FY57S6Y3QP4TqVOEDHiH5Qx2SD0BogIan1qrkdIaVGrn+OmIddwiQaXAOSUFHSTDSoz08VViKHocYJo/QS5st6TtSC/VwGhF8B9dAUA35Eo8fY87S/kpC6KUofBg7EB8plleTf4KgQ10kVkAVRFQU7N1yDDOCQYnGuFXKXL/eAmiH4Lqpuo5vq4c=;nRU9wtnHLhoniHC6AZ/BDA=="
 ---

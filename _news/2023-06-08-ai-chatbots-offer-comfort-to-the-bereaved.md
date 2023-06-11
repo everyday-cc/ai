@@ -86,6 +86,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "AI Chatbots Are Causing Bank Customers Headaches"
+    excerpt: "Banks are implementing AI chatbots into their operations as a cost-cutting measure, but the Consumer Financial Protection Bureau says some bots are causing frustrations for customers."
+    publishedDateTime: 2023-06-06T18:19:00Z
+    webUrl: "https://www.cnet.com/personal-finance/ai-chatbots-are-causing-bank-customers-headaches/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 64
   - title: "Meta unveils plan to infuse generative AI into Facebook, Instagram, Messenger"
     excerpt: "Mark Zuckerberg, the CEO of Meta , recently shared his plans to integrate generative artificial intelligence into popular platforms like Facebook, Instagram, and Messenger.Generative AI has"
     publishedDateTime: 2023-06-08T21:18:00Z

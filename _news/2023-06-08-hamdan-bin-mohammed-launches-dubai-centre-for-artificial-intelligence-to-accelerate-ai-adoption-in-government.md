@@ -9,7 +9,7 @@ ampWebUrl: "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-
 cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai to establish first integrated centre to attract artificial intelligence companies"
-    excerpt: "The sources indicated that the Dubai Multi Commodities Centre (DMCC) will be the headquarters and destination for new emerging companies in the technology and artificial intelligence sector, which are looking for new markets for them in the region,"
-    publishedDateTime: 2023-06-07T20:43:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/06/07/dubai-to-establish-first-integrated-centre-to-attract-artificial-intelligence-companies"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 46
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2019/12/29/dubai-property-750.ashx?h=450&w=750&hash=AF2A133D845714D6DAC80260444D29A9"
-        width: 750
-        height: 450
-        isCached: true
   - title: "Sheikh Hamdan launches Dubai Centre for Artificial Intelligence to accelerate government services"
     excerpt: "\"Dubai’s government will be the best in the world in deploying artificial intelligence (AI) within its various entities. This new Centre is the first step in achieving this goal and developing future services to keep pace with rapid technological advancements."
     publishedDateTime: 2023-06-08T16:29:00Z

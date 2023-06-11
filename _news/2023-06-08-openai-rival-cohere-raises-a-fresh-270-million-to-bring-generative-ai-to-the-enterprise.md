@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 616
         isCached: true
+  - title: "Fantasy fears about AI are obscuring how we already abuse machine intelligence"
+    excerpt: "We blame technology for decisions really made by governments and corporations"
+    publishedDateTime: 2023-06-11T04:31:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jun/11/big-tech-warns-of-threat-from-ai-but-the-real-danger-is-the-people-behind-it"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/11/big-tech-warns-of-threat-from-ai-but-the-real-danger-is-the-people-behind-it"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/11/big-tech-warns-of-threat-from-ai-but-the-real-danger-is-the-people-behind-it"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/dd3b950b0e0f8ed546aa0a5c13fa029e05b68059/0_186_4519_2712/master/4519.jpg?width=620&quality=85&auto=format&fit=max&s=e2f2e12c0280acc7f8b580f28de16677"
+        width: 620
+        height: 372
+        isCached: true
   - title: "In AI Talent War, Rushing to Hire Tech Experts Without a Business Plan Is the Least Intelligent Approach"
     excerpt: "And the reassuring news, according to Wang: “There’s not going to be a robot that’s going to walk up ... said that before jumping on the AI bandwagon, it’s important to start from square one with a plan in place. “If you’re hiring AI technical ..."
     publishedDateTime: 2023-06-08T14:38:00Z

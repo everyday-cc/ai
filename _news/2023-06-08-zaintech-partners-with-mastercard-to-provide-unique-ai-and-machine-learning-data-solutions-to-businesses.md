@@ -9,8 +9,8 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/zaintech-partners-mastercar
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Al Bawaba News
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses"
-    excerpt: "Partnership to enable ZainTech and Zain B2B teams to offer cutting-edge data solutions that solve business challenges and drive efficiencies"
-    publishedDateTime: 2023-06-06T11:13:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
   - title: "From Integrating AI To Strictly Protecting Client Data, How Online Education Company Amesite Inc Is Doing Things Differently To Disrupt Learning"
     excerpt: "As an online platform and product developer powered by artificial intelligence (AI), Amesite is positioning itself to disrupt ... In 2022 Amesite started a collaboration with Microsoft for the use of its Azure cloud, and it was featured in a story on ..."
     publishedDateTime: 2023-06-07T13:11:00Z

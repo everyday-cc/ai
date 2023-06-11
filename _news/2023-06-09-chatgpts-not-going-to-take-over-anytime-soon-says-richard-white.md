@@ -21,34 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Can ChatGPT Design A Robot?"
-    excerpt: "Researchers with the help of chatGPT, have developed a tomato-harvesting robot after deliberating and accepting the challenges."
-    publishedDateTime: 2023-06-09T10:06:00Z
-    webUrl: "https://www.electronicsforu.com/news/can-chatgpt-design-a-robot"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 39
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/featured-1.jpg"
-        width: 800
-        height: 530
-        isCached: true
-  - title: "Meta exhibits new AI tools similar to ChatGPT during a company meeting"
-    excerpt: "During an all-hands meeting held on Thursday, Meta's Chief Executive Officer (CEO), Mark Zuckerberg, disclosed a proposal to integrate generative artificial"
-    publishedDateTime: 2023-06-09T13:53:00Z
-    webUrl: "https://www.onmsft.com/news/meta-exhibits-new-ai-tools-similar-to-chatgpt-during-a-company-meeting/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Image-with-the-Meta-Logo.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "ChatGPT teams up with humans to develop its first robot which can harvest tomatoes"
     excerpt: "Researchers used ChatGPT-3 to develop a robotic gripper for harvesting tomatoes, in a first demonstration of the AI tool’s potential for collaborating with humans on robot design."
     publishedDateTime: 2023-06-08T11:32:00Z

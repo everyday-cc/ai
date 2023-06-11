@@ -33,22 +33,6 @@ related:
         width: 1139
         height: 564
         isCached: true
-  - title: "Where To Start With Generative AI & The Customer Experience"
-    excerpt: "With leading brands beginning to deploy generative AI in the enterprise setting, customer service has emerged as a key testing ground."
-    publishedDateTime: 2023-06-06T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/06/where-to-start-with-generative-ai--the-customer-experience/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62a255ae259caf06f4876076/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "TnKjAZL2Aropnz3nEgD0tSdk3gZ16PuT64AOxLqL6IwUHOMljj/uJbrXjoB3CsSl4mFel+94IpJ/pcJmA/O3LwcoVZt/Eu91adGLIlXFac+YUn340ZzDWRElQWnkRbl7PLdLjhrUwyj5QdbAlOZbiMqYAO39omK63a9AWMODNuuEiIoRlcc70pqoXmDDwCQnfatR60VO/uU6v+odnF3COZNVDN2hQolBe2rnm7tIQ4T6/Rg7xEWpxZd+5Wjr765xQCAEGnTk4yUJiPO3ruh0ACgKdzBvNqLxmrjDltTfuXrgOzkxk2DYd57im65GOGWL6N5Xswc0PmXUbzjt4vmRqxughgK8+OiwK2Nrlkz0RAY=;eHV+951Sw73Pkmx9Jnfv8w=="
 ---

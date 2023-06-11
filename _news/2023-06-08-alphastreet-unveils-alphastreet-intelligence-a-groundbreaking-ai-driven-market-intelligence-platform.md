@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/ani-press-releases/alphastreet-unveils-alphastre
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/alphastreet-unveils-alphastreet-intelligence-a-groundbreaking-ai-driven-market-intelligence-platform/1617975/?amp"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "AlphaStreet Unveils AlphaStreet Intelligence, a Groundbreaking, AI-Driven Market Intelligence Platform"
-    excerpt: "AlphaStreet Intelligence is designed as a global ecosystem that promotes user interaction while using advanced AI technology to accelerate research and decision-making. It uncovers valuable insights from syndicated content and content generated through platform interactions,"
-    publishedDateTime: 2023-06-07T15:33:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9828614.htm"
+  - title: "Instabase unveils AI Hub, a generative AI platform for content understanding"
+    excerpt: "Powered by generative AI, Instabase with its AI Hub aims to provide self-service solutions to harness the potential of AI-driven insights."
+    publishedDateTime: 2023-06-07T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/instabase-unveils-ai-hub-a-generative-ai-platform-for-content-understanding/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
 
 secured: "GgiuiOu2dbuoYtDCAOwSLdRAEaDDFaAN5PJ/a7EuEdmeaFuS3nCNSlmOrcuuArDVGYX3UJVuqnGsnQ2hVcTOuFiHhiL18Zkt5NNkNzMkzlb2cjkUQUi7jCtfDwMRuDJMGSSFAjG7WMwhKb2L/bU26oNiCt6+qg8MSSsPx7wyUJqtWpAhJtvYYgxj0GwL0EYE/1hufwbvgrLh7drK+iSZgJ4aWb+E9/36YKUTLPsP8S1BaL6s3aH9pJJ/6It/tjaQxvZWPJQ5nqp5O4NkBtFmS9PDczvJ6JK7YKN1Lded0+3Dp7YTDR8g7z3K6qXRHzLmD1MB0Mtu7MPN/pMqVMTgF2u6p8aZOnQyPEvvKDOnY0Q=;EZcSxwJY3yz/L9dB3jOJqQ=="
 ---

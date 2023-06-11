@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/ai-can-help-improve-breast-cancer-r
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-can-help-improve-breast-cancer-risk-predictions-study-finds/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: CBS News
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Breast Cancer Risk May be Identified Earlier with Help From Artificial Intelligence"
-    excerpt: "New research suggests that predicting a person's risk of breast cancer may be more accurate with the assistance of artificial intelligence (AI)."
-    publishedDateTime: 2023-06-06T12:38:00Z
-    webUrl: "https://www.healthline.com/health-news/breast-cancer-risk-may-be-identified-earlier-with-help-from-artificial-intelligence"
-    type: article
-    provider:
-      name: Healthline
-      domain: healthline.com
-    quality: 33
-    images:
-      - url: "https://post.healthline.com/wp-content/uploads/2023/06/female-breast-cancer-screen-732x549-thumbnail.jpg"
-        width: 732
-        height: 549
-        isCached: true
   - title: "AI predicts 5-year breast cancer risk better than standard tools — but we aren't sure how it works"
     excerpt: "Artificial intelligence models can use breast imaging data to pinpoint those at highest risk of getting breast cancer in the next five years, better than a standard approach."
     publishedDateTime: 2023-06-06T16:31:00Z

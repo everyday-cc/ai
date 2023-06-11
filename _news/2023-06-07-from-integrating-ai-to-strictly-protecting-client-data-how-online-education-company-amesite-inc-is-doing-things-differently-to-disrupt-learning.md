@@ -36,17 +36,6 @@ related:
         width: 960
         height: 502
         isCached: true
-  - title: "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses"
-    excerpt: "Partnership to enable ZainTech and Zain B2B teams to offer cutting-edge data solutions that solve business challenges and drive efficiencies"
-    publishedDateTime: 2023-06-06T11:13:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses-vck5wclh?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
 
 secured: "cvFnGoV6dEjZxVXNX31iTW/Sbba6eKAtA4uH4fuhcKGpg6vOoUVzctxThahO8x1eLNlc1WrU7aBA/90ij4ynq9ST/Q4Vh3UvJk5ndfVSs3WL8y4y6zJAx8pChSEQXbOm2y6pHSJlPkDQuPx6q9OvncfWjAHKbK7fMGlsCqIgsz7VMhuh21ykU+rt+CmSD2PEmnZfnxhG2jPIP80VExjFRnrlg5sQ4Qxui82GMTMoZClLg20dr1iBmcVvtEmvC3jvMtZaltVhCD2NBxRj4ztn5wEOOmQhgPD5l2lKuNIiEvkWmG44lCC/5quBXSeCYRqIMfVyNRwtA8ifyTUT0lGsnwlLBYERaO+LYuPM3grXqsM=;Zuf9+Kz/rPUFDYqFKZsZGg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techworm.net/2023/06/best-artificial-intelligence-ai-s
 webUrl: "https://www.techworm.net/2023/06/best-artificial-intelligence-ai-stocks-buy.html"
 type: article
 quality: 62
-heat: 84
+heat: 86
 published: true
 
 provider:

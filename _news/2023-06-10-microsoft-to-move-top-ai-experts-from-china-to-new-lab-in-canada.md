@@ -265,15 +265,6 @@ related:
       name: Mining
       domain: mining.com
     quality: 34
-  - title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
-    excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
-    publishedDateTime: 2023-06-06T12:22:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827097.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
   - title: "Personal Injury Startup EvenUp Announces $50.5 Million Investment, Launches Gen AI Assistant ‘Litty’"
     excerpt: "And again, avoid manual data entry when it comes to the tabulation of bills.” Lastly, the startup is focused on further refining Litty’s generative AI capabilities. “We want to be able to accelerate the client’s ability to get to a demand draft ..."
     publishedDateTime: 2023-06-08T14:07:00Z
@@ -297,15 +288,6 @@ related:
       name: Tasnim News Agency
       domain: tasnimnews.com
     quality: 19
-  - title: "Microsoft Agrees To A $20 Million Settlement For Improper Data Collection From Children"
-    excerpt: "FTC has imposed a $20 million fine on Microsoft for collecting and sharing sensitive children data in the US without parental consent."
-    publishedDateTime: 2023-06-06T12:49:00Z
-    webUrl: "https://techreport.com/news/microsoft-agrees-to-a-20-million-settlement-for-improper-data-collection-from-children/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 11
 
 secured: "XOL6Yd9e7L7Z36xxp5q6EKew2PIhRcZhi9cRfSsGOBQFxEZlmAiNmTCutvkPP6QbvY7OBBCEEJ3TuNKu9paKFmTBLSBB3loLchyLKrKPPS03X7Ngc97L/rxiY5uStrHY6nnEYwh5lcFPydgM/hWjRnbRfPVfmY4ouIEXEBXiTKjVDbPY3askhtjHkMQYzKXanBerdwm4GqzrfVZWrzBJNVd/xvwRxlxM0ocKV0dBGAXOgIHoVnHn0dYvEOoT+a2tPgz2XRFFDKKs2q7/wm81jKywmc8ei9yell90HWs6uBxuD6esiZjZWZ2U66PvZh2iU6gfmKRvzn4NGiSv014ABSVSnFKqYlBCXw6nIhb1uqvi/j6BhgZjvvJamO6NaURCCpxT57l4nhcQZ4KFEKXPF+xFimIKakIoaDNxhMZrt5GtieQXGe8N2/I2/z26ZCD7v7GYaPPE17vtA/kfUZ2lw8oAouWObO09cQpJJ1uH5ps9tifhgbslUb5jiyj1/6SlWgRxMO2HW4Gv/WAg9O/Kew==;SEzAvIxMOEB/Enk+Y1DtZw=="
 ---

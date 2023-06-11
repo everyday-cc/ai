@@ -28,91 +28,65 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: Cybersecurity Friend And Foe"
-    excerpt: "Generative AI can automate cybersecurity to stay ahead of hackers. Yet bad actors are using it to automate and advance attacks."
-    publishedDateTime: 2023-06-06T18:12:00Z
-    webUrl: "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/"
-    ampWebUrl: "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/"
+  - title: "How AI Can Address The Crisis In Healthcare Labor Costs"
+    excerpt: "AI creates exciting possibilities in healthcare, and it’s tempting to fixate on the sexiest use cases. A much nearer-term opportunity lies in addressing labor costs."
+    publishedDateTime: 2023-06-07T09:45:00Z
+    webUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f70fd358907018a595934/0x0.jpg?format=jpg&crop=2739,1540,x0,y27,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647fd04bcc09b43b71595934/0x0.jpg?format=jpg&width=1200"
+        width: 633
+        height: 322
         isCached: true
-  - title: "The Multidimensional Relationship Between AI And Cybersecurity And Its Impact On Fintech"
-    excerpt: "The relationship between AI and cybersecurity has massive implications for the banking ecosystem and can be explained by looking at three different dimensions."
-    publishedDateTime: 2023-06-08T10:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/"
+  - title: "IIT-BHU showcases efforts in healthcare and AI"
+    excerpt: "Varanasi: The Indian Institute of Technology (BHU) displayed its efforts in the areas of healthcare, biomaterials and artificial intelligence at the t."
+    publishedDateTime: 2023-06-08T03:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/articleshow/100836651.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
+  - title: "How AI Can Help Doctors As They Solve Complex Problems"
+    excerpt: "AI has an essential role to play in augmenting the work of doctors as they make dozens of high-stakes decisions a day."
+    publishedDateTime: 2023-06-09T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/how-ai-can-help-doctors-as-they-solve-complex-problems/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/603e3db037a40065dd90c173/0x0.jpg?format=jpg&width=1200"
-        width: 797
-        height: 531
-        isCached: true
-  - title: "Cisco announces next-gen solutions boosting security and productivity with generative AI"
-    excerpt: "By harnessing LLMs across its collaboration and security portfolios, Cisco aims to enhance productivity and simplicity within organizations."
-    publishedDateTime: 2023-06-07T15:30:00Z
-    webUrl: "https://venturebeat.com/ai/cisco-announces-next-gen-solutions-security-productivity-generative-ai/"
+    quality: 47
+  - title: "Generative AI is coming for healthcare"
+    excerpt: "ChatGPT and its close generative AI cousins (like Bard and MedPaLM) are now being deployed and tested in healthcare settings. At its simplest, generative AI is a tool or algorithm that can create astonishing new content (think poetry,"
+    publishedDateTime: 2023-06-08T12:17:00Z
+    webUrl: "https://www.pmlive.com/blogs/smart_thinking/archive/2023/rohit/generative_ai_is_coming_for_healthcare"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 75
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screenshot-2023-06-06-213946.jpg?w=1200&strip=all"
-        width: 1200
-        height: 710
-        isCached: true
-  - title: "Artificial intelligence: challenges and controversies for US national security"
-    excerpt: "The United States and other countries must consider the possible impact of AI on their armed forces and their preparedness for war fighting or deterrence. Military theorists, strategic planners, scientists,"
-    publishedDateTime: 2023-06-09T10:30:00Z
-    webUrl: "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/"
-    ampWebUrl: "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/"
-    cdnAmpWebUrl: "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/"
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 36
+  - title: "How artificial intelligence can improve the hiring process"
+    excerpt: "Artificial intelligence isn’t new, but it’s quickly gone from a fringe computing concept to an everyday topic of discussion. Whether it’s AI art, AI chatbots or general AI, the introduction of AI is critical for many industries, as it can perform a ..."
+    publishedDateTime: 2023-06-06T13:06:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2023/06/06/artificial-intelligence-improve-hiring-process.html"
     type: article
     provider:
-      name: Bulletin of the Atomic Scientists
-      domain: thebulletin.org
-    quality: 70
-    images:
-      - url: "https://thebulletin.org/wp-content/uploads/2018/06/Landing-Page-AI-Twitter.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
-    excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
-    publishedDateTime: 2023-06-07T06:04:00Z
-    webUrl: "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 56
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg"
-        width: 1024
-        height: 787
-        isCached: true
-  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
-    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
-    publishedDateTime: 2023-06-09T18:39:00Z
-    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
-    type: article
-    provider:
-      name: WWT
-      domain: wwt.com
-    quality: 33
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "A3iHEQTesduPVfyMlbNQ0KQrIW3PD/zABJTORcQhIuizGUv5Kjs90DN4QcFQCvSPKeLbm/IxCcpwxOG9EUqVbij3xyh9UsCzKbcBmbFnZTLZ4+NfInheBlnHdEQM5Q3vIHrobqVRudMzzL4oXN+AhJsi86yCsIjrF0gXvjFdz8N4+Ho677b4yZgN329Z0W4IoAvopLAq7NI9ik75RtpovRGb3T3KNddtRB/oJNs3nPCM7qXOrzdg3fWnM9qa8avFyPG0sGSXCA8F+YPwRxAAot98xosYIDtYGbTqFFv41QJ1gsgIJY3EobI84kKvR/m0l8AueJi+NPYwKG8bxVTlkRvCyygfIUMfq2tmBXFHdrEDdYr3OJk3LTzW3aGnm5uk3lXcrQDJJRMfKixkZQqmLVdr1dDQ6jiC7Nmv+SB2M09bfp3cqUGaUB1VKlAADInQN5AHPMjacQNPv07bAB1zXRzgtvgHz0dMdXshj//sTpE54M1WfcPubh9tavtuFSTlhHsg2R/5SvdoQR3kGRTDkQ==;VMgy+FF7i5Nn85ne3KcZkw=="
 ---

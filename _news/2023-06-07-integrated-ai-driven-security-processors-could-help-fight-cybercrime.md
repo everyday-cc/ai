@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 710
         isCached: true
-  - title: "How AI can help India's healthcare system in cybersecurity? Experts say this"
-    excerpt: "The Indian healthcare industry has faced 1.9 million cyberattacks in 2022 and experts are calling for stronger cybersecurity infrastructure, with artificial intelligence (AI) recommended as a solution."
-    publishedDateTime: 2023-06-09T02:06:00Z
-    webUrl: "https://www.livemint.com/technology/how-ai-can-help-indias-healthcare-system-in-cybersecurity-experts-say-this-cyberattacks-aiims-delhi-11686272124440.html"
-    ampWebUrl: "https://www.livemint.com/technology/how-ai-can-help-indias-healthcare-system-in-cybersecurity-experts-say-this-cyberattacks-aiims-delhi/amp-11686272124440.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/how-ai-can-help-indias-healthcare-system-in-cybersecurity-experts-say-this-cyberattacks-aiims-delhi/amp-11686272124440.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 73
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/09/600x338/artificial_intelligence_1686276079470_1686276079790.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Artificial intelligence: challenges and controversies for US national security"
     excerpt: "The United States and other countries must consider the possible impact of AI on their armed forces and their preparedness for war fighting or deterrence. Military theorists, strategic planners, scientists,"
     publishedDateTime: 2023-06-09T10:30:00Z

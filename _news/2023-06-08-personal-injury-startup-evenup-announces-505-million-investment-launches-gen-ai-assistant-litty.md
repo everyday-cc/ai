@@ -279,15 +279,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
-    excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
-    publishedDateTime: 2023-06-06T12:22:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827097.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
   - title: "Adobe Launches AI Image Generator Tool for Enterprise Customers"
     excerpt: "Adobe has announced the availability of its Firefly generative image generator for enterprise customers, allowing them to customize the model with their own branded assets."
     publishedDateTime: 2023-06-08T12:23:00Z
@@ -297,15 +288,6 @@ related:
       name: Tasnim News Agency
       domain: tasnimnews.com
     quality: 19
-  - title: "Microsoft Agrees To A $20 Million Settlement For Improper Data Collection From Children"
-    excerpt: "FTC has imposed a $20 million fine on Microsoft for collecting and sharing sensitive children data in the US without parental consent."
-    publishedDateTime: 2023-06-06T12:49:00Z
-    webUrl: "https://techreport.com/news/microsoft-agrees-to-a-20-million-settlement-for-improper-data-collection-from-children/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 11
 
 secured: "lOQNzD4DeRDY4mvR0j4JwGyItQaRyEZx1sm4t6HkNWot4h8yqoI+twj5/ZZFylGd0QJ1RhXABunxXNxY55YPP1KGqpAk34ooysat/VbOoIN0jG1chPs+rep8eIkwDhqHQ54OzoGdb52uqadK2P8+QLaCHmtn21j1aMYdvh7y0IDmZXF+ey4gDXYjSrrbYW4lsBNG1+xHLuFwcNV8CsL8OlCkOtj5H01Gf9eWCw/duH+iRhZNW0emmhkalWElmYSyX1P4N45pUAnZSSVGtW/AeU+jgjs8QitypsSFjbQK+CM7BuYYTeEV5etE/scKmwdfY1+IjZCJKB0g0WbT8yoXx95aYDw9hXjTGYayjnWGO9i4tdkA8q3LS9v+0bINqP2QgXAJlXlBfEQQZAFTMHi4MalvoGJC0LjGPegSWNwekHDB0LHCoGmN8pWOsp3JhUFODJBUYJRcjBtBL6p7Zfz71ZfQ6dBFbXmka/lm51B0Jt9cZhibwg4xpP9bo8iMLqb1FAMX1YrEeLbVeNxS6VIoUg==;VI6euIu9jdpLEclmKXLsww=="
 ---

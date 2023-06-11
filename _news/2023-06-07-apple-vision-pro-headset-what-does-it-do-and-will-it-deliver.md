@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The Download: Apple’s headset challenges, and what AI can learn from nuclear safety"
-    excerpt: "The ‘one more thing’ announced by Apple at its Worldwide Developers Conference (WWDC) this year was the industry’s worst-kept secret. The Apple Vision Pro, the tech giant’s gamble on making mixed reality headsets a thing, has received a mixed reception. Most of the concern has centered on the eye-watering $3,499 cost."
-    publishedDateTime: 2023-06-06T12:07:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/06/1074091/the-download-apples-headset-challenges-and-what-ai-can-learn-from-nuclear-safety/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 11
   - title: "I Tried Apple's $3,499 Vision Pro Headset and It's Incredibly Impressive"
     excerpt: "Apple’s Vision Pro is a spatial computer that packs a bunch of hardware, including both the company’s M2 Chip and a new R1 chip, 12 cameras, and a multitude of sensors. It’s also running an entirely new platform: Vision OS. The result is a headset ..."
     publishedDateTime: 2023-06-08T03:09:00Z

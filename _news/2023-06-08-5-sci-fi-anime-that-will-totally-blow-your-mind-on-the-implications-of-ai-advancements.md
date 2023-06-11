@@ -67,15 +67,6 @@ related:
       name: i
       domain: inews.co.uk
     quality: 19
-  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Leveraging Amazon SageMaker with Amazon Bedrock, Automation Anywhere will allow thousands of customers to immediately take full advantage of its suite of enhanced intelligent"
-    publishedDateTime: 2023-06-06T12:44:00Z
-    webUrl: "https://www.asiaone.com/business/automation-anywhere-and-aws-bring-power-generative-ai-mission-critical-mainstream"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 13
   - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
     excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
     publishedDateTime: 2023-06-09T01:00:00Z

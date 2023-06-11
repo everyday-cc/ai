@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/instabase-unveils-ai-hub-a-generative-a
 webUrl: "https://venturebeat.com/ai/instabase-unveils-ai-hub-a-generative-ai-platform-for-content-understanding/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -23,24 +23,22 @@ topics:
   - AI
 
 related:
-  - title: "Yseop Unveils Yseop Copilot, a generative AI assistant for scientific writers"
-    excerpt: "According to the company, this generative AI offering aims to assist life sciences firms in streamlining their automation requirements"
-    publishedDateTime: 2023-06-06T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/yseop-unveils-yseop-copilot-a-generative-ai-assistant-for-scientific-writers/"
+  - title: "AlphaStreet unveils AlphaStreet Intelligence, a Groundbreaking, AI-Driven Market Intelligence Platform"
+    excerpt: "AlphaStreet, a leading fintech firm, announced the launch of AlphaStreet Intelligence. This pioneering, AI-driven market intelligence platform aims to transform how market intelligence is generated and utilized by companies,"
+    publishedDateTime: 2023-06-08T06:45:00Z
+    webUrl: "https://theprint.in/ani-press-releases/alphastreet-unveils-alphastreet-intelligence-a-groundbreaking-ai-driven-market-intelligence-platform/1617975/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/alphastreet-unveils-alphastreet-intelligence-a-groundbreaking-ai-driven-market-intelligence-platform/1617975/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/alphastreet-unveils-alphastreet-intelligence-a-groundbreaking-ai-driven-market-intelligence-platform/1617975/?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
-  - title: "Lucinity unveils generative AI-powered financial crime compliance copilot"
-    excerpt: "Lucinity has launched a generative AI-powered 'copilot' designed to boost the productivity of financial crime compliance teams."
-    publishedDateTime: 2023-06-06T23:51:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42431/lucinity-unveils-generative-ai-powered-financial-crime-compliance-copilot"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 18
+      name: ThePrint
+      domain: theprint.in
+    quality: 43
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2023/06/ANI-20230608060609.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "ePbGT+hjkoz7qCe0YN+EoK226by7+duXXUCPMfPmL6EUkTfekg9KIley0mD/WOXX109U35oYXKBNAU214IVleMLNIuGUPubPPiVS4BHkPBA/3DCppYWcMlCzx77BSbJV7bYTXVR89ouPsPIABrx6SJnaa14ZOUu+RiloTlKmsZCyKO0018K0VA6ZH2Pa2bptZpWXssvTzZRX32tL0vVYbX5F69TfEtDKjZRy5x4m9PyRUGmDZWQU1E7/tKQtI6CURDu6vhgEHKKzx1nCwc8r17MXKb37Ho7jwcQ0wf21s192kO7f3f5DviVRmlSJpSqM2lUZkrp7EuVkLxnwpFNqQITXUblV0+QBvf/GNxpGkGKGgkGK6xaOvDMDRrprMyuYbdVsIuKxZvJHJlqMKDlCWZ8g0AKwchds07wrUKg32N/0Ru3vTkLldlBfQk0XWWa0ma2l6FVRyZDTTet38CdNlMsQurJJFSD4VIz4GUoegS5t3vILmymU63Quo/HNUoimXL61QOZz8xbo3hvMF86UZg==;cWMATLHUcmXzu1s7Rybt6Q=="
 ---

@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "ARway.ai Congratulates Apple On Its Industry Leading \"Apple Vision Pro\" Augmented Reality Headset"
-    excerpt: "TORONTO, ON / ACCESSWIRE / June 6, 2023 / ARway.ai (\"ARway\" or the \"Company\") (CSE:ARWY) (OTCQB:ARWYF) (FSE:E65) is an AI powered Augmented Reality Experience platform with a disruptive no-code, no beacon spatial computing solution enabled by visual marker tracking with centimeter precision congratulates Apple on its release of its Apple Vision Pro Headset."
-    publishedDateTime: 2023-06-06T11:31:00Z
-    webUrl: "https://tulsaworld.com/ap/state/arway-ai-congratulates-apple-on-its-industry-leading-apple-vision-pro-augmented-reality-headset/article_7f510ec8-647b-57a5-9a95-82a886a45b5a.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 6
 
 secured: "cYI+DzvqsuVQ9lx2CKy6Nd18ESp8zv8DVVvdrSQTsLTIODCblqs0T/XFCfbVlfIb9wCyEUGHO+j06gcHOt+0dly1i8oXYpbIwMUshmxxrzWMOyh7KquK4xITIN3J37Gr7/NWbZv9kX+Pur5+tSY4296xFiSculxRgxl+yoNBFwEJROZNcJSB+iOlFrrrck8fsGXRVl0iBscM8j/AUT9AmZKL7rdx05baKoHDy1xNHaLYNhUEE4EvDA5SITTk91wON6MgWNm02uwBnBsOFAOPDRkcrs5gNbtvpQsj56beXoYNxwkUQ/mcSENhke5o7x9TL9R7n2FqwlmU8b6DZVolIwdnqIcvUYETiwvLfzuSnhY=;npfQY+RUgiFiGJsTr740bw=="
 ---

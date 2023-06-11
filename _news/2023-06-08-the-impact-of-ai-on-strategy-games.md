@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -30,86 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "5 Strategies For Implementing AI Technology In Healthcare"
-    excerpt: "Here are five ways in which leaders healthcare leaders should seek out opportunities to implement AI solutions in their operations."
-    publishedDateTime: 2023-06-06T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/06/06/5-strategies-for-implementing-ai-technology-in-healthcare/amp/"
+  - title: "Does Artificial Intelligence Have Any Influence Online Cash Game?"
+    excerpt: "Artificial Intelligence (AI) has become increasingly prevalent in various industries, and the world of online gaming is no exception. One particular area where AI has gained prominence is in online rummy cash game."
+    publishedDateTime: 2023-06-06T18:42:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/06/06/456092-does-artificial-intelligence-have-any-influence-online-cash.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647e0a794fed9a2fd7d81907/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "How AI Can Address The Crisis In Healthcare Labor Costs"
-    excerpt: "AI creates exciting possibilities in healthcare, and it’s tempting to fixate on the sexiest use cases. A much nearer-term opportunity lies in addressing labor costs."
-    publishedDateTime: 2023-06-07T09:45:00Z
-    webUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647fd04bcc09b43b71595934/0x0.jpg?format=jpg&width=1200"
-        width: 633
-        height: 322
-        isCached: true
-  - title: "IIT-BHU showcases efforts in healthcare and AI"
-    excerpt: "Varanasi: The Indian Institute of Technology (BHU) displayed its efforts in the areas of healthcare, biomaterials and artificial intelligence at the t."
-    publishedDateTime: 2023-06-08T03:14:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/articleshow/100836651.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
-  - title: "DPO Centre Shares Opinions About the New Technologies in the Healthcare Sector"
-    excerpt: "2023 — The healthcare industry is on the brink of a technological revolution that promises to reshape patient care, enhance outcomes, and lower costs. Seven emerging technologies are at the forefront of this transformation: Artificial Intelligence (AI ..."
-    publishedDateTime: 2023-06-09T14:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector-1032380181"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/1685615763869-0.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "AI Chatbots Are Causing Bank Customers Headaches"
-    excerpt: "Banks are implementing AI chatbots into their operations as a cost-cutting measure, but the Consumer Financial Protection Bureau says some bots are causing frustrations for customers."
-    publishedDateTime: 2023-06-06T18:19:00Z
-    webUrl: "https://www.cnet.com/personal-finance/ai-chatbots-are-causing-bank-customers-headaches/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 64
-  - title: "Generative AI is coming for healthcare"
-    excerpt: "ChatGPT and its close generative AI cousins (like Bard and MedPaLM) are now being deployed and tested in healthcare settings. At its simplest, generative AI is a tool or algorithm that can create astonishing new content (think poetry,"
-    publishedDateTime: 2023-06-08T12:17:00Z
-    webUrl: "https://www.pmlive.com/blogs/smart_thinking/archive/2023/rohit/generative_ai_is_coming_for_healthcare"
-    type: article
-    provider:
-      name: PMLiVE
-      domain: pmlive.com
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "83RwPvEMLrtWHSaBkigEhuS1QfaFRSsHZQYJzC27CZVRehVJ5XMK8yQOMniI5bHH4VI76yuCt02pQ7HJQxBl/DT4GUjKN9FkIFL/aNzHQMywNDj23euBOVjAlK/3Dw/6Ch3tPv7jNSyGIkIfmHZtDVWAfxkXXI6ntV47ymGpd/XSlMiKv1Y1kt8ZL2sUaA+luVjVhK3YnwUjgE0Jq+8MbFEaMvxg0H8/zEgZmUe8gA4lCwV4QhvopETHO3Au/9Zv70dLtkYNcE2C06qhuxs5t1ZIOhYQPT5yM5663kkoWXsEgRJv2OoPTwRnqFDbchE75iXTFz2nIWs7s2/Vs6/Mw/1V33zJqu7o3cV0+lp7U9Y=;E5mlo8suE1qiT7K4ceoztA=="
 ---

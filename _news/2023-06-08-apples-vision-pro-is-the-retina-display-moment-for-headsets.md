@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/23752959/apple-vision-pro-headset-hands-o
 webUrl: "https://www.theverge.com/23752959/apple-vision-pro-headset-hands-on-demo-impressions"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Verge
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 806
         isCached: true
-  - title: "ARway.ai Congratulates Apple On Its Industry Leading \"Apple Vision Pro\" Augmented Reality Headset"
-    excerpt: "TORONTO, ON / ACCESSWIRE / June 6, 2023 / ARway.ai (\"ARway\" or the \"Company\") (CSE:ARWY) (OTCQB:ARWYF) (FSE:E65) is an AI powered Augmented Reality Experience platform with a disruptive no-code, no beacon spatial computing solution enabled by visual marker tracking with centimeter precision congratulates Apple on its release of its Apple Vision Pro Headset."
-    publishedDateTime: 2023-06-06T11:31:00Z
-    webUrl: "https://tulsaworld.com/ap/state/arway-ai-congratulates-apple-on-its-industry-leading-apple-vision-pro-augmented-reality-headset/article_7f510ec8-647b-57a5-9a95-82a886a45b5a.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 6
 
 secured: "Kh6YwT4wKm1xDvkBlW0o5jQtsudh52+TyPc1xvP3a+8pEW3WKl3NyKuUvSg3t6xV4v7xCtH2u8l00lU1iUMFKNX8Hn5Y4RKPbPSb2QC9x7bYUCDLWZWJkZVS1035z8wjggIYN02ZqH3u0pk0eWtx0GxaqDr40LJQujZH41PEIhDYsSS9ym9wZ9FAu0LVhkbQMZYBZujR99AXdXlEpBl8FKiH9zY1AhiVBsRXqmQlzB9eGAqOxxnflXqw421hZFUPx9UUT+TFnlV0EL99ntet7Lt3tEPfHAfFZT+ADdEVBviBtPq8asTlYeUwYVI9lBkyhXoI2c3MXKu2SGSdQMbdqzL/5WFRMPs/PizNpvmO46E=;KBML0J3hsS0K668tQ7HGSg=="
 ---

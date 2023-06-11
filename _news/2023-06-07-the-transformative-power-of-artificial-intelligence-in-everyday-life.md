@@ -9,8 +9,8 @@ ampWebUrl: "https://www.easternherald.com/2023/06/07/transformative-power-of-art
 cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/06/07/transformative-power-of-artificial-intelligence-in-everyday-life/?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Eastern Herald
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘The change in pace is crazy’: AI boosts climate information translation drive"
-    excerpt: "Google-designed tools help 9,000 young Climate Cardinals volunteers who translate reports into more than 100 languages"
-    publishedDateTime: 2023-06-06T11:46:00Z
-    webUrl: "https://www.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
-    ampWebUrl: "https://amp.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/6d96369fed528786fee85861cdd1e64be1385984/248_12_2494_1496/master/2494.jpg?width=620&quality=85&auto=format&fit=max&s=a2e0307b75908dbf804bc3afb47abb58"
-        width: 620
-        height: 372
-        isCached: true
   - title: "How AI is Transforming Music Creation in Web3"
     excerpt: "Warner Music Group chief digital officer and executive vice president of business development Oana Ruxandra told CoinDesk’s The"
     publishedDateTime: 2023-06-06T17:25:00Z

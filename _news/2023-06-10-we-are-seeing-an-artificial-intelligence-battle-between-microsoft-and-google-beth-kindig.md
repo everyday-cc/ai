@@ -266,15 +266,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "MicroStrategy Expands Partnership with Microsoft to Drive AI-Enabled Analytics"
-    excerpt: "Through this partnership, MicroStrategy is further investing in and enhancing the artificial intelligence (AI) capabilities within its analytics platform, MicroStrategy ONE™. The initial use cases are expected to range from natural language capabilities for generating new visualizations and dashboards,"
-    publishedDateTime: 2023-06-06T12:22:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827097.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
   - title: "Personal Injury Startup EvenUp Announces $50.5 Million Investment, Launches Gen AI Assistant ‘Litty’"
     excerpt: "And again, avoid manual data entry when it comes to the tabulation of bills.” Lastly, the startup is focused on further refining Litty’s generative AI capabilities. “We want to be able to accelerate the client’s ability to get to a demand draft ..."
     publishedDateTime: 2023-06-08T14:07:00Z
@@ -298,16 +289,7 @@ related:
       name: Tasnim News Agency
       domain: tasnimnews.com
     quality: 19
-  - title: "Microsoft Agrees To A $20 Million Settlement For Improper Data Collection From Children"
-    excerpt: "FTC has imposed a $20 million fine on Microsoft for collecting and sharing sensitive children data in the US without parental consent."
-    publishedDateTime: 2023-06-06T12:49:00Z
-    webUrl: "https://techreport.com/news/microsoft-agrees-to-a-20-million-settlement-for-improper-data-collection-from-children/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 11
 
-secured: "iThBF7TD+3labL6iHz+YZZ98mWShgvtS7RV8ZvoHD2LGsk0Ag0anqHHgVXvtg59ZotkyxaTDTETGkUIIdzoJ1RFlWXJw7vL0wLLEBRiKMaNehN/u8ipY/ixjRb+Q7zv+zw6zAGPJtAtY2hiC3ufmqT7RtheSnG//8nirhXeYOJl5IhnDg868HoGw3Bics1KHJswr2datUnPe8aMyFMBoC0yqY8b2ze5WLXkVYVM7U/MW9dKrj5a5G1WgEECvjvQ7OZw9F7QluQUwU4MuHAOUdvQLse93xNk702e9Pw8OSHz7hNAuAUX8ACl83lLzbao6sq6UYyP7W0KPmxiz6FfuaiM7O3K17En4dnOnslLOoxs=;xSvqb+0c0Mvoj1OaUcgmRA=="
+secured: "uSEj1zO1pW2ozNzwafXCkvxtw0UsxU0jBKjyGBk7I4bGsh+AsdtZJt9HVsPxJ0E6nGFVJbUd1Rdg+9vWjKT9cLdPMVA2rcyi2uE9bKCTaWcY2L7FqSogD1zrIdXai/x6DKGgFLOdtD16wYJOVLofq7/tkL0O13xfjKnjPKpEyYNhd7uvy5J15Xv8s4ISke9KHyAYWDCKyqr8fZh6sQfd1/ClxbnPZcj775DMxYGXPSdWRZ1M11OdAfLh7NY3RIm2oTzW+xA0jDihlZf3G/xZaU65KnAMC/vVwrX7Hq33asuFFF3NKNs9u6r+vnUMwlj88tV7OMDUoGxrfDcp6dncs6srz7yoxkOmLEjtXTfdQF4IKOLRO0imUWaBGaiAe+nFT7mf+tmcEnbhtdasXv/sR2InRQupX6b9HYkKrEsbw8lXylB5UesTSP9OBdKt9iCgzjWKN8JEZuSygRrPvN5KKJudZ2Y1fD84mi7cH8r1tyAZmvWQG9VHhe6lju9y7NrgbcnYF16i9lDGvYkEpGrejA==;LrR4vofDIXgKGTh/dRM4PA=="
 ---
 

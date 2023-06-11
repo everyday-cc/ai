@@ -2,6 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-08-microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.md",
+      "title": "Microsoft launches GPT-enabled Azure AI for US government agencies",
+      "excerpt": "Microsoft has announced the availability of a new Azure OpenAI service, designed specifically to meet stringent requirements of US government agencies. These generative AI capabilities offered by the new service can help US government agencies improve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.html",
+      "originalUrl": "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 331,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/05/shutterstock_716332027-100940548-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html",
+      "publishedDateTime": "2023-06-08T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-teslas-ai-dreams-may-already-be-priced-into-stock.md",
+      "title": "Tesla’s AI Dreams May Already Be Priced Into Stock",
+      "excerpt": "After an 82% year-to-date rally, Tesla shares trade at about 61 times forward earnings, compared with the mid-to-high single-digit multiples of auto stalwarts General Motors Co. and Ford Motor Co. Even current AI darling Nvidia Corp. trades at only 42 times.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-08/tesla-s-ai-dreams-may-already-be-priced-into-stock-tech-watch",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-08/tesla-s-ai-dreams-may-already-be-priced-into-stock-tech-watch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDkRIumkcuUc/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-enabling-ai-powered-business-intelligence-across-the-enterprise.md",
+      "title": "Enabling AI-powered business intelligence across the enterprise",
+      "excerpt": "Data is the lifeblood of successful organizations. Beyond the traditional data roles&#8212;data engineers, analysts, architects&#8212;decision-makers across an organization need flexible, self-service access to data-driven insights accelerated by artificial intelligence (AI). From marketing to HR, finance",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/",
+      "originalUrl": "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enabling-AI-powered-business-intelligence-across-the-enterprise--scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption.md",
       "title": "Singapore identifies six generative AI risks, sets up foundation to guide adoption",
       "excerpt": "Singapore has identified six top risks associated with generative artificial intelligence (AI) and proposed a framework on how these issues can be addressed. It also has established a foundation that looks to tap the open-source community to develop test toolkits that mitigate the risks of adopting AI .",
@@ -54,49 +211,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-08-zaintech-partners-with-mastercard-to-provide-unique-ai-and-machine-learning-data-solutions-to-businesses.md",
-      "title": "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses",
-      "excerpt": "Commenting on the collaboration with Mastercard, Andrew Hanna, ZainTech CEO said: “The benefits of sophisticated data to productivity, safety, and cost-savings being driven by AI and machine learning are revolutionizing business processes. This ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "originalUrl": "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/mastercard.jpg?itok=xiDRXJSm",
-          "width": 960,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions",
-      "publishedDateTime": "2023-06-07T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-08-california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers.md",
       "title": "California Assembly Passes Bill Prohibiting Autonomous Trucks On State’s Roads Without Drivers",
       "excerpt": "Late last month, the California State Assembly passed a bill, Assembly Bill 316, prohibiting autonomous weighing over 10,000 pounds from operating on the state's",
@@ -145,58 +259,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-apples-vision-pro-is-the-retina-display-moment-for-headsets.md",
-      "title": "Apple’s Vision Pro is the Retina display moment for headsets",
-      "excerpt": "That was when Apple shipped its first-ever Retina display and Steve Jobs said that, once you use it, “you can’t go back.” It was something I couldn’t unsee, like looking through prescription glasses for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/23752959/apple-vision-pro-headset-hands-on-demo-impressions",
-      "originalUrl": "https://www.theverge.com/23752959/apple-vision-pro-headset-hands-on-demo-impressions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/5UHVh564x9p5TRFclZJ-bcWqfzo=/0x0:2040x1360/1200x628/filters:focal(1046x614:1047x615)/cdn.vox-cdn.com/uploads/chorus_asset/file/24709755/DSC00889.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -552,7 +614,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1201,58 +1263,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure.md",
-      "title": "DeepMind repurposes game-playing AIs to optimize code and infrastructure",
-      "excerpt": "DeepMind's AIs mastered Go and Chess - now these game-playing models are taking on more practical (if boring) problems like video compression.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/",
-      "originalUrl": "https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/deepmind-illo.jpg?resize=1200,680",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/amp/",
-      "publishedDateTime": "2023-06-07T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

@@ -39,22 +39,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "‘The change in pace is crazy’: AI boosts climate information translation drive"
-    excerpt: "Google-designed tools help 9,000 young Climate Cardinals volunteers who translate reports into more than 100 languages"
-    publishedDateTime: 2023-06-06T11:46:00Z
-    webUrl: "https://www.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
-    ampWebUrl: "https://amp.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2023/jun/06/climate-cardinals-ai-boost-artificial-intelligence"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/6d96369fed528786fee85861cdd1e64be1385984/248_12_2494_1496/master/2494.jpg?width=620&quality=85&auto=format&fit=max&s=a2e0307b75908dbf804bc3afb47abb58"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "n6GgtchQRGgkJ2giI+U7wyI/WT9ZwqQ30wIfqDkmNlI6xRr1RGvVAqUekdz5WDuqjAUJDd8Y9hs2Oz+0J8poJiSKemedI7JXCAZJt0mi+xJtafGNbsxte3/4M1F20q+doGU8+q6hEue4+l4d1ESr5PGW1HeBzcSMvEsr0Nk4Ca3JkCPVWZm/TVWuaaxiH/oiCjU9LYSdMglOGtN60UFUZM2vEyGpP7gOV/j0mH5zPk0jQiywrbRm7Z/ihyqLY7EuoxnQp35unJOgPvxjlC+k588EBB0LnnXcGMHdNZEBNK3mmYxRRQDL26vBlM6qw0Fa9vJ+L0/G728NnM19LmvKwy36oEtW0J1s+wB8mXaZilQ=;OsRkOLLwLT7/D7tA1LPfuA=="
 ---

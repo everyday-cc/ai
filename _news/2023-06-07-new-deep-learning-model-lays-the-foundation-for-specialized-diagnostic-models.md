@@ -41,15 +41,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Can Unlabeled Audio Visual Learning Enhance Speech Recognition Model?"
-    excerpt: "Researchers have developed a technique for analyzing unlabeled audio and visual data, enhancing machine learning models for speech recognition"
-    publishedDateTime: 2023-06-06T11:35:00Z
-    webUrl: "https://www.electronicsforu.com/news/can-unlabeled-audio-visual-learning-enhance-speech-recognition-model"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 23
 
 secured: "OP0EnZcU/qKmzFJRRcejO629f1v07TXXjBZHw67/vNWAbIQSIBI8yEoHFhrq35jIqSvoGXlSJZ92vZg0vpIgAdqnszCveExpbAjgZQ3KJzzxJ5WJM6clD+ZD429lBnCyyOnuDCqdti2oLZaLGA/BG6srF4t6A+sL2lKWLTsnss5PZ5/thEYMZXOJvtr1L7rAbsqbh5+Ga/Kva+z+A27BsiCIt+QsjPruAlN/NuSMeWa42Xr9b9D8wbWrnnGGywChSit5bhtYS08T5xmBBJPtEEluVSQRIERf6NSZ1WURxrp6RlKiTvlrJQQIoOQrtml2FR48s1t5Zb6oh61uRagn+ibIk+sbbZVf5S45o/bMX2M=;RpK94hdW75CT8t0BuxPuvA=="
 ---

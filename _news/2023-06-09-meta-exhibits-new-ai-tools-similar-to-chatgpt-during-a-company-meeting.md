@@ -25,6 +25,68 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung Electronics to adopt own AI amid ChatGPT security concerns"
+    excerpt: "Samsung Electronics plans to introduce a customized artificial intelligence (AI) service for knowledge search, translation and summarization this year as concerns over the possible leakage of key technological information enabled by ChatGPT are rising."
+    publishedDateTime: 2023-06-11T05:15:00Z
+    webUrl: "https://koreatimes.co.kr/www/tech/2023/06/419_352712.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 76
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202306/70266bbc95114a4db02f6a0137bbf2d1.jpg"
+        width: 980
+        height: 536
+        isCached: true
+  - title: "Sam Altman: The man behind the AI sensation across the globe, ChatGPT"
+    excerpt: "ChatGPT: OpenAI co-founder Sam Altman says that artificial intelligence might kill jobs but it is not a permanent job killer"
+    publishedDateTime: 2023-06-08T13:45:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/sam-altman-the-man-behind-the-ai-sensation-across-the-globe-chatgpt-123060800909_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/16/full/1684251299-6933.jpg"
+        width: 3500
+        height: 2332
+        isCached: true
+  - title: "‘What should the limits be?’ The father of ChatGPT on whether AI will save humanity – or destroy it"
+    excerpt: "Sam Altman is among the most vocal supporters of artificial intelligence, but is also leading calls to regulate it. He outlines his vision of a very uncertain future"
+    publishedDateTime: 2023-06-07T04:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/what-should-the-limits-be-the-father-of-chatgpt-on-whether-ai-will-save-humanity-or-destroy-it"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/d67dc626115d9507a3876fefd572a1fd9bb33481/0_116_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=46f7d7637665f0421a5914ebe539dc77"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Aprimo Introduces AI Content Coach with ChatGPT"
+    excerpt: "Aprimo, a provider of digital asset management and marketing resource management solutions, has launched AI Content Coach, a content creation tool powered by Microsoft Azure OpenAI Service and ChatGPT. The interactive assistant seamlessly integrates with ..."
+    publishedDateTime: 2023-06-07T14:05:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Aprimo-Introduces-AI-Content-Coach-with-ChatGPT-159014.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/153076-0623_Concentrix_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
   - title: "Can ChatGPT Design A Robot?"
     excerpt: "Researchers with the help of chatGPT, have developed a tomato-harvesting robot after deliberating and accepting the challenges."
     publishedDateTime: 2023-06-09T10:06:00Z
@@ -39,31 +101,38 @@ related:
         width: 800
         height: 530
         isCached: true
-  - title: "ChatGPT teams up with humans to develop its first robot which can harvest tomatoes"
-    excerpt: "Researchers used ChatGPT-3 to develop a robotic gripper for harvesting tomatoes, in a first demonstration of the AI tool’s potential for collaborating with humans on robot design."
-    publishedDateTime: 2023-06-08T11:32:00Z
-    webUrl: "https://interestingengineering.com/innovation/chatgpt-humans-robot-harvest-tomatoes"
+  - title: "Tim Cook covers Vision Pro, ChatGPT AI, and more in new interview"
+    excerpt: "Apple's CEO Tim Cook announced the Vision Pro, the company's first \"spatial computer. Now, he was interviewed about it."
+    publishedDateTime: 2023-06-06T15:23:00Z
+    webUrl: "https://bgr.com/tech/tim-cook-covers-vision-pro-chatgpt-ai-and-more-in-new-interview/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 33
+      name: BGR
+      domain: bgr.com
+    quality: 37
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/08/image/jpeg/ds44quQIEXyGcdUxzsqPMaj9LUcdwlzL6Frxkwzw.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://bgr.com/wp-content/uploads/2023/06/tim-cook-apple-vision-pro-abc-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
         isCached: true
-  - title: "ChatGPT’s not going to take over anytime soon, says Richard White"
-    excerpt: "The “a” in AI still largely overshadows its counterpart “i” as the technology remains largely artificial and only a little bit intelligent, says the chief executive of one of Australia’s most successful technology companies."
-    publishedDateTime: 2023-06-09T11:28:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe"
-    ampWebUrl: "https://www.theaustralian.com.au/business/technology/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe?amp"
+  - title: "ChatGPT creator Sam Altman meets Modi, discusses global regulation for AI"
+    excerpt: "Creator of ChatGPT and CEO of Open AI Sam Altman called on Prime Minister Narendra Modi and talked about its downside and why it is important to look into it."
+    publishedDateTime: 2023-06-10T18:47:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/chatgpt-creator-meets-modi-discusses-global-regulation-for-ai-515746"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 18
+  - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
+    excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
+    publishedDateTime: 2023-06-06T13:34:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827428.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "Zn9BKkozigGZZSQtitvkVr28Iy7OHlG92tSVbaNvR1vKjg5P/RChSZGpOC8UaZCF4ZGuV4qFAIzbB/R3DLfnYYenx+bUtDytiel5TJVEBdtrMkigFmSNO5X0UxwdXIGuJ0THvdxFXmfcowoSTj8af45rF7xZno3mSKKYW+l9PEhUslITrtkgwxAQ549N3D21kZg/FViLmEBS/hdcs0CtUx1zYOFVl3+Gmi7cG7nDud86JDWphMfBxKB37swtaPqWK02ArYS1KVHfTlp3HPZVJDQcM1SouuS4UZkwsxPLNxB7xoocGlQhRVWZthnl9+S61PGT4dtiJh2kiF/e0IcKVSBKcqR3IEZwXsw9Bb7vrDes7yVlN7B08myxnmmqD67NLAmk63FIyebgS1ptMPYuhPc3LL4x5ppDHYlk5egxpDVTDWtAvb1noFK7iBTaZPRqb1PoeMUpdv0tQq3iCrKOs1NB+hoKN6xF/e4M+zgQBuhoSKd4xQ1V/XxVQOuuQMXApaWn3AZo7QETdAIoGdYbgA==;uSBK1Fu26eN7X1xPG8speg=="
 ---

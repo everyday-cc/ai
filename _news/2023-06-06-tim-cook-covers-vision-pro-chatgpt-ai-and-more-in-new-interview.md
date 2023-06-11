@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung Electronics to adopt own AI amid ChatGPT security concerns"
+    excerpt: "Samsung Electronics plans to introduce a customized artificial intelligence (AI) service for knowledge search, translation and summarization this year as concerns over the possible leakage of key technological information enabled by ChatGPT are rising."
+    publishedDateTime: 2023-06-11T05:15:00Z
+    webUrl: "https://koreatimes.co.kr/www/tech/2023/06/419_352712.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 76
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202306/70266bbc95114a4db02f6a0137bbf2d1.jpg"
+        width: 980
+        height: 536
+        isCached: true
   - title: "Sam Altman: The man behind the AI sensation across the globe, ChatGPT"
     excerpt: "ChatGPT: OpenAI co-founder Sam Altman says that artificial intelligence might kill jobs but it is not a permanent job killer"
     publishedDateTime: 2023-06-08T13:45:00Z
@@ -39,38 +55,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/16/full/1684251299-6933.jpg"
         width: 3500
         height: 2332
-        isCached: true
-  - title: "OpenAI CEO Sam Altman visits South Korea as country seeks to encourage AI development"
-    excerpt: "After crisscrossing Europe last month meeting lawmakers and national leaders to discuss the prospects and threats of AI, Altman has travelled to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea - all this week."
-    publishedDateTime: 2023-06-09T01:34:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 52
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399065870.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "OpenAI’s chief Sam Altman meets PM Modi, discusses startup ecosystem’s benefits from AI"
-    excerpt: "Sam Altman, chief executive officer of ChatGPT’s parent company OpenAI, on Thursday met Prime Minister Narendra Modi in New Delhi to discuss the potential of artificial intelligence (AI), and the need for global regulation. “Great conversation with @ ..."
-    publishedDateTime: 2023-06-09T15:46:00Z
-    webUrl: "https://www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai-11686325363721.html"
-    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai/amp-11686325363721.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai/amp-11686325363721.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 49
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/09/600x338/ANI-20230609032-0_1686325462996_1686325504553.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "‘What should the limits be?’ The father of ChatGPT on whether AI will save humanity – or destroy it"
     excerpt: "Sam Altman is among the most vocal supporters of artificial intelligence, but is also leading calls to regulate it. He outlines his vision of a very uncertain future"
@@ -102,15 +86,34 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "OpenAI CEO Sam Altman encourages South Korea to supply chips in AI boom"
-    excerpt: "Altman, after crisscrossing Europe last month meeting lawmakers and national leaders to discuss AI's prospects and threats, has travelled this week to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea."
-    publishedDateTime: 2023-06-09T13:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/openai-ceo-encourages-south-korea-to-supply-chips-in-ai-boom/articleshow/100879979.cms"
+  - title: "Can ChatGPT Design A Robot?"
+    excerpt: "Researchers with the help of chatGPT, have developed a tomato-harvesting robot after deliberating and accepting the challenges."
+    publishedDateTime: 2023-06-09T10:06:00Z
+    webUrl: "https://www.electronicsforu.com/news/can-chatgpt-design-a-robot"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 39
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/featured-1.jpg"
+        width: 800
+        height: 530
+        isCached: true
+  - title: "Meta exhibits new AI tools similar to ChatGPT during a company meeting"
+    excerpt: "During an all-hands meeting held on Thursday, Meta's Chief Executive Officer (CEO), Mark Zuckerberg, disclosed a proposal to integrate generative artificial"
+    publishedDateTime: 2023-06-09T13:53:00Z
+    webUrl: "https://www.onmsft.com/news/meta-exhibits-new-ai-tools-similar-to-chatgpt-during-a-company-meeting/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Image-with-the-Meta-Logo.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "ChatGPT creator Sam Altman meets Modi, discusses global regulation for AI"
     excerpt: "Creator of ChatGPT and CEO of Open AI Sam Altman called on Prime Minister Narendra Modi and talked about its downside and why it is important to look into it."
     publishedDateTime: 2023-06-10T18:47:00Z
@@ -120,6 +123,15 @@ related:
       name: The Tribune
       domain: tribuneindia.com
     quality: 18
+  - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
+    excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
+    publishedDateTime: 2023-06-06T13:34:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827428.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "kptNlbql/f9NV9UGDva4MVYszolvSxPM1ZEzO0moyRKDQlRGy4arHVj3oMAbBQ4pOpaAi94YFECNFIAOSGJpvbsYes0J+x4/2ROYvooh7N4E9xFr149B4mBA5Dk7MQA+PX4MJT3xyU+xmqw+Hz024RQDo9ZkYWSG4Y8xCL5x1ozIp/LEIx2l5z71facR4BOVkrQevA1YbttMQwHT+m4P2o3GZe8j6RPiHl9GZdIJ6RHfCekVNqpfhzE2/bS/5e2HOu5y+WObR9cKhGY6MDwn6AyYbvlhJC3mV7yqKfaMATm/A/M7ly81c4U9g7vC4+z0ECuHxqbtyv4kou79ag1B3rHHF9DQDxgxrKeU1zKDC7MfktjG928EMilBeRXN+Kagbuamw/yl2aOZm0WX+DabMwfkzGBD+E5xMJ43QzophuQJAg6vPlI5ldlXBzIF75VjFVVyWFo++iwSs4or69YRzxGv45DfkKBoPDusivtb+7SHekr1bJD7Vc3uQD4OjsexMypX6Yxjib2vpFKpB3UOqw==;ko0EqwgjIo4FNDFoWwwkxQ=="
 ---

@@ -106,15 +106,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google Launches Free Generative AI Courses - Stock Continues To Rise"
-    excerpt: "AI has driven the tech market to new heights this year, bringing new investors into the ring as the craze continues."
-    publishedDateTime: 2023-06-06T12:09:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/06/06/google-launches-free-generative-ai-coursesstock-continues-to-rise/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
   - title: "Lilt Launches Generative AI Multilingual Writing App"
     excerpt: "New Tool Enables Quick Generation and Finalization of On-brand, Locally Relevant Content SAN FRANCISCO, June 8, 2023 /PRNewswire/ -- Lilt, the"
     publishedDateTime: 2023-06-08T15:58:00Z
@@ -202,24 +193,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 27
-  - title: "4 Keys to Executing Generative AI"
-    excerpt: "Generative artificial intelligence (AI) has captured the attention of health care providers and payers focused on reimagining care delivery."
-    publishedDateTime: 2023-06-06T12:19:00Z
-    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-06-06-4-keys-executing-generative-ai"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 19
-  - title: "Managing the Risks of Generative AI"
-    excerpt: "Generative artificial intelligence (AI) has become widely popular, but its adoption by businesses comes with a degree of ethical risk. Organizations must prioritize the responsible use of generative AI by ensuring it is accurate,"
-    publishedDateTime: 2023-06-06T12:15:00Z
-    webUrl: "https://hbr.org/2023/06/managing-the-risks-of-generative-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 19
   - title: "Google Cloud, Mayo Clinic make generative AI play"
     excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
     publishedDateTime: 2023-06-07T12:00:00Z

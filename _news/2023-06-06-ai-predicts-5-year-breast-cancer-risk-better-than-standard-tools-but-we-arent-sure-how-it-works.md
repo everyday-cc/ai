@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Breast Cancer Risk May be Identified Earlier with Help From Artificial Intelligence"
-    excerpt: "New research suggests that predicting a person's risk of breast cancer may be more accurate with the assistance of artificial intelligence (AI)."
-    publishedDateTime: 2023-06-06T12:38:00Z
-    webUrl: "https://www.healthline.com/health-news/breast-cancer-risk-may-be-identified-earlier-with-help-from-artificial-intelligence"
-    type: article
-    provider:
-      name: Healthline
-      domain: healthline.com
-    quality: 33
-    images:
-      - url: "https://post.healthline.com/wp-content/uploads/2023/06/female-breast-cancer-screen-732x549-thumbnail.jpg"
-        width: 732
-        height: 549
-        isCached: true
 
 secured: "T0tZfFq1czhXJJkpytm4t4zmNO7CpQyzeByY2eLTJLB2WAz1AyJE1jze3YmdRIahB8oruxfJmT2nLP6DzPDG9Ud6qGwX4rpZY56ZB/0wyQ0gU4RXpyzhxXzH+hAyQXVwUddMKeHkho84tQZkXNiblS5UZNIoMjaY7VnPoKORcAEPSTKQHj3BZb8LlPP+KHadhrcJ0ORn0TDXBACJ8v9/WOvUmGzd9ud9o+6uv8dSEPD7mAkPURIpNkidWQsiaoPMRJMH2tfeUX9pG0EZ6m6z+MT3HuOzoXdAUqbUfbryN8gQRt1MRZG6mbkZS3Gz1cBfrUuFnDns3Gs8SDo76CtJD5K6rV9PIYIwrIQICi/RVI4=;wCvPfHPEqncDC4FXPlXgdA=="
 ---

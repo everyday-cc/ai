@@ -75,20 +75,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AI Prompt Engineering Isn’t the Future"
-    excerpt: "Despite the buzz surrounding it, the prominence of prompt engineering may be fleeting. A more enduring and adaptable skill will keep enabling us to harness the potential of generative AI? It is called problem formulation — the ability to identify,"
-    publishedDateTime: 2023-06-06T12:05:00Z
-    webUrl: "https://hbr.org/2023/06/ai-prompt-engineering-isnt-the-future"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_06_-1084380192_-1335901954_-523318725.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "IhoiQ4Ef+ozJOdbvnZIIDBcTGiEMfKqtEzCw/graBPMG+eeF5SPQ+87r3HgJrRzi5VMU0hVYC7KB2NZ59yVy5FxMQ8m/Y4TWB8dlsROUHLBM9X45VdetKNxXQr57s5Qg5W+OISIaGR3o8VD42t4TRSg4o80kPonZWrQCRNk0+6M6f1NxS96SzqIeeiWCehtKh8eH3b4aiaKqbr6QAd/NDMCIDagpy9YUJUNjN5J5gzX8JKGQnxKIvsunt3Fh7NX0QSHSUVppoyjlBjEJ/nZn9GD+ZkQ/heaY1AZ6b+QfvOQQKXYNS6vFnhQVxuRNpkxiL7l1cLYTODGNRGaaB+/iqAPOznUgCJ6f2kqO8Ulh8BPaQCc2KHBzXpbMo90adujwDEdvZz6NS7o5o7mYXAgQT6o1xtUKza2jN70JW378Ap7m0V0qUd1m7LOH8L5ho2/fxHf5tR/UA9uFL9NIK6qCz6nMZ+OkjTMsT85lKMFdsxBlB9XqOwh3CvsV3uZ6ORAOZQW0Eo9RPUS6MdcsY8zoUA==;owAB7/gO9T8hf4aHxgg4kA=="
 ---

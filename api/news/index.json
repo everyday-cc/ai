@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-11-samsung-electronics-to-adopt-own-ai-amid-chatgpt-security-concerns.md",
+      "title": "Samsung Electronics to adopt own AI amid ChatGPT security concerns",
+      "excerpt": "Samsung Electronics plans to introduce a customized artificial intelligence (AI) service for knowledge search, translation and summarization this year as concerns over the possible leakage of key technological information enabled by ChatGPT are rising.",
+      "sourceUrl": null,
+      "webUrl": "https://koreatimes.co.kr/www/tech/2023/06/419_352712.html",
+      "originalUrl": "https://koreatimes.co.kr/www/tech/2023/06/419_352712.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202306/70266bbc95114a4db02f6a0137bbf2d1.jpg",
+          "width": 980,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712",
+      "publishedDateTime": "2023-06-10T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-11-new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo.md",
       "title": "New Trump Video Uses Matt Damon Monologue From ‘Air’ And Fake AI Photo",
       "excerpt": "Trump’s campaign released a new video late Friday—the first since the former president was indicted on charges over his alleged mishandling of classified information.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -61,7 +105,7 @@
       "originalUrl": "https://www.techworm.net/2023/06/best-artificial-intelligence-ai-stocks-buy.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -263,7 +307,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -357,7 +401,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -599,7 +643,7 @@
       "originalUrl": "https://www.pcmag.com/news/categories/ai?page=2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -639,6 +683,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector.md",
+      "title": "DPO Centre Shares Opinions About the New Technologies in the Healthcare Sector",
+      "excerpt": "2023 — The healthcare industry is on the brink of a technological revolution that promises to reshape patient care, enhance outcomes, and lower costs. Seven emerging technologies are at the forefront of this transformation: Artificial Intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector-1032380181",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector-1032380181",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/1685615763869-0.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -902,7 +998,7 @@
       "originalUrl": "https://www.foxnews.com/media/over-regulation-artificial-intelligence-lead-chinese-dominance-experts-warn-they-want-to-win",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -954,7 +1050,7 @@
       "originalUrl": "https://time.com/6286069/bytedance-tiktok-artificial-intelligence-chatbot-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -995,6 +1091,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development.md",
+      "title": "OpenAI CEO Sam Altman visits South Korea as country seeks to encourage AI development",
+      "excerpt": "After crisscrossing Europe last month meeting lawmakers and national leaders to discuss the prospects and threats of AI, Altman has travelled to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea - all this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/399065870.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp",
+      "publishedDateTime": "2023-06-08T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1098,160 +1237,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-startup-valencia-announces-vds2023-discussing-ai-mobility-and-sustainability.md",
-      "title": "Startup Valencia Announces VDS2023, discussing AI, Mobility, and Sustainability",
-      "excerpt": "Startup Valencia, a private non-profit organization that has been representing and promoting the Valencian tech and innovation ecosystem,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/startup-valencia-announces-vds2023-discussing-ai-mobility-and-sustainability-1032379551",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/startup-valencia-announces-vds2023-discussing-ai-mobility-and-sustainability-1032379551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newsfilecorp.com/files/8568/169365_figure1_550.jpg",
-          "width": 550,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-ai-startup-cohere-now-valued-at-over-21b-raises-270m.md",
-      "title": "AI startup Cohere, now valued at over $2.1B, raises $270M",
-      "excerpt": "Cohere, a generative AI startup with ties to Google, has raised $270 million in a round that values the company at over $2.1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/",
-      "originalUrl": "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1226864145.jpg?resize=1200,420",
-          "width": 1200,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/",
-      "publishedDateTime": "2023-06-08T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-another-us-judge-says-lawyers-must-disclose-ai-use.md",
-      "title": "Another US judge says lawyers must disclose AI use",
-      "excerpt": "A judge on the U.S. Court of International Trade on Thursday issued an order requiring lawyers to disclose their use of generative artificial intelligence tools to create legal documents, citing security concerns related to confidential information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/transactional/another-us-judge-says-lawyers-must-disclose-ai-use-2023-06-08/",
-      "originalUrl": "https://www.reuters.com/legal/transactional/another-us-judge-says-lawyers-must-disclose-ai-use-2023-06-08/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/WUJ86NY10CE9sTDRdOnDiXYlMC0=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/756AIQQZJJNOPKCKJOSCV46MAM.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
