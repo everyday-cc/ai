@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712"
 type: article
 quality: 76
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -125,16 +125,7 @@ related:
       name: The Tribune
       domain: tribuneindia.com
     quality: 18
-  - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
-    excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
-    publishedDateTime: 2023-06-06T13:34:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827428.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
-secured: "7aTzxQtOGZMDzDVIrXfypTUrM7YOR/6UFs7C7Qh06l8ekgEliPUTuRWcR60xdo3qx6S+E1D3L2rzaIGD5EyJBovtAPj1Ar7sNEC+kZc29NiK4yE2cA5aVX7vsDDNLuisl63PmaIp2aKKQAT9Gy+Az1OnVuQ4F0AmdsaGQt7eXJ9+pjrlmr8YktnZwV6LaicxM2Cyzr9bjuTZN5XOtZOTgoZPLL9PDJQOvv0/MaDQuqLjS3L3H7SCKwueaTRxI8+qc5418EQhyn5UmtYiuVamUe0hHqhDYu0YCopq6/kYI6+8asXKc6JZuJYI4h1U3ftLcc71MzZqHtRc8Luq3qVDJNrwkFmF6brNrq3DUo60xto=;KoZ8iBgC+JSYfgOXSBkA0A=="
+secured: "UP0SUKF51UoCMxl7aH7IU7HnSs5OisdDQ5clTs1oSCkQC0e9E4M9Z/iImU5mfNu3U04jFkjdnzf2EfBdUf/vbQMQ/nYtA1iCaQ+7jHSjVjEei0Ra3ywTPtkB+uu5RupnqTDQ/Y+PI/nA1Z7tWGQKKhamxAVex4e8tnMHNV3o9C+Z0KSq4jTAKJwdlwxUCw0LNDFRHFlKrOJAU/ayBj7Nl4/Ru58QIaxf6oOXfZBslrpBOItaWEptPtko9+BalBWbacG+UWlg7ObqekIT5TmDqFN2QpkKXCDZPOONRdKmWXKXXET2D2rKLEqgzBwJrt5uWJ301xM89pFDissrKV542+WMleaC2/lwiX/I0y1KeKPcLyp1PXfmWJXqq6QICTkzT0Mv+KK1aX9uQj+b5ENTd8I3p0Nbin5utKFsypsWcu+og5uPVeA6pRJiHxrqUBX3HudtYhN09Nlt2yqgwW2yShk8zNEyiL1cHfZjdwWI1FQLdnvLwcSyh0N1g4ZOHUt56GQdkjgRWu10yXllXH+5FQ==;Rbtl+tFsQYPk6bd88xZCkA=="
 ---
 

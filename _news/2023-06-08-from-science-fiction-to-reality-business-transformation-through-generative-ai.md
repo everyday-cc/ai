@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Healthcare and generative AI: What are the emerging use cases?"
-    excerpt: "Microsoft announces new partnerships with Nuance and Epic, integrating generative AI-powered tools to enable HCPs to document patient records and draft messages. – Google releases Med-Palm-2, a generative AI trained to answer medical questions,"
-    publishedDateTime: 2023-06-06T13:27:00Z
-    webUrl: "https://econsultancy.com/healthcare-generative-ai-examples/"
-    type: article
-    provider:
-      name: Econsultancy
-      domain: econsultancy.com
-    quality: 38
 
 secured: "cAn5Lhuk7IL+Jh1XK7GO1WEcvlEyquCWwKRGDVGFHU8AS62hO6PadyJwvtEQQxASxs9dQp2dkEirt1LbJgKRQGGymwJx7K6RETwSspOKU8/hTEnL40N2LkFF6aHZUNJcEePsK4Beb7Yq7Uq8OWcWx46M0RMJLyUfzB8kh+fF/8CxlN+DKj3mUAs3xioWMbDw2NT7qMfU8RG+6BAsIvNKWR3blg0BuknpKScL0vc1OJqMKeYCnxmjJm50zQbafbflHIsU6FmtIqsVfHa3eH6/y4p9rEteZfvTviNn9NxEUzoFcl2g9sw4mCvzKt6WEPpS8M1ppwcsZQx0tz/8VZJKT9DwyPLdtxhIkXuuwk18e9A=;96f4R7IqUqwvKbXQ7AEhIA=="
 ---

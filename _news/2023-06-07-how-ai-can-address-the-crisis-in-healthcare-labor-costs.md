@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-add
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
       name: PMLiVE
       domain: pmlive.com
     quality: 36
-  - title: "How artificial intelligence can improve the hiring process"
-    excerpt: "Artificial intelligence isn’t new, but it’s quickly gone from a fringe computing concept to an everyday topic of discussion. Whether it’s AI art, AI chatbots or general AI, the introduction of AI is critical for many industries, as it can perform a ..."
-    publishedDateTime: 2023-06-06T13:06:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2023/06/06/artificial-intelligence-improve-hiring-process.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "dufxuHjQcuosQ7YYUxGAFQeqhtTzgrOjCDcEF1aoi8FKA5HpIz2emJV9iDj2a8Iup8qAkaoON30eV2QWGd4RGZ6OXmiOZvZip6aI8UjoVmsM7U8Cj5Jur2vUfNEztHge2VfgxxZ00Af+moQ1hvR8mF60oX+3m4BNxomTe+Yr8XD+NYrr9Cje2b16b03PgT5nTMUdiwiY4ex0PL3gp0RkATW3UDFNMmFtTCf/UmjqwBL/tRONE765AeYCVuO7CNJKSZSwSx+v61ftulJuPO4pjNuVcR7T3Q//Mt/edpgFW1fCqth9EskslUHdNFF8eZRYG6xJNdbR/cHlf23GFbsepS4/nvmW4ANTz8yy5RseaB8=;aSgwgx4iYJ1pBhYrtJmCFA=="
 ---

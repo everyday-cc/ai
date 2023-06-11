@@ -124,15 +124,6 @@ related:
       name: The Tribune
       domain: tribuneindia.com
     quality: 18
-  - title: "Aprimo Introduces AI Content Coach with ChatGPT to Revolutionize Content Operations"
-    excerpt: "The interactive assistant seamlessly integrates with Aprimo digital asset management (DAM) and does not require IT resources to configure or specialized knowledge in AI to utilize. On day one, right out of the box,"
-    publishedDateTime: 2023-06-06T13:34:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827428.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "pEClB/taHeO5qSPkYlAjzXmKkJBT6VZTsXtXdltlswgGbpXukqURrkcs3w36lh65cdolBBDm5TPZMXMrAEQUkcAU1AcjwG1jDUsL7BAi86IcuItHQS2GgI0xYJ56GqhrV7jCpQLq3kOPLVb/ngT9nF8+QvXIewnD8TTqoaLj0225GqNoypyNCO/rXGXCVZXmidSGxk6VlGvQmuT97fhY0+dlszhCk6nor0D8Jt5mWsvC3usw+gSxVGgdFOiuiUxo926w4lNpHNFijO1ksI9tia/iYP1jOV27wp4Pw97QT4kogUsEGLS8VFmG6svgKgpXAvS60a1x8rg9GVCLvom2P60C6hU7YUrksuXEt/jOnPk=;Y3OoXP0s32QvzWfGG6P7pg=="
 ---

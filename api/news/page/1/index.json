@@ -10,7 +10,7 @@
       "originalUrl": "https://koreatimes.co.kr/www/tech/2023/06/419_352712.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -152,7 +152,7 @@
       "originalUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -307,7 +307,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1189,21 +1189,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-09-ai-chips-could-help-intel-stock-nasdaqintc-regain-its-footing.md",
-      "title": "AI Chips Could Help Intel Stock (NASDAQ:INTC) Regain Its Footing",
-      "excerpt": "Intel (NASDAQ:INTC) stock seems to be stuck in neutral, but a new focus on artificial intelligence (AI) chips could help the company regain",
+      "path": "_news/2023-06-09-an-ai-robot-learns-recipes-by-watching-human-chefs.md",
+      "title": "An AI Robot Learns Recipes by Watching Human Chefs",
+      "excerpt": "Your salad may be prepared by a robot chef one day. A new University of Cambridge study published in IEEE Access shows how artificial intelligence (AI) computer vision empowers a robotic chef to identify and learn new recipes by watching videos of human chefs.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chips-could-help-intel-stock-nasdaq-intc-regain-its-footing-1032379568",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chips-could-help-intel-stock-nasdaq-intc-regain-its-footing-1032379568",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-156.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 781,
-          "height": 440,
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-06/pic726.jpg?itok=14wLmoad",
+          "width": 1528,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1211,23 +1211,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T16:10:00-07:00",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs?amp",
+      "publishedDateTime": "2023-06-08T16:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1236,8 +1227,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

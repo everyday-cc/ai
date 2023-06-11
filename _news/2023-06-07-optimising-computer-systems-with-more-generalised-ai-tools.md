@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/optimising-computer-systems-with-mor
 webUrl: "https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: SD Times
       domain: sdtimes.com
     quality: 60
-  - title: "Super Micro Computer: AI Beneficiary Priced To Perfection"
-    excerpt: "The more exciting product line of SMCI resulting in the recent share price rally is its GPU or accelerated systems to cater to the increasing demands for the generative AI applications, and data center optimized server systems that bring about improved ..."
-    publishedDateTime: 2023-06-06T13:49:00Z
-    webUrl: "https://seekingalpha.com/article/4609702-super-micro-computer-ai-beneficiary-priced-to-perfection"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1297493683/image_1297493683.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1152
-        isCached: true
 
 secured: "PqkB20Ecc/4S0ClTB2Cy/P9zwdFLjBUufPwoskP5Db0D0vFHjWvV2wFb2yMl2Akwn/7Z1+8sJzY1z8RIowxf46RZF++sPXpgVLx08tGiDKEjgA7P9IWvKxYghgkf+UkvHhtbqstF/46ti3sIMpvfkGnmv154ZrugqqE1ksfCYH5UCM0yi5GU03SEpOSXcIqtHEH6gAMgQtQdUybpQBJhZ8LJ7L4pRaInh1mMwSKd1if5WyhgWR3z24u/HttBMXaiL5Wl2kHMHP2zdIpOunkpsufKU/GlOWjgsxpI+41updJGkwMye7aPYEqR5wnapOLnTss1+QlOJRQAiSe8crI/OGcH0O9tf7Fd56x4IRivD9A=;Qh1SQk4kxQKK3trgyjqTPA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 102
-heat: 174
+heat: 165
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
     quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64808b0b0747fc9f7c17834f/0x0.jpg?format=jpg&crop=1457,819,x89,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Privacy In The Age Of AI: Separating Fact From Fiction"
-    excerpt: "That said, AI obviously does not have emotions, empathy or the capacity for self-reflection, all of which are essential components of human intelligence. Plus, AI systems are still entirely reliant on human input and supervision, lacking the ability to make truly autonomous decisions."
-    publishedDateTime: 2023-06-06T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/06/privacy-in-the-age-of-ai-separating-fact-from-fiction/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&crop=2433,1368,x0,y191,safe&width=1200"
         width: 1200
         height: 675
         isCached: true

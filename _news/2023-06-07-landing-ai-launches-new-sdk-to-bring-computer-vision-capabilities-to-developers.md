@@ -37,20 +37,6 @@ related:
         width: 2684
         height: 1485
         isCached: true
-  - title: "Super Micro Computer: AI Beneficiary Priced To Perfection"
-    excerpt: "The more exciting product line of SMCI resulting in the recent share price rally is its GPU or accelerated systems to cater to the increasing demands for the generative AI applications, and data center optimized server systems that bring about improved ..."
-    publishedDateTime: 2023-06-06T13:49:00Z
-    webUrl: "https://seekingalpha.com/article/4609702-super-micro-computer-ai-beneficiary-priced-to-perfection"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1297493683/image_1297493683.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1152
-        isCached: true
 
 secured: "5/run/KzfZBtaUrIffLuli4DL8s+wwYbWXb+kpZTzPEXW9MSaV98d3yKn4fc1hRNuyzA5ukaEq4WZ5p8N6s8qlruo4X+XJVBdjIZKF+RLmntqaJUQbL3Yn+Tobt5aC7IxcP7qgoWcTWB9ovoaoT0zmzTYjWvCPXMjywQTTJzNdMYymQ18JFKuZGMJQctV1Zml4pykl3JH0r0LjdlbxEMj3d5HP0hPxTLSsztb2LBZfKpTyqS56LK6konKSPRqb6DxKiipionbVSVefsgVwkNMAeeWdZKHFeSa6XdU18Q6dS1EWAg0lqjsbZdfbakcWB2TtdtCb6YJJK0lVgSIQWEInAtQXBdAvJB0YPt6wT75uI=;y5MKkcpRCWKPIYf6VlJEPQ=="
 ---

@@ -77,15 +77,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "How artificial intelligence can improve the hiring process"
-    excerpt: "Artificial intelligence isn’t new, but it’s quickly gone from a fringe computing concept to an everyday topic of discussion. Whether it’s AI art, AI chatbots or general AI, the introduction of AI is critical for many industries, as it can perform a ..."
-    publishedDateTime: 2023-06-06T13:06:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2023/06/06/artificial-intelligence-improve-hiring-process.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "23TMkthXQL9Vlv+l2A6FnNqfwFMzaMFm7FB8LPEGvvOkpyrbr6c4jOWvT4TAWWGWB/XO41K561eyZUSOp0qxNcMQ6SByB5OKm0102NhmJRY5NOyuPjAV/YRriTa6NtT9Rs47W8eO43c5pDuasCTVPfJdRd/76dWkG6ZnhwCwqA02dbUVJuUNiqRQtnbc2JyXpHBvan8Y6Ea0xknlM9/wZgGpDaHYTNuEot1zCAtdGFdPSJzcwJf0bjhDpip6awwfdh+QARROBKZaNYa0b+B2sJu0a7Et2M+EW1Fli76SBNgzeAN+k8A7dW76P3Wl9QWt8FpnKW5/K4t1kHH0BOhqVSmCwHvt2z8BnyE0TnPkBDle3J4jPrP/E+TTrL+fiwN3MbpGYw71qV5eDzS5P34ZVXGErs9L3be6HvnTfl+b7GBNFu4Tt2g2RN0oRvvRbMMB1sZL6W0SBbwkdhdhMP5uDKOjYqHKyDlxgZUb45ZnY3wxpdrmcGuU7+86e98GxWE1Ct3s1Q6OJbVmBZkIut+KbQ==;j/+4otM605Mas0KWB1TK8Q=="
 ---

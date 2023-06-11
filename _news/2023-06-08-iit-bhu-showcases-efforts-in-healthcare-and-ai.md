@@ -77,15 +77,6 @@ related:
       name: PMLiVE
       domain: pmlive.com
     quality: 36
-  - title: "How artificial intelligence can improve the hiring process"
-    excerpt: "Artificial intelligence isn’t new, but it’s quickly gone from a fringe computing concept to an everyday topic of discussion. Whether it’s AI art, AI chatbots or general AI, the introduction of AI is critical for many industries, as it can perform a ..."
-    publishedDateTime: 2023-06-06T13:06:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2023/06/06/artificial-intelligence-improve-hiring-process.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "swSDGOT7xzsjdYtf7fbSBWVN+Y030xI99/MEKAZJY9EeB55Kn65eLhWVnVsjUq91MnqRyjs+4Do9u/mITeN5VPOj/HI8rHHuVLu5VY+rnte2ou1DnU3rd+OjKCnXJXhYS2S1oUdNd/sjINDgcxqtXN1IUQwtl+0JbmCkKMkQrlSjxrpqOyy+FxngGolKccnNiPUwiG/jsCfsgkUHG+/TZx54rr7LIPS3VklUskyF7QPwuL3z4acJjz1COjHxvPIT0iqYIXjUQENIzJjnqfpg1ThqyPu6b2oZwWFQt9LzDwvbry6yC9cbUZ4Q8iFNoNCxRkumwfKtsDHOQ3uVLIIvgmVF5M1Bbxwkm3PbkGTeLuk=;xrGu7U3TwjZU1pqzjGxM4A=="
 ---

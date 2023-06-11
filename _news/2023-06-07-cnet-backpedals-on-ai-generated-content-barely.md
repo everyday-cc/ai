@@ -7,7 +7,7 @@ originalUrl: "https://crackberry.com/cnet-backpedals-ai-generated-content-barely
 webUrl: "https://crackberry.com/cnet-backpedals-ai-generated-content-barely"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "The EU tells social media companies that AI-generated content should be labeled"
-    excerpt: "Vera Jourova, deputy head of the European Commission, said, \"Signatories who integrate generative AI into their services like Bingchat for Microsoft, Bard for Google, should build"
-    publishedDateTime: 2023-06-06T13:53:00Z
-    webUrl: "https://www.techspot.com/news/98958-eu-tells-social-media-companies-ai-generated-content.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 45
 
 secured: "7OttHeLbfJHroxEAtkweOXcRgEdvseEXVfprfHf1L1ZiwcZcxUEruBw1Fymwi7C9CedNhmc6PcT9Il8XnHv83+bfEgZU4xeHKmTPhEVVorUvl9hyCLzuQ96Rfaegrf3xpomPeVfBh6wTlIP7eiFY4NkKMfCabXK8fytq5DnY7LTW1ZvPkCZZ5Gxda1R3BT7bw3S3f2sXnPujS/veMxZNn+mXGDBVa+eKOpgItafYJMJqJ74+KtPPPh9vGFScSIehbpQS2pOw7hqAy4bM5DLmB1ygMxNv40/crCncvT6Ht/wqkLPI1tiGSIOz8ng6qhCmn2TmjRmC2/WkElHXEZTSW4h+Wh5wrzEKtXSR9ZN9xFpBRp1by9/r5Bc53CPEXxPTj1dcxMeR5ImvXF1RXMxX20ZH3RW0JJ5kNbMe+FAJbgdjkrLtwaSANR4zFynNZRXgMLfMQousA6sz6wjLGiROdSVVwasAhdtp+jlajB5Uet0dUrKfm1GAVQ1AG7wpj0wWUxTKZTn3NMsOb41VGK6M/A==;D6XpE4lxPdalJX3sOFqqwA=="
 ---

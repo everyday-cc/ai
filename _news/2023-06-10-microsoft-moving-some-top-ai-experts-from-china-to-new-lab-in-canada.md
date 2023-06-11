@@ -110,20 +110,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Intel and Microsoft look to bring AI to the masses with Meteor Lake chips"
-    excerpt: "Intel aims to put AI-accelerated experiences in the hands of hundreds of millions of people with its new Meteor Lake chips."
-    publishedDateTime: 2023-06-06T13:16:00Z
-    webUrl: "https://interestingengineering.com/innovation/intel-and-microsoft-bring-ai-to-masses-meteor-lake-chips"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 70
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/06/image/jpeg/pOSv8dNxeKMqDTYoHX000kE4rPtKxTMrndXN0Mv6.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Adds OpenAI’s GPT-4 Models to Azure Government Services"
     excerpt: "Potential government clients that could obtain access to ChatGPT AI models include NASA, the Defense Department, and the Energy Department."
     publishedDateTime: 2023-06-07T14:24:00Z

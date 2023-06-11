@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-ena
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
 type: article
 quality: 121
-heat: 331
+heat: 321
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2023/03/Bing-AI-Logo-AH.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Intel and Microsoft look to bring AI to the masses with Meteor Lake chips"
-    excerpt: "Intel aims to put AI-accelerated experiences in the hands of hundreds of millions of people with its new Meteor Lake chips."
-    publishedDateTime: 2023-06-06T13:16:00Z
-    webUrl: "https://interestingengineering.com/innovation/intel-and-microsoft-bring-ai-to-masses-meteor-lake-chips"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 70
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/06/image/jpeg/pOSv8dNxeKMqDTYoHX000kE4rPtKxTMrndXN0Mv6.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft Adds OpenAI’s GPT-4 Models to Azure Government Services"
     excerpt: "Potential government clients that could obtain access to ChatGPT AI models include NASA, the Defense Department, and the Energy Department."

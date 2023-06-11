@@ -20,19 +20,19 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Landing AI Releases SDK to Accelerate Computer Vision Development"
-    excerpt: "Comprehensive Selection of AI Use Cases: Landing AI's repositories cover a range of computer vision use cases, including object dete"
-    publishedDateTime: 2023-06-06T13:45:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827444.htm"
+  - title: "MonsterAPI Says Its Platform Cuts AI Development Costs Up to 90%"
+    excerpt: "Palo Alto, Calif., June 8, 2023 – Today Monster API is launching its platform to provide developers access to GPU infrastructure and pre-trained AI models at a lower cost than other cloud-based options,"
+    publishedDateTime: 2023-06-08T11:00:00Z
+    webUrl: "https://insidehpc.com/2023/06/monsterapi-says-its-platform-cuts-ai-development-costs-up-to-90/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 41
     images:
-      - url: "https://mma.prnewswire.com/media/2093665/Landing_AI_SDK.jpg"
-        width: 400
-        height: 210
+      - url: "https://insidehpc.com/wp-content/uploads/2021/09/HPCAsAService-Cover-Image.png"
+        width: 425
+        height: 600
         isCached: true
 
 secured: "RdM0ywkAn8/sgZCD7BkwQnV3L0H8KHqFW9Q6iP751jveWBVeSo6/GBiJFshc3mdBWlfS+nzbHHO6zsaBwYHyF34wnPbDlfdrfb8o8BAHdX19k5ZAph6v9pM/YjwNORJolhHvqPwGdZpUZsaDWq0kMUT7V4MCo0l2ptomJA4uZTxYFcJAHFpPvCZukSXE1MskScLD7O4kwwnT34tRQOJfVMhFfsU6dm6kVgu4ufKN39iFU9F5stPdg9LnbaMQ1q7oy5N55ocDJ31XH/w1aTQzRzBRyzy3XkQiipIg0spB5ZwW7CSGZhp31sNcImKJufs8mmsnJSZKdCx08xaYiCAFtSwHlC0RsnqRMnzQsmEN7tM=;fpakeqTZM9uN7PVOIEG8nQ=="

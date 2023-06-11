@@ -115,20 +115,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Intel and Microsoft look to bring AI to the masses with Meteor Lake chips"
-    excerpt: "Intel aims to put AI-accelerated experiences in the hands of hundreds of millions of people with its new Meteor Lake chips."
-    publishedDateTime: 2023-06-06T13:16:00Z
-    webUrl: "https://interestingengineering.com/innovation/intel-and-microsoft-bring-ai-to-masses-meteor-lake-chips"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 70
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/06/image/jpeg/pOSv8dNxeKMqDTYoHX000kE4rPtKxTMrndXN0Mv6.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft to host exclusive event showcasing how AI can unlock potential of UAE organizations"
     excerpt: "The company will share practical examples and showcase how its Azure AI platform is ushering in a new era of AI"
     publishedDateTime: 2023-06-08T06:59:00Z

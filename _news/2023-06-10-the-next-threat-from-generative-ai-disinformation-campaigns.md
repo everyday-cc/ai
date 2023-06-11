@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare and generative AI: What are the emerging use cases?"
-    excerpt: "Microsoft announces new partnerships with Nuance and Epic, integrating generative AI-powered tools to enable HCPs to document patient records and draft messages. – Google releases Med-Palm-2, a generative AI trained to answer medical questions,"
-    publishedDateTime: 2023-06-06T13:27:00Z
-    webUrl: "https://econsultancy.com/healthcare-generative-ai-examples/"
-    type: article
-    provider:
-      name: Econsultancy
-      domain: econsultancy.com
-    quality: 38
   - title: "From science fiction to reality: Business transformation through generative AI"
     excerpt: "Generative AI models offer valuable applications across diverse business functions, spanning IT, human resources, operations, and more."
     publishedDateTime: 2023-06-07T23:29:00Z
