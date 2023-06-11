@@ -3,23 +3,23 @@ category: news
 title: "CORRECTING and REPLACING Clarify Health Launches Generative Artificial Intelligence, Clara"
 excerpt: "Contact us at clara@clarifyhealth.com to learn more about the closed beta program for Clarify's new generative artificial intelligence, Clara. (Graphic: Business Wire) The updated"
 publishedDateTime: 2023-06-07T01:16:00Z
-originalUrl: "https://www.kentuckytoday.com/news/business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_f365d0b6-e6bc-54a5-8b4e-d7155a8ded82.html"
-webUrl: "https://www.kentuckytoday.com/news/business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_f365d0b6-e6bc-54a5-8b4e-d7155a8ded82.html"
+originalUrl: "https://www.valdostadailytimes.com/ap/business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_454b3320-9f48-5ddd-9604-7e382f1d2672.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_454b3320-9f48-5ddd-9604-7e382f1d2672.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Kentucky Today
-  domain: kentuckytoday.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/assets/v3/editorial/6/1c/61c9737a-13f0-5e55-8fb3-70df61f04918/647fdafee5207.image.jpg?crop=1019%2C535%2C2%2C0&resize=1019%2C535&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/5/b0/5b049543-b15f-5826-a8e9-166988596f31/647fdd7855695.image.jpg?crop=1019%2C535%2C2%2C0&resize=1019%2C535&order=crop%2Cresize"
     width: 1019
     height: 535
     isCached: true
@@ -56,22 +56,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6480ea0b59cee9714cd235e2/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 659
-        isCached: true
-  - title: "Singapore creates digital blueprint for generative AI and autonomous systems"
-    excerpt: "Singapore has laid out a years-long roadmap it believes will ensure its digital infrastructure is ready to tap emerging technologies, such as generative artificial intelligence (AI), autonomous systems, and immersive multi-party interactions."
-    publishedDateTime: 2023-06-06T06:58:00Z
-    webUrl: "https://www.zdnet.com/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/ff53e6c4483e5779afacd8333ae6436da3ef5629/2023/06/06/c440993d-c081-419a-8e99-fa6ca3d33864/gettyimages-601843233.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Ingeniously Using Generative AI Such As GPT-4 To Reveal The Puzzling Secrets Of How Generative AI Startlingly Works, Lauds AI Ethics And AI Law"
     excerpt: "Nobody can say for sure why generative AI works so startlingly well. A new approach revealed by OpenAI uses GPT-4 to decipher generative AI secrets. Here's the deal."
@@ -113,6 +97,6 @@ related:
       domain: businessinsider.com
     quality: 38
 
-secured: "HU58ysCAT3Fdh50LokDsact77H7M40dGXEGbTfKixFlAIXfDzWAYjb8UHw/Y/cTvBgH3E8mP7u8QSSOg8od3bqRI5JiESFtt9k084tZWvY6rcqrLg6/m74R3yobfXwMizjDH55pYqoM7QNdUgOFG0uErWDEgrz5Pzv45Nc4EqHIixfe0V0G8v5csIHKP2NnDlXZf9muUGJXGyKVYymbS/u1tff5SvZKbL6JKdPd0BKwQBoueBflqE6/X4j2jyo0QuHrlew8DIdcX2hY/S+nCNOlgz4UY3mqrXRyxWBqaxKzsdEGVUww0e/e7E0DIo1W/AI0Or54XFrr1Co/uto997IRDF/xDhYbQZRud/RTL4O+NaWEEYOWSoyUFEXmIAtjcnq3E5kXv2VDGiY/oIdddKMeA/F0urPgXmqoJvseQwclg57XjeAhCSaHn06kmgof7+muRm+/L5uqXPBVUmb5csVaLEohoUXqmurSQrAvrMuDyX9X7nmG8YyhHapFc5dKs4afqlTjoWjPACp7X9ELRQw==;f31JrEj2KsWDxLoplSIYqg=="
+secured: "hdH/Z6l3yvA7eJwNQbwtQ+SoS8Lru7A5NnnFetWYuIzOUHeK9NrAWPnJcfl/yMGYemPAoW3WmGW5LqZEF0rmuA2jy932ZCmsimm7O88VkUP+PcccD4R9OGdhSgDmhljeMNuvwR83cqKl+jQl8KISQrUyK8NPRHTIvQpnzhX+qc9sdBMQxcScy+XLEXUDpJQnlk7ZIaogO0VQojhgHzlFZwUWvUP4PNxEL+dbtrsOSuFj29rUIvSA/59vAzuSkFTpA8hYb0yY/T0bcyU4Sr24FaD40bQ47E4wCdILbf5FriLWeL7LqRbRnjbiZ7g5tFxYksY0b6Hnjp72NRdut3VJ3WF/aFfZG6rkBChEk2r6890=;o4oP6pKHK65Pct+4AXRwgw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/categories/ai?page=2"
 webUrl: "https://www.pcmag.com/news/categories/ai?page=2"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

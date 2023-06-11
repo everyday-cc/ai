@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Mercedes achieves SAE Level 3 self-driving certification in California, but there’s a catch"
-excerpt: "After achieving SAE Level 3 certification in Nevada back in January, Mercedes has done the same in California as well."
-publishedDateTime: 2023-06-08T22:54:00Z
-originalUrl: "https://bgr.com/tech/mercedes-achieves-sae-level-3-self-driving-certification-in-california-but-theres-a-catch/"
-webUrl: "https://bgr.com/tech/mercedes-achieves-sae-level-3-self-driving-certification-in-california-but-theres-a-catch/"
+title: "California senior center have A.I. robots serve food"
+excerpt: "Artificial intelligence (A.I.) is helping feed seniors at an assisted living facility in Sacramento. In spite of the high-tech assistance, all the human employees are keeping their jobs."
+publishedDateTime: 2023-06-10T23:08:00Z
+originalUrl: "https://kyma.com/news/california-news/2023/06/10/california-senior-center-have-a-i-robots-serve-food/"
+webUrl: "https://kyma.com/news/california-news/2023/06/10/california-senior-center-have-a-i-robots-serve-food/"
 type: article
-quality: 14
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: BGR
-  domain: bgr.com
+  name: KYMA
+  domain: kyma.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://bgr.com/wp-content/uploads/2023/06/mercedes-self-driving-california.jpeg?quality=82&strip=all"
-    width: 928
-    height: 619
+  - url: "https://kyma.b-cdn.net/2023/06/MGN_1280x720_90211C00-YXCXD.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -57,21 +57,21 @@ related:
         width: 1080
         height: 721
         isCached: true
-  - title: "California senior center have A.I. robots serve food"
-    excerpt: "Artificial intelligence (A.I.) is helping feed seniors at an assisted living facility in Sacramento. In spite of the high-tech assistance, all the human employees are keeping their jobs."
-    publishedDateTime: 2023-06-10T23:08:00Z
-    webUrl: "https://kyma.com/news/california-news/2023/06/10/california-senior-center-have-a-i-robots-serve-food/"
+  - title: "Mercedes achieves SAE Level 3 self-driving certification in California, but there’s a catch"
+    excerpt: "After achieving SAE Level 3 certification in Nevada back in January, Mercedes has done the same in California as well."
+    publishedDateTime: 2023-06-08T22:54:00Z
+    webUrl: "https://bgr.com/tech/mercedes-achieves-sae-level-3-self-driving-certification-in-california-but-theres-a-catch/"
     type: article
     provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 39
+      name: BGR
+      domain: bgr.com
+    quality: 14
     images:
-      - url: "https://kyma.b-cdn.net/2023/06/MGN_1280x720_90211C00-YXCXD.jpg"
-        width: 1200
-        height: 675
+      - url: "https://bgr.com/wp-content/uploads/2023/06/mercedes-self-driving-california.jpeg?quality=82&strip=all"
+        width: 928
+        height: 619
         isCached: true
 
-secured: "y+hHQj5EF2kHr9m6EMVF7o5iS4qQQnqW6b8ryYh33ZWkvWiChnsSHM680tcw9fuWXvbJG6SSCA8nnYES+vx/scMTiTD53V3m69ibKz6D+qF6zsxNtFJZGqospfFAAy1N5U9tSBeD9GjEtbK3t6dOeGBK8a1nVajrPcsBjAh487VCTJoK8ufpaa+Fcm1BY+xfyB+SEEgBEzzopGm3IobkW3U23w+j37ZAzDNw85WsCEVk5RG7dYlfrrKDoEZQQf/kIXVhpfizEBCCkxf9dDcwJlm2c3DJcy80FyIw3aLohBIaThn/8bm/LDtynxiXpmMhgtl4rnt4Fx1NL9888IMfTtSNEMJ6M+z3um2OnBkk1CB6ihcWZWLYCKnHMMcB9BZtnz6W+SzTluELSIbiZGXOT55MyZMmTWq8mpc0wdXIYE3qn7lw4KKWeE+haml0T6EnUPlpopcT01cP9DxEn7ffcMvOUP/sGha0tMrSSihu+MoQAbvWdruNZVWJn+m1pYbAOxH6y9c+WtmasbzKJj5MGw==;jAJFsSsB7ajfhOqg8heimw=="
+secured: "8fc4Pzl6T0B/K8N8Wpcqp/lw/mEhj9VqtaMMTE74jcM1bdQTwAV46tBq+l/Scsqm6e8D5uP4dVIVqOQYqRIwKZfr8rORhiJFnK4iqrryhLU3pdDmk4/OnCkOVJL+4pVThFZ0rpMNil4BXzD6XB1ICJxw7RSDOuaW7PkmGX+ZdTiKb73nRVn7Y5OPRjnYdeFjHA/qpKytJL7JHEoh+u1OZIxg2CM9ttdLWc19vtbChAFUSRH6Hk2Yxpz13s85pQVaJUXVDd+cH5IKaiHUGiQQ+8VT7L7Pds9LvIOECxcpR+WmuZNWkJ8VTDYV8LEUmqzO8KkSyJuyRQrkdWrMg1f/G0n+amcD2dsn5TCZEZcOClk=;Vyd1RtwJnKQzCUPiJLMWOw=="
 ---
 

@@ -26,36 +26,42 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in MRI Global Market Report 2023: Sector to Reach $1.53 Billion by 2028 at a 35.7% CAGR"
-    excerpt: "The \"Artificial Intelligence (AI) in MRI Market - Forecasts from 2023 to 2028\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence in"
-    publishedDateTime: 2023-06-09T16:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32799034/artificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-1-53-billion-by-2028-a"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32799034"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32799034"
+  - title: "Digital Twins in Healthcare Market worth $21.1 billion | MarketsandMarkets"
+    excerpt: "Digital Twins in Healthcare Market in terms of revenue was estimated to be worth $1.6 billion in 2023 and is poised to reach $21.1 billion by 2028, growing at a CAGR of 67.0% from 2023 to 2028 according to a new report by MarketsandMarkets™."
+    publishedDateTime: 2023-06-06T18:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-digital-twins-healthcare-market-worth-211-billion-marketsandmarkets-/2023/06/06/9827683.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Autonomous Mobile Robot Market is Set to Globally Reach $18.9 Billion by 2032 at 21.8% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \"Autonomous Mobile Robot Market by Type (Goods to Person Picking Robots, Self Driving Forklifts, Autonomous Inventory"
-    publishedDateTime: 2023-06-06T16:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/g32742688/autonomous-mobile-robot-market-is-set-to-globally-reach-18-9-billion-by-2032-at-21-8-cagr-allied-m"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+  - title: "Sleep Apnea Devices Market worth $8.0 billion | MarketsandMarkets"
+    excerpt: "The sleep apnea devices industry is poised for significant growth and innovation in the near future. With increasing awareness about the detrimental effects of untreated sleep apnea,"
+    publishedDateTime: 2023-06-08T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32783569/sleep-apnea-devices-market-worth-8-0-billion-marketsandmarkets"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
+  - title: "Fintech as a Service (FaaS) Market worth $676.9 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Market is expected to experience substantial growth, with projections indicating a rise from USD 310.5 billion in 2023 to USD 676.9 billion by 2028, exhibiting a compound annual growth rate of 16.9%,"
+    publishedDateTime: 2023-06-08T15:39:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/08/9829532.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Fintech as a Service (FaaS) Market worth $676.9 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Market is expected to experience substantial growth, with projections indicating a rise from USD 310.5 billion in 2023 to USD 676.9 billion by 2028, exhibiting a compound annual growth rate of 16.9%,"
+    publishedDateTime: 2023-06-08T17:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/06/08/9829532.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "pZ5GcnpEGII+U8KgIjuCNdr/9ClA2xZctTpVQdV+lZVn8clY7cWUk2j9P/0YjrjxMWf9M+WgoLXPtAmxzw8mapjwwB90nO2GzeONvvfEJwyJvrAGjxMQsylumyD7CiGhGHhuFzCQMlT9OvXSZ1zAn9eFWs/MKz3WMDKKgyZ4TuHvtlu8P3wi1sC6Bm968jjcgjNZt84IgwYjrLO4WM67jVR7Bkzrk3IBynI+/2+Yko7DgmmT2od9ns8w9Y4x/OKqGgusvgTfeqcDtu7r8I0OuJqJcuGmHWSwU9tA4B3/IMngyt7heVvXxWerLwT2UU/oj3JdDRDSXGxRrnIlAKmdm+080mSLjJooj1B1B8EjYXAywYVXu63ZLHuqXXaRgeBpuZF+WZb7Jce2/1P+AKXXCPqW8r1Ao5y+K8BbVc8vOEzyAKSRLTYZNHNoB/4dlHpHVN7sghiDzPQ3LjY6UaEY8MNORSk8habp2gLKgSN5QzTbGJZph8rOaB/7ySdVJvFYHV0dC14PaDqIgfc3M4SDsQ==;LQwqOs+KXOW4YqCZ0ltD+w=="
 ---

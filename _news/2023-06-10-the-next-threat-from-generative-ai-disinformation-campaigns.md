@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 120
 published: true
 
 provider:

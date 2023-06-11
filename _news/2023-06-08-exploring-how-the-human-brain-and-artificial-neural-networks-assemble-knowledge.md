@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-06-exploring-human-brain-artific
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-exploring-human-brain-artificial-neural.amp"
 type: article
 quality: 70
-heat: 72
+heat: 70
 published: true
 
 provider:

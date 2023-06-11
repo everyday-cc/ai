@@ -33,6 +33,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Falling funds and the rise of AI are top of the menu at London tech talks"
+    excerpt: "Artificial intelligence will be the main talking point at London Tech Week but investment and skills problems remain"
+    publishedDateTime: 2023-06-10T22:05:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/11/falling-funds-and-the-rise-of-ai-are-top-of-the-menu-at-london-tech-talks"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/11/falling-funds-and-the-rise-of-ai-are-top-of-the-menu-at-london-tech-talks"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/11/falling-funds-and-the-rise-of-ai-are-top-of-the-menu-at-london-tech-talks"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
+    images:
+      - url: "https://i.guim.co.uk/img/media/d06a8dfb41307c00a74103b451c531f3ff309200/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=b383d96b1fb9fa907a3f4935a932fa16"
+        width: 620
+        height: 372
+        isCached: true
   - title: "AI in distribution: How artificial intelligence can drive growth"
     excerpt: "Artificial intelligence (AI) is a growing industry that has changed the way businesses function and interact with their customers."
     publishedDateTime: 2023-06-09T04:00:00Z

@@ -43,6 +43,20 @@ related:
         width: 712
         height: 400
         isCached: true
+  - title: "California senior center have A.I. robots serve food"
+    excerpt: "Artificial intelligence (A.I.) is helping feed seniors at an assisted living facility in Sacramento. In spite of the high-tech assistance, all the human employees are keeping their jobs."
+    publishedDateTime: 2023-06-10T23:08:00Z
+    webUrl: "https://kyma.com/news/california-news/2023/06/10/california-senior-center-have-a-i-robots-serve-food/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 39
+    images:
+      - url: "https://kyma.b-cdn.net/2023/06/MGN_1280x720_90211C00-YXCXD.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mercedes achieves SAE Level 3 self-driving certification in California, but there’s a catch"
     excerpt: "After achieving SAE Level 3 certification in Nevada back in January, Mercedes has done the same in California as well."
     publishedDateTime: 2023-06-08T22:54:00Z

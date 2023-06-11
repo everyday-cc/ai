@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelharley/2023/06/07/california-ass
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelharley/2023/06/07/california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers/amp/"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/3631686152912/2023/1/16861531432766/v1.5/Lost-coyote-pup-found-visiting-California-familys-dogs-in-kennel.jpg"
         width: 1080
         height: 721
+        isCached: true
+  - title: "California senior center have A.I. robots serve food"
+    excerpt: "Artificial intelligence (A.I.) is helping feed seniors at an assisted living facility in Sacramento. In spite of the high-tech assistance, all the human employees are keeping their jobs."
+    publishedDateTime: 2023-06-10T23:08:00Z
+    webUrl: "https://kyma.com/news/california-news/2023/06/10/california-senior-center-have-a-i-robots-serve-food/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 39
+    images:
+      - url: "https://kyma.b-cdn.net/2023/06/MGN_1280x720_90211C00-YXCXD.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Mercedes achieves SAE Level 3 self-driving certification in California, but there’s a catch"
     excerpt: "After achieving SAE Level 3 certification in Nevada back in January, Mercedes has done the same in California as well."

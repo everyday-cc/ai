@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 170
 published: true
 
 provider:

@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "EU wants tech companies to clearly label AI-generated content"
-    excerpt: "The European Commission has asked online platforms to detect and label content created using AI tools in its attempt to tackle disinformation."
-    publishedDateTime: 2023-06-06T06:06:00Z
-    webUrl: "https://www.ibtimes.co.uk/eu-wants-tech-companies-clearly-label-ai-generated-content-1716420"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 39
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1715977/artificial-intelligence-tools-chatgpt.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "CNET backpedals on AI-generated content… barely"
     excerpt: "AI-generated articles on CNET and other Red Ventures sites will still be reviewed by an editor, but will that be enough to avoid previous missteps?"
     publishedDateTime: 2023-06-06T19:30:00Z

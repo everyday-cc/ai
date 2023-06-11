@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Singapore creates digital blueprint for generative AI and autonomous systems"
-    excerpt: "Singapore has laid out a years-long roadmap it believes will ensure its digital infrastructure is ready to tap emerging technologies, such as generative artificial intelligence (AI), autonomous systems, and immersive multi-party interactions."
-    publishedDateTime: 2023-06-06T06:58:00Z
-    webUrl: "https://www.zdnet.com/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/networking/singapore-creates-digital-blueprint-for-generative-ai-and-autonomous-systems/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/ff53e6c4483e5779afacd8333ae6436da3ef5629/2023/06/06/c440993d-c081-419a-8e99-fa6ca3d33864/gettyimages-601843233.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Ingeniously Using Generative AI Such As GPT-4 To Reveal The Puzzling Secrets Of How Generative AI Startlingly Works, Lauds AI Ethics And AI Law"
     excerpt: "Nobody can say for sure why generative AI works so startlingly well. A new approach revealed by OpenAI uses GPT-4 to decipher generative AI secrets. Here's the deal."
     publishedDateTime: 2023-06-10T11:00:00Z
@@ -104,14 +88,14 @@ related:
   - title: "CORRECTING and REPLACING Clarify Health Launches Generative Artificial Intelligence, Clara"
     excerpt: "Contact us at clara@clarifyhealth.com to learn more about the closed beta program for Clarify's new generative artificial intelligence, Clara. (Graphic: Business Wire) The updated"
     publishedDateTime: 2023-06-07T01:16:00Z
-    webUrl: "https://www.kentuckytoday.com/news/business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_f365d0b6-e6bc-54a5-8b4e-d7155a8ded82.html"
+    webUrl: "https://www.valdostadailytimes.com/ap/business/correcting-and-replacing-clarify-health-launches-generative-artificial-intelligence-clara/article_454b3320-9f48-5ddd-9604-7e382f1d2672.html"
     type: article
     provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
     quality: 29
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/assets/v3/editorial/6/1c/61c9737a-13f0-5e55-8fb3-70df61f04918/647fdafee5207.image.jpg?crop=1019%2C535%2C2%2C0&resize=1019%2C535&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/5/b0/5b049543-b15f-5826-a8e9-166988596f31/647fdd7855695.image.jpg?crop=1019%2C535%2C2%2C0&resize=1019%2C535&order=crop%2Cresize"
         width: 1019
         height: 535
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-mart
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
 type: article
 quality: 104
-heat: 116
+heat: 114
 published: true
 
 provider:
