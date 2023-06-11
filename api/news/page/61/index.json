@@ -2,6 +2,59 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-05-03-automated-machine-learning-automl-market-analysis-and-forecast-to-2031.md",
+      "title": "Automated Machine Learning (AutoML) Market Analysis and Forecast to 2031",
+      "excerpt": "May 03, 2023 (The Expresswire) -- \"Automated Machine Learning (AutoML) Market\" is expected to witness significant growth in the coming years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-and-forecast-to-2031-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-and-forecast-to-2031-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-baltimore-city-council-to-consider-restrictions-to-facial-recognition-and-surveillance-that-would-be-first-test-of-local-police-control.md",
       "title": "Baltimore City Council to consider restrictions to facial recognition and surveillance that would be first test of local police control",
       "excerpt": "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced Monday by Councilman Kristerfer Burnett. The twin proposals ...",
@@ -1080,49 +1133,6 @@
       "provider": {
         "name": "bbntimes",
         "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-landing-ai-announces-the-worlds-first-validation-ready-computer-vision-software-for-fda-regulated-manufacturers.md",
-      "title": "Landing AI Announces the World's First Validation-Ready Computer Vision Software for FDA-Regulated Manufacturers",
-      "excerpt": "\"AI, starting with computer vision, is a game-changing tool for medical device, pharmaceutical and life sciences industries, and we'll see rapid innovation in the coming years,\" said Andrew Ng ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/landing-ai-announces-the-worlds-first-validation-ready-computer-vision-software-for-fda-regulated-manufacturers/article_1193883f-c73d-550c-b11e-e36827805b2c.html",
-      "originalUrl": "https://www.victoriaadvocate.com/landing-ai-announces-the-worlds-first-validation-ready-computer-vision-software-for-fda-regulated-manufacturers/article_1193883f-c73d-550c-b11e-e36827805b2c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/9/89/989f9cf4-43ac-5f44-8296-4db5b93b41bb/64510611dad8d.image.jpg?crop=1259%2C661%2C0%2C177&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1331,26 +1331,35 @@
       ]
     },
     {
-      "path": "_news/2023-05-26-h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
-      "title": "H2O.ai Recognized as a Visionary in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services",
-      "excerpt": "“We believe H2O AI Cloud is one of the best autoML and enables organizations to build predictive models and gain insights from their data quickly and easily. “As a community powered ...",
+      "path": "_news/2023-05-26-aiml-considerations-of-healthcares-new-frontier.md",
+      "title": "AI/ML: Considerations of Healthcare’s New Frontier",
+      "excerpt": "Artificial Intelligence (AI) and Machine Learning (ML) is bringing healthcare into a new frontier with vast potential to improve clinical outcomes, manage resources, and support therapeutic development. They also raise ethical, legal, and operational ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20230526005264/h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20230526005264/h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services",
+      "webUrl": "https://medcitynews.com/2023/05/ai-ml-considerations-of-healthcares-new-frontier/",
+      "originalUrl": "https://medcitynews.com/2023/05/ai-ml-considerations-of-healthcares-new-frontier/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 71,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2021/03/GettyImages-1206796363.jpg",
+          "width": 810,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T09:24:00-07:00",
+      "publishedDateTime": "2023-05-26T08:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1360,8 +1369,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

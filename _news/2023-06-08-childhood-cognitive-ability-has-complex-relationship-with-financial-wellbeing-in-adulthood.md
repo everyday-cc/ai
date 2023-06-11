@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230607/Childhood-cognitive-abi
 webUrl: "https://www.news-medical.net/news/20230607/Childhood-cognitive-ability-has-complex-relationship-with-financial-wellbeing-in-adulthood.aspx"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Childhood cognitive ability has complex links with later financial wellbeing"
-    excerpt: "The relationship between cognitive ability in childhood and financial wellbeing in adulthood varies for different financial measures—such as savings levels versus having debt – per a new analysis of nearly 6,"
-    publishedDateTime: 2023-06-06T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/990954"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 21
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2f8dd304-cfec-44b4-b7c9-95f24b2c2885/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Childhood cognitive ability has complex links with later financial well-being"
     excerpt: "The relationship between cognitive ability in childhood and financial well-being in adulthood varies for different financial measures—such as savings levels versus having debt—per a new analysis of nearly 6,"
     publishedDateTime: 2023-06-07T18:00:00Z

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Google's Generative AI Platform Is Now Available To Everyone"
-excerpt: "With the service becoming GA, enterprises and organizations could integrate the platform's capabilities with their applications."
-publishedDateTime: 2023-06-09T05:30:00Z
-originalUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/"
-webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/"
-ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
+title: "Oracle invests in Cohere, plans to integrate generative AI tools into its cloud"
+excerpt: "Oracle has invested in generative AI company Cohere, in a deal that valued the business at around $2.2 billion. The $270m Series C round also saw participation from Nvidia and Salesforce. Oracle's investment is said to loosely mirror that of Microsoft with OpenAI and Google with Anthropic,"
+publishedDateTime: 2023-06-11T16:09:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/oracle-invests-in-cohere-plans-to-integrate-generative-ai-tools-into-its-cloud/"
+webUrl: "https://www.datacenterdynamics.com/en/news/oracle-invests-in-cohere-plans-to-integrate-generative-ai-tools-into-its-cloud/"
 type: article
-quality: 89
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
+  - Microsoft AI
   - AI
-  - Natural Language Processing
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/6482b8837a0f4f82412c5c61/0x0.jpg?format=jpg&width=1200"
+  - url: "https://media.datacenterdynamics.com/media/images/Oracle_plane.2e16d0ba.fill-1200x630.jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -46,6 +40,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135936636.jpg?resize=1200,801"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Google's Generative AI Platform Is Now Available To Everyone"
+    excerpt: "With the service becoming GA, enterprises and organizations could integrate the platform's capabilities with their applications."
+    publishedDateTime: 2023-06-09T05:30:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6482b8837a0f4f82412c5c61/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Firm study predicts big spends on generative AI"
     excerpt: "A new study polling software buyers at businesses worldwide finds strong intention to increase budget, with special interest in AI. It also looks at how vendors can engage buyers."
@@ -121,20 +131,6 @@ related:
         width: 1200
         height: 776
         isCached: true
-  - title: "Oracle invests in Cohere, plans to integrate generative AI tools into its cloud"
-    excerpt: "Oracle has invested in generative AI company Cohere, in a deal that valued the business at around $2.2 billion. The $270m Series C round also saw participation from Nvidia and Salesforce. Oracle's investment is said to loosely mirror that of Microsoft with OpenAI and Google with Anthropic,"
-    publishedDateTime: 2023-06-11T16:09:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/oracle-invests-in-cohere-plans-to-integrate-generative-ai-tools-into-its-cloud/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 35
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Oracle_plane.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google Cloud and Mayo Clinic to explore uses of generative AI in healthcare"
     excerpt: "To get the ball rolling, the Mayo Clinic is adopting a new service called Enterprise Search on Generative AI App Builder that will help to improve the efficiency of clinical workflows and make it easier for clinicians and medical researchers to find the data they need to improve patient outcomes,"
     publishedDateTime: 2023-06-07T12:00:00Z
@@ -186,6 +182,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "nNp5bfXZq203b+HZPtt1C6yir0+gxJkAX5tesvIrfdvz48kaRnq5Ad4oTJB2Yk4I2hwG/jOsfNmNAbxr7UqooBL2Tmsgoh6LlPrGuI3m5BawO2qzvnmELitf9lbOkEwDVc6b3puJqPxGUU39CXRXVnZMUUvGANSbQ6GMKH5/S5J9QxTCYeHFlGYfweTue9ESJ4so5hrpiUbCPcqaNqHPEjtZkbnIS/KbC0YxDpuTUhIzl7q+gtjbTsWwLWFzplyzoAcXpOpq3ZZFbijuf4QaVTiZmlH4bFUdxqVkEeQGUxtCb0QeU+wWRw5Gw2TDjrZ24/gvD1Jgvg3eQ8GLUJGtTi+l6ZzIwyF5ebpJiiCTcCwp8bItSSV9Cqs6fnc7CGVqR+cIiweXzHuiITaaX/U56deNTCkU8NZzsp+UyGpASPL506MJ/8sbU0H+ekbMQ/+UhQgomPiuy89evNxld73149yo1z7mNhQFTTB78GEbmdrX+CD3ynebwhfAunaNub5QFkdgaIc35NRe0N0QeF/hrg==;y/XqxCcqN7yjkgYEMjyCRA=="
+secured: "tfYepfzT4BlWsJWSTjNO+vCwEQoRHStGnLWN5ReAcivsoCkkIcP/nPoDlvpW2WnTI+gDheU9FRvs2xhrTRQpqUZaqtyQqRt7MVjPduOizBAcr6O8fa2ReigIZHrUTcpRJ3lAWiiM/NmDpZ30QEU46GwltvPKRgeSL2LvUlHEUM+JCLVnHcNKjmGu16AnoHUUsN18efreFUDn/1IHXkWDMM34stNiEBl+t7ht69k5+Jlll9sf8iUqv/xHl1nYWncDeRrgZu8ZivoJGFpuNdW4xFuYUXk6eu055e7P3bxRxu6281sSUdL9CYFDQJJOQ4V2yVrJEpr1OzpM5ddhi0qSImsPwvSCfD9I3blSeww/1Pk=;5tx40S26q9Tod7fI08Y8Ug=="
 ---
 

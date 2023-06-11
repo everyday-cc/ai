@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-09-over-regulation-of-artificial-intelligence-could-lead-to-chinese-dominance-experts-warn-they-want-to-win.md",
+      "title": "Over-regulation of artificial intelligence could lead to Chinese dominance, experts warn: 'They want to win'",
+      "excerpt": "Experts argue difference between AI investment in China and the U.S. is the fact that the American model is driven by private companies whereas China takes a government approach",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/over-regulation-artificial-intelligence-lead-chinese-dominance-experts-warn-they-want-to-win",
+      "originalUrl": "https://www.foxnews.com/media/over-regulation-artificial-intelligence-lead-chinese-dominance-experts-warn-they-want-to-win",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/AI-can-stalk-unsuspecting-victims-with-ease-and-precision-2-1.gif",
+          "width": 550,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/over-regulation-artificial-intelligence-lead-chinese-dominance-experts-warn-they-want-to-win.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/over-regulation-artificial-intelligence-lead-chinese-dominance-experts-warn-they-want-to-win.amp",
+      "publishedDateTime": "2023-06-08T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-bytedance-tiktoks-chinese-parent-company-is-testing-an-ai-chatbot.md",
       "title": "ByteDance, TikTok’s Chinese Parent Company, Is Testing an AI Chatbot",
       "excerpt": "ByteDance is testing an artificial intelligence-powered chatbot among employees, the first official indication of the company’s push into the nascent field of generative AI.",
@@ -948,57 +1000,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-why-the-story-of-an-ai-drone-trying-to-kill-its-operator-seems-so-true.md",
-      "title": "Why the Story of an AI Drone Trying to Kill Its Operator Seems So True",
-      "excerpt": "A widely shared—and false—story highlights the need for greater transparency in the development and engineering of AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/business-fast-forward/",
-      "originalUrl": "https://www.wired.com/story/business-fast-forward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6481160420abe9537824f792/191:100/w_1280,c_limit/060723-business-mythical-drone-ai.png",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {

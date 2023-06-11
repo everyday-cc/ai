@@ -106,20 +106,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
-  - title: "Lawyers' Trust in Generative AI May Be Overstated"
-    excerpt: "Attorneys are embracing generative AI faster than they have other tech innovations. However, for some, a perception of the technology being reliable doesn't necessarily translate into trust."
-    publishedDateTime: 2023-06-06T23:09:00Z
-    webUrl: "https://www.law.com/2023/06/05/lawyers-trust-in-generative-ai-may-be-overstated/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/Robotic-Assistance-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Intuit reveals generative AI system across its platforms"
     excerpt: "The AI will have custom-trained financial language models specialising in solving, tax, accounting, cash flow and personal finance challenges."
     publishedDateTime: 2023-06-07T20:56:00Z
@@ -133,6 +119,20 @@ related:
       - url: "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1684912798/Accountants%20Daily/sasan-goodarzi-intuit-ad_g3icx2.jpg"
         width: 1200
         height: 776
+        isCached: true
+  - title: "Oracle invests in Cohere, plans to integrate generative AI tools into its cloud"
+    excerpt: "Oracle has invested in generative AI company Cohere, in a deal that valued the business at around $2.2 billion. The $270m Series C round also saw participation from Nvidia and Salesforce. Oracle's investment is said to loosely mirror that of Microsoft with OpenAI and Google with Anthropic,"
+    publishedDateTime: 2023-06-11T16:09:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/oracle-invests-in-cohere-plans-to-integrate-generative-ai-tools-into-its-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Oracle_plane.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google Cloud and Mayo Clinic to explore uses of generative AI in healthcare"
     excerpt: "To get the ball rolling, the Mayo Clinic is adopting a new service called Enterprise Search on Generative AI App Builder that will help to improve the efficiency of clinical workflows and make it easier for clinicians and medical researchers to find the data they need to improve patient outcomes,"

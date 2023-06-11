@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
+      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106",
+      "publishedDateTime": "2023-05-31T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-singapore-regulator-says-ai-is-focus-of-marquee-fintech-festival.md",
       "title": "Singapore Regulator Says AI is Focus of Marquee Fintech Festival",
       "excerpt": "Artificial intelligence will take center stage at Singapore’s annual fintech event in November, underscoring the growing significance of the technology.",
@@ -1127,50 +1170,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances.md",
-      "title": "Scale your machine learning workloads on Amazon ECS powered by AWS Trainium instances",
-      "excerpt": "Running machine learning (ML) workloads with containers is becoming a common practice. Containers can fully encapsulate not just your training code, but the entire dependency stack down to the hardware libraries and drivers. What you get is an ML development environment that is consistent and portable.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T12:49:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "H2O.ai Recognized as a Visionary in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services"
-excerpt: "“We believe H2O AI Cloud is one of the best autoML and enables organizations to build predictive models and gain insights from their data quickly and easily. “As a community powered ..."
-publishedDateTime: 2023-05-26T16:24:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20230526005264/h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services"
-webUrl: "https://www.morningstar.com/news/business-wire/20230526005264/h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services"
+excerpt: "The AI cloud leader, H2O.ai, announced it has been named a Visionary in the 20223 Gartner Magic Quadrant for Cloud AI Developer Services. “H2O.ai is excited to be recognized by Gartner to be the only Visionary in the 2023 Magic Quadrant for Cloud AI Developer Services,"
+publishedDateTime: 2023-05-26T15:12:00Z
+originalUrl: "https://www.channelbiz.co.uk/press-release/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/"
+webUrl: "https://www.channelbiz.co.uk/press-release/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Channel Biz
+  domain: channelbiz.co.uk
 
 topics:
   - Machine Learning
   - AI
 
-secured: "S4NQfjU2kzGitBxBY3J9CZezG2TuRkQ9xG4IfegZJBCygtnmfEiC/6QdeFb+dRXrjkhj+xHA6RyzaeQt8wmN6dAq3lPh+CH7uYqS+WFt2c3PHS0mqGTB9QroWzSzV+03MGL6saDtWCYfHUqkE5M3O5hbe++tI33jhPxul81ybeqym1VA0an/zuD9VMBYyQX0am3m8zRihltEbEJDJ4Qgx2zMN0JJbu+a1sRchwm4l3yk/HDDmDYvDNcQgloR+RYau4zFAAVJY/cKqBF73v7QeIhcKgF8GRcH1BV+nfoI4cUVs7e1qvWsrwtMlDlhqGMq+G++Zp63EkYli5wmi1c6J1pzG2ECx3Ij9c1Mfr5+Tyk=;ceaY1whkDTkWurr8iULecg=="
+secured: "J7ylZkX5Q98yPwpGzb9sZkW6JTV8NNemyl81SM387qFZKmIe7w8t5++s2MKqsjzU8fnSV+hr6ZAWYInGkmIrhd6QKksIhIM+oUK6DwrXLsL/FfihPReLmVXbHSTaI1JpsOK+gfJlz8ACaDR03+zTciu93n5qy3Ak/NgTPc2Bv/MwaIeHVexG4oI2KQcok2l880LwdOjvdjgV0yLnzYOfgt79mRgnJysqp2Sd2rFjYPxuZSGo1WL5GDE0UGFClRAa3lRrQ5nFo0ClwHjfugSD77CNq00i8SCMyqI9RlNt4As5y8U8V2UyFJQjaPpSkV+0ubI4BfwtnzcZvvGF/cKJKpBy0UVxqU1BQ36cz4zsSWg=;N46Z1jmz7ts3FeV1bX/OCg=="
 ---
 

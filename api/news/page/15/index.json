@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-05-31-ai-and-the-battle-to-get-hybrid-working-right.md",
+      "title": "AI And The Battle To Get Hybrid Working Right",
+      "excerpt": "New technology has the potential to make the divide between in-person and remote working less apparent. But it also threatens many roles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/",
+      "originalUrl": "https://www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64767a3aae90d099d7569955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/amp/",
+      "publishedDateTime": "2023-05-30T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-aws-announces-general-availability-of-amazon-security-lake.md",
       "title": "AWS Announces General Availability of Amazon Security Lake",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization's security data from across their AWS environments,",
@@ -1119,58 +1170,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus.md",
-      "title": "High-quality human feedback for your generative AI applications from Amazon SageMaker Ground Truth Plus",
-      "excerpt": "Amazon SageMaker Ground Truth Plus helps you prepare high-quality training datasets by removing the undifferentiated heavy lifting associated with building data labeling applications and managing the labeling workforce. All you do is share data along with labeling requirements, and Ground Truth Plus",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/26/ML-14314-image005-1063x630.png",
-          "width": 1063,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T09:13:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

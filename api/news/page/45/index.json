@@ -2,6 +2,58 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-05-11-ibm-watson-is-getting-an-ai-makeover-and-thats-bad-news-for-workers-everywhere.md",
+      "title": "IBM Watson is getting an AI makeover, and that's bad news for workers everywhere",
+      "excerpt": "It is also hoped that the Watson Code Assistant will be rolled ... with as many as 7,800 jobs at risk. IBM watsonx.ai and watsonx.data are expected to be generally available by July 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/ibm-watson-is-getting-an-ai-makeover-and-thats-bad-news-for-workers-everywhere",
+      "originalUrl": "https://www.techradar.com/news/ibm-watson-is-getting-an-ai-makeover-and-thats-bad-news-for-workers-everywhere",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-machine-learning-big-data-analytics-education-market.md",
       "title": "Machine Learning & Big Data Analytics Education Market",
       "excerpt": "Research Reports has published a new report titled as \"Machine Learning and Big Data Analytics Education Market\" by",
@@ -1184,58 +1236,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-magic-editor-in-google-photos-new-ai-editing-features-for-reimagining-your-photos.md",
-      "title": "Magic Editor in Google Photos: New AI editing features for reimagining your photos",
-      "excerpt": "Magic Editor is an experimental editing experience that uses AI to help reimagine your photos — early access is planned for select Pixel phones later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/",
-      "originalUrl": "https://blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Photos_Magic_Editor_Balloons_1.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/photos/google-photos-magic-editor-pixel-io-2023/amp/",
-      "publishedDateTime": "2023-05-10T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

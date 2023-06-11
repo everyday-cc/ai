@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "How to develop artificial super-intelligence without destroying humanity"
-    excerpt: "Sam Altman, the founder of the revolutionary application Chat-GPT, is touring Europe with a message: AI is changing the world and there are big risks, but also big potential rewards"
-    publishedDateTime: 2023-06-07T01:01:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2023/jun/07/how-to-develop-artificial-super-intelligence-without-destroying-humanity?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 21
-    images:
-      - url: "https://i.guim.co.uk/img/media/b9d87e4e953509b250783141aa3b6177307f2762/0_0_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e03ca49a5bc589878d3618441aafa55"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise"
     excerpt: "Contextual AI emerged from stealth today with $20 million in funding led by Bain Capital Ventures (BCV) with participation from Lightspeed, Greycroft, SV Angel and well-known angel investors including Elad Gil,"
     publishedDateTime: 2023-06-07T16:40:00Z

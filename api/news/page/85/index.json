@@ -2,6 +2,60 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2023-04-19-3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week.md",
+      "title": "3 exciting jobs in artificial intelligence and machine learning this week",
+      "excerpt": "Rising adoption in AI/ML is leading to job opportunities both within the sector, and as a result of AI-driven automation",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/",
+      "originalUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/hitesh-choudhary-t1PaIbMTJIM-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week/amp/",
+      "publishedDateTime": "2023-04-18T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-sas-customer-intelligence-360-launched-in-aws-marketplace.md",
       "title": "SAS Customer Intelligence 360 Launched in AWS Marketplace",
       "excerpt": "CARY, N.C., April 18, 2023 — SAS Customer Intelligence 360 is now available to purchase in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software ...",
@@ -1050,40 +1104,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-using-machine-learning-to-find-reliable-and-low-cost-solar-cells.md",
-      "title": "Using machine learning to find reliable and low-cost solar cells",
-      "excerpt": "Researchers at the University of California, Davis College of Engineering are using machine learning to identify new materials for high-efficiency solar cells. Using high-throughput experiments and machine learning-based algorithms,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-machine-reliable-low-cost-solar-cells.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-machine-reliable-low-cost-solar-cells.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

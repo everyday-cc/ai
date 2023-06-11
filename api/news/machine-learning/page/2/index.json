@@ -2,35 +2,26 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-05-26-aiml-considerations-of-healthcares-new-frontier.md",
-      "title": "AI/ML: Considerations of Healthcare’s New Frontier",
-      "excerpt": "Artificial Intelligence (AI) and Machine Learning (ML) is bringing healthcare into a new frontier with vast potential to improve clinical outcomes, manage resources, and support therapeutic development. They also raise ethical, legal, and operational ...",
+      "path": "_news/2023-05-26-h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
+      "title": "H2O.ai Recognized as a Visionary in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services",
+      "excerpt": "The AI cloud leader, H2O.ai, announced it has been named a Visionary in the 20223 Gartner Magic Quadrant for Cloud AI Developer Services. “H2O.ai is excited to be recognized by Gartner to be the only Visionary in the 2023 Magic Quadrant for Cloud AI Developer Services,",
       "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2023/05/ai-ml-considerations-of-healthcares-new-frontier/",
-      "originalUrl": "https://medcitynews.com/2023/05/ai-ml-considerations-of-healthcares-new-frontier/",
+      "webUrl": "https://www.channelbiz.co.uk/press-release/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2021/03/GettyImages-1206796363.jpg",
-          "width": 810,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T08:17:00-07:00",
+      "publishedDateTime": "2023-05-26T08:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +31,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {

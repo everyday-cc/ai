@@ -7,7 +7,7 @@ originalUrl: "https://www.irishtimes.com/opinion/2023/06/07/facial-recognition-t
 webUrl: "https://www.irishtimes.com/opinion/2023/06/07/facial-recognition-technology-row-is-hamlet-with-the-biometric-prints/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Law firm highlights how facial recognition technology landed fraudster with £51,000 bill"
-    excerpt: "Investment into facial recognition technology by law firm Clyde and Co and Axa UK led to a motorist who issued a fraudulent claim having to stump up more than £50,000. Ashley Copley – a 26-year-old hospitality worker from Barnsley – was found to have lied about a witness to an accident he was involved in being independent."
-    publishedDateTime: 2023-06-08T06:00:00Z
-    webUrl: "https://www.insurancetimes.co.uk/news/law-firm-highlights-how-facial-recognition-technology-landed-fraudster-with-51000-bill/1444771.article"
+  - title: "Artificial Intelligence: SmartMetric to Embed AI into Its Biometric Credit Card"
+    excerpt: "SmartMetric is to release advanced fingerprint biometric activated credit card and working on adding embedded AI into card’s electronics."
+    publishedDateTime: 2023-06-11T11:06:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208277-artificial-intelligence-smartmetric-to-embed-ai-into-its-biometric-credit-card/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208277-artificial-intelligence-smartmetric-to-embed-ai-into-its-biometric-credit-card/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208277-artificial-intelligence-smartmetric-to-embed-ai-into-its-biometric-credit-card/amp/"
     type: article
     provider:
-      name: Insurance Times
-      domain: insurancetimes.co.uk
-    quality: 30
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 68
     images:
-      - url: "https://d17mj6xr9uykrr.cloudfront.net/Pictures/1024x536/6/1/1/97611_facialrecognition_229168.jpg"
-        width: 1024
-        height: 536
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/AI-Artificial-Intelligence.jpeg"
+        width: 809
+        height: 607
         isCached: true
 
 secured: "JFgKgN1oPgW9pX5zXyWmPe+K9rlfKF18lqUt7LEeAam9OQ+/rBlyUw4gAaSg6Id2worMGBYhag6P/w7zkx1JVk8/4AZ7RfhAVOe5HpGwxDk0ZNHKS/zpVJt1coDl/JVIFdSUt0xdUVaMN2Ez9c8ernymI2KKV+c/D9G8aLlDCUvGWFyvTieL3KXPp7BQx5D3qaWnupYmxPz584PcuY+POsb1oGk/RxFsqu5vDfH8lqinpfPW5xuA8wDbmLlM/Fnfst4rh/W64QQ76wCSEowxSzgyQ/O/WtGCTPlhwHYsyNSHN3J/WKFZiv01zLh5bgR07CWnXyWf/ej7Si6/+gZKzkzLCmu3hMApCxLm11h1MHaVr+FbE7Bvhe3wqQe5uWm13157Caj5OHDVw674St5LjjjVQG1PBmj3UBHVIVA+dDKKsLhCF1yp+jJBe+3tEVsQawwPj3C5CUpgZAjXMhnXh3FM9MxMp4sTbgx17CppVmn7xlAqwBHt3c/L+LAzpmbkpQfdVjzABn2qrOinxl2puA==;FgrLDuitXWDI6Awd8oZhqQ=="

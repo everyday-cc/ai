@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Nonprofit & Trade Association Industry"
-    excerpt: "Transforming the way we live and work. Within two months of its initial release to the public, ChatGPT reached 100 million monthly active users, making it the fastest-growing consumer application in h"
-    publishedDateTime: 2023-06-06T23:59:00Z
-    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-nonprofit-trade-association"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 24
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI_Artificial_Intelligence_Robot_SMALL_1_0.jpg?itok=Y8ZxQOUW"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "su6+41092CXR6bAZ2hctlNZoHVBV64AhgVA9uc89zpwCN99Vu6Fa+eKMJnxi8vANnwH4KjG04rCmzkt+XCE1zRZo4/9VlTWqkDe5Gp3b2X+TN/TbF5jFtvCCrtlaf+5aKhyYsP8OxXe0Cl3JGHfJIGcuWK4vD33jjYPAKbmkclljyrblVyrDmx5pYdKmoUTnrngeCuJP1ZFZSBQVpF7VxFp8koh/Wy/c5+xXWF/+/VLfeo5EeIQgJk9NfJqpjgmeHuiQUacd7MTcwQtq1eXCp0Az3pXuMClixO4ABRXA0lnz2AiHliaxkJGQcs+TSAbo9qWlUcp8xAthq1hjbBe21qxku+qf2Usv3TYi1FKFA7sS5ktrdoauFpEiT1A+D4Vtfbs1av9jwZ6RbG65aEe5/f5vq5mit5Ta2U1ftZTCQumMg3O6duk2suZc4cMSXk3dgDzYMCH9Soi+9IXrGVtaXHr7NnuRYo2biS/HUuEHCZy7KtmD2kTNIwN5apV3RF2XfKT61BtSengbSCZeqChtaQ==;caPGeteeu3Cxhnlxeguxag=="
 ---

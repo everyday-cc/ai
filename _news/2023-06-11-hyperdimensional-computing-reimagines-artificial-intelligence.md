@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-11T12:36:00Z
 originalUrl: "https://www.wired.com/story/hyperdimensional-computing-reimagines-artificial-intelligence/"
 webUrl: "https://www.wired.com/story/hyperdimensional-computing-reimagines-artificial-intelligence/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media.wired.com/photos/648362652cc57777ec67f082/191:100/w_1280,c_limit/quanta_HyperDimensionalComputing-byMyriamWares-Lede-scaled.jpg"
@@ -27,6 +28,6 @@ images:
     height: 670
     isCached: true
 
-secured: "PPZRDDg30+gORj7tz5it9T3BHTXHNg1I8zA2JwSHpr8HeUKt6GnuwzpNDe8/RI1sMyHW9qvEM4viuIOLksbSuLp0srLhq6xUJ+AvisZW6un367I6KzoJPFUFMb4dd1K++t3So428V1EzW2csNYaMUx1SNaclj2b46IJYVQyr06A1dFSdapkcRVgDeRTnKWJxPCGcw+ZJ8dnnPupWHfek6bKsaYjzEnI8bdvEGyy7+W7oydYg1E1DEp/ce4qeW0+QQTf27vkSNc7gBpaJWsyFpcX/GxnPA5k1bDpL8I8Qp6optkQdCTrauruB35SL8VRpvWkdZ5KJyTYligA7WgC4CoOKoijrMXb+2SNJ7Cffu5g=;8/BAza5fHfgPmXK1HpQ4IQ=="
+secured: "RjJF1mrLNFg75ZB1KRfwU4w/46aSsQE1Q3D4zOoJrsH4bXo5XnJujbKboXHNOOgm4A3A/L4vBLj5rpFj55makUZWaGUi298O4Zh5oEzd9lDyNaS2NAMgwMVTHsCsiD1HnD0RqExwkmTuF1RuAQDBxHzzJSTJ4g3ojEJ6dgOvBqWsO7dRwImkYQADyTUO+PA/2HpF3IHzXJUJRWD1GAvhELuM6U3yU47SP2PQgaUuRs3DKd9Vfdqql20JyI7e3xQ4wQ10J2yTxkQ5f3ND9mJoCOKKUEa7FFSPTDMqOcWpn2URQY7DDct3WCeu2AfPO0y6peRsob0gWptqV6PdqscAhlt6EPwhywAXKKpmdZkVABQUwImkD/WShSQyg07llw2V7HPPRqMT8Zq3h4c1Wuveoe+KZDiHpdFUtheF+DQZCqB7tLLWmSEttBcqmtcBwiE/Vam4TRj5N2kk2VkR2nLufR6slLIGX0gutrr8/yqXlA3FHn09J+F6rVSSTEXXta2lz1b8G3TgPPEH5LqRdGAsqA==;v8Wz8APiVXi0yhYoFWi1pw=="
 ---
 

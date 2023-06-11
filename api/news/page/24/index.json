@@ -2,6 +2,40 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-05-24-which-car-makers-offer-hands-free-driving-systems-for-2023.md",
+      "title": "Which car makers offer hands-free driving systems for 2023?",
+      "excerpt": "Fully automated self-driving cars are still a thing of the future. But you can get a taste of what they’ll be like if your vehicle has what’s commonly described as hands-free driving capability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/edmunds-who-offers-hands-free-driving-systems-for-2023/",
+      "originalUrl": "https://www.seattletimes.com/business/edmunds-who-offers-hands-free-driving-systems-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-dells-project-helix-is-a-wide-reaching-generative-ai-service.md",
       "title": "Dell’s Project Helix is a wide-reaching generative AI service",
       "excerpt": "Project Helix is an early look at an upcoming Dell product that will assist organizations in running generative AI. It spans the lifecycle of the AI creation process, including infrastructure provisioning, modeling, training, fine-tuning, application development and deployment.",
@@ -1122,59 +1156,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-axiado-sampling-the-industrys-first-ai-driven-security-chip.md",
-      "title": "Axiado Sampling The Industry’s First AI-Driven Security Chip",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as Axiado introduced the latest technologies in its portfolio, the AX3000 and AX2000 trusted control/compute unit",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646d3315192d6cfc7da62c39/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/amp/",
-      "publishedDateTime": "2023-05-23T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

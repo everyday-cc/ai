@@ -2,6 +2,59 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-05-12-ai-powered-code-suggestions-and-security-scans-in-amazon-sagemaker-notebooks-using-amazon-codewhisperer-and-amazon-codeguru.md",
+      "title": "AI-powered code suggestions and security scans in Amazon SageMaker notebooks using Amazon CodeWhisperer and Amazon CodeGuru",
+      "excerpt": "Amazon SageMaker comes with two options to spin up fully managed notebooks for exploring data and building machine learning (ML) models. The first option is fast start, collaborative notebooks accessible within Amazon SageMaker Studio—a fully integrated development environment (IDE) for machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ai-powered-code-suggestions-and-security-scans-in-amazon-sagemaker-notebooks-using-amazon-codewhisperer-and-amazon-codeguru/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ai-powered-code-suggestions-and-security-scans-in-amazon-sagemaker-notebooks-using-amazon-codewhisperer-and-amazon-codeguru/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/12/featured-images-ml-14339.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T13:29:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-05-13-a-big-driver-of-this-years-stock-rally-artificial-intelligence.md",
       "title": "A Big Driver of This Year's Stock Rally: Artificial Intelligence",
       "excerpt": "Investors can’t get enough of stocks tied to artificial intelligence right now. Hype around ChatGPT has fueled a jump in mentions of AI on earnings calls, and AI-related stocks have skyrocketed. Take Microsoft,",
@@ -1193,49 +1246,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-eu-parliament-backs-ai-restrictions-and-facial-recognition-ban.md",
-      "title": "EU parliament backs AI restrictions and facial recognition ban",
-      "excerpt": "The European parliament has voted in favour of a ban on biometric surveillance and restrictions on generative AI and foundation models such as ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.research-live.com/article/news/eu-parliament-backs-ai-restrictions-and-facial-recognition-ban/id/5112292",
-      "originalUrl": "https://www.research-live.com/article/news/eu-parliament-backs-ai-restrictions-and-facial-recognition-ban/id/5112292",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5112292&name=eu-parliament-backs-ai-restrictions-and-facial-recognition-ban",
-      "publishedDateTime": "2023-05-12T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

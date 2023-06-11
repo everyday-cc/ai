@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-identifies-six-ge
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 29
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Nonprofit & Trade Association Industry"
-    excerpt: "Transforming the way we live and work. Within two months of its initial release to the public, ChatGPT reached 100 million monthly active users, making it the fastest-growing consumer application in h"
-    publishedDateTime: 2023-06-06T23:59:00Z
-    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-nonprofit-trade-association"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 24
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/AI_Artificial_Intelligence_Robot_SMALL_1_0.jpg?itok=Y8ZxQOUW"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "8XPomU1preIH0prUtB+CY+Z1LJhzQ+YnlF/P+P80hZtdNFjo78UREBwRkaGSduh9DagpNUnhC96igfqkSwsV2DNcbfDCKK3ZEtuSleA8oxRe3VREQSIl3zHeOzSY4Uab+/vMY10eSpZO5/EuZ0oWS9gKwUOw/1IcjHXlFyu9lQaJQzBtmkyZQRHgyOUJfrUNMqCL1iy9tpH2eGf1Di/u4GtLl994V44tpbrMpeHaEcU0itN53USs69QFkKqQZ86pw+tMXHGNVhtPk5phbUDbs125Q3qHqXHQHtMq9NtFi5g94ThOQX+DKmXYz9GTU88WKKvHoySCnP0vFxftsFvABhdj773DJCmjwyP1gzhZNYlQAU0Mu3IPyU0ICKS6Z7HfllasdCngQPK1nzjOcR8SjjS/V1LIt5pogRX2waFkw+XRi+WPqSKPF6vKGC6FvE6RBQY/yvPx98aIbAWhD7RSMJR7M6kgq2L3dC+KeGYQa8X1gRE8flyCIkXh/l2/iAZ5EJ2R7olCRiP5bjPz9e1jtw==;mVsqq61XLYibP/8LYHzO/w=="
 ---

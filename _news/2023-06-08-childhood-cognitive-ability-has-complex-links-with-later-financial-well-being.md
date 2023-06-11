@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Childhood cognitive ability has complex links with later financial wellbeing"
-    excerpt: "The relationship between cognitive ability in childhood and financial wellbeing in adulthood varies for different financial measures—such as savings levels versus having debt – per a new analysis of nearly 6,"
-    publishedDateTime: 2023-06-06T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/990954"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 21
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2f8dd304-cfec-44b4-b7c9-95f24b2c2885/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Childhood cognitive ability has complex relationship with financial wellbeing in adulthood"
     excerpt: "The relationship between cognitive ability in childhood and financial wellbeing in adulthood varies for different financial measures-;such as savings levels versus having debt-;per a new analysis of nearly 6,"
     publishedDateTime: 2023-06-08T01:40:00Z
