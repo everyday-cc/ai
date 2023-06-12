@@ -27,53 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "The price we'll pay for our AI future: more loneliness"
-    excerpt: "Many Amercians already harbor this worry: A recent survey by the Pew Research Center found that one of Americans' top concerns with AI is the technology's inherent \"lack of human connection.\" Our time on earth is limited. While the convenience of AI could ..."
-    publishedDateTime: 2023-06-07T10:59:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp"
+  - title: "Introducing Google’s Secure AI Framework"
+    excerpt: "Today Google released released the Secure AI Framework to help collaboratively secure AI technology."
+    publishedDateTime: 2023-06-08T16:00:00Z
+    webUrl: "https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Google
+      domain: blog.google
     quality: 89
     images:
-      - url: "https://i.insider.com/647653d9df2567001837c25c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
+        width: 1000
+        height: 1000
         isCached: true
-  - title: "Four Ways For Leaders To Embrace The Future Of AI"
-    excerpt: "As for leaders, the more you learn, the better you can assess how AI can positively impact your business—and how others may use it to disrupt that business."
-    publishedDateTime: 2023-06-07T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
+  - title: "Google’s Secure AI Framework: A good start, but a lot of work ahead"
+    excerpt: "Google plans to work closely with government standards agencies to help develop the industry's first AI certification standard."
+    publishedDateTime: 2023-06-09T20:25:00Z
+    webUrl: "https://www.scmagazine.com/news/emerging-technology/google-secure-ai-framework"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: SC Media
+      domain: scmagazine.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f3a9899c38d7ddb595934/0x0.jpg?format=jpg&crop=1205,678,x0,y62,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Artificial intelligence in agriculture isn’t the future; it’s now"
-    excerpt: "Cengiz Koparan, a new assistant professor at the University of Arkansas, said the rapid rise of artificial intelligence is already making cutting-edge technology more available."
-    publishedDateTime: 2023-06-07T21:47:00Z
-    webUrl: "https://arkadelphian.com/2023/06/07/artificial-intelligence-in-agriculture-isnt-the-future-its-now/"
-    ampWebUrl: "https://arkadelphian.com/2023/06/07/artificial-intelligence-in-agriculture-isnt-the-future-its-now/?amp=1"
-    cdnAmpWebUrl: "https://arkadelphian-com.cdn.ampproject.org/c/s/arkadelphian.com/2023/06/07/artificial-intelligence-in-agriculture-isnt-the-future-its-now/?amp=1"
-    type: article
-    provider:
-      name: arkadelphian
-      domain: arkadelphian.com
-    quality: 59
-    images:
-      - url: "https://arkadelphian.com/wp-content/uploads/2023/06/AgricultureFarmAIArtificialIntelligence-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://files.scmagazine.com/wp-content/uploads/2023/06/0608_artificial_intelligence.jpg"
+        width: 1280
+        height: 800
         isCached: true
 
 secured: "IhoiQ4Ef+ozJOdbvnZIIDBcTGiEMfKqtEzCw/graBPMG+eeF5SPQ+87r3HgJrRzi5VMU0hVYC7KB2NZ59yVy5FxMQ8m/Y4TWB8dlsROUHLBM9X45VdetKNxXQr57s5Qg5W+OISIaGR3o8VD42t4TRSg4o80kPonZWrQCRNk0+6M6f1NxS96SzqIeeiWCehtKh8eH3b4aiaKqbr6QAd/NDMCIDagpy9YUJUNjN5J5gzX8JKGQnxKIvsunt3Fh7NX0QSHSUVppoyjlBjEJ/nZn9GD+ZkQ/heaY1AZ6b+QfvOQQKXYNS6vFnhQVxuRNpkxiL7l1cLYTODGNRGaaB+/iqAPOznUgCJ6f2kqO8Ulh8BPaQCc2KHBzXpbMo90adujwDEdvZz6NS7o5o7mYXAgQT6o1xtUKza2jN70JW378Ap7m0V0qUd1m7LOH8L5ho2/fxHf5tR/UA9uFL9NIK6qCz6nMZ+OkjTMsT85lKMFdsxBlB9XqOwh3CvsV3uZ6ORAOZQW0Eo9RPUS6MdcsY8zoUA==;owAB7/gO9T8hf4aHxgg4kA=="

@@ -57,7 +57,7 @@
       "originalUrl": "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -266,7 +266,7 @@
       "originalUrl": "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -472,6 +472,49 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-how-self-driving-cars-will-change-the-roads.md",
+      "title": "How Self-Driving Cars Will Change the Roads",
+      "excerpt": "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future. When you think of self-driving cars, you probably imagine a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/article/self-driving-cars/",
+      "originalUrl": "https://www.rd.com/article/self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1273,49 +1316,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-from-self-driving-cars-to-military-surveillance-quantum-computing-can-help-secure-the-future-of-ai-systems.md",
-      "title": "From self-driving cars to military surveillance: quantum computing can help secure the future of AI systems",
-      "excerpt": "Artificial intelligence algorithms are quickly becoming a ... Someone could put a sticker on a stop sign to fool a self-driving car’s AI into identifying it as a speed-limit sign. Or, on the front lines, troops might wear uniforms that can fool AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/from-self-driving-cars-to-military-surveillance-quantum-computing-can-help-secure-the-future-of-ai-systems-206177",
-      "originalUrl": "https://theconversation.com/from-self-driving-cars-to-military-surveillance-quantum-computing-can-help-secure-the-future-of-ai-systems-206177",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/528182/original/file-20230525-23-bqxfsg.jpeg?ixlib=rb-1.1.0&rect=17%2C1005%2C5973%2C2982&q=45&auto=format&w=1356&h=668&fit=crop",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

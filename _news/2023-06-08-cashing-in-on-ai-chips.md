@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Future of Generative AI from Google Cloud: What You Need to Know"
-    excerpt: "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that"
-    publishedDateTime: 2023-06-07T09:19:00Z
-    webUrl: "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    type: article
-    provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
-    quality: 59
-    images:
-      - url: "https://img.jagranjosh.com/images/2023/June/762023/google-ai.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Comment: We should worry more about AI’s creators than AI itself"
     excerpt: "Even so, fibs travel halfway around the world before the truth laces up its boots and the story is bound to seep into our collective, unconscious worries about AI’s threat to the human race, an idea that has gained steam thanks to warnings from two “godfathers” of AI and two open letters about existential risk."
     publishedDateTime: 2023-06-08T08:30:00Z

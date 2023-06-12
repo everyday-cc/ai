@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/safety-security/introducing-googles
 webUrl: "https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence and the future of work"
+    excerpt: "Artificial intelligence (AI) has pervaded almost every field of innovation and development, starting from driverless cars to recommendation of product."
+    publishedDateTime: 2023-06-09T03:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/startups/people/ai-and-the-future-of-work/articleshow/100864261.cms"
+    ampWebUrl: "https://m.timesofindia.com/business/startups/people/ai-and-the-future-of-work/amp_articleshow/100864261.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/startups/people/ai-and-the-future-of-work/amp_articleshow/100864261.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-100864261,width-1070,height-580,imgsize-4548,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "Google’s Secure AI Framework: A good start, but a lot of work ahead"
     excerpt: "Google plans to work closely with government standards agencies to help develop the industry's first AI certification standard."
     publishedDateTime: 2023-06-09T20:25:00Z

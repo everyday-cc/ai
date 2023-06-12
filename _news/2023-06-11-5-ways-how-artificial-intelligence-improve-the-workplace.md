@@ -26,21 +26,67 @@ images:
     isCached: true
 
 related:
-  - title: "The Impact Of AI On Strategy Games"
-    excerpt: "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development."
-    publishedDateTime: 2023-06-08T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+  - title: "Four Ways For Leaders To Embrace The Future Of AI"
+    excerpt: "As for leaders, the more you learn, the better you can assess how AI can positively impact your business—and how others may use it to disrupt that business."
+    publishedDateTime: 2023-06-07T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f3a9899c38d7ddb595934/0x0.jpg?format=jpg&crop=1205,678,x0,y62,safe&width=1200"
         width: 1200
-        height: 800
+        height: 675
+        isCached: true
+  - title: "Waymark: Building The Future Of Commercials Through AI Technology"
+    excerpt: "The world’s first official TV advertisement came with a 10 second spot for Bulova watches in 1941, while single companies sponsoring entire shows (with the broadcast"
+    publishedDateTime: 2023-06-07T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f76f7f5af3da79657d5cb/0x0.jpg?format=jpg&width=1200"
+        width: 600
+        height: 319
+        isCached: true
+  - title: "Artificial intelligence in agriculture isn’t the future; it’s now"
+    excerpt: "Cengiz Koparan, a new assistant professor at the University of Arkansas, said the rapid rise of artificial intelligence is already making cutting-edge technology more available."
+    publishedDateTime: 2023-06-07T21:47:00Z
+    webUrl: "https://arkadelphian.com/2023/06/07/artificial-intelligence-in-agriculture-isnt-the-future-its-now/"
+    ampWebUrl: "https://arkadelphian.com/2023/06/07/artificial-intelligence-in-agriculture-isnt-the-future-its-now/?amp=1"
+    cdnAmpWebUrl: "https://arkadelphian-com.cdn.ampproject.org/c/s/arkadelphian.com/2023/06/07/artificial-intelligence-in-agriculture-isnt-the-future-its-now/?amp=1"
+    type: article
+    provider:
+      name: arkadelphian
+      domain: arkadelphian.com
+    quality: 59
+    images:
+      - url: "https://arkadelphian.com/wp-content/uploads/2023/06/AgricultureFarmAIArtificialIntelligence-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Are We Ready for AI to Raise the Dead?"
+    excerpt: "Soon enough, artificial intelligence will allow us to construct a digital version of a dead human being. We have some decisions to make."
+    publishedDateTime: 2023-06-09T08:05:00Z
+    webUrl: "https://www.aol.com/lifestyle/ready-ai-raise-dead-110000038.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/qdDPsYAb1Wa2j4r5.ig2LQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_esquire_729/759d4ebc24422af4493cc12a68d7a27f"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Z71Il3JQ7H1ENgcWgFfzgctXoriRPNNhTzjP/XCeKOQoInnHqefYhQopGYzun0fQByVBDst7Q087MdEy9jiIG7tdKVgzVm1dGjJLPJBhJ1a1SJZjrm4PJQXzIR6/itmJ6qGPlrDdU9ihIzfyK83uJfvSs8zJNGVIA0tWkuyTQ/fB53rA8XWS31lu++X/zXAo+qGqP7G5Sl0FBybTQrniGutRici1/tWFnBgT0h1HWptkCF4o6D7yihkZJE5LH8Q+LuknR2M/NZNRRDStzzd90cnJ/JXzX/R0nHFaggtZsgHZoFC1HkXDnI3yKk/tE2nNzDVXoL3ByJ3z+joQjxnIpif3lc1m8gxpZC0JKjWFlRc=;JcgmI9///uUoxyvCaGsSvQ=="

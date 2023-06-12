@@ -47,6 +47,20 @@ related:
         width: 1032
         height: 580
         isCached: true
+  - title: "Putting the ‘artificial’ in intelligence: the morality of the digital mind"
+    excerpt: "Artificial intelligence is, well, artificial. And the use of ‘intelligence’ in this label is a misnomer. AI machines cannot think. They are just (increasingly) very,"
+    publishedDateTime: 2023-06-12T02:39:00Z
+    webUrl: "https://www.spectator.com.au/2023/06/putting-the-artificial-in-intelligence-the-morality-of-the-digital-mind/"
+    type: article
+    provider:
+      name: spectator.com.au
+      domain: spectator.com.au
+    quality: 22
+    images:
+      - url: "https://www.spectator.com.au/wp-content/uploads/2023/06/AI.jpg"
+        width: 730
+        height: 486
+        isCached: true
 
 secured: "yBeJVSm0rgbUbqvZQVss1D1RShLviKVNHrWxhbKDSlUa2eAS/01hTnq3iEXNpJGX6PO2LuHFMD6fbcx/lVJZym1mPIqWGmODQS8w5pJUQlo3n3837hkHv0OYgsTWQQaMEL0tez2drsrDJLxCTu7fRO9xAlnJTyEGahneiOtzTxl6dsHXO1+xhC4t85YayZxzWofa57qzx7WJRJULaGz59F7J227MZasCZHDqzSLkSW78e/bvH/BL8JyfUEy846O9oCuo2WiSQ7WXcSKKDvz1NsQ8gWmBIqicYOlv4WZvOCaj2FVGVx3yzAZOgVulR3QxzdgUEiSlQ0iIbc6O44IwqjLYWT4Lqdn2hqiiK95nlpWtBAd4Nu+mVlBSJeZNI5br8D4n8lI/k/Uxdkv3DqB6MwJoYhrKXWI6zAX4gzmmpLze0A5dp/T1p2F8M4vhqmXjoBf6zxe5II8VsR+5E2tTMuVjOka42uix+5JL9Vq+26jvloLJWJDNHYocmzakAHjWvzBeDhT9l+hUubVTtiqDAw==;oBMrSd5mnSj7rcbQtbkXxg=="
 ---

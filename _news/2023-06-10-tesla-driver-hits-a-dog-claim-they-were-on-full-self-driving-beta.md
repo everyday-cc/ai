@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-se
 webUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012409491.jpg?quality=75&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
-    excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
-    publishedDateTime: 2023-06-07T10:07:00Z
-    webUrl: "https://www.thenewsmarket.com/news/self-driving-cars-are-not-yet-on-our-roads--but-assisted-driving-systems-are-already-supporting-driv/s/4f416199-ae4e-438f-bbb6-7418798e6e40"
-    type: article
-    provider:
-      name: thenewsmarket
-      domain: thenewsmarket.com
-    quality: 1
-    images:
-      - url: "https://preview.thenewsmarket.com/Previews/NCAP/StillAssets/960x540/644091_v3.jpg"
-        width: 1168
-        height: 657
         isCached: true
 
 secured: "f7fZYUMIZcb82qHCTiJgAQp6wUYUOMndX3BNJSBfpsEQQF2VNVcfaANGV6tJsfX0cd+ZIJbmiR9t74w0vJBczj3PCbRK1cmqL+JDnO24jvn9sIguYUqxmE/62RJHghbSFCxrTP3WdPePh3J1EPET1GrREr15i96imx6yK5TenI5TWYJ0Fa2IQvxrql4k7Vrq6rDHUNlmjgOjblydwD64bJjParS0RyqYqfDTG3dVUdgkgwiiqmcmspjWq07Mkkgg1t6l4qlYcm0/l048+FWD/dv5tpgYqPXwCqX2sfLLrUM2b7DzAZqbXQCRn63rgeicP3llyMYFhavjWHisvi1ZYO2x+P71YSN2X5vhl/r8Lac=;IRgYbbHeC5E1MV9efSVsTA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in
 webUrl: "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2023/06/2023-Waymo-Jaguar-I-Pace-AV-1.jpg"
         width: 2000
         height: 1125
+        isCached: true
+  - title: "Dog dies after being hit by self-driving car in San Francisco"
+    excerpt: "A dog has died after being hit by a self-driving car last month in San Francisco, according to California's Department of Motor Vehicles."
+    publishedDateTime: 2023-06-12T01:30:00Z
+    webUrl: "https://www.ktvu.com/news/dog-dies-after-being-hit-by-self-driving-car-in-san-francisco"
+    ampWebUrl: "https://www.ktvu.com/news/dog-dies-after-being-hit-by-self-driving-car-in-san-francisco.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/dog-dies-after-being-hit-by-self-driving-car-in-san-francisco.amp"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 44
+    images:
+      - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/06/932/470/GettyImages-1497020112.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
   - title: "Self-driving car hits and kills small dog in San Francisco"
     excerpt: "An initial review indicated that the Waymo’s system correctly identified the dog, which ran from behind a parked vehicle. However, the vehicle was unable to avoid hitting the animal."

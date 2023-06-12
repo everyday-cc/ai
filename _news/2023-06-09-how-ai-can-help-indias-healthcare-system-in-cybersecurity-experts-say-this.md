@@ -28,56 +28,47 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Address The Crisis In Healthcare Labor Costs"
-    excerpt: "AI creates exciting possibilities in healthcare, and it’s tempting to fixate on the sexiest use cases. A much nearer-term opportunity lies in addressing labor costs."
-    publishedDateTime: 2023-06-07T09:45:00Z
-    webUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
+  - title: "The Multidimensional Relationship Between AI And Cybersecurity And Its Impact On Fintech"
+    excerpt: "The relationship between AI and cybersecurity has massive implications for the banking ecosystem and can be explained by looking at three different dimensions."
+    publishedDateTime: 2023-06-08T10:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 80
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647fd04bcc09b43b71595934/0x0.jpg?format=jpg&width=1200"
-        width: 633
-        height: 322
+      - url: "https://imageio.forbes.com/specials-images/imageserve/603e3db037a40065dd90c173/0x0.jpg?format=jpg&width=1200"
+        width: 797
+        height: 531
         isCached: true
-  - title: "IIT-BHU showcases efforts in healthcare and AI"
-    excerpt: "Varanasi: The Indian Institute of Technology (BHU) displayed its efforts in the areas of healthcare, biomaterials and artificial intelligence at the t."
-    publishedDateTime: 2023-06-08T03:14:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/articleshow/100836651.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
-  - title: "How AI Can Help Doctors As They Solve Complex Problems"
-    excerpt: "AI has an essential role to play in augmenting the work of doctors as they make dozens of high-stakes decisions a day."
-    publishedDateTime: 2023-06-09T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/how-ai-can-help-doctors-as-they-solve-complex-problems/"
+  - title: "Scality ARTESCA 2.0 Object Storage Focuses On CyberSecurity And Enterprise Features"
+    excerpt: "Scality ARTESCA 2.0 S3 software-defined object storage enables new cybersecurity and cyber-resilience capabilities."
+    publishedDateTime: 2023-06-11T22:00:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "Generative AI is coming for healthcare"
-    excerpt: "ChatGPT and its close generative AI cousins (like Bard and MedPaLM) are now being deployed and tested in healthcare settings. At its simplest, generative AI is a tool or algorithm that can create astonishing new content (think poetry,"
-    publishedDateTime: 2023-06-08T12:17:00Z
-    webUrl: "https://www.pmlive.com/blogs/smart_thinking/archive/2023/rohit/generative_ai_is_coming_for_healthcare"
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648642d4a607fe1d81f4b945/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI, facial recognition tech front and center at China security expo"
+    excerpt: "AI tech that spots \"undesirable\" behavior and long-distance facial recognition software were on show Thursday at a Beijing expo attended by hundreds of companies -- many blacklisted by the United States for their alleged role in repression in China and abroad."
+    publishedDateTime: 2023-06-08T21:51:00Z
+    webUrl: "https://japantoday.com/category/tech/ai-facial-recognition-tech-front-and-centre-at-china-security-expo1"
     type: article
     provider:
-      name: PMLiVE
-      domain: pmlive.com
-    quality: 36
+      name: Japan Today
+      domain: japantoday.com
+    quality: 51
 
 secured: "A3iHEQTesduPVfyMlbNQ0KQrIW3PD/zABJTORcQhIuizGUv5Kjs90DN4QcFQCvSPKeLbm/IxCcpwxOG9EUqVbij3xyh9UsCzKbcBmbFnZTLZ4+NfInheBlnHdEQM5Q3vIHrobqVRudMzzL4oXN+AhJsi86yCsIjrF0gXvjFdz8N4+Ho677b4yZgN329Z0W4IoAvopLAq7NI9ik75RtpovRGb3T3KNddtRB/oJNs3nPCM7qXOrzdg3fWnM9qa8avFyPG0sGSXCA8F+YPwRxAAot98xosYIDtYGbTqFFv41QJ1gsgIJY3EobI84kKvR/m0l8AueJi+NPYwKG8bxVTlkRvCyygfIUMfq2tmBXFHdrEDdYr3OJk3LTzW3aGnm5uk3lXcrQDJJRMfKixkZQqmLVdr1dDQ6jiC7Nmv+SB2M09bfp3cqUGaUB1VKlAADInQN5AHPMjacQNPv07bAB1zXRzgtvgHz0dMdXshj//sTpE54M1WfcPubh9tavtuFSTlhHsg2R/5SvdoQR3kGRTDkQ==;VMgy+FF7i5Nn85ne3KcZkw=="
 ---

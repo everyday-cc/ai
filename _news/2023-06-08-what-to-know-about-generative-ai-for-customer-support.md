@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Future of Generative AI from Google Cloud: What You Need to Know"
-    excerpt: "Google has been continuously making AI accessible to everyone and in its recent initiative, it has launched Google Cloud's Generative AI course that"
-    publishedDateTime: 2023-06-07T09:19:00Z
-    webUrl: "https://www.jagranjosh.com/general-knowledge/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/the-future-of-generative-ai-from-google-cloud-what-you-need-to-know-1686124470-1"
-    type: article
-    provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
-    quality: 59
-    images:
-      - url: "https://img.jagranjosh.com/images/2023/June/762023/google-ai.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Cashing in on AI chips"
     excerpt: "There was an error generating the full edition PDF. Please try again later. Click and hold your mouse button on the page to select the area you wish to save or print ..."
     publishedDateTime: 2023-06-08T09:03:00Z

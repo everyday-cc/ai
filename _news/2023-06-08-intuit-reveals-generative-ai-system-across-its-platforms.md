@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Typeface expands customized generative AI approach with Google Cloud partnership"
-    excerpt: "A new partnership will directly integrate Typeface with Google Workspace to support specific enterprise generative AI use cases."
-    publishedDateTime: 2023-06-07T10:00:00Z
-    webUrl: "https://venturebeat.com/ai/typeface-expands-customized-generative-ai-approach-with-google-cloud-partnership/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/analytics-g6fbbe52da_1920-e1633121636347.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Lilt Launches Generative AI Multilingual Writing App"
     excerpt: "New Tool Enables Quick Generation and Finalization of On-brand, Locally Relevant Content SAN FRANCISCO, June 8, 2023 /PRNewswire/ -- Lilt, the"
     publishedDateTime: 2023-06-08T15:58:00Z
@@ -122,6 +108,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Generative AI is coming for healthcare"
+    excerpt: "ChatGPT and its close generative AI cousins (like Bard and MedPaLM) are now being deployed and tested in healthcare settings. At its simplest, generative AI is a tool or algorithm that can create astonishing new content (think poetry,"
+    publishedDateTime: 2023-06-08T12:17:00Z
+    webUrl: "https://www.pmlive.com/blogs/smart_thinking/archive/2023/rohit/generative_ai_is_coming_for_healthcare"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 36
   - title: "Oracle invests in Cohere, plans to integrate generative AI tools into its cloud"
     excerpt: "Oracle has invested in generative AI company Cohere, in a deal that valued the business at around $2.2 billion. The $270m Series C round also saw participation from Nvidia and Salesforce. Oracle's investment is said to loosely mirror that of Microsoft with OpenAI and Google with Anthropic,"
     publishedDateTime: 2023-06-11T16:09:00Z
@@ -159,15 +154,6 @@ related:
         width: 1500
         height: 1061
         isCached: true
-  - title: "Google Cloud Collaborates with Mayo Clinic to Transform Healthcare with Generative AI"
-    excerpt: "Google Cloud today announced a collaboration with Mayo Clinic to transform healthcare with generative AI, starting with Enterprise Search in Generative AI App Builder (Gen App Builder ), to improve the efficiency of clinical workflows,"
-    publishedDateTime: 2023-06-07T09:12:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9827972.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
   - title: "Google Cloud, Mayo Clinic make generative AI play"
     excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
     publishedDateTime: 2023-06-07T12:00:00Z

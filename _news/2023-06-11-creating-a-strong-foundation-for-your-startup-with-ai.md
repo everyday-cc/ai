@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 110
 published: true
 
 provider:

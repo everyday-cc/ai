@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Putting the ‘artificial’ in intelligence: the morality of the digital mind"
+    excerpt: "Artificial intelligence is, well, artificial. And the use of ‘intelligence’ in this label is a misnomer. AI machines cannot think. They are just (increasingly) very,"
+    publishedDateTime: 2023-06-12T02:39:00Z
+    webUrl: "https://www.spectator.com.au/2023/06/putting-the-artificial-in-intelligence-the-morality-of-the-digital-mind/"
+    type: article
+    provider:
+      name: spectator.com.au
+      domain: spectator.com.au
+    quality: 22
+    images:
+      - url: "https://www.spectator.com.au/wp-content/uploads/2023/06/AI.jpg"
+        width: 730
+        height: 486
+        isCached: true
   - title: "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise"
     excerpt: "Contextual AI emerged from stealth today with $20 million in funding led by Bain Capital Ventures (BCV) with participation from Lightspeed, Greycroft, SV Angel and well-known angel investors including Elad Gil,"
     publishedDateTime: 2023-06-07T16:40:00Z

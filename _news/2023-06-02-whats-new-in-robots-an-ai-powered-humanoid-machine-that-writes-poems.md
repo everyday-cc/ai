@@ -2,16 +2,16 @@
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
 excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ..."
-publishedDateTime: 2023-06-02T13:03:00Z
-originalUrl: "https://6abc.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-webUrl: "https://6abc.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-ampWebUrl: "https://6abc.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+publishedDateTime: 2023-06-02T14:57:00Z
+originalUrl: "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+webUrl: "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+ampWebUrl: "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
 type: article
 
 provider:
-  name: 6abc News
-  domain: 6abc.com
+  name: abc13
+  domain: abc13.com
 
 topics:
   - AI in Robotics
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4QLl3GM93fwxP/a8+O3qDHAiCSMLk5bxdypuhvnxeqWAOqbr4jCrCXRniJyhY3lcvSyqCKnnOCudRcnq1ymITRYV9AePq2B5lW1+0XkvtTUGA4Gq65/SLYWo6ycfxh36uK6Grc8THwiBrXyfDzglS7JHDytKL1E+qqHAVsv7NOx22qstN+cYMt92A18Xwka+0OgYTEyBxP+6Jyw7ILZ55xgC2n3qNj3/jrgpYRwYDgJqEX38DWSIC4DlQIuUrged9x05tPfpNevcWBZz3obhAdSc9nXduADTOUW0zIzNEK6IvbHVKA3tti0Wkz5a3NJz82TlAMjDrPuPydbToJ2ZoBUe/76GZkHMBkvOtZLSX7I=;tCGx+Yj2YnAJ/+BCuCp7pQ=="
+secured: "35/P71M7jxkqLUKxagw8fwlCF3vhHqWjLug3wujrCSLpLOC/V24M+qVD3JFSpj41Now5ggZTg3iTIvxgrDxoVulc//ptAQK0saCzb2ANTlYYqF3ZkLnQScy9ZLLPoC1Ccw4zdNchN/nI6Gqips2bTnscuUrxzpEfnBBCaj+8zTLoG7uKVCTsOqwwkpNRJZixCeiFoMBxYdYa5+WnquDxJTBZQW0ihvEzqoidwYUadauRTLpY9/MnksBJl4mbKpYvbvVZeX4zDDvgcqmAAot2MKoWg4Au8SWiJcTW4KSLxI9fXinBiTBHH+bKxoSkmjhTKmWxgX7RpK06AYdV6Jx1WSXI8cu2/TruAXeaFYEmsbk=;eL9CYQTCy9SS2Olv1dRpLA=="
 ---
 

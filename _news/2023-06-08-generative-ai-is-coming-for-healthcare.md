@@ -20,63 +20,158 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "How AI Can Address The Crisis In Healthcare Labor Costs"
-    excerpt: "AI creates exciting possibilities in healthcare, and it’s tempting to fixate on the sexiest use cases. A much nearer-term opportunity lies in addressing labor costs."
-    publishedDateTime: 2023-06-07T09:45:00Z
-    webUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/"
+  - title: "Google’s generative AI support in Vertex AI is now generally available"
+    excerpt: "Google's generative AI support in Vertex AI, the company's machine learning platform, is now generally available."
+    publishedDateTime: 2023-06-07T20:45:00Z
+    webUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/"
+    ampWebUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135936636.jpg?resize=1200,801"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Google's Generative AI Platform Is Now Available To Everyone"
+    excerpt: "With the service becoming GA, enterprises and organizations could integrate the platform's capabilities with their applications."
+    publishedDateTime: 2023-06-09T05:30:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647fd04bcc09b43b71595934/0x0.jpg?format=jpg&width=1200"
-        width: 633
-        height: 322
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6482b8837a0f4f82412c5c61/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "IIT-BHU showcases efforts in healthcare and AI"
-    excerpt: "Varanasi: The Indian Institute of Technology (BHU) displayed its efforts in the areas of healthcare, biomaterials and artificial intelligence at the t."
-    publishedDateTime: 2023-06-08T03:14:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/articleshow/100836651.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
+  - title: "Firm study predicts big spends on generative AI"
+    excerpt: "A new study polling software buyers at businesses worldwide finds strong intention to increase budget, with special interest in AI. It also looks at how vendors can engage buyers."
+    publishedDateTime: 2023-06-09T22:22:00Z
+    webUrl: "https://www.techrepublic.com/article/big-spends-generative-ai-saas-g2/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr6923-Hero.G2.jpeg"
+        width: 969
+        height: 610
         isCached: true
-  - title: "How AI can help India's healthcare system in cybersecurity? Experts say this"
-    excerpt: "The Indian healthcare industry has faced 1.9 million cyberattacks in 2022 and experts are calling for stronger cybersecurity infrastructure, with artificial intelligence (AI) recommended as a solution."
-    publishedDateTime: 2023-06-09T02:06:00Z
-    webUrl: "https://www.livemint.com/technology/how-ai-can-help-indias-healthcare-system-in-cybersecurity-experts-say-this-cyberattacks-aiims-delhi-11686272124440.html"
-    ampWebUrl: "https://www.livemint.com/technology/how-ai-can-help-indias-healthcare-system-in-cybersecurity-experts-say-this-cyberattacks-aiims-delhi/amp-11686272124440.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/how-ai-can-help-indias-healthcare-system-in-cybersecurity-experts-say-this-cyberattacks-aiims-delhi/amp-11686272124440.html"
+  - title: "Rush to Use Generative AI Pushes Companies to Get Data in Order"
+    excerpt: "Interest in large language models, such as those developed by ChatGPT maker OpenAI, has put renewed focus on data management—placing more pressure on corporate technology chiefs to ensure their companies’ data is stored,"
+    publishedDateTime: 2023-06-08T10:01:00Z
+    webUrl: "https://www.wsj.com/articles/rush-to-use-generative-ai-pushes-companies-to-get-data-in-order-c34a7e13"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 73
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/09/600x338/artificial_intelligence_1686276079470_1686276079790.jpg"
-        width: 600
-        height: 338
+      - url: "https://images.wsj.net/im-796217/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "How AI Can Help Doctors As They Solve Complex Problems"
-    excerpt: "AI has an essential role to play in augmenting the work of doctors as they make dozens of high-stakes decisions a day."
-    publishedDateTime: 2023-06-09T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/how-ai-can-help-doctors-as-they-solve-complex-problems/"
+  - title: "PhotoRoom, Google Cloud partner to democratize generative AI photo editing"
+    excerpt: "PhotoRoom says its generative AI capabilities and Google Cloud partnership will speed production of product photography content."
+    publishedDateTime: 2023-06-08T18:37:00Z
+    webUrl: "https://venturebeat.com/ai/photoroom-google-cloud-partner-democratize-generative-ai-photo-editing/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/PhotoRoom-banner-1x.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Lilt Launches Generative AI Multilingual Writing App"
+    excerpt: "New Tool Enables Quick Generation and Finalization of On-brand, Locally Relevant Content SAN FRANCISCO, June 8, 2023 /PRNewswire/ -- Lilt, the"
+    publishedDateTime: 2023-06-08T15:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-launches-generative-ai-multilingual-writing-app-1032378920"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Intuit reveals generative AI system across its platforms"
+    excerpt: "The AI will have custom-trained financial language models specialising in solving, tax, accounting, cash flow and personal finance challenges."
+    publishedDateTime: 2023-06-07T20:56:00Z
+    webUrl: "https://www.accountantsdaily.com.au/technology/18638-intuit-reveals-generative-ai-system-across-its-platforms"
+    type: article
+    provider:
+      name: accountantsdaily.com.au
+      domain: accountantsdaily.com.au
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1684912798/Accountants%20Daily/sasan-goodarzi-intuit-ad_g3icx2.jpg"
+        width: 1200
+        height: 776
+        isCached: true
+  - title: "Oracle invests in Cohere, plans to integrate generative AI tools into its cloud"
+    excerpt: "Oracle has invested in generative AI company Cohere, in a deal that valued the business at around $2.2 billion. The $270m Series C round also saw participation from Nvidia and Salesforce. Oracle's investment is said to loosely mirror that of Microsoft with OpenAI and Google with Anthropic,"
+    publishedDateTime: 2023-06-11T16:09:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/oracle-invests-in-cohere-plans-to-integrate-generative-ai-tools-into-its-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Oracle_plane.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google Cloud and Mayo Clinic to explore uses of generative AI in healthcare"
+    excerpt: "To get the ball rolling, the Mayo Clinic is adopting a new service called Enterprise Search on Generative AI App Builder that will help to improve the efficiency of clinical workflows and make it easier for clinicians and medical researchers to find the data they need to improve patient outcomes,"
+    publishedDateTime: 2023-06-07T12:00:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/google-cloud-mayo-clinic-explore-uses-generative-ai-healthcare/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+  - title: "How generative AI could change the life sciences landscape - an interview with Indegene"
+    excerpt: "With generative AI continuing to create a buzz, OSP took the opportunity to speak to Indegene, a digital-first, life sciences commercialization company that helps biopharmaceutical, emerging biotech and medical device companies develop products."
+    publishedDateTime: 2023-06-07T11:48:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2023/06/07/how-generative-ai-could-change-the-life-sciences-landscape"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 31
+    images:
+      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/markets-regulations/how-generative-ai-could-change-the-life-sciences-landscape/16476737-1-eng-GB/How-generative-AI-could-change-the-life-sciences-landscape.jpg"
+        width: 1500
+        height: 1061
+        isCached: true
+  - title: "Google Cloud, Mayo Clinic make generative AI play"
+    excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
+    publishedDateTime: 2023-06-07T12:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/google-cloud-mayo-clinic-generative-ai-search-chatgpt-hipaa"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
+  - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
+    excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
+    publishedDateTime: 2023-06-07T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/google-mayo-clinic-launch-generative-artificial-intelligence-collab"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
 secured: "23TMkthXQL9Vlv+l2A6FnNqfwFMzaMFm7FB8LPEGvvOkpyrbr6c4jOWvT4TAWWGWB/XO41K561eyZUSOp0qxNcMQ6SByB5OKm0102NhmJRY5NOyuPjAV/YRriTa6NtT9Rs47W8eO43c5pDuasCTVPfJdRd/76dWkG6ZnhwCwqA02dbUVJuUNiqRQtnbc2JyXpHBvan8Y6Ea0xknlM9/wZgGpDaHYTNuEot1zCAtdGFdPSJzcwJf0bjhDpip6awwfdh+QARROBKZaNYa0b+B2sJu0a7Et2M+EW1Fli76SBNgzeAN+k8A7dW76P3Wl9QWt8FpnKW5/K4t1kHH0BOhqVSmCwHvt2z8BnyE0TnPkBDle3J4jPrP/E+TTrL+fiwN3MbpGYw71qV5eDzS5P34ZVXGErs9L3be6HvnTfl+b7GBNFu4Tt2g2RN0oRvvRbMMB1sZL6W0SBbwkdhdhMP5uDKOjYqHKyDlxgZUb45ZnY3wxpdrmcGuU7+86e98GxWE1Ct3s1Q6OJbVmBZkIut+KbQ==;j/+4otM605Mas0KWB1TK8Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessobserverfl.com/news/2023/jun/09/ai-generated-c
 webUrl: "https://www.businessobserverfl.com/news/2023/jun/09/ai-generated-content-creation-hub-seed-funding/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 850
     height: 580
     isCached: true
-
-related:
-  - title: "Dutch fintech LoopingOne raises €2 million in seed funding"
-    excerpt: "LoopingOne, the pioneering fintech startup, is thrilled to announce that it has secured an impressive €2 million during a recent seed funding round."
-    publishedDateTime: 2023-06-07T10:23:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97168/dutch-fintech-loopingone-raises-2-million-in-seed-funding"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "mNQnVHVm9oQPaGlcwW3Aw/yDd9KSSmyC0UsJqHkZljwbCTKt2J/+j9zfVrx6atWPXNYjZ9uSywCty/+DZqjOZ5LcqrYnSMCtUuYKiZuC8Ir+2EL795JWj81uW7HxaaeummO75Nk2fiAkiII/RLBs53pCq5KSSQ7eDCbOZta6WG7FLbsA2zcXnwNWC1pYDvah6/CGjfL93TMETCqshtIJKWZtKNzQB7RYJzhuVpodwRn/i5QoLUp+p42LBMq6UPq1LlaO+/zoZc6SC2jcleSGrv8vyqCmS5Ci2WdC/pj03vnPbztc4NMJXUFroOxnXrUuEEGnoDSwHYcQeNEUAZtaZe6+eLUm/EjX970SZNyMQMg=;xf6pcGDoRy3uf7NbPtUcJg=="
 ---

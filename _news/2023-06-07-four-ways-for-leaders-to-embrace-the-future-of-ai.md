@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/07/four-ways-for-leaders-to-embrace-the-future-of-ai/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "The price we'll pay for our AI future: more loneliness"
-    excerpt: "Many Amercians already harbor this worry: A recent survey by the Pew Research Center found that one of Americans' top concerns with AI is the technology's inherent \"lack of human connection.\" Our time on earth is limited. While the convenience of AI could ..."
-    publishedDateTime: 2023-06-07T10:59:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp"
+  - title: "Waymark: Building The Future Of Commercials Through AI Technology"
+    excerpt: "The world’s first official TV advertisement came with a 10 second spot for Bulova watches in 1941, while single companies sponsoring entire shows (with the broadcast"
+    publishedDateTime: 2023-06-07T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcberman1/2023/06/07/waymark-building-the-future-of-commercials-through-ai-technology/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/647653d9df2567001837c25c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f76f7f5af3da79657d5cb/0x0.jpg?format=jpg&width=1200"
+        width: 600
+        height: 319
         isCached: true
   - title: "Artificial intelligence in agriculture isn’t the future; it’s now"
     excerpt: "Cengiz Koparan, a new assistant professor at the University of Arkansas, said the rapid rise of artificial intelligence is already making cutting-edge technology more available."
@@ -62,21 +62,35 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Artificial intelligence and the future of work"
-    excerpt: "Artificial intelligence (AI) has pervaded almost every field of innovation and development, starting from driverless cars to recommendation of product."
-    publishedDateTime: 2023-06-09T03:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/startups/people/ai-and-the-future-of-work/articleshow/100864261.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/startups/people/ai-and-the-future-of-work/amp_articleshow/100864261.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/startups/people/ai-and-the-future-of-work/amp_articleshow/100864261.cms"
+  - title: "5 ways how Artificial Intelligence improve the workplace"
+    excerpt: "Artificial intelligence (AI) is now a part of our everyday lives. More than we may sometimes realize; AI solutions are changing almost every aspect of our lives, and this extends well into the workplace as well. The impact of AI on the future of work is a ..."
+    publishedDateTime: 2023-06-11T11:31:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
     images:
-      - url: "https://static.toiimg.com/thumb/msid-100864261,width-1070,height-580,imgsize-4548,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Untitled-design83.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Are We Ready for AI to Raise the Dead?"
+    excerpt: "Soon enough, artificial intelligence will allow us to construct a digital version of a dead human being. We have some decisions to make."
+    publishedDateTime: 2023-06-09T08:05:00Z
+    webUrl: "https://www.aol.com/lifestyle/ready-ai-raise-dead-110000038.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/qdDPsYAb1Wa2j4r5.ig2LQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_esquire_729/759d4ebc24422af4493cc12a68d7a27f"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "4S9rOvJAtt8knIhCuMZM415qVQhGopfIqP3PxWAHxASjI7OUt7BZnUWLos5qKnYr0u8Krzr2z/Ji0tqmcllZMVBEatl/dsfk095FYjjnDcFngTw/7EuCWG1Tm8vAAeWuJfx91TZHLEv/oabE+msG0SVqzxtjQOjeHXb9lFRyFKUyCNOH6+MlFh4Cu3nOXu0+5U+ba0J/j+PaGcBmgsCT/O0g5H8W7xaFipBdzJcjc/SHRG3X9nG/JtlYep5x/lePjH+Nb6Mj7CSYJ/J7dailIiXEdgXgXPgg1NJWcWRjpfjFzErnEBDW3y+AoCyEnu7AnkFMSbTxNqIvm79ZAZnyoejmQnibaVo/fZnM38UqfhsUcOe8jIOsU4gM4Nc7qrdVQUCLFq6acipOJ9gGeubr9D/sffu/TD1D41cvQCyJ/CP/m1tXJ5I+p4kj0kfy6DD+PB2F/ttuildf5FHkYlAt4g28SEUEKLy9ZmmFO6lZFHYCW5vuBiDdGdOFPdlz+Y+My8DsE2o5w/KsytFPxUQi4g==;sNVz4j23BGKxzDlh6OmrYA=="

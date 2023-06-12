@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 923
         isCached: true
-  - title: "Powerful object recognition for diverse applications using AI and robotics"
-    excerpt: "New algorithms for object recognition and environment perception have been developed at Fraunhofer IPA, enabling sophisticated automation solutions for the service and production sectors."
-    publishedDateTime: 2023-06-07T10:45:00Z
-    webUrl: "https://idw-online.de/en/news815664"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 84
-    images:
-      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
-        width: 498
-        height: 259
-        isCached: true
   - title: "How to Navigate the Hidden Risks of AI and Digitization"
     excerpt: "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ..."
     publishedDateTime: 2023-06-08T17:42:00Z
@@ -85,6 +71,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63731fd487e442fe938888a7/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 652
+        isCached: true
+  - title: "10 of the best free artificial intelligence courses on edX"
+    excerpt: "These are the best free artificial intelligence courses as of June 11: AI Chatbots without Programming (IBM)(opens in a new tab) AI for Everyone: Master the Basics (IBM)(opens in a new tab) AI for Leaders (Babson College)(opens in a new tab) AI for ..."
+    publishedDateTime: 2023-06-12T03:57:00Z
+    webUrl: "https://mashable.com/uk/deals/ai-courses-for-free"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/03eACpI1nJnAUCOyUCxrxTl/hero-image.fill.size_1200x675.v1686313582.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "A Call For The Ethical And Responsible Use Of AI"
     excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"

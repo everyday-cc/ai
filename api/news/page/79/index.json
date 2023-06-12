@@ -2,6 +2,206 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2023-04-24-googles-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.md",
+      "title": "Google’s Bard AI to take on GitHub Copilot and Amazon CodeWhisperer",
+      "excerpt": "Google’s generative AI offering is now capable of helping developers write and debug code in 20 programming languages including Python and Typescript, the company said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.html",
+      "originalUrl": "https://www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/01/20/16/google-bikes-empty-100936555-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.amp.html",
+      "publishedDateTime": "2023-04-24T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-grimes-tells-fans-to-deepfake-drake-her-invites-collaboration-with-ai.md",
+      "title": "Grimes Tells Fans To Deepfake Drake Her, Invites Collaboration With AI",
+      "excerpt": "In the wake of the AI-generated hit Heart on My Sleeve going viral with deepfakes of Drake and The Weeknd, pop star Grimes has invited her fans to experiment with her voice. On Sunday night she tweeted, “I'll split 50% royalties on any successful AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6446290cbc54719eadfa527d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/",
+      "publishedDateTime": "2023-04-24T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst.md",
+      "title": "Amid Microsoft-Google AI Rivalry, Apple Could Be The Winner 'No Matter Where Industry Goes:' Analyst",
+      "excerpt": "Artificial Intelligence (AI) tech is an $800 billion market opportunity over the next decade as it pervades into the enterprise and consumer tech space, said Wedbush analyst Daniel Ives in a recent note.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Apple_logo_on_macbook_2.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI",
+        "Facebook AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-artificial-intelligence-discovers-molecules-market-2023-comprehensive-insights-insilico-medicine-verge-genomics-ibm-watson-health-exscientia.md",
+      "title": "Artificial Intelligence Discovers Molecules Market 2023 Comprehensive Insights – Insilico Medicine, Verge Genomics, IBM Watson Health, Exscientia",
+      "excerpt": "Top Leading Companies of Global Artificial Intelligence Discovers Molecules Market are – Insilico Medicine, Verge Genomics, IBM Watson Health, Exscientia, BenevolentAI, Atomwise, Cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-discovers-molecules-market-2023-comprehensive-insights-insilico-medicine-verge-genomics-ibm-watson-health-exscientia-2023-04-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-discovers-molecules-market-2023-comprehensive-insights-insilico-medicine-verge-genomics-ibm-watson-health-exscientia-2023-04-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-6-ways-azure-ai-is-empowering-people-with-disabilities.md",
       "title": "6 Ways Azure AI is Empowering People with Disabilities",
       "excerpt": "Accessibility in technology is crucial for ensuring that everyone, regardless of their physical or cognitive abilities, can fully participate in the digital world., Technology & Science News, Times No",
@@ -955,203 +1155,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-ai-can-write-your-emails-reports-and-essays-but-can-it-express-your-emotions-should-it.md",
-      "title": "AI can write your emails, reports, and essays. But can it express your emotions? Should it?",
-      "excerpt": "If AI-written vows, eulogies, speeches, love letters, apologies, poems, or songs become ubiquitous, are they still meaningful?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-can-write-your-emails-and-reports-but-can-it-express-your-emotions/",
-      "originalUrl": "https://www.zdnet.com/article/ai-can-write-your-emails-and-reports-but-can-it-express-your-emotions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/27a39b2f3e2bb9c2bf30da74b13c1104cb3511d5/2023/03/21/585c7714-5218-4ca3-8350-3e63a5e869bf/gettyimages-1256204421-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-can-write-your-emails-and-reports-but-can-it-express-your-emotions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-can-write-your-emails-and-reports-but-can-it-express-your-emotions/",
-      "publishedDateTime": "2023-04-22T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-groundlight-raises-10m-for-natural-language-powered-computer-vision.md",
-      "title": "Groundlight raises $10M for natural language powered computer vision",
-      "excerpt": "Groundlight's $10 million funding round included participation from Madrone, Greycroft Partners and Founders Co-op.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/groundlight-raises-10m-for-natural-language-powered-computer-vision/",
-      "originalUrl": "https://www.therobotreport.com/groundlight-raises-10m-for-natural-language-powered-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/groundlight-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-22T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-how-ai-powered-robots-are-changing-retail.md",
-      "title": "How A.I.-powered robots are changing retail",
-      "excerpt": "An army of inventory robots is being deployed to help retailers appease angry customers, boost sales and respond to the ongoing worker shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/22/how-ai-powered-robots-are-changing-retail.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/22/how-ai-powered-robots-are-changing-retail.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105609537-1544038192286walmartbraincorprobot.jpg?v=1682168401",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/22/how-ai-powered-robots-are-changing-retail.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/22/how-ai-powered-robots-are-changing-retail.html",
-      "publishedDateTime": "2023-04-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-2023-2029-artificial-intelligence-chipset-market-trend-with-124-pages-by-irb.md",
-      "title": "2023-2029 \"Artificial Intelligence Chipset Market\" Trend, With 124+ Pages By IRB",
-      "excerpt": "Report Highlights with 124+ pages: -\"The global Artificial Intelligence Chipset market looks promising in the next 5",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-2029-artificial-intelligence-chipset-market-trend-with-124-pages-by-irb-2023-04-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-2029-artificial-intelligence-chipset-market-trend-with-124-pages-by-irb-2023-04-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-22T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

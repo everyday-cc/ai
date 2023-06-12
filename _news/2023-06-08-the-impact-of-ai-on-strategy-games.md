@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "5 ways how Artificial Intelligence improve the workplace"
-    excerpt: "Artificial intelligence (AI) is now a part of our everyday lives. More than we may sometimes realize; AI solutions are changing almost every aspect of our lives, and this extends well into the workplace as well. The impact of AI on the future of work is a ..."
-    publishedDateTime: 2023-06-11T11:31:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
+  - title: "Artificial Intelligence's Impact on Jobs"
+    excerpt: "Some jobs may go away, but others will have portions of their job duties made easier or eliminated all together. AI driven radiologist will not get tired or have fuzzy eyes. A human will likely double check what the AI has detected and then \"the human\" will need to communicate as only humans can (for know with empathy) to someone needing information about the cancer—or no cancer diagnosis."
+    publishedDateTime: 2023-06-12T02:49:00Z
+    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/artificial-intelligences-impact-on-jobs"
+    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/artificial-intelligences-impact-on-jobs?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/artificial-intelligences-impact-on-jobs?_amp=true"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
+      name: Government Technology
+      domain: govtech.com
     quality: 57
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Untitled-design83.jpg"
-        width: 1200
-        height: 675
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/5cf20d7/2147483647/strip/true/crop/366x512+0+0/resize/366x512!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F0f%2F16%2F7687441d4ce0a3b2820b9b0b02e5%2Feric-holdeman-senior-fellow.jpg"
+        width: 366
+        height: 512
         isCached: true
 
 secured: "83RwPvEMLrtWHSaBkigEhuS1QfaFRSsHZQYJzC27CZVRehVJ5XMK8yQOMniI5bHH4VI76yuCt02pQ7HJQxBl/DT4GUjKN9FkIFL/aNzHQMywNDj23euBOVjAlK/3Dw/6Ch3tPv7jNSyGIkIfmHZtDVWAfxkXXI6ntV47ymGpd/XSlMiKv1Y1kt8ZL2sUaA+luVjVhK3YnwUjgE0Jq+8MbFEaMvxg0H8/zEgZmUe8gA4lCwV4QhvopETHO3Au/9Zv70dLtkYNcE2C06qhuxs5t1ZIOhYQPT5yM5663kkoWXsEgRJv2OoPTwRnqFDbchE75iXTFz2nIWs7s2/Vs6/Mw/1V33zJqu7o3cV0+lp7U9Y=;E5mlo8suE1qiT7K4ceoztA=="

@@ -53,15 +53,6 @@ related:
         width: 620
         height: 454
         isCached: true
-  - title: "Google Cloud is partnering with Mayo Clinic as it tries to expand use of generative A.I. in health care"
-    excerpt: "Mayo Clinic will be using Google Cloud's generative artificial intelligence technology to help doctors and nurses more easily track patient data."
-    publishedDateTime: 2023-06-07T10:00:00Z
-    webUrl: "https://www.cnbc.com/2023/06/07/google-cloud-partners-with-mayo-clinic-brings-generative-ai-to-health.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 18
 
 secured: "xl6StuB+RxzCllXZMr6LmP7FNS7n+FKAYAKdjdE8NUvAa5iJA6DBkfsCRunREwILZoJhj+hY+HJ5WEFSicywV4rTf/PTiO50joTekHUSU/rrZUBt60LEIkBa1wD56DJFJdag+ZtoX0q1vQs5h+ct/wplnDJ3bSbexBY3uIBjgwhGHeqANkpQTMNDm3mFREjmEyB6R0/vMltq3upOP7a/KMIA5t6Uc6lPh48pZ67J8GSkVJu2dA5BGuOJ4KhEi/FHyAFjjCht6TjOjMdB0h5BYUeqrM7K4POeI9NG6Y4l5TAJK5YrnsB8/bHF9p+1QvgTsS1GzWoFD3fKEaSOdQmPPXrHxqIeY7vY8yhNUsx0d1arjbSUQmQjHvmeQ9AbHKO9Bk2z5vQcTTJPJL0y78LDp19bfa74gUM1bIwStvlT1jVj97+HuP2HCQDLgP3e6VEVyXaZ+8YyqSnOVIzJmwxhD8pinbA7DvkoAwu+vv4gjMdx4QwzIRkEmcSGrI5Le3qHXo1KY0ggFuDckgfFGYkQ2Q==;POjatFKArx+5Wxn/pkYslA=="
 ---

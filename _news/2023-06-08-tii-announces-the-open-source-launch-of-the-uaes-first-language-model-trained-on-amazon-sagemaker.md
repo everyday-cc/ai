@@ -64,20 +64,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Technology Innovation Institute trains the state-of-the-art Falcon LLM 40B foundation model on Amazon SageMaker"
-    excerpt: "This blog post is co-written with Dr. Ebtesam Almazrouei, Executive Director–Acting Chief AI Researcher of the AI-Cross Center Unit and Project Lead for LLM Projects at TII. United Arab Emirate’s (UAE) Technology Innovation Institute (TII), the applied research pillar of Abu Dhabi’s Advanced Technology"
-    publishedDateTime: 2023-06-07T09:03:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/technology-innovation-institute-trains-the-state-of-the-art-falcon-llm-40b-foundation-model-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/07/Final-White-Ver-Logo-1400-1-1184x630.jpg"
-        width: 1184
-        height: 630
-        isCached: true
   - title: "AWS says Falcon40B Large Language Model Trained on Sagemaker"
     excerpt: "AWS revealed that TII), a leading global scientific research centre in Abu Dhabi, trained its top-performing, open-source Falcon 40B model on AWS."
     publishedDateTime: 2023-06-08T06:57:00Z

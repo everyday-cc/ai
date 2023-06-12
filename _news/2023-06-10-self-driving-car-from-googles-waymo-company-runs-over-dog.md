@@ -78,20 +78,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Self−Driving cars are not yet on our roads, but Assisted Driving Systems are already supporting drivers’ safety today"
-    excerpt: "Many consumers believe self-driving cars and the possibility to purchase them is just around the corner, but as yet they are not available to buy on the European car market.  However, many"
-    publishedDateTime: 2023-06-07T10:07:00Z
-    webUrl: "https://www.thenewsmarket.com/news/self-driving-cars-are-not-yet-on-our-roads--but-assisted-driving-systems-are-already-supporting-driv/s/4f416199-ae4e-438f-bbb6-7418798e6e40"
-    type: article
-    provider:
-      name: thenewsmarket
-      domain: thenewsmarket.com
-    quality: 1
-    images:
-      - url: "https://preview.thenewsmarket.com/Previews/NCAP/StillAssets/960x540/644091_v3.jpg"
-        width: 1168
-        height: 657
-        isCached: true
 
 secured: "scYezq53EVosLrfP7mDvAr+95YvmROrn/HSrDJLc0rW96OepmUgeQ5chnlPd+HFrFk+ASDWYiQ1ckbPbCPisnNZuLAHcpSmWUcYZsixunkiiYIPCKtooD32qebn8rcu3HqCUTzHACVq8LYYc1vANe8lETqjzoK2/EQ6N7Nb3dHPAQ4LKwDecrIhhRaapmCBH4rdT3dHcxefTkHyzevL0zU/7dIXZ5NND/pkbIJP11WoNYVFv6GR1zbz7aLM9mFexAX7tiQEFwM5gDMWGaTAXNOuyVtlbSPFH/WtaDoNqwdT5B3eemdRKtEEnMS9Z6V0hgI//Fi72SUyrWMdcFp7y0QwZcG7MV4mmovpMFAODgkQ=;mNT4EAdFGF3XP3Th98V3og=="
 ---
