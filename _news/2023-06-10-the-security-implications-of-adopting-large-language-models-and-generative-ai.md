@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trailblazing AI Companies Headquartered in Singapore: Driving Innovation Forward"
+    excerpt: "Know about few of the best AI ventures utilizing power of AI for helping advancement of several other industries."
+    publishedDateTime: 2023-06-12T15:00:00Z
+    webUrl: "https://www.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
+    ampWebUrl: "https://amp.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.sg
+    quality: 54
+    images:
+      - url: "https://data.ibtimes.sg/en/full/68201/ai-powered-comapnies.jpg"
+        width: 1275
+        height: 1263
+        isCached: true
 
 secured: "G2SUF0K8nhs4tD1DbtvhiEJEfjHkVUL+bZpkpPuRno5YLIqoiiPFlRGBBJO9Xk62ggbkomIsKApt9Ay7H08Fw2RGrnRbQs+yZKqaWfipSwg64U8otP4+kbTrAoXI7qWXT4qsgWh4+A4AMfb9Sx+nMmeqvs+Wx3ZM1XHyYbS+0ofW9f+mgT3IShk9+wXeNYKvj4esYg101v1U23+J8td1cPWyIfwt8lPjdtEFEBJueYEq0T8kR0oXU6yJiR51vXmPB8lEsTtxG/4O6Js4EgeO41zOOhXJ+EOr0WjePUGdFzSpOyw9CQHLLN8YHYstP/0zFvrUrOye7X83jzokHGXnFW7+2ZWZ1TDK77XzCd/oqS+jPjvGGx/Pg+rz13jlWfdBSRhKT6cSuSb2nFUDsqkGEQC1dQuNutupCSffEz9oj4QcF6l6zf+c1BTaQZQTkZQnIvi7N8krVcZ7Acq+lto8sV0n2MsLnHQEvMG02jz07x7GGtMJ8YIu1zF2vJlSWSL/JFY9HV+tcImJZTIuyrJjKw==;4/FtH4eEoZVO96wo3zH1dw=="
 ---

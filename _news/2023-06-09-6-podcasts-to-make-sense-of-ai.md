@@ -152,6 +152,20 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 51
+  - title: "The missing steps in the application of AI on remote health monitoring"
+    excerpt: "Remote health monitoring refers to the use of technology to monitor a patient's health remotely outside of traditional healthcare settings, utilising connected devices like wearable sensors."
+    publishedDateTime: 2023-06-12T15:07:00Z
+    webUrl: "https://www.ibtimes.co.uk/missing-steps-application-ai-remote-health-monitoring-1715990"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1715715/digital-healthcare-smartwatch.jpg"
+        width: 2500
+        height: 1475
+        isCached: true
   - title: "UK summit to address risks of AI"
     excerpt: "The UK is to host a global summit in London in the autumn to try and coordinate a common global response to the rise of AI technology. Concerns about the risks posed by AI have increased recently with a group of Silicon Valley executives issuing a statement arguing that artificial intelligence could even lead to the extinction of humanity."
     publishedDateTime: 2023-06-08T12:36:00Z

@@ -65,15 +65,6 @@ related:
       name: Supply House Times
       domain: supplyht.com
     quality: 34
-  - title: "A row over artificial intelligence regulations looms on the horizon"
-    excerpt: "EU officials say Britain is behind the AI curve, while the UK points to the size of London’s tech industry as evidence that this country is best placed to play a vital role in any regulatory framework"
-    publishedDateTime: 2023-06-07T19:35:00Z
-    webUrl: "https://inews.co.uk/opinion/a-row-over-artificial-intelligence-regulations-looms-on-the-horizon-2395126?ico=most_popular"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 19
   - title: "5 sci fi anime that will totally blow your mind on the implications of AI advancements"
     excerpt: "From Ghost in the Shell to Psycho Pass, here are five sci fi anime that discuss the complexities of artificial intelligence or AI."
     publishedDateTime: 2023-06-08T13:00:00Z
@@ -93,6 +84,6 @@ related:
       domain: ryt9.com
     quality: 0
 
-secured: "dcVzsjR0jdqx8j7tGN6aZdlaq0zHdXW0x2tAftILguYoM5pn9ofhEHpzr9Xt7nXTCFVIx6+lA+4jERcP/V6B8xJRMcnGNN+oBQvUiCMgAyxj2la1dkhp0E3dn5RaKzAck+oz1BT9MGcVn6yeaXKhNELgjlFw1V1ZICPkoW6/yvhSxhIafRSv2YgPin7Zt4qNwgJOqMh/qH2W9+QlkVv5Nd6H62pMkGnXqw52IbgBHPn0EZ0hRR+AUolCwQA7LdPYmDOC2ry9ixPzy/diyPKT/R4yLGQH5K/p8Qkzw7OLX3o691mEEEAdcOBWByu2x/CCVXupK78mMLpA1HuvjPu2VS/2KXLXR/aYD3My+EuVid0=;RXw+EAPDc01XdByJGt4T+Q=="
+secured: "YIF3aS8jnmJzVdFqQl/sgp98e6LPwi30ZotBKY9HqGKlIuT95FjiF1aZtI9TzkMiqz+5MUAWzG7PKIJOgkPgKDsZGnCbZc53echH2b0whjgvP5jv+PFtV5QYjdTM/w4u5lw7Hk1HF/n95oyfCngP/R4nhRlTDj4hArPvt9MG/Dw8wYU2F4o1pyR7/XWBDIVd/pAtAwwOsAgKCeWIZFod1LxgQWkEqYT078jDbJja6QIZRuI/qcFUYl83KU+9GjYP/qUoiEkveYokICXbLkloqMk9M9vb5NOawc7P0nRYaRGUHB1xzONinQydNPIealejordLsl7xTR8oyXUWkmTL8I9H8HEhx23vXSPMEZytVwQuPTCZbkygpJ5Z+dqLx7G7kXHGM2aWrckdcGZA7S24aqqheTQyQ2CMhxxR6noFjcdyMMKfEaloTas1wvSz+k0CI51XdmH8YcsRuvnR8KNvbR9QDhnhJS5cu5diniJN/p4KnNgysPPJkoCoV50BOrhZHBpUpmpUQm6WVoxitDEfsg==;PLwyZc1kmSDsdSBcNjx0uw=="
 ---
 

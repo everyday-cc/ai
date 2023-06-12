@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialize
 webUrl: "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialized-intelligence/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: VentureBeat
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Contextual AI launches with $20M to build more reliable large language models for enterprises"
-    excerpt: "Palo Alto, California-based Contextual AI raised the capital from a group of investors led by Bain Capital Ventures. The investment firm was joined by Lightspeed Venture Partners, Greycroft and SV Angel."
-    publishedDateTime: 2023-06-07T21:14:00Z
-    webUrl: "https://siliconangle.com/2023/06/07/contextual-ai-launches-20m-build-reliable-large-language-models-enterprises/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image-1.png"
-        width: 1032
-        height: 580
-        isCached: true
   - title: "Putting the ‘artificial’ in intelligence: the morality of the digital mind"
     excerpt: "Artificial intelligence is, well, artificial. And the use of ‘intelligence’ in this label is a misnomer. AI machines cannot think. They are just (increasingly) very,"
     publishedDateTime: 2023-06-12T02:39:00Z

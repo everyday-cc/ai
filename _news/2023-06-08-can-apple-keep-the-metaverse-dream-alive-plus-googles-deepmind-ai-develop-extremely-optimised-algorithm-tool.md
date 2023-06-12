@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s DeepMind develops a system that writes efficient algorithms"
-    excerpt: "Sorting is so basic that algorithms are built into most standard libraries for programming languages. And, in the case of the C++ library used with the LLVM compiler, the code hasn't been touched in over a decade."
-    publishedDateTime: 2023-06-07T21:44:00Z
-    webUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/"
-    ampWebUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1403644222-800x533.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Inside Google DeepMind’s approach to AI safety"
     excerpt: "Lila Ibrahim, COO of Google DeepMind, will speak at TNW Conference on June 16. Ahead of the talk, she shared the lab's approach to AI safety."
     publishedDateTime: 2023-06-09T09:10:00Z
@@ -55,22 +39,24 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "OpenAI, DeepMind will open up models to UK government"
-    excerpt: "Google DeepMind, OpenAI and Anthropic have agreed to open up their AI models to the U.K. government for research and safety purposes, Prime Minister Rishi Sunak announced at London Tech"
-    publishedDateTime: 2023-06-12T10:07:00Z
-    webUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/"
-    ampWebUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
+  - title: "Speech-to-Speech Translation: DeepMind Deploys New Approach to Train Translatotron 3"
+    excerpt: "Google introduces unsupervised training in the Translatotron 3 speech-to-speech translation model, using monolingual speech-to-text datasets."
+    publishedDateTime: 2023-06-12T10:45:00Z
+    webUrl: "https://slator.com/speech-to-speech-translation-deepmind-deploys-approach-train-translatotron-3/"
     type: article
     provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 74
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/31/GettyImages-1248338134-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Slator
+      domain: slator.com
+    quality: 29
+  - title: "DeepMind achieves giant leap in sorting speed"
+    excerpt: "Sorting, or data structuring, has been a core principle of computing operations since the first computers were developed."
+    publishedDateTime: 2023-06-12T13:19:00Z
+    webUrl: "https://techxplore.com/news/2023-06-deepmind-giant.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 19
   - title: "The Download: carbon-capturing super trees, and DeepMind’s sorting breakthrough"
     excerpt: "The news: A year after DeepMind used a version of its game-playing AI AlphaZero to find new ways to speed up the calculation of a crucial piece of math, the AI research lab has pulled the same trick again—twice."
     publishedDateTime: 2023-06-08T12:10:00Z

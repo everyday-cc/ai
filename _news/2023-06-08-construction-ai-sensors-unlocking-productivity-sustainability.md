@@ -55,6 +55,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI’s potential and threat calls for a studied response"
+    excerpt: "AI’s potential and threat calls for a studied response. Governments, industry leaders and academia must work together to develop transparent guidelines"
+    publishedDateTime: 2023-06-12T15:51:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/editorial/ais-potential-and-threat-calls-for-a-studied-response/article66961198.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/opinion/editorial/ais-potential-and-threat-calls-for-a-studied-response/article66961198.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/editorial/ais-potential-and-threat-calls-for-a-studied-response/article66961198.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
 
 secured: "578KMxc/cT5sCa6dj1hxw2wkcQ09HvrYUdy7N/FJFjAZaECSTtRuZJGbXFe+7bAYYI8DHyD/gnlWtScSEWUbWT0qKFqAHUSHKgZYrVpR5jxKo1rtzS7Eionv2GmlwylPzhJ2tVwNK/1kiuTfibPPIhYt0A6iKv9cxI2YjWajXIy3V0R5nGhc/FvX0JWtkilZV9AnRXKU22TaaRl6fwk6escN+CkfFXuTq2bQGqPcAzoQeveKg7AD0z5scMEnaq8VIwJq2bQqcl/YdiAK52lHGkxJ9gcnCcHOo8FMmVtrdH72Mk63gvHXJaXxK3FUGwd45XM8NkUoKv+9TCP1FIj6S+mmPH/OFgs+bdcjYW30BIY=;e/cfXGUxUwcaRdgjPsZ7PQ=="
 ---

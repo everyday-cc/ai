@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s generative AI support in Vertex AI is now generally available"
-    excerpt: "Google's generative AI support in Vertex AI, the company's machine learning platform, is now generally available."
-    publishedDateTime: 2023-06-07T20:45:00Z
-    webUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/"
-    ampWebUrl: "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135936636.jpg?resize=1200,801"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Google's Generative AI Platform Is Now Available To Everyone"
     excerpt: "With the service becoming GA, enterprises and organizations could integrate the platform's capabilities with their applications."
     publishedDateTime: 2023-06-09T05:30:00Z
@@ -54,6 +38,22 @@ related:
     quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6482b8837a0f4f82412c5c61/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "5 ways to explore the use of generative AI at work"
+    excerpt: "ChatGPT and other generative AI tools have captured the public imagination. Here's how you can turn a much hyped tool into a productivity boon."
+    publishedDateTime: 2023-06-12T13:52:00Z
+    webUrl: "https://www.zdnet.com/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/6448985610910fb9c6027b90eaf317dac61b65da/2023/06/12/c6a475c6-2642-4195-b8e8-9aabbb64edee/gettyimages-1252207238.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -99,6 +99,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Salesforce announces AI Cloud to empower enterprises with trusted generative AI"
+    excerpt: "The new AI Cloud platform from Salesforce offers real-time generative AI capabilities easily incorporated into business operations."
+    publishedDateTime: 2023-06-12T14:52:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-announces-ai-cloud-to-empower-enterprises-with-trusted-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_marc_benioff_stands_below_a_puffy_glowing_blue_cloud_ra_0acbf8bf-d49f-4e8b-8bb0-7e63ea41c82e.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "Gong launches customizable generative AI models to streamline sales workflows"
+    excerpt: "Gong unveiled a suite of proprietary generative AI models designed specifically for enhancing sales productivity."
+    publishedDateTime: 2023-06-08T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/gong-launches-customizable-generative-ai-models-to-streamline-sales-workflows/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
   - title: "Google's generative AI platform ‘Vertex’ now available to everyone"
     excerpt: "Google announced the general availability of generative AI services based on Vertex AI, the machine learning platform as a service (ML PaaS) offering from Google Cloud. With the service becoming generally available,"
     publishedDateTime: 2023-06-12T04:51:00Z
@@ -115,29 +138,15 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Lilt Launches Generative AI Multilingual Writing App"
-    excerpt: "New Tool Enables Quick Generation and Finalization of On-brand, Locally Relevant Content SAN FRANCISCO, June 8, 2023 /PRNewswire/ -- Lilt, the"
-    publishedDateTime: 2023-06-08T15:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-launches-generative-ai-multilingual-writing-app-1032378920"
+  - title: "Snorkel AI looks beyond data labeling for generative AI"
+    excerpt: "Snorkel AI is announcing new capabilities that extend beyond data labeling to help organizations, curate and prepare data for Generative AI."
+    publishedDateTime: 2023-06-12T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/snorkel-ai-looks-beyond-data-labeling-for-generative-ai/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Intuit reveals generative AI system across its platforms"
-    excerpt: "The AI will have custom-trained financial language models specialising in solving, tax, accounting, cash flow and personal finance challenges."
-    publishedDateTime: 2023-06-07T20:56:00Z
-    webUrl: "https://www.accountantsdaily.com.au/technology/18638-intuit-reveals-generative-ai-system-across-its-platforms"
-    type: article
-    provider:
-      name: accountantsdaily.com.au
-      domain: accountantsdaily.com.au
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1684912798/Accountants%20Daily/sasan-goodarzi-intuit-ad_g3icx2.jpg"
-        width: 1200
-        height: 776
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Generative AI is coming for healthcare"
     excerpt: "ChatGPT and its close generative AI cousins (like Bard and MedPaLM) are now being deployed and tested in healthcare settings. At its simplest, generative AI is a tool or algorithm that can create astonishing new content (think poetry,"
     publishedDateTime: 2023-06-08T12:17:00Z
@@ -161,15 +170,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Ethics of Using Generative Artificial Intelligence in the Practice of Law"
-    excerpt: "Understanding how generative AI solutions collect, store and use the information that ... certainly will not be sufficient to rise to the level of expected competence by ethics officials. In other words, arguing that the information provided by ChatGPT ..."
-    publishedDateTime: 2023-06-07T20:17:00Z
-    webUrl: "https://ipwatchdog.com/2023/06/07/ethics-using-generative-artificial-intelligence-practice-law/id=162097/"
+  - title: "Snorkel AI Introduces New Foundation Model Data Platform to Bring the Power of Programmatic Data Development to Generative AI"
+    excerpt: "Press Release Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic data development approach. With Snorkel AI's Foundation Model Data Platform,"
+    publishedDateTime: 2023-06-12T14:26:00Z
+    webUrl: "https://venturebeat.com/business/snorkel-ai-introduces-new-foundation-model-data-platform-to-bring-the-power-of-programmatic-data-development-to-generative-ai/"
     type: article
     provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 31
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 22
 
 secured: "TWuzBSPH7H2DJfZTMGIj/5fChbOl+95nXs4/FQ+Li/A+STXP2iLmzi66Mcg3n5EKjdLTcNSbiKely7yvwgCZ674poFgCM2it0nibb1Stfq5cY9g8MAODBbWWZioS7nCrdOreDqCrpcQygWf1PBbWPdvm54T9ERc9mGAhglYGfym7N59Phx7MFyBDUm+K3UUWq5ZxBDimjMuBQLMXszStCTdMWnrj7YcXNlDR9XZu4PP4KpJyav6VtoOk/3h+vFS9CxH6B3FcZU8uoGd3vhBxBFjSXcqybcs57M1+L3mCvnVtQ12YbBHzNcaclaUuLl5zitqTtE7HGaGaemi9CaPcwoFElXQbdi8cXgXM+/FBs1jcIWs7r9lQW/uyYZXVJs5RsmjIFRdnWUYQlGpXkWHd2HzTg2mJWdn56yr2ODJN9SpyRK9Z1d9g0deEEZT3kUwKyiSfoTvjdVWhQ/iyd2llBSZuCRaJn4CkdQW8BlQruVVQmghMipfvmwqR0NslB1GuzkvxECmQQL49opGrBLgH1w==;2HdQDP7xcll0zQ/qcfKPKg=="
 ---

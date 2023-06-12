@@ -27,60 +27,119 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s DeepMind develops a system that writes efficient algorithms"
-    excerpt: "Sorting is so basic that algorithms are built into most standard libraries for programming languages. And, in the case of the C++ library used with the LLVM compiler, the code hasn't been touched in over a decade."
-    publishedDateTime: 2023-06-07T21:44:00Z
-    webUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/"
-    ampWebUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/"
+  - title: "OpenAI CEO calls for global cooperation to regulate AI"
+    excerpt: "Sam Altman, the CEO of ChatGPT maker OpenAI, used a high-profile trip to South Korea on Friday to call for coordinated international regulation of generative artificial intelligence, the technology that underpins his famous chatbot."
+    publishedDateTime: 2023-06-09T11:47:00Z
+    webUrl: "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
+      name: CNN
+      domain: cnn.com
+    quality: 87
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1403644222-800x533.jpg"
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230609034602-01-sam-altman-chatgpt-060923-restricted.jpg?c=16x9&q=w_800,c_fill"
         width: 800
-        height: 533
+        height: 450
         isCached: true
-  - title: "Inside Google DeepMind’s approach to AI safety"
-    excerpt: "Lila Ibrahim, COO of Google DeepMind, will speak at TNW Conference on June 16. Ahead of the talk, she shared the lab's approach to AI safety."
-    publishedDateTime: 2023-06-09T09:10:00Z
-    webUrl: "https://thenextweb.com/news/inside-google-deepmind-ai-safety-strategy-lila-ibrahim"
+  - title: "OpenAI CEO Calls for Collaboration With China to Counter AI Risks"
+    excerpt: "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement."
+    publishedDateTime: 2023-06-10T05:19:00Z
+    webUrl: "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-4.jpg&signature=95de9df374e2fef286cd748ac5d07e5c"
+      - url: "https://images.wsj.net/im-797978/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Can Apple keep the Metaverse dream alive? Plus, Google's DeepMind AI develop \"extremely\" optimised algorithm tool."
-    excerpt: "After Meta boss, Mark Zuckerberg has spent countless hours and billions of dollars on his Metaverse dream, has Apple just blown that dream out of the water with its new spatial reality headset? Plus,"
-    publishedDateTime: 2023-06-08T06:53:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/drive/can-apple-keep-the-metaverse-dream-alive-/102458142"
+  - title: "A Call For The Ethical And Responsible Use Of AI"
+    excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"
+    publishedDateTime: 2023-06-08T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/a-call-for-the-ethical-and-responsible-use-of-ai/"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 32
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "OpenAI CEO Sam Altman visits South Korea as country seeks to encourage AI development"
+    excerpt: "After crisscrossing Europe last month meeting lawmakers and national leaders to discuss the prospects and threats of AI, Altman has travelled to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea - all this week."
+    publishedDateTime: 2023-06-09T01:34:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 52
     images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/5ad45e8c5f9db438c30c9e71f6e44722?impolicy=wcms_crop_resize&cropH=1103&cropW=1960&xPos=0&yPos=0&width=862&height=485"
-        width: 862
-        height: 485
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399065870.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "The Download: carbon-capturing super trees, and DeepMind’s sorting breakthrough"
-    excerpt: "The news: A year after DeepMind used a version of its game-playing AI AlphaZero to find new ways to speed up the calculation of a crucial piece of math, the AI research lab has pulled the same trick again—twice."
-    publishedDateTime: 2023-06-08T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/08/1074316/the-download-carbon-capturing-super-trees-and-deepminds-sorting-breakthrough/"
+  - title: "OpenAI’s chief Sam Altman meets PM Modi, discusses startup ecosystem’s benefits from AI"
+    excerpt: "Sam Altman, chief executive officer of ChatGPT’s parent company OpenAI, on Thursday met Prime Minister Narendra Modi in New Delhi to discuss the potential of artificial intelligence (AI), and the need for global regulation. “Great conversation with @ ..."
+    publishedDateTime: 2023-06-09T15:46:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai-11686325363721.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai/amp-11686325363721.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai/amp-11686325363721.html"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 15
+      name: Mint
+      domain: livemint.com
+    quality: 49
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/09/600x338/ANI-20230609032-0_1686325462996_1686325504553.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "OpenAI’s CEO Calls on China to Help Shape AI Safety Guidelines"
+    excerpt: "China should play a key role in shaping the artificial intelligence guardrails needed to ensure the safety of transformative new systems, OpenAI Inc.’s Chief Executive Officer Sam Altman said."
+    publishedDateTime: 2023-06-10T03:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-10/openai-s-ceo-altman-calls-on-china-to-help-shape-ai-safety-guidelines"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "OpenAI CEO says 'optimistic' on global AI coordination"
+    excerpt: "The CEO of ChatGPT maker OpenAI on Monday said a tour of capital cities had left him \"quite optimistic\" about prospects for global coordination on artificial intelligence (AI). The public face of the startup,"
+    publishedDateTime: 2023-06-12T09:11:00Z
+    webUrl: "https://www.aol.com/news/openai-ceo-says-optimistic-global-061145122.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/a918d58a1babd296503473bae2894330"
+        width: 800
+        height: 577
+        isCached: true
+  - title: "OpenAI CEO Sam Altman encourages South Korea to supply chips in AI boom"
+    excerpt: "Altman, after crisscrossing Europe last month meeting lawmakers and national leaders to discuss AI's prospects and threats, has travelled this week to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea."
+    publishedDateTime: 2023-06-09T13:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/openai-ceo-encourages-south-korea-to-supply-chips-in-ai-boom/articleshow/100879979.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+  - title: "OpenAI CEO highlights South Korean chips sector for AI growth, investment"
+    excerpt: "OpenAI CEO Sam Altman encourages South Korea to lead in AI chip production, expressing interest in investing in Korean startups."
+    publishedDateTime: 2023-06-10T10:29:00Z
+    webUrl: "https://cointelegraph.com/news/openai-ceo-highlights-south-korean-chips-sector-for-ai-growth-willing-to-invest"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 33
 
-secured: "HNXlclUsMo17MRgwI9dbQnJsEkKLtesM6jWNNBRnTGVpoI5CYJqDCjS35ejzuzleRpbti/aFXVMB0XC9bJ7Gfq02GIfFd7JjZoMz2auCLezPLA8zI2zov3WmDVavAuTU4JZNdNr8U3ZYrnEpjJmRq7x7hpaKYx0+YsCvQ0CvwdYDt59Fj0eNn/GIF3tnJU6W0BOV8afiein++K8S4/jOch7HKjzb6howQSYkCKvX0YEhDhLH6hk1on94sftyO4Xg1/6AOpiavC6fXfUDQhS7VfVfG5zXgWSFkfmGohN81cT6/bIJR+s3cKOUHT8KB78v7JNExpZ2RIH59t++a6Zx9saoxNtKhQE9x7H1fRsPXBo=;IWrGyvk9hq2cCkHNwr8ISw=="
+secured: "03//WjQ/mMrkq8btt46gH2C5NbB9oDTBqOJ2XkCeYCtuyO4F0ftWpVx4m5GTvJotEY0U5JwQiLuDVMmZni+Xwren1TJMp3uwKqs8vU9aeA6ycMlwrP+n+PgS0n8pLBUTKs4yspRZun6eDIc7sxGc8ZX8Suo6fMqo9fQXxWhvxv7Hkt9/tfKeaTJRNp7NidPU/lh+3WJe//CjSuAMmgPOUda4gbbNOckrJYvJlMCwi/NmWG/m3V5GwRNi8F5rSSblY/9umOU0Gvqp4L61nElAFW1xeDQr1GGjKVZUz6uPajZWrWwQC0XW+72kQ5lWWg5VbFphI2e2lr5v77MAHinUeILVFU8PSKDmw7ARbdgQMW/f3Az7oBjxkPzQ6sMGYdsNUPNB4spIcF9ociHfn3xqrmdWZUlnGvCJwYGqbM92i7mWUlrCPpl1oy6soU5T0it0IE8P/LSgQoOqbhkU+Qb6IWWayYY5lEkohMoSLem0jHDUnDOhczEbIADpxQbAaStb8YyhhFaH1ygCfbYL83stOw==;KCEo+efRB9G30VDPI6nvoA=="
 ---
 

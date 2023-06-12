@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-arti
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Financial Express
@@ -40,6 +40,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How AI Will Accelerate the Circular Economy"
+    excerpt: "Despite living on a planet with finite resources, our economy remains largely linear and full of single-use products. The shift toward a circular economy, where companies recover or recycle resources,"
+    publishedDateTime: 2023-06-12T12:06:00Z
+    webUrl: "https://hbr.org/2023/06/how-ai-will-accelerate-the-circular-economy"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "Z71Il3JQ7H1ENgcWgFfzgctXoriRPNNhTzjP/XCeKOQoInnHqefYhQopGYzun0fQByVBDst7Q087MdEy9jiIG7tdKVgzVm1dGjJLPJBhJ1a1SJZjrm4PJQXzIR6/itmJ6qGPlrDdU9ihIzfyK83uJfvSs8zJNGVIA0tWkuyTQ/fB53rA8XWS31lu++X/zXAo+qGqP7G5Sl0FBybTQrniGutRici1/tWFnBgT0h1HWptkCF4o6D7yihkZJE5LH8Q+LuknR2M/NZNRRDStzzd90cnJ/JXzX/R0nHFaggtZsgHZoFC1HkXDnI3yKk/tE2nNzDVXoL3ByJ3z+joQjxnIpif3lc1m8gxpZC0JKjWFlRc=;JcgmI9///uUoxyvCaGsSvQ=="
 ---

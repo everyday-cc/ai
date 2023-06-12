@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/06/waymo-self-driving-car-kills-dog-i
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/waymo-self-driving-car-kills-dog-in-unavoidable-accident-according-to-the-company/amp/"
 type: article
 quality: 58
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Waymo car kills dog amid increasing concern over robotaxis"
-    excerpt: "Collision occurred as canine ran out from behind another car, but autonomous vehicle could not stop in time to avoid contact"
-    publishedDateTime: 2023-06-07T19:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/e00f02701042ab5e25107c0616d98bbbf908dad3/0_190_4704_2823/master/4704.jpg?width=620&quality=85&auto=format&fit=max&s=f3e82d73872bffddfbf35a8c1eaa33f8"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Waymo self-driving car killed dog in accident: Report"
     excerpt: "As per the report, a self-driving Jaguar I-Pace car was travelling on Toland Street, a slow-speed street close to Waymo's depot, when a dog ran into the road. At the time of the incident, the car was in autonomous mode, with a human safety operator at the ..."
     publishedDateTime: 2023-06-08T07:28:00Z

@@ -25,6 +25,17 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Converging Generative AI With Blockchain Technology"
+    excerpt: "The transformative impact of technologies such as blockchain and generative artificial intelligence (AI) can be seen in almost every aspect of business and our lives."
+    publishedDateTime: 2023-06-12T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/12/converging-generative-ai-with-blockchain-technology/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+
 secured: "lMmkvDfC5Bob3q5vmmLfNLqAco4izHz4u9AOBe+GnhX3Re/HOYwTqJKbLdVfBho3f15iMwPnOsMgmsoAXwt1Pqbd8XthuuhjZn0WEj16+Yk7mIEd8WHsXhBY4LVCPG6rUIgZIYrW9M9gmwdxPMqM41ivXdDvg8f03Xsx10tgnvxw7VD4QaXQ/NYZP3CC+NClwajPL48DVtoA4iCg43lkK7qOLJo614oLJ8ikmzioOOn7YEFd/JnmoJJsy/t4q9D52pe83dlchQVYQ1g34v3OnyttezCWXfpbl6ftlhKgl4a+sFUp6relJNDQ0Rp6CJKc+3GFnZMEaHHs7mqgRUqy91fa7i2ZSRDxsWgdqzEP+WQ=;345lIY37IbvgfvF1MnDwZQ=="
 ---
 

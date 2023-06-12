@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/herstory/2023/06/women-leaders-inclusion-key
 webUrl: "https://yourstory.com/herstory/2023/06/women-leaders-inclusion-key-enterprises-ai"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "IC designers, IP providers eyeing growing ASIC demand amid AI boom"
-    excerpt: "AI has not only become the most important keyword in the entire tech industry but also driven major cloud service providers to gear up efforts to develop their own computing chips. But given the high threshold for non-semiconductor firms to enter IC designs,"
-    publishedDateTime: 2023-06-12T05:47:00Z
-    webUrl: "https://www.digitimes.com/news/a20230612PD200/asic-hpc-ic-design-distribution-mediatek-novatek-microelectronics-broadcom.html"
+  - title: "Register now for the Transform Women in AI Breakfast and nominate leaders for the Women in AI Awards"
+    excerpt: "The Transform Women in AI Breakfast and the Women in AI awards are both fast approaching, July 11-12 in San Francisco."
+    publishedDateTime: 2023-06-12T14:41:00Z
+    webUrl: "https://venturebeat.com/ai/register-now-for-the-transform-women-in-ai-breakfast-and-nominate-leaders-for-the-women-in-ai-awards/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 54
     images:
-      - url: "https://img.digitimes.com/newsshow/20230612pd200_files/1_b.jpg"
-        width: 640
-        height: 426
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/i-Pw8HBNc-X3.jpg?w=1200&strip=all"
+        width: 1196
+        height: 690
         isCached: true
 
 secured: "mWRy439+/QpUM7yXo8ITzjO3OH1j0jifDH8Dj3WJFf7zKr0LiCVgaU6Agz/A7UxjkCsXuF12rpKaOI675PGG4hsYRmnQcDyO+6lmkvm6kB0wQ8JYWhnGeexeChWow2OMF8tcky0Fztq+k1dr++/hUgb57H0AZfEwYZvq9pUfWZo7hMmGocEx5RfZykF+kmHuwgBCPBb9gMmeOlaD515NdMeNQQvLqRicRWGiLUsFBK8cRzB7T5K7dPA6IxKLDmhw31pYec+EpCNyIFLfPiqBnMPrR1cA2H+z4MBuQQY0mLSdn7LU8t+kQQtXt8+drIfboAW8qNGTtFL+fwAH0Ip1DJp8nCLKm0BgiEEnPQrjiqQ=;VjlgyQl/Pyio0i+vpBr4Cg=="

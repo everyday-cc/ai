@@ -38,7 +38,7 @@ related:
     provider:
       name: La Patilla
       domain: lapatilla.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.lapatilla.com/wp-content/uploads/2023/06/RTS5QF5G.webp"
         width: 770

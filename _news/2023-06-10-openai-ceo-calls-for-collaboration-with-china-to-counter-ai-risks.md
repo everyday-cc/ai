@@ -44,6 +44,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "OpenAI, DeepMind will open up models to UK government"
+    excerpt: "Google DeepMind, OpenAI and Anthropic have agreed to open up their AI models to the U.K. government for research and safety purposes, Prime Minister Rishi Sunak announced at London Tech"
+    publishedDateTime: 2023-06-12T10:07:00Z
+    webUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/"
+    ampWebUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 74
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/31/GettyImages-1248338134-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A Call For The Ethical And Responsible Use Of AI"
     excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"
     publishedDateTime: 2023-06-08T13:30:00Z

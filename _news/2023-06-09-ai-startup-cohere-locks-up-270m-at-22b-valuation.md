@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 420
         isCached: true
+  - title: "Unicorns are hard to come by, unless you're an AI startup"
+    excerpt: "Some of the largest funding rounds include OpenAI's deal with Microsoft Corp. that valued the ChatGPT maker at $28 billion, and Cohere, a generative AI startup founded by ex-Google researchers, raising $250 million. The continued investment in artificial ..."
+    publishedDateTime: 2023-06-12T13:31:00Z
+    webUrl: "https://www.bizjournals.com/wichita/news/2023/06/12/generative-ai-unicorn-startups.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "7yY8U4/biLdRtRZdz3gEejSuMOyIgovWPMFKwa4zqwqMEeUGr0bQSjHu898+xDH7hh2KgasCf8rPRIGSCMjvAMdq5blI0SgLExK6B7dKAD2gxjkCT7JJ+I4LyU3bgkRl1BogWLA98RRSEYl//0DF7kFLdFdBv6AN4yJz798xWhhuOf+PAM2Dymw3gg8FBrKY7dh/8x4SR2P8fG6cQy8+AwKcuoUjahtDQuoIdN4t+zaaUeh1reIp4BzXaBWh06x76T5Gjo+UkQsqQuMEYNy7sdYjkIIvrI8NU9LlUhExi6ADYI28efwowPBX/JxVnvqdk2OIWp2LTkjxzqlHISHoGXMKtaDvHtbj7MrHHL2eoiQgGKNXvAAbSOByvDQL5NDHLz6IN/RV/cPpZJFDtntVMAIWlgnuFi/CzYjiKxLtdjeNPi3daZD5FT9Nki0+IgswDO1dSmf3x/ErqahhMvSoGeM6/TuGcM0KcRGo0FwHN877KdSgKtCE7YB+IOIg1JNEKbCoS6oSGjvdblPq9VtW1A==;q7gjvUvEq9KWoaDQYeRt6g=="
 ---

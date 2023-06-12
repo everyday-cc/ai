@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Microsoft has added ChatGPT into the secure US government Azure cloud"
+    excerpt: "Microsoft has announced its Azure OpenAI Service is now available to the US government in an even more secure format, with specific compliance promised for regulatory standards for classification and security."
+    publishedDateTime: 2023-06-12T15:03:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/E9JMqiF2RG9PQAUBVnHM6h-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft used AI to refrain people from downloading Chrome"
     excerpt: "It comes as no surprise that ever since the success of ChatGPT and its subsequent integration into the Edge browser as the Bing AI chatbot, Microsoft has gone from being the underdog in the search engine market to now seeing themselves fighting for market ..."
     publishedDateTime: 2023-06-08T22:40:00Z
@@ -158,6 +172,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "AWS distances itself from Google, Microsoft with ‘unique’ approach to generative AI"
+    excerpt: "AWS has emphasised its commitment to providing customers with the widest range of AI tools, in a strategy that distances it from other hyperscale AI providers. The firm, the third of the hyperscalers to fully enter the generative artificial intelligence (AI) foray,"
+    publishedDateTime: 2023-06-12T12:15:00Z
+    webUrl: "https://www.techcentral.ie/aws-distances-itself-from-google-microsoft-with-unique-approach-to-generative-ai/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 45
   - title: "Satori's Data Security Platform is Selected for the Microsoft Pegasus Program and is Available in the Azure Marketplace"
     excerpt: "Satori’s continued product innovation and customizable data security platform is recognized by its inclusion in the Microsoft for Startups Pegasus Program, an invite-only program that connects growth-stage startups to thousands of Microsoft’s top customers."
     publishedDateTime: 2023-06-08T13:08:00Z

@@ -55,15 +55,6 @@ related:
         width: 620
         height: 454
         isCached: true
-  - title: "Free - 11 AI Courses @ Google Cloud"
-    excerpt: "Generative AI Fundamentals(cloudskillsboost.google) Earn a skill badge by completing the Introduction to Generative AI, Introduction to Large Language Models and Introduction ... to-sequence tasks such as machine translation, text summarization, and ..."
-    publishedDateTime: 2023-06-07T21:55:00Z
-    webUrl: "https://www.geekzone.co.nz/forums.asp?topicid=305851"
-    type: article
-    provider:
-      name: Geekzone
-      domain: geekzone.co.nz
-    quality: 19
 
 secured: "xl6StuB+RxzCllXZMr6LmP7FNS7n+FKAYAKdjdE8NUvAa5iJA6DBkfsCRunREwILZoJhj+hY+HJ5WEFSicywV4rTf/PTiO50joTekHUSU/rrZUBt60LEIkBa1wD56DJFJdag+ZtoX0q1vQs5h+ct/wplnDJ3bSbexBY3uIBjgwhGHeqANkpQTMNDm3mFREjmEyB6R0/vMltq3upOP7a/KMIA5t6Uc6lPh48pZ67J8GSkVJu2dA5BGuOJ4KhEi/FHyAFjjCht6TjOjMdB0h5BYUeqrM7K4POeI9NG6Y4l5TAJK5YrnsB8/bHF9p+1QvgTsS1GzWoFD3fKEaSOdQmPPXrHxqIeY7vY8yhNUsx0d1arjbSUQmQjHvmeQ9AbHKO9Bk2z5vQcTTJPJL0y78LDp19bfa74gUM1bIwStvlT1jVj97+HuP2HCQDLgP3e6VEVyXaZ+8YyqSnOVIzJmwxhD8pinbA7DvkoAwu+vv4gjMdx4QwzIRkEmcSGrI5Le3qHXo1KY0ggFuDckgfFGYkQ2Q==;POjatFKArx+5Wxn/pkYslA=="
 ---

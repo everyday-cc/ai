@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/wordpress-launches-generative-ai-assist
 webUrl: "https://venturebeat.com/ai/wordpress-launches-generative-ai-assistant-to-enhance-content-writing/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: VentureBeat
@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Automattic launches an AI writing assistant for WordPress"
-    excerpt: "WordPress.com owner Automattic launched a Jetpack AI assistant for the popular content management system on Tuesday."
-    publishedDateTime: 2023-06-07T21:27:00Z
-    webUrl: "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/"
-    ampWebUrl: "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/"
+  - title: "LinkedIn launches generative AI tool to write ad copy"
+    excerpt: "LinkedIn today launched a generative AI tool called AI Copy Suggestions to help advertisers draft texts for their ad campaigns."
+    publishedDateTime: 2023-06-08T15:52:00Z
+    webUrl: "https://venturebeat.com/ai/linkedin-launches-generative-ai-tool-to-write-ad-copy/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/jetpack-ai-assistant.jpg?w=840"
-        width: 840
-        height: 481
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1081412082.jpg?w=1200&strip=all"
+        width: 1200
+        height: 606
         isCached: true
   - title: "WordPress Is Launching an AI Writing Assistant"
     excerpt: "The new tool can create blog posts, change the tone of an existing post, or translate one language into another."

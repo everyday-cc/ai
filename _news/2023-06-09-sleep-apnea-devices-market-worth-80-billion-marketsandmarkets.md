@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32783569/sleep-apnea
 webUrl: "https://www.benzinga.com/pressreleases/23/06/n32783569/sleep-apnea-devices-market-worth-8-0-billion-marketsandmarkets"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,20 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "Surging stockmarkets are powered by artificial intelligence"
-    excerpt: "D o you buy the hype? The release of Chat gpt, a tool designed by Open AI, has kicked off a wave of enthusiasm about artificial intelligence ( ai ). Everyone from spy agencies to law firms is trying to make use of the technology. And investors are working out how they might be able to take advantage of this by buying ai -exposed firms."
-    publishedDateTime: 2023-06-07T20:12:00Z
-    webUrl: "https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence"
+  - title: "Fintech as a Service (FaaS) Market worth $676.9 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Market is expected to experience substantial growth, with projections indicating a rise from USD 310.5 billion in 2023 to USD 676.9 billion by 2028, exhibiting a compound annual growth rate of 16.9%,"
+    publishedDateTime: 2023-06-08T15:39:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/08/9829532.htm"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
-    quality: 37
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230610_FND001.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Fintech as a Service (FaaS) Market worth $676.9 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Market is expected to experience substantial growth, with projections indicating a rise from USD 310.5 billion in 2023 to USD 676.9 billion by 2028, exhibiting a compound annual growth rate of 16.9%,"
+    publishedDateTime: 2023-06-08T17:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/06/08/9829532.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "vmAfd4b79k/G8EhpvY739gNglgmF0wsEDTB1R2FFg7L6jKlgMFMCjjL/DrIRQj1BeWYF3RcwGjAMWJnpEXw5pvU3L/XeAHSbRITITA8uT8bKs7aOF+ioqeQoaPyvOk2CDS/oKbLscUya1jP6371pey4eX2emB3miFRLnEtzp7hkPaF2nyh2VDgUDLCIeV5CzO/rkQp4OA+YyExf+SFpdEGFlQK98YeP4+IieAQRGLuNOIJgIrtBwIk2aJYU9rmsCvsjMbfvRBCHlWz3qbuoyfNPRiIH3Qi6cDrXyVGdnDG5EfVzeZ0yMdq3DvGP9LPtWf8ZxpDDT0iOWsvpJv/4BOih/CKdXa5I2clnoDo2Su8c=;VTTH81nbK888bY6Eep7VYw=="
 ---

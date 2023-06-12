@@ -42,6 +42,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "14.2% CAGR for Facial Recognition Market Share to Reach $12.67Bn, Globally, by 2028 – Exclusive Report by The Insight Partners"
+    excerpt: "According to our latest study on \"Facial Recognition Market Share Report, Forecast to 2028 – COVID-19 Impact and Global Analysis – by Component, Application,"
+    publishedDateTime: 2023-06-12T11:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/g32812820/14-2-cagr-for-facial-recognition-market-share-to-reach-12-67bn-globally-by-2028-exclusive-report-b"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "pZ5GcnpEGII+U8KgIjuCNdr/9ClA2xZctTpVQdV+lZVn8clY7cWUk2j9P/0YjrjxMWf9M+WgoLXPtAmxzw8mapjwwB90nO2GzeONvvfEJwyJvrAGjxMQsylumyD7CiGhGHhuFzCQMlT9OvXSZ1zAn9eFWs/MKz3WMDKKgyZ4TuHvtlu8P3wi1sC6Bm968jjcgjNZt84IgwYjrLO4WM67jVR7Bkzrk3IBynI+/2+Yko7DgmmT2od9ns8w9Y4x/OKqGgusvgTfeqcDtu7r8I0OuJqJcuGmHWSwU9tA4B3/IMngyt7heVvXxWerLwT2UU/oj3JdDRDSXGxRrnIlAKmdm+080mSLjJooj1B1B8EjYXAywYVXu63ZLHuqXXaRgeBpuZF+WZb7Jce2/1P+AKXXCPqW8r1Ao5y+K8BbVc8vOEzyAKSRLTYZNHNoB/4dlHpHVN7sghiDzPQ3LjY6UaEY8MNORSk8habp2gLKgSN5QzTbGJZph8rOaB/7ySdVJvFYHV0dC14PaDqIgfc3M4SDsQ==;LQwqOs+KXOW4YqCZ0ltD+w=="
 ---

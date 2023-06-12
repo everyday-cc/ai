@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "3 AI Stocks That Could Skyrocket in the Next 12 Months"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) stocks continue to cause volatility in the tech"
+    publishedDateTime: 2023-06-08T11:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-could-skyrocket-in-the-next-12-months-1032378081"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Caution! 3 AI Stocks That Could Run Out of Steam in 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is the buzzword of 2023, and that has AI"
     publishedDateTime: 2023-06-08T10:44:00Z

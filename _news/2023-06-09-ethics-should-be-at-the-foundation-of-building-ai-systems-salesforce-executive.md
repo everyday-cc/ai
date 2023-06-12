@@ -25,52 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce doubles down on generative AI with Marketing GPT and Commerce GPT"
-    excerpt: "Salesforce today launched Marketing GPT and Commerce GPT to help enterprises quickly deliver personalized campaigns and shopping experiences."
-    publishedDateTime: 2023-06-07T23:07:00Z
-    webUrl: "https://venturebeat.com/ai/salesforce-doubles-down-on-generative-ai-with-marketing-gpt-and-commerce-gpt/"
+  - title: "The AI Revolution: How Machine Learning is Changing the Way We Live and Work : Sanchar Shakti"
+    excerpt: "In the discussion like this we can talk on & on but raising concerns and suggesting solutions  are not going to work . We need a robust platform where these suggestions become our way of life that turns  our choices into our command says “Productivity Conultant & Founder of Sanchar Shakti” Kabeer Goswami."
+    publishedDateTime: 2023-06-08T15:08:00Z
+    webUrl: "https://www.mid-day.com/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
+    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
+      name: Mid Day
+      domain: mid-day.com
+    quality: 63
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce.jpg?w=1200&strip=all"
-        width: 1200
-        height: 616
+      - url: "https://images.mid-day.com/images/images/2023/jun/Sanchar-Shakti-0806_d.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Salesforce Connections - how Baptist Health personalizes its patient engagement and what AI may bring to the story"
-    excerpt: "How to personalize and scale patient engagement in the hugely competitive US healthcare sector is a major challenge for all providers. New AI tech may be one way to achieve this, reckons Baptist Health,"
-    publishedDateTime: 2023-06-09T11:08:00Z
-    webUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring"
-    ampWebUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
+  - title: "'This is just the beginning of a revolution': DeepMind cofounder says personal AI assistants will make us better at basically everything"
+    excerpt: "Personal AI assistants that can do everything from shop and negotiate on your behalf are the future of AI, Mustafa Suleyman, the cofounder of DeepMind and CEO of Inflection AI, said Tuesday during ..."
+    publishedDateTime: 2023-06-08T14:40:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/articleshow/100831165.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/amp_articleshow/100831165.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/amp_articleshow/100831165.cms"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 35
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 41
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-06/medicine-g81bb96e1e_640.jpg"
-        width: 640
-        height: 427
+      - url: "https://www.businessinsider.in/thumb/100831113.cms?height=275&width=412"
+        width: 412
+        height: 275
         isCached: true
-  - title: "Salesforce Connections - \"No offense to crypto fans, but this is real.\" Salesforce customers react to generative AI news"
-    excerpt: "Salesforce Connections 2023 kicked off with the expected generative AI fanfare - including the launch of Commerce GPT and Marketing GPT. But where do customers stand? I hit the show floor and found out."
-    publishedDateTime: 2023-06-08T10:33:00Z
-    webUrl: "https://diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news"
-    ampWebUrl: "https://diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news?amp"
+  - title: "The AI revolution will change work but nobody agrees how"
+    excerpt: "Goldman Sachs estimated that the technology behind popular AI tools such as DALL-E and ChatGPT could automate the equivalent of 300 million full-time jobs."
+    publishedDateTime: 2023-06-10T04:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-ai-revolution-will-change-work-but-nobody-agrees-how/articleshow/100890168.cms"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 34
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-06/salesforce%20-%20retail%20ai.jpg"
-        width: 1260
-        height: 818
-        isCached: true
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "viRdlM1cIKy6nCSs6l90UYfHjTQo9HzdC1/DoZxrfjTFQbwYUYpqQmeN9PwiRgz+MmhhOx+dnRdSUi9qDJdMvAMLk9tymCtSAbcRhX6QTXqfbNniXIe0jDSYmDo95obg3qzc3X0AikBIWodGCwgcQMtIl82eeKLpjGV0n3BKtXQU+75HLzJcNLmm4OGg+9vx8o9khuqpLteqdUgQAG98ZmxtZocE36xSWsrE8oXCHZToSQ8rAc8N3ELhhnBf5ur19MvAv9cG2TOiqFqWPJtosFuwtt/A0QCsfNxAZsCCikUOAPbvyhTROxOQL2vkasU4dvqO/C1MgoTXFqDYP1MLq3oJSzYgVL9WFKXx76Bv8sycISihYvgv+LcrJGOeKMJE1XgdkALxLLUbIyil4vFkAskJaJwRGGF+bAMzqxfXBR/iDfSnkH3d/FZk0qm2wOfmebc8j2bGHTPcUvviTu2r94o13XDFOKICSIpz1X7YeojbOYWbHC7jAYWFxzb8CpDzDrhSJ8da2gi7ZgwHRlYd3g==;8OJsmpEXtPDFwQzri6ULIQ=="
 ---

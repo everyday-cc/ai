@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -42,38 +42,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Sunak hopes to bring Biden on board for AI safety summit"
-    excerpt: "Prime minister uses Washington visit to push UK as global centre for regulation of technology"
-    publishedDateTime: 2023-06-07T20:30:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
+  - title: "London Tech Week - PM Rishi Sunak promises to regulate AI, but admits UK not up to speed in spreading the benefits to all"
+    excerpt: "Sunak on AI. London Tech Week kicked off today with British Prime Minister Rishi Sunak debating AI regulation and ethics, even if the mainstream media headlines were inevitably mo"
+    publishedDateTime: 2023-06-12T11:59:00Z
+    webUrl: "https://diginomica.com/london-tech-week-pm-rishi-sunak-promises-regulate-ai-admits-uk-not-speed-spreading-benefits-all"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/2796cc8e904d1faae3e12e54ec228e465d4e6e9c/0_94_3839_2303/master/3839.jpg?width=620&quality=85&auto=format&fit=max&s=d1fc6eae00a6c874f53f6c35c06dd63b"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "UK not too small to be centre of AI regulation, says Rishi Sunak"
-    excerpt: "PM uses Washington visit to push Britain as global centre for technology and seek US involvement in safety summit"
-    publishedDateTime: 2023-06-07T20:58:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/2796cc8e904d1faae3e12e54ec228e465d4e6e9c/0_94_3839_2303/master/3839.jpg?width=620&quality=85&auto=format&fit=max&s=d1fc6eae00a6c874f53f6c35c06dd63b"
-        width: 620
-        height: 372
-        isCached: true
+      name: Diginomica
+      domain: diginomica.com
+    quality: 0
 
 secured: "MkA61EiROFBj08fLT4WSwjWccjtDUyz1d36ptYDvdYstoxtd28gH5E3NqM03lc3ITyvejA+PabLg6z1GaR3M97ZZqzgDQD6xDi1DVXQxWEq6ayY6eVcgoNmr4u72rdltjLlYUPl/NP3Z+fzZjci/tXH3fbI6wsmClumMwzr61LF+bX1Xvf89LYmME0kPpSn99hw2T3znitOY8pIjjCcCkv4tWiKDislukVWbJcTpK6lTh7wtAdOZhdIBFtvvDpAUXBDpvMsVBx+mrcFRtwlzuo95CvULEP0HVf2RJPuPQskbxkFgdYbM8qRXzI5vcYSajGS1gV4reUjDYCEU7tgaxzknAg6/k8Hjye946Mcid8LJtNFWZzquODZUceGiaDd+dqVwnXKWYwu7IOSzyv5Gr7WpZk8cZ5hr6Brea8n4LYRSSbnviJkD9kJbsyP+8NvKQi1j330/oL0sA13F2a8xxA6SCbl4GHZ68hOaRLGYCjbTdKlyx5ScqY9bHIF17c3onjUHwbj7/on7ZiR9VeZGZQ==;UksKKXXE2BSpHLLJ5/mVTg=="
 ---

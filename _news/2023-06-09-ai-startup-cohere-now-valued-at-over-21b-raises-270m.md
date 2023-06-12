@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-ov
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: news.crunchbase
       domain: crunchbase.com
     quality: 19
+  - title: "Unicorns are hard to come by, unless you're an AI startup"
+    excerpt: "Some of the largest funding rounds include OpenAI's deal with Microsoft Corp. that valued the ChatGPT maker at $28 billion, and Cohere, a generative AI startup founded by ex-Google researchers, raising $250 million. The continued investment in artificial ..."
+    publishedDateTime: 2023-06-12T13:31:00Z
+    webUrl: "https://www.bizjournals.com/wichita/news/2023/06/12/generative-ai-unicorn-startups.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "Hg35LMo6c3vHErKbUbf09h7H8gH8u7mYeih+4YHphiXPs9OUGOi4x1WKANqnG7ucZwXIpbPcogOfW7OgJTvGn12j49fF9s3ZBNYChZAPCmfxMH99+fGSbeTO2G/s9ofHrPSY9C0KwultEcuSNdOYFlcPLGq0VhrA7OsJcTFpQGDeact9C/R5AyPG39O9SLNexXRHWtyMCQ+yO/hv0KSVbIj0BQD/A/6S8XTz0U01xd5aOUYJgtdwnGKR8tETWNwoNcl2qaJwc7ogUi2d4MtYwtpfXUHK6JWStlVolF03JyHOi1nYBP1kGg3181ovu09ovKh554FttT/Zr4XYxo1gKfFUVgq1RRQVEWubFAySLBNTuVXYBl1i6Fl/QnsbKa0PGGVxekRYHv0j8BWWlYd+94G7qKDDttUyhdGi1Lr940NTQpahLJN5KBCJO21DCFnuxMgQrVK8+nMV8spU8ui0LxpKeGbgmorxqvgBk57rp5z22/is+G6Y9H3EsBiCToCTgfNMOdPpDl/nwhjGLQVgnw==;hvbrCTdqhxM4jCqMY8bxHw=="
 ---

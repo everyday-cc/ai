@@ -47,15 +47,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Britain to host first global summit on artificial intelligence safety"
-    excerpt: "Britain will host a global summit on artificial intelligence safety later this year and Prime Minister Rishi Sunak and U.S. President Joe Biden will discuss the technology at their Thursday meeting, the UK government said."
-    publishedDateTime: 2023-06-07T22:20:00Z
-    webUrl: "https://www.reuters.com/technology/britain-host-first-global-summit-artificial-intelligence-safety-2023-06-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
   - title: "UK to host global AI 'safety measure' summit in autumn"
     excerpt: "The government says the UK will host a global artificial intelligence (AI) summit this autumn to evaluate the technology's \"most significant risks\". There has been a slew of dire warnings about the potentially existential threat AI poses to humanity."
     publishedDateTime: 2023-06-08T00:02:00Z
@@ -72,31 +63,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "UK to host first global summit on artificial intelligence safety: PM Sunak"
-    excerpt: "The summit is expected to take place in the autumn and will gather \"like-minded countries\" to shape a regulatory response, Sunak's spokesman said."
-    publishedDateTime: 2023-06-07T21:43:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/global-summit-on-artificial-intelligence-safety-ai-rishi-sunak-uk-britain-101686173924627.html"
-    ampWebUrl: "https://www.hindustantimes.com/world-news/global-summit-on-artificial-intelligence-safety-ai-rishi-sunak-uk-britain-101686173924627-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/global-summit-on-artificial-intelligence-safety-ai-rishi-sunak-uk-britain-101686173924627-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 55
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/06/07/1600x900/AP06-07-2023-000246B-0_1686171851184_1686174095113.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Britain to host first global AI regulation summit in autumn"
-    excerpt: "Rishi Sunak, UK prime minister, will on Thursday announce that Britain will this autumn host the first global summit on the regulation of artificial intelligence, after a meeting in Washington with President Joe Biden."
-    publishedDateTime: 2023-06-07T21:30:00Z
-    webUrl: "https://www.ft.com/content/3929908e-0f6a-4223-9c1c-5cd68d82a828"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "wnmJbSA07aGZTp0FfvoCfAGcA49lmKbkhaexTaQeirCOE5ox2iktsqe7Lx3CLp4u/32l/Yq3ysvXJyjLo6/ulWnnSp6I28DIWEagSODwhlJrIvdY7PHymA2SyUCYJqFgHlRvOdM/q2mvu670/0N9b2dMNr9zMN37mJYRYmOc2su9OiFX80BqNxuz1W9ZEjMPxwWTb1sAiZT2qKXkrHrDh3jrfNTLemAWYPlUjpvCLxS4GLKchhKt4luijBeDf/aFSyLg/OUR9fjNiEFSEKf/ytkV3thcBCcu3Rwh8LRmYl3oondm1aOjmAncZ8TXPcr6A9jO56/YhWqGPhia+FTUbz6hXxVf1p81smEfd9DdRapa3nlZeHx1aRC6u5gF4Lcf9KaPGNJRdWnLyswvsH1Ux/gLzy3+fMvDZOeJhXNXb64XCUw8j+mYtYT2DRzkHPUk4DmMPObVXHWP2qHMUiqiJZR5agoFaKQ/7SHcp1HraNCBFZB/OVHe2sln0l+h01Y65TwYYDOxzZKQs71FBqHH8g==;sif2ii59YgtvzC2VUPOzHQ=="
 ---

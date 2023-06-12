@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Lawyers who used ChatGPT included fake legal research fabricated by AI chatbot"
-    excerpt: "A couple of lawyers who cited fictitious research concocted by AI bot ChatGPT is asking a New York-based federal judge to spare sanctions."
-    publishedDateTime: 2023-06-09T16:34:00Z
-    webUrl: "https://www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot"
-    ampWebUrl: "https://www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 83
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/263d618f-c90f-4453-825c-0e53ced8d257/65c8223d-3861-4e2a-8508-affb94e3c6f5/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI chatbots offer comfort to the bereaved"
     excerpt: "Staying in touch with a loved one after their death is the promise of several start-ups using the powers artificial intelligence, though not without raising ethical questions."
     publishedDateTime: 2023-06-08T07:55:00Z
@@ -71,20 +55,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/actor-william-shatner.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
-    excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."
-    publishedDateTime: 2023-06-09T17:00:00Z
-    webUrl: "https://www.livescience.com/technology/artificial-intelligence/ai-chatbot-chatgpt-cant-create-convincing-scientific-papers-yet"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/RsTwfc7HXdDsw9UdxSjqwi-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "AI chatbots offer comfort to the bereaved, ethics notwithstanding"
     excerpt: "Thanks to generative artificial intelligence, avatars of departed loved ones can now convey things they never said when they were alive."

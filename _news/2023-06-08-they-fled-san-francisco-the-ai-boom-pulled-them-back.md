@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "Cops yell at stalled self-driving Cruise car to get out of the way during a mass shooting in San Francisco, video shows"
+    excerpt: "A Cruise self-driving taxi disrupted emergency crews at a mass shooting in San Francisco on Friday night, according to witnesses and videos."
+    publishedDateTime: 2023-06-12T14:03:00Z
+    webUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: "https://i.insider.com/648721831eeec400193dd877?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Dog dies after being hit by self-driving car in San Francisco"
     excerpt: "A dog has died after being hit by a self-driving car last month in San Francisco, according to California's Department of Motor Vehicles."
     publishedDateTime: 2023-06-12T01:30:00Z

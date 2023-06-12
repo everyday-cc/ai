@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple Vision Pro: How revolutionary is the headset really? We asked six experts."
-    excerpt: "Apple this week launched its much-anticipated mixed reality headset, the Apple Vision Pro. So, it's a technological marvel, but is it revolutionary? Yahoo Finance asked six experts what they thought."
-    publishedDateTime: 2023-06-07T21:10:00Z
-    webUrl: "https://www.aol.com/finance/apple-vision-pro-revolutionary-headset-162119137.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/M1Y2x6lMQYQojKSMfQc_7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDY-/https://media.zenfs.com/en/aol_yahoo_finance_433/a91272d3fa2be3f33b4f2335c3456081"
-        width: 1200
-        height: 806
-        isCached: true
 
 secured: "p7s+5HKH1zc+TFJLtLX9DUjYjrZAO7urPYEGtkbz9aPUbjsJN8ojAApdy/W7lcBTF7zL7WL4XEP8KbK/DjYrJ29j3Mj6MRmbjE+2lZFEe7uKj7Y+A0SbCiI/kPLtbWBBQnxpwpzhcpgI7QdmngOt1qKnxcR7aYxD/4LT+SVjM4LpbkGmq0e5BR4YK64VyYRvKZRchX/R6pW8AOKI2gNGvPy6TDXb5tL7nswn4/rttQWvtDmYLGlp/pAlfQ2Pqqk0nkgEz3SeCmlB1Jfxr7e70i2V8HsNxUVUhskfWUjq8zEZSA7kO5RDnR66VPUha1vNsK7sRZr3y6UErjOpg8erGoWlDhQQrEgj72plx1nZX7M=;h9AREYQBnkAQ5V0g7YNPzQ=="
 ---

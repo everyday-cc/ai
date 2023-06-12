@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32799034"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32799034"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Benzinga.com
@@ -41,6 +41,15 @@ related:
         width: 395
         height: 250
         isCached: true
+  - title: "14.2% CAGR for Facial Recognition Market Share to Reach $12.67Bn, Globally, by 2028 – Exclusive Report by The Insight Partners"
+    excerpt: "According to our latest study on \"Facial Recognition Market Share Report, Forecast to 2028 – COVID-19 Impact and Global Analysis – by Component, Application,"
+    publishedDateTime: 2023-06-12T11:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/g32812820/14-2-cagr-for-facial-recognition-market-share-to-reach-12-67bn-globally-by-2028-exclusive-report-b"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "ZtC8n/fRjozm9nJE/LKVGiyYQ6W5inexDivkzT1cXgkttXx/V3b92HBu1VlmAnh07n0i864q8OdtL/uec6zjRJpt+ykqYkSq+BOH3qCKh3RGofFtaewP4c1mXe3un/PXRJqGO50nW5AQzBJI1MmavNC5odNqMmZh/fqvZGVB/3bjuArnQ/PlFZg6hULkTxNgyLLk5irImd7oxDSVH1NR0f93CpOB+CLiIX3f0Q3ZhAQJiXeIW0hj3BinwtGtU+H7oYuDzo/yY/teM+4M4tWEB9zbGFBoMKNAC9tWv2xDuS2M5wNcxMeKuVX9Gm7K/l2EYzjmDf7splKBxEDxl/af1r1v8CheC4DQfo5rfAHt3Q8=;5J2s61VFARdBYp5P5s9VAg=="
 ---

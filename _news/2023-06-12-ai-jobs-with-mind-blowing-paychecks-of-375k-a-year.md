@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year.amp"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

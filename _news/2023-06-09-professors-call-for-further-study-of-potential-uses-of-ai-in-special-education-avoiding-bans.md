@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-professors-potential-ai-special.amp"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -55,6 +55,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI’s potential and threat calls for a studied response"
+    excerpt: "AI’s potential and threat calls for a studied response. Governments, industry leaders and academia must work together to develop transparent guidelines"
+    publishedDateTime: 2023-06-12T15:51:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/editorial/ais-potential-and-threat-calls-for-a-studied-response/article66961198.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/opinion/editorial/ais-potential-and-threat-calls-for-a-studied-response/article66961198.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/editorial/ais-potential-and-threat-calls-for-a-studied-response/article66961198.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
 
 secured: "JQJbdboajHcDhLQya4tvCrnx0K6EwtNE48DxeYG/RWQ9t+fEbT3hO2Hy3Pj4nlfjn9UYMGUytJFgOBjmZnzZyn8dEHH88nBqwWThplANQ7b3rYS/2/h/kjkMA8DY7I60BdY0NDt7sVSRp8J+mAkzkl1bV31sxLK8H/FlFwt1CvLlJMfJhHbDdU1Sbf6Wrh6BdRoC52cn7cw6p6clFR26WUWTO0mayKkNjcr12AJTUkmAoiqVdpZ+ZHeYyMsmVXDrnZB00rmKPleijMtnH3SYZMO8XiLgGwysYbf0jTMk4ovJwyVHiCQjpguiJjAfcyN6tXE0xiCEk9E79Gip1qitrXemz20wAjSwo+HRXRL3sNRY0DzG6qU/h9oFStc3UFGq1/TpNbyBmeqSISwxUhGQZ/PkQGS99BCk3LGJ1GGopdRMisPl2lJf/dShpo6Gcy91NPVm9HE8YG5WwqiH+89xY4HLOzOHIBzSeayoGl0lEbV/P1wfKgOjw7hOBE5LEkVyKFIh2RaUOtlvpx9ElKADNQ==;HA+upZ7jBrIPyCUCobGHJg=="
 ---

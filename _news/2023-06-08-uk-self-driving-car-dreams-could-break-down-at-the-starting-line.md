@@ -39,6 +39,6 @@ related:
       domain: asahi.com
     quality: 4
 
-secured: "sRLgn4ORKE+Ve4J5vbKegrjdRfgY7aHypsTm9/NejBRcoJ5paPjP/kemkhtqDGXwXYQpmr0hCq+mZGZSWxlzJj0p5vpdcp8OvxWwQxZua1VU7VlAstVHLvduScacVb0E5iC3uQflM57CEOcqn6UEucs9soLBzOglm1zbLZ3yvXtK2SzmMxFFitZ3t0ABR9FD4Nijb+rQf5ijAcRPp2nComouCHL+19Qe/zR6zMamAhhrjcpn0ar86t2Z5Ach/qjkzwfqTo+tF2rVl432PIfCXWC2bnLrouXo3TWgarofOUGKI0yY6H9KT8mhEt8FmUS9FgkJM2ObYxZO+QhhXYp9qEZbVtTpnxPg4znDxFMRMyU=;6yD+3/eJs8VgiIYbl0bmBA=="
+secured: "OelrEFEJmX/yjT4aNynXKgCLb/fM/4uC2GLFDGxHQKXvUsE2qWrCV0z+jsnG2/EoRVHUozXdP8n1tG/iQV9D8KLu9W/gNaD/WvWYS3oAdPVKkg4rIaQpwzBpOCPqN+3l28MXr+weK5HmVNcPQ8Zkccz5PfL8qOswfgJXDF9LD5xhzONemw9lvYvipdz2Tgsmr0vMItcwiBA4ee/6qGqYpVI6MfS7oYlNSirIY8f5frHlCa0k0WnOecARmRk9BSslMNjd4letAm42DEh5TF9B4N2cWCqsdMNxHO/XsYKj17uq0i9WO4c+/wTaw2Pg986RUJg/MbXJ7o7KXbEP1cY338whf3gf5QcTCgibehBRTf4=;57gHVW036G06BNTHY+UBdg=="
 ---
 

@@ -90,6 +90,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Florida universities study pros and cons of artificial intelligence"
+    excerpt: "As everyone knows, generative AI hallucinates. ChatGPT makes mistakes, it doesn’t give the right answers. It is subject to flights of fancy and depression.\""
+    publishedDateTime: 2023-06-12T13:55:00Z
+    webUrl: "https://www.cltampa.com/news/florida-universities-study-pros-and-cons-of-artificial-intelligence-15798704"
+    type: article
+    provider:
+      name: Creative Loafing Tampa
+      domain: cltampa.com
+    quality: 19
 
 secured: "tCj/TDbBDFB4HBpPhaFLTSuqAPQdXgYir/PXd50Mij+euv+ulT8/hqSY9jdu3FqsbHYekf0mYeBKjbKoI/hfyn9yaIeFbQiYZYXXc487+xF73HOh0p5oKFZc6zV0he4FTLT0o/1wiCAfoLR64kapV8Y4a4cHCWcybgJTc7zIX57PdhdM/baXTwYOqrumLoXOjew6WB83eiKiDJ4/uqHS4l12lOZnJrxfb99gTQvDHlDdzcy+R/L0B8miZFuLrzsip8rhjOgMI2Bp/tYqR8mIXtpbZddGRdKgikZsktHirvdL8CkIsRdeM6dVcvMJVzLEye/AhcbQuPFMOl6LZHr/tVf45SWClKD4cHpOIsXdPnH0gCMFRvQ6JOReESNErhLUjrVP8eein6aAlo2KiUP2nQA+nVDwFsNAZb+JNEV8Mv7y0dMf1ChTE4kHaihRXPkZmC24pA1wwOtvuowdJMz3uvJUd5EpK6qx3xfZWofoAyHvY8WV4xNU3RD9HmFi51frllAmLrXCxiyBTJzm3C1HmA==;whob+CasO4u5+rGKjxW+mQ=="
 ---

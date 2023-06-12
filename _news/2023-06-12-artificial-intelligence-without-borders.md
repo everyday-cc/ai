@@ -8,8 +8,8 @@ webUrl: "https://www.lapatilla.com/2023/06/12/artificial-intelligence-without-bo
 ampWebUrl: "https://www.lapatilla.com/2023/06/12/artificial-intelligence-without-borders/amp/"
 cdnAmpWebUrl: "https://www-lapatilla-com.cdn.ampproject.org/c/s/www.lapatilla.com/2023/06/12/artificial-intelligence-without-borders/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.lapatilla.com/wp-content/uploads/2023/06/RTS5QF5G.webp"
@@ -43,6 +44,6 @@ related:
         height: 371
         isCached: true
 
-secured: "XhNdnqCKzx4ffD5Eup79fLGKslz4eqQDcED58ixqQ2oAeBDZNftnI6yb/O+F1W3wax6vnta5tMc6Mc1VcqfzovzkQm0fVDfVDxCay3qnhYj3xiqOoVvLKiwUrcE7vxEMXj1OiBaNZGU8EK0XfO91WDcN3N6knldRdC1q31Bj5ow5w7PludQglCALkayaDfaAg3vMbydXtlCef9sQdDwKvV4sVMMFYI+FxN7c+VBfV1OWGx3ajeQvJ1a0t1xoNcr4N4wpDAjAqwYhROGm1X73LGbkTM6yigHOB9aMpJXLXxaZr2zmzkebts+IeMXWkmVHHqtL5yaPPUoLAScRuNAmIYPd5EbN1zOWlurYFazeMnQ=;MxZEvcrfy6E1li63o8uu3w=="
+secured: "TlmEaEs1TAEzftT4YNFAr73dqZ9/tj1NRljG1U7tJRNIubeHNKDWHQXsxosflynSSsx57fGWEvKZdcQAxN/8bt3B51Aarz4qvICDoB+Bcaka6la3ef1GEFZ5uCeWu4DrJThAqMCKePi9M61+nmy8CAK91r02XRsmsBP3jznSWZ2daZalkVhmN1agkvkGTL0f0l5MR6Fe50asMjsw5mnwsUCVz8UvmclP2pzO5fzwgYaA3e51UflOEh4PfKy3gHpJNq+gcv65e7/5E+qLam9qsE7zQc5LEwZjYWYSzHWwsYreJn24Pvfaf/X8AWi3Cc20SrBzO85aWnO0dd7H+4dRdwIldsIqilS/9EEJ6JQSbtrHSrOl9ECsk40VFxKbwkParLscS7pImkTE4+71fvU6542awouzyXw5q+TQPR5NDJXTQmBUBe8fhKCRGxxIJixxvpytT9P4mKJQAoNw9rgtDMHXyOooA+zR42nTA75y+mTrtGykr0KKqPdszWzisq+lniYRFZXSv5YHNvLidvQJxA==;PjRCMQhygsIARco2BmyK6Q=="
 ---
 

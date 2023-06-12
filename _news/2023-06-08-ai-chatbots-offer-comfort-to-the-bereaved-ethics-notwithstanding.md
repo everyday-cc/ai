@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Lawyers who used ChatGPT included fake legal research fabricated by AI chatbot"
-    excerpt: "A couple of lawyers who cited fictitious research concocted by AI bot ChatGPT is asking a New York-based federal judge to spare sanctions."
-    publishedDateTime: 2023-06-09T16:34:00Z
-    webUrl: "https://www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot"
-    ampWebUrl: "https://www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 83
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/263d618f-c90f-4453-825c-0e53ced8d257/65c8223d-3861-4e2a-8508-affb94e3c6f5/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI chatbots offer comfort to the bereaved"
     excerpt: "Staying in touch with a loved one after their death is the promise of several start-ups using the powers artificial intelligence, though not without raising ethical questions."
     publishedDateTime: 2023-06-08T07:55:00Z
@@ -78,20 +62,6 @@ related:
       - url: "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
-    excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."
-    publishedDateTime: 2023-06-09T17:00:00Z
-    webUrl: "https://www.livescience.com/technology/artificial-intelligence/ai-chatbot-chatgpt-cant-create-convincing-scientific-papers-yet"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/RsTwfc7HXdDsw9UdxSjqwi-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "KOsObq/rJidSk0YlAQnTSRzct5nf0LW4mONZJRLucrSVYgWDUj9Y82uUZCXS6Lu2+PBRseUSIMAdt0w3b9ZPGDD2KqRbcefQXN9Y5UPiT2SX1vFrWLl62JApW8AxZJRAVYa4HUW+oxX19yb1iKWwQ3zZKlz1UwcBxJpYhJ3/6DkLKGn1GADvH+ZiUKxZZ3m89y8FADRVCi8k1lmNOiP8ntZKcmREUOlqKSm2zfDoKl/R4ORZDpbZh9MZ0jom5Dg6xvHOFhzFxzujvmvH6IHvrHcbbxFDswnlRNEt/HamZcnvo7pPi6gIV47I6u0z4XKdq+chgpOMIV5k8QqmduW3eWnKnRSuaVVMjEfzTR9MBpyf/Xne8p9/QezmBMewLf6AdO4YBZQ57LXJnwSNj3S0hV8ZVWzFzos6FIqV9we+5uC1Yc+pwi9cIMyKBzkalOyDlgTomlgkezS3hS6IB/uaa3n8EQG8eZQrdH5d03yihLq2Zyhs3tW2AC8Oa7s1dXoVfmmK4xLbJLJgrl6emMQdAA==;E1KrtLy1kK8oa+cGKK9DaA=="

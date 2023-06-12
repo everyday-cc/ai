@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI Will Accelerate the Circular Economy"
+    excerpt: "Despite living on a planet with finite resources, our economy remains largely linear and full of single-use products. The shift toward a circular economy, where companies recover or recycle resources,"
+    publishedDateTime: 2023-06-12T12:06:00Z
+    webUrl: "https://hbr.org/2023/06/how-ai-will-accelerate-the-circular-economy"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "Uo3nBb6oA/1j2DgZl8mYPQQ2JNlAYw9bKgt192qsAhNLg790PlE+OaGdQdUvFEDRjifRyyXJUV6PAjQv1VKonNExBGyVjIvDBf8vngjcqWEoh7WVwoqMo1RrPOEWYG8gkOow6eU/GyNPsxiHLRL479STIkeFB7NMqvJpU13tHw/cHN0Oaol/TGCVbw4Vcw5NXismQpIRszoNwnsWTUSWFE8BGnqeAn2pGFvvNHIUqZq3bRn1h8p45UlF8ONs55CCwpGNRQixk5mn9azSlE7okVNleFXmO43+0DjJ0xKqTjNfGcDnu6gGtbHQTAc6QKEzR6TlaYp+keTgBA0KTkyze4lCTeJQgdbuc/UWUbxPBPDPfX5JrHyaSTpG8zNzCYa32JrpyKXLbfp7uaXThAnAORHVNwUIl7u09pj3Sq1yMOtYHuIcdoU9XF1gfXFRUlUaa+Z3lgL5v6ndjS0aeL1uBvpcya2bxXs5uBQCLqlxxMkd5x0Z2EbZuGg977U09T/9rXvHvTus1WiWmf8aTPF4jQ==;WtF1ijEwS0otCPSgOCPatw=="
 ---

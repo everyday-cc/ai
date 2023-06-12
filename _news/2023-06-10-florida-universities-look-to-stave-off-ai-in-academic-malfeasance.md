@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/miami/news/florida-universities-look-to-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 19
+  - title: "Florida universities study pros and cons of artificial intelligence"
+    excerpt: "As everyone knows, generative AI hallucinates. ChatGPT makes mistakes, it doesn’t give the right answers. It is subject to flights of fancy and depression.\""
+    publishedDateTime: 2023-06-12T13:55:00Z
+    webUrl: "https://www.cltampa.com/news/florida-universities-study-pros-and-cons-of-artificial-intelligence-15798704"
+    type: article
+    provider:
+      name: Creative Loafing Tampa
+      domain: cltampa.com
     quality: 19
   - title: "Florida universities look at threats, opportunities from artificial intelligence"
     excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
