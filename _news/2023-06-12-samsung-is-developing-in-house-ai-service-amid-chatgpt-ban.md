@@ -226,6 +226,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "ChatGPT’s not going to take over anytime soon, says Richard White"
+    excerpt: "The “a” in AI still largely overshadows its counterpart “i” as the technology remains largely artificial and only a little bit intelligent, says the chief executive of one of Australia’s most successful technology companies."
+    publishedDateTime: 2023-06-09T20:52:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe"
+    ampWebUrl: "https://www.theaustralian.com.au/business/technology/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
   - title: "ChatGPT creator Sam Altman meets Modi, discusses global regulation for AI"
     excerpt: "Creator of ChatGPT and CEO of Open AI Sam Altman called on Prime Minister Narendra Modi and talked about its downside and why it is important to look into it."
     publishedDateTime: 2023-06-10T18:47:00Z
@@ -254,6 +265,6 @@ related:
       domain: dailytelegraph.com.au
     quality: 4
 
-secured: "FfqM5j1PuQ8/Z100sxAOKkOJEvBuLtBekM8khvEQrgBGGZ0STKPiYj5N6pT3nUDZtmZMmHiLma0s40KDgseQGvr4lMxSDQtvyZD/Tk9/0aCVgwFX4+yaLuioS+ia9nBjktjffvXVEXuYf5KLci5DWe8OwAyGx9/3agFon89hXmYtwK3a866zsHZzXwBb853QtNJ0QsxEp4cKhlv1uCyC0aIAML1T+a4TF6atQ3PoFiQ2SDX4AoH2c6NfB3BFjG4ijqFKuRA4Qilj6JkJPItR1tz4MccK5c86s2JCvr+MF36fQh1uJ/F8AVbUFxphbPlD5qsUaM2lNj0/57BOfKHqEQxIEuXZLyzc8ezpESs/xqY=;abtSgOkfhrhDYrolwNWwzw=="
+secured: "62qHkxgl9yrJkA/mWuIB+wXbPy/i5W08vKbx4bsv8okYW1NxqrqZDRAuJ7o0T/0gQdDtPepZofGCblXHvXcINJuWxv+btwWnCP7jYdBxW8QEIBi7PZHs1tlJ61+ZGQ2SOAStzg8fE/j/hpc8CWaDvcLxuplGO6nWt11IOHvn/bnIqoLAXO3HpNm3X4geuAwJRgitsJrBMJ1hveebSmJuE2iEGghPfB/Tdq8ev7yvR4zY0+PfKJJuvV59TTW4AQsHm8fgdu+CF+3INJIPTPelRE78pI7DY2kvQqjrL4/OtsxLDznkruolPhnxsnJSgfMuOezHJRFgbV/qmRq5gnVCd3zHGtDZx3o8r4PBlLyNGX0XAUnITqmfM58pdRQubHIUZoKtQYiHrhPNSsuXVTktZOsBhAoTsZo1v+pwwR6IbrtAsqcAPihGX70URPZyXvHCkEco4wdYzdK+C2iR4jqLGNMvjLXWgYaGxdyc4bi/Ri8FZmxA787mVieV34+l4NYVf7OJktKByZ9xVQ9RkLGw2A==;Jlqg057xdgiEFdn3kP9OKA=="
 ---
 

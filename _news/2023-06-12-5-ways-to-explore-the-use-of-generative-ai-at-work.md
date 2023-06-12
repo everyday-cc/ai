@@ -127,20 +127,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Azure Government cloud gets access to OpenAI’s generative AI models"
-    excerpt: "Azure Government cloud infrastructure platform can now access the latest artificial intelligence models from ChatGPT creator OpenAI LP. The company said in a blog post that Azure Government users will be able to experiment with two of OpenAI’s large language models,"
-    publishedDateTime: 2023-06-08T01:14:00Z
-    webUrl: "https://siliconangle.com/2023/06/07/azure-government-cloud-gets-access-openais-generative-ai-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/microsoft-1.png"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Snorkel AI looks beyond data labeling for generative AI"
     excerpt: "Snorkel AI is announcing new capabilities that extend beyond data labeling to help organizations, curate and prepare data for Generative AI."
     publishedDateTime: 2023-06-12T13:00:00Z
@@ -183,6 +169,6 @@ related:
       domain: venturebeat.com
     quality: 22
 
-secured: "ez/T9sy+voBRQYDj3QxGpQ2XApG6rH/cv/4S706g0526iy/sT4tnPyYgrbcHb+Zt6M3K0FWf4cS/yoD3wLGZkfOU+dpGQaHxNTAfIRjbNMp0vXHCIBqnb8jY4NQ92phKgnAUrBOVKH224fNQ5e4ZbUJ08t7uuJ7MFgMAfr5bsH6czIClHnflGA0ypw5iFDfFZkklqoacHDrn8HigefYIyJ5UZPiqBgj3SDblDqr96zsY6SpLMPXMrzjAgQ+IDEn2EX7gp9yMMktG268QwS35SCj+HKbOpzd5W8onxlVUXAORUbA6HUTVrVtnen+7lcwAHPjrwDtfHDAilrGG3zCUOz9HzKCx8z8UZJZ1m+0uGF8=;MFL1RYOzlizxUUrRthIXXw=="
+secured: "wUJky67jZWeseIIM+lrSJDOqdk4S46gwjw0+NSur6VoIXvU25I+hTWfL7QsD48KuPeT0WQHWEFqeasF6SUz/nQpo5H+NEcDRwn/OE+GOAfX4p+FMIefMPlFFrIjnJtY8LxQ75HLQm8StFEqVWlRxU/O+HP5bcvCeuvHLI9jDJS0HHRL/jCxFnop25BJsNJnFeMaP8WHr7e3lYjcZS86/oCU4RLiZVMhSit8KUPCt+QQZiXbnoMf8WkpwNYgW+DMVyGMGgqtui+VZVOU1l5qZUsaq2it/XqUtMq+ua/GnNwwaMZ0i91KZn3oC8Es7Pr44VMJNx2wGwLHKjAiP7beiqEBqwQipx928hKcomhJD1F1ctCf9kw4N0eEXvXBlNSh4DzVK90vcdX2Hb+kAS+0vM9d9BeEXF/6EKjnu/sE/OJdFXUMRsbUcLwHoFcyptTD7Vd1FbkPhd/sTfS2v4RUEC4Ito/cKN8Z/iIuAqk2iZqCgzWIuzTosZ4JpBXwhx0mSCuVOTm7D4H7ukES3auXx9g==;dHmrPD5+f5cBAQ5OJQsFbg=="
 ---
 

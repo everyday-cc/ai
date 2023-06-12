@@ -55,6 +55,20 @@ related:
         width: 1463
         height: 2048
         isCached: true
+  - title: "Health Care Embraces AI"
+    excerpt: "“We believe that this is not right for health care generally and ABA specifically, but instead espouse to create ‘human-in-the-loop’ products that leverage artificial intelligence as an aid, not a replacement.” Adu said that because SpectrumAi ..."
+    publishedDateTime: 2023-06-12T07:04:00Z
+    webUrl: "https://labusinessjournal.com/special-reports/health-care-embraces-ai/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 39
+    images:
+      - url: "https://images.labusinessjournal.com/wp-content/uploads/2023/06/SR_DEEP6-AI_Study-Detail-Dashboard_0612-1024x671.png"
+        width: 1024
+        height: 671
+        isCached: true
 
 secured: "RWSIElzUo6m1GAKI9G63tOGqULG81ecXjFYArHC719cBPvknE077O3e59aLRysdRMDRapoHQRI2g/0lLcNshszWpHxeTqg6q0faZr+SrTeLc7D81b+2Pir5En/oKLQE0ZwKnsI+D6HVEE8sxeFI4ctyC1SptlRmIBihxvPUvO0xafcdVLXHbV31pGofKKbYUJr1Ekst/CcmcfUKE8CFw7tgflDqCBBM0dttnI4UTRL5Vvt1S1mhAeG+Mr8VIQZye969mO7VU781UWtNdHiC+ydCJmoXnKkDyPXFwUej1zcjGNiWlH+qqumZRt5Z9kNqgd6NtWUX3ZWuh4FQbKCwpHgdsCZKwNdQyLckgiVAjRdW6sTc3RQEaqfGeWTjFSoKn88AiCkSs7J89SnsNbf2ILuAtTMMLTpQzQnAWMq4OhJIKW8WxTfNbS8p4YC+eore3J00QhMK2Ije7Wmeu/RuxRUhq5oKVgI2A2SDjHxQUs56n4LGQt8ocJeH/FQSnvP/+6TZx6WTnkA4PEtIKUqvJ9g==;Pv2/LBpYj0NHnAKN1/d9Uw=="
 ---

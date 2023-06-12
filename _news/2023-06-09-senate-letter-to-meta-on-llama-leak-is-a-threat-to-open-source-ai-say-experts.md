@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Meta just released an AI music generator that was trained on 20,000 hours of licensed music"
+    excerpt: "Researchers at Facebook parent company Meta have developed an AI text-to-music generator called MusicGen. The language model, described by Meta’s Audiocraft research team as “a simple and controllable model for music generation”,"
+    publishedDateTime: 2023-06-12T19:25:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/meta-just-released-an-ai-music-generator-that-was-trained-on-20000-hours-of-licensed-music/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 9
 
 secured: "JfA5Bvd+vAFozqTCr0jEvXbv213PgvJghhzImN+SoQUxzwXH4eM0ykdkZBHTJnSy+nJaiGBPlJ2fgxlwVgCE5XwDbKnahxDdX04c0HyaKkWBenUDejHkry8hFerUg+9tMoSI/f/lzV1VVGR4m2eDYqfm1iZw6hlAjDglvIf9h9Mz8Mma7QyCJLDVqtf2zoLieo2dTPTkF3LIkp+s+bMk7bVZi5e4/wYHkz3td/OJdWukBG44BGdeTCW66SetLJ09XFisW3F7C5OHsJHb/wT7PURH28VyvoakOmAr6zryPYRLizZgK/21XQXUXh/sXEId44OZGnqVGgF2UE8jml3O9i4C41LXNfGYy3dbdchUAlhjyLzHTqU2TKxYxhcOXmW74p/a8ui6qu0C8ViXlyx0uAz5KkE7Nkfhrn+NSmnax57uQPVfEKV2PSIl6UwoHa+bmIzO+pxwNAkMqN/G/K4vAKrgEo6cy/UqlvYBPWwh7+DNY+7JiWcCKpM9F36hA9p5lYBfGzCvv+WC7M+SkOLX3g==;709f4kw5UxXQtTRayTqdzQ=="
 ---

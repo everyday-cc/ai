@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "California Assembly Passes Bill Prohibiting Autonomous Trucks On State’s Roads Without Drivers"
-    excerpt: "Late last month, the California State Assembly passed a bill, Assembly Bill 316, prohibiting autonomous weighing over 10,000 pounds from operating on the state's"
-    publishedDateTime: 2023-06-08T02:30:00Z
-    webUrl: "https://www.forbes.com/sites/michaelharley/2023/06/07/california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers/"
-    ampWebUrl: "https://www.forbes.com/sites/michaelharley/2023/06/07/california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelharley/2023/06/07/california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64813c964fc929378330c0ae/0x0.jpg?format=jpg&width=1200"
-        width: 712
-        height: 400
-        isCached: true
   - title: "California senior center have A.I. robots serve food"
     excerpt: "Artificial intelligence (A.I.) is helping feed seniors at an assisted living facility in Sacramento. In spite of the high-tech assistance, all the human employees are keeping their jobs."
     publishedDateTime: 2023-06-10T23:08:00Z

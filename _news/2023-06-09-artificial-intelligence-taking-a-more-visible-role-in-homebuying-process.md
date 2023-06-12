@@ -38,6 +38,15 @@ related:
         width: 1068
         height: 710
         isCached: true
+  - title: "Artificial intelligence taking a more visible role in homebuying process"
+    excerpt: "Rather than setting filters across a limited set of criteria, like the number of bedrooms and ZIP Code, consumers can speak or type what they want."
+    publishedDateTime: 2023-06-12T18:21:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-artificial-intelligence-homebuying-20230612-ocmydfvh4vcm3bt7kf654aycdy-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 16
 
 secured: "UkhIAEm7fGy1pkWsXIOVLmHHKfjOc9jF8xnahdEz3JVJiiVEMPpgTmnsNsiFrG3TEpcsabQo3fEVWiuy5apIzc09M5KvBPxSCk0MUjKOFxLYj8EnjXUpXgE0q4H8ff+IqAOGEKEKu+K8slg80c5QUAS0w7q/6/QVsVjkfrEdTPwxSXwLqiBsfGj66jQHGPMJINW47k59JuItEyT1nNdCFXfUa4X2Zm5MPQlHBKlgFMywhJGyYuUfigpehqQqKqD6R7fAD1eppxZqmc29PJmgffRZUjzazLRmmF2VLcC0h3LueMU7cvn0WqRdtfhY6XQUXOvpg4mhRx5gXJ7cP5XUCe+T2Bs3pjmsuy5l0GWS2OQ=;DGZAe5ROBhgEMZea5NWsYg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/the-ai-revolution-ho
 cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.businessinsider.in/thumb/100831113.cms?height=275&width=412"
         width: 412
         height: 275
+        isCached: true
+  - title: "The Generative AI Revolution: Key Legal Considerations for the Hospitality Industry"
+    excerpt: "For better or worse, generative Artificial Intelligence (AI) is already transforming the way we live and work. Within two months of its initial release to the public, ChatGPT reached 100 million month"
+    publishedDateTime: 2023-06-12T20:05:00Z
+    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-hospitality-industry"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 33
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=bUj9XK9t"
+        width: 500
+        height: 309
         isCached: true
   - title: "The AI revolution will change work but nobody agrees how"
     excerpt: "Goldman Sachs estimated that the technology behind popular AI tools such as DALL-E and ChatGPT could automate the equivalent of 300 million full-time jobs."

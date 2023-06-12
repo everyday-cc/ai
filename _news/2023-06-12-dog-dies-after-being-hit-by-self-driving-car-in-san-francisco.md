@@ -75,17 +75,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "They fled San Francisco. The AI boom pulled them back"
-    excerpt: "The latest wave of AI technology — known as generative AI, which produces text, images and video in response to prompts — is feeding a Bay Area boom."
-    publishedDateTime: 2023-06-08T01:39:00Z
-    webUrl: "https://www.seattletimes.com/business/they-fled-san-francisco-the-ai-boom-pulled-them-back/"
-    ampWebUrl: "https://www.seattletimes.com/business/they-fled-san-francisco-the-ai-boom-pulled-them-back/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/they-fled-san-francisco-the-ai-boom-pulled-them-back/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
 
 secured: "OlEXk9qo3AuxDe5kcqg9N2dQo/8GBA6RmasU7Ts69raaN2zo457m+0GjjdniPr5nJ+RunW+VZ5Cdv5fnUcnbijgXmm/NvhdIaoodSDNsZnnYHJ5E+m+sy/81Qbcp/WUNJp2CwWgN8Rd+KbZGGbPyogay0Gakxj2z+BaVpeBGF8AB+HIAK12Fl8GaERY/vECCM06px6VSVjJ6od4JmLJFFeO2e+O25uC647zyKdIVetEa/+WEFBju47WyaRlr6UT8NwpcUIDfYOTaOU3THVFYHN0ftZKp3yiC01KJeFKrbesPig4HiDFObi1NPFqCaEW/6YBFSRvAwAyz0XZuPnuxybvjhi3MV48j+Q9ixu6YGT/hP3pbNwDc2irSfwNHy8md6ZqnO2TaU9lxYwAViBCPoNQS2JeI31GFLiYayK7imd2aaqeI1jzOCo61wKYq/MAxmJwgv3d8Uu7TNZrDtwaCiHos//tIQBfswiVP3Xle2QGdntmlCP14aYblflQrlx9y5wiMZrK/xX0O2dxkHglqzw==;wmA94xqHMMsPc3ipXKvbqQ=="
 ---

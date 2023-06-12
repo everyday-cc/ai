@@ -9,7 +9,7 @@ ampWebUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-ma
 cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/33/16/21/23913580/3/rawImage.jpg"
         width: 1463
         height: 2048
+        isCached: true
+  - title: "Health Care Embraces AI"
+    excerpt: "“We believe that this is not right for health care generally and ABA specifically, but instead espouse to create ‘human-in-the-loop’ products that leverage artificial intelligence as an aid, not a replacement.” Adu said that because SpectrumAi ..."
+    publishedDateTime: 2023-06-12T07:04:00Z
+    webUrl: "https://labusinessjournal.com/special-reports/health-care-embraces-ai/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 39
+    images:
+      - url: "https://images.labusinessjournal.com/wp-content/uploads/2023/06/SR_DEEP6-AI_Study-Detail-Dashboard_0612-1024x671.png"
+        width: 1024
+        height: 671
         isCached: true
 
 secured: "oJsY2Gp/aT5Ik7x/O41p4YG04sIvR0X2ffJbSGJ1lIN8LuMn0OEz9dKUb0pnT7pI8y3DzdU8cn+egtLgknx4W4uFDtc8lVhqtxoKJ3yx1FYiIAQoKzR1AMRHRmxS2xzIL00tk4mpc0gUWggQu9Hh6/PhWDYiPXc+Dv63j5AdJ14/oaV3D9vBPrc9yQhFE6n6Cb2kBgEzNpwZisiv1qQYJpaqO8vp+LXLFZrOo4kSpx3EJw/njs1lD3V63ugIIhAXzLN/WO7qQXZL4NtkYqE2eELTsmnco8mW9YW0/bk4tE0FPFDslgaERbxw5qPr9SiU8DWIeTABjKnQT3+/GeFwmvIeaZuwyv52g5JnOskz+iM=;ZvbEQdQLYb/bW69Q2J3gKw=="

@@ -35,6 +35,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Salesforce launches AI Cloud with raft of generative AI tools"
+    excerpt: "Salesforce's ChatGPT-style tools are designed to provide customers with large language models integrated with the company's products."
+    publishedDateTime: 2023-06-12T18:31:00Z
+    webUrl: "https://www.techrepublic.com/article/salesforce-launches-ai-cloud-generative-ai-tools/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 47
   - title: "Salesforce Ventures Doubles Down On AI Investments"
     excerpt: "Three months after launching it, Salesforce Ventures announced it will double the size of its Generative AI Fund to $500 million."
     publishedDateTime: 2023-06-12T16:52:00Z
@@ -65,6 +74,24 @@ related:
         width: 1260
         height: 818
         isCached: true
+  - title: "Salesforce touts AI strategy, doubles investment in start-ups"
+    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI start-ups as the company banks on the emerging technology to help resuscitate sales growth."
+    publishedDateTime: 2023-06-12T19:19:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jun/12/salesforce-touts-ai-strategy-doubles-investment-in/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 17
+  - title: "Salesforce introduces AI Cloud, announces $500Mn generative AI startup fund"
+    excerpt: "Salesforce introduces AI Cloud, integrating Einstein, Data Cloud, Tableau, Flow, and MuleSoft to boost productivity with generative AI capabilities."
+    publishedDateTime: 2023-06-12T18:18:00Z
+    webUrl: "https://thetechportal.com/2023/06/12/salesforce-introduces-ai-cloud-announces-500mn-generative-ai-startup-fund/"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 15
 
 secured: "5otg4dd5RYHUYQaYqYuzfHsRj5MnUtqe6DujpJ9cU7bKG31lDmkguQzCJpUFqNkXVdfOGsXKe7OUwvl8CAhcSSsO+0xwt9nTJmDwDZBeKk1e46ZumGm5Rq4TrpkKs//ooM0nHsw5Zc9rU32PHGpZC439Hp/xyttdB1jhZh9oGdU6tAFd5fe+xIy1Wd1MPZrkZzhC0ubapDVpbIkXnfsnRMNVkimZb1mrq/AqWCyN9FodIDygBzHvqbIA9G9QALn+NypRGvUQHZ528eRZjL6lBE+XgtZA0gDQH1U6Qr9tc7nqYhy5AoU/MD4DOISCzmQ4XNAYZ1ey0BM9ClmAlUTBDPTZy5Pegaxr5H8vskjmiqk=;sVNSSvMou7ffnzDliGR3FA=="
 ---

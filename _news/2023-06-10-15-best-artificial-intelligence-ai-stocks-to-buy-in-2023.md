@@ -7,7 +7,7 @@ originalUrl: "https://www.techworm.net/2023/06/best-artificial-intelligence-ai-s
 webUrl: "https://www.techworm.net/2023/06/best-artificial-intelligence-ai-stocks-buy.html"
 type: article
 quality: 62
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 Stocks to Buy for Easy Exposure to AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is the “next big thing” on the Street. And"
+    publishedDateTime: 2023-06-12T19:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-buy-for-easy-exposure-to-ai-1032384428"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Best AI stocks in 2023 for performance"
     excerpt: "MicroStrategy will also integrate the company’s advanced analytics capabilities into Azure OpenAI Service, which will help businesses maximize the value and utility of their data. MicroStrategy has experienced two powerful tailwinds in 2023: AI and ..."
     publishedDateTime: 2023-06-09T13:35:00Z

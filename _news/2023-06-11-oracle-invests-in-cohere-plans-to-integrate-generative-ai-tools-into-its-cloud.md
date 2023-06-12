@@ -138,20 +138,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Azure Government cloud gets access to OpenAI’s generative AI models"
-    excerpt: "Azure Government cloud infrastructure platform can now access the latest artificial intelligence models from ChatGPT creator OpenAI LP. The company said in a blog post that Azure Government users will be able to experiment with two of OpenAI’s large language models,"
-    publishedDateTime: 2023-06-08T01:14:00Z
-    webUrl: "https://siliconangle.com/2023/06/07/azure-government-cloud-gets-access-openais-generative-ai-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/microsoft-1.png"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Snorkel AI looks beyond data labeling for generative AI"
     excerpt: "Snorkel AI is announcing new capabilities that extend beyond data labeling to help organizations, curate and prepare data for Generative AI."
     publishedDateTime: 2023-06-12T13:00:00Z

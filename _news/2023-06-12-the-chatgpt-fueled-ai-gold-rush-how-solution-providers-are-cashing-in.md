@@ -228,6 +228,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "ChatGPT’s not going to take over anytime soon, says Richard White"
+    excerpt: "The “a” in AI still largely overshadows its counterpart “i” as the technology remains largely artificial and only a little bit intelligent, says the chief executive of one of Australia’s most successful technology companies."
+    publishedDateTime: 2023-06-09T20:52:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe"
+    ampWebUrl: "https://www.theaustralian.com.au/business/technology/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
   - title: "ChatGPT creator Sam Altman meets Modi, discusses global regulation for AI"
     excerpt: "Creator of ChatGPT and CEO of Open AI Sam Altman called on Prime Minister Narendra Modi and talked about its downside and why it is important to look into it."
     publishedDateTime: 2023-06-10T18:47:00Z

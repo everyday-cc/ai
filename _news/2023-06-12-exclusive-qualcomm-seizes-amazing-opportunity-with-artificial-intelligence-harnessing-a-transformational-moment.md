@@ -56,6 +56,20 @@ related:
         width: 2000
         height: 1332
         isCached: true
+  - title: "Generative AI and ALSPs: ‘Opportunity for Growth’ or Services ‘Under Threat’?"
+    excerpt: "Generative AI will ultimately impact each alternative legal service provider differently depending on its size, scale and areas of expertise. While some service areas are clear matches for the technology,"
+    publishedDateTime: 2023-06-12T21:00:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/12/generative-ai-and-alsps-opportunity-for-growth-or-services-under-threat/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 34
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/Team-work-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "lJazHVhQwdLTMLrsK/ERfajsQSCe1fY241bxcI8z7/GrrF/eBaHv4Lf3qmyygAPyiEotgQN56lnHYExJReYIqgcXoD/KHn4IoMgLyCWIdgY7IKEbTBfsXYep9lXIh3IsJfkbWbQrA0OMdN2giWa95avkAVWXnMksjeOxpd6GBTzFctcHR5hvWnbdr5OvZ+zUDo3KF//xXoL9QSiKNwKvNJ+aYfYNE4yiIOPc1xqHMxTP8YJvWOicWYxv/UniNmSzzZ0KxmSfRaYeDr6G27UL7i437ZaQ/7v+AioGKU0/c365xLYFYe8oEh+d78h18ub5PgRpKma3hhbTmfitUzMdh/VLXJJ2dlFlD94S2imVU/U=;E4CeBhuEa54g2U2bP7S6Fg=="
 ---

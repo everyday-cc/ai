@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Salesforce launches AI Cloud with raft of generative AI tools"
+    excerpt: "Salesforce's ChatGPT-style tools are designed to provide customers with large language models integrated with the company's products."
+    publishedDateTime: 2023-06-12T18:31:00Z
+    webUrl: "https://www.techrepublic.com/article/salesforce-launches-ai-cloud-generative-ai-tools/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 47
   - title: "Salesforce Ventures Doubles Down On AI Investments"
     excerpt: "Three months after launching it, Salesforce Ventures announced it will double the size of its Generative AI Fund to $500 million."
     publishedDateTime: 2023-06-12T16:52:00Z
@@ -68,6 +77,24 @@ related:
         width: 1260
         height: 818
         isCached: true
+  - title: "Salesforce touts AI strategy, doubles investment in start-ups"
+    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI start-ups as the company banks on the emerging technology to help resuscitate sales growth."
+    publishedDateTime: 2023-06-12T19:19:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jun/12/salesforce-touts-ai-strategy-doubles-investment-in/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 17
+  - title: "Salesforce introduces AI Cloud, announces $500Mn generative AI startup fund"
+    excerpt: "Salesforce introduces AI Cloud, integrating Einstein, Data Cloud, Tableau, Flow, and MuleSoft to boost productivity with generative AI capabilities."
+    publishedDateTime: 2023-06-12T18:18:00Z
+    webUrl: "https://thetechportal.com/2023/06/12/salesforce-introduces-ai-cloud-announces-500mn-generative-ai-startup-fund/"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 15
 
 secured: "gVCSNE9xWf2PLv0uV/MB1d+k9ysBit9L++akRxYqigoRMr1W6vW7ftvqlK2Wvpb5fVndjLbeL8Wh+ZsBh/IydU+yLq4FWT7/dL6FGnhSHyhkvFFqxGVeCXn+zm5wZ9BUNtwaq5DNCoYM7JQ1LOtbp2HYF4WM2oFAXcrandLJB3HDB25IUoHx2QHHIiIeXPHxxh44FkgXi0+4s60epTzJGkccBtQjF0v9Kdu+3qTwTDJr+FxtxxaWK9yBWYYZzfSac8pV6ypGtxl0zbuuxoJVrC2NoQ6BW4bKJPoxvOTumxJ0gygvSJVShAjYtHmA+n0UPTVuv6yT17zHYXihbaOZxdqpBXlR3HnmdJtMNecLp8NlbFtIRKdNaq2QdryBbrzF/f5b20bWNcL0u44bnTItwe4W23npppmb+QIrXMt+YpTWJS69JLF7Tj3QrpaCtLF9ckhXCO+KxUlzDau1IOSoGDU+qakHHVGo0+d42jB6H82oREsnXsRJWG4x1ACaSqmy98LDdgQlLRdK/MJBY9C/WQ==;0AiAN7UmWuFP9qTThij2VA=="
 ---

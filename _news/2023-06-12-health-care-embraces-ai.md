@@ -25,21 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "IIT-BHU showcases efforts in healthcare and AI"
-    excerpt: "Varanasi: The Indian Institute of Technology (BHU) displayed its efforts in the areas of healthcare, biomaterials and artificial intelligence at the t."
-    publishedDateTime: 2023-06-08T03:14:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/articleshow/100836651.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/varanasi/iit-bhu-showcases-efforts-in-healthcare-and-ai/amp_articleshow/100836651.cms"
+  - title: "Google Cloud Partners With Mayo Clinic To Use AI In Health Care"
+    excerpt: "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the"
+    publishedDateTime: 2023-06-08T07:58:00Z
+    webUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/"
+    ampWebUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
+    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 59
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
+      - url: "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Google expands intelligent cloud into healthcare"
+    excerpt: "Helping medical professionals find patent informationGoogle's cloud business is expanding its use of new artificial intelligence technologies in health care. It allows medical professionals at Mayo Clinic to find patient information using tools powering the latest chatbots quickly."
+    publishedDateTime: 2023-06-08T09:50:00Z
+    webUrl: "https://www.fudzilla.com/news/memory-and-storage/57046-google-expands-intelligent-cloud-into-healthcare"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/151e65d7467e972252b5079a40b808dc_L.jpg"
+        width: 620
+        height: 454
+        isCached: true
+  - title: "Use AI with caution when comes to mental health"
+    excerpt: "When people read that AI could replace the equivalent of 300 million full-time jobs,"
+    publishedDateTime: 2023-06-09T00:00:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/alton-artificial-intelligence-ai-saint-anthony-s-18141135.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/16/21/23913580/3/rawImage.jpg"
+        width: 1463
+        height: 2048
         isCached: true
 
 secured: "L+F95eiKLK8ZKtJIbTrX6G37ZUSYJs/mzumNMIQcAwMHV5Fqv6wkqtfLjD9PU09nE1QqkNrRnasOP7k9t16xMjGgBhHRcnTl28JDoRrNWWvPyJE2geH2qrlT81YAhnyqHmTPEGLkZF3tyNfII5MscMfLJdYoYzy25qfo+NnB1LSmcZcgmCa4RzEp4PLeuY1Fn5BRnYLHDbjaOCMAgg/rUHFz8t0+pJ7ja2gdS9781ofhcXWWc9a104HZ+OfoYlNeLG7FC02k6XzAOl6vQrifgtuOcztADEkdUoqhEkhIvVQsFcd2f5pkPP1OKSW2FvrLcWxbmzazC7N1j9R9CrNw8uOQvmlUyFoQyFPmXieipZ0=;EiE3pHhyihUU/W+Mz6jbYQ=="

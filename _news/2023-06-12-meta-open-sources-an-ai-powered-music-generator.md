@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-mu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Meta just released an AI music generator that was trained on 20,000 hours of licensed music"
+    excerpt: "Researchers at Facebook parent company Meta have developed an AI text-to-music generator called MusicGen. The language model, described by Meta’s Audiocraft research team as “a simple and controllable model for music generation”,"
+    publishedDateTime: 2023-06-12T19:25:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/meta-just-released-an-ai-music-generator-that-was-trained-on-20000-hours-of-licensed-music/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 9
 
 secured: "kk0/RUJ0zly/fHBbgPxTOE5K40q8flSpIyrUOBfUfA0x+Aerzcj+qITOxNO32E+emdEoM2t7qyBk2Bz68S40/cpBjwg3QabA+nKzFrlsaZukm/lsjJVToQYue1gb3f31CZgnp3U8X/aq0ngFMQq6C8rLdKLz1vnBLsrbeW0vBa17p74ZSazdBxyWoNAs+YVL7EHajs/YH5K1UV6q0zIQqB5fyEQGpViguGcLmisZo0Psn7lxNk32I7SYED3Qi5OAlSDIOAp53oIhqdciPp7nx7cx1OxSbdX9ZeyyaY8H7c6Nc7lO1cj+JAX4tFycIqwsixOumt3tXquZTbxdieVyfQKpXpHAnrVc+qRXuy56k9o=;g8SLNODHL/XL/HUx/gkjxg=="
 ---

@@ -55,6 +55,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Upstart Fintech Buys Airport-Area Office for HQ"
+    excerpt: "The head of Finfare Inc., an up-and-coming fintech in the Spectrum area of Irvine, has made one of the larger office deals of the year in the area around John Wayne Airport."
+    publishedDateTime: 2023-06-12T19:35:00Z
+    webUrl: "https://www.ocbj.com/real-estate/upstart-fintech-buys-airport-area-office-for-hq/"
+    type: article
+    provider:
+      name: Orange County Business Journal
+      domain: ocbj.com
+    quality: 39
+    images:
+      - url: "https://www.ocbj.com/wp-content/uploads/2023/06/Finfare1-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Rise of Digital Nomads Introduces Identify Verification Challenges to Banks and Fintech Companies"
     excerpt: "The rise of remote work is forcing adjustments within businesses and introducing new challenges. For finance and technology businesses, the number of foreign document verification cases has increased considerably throughout the years,"
     publishedDateTime: 2023-06-09T05:24:00Z

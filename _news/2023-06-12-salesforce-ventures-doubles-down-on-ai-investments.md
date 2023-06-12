@@ -33,6 +33,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Salesforce launches AI Cloud with raft of generative AI tools"
+    excerpt: "Salesforce's ChatGPT-style tools are designed to provide customers with large language models integrated with the company's products."
+    publishedDateTime: 2023-06-12T18:31:00Z
+    webUrl: "https://www.techrepublic.com/article/salesforce-launches-ai-cloud-generative-ai-tools/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 47
   - title: "Salesforce Connections - how Baptist Health personalizes its patient engagement and what AI may bring to the story"
     excerpt: "How to personalize and scale patient engagement in the hugely competitive US healthcare sector is a major challenge for all providers. New AI tech may be one way to achieve this, reckons Baptist Health,"
     publishedDateTime: 2023-06-09T11:08:00Z
@@ -65,7 +74,25 @@ related:
         width: 1260
         height: 818
         isCached: true
+  - title: "Salesforce touts AI strategy, doubles investment in start-ups"
+    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI start-ups as the company banks on the emerging technology to help resuscitate sales growth."
+    publishedDateTime: 2023-06-12T19:19:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jun/12/salesforce-touts-ai-strategy-doubles-investment-in/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 17
+  - title: "Salesforce introduces AI Cloud, announces $500Mn generative AI startup fund"
+    excerpt: "Salesforce introduces AI Cloud, integrating Einstein, Data Cloud, Tableau, Flow, and MuleSoft to boost productivity with generative AI capabilities."
+    publishedDateTime: 2023-06-12T18:18:00Z
+    webUrl: "https://thetechportal.com/2023/06/12/salesforce-introduces-ai-cloud-announces-500mn-generative-ai-startup-fund/"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 15
 
-secured: "7vVsDpgFShrOilBgHxIYFDNT7DsaC6tNReQN4tAQWXhsU8aDtDnRLk9y/sH1LmLb3/XB10bwBQiWAiGkylWXTKYRr8POrFXm3hj1eWSmA0Q19+R5bucLH4EvbD3hiPSNOKwKlVkatUxP0dWjSNKtKRjdUgj6arji7qlfUAzZ8PC+Xyc9dngTB95ac1h8VatwLx6Mc2Ahds1Fw8kJSuzBtrQzlHphNUpv4xBJXy1/aKsac9+0fR87J8AU6B1NssujXdO6HWeiaglgWeDU2KBSEI3teAuLig3kP9C0oo8+gFOT+sJPmlrlGYAtPqp/KVB67hjcLNYbgiuys8o7Zq8/WhG/D/MHIQnctvGY2W2Mx/A=;u1z2hroVvH1W8QMu2lyftA=="
+secured: "B2zLWEERaXwm0oGk4n7BwRsDO/fr0CXd8hz5KOrIihORTEMa/+W2UUxnKjBPLEj0b3BFpl6V46LjQWALOsl38K8WIaFD3dVs8m5HgQYrpPCdpshamOefHtnwvs7HkTQk79tvXeES5tCpQu6KlnWRycxaIAZMpnqdnX+svSEQaOeFTyjJADcRD4wWG4y+GziAZsq4+v/ysbkYl1KPGHm+dpya/r2TaZl+vwop0/tMMaFdlFCJ0ZJiK7bnu7HfL7gRJWYF+Me9gEq7VKHFMpCzLOPMJKhPFNzY4nyaesnWX8hGZd4Ji/JD94Rc5P0kwLCMXKLc0a5yB671HaAyp8upGiiLAv9uQ+TuRW0rN6agPcPFrFqtLdClLlQAl4TyPAQ9PLexFc44rVj5KlPTS6NmfNWKW+aK4iXbQ9+FNBbq5jxlkEj7XnoiZGUGh7r2t6c2zvKGQ90IdoyQNYdhOSHW4bxaOanDDr/W2CGItx3mdx3j6ndLgx7HoX+uWqKv+5QoJp7eQ8wyM8n3iU5hKe9ANA==;WePMbcADIEc57yQYdShtqg=="
 ---
 

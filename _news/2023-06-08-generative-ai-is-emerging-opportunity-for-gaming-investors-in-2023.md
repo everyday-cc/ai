@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/06/11/ziad_qualcomm_shutter.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Generative AI and ALSPs: ‘Opportunity for Growth’ or Services ‘Under Threat’?"
+    excerpt: "Generative AI will ultimately impact each alternative legal service provider differently depending on its size, scale and areas of expertise. While some service areas are clear matches for the technology,"
+    publishedDateTime: 2023-06-12T21:00:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/12/generative-ai-and-alsps-opportunity-for-growth-or-services-under-threat/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 34
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/Team-work-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "HBlPpWFu2l5/bnmchlGZ3wxjeGcE62yBSxxkZlcgaG5uoUCU+Z3FdhFpmhM0w/AlCQm/Fw4BhWzDAAUdmojBBr3StA7JoJn1VeNp4WCAFuC4ctFjWqRVW4q51ElAYXeQ6HL3nDUqzwtgcSm56C7kHgZdapOq092DhyKo6FGQ7Pj42XV1VLlZdCQset8rInC4VUkzUG4m215FKW7xvkqmg4DkpTwIFkWrPsdI/eegizT1vTU365LV/b73wO+N3iYdCdq9zdGZNN8To5pYU6MfF2S9IWhiDhCehs22/x0G9EB99+4niYFIQWld2Hh+YCYXfPg7oYcIIzpkuYdZoxcRtMU46kTudBoqyU99IEVlIiY=;6lK+PvtEC0BF68L4Fjfo5w=="

@@ -24,22 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "DSIT unveils portfolio of AI assurance techniques"
-    excerpt: "The Department for Science, Innovation and Technology (DSIT) has launched a portfolio of AI assurance techniques aimed at supporting the development of trust in the use of the technology. It has been developed by the Centre for Data Ethics and Innovation (CDEI) and IT industry association techUK as a resource for anyone involved in designing,"
-    publishedDateTime: 2023-06-08T04:52:00Z
-    webUrl: "https://www.ukauthority.com/articles/dsit-unveils-portfolio-of-ai-assurance-techniques/"
-    type: article
-    provider:
-      name: ukauthority.com
-      domain: ukauthority.com
-    quality: 39
-    images:
-      - url: "https://www.ukauthority.com/media/10040/ai-logo-cyborg-woman-istock-andrey-suslov.jpg"
-        width: 683
-        height: 443
-        isCached: true
-
 secured: "EMMiPqSFOILMqZ7p8lDL6lDUFT/7BHcwLisq2cuEUE6dFOMlQsxYoNGBDyyWmJ5KWxxDdkv9cx45Y3XZXRILmajud36GNiGCiLPeCUv/kqeFJCccx6keLQ4oYPsRWDH6/vN8dhXJOHURWp/1CY0DRO9oyXrt0cKTc2vQXbLKW4dNxV8omLG+Ccvk02G2bdqR90UvPQh1nOGohXg09Rm07dyhNHnSdK6sYkfI27tNcYcKMcNx+P9oJu3Gj1xeE/zAI4q8wIWGypQPmuBl8vh6n3hs41zPgwyrJs9G77B68k+rOTVxzCyIzqrlfQ9AlKqtejXosR/lUy7klMbGevQswBbMkQlnevhYtiyhquZw88+e3raK637fFPx0uqSXqFzdwozIcmTU1CWdSV0WyaFF0Q6+eJIXjllP91/SoIMUF7ydMZxJNodMinlaYyLJTwwb8qItAmYd8IO4DlTeJbvBZH+lDKPQ40KJcwjPq8DxJkAbHYUceZqWPa1C66BpwnvqQk8eINDPCNmrS+FhzQyYwQ==;l9zJzUgzS06jcMr8ZDs+GQ=="
 ---
 

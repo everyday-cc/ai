@@ -52,6 +52,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Build custom chatbot applications using OpenChatkit models on Amazon SageMaker"
+    excerpt: "Open-source large language models (LLMs) have become popular, allowing researchers, developers, and organizations to access these models to foster innovation and experimentation. This encourages collaboration from the open-source community to contribute to developments and improvement of LLMs. Open-source"
+    publishedDateTime: 2023-06-12T21:37:42Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-custom-chatbot-applications-using-openchatkit-models-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/12/build-custom-chatbot-applications.jpg"
+        width: 1026
+        height: 510
+        isCached: true
   - title: "AWS says Falcon40B Large Language Model Trained on Sagemaker"
     excerpt: "AWS revealed that TII), a leading global scientific research centre in Abu Dhabi, trained its top-performing, open-source Falcon 40B model on AWS."
     publishedDateTime: 2023-06-08T06:57:00Z

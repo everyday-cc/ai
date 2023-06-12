@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "3 Stocks to Buy for Easy Exposure to AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is the “next big thing” on the Street. And"
+    publishedDateTime: 2023-06-12T19:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-buy-for-easy-exposure-to-ai-1032384428"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "EKeo2fsO8iwx8c6Jwyn+B4uKZbDqwJyrddlLqZULM26Yb8frgJMbp5vaEro+dNjeb/GzYAzhVm2GZYYU1rQppRUvhyEC2bgfF4YAlFHHO2iLFwzqxwbtWFXzkWOkzj4t3vgSKzXgdqd2Prv1zx6to+aXh9Y1oa3aOaR/+pPcQFkDVg7yURzp5CRT+TFk+7I4vSpm0Rd8a9KapZZcb8KS3XK3r1q8KcG+Jxf9u/E47vlua7drDusIDpP9h2U1fULBeX5itzNyVdwaraAyiMf37t0z4mlFpG6x9CahnzpgnSzYr6oy/SjOZs4Ge6xQsFwhB60j3jw8pjdsYZ+djLI4IUzllhtM+J3byx7ceT7yzE7/1Ypetk9UUz4nb4mjwwUgJULVLW1CbQZ3WCW8oBIJLmucGh4L0dJKbZvH35rXrFFn/IROIvIlhkyAOZ+6NZR9/2tsCe52nTb7ZvVgTY0x3eVteug10027/hXz2whT21n3AbVJ7RkThQRgZV8SMV1WCrVmKwTT6tP4RpFd8HRvrA==;4GgIa5SvdjQlVLKe3/YBJQ=="
 ---

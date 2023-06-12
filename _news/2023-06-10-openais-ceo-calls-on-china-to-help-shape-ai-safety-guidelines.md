@@ -38,6 +38,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "OpenAI, DeepMind, and Anthropic to give UK early access to AI models for safety research"
+    excerpt: "The UK has been ahead of other countries in AI safety and regulations, and this announcement comes with the creation of an AI Taskforce."
+    publishedDateTime: 2023-06-12T21:14:00Z
+    webUrl: "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-give-uk-early-access-to-models-for/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 75
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/383bbbdcbc8cc7077514430dab2072839d7dc9cd/2023/06/12/ef66201a-11c7-4071-a1be-1b603f993b6b/pm.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI, DeepMind will open up models to UK government"
     excerpt: "Google DeepMind, OpenAI and Anthropic have agreed to open up their AI models to the U.K. government for research and safety purposes, Prime Minister Rishi Sunak announced at London Tech"
     publishedDateTime: 2023-06-12T10:07:00Z
@@ -67,20 +81,6 @@ related:
       - url: "https://images.wsj.net/im-797978/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Google’s CEO Talks AI, Jobs and More"
-    excerpt: "Bloomberg Chief Washington Correspondent Joe Mathieu delivers insight and analysis on the latest headlines from the White House and Capitol Hill, including conversations with influential lawmakers and key figures in politics and policy."
-    publishedDateTime: 2023-06-12T16:50:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-12/google-ceo-sundar-pichai-on-how-its-ai-chatbot-bard-stacks-up"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSCmk1xSalro/v1/1200x799.jpg"
-        width: 1200
-        height: 799
         isCached: true
   - title: "A Call For The Ethical And Responsible Use Of AI"
     excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"

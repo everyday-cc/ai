@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "For Banks, AI Is Like Having an Army of Interns"
-    excerpt: "On this episode of In the City, we show why New York leads the search for humans to command those robot troops, with London not far behind."
-    publishedDateTime: 2023-06-08T04:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-08/podcast-for-banks-ai-is-like-having-an-army-of-interns"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Vn8ucvSg3s/v0/1200x799.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
     excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
     publishedDateTime: 2023-06-09T02:06:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://kyma.com/news/california-news/2023/06/10/california-senior
 webUrl: "https://kyma.com/news/california-news/2023/06/10/california-senior-center-have-a-i-robots-serve-food/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "California Assembly Passes Bill Prohibiting Autonomous Trucks On State’s Roads Without Drivers"
-    excerpt: "Late last month, the California State Assembly passed a bill, Assembly Bill 316, prohibiting autonomous weighing over 10,000 pounds from operating on the state's"
-    publishedDateTime: 2023-06-08T02:30:00Z
-    webUrl: "https://www.forbes.com/sites/michaelharley/2023/06/07/california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers/"
-    ampWebUrl: "https://www.forbes.com/sites/michaelharley/2023/06/07/california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelharley/2023/06/07/california-assembly-passes-bill-prohibiting-autonomous-trucks-on-states-roads-without-drivers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64813c964fc929378330c0ae/0x0.jpg?format=jpg&width=1200"
-        width: 712
-        height: 400
-        isCached: true
   - title: "Mercedes achieves SAE Level 3 self-driving certification in California, but there’s a catch"
     excerpt: "After achieving SAE Level 3 certification in Nevada back in January, Mercedes has done the same in California as well."
     publishedDateTime: 2023-06-08T22:54:00Z

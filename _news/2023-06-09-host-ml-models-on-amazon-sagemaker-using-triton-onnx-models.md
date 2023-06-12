@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-am
 webUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/"
 type: article
 quality: 103
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/08/get-started-open-source-sagemaker-1260x630.jpg"
         width: 1260
         height: 630
+        isCached: true
+  - title: "Build custom chatbot applications using OpenChatkit models on Amazon SageMaker"
+    excerpt: "Open-source large language models (LLMs) have become popular, allowing researchers, developers, and organizations to access these models to foster innovation and experimentation. This encourages collaboration from the open-source community to contribute to developments and improvement of LLMs. Open-source"
+    publishedDateTime: 2023-06-12T21:37:42Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-custom-chatbot-applications-using-openchatkit-models-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/12/build-custom-chatbot-applications.jpg"
+        width: 1026
+        height: 510
         isCached: true
   - title: "Fine-tune GPT-J using an Amazon SageMaker Hugging Face estimator and the model parallel library"
     excerpt: "GPT-J is an open-source 6-billion-parameter model released by Eleuther AI. The model is trained on the Pile and can perform various tasks in language processing. It can support a wide variety of use cases, including text classification, token classification, text generation, question and answering, entity"
