@@ -60,19 +60,19 @@ related:
         width: 3500
         height: 2332
         isCached: true
-  - title: "Aprimo Introduces AI Content Coach with ChatGPT"
-    excerpt: "Aprimo, a provider of digital asset management and marketing resource management solutions, has launched AI Content Coach, a content creation tool powered by Microsoft Azure OpenAI Service and ChatGPT. The interactive assistant seamlessly integrates with ..."
-    publishedDateTime: 2023-06-07T14:05:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Aprimo-Introduces-AI-Content-Coach-with-ChatGPT-159014.aspx"
+  - title: "Samsung Electronics Supplants ChatGPT With Proprietary AI Due to Security Concerns"
+    excerpt: "Samsung Electronics is moving away from the use of ChatGPT, citing security issues, and developing its in-house artificial intelligence (AI) to assist employees with tasks such as translation, knowledge search,"
+    publishedDateTime: 2023-06-12T07:25:00Z
+    webUrl: "https://www.econotimes.com/Samsung-Electronics-to-Launch-Own-AI-for-Employees-Replacing-ChatGPT-over-Security-Concerns-1657654"
     type: article
     provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 39
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 52
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/153076-0623_Concentrix_480x610-ORG.png"
-        width: 480
-        height: 610
+      - url: "https://f1.econotimes.com/2023/06/0713js8rfc_th_1024x0.jpeg"
+        width: 1024
+        height: 680
         isCached: true
   - title: "Can ChatGPT Design A Robot?"
     excerpt: "Researchers with the help of chatGPT, have developed a tomato-harvesting robot after deliberating and accepting the challenges."

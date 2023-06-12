@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deepmind’s AlphaDev discovers sorting algorithms that can revolutionize computing foundations"
-    excerpt: "The AI system has made a significant breakthrough by uncovering faster sorting and hashing algorithms for AI developers worldwide."
-    publishedDateTime: 2023-06-07T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/deepminds-alphadev-discovers-sorting-algorithms-that-can-revolutionize-computing-foundations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/1200_x_675_pixels_-alphadev_presspack.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind AI creates algorithms that sort data faster than those built by people"
     excerpt: "The technology developed by DeepMind that plays Go and chess can also help to write code. An artificial intelligence (AI) system based on Google DeepMind’s AlphaZero AI created algorithms that, when translated into the standard programming language C++,"
     publishedDateTime: 2023-06-07T16:40:00Z

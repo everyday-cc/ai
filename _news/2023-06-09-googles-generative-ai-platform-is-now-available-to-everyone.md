@@ -105,6 +105,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Azure Government cloud gets access to OpenAI’s generative AI models"
+    excerpt: "Azure Government cloud infrastructure platform can now access the latest artificial intelligence models from ChatGPT creator OpenAI LP. The company said in a blog post that Azure Government users will be able to experiment with two of OpenAI’s large language models,"
+    publishedDateTime: 2023-06-08T01:14:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/azure-government-cloud-gets-access-openais-generative-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/microsoft-1.png"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Lilt Launches Generative AI Multilingual Writing App"
     excerpt: "New Tool Enables Quick Generation and Finalization of On-brand, Locally Relevant Content SAN FRANCISCO, June 8, 2023 /PRNewswire/ -- Lilt, the"
     publishedDateTime: 2023-06-08T15:58:00Z
@@ -160,15 +174,6 @@ related:
       name: IPWatchdog
       domain: ipwatchdog.com
     quality: 31
-  - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
-    excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
-    publishedDateTime: 2023-06-07T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/google-mayo-clinic-launch-generative-artificial-intelligence-collab"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "nNp5bfXZq203b+HZPtt1C6yir0+gxJkAX5tesvIrfdvz48kaRnq5Ad4oTJB2Yk4I2hwG/jOsfNmNAbxr7UqooBL2Tmsgoh6LlPrGuI3m5BawO2qzvnmELitf9lbOkEwDVc6b3puJqPxGUU39CXRXVnZMUUvGANSbQ6GMKH5/S5J9QxTCYeHFlGYfweTue9ESJ4so5hrpiUbCPcqaNqHPEjtZkbnIS/KbC0YxDpuTUhIzl7q+gtjbTsWwLWFzplyzoAcXpOpq3ZZFbijuf4QaVTiZmlH4bFUdxqVkEeQGUxtCb0QeU+wWRw5Gw2TDjrZ24/gvD1Jgvg3eQ8GLUJGtTi+l6ZzIwyF5ebpJiiCTcCwp8bItSSV9Cqs6fnc7CGVqR+cIiweXzHuiITaaX/U56deNTCkU8NZzsp+UyGpASPL506MJ/8sbU0H+ekbMQ/+UhQgomPiuy89evNxld73149yo1z7mNhQFTTB78GEbmdrX+CD3ynebwhfAunaNub5QFkdgaIc35NRe0N0QeF/hrg==;y/XqxCcqN7yjkgYEMjyCRA=="
 ---

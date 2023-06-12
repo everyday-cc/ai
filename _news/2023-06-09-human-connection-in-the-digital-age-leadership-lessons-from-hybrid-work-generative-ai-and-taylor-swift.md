@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why The CHRO Will Be The New Boss Of Generative AI"
-    excerpt: "Your CHRO and team need to be firmly integrated into any initiative to successfully bring generative AI into your business."
-    publishedDateTime: 2023-06-07T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f4446248590063657d5cd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "bzDt8bnEnjJ/UV59LTx59oENhJsnDlNwc7jSnT3JYe0cpeiCFZ7YcgNcax1wTWLszVniP+cwpCNClgj2EJQ0hIlOVPT5JNdHf+MSkTZXOXF3Yqk+F668r19Ldzcdkd9wXnTgud/Aar6ifehkhn9BTqQM/2OKkOXJ3+d19n7j8MbRxm6ofInAIeajV72HClg7kGxu30K6NzdrG3Eba4JvtbXK8ELmp0wKT+IQyRQAjnPL4gB1DhtNFL2TrI05fywd9pqTvcgwx3POVJLR4OS+8vAdQy2SwOvFTLFU7xj6decMFFmwZyUFsysPzdZJp/VYwXw5RMHyPo+J9otY6xyhy6OZ490wIUWFR1O2DJmStcXjGXteMnai3f01i2404EHLAS+LF+FmPMsijhHLCtEQKkWbSmIazyNEijyq/LFV/a4uuv2FgVmNqwFPitnkQQpS05LXrd4TZtGxSMal0nKbN9gXkdyYNu4fqFPJU1eScelFFJSbSq4VmjXHlfXO6cZWkSyJC3CMHgD+IyQnaHcfKA==;v9qA896G8g+FTLHu/V9P0w=="
 ---

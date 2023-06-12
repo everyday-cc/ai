@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 157
+published: true
 
 provider:
   name: CNN
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unlock new insights with Azure OpenAI Service for government"
-    excerpt: "You now have the opportunity to use Microsoft Azure OpenAI Service through purpose-built, AI-optimized infrastructure to securely access the large language models in the commercial environment from Azure Government.\nThe post Unlock new insights with Azure OpenAI Service for government appeared first"
-    publishedDateTime: 2023-06-07T15:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Picture6-1.png"
-        width: 936
-        height: 364
-        isCached: true
   - title: "OpenAI CEO Calls for Collaboration With China to Counter AI Risks"
     excerpt: "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement."
     publishedDateTime: 2023-06-10T05:19:00Z
@@ -58,20 +44,65 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Azure Government cloud gets access to OpenAI’s generative AI models"
-    excerpt: "Azure Government cloud infrastructure platform can now access the latest artificial intelligence models from ChatGPT creator OpenAI LP. The company said in a blog post that Azure Government users will be able to experiment with two of OpenAI’s large language models,"
-    publishedDateTime: 2023-06-08T01:14:00Z
-    webUrl: "https://siliconangle.com/2023/06/07/azure-government-cloud-gets-access-openais-generative-ai-models/"
+  - title: "A Call For The Ethical And Responsible Use Of AI"
+    excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"
+    publishedDateTime: 2023-06-08T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/a-call-for-the-ethical-and-responsible-use-of-ai/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "OpenAI CEO Sam Altman visits South Korea as country seeks to encourage AI development"
+    excerpt: "After crisscrossing Europe last month meeting lawmakers and national leaders to discuss the prospects and threats of AI, Altman has travelled to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea - all this week."
+    publishedDateTime: 2023-06-09T01:34:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 52
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/microsoft-1.png"
-        width: 900
-        height: 506
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399065870.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "OpenAI’s chief Sam Altman meets PM Modi, discusses startup ecosystem’s benefits from AI"
+    excerpt: "Sam Altman, chief executive officer of ChatGPT’s parent company OpenAI, on Thursday met Prime Minister Narendra Modi in New Delhi to discuss the potential of artificial intelligence (AI), and the need for global regulation. “Great conversation with @ ..."
+    publishedDateTime: 2023-06-09T15:46:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai-11686325363721.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai/amp-11686325363721.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai/amp-11686325363721.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 49
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/09/600x338/ANI-20230609032-0_1686325462996_1686325504553.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "OpenAI’s CEO Calls on China to Help Shape AI Safety Guidelines"
+    excerpt: "China should play a key role in shaping the artificial intelligence guardrails needed to ensure the safety of transformative new systems, OpenAI Inc.’s Chief Executive Officer Sam Altman said."
+    publishedDateTime: 2023-06-10T03:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-10/openai-s-ceo-altman-calls-on-china-to-help-shape-ai-safety-guidelines"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "OpenAI CEO Sam Altman encourages South Korea to supply chips in AI boom"
+    excerpt: "Altman, after crisscrossing Europe last month meeting lawmakers and national leaders to discuss AI's prospects and threats, has travelled this week to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea."
+    publishedDateTime: 2023-06-09T13:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/openai-ceo-encourages-south-korea-to-supply-chips-in-ai-boom/articleshow/100879979.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
   - title: "OpenAI CEO highlights South Korean chips sector for AI growth, investment"
     excerpt: "OpenAI CEO Sam Altman encourages South Korea to lead in AI chip production, expressing interest in investing in Korean startups."
     publishedDateTime: 2023-06-10T10:29:00Z

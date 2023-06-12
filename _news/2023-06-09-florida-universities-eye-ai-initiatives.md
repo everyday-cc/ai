@@ -81,6 +81,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Florida universities look at threats, opportunities from artificial intelligence"
+    excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
+    publishedDateTime: 2023-06-12T06:30:00Z
+    webUrl: "https://www.bizjournals.com/jacksonville/inno/stories/news/2023/06/12/florida-universities-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
 secured: "9QUk28yRz0YQUaJJx14zTHfyCANQYFwSiVKNiOWd1/x5OgSOinvpLNpYIwPGDm+KKLEfngsh+TlzDHPOpnIvr7HGz7eRwH5wgVLnRa0RzLwu7OZZsmq67UZx+e74aTIYpXWgBZSj4I1jc1B4vIE/fL55fMJMfovgj0sgwPZs6oep6sbruGTU9S5s5KLm0zvuvZ/7bPJGuRwUMyOQkdFtNrCwD759tjaz/QlNxHAOlk/+dV39B45ANRE0MoAq9L6iyGqes4YxK8uSr9TJ5xp1bMVKhko/mQfDMe5ZDR+cUdVmAlkRGm+mqJspNRCNEz8aRP4zPbhOph2oOZNvTLDihI8IHvDfhYgRva9Wov03pY8MRykkFqEWtHDwHL2FztvWZmPQkVGlXbcFNEOdz9+zS44u5oj1sMW6YWYBVFTd9fXnsWsZeTOcC8nsN3y/ZY1YLvLUJBIvuMgXpc6zxP4cfeMI6JQj3RcG/j9mFoNFBC1pXx1bwMXPzD7cbyiSijFD8Q0TON6oRn4f68A9A3PaIA==;DCqasgHNJH10lwkW9wtS1g=="
 ---

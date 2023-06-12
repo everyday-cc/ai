@@ -24,17 +24,6 @@ images:
     height: 394
     isCached: true
 
-related:
-  - title: "dnata Introduces Ground-Breaking Cooking Robot at World Travel Catering and Onboard Services Expo (WTCE)"
-    excerpt: "AI-powered robot capable of handling cooking operations in commercial and residential kitchens. Hamburg, Germany, June 7, 2023 – dnata, a leading global air and travel services provider, announced an exciting addition to their presence at the World Travel Catering and Onboard Services Expo (WTCE)."
-    publishedDateTime: 2023-06-07T13:28:00Z
-    webUrl: "https://www.aviationpros.com/ground-handling/ground-handlers-service-providers/catering-cleaning-services/press-release/53062710/dnata-dnata-introduces-groundbreaking-cooking-robot-at-world-travel-catering-and-onboard-services-expo-wtce"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 2
-
-secured: "q8eMZuneJ7sJd7oJtIPUvfw1jv/rxoK24va0Z8CReqpA5s85xC/FZe1YBfb/Cmm7yj7+aHZF3ZrL2DnMmJey1IWF8WXDeG4IJWdiNJjHdBD6W44rW82YiCfDlWoGlpefiHxNdoCu3uUyO2YeN/s6n90+ND39CsTSOu9nS0jUbuxcNxsKP0kD6Uf5L89CTjpl19oLmCjBbbODC8+TY+xGrqCeoaICEkWUuyN2DeQmkt16u6L4H/5ir8ZsImryYYS/YpEqXcLdm7sfBQB1FWo6osVMwMslQOzc93XUJE3IzlhelWCWG58I+oPNWyQ+UtV7vupOYy4q6CXyfHyCeCO5G6WAaYRGXAzzgg2A1HPGbrA=;xChJn6t/9afrnw1jck6Ceg=="
+secured: "d8TYqUa1xiu7Sirk6s6lH1i0ePVinl3QEcOh3ploROoD/EnwGIhMZTYEgv4S2z4B3cKMtdp01ltkZFeM/1FNauLDtXMbvXtnI/6fBkR0P2X3aUu5na+vke4bU6iohbL83Vas3QKRDJqq+tS4e/Bq4UH7rQyFBdCc3MfXSYw9oMetTLPdBfKfR3BptNWzQpLXJ/DIvAtWAEAzhw9KqhHmfQmdV5iiNZ3kWuQElzy7Rz8iryImzQbLGdfzWvSGrUOi4RqK5whfrc/AbJv2e+3UlqAixYIdcmJkQ5NfgTqAMmAKqPnEoA/upkwrd7ZpprdMUHbxhimUktoNMdYxV+mdlyBRKCpkyQ9F/0pQmrInF5pH1r8Z1hFKTAxn2sKaY5y0Yb8u7VP5MMJbjfiB0ymIIopTMRecA27y17wzLynQcqN11nT308E3GVdoHjNI86VydUtOTqAzewmFlbPHT7LtXI0Y5WVNmLm3YK4QI+WuwUSnFMNwQIOgbK+1TnhiJByNcvqMt7q3YEl98PY8g+4i/A==;AeF7DnmBAoPj4tqQsqyBbw=="
 ---
 

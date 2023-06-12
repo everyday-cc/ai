@@ -26,6 +26,45 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI CEO calls for global cooperation to regulate AI"
+    excerpt: "Sam Altman, the CEO of ChatGPT maker OpenAI, used a high-profile trip to South Korea on Friday to call for coordinated international regulation of generative artificial intelligence, the technology that underpins his famous chatbot."
+    publishedDateTime: 2023-06-09T11:47:00Z
+    webUrl: "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230609034602-01-sam-altman-chatgpt-060923-restricted.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "OpenAI CEO Calls for Collaboration With China to Counter AI Risks"
+    excerpt: "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement."
+    publishedDateTime: 2023-06-10T05:19:00Z
+    webUrl: "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-797978/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "A Call For The Ethical And Responsible Use Of AI"
+    excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"
+    publishedDateTime: 2023-06-08T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/a-call-for-the-ethical-and-responsible-use-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "OpenAI CEO Sam Altman visits South Korea as country seeks to encourage AI development"
     excerpt: "After crisscrossing Europe last month meeting lawmakers and national leaders to discuss the prospects and threats of AI, Altman has travelled to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea - all this week."
     publishedDateTime: 2023-06-09T01:34:00Z
@@ -60,15 +99,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 34
-  - title: "Altman Urges South Korea To Lead In AI Chip Production"
-    excerpt: "Sam Altman, the chief executive officer of ChatGPT developer OpenAI, met with South Korean President Yoon Suk Yeol on June 9 and urged South Korea"
-    publishedDateTime: 2023-06-11T12:50:00Z
-    webUrl: "https://menafn.com/1106422872/Altman-Urges-South-Korea-To-Lead-In-AI-Chip-Production"
+  - title: "OpenAI CEO highlights South Korean chips sector for AI growth, investment"
+    excerpt: "OpenAI CEO Sam Altman encourages South Korea to lead in AI chip production, expressing interest in investing in Korean startups."
+    publishedDateTime: 2023-06-10T10:29:00Z
+    webUrl: "https://cointelegraph.com/news/openai-ceo-highlights-south-korean-chips-sector-for-ai-growth-willing-to-invest"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 33
 
 secured: "E/FXO1S1XiX44r6GteLyLYV6J7/IBQpdezuCzI4RO+Yc9ttflBYOVxNtgZkP5RIcO2FXvX1caje381gn1gnmi8SYzLQbPs4k5Fn3eEbeRUVgHJ56AO7znfO4aQesOIXTk1sHmHAM8+psnY+gWaiIz/BEjmDkTaH1qHuZWirFv33hL7Tgs1Gum3POU5ko243T556zKNPd4ASbgqHAGNYqU8/S/EG1BeOtGugW4dehn89UDtFlvtC1tcQrxscHbFrEJJuy014wwQ5IjZCvTHnWdg/kO+38uC09lQ+MTx9bSythfLhqIfpOFfdMj8qBOuis9fg7ciDPfyjBUN88nsdLwPhWS+9pVCxu982rShAbjaA=;cpB+M6UnaZzQaO7KL1X11w=="
 ---

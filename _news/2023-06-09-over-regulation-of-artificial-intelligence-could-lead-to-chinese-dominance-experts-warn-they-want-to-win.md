@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/over-regulation-artificial-intelligenc
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/over-regulation-artificial-intelligence-lead-chinese-dominance-experts-warn-they-want-to-win.amp"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:

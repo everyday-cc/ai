@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multid
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/648642d4a607fe1d81f4b945/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "OneDegree partners with Microsoft to drive Insurtech & cybersecurity innovations with Azure OpenAI"
+    excerpt: "OneDegree Global, a technology startup in the insurtech and cybersecurity sectors, has entered into a strategic partnership with Microsoft Hong Kong. The"
+    publishedDateTime: 2023-06-12T06:01:00Z
+    webUrl: "https://www.reinsurancene.ws/onedegree-partners-with-microsoft-to-drive-insurtech-cybersecurity-innovations-with-azure-openai/"
+    type: article
+    provider:
+      name: reinsurancene
+      domain: reinsurancene.ws
+    quality: 55
+    images:
+      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2019/10/cyber-security.jpg"
+        width: 340
+        height: 226
         isCached: true
   - title: "AI, facial recognition tech front and center at China security expo"
     excerpt: "AI tech that spots \"undesirable\" behavior and long-distance facial recognition software were on show Thursday at a Beijing expo attended by hundreds of companies -- many blacklisted by the United States for their alleged role in repression in China and abroad."

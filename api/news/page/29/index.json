@@ -2,6 +2,83 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-05-22-automotive-deep-learning-platform-shifts-to-cloud.md",
+      "title": "Automotive deep learning platform shifts to cloud",
+      "excerpt": "One more chipmaker is taking its semiconductor design solutions to the cloud in a bid to reinvent the developer experience while easing evaluation tasks for deep learning-based automotive designs. In collaboration with software house Fixstars, Renesas is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/automotive-deep-learning-platform-shifts-to-cloud/",
+      "originalUrl": "https://www.embedded.com/automotive-deep-learning-platform-shifts-to-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-how-artificial-intelligence-is-revolutionising-healthcare.md",
+      "title": "How Artificial Intelligence is revolutionising healthcare",
+      "excerpt": "Artificial Intelligence (AI ... AI is often far more cost-efficient than manual healthcare. Its development could therefore make medical treatment and care possible for more people, including ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
+      "originalUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/06/77/95/72/1000x563_cmsv2_318135f2-319f-5def-a5e6-ef3157a46aa7-6779572.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-the-3-ai-stocks-you-need-to-own-now-for-maximum-returns.md",
       "title": "The 3 AI Stocks You Need to Own Now for Maximum Returns",
       "excerpt": "The popularity of artificial intelligence has surged since the launch of ChatGPT in November 2022, which was developed by the AI startup OpenAI. This has resulted in the company being valued at $ ...",
@@ -1087,109 +1164,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-meta-is-developing-its-own-ai-chip-heres-hoping-it-goes-better-than-the-metaverse.md",
-      "title": "Meta is developing its own AI chip - here's hoping it goes better than the Metaverse",
-      "excerpt": "Meta has announced the development of a new chip, specifically designed to run AI models. The company is known for its family of apps including Facebook, Whatsapp and Instagram – and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/meta-is-developing-its-own-ai-chip-heres-hoping-it-goes-better-than-the-metaverse",
-      "originalUrl": "https://www.techradar.com/news/meta-is-developing-its-own-ai-chip-heres-hoping-it-goes-better-than-the-metaverse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/zaTtzPgujXeNSbkNxLYiJX-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-20T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-lawmakers-reveal-ai-concerns-over-future-of-humanity-following-openai-ceos-senate-testimony.md",
-      "title": "Lawmakers reveal AI concerns over 'future of humanity' following OpenAI CEO's Senate testimony",
-      "excerpt": "Displaying bias, foreign adversaries like China becoming dominant, and outsmarting humans were all top artificial intelligence concerns for members of Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony",
-      "originalUrl": "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bae5da6-5fb6-41ce-94a2-52971e5432f0/24af8e1e-0e18-48c0-8e11-238b317f713c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony.amp",
-      "publishedDateTime": "2023-05-19T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

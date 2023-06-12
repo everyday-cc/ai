@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ktvu.com/news/dog-dies-after-being-hit-by-self-driving-c
 cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/dog-dies-after-being-hit-by-self-driving-car-in-san-francisco.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,52 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo Self-Driving Vehicle Kills Dog in San Francisco"
-    excerpt: "The dog ran into the street from behind a parked car causing what Waymo describes as an unavoidable incident. A Waymo robotaxi struck and killed a small dog in San Francisco last month while it was in self-driving mode."
-    publishedDateTime: 2023-06-07T13:32:00Z
-    webUrl: "https://www.pcmag.com/news/waymo-self-driving-vehicle-kills-dog-in-san-francisco"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04SKS3KBJp73X6USecAt2qd-1.fit_lim.size_1200x630.v1686140384.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Self-driving Waymo car kills dog amid increasing concern over robotaxis"
-    excerpt: "Collision occurred as canine ran out from behind another car, but autonomous vehicle could not stop in time to avoid contact"
-    publishedDateTime: 2023-06-07T19:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/e00f02701042ab5e25107c0616d98bbbf908dad3/0_190_4704_2823/master/4704.jpg?width=620&quality=85&auto=format&fit=max&s=f3e82d73872bffddfbf35a8c1eaa33f8"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Waymo Self-Driving Car Runs Over And Kills Dog In “Unavoidable Accident”"
-    excerpt: "The vehicle was driving in autonomous mode when the accident occurred. Waymo, which is owned by Google’s parent company Alphabet, said that although the vehicle saw the dog running towards it, it was “not able to avoid contact.” It cites the ..."
-    publishedDateTime: 2023-06-08T14:24:00Z
-    webUrl: "https://www.carscoops.com/2023/06/waymo-self-driving-car-kills-dog-in-unavoidable-accident-according-to-the-company/"
-    ampWebUrl: "https://www.carscoops.com/2023/06/waymo-self-driving-car-kills-dog-in-unavoidable-accident-according-to-the-company/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/waymo-self-driving-car-kills-dog-in-unavoidable-accident-according-to-the-company/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 58
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2023/06/2023-Waymo-Jaguar-I-Pace-AV-1.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Self-driving car hits and kills small dog in San Francisco"
     excerpt: "An initial review indicated that the Waymo’s system correctly identified the dog, which ran from behind a parked vehicle. However, the vehicle was unable to avoid hitting the animal."
     publishedDateTime: 2023-06-12T00:00:00Z
@@ -100,15 +54,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Waymo self-driving car killed dog in accident: Report"
-    excerpt: "As per the report, a self-driving Jaguar I-Pace car was travelling on Toland Street, a slow-speed street close to Waymo's depot, when a dog ran into the road. At the time of the incident, the car was in autonomous mode, with a human safety operator at the ..."
-    publishedDateTime: 2023-06-08T07:28:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20230608/4083207.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "OlEXk9qo3AuxDe5kcqg9N2dQo/8GBA6RmasU7Ts69raaN2zo457m+0GjjdniPr5nJ+RunW+VZ5Cdv5fnUcnbijgXmm/NvhdIaoodSDNsZnnYHJ5E+m+sy/81Qbcp/WUNJp2CwWgN8Rd+KbZGGbPyogay0Gakxj2z+BaVpeBGF8AB+HIAK12Fl8GaERY/vECCM06px6VSVjJ6od4JmLJFFeO2e+O25uC647zyKdIVetEa/+WEFBju47WyaRlr6UT8NwpcUIDfYOTaOU3THVFYHN0ftZKp3yiC01KJeFKrbesPig4HiDFObi1NPFqCaEW/6YBFSRvAwAyz0XZuPnuxybvjhi3MV48j+Q9ixu6YGT/hP3pbNwDc2irSfwNHy8md6ZqnO2TaU9lxYwAViBCPoNQS2JeI31GFLiYayK7imd2aaqeI1jzOCo61wKYq/MAxmJwgv3d8Uu7TNZrDtwaCiHos//tIQBfswiVP3Xle2QGdntmlCP14aYblflQrlx9y5wiMZrK/xX0O2dxkHglqzw==;wmA94xqHMMsPc3ipXKvbqQ=="
 ---

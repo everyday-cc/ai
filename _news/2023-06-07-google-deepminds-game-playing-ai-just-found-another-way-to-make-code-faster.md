@@ -44,34 +44,6 @@ related:
         width: 1200
         height: 680
         isCached: true
-  - title: "Deepmind’s AI Is Learning About the Art of Coding"
-    excerpt: "AlphaDev has made small but significant improvements to decades-old C++ algorithms. Its builders say that’s just the start."
-    publishedDateTime: 2023-06-07T15:00:00Z
-    webUrl: "https://www.wired.com/story/deepminds-ai-is-learning-about-the-art-of-coding/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 88
-    images:
-      - url: "https://media.wired.com/photos/64800cea7b25a434b1f3be07/191:100/w_1280,c_limit/business_deepmind_ai_code.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Google DeepMind Unveils AI System to Discover Faster Algorithms"
-    excerpt: "The new system, called AlphaDev, focuses on finding more efficient algorithms for software development"
-    publishedDateTime: 2023-06-07T14:15:00Z
-    webUrl: "https://www.wsj.com/articles/google-deepmind-unveils-ai-system-to-discover-faster-algorithms-90f7e242"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-795508/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Inside Google DeepMind’s approach to AI safety"
     excerpt: "Lila Ibrahim, COO of Google DeepMind, will speak at TNW Conference on June 16. Ahead of the talk, she shared the lab's approach to AI safety."
     publishedDateTime: 2023-06-09T09:10:00Z

@@ -85,22 +85,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Google Cloud partners with Mayo Clinic on new AI tool to improve patient care"
-    excerpt: "June 7 (UPI) --Google Cloud has announced a new partnership with Mayo Clinic that will introduce a new Artificial Intelligence tool that aims to improve the efficiency of healthcare throughout the ..."
-    publishedDateTime: 2023-06-07T14:59:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/06/07/google-cloud-partners-with-mayo-clinic-on-generative-ai-patient-search-tool/5401686141052/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/06/07/google-cloud-partners-with-mayo-clinic-on-generative-ai-patient-search-tool/5401686141052/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/06/07/google-cloud-partners-with-mayo-clinic-on-generative-ai-patient-search-tool/5401686141052/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 56
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5401686141052/2023/1/45381231774a6b1eca53d7f2a194ff87/v1.5/Google-Cloud-partners-with-Mayo-Clinic-on-new-AI-tool-to-improve-patient-care.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Salesforce Connections - how Baptist Health personalizes its patient engagement and what AI may bring to the story"
     excerpt: "How to personalize and scale patient engagement in the hugely competitive US healthcare sector is a major challenge for all providers. New AI tech may be one way to achieve this, reckons Baptist Health,"
     publishedDateTime: 2023-06-09T11:08:00Z

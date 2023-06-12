@@ -48,6 +48,20 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 64
+  - title: "Tesla Won’t Pilot Full Self-Driving Function in Shanghai, Source Says"
+    excerpt: "US electric carmaker Tesla will not pilot its Full Self-Driving Capability function in Shanghai, a source at Tesla China told Shanghai Securities News. A recent rumor on Chinese social media claimed that Tesla’s FSD would be available in some areas of China,"
+    publishedDateTime: 2023-06-12T07:35:00Z
+    webUrl: "https://www.yicaiglobal.com/news/20230612-10-tesla-wont-pilot-full-self-driving-function-in-shanghai-source-says"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 54
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/06/25142668994245.jpg"
+        width: 770
+        height: 510
+        isCached: true
   - title: "Self-driving car from Google's Waymo company runs over dog"
     excerpt: "In a rare accident involving a self-driving car, a vehicle from Google's sister company Waymo killed a dog that ran into the road in front of it. The car was driving autonomously here with an employee in the driver's seat,"
     publishedDateTime: 2023-06-10T16:00:00Z

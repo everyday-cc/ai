@@ -109,6 +109,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Azure Government cloud gets access to OpenAI’s generative AI models"
+    excerpt: "Azure Government cloud infrastructure platform can now access the latest artificial intelligence models from ChatGPT creator OpenAI LP. The company said in a blog post that Azure Government users will be able to experiment with two of OpenAI’s large language models,"
+    publishedDateTime: 2023-06-08T01:14:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/azure-government-cloud-gets-access-openais-generative-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/microsoft-1.png"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Lilt Launches Generative AI Multilingual Writing App"
     excerpt: "New Tool Enables Quick Generation and Finalization of On-brand, Locally Relevant Content SAN FRANCISCO, June 8, 2023 /PRNewswire/ -- Lilt, the"
     publishedDateTime: 2023-06-08T15:58:00Z
@@ -155,15 +169,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
-    excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
-    publishedDateTime: 2023-06-07T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/google-mayo-clinic-launch-generative-artificial-intelligence-collab"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "tlB4Hbc2kd8C5v1+lGxAbkfwUKOQJY0nzA0aVNmtHENOMax9Vwd2XdySfF5DWcOhKVRYCjtJgm+dr/4oBtK2ndlaqvuHcWw6owjWrJjbZ5IkLmHYcPhtGHMHr9ysKQvNcjOR8SJ6xJMCAW5IJYXjYxXbut0H7ODonlZSO+kGe3yNz+2GO02pz1xIN7BQfXcz9pKSqiuspR/aafJgkGW1o8ULyfkk8gIKIMHs3XcqPf9NKK5Sr+iAsRcowKrC6JDSbA973NWKPRHDMMSvi/v1rpi8QnDPWIhHl4XqovjVpMDzlksUs0b0//yOl2Feik9/gNwyoAgecyILfRz7EodI4lnT3NWgk3Tu85RsViCUEsw=;jlzyUb1+dCjM0uE1gg5JAg=="
 ---

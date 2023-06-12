@@ -55,24 +55,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "Impact Analytics enhances its AI-native product portfolio with generative AI technologies"
-    excerpt: "Today's fastest-growing AI-powered retail-planning provider seizes the opportunity to exploit complementary, innovative AI technologies.LINTHICUM"
-    publishedDateTime: 2023-06-07T14:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/impact-analytics-enhances-its-ai-native-product-portfolio-with-generative-ai-technologies-1032375681"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "Cisco Systems CEO sees artificial intelligence making security management simpler, more efficient"
-    excerpt: "In his keynote address Tuesday kicking off the San Jose tech giant's Cisco Live 2023 event in Las Vegas, CEO Chuck Robbins told the audience the company's goal is to make technology simpler to use for its consumers."
-    publishedDateTime: 2023-06-07T14:31:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/07/cisco-systems-chuck-robbins-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 21
 
 secured: "nVO8obZt8CQiEC3PZnwFwSilBGteDNCzGJH8UKpOFJl7OH6G+E8ZCM+WYNZwrimt76ss3QFhAfsGKhbVjSgb10Iv+F7+x5S2dCTMkf8T/yFbpxqx+hOgEaavS/KtrBq/i6NpyLs78p/f5o5whC+0ZTMv65JV5POF3spdNoS1IFtUyBIt5S00+hr8ZL1nhWXUIwwrlbuVBXDEL9H9/qpGTzlNLVpXGlPU56ekuIdKnAAaCxPVJH4ThqMkrQeGvLPUSOCyboAyXD2/0P9RL+XGqbaZkWWztNaudQpy2MEbcFHgSdEqfQdFkHHzJDjTT6Z0/w+o3JuLpYUvKH7XkNuwFYj01C5wajj8MWRwZOGv3Z8=;l3uRSBqczd5GQ6AjyrtY7A=="
 ---

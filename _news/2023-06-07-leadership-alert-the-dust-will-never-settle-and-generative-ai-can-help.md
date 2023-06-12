@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/leadership-alert-the-dust-w
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/leadership-alert-the-dust-will-never-settle-and-generative-ai-can-help/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why The CHRO Will Be The New Boss Of Generative AI"
-    excerpt: "Your CHRO and team need to be firmly integrated into any initiative to successfully bring generative AI into your business."
-    publishedDateTime: 2023-06-07T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/07/why-the-chro-will-be-the-new-boss-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647f4446248590063657d5cd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Human Connection In The Digital Age: Leadership Lessons From Hybrid Work, Generative AI, And Taylor Swift"
     excerpt: "As hybrid work and generative AI advance, effective leaders recognize and tap the need for human connection to make their workplaces more desirable and productive."
     publishedDateTime: 2023-06-08T17:52:00Z

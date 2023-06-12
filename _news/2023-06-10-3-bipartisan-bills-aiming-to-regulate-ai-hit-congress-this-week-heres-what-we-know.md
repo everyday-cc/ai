@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/three-bills-to-regulate-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 46
-  - title: "Meta Artificial Intelligence Leak Draws Bipartisan Hill Concern"
-    excerpt: "Richard Blumenthal (D-Conn.), chair of the Senate Judiciary Tech and Privacy Subcommittee, and Josh Hawley (R-Mo.), its ranking member, want some answers from the Facebook parent on why details of its “Large Language Model Meta AI (LLaMA)” program were leaked."
-    publishedDateTime: 2023-06-07T14:36:00Z
-    webUrl: "https://www.nexttv.com/news/meta-artificial-intelligence-leak-draws-bipartisan-hill-concern"
-    type: article
-    provider:
-      name: nexttv
-      domain: nexttv.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jwcAUpqYudTZXzubFZDEfA-1200-80.jpeg"
-        width: 1200
-        height: 794
-        isCached: true
 
 secured: "jh3ne4cPLWrXiqhsRfB2hGSLS4UsZSoDYvnTnDoNYMxtlDDZ/U5IuvYQ5rJ0NE2zxphQ4rao98UQ2NDuonDEGQju25rj/nwWcnf0naCce66aLw0fzR658c3Zki6/PCdACJ+XCXt5JV/rtBKnEbAyexf+X/rjYS+KL3A7ffy4QQQ8fiwnoalUMymiu3zADoFiB5rgulDhV5801lWvWSG4lLEUJNbcz9Whjm538T+qlCLxxl163+k7UefsEWsWFPtSAerw14PlbXyQAACbOsFALHPe+LceAqk431tS4bKSSPRqY0jvwdTB7cyjoxIc4ww8Uvig6R8ZKS7eWVHkVZjIKCCUbwFmbMIJFyQlKfJlFmI=;9UXWgl3f/HZ6NgJ/JounQQ=="
 ---

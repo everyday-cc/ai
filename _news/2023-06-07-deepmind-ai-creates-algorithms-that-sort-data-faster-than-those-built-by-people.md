@@ -41,20 +41,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Deepmind’s AlphaDev discovers sorting algorithms that can revolutionize computing foundations"
-    excerpt: "The AI system has made a significant breakthrough by uncovering faster sorting and hashing algorithms for AI developers worldwide."
-    publishedDateTime: 2023-06-07T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/deepminds-alphadev-discovers-sorting-algorithms-that-can-revolutionize-computing-foundations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/1200_x_675_pixels_-alphadev_presspack.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Can Apple keep the Metaverse dream alive? Plus, Google's DeepMind AI develop \"extremely\" optimised algorithm tool."
     excerpt: "After Meta boss, Mark Zuckerberg has spent countless hours and billions of dollars on his Metaverse dream, has Apple just blown that dream out of the water with its new spatial reality headset? Plus,"
     publishedDateTime: 2023-06-08T06:53:00Z

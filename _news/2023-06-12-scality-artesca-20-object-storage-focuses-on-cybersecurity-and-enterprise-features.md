@@ -63,6 +63,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "OneDegree partners with Microsoft to drive Insurtech & cybersecurity innovations with Azure OpenAI"
+    excerpt: "OneDegree Global, a technology startup in the insurtech and cybersecurity sectors, has entered into a strategic partnership with Microsoft Hong Kong. The"
+    publishedDateTime: 2023-06-12T06:01:00Z
+    webUrl: "https://www.reinsurancene.ws/onedegree-partners-with-microsoft-to-drive-insurtech-cybersecurity-innovations-with-azure-openai/"
+    type: article
+    provider:
+      name: reinsurancene
+      domain: reinsurancene.ws
+    quality: 55
+    images:
+      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2019/10/cyber-security.jpg"
+        width: 340
+        height: 226
+        isCached: true
   - title: "AI, facial recognition tech front and center at China security expo"
     excerpt: "AI tech that spots \"undesirable\" behavior and long-distance facial recognition software were on show Thursday at a Beijing expo attended by hundreds of companies -- many blacklisted by the United States for their alleged role in repression in China and abroad."
     publishedDateTime: 2023-06-08T21:51:00Z

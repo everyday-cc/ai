@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OneDegree partners with Microsoft to drive Insurtech & cybersecurity innovations with Azure OpenAI"
+    excerpt: "OneDegree Global, a technology startup in the insurtech and cybersecurity sectors, has entered into a strategic partnership with Microsoft Hong Kong. The"
+    publishedDateTime: 2023-06-12T06:01:00Z
+    webUrl: "https://www.reinsurancene.ws/onedegree-partners-with-microsoft-to-drive-insurtech-cybersecurity-innovations-with-azure-openai/"
+    type: article
+    provider:
+      name: reinsurancene
+      domain: reinsurancene.ws
+    quality: 55
+    images:
+      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2019/10/cyber-security.jpg"
+        width: 340
+        height: 226
+        isCached: true
 
 secured: "+FFm7i3XvnvOEQzZhqLi0/kfa0kNwT3cQ3LRYiwm5lySsqZtQ3L60gexwzXnHsL63KIa48VfgxGtxJ/iU7u6+FCKAwgHQ4Vk3lPDT0lTyfdchT8hGjldWzSfdMsEtpp4GRDKiJH5Gf8lt/7CENf9QCqOJ/2wLlbrboVsAILRGg2uTym4B481XPcoyJb42JTV8YV4R+dh9lZmLU3UHfZJOJ+rmmgDeJD9JpI5OTSwBOzd/pYBHE4Tl3QS+EDLCK3o23H965mMke7/+6jchw4Gw87SanirJMqdQzQhmERzhrJTQFs1Mx9wG3RknyxWaRSVtywDure06QwJNa7+oyjvvEYTHqj2jsBQKRBTL4c+Nnnz2HfYbXnjeGYvNUcTvO35JeRugA0XOwCJL8WOZLThx36w2P6aysr/7Lifajgx74b4mNUcIV6WqQcQsusKdzz/gYklu0Ad5TzFkOw9OBYjWRplq4GFq4JrEUp0IwTHItUBGIN/v+LmJMYq2Ghe6H55za/6f2rXfYWVGz1nwfdjjg==;t8WbsojaS10q+0vwkYSK7Q=="
 ---

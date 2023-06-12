@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/miami/news/florida-universities-look-to-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Florida universities look at threats, opportunities from artificial intelligence"
+    excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
+    publishedDateTime: 2023-06-12T06:30:00Z
+    webUrl: "https://www.bizjournals.com/jacksonville/inno/stories/news/2023/06/12/florida-universities-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
 secured: "FQjAPADMA3LrfOpMQBKVSIxuL0myGCY/jKec3hNryeuREPjFuo/1bRbJdxY9iCH/7HbV9qAZZymDKjLsXYw+F32iVeG+hEUtnIaPC7MQtKrmx3RE0LgNqZ8Q+/YZCv1tU5cPzwXh1YAyjX1+wqUhMzlP8YkGR8KPpDIh7At0bQByGUxiF/4GOlNETK18XSOUeQL1JN+NYuhNE9O5FYBk4kt4eUSKN7PRsDiUywUsUh58Yw7aQwC1Ddv2FZpmtt0alEUiusFyhOpB95RfhCPh5sAvkwJwOzqEAPV2z6wigy/Wqdmn9Ix+4fgPM/GioaxSg6VUwOTB078SbfE++wb+qWJyMVQdgrjanEnID9vLEmqVvJ2sRvqFmqPuHRMCvEs6jLBTevlBkdiwfIcBAuM0Dj5O+W91YsUJYYA2FnxQFq7fSazoaI9S9Ri/zNiffxG0CmCLqyLoWvDcrPF/dOMi+yhS8t9ecohQp+Lws3Qb0DS4f6ab+UZ4GXX9u1+GdzkOgIWduHKVlNu7ydm9WhafMQ==;+Nt9qO5AdJbVgFde9jDBbg=="
 ---

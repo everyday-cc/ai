@@ -115,6 +115,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Azure Government cloud gets access to OpenAI’s generative AI models"
+    excerpt: "Azure Government cloud infrastructure platform can now access the latest artificial intelligence models from ChatGPT creator OpenAI LP. The company said in a blog post that Azure Government users will be able to experiment with two of OpenAI’s large language models,"
+    publishedDateTime: 2023-06-08T01:14:00Z
+    webUrl: "https://siliconangle.com/2023/06/07/azure-government-cloud-gets-access-openais-generative-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/microsoft-1.png"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Lilt Launches Generative AI Multilingual Writing App"
     excerpt: "New Tool Enables Quick Generation and Finalization of On-brand, Locally Relevant Content SAN FRANCISCO, June 8, 2023 /PRNewswire/ -- Lilt, the"
     publishedDateTime: 2023-06-08T15:58:00Z
@@ -156,15 +170,6 @@ related:
       name: IPWatchdog
       domain: ipwatchdog.com
     quality: 31
-  - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
-    excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
-    publishedDateTime: 2023-06-07T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/google-mayo-clinic-launch-generative-artificial-intelligence-collab"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "6fbKw401xQPCJCZZ16wdDntyW2QVmEbQJGG0d/fW4OYgpFBOPFJBeULc52sVqnfk5nARUxJCZcCCIsinC25sPUGqkXkj024I+Dwn7L4yqxyQv4HsfpAKpF8ZQ1SURD93SI1MdisODDs6+9fFOhYcg8+1P1kTOz14hojQ/NG2ZggQPNd/VMfqeZ6epBlkoEvrC9rJL0LN7+wPiK2OapamqGcTdVZmRFcoTqefQ+5wkVqEPFC4CWeFHhrQgsnlMDCaAHe8lkQaSchOjEHA9skKFF115EyP3uEFpun2fZaDPE65Qa3e9hkD+fUQOI/wAk6VNaaGhFDwXWCisvDfTh9/O2ZmoJj55OImUEpsXaeHzZk=;d4bB6H98E0D+n46YF6bDww=="
 ---

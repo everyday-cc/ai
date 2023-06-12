@@ -89,20 +89,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft Adds OpenAI’s GPT-4 Models to Azure Government Services"
-    excerpt: "Potential government clients that could obtain access to ChatGPT AI models include NASA, the Defense Department, and the Energy Department."
-    publishedDateTime: 2023-06-07T14:24:00Z
-    webUrl: "https://tokenist.com/microsoft-adds-openais-gpt-4-models-to-azure-government-services/"
-    type: article
-    provider:
-      name: The Tokenist
-      domain: tokenist.com
-    quality: 69
-    images:
-      - url: "https://tokenist.com/wp-content/uploads/2023/06/182807824_m_normal_none.jpg"
-        width: 2508
-        height: 1672
-        isCached: true
   - title: "As Cortana Retires, Microsoft Brings AI-Powered Bing Voice Mode to Desktop"
     excerpt: "This new voice mode makes it more convenient to use the AI-powered Bing Chat since you can talk to it while you work on other stuff."
     publishedDateTime: 2023-06-09T18:37:00Z
