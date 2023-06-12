@@ -48,6 +48,20 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 64
+  - title: "Waymo self-driving car kills a dog in San Francisco"
+    excerpt: "A Waymo self-driving car killed a small dog in San Francisco in an incident that has raised concerns over the ambitious launch and expansion of driverless cab services in the US. The car was ..."
+    publishedDateTime: 2023-06-08T16:57:00Z
+    webUrl: "https://www.independent.co.uk/news/world/americas/waymo-self-driving-car-kills-dog-san-francisco-b2353599.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 39
+    images:
+      - url: "https://static.independent.co.uk/2023/04/26/08/Self_Driving_Cars_Surreal_Ride_53565.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Self-driving Google robotaxi hit and killed a dog in San Francisco during test drive"
     excerpt: "A Waymo rep said the self-driving car’s software “correctly identified the dog” but “was not able to avoid contact,” killing it in March."
     publishedDateTime: 2023-06-09T16:10:00Z

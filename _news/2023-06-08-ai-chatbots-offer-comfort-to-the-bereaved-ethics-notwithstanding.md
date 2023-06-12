@@ -79,6 +79,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Robots and Artificial Intelligence"
+    excerpt: "Lindsay to discuss how artificial intelligence is reshaping great power competition and intensifying the geopolitical rivalry between China and the United States. Heidi A. Campbell, professor of ..."
+    publishedDateTime: 2023-06-08T00:00:00Z
+    webUrl: "https://www.cfr.org/robots-and-artificial-intelligence"
+    type: article
+    provider:
+      name: Cfr.org
+      domain: cfr.org
+    quality: 54
+    images:
+      - url: "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
     excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."
     publishedDateTime: 2023-06-09T17:00:00Z

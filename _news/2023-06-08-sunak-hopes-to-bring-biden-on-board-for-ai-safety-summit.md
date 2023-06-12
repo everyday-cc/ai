@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-br
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/07/sunak-hopes-to-bring-biden-on-board-for-ai-safety-summit"
 type: article
 quality: 57
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -30,6 +30,34 @@ images:
     isCached: true
 
 related:
+  - title: "Sunak Keeps Up Push To Make UK a Leader in AI Regulation"
+    excerpt: "UK Prime Minister Rishi Sunak will on Monday keep up his push to give Britain a leading role in global regulation of artificial intelligence, while warning industry leaders the nation must act quickly to retain its position as one of the world’s tech capitals."
+    publishedDateTime: 2023-06-11T21:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isMt.CfJNIqk/v1/1200x802.jpg"
+        width: 1200
+        height: 802
+        isCached: true
+  - title: "UK must seize opportunities of AI to remain a tech capital, Sunak says"
+    excerpt: "Britain must act quickly to remain a tech capital, Prime Minister Rishi Sunak will tell tech leaders on Monday, urging them to grasp the opportunities and challenges of artificial intelligence."
+    publishedDateTime: 2023-06-11T21:08:00Z
+    webUrl: "https://www.reuters.com/technology/uk-must-seize-opportunities-ai-remain-tech-capital-pm-sunak-2023-06-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/WR5RFCRgJeDrP_zCkBinYSAftiQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QERF6JUD6NKWPJZEHUDU5WUM64.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "UK not too small to be centre of AI regulation, says Rishi Sunak"
     excerpt: "PM uses Washington visit to push Britain as global centre for technology and seek US involvement in safety summit"
     publishedDateTime: 2023-06-07T20:58:00Z
@@ -46,22 +74,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Rishi Sunak’s AI summit: what is its aim, and is it really necessary?"
-    excerpt: "UK government says meeting will discuss ‘internationally coordinated action’ to mitigate the risks posed"
-    publishedDateTime: 2023-06-09T13:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/09/rishi-sunak-ai-summit-what-is-its-aim-and-is-it-really-necessary"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/cdd7dbf6b2851930cbc2eb7bcc23473a0b6d999f/23_0_5447_3273/master/5447.jpg?width=620&quality=85&auto=format&fit=max&s=5d769730d1e41bbe1df2e42f7d0c75ae"
-        width: 620
-        height: 373
-        isCached: true
   - title: "Rishi Sunak in D.C. with Ukraine, economy, AI on agenda for Biden meet"
     excerpt: "The war in Ukraine is top of British Prime Minister Rishi Sunak’s agenda as he starts a two-day trip to Washington."
     publishedDateTime: 2023-06-07T16:51:00Z
@@ -71,15 +83,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 17
-  - title: "Rishi Sunak goes to Washington with Ukraine, economy and AI on agenda for Biden meeting"
-    excerpt: "The war in Ukraine is top of British Prime Minister Rishi Sunak’s agenda as he starts a two-day trip to Washington"
-    publishedDateTime: 2023-06-07T11:02:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/rishi-sunak-washington-ukraine-economy-ai-agenda-biden-99894464"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 9
 
 secured: "XGrE6ny7Bu1GqE2eVN+fcNEGkrEVJbY+ud7Ivs3XQal/P2PzknwkUJ8OnR8aH139Nh91LkoPmnf+ACfD1PCltp4be/EGRd/I8wTIzZ8ZC3HLmZXj8JAx1Hr9184jSZ2ZmIEHYNem6QIQ0jQJucEStomSuOQAymk3fnHo3Y/fNEp1QMvgiQyTvHdt0h5s423yNDKN8OC51w9pES2UKoc792pmU5riX5I0/NLXp+8m2b0IbQ+dpFqscXK1DpWimrABS9BXjjvhnFBo7Iwc7RX78kGQBWiFxIVAEW2tEoW78KwZZ5JDcaTE3/ZNarIPlK5qspFR4pqF4NBMkdpEmPJCZfgre+y1h9htCXXpXaw7zp5ulJP0ixZ8Zw1cGant8UU6cblGe/+BchTIyCI4bQjLyRciQvXfVhS3sb8jSHn9SiffQS4a21U+cJR4aI8ZL3yewLW61WAIF8eng6pMZe2/eMyIqi8IBJl7aVhJO6/PjBQaOTeCmUivwXFEkaiKBYPaOMzXp/0XSH2YBeICc5098w==;M6j/xA0DEoUMeYKbp3VfQw=="
 ---

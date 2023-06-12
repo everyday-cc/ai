@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
-    excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
-    publishedDateTime: 2023-06-07T06:04:00Z
-    webUrl: "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip"
+  - title: "Scality ARTESCA 2.0 Object Storage Focuses On CyberSecurity And Enterprise Features"
+    excerpt: "Scality ARTESCA 2.0 S3 software-defined object storage enables new cybersecurity and cyber-resilience capabilities."
+    publishedDateTime: 2023-06-11T22:00:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/"
     type: article
     provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg"
-        width: 1024
-        height: 787
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648642d4a607fe1d81f4b945/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI, facial recognition tech front and center at China security expo"
     excerpt: "AI tech that spots \"undesirable\" behavior and long-distance facial recognition software were on show Thursday at a Beijing expo attended by hundreds of companies -- many blacklisted by the United States for their alleged role in repression in China and abroad."

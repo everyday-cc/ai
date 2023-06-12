@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Landing AI's Visual Prompting Makes Building and Deploying Computer Vision Easy with NVIDIA Metropolis"
-excerpt: "PALO ALTO, Calif., May 29, 2023 /PRNewswire/ -- Landing AI, a leading computer vision cloud company, today announced at Computex that it is using the new NVIDIA Metropolis for Factories ..."
-publishedDateTime: 2023-05-29T04:38:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32611926/landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropo"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/n32611926/landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropo"
-ampWebUrl: "https://www.benzinga.com/amp/content/32611926"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32611926"
+excerpt: "Landing AI's vision technology realizes the next era of AI factory automation. LandingLens, Landing AI's flagship product platform, enables industrial solution providers and manufacturers to develop,"
+publishedDateTime: 2023-05-29T05:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971"
+webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
+    width: 400
+    height: 205
     isCached: true
 
-secured: "iBS4bm/5iL3wl0lmyF6oI6KSH1dpqiFPjKnXbXm2FcnZ4UEAg0F3o5rywSurqPzE3bkcHOlapsg8GzRUgDXSseYfKeTNwmLaNsbVcp3UcvkmEI8jOCcz88QzcmXA/plPltG4YNwbUqHu5gL9ALKr/i00/GacnrgPseQ1WiSgvFgqO/acqfakGcbZPBe+qe4PdDgs/ymrLhvfKXz3STHfpfY6WMWbl971033KY/7w0Ba3WSDtkGllXP7uPSzWIKdmpQMc825XZSjNlKRnbAwL+rYju3H5pd16EUuzJQd8GvKOaBFJJSMA6RCKj/ABK1eI3gCZGtS4HgWTW/sLT6kWJiZWLmC4z3O9uOLkOrU1ghs=;OlKzwwUX14HIb587baI+HA=="
+secured: "YHofdeO7IlYml47IaF4+7I9ft/x5u5AHjGybDk8yso+x37MTlv3UQL5E4F6/ae7XivIBcpkWLiF0evihLzLCaQITPOKlbUhAZdbcQ48SzAhRtKTS+TRNmvuuNbdmFc9zx1eLN17oYjnXm7oQS3KljO/iwYwm0mEWWeNRraiYAdgbjspa0cf4weA7casJi7t1i6boQx8Xa46yFaPSFW6rumLvWz+LCVdztbGHhY7RnyiNcD+sirD2DkCzW9OkLwrBws3dHs4sESaJLld/VNpcP4uJLFHQF/EgaW5PJi5gZXstTfi+h8LTWpNgKioqS0JGzWuNWYMrkYCZqTtnOOLDt+OQO23redp/ZTpmqOWT2Fg=;lX6Pi3yMHOakR72hV/muhw=="
 ---
 

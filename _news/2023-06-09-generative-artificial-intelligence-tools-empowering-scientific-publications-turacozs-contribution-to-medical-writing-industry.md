@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "From writing codes to drug development, generative AI is reshaping various industries: Anshul Rustaggi"
-    excerpt: "From synthesising medical images and predicting novel drugs in healthcare, to creating art and video game levels in entertainment, generative AI is transforming industries."
-    publishedDateTime: 2023-06-07T05:57:00Z
-    webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/from-writing-codes-to-drug-development-generative-ai-is-reshaping-various-industries-anshul-rustaggi/articleshow/100811886.cms"
-    ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/from-writing-codes-to-drug-development-generative-ai-is-reshaping-various-industries-anshul-rustaggi/amp_articleshow/100811886.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/from-writing-codes-to-drug-development-generative-ai-is-reshaping-various-industries-anshul-rustaggi/amp_articleshow/100811886.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 43
-    images:
-      - url: "https://img.etimg.com/photo/96164744.cms"
-        width: 2448
-        height: 1224
-        isCached: true
   - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
     excerpt: "Building on the momentum, Turacoz also hosted two consecutive webinars on \"Developing Scientific Publications Ethically in the Era of Generative AI (ChatGPT) \". These webinars provided participants with opportunities to explore the intersection o generative AI and scientific publications,"
     publishedDateTime: 2023-06-07T13:42:00Z

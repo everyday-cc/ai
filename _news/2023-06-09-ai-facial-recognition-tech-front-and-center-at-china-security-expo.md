@@ -36,19 +36,21 @@ related:
         width: 797
         height: 531
         isCached: true
-  - title: "Integrated AI-Driven Security Processors Could Help Fight Cybercrime"
-    excerpt: "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches."
-    publishedDateTime: 2023-06-07T06:04:00Z
-    webUrl: "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip"
+  - title: "Scality ARTESCA 2.0 Object Storage Focuses On CyberSecurity And Enterprise Features"
+    excerpt: "Scality ARTESCA 2.0 S3 software-defined object storage enables new cybersecurity and cyber-resilience capabilities."
+    publishedDateTime: 2023-06-11T22:00:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/"
     type: article
     provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg"
-        width: 1024
-        height: 787
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648642d4a607fe1d81f4b945/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "+FFm7i3XvnvOEQzZhqLi0/kfa0kNwT3cQ3LRYiwm5lySsqZtQ3L60gexwzXnHsL63KIa48VfgxGtxJ/iU7u6+FCKAwgHQ4Vk3lPDT0lTyfdchT8hGjldWzSfdMsEtpp4GRDKiJH5Gf8lt/7CENf9QCqOJ/2wLlbrboVsAILRGg2uTym4B481XPcoyJb42JTV8YV4R+dh9lZmLU3UHfZJOJ+rmmgDeJD9JpI5OTSwBOzd/pYBHE4Tl3QS+EDLCK3o23H965mMke7/+6jchw4Gw87SanirJMqdQzQhmERzhrJTQFs1Mx9wG3RknyxWaRSVtywDure06QwJNa7+oyjvvEYTHqj2jsBQKRBTL4c+Nnnz2HfYbXnjeGYvNUcTvO35JeRugA0XOwCJL8WOZLThx36w2P6aysr/7Lifajgx74b4mNUcIV6WqQcQsusKdzz/gYklu0Ad5TzFkOw9OBYjWRplq4GFq4JrEUp0IwTHItUBGIN/v+LmJMYq2Ghe6H55za/6f2rXfYWVGz1nwfdjjg==;t8WbsojaS10q+0vwkYSK7Q=="

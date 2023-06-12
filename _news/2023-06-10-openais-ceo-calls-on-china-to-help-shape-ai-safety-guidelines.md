@@ -54,20 +54,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "OpenAI CEO reveals why he isn't interested in taking the AI startup public"
-    excerpt: "OpenAI CEO Sam Altman has been meeting lawmakers who are creating rules to monitor AI during his weeks-long world tour."
-    publishedDateTime: 2023-06-07T06:14:00Z
-    webUrl: "https://www.ibtimes.co.uk/openai-ceo-reveals-why-he-isnt-interested-taking-ai-startup-public-1716466"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 35
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1716031/sam-altman.jpg"
-        width: 2048
-        height: 1458
-        isCached: true
   - title: "OpenAI CEO Sam Altman encourages South Korea to supply chips in AI boom"
     excerpt: "Altman, after crisscrossing Europe last month meeting lawmakers and national leaders to discuss AI's prospects and threats, has travelled this week to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea."
     publishedDateTime: 2023-06-09T13:20:00Z

@@ -60,20 +60,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "OpenAI CEO reveals why he isn't interested in taking the AI startup public"
-    excerpt: "OpenAI CEO Sam Altman has been meeting lawmakers who are creating rules to monitor AI during his weeks-long world tour."
-    publishedDateTime: 2023-06-07T06:14:00Z
-    webUrl: "https://www.ibtimes.co.uk/openai-ceo-reveals-why-he-isnt-interested-taking-ai-startup-public-1716466"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 35
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1716031/sam-altman.jpg"
-        width: 2048
-        height: 1458
-        isCached: true
   - title: "Altman Urges South Korea To Lead In AI Chip Production"
     excerpt: "Sam Altman, the chief executive officer of ChatGPT developer OpenAI, met with South Korean President Yoon Suk Yeol on June 9 and urged South Korea"
     publishedDateTime: 2023-06-11T12:50:00Z

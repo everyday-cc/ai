@@ -2,11 +2,11 @@
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
 excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
-publishedDateTime: 2023-06-01T05:42:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106"
-webUrl: "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106"
+publishedDateTime: 2023-06-01T13:10:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 558
     isCached: true
 
-secured: "7w/Ua1PYmhiA7dhea2NsFgTMHSygsWmLF57GXEoiG/Uy3dk+PAdqIc5Mp+kIwYi0twMBOdYqp3qjMlxJUINqnQX8vs9wfTA/ealinL0Mlk8SIeU4fjjWAIBogrwOl3f2R1QdSATnoUTrDPOoqCAu9exMmlR1oT+RIL6brbIqKaRFTLY+BsmoL44MfDBWYSydeRVzNdL9SuavIjIAYca2KrkAxj6D5YnuaqOfC37vnxLhvXD/6aDB6j4uiRBeArzDkbIybLeCN9f09xGV2cKfr4cFihi4cp3GGw8mowFQs0S976yKawhBq3/rFzO8MfsABEXC+XU1Al0Gr6Nrh4+ULYntKsMi3MqimR2C2MHzwQg=;RptsQjgaLrtoCRn7sn3NrQ=="
+secured: "D5eL852tSLjsfFE/v1oImBVYljobjkemW1/r6O2Okpf21lyl0AKfU2EWy/fSxIATwB7aIxcL/AR1wRqchn4hjcl3C+1avDYnlT/0VLwKUBPuAxQaj22iqTeXfLagWGJeuxtxEE0vjxT9Gnlm5asmO65XEgIdeUoef1VtVkV67qwE89/6kM1iDjWdjt5IPj+aWfzdmQYxuDCDbz3tRhRtzFinAzPHQFdL5rLoqSJK8xRZ1EQr33Li5mRuGqb0cN00Yer25S2hyDfxvhSYGMiSotTArLkgmIqM3jK9HrYJzIbGBqpnME1Aga9i/UivRoP25Bz6/ETgp1A6uYiltyo0Zz7B+oPBDZgsgOU07PNLX0c=;D9fFppNO3/4xwoxFFKSSaQ=="
 ---
 
