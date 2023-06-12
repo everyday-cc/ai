@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
 type: article
 quality: 87
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
     provider:
       name: Leadership
       domain: industryleadersmagazine.com
+    quality: 19
+  - title: "Snorkel AI Introduces New Foundation Model Data Platform"
+    excerpt: "Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic"
+    publishedDateTime: 2023-06-12T16:41:00Z
+    webUrl: "https://www.datanami.com/this-just-in/snorkel-ai-introduces-new-foundation-model-data-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
     quality: 19
 
 secured: "a/huY8eEZ8qdvSqpmm5crS/7HXzcdLIsoPM+xZmmzhaqrmYZ1dH2o8jt+yR1ZjezUbdHMgn/whOEGX/Z+LYsRYbA3KJGRFrDsmBLHCAgCNKT1Kn+IorbV+ITD5J+9tKVTRZkAxFN9lpeAZ9qjv9P838HNuGkOut0HJAQV4fZ5fwgtl6ZaqHjm3TorgZx/05ukywrRNtsMI5GOOHwLQMA3ynqSCHTWSslgun7Y24+rAuob4RyL0o9+T5TRUnRpRQAWvru6lpIidvNjUX/LOx2w62/G1MrO82hEbIAQ6GC+JokGiM4AVPln1RnKvL9rit0CygqxZ/ZNJptWVF6RXlYQMii6TQrQoMnitdQldsyyq+Was+HczNhytJK9xRaxAVcEtQlZLkLda/YpW1sNTPTfrMMysOepsdbDoSuTKDOoJSq1VKXZaHt/32T9rq1oOl5scriGI4kfHTBgyanletH7ha0/+66/agbuYpFPoJW78KD9+zZQDmBzrCPikYR//9IZ2pk4kej5LBf98moYgxpWg==;jWvEAxAoo2QugUd6VCOTlA=="

@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6286069/bytedance-tiktok-artificial-intelligence-
 webUrl: "https://time.com/6286069/bytedance-tiktok-artificial-intelligence-chatbot-china/"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

@@ -79,6 +79,15 @@ related:
       name: Leadership
       domain: industryleadersmagazine.com
     quality: 19
+  - title: "Snorkel AI Introduces New Foundation Model Data Platform"
+    excerpt: "Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic"
+    publishedDateTime: 2023-06-12T16:41:00Z
+    webUrl: "https://www.datanami.com/this-just-in/snorkel-ai-introduces-new-foundation-model-data-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
 secured: "L2JJWrwHwHuivCxSRBrlzVgN9QnFIP8LWr9y/oMve48tlfa5dJ2zAnSVhPn3Fp3qV5YgE7pt2YshsVONSm/uDh7Ll288h+0SlJsjgPK+9aiOHh6wGu9LhaqsqOkbiaOeOpNSDwVB90uV2523TCb48/0ZdwRDGbPxn0okjU2SVF5Z02mFuDy4iiO7EoUY0abZPCQ+PQ9Wq717oLryBfOWogZTuyq/Nz4LCttKo3GL9oZEC7zthmPfrq9MErHy4RTtYP45hbadE3zh2R4rHXrfZNmf2gvcM9+sy5MdYAspq1a9cXPMtvNto9fUbaXRbBAOIfPJzEbjBqdcARTcTKC57EeNczalrWoSm0rAVzx7dCIVl2CMCt+4zP3HU+pJszh7X0mCzLlIUQr+zTi2ZNMsPqKt3QDfa9Lr5F9VFA1ELNkEt6KnTS1dgvGKpXmGyk94lIGzZ17PkKHBJ3nKoAlawNUjUHc0uABWM2KqJuL45D2Za2KBlvkN6z+p4vkgxhETjHiAMs+/PG3xFtsYm2D4Xg==;haX/R7jn1Ue9vWSbfPYDqQ=="
 ---

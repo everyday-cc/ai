@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/uk-self-driv
 webUrl: "https://www.reuters.com/business/autos-transportation/uk-self-driving-car-dreams-could-break-down-starting-line-2023-06-08/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "High cost blocks wider use of safer sensors for self-driving cars"
-    excerpt: "Automakers are competing to lower costs for next-generation, high-performance sensors that are expected to make self-driving vehicles much safer on the streets. The new technology, called a light ..."
-    publishedDateTime: 2023-06-08T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14609890"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 4
-
-secured: "OelrEFEJmX/yjT4aNynXKgCLb/fM/4uC2GLFDGxHQKXvUsE2qWrCV0z+jsnG2/EoRVHUozXdP8n1tG/iQV9D8KLu9W/gNaD/WvWYS3oAdPVKkg4rIaQpwzBpOCPqN+3l28MXr+weK5HmVNcPQ8Zkccz5PfL8qOswfgJXDF9LD5xhzONemw9lvYvipdz2Tgsmr0vMItcwiBA4ee/6qGqYpVI6MfS7oYlNSirIY8f5frHlCa0k0WnOecARmRk9BSslMNjd4letAm42DEh5TF9B4N2cWCqsdMNxHO/XsYKj17uq0i9WO4c+/wTaw2Pg986RUJg/MbXJ7o7KXbEP1cY338whf3gf5QcTCgibehBRTf4=;57gHVW036G06BNTHY+UBdg=="
+secured: "BRT8F9Xg+f7kzW0P1COjTJ1lgNuhwoSM92yblH4mZclTj39+1ZelIDlyDUZ2dNv22oE7qU2WR/ZeJSls9voLJqkaOn49rocu1rn4myRwrGW+/Z1SdtVkyNgtHy9RE6d9+6pd0IFeUm1xNrtVwu2hAmfEZKVsPXznk3WsJ3aqh73svf3rl8ntfys1MFKJvqmpiLp1JxswRE4MbqTq3TTpqC4YnXLy4ThpC82lhhcVWmCM3PbHXRTFDQAprtxxnpi9NSKpzTYTLnIWIreFh484lp1SD4+AavEyj6S3Y72xU0+X2zb0ylj3ZGyAvgtU39QVcmmVZWo6+ZOckp2ItIO54hQfJyGqrvBEhmAzwFu4YoU=;E8MvydMHYffTJBCklXFhKw=="
 ---
 

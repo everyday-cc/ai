@@ -59,6 +59,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Cruise addresses self-driving vehicle criticism after Mission District shooting"
+    excerpt: "A Cruise vehicle was spotted near the chaos of the emergency response to the Mission District mass shooting on Friday night, and the self-driving vehicle company spoke out about the incident on"
+    publishedDateTime: 2023-06-12T17:27:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/amp/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
+    quality: 40
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/04/6430125ed7ad11.41242738.jpeg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "They fled San Francisco. The AI boom pulled them back"
     excerpt: "The latest wave of AI technology — known as generative AI, which produces text, images and video in response to prompts — is feeding a Bay Area boom."
     publishedDateTime: 2023-06-08T01:39:00Z

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "NT land councils pledge support of Voice ahead of Barunga Festival"
-    excerpt: "Representatives from the four Nothern Territory land councils are expected to sign a declaration of support at the cultural festival."
-    publishedDateTime: 2023-06-07T23:26:00Z
-    webUrl: "https://www.sbs.com.au/nitv/article/nt-land-councils-pledge-support-of-voice-ahead-of-barunga-festival/1yuotid0t"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 24
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/d8f293f/2147483647/strip/true/crop/2361x1328+439+197/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F35%2Fd1%2F1333f1c1434e91e5414da0a97cbd%2F20220814001689692856-original.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "NT land councils back the Voice to Parliament at Barunga Festival, 'to finally be respected as equals'"
     excerpt: "The delegates heard powerful arguments in favour of the Voice to Parliament, which will go to a referendum later this year."
     publishedDateTime: 2023-06-09T05:36:00Z

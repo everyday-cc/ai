@@ -73,6 +73,20 @@ related:
         width: 980
         height: 536
         isCached: true
+  - title: "Samsung starts developing a ChatGPT-like AI for internal use"
+    excerpt: "Samsung invests resources to create its own AI solution, utilizing a Large Language Model (LLM) for document summarization and software development."
+    publishedDateTime: 2023-06-10T11:09:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/10/samsung-starts-developing-chatgpt-like-ai-for-internal-use/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Samsung-AI.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sam Altman: The man behind the AI sensation across the globe, ChatGPT"
     excerpt: "ChatGPT: OpenAI co-founder Sam Altman says that artificial intelligence might kill jobs but it is not a permanent job killer"
     publishedDateTime: 2023-06-08T13:45:00Z
@@ -159,6 +173,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Samsung Is Developing In-House AI Service Amid ChatGPT Ban"
+    excerpt: "Samsung Electronics is set to develop its own AI service for data retrieval, document translation, and word processing."
+    publishedDateTime: 2023-06-12T15:57:00Z
+    webUrl: "https://www.techjuice.pk/samsung-is-developing-in-house-ai-service-amid-chatgpt-ban/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 39
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/06/8873167_1629185100_AI-in-SamsungArtboard-1.jpg"
+        width: 750
+        height: 360
+        isCached: true
   - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
     excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."
     publishedDateTime: 2023-06-09T17:00:00Z
@@ -226,6 +254,6 @@ related:
       domain: dailytelegraph.com.au
     quality: 4
 
-secured: "j2UTP5TITAKQTEnKApNr0SMeKwDsOcke4Np2FFzykQ5ih9nbSk6JC+FEWPbm+oXfGVIQDcg8YXV21OZ5dd2khWD1qeP4doR4wtgepmz6JvhVg9Ul++PjK11lLc4MbAz4NZHAjy149TvKHjsEpYV3KPXyTq70M/A6j+uS1vdCweJmIHxtlpMOIQeRQ6GQy/qxNPeH0ok4tYSTffAaDnK30CuGKn7sjITOgAEQ/OpyhiWBrfXDeeOR5EClOqCLKNmouhSI2RTw/Q3cpsfiBSQn+/oal6zbBvtSGeugWnPdWLrDpGtJaeU0qComhP+JaxrEO+6DeX/YO5JrvCt3kayD/6hk5fAp+csHLha/n26ScD0=;MxCihdKV8+iNRPn0yESUTg=="
+secured: "Rk86nHhcs26JDPk2fw7tfpVHx22g1eh0I/C9YqiC+gkoZCYybLDahNIMvREjhb8uUtlzhDn3jEt604QV3QmblvQBnwfQ1ypOX5KxH+LhK5pcIpZyYzMxxxdxBdUMU3/wjYaOCGW/YppmzduQ7cQJlWwyP/kSXrTEO1pPmL+mzSlLeWQqcPGimg4hbHwtBsM+ykYCX5PcmbgtvB+SMnXXVFBVzU3lrvJ4FbPu5CPiBtC3661gPfR0ND6Oe3rMaADyLc92gJi6I8Y7dgDIffeLfWXmH20RDFeQvhlUugbg0BrqTDaz/1kfMtu+n18dt8i4j1xtDnq5umpOcDL0HQAsdOO3HCTQGygdOhX6Tk5ZdKzzvLGBrKKLZwL1+UKnXu1RAlJ8sF19uQ+0VUZ1xKF4gNU9a3fzKmJXxwietvqi+UZTS+sYsWroqNNdVSLDpD/LgaM4j1sxPFiARzL/lrZRe0SRjZBjBgn2BZeKFJt0OksGvx8tRoDHeTazcl4HqS8fMNBAY14SaPcjoAAUghkaAg==;SZ94Ujkr01Ef2cPLuLNxsg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-chat-with-chatgpt-ri
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/"
 type: article
 quality: 87
-heat: 237
+heat: 257
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202306/70266bbc95114a4db02f6a0137bbf2d1.jpg"
         width: 980
         height: 536
+        isCached: true
+  - title: "Samsung starts developing a ChatGPT-like AI for internal use"
+    excerpt: "Samsung invests resources to create its own AI solution, utilizing a Large Language Model (LLM) for document summarization and software development."
+    publishedDateTime: 2023-06-10T11:09:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/10/samsung-starts-developing-chatgpt-like-ai-for-internal-use/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Samsung-AI.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Sam Altman: The man behind the AI sensation across the globe, ChatGPT"
     excerpt: "ChatGPT: OpenAI co-founder Sam Altman says that artificial intelligence might kill jobs but it is not a permanent job killer"
@@ -162,6 +176,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Samsung Is Developing In-House AI Service Amid ChatGPT Ban"
+    excerpt: "Samsung Electronics is set to develop its own AI service for data retrieval, document translation, and word processing."
+    publishedDateTime: 2023-06-12T15:57:00Z
+    webUrl: "https://www.techjuice.pk/samsung-is-developing-in-house-ai-service-amid-chatgpt-ban/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 39
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/06/8873167_1629185100_AI-in-SamsungArtboard-1.jpg"
+        width: 750
+        height: 360
+        isCached: true
   - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
     excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."
     publishedDateTime: 2023-06-09T17:00:00Z
@@ -229,6 +257,6 @@ related:
       domain: dailytelegraph.com.au
     quality: 4
 
-secured: "8dzKXk7DErWyhNkUTSjEltOLzVV8/HpdpG4nmjf3f0iQKmJsSDdp6E8/VBSm3WfSdNLXNBnjHwqkoXyxb2CpOxmTMPi4ftoOvLqdb85EJ9xUaSdaebR0m7gtRc2LeJohPYe8mWhzmvEiZv3f3Vdvs+CkdJFOttPiu0ndiCuhvXsFfQoQoLd2NpyMHwY+FCHXhbBIlp1WW7YO6WMH7P+voGsiLl8hP0ATbfNoFFfGpgGrgyC8Q7EadlCMCLfYa+sjrb8GSCwhIpiveRTWqNLHzUS4yVMW9Eia1zVXFd/y5NgQbTb5VnBOpktFOtUzSRyUkklvvWZFPkFN6zcE8OQwyRvaOQtU0ANtiJRAJUVURNQ=;2Lo2X8lnSdUdm7JXeLtxJg=="
+secured: "lgFKRK5JezGxYy41NhVP+IOfmG3F6jMELfHrlkcdrNX/g6hnxizo1WOxSbezKn585h4+ZsgQxOD1cAB+Iz5eeAlgCIUPfPDq/PBm7gAOvMLglrw81v52Por+BaycHFj1ZzJGkUy+LdE0f52ZWvdQvgynYdCyb4c8puRHSB5dAO58nA6YtHj6iBb8gDGx2E75P52y7JG1omUS3OrK3ky2PU1/Bh6vRYoWTdm3qc1I6t243oFJMLTNpA445HWD3VTYmNbzCvKeQlsdfnK+4BCREev4NXhbcJBpS6jLCIlIOv3RBUEAEtW+UjOsdbk3lDL5hnsc7OuUcdsbam8LdA3aZ63ZrWfmL8gEHirAdcwsYsBgV+UhGTsO7w6kq2/HZKx1snmdDZpQu0sMdkYXGCiPeqXIWfPBhyhCBCibX5s0FP1IsK6Ym6bVtLk8SdeOhwPB5j0rtduglFnpiI+bPHOQQLFIqBorh0mL0IP+mw0tpy/QbyZoQTjw/Ee2AooBWjGZCOs8tda4BAaIm9L9E0bS4Q==;seXIC+H9ORuPaqE2a8hTRA=="
 ---
 

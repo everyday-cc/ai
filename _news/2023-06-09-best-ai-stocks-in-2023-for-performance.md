@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Military Market Research"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Natural Language Processing), Platform (Airborne, Land, Space), Application,"
-    publishedDateTime: 2023-06-07T23:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-military-market-research-report-/2023/06/07/9828815.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "EKeo2fsO8iwx8c6Jwyn+B4uKZbDqwJyrddlLqZULM26Yb8frgJMbp5vaEro+dNjeb/GzYAzhVm2GZYYU1rQppRUvhyEC2bgfF4YAlFHHO2iLFwzqxwbtWFXzkWOkzj4t3vgSKzXgdqd2Prv1zx6to+aXh9Y1oa3aOaR/+pPcQFkDVg7yURzp5CRT+TFk+7I4vSpm0Rd8a9KapZZcb8KS3XK3r1q8KcG+Jxf9u/E47vlua7drDusIDpP9h2U1fULBeX5itzNyVdwaraAyiMf37t0z4mlFpG6x9CahnzpgnSzYr6oy/SjOZs4Ge6xQsFwhB60j3jw8pjdsYZ+djLI4IUzllhtM+J3byx7ceT7yzE7/1Ypetk9UUz4nb4mjwwUgJULVLW1CbQZ3WCW8oBIJLmucGh4L0dJKbZvH35rXrFFn/IROIvIlhkyAOZ+6NZR9/2tsCe52nTb7ZvVgTY0x3eVteug10027/hXz2whT21n3AbVJ7RkThQRgZV8SMV1WCrVmKwTT6tP4RpFd8HRvrA==;4GgIa5SvdjQlVLKe3/YBJQ=="
 ---

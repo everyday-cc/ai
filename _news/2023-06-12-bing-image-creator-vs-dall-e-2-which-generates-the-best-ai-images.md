@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/bing-image-creator-vs-dall-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bing-image-creator-vs-dall-e-2-which-generates-the-best-ai-images/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

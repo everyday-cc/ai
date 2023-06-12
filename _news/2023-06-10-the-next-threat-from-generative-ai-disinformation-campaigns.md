@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "From science fiction to reality: Business transformation through generative AI"
-    excerpt: "Generative AI models offer valuable applications across diverse business functions, spanning IT, human resources, operations, and more."
-    publishedDateTime: 2023-06-07T23:29:00Z
-    webUrl: "https://techwireasia.com/2023/06/from-science-fiction-to-reality-business-transformation-through-generative-ai/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 35
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/06/GenerativeAIinBusinesses-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "OlI8ulCmPztRv2jEBw5UNUtL3NYkdqFVJ+JzMcn5SpG/7b0bTFlRRaYh4bjPtsQqLhpcHolvOP+8Xy2QnwYbJt2CDG8ovnrtD3NhCRmWTotAF2IqV30dbYn4ZQKPdZMSpQiEDiBCALJ8V+buHGKfTzvR90rvThAIqXpWRjsU/EO992HicLC0uHSPogktcoLN8X+qDEprECJFJRW0gxtIAnUFZj/S0rsp49DdEqfir+Wpsxvgt8Rp+HJka62YRuqQks6K0RHHF9d/RQG19edkRSTL/I1NaaoCf/sxrrHlcp2xfIcmU7bRQBhojRhm701zned6S7ZDfksg/o6teNJt1JzWdse6pJ68E33cjlSlQzIIDuOObCgkZFprKNfDckjGR7EnVFwSOq2an2U+3oPP0uzxn4MEWeU1LRdOMsoHJFgRcmYjHSbz+4hBV0YnppFTrrha7SnF7Gya+rJ6AGZovs70NiaKQqw1IGW1VJjO2rBYH6TiwHcYl7sg3/zyU5dKhfQfqZoo2nsjcv8Az80Jnw==;ej5ZG8MwDRTAYsl5tgi4Xw=="
 ---

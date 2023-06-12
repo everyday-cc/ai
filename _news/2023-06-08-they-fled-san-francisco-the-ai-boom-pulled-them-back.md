@@ -68,6 +68,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cruise addresses self-driving vehicle criticism after Mission District shooting"
+    excerpt: "A Cruise vehicle was spotted near the chaos of the emergency response to the Mission District mass shooting on Friday night, and the self-driving vehicle company spoke out about the incident on"
+    publishedDateTime: 2023-06-12T17:27:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/amp/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
+    quality: 40
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/04/6430125ed7ad11.41242738.jpeg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "vRh7wlfXnV2I8ZDngaY1HCyX4nelpjDoNBCl6eLxyDJqG/0HlM6NN8yApCYjOgobCXBVLXrlueSd7hKTQOuTYC3ty0yqhx9wcAj+dOLmaicF+sdROfpYwbXqWVodGswxZz+dDKxfggLC5Eo/NvT2y5N97T+4txs7tHvd1IxmVbPY6HPGc1T5D4Ari6S4fcod8UN/zliqcuVIniYlqKxwWS7EDYhnep+Jj1Hhb+SoIOBu5nzbN03Ukjk5JKNIj1kZpV+jzm+RpdUOxGYb6EfxKVt+/EXQyzSEpFTqIHMfB+9WiZmblV7z48mJQ/emDEn/fRA/DfotEQaraXojqCGMaM2IRuDMOLAMYC0abg1kQ1cI01VeN5wsk1rxHBOW0x8RU1vkLeKh+fZ7guNvmyXlSXBRYqWNl3g57tErxNupp/RTawrDnlfIXrnQMXO49+baM4qOTzzhFWMvYC81IuEdo/AfHHmIB2sXSYaQY83Q8NfNDgx0O7aLrAqzC9yGXnPYInHVaHf35X1foUwzkMoI8g==;11JvcOlY2LAUV9QrU7RelA=="
 ---

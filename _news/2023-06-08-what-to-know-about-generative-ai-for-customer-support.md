@@ -75,6 +75,20 @@ related:
         width: 440
         height: 264
         isCached: true
+  - title: "What Smart Companies Know About Integrating AI"
+    excerpt: "AI has the power to gather, analyze, and utilize enormous volumes of individual customer data to achieve precision and scale in personalization. The experiences of Mercury Financial, CVS Health, and Starbucks debunk the prevailing notion that extracting value from AI solutions is a technology-building exercise."
+    publishedDateTime: 2023-06-12T16:00:00Z
+    webUrl: "https://hbr.org/2023/07/what-smart-companies-know-about-integrating-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/05/R2304J_TRESOLDI-scaled.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
 
 secured: "RUeYlOUrvlPOvtYvFSZvPJhp6b0L/irK4am1JONESWg+Yf0U+33Y3xqtDJL+uhiqqxSO9s1nWfMQ1D6HSdkNq1VTSSwaRWwGMEdf6+Cn0rebtL4oAeaFsLwTS/LMlXArrh+1RZDuVeB2UpPmXaVh2nsWMlSAIVHs3GKXLFsgCrWbYS3mRbOSKopNGRkhr1j8TP01rWSs8V3fHl9/APU1ZZ1h5Ggps+rp4VmmrTrYg2i318b8jqykJ5xXQ7CsanWcsKxKtUD6E+NaqvKNmd2HYVHamzT+XkZaGl6BpcoeGz3jMwBWk4PkWw7zYVuw3qjmFtEeA0BdYV5iMCox+oJqt9lH3qSIC0lnHg7Mkx7zado=;QZEwzCzJUBmRkr6S+5Dx6w=="
 ---

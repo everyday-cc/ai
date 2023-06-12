@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NEHO: developing an artificial neuron based on semiconductor technology"
-    excerpt: "NEHO (Neuromorphic computing Enabled by Heavily doped semiconductor Optics) will exploit semiconductors’ properties to create an artificial neuron that can be used to build ultrafast optical neural networks, thus providing a novel and less energy ..."
-    publishedDateTime: 2023-06-08T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/991900"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
   - title: "WiMi Hologram Cloud is Developing A Memristor-based Neural Signal Analysis System for Efficient BCI"
     excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider,"
     publishedDateTime: 2023-06-08T12:00:00Z

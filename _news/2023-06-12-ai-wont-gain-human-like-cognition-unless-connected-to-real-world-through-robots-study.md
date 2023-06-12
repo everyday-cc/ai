@@ -7,7 +7,7 @@ originalUrl: "https://www.devdiscourse.com/article/science-environment/2485553-a
 webUrl: "https://www.devdiscourse.com/article/science-environment/2485553-ai-wont-gain-human-like-cognition-unless-connected-to-real-world-through-robots-study"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "AI unlikely to gain human-like cognition, unless connected to real world through robots, says study"
+    excerpt: "Connecting artificial intelligence systems to the real world through robots and designing them using principles from evolution is the most likely way AI will gain human-like cognition, according to research from the University of Sheffield."
+    publishedDateTime: 2023-06-12T17:05:00Z
+    webUrl: "https://techxplore.com/news/2023-06-ai-gain-human-like-cognition-real.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-ai-gain-human-like-cognition-real.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-gain-human-like-cognition-real.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 60
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-robot-1.jpg"
+        width: 1920
+        height: 1920
+        isCached: true
 
 secured: "DGZ8SA1QRxXgw9tX0oDNrkVWD/dnh2tGF5Nnn7d3jemnaSnSH0hT2ptwM/QbjsMWUS91oyKAB6EvJn5BFqBnSGI0fm0jGlV4tuQxAoPM+zl+hha6Cn/c10TX/3j9hwsbaou8Dl4543XbA6DpvlLsMdIh4dWgh8vPB4fvVqjKarjDm7FK5ip5PW7rgZG9cJ16ih1Y43+/7X5ZSiyMS5v5PwOYmV6N2n2zNttDMxrsKet1voedaU4jjKsWMg3sO6f6fngefSRE5Yd/pfVwRw2ISKJBE89AkV62sDayK4rz4euR1SdFZqn8H8MBcsxcPM01+GK9EOcDnnkoLSunlsavlteUdl1NJnm7oXtsOmL8/lQ=;WLLCTlh/CwSfWSARe+tEtg=="
 ---

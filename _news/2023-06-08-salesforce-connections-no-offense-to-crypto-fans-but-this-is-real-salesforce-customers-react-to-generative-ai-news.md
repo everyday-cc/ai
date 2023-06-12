@@ -36,6 +36,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Salesforce Ventures Doubles Down On AI Investments"
+    excerpt: "Three months after launching it, Salesforce Ventures announced it will double the size of its Generative AI Fund to $500 million."
+    publishedDateTime: 2023-06-12T16:52:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/salesforce-ventures-generative-ai/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Salesforce Connections - how Baptist Health personalizes its patient engagement and what AI may bring to the story"
     excerpt: "How to personalize and scale patient engagement in the hugely competitive US healthcare sector is a major challenge for all providers. New AI tech may be one way to achieve this, reckons Baptist Health,"
     publishedDateTime: 2023-06-09T11:08:00Z

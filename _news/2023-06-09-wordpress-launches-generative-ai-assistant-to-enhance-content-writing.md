@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/wordpress-launches-generative-ai-assist
 webUrl: "https://venturebeat.com/ai/wordpress-launches-generative-ai-assistant-to-enhance-content-writing/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1081412082.jpg?w=1200&strip=all"
         width: 1200
         height: 606
-        isCached: true
-  - title: "WordPress Is Launching an AI Writing Assistant"
-    excerpt: "The new tool can create blog posts, change the tone of an existing post, or translate one language into another."
-    publishedDateTime: 2023-06-08T00:10:00Z
-    webUrl: "https://tech.co/news/wordpress-ai-writing-assistant"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2022/05/13111932/wordpress-website-e1652455213732.jpeg"
-        width: 1920
-        height: 960
         isCached: true
   - title: "WordPress’s new Jetpack AI tool can write blog posts"
     excerpt: "WordPress has announced the release of Jetpack, an AI assistant that the company describes as a, “creative writing partner” It can, “generate diverse content at your command, significantly reducing the time and effort required for content creation”. Also Read | UK to lead way on AI safety with first global summit, says PM Rishi Sunak"

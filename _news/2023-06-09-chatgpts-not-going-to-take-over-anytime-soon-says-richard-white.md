@@ -67,6 +67,20 @@ related:
         width: 980
         height: 536
         isCached: true
+  - title: "Samsung starts developing a ChatGPT-like AI for internal use"
+    excerpt: "Samsung invests resources to create its own AI solution, utilizing a Large Language Model (LLM) for document summarization and software development."
+    publishedDateTime: 2023-06-10T11:09:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/10/samsung-starts-developing-chatgpt-like-ai-for-internal-use/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Samsung-AI.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sam Altman: The man behind the AI sensation across the globe, ChatGPT"
     excerpt: "ChatGPT: OpenAI co-founder Sam Altman says that artificial intelligence might kill jobs but it is not a permanent job killer"
     publishedDateTime: 2023-06-08T13:45:00Z
@@ -166,6 +180,20 @@ related:
       - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/large-1684301392916.jpeg?fm=png&auto=format"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Samsung Is Developing In-House AI Service Amid ChatGPT Ban"
+    excerpt: "Samsung Electronics is set to develop its own AI service for data retrieval, document translation, and word processing."
+    publishedDateTime: 2023-06-12T15:57:00Z
+    webUrl: "https://www.techjuice.pk/samsung-is-developing-in-house-ai-service-amid-chatgpt-ban/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 39
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/06/8873167_1629185100_AI-in-SamsungArtboard-1.jpg"
+        width: 750
+        height: 360
         isCached: true
   - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
     excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."

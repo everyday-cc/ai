@@ -72,6 +72,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google’s CEO Talks AI, Jobs and More"
+    excerpt: "Bloomberg Chief Washington Correspondent Joe Mathieu delivers insight and analysis on the latest headlines from the White House and Capitol Hill, including conversations with influential lawmakers and key figures in politics and policy."
+    publishedDateTime: 2023-06-12T16:50:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-12/google-ceo-sundar-pichai-on-how-its-ai-chatbot-bard-stacks-up"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSCmk1xSalro/v1/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "A Call For The Ethical And Responsible Use Of AI"
     excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"
     publishedDateTime: 2023-06-08T13:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-w
 webUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/actor-william-shatner.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Robots and Artificial Intelligence"
-    excerpt: "Lindsay to discuss how artificial intelligence is reshaping great power competition and intensifying the geopolitical rivalry between China and the United States. Heidi A. Campbell, professor of ..."
-    publishedDateTime: 2023-06-08T00:00:00Z
-    webUrl: "https://www.cfr.org/robots-and-artificial-intelligence"
-    type: article
-    provider:
-      name: Cfr.org
-      domain: cfr.org
-    quality: 56
-    images:
-      - url: "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "AI chatbots offer comfort to the bereaved, ethics notwithstanding"
     excerpt: "Thanks to generative artificial intelligence, avatars of departed loved ones can now convey things they never said when they were alive."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-r
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cruise addresses self-driving vehicle criticism after Mission District shooting"
+    excerpt: "A Cruise vehicle was spotted near the chaos of the emergency response to the Mission District mass shooting on Friday night, and the self-driving vehicle company spoke out about the incident on"
+    publishedDateTime: 2023-06-12T17:27:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/amp/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
+    quality: 40
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/04/6430125ed7ad11.41242738.jpeg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "They fled San Francisco. The AI boom pulled them back"
     excerpt: "The latest wave of AI technology — known as generative AI, which produces text, images and video in response to prompts — is feeding a Bay Area boom."
     publishedDateTime: 2023-06-08T01:39:00Z
@@ -75,6 +91,6 @@ related:
       domain: seattletimes.com
     quality: 37
 
-secured: "F9Ihid88CZ1eGQqwv+FhdxkRBefbaAavQHASTjCJiXFM9uDZaQFfdcBkqZhd36UCwmn+aZEHoxu5rQ/bg9TP0zy5hkhmpcuJKdIa6swPMBIlv3Yf62G32Yaolzcrzke92d834TKwiG1LSfPIPnTGM9FvzdF/dvKPn0L/U+uCIquThse4+9GnIDVUkhtijvSS86BY2v+R3yvE0CT7t/0PxsVw/A7y82WQqf/DzM6AS7BO2XkxMzSPZ1SL4sNFPyMkn9Hg9sGJ5NRsldZ9JglRo4qmUD/SZ18D5lYasHL+4ZHu2NbYJmXy/YYSDcgbxW3LEJX2vcVnh+i8mT0xPbMgnMOkZ+ud4NzBJtjmvxTeid4=;WKDpwoQ0Q4iwdZ/NK7aXSw=="
+secured: "tKIcOOUE/6vz6poy4jrLOL08k4L1HhgcFbIrBvVvawiidIbbMtgQK8AwUMqcxtyPwAusPVWJYc/hXQrgeKp0g7oMyOUr6oWC73/XrQA9PKAo/zgHwwbXDZWVgACd1Zh5UXVLZySDvs9KDi0pgrfLMBaY4BH+/RudmMf+DZXeJWjILAnFtdgxv+gdDs5VBtRUTQahMM5hg28nQCPDhp5wWjhRTyaxockxBLgqR+WtRCDq2ORZ7vuli+zQQ91qqZIdvpH9N16txuvvLI1Gcw5TjJld1RyUG1eozGgvK3THOLhcgr1cOYmhvMQbKMjI8kbF02nNQpYOuuaUfne3bCEsw9kIewcCFLlIJtp3fi+CNNOR3Kfjx17TIM5nmJNBJq7WZvGRFTebcBGsLJxpy+8rPgFiLxVnZaujPdKkUf2kdBx4f+M1wRGJT6JqSQw6YF83r1AauboTYgPk4JcYGGBKL0RZW/sE8q/W484mTILSvdFUH8QmgxVAIcDBH9GvZCG8WSkcRkdb0Cgu9yWxIogi0w==;R/cNebxnN+vs+9+6+G/nug=="
 ---
 

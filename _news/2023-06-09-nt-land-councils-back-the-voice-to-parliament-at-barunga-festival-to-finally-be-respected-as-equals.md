@@ -7,7 +7,7 @@ originalUrl: "https://www.sbs.com.au/nitv/article/nt-aboriginal-land-councils-ga
 webUrl: "https://www.sbs.com.au/nitv/article/nt-aboriginal-land-councils-gather-at-barunga-to-declare-their-support-for-the-uluru-statement-of-the-heart/lygq1zsng"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NT land councils pledge support of Voice ahead of Barunga Festival"
-    excerpt: "Representatives from the four Nothern Territory land councils are expected to sign a declaration of support at the cultural festival."
-    publishedDateTime: 2023-06-07T23:26:00Z
-    webUrl: "https://www.sbs.com.au/nitv/article/nt-land-councils-pledge-support-of-voice-ahead-of-barunga-festival/1yuotid0t"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 24
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/d8f293f/2147483647/strip/true/crop/2361x1328+439+197/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F35%2Fd1%2F1333f1c1434e91e5414da0a97cbd%2F20220814001689692856-original.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Indigenous voice to parliament adds a political dimension to the Barunga Festival"
     excerpt: "Before Easter, when I was grounded for a few months for medical reasons, I had to abandon an extensive travel program in my role as Special Envoy for Reconciliation and Implementation of the Uluru Statement from the Heart."
     publishedDateTime: 2023-06-08T23:30:00Z

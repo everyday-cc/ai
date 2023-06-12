@@ -49,20 +49,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Robots and Artificial Intelligence"
-    excerpt: "Lindsay to discuss how artificial intelligence is reshaping great power competition and intensifying the geopolitical rivalry between China and the United States. Heidi A. Campbell, professor of ..."
-    publishedDateTime: 2023-06-08T00:00:00Z
-    webUrl: "https://www.cfr.org/robots-and-artificial-intelligence"
-    type: article
-    provider:
-      name: Cfr.org
-      domain: cfr.org
-    quality: 56
-    images:
-      - url: "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "KOsObq/rJidSk0YlAQnTSRzct5nf0LW4mONZJRLucrSVYgWDUj9Y82uUZCXS6Lu2+PBRseUSIMAdt0w3b9ZPGDD2KqRbcefQXN9Y5UPiT2SX1vFrWLl62JApW8AxZJRAVYa4HUW+oxX19yb1iKWwQ3zZKlz1UwcBxJpYhJ3/6DkLKGn1GADvH+ZiUKxZZ3m89y8FADRVCi8k1lmNOiP8ntZKcmREUOlqKSm2zfDoKl/R4ORZDpbZh9MZ0jom5Dg6xvHOFhzFxzujvmvH6IHvrHcbbxFDswnlRNEt/HamZcnvo7pPi6gIV47I6u0z4XKdq+chgpOMIV5k8QqmduW3eWnKnRSuaVVMjEfzTR9MBpyf/Xne8p9/QezmBMewLf6AdO4YBZQ57LXJnwSNj3S0hV8ZVWzFzos6FIqV9we+5uC1Yc+pwi9cIMyKBzkalOyDlgTomlgkezS3hS6IB/uaa3n8EQG8eZQrdH5d03yihLq2Zyhs3tW2AC8Oa7s1dXoVfmmK4xLbJLJgrl6emMQdAA==;E1KrtLy1kK8oa+cGKK9DaA=="
 ---

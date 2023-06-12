@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 102
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://totaltele.com/wp-content/uploads/2022/07/jurassic-coast-resized-440x264.jpg?crop=1"
         width: 440
         height: 264
+        isCached: true
+  - title: "What Smart Companies Know About Integrating AI"
+    excerpt: "AI has the power to gather, analyze, and utilize enormous volumes of individual customer data to achieve precision and scale in personalization. The experiences of Mercury Financial, CVS Health, and Starbucks debunk the prevailing notion that extracting value from AI solutions is a technology-building exercise."
+    publishedDateTime: 2023-06-12T16:00:00Z
+    webUrl: "https://hbr.org/2023/07/what-smart-companies-know-about-integrating-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/05/R2304J_TRESOLDI-scaled.jpg"
+        width: 2560
+        height: 1439
         isCached: true
 
 secured: "Trb3JMLY3iiSbU5d/AbEM+FpjR5xsC0KCzoY7OaP8jmZHvcl2vz9vdr9BEFdjiw7Op3yLNToyh04iRTxDE3iGPj+VzhgO/V7URSxL8+3dfUnKtYI0k5T+52+8d80z0Lw7hpd0uOiSoqUx3XFbomIhgJcrqHlNWxJtTI9rWrAkBkv+gEhH3Mi/6c9+M7v31KGeFAc6XuhOdqa6UoCkMll7heWP1uL/kdcG/i+t7ECCXrO/dVA1ZEEZTSSC0T6iQ9Mclz3qSV8eWn6kXraJuHsIzxdPj7BgsrP6UNXU+KC2bq9HlVmxX2bjHdbiNJUbKOnVZFN2lg+AjJ4c8uYYA6sQUP3mPdLBB5DLSOaZuEsypXaYrWFcAsQEgNg17L5uy314yYAq68vFL1PXTeteFRN5S4Beh7h5D3dSiD8i4w6Yt0MhBYagVeG5dL+YmMgN0ElM3NwgavmQhfaE+TWbpQ4I2dpsACR5Nznu2jH2SoME+HkFkUCkZe4Z3ma4UOSn3HbIQr2kppKxI/wtokwnbX0ZQ==;+WO8mKgdhGyiB02pv5I+sw=="
