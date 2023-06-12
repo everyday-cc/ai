@@ -91,15 +91,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "UK summit to address risks of AI"
-    excerpt: "The UK is to host a global summit in London in the autumn to try and coordinate a common global response to the rise of AI technology. Concerns about the risks posed by AI have increased recently with a group of Silicon Valley executives issuing a statement arguing that artificial intelligence could even lead to the extinction of humanity."
-    publishedDateTime: 2023-06-08T12:36:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0fszc8s"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
 
 secured: "cElTTJXZ6OkRmA0QalHxH9QQpOoZkly0Rs2W3kcaOb/kHCoCY/D9id6t3zHKxIspgBetAS2SsGO3fDDPh0L7qSiW1W319BdexH/cGO1sUsBT7wWHHE/4yCxvMkQlWLd1VHjkTf4pSEimEKTePdxpbNxe6oUl4uT9uKRgBKCeZ7nCybtS+ggBThViz8rZn2ynmcvgnXs5ZjYYn6gBBmbnUCvx6fmGtXyYnnm94JRhCjuhZq4iqJRxlt1QsrqIWiCOqZP95qDnv+9Vl5Tqt3rTo8TjpIOAZQGmqAXYMgY4XS41uceYwjrQIvo59kwzyZPTTFkL48FRb7x3GhV1kwOKTL4L+tAiGAEjscSKUGE2dmSIeYHhGmGPtvZ3zShISWyx+5MOiL+c2OytXeea5pQvXlO8orgKPGfjESEGmhoQCM8aQ5wezG6ljy7wr7VwTlBO0ATBhbA0qtL4wX7JLiCsYRhF5wRZ17QdNbGnDeItdaEsHJx9ve6ShoZqwUvWlzHDLE6njZbO0gUrtg5I/xmBuA==;poRNRXLOLU4w9Z3zO0YIkQ=="
 ---

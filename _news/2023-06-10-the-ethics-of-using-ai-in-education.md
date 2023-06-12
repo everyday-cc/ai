@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-educati
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
 type: article
 quality: 91
-heat: 241
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hindu
@@ -28,74 +28,83 @@ images:
     isCached: true
 
 related:
-  - title: "How to Navigate the Hidden Risks of AI and Digitization"
-    excerpt: "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ..."
-    publishedDateTime: 2023-06-08T17:42:00Z
-    webUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685715379-GettyImages-1434121527.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Ingeniously Using Generative AI Such As GPT-4 To Reveal The Puzzling Secrets Of How Generative AI Startlingly Works, Lauds AI Ethics And AI Law"
-    excerpt: "Nobody can say for sure why generative AI works so startlingly well. A new approach revealed by OpenAI uses GPT-4 to decipher generative AI secrets. Here's the deal."
-    publishedDateTime: 2023-06-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
+  - title: "The Weakness Of Artificial Intelligence In Marketing"
+    excerpt: "Artificial intelligence (AI) is the new \"internet.\" Like the internet, AI has created a lot of these same responses. The stark reality is technology has never gone backward. It marches on, and how we respond to these developments for better or worse is what shapes the outcome."
+    publishedDateTime: 2023-06-08T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 68
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63731fd487e442fe938888a7/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6480df6d3a8f502c9a595936/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 652
+        height: 800
         isCached: true
-  - title: "10 of the best free artificial intelligence courses on edX"
-    excerpt: "These are the best free artificial intelligence courses as of June 11: AI Chatbots without Programming (IBM)(opens in a new tab) AI for Everyone: Master the Basics (IBM)(opens in a new tab) AI for Leaders (Babson College)(opens in a new tab) AI for ..."
-    publishedDateTime: 2023-06-12T03:57:00Z
-    webUrl: "https://mashable.com/uk/deals/ai-courses-for-free"
+  - title: "Don't bank on AI predicting the stock market anytime soon"
+    excerpt: "The idea of artificial intelligence being able to predict the market is a pipe dream, according to Wall Street vet Marty Chavez. Here's why."
+    publishedDateTime: 2023-06-08T17:38:00Z
+    webUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
     images:
-      - url: "https://helios-i.mashable.com/imagery/articles/03eACpI1nJnAUCOyUCxrxTl/hero-image.fill.size_1200x675.v1686313582.jpg"
+      - url: "https://i.insider.com/64820c2d8f265d001998c5e8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "LinkedIn is adding AI-powered tools to help marketing professionals"
+    excerpt: "LinkedIn has been quick to adopt generative AI tools on its platform, such as AI-generated Recruiter messages and profile sections, to help both businesses and professionals reach their goals. On Thursday, LinkedIn introduced AI-generated Copy Suggestions, powered by advanced OpenAI GPT models."
+    publishedDateTime: 2023-06-08T20:41:00Z
+    webUrl: "https://www.zdnet.com/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/082aa5e66f966b8c65a199f933d9a9c62c40e43b/2023/06/08/e7f2ec41-4941-4938-8aba-a10ddc1bcf5f/gettyimages-1239071698.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "A Call For The Ethical And Responsible Use Of AI"
-    excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"
-    publishedDateTime: 2023-06-08T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/a-call-for-the-ethical-and-responsible-use-of-ai/"
+  - title: "The Impact Of AI On Strategy Games"
+    excerpt: "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development."
+    publishedDateTime: 2023-06-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
-  - title: "Professors call for further study of potential uses of AI in special education, avoiding bans"
-    excerpt: "Artificial intelligence is making headlines about its potentially disruptive influence in many spaces, including the classroom. A group of educators that includes a University of Kansas researcher has just published a position paper reviewing AI's potential in special education,"
-    publishedDateTime: 2023-06-08T20:04:00Z
-    webUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.html"
-    ampWebUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-professors-potential-ai-special.amp"
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "For Banks, AI Is Like Having an Army of Interns"
+    excerpt: "On this episode of In the City, we show why New York leads the search for humans to command those robot troops, with London not far behind."
+    publishedDateTime: 2023-06-08T04:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-08/podcast-for-banks-ai-is-like-having-an-army-of-interns"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 63
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/professors-call-for-fu.jpg"
-        width: 2880
-        height: 1744
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Vn8ucvSg3s/v0/1200x799.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
     excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
@@ -113,112 +122,47 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence raises questions for educators"
-    excerpt: "The increase of artificial intelligence use is forcing teachers to face how it will change the learning process."
-    publishedDateTime: 2023-06-09T02:40:00Z
-    webUrl: "https://listen.sdpb.org/education/2023-06-08/artificial-intelligence-raises-questions-for-educators"
+  - title: "Cashing in on AI chips"
+    excerpt: "There was an error generating the full edition PDF. Please try again later. Click and hold your mouse button on the page to select the area you wish to save or print ..."
+    publishedDateTime: 2023-06-08T09:03:00Z
+    webUrl: "https://richmond.com/eedition/richmond/page-a9/page_6ec8cd17-437c-5ace-8d63-1b347045ca58.html"
     type: article
     provider:
-      name: South Dakota Public Broadcasting
-      domain: sdpb.org
-    quality: 52
+      name: Richmond
+      domain: richmond.com
+    quality: 54
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/ff84040/2147483647/strip/true/crop/3000x1575+0+56/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2019%2F10%2F15%2Faid-evidence_wide-851025a61a9e7bbb8382dafed3c617413d4fdd1e.jpg"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/eedition/6/ec/6ec8cd17-437c-5ace-8d63-1b347045ca58/648153e60cd5b.preview-620.jpg?crop=620%2C326%2C0%2C478&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
         isCached: true
-  - title: "Ethics should be at the foundation of building AI systems: Salesforce executive"
-    excerpt: "There has been growing concern among regulators around sensitive data collection from AI software and the need to balance privacy concerns with allowing room to foster innovation. CNA's Heidi Ng spoke to Kathy Baxter,"
-    publishedDateTime: 2023-06-09T03:47:00Z
-    webUrl: "https://www.channelnewsasia.com/watch/ethics-should-be-foundation-building-ai-systems-salesforce-executive-3547126"
+  - title: "Using AI to Adjust Your Marketing and Sales in a Volatile World"
+    excerpt: "Why are some firms better and faster than others at adapting their use of customer data to respond to changing or uncertain marketing conditions? A common thread across faster-acting firms is the use of AI models to predict outcomes at various stages of the customer journey."
+    publishedDateTime: 2023-06-08T19:02:00Z
+    webUrl: "https://hbr.org/sponsored/2023/06/using-ai-to-adjust-your-marketing-and-sales-in-a-volatile-world"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 50
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--zEHybKOT--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/06/09/Screenshot%20(168).png?itok=WGtO9sDB"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Increasing focus on AI is driving demand for empathetic women leaders"
-    excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
-    publishedDateTime: 2023-06-11T01:50:00Z
-    webUrl: "https://yourstory.com/herstory/2023/06/women-leaders-inclusion-key-enterprises-ai"
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 51
+  - title: "6 podcasts to make sense of AI"
+    excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics"
+    publishedDateTime: 2023-06-09T16:35:00Z
+    webUrl: "https://www.omanobserver.om/article/1138479/world/americas/6-podcasts-to-make-sense-of-ai"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/shutterstock1456783511-1672930865154.jpeg?fm=png&auto=format"
-        width: 2834
-        height: 1337
-        isCached: true
-  - title: "The World of Minecraft: Revolutionizing Artificial Intelligence Innovation"
-    excerpt: "Minecraft's transformation from a beloved construction game to a pioneering platform for AI innovation is a testament to the game's versatility and the ingenuity of researchers."
-    publishedDateTime: 2023-06-07T11:37:00Z
-    webUrl: "https://techstory.in/the-world-of-minecraft-revolutionizing-artificial-intelligence-innovation/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/ai-pack-scr-12.png"
-        width: 1366
-        height: 746
-        isCached: true
-  - title: "Music world gets Startup Nation upgrade, using AI of course"
-    excerpt: "Israeli music startup incorporates cutting-edge technologies not to replace human artists, but to enrich their creations and expand creativity."
-    publishedDateTime: 2023-06-11T04:30:00Z
-    webUrl: "https://www.israel21c.org/music-world-gets-startup-nation-upgrade-using-ai-of-course/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 37
-    images:
-      - url: "https://static.israel21c.org/www/uploads/2023/05/COVER_courtesy_of_Session_42_s_Facebook.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The Ethics of Using Generative Artificial Intelligence in the Practice of Law"
-    excerpt: "Understanding how generative AI solutions collect, store and use the information that ... certainly will not be sufficient to rise to the level of expected competence by ethics officials. In other words, arguing that the information provided by ChatGPT ..."
-    publishedDateTime: 2023-06-07T20:17:00Z
-    webUrl: "https://ipwatchdog.com/2023/06/07/ethics-using-generative-artificial-intelligence-practice-law/id=162097/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 31
-  - title: "A row over artificial intelligence regulations looms on the horizon"
-    excerpt: "EU officials say Britain is behind the AI curve, while the UK points to the size of London’s tech industry as evidence that this country is best placed to play a vital role in any regulatory framework"
-    publishedDateTime: 2023-06-07T19:35:00Z
-    webUrl: "https://inews.co.uk/opinion/a-row-over-artificial-intelligence-regulations-looms-on-the-horizon-2395126?ico=most_popular"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
+      name: omanobserver
+      domain: omanobserver.om
     quality: 19
-  - title: "Era of artificial intelligence in India"
-    excerpt: "Ishant Gupta In today’s digital era, technological advancements have revolutionized the way we live, work, and interact. Among these advancements, Artificial Intelligence (AI) has emerged as a powerful tool,"
-    publishedDateTime: 2023-06-09T19:11:00Z
-    webUrl: "https://www.dailyexcelsior.com/era-of-artificial-intelligence-in-india/"
+  - title: "UK summit to address risks of AI"
+    excerpt: "The UK is to host a global summit in London in the autumn to try and coordinate a common global response to the rise of AI technology. Concerns about the risks posed by AI have increased recently with a group of Silicon Valley executives issuing a statement arguing that artificial intelligence could even lead to the extinction of humanity."
+    publishedDateTime: 2023-06-08T12:36:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0fszc8s"
     type: article
     provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 19
-  - title: "From Integrating AI To Strictly Protecting Client Data, How Online Education Company Amesite Inc Is Doing Things Differently To Disrupt Learning"
-    excerpt: "As an online platform and product developer powered by artificial intelligence (AI), Amesite is positioning itself to disrupt ... In 2022 Amesite started a collaboration with Microsoft for the use of its Azure cloud, and it was featured in a story on ..."
-    publishedDateTime: 2023-06-07T13:11:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/06/32756767/from-integrating-ai-to-strictly-protecting-client-data-how-online-education-company-amesite-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
 
 secured: "XSxqFwvEEDPFiOxbF/kg3REfU7C0iifhyj6nQqxgTI2RVjubEbUtr6AH0ybZOROqxd9DD2VWKCThpWUIKlcNLTp3d+BFliQ6TML6IvKEVuT7yCDCAi5rOIuGBkMhg30ekUoeLGZGIVpo5Mwdo8tselQBTzkhUCY8s+bU9BjY3QtUZ8EU0aX+R7+VXTYtOajfn24XOqwyP72ZRM+7e5bhYWo79Ra2j++l6Lft8n1CKaiGh65N2ql+eB1iRNjV6Gv9acDvycixVPyaqevLukEgvXKc0Klw9qPMSiJ9n/dFIo1Ods365Ko81bW6cdXYt9IiKvwMsEMH6sn4/KHxBgStCGcv4ZZ21l+WhuM3utajc0E=;qYU49I5fMGLI86vwdc3WlA=="
 ---

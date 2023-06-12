@@ -18,88 +18,148 @@ topics:
   - AI
 
 related:
-  - title: "UK’s plans for “first global summit” on AI safety draw criticism"
-    excerpt: "These worries were recently amplified by some AI experts likening the potential threats posed by AI to those of pandemics or nuclear weapons. \"AI\" has also been an extremely buzzy term in business recently."
-    publishedDateTime: 2023-06-08T21:17:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/"
+  - title: "The Weakness Of Artificial Intelligence In Marketing"
+    excerpt: "Artificial intelligence (AI) is the new \"internet.\" Like the internet, AI has created a lot of these same responses. The stark reality is technology has never gone backward. It marches on, and how we respond to these developments for better or worse is what shapes the outcome."
+    publishedDateTime: 2023-06-08T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/uk_ai_summit_hero-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6480df6d3a8f502c9a595936/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "UK’s plans for global AI safety summit draw criticism"
-    excerpt: "These worries were recently amplified by some AI experts likening the potential threats posed by AI to those of pandemics or nuclear weapons. \"AI\" has also been an extremely buzzy term in business recently."
-    publishedDateTime: 2023-06-08T21:17:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/"
+  - title: "Don't bank on AI predicting the stock market anytime soon"
+    excerpt: "The idea of artificial intelligence being able to predict the market is a pipe dream, according to Wall Street vet Marty Chavez. Here's why."
+    publishedDateTime: 2023-06-08T17:38:00Z
+    webUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/uk_ai_summit_hero-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://i.insider.com/64820c2d8f265d001998c5e8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Britain to host first global summit on artificial intelligence safety"
-    excerpt: "Britain will host a global summit on artificial intelligence safety later this year and Prime Minister Rishi Sunak and U.S. President Joe Biden will discuss the technology at their Thursday meeting, the UK government said."
-    publishedDateTime: 2023-06-07T22:20:00Z
-    webUrl: "https://www.reuters.com/technology/britain-host-first-global-summit-artificial-intelligence-safety-2023-06-07/"
+  - title: "LinkedIn is adding AI-powered tools to help marketing professionals"
+    excerpt: "LinkedIn has been quick to adopt generative AI tools on its platform, such as AI-generated Recruiter messages and profile sections, to help both businesses and professionals reach their goals. On Thursday, LinkedIn introduced AI-generated Copy Suggestions, powered by advanced OpenAI GPT models."
+    publishedDateTime: 2023-06-08T20:41:00Z
+    webUrl: "https://www.zdnet.com/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
-  - title: "UK to host global AI 'safety measure' summit in autumn"
-    excerpt: "The government says the UK will host a global artificial intelligence (AI) summit this autumn to evaluate the technology's \"most significant risks\". There has been a slew of dire warnings about the potentially existential threat AI poses to humanity."
-    publishedDateTime: 2023-06-08T00:02:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-65834085.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-65834085.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65834085.amp"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/082aa5e66f966b8c65a199f933d9a9c62c40e43b/2023/06/08/e7f2ec41-4941-4938-8aba-a10ddc1bcf5f/gettyimages-1239071698.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The ethics of using AI in education"
+    excerpt: "The continuous advancements in AI technology and its ability to simulate human listening, speaking, thinking, and learning has seen it emerge as a promising tool to enhance student learning experiences. Some studies have demonstrated the positive impact of ..."
+    publishedDateTime: 2023-06-10T14:27:00Z
+    webUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece"
+    ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: The Hindu
+      domain: thehindu.com
+    quality: 91
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/hdt9vp/article66936849.ece/alternates/FREE_1200/12EPBS_AI%20IN%20ED.jpg"
+        width: 1200
+        height: 923
+        isCached: true
+  - title: "The Impact Of AI On Strategy Games"
+    excerpt: "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development."
+    publishedDateTime: 2023-06-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "For Banks, AI Is Like Having an Army of Interns"
+    excerpt: "On this episode of In the City, we show why New York leads the search for humans to command those robot troops, with London not far behind."
+    publishedDateTime: 2023-06-08T04:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-08/podcast-for-banks-ai-is-like-having-an-army-of-interns"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Vn8ucvSg3s/v0/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
+    excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
+    publishedDateTime: 2023-06-09T02:06:00Z
+    webUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html"
+    ampWebUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
     quality: 57
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6AA6/production/_130020372_92c26ebb676b8889758a4bcb2a4a3ba7de125d6d.jpg"
-        width: 1024
-        height: 576
+      - url: "https://images.idgesg.net/images/article/2020/01/united_states_capitol_building_washington_dc_congress_legislation_by_mcdustelroy_gettyimages-1036372454_digital_landscape_by_dkosig_gettyimages-1146014337_2400x1600-100825944-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "UK to host first global summit on artificial intelligence safety: PM Sunak"
-    excerpt: "The summit is expected to take place in the autumn and will gather \"like-minded countries\" to shape a regulatory response, Sunak's spokesman said."
-    publishedDateTime: 2023-06-07T21:43:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/global-summit-on-artificial-intelligence-safety-ai-rishi-sunak-uk-britain-101686173924627.html"
-    ampWebUrl: "https://www.hindustantimes.com/world-news/global-summit-on-artificial-intelligence-safety-ai-rishi-sunak-uk-britain-101686173924627-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/global-summit-on-artificial-intelligence-safety-ai-rishi-sunak-uk-britain-101686173924627-amp.html"
+  - title: "Cashing in on AI chips"
+    excerpt: "There was an error generating the full edition PDF. Please try again later. Click and hold your mouse button on the page to select the area you wish to save or print ..."
+    publishedDateTime: 2023-06-08T09:03:00Z
+    webUrl: "https://richmond.com/eedition/richmond/page-a9/page_6ec8cd17-437c-5ace-8d63-1b347045ca58.html"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 55
+      name: Richmond
+      domain: richmond.com
+    quality: 54
     images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/06/07/1600x900/AP06-07-2023-000246B-0_1686171851184_1686174095113.jpg"
-        width: 1600
-        height: 900
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/eedition/6/ec/6ec8cd17-437c-5ace-8d63-1b347045ca58/648153e60cd5b.preview-620.jpg?crop=620%2C326%2C0%2C478&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
         isCached: true
-  - title: "Britain to host first global AI regulation summit in autumn"
-    excerpt: "Rishi Sunak, UK prime minister, will on Thursday announce that Britain will this autumn host the first global summit on the regulation of artificial intelligence, after a meeting in Washington with President Joe Biden."
-    publishedDateTime: 2023-06-07T21:30:00Z
-    webUrl: "https://www.ft.com/content/3929908e-0f6a-4223-9c1c-5cd68d82a828"
+  - title: "Using AI to Adjust Your Marketing and Sales in a Volatile World"
+    excerpt: "Why are some firms better and faster than others at adapting their use of customer data to respond to changing or uncertain marketing conditions? A common thread across faster-acting firms is the use of AI models to predict outcomes at various stages of the customer journey."
+    publishedDateTime: 2023-06-08T19:02:00Z
+    webUrl: "https://hbr.org/sponsored/2023/06/using-ai-to-adjust-your-marketing-and-sales-in-a-volatile-world"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 51
+  - title: "6 podcasts to make sense of AI"
+    excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics"
+    publishedDateTime: 2023-06-09T16:35:00Z
+    webUrl: "https://www.omanobserver.om/article/1138479/world/americas/6-podcasts-to-make-sense-of-ai"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 19
 
 secured: "rJXSer7xBuQ272unImrJnVyfE6cihMrnz3ocJbpmRO4H3AgHl0p76RwahBDVaFT3ArU+98Ntlw9oEsVQhqptHcTDHyxLfC6oIR5lLkGst7xmJT6Ou4p9zoXGUVveuc7ZVyZnhsBI1irYlaQe/ZGyNBW51xmr8saCXA/Cs0tWbm6qBfl52WtzCaDzpD+VT6oGoNyEtb9vyxesXrhf1wF8YV4Moc6RULv0DWSnLm5xvHnxOmm6WBLarVqfbIzEwJOVyNVfAohDWBwZoRDlSQhr5ApilaFLUtUPAsd3pEfq3Cx2/9xVJo5z02RRmYg9O7kEh/fFVNXN8CkZZIS7Yc1/hiHsUgNF/iXbuvwKNa03a7uVibrdov4NjYUxOT5jrD/rnfeJrXtWLbwz0EVRGcIUFdXp6g0kqQGdKSJFMBeDZUA5AP5l009YcwC8ZbNMzq7AHvXt7WQAwuk/kJvOBV+8Lobg1QGscmSo02TpNLNSLiXo6rGZ9y+A0+MKYLbTtqsu9/sp/LGTOHrEVxAwlJMHpA==;ktEvGJMRGHsY977RhbD8DQ=="
 ---

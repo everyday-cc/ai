@@ -126,6 +126,15 @@ related:
         width: 1199
         height: 650
         isCached: true
+  - title: "Era of artificial intelligence in India"
+    excerpt: "Ishant Gupta In today’s digital era, technological advancements have revolutionized the way we live, work, and interact. Among these advancements, Artificial Intelligence (AI) has emerged as a powerful tool,"
+    publishedDateTime: 2023-06-09T19:11:00Z
+    webUrl: "https://www.dailyexcelsior.com/era-of-artificial-intelligence-in-india/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 19
   - title: "Nvidia’s AI software tricked into leaking data"
     excerpt: "A feature in Nvidia’s artificial intelligence software can be manipulated into ignoring safety restraints and reveal private information, according to new research."
     publishedDateTime: 2023-06-09T04:00:00Z

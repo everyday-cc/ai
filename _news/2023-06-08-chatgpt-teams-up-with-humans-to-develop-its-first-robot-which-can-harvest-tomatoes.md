@@ -28,11 +28,11 @@ related:
   - title: "ChatGPT’s not going to take over anytime soon, says Richard White"
     excerpt: "The “a” in AI still largely overshadows its counterpart “i” as the technology remains largely artificial and only a little bit intelligent, says the chief executive of one of Australia’s most successful technology companies."
     publishedDateTime: 2023-06-08T23:53:00Z
-    webUrl: "https://www.weeklytimesnow.com.au/agribusiness/breaking-news/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe"
+    webUrl: "https://www.dailytelegraph.com.au/business/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe"
     type: article
     provider:
-      name: The Weekly Times
-      domain: weeklytimesnow.com.au
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
     quality: 4
 
 secured: "lRVipD24nq7kb7leol/AK5L3nvZRgqpFCiaQ5mBu8ZSmqG8RlIlNnqWataA9GtaGFESxSfSVaqn0CCd2z+Sd2XNem9fwtcJET4aZV25eN4H/BiyKFn7liqUuUwPCUwVg86i+yDG90f6TTzT8qwcUJKLWriu0wiotok3LkS5cYJ4DUTk8S7SIQCfagvqDtL2pz2rIQI6X3/KvbWNCVyviq3wUiWMAOJgLi8uHtLDWXTuckyVNMnRxKSJwz6/EKZalzxGbeuj+vie8TpM9f2fQeQyvvSkbX25/ps1SrlnVw9kHp7QVnLgnTlzexl2PFh2tFQgL6LHR/AfcT5OnEd8URHskuXZwC8ugpQDPPiyonr1wkOSzilFSLgmaY6r9Ps729DyiKFTsQjcfVS0nkMHxPt7cUFdiw09LDSUt1WR4/PYGv0S3ecdY614kZjNezJs652IVqHF/4HNH83Zn+1R1PSjABrqI3J0FKxuclxs/o4VbOyKCRbBvbR2ok09smcsWyfeCU5Prxa/7T9OEym+VWA==;cabrclIdfbkMErX8NaAHpw=="

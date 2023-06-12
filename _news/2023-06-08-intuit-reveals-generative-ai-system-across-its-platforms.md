@@ -99,6 +99,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google's generative AI platform ‘Vertex’ now available to everyone"
+    excerpt: "Google announced the general availability of generative AI services based on Vertex AI, the machine learning platform as a service (ML PaaS) offering from Google Cloud. With the service becoming generally available,"
+    publishedDateTime: 2023-06-12T04:51:00Z
+    webUrl: "https://www.emirates247.com/technology/google-s-generative-ai-platform-vertex-now-available-to-everyone-2023-06-12-1.713024"
+    ampWebUrl: "https://www.emirates247.com/technology/google-s-generative-ai-platform-vertex-now-available-to-everyone-2023-06-12-1.713024?ot=ot.AMPPageLayout"
+    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/google-s-generative-ai-platform-vertex-now-available-to-everyone-2023-06-12-1.713024?ot=ot.AMPPageLayout"
+    type: article
+    provider:
+      name: Emirates247
+      domain: emirates247.com
+    quality: 59
+    images:
+      - url: "https://www.emirates247.com/polopoly_fs/1.713025.1686545324!/image/image.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Lilt Launches Generative AI Multilingual Writing App"
     excerpt: "New Tool Enables Quick Generation and Finalization of On-brand, Locally Relevant Content SAN FRANCISCO, June 8, 2023 /PRNewswire/ -- Lilt, the"
     publishedDateTime: 2023-06-08T15:58:00Z
@@ -131,38 +147,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google Cloud and Mayo Clinic to explore uses of generative AI in healthcare"
-    excerpt: "To get the ball rolling, the Mayo Clinic is adopting a new service called Enterprise Search on Generative AI App Builder that will help to improve the efficiency of clinical workflows and make it easier for clinicians and medical researchers to find the data they need to improve patient outcomes,"
-    publishedDateTime: 2023-06-07T12:00:00Z
-    webUrl: "https://siliconangle.com/2023/06/07/google-cloud-mayo-clinic-explore-uses-generative-ai-healthcare/"
+  - title: "The Ethics of Using Generative Artificial Intelligence in the Practice of Law"
+    excerpt: "Understanding how generative AI solutions collect, store and use the information that ... certainly will not be sufficient to rise to the level of expected competence by ethics officials. In other words, arguing that the information provided by ChatGPT ..."
+    publishedDateTime: 2023-06-07T20:17:00Z
+    webUrl: "https://ipwatchdog.com/2023/06/07/ethics-using-generative-artificial-intelligence-practice-law/id=162097/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-  - title: "How generative AI could change the life sciences landscape - an interview with Indegene"
-    excerpt: "With generative AI continuing to create a buzz, OSP took the opportunity to speak to Indegene, a digital-first, life sciences commercialization company that helps biopharmaceutical, emerging biotech and medical device companies develop products."
-    publishedDateTime: 2023-06-07T11:48:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2023/06/07/how-generative-ai-could-change-the-life-sciences-landscape"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
+      name: IPWatchdog
+      domain: ipwatchdog.com
     quality: 31
-    images:
-      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/markets-regulations/how-generative-ai-could-change-the-life-sciences-landscape/16476737-1-eng-GB/How-generative-AI-could-change-the-life-sciences-landscape.jpg"
-        width: 1500
-        height: 1061
-        isCached: true
-  - title: "Google Cloud, Mayo Clinic make generative AI play"
-    excerpt: "Google Cloud and Mayo Clinic are the latest organizations to try their hand at generative artificial intelligence in healthcare. MH magazine offers content that sheds light on healthcare leaders’ complex choices and touch points—from strategy, governance, leadership development and finance to operations, clinical care, and marketing."
-    publishedDateTime: 2023-06-07T12:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/google-cloud-mayo-clinic-generative-ai-search-chatgpt-hipaa"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
   - title: "Google, Mayo Clinic Launch Generative Artificial Intelligence Collab"
     excerpt: "Mayo Clinic and Google have announced a collaboration aimed at transforming healthcare through the use of generative artificial intelligence."
     publishedDateTime: 2023-06-07T13:30:00Z

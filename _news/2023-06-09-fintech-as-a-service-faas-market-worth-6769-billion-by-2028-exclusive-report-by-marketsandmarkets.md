@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI In Devops Market Predicted To Garner USD 22,100 Mn By 2032, At CAGR 38.20% | Report By Marketresearch.Biz"
-    excerpt: "According to MarketResearch.biz , the generative ai in devops market size is projected to surpass around USD 22,100 Million by 2032, and it is poised to reach a registered CAGR of 38.20% from 2023 to 2032."
-    publishedDateTime: 2023-06-08T07:45:00Z
-    webUrl: "https://menafn.com/1106410564/Generative-AI-In-Devops-Market-Predicted-To-Garner-USD-22100-Mn-By-2032-At-CAGR-3820-Report-By-MarketresearchBiz"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?142799"
-        width: 395
-        height: 250
-        isCached: true
-  - title: "Artificial Intelligence (AI) in MRI Global Market Report 2023: Sector to Reach $1.53 Billion by 2028 at a 35.7% CAGR"
-    excerpt: "The artificial intelligence in MRI market is projected to grow at a CAGR of 35.7% to reach US$1,539.622 million in 2028 from US$181.720 million in 2021. Artificial Intelligence (AI) is increasingly used in Magnetic Resonance Imaging (MRI) to improve image quality,"
-    publishedDateTime: 2023-06-09T16:39:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/09/9830077.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-  - title: "Sleep Apnea Devices Market worth $8.0 billion | MarketsandMarkets"
-    excerpt: "The sleep apnea devices industry is poised for significant growth and innovation in the near future. With increasing awareness about the detrimental effects of untreated sleep apnea,"
-    publishedDateTime: 2023-06-08T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32783569/sleep-apnea-devices-market-worth-8-0-billion-marketsandmarkets"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
   - title: "Fintech as a Service (FaaS) Market worth $676.9 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "Market is expected to experience substantial growth, with projections indicating a rise from USD 310.5 billion in 2023 to USD 676.9 billion by 2028, exhibiting a compound annual growth rate of 16.9%,"
     publishedDateTime: 2023-06-08T15:39:00Z

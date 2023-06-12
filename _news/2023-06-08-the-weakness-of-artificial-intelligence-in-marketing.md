@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 204
+published: true
 
 provider:
   name: Forbes
@@ -31,21 +31,113 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Here To Stay, But It's No Match For Humans In PR And Marketing"
-    excerpt: "While AI chatbots like ChatGPT are poised to fundamentally alter the nature of work, now is not the time to panic. Armageddon is not upon us."
-    publishedDateTime: 2023-06-07T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/07/ai-is-here-to-stay-but-its-no-match-for-humans-in-pr-and-marketing/amp/"
+  - title: "Don't bank on AI predicting the stock market anytime soon"
+    excerpt: "The idea of artificial intelligence being able to predict the market is a pipe dream, according to Wall Street vet Marty Chavez. Here's why."
+    publishedDateTime: 2023-06-08T17:38:00Z
+    webUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/64820c2d8f265d001998c5e8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "LinkedIn is adding AI-powered tools to help marketing professionals"
+    excerpt: "LinkedIn has been quick to adopt generative AI tools on its platform, such as AI-generated Recruiter messages and profile sections, to help both businesses and professionals reach their goals. On Thursday, LinkedIn introduced AI-generated Copy Suggestions, powered by advanced OpenAI GPT models."
+    publishedDateTime: 2023-06-08T20:41:00Z
+    webUrl: "https://www.zdnet.com/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/082aa5e66f966b8c65a199f933d9a9c62c40e43b/2023/06/08/e7f2ec41-4941-4938-8aba-a10ddc1bcf5f/gettyimages-1239071698.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The ethics of using AI in education"
+    excerpt: "The continuous advancements in AI technology and its ability to simulate human listening, speaking, thinking, and learning has seen it emerge as a promising tool to enhance student learning experiences. Some studies have demonstrated the positive impact of ..."
+    publishedDateTime: 2023-06-10T14:27:00Z
+    webUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece"
+    ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 91
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/hdt9vp/article66936849.ece/alternates/FREE_1200/12EPBS_AI%20IN%20ED.jpg"
+        width: 1200
+        height: 923
+        isCached: true
+  - title: "The Impact Of AI On Strategy Games"
+    excerpt: "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development."
+    publishedDateTime: 2023-06-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/632863e848add909c4b00d1b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "For Banks, AI Is Like Having an Army of Interns"
+    excerpt: "On this episode of In the City, we show why New York leads the search for humans to command those robot troops, with London not far behind."
+    publishedDateTime: 2023-06-08T04:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-08/podcast-for-banks-ai-is-like-having-an-army-of-interns"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Vn8ucvSg3s/v0/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
+    excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
+    publishedDateTime: 2023-06-09T02:06:00Z
+    webUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html"
+    ampWebUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/01/united_states_capitol_building_washington_dc_congress_legislation_by_mcdustelroy_gettyimages-1036372454_digital_landscape_by_dkosig_gettyimages-1146014337_2400x1600-100825944-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Cashing in on AI chips"
+    excerpt: "There was an error generating the full edition PDF. Please try again later. Click and hold your mouse button on the page to select the area you wish to save or print ..."
+    publishedDateTime: 2023-06-08T09:03:00Z
+    webUrl: "https://richmond.com/eedition/richmond/page-a9/page_6ec8cd17-437c-5ace-8d63-1b347045ca58.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/eedition/6/ec/6ec8cd17-437c-5ace-8d63-1b347045ca58/648153e60cd5b.preview-620.jpg?crop=620%2C326%2C0%2C478&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
         isCached: true
   - title: "Using AI to Adjust Your Marketing and Sales in a Volatile World"
     excerpt: "Why are some firms better and faster than others at adapting their use of customer data to respond to changing or uncertain marketing conditions? A common thread across faster-acting firms is the use of AI models to predict outcomes at various stages of the customer journey."
@@ -56,6 +148,24 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 51
+  - title: "6 podcasts to make sense of AI"
+    excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics"
+    publishedDateTime: 2023-06-09T16:35:00Z
+    webUrl: "https://www.omanobserver.om/article/1138479/world/americas/6-podcasts-to-make-sense-of-ai"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 19
+  - title: "UK summit to address risks of AI"
+    excerpt: "The UK is to host a global summit in London in the autumn to try and coordinate a common global response to the rise of AI technology. Concerns about the risks posed by AI have increased recently with a group of Silicon Valley executives issuing a statement arguing that artificial intelligence could even lead to the extinction of humanity."
+    publishedDateTime: 2023-06-08T12:36:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0fszc8s"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
 
 secured: "mFwdGuXGcg8WYOVRkB/ePAc+Igx16pqiMJrQ5bTR4qrkmUkzt9VCLXtGz/gk+3JtzP3t+pSJodtRJAMXNCBtCLoeIWsivGMavkzp2nFizl6EEEz7pBal+SEOYf/x6JR7pq0SwIVLEubxGCFr0RM6JU26pic9DSrfmY1JU/nrK5TqI0mx48QB9rIWxF0in9iRtrkEzNCvkNkjVlIaASAQXjtxqiJ22ge1y+naLAJRC9Ieuwl7CC93d0m1fGVimrLex64N3eQ2V+1AcWhp7uK3vipb5youE4eTfIWyAlSBsyk5G7dF6AA50NiuH+CgXueLXm6FGQU0TABnRWRH3ahteNCCxEBm0n1h4tuwPtB6wqTgs2Q1kJvZJ7m4KEWSXhkjJk+w275798+0m5thVQzbKjUyU/M+B1jRSH7rF3pb1l7vC+zZHomXNjEA3yqcVx8a/e5qt4h02M7brzPOHCs5OTZCGV7/eYxbd8bM4GGOmu4e8hCb4Gt6NexmvCoNW+zrgxMha2WtpfJdu5K02DbtIA==;V7iiU404I6G5r9FM3VCyRQ=="
 ---

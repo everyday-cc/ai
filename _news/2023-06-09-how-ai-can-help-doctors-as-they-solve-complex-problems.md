@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "3 ways artificial intelligence can improve the clinical trial process"
-    excerpt: "As artificial intelligence (AI) continues to make significant advances, the leaders of clinical trials should not underestimate its capabilities for improving patient recruitment, retention, and health outcomes."
-    publishedDateTime: 2023-06-08T07:51:00Z
-    webUrl: "https://pharmaphorum.com/rd/3-ways-artificial-intelligence-can-improve-clinical-trial-process"
-    type: article
-    provider:
-      name: pharmaphorum
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/sites/default/files/2023-06/artificial-intelligence-healthcare.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-
 secured: "VMk/UKoR2gwE1UziLSXKCFMVYK5E4C5/WWgzPILTJfAjXxIjhmO9iQYw4QvXMNkoGmP/puckJwJ9mIt02RTnaKGq6zTcTkPZMZA/3PXYQxxVoqmE7VBR0YWYHxzUhMTrCGMJAC7YwNpuldaZYpUJCOToqubBbUjrZhjExgqPa/Ky+GuhNayiVshyQSa3HbqbmTsFt9no+U7a8JI/RjuuHyYSFO3r96nKZs2JOmD3yA5XI69JLICTeRHjZpyYUiNR8x4CjoyLYxZHj6kImlb3nxuJ3BzE/+cg5/XFMjL9993qo2eZ5/Fx9VV+UK0NZSsx4tmNLSTcvoehfsqH2QJZQMLhqKaRuPI9PPn/awI8BOVfT0GHuSpM351fsVj8pB9zv/3ZIoxKFMO4XaZ3mPAkzb/LFcVvWxayUWkuaJlD5n3ocM+u8WQ3I5EtqR2zqCcrCtPGhMGtIvKHeGOi4f39tuNmJ/IYTUzhtJRAcLWMa1i2EXoe6ETeKpXvsfM3yzdS15F8dqD35WX44Eolor3F0w==;d9r01SIOcOEv7lLgPjUShQ=="
 ---
 

@@ -49,6 +49,20 @@ related:
         width: 850
         height: 580
         isCached: true
+  - title: "Music world gets Startup Nation upgrade, using AI of course"
+    excerpt: "Israeli music startup incorporates cutting-edge technologies not to replace human artists, but to enrich their creations and expand creativity."
+    publishedDateTime: 2023-06-11T04:30:00Z
+    webUrl: "https://www.israel21c.org/music-world-gets-startup-nation-upgrade-using-ai-of-course/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 37
+    images:
+      - url: "https://static.israel21c.org/www/uploads/2023/05/COVER_courtesy_of_Session_42_s_Facebook.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "mDz3j1xlndsbvXql51Tejzk0Chi6C4cyYWPAKu40DCFQREEykjqgEiywYMt1KtW9ZQybEqe9p2EUvby/UfyJi3sInlyN9H6L/8pGRlDBrRpeRiI46O0XE3g5n5yQ7cNeZ9/XMlQa5Qlfn2w1uEqMid4ne1IKjqb/HcBCav4r/H7naXM21AKkQKT1YvYw4ET5KDTdW1mQVQUgaovvctlbDg7CiACjDLFRYU7b0sntF5EuuBB1JYo3J0A86Pt+pGWftP0L37hXzi5X2cU3zVUUqbuN/O1R+J5KEncXV4a4zqdgTkGfIiDezhJd+LjS2Rd2oB9rDb0350fW7rDbTRLVoBVYL/xJPjYD8E11RMOl3Ll1uPJ56ZcEsuvjOidJcl6S8beyCjv6/qkyoEG03vzRxvp7y3rcj9JfMnVKW3S2SG+ByATN8/6dW5XbRCe1jNR+RLBxeKk8kqIDs8N4OJurWuy7hrFGSB7/GNcxQSLPdDV9iqTLMUoseRuC2JqzM3hEB3P6oPbLoWoLawizd/kwgQ==;kIoQnKQk1CGoAapCaoIAPw=="
 ---

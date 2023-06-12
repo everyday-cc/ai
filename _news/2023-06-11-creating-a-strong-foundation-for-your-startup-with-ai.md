@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
 type: article
 quality: 87
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://media.yourobserver.com/img/photos/2023/06/08/Ilustration_FINAL_r850x580.jpg?50e13880ccc54d977011a5484f156b28f4611466"
         width: 850
         height: 580
+        isCached: true
+  - title: "Music world gets Startup Nation upgrade, using AI of course"
+    excerpt: "Israeli music startup incorporates cutting-edge technologies not to replace human artists, but to enrich their creations and expand creativity."
+    publishedDateTime: 2023-06-11T04:30:00Z
+    webUrl: "https://www.israel21c.org/music-world-gets-startup-nation-upgrade-using-ai-of-course/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 37
+    images:
+      - url: "https://static.israel21c.org/www/uploads/2023/05/COVER_courtesy_of_Session_42_s_Facebook.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "AI FAANG Stocks You Can’t Go Wrong With"
     excerpt: "All of them are good buy. To some all are working on similar advances in the field, and this competition will likely drive bigger and better things out of all of them."

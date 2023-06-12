@@ -7,7 +7,7 @@ originalUrl: "https://www.aviationpros.com/ground-handling/ground-handlers-servi
 webUrl: "https://www.aviationpros.com/ground-handling/ground-handlers-service-providers/catering-cleaning-services/press-release/53062710/dnata-dnata-introduces-groundbreaking-cooking-robot-at-world-travel-catering-and-onboard-services-expo-wtce"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "dnata introduces ground-breaking cooking robot"
+    excerpt: "AI-powered robot capable of handling cooking operations in commercial and residential kitchens. Developed by Moley Robotics, it is able to recreate identical dishes at scale by following pre-recorded chef instructions."
+    publishedDateTime: 2023-06-12T05:02:00Z
+    webUrl: "https://www.breakingtravelnews.com/news/article/dnata-introduces-ground-breaking-cooking-robot/"
+    type: article
+    provider:
+      name: Travel News
+      domain: breakingtravelnews.com
+    quality: 39
+    images:
+      - url: "https://www.breakingtravelnews.com/images/sized/images/uploads/airline/800_attendeesvisitingdnata039sstandatwtcehavetheopportunitytomeetandinteractwithacutting-edgecookingrobot-2-700x394.jpg"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "PtMPXNsISnmHx1WoKABea96sIgcF1wvWyAXEIoVt41aXmWnftoiZzcQqmygD4dm8jxRRYJ1j4F2FhesbJmQMh0BRpQ5hLTfX3Ti4Z2uXZW6xNVvku1rdSF+ldgba/ex+ZR+TptnQkyGzuNeEOoxpk9p4vi2EE7QJj88SWyV9ARoX/UWsYW7vgiX6QxXCS5Jz+NJ/RjxAkwjGs8YBUJYAyQ4JCNnvLmsWx0zzmspcN15SYtNC0gUbfEFmMrviSPaWYfHsx/dzMhwrUxbMSJUdLQ6BZDjj4rn7a4erB9F6AUUslZb1qZ0UDKUrr5w0bOnkHxyfye5BbWcERRibamGSFBtdVk3rs8fs90nf8A3TdJRoW47spT5UtuDC6n3L4GxHsXCmc/7Ol6HNUf1QjIXhdqq/+eaiwX6euzGVYjVI4S31x6+yqzLNwsnU23KX8dFWVyoFAp6J06ITaKOFqmt2SMC9jbGIShSY2kuF1gqKqM8IySYTD1Xx0wjkt9v3W5ef4bLa60I0RnFTr3QGbgZb+w==;TMJWtkqkKriolfiFx/jdHw=="
 ---

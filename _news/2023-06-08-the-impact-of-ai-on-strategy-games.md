@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,22 +30,141 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence's Impact on Jobs"
-    excerpt: "Some jobs may go away, but others will have portions of their job duties made easier or eliminated all together. AI driven radiologist will not get tired or have fuzzy eyes. A human will likely double check what the AI has detected and then \"the human\" will need to communicate as only humans can (for know with empathy) to someone needing information about the cancer—or no cancer diagnosis."
-    publishedDateTime: 2023-06-12T02:49:00Z
-    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/artificial-intelligences-impact-on-jobs"
-    ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/artificial-intelligences-impact-on-jobs?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/artificial-intelligences-impact-on-jobs?_amp=true"
+  - title: "The Weakness Of Artificial Intelligence In Marketing"
+    excerpt: "Artificial intelligence (AI) is the new \"internet.\" Like the internet, AI has created a lot of these same responses. The stark reality is technology has never gone backward. It marches on, and how we respond to these developments for better or worse is what shapes the outcome."
+    publishedDateTime: 2023-06-08T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6480df6d3a8f502c9a595936/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Don't bank on AI predicting the stock market anytime soon"
+    excerpt: "The idea of artificial intelligence being able to predict the market is a pipe dream, according to Wall Street vet Marty Chavez. Here's why."
+    publishedDateTime: 2023-06-08T17:38:00Z
+    webUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/64820c2d8f265d001998c5e8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "LinkedIn is adding AI-powered tools to help marketing professionals"
+    excerpt: "LinkedIn has been quick to adopt generative AI tools on its platform, such as AI-generated Recruiter messages and profile sections, to help both businesses and professionals reach their goals. On Thursday, LinkedIn introduced AI-generated Copy Suggestions, powered by advanced OpenAI GPT models."
+    publishedDateTime: 2023-06-08T20:41:00Z
+    webUrl: "https://www.zdnet.com/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/082aa5e66f966b8c65a199f933d9a9c62c40e43b/2023/06/08/e7f2ec41-4941-4938-8aba-a10ddc1bcf5f/gettyimages-1239071698.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The ethics of using AI in education"
+    excerpt: "The continuous advancements in AI technology and its ability to simulate human listening, speaking, thinking, and learning has seen it emerge as a promising tool to enhance student learning experiences. Some studies have demonstrated the positive impact of ..."
+    publishedDateTime: 2023-06-10T14:27:00Z
+    webUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece"
+    ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 91
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/hdt9vp/article66936849.ece/alternates/FREE_1200/12EPBS_AI%20IN%20ED.jpg"
+        width: 1200
+        height: 923
+        isCached: true
+  - title: "For Banks, AI Is Like Having an Army of Interns"
+    excerpt: "On this episode of In the City, we show why New York leads the search for humans to command those robot troops, with London not far behind."
+    publishedDateTime: 2023-06-08T04:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-08/podcast-for-banks-ai-is-like-having-an-army-of-interns"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Vn8ucvSg3s/v0/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
+    excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
+    publishedDateTime: 2023-06-09T02:06:00Z
+    webUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html"
+    ampWebUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
     quality: 57
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/5cf20d7/2147483647/strip/true/crop/366x512+0+0/resize/366x512!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F0f%2F16%2F7687441d4ce0a3b2820b9b0b02e5%2Feric-holdeman-senior-fellow.jpg"
-        width: 366
-        height: 512
+      - url: "https://images.idgesg.net/images/article/2020/01/united_states_capitol_building_washington_dc_congress_legislation_by_mcdustelroy_gettyimages-1036372454_digital_landscape_by_dkosig_gettyimages-1146014337_2400x1600-100825944-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Cashing in on AI chips"
+    excerpt: "There was an error generating the full edition PDF. Please try again later. Click and hold your mouse button on the page to select the area you wish to save or print ..."
+    publishedDateTime: 2023-06-08T09:03:00Z
+    webUrl: "https://richmond.com/eedition/richmond/page-a9/page_6ec8cd17-437c-5ace-8d63-1b347045ca58.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/eedition/6/ec/6ec8cd17-437c-5ace-8d63-1b347045ca58/648153e60cd5b.preview-620.jpg?crop=620%2C326%2C0%2C478&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
+        isCached: true
+  - title: "Using AI to Adjust Your Marketing and Sales in a Volatile World"
+    excerpt: "Why are some firms better and faster than others at adapting their use of customer data to respond to changing or uncertain marketing conditions? A common thread across faster-acting firms is the use of AI models to predict outcomes at various stages of the customer journey."
+    publishedDateTime: 2023-06-08T19:02:00Z
+    webUrl: "https://hbr.org/sponsored/2023/06/using-ai-to-adjust-your-marketing-and-sales-in-a-volatile-world"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 51
+  - title: "6 podcasts to make sense of AI"
+    excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics"
+    publishedDateTime: 2023-06-09T16:35:00Z
+    webUrl: "https://www.omanobserver.om/article/1138479/world/americas/6-podcasts-to-make-sense-of-ai"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 19
+  - title: "UK summit to address risks of AI"
+    excerpt: "The UK is to host a global summit in London in the autumn to try and coordinate a common global response to the rise of AI technology. Concerns about the risks posed by AI have increased recently with a group of Silicon Valley executives issuing a statement arguing that artificial intelligence could even lead to the extinction of humanity."
+    publishedDateTime: 2023-06-08T12:36:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0fszc8s"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
 
 secured: "83RwPvEMLrtWHSaBkigEhuS1QfaFRSsHZQYJzC27CZVRehVJ5XMK8yQOMniI5bHH4VI76yuCt02pQ7HJQxBl/DT4GUjKN9FkIFL/aNzHQMywNDj23euBOVjAlK/3Dw/6Ch3tPv7jNSyGIkIfmHZtDVWAfxkXXI6ntV47ymGpd/XSlMiKv1Y1kt8ZL2sUaA+luVjVhK3YnwUjgE0Jq+8MbFEaMvxg0H8/zEgZmUe8gA4lCwV4QhvopETHO3Au/9Zv70dLtkYNcE2C06qhuxs5t1ZIOhYQPT5yM5663kkoWXsEgRJv2OoPTwRnqFDbchE75iXTFz2nIWs7s2/Vs6/Mw/1V33zJqu7o3cV0+lp7U9Y=;E5mlo8suE1qiT7K4ceoztA=="
 ---

@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-06-09-the-best-movies-on-amazon-prime-video-june-2023.md",
-      "title": "The best movies on Amazon Prime Video (June 2023)",
-      "excerpt": "While the first week of June was uncharacteristically quiet for Amazon Prime Video, the streamer is coming out swinging this week with the arrival of Creed III, the latest installment in the long ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/Michael-B-Jordan-and-Jonathan-Majors-face-each-other-in-a-boxing-ring-in-Creed-31.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-06-09T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-09-revolutionizing-business-finance-with-ai-a-new-era-is-coming.md",
       "title": "Revolutionizing Business Finance With AI: A New Era Is Coming",
       "excerpt": "With AI’s help, business finance is ripe for disruption. New technologies will be able to wrap around legacy bank systems and create a new layer of data attribution, ushering in a modern era for accounting and business finance.",
@@ -768,7 +716,7 @@
       "originalUrl": "https://www.thenews.com.pk/latest/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -811,7 +759,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -906,21 +854,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-09-linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals.md",
-      "title": "LinkedIn is adding AI-powered tools to help marketing professionals",
-      "excerpt": "LinkedIn has been quick to adopt generative AI tools on its platform, such as AI-generated Recruiter messages and profile sections, to help both businesses and professionals reach their goals. On Thursday, LinkedIn introduced AI-generated Copy Suggestions, powered by advanced OpenAI GPT models.",
+      "path": "_news/2023-06-09-professors-call-for-further-study-of-potential-uses-of-ai-in-special-education-avoiding-bans.md",
+      "title": "Professors call for further study of potential uses of AI in special education, avoiding bans",
+      "excerpt": "Artificial intelligence is making headlines about its potentially disruptive influence in many spaces, including the classroom. A group of educators that includes a University of Kansas researcher has just published a position paper reviewing AI's potential in special education,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/",
-      "originalUrl": "https://www.zdnet.com/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/",
+      "webUrl": "https://phys.org/news/2023-06-professors-potential-ai-special.html",
+      "originalUrl": "https://phys.org/news/2023-06-professors-potential-ai-special.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/082aa5e66f966b8c65a199f933d9a9c62c40e43b/2023/06/08/e7f2ec41-4941-4938-8aba-a10ddc1bcf5f/gettyimages-1239071698.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/professors-call-for-fu.jpg",
+          "width": 2880,
+          "height": 1744,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -928,23 +876,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/",
-      "publishedDateTime": "2023-06-08T13:41:00-07:00",
+      "ampWebUrl": "https://phys.org/news/2023-06-professors-potential-ai-special.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-professors-potential-ai-special.amp",
+      "publishedDateTime": "2023-06-08T13:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -954,7 +893,7 @@
       ],
       "topics": [
         "AI",
-        "AI in Marketing"
+        "AI in Education"
       ]
     },
     {
@@ -1062,21 +1001,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-09-dont-bank-on-ai-predicting-the-stock-market-anytime-soon.md",
-      "title": "Don't bank on AI predicting the stock market anytime soon",
-      "excerpt": "The idea of artificial intelligence being able to predict the market is a pipe dream, according to Wall Street vet Marty Chavez. Here's why.",
+      "path": "_news/2023-06-09-how-to-navigate-the-hidden-risks-of-ai-and-digitization.md",
+      "title": "How to Navigate the Hidden Risks of AI and Digitization",
+      "excerpt": "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6",
-      "originalUrl": "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6",
+      "webUrl": "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777",
+      "originalUrl": "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/64820c2d8f265d001998c5e8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1685715379-GettyImages-1434121527.jpg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1084,16 +1023,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp",
-      "publishedDateTime": "2023-06-08T10:38:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T10:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1109,8 +1048,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Finance"
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1122,7 +1061,7 @@
       "originalUrl": "https://www.barrons.com/articles/qualcomm-stock-ai-chips-winner-6e854ae5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1258,6 +1197,57 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-celebrating-world-oceans-day-revitalizing-the-marine-ecosystem-with-technology-driven-engineered-reefs-to-accelerate-co2-capture.md",
+      "title": "Celebrating World Oceans Day: Revitalizing the marine ecosystem with technology-driven engineered reefs to accelerate CO2 capture",
+      "excerpt": "Coral reefs play a vital role in sustaining marine life, capturing CO2 and mitigating the effects of global warming. Technology can help.\nThe post Celebrating World Oceans Day: Revitalizing the marine ecosystem with technology-driven engineered reefs to accelerate CO2 capture appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/celebrating-world-oceans-day-revitalizing-the-marine-ecosystem-with-technology-driven-engineered-reefs/",
+      "originalUrl": "https://www.ibm.com/blog/celebrating-world-oceans-day-revitalizing-the-marine-ecosystem-with-technology-driven-engineered-reefs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/d654164b-f6b8-4c1d-900719bd962c155d.l_2x1-e1686224481628.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T08:58:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     }
   ],

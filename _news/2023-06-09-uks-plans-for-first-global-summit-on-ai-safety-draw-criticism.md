@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/uks-plans-for
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -96,15 +96,6 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 17
-  - title: "UK summit to address risks of AI"
-    excerpt: "The UK is to host a global summit in London in the autumn to try and coordinate a common global response to the rise of AI technology. Concerns about the risks posed by AI have increased recently with a group of Silicon Valley executives issuing a statement arguing that artificial intelligence could even lead to the extinction of humanity."
-    publishedDateTime: 2023-06-08T12:36:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0fszc8s"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
     quality: 17
 
 secured: "N6p+u3vbXhkiLojsj0yRCtNIDQdtMNRqpdJEeTIKi0Jt9J3KTgSY9dwvIBDy7xPnkwlCq/8a+xE1npUkMVGRo63gxpRVqDqYc/d72FUDkvO7QSfgfDKCnAoTV/t95cWZwg4JvbkY5qM0xqcR263eZU3HQYgoFdG4cDtK4GqNkJtTWeSh4nrkCwOb1B71thg4K6ekYLdi+kP04bcYFd22jT6uzApObsE2s3NPfL+RtkzviP4IjmlwIJELpJ6K9hQEOEW0Kt7p4lJQqkRpsJgFlYh4W2vxBh4Y9MAFONnJlm21VSfq+1LL03lvXwISST0eCDli5oF7UVfS+ZTfv1VT64I6YB55IwRKqCWsdxGzrBbdLoV4nkvIE3DuDCG5SUIci782XFnvFQNlFdejTyU3GYYg+prRfftOg3uJ9fRQDy91vuJ2vuM9Do1xgNo+EIYpqqtMduna7MSgWeYuw5IR/l69ConEUpLshQ9kS0QJPRwV8UAPpuUDrZ3+XPrKbjuwl9OSyg8oqvDTH3rJ6JBu0w==;yyxNdH1f3coL7mPSVTiAuQ=="

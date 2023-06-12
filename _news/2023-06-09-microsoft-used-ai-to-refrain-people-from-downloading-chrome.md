@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Microsoft Is Bringing OpenAI’s GPT-4 AI model to US Government Agencies"
-    excerpt: "Microsoft Corp. will make it possible for users of its Azure Government cloud computing service, which include a variety of US agencies, to access artificial intelligence models from ChatGPT creator OpenAI."
-    publishedDateTime: 2023-06-07T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLkcciEoUAyI/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Adds OpenAI’s GPT-4 Models to Azure Government Services"
     excerpt: "Potential government clients that could obtain access to ChatGPT AI models include NASA, the Defense Department, and the Energy Department."
     publishedDateTime: 2023-06-07T14:24:00Z

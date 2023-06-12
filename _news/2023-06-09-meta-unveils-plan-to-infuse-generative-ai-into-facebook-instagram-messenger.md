@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-g
 cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Instabase unveils AI Hub, a generative AI platform for content understanding"
-    excerpt: "Powered by generative AI, Instabase with its AI Hub aims to provide self-service solutions to harness the potential of AI-driven insights."
-    publishedDateTime: 2023-06-07T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/instabase-unveils-ai-hub-a-generative-ai-platform-for-content-understanding/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
   - title: "Mark Zuckerberg reveals plans to add AI into Facebook & Instagram"
     excerpt: "Meta CEO Mark Zuckerberg has revealed plans to bring generative AI text, image, and video to Facebook, Instagram, and more."
     publishedDateTime: 2023-06-08T20:47:00Z

@@ -1,223 +1,44 @@
 ---
 category: news
 title: "10 of the best free artificial intelligence courses on edX"
-excerpt: "These are the best free artificial intelligence courses as of June 11: AI Chatbots without Programming (IBM)(opens in a new tab) AI for Everyone: Master the Basics (IBM)(opens in a new tab) AI for Leaders (Babson College)(opens in a new tab) AI for ..."
-publishedDateTime: 2023-06-12T03:57:00Z
-originalUrl: "https://mashable.com/uk/deals/ai-courses-for-free"
-webUrl: "https://mashable.com/uk/deals/ai-courses-for-free"
+excerpt: "TL;DR: A wide range of online courses on AI are available for free at edX. Master the basics, dive into machine learning, and grapple with ethical issues, without spending anything.edX competes with the likes of Udemy to offer the best and largest range of online courses,"
+publishedDateTime: 2023-06-12T03:55:00Z
+originalUrl: "https://www.aol.com/news/10-best-free-artificial-intelligence-035500045.html"
+webUrl: "https://www.aol.com/news/10-best-free-artificial-intelligence-035500045.html"
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
 
 images:
-  - url: "https://helios-i.mashable.com/imagery/articles/03eACpI1nJnAUCOyUCxrxTl/hero-image.fill.size_1200x675.v1686313582.jpg"
+  - url: "https://s.yimg.com/ny/api/res/1.2/weh1BeSvCD56.9c0h2c9lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_mashable_370/bfc4cffba4101f10784f36891ed10e31"
     width: 1200
-    height: 675
+    height: 800
     isCached: true
 
 related:
-  - title: "The ethics of using AI in education"
-    excerpt: "The continuous advancements in AI technology and its ability to simulate human listening, speaking, thinking, and learning has seen it emerge as a promising tool to enhance student learning experiences. Some studies have demonstrated the positive impact of ..."
-    publishedDateTime: 2023-06-10T14:27:00Z
-    webUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece"
-    ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
+  - title: "10 of the best machine learning courses you can take online for free"
+    excerpt: "TL;DR: A wide range of machine learning courses are available for free at Udemy. Advance in your technology career without spending anything.Machine learning might seem like something that only tech wizards from the future can understand,"
+    publishedDateTime: 2023-06-11T10:56:00Z
+    webUrl: "https://www.aol.com/10-best-machine-learning-courses-035500545.html"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 91
+      name: AOL
+      domain: aol.com
+    quality: 39
     images:
-      - url: "https://th-i.thgim.com/public/incoming/hdt9vp/article66936849.ece/alternates/FREE_1200/12EPBS_AI%20IN%20ED.jpg"
-        width: 1200
-        height: 923
-        isCached: true
-  - title: "How to Navigate the Hidden Risks of AI and Digitization"
-    excerpt: "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ..."
-    publishedDateTime: 2023-06-08T17:42:00Z
-    webUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685715379-GettyImages-1434121527.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Ingeniously Using Generative AI Such As GPT-4 To Reveal The Puzzling Secrets Of How Generative AI Startlingly Works, Lauds AI Ethics And AI Law"
-    excerpt: "Nobody can say for sure why generative AI works so startlingly well. A new approach revealed by OpenAI uses GPT-4 to decipher generative AI secrets. Here's the deal."
-    publishedDateTime: 2023-06-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63731fd487e442fe938888a7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 652
-        isCached: true
-  - title: "A Call For The Ethical And Responsible Use Of AI"
-    excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"
-    publishedDateTime: 2023-06-08T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/a-call-for-the-ethical-and-responsible-use-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Professors call for further study of potential uses of AI in special education, avoiding bans"
-    excerpt: "Artificial intelligence is making headlines about its potentially disruptive influence in many spaces, including the classroom. A group of educators that includes a University of Kansas researcher has just published a position paper reviewing AI's potential in special education,"
-    publishedDateTime: 2023-06-08T20:04:00Z
-    webUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.html"
-    ampWebUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-professors-potential-ai-special.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 63
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/professors-call-for-fu.jpg"
-        width: 2880
-        height: 1744
-        isCached: true
-  - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
-    excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
-    publishedDateTime: 2023-06-09T02:06:00Z
-    webUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html"
-    ampWebUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/01/united_states_capitol_building_washington_dc_congress_legislation_by_mcdustelroy_gettyimages-1036372454_digital_landscape_by_dkosig_gettyimages-1146014337_2400x1600-100825944-large.jpg?auto=webp&quality=85,70"
+      - url: "https://s.yimg.com/ny/api/res/1.2/ya6p2VjpYY1ScGBt2_yhYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_mashable_370/b300fa896f09ba3252187b07f58209b5"
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence raises questions for educators"
-    excerpt: "The increase of artificial intelligence use is forcing teachers to face how it will change the learning process."
-    publishedDateTime: 2023-06-09T02:40:00Z
-    webUrl: "https://listen.sdpb.org/education/2023-06-08/artificial-intelligence-raises-questions-for-educators"
-    type: article
-    provider:
-      name: South Dakota Public Broadcasting
-      domain: sdpb.org
-    quality: 52
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/ff84040/2147483647/strip/true/crop/3000x1575+0+56/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2019%2F10%2F15%2Faid-evidence_wide-851025a61a9e7bbb8382dafed3c617413d4fdd1e.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ethics should be at the foundation of building AI systems: Salesforce executive"
-    excerpt: "There has been growing concern among regulators around sensitive data collection from AI software and the need to balance privacy concerns with allowing room to foster innovation. CNA's Heidi Ng spoke to Kathy Baxter,"
-    publishedDateTime: 2023-06-09T03:47:00Z
-    webUrl: "https://www.channelnewsasia.com/watch/ethics-should-be-foundation-building-ai-systems-salesforce-executive-3547126"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 50
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--zEHybKOT--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/06/09/Screenshot%20(168).png?itok=WGtO9sDB"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Increasing focus on AI is driving demand for empathetic women leaders"
-    excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
-    publishedDateTime: 2023-06-11T01:50:00Z
-    webUrl: "https://yourstory.com/herstory/2023/06/women-leaders-inclusion-key-enterprises-ai"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/shutterstock1456783511-1672930865154.jpeg?fm=png&auto=format"
-        width: 2834
-        height: 1337
-        isCached: true
-  - title: "The World of Minecraft: Revolutionizing Artificial Intelligence Innovation"
-    excerpt: "Minecraft's transformation from a beloved construction game to a pioneering platform for AI innovation is a testament to the game's versatility and the ingenuity of researchers."
-    publishedDateTime: 2023-06-07T11:37:00Z
-    webUrl: "https://techstory.in/the-world-of-minecraft-revolutionizing-artificial-intelligence-innovation/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/ai-pack-scr-12.png"
-        width: 1366
-        height: 746
-        isCached: true
-  - title: "Music world gets Startup Nation upgrade, using AI of course"
-    excerpt: "Israeli music startup incorporates cutting-edge technologies not to replace human artists, but to enrich their creations and expand creativity."
-    publishedDateTime: 2023-06-11T04:30:00Z
-    webUrl: "https://www.israel21c.org/music-world-gets-startup-nation-upgrade-using-ai-of-course/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 37
-    images:
-      - url: "https://static.israel21c.org/www/uploads/2023/05/COVER_courtesy_of_Session_42_s_Facebook.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The Ethics of Using Generative Artificial Intelligence in the Practice of Law"
-    excerpt: "Understanding how generative AI solutions collect, store and use the information that ... certainly will not be sufficient to rise to the level of expected competence by ethics officials. In other words, arguing that the information provided by ChatGPT ..."
-    publishedDateTime: 2023-06-07T20:17:00Z
-    webUrl: "https://ipwatchdog.com/2023/06/07/ethics-using-generative-artificial-intelligence-practice-law/id=162097/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 31
-  - title: "A row over artificial intelligence regulations looms on the horizon"
-    excerpt: "EU officials say Britain is behind the AI curve, while the UK points to the size of London’s tech industry as evidence that this country is best placed to play a vital role in any regulatory framework"
-    publishedDateTime: 2023-06-07T19:35:00Z
-    webUrl: "https://inews.co.uk/opinion/a-row-over-artificial-intelligence-regulations-looms-on-the-horizon-2395126?ico=most_popular"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 19
-  - title: "Era of artificial intelligence in India"
-    excerpt: "Ishant Gupta In today’s digital era, technological advancements have revolutionized the way we live, work, and interact. Among these advancements, Artificial Intelligence (AI) has emerged as a powerful tool,"
-    publishedDateTime: 2023-06-09T19:11:00Z
-    webUrl: "https://www.dailyexcelsior.com/era-of-artificial-intelligence-in-india/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 19
-  - title: "From Integrating AI To Strictly Protecting Client Data, How Online Education Company Amesite Inc Is Doing Things Differently To Disrupt Learning"
-    excerpt: "As an online platform and product developer powered by artificial intelligence (AI), Amesite is positioning itself to disrupt ... In 2022 Amesite started a collaboration with Microsoft for the use of its Azure cloud, and it was featured in a story on ..."
-    publishedDateTime: 2023-06-07T13:11:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/06/32756767/from-integrating-ai-to-strictly-protecting-client-data-how-online-education-company-amesite-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
-secured: "r0WjZ0sXV/solLjihEhoPiopYpa9yyFT4lr4jokTODYnWkT80Fypx682o60edBxidDYhib6NDcfkhkh43QYTMUtqWp7xnhDxSm59jvv8MPq1k8nSTxTnjaOGWfsnocI9i/H1eVRl2TN5rR6bX3exzw3fn9CnLjRi+XQPPK13dvBihkcYCeKx8bKBciEI/p6ZVjdWQGlQ7kvT/1JyIrJSK6dM3TmQYuotMWPXDntXOG0kXQl8/wh1hgqcieJac2RBuDtUxzWdaSlse4Le0Bchlb2QUygHXMOWrctt38eCH3BWA2jiw9DiPXL7uT/ns1YCfnEzpZfaKr9RVMkUTbQ3AhGD1CvSurqhiF40EGn51gs=;mDKaswX4cYQOCJPoHAJ7Tw=="
+secured: "zxIfHb5KdMam3mN40k4BMU1b9UmNEQmN/iB3mKugDNq9/3xSeC1vN0YGAlBsbW7TYIt+7QMfNvRYRcYvDtcPT1KhfO22dAQi9tbgyJtoAOhKhAzeVs7w3P1KdbcXYYDnVeJy1WpKALZamfBSlHQ1gLTzqkXUiwBDB9V8W7CnPel7NDpzIo3qI1RDgyaYqhu/fgtpH5AXL2xm1aH+OMpjb1p0nYZNGR97WI9qMNwycc7FddSvhLXQp2qLOVGl/8g19N2Tvz4egpgipIqWObNcSszswlnW0LEA8aUPXSeTF3x7nVGuSV4JY+yf/wIjVnDz3UbC5zaNClBBy3olKP+kZrzc0/m5VBdG8TZawTvbYMM=;WzDEtjGa6Gxy+Og7ikWqCA=="
 ---
 

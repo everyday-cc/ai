@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/linkedin-launches-generative-ai-tool-to
 webUrl: "https://venturebeat.com/ai/linkedin-launches-generative-ai-tool-to-write-ad-copy/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -28,22 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "LinkedIn is adding AI-powered tools to help marketing professionals"
-    excerpt: "LinkedIn has been quick to adopt generative AI tools on its platform, such as AI-generated Recruiter messages and profile sections, to help both businesses and professionals reach their goals. On Thursday, LinkedIn introduced AI-generated Copy Suggestions, powered by advanced OpenAI GPT models."
-    publishedDateTime: 2023-06-08T20:41:00Z
-    webUrl: "https://www.zdnet.com/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+  - title: "Adobe Express gets generative AI tools to level up your design experience"
+    excerpt: "Adobe has been making headlines for its integration of generative AI into its most popular tools, such as Photoshop. Features like Generative Fill have taken photo editing to the next level, making it possible to add realistic-looking elements to a photo with the click of a button."
+    publishedDateTime: 2023-06-08T19:24:00Z
+    webUrl: "https://www.zdnet.com/article/adobe-express-gets-generative-ai-tools-to-level-up-your-design-experience/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/082aa5e66f966b8c65a199f933d9a9c62c40e43b/2023/06/08/e7f2ec41-4941-4938-8aba-a10ddc1bcf5f/gettyimages-1239071698.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
+    quality: 46
 
 secured: "J1dDuRLU32pswBKiWVrEwpMl4n0x3IAxhmXIM8+0pFTaRZ15FLZD86Ll/Ak+VVGPTWVl3nud31H9WVO6YJTXVvMpxmMqlQzhWaygEBnQ2A8tUNhy31ApgC6hJIFpgfyLeGvov1Vs0EHB+jtibRNgfbF2cIt9y7bMVByIyKXV+w6AFMz7rDbn3CxoKh4OXCuibMCkrarFvbZ/2GhVoCWwHt15WURuEdRaUAWV7FMaiGHeh1kXDxugSof822x0uhio9rrYnH+YO9WJpbNsHU14EHyfxO7I4RoAUIVVvDDrfIfdUEwCfGv+2sZ4GwFxpeoBE6xSqweG/1bYrMZEWoKxFMeIO/gnJAtbJVe//EdBBj0=;0Y75EyJL4N0HP+MEI8BDHA=="
 ---

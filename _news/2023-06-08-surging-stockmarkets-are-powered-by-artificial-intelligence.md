@@ -7,7 +7,7 @@ originalUrl: "https://www.economist.com/finance-and-economics/2023/06/07/surging
 webUrl: "https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Don't bank on AI predicting the stock market anytime soon"
-    excerpt: "The idea of artificial intelligence being able to predict the market is a pipe dream, according to Wall Street vet Marty Chavez. Here's why."
-    publishedDateTime: 2023-06-08T17:38:00Z
-    webUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp"
+  - title: "Sleep Apnea Devices Market worth $8.0 billion | MarketsandMarkets"
+    excerpt: "The sleep apnea devices industry is poised for significant growth and innovation in the near future. With increasing awareness about the detrimental effects of untreated sleep apnea,"
+    publishedDateTime: 2023-06-08T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32783569/sleep-apnea-devices-market-worth-8-0-billion-marketsandmarkets"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/64820c2d8f265d001998c5e8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
 
 secured: "73D0udUvF0vfzTEGRJ8WO8H/4aLVH+LCXGnZyu0guVhPB807fKHn0jl9QWM2fGo50QGVoHwOglyNf9VUj3BWMK2325yaRzLJZTJ+IvgqR9jwwKJycCMnCmQpB2tIHIxu7adulto00oHwZgH4LcQIx4r/r+/qhhQLbjIq42XM8ZglJqTSZ/d8+n3WM/BEX9nfpW3d/pGt7DR4YntCLqGDc937F2RgjE9OU3xIZ4FyZUtFc6Efj+4txN16+rUbrbhtQrXYtigvWUY4VDQ4FI8HZbxDnjBPde3fuMbWdbrw7XkNP0prAkYegthOr+CbKakO91CI8I/2DxJfIpmvQdjUR2k1zUyUbB4jcI4Q8yG2NsckVwydecvPMPM181Mwp+GbpTzf96HLDjdPWGtWE0Su4fRRZqh2VenuK5N6qMdf/wgOW4rISgy27djRnKJXicr9hAT5ifRqllsF01IxSAiyi+ZmONa+k1HGvklRPGh4O8nELBrdXTHsq64xhcLAyIFi1jqbMakiHjd656oFmaefuw==;kkseRT97p+zQA0xZ1SOv2w=="
 ---

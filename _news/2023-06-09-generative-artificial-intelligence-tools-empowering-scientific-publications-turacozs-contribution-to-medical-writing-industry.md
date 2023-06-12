@@ -19,20 +19,63 @@ topics:
   - AI
 
 related:
-  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
-    excerpt: "Building on the momentum, Turacoz also hosted two consecutive webinars on \"Developing Scientific Publications Ethically in the Era of Generative AI (ChatGPT) \". These webinars provided participants with opportunities to explore the intersection o generative AI and scientific publications,"
-    publishedDateTime: 2023-06-07T13:42:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/07/9828482.htm"
+  - title: "How to Navigate the Hidden Risks of AI and Digitization"
+    excerpt: "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ..."
+    publishedDateTime: 2023-06-08T17:42:00Z
+    webUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/2095479/Generative_Artificial_Intelligence.jpg"
-        width: 399
-        height: 400
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685715379-GettyImages-1434121527.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
+  - title: "Falling funds and the rise of AI are top of the menu at London tech talks"
+    excerpt: "Artificial intelligence will be the main talking point at London Tech Week but investment and skills problems remain"
+    publishedDateTime: 2023-06-10T22:05:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/11/falling-funds-and-the-rise-of-ai-are-top-of-the-menu-at-london-tech-talks"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/11/falling-funds-and-the-rise-of-ai-are-top-of-the-menu-at-london-tech-talks"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/11/falling-funds-and-the-rise-of-ai-are-top-of-the-menu-at-london-tech-talks"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
+    images:
+      - url: "https://i.guim.co.uk/img/media/d06a8dfb41307c00a74103b451c531f3ff309200/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=b383d96b1fb9fa907a3f4935a932fa16"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "AI in distribution: How artificial intelligence can drive growth"
+    excerpt: "Artificial intelligence (AI) is a growing industry that has changed the way businesses function and interact with their customers."
+    publishedDateTime: 2023-06-09T04:00:00Z
+    webUrl: "https://www.supplyht.com/articles/105371-ai-in-distribution-how-artificial-intelligence-can-drive-growth"
+    type: article
+    provider:
+      name: Supply House Times
+      domain: supplyht.com
+    quality: 34
+  - title: "A row over artificial intelligence regulations looms on the horizon"
+    excerpt: "EU officials say Britain is behind the AI curve, while the UK points to the size of London’s tech industry as evidence that this country is best placed to play a vital role in any regulatory framework"
+    publishedDateTime: 2023-06-07T19:35:00Z
+    webUrl: "https://inews.co.uk/opinion/a-row-over-artificial-intelligence-regulations-looms-on-the-horizon-2395126?ico=most_popular"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 19
+  - title: "5 sci fi anime that will totally blow your mind on the implications of AI advancements"
+    excerpt: "From Ghost in the Shell to Psycho Pass, here are five sci fi anime that discuss the complexities of artificial intelligence or AI."
+    publishedDateTime: 2023-06-08T13:00:00Z
+    webUrl: "https://www.oneesports.gg/anime/sci-fi-anime-artificial-intelligence-ai/"
+    type: article
+    provider:
+      name: oneesports
+      domain: oneesports.gg
+    quality: 11
 
 secured: "pPydEIaeAIYdToh/nIxRtGVLcJMmVEuhDUMF9kgoUHftfrKvYXOw9OjeNh3/R9N/UdrC9QrIBN/DrYpGgHDfNAr3Wu6Z8HTsJJdWWpl3wFK/S5bk3wQO2xIm0b3zq35ucSGgDvABKDczP5kEWz6L2tUKQ2mWths4QB0NAULUXvan1eZWOGSUW0hqmQ1sw0aeByDiibAMdyB3aUlvRRDUF9KlIBs9jKVYY6FvkvY7nyvqEU8aBz6rTdFdIcIHPK2wDpJCiDiwl8B0Tufyv1Ry3XtXlzIl1FRnrL5D7GCejSeTCr1KzqSV+9ZhRCC5N7BZXd/pEtqnr/qJlLdNTXcd9+mFgxv66UgHBAjCHDnELQc=;+9RcXrk066UZD+ziMdGZgQ=="
 ---

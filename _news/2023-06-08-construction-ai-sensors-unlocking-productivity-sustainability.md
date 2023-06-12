@@ -7,7 +7,7 @@ originalUrl: "https://www.forconstructionpros.com/concrete/equipment-products/te
 webUrl: "https://www.forconstructionpros.com/concrete/equipment-products/technology-services/article/22862287/avoid-concrete-overdesign-with-construction-ai-and-concrete-sensors"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Professors call for further study of potential uses of AI in special education, avoiding bans"
+    excerpt: "Artificial intelligence is making headlines about its potentially disruptive influence in many spaces, including the classroom. A group of educators that includes a University of Kansas researcher has just published a position paper reviewing AI's potential in special education,"
+    publishedDateTime: 2023-06-08T20:04:00Z
+    webUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.html"
+    ampWebUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-professors-potential-ai-special.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 63
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/professors-call-for-fu.jpg"
+        width: 2880
+        height: 1744
+        isCached: true
+  - title: "Artificial Intelligence raises questions for educators"
+    excerpt: "The increase of artificial intelligence use is forcing teachers to face how it will change the learning process."
+    publishedDateTime: 2023-06-09T02:40:00Z
+    webUrl: "https://listen.sdpb.org/education/2023-06-08/artificial-intelligence-raises-questions-for-educators"
+    type: article
+    provider:
+      name: South Dakota Public Broadcasting
+      domain: sdpb.org
+    quality: 52
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/ff84040/2147483647/strip/true/crop/3000x1575+0+56/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2019%2F10%2F15%2Faid-evidence_wide-851025a61a9e7bbb8382dafed3c617413d4fdd1e.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "578KMxc/cT5sCa6dj1hxw2wkcQ09HvrYUdy7N/FJFjAZaECSTtRuZJGbXFe+7bAYYI8DHyD/gnlWtScSEWUbWT0qKFqAHUSHKgZYrVpR5jxKo1rtzS7Eionv2GmlwylPzhJ2tVwNK/1kiuTfibPPIhYt0A6iKv9cxI2YjWajXIy3V0R5nGhc/FvX0JWtkilZV9AnRXKU22TaaRl6fwk6escN+CkfFXuTq2bQGqPcAzoQeveKg7AD0z5scMEnaq8VIwJq2bQqcl/YdiAK52lHGkxJ9gcnCcHOo8FMmVtrdH72Mk63gvHXJaXxK3FUGwd45XM8NkUoKv+9TCP1FIj6S+mmPH/OFgs+bdcjYW30BIY=;e/cfXGUxUwcaRdgjPsZ7PQ=="
 ---

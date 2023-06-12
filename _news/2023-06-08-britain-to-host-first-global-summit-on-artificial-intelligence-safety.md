@@ -95,15 +95,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "UK summit to address risks of AI"
-    excerpt: "The UK is to host a global summit in London in the autumn to try and coordinate a common global response to the rise of AI technology. Concerns about the risks posed by AI have increased recently with a group of Silicon Valley executives issuing a statement arguing that artificial intelligence could even lead to the extinction of humanity."
-    publishedDateTime: 2023-06-08T12:36:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0fszc8s"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
 
 secured: "7gJ48PoGIYRocadPUeyy98B7LmzG7fOpOUOGNvoor1G6qf554TewY71dLKLZcUb2LWe2BeTgaVTX7jm0OcUSTjMDxG51jR3fqsC2VwoPo/B7DaJyCg/RJv38Ibcl2oetCSrNs35XVriuMd71TCA+TapLZKwSJZV8NZRdDXd7KQUAzkb3tJvdLiCTb62o2bKYDvhzPeQWcTbEgKbdXkkT7/CM4trGr+PKiNLh5eQJeT9/w0koN3Up6NrKaAAqZrpQIneExS4wCu62r6Zg1uDPmstWy7Ce6Vop6wXzGyqkPsxQeZ5zYhH723XW5C/2NSktc5QCPU53SXUkz5KFiETNwVEOcGGf5D1FRfHbIYewXJIN2Hv4xdAS6o10WGffDiEEzaTqcRjeZzgA3c5YN/1DJ81QdvteY9x7hZkrNt7Dbk0Cp88NEqBVtGjue3/ccV2EmysNnDXSvIhLQ4WMiDzvvMLPfNrqs8fIcTzg8zM4/Gl3cM0931Xi+zrzuxjZrt1llsr5Oj8gfgctI85q5fGiKw==;10bIT8sTTXy1Ba8krhF+9g=="
 ---

@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Help Doctors As They Solve Complex Problems"
-    excerpt: "AI has an essential role to play in augmenting the work of doctors as they make dozens of high-stakes decisions a day."
-    publishedDateTime: 2023-06-09T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/how-ai-can-help-doctors-as-they-solve-complex-problems/"
+  - title: "5 ways how Artificial Intelligence improve the workplace"
+    excerpt: "Artificial intelligence (AI) is now a part of our everyday lives. More than we may sometimes realize; AI solutions are changing almost every aspect of our lives, and this extends well into the workplace as well. The impact of AI on the future of work is a ..."
+    publishedDateTime: 2023-06-11T11:31:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Untitled-design83.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Uo3nBb6oA/1j2DgZl8mYPQQ2JNlAYw9bKgt192qsAhNLg790PlE+OaGdQdUvFEDRjifRyyXJUV6PAjQv1VKonNExBGyVjIvDBf8vngjcqWEoh7WVwoqMo1RrPOEWYG8gkOow6eU/GyNPsxiHLRL479STIkeFB7NMqvJpU13tHw/cHN0Oaol/TGCVbw4Vcw5NXismQpIRszoNwnsWTUSWFE8BGnqeAn2pGFvvNHIUqZq3bRn1h8p45UlF8ONs55CCwpGNRQixk5mn9azSlE7okVNleFXmO43+0DjJ0xKqTjNfGcDnu6gGtbHQTAc6QKEzR6TlaYp+keTgBA0KTkyze4lCTeJQgdbuc/UWUbxPBPDPfX5JrHyaSTpG8zNzCYa32JrpyKXLbfp7uaXThAnAORHVNwUIl7u09pj3Sq1yMOtYHuIcdoU9XF1gfXFRUlUaa+Z3lgL5v6ndjS0aeL1uBvpcya2bxXs5uBQCLqlxxMkd5x0Z2EbZuGg977U09T/9rXvHvTus1WiWmf8aTPF4jQ==;WtF1ijEwS0otCPSgOCPatw=="
 ---

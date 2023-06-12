@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cashing in on AI chips"
-    excerpt: "There was an error generating the full edition PDF. Please try again later. Click and hold your mouse button on the page to select the area you wish to save or print ..."
-    publishedDateTime: 2023-06-08T09:03:00Z
-    webUrl: "https://richmond.com/eedition/richmond/page-a9/page_6ec8cd17-437c-5ace-8d63-1b347045ca58.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/eedition/6/ec/6ec8cd17-437c-5ace-8d63-1b347045ca58/648153e60cd5b.preview-620.jpg?crop=620%2C326%2C0%2C478&resize=620%2C326&order=crop%2Cresize"
-        width: 620
-        height: 326
-        isCached: true
   - title: "Comment: We should worry more about AI’s creators than AI itself"
     excerpt: "Even so, fibs travel halfway around the world before the truth laces up its boots and the story is bound to seep into our collective, unconscious worries about AI’s threat to the human race, an idea that has gained steam thanks to warnings from two “godfathers” of AI and two open letters about existential risk."
     publishedDateTime: 2023-06-08T08:30:00Z
@@ -89,15 +75,6 @@ related:
         width: 440
         height: 264
         isCached: true
-  - title: "6 podcasts to make sense of AI"
-    excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics"
-    publishedDateTime: 2023-06-09T16:35:00Z
-    webUrl: "https://www.omanobserver.om/article/1138479/world/americas/6-podcasts-to-make-sense-of-ai"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 19
 
 secured: "RUeYlOUrvlPOvtYvFSZvPJhp6b0L/irK4am1JONESWg+Yf0U+33Y3xqtDJL+uhiqqxSO9s1nWfMQ1D6HSdkNq1VTSSwaRWwGMEdf6+Cn0rebtL4oAeaFsLwTS/LMlXArrh+1RZDuVeB2UpPmXaVh2nsWMlSAIVHs3GKXLFsgCrWbYS3mRbOSKopNGRkhr1j8TP01rWSs8V3fHl9/APU1ZZ1h5Ggps+rp4VmmrTrYg2i318b8jqykJ5xXQ7CsanWcsKxKtUD6E+NaqvKNmd2HYVHamzT+XkZaGl6BpcoeGz3jMwBWk4PkWw7zYVuw3qjmFtEeA0BdYV5iMCox+oJqt9lH3qSIC0lnHg7Mkx7zado=;QZEwzCzJUBmRkr6S+5Dx6w=="
 ---

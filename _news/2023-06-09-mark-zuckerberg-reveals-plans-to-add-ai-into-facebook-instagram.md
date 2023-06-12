@@ -41,15 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Instabase unveils AI Hub, a generative AI platform for content understanding"
-    excerpt: "Powered by generative AI, Instabase with its AI Hub aims to provide self-service solutions to harness the potential of AI-driven insights."
-    publishedDateTime: 2023-06-07T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/instabase-unveils-ai-hub-a-generative-ai-platform-for-content-understanding/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
   - title: "An AI chatbot might soon slide into your Instagram DMs"
     excerpt: "Instagram is reportedly working on an AI chatbot that will let users choose between 30 different personalities to chat with."
     publishedDateTime: 2023-06-07T18:21:00Z

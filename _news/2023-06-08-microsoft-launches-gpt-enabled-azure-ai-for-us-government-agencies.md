@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-ena
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
 type: article
 quality: 121
-heat: 321
+heat: 311
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_u.s._flag_made_out_of_computer_code_edcc3754-3681-4c8e-8cc6-5e39e2d58c06.png?w=1200&strip=all"
         width: 1200
         height: 672
-        isCached: true
-  - title: "Microsoft Is Bringing OpenAI’s GPT-4 AI model to US Government Agencies"
-    excerpt: "Microsoft Corp. will make it possible for users of its Azure Government cloud computing service, which include a variety of US agencies, to access artificial intelligence models from ChatGPT creator OpenAI."
-    publishedDateTime: 2023-06-07T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLkcciEoUAyI/v0/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Microsoft used AI to refrain people from downloading Chrome"
     excerpt: "It comes as no surprise that ever since the success of ChatGPT and its subsequent integration into the Edge browser as the Bing AI chatbot, Microsoft has gone from being the underdog in the search engine market to now seeing themselves fighting for market ..."

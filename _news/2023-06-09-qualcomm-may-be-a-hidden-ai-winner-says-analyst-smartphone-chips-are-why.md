@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 4896
         height: 3264
         isCached: true
-  - title: "Qualcomm, Mobileye, Other AI Chip Stocks That Can Thrive. It’s Not All About the Cloud."
-    excerpt: "While Nvidia is stealing the headlines, there are others players in the semiconductor space that can ride the artificial intelligence wave."
-    publishedDateTime: 2023-06-07T12:31:00Z
-    webUrl: "https://www.barrons.com/articles/qualcomm-mobileye-nvidia-ai-chip-stocks-497a0ab7"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 26
 
 secured: "y85k5DFQOytxURb070tF/vQeJF5Agfm7By6KzwMxLgbReW0n0lXDTVU27H+/AexUwktrlV6E5ynwCGw+RlJQ/+gvgMTigIBrCSM/Ahz5eSZtXUp8CCsbKSc5Ob/PrR8yg8LMkcXsrWCvulj0hiASZRP+xBTUbs5ayFalpTULD8fa59zqBXNmZgaiMquiu6TFZjtNTN7PybnTeTqAneR/NQCDeAtqkasXQ7JUJnCNGCNX9EpWvgEIApdLALER3bWFi1lKbw6gQhK4B/cZFz0SAjbdYi47X7kySl/IJmP19J47VSRXTQRfcR5EA3s20UeQ0vmmyBMmqd8h8hFulW4OaHC7lsa9DN42+xgemuwNdPt/d5mJzSFpXLKyVnc5VsJ2RoGVoTBMj4jjAkrtZG4asU8xoBx7jchk0IzC0p7fdsdWfhaCRwjyA0VjuC9RoV8LoCazHIj3gjJ0d1BgVG48HeuVlCb2pS9Dr2nFk/1rVc8NTqAp71hJ7Lx5PgOh0b9qZFZgPcLbQ71dHhEuPozavg==;ac9wbHD1HtV4kMBZ2Pvg/A=="
 ---

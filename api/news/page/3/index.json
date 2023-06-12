@@ -2,21 +2,21 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-06-08-celebrating-world-oceans-day-revitalizing-the-marine-ecosystem-with-technology-driven-engineered-reefs-to-accelerate-co2-capture.md",
-      "title": "Celebrating World Oceans Day: Revitalizing the marine ecosystem with technology-driven engineered reefs to accelerate CO2 capture",
-      "excerpt": "Coral reefs play a vital role in sustaining marine life, capturing CO2 and mitigating the effects of global warming. Technology can help.\nThe post Celebrating World Oceans Day: Revitalizing the marine ecosystem with technology-driven engineered reefs to accelerate CO2 capture appeared first on IBM Blog.\n",
+      "path": "_news/2023-06-08-linkedin-launches-generative-ai-tool-to-write-ad-copy.md",
+      "title": "LinkedIn launches generative AI tool to write ad copy",
+      "excerpt": "LinkedIn today launched a generative AI tool called AI Copy Suggestions to help advertisers draft texts for their ad campaigns.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/celebrating-world-oceans-day-revitalizing-the-marine-ecosystem-with-technology-driven-engineered-reefs/",
-      "originalUrl": "https://www.ibm.com/blog/celebrating-world-oceans-day-revitalizing-the-marine-ecosystem-with-technology-driven-engineered-reefs/",
+      "webUrl": "https://venturebeat.com/ai/linkedin-launches-generative-ai-tool-to-write-ad-copy/",
+      "originalUrl": "https://venturebeat.com/ai/linkedin-launches-generative-ai-tool-to-write-ad-copy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/d654164b-f6b8-4c1d-900719bd962c155d.l_2x1-e1686224481628.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1081412082.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 600,
+          "height": 606,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T08:58:18-07:00",
+      "publishedDateTime": "2023-06-08T08:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,7 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
+        "AI"
       ]
     },
     {
@@ -114,7 +114,7 @@
       "originalUrl": "https://www.mid-day.com/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -278,57 +278,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-08-the-impact-of-ai-on-strategy-games.md",
-      "title": "The Impact Of AI On Strategy Games",
-      "excerpt": "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/",
-      "publishedDateTime": "2023-06-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-08-apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf.md",
       "title": "Apple Displaced As Top Holding By AI-Play Big Tech In Robot-Run Large-Cap ETF",
       "excerpt": "In a surprising twist in the world of AI-driven investment, the Qraft AI-Enhanced U.S. Large Cap ETF (NYSE:QRFT) has displaced Apple Inc. (NASDAQ:AAPL) as its top holding, replacing it with another big tech player,",
@@ -477,6 +426,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-08-the-weakness-of-artificial-intelligence-in-marketing.md",
+      "title": "The Weakness Of Artificial Intelligence In Marketing",
+      "excerpt": "Artificial intelligence (AI) is the new \"internet.\" Like the internet, AI has created a lot of these same responses. The stark reality is technology has never gone backward. It marches on, and how we respond to these developments for better or worse is what shapes the outcome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6480df6d3a8f502c9a595936/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/",
+      "publishedDateTime": "2023-06-08T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023.md",
       "title": "Generative AI Is ‘Emerging Opportunity’ For Gaming Investors In 2023",
       "excerpt": "Venture capitalists and other gaming investors should consider generative AI as a huge emerging opportunity, according to PitchBook.",
@@ -588,7 +589,7 @@
       "originalUrl": "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 321,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -786,57 +787,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-for-banks-ai-is-like-having-an-army-of-interns.md",
-      "title": "For Banks, AI Is Like Having an Army of Interns",
-      "excerpt": "On this episode of In the City, we show why New York leads the search for humans to command those robot troops, with London not far behind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-08/podcast-for-banks-ai-is-like-having-an-army-of-interns",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-08/podcast-for-banks-ai-is-like-having-an-army-of-interns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Vn8ucvSg3s/v0/1200x799.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1223,6 +1173,58 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-automattic-launches-an-ai-writing-assistant-for-wordpress.md",
+      "title": "Automattic launches an AI writing assistant for WordPress",
+      "excerpt": "WordPress.com owner Automattic launched a Jetpack AI assistant for the popular content management system on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/",
+      "originalUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/jetpack-ai-assistant.jpg?w=840",
+          "width": 840,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/",
+      "publishedDateTime": "2023-06-07T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

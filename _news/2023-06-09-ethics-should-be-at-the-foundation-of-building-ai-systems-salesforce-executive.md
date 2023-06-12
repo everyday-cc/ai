@@ -25,199 +25,114 @@ images:
     isCached: true
 
 related:
-  - title: "The ethics of using AI in education"
-    excerpt: "The continuous advancements in AI technology and its ability to simulate human listening, speaking, thinking, and learning has seen it emerge as a promising tool to enhance student learning experiences. Some studies have demonstrated the positive impact of ..."
-    publishedDateTime: 2023-06-10T14:27:00Z
-    webUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece"
-    ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
+  - title: "Google Cloud and Salesforce partner to help improve customer experience with AI"
+    excerpt: "The two companies are coming together to analyze data with AI and help businesses create ads customers probably want to see."
+    publishedDateTime: 2023-06-08T20:49:00Z
+    webUrl: "https://www.zdnet.com/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 91
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
     images:
-      - url: "https://th-i.thgim.com/public/incoming/hdt9vp/article66936849.ece/alternates/FREE_1200/12EPBS_AI%20IN%20ED.jpg"
-        width: 1200
-        height: 923
-        isCached: true
-  - title: "How to Navigate the Hidden Risks of AI and Digitization"
-    excerpt: "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ..."
-    publishedDateTime: 2023-06-08T17:42:00Z
-    webUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685715379-GettyImages-1434121527.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Ingeniously Using Generative AI Such As GPT-4 To Reveal The Puzzling Secrets Of How Generative AI Startlingly Works, Lauds AI Ethics And AI Law"
-    excerpt: "Nobody can say for sure why generative AI works so startlingly well. A new approach revealed by OpenAI uses GPT-4 to decipher generative AI secrets. Here's the deal."
-    publishedDateTime: 2023-06-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63731fd487e442fe938888a7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 652
-        isCached: true
-  - title: "10 of the best free artificial intelligence courses on edX"
-    excerpt: "These are the best free artificial intelligence courses as of June 11: AI Chatbots without Programming (IBM)(opens in a new tab) AI for Everyone: Master the Basics (IBM)(opens in a new tab) AI for Leaders (Babson College)(opens in a new tab) AI for ..."
-    publishedDateTime: 2023-06-12T03:57:00Z
-    webUrl: "https://mashable.com/uk/deals/ai-courses-for-free"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/03eACpI1nJnAUCOyUCxrxTl/hero-image.fill.size_1200x675.v1686313582.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/6c3f1f1d520c9f4a0429e5cc917d81087c1f7390/2023/06/08/8afc8c54-f7ab-4207-b16b-1a8741aed571/gettyimages-1332177687.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "A Call For The Ethical And Responsible Use Of AI"
-    excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"
-    publishedDateTime: 2023-06-08T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/a-call-for-the-ethical-and-responsible-use-of-ai/"
+  - title: "Salesforce doubles down on generative AI with Marketing GTP and Commerce GPT"
+    excerpt: "Salesforce today launched Marketing GPT and Commerce GPT to help enterprises quickly deliver personalized campaigns and shopping experiences."
+    publishedDateTime: 2023-06-07T16:08:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-doubles-down-on-generative-ai-with-marketing-gtp-and-commerce-gpt/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Professors call for further study of potential uses of AI in special education, avoiding bans"
-    excerpt: "Artificial intelligence is making headlines about its potentially disruptive influence in many spaces, including the classroom. A group of educators that includes a University of Kansas researcher has just published a position paper reviewing AI's potential in special education,"
-    publishedDateTime: 2023-06-08T20:04:00Z
-    webUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.html"
-    ampWebUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-professors-potential-ai-special.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 63
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/professors-call-for-fu.jpg"
-        width: 2880
-        height: 1744
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce.jpg?w=1200&strip=all"
+        width: 1200
+        height: 616
         isCached: true
-  - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
-    excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
-    publishedDateTime: 2023-06-09T02:06:00Z
-    webUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html"
-    ampWebUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+  - title: "Salesforce doubles down on generative AI with Marketing GPT and Commerce GPT"
+    excerpt: "Salesforce today launched Marketing GPT and Commerce GPT to help enterprises quickly deliver personalized campaigns and shopping experiences."
+    publishedDateTime: 2023-06-07T23:07:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-doubles-down-on-generative-ai-with-marketing-gpt-and-commerce-gpt/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
     images:
-      - url: "https://images.idgesg.net/images/article/2020/01/united_states_capitol_building_washington_dc_congress_legislation_by_mcdustelroy_gettyimages-1036372454_digital_landscape_by_dkosig_gettyimages-1146014337_2400x1600-100825944-large.jpg?auto=webp&quality=85,70"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce.jpg?w=1200&strip=all"
+        width: 1200
+        height: 616
+        isCached: true
+  - title: "Google Cloud Partners With Mayo Clinic To Use AI In Health Care"
+    excerpt: "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the"
+    publishedDateTime: 2023-06-08T07:58:00Z
+    webUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/"
+    ampWebUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
+    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
+    type: article
+    provider:
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 59
+    images:
+      - url: "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Google Cloud partners with Mayo Clinic on new AI tool to improve patient care"
+    excerpt: "June 7 (UPI) --Google Cloud has announced a new partnership with Mayo Clinic that will introduce a new Artificial Intelligence tool that aims to improve the efficiency of healthcare throughout the ..."
+    publishedDateTime: 2023-06-07T14:59:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/06/07/google-cloud-partners-with-mayo-clinic-on-generative-ai-patient-search-tool/5401686141052/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/06/07/google-cloud-partners-with-mayo-clinic-on-generative-ai-patient-search-tool/5401686141052/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/06/07/google-cloud-partners-with-mayo-clinic-on-generative-ai-patient-search-tool/5401686141052/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 56
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5401686141052/2023/1/45381231774a6b1eca53d7f2a194ff87/v1.5/Google-Cloud-partners-with-Mayo-Clinic-on-new-AI-tool-to-improve-patient-care.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence raises questions for educators"
-    excerpt: "The increase of artificial intelligence use is forcing teachers to face how it will change the learning process."
-    publishedDateTime: 2023-06-09T02:40:00Z
-    webUrl: "https://listen.sdpb.org/education/2023-06-08/artificial-intelligence-raises-questions-for-educators"
+  - title: "Salesforce Connections - how Baptist Health personalizes its patient engagement and what AI may bring to the story"
+    excerpt: "How to personalize and scale patient engagement in the hugely competitive US healthcare sector is a major challenge for all providers. New AI tech may be one way to achieve this, reckons Baptist Health,"
+    publishedDateTime: 2023-06-09T11:08:00Z
+    webUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring"
+    ampWebUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
     type: article
     provider:
-      name: South Dakota Public Broadcasting
-      domain: sdpb.org
-    quality: 52
+      name: Diginomica
+      domain: diginomica.com
+    quality: 35
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/ff84040/2147483647/strip/true/crop/3000x1575+0+56/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2019%2F10%2F15%2Faid-evidence_wide-851025a61a9e7bbb8382dafed3c617413d4fdd1e.jpg"
-        width: 1200
-        height: 630
+      - url: "https://diginomica.com/sites/default/files/images/2023-06/medicine-g81bb96e1e_640.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "Increasing focus on AI is driving demand for empathetic women leaders"
-    excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
-    publishedDateTime: 2023-06-11T01:50:00Z
-    webUrl: "https://yourstory.com/herstory/2023/06/women-leaders-inclusion-key-enterprises-ai"
+  - title: "Salesforce Connections - \"No offense to crypto fans, but this is real.\" Salesforce customers react to generative AI news"
+    excerpt: "Salesforce Connections 2023 kicked off with the expected generative AI fanfare - including the launch of Commerce GPT and Marketing GPT. But where do customers stand? I hit the show floor and found out."
+    publishedDateTime: 2023-06-08T10:33:00Z
+    webUrl: "https://diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news"
+    ampWebUrl: "https://diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news?amp"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
+      name: Diginomica
+      domain: diginomica.com
+    quality: 34
     images:
-      - url: "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/shutterstock1456783511-1672930865154.jpeg?fm=png&auto=format"
-        width: 2834
-        height: 1337
+      - url: "https://diginomica.com/sites/default/files/images/2023-06/salesforce%20-%20retail%20ai.jpg"
+        width: 1260
+        height: 818
         isCached: true
-  - title: "The World of Minecraft: Revolutionizing Artificial Intelligence Innovation"
-    excerpt: "Minecraft's transformation from a beloved construction game to a pioneering platform for AI innovation is a testament to the game's versatility and the ingenuity of researchers."
-    publishedDateTime: 2023-06-07T11:37:00Z
-    webUrl: "https://techstory.in/the-world-of-minecraft-revolutionizing-artificial-intelligence-innovation/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/ai-pack-scr-12.png"
-        width: 1366
-        height: 746
-        isCached: true
-  - title: "Music world gets Startup Nation upgrade, using AI of course"
-    excerpt: "Israeli music startup incorporates cutting-edge technologies not to replace human artists, but to enrich their creations and expand creativity."
-    publishedDateTime: 2023-06-11T04:30:00Z
-    webUrl: "https://www.israel21c.org/music-world-gets-startup-nation-upgrade-using-ai-of-course/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 37
-    images:
-      - url: "https://static.israel21c.org/www/uploads/2023/05/COVER_courtesy_of_Session_42_s_Facebook.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The Ethics of Using Generative Artificial Intelligence in the Practice of Law"
-    excerpt: "Understanding how generative AI solutions collect, store and use the information that ... certainly will not be sufficient to rise to the level of expected competence by ethics officials. In other words, arguing that the information provided by ChatGPT ..."
-    publishedDateTime: 2023-06-07T20:17:00Z
-    webUrl: "https://ipwatchdog.com/2023/06/07/ethics-using-generative-artificial-intelligence-practice-law/id=162097/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 31
-  - title: "A row over artificial intelligence regulations looms on the horizon"
-    excerpt: "EU officials say Britain is behind the AI curve, while the UK points to the size of London’s tech industry as evidence that this country is best placed to play a vital role in any regulatory framework"
-    publishedDateTime: 2023-06-07T19:35:00Z
-    webUrl: "https://inews.co.uk/opinion/a-row-over-artificial-intelligence-regulations-looms-on-the-horizon-2395126?ico=most_popular"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 19
-  - title: "Era of artificial intelligence in India"
-    excerpt: "Ishant Gupta In today’s digital era, technological advancements have revolutionized the way we live, work, and interact. Among these advancements, Artificial Intelligence (AI) has emerged as a powerful tool,"
-    publishedDateTime: 2023-06-09T19:11:00Z
-    webUrl: "https://www.dailyexcelsior.com/era-of-artificial-intelligence-in-india/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 19
-  - title: "From Integrating AI To Strictly Protecting Client Data, How Online Education Company Amesite Inc Is Doing Things Differently To Disrupt Learning"
-    excerpt: "As an online platform and product developer powered by artificial intelligence (AI), Amesite is positioning itself to disrupt ... In 2022 Amesite started a collaboration with Microsoft for the use of its Azure cloud, and it was featured in a story on ..."
-    publishedDateTime: 2023-06-07T13:11:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/06/32756767/from-integrating-ai-to-strictly-protecting-client-data-how-online-education-company-amesite-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "viRdlM1cIKy6nCSs6l90UYfHjTQo9HzdC1/DoZxrfjTFQbwYUYpqQmeN9PwiRgz+MmhhOx+dnRdSUi9qDJdMvAMLk9tymCtSAbcRhX6QTXqfbNniXIe0jDSYmDo95obg3qzc3X0AikBIWodGCwgcQMtIl82eeKLpjGV0n3BKtXQU+75HLzJcNLmm4OGg+9vx8o9khuqpLteqdUgQAG98ZmxtZocE36xSWsrE8oXCHZToSQ8rAc8N3ELhhnBf5ur19MvAv9cG2TOiqFqWPJtosFuwtt/A0QCsfNxAZsCCikUOAPbvyhTROxOQL2vkasU4dvqO/C1MgoTXFqDYP1MLq3oJSzYgVL9WFKXx76Bv8sycISihYvgv+LcrJGOeKMJE1XgdkALxLLUbIyil4vFkAskJaJwRGGF+bAMzqxfXBR/iDfSnkH3d/FZk0qm2wOfmebc8j2bGHTPcUvviTu2r94o13XDFOKICSIpz1X7YeojbOYWbHC7jAYWFxzb8CpDzDrhSJ8da2gi7ZgwHRlYd3g==;8OJsmpEXtPDFwQzri6ULIQ=="
 ---

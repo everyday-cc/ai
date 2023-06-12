@@ -126,6 +126,15 @@ related:
         width: 1199
         height: 650
         isCached: true
+  - title: "Era of artificial intelligence in India"
+    excerpt: "Ishant Gupta In today’s digital era, technological advancements have revolutionized the way we live, work, and interact. Among these advancements, Artificial Intelligence (AI) has emerged as a powerful tool,"
+    publishedDateTime: 2023-06-09T19:11:00Z
+    webUrl: "https://www.dailyexcelsior.com/era-of-artificial-intelligence-in-india/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 19
   - title: "Artificial Intelligence Office organises AI-Enabled Entrepreneurs conference in collaboration with NVIDIA"
     excerpt: "The conference aimed to introduce the latest innovations and developments in the fields of Generative Artificial Intelligence, Metaverses and robotics, and highlight the \"NVIDIA Inception\" programme. The conference further celebrated the success stories of ..."
     publishedDateTime: 2023-06-11T15:48:00Z
