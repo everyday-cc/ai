@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-identifies-six-ge
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-identifies-six-generative-ai-risks-sets-up-foundation-to-guide-adoption/"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
+    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
+    publishedDateTime: 2023-06-09T18:39:00Z
+    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
+    type: article
+    provider:
+      name: WWT
+      domain: wwt.com
+    quality: 33
 
 secured: "8XPomU1preIH0prUtB+CY+Z1LJhzQ+YnlF/P+P80hZtdNFjo78UREBwRkaGSduh9DagpNUnhC96igfqkSwsV2DNcbfDCKK3ZEtuSleA8oxRe3VREQSIl3zHeOzSY4Uab+/vMY10eSpZO5/EuZ0oWS9gKwUOw/1IcjHXlFyu9lQaJQzBtmkyZQRHgyOUJfrUNMqCL1iy9tpH2eGf1Di/u4GtLl994V44tpbrMpeHaEcU0itN53USs69QFkKqQZ86pw+tMXHGNVhtPk5phbUDbs125Q3qHqXHQHtMq9NtFi5g94ThOQX+DKmXYz9GTU88WKKvHoySCnP0vFxftsFvABhdj773DJCmjwyP1gzhZNYlQAU0Mu3IPyU0ICKS6Z7HfllasdCngQPK1nzjOcR8SjjS/V1LIt5pogRX2waFkw+XRi+WPqSKPF6vKGC6FvE6RBQY/yvPx98aIbAWhD7RSMJR7M6kgq2L3dC+KeGYQa8X1gRE8flyCIkXh/l2/iAZ5EJ2R7olCRiP5bjPz9e1jtw==;mVsqq61XLYibP/8LYHzO/w=="
 ---

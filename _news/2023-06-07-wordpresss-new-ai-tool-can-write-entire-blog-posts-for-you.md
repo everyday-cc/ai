@@ -72,20 +72,6 @@ related:
         width: 1263
         height: 710
         isCached: true
-  - title: "WordPress Now Has An AI Content Generator – Free Access Available"
-    excerpt: "Jetpack took the wraps off a new plugin called Jetpack AI Assistant to serve as a writing assistant for publishers. The plugin makes the AI assistant available within the WordPress editor block within a chat-like interface, what is known as a conversational user interface."
-    publishedDateTime: 2023-06-07T08:58:00Z
-    webUrl: "https://www.searchenginejournal.com/wordpress-ai-content-generator/488669/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 39
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/06/wordpress-ai-64804284de84c-sej.jpg"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "WordPress Is Launching an AI Writing Assistant"
     excerpt: "The new tool can create blog posts, change the tone of an existing post, or translate one language into another."
     publishedDateTime: 2023-06-08T00:10:00Z

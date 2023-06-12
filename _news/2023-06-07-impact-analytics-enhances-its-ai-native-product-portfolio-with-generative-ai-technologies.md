@@ -22,75 +22,59 @@ topics:
   - AI
 
 related:
-  - title: "Job listings asking for generative AI skills are soaring, analysis finds"
-    excerpt: "The average advertised salary for jobs citing generative AI skills is $146,244, according to job search engine Adzuna."
-    publishedDateTime: 2023-06-07T08:46:00Z
-    webUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
+  - title: "Cisco announces next-gen solutions boosting security and productivity with generative AI"
+    excerpt: "By harnessing LLMs across its collaboration and security portfolios, Cisco aims to enhance productivity and simplicity within organizations."
+    publishedDateTime: 2023-06-07T15:30:00Z
+    webUrl: "https://venturebeat.com/ai/cisco-announces-next-gen-solutions-security-productivity-generative-ai/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 75
     images:
-      - url: "https://i.insider.com/647df19740bf000019fa30c1?width=1200&format=jpeg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Screenshot-2023-06-06-213946.jpg?w=1200&strip=all"
         width: 1200
-        height: 600
+        height: 710
         isCached: true
-  - title: "Generative AI Is ‘Emerging Opportunity’ For Gaming Investors In 2023"
-    excerpt: "Venture capitalists and other gaming investors should consider generative AI as a huge emerging opportunity, according to PitchBook."
-    publishedDateTime: 2023-06-08T10:07:00Z
-    webUrl: "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/"
-    ampWebUrl: "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/"
+  - title: "ZainTech partners with Mastercard to provide unique AI and Machine Learning data solutions to businesses"
+    excerpt: "Commenting on the collaboration with Mastercard, Andrew Hanna, ZainTech CEO said: “The benefits of sophisticated data to productivity, safety, and cost-savings being driven by AI and machine learning are revolutionizing business processes. This ..."
+    publishedDateTime: 2023-06-08T06:51:00Z
+    webUrl: "https://www.albawaba.com/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/zaintech-partners-mastercard-provide-unique-ai-and-machine-learning-data-solutions"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6480ea0b59cee9714cd235e2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 659
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/mastercard.jpg?itok=xiDRXJSm"
+        width: 960
+        height: 502
         isCached: true
-  - title: "Generative AI can help bring tomorrow's gaming NPCs to life"
-    excerpt: "Today's non-playable characters are a step above the Ghost Gang of yesteryear but they're still a far cry from human-level fidelity."
-    publishedDateTime: 2023-06-09T17:03:00Z
-    webUrl: "https://www.engadget.com/generative-ai-can-help-bring-tomorrows-gaming-npcs-to-life-163037183.html"
+  - title: "Will generative AI boost productivity?"
+    excerpt: "There is no doubting the potential of generative AI. Its ability to boost cognitive activities, which are harder to value, means we may be unable to accurately measure its impact. But as prior technologies demonstrate, productivity gains are not guaranteed until the technology can be harnessed effectively. We should keep our feet on the ground."
+    publishedDateTime: 2023-06-09T16:25:00Z
+    webUrl: "https://www.ft.com/content/3b145574-760f-49fd-b42c-a2c4ae22101c"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/_Clt3C93ea40vhgdQIikgQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/6ff8cac0-0620-11ee-87bf-cbb98ba4bcdc.cf.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
         isCached: true
-  - title: "Tech is paying big salaries for engineering and developer jobs specializing in AI. Here's how much you can make."
-    excerpt: "The company secured deals with OpenAI that allow it to integrate the technology into its Bing search engine and sell it to customers through its Azure cloud business ... on Levels.fyi for a level-four machine-learning engineer was $505,000, consisting ..."
-    publishedDateTime: 2023-06-07T09:17:00Z
-    webUrl: "https://www.businessinsider.com/ai-engineer-developer-salary-jobs-2023-6"
+  - title: "Cisco Systems CEO sees artificial intelligence making security management simpler, more efficient"
+    excerpt: "In his keynote address Tuesday kicking off the San Jose tech giant's Cisco Live 2023 event in Las Vegas, CEO Chuck Robbins told the audience the company's goal is to make technology simpler to use for its consumers."
+    publishedDateTime: 2023-06-07T14:31:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/07/cisco-systems-chuck-robbins-ai.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://i.insider.com/6426cffced593e00183f654b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
-    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
-    publishedDateTime: 2023-06-09T18:39:00Z
-    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
-    type: article
-    provider:
-      name: WWT
-      domain: wwt.com
-    quality: 33
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
 
 secured: "R8CeDVEdoPQiq3FT0iPdjoj9cocfy6SCH1SY7N1E5paKJf4XgEFy7UKU0dNnT0m1B6Hf3Uf7z52YHOJ8XQBGrJ9AH4Vo2GGqaxPSr0vSWqVcZqFGx5Y3bP5a5lf8INbxZX2RE84ZHr60fOdpBg6gJ57Vdj4qW8wn304JYcUJKUUEoIhzszQormAhUhJNWVD/4sZEOYJOburza5lw63nrR/eN5l7G1y1Bk+83BtB4LW3Vq6wzAcLAVWvensJpmMBXmNlqP20xfZ9IJGZb0rQeE2epypi6t4ydfQu7fEzQXeyeAC2Y79RaGd/LPJhL1WpKqgquGmLvwl0OoTUsP7ARUbyI2uPGCj6MQzwwE0uwtNShbg/Yy93Zuij5/wUr3CoaelIorsrn3y4bXPNjl/8rzwYBe0DsaR9aGJnjYsX1pf8lhd2XLJ3XoklZIr+JHjQFnvr8tFZH/7hA9dJqNC7EMLe7WbXFBGyZaKqYr0xGNOb8Xc95UXQhsfrZEi8hR55wgK4ZBy4krIPC/JqEAH84ig==;4D6fzm2mZ9GgDCBFJ8h5ww=="
 ---

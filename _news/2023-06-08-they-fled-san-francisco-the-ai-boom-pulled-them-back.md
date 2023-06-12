@@ -34,22 +34,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Waymo self-driving car killed dog in accident, says report"
-    excerpt: "According to a Waymo spokesperson, neither the safety operator nor the autonomous system applied brakes to prevent a crash. In both cases, that was caused because of the dog's \"unusual path\" while travelling \"at a high rate of speed directly towards the side of the vehicle.\""
-    publishedDateTime: 2023-06-07T09:01:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
-    ampWebUrl: "https://m.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
-    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/science-technology/waymo-self-driving-car-killed-dog-in-accident-says-report-515008"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 59
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/6/2023_6$largeimg_400747444.jpg"
-        width: 707
-        height: 471
-        isCached: true
   - title: "Self-driving Waymo car kills dog amid increasing concern over robotaxis"
     excerpt: "Collision occurred as canine ran out from behind another car, but autonomous vehicle could not stop in time to avoid contact"
     publishedDateTime: 2023-06-07T19:17:00Z
@@ -81,6 +65,22 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2023/06/2023-Waymo-Jaguar-I-Pace-AV-1.jpg"
         width: 2000
         height: 1125
+        isCached: true
+  - title: "Self-driving car hits and kills small dog in San Francisco"
+    excerpt: "An initial review indicated that the Waymo’s system correctly identified the dog, which ran from behind a parked vehicle. However, the vehicle was unable to avoid hitting the animal."
+    publishedDateTime: 2023-06-12T00:00:00Z
+    webUrl: "https://www.yourerie.com/news/self-driving-car-hits-and-kills-small-dog-in-san-francisco/"
+    ampWebUrl: "https://www.yourerie.com/news/self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
+    cdnAmpWebUrl: "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/news/self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
+    type: article
+    provider:
+      name: yourerie
+      domain: yourerie.com
+    quality: 44
+    images:
+      - url: "https://www.yourerie.com/wp-content/uploads/sites/27/2023/06/AP23077014398441.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Waymo self-driving car killed dog in accident: Report"
     excerpt: "As per the report, a self-driving Jaguar I-Pace car was travelling on Toland Street, a slow-speed street close to Waymo's depot, when a dog ran into the road. At the time of the incident, the car was in autonomous mode, with a human safety operator at the ..."

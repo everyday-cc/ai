@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -30,68 +30,36 @@ images:
     isCached: true
 
 related:
-  - title: "Job listings asking for generative AI skills are soaring, analysis finds"
-    excerpt: "The average advertised salary for jobs citing generative AI skills is $146,244, according to job search engine Adzuna."
-    publishedDateTime: 2023-06-07T08:46:00Z
-    webUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp"
+  - title: "DSET: AI opportunities and data challenges informing strategic planning"
+    excerpt: "Robert Siegfried from NATO Modelling and Simulation Group and Roa Powell from the Alan Turing Institute discuss the impact of AI."
+    publishedDateTime: 2023-06-08T10:48:00Z
+    webUrl: "https://www.airforce-technology.com/news/dset-ai-opportunities-and-data-challenges-informing-strategic-planning/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 39
     images:
-      - url: "https://i.insider.com/647df19740bf000019fa30c1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2023/06/DSET_Tuesday_06June23_4686_Credit@iamphotolaura.jpg"
+        width: 2000
+        height: 1332
         isCached: true
-  - title: "Generative AI can help bring tomorrow's gaming NPCs to life"
-    excerpt: "Today's non-playable characters are a step above the Ghost Gang of yesteryear but they're still a far cry from human-level fidelity."
-    publishedDateTime: 2023-06-09T17:03:00Z
-    webUrl: "https://www.engadget.com/generative-ai-can-help-bring-tomorrows-gaming-npcs-to-life-163037183.html"
+  - title: "EXCLUSIVE: Qualcomm Seizes 'Amazing Opportunity' With Artificial Intelligence, Harnessing A 'Transformational Moment'"
+    excerpt: "Benzinga gets the insight from Qualcomm on how the company is utilizing artificial intelligence. With over two billion devices powered by Qualcomm, the company can use its scale to grow alongside AI opportunities. Technology giant Qualcomm Inc QCOM is one ..."
+    publishedDateTime: 2023-06-11T19:59:00Z
+    webUrl: "https://www.benzinga.com/exclusives/23/06/32809330/exclusive-qualcomm-seizes-amazing-opportunity-with-artificial-intelligence-harnessing-a-transformati"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32809330"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32809330"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/_Clt3C93ea40vhgdQIikgQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/6ff8cac0-0620-11ee-87bf-cbb98ba4bcdc.cf.jpg"
+      - url: "https://cdn.benzinga.com/files/images/story/2023/06/11/ziad_qualcomm_shutter.jpg?width=1200&height=800&fit=crop"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Tech is paying big salaries for engineering and developer jobs specializing in AI. Here's how much you can make."
-    excerpt: "The company secured deals with OpenAI that allow it to integrate the technology into its Bing search engine and sell it to customers through its Azure cloud business ... on Levels.fyi for a level-four machine-learning engineer was $505,000, consisting ..."
-    publishedDateTime: 2023-06-07T09:17:00Z
-    webUrl: "https://www.businessinsider.com/ai-engineer-developer-salary-jobs-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://i.insider.com/6426cffced593e00183f654b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Impact Analytics enhances its AI-native product portfolio with generative AI technologies"
-    excerpt: "Today's fastest-growing AI-powered retail-planning provider seizes the opportunity to exploit complementary, innovative AI technologies.LINTHICUM"
-    publishedDateTime: 2023-06-07T14:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/impact-analytics-enhances-its-ai-native-product-portfolio-with-generative-ai-technologies-1032375681"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
-    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
-    publishedDateTime: 2023-06-09T18:39:00Z
-    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
-    type: article
-    provider:
-      name: WWT
-      domain: wwt.com
-    quality: 33
 
 secured: "HBlPpWFu2l5/bnmchlGZ3wxjeGcE62yBSxxkZlcgaG5uoUCU+Z3FdhFpmhM0w/AlCQm/Fw4BhWzDAAUdmojBBr3StA7JoJn1VeNp4WCAFuC4ctFjWqRVW4q51ElAYXeQ6HL3nDUqzwtgcSm56C7kHgZdapOq092DhyKo6FGQ7Pj42XV1VLlZdCQset8rInC4VUkzUG4m215FKW7xvkqmg4DkpTwIFkWrPsdI/eegizT1vTU365LV/b73wO+N3iYdCdq9zdGZNN8To5pYU6MfF2S9IWhiDhCehs22/x0G9EB99+4niYFIQWld2Hh+YCYXfPg7oYcIIzpkuYdZoxcRtMU46kTudBoqyU99IEVlIiY=;6lK+PvtEC0BF68L4Fjfo5w=="
 ---

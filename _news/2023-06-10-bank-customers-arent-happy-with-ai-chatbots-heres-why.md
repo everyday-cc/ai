@@ -83,7 +83,7 @@ related:
     provider:
       name: Cfr.org
       domain: cfr.org
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
         width: 1200

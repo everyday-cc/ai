@@ -2,19 +2,17 @@
 category: news
 title: "ChatGPT’s not going to take over anytime soon, says Richard White"
 excerpt: "The “a” in AI still largely overshadows its counterpart “i” as the technology remains largely artificial and only a little bit intelligent, says the chief executive of one of Australia’s most successful technology companies."
-publishedDateTime: 2023-06-09T11:28:00Z
-originalUrl: "https://www.theaustralian.com.au/business/technology/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe"
-webUrl: "https://www.theaustralian.com.au/business/technology/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe"
-ampWebUrl: "https://www.theaustralian.com.au/business/technology/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe?amp"
-cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe?amp"
+publishedDateTime: 2023-06-08T23:53:00Z
+originalUrl: "https://www.weeklytimesnow.com.au/agribusiness/breaking-news/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe"
+webUrl: "https://www.weeklytimesnow.com.au/agribusiness/breaking-news/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: The Australian
-  domain: theaustralian.com.au
+  name: The Weekly Times
+  domain: weeklytimesnow.com.au
 
 topics:
   - AI in Autos
@@ -36,6 +34,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "fb9r+VsQCG5RYrXyVCQ/8U2/xjwkt+fPF2H/tqRwMw2OeHRgnIBCS2kiOOqugU3jadWynclgWU2BVwON71WgKGCBwHT25Anl7AWj5/ZQGmozNUkQD7jVttNH2CM0y7zbbt2vRjAhxTWM5ey7weye7ioCzMPbS8+V4BwlpzRA11UrqqW5ckRDeXGc6+aFNLU9BprhWxv2Ofsymh+Iv83xpxMGjilP8a8TPtsR0gOMfkx6Z3oxwp4sJAts7sL1hckYZOy1mtAuwLQjOX4P2hx+quDPXrqA8vMopn0TYHRAIHAQ6V+YBaS5kT66HmQn4HSR5XRDR9YhBwH6CthVV1zFlt5Y+HR519F4Vux9e9cy7u3T78nKE1lYylEZ2cdjhrkTaq41LcHe+asW4THPPTto4XtA2AvgM5k25r9Jcx/NYzS/kwj/vj8YofcqXDVjXsCD7EtLxL131/eUdNUPkhcQpHxOqiQ22g+PEMJGnhmnRkkf25E6L+VAisUoU8q1R8WRp+9NLq6XXq3Gudu8g/Cv4g==;cuityaxM16T6nOKLN0694g=="
+secured: "dY+EQmOu20i4l217DSejG6WNQtaGz0OV5qCJ30R3BaQ/wOmpRfq2M+Dd7ti9bXUZDKqTf5nSjac3kmMBNkVSTQAp4ZwzsEUOxuRIrvbYpceaFZBOfNAjdYJ9zN8rw3zVmcC4TIhx7fQmT1FOqNQfTnKwl29v8HomMBfCCT8r4J9GHRTq7u0gy7JApNBxpNacDpQHxmHW20BTLqjBcxROcGvuSyq0GlGj8e1I+TFnfpWfFyoc+nvPOJA7zzZcWCsDVlOO9kVkCsb3hqYMm046KhskRlUO6JmIfoBAkhRPD8rOP0ETTbyIUV0UIKzS+qIioI0OlzPFgASLEFetyeJd5EoDjwtjiSHI7XFztw21GC9vyHBuXW3HTNvvIqrhVIzQMUCfuiPJmaEZLzETn82WNMfav7YHBJk/6Y/xAfadZ6kURe4fS8gxF6F8dWPsLJiJpbJwni2qMfZ1aL7TT8fEgV8juVHBDA3uvNqKSkftrvotU5j1RE3pUQNIEkfdFQiKEH/EnbVr2mZ4mvinlIJZVw==;X/6nhRZQFlNkbjecxREEoA=="
 ---
 

@@ -304,6 +304,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-21-bristol-experts-help-launch-first-driverless-buses-on-britains-roads.md",
+      "title": "Bristol experts help launch first driverless buses on Britain's roads",
+      "excerpt": "Bristol robot experts have helped create and launch what is being heralded as one of the most ambitious and complex trials of driverless ... together with artificial intelligence processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260",
+      "originalUrl": "https://www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.bristolpost.co.uk/incoming/article8443273.ece/ALTERNATES/s1200/0_TCR_BRI_160523AutonomousBusBRI_02.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260.amp",
+      "cdnAmpWebUrl": "https://www-bristolpost-co-uk.cdn.ampproject.org/c/s/www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260.amp",
+      "publishedDateTime": "2023-05-21T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bristol Post",
+        "domain": "bristolpost.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-tech-digest-daily-roundup-tesla-issues-optimus-robot-update.md",
       "title": "Tech Digest daily roundup: Tesla issues Optimus robot update",
       "excerpt": "BBC The government must act to prepare for artificial intelligence (AI) to hit the workplace “like a freight train”, the boss of one of Britain’s leading energy companies has told Sky News. Greg Jackson, founder of Octopus, says the adoption of AI ...",
@@ -1295,40 +1338,6 @@
       "provider": {
         "name": "St. Louis Post-Dispatch",
         "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-baidu-inc-bidu-q1-2023-earnings-call-transcript.md",
-      "title": "Baidu, Inc. (BIDU) Q1 2023 Earnings Call Transcript",
-      "excerpt": "our SVP in-charge of Baidu Intelligent Driving. After our prepared remarks, we will hold a Q&A session. Please note that the discussion today will contain forward-looking statements made under the ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4605067-baidu-inc-bidu-q1-2023-earnings-call-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4605067-baidu-inc-bidu-q1-2023-earnings-call-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

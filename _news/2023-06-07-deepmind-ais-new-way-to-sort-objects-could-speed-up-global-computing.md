@@ -43,7 +43,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://media.wired.com/photos/64800cea7b25a434b1f3be07/191:100/w_1280,c_limit/business_deepmind_ai_code.jpg"
         width: 1280

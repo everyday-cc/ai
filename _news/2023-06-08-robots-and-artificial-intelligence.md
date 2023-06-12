@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-08T00:00:00Z
 originalUrl: "https://www.cfr.org/robots-and-artificial-intelligence"
 webUrl: "https://www.cfr.org/robots-and-artificial-intelligence"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"

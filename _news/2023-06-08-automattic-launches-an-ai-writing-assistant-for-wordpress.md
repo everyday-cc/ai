@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/jetpack-ai-assistant-image.jpg"
         width: 1263
         height: 710
-        isCached: true
-  - title: "WordPress Now Has An AI Content Generator – Free Access Available"
-    excerpt: "Jetpack took the wraps off a new plugin called Jetpack AI Assistant to serve as a writing assistant for publishers. The plugin makes the AI assistant available within the WordPress editor block within a chat-like interface, what is known as a conversational user interface."
-    publishedDateTime: 2023-06-07T08:58:00Z
-    webUrl: "https://www.searchenginejournal.com/wordpress-ai-content-generator/488669/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 39
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/06/wordpress-ai-64804284de84c-sej.jpg"
-        width: 1600
-        height: 840
         isCached: true
   - title: "WordPress Is Launching an AI Writing Assistant"
     excerpt: "The new tool can create blog posts, change the tone of an existing post, or translate one language into another."

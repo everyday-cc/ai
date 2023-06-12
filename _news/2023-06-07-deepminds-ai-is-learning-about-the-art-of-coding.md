@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-07T15:00:00Z
 originalUrl: "https://www.wired.com/story/deepminds-ai-is-learning-about-the-art-of-coding/"
 webUrl: "https://www.wired.com/story/deepminds-ai-is-learning-about-the-art-of-coding/"
 type: article
-quality: 86
+quality: 88
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Facebook AI
   - AI
   - Google AI
+  - Machine Learning
 
 images:
   - url: "https://media.wired.com/photos/64800cea7b25a434b1f3be07/191:100/w_1280,c_limit/business_deepmind_ai_code.jpg"
