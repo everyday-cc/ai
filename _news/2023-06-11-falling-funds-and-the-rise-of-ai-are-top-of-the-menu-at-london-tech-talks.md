@@ -44,6 +44,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "It’s time to talk about the real AI risks"
+    excerpt: "Experts at RightsCon want us to focus less on existential threats, and more on the harms here and now."
+    publishedDateTime: 2023-06-12T11:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/12/1074449/real-ai-risks/"
+    ampWebUrl: "https://www.technologyreview.com/2023/06/12/1074449/real-ai-risks/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/12/1074449/real-ai-risks/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/16A1997-crop.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "AI in distribution: How artificial intelligence can drive growth"
     excerpt: "Artificial intelligence (AI) is a growing industry that has changed the way businesses function and interact with their customers."
     publishedDateTime: 2023-06-09T04:00:00Z

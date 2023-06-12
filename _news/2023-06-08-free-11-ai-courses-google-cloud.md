@@ -7,7 +7,7 @@ originalUrl: "https://www.geekzone.co.nz/forums.asp?topicid=305851"
 webUrl: "https://www.geekzone.co.nz/forums.asp?topicid=305851"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,52 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Google Cloud Partners With Mayo Clinic To Use AI In Health Care"
+    excerpt: "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the"
+    publishedDateTime: 2023-06-08T07:58:00Z
+    webUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/"
+    ampWebUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
+    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
+    type: article
+    provider:
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 59
+    images:
+      - url: "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Google expands intelligent cloud into healthcare"
+    excerpt: "Helping medical professionals find patent informationGoogle's cloud business is expanding its use of new artificial intelligence technologies in health care. It allows medical professionals at Mayo Clinic to find patient information using tools powering the latest chatbots quickly."
+    publishedDateTime: 2023-06-08T09:50:00Z
+    webUrl: "https://www.fudzilla.com/news/memory-and-storage/57046-google-expands-intelligent-cloud-into-healthcare"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/151e65d7467e972252b5079a40b808dc_L.jpg"
+        width: 620
+        height: 454
+        isCached: true
+  - title: "Use AI with caution when comes to mental health"
+    excerpt: "When people read that AI could replace the equivalent of 300 million full-time jobs,"
+    publishedDateTime: 2023-06-09T00:00:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/alton-artificial-intelligence-ai-saint-anthony-s-18141135.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/16/21/23913580/3/rawImage.jpg"
+        width: 1463
+        height: 2048
+        isCached: true
 
 secured: "E10gcgM/m+6Oelbrqg2/+PBt4Oupq30HGb9W6c6pPnKMPuENWd3TUcsqoAG6GJtmaUUyn/BnbXivpaOpWhlrhyhCIJF/CWuxOFNfxjocOYbT5CtG+QNHrFhg/5LPGG4nqoXo9SDUT1u33K9Xw2CxGuNPV3Erng1oiUZfuGakHVUw3NzXfXfqcP1Gmf3cXn/v4Nk1AZU9jtFW9hlk4AOoLs4iRX4lLb4w4GmAYLieabOx7MOGwzJf8oG4RPRLs6IFhNbq6dZMmCcIeqmg+cEuhE1K2ZJJa7jPT396Xku6AoJKwfqOjtASKw5GzxDxMps0gtAItChjOhcphdGWd4gmfALKeN4vOXTIp89DN9FrHt8=;fQy4Qt8jBtAf5PBOCzlxqw=="
 ---

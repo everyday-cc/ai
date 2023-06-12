@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-01-machine-learning-and-data-sciences-for-financial-markets.md",
+      "title": "Machine Learning and Data Sciences for Financial Markets",
+      "excerpt": "Leveraging the research efforts of more than sixty experts in the area, this book reviews cutting-edge practices in machine learning for financial markets. Instead of seeing machine learning as a new field, the authors explore the connection between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/books/machine-learning-and-data-sciences-for-financial-markets/8BB31611662A96D0AB93A8A26E2D0D0A",
+      "originalUrl": "https://www.cambridge.org/core/books/machine-learning-and-data-sciences-for-financial-markets/8BB31611662A96D0AB93A8A26E2D0D0A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cambridge.org/97813165/16195/large_cover/9781316516195i.jpg",
+          "width": 451,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-30T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-heres-how-the-cloud-is-revolutionizing-health-tech-and-fintech.md",
       "title": "Here's How the Cloud is Revolutionizing Health Tech and FinTech",
       "excerpt": "Overcoming the model of office and lab work with cloud computing Cloud computing systems have allowed enterprises, schools, and government organizations to overcome pandemic-induced challenges and meaningfully accelerate innovation and agility toward the market.",
@@ -1304,40 +1348,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-interview-investment-expert-colin-clark-on-his-move-into-ai-harnessing-fintech.md",
-      "title": "Interview: investment expert Colin Clark on his move into AI-harnessing fintech",
-      "excerpt": "The executive was in fact in October last year named chairman of the newly formed board of Edinburgh-based artificial intelligence (AI) fintech business Aveni, which specialises in natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scotsman.com/business/interview-investment-expert-colin-clark-on-his-move-into-ai-harnessing-fintech-4090978",
-      "originalUrl": "https://www.scotsman.com/business/interview-investment-expert-colin-clark-on-his-move-into-ai-harnessing-fintech-4090978",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scotsman",
-        "domain": "scotsman.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud and Salesforce partner to help improve customer experience with AI"
-    excerpt: "The two companies are coming together to analyze data with AI and help businesses create ads customers probably want to see."
-    publishedDateTime: 2023-06-08T20:49:00Z
-    webUrl: "https://www.zdnet.com/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/6c3f1f1d520c9f4a0429e5cc917d81087c1f7390/2023/06/08/8afc8c54-f7ab-4207-b16b-1a8741aed571/gettyimages-1332177687.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Salesforce doubles down on generative AI with Marketing GPT and Commerce GPT"
     excerpt: "Salesforce today launched Marketing GPT and Commerce GPT to help enterprises quickly deliver personalized campaigns and shopping experiences."
     publishedDateTime: 2023-06-07T23:07:00Z
@@ -56,22 +40,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce.jpg?w=1200&strip=all"
         width: 1200
         height: 616
-        isCached: true
-  - title: "Google Cloud Partners With Mayo Clinic To Use AI In Health Care"
-    excerpt: "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the"
-    publishedDateTime: 2023-06-08T07:58:00Z
-    webUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/"
-    ampWebUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
-    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
-    type: article
-    provider:
-      name: Geek News Central
-      domain: geeknewscentral.com
-    quality: 59
-    images:
-      - url: "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png"
-        width: 300
-        height: 300
         isCached: true
   - title: "Ethics should be at the foundation of building AI systems: Salesforce executive"
     excerpt: "There has been growing concern among regulators around sensitive data collection from AI software and the need to balance privacy concerns with allowing room to foster innovation. CNA's Heidi Ng spoke to Kathy Baxter,"

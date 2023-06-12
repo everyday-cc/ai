@@ -181,15 +181,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 36
-  - title: "BHP and Microsoft use AI to boost copper recovery at Escondida"
-    excerpt: "The use of new digital technology to optimise concentrator performance at the world's biggest copper mine in Chile is expected to improve recovery."
-    publishedDateTime: 2023-06-07T17:18:00Z
-    webUrl: "https://www.mining.com/bhp-and-microsoft-use-ai-to-boost-copper-recovery-at-escondida/"
-    type: article
-    provider:
-      name: Mining
-      domain: mining.com
-    quality: 34
   - title: "Microsoft to move top AI experts from China to new lab in Canada"
     excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
     publishedDateTime: 2023-06-10T10:49:00Z
@@ -223,6 +214,6 @@ related:
       domain: tasnimnews.com
     quality: 19
 
-secured: "XsbfE+pfrBShxIFH4X2PC2pSzWQ3BOXG62sJOXtgDAOwuAiDhYd1NYkP7R7orBuj+y1nQ13vvjGUhexVcFn8Re7J1u9F0GtDsFujCUwnrWdQ4ed0W9lCRDGD6BGQDuB6daK/qoYsYcBhUcOEVUlHhXxD9d6w419jbMIdaqpwgE2QJX9IEsLyeHOkrKfYyiy7q+LVdsSFkzvgLAy6r9zdgQ8vUHKb/5edLykQsC+dVEENDmFkgC2APfTEHThnCnr43RXSmtVPYfzBRmIxmgBKLi+7QzK4WqpbEvVKOY9Rai21AvuQQcoSBZMgyd7t+W+z3lBhuHS8vvqStE6UU2BZdb8c5mCoc2lGvkmy9VwNF4E=;Qf875E6LmJwNMOUDOrvL7g=="
+secured: "AF97+8Z/8x68aTEdqTXGgdfKrr57CFdZ3Rr+OBXnsu+v8F+MH+9LYbir21cL7D/VZp9RUW0AeDEutpK7OIrXeUx1SRUOI9HYQAX5rXBDMbkktlf1iTqvPcD+bVeu8VvaRa1710zF7V9dz8e1guZ2VZf2a9XbLWcXTuzzFDO4ucW/SKeF/8zjFFSMJq2L0CU3NQTLE8yTJDBq0cdDvROpUhmv9B7ivsoqLmDbtz76pPcNHxo70amQRpuAS7BftY9GQ1KptfYP7AT9K7y5x9mRX0d0H6N9/4IXltqgf3EKaykolP6plrciwTgpK/3u4Nue0th0VRfvaAkuK4kW1qKjL/q9NeWcvRfohKwJJ9UqktuHATBR528oeUSYI9HsWzG3zJGVPMu6Z1d1J3UQo8VQPOL8bsfqG26nnTqSSQwJg9mkuwEiaM2GnuNJ8UbWvZQ2uZsb+RSVzkmi9+hyQX+Mp0wePk8YQ2bRGMfnlaITuhJzD1PnX0RrnecAsdmk0rjtwf2cU2M/eSPHhN0UkTGIXQ==;zeOj4C9lmJEnOXlSCoIbBg=="
 ---
 

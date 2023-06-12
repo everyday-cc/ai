@@ -27,20 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind made its AI name in games. Now it’s playing with the foundations of computing"
-    excerpt: "DeepMind wasn't only playing chess and Go for fun. The lab's new AlphaDev system applies the lessons from games to fundamental algorithms."
-    publishedDateTime: 2023-06-07T17:13:00Z
-    webUrl: "https://thenextweb.com/news/deepmind-applies-games-ai-to-fundamental-algorithms"
+  - title: "The AI Revolution: How Machine Learning is Changing the Way We Live and Work : Sanchar Shakti"
+    excerpt: "In the discussion like this we can talk on & on but raising concerns and suggesting solutions  are not going to work . We need a robust platform where these suggestions become our way of life that turns  our choices into our command says “Productivity Conultant & Founder of Sanchar Shakti” Kabeer Goswami."
+    publishedDateTime: 2023-06-08T15:08:00Z
+    webUrl: "https://www.mid-day.com/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
+    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 76
+      name: Mid Day
+      domain: mid-day.com
+    quality: 63
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-6.jpg&signature=cdc070d431840e67fd8f122b3ceccef6"
+      - url: "https://images.mid-day.com/images/images/2023/jun/Sanchar-Shakti-0806_d.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
+  - title: "The AI revolution will change work but nobody agrees how"
+    excerpt: "Goldman Sachs estimated that the technology behind popular AI tools such as DALL-E and ChatGPT could automate the equivalent of 300 million full-time jobs."
+    publishedDateTime: 2023-06-10T04:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-ai-revolution-will-change-work-but-nobody-agrees-how/articleshow/100890168.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "R31vbUcBTUmaA5Nvrv9uM982Ln+dPwzZidRVFnca8sdKYKDdO8YpTLJotmFTTVVB62ceRXRWp9huqQ8xIUqh6SWw4bBKTI6KN34Lc559YPlT9UT3gLx1rlt9Z0r1SxOoTK/r1uwlnpSq5cEVxDjNmX/CqX0rXwy2hzpIJHxWGbV8jw3scvf7H8OlwWo6gIHlaWVlZ+j8XMmpw91wnQ/YFK3Moi+Pk/5g0Kvgf4nXYBSxop7k9pLqhLs53j3LWLMNjuWpc6ysyMscAzQKXMObwzAWewrRRZ9lK9E+OGjotAv0jv1jipPW3yOkaCypEbfNCFqdMDb8Y9H0fiDE/TBj61+YTEsmAAZWiBImkcgSzuE=;3ZcMrZbYzlyuq7D/6YZEtQ=="
 ---

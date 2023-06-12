@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-ena
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
 type: article
 quality: 121
-heat: 281
+heat: 271
 published: true
 
 provider:
@@ -186,15 +186,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 36
-  - title: "BHP and Microsoft use AI to boost copper recovery at Escondida"
-    excerpt: "The use of new digital technology to optimise concentrator performance at the world's biggest copper mine in Chile is expected to improve recovery."
-    publishedDateTime: 2023-06-07T17:18:00Z
-    webUrl: "https://www.mining.com/bhp-and-microsoft-use-ai-to-boost-copper-recovery-at-escondida/"
-    type: article
-    provider:
-      name: Mining
-      domain: mining.com
-    quality: 34
   - title: "Microsoft to move top AI experts from China to new lab in Canada"
     excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
     publishedDateTime: 2023-06-10T10:49:00Z

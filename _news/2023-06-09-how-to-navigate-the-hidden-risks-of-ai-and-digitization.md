@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and
 webUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "It’s time to talk about the real AI risks"
+    excerpt: "Experts at RightsCon want us to focus less on existential threats, and more on the harms here and now."
+    publishedDateTime: 2023-06-12T11:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/12/1074449/real-ai-risks/"
+    ampWebUrl: "https://www.technologyreview.com/2023/06/12/1074449/real-ai-risks/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/12/1074449/real-ai-risks/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/16A1997-crop.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Falling funds and the rise of AI are top of the menu at London tech talks"
     excerpt: "Artificial intelligence will be the main talking point at London Tech Week but investment and skills problems remain"
     publishedDateTime: 2023-06-10T22:05:00Z

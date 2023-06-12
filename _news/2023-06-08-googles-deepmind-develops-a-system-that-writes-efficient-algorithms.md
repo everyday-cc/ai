@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-4.jpg&signature=95de9df374e2fef286cd748ac5d07e5c"
         width: 1280
         height: 640
+        isCached: true
+  - title: "OpenAI, DeepMind will open up models to UK government"
+    excerpt: "Google DeepMind, OpenAI and Anthropic have agreed to open up their AI models to the U.K. government for research and safety purposes, Prime Minister Rishi Sunak announced at London Tech"
+    publishedDateTime: 2023-06-12T10:07:00Z
+    webUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/"
+    ampWebUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 74
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/31/GettyImages-1248338134-scaled.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Can Apple keep the Metaverse dream alive? Plus, Google's DeepMind AI develop \"extremely\" optimised algorithm tool."
     excerpt: "After Meta boss, Mark Zuckerberg has spent countless hours and billions of dollars on his Metaverse dream, has Apple just blown that dream out of the water with its new spatial reality headset? Plus,"

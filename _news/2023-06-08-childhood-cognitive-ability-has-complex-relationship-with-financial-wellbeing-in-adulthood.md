@@ -24,17 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Childhood cognitive ability has complex links with later financial well-being"
-    excerpt: "The relationship between cognitive ability in childhood and financial well-being in adulthood varies for different financial measures—such as savings levels versus having debt—per a new analysis of nearly 6,"
-    publishedDateTime: 2023-06-07T18:00:00Z
-    webUrl: "https://phys.org/news/2023-06-childhood-cognitive-ability-complex-links.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 1
-
 secured: "w/ev1xbhP70oJt1wa8RJbHKTEG30YQYeuBlh7DI+y5somInBlc7fOl4QEGoveTW3FQLzUpwsrTnJWG4tLC0t6V9HrJ6ga/0ja00qD+BU9LpfHK1P3NhdKOOibN/nWmOjg8ctXmyj7VyliN/u6HGuQRNw1TW46qLIs1n4t+78cVoa4IgtAls2rfJ54XPOfPwf4xrwyINzlMIrBDepp8EGjOuBf11wm7kphLE5dMNI9Ke3nMhnqqnL4sxHUmYMZ+MJdf3gGz0btDa15AU5o3WbfwL0vMAzOoMkLPClOhJWwcfizyM07k01OnRIZdh4cThPMLRdDtqsJxqVNg/S9YVuANlbmJuVmp7RP0Ulh6utakA=;0AYxk2MraJSq6XhgRct2Uw=="
 ---
 

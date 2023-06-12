@@ -49,6 +49,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "OpenAI, DeepMind will open up models to UK government"
+    excerpt: "Google DeepMind, OpenAI and Anthropic have agreed to open up their AI models to the U.K. government for research and safety purposes, Prime Minister Rishi Sunak announced at London Tech"
+    publishedDateTime: 2023-06-12T10:07:00Z
+    webUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/"
+    ampWebUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 74
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/31/GettyImages-1248338134-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Can Apple keep the Metaverse dream alive? Plus, Google's DeepMind AI develop \"extremely\" optimised algorithm tool."
     excerpt: "After Meta boss, Mark Zuckerberg has spent countless hours and billions of dollars on his Metaverse dream, has Apple just blown that dream out of the water with its new spatial reality headset? Plus,"
     publishedDateTime: 2023-06-08T06:53:00Z

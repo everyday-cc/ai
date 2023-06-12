@@ -7,7 +7,7 @@ originalUrl: "https://www.thestreet.com/deals/apple-vision-pro-headset-hands-on"
 webUrl: "https://www.thestreet.com/deals/apple-vision-pro-headset-hands-on"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Apple Vision Pro headset: What does it do and will it deliver?"
-    excerpt: "Apple recently unveiled its Vision Pro headset at the Worldwide Developers Conference in California. With it, Apple is venturing into a market of head-mounted devices (HMDs)—which are usually just displays,"
-    publishedDateTime: 2023-06-07T17:32:00Z
-    webUrl: "https://techxplore.com/news/2023-06-apple-vision-pro-headset.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-apple-vision-pro-headset.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-apple-vision-pro-headset.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/apple-vision-pro-heads.jpg"
-        width: 1823
-        height: 1070
-        isCached: true
 
 secured: "0ynpLMEhWC3XWnmRdvjzzQaFdhl+Pqhg2U7fjAITPN2MIUmfsE/HIeflWA0RS+0K1ucsQXgzcdwyo/5ctziJxEqofpessrv+Q4XUoyu1KncpJW7Fs3RerMhxBagytsX1hBPyVvYSWBe2/lfEsnmpYU5vtTtFwrTrbGVQKZYOokvN1/ibPiSpiDmLnfV8u5TS7VWGjKs1RtnOTsFJBTInWR41ombLYiSGHtuxbR4Fjbf30D6AFsr7wvr/Vy8cseEgSE0yl2PNF4lMnedW4OpiGFE+bGQ4SmVzA+SvKSG5II5UNrCs5PAMA+Kd6742mkfFAwVBgMCJtsljfy2akMxrB2elDtLEZy98Kjj84uGW3Js=;XU3pHPWgaVSCsFWu8CMCEw=="
 ---

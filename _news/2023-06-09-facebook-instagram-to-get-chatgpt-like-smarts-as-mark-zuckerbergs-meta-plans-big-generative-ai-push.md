@@ -49,15 +49,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "An AI chatbot might soon slide into your Instagram DMs"
-    excerpt: "Instagram is reportedly working on an AI chatbot that will let users choose between 30 different personalities to chat with."
-    publishedDateTime: 2023-06-07T18:21:00Z
-    webUrl: "https://bgr.com/tech/an-ai-chatbot-might-soon-slide-into-your-instagram-dms/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
 
 secured: "PUvOR0Q7fvNWZ4hkINL2CMtFmMXrAOiM8K/0suqjBVRaRI2iMp8XKmQy9aUR3sHikshNXkPq7owq+lZlWY0rbMOIbU+/MlpSqAqas4kwEk3fUOomHmtPXcvjxFaXjMbxw9fgUF7liFIDn4Iq1wcjtpatdFrVGwIiZLh0NN3D9axKhkRO2CCm289rpRUo2xwzPnFTIBOdOKBlIz5N2U5bByUCqtmC50YX371EqpGSiSPQfB4inEGTTQfcvGcgTwOEpvcsg3TC/lVQKeuGpCVojsrpfya/A1yfyFZ49vpU8o9i/NDli8RPI66cy7hyilUj34oKvjhZ5+FEFp7OHw3AqzZfiss24FaO+W+jZtbdwVbfMc6998R5m/x9jFTEAni2oEuFkuuiWMA0bLrYbX0/hRRZdcgWls1CWxNxZwTTDqErE1E7OV3Nff0E0UTh0ikE1Zo2XV2F6+bHbsGklLtnbIF+KFIm6v9XwyYvHKbhHIauB/7OTP5v7I1N/Oj6wiMLHK2YEKcS5myOOQjkQ1jHTg==;aryHUq8hMQcqvsyGyuZ1Rg=="
 ---

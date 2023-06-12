@@ -20,17 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Artificial Intelligence Shows Promise in Early RA Detection"
-    excerpt: "A deep learning artificial intelligence (AI)-method accurately predicted the development of rheumatoid arthritis (RA) at an early stage using MRI scans."
-    publishedDateTime: 2023-06-07T18:03:00Z
-    webUrl: "https://www.physiciansweekly.com/artificial-intelligence-shows-promise-in-early-ra-detection/"
-    type: article
-    provider:
-      name: Too Old to Operate
-      domain: physiciansweekly.com
-    quality: 17
-
 secured: "bLsqso4fo1P/tjPMZ7VIbDA6eaS5/VQ6JNukiOQTR6mKHaM3M9Y6KhwQ4RObuHdGAzDEyPZTT0SDpuVBB6/Ql3pZLieV5rLRo1Wqzbl5KyaDkNL5BJ2C96U4DnhMO7/HVDXaqxoKiExgaVi0uxoGhZrUVUsc8zeYrlDN9FzmA4uEWyrClPO950wiShwlUSyXTLc2+VFmPI+FeJFcnkuNazPbQGlXO02w4Ff/xrbBChciljGdZKdz/Xs38afIxe/aghCsnw5WiA+unpYhmMtGB4V3Y++MSGm03K5r2nRkplUuRuBqVq4YfPsQbaOSJh6st+KLV4zPepAeS/kdQjtu4ihtfxMkJY9ZWlz7eIDw2sA=;o0Zhx2chI5Myif1v7E6P3w=="
 ---
 

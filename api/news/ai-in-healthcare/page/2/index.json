@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-31-ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for-enhanced-image-quality-in-petct-advancing-its-leadership-position.md",
+      "title": "GE HealthCare Receives FDA Clearance of a New Deep Learning Solution for Enhanced Image Quality in PET/CT, Advancing its Leadership Position in AI",
+      "excerpt": "GE HealthCare (Nasdaq: GEHC) today announced US FDA 510(k) clearance of Precision DL – a new, revolutionary deep learning-based image processing software included in GE HealthCare’s growing Effortless Recon DL portfolio. Precision DL provides the image ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for-enhanced-image-quality/article_5c89fef1-fd44-59dd-bbcc-c8791007d7c0.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for-enhanced-image-quality/article_5c89fef1-fd44-59dd-bbcc-c8791007d7c0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for-enhanced-image-quality-in-petct-advancing-its-leadership-position.md",
       "title": "GE HealthCare Receives FDA Clearance of a New Deep Learning Solution for Enhanced Image Quality in PET/CT, Advancing its Leadership Position in AI",
       "excerpt": "GE HealthCare (Nasdaq: GEHC) today announced US FDA 510(k) clearance of Precision DL – a new, revolutionary deep learning-based image processing software included in GE HealthCare&CloseCurlyQuote;s growing Effortless Recon DL portfolio. Precision DL ...",
@@ -1352,58 +1396,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-meet-my-new-co-pilot-in-the-doctors-office-artificial-intelligence.md",
-      "title": "Meet my new co-pilot in the doctor's office: Artificial Intelligence",
-      "excerpt": "The more I learn about the growing uses of Artificial intelligence in health care, the more convinced I become about its essential place in not just the lab or radiology suite but also in the doctor’s office. It can help usher in a world where tests and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence.amp",
-      "publishedDateTime": "2023-05-16T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

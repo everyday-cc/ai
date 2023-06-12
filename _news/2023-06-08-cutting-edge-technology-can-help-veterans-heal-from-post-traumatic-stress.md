@@ -30,16 +30,16 @@ images:
 
 related:
   - title: "CUTTING EDGE TECHNOLOGY CAN HELP VETERANS HEAL FROM POST-TRAUMATIC STRESS"
-    excerpt: "Technology is evolving mental health care. From virtual reality to artificial intelligence, the use of technology can improve how we heal our mind, particularly after experiencing something traumatic."
+    excerpt: "EDGE PTSD TREATMENTS Technology is evolving mental health care. From virtual reality to artificial intelligence, the use of technology can improve how we heal our mind, particularly after experiencing something traumatic."
     publishedDateTime: 2023-06-08T21:50:00Z
-    webUrl: "https://www.wtva.com/news/national/cutting-edge-technology-can-help-veterans-heal-from-post-traumatic-stress/article_42607ddb-15a5-5e19-8133-4acb9aacf3ae.html"
+    webUrl: "https://www.valdostadailytimes.com/ap/national/cutting-edge-technology-can-help-veterans-heal-from-post-traumatic-stress/article_38a55826-fcb0-5e59-b1da-d33c82eac65a.html"
     type: article
     provider:
-      name: WTVA
-      domain: wtva.com
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
     quality: 23
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wtva.com/content/tncms/custom/image/c1b448be-3cb7-11ec-8535-6791a281df39.png?resize=600%2C315"
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
         width: 600
         height: 315
         isCached: true

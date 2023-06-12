@@ -2,6 +2,154 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-09-healthcare-and-ai-paradigm-shift-stocks-in-focus-ipa-mgrx-inbs-rmed.md",
+      "title": "Healthcare and AI \"Paradigm Shift\" Stocks in Focus: IPA, MGRX, INBS, RMED",
+      "excerpt": "The healthcare sector has huge potential, offering attractive opportunities as companies meet the growing demand for Artificial Intelligence (AI) wellness solutions and recent market research is signa",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/ab32798306/healthcare-and-ai-paradigm-shift-stocks-in-focus-ipa-mgrx-inbs-rmed",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32798306/healthcare-and-ai-paradigm-shift-stocks-in-focus-ipa-mgrx-inbs-rmed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32798306",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32798306",
+      "publishedDateTime": "2023-06-09T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector.md",
+      "title": "DPO Centre Shares Opinions About the New Technologies in the Healthcare Sector",
+      "excerpt": "2023 — The healthcare industry is on the brink of a technological revolution that promises to reshape patient care, enhance outcomes, and lower costs. Seven emerging technologies are at the forefront of this transformation: Artificial Intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector-1032380181",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dpo-centre-shares-opinions-about-the-new-technologies-in-the-healthcare-sector-1032380181",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/1685615763869-0.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-artificial-intelligencefor-good-health.md",
+      "title": "Artificial Intelligence—For Good Health",
+      "excerpt": "Will they carry out the most complex procedures without human supervision? Robots that are equipped with artificial intelligence (AI) and can analyze vast amounts of data will be able to choose the best procedures—taking into account (among other things ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/artificial-intelligence-for-good-health/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/artificial-intelligence-for-good-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&crop=5600,3149,x0,y370,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/artificial-intelligence-for-good-health/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/09/artificial-intelligence-for-good-health/amp/",
+      "publishedDateTime": "2023-06-09T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-openai-ceo-calls-for-global-cooperation-to-regulate-ai.md",
       "title": "OpenAI CEO calls for global cooperation to regulate AI",
       "excerpt": "Sam Altman, the CEO of ChatGPT maker OpenAI, used a high-profile trip to South Korea on Friday to call for coordinated international regulation of generative artificial intelligence, the technology that underpins his famous chatbot.",
@@ -199,7 +347,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -811,7 +959,7 @@
       "originalUrl": "https://www.thenews.com.pk/latest/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -894,57 +1042,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-google-cloud-and-salesforce-partner-to-help-improve-customer-experience-with-ai.md",
-      "title": "Google Cloud and Salesforce partner to help improve customer experience with AI",
-      "excerpt": "The two companies are coming together to analyze data with AI and help businesses create ads customers probably want to see.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/",
-      "originalUrl": "https://www.zdnet.com/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6c3f1f1d520c9f4a0429e5cc917d81087c1f7390/2023/06/08/8afc8c54-f7ab-4207-b16b-1a8741aed571/gettyimages-1332177687.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/",
-      "publishedDateTime": "2023-06-08T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1144,101 +1241,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-how-to-navigate-the-hidden-risks-of-ai-and-digitization.md",
-      "title": "How to Navigate the Hidden Risks of AI and Digitization",
-      "excerpt": "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777",
-      "originalUrl": "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1685715379-GettyImages-1434121527.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-qualcomm-may-be-a-hidden-ai-winner-says-analyst-smartphone-chips-are-why.md",
-      "title": "Qualcomm May Be a Hidden AI Winner, Says Analyst. Smartphone Chips Are Why.",
-      "excerpt": "TD Cowen analyst Matthew Ramsay says chips within phones, such as those the company makes, could handle some of the processing for AI queries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/qualcomm-stock-ai-chips-winner-6e854ae5",
-      "originalUrl": "https://www.barrons.com/articles/qualcomm-stock-ai-chips-winner-6e854ae5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-796661/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5",
-      "publishedDateTime": "2023-06-08T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

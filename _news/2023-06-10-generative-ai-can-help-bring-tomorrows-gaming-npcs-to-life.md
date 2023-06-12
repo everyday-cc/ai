@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/generative-ai-can-help-bring-tomorrows-ga
 webUrl: "https://www.engadget.com/generative-ai-can-help-bring-tomorrows-gaming-npcs-to-life-163037183.html"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,58 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How AI Can Help Customer Experience Agents"
+    excerpt: "When reading recent AI headlines, many people may be afraid of AI or worried that it will render their day-to-day roles obsolete."
+    publishedDateTime: 2023-06-12T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a465eb8717a0459e633478/0x0.jpg?format=jpg&width=1200"
+        width: 853
+        height: 568
+        isCached: true
+  - title: "Google Cloud and Salesforce partner to help improve customer experience with AI"
+    excerpt: "The two companies are coming together to analyze data with AI and help businesses create ads customers probably want to see."
+    publishedDateTime: 2023-06-08T20:49:00Z
+    webUrl: "https://www.zdnet.com/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/6c3f1f1d520c9f4a0429e5cc917d81087c1f7390/2023/06/08/8afc8c54-f7ab-4207-b16b-1a8741aed571/gettyimages-1332177687.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How AI Can Help Doctors As They Solve Complex Problems"
+    excerpt: "AI has an essential role to play in augmenting the work of doctors as they make dozens of high-stakes decisions a day."
+    publishedDateTime: 2023-06-09T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/how-ai-can-help-doctors-as-they-solve-complex-problems/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Adobe Express gets generative AI tools to level up your design experience"
+    excerpt: "Adobe has been making headlines for its integration of generative AI into its most popular tools, such as Photoshop. Features like Generative Fill have taken photo editing to the next level, making it possible to add realistic-looking elements to a photo with the click of a button."
+    publishedDateTime: 2023-06-08T19:24:00Z
+    webUrl: "https://www.zdnet.com/article/adobe-express-gets-generative-ai-tools-to-level-up-your-design-experience/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 46
 
 secured: "QKbhMSt8CaPKsz4Vk3JEhuXEtMITbBR+Sej2Qj8kxJt26cOYHEwpsrcMHT6o9jsn7wzAy6BrxkBtDOQRSoSUB56m0HIdbWsm17vmMo941SqiKiao3p/4+C75wYBjhv04RWNVx4/mXqXSKIkwfy+u8jOnHRpEVaxUdHUgqFNtFxfm699d7yZsMOQUS4SgVDe+m7jHlGBk06eozvjHN8MkVqCJoZV340e9f/0J/1Ejc9jxu/OAgZ1qe23e8fR3CsUEB5wXT2XaLN6TzavdqkQbBDefPXC8WbSVrZuNdQa93R5UlxydcQ1gB34JFNyFPgVW8euS+E1+74d77iQvJhmgmIJdsEAIiOk4fG+cuZOONNHmspZ3eNXGgnnSEzoaKIZmO022z0CL+ObwYp6bNtGcwHBOkaV8ZG1rGjRGIzxnVazGeNRKfB0tsxBbwT44w0NrBIpHnuq+G2rbWFwf7RaikdANfqUBcWwokORQP1X1zFWFGx/+Fj17fyHN+HdfPB0MrNgvy1BA9vtDww+6WGXDVg==;+TT3v0umCgEw4p7zQmWdAg=="
 ---

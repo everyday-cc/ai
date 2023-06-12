@@ -2,26 +2,26 @@
 category: news
 title: "Self-driving car hits and kills small dog in San Francisco"
 excerpt: "An initial review indicated that the Waymo’s system correctly identified the dog, which ran from behind a parked vehicle. However, the vehicle was unable to avoid hitting the animal."
-publishedDateTime: 2023-06-12T00:00:00Z
-originalUrl: "https://www.yourerie.com/news/self-driving-car-hits-and-kills-small-dog-in-san-francisco/"
-webUrl: "https://www.yourerie.com/news/self-driving-car-hits-and-kills-small-dog-in-san-francisco/"
-ampWebUrl: "https://www.yourerie.com/news/self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
-cdnAmpWebUrl: "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/news/self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
+publishedDateTime: 2023-06-12T10:25:00Z
+originalUrl: "https://thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/"
+webUrl: "https://thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/"
+ampWebUrl: "https://thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: yourerie
-  domain: yourerie.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.yourerie.com/wp-content/uploads/sites/27/2023/06/AP23077014398441.jpg?w=1280"
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/AP23077014398441-e1686565582597.jpg?w=1280"
     width: 1280
     height: 720
     isCached: true
@@ -55,6 +55,6 @@ related:
       domain: seattletimes.com
     quality: 37
 
-secured: "aQEf9O92vnrcjh8Me3IcbkcFQhjqbKU7NdomqVyrnVtlFNqczv/RIgi8heI/WWYeEkhK/AEM0LlLRxv8BQpOErmqvYCcaaKcNLJKgQEUurXowhWFkHRAKcUZtkX3Tr8/b4VXmrx8XAxOPEm2R6DhCGDwP/1b0xfLNTTPPJ3Rll9VZTVdYuhVfuSMewKIYyWfeMdBo/tfeMORvZ6ZtBbfMBglW4caPQAzEb6NJO+B/SX5u5zmHj6LWvpAp3BdIrskVJSaS8wmuA4dVzZGrsZMa4cDqwMjQ9vc0Qyi3nZXJCzVPm4pzeyG+g0sAkxgonTKFt0LExpKClgSL0iO8WTCZ/gYUBT1St68tHSJIGfZvJjHwnglEBvAu/yufLVTlvkEWmVK15zLfCHFmYlIICRAYUAUaFJwzTPbTXR+l8oC0CIprjodD3t7YaEcLrKxzXTSxI1DMabPg2ocClsl9tU0THKjEhH8uBnONZCMbvVJ1hv8EopEGmmcKLIswRmsBoiTtsbKHmIpTpP2y3Kinm+VHQ==;O1bAWfH4fbsF8pFrOweImA=="
+secured: "lIraaq1CdUd8W1eROoj5hdm7tC3BbcX89DVvC5G9K/z+YZXtlmNv2LTf1vLDEhOsfeWQFeLk27vt/5FaCdqhip3ICwm00fUbM+2mNUTfOXbUchqNQOyStdUt9ttWnPn9VE23jo4v30doJ5G0xysB2Rdwi2wouq6jhy9YZ3bQcfwjEY5d6JY9vWYjTdHJ8fTCil5xk6XykFIzYx4D7pAWcHrQKdR7qYzESne04TSxT06iBSWSbU3Oj19VMCiJ5GmKvgYa1uz5IeXOCfYR/5cwdFjslRJpbHQAk3aI6FbOkxpnqCblUeGj8AqvCSvliOzg/fYPns5vhmwZnJT4XYVYAbAV7eCrzZuAMsZjYdTCOME=;8JqVR5by/32u14rQwtS2Ow=="
 ---
 

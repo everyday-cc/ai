@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolution
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_06_2023_15_04_38_5263051.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Automation And Forecasting: Revolutionizing Business With AI"
+    excerpt: "One of the most promising AI technologies is the generative pre-trained transformer (GPT) model, a natural language processing tool that is revolutionizing how businesses communicate and operate."
+    publishedDateTime: 2023-06-12T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648337895224cd868d750fc7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 773
         isCached: true
   - title: "Rise of AI: shaping the 5th Industrial Revolution"
     excerpt: "This is how AI has the potential to break through new revolution on our tiny planet. Language evolution is attributed to humans’ competent mindset. In the last thousand years, humans have taken pride in their linguistic viability."

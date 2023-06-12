@@ -1,25 +1,25 @@
 ---
 category: news
 title: "CUTTING EDGE TECHNOLOGY CAN HELP VETERANS HEAL FROM POST-TRAUMATIC STRESS"
-excerpt: "Technology is evolving mental health care. From virtual reality to artificial intelligence, the use of technology can improve how we heal our mind, particularly after experiencing something traumatic."
+excerpt: "EDGE PTSD TREATMENTS Technology is evolving mental health care. From virtual reality to artificial intelligence, the use of technology can improve how we heal our mind, particularly after experiencing something traumatic."
 publishedDateTime: 2023-06-08T21:50:00Z
-originalUrl: "https://www.wtva.com/news/national/cutting-edge-technology-can-help-veterans-heal-from-post-traumatic-stress/article_42607ddb-15a5-5e19-8133-4acb9aacf3ae.html"
-webUrl: "https://www.wtva.com/news/national/cutting-edge-technology-can-help-veterans-heal-from-post-traumatic-stress/article_42607ddb-15a5-5e19-8133-4acb9aacf3ae.html"
+originalUrl: "https://www.valdostadailytimes.com/ap/national/cutting-edge-technology-can-help-veterans-heal-from-post-traumatic-stress/article_38a55826-fcb0-5e59-b1da-d33c82eac65a.html"
+webUrl: "https://www.valdostadailytimes.com/ap/national/cutting-edge-technology-can-help-veterans-heal-from-post-traumatic-stress/article_38a55826-fcb0-5e59-b1da-d33c82eac65a.html"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: WTVA
-  domain: wtva.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wtva.com/content/tncms/custom/image/c1b448be-3cb7-11ec-8535-6791a281df39.png?resize=600%2C315"
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
     width: 600
     height: 315
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "ROpsAqVMsN2xmtAgcejUX9Wtg5keqNEk/Mpv8cRH9rpF85PhDuNyuYrIeszgHZQz2O3RAdA8QOgi1Ritz8eo8oM/nR1QMRQUkLTra7MH5ZygEk6tLHPRU1NEzLdMEFWjnFK1vxL3BTIMHoTA/PQhLmVLyEb3sQHeFk7DbhtPQ5Fbra5nv8Jl2CQZlbtZwCLyMggTSPGPADeby4VLCiKclcpoR4bo7l0yDY2q5jW+kPAQorg59DJKhyV8/gDMdplhidAtYRzWKFNrSBygNes0AxLQNw8RxsPBHunbl3XQyouUnGdwMMC3AZjv9UiOKhSAJUd97vOJJlCn4X5yK52NHFLQgTWovOFHJM+RMAcQReA=;yd8s0nIqdjgczYMEnK4Isw=="
+secured: "8VgIeFdWpCm/o7EKNxYLmalMywZuovEg80ffs3gvb7u3zCFGfH76+xZTq9PdQzHzcGj0BrD6rrmCyVYEzqebOJ/C7dsmiq3vSWyQvOTUte8fXb0aemN0YNx489z+THwhZepfWIHJxLEm4tfD8IiD8T3iVkKQppzjT2LCVhwvaxPm0RpM5OWYVwaAC+Hw42ndv7S0TBk9qVtgaIUiPSKYzRdxplPvzBQvPTNjIap7P0C3M+/N9rE3jKZCc0QmzB71xJxRx5EKW0Xbpojc2jkjuOUTe/Z2mAWraUxiZqhzNS1MyzL/y3y0oogmyERYvBz/dfp7hPB85sh+f6qc6yxwPz2n2uRhfJa0WyC6XpuDkoc=;6IXSkdexqnKQHknFljwZaw=="
 ---
 

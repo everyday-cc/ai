@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "MAS launches AI in Finance Challenge for the 2023 Global FinTech Hackcelerator"
+    excerpt: "The Monetary Authority of Singapore (MAS) today launched the 8th edition of the Global FinTech Hackcelerator, titled “Artificial Intelligence (AI) in Finance Global Challenge”, to produce innovative and market-ready AI solutions that can transform the financial services industry."
+    publishedDateTime: 2023-06-12T10:53:00Z
+    webUrl: "https://www.finextra.com/pressarticle/97212/mas-launches-ai-in-finance-challenge-for-the-2023-global-fintech-hackcelerator"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 50
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "FITC sets to hold 2023 edition of annual fintech conference"
     excerpt: "FITC, the world-class, innovation led and technology-driven institution, which provides learning, insights, advocacy, and advisory services to the"
     publishedDateTime: 2023-06-12T08:31:00Z
@@ -40,6 +54,20 @@ related:
       - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2023/06/20230612_092323_0000-450x300.png"
         width: 450
         height: 300
+        isCached: true
+  - title: "MAS Now Accepting Applications for AI-Focused Global Fintech Hackcelerator 2023"
+    excerpt: "MAS launched the Global Fintech Hackcelerator where finalists will pitch their solutions during Demo Day at the Singapore Fintech Festival."
+    publishedDateTime: 2023-06-12T08:04:00Z
+    webUrl: "https://fintechnews.sg/75043/singapore-fintech-festival-2023/mas-now-accepting-applications-for-ai-focused-global-fintech-hackcelerator-2023/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 35
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/MAS-Now-Accepting-Applications-for-AI-Focused-Global-Fintech-Hackcelerator-2023.png?x22319"
+        width: 1024
+        height: 567
         isCached: true
   - title: "Rise of Digital Nomads Introduces Identify Verification Challenges to Banks and Fintech Companies"
     excerpt: "The rise of remote work is forcing adjustments within businesses and introducing new challenges. For finance and technology businesses, the number of foreign document verification cases has increased considerably throughout the years,"

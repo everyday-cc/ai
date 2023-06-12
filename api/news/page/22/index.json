@@ -2,6 +2,258 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-05-25-robots-and-rights-confucianism-offers-an-alternative.md",
+      "title": "Robots and rights: Confucianism offers an alternative",
+      "excerpt": "Philosophers and legal scholars have explored significant aspects of the moral and legal status of robots, with some advocating for giving robots rights. As robots assume more roles in the world, a new analysis reviewed research on robot rights,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.html",
+      "originalUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-robot.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp",
+      "publishedDateTime": "2023-05-25T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain.md",
+      "title": "Build a powerful question answering bot with Amazon SageMaker, Amazon OpenSearch Service, Streamlit, and LangChain",
+      "excerpt": "One of the most common applications of generative AI and large language models (LLMs) in an enterprise environment is answering questions based on the enterprise’s knowledge corpus. Amazon Lex provides the framework for building AI based chatbots. Pre-trained foundation models (FMs) perform well at natural",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/25/build-a-powerful-question-answer-bot.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T09:46:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
+      "title": "Nvidia: The chip maker that became an AI superpower",
+      "excerpt": "And one hardware company in particular has become central to the AI bonanza - California-based Nvidia. Originally known for making the type of computer chips that process graphics, particularly for computer games, Nvidia hardware underpins most AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-65675027",
+      "originalUrl": "https://www.bbc.com/news/business-65675027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 544,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-65675027.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65675027.amp",
+      "publishedDateTime": "2023-05-25T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-ibm-consulting-unveils-center-of-excellence-for-generative-ai.md",
+      "title": "IBM Consulting unveils Center of Excellence for generative AI",
+      "excerpt": "IBM Consulting has established a Center of Excellence for generative AI. It stands alongside IBM Consulting&#8217;s existing global AI and Automation practice, which includes 21,000 data and AI consultants who have conducted over 40,000 enterprise client engagements. The Center of Excellence (CoE) already",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-Consulting-unveils-Center-of-Excellence-for-generative-AI-1-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T09:00:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack.md",
+      "title": "Get insights on your user’s search behavior from Amazon Kendra using an ML-powered serverless stack",
+      "excerpt": "Amazon Kendra is a highly accurate and intelligent search service that enables users to search unstructured and structured data using natural language processing (NLP) and advanced search algorithms. With Amazon Kendra, you can find relevant answers to your questions quickly, without sifting through",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/25/BDB2902-arch-01-1.png",
+          "width": 889,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T08:38:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions.md",
       "title": "How OCX Cognition reduced ML model development time from weeks to days and model update time from days to real time using AWS Step Functions and Amazon SageMaker",
       "excerpt": "This post was co-authored by Brian Curry (Founder and Head of Products at OCX Cognition) and Sandhya MN (Data Science Lead at InfoGain) OCX Cognition is a San Francisco Bay Area-based startup, offering a commercial B2B software as a service (SaaS) product called Spectrum AI. Spectrum AI is a predictive",
@@ -962,246 +1214,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-a-startup-backed-by-openai-uses-ai-powered-robots-in-the-real-world.md",
-      "title": "A startup backed by OpenAI uses AI-powered robots in the real world",
-      "excerpt": "USA: The rise of ChatGPT and companies like it have shown that no white-collar job is safe. But if you believe that blue-collar jobs ar..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html",
-      "publishedDateTime": "2023-05-25T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-no-10-acknowledges-existential-risk-of-ai-for-first-time.md",
-      "title": "No 10 acknowledges ‘existential’ risk of AI for first time",
-      "excerpt": "Rishi Sunak meets heads of firms including DeepMind and OpenAI to discuss safety and regulation",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/may/25/no-10-acknowledges-existential-risk-ai-first-time-rishi-sunak",
-      "originalUrl": "https://www.theguardian.com/technology/2023/may/25/no-10-acknowledges-existential-risk-ai-first-time-rishi-sunak",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2fa8fa8a5164182b74c4a55b6252326c9e3fc84d/0_61_4338_2603/master/4338.jpg?width=620&quality=85&auto=format&fit=max&s=5192644ccb25c678632a9c2e0a38a618",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/25/no-10-acknowledges-existential-risk-ai-first-time-rishi-sunak",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/25/no-10-acknowledges-existential-risk-ai-first-time-rishi-sunak",
-      "publishedDateTime": "2023-05-25T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-ryff-unveils-spheera-ai-virtual-product-placement-platform.md",
-      "title": "Ryff unveils Spheera AI virtual product placement platform",
-      "excerpt": "And now it’s using AI on a platform called Spheera to automatically insert ... In their report, New York-based research firm Radicle Insights, backed up by Chapman University Film School, predicted that TV channels such as NBC, ITV, Channel 4, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/ryff-unveils-spheera-ai-virtual-product-placement-platform/",
-      "originalUrl": "https://venturebeat.com/games/ryff-unveils-spheera-ai-virtual-product-placement-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/RYFF-kitchen-with-graphics.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/ryff-unveils-spheera-ai-virtual-product-placement-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ryff-unveils-spheera-ai-virtual-product-placement-platform/amp/",
-      "publishedDateTime": "2023-05-25T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans.md",
-      "title": "Apex.AI Operating System To Run Volkswagen Robo Ridepooling Vans",
-      "excerpt": "The middleware is the vehicle operating system, so all the software that runs as a base software on that ECU (electronic c",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e5e45ccadd409eda62c39/0x0.jpg?format=jpg&width=1200",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/amp/",
-      "publishedDateTime": "2023-05-25T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-what-are-some-controversies-surrounding-natural-language-processing.md",
-      "title": "What are some controversies surrounding natural language processing?",
-      "excerpt": "translate, extract, and organize information. However, the language processing tools such as Open AI's Chat GPT and other tools run into some challenges, such as misspellings, speech recognition, and the ability of a computer to understand the nuances of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing",
-      "originalUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/775bdb69-3050-4989-abd5-e41fb41dc74a/4ad6a84e-d689-406a-bc8a-135f5a9db1d6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing.amp",
-      "publishedDateTime": "2023-05-24T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

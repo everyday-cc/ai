@@ -2,12 +2,12 @@
 category: news
 title: "UK self-driving car dreams could break down at the starting line"
 excerpt: "The British government's vision is built on forecasts that by 2035 around 40% of new cars could have self-driving capabilities and leadership in AV technology could create up to 38,000 new skilled ..."
-publishedDateTime: 2023-06-08T07:25:00Z
+publishedDateTime: 2023-06-08T06:48:00Z
 originalUrl: "https://www.reuters.com/business/autos-transportation/uk-self-driving-car-dreams-could-break-down-starting-line-2023-06-08/"
 webUrl: "https://www.reuters.com/business/autos-transportation/uk-self-driving-car-dreams-could-break-down-starting-line-2023-06-08/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     height: 628
     isCached: true
 
-secured: "c2GjaxSMbJ+n7llEQthDEU/UKtteYekD//I60Y61b67wHVf5tlc6oueqAhQyOZ9AY6qmjmMAXDv55kFnLoRnrIEdrDVJz2H0oex3wJax2Ca7xMty3bQNay6QYR3dLK8fJ200/d45wVi9NoZTMOvGhlFaH2RQB4t4FaL9cTaP7oD73MMOXgU54cDRMI5TCrv3WoB89FYdcymKLvgVDTtQTbQjp15jzOgmCapFL6WgyQi9HIldg7CtvXHPoMhXatUk7KG0n25z2lDp74e+N4u0y78CCONeKhDcNwexLYk5e2CUHFwSdVOrt7xdVoD2YJRetvYMIlhpBRHjlvKaGvOqexB1vbp4pdEayLVIP9/cdog=;rMEZZRrkZsPPmI5K7A8kPw=="
+related:
+  - title: "High cost blocks wider use of safer sensors for self-driving cars"
+    excerpt: "Automakers are competing to lower costs for next-generation, high-performance sensors that are expected to make self-driving vehicles much safer on the streets. The new technology, called a light ..."
+    publishedDateTime: 2023-06-08T00:00:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14609890"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 4
+
+secured: "sRLgn4ORKE+Ve4J5vbKegrjdRfgY7aHypsTm9/NejBRcoJ5paPjP/kemkhtqDGXwXYQpmr0hCq+mZGZSWxlzJj0p5vpdcp8OvxWwQxZua1VU7VlAstVHLvduScacVb0E5iC3uQflM57CEOcqn6UEucs9soLBzOglm1zbLZ3yvXtK2SzmMxFFitZ3t0ABR9FD4Nijb+rQf5ijAcRPp2nComouCHL+19Qe/zR6zMamAhhrjcpn0ar86t2Z5Ach/qjkzwfqTo+tF2rVl432PIfCXWC2bnLrouXo3TWgarofOUGKI0yY6H9KT8mhEt8FmUS9FgkJM2ObYxZO+QhhXYp9qEZbVtTpnxPg4znDxFMRMyU=;6yD+3/eJs8VgiIYbl0bmBA=="
 ---
 

@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google and Mayo Clinic Partner to Infuse AI Into Health Care"
-    excerpt: "Google Cloud launched a partnership with Mayo Clinic to implement use of its generative AI software, the tech giant announced ... as well as clinical protocols and research papers. With Google-level search capabilities, it can help health organizations ..."
-    publishedDateTime: 2023-06-07T17:37:00Z
-    webUrl: "https://www.cnet.com/health/medical/google-and-mayo-clinic-partner-to-infuse-ai-into-health-care/"
+  - title: "Google Cloud Partners With Mayo Clinic To Use AI In Health Care"
+    excerpt: "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the"
+    publishedDateTime: 2023-06-08T07:58:00Z
+    webUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/"
+    ampWebUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
+    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 59
     images:
-      - url: "https://www.cnet.com/a/img/resize/b619c70256fe80ec93cb22ae82d3099364a1f446/hub/2023/06/07/27bd616e-820d-43bf-8913-4eb7badfb1aa/gettyimages-1247992080-google-cloud-logo.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Google expands intelligent cloud into healthcare"
     excerpt: "Helping medical professionals find patent informationGoogle's cloud business is expanding its use of new artificial intelligence technologies in health care. It allows medical professionals at Mayo Clinic to find patient information using tools powering the latest chatbots quickly."
@@ -53,6 +55,15 @@ related:
         width: 620
         height: 454
         isCached: true
+  - title: "Free - 11 AI Courses @ Google Cloud"
+    excerpt: "Generative AI Fundamentals(cloudskillsboost.google) Earn a skill badge by completing the Introduction to Generative AI, Introduction to Large Language Models and Introduction ... to-sequence tasks such as machine translation, text summarization, and ..."
+    publishedDateTime: 2023-06-07T21:55:00Z
+    webUrl: "https://www.geekzone.co.nz/forums.asp?topicid=305851"
+    type: article
+    provider:
+      name: Geekzone
+      domain: geekzone.co.nz
+    quality: 19
 
 secured: "xl6StuB+RxzCllXZMr6LmP7FNS7n+FKAYAKdjdE8NUvAa5iJA6DBkfsCRunREwILZoJhj+hY+HJ5WEFSicywV4rTf/PTiO50joTekHUSU/rrZUBt60LEIkBa1wD56DJFJdag+ZtoX0q1vQs5h+ct/wplnDJ3bSbexBY3uIBjgwhGHeqANkpQTMNDm3mFREjmEyB6R0/vMltq3upOP7a/KMIA5t6Uc6lPh48pZ67J8GSkVJu2dA5BGuOJ4KhEi/FHyAFjjCht6TjOjMdB0h5BYUeqrM7K4POeI9NG6Y4l5TAJK5YrnsB8/bHF9p+1QvgTsS1GzWoFD3fKEaSOdQmPPXrHxqIeY7vY8yhNUsx0d1arjbSUQmQjHvmeQ9AbHKO9Bk2z5vQcTTJPJL0y78LDp19bfa74gUM1bIwStvlT1jVj97+HuP2HCQDLgP3e6VEVyXaZ+8YyqSnOVIzJmwxhD8pinbA7DvkoAwu+vv4gjMdx4QwzIRkEmcSGrI5Le3qHXo1KY0ggFuDckgfFGYkQ2Q==;POjatFKArx+5Wxn/pkYslA=="
 ---

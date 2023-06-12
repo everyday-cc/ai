@@ -41,15 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "An AI chatbot might soon slide into your Instagram DMs"
-    excerpt: "Instagram is reportedly working on an AI chatbot that will let users choose between 30 different personalities to chat with."
-    publishedDateTime: 2023-06-07T18:21:00Z
-    webUrl: "https://bgr.com/tech/an-ai-chatbot-might-soon-slide-into-your-instagram-dms/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
   - title: "Facebook, Instagram to get ChatGPT-like smarts as Mark Zuckerberg’s Meta plans big generative AI push"
     excerpt: "Mark Zuckerberg, who plans to incorporate generative AI into Meta’s flagship products, talks about his AI plans at a meeting held on Thursday."
     publishedDateTime: 2023-06-09T11:57:00Z

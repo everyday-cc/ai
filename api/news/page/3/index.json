@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-09-how-to-navigate-the-hidden-risks-of-ai-and-digitization.md",
+      "title": "How to Navigate the Hidden Risks of AI and Digitization",
+      "excerpt": "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777",
+      "originalUrl": "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1685715379-GettyImages-1434121527.jpg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-qualcomm-may-be-a-hidden-ai-winner-says-analyst-smartphone-chips-are-why.md",
+      "title": "Qualcomm May Be a Hidden AI Winner, Says Analyst. Smartphone Chips Are Why.",
+      "excerpt": "TD Cowen analyst Matthew Ramsay says chips within phones, such as those the company makes, could handle some of the processing for AI queries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/qualcomm-stock-ai-chips-winner-6e854ae5",
+      "originalUrl": "https://www.barrons.com/articles/qualcomm-stock-ai-chips-winner-6e854ae5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-796661/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5",
+      "publishedDateTime": "2023-06-08T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-introducing-popularity-tuning-for-similar-items-in-amazon-personalize.md",
       "title": "Introducing popularity tuning for Similar-Items in Amazon Personalize",
       "excerpt": "Amazon Personalize now enables popularity tuning for its Similar-Items recipe (aws-similar-items). Similar-Items generates recommendations that are similar to the item that a user selects, helping users discover new items in your catalog based on the previous behavior of all users and item metadata.",
@@ -157,57 +252,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-08-linkedin-launches-generative-ai-tool-to-write-ad-copy.md",
-      "title": "LinkedIn launches generative AI tool to write ad copy",
-      "excerpt": "LinkedIn today launched a generative AI tool called AI Copy Suggestions to help advertisers draft texts for their ad campaigns.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/linkedin-launches-generative-ai-tool-to-write-ad-copy/",
-      "originalUrl": "https://venturebeat.com/ai/linkedin-launches-generative-ai-tool-to-write-ad-copy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1081412082.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-08-nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems.md",
       "title": "Nvidia’s new AI “Superchip” combines CPU and GPU to train monster AI systems",
       "excerpt": "Early last week at COMPUTEX, Nvidia announced that its new GH200  \"Superchip\"—a combination CPU and GPU specifically created for large-scale AI applications—has entered full production. It's a beast.",
@@ -269,7 +313,7 @@
       "originalUrl": "https://www.mid-day.com/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -495,7 +539,7 @@
       "originalUrl": "https://venturebeat.com/ai/to-combat-gpu-shortage-for-generative-ai-startup-works-to-optimize-hardware/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -744,7 +788,7 @@
       "originalUrl": "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 281,
+      "heat": 271,
       "tags": null,
       "images": [
         {
@@ -945,6 +989,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-08-google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care.md",
+      "title": "Google Cloud Partners With Mayo Clinic To Use AI In Health Care",
+      "excerpt": "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the",
+      "sourceUrl": null,
+      "webUrl": "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/",
+      "originalUrl": "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/",
+      "cdnAmpWebUrl": "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/",
+      "publishedDateTime": "2023-06-08T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek News Central",
+        "domain": "geeknewscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-iit-bhu-showcases-efforts-in-healthcare-and-ai.md",
       "title": "IIT-BHU showcases efforts in healthcare and AI",
       "excerpt": "Varanasi: The Indian Institute of Technology (BHU) displayed its efforts in the areas of healthcare, biomaterials and artificial intelligence at the t.",
@@ -1132,100 +1219,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-ai-meets-agriculture-with-new-farm-machines-to-kill-weeds-and-harvest-crops.md",
-      "title": "AI meets agriculture with new farm machines to kill weeds and harvest crops",
-      "excerpt": "Artificial intelligence is now hard at work on American farms. New machines are used to kill weeds and harvest crops, speeding up the process. NBC News’ Jacob Ward shows us how it works on one Central California farm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-meets-agriculture-with-new-farm-machines-to-kill-weeds-and-harvest-crops-180937797700",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-meets-agriculture-with-new-farm-machines-to-kill-weeds-and-harvest-crops-180937797700",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1686180263552_nn_jwa_ai_revolution_robots_farming_230607_1920x1080-0lxquw.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo180937797700",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo180937797700",
-      "publishedDateTime": "2023-06-07T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-contextual-ai-emerges-from-stealth-with-20m-to-pursue-artificial-specialized-intelligence.md",
-      "title": "Contextual AI emerges from stealth with $20M to pursue ‘artificial specialized intelligence’",
-      "excerpt": "Contextual AI, a new enterprise-focused AI startup founded in Palo Alto by veterans of Facebook AI Research (FAIR) and Hugging Face, today emerged from stealth and announced it has raised $20 million in a seed round led by Bain Capital Ventures (BCV),",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialized-intelligence/",
-      "originalUrl": "https://venturebeat.com/ai/contextual-ai-20m-artificial-specialized-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_dollar_bills_flying_out_of_a_computer_b43d3a39-ce5b-4104-930c-4893233dd616.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

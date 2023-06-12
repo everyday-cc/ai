@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-and-salesforce
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
 type: article
 quality: 83
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,82 +30,54 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce doubles down on generative AI with Marketing GPT and Commerce GPT"
-    excerpt: "Salesforce today launched Marketing GPT and Commerce GPT to help enterprises quickly deliver personalized campaigns and shopping experiences."
-    publishedDateTime: 2023-06-07T23:07:00Z
-    webUrl: "https://venturebeat.com/ai/salesforce-doubles-down-on-generative-ai-with-marketing-gpt-and-commerce-gpt/"
+  - title: "How AI Can Help Customer Experience Agents"
+    excerpt: "When reading recent AI headlines, many people may be afraid of AI or worried that it will render their day-to-day roles obsolete."
+    publishedDateTime: 2023-06-12T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a465eb8717a0459e633478/0x0.jpg?format=jpg&width=1200"
+        width: 853
+        height: 568
+        isCached: true
+  - title: "Generative AI can help bring tomorrow's gaming NPCs to life"
+    excerpt: "Today's non-playable characters are a step above the Ghost Gang of yesteryear but they're still a far cry from human-level fidelity."
+    publishedDateTime: 2023-06-09T17:03:00Z
+    webUrl: "https://www.engadget.com/generative-ai-can-help-bring-tomorrows-gaming-npcs-to-life-163037183.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/_Clt3C93ea40vhgdQIikgQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/6ff8cac0-0620-11ee-87bf-cbb98ba4bcdc.cf.jpg"
         width: 1200
-        height: 616
+        height: 630
         isCached: true
-  - title: "Google Cloud Partners With Mayo Clinic To Use AI In Health Care"
-    excerpt: "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the"
-    publishedDateTime: 2023-06-08T07:58:00Z
-    webUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/"
-    ampWebUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
-    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
+  - title: "How AI Can Help Doctors As They Solve Complex Problems"
+    excerpt: "AI has an essential role to play in augmenting the work of doctors as they make dozens of high-stakes decisions a day."
+    publishedDateTime: 2023-06-09T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/how-ai-can-help-doctors-as-they-solve-complex-problems/"
     type: article
     provider:
-      name: Geek News Central
-      domain: geeknewscentral.com
-    quality: 59
-    images:
-      - url: "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Ethics should be at the foundation of building AI systems: Salesforce executive"
-    excerpt: "There has been growing concern among regulators around sensitive data collection from AI software and the need to balance privacy concerns with allowing room to foster innovation. CNA's Heidi Ng spoke to Kathy Baxter,"
-    publishedDateTime: 2023-06-09T03:47:00Z
-    webUrl: "https://www.channelnewsasia.com/watch/ethics-should-be-foundation-building-ai-systems-salesforce-executive-3547126"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Adobe Express gets generative AI tools to level up your design experience"
+    excerpt: "Adobe has been making headlines for its integration of generative AI into its most popular tools, such as Photoshop. Features like Generative Fill have taken photo editing to the next level, making it possible to add realistic-looking elements to a photo with the click of a button."
+    publishedDateTime: 2023-06-08T19:24:00Z
+    webUrl: "https://www.zdnet.com/article/adobe-express-gets-generative-ai-tools-to-level-up-your-design-experience/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 50
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--zEHybKOT--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/06/09/Screenshot%20(168).png?itok=WGtO9sDB"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Salesforce Connections - how Baptist Health personalizes its patient engagement and what AI may bring to the story"
-    excerpt: "How to personalize and scale patient engagement in the hugely competitive US healthcare sector is a major challenge for all providers. New AI tech may be one way to achieve this, reckons Baptist Health,"
-    publishedDateTime: 2023-06-09T11:08:00Z
-    webUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring"
-    ampWebUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 35
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-06/medicine-g81bb96e1e_640.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Salesforce Connections - \"No offense to crypto fans, but this is real.\" Salesforce customers react to generative AI news"
-    excerpt: "Salesforce Connections 2023 kicked off with the expected generative AI fanfare - including the launch of Commerce GPT and Marketing GPT. But where do customers stand? I hit the show floor and found out."
-    publishedDateTime: 2023-06-08T10:33:00Z
-    webUrl: "https://diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news"
-    ampWebUrl: "https://diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 34
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-06/salesforce%20-%20retail%20ai.jpg"
-        width: 1260
-        height: 818
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 46
 
 secured: "+G87ZeBjr7pun9nsHo6HbT0+tEhrZ0Fwrbeo9pamt3jA3o3Z7R622frz9AwtyaPAMa7kd5izvytC7znrm+FOePSv6mfvP1VNMyf37AnoXGV76kX9AvD6HhOJlXsiQCfy6NHgppUfBLQyT5ZFPFXljVsXFoVqBPKEx5GgibBbs8BJGlSBgoBSZfeVyXHFx83a+LcTCjmXw+QArJ+9iEPaP8J62mTyUQLAMLqz3HwAGzndcx6nBD63dn/Szx8orXOkNWaZAwwhvAGPfWxfKPytxX6Y9Ru4DCac6SPj1eyzjjsE2VF27jh0nfLyM3CSufhECTgJMhNoVwRCP20LE0wgI1X4t/4/vq8rDZYy1WE8sA38NRvuX5aCcEn7/R6de7qCcYZPTrGiYCbH5ohW1n1M57lPO0gk6VzlR4Kc2CVjeDBBofw0tZLjdcCzoPMdPrXy9NLrvgf/fvfH/4QyZkfNShsU4Q5BAwxkmViNmNYTlJHgXAL2k/zbLtJ/uINMky+4CFcD09IPKywHlrdT7H6FnQ==;QElJsE+iJcVBL5KDCmbNyw=="
 ---

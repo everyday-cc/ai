@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Automation And Forecasting: Revolutionizing Business With AI"
+    excerpt: "One of the most promising AI technologies is the generative pre-trained transformer (GPT) model, a natural language processing tool that is revolutionizing how businesses communicate and operate."
+    publishedDateTime: 2023-06-12T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648337895224cd868d750fc7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 773
+        isCached: true
 
 secured: "9293EWo0u/shADqHu9Ab0Ymx0i3c5cYP7RGyvV3rUtcvgzg++PO8t7SCkUnHyUEXwmlUHOpnDlcVj1N1JWAYW3Jr1vAJkP+0vSAliRxNSdj9krRYrAEZIVQ0+hAUa7ddkOYwghMI+sfFLSXBJUyQCsmBFlA7aKBnK10x6VqBPlnw8qlM6zBc/eGRn+JcAvlUgU86YhogyGB0w50DgkGmuWQK7u2s2uB4C6pYTbO7N1qH+ARopZFQr+1Jg0tIYgmZZaefnnPfH2QTXeYxTjbEKb/lS78/5BqwDkZij8FXBvwSFyYPqqfZnvTEEj6nBTxiz+YwN0CYKLe+H+8bmR8zQkbf8KU+OaLL9lHcVSO59lo=;NzdsdRWeF2UDvlRd0SrOMg=="
 ---

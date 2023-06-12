@@ -189,15 +189,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 36
-  - title: "BHP and Microsoft use AI to boost copper recovery at Escondida"
-    excerpt: "The use of new digital technology to optimise concentrator performance at the world's biggest copper mine in Chile is expected to improve recovery."
-    publishedDateTime: 2023-06-07T17:18:00Z
-    webUrl: "https://www.mining.com/bhp-and-microsoft-use-ai-to-boost-copper-recovery-at-escondida/"
-    type: article
-    provider:
-      name: Mining
-      domain: mining.com
-    quality: 34
   - title: "Personal Injury Startup EvenUp Announces $50.5 Million Investment, Launches Gen AI Assistant ‘Litty’"
     excerpt: "And again, avoid manual data entry when it comes to the tabulation of bills.” Lastly, the startup is focused on further refining Litty’s generative AI capabilities. “We want to be able to accelerate the client’s ability to get to a demand draft ..."
     publishedDateTime: 2023-06-08T14:07:00Z

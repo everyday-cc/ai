@@ -38,17 +38,17 @@ related:
         isCached: true
   - title: "Self-driving car hits and kills small dog in San Francisco"
     excerpt: "An initial review indicated that the Waymo’s system correctly identified the dog, which ran from behind a parked vehicle. However, the vehicle was unable to avoid hitting the animal."
-    publishedDateTime: 2023-06-12T00:00:00Z
-    webUrl: "https://www.yourerie.com/news/self-driving-car-hits-and-kills-small-dog-in-san-francisco/"
-    ampWebUrl: "https://www.yourerie.com/news/self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/news/self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
+    publishedDateTime: 2023-06-12T10:25:00Z
+    webUrl: "https://thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/"
+    ampWebUrl: "https://thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
     type: article
     provider:
-      name: yourerie
-      domain: yourerie.com
+      name: The Hill
+      domain: thehill.com
     quality: 44
     images:
-      - url: "https://www.yourerie.com/wp-content/uploads/sites/27/2023/06/AP23077014398441.jpg?w=1280"
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/AP23077014398441-e1686565582597.jpg?w=1280"
         width: 1280
         height: 720
         isCached: true

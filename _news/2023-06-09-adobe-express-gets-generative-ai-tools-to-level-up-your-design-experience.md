@@ -22,20 +22,61 @@ topics:
   - AI
 
 related:
-  - title: "LinkedIn launches generative AI tool to write ad copy"
-    excerpt: "LinkedIn today launched a generative AI tool called AI Copy Suggestions to help advertisers draft texts for their ad campaigns."
-    publishedDateTime: 2023-06-08T15:52:00Z
-    webUrl: "https://venturebeat.com/ai/linkedin-launches-generative-ai-tool-to-write-ad-copy/"
+  - title: "How AI Can Help Customer Experience Agents"
+    excerpt: "When reading recent AI headlines, many people may be afraid of AI or worried that it will render their day-to-day roles obsolete."
+    publishedDateTime: 2023-06-12T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a465eb8717a0459e633478/0x0.jpg?format=jpg&width=1200"
+        width: 853
+        height: 568
+        isCached: true
+  - title: "Google Cloud and Salesforce partner to help improve customer experience with AI"
+    excerpt: "The two companies are coming together to analyze data with AI and help businesses create ads customers probably want to see."
+    publishedDateTime: 2023-06-08T20:49:00Z
+    webUrl: "https://www.zdnet.com/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/6c3f1f1d520c9f4a0429e5cc917d81087c1f7390/2023/06/08/8afc8c54-f7ab-4207-b16b-1a8741aed571/gettyimages-1332177687.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Generative AI can help bring tomorrow's gaming NPCs to life"
+    excerpt: "Today's non-playable characters are a step above the Ghost Gang of yesteryear but they're still a far cry from human-level fidelity."
+    publishedDateTime: 2023-06-09T17:03:00Z
+    webUrl: "https://www.engadget.com/generative-ai-can-help-bring-tomorrows-gaming-npcs-to-life-163037183.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
     quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1081412082.jpg?w=1200&strip=all"
+      - url: "https://s.yimg.com/uu/api/res/1.2/_Clt3C93ea40vhgdQIikgQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/6ff8cac0-0620-11ee-87bf-cbb98ba4bcdc.cf.jpg"
         width: 1200
-        height: 606
+        height: 630
         isCached: true
+  - title: "How AI Can Help Doctors As They Solve Complex Problems"
+    excerpt: "AI has an essential role to play in augmenting the work of doctors as they make dozens of high-stakes decisions a day."
+    publishedDateTime: 2023-06-09T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/how-ai-can-help-doctors-as-they-solve-complex-problems/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "nPq4MEA6O0j2cvHY2WfuH+WAJgz942JVuwVpqcbqoVWUifHz55/wudnUvQ8R+ZhnGDkPBOZGKckPoDnRI4kwaadExzl59h337neMuTvUYCl/L9K/xMQb3bzrMFA8CfwetcQ9+14+KdQEwIJSVWXO/HLKN7nRBWoCuB/eItxCgPzLOCb/5RrsFJz47jTHLqyEpxw28GLekoj8i8KY/u/st777i9IMpuKFpl8hs47sp3JhKQOGBNydntg2Znpgr2iWP28uzAcDn0OtIFUI6E8epwCvF6SXZQQtM8F3Tqr01z4vC9i4IvhhNwqovb3NXs3ZH4219aHUg+aN1NTP5catcavVTKPXlw7QfPDknalP+HOtCldGZEINxP8h8R58AWZhkT8p0urEKYGso1DsSfjxZQWfNDRwWaOmfUFr9kRMrWlOELiY/F5vtNdWEyqHp0yv28H9NeH/yCEi4U51g9Zm7zX4mMef2J22Hx3cGc+3AbZiqiM1odrxg/ASfhRbUIvFm6uuOcW9hQ43OiiDFxh8UA==;Cd5FoPsnEo18SNtC9ZDEoA=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Retrain ML models and automate batch predictions in Amazon SageMaker Canvas using updated datasets"
-    excerpt: "You can now retrain machine learning (ML) models and automate batch prediction workflows with updated datasets in Amazon SageMaker Canvas, thereby making it easier to constantly learn and improve the model performance and drive efficiency. An ML model’s effectiveness depends on the quality and relevance"
-    publishedDateTime: 2023-06-07T17:55:45Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/retrain-ml-models-and-automate-batch-predictions-in-amazon-sagemaker-canvas-using-updated-datasets/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 107
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/07/retrain-ml-models-batch-predictions.jpg"
-        width: 1022
-        height: 505
-        isCached: true
   - title: "Host ML models on Amazon SageMaker using Triton: ONNX Models"
     excerpt: "ONNX (Open Neural Network Exchange) is an open-source standard for representing deep learning models widely supported by many providers. ONNX provides tools for optimizing and quantizing models to reduce the memory and compute needed to run machine learning (ML) models. One of the biggest benefits of"
     publishedDateTime: 2023-06-09T19:48:33Z
