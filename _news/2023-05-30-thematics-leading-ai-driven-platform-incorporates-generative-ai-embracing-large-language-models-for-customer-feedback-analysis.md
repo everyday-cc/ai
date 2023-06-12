@@ -3,18 +3,18 @@ category: news
 title: "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis"
 excerpt: "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients."
 publishedDateTime: 2023-05-30T11:14:00Z
-originalUrl: "https://www.charlotteobserver.com/press-releases/article275901341.html"
-webUrl: "https://www.charlotteobserver.com/press-releases/article275901341.html"
+originalUrl: "https://www.miamiherald.com/press-releases/article275901341.html"
+webUrl: "https://www.miamiherald.com/press-releases/article275901341.html"
 type: article
 
 provider:
-  name: Charlotte Observer
-  domain: charlotteobserver.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "L7vhDtSwoh3WGbJ8xH9I/sUsFdQDyKttuDKzegIeusIOy20Rcq+fe8irAUwwWTWCS0FfcJo2z2RtvCDfNDMvLDPAEvt8YNAePi3oamx4Gji0Wm/qFrDrwVm+F4Ve6H09quXabVV63ilOf1DEHao/1uyvXZNJowyxbvQ9yrH6ks5PN0fA1Hwz1YTvq5GTc+l64R1sB806SnJ7vuIZ6R1OREwFKLduMmp/QGE0jVTMwqLYX5Q6zkBwy79JjjkzT+sRFg+Z89jUZHWW0olm3OEsqnaZBWoRwb0k0wGZT5ZjcghT8bmV47vDmSOdiWCYygG5OPAZHl/y1jBnwirJr08KArG/nFMMHgEIhFV7wjtvprhh4Y2kQCsp6vKByLRsPVD3fZOyCcWsRSZLYbbdlex9wVljpXxl3TLBsF8nuwoREgdY/z/jYcHQcTFRp5dtLFFDN0sWFbx9JCd3Xf+CslTtvOrtYwrSJaaNJrV92MztsbHYbGGOT3ng81fOKjrvDAGJGvmE6dfbEmdvLbjD2EHjnw==;XjcenIyip7gPCwViWT9bsw=="
+secured: "y5Taxp2sG7tTdrcRGGKVdoyBWugVXhqNhQjxOhoGGcMmU9wHwXm951Hcpu2qoHpXdsMplojCWBJowGHNBSD8jOusqJs+sWEgI33IcioMOtgxTL5yAaLsIpYOPdEutnwjQmn28L/y3jIuEqvOf6/eMr3puyIALHsO4l86CYyk0OwxLCzgdRKusBcW7WnXnRb/ZhpqDbIhmHLi3v6rnVGhEas6/8fgOBpUU19hq2X06T90P0k6zB4iFTatWg9qYISaSGFQd87IGM5cD26rJ/8PbTi6BVVblxgPuq/8Z5E2NjeWhmSJ7B/OsksrmCZ5ohksF8BDqvDQQYPvKiKZKSSNGLzUqX/HoFJfUwfZ6nVF38iwgsiF9f5kgbhZ+WsjybtpzdPijYsTwHWRpyTgbuQqnmaWLuX+Ric+WKNPdWyxjzrp9dUM99malQ+lDmXeVA/FiLQLQ9aTjyg68DEOI6SEwIHB0Ol/gAzwlwywraT1VZgtjWcVmNx5vAeqAGWiEmWij4jnlJq4ouYP1AnXA2DBtA==;79Jew0pikfDvCXNsFFyQ8A=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/deepmind-applies-games-ai-to-fundament
 webUrl: "https://thenextweb.com/news/deepmind-applies-games-ai-to-fundamental-algorithms"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: The Next Web
@@ -29,61 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind repurposes game-playing AIs to optimize code and infrastructure"
-    excerpt: "DeepMind's AIs mastered Go and Chess - now these game-playing models are taking on more practical (if boring) problems like video compression."
-    publishedDateTime: 2023-06-07T15:35:00Z
-    webUrl: "https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/"
-    ampWebUrl: "https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/amp/"
+  - title: "'This is just the beginning of a revolution': DeepMind cofounder says personal AI assistants will make us better at basically everything"
+    excerpt: "Personal AI assistants that can do everything from shop and negotiate on your behalf are the future of AI, Mustafa Suleyman, the cofounder of DeepMind and CEO of Inflection AI, said Tuesday during ..."
+    publishedDateTime: 2023-06-08T14:40:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/articleshow/100831165.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/amp_articleshow/100831165.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/amp_articleshow/100831165.cms"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 103
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 41
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/deepmind-illo.jpg?resize=1200,680"
-        width: 1200
-        height: 680
+      - url: "https://www.businessinsider.in/thumb/100831113.cms?height=275&width=412"
+        width: 412
+        height: 275
         isCached: true
-  - title: "Inside Google DeepMind’s approach to AI safety"
-    excerpt: "Lila Ibrahim, COO of Google DeepMind, will speak at TNW Conference on June 16. Ahead of the talk, she shared the lab's approach to AI safety."
-    publishedDateTime: 2023-06-09T09:10:00Z
-    webUrl: "https://thenextweb.com/news/inside-google-deepmind-ai-safety-strategy-lila-ibrahim"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-4.jpg&signature=95de9df374e2fef286cd748ac5d07e5c"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Google DeepMind’s game-playing AI just found another way to make code faster"
-    excerpt: "AlphaDev is built on top of AlphaZero, the reinforcement-learning model that DeepMind trained to master games such as Go and chess. DeepMind’s breakthrough was to treat the problem of finding a faster algorithm as a game and then get its AI to win it—the same method it used to speed up calculations in last year’s research."
-    publishedDateTime: 2023-06-07T15:27:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/07/1074184/google-deepmind-game-ai-alphadev-algorithm-code-faster/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/07/1074184/google-deepmind-game-ai-alphadev-algorithm-code-faster/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/07/1074184/google-deepmind-game-ai-alphadev-algorithm-code-faster/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 73
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/2570_MIA.jpeg?w=2686"
-        width: 2686
-        height: 1511
-        isCached: true
-  - title: "DeepMind AI's new way to sort objects could speed up global computing"
-    excerpt: "Sorting algorithms are basic functions used constantly by computers around the world, so an improved one created by an artificial intelligence could make millions of programs run faster"
-    publishedDateTime: 2023-06-07T15:47:00Z
-    webUrl: "https://www.newscientist.com/article/2376512-deepmind-ais-new-way-to-sort-objects-could-speed-up-global-computing/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 34
 
 secured: "1dt/7jFTGNX3YGwM4ti3SM9F6NVObeItvjaR73JwbKQKiR+E3FVhrBTrQuVIuJ3a7qDHj6d16S6r40Il9lYTjUZpZX2KLyFHiJq5c9ihdeRTS/O/5rovrJ63rIImlqk/ZAN/JVn5g/Qf9aLNXhZ1LeW75lpMwATbyS6DnpfuQPTihBiTLnhhP96Dr5ibp3dlU1Bx5AUtybwFZq7+dIaZuXDFXaGFn3yaTGPQQ6usI7R0fxmRIUfjKw+PXSKYtssW3tb3DwPBkxns0xQ2bsnLoJyPV8Qt0fw79OD/88RJYb1eGZL/BmYH26f9mUcbDxjNGt/7ihlj4yvTT1F7lGWaVzft9KO6uEjofLmWJ6IoqKhbvkLDgeR12MFOY+2ehFJdeS6JJ4MQgagX4a5uQ7v3kATVU29H5ZscUyKN33LqWs5Eyop0JP97+RBHVXDPzhPjDU7qfj7V+bb6PM0c3/fO9v4uafSOm9puLsMCcXvLLHuoEylEnQYGhQVd26U20qNksPoEYKm+UHzvFyn3YdCPPA==;JBYM03iJytTriN/2GoVPjA=="
 ---

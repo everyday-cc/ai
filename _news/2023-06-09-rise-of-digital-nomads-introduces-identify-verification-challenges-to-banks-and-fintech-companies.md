@@ -25,31 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Intuit introduces proprietary large language models for fintech with GenOS"
-    excerpt: "Intuit, makers of TurboTax, Mint, QuickBooks, MailChimp, and CreditKarma, announced the launch of GenOS, an operating system for developing and deploying large language models for fintech."
-    publishedDateTime: 2023-06-07T21:00:00Z
-    webUrl: "https://cointelegraph.com/news/intuit-introduces-proprietary-large-language-models-for-fintech-with-genos"
-    ampWebUrl: "https://cointelegraph.com/news/intuit-introduces-proprietary-large-language-models-for-fintech-with-genos/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/intuit-introduces-proprietary-large-language-models-for-fintech-with-genos/amp"
+  - title: "FITC sets to hold 2023 edition of annual fintech conference"
+    excerpt: "FITC, the world-class, innovation led and technology-driven institution, which provides learning, insights, advocacy, and advisory services to the"
+    publishedDateTime: 2023-06-12T08:31:00Z
+    webUrl: "https://businessday.ng/sponsored/article/fitc-sets-to-hold-2023-edition-of-annual-fintech-conference/"
+    ampWebUrl: "https://businessday.ng/amp/sponsored/article/fitc-sets-to-hold-2023-edition-of-annual-fintech-conference/"
+    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/sponsored/article/fitc-sets-to-hold-2023-edition-of-annual-fintech-conference/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 42
+      name: businessday
+      domain: businessday.ng
+    quality: 44
     images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/820b2ec6-2648-401c-84af-f99b31b5923e.jpg"
-        width: 740
-        height: 492
+      - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2023/06/20230612_092323_0000-450x300.png"
+        width: 450
+        height: 300
         isCached: true
-  - title: "The 3 Most Promising Fintech Stocks to Buy for June 2023"
-    excerpt: "Fintech stocks are returning to a more sustainable growth path following the monstrous growth experienced during the pandemic. However, this shouldn’t mislead investors about the sector’s long-term potential."
-    publishedDateTime: 2023-06-07T15:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-3-most-promising-fintech-stocks-to-buy-for-june-2023"
+  - title: "EBAday 2023: Fintech Zone finalists announced!"
+    excerpt: "EBAday, the annual event for payments and transaction banking executives, will return on 20th to 21st June 2023 at The IFEMA in Madrid, Spain."
+    publishedDateTime: 2023-06-09T09:45:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42451/ebaday-2023-fintech-zone-finalists-announced"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/ebaday-2023.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "aQWRCYbk4v8qW7uokLFVtEn63VPr7J8ece67z21AejdMfEsti/Pn/WMZhJZIN+fMl0mylcr0MyWhKEpcMudG7/rq82XePXEwGD4dma4LOl14mZs0PN0wHSQRWanA0ot9bOfX4WD8rBdCyIlpWSEh8jmwQwnLyPCyrUxMRj4iLB3qfUtrlW/tzhpzd4NhR21fFK1gqsvff+PbJoV0z9psCb40oxMsyJdzN++GbgScwoSL5OEKXeDCrnTcXbK0WDEPYbcJHwKXf2m79xncsgUUcSHeoHB8T4ED6hDYeB6YfmFaJ5nCoT3Cu35gdFJfyeeW3DeedV9z7xfmY9UdNpXzTN6gHKVuTkharP+HmLa73e4=;xmmCYYQVW1pivPVXkwjoWA=="
 ---

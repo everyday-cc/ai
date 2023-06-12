@@ -30,6 +30,19 @@ images:
     height: 413
     isCached: true
 
+related:
+  - title: "Is Anthony Albanese facing a tipping point on the Voice referendum?"
+    excerpt: "Should they talk more about the recognition of First Australians or tell voters more about how the Voice would work and what problems it would solve? The even harder decision is to redraft the proposal. Albanese has rejected the call from Liberal MP and ..."
+    publishedDateTime: 2023-06-12T08:05:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/is-anthony-albanese-facing-a-tipping-point-on-the-voice-referendum-20230612-p5dftt.html"
+    ampWebUrl: "https://amp.smh.com.au/politics/federal/is-anthony-albanese-facing-a-tipping-point-on-the-voice-referendum-20230612-p5dftt.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/is-anthony-albanese-facing-a-tipping-point-on-the-voice-referendum-20230612-p5dftt.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 24
+
 secured: "xTlmstAbtKoNK+MG06Gs1d3W9X33qTJy9Av8YTo9/5j9mIE6f6iGhjGY38nH4oBuG1zyubkwjXKWyjOYXhmRRaraF3FP+q12J8erQ8QKlH4Y3Go11X531Aeu6lq+wCEl0uNzLBUZ7OA7hVkUmFKZzsbFKTAgFPHAxvsIxhVhLRoO924Sb2Bxvij5lsHRDCaAPDrYaOamXxg4QJ00DU2HwEaWaal0JZZkWob5Pf2qk6pb5BMk3HwbJ/cjHQDkggZQXw7XdxgXiH+QMGpV0vA3MTBtE+jNtmDjuBLb24n0Xj80YTKObTp7yydMPMLVmVuzUm21HEb1S+HN7z7xIA4e2AAAJV+rAEseiIFmVGE12w0=;SpWUwSluVmIgZowYPDrOnA=="
 ---
 

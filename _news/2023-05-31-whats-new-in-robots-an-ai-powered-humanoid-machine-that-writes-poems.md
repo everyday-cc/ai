@@ -15,6 +15,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "ItW6d09f+F6hLUBcnhk/DdQWbg4u6JKV2M8QPS2Ym5TgOjWv4L7Q4xpZkwHuVofPJ2WQt5bvphR0p3V7akrZrCuKl2Qv6g+bZQwsAvQCl9s6A/TXYBF6QZb81Erncs2aJ8/Zx6UJ7x+S1sK3fUXBAGzEATOYtrgZCi00PSp7MnRHtBUv+ABf4sqyjfDQicZb2ALI5Bg2Q1bb/438gcb4Ozs8xjOZ/iTYtDEImLzx5QHY8Gsn3xDmKv7pgr/1pUNhJjV1cAeey99oKxXlvjz+uHR6CXMI//Jisn2jwERhDeIhqrKzLl6z54mjhHBZxsCWeizW82rERbaBlmsGixFVuydx1UAsOMn4WdDojNrNT8U=;8ffz83XpHhxSFo5Cwe94Hg=="
+images:
+  - url: "https://s.hdnux.com/photos/01/33/06/50/23882290/3/rawImage.jpg"
+    width: 2048
+    height: 1365
+    isCached: true
+
+secured: "nRdSkSlPKMiUKxBSWCy4lT8UFN5L5fjmXcmvRfgxISQVmvWU44XnQhQx6aHB6m85wsCBVsK2a15mvpJAKc658D0fjwAGVHjz7RvGoHzM+VEMHNn87HspuO0uGLeuLUcs+4NEsnhXqjUR4LRNnBkEw5LHWQjw1wMMQxCWCKLkDffl+znNxRJYXtYkFWq/eVhPyW4RDEBbe4vgXvbdENO1IuJUOD7F09Di+BcV10hyYZKYUUNer37ihXXhpXdogBH8ZxJEWKFoUqawZyzGlgk4jQiympmo265x3pb1fQTQhdG/p9RIWTsX9VHTIsl86b0j9+31RhdTXEC8co1OnSZgK8FlDzsAtascdtKKhL368nk=;RbzhPDSpvq6g0kKTTmQGkw=="
 ---
 

@@ -35,22 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "'This is just the beginning of a revolution': DeepMind cofounder says personal AI assistants will make us better at basically everything"
-    excerpt: "Personal AI assistants that can do everything from shop and negotiate on your behalf are the future of AI, Mustafa Suleyman, the cofounder of DeepMind and CEO of Inflection AI, said Tuesday during ..."
-    publishedDateTime: 2023-06-08T14:40:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/articleshow/100831165.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/amp_articleshow/100831165.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/amp_articleshow/100831165.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 41
-    images:
-      - url: "https://www.businessinsider.in/thumb/100831113.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
 
 secured: "t8sKyAyPGZcX6VWx/Ds03Z70EdvcTXNGVSmXWdndg5x/vW7F/dM4Q6SgpyAKcyrmuq7arWKfJocNsmAxmwI4ty6F2ekEhceYIH4Vig033iGxWJhohaa9ku97srcWtz8jNen77yU/D4FneQSkkSo+z9Ruo/jom8Vap+2mqdoi3IzPR+QV7iozHumJzgOzV3T3QrJg63FKreszHClpCrGs14VMwcuvM2oVWPI3NmC1FUT9XOvAXg3prK0bJlq8ABt983G/wIj5Q09iIdmCFtCzxSGFMS8z8o8Nku42/S9N2UqJZdiimsG3zebkF4ZQFkBmonDYg8tYC/sSGePvqS8na5u7XB1ezHPsOZlOlparVG7Azyy1jWwRvwrsP6ImgQIzSk1eFFIR7pAN1QTottsjWV7vVGq5MpK8ltAAfeztlHyEAhOxIDMtr3updf9uIyaVEpXiV5D9obPbBrjLv5y02skIlGlQjxyr5IczG1Uj7bZv2EHuyRwMcHUvnqyBZzFpvwwXXoi2WcTJEXazZDp8IQ==;yn+YALYWCenGIPeZag+ERw=="
 ---

@@ -22,6 +22,22 @@ topics:
   - Facebook AI
   - AI
 
+related:
+  - title: "AI does not want to kill you claims venture capitalist"
+    excerpt: "It is the venture capitalists that want to do that Venture capitalist Marc Andreessen, who has coincidently invested cash in AI, says that there is nothing to worry about and it the technology is not going to kill you."
+    publishedDateTime: 2023-06-12T09:40:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57065-ai-does-not-want-to-kill-you-claims-venture-capitalist"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/8a1d1473e1cbc4958f6149c31f26a970_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+
 secured: "EKYNOEOFA8iMCU7iuXoQP2LtZ7tgai0bZA8HDoTkF3uyEKPayrDjH4iYMiz/oG6N9jOXjqH27n3dWbWu8MKAucM0szBRB/VMyfejHO/xdf6CzuhMmtBtEE+ym+SzZEzqFpHNdjPk+PCUzko71fH9LJM/Iq+9q/2nOzrbsFyMHDdHU9AxV8SktgzWtWPZ0tMl27jlXembUXc4Bdk9DfmmUViKwKGoRWy3gd1VT3Xsd+3sI71qdwsLI5dP5b5Ytcueymcfrd3r7rTJ0uMgDBcJ/hENjHhlRUydDFJ0RRqqJgT2mh/mxfZeaHWizYb4MGbDAzCPHtGyRAs6AqFXSqQam47XmCw1HJGU2DNEBiTJqxOx2qeupRyr18qgacHfE5PnReOFcGSEBruz6ES96hczvfY3SrWUyAfJahOhL6EkE7cTIFASYqwx8eAneveFm79i4WYPe0SVvYxeTOODGzsSjDdqP6GDQHchuZaeugdOH9pd2rqE5UfX5BK55ywelnRt8qgD7ge5fYNVAYI5I1nCIQ==;bc0fs8lZlxbBIzlixgnGJw=="
 ---
 

@@ -52,15 +52,6 @@ related:
         width: 730
         height: 486
         isCached: true
-  - title: "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise"
-    excerpt: "Contextual AI emerged from stealth today with $20 million in funding led by Bain Capital Ventures (BCV) with participation from Lightspeed, Greycroft, SV Angel and well-known angel investors including Elad Gil,"
-    publishedDateTime: 2023-06-07T16:40:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the/article_07ae5763-9554-5f5f-badd-ca35121e3a06.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 3
 
 secured: "jI9O6j5K7SevmaZwHBFlxSGm05PBBJcnL8tLUxdV+MLlsTCuV9nvr/cnbOmRkDMNLe9e3ypiqyLOUqRT3HSN42RThTW0IE8pY68N67ShqamHDz7OcZiauOIN6J2xNf091vVUXj90n24q3Xzo/RgtwTBLUXj4ifAvsh+x/Gp8BwbZubrxkG66VAs1QzMWOHepvW1xbIP16XFq0/eW4tQx2TqrNVR1VpIXjCVyeI4J9cgthAf9x0h6KpcCvxz9UYpZRjo/NBs1RAoe0lFbj1b/MGSojUuDC8oxjMztrkVviiEuFLo+XMRDFhcP8PttISFCjWB7LSEx4VeDCRz6BbG5akMMtEiU1hZbRCb+xD5mLts=;EOhlUFMfcqH7yaBvlasDJA=="
 ---

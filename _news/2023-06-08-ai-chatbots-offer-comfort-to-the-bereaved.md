@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Instagram Reportedly Developing AI Chatbot With 30 Personalities"
-    excerpt: "Meta is reportedly testing an Instagram AI chatbot that offers users the choice of switching between 30 different personalities. A screenshot (Opens in a new window) shared on Twi"
-    publishedDateTime: 2023-06-07T15:37:00Z
-    webUrl: "https://www.pcmag.com/news/instagram-reportedly-developing-ai-chatbot-with-30-personalities"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02AjtLzVbG0hbhR2FyEyKiP-1.fit_lim.size_1200x630.v1686147613.png"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Robots and Artificial Intelligence"
     excerpt: "Lindsay to discuss how artificial intelligence is reshaping great power competition and intensifying the geopolitical rivalry between China and the United States. Heidi A. Campbell, professor of ..."
     publishedDateTime: 2023-06-08T00:00:00Z

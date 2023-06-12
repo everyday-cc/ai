@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Rishi Sunak in D.C. with Ukraine, economy, AI on agenda for Biden meet"
-    excerpt: "The war in Ukraine is top of British Prime Minister Rishi Sunak’s agenda as he starts a two-day trip to Washington."
-    publishedDateTime: 2023-06-07T16:51:00Z
-    webUrl: "https://www.seattletimes.com/business/rishi-sunak-goes-to-washington-with-ukraine-economy-and-ai-on-agenda-for-biden-meeting/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "MkA61EiROFBj08fLT4WSwjWccjtDUyz1d36ptYDvdYstoxtd28gH5E3NqM03lc3ITyvejA+PabLg6z1GaR3M97ZZqzgDQD6xDi1DVXQxWEq6ayY6eVcgoNmr4u72rdltjLlYUPl/NP3Z+fzZjci/tXH3fbI6wsmClumMwzr61LF+bX1Xvf89LYmME0kPpSn99hw2T3znitOY8pIjjCcCkv4tWiKDislukVWbJcTpK6lTh7wtAdOZhdIBFtvvDpAUXBDpvMsVBx+mrcFRtwlzuo95CvULEP0HVf2RJPuPQskbxkFgdYbM8qRXzI5vcYSajGS1gV4reUjDYCEU7tgaxzknAg6/k8Hjye946Mcid8LJtNFWZzquODZUceGiaDd+dqVwnXKWYwu7IOSzyv5Gr7WpZk8cZ5hr6Brea8n4LYRSSbnviJkD9kJbsyP+8NvKQi1j330/oL0sA13F2a8xxA6SCbl4GHZ68hOaRLGYCjbTdKlyx5ScqY9bHIF17c3onjUHwbj7/on7ZiR9VeZGZQ==;UksKKXXE2BSpHLLJ5/mVTg=="
 ---

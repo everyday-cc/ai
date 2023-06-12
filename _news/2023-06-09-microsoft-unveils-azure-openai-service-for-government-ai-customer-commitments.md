@@ -116,31 +116,20 @@ related:
         width: 512
         height: 262
         isCached: true
-  - title: "Microsoft launches generative AI service for government agencies"
-    excerpt: "Microsoft's Azure OpenAI Service will allow departments to adapt generative AI models for tasks including content generation and semantic search."
-    publishedDateTime: 2023-06-07T15:03:00Z
-    webUrl: "https://fedscoop.com/microsoft-launches-azure-openai-service-for-government/"
+  - title: "Microsoft Teams up With Indian SMBs to Unleash Generative AI Brilliance"
+    excerpt: "According to Microsoft research, almost 35% of SMBs surveyed were spending over 10% of their revenue on technology. Not only this, SMBs in India are also exploring leveraging the capabilities of Generative AI."
+    publishedDateTime: 2023-06-12T07:37:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-teams-up-with-indian-smbs-to-unleash-generative-ai-brilliance/"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 56
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2021/11/GettyImages-1337905405.jpg?w=506"
-        width: 506
-        height: 337
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/profile.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "OpenAI's ChatGPT Enters Government Sphere: Microsoft's Azure to Provide AI Models for Federal Users"
-    excerpt: "The company will not utilize data from Azure Government customers to train the AI models. Price Action: MSFT shares traded lower by 1.89% at $327.43 on the last check Wednesday."
-    publishedDateTime: 2023-06-07T15:03:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32759301/openais-chatgpt-enters-government-sphere-microsofts-azure-to-provide-ai-models-for-federal-users"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32759301"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32759301"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
   - title: "Sheikh Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence"
     excerpt: "The Dubai Centre for AI aims to train 1,000 government employees from over 30 government entities on the uses of generative artificial intelligence"
     publishedDateTime: 2023-06-09T04:00:00Z
@@ -154,20 +143,6 @@ related:
       - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/Dubai-AI.jpg"
         width: 920
         height: 630
-        isCached: true
-  - title: "Microsoft will provide the US government agencies with OpenAI’s GPT-4 AI model"
-    excerpt: "Microsoft is expanding its Azure Government cloud computing service by incorporating the advanced AI language models that power ChatGPT. This move follows the"
-    publishedDateTime: 2023-06-07T15:09:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-will-provide-the-us-government-agencies-with-openais-gpt-4-ai-model/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 50
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/08/Azure-cloud-image.png"
-        width: 1024
-        height: 768
         isCached: true
   - title: "We are seeing an artificial intelligence battle between Microsoft and Google: Beth Kindig"
     excerpt: "I/O Fund CEO and lead tech analyst Beth Kindig provides insight on stock performance and the development of AI on 'Making Money.'"

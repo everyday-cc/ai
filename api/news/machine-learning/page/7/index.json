@@ -2,6 +2,41 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-20-tentacle-leverages-machine-learning-and-natural-language-processing-for-new-ai-control-mapping-feature-empowering-organizations-to-reclaim-valuable.md",
+      "title": "Tentacle Leverages Machine Learning and Natural Language Processing For New AI Control Mapping Feature, Empowering Organizations To Reclaim Valuable Resources",
+      "excerpt": "The new feature, described as a market differentiator by beta testers, combines natural language processing and machine learning to quickly analyze an imported template and provide users with matc ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230418005989/en/Tentacle-Leverages-Machine-Learning-and-Natural-Language-Processing-For-New-AI-Control-Mapping-Feature-Empowering-Organizations-To-Reclaim-Valuable-Resources",
+      "originalUrl": "https://www.businesswire.com/news/home/20230418005989/en/Tentacle-Leverages-Machine-Learning-and-Natural-Language-Processing-For-New-AI-Control-Mapping-Feature-Empowering-Organizations-To-Reclaim-Valuable-Resources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-applying-ai-to-crack-the-problem-of-safer-better-petroleum-processing.md",
       "title": "Applying AI to crack the problem of safer, better petroleum processing",
       "excerpt": "To better examine and optimize the process of catalytic cracking, the team investigated neural networks. This type of artificial intelligence models how it processes data on the human brain ...",
@@ -1248,40 +1283,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-multi-class-classification-using-a-scikit-neural-network.md",
-      "title": "Multi-Class Classification Using a scikit Neural Network",
-      "excerpt": "Dr. James McCaffrey of Microsoft Research says a neural network model is arguably the most powerful multi-class classification technique. A multi-class classification problem is one where the goal is to predict the value of a variable where there are three ...",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2023/04/03/scikit-neural-network.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2023/04/03/scikit-neural-network.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
         "images": null,
         "publishers": null,
         "authors": null

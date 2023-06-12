@@ -29,61 +29,45 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind repurposes game-playing AIs to optimize code and infrastructure"
-    excerpt: "DeepMind's AIs mastered Go and Chess - now these game-playing models are taking on more practical (if boring) problems like video compression."
-    publishedDateTime: 2023-06-07T15:35:00Z
-    webUrl: "https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/"
-    ampWebUrl: "https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/amp/"
+  - title: "Google’s DeepMind develops a system that writes efficient algorithms"
+    excerpt: "Sorting is so basic that algorithms are built into most standard libraries for programming languages. And, in the case of the C++ library used with the LLVM compiler, the code hasn't been touched in over a decade."
+    publishedDateTime: 2023-06-07T21:44:00Z
+    webUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/"
+    ampWebUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 103
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/deepmind-illo.jpg?resize=1200,680"
-        width: 1200
-        height: 680
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1403644222-800x533.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "DeepMind made its AI name in games. Now it’s playing with the foundations of computing"
-    excerpt: "DeepMind wasn't only playing chess and Go for fun. The lab's new AlphaDev system applies the lessons from games to fundamental algorithms."
-    publishedDateTime: 2023-06-07T17:13:00Z
-    webUrl: "https://thenextweb.com/news/deepmind-applies-games-ai-to-fundamental-algorithms"
+  - title: "Can Apple keep the Metaverse dream alive? Plus, Google's DeepMind AI develop \"extremely\" optimised algorithm tool."
+    excerpt: "After Meta boss, Mark Zuckerberg has spent countless hours and billions of dollars on his Metaverse dream, has Apple just blown that dream out of the water with its new spatial reality headset? Plus,"
+    publishedDateTime: 2023-06-08T06:53:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/drive/can-apple-keep-the-metaverse-dream-alive-/102458142"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 76
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 32
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-6.jpg&signature=cdc070d431840e67fd8f122b3ceccef6"
-        width: 1280
-        height: 640
+      - url: "https://live-production.wcms.abc-cdn.net.au/5ad45e8c5f9db438c30c9e71f6e44722?impolicy=wcms_crop_resize&cropH=1103&cropW=1960&xPos=0&yPos=0&width=862&height=485"
+        width: 862
+        height: 485
         isCached: true
-  - title: "Google DeepMind’s game-playing AI just found another way to make code faster"
-    excerpt: "AlphaDev is built on top of AlphaZero, the reinforcement-learning model that DeepMind trained to master games such as Go and chess. DeepMind’s breakthrough was to treat the problem of finding a faster algorithm as a game and then get its AI to win it—the same method it used to speed up calculations in last year’s research."
-    publishedDateTime: 2023-06-07T15:27:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/07/1074184/google-deepmind-game-ai-alphadev-algorithm-code-faster/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/07/1074184/google-deepmind-game-ai-alphadev-algorithm-code-faster/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/07/1074184/google-deepmind-game-ai-alphadev-algorithm-code-faster/amp/"
+  - title: "The Download: carbon-capturing super trees, and DeepMind’s sorting breakthrough"
+    excerpt: "The news: A year after DeepMind used a version of its game-playing AI AlphaZero to find new ways to speed up the calculation of a crucial piece of math, the AI research lab has pulled the same trick again—twice."
+    publishedDateTime: 2023-06-08T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/08/1074316/the-download-carbon-capturing-super-trees-and-deepminds-sorting-breakthrough/"
     type: article
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 73
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/2570_MIA.jpeg?w=2686"
-        width: 2686
-        height: 1511
-        isCached: true
-  - title: "DeepMind AI's new way to sort objects could speed up global computing"
-    excerpt: "Sorting algorithms are basic functions used constantly by computers around the world, so an improved one created by an artificial intelligence could make millions of programs run faster"
-    publishedDateTime: 2023-06-07T15:47:00Z
-    webUrl: "https://www.newscientist.com/article/2376512-deepmind-ais-new-way-to-sort-objects-could-speed-up-global-computing/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 34
+    quality: 15
 
 secured: "8O72IEBq5vjgNk1tTg5vtcWrY0EgLhXm5c2n8E6BGAdIpgoLWxIR2xqncyk2A7Pbmmm5L7EnKaI7YYgrx9nBi02liqNx7xPHq1Ob5j67oxTxLfc2TYOjxeOZY+/b2koiR9IkSUJkYOTYIC3yN6xtbYYkbqdAxIaUZA73hEeX56q4a9qtGEra5YBQ0b9VjBM2b5Bp6rTJPLYy05+Tg/Unhkwab2T2g4+RlNZepmYdSoGXh8Rd2yuaYSXD8s6rjdXzO96Aa3xwzBgY1hPRjRbFV8mdPp3iiPfaVfXNW6qMTb1rzGVqPfCB2QAIQhw3ahDiR8Ze+MJfp8PSffSGIjsIMXIlf1Mo+l6xLkRc+VE4l4KE8WIGsX46ZEMF61qSsJ2/yDON6IcTKkSKuw8Idl2D9KhcQJWqAXRzi/z8TOIeeJP7iR+rirQQ25yI/ErYNkK/ZLHndQh3+QGwa7VcPs0wjN1NZ+Tv6xDWGcFiE1UIuVX8tqNU3WEdzM6wT9xYzAEo6TBZeKomRg9/EFbThhjLxA==;hnKLhEl+5io64EEeCf6viQ=="
 ---

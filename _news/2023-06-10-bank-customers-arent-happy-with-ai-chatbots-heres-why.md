@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-w
 webUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/263d618f-c90f-4453-825c-0e53ced8d257/65c8223d-3861-4e2a-8508-affb94e3c6f5/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Instagram Reportedly Developing AI Chatbot With 30 Personalities"
-    excerpt: "Meta is reportedly testing an Instagram AI chatbot that offers users the choice of switching between 30 different personalities. A screenshot (Opens in a new window) shared on Twi"
-    publishedDateTime: 2023-06-07T15:37:00Z
-    webUrl: "https://www.pcmag.com/news/instagram-reportedly-developing-ai-chatbot-with-30-personalities"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02AjtLzVbG0hbhR2FyEyKiP-1.fit_lim.size_1200x630.v1686147613.png"
-        width: 1120
-        height: 630
         isCached: true
   - title: "AI chatbots offer comfort to the bereaved"
     excerpt: "Staying in touch with a loved one after their death is the promise of several start-ups using the powers artificial intelligence, though not without raising ethical questions."

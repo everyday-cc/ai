@@ -35,19 +35,19 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "DeepMind AI creates algorithms that sort data faster than those built by people"
-    excerpt: "The technology developed by DeepMind that plays Go and chess can also help to write code. An artificial intelligence (AI) system based on Google DeepMind’s AlphaZero AI created algorithms that, when translated into the standard programming language C++,"
-    publishedDateTime: 2023-06-07T16:40:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01883-4"
+  - title: "Inside Google DeepMind’s approach to AI safety"
+    excerpt: "Lila Ibrahim, COO of Google DeepMind, will speak at TNW Conference on June 16. Ahead of the talk, she shared the lab's approach to AI safety."
+    publishedDateTime: 2023-06-09T09:10:00Z
+    webUrl: "https://thenextweb.com/news/inside-google-deepmind-ai-safety-strategy-lila-ibrahim"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 50
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01883-4/d41586-023-01883-4_25458996.jpg"
-        width: 1024
-        height: 576
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-4.jpg&signature=95de9df374e2fef286cd748ac5d07e5c"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Can Apple keep the Metaverse dream alive? Plus, Google's DeepMind AI develop \"extremely\" optimised algorithm tool."
     excerpt: "After Meta boss, Mark Zuckerberg has spent countless hours and billions of dollars on his Metaverse dream, has Apple just blown that dream out of the water with its new spatial reality headset? Plus,"

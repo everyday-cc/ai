@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/the-ai-revolution-ho
 cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "'This is just the beginning of a revolution': DeepMind cofounder says personal AI assistants will make us better at basically everything"
-    excerpt: "Personal AI assistants that can do everything from shop and negotiate on your behalf are the future of AI, Mustafa Suleyman, the cofounder of DeepMind and CEO of Inflection AI, said Tuesday during ..."
-    publishedDateTime: 2023-06-08T14:40:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/articleshow/100831165.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/amp_articleshow/100831165.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/amp_articleshow/100831165.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 41
-    images:
-      - url: "https://www.businessinsider.in/thumb/100831113.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
   - title: "The AI revolution will change work but nobody agrees how"
     excerpt: "Goldman Sachs estimated that the technology behind popular AI tools such as DALL-E and ChatGPT could automate the equivalent of 300 million full-time jobs."
     publishedDateTime: 2023-06-10T04:20:00Z

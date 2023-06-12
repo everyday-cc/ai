@@ -55,34 +55,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "WordPress's New AI Tool Can Write Entire Blog Posts For You"
-    excerpt: "The Jetpack AI Assistant uses large language models from ChatGPT's developer OpenAI. WordPress is incorporating ChatGPT-like technology through an AI-powered tool that can write entire blog posts for you."
-    publishedDateTime: 2023-06-07T15:30:00Z
-    webUrl: "https://www.pcmag.com/news/wordpresss-new-ai-tool-can-write-entire-blog-posts-for-you"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/060tUMI8mtRg2xOSiP2UTQq-1.fit_lim.size_1200x630.v1686149363.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "WordPress is getting an AI assistant that will write blog posts for you"
-    excerpt: "Automattic Inc., the company that runs WordPress.com and contributes to the open-source WordPress content management software, today released a new artificial intelligence-powered tool that can help users write and edit blog posts."
-    publishedDateTime: 2023-06-07T16:31:00Z
-    webUrl: "https://siliconangle.com/2023/06/07/wordpress-getting-ai-assistant-will-write-blog-posts/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/jetpack-ai-assistant-image.jpg"
-        width: 1263
-        height: 710
-        isCached: true
   - title: "WordPress’s new Jetpack AI tool can write blog posts"
     excerpt: "WordPress has announced the release of Jetpack, an AI assistant that the company describes as a, “creative writing partner” It can, “generate diverse content at your command, significantly reducing the time and effort required for content creation”. Also Read | UK to lead way on AI safety with first global summit, says PM Rishi Sunak"
     publishedDateTime: 2023-06-08T11:35:00Z
