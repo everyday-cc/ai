@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/33/22/17/23929813/3/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2023/06/GettyImages-1299491248-480x280.jpg"
+    width: 480
+    height: 280
     isCached: true
 
-secured: "afVCbDui4GG6HcPtyw9aEwa4kBan/6tFsfW4JJ3zGc8UgpNMOc3UYcTH7l3jb7fQ0649jpV3py+HFh/8Sa9kjRjCl5il9LLtWqUw5RDNKpfnKX6SpEAf5GBlGScvKn5vVG0dB5wO4oGNhx0/Ab+sDWHA+LFngHYnIc+lnhzG85TjcVv/jBT7O+8SejK6UWrpGPD9ZZRHuIe/yblCGC2DpniAU0L+Qi70afkD4kQxEIf6Ip10lt8ZjdzzrZpAh7fmLp0OkHK9E68M5cBy0hCQiWngUkQIty5pXpdmoqJ6AV/wxxnVvrpXHY5VRQIZzITPkozG8KgA4VZJMp3zT6iM3Ew0EKRLCN8TEULTaJa3cGM=;C7o4KzHwOvYxsT7hEmAtqg=="
+secured: "nqt7u5xQUOc1LLerRrVVnhXuHEYT27UkeivAlKhPJsMTe3qbXgdc5tTyyeK9yqu7Z76MWNg2SbyP+2TCI7Vks7fmZWYgcCn26TmPhbSY1H71OIO8mRocV9y/+YXlGKlovX4C91QNtkWDueBuwWpF5QTXwEk3so+D9rRRsi25RXZrEjlNar29Z+GhVnEe3fKg2z0AnxBgixkj6cilYhESq/bTVS8VB1YiFSOZMxoUvD//Z9oh4DkAankXKgDN0vXksCtaLcs4HC5+7x4xsYL4ZYjexlltyOWguLzQT5Yi3Z2xKxSAmSCsr3Y3KZENo5CVq6Uio1s71tzxinJ6N0ifBSOgwa+DWV0r1Gxd/X/7w/s=;FidlTbH2WHQPeIOuMhcVEg=="
 ---
 

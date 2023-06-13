@@ -7,7 +7,7 @@ originalUrl: "https://www.courierpress.com/story/news/local/2023/06/12/evansvill
 webUrl: "https://www.courierpress.com/story/news/local/2023/06/12/evansville-police-are-using-clearview-ai-facial-recognition-technology-privacy-security-data/70090924007/"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
   - Natural Language Processing
 
-related:
-  - title: "Law firm highlights how facial recognition technology landed fraudster with £51,000 bill"
-    excerpt: "Investment into facial recognition technology by law firm Clyde and Co and Axa UK led to a motorist who issued a fraudulent claim having to stump up more than £50,000. Ashley Copley – a 26-year-old hospitality worker from Barnsley – was found to have lied about a witness to an accident he was involved in being independent."
-    publishedDateTime: 2023-06-08T06:00:00Z
-    webUrl: "https://www.insurancetimes.co.uk/news/law-firm-highlights-how-facial-recognition-technology-landed-fraudster-with-51000-bill/1444771.article"
-    type: article
-    provider:
-      name: Insurance Times
-      domain: insurancetimes.co.uk
-    quality: 30
-    images:
-      - url: "https://d17mj6xr9uykrr.cloudfront.net/Pictures/1024x536/6/1/1/97611_facialrecognition_229168.jpg"
-        width: 1024
-        height: 536
-        isCached: true
-
-secured: "fg9k/bAAjwbuVl9hp2FUIIG1s6zazBj9L5IeG7g5Xt4xrHcX3mKIRLQBiTOlrN+yX9cqkAqk+eFECBaLUmG7Ow3JN4F8D+o6lfMoUG/hZ9Qge4fX0b3EpSiBwYEmOJOW0whup/cGJlY0VFXdo/AuzzSsdH6RRpLr0PGtA2Rljl7CMeASNfO12tUAW6/EyG+oYL6QwXG7G5FayD5deqYvFo3sKAgsOsJ0AIDDxGuy5J4nMMkZ/54xJxTjxcE0Y6HxYLPSOAkkeoES6V/9Qjh4DYjlvPS/EbOybMyeWvspPQpTN9wfkPz44Cl66NzGirBfPjWGkqx1POGRsND+3WgqUTv7sLfcMFhF1Xj9KY5mF9E=;KtwETQA3Ryowa9g5Sad13A=="
+secured: "W/N8lQz0XxGt40hpZ0x2ZL2WLCEm+9Ms6JYolvzsAkwSXYEIHWxi27oNBwrEK6IkgkcHYDLqNw0Ng/erlb6G489Jw2W2vTA9uq1OxtS2xBWfV0iSIZ2I2rkK8KSpPocFdWDVNh3/OrWudHmkNBspNkb0XccDJken5POQPWb59QM3KLWXe2GaZczjtktez45/P8bplbtYsvbSWpf/RlGtGcf+lL/nuDn0pF3tErW8bnbG0StHmS/nYSYp3cEeD0MEGzknDbBbZTX+YGcapIK8NsOnvJygvw7pQ1UBjsJ/l5J8D3fjM4m3uKCU/IkpdWQLVoKoGsAES19zCC4aB6mnlNBPVcB8rEzpqlBqe7LP7Z0rcHtGpYTgVp7hooCMN7mFouobca/xM/5C7AkMoz3sC8lfrXODGBEmBii9RIGwgA/nXySw3Sg/bEOY1i6nI5aR1Hp3GRAqqPFj0qRcUgYboqHdM5cv12K8SZXKnRGKJ2Xs8cfYsvy6MUKZtpQZMnqLCK+Lsmg13eDsckptleuztQ==;0ha+LVn6dyP/0cK5Kp4eMA=="
 ---
 

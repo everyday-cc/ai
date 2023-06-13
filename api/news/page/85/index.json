@@ -2,6 +2,282 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2023-04-20-microsoft-and-epic-partner-to-bring-gpt-4-and-generative-ai-to-healthcare-providers.md",
+      "title": "Microsoft and Epic partner to bring GPT-4 and generative AI to healthcare providers",
+      "excerpt": "Healthcare software giant Epic Systems Corp. said Monday it’s partnering with Microsoft Corp. to embrace generative artificial intelligence through its Azure AI platform. Under the partnership ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
+      "originalUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/neuroscience-doctor-holding-clipboard-showing-treatment-against-brain-disease-patient-with-eeg-headset-woman-sitting-neurological-scientific-laboratory-treating-nervous-system-dysfunctions-1.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-ai-powered-retina-scanning-startup-mediwhale-raises-9m.md",
+      "title": "AI-powered retina scanning startup Mediwhale raises $9M",
+      "excerpt": "Mediwhale, a startup that detects chronic disease with its AI-powered retina scans, raises $9M Series A funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/18/ai-powered-retina-scanning-startup-mediwhale-raises-9m/",
+      "originalUrl": "https://techcrunch.com/2023/04/18/ai-powered-retina-scanning-startup-mediwhale-raises-9m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1333896598.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/18/ai-powered-retina-scanning-startup-mediwhale-raises-9m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/18/ai-powered-retina-scanning-startup-mediwhale-raises-9m/amp/",
+      "publishedDateTime": "2023-04-19T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-artificial-intelligence-being-used-at-omahas-chi-health-clinics.md",
+      "title": "Artificial intelligence being used at Omaha’s CHI Health clinics",
+      "excerpt": "OMAHA, Neb. (WOWT) - The types of AI that healthcare providers at CHI Health use are the kind patients rarely see. “This is all done to help the providers and the nurses, and it informs them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/",
+      "originalUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/Hsw_OILhmQlPWzD1D8GAaqnUcuE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/PT2T74TZ7JCYNPQLYYPTGDBOXY.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/?outputType=amp",
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOWT.com",
+        "domain": "wowt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy.md",
+      "title": "Autotech Ventures’ new $230M mobility fund adds fintech, circular economy to its investment strategy",
+      "excerpt": "Fintech, logistics, supply chain and the circular ... Autotech Ventures is also cautiously wading into generative AI, although Andreev was quick to note that the company has not made any ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/",
+      "originalUrl": "https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-157650258.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/amp/",
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-cellular-data-controlled-robot.md",
+      "title": "Cellular Data Controlled Robot",
+      "excerpt": "[Jatinderjit] sent along the latest in LEGO robotics. The cell phone controlled robot. It’s based on a LEGO Excavator kit with a few spare parts via ebay. The controller is a Nokia phone running ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2008/02/02/cellular-data-controlled-robot/",
+      "originalUrl": "https://hackaday.com/2008/02/02/cellular-data-controlled-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://hackaday.com/wp-content/uploads/2008/02/cell-bot-nokia.jpg",
+          "width": 262,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-from-cozmo-to-vector-how-anki-designs-robots-with-emotional-intelligence.md",
+      "title": "From Cozmo to Vector: How Anki Designs Robots With Emotional Intelligence",
+      "excerpt": "Anki, the company behind Cozmo, says its mission is to “create robots that move you,” combining robotics and artificial intelligence to create technologies with which people can build emotional bonds. Cozmo isn't an industrial robot by any stretch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "originalUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Vector_Lifestyle_007_noLogo.jpg",
+          "width": 6504,
+          "height": 3659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-how-much-more-can-autonomous-cars-improve-waymo.md",
       "title": "How Much More Can Autonomous Cars Improve? Waymo!",
       "excerpt": "Alphabet’s autonomous vehicle subsidiary, Waymo, remains optimistic and the company points out that while other companies are suffering high-profile collisions, Waymo is continuing to deliver autonomous taxi services safely and reliably in Phoenix ...",
@@ -846,282 +1122,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-dangpt-a-blockchain-based-ai-language-model-that-pushes-the-boundaries-of-artificial-intelligence.md",
-      "title": "DanGPT: A Blockchain-based AI-Language Model That Pushes the Boundaries of Artificial Intelligence",
-      "excerpt": "DanGPT, the daring twin of ChatGPT, has arrived to shatter the boundaries of artificial intelligence. With its cutting-edge technology, DanGPT offers an uncensored and unfiltered chatbot experience that pushes the limits of what AI can do.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/04/19/9797605.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/04/19/9797605.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.blockchainwire.io/uploads/Etkaan/editor_image/ecc5c1da-28c9-4580-8166-fb70d8dc582c.jpeg",
-          "width": 1500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai.md",
-      "title": "Salience Labs appoints former Imagination Technologies CPO to lead productization of multi-chip photonics processor for AI",
-      "excerpt": "At Imagination Technologies, Chris delivered the annual 5-year strategy and business plan and the roadmap of GPU, AI and CPU products licensed to mobile, consumer, data centre and automotive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20230419005519/salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20230419005519/salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-artificial-intelligence-ai-chips-market-2023-key-findings-throughout-globally-by-2030.md",
-      "title": "Artificial intelligence (AI) Chips Market [2023] | Key Findings Throughout Globally by 2030",
-      "excerpt": "GlobalArtificial intelligence (AI) Chips Market[2023-2030] research report is a compilation of information and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-key-findings-throughout-globally-by-2030-2023-04-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-key-findings-throughout-globally-by-2030-2023-04-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-5-best-ai-chatbots-in-2023.md",
-      "title": "5 Best AI Chatbots in 2023",
-      "excerpt": "IBM has long been developing artificial intelligence, including Deep Blue, the computer that beat the reigning world chess champion, and Watson, its supercomputer that won the game show Jeopardy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg",
-          "width": 600,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor.md",
-      "title": "CENTCOM hires former Google Cloud exec as first-ever AI, robotics advisor",
-      "excerpt": "Andrew Moore founded startup Lovelace AI and had testified before Congress about DoD's lack of urgency when it came to actually implementing AI and machine learning in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/",
-      "originalUrl": "https://breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2022/05/220526_pentagon_AI_brain-e1653573962375.png",
-          "width": 2105,
-          "height": 1184,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/?amp=1",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/?amp=1",
-      "publishedDateTime": "2023-04-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-chinese-ev-giant-byd-says-self-driving-tech-is-more-valuable-for-factories-than-cars.md",
-      "title": "Chinese EV giant BYD says self-driving tech is more valuable for factories than cars",
-      "excerpt": "Many electric car and tech companies are working on self-driving technology. Using a form of the tech for assisting drivers with parking and other tasks is increasingly a feature that Tesla and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107227471-1681859635999-IMG_8936.jpg?v=1681870045",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html",
-      "publishedDateTime": "2023-04-19T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

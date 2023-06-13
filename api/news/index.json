@@ -2,6 +2,203 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-13-amazon-using-ai-to-boost-fight-against-fake-reviews.md",
+      "title": "Amazon using AI to boost fight against fake reviews",
+      "excerpt": "Amazon has been using AI in the battle against fake reviews for several years, but the company says continued investment in more \"sophisticated tools\" should improve protection for customers and sellers on its platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-65881800",
+      "originalUrl": "https://www.bbc.com/news/technology-65881800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3531/production/_130071631_gettyimages-1325244511.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-65881800.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65881800.amp",
+      "publishedDateTime": "2023-06-12T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-ny-schools-awaiting-decision-on-facial-recognition.md",
+      "title": "NY Schools Awaiting Decision on Facial Recognition",
+      "excerpt": "Following debate at one district, a civil liberties lawsuit and what was initially an 18-month moratorium, the New York State Department of Education is drafting recommendations for facial recognition in schools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition",
+      "originalUrl": "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/43ca251/2147483647/strip/true/crop/939x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc1%2Fda%2Fed997e65cb0d0ee391a741549da4%2Fshutterstock-1392652700.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true",
+      "publishedDateTime": "2023-06-12T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-tsmc-stock-gains-on-report-that-nvidia-ai-chip-order-has-boosted-production.md",
+      "title": "TSMC stock gains on report that Nvidia AI-chip order has boosted production",
+      "excerpt": "U.S. shares of Taiwan Semiconductor Manufacturing Co. outpaced the broader chip sector Monday following a report Nvidia was expanding the fab's capacity usage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
+      "originalUrl": "https://www.marketwatch.com/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-798928/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
+      "publishedDateTime": "2023-06-12T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-grimes-helps-artists-distribute-songs-using-her-ai-voiceif-they-split-royalties-heres-how-it-works.md",
+      "title": "Grimes Helps Artists Distribute Songs Using Her AI Voice—If They Split Royalties. Here’s How It Works.",
+      "excerpt": "A new partnership will help artists and fans more easily distribute songs that feature Grimes’ AI voice—if she gets half of the royalty revenue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/antoniopequenoiv/2023/06/12/grimes-helps-artists-distribute-songs-using-her-ai-voice--if-they-pay-royalties-heres-how-it-works/",
+      "originalUrl": "https://www.forbes.com/sites/antoniopequenoiv/2023/06/12/grimes-helps-artists-distribute-songs-using-her-ai-voice--if-they-pay-royalties-heres-how-it-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6487908a27da07134d214418/0x0.jpg?format=jpg&crop=3463,1950,x0,y178,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/antoniopequenoiv/2023/06/12/grimes-helps-artists-distribute-songs-using-her-ai-voice--if-they-pay-royalties-heres-how-it-works/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoniopequenoiv/2023/06/12/grimes-helps-artists-distribute-songs-using-her-ai-voice--if-they-pay-royalties-heres-how-it-works/amp/",
+      "publishedDateTime": "2023-06-12T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare.md",
       "title": "Are You Ready To Work With AI As A Copilot? 4 Strategies To Prepare",
       "excerpt": "Billions of humans across the globe are about to be working with AI 'copilots', which will redefine the nature of work itself.",
@@ -411,7 +608,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/06/12/how-docusai-is-powering-a-groundbreaking-ai-powered-health-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1047,204 +1244,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
-      "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
-      "excerpt": "Competitive pressure among tech giants is propelling society into the future of artificial intelligence, ready or not. Scott Pelley dives into the world of AI with Google CEO Sundar Pichai",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
-      "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
-      "publishedDateTime": "2023-06-11T16:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation.md",
-      "title": "Sunak Keeps Up Push To Make UK a Leader in AI Regulation",
-      "excerpt": "UK Prime Minister Rishi Sunak will on Monday keep up his push to give Britain a leading role in global regulation of artificial intelligence, while warning industry leaders the nation must act quickly to retain its position as one of the world’s tech capitals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isMt.CfJNIqk/v1/1200x802.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-11T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-ai-jobs-with-mind-blowing-paychecks-of-375k-a-year.md",
-      "title": "AI jobs with mind-blowing paychecks of $375K a year",
-      "excerpt": "When we’re talking AI and jobs, it’s easy to be nervous that the tech will make yours obsolete. Scan this list to see if AI might change the way you work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year",
-      "originalUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01b2467c-e906-47f1-b89c-f0941fbfe408/af430678-3518-4af0-b4c1-30530089dd9b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year.amp",
-      "publishedDateTime": "2023-06-11T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-11-chatgpt-disrupts-asian-property-industry-but-itll-be-a-while-before-an-ai-agent-sells-you-a-home.md",
-      "title": "ChatGPT disrupts Asian property industry, but it’ll be a while before an AI agent sells you a home",
-      "excerpt": "AI-based property agents are still in the realm of science fiction, but artificial intelligence is disrupting the industry as companies invest to explore its advantages and limitations – and how the role of agents will change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/article/3223524/rise-bots-chatgpt-disrupts-asian-property-industry-itll-be-while-ai-agent-sells-you-home",
-      "originalUrl": "https://www.scmp.com/business/article/3223524/rise-bots-chatgpt-disrupts-asian-property-industry-itll-be-while-ai-agent-sells-you-home",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/09/5bc71510-0d58-4d37-93a7-78ed8154caaf_b8c56151.jpg?itok=Fq42IGOx&v=1686293778",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/article/3223524/rise-bots-chatgpt-disrupts-asian-property-industry-itll-be-while-ai-agent-sells-you-home",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3223524/rise-bots-chatgpt-disrupts-asian-property-industry-itll-be-while-ai-agent-sells-you-home",
-      "publishedDateTime": "2023-06-11T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

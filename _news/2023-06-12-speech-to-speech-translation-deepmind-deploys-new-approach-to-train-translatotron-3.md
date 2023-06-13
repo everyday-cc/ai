@@ -34,20 +34,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Can Apple keep the Metaverse dream alive? Plus, Google's DeepMind AI develop \"extremely\" optimised algorithm tool."
-    excerpt: "After Meta boss, Mark Zuckerberg has spent countless hours and billions of dollars on his Metaverse dream, has Apple just blown that dream out of the water with its new spatial reality headset? Plus,"
-    publishedDateTime: 2023-06-08T06:53:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/drive/can-apple-keep-the-metaverse-dream-alive-/102458142"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 32
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/5ad45e8c5f9db438c30c9e71f6e44722?impolicy=wcms_crop_resize&cropH=1103&cropW=1960&xPos=0&yPos=0&width=862&height=485"
-        width: 862
-        height: 485
-        isCached: true
   - title: "DeepMind achieves giant leap in sorting speed"
     excerpt: "Sorting, or data structuring, has been a core principle of computing operations since the first computers were developed."
     publishedDateTime: 2023-06-12T13:19:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Forbes
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 652
     isCached: true
+
+related:
+  - title: "Oracle beats expectations, reveals upcoming generative AI service, sending stock higher"
+    excerpt: "“Aside from cost driven share gains, OCI also has the one thing that every AI startup is asking for today, spare GPU capacity,” Zukin wrote, referring to graphics processing units. “Similar to getting those first cloud workloads during ..."
+    publishedDateTime: 2023-06-12T23:36:00Z
+    webUrl: "https://siliconangle.com/2023/06/12/oracle-beats-expectations-reveals-upcoming-generative-ai-service-sending-stock-higher/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/5007504146_9efd13e6a1_k.jpg"
+        width: 2047
+        height: 1365
+        isCached: true
 
 secured: "vDZKUrFAHSbMhnZHxrOy5J80x3iPTQxmrT7cGUsI0H9RP+N+2dlARm89LT9ka4gHpHcAh/bdsjKB0kjSWl7NBUfXkzoezf8h6FkegAqfFvYg/iG1v4F1rYCSOYmc7aZl52xrpCpWRv7RXqqfvvcGmgUmcooj2bsUsXfVMAKUmyB0tOMWxh2Jkm+BJ5QtZdvT1f4Ggh7RNl+hjELzAjqOBuTf41eV2Iatsp+gK59pdpkniy/QbvVusVJVujmsyOoqtDCHx0AUPT9TKyiYTMZPqadC4PTPErbpfWHpGJUU49ZtO8A1//jrkTumFEYdQAhTHt/XczALeIoxtAJpyK7XJzcD/dKpxwX1uer7qlowBCnF0T2tIuc7yrVcN1sxO9kUmI+w8XNZ/HW6zMIrx9VhVNK2BWtsoVtzNZ3b4lNflhEEAbZCRXHNBpDOZAEFcU39uVlHmFqxICqVe8PjnWGxjgQJniZPquGAM4Ar065SkhLNdsU5SKt8BY+0tZoNutsu8x1y0hp6QlKzfD01+Cchuw==;J4IoiNW1mFSCMSpbHtVcIA=="
 ---

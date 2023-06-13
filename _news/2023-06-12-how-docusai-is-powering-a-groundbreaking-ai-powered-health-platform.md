@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/06/12/how-docusai-is-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/12/how-docusai-is-powering-a-groundbreaking-ai-powered-health-platform/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "AlphaStreet unveils AlphaStreet Intelligence, a Groundbreaking, AI-Driven Market Intelligence Platform"
-    excerpt: "AlphaStreet, a leading fintech firm, announced the launch of AlphaStreet Intelligence. This pioneering, AI-driven market intelligence platform aims to transform how market intelligence is generated and utilized by companies,"
-    publishedDateTime: 2023-06-08T06:45:00Z
-    webUrl: "https://theprint.in/ani-press-releases/alphastreet-unveils-alphastreet-intelligence-a-groundbreaking-ai-driven-market-intelligence-platform/1617975/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/alphastreet-unveils-alphastreet-intelligence-a-groundbreaking-ai-driven-market-intelligence-platform/1617975/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/alphastreet-unveils-alphastreet-intelligence-a-groundbreaking-ai-driven-market-intelligence-platform/1617975/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 43
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/06/ANI-20230608060609.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "1TdPoTnZ47imfrEykt0TxAYuTYxs8kgpcOVYz8oYdODcuGxkp6OKKifL7UkmRgNMMzIj1Kd/CKy4wOyovKpFrJgvbSDYPh8kCPB3GZqKgy4yW5DgsDGS4rqEOZPrfKFT1izxszH7LEwxzeW5xc5tBZh/nS1Dh4+B5lk9Smwe/nMjqrRQ6ssFWyRF2/vda+od4Da0MbnlXV9DLajzAbqQIXUEdiaWHwkhLRAqXbd1ngSYotfWlR84HtgZLuw84Co0+pmM5o5FDBNFJiN9SCdwxA/q/aOgqOqMc7Mitfkv4/RKBDyzBaIXg7jzM8g2shF4ambNtjW13ZlwkNu1tcREJP1Gy+x7+oSwoo3zQWbPJwg=;GtW8/t3HKtVId8PaD5ZZcQ=="
 ---

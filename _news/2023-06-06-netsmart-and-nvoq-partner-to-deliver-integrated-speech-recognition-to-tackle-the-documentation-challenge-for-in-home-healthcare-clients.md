@@ -5,6 +5,8 @@ excerpt: "BOULDER, Colo., June 6, 2023 /PRNewswire/ -- nVoq Incorporated, an inn
 publishedDateTime: 2023-06-06T13:49:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32738135/netsmart-and-nvoq-partner-to-deliver-integrated-speech-recognition-to-tackle-the-documentation-cha"
 webUrl: "https://www.benzinga.com/pressreleases/23/06/n32738135/netsmart-and-nvoq-partner-to-deliver-integrated-speech-recognition-to-tackle-the-documentation-cha"
+ampWebUrl: "https://www.benzinga.com/amp/content/32738135"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32738135"
 type: article
 
 provider:
@@ -16,6 +18,12 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "slSJ9cXV3n48Hdbpzz3oYeNxh9qV6WHPatTm1epgVgN6iBYJj29vJyl3M9/2ctuY3PnM8grZvZI7SA3q6WfjPoRFDqcJ7xiSNyDBHPFEbUqE9Ll0XrWeZA5NcoLuEL6BOamMRey64WMW+UzRWz1NqfFfuYMTIkJ1gXjyQE60S627SBUDmMTnek9/X6Qwv9NaFHClLuwYJn1xuwb0psvS+h59SKFHe++cuWsIBeytE8vkSfILE2lWPcsZvo1gjOfa58792UCkjpoeq6VaCjwaY1OHbwkQr95vIhWd6SgqEGk6X2xhT0jsnmd5N89LqqB3cNQHp2eCmlmWZ9TCzOVZOw9MzcbU+yynd+S1clLVvAo=;4a4ZaXuDsZdYS7nJmoaXkQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "f3k5b592Gg6r4+mUDPZn/lnwhbyB5wNHEfPt60yZbHtTQhzR6UGPplviObS3jLqUhXzI0aXvIdU1JKm/oXdem0R7fafm2c64diXI9Zq8hujJPxZu+buDmTsROKYSTCQslP6KO24IX+vYvlacichcNiYVZvZiAhBM3hHkPVWjALYXW94LJFhwzmoUG40IFzp86BsAl4KEKBRFNo/JrITmd9vBonB96uT+TYufWB2+rmccEuBqgJJD7J390a14uUcXSI0X01TVKQVxO1d2qVGHNxY5W826MxkP2T0HBltulMFO6dZRJaiPchqs3gUbYvTWS9kXH9j7MrnmF+2R56RsuR1dHID0yxUQL7J7hTehz3I=;bDAbra9A/kIZrzMi8DMjoA=="
 ---
 

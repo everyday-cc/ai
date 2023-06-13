@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-13-ny-schools-awaiting-decision-on-facial-recognition.md",
+      "title": "NY Schools Awaiting Decision on Facial Recognition",
+      "excerpt": "Following debate at one district, a civil liberties lawsuit and what was initially an 18-month moratorium, the New York State Department of Education is drafting recommendations for facial recognition in schools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition",
+      "originalUrl": "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/43ca251/2147483647/strip/true/crop/939x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc1%2Fda%2Fed997e65cb0d0ee391a741549da4%2Fshutterstock-1392652700.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true",
+      "publishedDateTime": "2023-06-12T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-10-facial-recognition-for-pets-the-best-new-iphone-feature-coming-soon.md",
       "title": "Facial Recognition For Pets: The Best New iPhone Feature Coming Soon",
       "excerpt": "There are so many new features coming in iOS 17. Here’s the one I’m most excited about, so please hurry up, Apple.",
@@ -1272,49 +1315,6 @@
       "provider": {
         "name": "Las Vegas Review-Journal",
         "domain": "reviewjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-astr-how-govts-ai-and-face-recognition-tool-will-detect-phone-frauds.md",
-      "title": "ASTR: How govt’s AI and face recognition tool will detect phone frauds",
-      "excerpt": "The DoT claims the tool — called Artificial Intelligence and Facial Recognition powered Solution for Telecom SIM Subscriber Verification (ASTR) — can potentially bring down cyber frauds by detecting and blocking possible fraudulent mobile connections.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-sci-tech/govt-ai-face-recognition-tool-astr-detect-phone-frauds-8614162/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-sci-tech/govt-ai-face-recognition-tool-astr-detect-phone-frauds-8614162/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/05/Face-recognition.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-sci-tech/govt-ai-face-recognition-tool-astr-detect-phone-frauds-8614162/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/govt-ai-face-recognition-tool-astr-detect-phone-frauds-8614162/lite/",
-      "publishedDateTime": "2023-05-17T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

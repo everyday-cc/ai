@@ -2,9 +2,9 @@
 category: news
 title: "Artificial Intelligence & Entertainment: Unveiling the Potential of Revolutionary Technology"
 excerpt: "The rise of generative artificial intelligence (AI) has captivated the business world like never before, and the entertainment industry."
-publishedDateTime: 2023-06-12T20:11:00Z
-originalUrl: "https://marketscale.com/industries/software-and-technology/artificial-intelligence/"
-webUrl: "https://marketscale.com/industries/software-and-technology/artificial-intelligence/"
+publishedDateTime: 2023-06-12T20:04:00Z
+originalUrl: "https://marketscale.com/industries/sports-and-entertainment/articles-sports-and-entertainment/artificial-intelligence/"
+webUrl: "https://marketscale.com/industries/sports-and-entertainment/articles-sports-and-entertainment/artificial-intelligence/"
 type: article
 quality: 41
 heat: -1
@@ -36,6 +36,6 @@ related:
       domain: fox2detroit.com
     quality: 47
 
-secured: "xDfn0xBy/WGUCq4Jn57LgI641HxqIx46lo1AhC+TD/U/htdJF3j5KVudRbiSSpHwqjfg1RnYJbmYSUjyLTE34Rjw3eOskmcLtmg6iro7i+FQqUKlx+actRdXKiBW4xxKtn7Yu76gJz1///tehicI3ZBYmsLfHestmRNZXWS+CEcelXpruGRUz2Ki5RrpFHgpeTsPsV4fVsgU1pLhFgT3rcvZrv/94G2To2cuUdl6PYAx/goAJrjwwBGAIcvdX9NGVdgO1kKqUmKqKGbPH1PXvH1AyujUcyKpaRt1TrknIIVoUTaOz3jOFXAp3fFOf8z6/+Z0yZ8qPXNWNXy84QSOtJ+KkQ8RPQgtyjcZvWCOWUc=;m1C+E2v5ku/9260w+6Tevw=="
+secured: "LF5TjX+pR99ECqvuqEh0TFMdTUbkXD1PlR0pRSicUasZr6PLOcGG+oOOtFJs2FBe1+/VFgzTMkhlEgGrxSGUfzCrCvorve+N79JiT3Dl2ToV2X0NjhFGCPVW5vGhboFNibxRNh9llUWrOy20pyGUIdQtgYiwX1LV22c+PqPd9pJ5YChlItsAXULKvmgf7VAmXaLzoT9NuKpGvhnLHtCWrXpspf6upt0U/15yxp52TlmIvzI7dghxLST8QiFf2S6XdMGFfr4oB4dSGwp27j/i8ECFMh8jUf2u4M/fpgtnxQMqD2M9djm2eB0LmsYeln7+eRSOfON6BdKOIToawc9BPrlFSvyEycyzhg350/vpELo=;zNdSa6XQlSmviXK6AKgZgg=="
 ---
 

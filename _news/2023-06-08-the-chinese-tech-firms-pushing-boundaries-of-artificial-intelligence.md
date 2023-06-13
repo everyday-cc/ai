@@ -37,6 +37,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Chinese companies at cutting-edge of artificial intelligence, says report"
+    excerpt: "Chinese enterprises are at a crucial juncture of breakthroughs in artificial intelligence, as generative AI and other rapidly evolving technologies usher in a future for business where the physical and digital worlds are inextricably linked,"
+    publishedDateTime: 2023-06-12T23:47:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202306/13/WS6487a398a31033ad3f7bbdbd.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 38
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202306/13/6487a5cfa31033ad342ae6fc.jpeg"
+        width: 642
+        height: 428
+        isCached: true
 
 secured: "PFVhABAh+M6Ayg+3WYWmGfF23oMQcSjxT3/SkcAAmwAAzOaoYo2kJy4Safjsx2pGVThvYk7i6jBVPzU9NvJV0KDiReiA+Plx+5rbJ4RHzTa1xiVMdtnQNJ37MKmCA7eZ52WOQ0m896LVz8KGy5Ldy8Z+4GCjOAETcxmEkJiW6GIZalK7hgEmT+6e/rK37vxhHi+MHPOLbzjnUsrQDNIXIxdG7oeLKBgmKAbfjvaNKSpHr5N+1v+c0Z+GBXZWMsSB8+vAN6WjMYTCOHfnW6UVeeFzo3sY2tX60ERrovzKDflbvCPSEdINuJL/XbmliJt6e+LEcMn7c4MWS9DDDwh0tGgPxxzYz9YTOnf1lth2Njo=;1cQKzQfWdAOtLorVOFKmyA=="
 ---

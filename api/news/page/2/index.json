@@ -2,6 +2,204 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-12-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
+      "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
+      "excerpt": "Competitive pressure among tech giants is propelling society into the future of artificial intelligence, ready or not. Scott Pelley dives into the world of AI with Google CEO Sundar Pichai",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "publishedDateTime": "2023-06-11T16:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation.md",
+      "title": "Sunak Keeps Up Push To Make UK a Leader in AI Regulation",
+      "excerpt": "UK Prime Minister Rishi Sunak will on Monday keep up his push to give Britain a leading role in global regulation of artificial intelligence, while warning industry leaders the nation must act quickly to retain its position as one of the world’s tech capitals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isMt.CfJNIqk/v1/1200x802.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-11T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-ai-jobs-with-mind-blowing-paychecks-of-375k-a-year.md",
+      "title": "AI jobs with mind-blowing paychecks of $375K a year",
+      "excerpt": "When we’re talking AI and jobs, it’s easy to be nervous that the tech will make yours obsolete. Scan this list to see if AI might change the way you work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year",
+      "originalUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01b2467c-e906-47f1-b89c-f0941fbfe408/af430678-3518-4af0-b4c1-30530089dd9b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year.amp",
+      "publishedDateTime": "2023-06-11T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-11-chatgpt-disrupts-asian-property-industry-but-itll-be-a-while-before-an-ai-agent-sells-you-a-home.md",
+      "title": "ChatGPT disrupts Asian property industry, but it’ll be a while before an AI agent sells you a home",
+      "excerpt": "AI-based property agents are still in the realm of science fiction, but artificial intelligence is disrupting the industry as companies invest to explore its advantages and limitations – and how the role of agents will change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/article/3223524/rise-bots-chatgpt-disrupts-asian-property-industry-itll-be-while-ai-agent-sells-you-home",
+      "originalUrl": "https://www.scmp.com/business/article/3223524/rise-bots-chatgpt-disrupts-asian-property-industry-itll-be-while-ai-agent-sells-you-home",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/09/5bc71510-0d58-4d37-93a7-78ed8154caaf_b8c56151.jpg?itok=Fq42IGOx&v=1686293778",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/article/3223524/rise-bots-chatgpt-disrupts-asian-property-industry-itll-be-while-ai-agent-sells-you-home",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3223524/rise-bots-chatgpt-disrupts-asian-property-industry-itll-be-while-ai-agent-sells-you-home",
+      "publishedDateTime": "2023-06-11T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-11-5-ways-how-artificial-intelligence-improve-the-workplace.md",
       "title": "5 ways how Artificial Intelligence improve the workplace",
       "excerpt": "Artificial intelligence (AI) is now a part of our everyday lives. More than we may sometimes realize; AI solutions are changing almost every aspect of our lives, and this extends well into the workplace as well. The impact of AI on the future of work is a ...",
@@ -188,7 +386,7 @@
       "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -227,6 +425,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-10-ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law.md",
+      "title": "Ingeniously Using Generative AI Such As GPT-4 To Reveal The Puzzling Secrets Of How Generative AI Startlingly Works, Lauds AI Ethics And AI Law",
+      "excerpt": "Nobody can say for sure why generative AI works so startlingly well. A new approach revealed by OpenAI uses GPT-4 to decipher generative AI secrets. Here's the deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63731fd487e442fe938888a7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-06-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -545,7 +795,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -596,7 +846,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 143,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -641,7 +891,7 @@
       "originalUrl": "https://www.cbsnews.com/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -673,58 +923,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-nvidias-ai-software-tricked-into-leaking-data.md",
-      "title": "Nvidia’s AI software tricked into leaking data",
-      "excerpt": "Others have followed with bespoke but experimental AIs that teach young pupils, dispense simple medical advice, translate between languages and write code. Nearly all have suffered safety hiccups. Nvidia and others in the AI industry need to “really ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-1-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/amp/",
-      "publishedDateTime": "2023-06-09T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1011,195 +1209,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-openai-ceo-calls-for-global-cooperation-to-regulate-ai.md",
-      "title": "OpenAI CEO calls for global cooperation to regulate AI",
-      "excerpt": "Sam Altman, the CEO of ChatGPT maker OpenAI, used a high-profile trip to South Korea on Friday to call for coordinated international regulation of generative artificial intelligence, the technology that underpins his famous chatbot.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "originalUrl": "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230609034602-01-sam-altman-chatgpt-060923-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "publishedDateTime": "2023-06-09T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-why-advanced-api-security-is-critical-to-outsmarting-new-threats.md",
-      "title": "Why advanced API security is critical to outsmarting new threats",
-      "excerpt": "Noname Advanced API Security for IBM aims to further enhance the strength of solutions for monitoring and locking down APIs from evolving threats. \nThe post Why advanced API security is critical to outsmarting new threats appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/noname-advanced-api-security-for-ibm/",
-      "originalUrl": "https://www.ibm.com/blog/noname-advanced-api-security-for-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-artificial-intelligence-challenges-and-controversies-for-us-national-security.md",
-      "title": "Artificial intelligence: challenges and controversies for US national security",
-      "excerpt": "The United States and other countries must consider the possible impact of AI on their armed forces and their preparedness for war fighting or deterrence. Military theorists, strategic planners, scientists,",
-      "sourceUrl": null,
-      "webUrl": "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/",
-      "originalUrl": "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thebulletin.org/wp-content/uploads/2018/06/Landing-Page-AI-Twitter.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/",
-      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/",
-      "publishedDateTime": "2023-06-09T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bulletin of the Atomic Scientists",
-        "domain": "thebulletin.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-the-best-movies-on-amazon-prime-video-june-2023.md",
-      "title": "The best movies on Amazon Prime Video (June 2023)",
-      "excerpt": "While the first week of June was uncharacteristically quiet for Amazon Prime Video, the streamer is coming out swinging this week with the arrival of Creed III, the latest installment in the long ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/Michael-B-Jordan-and-Jonathan-Majors-face-each-other-in-a-boxing-ring-in-Creed-31.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-06-09T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

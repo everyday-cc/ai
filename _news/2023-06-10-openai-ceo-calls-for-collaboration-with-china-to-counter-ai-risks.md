@@ -83,6 +83,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "OpenAI competitor: Reason why Nvidia, Oracle are investing in AI startup Cohere"
+    excerpt: "Cohere, an AI foundation model startup, has raised $270 million in a funding round from investors, which include technology giants such as Nvidia, Oracle and Salesforce Ventures. The Toronto-based AI startup competes with Microsoft-backed OpenAI and focuses on building AI models for enterprise customers."
+    publishedDateTime: 2023-06-09T02:09:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/articleshow/100862259.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 53
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-100862259,imgsize-832578,width-800/100862259.jpg"
+        width: 800
+        height: 529
+        isCached: true
   - title: "OpenAI CEO Sam Altman visits South Korea as country seeks to encourage AI development"
     excerpt: "After crisscrossing Europe last month meeting lawmakers and national leaders to discuss the prospects and threats of AI, Altman has travelled to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea - all this week."
     publishedDateTime: 2023-06-09T01:34:00Z

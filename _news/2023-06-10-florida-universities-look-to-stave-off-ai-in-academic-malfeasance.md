@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/miami/news/florida-universities-look-to-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/04/XD7AKQQKAGGKZQBPYO7RJPRZBQ.jpg?w=1024&#038;h=683"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Florida universities are keeping an eye on AI"
+    excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology's power — and stave off the potential for academic malfeasance."
+    publishedDateTime: 2023-06-12T13:38:00Z
+    webUrl: "https://news.wjct.org/state-news/2023-06-12/florida-universities-are-keeping-an-eye-on-ai"
+    type: article
+    provider:
+      name: WJCT
+      domain: wjct.org
+    quality: 39
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/88845b8/2147483647/strip/true/crop/3889x2042+0+361/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fb6%2F31%2F9ee61b88403bb5044bd3aed326b5%2Fcentury-tower-fresh-take-florida-110221.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Florida universities are keeping an eye on AI"
     excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology's power and stave off the potential for academic malfeasance."

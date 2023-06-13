@@ -22,8 +22,8 @@ topics:
 related:
   - title: "Artificial Intelligence & Entertainment: Unveiling the Potential of Revolutionary Technology"
     excerpt: "The rise of generative artificial intelligence (AI) has captivated the business world like never before, and the entertainment industry."
-    publishedDateTime: 2023-06-12T20:11:00Z
-    webUrl: "https://marketscale.com/industries/software-and-technology/artificial-intelligence/"
+    publishedDateTime: 2023-06-12T20:04:00Z
+    webUrl: "https://marketscale.com/industries/sports-and-entertainment/articles-sports-and-entertainment/artificial-intelligence/"
     type: article
     provider:
       name: marketscale

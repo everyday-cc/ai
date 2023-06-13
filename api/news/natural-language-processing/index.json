@@ -98,58 +98,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-10-nvidias-ai-software-tricked-into-leaking-data.md",
-      "title": "Nvidia’s AI software tricked into leaking data",
-      "excerpt": "Others have followed with bespoke but experimental AIs that teach young pupils, dispense simple medical advice, translate between languages and write code. Nearly all have suffered safety hiccups. Nvidia and others in the AI industry need to “really ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-1-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/amp/",
-      "publishedDateTime": "2023-06-09T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-09-googles-generative-ai-platform-is-now-available-to-everyone.md",
       "title": "Google's Generative AI Platform Is Now Available To Everyone",
       "excerpt": "With the service becoming GA, enterprises and organizations could integrate the platform's capabilities with their applications.",
@@ -728,11 +676,20 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32738135",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32738135",
       "publishedDateTime": "2023-06-06T06:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1365,8 +1322,8 @@
       "title": "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis",
       "excerpt": "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients.",
       "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
-      "originalUrl": "https://www.charlotteobserver.com/press-releases/article275901341.html",
+      "webUrl": "https://www.miamiherald.com/press-releases/article275901341.html",
+      "originalUrl": "https://www.miamiherald.com/press-releases/article275901341.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1379,8 +1336,8 @@
       "publishedDateTime": "2023-05-30T04:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1445,6 +1402,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-how-are-indian-languages-faring-in-the-age-of-ai-and-language-models.md",
+      "title": "How are Indian languages faring in the age of AI and language models?",
+      "excerpt": "As large language models like ChatGPT find more applications around the world, their adoption also passively spreads a prejudice against languages other than English, including Indian languages. Some researchers are working to remedy this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/sci-tech/science/12fdik/article66911414.ece/alternates/FREE_1200/aboodi-vesakaran-SOp7CS0-1MA-unsplash.jpg",
+          "width": 1200,
+          "height": 867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/",
+      "publishedDateTime": "2023-05-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

@@ -92,22 +92,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft to host exclusive event showcasing how AI can unlock potential of UAE organizations"
-    excerpt: "The company will share practical examples and showcase how its Azure AI platform is ushering in a new era of AI"
-    publishedDateTime: 2023-06-08T06:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-to-host-exclusive-event-showcasing-how-ai-can-unlock-potential-of-uae-organizations-vml0wc72"
-    ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-to-host-exclusive-event-showcasing-how-ai-can-unlock-potential-of-uae-organizations-vml0wc72?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/microsoft-to-host-exclusive-event-showcasing-how-ai-can-unlock-potential-of-uae-organizations-vml0wc72?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 63
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MzI0ZDk0MjQtNWFjNy00/0/naimyazbeck-gmmicrosoftuae-2023-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 599
-        isCached: true
   - title: "As Cortana Retires, Microsoft Brings AI-Powered Bing Voice Mode to Desktop"
     excerpt: "This new voice mode makes it more convenient to use the AI-powered Bing Chat since you can talk to it while you work on other stuff."
     publishedDateTime: 2023-06-09T18:37:00Z
@@ -159,6 +143,15 @@ related:
         width: 920
         height: 630
         isCached: true
+  - title: "Klir Unveils Revolutionary ChatGPT Integration powered by Microsoft Azure's OpenAI Service for its Unified Water Management Platform"
+    excerpt: "The first-of-its-kind AI integration simplifies compliance and operational processes for water professionals while maximizing economic and"
+    publishedDateTime: 2023-06-12T22:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/klir-unveils-revolutionary-chatgpt-integration-powered-by-microsoft-azure-s-openai-service-for-its-unified-water-management-platform-1032384641"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "We are seeing an artificial intelligence battle between Microsoft and Google: Beth Kindig"
     excerpt: "I/O Fund CEO and lead tech analyst Beth Kindig provides insight on stock performance and the development of AI on 'Making Money.'"
     publishedDateTime: 2023-06-09T18:54:00Z

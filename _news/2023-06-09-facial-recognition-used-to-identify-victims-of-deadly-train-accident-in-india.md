@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202306/facial-recognition-used-to-
 webUrl: "https://www.biometricupdate.com/202306/facial-recognition-used-to-identify-victims-of-deadly-train-accident-in-india"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 2048
     height: 1367
     isCached: true
+
+related:
+  - title: "Era of artificial intelligence in India"
+    excerpt: "Ishant Gupta In today’s digital era, technological advancements have revolutionized the way we live, work, and interact. Among these advancements, Artificial Intelligence (AI) has emerged as a powerful tool,"
+    publishedDateTime: 2023-06-09T19:11:00Z
+    webUrl: "https://www.dailyexcelsior.com/era-of-artificial-intelligence-in-india/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 19
 
 secured: "maGLzle+0RZAvRVp6i0BhrJA3emDJJOebQyKZ6vGrMayzJf1SpW4OdfhEAFqUTj2yy8xvzXP3f/sDw0Gxtu3ltffETmYkykp7nsAssnzXIIK1/LsUV7GyZn8aPVenTWKbXitu7QZTullTKf+UwmOnTPXwm0hlj8ckqkUbwD8i1OQrY2pfWtSuHx3hTffTPKUEh9QM+2o1ZB7bbyRUn4HEVCngkR8yV1dbh+K2oa+scPOPtKqdCS4vSxuKSbm35JoxM94wDDYjk398CFUO6+eefmbbSF8/1djuZXXRVEvc7tmgac6oMEGfXFDWd69KNHmzuIDuFDkVNKi8QfXe8zPXR04v4/Z1nyVLfaXktYbt9MV12a4sRcabLLUlYlGul9wd0NFDRhgPNXCP7uW4c1O5eJs6fX013QPOK5YxQCNJiDYrfCq3mw9VJ2VtPAUM2RI+aF0//mwwl4aHEYiwJqHraAaxqGSBa9QXbFiQySx1URQNrsr2lh5vO4sOK4l3V9zOGiMLy9N5ms2sbzLpyBPUw==;K68HRHT/aPok3VIoCF7/aA=="
 ---

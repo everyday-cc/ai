@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-18-voyis-launches-advanced-vision-system-for-subsea-rovs.md",
+      "title": "Voyis Launches Advanced Vision System for Subsea ROVs",
+      "excerpt": "Subsea optical inspection technologies developer Voyis Imaging Inc. has launched a new product line called Discovery Vision",
+      "sourceUrl": null,
+      "webUrl": "https://www.oedigital.com/news/504445-voyis-launches-advanced-vision-system-for-subsea-rovs",
+      "originalUrl": "https://www.oedigital.com/news/504445-voyis-launches-advanced-vision-system-for-subsea-rovs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagesedit.marinelink.com/images/storage/w800h600/stereonovamini-0211.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oedigital.com/amp/news/504445-voyis-launches-advanced-vision-system-for-subsea-rovs",
+      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/504445-voyis-launches-advanced-vision-system-for-subsea-rovs",
+      "publishedDateTime": "2023-04-18T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "oedigital.com",
+        "domain": "oedigital.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-seeing-is-believing-emergen-research-predicts-bright-future-for-machine-vision-market.md",
       "title": "Seeing is Believing: Emergen Research Predicts Bright Future for Machine Vision Market",
       "excerpt": "Witness the revolution of the Machine Vision market, with a 7.1% CAGR projected by Emergen Research. Find out what's driving this growth",
@@ -1203,49 +1246,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech.md",
-      "title": "Kolkata Airport Gets DigiYatra, Check-In With Facial Recognition Tech",
-      "excerpt": "But now, most of the families have moved abroad Passengers travelling through the Kolkata airport will now be able to check in for their flights and board planes with facial recognition technology as DigiYatra was rolled out here on Friday, an official ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975",
-      "originalUrl": "https://www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1653907221.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975/amp",
-      "publishedDateTime": "2023-03-31T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

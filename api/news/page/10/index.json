@@ -2,6 +2,239 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-05-these-deep-sea-animals-are-new-to-scienceand-already-at-risk.md",
+      "title": "These deep-sea animals are new to science—and already at risk",
+      "excerpt": "About 90 percent of species found in the Clarion Clipperton Zone have never been identified, yet they may be at risk from mining for minerals such as cobalt and nickel. Spanning 1.7 million square ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalgeographic.com/animals/article/deep-sea-animals-new-species-mining",
+      "originalUrl": "https://www.nationalgeographic.com/animals/article/deep-sea-animals-new-species-mining",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Geographic news",
+        "domain": "nationalgeographic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-04-academic-warns-against-using-ai-as-therapy-tool-points-to-security-risks.md",
+      "title": "Academic warns against using AI as therapy tool, points to security risks",
+      "excerpt": "The artificial intelligence (AI) technology is not mature enough to allow the use of ChatGPT in psychotherapy or counseling, he said, urging people with mental health issues to seek help from a psychiatrist or therapist. “Some people who are going ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taipeitimes.com/News/taiwan/archives/2023/06/05/2003801002",
+      "originalUrl": "https://www.taipeitimes.com/News/taiwan/archives/2023/06/05/2003801002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.taipeitimes.com/images/2023/06/05/p03-230605-327.jpg",
+          "width": 800,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Taipei Times",
+        "domain": "taipeitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-04-google-is-using-machine-learning-models-to-speed-up-gmail-search.md",
+      "title": "Google is using machine learning models to speed up Gmail search",
+      "excerpt": "Millions of users around the world rely on Gmail as their primary email service. And it's no mystery that the sheer number of emails sent and",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/98937-google-using-machine-learning-models-speed-up-gmail.html",
+      "originalUrl": "https://www.techspot.com/news/98937-google-using-machine-learning-models-speed-up-gmail.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-04-image-2.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-04-the-devious-dance-of-ai-generated-misinformation.md",
+      "title": "The Devious Dance Of AI-Generated Misinformation",
+      "excerpt": "The rise of generative AI poses a significant threat of misinformation. We must safeguard the truth and integrity of our information landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/",
+      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647aecbada2ba3a38c0e1090/0x0.jpg?format=jpg&width=1200",
+          "width": 1125,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/",
+      "publishedDateTime": "2023-06-04T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-04-small-business-tech-roundup-instacart-launches-new-in-app-ai-search-tool-powered-by-chatgpt.md",
+      "title": "Small Business Tech Roundup: Instacart Launches New In-App AI Search Tool Powered By ChatGPT",
+      "excerpt": "Ask Instacart will also store user history further personalizing the shopping experience when new orders are placed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/06/04/small-business-tech-roundup-instacart-launches-new-in-app-ai-search-tool-powered-by-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/06/04/small-business-tech-roundup-instacart-launches-new-in-app-ai-search-tool-powered-by-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6479e3711296331f32e64fe1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/06/04/small-business-tech-roundup-instacart-launches-new-in-app-ai-search-tool-powered-by-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/06/04/small-business-tech-roundup-instacart-launches-new-in-app-ai-search-tool-powered-by-chatgpt/amp/",
+      "publishedDateTime": "2023-06-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-04-what-latin-american-fintech-startups-can-teach-silicon-valley.md",
       "title": "What Latin American Fintech Startups Can Teach Silicon Valley",
       "excerpt": "As Silicon Valley-based startups contend with the reality of sustained high inflation, here are the lessons that they can learn from their neighbors in Latin America.",
@@ -903,246 +1136,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
-      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "originalUrl": "https://abc7chicago.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7chicago.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "publishedDateTime": "2023-06-02T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-the-latest-paris-fashions-in-fintech.md",
-      "title": "The Latest Paris Fashions (In Fintech)",
-      "excerpt": "I was flattered to be invited to chair the keynote panel on new business models for banking at the Paris Fintech Forum 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647a271e4865d126400b6f29/0x0.jpg?format=jpg&crop=2830,1591,x0,y50,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/amp/",
-      "publishedDateTime": "2023-06-02T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-whats-the-point-of-expanding-album-covers-with-ai.md",
-      "title": "What's The Point of Expanding Album Covers with AI?",
-      "excerpt": "With Photoshop’s new generative fill tool—which uses artificial intelligence to generate an expanded section of a piece of work—pro-AI knuckledraggers across Twitter are revealing the ExPaNdEd EdItIoNs of some of music’s most iconic album covers.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-ai-art-dall-e-expanded-album-covers-1850495918",
-      "originalUrl": "https://gizmodo.com/ai-ai-art-dall-e-expanded-album-covers-1850495918",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b917b007d29b3cc15579aab8fcefb4c4.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-bee-inspired-flying-robot-gains-yaw-control-via-angled-wings.md",
-      "title": "Bee-inspired flying robot gains yaw control via angled wings",
-      "excerpt": "Robotic versions of flying insects hold a lot ... air vehicles), movement along this axis has always been difficult to control. As a result, the tiny drones typically end up facing in one ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/drones/bee-inspired-robot-yaw-control",
-      "originalUrl": "https://newatlas.com/drones/bee-inspired-robot-yaw-control",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-yc-backed-dumme-raises-34m-for-its-ai-video-editor-that-turns-long-form-youtube-videos-into-shorts.md",
-      "title": "YC-backed Dumme raises $3.4M for its AI video editor that turns long-form YouTube videos into Shorts",
-      "excerpt": "Dumme, a startup putting AI to practical use in video editing, is already generating demand before opening up to the public. The Y Combinator-backed company has hundreds of video creators testing its product,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/",
-      "originalUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/IMG_0686.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/amp/",
-      "publishedDateTime": "2023-06-02T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

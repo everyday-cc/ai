@@ -1,21 +1,28 @@
 ---
 category: news
 title: "UN chief calls for coordinated global action on disinformation, hate and artificial intelligence"
-excerpt: "The United Nations chief says the proliferation of hate and lies on digital platforms and the threat that artificial intelligence can become an uncontrolled “monster” demand coordinated global action."
+excerpt: "The proliferation of hate and lies on digital platforms and the threat that artificial intelligence can become an uncontrolled"
 publishedDateTime: 2023-06-12T21:47:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/nation/un-chief-calls-for-coordinated-global-action-on-disinformation-hate-and-artificial-intelligence/"
-webUrl: "https://www.seattletimes.com/nation-world/nation/un-chief-calls-for-coordinated-global-action-on-disinformation-hate-and-artificial-intelligence/"
+originalUrl: "https://mynorthwest.com/3899714/un-chief-calls-for-coordinated-global-action-on-disinformation-hate-and-artificial-intelligence/"
+webUrl: "https://mynorthwest.com/3899714/un-chief-calls-for-coordinated-global-action-on-disinformation-hate-and-artificial-intelligence/"
 type: article
-quality: 4
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
+    width: 452
+    height: 282
+    isCached: true
 
 related:
   - title: "The Next Threat From Generative AI: Disinformation Campaigns"
@@ -35,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "gUWtgYTI7WUTZDVZPTeww3TngHe1o3/9lgeSNa//02ZVDWyOWQs65Q4K/6jq1JWka18SqS+s6Hs1lwbsj2nHPMKkCFQvFH80OiUUB2YBOtx9YSUTryKyTvnv15A5ODmFa1FurvFiPy/+MbzVF57uFJoXByWrioLLUFi1HE14FAWAorDaJiz+Q+z70CVWb7QplbIxSEpV8CxfDU41Lgggk++Mlz2rnTGj/nLBFCuh86diJ+9KQfRsUVTgDOMPDrCAVq9UPZeTuGE1H2HJRNUr9F99+nmlblt/NNeAzyHlkulqlDQf+tJrhAumRm9lF2UYXuDR3wIvFBF6mRaGpqtOEbR6Zfpn18/BzMctTQ/fl2Jr21502oqwwyZYxza9yEZgz1sv3iPkUD6LTz1/JJAgXrkY3oQ0cDFF7EVLIQ3z5UfisoPBvS8Ot9AiZJd3kxAKMsTcqK8U4+UUmCBqSIzoUAseWGFM7cRmQoCu3KhkIrq0vxQMALBTTFl9/AApk9nqKc8L0aRj0wsextQ8JbBy0w==;BAant29YHtr2HW4UHt3mgQ=="
+secured: "Db8Q/ANR8Og09mHnJMjFtKvh0v7OvJKvTs661J9OdVVXURv3NvImrngyl6il1bFJVg0AC701oE+iNt356mDDOgZL/aIBeId++P6PDjNwCp4t30kjzpR8QIG/plbX7aTXq/w2gOcady26eDo3w8KgfMI4yQINS4gfrBOZ931NIfQAzjOILhGIRdgokTdsaI3L/jDyhI8sfACnOHWjbUKAKR7L4FwHLsebiFGbFoJql94CUO0a7CDIiNOjU4XlWc4e7IYihBVY+qd0cqOxUjAIflACQQVuDBedeicPg3MvzoXhFRgx3wblXLuMQbo1OVtyqoMpg4VqRsvk81FS5RQpUp+F0nbIBteW9zdu4jG2NGw=;8P8lBMyp06e+V3lfrgq33w=="
 ---
 

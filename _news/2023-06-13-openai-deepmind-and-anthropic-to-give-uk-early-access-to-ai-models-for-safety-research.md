@@ -84,6 +84,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "OpenAI competitor: Reason why Nvidia, Oracle are investing in AI startup Cohere"
+    excerpt: "Cohere, an AI foundation model startup, has raised $270 million in a funding round from investors, which include technology giants such as Nvidia, Oracle and Salesforce Ventures. The Toronto-based AI startup competes with Microsoft-backed OpenAI and focuses on building AI models for enterprise customers."
+    publishedDateTime: 2023-06-09T02:09:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/articleshow/100862259.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 53
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-100862259,imgsize-832578,width-800/100862259.jpg"
+        width: 800
+        height: 529
+        isCached: true
   - title: "OpenAI CEO Sam Altman visits South Korea as country seeks to encourage AI development"
     excerpt: "After crisscrossing Europe last month meeting lawmakers and national leaders to discuss the prospects and threats of AI, Altman has travelled to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea - all this week."
     publishedDateTime: 2023-06-09T01:34:00Z
@@ -158,6 +174,6 @@ related:
       domain: cointelegraph.com
     quality: 33
 
-secured: "RaznN5GZFX0cj4AmtkN/zrUJIgRnnbAZdK+Nz7/tjyhBS+LLW0DDy2wgTtlPeTngdQsa9uqUGBBKf5XEYOEBerjfRJDSDpdHXvSkvhHDhT0/UPmfi6aZ4ySuEaEygbXlA6tYPqeNNuMV1f8EiruWmYeUW5rfdV4cVKr+KcCp7oTeh8OeoDygjU+RC9p/C6n8t1lXcE0rgOpg37VNx7Q5BX8swgvxcSplW8q6bsN55e1mXq3Yf4tEaeUw/rFVjrdJ2Mlt8M4laFoEs7TzLrWlJKT25bMMbrWo6vfEtvjSx0wOJnmF+oRk2qk1VhCIXyQMQMad49d4CN/ByuQFcXQ4FGl9EGKfm7aPbsIDA7UZ4xU=;ta/B8LenoY8I2OHwFiFl1w=="
+secured: "VLe9R9KUdaEeWhICxwZ+CMjg7n3N+YZuTK8Uz9UzAAceBikl293GHENBVrgR55xWqSV8aUrPdkADvI+MrgvrklzcDnMV4OD8mjlqlCVr3+oRzvl2q+o4Ebq4eWQSGROEEdXUfPVmFQdwaH76FqA7urahO7j6qJEkAbZebu1QTFSv+0ysk8rMdi3a70vwmPbpxXjoqkl07EbdgHrsNFnqmMSGRADNR2jWpPn+Uenphqxqc5si/kdaD0GuBz05BwvOakVYM9UpW9bYQEXd1De2RMYeijecntb3GR71fX+BMJqpQLAeKCOy63CigKXQv6vqEdOlbEdKCuZSI/8WzZ/LX0ER/4HSOZ4L0fJKWq8T+nQq5CNKVNQkkeQsN+IW2yPoPN1J7E3QVq+YIaxXOr9ae1ckJtB3ZlpNnDcbkQ2Xb6VUZxqoxIH1rURtuGTPEZpvnV0scN0jVY4rKQD3nia1K7gBEDsWaq9t59f9pkEL1eD5aqWBTHKiHtcw9VKD3ZYn8J4v/9tgUj+2KO16QvXstg==;ayOSubyijVqYsg9tw8yGzw=="
 ---
 

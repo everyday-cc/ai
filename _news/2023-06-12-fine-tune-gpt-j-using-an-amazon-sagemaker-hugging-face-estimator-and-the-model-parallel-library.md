@@ -66,20 +66,6 @@ related:
         width: 1026
         height: 510
         isCached: true
-  - title: "AWS says Falcon40B Large Language Model Trained on Sagemaker"
-    excerpt: "AWS revealed that TII), a leading global scientific research centre in Abu Dhabi, trained its top-performing, open-source Falcon 40B model on AWS."
-    publishedDateTime: 2023-06-08T06:57:00Z
-    webUrl: "https://analyticsindiamag.com/aws-says-falcon40b-large-language-model-trained-on-sagemaker/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/AWS-falcon.jpeg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "TII announces the open source launch of the UAE's first language model trained on Amazon SageMaker"
     excerpt: "The #1 model on the Hugging Face Open LLM Leaderboard is now available via Amazon SageMaker Jumpstart, making it easier to build cutting-edge generative AI applications using the top open source model."
     publishedDateTime: 2023-06-08T10:32:00Z
