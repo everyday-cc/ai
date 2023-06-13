@@ -61,22 +61,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Salesforce Connections - \"No offense to crypto fans, but this is real.\" Salesforce customers react to generative AI news"
-    excerpt: "Salesforce Connections 2023 kicked off with the expected generative AI fanfare - including the launch of Commerce GPT and Marketing GPT. But where do customers stand? I hit the show floor and found out."
-    publishedDateTime: 2023-06-08T10:33:00Z
-    webUrl: "https://diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news"
-    ampWebUrl: "https://diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-no-offense-crypto-fans-real-salesforce-customers-react-generative-ai-news?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 34
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-06/salesforce%20-%20retail%20ai.jpg"
-        width: 1260
-        height: 818
-        isCached: true
   - title: "Salesforce touts AI strategy, doubles investment in start-ups"
     excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI start-ups as the company banks on the emerging technology to help resuscitate sales growth."
     publishedDateTime: 2023-06-12T19:19:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done/amp/"
 type: article
 quality: 98
-heat: -1
-published: false
+heat: 208
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches GPT-enabled Azure AI for US government agencies"
-    excerpt: "Microsoft has announced the availability of a new Azure OpenAI service, designed specifically to meet stringent requirements of US government agencies. These generative AI capabilities offered by the new service can help US government agencies improve ..."
-    publishedDateTime: 2023-06-08T09:32:00Z
-    webUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.html"
-    ampWebUrl: "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 121
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/05/shutterstock_716332027-100940548-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft unveils Azure OpenAI Service for Government & AI customer commitments"
     excerpt: "Microsoft announced its new Azure OpenAI Service for government and the tech giant unveiled a new set of three AI commitments to its customers"
     publishedDateTime: 2023-06-08T22:43:00Z
@@ -61,17 +45,19 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Microsoft has added ChatGPT into the secure US government Azure cloud"
-    excerpt: "Microsoft has announced its Azure OpenAI Service is now available to the US government in an even more secure format, with specific compliance promised for regulatory standards for classification and security."
-    publishedDateTime: 2023-06-12T15:03:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud"
+  - title: "5 ways to explore the use of generative AI at work"
+    excerpt: "ChatGPT and other generative AI tools have captured the public imagination. Here's how you can turn a much hyped tool into a productivity boon."
+    publishedDateTime: 2023-06-12T13:52:00Z
+    webUrl: "https://www.zdnet.com/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/E9JMqiF2RG9PQAUBVnHM6h-1200-80.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/6448985610910fb9c6027b90eaf317dac61b65da/2023/06/12/c6a475c6-2642-4195-b8e8-9aabbb64edee/gettyimages-1252207238.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -100,20 +86,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 62
-  - title: "Microsoft Extends OpenAI's Language Models to US Government Agencies via Azure Cloud"
-    excerpt: "By bringing OpenAI's sophisticated language models to Azure Government, Microsoft aims to empower US federal agencies with cutting-edge AI capabilities. This move underscores the company's commitment to delivering innovative solutions and advanced ..."
-    publishedDateTime: 2023-06-11T09:04:00Z
-    webUrl: "https://menafn.com/1106422461/Microsoft-Extends-OpenAIs-Language-Models-to-US-Government-Agencies-via-Azure-Cloud"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 62
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_80_menafn.jpg"
-        width: 512
-        height: 262
-        isCached: true
   - title: "Microsoft Teams up With Indian SMBs to Unleash Generative AI Brilliance"
     excerpt: "According to Microsoft research, almost 35% of SMBs surveyed were spending over 10% of their revenue on technology. Not only this, SMBs in India are also exploring leveraging the capabilities of Generative AI."
     publishedDateTime: 2023-06-12T07:37:00Z
@@ -128,29 +100,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Sheikh Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence"
-    excerpt: "The Dubai Centre for AI aims to train 1,000 government employees from over 30 government entities on the uses of generative artificial intelligence"
-    publishedDateTime: 2023-06-09T04:00:00Z
-    webUrl: "https://gulfbusiness.com/sheikh-hamdan-launches-dubai-centre-artificial-intelligence/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 51
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/Dubai-AI.jpg"
-        width: 920
-        height: 630
-        isCached: true
-  - title: "Klir Unveils Revolutionary ChatGPT Integration powered by Microsoft Azure's OpenAI Service for its Unified Water Management Platform"
-    excerpt: "The first-of-its-kind AI integration simplifies compliance and operational processes for water professionals while maximizing economic and"
-    publishedDateTime: 2023-06-12T22:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/klir-unveils-revolutionary-chatgpt-integration-powered-by-microsoft-azure-s-openai-service-for-its-unified-water-management-platform-1032384641"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "We are seeing an artificial intelligence battle between Microsoft and Google: Beth Kindig"
     excerpt: "I/O Fund CEO and lead tech analyst Beth Kindig provides insight on stock performance and the development of AI on 'Making Money.'"
     publishedDateTime: 2023-06-09T18:54:00Z
@@ -174,15 +123,6 @@ related:
       name: Mozilla
       domain: techcentral.ie
     quality: 45
-  - title: "Satori's Data Security Platform is Selected for the Microsoft Pegasus Program and is Available in the Azure Marketplace"
-    excerpt: "Satori’s continued product innovation and customizable data security platform is recognized by its inclusion in the Microsoft for Startups Pegasus Program, an invite-only program that connects growth-stage startups to thousands of Microsoft’s top customers."
-    publishedDateTime: 2023-06-08T13:08:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/08/9829283.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 42
   - title: "AWS Unveils Unique Approach to Generative AI, Setting It Apart from Google and Microsoft"
     excerpt: "AWS is making significant strides in the field of generative AI with its distinctive approach. By focusing on customization, fine-tuning, and responsible development, AWS sets itself apart from competitors like Google and Microsoft."
     publishedDateTime: 2023-06-09T18:18:00Z
@@ -192,6 +132,15 @@ related:
       name: tech
       domain: techstory.in
     quality: 42
+  - title: "Generative AI is coming for healthcare"
+    excerpt: "ChatGPT and its close generative AI cousins (like Bard and MedPaLM) are now being deployed and tested in healthcare settings. At its simplest, generative AI is a tool or algorithm that can create astonishing new content (think poetry,"
+    publishedDateTime: 2023-06-08T12:17:00Z
+    webUrl: "https://www.pmlive.com/blogs/smart_thinking/archive/2023/rohit/generative_ai_is_coming_for_healthcare"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 36
   - title: "Microsoft moving some top AI experts from China to new lab in Canada"
     excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
     publishedDateTime: 2023-06-09T20:00:00Z
@@ -210,29 +159,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Personal Injury Startup EvenUp Announces $50.5 Million Investment, Launches Gen AI Assistant ‘Litty’"
-    excerpt: "And again, avoid manual data entry when it comes to the tabulation of bills.” Lastly, the startup is focused on further refining Litty’s generative AI capabilities. “We want to be able to accelerate the client’s ability to get to a demand draft ..."
-    publishedDateTime: 2023-06-08T14:07:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/06/08/personal-injury-startup-evenup-announces-50-5-million-investment-launches-gen-ai-assistant-litty/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 22
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/EvenUp-Logo-767x633-1.jpg"
-        width: 767
-        height: 634
-        isCached: true
-  - title: "Adobe Launches AI Image Generator Tool for Enterprise Customers"
-    excerpt: "Adobe has announced the availability of its Firefly generative image generator for enterprise customers, allowing them to customize the model with their own branded assets."
-    publishedDateTime: 2023-06-08T12:23:00Z
-    webUrl: "https://www.tasnimnews.com/en/news/2023/06/08/2907854/adobe-launches-ai-image-generator-tool-for-enterprise-customers"
-    type: article
-    provider:
-      name: Tasnim News Agency
-      domain: tasnimnews.com
-    quality: 19
 
 secured: "X1UJ9p6xnrQ09Weu6lPYZjiUPzo7x949xDKU9F8zLyQRO3yzNDFIZ9xxcPMZCq9t2G2VH4RyluCmycBYVYVLLZl6S/H+9q1P0FHGoF/THE1pKbpLoF1EsoGBb3F9U8apro/YkJOE7J6QUCDHiGoMCW1WxznUWR/I6QtQlRuqKw6thlVNDWELT7DHHd2NKi16LexMFbtnNIi+u57giM8xEPit5Zd1WZ2BktMnKnO0saUDlV3uBQBizz4fdLuSUOgtavGv1GbUCvgyqGNBs8SQYix+KG9XIj0hjzSycga0pfJYBoINOtusc/cSEXICWpDvKJff3fsbNf7zMVtYncJBphHhZOuswp/1wr/yyWqx4lncgpYNkBstFqzu6rMQEsolb5Tkji7rNpxYY+TkJWjpGv+3MBPNCz2GEJd8U3XWo8DyTy9QkrVygLbk1MIB+J2PHAdbELI13wt/iYNnRo+UDGq49AslVnSRWUsaMKPrSLoToDpaZ8uCxEuESioirR96ha4e/GOede6jPcQrRp6HVQ==;goGsz79I9dwcolB21zuGQg=="
 ---

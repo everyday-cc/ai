@@ -82,15 +82,6 @@ related:
         width: 1280
         height: 730
         isCached: true
-  - title: "AI FAANG Stocks You Can’t Go Wrong With"
-    excerpt: "All of them are good buy. To some all are working on similar advances in the field, and this competition will likely drive bigger and better things out of all of them."
-    publishedDateTime: 2023-06-08T10:40:00Z
-    webUrl: "https://www.industryleadersmagazine.com/ai-faang-stocks-you-cant-go-wrong-with/"
-    type: article
-    provider:
-      name: Leadership
-      domain: industryleadersmagazine.com
-    quality: 19
   - title: "Snorkel AI Introduces New Foundation Model Data Platform"
     excerpt: "Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic"
     publishedDateTime: 2023-06-12T16:41:00Z

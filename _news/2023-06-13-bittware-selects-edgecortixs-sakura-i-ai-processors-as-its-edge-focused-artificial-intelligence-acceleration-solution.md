@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Bittware Selects Edgecortix's SAKURA-I AI Processors As Its Edge Focused Artificial Intelligence Acceleration Solution"
-excerpt: "Edge GPU is expected to be a TSMC 7nm device ... \"We are pleased to have BittWare bringing our sakura-i AI chip to market as part of their new artificial intelligence and machine learning inference acceleration program,\" said Sakyasingha Dasgupta, Founder ..."
-publishedDateTime: 2023-06-13T01:54:00Z
-originalUrl: "https://menafn.com/1106428898/Bittware-Selects-Edgecortixs-SAKURA-I-AI-Processors-As-Its-Edge-Focused-Artificial-Intelligence-Acceleration-Solution"
-webUrl: "https://menafn.com/1106428898/Bittware-Selects-Edgecortixs-SAKURA-I-AI-Processors-As-Its-Edge-Focused-Artificial-Intelligence-Acceleration-Solution"
+title: "BittWare selects EdgeCortix's SAKURA-I AI Processors as its Edge Focused Artificial Intelligence Acceleration Solution"
+excerpt: "EdgeCortix® Inc., the innovative Edge Artificial Intelligence (AI) Platform company, focused on delivering class-leading compute efficiency"
+publishedDateTime: 2023-06-13T00:00:00Z
+originalUrl: "https://www.asiaone.com/business/bittware-selects-edgecortixs-sakura-i-ai-processors-its-edge-focused-artificial"
+webUrl: "https://www.asiaone.com/business/bittware-selects-edgecortixs-sakura-i-ai-processors-its-edge-focused-artificial"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_6.jpg?567996"
-    width: 450
-    height: 250
+  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2023/EdgeCortix_founder_CEO_Dr_Sakyasingha_Dasgupta_poses_a_picture_latest.jpg?itok=yF7HLRSl"
+    width: 600
+    height: 498
     isCached: true
 
-secured: "za4SVp8Zzgzch5vl4BwHXvG0SoQGxugHUwiCkHlHci3GkrrZGtoa7Yd6jbpQON0v6kBC03g23m+ba+q0PqzA259+Gy0r4Oz2mKXv/kdUy+Ky9Yn/7lL+hhBduRRH9KyZm1UZMurK8cHGBZWOH1YFZGRVdUMAwkap466Pi6bPoBC+MnUgnIDBiuJthh0Iqj1NS6ni0R57vgujovdqMBJSaL4WbFvw9eabXKU26U5Vn2vPUhAVFQxcxLTOsDTd/M38WahkVIxctzQ1VQsuoqChmZsupYDcAeZpGr7VaqRAJeEu5naCKyuF+PLRbzV1cxK9qOh5NMb+o9WJ4nmpoHfGz72JGrVA5bNg2Pbj7VPtvuI=;EGeSskG2n0u3demonX6gZw=="
+secured: "cxWnRIACZfABtrDxCmNnK7Bxbv59MLnerL8pp+3HRPIU2ccIaqWjGq7ZNI4v57M9XR+mFXewYe/MWNJ0qSGysNOThLakSt4EMgJpN0Y5C498BI/i1K+Zv0r2TjH/SaXbJUoM3RbHvSlI61dtRIhKz1kHvcwPwOgZ4P8crBEy1KYe/xsSvcMoInw/P8IU7dwHkGcvXqVyXQXESRaRr1fb2oA8AuSKIQipGNDyym59zSUUbZzOLFSyEat81PKKAb/QVDNgD9QAAk3iwchtgWPWbxp2n7IHeMHfFNsyCverk0juupIqxzLUnL/hevC/nv82oPxwIESABhMRC9x57/0fX06ZFYkpQ2y+wKe6S/ACtRo=;qH+5GZD0dLlHGKQRjge6tg=="
 ---
 

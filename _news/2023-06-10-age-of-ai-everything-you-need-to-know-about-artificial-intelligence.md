@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 102
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "What To Know About Generative AI For Customer Support"
-    excerpt: "Its promising results include enhanced text summarization, translation, question-answering ... systems can answer the question in more than fifty languages. 4. Cost-Effectiveness: Implementing AI-based customer support systems can lead to cost savings ..."
-    publishedDateTime: 2023-06-08T11:02:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64808b0b0747fc9f7c17834f/0x0.jpg?format=jpg&crop=1457,819,x89,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta plans AI everywhere"
     excerpt: "On Thursday Mark Zuckerberg revealed his plans regarding AI to Meta employees during an all-hands meeting. An aggressive push forwards is based, he says, on “really incred"
     publishedDateTime: 2023-06-09T11:43:00Z

@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Tag Archives: AI music generator"
+    excerpt: "Meta has released its own AI-powered music generator – and, unlike Google, open-sourced it, TechCrunch reported. Called MusicGen, Meta’s music-generating tool, can turn a text description (e.g. “An ‘80s driving pop song with heavy drums and synth pads in the background”) into about 12 seconds of audio,"
+    publishedDateTime: 2023-06-13T03:27:00Z
+    webUrl: "https://geeknewscentral.com/tag/ai-music-generator/"
+    type: article
+    provider:
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 39
+    images:
+      - url: "https://geeknewscentral.com/wp-content/uploads/2016/05/Header-LogoGreenTag.png"
+        width: 360
+        height: 220
+        isCached: true
 
 secured: "RjQubGp0oikHksPiJmIBr/as+PIt0WqQH3rO0RbUdGQAewwARkDY03r24rcJ0/ob9DeBLe1woPVQj+15ZbEkTojqisFVx7p0CnpZsmSxDAfWwCEArTu5C2rHbMaHzMsDIUPO+EljV0vU59bTeLjOPtzgxR3d5W+6gV5nP8yd+2BXH1a3KGKJtXKaHlyOE8iaQSs+F7qhGOojxgoG1NxFtUN6TycOF5DzwQirPqT0sdA9qfuiNjlKXROdrd3l2HRMmUWvsviEQu/gdY6LCLMkOj211/NpSlfxdMRtLHwb3ewVkMd6KzAlJYPJuwBxRnafkkbfnh8B42zt3G0mMDPoHtpAGTzEEz2V3fUw8Iq25yBpTYLE6LOa2hEuQqx7Lyumy5N4Mz7bF/IIfv2ekYSR8nqzIDsi5YfehWewG7QX0FT/Rv1moYZ1yTgs90YfWueZlMP8Txi+MUD24M3cYqn8TUOyTo7V8QLt93/TkXPxnIdz169UQgs4NsAiANHE7UAzBRM+SlzKKwqoFkP9b9NnDw==;OmtK0BZGDu03g+PzeuX2VQ=="
 ---

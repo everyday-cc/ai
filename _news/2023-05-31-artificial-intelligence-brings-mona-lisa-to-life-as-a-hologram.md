@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Artificial intelligence brings Mona Lisa to life as a hologram"
-excerpt: "The Mona Lisa has been brought to life as a hologram. Leonardo da Vinci's most famous work has been recreated using AI (artificial intelligence). A state of the art computer neural network reconstructed the model's enigmatic smile in finer detail than ever before."
-publishedDateTime: 2023-05-30T23:00:00Z
-originalUrl: "https://www.msuexponent.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_472e1483-cbb5-58cb-a6d7-f764c744efb2.html"
-webUrl: "https://www.msuexponent.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_472e1483-cbb5-58cb-a6d7-f764c744efb2.html"
+excerpt: "Lead author Dr. Yue-Sheng Wang, of Tianjin University, China, said: \"We chose to recreate the Mona Lisa as a proof of concept. It is so famous almost everyone knows about it. \"It is filled with countless delicate and subtle transitions of layers,"
+publishedDateTime: 2023-05-31T00:00:00Z
+originalUrl: "https://www.lebanondemocrat.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_67801f58-6d9d-54f7-9349-7602267d6793.html"
+webUrl: "https://www.lebanondemocrat.com/news/national/artificial-intelligence-brings-mona-lisa-to-life-as-a-hologram/article_67801f58-6d9d-54f7-9349-7602267d6793.html"
 type: article
 
 provider:
-  name: The Exponent
-  domain: msuexponent.com
+  name: The Lebanon Democrat
+  domain: lebanondemocrat.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/msuexponent.com/content/tncms/assets/v3/editorial/2/a9/2a96f6dd-0125-5ee1-b0eb-7837f8e49572/64761306cb15f.image.jpg?crop=1762%2C928%2C0%2C176&resize=1200%2C632&order=crop%2Cresize"
-    width: 1200
-    height: 632
-    isCached: true
-
-secured: "I+Wa7J1DhSR0XwH38wx33MOk3+i60vNbbVCpRQGTEHxpizFtIOMPlkjjLMJXe8YIYXhppn2zBrzLW3sPImY97w/Z/pgOk8Ejl2u5o3Z/5fbjZa6/3K+j+rJZAvLFp9U8aUcbhj5CJz7Nz9kquxOkNvt//R274koJd3o7X32hBCB+x7tGADCwRryy6czwtAOn2Zd+EqoxKP0Pp8g3lR1vUCpdSqsuCzlnHgVycsMS3dyVvG4kct0SIy1RFGzmIcxdohVW/VMbJFyi4ctLOAR6d/6gSbpupzvQBr+0tO7rVJceTN7rcunzm/mjLxo4XSos6haLKnj1OeJS0GPSApGnlx7xDDl/dRoxtaZuT8KGmL2b3fJhsCHlr/KhUKMQAUzKq/wlhkDacOXokUVB/auInT1NgwiRNRJBO5NAygaGfY2wa8CiyWIrt0AIolnahulVxOPjMPIwqS3YwQtSGMFv9ad56l2LTjSgMPl77ni0CM4qFB4XFw8ArOEmv5hk49WGnVHaTdglD5hwQmotqA1iMQ==;sD0JKIIdFrNLlGtGyKzRrw=="
+secured: "kkC0jiQDISlgEa+3VP0p/OlGdCW/ZZDGZSsNl2Wdh5T5wgA1rMNY24m3FW/GL9CU43CF88eH/sw0IO7tw1q/WR/c/s6Gh54WbE5LZHz3cuCweAXmng8G9un9NSaWpyqtQq8WdLZ6RF0H57EgmXtIoMehOlYjo4agu+4mhkAApGokuI99sBDsX8X0iRzrEMA3+eblEswamyE3deK0bDyvGvnGKSiSh79j54iLxWhvByVWeMaQcObQUVHyO+W//uSCotIwuZjJfvIVZZWHQLayeUxWUQLTwPx9nEiyrID0I+n253WmMVeEBzu11inluBitLn4Njw9mcCYCdEmEQ5Z480uCc6qHFDofL6b5tAMbj1Xh2jdZRdeFK3dXfQPwWRNLtbDo4W/Yja3rUr80KxOlEZsAQzeD75kdOfWZ7RgH7Kgvp+i2/GQaY1PNyyeYBZHTR8rKxcTlLKWI3BY5dNtyvuaOlN4VRmiM04g6vXY65SswG8XoMIpBsoamXRerkXVeKae52cqTVqclkR3ySkiBcg==;EtBK6fCD1bJ6ghKPaRBs8g=="
 ---
 

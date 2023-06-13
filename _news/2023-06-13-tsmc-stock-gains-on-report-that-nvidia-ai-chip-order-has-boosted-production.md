@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tsmc-stock-outpaces-chips-on-r
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26"
 type: article
 quality: 102
-heat: 142
+heat: 144
 published: true
 
 provider:

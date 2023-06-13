@@ -27,18 +27,13 @@ images:
 related:
   - title: "Fullstack Academy to Launch Programs in Artificial Intelligence & Machine Learning and Cloud Computing Amid Surging Talent Demands"
     excerpt: "National tech education provider Fullstack Academy today announced the launch of two new bootcamp programs: Artificial Intelligence (AI) & Machine Learning, and Cloud Computing. The curricula, designed and delivered by industry-experienced tech practitioners,"
-    publishedDateTime: 2023-06-12T13:59:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/fullstack-academy-to-launch-programs-in-artificial-intelligence-machine-learning-and-cloud-computing-amid-surging/article_cdd5edba-9d5c-5617-b6a8-e037334571e9.html"
+    publishedDateTime: 2023-06-12T15:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fullstack-academy-launch-programs-artificial-intelligence-machine-learning-/2023/06/12/9830698.htm"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "HaQ9QA2taER3n0xsEzIuluadQ/8X8jcCucOiXqayXsNzeLDmoz19KI7nXmPtUCx2JOCmvNGQ3cvhVGuocEUjcV3/vuMinr0sPyaAbprttRlSM9jtQAJqTLQIPXMqLkN2KtP9CX1xY1X4VvEejNVKqEbmmuwtD/PH1+XdK9n2b0IyrgV6btjnTv6IaayOad7Ufzzt8QEt/EWwsEgfvuR658Fj2Y6ig3n7sQXtgTX0cMFQXJOqab16JRL0eoiPjM/CLxY1w5xevLIzkCCHtW11gpQ8rzkrw6XMM9BmlJj0x1dpCNEv9r9v47Gt5h/nbe2LDJn7x4WWlc2XYs1py5+7kHjvNh7lee4L4m3hLz/Bibbm75m/18FMoGPUY7pab8nRiOOcuRtrE1qOo1tIXZb2dzRQuD363x5EMEnrlpFkr5kaz991hX4uHZigNEMjuwDnyHwzpiba+fuqT/skdLkR/vUimU/2rGQIhsHJlihku7tsZkxRLjoEI2c+YDShFrIcEgJLPulie5S2wQqtx9aRZA==;Hr6t9G1CpUtY3YJlgjdOvg=="
 ---

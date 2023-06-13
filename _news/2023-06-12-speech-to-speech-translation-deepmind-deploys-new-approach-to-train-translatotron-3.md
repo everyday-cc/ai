@@ -34,6 +34,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DeepMind’s AlphaDev Leverages Deep Reinforcement Learning to Discover Faster Sorting Algorithms"
+    excerpt: "Sorting algorithm is one of the most popular foundation algorithms that are used trillions of times on almost every day. But like many algorithms, it has reached a stage whereby human are struggling to improve them further,"
+    publishedDateTime: 2023-06-13T03:02:00Z
+    webUrl: "https://syncedreview.com/2023/06/12/deepminds-alphadev-leverages-deep-reinforcement-learning-to-discover-faster-sorting-algorithms/"
+    ampWebUrl: "https://syncedreview.com/2023/06/12/deepminds-alphadev-leverages-deep-reinforcement-learning-to-discover-faster-sorting-algorithms/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/06/12/deepminds-alphadev-leverages-deep-reinforcement-learning-to-discover-faster-sorting-algorithms/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 47
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
   - title: "DeepMind achieves giant leap in sorting speed"
     excerpt: "Sorting, or data structuring, has been a core principle of computing operations since the first computers were developed."
     publishedDateTime: 2023-06-12T13:19:00Z

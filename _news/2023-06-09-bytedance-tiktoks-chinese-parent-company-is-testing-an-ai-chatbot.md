@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6286069/bytedance-tiktok-artificial-intelligence-
 webUrl: "https://time.com/6286069/bytedance-tiktok-artificial-intelligence-chatbot-china/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Chinese Tech Firms Pushing Boundaries Of Artificial Intelligence"
-    excerpt: "In China’s quest to shed its reputation as a land of copycats, the world’s second-biggest economy is pouring resources in to the hottest area in technology innovation: artificial intelligence."
-    publishedDateTime: 2023-06-08T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/ywang/2017/04/10/the-chinese-tech-firms-pushing-boundaries-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Chinese companies at cutting-edge of artificial intelligence, says report"
     excerpt: "Chinese enterprises are at a crucial juncture of breakthroughs in artificial intelligence, as generative AI and other rapidly evolving technologies usher in a future for business where the physical and digital worlds are inextricably linked,"
     publishedDateTime: 2023-06-12T23:47:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/exploring-generative
 webUrl: "https://aws.amazon.com/blogs/machine-learning/exploring-generative-ai-in-conversational-experiences-an-introduction-with-amazon-lex-langchain-and-sagemaker-jumpstart/"
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1139
     height: 564
     isCached: true
+
+related:
+  - title: "Generative AI In E-Commerce Market To Surpass A Valuation Of US$ 2.1 Billion By 2032 Driven By Personalized Shopping Experiences"
+    excerpt: "The global generative AI in E-commerce market includes software solutions, platforms as well as services that use generative AI algorithms to provide E-commerce businesses with different functionalities like product recommendations,"
+    publishedDateTime: 2023-06-13T03:53:00Z
+    webUrl: "https://menafn.com/1106426923/Generative-AI-In-E-Commerce-Market-To-Surpass-A-Valuation-Of-US-21-Billion-By-2032-Driven-By-Personalized-Shopping-Experiences"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 10
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?126584"
+        width: 389
+        height: 250
+        isCached: true
 
 secured: "T7eKk+IWOV9yVet+Ar3tCk1WwfJaTjB1cSMM5YsJo4pTAU2fFlMKwEPNNL0zggTjPQjZ+zvaYbqjA5anejGGmLXy6E5hQ3qZAfX0oY5wyc4/touBCMX5lrndHVngzM7JNhdGXSyBrKtX9WY2tnH2M7GCOGwXIkFH9+c69tPh/vWzXtntuPPE3OATi31pOVg1rI6ZKVU8dLAnSA8wD62Cr2pbNEe6GJ3ejJ8nrmJjfZhEzW+a+vYCEqZgsH0eayNWi4uk+cGHnvCxsUfVzaZrN0c7xt0npIUgfz5Vz+y/qlthq6BBo+n7PVItjk29kU+xi63USrpk5btZx2pTPrXCwzNUNl7U8hVrQD6qUU4KJGo=;GpvTGIMO5C/CboleJwWHaQ=="
 ---

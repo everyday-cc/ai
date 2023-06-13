@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What To Know About Generative AI For Customer Support"
-    excerpt: "Its promising results include enhanced text summarization, translation, question-answering ... systems can answer the question in more than fifty languages. 4. Cost-Effectiveness: Implementing AI-based customer support systems can lead to cost savings ..."
-    publishedDateTime: 2023-06-08T11:02:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/what-to-know-about-generative-ai-for-customer-support/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64808b0b0747fc9f7c17834f/0x0.jpg?format=jpg&crop=1457,819,x89,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "What Smart Companies Know About Integrating AI"
     excerpt: "AI has the power to gather, analyze, and utilize enormous volumes of individual customer data to achieve precision and scale in personalization. The experiences of Mercury Financial, CVS Health, and Starbucks debunk the prevailing notion that extracting value from AI solutions is a technology-building exercise."
     publishedDateTime: 2023-06-12T16:00:00Z

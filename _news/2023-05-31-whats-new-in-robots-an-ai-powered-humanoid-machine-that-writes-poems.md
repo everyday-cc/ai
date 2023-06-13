@@ -2,19 +2,25 @@
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
 excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
-publishedDateTime: 2023-05-30T17:34:00Z
-originalUrl: "https://www.chron.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php"
-webUrl: "https://www.chron.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php"
+publishedDateTime: 2023-05-31T12:35:00Z
+originalUrl: "https://roanoke.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_c01d3192-0895-5f0c-8a2d-6def5a719913.html"
+webUrl: "https://roanoke.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_c01d3192-0895-5f0c-8a2d-6def5a719913.html"
 type: article
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: The Roanoke Times
+  domain: roanoke.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "TJGfiC452m5EP2ZXKztGnKtmniZFUcbnzYl3UhR9g0VdM9Sbqr1YKq3igNL5lCQwGcGmf3wPRgYmEhXwHzzeYYufHR13IImoei8HJr9BIOmEeipzuUA89Nj7KUtle4jiWkCv7gI4moLu+oKvI122JJx2CpaUUfqsV4kIVXG1CFoPnQnByrTUIJpSHnmLaTCsMrz0SpsShS4VGK6kFLXaVZuiSmTOG+/luyUKgVmC7Rep7Go0huJM8Douvb6tBFAk4rxQpzZAl1M8f7sDu5nL7tWs28Ri6VS+CqHM8RJiuYWyA0LcUNN6a23ig5DSqiqDz/CF4iyGXZWOUrVUucs1xNa6KukJCjQfzOL3x3Evz30=;mOvYCCuEHwxnEzb7U2ndcA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/01/c01d3192-0895-5f0c-8a2d-6def5a719913/6477381d09f54.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
+    width: 1200
+    height: 631
+    isCached: true
+
+secured: "TAyAiIIhs9uCenG+8KG68NCDZnbF7qcbWZmFyKSKFlJ1BDTHA0NApVoX3Id2mGAuy4xKYAEDSDocG66+ZOCfUnb9yH9L7ZGF8VXjuFbnRR6ZcwbEFoHILX5c9u5FKN2YgbT0zJ697vAMRJQJ4pmUgwyOSKDNSUieAKQw4eP3DxVA0ywXpcQlh7Khm47ZEs+iliAjnEfbO++i+Nl5cw2KRqtmkD1LO5MFxoFVn6MfXd5AHrnxUTupCJpm14vyUW+fUPfY2J7f6YDo8XVQ/nJ1tQmg1n8IutMtAEV56roHR5NdaY/eNqNoZUJ1tUdH9SauPoefdztpqGoy0e6mMwdlv34PKdq9I6LgORZ1INgW3K0=;+lj7dRwvVyuHr0TyuCRZmA=="
 ---
 

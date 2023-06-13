@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-12T23:36:00Z
 originalUrl: "https://siliconangle.com/2023/06/12/oracle-beats-expectations-reveals-upcoming-generative-ai-service-sending-stock-higher/"
 webUrl: "https://siliconangle.com/2023/06/12/oracle-beats-expectations-reveals-upcoming-generative-ai-service-sending-stock-higher/"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/5007504146_9efd13e6a1_k.jpg"

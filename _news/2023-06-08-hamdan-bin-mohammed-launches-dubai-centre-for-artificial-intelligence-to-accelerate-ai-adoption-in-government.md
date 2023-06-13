@@ -9,7 +9,7 @@ ampWebUrl: "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-
 cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sheikh Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence"
+    excerpt: "The Dubai Centre for AI aims to train 1,000 government employees from over 30 government entities on the uses of generative artificial intelligence"
+    publishedDateTime: 2023-06-09T04:00:00Z
+    webUrl: "https://gulfbusiness.com/sheikh-hamdan-launches-dubai-centre-artificial-intelligence/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 51
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/Dubai-AI.jpg"
+        width: 920
+        height: 630
+        isCached: true
   - title: "Sheikh Hamdan launches Dubai Centre for Artificial Intelligence to accelerate government services"
     excerpt: "\"Dubai’s government will be the best in the world in deploying artificial intelligence (AI) within its various entities. This new Centre is the first step in achieving this goal and developing future services to keep pace with rapid technological advancements."
     publishedDateTime: 2023-06-08T16:29:00Z

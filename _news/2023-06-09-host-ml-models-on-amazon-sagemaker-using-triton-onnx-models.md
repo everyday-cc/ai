@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-am
 webUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/"
 type: article
 quality: 103
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -66,22 +66,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/12/gpt-j-sagemaker-hugging-face.jpg"
         width: 1024
         height: 510
-        isCached: true
-  - title: "TII announces the open source launch of the UAE's first language model trained on Amazon SageMaker"
-    excerpt: "The #1 model on the Hugging Face Open LLM Leaderboard is now available via Amazon SageMaker Jumpstart, making it easier to build cutting-edge generative AI applications using the top open source model."
-    publishedDateTime: 2023-06-08T10:32:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/tii-announces-the-open-source-launch-of-the-uaes-first-language-model-trained-on-amazon-sagemaker-l9o4438j"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/tii-announces-the-open-source-launch-of-the-uaes-first-language-model-trained-on-amazon-sagemaker-l9o4438j?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/tii-announces-the-open-source-launch-of-the-uaes-first-language-model-trained-on-amazon-sagemaker-l9o4438j?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 60
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZTE4MTQ3NzQtYTY0Mi00/0/africaataws-jpg.jpeg?f=3%3A2"
-        width: 660
-        height: 440
         isCached: true
 
 secured: "9fhW446w+IAAPzx0kpQ5ZW6r6vi3JTcwWuA0SoB/yQCNQlowKGbblSGBUkPcDESD+9EbmeltDbvtcRTMuN2XMllmmjtlBQWbOXNckFrfwo9pvi25zw5EFt02ilZFiQfZREWD6nkGIHsYhYYOGUrLUy5GprLEEDwz5lotXxCw4HPIWAzAnc2velOEgOu4A3bmvMn/wCRRvZYzG+5ftYhlFCquM40WJrhqdUGBBV+6P/AUCGleriU3qsc/mmHlHEdhrcFHt7gYWX0/Hmcig8m8FbLB03DfjbircB25edWbqH8G4FOYJ+mALqii68/JxbPH7pLSXEpEjmPjzRJu76ctWfB/YgiCSwZjfX8u/tctw98=;Xer2yAcgOjkDcFaIsZFEhg=="

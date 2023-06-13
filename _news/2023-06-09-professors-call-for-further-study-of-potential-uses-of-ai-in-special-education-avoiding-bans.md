@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-professors-potential-ai-special.amp"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/ff84040/2147483647/strip/true/crop/3000x1575+0+56/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2019%2F10%2F15%2Faid-evidence_wide-851025a61a9e7bbb8382dafed3c617413d4fdd1e.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Construction AI & Sensors: Unlocking Productivity & Sustainability"
-    excerpt: "Continued research and development in this area are essential to drive further progress and unlock the full potential of AI and sensor technologies in the construction industry. By embracing these innovations, builders can pave the way for a more ..."
-    publishedDateTime: 2023-06-08T11:00:00Z
-    webUrl: "https://www.forconstructionpros.com/concrete/equipment-products/technology-services/article/22862287/avoid-concrete-overdesign-with-construction-ai-and-concrete-sensors"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 39
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/05/AdobeStock_580721911.646e23ceef8d4.png?auto=format%2Ccompress&fit=max&q=70&rect=162%2C12%2C1530%2C861&w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "AI’s potential and threat calls for a studied response"
     excerpt: "AI’s potential and threat calls for a studied response. Governments, industry leaders and academia must work together to develop transparent guidelines"

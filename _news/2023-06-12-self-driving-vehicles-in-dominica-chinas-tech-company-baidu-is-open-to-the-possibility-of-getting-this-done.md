@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Self-driving vehicle facility for testing and research opens in Auburndale"
+    excerpt: "The multi-lane track will make it the only high-speed autonomous vehicle testing facility in the southeastern United States. READ: Dog dies after being hit by self-driving car in"
+    publishedDateTime: 2023-06-12T13:50:00Z
+    webUrl: "https://www.fox13news.com/news/self-driving-vehicle-research-test-facility-opens-in-auburndale"
+    ampWebUrl: "https://www.fox13news.com/news/self-driving-vehicle-research-test-facility-opens-in-auburndale.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/self-driving-vehicle-research-test-facility-opens-in-auburndale.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 42
+    images:
+      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2023/06/932/470/WTVT-Still-2023-06-12-09h23m54s265.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Self-driving vehicles in Dominica: China’s tech company Baidu open to making this a reality"
     excerpt: "Chinese multinational tech company Baidu is optimistic that in the not-too-distant future, they will be able to get their self-driving vehicles in Dominica, the Caribbean region, and other parts of the world."
     publishedDateTime: 2023-06-12T14:37:00Z

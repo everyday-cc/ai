@@ -9,7 +9,7 @@ ampWebUrl: "https://thebulletin.org/2023/06/artificial-intelligence-challenges-a
 cdnAmpWebUrl: "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 700
     height: 467
     isCached: true
-
-related:
-  - title: "Regulating Artificial Intelligence: The Need, Challenges, and Possible Solutions"
-    excerpt: "ethics, computer science, economics, and social sciences. However, there is currently a shortage of experts who can navigate the interdisciplinary nature of regulating AI effectively."
-    publishedDateTime: 2023-06-08T10:01:00Z
-    webUrl: "https://www.aei.org/technology-and-innovation/regulating-artificial-intelligence-the-need-challenges-and-possible-solutions/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 14
 
 secured: "jq+cRdNoGSyTLeNmiMrOtt4hdQFEkk/qHPLMceW6ATqyD5Wft9eoaMJGGiOwvBFWnLJaC9iPLT8oXdWdSGhf8S6sKU1F7x/amPfkP44xTpWD7Qc5jB1bw+bFRTdRplI9ut4ZJVHF/4w1qmGi4TTmzukELtJdw3NYXszqNgz0L8IJdY6PGMdu3nFF2IaQ50peG8vX8zSgjaVx95JU/YWoKpZV4DH6GJqE+syNtm1mU20M2xevFAyOxAYXiYk9fzW2dvGph1bc4D6Za6c9eZ7EyBvz2XH5801vUfYBELOnZXf5UwnoHCPIpzx3zP4LoFtKqiw7crpN+yLNLv0FeZN55YM1xihS1wgdtdOLg2VPXdc=;JFh58Tc+S7yibxsKsWnA3A=="
 ---

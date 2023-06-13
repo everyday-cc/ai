@@ -20,19 +20,19 @@ topics:
   - AI Hardware
 
 related:
-  - title: "MonsterAPI Says Its Platform Cuts AI Development Costs Up to 90%"
-    excerpt: "Palo Alto, Calif., June 8, 2023 – Today Monster API is launching its platform to provide developers access to GPU infrastructure and pre-trained AI models at a lower cost than other cloud-based options,"
-    publishedDateTime: 2023-06-08T11:00:00Z
-    webUrl: "https://insidehpc.com/2023/06/monsterapi-says-its-platform-cuts-ai-development-costs-up-to-90/"
+  - title: "Breakthrough AI Research by Lunit Presented at CVPR 2023: Transforming Pathology with Computer Vision for Medical Applications"
+    excerpt: "Lunit's pioneering AI study to be unveiled at one of the premier computer vision conferences, innovating pathology with more accurate cell detection SEOUL, South Korea, June 12,"
+    publishedDateTime: 2023-06-12T13:00:00Z
+    webUrl: "https://www.asiaone.com/business/breakthrough-ai-research-lunit-presented-cvpr-2023-transforming-pathology-computer-vision"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 41
+      name: Asia One
+      domain: asiaone.com
+    quality: 26
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/09/HPCAsAService-Cover-Image.png"
-        width: 425
-        height: 600
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/pr-newswire_500_4_709.jpg?h=7de12b8a&itok=5LJR__X1"
+        width: 600
+        height: 316
         isCached: true
 
 secured: "RdM0ywkAn8/sgZCD7BkwQnV3L0H8KHqFW9Q6iP751jveWBVeSo6/GBiJFshc3mdBWlfS+nzbHHO6zsaBwYHyF34wnPbDlfdrfb8o8BAHdX19k5ZAph6v9pM/YjwNORJolhHvqPwGdZpUZsaDWq0kMUT7V4MCo0l2ptomJA4uZTxYFcJAHFpPvCZukSXE1MskScLD7O4kwwnT34tRQOJfVMhFfsU6dm6kVgu4ufKN39iFU9F5stPdg9LnbaMQ1q7oy5N55ocDJ31XH/w1aTQzRzBRyzy3XkQiipIg0spB5ZwW7CSGZhp31sNcImKJufs8mmsnJSZKdCx08xaYiCAFtSwHlC0RsnqRMnzQsmEN7tM=;fpakeqTZM9uN7PVOIEG8nQ=="

@@ -66,22 +66,6 @@ related:
         width: 1024
         height: 510
         isCached: true
-  - title: "TII announces the open source launch of the UAE's first language model trained on Amazon SageMaker"
-    excerpt: "The #1 model on the Hugging Face Open LLM Leaderboard is now available via Amazon SageMaker Jumpstart, making it easier to build cutting-edge generative AI applications using the top open source model."
-    publishedDateTime: 2023-06-08T10:32:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/tii-announces-the-open-source-launch-of-the-uaes-first-language-model-trained-on-amazon-sagemaker-l9o4438j"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/tii-announces-the-open-source-launch-of-the-uaes-first-language-model-trained-on-amazon-sagemaker-l9o4438j?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/tii-announces-the-open-source-launch-of-the-uaes-first-language-model-trained-on-amazon-sagemaker-l9o4438j?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 60
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZTE4MTQ3NzQtYTY0Mi00/0/africaataws-jpg.jpeg?f=3%3A2"
-        width: 660
-        height: 440
-        isCached: true
 
 secured: "agb0U+XH/Hw3lbSagg9M9HZ1YAGxh0POKmH8j4fZXGGiwMcaO04EdmJmI+tOLAoFHXUIsQxPdXyhbcbFtbECNdW41R14kiwVVlQ0cZdJgq5dZOZy/Y9+zFj7JrIGtDXwuwddH4M8DKuhWFtfnoWkSSP3n+HnDzWd+ul+OqXiHghri8vsavpIjba6Umuxac4m//nfESAuMpCx0688k1qZegtfZ6Sq31bb9tuwtenNeG2IC1XmpWZv+lER9NraNnq0cK5vhWlMsnjV8SOBSKIzJkFm2s6v+6L7CwisepTBZhajHeUS07Zygx5gkuIiFUSR0IhVl4ghWPyXqKJqdFH7TumrcaOol2dmST2T+RY3phw=;sGD6gbax/gWPZ1/V/QHJ0g=="
 ---
