@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/11/big-tech-warns
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/11/big-tech-warns-of-threat-from-ai-but-the-real-danger-is-the-people-behind-it"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "17 Smart and Simple Ways People With High Emotional Intelligence Are Already Using Artificial Intelligence"
-    excerpt: "When it comes to artificial intelligence, people with high emotional intelligence have an advantage over everyone else."
-    publishedDateTime: 2023-06-11T04:38:00Z
-    webUrl: "https://www.inc.com/bill-murphy-jr/17-smart-simple-ways-people-with-high-emotional-intelligence-are-already-using-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 1
 
 secured: "JvL6np06RGkUtD09UGX/a5smfWyNM6OBcQmaK3NUTAJvATuy/RGJmceHRtacOrKeRToVCtj4FvcgiEKZmWPNdLWf+V+CPT8sawI/tze2gE14EkmfNKbQWxSGn9korQnMOIGn3tJ4hGfTJAz3CMoYuaO+tHdonTnG/RKiQ9Hh8peZfADUbFqoLxqN0GwTtU1/hMns1Bjz47jxE485dvE1Hky12+vtO9SYhZkyWESoNSNkKhA6g0uQhfaYtld6qYtZCFD4D9cHTvQvM5g57iK3KfHjZUXC5DA99KOz1RU3+/UkVxbAucrTO2PY5XWouQoo3jMiQh73Qh8BryaI+0uOnCbadrMYI7TRmCQ0JLfrTTUNPkSJzcc8fNnruQ+1pBuQ6i2IUpyckfqXdvK3sK1632lBsRKXd3/w1CfG+FqdlEHw6aw45MNhEwmnPeNcrO1Rd0XRWybRn/icpyyz8M4Iy9inXwrkn6dyGftBs+v5dIrms1/1pT73OQwfWBxcnbCQOGok4eyh2GJp7FmtrXzxKQ==;zdKFxV7deytGpAn48Li1zQ=="
 ---

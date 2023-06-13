@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/06/09/has-qualcomm-already-bea
 webUrl: "https://www.fool.com/investing/2023/06/09/has-qualcomm-already-beaten-apple-to-the-punch-in/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Motley Fool
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm May Be a Hidden AI Winner, Says Analyst. Smartphone Chips Are Why."
-    excerpt: "TD Cowen analyst Matthew Ramsay says chips within phones, such as those the company makes, could handle some of the processing for AI queries."
-    publishedDateTime: 2023-06-08T17:22:00Z
-    webUrl: "https://www.barrons.com/articles/qualcomm-stock-ai-chips-winner-6e854ae5"
-    ampWebUrl: "https://www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 72
-    images:
-      - url: "https://images.barrons.com/im-796661/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Arm-Qualcomm Lawsuit Could Muddle US Chip Design Leadership"
     excerpt: "Leonard Lee of neXt Curve considers the potential impact of a dispute between Qualcomm and Arm on the US semiconductor industry amid growing competition from Asia."
     publishedDateTime: 2023-06-13T08:01:00Z

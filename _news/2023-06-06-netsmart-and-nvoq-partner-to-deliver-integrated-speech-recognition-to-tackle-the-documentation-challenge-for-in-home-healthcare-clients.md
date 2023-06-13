@@ -1,15 +1,17 @@
 ---
 category: news
 title: "Netsmart and nVoq partner to deliver integrated speech recognition to tackle the documentation challenge for in-home healthcare clients"
-excerpt: "As part of the partnership, Netsmart becomes the authorized reseller of the nVoq speech recognition products for Netsmart clients. The cloud-based speech recognition technology will be seamlessly integrated within the Netsmart myUnity EHR solution,"
-publishedDateTime: 2023-06-06T15:02:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm"
+excerpt: "BOULDER, Colo., June 6, 2023 /PRNewswire/ -- nVoq Incorporated, an innovator of speech recognition technology within the in-home healthcare industry, and Netsmart, a leading provider of healthcare ..."
+publishedDateTime: 2023-06-06T13:49:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32738135/netsmart-and-nvoq-partner-to-deliver-integrated-speech-recognition-to-tackle-the-documentation-cha"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32738135/netsmart-and-nvoq-partner-to-deliver-integrated-speech-recognition-to-tackle-the-documentation-cha"
+ampWebUrl: "https://www.benzinga.com/amp/content/32738135"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32738135"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
@@ -17,11 +19,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/2018676/nVoq_Incorporated__Logo.jpg"
-    width: 300
-    height: 300
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "YSr+JoyYh7l0ViCq+akyaDlG7lzm/suc6tysYFL38IBqBKBy7dqx9iokNvUhU1OPD9+i+BRdhRgruFX7UvdiUjAqPu3ZvCg/VUkCeDQ+aTZmCSzas19SWryOyQyhy8K0baWkNsB4Fct7gCB73FANoVEAv942mHOADesn65DG6R4rxBj5xms0TZ7526VdZFL9goTEw8KK5VloIIzjZYjcikm2GvndHnOcZ6ueDT22bGkc0JWaw59rvKnNfFOx1O+6A74nsucgrvuW7rMak27uDhEiYWTbio3ocKKVGgrr/LpLjPx4oHjtgZJ3naJfbtvLTOb70B8yBxTGMesbJ7WS5VXr4o+vp0Fqhz8Gsoa4O2+086uLWnUgrFqLC+gHDtJ6+eaN6ipvU84YafLfRBXGU6/8No+9siPsnhR+K1cZPXn5/XggIt/LwxbQXoIPnGh3QS1Q5iox4bEB6lYjS9+rAJDeKu4CSoc9DjDF3AjD7GjM2w2coE49ArE+tewnX0r+PTBuGVmSBapFrSOJOiOlcQ==;j65wlD/qcB25nS0dNmW2VQ=="
+secured: "uVEevdzYVgqiipCNT4nGPF90YuCd5qvqduyvvzrPNCiQPj6a1s+/eU/HIhxZAC+4ODdNNjnyOZFn9McwS1lja6s15NPDg3f8Z5Smcjz2N2hPyMt0G7R5TPVVrZaRgD3fhTVQM+Oq1tcJpaIc0BLf09nlK9EPe2S2F0x2LUMNZ0bEsv4PAI1SHBIb3ANlH7kS6k+VqhTGgHdMjZ/S9DCFJzuWutvA9+4tgO5B+cSTEUlQqLmnfV6T8vX9DJU2P5gOyH74JmZxq8kqG7VSzqXe0Ei+wp/3FSo3O4ODZXBG6tnQGuFxHQ0lvwA2oo3SCAMdNXpjJS9LjFcVKmJMhEDP5vcrkcf6mF0R2HNB5jW5bRE=;iuO72KcHRee+N0WHlhCUwQ=="
 ---
 

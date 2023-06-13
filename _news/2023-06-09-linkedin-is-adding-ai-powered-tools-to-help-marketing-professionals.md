@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/linkedin-is-adding-ai-power
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to Adjust Your Marketing and Sales in a Volatile World"
-    excerpt: "Why are some firms better and faster than others at adapting their use of customer data to respond to changing or uncertain marketing conditions? A common thread across faster-acting firms is the use of AI models to predict outcomes at various stages of the customer journey."
-    publishedDateTime: 2023-06-08T19:02:00Z
-    webUrl: "https://hbr.org/sponsored/2023/06/using-ai-to-adjust-your-marketing-and-sales-in-a-volatile-world"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 51
   - title: "Accepting artificial intelligence: barriers and facilitators influencing healthcare professionals' acceptance of AI in the hospital setting"
     excerpt: "Researchers investigated the factors that hinder or promote healthcare professionals' acceptance of artificial intelligence (AI) in hospitals."
     publishedDateTime: 2023-06-13T09:25:00Z

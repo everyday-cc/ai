@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-covid.amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     height: 1280
     isCached: true
 
-related:
-  - title: "Machine Learning Turns Up COVID Surprise"
-    excerpt: "Researchers using machine learning to analyze daily pneumonia cases in an intensive care unit gained surprising insights about COVID-19 patients."
-    publishedDateTime: 2023-06-08T18:10:00Z
-    webUrl: "https://cacm.acm.org/news/273687-machine-learning-turns-up-covid-surprise"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
-
-secured: "2CiGlCs4d4+9BP3YMaAvqNzPK0LAR5G+sPTsFYYsyjYz3PldN4+vj295s+AaNEJxfeo/RiJwlGFtLIEdAwDp+tbRpq0DG+AqDDNFcwtF7Or8Jwlh1z+wd419/K356Las1K1po9Fr1NtNHwVM7wnKgZv++GJA0/W0N+0Fsp2J8pJ7sC7ZhmXdPW7lqN6AVBkJpwLeJWbV2bCeIZIdDRifKP7OTos8xFut7hVBZOqm9voindxKpw2rfVrjMd/ZUlqXPBTievBZ9aAFnl6BWEqppOuKfsVfSdiplSgZv/+pojU4s1xLENNQ++XfGqvWuyvsbMtxfirEXzU1gCou2Tv1CqDQSxgSG9Ho29TOqY4GfhU=;qR86Akz812BHrY7dDtG6hQ=="
+secured: "5ta4OPbrngs2PJrNLbp+P+ciV3JxJy8As5Wz3yl6EUSta0BMOaoGTIcq8pcg7JCjS436dHgJ1ABNhpcmbqUu5rn+pQ8kR33M/jHuRKH1LjdlnWCaPVRWuN1Ul+GsSVk7hoePn1vGIeAONmscgplI21fse5VP4SsINRqnMcEB6v5tvcRzKHATHPtQ/DpkCxpA6mzkaVIkoOE4e8geUIyWPBCTNjDdkI4Oh7DWlH/TKeFxnmKN0lo1ghkIDH9qLfwNwmpdl8KiHIHB60exmvi3SKnqlntWbEKz7oFCFZkeKBPhGETS6w/Z1E8MWfZACoSCdloLPvPJr5BXBNR+VjxzMHt6kie15cQFVqcqo3H94Enm6svcXeTEFA4moI+w8ye1ifVSlWi7ZOomtojBW1rYNOYc/wpchJWUoqJpSv9jGBVPQGf4Ki+1GE4uf1wBasDR0sPuTLZTYZfXCVThVmOn6nRM566veFdSmbx1cvfql/8FRI3zJq7PbqD7qpVRlWM2qdidQ+4l7KPXfAKFwj8zyg==;jMudZCcwdLWAx1pkKqq3JA=="
 ---
 

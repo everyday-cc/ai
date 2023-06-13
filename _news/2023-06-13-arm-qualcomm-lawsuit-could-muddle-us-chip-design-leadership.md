@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm May Be a Hidden AI Winner, Says Analyst. Smartphone Chips Are Why."
-    excerpt: "TD Cowen analyst Matthew Ramsay says chips within phones, such as those the company makes, could handle some of the processing for AI queries."
-    publishedDateTime: 2023-06-08T17:22:00Z
-    webUrl: "https://www.barrons.com/articles/qualcomm-stock-ai-chips-winner-6e854ae5"
-    ampWebUrl: "https://www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 72
-    images:
-      - url: "https://images.barrons.com/im-796661/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Has Qualcomm Already Beaten Apple to the Punch in Smartphone AI?"
     excerpt: "But that training process happens once. Inference occurs countless times, as users may prompt an AI algorithm to process work for many years -- consuming lots more electricity on powerful cloud-based chips in the process. This is why on-device inference is ..."
     publishedDateTime: 2023-06-09T21:27:00Z
@@ -56,6 +40,6 @@ related:
         height: 3264
         isCached: true
 
-secured: "qApcESWbKTgQPB8GdV8/GTJC5ayhH1G7blPVOBjA5sn9YeFzLcCUf41oAQgRGoxYyOtLc+kvIDVeW0mVYfEceCwd/J71WQU8FK8zi4k7kB6KQFgVMYGHiyN2G9LekwH4sgtyRDbsgJRox1ROwtFxJ8kAi968jnQWtfRjaqsHwIfz471Phj1Km6jMbLpyeFuECjFsLgZ24M6kXyjtkkq4bmAhPFa7V49L7UA3HQX2MK1PgYMe5BnMK+Kvd3y59r4TCDzTYFZz+7/4cyuFAz0GU9iFoOV/Z/TLkqvNONqbeTbIhOEq5OjY5UmbTF87DVd86nj6tYdQNgV1i+cfuLKal05kSHB30BlSQ36BsJrrCGI=;4GfRyYDT6f8TOHQzRVEPXA=="
+secured: "asPJB+pYXoNUuU1q4nQfITQgS8h6/q1E9rwT83b9hcYdIi3Kkj7gWLtJnWEfRmcTiJ6BUNdLPdI2aI/RRJOBjU1YDGdkJYDptEtAMiOq3+xt0gdDp7W8sUsJNyEgrCT4g0+IUNvuE4Qr5EJV5ArjszMdriAEPwGoZ5tffviMmPyskrfu7TGOzaIQyTS3zc0MsM28jcI/z5CAgpCkALMDIzUUdl1UlCk/N6OGXRV/Z/zHsXzupNO507DWFBnFO7fiP/xTrph7TeTwkp8WdIbFHAQ0QWL+SQxonk8MOi0xVqgUdzw1YlP1NXq1JEppZFonWgM6D8UERYJpKfJ+240k85qODp5Hx5NUun21CIBxgObQ8oSkjxgqSLxxd6ER3rmQOHudNfybfzDGyNI2p/5I1mKa1WQT6BMtZDQPTVTnaJEWYfwc3jBKwx+lnr9jVoausws+Y24qyxzBuzn5Zmh8euGGnEiHqIG5jJhZfmxUrMxHktC8CXCmGCTDezmk4BMWaNf8mL9WaxqpqzIKj3DP3Q==;kmyDSEIalbb8HWqISjOj8g=="
 ---
 

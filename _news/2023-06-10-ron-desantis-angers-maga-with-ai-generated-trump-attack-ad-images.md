@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687?amp=1"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "DeSantis Pushes Video With Fake AI Photos Showing Trump Hugging Fauci"
-    excerpt: "The DeSantis presidential campaign published a new video to social media this week criticizing Donald Trump for refusing to fire Anthony Fauci. But the images are fake."
-    publishedDateTime: 2023-06-08T18:34:00Z
-    webUrl: "https://www.forbes.com/sites/mattnovak/2023/06/08/desantis-pushes-video-with-fake-ai-photos-showing-trump-hugging-fauci/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "DeSantis takes AI campaign messaging in an unsettling direction"
     excerpt: "The RNC broke new ground in April with literally fake AI-generated messages in an attack ad. Ron DeSantis' campaign just made matters even worse."
     publishedDateTime: 2023-06-09T12:53:00Z

@@ -71,20 +71,6 @@ related:
         width: 969
         height: 610
         isCached: true
-  - title: "PhotoRoom, Google Cloud partner to democratize generative AI photo editing"
-    excerpt: "PhotoRoom says its generative AI capabilities and Google Cloud partnership will speed production of product photography content."
-    publishedDateTime: 2023-06-08T18:37:00Z
-    webUrl: "https://venturebeat.com/ai/photoroom-google-cloud-partner-democratize-generative-ai-photo-editing/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/PhotoRoom-banner-1x.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Salesforce announces AI Cloud to empower enterprises with trusted generative AI"
     excerpt: "The new AI Cloud platform from Salesforce offers real-time generative AI capabilities easily incorporated into business operations."
     publishedDateTime: 2023-06-12T14:52:00Z
@@ -124,6 +110,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "How Generative AI Can Augment Human Creativity"
+    excerpt: "There is tremendous apprehension about the potential of generative AI—technologies that can create new content such as text, images, and video—to replace people in many jobs. But one of the biggest opportunities generative AI offers is to augment human creativity and overcome the challenges of democratizing innovation."
+    publishedDateTime: 2023-06-12T16:00:00Z
+    webUrl: "https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/06/R2304C_MIDJOURNEY-scaled.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
   - title: "Snorkel AI Introduces New Foundation Model Data Platform to Bring the Power of Programmatic Data Development to Generative AI"
     excerpt: "Press Release Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic data development approach. With Snorkel AI's Foundation Model Data Platform,"
     publishedDateTime: 2023-06-12T14:26:00Z

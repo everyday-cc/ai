@@ -24,17 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Fintech as a Service (FaaS) Market worth $676.9 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Market is expected to experience substantial growth, with projections indicating a rise from USD 310.5 billion in 2023 to USD 676.9 billion by 2028, exhibiting a compound annual growth rate of 16.9%,"
-    publishedDateTime: 2023-06-08T17:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/06/08/9829532.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "QO6nIk6cCsPvfaOAW7agQeu+jq/RlWflx8eX4wXq+KzCAE2cbYYveOeutohuSImwk9qCzFLXaBvUH+xCB+iIIuWLhoV/AcOtwaOOstxdytyAVDX4vkfPwIUfW0mOmvr0GsgEkAIn7hb1icvQkimMciFI8gIdG2U19daPbbXkEjgbfbHFcgpaiOwdTP8P+UpYyMC3oQSRmh6HU/KZXnx4lRaEyT5KzypK2FEogQfIuJGQkvM0oX5PDWOfmCnXbun20ZWtTaN0mWQJmENjqvwJ00Y2UhmiWgDJRu1ysZmyovl53sD9arkS1w6vSF7YCFueX0y49YDPDMzGmSR9u5eKKz4fBQE5PTXy+ZnfoR+ZO/w=;Wij7P+XA+BZpUkcJBzqwKQ=="
 ---
 

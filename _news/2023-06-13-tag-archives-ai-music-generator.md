@@ -99,6 +99,20 @@ related:
         width: 1000
         height: 707
         isCached: true
+  - title: "Meta trained music-making AI tool on “20,000 hours of licensed music”"
+    excerpt: "Felix Kreuk from the Facebook owner’s AI research team last week posted on Twitter about the music-making tool, which is called MusicGen. It is, he wrote, “a simple and controllable music generation model” which can be “prompted by both text and melody”."
+    publishedDateTime: 2023-06-13T11:17:00Z
+    webUrl: "https://completemusicupdate.com/article/meta-trained-music-making-ai-tool-on-20000-hours-of-licensed-music/"
+    type: article
+    provider:
+      name: completemusicupdate
+      domain: completemusicupdate.com
+    quality: 39
+    images:
+      - url: "https://completemusicupdate.com/wp-content/uploads/2023/06/metalogo-1250x500.jpg"
+        width: 1250
+        height: 500
+        isCached: true
   - title: "Meta just released an AI music generator that was trained on 20,000 hours of licensed music"
     excerpt: "Researchers at Facebook parent company Meta have developed an AI text-to-music generator called MusicGen. The language model, described by Meta’s Audiocraft research team as “a simple and controllable model for music generation”,"
     publishedDateTime: 2023-06-12T19:25:00Z

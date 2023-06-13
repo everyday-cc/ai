@@ -53,6 +53,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft’s Satya Nadella Is Betting Everything on AI"
+    excerpt: "Satya Nadella—and Microsoft, the company he runs—are riding high on the buzz from its search engine. That's quite a contrast from the first time I spoke with Nadella, in 2009. Back then, he was not so well known,"
+    publishedDateTime: 2023-06-13T10:00:00Z
+    webUrl: "https://www.wired.com/story/microsofts-satya-nadella-is-betting-everything-on-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 86
+    images:
+      - url: "https://media.wired.com/photos/64876c09c30f50376ee874fd/191:100/w_1280,c_limit/Satya-Nadella-Big-Interview-0096_CROP.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Microsoft has added ChatGPT into the secure US government Azure cloud"
     excerpt: "Microsoft has announced its Azure OpenAI Service is now available to the US government in an even more secure format, with specific compliance promised for regulatory standards for classification and security."
     publishedDateTime: 2023-06-12T15:03:00Z
@@ -150,6 +164,20 @@ related:
         width: 340
         height: 226
         isCached: true
+  - title: "Combining Azure Cognitive Search with the Azure OpenAI Service"
+    excerpt: "Learn more about combining Azure Cognitive Search with the Azure OpenAI Service to create a wealth of useful applications to help both your"
+    publishedDateTime: 2023-06-13T11:31:00Z
+    webUrl: "https://www.geeky-gadgets.com/azure-openai-service/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiS36n9rO6OQ%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "OpenAI’s CEO Calls on China to Help Shape AI Safety Guidelines"
     excerpt: "China should play a key role in shaping the artificial intelligence guardrails needed to ensure the safety of transformative new systems, OpenAI Inc.’s Chief Executive Officer Sam Altman said."
     publishedDateTime: 2023-06-10T03:09:00Z
@@ -195,6 +223,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 33
+  - title: "Artificial Intelligence (AI) in Media and Entertainment Market Report 2023: Featuring Amazon Web Services, GrayMeta, IBM, Microsoft & More"
+    excerpt: "The \"Artificial Intelligence (AI) in Media and Entertainment Market - Forecasts from 2023 to 2028\" report has been added to ResearchAndMarkets.com's offering. AI in media and entertainment market is expected to grow at a CAGR of 31."
+    publishedDateTime: 2023-06-13T10:58:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831182.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
 
 secured: "RwLTo8evUdH90g9XsFZwyspMm16aGnV/qW0vCzSxgPXkDVQAodKAp190v+FhlObjstrXfJIQleczo5BSfyq6oa/fXbQqy1xZKTduzIrczULnmJnqkGyvjPGrCxT3xd1znNMksrugCa10dEozSMetTpUvY9r7PGQUBkSXEyiBjjU8IMNBhjr9BtZ8+LgXq41mZdCfjLQj/YlnDqcAk6ucqgdZGcujB2a9/FbLuYzJt2UIKMh2PlfcPqZCk6aoP5qxYQb2UQ7N+3K1Ev7PdQ7Qe42zcbCs6qImwErWJ9KLhn6wLvHHnBCyfVfViD47nXr/bSFqPRttyX3siGaug9rvYv/EInD3ZYUpbttaxtsHTqKPk5S+1Rim9QCE2pkd2Pu+fRZiGe/ulU+fo7M0NQfkwdXdoAp2eUxwAPL740YRL29Bm3LQHTWjld7mxarg87+DQL5EiIolBoOLjVaZbDXq5OagYJN9HptpCCmXO8bSRE4RhAmRptQJUwtUON8GzNZLKzmBjZMygUo4IvuRNI8Akg==;sM39xdxISMRkr0yZ6x2UkA=="
 ---

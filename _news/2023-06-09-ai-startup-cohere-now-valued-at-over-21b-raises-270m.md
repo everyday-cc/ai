@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-ov
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Cohere Locks Up $270M At $2.2B Valuation"
-    excerpt: "In March, Character.ai closed a $150 million Series A at a $1 billion valuation led by Andreessen Horowitz. The Palo Alto, California-based AI startup allows people to create their own personalized AI chatbot using language models and deep-learning algorithms."
-    publishedDateTime: 2023-06-08T18:26:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-startup-cohere-series-c/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 19
   - title: "Unicorns are hard to come by, unless you're an AI startup"
     excerpt: "Some of the largest funding rounds include OpenAI's deal with Microsoft Corp. that valued the ChatGPT maker at $28 billion, and Cohere, a generative AI startup founded by ex-Google researchers, raising $250 million. The continued investment in artificial ..."
     publishedDateTime: 2023-06-12T13:31:00Z

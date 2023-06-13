@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-mu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-06/13/I_87af4image_story.jpg"
         width: 1000
         height: 707
+        isCached: true
+  - title: "Meta trained music-making AI tool on “20,000 hours of licensed music”"
+    excerpt: "Felix Kreuk from the Facebook owner’s AI research team last week posted on Twitter about the music-making tool, which is called MusicGen. It is, he wrote, “a simple and controllable music generation model” which can be “prompted by both text and melody”."
+    publishedDateTime: 2023-06-13T11:17:00Z
+    webUrl: "https://completemusicupdate.com/article/meta-trained-music-making-ai-tool-on-20000-hours-of-licensed-music/"
+    type: article
+    provider:
+      name: completemusicupdate
+      domain: completemusicupdate.com
+    quality: 39
+    images:
+      - url: "https://completemusicupdate.com/wp-content/uploads/2023/06/metalogo-1250x500.jpg"
+        width: 1250
+        height: 500
         isCached: true
   - title: "Tag Archives: AI music generator"
     excerpt: "Meta has released its own AI-powered music generator – and, unlike Google, open-sourced it, TechCrunch reported. Called MusicGen, Meta’s music-generating tool, can turn a text description (e.g. “An ‘80s driving pop song with heavy drums and synth pads in the background”) into about 12 seconds of audio,"

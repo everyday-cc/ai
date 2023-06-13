@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Meta trained music-making AI tool on “20,000 hours of licensed music”"
+    excerpt: "Felix Kreuk from the Facebook owner’s AI research team last week posted on Twitter about the music-making tool, which is called MusicGen. It is, he wrote, “a simple and controllable music generation model” which can be “prompted by both text and melody”."
+    publishedDateTime: 2023-06-13T11:17:00Z
+    webUrl: "https://completemusicupdate.com/article/meta-trained-music-making-ai-tool-on-20000-hours-of-licensed-music/"
+    type: article
+    provider:
+      name: completemusicupdate
+      domain: completemusicupdate.com
+    quality: 39
+    images:
+      - url: "https://completemusicupdate.com/wp-content/uploads/2023/06/metalogo-1250x500.jpg"
+        width: 1250
+        height: 500
+        isCached: true
   - title: "Tag Archives: AI music generator"
     excerpt: "Meta has released its own AI-powered music generator – and, unlike Google, open-sourced it, TechCrunch reported. Called MusicGen, Meta’s music-generating tool, can turn a text description (e.g. “An ‘80s driving pop song with heavy drums and synth pads in the background”) into about 12 seconds of audio,"
     publishedDateTime: 2023-06-13T03:27:00Z
@@ -109,6 +123,6 @@ related:
       domain: musicbusinessworldwide.com
     quality: 9
 
-secured: "j+bIB+bPiQJf2gzo+7EfHzvXOVzIBqkIRqJEdZMt19g2sZoy0C1eqEJQzjy+ONkOqRdGNpES4xPbZu7tPY7L8eTtPqFhGM19HYsy4kGedK6RPOtpVxSQCTptezsEO4lMDxExUyNcvcwySFkOO0XETjHW5DxBXtbv6s+5yOVqwXeLWJmr6fpcnFMvaH4/g0nAQUdoITHr6NrVx/v8Am/Z1vyfHDLF9oKzz1bxl4pKRE0eZ/v3DTn/7Lb0lWni4uJShphWS2E9jJ/A954P1vK4t9QL98ch6KVW+UGXDa46q2Z3v/VTVyiYWWWdx7sFLsbMnjN8SB80FJCyQdxd/SgisPbYTx7D62SVGukZQZePRwM=;uguVk1tehSsW3LqDvD82+g=="
+secured: "DpRTIV3HKQBvje85tg20mhIrc8zZrx92JdFEGJhv51pbx0eMG8vsMmpcA2k3l/GigTN2WiLsbAqc+17tD8gzTvUSzRnhYRIYV4Yy1Ij6iydPRvvL/Mc5Gz7A+c3hvYJNhr4VtvlXBaJauAsFJE0kVqPlm9k1f4z9qtElKuQA7E8lRRDX2f2Cx/3xxS8ycIk217sBcFqIe2FmT1cvYBeG6H4I6sJ6fUOJP0UpC+xhOIHsWHcGwWm4KlowzzR5hUk8PThdAoNIT11iFsktt/WEQaUOAQYsxS2B5S0ydW++aZg+IGQInbK4DuHnrw/Kt88GlCk4SRnLuraybE1rVV61Wd2jSgIXBVa4MaNlE7UUfMZMe5gGATC59YR8j2l7NM4v2Q4iEG+KdpMn3Fzfa80kiCpa2B0Bkk1tqFEskJmPOEFztIbQ1jaXPreoMFgG3ehhthoHgAdR+WLC9yhsybdcAm9vvGCujMhTjlCKAAj034sGRKV2+/z+rju0Cfxww26xfVZywBysOPRcCKHkNdYE6Q==;rmit6DxllXzJiyB3z0Slbw=="
 ---
 

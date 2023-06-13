@@ -74,20 +74,6 @@ related:
         width: 969
         height: 610
         isCached: true
-  - title: "PhotoRoom, Google Cloud partner to democratize generative AI photo editing"
-    excerpt: "PhotoRoom says its generative AI capabilities and Google Cloud partnership will speed production of product photography content."
-    publishedDateTime: 2023-06-08T18:37:00Z
-    webUrl: "https://venturebeat.com/ai/photoroom-google-cloud-partner-democratize-generative-ai-photo-editing/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/PhotoRoom-banner-1x.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google's generative AI platform ‘Vertex’ now available to everyone"
     excerpt: "Google announced the general availability of generative AI services based on Vertex AI, the machine learning platform as a service (ML PaaS) offering from Google Cloud. With the service becoming generally available,"
     publishedDateTime: 2023-06-12T04:51:00Z
@@ -113,6 +99,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "How Generative AI Can Augment Human Creativity"
+    excerpt: "There is tremendous apprehension about the potential of generative AI—technologies that can create new content such as text, images, and video—to replace people in many jobs. But one of the biggest opportunities generative AI offers is to augment human creativity and overcome the challenges of democratizing innovation."
+    publishedDateTime: 2023-06-12T16:00:00Z
+    webUrl: "https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/06/R2304C_MIDJOURNEY-scaled.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
   - title: "Oracle invests in Cohere, plans to integrate generative AI tools into its cloud"
     excerpt: "Oracle has invested in generative AI company Cohere, in a deal that valued the business at around $2.2 billion. The $270m Series C round also saw participation from Nvidia and Salesforce. Oracle's investment is said to loosely mirror that of Microsoft with OpenAI and Google with Anthropic,"
     publishedDateTime: 2023-06-11T16:09:00Z

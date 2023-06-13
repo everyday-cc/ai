@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/servicenow-unveils-now-assist-for-virtu
 webUrl: "https://venturebeat.com/ai/servicenow-unveils-now-assist-for-virtual-agent-a-generative-ai-solution-for-self-service/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: VentureBeat
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "NICE announces launch of digital and AI advice service for healthcare sector"
+    excerpt: "The AI and Digital Regulations Service is a multi-agency collaboration between NICE, the Care Quality Commission, the Health Research Authority and the Medicines and Healthcare products Regulatory Agency (MHRA)."
+    publishedDateTime: 2023-06-13T11:53:00Z
+    webUrl: "https://www.pmlive.com/pharma_news/nice_announces_launch_of_digital_and_ai_advice_service_for_healthcare_sector_1493003"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 51
+    images:
+      - url: "https://www.pmlive.com/__data/assets/image/0006/1453227/Clinical_development.jpg"
+        width: 480
+        height: 321
+        isCached: true
   - title: "Oracle beats expectations, reveals upcoming generative AI service, sending stock higher"
     excerpt: "“Aside from cost driven share gains, OCI also has the one thing that every AI startup is asking for today, spare GPU capacity,” Zukin wrote, referring to graphics processing units. “Similar to getting those first cloud workloads during ..."
     publishedDateTime: 2023-06-12T23:36:00Z

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NICE announces launch of digital and AI advice service for healthcare sector"
+    excerpt: "The AI and Digital Regulations Service is a multi-agency collaboration between NICE, the Care Quality Commission, the Health Research Authority and the Medicines and Healthcare products Regulatory Agency (MHRA)."
+    publishedDateTime: 2023-06-13T11:53:00Z
+    webUrl: "https://www.pmlive.com/pharma_news/nice_announces_launch_of_digital_and_ai_advice_service_for_healthcare_sector_1493003"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 51
+    images:
+      - url: "https://www.pmlive.com/__data/assets/image/0006/1453227/Clinical_development.jpg"
+        width: 480
+        height: 321
+        isCached: true
 
 secured: "Zz4u+fmjtiZOhb/QaslxtYWd+m9nmcCUEKOF/a6dQMwH6qO5KVtK8FbgfDkxZRP2Kgqcrioe7gCzdnPvXAom3mS/gSCmKOfRgdMPy5n8nGhRE3aaKrxr4VU1V1vIgBR1O/Cn8IbGtopjDOJu1eRNFI1Gfufe3TOSgNvRewWsnM8/T5KFxEYaWpuedl6VY6ETD4DX1+CdxAnucNMsPIb5oNqLkyaLKypbnd0cBiDAFhVKiqFGbN/DSmvSyKsbWB7a20SllgTqEFVtALTb2q9kze2hN4fFq1eAVNf34wt8F/emCy+oc1ue/4Si5KVe3ArNTMTwgvwPjrKWGRe3fvPr2EG6HRTlySYKEQ6zd1DRp5ezOjZIKmCJvODJOdIMTubRoiIts58J3/9eyIj8QVZxssPKDs0NrXF2JqkeIHHa9pQgY3B3okKQfOCM0lkd70QZ2RMR20T3PnOGzwIiX1d9/smLEaRPF4BODEd0QSOwkqvtYFTl9O+PtV8b2DcJFDlLWdbSurk4QVj3lf8Llq+gww==;YPOHNEbCSHfOTme20wgfOQ=="
 ---

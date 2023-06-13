@@ -7,7 +7,7 @@ originalUrl: "https://www.democracynow.org/2023/6/12/every_body_julie_cohen_film
 webUrl: "https://www.democracynow.org/2023/6/12/every_body_julie_cohen_film_intersex"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "New Film Explores Intersex Community’s Fight for Recognition, Bodily Autonomy"
+    excerpt: "Every Body” tells the stories of activists whose childhoods were marked by shame, secrecy and nonconsensual surgeries."
+    publishedDateTime: 2023-06-12T19:43:00Z
+    webUrl: "https://truthout.org/video/new-film-explores-intersex-communitys-fight-for-recognition-bodily-autonomy/"
+    type: article
+    provider:
+      name: Truthout
+      domain: truthout.org
+    quality: 21
+    images:
+      - url: "https://truthout.org/app/uploads/2023/06/seg2-Guest-EverBody.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "X8fvCuxjvcpsnl5LAgZeUkf37fiVyGZxZghdbqMQvhnfD0VOmWmekHYyfEs5roRj+mr+B6LYxvKRAc4y/1N2PQc3L91awEjtzNLA55t2H7RquLkogsPlR+iCdEDSC9YpsmQbjO2q+ZYPi7dvOmw6iJYCN30IBRJPIt3jvq0ug6C35748F8LAMQP8XZfwWOLKkhXR1GwNN/fjhupCwPshmq47fOf0AOvR69LMdQzwv8pgXezyVScUJyXy+XqRagt0geHlBuJnAPNx6bhDRc/irOOFGlmEhd/npTbENESll/Bls6j2ExbrDXnmzBFuNbhMdcSR5Kbsz4hQU+9XQpGUNvXS0fibRNo7EVP1qq4qcYctR5lo9MIKEE04RiRwNz5cGeNlMmljkdfLVNJImes+v3XXnxjp4bX9a6mJaMxswes2PqWZfY86quldfSMHmv6efdEtbOWwOCQS0b3zYkOorfamVWnvGyxXjyogY/GFsIyvWv+MNpSVPKTv8EdbiKl6nFqvLFCMX4CmHVyfaXrx0g==;zgL7dtdksHda+ntzdOAn5Q=="
 ---

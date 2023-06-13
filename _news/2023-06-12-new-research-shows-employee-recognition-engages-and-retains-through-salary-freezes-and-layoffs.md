@@ -3,25 +3,25 @@ category: news
 title: "New Research Shows Employee Recognition Engages and Retains Through Salary Freezes and Layoffs"
 excerpt: "More than half of employees agree that feeling recognized would inspire productivity, balance a heavy workload, and help maintain morale during layoffs, according to the 2023 State of Recognition Report from Achievers Workforce Institute (AWI)."
 publishedDateTime: 2023-06-12T13:00:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/new-research-shows-employee-recognition-engages-and-retains-through-salary-freezes-and-layoffs/article_9b655d6f-dbd7-58ce-a234-b600d113ce9e.html"
-webUrl: "https://www.bakersfield.com/ap/news/new-research-shows-employee-recognition-engages-and-retains-through-salary-freezes-and-layoffs/article_9b655d6f-dbd7-58ce-a234-b600d113ce9e.html"
+originalUrl: "https://www.galvnews.com/news_ap/business/new-research-shows-employee-recognition-engages-and-retains-through-salary-freezes-and-layoffs/article_4ea55790-f5a2-5aa6-83b4-a79746215f5c.html"
+webUrl: "https://www.galvnews.com/news_ap/business/new-research-shows-employee-recognition-engages-and-retains-through-salary-freezes-and-layoffs/article_4ea55790-f5a2-5aa6-83b4-a79746215f5c.html"
 type: article
 quality: 27
 heat: 27
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: The Daily News
+  domain: galvnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
     width: 600
-    height: 315
+    height: 338
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: finanznachrichten.de
     quality: 2
 
-secured: "EApgyGI+7pTJmDbEEYV+Ad4nARU/pcgDSSn+qO7hmbTnyvXS//5Ifi25c6Ebrb+UAQCgemv/qPNGZn62Kp+uEyiiF5cRMDr5kxqr2lpdt7guPvu/wFMBWmmWIx5J94o7ID0ODvtwbA5HORV8qPjACYeufCa61h5Iyr6BrsNcVLuH3DUO2KQJaNsoKZ9GTQw/6EQfXRPB4F1Xv9UqM+zm8/b2BtQUBYVR5XiZvlUqqg7vBfXhBSnj1woO1TFkvgM5ZchEIaL40nX1TLfi3dH44UKL+xEV/14d9QpO/CUJ+YTB4h1i02Y8KuTlP5GMmph6FpI8k0AeUVsBPg0cb3CCp2XkwXmRxUezCe4PQW21njI=;IEXXdEh3mfyCsSFDTfg5Xw=="
+secured: "P7IdfTyq+b7mN9bWGdvXMwJL7RoozMBqDxqurIB8m+kWrn0gmcOLydfHwEpHm9eYHiPdHMWaWRi2dv6qxz/Ak7dy1EtyqYeJZafbRZD40V6lS+6avTYH0Dz2Ptsx+Ota0uC2GzyG0At8SeY3XWfvi1mbQDVM49cB/qnr51yzW2XuWJrOp0ZYZ0H6X80ZIV/3eFUZpnzi2foyo19E/AgVW2Mx4VDDC1JMm5q1N1EgQvQHQ9DCqfV4UoHA/jvLldkUvA9KM+7sYv46xK3QQIcQVefCW2hRhbBFHdqIlsg0UCOymbv/YYT0j+0sz1oRRdX3J/61d2+opSXOCJVBQEROGOOggRZkn+FUy2jJ6vQIdNM=;dZA4WeWtTYYi9VaeX4xcsQ=="
 ---
 

@@ -2,27 +2,21 @@
 category: news
 title: "Fullstack Academy to Launch Programs in Artificial Intelligence & Machine Learning and Cloud Computing Amid Surging Talent Demands"
 excerpt: "National tech education provider Fullstack Academy today announced the launch of two new bootcamp programs: Artificial Intelligence (AI) & Machine Learning, and Cloud Computing. The curricula, designed and delivered by industry-experienced tech practitioners,"
-publishedDateTime: 2023-06-12T13:59:00Z
-originalUrl: "https://www.valdostadailytimes.com/ap/business/fullstack-academy-to-launch-programs-in-artificial-intelligence-machine-learning-and-cloud-computing-amid-surging/article_cdd5edba-9d5c-5617-b6a8-e037334571e9.html"
-webUrl: "https://www.valdostadailytimes.com/ap/business/fullstack-academy-to-launch-programs-in-artificial-intelligence-machine-learning-and-cloud-computing-amid-surging/article_cdd5edba-9d5c-5617-b6a8-e037334571e9.html"
+publishedDateTime: 2023-06-12T15:32:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fullstack-academy-launch-programs-artificial-intelligence-machine-learning-/2023/06/12/9830698.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fullstack-academy-launch-programs-artificial-intelligence-machine-learning-/2023/06/12/9830698.htm"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "AI-Based Coach Promising for Behavioral Therapy"
@@ -40,6 +34,6 @@ related:
         height: 600
         isCached: true
 
-secured: "aPbh7qwKlrx22XGtiyRQkLacP7ZgW970l7AejiycycW1GtKXoP3fDhDwDIQUK++SxeHMGvSpCpbp56WCbLKOcfwpT4OcoHOPPCgx+G9u9QbXYvfXHMPhEruHPW7NpocAvzq2YwelitohIy6CbPYciD8UAHYmU1lzjldIYUH2U0jK5+C3l6DqYtO/pJ2l/TcZMb+USlS905ai7fCvBWwrZZ3cxdLhBBWGdaWE4xSyoRiguOToAhQcr44mF0jICNp6WrGvWs9+fEzpkDSPXQWhYBHl3CHBy49s8O7QvNnMQymE3XDaCZNUOzqPyInxlNEBuZ+eXDvZHRcQOeZ6TMJ894aFkVTx5RRKJVxeZ5hyxSk=;rAGJcEYOx7NCONMRxeWGyA=="
+secured: "p0qPEMWwIA8/ExeSyzh0loetupyA4xJHtm7lXQriXe0i3lZkvnHPPBLbAMpNcE0CvAtA0UEYauuHFSEtNjegv8LEl2m916pGMJswI1ql7cZxQcRuqvZ1DOMWx9vzSHiUirkpLEGLGRgoHXIliWTCwmIQJwiTRp3JPwExxMRHiZtCaOqL/D4xy/h+2z6gvBjvjGp8nf0g2ff/VGe8yDoGFlMJ9VqbooNAsPDUQnc8YHOBh504Fjwylv8+FCBnS9wMHT29lQVamO+RkdnpfcETMEoM8EZHh6Dsnkw/6yQ3/hs4TwfxoTTEMm+gXPh+mVSd46aeXRdVOEhbhsC2FEGYIpZWS/qIdwd1rXBVzuzawxc=;ayLje3udKT0Fn8JDrzrUcw=="
 ---
 

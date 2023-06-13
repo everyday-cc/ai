@@ -53,6 +53,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft’s Satya Nadella Is Betting Everything on AI"
+    excerpt: "Satya Nadella—and Microsoft, the company he runs—are riding high on the buzz from its search engine. That's quite a contrast from the first time I spoke with Nadella, in 2009. Back then, he was not so well known,"
+    publishedDateTime: 2023-06-13T10:00:00Z
+    webUrl: "https://www.wired.com/story/microsofts-satya-nadella-is-betting-everything-on-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 86
+    images:
+      - url: "https://media.wired.com/photos/64876c09c30f50376ee874fd/191:100/w_1280,c_limit/Satya-Nadella-Big-Interview-0096_CROP.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Microsoft has added ChatGPT into the secure US government Azure cloud"
     excerpt: "Microsoft has announced its Azure OpenAI Service is now available to the US government in an even more secure format, with specific compliance promised for regulatory standards for classification and security."
     publishedDateTime: 2023-06-12T15:03:00Z
@@ -141,6 +155,20 @@ related:
         width: 340
         height: 226
         isCached: true
+  - title: "Combining Azure Cognitive Search with the Azure OpenAI Service"
+    excerpt: "Learn more about combining Azure Cognitive Search with the Azure OpenAI Service to create a wealth of useful applications to help both your"
+    publishedDateTime: 2023-06-13T11:31:00Z
+    webUrl: "https://www.geeky-gadgets.com/azure-openai-service/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiS36n9rO6OQ%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Klir Unveils Revolutionary ChatGPT Integration powered by Microsoft Azure's OpenAI Service for its Unified Water Management Platform"
     excerpt: "The first-of-its-kind AI integration simplifies compliance and operational processes for water professionals while maximizing economic and"
     publishedDateTime: 2023-06-12T22:38:00Z
@@ -195,6 +223,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 33
+  - title: "Artificial Intelligence (AI) in Media and Entertainment Market Report 2023: Featuring Amazon Web Services, GrayMeta, IBM, Microsoft & More"
+    excerpt: "The \"Artificial Intelligence (AI) in Media and Entertainment Market - Forecasts from 2023 to 2028\" report has been added to ResearchAndMarkets.com's offering. AI in media and entertainment market is expected to grow at a CAGR of 31."
+    publishedDateTime: 2023-06-13T10:58:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831182.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
 
 secured: "n8+udsgFyD+fhoGjnhVaLet6yQO+4tCml9T4DYvkA4UqjAtOpoo/dNjSIapyxiTjYbcR9blRtp9g5NIjgc1bb15r9Z/eKFMLq4LffcAUf/Y/i+4rEK+jCKJYHaVjCqlP/crLEyV3zzbJ0yWq6ZST3gaAGInhIFTVZVsX+vx4yDzm2uSoKuKrYc1TFFTq40dch++as14v8MOD6xV6ZL6+dINFk+POIFuTY12JP5D3s643t1DQ09MrDjZ3B7+xhK4PtEywJxX6MQi6pxur2VPXYqiwEHYT1z5cgOfA6OFcVuLY7TNpnOhEOuUbulF53bbkGr8lkh0LFO4xmGr9fBDdZOaPIjOV1A+7/FazyI4BhCqolgZ54hOd9n5r8WTW43458bJzTOJeNwCA72rayTt+8ra1ljnxGJoQlfMGkmiQJhf3AvKuMfLHL3jVMhn7VBIJXfVba3QSQBeTw+L79ydv6KB45A+xev1gCAQMTalq8G810afaY7BqkFnVHtOZYCQpby+jw9zYIQHvWTJIj+M5bw==;DMP7kOjGWQ4T0e3j8eBX0A=="
 ---
