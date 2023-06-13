@@ -50,6 +50,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 11
+  - title: "Global Janitorial Services Market Report 2023: Growing Demand for the Real Estate Industry Fuels the Sector"
+    excerpt: "The \"Janitorial Services Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
+    publishedDateTime: 2023-06-13T17:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32842253/global-janitorial-services-market-report-2023-growing-demand-for-the-real-estate-industry-fuels-th"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "GvA9vg+fCH5hACvv1qTdufCdBRGxP4Tkkxlx+tZoUuiY64gscVOOVeLkNn9FsmsMVD4+73D/Aeybo38cfuEusYhOeFjb++R0jZ/Z83/UCi+1tZoOX2TbUC3KL0ocvTLuAUFzIsmPXHApoqEssfBHuhCdRPq5GVV7s5OAdGi0KyP1ZqTFGZGq1gz78AmBg63Joij+pKPcTD10yvhW8U2Eczd9z+bdtx1+1euPmSddt3gxNvCfjtV5HPbFmm/1YQyieNElJQ+1Lr8TFw+7fGTe6OgXVV+PCrQHo/w6DMvd3n/gCQ8Rg+Jlp6elOAPTqG0D2rbwNdRml9ZNZDnPjxbeO7y5K54zaLYTXkK3tetz2WA=;iRS5q97bl+ziNs2LPo18HA=="
 ---

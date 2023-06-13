@@ -53,6 +53,24 @@ related:
         width: 480
         height: 321
         isCached: true
+  - title: "ServiceNow extends its AI capabilities with Now Assist for Virtual Agent"
+    excerpt: "During the event, ServiceNow introduced several new generative AI features for its platform. Now Assist for Virtual Agent builds on those features. ServiceNow’s namesake cloud platform helps information technology teams manage their day-to-day work."
+    publishedDateTime: 2023-06-13T18:12:00Z
+    webUrl: "https://siliconangle.com/2023/06/13/servicenow-extends-ai-capabilities-now-assist-virtual-agent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
+  - title: "The world’s first self-driving ferry is now in service"
+    excerpt: "The MF Estelle will initially have an operator on board to make sure everything goes smoothly, but will be fully autonomously by 2024."
+    publishedDateTime: 2023-06-13T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/sweden-autonomous-electric-ferry/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 4
 
 secured: "Zz4u+fmjtiZOhb/QaslxtYWd+m9nmcCUEKOF/a6dQMwH6qO5KVtK8FbgfDkxZRP2Kgqcrioe7gCzdnPvXAom3mS/gSCmKOfRgdMPy5n8nGhRE3aaKrxr4VU1V1vIgBR1O/Cn8IbGtopjDOJu1eRNFI1Gfufe3TOSgNvRewWsnM8/T5KFxEYaWpuedl6VY6ETD4DX1+CdxAnucNMsPIb5oNqLkyaLKypbnd0cBiDAFhVKiqFGbN/DSmvSyKsbWB7a20SllgTqEFVtALTb2q9kze2hN4fFq1eAVNf34wt8F/emCy+oc1ue/4Si5KVe3ArNTMTwgvwPjrKWGRe3fvPr2EG6HRTlySYKEQ6zd1DRp5ezOjZIKmCJvODJOdIMTubRoiIts58J3/9eyIj8QVZxssPKDs0NrXF2JqkeIHHa9pQgY3B3okKQfOCM0lkd70QZ2RMR20T3PnOGzwIiX1d9/smLEaRPF4BODEd0QSOwkqvtYFTl9O+PtV8b2DcJFDlLWdbSurk4QVj3lf8Llq+gww==;YPOHNEbCSHfOTme20wgfOQ=="
 ---

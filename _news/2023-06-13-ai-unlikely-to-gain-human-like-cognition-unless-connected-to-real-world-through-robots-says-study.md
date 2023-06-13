@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-ai-gain-human-like-cognition-rea
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-gain-human-like-cognition-real.amp"
 type: article
 quality: 60
-heat: 70
+heat: 71
 published: true
 
 provider:

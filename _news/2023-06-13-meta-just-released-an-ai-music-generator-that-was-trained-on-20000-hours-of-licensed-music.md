@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Senate letter to Meta on LLaMA leak is a threat to open-source AI, say experts"
-    excerpt: "A letter two senators sent to Meta on Tuesday questioning the LLaMA leak sends a threat to the open-source AI community, say experts."
-    publishedDateTime: 2023-06-09T01:25:00Z
-    webUrl: "https://venturebeat.com/ai/senate-letter-to-meta-on-llama-leak-is-a-threat-to-open-source-ai-at-a-key-moment-say-experts/?n=@"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-92.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Meta launches MusicGen, an AI-powered music generator"
     excerpt: "Meta's MusicGen offers AI-generated music from text and melody, but Google's MusicLM, available through the AI Test Kitchen app, also generates high-fidelity music based on text descriptions across genres."
     publishedDateTime: 2023-06-13T08:36:00Z
@@ -64,6 +50,22 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/06/meta-pixabay-copy-1686645297.jpg"
         width: 360
         height: 202
+        isCached: true
+  - title: "Meta Open Sources An AI-Powered Music Generator"
+    excerpt: "Meta has released its own AI-powered music generator - and, unlike Google, open-sourced it, TechCrunch reported. Called MusicGen, Meta’s music-generating"
+    publishedDateTime: 2023-06-13T03:27:00Z
+    webUrl: "https://geeknewscentral.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/"
+    ampWebUrl: "https://geeknewscentral.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
+    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
+    type: article
+    provider:
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 59
+    images:
+      - url: "https://geeknewscentral.com/wp-content/uploads/2023/06/Meta-logo-2023.png"
+        width: 670
+        height: 224
         isCached: true
   - title: "Meta’s new MusicGen AI was trained on 20k hours of (licensed) music"
     excerpt: "If you’re a music industry exec wanting a bracing start to your week, look no further than the latest musical AI model… built by Meta."

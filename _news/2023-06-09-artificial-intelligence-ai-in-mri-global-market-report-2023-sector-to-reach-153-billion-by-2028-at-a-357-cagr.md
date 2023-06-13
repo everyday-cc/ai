@@ -49,6 +49,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Global Janitorial Services Market Report 2023: Growing Demand for the Real Estate Industry Fuels the Sector"
+    excerpt: "The \"Janitorial Services Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
+    publishedDateTime: 2023-06-13T17:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32842253/global-janitorial-services-market-report-2023-growing-demand-for-the-real-estate-industry-fuels-th"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "o6doeBr/qmqAN6lLLb+UbEz63K1pFR446MF2kVbmzigAzN4JZV/2Bs+xTepNCETeDNys+YmiBXEXcRgZLWI6wWDciY9imrVwm9GX8GUpBUiMWwfuyZ71yMl4KbtqITHKJGQ8s+ibtUVejNxhCXernyCuFPF4Lr4F3qQ0XzU8SQZX0ri+O5iEn5RI7B2fXGWioooocsY+1+ggF8Ku0huwOv+JOzQuwDtuS9856b9HZlewHCt/+k7RTGw67DMlbuFHD6QWe8ayxbjV1AB0bogm0iXogVz3s/IanzQjRULTxVOx9M9a7PwpC/Cpvflzy/BeObYEi64ScFXXdAQgPLpeBqIrvaXMhjMLP86XdkzK1aw=;D9PAF/J8ALVuFKOrg/KjTg=="
 ---

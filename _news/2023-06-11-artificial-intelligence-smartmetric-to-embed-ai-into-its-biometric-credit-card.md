@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208277-artificial-intellige
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208277-artificial-intelligence-smartmetric-to-embed-ai-into-its-biometric-credit-card/amp/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 2048
         height: 1107
         isCached: true
+  - title: "Retail face biometric payments launched in Abu Dhabi by Astra Tech"
+    excerpt: "An autonomous retail store accepting payments through face biometrics has been launched by UAE-based Astra Tech in Abu Dhabi’s Sky Tower."
+    publishedDateTime: 2023-06-13T17:59:00Z
+    webUrl: "https://www.biometricupdate.com/202306/retail-face-biometric-payments-launched-in-abu-dhabi-by-astra-tech"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
 
 secured: "PP179VvPMghY3patgKzFmZpGiUCLBoyMTQkILwYkjm3VpkVrjsgJWvh5BW8iG8tA/Fxd1OTMHDMDl7plhAImMwYqjJTU5YE4MmbYWlUuihUyM7r7qQ6u1lT1/70x3MMGiZQ5qU+OMRx3WTw1uL+laVnVZAnqZUFocNRDv8Yb1ZVz/4oI+oU2Pxd99WMbUG6IE3zyeuX2vI+N4vOxcsdJo4th0xdwcHuXENoXx59DB1Z6mqlMjAdS/71hfSolzIsSlcy/rfyUfTNaCfTjQbYoTZ5FViSALelRACnlq6N4cBS22VArFFN/bun6eYxN7MjjEUMQJYpFWNLyX1OZJBnjsj4V4C8XsQp8zEGN/skQV6dEbtCOgsyrbaw3ydZPe17nqPRsyC+wwgn4/gCqoMCsVfp/xxYQKZgdGwbxN7TSjhjdl6CG0+KwM/0fLsVEgadLA8ldtV4duMPmDDyiREHiBRUJJxx+c6kinalhQbmIVx02SCwsaaV0W/QsH0h2g0u8aNiySpYMAr+58N1xrOVoGg==;lIw1GQu4ole+yfg2wlfR6A=="
 ---

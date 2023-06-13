@@ -90,6 +90,20 @@ related:
         width: 3525
         height: 2351
         isCached: true
+  - title: "AI is Helping Paul McCartney Create the Final Beatles Song"
+    excerpt: "McCartney received the demo tape in 1994 from Lennon's widow, Yoko Ono, on a cassette marked \"For Paul.\" It was one of several songs Lennon had recorded shortly before he was murdered in 1980. According to the BBC, Lennon sat at a piano in his New York apartment at the Dakota and recorded the \"lo-fi and embryonic\" tracks onto a boombox."
+    publishedDateTime: 2023-06-13T20:22:00Z
+    webUrl: "https://www.cnet.com/tech/ai-is-helping-paul-mccartney-create-the-final-beatles-song/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/resize/be3a0a8d84c167f55cb52c61098429f44691fc39/hub/2023/06/13/89e676cb-0e55-4c01-bf1d-01767af0c86e/gettyimages-1405277134.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Beatles Come Together for ‘Last Record’ Using AI, Paul McCartney Says"
     excerpt: "More than 50 years after the group’s final studio album, Paul McCartney says he has used artificial intelligence to create what he called “the last Beatles record.”"
     publishedDateTime: 2023-06-13T10:04:00Z
@@ -191,6 +205,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
+  - title: "Paul McCartney Says New Beatles Song Finished With Help From Artificial Intelligence"
+    excerpt: "A new song from The Beatles, which broke up in 1969, has been finished thanks to help from artificial intelligence technology, according to Paul McCartney."
+    publishedDateTime: 2023-06-13T18:26:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/06/13/paul-mccartney-says-new-beatles-song-finished-with-help-from-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
   - title: "The Beatles will release a final record, using John Lennon's voice via an AI assist"
     excerpt: "The music has analog roots, recorded by the famous singer-songwriter on a demo tape. Now it's being revived by futuristic technology for release later this year, Paul McCartney said."
     publishedDateTime: 2023-06-13T16:41:00Z
@@ -223,6 +246,15 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 12
+  - title: "Paul McCartney says AI helped him finish one last Beatles song – here’s what I think is coming"
+    excerpt: "\"When we came to make what will be the last Beatles record… We were able to get John's voice through AI.\" Ahead of his exhibition at @NPGLondon of Beatles photos, Sir Paul McCartney spoke to @Marthakearney and revealed that a new record will be released this year. #R4Today"
+    publishedDateTime: 2023-06-13T17:38:00Z
+    webUrl: "https://bgr.com/entertainment/paul-mccartney-says-ai-helped-him-finish-one-last-beatles-song-heres-what-i-think-is-coming/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 5
 
 secured: "3ftiN2j9zZMuTGgXffTyodtzcmQNdSq+ARseP5mUNdxRGk5qGq924T3hevViATxcKruCis29tMhIr0Gsas3RgDspO2f2FpMFaRz1ZANqnMS7lcACPge6qrT9xXpJhBBT3dppG0+wkqmn+ZPxSR9XK42fwCD1refEqnzkaTGdMunSbN/dGbILsT3tQaMxCy6S99AakciSeMJjyH1spQzE6mmIi9vltEj3GtH+9JYtLIwtCO6xsKPiIsJFT+AkMYNSKRetLIUiDMsFC44GawpkzkqZQks33XMnDWdNElS2wSFw9t+lka7QkWDls7EICjRlS+AeeHz7g86VUKre7XH14O8hWcrA7CB6ratxCB4nW67E4gRQIrYIRhGtzx6RVY5ksDJQjdwapkD791knV8mMn2dQ6DxFX2APl9WH1m5ESd0IJVH6OE7I4IH8JnEm1Ry7b+pY/wdShnaLYdVPJIWc+7mswSDk1SedbxN6uGor9VFu4as3Uuved4LMZEYN3pVOnohlzyIYRxflRgtP9FkVhQ==;B8vBZEKfP1A/A7FlnUBZlA=="
 ---

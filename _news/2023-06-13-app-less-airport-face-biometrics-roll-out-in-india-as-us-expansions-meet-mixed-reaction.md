@@ -41,6 +41,15 @@ related:
         width: 809
         height: 607
         isCached: true
+  - title: "Retail face biometric payments launched in Abu Dhabi by Astra Tech"
+    excerpt: "An autonomous retail store accepting payments through face biometrics has been launched by UAE-based Astra Tech in Abu Dhabi’s Sky Tower."
+    publishedDateTime: 2023-06-13T17:59:00Z
+    webUrl: "https://www.biometricupdate.com/202306/retail-face-biometric-payments-launched-in-abu-dhabi-by-astra-tech"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
 
 secured: "k2SCNoLiyZwRwoelL4/WxhbOBLkFX7Sa1VGUZduq5WDIaDZaUcOtETHe6GnQ5aYTLwWklOC7gi9JXlF4ehL2Z9fuXi6yiNLGYZQ0p5rpqrXtlkWu9nF+b+cVO6ilbs0SJrkDpoSySJKsbmb0mXK1WCofjtGUVF23QzttcAzZ1z3K9cyubWjyt77Gnop6cFIAMq9B9xVqT15hOlonlWxG+YxW7HLBFbuFqYv2oi3HnkjGlJuJqxyTtW9gUx8oz7W8Td+qnPLbNS9L0aVNQvsKfwQgit3JmwPGmWI6ZzPIbvORbzIoWwdlwBuAo34vfW1XLLF4ezE8HoYtKlsw9J4MG7+7FccxCE004LnRc/F+MimC8g4CdDDvOJTyUGOutmVoyaon4+PTVDH0lejBGNoY9syzVLZbhujo5HXME8Yc8Wwx0K1fV+AVLLCz9xIZNDViubpLMpqAojSI7hMsVHeX9vlaaeoZ3SaoMZjP9ZoIBXMlWMXltno8qT74FXhGAJ1NHLVVMNYLF3/CGl9IQx/WUg==;McnIP1JuUV5nF3hayHWs1A=="
 ---

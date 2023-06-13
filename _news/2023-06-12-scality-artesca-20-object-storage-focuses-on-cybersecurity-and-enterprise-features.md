@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -45,10 +45,19 @@ related:
         width: 1024
         height: 578
         isCached: true
+  - title: "Investment Strategy Monthly Insights: Defined Outcome Strategies, Robotics & AI, and Cybersecurity"
+    excerpt: "Revolutionizing Industries – Harnessing the Power of Automation, Robotics and Artificial Intelligence for Growth and Transformation Thematic investing provides access to the key disruptive, technological trends shaping our world. Automation plays a key ..."
+    publishedDateTime: 2023-06-13T17:54:00Z
+    webUrl: "https://www.benzinga.com/markets/emerging-markets/23/06/32842172/investment-strategy-monthly-insights-defined-outcome-strategies-robotics-ai-and-cybersec"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
   - title: "Deloitte announces new managed end-to-end enterprise cloud security and compliance offering with AWS: ConvergeSECURITY"
     excerpt: "ConvergeSECURITY allows enterprises to accelerate their cloud transformation efforts through a combination of artificial intelligence (AI)-enabled cloud security and compliance pr"
-    publishedDateTime: 2023-06-13T17:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831920.htm"
+    publishedDateTime: 2023-06-13T19:23:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/13/9831920.htm"
     type: article
     provider:
       name: TMCnet

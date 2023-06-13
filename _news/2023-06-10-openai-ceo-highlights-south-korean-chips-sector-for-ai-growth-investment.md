@@ -93,38 +93,6 @@ related:
         width: 700
         height: 475
         isCached: true
-  - title: "OpenAI competitor: Reason why Nvidia, Oracle are investing in AI startup Cohere"
-    excerpt: "Cohere, an AI foundation model startup, has raised $270 million in a funding round from investors, which include technology giants such as Nvidia, Oracle and Salesforce Ventures. The Toronto-based AI startup competes with Microsoft-backed OpenAI and focuses on building AI models for enterprise customers."
-    publishedDateTime: 2023-06-09T02:09:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/articleshow/100862259.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 53
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-100862259,imgsize-832578,width-800/100862259.jpg"
-        width: 800
-        height: 529
-        isCached: true
-  - title: "OpenAI CEO Sam Altman visits South Korea as country seeks to encourage AI development"
-    excerpt: "After crisscrossing Europe last month meeting lawmakers and national leaders to discuss the prospects and threats of AI, Altman has travelled to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea - all this week."
-    publishedDateTime: 2023-06-09T01:34:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 52
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399065870.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "OpenAI’s chief Sam Altman meets PM Modi, discusses startup ecosystem’s benefits from AI"
     excerpt: "Sam Altman, chief executive officer of ChatGPT’s parent company OpenAI, on Thursday met Prime Minister Narendra Modi in New Delhi to discuss the potential of artificial intelligence (AI), and the need for global regulation. “Great conversation with @ ..."
     publishedDateTime: 2023-06-09T15:46:00Z
@@ -149,6 +117,15 @@ related:
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
+    quality: 47
+  - title: "Sam Altman’s Advocacy For AI Regulation Goes Global—And Includes China"
+    excerpt: "OpenAI CEO Sam Altman over the weekend called for enhanced collaboration between the U.S. and China on artificial intelligence development."
+    publishedDateTime: 2023-06-13T19:13:00Z
+    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/06/13/sam-altmans-advocacy-for-ai-regulation-goes-global-and-includes-china/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 47
   - title: "OpenAI CEO says 'optimistic' on global AI coordination"
     excerpt: "The CEO of ChatGPT maker OpenAI on Monday said a tour of capital cities had left him \"quite optimistic\" about prospects for global coordination on artificial intelligence (AI). The public face of the startup,"

@@ -91,6 +91,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Robots and AI: A new economic era"
+    excerpt: "When developed countries adopt robots and AI, it has an impact on trade with developing countries, leading to increased exports from developing to developed countries, particularly in sectors experiencing high levels of robotization."
+    publishedDateTime: 2023-06-13T20:56:00Z
+    webUrl: "https://www.thejakartapost.com/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 54
 
 secured: "77ndphhkl2Fv7JtcIlU6I7btwPwnazIXy9teN8Krsv5uWh+YNBM/0jn8emEzxAKM3Dwgo/5CmZZLWhTJWH6Eex1imJ0SUSQmrtBPNYtzst6FMu+PsYk1/qKusrdYa3KsGijf8iPAjJ9r2Mis55AdfkLUw7zrr1QjQLowPv/diacJkqdI9kp/4l5UrNiHPfsoLYIMxs8mdIcvai4jG2IhV6d/8wnrHKPYA9iv6Tcm+c/IBwTlAMsIdtfdGBkIagRIXpP3HZv4yhhx014EMM2N7XH4EO5l/lrMChJAO7xBoLzgrHLp6OxgWfxdcQ4EoQKHCgRIeG+NYBGmeJ4D7ANL2qyreH1Plj1M6rX4ArTG2RJvuzd8JZzkyPUYpoq0Mhf1J6GIRvMxsztorh3539YFsiqwFlgSiKzUY2gmvnmnoIKMGqAo/D5CfBLqATCb/m+ZJHSaon4E6EYvKtZDzVVt8KocgwYUt1C+sMFFZ69BnRW/YkwVXd/kBO08Afvv6MPiy5quwOjlaMFSeLRWzOO7uQ==;+8zMX2AlOPZ4DQI8qtAY8Q=="
 ---

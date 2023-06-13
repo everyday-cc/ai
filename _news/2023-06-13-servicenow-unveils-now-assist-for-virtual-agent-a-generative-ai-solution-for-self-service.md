@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/servicenow-unveils-now-assist-for-virtu
 webUrl: "https://venturebeat.com/ai/servicenow-unveils-now-assist-for-virtual-agent-a-generative-ai-solution-for-self-service/"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -57,6 +57,24 @@ related:
         width: 2047
         height: 1365
         isCached: true
+  - title: "ServiceNow extends its AI capabilities with Now Assist for Virtual Agent"
+    excerpt: "During the event, ServiceNow introduced several new generative AI features for its platform. Now Assist for Virtual Agent builds on those features. ServiceNow’s namesake cloud platform helps information technology teams manage their day-to-day work."
+    publishedDateTime: 2023-06-13T18:12:00Z
+    webUrl: "https://siliconangle.com/2023/06/13/servicenow-extends-ai-capabilities-now-assist-virtual-agent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
+  - title: "The world’s first self-driving ferry is now in service"
+    excerpt: "The MF Estelle will initially have an operator on board to make sure everything goes smoothly, but will be fully autonomously by 2024."
+    publishedDateTime: 2023-06-13T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/sweden-autonomous-electric-ferry/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 4
 
 secured: "Y/evnJa2ld6MZLtO7ZWESqczSqhXwYX80vcCUPF8fljnm0lJNvIZXeqfdVYl82un1iK5afzmKcTvEHZC/DGdQjoDMnZPVGC/IBDm50bjPB5J66pltRSWa3x2mKYVH2LwmSpn/J4xxRusoyy0KIURSd7RU5GQpuA3x5zCQ6vRzDk8S1Ly8OjOgXEAHtj5q74227UGujM5AkRJXg/ZIkA1+UWivIOK63dKILo4xaWa+PHFS+Y0tGwrS1g6kYyRNK68pxMFtYWdKldbWLQu2etECsmKMsqlvP1+PG787bsx37DSm6/mrcYHYCVAViALb9DPSwg5Kfty8CxSSLdWBV0GPKP+L/z/fnIiBl326hBqgGtgwnfxeux79WfVcsWWJXUKI61yPsqL7EhBWIiI7Lut1mO5+Z4JD4Fii8nJFlfs/NjjeQC5BOf6lNOLazQcCA8ISwi+TC1pfdkKG8AbUeeq38N34paMnjYDJm425bFpj26yo5SylcJMLnerjGo2FEbSnc6NBn6bCYW4yAW7K0iiOg==;ivjZ+uaqpRBn+LGaLlJVCA=="
 ---

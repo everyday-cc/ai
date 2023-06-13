@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/ai-powered-fi
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/amp/"
 type: article
 quality: 87
-heat: 227
+heat: 257
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230613-beatles-mb-1236-e85107.jpg"
         width: 3525
         height: 2351
+        isCached: true
+  - title: "AI is Helping Paul McCartney Create the Final Beatles Song"
+    excerpt: "McCartney received the demo tape in 1994 from Lennon's widow, Yoko Ono, on a cassette marked \"For Paul.\" It was one of several songs Lennon had recorded shortly before he was murdered in 1980. According to the BBC, Lennon sat at a piano in his New York apartment at the Dakota and recorded the \"lo-fi and embryonic\" tracks onto a boombox."
+    publishedDateTime: 2023-06-13T20:22:00Z
+    webUrl: "https://www.cnet.com/tech/ai-is-helping-paul-mccartney-create-the-final-beatles-song/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/resize/be3a0a8d84c167f55cb52c61098429f44691fc39/hub/2023/06/13/89e676cb-0e55-4c01-bf1d-01767af0c86e/gettyimages-1405277134.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The Beatles Come Together for ‘Last Record’ Using AI, Paul McCartney Says"
     excerpt: "More than 50 years after the group’s final studio album, Paul McCartney says he has used artificial intelligence to create what he called “the last Beatles record.”"
@@ -195,6 +209,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Paul McCartney Says New Beatles Song Finished With Help From Artificial Intelligence"
+    excerpt: "A new song from The Beatles, which broke up in 1969, has been finished thanks to help from artificial intelligence technology, according to Paul McCartney."
+    publishedDateTime: 2023-06-13T18:26:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/06/13/paul-mccartney-says-new-beatles-song-finished-with-help-from-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
   - title: "The Beatles will release a final record, using John Lennon's voice via an AI assist"
     excerpt: "The music has analog roots, recorded by the famous singer-songwriter on a demo tape. Now it's being revived by futuristic technology for release later this year, Paul McCartney said."
     publishedDateTime: 2023-06-13T16:41:00Z
@@ -227,6 +250,15 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 12
+  - title: "Paul McCartney says AI helped him finish one last Beatles song – here’s what I think is coming"
+    excerpt: "\"When we came to make what will be the last Beatles record… We were able to get John's voice through AI.\" Ahead of his exhibition at @NPGLondon of Beatles photos, Sir Paul McCartney spoke to @Marthakearney and revealed that a new record will be released this year. #R4Today"
+    publishedDateTime: 2023-06-13T17:38:00Z
+    webUrl: "https://bgr.com/entertainment/paul-mccartney-says-ai-helped-him-finish-one-last-beatles-song-heres-what-i-think-is-coming/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 5
 
 secured: "1oqRlRqhzq6nzBDTO68EdtLJTAYFCxhzVg6FnC0KdswopJMMziUmCbV1Fq0krdQZSXUlrFV8+3BU8drBPmmpx3ty1hp7SkqeGXtOsLMEkjJ21bkC2Y4YrLvpTiAhvcR4qjEXIFdsLSneQJJWgNnSLTioVVlsJXIZ6Rk8fRa9+i16jeaFXDKG679dHskN3dJjtVE3ohMYa/gdwOdmtv7w6zmcPHPU1AcYEl5OiFwBGnWw2HOqv6QwxT5N/fucXH5l0TzyUcvSyVtFT8gTGXRicQKXV4bR2pFr8WYXLLj5DKGb/qXZSY/HFrSGQNGdoYnGzb/cURbUjLqX4TUeSZSY7OYSg82CsnitEm/RZNgx0at1+H409/5upgGrvBzyxL6NyZ+FO6FTqjwZ3yET2YdqGJyxNBynPjlhh8NwZjAjiiUehurePwYaN+yCQ11BGoeCrs3mbZXrzDtzvrEIM2AyNl1RZVSDYQTVx0flbQSv6HGnR30pZMDh+eR7mZRS6pWnwntOyu2KaeZNDb+u75LsZw==;S/IywtQjILzFArNhn8yLHA=="
 ---

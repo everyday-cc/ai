@@ -6,6 +6,9 @@ publishedDateTime: 2023-06-13T18:46:00Z
 originalUrl: "https://www.musicconnection.com/ascap-introduces-ai-initiatives-to-help-music-creators/"
 webUrl: "https://www.musicconnection.com/ascap-introduces-ai-initiatives-to-help-music-creators/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Music Connection

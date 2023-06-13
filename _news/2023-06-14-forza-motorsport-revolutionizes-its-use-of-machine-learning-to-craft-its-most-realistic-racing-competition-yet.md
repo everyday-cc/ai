@@ -6,6 +6,9 @@ publishedDateTime: 2023-06-13T18:30:00Z
 originalUrl: "https://www.gamesradar.com/forza-motorsport-revolutionizes-its-use-of-machine-learning-to-craft-its-most-realistic-racing-competition-yet/"
 webUrl: "https://www.gamesradar.com/forza-motorsport-revolutionizes-its-use-of-machine-learning-to-craft-its-most-realistic-racing-competition-yet/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: GamesRadar+

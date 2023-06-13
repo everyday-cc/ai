@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Salesforce Aims to Plug ‘AI Trust Gap’ With New Tech Tools"
+    excerpt: "The software giant says its new technology will help clients use generative AI tools such as ChatGPT safely by protecting proprietary data, among other things."
+    publishedDateTime: 2023-06-13T20:23:00Z
+    webUrl: "https://www.wsj.com/articles/salesforce-aims-to-plug-ai-trust-gap-with-new-tech-tools-19e11750"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-799829/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Salesforce pledges to invest $500M in generative AI startups"
     excerpt: "Salesforce has announced that it has doubled the size of its Generative AI Fund for startups from $250 million to $500 million."
     publishedDateTime: 2023-06-12T13:31:00Z

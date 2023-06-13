@@ -70,22 +70,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Artificial intelligence and the future of work"
-    excerpt: "Artificial intelligence (AI) has pervaded almost every field of innovation and development, starting from driverless cars to recommendation of product."
-    publishedDateTime: 2023-06-09T03:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/startups/people/ai-and-the-future-of-work/articleshow/100864261.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/startups/people/ai-and-the-future-of-work/amp_articleshow/100864261.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/startups/people/ai-and-the-future-of-work/amp_articleshow/100864261.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-100864261,width-1070,height-580,imgsize-4548,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "What Could AI Replace In Your Company, And What Should You Keep Human?"
     excerpt: "No topic is dominating current headlines more than artificial intelligence (AI). In the past month alone, we’ve questioned the ethics of AI-aided “overemployment,” been warned about questionable AI-run news websites and seen an influx of AI-generated ..."
     publishedDateTime: 2023-06-12T13:16:00Z

@@ -47,6 +47,34 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AMD Preps GPU to Challenge Nvidia's Grip on the Generative AI Market"
+    excerpt: "Nvidia has been dominating the market for chips capable of training generative AI programs, but AMD is now trying to claim its share of the pie through a new enterprise-grade GPU. The company today announced the AMD Instinct MI300X, a so-called ..."
+    publishedDateTime: 2023-06-13T21:07:00Z
+    webUrl: "https://au.pcmag.com/ai/100472/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/a/amd-preps-/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai_ezs8.1200.png"
+        width: 1200
+        height: 659
+        isCached: true
+  - title: "Nvidia Joins $1 Trillion Club, Fueled by AI’s Rise"
+    excerpt: "Here is what you need to know about the chip company and its rise to the elite trillion-dollar list."
+    publishedDateTime: 2023-06-13T20:24:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-joins-1-trillion-club-fueled-by-ais-rise-f515dd6e"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-790766/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AI-Generated Video Platform Synthesia Receives Nvidia Backing At Unicorn Valuation"
     excerpt: "Synthesia is the latest AI startup to raise a big round and hit a $1 billion valuation after a $90 million Series C."
     publishedDateTime: 2023-06-13T17:36:00Z
@@ -61,15 +89,15 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Nvidia’s AI software tricked into leaking data"
-    excerpt: "A feature in Nvidia’s artificial intelligence software can be manipulated into ignoring safety restraints and reveal private information, according to new research."
-    publishedDateTime: 2023-06-09T04:00:00Z
-    webUrl: "https://www.ft.com/content/5aceb7a6-9d5a-4f1f-af3d-1ef0129b0934"
+  - title: "Advanced Micro Devices has outlined its new AI chips as it beefs up fight with Nvidia"
+    excerpt: "At an event in San Francisco, Santa Clara-based AMD unveiled chips that are part of its Instinct MI300 series. They include processors designed to power generative AI applications and a system that ties eight AI accelerators together."
+    publishedDateTime: 2023-06-13T19:03:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/13/amd-nvidia-ai-chip-wares.html"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
   - title: "Artificial Intelligence Office organises AI-Enabled Entrepreneurs conference in collaboration with NVIDIA"
     excerpt: "The conference aimed to introduce the latest innovations and developments in the fields of Generative Artificial Intelligence, Metaverses and robotics, and highlight the \"NVIDIA Inception\" programme. The conference further celebrated the success stories of ..."
     publishedDateTime: 2023-06-11T15:48:00Z

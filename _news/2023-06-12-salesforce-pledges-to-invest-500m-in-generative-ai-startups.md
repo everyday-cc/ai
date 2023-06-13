@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/06/12/salesforce-pledges-to-invest-500
 webUrl: "https://techcrunch.com/2023/06/12/salesforce-pledges-to-invest-500m-in-generative-ai-startups/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Salesforce Aims to Plug ‘AI Trust Gap’ With New Tech Tools"
+    excerpt: "The software giant says its new technology will help clients use generative AI tools such as ChatGPT safely by protecting proprietary data, among other things."
+    publishedDateTime: 2023-06-13T20:23:00Z
+    webUrl: "https://www.wsj.com/articles/salesforce-aims-to-plug-ai-trust-gap-with-new-tech-tools-19e11750"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-799829/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Salesforce launches AI Cloud with raft of generative AI tools"
     excerpt: "Salesforce's ChatGPT-style tools are designed to provide customers with large language models integrated with the company's products."
     publishedDateTime: 2023-06-12T18:31:00Z

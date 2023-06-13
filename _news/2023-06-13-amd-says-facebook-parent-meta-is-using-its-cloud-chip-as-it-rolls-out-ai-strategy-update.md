@@ -6,6 +6,9 @@ publishedDateTime: 2023-06-13T14:31:00Z
 originalUrl: "https://www.theglobeandmail.com/business/technology/article-amd-says-facebook-parent-meta-is-using-its-cloud-chip-as-it-rolls-out/"
 webUrl: "https://www.theglobeandmail.com/business/technology/article-amd-says-facebook-parent-meta-is-using-its-cloud-chip-as-it-rolls-out/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: The Globe and Mail

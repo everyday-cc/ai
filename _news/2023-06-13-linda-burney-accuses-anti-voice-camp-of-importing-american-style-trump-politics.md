@@ -40,6 +40,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "‘We can’t turn back now’, Linda Burney digs in on Indigenous voice to parliament model"
+    excerpt: "Linda Burney and prominent supporters of an Indigenous voice to parliament are staring down calls to reset the Yes campaign or delay the referendum and reconciliation, with the Indigenous Australians Minister declaring Australia has come too far to turn back now."
+    publishedDateTime: 2023-06-13T19:32:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/we-cant-turn-back-now-linda-burney-digs-in-on-indigenous-voice-to-parliament-model/news-story/0d4a399a0ddb2b47b995ad8e7d6649c1"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "v0vpI6Z6NLaZgrhqdAZH6E5Y0E/0jjCoflsA3CPrUXmjR1KWxCFzQP8Hc6W3UUqQGKnK9TIZsi6cjrn+O/n8Qo5Sq74+eFLkAAr7cXiopZBenLklidQgU33rYqDPWhqXRVAuZXwrDwswwW54TsDhW2xtryJSAa/f0nmqI+H6IRASd5KU2OEIRtriK9XdpRHGTUL3zvKee6v9XUfsTp0Md+GbeBOTIUiztpi9YWoS6aBbuabIBchdPh+MBfoUGIM8YL28i4RuPynQT9Z4VNy2XLkU9ZImxlIW7RiMvmIZk2lmrecfGtkuUP9Y4NheWlE4gN6NPqw5fwe4TGzKt3VJ0fnJOl1vuBnIboPpWHdDNqk=;qPuWVc+DuS2DI1XQLjFB2A=="
 ---

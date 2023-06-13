@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202306/13/WS6487a398a31033ad3f7
 webUrl: "https://global.chinadaily.com.cn/a/202306/13/WS6487a398a31033ad3f7bbdbd.html"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 642
     height: 428
     isCached: true
-
-related:
-  - title: "ByteDance, TikTok’s Chinese Parent Company, Is Testing an AI Chatbot"
-    excerpt: "ByteDance is testing an artificial intelligence-powered chatbot among employees, the first official indication of the company’s push into the nascent field of generative AI."
-    publishedDateTime: 2023-06-09T04:59:00Z
-    webUrl: "https://time.com/6286069/bytedance-tiktok-artificial-intelligence-chatbot-china/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 69
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
 
 secured: "EehyDAQbdOJVQ6uC5BJ9KgdAnREKMhTGLoDHLr/zCcsdwx6W0/n5VxzHvM0btPCsYrtcfzsrbVpILC75QGdCBQUuIVoeppegaw1zaM6ASxQewrAD7TDUXY6GX6uBX+NY+04t0iLk6yBrvZ3ToyyXb1TBfoRJ8C2dOEogZLXdy9mVTECT43BP0bDx+kf68rcawDdkboKGbO+I6o+L2PIwyajM8VYMGLSaxrbBpPt02UqUb2F/uhrC8SfWOk7hUL4ej2qknvy5NMMT3r7cxsbd61apLSMgHTjDZaR0AzxZMTZxqOtMAuP04dnRR+Nj6ktSnqG3EeY0eCLvHaS+VxQquSBoxezyUV1Xdkzpt2y0TovAlOmHFFm2PTubCsJcJ1IrZo758QX8bNnx8i27RndklQ4b9HxfmuLoMyrPjoevnoOk1te+ubDv1h7W667WFLJEFLYO3g+QZfJze1iW8SYsHHpj5GwzLkNRw3LUnGePtGboG2noRtnMGsquJvwhcLs4PvVmEDm3WTGiUmmb/Krojg==;ak4OHuGII2cHcRbrKsYvLg=="
 ---

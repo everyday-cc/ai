@@ -6,6 +6,9 @@ publishedDateTime: 2023-06-13T18:46:00Z
 originalUrl: "https://washingtontechnology.com/opinion/2023/06/confronting-biases-embedded-ai-and-mitigating-risks/387468/"
 webUrl: "https://washingtontechnology.com/opinion/2023/06/confronting-biases-embedded-ai-and-mitigating-risks/387468/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Washington Technology

@@ -6,6 +6,9 @@ publishedDateTime: 2023-06-13T18:26:00Z
 originalUrl: "https://www.bizjournals.com/philadelphia/inno/stories/fundings/2023/06/13/delaware-startup-raises-2-5-million-seed-round.html"
 webUrl: "https://www.bizjournals.com/philadelphia/inno/stories/fundings/2023/06/13/delaware-startup-raises-2-5-million-seed-round.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: The Business Journals

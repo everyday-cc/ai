@@ -48,6 +48,15 @@ related:
       name: The Daily Dot
       domain: dailydot.com
     quality: 36
+  - title: "AMA delegates call for more oversight of AI in health care"
+    excerpt: "Critics deride Cook County Health as it spends millions creating its own medical research department and investigates the nonprofit managing its clinical trials. AMA House of Delegates will discuss and potentially vote on a wide range of policy proposals at the event in Chicago."
+    publishedDateTime: 2023-06-13T18:51:00Z
+    webUrl: "https://www.chicagobusiness.com/health-care/ai-healthcare-needs-more-oversight-ama-delegates-say"
+    type: article
+    provider:
+      name: Crain's Chicago Business
+      domain: chicagobusiness.com
+    quality: 19
   - title: "Molina Healthcare and Partners Share Results of Obstetrics Health Care Model Incorporating Artificial Intelligence"
     excerpt: "Molina Healthcare, Inc. (\"Molina\") recently shared some notable results of a groundbreaking health care model that uses artificial intelligence (AI) to impact the full cycle of obstetrical care, from early pregnancy detection to post-NICU community-based care management."
     publishedDateTime: 2023-06-13T13:42:00Z

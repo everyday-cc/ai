@@ -6,6 +6,9 @@ publishedDateTime: 2023-06-13T19:22:00Z
 originalUrl: "https://www.benzinga.com/opinion/23/06/32843529/the-moat-paradox-rediscovering-competitive-advantage-for-ai-startups"
 webUrl: "https://www.benzinga.com/opinion/23/06/32843529/the-moat-paradox-rediscovering-competitive-advantage-for-ai-startups"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Benzinga.com

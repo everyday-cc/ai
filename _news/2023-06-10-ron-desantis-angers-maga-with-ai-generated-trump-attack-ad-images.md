@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687?amp=1"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "With apparently fake photos, DeSantis raises AI ante"
-    excerpt: "In one apparently altered image, former U.S. President Donald Trump is seen hugging his bête noire Dr. Anthony Fauci, who beams in response. In another, Trump is kissing Fauci on the nose."
-    publishedDateTime: 2023-06-09T02:09:00Z
-    webUrl: "https://www.reuters.com/world/us/is-trump-kissing-fauci-with-apparently-fake-photos-desantis-raises-ai-ante-2023-06-08/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/96_i0ZlBzL_ld9oyvgUf5I-qc5c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QEF7VFAMEJLNXN4IBKJL2QDDN4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "DeSantis takes AI campaign messaging in an unsettling direction"
     excerpt: "The RNC broke new ground in April with literally fake AI-generated messages in an attack ad. Ron DeSantis' campaign just made matters even worse."
     publishedDateTime: 2023-06-09T12:53:00Z

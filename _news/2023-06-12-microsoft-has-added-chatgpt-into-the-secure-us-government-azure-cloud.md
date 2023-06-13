@@ -146,6 +146,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 36
+  - title: "Microsoft adds AI capabilities, enhances translation features to Skype"
+    excerpt: "In the latest update to Skype, Microsoft has incorporated AI capabilities and enhanced translation features into the platform. The updated version (8.99.76.102 for Insiders) of Skype includes several new features as well as the usual reliability fixes."
+    publishedDateTime: 2023-06-13T18:15:00Z
+    webUrl: "https://telanganatoday.com/microsoft-adds-ai-capabilities-enhances-translation-features-to-skype"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 36
   - title: "Microsoft to move top AI experts from China to new lab in Canada"
     excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
     publishedDateTime: 2023-06-10T10:49:00Z

@@ -89,22 +89,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
-    excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
-    publishedDateTime: 2023-06-09T02:06:00Z
-    webUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html"
-    ampWebUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/01/united_states_capitol_building_washington_dc_congress_legislation_by_mcdustelroy_gettyimages-1036372454_digital_landscape_by_dkosig_gettyimages-1146014337_2400x1600-100825944-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Research examines whether AI is helping small-scale farming operations"
     excerpt: "Artificial intelligence tools can be found in nearly every sector of society and are quickly becoming this century's great technological advancement. In the agriculture sector, large-scale farming operations are utilizing AI to increase profitability,"
     publishedDateTime: 2023-06-12T17:23:00Z
@@ -150,34 +134,6 @@ related:
       - url: "https://pix11.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
         width: 396
         height: 202
-        isCached: true
-  - title: "Artificial Intelligence raises questions for educators"
-    excerpt: "The increase of artificial intelligence use is forcing teachers to face how it will change the learning process."
-    publishedDateTime: 2023-06-09T02:40:00Z
-    webUrl: "https://listen.sdpb.org/education/2023-06-08/artificial-intelligence-raises-questions-for-educators"
-    type: article
-    provider:
-      name: South Dakota Public Broadcasting
-      domain: sdpb.org
-    quality: 52
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/ff84040/2147483647/strip/true/crop/3000x1575+0+56/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2019%2F10%2F15%2Faid-evidence_wide-851025a61a9e7bbb8382dafed3c617413d4fdd1e.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ethics should be at the foundation of building AI systems: Salesforce executive"
-    excerpt: "There has been growing concern among regulators around sensitive data collection from AI software and the need to balance privacy concerns with allowing room to foster innovation. CNA's Heidi Ng spoke to Kathy Baxter,"
-    publishedDateTime: 2023-06-09T03:47:00Z
-    webUrl: "https://www.channelnewsasia.com/watch/ethics-should-be-foundation-building-ai-systems-salesforce-executive-3547126"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 50
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--zEHybKOT--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/06/09/Screenshot%20(168).png?itok=WGtO9sDB"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Increasing focus on AI is driving demand for empathetic women leaders"
     excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
@@ -244,6 +200,15 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 19
+  - title: "Accenture pouring $3 billion into AI, joining long list of tech companies prepping to meet demand"
+    excerpt: "Technology services provider Accenture is the latest company to ramp up its artificial intelligence business, announcing Tuesday that it will invest $3 billion over the next three years and double its AI-related staff to accommodate scorching hot demand."
+    publishedDateTime: 2023-06-13T18:18:00Z
+    webUrl: "https://apnews.com/article/accenture-artificial-intelligence-investment-technology-ai-abc6d596b91be9cc206f842f341e0c77"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
 
 secured: "5x4ly6XKhhIuTcI1uAGHyq23hjiBTdSQfehBOdJUGrGVkETCD6ZLVG36gsmOQF+Kdo3N29K1uGw1iU/DacEkzdkxJIdrX27b+kD0jE7Bf29ieH9OXoM1PFrQbzhnSKmauDkbthhzIhBZ9r83XiM3Pf9fv7Kv70HkhLqyD7zH4s+Ww4YeQq4X5TlkDp3CDQ7uuSa6rHP7xXL4p4n5PoUFryQsNlAgjEgoDia/xq+0gzC2UA1XLOcWue9zJaqt8vmRvBvGmSYFOjtXmrDQl2zy4Gsa27yLHWROCqnXni1IR7TiNVa2j/5ClCcIoeh4s+YexZRettRG6xxmnFqn9FPTR/VuRDNtkBDrYGszZi7JGLMxjGljvxzw/1nb2TaYpebH2VqBJzwX0iZAg/e6zsxN968nwgVlrGas+FgFUL6zO4j2HqV+//s3l032ZFT1BytMR3LPZbQZvPK0RugUIfO6QDfZWAwBpNaVNQxedCZpzFwfHrslYow3LDNqR9Lf1NkXjCjKfRzwFA4SZ3Dvw57mGA==;zwD+Cq7p9PItq85AgFAEZQ=="
 ---
