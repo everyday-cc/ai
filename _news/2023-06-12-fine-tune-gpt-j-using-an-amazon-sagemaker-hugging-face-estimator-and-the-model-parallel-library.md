@@ -38,20 +38,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 103
-  - title: "Get started with the open-source Amazon SageMaker Distribution"
-    excerpt: "Data scientists need a consistent and reproducible environment for machine learning (ML) and data science workloads that enables managing dependencies and is secure. AWS Deep Learning Containers already provides pre-built Docker images for training and serving models in common frameworks such as TensorFlow,"
-    publishedDateTime: 2023-06-08T21:21:43Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-open-source-amazon-sagemaker-distribution/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/08/get-started-open-source-sagemaker-1260x630.jpg"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Build custom chatbot applications using OpenChatkit models on Amazon SageMaker"
     excerpt: "Open-source large language models (LLMs) have become popular, allowing researchers, developers, and organizations to access these models to foster innovation and experimentation. This encourages collaboration from the open-source community to contribute to developments and improvement of LLMs. Open-source"
     publishedDateTime: 2023-06-12T21:37:42Z

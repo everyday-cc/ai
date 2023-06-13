@@ -31,19 +31,19 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 47
-  - title: "Salesforce Ventures Doubles Down On AI Investments"
-    excerpt: "Three months after launching it, Salesforce Ventures announced it will double the size of its Generative AI Fund to $500 million."
-    publishedDateTime: 2023-06-12T16:52:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/salesforce-ventures-generative-ai/"
+  - title: "Salesforce AI Cloud Seeks To Combat ‘Trust Gap,’ Hallucinations"
+    excerpt: "Salesforce is also working on AI prompts to ground generated outputs and provide generated content without hallucinations, the term for when AI produces incorrect results despite the training data. Two AI Cloud features go into GA this month. One is Einstein GPT Trust Layer, which promises to prevent LLMs from retaining sensitive customer data."
+    publishedDateTime: 2023-06-13T13:55:00Z
+    webUrl: "https://www.crn.com/news/cloud/salesforce-ai-cloud-seeks-to-combat-trust-gap-hallucinations"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
+      name: CRN
+      domain: crn.com
+    quality: 39
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
-        width: 900
-        height: 506
+      - url: "https://www.crn.com/resources/0282-183f20e618a6-0da55896c868-1000/salesforce-einstein-1.jpeg"
+        width: 611
+        height: 459
         isCached: true
   - title: "Salesforce Connections - how Baptist Health personalizes its patient engagement and what AI may bring to the story"
     excerpt: "How to personalize and scale patient engagement in the hugely competitive US healthcare sector is a major challenge for all providers. New AI tech may be one way to achieve this, reckons Baptist Health,"

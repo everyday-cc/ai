@@ -32,19 +32,14 @@ images:
 
 related:
   - title: "UN chief calls for coordinated global action on disinformation, hate and artificial intelligence"
-    excerpt: "The proliferation of hate and lies on digital platforms and the threat that artificial intelligence can become an uncontrolled"
+    excerpt: "The United Nations chief says the proliferation of hate and lies on digital platforms and the threat that artificial intelligence can become an uncontrolled “monster” demand coordinated global action."
     publishedDateTime: 2023-06-12T21:47:00Z
-    webUrl: "https://mynorthwest.com/3899714/un-chief-calls-for-coordinated-global-action-on-disinformation-hate-and-artificial-intelligence/"
+    webUrl: "https://www.seattletimes.com/nation-world/nation/un-chief-calls-for-coordinated-global-action-on-disinformation-hate-and-artificial-intelligence/"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 26
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
-        width: 452
-        height: 282
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 4
 
 secured: "OlI8ulCmPztRv2jEBw5UNUtL3NYkdqFVJ+JzMcn5SpG/7b0bTFlRRaYh4bjPtsQqLhpcHolvOP+8Xy2QnwYbJt2CDG8ovnrtD3NhCRmWTotAF2IqV30dbYn4ZQKPdZMSpQiEDiBCALJ8V+buHGKfTzvR90rvThAIqXpWRjsU/EO992HicLC0uHSPogktcoLN8X+qDEprECJFJRW0gxtIAnUFZj/S0rsp49DdEqfir+Wpsxvgt8Rp+HJka62YRuqQks6K0RHHF9d/RQG19edkRSTL/I1NaaoCf/sxrrHlcp2xfIcmU7bRQBhojRhm701zned6S7ZDfksg/o6teNJt1JzWdse6pJ68E33cjlSlQzIIDuOObCgkZFprKNfDckjGR7EnVFwSOq2an2U+3oPP0uzxn4MEWeU1LRdOMsoHJFgRcmYjHSbz+4hBV0YnppFTrrha7SnF7Gya+rJ6AGZovs70NiaKQqw1IGW1VJjO2rBYH6TiwHcYl7sg3/zyU5dKhfQfqZoo2nsjcv8Az80Jnw==;ej5ZG8MwDRTAYsl5tgi4Xw=="
 ---

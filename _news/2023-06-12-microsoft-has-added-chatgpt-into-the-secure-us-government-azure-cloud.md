@@ -29,36 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft unveils Azure OpenAI Service for Government & AI customer commitments"
-    excerpt: "Microsoft announced its new Azure OpenAI Service for government and the tech giant unveiled a new set of three AI commitments to its customers"
-    publishedDateTime: 2023-06-08T22:43:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-unveils-azure-openai-service-for-government-ai-customer-commitments/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 95
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_u.s._flag_made_out_of_computer_code_edcc3754-3681-4c8e-8cc6-5e39e2d58c06.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "OpenAI CEO calls for global cooperation to regulate AI"
-    excerpt: "Sam Altman, the CEO of ChatGPT maker OpenAI, used a high-profile trip to South Korea on Friday to call for coordinated international regulation of generative artificial intelligence, the technology that underpins his famous chatbot."
-    publishedDateTime: 2023-06-09T11:47:00Z
-    webUrl: "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230609034602-01-sam-altman-chatgpt-060923-restricted.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Microsoft’s Satya Nadella Is Betting Everything on AI"
     excerpt: "Satya Nadella—and Microsoft, the company he runs—are riding high on the buzz from its search engine. That's quite a contrast from the first time I spoke with Nadella, in 2009. Back then, he was not so well known,"
     publishedDateTime: 2023-06-13T10:00:00Z
@@ -73,51 +43,21 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Microsoft used AI to refrain people from downloading Chrome"
-    excerpt: "It comes as no surprise that ever since the success of ChatGPT and its subsequent integration into the Edge browser as the Bing AI chatbot, Microsoft has gone from being the underdog in the search engine market to now seeing themselves fighting for market ..."
-    publishedDateTime: 2023-06-08T22:40:00Z
-    webUrl: "https://www.androidheadlines.com/2023/06/microsoft-used-ai-to-refrain-people-from-downloading-chrome.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/06/microsoft-used-ai-to-refrain-people-from-downloading-chrome.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/06/microsoft-used-ai-to-refrain-people-from-downloading-chrome.html/amp"
+  - title: "Atmosera Attains Two New Microsoft Advanced Specializations, Reinforcing Cloud Security and Azure Virtual Desktop Expertise"
+    excerpt: "Atmosera continues to demonstrate its tenured experience and deep knowledge in the Azure tech stack and security domain. PORTLAND, Ore., June 12, 2023 /PRNewswire-PRWeb/ -- Atmosera, a recognized full"
+    publishedDateTime: 2023-06-12T20:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32825113/atmosera-attains-two-new-microsoft-advanced-specializations-reinforcing-cloud-security-and-azure-v"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32825113"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32825113"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 76
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 80
     images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/03/Bing-AI-Logo-AH.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "OpenAI, DeepMind will open up models to UK government"
-    excerpt: "Google DeepMind, OpenAI and Anthropic have agreed to open up their AI models to the U.K. government for research and safety purposes, Prime Minister Rishi Sunak announced at London Tech"
-    publishedDateTime: 2023-06-12T10:07:00Z
-    webUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/"
-    ampWebUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 74
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/31/GettyImages-1248338134-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "OpenAI CEO Calls for Collaboration With China to Counter AI Risks"
-    excerpt: "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement."
-    publishedDateTime: 2023-06-10T05:19:00Z
-    webUrl: "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-797978/social"
-        width: 1280
-        height: 640
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "As Cortana Retires, Microsoft Brings AI-Powered Bing Voice Mode to Desktop"
     excerpt: "This new voice mode makes it more convenient to use the AI-powered Bing Chat since you can talk to it while you work on other stuff."
@@ -142,52 +82,43 @@ related:
         width: 512
         height: 262
         isCached: true
-  - title: "OneDegree partners with Microsoft to drive Insurtech & cybersecurity innovations with Azure OpenAI"
-    excerpt: "OneDegree Global, a technology startup in the insurtech and cybersecurity sectors, has entered into a strategic partnership with Microsoft Hong Kong. The"
-    publishedDateTime: 2023-06-12T06:01:00Z
-    webUrl: "https://www.reinsurancene.ws/onedegree-partners-with-microsoft-to-drive-insurtech-cybersecurity-innovations-with-azure-openai/"
+  - title: "Microsoft Teams up With Indian SMBs to Unleash Generative AI Brilliance"
+    excerpt: "According to Microsoft research, almost 35% of SMBs surveyed were spending over 10% of their revenue on technology. Not only this, SMBs in India are also exploring leveraging the capabilities of Generative AI."
+    publishedDateTime: 2023-06-12T07:37:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-teams-up-with-indian-smbs-to-unleash-generative-ai-brilliance/"
     type: article
     provider:
-      name: reinsurancene
-      domain: reinsurancene.ws
-    quality: 55
-    images:
-      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2019/10/cyber-security.jpg"
-        width: 340
-        height: 226
-        isCached: true
-  - title: "Combining Azure Cognitive Search with the Azure OpenAI Service"
-    excerpt: "Learn more about combining Azure Cognitive Search with the Azure OpenAI Service to create a wealth of useful applications to help both your"
-    publishedDateTime: 2023-06-13T11:31:00Z
-    webUrl: "https://www.geeky-gadgets.com/azure-openai-service/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 54
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiS36n9rO6OQ%2F0.jpg"
-        width: 480
-        height: 360
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/profile.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Klir Unveils Revolutionary ChatGPT Integration powered by Microsoft Azure's OpenAI Service for its Unified Water Management Platform"
-    excerpt: "The first-of-its-kind AI integration simplifies compliance and operational processes for water professionals while maximizing economic and"
-    publishedDateTime: 2023-06-12T22:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/klir-unveils-revolutionary-chatgpt-integration-powered-by-microsoft-azure-s-openai-service-for-its-unified-water-management-platform-1032384641"
+  - title: "We are seeing an artificial intelligence battle between Microsoft and Google: Beth Kindig"
+    excerpt: "I/O Fund CEO and lead tech analyst Beth Kindig provides insight on stock performance and the development of AI on 'Making Money.'"
+    publishedDateTime: 2023-06-09T18:54:00Z
+    webUrl: "https://www.foxbusiness.com/video/6329098666112"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-  - title: "OpenAI’s CEO Calls on China to Help Shape AI Safety Guidelines"
-    excerpt: "China should play a key role in shaping the artificial intelligence guardrails needed to ensure the safety of transformative new systems, OpenAI Inc.’s Chief Executive Officer Sam Altman said."
-    publishedDateTime: 2023-06-10T03:09:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-10/openai-s-ceo-altman-calls-on-china-to-help-shape-ai-safety-guidelines"
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 45
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/0cd95be2-8c2c-4d7b-b899-9e6e5990c8a3/01e569c3-a14c-4973-b7fc-baf39650a674/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "AWS distances itself from Google, Microsoft with ‘unique’ approach to generative AI"
+    excerpt: "AWS has emphasised its commitment to providing customers with the widest range of AI tools, in a strategy that distances it from other hyperscale AI providers. The firm, the third of the hyperscalers to fully enter the generative artificial intelligence (AI) foray,"
+    publishedDateTime: 2023-06-12T12:15:00Z
+    webUrl: "https://www.techcentral.ie/aws-distances-itself-from-google-microsoft-with-unique-approach-to-generative-ai/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 45
   - title: "AWS Unveils Unique Approach to Generative AI, Setting It Apart from Google and Microsoft"
     excerpt: "AWS is making significant strides in the field of generative AI with its distinctive approach. By focusing on customization, fine-tuning, and responsible development, AWS sets itself apart from competitors like Google and Microsoft."
     publishedDateTime: 2023-06-09T18:18:00Z
@@ -196,6 +127,15 @@ related:
     provider:
       name: tech
       domain: techstory.in
+    quality: 42
+  - title: "Contextere's Industrial Chatbot Madison Now Available on Microsoft Azure Marketplace"
+    excerpt: "TheNewswire - June 13, 2023 - Contextere, the pioneer of Blue Collar AI®, announced today that Madison, its insight engine and industrial chatbot, is now available on the Microsoft Azure Marketplace."
+    publishedDateTime: 2023-06-13T13:20:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/17670028/contexteres-industrial-chatbot-madison-now-available-on-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
     quality: 42
   - title: "Microsoft moving some top AI experts from China to new lab in Canada"
     excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
@@ -215,15 +155,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "OpenAI CEO highlights South Korean chips sector for AI growth, investment"
-    excerpt: "OpenAI CEO Sam Altman encourages South Korea to lead in AI chip production, expressing interest in investing in Korean startups."
-    publishedDateTime: 2023-06-10T10:29:00Z
-    webUrl: "https://cointelegraph.com/news/openai-ceo-highlights-south-korean-chips-sector-for-ai-growth-willing-to-invest"
+  - title: "How Microsoft Teams helped the Breakthru app bring wellbeing to 45,000 organizations"
+    excerpt: "The Breakthru app in Microsoft Teams helps increase productivity, focus, and wellbeing with microbreaks in the flow of work. Learn more."
+    publishedDateTime: 2023-06-12T15:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/06/12/how-microsoft-teams-helped-the-breakthru-app-bring-wellbeing-to-45000-organizations/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 33
+      name: Microsoft
+      domain: microsoft.com
+    quality: 32
+    images:
+      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/05/Breakthru-hero.jpg"
+        width: 1113
+        height: 626
+        isCached: true
   - title: "Artificial Intelligence (AI) in Media and Entertainment Market Report 2023: Featuring Amazon Web Services, GrayMeta, IBM, Microsoft & More"
     excerpt: "The \"Artificial Intelligence (AI) in Media and Entertainment Market - Forecasts from 2023 to 2028\" report has been added to ResearchAndMarkets.com's offering. AI in media and entertainment market is expected to grow at a CAGR of 31."
     publishedDateTime: 2023-06-13T10:58:00Z

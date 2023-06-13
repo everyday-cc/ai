@@ -24,22 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Mercedes achieves SAE Level 3 self-driving certification in California, but there’s a catch"
-    excerpt: "After achieving SAE Level 3 certification in Nevada back in January, Mercedes has done the same in California as well."
-    publishedDateTime: 2023-06-08T22:54:00Z
-    webUrl: "https://bgr.com/tech/mercedes-achieves-sae-level-3-self-driving-certification-in-california-but-theres-a-catch/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 14
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/mercedes-self-driving-california.jpeg?quality=82&strip=all"
-        width: 928
-        height: 619
-        isCached: true
-
 secured: "V6xh25WYNRTRpI9WZQ6puK/NHd0KePqo2IlOt73HAVs+xna0lGwqv/OAk2XI1qXD4Wprv2znsQ0lx762FHzk/qdMvBZIV6XrFLXh3lenNphLPn3NSCdML1v6lZIFOYLoHbcDyzs7i2Ya0YJ/jwKlYCjiCNTQPYADUclu22uEU4gT3c9KhVhE6FG9MMs3nLLM6kSRJg6VfKYxPxB4qgIc6CDRop68fb3Qb81BntZFi4ohMdKVR3tfxLxzkuoSyFwyYMlEKqKWs3J+QFOi+DP8j+NsoV8vIrM+Nn4C427cAMBASk9n2x7h/hDwucWMtkPU3OVi7WvLqUZaSzC03Zo6/FURc6si75WDoUE53wuA/ofszB0RSXHcHfsJourWZMaOJg69oxDKMlH+i8h6DBNJfOJ5GLr5VdNiX2FVhz+okjlk4ZuMs4rs1bmKaDSOzZUFUhFdBNsa+ozA8ktXuHRdpmo3Rm700oPPYHGDrHw++UjUXjW6UWZ3z7ZnxM6RSzm7CnHad8t6A8wshmeaYimrWw==;8/0IB3DJkXNPDgraSPu/uw=="
 ---
 

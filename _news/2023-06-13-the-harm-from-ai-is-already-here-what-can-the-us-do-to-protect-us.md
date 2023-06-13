@@ -2,14 +2,12 @@
 category: news
 title: "The harm from AI is already here. What can the US do to protect us?"
 excerpt: "Everyone accepts that AI is dangerous. Agreeing about what to do about it – as the EU has started to do – is a different story"
-publishedDateTime: 2023-06-13T09:19:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jun/13/artificial-intelligence-us-regulation?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2023/jun/13/artificial-intelligence-us-regulation?ref=upstract.com"
-ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/13/artificial-intelligence-us-regulation"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/13/artificial-intelligence-us-regulation"
+publishedDateTime: 2023-06-13T09:00:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/jun/13/artificial-intelligence-us-regulation"
+webUrl: "https://www.theguardian.com/technology/2023/jun/13/artificial-intelligence-us-regulation"
 type: article
-quality: 57
-heat: 57
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -23,12 +21,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/b0aeeff59a92ad22e4baadb3cc67c65c67242151/0_0_7488_4994/master/7488.jpg?width=620&quality=85&auto=format&fit=max&s=3811b34a790db1dab3bbeb1c4c00645e"
-    width: 620
-    height: 413
-    isCached: true
-
-secured: "xAKflnhVzNlh+6M22Chu2Ot/IoBybhf+U+mEhWtGMURG8+zpXVjrXwIUBR/VGrSY2ygHh3zmhvUJwqMbNdaML17Iu0h1UVTORNDYJ5zoBFuK2BUzKKVLt6gFIViM87rBb0I5wSXkS76MUWGTsJDfj5Bmr9i0be4TbL9s7L358ZIetYMCB/y8653N2Yut72X7nIc1v6tcfGf7M34OZNi1p9AawXmSY3hbxy8yra3o2/iFAQNxVwNYveBDNRGQVsrKpCjUnZ/xpGBJW2n8LNGmVo7Ae/BtJRtAt7rtUgXhobfwZh6BS+OydVizajgqbTdar1Y5S/iajR4Z2aZ6OfEDqHApHVQlrZ1jyZ+mlsS5Xgo=;fyiPyTEPf7V2phIsPiDNag=="
+secured: "J34vONE/YvYRsReQRIocsmFwsu/KuZN+4rc/NEPmLrAgCCh7h2wNJDYsSm4Tb56Vsb723mF4bn+J8QoPf8vZXE0eZo7UZQytWP7v5NTe80AsTwzRodFpK9iTJM3T+fh6jL8KYebI/glRfJFcf9ce/4XNHZWvm4Ye0JysZmZ2t4cGQ5RQyb4svWywdipsBlgRg63OKOKjvuqzo6YzOiySzNio49v77UCnaUZItRjf6kyUyFtOf1jkmNBSIbZk94l38c9tGUaO5Z+JZbUgnPWscwVL1cHyp9QD/gWxoVbUxN1vKxwG4n6f/E0cdv4Z8aFzaUjIAemlEoKEm1HrVsWlu9SYsNw6KKZtwMCkVbZzIouliQwAV8fxUdKRW0yKqcKrilmiO07fMc/sptFMSBirb39yeovJ9H5RIUI0y8XWRhGw24qxB08rrYUTKFW33KRczjoYFEvcDSJnAldUJGIRQS2akiKu0wgRdm9wVbfuxrlHMCnLklGOgXieFJPvO8ue5lQpxpdPAwefnU8VrbyVTA==;5HEz57E4dKVyULPSU5lUMQ=="
 ---
 

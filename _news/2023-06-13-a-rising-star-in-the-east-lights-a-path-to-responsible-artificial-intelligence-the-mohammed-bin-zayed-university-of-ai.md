@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-t
 ampWebUrl: "https://www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/amp/"
 type: article
-quality: 80
-heat: 80
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -23,6 +23,9 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
+  - Natural Language Processing
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6487b8a204b294ec6d7d5722/0x0.jpg?format=jpg&width=1200"
@@ -30,6 +33,6 @@ images:
     height: 712
     isCached: true
 
-secured: "aGWnesKeRk+akLZ6/m7SPYjVnErpXfYJvGWA2jv8fbgwmPTupBDvgE9n+H1F0wCeO+ays102UPFfcbXvPgSf8vVGi25rrKSeNcI/TJGUUANMVu63nX9fQbjc14iDbKXTDYjODtL7KdCNNembOpKnmzhjA9YO6ApDOW8L06+T8umfV9BiYgw3ql0JVeO9ZhRw66i9060SVoVI+5b6V3g/6FQ+jj2KRToOZ2SSHf8UgUKNEZ80GNh+r+V1q2N/qsnbRK/I1y1UabyN1umlpMdzEsumrMlpxC6WTmLSvZdhTzVPtUiYbkt7QTb8sHxauq9Dsi0or5lKgbbYqnopyH+P4Sy+eqAUZGgCdZk0u4BKu7U=;8txfIyP+irRihJ6icJgUyA=="
+secured: "3H4WirbhxOMzpWDIuVX1bI6+a7HF5MygoXfHmPnyWfofjJYC34USCqx+iX3rGGMChK5xfzGYia50B+PG6wIgChlgER3jMWbh0E1aJ35hnC3V9Z6GTMGEQQiUxwlRpIXpaqXy59ecZuUg7gs1ff+gCOiFiJF5zUYpbPHAMENSaZyvVFoFKqtQrcwzGxlLnWwn3RFTuW9GSzvHMzSm92y/paS9P9wpUIIvV0yhC1mwKm2rzhaEkIXtqklwuWX3iTKsOyTdCovL2/Kj33xXaV5jByePx2aK2QvaVAPJaPaCwg1tWISMbIUJHsBnQJGNEb0c62M09xOm3yTz5lPv/zW1MrpCpS+IOQwbZEX4sRuKrmeSqO9s7GkUpqsKsrVzSe4X+S+j/6H+/AfCapWg0P67yF37UpPONctBGBbN7ZM1qeQzIkSwlNB3VsSpHzIuBpLYrsw53y3fE0Baq9wgCEUDU40T7tQgC4f2EK0upos1oMu2NiVoIo8ee7w7YMxd5KtZvZhDaewGZytjEftjrzhydg==;18U8K2b5IgE87hSrqH0h6A=="
 ---
 

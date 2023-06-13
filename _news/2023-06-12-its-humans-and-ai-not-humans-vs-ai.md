@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-human
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Inside today’s AI-human rights hearing"
+    excerpt: "A Senate Judiciary Committee panel on Tuesday holds a hearing on the impact of artificial intelligence on human rights."
+    publishedDateTime: 2023-06-13T13:55:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2023/06/13/inside-todays-ai-human-rights-hearing"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/S5uxPQgcy_YhlEyG7eTEeKAxZXA=/0x0:1920x1080/1366x768/2023/06/12/1686601340141.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "SHByt9HsgCPhXI1Oy6WaCrcQDJl1cPat+aQrEhNPtJUhsZiOk2jOEtURCYbd4e3Cs04WYERspq0u0VflMjN1M4Fa5olU60RQ0PYoXI+aoIsR9oxneFlM5BGmx7gOXQ6b/dwVExr5N50aJRjzlpObbtrT3XSx5DrKVOtC2GBXL2sv5n8Q5Q7QO/nZY1eP/wjNTdKW6VRF20g6x9U/VbywRn9x7cB9a7J6YTKhkOkgXVfu7ZwRXhBXqrAbvtcIRVHWigQAT3cmR+A/MSDDO7zFEdRo8ocw/wAmJU/x82JMmSOmvzfmAZnn36C42V73WXsEL2I3nZx7H26QJ9+kj1lcPpCQiDCD4r3ot3cjGJdx3IQ=;LgstIydhFJXdwcw3JOvABw=="
 ---

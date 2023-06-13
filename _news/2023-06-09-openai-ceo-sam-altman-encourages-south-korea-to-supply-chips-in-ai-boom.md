@@ -19,21 +19,95 @@ topics:
   - AI
 
 related:
-  - title: "OpenAI’s tussle with GPU shortage, Sam Altman’s future plans for ChatGPT revealed in a leaked blog post"
-    excerpt: "Sam Altman recently attended a closed-door meeting in London and one of the participants took to their blog to reveal some confidential information."
-    publishedDateTime: 2023-06-13T08:37:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-gpt5-leaked-blogpost-chatgpt-8660435/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-gpt5-leaked-blogpost-chatgpt-8660435/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-gpt5-leaked-blogpost-chatgpt-8660435/lite/"
+  - title: "OpenAI CEO calls for global cooperation to regulate AI"
+    excerpt: "Sam Altman, the CEO of ChatGPT maker OpenAI, used a high-profile trip to South Korea on Friday to call for coordinated international regulation of generative artificial intelligence, the technology that underpins his famous chatbot."
+    publishedDateTime: 2023-06-09T11:47:00Z
+    webUrl: "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 58
+      name: CNN
+      domain: cnn.com
+    quality: 87
     images:
-      - url: "https://images.indianexpress.com/2023/06/AI-Black-Box-1.jpg"
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230609034602-01-sam-altman-chatgpt-060923-restricted.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "OpenAI, DeepMind, and Anthropic to give UK early access to AI models for safety research"
+    excerpt: "The UK has been ahead of other countries in AI safety and regulations, and this announcement comes with the creation of an AI Taskforce."
+    publishedDateTime: 2023-06-12T21:14:00Z
+    webUrl: "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-give-uk-early-access-to-models-for/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 75
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/383bbbdcbc8cc7077514430dab2072839d7dc9cd/2023/06/12/ef66201a-11c7-4071-a1be-1b603f993b6b/pm.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 667
+        height: 675
+        isCached: true
+  - title: "OpenAI, DeepMind will open up models to UK government"
+    excerpt: "Google DeepMind, OpenAI and Anthropic have agreed to open up their AI models to the U.K. government for research and safety purposes, Prime Minister Rishi Sunak announced at London Tech"
+    publishedDateTime: 2023-06-12T10:07:00Z
+    webUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/"
+    ampWebUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 74
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/31/GettyImages-1248338134-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "OpenAI CEO Calls for Collaboration With China to Counter AI Risks"
+    excerpt: "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement."
+    publishedDateTime: 2023-06-10T05:19:00Z
+    webUrl: "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-797978/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How to create AI art using Azure OpenAI Service"
+    excerpt: "In this article, we’ll discuss how to create your very own AI art using the Azure OpenAI Service. The Azure OpenAI is part of Microsoft’s Azure, is a suite of cloud services that houses some of the most current language models in the field. These ..."
+    publishedDateTime: 2023-06-13T09:46:00Z
+    webUrl: "https://www.geeky-gadgets.com/azure-openai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/06/How-to-create-AI-art-using-Azure-OpenAI-Service.jpg"
+        width: 700
+        height: 475
+        isCached: true
+  - title: "OpenAI competitor: Reason why Nvidia, Oracle are investing in AI startup Cohere"
+    excerpt: "Cohere, an AI foundation model startup, has raised $270 million in a funding round from investors, which include technology giants such as Nvidia, Oracle and Salesforce Ventures. The Toronto-based AI startup competes with Microsoft-backed OpenAI and focuses on building AI models for enterprise customers."
+    publishedDateTime: 2023-06-09T02:09:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/articleshow/100862259.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 53
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-100862259,imgsize-832578,width-800/100862259.jpg"
+        width: 800
+        height: 529
         isCached: true
   - title: "OpenAI CEO Sam Altman visits South Korea as country seeks to encourage AI development"
     excerpt: "After crisscrossing Europe last month meeting lawmakers and national leaders to discuss the prospects and threats of AI, Altman has travelled to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea - all this week."
@@ -67,6 +141,38 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "OpenAI’s CEO Calls on China to Help Shape AI Safety Guidelines"
+    excerpt: "China should play a key role in shaping the artificial intelligence guardrails needed to ensure the safety of transformative new systems, OpenAI Inc.’s Chief Executive Officer Sam Altman said."
+    publishedDateTime: 2023-06-10T03:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-10/openai-s-ceo-altman-calls-on-china-to-help-shape-ai-safety-guidelines"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "OpenAI CEO says 'optimistic' on global AI coordination"
+    excerpt: "The CEO of ChatGPT maker OpenAI on Monday said a tour of capital cities had left him \"quite optimistic\" about prospects for global coordination on artificial intelligence (AI). The public face of the startup,"
+    publishedDateTime: 2023-06-12T09:11:00Z
+    webUrl: "https://www.aol.com/news/openai-ceo-says-optimistic-global-061145122.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/a918d58a1babd296503473bae2894330"
+        width: 800
+        height: 577
+        isCached: true
+  - title: "OpenAI CEO highlights South Korean chips sector for AI growth, investment"
+    excerpt: "OpenAI CEO Sam Altman encourages South Korea to lead in AI chip production, expressing interest in investing in Korean startups."
+    publishedDateTime: 2023-06-10T10:29:00Z
+    webUrl: "https://cointelegraph.com/news/openai-ceo-highlights-south-korean-chips-sector-for-ai-growth-willing-to-invest"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 33
 
 secured: "omfijU4i9AzsVOGUEcEB0bkm8FtIhbKYdJCwSp+a539E/W0FBTG9Icb8vVWYlUmgvfVnfnRfXK8R+0VulgNy4sfGlBfF22mcuNJuFFwT/XkAk/0PaUGGmXy0Qzne5v3lHZ3KRQOieZ4M0cjZfKDAq5p12hoPWWVIlQM0qwnAM3FJwcT4wGupsUzKMGtybfeg9cYEzX6lLQD36RMtoFBewU0sY/9MlYb+YrVeXmNOFuv69ziKQ51R4aWzvlIHnDWLFBblsMRfD7xrX4Bk4BUA2kP9mAd8oyy8VGYJG8R9hLlre3NEx8K40gAg/nUbPF0CmDUJVD3F8nQocufa4p4jTB9NA1QLvPczd4CUZOWPXhRonfSveO8UkoNYkUgPfoxuQJNKFqKFUvS1A1gC1+3nZ0y1qMgNpjPms/DQF3R7tbAYp0T1/TNAbLhRfpwKAdIHn1tc80oGQZ0+iOCWWD1EpIN/txqktnSxGPqD5b1r2ifB9/atNeMlE8s8RcTNevLNT6sj0iAqkytK+k+RtYeRlg==;MujkIkNk7EDZjt1QsfgFyg=="
 ---

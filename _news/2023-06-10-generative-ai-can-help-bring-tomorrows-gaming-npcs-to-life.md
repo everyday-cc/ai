@@ -44,21 +44,21 @@ related:
         width: 853
         height: 568
         isCached: true
-  - title: "Google Cloud and Salesforce partner to help improve customer experience with AI"
-    excerpt: "The two companies are coming together to analyze data with AI and help businesses create ads customers probably want to see."
-    publishedDateTime: 2023-06-08T20:49:00Z
-    webUrl: "https://www.zdnet.com/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
+  - title: "Artificial Intelligence can help with hearing loss"
+    excerpt: "McDonaldHearingServices.com For more information about the services McDonald Hearing Services offers, click here. Copyright 2023 Nexstar Media Inc. All rights reserved. This material may not be published,"
+    publishedDateTime: 2023-06-13T14:57:00Z
+    webUrl: "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/"
+    ampWebUrl: "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/"
+    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
+      name: WOOD-TV
+      domain: woodtv.com
+    quality: 57
     images:
-      - url: "https://www.zdnet.com/a/img/resize/6c3f1f1d520c9f4a0429e5cc917d81087c1f7390/2023/06/08/8afc8c54-f7ab-4207-b16b-1a8741aed571/gettyimages-1332177687.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/keenan.jpg?w=1280"
+        width: 800
+        height: 450
         isCached: true
   - title: "How AI Can Help Doctors As They Solve Complex Problems"
     excerpt: "AI has an essential role to play in augmenting the work of doctors as they make dozens of high-stakes decisions a day."
@@ -69,15 +69,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Adobe Express gets generative AI tools to level up your design experience"
-    excerpt: "Adobe has been making headlines for its integration of generative AI into its most popular tools, such as Photoshop. Features like Generative Fill have taken photo editing to the next level, making it possible to add realistic-looking elements to a photo with the click of a button."
-    publishedDateTime: 2023-06-08T19:24:00Z
-    webUrl: "https://www.zdnet.com/article/adobe-express-gets-generative-ai-tools-to-level-up-your-design-experience/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 46
 
 secured: "QKbhMSt8CaPKsz4Vk3JEhuXEtMITbBR+Sej2Qj8kxJt26cOYHEwpsrcMHT6o9jsn7wzAy6BrxkBtDOQRSoSUB56m0HIdbWsm17vmMo941SqiKiao3p/4+C75wYBjhv04RWNVx4/mXqXSKIkwfy+u8jOnHRpEVaxUdHUgqFNtFxfm699d7yZsMOQUS4SgVDe+m7jHlGBk06eozvjHN8MkVqCJoZV340e9f/0J/1Ejc9jxu/OAgZ1qe23e8fR3CsUEB5wXT2XaLN6TzavdqkQbBDefPXC8WbSVrZuNdQa93R5UlxydcQ1gB34JFNyFPgVW8euS+E1+74d77iQvJhmgmIJdsEAIiOk4fG+cuZOONNHmspZ3eNXGgnnSEzoaKIZmO022z0CL+ObwYp6bNtGcwHBOkaV8ZG1rGjRGIzxnVazGeNRKfB0tsxBbwT44w0NrBIpHnuq+G2rbWFwf7RaikdANfqUBcWwokORQP1X1zFWFGx/+Fj17fyHN+HdfPB0MrNgvy1BA9vtDww+6WGXDVg==;+TT3v0umCgEw4p7zQmWdAg=="
 ---

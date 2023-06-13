@@ -38,22 +38,6 @@ related:
         width: 853
         height: 568
         isCached: true
-  - title: "Google Cloud and Salesforce partner to help improve customer experience with AI"
-    excerpt: "The two companies are coming together to analyze data with AI and help businesses create ads customers probably want to see."
-    publishedDateTime: 2023-06-08T20:49:00Z
-    webUrl: "https://www.zdnet.com/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-and-salesforce-partner-to-help-businesses-improve-customer-experience-with-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/6c3f1f1d520c9f4a0429e5cc917d81087c1f7390/2023/06/08/8afc8c54-f7ab-4207-b16b-1a8741aed571/gettyimages-1332177687.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Generative AI can help bring tomorrow's gaming NPCs to life"
     excerpt: "Today's non-playable characters are a step above the Ghost Gang of yesteryear but they're still a far cry from human-level fidelity."
     publishedDateTime: 2023-06-09T17:03:00Z
@@ -68,15 +52,22 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Adobe Express gets generative AI tools to level up your design experience"
-    excerpt: "Adobe has been making headlines for its integration of generative AI into its most popular tools, such as Photoshop. Features like Generative Fill have taken photo editing to the next level, making it possible to add realistic-looking elements to a photo with the click of a button."
-    publishedDateTime: 2023-06-08T19:24:00Z
-    webUrl: "https://www.zdnet.com/article/adobe-express-gets-generative-ai-tools-to-level-up-your-design-experience/"
+  - title: "Artificial Intelligence can help with hearing loss"
+    excerpt: "McDonaldHearingServices.com For more information about the services McDonald Hearing Services offers, click here. Copyright 2023 Nexstar Media Inc. All rights reserved. This material may not be published,"
+    publishedDateTime: 2023-06-13T14:57:00Z
+    webUrl: "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/"
+    ampWebUrl: "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/"
+    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 46
+      name: WOOD-TV
+      domain: woodtv.com
+    quality: 57
+    images:
+      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/keenan.jpg?w=1280"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "VMk/UKoR2gwE1UziLSXKCFMVYK5E4C5/WWgzPILTJfAjXxIjhmO9iQYw4QvXMNkoGmP/puckJwJ9mIt02RTnaKGq6zTcTkPZMZA/3PXYQxxVoqmE7VBR0YWYHxzUhMTrCGMJAC7YwNpuldaZYpUJCOToqubBbUjrZhjExgqPa/Ky+GuhNayiVshyQSa3HbqbmTsFt9no+U7a8JI/RjuuHyYSFO3r96nKZs2JOmD3yA5XI69JLICTeRHjZpyYUiNR8x4CjoyLYxZHj6kImlb3nxuJ3BzE/+cg5/XFMjL9993qo2eZ5/Fx9VV+UK0NZSsx4tmNLSTcvoehfsqH2QJZQMLhqKaRuPI9PPn/awI8BOVfT0GHuSpM351fsVj8pB9zv/3ZIoxKFMO4XaZ3mPAkzb/LFcVvWxayUWkuaJlD5n3ocM+u8WQ3I5EtqR2zqCcrCtPGhMGtIvKHeGOi4f39tuNmJ/IYTUzhtJRAcLWMa1i2EXoe6ETeKpXvsfM3yzdS15F8dqD35WX44Eolor3F0w==;d9r01SIOcOEv7lLgPjUShQ=="
 ---

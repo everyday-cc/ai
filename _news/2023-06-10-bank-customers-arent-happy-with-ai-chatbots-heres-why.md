@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-w
 webUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/"
 type: article
 quality: 84
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -45,6 +45,29 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "What does a chatbot know about eating disorders? Users of a help line are about to find out"
+    excerpt: "Many mental health organizations and companies are struggling to provide services and care in response to a sharp escalation in demand, and some are turning to chatbots and AI, even though clinicians"
+    publishedDateTime: 2023-06-13T13:51:00Z
+    webUrl: "https://www.minnpost.com/other-nonprofit-media/2023/06/what-does-a-chatbot-know-about-eating-disorders-users-of-a-help-line-are-about-to-find-out/"
+    type: article
+    provider:
+      name: MinnPost
+      domain: minnpost.com
+    quality: 14
+    images:
+      - url: "https://www.minnpost.com/wp-content/uploads/2023/06/ArtificialIntelligenceIllo740.png"
+        width: 740
+        height: 502
+        isCached: true
+  - title: "An AI Chatbot May Be Your Next Therapist. Will It Actually Help Your Mental Health?"
+    excerpt: "Kaiser Health News — In the past few years, 10,000 to 20,000 apps have stampeded into the mental health space, offering to “disrupt” traditional therapy. With the frenzy around AI innovations like ChatGPT, the claim that chatbots can provide mental health care is on the horizon."
+    publishedDateTime: 2023-06-13T13:44:00Z
+    webUrl: "https://www.psychiatryadvisor.com/home/topics/general-psychiatry/ai-chatbot-mental-health-apps/"
+    type: article
+    provider:
+      name: psychiatryadvisor.com
+      domain: psychiatryadvisor.com
+    quality: 13
 
 secured: "ri4riXx4PB6CGt/g9SscvcMmjWL0WO9GPuxwOP9wF8hgydS3gTB5drNVVazLx1VWz8PDzauM6NGwIXLJ+8s+ZMzN/r+4H0wFHWZzl1ianT9+bJEPiz5xv3ScWeWGzfgb+0sYu3CSJ0lfJRrBYqsQNBVD/qD0IIW1dVXN+MBi4a3JYHFbTHVOSv+oiLwNX69Qz9LoPg7qagAAq8fixRq+wBdl2yu/nEenfa/irJtojR5dNeysX1S5v6GUQ084UDRW54RbodSqXAW1+TYW163YgRnJ+SL0h9Vrw0fwnqDy58YBTvdwLm7Jzq6QTVaMYi/3CCzzFhMH4qdqpWkrhikJ5bm2OOsaNJBLAzw66pfN3+xabHl8ExaDalswbH7A3TmpSqCiQsdxi+9JIBY8pphGyxDUk80/pUJSruugnHQ5nlzVsn9gl8MNDi0cAljxOkGnDnAtf7mHrbvXGhNwWS99bbPEvPrv7f+CKzuu8dhwVR0NZK3a3b6Vc79YKha+a8UL9RpYJK8osvNANzrF/Z87vA==;xGajN6N2SO80RumK80cg9A=="
 ---

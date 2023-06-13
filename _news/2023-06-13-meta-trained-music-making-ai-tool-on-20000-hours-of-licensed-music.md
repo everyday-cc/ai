@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Introducing MusicGen: Meta Unveils Revolutionary AI Music Generator"
+    excerpt: "Meta, the social media giant formerly known as Facebook, has recently launched their groundbreaking AI-powered music generator"
+    publishedDateTime: 2023-06-13T14:02:00Z
+    webUrl: "https://techstory.in/introducing-musicgen-meta-unveils-revolutionary-ai-music-generator/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/03/congress-sec-360x240.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Meta Releases AI-Powered Music Generator 'Musicgen'"
     excerpt: "Meta (formerly Facebook) has released its AI-powered music generator called 'MusicGen', which will turn text descriptio"
     publishedDateTime: 2023-06-13T08:15:00Z
@@ -113,6 +127,24 @@ related:
         width: 360
         height: 220
         isCached: true
+  - title: "Meta’s New MusicGen AI Can Generate Music From Prompts"
+    excerpt: "Meta has recently unveiled MusicGen, an open-source AI model designed to generate music based on text prompts. Read on to learn more."
+    publishedDateTime: 2023-06-13T12:10:00Z
+    webUrl: "https://www.gizbot.com/internet/news/meta-s-new-musicgen-ai-can-generate-music-from-prompts-085875.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 19
+  - title: "Meta's Open-Source Massively Multilingual Speech AI Handles over 1,100 Languages"
+    excerpt: "Meta AI open-sourced the Massively Multilingual Speech (MMS) model, which supports automatic speech recognition (ASR) and text-to-speech synthesis (TTS) in over 1,100 languages and language identification (LID) in over 4,"
+    publishedDateTime: 2023-06-13T13:40:00Z
+    webUrl: "https://www.infoq.com/news/2023/06/meta-mms-speech-ai/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 14
   - title: "Meta just released an AI music generator that was trained on 20,000 hours of licensed music"
     excerpt: "Researchers at Facebook parent company Meta have developed an AI text-to-music generator called MusicGen. The language model, described by Meta’s Audiocraft research team as “a simple and controllable model for music generation”,"
     publishedDateTime: 2023-06-12T19:25:00Z
@@ -123,6 +155,6 @@ related:
       domain: musicbusinessworldwide.com
     quality: 9
 
-secured: "PxCGzls34hrDCSKCSl4SNbAfWUbtDk1oH6CD5OkZobAd4DL4uXSzXY8nCnFG74VxiFRfsz0bonOhZQlgGf3VHgj64NFUu7T051e5IQUwNjelZ3YZcw9AoQhNP2XSL71fyQAnMv8cOnv5amFs1/qccZzfRsYpJKgXq2d8QuNwDML1n0B4yD4XApTrvg5A3czK4C5ILblhoRTC5invvF6XY7EjL8qogG0OOKLt4L57blNIZOXkkIOABJI6qmTKDYFHxI4OhcVIYWsEkd4lF79zjmdu3YaeuwJqrwkJ3a5wH6Drh2a0+NF06boYiew1RIknAL2WD09Cfhm5jcyw+8hCh6Lm6NmazGkMrrVb8Bvpg78=;ZcyIzyEOWN2lsSyqnAMWMA=="
+secured: "jL1Dv1YDAjxXDSRCPZ7jmWntNfLVIUaTuPPHzeGHoCbsuJu1f/UkzwtHFXBToFaq7LyAKFzkaad7QgDT0gft42mii4uSSXCMSm3SAqdd+HhwMGLw4boSebkcxHJaQeYwFo33kav0LDK1qUKOZ9gpiYsPhqTXrsZ1381mP+dpbDvWX7UQkVq0+bw8vWcQKczwTmme/Ci1/vTWWiSeBXrkX98n3rsa5h6NhYakYshjh5/EbBgMEco2UJWE45+qAPaGJLJ5jB2zQLsNd57KlGSqjULmGmaPpf/s6h7u5h7RD8pERxhdtXp1ZHZEnpVNwuZg2UblhbQSRxTdA0NSBSwxJ0hUuXIikvIDBu8OYl3BrFsLHKDDLECkzZlWYntui4IlfZAhdkBF/ER7R1UHFR68pvUR3szOMIOu7vRnU22rkN0KRzmTMXmhEDGGZFquiMhKxi1b4xggeAs9NdXx+JlNJMAS7IYnbkLuRS4ZdT/TzwKcYdy3ql6hY7q5tk5YFB0S4X7bgXaJ+QaMtz6P3qTZ5w==;7kWNG2q1oa+m1Pnfn8ihMw=="
 ---
 

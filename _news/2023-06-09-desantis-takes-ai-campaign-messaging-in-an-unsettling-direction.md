@@ -34,22 +34,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "DeSantis Ad Showing Fake AI Images Of Trump Hugging Fauci Enrages MAGA Supporters"
-    excerpt: "DeSantis and Trump have been attacking each other’s responses to the Covid-19 pandemic as the 2024 race heats up."
-    publishedDateTime: 2023-06-08T22:36:00Z
-    webUrl: "https://www.forbes.com/sites/saradorn/2023/06/08/desantis-ad-showing-fake-ai-images-of-trump-hugging-fauci-enrages-maga-supporters/"
-    ampWebUrl: "https://www.forbes.com/sites/saradorn/2023/06/08/desantis-ad-showing-fake-ai-images-of-trump-hugging-fauci-enrages-maga-supporters/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saradorn/2023/06/08/desantis-ad-showing-fake-ai-images-of-trump-hugging-fauci-enrages-maga-supporters/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6482578f13cb061c7d2a569a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "With apparently fake photos, DeSantis raises AI ante"
     excerpt: "In one apparently altered image, former U.S. President Donald Trump is seen hugging his bête noire Dr. Anthony Fauci, who beams in response. In another, Trump is kissing Fauci on the nose."
     publishedDateTime: 2023-06-09T02:09:00Z

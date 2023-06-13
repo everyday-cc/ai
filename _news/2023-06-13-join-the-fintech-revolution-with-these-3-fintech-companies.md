@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Join the Fintech Revolution With These 3 Fintech Companies!"
-excerpt: "Real-time index price for Dow Jones Industrials Average (DOWI), along with buy or sell indicators, analysis, charts, historical performance, news and more"
+excerpt: "Real-time index price for TSX Global Base Metals Index (TXBM), along with buy or sell indicators, analysis, charts, historical performance, news and more"
 publishedDateTime: 2023-06-13T10:01:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/indices/DOWI/pressreleases/17663728/join-the-fintech-revolution-with-these-3-fintech-companies/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/indices/DOWI/pressreleases/17663728/join-the-fintech-revolution-with-these-3-fintech-companies/"
+originalUrl: "https://www.theglobeandmail.com/investing/markets/indices/TXBM/pressreleases/17663728/join-the-fintech-revolution-with-these-3-fintech-companies/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/indices/TXBM/pressreleases/17663728/join-the-fintech-revolution-with-these-3-fintech-companies/"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 402
     isCached: true
 
-secured: "sXaayY49xZq5BrBdfrZlBBN0il7RGP/aurETITigzip+2SzHrUFhTHxsI2rzwp0KdL/qfj6Lz5YSP33bXIFxp9yOXf9+32f8qrU35EVI/GFL8Upa4iDGgNFS77FoundalDOWBDGQh6GKyXRs4ubzbozOXgXfR1TdMi6nZWam0w8BIVy34SNut4BGgVmSGmnrmqvy4vNPu4sZt8tCjviJHeRL/go9pdR/eSw3+a2+/wPZEjVMaNWPIwf1Mybys0aB7hspwgXH8QArSNQVPURzWjkgmISZ4Vw9n0bj45kA/CIGMK+016FzMMJKLrgLDlblhK14GfVw3NVIkbwW3pmvdwjnX4Tee5c0dVgHsQUqW7E=;i7VWIPb8+0iVKXSlXxUXzw=="
+secured: "QxPYnxNNkpi2i8w5XH0nLcRZMZpoGziSCXWm4+6VGwirXVjWWRgwVqAmE2cZsoqKb6m+gzFL7Tbf4sCGzgVpcTlUtNWS9fs+4Y0Sv+fvG2iOJ1KuAP+iJ4GAVRVZjDS4MCvV75SHErIWyoopiG5WzMtd2r84xjjLYiFUnlt667N5GlFllGbjA5FZ1Z3JJjma8Ny05P7pVcmM1hqKYfdPaMeIZvCxYCRzm4LEuAgRfJ9UmUomnZ/lJ8ZwOXDpRR1gxOcKU2nFLp78i/JJMuITU7H4driWRVFu6HMTMJEl2nA+LjUHYRcEwYDcrQvJ8zF9iOlLGsxHV3ZpnUtMeNXDg6NG0RISVJuKIYnFmnH4joA=;ygyIa7DY1pWnKMyLeFIGhA=="
 ---
 

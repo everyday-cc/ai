@@ -112,6 +112,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Inside today’s AI-human rights hearing"
+    excerpt: "A Senate Judiciary Committee panel on Tuesday holds a hearing on the impact of artificial intelligence on human rights."
+    publishedDateTime: 2023-06-13T13:55:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2023/06/13/inside-todays-ai-human-rights-hearing"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/S5uxPQgcy_YhlEyG7eTEeKAxZXA=/0x0:1920x1080/1366x768/2023/06/12/1686601340141.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "ktwOzTzrGzRu4CtYexslFX1p6jAm8sCgeNUK10G/7Wvo6oDYiRSkfTQEsLqe9H/6QwWYub8hTWHP7I2d6JQ4lBiRrrs0a/OuMJJLE4AAkWJOfQ68uihCBnKDtsU88OiotxxihPXkqPHY6dnuY29SgogTBAGmQ0r+jRkmRHmqInxbQPquFY247bD1iG0Y+H04w4LGueEDRjrJBm+qYhLQ08I5s7gwRHf+QEDNID6WIO/XjEv7AnEDvBsoQmFZCBmst/mt9xfz5y9D9M0aKUNdR97kvwQqQRsmehowd9NosuPYerWfRjJXNb9SWthAHXjZ7nNaNLvKICH79JYW/89XOs8qp4sI4W6T6uCzxXzIKwWsw9rDOcOEDHUMuenqgdv9VxuFTenID7SMr8uPJlLiDIFKAGlZfBCs87CX2oofuw6Nv2DWAPlJQuab/WyaXUP0zlBCF/WGt1KdLuHCTVgBEniiAmFMm+r/jGseObWKhBekb17ON7fGImZSMoLIra/yQLulBQ8rJ3AkD2NDzqXxSA==;woF6IXwsSSJdOSbUG5uyAA=="
 ---

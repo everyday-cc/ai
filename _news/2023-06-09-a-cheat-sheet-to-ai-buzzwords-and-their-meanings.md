@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generati
 webUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/a45f368e-06be-11ee-b74a-5bdd335d4fa2_story.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI buzzwords and what they mean"
-    excerpt: "Here are some frequently used artificial intelligence buzzwords and what they actually mean.  Read more at straitstimes.com."
-    publishedDateTime: 2023-06-08T21:00:00Z
-    webUrl: "https://www.straitstimes.com/business/invest/ai-buzzwords-and-what-they-mean"
+  - title: "A Cheap Fund That Turns AI Hype Into 10% Dividends"
+    excerpt: "Few folks know it, but there’s a way to tap the surging AI trend for a growing 10% dividend. Better still, this monster “AI-powered payout” comes our way monthly."
+    publishedDateTime: 2023-06-13T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/michaelfoster/2023/06/13/a-cheap-fund-that-turns-ai-hype-into-10-dividends/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/06/09/2023-05-16T092805Z263326407RC2WR0ARBQ4YRTRMADP3TECH-AI-WHO.JPG?VersionId=IW4Ygs6RDj4lMsNnKUIzkjDBmDVuR_tx"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "From AI to ML: Big Techs and their Obsessions"
-    excerpt: "The big tech companies have all heavily invested in generative AI and AI/ML, shifting their focus from other deep learning methods"
-    publishedDateTime: 2023-06-10T12:08:00Z
-    webUrl: "https://analyticsindiamag.com/from-ai-to-ml-big-techs-and-their-obsessions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
+      name: Forbes
+      domain: forbes.com
+    quality: 51
 
 secured: "/0d1mYxODu4J3VIAOTtkrnUFMY2T1mEH0e8oMZmgLxiQixWE2iXxWtZrZxC6bju9ij+H7uf816mH63D7h0evtFrZsefaIGZh1Sy2DiNA0yJz7zaPeGABnyEo+d7Mn9iqXGcymD//DwaQZVDAhNFkoPPurb5EPxTs5vCaIqgHL1dqfNUOFvW+aC/Tc6uFhU65/u964hTtHMSDRldzkKLyleMSBp81svqdMOxTgB9VMjggSs3yF6aP0+c3o8MOU0HsNbvjtfhqrdGVos9WzOXLI22PSWG0UdySo7wqshFuzuOCTOEoNqB5N7fYZx8clHky/1UEfhTvP/0Wk6VvCDFDrWoqHauyT/+n+xBZDmqAKz4=;yQOQTkfh5fyGXUPBKUDAdg=="
 ---

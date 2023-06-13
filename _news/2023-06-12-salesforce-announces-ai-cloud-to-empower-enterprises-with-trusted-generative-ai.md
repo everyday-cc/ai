@@ -99,20 +99,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "How Generative AI Can Augment Human Creativity"
-    excerpt: "There is tremendous apprehension about the potential of generative AI—technologies that can create new content such as text, images, and video—to replace people in many jobs. But one of the biggest opportunities generative AI offers is to augment human creativity and overcome the challenges of democratizing innovation."
-    publishedDateTime: 2023-06-12T16:00:00Z
-    webUrl: "https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/R2304C_MIDJOURNEY-scaled.jpg"
-        width: 2560
-        height: 1439
-        isCached: true
   - title: "Oracle invests in Cohere, plans to integrate generative AI tools into its cloud"
     excerpt: "Oracle has invested in generative AI company Cohere, in a deal that valued the business at around $2.2 billion. The $270m Series C round also saw participation from Nvidia and Salesforce. Oracle's investment is said to loosely mirror that of Microsoft with OpenAI and Google with Anthropic,"
     publishedDateTime: 2023-06-11T16:09:00Z
@@ -136,6 +122,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 22
+  - title: "Oracle to introduce cloud-based generative AI service"
+    excerpt: "Oracle will soon be introducing a cloud-based generative AI service. The move was announced by CEO Larry Ellison during a call following the quarterly"
+    publishedDateTime: 2023-06-13T11:35:00Z
+    webUrl: "https://www.techzine.eu/news/applications/107393/oracle-to-introduce-cloud-based-generative-ai-service/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 17
 
 secured: "IhOZ4H1qrXS5pCeu3o9e13pcBj9c7s0jz5tSdrdk/XK2kRT5Y58OrrvlmmwhSW0b+UrQ4A3rnstHHeiO3UFp3o5EmCPoifnFd9ZAL0jYSO1f8cv45SCOC4vu0ei9ae/4scO3Jr5ZArt7tcuwdfs4cpWV2vWkeLbDJU3zMOsxXSngVyLLE8+nWeVo8mc/ynE+E9NAEoS5JHbBHErz5m1UiOfNYBd2k34MZ73h3mvmMvcUs37sjMRL9JbQX5r4QXFxeGqG/LWLPIGItOpFyYQdNcpOIfio3YGDaUMFy8cpxLvMepwS5O0QYEJP0RXQ4cr+OxaBMggnUF+hZi208MQx9MV56tBE2ZLUFbzMdT3lh6i1gnVELkvge4FjH5Y9cznKq+gEBiG6c41HcJLB1UowowWkw+lBd+hofcLZ5mfNet7hcH/siX7CMTPadin4L6bTOUc/n1qRTM6Kr0LiPweg0oYj8eDlzkwvsRi+0lcNEQsXtsS5hk/pUYYkW5utSWN4TXcFeHwqwyglnKXiqU/Vlg==;OysT/lugOZvn4cD9GAkkQQ=="
 ---

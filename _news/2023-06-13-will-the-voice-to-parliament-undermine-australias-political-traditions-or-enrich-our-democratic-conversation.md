@@ -7,7 +7,7 @@ originalUrl: "https://www.abc.net.au/religion/duncan-ivison-voice-to-parliament-
 webUrl: "https://www.abc.net.au/religion/duncan-ivison-voice-to-parliament-and-australian-traditions/102472384"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 862
     height: 485
     isCached: true
-
-related:
-  - title: "Voice, treaty, truth: compared to other settler nations, Australia is the exception, not the rule"
-    excerpt: "These histories remind us how long First Nations people have waited for political recognition in this country – and that, compared to other former colonial sites, Australia is the exception, not the rule."
-    publishedDateTime: 2023-06-08T20:07:00Z
-    webUrl: "https://theconversation.com/voice-treaty-truth-compared-to-other-settler-nations-australia-is-the-exception-not-the-rule-206092"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 11
-    images:
-      - url: "https://images.theconversation.com/files/529694/original/file-20230602-19-8wjczk.jpeg?ixlib=rb-1.1.0&rect=0%2C75%2C1290%2C645&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "0U3rPO7BTo9q5Zp/DRsJgBtzgnpM4jmpt2+rbqPlNWG7ZHqX/eT4Y/4xVCWajNiAgVXoD7PkzJDnne6Y1Latw7Z6Yvomg2WCIL680bzrGUjanYZq57p32ZyCuwOIa+oOAFBXoy1AlgoiLPjfxvBrW4DfJwoyACTaeRwzUPe9JVpl9AmoEfuwwNPWzi+K7GHQEHtxg2en6AmT+ZjNwoiDmjiYJsdb9+49SMYuzKiRH2pFIZPy80OyLdC5rQwggfxh3x4Cd8IKY2Y9UqEEkUnv7G5VFyuNcgxZJVzfICrpve63pyleBj7FWU8CFEIl++/c0UPyKE6ZPROLwmLiNWnW/qPvMo5Gnns0/I8OAHpr0Qc=;rBznCLu0Tk3Wl6KiPgMkNw=="
 ---

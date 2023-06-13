@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "Professors call for further study of potential uses of AI in special education, avoiding bans"
-    excerpt: "Artificial intelligence is making headlines about its potentially disruptive influence in many spaces, including the classroom. A group of educators that includes a University of Kansas researcher has just published a position paper reviewing AI's potential in special education,"
-    publishedDateTime: 2023-06-08T20:04:00Z
-    webUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.html"
-    ampWebUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-professors-potential-ai-special.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 63
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/professors-call-for-fu.jpg"
-        width: 2880
-        height: 1744
-        isCached: true
   - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
     excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
     publishedDateTime: 2023-06-09T02:06:00Z

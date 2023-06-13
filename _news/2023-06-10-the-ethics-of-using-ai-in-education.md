@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-educati
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
 type: article
 quality: 91
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63731fd487e442fe938888a7/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 652
-        isCached: true
-  - title: "Professors call for further study of potential uses of AI in special education, avoiding bans"
-    excerpt: "Artificial intelligence is making headlines about its potentially disruptive influence in many spaces, including the classroom. A group of educators that includes a University of Kansas researcher has just published a position paper reviewing AI's potential in special education,"
-    publishedDateTime: 2023-06-08T20:04:00Z
-    webUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.html"
-    ampWebUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-professors-potential-ai-special.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 63
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/professors-call-for-fu.jpg"
-        width: 2880
-        height: 1744
         isCached: true
   - title: "Navigating through the ethos and sophistication of Generative AI"
     excerpt: "Generative AI has been the underpinning and steering factor as AI advances from auto-pilot mode to co-pilot mode. Now the new course—of fairness, equity, bias-free development, and deployment—will req"

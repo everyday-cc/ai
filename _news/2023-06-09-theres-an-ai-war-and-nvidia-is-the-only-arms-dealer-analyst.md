@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/ai-war-nvidia-only-arms-174654285.html
 webUrl: "https://www.aol.com/finance/ai-war-nvidia-only-arms-174654285.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1199
     height: 650
     isCached: true
-
-related:
-  - title: "OpenAI competitor: Reason why Nvidia, Oracle are investing in AI startup Cohere"
-    excerpt: "Cohere, an AI foundation model startup, has raised $270 million in a funding round from investors, which include technology giants such as Nvidia, Oracle and Salesforce Ventures. The Toronto-based AI startup competes with Microsoft-backed OpenAI and focuses on building AI models for enterprise customers."
-    publishedDateTime: 2023-06-09T02:09:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/articleshow/100862259.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 53
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-100862259,imgsize-832578,width-800/100862259.jpg"
-        width: 800
-        height: 529
-        isCached: true
 
 secured: "er2WnNdP7mkxCVAggrp2WblErlLAH4pNq6NhZz7IMEtDlPLsC9SYrDWslEK1SIlLqJiUxvUo0knXBhxo8aenwXWrugOzkYFGYLOr9tS33U1y1fxyl4RvFZ3hde1WnelzNrJZ3csg+G/LoPNR+5BPkECGz9vpp8Uu+97vczrLvnWDUCiKksO6iTvWrEsiy2fFvLpoploSSZpXjAMEijTfMmqXMd4fW4jThalil0Mpj8IJCkFz/QQOSVv2SBI14Km9/vhDrIK+XpQJHAcjbKxvciAlwA1ytjaOso/McWqS0oSSQSmGXEMTn8u86wxCv/n8t10EKTCbqbQkPsSgkHIW9ueo+HUKJGj52566kRPm0Vw=;LcM3MorbHMGaCDBfglRgZA=="
 ---

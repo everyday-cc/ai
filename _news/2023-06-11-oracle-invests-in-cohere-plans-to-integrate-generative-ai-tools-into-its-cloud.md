@@ -110,20 +110,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "How Generative AI Can Augment Human Creativity"
-    excerpt: "There is tremendous apprehension about the potential of generative AI—technologies that can create new content such as text, images, and video—to replace people in many jobs. But one of the biggest opportunities generative AI offers is to augment human creativity and overcome the challenges of democratizing innovation."
-    publishedDateTime: 2023-06-12T16:00:00Z
-    webUrl: "https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/R2304C_MIDJOURNEY-scaled.jpg"
-        width: 2560
-        height: 1439
-        isCached: true
   - title: "Snorkel AI Introduces New Foundation Model Data Platform to Bring the Power of Programmatic Data Development to Generative AI"
     excerpt: "Press Release Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic data development approach. With Snorkel AI's Foundation Model Data Platform,"
     publishedDateTime: 2023-06-12T14:26:00Z
@@ -133,6 +119,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 22
+  - title: "Oracle to introduce cloud-based generative AI service"
+    excerpt: "Oracle will soon be introducing a cloud-based generative AI service. The move was announced by CEO Larry Ellison during a call following the quarterly"
+    publishedDateTime: 2023-06-13T11:35:00Z
+    webUrl: "https://www.techzine.eu/news/applications/107393/oracle-to-introduce-cloud-based-generative-ai-service/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 17
 
 secured: "tfYepfzT4BlWsJWSTjNO+vCwEQoRHStGnLWN5ReAcivsoCkkIcP/nPoDlvpW2WnTI+gDheU9FRvs2xhrTRQpqUZaqtyQqRt7MVjPduOizBAcr6O8fa2ReigIZHrUTcpRJ3lAWiiM/NmDpZ30QEU46GwltvPKRgeSL2LvUlHEUM+JCLVnHcNKjmGu16AnoHUUsN18efreFUDn/1IHXkWDMM34stNiEBl+t7ht69k5+Jlll9sf8iUqv/xHl1nYWncDeRrgZu8ZivoJGFpuNdW4xFuYUXk6eu055e7P3bxRxu6281sSUdL9CYFDQJJOQ4V2yVrJEpr1OzpM5ddhi0qSImsPwvSCfD9I3blSeww/1Pk=;5tx40S26q9Tod7fI08Y8Ug=="
 ---

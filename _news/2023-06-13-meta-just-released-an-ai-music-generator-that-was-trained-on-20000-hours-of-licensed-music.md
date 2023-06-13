@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Introducing MusicGen: Meta Unveils Revolutionary AI Music Generator"
+    excerpt: "Meta, the social media giant formerly known as Facebook, has recently launched their groundbreaking AI-powered music generator"
+    publishedDateTime: 2023-06-13T14:02:00Z
+    webUrl: "https://techstory.in/introducing-musicgen-meta-unveils-revolutionary-ai-music-generator/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/03/congress-sec-360x240.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Meta Releases AI-Powered Music Generator 'Musicgen'"
     excerpt: "Meta (formerly Facebook) has released its AI-powered music generator called 'MusicGen', which will turn text descriptio"
     publishedDateTime: 2023-06-13T08:15:00Z
@@ -121,6 +135,24 @@ related:
         width: 360
         height: 220
         isCached: true
+  - title: "Meta’s New MusicGen AI Can Generate Music From Prompts"
+    excerpt: "Meta has recently unveiled MusicGen, an open-source AI model designed to generate music based on text prompts. Read on to learn more."
+    publishedDateTime: 2023-06-13T12:10:00Z
+    webUrl: "https://www.gizbot.com/internet/news/meta-s-new-musicgen-ai-can-generate-music-from-prompts-085875.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 19
+  - title: "Meta's Open-Source Massively Multilingual Speech AI Handles over 1,100 Languages"
+    excerpt: "Meta AI open-sourced the Massively Multilingual Speech (MMS) model, which supports automatic speech recognition (ASR) and text-to-speech synthesis (TTS) in over 1,100 languages and language identification (LID) in over 4,"
+    publishedDateTime: 2023-06-13T13:40:00Z
+    webUrl: "https://www.infoq.com/news/2023/06/meta-mms-speech-ai/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 14
 
 secured: "RjQubGp0oikHksPiJmIBr/as+PIt0WqQH3rO0RbUdGQAewwARkDY03r24rcJ0/ob9DeBLe1woPVQj+15ZbEkTojqisFVx7p0CnpZsmSxDAfWwCEArTu5C2rHbMaHzMsDIUPO+EljV0vU59bTeLjOPtzgxR3d5W+6gV5nP8yd+2BXH1a3KGKJtXKaHlyOE8iaQSs+F7qhGOojxgoG1NxFtUN6TycOF5DzwQirPqT0sdA9qfuiNjlKXROdrd3l2HRMmUWvsviEQu/gdY6LCLMkOj211/NpSlfxdMRtLHwb3ewVkMd6KzAlJYPJuwBxRnafkkbfnh8B42zt3G0mMDPoHtpAGTzEEz2V3fUw8Iq25yBpTYLE6LOa2hEuQqx7Lyumy5N4Mz7bF/IIfv2ekYSR8nqzIDsi5YfehWewG7QX0FT/Rv1moYZ1yTgs90YfWueZlMP8Txi+MUD24M3cYqn8TUOyTo7V8QLt93/TkXPxnIdz169UQgs4NsAiANHE7UAzBRM+SlzKKwqoFkP9b9NnDw==;OmtK0BZGDu03g+PzeuX2VQ=="
 ---

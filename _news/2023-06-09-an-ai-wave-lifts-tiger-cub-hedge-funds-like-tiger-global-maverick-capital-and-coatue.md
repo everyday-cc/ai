@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/lee-ainslie-maverick-capital-nvidi
 webUrl: "https://www.businessinsider.com/lee-ainslie-maverick-capital-nvidia-tiger-cubs-may-performance-2023-6"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Business Insider
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Tiger Global Among Tech Hedge Funds Riding AI Mania to May Gains"
-    excerpt: "Tiger Global Management and other technology-focused stock hedge funds jumped in May, adding to a strong 2023 performance that’s helping them crawl back from last year’s losses."
-    publishedDateTime: 2023-06-08T19:28:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-08/tiger-global-among-tech-hedge-funds-riding-ai-mania-to-may-gains"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "igwa/CR6AWM4nPn3631MbnAzFz6yWZU0Q3TC2oxXSmY77HGf+ciGbdclng0PsOTeJmLtT6yw1RDoX+LKDT6y+hCnyn7l8trs22HOR0wdAwm+dhEMAuOsBdDSiuSm/XP99jF+VLBupiDy/L5Lgi2W2MvpVfYss8SH7PQb64qA8ug098cCATv+nrGux6VQk2+XXoulHW48P/3UNEg/W4Dzd7+ylUpMXVa0//vvdOjksi6xnWo7F+JhJQv/Bzd761CTdNgf+2/y01foFKvUvI8dNiFqBxHieiDpUC7RnEvcObNGtvdjR4RQJnwk6JWbZHhVFvmIw0PKRU1aNe+/LW3d17puO2Ys2mUAC3lPW9HzrZk=;O5IIBVF8adFoZsRb7pIG2g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true"
 type: article
 quality: 74
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2884f530-078b-11ee-8d81-e0eaecec6481.jpg?crop=8256%2C4644%2C0%2C430&resize=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Lawsuit alleges facial recognition contract breach, amid questions about litigant"
-    excerpt: "A partner of Vigilant Solutions claims in a lawsuit that a licensing agreement for facial recognition technology has been breached."
-    publishedDateTime: 2023-06-08T20:22:00Z
-    webUrl: "https://www.biometricupdate.com/202306/lawsuit-alleges-facial-recognition-contract-breach-amid-questions-about-litigant"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
         isCached: true
   - title: "USM Student Organization Receives National Recognition"
     excerpt: "The National Student Speech Language Hearing Association (NSSLHA) Chapter at The University of Southern Mississippi (USM) has been awarded Gold Chapter Honors for attaining a distinguished level of achievement in the areas of member recruitment and ..."

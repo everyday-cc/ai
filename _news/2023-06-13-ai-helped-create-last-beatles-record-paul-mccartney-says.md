@@ -1,0 +1,136 @@
+---
+category: news
+title: "AI helped create ‘last Beatles record,’ Paul McCartney says"
+excerpt: "Paul McCartney says artificial intelligence has been used to extract John Lennon’s voice from an old demo to create “the last Beatles record,\" decades after the band broke up."
+publishedDateTime: 2023-06-13T13:44:00Z
+originalUrl: "https://www.seattletimes.com/business/ai-helped-create-last-beatles-record-paul-mccartney-says/"
+webUrl: "https://www.seattletimes.com/business/ai-helped-create-last-beatles-record-paul-mccartney-says/"
+type: article
+quality: 17
+heat: -1
+published: false
+
+provider:
+  name: Seattle Times
+  domain: seattletimes.com
+
+topics:
+  - AI
+
+related:
+  - title: "Paul McCartney To Release 1 Final Beatles Song, Thanks To AI Technology"
+    excerpt: "While some celebrities have turned their backs on artificial intelligence tech to help make their work, Beatles legend Sir Paul McCartney has leaned into it to create the group’s “final” song."
+    publishedDateTime: 2023-06-13T11:18:00Z
+    webUrl: "https://www.huffpost.com/entry/paul-mccartney-final-beatles-song-ai_n_64884e43e4b04ee51a97085c"
+    ampWebUrl: "https://www.huffpost.com/entry/paul-mccartney-final-beatles-song-ai_n_64884e43e4b04ee51a97085c/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/paul-mccartney-final-beatles-song-ai_n_64884e43e4b04ee51a97085c/amp"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 87
+    images:
+      - url: "https://img.huffingtonpost.com/asset/648832d92900006c00c99109.jpeg?cache=Cmy2NUsrlF&ops=1200_630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Beatles Come Together for ‘Last Record’ Using AI, Paul McCartney Says"
+    excerpt: "More than 50 years after the group’s final studio album, Paul McCartney says he has used artificial intelligence to create what he called “the last Beatles record.”"
+    publishedDateTime: 2023-06-13T10:04:00Z
+    webUrl: "https://www.wsj.com/articles/the-last-beatles-record-to-be-released-this-year-using-ai-paul-mccartney-says-45a950d6?mod=newsviewer_click"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 66
+    images:
+      - url: "https://images.wsj.net/im-799253/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "‘The Last Beatles Record’ to Be Released This Year Using AI, Paul McCartney Says"
+    excerpt: "More than 50 years after the group’s final studio album, Paul McCartney says he has used artificial intelligence to create what he called “the last Beatles record.”"
+    publishedDateTime: 2023-06-13T10:04:00Z
+    webUrl: "https://www.wsj.com/articles/the-last-beatles-record-to-be-released-this-year-using-ai-paul-mccartney-says-45a950d6"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 62
+    images:
+      - url: "https://images.wsj.net/im-799253/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "AI used to create new and final Beatles song, says Paul McCartney"
+    excerpt: "Musician says he used technology to ‘extricate’ John Lennon’s voice from an old demo and complete a decades-old song"
+    publishedDateTime: 2023-06-13T09:50:00Z
+    webUrl: "https://www.theguardian.com/music/2023/jun/13/ai-used-to-create-new-and-final-beatles-song-says-paul-mccartney"
+    ampWebUrl: "https://amp.theguardian.com/music/2023/jun/13/ai-used-to-create-new-and-final-beatles-song-says-paul-mccartney"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2023/jun/13/ai-used-to-create-new-and-final-beatles-song-says-paul-mccartney"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/81ffa97a938cdc60ec66d6e44ac2ae1b185aa5f6/0_100_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=d0436e5360b22fab803598b872b14f12"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Artificial intelligence helped create 'last Beatles record,' Paul McCartney says"
+    excerpt: "Artificial intelligence has been used to extract John Lennon's voice from an old demo to create \"the last Beatles record,\" decades after the band broke up, Paul McCartney said Tuesday.McCartney, 80, told the BBC that the technology was used to separate the ..."
+    publishedDateTime: 2023-06-13T14:51:00Z
+    webUrl: "https://www.ksbw.com/article/ai-helped-create-last-beatles-record/44185984"
+    ampWebUrl: "https://www.ksbw.com/amp/article/ai-helped-create-last-beatles-record/44185984"
+    cdnAmpWebUrl: "https://www-ksbw-com.cdn.ampproject.org/c/s/www.ksbw.com/amp/article/ai-helped-create-last-beatles-record/44185984"
+    type: article
+    provider:
+      name: KSBW The Central Coast
+      domain: ksbw.com
+    quality: 52
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9szwrlltfmnze4yjvhy2jkmjy5odazymuxytgwn2nkotawzmm0-l19wywdlcy9oxzkyzgi2n2qyoty1nwqzotkxyjgwztkwywiznmzimzm3-jpg-6488761c6f6de.jpg?crop=1.00xw:0.787xh;0,0.0895xh&resize=1200:*"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "AI You Need Is Love: Artificial Intelligence Helps Create ‘Final’ Beatles Song, Paul McCartney Says"
+    excerpt: "A new Beatles song will be released later this year with a little help from artificial intelligence, musician Paul McCartney announced Tuesday, the latest example of how creative industries are using the fast-evolving technology as lawmakers and regulators begin to grapple with the ethical and legal issues it raises."
+    publishedDateTime: 2023-06-13T13:11:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2023/06/13/ai-you-need-is-love-artificial-intelligence-helps-create-final-beatles-song-paul-mccartney-says/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 48
+  - title: "Sir Paul McCartney says 'final' Beatles song coming thanks to AI"
+    excerpt: "In an interview with BBC Radio 4's \"Today\" program released Tuesday, the legendary musician and former Beatle was asked about AI and how it's been used to make his voice sound younger – and to resurrect the voices of fellow band members John Lennon and George Harrison who died in 1980 and 2001, respectively."
+    publishedDateTime: 2023-06-13T13:31:00Z
+    webUrl: "https://www.cbsnews.com/atlanta/news/sir-paul-mccartney-says-final-beatles-song-coming-thanks-to-ai/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
+  - title: "The Beatles are releasing their ‘final’ record. AI helped make it possible"
+    excerpt: "Artificial intelligence has been used to extract John Lennon's voice from an old demo to create “the last Beatles record,” decades after the band broke up, Paul McCartney said Tuesday. McCartney, 80,"
+    publishedDateTime: 2023-06-13T15:29:00Z
+    webUrl: "https://lasvegassun.com/news/2023/jun/13/the-beatles-are-releasing-their-final-record-ai-he/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 15
+  - title: "Paul McCartney says \"final\" Beatles song coming thanks to artificial intelligence"
+    excerpt: "When it comes to artificial intelligence, Sir Paul McCartney doesn't sound like he's willing to just \"Let It Be.\""
+    publishedDateTime: 2023-06-13T10:32:00Z
+    webUrl: "https://www.cbsnews.com/sacramento/news/paul-mccartney-says-final-beatles-song-coming-thanks-to-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 12
+
+secured: "Rl8udquYKWIRGGcZEu7w3Mkiaq8TuyYys4cV+sxXJ2Zh5o1RLh5iqu+fbcQvIfhXt5CLuxaT3b9gY44upAuFKhHn2Pdb0ocYPLONWKJuCxWAm9wJ+BI1jDzSsj6Q66HzOmfiQLweSQvAXaWjIp3EfrN9gWDqCNQxKv0dCQt2GbojT2OEc+Z/k/TAzy0IQaGA3FZsyYnGns7TCzvXGmSYg3qlchu9M+t5ver2gXGD8AgBQz8AuXMgs1COBEIfQ1uMFFkE2TvkWsP3j00BfHq/KahvajOH85JEwAhjvhG8XQ2timie0HxmEhv2IGVBiB/1lFZJTC2UhJNt7wABgWN2mB8ywXC24iTVT54Y2iibFDxWGMj/rbI6Ph0L4XSSN6zWjByaeOZ+jaugEC7LiAwujELuWf7PYMRDu+f7SUWuaiaLKj7RoekO95dR9wkIrkqfFRrM6DgVcH+MaMyju7Ih/0M5L/1+FEvYDCgL3Ps+PX1Zji03uDP3RIsd6JMG4Zl0F+EB2I+wnLeizDlfa5Yvgw==;8cctF1DVn/QiOfuAcxOg3Q=="
+---
+

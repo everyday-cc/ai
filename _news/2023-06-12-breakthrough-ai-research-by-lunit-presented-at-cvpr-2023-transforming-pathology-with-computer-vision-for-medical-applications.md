@@ -24,6 +24,17 @@ images:
     height: 316
     isCached: true
 
+related:
+  - title: "Global Composite AI Market Report 2023: Growing Intricacy of AI Applications for Better Performance and Accuracy Drives Growth"
+    excerpt: "Technique (Data Processing, Pattern Recognition), Application (Product Design & Development, Customer Service), Vertical and Region - Global Forecast to 2028\" report has been added"
+    publishedDateTime: 2023-06-13T14:17:00Z
+    webUrl: "https://www.cmswire.com/the-wire/global-composite-ai-market-report-2023-growing-intricacy-of-ai-applications-for-better-performance-and-accuracy-drives-growth/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 0
+
 secured: "gzwZac8PGwfbJfLhe7NC2YGPUujsg+5WJx8nOVhSRLXBsPqF0bDvUpf3pLUn034O/dvtFcvvsx7oo51Wvg5G0i6vtbI1tFMFSWAfCDU6xwFAj3B7/abCV9FxSI6g2M/BHVpaIYAcZZ8Gc3FjWjb2PTVFJM1TwO1IPcwaA+0TZjCBLLCvNVlQ6QS0ElYg+Sz1nPHCSfS2UKQs2IPBQwMCcOLU53PVaA5A1hlEwhakxsjvwdiei2EgeXn3ScVs+Kd/q767uMrnSlO0gp3JNKh9K5EstPwRALHp24yBrRb8nxY+/fkLxcINvqe8p8eReStT+IN1V6OiVPeyFTT56cVfuaOdrps5MT0Gz7RKiAgH3vtWhWf2+/tEzORLX11v11OqFHAGpCIaa/W+NW6spN0VFXon4etM3+aMmzOi7RrCrs7lvNvms/c0nrBmZGURZRJVAgW3Ez9QDkRs24ffybE3rj083EoGUyA/fYH3sPq9rHgqiNCzlgghcwE0KgZzLugjENWas5zKWxUYJaKCNHTUnQ==;IXmc3/KGPT7CKQAIxCh6Dg=="
 ---
 
