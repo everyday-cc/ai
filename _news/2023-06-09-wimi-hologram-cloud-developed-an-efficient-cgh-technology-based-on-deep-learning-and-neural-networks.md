@@ -1,40 +1,24 @@
 ---
 category: news
 title: "WiMi Hologram Cloud Developed an Efficient CGH Technology Based on Deep Learning and Neural Networks"
-excerpt: "PRNewswire/––WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider,"
-publishedDateTime: 2023-06-09T12:01:00Z
-originalUrl: "https://www.asiaone.com/business/wimi-hologram-cloud-developed-efficient-cgh-technology-based-deep-learning-and-neural"
-webUrl: "https://www.asiaone.com/business/wimi-hologram-cloud-developed-efficient-cgh-technology-based-deep-learning-and-neural"
+excerpt: "Deep learning can find the optimal or local optimal solution in operation, making it efficient to compute CGH. CGH has been applied to holographic light traps, 3D displays, planar concentrators, AR displays, etc. CGH technology can obtain the best wave ..."
+publishedDateTime: 2023-06-09T12:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-hologram-cloud-developed-an-efficient-cgh-technology-based-on-deep-learning-and-neural-networks-1032380597"
+webUrl: "https://markets.businessinsider.com/news/stocks/wimi-hologram-cloud-developed-an-efficient-cgh-technology-based-on-deep-learning-and-neural-networks-1032380597"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/pr-newswire_500_4_620.jpg?h=7de12b8a&itok=EIcKDhAR"
-    width: 600
-    height: 316
-    isCached: true
-
-related:
-  - title: "WiMi to Develop A CNN-based Optical Scanning Holography Reconstruction Algorithm"
-    excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider,"
-    publishedDateTime: 2023-06-13T12:00:00Z
-    webUrl: "https://www.asiaone.com/business/wimi-develop-cnn-based-optical-scanning-holography-reconstruction-algorithm"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 0
-
-secured: "aMF99hprzl6en3EcBTCbhnAlbggJMpy7LUxfkHWIsPF6UurmCWK0alOCFSFXMNM/mIqgNXxTjexfX39EDvlVLs5kkQ4k5DygYdUa2W/vVhQmlBMPZ6X+1TnW6as+/KhfpUDKX3a/HOL/yOBN1hR0aIH477B6G5LlG5SuobrwRUY5RFu5iQ51+HLUicJwAUEDB9G1MNnGrfCCfIkadIIS+dRRsnyMPySoPjA9RVXMKuP2r1ksdi+IM+YAVXwKQkBBCJZu7p6XjMfmdIXZfrMY1yl3pyc75KerNelXujkXY0mrQRpskspFMzfW0Hflszc3BHirGQ3cfbwsErZ/CWwgzTJ5m0mI5gu8rCXGhaZch639pioDv50xB1NyTtjfHdQuL2E1mItPgw0oFiIZBy9tVkfGLHugiOd6BkIbt77jkWyTOQn3rajYnx0jEqzHWFqygWGj/4922XFwdrITjW5lnwZuLE53MLcF3whRXTr/3wZlV+n9p6s4yg8JCyajsy884DbPGC+HJKPzwhCMmaCf2w==;cbyjivIbuZX8LwJ4ENXWag=="
+secured: "E5rJmFVAfcKnXtO3r+j1q636vugYw57zMOVViRp+H+XuC5DQ2QmGCJ+XyPo+7fVyb3kTS7CIHfG2olB6bOfCiPXdU9xsdfA7Nl99xRKGBfsXXbH51tR8jdVd7uGtaXHHgc3tnG/j4XD7wKeJUtIK4vL17vJYvhxtFS4HUoL3/7Q6pZepPv2XCDTFqUbr7cKsR2HpxXy2WSTLlcnir3tjeRrJpaXUcEetK/cU5Z8y0m6xYLNdajN8r+++3Pso13cX2/kj2MKCbRrQMbVRTUXKbBRSNXw325x1pGBgKXaiVdsYih0+UA4SNnUPyRKgS0cfFDE3R5GGNzYQm8XU7ydS1c3Ub0doHHI0GGVJRT2YDjA=;JytxUJG+HAcNkcHrFi2o7w=="
 ---
 

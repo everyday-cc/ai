@@ -15,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/01/c01d3192-0895-5f0c-8a2d-6def5a719913/6477381d09f54.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
-    width: 1200
-    height: 631
-    isCached: true
-
-secured: "B/4WNAl/6/g89Oy5ZsQYS8G1+wXIDCN2LoWw9HuNb9EHO82Usu/aa5XEJimcYYGQFj6pSIjmPoakOIvziaxjqTUZsTMiNwFzyF9KvZ2oMPUPfb/PJR19nocIf4f80h9dN+mqux2rs/w4schM9ejNdB3XwZ8H02o75d+d2wzfVQFzyBmv/G7jU+JIULlbzEAK84TgnG3UsPEDcVlfwhbzOdumrm3COIzaAOTWARanw1V2AvWXBI+gUSMIbLLQmpA5VJe5CQHcOYkZnMak5mR+x0tTyg+npnlLLvGgwYtabjnpF55dTTMpXmKM4pwDvV4txDBxzes/CnBVS60JrgHEoqEBqeq8VUps8ZSMEu31u+o=;5AOt6QuyI6kWvAfA4PvGIg=="
+secured: "v63EJT9pQyqYR/6kF75gfD8sUuvejAypz9f7OukT8hJ9lK/UpI2a8iVjhOKVHy16AmDVTyGJDjz4AEtkpUATU6VEUUUOB4JC9A85UzivYpP2ILkaOTIjXizDNzyIK9WklKr4OwksZQlk/V3fLEpMOtL9j+13CzliPxm6O0u4tPd5V9zh/0eMub+D8ri22GokW4tJoKwSfEi4/sF1A/AblmOzOPy9Pkuaj7Psmabv4cSZ9fWirzMkoAREKj2IMC/BCHmNo61F9wjOvK9KItGVj8mVYpkbVa94IYIzZTjzn4Ee+M0HRqt/bMheA2g1L9CT03yorOKG4OCFNbZpBMRJjlOqrlYTVAJPUyNlyjRMp5s=;nOQ+RoGvJiKn+7EyXQJkpw=="
 ---
 

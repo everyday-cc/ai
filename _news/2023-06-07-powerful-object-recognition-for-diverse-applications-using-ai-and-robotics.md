@@ -16,12 +16,6 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
-    width: 498
-    height: 259
-    isCached: true
-
-secured: "t42zQ1ecst9pH3pRJJSCyzzr1SmfiahbDef+iGwXf2ywkwQbzEVC4IbbeGfXJD+6FxFIHJNJGQD0+N2naIyjLxYDLmyJ17UqdliGJ4HdWKpdoiZMhSYoR5DDDdhtbdGwDGfuDLVDnduA++8IhAnLyzxUyeHwJoP1NBlo9weg7p1qu092lqletrbFUza/wfD6E5g0EGkU7/dfnLRS/zo4TfpL7RBBDYrHxGG4rAsL+7NSfsWstU42EfWHX80R4Bg2l40WP6SF7DjIxKUF+j6lTIMdM76D2SzBfmuDLzmRg6yEtbLPJ9Ql3rjGowJ5DFsL15m31wlmwwXWSahoRC7uBbhqpPofwjBkzd2U1PkTamo=;zsBxc6W3EPXBevvXPSBwwQ=="
+secured: "lBklI+GWJB1maKpHt5Gp4kLpwFEgwBTz7krl6c5d2c1Zg6S6F8x4AHVPsnCGlbidkHeD0pWz3gnOj3QokTQxRn0o9eJtipL+rDDFu65j1ox8nk+yd0hErZvXbTlNQcXgMT0cstgTYpthtNo6A59VuXXUETJ6vGB+CUsxF5iiUfehrcKlgpa3gU0+Rc7XtZUX5F4QYpz3JRb/pDk+dQ56shvVF964kwA9YusFg40DyxrHPLUPeR6ZGSKa59arGzMq5FMHfydst33vwDgzBuhzfr/Y+Vi0mqI1oSvCLCwYafFItaqk1EacvQZNcGQ2MmmIbmn8SQjjuGm6jKdPWh1ryoGNmdXgcDd97aLyH/VJmbE=;r1L/IGiT1ZHJiQBwtdFWww=="
 ---
 

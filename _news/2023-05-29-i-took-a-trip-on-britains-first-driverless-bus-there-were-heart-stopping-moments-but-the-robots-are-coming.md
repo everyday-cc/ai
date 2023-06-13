@@ -5,8 +5,6 @@ excerpt: "Bristling with Artificial Intelligence software and hi-tech sensors ..
 publishedDateTime: 2023-05-28T20:17:00Z
 originalUrl: "https://www.thescottishsun.co.uk/tech/10741542/trip-britains-first-driverless-bus-edinburgh-robots/"
 webUrl: "https://www.thescottishsun.co.uk/tech/10741542/trip-britains-first-driverless-bus-edinburgh-robots/"
-ampWebUrl: "https://www.thescottishsun.co.uk/tech/10741542/trip-britains-first-driverless-bus-edinburgh-robots/amp/"
-cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/tech/10741542/trip-britains-first-driverless-bus-edinburgh-robots/amp/"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2023/05/stagecoachs-robobus-part-feature-rise-819905064.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-    width: 1920
-    height: 1080
-    isCached: true
-
-secured: "bQEOUUg+hlgH2qiXV0SCVsIS7LbJB8ig53NYWBpUcHxS1f4M+Ya9pt6JJJTU4u6g1c7IEYZbx14TRbQ19SPOYg8EywVS6Q22H6ZClfk5PzhtHp47Sh0O3tLXdomuMVQK1gDcofwmlaaRIcSoRF8E6CVfYdeoqbu1dbm2piLD23/gZCVtWdowWRwrzKVBRQTOSSY0MMg/JpwM2oB8iJOuNe62AzFZS23aaKzJp31BDAStxt/zHUH6d4+8yHwcLZYpf7xNEvvCCbDZUg4IlTkSw38JKPbBzmLkPTPS83wg/FLbd+P9KnlOmxLurJhWAmY4z2B5aK9r/wgLNT2cw2Gmekut67bs4WIEZc8za22MyAo=;TGkfuv6dxvZ0NTf/i7VXlA=="
+secured: "i5Kbedu02lLnW3mDziqLZUTuFDOdkyaYfTz9/peXKEEnei1oPOp4lrrx6CosnmZJD20rpCGIl5ukGsdsDc2EVIn0SOZG16HVypGoIVw0LxBBArUGpbHIdNlnyBmickQCncD1GnBDSefUGpayZIJWK5oFbE5ED61iuOYt5nx8FDimzkzm1XHdFzf9nupDLNkXXh1E4X18sFsIMutXOhKAhDbFtJxtATkdG1axsx81A4WAX0Q1WAUKoQD4uv58GMmKk+dkMZ8bZ9mhAXSO1GL7vg1/CXhtS4Ui0Uvqp5gkcD7vD79Lbc395Hk9uobeLfRx/NjEMGHVQJroxR2LEOOmiDlY8Irmnf2fp0UJ6tp8gHY=;+rC5m5asqRnbhxQRVrFhmQ=="
 ---
 
