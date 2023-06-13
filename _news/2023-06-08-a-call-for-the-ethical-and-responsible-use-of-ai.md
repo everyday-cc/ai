@@ -23,155 +23,237 @@ topics:
   - AI
 
 related:
-  - title: "OpenAI CEO calls for global cooperation to regulate AI"
-    excerpt: "Sam Altman, the CEO of ChatGPT maker OpenAI, used a high-profile trip to South Korea on Friday to call for coordinated international regulation of generative artificial intelligence, the technology that underpins his famous chatbot."
-    publishedDateTime: 2023-06-09T11:47:00Z
-    webUrl: "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+  - title: "The ethics of using AI in education"
+    excerpt: "The continuous advancements in AI technology and its ability to simulate human listening, speaking, thinking, and learning has seen it emerge as a promising tool to enhance student learning experiences. Some studies have demonstrated the positive impact of ..."
+    publishedDateTime: 2023-06-10T14:27:00Z
+    webUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece"
+    ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
+      name: The Hindu
+      domain: thehindu.com
+    quality: 91
     images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230609034602-01-sam-altman-chatgpt-060923-restricted.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "OpenAI, DeepMind, and Anthropic to give UK early access to AI models for safety research"
-    excerpt: "The UK has been ahead of other countries in AI safety and regulations, and this announcement comes with the creation of an AI Taskforce."
-    publishedDateTime: 2023-06-12T21:14:00Z
-    webUrl: "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-give-uk-early-access-to-models-for/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 75
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/383bbbdcbc8cc7077514430dab2072839d7dc9cd/2023/06/12/ef66201a-11c7-4071-a1be-1b603f993b6b/pm.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://th-i.thgim.com/public/incoming/hdt9vp/article66936849.ece/alternates/FREE_1200/12EPBS_AI%20IN%20ED.jpg"
         width: 1200
-        height: 675
+        height: 923
         isCached: true
-  - title: "OpenAI, DeepMind will open up models to UK government"
-    excerpt: "Google DeepMind, OpenAI and Anthropic have agreed to open up their AI models to the U.K. government for research and safety purposes, Prime Minister Rishi Sunak announced at London Tech"
-    publishedDateTime: 2023-06-12T10:07:00Z
-    webUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/"
-    ampWebUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
+  - title: "How to Navigate the Hidden Risks of AI and Digitization"
+    excerpt: "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ..."
+    publishedDateTime: 2023-06-08T17:42:00Z
+    webUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777"
     type: article
     provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 74
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/31/GettyImages-1248338134-scaled.jpg"
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685715379-GettyImages-1434121527.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Ingeniously Using Generative AI Such As GPT-4 To Reveal The Puzzling Secrets Of How Generative AI Startlingly Works, Lauds AI Ethics And AI Law"
+    excerpt: "Nobody can say for sure why generative AI works so startlingly well. A new approach revealed by OpenAI uses GPT-4 to decipher generative AI secrets. Here's the deal."
+    publishedDateTime: 2023-06-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63731fd487e442fe938888a7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 652
+        isCached: true
+  - title: "Professors call for further study of potential uses of AI in special education, avoiding bans"
+    excerpt: "Artificial intelligence is making headlines about its potentially disruptive influence in many spaces, including the classroom. A group of educators that includes a University of Kansas researcher has just published a position paper reviewing AI's potential in special education,"
+    publishedDateTime: 2023-06-08T20:04:00Z
+    webUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.html"
+    ampWebUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-professors-potential-ai-special.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 63
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/professors-call-for-fu.jpg"
+        width: 2880
+        height: 1744
+        isCached: true
+  - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
+    excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
+    publishedDateTime: 2023-06-09T02:06:00Z
+    webUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html"
+    ampWebUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/01/united_states_capitol_building_washington_dc_congress_legislation_by_mcdustelroy_gettyimages-1036372454_digital_landscape_by_dkosig_gettyimages-1146014337_2400x1600-100825944-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Research examines whether AI is helping small-scale farming operations"
+    excerpt: "Artificial intelligence tools can be found in nearly every sector of society and are quickly becoming this century's great technological advancement. In the agriculture sector, large-scale farming operations are utilizing AI to increase profitability,"
+    publishedDateTime: 2023-06-12T17:23:00Z
+    webUrl: "https://phys.org/news/2023-06-ai-small-scale-farming.html"
+    ampWebUrl: "https://phys.org/news/2023-06-ai-small-scale-farming.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-ai-small-scale-farming.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/is-ai-helping-small-sc.jpg"
+        width: 1259
+        height: 1092
+        isCached: true
+  - title: "Trailblazing AI Companies Headquartered in Singapore: Driving Innovation Forward"
+    excerpt: "Know about few of the best AI ventures utilizing power of AI for helping advancement of several other industries."
+    publishedDateTime: 2023-06-12T15:00:00Z
+    webUrl: "https://www.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
+    ampWebUrl: "https://amp.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.sg
+    quality: 54
+    images:
+      - url: "https://data.ibtimes.sg/en/full/68201/ai-powered-comapnies.jpg"
+        width: 1275
+        height: 1263
+        isCached: true
+  - title: "The ethics and creativity of Artificial intelligence"
+    excerpt: "Chef Kardea Brown, is the Emmy nominated host of Food Network, Delicious Miss Brown, and she joined New York Living to talk attending the 36th Annual Chefs’ Tribute to Citymeals on Wheels."
+    publishedDateTime: 2023-06-12T20:42:00Z
+    webUrl: "https://pix11.com/video/the-ethics-and-creativity-of-artificial-intelligence/8727344/"
+    type: article
+    provider:
+      name: pix11
+      domain: pix11.com
+    quality: 54
+    images:
+      - url: "https://pix11.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
+        width: 396
+        height: 202
+        isCached: true
+  - title: "Artificial Intelligence raises questions for educators"
+    excerpt: "The increase of artificial intelligence use is forcing teachers to face how it will change the learning process."
+    publishedDateTime: 2023-06-09T02:40:00Z
+    webUrl: "https://listen.sdpb.org/education/2023-06-08/artificial-intelligence-raises-questions-for-educators"
+    type: article
+    provider:
+      name: South Dakota Public Broadcasting
+      domain: sdpb.org
+    quality: 52
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/ff84040/2147483647/strip/true/crop/3000x1575+0+56/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2019%2F10%2F15%2Faid-evidence_wide-851025a61a9e7bbb8382dafed3c617413d4fdd1e.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI CEO Calls for Collaboration With China to Counter AI Risks"
-    excerpt: "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement."
-    publishedDateTime: 2023-06-10T05:19:00Z
-    webUrl: "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe"
+  - title: "Ethics should be at the foundation of building AI systems: Salesforce executive"
+    excerpt: "There has been growing concern among regulators around sensitive data collection from AI software and the need to balance privacy concerns with allowing room to foster innovation. CNA's Heidi Ng spoke to Kathy Baxter,"
+    publishedDateTime: 2023-06-09T03:47:00Z
+    webUrl: "https://www.channelnewsasia.com/watch/ethics-should-be-foundation-building-ai-systems-salesforce-executive-3547126"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 50
     images:
-      - url: "https://images.wsj.net/im-797978/social"
-        width: 1280
-        height: 640
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--zEHybKOT--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/06/09/Screenshot%20(168).png?itok=WGtO9sDB"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "OpenAI competitor: Reason why Nvidia, Oracle are investing in AI startup Cohere"
-    excerpt: "Cohere, an AI foundation model startup, has raised $270 million in a funding round from investors, which include technology giants such as Nvidia, Oracle and Salesforce Ventures. The Toronto-based AI startup competes with Microsoft-backed OpenAI and focuses on building AI models for enterprise customers."
-    publishedDateTime: 2023-06-09T02:09:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/articleshow/100862259.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/openai-competitor-reason-why-nvidia-oracle-are-investing-in-ai-startup-cohere/amp_articleshow/100862259.cms"
+  - title: "Increasing focus on AI is driving demand for empathetic women leaders"
+    excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
+    publishedDateTime: 2023-06-11T01:50:00Z
+    webUrl: "https://yourstory.com/herstory/2023/06/women-leaders-inclusion-key-enterprises-ai"
     type: article
     provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 53
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
     images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-100862259,imgsize-832578,width-800/100862259.jpg"
-        width: 800
-        height: 529
+      - url: "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/shutterstock1456783511-1672930865154.jpeg?fm=png&auto=format"
+        width: 2834
+        height: 1337
         isCached: true
-  - title: "OpenAI CEO Sam Altman visits South Korea as country seeks to encourage AI development"
-    excerpt: "After crisscrossing Europe last month meeting lawmakers and national leaders to discuss the prospects and threats of AI, Altman has travelled to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea - all this week."
-    publishedDateTime: 2023-06-09T01:34:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/openai-ceo-sam-altman-visits-south-korea-as-country-seeks-to-encourage-ai-development-10768091.html/amp"
+  - title: "The Ethics of Managing People’s Data"
+    excerpt: "Over the past few years the European Union has fined companies more than 1,400 times for a total of nearly €3 billion for violations of the General Data Protection Regulation (GDPR). Almost every week stories appear about how AI-driven decisions result in discrimination against women or minority members in job recruitment,"
+    publishedDateTime: 2023-06-12T16:00:00Z
+    webUrl: "https://hbr.org/2023/07/the-ethics-of-managing-peoples-data"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 52
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399065870.jpg"
-        width: 1280
-        height: 720
+      - url: "https://hbr.org/resources/images/article_assets/2023/05/R2304F_STASIK-scaled.jpg"
+        width: 2560
+        height: 1439
         isCached: true
-  - title: "OpenAI’s chief Sam Altman meets PM Modi, discusses startup ecosystem’s benefits from AI"
-    excerpt: "Sam Altman, chief executive officer of ChatGPT’s parent company OpenAI, on Thursday met Prime Minister Narendra Modi in New Delhi to discuss the potential of artificial intelligence (AI), and the need for global regulation. “Great conversation with @ ..."
-    publishedDateTime: 2023-06-09T15:46:00Z
-    webUrl: "https://www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai-11686325363721.html"
-    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai/amp-11686325363721.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai/amp-11686325363721.html"
+  - title: "The missing steps in the application of AI on remote health monitoring"
+    excerpt: "Remote health monitoring refers to the use of technology to monitor a patient's health remotely outside of traditional healthcare settings, utilising connected devices like wearable sensors."
+    publishedDateTime: 2023-06-12T15:07:00Z
+    webUrl: "https://www.ibtimes.co.uk/missing-steps-application-ai-remote-health-monitoring-1715990"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 49
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/09/600x338/ANI-20230609032-0_1686325462996_1686325504553.jpg"
-        width: 600
-        height: 338
+      - url: "https://d.ibtimes.co.uk/en/full/1715715/digital-healthcare-smartwatch.jpg"
+        width: 2500
+        height: 1475
         isCached: true
-  - title: "OpenAI’s CEO Calls on China to Help Shape AI Safety Guidelines"
-    excerpt: "China should play a key role in shaping the artificial intelligence guardrails needed to ensure the safety of transformative new systems, OpenAI Inc.’s Chief Executive Officer Sam Altman said."
-    publishedDateTime: 2023-06-10T03:09:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-10/openai-s-ceo-altman-calls-on-china-to-help-shape-ai-safety-guidelines"
+  - title: "Music world gets Startup Nation upgrade, using AI of course"
+    excerpt: "Israeli music startup incorporates cutting-edge technologies not to replace human artists, but to enrich their creations and expand creativity."
+    publishedDateTime: 2023-06-11T04:30:00Z
+    webUrl: "https://www.israel21c.org/music-world-gets-startup-nation-upgrade-using-ai-of-course/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "OpenAI CEO says 'optimistic' on global AI coordination"
-    excerpt: "The CEO of ChatGPT maker OpenAI on Monday said a tour of capital cities had left him \"quite optimistic\" about prospects for global coordination on artificial intelligence (AI). The public face of the startup,"
-    publishedDateTime: 2023-06-12T09:11:00Z
-    webUrl: "https://www.aol.com/news/openai-ceo-says-optimistic-global-061145122.html"
+      name: Israel21c
+      domain: israel21c.org
+    quality: 37
+    images:
+      - url: "https://static.israel21c.org/www/uploads/2023/05/COVER_courtesy_of_Session_42_s_Facebook.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "10 of the best free artificial intelligence courses on edX"
+    excerpt: "TL;DR: A wide range of online courses on AI are available for free at edX. Master the basics, dive into machine learning, and grapple with ethical issues, without spending anything.edX competes with the likes of Udemy to offer the best and largest range of online courses,"
+    publishedDateTime: 2023-06-12T03:55:00Z
+    webUrl: "https://www.aol.com/news/10-best-free-artificial-intelligence-035500045.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
     quality: 37
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/a918d58a1babd296503473bae2894330"
-        width: 800
-        height: 577
+      - url: "https://s.yimg.com/ny/api/res/1.2/weh1BeSvCD56.9c0h2c9lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_mashable_370/bfc4cffba4101f10784f36891ed10e31"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "OpenAI CEO Sam Altman encourages South Korea to supply chips in AI boom"
-    excerpt: "Altman, after crisscrossing Europe last month meeting lawmakers and national leaders to discuss AI's prospects and threats, has travelled this week to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea."
-    publishedDateTime: 2023-06-09T13:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/openai-ceo-encourages-south-korea-to-supply-chips-in-ai-boom/articleshow/100879979.cms"
+  - title: "Era of artificial intelligence in India"
+    excerpt: "Ishant Gupta In today’s digital era, technological advancements have revolutionized the way we live, work, and interact. Among these advancements, Artificial Intelligence (AI) has emerged as a powerful tool,"
+    publishedDateTime: 2023-06-09T19:11:00Z
+    webUrl: "https://www.dailyexcelsior.com/era-of-artificial-intelligence-in-india/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
-  - title: "OpenAI CEO highlights South Korean chips sector for AI growth, investment"
-    excerpt: "OpenAI CEO Sam Altman encourages South Korea to lead in AI chip production, expressing interest in investing in Korean startups."
-    publishedDateTime: 2023-06-10T10:29:00Z
-    webUrl: "https://cointelegraph.com/news/openai-ceo-highlights-south-korean-chips-sector-for-ai-growth-willing-to-invest"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 33
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 19
 
 secured: "poA29vgkFZmy0QUMP6U+y8oEXAjRZrst5LdhYzspguqqw87QlKd6XyitcL56rt4su1rxhPK4mKtEyAjuqk33piT1qQiIltLahCb2GglPk878ySzYH5GKTAicJVoQ5+joncL4/2xuEhMso2rOr0k0ONcM+aa7hGLwlVeWaDSByTR2qZZMaFxBsFQnlCS5euJOy0c29ygawCnsrDPLWCRB87zoY+Y1DFKvz1/z64NEKqndp8VS6NzDRhhVJjwSemfKjpA3MIq1jeuBTYA/lKW10svC2RtbKt1wH6wD7vMRRQgBmX1A+j/B9KDL2lmdugbq5yUFovy9G3ScDjDlnoLjIjabC1t5uCHu0zXrbglCPHC2ZhYI2PEOicocY0WhM/InfieOPQhY6LKWBsVMchlgqr0SzNwuhqVAhuTnBMyqwk6V2RnfweNiWKbaPRYABOXQL+qD53ZlynVX2lValVVyPfq6ZVJ3+IRAzBISrg8Wq+Y9SJ/1nAuFVsaeziX+LQq6ZY5hZypXykqFcxIa4S8p+A==;iCmWew9b1xikbk1w1QqyVA=="
 ---

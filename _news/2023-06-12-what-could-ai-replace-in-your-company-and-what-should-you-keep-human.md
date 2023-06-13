@@ -99,20 +99,6 @@ related:
         width: 2000
         height: 1112
         isCached: true
-  - title: "The ethics and creativity of Artificial intelligence"
-    excerpt: "Chef Kardea Brown, is the Emmy nominated host of Food Network, Delicious Miss Brown, and she joined New York Living to talk attending the 36th Annual Chefs’ Tribute to Citymeals on Wheels."
-    publishedDateTime: 2023-06-12T20:42:00Z
-    webUrl: "https://pix11.com/video/the-ethics-and-creativity-of-artificial-intelligence/8727344/"
-    type: article
-    provider:
-      name: pix11
-      domain: pix11.com
-    quality: 54
-    images:
-      - url: "https://pix11.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-        width: 396
-        height: 202
-        isCached: true
 
 secured: "QYJsiCLwBuAonNf/syCFZv6g8wDh9edjntRb/noDBTTP449vk+YfsyBQ5KqQMSG14UlfLTxQGIMwKU7N8FzGeHBRSl6CVXiY33CcuoY+E5ustLip8svjei3+liZJbjEjxlNanOXBPiKyTfW2m5z4EpEIArA6m6/19/ZMYgY5IUt8s3Y1N3xjkFlm9kScVoMlHdnWEBiYuazedwYGRm7ogl5aIXYyCP+30c/IIB3m9aEeRoi/iPg+KBYZmtjQyM1d8k/ZT1sdYBcsGAZUTYWrCwaRJSJstAo0EUtYdA/IObzuDWTwuiAFJXVwWfhzwFD62eAKQyC1TTg8fMCaLAbc0aQdy6u7DGV9zhdSs4ySd6E=;0RIh2JijUp+t8nPqRNiPQQ=="
 ---

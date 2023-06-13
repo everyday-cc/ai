@@ -54,6 +54,15 @@ related:
         width: 440
         height: 264
         isCached: true
+  - title: "6 podcasts to make sense of AI"
+    excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics"
+    publishedDateTime: 2023-06-09T16:35:00Z
+    webUrl: "https://www.omanobserver.om/article/1138479/world/americas/6-podcasts-to-make-sense-of-ai"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 19
 
 secured: "CLLhkjg90R5ebmz79lHsD/NEusj2I3f0XTPDUdQb3ctxPLddHFSu+jSz9a/yGKg/8h6zCRDsckRYBebtIm607eFkLuzic8PvEDYGy6MEyeA9SbpMNR9BUv9L0hPJi40WsWRiE2gxwwJ+sXXqToDUM/Hni8rbERPN8GJSFrvjFMrDn6uTCC31jNxBoH4voEnVZ57DW+og2YJah0qDmU5glkrJE45K6Dec28JTaIGAYarLPvdK2IDV/eS4kt3P8quookHS1PGTF/z3DVoHk+W1jDLMI09ZJuPJ6O1x2N/LIRE6g6YK0+mRC4jtKGACPKS14upgqcMGohuSzlIKnKkba76PHJQHgAj3jNEYLiDkFjAivq0powNuw9e+sYwd96qfES+lJWm0EdsW4QvSRwlrJP6EmUZBnaAbJL3VX2Px0uL+qVzkPCkIq61edGNX+NeqNZo1xMx47WoJNg3jxZj4pM1l7Wqo9B52keWzqqMBNUe+/yeDnJOvnQVCJi2A1erTVyci33FM3UZA0RnIHOChDw==;ZiIepDjZAx+Lxn2qpl3WFQ=="
 ---

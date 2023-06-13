@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/inside-google-deepmind-ai-safety-strat
 webUrl: "https://thenextweb.com/news/inside-google-deepmind-ai-safety-strategy-lila-ibrahim"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 19
-  - title: "The Download: carbon-capturing super trees, and DeepMind’s sorting breakthrough"
-    excerpt: "The news: A year after DeepMind used a version of its game-playing AI AlphaZero to find new ways to speed up the calculation of a crucial piece of math, the AI research lab has pulled the same trick again—twice."
-    publishedDateTime: 2023-06-08T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/08/1074316/the-download-carbon-capturing-super-trees-and-deepminds-sorting-breakthrough/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 15
 
 secured: "8O72IEBq5vjgNk1tTg5vtcWrY0EgLhXm5c2n8E6BGAdIpgoLWxIR2xqncyk2A7Pbmmm5L7EnKaI7YYgrx9nBi02liqNx7xPHq1Ob5j67oxTxLfc2TYOjxeOZY+/b2koiR9IkSUJkYOTYIC3yN6xtbYYkbqdAxIaUZA73hEeX56q4a9qtGEra5YBQ0b9VjBM2b5Bp6rTJPLYy05+Tg/Unhkwab2T2g4+RlNZepmYdSoGXh8Rd2yuaYSXD8s6rjdXzO96Aa3xwzBgY1hPRjRbFV8mdPp3iiPfaVfXNW6qMTb1rzGVqPfCB2QAIQhw3ahDiR8Ze+MJfp8PSffSGIjsIMXIlf1Mo+l6xLkRc+VE4l4KE8WIGsX46ZEMF61qSsJ2/yDON6IcTKkSKuw8Idl2D9KhcQJWqAXRzi/z8TOIeeJP7iR+rirQQ25yI/ErYNkK/ZLHndQh3+QGwa7VcPs0wjN1NZ+Tv6xDWGcFiE1UIuVX8tqNU3WEdzM6wT9xYzAEo6TBZeKomRg9/EFbThhjLxA==;hnKLhEl+5io64EEeCf6viQ=="
 ---

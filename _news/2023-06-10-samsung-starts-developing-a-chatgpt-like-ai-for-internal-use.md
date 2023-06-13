@@ -216,20 +216,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "ChatGPT teams up with humans to develop its first robot which can harvest tomatoes"
-    excerpt: "Researchers used ChatGPT-3 to develop a robotic gripper for harvesting tomatoes, in a first demonstration of the AI tool’s potential for collaborating with humans on robot design."
-    publishedDateTime: 2023-06-08T11:32:00Z
-    webUrl: "https://interestingengineering.com/innovation/chatgpt-humans-robot-harvest-tomatoes"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 33
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/08/image/jpeg/ds44quQIEXyGcdUxzsqPMaj9LUcdwlzL6Frxkwzw.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "ChatGPT’s not going to take over anytime soon, says Richard White"
     excerpt: "The “a” in AI still largely overshadows its counterpart “i” as the technology remains largely artificial and only a little bit intelligent, says the chief executive of one of Australia’s most successful technology companies."
     publishedDateTime: 2023-06-09T20:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-human
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://www.popsci.com/uploads/2023/06/09/agent-smith-the-matrix-singularity-ai.jpg?auto=webp"
         width: 2000
         height: 1112
-        isCached: true
-  - title: "The ethics and creativity of Artificial intelligence"
-    excerpt: "Chef Kardea Brown, is the Emmy nominated host of Food Network, Delicious Miss Brown, and she joined New York Living to talk attending the 36th Annual Chefs’ Tribute to Citymeals on Wheels."
-    publishedDateTime: 2023-06-12T20:42:00Z
-    webUrl: "https://pix11.com/video/the-ethics-and-creativity-of-artificial-intelligence/8727344/"
-    type: article
-    provider:
-      name: pix11
-      domain: pix11.com
-    quality: 54
-    images:
-      - url: "https://pix11.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-        width: 396
-        height: 202
         isCached: true
   - title: "What Could AI Replace In Your Company, And What Should You Keep Human?"
     excerpt: "No topic is dominating current headlines more than artificial intelligence (AI). In the past month alone, we’ve questioned the ethics of AI-aided “overemployment,” been warned about questionable AI-run news websites and seen an influx of AI-generated ..."

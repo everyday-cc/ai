@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/11/falling-funds-and
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/11/falling-funds-and-the-rise-of-ai-are-top-of-the-menu-at-london-tech-talks"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -30,63 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "How to Navigate the Hidden Risks of AI and Digitization"
-    excerpt: "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ..."
-    publishedDateTime: 2023-06-08T17:42:00Z
-    webUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777"
+  - title: "The Morning Briefing: AI opportunities for advisers and MMI London back in October"
+    excerpt: "Sometimes, AI is presented as a threat. We are told ChatGPT — and potential competitors Google Bard and Meta’s (Facebook’s ... is the key driver of “good value” according to new research from MetLife UK. The research measured consumers attitudes ..."
+    publishedDateTime: 2023-06-09T07:45:00Z
+    webUrl: "https://www.moneymarketing.co.uk/news/the-morning-briefing-ai-opportunities-for-advisers-and-mmi-london-back-in-october/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
+      name: Money Marketing
+      domain: moneymarketing.co.uk
+    quality: 33
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685715379-GettyImages-1434121527.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
+      - url: "https://cdn.moneymarketing.co.uk/content/uploads/2021/05/06164022/MM-MorningBriefing-Banner-Graphic-02.png"
+        width: 4172
+        height: 1446
         isCached: true
-  - title: "It’s time to talk about the real AI risks"
-    excerpt: "Experts at RightsCon want us to focus less on existential threats, and more on the harms here and now."
-    publishedDateTime: 2023-06-12T11:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/12/1074449/real-ai-risks/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/12/1074449/real-ai-risks/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/12/1074449/real-ai-risks/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/16A1997-crop.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "AI in distribution: How artificial intelligence can drive growth"
-    excerpt: "Artificial intelligence (AI) is a growing industry that has changed the way businesses function and interact with their customers."
-    publishedDateTime: 2023-06-09T04:00:00Z
-    webUrl: "https://www.supplyht.com/articles/105371-ai-in-distribution-how-artificial-intelligence-can-drive-growth"
-    type: article
-    provider:
-      name: Supply House Times
-      domain: supplyht.com
-    quality: 34
-  - title: "5 sci fi anime that will totally blow your mind on the implications of AI advancements"
-    excerpt: "From Ghost in the Shell to Psycho Pass, here are five sci fi anime that discuss the complexities of artificial intelligence or AI."
-    publishedDateTime: 2023-06-08T13:00:00Z
-    webUrl: "https://www.oneesports.gg/anime/sci-fi-anime-artificial-intelligence-ai/"
-    type: article
-    provider:
-      name: oneesports
-      domain: oneesports.gg
-    quality: 11
-  - title: "Generative Artificial Intelligence Tools Empowering Scientific Publications: Turacoz's Contribution to Medical Writing Industry"
-    excerpt: "Turacoz embraces the transformative impact of generative AI in medical communications by actively participating in relevant events with both newcomers and professionals in the field. Recently, Dr. Namrata Singh,"
-    publishedDateTime: 2023-06-09T01:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/268577"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 0
 
 secured: "MizAq8OS/GYg+DKjh2tdZAN5uKjjhR9cd2zOMYE9Oue0ErsxrPC8GLz1ruSmZ7NMK0VNt6sHuFsZWRcJbROBFmsncIEmVCHZyKp54A4zPmiIz2bRcxoWRrryDncV/MMnAvu+Zg1Lc1dGudCZFsadLlKFnuiGHXBKwiNw2zHFngjckgxAwYlPish7GFV+RW1NwWeisx/Bq9sDgGR/CxsO/++wncQ11ewXbUGkwZhJ2ODH0xGcxPustCcg2RKNtqfNkIhT1ilbs6m7Vs5pglLaDluufBqixuyF9AAY3avKx4FcAIVvZvEMc2R2G0KwzXWOl7WCPr/kn94lv6tB6VAcZZl3XIiTzL/r81BnD5SeWE7qG8xyt8cGqUK/KclUFCypuNlPlRmYDGh1pUyI9bbXjgKV9Z7M2w0sKMwCx5Hr/UcHSnU45QNx0loDo80a5i6OL83jyMiIwR9rFTCe/kFA9Kns/TuWPfI2aYjCgBp5UnqT0MwTFqFT62U+NbEkxUAYSWLoNGtFbT6vSsLcnfIjMw==;9APiSqqEFLpyNQ64AZQCcw=="
 ---

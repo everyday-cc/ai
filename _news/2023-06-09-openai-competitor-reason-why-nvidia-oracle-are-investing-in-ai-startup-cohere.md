@@ -86,15 +86,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "A Call For The Ethical And Responsible Use Of AI"
-    excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"
-    publishedDateTime: 2023-06-08T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/a-call-for-the-ethical-and-responsible-use-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "OpenAI CEO Sam Altman visits South Korea as country seeks to encourage AI development"
     excerpt: "After crisscrossing Europe last month meeting lawmakers and national leaders to discuss the prospects and threats of AI, Altman has travelled to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea - all this week."
     publishedDateTime: 2023-06-09T01:34:00Z

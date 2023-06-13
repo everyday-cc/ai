@@ -28,31 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "WordPress launches generative AI assistant to enhance content writing"
-    excerpt: "The company characterizes the tool as a creative writing partner that empowers users to effortlessly generate diverse content."
-    publishedDateTime: 2023-06-08T21:52:00Z
-    webUrl: "https://venturebeat.com/ai/wordpress-launches-generative-ai-assistant-to-enhance-content-writing/"
+  - title: "LinkedIn is adding AI-powered tools to help marketing professionals"
+    excerpt: "LinkedIn has been quick to adopt generative AI tools on its platform, such as AI-generated Recruiter messages and profile sections, to help both businesses and professionals reach their goals. On Thursday, LinkedIn introduced AI-generated Copy Suggestions, powered by advanced OpenAI GPT models."
+    publishedDateTime: 2023-06-08T20:41:00Z
+    webUrl: "https://www.zdnet.com/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_a_robot_writes_on_a_piece_of_paper_with_a_pencil_de43219b-1ff3-4e62-acaf-a4b9e4399163.png?w=1200&strip=all"
+      - url: "https://www.zdnet.com/a/img/resize/082aa5e66f966b8c65a199f933d9a9c62c40e43b/2023/06/08/e7f2ec41-4941-4938-8aba-a10ddc1bcf5f/gettyimages-1239071698.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 672
+        height: 675
         isCached: true
-  - title: "WordPress’s new Jetpack AI tool can write blog posts"
-    excerpt: "WordPress has announced the release of Jetpack, an AI assistant that the company describes as a, “creative writing partner” It can, “generate diverse content at your command, significantly reducing the time and effort required for content creation”. Also Read | UK to lead way on AI safety with first global summit, says PM Rishi Sunak"
-    publishedDateTime: 2023-06-08T11:35:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/wordpresss-new-jetpack-ai-tool-can-write-blog-posts-10765751.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/wordpresss-new-jetpack-ai-tool-can-write-blog-posts-10765751.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/wordpresss-new-jetpack-ai-tool-can-write-blog-posts-10765751.html/amp"
+  - title: "Using AI to Adjust Your Marketing and Sales in a Volatile World"
+    excerpt: "Why are some firms better and faster than others at adapting their use of customer data to respond to changing or uncertain marketing conditions? A common thread across faster-acting firms is the use of AI models to predict outcomes at various stages of the customer journey."
+    publishedDateTime: 2023-06-08T19:02:00Z
+    webUrl: "https://hbr.org/sponsored/2023/06/using-ai-to-adjust-your-marketing-and-sales-in-a-volatile-world"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 39
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 51
 
 secured: "J1dDuRLU32pswBKiWVrEwpMl4n0x3IAxhmXIM8+0pFTaRZ15FLZD86Ll/Ak+VVGPTWVl3nud31H9WVO6YJTXVvMpxmMqlQzhWaygEBnQ2A8tUNhy31ApgC6hJIFpgfyLeGvov1Vs0EHB+jtibRNgfbF2cIt9y7bMVByIyKXV+w6AFMz7rDbn3CxoKh4OXCuibMCkrarFvbZ/2GhVoCWwHt15WURuEdRaUAWV7FMaiGHeh1kXDxugSof822x0uhio9rrYnH+YO9WJpbNsHU14EHyfxO7I4RoAUIVVvDDrfIfdUEwCfGv+2sZ4GwFxpeoBE6xSqweG/1bYrMZEWoKxFMeIO/gnJAtbJVe//EdBBj0=;0Y75EyJL4N0HP+MEI8BDHA=="
 ---

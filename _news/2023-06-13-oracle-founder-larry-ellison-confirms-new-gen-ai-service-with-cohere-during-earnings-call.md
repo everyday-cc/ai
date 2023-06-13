@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/oracle-founder-larry-e
 webUrl: "https://venturebeat.com/data-infrastructure/oracle-founder-larry-ellison-confirms-new-gen-ai-service-with-cohere-during-earnings-call/"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     height: 691
     isCached: true
 
-secured: "6uyXCJOov5KTbOLHJ1kJGTPZRfBFDbWhsc/JQ3O88NGzRJNt6k2v/KVquBTfyU6SZJA8kh++sy3J/cfIA75s2UCMOogdW9vuYgRLuI1aG9rZu+FvMpJjfi9V3pZIPQpN0XuyZWAOkcdF8LEPIreq/DpCU6H6aN3HETnEnNTvn63sGb2pz4SD5+y/rEJ0UErTA6JLclPMrokAzXwMXmU8lrTeirieV0PJDnlbAgoxsv7fB2CNgIRxU1VOlU2A7RrcYcCijC2Pppr1KHomIP3gMn17oTsWsKrjd3MIzHy1RmX5Z6wq1CdOekzveAXgO3V4EtGV1tDnqhqNCkCgiFi6RuKIl2VeTB9cIKCAgpB23nY=;9zlT1/7zE+wCA1ECkhz1Og=="
+related:
+  - title: "Oracle beats expectations, reveals upcoming generative AI service, sending stock higher"
+    excerpt: "“Aside from cost driven share gains, OCI also has the one thing that every AI startup is asking for today, spare GPU capacity,” Zukin wrote, referring to graphics processing units. “Similar to getting those first cloud workloads during ..."
+    publishedDateTime: 2023-06-12T23:36:00Z
+    webUrl: "https://siliconangle.com/2023/06/12/oracle-beats-expectations-reveals-upcoming-generative-ai-service-sending-stock-higher/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/5007504146_9efd13e6a1_k.jpg"
+        width: 2047
+        height: 1365
+        isCached: true
+
+secured: "inZpo5szRRH4kl8ZHCHnsNb6en7RuVKPhK1y7Vu0xWb/oLMy/eK/3ZHUdT6mtODz2BPBR3KBjEEJSolUJJZ/YrzTABhAOm/nsEztSOqCHqUCm0vgaWkNHSRI42e91xOgtCU20Vl0XO3yU7pOY1yPRFR/jzNoihS99Ix3Akq5gFHb+qaw/xHHMlSysdyGzX3D9AULmFao8P+2kSzh56QwIZcKcN2w0WB3Q3Q8m3GoVMd8IxIIYCjiB6vZ/LEjKTBKnaLrGvSArG3ZTOh50zvjJBxhLavDefFH+wdbrU6qsrVNiA/aDLt8pBSMY3d1ktbljx78mru3ppvCtTZZQhUIepf+gDhphFwOH3JxSj4oROcAVWVfciUIOgk/bpXJNk2WNE/kcU3QlGTTphlllUFVh6xsvFYebb8tUnzc2yeCQXo6ft2j3Kf6hrCeGNvVnWWeCuFXIwdN3s6E9E3clB61HvPnLpiNR4dXT3SyrIXFSrfeT7fqcNoaLjqB3fghleCEaLQMZwIwR+Z1nbALk/ndtA==;1T/CD7bqtWfe1B07Ue2L4g=="
 ---
 

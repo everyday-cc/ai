@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 2560
         height: 1439
         isCached: true
+  - title: "6 podcasts to make sense of AI"
+    excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics"
+    publishedDateTime: 2023-06-09T16:35:00Z
+    webUrl: "https://www.omanobserver.om/article/1138479/world/americas/6-podcasts-to-make-sense-of-ai"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 19
 
 secured: "Trb3JMLY3iiSbU5d/AbEM+FpjR5xsC0KCzoY7OaP8jmZHvcl2vz9vdr9BEFdjiw7Op3yLNToyh04iRTxDE3iGPj+VzhgO/V7URSxL8+3dfUnKtYI0k5T+52+8d80z0Lw7hpd0uOiSoqUx3XFbomIhgJcrqHlNWxJtTI9rWrAkBkv+gEhH3Mi/6c9+M7v31KGeFAc6XuhOdqa6UoCkMll7heWP1uL/kdcG/i+t7ECCXrO/dVA1ZEEZTSSC0T6iQ9Mclz3qSV8eWn6kXraJuHsIzxdPj7BgsrP6UNXU+KC2bq9HlVmxX2bjHdbiNJUbKOnVZFN2lg+AjJ4c8uYYA6sQUP3mPdLBB5DLSOaZuEsypXaYrWFcAsQEgNg17L5uy314yYAq68vFL1PXTeteFRN5S4Beh7h5D3dSiD8i4w6Yt0MhBYagVeG5dL+YmMgN0ElM3NwgavmQhfaE+TWbpQ4I2dpsACR5Nznu2jH2SoME+HkFkUCkZe4Z3ma4UOSn3HbIQr2kppKxI/wtokwnbX0ZQ==;+WO8mKgdhGyiB02pv5I+sw=="
 ---

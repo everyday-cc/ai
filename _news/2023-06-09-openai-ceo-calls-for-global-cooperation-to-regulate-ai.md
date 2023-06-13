@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
 type: article
 quality: 87
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "A Call For The Ethical And Responsible Use Of AI"
-    excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"
-    publishedDateTime: 2023-06-08T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/a-call-for-the-ethical-and-responsible-use-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "OpenAI competitor: Reason why Nvidia, Oracle are investing in AI startup Cohere"
     excerpt: "Cohere, an AI foundation model startup, has raised $270 million in a funding round from investors, which include technology giants such as Nvidia, Oracle and Salesforce Ventures. The Toronto-based AI startup competes with Microsoft-backed OpenAI and focuses on building AI models for enterprise customers."
     publishedDateTime: 2023-06-09T02:09:00Z

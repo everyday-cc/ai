@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/three-bills-to-regulate-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Senators to introduce a bipartisan AI bill aimed at keeping up with China"
-    excerpt: "The Global Technology Leadership Act comes as Senate Majority Leader Chuck Schumer and other members of Congress have made addressing artificial intelligence a key target."
-    publishedDateTime: 2023-06-08T11:45:00Z
-    webUrl: "https://www.cnbc.com/2023/06/08/senators-to-introduce-a-bipartisan-ai-bill-aimed-at-keeping-up-with-china.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 46
 
 secured: "jh3ne4cPLWrXiqhsRfB2hGSLS4UsZSoDYvnTnDoNYMxtlDDZ/U5IuvYQ5rJ0NE2zxphQ4rao98UQ2NDuonDEGQju25rj/nwWcnf0naCce66aLw0fzR658c3Zki6/PCdACJ+XCXt5JV/rtBKnEbAyexf+X/rjYS+KL3A7ffy4QQQ8fiwnoalUMymiu3zADoFiB5rgulDhV5801lWvWSG4lLEUJNbcz9Whjm538T+qlCLxxl163+k7UefsEWsWFPtSAerw14PlbXyQAACbOsFALHPe+LceAqk431tS4bKSSPRqY0jvwdTB7cyjoxIc4ww8Uvig6R8ZKS7eWVHkVZjIKCCUbwFmbMIJFyQlKfJlFmI=;9UXWgl3f/HZ6NgJ/JounQQ=="
 ---

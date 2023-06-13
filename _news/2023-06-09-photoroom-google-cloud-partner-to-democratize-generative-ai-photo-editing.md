@@ -73,15 +73,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Gong launches customizable generative AI models to streamline sales workflows"
-    excerpt: "Gong unveiled a suite of proprietary generative AI models designed specifically for enhancing sales productivity."
-    publishedDateTime: 2023-06-08T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/gong-launches-customizable-generative-ai-models-to-streamline-sales-workflows/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
   - title: "Google's generative AI platform ‘Vertex’ now available to everyone"
     excerpt: "Google announced the general availability of generative AI services based on Vertex AI, the machine learning platform as a service (ML PaaS) offering from Google Cloud. With the service becoming generally available,"
     publishedDateTime: 2023-06-12T04:51:00Z

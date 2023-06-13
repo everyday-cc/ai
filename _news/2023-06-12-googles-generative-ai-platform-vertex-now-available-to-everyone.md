@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Gong launches customizable generative AI models to streamline sales workflows"
-    excerpt: "Gong unveiled a suite of proprietary generative AI models designed specifically for enhancing sales productivity."
-    publishedDateTime: 2023-06-08T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/gong-launches-customizable-generative-ai-models-to-streamline-sales-workflows/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
   - title: "Snorkel AI looks beyond data labeling for generative AI"
     excerpt: "Snorkel AI is announcing new capabilities that extend beyond data labeling to help organizations, curate and prepare data for Generative AI."
     publishedDateTime: 2023-06-12T13:00:00Z

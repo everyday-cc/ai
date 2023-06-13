@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-wor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -129,15 +129,6 @@ related:
       name: tech
       domain: techstory.in
     quality: 42
-  - title: "Generative AI is coming for healthcare"
-    excerpt: "ChatGPT and its close generative AI cousins (like Bard and MedPaLM) are now being deployed and tested in healthcare settings. At its simplest, generative AI is a tool or algorithm that can create astonishing new content (think poetry,"
-    publishedDateTime: 2023-06-08T12:17:00Z
-    webUrl: "https://www.pmlive.com/blogs/smart_thinking/archive/2023/rohit/generative_ai_is_coming_for_healthcare"
-    type: article
-    provider:
-      name: PMLiVE
-      domain: pmlive.com
-    quality: 36
   - title: "Microsoft moving some top AI experts from China to new lab in Canada"
     excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
     publishedDateTime: 2023-06-09T20:00:00Z

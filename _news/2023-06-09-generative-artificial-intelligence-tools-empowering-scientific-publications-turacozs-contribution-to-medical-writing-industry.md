@@ -19,70 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "How to Navigate the Hidden Risks of AI and Digitization"
-    excerpt: "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ..."
-    publishedDateTime: 2023-06-08T17:42:00Z
-    webUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777"
+  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
+    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
+    publishedDateTime: 2023-06-09T18:39:00Z
+    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685715379-GettyImages-1434121527.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "It’s time to talk about the real AI risks"
-    excerpt: "Experts at RightsCon want us to focus less on existential threats, and more on the harms here and now."
-    publishedDateTime: 2023-06-12T11:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/12/1074449/real-ai-risks/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/12/1074449/real-ai-risks/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/12/1074449/real-ai-risks/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/16A1997-crop.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "Falling funds and the rise of AI are top of the menu at London tech talks"
-    excerpt: "Artificial intelligence will be the main talking point at London Tech Week but investment and skills problems remain"
-    publishedDateTime: 2023-06-10T22:05:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/11/falling-funds-and-the-rise-of-ai-are-top-of-the-menu-at-london-tech-talks"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/11/falling-funds-and-the-rise-of-ai-are-top-of-the-menu-at-london-tech-talks"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/11/falling-funds-and-the-rise-of-ai-are-top-of-the-menu-at-london-tech-talks"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/d06a8dfb41307c00a74103b451c531f3ff309200/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=b383d96b1fb9fa907a3f4935a932fa16"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "AI in distribution: How artificial intelligence can drive growth"
-    excerpt: "Artificial intelligence (AI) is a growing industry that has changed the way businesses function and interact with their customers."
-    publishedDateTime: 2023-06-09T04:00:00Z
-    webUrl: "https://www.supplyht.com/articles/105371-ai-in-distribution-how-artificial-intelligence-can-drive-growth"
-    type: article
-    provider:
-      name: Supply House Times
-      domain: supplyht.com
-    quality: 34
-  - title: "5 sci fi anime that will totally blow your mind on the implications of AI advancements"
-    excerpt: "From Ghost in the Shell to Psycho Pass, here are five sci fi anime that discuss the complexities of artificial intelligence or AI."
-    publishedDateTime: 2023-06-08T13:00:00Z
-    webUrl: "https://www.oneesports.gg/anime/sci-fi-anime-artificial-intelligence-ai/"
-    type: article
-    provider:
-      name: oneesports
-      domain: oneesports.gg
-    quality: 11
+      name: WWT
+      domain: wwt.com
+    quality: 33
 
 secured: "pPydEIaeAIYdToh/nIxRtGVLcJMmVEuhDUMF9kgoUHftfrKvYXOw9OjeNh3/R9N/UdrC9QrIBN/DrYpGgHDfNAr3Wu6Z8HTsJJdWWpl3wFK/S5bk3wQO2xIm0b3zq35ucSGgDvABKDczP5kEWz6L2tUKQ2mWths4QB0NAULUXvan1eZWOGSUW0hqmQ1sw0aeByDiibAMdyB3aUlvRRDUF9KlIBs9jKVYY6FvkvY7nyvqEU8aBz6rTdFdIcIHPK2wDpJCiDiwl8B0Tufyv1Ry3XtXlzIl1FRnrL5D7GCejSeTCr1KzqSV+9ZhRCC5N7BZXd/pEtqnr/qJlLdNTXcd9+mFgxv66UgHBAjCHDnELQc=;+9RcXrk066UZD+ziMdGZgQ=="
 ---

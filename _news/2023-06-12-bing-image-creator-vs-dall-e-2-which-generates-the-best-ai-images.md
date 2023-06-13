@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/bing-image-creator-vs-dall-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bing-image-creator-vs-dall-e-2-which-generates-the-best-ai-images/"
 type: article
 quality: 87
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Adobe Launches AI Image Generator Tool for Enterprise Customers"
-    excerpt: "Adobe has announced the availability of its Firefly generative image generator for enterprise customers, allowing them to customize the model with their own branded assets."
-    publishedDateTime: 2023-06-08T12:23:00Z
-    webUrl: "https://www.tasnimnews.com/en/news/2023/06/08/2907854/adobe-launches-ai-image-generator-tool-for-enterprise-customers"
-    type: article
-    provider:
-      name: Tasnim News Agency
-      domain: tasnimnews.com
-    quality: 19
 
 secured: "YmTvsQXZFq9KxALE8CWo1U8XSrMN7c2co4FK80ToHK/sFTs0UxvHB6W04O7EHo9LYi096L1fhSeA1yDPk2a/rQXuR53QYJ6lirQoW+/+B8Ty7Raoh/H2rEGmyZtFn2SJWpYTGDHRFhF0KIqDbn5h5BYD4EYJGFEbZuEzOeKbrFS0hndoCA+J524bdoqcDAEJV2kHv7iHNwB5KKvPhbrK+ijhV1erdd2ng7T3JRAP1mu/bBcBoQSRYRhcDKVG0U5dsc48maim0NARPYGSiu0YuI+mn3/5qbZ70aLBWz2ogaioVwvT55k7G75VMC4+MxZdU3ALBE73Z5H1++L0iBIpcuTSRDMPJsTSfpwZLNSKl5a3v+Sv8NoZfbsLHgnNdRjAqlR7yXo+ew8IzDAbj6q3iGfureJA6iaOyaZNs1JyhueUNKLxCBLtojF/OX0qBFj4EQQ8NvJp73SSUs1MnVBTCBDUUsKdAfnrVPq2ShtYNdw2evsZv76OjEY/jXttwhhJmJJFs/CJxBAJRaTQ9fyQ1g==;ks0sr5+tCbeKaguMolnl7w=="
 ---

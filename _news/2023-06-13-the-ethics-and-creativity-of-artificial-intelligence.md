@@ -25,91 +25,232 @@ images:
     isCached: true
 
 related:
-  - title: "It’s Humans And AI, Not Humans Vs. AI"
-    excerpt: "In 2013, IBM and MD Anderson embarked on a joint project ... The bar was set too high for Watson Health. In the area of diagnoses then, AI cannot replace humans—at least, not yet—but it can assist in certain diagnoses where there is enough data."
-    publishedDateTime: 2023-06-12T15:33:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/"
+  - title: "The ethics of using AI in education"
+    excerpt: "The continuous advancements in AI technology and its ability to simulate human listening, speaking, thinking, and learning has seen it emerge as a promising tool to enhance student learning experiences. Some studies have demonstrated the positive impact of ..."
+    publishedDateTime: 2023-06-10T14:27:00Z
+    webUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece"
+    ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: The Hindu
+      domain: thehindu.com
+    quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6487382d36c8dc564b5004be/0x0.jpg?format=jpg&width=1200"
+      - url: "https://th-i.thgim.com/public/incoming/hdt9vp/article66936849.ece/alternates/FREE_1200/12EPBS_AI%20IN%20ED.jpg"
         width: 1200
-        height: 800
+        height: 923
         isCached: true
-  - title: "An AI Robot Learns Recipes by Watching Human Chefs"
-    excerpt: "Your salad may be prepared by a robot chef one day. A new University of Cambridge study published in IEEE Access shows how artificial intelligence (AI) computer vision empowers a robotic chef to identify and learn new recipes by watching videos of human chefs."
-    publishedDateTime: 2023-06-08T23:33:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs?amp"
+  - title: "How to Navigate the Hidden Risks of AI and Digitization"
+    excerpt: "To gain maximal value from the information they already possess, a growing contingent of enterprises is attempting to leverage AI-powered digitization to streamline operations and drive growth and development. However, this brings with it a range of ..."
+    publishedDateTime: 2023-06-08T17:42:00Z
+    webUrl: "https://www.entrepreneur.com/leadership/the-hidden-risks-of-ai-and-ai-powered-digitization-and/452777"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 74
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-06/pic726.jpg?itok=14wLmoad"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "AI News - Page 2"
-    excerpt: "Qualcomm jumps on the AI train at Microsoft Build 2023, bringing AI access directly to devices running on its latest Snapdragon chip for Windows. Musk threatened to sue the company a month ago after a Microsoft advertising platform dropped support for Twitter."
-    publishedDateTime: 2023-06-09T15:26:00Z
-    webUrl: "https://www.pcmag.com/news/categories/ai?page=2"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 69
     images:
-      - url: "https://www.pcmag.com/images/pcmag-social-share.jpg"
-        width: 997
-        height: 1201
-        isCached: true
-  - title: "Google’s CEO Talks AI, Jobs and More"
-    excerpt: "Bloomberg Chief Washington Correspondent Joe Mathieu delivers insight and analysis on the latest headlines from the White House and Capitol Hill, including conversations with influential lawmakers and key figures in politics and policy."
-    publishedDateTime: 2023-06-12T16:50:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-12/google-ceo-sundar-pichai-on-how-its-ai-chatbot-bard-stacks-up"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSCmk1xSalro/v1/1200x799.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "What happens if AI grows smarter than humans? The answer worries scientists."
-    excerpt: "Some AI experts have begun to confront the 'Singularity.' What they see scares them. In 1993, computer scientist and sci-fi author Vernor Vinge predicted that within three decades, we would have the technology to create a form of intelligence that surpasses our own."
-    publishedDateTime: 2023-06-12T10:00:00Z
-    webUrl: "https://www.popsci.com/science/ai-singularity/"
-    ampWebUrl: "https://www.popsci.com/science/ai-singularity/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/ai-singularity/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 54
-    images:
-      - url: "https://www.popsci.com/uploads/2023/06/09/agent-smith-the-matrix-singularity-ai.jpg?auto=webp"
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685715379-GettyImages-1434121527.jpg?format=pjeg&auto=webp"
         width: 2000
-        height: 1112
+        height: 1333
         isCached: true
-  - title: "What Could AI Replace In Your Company, And What Should You Keep Human?"
-    excerpt: "No topic is dominating current headlines more than artificial intelligence (AI). In the past month alone, we’ve questioned the ethics of AI-aided “overemployment,” been warned about questionable AI-run news websites and seen an influx of AI-generated ..."
-    publishedDateTime: 2023-06-12T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/12/what-could-ai-replace-in-your-company-and-what-should-you-keep-human/"
+  - title: "Ingeniously Using Generative AI Such As GPT-4 To Reveal The Puzzling Secrets Of How Generative AI Startlingly Works, Lauds AI Ethics And AI Law"
+    excerpt: "Nobody can say for sure why generative AI works so startlingly well. A new approach revealed by OpenAI uses GPT-4 to decipher generative AI secrets. Here's the deal."
+    publishedDateTime: 2023-06-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63731fd487e442fe938888a7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 652
+        isCached: true
+  - title: "A Call For The Ethical And Responsible Use Of AI"
+    excerpt: "AI is fallible. We see biased responses. We see manipulation. We see hallucinations (when a generative AI creates content that is not completely accurate or fact"
+    publishedDateTime: 2023-06-08T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/a-call-for-the-ethical-and-responsible-use-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Professors call for further study of potential uses of AI in special education, avoiding bans"
+    excerpt: "Artificial intelligence is making headlines about its potentially disruptive influence in many spaces, including the classroom. A group of educators that includes a University of Kansas researcher has just published a position paper reviewing AI's potential in special education,"
+    publishedDateTime: 2023-06-08T20:04:00Z
+    webUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.html"
+    ampWebUrl: "https://phys.org/news/2023-06-professors-potential-ai-special.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-professors-potential-ai-special.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 63
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/professors-call-for-fu.jpg"
+        width: 2880
+        height: 1744
+        isCached: true
+  - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
+    excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
+    publishedDateTime: 2023-06-09T02:06:00Z
+    webUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html"
+    ampWebUrl: "https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/01/united_states_capitol_building_washington_dc_congress_legislation_by_mcdustelroy_gettyimages-1036372454_digital_landscape_by_dkosig_gettyimages-1146014337_2400x1600-100825944-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Research examines whether AI is helping small-scale farming operations"
+    excerpt: "Artificial intelligence tools can be found in nearly every sector of society and are quickly becoming this century's great technological advancement. In the agriculture sector, large-scale farming operations are utilizing AI to increase profitability,"
+    publishedDateTime: 2023-06-12T17:23:00Z
+    webUrl: "https://phys.org/news/2023-06-ai-small-scale-farming.html"
+    ampWebUrl: "https://phys.org/news/2023-06-ai-small-scale-farming.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-ai-small-scale-farming.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/is-ai-helping-small-sc.jpg"
+        width: 1259
+        height: 1092
+        isCached: true
+  - title: "Trailblazing AI Companies Headquartered in Singapore: Driving Innovation Forward"
+    excerpt: "Know about few of the best AI ventures utilizing power of AI for helping advancement of several other industries."
+    publishedDateTime: 2023-06-12T15:00:00Z
+    webUrl: "https://www.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
+    ampWebUrl: "https://amp.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.sg
+    quality: 54
+    images:
+      - url: "https://data.ibtimes.sg/en/full/68201/ai-powered-comapnies.jpg"
+        width: 1275
+        height: 1263
+        isCached: true
+  - title: "Artificial Intelligence raises questions for educators"
+    excerpt: "The increase of artificial intelligence use is forcing teachers to face how it will change the learning process."
+    publishedDateTime: 2023-06-09T02:40:00Z
+    webUrl: "https://listen.sdpb.org/education/2023-06-08/artificial-intelligence-raises-questions-for-educators"
+    type: article
+    provider:
+      name: South Dakota Public Broadcasting
+      domain: sdpb.org
+    quality: 52
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/ff84040/2147483647/strip/true/crop/3000x1575+0+56/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2019%2F10%2F15%2Faid-evidence_wide-851025a61a9e7bbb8382dafed3c617413d4fdd1e.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Ethics should be at the foundation of building AI systems: Salesforce executive"
+    excerpt: "There has been growing concern among regulators around sensitive data collection from AI software and the need to balance privacy concerns with allowing room to foster innovation. CNA's Heidi Ng spoke to Kathy Baxter,"
+    publishedDateTime: 2023-06-09T03:47:00Z
+    webUrl: "https://www.channelnewsasia.com/watch/ethics-should-be-foundation-building-ai-systems-salesforce-executive-3547126"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 50
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--zEHybKOT--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/06/09/Screenshot%20(168).png?itok=WGtO9sDB"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Increasing focus on AI is driving demand for empathetic women leaders"
+    excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
+    publishedDateTime: 2023-06-11T01:50:00Z
+    webUrl: "https://yourstory.com/herstory/2023/06/women-leaders-inclusion-key-enterprises-ai"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/shutterstock1456783511-1672930865154.jpeg?fm=png&auto=format"
+        width: 2834
+        height: 1337
+        isCached: true
+  - title: "The Ethics of Managing People’s Data"
+    excerpt: "Over the past few years the European Union has fined companies more than 1,400 times for a total of nearly €3 billion for violations of the General Data Protection Regulation (GDPR). Almost every week stories appear about how AI-driven decisions result in discrimination against women or minority members in job recruitment,"
+    publishedDateTime: 2023-06-12T16:00:00Z
+    webUrl: "https://hbr.org/2023/07/the-ethics-of-managing-peoples-data"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/05/R2304F_STASIK-scaled.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
+  - title: "The missing steps in the application of AI on remote health monitoring"
+    excerpt: "Remote health monitoring refers to the use of technology to monitor a patient's health remotely outside of traditional healthcare settings, utilising connected devices like wearable sensors."
+    publishedDateTime: 2023-06-12T15:07:00Z
+    webUrl: "https://www.ibtimes.co.uk/missing-steps-application-ai-remote-health-monitoring-1715990"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1715715/digital-healthcare-smartwatch.jpg"
+        width: 2500
+        height: 1475
+        isCached: true
+  - title: "Music world gets Startup Nation upgrade, using AI of course"
+    excerpt: "Israeli music startup incorporates cutting-edge technologies not to replace human artists, but to enrich their creations and expand creativity."
+    publishedDateTime: 2023-06-11T04:30:00Z
+    webUrl: "https://www.israel21c.org/music-world-gets-startup-nation-upgrade-using-ai-of-course/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 37
+    images:
+      - url: "https://static.israel21c.org/www/uploads/2023/05/COVER_courtesy_of_Session_42_s_Facebook.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "10 of the best free artificial intelligence courses on edX"
+    excerpt: "TL;DR: A wide range of online courses on AI are available for free at edX. Master the basics, dive into machine learning, and grapple with ethical issues, without spending anything.edX competes with the likes of Udemy to offer the best and largest range of online courses,"
+    publishedDateTime: 2023-06-12T03:55:00Z
+    webUrl: "https://www.aol.com/news/10-best-free-artificial-intelligence-035500045.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/weh1BeSvCD56.9c0h2c9lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_mashable_370/bfc4cffba4101f10784f36891ed10e31"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Era of artificial intelligence in India"
+    excerpt: "Ishant Gupta In today’s digital era, technological advancements have revolutionized the way we live, work, and interact. Among these advancements, Artificial Intelligence (AI) has emerged as a powerful tool,"
+    publishedDateTime: 2023-06-09T19:11:00Z
+    webUrl: "https://www.dailyexcelsior.com/era-of-artificial-intelligence-in-india/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 19
 
 secured: "r5ANOwDYNlbtCpGWf55xj+uQMIWcpYv3+RDhsBmFvIz99KGJsaf5kRKhmkoS405wJ34uki8/V6FzBOTrrrWxzU4G2BPJGS43XOKtdBuVUq7+C+uL0moFkHHv+EXydYwkMD++kuR8vHfhq9tbL/v9kuP4puEr02aS+ow9g+Ln4MVAmjDckkoS0cstZ3f4Ylo/pkqK2l4aD5e9fgsO3a+kW7ZZREsplA1miTgLRA5Xin5AvWIbpC87lY/N2PgVUDCHjQUgTc0IATWd2PEzK/vl0SkLtLBcqt1mAyLCB05f83Jaz/GJew56GGwvckgt6ox65HY9KlajTHCXZ8INAyqWRsmtwaUyf7SI+IWNWK2S/FDJG3ehDmMK/PHRc25PiprKh0haPDR86D7VvX0BBM03BfEORPAJLcn+aWAhrvsJZnNFQapLGBHsRdPzZ8KW0KUuFeh3aDo1jw853mnOsNQk3gC8RHJTs0TxAaUdDJi2JdMGDQusnFK9FnNjZqxMhvtalgU3KJc6ao+xECjzKT/XBw==;GOEQTwxm5SFmH8CEz4DFeQ=="
 ---
