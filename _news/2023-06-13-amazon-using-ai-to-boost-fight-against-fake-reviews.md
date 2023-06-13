@@ -3,8 +3,8 @@ category: news
 title: "Amazon using AI to boost fight against fake reviews"
 excerpt: "Amazon has been using AI in the battle against fake reviews for several years, but the company says continued investment in more \"sophisticated tools\" should improve protection for customers and sellers on its platform."
 publishedDateTime: 2023-06-12T23:10:00Z
-originalUrl: "https://www.bbc.com/news/technology-65881800"
-webUrl: "https://www.bbc.com/news/technology-65881800"
+originalUrl: "https://www.bbc.com/news/technology-65881800.amp"
+webUrl: "https://www.bbc.com/news/technology-65881800.amp"
 ampWebUrl: "https://www.bbc.com/news/technology-65881800.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65881800.amp"
 type: article
@@ -54,6 +54,6 @@ related:
       domain: newsobserver.com
     quality: 17
 
-secured: "bJ0+40mOBJCyRWlHtctBrH8++MyvZ4OTBWYQJUFuW5q8yHhNVY9E+u4TS8zPvCzgmto6oWAUIJfKxsAvC7cGrZ+PbrdgeluOzyaRpZyjNCLKZwH9O6g4SyYsFJ9HVQeNofp9u0k7MBd1R29t3nG1EndbzH2NoBINmWciQhxeOr1w2vQY/9twmeaZB3VZc2t2VNbuU6B2O0vuLDsjcGMX29z75zOKlszZdm7ooI3CWbSvLrSTmjhSWkfvpLMSZAOjNAlnyMmSntW5VXkJ+S5Vfmm15LvXcF3rgsBzW/iGMBaCzxHkYdiheYqDRRK5N8nfO3UJxTjAD823maIo/Snux7KdOKkvFPN6XZaT2RJXVhM=;5H0b0bXNeej3wflxfNVeOQ=="
+secured: "2uNwnfp4jr7gKIEAFdCY6XDefsAPjRTm4C47WeV006Fr4xghFxBmrork7cqw8+vcUoCMcR8hsi8UnY/B57TZUi9rjVurpTQAr16tnGM9XxzZGLLb6iH0UKf2n3Roj1VNabpqB3BeukqKoPVHalm1GMGDn8iyKSxLu+IovGSxTpbEdR9JYkcCuzLq6T0b4xNqqPdQglbJdgp5ql8Z91/CLf80VwirCcIjXB/wP9p+yDY6OlJxgp+Su/ElqmpBeJLn/ykotdgaZ1yIeXG88k75f4EDtW6C83hrLinBqlRTHEyIcR7vBo/5GlL2xtEzywmRy5wCzxL1ydVCq1GRybjNIWp/1O6025i/uQ4XnZYIZhw=;ekgdlwLhATRalTHClIGbIg=="
 ---
 

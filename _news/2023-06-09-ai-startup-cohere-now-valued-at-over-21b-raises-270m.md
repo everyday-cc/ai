@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-ov
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.reuters.com/resizer/UlFS-HCyPyOhqvGErwKxsmm53ZA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CMOR6ZPOFRK25FN5J26IFXMIVA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "OpenAI rival Cohere raises a fresh $270 million to bring generative AI to the enterprise"
+    excerpt: "AI startup Cohere is no longer flying under the radar. The Toronto-based company just announced $270 million in funding backed by Nvidia and Oracle."
+    publishedDateTime: 2023-06-08T13:06:00Z
+    webUrl: "https://venturebeat.com/ai/openai-rival-cohere-raises-a-fresh-270-million-to-bring-generative-ai-to-the-enterprise/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_stacks_of_dollar_bills_and_golden_coins_rise_into_the_s_183429ec-10a6-4d30-b5c0-15109995c0d5.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
   - title: "AI Startup Cohere Locks Up $270M At $2.2B Valuation"
     excerpt: "In March, Character.ai closed a $150 million Series A at a $1 billion valuation led by Andreessen Horowitz. The Palo Alto, California-based AI startup allows people to create their own personalized AI chatbot using language models and deep-learning algorithms."

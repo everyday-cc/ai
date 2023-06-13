@@ -1,18 +1,18 @@
 ---
 category: news
 title: "WiMi Hologram Cloud is Developing A Memristor-based Neural Signal Analysis System for Efficient BCI"
-excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider,"
-publishedDateTime: 2023-06-08T12:00:00Z
-originalUrl: "https://www.asiaone.com/business/wimi-hologram-cloud-developing-memristor-based-neural-signal-analysis-system-efficient-bci"
-webUrl: "https://www.asiaone.com/business/wimi-hologram-cloud-developing-memristor-based-neural-signal-analysis-system-efficient-bci"
+excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that it is developing a memristor-based neural signal analysis system to improve signal processing capability,"
+publishedDateTime: 2023-06-08T14:29:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/08/9829155.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/08/9829155.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
@@ -34,6 +34,6 @@ related:
         height: 316
         isCached: true
 
-secured: "ZtSUw3+Ldu6/+ercxy5Ha+WTDSbCWs2g2xgpsyyktEaprv8wUoZjxw/IcWW6pArsMi1ivxvsIceECjHokTmIWDUA3OeTUQcqSXMw0745gGXWwiBmav4F7GmZW1VJfcl9MXr5dhNGw3gJIwgy8dM6PtOGUnPkjhcRtNjCPlZf+glmT7zcvfZ4FQfc0rDlfBqSgh/7jEr6EzyRpQg+OVWQLHErG1dtPg20hxB+MgCm2pN8J9nTFIBifgnj5vr7jCNp1njtupb9D0Gudflp1yTiMaEv/bdIorC8o3QcHiTzi0lb7L/YDanSrBez1mO2GXOEM46JmRT8RKXVP/UplevenMriikhS+LIAHUbh4/6HLqbIVRF1I4iRCYoLPS7CrWigGekY9kL0xtfZ+uQKD8j4SYw+q364RdsEGgkZ2bJ16b58bSc+fikH6NkF2Yfk3eW+ng9TaE9xTDtAF7WQAdFc4ienAkF0C+nBeDccDXAtBQamHuN2Gm3ozEDNjDFro/WnXg5SNWHzIqdmcRhPhVw+Cw==;wH7VDGN0dYEeQTm7ctF9fw=="
+secured: "V7yI7/9Vcx6EvZlGtIt8wz3E9F8K77HOk4nm53GwEma4LaeVdUt85n4ayUy6j9eOKz2emnOOtkT9DAIoyZsKm90WtB5ekPehTwIUujB+8XWyl2DfkjD4E1kj9nXKzp8WK+aacTllkqdg0uuaUhmQUMq4o+W5j2cowWIMt7Cdvu/JJW/cxY3cPumpFpss/U01jtdX9mGeZccNMfjYWQ1u4bNMb4KZEK7Gd5PpLPuAlL6CMtUV6cFyy+bW6PLaUT2HqpYuAx/NzjTWzDd0bjM5qPGowJYu8Og5ciq62xdoOluue4oqQKu1oA+FkJzXKDhsr+nPAWrMJ7qG217v1cbQhZ4qnJNhi7eh8w/PQ7gV4wQ=;B58LqzsN6PG7soacnvV4Vw=="
 ---
 

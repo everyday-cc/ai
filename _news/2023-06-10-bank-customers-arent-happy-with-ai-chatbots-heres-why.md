@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-w
 webUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,31 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI chatbots offer comfort to the bereaved"
-    excerpt: "Staying in touch with a loved one after their death is the promise of several start-ups using the powers artificial intelligence, though not without raising ethical questions."
-    publishedDateTime: 2023-06-08T07:55:00Z
-    webUrl: "https://techxplore.com/news/2023-06-ai-chatbots-comfort-bereaved.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-ai-chatbots-comfort-bereaved.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chatbots-comfort-bereaved.amp"
+  - title: "Editorial: Federal law shouldn’t shield AI chatbots from liability"
+    excerpt: "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,” 350 AI scientists and other notable figures cautioned in an open letter from the Center for AI Safety,"
+    publishedDateTime: 2023-06-13T00:30:00Z
+    webUrl: "https://www.marinij.com/2023/06/12/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/"
+    ampWebUrl: "https://www.marinij.com/2023/06/12/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/amp/"
+    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/12/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/actor-william-shatner.jpg"
+      - url: "https://www.marinij.com/wp-content/uploads/2023/06/sam.jpg?w=1024&h=681"
         width: 1024
-        height: 682
+        height: 681
         isCached: true
-  - title: "AI chatbots offer comfort to the bereaved, ethics notwithstanding"
-    excerpt: "Thanks to generative artificial intelligence, avatars of departed loved ones can now convey things they never said when they were alive."
-    publishedDateTime: 2023-06-08T07:32:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/06/08/ai-chatbots-offer-comfort-to-the-bereaved-ethics-notwithstanding/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
 
 secured: "ri4riXx4PB6CGt/g9SscvcMmjWL0WO9GPuxwOP9wF8hgydS3gTB5drNVVazLx1VWz8PDzauM6NGwIXLJ+8s+ZMzN/r+4H0wFHWZzl1ianT9+bJEPiz5xv3ScWeWGzfgb+0sYu3CSJ0lfJRrBYqsQNBVD/qD0IIW1dVXN+MBi4a3JYHFbTHVOSv+oiLwNX69Qz9LoPg7qagAAq8fixRq+wBdl2yu/nEenfa/irJtojR5dNeysX1S5v6GUQ084UDRW54RbodSqXAW1+TYW163YgRnJ+SL0h9Vrw0fwnqDy58YBTvdwLm7Jzq6QTVaMYi/3CCzzFhMH4qdqpWkrhikJ5bm2OOsaNJBLAzw66pfN3+xabHl8ExaDalswbH7A3TmpSqCiQsdxi+9JIBY8pphGyxDUk80/pUJSruugnHQ5nlzVsn9gl8MNDi0cAljxOkGnDnAtf7mHrbvXGhNwWS99bbPEvPrv7f+CKzuu8dhwVR0NZK3a3b6Vc79YKha+a8UL9RpYJK8osvNANzrF/Z87vA==;xGajN6N2SO80RumK80cg9A=="
 ---

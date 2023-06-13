@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32799034"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32799034"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI In Devops Market Predicted To Garner USD 22,100 Mn By 2032, At CAGR 38.20% | Report By Marketresearch.Biz"
-    excerpt: "According to MarketResearch.biz , the generative ai in devops market size is projected to surpass around USD 22,100 Million by 2032, and it is poised to reach a registered CAGR of 38.20% from 2023 to 2032."
-    publishedDateTime: 2023-06-08T07:45:00Z
-    webUrl: "https://menafn.com/1106410564/Generative-AI-In-Devops-Market-Predicted-To-Garner-USD-22100-Mn-By-2032-At-CAGR-3820-Report-By-MarketresearchBiz"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?142799"
-        width: 395
-        height: 250
-        isCached: true
   - title: "14.2% CAGR for Facial Recognition Market Share to Reach $12.67Bn, Globally, by 2028 – Exclusive Report by The Insight Partners"
     excerpt: "According to our latest study on \"Facial Recognition Market Share Report, Forecast to 2028 – COVID-19 Impact and Global Analysis – by Component, Application,"
     publishedDateTime: 2023-06-12T11:24:00Z

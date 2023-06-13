@@ -7,7 +7,7 @@ originalUrl: "https://www.thetelegraph.com/news/article/alton-artificial-intelli
 webUrl: "https://www.thetelegraph.com/news/article/alton-artificial-intelligence-ai-saint-anthony-s-18141135.php"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud Partners With Mayo Clinic To Use AI In Health Care"
-    excerpt: "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the"
-    publishedDateTime: 2023-06-08T07:58:00Z
-    webUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/"
-    ampWebUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
-    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
-    type: article
-    provider:
-      name: Geek News Central
-      domain: geeknewscentral.com
-    quality: 59
-    images:
-      - url: "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Google expands intelligent cloud into healthcare"
-    excerpt: "Helping medical professionals find patent informationGoogle's cloud business is expanding its use of new artificial intelligence technologies in health care. It allows medical professionals at Mayo Clinic to find patient information using tools powering the latest chatbots quickly."
-    publishedDateTime: 2023-06-08T09:50:00Z
-    webUrl: "https://www.fudzilla.com/news/memory-and-storage/57046-google-expands-intelligent-cloud-into-healthcare"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/151e65d7467e972252b5079a40b808dc_L.jpg"
-        width: 620
-        height: 454
-        isCached: true
   - title: "Health Care Embraces AI"
     excerpt: "“We believe that this is not right for health care generally and ABA specifically, but instead espouse to create ‘human-in-the-loop’ products that leverage artificial intelligence as an aid, not a replacement.” Adu said that because SpectrumAi ..."
     publishedDateTime: 2023-06-12T07:04:00Z
@@ -69,6 +39,15 @@ related:
         width: 1024
         height: 671
         isCached: true
+  - title: "Adobe to sell generative AI subscription with copyright assurance"
+    excerpt: "Business customers will be charged a flat-rate subscription for companywide access to new so-called generative AI tools across Adobe products."
+    publishedDateTime: 2023-06-12T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/adobe-to-sell-generative-ai-subscription-with-copyright-assurance/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "xl6StuB+RxzCllXZMr6LmP7FNS7n+FKAYAKdjdE8NUvAa5iJA6DBkfsCRunREwILZoJhj+hY+HJ5WEFSicywV4rTf/PTiO50joTekHUSU/rrZUBt60LEIkBa1wD56DJFJdag+ZtoX0q1vQs5h+ct/wplnDJ3bSbexBY3uIBjgwhGHeqANkpQTMNDm3mFREjmEyB6R0/vMltq3upOP7a/KMIA5t6Uc6lPh48pZ67J8GSkVJu2dA5BGuOJ4KhEi/FHyAFjjCht6TjOjMdB0h5BYUeqrM7K4POeI9NG6Y4l5TAJK5YrnsB8/bHF9p+1QvgTsS1GzWoFD3fKEaSOdQmPPXrHxqIeY7vY8yhNUsx0d1arjbSUQmQjHvmeQ9AbHKO9Bk2z5vQcTTJPJL0y78LDp19bfa74gUM1bIwStvlT1jVj97+HuP2HCQDLgP3e6VEVyXaZ+8YyqSnOVIzJmwxhD8pinbA7DvkoAwu+vv4gjMdx4QwzIRkEmcSGrI5Le3qHXo1KY0ggFuDckgfFGYkQ2Q==;POjatFKArx+5Wxn/pkYslA=="
 ---

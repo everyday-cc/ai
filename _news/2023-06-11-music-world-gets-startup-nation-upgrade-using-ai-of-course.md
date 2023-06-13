@@ -68,6 +68,20 @@ related:
         width: 850
         height: 580
         isCached: true
+  - title: "Registration opens for the Mark Cuban Foundation’s Artificial Intelligence Bootcamp"
+    excerpt: "Offered at no cost to low-income and diverse community high school students, the Mark Cuban Foundation's Artificial Intelligence Bootcamp will be held for the first time in San Antonio. The San Antonio Bootcamp,"
+    publishedDateTime: 2023-06-12T16:29:00Z
+    webUrl: "https://aldianews.com/en/leadership/advocacy/ai-bootcamp"
+    type: article
+    provider:
+      name: AL DA News
+      domain: aldianews.com
+    quality: 33
+    images:
+      - url: "https://aldianews.com/sites/default/files/2023-06/technology-3435575_1280%20%281%29.jpg"
+        width: 1280
+        height: 730
+        isCached: true
   - title: "AI FAANG Stocks You Can’t Go Wrong With"
     excerpt: "All of them are good buy. To some all are working on similar advances in the field, and this competition will likely drive bigger and better things out of all of them."
     publishedDateTime: 2023-06-08T10:40:00Z

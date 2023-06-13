@@ -27,7 +27,7 @@ related:
   - title: "Amazon using AI to boost fight against fake reviews"
     excerpt: "Amazon has been using AI in the battle against fake reviews for several years, but the company says continued investment in more \"sophisticated tools\" should improve protection for customers and sellers on its platform."
     publishedDateTime: 2023-06-12T23:10:00Z
-    webUrl: "https://www.bbc.com/news/technology-65881800"
+    webUrl: "https://www.bbc.com/news/technology-65881800.amp"
     ampWebUrl: "https://www.bbc.com/news/technology-65881800.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65881800.amp"
     type: article

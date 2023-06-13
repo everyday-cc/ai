@@ -1,28 +1,29 @@
 ---
 category: news
 title: "AI Could Prevent Hiring Bias — Unless It Makes It Worse"
-excerpt: "There’s a compelling argument for AI’s ability to alleviate hiring discrimination: Algorithms can focus on skills and exclude identifiers that might trigger unconscious bias,"
-publishedDateTime: 2023-06-12T20:26:00Z
-originalUrl: "https://www.chron.com/business/personalfinance/article/ai-could-prevent-hiring-bias-unless-it-makes-18148519.php"
-webUrl: "https://www.chron.com/business/personalfinance/article/ai-could-prevent-hiring-bias-unless-it-makes-18148519.php"
+excerpt: "At first glance, artificial intelligence and job hiring seem like a match made in employment equity heaven.There’s a compelling argument for AI’s ability to alleviate hiring discrimination: Algorithms"
+publishedDateTime: 2023-06-12T20:10:00Z
+originalUrl: "https://www.stltoday.com/business/investment/personal-finance/ai-could-prevent-hiring-bias-unless-it-makes-it-worse/article_5a5412b6-d7ab-53b3-874c-b47e0bbaa83b.html"
+webUrl: "https://www.stltoday.com/business/investment/personal-finance/ai-could-prevent-hiring-bias-unless-it-makes-it-worse/article_5a5412b6-d7ab-53b3-874c-b47e0bbaa83b.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2023/06/GettyImages-1299491248-480x280.jpg"
-    width: 480
-    height: 280
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/01/60101848-75cb-5871-a251-bd61b4b2cfd0/64878631a865a.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "nqt7u5xQUOc1LLerRrVVnhXuHEYT27UkeivAlKhPJsMTe3qbXgdc5tTyyeK9yqu7Z76MWNg2SbyP+2TCI7Vks7fmZWYgcCn26TmPhbSY1H71OIO8mRocV9y/+YXlGKlovX4C91QNtkWDueBuwWpF5QTXwEk3so+D9rRRsi25RXZrEjlNar29Z+GhVnEe3fKg2z0AnxBgixkj6cilYhESq/bTVS8VB1YiFSOZMxoUvD//Z9oh4DkAankXKgDN0vXksCtaLcs4HC5+7x4xsYL4ZYjexlltyOWguLzQT5Yi3Z2xKxSAmSCsr3Y3KZENo5CVq6Uio1s71tzxinJ6N0ifBSOgwa+DWV0r1Gxd/X/7w/s=;FidlTbH2WHQPeIOuMhcVEg=="
+secured: "lSibhHJrJdVA+vmOB00jo8NK8wWwswsB/2RHOeqMljXHBIUvl0LvPrRHSilejM8cD5W+Th26NCSMdY4rq2Wrlqru+8hRvAlmvaXRO+2Y0G9+/HmuquBCNmcIbnKW6xsYpf+8DhAIamqKWMpJHM1gOYzV+l/vx8XxqVR1BLN7SgiPde/Hz2E+uJ3qXmKPG0w1fDfnm0roVM3hCnurcRx04qfIcmBjbzuMK2YPLc9e6idp+8Unldvf4nqBJXS7r4Jfuh8uKVc21sCLxtAHaBKs+v8Ly1DG/KoBrfao4O7dTxwCwxKEYITsR+M0DPxeDYYpRxZULY50A+SvKdPedggTTRRxJIt346LIYlvOJeYAPvc=;fPajE2PyCf/ga2wjxJN/Hg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-arti
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Financial Express
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 ways artificial intelligence can improve the clinical trial process"
-    excerpt: "As artificial intelligence (AI) continues to make significant advances, the leaders of clinical trials should not underestimate its capabilities for improving patient recruitment, retention, and health outcomes."
-    publishedDateTime: 2023-06-08T07:51:00Z
-    webUrl: "https://pharmaphorum.com/rd/3-ways-artificial-intelligence-can-improve-clinical-trial-process"
-    type: article
-    provider:
-      name: pharmaphorum
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/sites/default/files/2023-06/artificial-intelligence-healthcare.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How AI Will Accelerate the Circular Economy"
     excerpt: "Despite living on a planet with finite resources, our economy remains largely linear and full of single-use products. The shift toward a circular economy, where companies recover or recycle resources,"
     publishedDateTime: 2023-06-12T12:06:00Z

@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud Partners With Mayo Clinic To Use AI In Health Care"
-    excerpt: "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the"
-    publishedDateTime: 2023-06-08T07:58:00Z
-    webUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/"
-    ampWebUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
-    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
-    type: article
-    provider:
-      name: Geek News Central
-      domain: geeknewscentral.com
-    quality: 59
-    images:
-      - url: "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Google expands intelligent cloud into healthcare"
-    excerpt: "Helping medical professionals find patent informationGoogle's cloud business is expanding its use of new artificial intelligence technologies in health care. It allows medical professionals at Mayo Clinic to find patient information using tools powering the latest chatbots quickly."
-    publishedDateTime: 2023-06-08T09:50:00Z
-    webUrl: "https://www.fudzilla.com/news/memory-and-storage/57046-google-expands-intelligent-cloud-into-healthcare"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/151e65d7467e972252b5079a40b808dc_L.jpg"
-        width: 620
-        height: 454
-        isCached: true
   - title: "Use AI with caution when comes to mental health"
     excerpt: "When people read that AI could replace the equivalent of 300 million full-time jobs,"
     publishedDateTime: 2023-06-09T00:00:00Z
@@ -69,6 +39,15 @@ related:
         width: 1463
         height: 2048
         isCached: true
+  - title: "Adobe to sell generative AI subscription with copyright assurance"
+    excerpt: "Business customers will be charged a flat-rate subscription for companywide access to new so-called generative AI tools across Adobe products."
+    publishedDateTime: 2023-06-12T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/adobe-to-sell-generative-ai-subscription-with-copyright-assurance/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "L+F95eiKLK8ZKtJIbTrX6G37ZUSYJs/mzumNMIQcAwMHV5Fqv6wkqtfLjD9PU09nE1QqkNrRnasOP7k9t16xMjGgBhHRcnTl28JDoRrNWWvPyJE2geH2qrlT81YAhnyqHmTPEGLkZF3tyNfII5MscMfLJdYoYzy25qfo+NnB1LSmcZcgmCa4RzEp4PLeuY1Fn5BRnYLHDbjaOCMAgg/rUHFz8t0+pJ7ja2gdS9781ofhcXWWc9a104HZ+OfoYlNeLG7FC02k6XzAOl6vQrifgtuOcztADEkdUoqhEkhIvVQsFcd2f5pkPP1OKSW2FvrLcWxbmzazC7N1j9R9CrNw8uOQvmlUyFoQyFPmXieipZ0=;EiE3pHhyihUU/W+Mz6jbYQ=="
 ---

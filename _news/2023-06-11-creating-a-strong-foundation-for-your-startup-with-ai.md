@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
 type: article
 quality: 87
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://static.israel21c.org/www/uploads/2023/05/COVER_courtesy_of_Session_42_s_Facebook.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Registration opens for the Mark Cuban Foundation’s Artificial Intelligence Bootcamp"
+    excerpt: "Offered at no cost to low-income and diverse community high school students, the Mark Cuban Foundation's Artificial Intelligence Bootcamp will be held for the first time in San Antonio. The San Antonio Bootcamp,"
+    publishedDateTime: 2023-06-12T16:29:00Z
+    webUrl: "https://aldianews.com/en/leadership/advocacy/ai-bootcamp"
+    type: article
+    provider:
+      name: AL DA News
+      domain: aldianews.com
+    quality: 33
+    images:
+      - url: "https://aldianews.com/sites/default/files/2023-06/technology-3435575_1280%20%281%29.jpg"
+        width: 1280
+        height: 730
         isCached: true
   - title: "AI FAANG Stocks You Can’t Go Wrong With"
     excerpt: "All of them are good buy. To some all are working on similar advances in the field, and this competition will likely drive bigger and better things out of all of them."

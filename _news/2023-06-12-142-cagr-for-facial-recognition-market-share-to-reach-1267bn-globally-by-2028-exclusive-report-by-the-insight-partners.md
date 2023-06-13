@@ -36,20 +36,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Generative AI In Devops Market Predicted To Garner USD 22,100 Mn By 2032, At CAGR 38.20% | Report By Marketresearch.Biz"
-    excerpt: "According to MarketResearch.biz , the generative ai in devops market size is projected to surpass around USD 22,100 Million by 2032, and it is poised to reach a registered CAGR of 38.20% from 2023 to 2032."
-    publishedDateTime: 2023-06-08T07:45:00Z
-    webUrl: "https://menafn.com/1106410564/Generative-AI-In-Devops-Market-Predicted-To-Garner-USD-22100-Mn-By-2032-At-CAGR-3820-Report-By-MarketresearchBiz"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?142799"
-        width: 395
-        height: 250
-        isCached: true
 
 secured: "1YOlRPAmZRKCYvsNzRrXAHf1IeiaxHEwufT4Y3s6Cak+uvNEnf6TXZsD2YiuPXdZ7mmjmFfn1zgIvN/qgKaiDQJs5oBAmCN95gnGaRogcn5MzuXTfconwp/hQJk8e+Kj/dWLARtuvrt/e28JyFi1RerotVMK08aqEYVRQYFko5kMnGAbh5RKmj1uMstPzM5nZNDfXc+gPJq0CBuNpLx5g0RcnkrEE6SfVPrW7aE8LtREXB9dghAclvRZoPfqumK67MC5BQmYEpecDK6TniyRMsBqQXZhksWYUVZ7RfDJgiZMqAKjAz5dYmKBYiCCTRScNh6aw6Ef0rW/d17EQoFn90seUM2ZAY6VaY5HTDm/Brk=;8Kt99JJosC3qaFhFVRBOxw=="
 ---

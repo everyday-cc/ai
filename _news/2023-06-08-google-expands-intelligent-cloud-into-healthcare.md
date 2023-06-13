@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/memory-and-storage/57046-google-expa
 webUrl: "https://www.fudzilla.com/news/memory-and-storage/57046-google-expands-intelligent-cloud-into-healthcare"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,52 +23,6 @@ images:
     width: 620
     height: 454
     isCached: true
-
-related:
-  - title: "Google Cloud Partners With Mayo Clinic To Use AI In Health Care"
-    excerpt: "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the"
-    publishedDateTime: 2023-06-08T07:58:00Z
-    webUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/"
-    ampWebUrl: "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
-    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/"
-    type: article
-    provider:
-      name: Geek News Central
-      domain: geeknewscentral.com
-    quality: 59
-    images:
-      - url: "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Use AI with caution when comes to mental health"
-    excerpt: "When people read that AI could replace the equivalent of 300 million full-time jobs,"
-    publishedDateTime: 2023-06-09T00:00:00Z
-    webUrl: "https://www.thetelegraph.com/news/article/alton-artificial-intelligence-ai-saint-anthony-s-18141135.php"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: thetelegraph.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/33/16/21/23913580/3/rawImage.jpg"
-        width: 1463
-        height: 2048
-        isCached: true
-  - title: "Health Care Embraces AI"
-    excerpt: "“We believe that this is not right for health care generally and ABA specifically, but instead espouse to create ‘human-in-the-loop’ products that leverage artificial intelligence as an aid, not a replacement.” Adu said that because SpectrumAi ..."
-    publishedDateTime: 2023-06-12T07:04:00Z
-    webUrl: "https://labusinessjournal.com/special-reports/health-care-embraces-ai/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 39
-    images:
-      - url: "https://images.labusinessjournal.com/wp-content/uploads/2023/06/SR_DEEP6-AI_Study-Detail-Dashboard_0612-1024x671.png"
-        width: 1024
-        height: 671
-        isCached: true
 
 secured: "RWSIElzUo6m1GAKI9G63tOGqULG81ecXjFYArHC719cBPvknE077O3e59aLRysdRMDRapoHQRI2g/0lLcNshszWpHxeTqg6q0faZr+SrTeLc7D81b+2Pir5En/oKLQE0ZwKnsI+D6HVEE8sxeFI4ctyC1SptlRmIBihxvPUvO0xafcdVLXHbV31pGofKKbYUJr1Ekst/CcmcfUKE8CFw7tgflDqCBBM0dttnI4UTRL5Vvt1S1mhAeG+Mr8VIQZye969mO7VU781UWtNdHiC+ydCJmoXnKkDyPXFwUej1zcjGNiWlH+qqumZRt5Z9kNqgd6NtWUX3ZWuh4FQbKCwpHgdsCZKwNdQyLckgiVAjRdW6sTc3RQEaqfGeWTjFSoKn88AiCkSs7J89SnsNbf2ILuAtTMMLTpQzQnAWMq4OhJIKW8WxTfNbS8p4YC+eore3J00QhMK2Ije7Wmeu/RuxRUhq5oKVgI2A2SDjHxQUs56n4LGQt8ocJeH/FQSnvP/+6TZx6WTnkA4PEtIKUqvJ9g==;Pv2/LBpYj0NHnAKN1/d9Uw=="
 ---

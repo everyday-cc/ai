@@ -6,8 +6,8 @@
       "title": "Amazon using AI to boost fight against fake reviews",
       "excerpt": "Amazon has been using AI in the battle against fake reviews for several years, but the company says continued investment in more \"sophisticated tools\" should improve protection for customers and sellers on its platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-65881800",
-      "originalUrl": "https://www.bbc.com/news/technology-65881800",
+      "webUrl": "https://www.bbc.com/news/technology-65881800.amp",
+      "originalUrl": "https://www.bbc.com/news/technology-65881800.amp",
       "featuredContent": null,
       "highlight": null,
       "heat": 107,
@@ -196,6 +196,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-atmosera-attains-two-new-microsoft-advanced-specializations-reinforcing-cloud-security-and-azure-virtual-desktop-expertise.md",
+      "title": "Atmosera Attains Two New Microsoft Advanced Specializations, Reinforcing Cloud Security and Azure Virtual Desktop Expertise",
+      "excerpt": "Atmosera continues to demonstrate its tenured experience and deep knowledge in the Azure tech stack and security domain. PORTLAND, Ore., June 12, 2023 /PRNewswire-PRWeb/ -- Atmosera, a recognized full",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32825113/atmosera-attains-two-new-microsoft-advanced-specializations-reinforcing-cloud-security-and-azure-v",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32825113/atmosera-attains-two-new-microsoft-advanced-specializations-reinforcing-cloud-security-and-azure-v",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32825113",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32825113",
+      "publishedDateTime": "2023-06-12T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1178,57 +1222,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-ai-deepfakes-of-innocent-images-fuel-spike-in-sextortion-scams-fbi-warns.md",
-      "title": "AI ‘deepfakes’ of innocent images fuel spike in sextortion scams, FBI warns",
-      "excerpt": "There has been an uptick in sextortion victims reporting the use of artificial intelligence-generated deepfakes since April, according to the FBI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns",
-      "originalUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dc9be95-a9de-408f-b909-3dcba83a1c8e/5656c770-0cfc-4904-8e70-c5c993136502/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns.amp",
-      "publishedDateTime": "2023-06-11T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

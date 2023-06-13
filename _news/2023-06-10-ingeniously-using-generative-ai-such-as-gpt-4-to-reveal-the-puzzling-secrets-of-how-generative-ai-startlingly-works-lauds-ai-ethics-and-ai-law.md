@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/10/ingeniously-using-generative-ai-such-as-gpt-4-to-reveal-the-puzzling-secrets-of-how-generative-ai-startlingly-works-lauds-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
+    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
+    publishedDateTime: 2023-06-09T18:39:00Z
+    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
+    type: article
+    provider:
+      name: WWT
+      domain: wwt.com
+    quality: 33
   - title: "Oracle beats expectations, reveals upcoming generative AI service, sending stock higher"
     excerpt: "“Aside from cost driven share gains, OCI also has the one thing that every AI startup is asking for today, spare GPU capacity,” Zukin wrote, referring to graphics processing units. “Similar to getting those first cloud workloads during ..."
     publishedDateTime: 2023-06-12T23:36:00Z

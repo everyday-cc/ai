@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Comment: We should worry more about AI’s creators than AI itself"
-    excerpt: "Even so, fibs travel halfway around the world before the truth laces up its boots and the story is bound to seep into our collective, unconscious worries about AI’s threat to the human race, an idea that has gained steam thanks to warnings from two “godfathers” of AI and two open letters about existential risk."
-    publishedDateTime: 2023-06-08T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-we-should-worry-more-about-ais-creators-than-ai-itself/"
-    type: article
-    provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 39
-    images:
-      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
-        width: 400
-        height: 400
-        isCached: true
   - title: "What Smart Companies Know About Integrating AI"
     excerpt: "AI has the power to gather, analyze, and utilize enormous volumes of individual customer data to achieve precision and scale in personalization. The experiences of Mercury Financial, CVS Health, and Starbucks debunk the prevailing notion that extracting value from AI solutions is a technology-building exercise."
     publishedDateTime: 2023-06-12T16:00:00Z

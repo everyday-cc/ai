@@ -28,64 +28,63 @@ images:
     isCached: true
 
 related:
-  - title: "Enabling AI-powered business intelligence across the enterprise"
-    excerpt: "Data is the lifeblood of successful organizations. Beyond the traditional data roles&#8212;data engineers, analysts, architects&#8212;decision-makers across an organization need flexible, self-service access to data-driven insights accelerated by artificial intelligence (AI). From marketing to HR, finance"
-    publishedDateTime: 2023-06-08T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/enabling-ai-powered-business-intelligence-across-the-enterprise/"
+  - title: "AI startup Cohere, now valued at over $2.1B, raises $270M"
+    excerpt: "Cohere, a generative AI startup with ties to Google, has raised $270 million in a round that values the company at over $2.1 billion."
+    publishedDateTime: 2023-06-08T22:02:00Z
+    webUrl: "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/"
+    ampWebUrl: "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enabling-AI-powered-business-intelligence-across-the-enterprise--scaled.jpg"
-        width: 2560
-        height: 1280
-        isCached: true
-  - title: "How AI Is transforming business outcomes across industries and sectors"
-    excerpt: "Why companies that embrace AI will find new and productive ways to integrate it with their existing workforces, products and operations."
-    publishedDateTime: 2023-06-10T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-is-transforming-business-outcomes-across-industries-and-sectors/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 71
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1347947373.jpg?w=1200&strip=all"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1226864145.jpg?resize=1200,420"
         width: 1200
-        height: 616
+        height: 420
         isCached: true
-  - title: "Fantasy fears about AI are obscuring how we already abuse machine intelligence"
-    excerpt: "We blame technology for decisions really made by governments and corporations"
-    publishedDateTime: 2023-06-11T04:31:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jun/11/big-tech-warns-of-threat-from-ai-but-the-real-danger-is-the-people-behind-it"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/11/big-tech-warns-of-threat-from-ai-but-the-real-danger-is-the-people-behind-it"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/11/big-tech-warns-of-threat-from-ai-but-the-real-danger-is-the-people-behind-it"
+  - title: "AI startup Cohere raises $270 mln in Nvidia-backed funding round"
+    excerpt: "Cohere, an AI foundation model company that competes with Microsoft-backed OpenAI, said on Thursday it had raised $270 million in a funding round backed by Nvidia , Oracle and Salesforce Ventures, among others."
+    publishedDateTime: 2023-06-08T14:41:00Z
+    webUrl: "https://www.reuters.com/technology/ai-startup-cohere-raises-270-mln-nvidia-backed-funding-round-2023-06-08/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://i.guim.co.uk/img/media/dd3b950b0e0f8ed546aa0a5c13fa029e05b68059/0_186_4519_2712/master/4519.jpg?width=620&quality=85&auto=format&fit=max&s=e2f2e12c0280acc7f8b580f28de16677"
-        width: 620
-        height: 372
+      - url: "https://www.reuters.com/resizer/UlFS-HCyPyOhqvGErwKxsmm53ZA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CMOR6ZPOFRK25FN5J26IFXMIVA.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "In AI Talent War, Rushing to Hire Tech Experts Without a Business Plan Is the Least Intelligent Approach"
-    excerpt: "And the reassuring news, according to Wang: “There’s not going to be a robot that’s going to walk up ... said that before jumping on the AI bandwagon, it’s important to start from square one with a plan in place. “If you’re hiring AI technical ..."
-    publishedDateTime: 2023-06-08T14:38:00Z
-    webUrl: "https://www.law.com/corpcounsel/2023/06/08/in-ai-talent-war-rushing-to-hire-tech-experts-without-a-business-plan-is-the-least-intelligent-approach/"
+  - title: "AI Startup Cohere Locks Up $270M At $2.2B Valuation"
+    excerpt: "In March, Character.ai closed a $150 million Series A at a $1 billion valuation led by Andreessen Horowitz. The Palo Alto, California-based AI startup allows people to create their own personalized AI chatbot using language models and deep-learning algorithms."
+    publishedDateTime: 2023-06-08T18:26:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-startup-cohere-series-c/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 22
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/390/2023/06/AI-hiring-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 19
+  - title: "Unicorns are hard to come by, unless you're an AI startup"
+    excerpt: "Some of the largest funding rounds include OpenAI's deal with Microsoft Corp. that valued the ChatGPT maker at $28 billion, and Cohere, a generative AI startup founded by ex-Google researchers, raising $250 million. The continued investment in artificial ..."
+    publishedDateTime: 2023-06-12T13:31:00Z
+    webUrl: "https://www.bizjournals.com/wichita/news/2023/06/12/generative-ai-unicorn-startups.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+  - title: "Nvidia and Oracle back $270M funding round for generative AI startup Cohere"
+    excerpt: "Generative artificial intelligence startup Cohere Inc. today announced that it has raised $270 million in funding from a group of prominent tech investors. The investment, a Series C round, included the participation of Nvidia Corp."
+    publishedDateTime: 2023-06-08T19:33:00Z
+    webUrl: "https://siliconangle.com/2023/06/08/nvidia-oracle-back-270m-funding-round-generative-ai-startup-cohere/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
 
 secured: "TqEo6FxATaLjY1PHk3gC+gWgnG7PwKDLJuRx9ElIItwT7Wmhs5GgaX6WwzVA3pR1gjIr+bLxrLL9onMMwttmi5D8j6fn4oyapg7Rf/hrz3k2OgkkM/KNgn/NNaLp5LFvihUz5lMn+eeGMogEgGLVy+8Ki4Ix3XTjXyo61KHD1l4lV1LnUoE00diH1tMQSd3qSAXZHQNgaeDuvUzaH1lDzuG68S772fQ7cLk0Lk3XjKXsf4J5DVkVrVmlLup51j27PS2JFH0GsONqdvdeBa2qt8fpwtPtI7hrsev1qm8Wc+FCRCoutFqP6aaoCubsHyaQZ436NRv6bNBzhV2lSYnduI3aC0Sj0XWEPXrulKMq3tc=;aAr3RMezjcRG1UpxVjwRIg=="
 ---
