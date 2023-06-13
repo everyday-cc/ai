@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Paul McCartney: AI has enabled a “final” Beatles song"
+    excerpt: "BBC Radio 4's Today program aired an interview with Paul McCartney in which he announced that thanks to AI technology, a \"final Beatles record\" has been finished and will be released later this year."
+    publishedDateTime: 2023-06-13T15:29:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/11/beatles_ai_hero_4-800x457.jpg"
+        width: 800
+        height: 457
+        isCached: true
   - title: "Paul McCartney To Release 1 Final Beatles Song, Thanks To AI Technology"
     excerpt: "While some celebrities have turned their backs on artificial intelligence tech to help make their work, Beatles legend Sir Paul McCartney has leaned into it to create the group’s “final” song."
     publishedDateTime: 2023-06-13T11:18:00Z
@@ -41,6 +57,38 @@ related:
       - url: "https://img.huffingtonpost.com/asset/648832d92900006c00c99109.jpeg?cache=Cmy2NUsrlF&ops=1200_630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Beatles are dropping one last track with the help of AI"
+    excerpt: "On BBC's Best of Today podcast, Paul McCartney shared his thoughts on AI in the music industry and revealed that The Beatles would be dropping a new track soon with the help of AI."
+    publishedDateTime: 2023-06-13T16:20:00Z
+    webUrl: "https://www.zdnet.com/article/the-beatles-are-dropping-one-last-track-with-the-help-of-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-beatles-are-dropping-one-last-track-with-the-help-of-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-beatles-are-dropping-one-last-track-with-the-help-of-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/fab6747ae37a07ca2af28db9678fdf55d1fbf8db/2023/06/13/c99e7315-b8fd-4f6f-91cc-3e0cc87bacf3/gettyimages-3297187.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Beatles will release a new and 'final record' this year, Paul McCartney says — with a little help from AI"
+    excerpt: "\"All that is kind of scary but also exciting because it’s the future,\" Paul McCartney said of the way artificial intelligence is changing music."
+    publishedDateTime: 2023-06-13T15:21:00Z
+    webUrl: "https://www.nbcnews.com/news/world/beatles-release-final-record-artificial-intelligence-paul-mccartney-rcna88998"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna88998"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna88998"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 68
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230613-beatles-mb-1236-e85107.jpg"
+        width: 3525
+        height: 2351
         isCached: true
   - title: "The Beatles Come Together for ‘Last Record’ Using AI, Paul McCartney Says"
     excerpt: "More than 50 years after the group’s final studio album, Paul McCartney says he has used artificial intelligence to create what he called “the last Beatles record.”"
@@ -70,6 +118,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI helped create 'last Beatles record,' Paul McCartney says"
+    excerpt: "Paul McCartney says artificial intelligence has been used to extract John Lennon’s voice from an old demo to create “the last Beatles record.\""
+    publishedDateTime: 2023-06-13T12:02:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-helped-create-beatles-record-paul-mccartney-100035037"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-helped-create-beatles-record-paul-mccartney-100035037"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-helped-create-beatles-record-paul-mccartney-100035037"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_2dc3d8c818e12b708d4e9409cb7dc856_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "AI used to create new and final Beatles song, says Paul McCartney"
     excerpt: "Musician says he used technology to ‘extricate’ John Lennon’s voice from an old demo and complete a decades-old song"
     publishedDateTime: 2023-06-13T09:50:00Z
@@ -86,6 +150,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "The Beatles are releasing their ‘final’ record. AI helped make it possible"
+    excerpt: "Paul McCartney described AI technology as “kind of scary but exciting,\" adding: “We will just have to see where that leads.”"
+    publishedDateTime: 2023-06-13T16:58:00Z
+    webUrl: "https://www.boston.com/culture/music/2023/06/13/beatles-releasing-final-record-ai-helped-make-possible/"
+    ampWebUrl: "https://www.boston.com/culture/music/2023/06/13/beatles-releasing-final-record-ai-helped-make-possible/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/culture/music/2023/06/13/beatles-releasing-final-record-ai-helped-make-possible/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 55
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2023/06/Britain_Beatles_01826-64885bc2898fc.jpg"
+        width: 2000
+        height: 1460
+        isCached: true
   - title: "AI You Need Is Love: Artificial Intelligence Helps Create ‘Final’ Beatles Song, Paul McCartney Says"
     excerpt: "A new Beatles song will be released later this year with a little help from artificial intelligence, musician Paul McCartney announced Tuesday, the latest example of how creative industries are using the fast-evolving technology as lawmakers and regulators begin to grapple with the ethical and legal issues it raises."
     publishedDateTime: 2023-06-13T13:11:00Z
@@ -95,15 +175,36 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
-  - title: "AI helped create ‘last Beatles record,’ Paul McCartney says"
-    excerpt: "Paul McCartney says artificial intelligence has been used to extract John Lennon’s voice from an old demo to create “the last Beatles record,\" decades after the band broke up."
-    publishedDateTime: 2023-06-13T13:44:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-helped-create-last-beatles-record-paul-mccartney-says/"
+  - title: "Paul McCartney says AI was used to create new Beatles song, which will be released this year"
+    excerpt: "Paul McCartney says there will be a new Beatles record – created with help from artificial intelligence. McCartney, one of the two living Beatles, said AI was used to extricate the late John Lennon's vocals from a previously recorded track."
+    publishedDateTime: 2023-06-13T15:49:00Z
+    webUrl: "https://www.cbsnews.com/news/beatles-ai-song-paul-mccartney-final-record-released-this-year/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/beatles-ai-song-paul-mccartney-final-record-released-this-year/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/beatles-ai-song-paul-mccartney-final-record-released-this-year/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
+      name: CBS News
+      domain: cbsnews.com
+    quality: 46
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/06/13/ce4a4cdc-7c2e-4288-bc83-47f70183f435/thumbnail/1200x630/2579fc070b3c29a7d28986e68c96e947/gettyimages-1487066196.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Beatles will release a final record, using John Lennon's voice via an AI assist"
+    excerpt: "The music has analog roots, recorded by the famous singer-songwriter on a demo tape. Now it's being revived by futuristic technology for release later this year, Paul McCartney said."
+    publishedDateTime: 2023-06-13T16:41:00Z
+    webUrl: "https://www.npr.org/2023/06/13/1181906529/beatles-john-lennon-voice-song-ai"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 31
+    images:
+      - url: "https://media.npr.org/assets/img/2023/06/13/gettyimages-3165523_wide-931eeb65b37f81367ae16de6e14666f7ed231aff-s1400-c100.jpg"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Sir Paul McCartney says 'final' Beatles song coming thanks to AI"
     excerpt: "In an interview with BBC Radio 4's \"Today\" program released Tuesday, the legendary musician and former Beatle was asked about AI and how it's been used to make his voice sound younger – and to resurrect the voices of fellow band members John Lennon and George Harrison who died in 1980 and 2001, respectively."
     publishedDateTime: 2023-06-13T13:31:00Z
@@ -113,15 +214,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 17
-  - title: "The Beatles are releasing their ‘final’ record. AI helped make it possible"
-    excerpt: "Artificial intelligence has been used to extract John Lennon's voice from an old demo to create “the last Beatles record,” decades after the band broke up, Paul McCartney said Tuesday. McCartney, 80,"
-    publishedDateTime: 2023-06-13T15:29:00Z
-    webUrl: "https://lasvegassun.com/news/2023/jun/13/the-beatles-are-releasing-their-final-record-ai-he/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 15
   - title: "Paul McCartney says \"final\" Beatles song coming thanks to artificial intelligence"
     excerpt: "When it comes to artificial intelligence, Sir Paul McCartney doesn't sound like he's willing to just \"Let It Be.\""
     publishedDateTime: 2023-06-13T10:32:00Z

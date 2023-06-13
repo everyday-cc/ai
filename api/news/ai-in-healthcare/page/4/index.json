@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-05-07-is-artificial-intelligence-good-for-education.md",
-      "title": "Is artificial intelligence good for education?",
-      "excerpt": "This past week, a student called me to request an interview for an assignment. The topic was artificial intelligence and its effect on the ivory tower.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
-      "originalUrl": "https://www.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2023/05/06/B1-PIPE-Lost-Soul-GG_c0-919-2200-2202_s1200x700.jpg?2a1a00f04a42eeed57795a4a2b6f93f474d49a53",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/may/6/is-artificial-intelligence-good-for-education/",
-      "publishedDateTime": "2023-05-06T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2023-05-06-artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.md",
       "title": "Artificial intelligence helping detect early signs of breast cancer in some US hospitals",
       "excerpt": "Some doctors believe artificial intelligence is saving lives after ... less chemotherapy, less radiation therapy,\" she continued. \"I think we're entering into a whole new era in breast care.\"",
@@ -1416,6 +1372,59 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-what-marketing-and-advertising-specialists-can-expect-from-chatgpt.md",
+      "title": "What Marketing And Advertising Specialists Can Expect From ChatGPT",
+      "excerpt": "Attracting nearly 40 million users per day, ChatGPT is one of the many chatbots being utilized to provide customer service, draft copy and even assist in market research. As it continues to become more ubiquitous and the technology powering it matures, we will continue noticing several major changes in the marketing and advertising industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62cec7ed48d72a6b106829cf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/amp/",
+      "publishedDateTime": "2023-04-25T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Marketing"
       ]
     }
   ],

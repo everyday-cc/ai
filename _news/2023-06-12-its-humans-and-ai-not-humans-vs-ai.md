@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-human
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "An AI Robot Learns Recipes by Watching Human Chefs"
-    excerpt: "Your salad may be prepared by a robot chef one day. A new University of Cambridge study published in IEEE Access shows how artificial intelligence (AI) computer vision empowers a robotic chef to identify and learn new recipes by watching videos of human chefs."
-    publishedDateTime: 2023-06-08T23:33:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 74
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-06/pic726.jpg?itok=14wLmoad"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "AI News - Page 2"
     excerpt: "Qualcomm jumps on the AI train at Microsoft Build 2023, bringing AI access directly to devices running on its latest Snapdragon chip for Windows. Musk threatened to sue the company a month ago after a Microsoft advertising platform dropped support for Twitter."
     publishedDateTime: 2023-06-09T15:26:00Z

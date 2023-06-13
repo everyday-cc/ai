@@ -38,6 +38,34 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 103
+  - title: "How Forethought saves over 66% in costs for generative AI models using Amazon SageMaker"
+    excerpt: "This post is co-written with Jad Chamoun, Director of Engineering at Forethought Technologies, Inc. and Salina Wu, Senior ML Engineer at Forethought Technologies, Inc. Forethought&nbsp;is a leading generative AI suite for customer service. At the core of its suite is the innovative SupportGPT™ technology"
+    publishedDateTime: 2023-06-13T17:41:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 96
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/forethought-generative-ai-sagemaker.jpg"
+        width: 1022
+        height: 512
+        isCached: true
+  - title: "Deploy Falcon-40B with large model inference DLCs on Amazon SageMaker"
+    excerpt: "Last week, Technology Innovation Institute (TII) launched TII Falcon LLM, an open-source foundational large language model (LLM). Trained on 1 trillion tokens with Amazon SageMaker, Falcon boasts top-notch performance (#1 on the Hugging Face leaderboard at time of writing) while being comparatively lightweight"
+    publishedDateTime: 2023-06-13T16:59:56Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-falcon-40b-with-large-model-inference-dlcs-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/deploy-falcon-40b-sagemaker.jpg"
+        width: 1023
+        height: 510
+        isCached: true
   - title: "Fine-tune GPT-J using an Amazon SageMaker Hugging Face estimator and the model parallel library"
     excerpt: "GPT-J is an open-source 6-billion-parameter model released by Eleuther AI. The model is trained on the Pile and can perform various tasks in language processing. It can support a wide variety of use cases, including text classification, token classification, text generation, question and answering, entity"
     publishedDateTime: 2023-06-12T17:22:09Z

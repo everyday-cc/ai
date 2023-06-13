@@ -77,6 +77,36 @@ related:
         width: 980
         height: 536
         isCached: true
+  - title: "Meta guru says ChatGPT-style AI is out-of-date"
+    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
+    publishedDateTime: 2023-06-13T17:18:00Z
+    webUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
+        width: 2880
+        height: 1616
+        isCached: true
+  - title: "Using AI, ChatGPT to Augment the Future of Healthcare"
+    excerpt: "During a June 7 event hosted by Northwestern Engineering, AI@NU, and the Institute for Augmented Intelligence in Medicine, computer scientists and physicians presented examples of how artificial intelligence technologies can augment healthcare tasks."
+    publishedDateTime: 2023-06-13T17:15:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/06/using-ai-chatgpt-to-augment-the-future-of-healthcare/"
+    type: article
+    provider:
+      name: mccormick.northwestern.edu
+      domain: northwestern.edu
+    quality: 54
+    images:
+      - url: "https://www.mccormick.northwestern.edu/images/news/2023/06/using-ai-chatgpt-to-augment-the-future-of-healthcare-social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Samsung Electronics Supplants ChatGPT With Proprietary AI Due to Security Concerns"
     excerpt: "Samsung Electronics is moving away from the use of ChatGPT, citing security issues, and developing its in-house artificial intelligence (AI) to assist employees with tasks such as translation, knowledge search,"
     publishedDateTime: 2023-06-12T07:25:00Z
@@ -229,15 +259,6 @@ related:
       name: AZ Central
       domain: azcentral.com
     quality: 10
-  - title: "ChatGPT’s not going to take over anytime soon, says Richard White"
-    excerpt: "The “a” in AI still largely overshadows its counterpart “i” as the technology remains largely artificial and only a little bit intelligent, says the chief executive of one of Australia’s most successful technology companies."
-    publishedDateTime: 2023-06-08T23:53:00Z
-    webUrl: "https://www.dailytelegraph.com.au/business/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
-    quality: 4
 
 secured: "nWS5Zg977p6uvl6cbZfURtjO3ixX9TrDe+jDEz4llKDYIB05CnJ34YGyrT/nZQPQFufs+C5x8cc7zrSI1Y70RBoUvSSmHy9oOwZ4S/8+qfB2Tm/Mj2QiCuQn2SQ6Nls+t4NBv03vLzTNipYlLFD2Z/znJJ1/0yoJsap5J2zP9d0hu4ABV9FpKa870OXvrN/FhlCGay3CQkprA4BqZwpioUcyab2a2RqBZ+XX0cV7fjJdA46EKMDFrX8MX+hW0qZkKmePXTOP/Ore2+JPE8JTUL/UuhrdYjfXCUEBNpgcwggurLyv+/yTB7JGqWRp6yAB7dMBAHTXyRNi9p37Mm1yi/Efs66iL2uXy3s+c9JKfj0=;DrvSkCNLniBP59AxWotxFg=="
 ---

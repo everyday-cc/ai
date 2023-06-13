@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
-excerpt: "The Mark Cuban Foundation’s Artificial Intelligence Bootcamp Initiative Teaches AI Concepts to Underserved High School Students through a 4-Saturday Bootcamp in the Fall. CHICAG"
-publishedDateTime: 2023-06-06T18:46:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/06/9827727.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827727.htm"
+title: "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+excerpt: "The Mark Cuban Foundation's Artificial Intelligence Bootcamp Initiative Teaches AI Concepts to Underserved High School Students through a 4-Saturday Bootcamp in the Fall CHICAGO, June 06, 2023 (GLOBE"
+publishedDateTime: 2023-06-06T18:38:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/g32745319/chicago-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-now"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/g32745319/chicago-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-now"
+ampWebUrl: "https://www.benzinga.com/amp/content/32745319"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32745319"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "EdCFuOopf2cwrqobe9NkPHfP6Pao52bvDNxiJdrFSifbP7b/Mj2JJHVJxvEXsyh5P1evKf/3R6Lz1o+pU5U94ynlyYb6npbur1B0PoWw8BiwH0eb8gF5aWnmpMlk9Tmz5TOyHGm45VWel5YhUn6ZlD6hj6brbxSdBLKeQzr49NGOtCSaVfd5VtWO4zVl6fB5LtE3+UXPfpBXe5Jwb+T8x0MfS9r0tSna1eadZJhhJelejXS3braI5LEGKAxzIxHq0nq129E7i+lGdywxpaNiYwQkj5WE9gcJtqiTDUG54xAvLmch4AwRizS/HXhS/qWKJmRMUwwvxyZcwJCw6xmdkotYftx7oV+WYZm3Qh+55Uk=;lJUoIT4MXX9A8qyOMmzOeg=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "0NC7ak8SEF8F5C6i2fJofle4EkP7hV9Qp3qeRmdBKkdaVYaNzfLiTJ/TtXy+SfCZsoaziOD/7dv5A9DBp8vbX3XwxZZUjJ29Vfl/Aqnr2w0nlRDQnUy3MXiH3j8+kwG4ciYmaCt5K0mNjpavuLQ9pmVSOReOP7tFyLUee5XzBZ85V6d4dDx9FxDok0/ybxAoCtXEJttRtWQwenquIGIXHBeNlq23WuB0kaORcYESUe8HITlkMhsQfS1H+b+kt6wUlH29kYYo+NCufVzUe8spr2B0SOpieXHBiNypGPu/FtF8d8Y3jmfIDDI1Kb2SgRiHo+hsNGF5COzKgSy5koe6vu55d5z7wWjFWQ0f3E0N4wo=;C6EPjfAvVnMuik26bZGDbw=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 566
         height: 377
         isCached: true
-  - title: "Mark Zuckerberg lays out Meta’s grand ambitions for generative AI"
-    excerpt: "In a meeting today with employees at the company’s headquarters in Menlo Park, California, Meta Chief Executive Mark Zuckerberg insisted AI is the company’s main priority going forward. The company is looking to incorporate cutting-edge AI technologies into both its existing platforms — Facebook,"
-    publishedDateTime: 2023-06-09T00:30:00Z
-    webUrl: "https://siliconangle.com/2023/06/08/mark-zuckerberg-lays-metas-grand-ambitions-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/47774197691_ef179b2c80_c-768x513.jpg"
-        width: 768
-        height: 513
-        isCached: true
 
 secured: "w1/coEWiUUNx74nFJ4GX2/5htIIDjRC8RGw9MMD0hP+RuWELqb0EXYwfDxZDAYg4SwBSmegvclnvN/ONzbXNptz/AFcqeNWxKfyh441z7pSZxi83Oh2rbfpDnL+ASytLuyfMcv4qC6/Azg6ORfNZku14qPv7LOcg37r86tqHRL69d4ffQXgrsrHXDCIsWgFqhkdHM+1Q6MBfnVhWW2FEE3gp621lfnRwyC/Q4H/gHscMs44njEr5nTyCWDtdrGyNr1beDdnw7e11vNyzdGy8ntUOdfSwF37v3WwbeMrTQ/7dCxy/R+tEruXtSG2zuokvQknRozVuAJKM82t/ifoRfyIuXiGRnhP2AwYNyPGMRmx0jfXRi10yC/OVrsSMlaKUA224vHvJRyIepGwr6HOs+5Cgm3EcYQifNKViRoBp+Y5y8OUDiPp1LXjDivUtCRIBxOk/1SInpL/31G0CWdFS3NVrQOYI43DI2924mT/GdNrASHRfaS+aZ12l7fcFpbUnAIxS09FXtygbrwLhykzDSw==;gPZy2Yc2CpLZt4QqDITEAQ=="
 ---

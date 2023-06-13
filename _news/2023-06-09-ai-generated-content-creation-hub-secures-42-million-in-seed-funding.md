@@ -7,7 +7,7 @@ originalUrl: "https://www.businessobserverfl.com/news/2023/jun/09/ai-generated-c
 webUrl: "https://www.businessobserverfl.com/news/2023/jun/09/ai-generated-content-creation-hub-seed-funding/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI startup Synthesia just raised $90 million in fresh funds from US fund Accel and Nvidia at a $1 billion valuation"
+    excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Generative AI startup Synthesia has raised $90 million in new funding at a unicorn valuation. The London-based company, founded in 2017, focuses on video production ..."
+    publishedDateTime: 2023-06-13T16:50:00Z
+    webUrl: "https://www.businessinsider.com/synthesia-generative-ai-startup-raises-90m-at-unicorn-valuation-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/648899dbd4e551001974dc62?width=1200&format=jpeg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Energy Generation Forecasting DeepTech Startup Solarad.ai Raises Undisclosed Funding from India Quotient"
     excerpt: "Solarad.ai, a pioneer in energy forecasting for solar, Secures Undisclosed Amount of Funding in Seed Round to Accelerate Growth from India Quotient."
     publishedDateTime: 2023-06-13T08:13:00Z

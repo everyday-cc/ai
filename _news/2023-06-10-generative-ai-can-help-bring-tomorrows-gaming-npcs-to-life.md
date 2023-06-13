@@ -44,6 +44,20 @@ related:
         width: 853
         height: 568
         isCached: true
+  - title: "Reinventing the data experience: Use generative AI and modern data architecture to unlock insights"
+    excerpt: "Implementing a modern data architecture provides a scalable method to integrate data from disparate sources. By organizing data by business domains instead of infrastructure, each domain can choose tools that suit their needs. Organizations can maximize the value of their modern data architecture with"
+    publishedDateTime: 2023-06-13T17:18:47Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 75
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/generative-ai-modern-data-architecture.jpg"
+        width: 1021
+        height: 510
+        isCached: true
   - title: "Artificial Intelligence can help with hearing loss"
     excerpt: "McDonaldHearingServices.com For more information about the services McDonald Hearing Services offers, click here. Copyright 2023 Nexstar Media Inc. All rights reserved. This material may not be published,"
     publishedDateTime: 2023-06-13T14:57:00Z

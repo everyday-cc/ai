@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-chat-with-chatgpt-ri
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/"
 type: article
 quality: 87
-heat: 247
+heat: 257
 published: true
 
 provider:
@@ -75,6 +75,36 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Samsung-AI.png"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Meta guru says ChatGPT-style AI is out-of-date"
+    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
+    publishedDateTime: 2023-06-13T17:18:00Z
+    webUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
+        width: 2880
+        height: 1616
+        isCached: true
+  - title: "Using AI, ChatGPT to Augment the Future of Healthcare"
+    excerpt: "During a June 7 event hosted by Northwestern Engineering, AI@NU, and the Institute for Augmented Intelligence in Medicine, computer scientists and physicians presented examples of how artificial intelligence technologies can augment healthcare tasks."
+    publishedDateTime: 2023-06-13T17:15:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/06/using-ai-chatgpt-to-augment-the-future-of-healthcare/"
+    type: article
+    provider:
+      name: mccormick.northwestern.edu
+      domain: northwestern.edu
+    quality: 54
+    images:
+      - url: "https://www.mccormick.northwestern.edu/images/news/2023/06/using-ai-chatgpt-to-augment-the-future-of-healthcare-social.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Samsung Electronics Supplants ChatGPT With Proprietary AI Due to Security Concerns"
     excerpt: "Samsung Electronics is moving away from the use of ChatGPT, citing security issues, and developing its in-house artificial intelligence (AI) to assist employees with tasks such as translation, knowledge search,"
@@ -228,15 +258,6 @@ related:
       name: AZ Central
       domain: azcentral.com
     quality: 10
-  - title: "ChatGPT’s not going to take over anytime soon, says Richard White"
-    excerpt: "The “a” in AI still largely overshadows its counterpart “i” as the technology remains largely artificial and only a little bit intelligent, says the chief executive of one of Australia’s most successful technology companies."
-    publishedDateTime: 2023-06-08T23:53:00Z
-    webUrl: "https://www.dailytelegraph.com.au/business/chatgpts-not-going-to-take-over-anytime-soon-says-richard-white/news-story/fc5ec14547b3ffe7f6816204e06d4efe"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
-    quality: 4
 
 secured: "lgFKRK5JezGxYy41NhVP+IOfmG3F6jMELfHrlkcdrNX/g6hnxizo1WOxSbezKn585h4+ZsgQxOD1cAB+Iz5eeAlgCIUPfPDq/PBm7gAOvMLglrw81v52Por+BaycHFj1ZzJGkUy+LdE0f52ZWvdQvgynYdCyb4c8puRHSB5dAO58nA6YtHj6iBb8gDGx2E75P52y7JG1omUS3OrK3ky2PU1/Bh6vRYoWTdm3qc1I6t243oFJMLTNpA445HWD3VTYmNbzCvKeQlsdfnK+4BCREev4NXhbcJBpS6jLCIlIOv3RBUEAEtW+UjOsdbk3lDL5hnsc7OuUcdsbam8LdA3aZ63ZrWfmL8gEHirAdcwsYsBgV+UhGTsO7w6kq2/HZKx1snmdDZpQu0sMdkYXGCiPeqXIWfPBhyhCBCibX5s0FP1IsK6Ym6bVtLk8SdeOhwPB5j0rtduglFnpiI+bPHOQQLFIqBorh0mL0IP+mw0tpy/QbyZoQTjw/Ee2AooBWjGZCOs8tda4BAaIm9L9E0bS4Q==;seXIC+H9ORuPaqE2a8hTRA=="
 ---

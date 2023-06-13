@@ -47,6 +47,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Accenture to Invest $3B in AI to Accelerate Clients’ Reinvention"
+    excerpt: "Accenture today announced a $3 billion investment over three years in its Data & AI practice to help clients across all"
+    publishedDateTime: 2023-06-13T16:17:00Z
+    webUrl: "https://www.datanami.com/this-just-in/accenture-to-invest-3b-in-ai-to-accelerate-clients-reinvention/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
 secured: "B2zLWEERaXwm0oGk4n7BwRsDO/fr0CXd8hz5KOrIihORTEMa/+W2UUxnKjBPLEj0b3BFpl6V46LjQWALOsl38K8WIaFD3dVs8m5HgQYrpPCdpshamOefHtnwvs7HkTQk79tvXeES5tCpQu6KlnWRycxaIAZMpnqdnX+svSEQaOeFTyjJADcRD4wWG4y+GziAZsq4+v/ysbkYl1KPGHm+dpya/r2TaZl+vwop0/tMMaFdlFCJ0ZJiK7bnu7HfL7gRJWYF+Me9gEq7VKHFMpCzLOPMJKhPFNzY4nyaesnWX8hGZd4Ji/JD94Rc5P0kwLCMXKLc0a5yB671HaAyp8upGiiLAv9uQ+TuRW0rN6agPcPFrFqtLdClLlQAl4TyPAQ9PLexFc44rVj5KlPTS6NmfNWKW+aK4iXbQ9+FNBbq5jxlkEj7XnoiZGUGh7r2t6c2zvKGQ90IdoyQNYdhOSHW4bxaOanDDr/W2CGItx3mdx3j6ndLgx7HoX+uWqKv+5QoJp7eQ8wyM8n3iU5hKe9ANA==;WePMbcADIEc57yQYdShtqg=="
 ---

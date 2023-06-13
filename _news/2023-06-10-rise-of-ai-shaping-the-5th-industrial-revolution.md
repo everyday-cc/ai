@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 773
         isCached: true
+  - title: "Revolutionizing Business With AI: Real-World Examples Of Transformative Impact"
+    excerpt: "Using Azure Machine Learning and the Responsible AI dashboard, the team works to produce results that are meaningful, fair, and easily explainable. Their work is helping patients make informed surgical decisions, and it’s helping the Trust place surgical ..."
+    publishedDateTime: 2023-06-13T16:15:00Z
+    webUrl: "https://www.forbes.com/sites/microsoft_/2023/06/13/revolutionizing-business-with-ai-real-world-examples-of-transformative-impact/"
+    ampWebUrl: "https://www.forbes.com/sites/microsoft_/2023/06/13/revolutionizing-business-with-ai-real-world-examples-of-transformative-impact/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/microsoft_/2023/06/13/revolutionizing-business-with-ai-real-world-examples-of-transformative-impact/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64887c06f74ce54eecf4b945/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "9293EWo0u/shADqHu9Ab0Ymx0i3c5cYP7RGyvV3rUtcvgzg++PO8t7SCkUnHyUEXwmlUHOpnDlcVj1N1JWAYW3Jr1vAJkP+0vSAliRxNSdj9krRYrAEZIVQ0+hAUa7ddkOYwghMI+sfFLSXBJUyQCsmBFlA7aKBnK10x6VqBPlnw8qlM6zBc/eGRn+JcAvlUgU86YhogyGB0w50DgkGmuWQK7u2s2uB4C6pYTbO7N1qH+ARopZFQr+1Jg0tIYgmZZaefnnPfH2QTXeYxTjbEKb/lS78/5BqwDkZij8FXBvwSFyYPqqfZnvTEEj6nBTxiz+YwN0CYKLe+H+8bmR8zQkbf8KU+OaLL9lHcVSO59lo=;NzdsdRWeF2UDvlRd0SrOMg=="
 ---

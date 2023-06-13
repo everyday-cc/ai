@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "An AI Robot Learns Recipes by Watching Human Chefs"
-    excerpt: "Your salad may be prepared by a robot chef one day. A new University of Cambridge study published in IEEE Access shows how artificial intelligence (AI) computer vision empowers a robotic chef to identify and learn new recipes by watching videos of human chefs."
-    publishedDateTime: 2023-06-08T23:33:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202306/an-ai-robot-learns-recipes-by-watching-human-chefs?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 74
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-06/pic726.jpg?itok=14wLmoad"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Google’s CEO Talks AI, Jobs and More"
     excerpt: "Bloomberg Chief Washington Correspondent Joe Mathieu delivers insight and analysis on the latest headlines from the White House and Capitol Hill, including conversations with influential lawmakers and key figures in politics and policy."
     publishedDateTime: 2023-06-12T16:50:00Z

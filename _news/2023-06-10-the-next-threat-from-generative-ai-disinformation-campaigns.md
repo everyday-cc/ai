@@ -32,14 +32,21 @@ images:
 
 related:
   - title: "UN chief calls for coordinated global action on disinformation, hate and artificial intelligence"
-    excerpt: "The United Nations chief says the proliferation of hate and lies on digital platforms and the threat that artificial intelligence can become an uncontrolled “monster” demand coordinated global action."
-    publishedDateTime: 2023-06-12T21:47:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation/un-chief-calls-for-coordinated-global-action-on-disinformation-hate-and-artificial-intelligence/"
+    excerpt: "The United Nations chief says the proliferation of hate and lies on digital platforms and the threat that artificial intelligence can become an uncontrolled “monster” demand coordinated global action"
+    publishedDateTime: 2023-06-12T22:01:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 4
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "OlI8ulCmPztRv2jEBw5UNUtL3NYkdqFVJ+JzMcn5SpG/7b0bTFlRRaYh4bjPtsQqLhpcHolvOP+8Xy2QnwYbJt2CDG8ovnrtD3NhCRmWTotAF2IqV30dbYn4ZQKPdZMSpQiEDiBCALJ8V+buHGKfTzvR90rvThAIqXpWRjsU/EO992HicLC0uHSPogktcoLN8X+qDEprECJFJRW0gxtIAnUFZj/S0rsp49DdEqfir+Wpsxvgt8Rp+HJka62YRuqQks6K0RHHF9d/RQG19edkRSTL/I1NaaoCf/sxrrHlcp2xfIcmU7bRQBhojRhm701zned6S7ZDfksg/o6teNJt1JzWdse6pJ68E33cjlSlQzIIDuOObCgkZFprKNfDckjGR7EnVFwSOq2an2U+3oPP0uzxn4MEWeU1LRdOMsoHJFgRcmYjHSbz+4hBV0YnppFTrrha7SnF7Gya+rJ6AGZovs70NiaKQqw1IGW1VJjO2rBYH6TiwHcYl7sg3/zyU5dKhfQfqZoo2nsjcv8Az80Jnw==;ej5ZG8MwDRTAYsl5tgi4Xw=="
 ---

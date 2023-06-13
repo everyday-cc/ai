@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 923
         isCached: true
+  - title: "Amazon experiments with using AI to sum up product reviews"
+    excerpt: "Amazon is experimenting with using artificial intelligence to sum up customer feedback about products on the site, with the potential to cut down on the time shoppers spend sifting through reviews before making a purchase."
+    publishedDateTime: 2023-06-13T17:38:00Z
+    webUrl: "https://www.cnn.com/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/221025100312-amazon-online-shopping-stock.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Navigating through the ethos and sophistication of Generative AI"
     excerpt: "Generative AI has been the underpinning and steering factor as AI advances from auto-pilot mode to co-pilot mode. Now the new course—of fairness, equity, bias-free development, and deployment—will req"
     publishedDateTime: 2023-06-13T09:31:00Z

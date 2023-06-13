@@ -1,21 +1,29 @@
 ---
 category: news
 title: "UN chief calls for coordinated global action on disinformation, hate and artificial intelligence"
-excerpt: "The United Nations chief says the proliferation of hate and lies on digital platforms and the threat that artificial intelligence can become an uncontrolled “monster” demand coordinated global action."
-publishedDateTime: 2023-06-12T21:47:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/nation/un-chief-calls-for-coordinated-global-action-on-disinformation-hate-and-artificial-intelligence/"
-webUrl: "https://www.seattletimes.com/nation-world/nation/un-chief-calls-for-coordinated-global-action-on-disinformation-hate-and-artificial-intelligence/"
+excerpt: "The United Nations chief says the proliferation of hate and lies on digital platforms and the threat that artificial intelligence can become an uncontrolled “monster” demand coordinated global action"
+publishedDateTime: 2023-06-12T22:01:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
+webUrl: "https://abcnews.go.com/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "The Next Threat From Generative AI: Disinformation Campaigns"
@@ -35,6 +43,6 @@ related:
         height: 675
         isCached: true
 
-secured: "mdvimYSxkUeEvwq+IzG85cGmu4Rn0mvrA2JwWan61c2uo4Bq02JDl0gVMJM5ThFLCDV4sEvW0bKfa0ZucGcy7ohc/9KYLoLL6P7Ow2uLj0IYjM2fgj7QEKWYuVNQrAJGZ+0R3rlj+a2XRapyvOAxKmEmmaQVvNpiOcv7HemxpqzQ/1bJyf2IVpqnAnyRZUG80j0a6RaJp1hzHL5qhalich4vOcpgQTgcmgUoqKkhp+2IHda5EGDIjE420DSsEJKYiwlYrhg9LRX5XDjJWb78EJMzZR2CYr82PX2tBrlnE+lLjX8WqM63WdBMy8jjFn4vNhLtD3Ixm7BPtm8VYw0b32ToxDD1SZYXGn3byHXxX6WbnWuwUUiZZzYLv1eyTfFnA+sn78ptsVeUyTqBjC5rfH+zT3DU8wHnpKwHEckJmjpJVKbd86jZcCTUeDa4AtdkwFRrXEAQvvG/Oc6sOOL4E10WU7Vsn03uZMaJgAR+8dZuGmQYagUbq04TgOIvtYYqGe/DQQdBSslxQXb/5dvzKA==;jVC+bv38RPpQrhsSdha+6g=="
+secured: "1yZ0EjiV7hex48zo7fZP7sf2R12dWKb3I67LtRyK4lTsH/q6IfaC72CLMxyYi0F6Xra1kdWb5XUInyysZ0V4ehWlCXQ5Ac2/fJLnYBIiwtdVblrL6ZRpgQl8/mmJcuDQq/P9VZhRu0AFKSxItMDiegsH4CNtr2fyp4zuPUnKaTGE88Yp9qi920MkgGkn2VhNKD/jIReCumN3sWLDd+iKRpbjLZCqNYxD3zszoR7PXVxd6WontkrbL5tfbyjHKBRr5eD6lb8o2aP31kfXpxClMJZ3IUEZw8LSMJf2Elymn4gkkrPZmnTIeyDLrUc++S1ryWHftH72jkg8jxIiuqZiVMvRv7W51HiM0dKgiANSE+o=;z/UC7oCui+C3ixr52/kERQ=="
 ---
 

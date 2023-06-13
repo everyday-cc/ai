@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Global Composite AI Market Report 2023: Growing Intricacy of AI Applications for Better Performance and Accuracy Drives Growth"
-excerpt: "Technique (Data Processing, Pattern Recognition), Application (Product Design & Development, Customer Service), Vertical and Region - Global Forecast to 2028\" report has been added"
-publishedDateTime: 2023-06-13T14:17:00Z
-originalUrl: "https://www.cmswire.com/the-wire/global-composite-ai-market-report-2023-growing-intricacy-of-ai-applications-for-better-performance-and-accuracy-drives-growth/"
-webUrl: "https://www.cmswire.com/the-wire/global-composite-ai-market-report-2023-growing-intricacy-of-ai-applications-for-better-performance-and-accuracy-drives-growth/"
+excerpt: "The composite AI market is estimated to grow from USD 0.9 billion in 2023 to USD 4.4 billion by 2028, at a CAGR of 36.5% during the forecast period."
+publishedDateTime: 2023-06-13T01:29:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32828651/global-composite-ai-market-report-2023-growing-intricacy-of-ai-applications-for-better-performance"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32828651/global-composite-ai-market-report-2023-growing-intricacy-of-ai-applications-for-better-performance"
+ampWebUrl: "https://www.benzinga.com/amp/content/32828651"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32828651"
 type: article
-quality: 0
-heat: -1
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: CMS Wire
-  domain: cmswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Breakthrough AI Research by Lunit Presented at CVPR 2023: Transforming Pathology with Computer Vision for Medical Applications"
@@ -33,7 +41,16 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Artificial Intelligence (AI) in MRI Global Market Report 2023: Sector to Reach $1.53 Billion by 2028 at a 35.7% CAGR"
+    excerpt: "The artificial intelligence in MRI market is projected to grow at a CAGR of 35.7% to reach US$1,539.622 million in 2028 from US$181.720 million in 2021. Artificial Intelligence (AI) is increasingly used in Magnetic Resonance Imaging (MRI) to improve image quality,"
+    publishedDateTime: 2023-06-09T16:39:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/09/9830077.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
-secured: "WCgn7CIB84+TUnlRFcGhm3jX72LGpnymQrh6h5mIzQFbaoCLYwEjKnYy2F76OiTQCGcLZh7GRPGzQg6evM8wsld0FNpPUeBn9AmpLmRB4tjzqmD1iKcnnbXHA91FTpk7U5rgUgjnzdTIHiCfnMvHacjIYpn/GKjbKPjY16SRRtqOiDHWa6mPdbwN8bvRyV7Tz6rwu6S8NtV7jeLUsUUoQsA5jWyQUg585CShaIg3pBq+R4ZTSx+hjMzrfhlEDXEJZL6WGKoOZqI2nxVlq+poiIep9/necVhXoESzCQ9Lyvd+2bvAtSmzmq+5BQ3pkAKuf/PHvx43s+zMlBuzKcOkUpzhbUbCU9fyHJWNbu5YKB0=;fNPEb6z47on506Pjv9hPpA=="
+secured: "GvA9vg+fCH5hACvv1qTdufCdBRGxP4Tkkxlx+tZoUuiY64gscVOOVeLkNn9FsmsMVD4+73D/Aeybo38cfuEusYhOeFjb++R0jZ/Z83/UCi+1tZoOX2TbUC3KL0ocvTLuAUFzIsmPXHApoqEssfBHuhCdRPq5GVV7s5OAdGi0KyP1ZqTFGZGq1gz78AmBg63Joij+pKPcTD10yvhW8U2Eczd9z+bdtx1+1euPmSddt3gxNvCfjtV5HPbFmm/1YQyieNElJQ+1Lr8TFw+7fGTe6OgXVV+PCrQHo/w6DMvd3n/gCQ8Rg+Jlp6elOAPTqG0D2rbwNdRml9ZNZDnPjxbeO7y5K54zaLYTXkK3tetz2WA=;iRS5q97bl+ziNs2LPo18HA=="
 ---
 

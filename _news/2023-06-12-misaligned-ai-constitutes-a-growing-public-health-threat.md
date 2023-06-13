@@ -7,7 +7,7 @@ originalUrl: "https://www.bmj.com/content/381/bmj.p1340"
 webUrl: "https://www.bmj.com/content/381/bmj.p1340"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 2480
     height: 3425
     isCached: true
+
+related:
+  - title: "Health Care Embraces AI"
+    excerpt: "“We believe that this is not right for health care generally and ABA specifically, but instead espouse to create ‘human-in-the-loop’ products that leverage artificial intelligence as an aid, not a replacement.” Adu said that because SpectrumAi ..."
+    publishedDateTime: 2023-06-12T07:04:00Z
+    webUrl: "https://labusinessjournal.com/special-reports/health-care-embraces-ai/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 39
+    images:
+      - url: "https://images.labusinessjournal.com/wp-content/uploads/2023/06/SR_DEEP6-AI_Study-Detail-Dashboard_0612-1024x671.png"
+        width: 1024
+        height: 671
+        isCached: true
+  - title: "How new AI tools for doctors could worsen racial bias in healthcare"
+    excerpt: "Silicon Valley thinks it can eliminate this time crunch with—like everything it pitches these days—artificial intelligence ... Doximity is just one of many new AI ventures into healthcare. In April, Epic, a healthcare company that develops machine ..."
+    publishedDateTime: 2023-06-12T13:25:00Z
+    webUrl: "https://www.dailydot.com/debug/docs-gpt-doximity-ai-healthcare/"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 36
+  - title: "Molina Healthcare and Partners Share Results of Obstetrics Health Care Model Incorporating Artificial Intelligence"
+    excerpt: "Molina Healthcare, Inc. (\"Molina\") recently shared some notable results of a groundbreaking health care model that uses artificial intelligence (AI) to impact the full cycle of obstetrical care, from early pregnancy detection to post-NICU community-based care management."
+    publishedDateTime: 2023-06-13T13:42:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831670.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "CJ+yfD1xICGRSHxYlCGirAonuIa+T1xy1QugkqDtZWNbe1J3V00AlmMdDtaqDerlpIKKlpg+gWoY4qPEE3KFSwQEBeMippntNwa5U/AEP23CxzMFKHuMVBLv5H1nm7V/Qyklve4GM9xGkrDPsKQK4bH4Q6lWXv17UH1l6FSp0FbZmgupRFvq862QYP5it/scSeeUgHFzsqet8YkAcvxq6Ph/RekSJsf4e7FFvU0i+HAS/feVFEH+8XBfZ6Z4OjjrtF+xznW3sMjWTqf8+knfVitAYMWtOwajyfhZwWwZ/fy0sWXXFwGPwcLcibNOoc2z9+UDCgVY5j5g/6bSEUOvHkVtBtHjY0DoU2TMm4fRbPo=;QbaCldCvCWgpWtTMYBEtwQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-bill
 webUrl: "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -51,7 +51,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Accenture to Invest $3B in AI to Accelerate Clients’ Reinvention"
+    excerpt: "Accenture today announced a $3 billion investment over three years in its Data & AI practice to help clients across all"
+    publishedDateTime: 2023-06-13T16:17:00Z
+    webUrl: "https://www.datanami.com/this-just-in/accenture-to-invest-3b-in-ai-to-accelerate-clients-reinvention/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
-secured: "EA2P0YFlsA1Tw007ihqtnkA5h0gN3rgTzVo4hDgKQC2ApmB0IcN1dcEzqCUdNQC76WFs+aZzxfjkM2d007bxVC2jrH+1um+cvh7/PFIc9FdGCjpxoBZxombBdDHNOI6DAPmu/ankko8N2esNiCmw7hV/nOxtzIOgCOHw5mrn7QD/zuhzW9acLOfTYFl9an5FxRdCHlxRTYJQy1bu2DouQNnM0KNAl+NB3vANkmBPFHSc1H8mwp/FfkqTiI9QizMav62vGh7YFq4IQHS2NSxUHKtjz4J4OvGyxsfBxknSg4gxHJo38xskkbmt1uCOu7uEvECLYvzxgL4qwLNQkwFasHzFSHbpn0+QEYiHzKg6HUs=;QfSOpmwr4BcLWpL97wckDA=="
+secured: "ztmmDxlH45Fq/MlgwHrpxgOWbjIPwOc2yHfG50ymilV31j8rX754oEtJSgOxvgVeqVdbfyh9Q1D2bdS476dWeI45E51/qwhUKH/PSDRduH9nXMmY0EMCC/oMXxX5vEPNE4ZdrWOhN3XhQQmLWUyOlhrvkeN8ybAbRzUY6IzmP61SoD6Wc5X4mauqAkmG3o1K/siBpfQVNCZZ599SZqcKB6rETI2Pqf9dqnNClLM8JiBbFl//y11Z5EqQRSwdu2QOxdjyz7DT3kkh/sAzkwmlxLT6sB+HYPBgmntdNxX8XNVQzL9ay0I7BClstMDHDVxiTPLPcu0sYNNC/mXj3NiQJt5WBwS7aTz/vMRwihz4O95Z9FudDONy7oPywqZMk0thooA6FLw08aRT0hSOWNH1mLWqc9wuVlSdB2WtIGgT2/HgrsnL32wNM1aepgj6//ayE8LMIUMR+I16at7G18aGqimrp1bddFv5d2xDp04+5DVb1RAgHDAhlMAGGce1Rnsr2Jq4s2mey7J+h/OEUXrEbw==;XdT6jqQm7JSkNUgnvxX+dg=="
 ---
 

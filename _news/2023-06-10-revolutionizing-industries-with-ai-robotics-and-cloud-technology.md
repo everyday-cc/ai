@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 773
         isCached: true
+  - title: "Revolutionizing Business With AI: Real-World Examples Of Transformative Impact"
+    excerpt: "Using Azure Machine Learning and the Responsible AI dashboard, the team works to produce results that are meaningful, fair, and easily explainable. Their work is helping patients make informed surgical decisions, and it’s helping the Trust place surgical ..."
+    publishedDateTime: 2023-06-13T16:15:00Z
+    webUrl: "https://www.forbes.com/sites/microsoft_/2023/06/13/revolutionizing-business-with-ai-real-world-examples-of-transformative-impact/"
+    ampWebUrl: "https://www.forbes.com/sites/microsoft_/2023/06/13/revolutionizing-business-with-ai-real-world-examples-of-transformative-impact/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/microsoft_/2023/06/13/revolutionizing-business-with-ai-real-world-examples-of-transformative-impact/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64887c06f74ce54eecf4b945/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Rise of AI: shaping the 5th Industrial Revolution"
     excerpt: "This is how AI has the potential to break through new revolution on our tiny planet. Language evolution is attributed to humans’ competent mindset. In the last thousand years, humans have taken pride in their linguistic viability."
     publishedDateTime: 2023-06-10T04:48:00Z

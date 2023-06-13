@@ -50,6 +50,20 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "AI-Generated Video Platform Synthesia Receives Nvidia Backing At Unicorn Valuation"
+    excerpt: "Synthesia is the latest AI startup to raise a big round and hit a $1 billion valuation after a $90 million Series C."
+    publishedDateTime: 2023-06-13T17:36:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/synthesia-artificial-intelligence-nvidia-unicorn/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 35
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Unicorn.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Artificial Intelligence Office organises AI-Enabled Entrepreneurs conference in collaboration with NVIDIA"
     excerpt: "The conference aimed to introduce the latest innovations and developments in the fields of Generative Artificial Intelligence, Metaverses and robotics, and highlight the \"NVIDIA Inception\" programme. The conference further celebrated the success stories of ..."
     publishedDateTime: 2023-06-11T15:48:00Z

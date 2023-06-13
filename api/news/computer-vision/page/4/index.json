@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-28-if-big-data-is-the-immovable-object-enterprise-search-is-the-unstoppable-force.md",
+      "title": "If Big Data Is the Immovable Object, Enterprise Search Is the Unstoppable Force",
+      "excerpt": "In this special guest feature, Elizabeth, Director of Sales at dtSearch Corp., asks 'How do you approach Big Data?' You could try to organize the heck out of it if you have all of the time in the world and your data isn’t constantly changing.",
+      "sourceUrl": null,
+      "webUrl": "https://insidebigdata.com/2023/04/28/if-big-data-is-the-immovable-object-enterprise-search-is-the-unstoppable-force/",
+      "originalUrl": "https://insidebigdata.com/2023/04/28/if-big-data-is-the-immovable-object-enterprise-search-is-the-unstoppable-force/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2022/03/Dell-IBD-Tech-Guide-Government-Cover-Image.png",
+          "width": 1577,
+          "height": 2060,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-ballooning-ai-driven-facial-recognition-industry-sparks-concern-over-bias-privacy-you-are-being-identified.md",
       "title": "Ballooning AI-driven facial recognition industry sparks concern over bias, privacy: ‘You are being identified'",
       "excerpt": "A significant expansion in Artificial intelligence (AI) facial recognition technology is increasingly being deployed to catch criminals, but experts express concern about the impact on personal ...",
@@ -1356,49 +1399,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-bologna-fc-1909-becomes-the-first-club-to-use-opta-vision-stats-performs-new-ai-enriched-positional-analysis-data.md",
-      "title": "Bologna FC 1909 becomes the first club to use Opta Vision, Stats Perform's new AI-enriched positional analysis data",
-      "excerpt": "Leveraging the richest sports database, Stats Perform enhances sports competition and entertainment through machine learning and computer vision to create advanced predictions and analysis – be that for digital and broadcast media with differentiated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31882980/bologna-fc-1909-becomes-the-first-club-to-use-opta-vision-stats-performs-new-ai-enriched-positiona",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31882980/bologna-fc-1909-becomes-the-first-club-to-use-opta-vision-stats-performs-new-ai-enriched-positiona",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
