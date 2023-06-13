@@ -2,9 +2,9 @@
 category: news
 title: "A Cheat Sheet to AI Buzzwords and Their Meanings"
 excerpt: "The arrival in late 2022 of the ChatGPT chatbot represented a milestone in artificial intelligence that took decades to reach. Scientists were experimenting with “computer vision” and giving machines the ability to “read” as far back as the 1960s."
-publishedDateTime: 2023-06-09T10:08:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/c8cabde0-06d7-11ee-b74a-5bdd335d4fa2_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/c8cabde0-06d7-11ee-b74a-5bdd335d4fa2_story.html"
+publishedDateTime: 2023-06-09T07:05:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/a45f368e-06be-11ee-b74a-5bdd335d4fa2_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/06/09/what-s-generative-ai-what-s-machine-learning-an-ai-cheat-sheet/a45f368e-06be-11ee-b74a-5bdd335d4fa2_story.html"
 type: article
 quality: 39
 heat: 39
@@ -49,6 +49,6 @@ related:
       domain: analyticsindiamag.com
     quality: 36
 
-secured: "vHFJOjjVUxzw8e3E7Cm9Hzf9sagilNkL7H7kmxOzPDElc6L/fHI3LznZ129TCVTPexSFKx7KGU0j9Nrl2TafKEpoNwdfVZvPirVp3bvJ0ZNTSiSpVBnvmW9+NB0bHyslhAoUi+Pt6/HcXTkee4mWM8gKahBfZBCEww4NoggJrHq6g5pFO7yFOSk728XtHE2fQvD6UddsuEXYbh8nG4RlcsMo1DHjvCea5L6iaz1tCFy4p7an8klly8t0WGdrwHmr79bKd9miuyhtBlJhrHiQwL2s0woaUGWvtrOiXgV6F+sWurvh7ATgNpRnaPZx5y2+NiKgemj6NnLiDyi16pToEko4Chf6IZmTR7j47q90qdo=;931QHzXK6r63w6RLfeU/jA=="
+secured: "/0d1mYxODu4J3VIAOTtkrnUFMY2T1mEH0e8oMZmgLxiQixWE2iXxWtZrZxC6bju9ij+H7uf816mH63D7h0evtFrZsefaIGZh1Sy2DiNA0yJz7zaPeGABnyEo+d7Mn9iqXGcymD//DwaQZVDAhNFkoPPurb5EPxTs5vCaIqgHL1dqfNUOFvW+aC/Tc6uFhU65/u964hTtHMSDRldzkKLyleMSBp81svqdMOxTgB9VMjggSs3yF6aP0+c3o8MOU0HsNbvjtfhqrdGVos9WzOXLI22PSWG0UdySo7wqshFuzuOCTOEoNqB5N7fYZx8clHky/1UEfhTvP/0Wk6VvCDFDrWoqHauyT/+n+xBZDmqAKz4=;yQOQTkfh5fyGXUPBKUDAdg=="
 ---
 

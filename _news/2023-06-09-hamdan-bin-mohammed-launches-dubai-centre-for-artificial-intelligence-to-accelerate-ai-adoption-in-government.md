@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence to accelerate AI adoption in government"
-    excerpt: "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Chairman of The Executive Council of Dubai and Chairman of the Board of Trustees of the Dubai Future Foundation, t"
-    publishedDateTime: 2023-06-08T14:33:00Z
-    webUrl: "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890"
-    ampWebUrl: "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout"
-    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout"
-    type: article
-    provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 55
-    images:
-      - url: "https://www.emirates247.com/polopoly_fs/1.712892.1686234760!/image/image.jpg"
-        width: 2048
-        height: 1362
-        isCached: true
   - title: "Sheikh Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence"
     excerpt: "The Dubai Centre for AI aims to train 1,000 government employees from over 30 government entities on the uses of generative artificial intelligence"
     publishedDateTime: 2023-06-09T04:00:00Z

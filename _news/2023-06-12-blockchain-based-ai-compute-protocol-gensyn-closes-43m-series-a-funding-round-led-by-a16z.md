@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coindesk.com/business/2023/06/11/blockchain-based-ai-com
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/06/11/blockchain-based-ai-compute-protocol-gensyn-closes-43m-series-a-funding-round-led-by-a16z/?outputType=amp"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "ONSCHAIN: The World’s First Blockchain Created by Chat-GPT4 and Managed by Artificial Intelligence"
+    excerpt: "ONSCHAIN is the world's first blockchain created and managed by AI, specifically OpenAI's Chat-GPT4, combining the power of artificial intelligence and blockchain technology to create a decentralized, secure, and transparent system that promises ..."
+    publishedDateTime: 2023-06-13T07:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/onschain-the-world-s-first-blockchain-created-by-chat-gpt4-and-managed-by-artificial-intelligence-1032384745"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/P12FFoKgxlTVtIq8T95FBvfJ1vC3/1686585526566-0.jpg"
+        width: 643
+        height: 321
+        isCached: true
   - title: "Converging Generative AI With Blockchain Technology"
     excerpt: "The transformative impact of technologies such as blockchain and generative artificial intelligence (AI) can be seen in almost every aspect of business and our lives."
     publishedDateTime: 2023-06-12T13:00:00Z

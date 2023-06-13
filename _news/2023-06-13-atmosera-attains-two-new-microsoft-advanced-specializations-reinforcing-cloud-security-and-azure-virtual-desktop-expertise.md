@@ -65,15 +65,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Satori's Data Security Platform is Selected for the Microsoft Pegasus Program and is Available in the Azure Marketplace"
-    excerpt: "Satori’s continued product innovation and customizable data security platform is recognized by its inclusion in the Microsoft for Startups Pegasus Program, an invite-only program that connects growth-stage startups to thousands of Microsoft’s top customers."
-    publishedDateTime: 2023-06-08T13:08:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/08/9829283.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 42
 
 secured: "xZnqC8xSIfVDTvcqyEg2GY2a6icuspbhkwVHyUiqG/mkE7A3Xl05A5nXO87kGzS2wvoGoPKcF+++7se27EA2G/gzyD6w+8c81juxSmnD/OB/b6ttcFpImlS56TzjukHX4mTSSRMC4OGJNbfItH42SyvDVHpJsPqIvR3jvyFbePONcsdF/uNyN3qe3PUdkHxXIkL2yeW3yZc9Ng3Pijb6tWfY/TbKP/hJ7jMqkxOJd0grxsCLA+WNBqA34AkckeK+cOyO9eR4KQvW0gSEDGJh+5bW3WA4Dzdj0sT8mWnIbtIWaCERGBe4Yj1HCqRrFh/VOZyL+IF3yyngoC3uNkZ7P6n+yzFMwSzHID+YEJKNGu4=;310y6Ku+M6Ro4XIQClIoeQ=="
 ---

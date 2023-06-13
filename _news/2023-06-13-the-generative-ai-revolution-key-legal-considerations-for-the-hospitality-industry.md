@@ -25,47 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Revolution: How Machine Learning is Changing the Way We Live and Work : Sanchar Shakti"
-    excerpt: "In the discussion like this we can talk on & on but raising concerns and suggesting solutions  are not going to work . We need a robust platform where these suggestions become our way of life that turns  our choices into our command says “Productivity Conultant & Founder of Sanchar Shakti” Kabeer Goswami."
-    publishedDateTime: 2023-06-08T15:08:00Z
-    webUrl: "https://www.mid-day.com/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
-    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243"
+  - title: "AI in distribution: How artificial intelligence can drive growth"
+    excerpt: "Artificial intelligence (AI) is a growing industry that has changed the way businesses function and interact with their customers."
+    publishedDateTime: 2023-06-09T04:00:00Z
+    webUrl: "https://www.supplyht.com/articles/105371-ai-in-distribution-how-artificial-intelligence-can-drive-growth"
     type: article
     provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 63
-    images:
-      - url: "https://images.mid-day.com/images/images/2023/jun/Sanchar-Shakti-0806_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'This is just the beginning of a revolution': DeepMind cofounder says personal AI assistants will make us better at basically everything"
-    excerpt: "Personal AI assistants that can do everything from shop and negotiate on your behalf are the future of AI, Mustafa Suleyman, the cofounder of DeepMind and CEO of Inflection AI, said Tuesday during ..."
-    publishedDateTime: 2023-06-08T14:40:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/articleshow/100831165.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/amp_articleshow/100831165.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything/amp_articleshow/100831165.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 41
-    images:
-      - url: "https://www.businessinsider.in/thumb/100831113.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
-  - title: "The AI revolution will change work but nobody agrees how"
-    excerpt: "Goldman Sachs estimated that the technology behind popular AI tools such as DALL-E and ChatGPT could automate the equivalent of 300 million full-time jobs."
-    publishedDateTime: 2023-06-10T04:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-ai-revolution-will-change-work-but-nobody-agrees-how/articleshow/100890168.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
+      name: Supply House Times
+      domain: supplyht.com
+    quality: 34
 
 secured: "tVo5am7mSOVSfMhcxJBIVAhLc9VSRPR1bxQxp1DcLKxRuikf7VvTdNFHOXdTKxSgfnt+1tFznhmGe4RjP8Z7StiSG+q2xszrmF0BiUbgJz6aB5dnHxE9EXCpwYluqBkzzXIWEj7jtyhhCdUHpe0mYAx/iM6eu0MnFSiYRN/UoqhsGZShBqGz+qsaQPuTRWhDCeTmJPIAkihpHfTv2cqq7V2M3wqNm0ZP7IdeHdeeW0g874Vgv0nwCAfawCZkkJLPEJJRhGUz49w5J4ifjvvAyMbGkO482DXIvCbX+/J39R9sRc/ClyzzBURlFo4ssnkl86LJzNaJVvwGuaz1/atPxIYX/GQjrLVut+E8HOTIeG742G5WP+HAbjmQ3bJGkZaBRuMbChueeRLOGE8y7uiel0KjJCU6+wP8kzHLmfY02QsJn712brpwPXxrbrGho6ekYFiVd7BwGriBuJ0c0LJAW7EhcesyyDXmAWwMqg56eGS7N61PZ7gnxGSULyEc8YCP3Y719SkBavoCh/N30cHOjw==;nDqyPgAXtANlo0wU4R3m+A=="
 ---

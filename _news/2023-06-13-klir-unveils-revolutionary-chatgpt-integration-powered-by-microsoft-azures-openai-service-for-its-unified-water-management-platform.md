@@ -67,15 +67,6 @@ related:
         width: 512
         height: 262
         isCached: true
-  - title: "Satori's Data Security Platform is Selected for the Microsoft Pegasus Program and is Available in the Azure Marketplace"
-    excerpt: "Satori’s continued product innovation and customizable data security platform is recognized by its inclusion in the Microsoft for Startups Pegasus Program, an invite-only program that connects growth-stage startups to thousands of Microsoft’s top customers."
-    publishedDateTime: 2023-06-08T13:08:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/08/9829283.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 42
 
 secured: "RwLTo8evUdH90g9XsFZwyspMm16aGnV/qW0vCzSxgPXkDVQAodKAp190v+FhlObjstrXfJIQleczo5BSfyq6oa/fXbQqy1xZKTduzIrczULnmJnqkGyvjPGrCxT3xd1znNMksrugCa10dEozSMetTpUvY9r7PGQUBkSXEyiBjjU8IMNBhjr9BtZ8+LgXq41mZdCfjLQj/YlnDqcAk6ucqgdZGcujB2a9/FbLuYzJt2UIKMh2PlfcPqZCk6aoP5qxYQb2UQ7N+3K1Ev7PdQ7Qe42zcbCs6qImwErWJ9KLhn6wLvHHnBCyfVfViD47nXr/bSFqPRttyX3siGaug9rvYv/EInD3ZYUpbttaxtsHTqKPk5S+1Rim9QCE2pkd2Pu+fRZiGe/ulU+fo7M0NQfkwdXdoAp2eUxwAPL740YRL29Bm3LQHTWjld7mxarg87+DQL5EiIolBoOLjVaZbDXq5OagYJN9HptpCCmXO8bSRE4RhAmRptQJUwtUON8GzNZLKzmBjZMygUo4IvuRNI8Akg==;sM39xdxISMRkr0yZ6x2UkA=="
 ---

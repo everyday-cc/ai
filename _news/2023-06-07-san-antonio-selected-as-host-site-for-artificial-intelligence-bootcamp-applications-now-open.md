@@ -1,28 +1,20 @@
 ---
 category: news
-title: "San Antonio Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-excerpt: "For the 1st time the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp program for high school students will take place in San Antonio. The No-Cost Fall"
-publishedDateTime: 2023-06-06T17:59:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/g32744440/san-antonio-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/g32744440/san-antonio-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open"
-ampWebUrl: "https://www.benzinga.com/amp/content/32744440"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32744440"
+title: "San Antonio Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
+excerpt: "San Antonio is one of 28+ cities selected to host camps across the US in Fall 2023. The San Antonio Bootcamp will be held over four consecutive Saturdays starting on October 14th and ending on November 4th."
+publishedDateTime: 2023-06-06T18:02:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/06/9827710.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827710.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "i4FppPm2KTyRpeZvd+P/7WZTaq2RkdkNAyFfscgVb/PoZpm2E7MRzy9Hs/Xo82y9sR98bALeRcisp4BfQgKI6SD89o5nvzRfaR9tRKkg8w0AI7kItI6145Sfr3DJ+dmY4GgIHd4olAVEY+0ZuCo+OUPR2gTpbTMXqb439bR1IOfqKS0dIsPa90X0Zo9dS0+zwt5yanXIwePFbhfjqMWgr4ir5BhCDddVg7Pa0m/8bSuPXTCwt1o4cebDlsKA9Rpe6TZ4XVIuWFrmx58MEZCIi9mwrl03NzBHvK+oCxfOD3uMiG5DZ8iMYeQUl9S5bcYuQ8jEIraFLHcMtT09Ouq5Jr27ndA71SRJsH86YxYyNyk=;YtHUoNgL3ymizhjmX0MbtA=="
+secured: "cDoaWhWcbPCPIu805NXNf5lnT9L3idZPn3nDBxupVNm/LqXkJ62VHHlW5FKeKXRprDXblAtOZNM7h463eefDfAazRvEf1BCYe2ZQiaiRYirUO99p2c2Hjy9a3yeT1C4zHq1DFQP3x0AvhSrFUfuMqrDQfGQK4Q2cQy7ZMIHh1GqG9CQnlCf6VuI42tU4H+GjwBH9EqaXJfyCnAsPWr2/nSp/OGwCcP+/jODR/0ICHq5NI0RpTjysyvnFglUQIy70ErhsUsOgR8YtejtPdWSLMJe8A2xL/2/JG5U44KKfG8rL2P1Iioj1LP408s0WE4k2GFhETXwmPNvbIliwbfTj+Ql94+lcWXBZRrjRm4I1Vbo=;LhA1xp8TlE4AViizh1a2bQ=="
 ---
 

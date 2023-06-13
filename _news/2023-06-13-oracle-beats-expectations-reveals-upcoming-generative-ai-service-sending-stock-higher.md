@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Oracle founder Larry Ellison confirms new gen AI service with Cohere during earnings call"
-    excerpt: "Oracle revealed that it was developing a new cloud service with Cohere, a startup that specializes in building large language models."
-    publishedDateTime: 2023-06-13T03:06:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/oracle-founder-larry-ellison-confirms-new-gen-ai-service-with-cohere-during-earnings-call/"
+  - title: "ServiceNow unveils Now Assist for Virtual Agent, a generative AI solution for self-service"
+    excerpt: "This tool utilizes generative AI to deliver direct and contextually accurate responses to user inquiries for digital workflows."
+    publishedDateTime: 2023-06-13T07:00:00Z
+    webUrl: "https://venturebeat.com/ai/servicenow-unveils-now-assist-for-virtual-agent-a-generative-ai-solution-for-self-service/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 58
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Ellison-handsup.png?w=1200&strip=all"
-        width: 1189
-        height: 691
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Now-Assist-for-Virtual-Agent.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Zz4u+fmjtiZOhb/QaslxtYWd+m9nmcCUEKOF/a6dQMwH6qO5KVtK8FbgfDkxZRP2Kgqcrioe7gCzdnPvXAom3mS/gSCmKOfRgdMPy5n8nGhRE3aaKrxr4VU1V1vIgBR1O/Cn8IbGtopjDOJu1eRNFI1Gfufe3TOSgNvRewWsnM8/T5KFxEYaWpuedl6VY6ETD4DX1+CdxAnucNMsPIb5oNqLkyaLKypbnd0cBiDAFhVKiqFGbN/DSmvSyKsbWB7a20SllgTqEFVtALTb2q9kze2hN4fFq1eAVNf34wt8F/emCy+oc1ue/4Si5KVe3ArNTMTwgvwPjrKWGRe3fvPr2EG6HRTlySYKEQ6zd1DRp5ezOjZIKmCJvODJOdIMTubRoiIts58J3/9eyIj8QVZxssPKDs0NrXF2JqkeIHHa9pQgY3B3okKQfOCM0lkd70QZ2RMR20T3PnOGzwIiX1d9/smLEaRPF4BODEd0QSOwkqvtYFTl9O+PtV8b2DcJFDlLWdbSurk4QVj3lf8Llq+gww==;YPOHNEbCSHfOTme20wgfOQ=="

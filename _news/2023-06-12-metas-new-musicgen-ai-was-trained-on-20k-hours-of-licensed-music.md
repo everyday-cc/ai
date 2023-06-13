@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Meta releases AI-powered music generator 'MusicGen'"
+    excerpt: "Meta (formerly Facebook) has released its AI-powered music generator called 'MusicGen', which will turn text description and"
+    publishedDateTime: 2023-06-13T07:35:00Z
+    webUrl: "https://glamsham.com/world/technology/meta-releases-ai-powered-music-generator-musicgen"
+    ampWebUrl: "https://glamsham.com/world/technology/meta-releases-ai-powered-music-generator-musicgen?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-releases-ai-powered-music-generator-musicgen?amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 59
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/06/ef6cc09434697285ca3bf4352f08a7d5.jpg"
+        width: 2000
+        height: 1414
+        isCached: true
   - title: "Tag Archives: AI music generator"
     excerpt: "Meta has released its own AI-powered music generator – and, unlike Google, open-sourced it, TechCrunch reported. Called MusicGen, Meta’s music-generating tool, can turn a text description (e.g. “An ‘80s driving pop song with heavy drums and synth pads in the background”) into about 12 seconds of audio,"
     publishedDateTime: 2023-06-13T03:27:00Z

@@ -1,29 +1,30 @@
 ---
 category: news
 title: "BittWare selects EdgeCortix's SAKURA-I AI Processors as its Edge Focused Artificial Intelligence Acceleration Solution"
-excerpt: "EdgeCortix® Inc., the innovative Edge Artificial Intelligence (AI) Platform company, focused on delivering class-leading compute efficiency"
-publishedDateTime: 2023-06-13T00:00:00Z
-originalUrl: "https://www.asiaone.com/business/bittware-selects-edgecortixs-sakura-i-ai-processors-its-edge-focused-artificial"
-webUrl: "https://www.asiaone.com/business/bittware-selects-edgecortixs-sakura-i-ai-processors-its-edge-focused-artificial"
+excerpt: "EdgeCortix® Inc., the innovative Edge Artificial Intelligence (AI) Platform company, focused on delivering class-leading compute efficiency and ultra-low latency for AI"
+publishedDateTime: 2023-06-12T23:58:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32828256/bittware-selects-edgecortixs-sakura-i-ai-processors-as-its-edge-focused-artificial-intelligence-ac"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32828256/bittware-selects-edgecortixs-sakura-i-ai-processors-as-its-edge-focused-artificial-intelligence-ac"
+ampWebUrl: "https://www.benzinga.com/amp/content/32828256"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32828256"
 type: article
-quality: 30
-heat: 30
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2023/EdgeCortix_founder_CEO_Dr_Sakyasingha_Dasgupta_poses_a_picture_latest.jpg?itok=yF7HLRSl"
-    width: 600
-    height: 498
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "6wMERqBdkTy1p+WiseK1yuQS3l6bF2eE0YH0zyvWjSeHd1b4xbGnOYAB2w/WbvhvWcmop1+tSQiS3ActMGGk5YTDihLML1Xsrh0fTm1rw2tgf56sWG1j25PEJFlGodOlfcclwwHvawtNp0iVSOVovuVjY0kqTv058zXVe008WY0oXBbagAhb3sRuQvSD8h29h7LI+JSePyu1G8KDQ/fiULMwiE+n8oVz9jleB960G1Z16chxx4ebhRLB/4gFicmRZkIgy4PUFIGXqCOm+PRFJZj6kJNA8GIkHen1TKzQPiafsxLBusm6MA87eXweoJyACj4lahCtGiGa1G2Pr/BFg8QWfdL3sILmVHMpT0DBKCQ=;xtYPTVztFgj3peLo7+JZLg=="
+secured: "fQxhV7D0IIBQ2xTB7hcHFz2NXg1WCxowtTbog/OpYAobnAxrTfTSHT2mqJeKKTl8wtj8Wi4oqLQR8E125oWGW2s9IwVIfn0AHrm+eF0GnDo+4McAHQUeUBd7iKYfYTzkwg8yi4yeTOQqdEypJptwTRKPN8iaZVTZDKO5ZHV71MmBp8OSnGuF4Htp4nINr3w81r7NlD8HnwMMpRpZEFSYrvMAQcnbtM6UWFx31CE5AJRKi1Oo94o3SVS4Ab2CWbbd0HjmKPGnQBIX3/dNtrV8qtSCvooXKImzAbztYqJ0gAwRnoFgdWueAcPmJu0PH04rti4+o/2A4bdWeK7W+0lCviuUcG57w9eq9i0pNFCyK+U=;E4kDLcLwD0myXbWiZaBtIw=="
 ---
 

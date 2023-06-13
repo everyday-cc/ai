@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/artificial-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/artificial-intelligences-impact-on-jobs?_amp=true"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,40 +24,6 @@ images:
     width: 366
     height: 512
     isCached: true
-
-related:
-  - title: "The Impact Of AI On Strategy Games"
-    excerpt: "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development."
-    publishedDateTime: 2023-06-08T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "5 ways how Artificial Intelligence improve the workplace"
-    excerpt: "Artificial intelligence (AI) is now a part of our everyday lives. More than we may sometimes realize; AI solutions are changing almost every aspect of our lives, and this extends well into the workplace as well. The impact of AI on the future of work is a ..."
-    publishedDateTime: 2023-06-11T11:31:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Untitled-design83.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "yiHKazoZWSM0ACBnmtUNxf2Mgi1XsS2BMVazNAjm560zVtru/p81O8EGenpjZqUoNb6MjEyoIYJ9eDX5j+iaRO2KrRjWdhUcK/Lyr2yGFxEZbqdZ/bwo1UYaW7K8IWDfB8RIycttB3zu64Lt6TY4ety4BT/a9Xhvh6Srh2hbubmONJPMnnI9xIGcn5L5ClKe8KDcpXntBA4wq9n/DtdnGRUMkqYVH3Z4ry+WuZofH+XMSDS1MHkKeP7eUoglQMT573HYw0IP4bYIlX+Oj0oeXIzDX5//86RKL6W6gcpKwWR3xuhoLnavRHRVHvu+BDHAUd/ptZ8yzqCZk9lbMHd7fs5yq9psrJTKQD0UWyB3/3E=;2naiOkpsDN4CwKD2ajoPKg=="
 ---

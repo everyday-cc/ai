@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/06/12/how-docusai-is-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/12/how-docusai-is-powering-a-groundbreaking-ai-powered-health-platform/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Robot waiters taking more orders, improving assisted living dining rooms"
+    excerpt: "Artificial intelligence-powered robots are increasingly being tested in senior living and other industries, taking over repetitive tasks done by humans"
+    publishedDateTime: 2023-06-13T04:36:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/robot-waiters-taking-more-orders-improving-assisted-living-dining-rooms/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 33
 
 secured: "1TdPoTnZ47imfrEykt0TxAYuTYxs8kgpcOVYz8oYdODcuGxkp6OKKifL7UkmRgNMMzIj1Kd/CKy4wOyovKpFrJgvbSDYPh8kCPB3GZqKgy4yW5DgsDGS4rqEOZPrfKFT1izxszH7LEwxzeW5xc5tBZh/nS1Dh4+B5lk9Smwe/nMjqrRQ6ssFWyRF2/vda+od4Da0MbnlXV9DLajzAbqQIXUEdiaWHwkhLRAqXbd1ngSYotfWlR84HtgZLuw84Co0+pmM5o5FDBNFJiN9SCdwxA/q/aOgqOqMc7Mitfkv4/RKBDyzBaIXg7jzM8g2shF4ambNtjW13ZlwkNu1tcREJP1Gy+x7+oSwoo3zQWbPJwg=;GtW8/t3HKtVId8PaD5ZZcQ=="
 ---

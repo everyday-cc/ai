@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-th
 webUrl: "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Satori's Data Security Platform is Selected for the Microsoft Pegasus Program and is Available in the Azure Marketplace"
-    excerpt: "Satori’s continued product innovation and customizable data security platform is recognized by its inclusion in the Microsoft for Startups Pegasus Program, an invite-only program that connects growth-stage startups to thousands of Microsoft’s top customers."
-    publishedDateTime: 2023-06-08T13:08:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/08/9829283.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 42
 
 secured: "JTxGwHfse6JgEEmZDztTvxh+vQL/IX67ZPvpdNgvXYEpHWxPDljhIs+U6zF7BLllhHB+TqgExadd3LZPtgcirWR9mu2S9WLzy6GePZzv113HnbQcyuOwhMF2vOx5WO1jyhmHCkOjvA3wYiF4W1yIWrBM/0mvQDdO97rPXc9lsZWXKJvvilTjavd+QNH8C004q4YuGlmlWVzso/JyvNcyxjYklofHjOG/mfiHAytaLdUYmvEt3tmRrFGp1ciXgqIPjswFungx6syox3UJr5udbJ/n3I2p3+ExmFZfeBR3ODimi/d0UFkvlPVxDE5UcAW1Ncr34WSfg6deTL1rApHl5f0xosJOGEffIrJr1k0WdL0=;T8Ub5WC9VAaDouPSDQbcwA=="
 ---

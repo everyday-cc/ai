@@ -24,17 +24,6 @@ images:
     height: 316
     isCached: true
 
-related:
-  - title: "WiMi Hologram Cloud is Developing A Memristor-based Neural Signal Analysis System for Efficient BCI"
-    excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that it is developing a memristor-based neural signal analysis system to improve signal processing capability,"
-    publishedDateTime: 2023-06-08T14:29:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/08/9829155.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "aMF99hprzl6en3EcBTCbhnAlbggJMpy7LUxfkHWIsPF6UurmCWK0alOCFSFXMNM/mIqgNXxTjexfX39EDvlVLs5kkQ4k5DygYdUa2W/vVhQmlBMPZ6X+1TnW6as+/KhfpUDKX3a/HOL/yOBN1hR0aIH477B6G5LlG5SuobrwRUY5RFu5iQ51+HLUicJwAUEDB9G1MNnGrfCCfIkadIIS+dRRsnyMPySoPjA9RVXMKuP2r1ksdi+IM+YAVXwKQkBBCJZu7p6XjMfmdIXZfrMY1yl3pyc75KerNelXujkXY0mrQRpskspFMzfW0Hflszc3BHirGQ3cfbwsErZ/CWwgzTJ5m0mI5gu8rCXGhaZch639pioDv50xB1NyTtjfHdQuL2E1mItPgw0oFiIZBy9tVkfGLHugiOd6BkIbt77jkWyTOQn3rajYnx0jEqzHWFqygWGj/4922XFwdrITjW5lnwZuLE53MLcF3whRXTr/3wZlV+n9p6s4yg8JCyajsy884DbPGC+HJKPzwhCMmaCf2w==;cbyjivIbuZX8LwJ4ENXWag=="
 ---
 

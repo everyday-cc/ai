@@ -7,8 +7,8 @@ originalUrl: "https://gulfbusiness.com/sheikh-hamdan-launches-dubai-centre-artif
 webUrl: "https://gulfbusiness.com/sheikh-hamdan-launches-dubai-centre-artificial-intelligence/"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Gulf Business
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence to accelerate AI adoption in government"
-    excerpt: "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Chairman of The Executive Council of Dubai and Chairman of the Board of Trustees of the Dubai Future Foundation, t"
-    publishedDateTime: 2023-06-08T14:33:00Z
-    webUrl: "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890"
-    ampWebUrl: "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout"
-    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout"
-    type: article
-    provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 55
-    images:
-      - url: "https://www.emirates247.com/polopoly_fs/1.712892.1686234760!/image/image.jpg"
-        width: 2048
-        height: 1362
-        isCached: true
   - title: "Sheikh Hamdan launches Dubai Centre for Artificial Intelligence to accelerate government services"
     excerpt: "\"Dubai’s government will be the best in the world in deploying artificial intelligence (AI) within its various entities. This new Centre is the first step in achieving this goal and developing future services to keep pace with rapid technological advancements."
     publishedDateTime: 2023-06-08T16:29:00Z

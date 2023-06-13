@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "ONSCHAIN: The World’s First Blockchain Created by Chat-GPT4 and Managed by Artificial Intelligence"
+    excerpt: "ONSCHAIN is the world's first blockchain created and managed by AI, specifically OpenAI's Chat-GPT4, combining the power of artificial intelligence and blockchain technology to create a decentralized, secure, and transparent system that promises ..."
+    publishedDateTime: 2023-06-13T07:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/onschain-the-world-s-first-blockchain-created-by-chat-gpt4-and-managed-by-artificial-intelligence-1032384745"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/P12FFoKgxlTVtIq8T95FBvfJ1vC3/1686585526566-0.jpg"
+        width: 643
+        height: 321
+        isCached: true
   - title: "Blockchain-Based, AI Compute Protocol Gensyn Closes $43M Series A Funding Round Led by a16z"
     excerpt: "The capital infusion comes as interest in AI surges. Gensyn said it would use the money to accelerate the start of the protocol and expand its workforce."
     publishedDateTime: 2023-06-11T23:01:00Z

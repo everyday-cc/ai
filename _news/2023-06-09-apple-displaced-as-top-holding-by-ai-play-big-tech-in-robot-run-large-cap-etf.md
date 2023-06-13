@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32778787"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32778787"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: Benzinga.com
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Displaced As Top Holding By AI-Play Big Tech In Robot-Run Large-Cap ETF"
-    excerpt: "In a surprising twist in the world of AI-driven investment, the Qraft AI-Enhanced U.S. Large Cap ETF (NYSE:QRFT) has displaced Apple Inc. (NASDAQ:AAPL) as its top holding, replacing it with another big tech player,"
-    publishedDateTime: 2023-06-08T13:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/TCS_Invests_In_AI_1.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "3 Artificial Intelligence ETF Plays for Passive Investors"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors want to capitalize on ChatGPT’s popularity, a notable OpenAI"
     publishedDateTime: 2023-06-08T15:33:00Z

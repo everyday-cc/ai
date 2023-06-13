@@ -34,7 +34,25 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 47
+  - title: "Unicorns are hard to come by, unless you're an AI startup"
+    excerpt: "The number of tech upstarts valued at $1 billion has fallen from its peak in 2021, but there's new traction the AI space in particular."
+    publishedDateTime: 2023-06-09T16:24:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/inno/stories/news/2023/06/09/generative-ai-unicorn-startups.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+  - title: "Unicorns are hard to come by, unless you're an AI startup"
+    excerpt: "The number of tech upstarts valued at $1 billion has fallen from its peak in 2021, but there's new traction the AI space in particular."
+    publishedDateTime: 2023-06-09T19:47:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/news/2023/06/09/generative-ai-unicorn-startups.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
-secured: "8jq0j3AQ7enqTC21ImevIr1ukJuAWEIi8BKBZ1ThQIerY4ubo87VSWCrPZ088XEluZAn/K0MlIHjkZ+fcST4fFlwLFviPgjjsPP9Z3X6gnsDTfXqW6EKuSRJes/oumHWZ78YsBxjyE0aVQPUiuJd3Yg7e1oIiSL1oEl3OmiY/s7ezuimg+Cb7Xj13sywvypZlxu40I3fDU2s2XK6xbaipKExELw8L4cCW0C78tNmdvJv5TFenl578tDcfGV1jIysaGBKWVEovKk0JIsE/doPoupFJYh7LpK1OIbbxPruFBcdWM4tWmBwEY1hXMdqwcsPK5/LuDvxL6EZItrzUBBYld+Gn41v3Ev6KCWvTSgMXzE=;hrHhj5VbrNJtrm96AL+kFw=="
+secured: "XCgQtXAZrfvTha2CZfdkI6pD2t5hZMKXC8Lfh0wUn83Gv71GfKocRxHm4s6yxp6BVVxGEZzZkZ1ZbJ8nflZs0xs4yD1MNfSubrrJPLJwTVh8BmtpKAKHtQNLTXZA+Yd9Uf9MkILTtD5s923CHbTilVSNmKpFN3TjIy0qKicVeDltc6YUTEZhgIa2+12rK/Ngs7G++xShMPqprL3dRiuwXzN5wrS3JBv/utarPWR8lv0e3Shra/ovwxeCS+ZKfRse0wJBtk4L+50B7IHYkWhmheueKCTCCbpmJjET75WLVwjOJFjSDy+Uw11VmcVIRf6mXOwf1VLtzGN+bZ45V51x4L8D8HgELxdqD2aQ1l6A2d1j+zaOQ9NAYChMBmfVzl9kupZ/TvNMLnlMMYZ+A+dBEVRYHKyrXSgB+VQIY7yoSuu6lWc83hkI6tsR+rXScHC+Efy5rZ3aoKnTeotz7NK3k59WaNM/zPh9wCmXN1NdOCtQM9zwCZ+7fFa5GKDIL4YvNWnTuYoRVQgocSeOOiYfFg==;+yxktBCev5peDHIZEadTGA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/57065-ai-does-not-want-to-kill-yo
 webUrl: "https://www.fudzilla.com/news/ai/57065-ai-does-not-want-to-kill-you-claims-venture-capitalist"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 620
     height: 465
     isCached: true
-
-related:
-  - title: "The FOMO is real for venture capitalists paying big premiums to invest in AI startups right now"
-    excerpt: "Funding to AI startups has exploded since ChatGPT entered the mainstream in late 2022."
-    publishedDateTime: 2023-06-08T13:11:00Z
-    webUrl: "https://www.businessinsider.com/vc-investors-pile-into-ai-startups-at-high-prices-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
 
 secured: "XwtPdaZQF+Hl5ioZq1MRJ2Ip4az3QAvRIRyEQFqQ1vgXtTQRH98alYiiICqCWuGXQJILdWHzCZBwtcA/DrS+Eqw264jGU7jpqkKA9bZeMDWDYY9p/b0QuriSaTW0yyJNnQ774pR0urJPI5qePuCjfqg1my9uOK+3YmWO3pECcqPvl4NY7X1kAg4HIcOM95I73IEvWpQBTfbyJWUChNw5h4i0dimvWc/MSDEAOaRrj4mMPHVUrhUydPLUTBRKRumTXIP1oThYmaIIcPvaQrmdR1mpnmm51CX6aSvqPqAwHftWeG9u2cNn+4f43OjScTezmaGeo/gG+f4o3f0dJNqMJicK6r+sYat3+Nk+r9/9r8/2TMuy9Z4D6UfzOy1jyRomSseSCMIDFqeajdvq3ctmO+Huro6Q91e2jbbMmn0gcLOGVh4Z+Chzduf2dmbA6UzolUw5BZyDRZmNuOUXrpRxTct03OWvBQoqAqeV161uVO3ap2+ee+kKDg93mbZEdEa/UfNyaNsR/gUXGXuBa+Brnw==;QeSZM5C7dPP6UWrbjO8AwA=="
 ---

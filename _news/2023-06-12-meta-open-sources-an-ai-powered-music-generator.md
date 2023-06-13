@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-mu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-92.png?w=1200&strip=all"
         width: 1200
         height: 750
+        isCached: true
+  - title: "Meta releases AI-powered music generator 'MusicGen'"
+    excerpt: "Meta (formerly Facebook) has released its AI-powered music generator called 'MusicGen', which will turn text description and"
+    publishedDateTime: 2023-06-13T07:35:00Z
+    webUrl: "https://glamsham.com/world/technology/meta-releases-ai-powered-music-generator-musicgen"
+    ampWebUrl: "https://glamsham.com/world/technology/meta-releases-ai-powered-music-generator-musicgen?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-releases-ai-powered-music-generator-musicgen?amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 59
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/06/ef6cc09434697285ca3bf4352f08a7d5.jpg"
+        width: 2000
+        height: 1414
         isCached: true
   - title: "Meta’s new MusicGen AI was trained on 20k hours of (licensed) music"
     excerpt: "If you’re a music industry exec wanting a bracing start to your week, look no further than the latest musical AI model… built by Meta."
