@@ -75,6 +75,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
+    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
+    publishedDateTime: 2023-06-13T02:21:00Z
+    webUrl: "https://www.sacbee.com/news/california/article276329166.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article276329166.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article276329166.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 18
 
 secured: "UEg7cwFya786o8deKAjFH0DTKBlEBd8pSIzlxAsf9nlRlGLJLHTBK3XszZFsFqWi+aZDk6kBdn7FiNRpd3JcA0UDOE7y+yum3JUcMKC+REXAeuA26Nuyv1dmzSTwPzHchzMfriROatf2yMWLKhR5/k3Gq9HPC1eFPqJFX9PlcbGiRiGY+cu1RDt+re9o+GrffhsOuChMq9rcPjC5g/vUY8bzFq+eciBrasSCa7aYjLn0iZmFv/rU16meoLTsekiihLOxicRl+BBimejHmAxI0mBLJuNwunC6RQlhOYD+uXijUkgSQHHiDjTZnlxDwZ7fbe1zUysoIVGqxWqSRyVm5bootnj6cEYoivBttsNcP84=;T6eO0amorLTc6vJ3zrlt8A=="
 ---

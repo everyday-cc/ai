@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/735629/smartphone-city-connectivity.jpg"
         width: 4896
         height: 3264
+        isCached: true
+  - title: "Arm-Qualcomm Lawsuit Could Muddle US Chip Design Leadership"
+    excerpt: "Leonard Lee of neXt Curve considers the potential impact of a dispute between Qualcomm and Arm on the US semiconductor industry amid growing competition from Asia."
+    publishedDateTime: 2023-06-13T08:01:00Z
+    webUrl: "https://news.bloomberglaw.com/us-law-week/arm-qualcomm-lawsuit-could-muddle-us-chip-design-leadership"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/bc73833/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F54%2F71%2Fa8b1de254637bd392026eebe7731%2Fqualcomm-bing-guan.jpg"
+        width: 1920
+        height: 740
         isCached: true
 
 secured: "y85k5DFQOytxURb070tF/vQeJF5Agfm7By6KzwMxLgbReW0n0lXDTVU27H+/AexUwktrlV6E5ynwCGw+RlJQ/+gvgMTigIBrCSM/Ahz5eSZtXUp8CCsbKSc5Ob/PrR8yg8LMkcXsrWCvulj0hiASZRP+xBTUbs5ayFalpTULD8fa59zqBXNmZgaiMquiu6TFZjtNTN7PybnTeTqAneR/NQCDeAtqkasXQ7JUJnCNGCNX9EpWvgEIApdLALER3bWFi1lKbw6gQhK4B/cZFz0SAjbdYi47X7kySl/IJmP19J47VSRXTQRfcR5EA3s20UeQ0vmmyBMmqd8h8hFulW4OaHC7lsa9DN42+xgemuwNdPt/d5mJzSFpXLKyVnc5VsJ2RoGVoTBMj4jjAkrtZG4asU8xoBx7jchk0IzC0p7fdsdWfhaCRwjyA0VjuC9RoV8LoCazHIj3gjJ0d1BgVG48HeuVlCb2pS9Dr2nFk/1rVc8NTqAp71hJ7Lx5PgOh0b9qZFZgPcLbQ71dHhEuPozavg==;ac9wbHD1HtV4kMBZ2Pvg/A=="

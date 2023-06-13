@@ -87,6 +87,22 @@ related:
         width: 2880
         height: 1744
         isCached: true
+  - title: "Navigating through the ethos and sophistication of Generative AI"
+    excerpt: "Generative AI has been the underpinning and steering factor as AI advances from auto-pilot mode to co-pilot mode. Now the new course—of fairness, equity, bias-free development, and deployment—will req"
+    publishedDateTime: 2023-06-13T09:31:00Z
+    webUrl: "https://www.forbesindia.com/article/iim-bangalore/navigating-through-the-ethos-and-sophistication-of-generative-ai/85691/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/iim-bangalore/navigating-through-the-ethos-and-sophistication-of-generative-ai/85691/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/iim-bangalore/navigating-through-the-ethos-and-sophistication-of-generative-ai/85691/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 59
+    images:
+      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_210187_generativeai.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Two AI-related bills introduced in US Congress amid generative AI rush"
     excerpt: "The bills are the latest in efforts by US lawmakers to formulate regulatory and compliance standards for the use of AI-based tools."
     publishedDateTime: 2023-06-09T02:06:00Z

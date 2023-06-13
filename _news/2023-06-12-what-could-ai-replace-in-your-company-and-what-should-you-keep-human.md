@@ -83,6 +83,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Artificial intelligence and the future of work"
+    excerpt: "Artificial intelligence (AI) has pervaded almost every field of innovation and development, starting from driverless cars to recommendation of product."
+    publishedDateTime: 2023-06-09T03:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/startups/people/ai-and-the-future-of-work/articleshow/100864261.cms"
+    ampWebUrl: "https://m.timesofindia.com/business/startups/people/ai-and-the-future-of-work/amp_articleshow/100864261.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/startups/people/ai-and-the-future-of-work/amp_articleshow/100864261.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-100864261,width-1070,height-580,imgsize-4548,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "What happens if AI grows smarter than humans? The answer worries scientists."
     excerpt: "Some AI experts have begun to confront the 'Singularity.' What they see scares them. In 1993, computer scientist and sci-fi author Vernor Vinge predicted that within three decades, we would have the technology to create a form of intelligence that surpasses our own."
     publishedDateTime: 2023-06-12T10:00:00Z

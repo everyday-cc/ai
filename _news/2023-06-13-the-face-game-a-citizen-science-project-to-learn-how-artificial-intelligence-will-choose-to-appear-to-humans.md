@@ -1,23 +1,31 @@
 ---
 category: news
 title: "The Face Game: A citizen science project to learn how Artificial Intelligence will choose to appear to humans"
-excerpt: "In this online experiment, humans mix up with neural networks, and everyone (including the machines), posts their own profile pictures and reacts to the profile pictures of others. The game aims at understanding how AI will learn to choose different types ..."
-publishedDateTime: 2023-06-12T17:22:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/992273"
-webUrl: "https://www.eurekalert.org/news-releases/992273"
+excerpt: "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news"
+publishedDateTime: 2023-06-13T08:31:00Z
+originalUrl: "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.html"
+webUrl: "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.html"
+ampWebUrl: "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.amp"
+cdnAmpWebUrl: "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.amp"
 type: article
-quality: 0
-heat: 0
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: sciencex
+  domain: sciencex.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "o4PG4TezE0QDASUWVfZuUkHnn8k4wiHs3536Bfwkuis6fAppUhC8uHPlk1k7R24NfncQrq2KouCRU+emPD1mzB3oUiu/BO7MZq+8gidAS1BlaBejAgkKO/OQM/TF9+uN0//zrUaMkkQIYNxy3FV/1MPxD+I9holC/EjIXPEAI8xELbRMHTE+Yy7l1owgMDDT+ekgkUV58v1n64BsntXXwh0qmDvtCeLC4qGcX2C7l8UUf049OqLjw3AwAPXWCqgoHg+KbZBT+VYadydhjCkhYtugH+m3s/DTgoUWjyLE8GUxaZBeJViDH9Mp7DGDBR69T4lRJwWNcUGPfb8XCmoq/h1CQBUthhaS43VBx6bSCoI=;Kk2P6yuh3YyjLKKixE6YXA=="
+images:
+  - url: "https://scx1.b-cdn.net/csz/news/800/2023/ai.jpg"
+    width: 800
+    height: 480
+    isCached: true
+
+secured: "ArTxhEobI7Jn7GKBCVpxIjkaIU+TthgUdXc2vFu80U1akci8mQ/I/0sxQEYglS2ovoSyGFpJ9kC6p9b5IdkQSO93a0hbMFsjuiBv2ONt7w02fSjXwWDPJ43OSdq7NsA3AL90cjDHMcQv5YA2Tt5fBckkT2Slo/jNKBacV+RMTe+fNd8gFy3kIXM1nCY/1UC/Os0wkWiLcjTUQ7jCsYNRC6RLpc7Kz9zCvE+P90KfYC/Bwf++hDZ9TLPmKXVxT2Tra6Azmnn7JPvd3a2OVC1qmaaOVppRAy/zCTcPe6tADV8vCNvsQ64WkeeVgBTg9PP1MnQAmJ6gOH2BpBBsQ32908xEIGcjmqlH/dkL0IqRHfQ=;SAwI94wAZMH11nNNWM5OOQ=="
 ---
 

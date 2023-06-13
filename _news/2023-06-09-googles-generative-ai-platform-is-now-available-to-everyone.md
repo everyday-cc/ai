@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "5 ways to explore the use of generative AI at work"
+    excerpt: "ChatGPT and other generative AI tools have captured the public imagination. Here's how you can turn a much hyped tool into a productivity boon."
+    publishedDateTime: 2023-06-12T13:52:00Z
+    webUrl: "https://www.zdnet.com/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/6448985610910fb9c6027b90eaf317dac61b65da/2023/06/12/c6a475c6-2642-4195-b8e8-9aabbb64edee/gettyimages-1252207238.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Firm study predicts big spends on generative AI"
     excerpt: "A new study polling software buyers at businesses worldwide finds strong intention to increase budget, with special interest in AI. It also looks at how vendors can engage buyers."
     publishedDateTime: 2023-06-09T22:22:00Z

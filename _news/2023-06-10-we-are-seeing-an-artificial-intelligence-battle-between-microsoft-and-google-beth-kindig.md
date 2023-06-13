@@ -25,77 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft, Cisco, Adobe And More Bring Generative AI At Work To Where Work Is Done"
-    excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, looks at how GAI tools impact the everyday worker with copilots and AI assistants."
-    publishedDateTime: 2023-06-08T16:07:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 98
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6481fb87f19ce780d7bec538/0x0.jpg?format=jpg&width=1200"
-        width: 1100
-        height: 665
-        isCached: true
-  - title: "Microsoft unveils Azure OpenAI Service for Government & AI customer commitments"
-    excerpt: "Microsoft announced its new Azure OpenAI Service for government and the tech giant unveiled a new set of three AI commitments to its customers"
-    publishedDateTime: 2023-06-08T22:43:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-unveils-azure-openai-service-for-government-ai-customer-commitments/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 95
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_u.s._flag_made_out_of_computer_code_edcc3754-3681-4c8e-8cc6-5e39e2d58c06.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "5 ways to explore the use of generative AI at work"
-    excerpt: "ChatGPT and other generative AI tools have captured the public imagination. Here's how you can turn a much hyped tool into a productivity boon."
-    publishedDateTime: 2023-06-12T13:52:00Z
-    webUrl: "https://www.zdnet.com/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/6448985610910fb9c6027b90eaf317dac61b65da/2023/06/12/c6a475c6-2642-4195-b8e8-9aabbb64edee/gettyimages-1252207238.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft used AI to refrain people from downloading Chrome"
-    excerpt: "It comes as no surprise that ever since the success of ChatGPT and its subsequent integration into the Edge browser as the Bing AI chatbot, Microsoft has gone from being the underdog in the search engine market to now seeing themselves fighting for market ..."
-    publishedDateTime: 2023-06-08T22:40:00Z
-    webUrl: "https://www.androidheadlines.com/2023/06/microsoft-used-ai-to-refrain-people-from-downloading-chrome.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/06/microsoft-used-ai-to-refrain-people-from-downloading-chrome.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/06/microsoft-used-ai-to-refrain-people-from-downloading-chrome.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 76
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/03/Bing-AI-Logo-AH.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "As Cortana Retires, Microsoft Brings AI-Powered Bing Voice Mode to Desktop"
-    excerpt: "This new voice mode makes it more convenient to use the AI-powered Bing Chat since you can talk to it while you work on other stuff."
-    publishedDateTime: 2023-06-09T18:37:00Z
-    webUrl: "https://www.pcmag.com/news/as-cortana-retires-microsoft-brings-ai-powered-bing-voice-mode-to-desktop"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 62
   - title: "Microsoft Teams up With Indian SMBs to Unleash Generative AI Brilliance"
     excerpt: "According to Microsoft research, almost 35% of SMBs surveyed were spending over 10% of their revenue on technology. Not only this, SMBs in India are also exploring leveraging the capabilities of Generative AI."
     publishedDateTime: 2023-06-12T07:37:00Z
@@ -119,33 +48,6 @@ related:
       name: Mozilla
       domain: techcentral.ie
     quality: 45
-  - title: "AWS Unveils Unique Approach to Generative AI, Setting It Apart from Google and Microsoft"
-    excerpt: "AWS is making significant strides in the field of generative AI with its distinctive approach. By focusing on customization, fine-tuning, and responsible development, AWS sets itself apart from competitors like Google and Microsoft."
-    publishedDateTime: 2023-06-09T18:18:00Z
-    webUrl: "https://techstory.in/aws-distances-itself-from-google-microsoft-unique-generative-ai/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 42
-  - title: "Microsoft moving some top AI experts from China to new lab in Canada"
-    excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
-    publishedDateTime: 2023-06-09T20:00:00Z
-    webUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 36
-  - title: "Microsoft to move top AI experts from China to new lab in Canada"
-    excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
-    publishedDateTime: 2023-06-10T10:49:00Z
-    webUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55?sharetype=gift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "uSEj1zO1pW2ozNzwafXCkvxtw0UsxU0jBKjyGBk7I4bGsh+AsdtZJt9HVsPxJ0E6nGFVJbUd1Rdg+9vWjKT9cLdPMVA2rcyi2uE9bKCTaWcY2L7FqSogD1zrIdXai/x6DKGgFLOdtD16wYJOVLofq7/tkL0O13xfjKnjPKpEyYNhd7uvy5J15Xv8s4ISke9KHyAYWDCKyqr8fZh6sQfd1/ClxbnPZcj775DMxYGXPSdWRZ1M11OdAfLh7NY3RIm2oTzW+xA0jDihlZf3G/xZaU65KnAMC/vVwrX7Hq33asuFFF3NKNs9u6r+vnUMwlj88tV7OMDUoGxrfDcp6dncs6srz7yoxkOmLEjtXTfdQF4IKOLRO0imUWaBGaiAe+nFT7mf+tmcEnbhtdasXv/sR2InRQupX6b9HYkKrEsbw8lXylB5UesTSP9OBdKt9iCgzjWKN8JEZuSygRrPvN5KKJudZ2Y1fD84mi7cH8r1tyAZmvWQG9VHhe6lju9y7NrgbcnYF16i9lDGvYkEpGrejA==;LrR4vofDIXgKGTh/dRM4PA=="
 ---

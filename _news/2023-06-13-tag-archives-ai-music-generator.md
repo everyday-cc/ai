@@ -55,21 +55,21 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Meta releases AI-powered music generator 'MusicGen'"
-    excerpt: "Meta (formerly Facebook) has released its AI-powered music generator called 'MusicGen', which will turn text description and"
-    publishedDateTime: 2023-06-13T07:35:00Z
-    webUrl: "https://glamsham.com/world/technology/meta-releases-ai-powered-music-generator-musicgen"
-    ampWebUrl: "https://glamsham.com/world/technology/meta-releases-ai-powered-music-generator-musicgen?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-releases-ai-powered-music-generator-musicgen?amp=1"
+  - title: "Meta launches MusicGen, an AI-powered music generator"
+    excerpt: "Meta's MusicGen offers AI-generated music from text and melody, but Google's MusicLM, available through the AI Test Kitchen app, also generates high-fidelity music based on text descriptions across genres."
+    publishedDateTime: 2023-06-13T08:36:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
+      name: India TV
+      domain: indiatvnews.com
     quality: 59
     images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/06/ef6cc09434697285ca3bf4352f08a7d5.jpg"
-        width: 2000
-        height: 1414
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/06/meta-pixabay-copy-1686645297.jpg"
+        width: 360
+        height: 202
         isCached: true
   - title: "Meta’s new MusicGen AI was trained on 20k hours of (licensed) music"
     excerpt: "If you’re a music industry exec wanting a bracing start to your week, look no further than the latest musical AI model… built by Meta."
@@ -84,6 +84,20 @@ related:
       - url: "https://i0.wp.com/musically.com/wp-content/uploads/2021/10/Meta-logo-2.jpg?fit=1200%2C400&#038;ssl=1"
         width: 1200
         height: 400
+        isCached: true
+  - title: "Meta Releases AI-Powered Music Generator 'Musicgen'"
+    excerpt: "Meta (formerly Facebook) has released its AI-powered music generator called 'MusicGen', which will turn text descriptio"
+    publishedDateTime: 2023-06-13T08:15:00Z
+    webUrl: "https://menafn.com/1106429969/Meta-Releases-AI-Powered-Music-Generator-Musicgen"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-06/13/I_87af4image_story.jpg"
+        width: 1000
+        height: 707
         isCached: true
   - title: "Meta just released an AI music generator that was trained on 20,000 hours of licensed music"
     excerpt: "Researchers at Facebook parent company Meta have developed an AI text-to-music generator called MusicGen. The language model, described by Meta’s Audiocraft research team as “a simple and controllable model for music generation”,"

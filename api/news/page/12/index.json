@@ -2,6 +2,102 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-06-02-ai-terminologies-101-how-attention-mechanism-is-transforming-deep-learning.md",
+      "title": "AI TERMINOLOGIES 101: How Attention Mechanism is Transforming Deep Learning",
+      "excerpt": "As machine learning and deep learning continue to revolutionize various industries, several innovative techniques and methodologies have been developed to optimize these learning processes. One of these techniques is the Attention Mechanism. In essence ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/06/understanding-attention-mechanism-in-deep-learning",
+      "originalUrl": "https://yourstory.com/2023/06/understanding-attention-mechanism-in-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Screenshot2023-06-02at6-1685709549095.png?fm=png&auto=format",
+          "width": 2134,
+          "height": 1058,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence.md",
+      "title": "A Quantum Leap In AI: IonQ Aims To Create Quantum Machine Learning Models At The Level Of General Human Intelligence",
+      "excerpt": "At some point, quantum systems will more easily handle the ongoing exponential growth in data compared to classical computers, which may struggle to keep up. Theoretically, at some point in the not-too-distant future,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6479fa2e14cc95f64c13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/amp/",
+      "publishedDateTime": "2023-06-02T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-massrobotics-recognizes-2-women-for-their-robotics-accomplishments.md",
       "title": "MassRobotics recognizes 2 women for their robotics accomplishments",
       "excerpt": "This inaugural MassRobotics Robotics Medal award was presented to Nancy Amato for her research on the algorithmic foundations of motion planning and more.",
@@ -186,8 +282,8 @@
       "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
       "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ...",
       "sourceUrl": null,
-      "webUrl": "https://abc11.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "originalUrl": "https://abc11.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "webUrl": "https://abc30.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "originalUrl": "https://abc30.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -204,13 +300,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abc11.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "cdnAmpWebUrl": "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "ampWebUrl": "https://abc30.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "cdnAmpWebUrl": "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
       "publishedDateTime": "2023-06-02T06:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTVD",
-        "domain": "abc11.com",
+        "name": "ABC30 Action News",
+        "domain": "abc30.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1065,100 +1161,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-ai-spurs-scientists-calling-to-fast-track-consciousness-research.md",
-      "title": "AI Spurs Scientists Calling To Fast-Track Consciousness Research",
-      "excerpt": "Now we’re in this pickle because we don’t want the AI system running the IRS to suddenly get creative one day,” says Mason only half-jokingly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/",
-      "originalUrl": "https://www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6477ccd6f0f14cbe8aa62ddd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/amp/",
-      "publishedDateTime": "2023-06-01T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-this-childrens-hospital-is-integrating-ai-with-healthcare.md",
-      "title": "This children's hospital is integrating AI with healthcare",
-      "excerpt": "As hype and anxiety drive interest in the rapid rise of artificial intelligence ... Highly-ranked healthcare facilities like Boston Children’s Hospital, connected as they are to major research ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/ai-healthcare-integration",
-      "originalUrl": "https://mashable.com/article/ai-healthcare-integration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/04LtJkbsoOg0mZEYu4CLd75/hero-image.fill.size_1200x675.v1685580853.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

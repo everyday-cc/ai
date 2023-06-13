@@ -64,20 +64,6 @@ related:
         width: 770
         height: 510
         isCached: true
-  - title: "Waymo self-driving car kills a dog in San Francisco"
-    excerpt: "A Waymo self-driving car killed a small dog in San Francisco in an incident that has raised concerns over the ambitious launch and expansion of driverless cab services in the US. The car was ..."
-    publishedDateTime: 2023-06-08T16:57:00Z
-    webUrl: "https://www.independent.co.uk/news/world/americas/waymo-self-driving-car-kills-dog-san-francisco-b2353599.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 39
-    images:
-      - url: "https://static.independent.co.uk/2023/04/26/08/Self_Driving_Cars_Surreal_Ride_53565.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Self-driving car from Google's Waymo company runs over dog"
     excerpt: "In a rare accident involving a self-driving car, a vehicle from Google's sister company Waymo killed a dog that ran into the road in front of it. The car was driving autonomously here with an employee in the driver's seat,"
     publishedDateTime: 2023-06-10T16:00:00Z
@@ -91,6 +77,20 @@ related:
       - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/06/2023-06-09-23_40_44-dpa-news-_-Photos-Release-2.17.7-Brave.png"
         width: 800
         height: 478
+        isCached: true
+  - title: "Self-driving car couldn’t avoid running over and killing dog in US street, reports say"
+    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said."
+    publishedDateTime: 2023-06-13T08:35:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/13/self-driving-car-couldnt-avoid-running-over-and-killing-dog-in-us-street-reports-say"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 16
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/13/2123763.jpg"
+        width: 1240
+        height: 826
         isCached: true
 
 secured: "uSJ8CbLdq+a2ZssSwOFnctCm/2RPCpHegJxoxcnSmO7aCY3j208MdCfLr+CpS8IazvDRyYPuezIQB3t25VFFR///qQ9aN1OGGdEE7QA2eTjmW5fWAFXOhm7vHDdpseZ5xj+zuKLF825XO83sbS9y0m3VYEc2JAhD8EG0nruEt+jF3qu51UZxPzAGO612BS3PwRUp+esbeom8Yusfe/h/SlwISDSXFO243E65Gc8TR4vOWY4gPUNl7mY5+SqawsHgb+x3uXr+997lJBCAHEIe+AmUJiskjgnmAu5CfQrsSZjLp3XgC13/X8sw14tnJT6QzMlEThrFviN53Yyzi3uyHD2WN4umTJj3ljB5CcIj6ZzdKtbhJ8iLYXyoO7KSlQPAAxayWNZujkfGRSfmdOF2RTOQHuRVhq4RxdLrmSzT+qsf4gJ/3ZaPZfskwR/+Ih8NJeUznkUfhnAYAxVoW39N+AOkXFIqmGFUm6aUCGbutH+zQ/gMkqzOx367kDK0kVPYY4ja09ZGDHGvLIH4NzHzlQ==;i4LE/3BeWYY2E62IkO6/Ww=="

@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "LinkedIn launches generative AI tool to write ad copy"
-    excerpt: "LinkedIn today launched a generative AI tool called AI Copy Suggestions to help advertisers draft texts for their ad campaigns."
-    publishedDateTime: 2023-06-08T15:52:00Z
-    webUrl: "https://venturebeat.com/ai/linkedin-launches-generative-ai-tool-to-write-ad-copy/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1081412082.jpg?w=1200&strip=all"
-        width: 1200
-        height: 606
-        isCached: true
   - title: "Using AI to Adjust Your Marketing and Sales in a Volatile World"
     excerpt: "Why are some firms better and faster than others at adapting their use of customer data to respond to changing or uncertain marketing conditions? A common thread across faster-acting firms is the use of AI models to predict outcomes at various stages of the customer journey."
     publishedDateTime: 2023-06-08T19:02:00Z
@@ -54,6 +40,20 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 51
+  - title: "Accepting artificial intelligence: barriers and facilitators influencing healthcare professionals' acceptance of AI in the hospital setting"
+    excerpt: "Researchers investigated the factors that hinder or promote healthcare professionals' acceptance of artificial intelligence (AI) in hospitals."
+    publishedDateTime: 2023-06-13T09:25:00Z
+    webUrl: "https://www.news-medical.net/news/20230613/Accepting-artificial-intelligence-barriers-and-facilitators-influencing-healthcare-professionals-acceptance-of-AI-in-the-hospital-setting.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 35
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_750839_16866475805559826.jpg"
+        width: 1000
+        height: 597
+        isCached: true
 
 secured: "bbDvTy0JkF/geUW9GHdHfZDsmZKntBRF993SQk6QTXcDuoMG43rGxeBGGYklgMOPC7F+oSszfW+2NP2V4fZ9YxOZVn86Gq6XygickRvTRDkTcXCtvguARRrNiz0HI8cpGxzbYgCu4UdYCxvHYWp08eaHmCE+TkU3fRZbPyHNBQXOLhCk4tT7GzkuAnrFFuOnpjjXdfLedfuFZS2OZmD4v3q0BRgTPERJbh91xZ9P7mmRl3pUU+bfFawgqzFhKZVLiLHlRPDp0+mADNmvh7SQWf5x1b2TKEprzjdtgDhcr2jyfybJZ2qmMWBNYNeDmaOUu06Sxo//rQNLMbrlwju4FldlHNsmA5qS4F9x02H29DM=;puMB6zpiNba+TKukrvdYIA=="
 ---

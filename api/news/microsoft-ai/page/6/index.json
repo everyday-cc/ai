@@ -2,6 +2,94 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-20-amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses.md",
+      "title": "Amazon and Microsoft vets raise $10M for computer vision startup used in warehouses",
+      "excerpt": "A new Seattle startup wants to make it easier for businesses to monitor their warehouses using artificial intelligence and computer vision technologies. Groundlight emerged from stealth Wednesday, unveiling its",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses/",
+      "originalUrl": "https://www.geekwire.com/2023/amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/04/leo-avi.jpg",
+          "width": 3053,
+          "height": 1977,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-microsoft-azure-marketplace-integrates-space-and-times-web3-tools.md",
+      "title": "Microsoft Azure Marketplace Integrates Space and Time’s Web3 Tools",
+      "excerpt": "Space and Time’s Web3 “data warehouse” has been integrated into the Microsoft (NASDAQ:MSFT) Azure Marketplace, an “app store” for developers using the cloud computing platform. Enterprise builders can now make a one-click deployment of Space and Time's data product,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-azure-marketplace-integrates-space-and-times-web3-tools",
+      "originalUrl": "https://www.nasdaq.com/articles/microsoft-azure-marketplace-integrates-space-and-times-web3-tools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-microsoft-reportedly-developing-its-own-ai-chip-named-athena.md",
       "title": "Microsoft reportedly developing its own AI chip named ‘Athena’",
       "excerpt": "Microsoft Corp. is reportedly forging ahead with efforts to develop its own chips optimized for artificial intelligence in a bid to reduce costs for training generative AI models such as those powering OpenAI LP’s ChatGPT chatbot.",
@@ -1289,74 +1377,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-azure-previews-nd-h100-v5-virtual-machines-to-accelerate-generative-ai.md",
-      "title": "Azure Previews ND H100 V5 Virtual Machines to Accelerate Generative AI",
-      "excerpt": "Azure recently announced the preview of the ND H100 v5, virtual machines that integrate the latest Nvidia H100 Tensor Core GPUs and support Quantum-2 InfiniBand networking. According to Microsoft, the new option will offer AI developers improved performance and scaling across thousands of GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/04/azure-nd-H100-nvidia/",
-      "originalUrl": "https://www.infoq.com/news/2023/04/azure-nd-H100-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-renesas-cellular-to-cloud-development-kits-now-connect-seamlessly-to-microsoft-azure-cloud-services.md",
-      "title": "Renesas Cellular-to-Cloud Development Kits Now Connect Seamlessly to Microsoft Azure Cloud Services",
-      "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that its cellular-to-cloud development kits powered by Renesas' 32-bit microcontrollers (MCUs) now fully support Microsoft's popular Azure cloud services.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

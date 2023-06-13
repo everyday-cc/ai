@@ -2,6 +2,83 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2023-04-08-deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk.md",
+      "title": "Deep learning model estimating breast density could help with predicting cancer risk",
+      "excerpt": "Breast density is defined as the proportion of fibro-glandular tissue within the breast and is often used in assessing the risk of developing breast cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-99338448,imgsize-33232,width-1200,height=765,overlay-ethealth/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk/99338448",
+      "publishedDateTime": "2023-04-08T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "health.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-azure-previews-nd-h100-v5-virtual-machines-to-accelerate-generative-ai.md",
+      "title": "Azure Previews ND H100 V5 Virtual Machines to Accelerate Generative AI",
+      "excerpt": "Azure recently announced the preview of the ND H100 v5, virtual machines that integrate the latest Nvidia H100 Tensor Core GPUs and support Quantum-2 InfiniBand networking. According to Microsoft, the new option will offer AI developers improved performance and scaling across thousands of GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/04/azure-nd-H100-nvidia/",
+      "originalUrl": "https://www.infoq.com/news/2023/04/azure-nd-H100-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-08T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-08-new-side-effect-of-covid-19-discovered-face-blindness.md",
       "title": "New Side Effect of COVID-19 Discovered: “Face Blindness”",
       "excerpt": "A Dartmouth College study discovered impairments in both face recognition and navigational abilities. A recent Dartmouth study published in the journal Cortex has revealed that COVID-19 can lead to difficulties in face recognition and navigation.",
@@ -944,92 +1021,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry.md",
-      "title": "Global Computer Vision System Market [2023-2030] | An In-Depth Analysis on Industry",
-      "excerpt": "The Global Computer Vision System Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry-2023-04-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2023-2030-an-in-depth-analysis-on-industry-2023-04-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-synthetic-data-generation-market-size-regional-growth-share-top-key-vendors-future-developments-opportunity-2023-to-2031.md",
-      "title": "Synthetic Data Generation Market Size, Regional Growth Share, Top Key Vendors Future Developments, Opportunity 2023 to 2031",
-      "excerpt": "Global Synthetic Data Generation Market is valued at approximately USD 123.3 million in 2021 and is anticipated",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/synthetic-data-generation-market-size-regional-growth-share-top-key-vendors-future-developments-opportunity-2023-to-2031-2023-04-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/synthetic-data-generation-market-size-regional-growth-share-top-key-vendors-future-developments-opportunity-2023-to-2031-2023-04-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

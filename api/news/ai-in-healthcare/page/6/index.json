@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-04-17-diagnosing-ai-healthcare-community-excited-wary-of-artificial-intelligence.md",
-      "title": "Diagnosing AI: Healthcare community excited, wary of artificial intelligence",
-      "excerpt": "Artificial intelligence technologies have ... can use in tandem with their expertise may increase access to needed health care in less serviced areas, said Dr. Bernardo Bizzo, senior director ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbjournal.com/article/diagnosing-ai-healthcare-community-excited-wary-of-artificial-intelligence",
-      "originalUrl": "https://www.wbjournal.com/article/diagnosing-ai-healthcare-community-excited-wary-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wbjournal.com/sites/default/files/2023-04/screenshot_2023-04-17_9.40.20_am.png",
-          "width": 1277,
-          "height": 855,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBJournal",
-        "domain": "wbjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-15-new-artificial-intelligence-tool-helps-predict-colon-cancer-survival.md",
       "title": "New Artificial Intelligence Tool Helps Predict Colon Cancer Survival",
       "excerpt": "Artificial intelligence (AI) or machine intelligence refers to the intelligence displayed by computers or robots in contrast to the natural intelligence exhibited by humans. It is considered one of the major advancements of the 4th industrial revolution and finds application in several fields including medicine.",
@@ -1338,6 +1295,49 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk.md",
+      "title": "AI Prediction Tool Identifies Chemotherapy Drug Toxicity Risk",
+      "excerpt": "To further improve and refine prediction, the researchers incorporated artificial intelligence (AI ... This may enable more personalization of cancer therapy and minimize toxicity for patients. If leveraged in the clinical setting, a risk-scoring tool ...",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
+      "originalUrl": "https://healthitanalytics.com/news/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/GettyImages-852404126-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
+      "publishedDateTime": "2023-03-27T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

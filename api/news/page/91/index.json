@@ -2,6 +2,101 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2023-04-17-baidu-shares-drop-to-8-week-lows-after-company-reveals-chatgpt-rival.md",
+      "title": "Baidu shares drop to 8-week lows after company reveals ChatGPT rival",
+      "excerpt": "Beijing has pushed for national self-sufficiency in tech, while maintaining censorship and increasing regulation of data. Many Chinese companies, other than Baidu, are developing similar tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/16/baidu-shares-drop-after-chatgpt-ernie-bot-reveal.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/16/baidu-shares-drop-after-chatgpt-ernie-bot-reveal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou.md",
+      "title": "The Week In Web3 And AI: Gucci x Vans, ALTS By adidas, AMI x ZEPETO, LVMH’s Patou",
+      "excerpt": "Following the announcement of its ALTS Web3 loyalty program, on Friday, adidas revealed mechanics whereby dedicated fans could bypass a random allocation of traits by paying to secure their choice — offering an interesting glimpse into the way the brand plans to further monetize the initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/",
+      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643c6d36379c9e1c160ab186/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/04/17/the-week-in-web3-and-ai-gucci-x-vans-alts-by-adidas-ami-x-zepeto-lvmhs-patou/amp/",
+      "publishedDateTime": "2023-04-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-why-some-college-professors-are-adopting-chatgpt-ai-as-quickly-as-students.md",
       "title": "Why some college professors are adopting ChatGPT AI as quickly as students",
       "excerpt": "There's another side to that evolving AI story ... \"ChatGPT can even help educators translate some of those lessons or takeaways in simpler language,\" he said. Education technology company ...",
@@ -1041,92 +1136,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-in-curious-move-elon-musk-quietly-preps-for-launch-of-openai-rival-shortly-after-calling-for-pause-in-ai-research.md",
-      "title": "In Curious Move, Elon Musk Quietly Preps For Launch Of OpenAI Rival Shortly After Calling For Pause In AI Research",
-      "excerpt": "Musk registered a company named X.AI in Nevada as a step to set up his own AI venture. The billionaire has secured thousands of high-powered GPU processors from Nvidia for the purpose, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/04/31819784/in-curious-move-elon-musk-quietly-preps-for-launch-of-openai-rival-shortly-after-calling-for-pause-i",
-      "originalUrl": "https://www.benzinga.com/news/23/04/31819784/in-curious-move-elon-musk-quietly-preps-for-launch-of-openai-rival-shortly-after-calling-for-pause-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/04/15/elon_musk.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31819784",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31819784",
-      "publishedDateTime": "2023-04-15T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-how-to-choose-a-robot-vacuum.md",
-      "title": "How to choose a robot vacuum",
-      "excerpt": "When it comes to keeping your home clean, few smart home devices are as beloved as robot vacuums ... with a good range of features such as voice control and room mapping. It also offers several ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/how-to-choose-a-robot-vacuum/",
-      "originalUrl": "https://www.digitaltrends.com/home/how-to-choose-a-robot-vacuum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

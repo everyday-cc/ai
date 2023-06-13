@@ -7,7 +7,7 @@ originalUrl: "https://www.scmagazine.com/news/emerging-technology/google-secure-
 webUrl: "https://www.scmagazine.com/news/emerging-technology/google-secure-ai-framework"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 1280
     height: 800
     isCached: true
-
-related:
-  - title: "Introducing Google’s Secure AI Framework"
-    excerpt: "Today Google released released the Secure AI Framework to help collaboratively secure AI technology."
-    publishedDateTime: 2023-06-08T16:00:00Z
-    webUrl: "https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 89
-    images:
-      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
-        width: 1000
-        height: 1000
-        isCached: true
-  - title: "Artificial intelligence and the future of work"
-    excerpt: "Artificial intelligence (AI) has pervaded almost every field of innovation and development, starting from driverless cars to recommendation of product."
-    publishedDateTime: 2023-06-09T03:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/startups/people/ai-and-the-future-of-work/articleshow/100864261.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/startups/people/ai-and-the-future-of-work/amp_articleshow/100864261.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/startups/people/ai-and-the-future-of-work/amp_articleshow/100864261.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-100864261,width-1070,height-580,imgsize-4548,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
 
 secured: "gkXmkpKHOwkGhBVkYdm03Vz51FYAdPIhh4Tkfj8XkxhexdaHbzhtPpW0pGE3Mezli/OblewTWaewElEnHY2btUk1bNAQy9LXlQ56LLAN0GtZ+L4+6EAAgzPJmTmpFa/mzbrTH6nICt3Nht9P9O+RDcWBwIzQGzqqo9tyQbn9qPtTIHYOVn+xy2NH/Xb+dWcJJP6N4BKJMr8p6R+kifMf0DxeHrADRcBRliN2SbUMI7HPNlnnrLXzpwT84uq+vTqNK1JeqWP09vdegtx14FZgH3quyHesUd0aKS2hJ2ocsPbESKt2ynGs7LB6VS7tVuunqhR6OtvQFf0crg/Q0T3QoHwoX6CdM+UhTeLVr76PqU1c1rfob3wlktjuqC4QT7grnIs5X7+Gp35HLg/Ebvr9MF9riWL5wLGlt1Q3JFUvztIbkZXy5LNFduNubv/cfJztVtPqqOw6Aw/VrmRAVlSCtok5aFGUjT+7MktkixUOR65LkaIhCGwS0JTOk76to72cbAtNyXutlDDL2omyAG5t/g==;ZZYHQbc9wbX5AXGOTNetwg=="
 ---

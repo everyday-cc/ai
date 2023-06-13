@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "OpenAI, DeepMind, and Anthropic to give UK early access to AI models for safety research"
+    excerpt: "The UK has been ahead of other countries in AI safety and regulations, and this announcement comes with the creation of an AI Taskforce."
+    publishedDateTime: 2023-06-12T21:14:00Z
+    webUrl: "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-give-uk-early-access-to-models-for/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 75
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/383bbbdcbc8cc7077514430dab2072839d7dc9cd/2023/06/12/ef66201a-11c7-4071-a1be-1b603f993b6b/pm.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Speech-to-Speech Translation: DeepMind Deploys New Approach to Train Translatotron 3"
     excerpt: "Google introduces unsupervised training in the Translatotron 3 speech-to-speech translation model, using monolingual speech-to-text datasets."
     publishedDateTime: 2023-06-12T10:45:00Z

@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-12-overcoming-apprehension-using-generative-ai-in-grc.md",
+      "title": "Overcoming Apprehension: Using Generative AI In GRC",
+      "excerpt": "With the right safeguards in place, generative AI can help efficiently address the complexities inherent in GRC for use cases around regulations, policies and risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/overcoming-apprehension-using-generative-ai-in-grc/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/overcoming-apprehension-using-generative-ai-in-grc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648334bbb7a645bee5fbe46d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/overcoming-apprehension-using-generative-ai-in-grc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/12/overcoming-apprehension-using-generative-ai-in-grc/amp/",
+      "publishedDateTime": "2023-06-12T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-how-ai-can-help-customer-experience-agents.md",
+      "title": "How AI Can Help Customer Experience Agents",
+      "excerpt": "When reading recent AI headlines, many people may be afraid of AI or worried that it will render their day-to-day roles obsolete.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a465eb8717a0459e633478/0x0.jpg?format=jpg&width=1200",
+          "width": 853,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/",
+      "publishedDateTime": "2023-06-12T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-mas-launches-ai-in-finance-challenge-for-the-2023-global-fintech-hackcelerator.md",
       "title": "MAS launches AI in Finance Challenge for the 2023 Global FinTech Hackcelerator",
       "excerpt": "The Monetary Authority of Singapore (MAS) today launched the 8th edition of the Global FinTech Hackcelerator, titled “Artificial Intelligence (AI) in Finance Global Challenge”, to produce innovative and market-ready AI solutions that can transform the financial services industry.",
@@ -143,6 +245,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-microsoft-teams-up-with-indian-smbs-to-unleash-generative-ai-brilliance.md",
+      "title": "Microsoft Teams up With Indian SMBs to Unleash Generative AI Brilliance",
+      "excerpt": "According to Microsoft research, almost 35% of SMBs surveyed were spending over 10% of their revenue on technology. Not only this, SMBs in India are also exploring leveraging the capabilities of Generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/microsoft-teams-up-with-indian-smbs-to-unleash-generative-ai-brilliance/",
+      "originalUrl": "https://analyticsindiamag.com/microsoft-teams-up-with-indian-smbs-to-unleash-generative-ai-brilliance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/profile.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -686,7 +831,7 @@
       "originalUrl": "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -985,7 +1130,7 @@
       "originalUrl": "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1076,147 +1221,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-host-ml-models-on-amazon-sagemaker-using-triton-onnx-models.md",
-      "title": "Host ML models on Amazon SageMaker using Triton: ONNX Models",
-      "excerpt": "ONNX (Open Neural Network Exchange) is an open-source standard for representing deep learning models widely supported by many providers. ONNX provides tools for optimizing and quantizing models to reduce the memory and compute needed to run machine learning (ML) models. One of the biggest benefits of",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T12:48:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-florida-universities-look-to-stave-off-ai-in-academic-malfeasance.md",
-      "title": "Florida universities look to stave off AI in academic malfeasance",
-      "excerpt": "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology's power - and stave off the potential for academic malfeasance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
-      "originalUrl": "https://www.cbsnews.com/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2021/08/25/7e0af7b7-b883-4e71-8888-91f4a6d57169/thumbnail/1200x630/e39dd1ecc9fadc10750a0c64b128bd1b/snapshot-2-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
-      "publishedDateTime": "2023-06-09T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-fast-track-graph-ml-with-graphstorm-a-new-way-to-solve-problems-on-enterprise-scale-graphs.md",
-      "title": "Fast-track graph ML with GraphStorm: A new way to solve problems on enterprise-scale graphs",
-      "excerpt": "We are excited to announce the open-source release of GraphStorm 0.1, a low-code enterprise graph machine learning (ML) framework to build, train, and deploy graph ML solutions on complex enterprise-scale graphs in days instead of months. With GraphStorm, you can build solutions that directly take into",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fast-track-graph-ml-with-graphstorm-a-new-way-to-solve-problems-on-enterprise-scale-graphs/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fast-track-graph-ml-with-graphstorm-a-new-way-to-solve-problems-on-enterprise-scale-graphs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/09/graphstorm-fast-track-1260x627.jpg",
-          "width": 1260,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T10:20:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

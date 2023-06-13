@@ -36,19 +36,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "LinkedIn launches generative AI tool to write ad copy"
-    excerpt: "LinkedIn today launched a generative AI tool called AI Copy Suggestions to help advertisers draft texts for their ad campaigns."
-    publishedDateTime: 2023-06-08T15:52:00Z
-    webUrl: "https://venturebeat.com/ai/linkedin-launches-generative-ai-tool-to-write-ad-copy/"
+  - title: "Accepting artificial intelligence: barriers and facilitators influencing healthcare professionals' acceptance of AI in the hospital setting"
+    excerpt: "Researchers investigated the factors that hinder or promote healthcare professionals' acceptance of artificial intelligence (AI) in hospitals."
+    publishedDateTime: 2023-06-13T09:25:00Z
+    webUrl: "https://www.news-medical.net/news/20230613/Accepting-artificial-intelligence-barriers-and-facilitators-influencing-healthcare-professionals-acceptance-of-AI-in-the-hospital-setting.aspx"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: News Medical
+      domain: news-medical.net
+    quality: 35
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1081412082.jpg?w=1200&strip=all"
-        width: 1200
-        height: 606
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_750839_16866475805559826.jpg"
+        width: 1000
+        height: 597
         isCached: true
 
 secured: "6c4ddokCN2k4u3uvRh8U8M0XWiP+JsqnuRxS0MJB7bu1f9q6+xHuVJh9j+qJqM0axNyBfUdERKxrfJC16oCr6UNYUSpde0NtRAbfLfX/lhtH+jOEp5CGTBNwkzm14JCmqDzfXA7bQydTyPIjKR19B6HfcTsFfSiUsxob0wHsUeKNAcovfkPLMqoI0qI4s+sUu1jfpD2Joa+bOYbXlVshlTk1KKf6oq7aNwSbHPHagk3w2GJVT2CrrTseC0hCggaa+7lL80C/0lzFu/ROe+aksWYJ8HIO2s5fhhO55IBOiB0xFih8Ym40dEOqAlBQLWpVHTmcKYFYn1P4VNboepBcwTYLWo+ODnAhmKhoCjSjKqwKddF2zgMggAaw9Uf3Q910U8IOAj/SKt+vMOLRJvrgg2ROL/dlT4BQh991jJDpcG8CGRNKttDcPbMJVfvWIno7coeheYsujscEzOqgM502Cprmu9FTFMy7inaq9FznT3LMh4GeGstm9jmpPx2TOsl0J7Mv+yhnMblxBD1d/1ihOw==;kfLqlKhsrvs61BHzLbOKig=="

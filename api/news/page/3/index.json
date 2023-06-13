@@ -2,6 +2,147 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-09-host-ml-models-on-amazon-sagemaker-using-triton-onnx-models.md",
+      "title": "Host ML models on Amazon SageMaker using Triton: ONNX Models",
+      "excerpt": "ONNX (Open Neural Network Exchange) is an open-source standard for representing deep learning models widely supported by many providers. ONNX provides tools for optimizing and quantizing models to reduce the memory and compute needed to run machine learning (ML) models. One of the biggest benefits of",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T12:48:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-10-florida-universities-look-to-stave-off-ai-in-academic-malfeasance.md",
+      "title": "Florida universities look to stave off AI in academic malfeasance",
+      "excerpt": "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology's power - and stave off the potential for academic malfeasance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
+      "originalUrl": "https://www.cbsnews.com/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2021/08/25/7e0af7b7-b883-4e71-8888-91f4a6d57169/thumbnail/1200x630/e39dd1ecc9fadc10750a0c64b128bd1b/snapshot-2-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
+      "publishedDateTime": "2023-06-09T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-fast-track-graph-ml-with-graphstorm-a-new-way-to-solve-problems-on-enterprise-scale-graphs.md",
+      "title": "Fast-track graph ML with GraphStorm: A new way to solve problems on enterprise-scale graphs",
+      "excerpt": "We are excited to announce the open-source release of GraphStorm 0.1, a low-code enterprise graph machine learning (ML) framework to build, train, and deploy graph ML solutions on complex enterprise-scale graphs in days instead of months. With GraphStorm, you can build solutions that directly take into",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fast-track-graph-ml-with-graphstorm-a-new-way-to-solve-problems-on-enterprise-scale-graphs/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fast-track-graph-ml-with-graphstorm-a-new-way-to-solve-problems-on-enterprise-scale-graphs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/09/graphstorm-fast-track-1260x627.jpg",
+          "width": 1260,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T10:20:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-10-20-artificial-intelligence-stock-picks-and-10-ai-predictions-from-rbc.md",
       "title": "20 Artificial Intelligence Stock Picks, and 10 AI Predictions, From RBC",
       "excerpt": "Wall Street has been cranking out the research on which stocks will be winners from generative artificial intelligency. RBC has weighed in too.",
@@ -235,57 +376,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-09-openai-ceo-calls-for-global-cooperation-to-regulate-ai.md",
-      "title": "OpenAI CEO calls for global cooperation to regulate AI",
-      "excerpt": "Sam Altman, the CEO of ChatGPT maker OpenAI, used a high-profile trip to South Korea on Friday to call for coordinated international regulation of generative artificial intelligence, the technology that underpins his famous chatbot.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "originalUrl": "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230609034602-01-sam-altman-chatgpt-060923-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "publishedDateTime": "2023-06-09T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-09-why-advanced-api-security-is-critical-to-outsmarting-new-threats.md",
       "title": "Why advanced API security is critical to outsmarting new threats",
       "excerpt": "Noname Advanced API Security for IBM aims to further enhance the strength of solutions for monitoring and locking down APIs from evolving threats. \nThe post Why advanced API security is critical to outsmarting new threats appeared first on IBM Blog.\n",
@@ -485,7 +575,7 @@
       "originalUrl": "https://thenextweb.com/news/inside-google-deepmind-ai-safety-strategy-lila-ibrahim",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -742,7 +832,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -838,49 +928,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-09-sheikh-hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence.md",
-      "title": "Sheikh Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence",
-      "excerpt": "The Dubai Centre for AI aims to train 1,000 government employees from over 30 government entities on the uses of generative artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/sheikh-hamdan-launches-dubai-centre-artificial-intelligence/",
-      "originalUrl": "https://gulfbusiness.com/sheikh-hamdan-launches-dubai-centre-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2023/06/Dubai-AI.jpg",
-          "width": 920,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-09-apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf.md",
       "title": "Apple Displaced As Top Holding By AI-Play Big Tech In Robot-Run Large-Cap ETF",
       "excerpt": "The company’s potential to leverage its AI capabilities into standard features within every iPhone, iPad, and MacBook, including object and person recognition tools, could position it as a significant player in the AI space. The intensifying AI battle ...",
@@ -889,7 +936,7 @@
       "originalUrl": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/23/06/32778787/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1073,6 +1120,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-09-microsoft-unveils-azure-openai-service-for-government-ai-customer-commitments.md",
+      "title": "Microsoft unveils Azure OpenAI Service for Government & AI customer commitments",
+      "excerpt": "Microsoft announced its new Azure OpenAI Service for government and the tech giant unveiled a new set of three AI commitments to its customers",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsoft-unveils-azure-openai-service-for-government-ai-customer-commitments/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-unveils-azure-openai-service-for-government-ai-customer-commitments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_u.s._flag_made_out_of_computer_code_edcc3754-3681-4c8e-8cc6-5e39e2d58c06.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-ai-startup-cohere-now-valued-at-over-21b-raises-270m.md",
       "title": "AI startup Cohere, now valued at over $2.1B, raises $270M",
       "excerpt": "Cohere, a generative AI startup with ties to Google, has raised $270 million in a round that values the company at over $2.1 billion.",
@@ -1120,101 +1219,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-another-us-judge-says-lawyers-must-disclose-ai-use.md",
-      "title": "Another US judge says lawyers must disclose AI use",
-      "excerpt": "A judge on the U.S. Court of International Trade on Thursday issued an order requiring lawyers to disclose their use of generative artificial intelligence tools to create legal documents, citing security concerns related to confidential information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/transactional/another-us-judge-says-lawyers-must-disclose-ai-use-2023-06-08/",
-      "originalUrl": "https://www.reuters.com/legal/transactional/another-us-judge-says-lawyers-must-disclose-ai-use-2023-06-08/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/WUJ86NY10CE9sTDRdOnDiXYlMC0=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/756AIQQZJJNOPKCKJOSCV46MAM.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger.md",
-      "title": "Meta unveils plan to infuse generative AI into Facebook, Instagram, Messenger",
-      "excerpt": "Mark Zuckerberg, the CEO of Meta , recently shared his plans to integrate generative artificial intelligence into popular platforms like Facebook, Instagram, and Messenger.Generative AI has",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenews.com.pk/latest/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
-      "originalUrl": "https://www.thenews.com.pk/latest/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-06-09/1078378_023343_updates.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
-      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
-      "publishedDateTime": "2023-06-08T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News International",
-        "domain": "thenews.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

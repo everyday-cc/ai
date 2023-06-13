@@ -20,19 +20,21 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Breakthrough AI Research by Lunit Presented at CVPR 2023: Transforming Pathology with Computer Vision for Medical Applications"
-    excerpt: "Lunit's pioneering AI study to be unveiled at one of the premier computer vision conferences, innovating pathology with more accurate cell detection SEOUL, South Korea, June 12,"
-    publishedDateTime: 2023-06-12T13:00:00Z
-    webUrl: "https://www.asiaone.com/business/breakthrough-ai-research-lunit-presented-cvpr-2023-transforming-pathology-computer-vision"
+  - title: "AI-enabled digital assistants - a development worth having a conversation about for revenue teams"
+    excerpt: "Today, there are AI-powered revenue digital assistants for sales, marketing, and customer success. I spoke with Conversica's CEO Jim Kaskade to learn more about these digital assistants, how generative AI comes into play,"
+    publishedDateTime: 2023-06-13T09:14:00Z
+    webUrl: "https://diginomica.com/ai-enabled-digital-assistants-development-worth-having-conversation-about-revenue-teams"
+    ampWebUrl: "https://diginomica.com/ai-enabled-digital-assistants-development-worth-having-conversation-about-revenue-teams?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-enabled-digital-assistants-development-worth-having-conversation-about-revenue-teams?amp"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 26
+      name: Diginomica
+      domain: diginomica.com
+    quality: 46
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/pr-newswire_500_4_709.jpg?h=7de12b8a&itok=5LJR__X1"
-        width: 600
-        height: 316
+      - url: "https://diginomica.com/sites/default/files/images/2023-05/Shutterstock_2285573277.png"
+        width: 740
+        height: 450
         isCached: true
 
 secured: "RdM0ywkAn8/sgZCD7BkwQnV3L0H8KHqFW9Q6iP751jveWBVeSo6/GBiJFshc3mdBWlfS+nzbHHO6zsaBwYHyF34wnPbDlfdrfb8o8BAHdX19k5ZAph6v9pM/YjwNORJolhHvqPwGdZpUZsaDWq0kMUT7V4MCo0l2ptomJA4uZTxYFcJAHFpPvCZukSXE1MskScLD7O4kwwnT34tRQOJfVMhFfsU6dm6kVgu4ufKN39iFU9F5stPdg9LnbaMQ1q7oy5N55ocDJ31XH/w1aTQzRzBRyzy3XkQiipIg0spB5ZwW7CSGZhp31sNcImKJufs8mmsnJSZKdCx08xaYiCAFtSwHlC0RsnqRMnzQsmEN7tM=;fpakeqTZM9uN7PVOIEG8nQ=="

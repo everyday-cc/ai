@@ -30,125 +30,112 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft, Cisco, Adobe And More Bring Generative AI At Work To Where Work Is Done"
-    excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, looks at how GAI tools impact the everyday worker with copilots and AI assistants."
-    publishedDateTime: 2023-06-08T16:07:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done/amp/"
+  - title: "Google's Generative AI Platform Is Now Available To Everyone"
+    excerpt: "With the service becoming GA, enterprises and organizations could integrate the platform's capabilities with their applications."
+    publishedDateTime: 2023-06-09T05:30:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 98
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6481fb87f19ce780d7bec538/0x0.jpg?format=jpg&width=1200"
-        width: 1100
-        height: 665
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6482b8837a0f4f82412c5c61/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Microsoft unveils Azure OpenAI Service for Government & AI customer commitments"
-    excerpt: "Microsoft announced its new Azure OpenAI Service for government and the tech giant unveiled a new set of three AI commitments to its customers"
-    publishedDateTime: 2023-06-08T22:43:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-unveils-azure-openai-service-for-government-ai-customer-commitments/"
+  - title: "Firm study predicts big spends on generative AI"
+    excerpt: "A new study polling software buyers at businesses worldwide finds strong intention to increase budget, with special interest in AI. It also looks at how vendors can engage buyers."
+    publishedDateTime: 2023-06-09T22:22:00Z
+    webUrl: "https://www.techrepublic.com/article/big-spends-generative-ai-saas-g2/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr6923-Hero.G2.jpeg"
+        width: 969
+        height: 610
+        isCached: true
+  - title: "PhotoRoom, Google Cloud partner to democratize generative AI photo editing"
+    excerpt: "PhotoRoom says its generative AI capabilities and Google Cloud partnership will speed production of product photography content."
+    publishedDateTime: 2023-06-08T18:37:00Z
+    webUrl: "https://venturebeat.com/ai/photoroom-google-cloud-partner-democratize-generative-ai-photo-editing/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 95
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_u.s._flag_made_out_of_computer_code_edcc3754-3681-4c8e-8cc6-5e39e2d58c06.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/PhotoRoom-banner-1x.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Salesforce announces AI Cloud to empower enterprises with trusted generative AI"
+    excerpt: "The new AI Cloud platform from Salesforce offers real-time generative AI capabilities easily incorporated into business operations."
+    publishedDateTime: 2023-06-12T14:52:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-announces-ai-cloud-to-empower-enterprises-with-trusted-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_marc_benioff_stands_below_a_puffy_glowing_blue_cloud_ra_0acbf8bf-d49f-4e8b-8bb0-7e63ea41c82e.png?w=1200&strip=all"
         width: 1200
         height: 672
         isCached: true
-  - title: "Microsoft used AI to refrain people from downloading Chrome"
-    excerpt: "It comes as no surprise that ever since the success of ChatGPT and its subsequent integration into the Edge browser as the Bing AI chatbot, Microsoft has gone from being the underdog in the search engine market to now seeing themselves fighting for market ..."
-    publishedDateTime: 2023-06-08T22:40:00Z
-    webUrl: "https://www.androidheadlines.com/2023/06/microsoft-used-ai-to-refrain-people-from-downloading-chrome.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/06/microsoft-used-ai-to-refrain-people-from-downloading-chrome.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/06/microsoft-used-ai-to-refrain-people-from-downloading-chrome.html/amp"
+  - title: "Google's generative AI platform ‘Vertex’ now available to everyone"
+    excerpt: "Google announced the general availability of generative AI services based on Vertex AI, the machine learning platform as a service (ML PaaS) offering from Google Cloud. With the service becoming generally available,"
+    publishedDateTime: 2023-06-12T04:51:00Z
+    webUrl: "https://www.emirates247.com/technology/google-s-generative-ai-platform-vertex-now-available-to-everyone-2023-06-12-1.713024"
+    ampWebUrl: "https://www.emirates247.com/technology/google-s-generative-ai-platform-vertex-now-available-to-everyone-2023-06-12-1.713024?ot=ot.AMPPageLayout"
+    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/google-s-generative-ai-platform-vertex-now-available-to-everyone-2023-06-12-1.713024?ot=ot.AMPPageLayout"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 76
+      name: Emirates247
+      domain: emirates247.com
+    quality: 59
     images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/03/Bing-AI-Logo-AH.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.emirates247.com/polopoly_fs/1.713025.1686545324!/image/image.jpg"
+        width: 960
+        height: 540
         isCached: true
-  - title: "As Cortana Retires, Microsoft Brings AI-Powered Bing Voice Mode to Desktop"
-    excerpt: "This new voice mode makes it more convenient to use the AI-powered Bing Chat since you can talk to it while you work on other stuff."
-    publishedDateTime: 2023-06-09T18:37:00Z
-    webUrl: "https://www.pcmag.com/news/as-cortana-retires-microsoft-brings-ai-powered-bing-voice-mode-to-desktop"
+  - title: "Snorkel AI looks beyond data labeling for generative AI"
+    excerpt: "Snorkel AI is announcing new capabilities that extend beyond data labeling to help organizations, curate and prepare data for Generative AI."
+    publishedDateTime: 2023-06-12T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/snorkel-ai-looks-beyond-data-labeling-for-generative-ai/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 62
-  - title: "Microsoft Teams up With Indian SMBs to Unleash Generative AI Brilliance"
-    excerpt: "According to Microsoft research, almost 35% of SMBs surveyed were spending over 10% of their revenue on technology. Not only this, SMBs in India are also exploring leveraging the capabilities of Generative AI."
-    publishedDateTime: 2023-06-12T07:37:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-teams-up-with-indian-smbs-to-unleash-generative-ai-brilliance/"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Oracle invests in Cohere, plans to integrate generative AI tools into its cloud"
+    excerpt: "Oracle has invested in generative AI company Cohere, in a deal that valued the business at around $2.2 billion. The $270m Series C round also saw participation from Nvidia and Salesforce. Oracle's investment is said to loosely mirror that of Microsoft with OpenAI and Google with Anthropic,"
+    publishedDateTime: 2023-06-11T16:09:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/oracle-invests-in-cohere-plans-to-integrate-generative-ai-tools-into-its-cloud/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/profile.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media.datacenterdynamics.com/media/images/Oracle_plane.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "We are seeing an artificial intelligence battle between Microsoft and Google: Beth Kindig"
-    excerpt: "I/O Fund CEO and lead tech analyst Beth Kindig provides insight on stock performance and the development of AI on 'Making Money.'"
-    publishedDateTime: 2023-06-09T18:54:00Z
-    webUrl: "https://www.foxbusiness.com/video/6329098666112"
+  - title: "Snorkel AI Introduces New Foundation Model Data Platform to Bring the Power of Programmatic Data Development to Generative AI"
+    excerpt: "Press Release Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic data development approach. With Snorkel AI's Foundation Model Data Platform,"
+    publishedDateTime: 2023-06-12T14:26:00Z
+    webUrl: "https://venturebeat.com/business/snorkel-ai-introduces-new-foundation-model-data-platform-to-bring-the-power-of-programmatic-data-development-to-generative-ai/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 45
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/0cd95be2-8c2c-4d7b-b899-9e6e5990c8a3/01e569c3-a14c-4973-b7fc-baf39650a674/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "AWS distances itself from Google, Microsoft with ‘unique’ approach to generative AI"
-    excerpt: "AWS has emphasised its commitment to providing customers with the widest range of AI tools, in a strategy that distances it from other hyperscale AI providers. The firm, the third of the hyperscalers to fully enter the generative artificial intelligence (AI) foray,"
-    publishedDateTime: 2023-06-12T12:15:00Z
-    webUrl: "https://www.techcentral.ie/aws-distances-itself-from-google-microsoft-with-unique-approach-to-generative-ai/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 45
-  - title: "AWS Unveils Unique Approach to Generative AI, Setting It Apart from Google and Microsoft"
-    excerpt: "AWS is making significant strides in the field of generative AI with its distinctive approach. By focusing on customization, fine-tuning, and responsible development, AWS sets itself apart from competitors like Google and Microsoft."
-    publishedDateTime: 2023-06-09T18:18:00Z
-    webUrl: "https://techstory.in/aws-distances-itself-from-google-microsoft-unique-generative-ai/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 42
-  - title: "Microsoft moving some top AI experts from China to new lab in Canada"
-    excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
-    publishedDateTime: 2023-06-09T20:00:00Z
-    webUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 36
-  - title: "Microsoft to move top AI experts from China to new lab in Canada"
-    excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
-    publishedDateTime: 2023-06-10T10:49:00Z
-    webUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55?sharetype=gift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 22
 
 secured: "wUJky67jZWeseIIM+lrSJDOqdk4S46gwjw0+NSur6VoIXvU25I+hTWfL7QsD48KuPeT0WQHWEFqeasF6SUz/nQpo5H+NEcDRwn/OE+GOAfX4p+FMIefMPlFFrIjnJtY8LxQ75HLQm8StFEqVWlRxU/O+HP5bcvCeuvHLI9jDJS0HHRL/jCxFnop25BJsNJnFeMaP8WHr7e3lYjcZS86/oCU4RLiZVMhSit8KUPCt+QQZiXbnoMf8WkpwNYgW+DMVyGMGgqtui+VZVOU1l5qZUsaq2it/XqUtMq+ua/GnNwwaMZ0i91KZn3oC8Es7Pr44VMJNx2wGwLHKjAiP7beiqEBqwQipx928hKcomhJD1F1ctCf9kw4N0eEXvXBlNSh4DzVK90vcdX2Hb+kAS+0vM9d9BeEXF/6EKjnu/sE/OJdFXUMRsbUcLwHoFcyptTD7Vd1FbkPhd/sTfS2v4RUEC4Ito/cKN8Z/iIuAqk2iZqCgzWIuzTosZ4JpBXwhx0mSCuVOTm7D4H7ukES3auXx9g==;dHmrPD5+f5cBAQ5OJQsFbg=="
 ---

@@ -20,22 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft, Cisco, Adobe And More Bring Generative AI At Work To Where Work Is Done"
-    excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, looks at how GAI tools impact the everyday worker with copilots and AI assistants."
-    publishedDateTime: 2023-06-08T16:07:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/06/08/microsoft-cisco-adobe-and-more-bring-generative-ai-at-work-to-where-work-is-done/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 98
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6481fb87f19ce780d7bec538/0x0.jpg?format=jpg&width=1200"
-        width: 1100
-        height: 665
-        isCached: true
   - title: "Microsoft unveils Azure OpenAI Service for Government & AI customer commitments"
     excerpt: "Microsoft announced its new Azure OpenAI Service for government and the tech giant unveiled a new set of three AI commitments to its customers"
     publishedDateTime: 2023-06-08T22:43:00Z
@@ -50,19 +34,33 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "5 ways to explore the use of generative AI at work"
-    excerpt: "ChatGPT and other generative AI tools have captured the public imagination. Here's how you can turn a much hyped tool into a productivity boon."
-    publishedDateTime: 2023-06-12T13:52:00Z
-    webUrl: "https://www.zdnet.com/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
+  - title: "OpenAI CEO calls for global cooperation to regulate AI"
+    excerpt: "Sam Altman, the CEO of ChatGPT maker OpenAI, used a high-profile trip to South Korea on Friday to call for coordinated international regulation of generative artificial intelligence, the technology that underpins his famous chatbot."
+    publishedDateTime: 2023-06-09T11:47:00Z
+    webUrl: "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: CNN
+      domain: cnn.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/6448985610910fb9c6027b90eaf317dac61b65da/2023/06/12/c6a475c6-2642-4195-b8e8-9aabbb64edee/gettyimages-1252207238.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230609034602-01-sam-altman-chatgpt-060923-restricted.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Microsoft has added ChatGPT into the secure US government Azure cloud"
+    excerpt: "Microsoft has announced its Azure OpenAI Service is now available to the US government in an even more secure format, with specific compliance promised for regulatory standards for classification and security."
+    publishedDateTime: 2023-06-12T15:03:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/E9JMqiF2RG9PQAUBVnHM6h-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -82,6 +80,36 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "OpenAI, DeepMind will open up models to UK government"
+    excerpt: "Google DeepMind, OpenAI and Anthropic have agreed to open up their AI models to the U.K. government for research and safety purposes, Prime Minister Rishi Sunak announced at London Tech"
+    publishedDateTime: 2023-06-12T10:07:00Z
+    webUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/"
+    ampWebUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 74
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/31/GettyImages-1248338134-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "OpenAI CEO Calls for Collaboration With China to Counter AI Risks"
+    excerpt: "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement."
+    publishedDateTime: 2023-06-10T05:19:00Z
+    webUrl: "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-797978/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "As Cortana Retires, Microsoft Brings AI-Powered Bing Voice Mode to Desktop"
     excerpt: "This new voice mode makes it more convenient to use the AI-powered Bing Chat since you can talk to it while you work on other stuff."
     publishedDateTime: 2023-06-09T18:37:00Z
@@ -91,43 +119,52 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 62
-  - title: "Microsoft Teams up With Indian SMBs to Unleash Generative AI Brilliance"
-    excerpt: "According to Microsoft research, almost 35% of SMBs surveyed were spending over 10% of their revenue on technology. Not only this, SMBs in India are also exploring leveraging the capabilities of Generative AI."
-    publishedDateTime: 2023-06-12T07:37:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-teams-up-with-indian-smbs-to-unleash-generative-ai-brilliance/"
+  - title: "Microsoft Extends OpenAI's Language Models to US Government Agencies via Azure Cloud"
+    excerpt: "By bringing OpenAI's sophisticated language models to Azure Government, Microsoft aims to empower US federal agencies with cutting-edge AI capabilities. This move underscores the company's commitment to delivering innovative solutions and advanced ..."
+    publishedDateTime: 2023-06-11T09:04:00Z
+    webUrl: "https://menafn.com/1106422461/Microsoft-Extends-OpenAIs-Language-Models-to-US-Government-Agencies-via-Azure-Cloud"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: Mena FN
+      domain: menafn.com
+    quality: 62
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/profile.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_80_menafn.jpg"
+        width: 512
+        height: 262
         isCached: true
-  - title: "We are seeing an artificial intelligence battle between Microsoft and Google: Beth Kindig"
-    excerpt: "I/O Fund CEO and lead tech analyst Beth Kindig provides insight on stock performance and the development of AI on 'Making Money.'"
-    publishedDateTime: 2023-06-09T18:54:00Z
-    webUrl: "https://www.foxbusiness.com/video/6329098666112"
+  - title: "OneDegree partners with Microsoft to drive Insurtech & cybersecurity innovations with Azure OpenAI"
+    excerpt: "OneDegree Global, a technology startup in the insurtech and cybersecurity sectors, has entered into a strategic partnership with Microsoft Hong Kong. The"
+    publishedDateTime: 2023-06-12T06:01:00Z
+    webUrl: "https://www.reinsurancene.ws/onedegree-partners-with-microsoft-to-drive-insurtech-cybersecurity-innovations-with-azure-openai/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 45
+      name: reinsurancene
+      domain: reinsurancene.ws
+    quality: 55
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/0cd95be2-8c2c-4d7b-b899-9e6e5990c8a3/01e569c3-a14c-4973-b7fc-baf39650a674/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
+      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2019/10/cyber-security.jpg"
+        width: 340
+        height: 226
         isCached: true
-  - title: "AWS distances itself from Google, Microsoft with ‘unique’ approach to generative AI"
-    excerpt: "AWS has emphasised its commitment to providing customers with the widest range of AI tools, in a strategy that distances it from other hyperscale AI providers. The firm, the third of the hyperscalers to fully enter the generative artificial intelligence (AI) foray,"
-    publishedDateTime: 2023-06-12T12:15:00Z
-    webUrl: "https://www.techcentral.ie/aws-distances-itself-from-google-microsoft-with-unique-approach-to-generative-ai/"
+  - title: "Klir Unveils Revolutionary ChatGPT Integration powered by Microsoft Azure's OpenAI Service for its Unified Water Management Platform"
+    excerpt: "The first-of-its-kind AI integration simplifies compliance and operational processes for water professionals while maximizing economic and"
+    publishedDateTime: 2023-06-12T22:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/klir-unveils-revolutionary-chatgpt-integration-powered-by-microsoft-azure-s-openai-service-for-its-unified-water-management-platform-1032384641"
     type: article
     provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 45
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+  - title: "OpenAI’s CEO Calls on China to Help Shape AI Safety Guidelines"
+    excerpt: "China should play a key role in shaping the artificial intelligence guardrails needed to ensure the safety of transformative new systems, OpenAI Inc.’s Chief Executive Officer Sam Altman said."
+    publishedDateTime: 2023-06-10T03:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-10/openai-s-ceo-altman-calls-on-china-to-help-shape-ai-safety-guidelines"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "AWS Unveils Unique Approach to Generative AI, Setting It Apart from Google and Microsoft"
     excerpt: "AWS is making significant strides in the field of generative AI with its distinctive approach. By focusing on customization, fine-tuning, and responsible development, AWS sets itself apart from competitors like Google and Microsoft."
     publishedDateTime: 2023-06-09T18:18:00Z
@@ -146,6 +183,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "OpenAI CEO highlights South Korean chips sector for AI growth, investment"
+    excerpt: "OpenAI CEO Sam Altman encourages South Korea to lead in AI chip production, expressing interest in investing in Korean startups."
+    publishedDateTime: 2023-06-10T10:29:00Z
+    webUrl: "https://cointelegraph.com/news/openai-ceo-highlights-south-korean-chips-sector-for-ai-growth-willing-to-invest"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 33
 
 secured: "IC32PiEFiYBouR7LUGYhXagizQkeIn30FgSDIwaybO0EmrZpR1NzFe6ZMsOWQFDMwj+kLy1fIcQK2IF7gwDo+uAwu6BKo6tCoqccrWGQBj1wN6fMNcB+zoz8M3J4CymtSZMUxVY7TOvfsRYut08Kgg0avWjwNYsFlCMQE6jz4uFShIoL7fo3borvG29gcFBIBW3uMRR7ZBJ85zaKR8lyFUSx9k/hO58v6C6K93QgWu509H5AA6/cKJK+YKp4m/wgRCPMb0/GG6x6OdLaBQc5Al5p0TmYWh3z3eRQA+O9Muckb7+syw92yj1bffl4RzCz9Lb7+bGkwobrjc5zaa8zbOm13/R/7t9Boy6Zj5EwHh1Vmq2LsJL3ALmPX5ujidR2aSOneYY6YYH2B7lx2aX7g4om2u1jCpKP+nqJgPgOXSLgoXlIQjLfq/lCV35FndHINRJ1QmcG6PufcK1594WoF4KJZYtV7wbbbP+uOSusvEQXua8z46Evbxrxt6m17fYHdD0orQwblcstIF8tWjP33w==;UtAHzdCMRZL2tioOdo+MxQ=="
 ---

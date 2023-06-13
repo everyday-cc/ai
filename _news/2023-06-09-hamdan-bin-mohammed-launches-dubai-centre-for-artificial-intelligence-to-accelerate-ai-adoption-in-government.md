@@ -33,20 +33,6 @@ related:
         width: 920
         height: 630
         isCached: true
-  - title: "Sheikh Hamdan launches Dubai Centre for Artificial Intelligence to accelerate government services"
-    excerpt: "\"Dubai’s government will be the best in the world in deploying artificial intelligence (AI) within its various entities. This new Centre is the first step in achieving this goal and developing future services to keep pace with rapid technological advancements."
-    publishedDateTime: 2023-06-08T16:29:00Z
-    webUrl: "https://www.gulftoday.ae/business/2023/06/08/sheikh-hamdan-launches-dubai-centre-for-artificial-intelligence-to-accelerate-government-services"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 41
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/6/8/hamdan1-ai-centre.ashx?h=450&w=750&hash=7015494E182873E00ED3CF41B76A09A3"
-        width: 750
-        height: 450
-        isCached: true
 
 secured: "8/GFV/0hnzGQAI0b1oZ7N7mBsw57LHLNtTCHHf6BofB1BSaUrsybSZyEpaJRyPd11QCMqa2LmjQzCsbKL8pWE7iECJGDqaaXdbJwmYMfjVNk9LFwVkXzGul9j7PknppNAzLDN6W93eg1vgce/3SVL4slTplG77hVClMqC1zr0Q31a1gluQlqkiMilISWi+tn2ehlr34VVaEKWo12MRdBxb6Gr3ZPco6qK3HgacKgn7sGAxwiEOIy9Z5SdH41+xIcDf4diCXDJaQ0qXLyUD+JnoeICWhtFzqeglvnLpwKBfA1tn+6WqExNGND3Pi/26XjThqiazaUqX92nSOMGMGaiowWub/tsk43AeQxH8c0da0=;aY9U5NYbdLR7OAQj8Ff2uA=="
 ---
