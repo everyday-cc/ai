@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Jebbit Launches AI-Powered Interactive Digital Experiences"
+    excerpt: "Jebbit, the provider of the world's first zero-party data and customer experience platform, today announced the launch of its new AI-powered Experience Generator and Language Translation capabilities,"
+    publishedDateTime: 2023-06-14T13:18:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/14/9832627.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+
 secured: "qBEgbJ7MMDiuA7Bk/URV79c8ENEzR5tGOfxeFiAPsRBx85xcNm3ZXf6Ee4kjZ/Dv0YHU2KnHASMc9kZI37hOlsia8rETq3wHfifCHHMrAtYALDEw6HdREsZeag8Qov+pUO9c7LtH5zsqzr1OjqFUKYbYeHxJKoN744W/A52j7ciqajWALeeVmmQB+5SeiG2CBI2pS9SHXxmwowYbPPjtz3nBLQFZ3yr0uhHZDS2kNmDIcNlgKD4jxW9YSQYA9O6j38/qTeQXccUmp3iAwXKUzUotIAaCF5iSk+yev3rnKkXl6AFVJkN1YgUxvZM/3BTMx3umvQLWH6RWm0a2hCMZKrkobShFR+MTMzIee5w1obE=;7SveKx46D1mbFGncqasCrQ=="
 ---
 

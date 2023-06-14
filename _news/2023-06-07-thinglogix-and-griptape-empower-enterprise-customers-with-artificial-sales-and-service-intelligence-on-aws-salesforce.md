@@ -17,11 +17,11 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/06/Fathers-day-1.jpg?w=2000&#038;ssl=1"
-    width: 640
-    height: 356
+  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/06/home-plate-umpire-baseball.jpg?w=2000&#038;ssl=1"
+    width: 800
+    height: 450
     isCached: true
 
-secured: "yHYY0VGEEXDGLTa36kgkbtmC+JUbS8QYYFlZQuxRlEdaTtPaILmwlAp1LVASKWMHf5q/bJaj6m2BiYCwPiSB3+YigJ7dE1UwoaRIlH8DdRFY1RpxYgjI8bxyxo8ZQs6xQR/SCjGcRp6C6aixFxntme0Oef12y+OaD9tq93+y873aamuB1Fnr4sdbv4VhodDQWNA5bnsKj46YgnUknwA1Vvb8pg4OLmfdg2hxa+jJfG8qjT8Sxhm31Tj5qtF9Se4EIlE+uQbjVSAjq6wpMUxfQbXo9JB2Km0Sz8GazXBZbSgPUqWklldJg6BgsJBHS7uJ7p/7fDKHRD6GyTjK2zQ6IuhAFGJfqse4P6tkLeU1RZE=;fZrRHICo8U48Ms7SUqilHg=="
+secured: "Dyxnwp/Fo55Kms/ktiY6YCYLEGhTD7IVkfjL1cgTmhASp9RhCkHv278zwdK+S2/+TEBFpJW3g2w3aTQbw2sTFHaKxJzxod08vWDLyyn449IokeywhHhIm3f9ac/+zU7lZie1OImapMyh3TDkBsiWcM6rtYUJ1NPpsglI5EjCOAYQKpmgNBKJB0NIc2pg2pdV89ReELJv0PsVkSy3CYHuOpzncZArUCUVGenyb6eDMgixT635EEiCiF12KEd3GeVEwe1LHFUHjtTRfR5XZfMXnuxwxa0RpbhsNNslObiQDbd6guHf0aRPE22xW697A8sivPRrDYD8mCRQKJoQ2jhvIshrErO7Vbw8wqaG5vrtlro=;ZJw65Pm3SrlOInOCD7aGNA=="
 ---
 

@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 773
         isCached: true
+  - title: "Beyond Automation: How AI Is Transforming Aviation"
+    excerpt: "“We strongly believe that generative AI will really start helping scale these things to the much bigger ... the impact that AI will have on the job market is not yet clear. Robots have already taken over some tasks that humans originally performed ..."
+    publishedDateTime: 2023-06-14T15:33:00Z
+    webUrl: "https://www.ainonline.com/aviation-news/aerospace/2023-06-14/beyond-automation-how-ai-transforming-aviation"
+    type: article
+    provider:
+      name: Ainonline.com
+      domain: ainonline.com
+    quality: 39
+    images:
+      - url: "https://www.ainonline.com/sites/default/files/styles/app_large_full/public/uploads/2023/05/363web-plane.jpg?itok=_y7c-TJV"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "c/5PVx4uXv6xcJ16qMkTAfR+IryCaSgTMhNr4xHRk2nKlREimRoeJe6Qk56M4K4C7sNXJzlsT6XKozL7uk83IcMByqZqnIs3zKIwJhcsuSmhNH8ZMOOUAALoFfrANyyJloFW8kZnvUllcLi35T8tFoGQjwspveKEUvNJw0gG15HsraeNn8u5BztYI8r+cyLfqAAG12N2MA2jhV5BQeu/FyxLVawpb/KkJQ1Pw9eLkAWi7i+7+enlm84Mi8DYw4zlc1G4Kwd6TPzaMRo3sW5+TOwHX0Q/u2s5q0SHME1V2KgYz6/dB4I8I4yRJvoA/1MzloLVb69UmmCxl0CH/bXzmrZcNyyQWprVDJ8Eojgvy+a7Y0F4ubBUbIIv70uHraO68AMyOW6V2wIuSthyMlNb1LpWXuGmHNSOK//snab2mIFcIVvF0uLb58/YY9ScbceN/Bi+bnO8SKIwnQuYtrXWp8pdFtDz6biylkOh3h2veWlemWExBSsD6FVNcTWd1c3uMLOPR2J1EApxZccJmsV8KA==;Yqo+bxdjxMgXTssJuduwFQ=="
 ---

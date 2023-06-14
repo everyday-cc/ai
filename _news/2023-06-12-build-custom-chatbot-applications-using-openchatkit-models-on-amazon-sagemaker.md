@@ -57,6 +57,20 @@ related:
         width: 1023
         height: 510
         isCached: true
+  - title: "Bring SageMaker Autopilot into your MLOps processes using a custom SageMaker Project"
+    excerpt: "Every organization has its own set of standards and practices that provide security and governance for their AWS environment. Amazon SageMaker is a fully managed service to prepare data and build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools,"
+    publishedDateTime: 2023-06-14T17:03:03Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-sagemaker-autopilot-into-your-mlops-processes-using-a-custom-sagemaker-project/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/14/bring-sagemaker-autopilot-mlops.jpg"
+        width: 1023
+        height: 513
+        isCached: true
   - title: "Fine-tune GPT-J using an Amazon SageMaker Hugging Face estimator and the model parallel library"
     excerpt: "GPT-J is an open-source 6-billion-parameter model released by Eleuther AI. The model is trained on the Pile and can perform various tasks in language processing. It can support a wide variety of use cases, including text classification, token classification, text generation, question and answering, entity"
     publishedDateTime: 2023-06-12T17:22:09Z

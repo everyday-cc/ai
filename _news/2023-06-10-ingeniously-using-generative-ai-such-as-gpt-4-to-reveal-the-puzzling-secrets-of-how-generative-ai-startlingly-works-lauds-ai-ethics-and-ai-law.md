@@ -79,6 +79,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Everything You Need to Know About the EU's Game-Changing AI Legislation"
+    excerpt: "The European Parliament votes to pass the first comprehensive AI rules. Here's a brief summary of the AI Act, the influence of which will likely extend beyond the EU."
+    publishedDateTime: 2023-06-14T17:08:00Z
+    webUrl: "https://www.pcmag.com/news/everything-you-need-to-know-about-the-eus-game-changing-ai-legislation"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06YSHh9Q84O3ILT58Wkxzi4-2.fit_lim.size_1200x630.v1686758662.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Transforming medical diagnosis using artificial intelligence"
     excerpt: "Dr Venugopal Pareek, Laparoscopic and Bariatric Surgeon, Care Hospitals, says, “AI comes into play, especially when we are doing the surgery with the help of robots."
     publishedDateTime: 2023-06-14T03:57:00Z

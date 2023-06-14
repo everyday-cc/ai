@@ -24,6 +24,22 @@ images:
     height: 633
     isCached: true
 
-secured: "S3Qpg0lnS58NPuAHGUBR1FTKCg7bZNDMusxqsNCJaAHTGUERudDRhVcq4gKV8bWGc/+nX+dpVgxXkPr1zq9EWUNwn+Mw0EA/AY46/bHo8NtVzHoeba7/3SewODIRx7IBfGRsGrc2oVsmT/6OoP+hKMeoAS9Xov9BBt44Wlz8bwOMnWX4xY4AfLlQTk7roFT5oVNiR4MCR+8NgCr/XHgOR4WeCvealOiIG9riZrqS1OY8b/Ibx++W553srPU2ELP6pI4cpMfClPVx3asEpPSKKaHQ2OlNyFJfNP8f0bN+E036a3C5K8MwRyYFvizCVed53KlYRg9DRLYe5hRcmk/v3af+ffEHUvaLF0jRUSxEGYQ=;cYK53PcBNOlGDe2hvNHrAg=="
+related:
+  - title: "Don't be a victim of AI hallucinations"
+    excerpt: "A little knowledge of how artificial intelligence goes a long way in making sure its results aren't entirely made up."
+    publishedDateTime: 2023-06-14T17:01:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/dont-be-a-victim-of-ai-hallucinations"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/b058df5/2147483647/strip/true/crop/1080x567+0+21/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fa1%2F91%2Fe4b3404b479db66f090cefb02121%2Fact-og-image.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "Z/uo3Zb73Kd5Y1W93sks+t8IG87zTlFPFlZ0C12SWoZKAwonfrQ/z8dZFgw8pqaVOnqJKR+bbhc87OcKnazM+o6DG1HjyrEUHjZ2sRyAFEKzwo2JbitRLPTqvCrzL/fUxVdr5y2BDNB27hv1WGfMfK8cCqun6uwKXZCenDP1fd33kwUqDkgHMRX3+R07+8EW7RnQnx8T/IIjeomOjx4uhc21N2zzLUqsLH47yC5KEB+erWyS7LYBjN40Trm+pF1Q25WyMDQRijH61KE4ug/paHZ8QduQFWwgjXDt32u/Qv9JQdwyndgYNTfcAqY8aUTxLV5iUQHReJL92SJcm7a39rEYasLvGTNP6DAp9HJK18zeRXNY60O6KzUp8hrT+6eDQn1Py+k1/gMBsUo4IH8IaROcquEiXCOAK19z0D4T7jXToQdDcPIao7dMqKLtIPcuZMWDcBN06L7mx4vvcW9jAEXZtjjR/esX9XNgbgqiAYthQiK/2oByyMGYYxIulLXWGUYw/yOJOEp4WrHh9ZG2+A==;hoQSuO8KqpdoI0Fq9ua+rw=="
 ---
 

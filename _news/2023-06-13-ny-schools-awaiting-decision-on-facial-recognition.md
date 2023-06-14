@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true"
 type: article
 quality: 74
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "MEPs agree to curtail uses of facial recognition under changes to draft artificial intelligence rules"
-    excerpt: "The European Union took an important step Wednesday toward passing what would be one of the first big laws to regulate artificial intelligence, a potential model for policymakers around the world as they grapple with how to put guardrails on the rapidly developing technology."
-    publishedDateTime: 2023-06-14T11:35:00Z
-    webUrl: "https://www.irishtimes.com/world/europe/2023/06/14/meps-agree-to-curtail-uses-of-facial-recognition-under-changes-to-draft-artificial-intelligence-rules/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 34
   - title: "Breaking news. MEPs endorse blanket ban on facial recognition in public spaces, rejecting targeted exemptions"
     excerpt: "The debate has been inevitably shaped by developments in China, where the Communist Party has rolled out a massive, sophisticated network of facial recognition cameras to monitor the country's population."
     publishedDateTime: 2023-06-14T11:29:00Z

@@ -28,59 +28,54 @@ images:
     isCached: true
 
 related:
-  - title: "European lawmakers sign off on world's first set of rules for artificial intelligence"
-    excerpt: "European lawmakers have signed off on the first official set of comprehensive rules for AI. Here is an official look at the EU's Artificial Intelligence Act."
-    publishedDateTime: 2023-06-14T15:20:00Z
-    webUrl: "https://www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence"
-    ampWebUrl: "https://www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence.amp"
+  - title: "EU moves ahead with draft law to regulate AI"
+    excerpt: "The act, which has served as an example for other nations to develop their own AI regulations, restricts the use of technologies like facial recognition software and requires transparency from AI developers to share more data used to create their systems, like, for example, ChatGPT or Bing chat."
+    publishedDateTime: 2023-06-14T16:19:00Z
+    webUrl: "https://www.zdnet.com/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 80
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/577eba2f-d2ca-43d3-a404-f0ed39fe314d/6c0f48f4-c758-4bba-adda-cbfe95bd919f/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://www.zdnet.com/a/img/resize/77f737a8d9f3dc00c855519d11f5dd28d79ec0aa/2023/06/14/1ea8cf14-9e3c-43ff-92a5-f9a7db2fa51e/untitled-1.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Regulation Is Almost Here in Europe"
-    excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
-    publishedDateTime: 2023-06-14T10:10:00Z
-    webUrl: "https://www.wsj.com/articles/ai-regulation-is-almost-here-in-europe-10b32c8f"
+  - title: "EU lawmakers agree to changes in draft artificial intelligence rules"
+    excerpt: "The lawmakers will now have to thrash out details with EU countries before the draft rules become legislation."
+    publishedDateTime: 2023-06-14T10:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/articleshow/100991890.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://images.wsj.net/im-799506/social"
-        width: 1280
-        height: 640
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-364372,msid-100992047/file-photo-european-union-flags-flutter-outside-the-european-commission-headquarters-in-brussels.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "AI Regulation Is Here. Almost."
-    excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
-    publishedDateTime: 2023-06-14T13:37:00Z
-    webUrl: "https://www.wsj.com/articles/ai-regulation-is-almost-here-in-europe-10b32c8f?mod=tech_lead_pos3"
+  - title: "EU moves closer to passing one of world’s first laws governing AI"
+    excerpt: "Bloc hopes to set global standard for technology – including ban on police use of live facial recognition technology in public places"
+    publishedDateTime: 2023-06-14T13:14:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai?trk=public_post_comment-text"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://images.wsj.net/im-799506/social"
-        width: 1280
-        height: 640
+      - url: "https://i.guim.co.uk/img/media/45841538e1aeae6c32c2c831ac875b5528ec564a/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=9b617722c7d6c86a671130539aea4b6a"
+        width: 620
+        height: 372
         isCached: true
-  - title: "U.S. Cyber Envoy Warns That European AI Rules Could Stymie Sector"
-    excerpt: "If more nimble regulation were adopted, ‘little Silicon Valleys’ could sprout across the democracies of Europe, says Nathaniel Fick, whose comments come amid rising tensions with China."
-    publishedDateTime: 2023-06-12T18:24:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-cyber-envoy-warns-that-european-ai-rules-could-stymie-sector-a78cca83"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "EU lawmakers pass landmark artificial intelligence regulation"
     excerpt: "The European Union's AI Act is the first comprehensive set of regulations for the artificial intelligence industry."
     publishedDateTime: 2023-06-14T11:44:00Z
@@ -90,15 +85,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 47
-  - title: "Four-week-old AI start-up raises record €105mn in European push"
-    excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105mn in Europe’s largest-ever seed round."
-    publishedDateTime: 2023-06-13T16:00:00Z
-    webUrl: "https://www.ft.com/content/cf939ea4-d96c-4908-896a-48a74381f251"
+  - title: "MEPs agree to curtail uses of facial recognition under changes to draft artificial intelligence rules"
+    excerpt: "The European Union took an important step Wednesday toward passing what would be one of the first big laws to regulate artificial intelligence, a potential model for policymakers around the world as they grapple with how to put guardrails on the rapidly developing technology."
+    publishedDateTime: 2023-06-14T11:35:00Z
+    webUrl: "https://www.irishtimes.com/world/europe/2023/06/14/meps-agree-to-curtail-uses-of-facial-recognition-under-changes-to-draft-artificial-intelligence-rules/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 34
   - title: "How Europe is leading the world in the push to regulate AI"
     excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle."
     publishedDateTime: 2023-06-14T06:15:00Z
@@ -108,15 +103,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 17
-  - title: "French start-up Mistral AI to compete with Silicon Valley firms, raises 105 million euros in Europe's largest seed funding"
-    excerpt: "Mistral AI, formed by former Google and Meta AI researchers is planning to launch Large Language Model to compete with ChatGPT next year"
-    publishedDateTime: 2023-06-14T13:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/current-affairs/french-start-up-mistral-ai-to-compete-with-silicon-valley-firms-raises-105-million-euros-in-europes-largest-seed-funding-10797461.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 0
 
 secured: "pyuTfb7CZSgYdp9B+5jiK9B4QtFimcM4Hh4MuvC6OZ3653SEG9VDXXcwrT6F82ogyD4Ynoouy6u29DLR2LqgWPghz0ikeTALCOLgQ3ALztox5mCwTK9+ayrAVP6xXTnY2f8Br5O5Q6o9kAWrbPalL0ra7O+RQ8Op9AQ4MqtxQHN7fxNpl2laOXU8Hp7EXVChitd1b4uSpD2U18G2u70d9IHsnyD2vH7O1u18bkshDRBTj6a3aTFJ5pxeAErx1oE3I+fbRWDzherQzjISKMFJO6Tc1w8cpi6Z4weexMUqmjarF/g4/IXGPlX2rgoWjR+GVo80M+rfdJYHMuu2C0FezJpWacU0FVmmxCigQyRO7slgRyl6jZqDlOS6LQv0O3ELec+3ItveKKSPyo9rPz/RY5AVfnKh9tknq3TeDADX36QmneWfdLiEsvc8BdyAL/Jp7KNsbrjpJwhKOAHRdRa5N8lOybgKrDtxjf+ahQIVNPhXV2PGsjOklqxPIU7r9F06bnOJtMtSo8SZRvE+vnvlsw==;Fe+bIKtz9GwemwRRW1ANew=="
 ---

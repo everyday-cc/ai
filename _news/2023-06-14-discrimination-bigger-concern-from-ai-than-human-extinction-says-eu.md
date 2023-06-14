@@ -74,6 +74,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "UN chief calls for coordinated global action on disinformation, hate and artificial intelligence"
+    excerpt: "The United Nations chief says the proliferation of hate and lies on digital platforms and the threat that artificial intelligence can become an uncontrolled “monster” demand coordinated global action"
+    publishedDateTime: 2023-06-12T22:01:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "yV6xAEiHQP/lILrE9+M9po7j5KEkPdQHVcAabeu12fErz+OBPM9SzF89/jKQnEOaOABqhELYqkQN2uqM7S98cAo6cB4XyTpR3GpA2LuBH49MCs/tObIbnU2n+EtSbsL4OQa2Ht2boNDVFUJwu/tFG2r/cQOo/TaCAadO/mdTtD/xtoDkDRR/pOCHi8BS4YejQ3SeGkug2CpaOdgmpWCAAifVRBdtNvTlAU9cTBQ82tcZo38cIXBLLbl5CWIi+s1KKRGH9Ly0dnPrHRpXk12+W12bwmb74OTGR86UAm9xtEui5kskwK843FniJnH/hMjPLGA1ZarPpJrQMlYlxlP/dOnRlJzsR0gCHJfg3/zRFzTOYJdxHe7C7V1hb9JfhWPrX5y7HaMFPvSV5bQ++YFJP8xMnEz/ijAfVOLZS9AL2+Km5ycnFOeSlZt8I3IZKKZwSTyXZ72AnKC+bilW9KM4+bLwDJZFEyU8PfXARvO8ckCwXjgrTCMXkhBqHbxxTp+/sqY+lwn9R986LdC5DFMWxg==;XFXYnim0/rx6Km/2r+6emA=="
 ---

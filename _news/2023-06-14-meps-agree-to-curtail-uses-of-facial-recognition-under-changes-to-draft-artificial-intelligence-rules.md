@@ -19,59 +19,86 @@ topics:
   - AI
 
 related:
-  - title: "NY Schools Awaiting Decision on Facial Recognition"
-    excerpt: "Following debate at one district, a civil liberties lawsuit and what was initially an 18-month moratorium, the New York State Department of Education is drafting recommendations for facial recognition in schools."
-    publishedDateTime: 2023-06-12T22:23:00Z
-    webUrl: "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true"
+  - title: "EU moves ahead with draft law to regulate AI"
+    excerpt: "The act, which has served as an example for other nations to develop their own AI regulations, restricts the use of technologies like facial recognition software and requires transparency from AI developers to share more data used to create their systems, like, for example, ChatGPT or Bing chat."
+    publishedDateTime: 2023-06-14T16:19:00Z
+    webUrl: "https://www.zdnet.com/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/43ca251/2147483647/strip/true/crop/939x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc1%2Fda%2Fed997e65cb0d0ee391a741549da4%2Fshutterstock-1392652700.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Facial recognition bots are scraping private data"
-    excerpt: "PimEyes, the facial recognition platform I used, markets itself as a privacy tool. Working from a photo that you upload, it scours the internet for your likeness and presents the results. The logic is that if you can find your images,"
-    publishedDateTime: 2023-06-10T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/facial-recognition-bots-scraping-private-data-pfs6p5dlw"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2884f530-078b-11ee-8d81-e0eaecec6481.jpg?crop=8256%2C4644%2C0%2C430&resize=1200"
+      - url: "https://www.zdnet.com/a/img/resize/77f737a8d9f3dc00c855519d11f5dd28d79ec0aa/2023/06/14/1ea8cf14-9e3c-43ff-92a5-f9a7db2fa51e/untitled-1.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Breaking news. MEPs endorse blanket ban on facial recognition in public spaces, rejecting targeted exemptions"
-    excerpt: "The debate has been inevitably shaped by developments in China, where the Communist Party has rolled out a massive, sophisticated network of facial recognition cameras to monitor the country's population."
-    publishedDateTime: 2023-06-14T11:29:00Z
-    webUrl: "https://www.euronews.com/my-europe/2023/06/14/meps-endorse-blanket-ban-on-facial-recognition-in-public-spaces-rejecting-targeted-exempti"
+  - title: "How Europe Is Leading the World in the Push to Regulate Artificial Intelligence"
+    excerpt: "One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights and values."
+    publishedDateTime: 2023-06-14T09:30:00Z
+    webUrl: "https://time.com/6287116/european-union-artificial-intelligence-law/"
     type: article
     provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 20
+      name: Time
+      domain: time.com
+    quality: 63
     images:
-      - url: "https://static.euronews.com/articles/stories/07/67/57/20/1000x563_cmsv2_71361077-d5f0-5ec1-8e16-9785628cba83-7675720.jpg"
-        width: 1000
-        height: 563
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
-  - title: "HED Receives National Recognition for Exemplary Engineering Achievement at ACEC's Engineering Excellence Awards"
-    excerpt: "The ACEC Engineering Excellence Awards are among the most prestigious honors in the engineering industry, recognizing firms that demonstrate exceptional innovation, technical expertise, and engineering excellence."
-    publishedDateTime: 2023-06-14T13:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hed-receives-national-recognition-for-exemplary-engineering-achievement-at-acec-s-engineering-excellence-awards-1032389016"
+  - title: "EU lawmakers agree to changes in draft artificial intelligence rules"
+    excerpt: "The lawmakers will now have to thrash out details with EU countries before the draft rules become legislation."
+    publishedDateTime: 2023-06-14T10:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/articleshow/100991890.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 14
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-364372,msid-100992047/file-photo-european-union-flags-flutter-outside-the-european-commission-headquarters-in-brussels.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "EU moves closer to passing one of world’s first laws governing AI"
+    excerpt: "Bloc hopes to set global standard for technology – including ban on police use of live facial recognition technology in public places"
+    publishedDateTime: 2023-06-14T13:14:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai?trk=public_post_comment-text"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/45841538e1aeae6c32c2c831ac875b5528ec564a/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=9b617722c7d6c86a671130539aea4b6a"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "EU lawmakers pass landmark artificial intelligence regulation"
+    excerpt: "The European Union's AI Act is the first comprehensive set of regulations for the artificial intelligence industry."
+    publishedDateTime: 2023-06-14T11:44:00Z
+    webUrl: "https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 47
+  - title: "How Europe is leading the world in the push to regulate AI"
+    excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle."
+    publishedDateTime: 2023-06-14T06:15:00Z
+    webUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "rAyToPDfOmR+yD4r3cPJU9DFHqGRMBVQk1E0JWaPQplsJGEoUArsNd3xW8ilMz9OLteF73Sxqm2i2W93nRM1wl4IGEnUNZnHSl0Pj2bssz+CRU7umjEjiV/6lx3+xPdw9QLP4jN58z6/lpLtD7Zc0OX54VL5Zpbv3LaiF1uDRrbw1vy9I1Q5z7xba/dMKwvdhZfZE3u4MhS7/UuVWkdm+JR17ZzTvF5YmwuB/wP+D5WCSVaX5jG6sIBCFO3XQRDgINHrzDKOTYkFZGEs3OauRl2vSFgzlj13DyVQR151oKLlJLFEYzs+UYrm3aWAHUG/uiFWyfPee2cqnLLv02nQ/JJ7p3sQZpYqjKW2aqQP2WSjD3Ukpo4mbRbkN6NcmD9Fd+UFq5g18vpUVriWQd5g9wV5KXht0ufzbI7gndx4hR9CGnxHhQ6gRwuWD0sQ+zPCeZXuV2ifyKdDy/o2VHpX3BZjOc09pzqmmf4SKzJiA8fgNfsZf7RJBuFYi0ePqVc9OVfeHcnsmv6d3lfAaBalXw==;azAzXEozWI+Lcze0DX6hpw=="
 ---

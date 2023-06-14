@@ -182,15 +182,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "5 Ways People Are Using AI to Try to Make Money"
-    excerpt: "Start repairing your credit today! As entrepreneurs, corporate executives and investors race to figure out how to leverage artificial intelligence to make money, folks at home are also wondering if AI tools like ChatGPT can help them get rich. On social ..."
-    publishedDateTime: 2023-06-09T23:38:00Z
-    webUrl: "https://www.newsobserver.com/money/make-money-online-with-ai-chatgpt/"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 17
   - title: "Oracle to introduce cloud-based generative AI service"
     excerpt: "Oracle will soon be introducing a cloud-based generative AI service. The move was announced by CEO Larry Ellison during a call following the quarterly"
     publishedDateTime: 2023-06-13T11:35:00Z

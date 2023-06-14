@@ -71,6 +71,20 @@ related:
         width: 1026
         height: 510
         isCached: true
+  - title: "Bring SageMaker Autopilot into your MLOps processes using a custom SageMaker Project"
+    excerpt: "Every organization has its own set of standards and practices that provide security and governance for their AWS environment. Amazon SageMaker is a fully managed service to prepare data and build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools,"
+    publishedDateTime: 2023-06-14T17:03:03Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-sagemaker-autopilot-into-your-mlops-processes-using-a-custom-sagemaker-project/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/14/bring-sagemaker-autopilot-mlops.jpg"
+        width: 1023
+        height: 513
+        isCached: true
 
 secured: "IoxQ+JvlcgmbCTSSvOdex77BLhIc0DYb7aQZiJ9rx1zHVBWrMAfrkDYLZ4Km3LHcjW8jEKLx2t5VBY467GWOAkY/Yn3zc2hxS3YtQM8/NcKsR9ykbIUVJdRO1j8LI2nkmFDHH4UqnfjYskYozICcBzdmcZjLlDNA84+DZmc1sgtvyjW8+7Ba9XnEWXkp+7wcohGKyHXdjYol4Yx0yRSH7XUnt4rCF4AiVXTTeX1Qrwl18n9WeYMjeVwE03wNy1i75vL6d+Iqcevj8f+T/DSgrHoskg1l/9Y23pqrrWGQLHoyooPnuWOolW2bF8k9gtuBUneGNWa2fCIeYDHCzbmy3kkbWK/HU2ZnNIswzOJZrhg=;jXzwP/WIqs7PYW7lEXFcaQ=="
 ---

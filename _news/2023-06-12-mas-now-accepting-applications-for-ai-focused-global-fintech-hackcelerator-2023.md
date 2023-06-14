@@ -69,6 +69,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "3 Fintech Stocks With High Potential for Growth"
+    excerpt: "The financial technology (fintech) industry continues to reshape the landscape ... and the global south – further strengthens its long-term prospects. Leveraging AI and machine learning across its products and services enables continued automation ..."
+    publishedDateTime: 2023-06-14T17:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-high-potential-for-growth-1032389799"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "lACIrhVBMhTHa6W2g+j4S+YcADSv93/83FGLBVYhdm53JXuZXbxTcMvCrh/P95G9BaWW/Hupz3rYS2v+SqNK9ianCb5lfjgdmj2Tff7FHRkSL8O7oR7D5O5qLnVV4rz03J2OiNhFWHilQq5HcQPiz7EeUTEKrZk+asX27ri4bmWUmMQQlfWTgBesf+yoWnqgVezs0LzR+QpAyM7fEs7gsmDrMeAgID/4chltNgf5Al4a1sdbVtq4u/aXE1IYXt8MqPKEVqceGwcFBDqF2Dj5lMcW4sKx+BGJkUx+Gmbpz2b0LXcyDba3jNd3H6wc2AWG1NDOoThmI57uefud8/LUmDaQI6uP+McAqoU0AfSur+CmbdYRDjaoHMiZ0CRhpGKCuy/mN5G2gnpN0Ub55GcPwaeXWHDc6Iu/BY3kCauJ/cUmghXPLEJCZFrm+zNTgYN8BjuVY0M4x3wAfrDEl6+aMUDsmBYSQ7YuaeoRcih0pSNmzI+i6rPpZdzdekYjepErYXCtCplCcj8wL9tf+YavRg==;crknIN8S6/U0JAqHutcwEQ=="
 ---

@@ -27,43 +27,79 @@ images:
     isCached: true
 
 related:
-  - title: "Sunak Keeps Up Push To Make UK a Leader in AI Regulation"
-    excerpt: "UK Prime Minister Rishi Sunak will on Monday keep up his push to give Britain a leading role in global regulation of artificial intelligence, while warning industry leaders the nation must act quickly to retain its position as one of the world’s tech capitals."
-    publishedDateTime: 2023-06-11T21:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation"
+  - title: "EU moves ahead with draft law to regulate AI"
+    excerpt: "The act, which has served as an example for other nations to develop their own AI regulations, restricts the use of technologies like facial recognition software and requires transparency from AI developers to share more data used to create their systems, like, for example, ChatGPT or Bing chat."
+    publishedDateTime: 2023-06-14T16:19:00Z
+    webUrl: "https://www.zdnet.com/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isMt.CfJNIqk/v1/1200x802.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/77f737a8d9f3dc00c855519d11f5dd28d79ec0aa/2023/06/14/1ea8cf14-9e3c-43ff-92a5-f9a7db2fa51e/untitled-1.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 802
+        height: 675
         isCached: true
-  - title: "UK must seize opportunities of AI to remain a tech capital, Sunak says"
-    excerpt: "Britain must act quickly to remain a tech capital, Prime Minister Rishi Sunak will tell tech leaders on Monday, urging them to grasp the opportunities and challenges of artificial intelligence."
-    publishedDateTime: 2023-06-11T21:08:00Z
-    webUrl: "https://www.reuters.com/technology/uk-must-seize-opportunities-ai-remain-tech-capital-pm-sunak-2023-06-11/"
+  - title: "How Europe Is Leading the World in the Push to Regulate Artificial Intelligence"
+    excerpt: "One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights and values."
+    publishedDateTime: 2023-06-14T09:30:00Z
+    webUrl: "https://time.com/6287116/european-union-artificial-intelligence-law/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: Time
+      domain: time.com
+    quality: 63
     images:
-      - url: "https://www.reuters.com/resizer/WR5RFCRgJeDrP_zCkBinYSAftiQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QERF6JUD6NKWPJZEHUDU5WUM64.jpg"
-        width: 1200
-        height: 628
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
-  - title: "London Tech Week - PM Rishi Sunak promises to regulate AI, but admits UK not up to speed in spreading the benefits to all"
-    excerpt: "Sunak on AI. London Tech Week kicked off today with British Prime Minister Rishi Sunak debating AI regulation and ethics, even if the mainstream media headlines were inevitably mo"
-    publishedDateTime: 2023-06-12T11:59:00Z
-    webUrl: "https://diginomica.com/london-tech-week-pm-rishi-sunak-promises-regulate-ai-admits-uk-not-speed-spreading-benefits-all"
+  - title: "EU moves closer to passing one of world’s first laws governing AI"
+    excerpt: "Bloc hopes to set global standard for technology – including ban on police use of live facial recognition technology in public places"
+    publishedDateTime: 2023-06-14T13:14:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai?trk=public_post_comment-text"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 0
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/45841538e1aeae6c32c2c831ac875b5528ec564a/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=9b617722c7d6c86a671130539aea4b6a"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "EU lawmakers pass landmark artificial intelligence regulation"
+    excerpt: "The European Union's AI Act is the first comprehensive set of regulations for the artificial intelligence industry."
+    publishedDateTime: 2023-06-14T11:44:00Z
+    webUrl: "https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 47
+  - title: "MEPs agree to curtail uses of facial recognition under changes to draft artificial intelligence rules"
+    excerpt: "The European Union took an important step Wednesday toward passing what would be one of the first big laws to regulate artificial intelligence, a potential model for policymakers around the world as they grapple with how to put guardrails on the rapidly developing technology."
+    publishedDateTime: 2023-06-14T11:35:00Z
+    webUrl: "https://www.irishtimes.com/world/europe/2023/06/14/meps-agree-to-curtail-uses-of-facial-recognition-under-changes-to-draft-artificial-intelligence-rules/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 34
+  - title: "How Europe is leading the world in the push to regulate AI"
+    excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle."
+    publishedDateTime: 2023-06-14T06:15:00Z
+    webUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "GtWzxC8ChAvCYXy3034tfHTXgoZMv3As3IEOVS1HVRcIpXbAGyFwHaSuwfI+JdN6uUFa9yA7gT5KUAE8OsgVfPs6SGIjRQHgWGrEszRNXBUF6Xbx+kFj0klXBGxq2IMYYf5C1TYkzl21voVjzt22EDUOThTe5jjwqpYi4zT9/M0gpKeYgjObK1+EiPx73TrAl6qA6Lh+on+sl71OIBsWkGlQ9MAmuWy9BGubSMAsGoCclJDD3EAq6twDBjRIFqtGmgr4NJjHg3gHiVFAxgSKbpVXpnV4ZG9pz27aPCfwZ2M8WNLnfwccYGKDf4ScWTwSzin7SCG2nHYnOo3H5R8melMY6yoU2YZO+I7YFWFF81qNCYpc1Go4s/oxcGgwp22kUTRQnHiUjrBfmEF3cB3A35k2ACDSTg5qyhzOjN/OMIwtgOVjS8RovJFfaezdHlzYqk0hQATXr4oSvGPMWD/KifkTZGALtKYTS0+rVEATKqmbOTH6pfT5NC7L+LyNM0UwHsLtRZrWJgxMEneoVZGhFQ==;ovFEWuYX0LKURUJZK3kimg=="
 ---

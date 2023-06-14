@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defens
 ampWebUrl: "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/amp/"
 type: article
-quality: 89
-heat: 269
+quality: 91
+heat: 281
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6489d53c3e9469660975c365/0x0.jpg?format=jpg&width=1200"
@@ -266,6 +267,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Amid global ChatGPT obsession, UAB conference examines AI’s role in advancing health care and research"
+    excerpt: "Experts at ATTIS 2023 shared reports from the front lines, including how they are using ChatGPT in their labs, the need for regulation and why this is a “tremendous time” for health care."
+    publishedDateTime: 2023-06-14T17:02:00Z
+    webUrl: "https://www.uab.edu/reporter/research/discoveries-innovations/item/10052-amid-global-chatgpt-obsession-uab-conference-examines-ai-s-role-in-advancing-health-care-and-research"
+    type: article
+    provider:
+      name: Kaleido Scope
+      domain: uab.edu
+    quality: 23
+    images:
+      - url: "https://www.uab.edu/reporter/media/k2/items/cache/6be2209cb89fe37cf66e5693287ea0d3_XL.jpg"
+        width: 900
+        height: 676
+        isCached: true
   - title: "Can a robot plan your summer fun? Here's what ChatGPT says to do this summer"
     excerpt: "What are five fun summer activities to do in Norwich, Griswold, Killingly and Plainfield, CT? One should be off the beaten path, at least two should be family friendly, one should be a healthy activity and one should be male friendly. Then give me two other activities that are within a 30-minute drive of Norwich."
     publishedDateTime: 2023-06-14T09:15:00Z
@@ -285,6 +300,6 @@ related:
       domain: azcentral.com
     quality: 10
 
-secured: "AVOkVFiSIGn5F8EvNiH6+3idW4mEAKyJIk+1/Uh5JN0m4COZBh1BZfHId8Wz6k+V6to3clPC4Q4OWvpF4ehggo/gFSzpAqqftqI+gO6jdpN+GAJRNF7P3uGvtP0LysBymFuMtSy12StRKEsqisZ2Fv3rE7QuhqIQBXuJ0UT3zwxGZ5eHZLykIyaYcn5DyWIyQQ0YVY8EXkDr9HJHeS53tQ5GSRnQkpOQp9fAIHse8w0zsqXO3rwneCVUKBMO66jLg1uncNxA+mjG74UKvvHlbsrVsJY8cLskkVWX1BETFbmhFliSnp8UjJ2UDYol7XWRMr08vQm8S3qltXAeXqWoskqghyKcsanu0NEs2TtUDJ8=;2E/jzWkUIMEQMzyrmaxd6w=="
+secured: "i5BGapWjF/AkX23R2cxt1PXdYqie1jHHZf+RetmbdMKQs4PpPg9/89rQEtaxStEgXV0/8szsIW8MC6wbXeaSDQHXbVMnXEMQGsxjDLagF/n4g6fLVA7dgCsh1kqnIA+XgGMAhSsDJSect2/17paJtXCWEwsfCfi5+5eRtgKTGYkXXWCSRcxqjsGNsYgEuJsBTUi4gTpGch1kGsbZZic7nor5AWPuWOQhEkqpSkc2LnrP5qxCMZNyZPq7BrCdIaYrRg2fbaWYINnLd64BImq+93qjjeqh+adWWolZpWSI65LgJkROmVDwgBmKWX+i3+1pIqRpIlEXOZbvmzM0NttrDIgGbdplG0nyaXGx5SAnsdqSSLAIzmppIcErIj2Z70XFtbwFGSuRo7ZTrnmZb4sIopawiTWjPxsSzHXjfRh5mRDaIKgbKyMyy7vCQ1He+KF0/KXR8IrDk9ZNntKkQfC2huZpPdGCgaa7EWGHF0S1s/gqrKyHq2j0WbvuAtrESJik4JvMIzEShfLxtEbqTOav5w==;LWLyuWKEbUYglJTYpNpejw=="
 ---
 

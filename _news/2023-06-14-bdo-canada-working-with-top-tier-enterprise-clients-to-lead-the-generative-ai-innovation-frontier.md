@@ -183,15 +183,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "5 Ways People Are Using AI to Try to Make Money"
-    excerpt: "Start repairing your credit today! As entrepreneurs, corporate executives and investors race to figure out how to leverage artificial intelligence to make money, folks at home are also wondering if AI tools like ChatGPT can help them get rich. On social ..."
-    publishedDateTime: 2023-06-09T23:38:00Z
-    webUrl: "https://www.newsobserver.com/money/make-money-online-with-ai-chatgpt/"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 17
   - title: "Adobe to sell generative AI subscription with copyright assurance"
     excerpt: "Business customers will be charged a flat-rate subscription for companywide access to new so-called generative AI tools across Adobe products."
     publishedDateTime: 2023-06-12T13:00:00Z

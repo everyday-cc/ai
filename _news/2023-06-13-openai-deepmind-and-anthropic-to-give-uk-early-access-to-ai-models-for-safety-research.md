@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-giv
 webUrl: "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-give-uk-early-access-to-models-for/"
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/31/GettyImages-1248338134-scaled.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Alphabet Inc.-Backed AI Startup Anthropic Raises $450 Million"
+    excerpt: "Even with ongoing concerns about a freeze within the startup funding space, Alphabet Inc.-backed artificial intelligence (AI) startup Anthropic has raised $450 million. This is a potential sign of funding recovery, which is positive news for other startups ..."
+    publishedDateTime: 2023-06-14T17:32:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32860795/alphabet-inc-backed-ai-startup-anthropic-raises-450-million"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32860795"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32860795"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Kaufbeuren,,Germany,-,April,19,,2021:,Google,Company,Logo,On.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
   - title: "OpenAI’s CEO Calls on China to Help Shape AI Safety Guidelines"
     excerpt: "China should play a key role in shaping the artificial intelligence guardrails needed to ensure the safety of transformative new systems, OpenAI Inc.’s Chief Executive Officer Sam Altman said."

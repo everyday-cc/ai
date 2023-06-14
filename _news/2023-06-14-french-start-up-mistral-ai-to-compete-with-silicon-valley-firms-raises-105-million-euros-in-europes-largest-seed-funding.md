@@ -62,20 +62,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How Europe Is Leading the World in the Push to Regulate Artificial Intelligence"
-    excerpt: "One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights and values."
-    publishedDateTime: 2023-06-14T09:30:00Z
-    webUrl: "https://time.com/6287116/european-union-artificial-intelligence-law/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 63
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "U.S. Cyber Envoy Warns That European AI Rules Could Stymie Sector"
     excerpt: "If more nimble regulation were adopted, ‘little Silicon Valleys’ could sprout across the democracies of Europe, says Nathaniel Fick, whose comments come amid rising tensions with China."
     publishedDateTime: 2023-06-12T18:24:00Z
@@ -85,15 +71,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "EU lawmakers pass landmark artificial intelligence regulation"
-    excerpt: "The European Union's AI Act is the first comprehensive set of regulations for the artificial intelligence industry."
-    publishedDateTime: 2023-06-14T11:44:00Z
-    webUrl: "https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html"
+  - title: "Four-week-old AI start-up raises record €105m in European push"
+    excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105 million in Europe’s largest-ever seed round."
+    publishedDateTime: 2023-06-14T16:29:00Z
+    webUrl: "https://www.irishtimes.com/technology/2023/06/14/four-week-old-ai-start-up-raises-record-105m-in-european-push/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 37
+    images:
+      - url: "https://www.irishtimes.com/resizer/Mb6mOZAQ_w6oqqSSkatXcapAeg8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7SWEGZQO3RHBFE4Q57SO6GXENY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Four-week-old AI start-up raises record €105mn in European push"
     excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105mn in Europe’s largest-ever seed round."
     publishedDateTime: 2023-06-13T16:00:00Z
@@ -103,15 +94,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "How Europe is leading the world in the push to regulate AI"
-    excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle."
-    publishedDateTime: 2023-06-14T06:15:00Z
-    webUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "SnpQLjueT3f9zBarMEDzVVJSAgriKLR8QmXdrDF+9A8trTBndSd/ZO8e+sLwLLGAnxGL8sJ30meE18+/qHiiew3EW9S8LbFMD6R7044KWAXy9qrW3vEbC0Td3Gu7vhaNTSjgkiidvweh+jxqdvTzfno6MVRRU+9QDcvxCfpKjxrU/uHCmIoxtw8kAbGSVtxngk2BnUvweZqFrOikQ0zQY/dQprWvIhqIvAQBfpoe4h0ACqwUJzSVL2fc6SDHJ8Q3dczdPzDFeTTBcd9BwFtd33c9x18K3cFUiUXksBN+bGOpJB6EtUuJQo3yCkmLIBbcxZw9v/WddwlWYk+IMY1rBgTJx368Cw3C9B79By2JNLsETyAmZxOZjpsN1NZoo3sCI7qtqNq11jsMjvaysoqumqtBgyh81JzNIuAFFtkfvhES1olse9S89D0qYQl/zu0M3/kQ5rEUgKjcS2G9gTFXSnrwoy2Fq6zULJnxTbjgUihxS19OdsYrMAlkEC4rZWryRBrFx/5/JEcApEcd+T6okw==;bG4ALkM/J9Bkf6udbhhqPw=="
 ---

@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "MEPs agree to curtail uses of facial recognition under changes to draft artificial intelligence rules"
-    excerpt: "The European Union took an important step Wednesday toward passing what would be one of the first big laws to regulate artificial intelligence, a potential model for policymakers around the world as they grapple with how to put guardrails on the rapidly developing technology."
-    publishedDateTime: 2023-06-14T11:35:00Z
-    webUrl: "https://www.irishtimes.com/world/europe/2023/06/14/meps-agree-to-curtail-uses-of-facial-recognition-under-changes-to-draft-artificial-intelligence-rules/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 34
   - title: "HED Receives National Recognition for Exemplary Engineering Achievement at ACEC's Engineering Excellence Awards"
     excerpt: "The ACEC Engineering Excellence Awards are among the most prestigious honors in the engineering industry, recognizing firms that demonstrate exceptional innovation, technical expertise, and engineering excellence."
     publishedDateTime: 2023-06-14T13:14:00Z

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Beatles song to bring John Lennon’s voice back, with a little help from AI"
+    excerpt: "Sir Paul McCartney explained to the BBC that an AI-driven process helped isolate John's vocals from an old tape for a last Beatles album."
+    publishedDateTime: 2023-06-14T15:30:00Z
+    webUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 53
+    images:
+      - url: "https://www.popsci.com/uploads/2023/06/14/john-lennon-ai-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "AI is all you need: Artificial intelligence is about to help the Beatles release a new record"
     excerpt: "The singer-songwriter, who’s one of two Beatles still alive along with Ringo Starr, told the BBC that new technology has allowed him and his production team to “extricate” the voice of John Lennon (pictured) – the outspoken Beatle who was gunned down in New York City in 1980."
     publishedDateTime: 2023-06-14T02:33:00Z

@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Alphabet Inc.-Backed AI Startup Anthropic Raises $450 Million"
+    excerpt: "Even with ongoing concerns about a freeze within the startup funding space, Alphabet Inc.-backed artificial intelligence (AI) startup Anthropic has raised $450 million. This is a potential sign of funding recovery, which is positive news for other startups ..."
+    publishedDateTime: 2023-06-14T17:32:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32860795/alphabet-inc-backed-ai-startup-anthropic-raises-450-million"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32860795"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32860795"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Kaufbeuren,,Germany,-,April,19,,2021:,Google,Company,Logo,On.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "qmZK4XzZz6HAtJft8mkKDXuvLAW7k2CPZ82Kl97JloAREIhzge+KeU2rhHSDhfjckg9kL7fS5cOA3FTFtFm9leq/HBOZ1ojKT8xvQMuArD9DmGG3bPF2N4bcBkgIZ7cv38v0PzcqRtW/0GUtcVRAYKgIN3CwbQCmbddOX8kFmv/O5kma244RMIXi5MYb2Q8eCFTVly6Gw3TQRgqMrCa2IyIrv9Es5OjBXA3QOoY44+eV6M6ffNaOnrlzJRt9oWg0o8mFBkZGHDC0lKdJJfz41B+6eSvC8KYkK96MoBGnH0XEgcbxSkWZjLudtPjCrAO+1TWANJQzFzNUC5TcjHLM2+ysvi/SXhnJooTba+U3EE1SW8Dd+ZtkSH1oI9nclV3HFcNRPcbW6MX3TeqmcaX/ztPUfQHbdM1vgKtR3+RfmcsQgkLm4fS//L+m5TFT2sPVBoBnj7Wi0NaEqIPGH5tuCVCeuo88lnT1vQfaIJT+eTPOHP8q/46h8oroBw+i8ePnyPlCxWffNopQE3sBbwHHgA==;7Y6EHEHObPh6CD12Wq8JUg=="
 ---

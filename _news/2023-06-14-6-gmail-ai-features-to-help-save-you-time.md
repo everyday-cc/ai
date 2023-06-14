@@ -1,0 +1,35 @@
+---
+category: news
+title: "6 Gmail AI features to help save you time"
+excerpt: "These AI-powered Gmail features can make your email experience even faster, easier and more organized."
+publishedDateTime: 2023-06-14T15:00:00Z
+originalUrl: "https://blog.google/products/gmail/gmail-ai-features/"
+webUrl: "https://blog.google/products/gmail/gmail-ai-features/"
+ampWebUrl: "https://blog.google/products/gmail/gmail-ai-features/amp/"
+cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/gmail/gmail-ai-features/amp/"
+type: article
+quality: 109
+heat: 109
+published: true
+
+provider:
+  name: Google
+  domain: blog.google
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - Google AI
+
+images:
+  - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gmail_powered_by_ai_hero.width-1300.jpg"
+    width: 1300
+    height: 541
+    isCached: true
+
+secured: "tiRejWgD44Dzp3t07uUi4KUMs0MAlZ+O2AqiZ3ldt4sj85Bp+jy+l5wQxUQkrymAqc5UCyGOKUlUpw+E+iHjT7cudQUGHHWP92rE9GCLA3lkao6IRz65bwEqrQ/jHjDMXrYwWSpKUnGa3sGP2pg24GvrLnzcjyGFUM7Za9Yp+CHP5rvk5pWcBGUzDwdMxiMC7XE5N1OiDsXZ7uaGdfWR2AlVHP/VW9fOpFwC1LMvHzvI5jLvHcD1m2oN2XLhg8Wgb4KOuTJkI+EWLj4/MdbscOeDFnDQIl9IEhBd8P4EtWxEr1n+rPvmackB9XHRhk/RM/knUDG+LCjJoPjzrfqeDEKoT6J78lHTDMdBIgG6t28=;SpH+5igt4P3QKMdax85wTw=="
+---
+

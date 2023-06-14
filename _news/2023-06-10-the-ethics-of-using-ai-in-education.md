@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-educati
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
 type: article
 quality: 91
-heat: 261
+heat: 271
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63731fd487e442fe938888a7/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 652
+        isCached: true
+  - title: "Everything You Need to Know About the EU's Game-Changing AI Legislation"
+    excerpt: "The European Parliament votes to pass the first comprehensive AI rules. Here's a brief summary of the AI Act, the influence of which will likely extend beyond the EU."
+    publishedDateTime: 2023-06-14T17:08:00Z
+    webUrl: "https://www.pcmag.com/news/everything-you-need-to-know-about-the-eus-game-changing-ai-legislation"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06YSHh9Q84O3ILT58Wkxzi4-2.fit_lim.size_1200x630.v1686758662.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Transforming medical diagnosis using artificial intelligence"
     excerpt: "Dr Venugopal Pareek, Laparoscopic and Bariatric Surgeon, Care Hospitals, says, “AI comes into play, especially when we are doing the surgery with the help of robots."

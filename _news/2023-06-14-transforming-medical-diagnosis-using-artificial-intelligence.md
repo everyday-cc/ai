@@ -92,6 +92,20 @@ related:
         width: 1200
         height: 652
         isCached: true
+  - title: "Everything You Need to Know About the EU's Game-Changing AI Legislation"
+    excerpt: "The European Parliament votes to pass the first comprehensive AI rules. Here's a brief summary of the AI Act, the influence of which will likely extend beyond the EU."
+    publishedDateTime: 2023-06-14T17:08:00Z
+    webUrl: "https://www.pcmag.com/news/everything-you-need-to-know-about-the-eus-game-changing-ai-legislation"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06YSHh9Q84O3ILT58Wkxzi4-2.fit_lim.size_1200x630.v1686758662.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Navigating through the ethos and sophistication of Generative AI"
     excerpt: "Generative AI has been the underpinning and steering factor as AI advances from auto-pilot mode to co-pilot mode. Now the new course—of fairness, equity, bias-free development, and deployment—will req"
     publishedDateTime: 2023-06-13T09:31:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/06/13/artificial-intelligence-help-b
 webUrl: "https://siliconangle.com/2023/06/13/artificial-intelligence-help-beatles-release-new-record/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Beatles song to bring John Lennon’s voice back, with a little help from AI"
+    excerpt: "Sir Paul McCartney explained to the BBC that an AI-driven process helped isolate John's vocals from an old tape for a last Beatles album."
+    publishedDateTime: 2023-06-14T15:30:00Z
+    webUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 53
+    images:
+      - url: "https://www.popsci.com/uploads/2023/06/14/john-lennon-ai-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "AI-Generated John Lennon’s Voice to Feature on ‘Last Beatles Record’"
     excerpt: "Paul McCartney said that AI. was used to “extricate” and clean up the vocals of former bandmate John Lennon from an old recording."
     publishedDateTime: 2023-06-13T11:45:00Z

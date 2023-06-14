@@ -1,0 +1,107 @@
+---
+category: news
+title: "Asia’s opportunity for generative AI"
+excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
+publishedDateTime: 2023-06-14T16:00:00Z
+originalUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/"
+webUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/"
+ampWebUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
+type: article
+quality: 61
+heat: -1
+published: false
+
+provider:
+  name: MIT Technology Review
+  domain: technologyreview.com
+
+topics:
+  - Microsoft AI
+  - AI
+  - AI in Robotics
+
+images:
+  - url: "https://i.ytimg.com/vi/3Jf81EQ_1Jw/hqdefault.jpg"
+    width: 480
+    height: 360
+    isCached: true
+
+related:
+  - title: "AMD unveils MI300x AI chip as 'generative AI accelerator'"
+    excerpt: "To be able to run an entire 40-billion parameter model in memory, said Lisa Su, actually reduces the number of GPUs you need."
+    publishedDateTime: 2023-06-13T20:53:00Z
+    webUrl: "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/09a61156c2e512b3889a7a43ae434e45b6622c57/2023/06/13/840d775b-68f5-4132-b4c2-96dd75f3de48/amd-mi300x-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AMD Cloud-Native EPYC Bergamo, HPC Optimized Genoa-X CPUs And MI300 AI Accelerators Take Flight"
+    excerpt: "Under Dr. Su’s leadership, the company has assembled a comprehensive suite of silicon solutions for the lucrative cloud data center, HPC and AI markets."
+    publishedDateTime: 2023-06-13T23:41:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6488e5d20f339468b475c365/0x0.jpg?format=jpg&width=1200"
+        width: 1024
+        height: 587
+        isCached: true
+  - title: "AMD Instinct MI300X accelerator for AI revealed, combines CPU, GPU, and 192 GB of HBM3 memory"
+    excerpt: "AMD's new Instinct MI300X is designed for generative AI and will compete with NVIDIA's H100 and Grace Hopper, and it's out soon too."
+    publishedDateTime: 2023-06-14T05:26:00Z
+    webUrl: "https://www.tweaktown.com/news/91881/amd-instinct-mi300x-accelerator-for-ai-revealed-combines-cpu-gpu-and-192-gb-of-hbm3-memory/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 43
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91881_03_amd-instinct-mi300x-accelerator-for-ai-revealed-combines-cpu-gpu-and-192-gb-of-hbm3-memory_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
+  - title: "AMD unveils MI300X, steps up play into AI chip segment"
+    excerpt: "Chipmaker AMD has unveiled MI300X, one of its most-advanced GPUs (graphics processing units) for artificial intelligence, which would be available from the second half of this year."
+    publishedDateTime: 2023-06-14T13:51:00Z
+    webUrl: "https://www.zeebiz.com/technology/news-amd-amd-mi300x-nvidia-nlp-meta-ai-artificial-intelligence-linux-foundation-amd-ai-devices-mi300x-240002"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 34
+  - title: "AMD's Instinct MI300X GPU targets generative AI workloads"
+    excerpt: "Company claims it is the \"world's most advanced accelerator\" for gen AI, but offers few details At its data center and AI event in San Francisco, AMD pitched its AMD Instinct MI300X GPU as built for generative AI workloads."
+    publishedDateTime: 2023-06-13T18:27:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/amds-instinct-mi300x-gpu-targets-generative-ai-workloads/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
+  - title: "AMD Announces Data Center EPYCs, Releases Instinct Accelerator Details and Software for Generative AI"
+    excerpt: "At a product unveiling event this morning in San Francisco, AMD announced updates to its 4th Gen EPYC “Genoa” 5nm data center CPUs and released additional details on its MI300X GPU accelerator for generative AI."
+    publishedDateTime: 2023-06-13T18:30:00Z
+    webUrl: "https://insidehpc.com/2023/06/amd-announces-data-center-epycs-releases-instinct-accelerator-details-and-software-for-generative-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 4
+
+secured: "hvTxZa98TdjZ9hfbTinEmhZyIbPh//bZYOtF8m8sKP+rnTbEST5cIPiOjDhwBQVfb4VPbdyLjRn4nNjaKndqQCK6nNlHHGbdaMmKjJMFqUkWnlJuNCQVge5G5OEPCfRKj2Cm9nux/6j7LWxKZt+s1aLVb17jQf7510WusAi/js35xj21tXwiZ77qoEQ178iUgc1mpQKQshW3zF+j3r95aRb3HDTg5+3H3pDwzNaVG6qZXFXPeAK2z+5IHjoQfUiwZx4ZehSqbnzj9FZNYToOjKw5M5zN/yROKax5GI4WayrIaOC7hvvSpHx2Sm1cUC7EcfNLvhoHhtkOig4lPE7hbIoh9XwkYJnLDHdT45V2D9Y=;4zdTCCnqA1DnEHlkh3e5eg=="
+---
+

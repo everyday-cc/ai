@@ -37,7 +37,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6489d53c3e9469660975c365/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -264,6 +264,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Amid global ChatGPT obsession, UAB conference examines AI’s role in advancing health care and research"
+    excerpt: "Experts at ATTIS 2023 shared reports from the front lines, including how they are using ChatGPT in their labs, the need for regulation and why this is a “tremendous time” for health care."
+    publishedDateTime: 2023-06-14T17:02:00Z
+    webUrl: "https://www.uab.edu/reporter/research/discoveries-innovations/item/10052-amid-global-chatgpt-obsession-uab-conference-examines-ai-s-role-in-advancing-health-care-and-research"
+    type: article
+    provider:
+      name: Kaleido Scope
+      domain: uab.edu
+    quality: 23
+    images:
+      - url: "https://www.uab.edu/reporter/media/k2/items/cache/6be2209cb89fe37cf66e5693287ea0d3_XL.jpg"
+        width: 900
+        height: 676
+        isCached: true
   - title: "Can a robot plan your summer fun? Here's what ChatGPT says to do this summer"
     excerpt: "What are five fun summer activities to do in Norwich, Griswold, Killingly and Plainfield, CT? One should be off the beaten path, at least two should be family friendly, one should be a healthy activity and one should be male friendly. Then give me two other activities that are within a 30-minute drive of Norwich."
     publishedDateTime: 2023-06-14T09:15:00Z

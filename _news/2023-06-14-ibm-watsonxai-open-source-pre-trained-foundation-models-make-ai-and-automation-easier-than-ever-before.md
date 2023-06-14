@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-watsonx-ai-open-source-pre-trained-fo
 webUrl: "https://www.ibm.com/blog/ibm-watsonx-ai-open-source-pre-trained-foundation-models-make-ai-and-automation-easier-than-ever-before/"
 type: article
 quality: 117
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2023/06/shutterstock_2301582847-1-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "Beyond Automation: How AI Is Transforming Aviation"
+    excerpt: "“We strongly believe that generative AI will really start helping scale these things to the much bigger ... the impact that AI will have on the job market is not yet clear. Robots have already taken over some tasks that humans originally performed ..."
+    publishedDateTime: 2023-06-14T15:33:00Z
+    webUrl: "https://www.ainonline.com/aviation-news/aerospace/2023-06-14/beyond-automation-how-ai-transforming-aviation"
+    type: article
+    provider:
+      name: Ainonline.com
+      domain: ainonline.com
+    quality: 39
+    images:
+      - url: "https://www.ainonline.com/sites/default/files/styles/app_large_full/public/uploads/2023/05/363web-plane.jpg?itok=_y7c-TJV"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "uKs81ft1BxW/khfuIBk2wuar2QBIBMeMz30jY8iVkaIACR4KiuUWTQ9Vv7Ydk1vxxma+XuyVrb5MSj2YfellgvKTkdQhz9jEeOyDEv+TxhD/wQUkXelEQ/elHA9AiOdbDN8m0OnvqpVqMnqmn1spsvb6GlozqFAcaOkvogg9zlHLjz9Cj2gmQkSnm4C54ds6i/JzXjc+zzW610mBmJiGQwAFimFAZMD7NlIX/b8Z6xTjA9XJZVPE9/R1DXk0TBsvrIgA7ixSPLWRyuB0e4UVazsQLxhImI7ZTtSr80TI7r/K4oS/InKKKpcxkbhRUDF8e/MTpTeqkQ5xPq8mtIhgZOWIkQnbvq4kfK49ADwrbko=;CQLCUiLZ9KyKRxRK5IYckg=="

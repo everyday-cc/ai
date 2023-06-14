@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-25-onemeta-aitm-launches-verbumcalltm-the-ultimate-ai-driven-mobile-phone-translation-service-revolutionizing-global-communication.md",
+      "title": "OneMeta AI(TM) launches VerbumCall(TM): The Ultimate AI-driven Mobile Phone Translation Service Revolutionizing Global Communication",
+      "excerpt": "BOUNTIFUL, UT / ACCESSWIRE / April 25, 2023 / OneMeta AI (www.onemeta.ai) ONEI. OneMeta AI, the pioneering mastermind behind AI-powered language solutions, has unveiled the groundbreaking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/ac31985816/onemeta-ai-tm-launches-verbumcall-tm-the-ultimate-ai-driven-mobile-phone-translation-service-revo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/ac31985816/onemeta-ai-tm-launches-verbumcall-tm-the-ultimate-ai-driven-mobile-phone-translation-service-revo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31985816",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31985816",
+      "publishedDateTime": "2023-04-25T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-natural-language-processing-nlp-software-market-2023-size-and-share-an-expand-worldwide-business-opportunities.md",
       "title": "Natural Language Processing (NLP) Software Market 2023, Size And Share An Expand Worldwide Business Opportunities",
       "excerpt": "Natural Language Processing (NLP) Software Market Size 2023 | New Report (99 Pages) | Analytics | In This Reports",
@@ -1357,49 +1400,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-timekettle-ai-language-translator-device-redefines-intercultural-communication.md",
-      "title": "Timekettle AI Language Translator Device Redefines Intercultural Communication",
-      "excerpt": "Language communication has always been an indispensable link in the journey of cross-cultural communication. As a leading translation tech company, Timekettle has a mission to \"break down language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html",
-      "originalUrl": "https://www.news-journal.com/timekettle-ai-language-translator-device-redefines-intercultural-communication/article_b3819467-20de-5b86-8876-223cc8bd1b7b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/bd/dbdd0081-782c-5ff1-86fa-a8544ad1c59d/64390b906b893.image.jpg?crop=1268%2C666%2C0%2C24&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

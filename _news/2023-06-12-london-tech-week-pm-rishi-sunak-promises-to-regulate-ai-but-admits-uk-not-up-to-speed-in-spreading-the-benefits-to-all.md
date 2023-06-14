@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "EU lawmakers agree to changes in draft artificial intelligence rules"
-    excerpt: "The lawmakers will now have to thrash out details with EU countries before the draft rules become legislation."
-    publishedDateTime: 2023-06-14T10:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/articleshow/100991890.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-364372,msid-100992047/file-photo-european-union-flags-flutter-outside-the-european-commission-headquarters-in-brussels.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "IUknlElUQS1P1RZwmKeqnKxYhiR1V4jVOQ8rXHomkbikEGAOYKfQcMHbMlVfunluskAhhcINClZOsJwy8NPrILAB7bA4apaQfeVuBH1u7FZvw5AeO9+11FII9GkzVgvD61MRJm1HW9+BTl3bz2eawqpZ3OXnT58lcb6ZvDewI46lmNvMbw1vlrFzTsMQg32IGMcpuzWnj+SY8DDyhKge4p+Xrn6weMvH7eTMwXyXsPiyGdJxNiQhZYQwcouIaUgv62rDw1Qp1n1S7GYOQzuBwLk24RNr2forNWNTXj9bJO2ZA5xmHMLMfttHhvqg/rO5FJLy3j4tKP8bUMGFYaXVCRf+KIujGSU5wW8FeefgBitEqTJNxqtfLDsvJGnsCwbiR2DCo5XXojPHGbcTzBWNr7wZ9bNFx0vUDBfeSJeyS1jGTq0kRAlecQq6uPZuPcXF2S85KahVDU8uriRtjwBEE8waSn4xkd1xb0fryXWT3aKXz72ioQOqQmwOjGVTeFbXUsiywhg6ffE6qmlKmBE5Vg==;kVMmWpEc2JQf6HJNmAQqSA=="
 ---

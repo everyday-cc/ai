@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introd
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/amp/"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "3 Fintech Stocks With High Potential for Growth"
+    excerpt: "The financial technology (fintech) industry continues to reshape the landscape ... and the global south – further strengthens its long-term prospects. Leveraging AI and machine learning across its products and services enables continued automation ..."
+    publishedDateTime: 2023-06-14T17:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-high-potential-for-growth-1032389799"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "MnSQFzhUblj2jgGoCnyLDvgVTpzJTRwjbxYuZ5qvItBG43ARbujS/Zw6DEoGf4ewfUUJUmUqTYfZIWTpP+ltQCeA2gHQ2xqDWEJZqnxRq3+GHqT0w+bzeDsSTHB8C+JGWVPH75pXdEvlvaWCeJyg+IADdHuAz8uxGeDiWsv9MEfQzxUbbKjCC5HsoUl3HVG+RnlXrXgnIQMzk+Vj7jEWb39Uz53/OWXkcauH/wJi/3amzkR+6Znb+3j/OBSbvi+ZMVM0Zi+Qat2PDgKcnC4cRxAPfkNPrRqy3qDeaOboGP2XGL/jjhQJvlmwFDpho+2xxK1MYTGGyRrB/DLW01qt7HpLxyZrkAi02PFg38OLMZmr3hfiE1J16+r4aHqQa+PMBnlUMZ+riP5NDgoBBPV5n3WyKKLOW1IkuosdY402lzfu/yyCytD/0MEl6PVEBNH2m802pY7QFpm3Sz+2QNrzgQpKxwrp7uru+zy0MNdjSle9Hpwi7p1MVEI58MZcbNiJx/Bx1KYetJKpmJ2SyVXW0A==;MYEW5HbZwC/kThYIbXZCFg=="
 ---

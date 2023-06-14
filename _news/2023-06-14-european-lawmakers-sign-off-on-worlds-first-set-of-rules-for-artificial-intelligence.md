@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/european-lawmakers-sign-worlds-first-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence.amp"
 type: article
 quality: 80
-heat: 160
+heat: 140
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How Europe Is Leading the World in the Push to Regulate Artificial Intelligence"
-    excerpt: "One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights and values."
-    publishedDateTime: 2023-06-14T09:30:00Z
-    webUrl: "https://time.com/6287116/european-union-artificial-intelligence-law/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 63
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "U.S. Cyber Envoy Warns That European AI Rules Could Stymie Sector"
     excerpt: "If more nimble regulation were adopted, ‘little Silicon Valleys’ could sprout across the democracies of Europe, says Nathaniel Fick, whose comments come amid rising tensions with China."
     publishedDateTime: 2023-06-12T18:24:00Z
@@ -81,15 +67,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "EU lawmakers pass landmark artificial intelligence regulation"
-    excerpt: "The European Union's AI Act is the first comprehensive set of regulations for the artificial intelligence industry."
-    publishedDateTime: 2023-06-14T11:44:00Z
-    webUrl: "https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html"
+  - title: "Four-week-old AI start-up raises record €105m in European push"
+    excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105 million in Europe’s largest-ever seed round."
+    publishedDateTime: 2023-06-14T16:29:00Z
+    webUrl: "https://www.irishtimes.com/technology/2023/06/14/four-week-old-ai-start-up-raises-record-105m-in-european-push/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 37
+    images:
+      - url: "https://www.irishtimes.com/resizer/Mb6mOZAQ_w6oqqSSkatXcapAeg8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7SWEGZQO3RHBFE4Q57SO6GXENY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Four-week-old AI start-up raises record €105mn in European push"
     excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105mn in Europe’s largest-ever seed round."
     publishedDateTime: 2023-06-13T16:00:00Z
@@ -99,15 +90,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "How Europe is leading the world in the push to regulate AI"
-    excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle."
-    publishedDateTime: 2023-06-14T06:15:00Z
-    webUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
   - title: "French start-up Mistral AI to compete with Silicon Valley firms, raises 105 million euros in Europe's largest seed funding"
     excerpt: "Mistral AI, formed by former Google and Meta AI researchers is planning to launch Large Language Model to compete with ChatGPT next year"
     publishedDateTime: 2023-06-14T13:31:00Z
@@ -118,6 +100,6 @@ related:
       domain: moneycontrol.com
     quality: 0
 
-secured: "2zZZdTKKuCemsKH7tOsiYmusmDYNH+hwjLOnogg9t8B2ypGCvPoYBK7Yrn8xv1NLD2S9usYj11FoBjCg/1MLa37RhgA4Lakf4EF7q5EWBKbIIR13IWdLPuHGG129yvHto4ytQfxiIVxGU30g+6nnPLEwk/48Qo4DZmRC8N8n6pMIfd2fdz9ImpXC8+ZaaxSIRCREnfmrfyDrM987IhXu31G22f4cnb/PX6bAQ71Em9Zs6T59g1+Toj/BMfFEx0Ea0CKuVJcYaimsorGotxodnFevtx43Tyc+ROnkFuqjRP8TmKj1h5a1itqGwDws5eIRDltzIZ4LjXapYNQ9+U5WhgJp3WdFSxz56DcbOPk8tzQ=;9S7P1e6WJtqpPYjjgRRE6Q=="
+secured: "TskhWF+c/oSAQWg3n38DmoOJVSAhAsNeTNBniaYW0xWRK7kv5ThswR+GO8VOkczPTfoMZIIvKrWqadRrHk+tKXjHfoOVtxipFr891haS3g5KtDjh6K6T7oOy2LdposFJHrsQ5eTZPZ4vHfCb14BgnAUl4mlqXQKUD4RLdH97VVGlWYtwS2sSa5ev08QRlbKZ42C2/A5JGdJIhpjId2LLkbOYjPw+LtmoUB7BfXf9iazuCn2WXDWKHtJrl92NkPQxlc73/EQJQHkVXiU0S/z5LXY6u8dzJ6Pk3WfxFLeUf3hJKwAC/1EgIvArkU1txDIQLJLoMg2AHTiUYWJUm763DLTEIOdBJyuFI8+XrHXcN8RE9koOJTz0dRf4HxFePAwTtOJ7tty4qQ+9BFw5evtxp11ANVlsauqnOV9basTGz3dDnkIlEJ22nnQi3EidFelfr6Qup0QcVrEhQKXrb7KFeKhJoyjTmATVg11Z5VeoNJULoJkKcXTfvFA5Jpw5N9bH0HreImI/Rt3t69ETbLhekg==;d4CA4MFAOg63Ol6bIV/r9Q=="
 ---
 

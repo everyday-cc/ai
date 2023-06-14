@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://www.reuters.com/resizer/WR5RFCRgJeDrP_zCkBinYSAftiQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QERF6JUD6NKWPJZEHUDU5WUM64.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "EU lawmakers agree to changes in draft artificial intelligence rules"
-    excerpt: "The lawmakers will now have to thrash out details with EU countries before the draft rules become legislation."
-    publishedDateTime: 2023-06-14T10:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/articleshow/100991890.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-364372,msid-100992047/file-photo-european-union-flags-flutter-outside-the-european-commission-headquarters-in-brussels.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "London Tech Week - PM Rishi Sunak promises to regulate AI, but admits UK not up to speed in spreading the benefits to all"
     excerpt: "Sunak on AI. London Tech Week kicked off today with British Prime Minister Rishi Sunak debating AI regulation and ethics, even if the mainstream media headlines were inevitably mo"
