@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "As Cortana Retires, Microsoft Brings AI-Powered Bing Voice Mode to Desktop"
-    excerpt: "This new voice mode makes it more convenient to use the AI-powered Bing Chat since you can talk to it while you work on other stuff."
-    publishedDateTime: 2023-06-09T18:37:00Z
-    webUrl: "https://www.pcmag.com/news/as-cortana-retires-microsoft-brings-ai-powered-bing-voice-mode-to-desktop"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 62
   - title: "Microsoft Extends OpenAI's Language Models to US Government Agencies via Azure Cloud"
     excerpt: "By bringing OpenAI's sophisticated language models to Azure Government, Microsoft aims to empower US federal agencies with cutting-edge AI capabilities. This move underscores the company's commitment to delivering innovative solutions and advanced ..."
     publishedDateTime: 2023-06-11T09:04:00Z
@@ -93,20 +84,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "We are seeing an artificial intelligence battle between Microsoft and Google: Beth Kindig"
-    excerpt: "I/O Fund CEO and lead tech analyst Beth Kindig provides insight on stock performance and the development of AI on 'Making Money.'"
-    publishedDateTime: 2023-06-09T18:54:00Z
-    webUrl: "https://www.foxbusiness.com/video/6329098666112"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 45
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/0cd95be2-8c2c-4d7b-b899-9e6e5990c8a3/01e569c3-a14c-4973-b7fc-baf39650a674/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "AWS distances itself from Google, Microsoft with ‘unique’ approach to generative AI"
     excerpt: "AWS has emphasised its commitment to providing customers with the widest range of AI tools, in a strategy that distances it from other hyperscale AI providers. The firm, the third of the hyperscalers to fully enter the generative artificial intelligence (AI) foray,"
     publishedDateTime: 2023-06-12T12:15:00Z
@@ -116,15 +93,6 @@ related:
       name: Mozilla
       domain: techcentral.ie
     quality: 45
-  - title: "AWS Unveils Unique Approach to Generative AI, Setting It Apart from Google and Microsoft"
-    excerpt: "AWS is making significant strides in the field of generative AI with its distinctive approach. By focusing on customization, fine-tuning, and responsible development, AWS sets itself apart from competitors like Google and Microsoft."
-    publishedDateTime: 2023-06-09T18:18:00Z
-    webUrl: "https://techstory.in/aws-distances-itself-from-google-microsoft-unique-generative-ai/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 42
   - title: "Contextere's Industrial Chatbot Madison Now Available on Microsoft Azure Marketplace"
     excerpt: "TheNewswire - June 13, 2023 - Contextere, the pioneer of Blue Collar AI®, announced today that Madison, its insight engine and industrial chatbot, is now available on the Microsoft Azure Marketplace."
     publishedDateTime: 2023-06-13T13:20:00Z

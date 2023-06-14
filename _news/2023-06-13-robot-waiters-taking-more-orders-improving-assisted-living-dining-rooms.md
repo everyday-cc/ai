@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Report: Health care-focused AI platforms poised for growth in the coming years"
+    excerpt: "Plus: Residents at Mount Morningside/West reach tentative pay deal, avert strike Flatiron Health lays off 39 workers Meet 5 more of Crain's 2023 Notable Health Care leaders"
+    publishedDateTime: 2023-06-14T09:30:00Z
+    webUrl: "https://www.crainsnewyork.com/health-pulse/report-health-care-focused-ai-platforms-poised-growth-coming-years"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 35
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/hp_0.png"
+        width: 600
+        height: 335
+        isCached: true
 
 secured: "atP8ulg/otcTemISKOIAcvYXynlqLTwO7mwGEnSy/deymMx0mLkHqh+qRcFkbSD66hr/qm1tpUeDB5bimYFfWczKSNU013fXbLwGVyrdsyA1sierPKmCsfXwR96JVHT+kmOtyak+DeulnAtTdB53AK/SX1BzEqXH5bOYFFL9mR5r9ADB6EqRHNRp3lsYlkfx4JDRf6GrkUOZm35Yko6UskyTOHtgcx7vL2ZQTHq6No9ZYOsDIl47f2zs23q8cGWzGLg0fJ/Uthsnad9yWId74bv1hDVbTSLM++yOKjPl2COmlm/nFPNqnasLfUJ53WmnoHSfUhYfCYgr69Pdb55p0Jbfe8R94IOjkhJTSTSBceFx2ccwmXJ0Il3xW3gfzNqFpOEQOwSxLIu662mETJN6qtoessev1/fipDBlL7BXv4WIBfogF1QSeVzDFdMqiY/w3w/v2pXtNXxyKNhaxq0Hr5TmNMmzfvTn5JSo5Gq7X9VxTEB86onL/pKYIOT61/GcjukAt+QskP7YtchtDs//GQ==;FsCwdzHGdLBZCoWaet+20Q=="
 ---

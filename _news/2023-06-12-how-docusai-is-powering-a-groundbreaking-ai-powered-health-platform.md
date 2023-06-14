@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/06/12/how-docusai-is-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/12/how-docusai-is-powering-a-groundbreaking-ai-powered-health-platform/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Report: Health care-focused AI platforms poised for growth in the coming years"
+    excerpt: "Plus: Residents at Mount Morningside/West reach tentative pay deal, avert strike Flatiron Health lays off 39 workers Meet 5 more of Crain's 2023 Notable Health Care leaders"
+    publishedDateTime: 2023-06-14T09:30:00Z
+    webUrl: "https://www.crainsnewyork.com/health-pulse/report-health-care-focused-ai-platforms-poised-growth-coming-years"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 35
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/hp_0.png"
+        width: 600
+        height: 335
+        isCached: true
   - title: "Robot waiters taking more orders, improving assisted living dining rooms"
     excerpt: "Artificial intelligence-powered robots are increasingly being tested in senior living and other industries, taking over repetitive tasks done by humans"
     publishedDateTime: 2023-06-13T04:36:00Z

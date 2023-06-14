@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Meta guru says ChatGPT-style AI is out-of-date"
-excerpt: "LeCun spoke as Meta announced its latest AI project -- called image-based Joint Embedding Predictive Architecture, or JEPA. The project seeks to move beyond ChatGPT-like generativ"
-publishedDateTime: 2023-06-14T09:20:00Z
-originalUrl: "https://www.daily-sun.com/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
-webUrl: "https://www.daily-sun.com/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
-ampWebUrl: "https://www.daily-sun.com/amp/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
-cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
+excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
+publishedDateTime: 2023-06-13T17:18:00Z
+originalUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
+webUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
+ampWebUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Daily Sun
-  domain: daily-sun.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://www.daily-sun.com/assets/news_images/2023/06/14/meta.jpg"
-    width: 700
-    height: 402
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
+    width: 2880
+    height: 1616
     isCached: true
 
 related:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/2e7df5b35202c121fb5859af4251df29c49a76f8/2023/06/07/32d4f646-aba1-4462-a3cc-7afacc424c11/figure-top-how-to-chat-with-the-petey-ai-chatbot-on-your-iphone-and-apple-watch.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Europe plans to put guardrails on ChatGPT and other AI apps"
+    excerpt: "The European Union has taken the first steps towards regulating AI, with its parliament voting to put restrictions on systems such as ChatGPT."
+    publishedDateTime: 2023-06-14T11:44:00Z
+    webUrl: "https://www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/6489a7aeb6429600188221ab?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Samsung Electronics to adopt own AI amid ChatGPT security concerns"
     excerpt: "Samsung Electronics plans to introduce a customized artificial intelligence (AI) service for knowledge search, translation and summarization this year as concerns over the possible leakage of key technological information enabled by ChatGPT are rising."
@@ -223,6 +239,6 @@ related:
       domain: azcentral.com
     quality: 10
 
-secured: "DLbeGHlcDNXnwc1xFukt6vpv/Gqc+Q6uxNUkrQGV+peSzWxiSJ+63uqCiqbbLY9eqQwDd5RnL3Nby9k3x3pz/ZdReUmAHMpzazupqM9GdLhvqlxQNjHBZBSD4MUeythvcG04nDbA1/mYKRc3aEv+6g7OC2FKMXh6947vQUZ/ttjnqPcG15+FySiHKYiCmhu9vO3uVkqTxqIGmvT0bBG71/jGa0gvGUlDEkM/8pFBwdVdV6MEdg/uN1T75BiPxUTXOuJx8IPJzLWPFO7Z0IpHt6/78HbvnxK/vPO6asV1/iRHIBa3jlO+HCU8j8Fj2It0z1WJGc1oTPKd3Yey3THRqkiG7+w0qGqxZl48F+zcvWk=;3XwPrKa0smy4TH3OKQ96dg=="
+secured: "b2kLRZQBvBmugCBHrd9LmodQXzbC4kIQgfTexHgNR9/rvmBkuTSqimReXsrv1e/s0owy6ZrnObEkO36IetmVxuVFSgZtLz3S4OEEXp0IWwE2Giwjs0Sd7xJDIPOOzeNVr5neTyMZ6jumz0fO/eSS76S9yZL6Xx2sGaig1MpG//W+1TOREzkUlc0t9PjNsXRjFI72TN/ivT71JOVUEZfous0RTDtXwXnAF/QaeMivM0wxeZ4xHFApD+S3Jk1bQlzqMG0iD5Lwivwe1yxiqkLgj06etRd3LrMfuMaQnuh20YKygF2kOf29v2S0L5vLAv04kbGeSQSHrCT0L/8wu9giIHyBJP90kAIVj3ckGh8p9d0=;duNRmHZi9oedS09AIzSyeg=="
 ---
 

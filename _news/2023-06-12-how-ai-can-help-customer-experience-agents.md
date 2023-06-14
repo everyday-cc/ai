@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/keenan.jpg?w=1280"
         width: 800
         height: 450
+        isCached: true
+  - title: "How artificial intelligence can expand the borders of healthcare"
+    excerpt: "Artificial intelligence (AI) has taken the healthcare industry by storm. While many look to implement AI to create efficiencies, it is important to approach AI in a larger context to truly understand its long-term implications."
+    publishedDateTime: 2023-06-14T10:09:00Z
+    webUrl: "https://www.pmlive.com/pharma_thought_leadership/how_artificial_intelligence_can_expand_the_borders_of_healthcare_1492937"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 54
+    images:
+      - url: "https://www.pmlive.com/__data/assets/image/0004/1492915/1541285245273.jpg"
+        width: 900
+        height: 900
         isCached: true
 
 secured: "ThACOrCTLoQ2dioMdeGyy6V99V7BW0KFJSBm4iiBboCzR3wre2cpuKdKHgyr++CPgPo8PfSuzMUQK7tHmS0l+FxP+FuPGim1tKE276Lc+eDVCZjfrKIyTArufbJ+2ifvKOEReC9Ho/6qWIH9dgxvtrF7xz3RBUC9Yj4/9yDQZSmwuT/ZhWOLBPqjbq85eW3/PWQe1i17qY2JXoNrUeyo5wAykggO3pzsY1az0AIyBB9o+0Pj8IDVFBjH8QtQbWzDNYmAOgzlYEtvwKyTyrugBtCsFzwbVNF8RAytU9+BNmo7tny2eKH0VwPOvo20YYZRz9g1hB2OpzTHHOAcYAVdZwzjmjBnskmQRT6NXtbmLO51/p+oeyR/NVIVXaMrDD1U4FGYV1Y6DHh90nGHYkcOtmGsF7Ai75dAGOYs46IKKbiuqSKcJo5D1mEvO9zL/4bV7AgfA6uKt6TnJyXWSEW05s7IQNqCeb6vVejZtwrPxbdeUMko9HMyV0+eqRmrYFuRajKrS/6gaTO1wSY41ZAfhA==;wdOnuFuEb4iMpUcJ7Vk/Fg=="

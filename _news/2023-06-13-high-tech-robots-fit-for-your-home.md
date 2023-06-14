@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-13T11:27:00Z
 originalUrl: "https://www.mansionglobal.com/articles/high-tech-robots-fit-for-your-home-a186ae63"
 webUrl: "https://www.mansionglobal.com/articles/high-tech-robots-fit-for-your-home-a186ae63"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "oT9h4wn7SgYAPXkwVLkMzIlye2m4elX2ft6b7H/KeT3bLnHmQfvcTgoOt3ijVajImeXpVV9tUwpHGW6izqbu3bASsDHfnEM+tW7TbJYTonVpxMrRCImwzsJOF6YwhNnkjwvCm9joW5AjGk53j7VLFx7qTwDE9F0WR+fLwRQGHoXsKKUylD89HlauKbdm/Udgmh1F1qCAj91Xug8Tts692TapFEyAelUE9Zl62V05c25fmd7tywreuW+FdrJrqfYcvmFf9NLhYcKKTxNhlyx531GJCrw4PrbsRfg+y2X0+ega0+Q+jAgiOe4Oi0sTkVbcu53olFwO0UuXYwu/2Weg+bF5pkiSwY1IJ5v/Ll+IJEg=;J8aUc9pl+6jISgjgXDPbzQ=="
+images:
+  - url: "https://images.mansionglobal.com/im-81441837/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "EIiw1KE5JzDHARpU/uvooxS0ktvcgrFE2BK8gYViE22UzbK9EjgGHoaLi3ByfIugbeHy7rZ0dqqrQE7hlSAteAiOoxS/Vf/QTobVqbj1ds+96Dr9YFWEgP4Zy0zWoJQQGnSksMK1BEX5jV6TfOlk/9Vcahw3lBl5APmn1pdjul5wzC1QqMK2pdxBN67DEzEZTH0hIU5tNyakE1P9NrJapVv1IYfAn1//oHgjg77qewsrBIlDw7oIl90o/6xcye0N3x8UUY+2KaCCzJyVAwrYgczBPSezoQUpiZ3HGzfe2jjHolYTTgdVywiE1KL4YqG/jMdpsjpcCU8wjVO2ttnIvkLfFtIBYYrGSNA8PJFJHE8=;5Ev9ZhLBz380ZcH+ANx67Q=="
 ---
 

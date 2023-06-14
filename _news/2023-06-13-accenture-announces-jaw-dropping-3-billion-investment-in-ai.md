@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-bill
 webUrl: "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/"
 type: article
 quality: 67
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
+    quality: 19
+  - title: "Accenture announces $3bn bet on AI to help build new industry solutions"
+    excerpt: "The new investment is part of Accenture’s continued efforts to build itself as a leader in AI Accenture announces $3bn bet on AI to help build new industry solutions Accenture, AI adoption, AI innovation,"
+    publishedDateTime: 2023-06-14T11:48:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/accenture-announces-3bn-bet-on-ai-to-help-build-new-industry-solutions"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
     quality: 19
 
 secured: "ztmmDxlH45Fq/MlgwHrpxgOWbjIPwOc2yHfG50ymilV31j8rX754oEtJSgOxvgVeqVdbfyh9Q1D2bdS476dWeI45E51/qwhUKH/PSDRduH9nXMmY0EMCC/oMXxX5vEPNE4ZdrWOhN3XhQQmLWUyOlhrvkeN8ybAbRzUY6IzmP61SoD6Wc5X4mauqAkmG3o1K/siBpfQVNCZZ599SZqcKB6rETI2Pqf9dqnNClLM8JiBbFl//y11Z5EqQRSwdu2QOxdjyz7DT3kkh/sAzkwmlxLT6sB+HYPBgmntdNxX8XNVQzL9ay0I7BClstMDHDVxiTPLPcu0sYNNC/mXj3NiQJt5WBwS7aTz/vMRwihz4O95Z9FudDONy7oPywqZMk0thooA6FLw08aRT0hSOWNH1mLWqc9wuVlSdB2WtIGgT2/HgrsnL32wNM1aepgj6//ayE8LMIUMR+I16at7G18aGqimrp1bddFv5d2xDp04+5DVb1RAgHDAhlMAGGce1Rnsr2Jq4s2mey7J+h/OEUXrEbw==;XdT6jqQm7JSkNUgnvxX+dg=="

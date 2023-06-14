@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-r
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
 type: article
 quality: 50
-heat: 90
+heat: 110
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Self-Driving Car Runs Over Dog"
+    excerpt: "A Waymo self-driving car killed a dog in San Francisco while its \"autonomous mode\" was turned on last month, an incident that will likely fan the flames of the debate surrounding their use."
+    publishedDateTime: 2023-06-09T20:52:00Z
+    webUrl: "https://futurism.com/the-byte/self-driving-car-runs-over-dog"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/06/self-driving-car-runs-over-dog2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
     excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
     publishedDateTime: 2023-06-13T02:21:00Z
@@ -90,6 +104,20 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 18
+  - title: "Self-driving car couldn’t avoid running over and killing dog in US street, reports say"
+    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said."
+    publishedDateTime: 2023-06-13T08:35:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/13/self-driving-car-couldnt-avoid-running-over-and-killing-dog-in-us-street-reports-say"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 16
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/13/2123763.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "tKIcOOUE/6vz6poy4jrLOL08k4L1HhgcFbIrBvVvawiidIbbMtgQK8AwUMqcxtyPwAusPVWJYc/hXQrgeKp0g7oMyOUr6oWC73/XrQA9PKAo/zgHwwbXDZWVgACd1Zh5UXVLZySDvs9KDi0pgrfLMBaY4BH+/RudmMf+DZXeJWjILAnFtdgxv+gdDs5VBtRUTQahMM5hg28nQCPDhp5wWjhRTyaxockxBLgqR+WtRCDq2ORZ7vuli+zQQ91qqZIdvpH9N16txuvvLI1Gcw5TjJld1RyUG1eozGgvK3THOLhcgr1cOYmhvMQbKMjI8kbF02nNQpYOuuaUfne3bCEsw9kIewcCFLlIJtp3fi+CNNOR3Kfjx17TIM5nmJNBJq7WZvGRFTebcBGsLJxpy+8rPgFiLxVnZaujPdKkUf2kdBx4f+M1wRGJT6JqSQw6YF83r1AauboTYgPk4JcYGGBKL0RZW/sE8q/W484mTILSvdFUH8QmgxVAIcDBH9GvZCG8WSkcRkdb0Cgu9yWxIogi0w==;R/cNebxnN+vs+9+6+G/nug=="
 ---

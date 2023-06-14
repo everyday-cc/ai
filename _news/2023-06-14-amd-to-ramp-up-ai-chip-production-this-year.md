@@ -37,6 +37,20 @@ related:
         width: 834
         height: 556
         isCached: true
+  - title: "‘AWS considering new AI chips from AMD’"
+    excerpt: "AWS may want to use AI chips from AMD processors. \"We are still working together on exactly where that will land between AWS and AMD,\" Amazon's Dave Brown"
+    publishedDateTime: 2023-06-14T09:40:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/107470/aws-considering-new-ai-chips-from-amd/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 71
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/01/shutterstock_1584762601.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "AWS is considering AMD’s new AI chips"
     excerpt: "Amazon Web Services, the world’s largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision, an AWS executive said. The remarks came during an AMD event where the chip company outlined its strategy for the AI market,"
     publishedDateTime: 2023-06-14T07:13:00Z
@@ -81,6 +95,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Amazon expresses interest in AMD's new AI chips"
+    excerpt: "To break Nvidia's dominance, AMD needs a big-ticket customer for its new AI chips. Amazon could benefit from the flexibility offered by AMD."
+    publishedDateTime: 2023-06-14T10:40:00Z
+    webUrl: "https://interestingengineering.com/culture/amazon-buying-amd-new-ai-chips"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/14/image/jpeg/ui0iE2hiDNiKIO9eBmYzpLui3XWibuHPfKhzxzXh.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Full AMD announcement: New chips and AI tech"
     excerpt: "From cloud and enterprise data centres to 5G networks to AI, automotive, healthcare, PC's and so much more, AMD technology is truly everywhere and we're touching the lives of billions of people every day. Today, we're here to talk about our newest epic ..."
     publishedDateTime: 2023-06-13T23:48:00Z
@@ -113,6 +141,20 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 27
+  - title: "AMD shares are trading higher following a report suggesting Amazon's cloud unit is considering using the company's AI chips."
+    excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want ..."
+    publishedDateTime: 2023-06-14T11:22:00Z
+    webUrl: "https://www.benzinga.com/wiim/23/06/32851955/amd-shares-are-trading-higher-following-a-report-suggesting-amazons-cloud-unit-is-considering-using"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "2Qq3jIMzqSf2qq1pqynriGfBfCtk+b82YIm/kjbzx6hhGFpLHv1I57LULqZOMUONEuEWl86BCe4AGbf+z/TlASsvLZWWU82HNmrCZtYX+77LXyfXiTVakBLXFRpyJegVcDcutdAd0Giy+LEdcQC4Nl2oQNMglgAUuv5bm0MzHvd/c3xPxtvO9s2MgDAgm2VjIqVGAjrqjG2L7RvL5cEX8t7Qt/2+VRorB4rsl3xJWEGuTGkfb0KuMutZO30DgEgBmNe/g+1SjJdy/HBczj6r2vMj5TnzTR25HInAccSHUUU4yEnrRDjUR376tDbKOF/e47nalnsvKUruknYMnQqgMzrMXpN766PtKfOBCge+mO4=;yl3oqfFw9zbIyM2Sh7ZYJQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-educati
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
 type: article
 quality: 91
-heat: 231
+heat: 241
 published: true
 
 provider:
@@ -153,6 +153,20 @@ related:
       - url: "https://pix11.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
         width: 396
         height: 202
+        isCached: true
+  - title: "New-age predicaments – Artificial Intelligence and ethics"
+    excerpt: "This article delves into the ethical issues surrounding AI, examines the threat posed by AI, and proposes practical security measures to mitigate this risk."
+    publishedDateTime: 2023-06-14T11:35:00Z
+    webUrl: "https://www.fortuneindia.com/ideas/new-age-predicaments-artificial-intelligence-and-ethics/113049"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 54
+    images:
+      - url: "https://gumlet.assettype.com/fortuneindia/2023-06/f6078a2b-b0f8-417a-8d2e-393fd062b230/LN_blog_cover_pic.jpg?w=700"
+        width: 700
+        height: 700
         isCached: true
   - title: "Increasing focus on AI is driving demand for empathetic women leaders"
     excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."

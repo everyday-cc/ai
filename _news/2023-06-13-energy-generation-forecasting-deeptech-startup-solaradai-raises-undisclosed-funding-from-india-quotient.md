@@ -38,6 +38,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Lenovo to Invest $1 billion for Accelerating AI Solutions"
+    excerpt: "Lenovo has announced $1 billion over the next three years to expand its infrastructure solutions and accelerate the deployment of AI"
+    publishedDateTime: 2023-06-14T10:47:00Z
+    webUrl: "https://analyticsindiamag.com/lenovo-to-invest-1-billion-for-accelerating-ai-solutions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/How-Data-Democratisation-Gives-Lenovo-an-Edge-on-its-UI-UX-Play-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI video creation startup Synthesia reels in $90M from investors"
     excerpt: "The investment values Synthesia at $1 billion. London-based Synthesia offers a platform that can generate realistic, AI-powered avatars for use in videos. The platform offers about 140 prebuilt avatars that can read out a user-supplied script in more than 120 languages."
     publishedDateTime: 2023-06-13T22:37:00Z

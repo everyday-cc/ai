@@ -7,7 +7,7 @@ originalUrl: "https://www.carsifu.my/news/self-driving-car-from-googles-waymo-co
 webUrl: "https://www.carsifu.my/news/self-driving-car-from-googles-waymo-company-runs-over-dog"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,73 +23,6 @@ images:
     width: 800
     height: 478
     isCached: true
-
-related:
-  - title: "Tesla driver hits a dog, claim they were on Full Self-Driving Beta"
-    excerpt: "A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times."
-    publishedDateTime: 2023-06-09T17:06:00Z
-    webUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 84
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla driver hits a dog, claims they were on Full Self-Driving Beta"
-    excerpt: "A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times."
-    publishedDateTime: 2023-06-09T17:33:00Z
-    webUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 64
-  - title: "Tesla Won’t Pilot Full Self-Driving Function in Shanghai, Source Says"
-    excerpt: "US electric carmaker Tesla will not pilot its Full Self-Driving Capability function in Shanghai, a source at Tesla China told Shanghai Securities News. A recent rumor on Chinese social media claimed that Tesla’s FSD would be available in some areas of China,"
-    publishedDateTime: 2023-06-12T07:35:00Z
-    webUrl: "https://www.yicaiglobal.com/news/20230612-10-tesla-wont-pilot-full-self-driving-function-in-shanghai-source-says"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 54
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/06/25142668994245.jpg"
-        width: 770
-        height: 510
-        isCached: true
-  - title: "Self-Driving Car Runs Over Dog"
-    excerpt: "A Waymo self-driving car killed a dog in San Francisco while its \"autonomous mode\" was turned on last month, an incident that will likely fan the flames of the debate surrounding their use."
-    publishedDateTime: 2023-06-09T20:52:00Z
-    webUrl: "https://futurism.com/the-byte/self-driving-car-runs-over-dog"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 24
-    images:
-      - url: "https://wp-assets.futurism.com/2023/06/self-driving-car-runs-over-dog2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving car couldn’t avoid running over and killing dog in US street, reports say"
-    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said."
-    publishedDateTime: 2023-06-13T08:35:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/13/self-driving-car-couldnt-avoid-running-over-and-killing-dog-in-us-street-reports-say"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 16
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/13/2123763.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "scYezq53EVosLrfP7mDvAr+95YvmROrn/HSrDJLc0rW96OepmUgeQ5chnlPd+HFrFk+ASDWYiQ1ckbPbCPisnNZuLAHcpSmWUcYZsixunkiiYIPCKtooD32qebn8rcu3HqCUTzHACVq8LYYc1vANe8lETqjzoK2/EQ6N7Nb3dHPAQ4LKwDecrIhhRaapmCBH4rdT3dHcxefTkHyzevL0zU/7dIXZ5NND/pkbIJP11WoNYVFv6GR1zbz7aLM9mFexAX7tiQEFwM5gDMWGaTAXNOuyVtlbSPFH/WtaDoNqwdT5B3eemdRKtEEnMS9Z6V0hgI//Fi72SUyrWMdcFp7y0QwZcG7MV4mmovpMFAODgkQ=;mNT4EAdFGF3XP3Th98V3og=="
 ---

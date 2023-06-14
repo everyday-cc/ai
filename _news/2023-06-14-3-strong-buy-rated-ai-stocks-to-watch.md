@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-strong-buy-rated
 webUrl: "https://markets.businessinsider.com/news/stocks/3-strong-buy-rated-ai-stocks-to-watch-1032387474"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
+    quality: 49
+  - title: "3 Stocks These AI-Powered ETFs Are Betting On"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Given how popular artificial intelligence (AI) exchange-traded funds (ETFs)"
+    publishedDateTime: 2023-06-14T09:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-powered-etf-stock-picks-to-buy-1032388370"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 49
   - title: "3 Stocks to Buy for Easy Exposure to AI"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is the “next big thing” on the Street. And"

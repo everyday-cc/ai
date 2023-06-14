@@ -3,24 +3,23 @@ category: news
 title: "AI Could Prevent Hiring Bias — Unless It Makes It Worse"
 excerpt: "At first glance, artificial intelligence and job hiring seem like a match made in employment equity heaven.There’s a compelling argument for AI’s ability to alleviate hiring discrimination: Algorithms"
 publishedDateTime: 2023-06-13T17:25:00Z
-originalUrl: "https://www.montanarightnow.com/national_news/ai-could-prevent-hiring-bias-unless-it-makes-it-worse/article_bd5dbe3b-f3ab-52ab-83fb-7e4c2e6c3650.html"
-webUrl: "https://www.montanarightnow.com/national_news/ai-could-prevent-hiring-bias-unless-it-makes-it-worse/article_bd5dbe3b-f3ab-52ab-83fb-7e4c2e6c3650.html"
+originalUrl: "https://www.ktbs.com/news/national/ai-could-prevent-hiring-bias-unless-it-makes-it-worse/article_17121d6a-ea0c-5917-b2cb-e1548ad9bae5.html"
+webUrl: "https://www.ktbs.com/news/national/ai-could-prevent-hiring-bias-unless-it-makes-it-worse/article_17121d6a-ea0c-5917-b2cb-e1548ad9bae5.html"
 type: article
-quality: 41
-heat: 41
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: montanarightnow
-  domain: montanarightnow.com
+  name: KTBS
+  domain: ktbs.com
 
 topics:
   - AI Ethics
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/montanarightnow.com/content/tncms/assets/v3/editorial/a/5c/a5c24d02-9645-5d92-a53a-38b4e87bbd3d/64878b6e030e9.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/f/88/f88f8b99-5a42-5935-8e65-98b6e2fe3a5c/64878b383f138.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -41,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Vdw6EmLgvf6tiRlDO3dbbheYGKtfnt0o/s6vcSrCtIsEJIvlS9RmAK9Tb4OM6YCDdETRYEvCpAz1Zcs53T0fEblvdvx3ZXUCv1a9koXetJ2JbV96Np4udVCRmzLNyfIvA92IOPoWaN+U8GxHXCVsPO72VTDInin3vzoQ0QTUs7v21VCoLUWHwOA4OTs/NAACcHt1myVvTESQNnd7AHQG/9RYUQdZFgvCrtFt695SfM2AhpvTkfnw9Zipq0fHmB4Ishn9MElavfej76gapONn5kCg3b3JjgFXKTjcJ0xlOmCBrluwRRCCsZN2eN2NDHrt8EkSlFtHIPojg0P66X4WwOalpijrn2vrQ0aeGsqQ0KIfb5YjaEsngIDEXFIhd/K8BzrkJBxn9dD67rqgqQdOKIrxClI9Tab/uWiPuMhobtFh73HU24E37NYLsPJ0wYy93ZZqE9GbH7BH7CUFhWkJ2gzLD6e7HMOHuZTETlwSuJ5phv7TyE6rJsnomnOK5yCzmPv9Qzh3S/yjJzEK7E/PTg==;f0Cmr8xKIQdyKADvWb6QiQ=="
+secured: "jqfoHY6NCtOjLvnFI1r1oaNkI2+SCTT5sYSSJvZGVdA8EQ17TcCwrHsP5ujdTY7w4Ty23LM6BTCd/6Z7+ux6yNRwwDdSCElamXs/U44ihi87zdmGOCjtgbQ+me5ZhMYl8HrT8fZo+nqV6ne/rvisuG5rTSrDlbe03CN/IoomJqPnEUlueu/trm2Cee/NJninfXlqP7X9bzcoDC0NqQSgL6ZVEw9q1WixyDTR9xx2fcj93MfP+cyzVgAKpAgzwVdmIub0F+e+WsFAFzLx9ouiPoFUc9ZRmn3fY53D3lbHGTjfHo3DKR8dvVQSWbjCaziDSc7233DKIieo53g0HJu1e200hokIxQg9YnDvj1atfIY=;3mY0p/vDVDTOdVkuehi5SQ=="
 ---
 

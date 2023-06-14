@@ -38,15 +38,6 @@ related:
         width: 4000
         height: 2741
         isCached: true
-  - title: "Four-week-old AI start-up raises record €105mn in European push"
-    excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105mn in Europe’s largest-ever seed round."
-    publishedDateTime: 2023-06-13T16:00:00Z
-    webUrl: "https://www.ft.com/content/cf939ea4-d96c-4908-896a-48a74381f251"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "AlpfjiBJyWNk1UaD+3W7kLLR/rVikJ3gRZelEBUcMBDyethX6JvqeDqim5JqKXikkKfM806dK3POOKpOhMWFs8nHsPettwBlvaqgjT9BP//+nlKqHXGE5MA7iruXVsxnKwBMWGqXSKjfftnFu61GYcV2bnn2Chql2sHEdJTsHInlCwLnKrUxVQdsodH8Q2rkHnF1WFc8cSh8PMq+aO3+plbb6C7lSDwWc3P1hzCi56hocCmvpk5vHWtxCnxAkchHRbPW+HNfc2XJS7nK/OX+ssC0Uuob6jiCSvRNsh6wAtWja2CpoPPNjy/G7da93+SS5mpXoKsxRejHvS6nbzUrMaoyLU6JNWrhsQSBNVIcKhI=;LGk8FS0nHJjqDONGZGt+aQ=="
 ---

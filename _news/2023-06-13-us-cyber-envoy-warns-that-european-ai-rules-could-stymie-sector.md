@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "AI Regulation Is Almost Here in Europe"
+    excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
+    publishedDateTime: 2023-06-14T10:10:00Z
+    webUrl: "https://www.wsj.com/articles/ai-regulation-is-almost-here-in-europe-10b32c8f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-799506/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "How Europe Is Leading the World in the Push to Regulate Artificial Intelligence"
     excerpt: "One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights and values."
     publishedDateTime: 2023-06-14T09:30:00Z
@@ -36,6 +50,15 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Four-week-old AI start-up raises record €105mn in European push"
+    excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105mn in Europe’s largest-ever seed round."
+    publishedDateTime: 2023-06-13T16:00:00Z
+    webUrl: "https://www.ft.com/content/cf939ea4-d96c-4908-896a-48a74381f251"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "y+ZyhXsozmRzVy6nrJtJ6X0aaQn4iCnMF+Z9mdP2najxwlZnM4OWlA9RUvCrYr41EfkjfZxVKML2SRERwRzoUlEsD9ew1bpfVSW8go0eFsVbjwoUgx74sc52v1UCWHVb3SH/GaP05Oap+y8QdC6y7HkccVpwXMyGKUNhTBvZWhZGLn7ED4/8Hr8mVZV3gcUr/cm34F2u6wn3YT4QpJkutYrpnaAlc+/ibfZPkM5+3HsbpxypNrLWu20lqX9z99xdaPhI+wGsAPiC/vpDMwkZYNUZfbXAgYAKK+OvpT33E60Ihs1GOUTudK3tmA/tfBXk1GOJBCkJIa6ZeOkj80fOJOk++jEDWMI6YGJnudS2QHQ5CQkWYddIWBQqsvMoZYlAQ4HDYKGDKdtp4Ak1LouiL1Pcz8321wQI6j77SDXjAXmXU7sFre07u74M5OxSRqRK7Iw9KhxPV/qRmUyU0UGoHyif9nhsM/x2BWCZHdHz1I1CmS1QJFpxOki78wmb21nehrbTBBfdNlFlmXxuLcPHdQ==;MbuJmZEQVrIFkxYfK4QuVw=="
 ---

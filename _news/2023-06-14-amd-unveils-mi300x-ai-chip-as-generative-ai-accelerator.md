@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6488e5d20f339468b475c365/0x0.jpg?format=jpg&width=1200"
         width: 1024
         height: 587
+        isCached: true
+  - title: "AMD unveils MI300X, steps up play into AI chip segment"
+    excerpt: "More than 15,000 companies uses its software.This new technology partnership between Hugging Face and AMD is very important for the open-source AI community, establishing a new hardware platform for training and inference workloads that will support the most popular architectures and frameworks,"
+    publishedDateTime: 2023-06-14T10:54:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2487904-amd-unveils-mi300x-steps-up-play-into-ai-chip-segment"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2487904-amd-unveils-mi300x-steps-up-play-into-ai-chip-segment?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2487904-amd-unveils-mi300x-steps-up-play-into-ai-chip-segment?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_46_5151186.jpg?width=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "AMD Instinct MI300X accelerator for AI revealed, combines CPU, GPU, and 192 GB of HBM3 memory"
     excerpt: "AMD's new Instinct MI300X is designed for generative AI and will compete with NVIDIA's H100 and Grace Hopper, and it's out soon too."

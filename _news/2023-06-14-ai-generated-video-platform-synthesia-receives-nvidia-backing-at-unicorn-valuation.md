@@ -42,22 +42,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia’s AI software tricked into leaking data"
-    excerpt: "Others have followed with bespoke but experimental AIs that teach young pupils, dispense simple medical advice, translate between languages and write code. Nearly all have suffered safety hiccups. Nvidia and others in the AI industry need to “really ..."
-    publishedDateTime: 2023-06-09T17:26:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/nvidias-ai-software-tricked-into-leaking-data/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-1-800x534.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "AMD Preps GPU to Challenge Nvidia's Grip on the Generative AI Market"
     excerpt: "The AMD Instinct MI300X supports up to 192GB of HBM3 memory, and it's designed to train large language models that power programs such as ChatGPT."
     publishedDateTime: 2023-06-13T20:57:00Z
@@ -71,6 +55,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05QRwD3jur9IBN1rQ1rDcNw-1.fit_lim.size_1200x630.v1686688086.png"
         width: 1147
         height: 630
+        isCached: true
+  - title: "AMD's new AI chip won't be enough to knock Nvidia off its throne"
+    excerpt: "Nvidia (NVDA) is likely to remain the dominant artificial intelligence chip designer, despite fellow Club holding AMD's best challenge yet."
+    publishedDateTime: 2023-06-14T08:00:00Z
+    webUrl: "https://www.cnbc.com/2023/06/14/amd-new-ai-chip-not-enough-to-knock-nvidia-off-its-throne.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 84
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107255927-1686678111044-gettyimages-1454311939-_8db9584_cfaef0d0-1157-4b88-8cf2-14e3c6b21865.jpeg?v=1686736801&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "AMD CEO Sees $150 Billion Future In AI, New Chip To Take On Nvidia"
     excerpt: "AMD's new GPU, the MI300, is specifically designed for large language models such as GPT-4. The company will rollout MI300 to customers in the third quarter, with full production planned end of year."

@@ -75,6 +75,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Self-Driving Car Runs Over Dog"
+    excerpt: "A Waymo self-driving car killed a dog in San Francisco while its \"autonomous mode\" was turned on last month, an incident that will likely fan the flames of the debate surrounding their use."
+    publishedDateTime: 2023-06-09T20:52:00Z
+    webUrl: "https://futurism.com/the-byte/self-driving-car-runs-over-dog"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/06/self-driving-car-runs-over-dog2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
     excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
     publishedDateTime: 2023-06-13T02:21:00Z
@@ -86,6 +100,20 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 18
+  - title: "Self-driving car couldn’t avoid running over and killing dog in US street, reports say"
+    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said."
+    publishedDateTime: 2023-06-13T08:35:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/13/self-driving-car-couldnt-avoid-running-over-and-killing-dog-in-us-street-reports-say"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 16
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/13/2123763.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "OlEXk9qo3AuxDe5kcqg9N2dQo/8GBA6RmasU7Ts69raaN2zo457m+0GjjdniPr5nJ+RunW+VZ5Cdv5fnUcnbijgXmm/NvhdIaoodSDNsZnnYHJ5E+m+sy/81Qbcp/WUNJp2CwWgN8Rd+KbZGGbPyogay0Gakxj2z+BaVpeBGF8AB+HIAK12Fl8GaERY/vECCM06px6VSVjJ6od4JmLJFFeO2e+O25uC647zyKdIVetEa/+WEFBju47WyaRlr6UT8NwpcUIDfYOTaOU3THVFYHN0ftZKp3yiC01KJeFKrbesPig4HiDFObi1NPFqCaEW/6YBFSRvAwAyz0XZuPnuxybvjhi3MV48j+Q9ixu6YGT/hP3pbNwDc2irSfwNHy8md6ZqnO2TaU9lxYwAViBCPoNQS2JeI31GFLiYayK7imd2aaqeI1jzOCo61wKYq/MAxmJwgv3d8Uu7TNZrDtwaCiHos//tIQBfswiVP3Xle2QGdntmlCP14aYblflQrlx9y5wiMZrK/xX0O2dxkHglqzw==;wmA94xqHMMsPc3ipXKvbqQ=="
 ---

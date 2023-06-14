@@ -75,6 +75,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self-Driving Car Runs Over Dog"
+    excerpt: "A Waymo self-driving car killed a dog in San Francisco while its \"autonomous mode\" was turned on last month, an incident that will likely fan the flames of the debate surrounding their use."
+    publishedDateTime: 2023-06-09T20:52:00Z
+    webUrl: "https://futurism.com/the-byte/self-driving-car-runs-over-dog"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/06/self-driving-car-runs-over-dog2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
     excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
     publishedDateTime: 2023-06-13T02:21:00Z
@@ -86,6 +100,20 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 18
+  - title: "Self-driving car couldn’t avoid running over and killing dog in US street, reports say"
+    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said."
+    publishedDateTime: 2023-06-13T08:35:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/13/self-driving-car-couldnt-avoid-running-over-and-killing-dog-in-us-street-reports-say"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 16
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/13/2123763.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "UEg7cwFya786o8deKAjFH0DTKBlEBd8pSIzlxAsf9nlRlGLJLHTBK3XszZFsFqWi+aZDk6kBdn7FiNRpd3JcA0UDOE7y+yum3JUcMKC+REXAeuA26Nuyv1dmzSTwPzHchzMfriROatf2yMWLKhR5/k3Gq9HPC1eFPqJFX9PlcbGiRiGY+cu1RDt+re9o+GrffhsOuChMq9rcPjC5g/vUY8bzFq+eciBrasSCa7aYjLn0iZmFv/rU16meoLTsekiihLOxicRl+BBimejHmAxI0mBLJuNwunC6RQlhOYD+uXijUkgSQHHiDjTZnlxDwZ7fbe1zUysoIVGqxWqSRyVm5bootnj6cEYoivBttsNcP84=;T6eO0amorLTc6vJ3zrlt8A=="
 ---

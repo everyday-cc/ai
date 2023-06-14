@@ -85,6 +85,34 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Self-Driving Car Runs Over Dog"
+    excerpt: "A Waymo self-driving car killed a dog in San Francisco while its \"autonomous mode\" was turned on last month, an incident that will likely fan the flames of the debate surrounding their use."
+    publishedDateTime: 2023-06-09T20:52:00Z
+    webUrl: "https://futurism.com/the-byte/self-driving-car-runs-over-dog"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/06/self-driving-car-runs-over-dog2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving car couldn’t avoid running over and killing dog in US street, reports say"
+    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said."
+    publishedDateTime: 2023-06-13T08:35:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/13/self-driving-car-couldnt-avoid-running-over-and-killing-dog-in-us-street-reports-say"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 16
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/13/2123763.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "SMxDOHzfJz1cMWhJ+67CQ+L92YzeNe8S6JUrwDxs7z21HTExPj2lkg3XHWmqj+nySMUDvCT/QgtA7Ts8eASgKC2svHjPbAlqYijziX9CJlpl/LZ3HTePZMCIMyX15FjGCid25oSasRclb2jkpKseiAJB3O0uPGMd+bsw5fHgbkZzG3QKVD940U2AEIMUAwd2+nRgwPoc/50U84Hm7KqDl+NU7YZZvaEYcsVKq1aLhMeS2IUtDdikqvYlpo2RphnpneHfRkDso9jxyuKqDyuuBvQsPwRM6GtszEezvQfzRIoT9gekkuPzpO5U2CK3VHBDKcC4vR0woh45Zvfro4khZDRnBy//Q1mUQaw4PzSCvrOMh3ZznNUNOnzBhe2oo534kG8mN265tuxPma2R6YWDITabrCtu8Y0kF7/mCiEkTHPsVytDprJ4zCrINXaTF43I17+SkT9PGYm8ArRyjsHmnRrvFdP/oSW4q0EkybjAkguLOh235sQRiFLSLebRsgZ+BlAMzg5zGizEjXVN9icu1g==;mgyDyYHFuok6+YLDF8NE8g=="
 ---

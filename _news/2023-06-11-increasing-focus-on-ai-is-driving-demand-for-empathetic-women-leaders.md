@@ -167,6 +167,20 @@ related:
         width: 396
         height: 202
         isCached: true
+  - title: "New-age predicaments – Artificial Intelligence and ethics"
+    excerpt: "This article delves into the ethical issues surrounding AI, examines the threat posed by AI, and proposes practical security measures to mitigate this risk."
+    publishedDateTime: 2023-06-14T11:35:00Z
+    webUrl: "https://www.fortuneindia.com/ideas/new-age-predicaments-artificial-intelligence-and-ethics/113049"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 54
+    images:
+      - url: "https://gumlet.assettype.com/fortuneindia/2023-06/f6078a2b-b0f8-417a-8d2e-393fd062b230/LN_blog_cover_pic.jpg?w=700"
+        width: 700
+        height: 700
+        isCached: true
   - title: "The Ethics of Managing People’s Data"
     excerpt: "Over the past few years the European Union has fined companies more than 1,400 times for a total of nearly €3 billion for violations of the General Data Protection Regulation (GDPR). Almost every week stories appear about how AI-driven decisions result in discrimination against women or minority members in job recruitment,"
     publishedDateTime: 2023-06-12T16:00:00Z

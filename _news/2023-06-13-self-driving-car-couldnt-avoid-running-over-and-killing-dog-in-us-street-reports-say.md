@@ -25,56 +25,69 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla driver hits a dog, claim they were on Full Self-Driving Beta"
-    excerpt: "A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times."
-    publishedDateTime: 2023-06-09T17:06:00Z
-    webUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"
+  - title: "Cops yell at stalled self-driving Cruise car to get out of the way during a mass shooting in San Francisco, video shows"
+    excerpt: "A Cruise self-driving taxi disrupted emergency crews at a mass shooting in San Francisco on Friday night, according to witnesses and videos."
+    publishedDateTime: 2023-06-12T14:03:00Z
+    webUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 84
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://i.insider.com/648721831eeec400193dd877?width=1200&format=jpeg"
         width: 1200
-        height: 628
+        height: 600
         isCached: true
-  - title: "Tesla driver hits a dog, claims they were on Full Self-Driving Beta"
-    excerpt: "A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times."
-    publishedDateTime: 2023-06-09T17:33:00Z
-    webUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"
+  - title: "Dog dies after being hit by self-driving car in San Francisco"
+    excerpt: "A dog has died after being hit by a self-driving car last month in San Francisco, according to California's Department of Motor Vehicles."
+    publishedDateTime: 2023-06-12T01:30:00Z
+    webUrl: "https://www.ktvu.com/news/dog-dies-after-being-hit-by-self-driving-car-in-san-francisco"
+    ampWebUrl: "https://www.ktvu.com/news/dog-dies-after-being-hit-by-self-driving-car-in-san-francisco.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/dog-dies-after-being-hit-by-self-driving-car-in-san-francisco.amp"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 64
-  - title: "Tesla Won’t Pilot Full Self-Driving Function in Shanghai, Source Says"
-    excerpt: "US electric carmaker Tesla will not pilot its Full Self-Driving Capability function in Shanghai, a source at Tesla China told Shanghai Securities News. A recent rumor on Chinese social media claimed that Tesla’s FSD would be available in some areas of China,"
-    publishedDateTime: 2023-06-12T07:35:00Z
-    webUrl: "https://www.yicaiglobal.com/news/20230612-10-tesla-wont-pilot-full-self-driving-function-in-shanghai-source-says"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 54
+      name: KTVU
+      domain: ktvu.com
+    quality: 44
     images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/06/25142668994245.jpg"
-        width: 770
-        height: 510
+      - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/06/932/470/GettyImages-1497020112.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
-  - title: "Self-driving car from Google's Waymo company runs over dog"
-    excerpt: "In a rare accident involving a self-driving car, a vehicle from Google's sister company Waymo killed a dog that ran into the road in front of it. The car was driving autonomously here with an employee in the driver's seat,"
-    publishedDateTime: 2023-06-10T16:00:00Z
-    webUrl: "https://www.carsifu.my/news/self-driving-car-from-googles-waymo-company-runs-over-dog"
+  - title: "Self-driving car hits and kills small dog in San Francisco"
+    excerpt: "An initial review indicated that the Waymo’s system correctly identified the dog, which ran from behind a parked vehicle. However, the vehicle was unable to avoid hitting the animal."
+    publishedDateTime: 2023-06-12T10:25:00Z
+    webUrl: "https://thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/"
+    ampWebUrl: "https://thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
     type: article
     provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 39
+      name: The Hill
+      domain: thehill.com
+    quality: 44
     images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/06/2023-06-09-23_40_44-dpa-news-_-Photos-Release-2.17.7-Brave.png"
-        width: 800
-        height: 478
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/AP23077014398441-e1686565582597.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Cruise addresses self-driving vehicle criticism after Mission District shooting"
+    excerpt: "A Cruise vehicle was spotted near the chaos of the emergency response to the Mission District mass shooting on Friday night, and the self-driving vehicle company spoke out about the incident on"
+    publishedDateTime: 2023-06-12T17:27:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/amp/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
+    quality: 40
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/04/6430125ed7ad11.41242738.jpeg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Self-Driving Car Runs Over Dog"
     excerpt: "A Waymo self-driving car killed a dog in San Francisco while its \"autonomous mode\" was turned on last month, an incident that will likely fan the flames of the debate surrounding their use."
@@ -90,6 +103,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
+    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
+    publishedDateTime: 2023-06-13T02:21:00Z
+    webUrl: "https://www.sacbee.com/news/california/article276329166.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article276329166.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article276329166.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 18
 
 secured: "T60Xry7RqR18FJ6dTjIYd4uVX7iglf/TNgto+P6HR6y15xg5On+jMqp9qzWzbdynzg9r1FZDoRzKVn014fvdBfprnlGxZUA4ou4ydu+Giyc8fUwLhLAOfk3SDZz4P8m4JBeAeZhN1+WcFHw+7DgBOSabTf2FLdfAwb09Q+UqutLbVmRiu/laIYeEnmAGrV+b0eQT537GTGNeNG5KTzvY8ONpzrlchqMTcEJbo7Olr6mAuar25eZZw5G6XAoMHpA6Yoc3pXIiC3fEXAet6355z0jkXuwQ6aIvc2KuIVcxvbK1JJ449bL3thaOalj/+iSrotgoNId6cGS3DqU1tVmTqkFPRN5CxAr8u6N6xr6JZ/Y=;IqE7Ku04TXIf6QyxjEIiXg=="
 ---

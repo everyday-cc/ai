@@ -19,34 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "French company Mistral AI raises 105 mln euros shortly after being set up"
-    excerpt: "\"Bravo to the start-up Mistral AI which has raised 105 million euros just a month after its creation: a record!\" wrote Barrot on his Twitter account on Tuesday. Mistral AI was set up by former Meta and Google artificial intelligence researchers, and it is ..."
-    publishedDateTime: 2023-06-13T17:03:00Z
-    webUrl: "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/"
+  - title: "AI Regulation Is Almost Here in Europe"
+    excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
+    publishedDateTime: 2023-06-14T10:10:00Z
+    webUrl: "https://www.wsj.com/articles/ai-regulation-is-almost-here-in-europe-10b32c8f"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MS2EJQ474JPEXC4RWVPXT4BLJ4.jpg"
-        width: 4000
-        height: 2741
+      - url: "https://images.wsj.net/im-799506/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "AI start-up Mistral bags €105m after just one month"
-    excerpt: "Mistral AI, a French start-up founded last month, has already managed to raise €105m in a seed round, showing the current hype surrounding the AI sector. The company was founded by former researchers of Google’s Deepmind and Meta and has ambitious ..."
-    publishedDateTime: 2023-06-14T07:39:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/mistral-ai-funding-lightspeed"
+  - title: "How Europe Is Leading the World in the Push to Regulate Artificial Intelligence"
+    excerpt: "One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights and values."
+    publishedDateTime: 2023-06-14T09:30:00Z
+    webUrl: "https://time.com/6287116/european-union-artificial-intelligence-law/"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
+      name: Time
+      domain: time.com
+    quality: 63
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/06/AdobeStock_424719810.jpeg"
-        width: 800
-        height: 600
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
+  - title: "U.S. Cyber Envoy Warns That European AI Rules Could Stymie Sector"
+    excerpt: "If more nimble regulation were adopted, ‘little Silicon Valleys’ could sprout across the democracies of Europe, says Nathaniel Fick, whose comments come amid rising tensions with China."
+    publishedDateTime: 2023-06-12T18:24:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-cyber-envoy-warns-that-european-ai-rules-could-stymie-sector-a78cca83"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
 
 secured: "XP1aU9SsLOUsDBFp6keGyveUsX8ty5Hrkh7BcyiOTTUxGAF57QZLkq65mbYHOzGWYdlLcRW1ElBxFuU1fA+PIdHc1cFUmeROtW8j3rnaD0NqtH8x4zyVZK3hYW2rfQA0fAP11gb7tUzwLdXGxSIR8j5JJmJygsIg4o60adtygx9QDoIKSxU27fiFkS9lc1/raHMBW8Y9V2Zd0piCR5+Ak7crkmwOOhEJmuqPQLWV8iBTt+9e6IRLc8Z+zs/g6u8iZHSP2O2OpL5ckRfZmYiXXBTHAYQrddXrJvn7BhL27sqnwKEDF8v9gh/6H8AE6RTfBqWuaYTQZt2fzAoJEdF9BFgAf3c82KwYGWNsYSz/P5UmZ/AqqXtUNVoXclKO29GgMksw6Xm7lVyEvYuA+hK0cOW0/lPzaPigMApwvOCPv2n/mScYJEZTYFFP7J2zgMCaI7CeGfQPnnyFiXRW0CHCpVewhqVvkYTrXdXKJZ1Dd2ShtuhzLcUJ1kZH/QTaBCucEiC3dOAJZZZLLDq6c19fUg==;c/2zRyfwfQX11MkyGgfFoQ=="
 ---

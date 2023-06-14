@@ -72,6 +72,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Accenture announces $3bn bet on AI to help build new industry solutions"
+    excerpt: "The new investment is part of Accenture’s continued efforts to build itself as a leader in AI Accenture announces $3bn bet on AI to help build new industry solutions Accenture, AI adoption, AI innovation,"
+    publishedDateTime: 2023-06-14T11:48:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/accenture-announces-3bn-bet-on-ai-to-help-build-new-industry-solutions"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
 
 secured: "qaDh+RvBzi3zzSEDAfJCG87wozRwJMAxPoN4n/iFbsdOUYlKNuSWDrJgSGguoLPNrbwAjbjl+2ptNN6iuoNtYxhJV2FPkDhc+0E4auP/Lo7ugddsFc+qgW5HrnQMqVcLgWtBofNP45bi8yWWhARXR0oFNhMyKEHM1x2meQhh/BOo48qhmzSBhIKGaCl8zsal/qGeI1VMV+SPwPX4OIgAfY9IFN+AOt0qN/LdQF5yDpo6I5ddgLcvCpLKw39o5MjmeohBrfrxX/pRaXEFdj8BslXzzJ7ETBigQAgHAC9qUrJr+zZC79M5AyXXtGBiIjwXkxFeb6vccf/gFCwdXQzT4xhGV1t4G9qQvIfsO0vmG04=;8eEwIVxE5wBzdFNRsThZgg=="
 ---

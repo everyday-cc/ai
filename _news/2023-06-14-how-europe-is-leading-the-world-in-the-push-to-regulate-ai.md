@@ -1,23 +1,29 @@
 ---
 category: news
 title: "How Europe is leading the world in the push to regulate AI"
-excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle."
-publishedDateTime: 2023-06-14T06:15:00Z
-originalUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/"
-webUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/"
-ampWebUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/?amp=1"
+excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle"
+publishedDateTime: 2023-06-14T09:50:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
+webUrl: "https://abcnews.go.com/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
+    isCached: true
 
 related:
   - title: "Sunak Keeps Up Push To Make UK a Leader in AI Regulation"
@@ -48,6 +54,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "EU lawmakers agree to changes in draft artificial intelligence rules"
+    excerpt: "The lawmakers will now have to thrash out details with EU countries before the draft rules become legislation."
+    publishedDateTime: 2023-06-14T10:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/articleshow/100991890.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-364372,msid-100992047/file-photo-european-union-flags-flutter-outside-the-european-commission-headquarters-in-brussels.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "London Tech Week - PM Rishi Sunak promises to regulate AI, but admits UK not up to speed in spreading the benefits to all"
     excerpt: "Sunak on AI. London Tech Week kicked off today with British Prime Minister Rishi Sunak debating AI regulation and ethics, even if the mainstream media headlines were inevitably mo"
     publishedDateTime: 2023-06-12T11:59:00Z
@@ -58,6 +80,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "Ur6PaRVe0CvaNHGM8Iw3x4ykUvkDyUfFUbK+Bo0KaqiI2hiw6WaWmCrokN5JhMrFOpfBjIBR3ebHyzTt7nXgcNMVD7AqUZLzZvQsKwCzP7Qjuv+6Eukilb1Mi9kdagpdpW9JjpKGc67BLUv++xZqJwf8ZaOsRlWuSwm1j69X9rIy45G/dHlTaMW/CZrlxn391E7g5Aki5pDPwxwAZqCuerSSm76NAdam9DAYZdgjMxBedVSx27Sk8Ws+3fthHiz+KZYSwiCVexBvpXDAcKpDN+1p1zE/XLhUOhUokue/RejVokIstp7fQfFtRk/y/16Sjmjv34chxfST/mzvjVxJV13wywCc7X2OF84JQEbNpWKEmCndqZsm3faqaO3bdv+4+oCPSa8aPXKY0sPypxGg+DEqvRrIX8m8t5b2oBV1+7jkalz5p9Nc+vHSMhF0vM3Mj06J3qi9CgI/bK0bYHoTCU+TQUpq/zc/bi1b9xcTfeH9qeYK9AbXIzKtnQbKl7T9QqL3H7u8IFI/DxB0zLw4+Q==;HK8Yn3nViJyS7huTQ7Y0mQ=="
+secured: "1FQMhoxXTn8B2+8bsdLzgo7ohk4IvqAbPK/YtD6jBPorOYWe36RGNfKR1dHIG3JoYTlQOxom1ksLuCqD8jwSi2nBLE5g+KZRjBCk1Z29/vWbT17y2jQm/J+OopuVU1IGuaw523Dog9WVeZvPHOiTL38eEoOgL10tk0AE7M8ds3sSREMpH3TrZpENrfMpiTCsI5WmQZNdp0/W03KftVuccuS8m3MClVqoExT7Fgh29xqWxuS2ePi94eSVl6WlgCsKbb1SaM3NBxeHotV5+dIHFNnVFBsc+kpCVpItqc5kjMmskdpvGxyhpfVqPyPAObFLG+KxZ6UoDbUhDbOobsl5ftSrWpuJ8o8dupt5JzXi5us=;tArereIhNtU4isNlM9tSfg=="
 ---
 

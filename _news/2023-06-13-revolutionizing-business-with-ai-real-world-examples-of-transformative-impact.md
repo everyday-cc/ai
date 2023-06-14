@@ -31,37 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "The Next Threat From Generative AI: Disinformation Campaigns"
-    excerpt: "Generative AI, coupled with deepfakes, could present truly dire consequences for the 2024 presidential election."
-    publishedDateTime: 2023-06-10T00:29:00Z
-    webUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/"
-    ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
+  - title: "The real secret to a successful digital transformation? Human empathy"
+    excerpt: "According to Debbie Vavangas, IBM Consulting VP, one of the main reasons digital transformation efforts fail is that organizations don&#8217;t fully account for the humans involved. They don&#8217;t fully consider the various people working throughout the organization, and how changes affect their daily"
+    publishedDateTime: 2023-06-14T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/the-real-secret-to-a-successful-digital-transformation-human-empathy/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: IBM
+      domain: ibm.com
+    quality: 102
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6483c3a8fa78a1eb97750fc7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/The-real-secret-to-a-successful-digital-transformation-Human-empathy-scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
-  - title: "UN chief calls for coordinated global action on disinformation, hate and artificial intelligence"
-    excerpt: "The United Nations chief says the proliferation of hate and lies on digital platforms and the threat that artificial intelligence can become an uncontrolled “monster” demand coordinated global action"
-    publishedDateTime: 2023-06-12T22:01:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
+  - title: "Intelligent Document Processing market grows as important subset of digital transformation"
+    excerpt: "As the pace of digital transformation accelerates, the Intelligent Document Processing (IDP) market is ramping up. Here's a snapshot of IDP―what it is and why it matters."
+    publishedDateTime: 2023-06-13T15:48:00Z
+    webUrl: "https://www.cio.com/article/482106/intelligent-document-processing-market-grows-as-important-subset-of-digital-transformation.html"
+    ampWebUrl: "https://www.cio.com/article/482106/intelligent-document-processing-market-grows-as-important-subset-of-digital-transformation.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/482106/intelligent-document-processing-market-grows-as-important-subset-of-digital-transformation.html/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
+      name: CIO
+      domain: cio.com
+    quality: 34
     images:
-      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.cio.com/wp-content/uploads/2023/06/iStock-1392324314.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "2wsdxdB14dYVYd88wIQ7BCLDMtmEkG1ZtucWLYvzf0iUkWupbPXBFZ+ckdQCJk7GVSdAiLj/wF6bP4srieS6BgubWxVWwnKDMEAE23M969GYWn4fu2gXzK5560aovJ7od2Az+KtV9PzUwifBofwX/bC9FvQJatXSNYI4y2jVpiIppoKgdq8xjp78iJEG+L9+ja5Ye/STvkdM50DqeX6B0nnMvZS3AxbNZLz37MELX3W0xMCTA6ha45eGPiDko+2Aeo24o8sQdtvER9yjr78olFkH3nwVTwrqQO+TScCziT2oL4F5K6TE2pPBt5ivwG91sEDzrgevxZn93Iwvh1TRhN14cYUMFpDwy5BWlyFcYviT9k8vbIqAvTthTUr54Fzqxe/IhmPCLSSLF0mggyx0VuLxnA1TNjKMJYm7iomBAIdRo7J0+aXziUYeVLfGBeLD03F3L4KC1zRHotF8R8iFIwxgnwdxXNY/9zzbiA+5V3bM44Rmd1jT/DwU4HMfWjR5Mn+ICSUagdrUOsbPaChSYg==;l/qHK8jtiVs2xXNUA4oDpw=="

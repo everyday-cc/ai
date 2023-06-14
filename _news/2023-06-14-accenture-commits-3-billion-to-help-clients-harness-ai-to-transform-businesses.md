@@ -73,6 +73,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
+  - title: "Accenture announces $3bn bet on AI to help build new industry solutions"
+    excerpt: "The new investment is part of Accenture’s continued efforts to build itself as a leader in AI Accenture announces $3bn bet on AI to help build new industry solutions Accenture, AI adoption, AI innovation,"
+    publishedDateTime: 2023-06-14T11:48:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/accenture-announces-3bn-bet-on-ai-to-help-build-new-industry-solutions"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
 
 secured: "9cKBq0uT7Zo48DY6XnNhSBjUoL+vSBxBcfuGgbEBgP+wdio3TDlnzN5rEf5FhtiqYjp4cGqbT6O5JCdrQ3yvfw6SHUUxFmmc6azwhG8rFuwH+lFsgwTxdfrrLCPoEF8iPo0Y91f6wRLh8rXlAceh8bgP1f8upHwSL+CWvF47rhqbvQopKNh4x592HNjBWmbVfO85BoDme27p4xc5y0/MZqsopiGC11AgOBLIu9Jc5zMMqFq0xTYuvMvg5tMzK5HX2Aa37P2/NRo3rssYsOH/6scNJnyMdBXIDVHXuEUvd7MbwqoJetfjZqRR+ko8lO93XV0LBOTTK5zqADMK8Nu0l5nCIM4RzSS+T3wvY1LX1EA=;MM8h80r7J1xLP1hwFNRx6g=="
 ---

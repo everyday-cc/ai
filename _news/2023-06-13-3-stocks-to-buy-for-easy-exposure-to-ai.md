@@ -59,6 +59,15 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 49
+  - title: "3 Stocks These AI-Powered ETFs Are Betting On"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Given how popular artificial intelligence (AI) exchange-traded funds (ETFs)"
+    publishedDateTime: 2023-06-14T09:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-powered-etf-stock-picks-to-buy-1032388370"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "ZdOWv45RvwSNTsKKYxE4Kbnuv7+rFzL2lz9uHAPvF2QpVjwnBeDIQ8LPTazR4QQ1cgucBgmFd5Q9w3cMD5DQ/+PrfY0FdaRB0yHL4l+pji1ZxtFILqElAIyAFatj9O0K7mA2fTjLRXnfCWagqicFJ9HALtL6AO2xkdmLDo5udCY4xuLbeL8vpHjJazeunfaofY/r3QR35tCSPuMKFkyP4/b9W486HaKTC4IAzjygeJN5KEiP9M5pTH9NzEKCEcGHKbcYB4D4PwaSV/Gsec21GnC/287eL6YIVKSZAThPfhiNnBEZBkKKdT9gPadZQfxz2EUkTT16czLQ8nSygNtlT9xLwsWfN2IU3YawfmN4rW1VXbF1n1zZg8im5LyB4LLn/LxYHa7DD5EtGRLSn86EUnzvRyk3LnK3/7GWr+OhuET3LqOYaWzDWwqMKZwyx39mdg0ROpm+cS6n7zRwLtdkVXwf91KqLme8cPpyurm86DLyzMvAjVaSAFywNFY5kqfaNZZABDzO3PAlx9/7HMr9+A==;f9TaiGQ+siWg7XxS/fwMtw=="
 ---

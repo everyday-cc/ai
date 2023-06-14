@@ -16,12 +16,6 @@ topics:
   - AI
   - AI in Sales
 
-images:
-  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/06/gettyimages-637549016-2-2-2-1-1.jpg?w=2000&#038;ssl=1"
-    width: 724
-    height: 483
-    isCached: true
-
-secured: "BxBUe1ZTTedpwAOZCsUZ9AbiQQjiTG1RcWQ1F7nZhrOFLdD+0+9FGkNuYKLQE2DpbEegMSSabYjvwcdIgv0epE35uAhHQFfj4YqX3slHLKb6QhuS50MELfMCBuOO70MDtwmbmQACGvfJekzIn7akJnmnMG/Fhwi/xtSnZt9HFKn90sTI7qcGInTm4QHTA3UoKtRIhjqMhzL2/au+RX09kowz7A3kaDxp/hhv9kKRE80eXx3kxO/XmCtflPdVydiMgJ+CaX9HGERsHMPVkCKHG/WsLTrVx4J4ssXpMaM0HNnBx3k2awWg8zyBqDleLccaIdEQXgxf8Qsj6drHlpSRqt3VPwQNCCSEkTBEjZhPxAI=;LLo/gj8kZXdgFlF0jvm43Q=="
+secured: "g/qghufGNcQYguojWToTtH4qM5ylsamVf60+t9YOM9ws7th7dz+XaQfXpIsLU6awmt8RvHjvrQzyJ24Le9KplUPgKTlyLnLsKWj94N2abQPuXkcGB/QajWJXg4jqrU+VmGptWfQkwD7xubuPhfDK+GDnNDwQMuPlyqaP2Iyd7+zW16CevijL3SgG6wJjenMhyz4nhTt4vZLLZdF82I7XdixpdzgvEMnHKA/PyWny/6Ox7V69B1pBIW3cbuyMnoWCYAq/wbqlrsTtCLmr5ZIcYeQ9VbCp3OH65pD9Pmcl7Bih7jUSZaJ3O/QcF2yuCQ1lKGUhGvr7xunUJPHWh4Ms8Cst6GqpkO/g4tUrnlo2p/Y=;+4dM8n4dOAygJ6HU2LDdYQ=="
 ---
 
