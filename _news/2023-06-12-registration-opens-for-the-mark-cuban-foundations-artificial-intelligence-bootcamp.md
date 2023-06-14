@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Creative organizations and entrepreneurs get real with artificial intelligence"
-    excerpt: "Entities across the region discover a variety of ways to incorporate advanced technology into the daily workflow, with an eye toward increased efficiency."
-    publishedDateTime: 2023-06-09T09:00:00Z
-    webUrl: "https://www.businessobserverfl.com/news/2023/jun/09/creative-organizations-entrepreneurs-artificial-intelligence/"
-    type: article
-    provider:
-      name: Business Observer
-      domain: businessobserverfl.com
-    quality: 37
-    images:
-      - url: "https://media.yourobserver.com/img/photos/2023/06/08/Ilustration_FINAL_r850x580.jpg?50e13880ccc54d977011a5484f156b28f4611466"
-        width: 850
-        height: 580
-        isCached: true
   - title: "Snorkel AI Introduces New Foundation Model Data Platform"
     excerpt: "Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic"
     publishedDateTime: 2023-06-12T16:41:00Z

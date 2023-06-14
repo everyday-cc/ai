@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/11/falling-funds-and
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/11/falling-funds-and-the-rise-of-ai-are-top-of-the-menu-at-london-tech-talks"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "The Morning Briefing: AI opportunities for advisers and MMI London back in October"
-    excerpt: "Sometimes, AI is presented as a threat. We are told ChatGPT — and potential competitors Google Bard and Meta’s (Facebook’s ... is the key driver of “good value” according to new research from MetLife UK. The research measured consumers attitudes ..."
-    publishedDateTime: 2023-06-09T07:45:00Z
-    webUrl: "https://www.moneymarketing.co.uk/news/the-morning-briefing-ai-opportunities-for-advisers-and-mmi-london-back-in-october/"
-    type: article
-    provider:
-      name: Money Marketing
-      domain: moneymarketing.co.uk
-    quality: 33
-    images:
-      - url: "https://cdn.moneymarketing.co.uk/content/uploads/2021/05/06164022/MM-MorningBriefing-Banner-Graphic-02.png"
-        width: 4172
-        height: 1446
-        isCached: true
 
 secured: "MizAq8OS/GYg+DKjh2tdZAN5uKjjhR9cd2zOMYE9Oue0ErsxrPC8GLz1ruSmZ7NMK0VNt6sHuFsZWRcJbROBFmsncIEmVCHZyKp54A4zPmiIz2bRcxoWRrryDncV/MMnAvu+Zg1Lc1dGudCZFsadLlKFnuiGHXBKwiNw2zHFngjckgxAwYlPish7GFV+RW1NwWeisx/Bq9sDgGR/CxsO/++wncQ11ewXbUGkwZhJ2ODH0xGcxPustCcg2RKNtqfNkIhT1ilbs6m7Vs5pglLaDluufBqixuyF9AAY3avKx4FcAIVvZvEMc2R2G0KwzXWOl7WCPr/kn94lv6tB6VAcZZl3XIiTzL/r81BnD5SeWE7qG8xyt8cGqUK/KclUFCypuNlPlRmYDGh1pUyI9bbXjgKV9Z7M2w0sKMwCx5Hr/UcHSnU45QNx0loDo80a5i6OL83jyMiIwR9rFTCe/kFA9Kns/TuWPfI2aYjCgBp5UnqT0MwTFqFT62U+NbEkxUAYSWLoNGtFbT6vSsLcnfIjMw==;9APiSqqEFLpyNQ64AZQCcw=="
 ---

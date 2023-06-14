@@ -38,20 +38,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "AI-generated content creation hub secures $4.2 million in seed funding"
-    excerpt: "A recent push to utilize artificial intelligence for content creation has hit an inflection point for a St. Petersburg startup. One big example: It recently secured $4.2 million in an investment seed round."
-    publishedDateTime: 2023-06-09T09:00:00Z
-    webUrl: "https://www.businessobserverfl.com/news/2023/jun/09/ai-generated-content-creation-hub-seed-funding/"
-    type: article
-    provider:
-      name: Business Observer
-      domain: businessobserverfl.com
-    quality: 37
-    images:
-      - url: "https://media.yourobserver.com/img/photos/2023/06/08/_MG_3321_r850x580.png?50e13880ccc54d977011a5484f156b28f4611466"
-        width: 850
-        height: 580
-        isCached: true
   - title: "Energy Generation Forecasting DeepTech Startup Solarad.ai Raises Undisclosed Funding from India Quotient"
     excerpt: "Solarad.ai, a pioneer in energy forecasting for solar, Secures Undisclosed Amount of Funding in Seed Round to Accelerate Growth from India Quotient."
     publishedDateTime: 2023-06-13T08:13:00Z
@@ -67,6 +53,6 @@ related:
         height: 640
         isCached: true
 
-secured: "ip6eoW+F5SgkQ5V8tFEf4UbLxusk5SEDHHNoryd8z+AROJ1dAs5ldsWdQUmCNDhgmUt7I634tv/vOaeslCaJWHWtfIAshd9Nf8DwY3CEyV9rPh5RPwI/sveipVBi8qdJsX4AmHv991b1vWCjlHTQKEVAw2aC4Z/hpL+SPk7qTts+EGJ83R9NPEinwMSdKEfGTUbCkKxdb8bsKegVAjP6VPHYW7QknKOK4ToZwQt+mSC8MQYzdDdNBrkH0JJsAdMu3TsnyICnXWJMjIpU/jfC7ppwMQJ8QWmuk8C1T8q0ZQsQGFVuzqK9V8nlKzXqpON5/ipc1yuaQdBsiH6Os90HnQMFa7q7MjifYglpR7c6KXs=;yf4RyZsusQXkyV4c80hcMA=="
+secured: "m7hUzXKdiLxEgYHocm77+qpjOxApfQF7yZH3ZIOi8C+1P5MuEhW/8r7x4COu0S4R2OP6z0YZGnbPTdIPhmjyC45xYYgmgRzTJ5O6LWJaROIkf0WXq1CNVBwGzFasMjJ9Dzbrgz1lG4muYquVdRuHKRgtxvWqmZv5WrzvydFjfA9VOx1ekpU7bjO6OyGWrNCMm0htSoEb87pDqPrG1mFgPvwvACk3H8sCD3WfaE0AdkZIssTNtQ+BQK1MOj53rgkSPFPj8w0fz+ul6sqEwpXCbld0d6xFuPY9Rrm3jHLvPPoI6jS+VecliK4d2seoYmz7jWbr7Mk6eSwHWiAwC5/uhWeF6egnnDCfrNvU4y2D6gfhIc2ZxkzhXhR+5IkDq7MwMEAIzm+ZVPj0phKSvJlsElC7r3ET9kgLWUDhMNHQTtoTo4/j+PcOdIGfqNcD8+fTTyJy7sYb1YiTrS++CXq8x68HigswJrN074zsXUaWQ8kGWumZ06sbjqhnvN2EuQ+2YGSU5xeG598QTdaWiOzHKA==;a3s3YUKTR0yTUN20sIUPZg=="
 ---
 

@@ -3,12 +3,10 @@ category: news
 title: "Paul McCartney reveals AI was used to create the 'last Beatles record'"
 excerpt: "McCartney revealed that what he called \"the last Beatles record\" is on its way, adding that it was created with the help of AI. \"It was a demo that John had that we worked on,\" he"
 publishedDateTime: 2023-06-13T23:08:00Z
-originalUrl: "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com"
-webUrl: "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com"
-ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489"
-cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489"
+originalUrl: "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=mc.news"
+webUrl: "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=mc.news"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
@@ -286,6 +284,6 @@ related:
       domain: bgr.com
     quality: 5
 
-secured: "9zIsW9A7We3012wtZk8WdfpM/7JGD/cHLoJDi35Tco4XlSYb3lTFsL31VtN3Sl5umK4qmSRsi29XRl6HaQKGwbaV1zDO3tcKf+7s12mNdXrt+BG+ZzgnU2rCJcQWjrPBZ4E9ZUKXn7AOhOHYrh3XOu/gC6PT8/PxwddkJDdRmkFV9UXAXL8GQYzO5e/63imlwZsLsFDHm6dX2ZYctIGJlGVMiGJkoQ93dA6HSG5ZRXaEFaEcnTZ6fk4Y8ZMXjEw0VEuiITW9OumIWlTPNgcSq9ftw6WXO3y63GV77PYeD2Xe5JQUrgOQmtkGQgIqR55SiiZfAbaaM0pvNvzlZaDawzzj5f1AcJ4lro6o72K4OR4=;+XPBedQyzMDvWOjpZh0pag=="
+secured: "u+z11rqazBQ3wzs2WxJUhfLC5Kl9nIOVidllmqtqtTrsobztO1Imv+VUs5aA7wk6iUXbs9BAgn8AV5WnSl58VF+xsnnSfSn55HhqJeDcolRJ9u6hzqHJeNnRQh6KsVN+IV48Xw+cObelugd6mOF/iKMGfxEa2obzYV3934pOUTAjgoueXFY0qoTz9G0DATAa72rgPBSxMK0p+q418JrHpZz7WMnN9ruIZd9nNBfWMfc/GgrpBJYnOli3PpKmEWE813cJ4MGcK5he4B3e755ntvl8A99xVY83pKKAT/BGDAmEjQmc4CyltHfUP/G9Zi1MKV195vFRwP0iR64Fe4aRaJIJlLcL6IOTgAsVSJGdwB8=;zltHh1zWMVBZSTP5+1qoDQ=="
 ---
 

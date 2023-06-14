@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/onschain-the-world
 webUrl: "https://markets.businessinsider.com/news/stocks/onschain-the-world-s-first-blockchain-created-by-chat-gpt4-and-managed-by-artificial-intelligence-1032384745"
 type: article
 quality: 68
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI x Blockchain: The Next Level"
+    excerpt: "Our conversation threaded many themes, from how blockchain can accelerate AI development to the complexities of working with blockchain data and the promise of large"
+    publishedDateTime: 2023-06-13T23:53:00Z
+    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/"
+    ampWebUrl: "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6488feb978ddc1dfbf75c365/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Blockchain-Based, AI Compute Protocol Gensyn Closes $43M Series A Funding Round Led by a16z"
     excerpt: "The capital infusion comes as interest in AI surges. Gensyn said it would use the money to accelerate the start of the protocol and expand its workforce."
     publishedDateTime: 2023-06-11T23:01:00Z

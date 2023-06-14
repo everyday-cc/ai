@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "3 Strong-Buy-Rated AI Stocks to Watch"
+    excerpt: "Nvidia is likely to remain the heavyweight champion in the AI race, though, and it’s a worthy newcomer to the $1 trillion market cap club. As the company launches new chips tailored for AI, one has to think that firms will be quick to submit their bulk ..."
+    publishedDateTime: 2023-06-14T01:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-strong-buy-rated-ai-stocks-to-watch-1032387474"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/06/image-283-1024x345.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 345
+        isCached: true
   - title: "15 Best Artificial Intelligence (AI) Stocks To Buy in 2023"
     excerpt: "Since the launch of the AI-powered chatbot, Open AI's ChatGPT, artificial intelligence, and machine learning have been hot topics. This trend will"
     publishedDateTime: 2023-06-10T01:34:00Z
@@ -36,6 +50,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Up 35% to 169%, Is It Time to Buy These 3 AI Stocks?"
+    excerpt: "What's more, leadership is bullish that as the AI wave continues to roll across the business landscape, Microsoft will be able to profit from it. The company already has more than 2,500 Azure OpenAI Service customers, and 36,000 organizations utilize AI ..."
+    publishedDateTime: 2023-06-11T08:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/06/11/up-35-to-169-is-it-time-to-buy-these-3-ai-stocks/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 49
   - title: "Best AI stocks in 2023 for performance"
     excerpt: "MicroStrategy will also integrate the company’s advanced analytics capabilities into Azure OpenAI Service, which will help businesses maximize the value and utility of their data. MicroStrategy has experienced two powerful tailwinds in 2023: AI and ..."
     publishedDateTime: 2023-06-09T13:35:00Z

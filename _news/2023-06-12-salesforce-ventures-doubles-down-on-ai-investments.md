@@ -24,38 +24,125 @@ images:
     isCached: true
 
 related:
-  - title: "Accenture announces jaw-dropping $3 billion investment in AI"
-    excerpt: "Accenture said it will double the size of its Data & AI practice from 40,000 at present to 80,000 through a combination of hiring, training"
-    publishedDateTime: 2023-06-13T15:33:00Z
-    webUrl: "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/"
+  - title: "AI Everywhere: Salesforce Unveils Its Vision Of The AI-First Enterprise"
+    excerpt: "All of this is part of a massive vision Salesforce is unveiling that deeply integrates generative AI into almost everything a company does, from sales to service to"
+    publishedDateTime: 2023-06-13T23:01:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6488f2ccaa9dbc12a1b12f50/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 691
+        isCached: true
+  - title: "Salesforce Aims to Plug ‘AI Trust Gap’ With New Tech Tools"
+    excerpt: "The software giant says its new technology will help clients use generative AI tools such as ChatGPT safely by protecting proprietary data, among other things."
+    publishedDateTime: 2023-06-13T20:23:00Z
+    webUrl: "https://www.wsj.com/articles/salesforce-aims-to-plug-ai-trust-gap-with-new-tech-tools-19e11750"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-799829/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Salesforce announces AI Cloud to empower enterprises with trusted generative AI"
+    excerpt: "The new AI Cloud platform from Salesforce offers real-time generative AI capabilities easily incorporated into business operations."
+    publishedDateTime: 2023-06-12T14:52:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-announces-ai-cloud-to-empower-enterprises-with-trusted-generative-ai/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 63
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_stacks_of_dollar_bills_and_golden_coins_rise_into_the_s_cc2ae09e-3f57-4126-8542-b93587a347b3.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_marc_benioff_stands_below_a_puffy_glowing_blue_cloud_ra_0acbf8bf-d49f-4e8b-8bb0-7e63ea41c82e.png?w=1200&strip=all"
         width: 1200
         height: 672
         isCached: true
-  - title: "Accenture to Invest $3 Billion in AI to Accelerate Clients' Reinvention"
-    excerpt: "Accenture (NYSE: ACN) today announced a $3 billion investment over three years in its Data & AI practice to help clients across all industries rapidly and responsibly advance and use AI to achieve greater growth,"
-    publishedDateTime: 2023-06-13T11:01:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831180.htm"
+  - title: "In 2023, AI is everywhere. Unless you listen to Apple."
+    excerpt: "Apple unveiled plenty of new hardware at WWCD 2023 but had very little to say on this year's hottest trend — generative AI."
+    publishedDateTime: 2023-06-10T13:59:00Z
+    webUrl: "https://www.androidauthority.com/apple-no-ai-wwdc-3332765/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Accenture to Invest $3B in AI to Accelerate Clients’ Reinvention"
-    excerpt: "Accenture today announced a $3 billion investment over three years in its Data & AI practice to help clients across all"
-    publishedDateTime: 2023-06-13T16:17:00Z
-    webUrl: "https://www.datanami.com/this-just-in/accenture-to-invest-3b-in-ai-to-accelerate-clients-reinvention/"
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 47
+  - title: "Salesforce pledges to invest $500M in generative AI startups"
+    excerpt: "Salesforce has announced that it has doubled the size of its Generative AI Fund for startups from $250 million to $500 million."
+    publishedDateTime: 2023-06-12T13:31:00Z
+    webUrl: "https://techcrunch.com/2023/06/12/salesforce-pledges-to-invest-500m-in-generative-ai-startups/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "Salesforce launches AI Cloud with raft of generative AI tools"
+    excerpt: "Salesforce's ChatGPT-style tools are designed to provide customers with large language models integrated with the company's products."
+    publishedDateTime: 2023-06-12T18:31:00Z
+    webUrl: "https://www.techrepublic.com/article/salesforce-launches-ai-cloud-generative-ai-tools/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 47
+  - title: "Salesforce AI Cloud Seeks To Combat ‘Trust Gap,’ Hallucinations"
+    excerpt: "Salesforce is also working on AI prompts to ground generated outputs and provide generated content without hallucinations, the term for when AI produces incorrect results despite the training data. Two AI Cloud features go into GA this month. One is Einstein GPT Trust Layer, which promises to prevent LLMs from retaining sensitive customer data."
+    publishedDateTime: 2023-06-13T13:55:00Z
+    webUrl: "https://www.crn.com/news/cloud/salesforce-ai-cloud-seeks-to-combat-trust-gap-hallucinations"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0282-183f20e618a6-0da55896c868-1000/salesforce-einstein-1.jpeg"
+        width: 611
+        height: 459
+        isCached: true
+  - title: "Salesforce Connections - how Baptist Health personalizes its patient engagement and what AI may bring to the story"
+    excerpt: "How to personalize and scale patient engagement in the hugely competitive US healthcare sector is a major challenge for all providers. New AI tech may be one way to achieve this, reckons Baptist Health,"
+    publishedDateTime: 2023-06-09T11:08:00Z
+    webUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring"
+    ampWebUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 35
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-06/medicine-g81bb96e1e_640.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Salesforce touts AI strategy, doubles investment in start-ups"
+    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI start-ups as the company banks on the emerging technology to help resuscitate sales growth."
+    publishedDateTime: 2023-06-12T19:19:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jun/12/salesforce-touts-ai-strategy-doubles-investment-in/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 17
+  - title: "Salesforce introduces AI Cloud, announces $500Mn generative AI startup fund"
+    excerpt: "Salesforce introduces AI Cloud, integrating Einstein, Data Cloud, Tableau, Flow, and MuleSoft to boost productivity with generative AI capabilities."
+    publishedDateTime: 2023-06-12T18:18:00Z
+    webUrl: "https://thetechportal.com/2023/06/12/salesforce-introduces-ai-cloud-announces-500mn-generative-ai-startup-fund/"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 15
 
 secured: "B2zLWEERaXwm0oGk4n7BwRsDO/fr0CXd8hz5KOrIihORTEMa/+W2UUxnKjBPLEj0b3BFpl6V46LjQWALOsl38K8WIaFD3dVs8m5HgQYrpPCdpshamOefHtnwvs7HkTQk79tvXeES5tCpQu6KlnWRycxaIAZMpnqdnX+svSEQaOeFTyjJADcRD4wWG4y+GziAZsq4+v/ysbkYl1KPGHm+dpya/r2TaZl+vwop0/tMMaFdlFCJ0ZJiK7bnu7HfL7gRJWYF+Me9gEq7VKHFMpCzLOPMJKhPFNzY4nyaesnWX8hGZd4Ji/JD94Rc5P0kwLCMXKLc0a5yB671HaAyp8upGiiLAv9uQ+TuRW0rN6agPcPFrFqtLdClLlQAl4TyPAQ9PLexFc44rVj5KlPTS6NmfNWKW+aK4iXbQ9+FNBbq5jxlkEj7XnoiZGUGh7r2t6c2zvKGQ90IdoyQNYdhOSHW4bxaOanDDr/W2CGItx3mdx3j6ndLgx7HoX+uWqKv+5QoJp7eQ8wyM8n3iU5hKe9ANA==;WePMbcADIEc57yQYdShtqg=="
 ---

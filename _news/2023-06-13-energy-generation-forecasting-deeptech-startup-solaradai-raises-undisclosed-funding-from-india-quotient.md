@@ -38,20 +38,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "AI-generated content creation hub secures $4.2 million in seed funding"
-    excerpt: "A recent push to utilize artificial intelligence for content creation has hit an inflection point for a St. Petersburg startup. One big example: It recently secured $4.2 million in an investment seed round."
-    publishedDateTime: 2023-06-09T09:00:00Z
-    webUrl: "https://www.businessobserverfl.com/news/2023/jun/09/ai-generated-content-creation-hub-seed-funding/"
-    type: article
-    provider:
-      name: Business Observer
-      domain: businessobserverfl.com
-    quality: 37
-    images:
-      - url: "https://media.yourobserver.com/img/photos/2023/06/08/_MG_3321_r850x580.png?50e13880ccc54d977011a5484f156b28f4611466"
-        width: 850
-        height: 580
-        isCached: true
   - title: "AI video creation startup Synthesia reels in $90M from investors"
     excerpt: "The investment values Synthesia at $1 billion. London-based Synthesia offers a platform that can generate realistic, AI-powered avatars for use in videos. The platform offers about 140 prebuilt avatars that can read out a user-supplied script in more than 120 languages."
     publishedDateTime: 2023-06-13T22:37:00Z

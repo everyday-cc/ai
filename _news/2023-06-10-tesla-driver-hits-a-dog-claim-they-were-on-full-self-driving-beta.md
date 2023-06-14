@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-se
 webUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012409491.jpg?quality=75&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Self-Driving Car Runs Over Dog"
+    excerpt: "A Waymo self-driving car killed a dog in San Francisco while its \"autonomous mode\" was turned on last month, an incident that will likely fan the flames of the debate surrounding their use."
+    publishedDateTime: 2023-06-09T20:52:00Z
+    webUrl: "https://futurism.com/the-byte/self-driving-car-runs-over-dog"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
+    images:
+      - url: "https://wp-assets.futurism.com/2023/06/self-driving-car-runs-over-dog2.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Self-driving car couldn’t avoid running over and killing dog in US street, reports say"
     excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said."

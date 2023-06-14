@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/tampabay/inno/stories/news/2023/06/09/
 webUrl: "https://www.bizjournals.com/tampabay/inno/stories/news/2023/06/09/generative-ai-unicorn-startups.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "In 2023, AI is everywhere. Unless you listen to Apple."
-    excerpt: "Apple unveiled plenty of new hardware at WWCD 2023 but had very little to say on this year's hottest trend — generative AI."
-    publishedDateTime: 2023-06-10T13:59:00Z
-    webUrl: "https://www.androidauthority.com/apple-no-ai-wwdc-3332765/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 47
   - title: "Unicorns are hard to come by, unless you're an AI startup"
     excerpt: "The number of tech upstarts valued at $1 billion has fallen from its peak in 2021, but there's new traction the AI space in particular."
     publishedDateTime: 2023-06-09T19:47:00Z

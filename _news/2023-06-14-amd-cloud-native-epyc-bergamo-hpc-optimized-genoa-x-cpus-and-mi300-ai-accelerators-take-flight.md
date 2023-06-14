@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-
 ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/"
 type: article
-quality: 77
+quality: 79
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6488e5d20f339468b475c365/0x0.jpg?format=jpg&width=1200"
@@ -66,6 +67,6 @@ related:
       domain: insidehpc.com
     quality: 4
 
-secured: "kFgbgfSUh4kG8aB6Sw40dIGeHHdbs/VWriM5171rwfGVYH+KyDe9n7fklNJuFgvjstm0gg52KCGHg91i2NnC5eFgd0C0L70mHrSO8AfQViTy1t0THKpTnHnqDGrurI/rJcRUr3nVxxHCgudgbS1FQfK3MmfQ60opVVP9puV7kJoRiaa3xaIcrjQtbMFDco39RtS8ocr36mxzQX3HL483HWZXT/h1jU7cdRAXSnkNTmZEuPH0IF/1pfbaT7ZpOr/ooLtyJdWMjZuBwx+lGSmpdjQmYjFM9tM2Q+dhyRYeOB75Zcs87KhCLIcFsNZ+pjIGYkH2yCCCfYhcPFq8+YpeOPLM2QuFs6/nabOvTW6KsdU=;dGgzTBVZyBGo3i8aaSCFSw=="
+secured: "gAfNmWU5ZhMayYLchsJ9mW1Smaa3xMJ4sDD8wFleX6oC6hlJjpcb21c6Lxlc1srjtle2Cx04IyzEo+dtMeDgOVoLlmaWnkKpxD/uKI/Nr2lPQl0+utgXfI9uMxONVBQIpx3yLU7JeAipfwtqCUyQSKQfEgmH4nhMoIfIZeoxBL21akdqZfkKgsWJzNC2VYCQO66SIFj/vzmA3xtg34/7GbtSKDo52BhJITfEaBncemYrid+4KDEt8S8JSfZxk+OuLQiZWZMkGlFcti2F9541sh/uXM2PcwpR1WxQOQcADNjuCcaXVav81JSIRvdRSLNHF/UDZFdNWHvB6ZvuXkl9KawgK2AQnEOv1Jwn87+P2aE0Rcfhi1sD8iZTK2wJ4otHJ8a58n5JNktmduhfz/Riaul1YvK3FHeUcpr7F36zoi7xc/mh2KkcWBcI49QkjKOP17aIT4gbB1rHJc2eznhFdRQZfxOg3TfZb70ctFvbZAY6NOfJzFInOQHvlCIWiuvY4ksbVL6yfjY/TaKmv0rtyQ==;dqys85wzIi+h99vKAS51jQ=="
 ---
 

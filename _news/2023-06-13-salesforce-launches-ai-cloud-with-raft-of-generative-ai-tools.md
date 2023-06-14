@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "AI Everywhere: Salesforce Unveils Its Vision Of The AI-First Enterprise"
+    excerpt: "All of this is part of a massive vision Salesforce is unveiling that deeply integrates generative AI into almost everything a company does, from sales to service to"
+    publishedDateTime: 2023-06-13T23:01:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6488f2ccaa9dbc12a1b12f50/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 691
+        isCached: true
   - title: "Salesforce Aims to Plug ‘AI Trust Gap’ With New Tech Tools"
     excerpt: "The software giant says its new technology will help clients use generative AI tools such as ChatGPT safely by protecting proprietary data, among other things."
     publishedDateTime: 2023-06-13T20:23:00Z
@@ -50,6 +66,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "In 2023, AI is everywhere. Unless you listen to Apple."
+    excerpt: "Apple unveiled plenty of new hardware at WWCD 2023 but had very little to say on this year's hottest trend — generative AI."
+    publishedDateTime: 2023-06-10T13:59:00Z
+    webUrl: "https://www.androidauthority.com/apple-no-ai-wwdc-3332765/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 47
   - title: "Salesforce pledges to invest $500M in generative AI startups"
     excerpt: "Salesforce has announced that it has doubled the size of its Generative AI Fund for startups from $250 million to $500 million."
     publishedDateTime: 2023-06-12T13:31:00Z
@@ -72,6 +97,20 @@ related:
       - url: "https://www.crn.com/resources/0282-183f20e618a6-0da55896c868-1000/salesforce-einstein-1.jpeg"
         width: 611
         height: 459
+        isCached: true
+  - title: "Salesforce Ventures Doubles Down On AI Investments"
+    excerpt: "Three months after launching it, Salesforce Ventures announced it will double the size of its Generative AI Fund to $500 million."
+    publishedDateTime: 2023-06-12T16:52:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/salesforce-ventures-generative-ai/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "Salesforce Connections - how Baptist Health personalizes its patient engagement and what AI may bring to the story"
     excerpt: "How to personalize and scale patient engagement in the hugely competitive US healthcare sector is a major challenge for all providers. New AI tech may be one way to achieve this, reckons Baptist Health,"

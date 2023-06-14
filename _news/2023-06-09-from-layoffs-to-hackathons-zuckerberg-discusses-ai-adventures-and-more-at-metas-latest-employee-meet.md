@@ -26,22 +26,6 @@ images:
     height: 377
     isCached: true
 
-related:
-  - title: "Meta huddle: Zuckerberg unveils AI tools and snubs Apple headset"
-    excerpt: "Employees got a sneak peek into Meta’s generative AI plans, upcoming Twitter rival, and Zuckerberg’s thoughts on the Apple Vision Pro."
-    publishedDateTime: 2023-06-09T07:58:00Z
-    webUrl: "https://www.siliconrepublic.com/business/meta-generative-ai-twitter-competitor-mark-zuckerberg-apple-vision-pro"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/06/a-4.jpg"
-        width: 800
-        height: 600
-        isCached: true
-
 secured: "m7HvfVjsu8j+b5OTuIwlXMMkNfUoyU46OY2i0Ynhe+Sw77lYSDahuAGgoNZS7ZEixHTM7ijGknMbO4FvGU9OF+LRlKn07X+nxgiEkhdav2uIpJn49ZQu4RTzKPUGvtXiDXRh5qsLZYNQRbkh4iCk2qCGUTl5To1JWNcyfM/5wPJ10eh6dWGbnzU6Y/Mf1hhgJk8kvffdThocbX0BrBkgnTzCfqWlkuzxURuFq7mdl9SBlpOQZQ6SxzBl4NWumGQi9QV7vcz1bH2c5VWZY8RUNsn4RcpKZEoQwkNkgZGF4fhZPqFs41DzKRGKyQ3fJBO1ZO8oqAo4fiF86hP7MnyAd9ytfX0mPabf7fol3I1Bm4w=;sanntvYpv67hoVdPmOBalg=="
 ---
 

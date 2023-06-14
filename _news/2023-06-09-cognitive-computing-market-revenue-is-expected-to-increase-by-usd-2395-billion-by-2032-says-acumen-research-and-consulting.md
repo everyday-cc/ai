@@ -6,9 +6,6 @@ publishedDateTime: 2023-06-09T00:48:00Z
 originalUrl: "https://menafn.com/1106415115/Cognitive-Computing-Market-Revenue-Is-Expected-To-Increase-By-USD-2395-Billion-By-2032-Says-Acumen-Research-And-Consulting"
 webUrl: "https://menafn.com/1106415115/Cognitive-Computing-Market-Revenue-Is-Expected-To-Increase-By-USD-2395-Billion-By-2032-Says-Acumen-Research-And-Consulting"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: Mena FN
@@ -19,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?643498"
-    width: 437
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?873825"
+    width: 375
     height: 250
     isCached: true
 
-secured: "QO6nIk6cCsPvfaOAW7agQeu+jq/RlWflx8eX4wXq+KzCAE2cbYYveOeutohuSImwk9qCzFLXaBvUH+xCB+iIIuWLhoV/AcOtwaOOstxdytyAVDX4vkfPwIUfW0mOmvr0GsgEkAIn7hb1icvQkimMciFI8gIdG2U19daPbbXkEjgbfbHFcgpaiOwdTP8P+UpYyMC3oQSRmh6HU/KZXnx4lRaEyT5KzypK2FEogQfIuJGQkvM0oX5PDWOfmCnXbun20ZWtTaN0mWQJmENjqvwJ00Y2UhmiWgDJRu1ysZmyovl53sD9arkS1w6vSF7YCFueX0y49YDPDMzGmSR9u5eKKz4fBQE5PTXy+ZnfoR+ZO/w=;Wij7P+XA+BZpUkcJBzqwKQ=="
+secured: "eRrEitc4bbgzMtxiYKW5iO3/dHacDu/4bEB083tKMb1pz//YKc8gD1qI3W3AGEPUT6fxDEjDivzxuMaNF0dEDUR9LH1lYonRnqCxyiSuj+PX7nMbo0oRBvbU10KKZnx08HcYToS2t8MXXRvIqI5frcpiksuXvNe//uZUl8jFBaA6Yxbko71HiPRrrtybGMQck7dP9pQD+X+n0kVc1JHQVfqllw5in5p98Nx9tEkPJ9Ay+7ndIn90OVEjQyIJTmmeV0zXuqStA1Co8OKPkd2S8wtfwrYD07DkIPqiQeZoY1MZMsn0bDs74L4Uld1mWI8pPwLhyR0fB8smimWvfxAR40i7OSpuoEFlYUQ9XYYKC4Q=;1BKn7sjUvH1GK0kJgNm0ng=="
 ---
 

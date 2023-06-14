@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/473/Boy_reading.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Creative organizations and entrepreneurs get real with artificial intelligence"
-    excerpt: "Entities across the region discover a variety of ways to incorporate advanced technology into the daily workflow, with an eye toward increased efficiency."
-    publishedDateTime: 2023-06-09T09:00:00Z
-    webUrl: "https://www.businessobserverfl.com/news/2023/jun/09/creative-organizations-entrepreneurs-artificial-intelligence/"
-    type: article
-    provider:
-      name: Business Observer
-      domain: businessobserverfl.com
-    quality: 37
-    images:
-      - url: "https://media.yourobserver.com/img/photos/2023/06/08/Ilustration_FINAL_r850x580.jpg?50e13880ccc54d977011a5484f156b28f4611466"
-        width: 850
-        height: 580
         isCached: true
   - title: "Registration opens for the Mark Cuban Foundation’s Artificial Intelligence Bootcamp"
     excerpt: "Offered at no cost to low-income and diverse community high school students, the Mark Cuban Foundation's Artificial Intelligence Bootcamp will be held for the first time in San Antonio. The San Antonio Bootcamp,"

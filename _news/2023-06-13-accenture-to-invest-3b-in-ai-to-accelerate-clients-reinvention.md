@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Salesforce Ventures Doubles Down On AI Investments"
-    excerpt: "Three months after launching it, Salesforce Ventures announced it will double the size of its Generative AI Fund to $500 million."
-    publishedDateTime: 2023-06-12T16:52:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/salesforce-ventures-generative-ai/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Accenture to Invest $3 Billion in AI to Accelerate Clients' Reinvention"
     excerpt: "Accenture (NYSE: ACN) today announced a $3 billion investment over three years in its Data & AI practice to help clients across all industries rapidly and responsibly advance and use AI to achieve greater growth,"
     publishedDateTime: 2023-06-13T11:01:00Z

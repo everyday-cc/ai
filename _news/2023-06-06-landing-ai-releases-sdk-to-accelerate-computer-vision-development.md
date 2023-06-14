@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Landing AI Releases SDK to Accelerate Computer Vision Development"
-excerpt: "PALO ALTO, Calif., June 6, 2023 /PRNewswire/ -- Landing AI, the leading computer vision cloud platform, released updates to the Landing AI GitHub repository to help AI practitioners, whether ..."
-publishedDateTime: 2023-06-06T13:42:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32737778/landing-ai-releases-sdk-to-accelerate-computer-vision-development"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/n32737778/landing-ai-releases-sdk-to-accelerate-computer-vision-development"
-ampWebUrl: "https://www.benzinga.com/amp/content/32737778"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32737778"
+excerpt: "Comprehensive Selection of AI Use Cases: Landing AI's repositories cover a range of computer vision use cases, including object dete"
+publishedDateTime: 2023-06-06T13:45:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/06/9827444.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/06/9827444.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://mma.prnewswire.com/media/2093665/Landing_AI_SDK.jpg"
+    width: 400
+    height: 210
     isCached: true
 
-secured: "2EdVM3PR6EE3VN2aMAhlrVSmIBc1EAUJGG7hU68Jn1iFEQ8JcUuGb74b5czdxf7PvHGvzGKhcK6dobVS/jgtql4CO6sumSwU3HAl7mZI+qvxONhVsDoU/vQdpmXag7iCrxkuSC1yKh1IPueyMzjdz4oa4RITVeAWW9NHxUrkI8fst7nWhrqvI3042+zRw2qmEHoh8jQnGkysBIhvIufpnTJzNxE4UC8acEuvfXD1X/wEZUh1QAJ45BYbOiFzbgCGggxOh7+tox/VKgpbv9dLePzzeOjzzJ71X/0jQmlRD6pd7ieHywfbmo+JMcinLHColirconL0Cq+ONMM9GGI2+UzzXbeLGTI/itgbachY/cY=;SJ0z8bjt0a9mHhSDbeDAbg=="
+secured: "Nsst5VO7+F07MBCThatuZ/mdOYPfJxyxF8OBVjpWGe3U3moc6/r7Vc1MULg08Wfykgl42lnWPAzfFJjTq8WzWnQ7qssNPlP6KPQ16o2JR+7zMoMmTDlOLLeqQ5VNm8FyjKItyLIKTzYFlhSjGlISpj9Tdt/y1h0PeXWodbMQXS343/Z/EiSJQOEncsjtmruNV3RzYVl6mASu9uf3mbrbGQ3vjN3njZkiJ85ZmPFKOLFqMzR+9L7tSrIRZES7SHWvVFThxvhkI0nJeyw0Uluf/CL+x77Uv430p2LcSaYYweCYr/yV/kssaqD+qLaZEmczDeyy2zYIOuUyOoYgMEzTfcIFXeIdjZV1aSKRW85MHjs=;PpU83iC6UkmwQvQGqSakUw=="
 ---
 

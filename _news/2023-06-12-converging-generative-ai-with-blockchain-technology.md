@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "AI x Blockchain: The Next Level"
+    excerpt: "Our conversation threaded many themes, from how blockchain can accelerate AI development to the complexities of working with blockchain data and the promise of large"
+    publishedDateTime: 2023-06-13T23:53:00Z
+    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/"
+    ampWebUrl: "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6488feb978ddc1dfbf75c365/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ONSCHAIN: The World’s First Blockchain Created by Chat-GPT4 and Managed by Artificial Intelligence"
     excerpt: "ONSCHAIN is the world's first blockchain created and managed by AI, specifically OpenAI's Chat-GPT4, combining the power of artificial intelligence and blockchain technology to create a decentralized, secure, and transparent system that promises ..."
     publishedDateTime: 2023-06-13T07:13:00Z
