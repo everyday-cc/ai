@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Firm study predicts big spends on generative AI"
-    excerpt: "A new study polling software buyers at businesses worldwide finds strong intention to increase budget, with special interest in AI. It also looks at how vendors can engage buyers."
-    publishedDateTime: 2023-06-09T22:22:00Z
-    webUrl: "https://www.techrepublic.com/article/big-spends-generative-ai-saas-g2/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 71
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr6923-Hero.G2.jpeg"
-        width: 969
-        height: 610
-        isCached: true
   - title: "Rackspace takes a FAIR approach to generative AI"
     excerpt: "Rackspace offers new services to help organizations better understand, build and deploy generative AI workloads in public and private clouds."
     publishedDateTime: 2023-06-13T20:59:00Z
@@ -128,6 +114,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Generative AI Will Change The Future Of Technology Organizations"
+    excerpt: "Now, with the acceleration wrought by generative AI and other emerging technologies tech leaders must build long-term strategies to address the growing demands."
+    publishedDateTime: 2023-06-14T13:17:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/06/14/generative-ai-will-change-the-future-of-technology-organizations/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI-generated images are everywhere. Here's how to spot them"
     excerpt: "It's easy to be fooled by AI-generated images and other content. We talk about how to identify them, how media literacy can help, plus how to use these tools responsibly."
     publishedDateTime: 2023-06-13T04:10:00Z
@@ -155,34 +150,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/farmer-gpt.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "AI Music Generators Make You Feel Like a Maestro. Here’s How They Work"
-    excerpt: "Instead of yanking the rug away from producers, these tools can actually streamline the music production workflow. We put together a guide to help you get your feet wet."
-    publishedDateTime: 2023-06-09T20:19:00Z
-    webUrl: "https://www.popularmechanics.com/technology/audio/a44109081/ai-music-generators-explained/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 37
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod/images/mcrisara-robot-music-producer-sitting-in-a-desk-chair-at-a-desk-cb859b1a-ee11-442f-b197-9467bda35584-647f916bcd882.png?crop=1xw:0.8921568627450981xh;center,top&resize=1200:*"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Generative AI Is Likely to Change the CLM Market. But How, Exactly?"
-    excerpt: "Generative AI tools' coding capabilities may lead to further proliferation of CLM startups. But some argue that, with a dearth of funding, many could become fodder for a significant consolidation wave in the market."
-    publishedDateTime: 2023-06-09T21:33:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/06/09/generative-ai-is-likely-to-change-the-clm-market-but-how-exactly/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/Cybersecurity_4-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "Salesforce doubles down on AI and unleashes the power of generative AI"
     excerpt: "On AI Day, Salesforce unveils AI Cloud, GPT for Customer 360, and doubles Generative AI Fund to US$500M for responsible AI development."
@@ -239,6 +206,15 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 17
+  - title: "BDO CANADA WORKING WITH TOP-TIER ENTERPRISE CLIENTS TO LEAD THE GENERATIVE AI INNOVATION FRONTIER"
+    excerpt: "CNW/ - Today BDO Canada announced a significant step forward in their collaboration with Microsoft through the utilization of Microsoft Azure OpenAI Servic"
+    publishedDateTime: 2023-06-14T11:41:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/14/9832308.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "GqcaE5d9iT2tiRbAPYghaHfg1gn8mg2QICR5JMTEeGCX1Y7w6pOZ7olEIhnPErLLSKok57/kLmJshUC/jvs+JLf81q0IsDU8MlDpzLDsU4tgLwH6Rdiq6CHfe0/SxR8xeLhaiVaLE+Hh3xOICXpsJnW9FjL/Bh+B50FmBko0DgJbZB5eTwhFTSTi/RYTI5YjNcm3dmx6EPGffpxeKRJDq8cI5fjC10cM7vtV+LubI3nUnCWThynVLlqNQWJa0vAIjlpos6KObX3551cn4SlPP02SW9uSgTMf558t1ZNmyZEVTgc2QY4NDwaB4sVSHc7utvW1LFgU8y1NN9Rr2oEMZhNcdUbSX2+nzrn5WACBptI=;qhPqkksc5wMoTvl/uiOBvQ=="
 ---

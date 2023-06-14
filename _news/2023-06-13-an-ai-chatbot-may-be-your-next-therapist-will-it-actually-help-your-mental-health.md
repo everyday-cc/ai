@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Bank Customers Aren't Happy With AI Chatbots. Here's Why"
-    excerpt: "Banks are implementing AI chatbots in their customer relations operations, but the Consumer Financial Protection Bureau says some bots are causing frustrations."
-    publishedDateTime: 2023-06-10T08:15:00Z
-    webUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/"
+  - title: "AI Chatbots Could Help Provide Therapy, but Caution Is Needed"
+    excerpt: "Therapy apps are incorporating AI programs such as ChatGPT. But such programs could provide unvetted or harmful feedback if they’re not well regulated"
+    publishedDateTime: 2023-06-14T15:14:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 74
     images:
-      - url: "https://www.cnet.com/a/img/resize/2dc3500f203ced9cff4738727c8a636b25abb1a6/hub/2022/12/10/f740691c-a2e7-4119-9d71-bd37ced7afbb/chatgpt-chatbot-art.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
+      - url: "https://static.scientificamerican.com/sciam/cache/file/1A754ECE-07C0-407C-81F2761EEE57345F.jpg"
+        width: 790
+        height: 497
         isCached: true
   - title: "Editorial: Federal law shouldn’t shield AI chatbots from liability"
     excerpt: "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,” 350 AI scientists and other notable figures cautioned in an open letter from the Center for AI Safety,"
@@ -48,20 +50,6 @@ related:
       - url: "https://www.marinij.com/wp-content/uploads/2023/06/sam.jpg?w=1024&h=681"
         width: 1024
         height: 681
-        isCached: true
-  - title: "What does a chatbot know about eating disorders? Users of a help line are about to find out"
-    excerpt: "Many mental health organizations and companies are struggling to provide services and care in response to a sharp escalation in demand, and some are turning to chatbots and AI, even though clinicians"
-    publishedDateTime: 2023-06-13T13:51:00Z
-    webUrl: "https://www.minnpost.com/other-nonprofit-media/2023/06/what-does-a-chatbot-know-about-eating-disorders-users-of-a-help-line-are-about-to-find-out/"
-    type: article
-    provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 14
-    images:
-      - url: "https://www.minnpost.com/wp-content/uploads/2023/06/ArtificialIntelligenceIllo740.png"
-        width: 740
-        height: 502
         isCached: true
 
 secured: "HEYXuxo0JrBisEXWiUweK8uvfPQJWw4izcAaEBn/xzCdhUDvddePnfoI3FmAm40eDI20Wkgc28yd6RppCB92jEp7hVXhB0n0+EUextdGRSjCiECbZ1WXywjOtwxmp8cpONW4rtw0B9Bie/bW4tTnd6TgkbTUJW8M3rejGPr7dTxxKM/CK+bNYgsmuvhXOA2VV2KZ6JQNP1SuuvwCLoRJi0Ov22HfbHmCcVUTS2nHWJ8Swxo5v7EKdqjc7xpHGsxdiLoCcTQcQqcdQJ+2hTNjuFe5otx0k6n94sJDcC1xzBO28ywc9y4/WqS3CQrfV3qB59bdBkqTJgf8T3UvNuhf9oU+HMMF61ncIX3AFecQp1k=;cB6lqJc6Z1jgdl+2GkQzGw=="

@@ -1,85 +1,118 @@
 ---
 category: news
 title: "How Europe is leading the world in the push to regulate AI"
-excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle"
-publishedDateTime: 2023-06-14T09:50:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
-webUrl: "https://abcnews.go.com/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
+excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle."
+publishedDateTime: 2023-06-14T06:15:00Z
+originalUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/"
+webUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
-    isCached: true
-
 related:
-  - title: "Sunak Keeps Up Push To Make UK a Leader in AI Regulation"
-    excerpt: "UK Prime Minister Rishi Sunak will on Monday keep up his push to give Britain a leading role in global regulation of artificial intelligence, while warning industry leaders the nation must act quickly to retain its position as one of the world’s tech capitals."
-    publishedDateTime: 2023-06-11T21:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation"
+  - title: "European lawmakers sign off on world's first set of rules for artificial intelligence"
+    excerpt: "European lawmakers have signed off on the first official set of comprehensive rules for AI. Here is an official look at the EU's Artificial Intelligence Act."
+    publishedDateTime: 2023-06-14T15:20:00Z
+    webUrl: "https://www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence"
+    ampWebUrl: "https://www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence.amp"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: Fox News
+      domain: foxnews.com
+    quality: 80
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/577eba2f-d2ca-43d3-a404-f0ed39fe314d/6c0f48f4-c758-4bba-adda-cbfe95bd919f/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI Regulation Is Almost Here in Europe"
+    excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
+    publishedDateTime: 2023-06-14T10:10:00Z
+    webUrl: "https://www.wsj.com/articles/ai-regulation-is-almost-here-in-europe-10b32c8f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 67
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isMt.CfJNIqk/v1/1200x802.jpg"
-        width: 1200
-        height: 802
+      - url: "https://images.wsj.net/im-799506/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "UK must seize opportunities of AI to remain a tech capital, Sunak says"
-    excerpt: "Britain must act quickly to remain a tech capital, Prime Minister Rishi Sunak will tell tech leaders on Monday, urging them to grasp the opportunities and challenges of artificial intelligence."
-    publishedDateTime: 2023-06-11T21:08:00Z
-    webUrl: "https://www.reuters.com/technology/uk-must-seize-opportunities-ai-remain-tech-capital-pm-sunak-2023-06-11/"
+  - title: "AI Regulation Is Here. Almost."
+    excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
+    publishedDateTime: 2023-06-14T13:37:00Z
+    webUrl: "https://www.wsj.com/articles/ai-regulation-is-almost-here-in-europe-10b32c8f?mod=tech_lead_pos3"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 67
     images:
-      - url: "https://www.reuters.com/resizer/WR5RFCRgJeDrP_zCkBinYSAftiQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QERF6JUD6NKWPJZEHUDU5WUM64.jpg"
-        width: 1200
-        height: 628
+      - url: "https://images.wsj.net/im-799506/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "EU lawmakers agree to changes in draft artificial intelligence rules"
-    excerpt: "The lawmakers will now have to thrash out details with EU countries before the draft rules become legislation."
-    publishedDateTime: 2023-06-14T10:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/articleshow/100991890.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
+  - title: "How Europe Is Leading the World in the Push to Regulate Artificial Intelligence"
+    excerpt: "One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights and values."
+    publishedDateTime: 2023-06-14T09:30:00Z
+    webUrl: "https://time.com/6287116/european-union-artificial-intelligence-law/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: Time
+      domain: time.com
+    quality: 63
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-364372,msid-100992047/file-photo-european-union-flags-flutter-outside-the-european-commission-headquarters-in-brussels.jpg"
-        width: 600
-        height: 450
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
-  - title: "London Tech Week - PM Rishi Sunak promises to regulate AI, but admits UK not up to speed in spreading the benefits to all"
-    excerpt: "Sunak on AI. London Tech Week kicked off today with British Prime Minister Rishi Sunak debating AI regulation and ethics, even if the mainstream media headlines were inevitably mo"
-    publishedDateTime: 2023-06-12T11:59:00Z
-    webUrl: "https://diginomica.com/london-tech-week-pm-rishi-sunak-promises-regulate-ai-admits-uk-not-speed-spreading-benefits-all"
+  - title: "U.S. Cyber Envoy Warns That European AI Rules Could Stymie Sector"
+    excerpt: "If more nimble regulation were adopted, ‘little Silicon Valleys’ could sprout across the democracies of Europe, says Nathaniel Fick, whose comments come amid rising tensions with China."
+    publishedDateTime: 2023-06-12T18:24:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-cyber-envoy-warns-that-european-ai-rules-could-stymie-sector-a78cca83"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "EU lawmakers pass landmark artificial intelligence regulation"
+    excerpt: "The European Union's AI Act is the first comprehensive set of regulations for the artificial intelligence industry."
+    publishedDateTime: 2023-06-14T11:44:00Z
+    webUrl: "https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 47
+  - title: "Four-week-old AI start-up raises record €105mn in European push"
+    excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105mn in Europe’s largest-ever seed round."
+    publishedDateTime: 2023-06-13T16:00:00Z
+    webUrl: "https://www.ft.com/content/cf939ea4-d96c-4908-896a-48a74381f251"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
+  - title: "French start-up Mistral AI to compete with Silicon Valley firms, raises 105 million euros in Europe's largest seed funding"
+    excerpt: "Mistral AI, formed by former Google and Meta AI researchers is planning to launch Large Language Model to compete with ChatGPT next year"
+    publishedDateTime: 2023-06-14T13:31:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/current-affairs/french-start-up-mistral-ai-to-compete-with-silicon-valley-firms-raises-105-million-euros-in-europes-largest-seed-funding-10797461.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 0
 
-secured: "1FQMhoxXTn8B2+8bsdLzgo7ohk4IvqAbPK/YtD6jBPorOYWe36RGNfKR1dHIG3JoYTlQOxom1ksLuCqD8jwSi2nBLE5g+KZRjBCk1Z29/vWbT17y2jQm/J+OopuVU1IGuaw523Dog9WVeZvPHOiTL38eEoOgL10tk0AE7M8ds3sSREMpH3TrZpENrfMpiTCsI5WmQZNdp0/W03KftVuccuS8m3MClVqoExT7Fgh29xqWxuS2ePi94eSVl6WlgCsKbb1SaM3NBxeHotV5+dIHFNnVFBsc+kpCVpItqc5kjMmskdpvGxyhpfVqPyPAObFLG+KxZ6UoDbUhDbOobsl5ftSrWpuJ8o8dupt5JzXi5us=;tArereIhNtU4isNlM9tSfg=="
+secured: "XjoGppXiwVkn8oTdrtkirBtqdN/C+DcxQ3bfrAnjwxEEQVrA/dUgBR1phb70YmQNRGHcVa75f/+wkzBWf5szqNpx/OW6U21pgVhivsQGYzjtaq+0tNRx+2LTl9yb7IIYXMd0nfRTSSHULQEeIPzBCEpyKdpg+xlKp0Av7UNSGm/86orYjYkVZSA2MbOqDVptiJnnDYZWniuPrf7dmeW4q9F2+apr9+CUbXgxw+sSz/cA0kxBUd1/jkLSpOfsm9q67RP5OvIcyk4SD3aBS21mOzOL3VkakSYuC+71VkzEFH/L77B/Lq1XuPt5GPjgBQ8EQ2eVvvSaoREk6ejeWKJK1tw2TfVp0R6YWdJdVvnhHQBS1DU1ykyizrdwtwUfytuk/AjOskCTdA4UTepFCuP+auv0HZmjpa+sYG+7Kz5OLcB1yuoTlQTbyImZmNI3moxDN2NwbX9h2aRGcbvRVXnPBkeOtSNbdx2Zd/1q43qit+OLnt9JTqPx90vaw0fHGEsvoebsxzJkHmctrZYQFGw+pA==;qldiFjpWItHbM+xRZZfRWg=="
 ---
 

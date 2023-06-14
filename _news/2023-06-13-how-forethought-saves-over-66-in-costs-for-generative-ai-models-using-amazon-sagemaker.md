@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-forethought-save
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/"
 type: article
 quality: 96
-heat: -1
-published: false
+heat: 126
+published: true
 
 provider:
   name: AWS
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Host ML models on Amazon SageMaker using Triton: ONNX Models"
-    excerpt: "ONNX (Open Neural Network Exchange) is an open-source standard for representing deep learning models widely supported by many providers. ONNX provides tools for optimizing and quantizing models to reduce the memory and compute needed to run machine learning (ML) models. One of the biggest benefits of"
-    publishedDateTime: 2023-06-09T19:48:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 103
   - title: "Deploy Falcon-40B with large model inference DLCs on Amazon SageMaker"
     excerpt: "Last week, Technology Innovation Institute (TII) launched TII Falcon LLM, an open-source foundational large language model (LLM). Trained on 1 trillion tokens with Amazon SageMaker, Falcon boasts top-notch performance (#1 on the Hugging Face leaderboard at time of writing) while being comparatively lightweight"
     publishedDateTime: 2023-06-13T16:59:56Z

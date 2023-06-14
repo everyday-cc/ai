@@ -58,21 +58,14 @@ related:
         height: 587
         isCached: true
   - title: "AMD unveils MI300X, steps up play into AI chip segment"
-    excerpt: "More than 15,000 companies uses its software.This new technology partnership between Hugging Face and AMD is very important for the open-source AI community, establishing a new hardware platform for training and inference workloads that will support the most popular architectures and frameworks,"
-    publishedDateTime: 2023-06-14T10:54:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2487904-amd-unveils-mi300x-steps-up-play-into-ai-chip-segment"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2487904-amd-unveils-mi300x-steps-up-play-into-ai-chip-segment?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2487904-amd-unveils-mi300x-steps-up-play-into-ai-chip-segment?amp"
+    excerpt: "Chipmaker AMD has unveiled MI300X, one of its most-advanced GPUs (graphics processing units) for artificial intelligence, which would be available from the second half of this year."
+    publishedDateTime: 2023-06-14T13:51:00Z
+    webUrl: "https://www.zeebiz.com/technology/news-amd-amd-mi300x-nvidia-nlp-meta-ai-artificial-intelligence-linux-foundation-amd-ai-devices-mi300x-240002"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 74
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_46_5151186.jpg?width=1280"
-        width: 1280
-        height: 853
-        isCached: true
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 34
   - title: "AMD's Instinct MI300X GPU targets generative AI workloads"
     excerpt: "Company claims it is the \"world's most advanced accelerator\" for gen AI, but offers few details At its data center and AI event in San Francisco, AMD pitched its AMD Instinct MI300X GPU as built for generative AI workloads."
     publishedDateTime: 2023-06-13T18:27:00Z

@@ -16,6 +16,12 @@ topics:
   - AI
   - AI in Sales
 
-secured: "g/qghufGNcQYguojWToTtH4qM5ylsamVf60+t9YOM9ws7th7dz+XaQfXpIsLU6awmt8RvHjvrQzyJ24Le9KplUPgKTlyLnLsKWj94N2abQPuXkcGB/QajWJXg4jqrU+VmGptWfQkwD7xubuPhfDK+GDnNDwQMuPlyqaP2Iyd7+zW16CevijL3SgG6wJjenMhyz4nhTt4vZLLZdF82I7XdixpdzgvEMnHKA/PyWny/6Ox7V69B1pBIW3cbuyMnoWCYAq/wbqlrsTtCLmr5ZIcYeQ9VbCp3OH65pD9Pmcl7Bih7jUSZaJ3O/QcF2yuCQ1lKGUhGvr7xunUJPHWh4Ms8Cst6GqpkO/g4tUrnlo2p/Y=;+4dM8n4dOAygJ6HU2LDdYQ=="
+images:
+  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/06/Fathers-day-1.jpg?w=2000&#038;ssl=1"
+    width: 640
+    height: 356
+    isCached: true
+
+secured: "yHYY0VGEEXDGLTa36kgkbtmC+JUbS8QYYFlZQuxRlEdaTtPaILmwlAp1LVASKWMHf5q/bJaj6m2BiYCwPiSB3+YigJ7dE1UwoaRIlH8DdRFY1RpxYgjI8bxyxo8ZQs6xQR/SCjGcRp6C6aixFxntme0Oef12y+OaD9tq93+y873aamuB1Fnr4sdbv4VhodDQWNA5bnsKj46YgnUknwA1Vvb8pg4OLmfdg2hxa+jJfG8qjT8Sxhm31Tj5qtF9Se4EIlE+uQbjVSAjq6wpMUxfQbXo9JB2Km0Sz8GazXBZbSgPUqWklldJg6BgsJBHS7uJ7p/7fDKHRD6GyTjK2zQ6IuhAFGJfqse4P6tkLeU1RZE=;fZrRHICo8U48Ms7SUqilHg=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 1147
         height: 630
         isCached: true
+  - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
+    excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
+    publishedDateTime: 2023-06-14T14:38:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069679"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069679"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069679"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 74
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_13e81c67d6ca5dea0c1ccc147feb6487_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "AMD CEO Sees $150 Billion Future In AI, New Chip To Take On Nvidia"
     excerpt: "AMD's new GPU, the MI300, is specifically designed for large language models such as GPT-4. The company will rollout MI300 to customers in the third quarter, with full production planned end of year."
     publishedDateTime: 2023-06-13T23:09:00Z
@@ -193,6 +209,6 @@ related:
       domain: emirates247.com
     quality: 17
 
-secured: "o6Tbqu3JEjoTNnNqgoigz6Tt5pNIie0CH0op9LIw/lf/Q4gGSTgY+GlZoj8c4rEL8faLrBfeUC/yZMBcZ1Xcs0abkF8ttzypHT7IsZmLEaLznn5NuXbWYTHzjmTKvOXaFpJ2eYfGwTpoBompHpyxIYdKeve04AyxBIIS/wYecounSZwKMLT7qPUvvm0V/0UGloH/g0umhU1c9Zn4HG6bVuYdHeNZeXxYkX7XQ2iUmfJlD7b92o0fUZDFOy/Z2px6xReb8qiY3vyXBxKOHw4L1Das7yRP/ve2DmmwC61dI9TD5HTFFXNYJGIoG4hkgxefebYquhN67FK4Mox8QxsBpft4m17oGbyyEbgDbuNwqhg=;AU7ABNOPeNp2gMKSIFraTQ=="
+secured: "XFROyIYhNba9LLThcF/NR1IL+khcNgDYOCivKxKrgVnn/azA7niOYzdP6u1bDsfflbZ8Ge11rWKd6Px76/PlP2/6yNGrkGkRwI6q1X1cxZCLWE0T+Yg10GJ0vtU0akQCGrVoV1iJ26V6OGWLldEGdvZqsaML0sOysEeFGGU+K3wUgrOVNvMnWqBZgqZ1FmoAdoCUW5Ume5bVMjV/bWVdxJIPByA+PX89aEPk9K/qfEB4XHFkOfBIduAHDBnBa+2EvYo5hs2ftS407VDzpVdw6FR2tl7GYgYy2q0smGvt0wDCaeawWwkc+v5PjrgT8b0ms6W+CkjNNfNoc72JA/9YgPJW+48P5xinM43TDQfggIRy7XEJL96bCQu4EvCpYax2I6XN5WpluqjR5znya3PVLizgTLw0HV/g9vBGnZ4tl6ViyQzr7F69puWRjKj6T9YF/Et1PyEgFRpL0T9X8cj556PyR3XQIFMi8Php1iKewL7coFIyDOEU3uGwM2UhEDImOW3N3cuxX/quCnaV6SGzWQ==;03b5ptpUXCY2rpAGn2GPgA=="
 ---
 

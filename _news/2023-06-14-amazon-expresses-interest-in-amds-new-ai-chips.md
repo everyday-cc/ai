@@ -3,10 +3,10 @@ category: news
 title: "Amazon expresses interest in AMD's new AI chips"
 excerpt: "To break Nvidia's dominance, AMD needs a big-ticket customer for its new AI chips. Amazon could benefit from the flexibility offered by AMD."
 publishedDateTime: 2023-06-14T10:40:00Z
-originalUrl: "https://interestingengineering.com/culture/amazon-buying-amd-new-ai-chips"
-webUrl: "https://interestingengineering.com/culture/amazon-buying-amd-new-ai-chips"
+originalUrl: "https://interestingengineering.com/innovation/amazon-buying-amd-new-ai-chips"
+webUrl: "https://interestingengineering.com/innovation/amazon-buying-amd-new-ai-chips"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/14/image/jpeg/ui0iE2hiDNiKIO9eBmYzpLui3XWibuHPfKhzxzXh.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Amazon's cloud unit is considering AMD's new AI chips"
@@ -110,6 +104,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
+  - title: "AMD unveils latest chips at Data Center and AI Technology Premiere"
+    excerpt: "AMD introduced two new additions to the acclaimed 4th Gen EPYC CPU portfolio, presenting the industry with processors tailored to meet the demands of"
+    publishedDateTime: 2023-06-14T13:00:00Z
+    webUrl: "https://www.techzine.eu/news/applications/107472/amd-unveils-latest-chips-at-data-center-and-ai-technology-premiere/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/IMG_20180831_151701-1.jpg"
+        width: 3413
+        height: 2560
+        isCached: true
   - title: "Full AMD announcement: New chips and AI tech"
     excerpt: "From cloud and enterprise data centres to 5G networks to AI, automotive, healthcare, PC's and so much more, AMD technology is truly everywhere and we're touching the lives of billions of people every day. Today, we're here to talk about our newest epic ..."
     publishedDateTime: 2023-06-13T23:48:00Z
@@ -157,6 +165,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "yT5bTpTfq5OwbTP2fl7U+iY1NebeVHabePp4EIhFuJmPRF4ITBAPr/pHAUnHAKDSAxrP+tt8nvUqiQC8Se/wB//bd/TmHDe5/MXxzvg94URR4j4sReY3rCA0X0uNv6xiAck/JQ1E+6cZWYr66DwxXHvhk1E/UBw3CJKhRkiiJBAEFw8yFMphQ814idSzlokrnuUxXmmw0Ud7Al2+1+8YjkLIqTyNV6W/ExfERoMcaV/SvC+lejEXU/anKqz13I/iusUOnRzSUORNHFtEWk2cIzKsxJn0fOfVeqYSoRY65aCsHKloAyBqv2zRG9zi47S/s9325Ym6htxUh37k4lYbLMoEfX9x0LgQ8TXtztQLA48=;AZ275NUEJqoyBDpdPc8p9g=="
+secured: "PFlo0vtDly+TJblda9uuoAGg+F3FmrBPdfgXyoNF1jF/uwLiflUQhcnm0BLnemqgs/g05zdRtRPDfbG781BpCPdMPUi+We8aTphvGGVBsLPUbPe//6Mt3z07opLeSjSOHcyBqnSaHqZ1TTUYIhmjK66DoLIRAQZzJdyL1IDZoqYkA4UPjqb1ceAq+tPwMDCSKx6OhsfB9moRMMEIponNgNdbAjGcCs51HOPcknmbTdogX+OvAiOUyaLTMIdbjKB68fApnSOfG25r8uk3wYcPkrUjowApkmXAJdE2TrhxJbw30HQ0TLZG257kKAu4x/mMhduqtMoVNQ+fruGI5l+5FGHBCKTFfcq8rto3kHYAjv/4SrliBmtylYD7qX4tZRmkHyCc1yPEDa87gzmyVNUTe+s/jB1oiU2B2AKVyS54QFkeLs7JMQWpY7EMAZVkqj+ZcEI2qDVqz/xa6rQ/HFyJgFAdB0AdK3HTOUDKciYAB65xr7mH18A9pYgDqzu7n4uNqvQHDmkxmuPQpqZZZEsk8g==;Cg+lTa2ZUrAPUVKrvl4CLQ=="
 ---
 

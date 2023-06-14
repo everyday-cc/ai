@@ -46,6 +46,15 @@ related:
         width: 1300
         height: 733
         isCached: true
+  - title: "Generative AI Ethics: Concerns and Solutions"
+    excerpt: "Generative AI ethics is a growing concern as this AI technology gains rapid adoption. Plus: tips for creating an AI ethics policy for your company. Generative AI is one of the most recent artificial intelligence developments, where AI models are trained to ..."
+    publishedDateTime: 2023-06-13T21:36:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-ethics/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 64
 
 secured: "kk0/RUJ0zly/fHBbgPxTOE5K40q8flSpIyrUOBfUfA0x+Aerzcj+qITOxNO32E+emdEoM2t7qyBk2Bz68S40/cpBjwg3QabA+nKzFrlsaZukm/lsjJVToQYue1gb3f31CZgnp3U8X/aq0ngFMQq6C8rLdKLz1vnBLsrbeW0vBa17p74ZSazdBxyWoNAs+YVL7EHajs/YH5K1UV6q0zIQqB5fyEQGpViguGcLmisZo0Psn7lxNk32I7SYED3Qi5OAlSDIOAp53oIhqdciPp7nx7cx1OxSbdX9ZeyyaY8H7c6Nc7lO1cj+JAX4tFycIqwsixOumt3tXquZTbxdieVyfQKpXpHAnrVc+qRXuy56k9o=;g8SLNODHL/XL/HUx/gkjxg=="
 ---

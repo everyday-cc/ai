@@ -86,20 +86,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Amazon expresses interest in AMD's new AI chips"
-    excerpt: "To break Nvidia's dominance, AMD needs a big-ticket customer for its new AI chips. Amazon could benefit from the flexibility offered by AMD."
-    publishedDateTime: 2023-06-14T10:40:00Z
-    webUrl: "https://interestingengineering.com/culture/amazon-buying-amd-new-ai-chips"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/14/image/jpeg/ui0iE2hiDNiKIO9eBmYzpLui3XWibuHPfKhzxzXh.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AMD to ramp up AI chip production this year"
     excerpt: "and a key performance measure for how well the chip will handle the large AI systems behind services similar to ChatGPT. \"There's no question that AI will be the key driver of silicon consumption for the foreseeable future,\" Su said. Su said customers will ..."
     publishedDateTime: 2023-06-14T05:39:00Z
@@ -111,6 +97,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
+  - title: "AMD unveils latest chips at Data Center and AI Technology Premiere"
+    excerpt: "AMD introduced two new additions to the acclaimed 4th Gen EPYC CPU portfolio, presenting the industry with processors tailored to meet the demands of"
+    publishedDateTime: 2023-06-14T13:00:00Z
+    webUrl: "https://www.techzine.eu/news/applications/107472/amd-unveils-latest-chips-at-data-center-and-ai-technology-premiere/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/IMG_20180831_151701-1.jpg"
+        width: 3413
+        height: 2560
+        isCached: true
   - title: "Full AMD announcement: New chips and AI tech"
     excerpt: "From cloud and enterprise data centres to 5G networks to AI, automotive, healthcare, PC's and so much more, AMD technology is truly everywhere and we're touching the lives of billions of people every day. Today, we're here to talk about our newest epic ..."
     publishedDateTime: 2023-06-13T23:48:00Z
@@ -134,6 +134,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 35
+  - title: "Amazon expresses interest in AMD's new AI chips"
+    excerpt: "To break Nvidia's dominance, AMD needs a big-ticket customer for its new AI chips. Amazon could benefit from the flexibility offered by AMD."
+    publishedDateTime: 2023-06-14T10:40:00Z
+    webUrl: "https://interestingengineering.com/innovation/amazon-buying-amd-new-ai-chips"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
   - title: "AMD says Facebook parent Meta is using its cloud chip as it rolls out AI strategy update"
     excerpt: "The update came as AMD planned to reveal new details about an AI ‘superchip’ that analysts believe will be a strong challenger to Nvidia Corp"
     publishedDateTime: 2023-06-13T14:31:00Z

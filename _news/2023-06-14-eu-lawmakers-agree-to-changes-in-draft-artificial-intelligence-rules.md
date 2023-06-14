@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How Europe is leading the world in the push to regulate AI"
-    excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle"
-    publishedDateTime: 2023-06-14T09:50:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "London Tech Week - PM Rishi Sunak promises to regulate AI, but admits UK not up to speed in spreading the benefits to all"
     excerpt: "Sunak on AI. London Tech Week kicked off today with British Prime Minister Rishi Sunak debating AI regulation and ethics, even if the mainstream media headlines were inevitably mo"
     publishedDateTime: 2023-06-12T11:59:00Z
@@ -81,6 +65,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "xZUny9TV2cqrtItDALGrC36tJeQMD+EfYrjhOkFrhzPE2GcnoEwdUtXiSfKbsSRq9Hr9cBCeHJNmqwx7FIPruIveL9gb2ohHzuaK2S8ie30eSJNJ1c64+WuT7ISSZBbIJLrM3+jf6Xm0BNhZe5/NKsvp24YuFCWIXvuxmTKzlSS+MDgQF0cAgn6b1Tg4j2IOOuwvMuUHm/RI8mUxgxZxPV80GM8fD/YuWLFX4hXhss9076Y3lXeK5UpnRxBaD7j8MwZLQHuBtg5BegOXRGLq5sJ38TPHFcXmHSfizsOf58BT56a/RPUueZnSorNvxFw72XkQ30AdRbzKYIlGgjm8CNa9KdjhuXAp9dbMkq9Y4b0=;uwqSoxhE1uc3loAaCMPOQA=="
+secured: "GtWzxC8ChAvCYXy3034tfHTXgoZMv3As3IEOVS1HVRcIpXbAGyFwHaSuwfI+JdN6uUFa9yA7gT5KUAE8OsgVfPs6SGIjRQHgWGrEszRNXBUF6Xbx+kFj0klXBGxq2IMYYf5C1TYkzl21voVjzt22EDUOThTe5jjwqpYi4zT9/M0gpKeYgjObK1+EiPx73TrAl6qA6Lh+on+sl71OIBsWkGlQ9MAmuWy9BGubSMAsGoCclJDD3EAq6twDBjRIFqtGmgr4NJjHg3gHiVFAxgSKbpVXpnV4ZG9pz27aPCfwZ2M8WNLnfwccYGKDf4ScWTwSzin7SCG2nHYnOo3H5R8melMY6yoU2YZO+I7YFWFF81qNCYpc1Go4s/oxcGgwp22kUTRQnHiUjrBfmEF3cB3A35k2ACDSTg5qyhzOjN/OMIwtgOVjS8RovJFfaezdHlzYqk0hQATXr4oSvGPMWD/KifkTZGALtKYTS0+rVEATKqmbOTH6pfT5NC7L+LyNM0UwHsLtRZrWJgxMEneoVZGhFQ==;ovFEWuYX0LKURUJZK3kimg=="
 ---
 

@@ -55,6 +55,15 @@ related:
         width: 2000
         height: 1121
         isCached: true
+  - title: "Generative AI start-up Mistral AI raises €105 million in seed stage funding"
+    excerpt: "AI is the future, and is totally off to races. It can be estimated by the fact that a four week old starter has picked up €105 million just in the seed funding round and is already a rival to Open AI in the building,"
+    publishedDateTime: 2023-06-14T11:53:00Z
+    webUrl: "https://techstory.in/generative-ai-start-up-mistral-ai-raises-e105-million-in-seed-stage-funding/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 15
 
 secured: "O17UcLwSy7qACLSoI7OmDECh4G4LodV6KC/98xR7MDm5428Y5+LLx3G06Hk3Tuj6sgYDg6XecapG3lKq+HYmlcfx5Zk+ZOa2d4fYdE4B9ltbHY/f1GX7lLNcSot6RHbIFEAwQ9n6uzKTCYKAbWZQjxqXkhOhjkjUXpXX8gmmBILMuLCDXR48ZnqMYCoyES6fvCUyCODSK7PODykFvjGlRpO11D3VSs79AsXA6OixhI6xcPmm1VFKWHQgmafgQ7+f/8s+HbmoAc+7uun+Wg+h5DSC30HTh8lA4NvOqyrEK3vQSh5//iDK8SGZe6NsDLJI7AJBxficTgyDPuipjXwxkKmUjpfuCv8r77mQVWABkvf6u1XJnY37uFHqyFAiPOgTF+NCSUukr5ln+yD4ensPcn9e3FLg0mR+5qoekW7zfqmh8wiSgRo2aoTelMuS3L4i5C8Kx6xktzWkWVj6nnz7488ReMQmG7g1K/nSnwhDXkuQAaEP/8eQl744wwOnWZuL7w4y3jjkopr6+PUHsx3XHg==;DTlWABYBHLkkwfP6N/guqQ=="
 ---

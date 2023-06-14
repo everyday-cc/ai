@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true"
 type: article
 quality: 74
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "MEPs agree to curtail uses of facial recognition under changes to draft artificial intelligence rules"
+    excerpt: "The European Union took an important step Wednesday toward passing what would be one of the first big laws to regulate artificial intelligence, a potential model for policymakers around the world as they grapple with how to put guardrails on the rapidly developing technology."
+    publishedDateTime: 2023-06-14T11:35:00Z
+    webUrl: "https://www.irishtimes.com/world/europe/2023/06/14/meps-agree-to-curtail-uses-of-facial-recognition-under-changes-to-draft-artificial-intelligence-rules/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 34
   - title: "Breaking news. MEPs endorse blanket ban on facial recognition in public spaces, rejecting targeted exemptions"
     excerpt: "The debate has been inevitably shaped by developments in China, where the Communist Party has rolled out a massive, sophisticated network of facial recognition cameras to monitor the country's population."
     publishedDateTime: 2023-06-14T11:29:00Z
@@ -55,6 +64,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "HED Receives National Recognition for Exemplary Engineering Achievement at ACEC's Engineering Excellence Awards"
+    excerpt: "The ACEC Engineering Excellence Awards are among the most prestigious honors in the engineering industry, recognizing firms that demonstrate exceptional innovation, technical expertise, and engineering excellence."
+    publishedDateTime: 2023-06-14T13:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hed-receives-national-recognition-for-exemplary-engineering-achievement-at-acec-s-engineering-excellence-awards-1032389016"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 14
 
 secured: "WVS6EW1wQYEh/1vdWdXN/cgqdG5AJ3azkUBUHsMd+8U8gL/LDUPf0VBwuEO1Lf69V4s+XDIIFQz+7HtqNoX1+sNUAcn0wYFYCP7JJv/Q+JUHu/TemdKiyJr9tq9pQzFzbqLibosTB7i1VXMFFwOk9p54hU+fB9OslhUK77g0m17UtSFURoBgiF9AVji/gNH0+rju6GBSu8COc9KswOIPsgZ0+JoM9He7eeNXwbG9rHyE47p/dqXq9WYmIUPn5zFUkk739EWRSjxPmvQWThS3WNEMBC17agKj+ptQEgL/WHBjDzXOHha6OSgyKublGwSTPYKimNacr62ljS20XqUycOmHtaKfOLnLhTsrRaDMAVyq73QHxknw7nslwzDPlo+iszOfoPkEK4Kmx6xNpmuCTTl9/1/Tw8Cq/zWJ+vY7TAtlzImKeJhL2rk+GzXbyhAwegcbybT4wlO0HxhM1t8rVaLLGMb30pwh/sUXZLdh/8DFbWB9M1Ub5h18qjVXbtWHboQO0EhUtSDjV8pujOBC7g==;P6EQbyvzmr1NS60PE+c+tw=="
 ---

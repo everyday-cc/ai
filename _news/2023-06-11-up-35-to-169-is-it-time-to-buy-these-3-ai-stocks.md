@@ -60,6 +60,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "How to Retire Rich: AI Stocks Edition"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Not many of us remember how the emergence of the Internet changed our lives."
+    publishedDateTime: 2023-06-14T12:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-retire-rich-ai-stocks-edition-1032388817"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "3 Stocks to Buy for Easy Exposure to AI"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is the “next big thing” on the Street. And"
     publishedDateTime: 2023-06-12T19:19:00Z

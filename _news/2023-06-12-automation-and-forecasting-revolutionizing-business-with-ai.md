@@ -30,89 +30,34 @@ images:
     isCached: true
 
 related:
-  - title: "Creating A Strong Foundation For Your Startup With AI"
-    excerpt: "Startups must take proactive steps to overcome business challenges and get ahead. One of those steps should be implementing AI."
-    publishedDateTime: 2023-06-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
+  - title: "IBM watsonx.ai: Open source, pre-trained foundation models make AI and automation easier than ever before"
+    excerpt: "Discover how watsonx.ai and its pre-trained, open source foundation models make it easier to train, turn and deploy AI across your business.\nThe post IBM watsonx.ai: Open source, pre-trained foundation models make AI and automation easier than ever before appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-06-14T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-watsonx-ai-open-source-pre-trained-foundation-models-make-ai-and-automation-easier-than-ever-before/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: IBM
+      domain: ibm.com
+    quality: 117
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64824c948f1cd79e3030c0ae/0x0.jpg?format=jpg&crop=2988,1679,x0,y0,safe&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/ibm-watsonxai-a04.l_2x1.jpg"
+        width: 1312
+        height: 656
         isCached: true
-  - title: "Generative AI startup Mistral AI raises 105 million euros in seed-stage funding"
-    excerpt: "The company is founded by ex-Meta and Google AI researchers, Guillaume Lample, Arthur Mensch and Timothee Lacriox."
-    publishedDateTime: 2023-06-14T07:13:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+  - title: "IBM plans to make a difference in AI with Watson X"
+    excerpt: "IBM Watson X, as a platform, is in fact designed to reduce the barrier of entry in terms of getting to use this type of model and technology."
+    publishedDateTime: 2023-06-13T00:30:00Z
+    webUrl: "https://techwireasia.com/2023/06/heres-how-ibm-plans-to-make-a-difference-in-ai-with-watson-x/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 53
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg"
-        width: 1280
-        height: 720
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/shutterstock_2301582847-1-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "With AI for kids, collaboration is key"
-    excerpt: "Moral and philosophical questions abound. The UNESCO’s recommendation on the ethics of AI set the normative framework to navigate the ethical jungle, with some core principles, including transparency, human oversight and determination. These guardrails ..."
-    publishedDateTime: 2023-06-12T07:47:00Z
-    webUrl: "https://www.thebookseller.com/comment/with-ai-for-kids-collaboration-is-key"
-    type: article
-    provider:
-      name: The Bookseller
-      domain: thebookseller.com
-    quality: 39
-    images:
-      - url: "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/473/Boy_reading.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Mass layoffs are creating a new generation of founders building climate, health, and fintech startups"
-    excerpt: "Health and fintech are also popular. Ai-Ling Walker, a former creator success staffer at Patreon, is building the Noetic platform to help neurodiverse people receive a diagnosis. It took her five years to be diagnosed with ADHD, during which time she ..."
-    publishedDateTime: 2023-06-14T09:42:00Z
-    webUrl: "https://www.businessinsider.com/layoffs-spark-generation-technical-founders-climate-health-fintech-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/648881dc62d3f100199677a1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Registration opens for the Mark Cuban Foundation’s Artificial Intelligence Bootcamp"
-    excerpt: "Offered at no cost to low-income and diverse community high school students, the Mark Cuban Foundation's Artificial Intelligence Bootcamp will be held for the first time in San Antonio. The San Antonio Bootcamp,"
-    publishedDateTime: 2023-06-12T16:29:00Z
-    webUrl: "https://aldianews.com/en/leadership/advocacy/ai-bootcamp"
-    type: article
-    provider:
-      name: AL DA News
-      domain: aldianews.com
-    quality: 33
-    images:
-      - url: "https://aldianews.com/sites/default/files/2023-06/technology-3435575_1280%20%281%29.jpg"
-        width: 1280
-        height: 730
-        isCached: true
-  - title: "Snorkel AI Introduces New Foundation Model Data Platform"
-    excerpt: "Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic"
-    publishedDateTime: 2023-06-12T16:41:00Z
-    webUrl: "https://www.datanami.com/this-just-in/snorkel-ai-introduces-new-foundation-model-data-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "5aUgIV9RIHqkwPqrO7s2Odf+uM8qgWaeoTXyAjWZPcuZl/MDWH2zHMHDTuOo6QcqUcI6vBDs+7mcvNJ75Bv51W1U7DBkDhg4nbUx3dl3ANPMp89cXxpgvVRsns9AXy9o1HGhq3HoxDZtqQTVhnnGOlSn+tIWocvpVvjNOSndHslAjWyv80dg5UJSI+dOZ0S4odklAS17AZinzYtO4djgN0TcRIPAD7+TeEw22OUr3Xu2FTZUgcBGlMuuuZ+1KPKJWF+x+LMrS1u0kWTHqwbBvF/usnufmXmY4uerz5J75NLqmS1BivKHsPK2sOhkN14A+FUKGtctOM0wQsDrpdM4jXZN7OnFGlEYYUXF4D/ue+j9cPBYARknIqe4DM3amqYxLR98Q231qQT8jWkM2YpAO2qA6BMqVCkMmbrY4ultJUgws999i/ajqQIKVP4W5dt7uWB4GyGYC8vD2e0/Q4JRMO+icjmeauDbgOYi+hvIzsyxziueRZxfK0pyNTSxYsEcTjC9L0C6KpxLFW3BnqeAgA==;2fEdbW+EPldQ9RcZ+eTbjA=="
 ---

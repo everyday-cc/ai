@@ -168,6 +168,20 @@ related:
         width: 700
         height: 700
         isCached: true
+  - title: "EvoPricing and Event Network celebrate publication of their research on AI in the Harvard Business Review"
+    excerpt: "LONDON, June 14, 2023 /PRNewswire/ --EvoPricing and Event Network announced the publication of their AI research on high-impact analytics strategies for executives in the Harvard Business Review at a popular webinar on June 13th. The two CEOs, Fabrizio ..."
+    publishedDateTime: 2023-06-14T14:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/evopricing-and-event-network-celebrate-publication-of-their-research-on-ai-in-the-harvard-business-review-1032389326"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/2101535/EvoPricing.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Increasing focus on AI is driving demand for empathetic women leaders"
     excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
     publishedDateTime: 2023-06-11T01:50:00Z
@@ -238,15 +252,34 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Era of artificial intelligence in India"
-    excerpt: "Ishant Gupta In today’s digital era, technological advancements have revolutionized the way we live, work, and interact. Among these advancements, Artificial Intelligence (AI) has emerged as a powerful tool,"
-    publishedDateTime: 2023-06-09T19:11:00Z
-    webUrl: "https://www.dailyexcelsior.com/era-of-artificial-intelligence-in-india/"
+  - title: "What Smart Companies Know About Integrating AI"
+    excerpt: "AI has the power to gather, analyze, and utilize enormous volumes of individual customer data to achieve precision and scale in personalization. The experiences of Mercury Financial, CVS Health, and Starbucks debunk the prevailing notion that extracting value from AI solutions is a technology-building exercise."
+    publishedDateTime: 2023-06-12T16:00:00Z
+    webUrl: "https://hbr.org/2023/07/what-smart-companies-know-about-integrating-ai"
     type: article
     provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 19
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/05/R2304J_TRESOLDI-scaled.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
+  - title: "Southern Baptists pass resolutions on the Great Commission work of women, the ethics of AI, and the office of pastor"
+    excerpt: "On Tuesday afternoon (June 13), messengers to the 2023 Southern Baptist Convention Annual Meeting in New Orleans approved six resolutions, including ones on the legacy and"
+    publishedDateTime: 2023-06-14T14:13:00Z
+    webUrl: "https://www.kentuckytoday.com/baptist_life/southern-baptists-pass-resolutions-on-the-great-commission-work-of-women-the-ethics-of-ai/article_9ad8da04-0abd-11ee-aa54-97c120079ca1.html"
+    type: article
+    provider:
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 31
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/assets/v3/editorial/d/aa/daa2db08-0abd-11ee-ad69-67ff2e0782ea/6489cb735d6b3.image.jpg?crop=1024%2C538%2C0%2C42&resize=1024%2C538&order=crop%2Cresize"
+        width: 1024
+        height: 538
+        isCached: true
 
 secured: "/Iwwmic0aHvV3amlm6cNG3jRx7SlGZqR6tKBg7JEBEGYTbuJjhm3+GIvaL1jLvt6i38lZRwxDXknmr2iZXEMgIquMgHmTIn0CiYjtV73XahwQGFeZu2v3FisuARVT4m+CIJYKhPoAAO1+I4cnhdTsoXkHlBH97xR7Myvl+4aNrNSQihc1zYoe7Ip6T+1WrCahiDJTQ/6GBI3s82ieDPZL7VKMVPiG1HR+GMZY/iCfVTYAwK7SqqIjV9GTiyGWCVXLMaRFWx/SrV2LOdeABLs1OUyACilIRil55BAtETRGLeANr3Aajphk8ofQ5pxTigh34fZiux8ObfZjb7xbDfhPFNQ+PFIQUV22OM+eAN4hpM7Icabc4AGGME2lvBTAcMXhll7bVx1MjMOTo49mfy6dfBEr6R4D8Uf5BTqUUP/MY1e398YB7QoeiUHwIteBfuv7aEWDDuQ/amLFpz3dqZa9s7LSteSQqnlRT42fIzZKMgPqCrcY5JjSHAFpMuL2ePtckmJwsq9q0jtwLTowr5S/w==;8q/qWuGekCXqwxhChub0RA=="
 ---

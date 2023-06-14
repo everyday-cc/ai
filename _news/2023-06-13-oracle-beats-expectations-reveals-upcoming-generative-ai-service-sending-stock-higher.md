@@ -53,6 +53,24 @@ related:
         width: 480
         height: 321
         isCached: true
+  - title: "OctoML debuts self-optimizing compute services for generative AI"
+    excerpt: "OctoML's new OctoAI self optimizing infrastructure aims to help organizations build and deploy generative AI applications."
+    publishedDateTime: 2023-06-14T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "ServiceNow adds more AI with Now Assist for Virtual Agent"
+    excerpt: "ServiceNow is integrating more AI functionality into its platform. It recently introduced the AI chatbot Now Assist for Virtual Agent. The generative AI"
+    publishedDateTime: 2023-06-14T12:56:00Z
+    webUrl: "https://www.techzine.eu/news/applications/107490/servicenow-adds-more-ai-to-now-assist-for-virtual-agent/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
   - title: "ServiceNow extends its AI capabilities with Now Assist for Virtual Agent"
     excerpt: "During the event, ServiceNow introduced several new generative AI features for its platform. Now Assist for Virtual Agent builds on those features. ServiceNow’s namesake cloud platform helps information technology teams manage their day-to-day work."
     publishedDateTime: 2023-06-13T18:12:00Z

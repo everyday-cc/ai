@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Host ML models on Amazon SageMaker using Triton: ONNX Models"
-    excerpt: "ONNX (Open Neural Network Exchange) is an open-source standard for representing deep learning models widely supported by many providers. ONNX provides tools for optimizing and quantizing models to reduce the memory and compute needed to run machine learning (ML) models. One of the biggest benefits of"
-    publishedDateTime: 2023-06-09T19:48:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 103
   - title: "How Forethought saves over 66% in costs for generative AI models using Amazon SageMaker"
     excerpt: "This post is co-written with Jad Chamoun, Director of Engineering at Forethought Technologies, Inc. and Salina Wu, Senior ML Engineer at Forethought Technologies, Inc. Forethought&nbsp;is a leading generative AI suite for customer service. At the core of its suite is the innovative SupportGPT™ technology"
     publishedDateTime: 2023-06-13T17:41:29Z

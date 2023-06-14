@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/us-law-week/arm-qualcomm-lawsuit-cou
 webUrl: "https://news.bloomberglaw.com/us-law-week/arm-qualcomm-lawsuit-could-muddle-us-chip-design-leadership"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1920
     height: 740
     isCached: true
-
-related:
-  - title: "Has Qualcomm Already Beaten Apple to the Punch in Smartphone AI?"
-    excerpt: "But that training process happens once. Inference occurs countless times, as users may prompt an AI algorithm to process work for many years -- consuming lots more electricity on powerful cloud-based chips in the process. This is why on-device inference is ..."
-    publishedDateTime: 2023-06-09T21:27:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/09/has-qualcomm-already-beaten-apple-to-the-punch-in/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/735629/smartphone-city-connectivity.jpg"
-        width: 4896
-        height: 3264
-        isCached: true
 
 secured: "asPJB+pYXoNUuU1q4nQfITQgS8h6/q1E9rwT83b9hcYdIi3Kkj7gWLtJnWEfRmcTiJ6BUNdLPdI2aI/RRJOBjU1YDGdkJYDptEtAMiOq3+xt0gdDp7W8sUsJNyEgrCT4g0+IUNvuE4Qr5EJV5ArjszMdriAEPwGoZ5tffviMmPyskrfu7TGOzaIQyTS3zc0MsM28jcI/z5CAgpCkALMDIzUUdl1UlCk/N6OGXRV/Z/zHsXzupNO507DWFBnFO7fiP/xTrph7TeTwkp8WdIbFHAQ0QWL+SQxonk8MOi0xVqgUdzw1YlP1NXq1JEppZFonWgM6D8UERYJpKfJ+240k85qODp5Hx5NUun21CIBxgObQ8oSkjxgqSLxxd6ER3rmQOHudNfybfzDGyNI2p/5I1mKa1WQT6BMtZDQPTVTnaJEWYfwc3jBKwx+lnr9jVoausws+Y24qyxzBuzn5Zmh8euGGnEiHqIG5jJhZfmxUrMxHktC8CXCmGCTDezmk4BMWaNf8mL9WaxqpqzIKj3DP3Q==;kmyDSEIalbb8HWqISjOj8g=="
 ---

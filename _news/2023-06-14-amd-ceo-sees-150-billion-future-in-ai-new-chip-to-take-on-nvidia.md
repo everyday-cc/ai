@@ -71,6 +71,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
+    excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
+    publishedDateTime: 2023-06-14T14:38:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069679"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069679"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069679"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 74
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_13e81c67d6ca5dea0c1ccc147feb6487_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "AMD reveals details about AI chip that can take on leader Nvidia"
     excerpt: "Su discussed the chip’s capabilities during a keynote presentation in San Francisco, where she showcased an AI system on the MI300X chip writing a poem about the city. “The more memory that you have, the larger the set of models” the chip can handle ..."
     publishedDateTime: 2023-06-14T02:23:00Z

@@ -1,30 +1,22 @@
 ---
 category: news
 title: "AMD unveils MI300X, steps up play into AI chip segment"
-excerpt: "More than 15,000 companies uses its software.This new technology partnership between Hugging Face and AMD is very important for the open-source AI community, establishing a new hardware platform for training and inference workloads that will support the most popular architectures and frameworks,"
-publishedDateTime: 2023-06-14T10:54:00Z
-originalUrl: "https://www.devdiscourse.com/article/technology/2487904-amd-unveils-mi300x-steps-up-play-into-ai-chip-segment"
-webUrl: "https://www.devdiscourse.com/article/technology/2487904-amd-unveils-mi300x-steps-up-play-into-ai-chip-segment"
-ampWebUrl: "https://www.devdiscourse.com/article/technology/2487904-amd-unveils-mi300x-steps-up-play-into-ai-chip-segment?amp"
-cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2487904-amd-unveils-mi300x-steps-up-play-into-ai-chip-segment?amp"
+excerpt: "Chipmaker AMD has unveiled MI300X, one of its most-advanced GPUs (graphics processing units) for artificial intelligence, which would be available from the second half of this year."
+publishedDateTime: 2023-06-14T13:51:00Z
+originalUrl: "https://www.zeebiz.com/technology/news-amd-amd-mi300x-nvidia-nlp-meta-ai-artificial-intelligence-linux-foundation-amd-ai-devices-mi300x-240002"
+webUrl: "https://www.zeebiz.com/technology/news-amd-amd-mi300x-nvidia-nlp-meta-ai-artificial-intelligence-linux-foundation-amd-ai-devices-mi300x-240002"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: devdiscourse
-  domain: devdiscourse.com
+  name: Zee Business
+  domain: zeebiz.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_46_5151186.jpg?width=1280"
-    width: 1280
-    height: 853
-    isCached: true
 
 related:
   - title: "AMD unveils MI300x AI chip as 'generative AI accelerator'"
@@ -92,6 +84,6 @@ related:
       domain: insidehpc.com
     quality: 4
 
-secured: "Q2sRpxqEaMICd4qaTAsu0Lh8a2Nced3CZyiKR688A9LEWM+kE4zVTl3GTbdtkpf7ei6QtT4XkkGfOSNIeet8xyQQty5AB4CMi//tbfiie27iBhcdOaHQXbEw2sd1yZsc0F/2NZuxc0F2IlDrPoPoNO6lzD1QEx4oThY6iIcawPwMTRQRC85kLdw7xs3VomWFGbBK0lYzJ/NJvOYIuDHY4NqRnvk19Fa4zjpdd/VvnKV99biaCGjl1cVC2tiT8ThpJFKmAk1iOSsAKZ81bX1fFUhFyKcNvWXRQu9VmdpKRhMs9Fd/mY39c8q+w3lzNI+iHPiRfPnEQc/iLdPDLH7BNGUHg4Lr3mSb67LJUpBGusY=;KNyWi8k2mJmjKavX6Z27ZA=="
+secured: "V76DmZEfSMAKnaP34pVp++XbiFWPXcRqLN/xds09IX1WfX3bA2v1eJo/Ae/XnnnBgtshHd3IJ324PZ8V9/SvCbNUr8KQ4EglwlUKztIFxEUjLb2twcc4mMPY/OEPNMZ6MjQucJz76YB22SFxSpm0f2391brLZFWHljP54L0QCk6T50O2dj/igqtZfHRbRk4QO11/Xr75IiUho6bQRszKIpH/DU7RlaSHUFOH8YEUnKcnzu4nqXz2g0/n6+Y6T0IU7AoOjscAReTP8PiERq1LcPOrEzlcK/UYTkg7NJNBXb2X9Br9FfyEkmmyhSOq4q4/1Q/ic6nU+vwv+wDzTq4CnY/AcPeFACqitUN8RXThtXjFNgX9ynjyZKxTACkUPEGcmu9CNBE6+O3nc2HecW/xnQGNGwUZWtTCQKv6OAYKXO2XJRLCk3a+LlNG3vPA1eAbuiomX0Q3JPrjVB1w/8FcncGoFRpgBuonnBm/0yXBZhX4rISowBsEW2BLM8PqU9ym2pGpYcXzODfT8DhIkUkPtw==;93HLsiwl68GjtfpYxQe98w=="
 ---
 

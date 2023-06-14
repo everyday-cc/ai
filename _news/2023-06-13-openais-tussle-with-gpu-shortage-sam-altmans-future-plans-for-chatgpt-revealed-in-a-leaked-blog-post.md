@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-gpt5-leaked-blogpost-chatgpt-8660435/lite/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: The Indian Express
@@ -36,6 +36,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "ChatGPT creator Sam Altman meets Modi, discusses global regulation for AI"
+    excerpt: "Creator of ChatGPT and CEO of Open AI Sam Altman called on Prime Minister Narendra Modi and talked about its downside and why it is important to look into it."
+    publishedDateTime: 2023-06-10T18:47:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/chatgpt-creator-meets-modi-discusses-global-regulation-for-ai-515746"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 18
 
 secured: "Zc2Zj1nBSzwlZtBOI5n+dn8s9h3BzRPIxYuOHtRp3yO5sTTCMOPRzexKLHE0YPvUxQojOgzX4TeSs62hx3kV0S0BC9R7Ml1Jdldrbfw4wgLYBpQpImol8aGZYJX+jeaN3oH4BDQIVYtCnlfmOjwVGDMteHPeKWwLguZELpwVgEfeB9CJfON5CSgsODRMyU4FQ82N+pTvOGca+Kp+G29aCzUyLD4PRwB/m8MnYg+oSkQK7EmF2q1FJi0UnQU3e38/EwzAc70CBqay6LRoO/DcSrWV5BN8s3CbxVhMymxZXA04hcdM0AFX/8lDLy4V/jDOTOZhU0sshm/Y23zeY7HQjnakZDJxKb2yg55R8A7hrt8=;AqyJqGQn+nsDahc6oLLctA=="
 ---

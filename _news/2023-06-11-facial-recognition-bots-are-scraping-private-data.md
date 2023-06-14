@@ -41,6 +41,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "MEPs agree to curtail uses of facial recognition under changes to draft artificial intelligence rules"
+    excerpt: "The European Union took an important step Wednesday toward passing what would be one of the first big laws to regulate artificial intelligence, a potential model for policymakers around the world as they grapple with how to put guardrails on the rapidly developing technology."
+    publishedDateTime: 2023-06-14T11:35:00Z
+    webUrl: "https://www.irishtimes.com/world/europe/2023/06/14/meps-agree-to-curtail-uses-of-facial-recognition-under-changes-to-draft-artificial-intelligence-rules/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 34
   - title: "Breaking news. MEPs endorse blanket ban on facial recognition in public spaces, rejecting targeted exemptions"
     excerpt: "The debate has been inevitably shaped by developments in China, where the Communist Party has rolled out a massive, sophisticated network of facial recognition cameras to monitor the country's population."
     publishedDateTime: 2023-06-14T11:29:00Z
@@ -55,6 +64,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "HED Receives National Recognition for Exemplary Engineering Achievement at ACEC's Engineering Excellence Awards"
+    excerpt: "The ACEC Engineering Excellence Awards are among the most prestigious honors in the engineering industry, recognizing firms that demonstrate exceptional innovation, technical expertise, and engineering excellence."
+    publishedDateTime: 2023-06-14T13:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hed-receives-national-recognition-for-exemplary-engineering-achievement-at-acec-s-engineering-excellence-awards-1032389016"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 14
 
 secured: "Yyc+159DLv1oreSCfouEO7KeaX1WNgdItnVlnatlVSyAQqpTPu+NykvvAjStQWJiq87R7h/N7wy4cSyetGqydUFycIdqs9AuhNjrDixQqMQ4JP2LcWXzu2D+rf5shGws982zaV+Lq6lIqUxx4b5KVnul/wguvlgeVjulXlL7QYzLzmhv4qdmhUAxOc7gdnec7W7jytJHOdQmE26jMQkPpdsBG4vl32xD+aLaHTcVmEEEL7OXusRibHIfLWGOalJD6tPQx+ndlEj3TEZxASQS7XhTht3f+eP7Y+VMcHpzyXLlzncYqoJETGEoQn2d/3UogCGtVJCsGdf/21smGZswQx4djz3Msi9QV0S15LQdsfxF40PRcPHuQ0JugqyoQq3gJD6FgLMZqb3PeNOM3Yl5Pq89ubvpM1KCq3+++uZbaD3E5Agu3niBoM4u6UEkA2tV6rApH7X3p58dki7b71uWCU/jkkQ5A4eR/JInnV51ytJ6tMiFyH3gKSDRhi37PoWUbFiwrZUSl26Qa4qALwk6GQ==;JcrNBSDIpeDe4Tl1EqUJIA=="
 ---

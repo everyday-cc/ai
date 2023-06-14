@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i.guim.co.uk/img/media/34c1d48c87c1afbf2e5f67ee243d6e04a589f861/0_0_5661_3810/master/5661.jpg?width=620&quality=85&auto=format&fit=max&s=158e9f56559974aa365103a3a2f5ef07"

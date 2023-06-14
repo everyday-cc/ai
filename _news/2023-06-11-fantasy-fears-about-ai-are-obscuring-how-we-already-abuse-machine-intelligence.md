@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/11/big-tech-warns
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/11/big-tech-warns-of-threat-from-ai-but-the-real-danger-is-the-people-behind-it"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Embodied intelligence: Robotics and AI as the decathlon of engineering sciences"
+    excerpt: "Robots need a physical body combined with artificial intelligence – in other words, “embodied intelligence”. - The robot of the future is adaptable and capable of learning. - Catching balls, picking peppers, balancing a tray: specific tasks are ..."
+    publishedDateTime: 2023-06-14T12:44:00Z
+    webUrl: "https://idw-online.de/de/news816023"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 45
 
 secured: "JvL6np06RGkUtD09UGX/a5smfWyNM6OBcQmaK3NUTAJvATuy/RGJmceHRtacOrKeRToVCtj4FvcgiEKZmWPNdLWf+V+CPT8sawI/tze2gE14EkmfNKbQWxSGn9korQnMOIGn3tJ4hGfTJAz3CMoYuaO+tHdonTnG/RKiQ9Hh8peZfADUbFqoLxqN0GwTtU1/hMns1Bjz47jxE485dvE1Hky12+vtO9SYhZkyWESoNSNkKhA6g0uQhfaYtld6qYtZCFD4D9cHTvQvM5g57iK3KfHjZUXC5DA99KOz1RU3+/UkVxbAucrTO2PY5XWouQoo3jMiQh73Qh8BryaI+0uOnCbadrMYI7TRmCQ0JLfrTTUNPkSJzcc8fNnruQ+1pBuQ6i2IUpyckfqXdvK3sK1632lBsRKXd3/w1CfG+FqdlEHw6aw45MNhEwmnPeNcrO1Rd0XRWybRn/icpyyz8M4Iy9inXwrkn6dyGftBs+v5dIrms1/1pT73OQwfWBxcnbCQOGok4eyh2GJp7FmtrXzxKQ==;zdKFxV7deytGpAn48Li1zQ=="
 ---

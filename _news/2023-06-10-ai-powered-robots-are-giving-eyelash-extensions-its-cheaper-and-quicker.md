@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2023/06/10/ai-technology
 webUrl: "https://www.washingtonpost.com/technology/2023/06/10/ai-technology-eyelash-extensions/"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1440
     height: 810
     isCached: true
+
+related:
+  - title: "13 Best AI Writing Chrome Extensions: Write Better, Faster"
+    excerpt: "You can use Research AI on any website. Includes 15 of the best templates, such as generating blog post titles, blog post outlines, blog ideas, product ideas, Facebook and Google ad copy, email subject lines, ecom product titles, product features ..."
+    publishedDateTime: 2023-06-14T12:53:00Z
+    webUrl: "https://techpp.com/2023/06/14/best-ai-writing-chrome-extensions/"
+    type: article
+    provider:
+      name: Techno-Science.net
+      domain: techpp.com
+    quality: 39
+    images:
+      - url: "https://techpp.com/wp-content/uploads/2023/03/Best-AI-writing-Chrome-Extensions.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "BXrrbEfyR22JA9RAxKDO7VyFd3z8YPf+AqlnDw1g0JBNKa14d/FyoWiG/DJFpl0v78m2J1K3EFCpxV6HKKctaK/nk/5swuKz3av6THCx8474m7IIrJqC2cZuFqY4qc8frEiFd8oA0AKB8quKtZ5GGdfV2YcdBrRqZmgZoPmzhk3xA7reXmhsoMlAYoMvfd3wD0y+qmGMJ0tpc3u9aIK8tlbaLLgO3k3n+ye1aO67EO1vRHZOMZy8koGohN0kvHQtfgrhcsQP/meYtnw7IXhVa0ViRmHAqerYEC7lGoF/Ak6UjHuLqutz0+5g33ZU5IIiF6UMutzGH9he8Klp3n1rvCg9hDMLwUB7qAcK92Ym6w0o0sn6ewTtgyM1YKj/mzLZyEeDm+rwS9Cbm7lBhSAVBsyAyP4fZE9MQPKD7cLkUew0u+qWhfCmWDI+hnS2IPmMJBTya2S2PpvpFS7kJSWkuT+gCtZFahj7X3zq0BWqFxKWc+dT1qWcihbbhyx6c9Oa/h1eIK37okH2GocYotmQLQ==;4T6oIQTGTg0/QX+iYLEQkw=="
 ---

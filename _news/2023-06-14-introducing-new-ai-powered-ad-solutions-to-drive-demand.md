@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-driv
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/amp/"
 type: article
 quality: 109
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI Ethics: Concerns and Solutions"
+    excerpt: "Generative AI ethics is a growing concern as this AI technology gains rapid adoption. Plus: tips for creating an AI ethics policy for your company. Generative AI is one of the most recent artificial intelligence developments, where AI models are trained to ..."
+    publishedDateTime: 2023-06-13T21:36:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-ethics/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 64
 
 secured: "cUlGn4qPgZMs6AJMntF+086BIXZ0wHV0vlBCEdVhhcKt2k35sDzWmJoKRMXbRzDrAUfNsta3DGqD7bLfGzqbtT8b5MJAK2qu0RK4RMm3sHHCUZb8iTw8NJKhSdrW+k6Qeh0QWlKlStcjkICcM6BLN1wg1/iZKdAszqZXFVS13nPURWep3nMNvhopqQ+CRQXd+CtOUpKfN/HmWh8qijEG7fzhqdfLcL+DnatoEW1OGgKJFTWn2uDqOj/j2IsjAmXxpib+2uWO+Ns83fICAh4VOQgd8OfqCEUsZgqXAo9oxvyXGvxqYotq2Qc8Bo3mJXqsNs8ByWZwV0i+a4P2d7f5Q5KfkXTLiSKMfnCNiJ6FS1k=;mm2A3+A7YIQRhcy+fDXkWw=="
 ---

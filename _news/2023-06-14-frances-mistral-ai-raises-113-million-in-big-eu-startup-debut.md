@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistra
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 2000
         height: 1121
         isCached: true
+  - title: "Generative AI start-up Mistral AI raises €105 million in seed stage funding"
+    excerpt: "AI is the future, and is totally off to races. It can be estimated by the fact that a four week old starter has picked up €105 million just in the seed funding round and is already a rival to Open AI in the building,"
+    publishedDateTime: 2023-06-14T11:53:00Z
+    webUrl: "https://techstory.in/generative-ai-start-up-mistral-ai-raises-e105-million-in-seed-stage-funding/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 15
 
 secured: "mx7Mxf7UR3N+v9+lOEhLdBnIwjxT40YNW7GIycs2RclO8W5veh0ND6uX5Ne4CQkPNHfEznlN7ili8a4VgFOMFXprh0Xh+arsjkBQTS+AF8h5vI2zJ1LMib5DAc8UHCtHJ545TKtdot0tdy8iVavcLFvnsxmHcX1YbrPqdjXmeNCBp/W6eoIpPebUYnUDa9zsoXtAUdD/5JjEN0jpRa++sqPd6Ft+DktI4duxNC0svX0HuBd4w0JeXSMa3vSP4G1hR9vReP68XNiig9IzPqhV46roIfVaR34BnQqdQDalr1qv1zGx2kuWYUoMsaMOnuuPrOGDOaKJXz1MbQ/tMS65pAI4g6AoUSVCL+Of2/DBZgI=;TdeR6OxIyDrdl72DGuVUCg=="
 ---

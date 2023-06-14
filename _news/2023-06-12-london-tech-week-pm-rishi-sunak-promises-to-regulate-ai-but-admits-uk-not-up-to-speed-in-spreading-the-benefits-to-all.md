@@ -63,22 +63,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "How Europe is leading the world in the push to regulate AI"
-    excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle"
-    publishedDateTime: 2023-06-14T09:50:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/europe-leading-world-push-regulate-ai-100061805"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
 
 secured: "IUknlElUQS1P1RZwmKeqnKxYhiR1V4jVOQ8rXHomkbikEGAOYKfQcMHbMlVfunluskAhhcINClZOsJwy8NPrILAB7bA4apaQfeVuBH1u7FZvw5AeO9+11FII9GkzVgvD61MRJm1HW9+BTl3bz2eawqpZ3OXnT58lcb6ZvDewI46lmNvMbw1vlrFzTsMQg32IGMcpuzWnj+SY8DDyhKge4p+Xrn6weMvH7eTMwXyXsPiyGdJxNiQhZYQwcouIaUgv62rDw1Qp1n1S7GYOQzuBwLk24RNr2forNWNTXj9bJO2ZA5xmHMLMfttHhvqg/rO5FJLy3j4tKP8bUMGFYaXVCRf+KIujGSU5wW8FeefgBitEqTJNxqtfLDsvJGnsCwbiR2DCo5XXojPHGbcTzBWNr7wZ9bNFx0vUDBfeSJeyS1jGTq0kRAlecQq6uPZuPcXF2S85KahVDU8uriRtjwBEE8waSn4xkd1xb0fryXWT3aKXz72ioQOqQmwOjGVTeFbXUsiywhg6ffE6qmlKmBE5Vg==;kVMmWpEc2JQf6HJNmAQqSA=="
 ---

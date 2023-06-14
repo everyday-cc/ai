@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-
 webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-hospitality-industry"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "The AI revolution will change work but nobody agrees how"
-    excerpt: "Goldman Sachs estimated that the technology behind popular AI tools such as DALL-E and ChatGPT could automate the equivalent of 300 million full-time jobs."
-    publishedDateTime: 2023-06-10T04:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-ai-revolution-will-change-work-but-nobody-agrees-how/articleshow/100890168.cms"
+  - title: "AI Automation: Ride the Wave Don’t Fear It"
+    excerpt: "You don’t want to end up like those fools who thought the steel industry was gonna last forever. Start thinking about the future. I hear these kids out in California are doing some incredible things with computers."
+    publishedDateTime: 2023-06-14T13:57:00Z
+    webUrl: "https://www.equities.com/news/ai-automation-ride-the-wave-dont-fear-it/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
+      name: equities
+      domain: equities.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/equities-com/images/w_1024,h_760/f_auto,q_auto/v1686750918/photo-1572969426191-6568839f18df_fs5csa/photo-1572969426191-6568839f18df_fs5csa.jpg?_i=AA"
+        width: 1024
+        height: 760
+        isCached: true
 
 secured: "tVo5am7mSOVSfMhcxJBIVAhLc9VSRPR1bxQxp1DcLKxRuikf7VvTdNFHOXdTKxSgfnt+1tFznhmGe4RjP8Z7StiSG+q2xszrmF0BiUbgJz6aB5dnHxE9EXCpwYluqBkzzXIWEj7jtyhhCdUHpe0mYAx/iM6eu0MnFSiYRN/UoqhsGZShBqGz+qsaQPuTRWhDCeTmJPIAkihpHfTv2cqq7V2M3wqNm0ZP7IdeHdeeW0g874Vgv0nwCAfawCZkkJLPEJJRhGUz49w5J4ifjvvAyMbGkO482DXIvCbX+/J39R9sRc/ClyzzBURlFo4ssnkl86LJzNaJVvwGuaz1/atPxIYX/GQjrLVut+E8HOTIeG742G5WP+HAbjmQ3bJGkZaBRuMbChueeRLOGE8y7uiel0KjJCU6+wP8kzHLmfY02QsJn712brpwPXxrbrGho6ekYFiVd7BwGriBuJ0c0LJAW7EhcesyyDXmAWwMqg56eGS7N61PZ7gnxGSULyEc8YCP3Y719SkBavoCh/N30cHOjw==;nDqyPgAXtANlo0wU4R3m+A=="
 ---

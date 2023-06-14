@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automation And Forecasting: Revolutionizing Business With AI"
-    excerpt: "One of the most promising AI technologies is the generative pre-trained transformer (GPT) model, a natural language processing tool that is revolutionizing how businesses communicate and operate."
-    publishedDateTime: 2023-06-12T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/648337895224cd868d750fc7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 773
-        isCached: true
   - title: "Generative AI startup Mistral AI raises 105 million euros in seed-stage funding"
     excerpt: "The company is founded by ex-Meta and Google AI researchers, Guillaume Lample, Arthur Mensch and Timothee Lacriox."
     publishedDateTime: 2023-06-14T07:13:00Z

@@ -27,36 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Age of AI: Everything you need to know about artificial intelligence"
-    excerpt: "From the latest developments to relevant terms and companies, here's everything you need to stay current in the fast-moving field of AI."
-    publishedDateTime: 2023-06-09T20:04:00Z
-    webUrl: "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
-    ampWebUrl: "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+  - title: "Artificial Intelligence: The Way Forward"
+    excerpt: "Artificial Intelligence (AI) will rule all the spheres of life in future but it's the human intelligence that controls and complements the norm"
+    publishedDateTime: 2023-06-13T17:31:00Z
+    webUrl: "https://www.omanobserver.om/article/1138712/oman/artificial-intelligence-the-way-forward"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1138712"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1138712"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 102
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 61
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
-        width: 1200
-        height: 675
+      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2023/06/13/2359214.jpg"
+        width: 1000
+        height: 650
         isCached: true
-  - title: "What Smart Companies Know About Integrating AI"
-    excerpt: "AI has the power to gather, analyze, and utilize enormous volumes of individual customer data to achieve precision and scale in personalization. The experiences of Mercury Financial, CVS Health, and Starbucks debunk the prevailing notion that extracting value from AI solutions is a technology-building exercise."
-    publishedDateTime: 2023-06-12T16:00:00Z
-    webUrl: "https://hbr.org/2023/07/what-smart-companies-know-about-integrating-ai"
+  - title: "Robots and AI: A new economic era"
+    excerpt: "When developed countries adopt robots and AI, it has an impact on trade with developing countries, leading to increased exports from developing to developed countries, particularly in sectors experiencing high levels of robotization."
+    publishedDateTime: 2023-06-13T20:56:00Z
+    webUrl: "https://www.thejakartapost.com/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/05/R2304J_TRESOLDI-scaled.jpg"
-        width: 2560
-        height: 1439
-        isCached: true
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 54
 
 secured: "9293EWo0u/shADqHu9Ab0Ymx0i3c5cYP7RGyvV3rUtcvgzg++PO8t7SCkUnHyUEXwmlUHOpnDlcVj1N1JWAYW3Jr1vAJkP+0vSAliRxNSdj9krRYrAEZIVQ0+hAUa7ddkOYwghMI+sfFLSXBJUyQCsmBFlA7aKBnK10x6VqBPlnw8qlM6zBc/eGRn+JcAvlUgU86YhogyGB0w50DgkGmuWQK7u2s2uB4C6pYTbO7N1qH+ARopZFQr+1Jg0tIYgmZZaefnnPfH2QTXeYxTjbEKb/lS78/5BqwDkZij8FXBvwSFyYPqqfZnvTEEj6nBTxiz+YwN0CYKLe+H+8bmR8zQkbf8KU+OaLL9lHcVSO59lo=;NzdsdRWeF2UDvlRd0SrOMg=="
 ---
