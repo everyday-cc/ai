@@ -155,6 +155,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Salesforce doubles down on AI and unleashes the power of generative AI"
+    excerpt: "On AI Day, Salesforce unveils AI Cloud, GPT for Customer 360, and doubles Generative AI Fund to US$500M for responsible AI development."
+    publishedDateTime: 2023-06-14T05:54:00Z
+    webUrl: "https://techwireasia.com/2023/06/salesforce-doubles-down-on-ai-and-unleashes-the-power-of-generative-ai/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 37
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/13062023_Salesforce-doubles-down-on-AI-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Oracle invests in Cohere, plans to integrate generative AI tools into its cloud"
     excerpt: "Oracle has invested in generative AI company Cohere, in a deal that valued the business at around $2.2 billion. The $270m Series C round also saw participation from Nvidia and Salesforce. Oracle's investment is said to loosely mirror that of Microsoft with OpenAI and Google with Anthropic,"
     publishedDateTime: 2023-06-11T16:09:00Z

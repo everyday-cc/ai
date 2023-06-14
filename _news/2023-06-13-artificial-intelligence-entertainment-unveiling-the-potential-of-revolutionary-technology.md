@@ -7,7 +7,7 @@ originalUrl: "https://marketscale.com/industries/sports-and-entertainment/articl
 webUrl: "https://marketscale.com/industries/sports-and-entertainment/articles-sports-and-entertainment/artificial-intelligence/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 2560
     height: 1440
     isCached: true
-
-related:
-  - title: "Artificial intelligence having seismic impact on music and entertainment industry"
-    excerpt: "Harry Styles singing Teenage Dream? Freddie Mercury singing I will survive? Joe Biden rapping? We've only just glimpsed the awesome potential of A.I. and its implications for the music industry."
-    publishedDateTime: 2023-06-09T11:28:00Z
-    webUrl: "https://www.fox2detroit.com/news/artificial-intelligence-causing-a-seismic-shift-to-the-music-industry"
-    ampWebUrl: "https://www.fox2detroit.com/news/artificial-intelligence-causing-a-seismic-shift-to-the-music-industry.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/artificial-intelligence-causing-a-seismic-shift-to-the-music-industry.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 47
 
 secured: "TGVCHfIzsBobXrJDnZ9nWlSI6Cg49pCGRpeP8q9r3a4BexiLKoRC6A4Dbli+c9RxBox2wjo1IAbl9X0ta0/vMZirU43NPD/x9b4JRrGYQsH9JNcmsG3efCqT4GfsTw1wuqs4Tf+GXUkIW0UYmTlLCGScIAij70jbViByYvuBf4dZJIJcz7xik5yYc/tKBtr0jNBCkA9ni+S1kemYQjYGo6JL8a3KHmu5WYTIEvhvXNMqK/MNY1cZHKxrppuhGftUhnVqQZlaAWVixevW03S/UM0+TvSYhQCDqUfK6NXF9L8Cck/1P7McsQWJ5QNTCQNtaPZf1QHIvjzW7RyxrZjNiNzV9ECusXCYt0xdsTBXnDB6NVETRL1WzWynNOAaHg2VXcRb34/zt3S8uUioIkwaH3E75ZH4HRb3HgUJ9hgfMDg5FNTsYGOFj7Bw02ouVBm9PNNDEGdkZN6VWadeTV6kQ+FkeVeUVNMt4sdJRQAMZ/cxLUP91AMh4h+L2TwA9u/5fTqn8eb9ldI4fKU3p7s/bw==;YoaN18iX7myKdxuYVrx+hg=="
 ---

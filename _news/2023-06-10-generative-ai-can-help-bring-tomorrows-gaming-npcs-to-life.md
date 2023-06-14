@@ -60,15 +60,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "How AI Can Help Doctors As They Solve Complex Problems"
-    excerpt: "AI has an essential role to play in augmenting the work of doctors as they make dozens of high-stakes decisions a day."
-    publishedDateTime: 2023-06-09T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/how-ai-can-help-doctors-as-they-solve-complex-problems/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "QKbhMSt8CaPKsz4Vk3JEhuXEtMITbBR+Sej2Qj8kxJt26cOYHEwpsrcMHT6o9jsn7wzAy6BrxkBtDOQRSoSUB56m0HIdbWsm17vmMo941SqiKiao3p/4+C75wYBjhv04RWNVx4/mXqXSKIkwfy+u8jOnHRpEVaxUdHUgqFNtFxfm699d7yZsMOQUS4SgVDe+m7jHlGBk06eozvjHN8MkVqCJoZV340e9f/0J/1Ejc9jxu/OAgZ1qe23e8fR3CsUEB5wXT2XaLN6TzavdqkQbBDefPXC8WbSVrZuNdQa93R5UlxydcQ1gB34JFNyFPgVW8euS+E1+74d77iQvJhmgmIJdsEAIiOk4fG+cuZOONNHmspZ3eNXGgnnSEzoaKIZmO022z0CL+ObwYp6bNtGcwHBOkaV8ZG1rGjRGIzxnVazGeNRKfB0tsxBbwT44w0NrBIpHnuq+G2rbWFwf7RaikdANfqUBcWwokORQP1X1zFWFGx/+Fj17fyHN+HdfPB0MrNgvy1BA9vtDww+6WGXDVg==;+TT3v0umCgEw4p7zQmWdAg=="
 ---

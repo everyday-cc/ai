@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/wimi-develop-cnn-based-optical-sc
 webUrl: "https://www.asiaone.com/business/wimi-develop-cnn-based-optical-scanning-holography-reconstruction-algorithm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "WiMi Hologram Cloud Developed an Efficient CGH Technology Based on Deep Learning and Neural Networks"
-    excerpt: "Deep learning can find the optimal or local optimal solution in operation, making it efficient to compute CGH. CGH has been applied to holographic light traps, 3D displays, planar concentrators, AR displays, etc. CGH technology can obtain the best wave ..."
-    publishedDateTime: 2023-06-09T12:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-hologram-cloud-developed-an-efficient-cgh-technology-based-on-deep-learning-and-neural-networks-1032380597"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "n4krR7PDWx6Bj2FdVDD6mSmzH+4rioai202RpPmgX9/DTu75kYLlaZucspYn4eyWsW7hP4TUFBcRdooltgIVUCnZmqDXs9g9Qk9za1s+1j7IONzH4BZkzyqPLCt7Oey038xsThusKu/8h9u8O/ocI0nSTy4yzlZMg2AuIk4Yw0FEll1D3cBm+Czp3yioKu48oGzYR/JUfDn3t4ZDDMK1UYjg0m5JSCJeZDY2JGCeTA7fEPkf7YOz9Z+4dBWO/hYfE5pIpBh1nK6g/2wLHwJb3iwnQuRsUegaJyA/x7VTzNCa+uCv37wCfWtzuVYOmA232fAAVg6yElv4b61BXrorxni02tyqqTh4MsZrggVVDdD8wax/YJk7vTIG95X8DErTSBhvODaX95ag9QAG5n0tOP9sI3jXDSrFGfHMuCnVPTWR4yeggueQn98l1fMHWS6/wLt+8gbQMRZU1AHkxt74A0QZkbJs1F2GH/QnMsnxlhyQV+NIFRJIjUAn1Xm4GfD9e4riBKh/xfbiNPPN1b8jtw==;YFmuk+jEmH8YBJMFy/4pDg=="
 ---

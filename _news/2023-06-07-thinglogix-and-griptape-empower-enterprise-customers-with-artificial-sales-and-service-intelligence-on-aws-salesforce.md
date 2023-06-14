@@ -17,11 +17,11 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://www.wpri.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-    width: 396
-    height: 202
+  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/06/gettyimages-637549016-2-2-2-1-1.jpg?w=2000&#038;ssl=1"
+    width: 724
+    height: 483
     isCached: true
 
-secured: "r0X1BuHMXgwk41bC56XSzj+l7ZTfxK8N4AM7m4ZJKS0McqcNuLRkZxhLlIs5A2ixxO6M7z9clmWHZ1ytwvFk61+SpkA6CFvc9bI1rtKlofgBYgTHir6KQD3N3LYGfk0/P2NXML6d9ChP4vATx9S37me3BHeEHioEgORJt+PlOHXapdQTEVIa4LINRkKpGe20QWHpZQGrMgYjPG0zvOT7THKeAHrOyMfyeBKnPwVV48gEjqS14UUsfVzSXwuz0/lHlTxyCBnAgbkG0ZMgC0bsM1JE9hcKdn9lPIWBFZv9LyoA6cp4q0KC8A1q+2/ZPLEnac2KX1xa8X7/T7DeHCWmkZCNMJst94yu44S9fd6Z6ww=;riHO47GZWCcqm7PZFtUilA=="
+secured: "BxBUe1ZTTedpwAOZCsUZ9AbiQQjiTG1RcWQ1F7nZhrOFLdD+0+9FGkNuYKLQE2DpbEegMSSabYjvwcdIgv0epE35uAhHQFfj4YqX3slHLKb6QhuS50MELfMCBuOO70MDtwmbmQACGvfJekzIn7akJnmnMG/Fhwi/xtSnZt9HFKn90sTI7qcGInTm4QHTA3UoKtRIhjqMhzL2/au+RX09kowz7A3kaDxp/hhv9kKRE80eXx3kxO/XmCtflPdVydiMgJ+CaX9HGERsHMPVkCKHG/WsLTrVx4J4ssXpMaM0HNnBx3k2awWg8zyBqDleLccaIdEQXgxf8Qsj6drHlpSRqt3VPwQNCCSEkTBEjZhPxAI=;LLo/gj8kZXdgFlF0jvm43Q=="
 ---
 

@@ -106,6 +106,31 @@ related:
         width: 640
         height: 300
         isCached: true
+  - title: "AMD launches new Instinct MI300X AI chip to take on Nvidia’s GPUs"
+    excerpt: "During a keynote speech, AMD Chair and Chief Executive Lisa Su (pictured) announced the company’s new Instinct MI300X accelerator, which is targeted specifically at generative AI workloads. Generative AI is the technology that underpins OpenAI’s famed chatbot ChatGPT,"
+    publishedDateTime: 2023-06-14T02:27:00Z
+    webUrl: "https://siliconangle.com/2023/06/13/amd-launches-new-instinct-mi300x-ai-chip-to-take-on-nvidias-gpus/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image_2023-06-14_084033192.png"
+        width: 687
+        height: 371
+        isCached: true
+  - title: "AMD showcases AI chip to take on Nvidia"
+    excerpt: "The MI300X accelerator is based on AMD’s CDNA 3 technology and uses as much as 192GB of memory to handle workloads for large language models and generative AI, the Santa Clara, California-based company said."
+    publishedDateTime: 2023-06-14T05:35:00Z
+    webUrl: "https://mybroadband.co.za/news/hardware/496253-amd-showcases-ai-chip-to-take-on-nvidia.html"
+    ampWebUrl: "https://mybroadband.co.za/news/hardware/496253-amd-showcases-ai-chip-to-take-on-nvidia.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/hardware/496253-amd-showcases-ai-chip-to-take-on-nvidia.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 54
   - title: "AMD's AI chip challenge to Nvidia remains uphill fight"
     excerpt: "Advanced Micro Devices Inc gave new details about an artificial intelligence chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know - who plans to buy it."
     publishedDateTime: 2023-06-14T03:00:00Z

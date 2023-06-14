@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "How AI Can Help Doctors As They Solve Complex Problems"
-    excerpt: "AI has an essential role to play in augmenting the work of doctors as they make dozens of high-stakes decisions a day."
-    publishedDateTime: 2023-06-09T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/how-ai-can-help-doctors-as-they-solve-complex-problems/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "ThACOrCTLoQ2dioMdeGyy6V99V7BW0KFJSBm4iiBboCzR3wre2cpuKdKHgyr++CPgPo8PfSuzMUQK7tHmS0l+FxP+FuPGim1tKE276Lc+eDVCZjfrKIyTArufbJ+2ifvKOEReC9Ho/6qWIH9dgxvtrF7xz3RBUC9Yj4/9yDQZSmwuT/ZhWOLBPqjbq85eW3/PWQe1i17qY2JXoNrUeyo5wAykggO3pzsY1az0AIyBB9o+0Pj8IDVFBjH8QtQbWzDNYmAOgzlYEtvwKyTyrugBtCsFzwbVNF8RAytU9+BNmo7tny2eKH0VwPOvo20YYZRz9g1hB2OpzTHHOAcYAVdZwzjmjBnskmQRT6NXtbmLO51/p+oeyR/NVIVXaMrDD1U4FGYV1Y6DHh90nGHYkcOtmGsF7Ai75dAGOYs46IKKbiuqSKcJo5D1mEvO9zL/4bV7AgfA6uKt6TnJyXWSEW05s7IQNqCeb6vVejZtwrPxbdeUMko9HMyV0+eqRmrYFuRajKrS/6gaTO1wSY41ZAfhA==;wdOnuFuEb4iMpUcJ7Vk/Fg=="
 ---

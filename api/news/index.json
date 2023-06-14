@@ -10,7 +10,7 @@
       "originalUrl": "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -93,57 +93,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-artificial-intelligence-what-is-ai-is-it-dangerous-and-what-jobs-are-at-risk.md",
-      "title": "Artificial Intelligence: What is AI, is it dangerous and what jobs are at risk?",
-      "excerpt": "Artificial intelligence (AI) technology is developing at high speed, and is transforming many aspects of modern life. However, some experts fear that it could be used for malicious purposes, and may threaten jobs. AI allows a computer to think, act, and respond like a human.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-65855333",
-      "originalUrl": "https://www.bbc.com/news/technology-65855333",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4F16/production/_130064202_microsoftteams-image-7.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-65855333.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65855333.amp",
-      "publishedDateTime": "2023-06-13T19:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -294,7 +243,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -345,7 +294,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -472,6 +421,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-frances-mistral-ai-raises-113-million-in-big-eu-startup-debut.md",
+      "title": "France’s Mistral AI Raises $113 Million in Big EU Startup Debut",
+      "excerpt": "Mistral AI, a new startup from former DeepMind and Meta Platforms Inc. researchers, has raised €105 million ($113 million) in an initial financing round to become “a new global player” in artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iprLPgQiE4Hk/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -853,7 +853,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 277,
+      "heat": 287,
       "tags": null,
       "images": [
         {
@@ -1103,7 +1103,7 @@
       "originalUrl": "https://www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning-11686566054332.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 77,
       "tags": null,
       "images": [
         {

@@ -117,22 +117,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Salesforce Connections - how Baptist Health personalizes its patient engagement and what AI may bring to the story"
-    excerpt: "How to personalize and scale patient engagement in the hugely competitive US healthcare sector is a major challenge for all providers. New AI tech may be one way to achieve this, reckons Baptist Health,"
-    publishedDateTime: 2023-06-09T11:08:00Z
-    webUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring"
-    ampWebUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 35
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-06/medicine-g81bb96e1e_640.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Salesforce introduces AI Cloud, announces $500Mn generative AI startup fund"
     excerpt: "Salesforce introduces AI Cloud, integrating Einstein, Data Cloud, Tableau, Flow, and MuleSoft to boost productivity with generative AI capabilities."
     publishedDateTime: 2023-06-12T18:18:00Z

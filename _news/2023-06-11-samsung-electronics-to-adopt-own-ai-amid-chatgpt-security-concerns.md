@@ -74,6 +74,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Meta guru says ChatGPT-style AI is out-of-date"
+    excerpt: "This research is another step in that direction,\" Zuckerberg added. Compared to its rivals, Meta has taken a more discrete approach to ChatGPT-style AI for its social media platforms Facebook and Instagram. Meta infused generative AI in its products ..."
+    publishedDateTime: 2023-06-14T05:38:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/uw1j4/article66967042.ece/alternates/FREE_1200/2023-06-02T003011Z_529134970_RC2EIX9TY0PB_RTRMADP_3_META-PLATFORMS-LAWSUIT-WASHINGTON.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Using AI, ChatGPT to Augment the Future of Healthcare"
     excerpt: "During a June 7 event hosted by Northwestern Engineering, AI@NU, and the Institute for Augmented Intelligence in Medicine, computer scientists and physicians presented examples of how artificial intelligence technologies can augment healthcare tasks."
     publishedDateTime: 2023-06-13T17:15:00Z
@@ -101,6 +117,22 @@ related:
       - url: "https://f1.econotimes.com/2023/06/0713js8rfc_th_1024x0.jpeg"
         width: 1024
         height: 680
+        isCached: true
+  - title: "Is your workplace using artificial intelligence or tech like ChatGPT? Tell us about your experiences"
+    excerpt: "Artificial intelligence (AI) is set to transform industries and revolutionise the way we work, and the ABC wants to hear from you — how are you using AI in your workplace? Whether you work in healthcare, finance, manufacturing, or any other field ..."
+    publishedDateTime: 2023-06-14T05:58:00Z
+    webUrl: "https://www.abc.net.au/news/2023-06-14/artificial-intelligence-workplace-chatgpt-share-your-story-730/102477624"
+    ampWebUrl: "https://amp.abc.net.au/article/102477624"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102477624"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 44
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/fdd6b8d5128f137cf7a0af15450d9b98?impolicy=wcms_crop_resize&cropH=360&cropW=640&xPos=0&yPos=63&width=862&height=485"
+        width: 640
+        height: 360
         isCached: true
   - title: "The ChatGPT-Fueled AI Gold Rush: How Solution Providers Are Cashing In"
     excerpt: "Some forward-thinking solution providers have spent years building artificial intelligence practices, and today their bets are paying off as businesses rush to figure out how to take advantage of generative AI."
@@ -171,20 +203,6 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/06/8873167_1629185100_AI-in-SamsungArtboard-1.jpg"
         width: 750
         height: 360
-        isCached: true
-  - title: "Meta guru says ChatGPT-style AI is out-of-date"
-    excerpt: "The chief scientist for Facebook-owner Meta on June 13 said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
-    publishedDateTime: 2023-06-14T02:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/14/meta-guru-says-chatgpt-style-ai-is-out-of-date"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/14/2124826.jpg"
-        width: 1240
-        height: 746
         isCached: true
   - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
     excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 102
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://i.tribune.com.pk/media/images/Muhammad-Wajahat-Sultan1664910846-1/Muhammad-Wajahat-Sultan1664910846-1.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Meta plans AI everywhere"
-    excerpt: "On Thursday Mark Zuckerberg revealed his plans regarding AI to Meta employees during an all-hands meeting. An aggressive push forwards is based, he says, on “really incred"
-    publishedDateTime: 2023-06-09T11:43:00Z
-    webUrl: "https://totaltele.com/meta-plans-ai-everywhere/"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 39
-    images:
-      - url: "https://totaltele.com/wp-content/uploads/2022/07/jurassic-coast-resized-440x264.jpg?crop=1"
-        width: 440
-        height: 264
         isCached: true
   - title: "What Smart Companies Know About Integrating AI"
     excerpt: "AI has the power to gather, analyze, and utilize enormous volumes of individual customer data to achieve precision and scale in personalization. The experiences of Mercury Financial, CVS Health, and Starbucks debunk the prevailing notion that extracting value from AI solutions is a technology-building exercise."

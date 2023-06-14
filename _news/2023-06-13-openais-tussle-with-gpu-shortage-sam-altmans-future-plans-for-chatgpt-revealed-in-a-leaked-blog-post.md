@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-gpt5-leaked-blogpost-chatgpt-8660435/lite/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: The Indian Express
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI’s chief Sam Altman meets PM Modi, discusses startup ecosystem’s benefits from AI"
+    excerpt: "Sam Altman, chief executive officer of ChatGPT’s parent company OpenAI, on Thursday met Prime Minister Narendra Modi in New Delhi to discuss the potential of artificial intelligence (AI), and the need for global regulation. “Great conversation with @ ..."
+    publishedDateTime: 2023-06-09T15:46:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai-11686325363721.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai/amp-11686325363721.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/openais-chief-sam-altman-meets-pm-modi-discusses-startup-ecosystem-s-benefits-from-ai/amp-11686325363721.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 49
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/09/600x338/ANI-20230609032-0_1686325462996_1686325504553.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Klir Unveils Revolutionary ChatGPT Integration powered by Microsoft Azure's OpenAI Service for its Unified Water Management Platform"
     excerpt: "The first-of-its-kind AI integration simplifies compliance and operational processes for water professionals while maximizing economic and"
     publishedDateTime: 2023-06-12T22:38:00Z

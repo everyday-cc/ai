@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-educati
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
 type: article
 quality: 91
-heat: 231
+heat: 241
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63731fd487e442fe938888a7/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 652
+        isCached: true
+  - title: "Transforming medical diagnosis using artificial intelligence"
+    excerpt: "Dr Venugopal Pareek, Laparoscopic and Bariatric Surgeon, Care Hospitals, says, “AI comes into play, especially when we are doing the surgery with the help of robots."
+    publishedDateTime: 2023-06-14T03:57:00Z
+    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2023/jun/14/transforming-medical-diagnosis-using-ai-2584708.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2023/jun/14/transforming-medical-diagnosis-using-ai-2584708.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2023/jun/14/transforming-medical-diagnosis-using-ai-2584708.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 61
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/6/13/w600X390/Transforming_medical.jpg"
+        width: 600
+        height: 390
         isCached: true
   - title: "Navigating through the ethos and sophistication of Generative AI"
     excerpt: "Generative AI has been the underpinning and steering factor as AI advances from auto-pilot mode to co-pilot mode. Now the new course—of fairness, equity, bias-free development, and deployment—will req"

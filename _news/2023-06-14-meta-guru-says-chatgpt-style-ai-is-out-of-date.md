@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Meta guru says ChatGPT-style AI is out-of-date"
-excerpt: "The chief scientist for Facebook-owner Meta on June 13 said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
-publishedDateTime: 2023-06-14T02:00:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/14/meta-guru-says-chatgpt-style-ai-is-out-of-date"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/14/meta-guru-says-chatgpt-style-ai-is-out-of-date"
+excerpt: "This research is another step in that direction,\" Zuckerberg added. Compared to its rivals, Meta has taken a more discrete approach to ChatGPT-style AI for its social media platforms Facebook and Instagram. Meta infused generative AI in its products ..."
+publishedDateTime: 2023-06-14T05:38:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2023/06/14/2124826.jpg"
-    width: 1240
-    height: 746
+  - url: "https://th-i.thgim.com/public/incoming/uw1j4/article66967042.ece/alternates/FREE_1200/2023-06-02T003011Z_529134970_RC2EIX9TY0PB_RTRMADP_3_META-PLATFORMS-LAWSUIT-WASHINGTON.JPG"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -114,6 +116,22 @@ related:
       - url: "https://f1.econotimes.com/2023/06/0713js8rfc_th_1024x0.jpeg"
         width: 1024
         height: 680
+        isCached: true
+  - title: "Is your workplace using artificial intelligence or tech like ChatGPT? Tell us about your experiences"
+    excerpt: "Artificial intelligence (AI) is set to transform industries and revolutionise the way we work, and the ABC wants to hear from you — how are you using AI in your workplace? Whether you work in healthcare, finance, manufacturing, or any other field ..."
+    publishedDateTime: 2023-06-14T05:58:00Z
+    webUrl: "https://www.abc.net.au/news/2023-06-14/artificial-intelligence-workplace-chatgpt-share-your-story-730/102477624"
+    ampWebUrl: "https://amp.abc.net.au/article/102477624"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102477624"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 44
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/fdd6b8d5128f137cf7a0af15450d9b98?impolicy=wcms_crop_resize&cropH=360&cropW=640&xPos=0&yPos=63&width=862&height=485"
+        width: 640
+        height: 360
         isCached: true
   - title: "The ChatGPT-Fueled AI Gold Rush: How Solution Providers Are Cashing In"
     excerpt: "Some forward-thinking solution providers have spent years building artificial intelligence practices, and today their bets are paying off as businesses rush to figure out how to take advantage of generative AI."
@@ -240,6 +258,6 @@ related:
       domain: azcentral.com
     quality: 10
 
-secured: "GxXc1pAs8muirLnR1GulFSr4PECrrGUEVBbTchH4AbngM+dzzUrc1RjYOHzVwYAE/WBhzswSoiJlaf5R47wwBmYVT0fwwO0LrwxiFKF2tRvpDgbKzBaUu96BycpnJMlZJTb49hbNYaKny0+mO+6yrvmOKXxPGXPgd4oHeRfZpFxTAzxtQhYRdkv/ZeV4LN8e+AwNwbYuf4gtEEW/TxaVBF98ERMos8sve8+CcYza5vpAT/7vTL7AF19O212gJUinBBZ+0QVybnYNNgD0eCzyVMmGpWRYClJi1JgoiqnyXTUBVxS0q0Amq4VXdd3Pl/fD3vFOYd3bVjNgUspbG4E0c/Gn4EYJixr/XcMSTv6xBfU=;iJGj+oNzwLKbZnA1AEYo+A=="
+secured: "bXI5Zjy/1vPMIb3pa/EFgf52i0TioXMdl0KXtFMUIOp8q4x228i32b8EcV8fx8sctumtexzwk7qrJ+tI8b4d8wtOItUrIaHYpoHveyzzJyMUxiRUX3mL7WdVbvqiFRPdSvV4hgiFB8vqmud1S0/ZkvkGMnNw7/ceCv/602pDZwrcrAqDZ6WOcpPAlDz0qVS6EGhzisHxmiA+4wNob1vfT0lqWjwwS5cBYCkIewV2uqzMzBiQ2Q82HnOlWrLCGIVM/QMrlCuHMN+bdQSNnPvfC/8PQboO18mDqogGsISoLt0rViWx6HnB29NH94ywslGY92Qqw3Z/dc6m0jy97g/aQGKMjKLbBqjctEGE1G1i1W0=;8+tJ08q9ZhU2ccTg9sWPbA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687?amp=1"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "DeSantis takes AI campaign messaging in an unsettling direction"
-    excerpt: "The RNC broke new ground in April with literally fake AI-generated messages in an attack ad. Ron DeSantis' campaign just made matters even worse."
-    publishedDateTime: 2023-06-09T12:53:00Z
-    webUrl: "https://www.msnbc.com/rachel-maddow-show/maddowblog/desantis-takes-ai-campaign-messaging-unsettling-direction-rcna88523"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 17
 
 secured: "+2jPasMKHybPXuOq2C7uy9hIL3oeDmzRSEUHxwODSLudbBrBSEBz3JfKSY9UelKczWxKm6Dw8oNafZlwwJHJxMKZZ0lDcG2Ji6C4UU7yTyFpjJSi0kK8kZzL7dxOotUGoH9Tc7SXBRpsrDiPVfdxf3dnW5auPyQ4eGaXfH1Fwn8bkh7PYtl/bBlK3Ehcmit+gTLrstCVXCPRuLsDSaCEmCG9OqapbQdargqHQRHdYntHCvCUYbAL4uD+X8smrmx2J8Eo7g30u05uqhf/YrDM/IvB6vPT/kI51Cg9D3wmrzAajOEStOzAdTYuKOM5XBCrdh+s6qeMKYlZwasGDFAak8BdaYlLRkSGn7P1IJZLves=;sxX+88ZrmCq2qlr5uoLhdA=="
 ---

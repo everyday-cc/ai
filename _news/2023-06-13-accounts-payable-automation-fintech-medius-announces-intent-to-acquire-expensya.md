@@ -57,6 +57,20 @@ related:
         width: 863
         height: 402
         isCached: true
+  - title: "The Winners of the Swiss Fintech Awards 2023 Are…"
+    excerpt: "For the eighth time, the Swiss FinTech Awards are given to outstanding Swiss start-ups and influential organizations on the evening of June 13 at the Swiss FinTech Awards Night in Zurich."
+    publishedDateTime: 2023-06-14T05:50:00Z
+    webUrl: "https://fintechnews.ch/fintech/the-winners-of-the-swiss-fintech-awards-2023-are/62212/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/06/Nachhaltigkeits-Startup-gewinnt-Swiss-FinTech-Awards.png?x30842"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "F|T: The FinTech Times – SEC sets sights on crypto firms Binance and Coinbase"
     excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest ... The former pro poker player and AI whiz has ‘no regrets’ about launching US$3B crypto startup. Vancouver-based LayerZero raised $120 million USD at a $3 billion valuation ..."
     publishedDateTime: 2023-06-12T13:32:00Z

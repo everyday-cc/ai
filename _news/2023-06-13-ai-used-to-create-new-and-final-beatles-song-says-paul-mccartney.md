@@ -152,6 +152,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Paul McCartney reveals AI was used to create the 'last Beatles record'"
+    excerpt: "McCartney revealed that what he called \"the last Beatles record\" is on its way, adding that it was created with the help of AI. \"It was a demo that John had that we worked on,\" he"
+    publishedDateTime: 2023-06-13T23:08:00Z
+    webUrl: "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com"
+    ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/GMA/mccartney-1-ap-er-230613_1686693220455_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Beatles are releasing their ‘final’ record. AI helped make it possible"
     excerpt: "Paul McCartney described AI technology as “kind of scary but exciting,\" adding: “We will just have to see where that leads.”"
     publishedDateTime: 2023-06-13T16:58:00Z
@@ -232,20 +248,6 @@ related:
         width: 450
         height: 450
         isCached: true
-  - title: "Paul McCartney reveals AI was used to create the 'last Beatles record'"
-    excerpt: "McCartney revealed that what he called \"the last Beatles record\" is on its way, adding that it was created with the help of AI. \"It was a demo that John had that we worked on,\" he"
-    publishedDateTime: 2023-06-13T23:08:00Z
-    webUrl: "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=mc.news"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/GMA/mccartney-1-ap-er-230613_1686693220455_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "The Beatles will release a final record, using John Lennon's voice via an AI assist"
     excerpt: "The music has analog roots, recorded by the famous singer-songwriter on a demo tape. Now it's being revived by futuristic technology for release later this year, Paul McCartney said."
     publishedDateTime: 2023-06-13T16:41:00Z
@@ -259,6 +261,20 @@ related:
       - url: "https://media.npr.org/assets/img/2023/06/13/gettyimages-3165523_wide-931eeb65b37f81367ae16de6e14666f7ed231aff-s1400-c100.jpg"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Paul McCartney says artificial intelligence made upcoming ‘last Beatles record’ possible"
+    excerpt: "A new Beatles song is coming together with a little help from AI, according to Paul McCartney. Artificial intelligence made it possible to turn a decades-old demo recording by John Lennon into “what will be the last Beatles record,"
+    publishedDateTime: 2023-06-14T05:46:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jun/13/paul-mccartney-says-artificial-intelligence-made-u/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 28
+    images:
+      - url: "https://thumb.spokesman.com/AqxftTYeEENWbTc1UcjzkaqTQmo=/1200x630/smart/media.spokesman.com/photos/2023/06/13/6488f98322828.hires.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Sir Paul McCartney says 'final' Beatles song coming thanks to AI"
     excerpt: "In an interview with BBC Radio 4's \"Today\" program released Tuesday, the legendary musician and former Beatle was asked about AI and how it's been used to make his voice sound younger – and to resurrect the voices of fellow band members John Lennon and George Harrison who died in 1980 and 2001, respectively."

@@ -56,20 +56,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Meta plans AI everywhere"
-    excerpt: "On Thursday Mark Zuckerberg revealed his plans regarding AI to Meta employees during an all-hands meeting. An aggressive push forwards is based, he says, on “really incred"
-    publishedDateTime: 2023-06-09T11:43:00Z
-    webUrl: "https://totaltele.com/meta-plans-ai-everywhere/"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 39
-    images:
-      - url: "https://totaltele.com/wp-content/uploads/2022/07/jurassic-coast-resized-440x264.jpg?crop=1"
-        width: 440
-        height: 264
-        isCached: true
   - title: "6 podcasts to make sense of AI"
     excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics"
     publishedDateTime: 2023-06-09T16:35:00Z

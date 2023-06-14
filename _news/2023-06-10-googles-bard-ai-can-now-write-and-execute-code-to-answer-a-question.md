@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Can artificial intelligence provide evidence-based responses to public health questions?"
-    excerpt: "AI assistants can revolutionize public health by providing precise and practical information to the public. AI assistants are specifically designed to provide exact answers to complex questions instead of web-based knowledge resources that often return multiple results and require the user to synthesize data."
-    publishedDateTime: 2023-06-09T12:05:00Z
-    webUrl: "https://www.news-medical.net/news/20230609/Can-artificial-intelligence-provide-evidence-based-responses-to-public-health-questions.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 10
 
 secured: "1xfMuEeM6torgR5ux152jrKrpj218zLNmc41keK5ENMJezLAt0616gegODU+fbtFjHEmF8DUVknlVQJqHE/U4qKcwSNmAMK2vLvP9/guvmCf5jRG9W7sWkkAUDfnZ3ApILMmjGE0K/EPTqKc4+yejQxhVccOgNQ4lUAtS2OniBs3b2dfeD5GIr9Q2qWYvwjs68JWI9QjKDfXRdQsky4r66AHscJpCdjYsldsFH5wWpnZawuzn8BjDlNDorbiPAecXI2CHFvki+YTZhLecm4/If0cPMZ5LfyANVD7PVBpFCt5V6pAhjrVuLqN/pbGurozDuEzSbXXgAPUc+5/2YWSsFs/oYdRVhpCHfAdIM8QJNlFjOAeHNLCxNO/6oTZp7t/KqJSzjUYm7bmTpPI5ADlhYJKiiDTgxAxMKr7TlKX0+9F2s22ZFtuP9r4LzcjeM6NW/ZIccagVEHIGX/04UP/ttLhhar77np4cv06qePbsx4FGuzLRFUvbxNvJE/4a3+dwv1ANBoRlW7Iwx513eudRA==;Oto5DOqZWzlGfI0ivSbySA=="
 ---

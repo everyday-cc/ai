@@ -48,6 +48,15 @@ related:
         width: 2480
         height: 3425
         isCached: true
+  - title: "AMA to develop guidelines to combat AI inaccuracies in healthcare"
+    excerpt: "The American Medical Association is creating recommendations and guidelines on the use of AI to protect patients and physicians."
+    publishedDateTime: 2023-06-14T04:16:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/ama-to-develop-guidelines-to-combat-ai-inaccuracies-in-healthcare/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 34
   - title: "AMA delegates call for more oversight of AI in health care"
     excerpt: "Critics deride Cook County Health as it spends millions creating its own medical research department and investigates the nonprofit managing its clinical trials. AMA House of Delegates will discuss and potentially vote on a wide range of policy proposals at the event in Chicago."
     publishedDateTime: 2023-06-13T18:51:00Z

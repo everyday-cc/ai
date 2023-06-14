@@ -26,19 +26,16 @@ images:
 
 related:
   - title: "AMD to ramp up AI chip production this year"
-    excerpt: "Alexis Black Bjorlin, who oversees computing infrastructure at Facebook parent Meta, said the firm has adopted the Bergamo chip, which targets a different part of AMD's data center business that caters to cloud computing providers and other large chip buyers."
-    publishedDateTime: 2023-06-13T19:01:00Z
-    webUrl: "https://www.crn.com.au/news/amd-to-ramp-up-ai-chip-production-this-year-596853"
+    excerpt: "and a key performance measure for how well the chip will handle the large AI systems behind services similar to ChatGPT. \"There's no question that AI will be the key driver of silicon consumption for the foreseeable future,\" Su said. Su said customers will ..."
+    publishedDateTime: 2023-06-14T05:39:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/2023-06-13T174411Z_1_LYNXMPEJ5C0QL_RTROPTP_4_AMD-AI.JPG"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Full AMD announcement: New chips and AI tech"
     excerpt: "From cloud and enterprise data centres to 5G networks to AI, automotive, healthcare, PC's and so much more, AMD technology is truly everywhere and we're touching the lives of billions of people every day. Today, we're here to talk about our newest epic ..."
     publishedDateTime: 2023-06-13T23:48:00Z

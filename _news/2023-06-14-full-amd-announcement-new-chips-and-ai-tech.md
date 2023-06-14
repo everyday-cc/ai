@@ -40,19 +40,16 @@ related:
         height: 765
         isCached: true
   - title: "AMD to ramp up AI chip production this year"
-    excerpt: "Alexis Black Bjorlin, who oversees computing infrastructure at Facebook parent Meta, said the firm has adopted the Bergamo chip, which targets a different part of AMD's data center business that caters to cloud computing providers and other large chip buyers."
-    publishedDateTime: 2023-06-13T19:01:00Z
-    webUrl: "https://www.crn.com.au/news/amd-to-ramp-up-ai-chip-production-this-year-596853"
+    excerpt: "and a key performance measure for how well the chip will handle the large AI systems behind services similar to ChatGPT. \"There's no question that AI will be the key driver of silicon consumption for the foreseeable future,\" Su said. Su said customers will ..."
+    publishedDateTime: 2023-06-14T05:39:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/2023-06-13T174411Z_1_LYNXMPEJ5C0QL_RTROPTP_4_AMD-AI.JPG"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "AMD says Meta is using its cloud chip as it rolls out AI strategy update"
     excerpt: "Advanced Micro Devices said on Tuesday that companies such as Facebook parent Meta Platforms are ordering high volumes of a new central processor, as investors were anxious for updates on a different new chip that is designed specifically for artificial intelligence systems like ChatGPT."
     publishedDateTime: 2023-06-13T18:27:00Z

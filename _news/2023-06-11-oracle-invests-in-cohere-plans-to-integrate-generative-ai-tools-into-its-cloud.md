@@ -164,6 +164,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Salesforce doubles down on AI and unleashes the power of generative AI"
+    excerpt: "On AI Day, Salesforce unveils AI Cloud, GPT for Customer 360, and doubles Generative AI Fund to US$500M for responsible AI development."
+    publishedDateTime: 2023-06-14T05:54:00Z
+    webUrl: "https://techwireasia.com/2023/06/salesforce-doubles-down-on-ai-and-unleashes-the-power-of-generative-ai/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 37
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/13062023_Salesforce-doubles-down-on-AI-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "The Security Implications of Adopting Large Language Models and Generative AI"
     excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
     publishedDateTime: 2023-06-09T18:39:00Z

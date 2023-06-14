@@ -2,6 +2,160 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-12-5g-network-rollout-using-devops-myth-or-reality.md",
+      "title": "5G network rollout using DevOps: Myth or reality?",
+      "excerpt": "How can IT DevOps principles apply to the deployment of a complex 5G network?\nThe post 5G network rollout using DevOps: Myth or reality? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/5g-network-rollout-using-devops-myth-or-reality/",
+      "originalUrl": "https://www.ibm.com/blog/5g-network-rollout-using-devops-myth-or-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/dsc07568.lr_2x1.png",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T07:16:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc.md",
+      "title": "Using the metadata service to identify disks in your VSI with IBM Cloud VPC",
+      "excerpt": "Recently, IBM Cloud VPC introduced the metadata service, which allows you to query data about itself and get identity tokens and more from the VSI. \nThe post Using the metadata service to identify disks in your VSI with IBM Cloud VPC appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc/",
+      "originalUrl": "https://www.ibm.com/blog/using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/lhj_2193-edit-161212-gj.lr_2x1.png",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T07:09:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-cops-yell-at-stalled-self-driving-cruise-car-to-get-out-of-the-way-during-a-mass-shooting-in-san-francisco-video-shows.md",
+      "title": "Cops yell at stalled self-driving Cruise car to get out of the way during a mass shooting in San Francisco, video shows",
+      "excerpt": "A Cruise self-driving taxi disrupted emergency crews at a mass shooting in San Francisco on Friday night, according to witnesses and videos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6",
+      "originalUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/648721831eeec400193dd877?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp",
+      "publishedDateTime": "2023-06-12T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-5-ways-to-explore-the-use-of-generative-ai-at-work.md",
       "title": "5 ways to explore the use of generative AI at work",
       "excerpt": "ChatGPT and other generative AI tools have captured the public imagination. Here's how you can turn a much hyped tool into a productivity boon.",
@@ -10,7 +164,7 @@
       "originalUrl": "https://www.zdnet.com/article/5-ways-to-explore-the-use-of-generative-ai-at-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 237,
       "tags": null,
       "images": [
         {
@@ -112,7 +266,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -849,7 +1003,7 @@
       "originalUrl": "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -989,6 +1143,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-10-openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks.md",
+      "title": "OpenAI CEO Calls for Collaboration With China to Counter AI Risks",
+      "excerpt": "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe",
+      "originalUrl": "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-797978/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-10-the-next-threat-from-generative-ai-disinformation-campaigns.md",
       "title": "The Next Threat From Generative AI: Disinformation Campaigns",
       "excerpt": "Generative AI, coupled with deepfakes, could present truly dire consequences for the 2024 presidential election.",
@@ -1038,212 +1243,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-3-bipartisan-bills-aiming-to-regulate-ai-hit-congress-this-week-heres-what-we-know.md",
-      "title": "3 bipartisan bills aiming to regulate AI hit Congress this week: Here's what we know",
-      "excerpt": "Two bills in the Senate and one in the House were introduced to further regulate AI and ensure the US remains at the forefront of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/",
-      "originalUrl": "https://www.zdnet.com/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a142c2f98b62d1d057e988f9cfb3200138c0d767/2023/06/09/19d82152-24a3-4883-b04b-e1a34492c3cc/gettyimages-1491432797.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/",
-      "publishedDateTime": "2023-06-09T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-has-qualcomm-already-beaten-apple-to-the-punch-in-smartphone-ai.md",
-      "title": "Has Qualcomm Already Beaten Apple to the Punch in Smartphone AI?",
-      "excerpt": "But that training process happens once. Inference occurs countless times, as users may prompt an AI algorithm to process work for many years -- consuming lots more electricity on powerful cloud-based chips in the process. This is why on-device inference is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/09/has-qualcomm-already-beaten-apple-to-the-punch-in/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/09/has-qualcomm-already-beaten-apple-to-the-punch-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/735629/smartphone-city-connectivity.jpg",
-          "width": 4896,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-ron-desantis-angers-maga-with-ai-generated-trump-attack-ad-images.md",
-      "title": "Ron DeSantis Angers MAGA With AI-Generated Trump Attack Ad Images",
-      "excerpt": "On Thursday, Trump supporter Laura Loomer tagged Elon Musk —who hosted DeSantis last month on Twitter Spaces as he announced his candidacy to become president in 2024—as part of a tweet request to understand why Trump supporters receive a \"community note\" when posting about DeSantis, but the DeSantis War Room video did not.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687",
-      "originalUrl": "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2244911/ron-desantis-angers-maga.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687?amp=1",
-      "publishedDateTime": "2023-06-09T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
-      "title": "Age of AI: Everything you need to know about artificial intelligence",
-      "excerpt": "From the latest developments to relevant terms and companies, here's everything you need to stay current in the fast-moving field of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "originalUrl": "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-06-09T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

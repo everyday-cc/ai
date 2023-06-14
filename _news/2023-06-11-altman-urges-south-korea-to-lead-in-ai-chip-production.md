@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106422872/Altman-Urges-South-Korea-To-Lead-In-
 webUrl: "https://menafn.com/1106422872/Altman-Urges-South-Korea-To-Lead-In-AI-Chip-Production"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Sam Altman’s Advocacy For AI Regulation Goes Global—And Includes China"
+    excerpt: "OpenAI CEO Sam Altman over the weekend called for enhanced collaboration between the U.S. and China on artificial intelligence development."
+    publishedDateTime: 2023-06-13T19:13:00Z
+    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/06/13/sam-altmans-advocacy-for-ai-regulation-goes-global-and-includes-china/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "8wbuqKLJhnf4aVd7gpeLG4vtXoAN+FjBvgem8MpLPYjcX7xi4IviA4HzB/jW3OMEyKvJiN++aUny5aOl8CdhePrZP9Wtse9gKoB7ppCWslEOoh1+AHwnA6SAr4IVaohpYHGybxSEPIlb/us8dc7ciW+M9JnBkdyJ//OFHg9b6JYpeS2NwpAosbHsPT9SmcOlfvQIt+oPNFGj+heqV9OvnSOGgwz9Ug77tbI+hOdsiItH1hBfDcwTW+/P/xxtsf3KV2DUVeITfx66Ozd54/WSNxufq6QHyZDwARsN1VE0yaCNEk2yhng9XXulmrLNEgAjVdULwe+3hPElyLFNFsZQov3QFXRPzsk9JB3m9WtlPHVeqIHYh4u1tDUkszEkpWdjiYkLVMQ+S7yzj9iHOG/YTNZ1Yg5/5Jr6GZmoj94lEO1QLu54RPrzVfuAk7MVihc6hh/X3YErrD/pPrEYSevD7WYPg41pcUbjt6Gtzd5cGAWBmAsVNcfSfnOlNYucR0Aj8QcJRkj7mSTMylh1SKwWPg==;IygzBVK2K/X3lYM34AvL+Q=="
 ---

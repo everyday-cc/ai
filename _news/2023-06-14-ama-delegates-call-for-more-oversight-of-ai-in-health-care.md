@@ -56,6 +56,15 @@ related:
       name: The Daily Dot
       domain: dailydot.com
     quality: 36
+  - title: "AMA to develop guidelines to combat AI inaccuracies in healthcare"
+    excerpt: "The American Medical Association is creating recommendations and guidelines on the use of AI to protect patients and physicians."
+    publishedDateTime: 2023-06-14T04:16:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/ama-to-develop-guidelines-to-combat-ai-inaccuracies-in-healthcare/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 34
   - title: "Molina Healthcare and Partners Share Results of Obstetrics Health Care Model Incorporating Artificial Intelligence"
     excerpt: "Molina Healthcare, Inc. (\"Molina\") recently shared some notable results of a groundbreaking health care model that uses artificial intelligence (AI) to impact the full cycle of obstetrical care, from early pregnancy detection to post-NICU community-based care management."
     publishedDateTime: 2023-06-13T13:42:00Z

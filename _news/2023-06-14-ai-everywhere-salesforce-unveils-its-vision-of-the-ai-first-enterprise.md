@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -112,22 +112,6 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
         width: 900
         height: 506
-        isCached: true
-  - title: "Salesforce Connections - how Baptist Health personalizes its patient engagement and what AI may bring to the story"
-    excerpt: "How to personalize and scale patient engagement in the hugely competitive US healthcare sector is a major challenge for all providers. New AI tech may be one way to achieve this, reckons Baptist Health,"
-    publishedDateTime: 2023-06-09T11:08:00Z
-    webUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring"
-    ampWebUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 35
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-06/medicine-g81bb96e1e_640.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "Salesforce touts AI strategy, doubles investment in start-ups"
     excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI start-ups as the company banks on the emerging technology to help resuscitate sales growth."

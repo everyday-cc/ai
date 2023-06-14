@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 652
         isCached: true
+  - title: "Transforming medical diagnosis using artificial intelligence"
+    excerpt: "Dr Venugopal Pareek, Laparoscopic and Bariatric Surgeon, Care Hospitals, says, “AI comes into play, especially when we are doing the surgery with the help of robots."
+    publishedDateTime: 2023-06-14T03:57:00Z
+    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2023/jun/14/transforming-medical-diagnosis-using-ai-2584708.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2023/jun/14/transforming-medical-diagnosis-using-ai-2584708.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2023/jun/14/transforming-medical-diagnosis-using-ai-2584708.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 61
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/6/13/w600X390/Transforming_medical.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Research examines whether AI is helping small-scale farming operations"
     excerpt: "Artificial intelligence tools can be found in nearly every sector of society and are quickly becoming this century's great technological advancement. In the agriculture sector, large-scale farming operations are utilizing AI to increase profitability,"
     publishedDateTime: 2023-06-12T17:23:00Z

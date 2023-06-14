@@ -153,6 +153,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-13-openais-tussle-with-gpu-shortage-sam-altmans-future-plans-for-chatgpt-revealed-in-a-leaked-blog-post.md",
+      "title": "OpenAI’s tussle with GPU shortage, Sam Altman’s future plans for ChatGPT revealed in a leaked blog post",
+      "excerpt": "Sam Altman recently attended a closed-door meeting in London and one of the participants took to their blog to reveal some confidential information.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-gpt5-leaked-blogpost-chatgpt-8660435/",
+      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-gpt5-leaked-blogpost-chatgpt-8660435/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/06/AI-Black-Box-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-gpt5-leaked-blogpost-chatgpt-8660435/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-gpt5-leaked-blogpost-chatgpt-8660435/lite/",
+      "publishedDateTime": "2023-06-13T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-meta-launches-musicgen-an-ai-powered-music-generator.md",
       "title": "Meta launches MusicGen, an AI-powered music generator",
       "excerpt": "Meta's MusicGen offers AI-generated music from text and melody, but Google's MusicLM, available through the AI Test Kitchen app, also generates high-fidelity music based on text descriptions across genres.",
@@ -411,7 +454,7 @@
       "originalUrl": "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -454,7 +497,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -545,6 +588,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-openai-deepmind-and-anthropic-to-give-uk-early-access-to-ai-models-for-safety-research.md",
+      "title": "OpenAI, DeepMind, and Anthropic to give UK early access to AI models for safety research",
+      "excerpt": "The UK has been ahead of other countries in AI safety and regulations, and this announcement comes with the creation of an AI Taskforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-give-uk-early-access-to-models-for/",
+      "originalUrl": "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-give-uk-early-access-to-models-for/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/383bbbdcbc8cc7077514430dab2072839d7dc9cd/2023/06/12/ef66201a-11c7-4071-a1be-1b603f993b6b/pm.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -813,7 +908,7 @@
       "originalUrl": "https://techxplore.com/news/2023-06-ai-gain-human-like-cognition-real.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -1001,6 +1096,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-12-its-humans-and-ai-not-humans-vs-ai.md",
+      "title": "It’s Humans And AI, Not Humans Vs. AI",
+      "excerpt": "In 2013, IBM and MD Anderson embarked on a joint project ... The bar was set too high for Watson Health. In the area of diagnoses then, AI cannot replace humans—at least, not yet—but it can assist in certain diagnoses where there is enough data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6487382d36c8dc564b5004be/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/",
+      "publishedDateTime": "2023-06-12T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-is-there-a-right-cloud-strategy-for-banking.md",
       "title": "Is there a “right” cloud strategy for banking?",
       "excerpt": "Looking at what cloud technology can offer central banks and the challenges they face in adopting it.\nThe post Is there a “right” cloud strategy for banking? appeared first on IBM Blog.\n",
@@ -1051,7 +1198,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 257,
       "tags": null,
       "images": [
         {
@@ -1090,160 +1237,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-5g-network-rollout-using-devops-myth-or-reality.md",
-      "title": "5G network rollout using DevOps: Myth or reality?",
-      "excerpt": "How can IT DevOps principles apply to the deployment of a complex 5G network?\nThe post 5G network rollout using DevOps: Myth or reality? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/5g-network-rollout-using-devops-myth-or-reality/",
-      "originalUrl": "https://www.ibm.com/blog/5g-network-rollout-using-devops-myth-or-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/dsc07568.lr_2x1.png",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T07:16:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc.md",
-      "title": "Using the metadata service to identify disks in your VSI with IBM Cloud VPC",
-      "excerpt": "Recently, IBM Cloud VPC introduced the metadata service, which allows you to query data about itself and get identity tokens and more from the VSI. \nThe post Using the metadata service to identify disks in your VSI with IBM Cloud VPC appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc/",
-      "originalUrl": "https://www.ibm.com/blog/using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/lhj_2193-edit-161212-gj.lr_2x1.png",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T07:09:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-cops-yell-at-stalled-self-driving-cruise-car-to-get-out-of-the-way-during-a-mass-shooting-in-san-francisco-video-shows.md",
-      "title": "Cops yell at stalled self-driving Cruise car to get out of the way during a mass shooting in San Francisco, video shows",
-      "excerpt": "A Cruise self-driving taxi disrupted emergency crews at a mass shooting in San Francisco on Friday night, according to witnesses and videos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6",
-      "originalUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/648721831eeec400193dd877?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp",
-      "publishedDateTime": "2023-06-12T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

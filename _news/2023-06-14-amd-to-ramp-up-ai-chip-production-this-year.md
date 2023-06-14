@@ -1,28 +1,24 @@
 ---
 category: news
 title: "AMD to ramp up AI chip production this year"
-excerpt: "Alexis Black Bjorlin, who oversees computing infrastructure at Facebook parent Meta, said the firm has adopted the Bergamo chip, which targets a different part of AMD's data center business that caters to cloud computing providers and other large chip buyers."
-publishedDateTime: 2023-06-13T19:01:00Z
-originalUrl: "https://www.crn.com.au/news/amd-to-ramp-up-ai-chip-production-this-year-596853"
-webUrl: "https://www.crn.com.au/news/amd-to-ramp-up-ai-chip-production-this-year-596853"
+excerpt: "and a key performance measure for how well the chip will handle the large AI systems behind services similar to ChatGPT. \"There's no question that AI will be the key driver of silicon consumption for the foreseeable future,\" Su said. Su said customers will ..."
+publishedDateTime: 2023-06-14T05:39:00Z
+originalUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece"
+webUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: CRN Australia
-  domain: crn.com.au
+  name: Business Line
+  domain: thehindubusinessline.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://i.nextmedia.com.au/News/2023-06-13T174411Z_1_LYNXMPEJ5C0QL_RTROPTP_4_AMD-AI.JPG"
-    width: 1000
-    height: 750
-    isCached: true
 
 related:
   - title: "Amazon's cloud unit is considering AMD's new AI chips"
@@ -72,6 +68,6 @@ related:
       domain: theglobeandmail.com
     quality: 27
 
-secured: "hCeYBmUqWRuSgykJAsHJjUI+S2Cr03gGl5Pe0fCkyToEV6/RRfchifyLPE2iayCN6u72PRq/D2DsrZW5IxiNqPxIJ45gJAIgMyJlut0vefWHWEL42bgu4zXNJt/8G1j+3fvUEND0Bdxdn3QLxRFXRBxEaPVtyEUnZKGvQ6jbkN24y9EWEMQinxFq95AwWyezpWs7QJKv8NyPrr/JY+GHmUjmEFMnjtUFvuvzryC6sYAbeD6LfMOuKIUIcF8uh3NfXJ2oiWuYY/Han6/k0SEn61yh+wgZEF0Vuab11J8RyS/Ul0z3900FPrbCXeHdxdK7ghIYjzGvBIvaRK+1O9mIcKNj9W/2YG2aoXNmIIPJNBk=;r9OV5dPp1LDFabax4bFtWg=="
+secured: "2Qq3jIMzqSf2qq1pqynriGfBfCtk+b82YIm/kjbzx6hhGFpLHv1I57LULqZOMUONEuEWl86BCe4AGbf+z/TlASsvLZWWU82HNmrCZtYX+77LXyfXiTVakBLXFRpyJegVcDcutdAd0Giy+LEdcQC4Nl2oQNMglgAUuv5bm0MzHvd/c3xPxtvO9s2MgDAgm2VjIqVGAjrqjG2L7RvL5cEX8t7Qt/2+VRorB4rsl3xJWEGuTGkfb0KuMutZO30DgEgBmNe/g+1SjJdy/HBczj6r2vMj5TnzTR25HInAccSHUUU4yEnrRDjUR376tDbKOF/e47nalnsvKUruknYMnQqgMzrMXpN766PtKfOBCge+mO4=;yl3oqfFw9zbIyM2Sh7ZYJQ=="
 ---
 

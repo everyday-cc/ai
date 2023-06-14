@@ -244,6 +244,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-13-openais-tussle-with-gpu-shortage-sam-altmans-future-plans-for-chatgpt-revealed-in-a-leaked-blog-post.md",
+      "title": "OpenAI’s tussle with GPU shortage, Sam Altman’s future plans for ChatGPT revealed in a leaked blog post",
+      "excerpt": "Sam Altman recently attended a closed-door meeting in London and one of the participants took to their blog to reveal some confidential information.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-gpt5-leaked-blogpost-chatgpt-8660435/",
+      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-gpt5-leaked-blogpost-chatgpt-8660435/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/06/AI-Black-Box-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-gpt5-leaked-blogpost-chatgpt-8660435/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-gpt5-leaked-blogpost-chatgpt-8660435/lite/",
+      "publishedDateTime": "2023-06-13T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-uk-tech-vies-for-ai-startups-to-escape-silicon-valleys-shadow.md",
       "title": "UK Tech Vies for AI Startups to Escape Silicon Valley’s Shadow",
       "excerpt": "And yet, there’s no shortage of veteran London investors unswayed in their optimism. They say there’s an opportunity for the UK to seize tech’s next wave by setting its own financing and regulation rules, distinct from Brussels and the US.",
@@ -305,7 +348,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1391,49 +1434,6 @@
       "provider": {
         "name": "Semiconductor Engineering",
         "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-broadcom-ceo-sees-rising-ai-chip-demand-earnings-were-strong.md",
-      "title": "Broadcom CEO Sees Rising AI Chip Demand. Earnings Were Strong.",
-      "excerpt": "Chip maker Broadcom reported better-than-expected earnings for its fiscal second quarter. The revenue outlook topped Wall Street's forecast, as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "originalUrl": "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-791517/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "publishedDateTime": "2023-06-01T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null
