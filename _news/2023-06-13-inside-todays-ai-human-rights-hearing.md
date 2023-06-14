@@ -25,91 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "It’s Humans And AI, Not Humans Vs. AI"
-    excerpt: "In 2013, IBM and MD Anderson embarked on a joint project ... The bar was set too high for Watson Health. In the area of diagnoses then, AI cannot replace humans—at least, not yet—but it can assist in certain diagnoses where there is enough data."
-    publishedDateTime: 2023-06-12T15:33:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/"
+  - title: "Jeep says Artificial Intelligence is heading off-road"
+    excerpt: "The AI and autonomous off-road driving technology developed by Jeep has been installed in two hybrid Jeep Grand Cherokee 4xe test vehicles. According to Jeep, the purpose of this"
+    publishedDateTime: 2023-06-11T20:00:00Z
+    webUrl: "https://www.drive.com.au/news/jeep-says-artificial-intelligence-is-heading-off-road/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6487382d36c8dc564b5004be/0x0.jpg?format=jpg&width=1200"
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:good,w_1200/cms/uploads/mm6gqcquwz10snybg79k"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "AI News - Page 2"
-    excerpt: "Qualcomm jumps on the AI train at Microsoft Build 2023, bringing AI access directly to devices running on its latest Snapdragon chip for Windows. Musk threatened to sue the company a month ago after a Microsoft advertising platform dropped support for Twitter."
-    publishedDateTime: 2023-06-09T15:26:00Z
-    webUrl: "https://www.pcmag.com/news/categories/ai?page=2"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://www.pcmag.com/images/pcmag-social-share.jpg"
-        width: 997
-        height: 1201
-        isCached: true
-  - title: "Artificial Intelligence: What is AI, is it dangerous and what jobs are at risk?"
-    excerpt: "Artificial intelligence (AI) technology is developing at high speed, and is transforming many aspects of modern life. However, some experts fear that it could be used for malicious purposes, and may threaten jobs. AI allows a computer to think, act, and respond like a human."
-    publishedDateTime: 2023-06-14T02:42:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-65855333?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-65855333.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65855333.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 68
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4F16/production/_130064202_microsoftteams-image-7.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Google’s CEO Talks AI, Jobs and More"
-    excerpt: "Bloomberg Chief Washington Correspondent Joe Mathieu delivers insight and analysis on the latest headlines from the White House and Capitol Hill, including conversations with influential lawmakers and key figures in politics and policy."
-    publishedDateTime: 2023-06-12T16:50:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-12/google-ceo-sundar-pichai-on-how-its-ai-chatbot-bard-stacks-up"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSCmk1xSalro/v1/1200x799.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "What happens if AI grows smarter than humans? The answer worries scientists."
-    excerpt: "Some AI experts have begun to confront the 'Singularity.' What they see scares them. In 1993, computer scientist and sci-fi author Vernor Vinge predicted that within three decades, we would have the technology to create a form of intelligence that surpasses our own."
-    publishedDateTime: 2023-06-12T10:00:00Z
-    webUrl: "https://www.popsci.com/science/ai-singularity/"
-    ampWebUrl: "https://www.popsci.com/science/ai-singularity/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/ai-singularity/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 54
-    images:
-      - url: "https://www.popsci.com/uploads/2023/06/09/agent-smith-the-matrix-singularity-ai.jpg?auto=webp"
-        width: 2000
-        height: 1112
-        isCached: true
-  - title: "What Could AI Replace In Your Company, And What Should You Keep Human?"
-    excerpt: "No topic is dominating current headlines more than artificial intelligence (AI). In the past month alone, we’ve questioned the ethics of AI-aided “overemployment,” been warned about questionable AI-run news websites and seen an influx of AI-generated ..."
-    publishedDateTime: 2023-06-12T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/12/what-could-ai-replace-in-your-company-and-what-should-you-keep-human/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "SeZwNXtNII1I985f457hWAXE2lI/jL9HNigMZFlZgXKJlO8F/fwB55E1vADln+/sNuzQ78InYAC9MBDqL8aD6w6yHyiV7yAZwImmyPTKWv0CDHqgKpGQ2LLkHEhNJZH0beNhtcSHVXH22Fu5yrhZ7FuDl/0mmFrpAJbXkkhF7KrPESjZNwlKP0T1+f6rmhvYmhYqXqAoBMqpBkA5IXSr8uaafqbUJWBQpmsSZMGRtOnzl6++6m6QIY6cPqIoqA0JhqUjR+CB8Magx0BC+VOPwVqiBpbuhRE+cOSCTkzDjDEHTsHCjZoafle+86vxTDaqKjaSuYlrMfE2Y6tYxbmvQagOpwD1Ec7Ttq4LSHK1CHqXpqzOu0CpH0Rz9N5ONVeBUigo75gZohBTbfQg+Dxu2IFxmUhec4ChI4KmNRO9nqEs9XpuPdDAaN3gCRpnLxHVXrnUUvmC355tcs0nl37CZYE77OMZGWgC3qfzFlDfhVNRtQdvSbEGhjf0ufX/kat7VopEHEMglYe/kEVD3HP+bg==;k8Q7PgyafFSme77uypcXSQ=="
 ---

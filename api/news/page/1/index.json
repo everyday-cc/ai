@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-14-aws-is-considering-amds-new-ai-chips.md",
-      "title": "AWS is considering AMD’s new AI chips",
-      "excerpt": "Amazon Web Services, the world’s largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision, an AWS executive said. The remarks came during an AMD event where the chip company outlined its strategy for the AI market,",
+      "path": "_news/2023-06-14-amazons-cloud-unit-is-considering-amds-new-ai-chips.md",
+      "title": "Amazon's cloud unit is considering AMD's new AI chips",
+      "excerpt": "The remarks came during an AMD event where the chip company outlined its strategy for the AI market, which is dominated by rival Nvidia Corp",
       "sourceUrl": null,
-      "webUrl": "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/",
-      "originalUrl": "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/",
+      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3",
+      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://techcentral.co.za/wp-content/uploads/2022/11/lisa-su-1500-800.jpg",
-          "width": 1500,
-          "height": 800,
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/ODVkMDI4YTctNWQ1Yy00/1/usa-treasury-cloud-computing.jpeg?f=3%3A2",
+          "width": 834,
+          "height": 556,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T00:13:00-07:00",
+      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1",
+      "publishedDateTime": "2023-06-14T02:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCentral",
-        "domain": "techcentral.co.za",
+        "name": "Zawya",
+        "domain": "zawya.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,8 +41,256 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-artificial-intelligence-what-is-ai-is-it-dangerous-and-what-jobs-are-at-risk.md",
+      "title": "Artificial Intelligence: What is AI, is it dangerous and what jobs are at risk?",
+      "excerpt": "Artificial intelligence (AI) technology is developing at high speed, and is transforming many aspects of modern life. However, some experts fear that it could be used for malicious purposes, and may threaten jobs. AI allows a computer to think, act, and respond almost as if it was a human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-65855333",
+      "originalUrl": "https://www.bbc.com/news/technology-65855333",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/176FB/production/_129959959_gettyimages-1430317544.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-65855333.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65855333.amp",
+      "publishedDateTime": "2023-06-14T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
-        "AWS AI"
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-how-europe-is-leading-the-world-in-the-push-to-regulate-artificial-intelligence.md",
+      "title": "How Europe Is Leading the World in the Push to Regulate Artificial Intelligence",
+      "excerpt": "One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights and values.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6287116/european-union-artificial-intelligence-law/",
+      "originalUrl": "https://time.com/6287116/european-union-artificial-intelligence-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-magic-mushrooms-1-hearing-aids-medical-marvels-disrupting-healthcare.md",
+      "title": "Magic Mushrooms, $1 Hearing Aids: Medical Marvels Disrupting Healthcare",
+      "excerpt": "Magic mushrooms for depression. $1 hearing aids. Meds for 85 percent less. These are just a few of the advances these healthcare disruptors are engineering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/2023/06/30/magic-mushrooms-1-hearing-aids-medical-marvels-disrupting-healthcare-1805918.html",
+      "originalUrl": "https://www.newsweek.com/2023/06/30/magic-mushrooms-1-hearing-aids-medical-marvels-disrupting-healthcare-1805918.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2245526/fe-medical-marvels-10-banner.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief.md",
+      "title": "AI discrimination is a bigger risk than human extinction – EU chief",
+      "excerpt": "Commissioner says existential threat unlikely, but ‘guardrails’ needed for decision affecting livelihoods",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ed7d6122dae2ae5743e39dcebd623cd20d0a633a/0_595_5315_3189/master/5315.jpg?width=620&quality=85&auto=format&fit=max&s=0bb181e3b0d8b64b069d8b5391390825",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
+      "publishedDateTime": "2023-06-14T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-korea-issues-first-ai-ethics-checklist.md",
+      "title": "Korea issues first AI ethics checklist",
+      "excerpt": "The government has outlined the first national standard on how to use artificial intelligence (AI) ethically, in a move to bolster the emerging industry's sustainability and enhance its global presence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/06/419_352971.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/06/419_352971.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202306/aea2f90aea944e83a89d1db0b41f89a7.jpg",
+          "width": 980,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352971",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352971",
+      "publishedDateTime": "2023-06-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -236,7 +484,7 @@
       "originalUrl": "https://siliconangle.com/2023/06/13/amd-launches-new-instict-mi300x-ai-chip-to-take-on-nvidias-gpus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -536,7 +784,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -787,7 +1035,7 @@
       "originalUrl": "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -980,248 +1228,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-ai-powered-malware-is-a-growing-security-concern-cyberark-survey-finds.md",
-      "title": "AI-powered malware is a growing security concern, CyberArk survey finds",
-      "excerpt": "AI-enabled threats are a major concern; 93% of cybersecurity professionals surveyed expect such threats to impact their organization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/ai-powered-malware-is-a-growing-security-concern-cyberark-survey-finds/",
-      "originalUrl": "https://venturebeat.com/security/ai-powered-malware-is-a-growing-security-concern-cyberark-survey-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_a_computer_screen_displays_a_pixellated_skull_and_cross_95c92a74-f651-4ddf-ae1d-891284dd88bf.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-cadence-ai-can-increase-chip-designer-productivity-by-over-10x.md",
-      "title": "Cadence AI Can Increase Chip Designer Productivity By Over 10X",
-      "excerpt": "Company’s clients have readied over 180 new chips using Cerebras AI to speed development and make chips that run faster, use less energy, and cost less.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64597b7ef0c1a34df22796e1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/amp/",
-      "publishedDateTime": "2023-06-13T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
-      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "originalUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "publishedDateTime": "2023-06-13T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7",
-        "domain": "abc7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-the-benefits-of-automated-attack-surface-management.md",
-      "title": "The benefits of automated attack surface management",
-      "excerpt": "Start automating attack surface management with IBM Security Randori Recon.\nThe post The benefits of automated attack surface management appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-benefits-of-automated-attack-surface-management/",
-      "originalUrl": "https://www.ibm.com/blog/the-benefits-of-automated-attack-surface-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/21_58_p_gorodenkoff-023.lr_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T06:13:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-why-use-python-for-ai-and-machine-learning.md",
-      "title": "Why Use Python for AI and Machine Learning?",
-      "excerpt": "1. Versatility: The extensive libraries of Python and its framework provide various tools for tasks like NLP, data manipulation, and Machine Learning. This usage flexibility gives the AI developers the leverage to integrate different components and develop an intricate AI system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning-11686566054332.html",
-      "originalUrl": "https://www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning-11686566054332.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/06/12/600x338/Screenshot_2023-06-12_160547_1686566275246_1686566280852.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning/amp-11686566054332.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning/amp-11686566054332.html",
-      "publishedDateTime": "2023-06-13T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

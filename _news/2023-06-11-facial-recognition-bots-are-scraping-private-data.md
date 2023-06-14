@@ -41,20 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "USM Student Organization Receives National Recognition"
-    excerpt: "The National Student Speech Language Hearing Association (NSSLHA) Chapter at The University of Southern Mississippi (USM) has been awarded Gold Chapter Honors for attaining a distinguished level of achievement in the areas of member recruitment and ..."
-    publishedDateTime: 2023-06-09T16:22:00Z
-    webUrl: "https://www.usm.edu/news/2023/release/gold-chapter-honors.php"
-    type: article
-    provider:
-      name: usm
-      domain: usm.edu
-    quality: 24
-    images:
-      - url: "https://www.usm.edu/news/2022/_images/dome_gold_background_2020.jpg"
-        width: 598
-        height: 399
-        isCached: true
 
 secured: "Yyc+159DLv1oreSCfouEO7KeaX1WNgdItnVlnatlVSyAQqpTPu+NykvvAjStQWJiq87R7h/N7wy4cSyetGqydUFycIdqs9AuhNjrDixQqMQ4JP2LcWXzu2D+rf5shGws982zaV+Lq6lIqUxx4b5KVnul/wguvlgeVjulXlL7QYzLzmhv4qdmhUAxOc7gdnec7W7jytJHOdQmE26jMQkPpdsBG4vl32xD+aLaHTcVmEEEL7OXusRibHIfLWGOalJD6tPQx+ndlEj3TEZxASQS7XhTht3f+eP7Y+VMcHpzyXLlzncYqoJETGEoQn2d/3UogCGtVJCsGdf/21smGZswQx4djz3Msi9QV0S15LQdsfxF40PRcPHuQ0JugqyoQq3gJD6FgLMZqb3PeNOM3Yl5Pq89ubvpM1KCq3+++uZbaD3E5Agu3niBoM4u6UEkA2tV6rApH7X3p58dki7b71uWCU/jkkQ5A4eR/JInnV51ytJ6tMiFyH3gKSDRhi37PoWUbFiwrZUSl26Qa4qALwk6GQ==;JcrNBSDIpeDe4Tl1EqUJIA=="
 ---

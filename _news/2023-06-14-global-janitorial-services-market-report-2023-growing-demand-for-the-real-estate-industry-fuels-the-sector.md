@@ -49,15 +49,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Artificial Intelligence (AI) in MRI Global Market Report 2023: Sector to Reach $1.53 Billion by 2028 at a 35.7% CAGR"
-    excerpt: "The artificial intelligence in MRI market is projected to grow at a CAGR of 35.7% to reach US$1,539.622 million in 2028 from US$181.720 million in 2021. Artificial Intelligence (AI) is increasingly used in Magnetic Resonance Imaging (MRI) to improve image quality,"
-    publishedDateTime: 2023-06-09T16:39:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/09/9830077.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
 
 secured: "z2i6qUMlBJDg5yMzJYcBGutGa9IVN3LRnh8LxqEXO94RKsyw9Og066W8twP947nPpLekExT86bvj2gxgS4w0sFUUHvvEyUaYDbCiFHmePqUWfOix7IbtvJUC1aQBLTyk8ftm7otmKtbTA6/hu0MDv4fPT6u7bRVpMIPaxZmjh/2uC7x49ledS17JDW9Y6pPUwqfOhGVwU9YrXceJQY7aRX3Cdy9psVbGuGviofijdYRPEinQm8V8AXWpraL5bALTUvDf9/MpQ2XALFNjoVqChriQ4zt99x7kVUTgp5EHzX8m6MRo8ZsC4wUTDenjep4U8DZsIlUQTSQt6CE3kUZP0EMno2Av7JO8pWYALtwS8oM=;kScDXrRVa1+zNYbowse7qQ=="
 ---

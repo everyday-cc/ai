@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-06-02-broadcom-ceo-sees-rising-ai-chip-demand-earnings-were-strong.md",
-      "title": "Broadcom CEO Sees Rising AI Chip Demand. Earnings Were Strong.",
-      "excerpt": "Chip maker Broadcom reported better-than-expected earnings for its fiscal second quarter. The revenue outlook topped Wall Street's forecast, as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "originalUrl": "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-791517/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "publishedDateTime": "2023-06-01T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-02-what-are-ai-chips-and-why-are-they-hot.md",
       "title": "What are AI chips and why are they hot?",
       "excerpt": "SAN FRANCISCO >> The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper.",
@@ -1458,6 +1415,59 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei.md",
+      "title": "Nvidia CEO reveals groundbreaking generative AI innovations for industries at COMPUTEX Taipei",
+      "excerpt": "Huang believes the innovations will facilitate new business models and enhance efficiency across a multitude of industries.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-28T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI",
         "AI Hardware"
       ]

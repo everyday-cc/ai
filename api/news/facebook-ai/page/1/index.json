@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-14-artificial-intelligence-what-is-ai-is-it-dangerous-and-what-jobs-are-at-risk.md",
+      "title": "Artificial Intelligence: What is AI, is it dangerous and what jobs are at risk?",
+      "excerpt": "Artificial intelligence (AI) technology is developing at high speed, and is transforming many aspects of modern life. However, some experts fear that it could be used for malicious purposes, and may threaten jobs. AI allows a computer to think, act, and respond almost as if it was a human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-65855333",
+      "originalUrl": "https://www.bbc.com/news/technology-65855333",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/176FB/production/_129959959_gettyimages-1430317544.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-65855333.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65855333.amp",
+      "publishedDateTime": "2023-06-14T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-meta-steps-up-ai-game-by-open-sourcing-i-jepa-its-human-like-image-creation-model.md",
       "title": "Meta Steps Up AI Game By Open-Sourcing I-JEPA — Its 'Human-Like' Image Creation Model",
       "excerpt": "What Happened: In line with Zuckerberg’s previous statement that Meta plans to adopt an open approach in terms of AI development, the parent company of Facebook and Instagram ... publishing open-sourced AI research through its dedicated in ...",
@@ -1389,59 +1441,6 @@
         "Facebook AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages.md",
-      "title": "Microsoft aims to win the AI app race with three big advantages",
-      "excerpt": "At Build, Microsoft showed off its efforts to extend its AI-powered app ecosystem and plugin framework. But this is no easy race to win.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 426,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-75.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
-      "publishedDateTime": "2023-05-24T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
       ]
     }
   ],

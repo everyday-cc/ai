@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/u-s-cyber-envoy-warns-that-european-a
 webUrl: "https://www.wsj.com/articles/u-s-cyber-envoy-warns-that-european-ai-rules-could-stymie-sector-a78cca83"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "How Europe Is Leading the World in the Push to Regulate Artificial Intelligence"
+    excerpt: "One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights and values."
+    publishedDateTime: 2023-06-14T09:30:00Z
+    webUrl: "https://time.com/6287116/european-union-artificial-intelligence-law/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 63
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
 
 secured: "y+ZyhXsozmRzVy6nrJtJ6X0aaQn4iCnMF+Z9mdP2najxwlZnM4OWlA9RUvCrYr41EfkjfZxVKML2SRERwRzoUlEsD9ew1bpfVSW8go0eFsVbjwoUgx74sc52v1UCWHVb3SH/GaP05Oap+y8QdC6y7HkccVpwXMyGKUNhTBvZWhZGLn7ED4/8Hr8mVZV3gcUr/cm34F2u6wn3YT4QpJkutYrpnaAlc+/ibfZPkM5+3HsbpxypNrLWu20lqX9z99xdaPhI+wGsAPiC/vpDMwkZYNUZfbXAgYAKK+OvpT33E60Ihs1GOUTudK3tmA/tfBXk1GOJBCkJIa6ZeOkj80fOJOk++jEDWMI6YGJnudS2QHQ5CQkWYddIWBQqsvMoZYlAQ4HDYKGDKdtp4Ak1LouiL1Pcz8321wQI6j77SDXjAXmXU7sFre07u74M5OxSRqRK7Iw9KhxPV/qRmUyU0UGoHyif9nhsM/x2BWCZHdHz1I1CmS1QJFpxOki78wmb21nehrbTBBfdNlFlmXxuLcPHdQ==;MbuJmZEQVrIFkxYfK4QuVw=="
 ---

@@ -76,22 +76,6 @@ related:
         width: 800
         height: 478
         isCached: true
-  - title: "Self-driving Google robotaxi hit and killed a dog in San Francisco during test drive"
-    excerpt: "A Waymo rep said the self-driving car’s software “correctly identified the dog” but “was not able to avoid contact,” killing it in March."
-    publishedDateTime: 2023-06-09T16:10:00Z
-    webUrl: "https://nypost.com/2023/06/09/self-driving-google-robotaxi-hit-and-killed-a-dog/"
-    ampWebUrl: "https://nypost.com/2023/06/09/self-driving-google-robotaxi-hit-and-killed-a-dog/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/09/self-driving-google-robotaxi-hit-and-killed-a-dog/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 37
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012409491.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Self-driving car couldn’t avoid running over and killing dog in US street, reports say"
     excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said."
     publishedDateTime: 2023-06-13T08:35:00Z

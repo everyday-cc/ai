@@ -239,6 +239,40 @@
       ]
     },
     {
+      "path": "_news/2023-06-09-wimi-hologram-cloud-developed-an-efficient-cgh-technology-based-on-deep-learning-and-neural-networks.md",
+      "title": "WiMi Hologram Cloud Developed an Efficient CGH Technology Based on Deep Learning and Neural Networks",
+      "excerpt": "PRNewswire/––WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced a new and more efficient solution for computer-generated holography (CGH) through deep learning and neural network technology.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/09/9829947.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/09/9829947.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-09T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-sanchar-shakti.md",
       "title": "The AI Revolution: How Machine Learning is Changing the Way We Live and Work : Sanchar Shakti",
       "excerpt": "In the discussion like this we can talk on & on but raising concerns and suggesting solutions  are not going to work . We need a robust platform where these suggestions become our way of life that turns  our choices into our command says “Productivity Conultant & Founder of Sanchar Shakti” Kabeer Goswami.",
@@ -1325,41 +1359,6 @@
       "provider": {
         "name": "The Bakersfield Californian",
         "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for-enhanced-image-quality-in-petct-advancing-its-leadership-position.md",
-      "title": "GE HealthCare Receives FDA Clearance of a New Deep Learning Solution for Enhanced Image Quality in PET/CT, Advancing its Leadership Position in AI",
-      "excerpt": "GE HealthCare (Nasdaq: GEHC) today announced US FDA 510(k) clearance of Precision DL – a new, revolutionary deep learning-based image processing software included in GE HealthCare&CloseCurlyQuote;s growing Effortless Recon DL portfolio. Precision DL ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2023/05/30/ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2023/05/30/ge-healthcare-receives-fda-clearance-of-a-new-deep-learning-solution-for",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null

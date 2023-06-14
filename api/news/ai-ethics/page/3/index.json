@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-06-president-biden-meets-with-ai-ceos-at-the-white-house-amid-ethical-criticism.md",
+      "title": "President Biden meets with AI CEOs at the White House amid ethical criticism",
+      "excerpt": "On Thursday, President Joe Biden held a meeting at the White House with CEOs of leading AI companies, including Google, Microsoft, OpenAI, and Anthropic,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1252673513-800x533.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/",
+      "publishedDateTime": "2023-05-05T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-06-how-microsoft-might-turn-bing-chat-into-your-ai-personal-assistant.md",
       "title": "How Microsoft might turn Bing Chat into your AI personal assistant",
       "excerpt": "Commentary: After analyzing recent Microsoft developer content, expert Simon Bisson says there is a big clue into how Bing Chat will work.",
@@ -1399,58 +1451,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-we-all-contribute-to-ai-should-we-get-paid-for-that.md",
-      "title": "We all contribute to AI — should we get paid for that?",
-      "excerpt": "The idea is for people to “get paid for what they create, even when it is filtered and recombined” into something that’s unrecognizable. The concept isn’t brand new, with Lanier first introducing the notion of data dignity in a 2018 Harvard Business Review piece titled,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/",
-      "originalUrl": "https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816",
-          "width": 1200,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/amp/",
-      "publishedDateTime": "2023-04-21T19:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

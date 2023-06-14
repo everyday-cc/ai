@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/atlanta/news/2023/06/09/generative-ai-
 webUrl: "https://www.bizjournals.com/atlanta/news/2023/06/09/generative-ai-unicorn-startups.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Unicorns are hard to come by, unless you're an AI startup"
-    excerpt: "The number of tech upstarts valued at $1 billion has fallen from its peak in 2021, but there's new traction the AI space in particular."
-    publishedDateTime: 2023-06-09T16:24:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/inno/stories/news/2023/06/09/generative-ai-unicorn-startups.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
   - title: "Unicorns are hard to come by, unless you're an AI startup"
     excerpt: "Some of the largest funding rounds include OpenAI's deal with Microsoft Corp. that valued the ChatGPT maker at $28 billion, and Cohere, a generative AI startup founded by ex-Google researchers, raising $250 million. The continued investment in artificial ..."
     publishedDateTime: 2023-06-12T13:31:00Z

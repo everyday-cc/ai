@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Amazon's cloud unit is considering AMD's new AI chips"
+    excerpt: "The remarks came during an AMD event where the chip company outlined its strategy for the AI market, which is dominated by rival Nvidia Corp"
+    publishedDateTime: 2023-06-14T09:52:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 74
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ODVkMDI4YTctNWQ1Yy00/1/usa-treasury-cloud-computing.jpeg?f=3%3A2"
+        width: 834
+        height: 556
+        isCached: true
   - title: "AWS is considering AMD’s new AI chips"
     excerpt: "Amazon Web Services, the world’s largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision, an AWS executive said. The remarks came during an AMD event where the chip company outlined its strategy for the AI market,"
     publishedDateTime: 2023-06-14T07:13:00Z
@@ -35,19 +51,35 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Amazon's cloud unit is considering AMD's new AI chips"
-    excerpt: "The remarks came during an AMD event where the chip company outlined its strategy for the AI market, which is dominated by rival Nvidia Corp. Despite AMD disclosing some technical specifications for an AI chip coming later this year that could in some ways ..."
-    publishedDateTime: 2023-06-14T03:48:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/amazons-cloud-unit-is-considering-amds-new-ai-chips/100981067"
+  - title: "AMD’s New Chip Fails to Impress Investors. It’s Still an AI Winner, Analyst Says."
+    excerpt: "The chip maker's big product launch may have left investors feeling uninspired but it can still challenge Nvidia, according to one analyst."
+    publishedDateTime: 2023-06-14T08:56:00Z
+    webUrl: "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3"
+    ampWebUrl: "https://www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
+      name: Barron's
+      domain: barrons.com
+    quality: 69
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-100981067,imgsize-71564,width-1200,height=765,overlay-etcio/cloud-computing/amazons-cloud-unit-is-considering-amds-new-ai-chips.jpg"
-        width: 1200
-        height: 765
+      - url: "https://images.barrons.com/im-574599/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "AMD Eyes AI, Cloud Expansion With Instinct MI300X, EPYC 97X4 Chips"
+    excerpt: "AMD is taking aim at Nvidia for running large language models with its upcoming Instinct MI300X GPU while targeting cloud workloads with its new EPYC 97X4 Bergamo CPUs."
+    publishedDateTime: 2023-06-13T20:36:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/amd-eyes-ai-cloud-expansion-with-instinct-mi300x-epyc-97x4-chips"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 56
+    images:
+      - url: "https://www.crn.com/resources/0282-183fb0570bbb-6da6e9757d14-1000/amd_instinct.png"
+        width: 600
+        height: 450
         isCached: true
   - title: "Full AMD announcement: New chips and AI tech"
     excerpt: "From cloud and enterprise data centres to 5G networks to AI, automotive, healthcare, PC's and so much more, AMD technology is truly everywhere and we're touching the lives of billions of people every day. Today, we're here to talk about our newest epic ..."

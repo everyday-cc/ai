@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/06/13/amd-launches-new-instict-mi300
 webUrl: "https://siliconangle.com/2023/06/13/amd-launches-new-instict-mi300x-ai-chip-to-take-on-nvidias-gpus/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -41,19 +41,21 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "AMD Eyes AI, Cloud Expansion With Instinct MI300X, EPYC 97X4 Chips"
-    excerpt: "AMD is taking aim at Nvidia for running large language models with its upcoming Instinct MI300X GPU while targeting cloud workloads with its new EPYC 97X4 Bergamo CPUs."
-    publishedDateTime: 2023-06-13T20:36:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/amd-eyes-ai-cloud-expansion-with-instinct-mi300x-epyc-97x4-chips"
+  - title: "AMD reveals new A.I. chip challenging Nvidia's dominance"
+    excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday, June 13, gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp. The California-based AMD said its most-advanced graphics processing unit (GPU) for AI ..."
+    publishedDateTime: 2023-06-14T09:41:00Z
+    webUrl: "https://cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance"
+    ampWebUrl: "https://cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance/amp"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 56
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
     images:
-      - url: "https://www.crn.com/resources/0282-183fb0570bbb-6da6e9757d14-1000/amd_instinct.png"
-        width: 600
-        height: 450
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/7c1f330a-757a-42bd-a5d2-ce768bc15a4b.jpg"
+        width: 740
+        height: 492
         isCached: true
   - title: "Google Launches AI Supercomputer Powered By Nvidia H100 Gpus"
     excerpt: "By integrating Nvidia's cutting-edge NVIDIA H100 Tensor Core GPU into its supercomputer infrastructure, Google aims to accelerate the development and deployment of advanced AI models and algorithms. The H100 GPUs, renowned for their exceptional performance ..."
@@ -68,6 +70,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-06/13/F_f7d31image_story.JPG"
         width: 964
         height: 492
+        isCached: true
+  - title: "AMD faces path dependency fight as it challenges Nvidia with MI300X AI GPU"
+    excerpt: "Advanced Micro Devices Inc. (AMD) on June 13 revealed its most-advanced GPU for artificial intelligence (AI), the MI300X, trying to get a bigger bite of the pie of the GPU market that has been dominated by Nvidia."
+    publishedDateTime: 2023-06-14T07:37:00Z
+    webUrl: "https://www.digitimes.com/news/a20230614VL207/commentary-ai-gpu-amd-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 52
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230614vl207_files/2_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "AMD unveils new A.I. chip to rival Nvidia"
     excerpt: "AMD reveals the MI300X chip that supports up to 192GB of memory. Scott Nations still cautions against buying AMD shares at current price."

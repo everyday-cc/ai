@@ -26,64 +26,95 @@ images:
     isCached: true
 
 related:
-  - title: "AMD launches new Instict MI300X AI chip to take on Nvidia’s GPUs"
-    excerpt: "During a keynote speech, AMD Chair and Chief Executive Lisa Su announced the company’s new Instinct MI300X accelerator, which is targeted specifically at generative AI workloads. Generative AI is the technology that underpins OpenAI’s famed chatbot ChatGPT,"
-    publishedDateTime: 2023-06-14T01:47:00Z
-    webUrl: "https://siliconangle.com/2023/06/13/amd-launches-new-instict-mi300x-ai-chip-to-take-on-nvidias-gpus/"
+  - title: "Amazon's cloud unit is considering AMD's new AI chips"
+    excerpt: "The remarks came during an AMD event where the chip company outlined its strategy for the AI market, which is dominated by rival Nvidia Corp"
+    publishedDateTime: 2023-06-14T09:52:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Zawya
+      domain: zawya.com
+    quality: 74
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ODVkMDI4YTctNWQ1Yy00/1/usa-treasury-cloud-computing.jpeg?f=3%3A2"
+        width: 834
+        height: 556
+        isCached: true
+  - title: "AWS is considering AMD’s new AI chips"
+    excerpt: "Amazon Web Services, the world’s largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision, an AWS executive said. The remarks came during an AMD event where the chip company outlined its strategy for the AI market,"
+    publishedDateTime: 2023-06-14T07:13:00Z
+    webUrl: "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 71
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/11/lisa-su-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "AMD’s New Chip Fails to Impress Investors. It’s Still an AI Winner, Analyst Says."
+    excerpt: "The chip maker's big product launch may have left investors feeling uninspired but it can still challenge Nvidia, according to one analyst."
+    publishedDateTime: 2023-06-14T08:56:00Z
+    webUrl: "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3"
+    ampWebUrl: "https://www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
     quality: 69
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image_2023-06-14_084033192.png"
-        width: 687
-        height: 371
+      - url: "https://images.barrons.com/im-574599/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "AMD Unleashes EPYC Bergamo And Genoa-X Data Center CPUs, AI-Ready Instinct MI300X GPUs"
-    excerpt: "AMD has announced the next flavors of 4th Gen EPYC, Genoa-X and Bergamo. Genoa-X uses 3D V-Cache to boost technical computing workloads, while Bergamo has a slimmer, scaled out approach to accelerate cloud native workloads."
-    publishedDateTime: 2023-06-13T23:08:00Z
-    webUrl: "https://hothardware.com/news/amd-epyc-bergamo-genoa-x-instinct-mi300x"
-    ampWebUrl: "https://amp.hothardware.com/news/amd-epyc-bergamo-genoa-x-instinct-mi300x"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-epyc-bergamo-genoa-x-instinct-mi300x"
+  - title: "AMD to ramp up AI chip production this year"
+    excerpt: "and a key performance measure for how well the chip will handle the large AI systems behind services similar to ChatGPT. \"There's no question that AI will be the key driver of silicon consumption for the foreseeable future,\" Su said. Su said customers will ..."
+    publishedDateTime: 2023-06-14T05:39:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 66
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61835/content/small_amd-bergamo-hero.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "Google Launches AI Supercomputer Powered By Nvidia H100 Gpus"
-    excerpt: "By integrating Nvidia's cutting-edge NVIDIA H100 Tensor Core GPU into its supercomputer infrastructure, Google aims to accelerate the development and deployment of advanced AI models and algorithms. The H100 GPUs, renowned for their exceptional performance ..."
-    publishedDateTime: 2023-06-13T07:40:00Z
-    webUrl: "https://menafn.com/1106429818/Google-Launches-AI-Supercomputer-Powered-By-Nvidia-H100-Gpus"
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
+  - title: "Full AMD announcement: New chips and AI tech"
+    excerpt: "From cloud and enterprise data centres to 5G networks to AI, automotive, healthcare, PC's and so much more, AMD technology is truly everywhere and we're touching the lives of billions of people every day. Today, we're here to talk about our newest epic ..."
+    publishedDateTime: 2023-06-13T23:48:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/full-amd-announcement-new-chips-and-ai-tech.html"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: ITWire
+      domain: itwire.com
     quality: 54
     images:
-      - url: "https://menafn.com/updates/pr/2023-06/13/F_f7d31image_story.JPG"
-        width: 964
-        height: 492
+      - url: "https://itwire.com/media/k2/items/cache/79724cb994733508a57bdd218e615dd2_M.jpg"
+        width: 375
+        height: 211
         isCached: true
-  - title: "AMD unveils new A.I. chip to rival Nvidia"
-    excerpt: "AMD reveals the MI300X chip that supports up to 192GB of memory. Scott Nations still cautions against buying AMD shares at current price."
-    publishedDateTime: 2023-06-13T20:11:00Z
-    webUrl: "https://invezz.com/news/2023/06/13/amd-mi300x-ai-chip-to-rival-nvidia/"
+  - title: "AMD says Meta is using its cloud chip as it rolls out AI strategy update"
+    excerpt: "Advanced Micro Devices said on Tuesday that companies such as Facebook parent Meta Platforms are ordering high volumes of a new central processor, as investors were anxious for updates on a different new chip that is designed specifically for artificial intelligence systems like ChatGPT."
+    publishedDateTime: 2023-06-13T18:27:00Z
+    webUrl: "https://www.aol.com/news/amd-says-meta-using-cloud-110251017.html"
     type: article
     provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 39
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/06/krzysztof-hepner-60g-xu5-zfk-unsplash-min-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: AOL
+      domain: aol.com
+    quality: 35
+  - title: "AMD says Facebook parent Meta is using its cloud chip as it rolls out AI strategy update"
+    excerpt: "The update came as AMD planned to reveal new details about an AI ‘superchip’ that analysts believe will be a strong challenger to Nvidia Corp"
+    publishedDateTime: 2023-06-13T14:31:00Z
+    webUrl: "https://www.theglobeandmail.com/business/technology/article-amd-says-facebook-parent-meta-is-using-its-cloud-chip-as-it-rolls-out/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 27
 
 secured: "Fr44VqIZcxICFvth0yTV666BMshM5BHimHb1by70/QNE/gYAfkGfdN4bRhn6+lfc/fYUL9X/BLm/7O6rJNpw+oJ106mImeZrZa2CwASPJ7RNp5ebRnxg0G7rfaZ8XrxS2GDTIm5/5cwlJJ5Fp0ZTQD9Vv1ovxHXceDS4W1/ClOL8jD7iSFFwvSUIe2b2tHcqHLB3dt6rWz4fBEag1TQDSIC3pmUID0KOpLG9LW2uN9tTAybPXV68raIWa9vVQsZ/hRd39vY8IyzFXr363mg2DjMofruC09+iryH11jETD6oMeMqxhM7oI079ccQx5lNjGQ900ekE4D8CvLW4tvZJB9CXRmNa8Ee9DjJHMBSB8jzm7YRNrsnpw9FQrBnhnsxxBbsQLHgwh5Y6aFNZ58kHFz6YYx3FJmT6he6pGB8xVngoRB21jzcO/N3s6B9sfySoVv2yZIDG+pOheripzo8Hjecncu/3tLlyBgtFDTEkJ0TFMAxK73yrplDM/FMQ8VJ9a5WhDqV9Nr6yz/kbPzbQGg==;p9/pNgfBlQRQLW5z8aeHAg=="
 ---

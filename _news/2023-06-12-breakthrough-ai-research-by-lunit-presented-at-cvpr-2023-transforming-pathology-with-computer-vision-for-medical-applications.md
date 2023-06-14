@@ -41,15 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial Intelligence (AI) in MRI Global Market Report 2023: Sector to Reach $1.53 Billion by 2028 at a 35.7% CAGR"
-    excerpt: "The artificial intelligence in MRI market is projected to grow at a CAGR of 35.7% to reach US$1,539.622 million in 2028 from US$181.720 million in 2021. Artificial Intelligence (AI) is increasingly used in Magnetic Resonance Imaging (MRI) to improve image quality,"
-    publishedDateTime: 2023-06-09T16:39:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/09/9830077.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
   - title: "Global Janitorial Services Market Report 2023: Growing Demand for the Real Estate Industry Fuels the Sector"
     excerpt: "The \"Janitorial Services Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
     publishedDateTime: 2023-06-13T17:59:00Z

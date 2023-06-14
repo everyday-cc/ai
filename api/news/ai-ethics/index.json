@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-14-korea-issues-first-ai-ethics-checklist.md",
+      "title": "Korea issues first AI ethics checklist",
+      "excerpt": "The government has outlined the first national standard on how to use artificial intelligence (AI) ethically, in a move to bolster the emerging industry's sustainability and enhance its global presence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/06/419_352971.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/06/419_352971.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202306/aea2f90aea944e83a89d1db0b41f89a7.jpg",
+          "width": 980,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352971",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352971",
+      "publishedDateTime": "2023-06-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai.md",
       "title": "A Rising Star In The East Lights A Path To Responsible Artificial Intelligence: The Mohammed Bin Zayed University Of AI",
       "excerpt": "As we hurtle into the 21st century, the pivotal role that Artificial Intelligence plays in reshaping our world cannot be ignored.",
@@ -109,7 +152,7 @@
       "originalUrl": "https://www.cbsnews.com/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1402,58 +1445,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law.md",
-      "title": "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law",
-      "excerpt": "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6469acbdc2f130c6c676b6ea/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-05-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

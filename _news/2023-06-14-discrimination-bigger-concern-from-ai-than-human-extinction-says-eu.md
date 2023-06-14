@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/technology-65881389.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65881389.amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI discrimination is a bigger risk than human extinction – EU chief"
+    excerpt: "Commissioner says existential threat unlikely, but ‘guardrails’ needed for decision affecting livelihoods"
+    publishedDateTime: 2023-06-14T08:44:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/ed7d6122dae2ae5743e39dcebd623cd20d0a633a/0_595_5315_3189/master/5315.jpg?width=620&quality=85&auto=format&fit=max&s=0bb181e3b0d8b64b069d8b5391390825"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Discrimination bigger concern from AI than human extinction, says EU chief"
     excerpt: "Discrimination is a more pressing concern from advancing artificial intelligence than human extinction, says EU chief Margrethe Vestager. Ms Vestager told the BBC \"guardrails\" were needed to stop the technology's biggest risks from materialising."
     publishedDateTime: 2023-06-13T23:04:00Z
@@ -43,6 +59,6 @@ related:
         height: 576
         isCached: true
 
-secured: "Fnz6Qgc/RS2LlSGioIpNmAGPAczLIBV4nZmEQ0XAVjPcCunVrxs03IPOw0fTGbxrC+ARVu5GQ0PBGpX8lW5UZMkP8sialbn4ZgevpsswuVr8oZKBPL0sdCr7Z0h03IFZwmkHIYm4F64CTHm6vUSTftjXMzcWXOK6djmuoKcaqecNM9qgvxnKM6JBB3lpkEcyOBQrCh4qAv/HOFYh8/0eXOiF5pCpmAeYnQHauVl1RtYyc0uBS+erlnadoA2YmaBPW2ieevdEtyDlQYdynZgr8g+CSPXWqnML02NnMi3Tpsy4nTY+vPsv3SGCmiX2nuAvibgGUJ2mumpxRmsj9WQ3pABQuwwmZtKxpzywYbDPPcY=;4mEae4G0hYGSxwf4+h98/w=="
+secured: "yV6xAEiHQP/lILrE9+M9po7j5KEkPdQHVcAabeu12fErz+OBPM9SzF89/jKQnEOaOABqhELYqkQN2uqM7S98cAo6cB4XyTpR3GpA2LuBH49MCs/tObIbnU2n+EtSbsL4OQa2Ht2boNDVFUJwu/tFG2r/cQOo/TaCAadO/mdTtD/xtoDkDRR/pOCHi8BS4YejQ3SeGkug2CpaOdgmpWCAAifVRBdtNvTlAU9cTBQ82tcZo38cIXBLLbl5CWIi+s1KKRGH9Ly0dnPrHRpXk12+W12bwmb74OTGR86UAm9xtEui5kskwK843FniJnH/hMjPLGA1ZarPpJrQMlYlxlP/dOnRlJzsR0gCHJfg3/zRFzTOYJdxHe7C7V1hb9JfhWPrX5y7HaMFPvSV5bQ++YFJP8xMnEz/ijAfVOLZS9AL2+Km5ycnFOeSlZt8I3IZKKZwSTyXZ72AnKC+bilW9KM4+bLwDJZFEyU8PfXARvO8ckCwXjgrTCMXkhBqHbxxTp+/sqY+lwn9R986LdC5DFMWxg==;XFXYnim0/rx6Km/2r+6emA=="
 ---
 

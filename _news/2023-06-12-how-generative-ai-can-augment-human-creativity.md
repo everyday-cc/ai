@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "Will generative AI boost productivity?"
-    excerpt: "There is no doubting the potential of generative AI. Its ability to boost cognitive activities, which are harder to value, means we may be unable to accurately measure its impact. But as prior technologies demonstrate, productivity gains are not guaranteed until the technology can be harnessed effectively. We should keep our feet on the ground."
-    publishedDateTime: 2023-06-09T16:25:00Z
-    webUrl: "https://www.ft.com/content/3b145574-760f-49fd-b42c-a2c4ae22101c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "ALWQY+qIqpHupV7kzDpM9r+BE8ji5VomjeaxUMdZ+J+cighU7FyBkBu94fTDIOQIOH4GjpzEIzwxqbv8VRqXdjaqTSYxkwPdq6NcHRrBIZTMPs/qZCv/Axhz9ThBqSzDSqT91ynoymL+DT6zS+cvJbvlv4ze/Qy5u2PApvJgglDRSismXrZmMO+chyXCEVCJWpol8qhPJvl/9rAoHAGw2/D98isBCuFQDHgXoUaZwXLU6aM2PIAhP+epnlzn9ostN1KJQnRff02A352ZRDsK8XVogi6xKQiSRXgdEl+1OXghfF+9trgFUU5iytWexVF585GcxGbA15vvUJGfDwnUHWbnOpr9aNE5Maig6guMLX702GhVV0Uj1gO4jxp6VVZwo7mvZfVeqz1SRCvl/WZerNQk5X+ooMgX4nM7eZ2GxbyCHxnyyE1QGxDwNPCh2KGPtShof1cA7I6bnf+LsBI1IJIvRNo+QOh3a35rb+x8jBplKzFfVKEVjuuFY8N7V2hV38EYui9MB0MzZPwTz+z2xQ==;jPWnJWLDjqHF6/GnBPfesQ=="
 ---

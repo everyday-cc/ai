@@ -42,20 +42,6 @@ related:
         width: 853
         height: 568
         isCached: true
-  - title: "Generative AI can help bring tomorrow's gaming NPCs to life"
-    excerpt: "Today's non-playable characters are a step above the Ghost Gang of yesteryear but they're still a far cry from human-level fidelity."
-    publishedDateTime: 2023-06-09T17:03:00Z
-    webUrl: "https://www.engadget.com/generative-ai-can-help-bring-tomorrows-gaming-npcs-to-life-163037183.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/_Clt3C93ea40vhgdQIikgQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/6ff8cac0-0620-11ee-87bf-cbb98ba4bcdc.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "taaZww9CQCzVvgrpujDWwlGKe6l0lwkMDoKbCEwSddvOgd2YWMN+R7r/omAUKnRtEUDfgYIRIbY6TaEg3pXbjVrxAUdys3mJkZlMdedFF3nRb1OCC6VMBcnnQGyNzUSUykuUeaF8s21BkdyK+9SehQ4eKJ2OPsNtoXE+st/nSmh+KDRPXweC3cWJrrWtqby5V9Ik3ljyAGs9l3+PchSPQC0ZalJDRGTBXljl+q550SmFSkkDUb/+EsG1d8ivRWK7acCxoGrJtxhwEA3oWfjGx/ixLDeRvsq8QKzHpg/q4d1l3jVTTihX5WMl6rD5uMtbYFPIjkGYgCpAQQ6Po2V+2lQtOfUk9RtDU3aeSh0qbDU=;9E8L5tTnidYxgz3NCw8eBA=="
 ---

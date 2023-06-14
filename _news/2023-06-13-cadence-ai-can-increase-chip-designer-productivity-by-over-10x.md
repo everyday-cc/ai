@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will generative AI boost productivity?"
-    excerpt: "There is no doubting the potential of generative AI. Its ability to boost cognitive activities, which are harder to value, means we may be unable to accurately measure its impact. But as prior technologies demonstrate, productivity gains are not guaranteed until the technology can be harnessed effectively. We should keep our feet on the ground."
-    publishedDateTime: 2023-06-09T16:25:00Z
-    webUrl: "https://www.ft.com/content/3b145574-760f-49fd-b42c-a2c4ae22101c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "How Generative AI Can Augment Human Creativity"
     excerpt: "There is tremendous apprehension about the potential of generative AI—technologies that can create new content such as text, images, and video—to replace people in many jobs. But one of the biggest opportunities generative AI offers is to augment human creativity and overcome the challenges of democratizing innovation."
     publishedDateTime: 2023-06-12T16:00:00Z

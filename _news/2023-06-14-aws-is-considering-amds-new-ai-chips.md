@@ -7,8 +7,8 @@ originalUrl: "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227
 webUrl: "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/"
 type: article
 quality: 71
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCentral
@@ -27,18 +27,50 @@ images:
 
 related:
   - title: "Amazon's cloud unit is considering AMD's new AI chips"
-    excerpt: "The remarks came during an AMD event where the chip company outlined its strategy for the AI market, which is dominated by rival Nvidia Corp. Despite AMD disclosing some technical specifications for an AI chip coming later this year that could in some ways ..."
-    publishedDateTime: 2023-06-14T03:48:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/amazons-cloud-unit-is-considering-amds-new-ai-chips/100981067"
+    excerpt: "The remarks came during an AMD event where the chip company outlined its strategy for the AI market, which is dominated by rival Nvidia Corp"
+    publishedDateTime: 2023-06-14T09:52:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
+      name: Zawya
+      domain: zawya.com
+    quality: 74
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-100981067,imgsize-71564,width-1200,height=765,overlay-etcio/cloud-computing/amazons-cloud-unit-is-considering-amds-new-ai-chips.jpg"
-        width: 1200
-        height: 765
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ODVkMDI4YTctNWQ1Yy00/1/usa-treasury-cloud-computing.jpeg?f=3%3A2"
+        width: 834
+        height: 556
+        isCached: true
+  - title: "AMD’s New Chip Fails to Impress Investors. It’s Still an AI Winner, Analyst Says."
+    excerpt: "The chip maker's big product launch may have left investors feeling uninspired but it can still challenge Nvidia, according to one analyst."
+    publishedDateTime: 2023-06-14T08:56:00Z
+    webUrl: "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3"
+    ampWebUrl: "https://www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 69
+    images:
+      - url: "https://images.barrons.com/im-574599/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "AMD Eyes AI, Cloud Expansion With Instinct MI300X, EPYC 97X4 Chips"
+    excerpt: "AMD is taking aim at Nvidia for running large language models with its upcoming Instinct MI300X GPU while targeting cloud workloads with its new EPYC 97X4 Bergamo CPUs."
+    publishedDateTime: 2023-06-13T20:36:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/amd-eyes-ai-cloud-expansion-with-instinct-mi300x-epyc-97x4-chips"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 56
+    images:
+      - url: "https://www.crn.com/resources/0282-183fb0570bbb-6da6e9757d14-1000/amd_instinct.png"
+        width: 600
+        height: 450
         isCached: true
   - title: "AMD to ramp up AI chip production this year"
     excerpt: "and a key performance measure for how well the chip will handle the large AI systems behind services similar to ChatGPT. \"There's no question that AI will be the key driver of silicon consumption for the foreseeable future,\" Su said. Su said customers will ..."
@@ -84,6 +116,6 @@ related:
       domain: theglobeandmail.com
     quality: 27
 
-secured: "y5S2K7G55Wq4uoLqz/GLzAVZJEdCNfe4/uvfg/RLT3oAoYkGyeD0EGQmo4YuKy8ayrCQvbZ/aJp7a+OPf7RixvxASuMwC+xs2JTLElKztDE1FdHSnZCcGe5nbt7ve16L+3Sr8ad5RumhXxRBBK0Rf6p4Dp171vTYY4uuiGSpcaqOGVaC1CxtaYqxCXa1l4EbG3jCRu+XrpdcafqxcnhH3jejN3IRHFobVqhCUIe/R8hJy/JLzeDE1h9sag64yRpm/wKb41xoR1G6RKukHz26CyAp00vsT8QXofkR8uIHM8kEMxIakbYmc0CmmAh5UmFYSgMNDLMdybyJuVXHUGS5Cfjgh1pUB/qVD1MrM2KskJ0=;QgY9rPL5SYqczKA5hg97cA=="
+secured: "mQOGmEOo0V/fWpTsy4yCXUzjeGXXnWosPKmGZ0jZ6rqFFaftf5yaZLsY+aGbX/aapeZVu8hDFG6RXtchGbVLXn2UDu/qnl1ea17GvJ6vSBU7hKv0ppz/baQQctOMa6ZdmtRV1fV/xt4PXJZaEPZ0lLAW8hfKu0lHrf/rz1oGdFkGrVepQcj/sCaX9kRi+0Kugc8fTqBVYn1gXdjIbja3qnujuooxbd+9A4qMMzuEba2JOvfAqRyM0i7e43ldl7DWtp94kGMNT3x/pPZKcRZEKo3MoG1xga+8WWEAL3kUZJn3ZZfe/qTb1Em+45eGUUVoLNAJmjN50/Caf4JnhOAvKblOVAo/XSxoEurtRwGHtcRuPODAHEhl1AtMAc8gOMjKRSFdURjtzXqqsk2v2/8Y91XxS6vXO6lSwxcf6TAw4C2VGjMOxNtvgaUqCGfFuXLfwUV0Bo7GJjdS7SgZcPQSAYrBCiISoLb3cI5QSZf8C5mt9aRwoIiGSQQsbCH/r+zLczVO/musRhbuhQk9ar5SRQ==;Vw8nAwvZKXP7EBnsTsEzoQ=="
 ---
 

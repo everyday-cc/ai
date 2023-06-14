@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-se
 webUrl: "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -65,22 +65,6 @@ related:
       - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/06/2023-06-09-23_40_44-dpa-news-_-Photos-Release-2.17.7-Brave.png"
         width: 800
         height: 478
-        isCached: true
-  - title: "Self-driving Google robotaxi hit and killed a dog in San Francisco during test drive"
-    excerpt: "A Waymo rep said the self-driving car’s software “correctly identified the dog” but “was not able to avoid contact,” killing it in March."
-    publishedDateTime: 2023-06-09T16:10:00Z
-    webUrl: "https://nypost.com/2023/06/09/self-driving-google-robotaxi-hit-and-killed-a-dog/"
-    ampWebUrl: "https://nypost.com/2023/06/09/self-driving-google-robotaxi-hit-and-killed-a-dog/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/09/self-driving-google-robotaxi-hit-and-killed-a-dog/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 37
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012409491.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Self-Driving Car Runs Over Dog"
     excerpt: "A Waymo self-driving car killed a dog in San Francisco while its \"autonomous mode\" was turned on last month, an incident that will likely fan the flames of the debate surrounding their use."

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/french-company-mistral-ai-raise
 webUrl: "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/"
 type: article
 quality: 66
-heat: 78
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI start-up Mistral bags €105m after just one month"
+    excerpt: "Mistral AI, a French start-up founded last month, has already managed to raise €105m in a seed round, showing the current hype surrounding the AI sector. The company was founded by former researchers of Google’s Deepmind and Meta and has ambitious ..."
+    publishedDateTime: 2023-06-14T07:39:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/mistral-ai-funding-lightspeed"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/06/AdobeStock_424719810.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Four-week-old AI start-up raises record €105mn in European push"
     excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105mn in Europe’s largest-ever seed round."
     publishedDateTime: 2023-06-13T16:00:00Z

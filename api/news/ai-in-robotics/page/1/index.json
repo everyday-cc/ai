@@ -524,8 +524,8 @@
       "title": "Powerful object recognition for diverse applications using AI and robotics",
       "excerpt": "New algorithms for object recognition and environment perception have been developed at Fraunhofer IPA, enabling sophisticated automation solutions for the service and production sectors.",
       "sourceUrl": null,
-      "webUrl": "https://idw-online.de/en/news815664",
-      "originalUrl": "https://idw-online.de/en/news815664",
+      "webUrl": "https://idw-online.de/de/news815664",
+      "originalUrl": "https://idw-online.de/de/news815664",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -544,7 +544,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T03:45:00-07:00",
+      "publishedDateTime": "2023-06-07T02:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "idw",
@@ -930,6 +930,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-04-droneos-how-to-take-control-of-the-countrys-growing-robot-army.md",
+      "title": "DroneOS: How To Take Control Of The Country's Growing Robot Army",
+      "excerpt": "The Pentagon wants to build a robot army. Nelson Paez of DreamHammer hopes to make it as easy to operate as possible. The Pentagon has a big command-and-control problem. Not insubordination among ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/",
+      "originalUrl": "https://www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/blogs-images/thumbnails/blog_1016/pt_1016_14198_o.jpg?format=jpg&width=1200",
+          "width": 320,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/amp/",
+      "publishedDateTime": "2023-06-03T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-04-robots-artificial-intelligence-used-to-boost-bush-tuckers-restaurant-star-marron.md",
       "title": "Robots, artificial intelligence used to boost bush tucker's restaurant star — marron",
       "excerpt": "Two mechanical engineers hope to increase marron production from 60 to 500 tonnes a year They are trialling growing marron in modular indoor farming systems, using artificial intelligence Their ...",
@@ -1235,8 +1287,8 @@
       "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
       "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ...",
       "sourceUrl": null,
-      "webUrl": "https://abc30.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "originalUrl": "https://abc30.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "webUrl": "https://6abc.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "originalUrl": "https://6abc.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1253,13 +1305,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abc30.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "cdnAmpWebUrl": "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "publishedDateTime": "2023-06-02T06:01:00-07:00",
+      "ampWebUrl": "https://6abc.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "publishedDateTime": "2023-06-02T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC30 Action News",
-        "domain": "abc30.com",
+        "name": "6abc News",
+        "domain": "6abc.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1297,58 +1349,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-humanoid-robot-imagines-nightmare-ai-scenario.md",
-      "title": "Humanoid robot 'imagines' nightmare AI scenario",
-      "excerpt": "A UK-based company has made a humanoid robot that can have conversations almost as natural as human beings and make facial expressions. Almond Li has more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOV661501062023RP1",
-      "originalUrl": "https://www.reuters.com/video/watch/idOV661501062023RP1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20230601&i=OV661501062023RP1&r=OV661501062023RP1&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

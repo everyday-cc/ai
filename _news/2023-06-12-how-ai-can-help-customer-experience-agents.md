@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI can help bring tomorrow's gaming NPCs to life"
-    excerpt: "Today's non-playable characters are a step above the Ghost Gang of yesteryear but they're still a far cry from human-level fidelity."
-    publishedDateTime: 2023-06-09T17:03:00Z
-    webUrl: "https://www.engadget.com/generative-ai-can-help-bring-tomorrows-gaming-npcs-to-life-163037183.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/_Clt3C93ea40vhgdQIikgQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/6ff8cac0-0620-11ee-87bf-cbb98ba4bcdc.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence can help with hearing loss"
     excerpt: "McDonaldHearingServices.com For more information about the services McDonald Hearing Services offers, click here. Copyright 2023 Nexstar Media Inc. All rights reserved. This material may not be published,"
     publishedDateTime: 2023-06-13T14:57:00Z

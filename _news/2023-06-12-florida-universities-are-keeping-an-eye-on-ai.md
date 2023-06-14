@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Florida universities see potential and pitfalls of AI on campus"
-    excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher e Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
-    publishedDateTime: 2023-06-09T16:14:00Z
-    webUrl: "https://www.wuft.org/news/2023/06/09/florida-universities-see-potential-and-pitfalls-of-ai-on-campus/"
-    type: article
-    provider:
-      name: WUFT
-      domain: wuft.org
-    quality: 39
-    images:
-      - url: "https://www.wuft.org/news/files/2023/04/century-tower-scaled-e1681830178841.jpg"
-        width: 2560
-        height: 1068
-        isCached: true
   - title: "Florida universities are keeping an eye on AI"
     excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology's power and stave off the potential for academic malfeasance."
     publishedDateTime: 2023-06-12T17:57:00Z
@@ -69,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Florida universities eye AI initiatives"
-    excerpt: "As AI continues to grow Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
-    publishedDateTime: 2023-06-09T16:43:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/news/2023/06/09/florida-universities-eye-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Florida universities are keeping an eye on AI"
     excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology's power --- and stave off the potential for academic malfeasance."
     publishedDateTime: 2023-06-10T12:00:00Z

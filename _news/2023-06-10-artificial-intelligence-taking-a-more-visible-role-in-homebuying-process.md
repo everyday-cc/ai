@@ -7,7 +7,7 @@ originalUrl: "https://www.limaohio.com/news/2023/06/10/artificial-intelligence-t
 webUrl: "https://www.limaohio.com/news/2023/06/10/artificial-intelligence-taking-a-more-visible-role-in-homebuying-process/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence taking a more visible role in homebuying process"
-    excerpt: "Zillow, the country’s largest real estate portal, began offering “natural language” searches on its mobile app to bring up more precise results."
-    publishedDateTime: 2023-06-09T16:07:00Z
-    webUrl: "https://www.dailypress.com/2023/06/09/artificial-intelligence-real-estate-homes-houses-buying/"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 36
-    images:
-      - url: "https://www.dailypress.com/wp-content/uploads/2023/06/Biden_Real_Estate_81463.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Artificial intelligence taking a more visible role in homebuying process"
     excerpt: "Rather than setting filters across a limited set of criteria, like the number of bedrooms and ZIP Code, consumers can speak or type what they want."
     publishedDateTime: 2023-06-12T18:21:00Z

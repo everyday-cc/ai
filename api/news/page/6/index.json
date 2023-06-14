@@ -2,6 +2,188 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-08-nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems.md",
+      "title": "Nvidia’s new AI “Superchip” combines CPU and GPU to train monster AI systems",
+      "excerpt": "Early last week at COMPUTEX, Nvidia announced that its new GH200  \"Superchip\"—a combination CPU and GPU specifically created for large-scale AI applications—has entered full production. It's a beast.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/gh200_grace_hopper_chip-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/amp/",
+      "publishedDateTime": "2023-06-08T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-sanchar-shakti.md",
+      "title": "The AI Revolution: How Machine Learning is Changing the Way We Live and Work : Sanchar Shakti",
+      "excerpt": "In the discussion like this we can talk on & on but raising concerns and suggesting solutions  are not going to work . We need a robust platform where these suggestions become our way of life that turns  our choices into our command says “Productivity Conultant & Founder of Sanchar Shakti” Kabeer Goswami.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mid-day.com/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
+      "originalUrl": "https://www.mid-day.com/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mid-day.com/images/images/2023/jun/Sanchar-Shakti-0806_d.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
+      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
+      "publishedDateTime": "2023-06-08T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mid Day",
+        "domain": "mid-day.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-microsoft-is-a-leader-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
+      "title": "Microsoft is a Leader in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services",
+      "excerpt": "We are excited to announce that Microsoft is recognized as a Leader for the 4th year in a row in the Gartner Magic Quadrant for Cloud AI Developer Services and are especially proud to be placed furthest for our Completeness of Vision. \nThe post Microsoft is a Leader in the 2023 Gartner® Magic Quadrant™",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government.md",
+      "title": "Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence to accelerate AI adoption in government",
+      "excerpt": "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Chairman of The Executive Council of Dubai and Chairman of the Board of Trustees of the Dubai Future Foundation, t",
+      "sourceUrl": null,
+      "webUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890",
+      "originalUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.emirates247.com/polopoly_fs/1.712892.1686234760!/image/image.jpg",
+          "width": 2048,
+          "height": 1362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout",
+      "cdnAmpWebUrl": "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout",
+      "publishedDateTime": "2023-06-08T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Emirates247",
+        "domain": "emirates247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-exploring-how-the-human-brain-and-artificial-neural-networks-assemble-knowledge.md",
       "title": "Exploring how the human brain and artificial neural networks assemble knowledge",
       "excerpt": "As humans explore the world around them and experience new things, they innately start to make sense of what they encounter, creating mental connections between the objects, people, places, and events they encounter.",
@@ -1016,212 +1198,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-automattic-launches-an-ai-writing-assistant-for-wordpress.md",
-      "title": "Automattic launches an AI writing assistant for WordPress",
-      "excerpt": "WordPress.com owner Automattic launched a Jetpack AI assistant for the popular content management system on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/",
-      "originalUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/jetpack-ai-assistant.jpg?w=840",
-          "width": 840,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/",
-      "publishedDateTime": "2023-06-07T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-blush-the-ai-lover-from-the-same-team-as-replika-is-more-than-just-a-sexbot.md",
-      "title": "Blush, the AI lover from the same team as Replika, is more than just a sexbot",
-      "excerpt": "Blush, an AI dating sim from the same team as Replika, is designed to \"practice\" dating, from flirting to complex conversations about boundaries.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/07/blush-ai-dating-sim-replika-sexbot/",
-      "originalUrl": "https://techcrunch.com/2023/06/07/blush-ai-dating-sim-replika-sexbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Blush.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/07/blush-ai-dating-sim-replika-sexbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/blush-ai-dating-sim-replika-sexbot/amp/",
-      "publishedDateTime": "2023-06-07T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-ai-was-all-over-apples-wwdc-it-was-just-running-in-the-background.md",
-      "title": "AI was all over Apple's WWDC. It was just running in the background",
-      "excerpt": "Although generative AI did not make an appearance, AI is still behind some of the biggest new features. Here's how.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-was-all-over-apples-wwdc-it-was-just-running-in-the-background/",
-      "originalUrl": "https://www.zdnet.com/article/ai-was-all-over-apples-wwdc-it-was-just-running-in-the-background/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2bb1594db607650070d3b6f2134c704779c1df4b/2023/06/07/f2daeb0d-4128-4ee7-8f5a-b4558701ec5a/image-720.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-was-all-over-apples-wwdc-it-was-just-running-in-the-background/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-was-all-over-apples-wwdc-it-was-just-running-in-the-background/",
-      "publishedDateTime": "2023-06-07T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-googles-generative-ai-support-in-vertex-ai-is-now-generally-available.md",
-      "title": "Google’s generative AI support in Vertex AI is now generally available",
-      "excerpt": "Google's generative AI support in Vertex AI, the company's machine learning platform, is now generally available.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/",
-      "originalUrl": "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135936636.jpg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/",
-      "publishedDateTime": "2023-06-07T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

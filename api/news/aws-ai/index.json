@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-14-aws-is-considering-amds-new-ai-chips.md",
-      "title": "AWS is considering AMD’s new AI chips",
-      "excerpt": "Amazon Web Services, the world’s largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision, an AWS executive said. The remarks came during an AMD event where the chip company outlined its strategy for the AI market,",
-      "sourceUrl": null,
-      "webUrl": "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/",
-      "originalUrl": "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcentral.co.za/wp-content/uploads/2022/11/lisa-su-1500-800.jpg",
-          "width": 1500,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCentral",
-        "domain": "techcentral.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-13-how-brainpad-fosters-internal-knowledge-sharing-with-amazon-kendra.md",
       "title": "How BrainPad fosters internal knowledge sharing with Amazon Kendra",
       "excerpt": "This post discusses how to structure internal knowledge sharing using Amazon Kendra and AWS Lambda and how Amazon Kendra solves the obstacles around knowledge sharing many companies face.",
@@ -1367,6 +1323,40 @@
         "AWS AI",
         "Machine Learning",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-china-begins-digging-a-10000-meter-deep-hole-into-the-earth.md",
+      "title": "China Begins Digging a 10,000-Meter-Deep Hole Into the Earth",
+      "excerpt": "Chinese scientists are embarking on their own real-life journey to the center of the earth by drilling the deepest-ever hole the country has attempted at 10,000 meters or 32,808 feet. The project ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailybeast.com/china-begins-digging-a-10000-meter-deep-hole-into-the-earth",
+      "originalUrl": "https://www.thedailybeast.com/china-begins-digging-a-10000-meter-deep-hole-into-the-earth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Beast",
+        "domain": "thedailybeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

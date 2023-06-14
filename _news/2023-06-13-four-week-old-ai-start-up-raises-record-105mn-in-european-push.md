@@ -33,6 +33,20 @@ related:
         width: 4000
         height: 2741
         isCached: true
+  - title: "AI start-up Mistral bags €105m after just one month"
+    excerpt: "Mistral AI, a French start-up founded last month, has already managed to raise €105m in a seed round, showing the current hype surrounding the AI sector. The company was founded by former researchers of Google’s Deepmind and Meta and has ambitious ..."
+    publishedDateTime: 2023-06-14T07:39:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/mistral-ai-funding-lightspeed"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/06/AdobeStock_424719810.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "XP1aU9SsLOUsDBFp6keGyveUsX8ty5Hrkh7BcyiOTTUxGAF57QZLkq65mbYHOzGWYdlLcRW1ElBxFuU1fA+PIdHc1cFUmeROtW8j3rnaD0NqtH8x4zyVZK3hYW2rfQA0fAP11gb7tUzwLdXGxSIR8j5JJmJygsIg4o60adtygx9QDoIKSxU27fiFkS9lc1/raHMBW8Y9V2Zd0piCR5+Ak7crkmwOOhEJmuqPQLWV8iBTt+9e6IRLc8Z+zs/g6u8iZHSP2O2OpL5ckRfZmYiXXBTHAYQrddXrJvn7BhL27sqnwKEDF8v9gh/6H8AE6RTfBqWuaYTQZt2fzAoJEdF9BFgAf3c82KwYGWNsYSz/P5UmZ/AqqXtUNVoXclKO29GgMksw6Xm7lVyEvYuA+hK0cOW0/lPzaPigMApwvOCPv2n/mScYJEZTYFFP7J2zgMCaI7CeGfQPnnyFiXRW0CHCpVewhqVvkYTrXdXKJZ1Dd2ShtuhzLcUJ1kZH/QTaBCucEiC3dOAJZZZLLDq6c19fUg==;c/2zRyfwfQX11MkyGgfFoQ=="
 ---

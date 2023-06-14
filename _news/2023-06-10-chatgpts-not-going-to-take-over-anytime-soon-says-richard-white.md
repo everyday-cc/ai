@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Lawyers who used ChatGPT included fake legal research fabricated by AI chatbot"
-    excerpt: "A couple of lawyers who cited fictitious research concocted by AI bot ChatGPT is asking a New York-based federal judge to spare sanctions."
-    publishedDateTime: 2023-06-09T16:34:00Z
-    webUrl: "https://www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot"
-    ampWebUrl: "https://www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/lawyers-used-chatgpt-included-fake-legal-research-fabricated-ai-chatbot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 83
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/263d618f-c90f-4453-825c-0e53ced8d257/65c8223d-3861-4e2a-8508-affb94e3c6f5/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Samsung Electronics to adopt own AI amid ChatGPT security concerns"
     excerpt: "Samsung Electronics plans to introduce a customized artificial intelligence (AI) service for knowledge search, translation and summarization this year as concerns over the possible leakage of key technological information enabled by ChatGPT are rising."
     publishedDateTime: 2023-06-11T05:15:00Z
@@ -84,20 +68,20 @@ related:
         height: 720
         isCached: true
   - title: "Meta guru says ChatGPT-style AI is out-of-date"
-    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
-    publishedDateTime: 2023-06-13T17:18:00Z
-    webUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
+    excerpt: "LeCun spoke as Meta announced its latest AI project -- called image-based Joint Embedding Predictive Architecture, or JEPA. The project seeks to move beyond ChatGPT-like generativ"
+    publishedDateTime: 2023-06-14T09:20:00Z
+    webUrl: "https://www.daily-sun.com/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
+    ampWebUrl: "https://www.daily-sun.com/amp/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
+    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
+      name: Daily Sun
+      domain: daily-sun.com
     quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
-        width: 2880
-        height: 1616
+      - url: "https://www.daily-sun.com/assets/news_images/2023/06/14/meta.jpg"
+        width: 700
+        height: 402
         isCached: true
   - title: "Using AI, ChatGPT to Augment the Future of Healthcare"
     excerpt: "During a June 7 event hosted by Northwestern Engineering, AI@NU, and the Institute for Augmented Intelligence in Medicine, computer scientists and physicians presented examples of how artificial intelligence technologies can augment healthcare tasks."
@@ -199,20 +183,6 @@ related:
         width: 750
         height: 360
         isCached: true
-  - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
-    excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."
-    publishedDateTime: 2023-06-09T17:00:00Z
-    webUrl: "https://www.livescience.com/technology/artificial-intelligence/ai-chatbot-chatgpt-cant-create-convincing-scientific-papers-yet"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/RsTwfc7HXdDsw9UdxSjqwi-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How ChatGPT’s Sam Altman stormed U.S. Congress to set the AI agenda"
     excerpt: "The chief executive of OpenAI, which makes ChatGPT, has met with at least 100 U.S. lawmakers in recent months. He has also taken his show abroad."
     publishedDateTime: 2023-06-12T14:00:00Z
@@ -233,6 +203,15 @@ related:
       name: The Tribune
       domain: tribuneindia.com
     quality: 18
+  - title: "Can a robot plan your summer fun? Here's what ChatGPT says to do this summer"
+    excerpt: "What are five fun summer activities to do in Norwich, Griswold, Killingly and Plainfield, CT? One should be off the beaten path, at least two should be family friendly, one should be a healthy activity and one should be male friendly. Then give me two other activities that are within a 30-minute drive of Norwich."
+    publishedDateTime: 2023-06-14T09:15:00Z
+    webUrl: "https://www.norwichbulletin.com/story/lifestyle/2023/06/14/norwich-summer-fun-chatgpt-griswold-killingly-plainfield-mystic-aquarium-pachaug-state-forest-slater/70313495007/"
+    type: article
+    provider:
+      name: The Bulletin
+      domain: norwichbulletin.com
+    quality: 16
   - title: "Using AI doesn't have to be difficult. These ChatGPT tips can simplify your lifestyle"
     excerpt: "To start a new thread, click on the \"New Chat\" button at the top ... new prompts is to search the Internet or social media for your specific interests (ex: AI prompts for marketing). It’s important to understand that ChatGPT does not have direct access ..."
     publishedDateTime: 2023-06-12T13:11:00Z
