@@ -31,81 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Business Finance With AI: A New Era Is Coming"
-    excerpt: "With AI’s help, business finance is ripe for disruption. New technologies will be able to wrap around legacy bank systems and create a new layer of data attribution, ushering in a modern era for accounting and business finance."
-    publishedDateTime: 2023-06-09T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/amp/"
+  - title: "The Next Threat From Generative AI: Disinformation Campaigns"
+    excerpt: "Generative AI, coupled with deepfakes, could present truly dire consequences for the 2024 presidential election."
+    publishedDateTime: 2023-06-10T00:29:00Z
+    webUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/"
+    ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61814ed70e1ae168d212c0bd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Revolutionizing Industries with AI, Robotics, and Cloud Technology"
-    excerpt: "In this blog post, we explore how the integration of AI, robotics, and cloud technology is revolutionizing industries, enhancing efficiency, transforming customer experiences, advancing healthcare and medicine,"
-    publishedDateTime: 2023-06-10T10:49:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2479818-revolutionizing-industries-with-ai-robotics-and-cloud-technology"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2479818-revolutionizing-industries-with-ai-robotics-and-cloud-technology?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2479818-revolutionizing-industries-with-ai-robotics-and-cloud-technology?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
     quality: 89
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_06_2023_15_04_38_5263051.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Automation And Forecasting: Revolutionizing Business With AI"
-    excerpt: "One of the most promising AI technologies is the generative pre-trained transformer (GPT) model, a natural language processing tool that is revolutionizing how businesses communicate and operate."
-    publishedDateTime: 2023-06-12T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/648337895224cd868d750fc7/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6483c3a8fa78a1eb97750fc7/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 773
+        height: 675
         isCached: true
-  - title: "Rise of AI: shaping the 5th Industrial Revolution"
-    excerpt: "This is how AI has the potential to break through new revolution on our tiny planet. Language evolution is attributed to humans’ competent mindset. In the last thousand years, humans have taken pride in their linguistic viability."
-    publishedDateTime: 2023-06-10T04:48:00Z
-    webUrl: "https://tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution"
-    ampWebUrl: "https://tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution?amp=1"
+  - title: "UN chief calls for coordinated global action on disinformation, hate and artificial intelligence"
+    excerpt: "The United Nations chief says the proliferation of hate and lies on digital platforms and the threat that artificial intelligence can become an uncontrolled “monster” demand coordinated global action"
+    publishedDateTime: 2023-06-12T22:01:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 59
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
     images:
-      - url: "https://i.tribune.com.pk/media/images/Muhammad-Wajahat-Sultan1664910846-1/Muhammad-Wajahat-Sultan1664910846-1.jpg"
-        width: 800
-        height: 600
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Robots and AI: A new economic era"
-    excerpt: "When developed countries adopt robots and AI, it has an impact on trade with developing countries, leading to increased exports from developing to developed countries, particularly in sectors experiencing high levels of robotization."
-    publishedDateTime: 2023-06-13T20:56:00Z
-    webUrl: "https://www.thejakartapost.com/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
-    ampWebUrl: "https://www.thejakartapost.com/amp/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
-    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
-    type: article
-    provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 54
 
 secured: "2wsdxdB14dYVYd88wIQ7BCLDMtmEkG1ZtucWLYvzf0iUkWupbPXBFZ+ckdQCJk7GVSdAiLj/wF6bP4srieS6BgubWxVWwnKDMEAE23M969GYWn4fu2gXzK5560aovJ7od2Az+KtV9PzUwifBofwX/bC9FvQJatXSNYI4y2jVpiIppoKgdq8xjp78iJEG+L9+ja5Ye/STvkdM50DqeX6B0nnMvZS3AxbNZLz37MELX3W0xMCTA6ha45eGPiDko+2Aeo24o8sQdtvER9yjr78olFkH3nwVTwrqQO+TScCziT2oL4F5K6TE2pPBt5ivwG91sEDzrgevxZn93Iwvh1TRhN14cYUMFpDwy5BWlyFcYviT9k8vbIqAvTthTUr54Fzqxe/IhmPCLSSLF0mggyx0VuLxnA1TNjKMJYm7iomBAIdRo7J0+aXziUYeVLfGBeLD03F3L4KC1zRHotF8R8iFIwxgnwdxXNY/9zzbiA+5V3bM44Rmd1jT/DwU4HMfWjR5Mn+ICSUagdrUOsbPaChSYg==;l/qHK8jtiVs2xXNUA4oDpw=="
 ---

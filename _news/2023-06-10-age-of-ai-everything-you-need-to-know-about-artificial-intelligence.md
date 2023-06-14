@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 102
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rise of AI: shaping the 5th Industrial Revolution"
+    excerpt: "This is how AI has the potential to break through new revolution on our tiny planet. Language evolution is attributed to humans’ competent mindset. In the last thousand years, humans have taken pride in their linguistic viability."
+    publishedDateTime: 2023-06-10T04:48:00Z
+    webUrl: "https://tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution"
+    ampWebUrl: "https://tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 59
+    images:
+      - url: "https://i.tribune.com.pk/media/images/Muhammad-Wajahat-Sultan1664910846-1/Muhammad-Wajahat-Sultan1664910846-1.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Meta plans AI everywhere"
     excerpt: "On Thursday Mark Zuckerberg revealed his plans regarding AI to Meta employees during an all-hands meeting. An aggressive push forwards is based, he says, on “really incred"
     publishedDateTime: 2023-06-09T11:43:00Z

@@ -30,81 +30,59 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Business Finance With AI: A New Era Is Coming"
-    excerpt: "With AI’s help, business finance is ripe for disruption. New technologies will be able to wrap around legacy bank systems and create a new layer of data attribution, ushering in a modern era for accounting and business finance."
-    publishedDateTime: 2023-06-09T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/amp/"
+  - title: "Creating A Strong Foundation For Your Startup With AI"
+    excerpt: "Startups must take proactive steps to overcome business challenges and get ahead. One of those steps should be implementing AI."
+    publishedDateTime: 2023-06-11T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 106
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61814ed70e1ae168d212c0bd/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64824c948f1cd79e3030c0ae/0x0.jpg?format=jpg&crop=2988,1679,x0,y0,safe&width=1200"
         width: 1200
-        height: 800
+        height: 674
         isCached: true
-  - title: "Revolutionizing Industries with AI, Robotics, and Cloud Technology"
-    excerpt: "In this blog post, we explore how the integration of AI, robotics, and cloud technology is revolutionizing industries, enhancing efficiency, transforming customer experiences, advancing healthcare and medicine,"
-    publishedDateTime: 2023-06-10T10:49:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2479818-revolutionizing-industries-with-ai-robotics-and-cloud-technology"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2479818-revolutionizing-industries-with-ai-robotics-and-cloud-technology?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2479818-revolutionizing-industries-with-ai-robotics-and-cloud-technology?amp"
+  - title: "With AI for kids, collaboration is key"
+    excerpt: "Moral and philosophical questions abound. The UNESCO’s recommendation on the ethics of AI set the normative framework to navigate the ethical jungle, with some core principles, including transparency, human oversight and determination. These guardrails ..."
+    publishedDateTime: 2023-06-12T07:47:00Z
+    webUrl: "https://www.thebookseller.com/comment/with-ai-for-kids-collaboration-is-key"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 89
+      name: The Bookseller
+      domain: thebookseller.com
+    quality: 39
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_06_2023_15_04_38_5263051.jpg?width=1280"
+      - url: "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/473/Boy_reading.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Registration opens for the Mark Cuban Foundation’s Artificial Intelligence Bootcamp"
+    excerpt: "Offered at no cost to low-income and diverse community high school students, the Mark Cuban Foundation's Artificial Intelligence Bootcamp will be held for the first time in San Antonio. The San Antonio Bootcamp,"
+    publishedDateTime: 2023-06-12T16:29:00Z
+    webUrl: "https://aldianews.com/en/leadership/advocacy/ai-bootcamp"
+    type: article
+    provider:
+      name: AL DA News
+      domain: aldianews.com
+    quality: 33
+    images:
+      - url: "https://aldianews.com/sites/default/files/2023-06/technology-3435575_1280%20%281%29.jpg"
         width: 1280
-        height: 720
+        height: 730
         isCached: true
-  - title: "Revolutionizing Business With AI: Real-World Examples Of Transformative Impact"
-    excerpt: "Using Azure Machine Learning and the Responsible AI dashboard, the team works to produce results that are meaningful, fair, and easily explainable. Their work is helping patients make informed surgical decisions, and it’s helping the Trust place surgical ..."
-    publishedDateTime: 2023-06-13T16:15:00Z
-    webUrl: "https://www.forbes.com/sites/microsoft_/2023/06/13/revolutionizing-business-with-ai-real-world-examples-of-transformative-impact/"
-    ampWebUrl: "https://www.forbes.com/sites/microsoft_/2023/06/13/revolutionizing-business-with-ai-real-world-examples-of-transformative-impact/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/microsoft_/2023/06/13/revolutionizing-business-with-ai-real-world-examples-of-transformative-impact/amp/"
+  - title: "Snorkel AI Introduces New Foundation Model Data Platform"
+    excerpt: "Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic"
+    publishedDateTime: 2023-06-12T16:41:00Z
+    webUrl: "https://www.datanami.com/this-just-in/snorkel-ai-introduces-new-foundation-model-data-platform/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64887c06f74ce54eecf4b945/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Rise of AI: shaping the 5th Industrial Revolution"
-    excerpt: "This is how AI has the potential to break through new revolution on our tiny planet. Language evolution is attributed to humans’ competent mindset. In the last thousand years, humans have taken pride in their linguistic viability."
-    publishedDateTime: 2023-06-10T04:48:00Z
-    webUrl: "https://tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution"
-    ampWebUrl: "https://tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 59
-    images:
-      - url: "https://i.tribune.com.pk/media/images/Muhammad-Wajahat-Sultan1664910846-1/Muhammad-Wajahat-Sultan1664910846-1.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Robots and AI: A new economic era"
-    excerpt: "When developed countries adopt robots and AI, it has an impact on trade with developing countries, leading to increased exports from developing to developed countries, particularly in sectors experiencing high levels of robotization."
-    publishedDateTime: 2023-06-13T20:56:00Z
-    webUrl: "https://www.thejakartapost.com/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
-    ampWebUrl: "https://www.thejakartapost.com/amp/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
-    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
-    type: article
-    provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 54
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
 secured: "5aUgIV9RIHqkwPqrO7s2Odf+uM8qgWaeoTXyAjWZPcuZl/MDWH2zHMHDTuOo6QcqUcI6vBDs+7mcvNJ75Bv51W1U7DBkDhg4nbUx3dl3ANPMp89cXxpgvVRsns9AXy9o1HGhq3HoxDZtqQTVhnnGOlSn+tIWocvpVvjNOSndHslAjWyv80dg5UJSI+dOZ0S4odklAS17AZinzYtO4djgN0TcRIPAD7+TeEw22OUr3Xu2FTZUgcBGlMuuuZ+1KPKJWF+x+LMrS1u0kWTHqwbBvF/usnufmXmY4uerz5J75NLqmS1BivKHsPK2sOhkN14A+FUKGtctOM0wQsDrpdM4jXZN7OnFGlEYYUXF4D/ue+j9cPBYARknIqe4DM3amqYxLR98Q231qQT8jWkM2YpAO2qA6BMqVCkMmbrY4ultJUgws999i/ajqQIKVP4W5dt7uWB4GyGYC8vD2e0/Q4JRMO+icjmeauDbgOYi+hvIzsyxziueRZxfK0pyNTSxYsEcTjC9L0C6KpxLFW3BnqeAgA==;2fEdbW+EPldQ9RcZ+eTbjA=="
 ---

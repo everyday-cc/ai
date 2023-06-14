@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Meta open sources an AI-powered music generator"
-    excerpt: "Not to be outdone by Google, Meta has released its own AI-powered music generator — and, unlike Google, open-sourced it. Called MusicGen, Meta’s music-generating tool, a demo of which can be found here,"
-    publishedDateTime: 2023-06-12T16:41:00Z
-    webUrl: "https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/"
-    ampWebUrl: "https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-logo-pattern-float.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta launches MusicGen, an AI-powered music generator"
     excerpt: "Meta's MusicGen offers AI-generated music from text and melody, but Google's MusicLM, available through the AI Test Kitchen app, also generates high-fidelity music based on text descriptions across genres."
     publishedDateTime: 2023-06-13T08:36:00Z
@@ -137,15 +121,6 @@ related:
         width: 360
         height: 220
         isCached: true
-  - title: "Meta's Open-Source Massively Multilingual Speech AI Handles over 1,100 Languages"
-    excerpt: "Meta AI open-sourced the Massively Multilingual Speech (MMS) model, which supports automatic speech recognition (ASR) and text-to-speech synthesis (TTS) in over 1,100 languages and language identification (LID) in over 4,"
-    publishedDateTime: 2023-06-13T13:40:00Z
-    webUrl: "https://www.infoq.com/news/2023/06/meta-mms-speech-ai/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 14
   - title: "Meta just released an AI music generator that was trained on 20,000 hours of licensed music"
     excerpt: "Researchers at Facebook parent company Meta have developed an AI text-to-music generator called MusicGen. The language model, described by Meta’s Audiocraft research team as “a simple and controllable model for music generation”,"
     publishedDateTime: 2023-06-12T19:25:00Z

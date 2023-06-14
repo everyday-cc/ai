@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Meta open sources an AI-powered music generator"
-    excerpt: "Not to be outdone by Google, Meta has released its own AI-powered music generator — and, unlike Google, open-sourced it. Called MusicGen, Meta’s music-generating tool, a demo of which can be found here,"
-    publishedDateTime: 2023-06-12T16:41:00Z
-    webUrl: "https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/"
-    ampWebUrl: "https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-logo-pattern-float.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta launches MusicGen, an AI-powered music generator"
     excerpt: "Meta's MusicGen offers AI-generated music from text and melody, but Google's MusicLM, available through the AI Test Kitchen app, also generates high-fidelity music based on text descriptions across genres."
     publishedDateTime: 2023-06-13T08:36:00Z
@@ -146,15 +130,6 @@ related:
       name: GIZBOT
       domain: gizbot.com
     quality: 19
-  - title: "Meta's Open-Source Massively Multilingual Speech AI Handles over 1,100 Languages"
-    excerpt: "Meta AI open-sourced the Massively Multilingual Speech (MMS) model, which supports automatic speech recognition (ASR) and text-to-speech synthesis (TTS) in over 1,100 languages and language identification (LID) in over 4,"
-    publishedDateTime: 2023-06-13T13:40:00Z
-    webUrl: "https://www.infoq.com/news/2023/06/meta-mms-speech-ai/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 14
 
 secured: "RjQubGp0oikHksPiJmIBr/as+PIt0WqQH3rO0RbUdGQAewwARkDY03r24rcJ0/ob9DeBLe1woPVQj+15ZbEkTojqisFVx7p0CnpZsmSxDAfWwCEArTu5C2rHbMaHzMsDIUPO+EljV0vU59bTeLjOPtzgxR3d5W+6gV5nP8yd+2BXH1a3KGKJtXKaHlyOE8iaQSs+F7qhGOojxgoG1NxFtUN6TycOF5DzwQirPqT0sdA9qfuiNjlKXROdrd3l2HRMmUWvsviEQu/gdY6LCLMkOj211/NpSlfxdMRtLHwb3ewVkMd6KzAlJYPJuwBxRnafkkbfnh8B42zt3G0mMDPoHtpAGTzEEz2V3fUw8Iq25yBpTYLE6LOa2hEuQqx7Lyumy5N4Mz7bF/IIfv2ekYSR8nqzIDsi5YfehWewG7QX0FT/Rv1moYZ1yTgs90YfWueZlMP8Txi+MUD24M3cYqn8TUOyTo7V8QLt93/TkXPxnIdz169UQgs4NsAiANHE7UAzBRM+SlzKKwqoFkP9b9NnDw==;OmtK0BZGDu03g+PzeuX2VQ=="
 ---

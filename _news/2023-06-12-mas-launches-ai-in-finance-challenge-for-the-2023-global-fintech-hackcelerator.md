@@ -7,8 +7,8 @@ originalUrl: "https://www.finextra.com/pressarticle/97212/mas-launches-ai-in-fin
 webUrl: "https://www.finextra.com/pressarticle/97212/mas-launches-ai-in-finance-challenge-for-the-2023-global-fintech-hackcelerator"
 type: article
 quality: 50
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: Finextra
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "FITC sets to hold 2023 edition of annual fintech conference"
-    excerpt: "FITC, the world-class, innovation led and technology-driven institution, which provides learning, insights, advocacy, and advisory services to the"
-    publishedDateTime: 2023-06-12T08:31:00Z
-    webUrl: "https://businessday.ng/sponsored/article/fitc-sets-to-hold-2023-edition-of-annual-fintech-conference/"
-    ampWebUrl: "https://businessday.ng/amp/sponsored/article/fitc-sets-to-hold-2023-edition-of-annual-fintech-conference/"
-    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/sponsored/article/fitc-sets-to-hold-2023-edition-of-annual-fintech-conference/"
+  - title: "Singapore: MAS Introduces AI in Finance Challenge for Global Fintech Hackcelerator"
+    excerpt: "MAS has launched the 8th edition of the Global FinTech Hackcelerator, titled “Artificial Intelligence (AI) in Finance Global Challenge.\""
+    publishedDateTime: 2023-06-14T02:14:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/amp/"
     type: article
     provider:
-      name: businessday
-      domain: businessday.ng
-    quality: 44
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 68
     images:
-      - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2023/06/20230612_092323_0000-450x300.png"
-        width: 450
-        height: 300
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/11/Singapore-iPhone-Money.jpeg"
+        width: 1080
+        height: 720
         isCached: true
   - title: "Upstart Fintech Buys Airport-Area Office for HQ"
     excerpt: "The head of Finfare Inc., an up-and-coming fintech in the Spectrum area of Irvine, has made one of the larger office deals of the year in the area around John Wayne Airport."
@@ -68,20 +68,6 @@ related:
       - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/MAS-Now-Accepting-Applications-for-AI-Focused-Global-Fintech-Hackcelerator-2023.png?x22319"
         width: 1024
         height: 567
-        isCached: true
-  - title: "EBAday 2023: Fintech Zone finalists announced!"
-    excerpt: "EBAday, the annual event for payments and transaction banking executives, will return on 20th to 21st June 2023 at The IFEMA in Madrid, Spain."
-    publishedDateTime: 2023-06-09T09:45:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42451/ebaday-2023-fintech-zone-finalists-announced"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/ebaday-2023.jpg"
-        width: 480
-        height: 270
         isCached: true
 
 secured: "hoyxcHwFrRb/XArS0GFDoV6LFkMXKMBXO96xMuCwiDn1I1HgeNMEegVOEN5q6wFYH3mcjuFGATKlw37uy+W7hIMl1Du4U03MK6A6j9bEmrwt2ZvUaFgHZgPYv8xkRkjS+SE7a7CI01yLxNxnIN8XVfNTl+xTgwHP8bky+xPjMmxGGuePtniC+YSTappAuvnUeWJfhw2TdZ/gN9CCNG1ny1P3b0g5qs1+A68iU/vCY60OehiUAHDiKJqbtHIxU9DGFl5vo9e4XxpqfN6ZFt3H/9+qiSXI0jO2Npru1CDQJJb5dricMPmVWaEoaj6GZDkQ0sO5npF6VdXSXhsDAguGRBnT5k71k2adgf9d/OKOXBM=;6Uj7LcZvBrCEuTX9X/XvSg=="

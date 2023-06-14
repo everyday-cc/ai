@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Meta guru says ChatGPT-style AI is out-of-date"
-excerpt: "AI and machine learning really sucks. Humans have common sense, machines don't,\" Yann LeCun told reporters at a Meta launch event in Paris."
-publishedDateTime: 2023-06-14T01:30:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/meta-guru-says-chatgpt-style-ai-is-out-of-date-10792931.html"
-webUrl: "https://www.moneycontrol.com/news/world/meta-guru-says-chatgpt-style-ai-is-out-of-date-10792931.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/meta-guru-says-chatgpt-style-ai-is-out-of-date-10792931.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/meta-guru-says-chatgpt-style-ai-is-out-of-date-10792931.html/amp"
+excerpt: "The chief scientist for Facebook-owner Meta on June 13 said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
+publishedDateTime: 2023-06-14T02:00:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/14/meta-guru-says-chatgpt-style-ai-is-out-of-date"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/14/meta-guru-says-chatgpt-style-ai-is-out-of-date"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2023/05/chatgpt-education-bbo.jpg"
-    width: 1280
-    height: 720
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/06/14/2124826.jpg"
+    width: 1240
+    height: 746
     isCached: true
 
 related:
@@ -130,20 +128,6 @@ related:
       - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
         width: 611
         height: 458
-        isCached: true
-  - title: "Can ChatGPT Design A Robot?"
-    excerpt: "Researchers with the help of chatGPT, have developed a tomato-harvesting robot after deliberating and accepting the challenges."
-    publishedDateTime: 2023-06-09T10:06:00Z
-    webUrl: "https://www.electronicsforu.com/news/can-chatgpt-design-a-robot"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 39
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/featured-1.jpg"
-        width: 800
-        height: 530
         isCached: true
   - title: "Meta exhibits new AI tools similar to ChatGPT during a company meeting"
     excerpt: "During an all-hands meeting held on Thursday, Meta's Chief Executive Officer (CEO), Mark Zuckerberg, disclosed a proposal to integrate generative artificial"
@@ -256,6 +240,6 @@ related:
       domain: azcentral.com
     quality: 10
 
-secured: "AyyqxXj0XaJ/OjGr6quM1hr6TywtqKnYkbZsg346gJUkyB46D2d6E1++cWfbX9dDvY56kyLbY1lXFOWmIGaDKMA1s+3659HvyhV13IYBt1vwgk4BaEgnIOkRPZQ4MrmtyMtRrnIhvKQDVrdS0ZjhymQSPHO6CCUsPhBF9/e9NWVi+h3sn0NHH2E0wB1GXPxxzFgq4mCehl7LPpqLnYC4ZGLELcodhl0wsdjhzBurUnKpCQzvdQNpmMCM8EPZRhZvl91AmE9lvsSQxg5NBDWqoSkWrzzDkXKDvZJ2ikvzWhMsEBZjQKjDldxOVoh8WI001nDnDrZyG7UpF5QrHvLe5FQhbEKFa9zIRYxgGpIpMvA=;5/hZGp3C4mTG4noA1crK/A=="
+secured: "GxXc1pAs8muirLnR1GulFSr4PECrrGUEVBbTchH4AbngM+dzzUrc1RjYOHzVwYAE/WBhzswSoiJlaf5R47wwBmYVT0fwwO0LrwxiFKF2tRvpDgbKzBaUu96BycpnJMlZJTb49hbNYaKny0+mO+6yrvmOKXxPGXPgd4oHeRfZpFxTAzxtQhYRdkv/ZeV4LN8e+AwNwbYuf4gtEEW/TxaVBF98ERMos8sve8+CcYza5vpAT/7vTL7AF19O212gJUinBBZ+0QVybnYNNgD0eCzyVMmGpWRYClJi1JgoiqnyXTUBVxS0q0Amq4VXdd3Pl/fD3vFOYd3bVjNgUspbG4E0c/Gn4EYJixr/XcMSTv6xBfU=;iJGj+oNzwLKbZnA1AEYo+A=="
 ---
 

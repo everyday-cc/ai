@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/business/investment/personal-finance/ai-c
 webUrl: "https://www.stltoday.com/business/investment/personal-finance/ai-could-prevent-hiring-bias-unless-it-makes-it-worse/article_5a5412b6-d7ab-53b3-874c-b47e0bbaa83b.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -28,14 +28,14 @@ related:
   - title: "AI Could Prevent Hiring Bias — Unless It Makes It Worse"
     excerpt: "At first glance, artificial intelligence and job hiring seem like a match made in employment equity heaven.There’s a compelling argument for AI’s ability to alleviate hiring discrimination: Algorithms"
     publishedDateTime: 2023-06-13T17:25:00Z
-    webUrl: "https://www.indianagazette.com/leisure/ai-could-prevent-hiring-bias-unless-it-makes-it-worse/article_f6053164-362a-5e2d-b3e2-18dacc995588.html"
+    webUrl: "https://www.montanarightnow.com/national_news/ai-could-prevent-hiring-bias-unless-it-makes-it-worse/article_bd5dbe3b-f3ab-52ab-83fb-7e4c2e6c3650.html"
     type: article
     provider:
-      name: Indiana Gazette
-      domain: indianagazette.com
-    quality: 39
+      name: montanarightnow
+      domain: montanarightnow.com
+    quality: 41
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/indianagazette.com/content/tncms/assets/v3/editorial/c/e6/ce67ebb1-bdbe-5e09-9c88-b76f19e4fea5/64878b46dddec.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/montanarightnow.com/content/tncms/assets/v3/editorial/a/5c/a5c24d02-9645-5d92-a53a-38b4e87bbd3d/64878b6e030e9.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

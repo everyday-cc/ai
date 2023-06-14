@@ -7,7 +7,7 @@ originalUrl: "https://greekreporter.com/2023/06/13/ai-generated-john-lennon-voic
 webUrl: "https://greekreporter.com/2023/06/13/ai-generated-john-lennon-voice-feature-beatles-record/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "AI is all you need: Artificial intelligence is about to help the Beatles release a new record"
+    excerpt: "The singer-songwriter, who’s one of two Beatles still alive along with Ringo Starr, told the BBC that new technology has allowed him and his production team to “extricate” the voice of John Lennon (pictured) – the outspoken Beatle who was gunned down in New York City in 1980."
+    publishedDateTime: 2023-06-14T02:33:00Z
+    webUrl: "https://siliconangle.com/2023/06/13/artificial-intelligence-help-beatles-release-new-record/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Screenshot-2023-06-14-082246.png"
+        width: 620
+        height: 572
+        isCached: true
+  - title: "The Beatles are releasing their ‘last’ record. AI helped make it possible"
+    excerpt: "Paul McCartney says artificial intelligence has been used to extract John Lennon’s voice from an old demo to create “the last Beatles record,” decades after the band broke up."
+    publishedDateTime: 2023-06-14T03:34:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/06/13/the-beatles-are-releasing-their-last-record-ai-helped-make-it-possible/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 36
+    images:
+      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/06/Britain_Beatles_01826.jpg?w=1024&#038;h=748"
+        width: 1024
+        height: 747
+        isCached: true
 
 secured: "EkuAbPkKYQyT8mFX9dqLP1HVSjncYL52Ua8dpvWww0Hgc02WfnF7tJ47MLhcFaCS5LSzUEImQXgZN8zuFS2UpEjLpFwjmxCKkYb46cQbWuCb89q+k8Aly63HfP454rZDl+hj/PyCywY+7wCVvxGj4+NZYuYU7PpgetL6pDe6//fTMIwO8P2HXbZHJ7HduV55k/dMkl7Mn4hVcUxuRMzxPxIUY+sNL4fUtzv6TKdFyHssdCcX9BdmXUSTK/ugZ9KK3nH/NWXCtRUu1u5zZEBVb6dia0qvimgyPES7ivHK1ZMzsjFPHaphOTufhmAOWP4QgwHwb74oq4H/bt+K0ucEt6fUllTLVVoHSCKEmaGmemU=;D5MkMT0Do5UD0+3SJ55Sjw=="
 ---

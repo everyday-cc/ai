@@ -77,6 +77,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AMD reveals details about AI chip that can take on leader Nvidia"
+    excerpt: "Su discussed the chip’s capabilities during a keynote presentation in San Francisco, where she showcased an AI system on the MI300X chip writing a poem about the city. “The more memory that you have, the larger the set of models” the chip can handle ..."
+    publishedDateTime: 2023-06-14T02:23:00Z
+    webUrl: "https://www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796"
+    ampWebUrl: "https://www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 74
+    images:
+      - url: "https://www.telecomlead.com/wp-content/uploads/2022/08/AMD-chipset-business.jpg"
+        width: 640
+        height: 300
+        isCached: true
   - title: "Nvidia Joins $1 Trillion Club, Fueled by AI’s Rise"
     excerpt: "Here is what you need to know about the chip company and its rise to the elite trillion-dollar list."
     publishedDateTime: 2023-06-13T20:24:00Z
@@ -90,6 +106,20 @@ related:
       - url: "https://images.wsj.net/im-790766/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "AMD's AI chip challenge to Nvidia remains uphill fight"
+    excerpt: "Advanced Micro Devices Inc gave new details about an artificial intelligence chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know - who plans to buy it."
+    publishedDateTime: 2023-06-14T03:00:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/731843-AMD/'s-AI-chip-challenge-to-Nvidia-remains-uphill-fight"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 54
+    images:
+      - url: "https://img.dunyanews.tv/news/2023/June/06-14-23/news_big_images/731843_88288148.jpg"
+        width: 753
+        height: 423
         isCached: true
   - title: "AI-Generated Video Platform Synthesia Receives Nvidia Backing At Unicorn Valuation"
     excerpt: "Synthesia is the latest AI startup to raise a big round and hit a $1 billion valuation after a $90 million Series C."

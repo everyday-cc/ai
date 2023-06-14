@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-13/uk-tech-vies-fo
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-13/uk-tech-vies-for-ai-startups-to-escape-silicon-valley-s-shadow"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Silicon Valley AI Chip Startup SiMa.ai Hooks Key Investors"
+    excerpt: "OAKLAND, California (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Tuesday said it raised an additional $13 million from investors including a key fund in Taiwan called VentureTech Alliance, which has a strong strategic partnership with Taiwan Semiconductor Manufacturing Co."
+    publishedDateTime: 2023-06-13T13:06:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-06-13/silicon-valley-ai-chip-startup-sima-ai-hooks-key-investors"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 66
 
 secured: "VunrJLKi25wUMc290mEA2NLWAkFmCXEWKAnc5EPudfGlVPnmecuTQK89yO7SVOLMeiF/n8P9rzWte44upzMuCH5P/FwtnV1ejSd37LtSCVH3PTV+rg72vNluKvV29JrE3/ab/bCXqmVm/7ujZgUhAFXoR/m3OrFKz7PkrShvwczIUC12JAV2Zy/6OpF7z4ql9eQ0lgx7o6TDCAMgxkEvnubpPRe3ZnHetqL23DTiP37ljCnWbIFwh+uOoy8u0q9FxpPxJmeOPhTzaiXiEJ7MVmrE65rWOb4wAWgphn5JTIOfbshWLxfXEnCBl9EalyFFOOGwzJKYKdLJZjTykzBQ/vKM0Ikwt+lqGCm6iYYmw34=;tJwi2xRH0vzTObW4kumcQw=="
 ---

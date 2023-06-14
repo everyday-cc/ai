@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208403-accounts-payable-aut
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208403-accounts-payable-automation-fintech-medius-announces-intent-to-acquire-expensya/amp/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,70 @@ images:
     width: 1800
     height: 1800
     isCached: true
+
+related:
+  - title: "FITC sets to hold 2023 edition of annual fintech conference"
+    excerpt: "FITC, the world-class, innovation led and technology-driven institution, which provides learning, insights, advocacy, and advisory services to the"
+    publishedDateTime: 2023-06-12T08:31:00Z
+    webUrl: "https://businessday.ng/sponsored/article/fitc-sets-to-hold-2023-edition-of-annual-fintech-conference/"
+    ampWebUrl: "https://businessday.ng/amp/sponsored/article/fitc-sets-to-hold-2023-edition-of-annual-fintech-conference/"
+    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/sponsored/article/fitc-sets-to-hold-2023-edition-of-annual-fintech-conference/"
+    type: article
+    provider:
+      name: businessday
+      domain: businessday.ng
+    quality: 44
+    images:
+      - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2023/06/20230612_092323_0000-450x300.png"
+        width: 450
+        height: 300
+        isCached: true
+  - title: "Join the Fintech Revolution With These 3 Fintech Companies!"
+    excerpt: "Real-time index price for TSX Global Base Metals Index (TXBM), along with buy or sell indicators, analysis, charts, historical performance, news and more"
+    publishedDateTime: 2023-06-13T10:01:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/TXBM/pressreleases/17663728/join-the-fintech-revolution-with-these-3-fintech-companies/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 24
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/73ed88fc281332c45d8bd1029529595d/yyzzuhq2manbfxbtnn_cna5zgbkviqlieo-gnw6v4kcwrfomq4wmlforj7qszabuq27ahl3ts64ysxab-0qxunpr11p94jr4wabov4fvojk-zwrt4qaj1__koh6kmwvoujq8xhjsobcszggciup6vuy"
+        width: 863
+        height: 402
+        isCached: true
+  - title: "F|T: The FinTech Times – SEC sets sights on crypto firms Binance and Coinbase"
+    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest ... The former pro poker player and AI whiz has ‘no regrets’ about launching US$3B crypto startup. Vancouver-based LayerZero raised $120 million USD at a $3 billion valuation ..."
+    publishedDateTime: 2023-06-12T13:32:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-sec-sets-sights-on-crypto-firms-binance-and-coinbase/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 1
+  - title: "Global Fintech As A Service Market Key Players, Size, Technology, End User, Demands, Growth Rate And Forecasts To 2028"
+    excerpt: "ReportsnReports PUNE, INDIA, June 12, 2023/einpresswire.com / -- The global fintech as a service market is anticipated to experience signific"
+    publishedDateTime: 2023-06-12T12:25:00Z
+    webUrl: "https://menafn.com/1106426029/Global-Fintech-As-A-Service-Market-Key-Players-Size-Technology-End-User-Demands-Growth-Rate-And-Forecasts-To-2028"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+  - title: "Fintech-As-A-Service Platform Market Size Is Set To Hit Nearly US$ 1 Trillion By 2028 | Global Technology, Revolutionizing Financial Services"
+    excerpt: "According to the analysis shared by our research forecaster, the Fintech-as-a-Service Platform market is likely to expand at a CAGR of around 17% during the forecast period (2022-2028). In terms of revenue,"
+    publishedDateTime: 2023-06-13T17:18:00Z
+    webUrl: "https://menafn.com/1106431004/Fintech-As-A-Service-Platform-Market-Size-Is-Set-To-Hit-Nearly-US-1-Trillion-By-2028-Global-Technology-Revolutionizing-Financial-Services"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?83788"
+        width: 356
+        height: 250
+        isCached: true
 
 secured: "r7UrhqKFKyI1kJzQ+w6w9NwLn6CllpOWSlWLePSL0jzOYqxxyNDr1rOKq4dS4wfMo3KWXO/aez1YRYLVK9JapoJ5cFl2AoeSvfaOhlvFT8qt2GVZIDsVmAFA5HRAz42FCMYTQhaCWAmH6Ss4HGuJsVujnLGcDTPtPBZQkQinhztgSrwWH6Dr3orz+AvLshZLWECP4aL1VCy63O8UU7trjhFID9HNyL74VITO4U3g5APsXN6QsFmx8nA50e5hBLfNMB1PtEFh/4T1SXZx2eaNqF75/PG+kOqIMc+1/SbKUofM8zveGsnTBb7eSHNMCeZnEZaZ3MnOkHkoAEXscUrJlhJKHedEtakXDW/k6gM2Ubdslc2tPryLxpYGNBT08HG2tmEbkX7DzNa6DPJRf7n9ClyQ331PuU6QiuC8p6+ys+tlPODareyACRkbwNP1hoP4Xe7kQklStIxMoPjyfrOStUwSLFcjBOj4IPSyU/4y273JLWyz1k7/VuJcIwoQtq8i9cNVsU9oqRhUKnjI6qzdVw==;Mu2IrrpS0IOOYlF/FSOPJg=="
 ---

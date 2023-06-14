@@ -20,15 +20,20 @@ topics:
   - AI in Security
 
 related:
-  - title: "Why advanced API security is critical to outsmarting new threats"
-    excerpt: "Noname Advanced API Security for IBM aims to further enhance the strength of solutions for monitoring and locking down APIs from evolving threats. \nThe post Why advanced API security is critical to outsmarting new threats appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-06-09T11:00:00Z
-    webUrl: "https://www.ibm.com/blog/noname-advanced-api-security-for-ibm/"
+  - title: "AI-powered malware is a growing security concern, CyberArk survey finds"
+    excerpt: "AI-enabled threats are a major concern; 93% of cybersecurity professionals surveyed expect such threats to impact their organization."
+    publishedDateTime: 2023-06-13T15:10:00Z
+    webUrl: "https://venturebeat.com/security/ai-powered-malware-is-a-growing-security-concern-cyberark-survey-finds/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_a_computer_screen_displays_a_pixellated_skull_and_cross_95c92a74-f651-4ddf-ae1d-891284dd88bf.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
 
 secured: "usLeandkabJCe8fw7t+Zs1fyvfjSmKL+PZwcToUht6SPA9/yqwdzWZMddM/6q02/cUxKV7P052z1MUanSNoDN9fbnXvbob68nkrEI857qmO5pbg6JJ7dwmiChbh0wAhjtbHPnJxeFGRjtsSnAwbYvWaRZA5Dpd6Q4QbeEeSLjlXNmNbHJB5xnz6MC9Rq6wAIvv6lKfgPq/fMX2g2nu7Lkzy0zs+8VxKw3QwRmJLmKRexcHSIEBZcGn6oPlpUz4Qfqu6wMRvl7Hoc8hnPvwk4mH5N2UBi3GydZ5Qht3ouyI1TvSFEPC8sVxMUsIGt+T5Q5wJTLiAK2Y9BgnwZj4BdKBvYZSTYKYpetjhlRaD94o5Hu+HzKb0+ax7tUX4TgmsbQKvQLEyRrtTprWuvpUD/knfWqR+s3xoXGY37dDGX5idMQyUbGnRs06vcwM3tTUYRl9ODWGZBTBjfdLJPWapJ6KpI5Y0sc/oMYrSIPt3bKVz9RR+Frf+jiB8zsnJnLug4Pc3OczpM0CfVLrVDoLZUBw==;WAAMc9uZ9VcTPRaJ7Pfk6w=="
 ---

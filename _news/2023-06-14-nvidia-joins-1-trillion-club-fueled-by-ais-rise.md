@@ -90,6 +90,36 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AMD reveals details about AI chip that can take on leader Nvidia"
+    excerpt: "Su discussed the chip’s capabilities during a keynote presentation in San Francisco, where she showcased an AI system on the MI300X chip writing a poem about the city. “The more memory that you have, the larger the set of models” the chip can handle ..."
+    publishedDateTime: 2023-06-14T02:23:00Z
+    webUrl: "https://www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796"
+    ampWebUrl: "https://www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 74
+    images:
+      - url: "https://www.telecomlead.com/wp-content/uploads/2022/08/AMD-chipset-business.jpg"
+        width: 640
+        height: 300
+        isCached: true
+  - title: "AMD's AI chip challenge to Nvidia remains uphill fight"
+    excerpt: "Advanced Micro Devices Inc gave new details about an artificial intelligence chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know - who plans to buy it."
+    publishedDateTime: 2023-06-14T03:00:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/731843-AMD/'s-AI-chip-challenge-to-Nvidia-remains-uphill-fight"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 54
+    images:
+      - url: "https://img.dunyanews.tv/news/2023/June/06-14-23/news_big_images/731843_88288148.jpg"
+        width: 753
+        height: 423
+        isCached: true
   - title: "AI-Generated Video Platform Synthesia Receives Nvidia Backing At Unicorn Valuation"
     excerpt: "Synthesia is the latest AI startup to raise a big round and hit a $1 billion valuation after a $90 million Series C."
     publishedDateTime: 2023-06-13T17:36:00Z
@@ -123,6 +153,6 @@ related:
       domain: emirates247.com
     quality: 17
 
-secured: "X53KpHPtamiviSSksKq7VjeIIpVxkXYMOSuDa1TyhP2Hd72I9Ctj/r8xNUVOrf00AnX7gUNxjRmNTSNJmbD2Mvt8p/rJ+cecJZmBAptKBx6QZBBIBJUdhcEfOl9pW/p2SSn7Q4Obe+QWBSqXT3Vp413Q+31FN8XouQBbPBmeTSNkUoQQDNhP0WiA2C8OxrFpQTJWXkSKV798h/6jBRFQDnFSFUavTGkHmdj7By5d3pbXw5jEpbRQEp+HVZ+xF3964cU9O7ZJh9Ivlbz5CCt5j4PUJnzXC1Z1gn5MDl0cvCCUzWltqyOxWjnLILDvV+EIkaP0qehydnCI6jqf3JcQL+24+HvvPOmQUdjxVKFwaAY=;ws9vLxW6D9tElOzFXx9HCA=="
+secured: "szRL+n3hS+Dh9rv/bkTdKyd0XLeHqbiw6PyNgc5llEx/p2BT+GsbHqTOk28V9aEQc49Ad4avEgVt9UCyzRUYT1Cw5fml/s3w4gtNi6SdwJd5abc9l7kLNQMAvhknJqN0aR5/ZsLhig8i5eKTY3fGwgSpV168K1xfmpn/65xHgUoZJifdRSU0JZjCfOksRXjHN74jDZ7X0wFThGAyz8C3nW5pBDFXW1fVEPQNycx5/nypVSsv1QFDuAuZy+XsFkHX5iRiwDo/m+9iVMZrFYoauj6szGKu68lyL9QTv0tGc4d1A/6cXLGU2VVz4NVMMsaTYeezHlvdzJ3qhy8zb3XxS497zSvVnF3cHsGNOaz33XR9o5aENz+FCmseqAnkh02sAabixlGpfVrEl6BegBOTtwBtmAdDGe+frVkskPh66spHLiiDCfNoXf/pIWHAyq/T86jVxmRQkCVTnkOXL7e+9MR79pOtrkPouAUBqKqMlrSoH3x2aRX0cdHBSD2gqyoTE3nC+AAL8fgDKmFAMh/Iwg==;ZEkFV+KxazNP2J9ocJdzSQ=="
 ---
 

@@ -87,22 +87,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Meta guru says ChatGPT-style AI is out-of-date"
-    excerpt: "AI and machine learning really sucks. Humans have common sense, machines don't,\" Yann LeCun told reporters at a Meta launch event in Paris."
-    publishedDateTime: 2023-06-14T01:30:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/meta-guru-says-chatgpt-style-ai-is-out-of-date-10792931.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/meta-guru-says-chatgpt-style-ai-is-out-of-date-10792931.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/meta-guru-says-chatgpt-style-ai-is-out-of-date-10792931.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/chatgpt-education-bbo.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Samsung Electronics Supplants ChatGPT With Proprietary AI Due to Security Concerns"
     excerpt: "Samsung Electronics is moving away from the use of ChatGPT, citing security issues, and developing its in-house artificial intelligence (AI) to assist employees with tasks such as translation, knowledge search,"
     publishedDateTime: 2023-06-12T07:25:00Z
@@ -130,20 +114,6 @@ related:
       - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
         width: 611
         height: 458
-        isCached: true
-  - title: "Can ChatGPT Design A Robot?"
-    excerpt: "Researchers with the help of chatGPT, have developed a tomato-harvesting robot after deliberating and accepting the challenges."
-    publishedDateTime: 2023-06-09T10:06:00Z
-    webUrl: "https://www.electronicsforu.com/news/can-chatgpt-design-a-robot"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 39
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/06/featured-1.jpg"
-        width: 800
-        height: 530
         isCached: true
   - title: "Meta exhibits new AI tools similar to ChatGPT during a company meeting"
     excerpt: "During an all-hands meeting held on Thursday, Meta's Chief Executive Officer (CEO), Mark Zuckerberg, disclosed a proposal to integrate generative artificial"
@@ -200,6 +170,20 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/06/8873167_1629185100_AI-in-SamsungArtboard-1.jpg"
         width: 750
         height: 360
+        isCached: true
+  - title: "Meta guru says ChatGPT-style AI is out-of-date"
+    excerpt: "The chief scientist for Facebook-owner Meta on June 13 said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
+    publishedDateTime: 2023-06-14T02:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/14/meta-guru-says-chatgpt-style-ai-is-out-of-date"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/14/2124826.jpg"
+        width: 1240
+        height: 746
         isCached: true
   - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
     excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."
