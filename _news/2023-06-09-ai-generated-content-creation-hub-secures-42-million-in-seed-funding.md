@@ -38,6 +38,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "AI video creation startup Synthesia reels in $90M from investors"
+    excerpt: "The investment values Synthesia at $1 billion. London-based Synthesia offers a platform that can generate realistic, AI-powered avatars for use in videos. The platform offers about 140 prebuilt avatars that can read out a user-supplied script in more than 120 languages."
+    publishedDateTime: 2023-06-13T22:37:00Z
+    webUrl: "https://siliconangle.com/2023/06/13/ai-video-creation-startup-synthesia-reels-90m-investors/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image-3.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Energy Generation Forecasting DeepTech Startup Solarad.ai Raises Undisclosed Funding from India Quotient"
     excerpt: "Solarad.ai, a pioneer in energy forecasting for solar, Secures Undisclosed Amount of Funding in Seed Round to Accelerate Growth from India Quotient."
     publishedDateTime: 2023-06-13T08:13:00Z

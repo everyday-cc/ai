@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/13/simple-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/13/simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 770
         height: 513
         isCached: true
-  - title: "5 Ways People Are Using AI to Try to Make Money"
-    excerpt: "Start repairing your credit today! As entrepreneurs, corporate executives and investors race to figure out how to leverage artificial intelligence to make money, folks at home are also wondering if AI tools like ChatGPT can help them get rich. On social ..."
-    publishedDateTime: 2023-06-09T23:38:00Z
-    webUrl: "https://www.newsobserver.com/money/make-money-online-with-ai-chatgpt/"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 17
   - title: "17 Smart and Simple Ways People With High Emotional Intelligence Are Already Using Artificial Intelligence"
     excerpt: "When it comes to artificial intelligence, people with high emotional intelligence have an advantage over everyone else."
     publishedDateTime: 2023-06-11T04:38:00Z

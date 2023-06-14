@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AMD Preps GPU to Challenge Nvidia's Grip on the Generative AI Market"
-excerpt: "Nvidia has been dominating the market for chips capable of training generative AI programs, but AMD is now trying to claim its share of the pie through a new enterprise-grade GPU. The company today announced the AMD Instinct MI300X, a so-called ..."
-publishedDateTime: 2023-06-13T21:07:00Z
-originalUrl: "https://au.pcmag.com/ai/100472/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market"
-webUrl: "https://au.pcmag.com/ai/100472/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market"
+excerpt: "The AMD Instinct MI300X supports up to 192GB of HBM3 memory, and it's designed to train large language models that power programs such as ChatGPT."
+publishedDateTime: 2023-06-13T20:57:00Z
+originalUrl: "https://www.pcmag.com/news/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market"
+webUrl: "https://www.pcmag.com/news/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market"
 type: article
 quality: 84
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/a/amd-preps-/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai_ezs8.1200.png"
-    width: 1200
-    height: 659
+  - url: "https://i.pcmag.com/imagery/articles/05QRwD3jur9IBN1rQ1rDcNw-1.fit_lim.size_1200x630.v1686688086.png"
+    width: 1147
+    height: 630
     isCached: true
 
 related:
@@ -60,6 +60,22 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-1-800x534.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "AMD CEO Sees $150 Billion Future In AI, New Chip To Take On Nvidia"
+    excerpt: "AMD's new GPU, the MI300, is specifically designed for large language models such as GPT-4. The company will rollout MI300 to customers in the third quarter, with full production planned end of year."
+    publishedDateTime: 2023-06-13T23:09:00Z
+    webUrl: "https://www.benzinga.com/news/large-cap/23/06/32846752/amd-ceo-sees-150-billion-future-in-ai-new-chip-to-take-on-nvidia"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32846752"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32846752"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/06/13/shutterstock_1954818265.jpg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Nvidia Joins $1 Trillion Club, Fueled by AI’s Rise"
     excerpt: "Here is what you need to know about the chip company and its rise to the elite trillion-dollar list."
@@ -108,6 +124,6 @@ related:
       domain: emirates247.com
     quality: 17
 
-secured: "mvf8PGAWI1F8tpA1sSwqeXyO+GsOJGqa03X3jXFpetYu7IgTH//YNQ8sFxNc5dOLdsl+nAkz1S9spvlcCuN2pwRu46ASRtWMJd/Rwqy8cNk3/3GckT2ohlTbWi2DjSvNe7L+wjogWBCEl0kH61H0GL4YfvMRjFwQudwY3hnOZdtU0SijTpVhnx4MlGojhcez/Nn7FrO1WAWBLhjTtCCYzcyaRDlC0CtQCgrfP5PLJMJc/qeAsGMeQofdlhPNNWC3dzWMSO12DJERaoSiQS3rP2VBIUUbxeVGEzLQBTgxa6s+8RJXF36xczVwNUnXShjJor/KeENeIRQLC4jTiRHufJpN21OJqt8bpzzwObi/w7w=;fXDAF2r+E2xWXpiGv+AjKQ=="
+secured: "jO+4/1nL+droENM6oXCnZ5buUjH4+EZmRTdKlfyCKIuns2bahOjg6uuOfS5SSDC4wcdRD19PUZsm+n7L5irmCmPhOYi6XXDr4z1xb3t+cnC6JAOTSc/GVkZSeilX9ua1EfVrhV6pCrczJg2H7EhLuvP9j6tu9X5AD5Vt39E7nHg/1A8X4J460qMqeeZHeywkxkAuXvXmG8HTUOR0RCljBQct8po2lsxowBGWMU/oqAoSVvxk4P+9sGOtxQi+Vp6WLNJm3aqJxGSUsjtk0YWlt8othf1AmMz8ys70XxZmrliHkk0eCQzFhn1AdCinzHWIuyKg5qDTfkATI2vFGlHZu+8fqGAX4HBDpwjfVwIfG+o=;+KjWfrY4a/neuFLMTrn1PQ=="
 ---
 

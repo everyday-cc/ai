@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "5 Ways People Are Using AI to Try to Make Money"
-    excerpt: "Start repairing your credit today! As entrepreneurs, corporate executives and investors race to figure out how to leverage artificial intelligence to make money, folks at home are also wondering if AI tools like ChatGPT can help them get rich. On social ..."
-    publishedDateTime: 2023-06-09T23:38:00Z
-    webUrl: "https://www.newsobserver.com/money/make-money-online-with-ai-chatgpt/"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 17
   - title: "17 Smart and Simple Ways People With High Emotional Intelligence Are Already Using Artificial Intelligence"
     excerpt: "When it comes to artificial intelligence, people with high emotional intelligence have an advantage over everyone else."
     publishedDateTime: 2023-06-11T04:38:00Z

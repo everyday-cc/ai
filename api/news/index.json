@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-14-rackspace-takes-a-fair-approach-to-generative-ai.md",
-      "title": "Rackspace takes a FAIR approach to generative AI",
-      "excerpt": "Rackspace offers new services to help organizations better understand, build and deploy generative AI workloads in public and private clouds.",
+      "path": "_news/2023-06-14-amd-unleashes-epyc-bergamo-and-genoa-x-data-center-cpus-ai-ready-instinct-mi300x-gpus.md",
+      "title": "AMD Unleashes EPYC Bergamo And Genoa-X Data Center CPUs, AI-Ready Instinct MI300X GPUs",
+      "excerpt": "AMD has announced the next flavors of 4th Gen EPYC, Genoa-X and Bergamo. Genoa-X uses 3D V-Cache to boost technical computing workloads, while Bergamo has a slimmer, scaled out approach to accelerate cloud native workloads.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/rackspace-takes-a-fair-approach-to-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/rackspace-takes-a-fair-approach-to-generative-ai/",
+      "webUrl": "https://hothardware.com/news/amd-epyc-bergamo-genoa-x-instinct-mi300x",
+      "originalUrl": "https://hothardware.com/news/amd-epyc-bergamo-genoa-x-instinct-mi300x",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-527941127-e1686608448258.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
+          "url": "https://images.hothardware.com/contentimages/newsitem/61835/content/small_amd-bergamo-hero.jpg",
+          "width": 708,
+          "height": 398,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T13:59:00-07:00",
+      "ampWebUrl": "https://amp.hothardware.com/news/amd-epyc-bergamo-genoa-x-instinct-mi300x",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-epyc-bergamo-genoa-x-instinct-mi300x",
+      "publishedDateTime": "2023-06-13T16:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,6 +40,7 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -61,7 +53,7 @@
       "originalUrl": "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -113,7 +105,7 @@
       "originalUrl": "https://www.wsj.com/articles/salesforce-aims-to-plug-ai-trust-gap-with-new-tech-tools-19e11750",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -414,7 +406,7 @@
       "originalUrl": "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -517,7 +509,7 @@
       "originalUrl": "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -568,7 +560,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 257,
+      "heat": 277,
       "tags": null,
       "images": [
         {
@@ -775,7 +767,7 @@
       "originalUrl": "https://www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning-11686566054332.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -818,7 +810,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/13/simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {

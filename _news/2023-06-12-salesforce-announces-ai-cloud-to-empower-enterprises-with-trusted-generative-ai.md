@@ -28,109 +28,86 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Generative AI Platform Is Now Available To Everyone"
-    excerpt: "With the service becoming GA, enterprises and organizations could integrate the platform's capabilities with their applications."
-    publishedDateTime: 2023-06-09T05:30:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/"
+  - title: "Salesforce Aims to Plug ‘AI Trust Gap’ With New Tech Tools"
+    excerpt: "The software giant says its new technology will help clients use generative AI tools such as ChatGPT safely by protecting proprietary data, among other things."
+    publishedDateTime: 2023-06-13T20:23:00Z
+    webUrl: "https://www.wsj.com/articles/salesforce-aims-to-plug-ai-trust-gap-with-new-tech-tools-19e11750"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6482b8837a0f4f82412c5c61/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://images.wsj.net/im-799829/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "5 ways to explore the use of generative AI at work"
-    excerpt: "ChatGPT and other generative AI tools have captured the public imagination. Here's how you can turn a much hyped tool into a productivity boon."
-    publishedDateTime: 2023-06-12T13:52:00Z
-    webUrl: "https://www.zdnet.com/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
+  - title: "Salesforce pledges to invest $500M in generative AI startups"
+    excerpt: "Salesforce has announced that it has doubled the size of its Generative AI Fund for startups from $250 million to $500 million."
+    publishedDateTime: 2023-06-12T13:31:00Z
+    webUrl: "https://techcrunch.com/2023/06/12/salesforce-pledges-to-invest-500m-in-generative-ai-startups/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/6448985610910fb9c6027b90eaf317dac61b65da/2023/06/12/c6a475c6-2642-4195-b8e8-9aabbb64edee/gettyimages-1252207238.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Firm study predicts big spends on generative AI"
-    excerpt: "A new study polling software buyers at businesses worldwide finds strong intention to increase budget, with special interest in AI. It also looks at how vendors can engage buyers."
-    publishedDateTime: 2023-06-09T22:22:00Z
-    webUrl: "https://www.techrepublic.com/article/big-spends-generative-ai-saas-g2/"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "Salesforce launches AI Cloud with raft of generative AI tools"
+    excerpt: "Salesforce's ChatGPT-style tools are designed to provide customers with large language models integrated with the company's products."
+    publishedDateTime: 2023-06-12T18:31:00Z
+    webUrl: "https://www.techrepublic.com/article/salesforce-launches-ai-cloud-generative-ai-tools/"
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 71
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr6923-Hero.G2.jpeg"
-        width: 969
-        height: 610
-        isCached: true
-  - title: "Google's generative AI platform ‘Vertex’ now available to everyone"
-    excerpt: "Google announced the general availability of generative AI services based on Vertex AI, the machine learning platform as a service (ML PaaS) offering from Google Cloud. With the service becoming generally available,"
-    publishedDateTime: 2023-06-12T04:51:00Z
-    webUrl: "https://www.emirates247.com/technology/google-s-generative-ai-platform-vertex-now-available-to-everyone-2023-06-12-1.713024"
-    ampWebUrl: "https://www.emirates247.com/technology/google-s-generative-ai-platform-vertex-now-available-to-everyone-2023-06-12-1.713024?ot=ot.AMPPageLayout"
-    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/google-s-generative-ai-platform-vertex-now-available-to-everyone-2023-06-12-1.713024?ot=ot.AMPPageLayout"
-    type: article
-    provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 59
-    images:
-      - url: "https://www.emirates247.com/polopoly_fs/1.713025.1686545324!/image/image.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Snorkel AI looks beyond data labeling for generative AI"
-    excerpt: "Snorkel AI is announcing new capabilities that extend beyond data labeling to help organizations, curate and prepare data for Generative AI."
-    publishedDateTime: 2023-06-12T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/snorkel-ai-looks-beyond-data-labeling-for-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
     quality: 47
-  - title: "Oracle invests in Cohere, plans to integrate generative AI tools into its cloud"
-    excerpt: "Oracle has invested in generative AI company Cohere, in a deal that valued the business at around $2.2 billion. The $270m Series C round also saw participation from Nvidia and Salesforce. Oracle's investment is said to loosely mirror that of Microsoft with OpenAI and Google with Anthropic,"
-    publishedDateTime: 2023-06-11T16:09:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/oracle-invests-in-cohere-plans-to-integrate-generative-ai-tools-into-its-cloud/"
+  - title: "Salesforce AI Cloud Seeks To Combat ‘Trust Gap,’ Hallucinations"
+    excerpt: "Salesforce is also working on AI prompts to ground generated outputs and provide generated content without hallucinations, the term for when AI produces incorrect results despite the training data. Two AI Cloud features go into GA this month. One is Einstein GPT Trust Layer, which promises to prevent LLMs from retaining sensitive customer data."
+    publishedDateTime: 2023-06-13T13:55:00Z
+    webUrl: "https://www.crn.com/news/cloud/salesforce-ai-cloud-seeks-to-combat-trust-gap-hallucinations"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0282-183f20e618a6-0da55896c868-1000/salesforce-einstein-1.jpeg"
+        width: 611
+        height: 459
+        isCached: true
+  - title: "Salesforce Connections - how Baptist Health personalizes its patient engagement and what AI may bring to the story"
+    excerpt: "How to personalize and scale patient engagement in the hugely competitive US healthcare sector is a major challenge for all providers. New AI tech may be one way to achieve this, reckons Baptist Health,"
+    publishedDateTime: 2023-06-09T11:08:00Z
+    webUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring"
+    ampWebUrl: "https://diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-connections-how-baptist-health-personalizes-its-patient-engagement-and-what-ai-may-bring?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
     quality: 35
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Oracle_plane.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://diginomica.com/sites/default/files/images/2023-06/medicine-g81bb96e1e_640.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "Snorkel AI Introduces New Foundation Model Data Platform to Bring the Power of Programmatic Data Development to Generative AI"
-    excerpt: "Press Release Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic data development approach. With Snorkel AI's Foundation Model Data Platform,"
-    publishedDateTime: 2023-06-12T14:26:00Z
-    webUrl: "https://venturebeat.com/business/snorkel-ai-introduces-new-foundation-model-data-platform-to-bring-the-power-of-programmatic-data-development-to-generative-ai/"
+  - title: "Salesforce touts AI strategy, doubles investment in start-ups"
+    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI start-ups as the company banks on the emerging technology to help resuscitate sales growth."
+    publishedDateTime: 2023-06-12T19:19:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jun/12/salesforce-touts-ai-strategy-doubles-investment-in/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 22
-  - title: "Oracle to introduce cloud-based generative AI service"
-    excerpt: "Oracle will soon be introducing a cloud-based generative AI service. The move was announced by CEO Larry Ellison during a call following the quarterly"
-    publishedDateTime: 2023-06-13T11:35:00Z
-    webUrl: "https://www.techzine.eu/news/applications/107393/oracle-to-introduce-cloud-based-generative-ai-service/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
+      name: The Spokesman-Review
+      domain: spokesman.com
     quality: 17
+  - title: "Salesforce introduces AI Cloud, announces $500Mn generative AI startup fund"
+    excerpt: "Salesforce introduces AI Cloud, integrating Einstein, Data Cloud, Tableau, Flow, and MuleSoft to boost productivity with generative AI capabilities."
+    publishedDateTime: 2023-06-12T18:18:00Z
+    webUrl: "https://thetechportal.com/2023/06/12/salesforce-introduces-ai-cloud-announces-500mn-generative-ai-startup-fund/"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 15
 
 secured: "IhOZ4H1qrXS5pCeu3o9e13pcBj9c7s0jz5tSdrdk/XK2kRT5Y58OrrvlmmwhSW0b+UrQ4A3rnstHHeiO3UFp3o5EmCPoifnFd9ZAL0jYSO1f8cv45SCOC4vu0ei9ae/4scO3Jr5ZArt7tcuwdfs4cpWV2vWkeLbDJU3zMOsxXSngVyLLE8+nWeVo8mc/ynE+E9NAEoS5JHbBHErz5m1UiOfNYBd2k34MZ73h3mvmMvcUs37sjMRL9JbQX5r4QXFxeGqG/LWLPIGItOpFyYQdNcpOIfio3YGDaUMFy8cpxLvMepwS5O0QYEJP0RXQ4cr+OxaBMggnUF+hZi208MQx9MV56tBE2ZLUFbzMdT3lh6i1gnVELkvge4FjH5Y9cznKq+gEBiG6c41HcJLB1UowowWkw+lBd+hofcLZ5mfNet7hcH/siX7CMTPadin4L6bTOUc/n1qRTM6Kr0LiPweg0oYj8eDlzkwvsRi+0lcNEQsXtsS5hk/pUYYkW5utSWN4TXcFeHwqwyglnKXiqU/Vlg==;OysT/lugOZvn4cD9GAkkQQ=="
 ---

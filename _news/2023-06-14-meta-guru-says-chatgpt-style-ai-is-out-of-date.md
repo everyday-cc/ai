@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Meta guru says ChatGPT-style AI is out-of-date"
-excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
-publishedDateTime: 2023-06-13T17:18:00Z
-originalUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
-webUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
-ampWebUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
+excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead"
+publishedDateTime: 2023-06-13T22:13:00Z
+originalUrl: "https://news.rthk.hk/rthk/en/component/k2/1704691-20230614.htm"
+webUrl: "https://news.rthk.hk/rthk/en/component/k2/1704691-20230614.htm"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: 香港電台網站
+  domain: rthk.hk
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
-    width: 2880
-    height: 1616
+  - url: "https://newsstatic.rthk.hk/images/mfile_1704691_1_S_20230614012416.jpg"
+    width: 287
+    height: 215
     isCached: true
 
 related:
@@ -256,6 +254,6 @@ related:
       domain: azcentral.com
     quality: 10
 
-secured: "T+gr0pwPdeQWfHEj8b9feCpixny0AL3XQ7MxXHyQCb8Yjfwh8qv7Nbn3BNgeZ8DmINXgF1kXDqG32NA+EVbbNC1Md6O8xryZ5WAdUWgAFzpazdPGve83nWfKWND2aZBdKRqBO6zCfzFMI+pVIJvuw4QzPbP/FVXkEHv+k8IxU2hIEaSxcLGVASqInH5YKZj1dEdKuMg09y/LYyRGmEzZwaEkqoevCPAZrtzQ+j3enUJ2ue+uQkjZNjzZorJecNJtf/+TetDFG3R6ip9r6RiKPy24KCo8w/gWBBIGPv+jY9+eTVfCPxuZKUPevKqR8rodeuQSb72+btnCYWzf8Jq9OTViig7dUOlzwyL+8juewy07wYYWN6pOyDaLUkDGuwC1s4V4Tvgq0xDdSAApHpffB9qtnPhc5yOXnsLAQUUbgYBQxih/wjgPn8ruTssLXnVuzxEOyaaprEGMuD/p0Zn8aUiRKdn6FzSry746pKOuUz5IAc1X1Q/zVfthFn9P0+Bp6M3O2mcfb/vzNx55/2m7SQ==;KsaJbOQ21U/tVQIM1FN4aA=="
+secured: "WSnqGquQla1D7B/fxAQNYtmijoZs44/BwVSUpkcrKBDyIWAltq9uHqKeR1MDJSu4+pJK2T8tPdHzkE/K6y1zz96BWtW2rw+50XkhMdX8sY6jEWs2DKJrloa5V5CM+s/qj71oTUoKGOxD7zfbSwjiLBh5B6K/d9OpMjO2TsMF5zYiunwB+s5Mpk5se5j34imffO3ntOLs459O3ZKZKteZvMlnY9b1GXlA5yyK50ausXhwIMh79T5+NgIwjEELq6HZTuU7coIdayIMhMlWNJQeZgGf93IQYGddreK4nqDydr/cYmDXPFsrDLdERcRU5bgFCn9irM20bJOng6x3IJPWaT5rgMY3plFVF0pM3BHSDhM=;lv578GLxRpfCrrQGJNhB3g=="
 ---
 

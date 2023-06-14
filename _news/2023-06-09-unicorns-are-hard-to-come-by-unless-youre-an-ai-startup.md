@@ -27,20 +27,6 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 47
-  - title: "AI-generated images are everywhere. Here's how to spot them"
-    excerpt: "It's easy to be fooled by AI-generated images and other content. We talk about how to identify them, how media literacy can help, plus how to use these tools responsibly."
-    publishedDateTime: 2023-06-13T04:10:00Z
-    webUrl: "https://www.npr.org/2023/06/07/1180768459/how-to-identify-ai-generated-deepfake-images"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 39
-    images:
-      - url: "https://media.npr.org/assets/img/2023/06/08/detectingai_02_wide-490b899012edf8bee6419139f70e38d991cbd644-s1400-c100.jpg"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Unicorns are hard to come by, unless you're an AI startup"
     excerpt: "The number of tech upstarts valued at $1 billion has fallen from its peak in 2021, but there's new traction the AI space in particular."
     publishedDateTime: 2023-06-09T19:47:00Z

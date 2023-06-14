@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-
 webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-hospitality-industry"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "The Security Implications of Adopting Large Language Models and Generative AI"
-    excerpt: "Learn about instances where data breaches have occurred due to the use of third-party LLMs and generative AI, and why CISOs must develop robust policies to counter the risks associated with shadow AI."
-    publishedDateTime: 2023-06-09T18:39:00Z
-    webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
+  - title: "The AI revolution will change work but nobody agrees how"
+    excerpt: "Goldman Sachs estimated that the technology behind popular AI tools such as DALL-E and ChatGPT could automate the equivalent of 300 million full-time jobs."
+    publishedDateTime: 2023-06-10T04:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-ai-revolution-will-change-work-but-nobody-agrees-how/articleshow/100890168.cms"
     type: article
     provider:
-      name: WWT
-      domain: wwt.com
-    quality: 33
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "tVo5am7mSOVSfMhcxJBIVAhLc9VSRPR1bxQxp1DcLKxRuikf7VvTdNFHOXdTKxSgfnt+1tFznhmGe4RjP8Z7StiSG+q2xszrmF0BiUbgJz6aB5dnHxE9EXCpwYluqBkzzXIWEj7jtyhhCdUHpe0mYAx/iM6eu0MnFSiYRN/UoqhsGZShBqGz+qsaQPuTRWhDCeTmJPIAkihpHfTv2cqq7V2M3wqNm0ZP7IdeHdeeW0g874Vgv0nwCAfawCZkkJLPEJJRhGUz49w5J4ifjvvAyMbGkO482DXIvCbX+/J39R9sRc/ClyzzBURlFo4ssnkl86LJzNaJVvwGuaz1/atPxIYX/GQjrLVut+E8HOTIeG742G5WP+HAbjmQ3bJGkZaBRuMbChueeRLOGE8y7uiel0KjJCU6+wP8kzHLmfY02QsJn712brpwPXxrbrGho6ekYFiVd7BwGriBuJ0c0LJAW7EhcesyyDXmAWwMqg56eGS7N61PZ7gnxGSULyEc8YCP3Y719SkBavoCh/N30cHOjw==;nDqyPgAXtANlo0wU4R3m+A=="
 ---

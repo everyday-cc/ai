@@ -36,6 +36,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Salesforce announces AI Cloud to empower enterprises with trusted generative AI"
+    excerpt: "The new AI Cloud platform from Salesforce offers real-time generative AI capabilities easily incorporated into business operations."
+    publishedDateTime: 2023-06-12T14:52:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-announces-ai-cloud-to-empower-enterprises-with-trusted-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_marc_benioff_stands_below_a_puffy_glowing_blue_cloud_ra_0acbf8bf-d49f-4e8b-8bb0-7e63ea41c82e.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Salesforce launches AI Cloud with raft of generative AI tools"
     excerpt: "Salesforce's ChatGPT-style tools are designed to provide customers with large language models integrated with the company's products."
     publishedDateTime: 2023-06-12T18:31:00Z

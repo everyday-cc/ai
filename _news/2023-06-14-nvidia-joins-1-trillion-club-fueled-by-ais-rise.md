@@ -61,18 +61,34 @@ related:
         height: 534
         isCached: true
   - title: "AMD Preps GPU to Challenge Nvidia's Grip on the Generative AI Market"
-    excerpt: "Nvidia has been dominating the market for chips capable of training generative AI programs, but AMD is now trying to claim its share of the pie through a new enterprise-grade GPU. The company today announced the AMD Instinct MI300X, a so-called ..."
-    publishedDateTime: 2023-06-13T21:07:00Z
-    webUrl: "https://au.pcmag.com/ai/100472/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market"
+    excerpt: "The AMD Instinct MI300X supports up to 192GB of HBM3 memory, and it's designed to train large language models that power programs such as ChatGPT."
+    publishedDateTime: 2023-06-13T20:57:00Z
+    webUrl: "https://www.pcmag.com/news/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 84
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/a/amd-preps-/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai_ezs8.1200.png"
-        width: 1200
-        height: 659
+      - url: "https://i.pcmag.com/imagery/articles/05QRwD3jur9IBN1rQ1rDcNw-1.fit_lim.size_1200x630.v1686688086.png"
+        width: 1147
+        height: 630
+        isCached: true
+  - title: "AMD CEO Sees $150 Billion Future In AI, New Chip To Take On Nvidia"
+    excerpt: "AMD's new GPU, the MI300, is specifically designed for large language models such as GPT-4. The company will rollout MI300 to customers in the third quarter, with full production planned end of year."
+    publishedDateTime: 2023-06-13T23:09:00Z
+    webUrl: "https://www.benzinga.com/news/large-cap/23/06/32846752/amd-ceo-sees-150-billion-future-in-ai-new-chip-to-take-on-nvidia"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32846752"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32846752"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/06/13/shutterstock_1954818265.jpg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
   - title: "AI-Generated Video Platform Synthesia Receives Nvidia Backing At Unicorn Valuation"
     excerpt: "Synthesia is the latest AI startup to raise a big round and hit a $1 billion valuation after a $90 million Series C."

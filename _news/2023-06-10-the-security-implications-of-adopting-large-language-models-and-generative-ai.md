@@ -7,7 +7,7 @@ originalUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-
 webUrl: "https://www.wwt.com/article/the-security-implications-of-adopting-large-language-models-and-generative-ai"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -20,20 +20,186 @@ topics:
   - AI in Security
 
 related:
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Hospitality Industry"
-    excerpt: "For better or worse, generative Artificial Intelligence (AI) is already transforming the way we live and work. Within two months of its initial release to the public, ChatGPT reached 100 million month"
-    publishedDateTime: 2023-06-12T20:05:00Z
-    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-hospitality-industry"
+  - title: "5 ways to explore the use of generative AI at work"
+    excerpt: "ChatGPT and other generative AI tools have captured the public imagination. Here's how you can turn a much hyped tool into a productivity boon."
+    publishedDateTime: 2023-06-12T13:52:00Z
+    webUrl: "https://www.zdnet.com/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 33
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=bUj9XK9t"
-        width: 500
-        height: 309
+      - url: "https://www.zdnet.com/a/img/resize/6448985610910fb9c6027b90eaf317dac61b65da/2023/06/12/c6a475c6-2642-4195-b8e8-9aabbb64edee/gettyimages-1252207238.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Reinventing the data experience: Use generative AI and modern data architecture to unlock insights"
+    excerpt: "Implementing a modern data architecture provides a scalable method to integrate data from disparate sources. By organizing data by business domains instead of infrastructure, each domain can choose tools that suit their needs. Organizations can maximize the value of their modern data architecture with"
+    publishedDateTime: 2023-06-13T17:18:47Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 75
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/generative-ai-modern-data-architecture.jpg"
+        width: 1021
+        height: 510
+        isCached: true
+  - title: "Firm study predicts big spends on generative AI"
+    excerpt: "A new study polling software buyers at businesses worldwide finds strong intention to increase budget, with special interest in AI. It also looks at how vendors can engage buyers."
+    publishedDateTime: 2023-06-09T22:22:00Z
+    webUrl: "https://www.techrepublic.com/article/big-spends-generative-ai-saas-g2/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr6923-Hero.G2.jpeg"
+        width: 969
+        height: 610
+        isCached: true
+  - title: "Rackspace takes a FAIR approach to generative AI"
+    excerpt: "Rackspace offers new services to help organizations better understand, build and deploy generative AI workloads in public and private clouds."
+    publishedDateTime: 2023-06-13T20:59:00Z
+    webUrl: "https://venturebeat.com/ai/rackspace-takes-a-fair-approach-to-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-527941127-e1686608448258.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "5 ways how Artificial Intelligence improve the workplace"
+    excerpt: "Artificial intelligence (AI) is now a part of our everyday lives. More than we may sometimes realize; AI solutions are changing almost every aspect of our lives, and this extends well into the workplace as well. The impact of AI on the future of work is a ..."
+    publishedDateTime: 2023-06-11T11:31:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Untitled-design83.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Snorkel AI looks beyond data labeling for generative AI"
+    excerpt: "Snorkel AI is announcing new capabilities that extend beyond data labeling to help organizations, curate and prepare data for Generative AI."
+    publishedDateTime: 2023-06-12T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/snorkel-ai-looks-beyond-data-labeling-for-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "AI-generated images are everywhere. Here's how to spot them"
+    excerpt: "It's easy to be fooled by AI-generated images and other content. We talk about how to identify them, how media literacy can help, plus how to use these tools responsibly."
+    publishedDateTime: 2023-06-13T04:10:00Z
+    webUrl: "https://www.npr.org/2023/06/07/1180768459/how-to-identify-ai-generated-deepfake-images"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 39
+    images:
+      - url: "https://media.npr.org/assets/img/2023/06/08/detectingai_02_wide-490b899012edf8bee6419139f70e38d991cbd644-s1400-c100.jpg"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "In Agriculture, Generative AI Use Cases Crop Up Bountifully"
+    excerpt: "Generative AI is finding multiple use cases in the Indian agricultural sector. Platforms like Kissan AI ( previously known as KissanGPT) have showcased the prowess of generative AI in agriculture."
+    publishedDateTime: 2023-06-13T09:24:00Z
+    webUrl: "https://analyticsindiamag.com/generative-ai-already-finding-multiple-use-cases-agriculture/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/farmer-gpt.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI Music Generators Make You Feel Like a Maestro. Here’s How They Work"
+    excerpt: "Instead of yanking the rug away from producers, these tools can actually streamline the music production workflow. We put together a guide to help you get your feet wet."
+    publishedDateTime: 2023-06-09T20:19:00Z
+    webUrl: "https://www.popularmechanics.com/technology/audio/a44109081/ai-music-generators-explained/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 37
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod/images/mcrisara-robot-music-producer-sitting-in-a-desk-chair-at-a-desk-cb859b1a-ee11-442f-b197-9467bda35584-647f916bcd882.png?crop=1xw:0.8921568627450981xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Generative AI Is Likely to Change the CLM Market. But How, Exactly?"
+    excerpt: "Generative AI tools' coding capabilities may lead to further proliferation of CLM startups. But some argue that, with a dearth of funding, many could become fodder for a significant consolidation wave in the market."
+    publishedDateTime: 2023-06-09T21:33:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/09/generative-ai-is-likely-to-change-the-clm-market-but-how-exactly/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/Cybersecurity_4-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Oracle invests in Cohere, plans to integrate generative AI tools into its cloud"
+    excerpt: "Oracle has invested in generative AI company Cohere, in a deal that valued the business at around $2.2 billion. The $270m Series C round also saw participation from Nvidia and Salesforce. Oracle's investment is said to loosely mirror that of Microsoft with OpenAI and Google with Anthropic,"
+    publishedDateTime: 2023-06-11T16:09:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/oracle-invests-in-cohere-plans-to-integrate-generative-ai-tools-into-its-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Oracle_plane.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "5 Ways People Are Using AI to Try to Make Money"
+    excerpt: "Start repairing your credit today! As entrepreneurs, corporate executives and investors race to figure out how to leverage artificial intelligence to make money, folks at home are also wondering if AI tools like ChatGPT can help them get rich. On social ..."
+    publishedDateTime: 2023-06-09T23:38:00Z
+    webUrl: "https://www.newsobserver.com/money/make-money-online-with-ai-chatgpt/"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 17
+  - title: "Adobe to sell generative AI subscription with copyright assurance"
+    excerpt: "Business customers will be charged a flat-rate subscription for companywide access to new so-called generative AI tools across Adobe products."
+    publishedDateTime: 2023-06-12T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/adobe-to-sell-generative-ai-subscription-with-copyright-assurance/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
+  - title: "Oracle to introduce cloud-based generative AI service"
+    excerpt: "Oracle will soon be introducing a cloud-based generative AI service. The move was announced by CEO Larry Ellison during a call following the quarterly"
+    publishedDateTime: 2023-06-13T11:35:00Z
+    webUrl: "https://www.techzine.eu/news/applications/107393/oracle-to-introduce-cloud-based-generative-ai-service/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 17
 
 secured: "G2SUF0K8nhs4tD1DbtvhiEJEfjHkVUL+bZpkpPuRno5YLIqoiiPFlRGBBJO9Xk62ggbkomIsKApt9Ay7H08Fw2RGrnRbQs+yZKqaWfipSwg64U8otP4+kbTrAoXI7qWXT4qsgWh4+A4AMfb9Sx+nMmeqvs+Wx3ZM1XHyYbS+0ofW9f+mgT3IShk9+wXeNYKvj4esYg101v1U23+J8td1cPWyIfwt8lPjdtEFEBJueYEq0T8kR0oXU6yJiR51vXmPB8lEsTtxG/4O6Js4EgeO41zOOhXJ+EOr0WjePUGdFzSpOyw9CQHLLN8YHYstP/0zFvrUrOye7X83jzokHGXnFW7+2ZWZ1TDK77XzCd/oqS+jPjvGGx/Pg+rz13jlWfdBSRhKT6cSuSb2nFUDsqkGEQC1dQuNutupCSffEz9oj4QcF6l6zf+c1BTaQZQTkZQnIvi7N8krVcZ7Acq+lto8sV0n2MsLnHQEvMG02jz07x7GGtMJ8YIu1zF2vJlSWSL/JFY9HV+tcImJZTIuyrJjKw==;4/FtH4eEoZVO96wo3zH1dw=="
 ---

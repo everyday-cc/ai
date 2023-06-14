@@ -49,6 +49,20 @@ related:
         width: 2048
         height: 1107
         isCached: true
+  - title: "India using face biometrics to fight fraud in voting and mobile registration"
+    excerpt: "Indian officials across India are increasingly using facial recognition to identify fraud in elections and SIM card registrations."
+    publishedDateTime: 2023-06-13T22:39:00Z
+    webUrl: "https://www.biometricupdate.com/202306/india-using-face-biometrics-to-fight-fraud-in-voting-and-mobile-registration"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
 
 secured: "EHOPtj5xii49Vlw+vpnTcvChnnJwNxHNCvm2bDBdnR2Xc+HuFy/DE05rgczAP35tMxhOec4FDWztvIHj0/6n3nc5Fc3Hizss9inqNt1YzmayzY/9jmf381069BbtmWLzd0+k4QKCGY/v6Hmr57zGLdYl2rxmqOwCgItqJ3dvyCn/ilBfGfHjk48EuMfhM1CyquR9YFSmYbwFYvb0Vu6RVSp6G0FJJQEkq1ujed3Jdx0NglDJcXj/hM4on3oQpKB/IwlIB61YjZK1vetMy6EBiCyjtsbeAuL+Xz/SjPbBBmhNF5/LjdJ74s5OgMNr6+6Uuz3rdqJgDTAd0G+k9KajqaZq1rg+fDL5V82tpbpqXG4yYcrRMjUL8uPlmLJx+QAl6bZIlkP/Sd3IwT6zuRspRhkYSymfGj4nUie4+BSVLI4ILYpKvCu4IQfccEn93rf/gNSz8Xve91b3cLjzVmrOGb7ZLqB2XZEHxUf7lpUDsqZu4gx3nUibXZS4uAIGj2AijRsWPEQzpsxs6ZmY/U6myA==;ycria5ipztmFxq88r4l1ew=="
 ---

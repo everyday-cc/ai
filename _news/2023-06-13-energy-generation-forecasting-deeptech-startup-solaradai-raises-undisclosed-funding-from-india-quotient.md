@@ -52,6 +52,20 @@ related:
         width: 850
         height: 580
         isCached: true
+  - title: "AI video creation startup Synthesia reels in $90M from investors"
+    excerpt: "The investment values Synthesia at $1 billion. London-based Synthesia offers a platform that can generate realistic, AI-powered avatars for use in videos. The platform offers about 140 prebuilt avatars that can read out a user-supplied script in more than 120 languages."
+    publishedDateTime: 2023-06-13T22:37:00Z
+    webUrl: "https://siliconangle.com/2023/06/13/ai-video-creation-startup-synthesia-reels-90m-investors/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image-3.png"
+        width: 718
+        height: 400
+        isCached: true
 
 secured: "Mx+d4RRuQwv55bK0KpVs42xeC2nh59+DvYnuFDaSA900fEforYnp9OtOAYN8nFeu9abzOdThtOUZls34Gt7y8HWftAAFDxn0yZsFjUaYNG7lF83Sj/y8V+DjjUv6aJZAtIXa/GFC0y+o4oBEIF4TAjrt08kjb71cjqpRXvV8HrcMfdT5CBkLPf+XNw5sSoj50Pz/Oy6+WENceYBoYp/YTqaZhNJ0AZPe1HKwpYzWD4GJuiT1AAFJydExjcXvpue+12xPDZp+3IL5htdrWINMXSTdPOeIPBpKnpnvn7U2kV25ZSGI9xS56YZYnoEAtEoPijGE0eBHbjBVDfWcG839URx0BlJRPP7ttY0UPyDvPd8=;mqPZVT99Al/TNBdviBDQ4A=="
 ---

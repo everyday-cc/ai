@@ -87,22 +87,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Meta guru says ChatGPT-style AI is out-of-date"
-    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
-    publishedDateTime: 2023-06-13T17:18:00Z
-    webUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
-        width: 2880
-        height: 1616
-        isCached: true
   - title: "Using AI, ChatGPT to Augment the Future of Healthcare"
     excerpt: "During a June 7 event hosted by Northwestern Engineering, AI@NU, and the Institute for Augmented Intelligence in Medicine, computer scientists and physicians presented examples of how artificial intelligence technologies can augment healthcare tasks."
     publishedDateTime: 2023-06-13T17:15:00Z
@@ -200,6 +184,20 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/06/8873167_1629185100_AI-in-SamsungArtboard-1.jpg"
         width: 750
         height: 360
+        isCached: true
+  - title: "Meta guru says ChatGPT-style AI is out-of-date"
+    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead"
+    publishedDateTime: 2023-06-13T22:13:00Z
+    webUrl: "https://news.rthk.hk/rthk/en/component/k2/1704691-20230614.htm"
+    type: article
+    provider:
+      name: 香港電台網站
+      domain: rthk.hk
+    quality: 39
+    images:
+      - url: "https://newsstatic.rthk.hk/images/mfile_1704691_1_S_20230614012416.jpg"
+        width: 287
+        height: 215
         isCached: true
   - title: "AI chatbot ChatGPT can't create convincing scientific papers… yet"
     excerpt: "A computer model created by researchers can detect ChatGPT-generated fake studies more than 99% of the time, a new study shows."

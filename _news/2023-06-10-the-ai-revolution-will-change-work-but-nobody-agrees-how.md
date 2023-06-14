@@ -19,31 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "5 ways how Artificial Intelligence improve the workplace"
-    excerpt: "Artificial intelligence (AI) is now a part of our everyday lives. More than we may sometimes realize; AI solutions are changing almost every aspect of our lives, and this extends well into the workplace as well. The impact of AI on the future of work is a ..."
-    publishedDateTime: 2023-06-11T11:31:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
+  - title: "The Generative AI Revolution: Key Legal Considerations for the Hospitality Industry"
+    excerpt: "For better or worse, generative Artificial Intelligence (AI) is already transforming the way we live and work. Within two months of its initial release to the public, ChatGPT reached 100 million month"
+    publishedDateTime: 2023-06-12T20:05:00Z
+    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-hospitality-industry"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 33
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Untitled-design83.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=bUj9XK9t"
+        width: 500
+        height: 309
         isCached: true
-  - title: "How AI Will Accelerate the Circular Economy"
-    excerpt: "Despite living on a planet with finite resources, our economy remains largely linear and full of single-use products. The shift toward a circular economy, where companies recover or recycle resources,"
-    publishedDateTime: 2023-06-12T12:06:00Z
-    webUrl: "https://hbr.org/2023/06/how-ai-will-accelerate-the-circular-economy"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "t8sKyAyPGZcX6VWx/Ds03Z70EdvcTXNGVSmXWdndg5x/vW7F/dM4Q6SgpyAKcyrmuq7arWKfJocNsmAxmwI4ty6F2ekEhceYIH4Vig033iGxWJhohaa9ku97srcWtz8jNen77yU/D4FneQSkkSo+z9Ruo/jom8Vap+2mqdoi3IzPR+QV7iozHumJzgOzV3T3QrJg63FKreszHClpCrGs14VMwcuvM2oVWPI3NmC1FUT9XOvAXg3prK0bJlq8ABt983G/wIj5Q09iIdmCFtCzxSGFMS8z8o8Nku42/S9N2UqJZdiimsG3zebkF4ZQFkBmonDYg8tYC/sSGePvqS8na5u7XB1ezHPsOZlOlparVG7Azyy1jWwRvwrsP6ImgQIzSk1eFFIR7pAN1QTottsjWV7vVGq5MpK8ltAAfeztlHyEAhOxIDMtr3updf9uIyaVEpXiV5D9obPbBrjLv5y02skIlGlQjxyr5IczG1Uj7bZv2EHuyRwMcHUvnqyBZzFpvwwXXoi2WcTJEXazZDp8IQ==;yn+YALYWCenGIPeZag+ERw=="
 ---

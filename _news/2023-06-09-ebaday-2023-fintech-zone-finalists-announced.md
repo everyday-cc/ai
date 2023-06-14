@@ -83,20 +83,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Rise of Digital Nomads Introduces Identify Verification Challenges to Banks and Fintech Companies"
-    excerpt: "The rise of remote work is forcing adjustments within businesses and introducing new challenges. For finance and technology businesses, the number of foreign document verification cases has increased considerably throughout the years,"
-    publishedDateTime: 2023-06-09T05:24:00Z
-    webUrl: "https://fintechnews.ch/fintech/rise-of-digital-nomads-introduces-identify-verification-challenges-to-banks-and-fintech-companies/62063/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 26
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/04/abacus-Featured-Fintech-Product-300x250.jpg?x30842"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "bRfPbIsEq0ESDqxbcNn0MLWYv1hP7OYocUCjB6ooSPBX1euxndvDYAA9TEx/t2QfrdCep7yjhLAj83Kbx6mJ4vUvLaCcMluT3AwMHn79l370hHLzZvPiURZwfN6oZw3N9SBTpPZMddlSHXNFR2Jxgo0dib/KHVC9ZjPCjWbNPH2Dlyduq75s9rKoiRK4kEVtYXXpKzavI25JbKkjvDdft+dowE8xAM0KWNYJxknJAiiZxsCZ2JxbxTy4mpDh3GjPDDvLJk2nmwUGGIICkMeYVUOL10rswZ9btttiNmW4wsJDWDO18r3iFV/YZe0ILwgb0z5czsiNaI8fQYKElzm6UX/Kh64BCXO7I0d3KOnM7dSj4NjZvX/wok9snZ6KvVvAoGEGmeJwKOKVxwTK55EIkv9tSBZtKIUg5LZ6oXfsUER7a6Pyq5ctNfTFjjFP+M66QCFxjEIGcjtg666JK66/0cPigP33zvkWhFpjhWWvfPw0+Lfy/TgARZ+rW2EFUzozyjPV/AwnfoikHPzKDVd7SA==;5vIEH7bGys/nG0J0kjY55g=="
 ---

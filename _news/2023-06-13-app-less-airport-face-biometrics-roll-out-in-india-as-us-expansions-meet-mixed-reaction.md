@@ -41,6 +41,20 @@ related:
         width: 809
         height: 607
         isCached: true
+  - title: "India using face biometrics to fight fraud in voting and mobile registration"
+    excerpt: "Indian officials across India are increasingly using facial recognition to identify fraud in elections and SIM card registrations."
+    publishedDateTime: 2023-06-13T22:39:00Z
+    webUrl: "https://www.biometricupdate.com/202306/india-using-face-biometrics-to-fight-fraud-in-voting-and-mobile-registration"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "Retail face biometric payments launched in Abu Dhabi by Astra Tech"
     excerpt: "An autonomous retail store accepting payments through face biometrics has been launched by UAE-based Astra Tech in Abu Dhabi’s Sky Tower."
     publishedDateTime: 2023-06-13T17:59:00Z

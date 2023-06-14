@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AMD Cloud-Native EPYC Bergamo, HPC Optimized Genoa-X CPUs And MI300 AI Accelerators Take Flight"
+    excerpt: "Under Dr. Su’s leadership, the company has assembled a comprehensive suite of silicon solutions for the lucrative cloud data center, HPC and AI markets."
+    publishedDateTime: 2023-06-13T23:41:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 77
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6488e5d20f339468b475c365/0x0.jpg?format=jpg&width=1200"
+        width: 1024
+        height: 587
+        isCached: true
   - title: "AMD's Instinct MI300X GPU targets generative AI workloads"
     excerpt: "Company claims it is the \"world's most advanced accelerator\" for gen AI, but offers few details At its data center and AI event in San Francisco, AMD pitched its AMD Instinct MI300X GPU as built for generative AI workloads."
     publishedDateTime: 2023-06-13T18:27:00Z
@@ -50,6 +66,6 @@ related:
       domain: insidehpc.com
     quality: 4
 
-secured: "fh0/UsIpdz9aLsEmnW0uVVvFmMNVVGBLnAFQvufxLtXfstRXcvWMKxE0R1/EpswVGzafhbAuudUYZB4SeTdTow1dkFcGk4ywKa6lnWM6NOlbCkgz7xFKcBmJhc3uxw6qSIhJ67XJceaertc2bvcX2XtiW+MCOY6DALhSFy/LFiHphRBm78qHSGrqBFESJJeKhBFf0cF5XgO7BRmEWwyIdT1uKS6kyfBXheGRmWfG6cpuoGPki6P+pOIoBJ9zRW5x3HcSUJLs0DqilBxZL8KfFDn64r053VPu3gz1wv9G/VWaPHlK59Rpo+mj97Cy4uBlY8JNs+Bjm2TYnRM9pmJvdLFNKaASDr0ABSGlqdXIFKw=;bHWLcBOwk4oNaWcdp6rmoA=="
+secured: "+9MPao4bceyjwd7pflEqd9I6IraOH7TBidkeEUsByTHJYSSmIz61TlEaVy6fET7XIylvkEFYb2xWFeOo4gh4uyfkaM8MO43EDwYBaVaVTk1X0YeHbnVgiWm7QrmEM8hdSYacFgdcMK7fnkWpQnnj/ZeEfURDR7Vz9Uicr97oPic6yPDE9QRPjJzcwuGJ3L+PygPB6JFm/dmEqcnCn69Y1sjmCTbl4170IOTiWR0M/tqixpFkk65VOhJ36UD68G5Y/jL1ynvccq9GIS/uxaLnoG4KohewJZe39ru8r1ECPHLs2WwMNQTUgQeURHkyX6tFyd1VUoFSK/2HJ5FN/np+vTMouikKNpV+ydgtoM9qnN7zBUt/yjfPaXwaoXnj7d11PYNzBbVbSutxEOZ9KPLi3U5hw/iOEUi2L8hX47GzSRNKiUDRkpoe0ZGZlUn9kL4xU7N4pJ3p266hdCc6EAj7cJLl9hJo9jI8EQCboEgDC4CvQZqZ07rcG645rFYwTFJkZgUerCoOcN9AJnJqwAPGQw==;S0XPG0eEEzx/0Ic5TN2DIQ=="
 ---
 

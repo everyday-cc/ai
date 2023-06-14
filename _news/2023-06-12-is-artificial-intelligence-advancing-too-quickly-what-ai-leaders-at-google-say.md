@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/google-artificial-intelligence-futu
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/"
 type: article
 quality: 72
-heat: 75
+heat: 72
 published: true
 
 provider:
