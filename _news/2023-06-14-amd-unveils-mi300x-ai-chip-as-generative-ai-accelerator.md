@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6488e5d20f339468b475c365/0x0.jpg?format=jpg&width=1200"
         width: 1024
         height: 587
+        isCached: true
+  - title: "AMD Instinct MI300X accelerator for AI revealed, combines CPU, GPU, and 192 GB of HBM3 memory"
+    excerpt: "AMD's new Instinct MI300X is designed for generative AI and will compete with NVIDIA's H100 and Grace Hopper, and it's out soon too."
+    publishedDateTime: 2023-06-14T05:26:00Z
+    webUrl: "https://www.tweaktown.com/news/91881/amd-instinct-mi300x-accelerator-for-ai-revealed-combines-cpu-gpu-and-192-gb-of-hbm3-memory/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 43
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91881_03_amd-instinct-mi300x-accelerator-for-ai-revealed-combines-cpu-gpu-and-192-gb-of-hbm3-memory_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
   - title: "AMD's Instinct MI300X GPU targets generative AI workloads"
     excerpt: "Company claims it is the \"world's most advanced accelerator\" for gen AI, but offers few details At its data center and AI event in San Francisco, AMD pitched its AMD Instinct MI300X GPU as built for generative AI workloads."

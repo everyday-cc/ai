@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/648337895224cd868d750fc7/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 773
+        isCached: true
+  - title: "Generative AI startup Mistral AI raises 105 million euros in seed-stage funding"
+    excerpt: "The company is founded by ex-Meta and Google AI researchers, Guillaume Lample, Arthur Mensch and Timothee Lacriox."
+    publishedDateTime: 2023-06-14T07:13:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 53
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "With AI for kids, collaboration is key"
     excerpt: "Moral and philosophical questions abound. The UNESCO’s recommendation on the ethics of AI set the normative framework to navigate the ethical jungle, with some core principles, including transparency, human oversight and determination. These guardrails ..."

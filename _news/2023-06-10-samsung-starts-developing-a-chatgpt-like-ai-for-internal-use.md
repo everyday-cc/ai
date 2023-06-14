@@ -78,20 +78,20 @@ related:
         height: 536
         isCached: true
   - title: "Meta guru says ChatGPT-style AI is out-of-date"
-    excerpt: "This research is another step in that direction,\" Zuckerberg added. Compared to its rivals, Meta has taken a more discrete approach to ChatGPT-style AI for its social media platforms Facebook and Instagram. Meta infused generative AI in its products ..."
-    publishedDateTime: 2023-06-14T05:38:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece/amp/"
+    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
+    publishedDateTime: 2023-06-13T17:18:00Z
+    webUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
+      name: techxplore
+      domain: techxplore.com
     quality: 59
     images:
-      - url: "https://th-i.thgim.com/public/incoming/uw1j4/article66967042.ece/alternates/FREE_1200/2023-06-02T003011Z_529134970_RC2EIX9TY0PB_RTRMADP_3_META-PLATFORMS-LAWSUIT-WASHINGTON.JPG"
-        width: 1200
-        height: 800
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
+        width: 2880
+        height: 1616
         isCached: true
   - title: "Using AI, ChatGPT to Augment the Future of Healthcare"
     excerpt: "During a June 7 event hosted by Northwestern Engineering, AI@NU, and the Institute for Augmented Intelligence in Medicine, computer scientists and physicians presented examples of how artificial intelligence technologies can augment healthcare tasks."
@@ -150,20 +150,6 @@ related:
       - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
         width: 611
         height: 458
-        isCached: true
-  - title: "Meta exhibits new AI tools similar to ChatGPT during a company meeting"
-    excerpt: "During an all-hands meeting held on Thursday, Meta's Chief Executive Officer (CEO), Mark Zuckerberg, disclosed a proposal to integrate generative artificial"
-    publishedDateTime: 2023-06-09T13:53:00Z
-    webUrl: "https://www.onmsft.com/news/meta-exhibits-new-ai-tools-similar-to-chatgpt-during-a-company-meeting/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Image-with-the-Meta-Logo.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Researchers Collaborate with ChatGPT to Design Robot"
     excerpt: "The advent of artificial intelligence has not only reshaped our digital landscape but has also permeated various fields in unexpected ways. In the most recent manifestation of AI's transformative power,"

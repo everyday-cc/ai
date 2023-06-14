@@ -231,15 +231,6 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 19
-  - title: "Accenture pouring $3 billion into AI, joining long list of tech companies prepping to meet demand"
-    excerpt: "Technology services provider Accenture is the latest company to ramp up its artificial intelligence business, announcing Tuesday that it will invest $3 billion over the next three years and double its AI-related staff to accommodate scorching hot demand."
-    publishedDateTime: 2023-06-13T18:18:00Z
-    webUrl: "https://apnews.com/article/accenture-artificial-intelligence-investment-technology-ai-abc6d596b91be9cc206f842f341e0c77"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
 
 secured: "C9yeJXMYHIHozTv4pac6K8A3H4HjyfyThCJRPOFCTVc1PYno6mHUhcy4X9ExOSWeH1uSYeZeBZvlk8tG4CVSw+ZIz6PNaX5LCNerkWA64j9i9RKcIENtX1OMg7uzV+dJJjgAU0zlYM7n5X+JiX9PLg+7dfLa5uaOubuCQzaG6CQvvi9lqVrON2I4POnhmt0o3v1WfN6e6kU7oaHqpQUDTzlSUPrcphVVYTZTeYTj93R3s3YdwJw4OLWlZXN23q+jyBxTsBNRYYPNapvQxxQCHhFLMBx0k+BZrzwi9o6uY/bbcfXVj5gPZOdXHHPkwp3HqswCccyjKzyc0gZ3k0/slbpcFKBaz6F1uHqU/dfh//ikYQTbuHAK3X1DfPdmgT7sPRFDYQdH0SZhspOSs4UrpSwxFucdnm1PGyCCEAKgtih6MO7bHOT4TOoDy9ir2R/7jfNoAnmIyOVhjUoKB54DgwQ5iX/P82CwT/Lzlcj9ZpyIkGmhwoCFVj5jUwmQEYd5jpyXWOPt0oauYNwMc8DzRg==;nwqEiYvAfJJmCRtYFK4iHg=="
 ---

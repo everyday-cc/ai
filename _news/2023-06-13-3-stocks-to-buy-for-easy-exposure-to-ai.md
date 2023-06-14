@@ -59,20 +59,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 49
-  - title: "Best AI stocks in 2023 for performance"
-    excerpt: "MicroStrategy will also integrate the company’s advanced analytics capabilities into Azure OpenAI Service, which will help businesses maximize the value and utility of their data. MicroStrategy has experienced two powerful tailwinds in 2023: AI and ..."
-    publishedDateTime: 2023-06-09T13:35:00Z
-    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-stocks/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 41
-    images:
-      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "ZdOWv45RvwSNTsKKYxE4Kbnuv7+rFzL2lz9uHAPvF2QpVjwnBeDIQ8LPTazR4QQ1cgucBgmFd5Q9w3cMD5DQ/+PrfY0FdaRB0yHL4l+pji1ZxtFILqElAIyAFatj9O0K7mA2fTjLRXnfCWagqicFJ9HALtL6AO2xkdmLDo5udCY4xuLbeL8vpHjJazeunfaofY/r3QR35tCSPuMKFkyP4/b9W486HaKTC4IAzjygeJN5KEiP9M5pTH9NzEKCEcGHKbcYB4D4PwaSV/Gsec21GnC/287eL6YIVKSZAThPfhiNnBEZBkKKdT9gPadZQfxz2EUkTT16czLQ8nSygNtlT9xLwsWfN2IU3YawfmN4rW1VXbF1n1zZg8im5LyB4LLn/LxYHa7DD5EtGRLSn86EUnzvRyk3LnK3/7GWr+OhuET3LqOYaWzDWwqMKZwyx39mdg0ROpm+cS6n7zRwLtdkVXwf91KqLme8cPpyurm86DLyzMvAjVaSAFywNFY5kqfaNZZABDzO3PAlx9/7HMr9+A==;f9TaiGQ+siWg7XxS/fwMtw=="
 ---

@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AMD Introduces New Lineup of AI Processors, Aiming to Compete with Nvidia"
+    excerpt: "AMD Instinct MI300 Series will include an accelerator that can speed processing for generative AI, similarly used by ChatGPT and other chatbots."
+    publishedDateTime: 2023-06-14T02:03:00Z
+    webUrl: "https://www.techtimes.com/articles/292565/20230613/amd-introduces-new-lineup-ai-processors-aiming-compete-nvidia.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/292565/20230613/amd-introduces-new-lineup-ai-processors-aiming-compete-nvidia.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292565/20230613/amd-introduces-new-lineup-ai-processors-aiming-compete-nvidia.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 58
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429590/spain-telecom-technology.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "AMD's AI chip challenge to Nvidia remains uphill fight"
     excerpt: "Advanced Micro Devices Inc gave new details about an artificial intelligence chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know - who plans to buy it."
     publishedDateTime: 2023-06-14T03:00:00Z

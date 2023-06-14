@@ -2,6 +2,137 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-14-aws-is-considering-amds-new-ai-chips.md",
+      "title": "AWS is considering AMD’s new AI chips",
+      "excerpt": "Amazon Web Services, the world’s largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision, an AWS executive said. The remarks came during an AMD event where the chip company outlined its strategy for the AI market,",
+      "sourceUrl": null,
+      "webUrl": "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/",
+      "originalUrl": "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcentral.co.za/wp-content/uploads/2022/11/lisa-su-1500-800.jpg",
+          "width": 1500,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCentral",
+        "domain": "techcentral.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-meta-steps-up-ai-game-by-open-sourcing-i-jepa-its-human-like-image-creation-model.md",
+      "title": "Meta Steps Up AI Game By Open-Sourcing I-JEPA — Its 'Human-Like' Image Creation Model",
+      "excerpt": "What Happened: In line with Zuckerberg’s previous statement that Meta plans to adopt an open approach in terms of AI development, the parent company of Facebook and Instagram ... publishing open-sourced AI research through its dedicated in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/06/32849554/meta-steps-up-ai-game-by-open-sourcing-i-jepa-its-human-like-image-creation-model",
+      "originalUrl": "https://www.benzinga.com/news/23/06/32849554/meta-steps-up-ai-game-by-open-sourcing-i-jepa-its-human-like-image-creation-model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Meta_IJEPA_AI.jpeg?width=1200&height=800&fit=crop",
+          "width": 864,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32849554",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32849554",
+      "publishedDateTime": "2023-06-14T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders.md",
+      "title": "TRAI directs telcos to deploy AI, machine learning to detect pesky SMS senders",
+      "excerpt": "The Telecom Regulatory Authority of India said that while measures taken by it to curb pesky messages has led to a drop in complaints against Register",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/articleshow/100975010.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/articleshow/100975010.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-100975008/100975008.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/amp_articleshow/100975010.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/amp_articleshow/100975010.cms",
+      "publishedDateTime": "2023-06-13T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-introducing-new-ai-powered-ad-solutions-to-drive-demand.md",
       "title": "Introducing new AI-powered ad solutions to drive demand",
       "excerpt": "Google and YouTube’s new AI-powered solutions help advertisers multiply their creativity and generate demand.",
@@ -10,7 +141,7 @@
       "originalUrl": "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -51,49 +182,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amazons-cloud-unit-is-considering-amds-new-ai-chips.md",
-      "title": "Amazon's cloud unit is considering AMD's new AI chips",
-      "excerpt": "The remarks came during an AMD event where the chip company outlined its strategy for the AI market, which is dominated by rival Nvidia Corp. Despite AMD disclosing some technical specifications for an AI chip coming later this year that could in some ways ...",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/cloud-computing/amazons-cloud-unit-is-considering-amds-new-ai-chips/100981067",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/cloud-computing/amazons-cloud-unit-is-considering-amds-new-ai-chips/100981067",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-100981067,imgsize-71564,width-1200,height=765,overlay-etcio/cloud-computing/amazons-cloud-unit-is-considering-amds-new-ai-chips.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -191,7 +279,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-strong-buy-rated-ai-stocks-to-watch-1032387474",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -243,7 +331,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -345,7 +433,7 @@
       "originalUrl": "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -802,7 +890,7 @@
       "originalUrl": "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -853,7 +941,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 287,
+      "heat": 317,
       "tags": null,
       "images": [
         {
@@ -1125,109 +1213,6 @@
         "name": "Mint",
         "domain": "livemint.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge.md",
-      "title": "Simple Ways To Use AI In Your Business Without Deep Tech Knowledge",
-      "excerpt": "Even if technology and AI are beyond your understanding or interest, there are a number of business functions that organizations can—and should—benefit from.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/13/simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/13/simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6487419a8d4681b6c05004be/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/13/simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/13/simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge/amp/",
-      "publishedDateTime": "2023-06-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world.md",
-      "title": "Why Enterprise Leaders Should Be Optimistic In A Dynamic World",
-      "excerpt": "The path forward has to combine a strong overall enterprise strategy with the right set of solutions and processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/13/why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/13/why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6487220a529198ad83f4b947/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/13/why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/13/why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world/amp/",
-      "publishedDateTime": "2023-06-13T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

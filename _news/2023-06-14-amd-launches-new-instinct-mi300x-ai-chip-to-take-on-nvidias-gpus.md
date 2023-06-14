@@ -117,6 +117,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AMD Introduces New Lineup of AI Processors, Aiming to Compete with Nvidia"
+    excerpt: "AMD Instinct MI300 Series will include an accelerator that can speed processing for generative AI, similarly used by ChatGPT and other chatbots."
+    publishedDateTime: 2023-06-14T02:03:00Z
+    webUrl: "https://www.techtimes.com/articles/292565/20230613/amd-introduces-new-lineup-ai-processors-aiming-compete-nvidia.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/292565/20230613/amd-introduces-new-lineup-ai-processors-aiming-compete-nvidia.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292565/20230613/amd-introduces-new-lineup-ai-processors-aiming-compete-nvidia.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 58
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429590/spain-telecom-technology.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "AMD showcases AI chip to take on Nvidia"
     excerpt: "The MI300X accelerator is based on AMD’s CDNA 3 technology and uses as much as 192GB of memory to handle workloads for large language models and generative AI, the Santa Clara, California-based company said."
     publishedDateTime: 2023-06-14T05:35:00Z
@@ -175,6 +191,6 @@ related:
       domain: emirates247.com
     quality: 17
 
-secured: "xNGdsMS7Og/uzrIHaBvRHJiBKH+8Dq55GSTOMgerZoHf5wtgi/6rPn4ReMRQ84ugpIEOre8JZOHXYTGIztzsMZ1oEkb7JXq35gZFMW1JJAEyqU1Mm8rpBGGVBfx4KISgf2X7KF3e1oaWX85i5X5sx6WIe9dbMVedCJKAkdwBT3vRfhScYD+fFzcsPyKjCxJQRhdqdBsAVcbHgXyKv7HqT0MhMmNbS6z2xmpXUkTVYFC+eXGO8/ks/pCzVxEEVGf+/KJKl7/PecmyLcb7tnaH2hesvREozPlzFUAwxcg+CXkOI8VMxD053AHdgt92pNrPgNbm6UzbS6IZacxmEl5+UAbgJYqN/kByWoSIs0kqznA=;jMaYAKPRlUcC5cl3HGTlXA=="
+secured: "Ee+kyVZmW/GIoOV6Rnj0GlgEPQF6InqSFQ92UjxP1/1TCswIDtq/oQQzq1R+iwF/dxirmhxkG1op81lRvi8Leg4e+ptxNNfObTHHX6tNeObJ8H94PUgZaK5PDgnqcKsPR/Y/6TmUK+U6cjURhzbHHgyyDR164o8mTOlJaHrK34e5U7Dxf74JINFIhQctdD7b5fZBJIn+6+4nJarvMI6FV+biwmaoD/KVfujUyAE0dEY4dHgJJfssTELIS4uCXCL1ApkUgDAY9glw8zc9w5vD7uhWxeMyTCVXS7tTWpAGfvcmYIR6mlYsv+N/obbvZE1CWwwF8LwDonX/u+1Lw5DVgyNqFhhMaETwT08FeP4FMHVQmKH0XUBWbqco2f9V2eLk7337nsVv4Oz7x0uJ2Z/UyE+HiYq7XTLf2qKs09wPk6tkl2QTCls/nN0Uu0jt1bNO52wefkXDMv/vOjczwNimj8+CpxkNq361WFXnG5CJ6g45zFxOQn2zuaKD8pPInmwW5TRtnIR3BTZCVfZUydjh+g==;y1KnYhO/ZJz87Ckfs5WzXg=="
 ---
 

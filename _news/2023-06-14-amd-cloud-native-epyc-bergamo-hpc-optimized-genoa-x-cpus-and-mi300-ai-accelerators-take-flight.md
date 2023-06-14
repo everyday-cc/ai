@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AMD Instinct MI300X accelerator for AI revealed, combines CPU, GPU, and 192 GB of HBM3 memory"
+    excerpt: "AMD's new Instinct MI300X is designed for generative AI and will compete with NVIDIA's H100 and Grace Hopper, and it's out soon too."
+    publishedDateTime: 2023-06-14T05:26:00Z
+    webUrl: "https://www.tweaktown.com/news/91881/amd-instinct-mi300x-accelerator-for-ai-revealed-combines-cpu-gpu-and-192-gb-of-hbm3-memory/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 43
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91881_03_amd-instinct-mi300x-accelerator-for-ai-revealed-combines-cpu-gpu-and-192-gb-of-hbm3-memory_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "AMD's Instinct MI300X GPU targets generative AI workloads"
     excerpt: "Company claims it is the \"world's most advanced accelerator\" for gen AI, but offers few details At its data center and AI event in San Francisco, AMD pitched its AMD Instinct MI300X GPU as built for generative AI workloads."
     publishedDateTime: 2023-06-13T18:27:00Z

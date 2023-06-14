@@ -125,6 +125,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AMD Introduces New Lineup of AI Processors, Aiming to Compete with Nvidia"
+    excerpt: "AMD Instinct MI300 Series will include an accelerator that can speed processing for generative AI, similarly used by ChatGPT and other chatbots."
+    publishedDateTime: 2023-06-14T02:03:00Z
+    webUrl: "https://www.techtimes.com/articles/292565/20230613/amd-introduces-new-lineup-ai-processors-aiming-compete-nvidia.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/292565/20230613/amd-introduces-new-lineup-ai-processors-aiming-compete-nvidia.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292565/20230613/amd-introduces-new-lineup-ai-processors-aiming-compete-nvidia.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 58
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429590/spain-telecom-technology.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "AMD showcases AI chip to take on Nvidia"
     excerpt: "The MI300X accelerator is based on AMD’s CDNA 3 technology and uses as much as 192GB of memory to handle workloads for large language models and generative AI, the Santa Clara, California-based company said."
     publishedDateTime: 2023-06-14T05:35:00Z

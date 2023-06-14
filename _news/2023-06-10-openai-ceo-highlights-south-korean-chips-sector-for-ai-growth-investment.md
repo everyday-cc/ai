@@ -75,15 +75,6 @@ related:
         width: 800
         height: 577
         isCached: true
-  - title: "OpenAI CEO Sam Altman encourages South Korea to supply chips in AI boom"
-    excerpt: "Altman, after crisscrossing Europe last month meeting lawmakers and national leaders to discuss AI's prospects and threats, has travelled this week to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea."
-    publishedDateTime: 2023-06-09T13:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/openai-ceo-encourages-south-korea-to-supply-chips-in-ai-boom/articleshow/100879979.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
 
 secured: "FN01h6lBtVMYnN+O0D24JGBYhEyhadJX5Pu9J1LyovxD6XxQ4u0jJDoqGWIxYBmoWIGuYBN/sc6SmfThARfinPIOQUJgHXrJrHhefVfHQQiNswfhIb6lODGH2p1VWKks+XIeDW2AVeZbBwEpowE7CTLbLldhIeMfs9e26jHrJERgrsmFvqgsWvzEM/Gu3KP6pent+Sv3mbC+Fj/BULn7wg9lUJbaBfJgY8MqtxHZwrqEHsT48FYpr0WlbyxlINu4CNH46cMHdYkX/QLFUFjB0m+KtdWyz/1TOk/8jLjdLFwNtGbHjKRn72tS9FyHFqkQzgsVMfYEKsLteUzeMB5gvOFmNq8sYZw17dngWwgSssquZq4IEGTBBFKrHvXHOW6kKEKWBhZqh6Pgg8t2vRb4Ywizv6MRuPwkU+HOPEV91Np8EH0HTnMP9dQYwwGzkhiXeE/M2CPhncBZxrI/WsDRzvziDzZdH3DDs1uEUvjZJIB98BcBQubPv0xQjJ7YpgXGUsZ+Vrskt/NKQpNNHG9yMA==;Ttt5WG8Zqb1aULQ8Q4LLgQ=="
 ---

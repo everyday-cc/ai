@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 773
         isCached: true
+  - title: "Generative AI startup Mistral AI raises 105 million euros in seed-stage funding"
+    excerpt: "The company is founded by ex-Meta and Google AI researchers, Guillaume Lample, Arthur Mensch and Timothee Lacriox."
+    publishedDateTime: 2023-06-14T07:13:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 53
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Registration opens for the Mark Cuban Foundation’s Artificial Intelligence Bootcamp"
     excerpt: "Offered at no cost to low-income and diverse community high school students, the Mark Cuban Foundation's Artificial Intelligence Bootcamp will be held for the first time in San Antonio. The San Antonio Bootcamp,"
     publishedDateTime: 2023-06-12T16:29:00Z

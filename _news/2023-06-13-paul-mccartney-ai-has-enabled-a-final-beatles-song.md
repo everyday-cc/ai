@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/ai-powered-fi
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/amp/"
 type: article
 quality: 87
-heat: 287
+heat: 317
 published: true
 
 provider:
@@ -62,6 +62,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Creates ‘Final Beatles Song’: What Does It Mean For The Future Of Music?"
+    excerpt: "Explore how AI is revolutionizing the music industry, from creating original songs to altering how we discover and listen to music & even posing questions about copyright"
+    publishedDateTime: 2023-06-14T06:27:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64895da1c32a9cf3edb12f50/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "A new song from the Beatles is due out this year, thanks to artificial intelligence"
+    excerpt: "Paul McCartney says A.I. is being used to remake the voices of John Lennon and George Harrison. CNN's John Vause discusses the news with music expert Bob Lefsetz."
+    publishedDateTime: 2023-06-14T07:12:00Z
+    webUrl: "https://www.cnn.com/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 81
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230614024930-exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world-00000808.png?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "The Beatles will release a new and 'final record' this year, Paul McCartney says — with a little help from AI"
     excerpt: "\"All that is kind of scary but also exciting because it’s the future,\" Paul McCartney said of the way artificial intelligence is changing music."
     publishedDateTime: 2023-06-13T15:21:00Z
@@ -91,6 +123,20 @@ related:
       - url: "https://www.cnet.com/a/img/resize/be3a0a8d84c167f55cb52c61098429f44691fc39/hub/2023/06/13/89e676cb-0e55-4c01-bf1d-01767af0c86e/gettyimages-1405277134.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Beatles Are Releasing One More Song—With Help From AI"
+    excerpt: "Artificial intelligence has been used to extract John Lennon's voice from an old demo to create “the last Beatles record,” decades after the band broke up, says Paul McCartney."
+    publishedDateTime: 2023-06-14T06:45:00Z
+    webUrl: "https://time.com/6287103/the-beatles-artificial-intelligence-song/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "The Beatles Come Together for ‘Last Record’ Using AI, Paul McCartney Says"
     excerpt: "More than 50 years after the group’s final studio album, Paul McCartney says he has used artificial intelligence to create what he called “the last Beatles record.”"

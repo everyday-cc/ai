@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-o
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
 type: article
 quality: 87
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Untitled-design83.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Generative AI's impact on chip industry and the upcoming growth cycle through 2024"
+    excerpt: "Generative AI is stealing the spotlight from all other tech products as ChatGPT accumulated 1 million users in just a few months, and now tech analysts from UBS Investment Bank released their latest estimates of its impact on the semiconductor industry business."
+    publishedDateTime: 2023-06-14T06:18:00Z
+    webUrl: "https://www.digitimes.com/news/a20230613VL214/east-asia-generative-ai-ic-manufacturing.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 48
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230613vl214_files/1_r.jpg"
+        width: 336
+        height: 224
         isCached: true
   - title: "Snorkel AI looks beyond data labeling for generative AI"
     excerpt: "Snorkel AI is announcing new capabilities that extend beyond data labeling to help organizations, curate and prepare data for Generative AI."

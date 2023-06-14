@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "AWS is considering AMD’s new AI chips"
+    excerpt: "Amazon Web Services, the world’s largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision, an AWS executive said. The remarks came during an AMD event where the chip company outlined its strategy for the AI market,"
+    publishedDateTime: 2023-06-14T07:13:00Z
+    webUrl: "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 71
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/11/lisa-su-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Amazon's cloud unit is considering AMD's new AI chips"
     excerpt: "The remarks came during an AMD event where the chip company outlined its strategy for the AI market, which is dominated by rival Nvidia Corp. Despite AMD disclosing some technical specifications for an AI chip coming later this year that could in some ways ..."
     publishedDateTime: 2023-06-14T03:48:00Z

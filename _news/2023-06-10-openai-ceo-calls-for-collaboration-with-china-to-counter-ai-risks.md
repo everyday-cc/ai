@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-wi
 webUrl: "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 800
         height: 577
         isCached: true
-  - title: "OpenAI CEO Sam Altman encourages South Korea to supply chips in AI boom"
-    excerpt: "Altman, after crisscrossing Europe last month meeting lawmakers and national leaders to discuss AI's prospects and threats, has travelled this week to Israel, Jordan, Qatar, United Arab Emirates, India and South Korea."
-    publishedDateTime: 2023-06-09T13:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/openai-ceo-encourages-south-korea-to-supply-chips-in-ai-boom/articleshow/100879979.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
   - title: "OpenAI CEO highlights South Korean chips sector for AI growth, investment"
     excerpt: "OpenAI CEO Sam Altman encourages South Korea to lead in AI chip production, expressing interest in investing in Korean startups."
     publishedDateTime: 2023-06-10T10:29:00Z

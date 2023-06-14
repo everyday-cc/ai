@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-13-simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge.md",
+      "title": "Simple Ways To Use AI In Your Business Without Deep Tech Knowledge",
+      "excerpt": "Even if technology and AI are beyond your understanding or interest, there are a number of business functions that organizations can—and should—benefit from.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/13/simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/13/simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6487419a8d4681b6c05004be/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/13/simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/13/simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge/amp/",
+      "publishedDateTime": "2023-06-13T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world.md",
+      "title": "Why Enterprise Leaders Should Be Optimistic In A Dynamic World",
+      "excerpt": "The path forward has to combine a strong overall enterprise strategy with the right set of solutions and processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/13/why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/13/why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6487220a529198ad83f4b947/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/13/why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/13/why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world/amp/",
+      "publishedDateTime": "2023-06-13T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai.md",
       "title": "A Rising Star In The East Lights A Path To Responsible Artificial Intelligence: The Mohammed Bin Zayed University Of AI",
       "excerpt": "As we hurtle into the 21st century, the pivotal role that Artificial Intelligence plays in reshaping our world cannot be ignored.",
@@ -497,7 +600,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -1144,99 +1247,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-is-there-a-right-cloud-strategy-for-banking.md",
-      "title": "Is there a “right” cloud strategy for banking?",
-      "excerpt": "Looking at what cloud technology can offer central banks and the challenges they face in adopting it.\nThe post Is there a “right” cloud strategy for banking? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/is-there-a-right-cloud-strategy-for-banking/",
-      "originalUrl": "https://www.ibm.com/blog/is-there-a-right-cloud-strategy-for-banking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T07:34:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai.md",
-      "title": "How to chat with ChatGPT right on your Apple Watch. Meet Petey AI",
-      "excerpt": "With Petey on your iPhone or Apple Watch, you can type, tap, or speak your requests and then carry on a conversation. The chat not only appears on the screen but can be spoken aloud. You can even share the chat with someone else via email, text message, or social media app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 257,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2e7df5b35202c121fb5859af4251df29c49a76f8/2023/06/07/32d4f646-aba1-4462-a3cc-7afacc424c11/figure-top-how-to-chat-with-the-petey-ai-chatbot-on-your-iphone-and-apple-watch.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/",
-      "publishedDateTime": "2023-06-12T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

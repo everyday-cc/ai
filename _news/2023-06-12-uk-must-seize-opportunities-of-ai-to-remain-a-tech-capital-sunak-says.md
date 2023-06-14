@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "How Europe is leading the world in the push to regulate AI"
+    excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle."
+    publishedDateTime: 2023-06-14T06:15:00Z
+    webUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "London Tech Week - PM Rishi Sunak promises to regulate AI, but admits UK not up to speed in spreading the benefits to all"
     excerpt: "Sunak on AI. London Tech Week kicked off today with British Prime Minister Rishi Sunak debating AI regulation and ethics, even if the mainstream media headlines were inevitably mo"
     publishedDateTime: 2023-06-12T11:59:00Z

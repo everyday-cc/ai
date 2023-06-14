@@ -231,15 +231,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Accenture pouring $3 billion into AI, joining long list of tech companies prepping to meet demand"
-    excerpt: "Technology services provider Accenture is the latest company to ramp up its artificial intelligence business, announcing Tuesday that it will invest $3 billion over the next three years and double its AI-related staff to accommodate scorching hot demand."
-    publishedDateTime: 2023-06-13T18:18:00Z
-    webUrl: "https://apnews.com/article/accenture-artificial-intelligence-investment-technology-ai-abc6d596b91be9cc206f842f341e0c77"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
 
 secured: "s0kIUssFL91Vg/34kbXOszcWIzOl+L9nUZ84juxALA1ACsTG+lCs9aaiKTQlRd0aUUhG8t0YbCNmje013mP2mMjkdkwm72PIO4CQ1JhMW4vvE5D47ZWS55fZ9M5Fd25OaGxXyBwcRRT/TphbBSOAETSMBiG+FnegHyDrSGf7uww7zWcRlmcTIOmg+4WPHoT29mEdrqpopwT7NPvQArJJy5qnD43NUSfEoqwOnZnEFCS9LirZUouUI+CIvKtMe0YZ/RH+MVbXz4q2sYXWGQk2BkS0soC3cP/Qa93dHMSQpxlVO6qnTmH8UGenHx85Xrc9+qwHeX/Tqjdzv7aJL+W73S6w3OkDPQboeAvbDgBdHSlpDFBHD0BmDz1uoYPvKiiCqNGbyfDhFQXUOgWvLllplMMHd9+ICLEjKBNMB3oMAMhfax52Wh/7WKWDq//Va5bhfjZQPMf698E/UivU/2Wt5hImAj9lry8rZYGQMzxovZDFOVrwSX3E9x7SiDmlXdXNR0OfPJpVxo3BRxOO6q8wug==;TTQNdahHQ9M4Gk+0tw32Zg=="
 ---

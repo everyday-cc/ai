@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Florida universities study pros, cons of artificial intelligence"
-    excerpt: "Florida universities are discussing how to harness the power of artificial intelligence and to stave off student cheating using it."
-    publishedDateTime: 2023-06-09T14:59:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/06/09/florida-universities-study-pros-cons-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 39
-    images:
-      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/04/XD7AKQQKAGGKZQBPYO7RJPRZBQ.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Florida universities are keeping an eye on AI"
     excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology's power — and stave off the potential for academic malfeasance."
     publishedDateTime: 2023-06-12T13:38:00Z

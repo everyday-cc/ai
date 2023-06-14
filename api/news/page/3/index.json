@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-12-is-there-a-right-cloud-strategy-for-banking.md",
+      "title": "Is there a “right” cloud strategy for banking?",
+      "excerpt": "Looking at what cloud technology can offer central banks and the challenges they face in adopting it.\nThe post Is there a “right” cloud strategy for banking? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/is-there-a-right-cloud-strategy-for-banking/",
+      "originalUrl": "https://www.ibm.com/blog/is-there-a-right-cloud-strategy-for-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T07:34:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai.md",
+      "title": "How to chat with ChatGPT right on your Apple Watch. Meet Petey AI",
+      "excerpt": "With Petey on your iPhone or Apple Watch, you can type, tap, or speak your requests and then carry on a conversation. The chat not only appears on the screen but can be spoken aloud. You can even share the chat with someone else via email, text message, or social media app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2e7df5b35202c121fb5859af4251df29c49a76f8/2023/06/07/32d4f646-aba1-4462-a3cc-7afacc424c11/figure-top-how-to-chat-with-the-petey-ai-chatbot-on-your-iphone-and-apple-watch.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/",
+      "publishedDateTime": "2023-06-12T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-5g-network-rollout-using-devops-myth-or-reality.md",
       "title": "5G network rollout using DevOps: Myth or reality?",
       "excerpt": "How can IT DevOps principles apply to the deployment of a complex 5G network?\nThe post 5G network rollout using DevOps: Myth or reality? appeared first on IBM Blog.\n",
@@ -164,7 +257,7 @@
       "originalUrl": "https://www.zdnet.com/article/5-ways-to-explore-the-use-of-generative-ai-at-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -566,7 +659,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -762,7 +855,7 @@
       "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1003,7 +1096,7 @@
       "originalUrl": "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -1140,109 +1233,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks.md",
-      "title": "OpenAI CEO Calls for Collaboration With China to Counter AI Risks",
-      "excerpt": "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe",
-      "originalUrl": "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-797978/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-the-next-threat-from-generative-ai-disinformation-campaigns.md",
-      "title": "The Next Threat From Generative AI: Disinformation Campaigns",
-      "excerpt": "Generative AI, coupled with deepfakes, could present truly dire consequences for the 2024 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/",
-      "originalUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6483c3a8fa78a1eb97750fc7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/",
-      "publishedDateTime": "2023-06-09T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

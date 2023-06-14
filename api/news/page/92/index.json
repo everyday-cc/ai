@@ -2,6 +2,188 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-04-17-ai-demystified-making-sense-of-artificial-intelligence-for-your-business.md",
+      "title": "AI Demystified: Making Sense Of Artificial Intelligence For Your Business",
+      "excerpt": "If you want an AI implementation now, turn your attention to narrow AI. Think about tasks that are manual, repetitive and structured.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/617801ba6b3df3f9956729d2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/amp/",
+      "publishedDateTime": "2023-04-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-asda-introduces-self-driving-delivery-vans-in-ai-first.md",
+      "title": "Asda introduces self driving delivery vans in AI first",
+      "excerpt": "Asda is launching the scheme in partnership with Wayve, a developer of artificial intelligence for self driving cars ... This trend appears here to stay, and bringing driverless vehicles into the fold could be the next step forward,” Myron Jobson ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/",
+      "originalUrl": "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2023/04/Asda-Wayve_003.jpeg",
+          "width": 1536,
+          "height": 1183,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/?amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/asda-introduces-self-driving-vans-in-ai-first-for-the-supermarket-1/?amp=1",
+      "publishedDateTime": "2023-04-17T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-restaffing-the-self-driving-space-moving-past-traditional-recruitment.md",
+      "title": "Restaffing The Self-Driving Space: Moving Past Traditional Recruitment",
+      "excerpt": "Self-driving cars were science fiction a few years ago, but most technologically advanced nations now have autonomous automobiles—making this once-impossible fantasy a reality. Self-driving cars have conquered the automotive sector with significant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6109756bd03b841ec749f142/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/17/restaffing-the-self-driving-space-moving-past-traditional-recruitment/amp/",
+      "publishedDateTime": "2023-04-17T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-bull-of-the-day-baidu-bidu.md",
+      "title": "Bull of the Day: Baidu (BIDU)",
+      "excerpt": "Under the leadership of Robin Li, Baidu has orchestrated key government partnerships to utilize technology parks in Beijing and Shanghai for the development of autonomous driving. Now that ChatGPT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/bull-of-the-day:-baidu-bidu-0",
+      "originalUrl": "https://www.nasdaq.com/articles/bull-of-the-day:-baidu-bidu-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-harnessing-the-power-of-ai-in-the-insurance-sector.md",
       "title": "Harnessing The Power Of AI In The Insurance Sector",
       "excerpt": "AI can help insurers evaluate risk more accurately by analyzing large amounts of data such as historical claims data, credit scores and social media activity—thereby enabling in",
@@ -999,182 +1181,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
-      "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
-      "excerpt": "The soccer robots, for example, can't write up a grocery list or book your travel or drive your car. The ultimate goal is what's called artificial general intelligence-- a learning machine that can score on a wide range of talents. Scott Pelley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
-      "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/",
-      "publishedDateTime": "2023-04-16T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-ai-could-have-a-14-trillion-impact-by-2030-here-are-3-top-stocks-to-buy-now.md",
-      "title": "AI Could Have a $14 Trillion Impact by 2030: Here Are 3 Top Stocks to Buy Now",
-      "excerpt": "Artificial intelligence has been all the rage lately, capturing the imagination of consumers and investors alike. Ark Invest estimates the opportunity from AI at $14 trillion by 2030. Palantir ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/16/ai-trillion-dollar-impact-2030-top-stocks-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/16/ai-trillion-dollar-impact-2030-top-stocks-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-posts-tagged-aws-artificial-intelligence-and-machine-learning-practice-lead.md",
-      "title": "Posts tagged \"AWS Artificial Intelligence and Machine Learning Practice Lead\"",
-      "excerpt": "Download this eBook to look at each of these trends to give you background on why AI and ML is so powerful today, how businesses are using it responsibly and to their benefit, and how the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartcompany.com.au/tag/aws-artificial-intelligence-and-machine-learning-practice-lead/",
-      "originalUrl": "https://www.smartcompany.com.au/tag/aws-artificial-intelligence-and-machine-learning-practice-lead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartcompany.com.au/wp-content/uploads/2022/11/Smartcompany_Horizontal_Black_Logo_3000x4000px-e1668556442225.png?fit=3000%2C3000",
-          "width": 3000,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartCompany",
-        "domain": "smartcompany.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-the-ai-revolution-googles-artificial-intelligence-developers-on-whats-next-in-the-field.md",
-      "title": "The AI revolution: Google's artificial intelligence developers on what's next in the field",
-      "excerpt": "Artificial intelligence solved an impossible problem in biology and robots powered by AI taught themselves to play soccer. The machines never get tired. They never get hungry. They learn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
-      "originalUrl": "https://www.cbsnews.com/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/14/c12480c9-3363-478b-86bf-a856a2fa8598/thumbnail/1200x630/7b4e4968150471b425ee46c93ff66fd1/google-robot-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-advancements-google-artificial-intelligence-future-60-minutes-2023-04-16/",
-      "publishedDateTime": "2023-04-16T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

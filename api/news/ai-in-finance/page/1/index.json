@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-14-trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders.md",
+      "title": "TRAI directs telcos to deploy AI, machine learning to detect pesky SMS senders",
+      "excerpt": "The Telecom Regulatory Authority of India said that while measures taken by it to curb pesky messages has led to a drop in complaints against Register",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/articleshow/100975010.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/articleshow/100975010.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-100975008/100975008.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/amp_articleshow/100975010.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/amp_articleshow/100975010.cms",
+      "publishedDateTime": "2023-06-13T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator.md",
       "title": "Singapore: MAS Introduces AI in Finance Challenge for Global Fintech Hackcelerator",
       "excerpt": "MAS has launched the 8th edition of the Global FinTech Hackcelerator, titled “Artificial Intelligence (AI) in Finance Global Challenge.\"",
@@ -411,6 +455,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-03-quantum-computers-hsbc-quantinuum-explore-use-cases-of-quantum-computing-in-financial-services.md",
+      "title": "Quantum Computers: HSBC, Quantinuum Explore Use-Cases of Quantum Computing in Financial Services",
+      "excerpt": "Quantinuum, HSBC announce a series of exploratory projects that exploit the potential near- and long-term benefits of quantum computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/06/208119-quantum-computers-hsbc-quantinuum-explore-use-cases-of-quantum-computing-in-financial-services/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/06/208119-quantum-computers-hsbc-quantinuum-explore-use-cases-of-quantum-computing-in-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Computer-Speed-Fast-Internet-Zoom-Keyboard.jpeg",
+          "width": 1280,
+          "height": 1008,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-the-latest-paris-fashions-in-fintech.md",
       "title": "The Latest Paris Fashions (In Fintech)",
       "excerpt": "I was flattered to be invited to chair the keynote panel on new business models for banking at the Paris Fintech Forum 2023.",
@@ -789,6 +876,49 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-hsbc-and-quantinuum-explore-quantum-computing-in-financial-services.md",
+      "title": "HSBC and Quantinuum Explore Quantum Computing in Financial Services",
+      "excerpt": "Quantum computing company Quantinuum and London-headquartered bank and financial services group HSBC have announced exploratory projects looking at potential benefits of quantum computing for banking with specific projects in cybersecurity,",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2023/05/hsbc-and-quantinuum-explore-quantum-computing-in-financial-services/",
+      "originalUrl": "https://insidehpc.com/2023/05/hsbc-and-quantinuum-explore-quantum-computing-in-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2023/05/HSBC-logo-0523.png",
+          "width": 507,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1302,153 +1432,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-bahrain-set-to-host-top-fintech-summit.md",
-      "title": "Bahrain set to host top fintech summit",
-      "excerpt": "Under the patronage of the Central Bank of Bahrain (CBB), the three-day event will be held in a strategic partnership with the Bahrain Economic Development Board (EDB), and powered by Bahrain FinTech",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r",
-      "originalUrl": "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MTljZGQxZGYtZTZjNC00/2/180308083038dsae-jpg.jpeg?f=3%3A2",
-          "width": 723,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r?amp=1",
-      "publishedDateTime": "2023-05-18T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue.md",
-      "title": "AI-driven personalization-at-scale: The key to boosting fintech customer engagement and revenue",
-      "excerpt": "Learn how top fintechs are delighting customers and building strong relationships with AI-enabled platforms and data sources in this VB Spotlight. Register to watch free on-demand! “There’s a direct correlation between customers loving your products ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/",
-      "originalUrl": "https://venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/AdobeStock_155767679.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/amp/",
-      "publishedDateTime": "2023-05-17T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-chatgpt-and-generative-artificial-intelligence-in-finance.md",
-      "title": "ChatGPT And Generative Artificial Intelligence In Finance",
-      "excerpt": "Drew Spaventa is the founder and CEO of The Spaventa Group, a leading investment company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 534,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6463b7dd624c546c1fc2ff1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/amp/",
-      "publishedDateTime": "2023-05-17T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

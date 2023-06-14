@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-driv
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/amp/"
 type: article
 quality: 109
-heat: 122
+heat: 123
 published: true
 
 provider:

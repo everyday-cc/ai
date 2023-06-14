@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-educati
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
 type: article
 quality: 91
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -233,15 +233,6 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 19
-  - title: "Accenture pouring $3 billion into AI, joining long list of tech companies prepping to meet demand"
-    excerpt: "Technology services provider Accenture is the latest company to ramp up its artificial intelligence business, announcing Tuesday that it will invest $3 billion over the next three years and double its AI-related staff to accommodate scorching hot demand."
-    publishedDateTime: 2023-06-13T18:18:00Z
-    webUrl: "https://apnews.com/article/accenture-artificial-intelligence-investment-technology-ai-abc6d596b91be9cc206f842f341e0c77"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
 
 secured: "XSxqFwvEEDPFiOxbF/kg3REfU7C0iifhyj6nQqxgTI2RVjubEbUtr6AH0ybZOROqxd9DD2VWKCThpWUIKlcNLTp3d+BFliQ6TML6IvKEVuT7yCDCAi5rOIuGBkMhg30ekUoeLGZGIVpo5Mwdo8tselQBTzkhUCY8s+bU9BjY3QtUZ8EU0aX+R7+VXTYtOajfn24XOqwyP72ZRM+7e5bhYWo79Ra2j++l6Lft8n1CKaiGh65N2ql+eB1iRNjV6Gv9acDvycixVPyaqevLukEgvXKc0Klw9qPMSiJ9n/dFIo1Ods365Ko81bW6cdXYt9IiKvwMsEMH6sn4/KHxBgStCGcv4ZZ21l+WhuM3utajc0E=;qYU49I5fMGLI86vwdc3WlA=="
 ---

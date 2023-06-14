@@ -2,6 +2,194 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-05-13-acceleration-service-for-android-beta.md",
+      "title": "Acceleration Service for Android (Beta)",
+      "excerpt": "The use of specialized processors such as GPUs, NPUs or DSPs for hardware acceleration can dramatically improve inference performance (up to 10x faster inference in some cases) and the user experience of your ML-enabled Android application. However, given ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/acceleration_service",
+      "originalUrl": "https://www.tensorflow.org/lite/android/acceleration_service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-13T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-to-my-fellow-gen-xers-worried-ai-is-going-to-take-your-job-take-a-chill-pill.md",
+      "title": "To my fellow Gen Xers worried AI is going to take your job: Take a chill pill",
+      "excerpt": "\"Will AI take my job\" is a question on many minds lately, especially for Gen X. Instead of panicking, boost your career by learning to adapt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5",
+      "originalUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/645e491511971c00188f1e56?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5?amp",
+      "publishedDateTime": "2023-05-13T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-how-a-toronto-computer-chip-maker-is-providing-the-better-brains-ai-runs-on.md",
+      "title": "How a Toronto computer chip maker is providing the better brains AI runs on",
+      "excerpt": "From its downtown Toronto HQ, Untether is designing the computer chips that run artificial intelligence programs more efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
+      "originalUrl": "https://www.thestar.com/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/star-chevron-16x9.png.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
+      "publishedDateTime": "2023-05-13T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-deepfakes-porn-tapes-bots-how-ai-has-shaped-a-vital-nato-allys-presidential-election.md",
+      "title": "Deepfakes, porn tapes, bots: How AI has shaped a vital NATO ally's presidential election",
+      "excerpt": "One candidate already dropped out of the race after an alleged sex tape surfaced on social media, but the candidate claimed it was the product of deepfake technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vital-nato-allys-presidential-election",
+      "originalUrl": "https://www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vital-nato-allys-presidential-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e23c3aaa-25e1-4b4c-90a2-94785ba4bcb2/f246275e-dbb8-426b-9b88-16d17ce716f6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vital-nato-allys-presidential-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vital-nato-allys-presidential-election.amp",
+      "publishedDateTime": "2023-05-12T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-13-developer-creates-pro-first-amendment-ai-to-counter-chatgpts-political-motivations.md",
       "title": "Developer creates pro-First Amendment AI to counter ChatGPT's 'political motivations'",
       "excerpt": "ChatGPT has political biases when answering questions, opening the door for competition whose models provide objectivity in their answers, an AI developer said.",
@@ -1030,213 +1218,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-we-need-ai-to-help-us-face-the-challenges-of-the-future.md",
-      "title": "We need AI to help us face the challenges of the future",
-      "excerpt": "Letters: Readers respond to Naomi Klein’s article that argued it is delusional to believe AI machines will benefit humanity",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future",
-      "originalUrl": "https://www.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/597d5f6734c16144721d0597b01c71b97101cb20/0_115_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=88eb72596b6f639a049b50d075ccd716",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/12/we-need-ai-to-help-us-face-the-challenges-of-the-future",
-      "publishedDateTime": "2023-05-12T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-ai-run-etf-dumps-apple-in-favor-of-this-chip-stock-and-hints-at-new-opportunity-brewing-in-market.md",
-      "title": "AI-Run ETF Dumps Apple In Favor Of This Chip Stock And Hints At New Opportunity Brewing In Market",
-      "excerpt": "QRAFT AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM) had a 7.96% of its portfolio’s weight in Apple in April but sold the entire stake in May. Incidentally, Apple was the fund's top holding in April.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/etf/ai-run-etf-dumps-apple-in-favor-of-this-chip-stock-and-hints-at-new-opportunity-brewing-in-market-1032323317",
-      "originalUrl": "https://markets.businessinsider.com/news/etf/ai-run-etf-dumps-apple-in-favor-of-this-chip-stock-and-hints-at-new-opportunity-brewing-in-market-1032323317",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/artificial_intelligence_as_stock_picker.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-esperanto-sees-a-bright-future-for-risc-v-in-ai-and-hpc.md",
-      "title": "Esperanto Sees A Bright Future For RISC-V In AI And HPC",
-      "excerpt": "Esperanto has shared key findings of three customer trials conducted last year. Customer “A” demonstrated linear scaling from a single chip to a cluster. Customer “B” demonstrated strong performance and power efficiency vs the NVIDIA A100, and Customer “C” saw very strong performance across hundreds of evaluation parameters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/05/12/esperanto-sees-a-bright-future-for-risc-v-in-ai-and-hpc/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/05/12/esperanto-sees-a-bright-future-for-risc-v-in-ai-and-hpc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645d1c6db5dba549c62796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/05/12/esperanto-sees-a-bright-future-for-risc-v-in-ai-and-hpc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/12/esperanto-sees-a-bright-future-for-risc-v-in-ai-and-hpc/amp/",
-      "publishedDateTime": "2023-05-12T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-unlock-insights-from-your-amazon-s3-data-with-intelligent-search.md",
-      "title": "Unlock Insights from your Amazon S3 data with intelligent search",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-insights-from-your-amazon-s3-data-with-intelligent-search/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-insights-from-your-amazon-s3-data-with-intelligent-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/12/featured-images-ML-14008.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T07:43:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

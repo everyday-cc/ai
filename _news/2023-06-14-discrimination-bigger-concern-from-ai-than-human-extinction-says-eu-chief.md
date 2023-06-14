@@ -27,9 +27,9 @@ images:
 
 related:
   - title: "Discrimination bigger concern from AI than human extinction, says EU"
-    excerpt: "Discrimination is a more pressing concern from advancing artificial intelligence than human extinction, says EU chief Margrethe Vestager. Ms Vestager told the BBC \"guardrails\" were needed to stop the technology's biggest risks from materialising."
-    publishedDateTime: 2023-06-13T23:04:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-65881389?at_medium=RSS&at_campaign=KARANGA"
+    excerpt: "Discrimination is a more pressing concern from advancing artificial intelligence than human extinction, says the EU's competition chief. Margrethe Vestager told the BBC \"guardrails\" were needed to counter the technology's biggest risks."
+    publishedDateTime: 2023-06-14T06:03:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-65881389?at_campaign=KARANGA&at_medium=RSS&miRedirects=1"
     ampWebUrl: "https://www.bbc.co.uk/news/technology-65881389.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65881389.amp"
     type: article

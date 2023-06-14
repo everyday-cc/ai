@@ -7,8 +7,8 @@ originalUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/amaz
 webUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/amazons-cloud-unit-is-considering-amds-new-ai-chips/100981067"
 type: article
 quality: 54
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: cio.economictimes.indiatimes
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS is considering AMD’s new AI chips"
+    excerpt: "Amazon Web Services, the world’s largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision, an AWS executive said. The remarks came during an AMD event where the chip company outlined its strategy for the AI market,"
+    publishedDateTime: 2023-06-14T07:13:00Z
+    webUrl: "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 71
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/11/lisa-su-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "AMD to ramp up AI chip production this year"
     excerpt: "and a key performance measure for how well the chip will handle the large AI systems behind services similar to ChatGPT. \"There's no question that AI will be the key driver of silicon consumption for the foreseeable future,\" Su said. Su said customers will ..."
     publishedDateTime: 2023-06-14T05:39:00Z

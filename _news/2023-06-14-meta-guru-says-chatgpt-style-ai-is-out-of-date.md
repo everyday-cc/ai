@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Meta guru says ChatGPT-style AI is out-of-date"
-excerpt: "This research is another step in that direction,\" Zuckerberg added. Compared to its rivals, Meta has taken a more discrete approach to ChatGPT-style AI for its social media platforms Facebook and Instagram. Meta infused generative AI in its products ..."
-publishedDateTime: 2023-06-14T05:38:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-guru-says-chatgpt-style-ai-outdated/article66967036.ece/amp/"
+excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
+publishedDateTime: 2023-06-13T17:18:00Z
+originalUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
+webUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
+ampWebUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://th-i.thgim.com/public/incoming/uw1j4/article66967042.ece/alternates/FREE_1200/2023-06-02T003011Z_529134970_RC2EIX9TY0PB_RTRMADP_3_META-PLATFORMS-LAWSUIT-WASHINGTON.JPG"
-    width: 1200
-    height: 800
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
+    width: 2880
+    height: 1616
     isCached: true
 
 related:
@@ -147,20 +147,6 @@ related:
         width: 611
         height: 458
         isCached: true
-  - title: "Meta exhibits new AI tools similar to ChatGPT during a company meeting"
-    excerpt: "During an all-hands meeting held on Thursday, Meta's Chief Executive Officer (CEO), Mark Zuckerberg, disclosed a proposal to integrate generative artificial"
-    publishedDateTime: 2023-06-09T13:53:00Z
-    webUrl: "https://www.onmsft.com/news/meta-exhibits-new-ai-tools-similar-to-chatgpt-during-a-company-meeting/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Image-with-the-Meta-Logo.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Researchers Collaborate with ChatGPT to Design Robot"
     excerpt: "The advent of artificial intelligence has not only reshaped our digital landscape but has also permeated various fields in unexpected ways. In the most recent manifestation of AI's transformative power,"
     publishedDateTime: 2023-06-11T15:30:00Z
@@ -258,6 +244,6 @@ related:
       domain: azcentral.com
     quality: 10
 
-secured: "bXI5Zjy/1vPMIb3pa/EFgf52i0TioXMdl0KXtFMUIOp8q4x228i32b8EcV8fx8sctumtexzwk7qrJ+tI8b4d8wtOItUrIaHYpoHveyzzJyMUxiRUX3mL7WdVbvqiFRPdSvV4hgiFB8vqmud1S0/ZkvkGMnNw7/ceCv/602pDZwrcrAqDZ6WOcpPAlDz0qVS6EGhzisHxmiA+4wNob1vfT0lqWjwwS5cBYCkIewV2uqzMzBiQ2Q82HnOlWrLCGIVM/QMrlCuHMN+bdQSNnPvfC/8PQboO18mDqogGsISoLt0rViWx6HnB29NH94ywslGY92Qqw3Z/dc6m0jy97g/aQGKMjKLbBqjctEGE1G1i1W0=;8+tJ08q9ZhU2ccTg9sWPbA=="
+secured: "6A5UVIJFO+Dwb1IooFHG8kUoPlQWTCr3HMlii9/CNVFQpbEOGIuadsZq/7ZmFO6ds5SVlT/seS4PaChGxsBfV3mhqAQy1Irn0acpYcsT40+sjYkPoIMMZ/PWljBCmHDlwd6guauanrKCWlsuIi3Jc8kRcadwIFBluTXf0Vk3fd+ueNpNfejG9H9fzRykeWD3fbdvI8CSVVW+WrvUYGnwKqgP6snXvSZT5OxWuLXzynKLOxWUwLDSUBhctZxvbNHtZQRfEycaIcd9YPDdLqSdxJBxphJnmkgF/z2TMQJJV0qFsm44ZbFyAoinZSLx/MjdqSGkASJTIi//RN1uRBSt60d/EWn5yPcwvcxblWFNa40=;rNo2yf2jdy/QY49Slbmzvg=="
 ---
 

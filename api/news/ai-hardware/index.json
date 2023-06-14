@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-14-amazons-cloud-unit-is-considering-amds-new-ai-chips.md",
-      "title": "Amazon's cloud unit is considering AMD's new AI chips",
-      "excerpt": "The remarks came during an AMD event where the chip company outlined its strategy for the AI market, which is dominated by rival Nvidia Corp. Despite AMD disclosing some technical specifications for an AI chip coming later this year that could in some ways ...",
+      "path": "_news/2023-06-14-aws-is-considering-amds-new-ai-chips.md",
+      "title": "AWS is considering AMD’s new AI chips",
+      "excerpt": "Amazon Web Services, the world’s largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision, an AWS executive said. The remarks came during an AMD event where the chip company outlined its strategy for the AI market,",
       "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/cloud-computing/amazons-cloud-unit-is-considering-amds-new-ai-chips/100981067",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/cloud-computing/amazons-cloud-unit-is-considering-amds-new-ai-chips/100981067",
+      "webUrl": "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/",
+      "originalUrl": "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 121,
       "tags": null,
       "images": [
         {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-100981067,imgsize-71564,width-1200,height=765,overlay-etcio/cloud-computing/amazons-cloud-unit-is-considering-amds-new-ai-chips.jpg",
-          "width": 1200,
-          "height": 765,
+          "url": "https://techcentral.co.za/wp-content/uploads/2022/11/lisa-su-1500-800.jpg",
+          "width": 1500,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T20:48:00-07:00",
+      "publishedDateTime": "2023-06-14T00:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
+        "name": "TechCentral",
+        "domain": "techcentral.co.za",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -96,7 +97,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-strong-buy-rated-ai-stocks-to-watch-1032387474",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -148,7 +149,7 @@
       "originalUrl": "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -348,7 +349,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {

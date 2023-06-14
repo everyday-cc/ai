@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-08-covid-sparked-a-mass-adoption-of-technology-heres-how-its-influencing-healthcare-design.md",
+      "title": "Covid Sparked A Mass Adoption Of Technology — Here’s How It’s Influencing Healthcare Design",
+      "excerpt": "Hospital design experts Christina Grimes and Ryan Hullinger explain how technology, from telehealth to avatars, are being incorporated into healthcare environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/",
+      "originalUrl": "https://www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6480e0cb711147192b595934/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/coronavirusfrontlines/2023/06/07/covid-sparked-a-mass-adoption-of-technology---heres-how-its-influencing-healthcare-design/amp/",
+      "publishedDateTime": "2023-06-07T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-self-driving-waymo-car-kills-dog-amid-increasing-concern-over-robotaxis.md",
+      "title": "Self-driving Waymo car kills dog amid increasing concern over robotaxis",
+      "excerpt": "Collision occurred as canine ran out from behind another car, but autonomous vehicle could not stop in time to avoid contact",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco",
+      "originalUrl": "https://www.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e00f02701042ab5e25107c0616d98bbbf908dad3/0_190_4704_2823/master/4704.jpg?width=620&quality=85&auto=format&fit=max&s=f3e82d73872bffddfbf35a8c1eaa33f8",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco",
+      "publishedDateTime": "2023-06-07T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks.md",
       "title": "Here's one thing AI can do for 3 of our mega-cap tech stocks",
       "excerpt": "A series of recent deals, announcements and upgrades involving three major cloud-computing names all share a common thread: Artificial intelligence.",
@@ -401,40 +505,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-07-introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat.md",
-      "title": "Introducing VoxelGPT: AI-Powered Computer Vision Insights Delivered Through Chat",
-      "excerpt": "Game-changing natural language plugin makes complex AI tasks accessible to everyone ANN ARBOR, Mich., June 7, 2023 /PRNewswire/ -- Voxel51, a leading innovator in data-centric computer vision and machine learning software,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/07/9828592.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/07/9828592.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-07-apple-ceo-denies-new-tech-is-ai-but-admits-it-is-powered-by-machine-learning.md",
       "title": "Apple CEO denies new tech is AI but admits it is 'powered by machine learning'",
       "excerpt": "Tim Cook made the comments speaking to Good Morning America which comes just a week after leading AI figures such as OpenAI CEO Sam Altman and DeepMind CEO Demis Hassabis warned AI could risk the 'ext",
@@ -789,6 +859,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-07-introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat.md",
+      "title": "Introducing VoxelGPT: AI-Powered Computer Vision Insights Delivered Through Chat",
+      "excerpt": "ANN ARBOR, Mich., June 7, 2023 /PRNewswire/ -- Voxel51, a leading innovator in data-centric computer vision and machine learning software, today unveiled an extraordinary breakthrough in computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32760545/introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32760545/introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32760545",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32760545",
+      "publishedDateTime": "2023-06-07T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-unlock-new-insights-with-azure-openai-service-for-government.md",
       "title": "Unlock new insights with Azure OpenAI Service for government",
       "excerpt": "You now have the opportunity to use Microsoft Azure OpenAI Service through purpose-built, AI-optimized infrastructure to securely access the large language models in the commercial environment from Azure Government.\nThe post Unlock new insights with Azure OpenAI Service for government appeared first",
@@ -1137,93 +1250,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-powerful-object-recognition-for-diverse-applications-using-ai-and-robotics.md",
-      "title": "Powerful object recognition for diverse applications using AI and robotics",
-      "excerpt": "New algorithms for object recognition and environment perception have been developed at Fraunhofer IPA, enabling sophisticated automation solutions for the service and production sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/en/news815664",
-      "originalUrl": "https://idw-online.de/en/news815664",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
-          "width": 498,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach.md",
-      "title": "Can we achieve fairness in machine learning? UNC researchers have new approach",
-      "excerpt": "From facial recognition software to employment and interview pre-screening, algorithms have been found to reinforce systemic biases, exacerbating existing asymmetries and inequities rather than reducing them.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/",
-      "originalUrl": "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kenaninstitute.unc.edu/wp-content/uploads/2018/01/eric_ghysels-768x768.jpg",
-          "width": 768,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/?amp=1",
-      "publishedDateTime": "2023-06-07T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

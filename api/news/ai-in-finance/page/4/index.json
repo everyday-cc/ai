@@ -2,6 +2,127 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-12-singapores-gic-increases-stake-in-fintech-pagaya-to-9.md",
+      "title": "Singapore’s GIC Increases Stake in Fintech Pagaya to 9%",
+      "excerpt": "Singapore’s sovereign wealth fund GIC has increased its stake in United States-Israeli fintech Pagaya Technologies from roughly 7% to 9%.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechnews.sg/71429/ai/singapores-gic-increases-stake-in-fintech-pagaya-to-9/",
+      "originalUrl": "https://fintechnews.sg/71429/ai/singapores-gic-increases-stake-in-fintech-pagaya-to-9/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/04/Singapores-GIC-Increases-Stake-in-Fintech-Pagaya-to-9-1024x568.jpg?x90673",
+          "width": 1024,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fintech Singapore",
+        "domain": "fintechnews.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-thailands-8-most-well-funded-fintech-companies.md",
+      "title": "Thailand’s 8 Most Well-Funded Fintech Companies",
+      "excerpt": "With the Thai fintech industry on the rise, we’ve decided to look at the country’s up-and-coming fintech startups, identifying the companies that have raised the most funding. For this list, we’ve focused on fintech companies with their headquarters in Thailand,",
+      "sourceUrl": null,
+      "webUrl": "https://fintechnews.sg/71364/thailand/top-funded-fintech-thailand-2023/",
+      "originalUrl": "https://fintechnews.sg/71364/thailand/top-funded-fintech-thailand-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fintech Singapore",
+        "domain": "fintechnews.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-10-machine-learning-as-a-service-mlaas-market-forecasts-2023-2029.md",
+      "title": "Machine Learning-as-a-Service (MLaaS) Market Forecasts 2023-2029",
+      "excerpt": "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning-as-a-Service (MLaaS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecasts-2023-2029-2023-04-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecasts-2023-2029-2023-04-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-10-artificial-intelligence-ai-in-fintech-market-research-analysis-2023-2031.md",
       "title": "Artificial Intelligence (AI) in Fintech Market Research Analysis 2023-2031",
       "excerpt": "Apr 09, 2023 (The Expresswire) -- The latest market research report on the Global \"Artificial Intelligence (AI) in Fintech Market\" is segmented by Regions, Country, Company and other Segments.",
