@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-giv
 webUrl: "https://www.zdnet.com/article/openai-deepmind-and-anthropic-to-give-uk-early-access-to-models-for/"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "OpenAI’s CEO Calls on China to Help Shape AI Safety Guidelines"
-    excerpt: "China should play a key role in shaping the artificial intelligence guardrails needed to ensure the safety of transformative new systems, OpenAI Inc.’s Chief Executive Officer Sam Altman said."
-    publishedDateTime: 2023-06-10T03:09:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-10/openai-s-ceo-altman-calls-on-china-to-help-shape-ai-safety-guidelines"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "VLe9R9KUdaEeWhICxwZ+CMjg7n3N+YZuTK8Uz9UzAAceBikl293GHENBVrgR55xWqSV8aUrPdkADvI+MrgvrklzcDnMV4OD8mjlqlCVr3+oRzvl2q+o4Ebq4eWQSGROEEdXUfPVmFQdwaH76FqA7urahO7j6qJEkAbZebu1QTFSv+0ysk8rMdi3a70vwmPbpxXjoqkl07EbdgHrsNFnqmMSGRADNR2jWpPn+Uenphqxqc5si/kdaD0GuBz05BwvOakVYM9UpW9bYQEXd1De2RMYeijecntb3GR71fX+BMJqpQLAeKCOy63CigKXQv6vqEdOlbEdKCuZSI/8WzZ/LX0ER/4HSOZ4L0fJKWq8T+nQq5CNKVNQkkeQsN+IW2yPoPN1J7E3QVq+YIaxXOr9ae1ckJtB3ZlpNnDcbkQ2Xb6VUZxqoxIH1rURtuGTPEZpvnV0scN0jVY4rKQD3nia1K7gBEDsWaq9t59f9pkEL1eD5aqWBTHKiHtcw9VKD3ZYn8J4v/9tgUj+2KO16QvXstg==;ayOSubyijVqYsg9tw8yGzw=="
 ---

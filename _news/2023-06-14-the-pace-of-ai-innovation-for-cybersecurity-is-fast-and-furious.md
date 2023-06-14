@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "How machine learning and new AI technologies could change the cybersecurity landscape"
+    excerpt: "Use Next and Previous buttons to navigate How machine learning and new AI technologies could change the cybersecurity landscape The world has never been more online. From work meetings, emails, and texts to shopping,"
+    publishedDateTime: 2023-06-14T19:58:00Z
+    webUrl: "https://www.timesunion.com/personal-finance/article/how-machine-learning-and-new-ai-technologies-18152566.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 47
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/24/11/23937620/6/rawImage.jpg"
+        width: 1080
+        height: 770
+        isCached: true
   - title: "From IBM Security to Noventiq: Here are the top cybersecurity brands using AI to combat emerging threats"
     excerpt: "In this listicle, we present the most trusted cybersecurity brands that are effectively utilizing AI to combat emerging threats., Technology & Science News, Times Now"
     publishedDateTime: 2023-06-13T12:21:00Z

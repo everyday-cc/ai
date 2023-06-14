@@ -99,6 +99,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 4
+  - title: "Leidos Leads Advancements in Large Language Models and Generative AI, Accelerating Trust and Strategic Partnerships"
+    excerpt: "\"Generative AI is going to revolutionize industries and Leidos is at the forefront of putting this powerful technology into action,\" said Jim Carlini, Leidos Chief Technology Officer. \"Years ago, we recognized the potential of the LLMs that power today's Generative AI breakthroughs and began the work to unlock it."
+    publishedDateTime: 2023-06-14T21:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-leidos-leads-advancements-large-language-models-generative-ai-/2023/06/14/9832964.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "zFNCzlen1quialFWZn07xeenUYVUKr0vCuSkJhEMHTDUu9B6eDZEmqruoIF44GizDEN5R1CnlrQA48njwhppygpg37/12LkEp6cjWQtvzrS0Ow3xrfoe7DdfuVsWt1/R1naUTJYseHSPmvH0oVzCj6DuYV9VgBnppkcHO+cm7R2eYVfaYttJ5mBRQHMnbXzgcp65kc7yy/BvWANGNzv9F7W08SUr6sdFK/e8lm1baNJRLNoSGHejTcHnhTH8+CcdpWHP1fVoaoka7MP6wkcnMySZSj8/hLeHt7VGFrlGRnqJHtoAD5OAXGLdBGbw8RGKoO9YAEulJtaNOh/ygZnQipI/gkU19a3qJ4UqHChmR4oN6DgVAioModv0/71J1CJtbbLO/C/LRxviDRX5IiMoJHOWfHvmJ8d8l94DHKRkYGU7viDI8is6QKYPpGB+V03uIxdd1u1EJ+yiUOnEDIWKbj79WiNZUcuWMVXWh1rMQKFbq12alp1j7Q5kNT3wzr/+YMexXAFQmjEmOLHPyr+Dlg==;CJzf0UY6n00tp0/oSKeM4w=="
 ---

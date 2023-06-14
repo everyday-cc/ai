@@ -57,6 +57,15 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "AMD's take on AI: Instinct MI300X combines CPU, GPU, and 192 GB of HBM3 memory"
+    excerpt: "TechSpot means tech analysis and advice you can trust. The big picture: One of the most undisputed beneficiaries of the generative AI phenomenon has been the GPU, a chip that first made its mark as a graphics accelerator for gaming. As it happens ..."
+    publishedDateTime: 2023-06-14T18:08:00Z
+    webUrl: "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 60
   - title: "Google Launches AI Supercomputer Powered By Nvidia H100 Gpus"
     excerpt: "By integrating Nvidia's cutting-edge NVIDIA H100 Tensor Core GPU into its supercomputer infrastructure, Google aims to accelerate the development and deployment of advanced AI models and algorithms. The H100 GPUs, renowned for their exceptional performance ..."
     publishedDateTime: 2023-06-13T07:40:00Z

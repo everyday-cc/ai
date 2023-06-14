@@ -42,17 +42,12 @@ related:
   - title: "Thomas Camp joins Exdion Solutions as President and Head of Healthcare Operations"
     excerpt: "Thomas E. Camp, President and Head of Healthcare Operations, Exdion Solutions (Photo: Business Wire) L.S. Ram, Founder and CEO of Exdion, said, “Thomas Camp brings a wealth of h"
     publishedDateTime: 2023-06-14T15:00:00Z
-    webUrl: "https://www.eagletribune.com/region/thomas-camp-joins-exdion-solutions-as-president-and-head-of-healthcare-operations/article_378f8df2-35c1-5e1a-9014-11c7c9f97950.html"
+    webUrl: "https://www.joplinglobe.com/region/national_business/thomas-camp-joins-exdion-solutions-as-president-and-head-of-healthcare-operations/article_bade4ae2-0ece-5893-8a02-bbe5ce1736d3.html"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 34
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/5/3d/53d59b2f-2c24-508e-b496-29dd1e829df9/6489d9607dbe1.image.jpg?crop=1175%2C617%2C0%2C573&resize=1175%2C617&order=crop%2Cresize"
-        width: 1175
-        height: 617
-        isCached: true
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 14
 
 secured: "ebqGdlW+f3awRNtuLPIJfZvGD9lCAPh5izB7s4rCFKbJu95CzUmBliG1xJcZ54bWNZKWD6bptpAgkUBKw5iaTJySI8al1zowCIZzWZEPUstrgy2603rh5IZkkcX1tDrUjKBe7FUBnkQfRscy3By7kDZdy6cxy5hv+qy33y4GgNz0BJwjARBaHSERHx5vQBLYMRCI7GAS2TR6BQqUaKyW5zPCoy/MYXIiWKCVFTCD8jdmjvnAhEEpZxoa5pfuMGurdVOyoL4mKjZPcdKHWUqGSED3NBN6XInCHQtn/8/MoB5M/Eqtl6icnYJu8glr7foDP88EiMqIk5lSFbsEygVWN7GTHafyHxg2eKep33tMzJeWi+L9gVOYXZR46Nt/cwQAtLhO+jYIH/P4B0UacUJOE9lblJh8dHmsUfNLP1v0ph5WfApNvy4CIwCf1jE8UOK76CxSdxt/pPijIOYdTqy1Dm6JXVtin+SyL/Niab97Q9mPnv+pWtz8AEDvxGhgJ29wxUbxlUdcl/nFqKrw6GkWhA==;cw0nvSahIGPHPypBj5xEKQ=="
 ---

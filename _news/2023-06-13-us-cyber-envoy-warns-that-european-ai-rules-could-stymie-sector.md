@@ -66,6 +66,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Europe Adopts Groundbreaking AI Regulation"
+    excerpt: "The European Union Parliament, in a landmark move, has voted in favor of the proposed Artificial Intelligence Act, revolutionizing the regulatory landscape of AI in the continent. This pivotal decision ushers in a new era of AI governance,"
+    publishedDateTime: 2023-06-14T20:05:00Z
+    webUrl: "https://www.unite.ai/europe-adopts-groundbreaking-ai-regulation/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/06/christian-lue-MZWBMNP7Nro-unsplash-942x600.jpg"
+        width: 942
+        height: 600
+        isCached: true
   - title: "Four-week-old AI start-up raises record €105m in European push"
     excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105 million in Europe’s largest-ever seed round."
     publishedDateTime: 2023-06-14T16:29:00Z
@@ -89,6 +103,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
+  - title: "Europe votes on Artificial Intelligence Act"
+    excerpt: "Lawmakers in Europe signed off Wednesday on the world's first set of comprehensive rules for artificial intelligence, clearing a key hurdle as authorities across the globe race to rein in A.I. (June 1"
+    publishedDateTime: 2023-06-14T18:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2023/06/14/europe-votes-artificial-intelligence-act/12105644002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 17
   - title: "French start-up Mistral AI to compete with Silicon Valley firms, raises 105 million euros in Europe's largest seed funding"
     excerpt: "Mistral AI, formed by former Google and Meta AI researchers is planning to launch Large Language Model to compete with ChatGPT next year"
     publishedDateTime: 2023-06-14T13:31:00Z

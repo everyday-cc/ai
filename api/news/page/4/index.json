@@ -2,6 +2,151 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-12-ibm-tech-now-june-12-2023.md",
+      "title": "IBM Tech Now: June 12, 2023",
+      "excerpt": "The latest episode of IBM Tech Now looks at the 2023 X-Force Definitive Guide to Ransomware and the Center of Excellence for Generative AI.\nThe post IBM Tech Now: June 12, 2023 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-tech-now-june-12-2023/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-tech-now-june-12-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/IBM_Tech_Now_thumbnail_078a-1.png",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T12:11:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-ai-unlikely-to-gain-human-like-cognition-unless-connected-to-real-world-through-robots-says-study.md",
+      "title": "AI unlikely to gain human-like cognition, unless connected to real world through robots, says study",
+      "excerpt": "Connecting artificial intelligence systems to the real world through robots and designing them using principles from evolution is the most likely way AI will gain human-like cognition, according to research from the University of Sheffield.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-ai-gain-human-like-cognition-real.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-ai-gain-human-like-cognition-real.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-robot-1.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-gain-human-like-cognition-real.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-gain-human-like-cognition-real.amp",
+      "publishedDateTime": "2023-06-12T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-ai-how-good-is-good-enough.md",
+      "title": "AI: How Good Is Good Enough?",
+      "excerpt": "Many business leaders today are excited by the idea of implementing AI solutions that will replace humans in customer-facing roles. But, there are roadblocks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogerdooley/2023/06/12/ai-how-good-is-good-enough/",
+      "originalUrl": "https://www.forbes.com/sites/rogerdooley/2023/06/12/ai-how-good-is-good-enough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64849d40973109c1cc58a779/0x0.jpg?format=jpg&crop=3527,1986,x914,y641,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogerdooley/2023/06/12/ai-how-good-is-good-enough/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2023/06/12/ai-how-good-is-good-enough/amp/",
+      "publishedDateTime": "2023-06-12T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-how-docusai-is-powering-a-groundbreaking-ai-powered-health-platform.md",
       "title": "How Docus.ai Is Powering A Groundbreaking AI Powered Health Platform",
       "excerpt": "Docus.ai has developed an innovative AI Health assistant leveraging ChatGPT to save lives. Learn how Docus.ai is focused on saving lives and improving healthcare access.",
@@ -453,6 +598,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-12-coinwebcom-your-ultimate-cryptocurrency-education-and-comparison-hub-powered-by-advanced-ai-models.md",
+      "title": "Coinweb.com: Your Ultimate Cryptocurrency Education and Comparison Hub, Powered by Advanced AI Models",
+      "excerpt": "Your Ultimate Destination for Cryptocurrency Education and Comparison, Powered by Cutting-Edge AI TechnologyDubai,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/coinweb-com-your-ultimate-cryptocurrency-education-and-comparison-hub-powered-by-advanced-ai-models-1032382269",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/coinweb-com-your-ultimate-cryptocurrency-education-and-comparison-hub-powered-by-advanced-ai-models-1032382269",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/ifVQDvKEZZMuxhtiOyhcAAz1TmH2/1686517473221-0.png",
+          "width": 653,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-bing-image-creator-vs-dall-e-2-which-generates-the-best-ai-images.md",
       "title": "Bing Image Creator vs DALL-E 2: Which generates the best AI images?",
       "excerpt": "As generative AI becomes more and more popular, users have a range of tools they can use to create images. We'll help you choose the best one for you.",
@@ -607,7 +804,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -761,7 +958,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/06/208277-artificial-intelligence-smartmetric-to-embed-ai-into-its-biometric-credit-card/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1033,205 +1230,6 @@
         "Facebook AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-the-ethics-of-using-ai-in-education.md",
-      "title": "The ethics of using AI in education",
-      "excerpt": "The continuous advancements in AI technology and its ability to simulate human listening, speaking, thinking, and learning has seen it emerge as a promising tool to enhance student learning experiences. Some studies have demonstrated the positive impact of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece",
-      "originalUrl": "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 271,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/hdt9vp/article66936849.ece/alternates/FREE_1200/12EPBS_AI%20IN%20ED.jpg",
-          "width": 1200,
-          "height": 923,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/",
-      "publishedDateTime": "2023-06-10T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-facial-recognition-for-pets-the-best-new-iphone-feature-coming-soon.md",
-      "title": "Facial Recognition For Pets: The Best New iPhone Feature Coming Soon",
-      "excerpt": "There are so many new features coming in iOS 17. Here’s the one I’m most excited about, so please hurry up, Apple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidphelan/2023/06/10/ios-17-heres-the-1-new-iphone-feature-that-cant-come-soon-enough-iphone-15-pro-max/",
-      "originalUrl": "https://www.forbes.com/sites/davidphelan/2023/06/10/ios-17-heres-the-1-new-iphone-feature-that-cant-come-soon-enough-iphone-15-pro-max/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648447389ca5b9a0bd214430/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidphelan/2023/06/10/ios-17-heres-the-1-new-iphone-feature-that-cant-come-soon-enough-iphone-15-pro-max/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidphelan/2023/06/10/ios-17-heres-the-1-new-iphone-feature-that-cant-come-soon-enough-iphone-15-pro-max/amp/",
-      "publishedDateTime": "2023-06-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks.md",
-      "title": "OpenAI CEO Calls for Collaboration With China to Counter AI Risks",
-      "excerpt": "As the U.S. seeks to contain China’s progress in artificial intelligence though sanctions, OpenAI CEO Sam Altman is choosing engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe",
-      "originalUrl": "https://www.wsj.com/articles/openai-ceo-calls-for-collaboration-with-china-to-counter-ai-risks-eda903fe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-797978/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-the-next-threat-from-generative-ai-disinformation-campaigns.md",
-      "title": "The Next Threat From Generative AI: Disinformation Campaigns",
-      "excerpt": "Generative AI, coupled with deepfakes, could present truly dire consequences for the 2024 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/",
-      "originalUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6483c3a8fa78a1eb97750fc7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/06/09/the-next-threat-from-generative-ai-disinformation-campaigns/amp/",
-      "publishedDateTime": "2023-06-09T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

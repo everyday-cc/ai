@@ -47,6 +47,15 @@ related:
         width: 701
         height: 394
         isCached: true
+  - title: "5 Advanced Micro Devices Analyst Takeaways On AI Event: Is Chipmaker 'Somewhat Late' Vs. Rival Nvidia?"
+    excerpt: "Analyst John Vinh reaffirmed an Overweight rating on the stock. Advanced Micro Devices expects its generative AI-optimized GPU, the MI300X, “to ship for meaningful revenues in 4Q23,” Vinh said. The company also raised its AI accelerator TAM outlook to ..."
+    publishedDateTime: 2023-06-14T16:26:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/06/32856895/5-analysts-takeaways-from-the-advanced-micro-devices-data-center-and-ai-technology-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
 
 secured: "1DWF2ou/7vfGPCHEF6fqWPCdPZOGXeIphJu+nF+dea4DYvOkNpUKbqZgHzP0tLPqrKfZ3oJKZ1/CjWZNSIrkD7y0DsvfGzka7SeHSnKVWQiXanvgeQLlzNP0Eo+IWDJealIYy40v7viSiwlldxj0j+bCs4W1vKYI4kapXfw2BXA/40geHb84rkI5UnsTvmG8OQyMh/zAGMuqQhj/rvl+1oXToqgbaZ5ruJ3ruN9H7uXhGpeM85Zp9SLtxPqr0CImIB1g5PIf6hFkboV9Te8DvkwKeu9LDbKN17a3bW/5DBqcXbbNSkIVFciOiytZeOdeaJlDgRdrQKU5wkDG3SPBHueQf5QVlJIh75AISYPYcks=;WPxgdtjyuTeeun2o6TgWbg=="
 ---

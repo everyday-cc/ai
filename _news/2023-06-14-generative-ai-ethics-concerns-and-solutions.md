@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google's new AI tool aims to make online shopping more diverse and size-inclusive"
+    excerpt: "Cher's virtual closet in the 1995 film classic Clueless is one of the most coveted futuristic tech suggestions of the pre-Y2K era. It's also the closest comparison Google has for its latest virtual try-on tool,"
+    publishedDateTime: 2023-06-14T19:08:00Z
+    webUrl: "https://www.aol.com/news/googles-ai-tool-aims-online-160841592.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 12
 
 secured: "3B9+J09Rb6q8BbICNEsq0gDanzS69Yml5oKPC6Zw6/NJAnXi0DGaNJO5hD6KCuH31zi7pVgUYfFDVDVkceRQDGp74QNh6DR5yLkCSiOED/ygiyfPf0kQJpsWTGNHV2qEyEWdTb/2AC863c1Yc44sHjzRf60bXq5nSq6D83UA/t5A39A+VGEIJhp5PJ5eKwnYAVfCcuCnfx9jKXGP+3elO2E8rSJu0dhwSklin/M2TAxoR/TRBg1MMaA9qj8a3WhH9zzrPX493rn7AhDKFVZBM0Te3ic1J3A2C6a2tgpS5IMyWd8+Mzvh4n4OPsy4Szl+RhP/JjVsq1IVx7I3D1awp1jtkXZzy72fdmxQE7WEQ0A=;Qap2H+v3fIcAIKkxNq2u+A=="
 ---

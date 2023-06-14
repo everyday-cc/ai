@@ -55,6 +55,15 @@ related:
       name: eWeek
       domain: eweek.com
     quality: 64
+  - title: "Google's new AI tool aims to make online shopping more diverse and size-inclusive"
+    excerpt: "Cher's virtual closet in the 1995 film classic Clueless is one of the most coveted futuristic tech suggestions of the pre-Y2K era. It's also the closest comparison Google has for its latest virtual try-on tool,"
+    publishedDateTime: 2023-06-14T19:08:00Z
+    webUrl: "https://www.aol.com/news/googles-ai-tool-aims-online-160841592.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 12
 
 secured: "kk0/RUJ0zly/fHBbgPxTOE5K40q8flSpIyrUOBfUfA0x+Aerzcj+qITOxNO32E+emdEoM2t7qyBk2Bz68S40/cpBjwg3QabA+nKzFrlsaZukm/lsjJVToQYue1gb3f31CZgnp3U8X/aq0ngFMQq6C8rLdKLz1vnBLsrbeW0vBa17p74ZSazdBxyWoNAs+YVL7EHajs/YH5K1UV6q0zIQqB5fyEQGpViguGcLmisZo0Psn7lxNk32I7SYED3Qi5OAlSDIOAp53oIhqdciPp7nx7cx1OxSbdX9ZeyyaY8H7c6Nc7lO1cj+JAX4tFycIqwsixOumt3tXquZTbxdieVyfQKpXpHAnrVc+qRXuy56k9o=;g8SLNODHL/XL/HUx/gkjxg=="
 ---

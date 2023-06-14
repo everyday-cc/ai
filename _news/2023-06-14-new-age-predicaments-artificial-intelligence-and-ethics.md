@@ -195,6 +195,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "TaxGPT: Advancing AI And The Tax Profession"
+    excerpt: "I'm going to start with talking about generative AI ... Chatbot Chat with AI, Artificial Intelligence. man using technology smart robot AI, artificial ... [+] intelligence by enter command prompt for generates something, Futuristic technology transformation."
+    publishedDateTime: 2023-06-14T18:49:00Z
+    webUrl: "https://www.forbes.com/sites/taxnotes/2023/06/14/taxgpt-advancing-ai-and-the-tax-profession/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Increasing focus on AI is driving demand for empathetic women leaders"
     excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
     publishedDateTime: 2023-06-11T01:50:00Z
@@ -293,6 +302,15 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Neural Wave Ltd Launches NLPearl.AI: Pioneering the Future of Telecommunications with AI-Powered Phone Agents"
+    excerpt: "Neural Wave Ltd, a leading light in the field of conversational artificial intelligence (AI), has announced the launch of its groundbreaking product, NLPearl.AI. This state-of-the-art software integrates advanced machine learning and natural language processing technologies,"
+    publishedDateTime: 2023-06-14T18:09:00Z
+    webUrl: "https://techbullion.com/neural-wave-ltd-launches-nlpearl-ai-pioneering-the-future-of-telecommunications-with-ai-powered-phone-agents/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "DkSnxJKDxpHrVx/hZXdS7Uoid7U25jDf9dXPf31kEfkSgS703SwlTIL1DuEboopkwjVVUIBVxN9NH85KY/GxaJjo4NG0oYvVtVhViV5hsCyDRnlZK7KbxsXdglIAbYc7lIZmt3gYvEkUI3NUjGGJNtZW3YmnzRBCkArk1WwLIQd8SeSqUJQqYExll0Q0wbyXT5cGDmGY1XsE2w2VSFyljhkVtkKgjRtQ8trC4+SOTkMo0gn8ZCJZ3Vp+KG811D2756UcBX5LQdnQF4M6vBRP1zHfVdO73GdwBmB22ycdNbESz3Lbz6MlD9FGrgvjtDJavXlawHevohYogeArDVqvvkpKgelze7U70OPry1Ws9ltZXavZx56vVtFdQO1zxROJBgSaHIgT5nQ3iKCziDSZNlwkecBa0GK4prdXc4kj2z2xO3m4Jil8wjSn4gbpyuL1HgmfOyUM+vwa8+/wfK6GM7aDCWZQMD9NO3At2hLpyt9aeauCBM9uY0xBAtekL6DODYz+Hpzx4r2+m1zkIDRT1g==;Ur3VXPh+tCd3OQCgmQG0Rg=="
 ---

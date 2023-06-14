@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/5-analysts-takeawa
 webUrl: "https://markets.businessinsider.com/news/stocks/5-analysts-takeaways-from-the-advanced-micro-devices-data-center-and-ai-technology-event-1032389582"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 701
         height: 394
         isCached: true
+  - title: "5 Advanced Micro Devices Analyst Takeaways On AI Event: Is Chipmaker 'Somewhat Late' Vs. Rival Nvidia?"
+    excerpt: "Analyst John Vinh reaffirmed an Overweight rating on the stock. Advanced Micro Devices expects its generative AI-optimized GPU, the MI300X, “to ship for meaningful revenues in 4Q23,” Vinh said. The company also raised its AI accelerator TAM outlook to ..."
+    publishedDateTime: 2023-06-14T16:26:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/06/32856895/5-analysts-takeaways-from-the-advanced-micro-devices-data-center-and-ai-technology-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
   - title: "Advanced Micro Devices Shows Mixed Signals Heading Into Highly Anticipated AI Event: The Bull, Bear Case"
     excerpt: "The chip maker printed a reversal candlestick Monday, but a bullish reaction to the company's AI event could negate the signal. Advanced Micro Devices, Inc AMD closed 3.42% higher Monday ahead of its highly anticipated “AMD Data Center and AI Technology ..."
     publishedDateTime: 2023-06-13T13:08:00Z
@@ -53,6 +62,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "cfC0OQYKijcwTRP8IyeRZ47egX6oNq/R2DYvZmziz46Hmj9MwWCuXPdKO1eluQCqw622KR5v1peVPqSpmfn+WCCiAxhwfCS7WhCT3ojxCXB9izyIznXU19TrO7cNyQHSTre1OPHFsuc9gs9rQhwxthUkBfMPA/gI27DSzvXgIMEEbnPl8OAEbuDMgyhXeupUdlYB0KQatfIqUZZFqC/8A1EUds/5tdKY5v1ZAiFdKye9Ueq5otllbW6TMl5Z9wbTu+YRf5ltRR6lKsga1oZ1XFdDdmS8iB5rA939c/RXDZYy1Oxk75p3q6FpAnruUmSTioS3U1IXO+QvR05i9cq5rNOgo0jeHMmbY8XVTL7F6cs=;FNuilc4s6cZSOEnGAyU0jw=="
+secured: "vYmQ8pOWvsR8CR7vg1OVjqskkvC//vQiI9iSp+u5XyP5BprtJ8s4BdpqEe8mVsUNs34II8AS3pC/oFWy4KtN61WYMY8U9kKKI8DqAuDO6Whq9Kkzc6t8ae3UthKX7dRZ/zVU0fGOVJS0BbxNPdPWh/ygR6dHJVTrDNlB+P6P3ot4GCIJZrefyPX8HN1mR1Q3FU1cki33ENBzV+b8Cv4mdPZUC8z9kTlzXICd0LuWxezcNjD8WHlIqitaj9FnKM2R/FZnHJ4gTKe81EeoXybrgy0e/0T7BLu7+h7Rcr8Inty/A7zKuj7E5a6gTTNfNItCZmc9FR0DMfcgjMHkjqPSwmoLscHP5OPHPprn9az2ZZc/RSxrcm5ztIO+Nyee1eYX/Vh74951f/aZg+lc7xrKMZtpnDusUI/tOSGCqBiXKEGKnSjrnLojxBxbhGkiEEVKeL5AE12vNIEGEt2f0vFv5Y2e1jeyYaIolT+1fjvivpxnc6BPIxWWXXchiYoFFbkA6Oi2Ln0b5v6daEFj2PwYBQ==;UDRX+8HFQxSS00Mg67CDzg=="
 ---
 

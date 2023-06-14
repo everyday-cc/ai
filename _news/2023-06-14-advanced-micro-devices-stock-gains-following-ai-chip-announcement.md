@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "5 Advanced Micro Devices Analyst Takeaways On AI Event: Is Chipmaker 'Somewhat Late' Vs. Rival Nvidia?"
+    excerpt: "Analyst John Vinh reaffirmed an Overweight rating on the stock. Advanced Micro Devices expects its generative AI-optimized GPU, the MI300X, “to ship for meaningful revenues in 4Q23,” Vinh said. The company also raised its AI accelerator TAM outlook to ..."
+    publishedDateTime: 2023-06-14T16:26:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/06/32856895/5-analysts-takeaways-from-the-advanced-micro-devices-data-center-and-ai-technology-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
   - title: "Advanced Micro Devices Shows Mixed Signals Heading Into Highly Anticipated AI Event: The Bull, Bear Case"
     excerpt: "The chip maker printed a reversal candlestick Monday, but a bullish reaction to the company's AI event could negate the signal. Advanced Micro Devices, Inc AMD closed 3.42% higher Monday ahead of its highly anticipated “AMD Data Center and AI Technology ..."
     publishedDateTime: 2023-06-13T13:08:00Z
@@ -49,6 +58,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "qtQ3DxKlxyQiNBdInleJvjLGsm2Q3Mgmt69klTX/sdOKUdYxhIQ1PdMLdO7QXLHlVN+hPCzXSAEL2Tw8v2+rB9GVUma/crqTqjZCKPBftMkBMbtVxupHp6HaDC6voMwJN40JRZV7XKYXPNvnJ8NppSwB+fhwa+b8cg5FDLXEOtCc6Sr2xaw22t0HqiFsAAXIoB4kRRj25YRtXaJMnoTGi6yv9AIrL043uCfbVH6QGqx07rEqWZGGAz4JtsOGLaKpnTe7rvjwXnPa9YMC3sd5qLVK5RPAfIntREspxyMbBjzT6OGpx4kx5eMV1CX84cqcn45/kf1jr5INIeapgVVemSgBF+M1lXwVuBvw1/KS/H0=;lXnz0OwjgcoJ5kDL1rRNEg=="
+secured: "KbQ2H03Q7HjkaM84AjzuRasH93VIRbcaKpdtjsh/FXAgXV5HEOZS115Cb4hiZDaexbJvtZKQza5x86Mi32iW+rTsUKb/7PAV9MBL9kuSnMJCBFb+24q7O5HnJNxNOLDMAEO+9hhPix/Gx9lq3pfUsyR056cxNJH3qdkBXTOR+V7JFdGrwAdJ6MWXtT1/a4xoaox3Q99Z1gCPoysSHmkpTFvk7wUu307ZEeQRb+1WpkJxbizbe2Tb1KgddD0NDvXMFRkGXGFyJVgIr0waQl4tZw8HcZtkhDvf9EHeMVFE1GM8UUyxoe4SzpBJVgF9L4D6IFKf3z11GPXy4TwY56rSAbAaT+W+cIGM5w9N/D3dpXJoLI/ZCDHbrm4vM46SE+cnOOh9BnV8rdGAc4b89S7L7jAsb6yJuVtLQMqrpQUCY2nTeftt5hu73Nyw4PMgjpyv78QU84/8IFgfEN3TWeizxm8Fpeb3I0urolqQ/fhzQl9SRc7DgnIAwR4kkoAaU/C+l9lBSnvU9rTKpWwl2B1Oyg==;RscF83c0YwuMk8XlE+VAOQ=="
 ---
 

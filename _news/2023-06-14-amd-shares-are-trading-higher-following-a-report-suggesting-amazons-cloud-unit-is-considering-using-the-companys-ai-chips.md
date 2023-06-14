@@ -138,6 +138,20 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "AWS is considering AMD's new AI chips"
+    excerpt: "Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from Advanced Micro Devices, though it has not made a final decision, an AWS executive told Reuters."
+    publishedDateTime: 2023-06-14T19:47:00Z
+    webUrl: "https://www.itnews.com.au/news/aws-is-considering-amds-new-ai-chips-596915"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220802075518_aws-sign-summit.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "AMD says Meta is using its cloud chip as it rolls out AI strategy update"
     excerpt: "Advanced Micro Devices said on Tuesday that companies such as Facebook parent Meta Platforms are ordering high volumes of a new central processor, as investors were anxious for updates on a different new chip that is designed specifically for artificial intelligence systems like ChatGPT."
     publishedDateTime: 2023-06-13T18:27:00Z
@@ -165,6 +179,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 27
+  - title: "Amazon mulling use of AMD chips for AWS, eschews Nvida cloud system"
+    excerpt: "Whether AMD will be successful in its attempt to take share away from dominant player Nvidia in the AI chip market is uncertain."
+    publishedDateTime: 2023-06-14T20:57:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/14/amd-amazon-aws-cloud-nvidia-dgx.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "7TeXzUwHyn+eZXBicCASti6yk/alnouQ8eXXFQwrTAby+JXBm6rEOtJj+ctra/XcUePbjlUsPw6q/7DUpuIfhKTemIYVG2Itx6Kg0S8S31z+H6EzGfX10hyw9Y6XNAPzF2rijn6pWvpDgNNQiUVzFHgRVmuTdQzOS45oiQrtSaIOmfpmW9Pi47ZPlht+uGqQntPvHerW6Yg+wx18HMRJmyVj3e+HTTmVoDyE0E4RELRm2FIuP66rrZP5BZUBL5DNemJRfs0PZ/EzZ40pWzwBVPNz2TIKq9pVd0l3Rws30mcsVZsxuHriWCdwkfFHxXFrGaO6P/GLZPk297R+Db60EgyAEyqbJsjGGSUJP/AmVMc=;8j7cpjSK/5goswAXJpD/Iw=="
 ---

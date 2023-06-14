@@ -57,15 +57,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "OpenAI’s CEO Calls on China to Help Shape AI Safety Guidelines"
-    excerpt: "China should play a key role in shaping the artificial intelligence guardrails needed to ensure the safety of transformative new systems, OpenAI Inc.’s Chief Executive Officer Sam Altman said."
-    publishedDateTime: 2023-06-10T03:09:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-10/openai-s-ceo-altman-calls-on-china-to-help-shape-ai-safety-guidelines"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "03//WjQ/mMrkq8btt46gH2C5NbB9oDTBqOJ2XkCeYCtuyO4F0ftWpVx4m5GTvJotEY0U5JwQiLuDVMmZni+Xwren1TJMp3uwKqs8vU9aeA6ycMlwrP+n+PgS0n8pLBUTKs4yspRZun6eDIc7sxGc8ZX8Suo6fMqo9fQXxWhvxv7Hkt9/tfKeaTJRNp7NidPU/lh+3WJe//CjSuAMmgPOUda4gbbNOckrJYvJlMCwi/NmWG/m3V5GwRNi8F5rSSblY/9umOU0Gvqp4L61nElAFW1xeDQr1GGjKVZUz6uPajZWrWwQC0XW+72kQ5lWWg5VbFphI2e2lr5v77MAHinUeILVFU8PSKDmw7ARbdgQMW/f3Az7oBjxkPzQ6sMGYdsNUPNB4spIcF9ociHfn3xqrmdWZUlnGvCJwYGqbM92i7mWUlrCPpl1oy6soU5T0it0IE8P/LSgQoOqbhkU+Qb6IWWayYY5lEkohMoSLem0jHDUnDOhczEbIADpxQbAaStb8YyhhFaH1ygCfbYL83stOw==;KCEo+efRB9G30VDPI6nvoA=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Husqvarna Ventures invests MEUR 2.5 in Angsa Robotics to expand innovation in green space management"
 excerpt: "Husqvarna Group, the global leader in outdoor power products, is pleased to announce an investment of MEUR 2.5 in Angsa Robotics, a Munich-based startup disrupting automated waste collection in green spaces."
-publishedDateTime: 2023-06-14T07:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-husqvarna-ventures-invests-meur-25-angsa-robotics-expand-/2023/06/14/9832112.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-husqvarna-ventures-invests-meur-25-angsa-robotics-expand-/2023/06/14/9832112.htm"
+publishedDateTime: 2023-06-14T05:53:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/14/9832112.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/14/9832112.htm"
 type: article
 quality: 19
 heat: 19
@@ -18,6 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "oRRRYzElnUwFhXPcWgu1vlWY5S7h3yKFJr8WmFcTHrBE7kEA5x+3KM2SMsPTmzv1D/PkoVLcyhyJWQOT/Ae/BSiZW3BU9muEQvJXsRVxfFRGszIMRMvSgvREIlAtIIDrDyiUvtoNpqOLLMNT4jRxCUdI6vkrXCzdf2/FKgulfmOHH0cTahiTyA3RADayoY+NdVD0ckNYrcbRei9cyAPRUAOXPtfklc9KIOjfCrWuLqW1bI+WHaqq6QdGBbHJaLR19yvQymbXm7Sbt59tTKg9/7+i3WYarcPYYpb7jt/hW6QDPQOz4PkHr7dLy6lidMqgkpJKmiyT1VITUuwwhcUWiTa9UJAfNu1JxjLLoB8sp6I=;sTGfTLIE1qUUuqOU2hQZzw=="
+secured: "y+P/hzAbeVj37r5ZrCUfBOXueR4rkR9lDE/TFoWpkX/ofrW8vH2KzrwkJWI8+hG0SMFgh3B/v8V66mX1x4geoF8hetXaIkFl4BcgCnQcaWVFAI7aEVUi6YCfkqC4pi8wr6kQojchbd1dEQ9pnkP3wH/a5cBfd0aTOa4is8adWQsZZ3DybJzAA8bHeiIj6haPx6MR48TPemrMWNVuhEsRIRsCLJoMoo3YQKBjGsrbIa0gAn2wYM56c02MGEeAY52pYTL6A6bsP21KbUNON0an6sZpXF5+guFIoC/lGojeLCuDDTqLP5gRpo7yLPQsW1ttAFoi9W9XvOsHk3p6E7gY3LhZ4pvefT6M5EkpceKTexs=;JYGi5TzpRkwHeoHbwfXkfA=="
 ---
 

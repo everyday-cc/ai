@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deloitte Reveals New Enterprise Cloud Focused Security and Compliance Offering With AWS: ConvergeSECURITY"
+    excerpt: "Deloitte, today announces it is working with AWS to deliver ConvergeSECURITY, a cloud focused security and compliance service."
+    publishedDateTime: 2023-06-14T14:58:00Z
+    webUrl: "https://itsecuritywire.com/news/deloitte-reveals-new-enterprise-cloud-focused-security-and-compliance-offering-with-aws-convergesecurity/"
+    ampWebUrl: "https://itsecuritywire.com/news/deloitte-reveals-new-enterprise-cloud-focused-security-and-compliance-offering-with-aws-convergesecurity/amp/"
+    cdnAmpWebUrl: "https://itsecuritywire-com.cdn.ampproject.org/c/s/itsecuritywire.com/news/deloitte-reveals-new-enterprise-cloud-focused-security-and-compliance-offering-with-aws-convergesecurity/amp/"
+    type: article
+    provider:
+      name: itsecuritywire
+      domain: itsecuritywire.com
+    quality: 59
+    images:
+      - url: "https://itsecuritywire.com/wp-content/uploads/2023/06/Deloitte-Reveals-New-Enterprise-Cloud-Focused-Security-and-Compliance-Offering-With-AWS-ConvergeSECURITY.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Presidency signs with AWS cloud services to improve cybersecurity"
     excerpt: "AWS Outposts is deployed on-site, so data remains within the country. The recently signed agreement includes a cybersecurity focus through the AWS Global Cyber Security Program. The agreement was signed in Washington by Minister of the Presidency Joel Santos Echavarría and AWS public policy vice president Shannon Kellogg."
     publishedDateTime: 2023-06-13T11:31:00Z

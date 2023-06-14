@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/education/the-ethics-of-using-ai-in-educati
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/"
 type: article
 quality: 91
-heat: 271
+heat: 291
 published: true
 
 provider:
@@ -196,6 +196,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "TaxGPT: Advancing AI And The Tax Profession"
+    excerpt: "I'm going to start with talking about generative AI ... Chatbot Chat with AI, Artificial Intelligence. man using technology smart robot AI, artificial ... [+] intelligence by enter command prompt for generates something, Futuristic technology transformation."
+    publishedDateTime: 2023-06-14T18:49:00Z
+    webUrl: "https://www.forbes.com/sites/taxnotes/2023/06/14/taxgpt-advancing-ai-and-the-tax-profession/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Increasing focus on AI is driving demand for empathetic women leaders"
     excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
     publishedDateTime: 2023-06-11T01:50:00Z
@@ -294,6 +303,15 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Neural Wave Ltd Launches NLPearl.AI: Pioneering the Future of Telecommunications with AI-Powered Phone Agents"
+    excerpt: "Neural Wave Ltd, a leading light in the field of conversational artificial intelligence (AI), has announced the launch of its groundbreaking product, NLPearl.AI. This state-of-the-art software integrates advanced machine learning and natural language processing technologies,"
+    publishedDateTime: 2023-06-14T18:09:00Z
+    webUrl: "https://techbullion.com/neural-wave-ltd-launches-nlpearl-ai-pioneering-the-future-of-telecommunications-with-ai-powered-phone-agents/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "XSxqFwvEEDPFiOxbF/kg3REfU7C0iifhyj6nQqxgTI2RVjubEbUtr6AH0ybZOROqxd9DD2VWKCThpWUIKlcNLTp3d+BFliQ6TML6IvKEVuT7yCDCAi5rOIuGBkMhg30ekUoeLGZGIVpo5Mwdo8tselQBTzkhUCY8s+bU9BjY3QtUZ8EU0aX+R7+VXTYtOajfn24XOqwyP72ZRM+7e5bhYWo79Ra2j++l6Lft8n1CKaiGh65N2ql+eB1iRNjV6Gv9acDvycixVPyaqevLukEgvXKc0Klw9qPMSiJ9n/dFIo1Ods365Ko81bW6cdXYt9IiKvwMsEMH6sn4/KHxBgStCGcv4ZZ21l+WhuM3utajc0E=;qYU49I5fMGLI86vwdc3WlA=="
 ---

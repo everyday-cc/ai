@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-14T17:02:00Z
 originalUrl: "https://www.uab.edu/reporter/research/discoveries-innovations/item/10052-amid-global-chatgpt-obsession-uab-conference-examines-ai-s-role-in-advancing-health-care-and-research"
 webUrl: "https://www.uab.edu/reporter/research/discoveries-innovations/item/10052-amid-global-chatgpt-obsession-uab-conference-examines-ai-s-role-in-advancing-health-care-and-research"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.uab.edu/reporter/media/k2/items/cache/6be2209cb89fe37cf66e5693287ea0d3_XL.jpg"
@@ -295,6 +296,6 @@ related:
       domain: azcentral.com
     quality: 10
 
-secured: "duvCzSnFEGyym1cw4/bWSN7UlMyUHjnqXeSRQ5I+jkkCpXX/VTgR+dpfpBGil/3IGz4FXXtSS97GvzGmv+5LcidlFQeX+120JXwgZdwCVi+ft81rjEiQVYL3UH7IjV4Nrg3kJ5xWLJTIVZ0lRaFO0ZM6HpchgMIpUxujAWQy5roVjDDu44gLtK48CbQa/ikYyNMNgdYHT9EgD/qSSeQcLcM2qQqbV9S9+I368kI78s9WRC45n3LLvjBiaiEc4QbfIFg08NoZqRPexg5jSnhguw528iDsikWUkpzPA9HUcT5pw0C1JYFRfUUo5F5PK0D3w5R83lxVz3N3qgo6Iaf/oW1aBHYj4cwAsLQnpq/+8jA=;Wz9DtXPw5D8edz8JQ2ySlA=="
+secured: "Ro7QJcH7iAO8qZxMaTjaKJmURuTYVNng3w2LS0nVm4axUql2QIFeXEyXbPBTyRAt71lZLx9DbwtLHligcXObQEgpaQEslR9WiVI4+fTPsaHh7q/g9x2YJ6CrXDU1GDJm6DCPHR2umWcbm82NEvcJtqql1xABLYqnp/d+n+qMWnkwFS6j1eWnjpcVH58EaMkiY0rPFECtikp8FXCCQe3GQDcwPSgN78D+9MWpMhlzUaEotUZc9scUvamd+idaXFs5jICEyzzQh25W/w+CGLgbHBylXioe/V9qY/T8M+nTZ3R+0aZ8dyQi3NPRSJx+BTtCn9COroR7dPknOxCtA9AHfRyVQ8mb81AWsKkxH323X3PgGfUyv3rlULnpRgaXxoAQ3lWisUfo+Xkp3AVese9ibhGmB7aaREKXHEtq83n8ThyvpW77rjVLTfAYuKEwAe01uy3fiuUBejLFbpPOtKBnmHUKZUbSqQe6UUI3lU7rEKGeoIXLmVMAMvFdvAThpGg6fwWquvg1Q+EybIlLPG6N+A==;qluSJICadyg3U6Mwv9VOZw=="
 ---
 

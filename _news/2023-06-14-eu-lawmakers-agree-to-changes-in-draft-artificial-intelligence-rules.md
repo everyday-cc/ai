@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "EU takes major step toward AI regulation as the AI Act moves into final phase"
+    excerpt: "If the AI Act gets put into law, it would become one of the first major laws to regulate the technology. This would put the EU squarely ahead of other countries like the US and Ch"
+    publishedDateTime: 2023-06-14T21:32:00Z
+    webUrl: "https://www.androidauthority.com/ai-act-moves-forward-3335218/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 64
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/bing-chatgpt-chat-ai-icons-scaled.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How Europe Is Leading the World in the Push to Regulate Artificial Intelligence"
     excerpt: "One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights and values."
     publishedDateTime: 2023-06-14T09:30:00Z
@@ -91,6 +105,15 @@ related:
       name: The Irish Times
       domain: irishtimes.com
     quality: 34
+  - title: "AI Regulation in Europe Gets Closer to a Final Vote"
+    excerpt: "Legislators across the European Union have come one step closer to implementing broad artificial intelligence regulations. The EU AI Act, a proposed law that would assess and restrict AI applications based on risk,"
+    publishedDateTime: 2023-06-14T19:58:00Z
+    webUrl: "https://www.extremetech.com/computing/ai-regulation-in-europe-gets-closer-to-a-final-vote"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "How Europe is leading the world in the push to regulate AI"
     excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle."
     publishedDateTime: 2023-06-14T06:15:00Z
@@ -99,6 +122,15 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 17
+  - title: "The EU just took a huge step towards regulating AI"
+    excerpt: "The European Parliament just cleared a major hurdle for its AI Act, which would significantly expand citizens' data privacy rights."
+    publishedDateTime: 2023-06-14T18:00:00Z
+    webUrl: "https://www.popsci.com/technology/ai-act-european-union/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
     quality: 17
 
 secured: "GtWzxC8ChAvCYXy3034tfHTXgoZMv3As3IEOVS1HVRcIpXbAGyFwHaSuwfI+JdN6uUFa9yA7gT5KUAE8OsgVfPs6SGIjRQHgWGrEszRNXBUF6Xbx+kFj0klXBGxq2IMYYf5C1TYkzl21voVjzt22EDUOThTe5jjwqpYi4zT9/M0gpKeYgjObK1+EiPx73TrAl6qA6Lh+on+sl71OIBsWkGlQ9MAmuWy9BGubSMAsGoCclJDD3EAq6twDBjRIFqtGmgr4NJjHg3gHiVFAxgSKbpVXpnV4ZG9pz27aPCfwZ2M8WNLnfwccYGKDf4ScWTwSzin7SCG2nHYnOo3H5R8melMY6yoU2YZO+I7YFWFF81qNCYpc1Go4s/oxcGgwp22kUTRQnHiUjrBfmEF3cB3A35k2ACDSTg5qyhzOjN/OMIwtgOVjS8RovJFfaezdHlzYqk0hQATXr4oSvGPMWD/KifkTZGALtKYTS0+rVEATKqmbOTH6pfT5NC7L+LyNM0UwHsLtRZrWJgxMEneoVZGhFQ==;ovFEWuYX0LKURUJZK3kimg=="

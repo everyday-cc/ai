@@ -41,7 +41,7 @@ related:
     provider:
       name: BBC
       domain: bbc.com
-    quality: 100
+    quality: 98
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/176FB/production/_129959959_gettyimages-1430317544.jpg"
         width: 1024

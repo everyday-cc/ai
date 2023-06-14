@@ -125,6 +125,20 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "AWS is considering AMD's new AI chips"
+    excerpt: "Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from Advanced Micro Devices, though it has not made a final decision, an AWS executive told Reuters."
+    publishedDateTime: 2023-06-14T19:47:00Z
+    webUrl: "https://www.itnews.com.au/news/aws-is-considering-amds-new-ai-chips-596915"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220802075518_aws-sign-summit.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "AMD says Meta is using its cloud chip as it rolls out AI strategy update"
     excerpt: "Advanced Micro Devices said on Tuesday that companies such as Facebook parent Meta Platforms are ordering high volumes of a new central processor, as investors were anxious for updates on a different new chip that is designed specifically for artificial intelligence systems like ChatGPT."
     publishedDateTime: 2023-06-13T18:27:00Z
@@ -166,6 +180,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Amazon mulling use of AMD chips for AWS, eschews Nvida cloud system"
+    excerpt: "Whether AMD will be successful in its attempt to take share away from dominant player Nvidia in the AI chip market is uncertain."
+    publishedDateTime: 2023-06-14T20:57:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/14/amd-amazon-aws-cloud-nvidia-dgx.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "Fr44VqIZcxICFvth0yTV666BMshM5BHimHb1by70/QNE/gYAfkGfdN4bRhn6+lfc/fYUL9X/BLm/7O6rJNpw+oJ106mImeZrZa2CwASPJ7RNp5ebRnxg0G7rfaZ8XrxS2GDTIm5/5cwlJJ5Fp0ZTQD9Vv1ovxHXceDS4W1/ClOL8jD7iSFFwvSUIe2b2tHcqHLB3dt6rWz4fBEag1TQDSIC3pmUID0KOpLG9LW2uN9tTAybPXV68raIWa9vVQsZ/hRd39vY8IyzFXr363mg2DjMofruC09+iryH11jETD6oMeMqxhM7oI079ccQx5lNjGQ900ekE4D8CvLW4tvZJB9CXRmNa8Ee9DjJHMBSB8jzm7YRNrsnpw9FQrBnhnsxxBbsQLHgwh5Y6aFNZ58kHFz6YYx3FJmT6he6pGB8xVngoRB21jzcO/N3s6B9sfySoVv2yZIDG+pOheripzo8Hjecncu/3tLlyBgtFDTEkJ0TFMAxK73yrplDM/FMQ8VJ9a5WhDqV9Nr6yz/kbPzbQGg==;p9/pNgfBlQRQLW5z8aeHAg=="
 ---

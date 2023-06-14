@@ -139,6 +139,31 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AMD Unveils Advanced AI Chip To Compete With Nvidia In AI Market"
+    excerpt: "Advanced Micro Devices (AMD), the Santa Clara-based semiconductor company, has introduced its latest artificial intelligence or AI"
+    publishedDateTime: 2023-06-14T20:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-unveils-advanced-ai-chip-to-compete-with-nvidia-in-ai-market-1032390009"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "AMD unveils AI processor, looks to challenge Nvidia"
+    excerpt: "AMD is coming for Nvidia’s AI crown in a big way with the launch of its new Instinct processor, which it claims can do the work of multiple GPUs. CEO Lisa Su called the Instinct MI300X “the most complex thing we’ve ever built.” She held up the chip, which is about the size of a drink coaster, at an event on Tuesday in San Francisco."
+    publishedDateTime: 2023-06-14T21:40:00Z
+    webUrl: "https://www.networkworld.com/article/3699434/amd-unveils-ai-processor-looks-to-challenge-nvidia.html"
+    ampWebUrl: "https://www.networkworld.com/article/3699434/amd-unveils-ai-processor-looks-to-challenge-nvidia.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3699434/amd-unveils-ai-processor-looks-to-challenge-nvidia.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2022/12/graphic-board-micro-chip-processor-abstract.jpgs1024x1024wisk20csvm36ypnf8nec6qon80o9dl2g_zizhylac5qb0wiabm-100935569-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AMD Introduces New Lineup of AI Processors, Aiming to Compete with Nvidia"
     excerpt: "AMD Instinct MI300 Series will include an accelerator that can speed processing for generative AI, similarly used by ChatGPT and other chatbots."
     publishedDateTime: 2023-06-14T02:03:00Z
@@ -194,6 +219,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "AMD Leaps As Chipmaker Takes On Nvidia In $150 Billion AI Market"
+    excerpt: "\"We have a chip that is incredibly powerful and we believe will be a significant winner in the AI market,\" said AMD CEO Lisa Su."
+    publishedDateTime: 2023-06-14T15:50:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/amd-leaps-after-new-ai-chip-reveal-reports-amazon-could-be-buyer"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
   - title: "Artificial Intelligence Office organises AI-Enabled Entrepreneurs conference in collaboration with NVIDIA"
     excerpt: "The conference aimed to introduce the latest innovations and developments in the fields of Generative Artificial Intelligence, Metaverses and robotics, and highlight the \"NVIDIA Inception\" programme. The conference further celebrated the success stories of ..."
     publishedDateTime: 2023-06-11T15:48:00Z

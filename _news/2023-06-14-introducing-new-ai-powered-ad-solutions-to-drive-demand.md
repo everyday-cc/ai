@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-driv
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/amp/"
 type: article
 quality: 109
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       name: eWeek
       domain: eweek.com
     quality: 64
+  - title: "Google's new AI tool aims to make online shopping more diverse and size-inclusive"
+    excerpt: "Cher's virtual closet in the 1995 film classic Clueless is one of the most coveted futuristic tech suggestions of the pre-Y2K era. It's also the closest comparison Google has for its latest virtual try-on tool,"
+    publishedDateTime: 2023-06-14T19:08:00Z
+    webUrl: "https://www.aol.com/news/googles-ai-tool-aims-online-160841592.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 12
 
 secured: "cUlGn4qPgZMs6AJMntF+086BIXZ0wHV0vlBCEdVhhcKt2k35sDzWmJoKRMXbRzDrAUfNsta3DGqD7bLfGzqbtT8b5MJAK2qu0RK4RMm3sHHCUZb8iTw8NJKhSdrW+k6Qeh0QWlKlStcjkICcM6BLN1wg1/iZKdAszqZXFVS13nPURWep3nMNvhopqQ+CRQXd+CtOUpKfN/HmWh8qijEG7fzhqdfLcL+DnatoEW1OGgKJFTWn2uDqOj/j2IsjAmXxpib+2uWO+Ns83fICAh4VOQgd8OfqCEUsZgqXAo9oxvyXGvxqYotq2Qc8Bo3mJXqsNs8ByWZwV0i+a4P2d7f5Q5KfkXTLiSKMfnCNiJ6FS1k=;mm2A3+A7YIQRhcy+fDXkWw=="
 ---

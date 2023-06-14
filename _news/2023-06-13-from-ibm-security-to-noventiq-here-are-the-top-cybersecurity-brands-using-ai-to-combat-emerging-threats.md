@@ -43,6 +43,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How machine learning and new AI technologies could change the cybersecurity landscape"
+    excerpt: "Use Next and Previous buttons to navigate How machine learning and new AI technologies could change the cybersecurity landscape The world has never been more online. From work meetings, emails, and texts to shopping,"
+    publishedDateTime: 2023-06-14T19:58:00Z
+    webUrl: "https://www.timesunion.com/personal-finance/article/how-machine-learning-and-new-ai-technologies-18152566.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 47
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/24/11/23937620/6/rawImage.jpg"
+        width: 1080
+        height: 770
+        isCached: true
 
 secured: "usLeandkabJCe8fw7t+Zs1fyvfjSmKL+PZwcToUht6SPA9/yqwdzWZMddM/6q02/cUxKV7P052z1MUanSNoDN9fbnXvbob68nkrEI857qmO5pbg6JJ7dwmiChbh0wAhjtbHPnJxeFGRjtsSnAwbYvWaRZA5Dpd6Q4QbeEeSLjlXNmNbHJB5xnz6MC9Rq6wAIvv6lKfgPq/fMX2g2nu7Lkzy0zs+8VxKw3QwRmJLmKRexcHSIEBZcGn6oPlpUz4Qfqu6wMRvl7Hoc8hnPvwk4mH5N2UBi3GydZ5Qht3ouyI1TvSFEPC8sVxMUsIGt+T5Q5wJTLiAK2Y9BgnwZj4BdKBvYZSTYKYpetjhlRaD94o5Hu+HzKb0+ax7tUX4TgmsbQKvQLEyRrtTprWuvpUD/knfWqR+s3xoXGY37dDGX5idMQyUbGnRs06vcwM3tTUYRl9ODWGZBTBjfdLJPWapJ6KpI5Y0sc/oMYrSIPt3bKVz9RR+Frf+jiB8zsnJnLug4Pc3OczpM0CfVLrVDoLZUBw==;WAAMc9uZ9VcTPRaJ7Pfk6w=="
 ---

@@ -275,7 +275,7 @@ related:
     provider:
       name: Kaleido Scope
       domain: uab.edu
-    quality: 23
+    quality: 25
     images:
       - url: "https://www.uab.edu/reporter/media/k2/items/cache/6be2209cb89fe37cf66e5693287ea0d3_XL.jpg"
         width: 900

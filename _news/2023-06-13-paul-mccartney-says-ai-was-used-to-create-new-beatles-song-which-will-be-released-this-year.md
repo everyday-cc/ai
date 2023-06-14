@@ -267,6 +267,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
+  - title: "Paul McCartney Uses AI to Create the Final Beatles Song"
+    excerpt: "The long and winding road has connected The Beatles with artificial intelligence."
+    publishedDateTime: 2023-06-14T19:42:00Z
+    webUrl: "https://www.cnet.com/tech/paul-mccartney-uses-ai-to-create-the-final-beatles-song/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "Paul McCartney Says New Beatles Song Finished With Help From Artificial Intelligence"
     excerpt: "A new song from The Beatles, which broke up in 1969, has been finished thanks to help from artificial intelligence technology, according to Paul McCartney."
     publishedDateTime: 2023-06-13T18:26:00Z

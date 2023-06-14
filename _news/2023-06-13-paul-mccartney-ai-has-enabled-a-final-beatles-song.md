@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/ai-powered-fi
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/ai-powered-final-beatles-song-due-this-year-says-paul-mccartney/amp/"
 type: article
 quality: 87
-heat: 317
+heat: 327
 published: true
 
 provider:
@@ -255,6 +255,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
+  - title: "Paul McCartney Uses AI to Create the Final Beatles Song"
+    excerpt: "The long and winding road has connected The Beatles with artificial intelligence."
+    publishedDateTime: 2023-06-14T19:42:00Z
+    webUrl: "https://www.cnet.com/tech/paul-mccartney-uses-ai-to-create-the-final-beatles-song/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "Paul McCartney says AI was used to create new Beatles song, which will be released this year"
     excerpt: "Paul McCartney says there will be a new Beatles record – created with help from artificial intelligence. McCartney, one of the two living Beatles, said AI was used to extricate the late John Lennon's vocals from a previously recorded track."
     publishedDateTime: 2023-06-13T15:49:00Z

@@ -1,24 +1,20 @@
 ---
 category: news
 title: "3 Artificial Intelligence ETF Plays for Passive Investors"
-excerpt: "Global Robotics & Artificial Intelligence ETF (BOTZ) Introduced in 2016, the BOTZ Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) targets firms set to benefit from rising robotics ..."
-publishedDateTime: 2023-06-08T15:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-etf-plays-for-passive-investors-1032378942"
-webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-etf-plays-for-passive-investors-1032378942"
+excerpt: "Investors want to capitalize on ChatGPT’s popularity, a notable OpenAI chatbot known for its programming skills and prompt answers to complex questions. This AI glimpse has escalated the race ..."
+publishedDateTime: 2023-06-08T00:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-etf-plays-for-passive-investors"
+webUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-etf-plays-for-passive-investors"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "8fXK1II45OGXCALfbC9KbH1Cf3Ucui/XNaELwRTTTxeUVYcmm4/OXxMuWBhjHrdnFIdJOREgAUYNp6v4wOG7dM/l1oGOTcCf3vUPwYO1skxxMQaDk6s8eh3OI+3fIjSNhcAZSyJ4AmWCFyy+ZU/QHOzd+adA9e/uLqv9aJKZ2TzqgmBWbxpPJ/Rbnwhv1q2uay1AyvaD+pSxznGZGbdGuDWY9Z8EtCjuWB7++iyeBWadsPiL3RSq1CWpABo98wD13EvPKF5gWvTeDYrz4rjJxLuBXallk9WErlx7rcltG3l5qQT/REwS6pwSydvOgiq0MW0JfXPM+wKE5SrlUFesmUlg0GBq6X2o6NCJB2Sg5pk=;G44CzE1AaEm4JOn3lZe4aQ=="
+secured: "aOkB7notirdJ3Axqm+e1HARhzq57T2JvvYhg8TtdOHxRwnyZS4jLKNeBrh1IEZB+K7gQ+B3YRN6tN0VoOdqnzQCWxjbxPc6jG3Hlqq9wxTuggZPV7xTjlhGO3aboPFLDMZbuC20E9whS90q9Btl2uvXo5KNCJujHAYdQljisrXz9uBEYYixhzqbubtM7qZOtOAr9O1i+47pYDmbgA6BIShDFDhyrio9g95DMwZgfBXjRTZmx/zIFivtQKYzaV7j7IXwQ0TbE72BQiBvcsLpkd6B8mIbeIH3K7nC2TJXd9+2UX5f2W/+eAxQofpqAW7b5pmHHURCD/+EC4winPnMIapyo/lDWUZhi3q4k+VKFlCs=;rpig6BbQ91r/7170A6gXQQ=="
 ---
 

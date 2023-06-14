@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 4
+  - title: "Leidos Leads Advancements in Large Language Models and Generative AI, Accelerating Trust and Strategic Partnerships"
+    excerpt: "\"Generative AI is going to revolutionize industries and Leidos is at the forefront of putting this powerful technology into action,\" said Jim Carlini, Leidos Chief Technology Officer. \"Years ago, we recognized the potential of the LLMs that power today's Generative AI breakthroughs and began the work to unlock it."
+    publishedDateTime: 2023-06-14T21:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-leidos-leads-advancements-large-language-models-generative-ai-/2023/06/14/9832964.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "+9MPao4bceyjwd7pflEqd9I6IraOH7TBidkeEUsByTHJYSSmIz61TlEaVy6fET7XIylvkEFYb2xWFeOo4gh4uyfkaM8MO43EDwYBaVaVTk1X0YeHbnVgiWm7QrmEM8hdSYacFgdcMK7fnkWpQnnj/ZeEfURDR7Vz9Uicr97oPic6yPDE9QRPjJzcwuGJ3L+PygPB6JFm/dmEqcnCn69Y1sjmCTbl4170IOTiWR0M/tqixpFkk65VOhJ36UD68G5Y/jL1ynvccq9GIS/uxaLnoG4KohewJZe39ru8r1ECPHLs2WwMNQTUgQeURHkyX6tFyd1VUoFSK/2HJ5FN/np+vTMouikKNpV+ydgtoM9qnN7zBUt/yjfPaXwaoXnj7d11PYNzBbVbSutxEOZ9KPLi3U5hw/iOEUi2L8hX47GzSRNKiUDRkpoe0ZGZlUn9kL4xU7N4pJ3p266hdCc6EAj7cJLl9hJo9jI8EQCboEgDC4CvQZqZ07rcG645rFYwTFJkZgUerCoOcN9AJnJqwAPGQw==;S0XPG0eEEzx/0Ic5TN2DIQ=="
 ---

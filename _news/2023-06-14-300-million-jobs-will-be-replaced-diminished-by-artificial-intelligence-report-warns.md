@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-14T15:41:00Z
 originalUrl: "https://americanmilitarynews.com/2023/06/300-million-jobs-will-be-replaced-diminished-by-artificial-intelligence-report-warns/"
 webUrl: "https://americanmilitarynews.com/2023/06/300-million-jobs-will-be-replaced-diminished-by-artificial-intelligence-report-warns/"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://americanmilitarynews.com/wp-content/uploads/BIZ-CPT-CYBERSECURITY-JOBS-DMT.jpg"
@@ -23,17 +24,6 @@ images:
     height: 1068
     isCached: true
 
-related:
-  - title: "The AI revolution will change work but nobody agrees how"
-    excerpt: "Goldman Sachs estimated that the technology behind popular AI tools such as DALL-E and ChatGPT could automate the equivalent of 300 million full-time jobs."
-    publishedDateTime: 2023-06-10T04:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-ai-revolution-will-change-work-but-nobody-agrees-how/articleshow/100890168.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
-
-secured: "iQnOrhdGmh5PYxUM852F0Gg6FGqN9SJGD5GhFY8n799+PnchrEwszin03Y+Rv95TIrP8x0wHYdeei+UpkzxauBCnL6qVGr6kBim1JF8deL8d4nqCRFNsKkQcD6Jg0sYEnrba8lD2r3Frsu7a97WhI9eSKU70NCu8WwWxnjD4MwnoZYmxXUuhRUiFsgNG3MPic2x44d/NO10adasfXg1G538F0eSUpt40dA2N+SIVEeVIYKoGLbHQM/5AsxR6di9NGnEnine1nGKB4NOzvcmA2FYNaD8+OZaFgpm7sfADLV78ttx+mlo3h7vWKC1rz3yEtl/Kq6AqLgRV5yywkdTJO8M4swhZs0/0svhyLT3HQtI=;gaJtQiNBOq3DeblGKzC32A=="
+secured: "uXKE7TSi0I7RRBiGXnseFIwWlQUpIt/H2G/lWCAbTM8A3rGFlht2OA/pExGwKCe+KmsDTtH6assNBI8ocMDL3PdDeZbnbvPfOC6Ll+zUnXxThVhxLJB+/cnply/BrGqIWD/Vzc4My7h/IbzK3y3lafVwS//GsvJZ4KsychP0+PNMt+jQDvidKBVCQlr165wWAUkMJvcUS/51zuH0cFGmeoHb2XGsZE77OPg/T8vjdkyw6foPO50IEBnIQovMJzRkPl5bFFyMn7t/HXSlEs5D30a+H7GSRysDKStT7eCknA0aNINryc0MBhJ4QULFGWh6JkOIGATQWrvNj/itXCjdzA8yEB0+jUC1x38TAAjhBHaxchI0JbavDukP26dga834xH6eCMcI/LLxqMG5840EzbyYjTeBRnfd5xzLmB3VfyBxz9q0N7AH4Q2Th0zm/Ga56NMAtEP8P6Poj2igmu6h+CIDY8wkiLKWGFqx/QLkIcN8Jyyr1tRgxN7143DXyzx7ZWiZSR4/uJnwu0WMOT+WiA==;KdEJXmfD8IY+vFao3fzyvQ=="
 ---
 

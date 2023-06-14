@@ -42,18 +42,13 @@ related:
   - title: "Thomas Camp joins Exdion Solutions as President and Head of Healthcare Operations"
     excerpt: "Thomas E. Camp, President and Head of Healthcare Operations, Exdion Solutions (Photo: Business Wire) L.S. Ram, Founder and CEO of Exdion, said, “Thomas Camp brings a wealth of h"
     publishedDateTime: 2023-06-14T15:00:00Z
-    webUrl: "https://www.eagletribune.com/region/thomas-camp-joins-exdion-solutions-as-president-and-head-of-healthcare-operations/article_378f8df2-35c1-5e1a-9014-11c7c9f97950.html"
+    webUrl: "https://www.joplinglobe.com/region/national_business/thomas-camp-joins-exdion-solutions-as-president-and-head-of-healthcare-operations/article_bade4ae2-0ece-5893-8a02-bbe5ce1736d3.html"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 34
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/5/3d/53d59b2f-2c24-508e-b496-29dd1e829df9/6489d9607dbe1.image.jpg?crop=1175%2C617%2C0%2C573&resize=1175%2C617&order=crop%2Cresize"
-        width: 1175
-        height: 617
-        isCached: true
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 14
 
-secured: "Aqe/eUejo0lETtgYG5zmxWQQN3wY8QRqjhN/O1nV/GrCqElPOp5xjmZeYS74OhwAkwEjxGAHSL7TCK2Nn7BjNI4IKA4Uu98NbmxsXJzWsCZHGMbt79dTKf4RZ8IAPpBoOgb1E+5cwHVm438n1Z/ZviFisj8hXsuffayjRldGJmbk37BqjwsQe4jjJmsstvnYHXU4X4V4BwuI+6XNilBMj/FQvvQ//nziqJxtwVdHnGacwAsF7Ek8dDrJ6OPFAMGWsTcOs/yShX8PDMuEaNjXZoJFgNwRXKrouuQUDzYFLqHBJZV1LRVDGAk54BIwj97aFV7Acq4Mgenb7BiFbByCN7NwHzUgjyh2brwmL8b0S/4=;TOBh9fw6r5vZMolwZ0u+GA=="
+secured: "+m7MkuHdCQ/FnlF1dSSlKV8qs/VlecHa4/3k7pOUb1Y2/H8YxS5UM61irprVvv0XBVm3062K5wKRitdAU1ZB7yQMInVlL9Ww+TrmjARLjXJze3w3TMJV64Z5rECE6CQfuNkfjhNO0Qn8YWN8NAFZJ/ymLRj5lpYvFfBarW6QczZp2FcLzWzedFq98p/33I6Pibp7Uk5sS7eXxbOvTYashHh4esIENqTc1TzFaqErlZbSqpUOYYTxLcnLy/Ai+bzrsNR5kfawpA0Px62AVRaewKxxqX+w0BrWthPGxKkbonMF+UEIeglb1h6HY1DSXIqQZ1LHln+wYhs0Hkx0YbVj/+/9iD53Tj1QJd4ZJeg6yEsU0BM7ZF9mszSqdBt+O8Q51tmcLzpXL1DILOZa2if8klDISkQ5oJtZxpMtitCMZkjCEec6GYq3dzZ4PXLlzPjKK1cGWYop/+GpBYm8CbVzGj1/KlIC1FoPyg6v5khN1m3uW9qtH+5peaCTcoTu0exR4biqxqzpsf0/CFqGvra2rw==;nm/koS2JkY/OKZ1OiFsAGA=="
 ---
 

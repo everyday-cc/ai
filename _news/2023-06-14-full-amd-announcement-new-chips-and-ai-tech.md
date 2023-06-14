@@ -124,6 +124,20 @@ related:
         width: 3413
         height: 2560
         isCached: true
+  - title: "AWS is considering AMD's new AI chips"
+    excerpt: "Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from Advanced Micro Devices, though it has not made a final decision, an AWS executive told Reuters."
+    publishedDateTime: 2023-06-14T19:47:00Z
+    webUrl: "https://www.itnews.com.au/news/aws-is-considering-amds-new-ai-chips-596915"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220802075518_aws-sign-summit.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "AMD says Meta is using its cloud chip as it rolls out AI strategy update"
     excerpt: "Advanced Micro Devices said on Tuesday that companies such as Facebook parent Meta Platforms are ordering high volumes of a new central processor, as investors were anxious for updates on a different new chip that is designed specifically for artificial intelligence systems like ChatGPT."
     publishedDateTime: 2023-06-13T18:27:00Z
@@ -165,6 +179,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Amazon mulling use of AMD chips for AWS, eschews Nvida cloud system"
+    excerpt: "Whether AMD will be successful in its attempt to take share away from dominant player Nvidia in the AI chip market is uncertain."
+    publishedDateTime: 2023-06-14T20:57:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/14/amd-amazon-aws-cloud-nvidia-dgx.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "2A5GUx85ZYewE4OxhCZkLIdPOBuii0sQHJpPQcfimtdks/xPI39cE42wYJGX6Uu8qYmJed3d1zkIqCy0a+NYHhpiBv/7radjwQKnA0XshneAE8MwJojgj5BPhjAVS3QF/mBQeeIKn0y2He+d0QE5qtHZDi/IofQ0a3TtB3UaD1lBMzmmMnimdDg81PQN3xGdCaE4xBYNBn9M8SJNXiYm864BX/DRYHxIlCtMiCY3IBfa8mr4i89pnr2WuchEu++G3tcrt29oQVDmrbtx6G/EvrUoAnfEIH2uObiSwLx19jCl6VOz3s8l8MBsNkDMe5Z3eGP9ey3uAaXptucsPfAQX8KO8OpZ6sm6BdJFr8kzDFU=;r1rkALIZEqO2BHFiXfoB6Q=="
 ---

@@ -99,6 +99,15 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 34
+  - title: "Leidos Leads Advancements in Large Language Models and Generative AI, Accelerating Trust and Strategic Partnerships"
+    excerpt: "\"Generative AI is going to revolutionize industries and Leidos is at the forefront of putting this powerful technology into action,\" said Jim Carlini, Leidos Chief Technology Officer. \"Years ago, we recognized the potential of the LLMs that power today's Generative AI breakthroughs and began the work to unlock it."
+    publishedDateTime: 2023-06-14T21:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-leidos-leads-advancements-large-language-models-generative-ai-/2023/06/14/9832964.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "EhDN9UxtKU0wsvqq/qoXOBo6TdqbzGioNgdX583fMuS0N1udIyUfoQLLgkGnFIhn7cnBs5TEAeeEZ7Oy+Mz1F4TRJ60CExm9Gbp7RWJxDHv/IHE29lsoEiXLPHxabFnU3KWwXHzkKRlpo3PLea3D4HOCIQrY9nEzcz91ir99Tv96c1UtZP9ywvROyeU9HgPKUxuYZy0SbHeDxfTeTadpW5ZjxvqRIcQUswIrBaUVG0baxjifexVoZb2wEi2DDM4F1ISaYVnlTZ1IYbvCd8LF4Eb20h9frZC5oaHYhEX+W/f6CfMEf+5r/g114QxT5w/Tn5eeGeYhfXMIlNqLtSRCEpxywjYk1h9iXUIoQNxEVvSQugkMls2uGzIig5+HaUzH6a+uouUwWXvxdW9IKPWYyIGDeyfg2Wx0/dSBxJsaxM7qSU/bmJKbczwvYsuaofGiQxcMmP0uxbxPPv+GgynuONw0/wWuWjAdDyNWXMPuQMsXFY8K/8iUzR5n4R+nvheXlYzgbtTCW7OcP5Ky8SnpAQ==;2/csGW2bf6LKhAPW8yhT7A=="
 ---

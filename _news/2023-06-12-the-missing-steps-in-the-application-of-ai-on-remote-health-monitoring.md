@@ -209,6 +209,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "TaxGPT: Advancing AI And The Tax Profession"
+    excerpt: "I'm going to start with talking about generative AI ... Chatbot Chat with AI, Artificial Intelligence. man using technology smart robot AI, artificial ... [+] intelligence by enter command prompt for generates something, Futuristic technology transformation."
+    publishedDateTime: 2023-06-14T18:49:00Z
+    webUrl: "https://www.forbes.com/sites/taxnotes/2023/06/14/taxgpt-advancing-ai-and-the-tax-profession/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Increasing focus on AI is driving demand for empathetic women leaders"
     excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
     publishedDateTime: 2023-06-11T01:50:00Z
@@ -293,6 +302,15 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Neural Wave Ltd Launches NLPearl.AI: Pioneering the Future of Telecommunications with AI-Powered Phone Agents"
+    excerpt: "Neural Wave Ltd, a leading light in the field of conversational artificial intelligence (AI), has announced the launch of its groundbreaking product, NLPearl.AI. This state-of-the-art software integrates advanced machine learning and natural language processing technologies,"
+    publishedDateTime: 2023-06-14T18:09:00Z
+    webUrl: "https://techbullion.com/neural-wave-ltd-launches-nlpearl-ai-pioneering-the-future-of-telecommunications-with-ai-powered-phone-agents/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "cXD5hLMs7/zaE+bzheyFfKeB/g+oeU/66UWNn65oWr8+N2c9rfZUNea19XtBxX4xS8huYeVNdmbrUSgG4qaR/ea0yIrZ62/A99ElXtXGbCruezBuFXwf9VPVXq1AQmIkDLG8yxr5dm6xh6uVfjB92bp3+TEt3V6i5Qx4/FjgGE6T8aOIZjptLqNzGnB5pN5Lqyte+stmtxAjN4ilHnC3cG6+ypTlzkTOGN3Oizmct2cInhjUh6Wl172TW5TjvY/g9SoYrJ07Iv6CxVdT/8PwVPLVzRPkHxVizi86OFeBncRo8gble2rkXH8agyfZUsOakcGWFw7qwpTUJ0Lec8NABBScVxc8/79Nwo9qiD7C49w=;SyRooYDYoBzAuFLl0D0rhw=="
 ---

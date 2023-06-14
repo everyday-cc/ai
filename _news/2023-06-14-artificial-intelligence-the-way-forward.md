@@ -9,7 +9,7 @@ ampWebUrl: "https://www.omanobserver.om/ampArticle/1138712"
 cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1138712"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rise of AI: shaping the 5th Industrial Revolution"
-    excerpt: "This is how AI has the potential to break through new revolution on our tiny planet. Language evolution is attributed to humans’ competent mindset. In the last thousand years, humans have taken pride in their linguistic viability."
-    publishedDateTime: 2023-06-10T04:48:00Z
-    webUrl: "https://tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution"
-    ampWebUrl: "https://tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2420926/rise-of-ai-shaping-the-5th-industrial-revolution?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 59
-    images:
-      - url: "https://i.tribune.com.pk/media/images/Muhammad-Wajahat-Sultan1664910846-1/Muhammad-Wajahat-Sultan1664910846-1.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Robots and AI: A new economic era"
     excerpt: "When developed countries adopt robots and AI, it has an impact on trade with developing countries, leading to increased exports from developing to developed countries, particularly in sectors experiencing high levels of robotization."
     publishedDateTime: 2023-06-13T20:56:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.bbc.com/news/technology-65855333"
 ampWebUrl: "https://www.bbc.com/news/technology-65855333.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65855333.amp"
 type: article
-quality: 100
-heat: 120
+quality: 98
+heat: 118
 published: true
 
 provider:
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - AI
-  - Facebook AI
 
 images:
   - url: "https://ichef.bbci.co.uk/news/1024/branded_news/176FB/production/_129959959_gettyimages-1430317544.jpg"
@@ -62,6 +61,6 @@ related:
         height: 799
         isCached: true
 
-secured: "bgp4btAfD0dRtIcC26hdGd9MFC8EqZ/MUlqPbVHMICWMvuaWKyyP8bNV1dT32zoE6Q7xTlHjOJ/pk7r2q3O/AC6ob2CeCnRgYXrFlkyiCfIKnleF0i8czRBuQ2CPFUsZU45m1HXjZeOxBYgP61Z/nTySD3HMv7x9SgCK+ScCYV47opi2mtHR2hzNPQWawWEU6wTikNe3fabdanqVe0y0aEgOeLJxFNrFtsBHLwbXsESvfRej4KvFKtImNW92/vWJaER19kS1rsv1XJNbHjjpmk9Lvc2GG6Sv0a2n9X0cW76fBKy+8r/Sgl8iqtFXqhRdruFfzp8fbqSJo2FVZVDi6uoNKmST/xJodtrz3CGsAZe4inCGnyCPjoxu2q3Y5EH1E+NGpvBVbXbZ9kaR+wfyjg9aRCwvIeqB47ZUY04A0L2Hl9qwAESapxLAdHm5NDs8N1tBKQJRgq7awAGLYzFNwhAovw3IgKoQ1LMRuoCdi0EIXDy2WcsRQU9KOfqNNzfvZ6WaHNj95XBFrV7plIHstg==;qeMYVfpQTheO+g/EZFTmLQ=="
+secured: "DO9UP6SlqZpdGMyic/QmV5e5ZiW36wewZ16Wv7WvUmWF6WQq5MJz9kp5QPyIa0qxsr5soXyOwzBo2pTrj67tJgtLHaRTNRIkG0Hr6oJgC/Wjba3xe4dssFLIznRqvMDu4hnEVpYMJrT7Oq+G1pNXoxVjXMu7mzA87sxJMPGkAu4Bbqjn5dVkCNyoxJqgTq0JM/9WguF2Z0goRkuqIgLj82Z5GV4JyAakheKD2YKKUGMrgKVHdtWpRXfyV1j8hZ8qqAZwebs8kLirniMikY3vkAD9nE8UeAY2j0zY0uDUV2PsHbKyt+oZoXRoBEG7fUQcdtFnaIaFNfAILAGaJ5B3WuerGtnXaakyjCvwlCHZogQ=;jZC5wyS49wzi2MaDG9kbIQ=="
 ---
 

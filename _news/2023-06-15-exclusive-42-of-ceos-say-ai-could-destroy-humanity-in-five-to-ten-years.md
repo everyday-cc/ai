@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-ceos-warning/index.html"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Survey: 42% of CEOs say AI could destroy humanity in five to ten years"
+    excerpt: "Forty-two percent of CEOs surveyed at the Yale CEO Summit this week say AI has the potential to destroy humanity five to ten years from now, according to results of a recent survey."
+    publishedDateTime: 2023-06-14T20:32:00Z
+    webUrl: "https://www.cbsnews.com/atlanta/news/42-of-ceos-say-ai-could-destroy-humanity-in-five-to-ten-years/"
+    ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/42-of-ceos-say-ai-could-destroy-humanity-in-five-to-ten-years/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/42-of-ceos-say-ai-could-destroy-humanity-in-five-to-ten-years/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/06/14/1f8fa03a-13a7-4620-ad6f-d9ee3f4da883/thumbnail/1200x630/6c7753ca95f60cfc78334806a7340204/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9uzs10ahvtym5hawwtngu3ztzjnzjiyzzmywvkntrlnjgzntu5mjqznju0m2u-l19wywdlcy9oxzfhn2nlotm4ntrimwy4nwu4mwi3zdnlodi3zte5mzzk.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jvwsBONHdqXrqOkgmdX7B+AZURDnXlTVoKQg3XK7RAF926vXQQAIbM5gayNcRP1zJuRvu2JWUJ8lnT7/x54MdtPFDML/PnhNbm+RBf5ZQzNbopIANgVH+3feJ8DpobI7IU92HpsjLenvYEeCZDz/Ak1Zqfyb+UKtRExpezVR29w4V5Ty/UP6bzuXjtA05IeWn85/Pzjyigh+/IM4qM7KGNzGMK7HA1eZCMqJlRtWNxBbn+jOpvUOO76lmODedEWk717//GHHHmP57wJ35wgPfYLu3vjLLwwXnaFq9loYAmY1gpeDyBWTBCDoq5uRvyGZgEeuQ5YMKWyQGfAeerA6ss86M9VE3l7HDZ9EMImCvZ4=;jUBDxQBtDRhrOy4uL2w9cA=="
 ---

@@ -147,6 +147,31 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AMD Unveils Advanced AI Chip To Compete With Nvidia In AI Market"
+    excerpt: "Advanced Micro Devices (AMD), the Santa Clara-based semiconductor company, has introduced its latest artificial intelligence or AI"
+    publishedDateTime: 2023-06-14T20:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-unveils-advanced-ai-chip-to-compete-with-nvidia-in-ai-market-1032390009"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "AMD unveils AI processor, looks to challenge Nvidia"
+    excerpt: "AMD is coming for Nvidia’s AI crown in a big way with the launch of its new Instinct processor, which it claims can do the work of multiple GPUs. CEO Lisa Su called the Instinct MI300X “the most complex thing we’ve ever built.” She held up the chip, which is about the size of a drink coaster, at an event on Tuesday in San Francisco."
+    publishedDateTime: 2023-06-14T21:40:00Z
+    webUrl: "https://www.networkworld.com/article/3699434/amd-unveils-ai-processor-looks-to-challenge-nvidia.html"
+    ampWebUrl: "https://www.networkworld.com/article/3699434/amd-unveils-ai-processor-looks-to-challenge-nvidia.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3699434/amd-unveils-ai-processor-looks-to-challenge-nvidia.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2022/12/graphic-board-micro-chip-processor-abstract.jpgs1024x1024wisk20csvm36ypnf8nec6qon80o9dl2g_zizhylac5qb0wiabm-100935569-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AMD showcases AI chip to take on Nvidia"
     excerpt: "The MI300X accelerator is based on AMD’s CDNA 3 technology and uses as much as 192GB of memory to handle workloads for large language models and generative AI, the Santa Clara, California-based company said."
     publishedDateTime: 2023-06-14T05:35:00Z
@@ -186,6 +211,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "AMD Leaps As Chipmaker Takes On Nvidia In $150 Billion AI Market"
+    excerpt: "\"We have a chip that is incredibly powerful and we believe will be a significant winner in the AI market,\" said AMD CEO Lisa Su."
+    publishedDateTime: 2023-06-14T15:50:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/amd-leaps-after-new-ai-chip-reveal-reports-amazon-could-be-buyer"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
   - title: "Advanced Micro Devices has outlined its new AI chips as it beefs up fight with Nvidia"
     excerpt: "At an event in San Francisco, Santa Clara-based AMD unveiled chips that are part of its Instinct MI300 series. They include processors designed to power generative AI applications and a system that ties eight AI accelerators together."
     publishedDateTime: 2023-06-13T19:03:00Z

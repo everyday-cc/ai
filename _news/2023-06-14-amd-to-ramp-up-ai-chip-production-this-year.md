@@ -123,6 +123,20 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "AWS is considering AMD's new AI chips"
+    excerpt: "Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from Advanced Micro Devices, though it has not made a final decision, an AWS executive told Reuters."
+    publishedDateTime: 2023-06-14T19:47:00Z
+    webUrl: "https://www.itnews.com.au/news/aws-is-considering-amds-new-ai-chips-596915"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220802075518_aws-sign-summit.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "AMD says Meta is using its cloud chip as it rolls out AI strategy update"
     excerpt: "Advanced Micro Devices said on Tuesday that companies such as Facebook parent Meta Platforms are ordering high volumes of a new central processor, as investors were anxious for updates on a different new chip that is designed specifically for artificial intelligence systems like ChatGPT."
     publishedDateTime: 2023-06-13T18:27:00Z
@@ -164,6 +178,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Amazon mulling use of AMD chips for AWS, eschews Nvida cloud system"
+    excerpt: "Whether AMD will be successful in its attempt to take share away from dominant player Nvidia in the AI chip market is uncertain."
+    publishedDateTime: 2023-06-14T20:57:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/14/amd-amazon-aws-cloud-nvidia-dgx.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "2Qq3jIMzqSf2qq1pqynriGfBfCtk+b82YIm/kjbzx6hhGFpLHv1I57LULqZOMUONEuEWl86BCe4AGbf+z/TlASsvLZWWU82HNmrCZtYX+77LXyfXiTVakBLXFRpyJegVcDcutdAd0Giy+LEdcQC4Nl2oQNMglgAUuv5bm0MzHvd/c3xPxtvO9s2MgDAgm2VjIqVGAjrqjG2L7RvL5cEX8t7Qt/2+VRorB4rsl3xJWEGuTGkfb0KuMutZO30DgEgBmNe/g+1SjJdy/HBczj6r2vMj5TnzTR25HInAccSHUUU4yEnrRDjUR376tDbKOF/e47nalnsvKUruknYMnQqgMzrMXpN766PtKfOBCge+mO4=;yl3oqfFw9zbIyM2Sh7ZYJQ=="
 ---

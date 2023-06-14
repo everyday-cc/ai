@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/amazons-clo
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1"
 type: article
 quality: 74
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "AWS is considering AMD's new AI chips"
+    excerpt: "Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from Advanced Micro Devices, though it has not made a final decision, an AWS executive told Reuters."
+    publishedDateTime: 2023-06-14T19:47:00Z
+    webUrl: "https://www.itnews.com.au/news/aws-is-considering-amds-new-ai-chips-596915"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220802075518_aws-sign-summit.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "AMD says Meta is using its cloud chip as it rolls out AI strategy update"
     excerpt: "Advanced Micro Devices said on Tuesday that companies such as Facebook parent Meta Platforms are ordering high volumes of a new central processor, as investors were anxious for updates on a different new chip that is designed specifically for artificial intelligence systems like ChatGPT."
     publishedDateTime: 2023-06-13T18:27:00Z
@@ -165,6 +179,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Amazon mulling use of AMD chips for AWS, eschews Nvida cloud system"
+    excerpt: "Whether AMD will be successful in its attempt to take share away from dominant player Nvidia in the AI chip market is uncertain."
+    publishedDateTime: 2023-06-14T20:57:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/14/amd-amazon-aws-cloud-nvidia-dgx.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "YM4y0MRl6SUcM6Qxga5CnUBIPap7suGkHlWJuVrj5RirmSUEPA9sYv2svG8O2uQaNIA/U0VFzKhqPP3uZhbpUJ7QVYLm88HP7Fq7subRhmVSIaBv4C+VRZN7goFOS2Au7LTxrvRC6VznfYJogUlMdIiK4waHcfqHoJQcSC+UKY3WWBLCwEZ+8wFHs4rRnDYPJdy+8Eq94Sx2x6QvLvctQv3xazTCL9+1LNFZbRZHODpaQAxYn+gNfvbsh5VQ7KIt9Y5MRZeXp1FKpa5tX1FtAXZXmneBSVbkG8+wLEwVKVz8vtGpHTmo7VtOekyEuh6Gj9Xcw/5DLhaOurtbjvw9uz+XR17zvTp2LlgIqIA6nro=;8ZGLt1zU10HGEvVzeA8gpw=="
 ---

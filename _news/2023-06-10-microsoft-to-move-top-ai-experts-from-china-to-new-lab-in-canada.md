@@ -118,6 +118,15 @@ related:
       name: Telangana Today
       domain: telanganatoday.com
     quality: 36
+  - title: "EY unlocks Microsoft Azure OpenAI Service to empower EY Tax professionals globally with EY Tax Copilot"
+    excerpt: "The EY Tax Copilot program is designed to accelerate how the EY organization innovates, delivers services and provides value to teams and clients LONDON, June 14, 2023 /PRNewswire/ -- EY today announc"
+    publishedDateTime: 2023-06-14T17:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32860556/ey-unlocks-microsoft-azure-openai-service-to-empower-ey-tax-professionals-globally-with-ey-tax-cop"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
   - title: "How Microsoft Teams helped the Breakthru app bring wellbeing to 45,000 organizations"
     excerpt: "The Breakthru app in Microsoft Teams helps increase productivity, focus, and wellbeing with microbreaks in the flow of work. Learn more."
     publishedDateTime: 2023-06-12T15:00:00Z

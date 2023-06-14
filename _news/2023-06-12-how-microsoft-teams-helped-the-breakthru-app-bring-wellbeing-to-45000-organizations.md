@@ -137,6 +137,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "EY unlocks Microsoft Azure OpenAI Service to empower EY Tax professionals globally with EY Tax Copilot"
+    excerpt: "The EY Tax Copilot program is designed to accelerate how the EY organization innovates, delivers services and provides value to teams and clients LONDON, June 14, 2023 /PRNewswire/ -- EY today announc"
+    publishedDateTime: 2023-06-14T17:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32860556/ey-unlocks-microsoft-azure-openai-service-to-empower-ey-tax-professionals-globally-with-ey-tax-cop"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
   - title: "Artificial Intelligence (AI) in Media and Entertainment Market Report 2023: Featuring Amazon Web Services, GrayMeta, IBM, Microsoft & More"
     excerpt: "The \"Artificial Intelligence (AI) in Media and Entertainment Market - Forecasts from 2023 to 2028\" report has been added to ResearchAndMarkets.com's offering. AI in media and entertainment market is expected to grow at a CAGR of 31."
     publishedDateTime: 2023-06-13T10:58:00Z
