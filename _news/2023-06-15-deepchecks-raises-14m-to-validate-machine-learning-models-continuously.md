@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuo
 webUrl: "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuously-validate-machine-learning-models/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: SiliconANGLE
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Startup Raises $14M In Seed Funding"
+    excerpt: "Startup Deepchecks has raised $14 million for its solution for continuously testing models from development through production."
+    publishedDateTime: 2023-06-15T15:07:00Z
+    webUrl: "https://nocamels.com/2023/06/machine-learning-startup-raises-14m-in-seed-funding/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 54
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/06/markus-spiske-8OyKWQgBsKQ-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Deepchecks unveils its open source solution for continuous validation of machine learning with $14M seed funding"
     excerpt: "Deepchecks is the emerging standard to make machine learning safe and predictable from research to production TEL AVIV, Israel, June 15, 2023 /PRNewswire/ -- Today Deepchecks announced the general ava"
     publishedDateTime: 2023-06-15T06:59:00Z

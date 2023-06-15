@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Serving Generative AI just got a lot easier with OctoML's OctoAI"
+    excerpt: "Generative AI, because of its compute intensity, is especially hard to put into production. OctoML says it can streamline all of that with its years of optimization expertise."
+    publishedDateTime: 2023-06-15T13:47:00Z
+    webUrl: "https://www.zdnet.com/article/serving-generative-ai-just-got-a-lot-easier-with-octomls-octoai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "Oracle beats expectations, reveals upcoming generative AI service, sending stock higher"
     excerpt: "“Aside from cost driven share gains, OCI also has the one thing that every AI startup is asking for today, spare GPU capacity,” Zukin wrote, referring to graphics processing units. “Similar to getting those first cloud workloads during ..."
     publishedDateTime: 2023-06-12T23:36:00Z

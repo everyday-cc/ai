@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-r
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
 type: article
 quality: 50
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -103,6 +103,17 @@ related:
     provider:
       name: Sacramento Bee
       domain: sacbee.com
+    quality: 18
+  - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
+    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
+    publishedDateTime: 2023-06-15T11:44:00Z
+    webUrl: "https://www.idahostatesman.com/news/nation-world/national/article276329166.html"
+    ampWebUrl: "https://amp.idahostatesman.com/news/nation-world/national/article276329166.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/nation-world/national/article276329166.html"
+    type: article
+    provider:
+      name: Idaho Statesman
+      domain: idahostatesman.com
     quality: 18
   - title: "Self-driving car couldn’t avoid running over and killing dog in US street, reports say"
     excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said."

@@ -42,6 +42,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Exclusive: Amazon's cloud unit is considering AMD's new AI chips"
+    excerpt: "Amazon Web Services , the world's largest cloud computing provider, is considering using new artificial intelligence chips from Advanced Micro Devices Inc , though it has not made a final decision, an AWS executive told Reuters."
+    publishedDateTime: 2023-06-14T14:30:00Z
+    webUrl: "https://www.reuters.com/technology/amazons-cloud-unit-is-considering-amds-new-ai-chips-2023-06-14/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/nWxnRVa8tZitEsJFI8qeg3L-Us8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LAD5NMZL7NOLXAROIUJFCXN5A4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "ex36f8Xl55pkmiiCJUP4OxBOSVM/VEa3acMLnlI5IkUPlWe8rCOxGiSViaAGgo/6OaARcRoJ4RUmGDoT/Iq/RZHX5GEzBTYo4c5oaGBw5bsWs7sxehN7rpMi2GdHjpoZ4EpbHnelKY7EU1oXkwu+piNlQl4NiGNWbpEtUw1qwsaR2z553XK6FquZuY811ETiMYzTImLWcUMXwE8aeQIeMN81GKekX12K/mMWgLROmQtBsxTJzLATO/QjPC9IkE7Tnv62EUoPwFijh0nww3PR+mrgKyJMhiRQm/P3fM5ZdLmntXp7x7ZDrjr1lJT7B6jLK90UtkOI8H9AbkVLkXjhw16qv0AL/M6+nIVzO48waVS3Nu/jEwkkWxR9jNmKqX4cFiKNNzFuAUvQZbBkJH3/YTqNbPjlLWqqq4zKQq0MC0qICQulcmbF8hFqYAi8nzTIqoJMR0LAGFl9nBcR9u7WeuSeEasxPwH2nbhSlV57vXpFkA9vmRqmf+GVTIFU1XIbXFva7LEjuh8KGQVMbC+YwQ==;eF+JJ9bSc2CFyg2yCLilKA=="
 ---

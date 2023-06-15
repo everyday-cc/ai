@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/ai-chatbots-could-help-pr
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Meet Khanmigo, an artificial intelligence chatbot tutor"
+    excerpt: "There are some cases where artificial intelligence can be a challenge for teachers ... students can now also talk to a robot for help. A new chatbot made by Khan Academy is teaching students how to solve problems. Khanmigo is an AI chatbot tutor."
+    publishedDateTime: 2023-06-15T11:05:00Z
+    webUrl: "https://www.wfmz.com/news/good-news/meet-khanmigo-an-artificial-intelligence-chatbot-tutor/article_57150602-0b68-11ee-835a-f3cdcbaaa49a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
   - title: "An AI Chatbot May Be Your Next Therapist. Will It Actually Help Your Mental Health?"
     excerpt: "Kaiser Health News — In the past few years, 10,000 to 20,000 apps have stampeded into the mental health space, offering to “disrupt” traditional therapy. With the frenzy around AI innovations like ChatGPT, the claim that chatbots can provide mental health care is on the horizon."
     publishedDateTime: 2023-06-13T13:44:00Z

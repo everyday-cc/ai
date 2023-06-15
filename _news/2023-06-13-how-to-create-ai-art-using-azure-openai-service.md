@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI’s CTO Says AI Will Be Your Daily Companion"
+    excerpt: "Eight months ago, ChatGPT did not exist to the general public. Now, it’s one of the most talked-about technology products in the world. This week’s episode of The Circuit With Emily Chang goes inside OpenAI, the maker of ChatGPT."
+    publishedDateTime: 2023-06-15T14:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-15/openai-s-cto-says-ai-will-be-your-daily-companion"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJbKdYalqMck/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Combining Azure Cognitive Search with the Azure OpenAI Service"
     excerpt: "Learn more about combining Azure Cognitive Search with the Azure OpenAI Service to create a wealth of useful applications to help both your"
     publishedDateTime: 2023-06-13T11:31:00Z
@@ -39,6 +53,29 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "OpenAI CEO says 'optimistic' on global AI coordination"
+    excerpt: "The CEO of ChatGPT maker OpenAI on Monday said a tour of capital cities had left him \"quite optimistic\" about prospects for global coordination on artificial intelligence (AI). The public face of the startup,"
+    publishedDateTime: 2023-06-12T09:11:00Z
+    webUrl: "https://www.aol.com/news/openai-ceo-says-optimistic-global-061145122.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/a918d58a1babd296503473bae2894330"
+        width: 800
+        height: 577
+        isCached: true
+  - title: "KORIKA, OpenAI to build AI based on Indonesian values"
+    excerpt: "Head of the Artificial Intelligence Industry Research and Innovation Collaboration (KORIKA), Hammam Riza, has said that KORIKA and OpenAI will build an"
+    publishedDateTime: 2023-06-14T13:00:00Z
+    webUrl: "https://en.antaranews.com/news/285117/korika-openai-to-build-ai-based-on-indonesian-values"
+    type: article
+    provider:
+      name: Antara News
+      domain: antaranews.com
+    quality: 19
 
 secured: "6B0mVnV/9nDVWAC2IrKo90cjXH4S30pPkbTpjac6BtB53yrozWdDlUODuMCi8qVh895BU3FLGeLZkmSo0jZWFXq9kUEcuQDdPhRBG8FBR6Ww322a+eepCz0jWzInFFi+Hi09bl2hbRZm7O0hldht3en685HRmn/BkIiOSKeoJoIfU6SIVLFhiZgjPGKtKfYgy5w2HjZpa8EAKdQLyJMzxVpQ3GqN6RDLIrKffR3E1KkgJf3y3TTkS72k3X1aZ/gNHdN0dofLCqZgZa4LfeOO95Gs6wVTLhGq/SpcyypRRmwlbJ4C9F7cLWdY3FKOQD3iVbab9z9VAeQPi0cQktzgDBxQN8Ci0tulm/k6HmmafY0=;vKFPUYKsMQBIQY+8yyg0kQ=="
 ---

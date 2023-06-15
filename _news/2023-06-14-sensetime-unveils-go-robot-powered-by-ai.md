@@ -7,8 +7,8 @@ originalUrl: "https://global.chinadaily.com.cn/a/202306/14/WS6489d0bda31033ad3f7
 webUrl: "https://global.chinadaily.com.cn/a/202306/14/WS6489d0bda31033ad3f7bc425.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: 中国日报网
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese AI firm SenseTime Launches Consumer Robot Capable of Playing the Ancient Strategy Game Go"
+    excerpt: "SenseTime introduces \"SenseRobot,\" by an interactive AI Robot that can play the renowned Chinese strategy game of Go."
+    publishedDateTime: 2023-06-15T14:35:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/15/chinese-ai-firm-sensetime-launches-consumer-robot-capable-of-playing-the-ancient-strategy-game-go/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 71
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Screenshot-2023-06-15-193839.png"
+        width: 966
+        height: 590
+        isCached: true
   - title: "Chinese AI Giant SenseTime Unveils USD559 Robot That Can Play Chinese Board Game Go"
     excerpt: "SenseTime Group, a leading Chinese developer of artificial intelligence software, has unveiled a USD3,999 (USD559) AI-powered robot that can play Chinese board game Go. SenseRobot uses robotic arms to play Go against people on a real board,"
     publishedDateTime: 2023-06-15T04:03:00Z
@@ -38,6 +52,20 @@ related:
       - url: "http://img.yicaiglobal.com/src/image/2023/06/25395306234565.jpg"
         width: 770
         height: 510
+        isCached: true
+  - title: "Chinese companies at cutting-edge of artificial intelligence, says report"
+    excerpt: "Chinese enterprises are at a crucial juncture of breakthroughs in artificial intelligence, as generative AI and other rapidly evolving technologies usher in a future for business where the physical and digital worlds are inextricably linked,"
+    publishedDateTime: 2023-06-12T23:47:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202306/13/WS6487a398a31033ad3f7bbdbd.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 38
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202306/13/6487a5cfa31033ad342ae6fc.jpeg"
+        width: 642
+        height: 428
         isCached: true
   - title: "SenseTime Unveils SenseRobot Go: The Second AI-Powered Board Game Robot Joins the SenseRobot Family"
     excerpt: "The SenseRobot Go is endorsed by Olympic Gold Medalist Guo Jingjing and has received great acclaim from Mr. Nie Weiping, Vice Chairman of the Chinese Weiqi Association (CWA) and a highly respected Go master,"

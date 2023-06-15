@@ -39,6 +39,15 @@ related:
         width: 1312
         height: 656
         isCached: true
+  - title: "The disruptive potential of open data lakehouse architectures and IBM watsonx.data"
+    excerpt: "Learn about watsonx.data, a data store built on an open data lakehouse architecture to help organizations scale AI workloads.\nThe post The disruptive potential of open data lakehouse architectures and IBM watsonx.data appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-06-15T12:05:00Z
+    webUrl: "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 91
   - title: "Automation And Forecasting: Revolutionizing Business With AI"
     excerpt: "One of the most promising AI technologies is the generative pre-trained transformer (GPT) model, a natural language processing tool that is revolutionizing how businesses communicate and operate."
     publishedDateTime: 2023-06-12T11:00:00Z
@@ -99,6 +108,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "EU gives more power to AI translation machines"
+    excerpt: "The European Commission has launched a pilot project to translate some press releases without any human oversight."
+    publishedDateTime: 2023-06-15T13:01:00Z
+    webUrl: "https://www.politico.eu/article/ai-technology-eu-commission-parliament-gives-more-power-to-ai-translation-machines/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 19
 
 secured: "c/5PVx4uXv6xcJ16qMkTAfR+IryCaSgTMhNr4xHRk2nKlREimRoeJe6Qk56M4K4C7sNXJzlsT6XKozL7uk83IcMByqZqnIs3zKIwJhcsuSmhNH8ZMOOUAALoFfrANyyJloFW8kZnvUllcLi35T8tFoGQjwspveKEUvNJw0gG15HsraeNn8u5BztYI8r+cyLfqAAG12N2MA2jhV5BQeu/FyxLVawpb/KkJQ1Pw9eLkAWi7i+7+enlm84Mi8DYw4zlc1G4Kwd6TPzaMRo3sW5+TOwHX0Q/u2s5q0SHME1V2KgYz6/dB4I8I4yRJvoA/1MzloLVb69UmmCxl0CH/bXzmrZcNyyQWprVDJ8Eojgvy+a7Y0F4ubBUbIIv70uHraO68AMyOW6V2wIuSthyMlNb1LpWXuGmHNSOK//snab2mIFcIVvF0uLb58/YY9ScbceN/Bi+bnO8SKIwnQuYtrXWp8pdFtDz6biylkOh3h2veWlemWExBSsD6FVNcTWd1c3uMLOPR2J1EApxZccJmsV8KA==;Yqo+bxdjxMgXTssJuduwFQ=="
 ---

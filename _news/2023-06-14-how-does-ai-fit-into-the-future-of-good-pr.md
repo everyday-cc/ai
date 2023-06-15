@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-do
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-does-ai-fit-into-the-future-of-good-pr/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
   - AI Ethics
+
+related:
+  - title: "5 times AI fooled the internet in 2023"
+    excerpt: "After generative AI went mainstream last year with the wide release of text-spewing chatbots, social media erupted with algorithmically generated images and sounds to go along with them. So as AI continued to chalk up wins,"
+    publishedDateTime: 2023-06-15T15:36:00Z
+    webUrl: "https://mashable.com/article/moments-ai-fooled-internet-deepfakes-misinformation"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/03l3aZP9u14NepIlfxVCVAY/hero-image.fill.size_1200x675.v1686839866.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "dXyHpVZFv7umdfZlG/jnhsLnedYISyo4YaS1NC/z7EwmO8osm5kHSEGyDsp+X+e+AiUysGomBkuoytt3z87ibBe9BTLb29QzT2NspZScuzvNkHjR9eFRljD3kFdOqUiXZCfezp3jbgI3qrNDxzdmtFXFDuKUibVgmHZtP0U8iVmngeownWXIeY0Qpo90EArOqxT6pREmzEYfpXnvTf/D2LpQ3XCFtqYi5i283Y5cWWC1wu2IoLyzNw9pkHWxH4CTsRDvOsAfIpO6fKeeQVRIRqoj7zmW0ngNTRzhPJjdLcwaTc5a1Cl26uaCYpBdPDGRbXJMQLmzJ314EpCxwHpq6F7nEEitFhTq/GJ7joq0vteO4cXk66sqWXIOQzcGU9PxFJOTqTns8mELGLhuOx7bHOnnrJkSzdlU7igttAw5pyyiTbLwv+rqPF9IttozirwLu8lmkU/uGjYX1B01wFklzOgWl6mfZu2gMOeU9bYq4Ce2t0vWYWHbmlmKeJuomcmyNeFVHXDhRd8v/OXZ/162vg==;ESpvamEHlAehLJfZsLVqOg=="
 ---

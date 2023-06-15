@@ -42,6 +42,15 @@ related:
         width: 1312
         height: 656
         isCached: true
+  - title: "The disruptive potential of open data lakehouse architectures and IBM watsonx.data"
+    excerpt: "Learn about watsonx.data, a data store built on an open data lakehouse architecture to help organizations scale AI workloads.\nThe post The disruptive potential of open data lakehouse architectures and IBM watsonx.data appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-06-15T12:05:00Z
+    webUrl: "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 91
   - title: "Automation And Forecasting: Revolutionizing Business With AI"
     excerpt: "One of the most promising AI technologies is the generative pre-trained transformer (GPT) model, a natural language processing tool that is revolutionizing how businesses communicate and operate."
     publishedDateTime: 2023-06-12T11:00:00Z
@@ -100,7 +109,16 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "EU gives more power to AI translation machines"
+    excerpt: "The European Commission has launched a pilot project to translate some press releases without any human oversight."
+    publishedDateTime: 2023-06-15T13:01:00Z
+    webUrl: "https://www.politico.eu/article/ai-technology-eu-commission-parliament-gives-more-power-to-ai-translation-machines/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 19
 
-secured: "4feG6oZToPU56bQ9wqTrn9Eup1Qa0Q4Y/Y3iQsTp9Hwt52q3Vxwf89jbgm6jwZKxcwouLZPe5O/6Krap/+Aa4Jx8Pt8FIuqq94vRSpGCAQzpGnIB6dQUZREXWGgsLbdMJIZhnAECpKgFfcSN/rW98GIdjhO16Fad5XfZxId7nMPi79Rup3RewjI3iE0w3AtTHcf9mKyynzCyyeiuwuvjm5xgguLANVZJmclJgddVUEyEssqj9UxgTs85eJzBTYbqetBaaBqAOqXCY9niRM5P7p/UMhNAOHhO+nlmhWUqClGcyj7G2GKs2Gqj6DQ101OId6oqMvQyz9ClhqS+ssSHmWoVRC3fGtZIqhU9eU/1z+g=;UmV3Q3dt5YGVumCL4N0p4w=="
+secured: "KbyHcd9EjsdEBL0kgUso6zUfVpUAT+dngFd6gNFLzIJ37d0tZwjFUMnj5rHgH2s3/PhfJNLYXYFZe3hf9ny5kxM93yZNJ5f0JBRKthxnA1muTCYgTxN2iankeLZ0IsBxy6FjgatWukvuRsaKeRUNslcjJr4UkFyaBWxQIjpc+McHB96Cvj0VbNEULObgUvpl0Dx2kr7/3oJ4g/nPTm1q/nOB7XcGYwRDZR5eXWkjQRKKp1ZEe64e8je3jAhAMruZHo5+SM5iCXuektbZdFUQdRgPGgDcQNJpfDi50lRg7+Qs+ZZTmhoAwjwvJggw/IcMZcDgzpBaToLO5lWgOWxEjt1AsFZNAOb3VUK79WF62VZxHHGSbwgaKyfcWq5k+WvhkmKqm7qKtO9B2G1bZ4xVawc6d4LY5YvdOr9dMaGi3/OUYAnqDfwCkvT9cGJQWp4hB/ayIXOxR753B5yZ44kLbnW5N9d9mgFwH0mBmsyZkF9ogAyeZVhA7ru+8IYbZ8JGvL0T0QJDY2YPvJhy3U4q/g==;m5CVWEaT4BeBoZq3SjjDgg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-l
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -124,6 +124,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
+  - title: "How to Regulate AI? Start With the Data."
+    excerpt: "Data is an afterthought for many artificial-intelligence developers. It should be the first thought for policy makers, writes Susan Aaronson."
+    publishedDateTime: 2023-06-15T13:15:00Z
+    webUrl: "https://www.barrons.com/articles/ai-data-regulation-bfded1d4"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 17
   - title: "The EU just took a huge step towards regulating AI"
     excerpt: "The European Parliament just cleared a major hurdle for its AI Act, which would significantly expand citizens' data privacy rights."
     publishedDateTime: 2023-06-14T18:00:00Z

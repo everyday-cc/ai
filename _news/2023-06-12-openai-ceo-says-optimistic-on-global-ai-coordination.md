@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/openai-ceo-says-optimistic-global-0611451
 webUrl: "https://www.aol.com/news/openai-ceo-says-optimistic-global-061145122.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,59 @@ images:
     width: 800
     height: 577
     isCached: true
+
+related:
+  - title: "OpenAI’s CTO Says AI Will Be Your Daily Companion"
+    excerpt: "Eight months ago, ChatGPT did not exist to the general public. Now, it’s one of the most talked-about technology products in the world. This week’s episode of The Circuit With Emily Chang goes inside OpenAI, the maker of ChatGPT."
+    publishedDateTime: 2023-06-15T14:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-15/openai-s-cto-says-ai-will-be-your-daily-companion"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJbKdYalqMck/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Combining Azure Cognitive Search with the Azure OpenAI Service"
+    excerpt: "Learn more about combining Azure Cognitive Search with the Azure OpenAI Service to create a wealth of useful applications to help both your"
+    publishedDateTime: 2023-06-13T11:31:00Z
+    webUrl: "https://www.geeky-gadgets.com/azure-openai-service/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiS36n9rO6OQ%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
+  - title: "How to create AI art using Azure OpenAI Service"
+    excerpt: "In this article, we’ll discuss how to create your very own AI art using the Azure OpenAI Service. The Azure OpenAI is part of Microsoft’s Azure, is a suite of cloud services that houses some of the most current language models in the field. These ..."
+    publishedDateTime: 2023-06-13T09:46:00Z
+    webUrl: "https://www.geeky-gadgets.com/azure-openai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/06/How-to-create-AI-art-using-Azure-OpenAI-Service.jpg"
+        width: 700
+        height: 475
+        isCached: true
+  - title: "KORIKA, OpenAI to build AI based on Indonesian values"
+    excerpt: "Head of the Artificial Intelligence Industry Research and Innovation Collaboration (KORIKA), Hammam Riza, has said that KORIKA and OpenAI will build an"
+    publishedDateTime: 2023-06-14T13:00:00Z
+    webUrl: "https://en.antaranews.com/news/285117/korika-openai-to-build-ai-based-on-indonesian-values"
+    type: article
+    provider:
+      name: Antara News
+      domain: antaranews.com
+    quality: 19
 
 secured: "UhWaMzWruFIzRGkuDPm+hC3NkIACVnrcoyM+ZuZ10Im29Vx8hiXM6ZSS7wWEpyQ0HuIXMCzyy9Jc1iHANexNIM+vFAvCrK3mRsIZhzVXEaRVgf37S7SGvGe7V38C9/dSBdG+YDoazRWPU2GbGp9yzYemm0QTCxXLRj8DgCx+qRrrXc21LJcXKV3hnoVp3yKrLjETgfuKl3hOpmBIV0hWTCSRephabMU+hmd+qMAA5gcxjShxR4MPGEAPsFejRLollvg0nWMCnfiTMZe6p5ucmd91YAgKEi4Nc+DI49j9TqCUN6s/RUcS8mTSPPEeYHWhyOge2dGUQCMMqHAw+YTt/22oN0igiqVFfTWZy6g2TWNd2EMViU2FVLjsOIwWXwW9xPLGGT6Tabqv8QoBEI26eHfJrtc/Dhi14EhQCIFNwuyR+3QhPv/RArlJyDpA+1bGdH6iBap46CmK6+AMjc0mpdi6MPM8qBW2E8/RzaKqzDEZGmKIfc7ll9WcSsLcnWeOZu+KL98nafpXSsDlg1/x1w==;XfGiE9M6XG0uSD+E48tHUQ=="
 ---

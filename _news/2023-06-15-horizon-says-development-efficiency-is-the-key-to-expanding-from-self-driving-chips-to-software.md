@@ -3,8 +3,8 @@ category: news
 title: "Horizon says development efficiency is the key to expanding from self-driving chips to software"
 excerpt: "Horizon Robotics is one of the few automotive-grade AI chip companies in China. Founder and CEO Kai Yu recently said software maturity can decide a business's life or death. As intelligent driving becomes prevalent,"
 publishedDateTime: 2023-06-15T07:41:00Z
-originalUrl: "https://www.digitimes.com/news/a20230615PD205/horizon-robotics-adas+av-self-driving-automotive-ic.html&chid=10"
-webUrl: "https://www.digitimes.com/news/a20230615PD205/horizon-robotics-adas+av-self-driving-automotive-ic.html&chid=10"
+originalUrl: "https://www.digitimes.com/news/a20230615PD205/horizon-robotics-adas+av-self-driving-automotive-ic.html?chid=13"
+webUrl: "https://www.digitimes.com/news/a20230615PD205/horizon-robotics-adas+av-self-driving-automotive-ic.html?chid=13"
 type: article
 quality: 12
 heat: 12
@@ -24,6 +24,6 @@ images:
     height: 427
     isCached: true
 
-secured: "lbE8bGebP9XwKZD4jiGjF2KNLp7yiSKbmEA06l5ctwvuD6bqQT63g/W1Vwqcyi7Jne31xxJ0WNSdWyJMEuUqrHbxuhE4vSakGwBDXBafeftVAZVjPzhAJDJs5pFsc7MBTMV+oFtcUUvoiWmaxKhVjU443eMNDdOBsQI4p6tZpAMc1i9prm97nviTQeO6n4HFtyIUZoD5rlpSSfAuxM/CnpNPbbwSJ3cA99LT35jry1s5Wm1vg+RSjIaG2df6UcUVeGDRuCJlLwY/etzib/Pj7c5j4VTGCwiqLT9homIGAID3yaWSo47iiMDMzVMlzan0Eak3qwOjrjqIeS0oXHu3ngA9Iu5qqWvO3nGd1jN52aZ4e6dbSYGyXBg0nALqHxBKXcQ7Lb8r31xY/R7zq7N7+rI4UlBMc64V+INDxcTvYY+QZzQwJBTrA9+7ispeyQFxKhe9iv2/3uNek+MPvAfB+0yES1w5VMaTTTpHuQU2v+BKsKV8rKHY7C2jhPnZIEjv5+iEy3pVCw9+zW2ddUDB9Q==;jvwRmofE5y8Byr1LWKxwVQ=="
+secured: "5P5BhK9TtOdRig+IkZL8zc4cN2isOHJ8CDH7YOCvEGPzacrdO3TSUZNEhIsPjPNcN9HIFOe7U9N2VDHn1m+R3lBTZBx2fI8pZGncQrNiayGkgnMGCNswm4vsSnNCeMNzIS7LerS/76ND0kblSnjgRYzcTHIOMdb2U1m0f3u9K8OBL5jjn1IOtbPuwvcpKiEEnmigSO7OiBF6Er7cpKzuSx/XbsTKhRIMByPN3BrYlFXdshcrOTtUhL+p0NqRXMtvUlHQAZbliTB79bPtu56jqqE65G+jn69G0J1TtaCg2OiPAg3DgeK2d4v4F2G8hySBbUTtF3Vfinlw1ZoMvdGgjt/AQPIzhiz4In3lAg3m1sM=;cNZemhbnBMkX7E3lRMio9w=="
 ---
 

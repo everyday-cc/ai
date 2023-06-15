@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Verix acquires Start-up.ai, brings its longtime partner in-house"
+    excerpt: "Start-up.ai is set to become the AI unit of pharma commercial operations firm Verix, which acquired the Israeli company for an undisclosed sum."
+    publishedDateTime: 2023-06-15T14:44:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/verix-acquires-start-up-ai-brings-its-longtime-partner-in-house/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 37
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/06/GettyImages-1299472767.jpg"
+        width: 1024
+        height: 727
+        isCached: true
   - title: "How to Invest in Artificial Intelligence (AI) Technology"
     excerpt: "Artificial intelligence (AI ... learning a step further by allowing machines to essentially think for themselves. The computers behind self-driving vehicles, for example, process large amounts of data such as moving and still objects near and far, speed ..."
     publishedDateTime: 2023-06-14T10:43:00Z

@@ -62,9 +62,9 @@ related:
   - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
     excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
     publishedDateTime: 2023-06-14T14:38:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069679"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069679"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069679"
+    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
     type: article
     provider:
       name: ABC
@@ -271,6 +271,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "AMD likely to offer details on AI chip in challenge to Nvidia"
+    excerpt: "Advanced Micro Devices on Tuesday is expected to reveal new details about an AI \"superchip\" that analysts believe will"
+    publishedDateTime: 2023-06-13T11:02:00Z
+    webUrl: "https://wsau.com/2023/06/13/amd-likely-to-offer-details-on-ai-chip-in-challenge-to-nvidia/"
+    type: article
+    provider:
+      name: WSAY
+      domain: wsau.com
+    quality: 34
   - title: "AMD Leaps As Chipmaker Takes On Nvidia In $150 Billion AI Market"
     excerpt: "\"We have a chip that is incredibly powerful and we believe will be a significant winner in the AI market,\" said AMD CEO Lisa Su."
     publishedDateTime: 2023-06-14T15:50:00Z

@@ -2,11 +2,13 @@
 category: news
 title: "Dawn Project Founder Dan O'Dowd shares concerning new figures over Tesla Full Self-Driving safety record"
 excerpt: "It was recently revealed that Tesla's Full Self-Driving and Autopilot software has been involved in 736 crashes since 2019, according to analysis of National Highway"
-publishedDateTime: 2023-06-14T17:03:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32860400/dawn-project-founder-dan-odowd-shares-concerning-new-figures-over-tesla-full-self-driving-safety-r"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/n32860400/dawn-project-founder-dan-odowd-shares-concerning-new-figures-over-tesla-full-self-driving-safety-r"
+publishedDateTime: 2023-06-15T10:41:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32869904/dawn-project-founder-dan-odowd-shares-concerning-new-figures-over-tesla-full-self-driving-safety-r"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32869904/dawn-project-founder-dan-odowd-shares-concerning-new-figures-over-tesla-full-self-driving-safety-r"
+ampWebUrl: "https://www.benzinga.com/amp/content/32869904"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32869904"
 type: article
-quality: 2
+quality: 42
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Tesla Rival XPeng Rolls Out Self-Driving Tech in Beijing. The Stock Is Rising."
@@ -49,7 +57,25 @@ related:
         width: 770
         height: 510
         isCached: true
+  - title: "Watch Out! Tesla - Rival XPeng Launches Self-Driving Tech in China"
+    excerpt: "Also Read: XPeng Stock Drops After Q1 Earnings and Cautious Outlook: The Details XPeng said its City NGP (Navigation Guided Pilot) system, which is similar to Tesla Inc's TSLA FSD (Full Self-Driving) feature, is also available in Shanghai, Shenzhen ..."
+    publishedDateTime: 2023-06-15T13:12:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32870034/watch-out-tesla-rival-xpeng-launches-self-driving-tech-in-china"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
+  - title: "XPeng Stock Rises. The Tesla Rival Rolled Out Self-Driving Tech."
+    excerpt: "XPeng is the first company to roll out an advanced driver-assistance system in Beijing after it was approved for use on major ring roads and expressways in the capital city."
+    publishedDateTime: 2023-06-15T12:47:00Z
+    webUrl: "https://www.barrons.com/articles/xpeng-stock-price-self-driving-tech-f88945dc"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
 
-secured: "xvMnQ2Wo0JrarDV1M0UuQQCfw15vCRfY1Ls+JTtWWVntTDsrwCLofYoYYX6lQfk8uYwrP2E4sGM3Vn1DoEqWJ+9+eIxDloeKF1Q+9e0qTe1ZeSNwpL9bXe8FaId8Zmt8ubPcZmRB+DBjOc3ejmqGd4sFa5IXdHAy+8nCUjXpupFiPwGvUmKUy6yx+N7KgzjqQA15O+mWG5LBfwXrmf1FfDIX9udBWJOpRDblsVB8g/2X9tVRwKdWxcdV2sWecuFpYm79z7imb249xcUKZlEgXjtDXH5S7+g+sqKDQEK5s2RXv36J4mSHjOC9B1LTAj2cTOd/L9Xb3F1laHV1qKh8vhI5OQMOok/As5ZR4IsHqJg=;flN+XZ/P4RDpSO46zIHAaQ=="
+secured: "H5B7R7bVvg0yk3izjhj5U8pt9WT8a6/UbjEhTc3FP8Z+GWY/BE148wnK4GW6ME3RwQwdiVEBrrpt/UElYuIcUSorvRSoUyJr/xFcxV5SdeA0OvyqoIBijajtK8nFTMtJsNBQ2EfGTSVDjE+jW9V+VlLlAxbMXHn2uTeuVXnOKR/UEBjDPNErQImJPtgnJJv1NPx0TPZSPb2uWHDPwX6hLszX3ngHGbURRhLldcUI2XqfdKzbJTRaj6e0q34xeN+sNSGMIS3MEggilCbybwrAtUfG0Won4psn7PPQ76Hgcg2Y4Qg4FtECb/lR/vC0IjAvkKSnPHJWWhPo5qkMrY1ahxINtvCOhPtEa7SO9P1zY3Q=;+1Pdy6tZfGpWX1Ug1YSIsg=="
 ---
 

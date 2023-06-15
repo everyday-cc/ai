@@ -44,6 +44,15 @@ related:
         width: 1312
         height: 656
         isCached: true
+  - title: "The disruptive potential of open data lakehouse architectures and IBM watsonx.data"
+    excerpt: "Learn about watsonx.data, a data store built on an open data lakehouse architecture to help organizations scale AI workloads.\nThe post The disruptive potential of open data lakehouse architectures and IBM watsonx.data appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-06-15T12:05:00Z
+    webUrl: "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 91
   - title: "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions"
     excerpt: "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030"
     publishedDateTime: 2023-06-15T11:42:00Z
@@ -102,6 +111,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "EU gives more power to AI translation machines"
+    excerpt: "The European Commission has launched a pilot project to translate some press releases without any human oversight."
+    publishedDateTime: 2023-06-15T13:01:00Z
+    webUrl: "https://www.politico.eu/article/ai-technology-eu-commission-parliament-gives-more-power-to-ai-translation-machines/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 19
 
 secured: "5aUgIV9RIHqkwPqrO7s2Odf+uM8qgWaeoTXyAjWZPcuZl/MDWH2zHMHDTuOo6QcqUcI6vBDs+7mcvNJ75Bv51W1U7DBkDhg4nbUx3dl3ANPMp89cXxpgvVRsns9AXy9o1HGhq3HoxDZtqQTVhnnGOlSn+tIWocvpVvjNOSndHslAjWyv80dg5UJSI+dOZ0S4odklAS17AZinzYtO4djgN0TcRIPAD7+TeEw22OUr3Xu2FTZUgcBGlMuuuZ+1KPKJWF+x+LMrS1u0kWTHqwbBvF/usnufmXmY4uerz5J75NLqmS1BivKHsPK2sOhkN14A+FUKGtctOM0wQsDrpdM4jXZN7OnFGlEYYUXF4D/ue+j9cPBYARknIqe4DM3amqYxLR98Q231qQT8jWkM2YpAO2qA6BMqVCkMmbrY4ultJUgws999i/ajqQIKVP4W5dt7uWB4GyGYC8vD2e0/Q4JRMO+icjmeauDbgOYi+hvIzsyxziueRZxfK0pyNTSxYsEcTjC9L0C6KpxLFW3BnqeAgA==;2fEdbW+EPldQ9RcZ+eTbjA=="
 ---

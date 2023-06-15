@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-06-ai-gain-human-like-cognition-rea
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-gain-human-like-cognition-real.amp"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: techxplore
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence won't likely reach human-like levels without this one key component, study finds"
+    excerpt: "Artificial intelligence platforms can mimic human learning, but will likely not match human-like cognition unless the programs are connected to robots, study finds."
+    publishedDateTime: 2023-06-15T06:01:00Z
+    webUrl: "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds"
+    ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 72
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54cf6e5e-46ce-4bd4-aed5-3dabe9838e97/e3852eca-5cd2-4283-bae9-15fbb23d888a/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI won't gain human-like cognition, unless connected to real world through robots: Study"
     excerpt: "Read more about AI won't gain human-like cognition, unless connected to real world through robots: Study on Devdiscourse"
     publishedDateTime: 2023-06-12T12:18:00Z

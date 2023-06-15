@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Politics Now: Linda Burney’s voice campaign hones in on past failings"
-    excerpt: "Indigenous Australians minister Linda Burney has begun to switch the focus of her campaign for the Indigenous voice to failed and contentious policies of the past."
-    publishedDateTime: 2023-06-10T21:38:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/politics-now-linda-burneys-voice-campaign-hones-in-on-past-failings/live-coverage/cc67f6bd21883dca4aaa851772cdf906"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "‘We can’t turn back now’, Linda Burney digs in on Indigenous voice to parliament model"
     excerpt: "Linda Burney and prominent supporters of an Indigenous voice to parliament are staring down calls to reset the Yes campaign or delay the referendum and reconciliation, with the Indigenous Australians Minister declaring Australia has come too far to turn back now."
     publishedDateTime: 2023-06-13T19:32:00Z

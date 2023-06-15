@@ -128,6 +128,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
+  - title: "How to Regulate AI? Start With the Data."
+    excerpt: "Data is an afterthought for many artificial-intelligence developers. It should be the first thought for policy makers, writes Susan Aaronson."
+    publishedDateTime: 2023-06-15T13:15:00Z
+    webUrl: "https://www.barrons.com/articles/ai-data-regulation-bfded1d4"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 17
 
 secured: "U/D2Z0fPQ2HImCTrrHAXA2LGPFDoJnpHvrQnZDdbQTOU7zxHF8cKkgrJXFhYkCVDhzz89y7nO1N8omCvlEzAh64+OaFrUTc+/7VzTKbr5pjvGCY4nycH3Nt4i/EXElefdAapWJ1SZcMCUgFQ6aMl+4KZ7TT3O6Bxzek8iTIsUVhEf1YDiylLbx/PawQKLZfmXkpmF0bURYE/XtknhscO8VkTP7297TEaCSFVt7P39OsrIiYx741zeRkPm2RaIWzjmaUpGvyyTLo6Xmc04v0Ix27Xx8IZ6Y01D1IVy79o3AiuJYyzkimuKpO5Woe+CRU6oVmk/42r8UOj0uEvfw6fpXQTIJzoXEUZUUSel6jqcnw2ZEz/wX+vow39Ax20ArOCuCSmGL53jNLuLmvnePplT3hkMySDyMuwn7B6XmlP4uCW8DgdIzXGs/NFdiq4p0AOTx2yBqh1+RqC26aJ92sW6n5T97Y3lRAYiB6pcfqRhhpTsgGV96Y80GXdLG9hMFwYStESaQZpOw2iZSkrrmVJ8w==;+gKyn+Z1UsBeqBG7+O9eZw=="
 ---

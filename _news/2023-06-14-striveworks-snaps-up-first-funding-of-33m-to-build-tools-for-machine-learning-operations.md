@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of
 ampWebUrl: "https://techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/amp/"
 type: article
-quality: 82
-heat: 92
+quality: 84
+heat: 94
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1140706398.jpg?resize=1200,675"
@@ -47,6 +48,6 @@ related:
         height: 400
         isCached: true
 
-secured: "JZmP3pKEkOt4ZOYvYb71eE86GJxYaBA00EFtUA6uvHxkNP1X/7YQ8ebANA7OFSuS5qPxTQ1GvnGga/kbBuAJWdji8+m2z4vzFThw+i24J+Dghg9blHRjcbJJXgLAqhE3m8asWDO6PC45oFdqbsDSeFLsnpJj2UhqoG3J9t3mwrAXCLw0rSu9lWmgLO88lS1UZJG0oHCUJVQnkggOJHCthPbwFyf/ddfdJnDW5aqcyuDm8vBJJawGIOrzzvmgLvS7sdY7KF9llZ6/e+fDp1wcYRzNsgGnRukNbb4CypUP3YXxk1TsF6Yc6uGQ++7U/vZX9z1gm8u6mSoYOwtqWfugOVMnsy93ahLOBEnnHdllSR4=;DUk0wDhAFetuApIFyTHkgA=="
+secured: "LyNH5tBXBaiB6alekg9sBZA/FH3GMs7VTiCXqFk7V6/r/fFlCmA8CJl4fWRAYbD00+RpuutnYWxM+uMRklRql90IiNKytMKqNEuqPjG70YZII/UX4VKovWlrssMjtyLB8Irzz1HLH+3ju88cybJpRBSx5H/PHkM9vqWW2ze2oeSjL+I8zUqdvhK8qaNCweL/8GiaStLcu5MruhccIZWaotAz3ehjP4O+++mWakM8tXcFQJOJU37vP4s1xspyuTXXE4GgxLS4VyRycnlyQSonbZOZJDubo8ZO4QCdfq1fPIdgVZ5mkl7y9tj0/46engOVETI8IzpdkxILHk9TFR5O7npKgmwMpDmD+3eUsEp/Q1oMIjf//ZKT7XvcTwZ75J2AnOcTOdxENqZ3y1yIY9RvuIdsXT/V+GOxVPrTSxm0Xuw679B8EoQckMjh84+M8DhTBTBs0a6A4RvyvGu8qCLTnMQGoCiarN1hExS0KQllfKhK31o1Ta9HpL0FZjOFcv6lJt5YWxKQzfNu/h60axvzmg==;n51dW7lkBq7u+9bb75fsGQ=="
 ---
 

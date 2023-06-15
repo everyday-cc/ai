@@ -50,6 +50,20 @@ related:
       name: McKnight's Senior Living
       domain: mcknightsseniorliving.com
     quality: 33
+  - title: "Vantagepoint A.I. Unveils Groundbreaking White Paper Demonstrating Superior Predictive Power of Artificial Intelligence in Trading"
+    excerpt: "Vantagepoint A.I. (  ), is the software company that developed the first artificial intelligence (A.I.) trading software in the world available to retail investors and traders. In addition to the great increase in computing power and the availability of on-demand computing services there have been even more important strides in neural network theory,"
+    publishedDateTime: 2023-06-15T15:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/06/15/9833699.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/2102037/VantagePoint_Software__An_In_Depth_Analysis_of_Vantagepoint_s_Predictive_Accuracy.jpg"
+        width: 311
+        height: 400
+        isCached: true
 
 secured: "oCD4WF0gNLMA9XVAZMK3lPWUmDIRMzzXdvur3eUAuFEX3+s4nFlotwcFaxFa72KRQRImA/Tyay8lbNyYEfgXTu2U4VucwLFOPQ4s9u1gIT0C9kxhHcRKcYKdti38n2n78O46OTYybDmL1w2pVmkNBO5Qb8XRs5XwBgcph3NmL5J9W5vyQdOAy4zxe+m5ZTIu7zzT1MWXvxNowghHOhnVoR9KYKqx0SBkc+PoOoQ0ip49Eyc+1POpxMp18KohuT/b7VIsdXybC9yBqDu/psll5SbVX6Of7bCUSCuontOy1RJ/Nj/P1rMRHRXVJKrKO2HFGIjfbnhbMrazJsc0k4LhNtSmIep6bAcx2YKDGasLtas=;HVF+RLgp+A06Z7yTwaAWOg=="
 ---

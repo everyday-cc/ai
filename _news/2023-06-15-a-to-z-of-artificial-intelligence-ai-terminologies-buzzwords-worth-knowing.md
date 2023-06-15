@@ -8,8 +8,8 @@ webUrl: "https://news.abplive.com/technology/ai-image-generator-video-full-form-
 ampWebUrl: "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp"
 cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp"
 type: article
-quality: 73
-heat: 73
+quality: 77
+heat: 77
 published: true
 
 provider:
@@ -20,6 +20,8 @@ topics:
   - AI in Robotics
   - AI
   - Microsoft AI
+  - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/06/15/f07ca4ed39925dc0b23208f32d0652101686820877963402_original.jpg"
@@ -27,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "moICZzAerNVBEgdzNeroeZENcYWLMc+lrYu1KEexhPm4lP1NvNVwSRMpnzLL4YCGlOA5i1zGaNnZ/rw6ZZewOjsHx1un1UjdPn0WSRObgC873f8le6rpjVyFDEOOZVgPZAx5qQKznuDyeQQpjjdaKdj59iwffs1/hv/XX70zKTz3Mw9trYKAoZ098uaXTXp4IqcogoyC8aBxgn+k+grIFyeChn08BZVxboQkrqC3lXuhH+K3HFKHoYXp7rd6Xriz8EJiBwvFvdepvszHD757F33xYSCRISm1fTw1myba+mv1iRcnGdq9rc9YAP8AFBA6sjDNnbD1Rmrfqf+bm5es8tWiFgV2R82rHpHzPIQg/D8=;V4Di9wCRNjMpYiYmlj07QA=="
+secured: "vwH6Ykjpm6dsDi4pmFplNwMpCDTHEdkThOYX1tkyb/f5PYkyT8Q+VyQHfAMGni9M/H7E+Kmu93y8Qbb1LJqBSMNYP2OFPIYtCjZ+0kgS5fjlDU8Mk9KsO+0E5MZloruHDimKLXzgEi+9ii4BhW/yULqpM7qPcaNky90SiSw/gPuno5maZaQWdEBCsvHMXNzKHQNPmjGPVNgr5TZ/TcGFTUpGP5EQp8ERia6ig9ZWWaKhM++UzCXCzgx52DtUWQcKDlrbp2YPnNpgm7RitNTzbfGSWym5QHkj79MOh2lcfk02ToeAP0B0q0/Bv/HnkXonL4MAPA7vSyZwKc4nLNzht9wgCOpZdRqgqblrPk4HvRZUE7pUr2cuW9wYRDmzHyYkeZB1CIwa0nKXDpNjoHgVGS2DfBrNxxHoW1WHBVNhI8hvhRgseVJ55hQJzZLnAn2IPMO7vYYeRXVsEQI0+qv6ISGYPNKHBOVF6l+NiFDazonV7h/gxHe8wlz+pmKxA4V/0NGSqAEvQhVRLPhbmwmMAw==;LxjB8NYwytPAwyAIqCk4zg=="
 ---
 

@@ -60,6 +60,20 @@ related:
         width: 1024
         height: 587
         isCached: true
+  - title: "Dremio bets on generative AI, adds new tools to accelerate data workflows"
+    excerpt: "Dremio has announced new generative AI tools for its data lakehouse, including a new text-to-SQL editor for conversational querying of data."
+    publishedDateTime: 2023-06-15T15:01:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/dremio-bets-on-generative-ai-adds-tools-to-accelerate-data-workflows/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_the_silhouette_of_a_narwhal_poking_its_long_straight_sl_d23d2087-c4ed-4704-99d7-43f6ddfecd52.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "AI chip race heats up as AMD unveils rival to Nvidia-world’s most advanced accelerator for GAI"
     excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with rival chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools. The semiconductor company,"
     publishedDateTime: 2023-06-15T03:51:00Z

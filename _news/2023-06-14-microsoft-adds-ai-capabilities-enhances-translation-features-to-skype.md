@@ -64,6 +64,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "HCLTech to offer generative AI solutions with Microsoft, train 10,000"
+    excerpt: "This program will provide training and certification opportunities to employees and offer access to exclusive resources and tools."
+    publishedDateTime: 2023-06-15T14:24:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/hcltech-to-offer-generative-ai-solutions-with-microsoft-train-10000/articleshow/101024464.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/hcltech-to-offer-generative-ai-solutions-with-microsoft-train-10000/amp_articleshow/101024464.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/hcltech-to-offer-generative-ai-solutions-with-microsoft-train-10000/amp_articleshow/101024464.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-26178,msid-101024428/hcl-tech.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Microsoft Extends OpenAI's Language Models to US Government Agencies via Azure Cloud"
     excerpt: "By bringing OpenAI's sophisticated language models to Azure Government, Microsoft aims to empower US federal agencies with cutting-edge AI capabilities. This move underscores the company's commitment to delivering innovative solutions and advanced ..."
     publishedDateTime: 2023-06-11T09:04:00Z
@@ -167,13 +183,13 @@ related:
     quality: 32
   - title: "HCLTech and Microsoft Expand Collaboration to Boost Innovation and Adoption of Generative AI with Microsoft's Azure OpenAI Service"
     excerpt: "Leveraging HCLTech's deep domain expertise across various industries and Microsoft's Azure OpenAI Service, clients will benefit from innovative solutions that enhance employee productivity, streamline IT operations,"
-    publishedDateTime: 2023-06-15T11:34:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833322.htm"
+    publishedDateTime: 2023-06-15T12:54:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/15/9833322.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 21
+    quality: 19
 
 secured: "9qLv8JS0uOV7scOO67dBFVnBwu1QQaRcKMsMvz52VoP62yJw2paJm1/UjfqpAJlH1NauP3Te4vMy8Rawo6wxEvADFbsLrzQ/HEV0WAb4vnkefi9viVck1epLdiZtKTmnfqJzgpBViv2M79VRpqHxIRNcZHj/g4Z3ntfefMTRP92t1Ue7oobh0qfwEAF5DOVjESfgk5gOdb7622lX/whBkULj37ypHuALx8fhmOATSm1VQBTOXc6i+lFOvpCeK2VfgqtcBa5YcMRy+EXnX4u/scefSkx3zd9dZLrzbXA9rZ8RgV4LKlNns6Mw4bkaCb5hAhwTHIFlcMSW/OqpAZEN4If7DmOAHh7OspmwDsmVlq24Y0MJfh3WrtRXWXQg/PtcNbIdgfl/3mc0Dc1dMnGoBKpVunfrtDOIPkQsEZ1UX7qEvdkM8iNtvBGFSXrQhkJDCHbh4kCHsvIYBISxMbh8F902wu1obelJsNsY9qGLQ679ko5+Bw9qZQT9AaX+grPFCVGXPEvY3jxoS0x7ttGpjA==;Kj1g2LZGBVqKqmizviVOQg=="
 ---

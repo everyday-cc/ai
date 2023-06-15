@@ -3,10 +3,10 @@ category: news
 title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
 excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
 publishedDateTime: 2023-06-14T14:38:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069679"
-webUrl: "https://abcnews.go.com/Technology/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069679"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069679"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069679"
+originalUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
 type: article
 quality: 74
 heat: -1
@@ -267,6 +267,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "AMD likely to offer details on AI chip in challenge to Nvidia"
+    excerpt: "Advanced Micro Devices on Tuesday is expected to reveal new details about an AI \"superchip\" that analysts believe will"
+    publishedDateTime: 2023-06-13T11:02:00Z
+    webUrl: "https://wsau.com/2023/06/13/amd-likely-to-offer-details-on-ai-chip-in-challenge-to-nvidia/"
+    type: article
+    provider:
+      name: WSAY
+      domain: wsau.com
+    quality: 34
   - title: "AMD Leaps As Chipmaker Takes On Nvidia In $150 Billion AI Market"
     excerpt: "\"We have a chip that is incredibly powerful and we believe will be a significant winner in the AI market,\" said AMD CEO Lisa Su."
     publishedDateTime: 2023-06-14T15:50:00Z
@@ -304,6 +313,6 @@ related:
       domain: emirates247.com
     quality: 17
 
-secured: "cB2SJxq3u72fIJ5MjMa76n4MOcy1YUx5yO+0fon0mdetaKP/JVNV6LQ/WsE74LE0XrdYnjK7KDOcVpOkkLn1JA94yGrnMAkr8pkx/nWPe69SkU/x3YoX82IEHQ0jYkdJ3dVohZvTLzgoM1PnCDcQYcqs5qI7ZP/eK9g8IHR8OSjuGjFBnfBvPYKhyyQbgP8nKEffNMJxDQYwfyIvI3AeW4xCBXB0UKQZv6ohPtjNPVhUMIW+/zo1dI3u7X7VhVrLkQzNuOi54UdlXXLBO+ncn0m874AWqZbAZUMgHCCScCRFdn0+ictm3GA7r35N0lnnSlNQpbuezuLtTO+CZ2DblJjjArXrNPmLvnyRYsYsXLoeaXv4MDW5m+zjpC/4v7GGbj5Cu5YXNhElOGTQ/lLmW8QDZ4gcyI971MZSeL+CPrezO7Nxgk7KeIM5MJ6FvnSz7L3H5SVrqWBCgMPLf5blLlNiaEF3Fq3gGOJ/gOxmsKvGT5wrRh/WMRrlgPRjodpXKhqRukD/CopEETufFDxdeg==;yiyK6lywU/0HfTOxT52jcQ=="
+secured: "qQtM/9/RrgaooFwjzVbv/U7DfJq3DGLSPd1usukhweg+PKqAOrkpQ0v5Ec7nxrdY4jCTdUdrfVkooc2vyABf80h9ZH4X9w0Wv2TmE1iGgpit519tAVVIGO1BNQ7WhGnL4Ao5PR93Rwhelqt5GNY2a2QzYs7aTtEQOLIlpI2T3bVm2ptFPIthPyNTImqhnkhxq2bbhTi3phaPZXPxdK+FRtqtZXvAfJf87ykXoEbICKngecv169J6TbQdZqX+Ddi3vXWIxyYmrLnW05OzT+aNvU5sqdTBdNJO6871ns1+ipJWHaZDL2CAymYWG8Yb8NWC8e0/s5lQs5hBnnb6aNwDbiyZHcGhU5/jtfSgAjUBsOE=;zKynP6ywAjrVDmt3I1MwDg=="
 ---
 

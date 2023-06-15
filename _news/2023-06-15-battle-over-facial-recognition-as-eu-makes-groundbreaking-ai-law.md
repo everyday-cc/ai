@@ -89,17 +89,17 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Facial recognition bots are scraping private data"
-    excerpt: "PimEyes, the facial recognition platform I used, markets itself as a privacy tool. Working from a photo that you upload, it scours the internet for your likeness and presents the results. The logic is that if you can find your images,"
-    publishedDateTime: 2023-06-10T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/facial-recognition-bots-scraping-private-data-pfs6p5dlw"
+  - title: "Europe votes to regulate AI and ban use of live facial recognition"
+    excerpt: "Tech giant Google has urged the EU to coordinate its regulatory approach on AI with the United States, with CEO Sundar Pichai calling their alignment “critical”. And MEPs are set to work with their US Congressional counterparts to develop a short-term code of conduct to cover the period until 2025 when the Act comes into force."
+    publishedDateTime: 2023-06-15T10:39:00Z
+    webUrl: "https://inews.co.uk/news/world/europe-votes-regulate-ai-facial-recognition-2413187?ito=social_ifb_theipaper"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
+      name: i
+      domain: inews.co.uk
+    quality: 54
     images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2884f530-078b-11ee-8d81-e0eaecec6481.jpg?crop=8256%2C4644%2C0%2C430&resize=1200"
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/06/SEI_158377846.jpg?w=1200&h=675&crop=1"
         width: 1200
         height: 675
         isCached: true

@@ -49,6 +49,20 @@ related:
         width: 600
         height: 335
         isCached: true
+  - title: "Vantagepoint A.I. Unveils Groundbreaking White Paper Demonstrating Superior Predictive Power of Artificial Intelligence in Trading"
+    excerpt: "Vantagepoint A.I. (  ), is the software company that developed the first artificial intelligence (A.I.) trading software in the world available to retail investors and traders. In addition to the great increase in computing power and the availability of on-demand computing services there have been even more important strides in neural network theory,"
+    publishedDateTime: 2023-06-15T15:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/06/15/9833699.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/2102037/VantagePoint_Software__An_In_Depth_Analysis_of_Vantagepoint_s_Predictive_Accuracy.jpg"
+        width: 311
+        height: 400
+        isCached: true
 
 secured: "atP8ulg/otcTemISKOIAcvYXynlqLTwO7mwGEnSy/deymMx0mLkHqh+qRcFkbSD66hr/qm1tpUeDB5bimYFfWczKSNU013fXbLwGVyrdsyA1sierPKmCsfXwR96JVHT+kmOtyak+DeulnAtTdB53AK/SX1BzEqXH5bOYFFL9mR5r9ADB6EqRHNRp3lsYlkfx4JDRf6GrkUOZm35Yko6UskyTOHtgcx7vL2ZQTHq6No9ZYOsDIl47f2zs23q8cGWzGLg0fJ/Uthsnad9yWId74bv1hDVbTSLM++yOKjPl2COmlm/nFPNqnasLfUJ53WmnoHSfUhYfCYgr69Pdb55p0Jbfe8R94IOjkhJTSTSBceFx2ccwmXJ0Il3xW3gfzNqFpOEQOwSxLIu662mETJN6qtoessev1/fipDBlL7BXv4WIBfogF1QSeVzDFdMqiY/w3w/v2pXtNXxyKNhaxq0Hr5TmNMmzfvTn5JSo5Gq7X9VxTEB86onL/pKYIOT61/GcjukAt+QskP7YtchtDs//GQ==;FsCwdzHGdLBZCoWaet+20Q=="
 ---

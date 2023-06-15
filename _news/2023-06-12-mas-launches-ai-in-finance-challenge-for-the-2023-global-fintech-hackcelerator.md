@@ -94,6 +94,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
+    excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
+    publishedDateTime: 2023-06-15T00:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/268751"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 0
 
 secured: "hoyxcHwFrRb/XArS0GFDoV6LFkMXKMBXO96xMuCwiDn1I1HgeNMEegVOEN5q6wFYH3mcjuFGATKlw37uy+W7hIMl1Du4U03MK6A6j9bEmrwt2ZvUaFgHZgPYv8xkRkjS+SE7a7CI01yLxNxnIN8XVfNTl+xTgwHP8bky+xPjMmxGGuePtniC+YSTappAuvnUeWJfhw2TdZ/gN9CCNG1ny1P3b0g5qs1+A68iU/vCY60OehiUAHDiKJqbtHIxU9DGFl5vo9e4XxpqfN6ZFt3H/9+qiSXI0jO2Npru1CDQJJb5dricMPmVWaEoaj6GZDkQ0sO5npF6VdXSXhsDAguGRBnT5k71k2adgf9d/OKOXBM=;6Uj7LcZvBrCEuTX9X/XvSg=="
 ---

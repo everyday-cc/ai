@@ -41,6 +41,20 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Machine Learning Startup Raises $14M In Seed Funding"
+    excerpt: "Startup Deepchecks has raised $14 million for its solution for continuously testing models from development through production."
+    publishedDateTime: 2023-06-15T15:07:00Z
+    webUrl: "https://nocamels.com/2023/06/machine-learning-startup-raises-14m-in-seed-funding/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 54
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/06/markus-spiske-8OyKWQgBsKQ-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "SD1rHFiaX9lz5/0sEDAcbv9qIkbtSNN/9uFy/af4/GRSssWoBxtzftprz6zcVOdXdsd++95tjNOWHv0xKJiTuV/4zM8VPgialUNG80pZaY9xHDU7cqbmJkuw7vdPeDJJgTLbfQTvmXOfm3MhNr63soeAYq+fuU7rVV+Rs3m/wnGhkDXm8k5ENws2ECzjxDPVP4OkHV0xD5CgpH+YUXnYvrujiO7IKyp1I2te0ga5w7AIA2lgMg2N9kPYHoCWT84bMLo+XTaMh/fjVSzKfClF5rSoQZGIdxYMmTSegH1N34b9ieu0jO6W/geq4h3yghTE3vhBQI9Us2k8YqXqJvbxv55cTtmXtoGbwtfxDtnpOPI=;u1AryAWgpORNpuMY0wxZ3w=="
 ---

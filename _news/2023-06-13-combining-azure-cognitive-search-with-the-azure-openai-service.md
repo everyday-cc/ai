@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/azure-openai-service/"
 webUrl: "https://www.geeky-gadgets.com/azure-openai-service/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI’s CTO Says AI Will Be Your Daily Companion"
+    excerpt: "Eight months ago, ChatGPT did not exist to the general public. Now, it’s one of the most talked-about technology products in the world. This week’s episode of The Circuit With Emily Chang goes inside OpenAI, the maker of ChatGPT."
+    publishedDateTime: 2023-06-15T14:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-15/openai-s-cto-says-ai-will-be-your-daily-companion"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJbKdYalqMck/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How to create AI art using Azure OpenAI Service"
     excerpt: "In this article, we’ll discuss how to create your very own AI art using the Azure OpenAI Service. The Azure OpenAI is part of Microsoft’s Azure, is a suite of cloud services that houses some of the most current language models in the field. These ..."
     publishedDateTime: 2023-06-13T09:46:00Z
@@ -39,6 +53,29 @@ related:
         width: 700
         height: 475
         isCached: true
+  - title: "OpenAI CEO says 'optimistic' on global AI coordination"
+    excerpt: "The CEO of ChatGPT maker OpenAI on Monday said a tour of capital cities had left him \"quite optimistic\" about prospects for global coordination on artificial intelligence (AI). The public face of the startup,"
+    publishedDateTime: 2023-06-12T09:11:00Z
+    webUrl: "https://www.aol.com/news/openai-ceo-says-optimistic-global-061145122.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/a918d58a1babd296503473bae2894330"
+        width: 800
+        height: 577
+        isCached: true
+  - title: "KORIKA, OpenAI to build AI based on Indonesian values"
+    excerpt: "Head of the Artificial Intelligence Industry Research and Innovation Collaboration (KORIKA), Hammam Riza, has said that KORIKA and OpenAI will build an"
+    publishedDateTime: 2023-06-14T13:00:00Z
+    webUrl: "https://en.antaranews.com/news/285117/korika-openai-to-build-ai-based-on-indonesian-values"
+    type: article
+    provider:
+      name: Antara News
+      domain: antaranews.com
+    quality: 19
 
 secured: "+nqMrBD4ylmOcHCUnSd+CWcJ9ua6r6I4JlJ+G8JQwrsF10+lmUsju9i1HWAZIFjuAaqVTrSmZZTfP5+Wl/c7ZeyD8ymR7KT2Z2TEui1pvkwSu6+p1bvdIWnXpe+sWVwZvFFwePGpow6ISIp0P9PfwkYlQV+IOQhH1m7nXGHMZtMBvkrnS+hzvqTma5ulLvkbZJRt0bKmELrAseyqUIKwcLXLqg3ETiWwOYPGessjrg1bNvV+yzCbEb0QnquoRMoofOJy+XHdcLNpjpMsJbQe2iM/teqxbKdbg1oWMmE+eed9HgHEFORboXOhGezxucLXEpoDMBN41leXwI7hgG7eA32i4Q+VM1sc5pWA5X/vgL0oDji5ew4V4JdtBaPQj0s+3CJFdWOQzDGH0SuO1bfIQzq4UdsPnw7q1aFxX0jH1jv/KTvNeEbUhkm+vAYl/xD5zPPuS7EGu5mXfzLq5R23vMQZwEfIlT6SquNZ1hfhpjE19e2wIEehayQrxTGHInfLQ93FFUgv+ni+LMEKevDNjg==;hn1NqaR1IEiP+R1mBRhNgw=="
 ---

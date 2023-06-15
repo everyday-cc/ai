@@ -59,6 +59,20 @@ related:
         width: 1024
         height: 587
         isCached: true
+  - title: "Dremio bets on generative AI, adds new tools to accelerate data workflows"
+    excerpt: "Dremio has announced new generative AI tools for its data lakehouse, including a new text-to-SQL editor for conversational querying of data."
+    publishedDateTime: 2023-06-15T15:01:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/dremio-bets-on-generative-ai-adds-tools-to-accelerate-data-workflows/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_the_silhouette_of_a_narwhal_poking_its_long_straight_sl_d23d2087-c4ed-4704-99d7-43f6ddfecd52.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Asia’s opportunity for generative AI"
     excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
     publishedDateTime: 2023-06-14T16:00:00Z

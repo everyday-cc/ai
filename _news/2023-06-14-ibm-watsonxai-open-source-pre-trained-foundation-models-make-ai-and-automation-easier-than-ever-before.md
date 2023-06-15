@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-watsonx-ai-open-source-pre-trained-fo
 webUrl: "https://www.ibm.com/blog/ibm-watsonx-ai-open-source-pre-trained-foundation-models-make-ai-and-automation-easier-than-ever-before/"
 type: article
 quality: 117
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "The disruptive potential of open data lakehouse architectures and IBM watsonx.data"
+    excerpt: "Learn about watsonx.data, a data store built on an open data lakehouse architecture to help organizations scale AI workloads.\nThe post The disruptive potential of open data lakehouse architectures and IBM watsonx.data appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-06-15T12:05:00Z
+    webUrl: "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 91
   - title: "Automation And Forecasting: Revolutionizing Business With AI"
     excerpt: "One of the most promising AI technologies is the generative pre-trained transformer (GPT) model, a natural language processing tool that is revolutionizing how businesses communicate and operate."
     publishedDateTime: 2023-06-12T11:00:00Z
@@ -103,6 +112,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "EU gives more power to AI translation machines"
+    excerpt: "The European Commission has launched a pilot project to translate some press releases without any human oversight."
+    publishedDateTime: 2023-06-15T13:01:00Z
+    webUrl: "https://www.politico.eu/article/ai-technology-eu-commission-parliament-gives-more-power-to-ai-translation-machines/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 19
 
 secured: "uKs81ft1BxW/khfuIBk2wuar2QBIBMeMz30jY8iVkaIACR4KiuUWTQ9Vv7Ydk1vxxma+XuyVrb5MSj2YfellgvKTkdQhz9jEeOyDEv+TxhD/wQUkXelEQ/elHA9AiOdbDN8m0OnvqpVqMnqmn1spsvb6GlozqFAcaOkvogg9zlHLjz9Cj2gmQkSnm4C54ds6i/JzXjc+zzW610mBmJiGQwAFimFAZMD7NlIX/b8Z6xTjA9XJZVPE9/R1DXk0TBsvrIgA7ixSPLWRyuB0e4UVazsQLxhImI7ZTtSr80TI7r/K4oS/InKKKpcxkbhRUDF8e/MTpTeqkQ5xPq8mtIhgZOWIkQnbvq4kfK49ADwrbko=;CQLCUiLZ9KyKRxRK5IYckg=="
 ---

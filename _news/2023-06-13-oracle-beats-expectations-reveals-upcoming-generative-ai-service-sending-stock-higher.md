@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Serving Generative AI just got a lot easier with OctoML's OctoAI"
+    excerpt: "Generative AI, because of its compute intensity, is especially hard to put into production. OctoML says it can streamline all of that with its years of optimization expertise."
+    publishedDateTime: 2023-06-15T13:47:00Z
+    webUrl: "https://www.zdnet.com/article/serving-generative-ai-just-got-a-lot-easier-with-octomls-octoai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "Zz4u+fmjtiZOhb/QaslxtYWd+m9nmcCUEKOF/a6dQMwH6qO5KVtK8FbgfDkxZRP2Kgqcrioe7gCzdnPvXAom3mS/gSCmKOfRgdMPy5n8nGhRE3aaKrxr4VU1V1vIgBR1O/Cn8IbGtopjDOJu1eRNFI1Gfufe3TOSgNvRewWsnM8/T5KFxEYaWpuedl6VY6ETD4DX1+CdxAnucNMsPIb5oNqLkyaLKypbnd0cBiDAFhVKiqFGbN/DSmvSyKsbWB7a20SllgTqEFVtALTb2q9kze2hN4fFq1eAVNf34wt8F/emCy+oc1ue/4Si5KVe3ArNTMTwgvwPjrKWGRe3fvPr2EG6HRTlySYKEQ6zd1DRp5ezOjZIKmCJvODJOdIMTubRoiIts58J3/9eyIj8QVZxssPKDs0NrXF2JqkeIHHa9pQgY3B3okKQfOCM0lkd70QZ2RMR20T3PnOGzwIiX1d9/smLEaRPF4BODEd0QSOwkqvtYFTl9O+PtV8b2DcJFDlLWdbSurk4QVj3lf8Llq+gww==;YPOHNEbCSHfOTme20wgfOQ=="
 ---

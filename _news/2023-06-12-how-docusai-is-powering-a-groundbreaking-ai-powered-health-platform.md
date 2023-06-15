@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/06/12/how-docusai-is-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/12/how-docusai-is-powering-a-groundbreaking-ai-powered-health-platform/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: McKnight's Senior Living
       domain: mcknightsseniorliving.com
     quality: 33
+  - title: "Vantagepoint A.I. Unveils Groundbreaking White Paper Demonstrating Superior Predictive Power of Artificial Intelligence in Trading"
+    excerpt: "Vantagepoint A.I. (  ), is the software company that developed the first artificial intelligence (A.I.) trading software in the world available to retail investors and traders. In addition to the great increase in computing power and the availability of on-demand computing services there have been even more important strides in neural network theory,"
+    publishedDateTime: 2023-06-15T15:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/06/15/9833699.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/2102037/VantagePoint_Software__An_In_Depth_Analysis_of_Vantagepoint_s_Predictive_Accuracy.jpg"
+        width: 311
+        height: 400
+        isCached: true
 
 secured: "1TdPoTnZ47imfrEykt0TxAYuTYxs8kgpcOVYz8oYdODcuGxkp6OKKifL7UkmRgNMMzIj1Kd/CKy4wOyovKpFrJgvbSDYPh8kCPB3GZqKgy4yW5DgsDGS4rqEOZPrfKFT1izxszH7LEwxzeW5xc5tBZh/nS1Dh4+B5lk9Smwe/nMjqrRQ6ssFWyRF2/vda+od4Da0MbnlXV9DLajzAbqQIXUEdiaWHwkhLRAqXbd1ngSYotfWlR84HtgZLuw84Co0+pmM5o5FDBNFJiN9SCdwxA/q/aOgqOqMc7Mitfkv4/RKBDyzBaIXg7jzM8g2shF4ambNtjW13ZlwkNu1tcREJP1Gy+x7+oSwoo3zQWbPJwg=;GtW8/t3HKtVId8PaD5ZZcQ=="
 ---

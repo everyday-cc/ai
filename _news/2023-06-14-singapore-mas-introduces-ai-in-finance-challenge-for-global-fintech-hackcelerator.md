@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introd
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/amp/"
 type: article
 quality: 68
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
+    excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
+    publishedDateTime: 2023-06-15T00:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/268751"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 0
 
 secured: "MnSQFzhUblj2jgGoCnyLDvgVTpzJTRwjbxYuZ5qvItBG43ARbujS/Zw6DEoGf4ewfUUJUmUqTYfZIWTpP+ltQCeA2gHQ2xqDWEJZqnxRq3+GHqT0w+bzeDsSTHB8C+JGWVPH75pXdEvlvaWCeJyg+IADdHuAz8uxGeDiWsv9MEfQzxUbbKjCC5HsoUl3HVG+RnlXrXgnIQMzk+Vj7jEWb39Uz53/OWXkcauH/wJi/3amzkR+6Znb+3j/OBSbvi+ZMVM0Zi+Qat2PDgKcnC4cRxAPfkNPrRqy3qDeaOboGP2XGL/jjhQJvlmwFDpho+2xxK1MYTGGyRrB/DLW01qt7HpLxyZrkAi02PFg38OLMZmr3hfiE1J16+r4aHqQa+PMBnlUMZ+riP5NDgoBBPV5n3WyKKLOW1IkuosdY402lzfu/yyCytD/0MEl6PVEBNH2m802pY7QFpm3Sz+2QNrzgQpKxwrp7uru+zy0MNdjSle9Hpwi7p1MVEI58MZcbNiJx/Bx1KYetJKpmJ2SyVXW0A==;MYEW5HbZwC/kThYIbXZCFg=="
 ---

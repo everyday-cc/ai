@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/hanmi-semiconductor-rallies-tr
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/hanmi-semiconductor-rallies-tracking-u-s-ai-chip-stocks-afcd29fd"
 type: article
 quality: 104
-heat: 104
+heat: 106
 published: true
 
 provider:

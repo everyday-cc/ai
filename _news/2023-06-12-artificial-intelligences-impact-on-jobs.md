@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/artificial-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/artificial-intelligences-impact-on-jobs?_amp=true"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Government Technology
@@ -26,29 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "AI is not yet killing jobs"
-    excerpt: "In the early 2010s many of them loudly predicted that robots would ... of an ai hit to employment. In the spring of 2020 white-collar jobs rose as a share of the total, as many people in service occupations lost their job at the start of the covid-19 ..."
-    publishedDateTime: 2023-06-15T09:42:00Z
-    webUrl: "https://www.economist.com/finance-and-economics/2023/06/15/ai-is-not-yet-killing-jobs"
+  - title: "The Impact Of AI On Thought Leadership"
+    excerpt: "We are faced with an unprecedented vision of our potential as creative forces as AI has emerged as one of the most promising innovations in the tech industry."
+    publishedDateTime: 2023-06-15T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/amp/"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230617_FNP502.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6401f00fffe104e0998619c1/0x0.jpg?format=jpg&crop=1054,593,x0,y50,safe&width=1200"
+        width: 1054
+        height: 593
         isCached: true
-  - title: "Germany’s BDÜ Issues Position Paper on AI’s Impact on the Translation Profession"
-    excerpt: "Germany’s BDÜ highlights unavoidable need for AI and MT for translators; calls for fairer working conditions and remuneration."
-    publishedDateTime: 2023-06-14T08:35:00Z
-    webUrl: "https://slator.com/germany-bdu-issues-position-paper-ai-impact-on-translation-profession/"
+  - title: "Utah lawmakers, tech leaders discuss potential regulation of artificial intelligence"
+    excerpt: "The Utah Policy Innovation Lab talked about ways the state can regulate artificial intelligence to protect privacy and prevent the spread of AI-generated misinformation."
+    publishedDateTime: 2023-06-11T13:01:00Z
+    webUrl: "https://www.ksl.com/article/50660271/utah-lawmakers-tech-leaders-discuss-potential-regulation-of-artificial-intelligence"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 14
+      name: KSL
+      domain: ksl.com
+    quality: 30
+    images:
+      - url: "https://img.ksl.com/slc/2922/292268/29226837.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
 secured: "yiHKazoZWSM0ACBnmtUNxf2Mgi1XsS2BMVazNAjm560zVtru/p81O8EGenpjZqUoNb6MjEyoIYJ9eDX5j+iaRO2KrRjWdhUcK/Lyr2yGFxEZbqdZ/bwo1UYaW7K8IWDfB8RIycttB3zu64Lt6TY4ety4BT/a9Xhvh6Srh2hbubmONJPMnnI9xIGcn5L5ClKe8KDcpXntBA4wq9n/DtdnGRUMkqYVH3Z4ry+WuZofH+XMSDS1MHkKeP7eUoglQMT573HYw0IP4bYIlX+Oj0oeXIzDX5//86RKL6W6gcpKwWR3xuhoLnavRHRVHvu+BDHAUd/ptZ8yzqCZk9lbMHd7fs5yq9psrJTKQD0UWyB3/3E=;2naiOkpsDN4CwKD2ajoPKg=="
 ---

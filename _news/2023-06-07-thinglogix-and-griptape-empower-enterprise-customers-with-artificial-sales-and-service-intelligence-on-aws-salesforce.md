@@ -1,15 +1,15 @@
 ---
 category: news
-title: "Thinglogix And Griptape Empower Enterprise Customers With Artificial Sales And Service Intelligence On AWS & Salesforce"
+title: "ThingLogix and Griptape Empower Enterprise Customers with Artificial Sales and Service Intelligence on AWS & Salesforce"
 excerpt: "Partnership looks to enhance enterprise capabilities and accelerate adoption of Artificial Sales and Service Intelligence technologies ... the power of AI on AWS and Salesforce."
-publishedDateTime: 2023-06-06T19:11:00Z
-originalUrl: "https://menafn.com/1106398949/Thinglogix-And-Griptape-Empower-Enterprise-Customers-With-Artificial-Sales-And-Service-Intelligence-On-AWS-Salesforce"
-webUrl: "https://menafn.com/1106398949/Thinglogix-And-Griptape-Empower-Enterprise-Customers-With-Artificial-Sales-And-Service-Intelligence-On-AWS-Salesforce"
+publishedDateTime: 2023-06-06T21:16:00Z
+originalUrl: "https://www.wpri.com/business/press-releases/ein-presswire/634726270/thinglogix-and-griptape-empower-enterprise-customers-with-artificial-sales-and-service-intelligence-on-aws-salesforce/"
+webUrl: "https://www.wpri.com/business/press-releases/ein-presswire/634726270/thinglogix-and-griptape-empower-enterprise-customers-with-artificial-sales-and-service-intelligence-on-aws-salesforce/"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: WPRI 12
+  domain: wpri.com
 
 topics:
   - AWS AI
@@ -17,11 +17,11 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-06/06/EP_2263eimage_story.png"
-    width: 1200
-    height: 628
+  - url: "https://www.wpri.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
+    width: 396
+    height: 202
     isCached: true
 
-secured: "adtkfkj4HkwoJGoyReUYTb7/t/nQJ/BuDjjuznyHTU0DebWUI7+WnqVinWfLJEXZizXzlJRPW3nla/5pD3D7qVOr9wt/PQlFYqINV2WAXpBAaZnvtfxG9P5F9r7Rb2eRmuQpZNXA/Xa/gGokvYwdlZttSQ7uiEjiEa+yGtD6uSUizWcc3NR7pG4a9Eq73hnXbqaNmEywOQoN2+lQed4U9eHCcfj/8nToQxOSPC6LgstVXYjVEftMhMuZGUl8w0kD9MT9QUzeyj5vw3Ba09EMUYazoDmxmijozSY2Ydcz7CxEiNwBgaFqBoORHUOWZauy2qU/fOOOMdB7S1oNKr9es1lflMNA8ImsbOac+5s8+Ew=;Stn32+tVZB26s+BeOfkuoQ=="
+secured: "dgux/JiY5JOc1+s7Bqe8E7HRZGD5+8tO2NpsFhNNlbPjPibm5upehgOW7gT7etsRB0r+WLalBatw0T4N1EZWfojoea/Nd8vFjlerAKklPH/3f3UCZoQduSFJd8sK9v7IiKrbp3u9efFf0DLgFvIo+CUUAiMm2sGuFxLSuTUbOJ5EWXE0CKatr5LnFtECgOINXaexM6QjvZATiz14TV8+fiBoy9Hm026erdWgIokaHIHb3rxZOtFz4SjIPYF6KI2J6J6CZivIG4JZCyJlpbHtPVlwLGHSggCHXeqKJMSrFrvJYKMDboltlUs8AEH13k2FenWkFhslGbelKBjRrsFBDl/jBICbrMaQWJhToD8kacE=;m5X8+jEmJw4NgcOIESR0gQ=="
 ---
 

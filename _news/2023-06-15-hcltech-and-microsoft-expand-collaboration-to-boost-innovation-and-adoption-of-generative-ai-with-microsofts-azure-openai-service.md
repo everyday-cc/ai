@@ -2,11 +2,11 @@
 category: news
 title: "HCLTech and Microsoft Expand Collaboration to Boost Innovation and Adoption of Generative AI with Microsoft's Azure OpenAI Service"
 excerpt: "Leveraging HCLTech's deep domain expertise across various industries and Microsoft's Azure OpenAI Service, clients will benefit from innovative solutions that enhance employee productivity, streamline IT operations,"
-publishedDateTime: 2023-06-15T11:34:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/15/9833322.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833322.htm"
+publishedDateTime: 2023-06-15T12:54:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/15/9833322.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/15/9833322.htm"
 type: article
-quality: 21
+quality: 19
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-  - AI Hardware
 
 related:
   - title: "Microsoft’s Satya Nadella Is Betting Everything on AI"
@@ -63,6 +62,22 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "HCLTech to offer generative AI solutions with Microsoft, train 10,000"
+    excerpt: "This program will provide training and certification opportunities to employees and offer access to exclusive resources and tools."
+    publishedDateTime: 2023-06-15T14:24:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/hcltech-to-offer-generative-ai-solutions-with-microsoft-train-10000/articleshow/101024464.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/hcltech-to-offer-generative-ai-solutions-with-microsoft-train-10000/amp_articleshow/101024464.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/hcltech-to-offer-generative-ai-solutions-with-microsoft-train-10000/amp_articleshow/101024464.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-26178,msid-101024428/hcl-tech.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Microsoft Extends OpenAI's Language Models to US Government Agencies via Azure Cloud"
     excerpt: "By bringing OpenAI's sophisticated language models to Azure Government, Microsoft aims to empower US federal agencies with cutting-edge AI capabilities. This move underscores the company's commitment to delivering innovative solutions and advanced ..."
@@ -175,6 +190,6 @@ related:
       domain: tmcnet.com
     quality: 32
 
-secured: "zlAYlHX6XAIVedbaYITVQcdDoH9rbdFdBxfLm49bo+pvDeQfGbcnLSnj6bvjuMCWK0xaC0syMcniRuQqrUyqvbJyak4xO2ap8HxO4D84FiTzjms8MNl3JtO8Ov7avfGt/0hNE4Cpsd7WPkIZzRLnTaBHtdF8CY+nJeRvYI+LSBUuKCj+j8/XHDlUnDSdfdSibAJZj2mEURpuj7jCNfehuFylRuwVLM40vIXQy/8EL9ItbZ2qX51CLekaLMi6HdHEBeVm/J1BpwRSM9uxhFIn2gMh5FegFN0uLvliqia35aakSztaX9YfmHDMWtNPWp6c20kCNU1uBxie2BpFKf1h0gFOMN9DGJhp0XKzUxQE3wY=;R5zDxsQ8bzqi9qMu0qpeKQ=="
+secured: "xs9qDJkmUcSisga2AVuXrn9hazB5Ran9nCdXOmYoI0XNO2Cha+2Ae52oCQ6RTJmodbCuMhH/DFhE0Pv//xJGJVBxRlltcNDZdqJq027pOYS0ypSoAcY99Scg81yjQFT/fUgA/oZq/gplbz3EGHiqb2QiRt/8mXVUohdkQwMtkrwTGHEE82/WejdP5FO8HjjjfK/x1eHShYqsfLZZ9Ud8W/AnFtUO0qb6/6+Yc5Vw7dp+TRPn3kcCiu3sxwdXI6FrIWAOexoJ9DqlX44hux7J9DpZJRoXb3FH6DYDIlgBJ34XBNJIwUI1n1+dxmAkM0E8ndDFk+7frK/FJPllUgOy24gTFjMZHiB4S/Evlon3zVE=;wlozQHBi+mysD8fBtubEiw=="
 ---
 

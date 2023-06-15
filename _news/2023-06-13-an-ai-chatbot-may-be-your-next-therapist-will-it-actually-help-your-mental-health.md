@@ -65,6 +65,15 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Meet Khanmigo, an artificial intelligence chatbot tutor"
+    excerpt: "There are some cases where artificial intelligence can be a challenge for teachers ... students can now also talk to a robot for help. A new chatbot made by Khan Academy is teaching students how to solve problems. Khanmigo is an AI chatbot tutor."
+    publishedDateTime: 2023-06-15T11:05:00Z
+    webUrl: "https://www.wfmz.com/news/good-news/meet-khanmigo-an-artificial-intelligence-chatbot-tutor/article_57150602-0b68-11ee-835a-f3cdcbaaa49a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "HEYXuxo0JrBisEXWiUweK8uvfPQJWw4izcAaEBn/xzCdhUDvddePnfoI3FmAm40eDI20Wkgc28yd6RppCB92jEp7hVXhB0n0+EUextdGRSjCiECbZ1WXywjOtwxmp8cpONW4rtw0B9Bie/bW4tTnd6TgkbTUJW8M3rejGPr7dTxxKM/CK+bNYgsmuvhXOA2VV2KZ6JQNP1SuuvwCLoRJi0Ov22HfbHmCcVUTS2nHWJ8Swxo5v7EKdqjc7xpHGsxdiLoCcTQcQqcdQJ+2hTNjuFe5otx0k6n94sJDcC1xzBO28ywc9y4/WqS3CQrfV3qB59bdBkqTJgf8T3UvNuhf9oU+HMMF61ncIX3AFecQp1k=;cB6lqJc6Z1jgdl+2GkQzGw=="
 ---

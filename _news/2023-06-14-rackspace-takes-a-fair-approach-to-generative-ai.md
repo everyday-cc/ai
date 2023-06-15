@@ -74,6 +74,22 @@ related:
         width: 1021
         height: 510
         isCached: true
+  - title: "HCL Tech, Microsoft expand partnership to spur adoption of generative AI with Azure OpenAI Service"
+    excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness generative artificial intelligence (AI) and develop joint solutions to enable businesses to achieve better outcomes."
+    publishedDateTime: 2023-06-15T14:56:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 75
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/01/HCL-Canada.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Navigating through the ethos and sophistication of Generative AI"
     excerpt: "Generative AI has been the underpinning and steering factor as AI advances from auto-pilot mode to co-pilot mode. Now the new course—of fairness, equity, bias-free development, and deployment—will req"
     publishedDateTime: 2023-06-13T09:31:00Z
@@ -211,6 +227,24 @@ related:
     provider:
       name: techzine
       domain: techzine.eu
+    quality: 17
+  - title: "Generative AI is disrupting its own investment case"
+    excerpt: "The very pace of transformative technology makes it tougher for start-ups — and for existing investment portfolios"
+    publishedDateTime: 2023-06-15T12:32:00Z
+    webUrl: "https://www.ft.com/content/00f517b8-41e9-4405-9320-e0b19ac65e6b"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "Impact of generative AI on chatbots"
+    excerpt: "From cloud chaos to clarity.” Generative AI can enable chatbots to provide meaningful and relevant responses to users, but there are risks and challenges that must be considered when adopting it. Click here to continue."
+    publishedDateTime: 2023-06-15T13:05:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/15/1074743/impact-of-generative-ai-on-chatbots/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 17
   - title: "BDO CANADA WORKING WITH TOP-TIER ENTERPRISE CLIENTS TO LEAD THE GENERATIVE AI INNOVATION FRONTIER"
     excerpt: "CNW/ - Today BDO Canada announced a significant step forward in their collaboration with Microsoft through the utilization of Microsoft Azure OpenAI Servic"

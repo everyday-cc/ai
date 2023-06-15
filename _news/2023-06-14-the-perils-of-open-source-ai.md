@@ -38,6 +38,15 @@ related:
         width: 1312
         height: 656
         isCached: true
+  - title: "The disruptive potential of open data lakehouse architectures and IBM watsonx.data"
+    excerpt: "Learn about watsonx.data, a data store built on an open data lakehouse architecture to help organizations scale AI workloads.\nThe post The disruptive potential of open data lakehouse architectures and IBM watsonx.data appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-06-15T12:05:00Z
+    webUrl: "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 91
   - title: "Automation And Forecasting: Revolutionizing Business With AI"
     excerpt: "One of the most promising AI technologies is the generative pre-trained transformer (GPT) model, a natural language processing tool that is revolutionizing how businesses communicate and operate."
     publishedDateTime: 2023-06-12T11:00:00Z
@@ -98,6 +107,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "EU gives more power to AI translation machines"
+    excerpt: "The European Commission has launched a pilot project to translate some press releases without any human oversight."
+    publishedDateTime: 2023-06-15T13:01:00Z
+    webUrl: "https://www.politico.eu/article/ai-technology-eu-commission-parliament-gives-more-power-to-ai-translation-machines/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 19
 
 secured: "J7gpaZib3Ic0cwdy7FI94N8SyaxMJuM2sQuDRMUFQ3rvOHhLtgyS7uDAkcYjlN7yoIPU5VDHshQ1TBnwaAW6Zcq6DClUW332jSX5UllmCS3ZnYrNm0lqGts6VqC/UsUYW98QZdMGjuTvLFFB/ZQEAVkI75JiFrvJ4TGMx1wi8iMP6H/CiCzpYJoakkA+Ihl7ETFEcZsoQXZs3SZW5nzf70RUj+gNnRgh5u4u6FJf6jZt4F2uOMAnUOIK/QSxZSacPTvynox+7nt4Mp1ots/rMbpB67XE/RMUNH2s4Py+XRoBE4IJ9dTYsZBYmCJMBXD1/OBAKu2JtvXoy6ciYTLS4+0tMEzwdDy/l4V5K9ntfeA=;Z75FXuxa2sb2esdu0M3rWg=="
 ---

@@ -65,6 +65,22 @@ related:
         width: 1021
         height: 510
         isCached: true
+  - title: "HCL Tech, Microsoft expand partnership to spur adoption of generative AI with Azure OpenAI Service"
+    excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness generative artificial intelligence (AI) and develop joint solutions to enable businesses to achieve better outcomes."
+    publishedDateTime: 2023-06-15T14:56:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 75
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/01/HCL-Canada.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rackspace takes a FAIR approach to generative AI"
     excerpt: "Rackspace offers new services to help organizations better understand, build and deploy generative AI workloads in public and private clouds."
     publishedDateTime: 2023-06-13T20:59:00Z
@@ -216,6 +232,24 @@ related:
     provider:
       name: techzine
       domain: techzine.eu
+    quality: 17
+  - title: "Generative AI is disrupting its own investment case"
+    excerpt: "The very pace of transformative technology makes it tougher for start-ups — and for existing investment portfolios"
+    publishedDateTime: 2023-06-15T12:32:00Z
+    webUrl: "https://www.ft.com/content/00f517b8-41e9-4405-9320-e0b19ac65e6b"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "Impact of generative AI on chatbots"
+    excerpt: "From cloud chaos to clarity.” Generative AI can enable chatbots to provide meaningful and relevant responses to users, but there are risks and challenges that must be considered when adopting it. Click here to continue."
+    publishedDateTime: 2023-06-15T13:05:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/15/1074743/impact-of-generative-ai-on-chatbots/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 17
 
 secured: "HfLtsKNHSV9Pwwg0ajwcAxrAs8BDgKXIRs78Nuuq0bx2Wv9hcwLNCowLTWfPHn2eGRntIFpBKA0MBbbMQPNLK/uljKIXk0bRjCECOTqjVgtMbE8Ph69rqLu7dOiXI1xtxNhOPUoEFiJS2Bx9mhein6eSFRdJbdclDyZgcwosA2F+ewK7DOm1cFyCV0p/EIMO5zNleZIeu6yshAByrSrF7f4qTCoUa/gk7qTIMZZNQ3akWeMm2k/dcldoI3VCfEfq87DQ23Q2oe6J01hk8oDqN0homhFK7KlcXEMkU7JaNMMwzcYEvYJqE7ZadWhDJ6P4uWQz7B0uEr6ImP1iULFmh+F2HyZaKJBNumITSynqCnayLsKsT88PR5MNGYbe2O6NWgZiFBRCQ6RNx/nP2Jkflwmh6j0+FI25kU9HA6zMlZd02o8oYMxzS6P9WycZg5ZxBG9EivJUoboG/3qP8KEUlc1j6DLQe6MxKhVJIF7+TAno8tHxD3FRqK5s083/Drl0tScXxUpftL3/+2/M4OAJCQ==;ej+TAdD2A3uALOYHU+fY1Q=="

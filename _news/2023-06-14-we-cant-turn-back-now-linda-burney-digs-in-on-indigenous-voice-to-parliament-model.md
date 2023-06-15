@@ -35,15 +35,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Politics Now: Linda Burney’s voice campaign hones in on past failings"
-    excerpt: "Indigenous Australians minister Linda Burney has begun to switch the focus of her campaign for the Indigenous voice to failed and contentious policies of the past."
-    publishedDateTime: 2023-06-10T21:38:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/politics-now-linda-burneys-voice-campaign-hones-in-on-past-failings/live-coverage/cc67f6bd21883dca4aaa851772cdf906"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "gVThpcl/jB+2LP4WNHjSAVGLmfG9ONGNJYEvR7a71EK7uMAis06o4OAYuSud9sS1zCJFppD9bMap15xyO5LxYX5ZipT7f8hpLGBvT2T2OqnqwddWQiMpmnZ3hn6D8MUPC+vy2C3P2qixXkd8nGGUS/VZ+nWb31hK2MplveLmrxiu4V0e24bC9aSqh4uyS0Mz1ohNWES0T4t8cwb/gV3c9qW8ClOaXIOhJUEd2QfO+EwoOfmhrayjL3xBvuONPQHTbMWmNrAcTOfGvUrIHSAw11JSQnxBnQnwm6jtTGuB4pqBRpGYNDVkqKXXS2EVm6cuv01X9SkxIkTcM7VFFM1gm0wZwML62srIPq0OAZXt37rmjedRZM9iRoLFaD23rbLYMtXwEpPb21HTwZ9OhD+urNiz9mxv+2BGBLAbqp0gbO0mG4SkvWZ4yEKKwoZ1oWKu9ALVR82u62XD/aGsAibyQ+OCHvyVdLzK5VjqfqEGVpfp3x8VscUV0fKYgaGg5/8z5GSVzyZxJeCqJKXAZJH5ZA==;hX/x9T7Ntr2P789ZQAPwew=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-benefits-of-automated-attack-surface-
 webUrl: "https://www.ibm.com/blog/the-benefits-of-automated-attack-surface-management/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "Asset management vs. parts inventory management: What’s the difference?"
+    excerpt: "Examining the differences between asset management and parts inventory management.\nThe post Asset management vs. parts inventory management: What’s the difference? appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-06-15T13:32:15Z
+    webUrl: "https://www.ibm.com/blog/asset-management-vs-parts-inventory-management/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
 
 secured: "FLqdsYDr1rL/wCE4sb3aB5LM8Z9mo1qBEY1L1FQEJ00CzpaectX2ekR0Opy7iUEJx84d5dcD8HEXO+dGjLL5WAGlF9tuK5XN/LqmsbxPgI2zpU1hZZ8cem/ajcY6uKTrh1Ry+PXkOL1/G95VQQyyR5dBTsDI/dWDeyPC9fpg3JOaSHf/UWMSU1yvQrY8f890tMd0hh+KYAsZKtpoaiyxkhmU+ybUaIFZC8JPcLkH4Bzr6YW5py4YcW7n4csGQMGECHPpzHDlmiOXL0JY7Oh24885SbbdW36LBMWeYzz0PDXjh1Wkbaj9wTiormbec2zC4a7WUvL0OAKFCB+dwqNSM9rsht3y/eWsaG0/BH/0v2M=;tPSZ0j19c+hHvJUTdAOzNg=="
 ---
