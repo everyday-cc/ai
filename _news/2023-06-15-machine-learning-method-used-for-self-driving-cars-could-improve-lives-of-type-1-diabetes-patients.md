@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2023-06-machine-learning-method-self-dri
 ampWebUrl: "https://medicalxpress.com/news/2023-06-machine-learning-method-self-driving-cars-type-.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-machine-learning-method-self-driving-cars-type-.amp"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-metho-3.jpg"
@@ -26,6 +27,6 @@ images:
     height: 1439
     isCached: true
 
-secured: "UxBU4MmIu72w0/f/d9zBaCSeeJPT2KIwX4PrMpLJpvyBp+YuQnkcxK3j/czypREeIpuHJ2U2cdX2gn4LPPJttlt6+lWLK3Rbq3RR1S/oXUiA8Ur7iHhEXYanng6LAipER8RkK5F72iN4QVn/O18ewkIkJ0kDMYlCGB0eyfhgcmj0WT4SP2E0zGbLPtZYSMYiZuD9itg9uYLP8ZeYijHZz7artibs/CAbPNB2ONRaFIn9CHuWwK+k7zjsVK4j0c2qsAluZz/ZJfNnflrKhLNXu39f0OL7fpah/T1hVfmKodmz+ol8ZCn9ggb0Gv3SXYB4XJrst+53vDqqc74FcpAIWTt+IlQeLMxxewId2dnmPU8=;WerqStC70QAhPWjNEJaIBg=="
+secured: "Q/cO2UPM3hcBiWxzi6uIbKqMVfmjxXdbaCjQZtwBtJV1gPuJjHQ+jaL0lnm+uq/6a3RV6vjkDT+jFf9fuwWNSpLDjQO697vM3OGexxOasuCPCMvvy4g1qacZVo3JKqjLlWxmelMOOCM6OIRSjz2mcT+H3bE2VDRkI95ts4T2EyoUbSRazYBhRRXk6tf8rWFgT7Xp2WweGr5W1Da6NifFnS58BKfb1nP/2VrZHVbZ4kClzkIvstP242c/v7uJnmH1CfZieyKYFV71UcFbIp/L36UWCQokgG5fyENfLHFeR4Y7mvKVggx1GNi+/30tpKZX2ZPmgtOgbIOhMpRsWBtTeLKSsXvlyICOOYKEpr4Vfo+yEkV+WXmf2r3Nd9UMm+1uK1EIGgBwX57p0m7KCYTUThkh6zlXI1DaxFS+2O7OLPk+INOtmdXYxxizOjhekuH1zYNcfI04t3Gztxe02xBGcI9lkRkge+Qx7CurhRuq3h+yxB0ngbSUFtKhUYidV0DvPcTDpS86CfKG5uXgeCZz+Q==;XTarNIWGzcg5o05Vzg1PEg=="
 ---
 

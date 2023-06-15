@@ -2,57 +2,6 @@
   "page": 53,
   "value": [
     {
-      "path": "_news/2023-05-10-in-turkey-a-modern-city-sits-alongside-a-mythical-site.md",
-      "title": "In Turkey, a modern city sits alongside a mythical site",
-      "excerpt": "Turkey, sits near the site of Truva, or ancient Troy. The archaeological site is said to have been where the mythical Trojan War took place. But historians say there is real history between Homer's epic poem,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/travel/article/canakkale-troy-turkey/index.html",
-      "originalUrl": "https://www.cnn.com/travel/article/canakkale-troy-turkey/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230510110102-trojan-horse-tz.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/travel/article/canakkale-troy-turkey/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/travel/article/canakkale-troy-turkey/index.html",
-      "publishedDateTime": "2023-05-10T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-10-learn-how-to-build-ai-powered-software-with-this-40-bundle.md",
       "title": "Learn how to build AI-powered software with this $40 bundle",
       "excerpt": "Discover how to code your own chatbots, run data analysis and even create games. This bundle includes Python and ChatGPT video courses.",
@@ -1197,6 +1146,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-deepmind-founder-says-governments-need-to-compensate-serious-number-of-losers-who-will-be-left-jobless-due-to-ai.md",
+      "title": "DeepMind founder says governments need to compensate 'serious number of losers' who will be left jobless due to AI",
+      "excerpt": "A co-founder of the AI company DeepMind has warned that governments will need to figure out a plan to compensate people who will lose their jobs to the new technology, the Financial Times reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5",
+      "originalUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/645b735f65a21600192fe3fd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-founder-universal-basic-income-needed-ai-job-losses-2023-5?amp",
+      "publishedDateTime": "2023-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

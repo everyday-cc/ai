@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "French Senate votes in favor of public facial recognition pilot"
+    excerpt: "The law will allow judicial investigators and intelligence services to use remote biometric identification in public for three years."
+    publishedDateTime: 2023-06-15T00:27:00Z
+    webUrl: "https://www.biometricupdate.com/202306/french-senate-votes-in-favor-of-public-facial-recognition-pilot"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "HED Receives National Recognition for Exemplary Engineering Achievement at ACEC's Engineering Excellence Awards"
     excerpt: "The ACEC Engineering Excellence Awards are among the most prestigious honors in the engineering industry, recognizing firms that demonstrate exceptional innovation, technical expertise, and engineering excellence."
     publishedDateTime: 2023-06-14T13:14:00Z

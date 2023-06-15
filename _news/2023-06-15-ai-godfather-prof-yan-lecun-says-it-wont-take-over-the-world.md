@@ -3,22 +3,18 @@ category: news
 title: "AI 'godfather' Prof Yan LeCun says it won't take over the world"
 excerpt: "In 2018 Prof LeCun won the Turing Award with Geoffrey Hinton and Yoshua Bengio for their breakthroughs in AI and all three became known as \"the godfathers of AI\"."
 publishedDateTime: 2023-06-14T23:02:00Z
-originalUrl: "https://www.bbc.com/news/technology-65886125"
-webUrl: "https://www.bbc.com/news/technology-65886125"
-ampWebUrl: "https://www.bbc.com/news/technology-65886125.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65886125.amp"
+originalUrl: "https://www.bbc.co.uk/news/technology-65886125?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/technology-65886125?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-65886125.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65886125.amp"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -29,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "YD0q35DExmSA6t1mzryGG6Sm/0xUvIF/4zlbvRosBxY4EsGHNwjRd1yZ0jbH8bc23Do2Pqs9cy01gmuRgIMVNuMiT90i0eup54E1LN8QXeO2l8cpnYIzv4jmd0O+VFPQguWoSkRyWx54bSOJPAj1cLtckD+ecq6blGzyYizDQ+LZsqE6UIMWYPV5nQxr5AXUBrohLDtMhJyaiJeKRSKNr/5+f3BCKyROLKzP47kebf9s8Z7xfWQRnjZkV+6qniPIGroe/dFQWuEjxpAv8/brRl4xRc/lFbk0dUgcMn0/eOfaEYL4/TWHCLA8vVQ9tCc9XB+KccfuXuD4fGR8P0UBGYlQa3Cn+Mlr1UBXfuStW7o=;DC2uKrlYmhhFLDRxA8+slw=="
+secured: "oGfBwpI1ZkTFD6ZZq0+HxgbtHcoImd4mgR3b3X/nRxeakQqJu9fR2eCqf4b/aJaq0fsSRbRqZTR/p8oT6qH9YqSpTLMHfE9drAZcCe78fw+Scl33DMQQjYmZ9CYJMQgDYM47+aNquVbaq6sX+mliUs2iU+VJ/p5Klwr7+wmH9ar+IjS62HuhOU7eo5y8qXJbijikVhpA7URUlcwJxjo+4eUs4enDTGu7S6KYGycSzXJNttqf36VdE5SUB5hTCXpghonfzZUiYlz9MTXIxE1Z8Brt6lkNHYja/+gRYEXK6HrPoMk6O3Lvwi57SpQJCTap0BCdS2LA5O0sOYnmjv/ZQWZQ6LNYimrOY+KwmpSi3VA=;GFXfEqZhE9+Gvm9SZHoTvQ=="
 ---
 

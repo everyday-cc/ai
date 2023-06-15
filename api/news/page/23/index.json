@@ -2,49 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2023-05-29-emerging-markets-report-the-art-of-artificial-intelligence.md",
-      "title": "Emerging Markets Report: The Art of Artificial Intelligence",
-      "excerpt": "An Emerging Markets Sponsored Commentary ORLANDO, Fla., May 29, 2023 (GLOBE NEWSWIRE) -- It will come as no surprise to even the most passive investor that the market is currently in a full-throated i",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32613230/emerging-markets-report-the-art-of-artificial-intelligence",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32613230/emerging-markets-report-the-art-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32613230",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32613230",
-      "publishedDateTime": "2023-05-29T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-29-self-administered-smartphone-speech-app-may-spot-alzheimers-early-on.md",
       "title": "Self-administered smartphone speech app may spot Alzheimer’s early on",
       "excerpt": "Researchers have developed a self-administered smartphone app to screen for neurodegenerative conditions like Alzheimer’s disease and mild cognitive impairment by analyzing speech patterns. With subtle speech disturbances being an early indicator of these conditions,",
@@ -1182,6 +1139,57 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-12-companies-racing-to-create-ai-deepfake-detectors.md",
+      "title": "12 Companies Racing to Create AI Deepfake Detectors",
+      "excerpt": "Startups and tech giants alike are racing to create deepfake detection devices to try and prevent a surge in AI-generated disinformation in the age of ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/chatgpt-ai-12-companies-deepfake-video-image-detectors-1850480813",
+      "originalUrl": "https://gizmodo.com/chatgpt-ai-12-companies-deepfake-video-image-detectors-1850480813",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/414bba2390ff85756caf600794835a5b.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/breakthrough-ai-research-lunit-pr
 webUrl: "https://www.asiaone.com/business/breakthrough-ai-research-lunit-presented-cvpr-2023-transforming-pathology-computer-vision"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -23,42 +23,6 @@ images:
     width: 600
     height: 316
     isCached: true
-
-related:
-  - title: "Global Composite AI Market Report 2023: Growing Intricacy of AI Applications for Better Performance and Accuracy Drives Growth"
-    excerpt: "The composite AI market is estimated to grow from USD 0.9 billion in 2023 to USD 4.4 billion by 2028, at a CAGR of 36.5% during the forecast period."
-    publishedDateTime: 2023-06-13T01:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32828651/global-composite-ai-market-report-2023-growing-intricacy-of-ai-applications-for-better-performance"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32828651"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32828651"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Global Janitorial Services Market Report 2023: Growing Demand for the Real Estate Industry Fuels the Sector"
-    excerpt: "The \"Janitorial Services Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
-    publishedDateTime: 2023-06-13T17:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32842253/global-janitorial-services-market-report-2023-growing-demand-for-the-real-estate-industry-fuels-th"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-  - title: "Global Neural Network Software Market Report 2023: Rising Demand for Digitalization is Expected to Propel Growth"
-    excerpt: "This report provides strategists, marketers and senior management with the critical information they need to assess the neural network software market. The global neural network software market is expected to grow from $21."
-    publishedDateTime: 2023-06-14T23:25:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/14/9833056.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "gzwZac8PGwfbJfLhe7NC2YGPUujsg+5WJx8nOVhSRLXBsPqF0bDvUpf3pLUn034O/dvtFcvvsx7oo51Wvg5G0i6vtbI1tFMFSWAfCDU6xwFAj3B7/abCV9FxSI6g2M/BHVpaIYAcZZ8Gc3FjWjb2PTVFJM1TwO1IPcwaA+0TZjCBLLCvNVlQ6QS0ElYg+Sz1nPHCSfS2UKQs2IPBQwMCcOLU53PVaA5A1hlEwhakxsjvwdiei2EgeXn3ScVs+Kd/q767uMrnSlO0gp3JNKh9K5EstPwRALHp24yBrRb8nxY+/fkLxcINvqe8p8eReStT+IN1V6OiVPeyFTT56cVfuaOdrps5MT0Gz7RKiAgH3vtWhWf2+/tEzORLX11v11OqFHAGpCIaa/W+NW6spN0VFXon4etM3+aMmzOi7RrCrs7lvNvms/c0nrBmZGURZRJVAgW3Ez9QDkRs24ffybE3rj083EoGUyA/fYH3sPq9rHgqiNCzlgghcwE0KgZzLugjENWas5zKWxUYJaKCNHTUnQ==;IXmc3/KGPT7CKQAIxCh6Dg=="
 ---

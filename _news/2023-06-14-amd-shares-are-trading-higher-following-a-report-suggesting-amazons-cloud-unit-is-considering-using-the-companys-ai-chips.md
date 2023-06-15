@@ -85,20 +85,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AMD Eyes AI, Cloud Expansion With Instinct MI300X, EPYC 97X4 Chips"
-    excerpt: "AMD is taking aim at Nvidia for running large language models with its upcoming Instinct MI300X GPU while targeting cloud workloads with its new EPYC 97X4 Bergamo CPUs."
-    publishedDateTime: 2023-06-13T20:36:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/amd-eyes-ai-cloud-expansion-with-instinct-mi300x-epyc-97x4-chips"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 56
-    images:
-      - url: "https://www.crn.com/resources/0282-183fb0570bbb-6da6e9757d14-1000/amd_instinct.png"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AMD to ramp up AI chip production this year"
     excerpt: "and a key performance measure for how well the chip will handle the large AI systems behind services similar to ChatGPT. \"There's no question that AI will be the key driver of silicon consumption for the foreseeable future,\" Su said. Su said customers will ..."
     publishedDateTime: 2023-06-14T05:39:00Z
@@ -151,6 +137,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/20220802075518_aws-sign-summit.jpg"
         width: 610
         height: 457
+        isCached: true
+  - title: "AMD stock price rises as Amazon considers buying new AI chip, report says"
+    excerpt: "Advanced Micro Devices Inc., (AMD) shares rose at pre-market on Wednesday, after there was a report that Amazon Inc. might buy its newest AI chip. There was a decline on Tuesday after a presentation by the company which unveiled its new AI chip."
+    publishedDateTime: 2023-06-15T00:33:00Z
+    webUrl: "https://www.cweb.com/amd-stock-price-rises-as-amazon-considers-buying-new-ai-chip-report-says/"
+    type: article
+    provider:
+      name: cweb
+      domain: cweb.com
+    quality: 53
+    images:
+      - url: "https://cwebdotcom.b-cdn.net/wp-content/uploads/2023/06/timothy-dykes-nWgpCe-LQa4-unsplash-scaled.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AMD says Meta is using its cloud chip as it rolls out AI strategy update"
     excerpt: "Advanced Micro Devices said on Tuesday that companies such as Facebook parent Meta Platforms are ordering high volumes of a new central processor, as investors were anxious for updates on a different new chip that is designed specifically for artificial intelligence systems like ChatGPT."

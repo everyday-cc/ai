@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2884f530-078b-11ee-8d81-e0eaecec6481.jpg?crop=8256%2C4644%2C0%2C430&resize=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "French Senate votes in favor of public facial recognition pilot"
+    excerpt: "The law will allow judicial investigators and intelligence services to use remote biometric identification in public for three years."
+    publishedDateTime: 2023-06-15T00:27:00Z
+    webUrl: "https://www.biometricupdate.com/202306/french-senate-votes-in-favor-of-public-facial-recognition-pilot"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
   - title: "Breaking news. MEPs endorse blanket ban on facial recognition in public spaces, rejecting targeted exemptions"
     excerpt: "The debate has been inevitably shaped by developments in China, where the Communist Party has rolled out a massive, sophisticated network of facial recognition cameras to monitor the country's population."

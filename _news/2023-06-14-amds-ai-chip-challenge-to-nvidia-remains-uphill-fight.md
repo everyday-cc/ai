@@ -211,6 +211,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 54
+  - title: "AMD’s AI chip challenge to Nvidia remains uphill task"
+    excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know – who plans to buy it."
+    publishedDateTime: 2023-06-15T01:16:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/06/15/amds-ai-chip-challenge-to-nvidia-remains-uphill-task"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/15/2126711.jpeg"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "As AMD Seeks to Slash Nvidia's AI Lead, Here's What Traders Need to Know"
     excerpt: "AMD introduced the firm's Ryzen PRO 7040 Series Mobile processors. These processors bring advanced 'Zen 4' performance and a dedicated Ryzen AI engin"
     publishedDateTime: 2023-06-14T14:19:00Z

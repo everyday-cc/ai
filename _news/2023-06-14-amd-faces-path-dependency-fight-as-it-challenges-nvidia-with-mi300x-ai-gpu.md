@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AMD's take on AI: Instinct MI300X combines GPU cores with 192 GB of HBM3 memory"
+    excerpt: "Up until now, the big winner in the generative AI GPU game has been Nvidia, thanks to a combination of strong hardware and a large installed"
+    publishedDateTime: 2023-06-14T18:04:00Z
+    webUrl: "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 82
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-14-image-29.jpg"
+        width: 2098
+        height: 1440
+        isCached: true
   - title: "AMD launches new Instict MI300X AI chip to take on Nvidia’s GPUs"
     excerpt: "During a keynote speech, AMD Chair and Chief Executive Lisa Su announced the company’s new Instinct MI300X accelerator, which is targeted specifically at generative AI workloads. Generative AI is the technology that underpins OpenAI’s famed chatbot ChatGPT,"
     publishedDateTime: 2023-06-14T01:47:00Z
@@ -39,22 +53,6 @@ related:
         width: 687
         height: 371
         isCached: true
-  - title: "AMD Unleashes EPYC Bergamo And Genoa-X Data Center CPUs, AI-Ready Instinct MI300X GPUs"
-    excerpt: "AMD has announced the next flavors of 4th Gen EPYC, Genoa-X and Bergamo. Genoa-X uses 3D V-Cache to boost technical computing workloads, while Bergamo has a slimmer, scaled out approach to accelerate cloud native workloads."
-    publishedDateTime: 2023-06-13T23:08:00Z
-    webUrl: "https://hothardware.com/news/amd-epyc-bergamo-genoa-x-instinct-mi300x"
-    ampWebUrl: "https://amp.hothardware.com/news/amd-epyc-bergamo-genoa-x-instinct-mi300x"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-epyc-bergamo-genoa-x-instinct-mi300x"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 66
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61835/content/small_amd-bergamo-hero.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "AMD's take on AI: Instinct MI300X combines CPU, GPU, and 192 GB of HBM3 memory"
     excerpt: "TechSpot means tech analysis and advice you can trust. The big picture: One of the most undisputed beneficiaries of the generative AI phenomenon has been the GPU, a chip that first made its mark as a graphics accelerator for gaming. As it happens ..."
     publishedDateTime: 2023-06-14T18:08:00Z
@@ -64,49 +62,35 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 60
-  - title: "AMD reveals new A.I. chip challenging Nvidia's dominance"
-    excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday, June 13, gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp. The California-based AMD said its most-advanced graphics processing unit (GPU) for AI ..."
-    publishedDateTime: 2023-06-14T09:41:00Z
-    webUrl: "https://cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance"
-    ampWebUrl: "https://cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance/amp"
+  - title: "The Third Time Charm Of AMD’s Instinct GPU"
+    excerpt: "The great thing about the Cambrian explosion in compute that has been forced by the end of Dennard scaling of clock frequencies and Moore’s Law lowering"
+    publishedDateTime: 2023-06-14T05:43:00Z
+    webUrl: "https://www.nextplatform.com/2023/06/14/the-third-time-charm-of-amds-instinct-gpu/"
+    ampWebUrl: "https://www.nextplatform.com/2023/06/14/the-third-time-charm-of-amds-instinct-gpu/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/14/the-third-time-charm-of-amds-instinct-gpu/amp/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
+      name: The Next Platform
+      domain: nextplatform.com
     quality: 59
     images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/7c1f330a-757a-42bd-a5d2-ce768bc15a4b.jpg"
-        width: 740
-        height: 492
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/06/amd-mi300a-die-package-shot-updated.jpg"
+        width: 999
+        height: 731
         isCached: true
-  - title: "Google Launches AI Supercomputer Powered By Nvidia H100 Gpus"
-    excerpt: "By integrating Nvidia's cutting-edge NVIDIA H100 Tensor Core GPU into its supercomputer infrastructure, Google aims to accelerate the development and deployment of advanced AI models and algorithms. The H100 GPUs, renowned for their exceptional performance ..."
-    publishedDateTime: 2023-06-13T07:40:00Z
-    webUrl: "https://menafn.com/1106429818/Google-Launches-AI-Supercomputer-Powered-By-Nvidia-H100-Gpus"
+  - title: "AMD Eyes AI, Cloud Expansion With Instinct MI300X, EPYC 97X4 Chips"
+    excerpt: "AMD is taking aim at Nvidia for running large language models with its upcoming Instinct MI300X GPU while targeting cloud workloads with its new EPYC 97X4 Bergamo CPUs."
+    publishedDateTime: 2023-06-13T20:36:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/amd-eyes-ai-cloud-expansion-with-instinct-mi300x-epyc-97x4-chips"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
+      name: CRN
+      domain: crn.com
+    quality: 56
     images:
-      - url: "https://menafn.com/updates/pr/2023-06/13/F_f7d31image_story.JPG"
-        width: 964
-        height: 492
-        isCached: true
-  - title: "AMD unveils new A.I. chip to rival Nvidia"
-    excerpt: "AMD reveals the MI300X chip that supports up to 192GB of memory. Scott Nations still cautions against buying AMD shares at current price."
-    publishedDateTime: 2023-06-13T20:11:00Z
-    webUrl: "https://invezz.com/news/2023/06/13/amd-mi300x-ai-chip-to-rival-nvidia/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 39
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/06/krzysztof-hepner-60g-xu5-zfk-unsplash-min-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.crn.com/resources/0282-183fb0570bbb-6da6e9757d14-1000/amd_instinct.png"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "SaTVpavaiSMAhqEDyQQ4b2QMTgQceqCX5HbDcVgG87NRhMm2HN7NTWDSPKnEPKdJJOp03pWyMy9FkrGskQ1Vf6FmGTCI5VKVVXihfFPmYE3fj61RzbgCmNMsaXq+053d1nbvjRBhxrND/ae7m/yc+CbAWaV6mN2SZxcGan3SlK0lZA218C6pRffQiCV7araGKl4SXAJqcUPjFxGkdsAH1Oi6xrf2eeWkk01WmbkglUnXS+hfaS/2ODD8wGxL0Tzx5MZL9Y11UlGZYb58rWagOb+YXUDPSE7KQtUOFLPUuKLt6u59YQP69VC5bD0HdZYAJbQ509iTHH8Hk6VSZhLlpczS7xKAeOvfyEItFq3oY4zQ6WnSvcEbqNyF8VIGmpcWiyPA5pm8MAtMLxObx9j5vbYPmxIYKDNzftg3HshjCXkJOYdcyuvDIhSyuPRimz+1lOjBAox6xALI1xaXfktJok+JMGeSgML7Flb5w+UeMht0vDuBrbFU9IvrGF0cnDxaV4qnfmc2JqYRYHubVi+L9w==;6gBMTylpmt80Bzt6WMsvkA=="

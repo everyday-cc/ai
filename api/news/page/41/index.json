@@ -2,49 +2,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_news/2023-05-17-gimmick-or-innovation-self-driving-bus-starts-taking-passengers-in-uk-trial.md",
-      "title": "Gimmick or innovation? Self-driving bus starts taking passengers in U.K. trial",
-      "excerpt": "EDINBURGH, Scotland — Organizers are calling it a first for autonomous transportation: computer-driven buses operating on a real route with real passengers navigating through real traffic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/self-driving-bus-starts-taking-passengers-uk-first-rcna84386",
-      "originalUrl": "https://www.nbcnews.com/news/world/self-driving-bus-starts-taking-passengers-uk-first-rcna84386",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230515-autonomous-bus-mb-1417-a68ffd.jpg",
-          "width": 3994,
-          "height": 2663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna84386",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna84386",
-      "publishedDateTime": "2023-05-16T17:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-17-dataai-mobile-game-app-revenue-split-evenly-between-ads-iap.md",
       "title": "Data.ai: Mobile game app revenue split evenly between ads, IAP",
       "excerpt": "Data.ai's total app revenue metric shows monetization trends for games and other apps. Mobile game spend is split between ad spend and IAP.",
@@ -1190,6 +1147,40 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt.md",
+      "title": "COMPASS DATACENTERS' \"HORIZONS\" VIDEO SERIES EXPLORES NATURAL LANGUAGE PROCESSING AND CHATGPT",
+      "excerpt": "Lev Lesokhin, Technology Product Strategist, discusses the rise of natural language processing (NLP) and ChatGPT. Lesokhin discusses NLP's future and the impact of ChatGPT on our job market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt/article_3af3cc14-3370-56ea-955b-c7e0bffd03f3.html",
+      "originalUrl": "https://www.victoriaadvocate.com/compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt/article_3af3cc14-3370-56ea-955b-c7e0bffd03f3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

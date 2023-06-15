@@ -579,49 +579,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-14-amd-launches-new-instict-mi300x-ai-chip-to-take-on-nvidias-gpus.md",
-      "title": "AMD launches new Instict MI300X AI chip to take on Nvidia’s GPUs",
-      "excerpt": "During a keynote speech, AMD Chair and Chief Executive Lisa Su announced the company’s new Instinct MI300X accelerator, which is targeted specifically at generative AI workloads. Generative AI is the technology that underpins OpenAI’s famed chatbot ChatGPT,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/06/13/amd-launches-new-instict-mi300x-ai-chip-to-take-on-nvidias-gpus/",
-      "originalUrl": "https://siliconangle.com/2023/06/13/amd-launches-new-instict-mi300x-ai-chip-to-take-on-nvidias-gpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image_2023-06-14_084033192.png",
-          "width": 687,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T18:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-14-ai-x-blockchain-the-next-level.md",
       "title": "AI x Blockchain: The Next Level",
       "excerpt": "Our conversation threaded many themes, from how blockchain can accelerate AI development to the complexities of working with blockchain data and the promise of large",
@@ -784,7 +741,7 @@
       "originalUrl": "https://www.zdnet.com/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1138,7 +1095,7 @@
       "originalUrl": "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1230,6 +1187,57 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-accenture-announces-jaw-dropping-3-billion-investment-in-ai.md",
+      "title": "Accenture announces jaw-dropping $3 billion investment in AI",
+      "excerpt": "Accenture said it will double the size of its Data & AI practice from 40,000 at present to 80,000 through a combination of hiring, training",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/",
+      "originalUrl": "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_stacks_of_dollar_bills_and_golden_coins_rise_into_the_s_cc2ae09e-3f57-4126-8542-b93587a347b3.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

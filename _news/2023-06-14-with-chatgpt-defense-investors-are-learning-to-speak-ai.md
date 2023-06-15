@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-def
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/amp/"
 type: article
 quality: 91
-heat: 291
+heat: 281
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/ai_church_hero_3-800x450.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Bank Customers Aren't Happy With AI Chatbots. Here's Why"
-    excerpt: "Banks are implementing AI chatbots in their customer relations operations, but the Consumer Financial Protection Bureau says some bots are causing frustrations."
-    publishedDateTime: 2023-06-10T08:15:00Z
-    webUrl: "https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
-    images:
-      - url: "https://www.cnet.com/a/img/resize/2dc3500f203ced9cff4738727c8a636b25abb1a6/hub/2022/12/10/f740691c-a2e7-4119-9d71-bd37ced7afbb/chatgpt-chatbot-art.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Samsung Electronics to adopt own AI amid ChatGPT security concerns"
     excerpt: "Samsung Electronics plans to introduce a customized artificial intelligence (AI) service for knowledge search, translation and summarization this year as concerns over the possible leakage of key technological information enabled by ChatGPT are rising."

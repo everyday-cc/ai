@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106429818/Google-Launches-AI-Supercomputer-Pow
 webUrl: "https://menafn.com/1106429818/Google-Launches-AI-Supercomputer-Powered-By-Nvidia-H100-Gpus"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,91 +23,6 @@ images:
     width: 964
     height: 492
     isCached: true
-
-related:
-  - title: "AMD launches new Instict MI300X AI chip to take on Nvidia’s GPUs"
-    excerpt: "During a keynote speech, AMD Chair and Chief Executive Lisa Su announced the company’s new Instinct MI300X accelerator, which is targeted specifically at generative AI workloads. Generative AI is the technology that underpins OpenAI’s famed chatbot ChatGPT,"
-    publishedDateTime: 2023-06-14T01:47:00Z
-    webUrl: "https://siliconangle.com/2023/06/13/amd-launches-new-instict-mi300x-ai-chip-to-take-on-nvidias-gpus/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 69
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image_2023-06-14_084033192.png"
-        width: 687
-        height: 371
-        isCached: true
-  - title: "AMD Unleashes EPYC Bergamo And Genoa-X Data Center CPUs, AI-Ready Instinct MI300X GPUs"
-    excerpt: "AMD has announced the next flavors of 4th Gen EPYC, Genoa-X and Bergamo. Genoa-X uses 3D V-Cache to boost technical computing workloads, while Bergamo has a slimmer, scaled out approach to accelerate cloud native workloads."
-    publishedDateTime: 2023-06-13T23:08:00Z
-    webUrl: "https://hothardware.com/news/amd-epyc-bergamo-genoa-x-instinct-mi300x"
-    ampWebUrl: "https://amp.hothardware.com/news/amd-epyc-bergamo-genoa-x-instinct-mi300x"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-epyc-bergamo-genoa-x-instinct-mi300x"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 66
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61835/content/small_amd-bergamo-hero.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "AMD's take on AI: Instinct MI300X combines CPU, GPU, and 192 GB of HBM3 memory"
-    excerpt: "TechSpot means tech analysis and advice you can trust. The big picture: One of the most undisputed beneficiaries of the generative AI phenomenon has been the GPU, a chip that first made its mark as a graphics accelerator for gaming. As it happens ..."
-    publishedDateTime: 2023-06-14T18:08:00Z
-    webUrl: "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 60
-  - title: "AMD reveals new A.I. chip challenging Nvidia's dominance"
-    excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday, June 13, gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp. The California-based AMD said its most-advanced graphics processing unit (GPU) for AI ..."
-    publishedDateTime: 2023-06-14T09:41:00Z
-    webUrl: "https://cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance"
-    ampWebUrl: "https://cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/7c1f330a-757a-42bd-a5d2-ce768bc15a4b.jpg"
-        width: 740
-        height: 492
-        isCached: true
-  - title: "AMD faces path dependency fight as it challenges Nvidia with MI300X AI GPU"
-    excerpt: "Advanced Micro Devices Inc. (AMD) on June 13 revealed its most-advanced GPU for artificial intelligence (AI), the MI300X, trying to get a bigger bite of the pie of the GPU market that has been dominated by Nvidia."
-    publishedDateTime: 2023-06-14T07:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20230614VL207/commentary-ai-gpu-amd-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 52
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230614vl207_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "AMD unveils new A.I. chip to rival Nvidia"
-    excerpt: "AMD reveals the MI300X chip that supports up to 192GB of memory. Scott Nations still cautions against buying AMD shares at current price."
-    publishedDateTime: 2023-06-13T20:11:00Z
-    webUrl: "https://invezz.com/news/2023/06/13/amd-mi300x-ai-chip-to-rival-nvidia/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 39
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/06/krzysztof-hepner-60g-xu5-zfk-unsplash-min-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "6y7ndEa0xn3pxDl3CNSAk8hqTVNprZcuRUHo2IAYJ/E9lqMTc7wRl1dJR3jR8aZjTYgiICL/dmlWy36M6ouja7NzJzHTonuL0saz+GDec/VJgU9K300Wodt1YWEErQa7jUGuoAqBHFLMU0GHvdFin6xsiD2zeDtkEBrC6Go0uHCaKfsni/dtfxLPDkrupCk5n/JGIgfDXr2HohBhjMZILN0TSyDGGsZvrhNG9L+CdTgyEhhF/jx1bWtQZdPltUHt6EI/B5DUv81u31ZIvhleK1tCw1PLqHs9i0Q+PAMlDX8r4igF9l6QM05Ql0FrhcwS1Pt9hLSZUb28Hktpc1IPhxjcKfMpuIjNYJI9TT8gzZ8=;atFciiNPcFfCk4o/kmPsJg=="
 ---

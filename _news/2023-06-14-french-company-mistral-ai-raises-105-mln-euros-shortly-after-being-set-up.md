@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/french-company-mistral-ai-raise
 webUrl: "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/"
 type: article
 quality: 66
-heat: 79
+heat: 76
 published: true
 
 provider:

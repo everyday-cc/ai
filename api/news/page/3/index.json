@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-06-13-accenture-announces-jaw-dropping-3-billion-investment-in-ai.md",
-      "title": "Accenture announces jaw-dropping $3 billion investment in AI",
-      "excerpt": "Accenture said it will double the size of its Data & AI practice from 40,000 at present to 80,000 through a combination of hiring, training",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/",
-      "originalUrl": "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_stacks_of_dollar_bills_and_golden_coins_rise_into_the_s_cc2ae09e-3f57-4126-8542-b93587a347b3.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-13-paul-mccartney-ai-has-enabled-a-final-beatles-song.md",
       "title": "Paul McCartney: AI has enabled a “final” Beatles song",
       "excerpt": "BBC Radio 4's Today program aired an interview with Paul McCartney in which he announced that thanks to AI technology, a \"final Beatles record\" has been finished and will be released later this year.",
@@ -892,7 +841,7 @@
       "originalUrl": "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -935,7 +884,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 282,
+      "heat": 292,
       "tags": null,
       "images": [
         {
@@ -1232,6 +1181,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-with-52-of-atts-traffic-drivenets-aims-at-ai-networking.md",
+      "title": "With 52% Of AT&T’s Traffic, DriveNets Aims At AI Networking",
+      "excerpt": "DriveNets aims to capture a chunk of the market for AI networks that train and operate large language models like ChatGPT",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/06/12/with-52-of-atts-traffic-drivenets-aims-at-ai-networking/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/06/12/with-52-of-atts-traffic-drivenets-aims-at-ai-networking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6486104a1b90265922d8baa2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/06/12/with-52-of-atts-traffic-drivenets-aims-at-ai-networking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/06/12/with-52-of-atts-traffic-drivenets-aims-at-ai-networking/amp/",
+      "publishedDateTime": "2023-06-12T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/tiktoks-new-script-generato
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

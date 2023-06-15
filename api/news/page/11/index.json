@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2023-06-06-japan-eyes-labor-market-reform-focuses-on-ai-chips-to-drive-growth.md",
-      "title": "Japan eyes labor market reform, focuses on AI, chips to drive growth",
-      "excerpt": "The government said Tuesday it will aim to close wage gaps between Japan and other countries and attract more foreign talent while de",
-      "sourceUrl": null,
-      "webUrl": "https://mainichi.jp/english/articles/20230606/p2g/00m/0na/037000c",
-      "originalUrl": "https://mainichi.jp/english/articles/20230606/p2g/00m/0na/037000c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mainichi.jp/vol1/2023/06/06/20230606p2g00m0na036000p/0c10.jpg?1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "毎日新聞",
-        "domain": "mainichi.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-06-nigerian-fg-to-install-facial-recognition-technology-at-airports.md",
       "title": "Nigerian FG to install facial recognition technology at airports",
       "excerpt": "The initial project phase includes Lagos and Abuja international airports, but will be extended to other airports, including Port Harcourt, Enugu and Kano.",
@@ -1165,6 +1122,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-artificial-intelligence-is-getting-regulated.md",
+      "title": "Artificial Intelligence Is Getting Regulated",
+      "excerpt": "Like any new innovation or product, there is an accompanying concern over how the use of artificial intelligence may affect people. There have been calls for regulation in response to privacy, copyright infringement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647e0286dd32a0292ad81907/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/",
+      "publishedDateTime": "2023-06-05T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Global Neural Network Software Market Report 2023: Rising Demand for Digitalization is Expected to Propel Growth"
+    excerpt: "The \"Neural Network Software Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
+    publishedDateTime: 2023-06-14T23:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32866210/global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32866210"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32866210"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Global Composite AI Market Report 2023: Growing Intricacy of AI Applications for Better Performance and Accuracy Drives Growth"
     excerpt: "The composite AI market is estimated to grow from USD 0.9 billion in 2023 to USD 4.4 billion by 2028, at a CAGR of 36.5% during the forecast period."
     publishedDateTime: 2023-06-13T01:29:00Z
@@ -35,29 +51,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Breakthrough AI Research by Lunit Presented at CVPR 2023: Transforming Pathology with Computer Vision for Medical Applications"
-    excerpt: "Lunit's pioneering AI study to be unveiled at one of the premier computer vision conferences, innovating pathology with more accurate cell detection SEOUL, South Korea, June 12,"
-    publishedDateTime: 2023-06-12T13:00:00Z
-    webUrl: "https://www.asiaone.com/business/breakthrough-ai-research-lunit-presented-cvpr-2023-transforming-pathology-computer-vision"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 26
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/pr-newswire_500_4_709.jpg?h=7de12b8a&itok=5LJR__X1"
-        width: 600
-        height: 316
-        isCached: true
-  - title: "Global Neural Network Software Market Report 2023: Rising Demand for Digitalization is Expected to Propel Growth"
-    excerpt: "This report provides strategists, marketers and senior management with the critical information they need to assess the neural network software market. The global neural network software market is expected to grow from $21."
-    publishedDateTime: 2023-06-14T23:25:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/14/9833056.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "z2i6qUMlBJDg5yMzJYcBGutGa9IVN3LRnh8LxqEXO94RKsyw9Og066W8twP947nPpLekExT86bvj2gxgS4w0sFUUHvvEyUaYDbCiFHmePqUWfOix7IbtvJUC1aQBLTyk8ftm7otmKtbTA6/hu0MDv4fPT6u7bRVpMIPaxZmjh/2uC7x49ledS17JDW9Y6pPUwqfOhGVwU9YrXceJQY7aRX3Cdy9psVbGuGviofijdYRPEinQm8V8AXWpraL5bALTUvDf9/MpQ2XALFNjoVqChriQ4zt99x7kVUTgp5EHzX8m6MRo8ZsC4wUTDenjep4U8DZsIlUQTSQt6CE3kUZP0EMno2Av7JO8pWYALtwS8oM=;kScDXrRVa1+zNYbowse7qQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32828651"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32828651"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Breakthrough AI Research by Lunit Presented at CVPR 2023: Transforming Pathology with Computer Vision for Medical Applications"
-    excerpt: "Lunit's pioneering AI study to be unveiled at one of the premier computer vision conferences, innovating pathology with more accurate cell detection SEOUL, South Korea, June 12,"
-    publishedDateTime: 2023-06-12T13:00:00Z
-    webUrl: "https://www.asiaone.com/business/breakthrough-ai-research-lunit-presented-cvpr-2023-transforming-pathology-computer-vision"
+  - title: "Global Neural Network Software Market Report 2023: Rising Demand for Digitalization is Expected to Propel Growth"
+    excerpt: "The \"Neural Network Software Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
+    publishedDateTime: 2023-06-14T23:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32866210/global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32866210"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32866210"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 26
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/pr-newswire_500_4_709.jpg?h=7de12b8a&itok=5LJR__X1"
-        width: 600
-        height: 316
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Global Janitorial Services Market Report 2023: Growing Demand for the Real Estate Industry Fuels the Sector"
     excerpt: "The \"Janitorial Services Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
@@ -49,15 +51,6 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 0
-  - title: "Global Neural Network Software Market Report 2023: Rising Demand for Digitalization is Expected to Propel Growth"
-    excerpt: "This report provides strategists, marketers and senior management with the critical information they need to assess the neural network software market. The global neural network software market is expected to grow from $21."
-    publishedDateTime: 2023-06-14T23:25:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/14/9833056.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 0
 
 secured: "GvA9vg+fCH5hACvv1qTdufCdBRGxP4Tkkxlx+tZoUuiY64gscVOOVeLkNn9FsmsMVD4+73D/Aeybo38cfuEusYhOeFjb++R0jZ/Z83/UCi+1tZoOX2TbUC3KL0ocvTLuAUFzIsmPXHApoqEssfBHuhCdRPq5GVV7s5OAdGi0KyP1ZqTFGZGq1gz78AmBg63Joij+pKPcTD10yvhW8U2Eczd9z+bdtx1+1euPmSddt3gxNvCfjtV5HPbFmm/1YQyieNElJQ+1Lr8TFw+7fGTe6OgXVV+PCrQHo/w6DMvd3n/gCQ8Rg+Jlp6elOAPTqG0D2rbwNdRml9ZNZDnPjxbeO7y5K54zaLYTXkK3tetz2WA=;iRS5q97bl+ziNs2LPo18HA=="

@@ -2,57 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2023-06-05-artificial-intelligence-is-getting-regulated.md",
-      "title": "Artificial Intelligence Is Getting Regulated",
-      "excerpt": "Like any new innovation or product, there is an accompanying concern over how the use of artificial intelligence may affect people. There have been calls for regulation in response to privacy, copyright infringement,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647e0286dd32a0292ad81907/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/",
-      "publishedDateTime": "2023-06-05T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-05-tsa-expands-controversial-facial-recognition-program.md",
       "title": "TSA expands controversial facial recognition program",
       "excerpt": "At 25 airports in the U.S. and Puerto Rico, the TSA is expanding a controversial digital identification program that uses facial recognition. This comes as the TSA and other divisions of Homeland ...",
@@ -1211,6 +1160,40 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-rishi-sunak-to-lobby-joe-biden-for-uk-leadership-role-in-ai-development.md",
+      "title": "Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development",
+      "excerpt": "Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development on facebook (opens in a new window) Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/7c30ea28-2895-44c2-9a2d-c31ea7fa27e7",
+      "originalUrl": "https://www.ft.com/content/7c30ea28-2895-44c2-9a2d-c31ea7fa27e7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],
