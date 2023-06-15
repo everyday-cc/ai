@@ -1,21 +1,29 @@
 ---
 category: news
 title: "How Europe is leading the world in the push to regulate AI"
-excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle."
-publishedDateTime: 2023-06-14T06:15:00Z
-originalUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/"
-webUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/"
+excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle"
+publishedDateTime: 2023-06-14T06:22:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
+webUrl: "https://abcnews.go.com/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
+    isCached: true
 
 related:
   - title: "EU moves ahead with draft law to regulate AI"
@@ -110,6 +118,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Battle over facial recognition as EU makes groundbreaking AI law"
+    excerpt: "Israeli authorities have put in place facial recognition to surveil Palestinians in occupied East Jerusalem, says Amnesty International, which also says products made in the EU have been used in China for the surveillance of Uighurs and other minorities."
+    publishedDateTime: 2023-06-15T04:00:00Z
+    webUrl: "https://www.irishtimes.com/world/europe/2023/06/15/battle-over-facial-recognition-as-eu-makes-groundbreaking-ai-law/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 54
+    images:
+      - url: "https://www.irishtimes.com/resizer/N28yYtQ-P22iupGeRH47u30PbJc=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BSCJH3QY3CMOJM7BKW55UXYMM4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "EU lawmakers pass landmark artificial intelligence regulation"
     excerpt: "The European Union's AI Act is the first comprehensive set of regulations for the artificial intelligence industry."
     publishedDateTime: 2023-06-14T11:44:00Z
@@ -147,6 +169,6 @@ related:
       domain: popsci.com
     quality: 17
 
-secured: "XjoGppXiwVkn8oTdrtkirBtqdN/C+DcxQ3bfrAnjwxEEQVrA/dUgBR1phb70YmQNRGHcVa75f/+wkzBWf5szqNpx/OW6U21pgVhivsQGYzjtaq+0tNRx+2LTl9yb7IIYXMd0nfRTSSHULQEeIPzBCEpyKdpg+xlKp0Av7UNSGm/86orYjYkVZSA2MbOqDVptiJnnDYZWniuPrf7dmeW4q9F2+apr9+CUbXgxw+sSz/cA0kxBUd1/jkLSpOfsm9q67RP5OvIcyk4SD3aBS21mOzOL3VkakSYuC+71VkzEFH/L77B/Lq1XuPt5GPjgBQ8EQ2eVvvSaoREk6ejeWKJK1tw2TfVp0R6YWdJdVvnhHQBS1DU1ykyizrdwtwUfytuk/AjOskCTdA4UTepFCuP+auv0HZmjpa+sYG+7Kz5OLcB1yuoTlQTbyImZmNI3moxDN2NwbX9h2aRGcbvRVXnPBkeOtSNbdx2Zd/1q43qit+OLnt9JTqPx90vaw0fHGEsvoebsxzJkHmctrZYQFGw+pA==;qldiFjpWItHbM+xRZZfRWg=="
+secured: "x3VmM9Z0rH4OVw/WqWdcTNv3mpiF1Ukf2XtS+wukuXFFTI+QMFstOqQMJ6YRTLVYr1DhQAHccTujBdoujdRsr8Ed4iiDnyc6b3o5qCKJmniixx9dOJx1NP05OQrICBVgnKUYgAMwkpOPFhYSLRf3XTylnxDMkX7nWM0td68SIReAzC6ZnYXKZ2pvmFXdyEPT8aMHF6Q/FVxH51OhCCPifeIK2VvM5PCUmtN5GrGWiXG9MV3QOLXOXHzCexG3kaSOM0o32/pdhw91ez0jIKZ4/yV4KJtY+qGaWF1TeFbADea1Ny0wyoULaOkzFDdQ9LIPN7ie0lE9ncHjoJ4+4EBa/zms9J5ehLmswKte1wfa+EA=;Vy7ld9X57vb3J94d45dBJA=="
 ---
 

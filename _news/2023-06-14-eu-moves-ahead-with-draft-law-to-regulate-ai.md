@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-l
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -106,6 +106,36 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "How Europe is leading the world in the push to regulate AI"
+    excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle"
+    publishedDateTime: 2023-06-14T06:22:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Battle over facial recognition as EU makes groundbreaking AI law"
+    excerpt: "Israeli authorities have put in place facial recognition to surveil Palestinians in occupied East Jerusalem, says Amnesty International, which also says products made in the EU have been used in China for the surveillance of Uighurs and other minorities."
+    publishedDateTime: 2023-06-15T04:00:00Z
+    webUrl: "https://www.irishtimes.com/world/europe/2023/06/15/battle-over-facial-recognition-as-eu-makes-groundbreaking-ai-law/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 54
+    images:
+      - url: "https://www.irishtimes.com/resizer/N28yYtQ-P22iupGeRH47u30PbJc=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BSCJH3QY3CMOJM7BKW55UXYMM4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "EU lawmakers pass landmark artificial intelligence regulation"
     excerpt: "The European Union's AI Act is the first comprehensive set of regulations for the artificial intelligence industry."
     publishedDateTime: 2023-06-14T11:44:00Z
@@ -133,15 +163,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "How Europe is leading the world in the push to regulate AI"
-    excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle."
-    publishedDateTime: 2023-06-14T06:15:00Z
-    webUrl: "https://www.seattletimes.com/business/how-europe-is-leading-the-world-in-the-push-to-regulate-ai/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
   - title: "The EU just took a huge step towards regulating AI"
     excerpt: "The European Parliament just cleared a major hurdle for its AI Act, which would significantly expand citizens' data privacy rights."
     publishedDateTime: 2023-06-14T18:00:00Z

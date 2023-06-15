@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Florida universities are keeping an eye on AI"
-    excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology's power --- and stave off the potential for academic malfeasance."
-    publishedDateTime: 2023-06-10T12:00:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/education/2023-06-10/florida-universities-keeping-eye-ai"
-    type: article
-    provider:
-      name: wusfnews.wusf.usf.edu
-      domain: usf.edu
-    quality: 19
   - title: "Florida universities study pros and cons of artificial intelligence"
     excerpt: "As everyone knows, generative AI hallucinates. ChatGPT makes mistakes, it doesn’t give the right answers. It is subject to flights of fancy and depression.\""
     publishedDateTime: 2023-06-12T13:55:00Z

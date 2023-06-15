@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-def
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/amp/"
 type: article
 quality: 91
-heat: 281
+heat: 271
 published: true
 
 provider:
@@ -111,20 +111,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/09/5bc71510-0d58-4d37-93a7-78ed8154caaf_b8c56151.jpg?itok=Fq42IGOx&v=1686293778"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Samsung starts developing a ChatGPT-like AI for internal use"
-    excerpt: "Samsung invests resources to create its own AI solution, utilizing a Large Language Model (LLM) for document summarization and software development."
-    publishedDateTime: 2023-06-10T11:09:00Z
-    webUrl: "https://www.gizmochina.com/2023/06/10/samsung-starts-developing-chatgpt-like-ai-for-internal-use/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Samsung-AI.png"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Meta guru says ChatGPT-style AI is out-of-date"
     excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."

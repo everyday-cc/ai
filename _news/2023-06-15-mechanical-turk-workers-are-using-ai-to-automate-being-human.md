@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 870
     isCached: true
 
-secured: "C2HrxWZLOFLSSFt1zR+hzShF+z5yLF8I3iXpNLAPIF7cCsV5UQHy0Vji4q3FB2xaMQMABXV3ICMW0WhOSEoWU4ivoTCKeMaxREpcpU1rHPEdkOqkByb9BvvpxBdTWNu8dQRj/ga5yLG97NWp7CKSuNN6xejR5k3qNBOih0cNa1Lp8qUJkBa1fc3lIr/NgyjkjFAs77kaOBMFvTyDkRswZ+g6wknytVAhM0ZWM3OuntfUNO5EJLH74pHdwmdTwlsP5ekWCOJmAhcx/QLuyMjVMAAzclarHhq6ULZH1ukpgM8/NCL33qN4F+xdWyEAzomj4wmKD+2hwFIenO+MbDO8i4qjeDAyEWZ9nV8qIQdg2aI=;rzAR9StrBu+4PRrpJVl+yw=="
+secured: "LogzK8bFDV3flugIAqWPtiS6OkMqH6Ei2GaRoJMx9BBGUaW8fceC7ueTgjT2hNT9Uxiw1LP+Zx25cXwAX24caeWSVuio069c8mimXDiM71CFvgCW2g5jltgpRUjcjobdhF88O/K5ORfwAj7TrD4f1K+a60pnkaxVkszdr2MUhqwfnED/+Lfja6aAptsBmsKFZbRjxB5u9+3dsF8A2AvHljb+G5w1aMjzMMpb0wrKUK3r85Vz0kDSr3evSqbheaRILwU6JCgtHafpjDSKQYb/emt+Lu88yboW3mzefD1k9gVTmItjS2Wc/HlcbRH45NoZwSvKmWfyUXFrft19l36P8rubJetgt6L8gZmz4A/UuwpYmmST16v6HwHFHb4cu/vUVGSu8T2Tjt09EHqBlPFrd0DxYy9QZyjrsjks+c2JMc385BRmjDLjRncBPzJCTPsq5ENCzvxlXCVO29/eWX3jcuErLyUHFVgZpBdmwRqzkAfeTwc6MCJcFc0nNZohzAgMJ3NnlSviqYzJIfdKemUrPg==;pJYex1+wq9NpIZEfVEPMCw=="
 ---
 

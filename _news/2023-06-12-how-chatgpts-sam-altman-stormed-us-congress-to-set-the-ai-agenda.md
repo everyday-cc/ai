@@ -116,20 +116,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Samsung starts developing a ChatGPT-like AI for internal use"
-    excerpt: "Samsung invests resources to create its own AI solution, utilizing a Large Language Model (LLM) for document summarization and software development."
-    publishedDateTime: 2023-06-10T11:09:00Z
-    webUrl: "https://www.gizmochina.com/2023/06/10/samsung-starts-developing-chatgpt-like-ai-for-internal-use/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Samsung-AI.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Meta guru says ChatGPT-style AI is out-of-date"
     excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
     publishedDateTime: 2023-06-13T17:18:00Z

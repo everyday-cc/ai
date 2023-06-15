@@ -2,9 +2,9 @@
 category: news
 title: "Powerful object recognition for diverse applications using AI and robotics"
 excerpt: "New algorithms for object recognition and environment perception have been developed at Fraunhofer IPA, enabling sophisticated automation solutions for the service and production sectors."
-publishedDateTime: 2023-06-07T10:45:00Z
-originalUrl: "https://idw-online.de/en/news815664"
-webUrl: "https://idw-online.de/en/news815664"
+publishedDateTime: 2023-06-07T09:23:00Z
+originalUrl: "https://idw-online.de/de/news815664"
+webUrl: "https://idw-online.de/de/news815664"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 259
     isCached: true
 
-secured: "un0+KXJta+NnVJoealagxnirW9oRT1IdsyLhGJinXcvalmlqEMikvj9uHxVjQP5kLMfg2AWTBnBt8w4mVZOIoSviCua5cpqftpRB4msE71/6wgdeIG9OYwnsA2G0fZo/LxikeMSljqbLaGLL2JvuFx9dIZAX9jbob2tj+d6FtmnH9CqMWi4rb2j3D9nc4RY1mZDW9UZve+gE6/6vJ6lSsgo6qx1GpDQzQwAcjNeRaV8QwJjeoSe7OQEBMTgw7lwQwLc+psEzzf8phOLcCp5XDYp3gf0QqeHnRUlDOT5J2XNB6QbEMKILkP6+xsRK/P8u+Zk6TeKH6CeliD6sHYoIhkB2LHDx35+Ivl2OZ08Vlgo=;GBdnad8jvgJTZRxTN5pvEw=="
+secured: "b8UPeOgd4UZAOxLtl4oVBS89tcoKBI8Cyyb39obThxhxIW1cpg8tK/jtWCPzVnvnFAnKICoDO/mSQu7CCqDmew3kCu+X9yqyjDGGRh4uTFr6xFXPrcKwLivmxbWJmrj9WCYF7gM8FlaIpESu+regYNMIC6vZmzQ2SqePzvGuHx8G9OwdgsAr8oj1GSvGjUH/vpdl9rlEICZLFIetoPIEzA3sHFqVOzHfynHlxGp0rtEZ8sVrN3t9w6vKyCJGiaJ3wyEGSH7GblGwSm+BpI/phHHEN/v7hOS7SzCMXQu8sQna8mqLevi2vnkcKplBbhZqMA+MEX2rCXcR6n7J80I4l08nnS2H4KnAGNzISt4QbyQ=;JopGxLhmcqqvMFctP9TCUg=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 834
         height: 556
         isCached: true
+  - title: "Amazon’s cloud unit AWS ‘considering’ AMD’s new MI300 AI chips: Report"
+    excerpt: "While AWS has not made any public commitments to use AMD's new MI300 chips in its cloud services, Dave Brown, vice president of elastic compute cloud at Amazon, said AWS is considering them."
+    publishedDateTime: 2023-06-15T04:40:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/aws-reuters.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘AWS considering new AI chips from AMD’"
     excerpt: "AWS may want to use AI chips from AMD processors. \"We are still working together on exactly where that will land between AWS and AMD,\" Amazon's Dave Brown"
     publishedDateTime: 2023-06-14T09:40:00Z
@@ -84,6 +100,20 @@ related:
       - url: "https://images.barrons.com/im-574599/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Report: AWS considers diversifying its AI server offerings with AMD’s new chips"
+    excerpt: "AWS, the world’s largest cloud computing company, is reportedly considering AMD’s new Instinct MI300X accelerator, which was announced at a special event yesterday. The MI300X chip is designed specifically for generative AI workloads,"
+    publishedDateTime: 2023-06-15T03:28:00Z
+    webUrl: "https://siliconangle.com/2023/06/14/report-aws-considers-diversifying-ai-server-offerings-amds-new-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 67
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/46600198075_8477bdd292_k-1-2.jpg"
+        width: 2048
+        height: 1366
         isCached: true
   - title: "AMD to ramp up AI chip production this year"
     excerpt: "and a key performance measure for how well the chip will handle the large AI systems behind services similar to ChatGPT. \"There's no question that AI will be the key driver of silicon consumption for the foreseeable future,\" Su said. Su said customers will ..."
@@ -189,6 +219,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "wRWTiIWx47PLxns+IkXSmRIxHpwDDuE8Uixa/FaO4Ss/jeY6xPNFXYmjE81edX1/K9uaeafcwZmHe0rZqrYRUJ2QOHAd83X5N5lpA/6y5H0yXXBdL2+5uKgbYm5zVP0/mKNHoq7oJZc9t0ka1MS5K6ABlIlX1bS/QZXNoW1wN99N7/GOGPpquG2TSc++mSFzjzm7VMFe8dURuAOdM2un2/b0QKX/EGPUoL/bSAwzX0smwUvJGICI+m2585JxrjpHu+MCNiIx7sU2jIuUwi5ZZCLiEggTbZEQEW6rdNkgoL+TUN3AlbLdjEFpp6agO07AHvakmkENXwZ/cOBVXalNJ8IslcCw42AFGNf0D3qm9B4=;pggTb2CUFGp0BePejf/HkQ=="
+secured: "qvQmZjSJYfBvn+Sa1J7nIQGb+P3mxzHLAjlzWoFuG9eaL9VvR4aUjGm0Rhr82e1dxdxoT7BNw5yP/J0eMz+xrQbKqpup30CdKo2qddEHBFVDZtNKHLpn4Bzpl6XM/FpUEUDFWdQl4imL9DwbNBRrBYogdKFqG0ayZiIci2nw55/hOKmoWCYhmOhSRz88/THHITzxizMtXiURSUcRnmlFpBtFLQUkxrjMy3TWZT1HxtJknlNsnEmkrs1w1IBGTP6UxqZCF+BfFU+KR4ukHB+mAgjvg0fBLLF3Uu2TcytVvKuxd2gE6TxbeixvkhXebCDUlIFjDnl5s5I+1KB2FYd9IYiTSKx1xsBA3O25IYMUmJtrL0JPAA/6ex6wV7cdKV7UjIICEzUqy7Ytm/ADWeL+RyR7guazmy73hORAafs/3rp9cvwcr9tOxLr0mX2UTStLhSH60SKSBGDiSMNnVDQpf0KRdlV3yQUoOXj91sdRzc7/L6Hy0p+yG//t5HvKKp1tIQ3/rKk4V8lhs4HdWUNkVg==;FipJT5v6cuLZrOzZwb7YCA=="
 ---
 

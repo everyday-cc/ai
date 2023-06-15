@@ -81,6 +81,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "China Focus: China accelerating development of large language models"
+    excerpt: "China's general-purpose LLMs application is expanding from office and entertainment to fields such as healthcare, the industrial sector and education, according to a report released by the ISTIC."
+    publishedDateTime: 2023-06-15T02:32:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202306/15/WS648a70d6a31033ad3f7bc686.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202306/15/648a70d6a31033ad342b0d04.jpeg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "MaJD885oinUyoyWgVZPthCEhihrnRrInHJSO0Y+7fHh/HxZZY4RpvjiYax3ZQpVfp2HUcSqaE1XHzQuOvP9mAmbyWBQNJHGMcte0PPHj0qnXGMqokXPOR+hOrpoNtJE2Jwnh+o0CYYKrk+wfxaIV/jmwGzQvOSbL8N4Z/rDhb15X2Dl+jYRLvctPjx8RI64kYK0zNFqaD9dpRT7uOT9wefROM/6ak53kHZbApagQulqf2hIXweexN5gfD/vTs4s4cWNPm/ytKAnKOKUXyUvouI+JLuqP5njnmX2TcL3ngepLTfDIMai+MubA8tZkwbixG7uGHDBy8CfXz7o3WeGq34hOdvSGN52OECVSfl1thIA=;8mRL81EKDnkY8bWU/caCRg=="
 ---

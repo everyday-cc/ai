@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/cities/chennai/2023/jun/15/zoho-to-
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2023/jun/15/zoho-to-develop-large-language-model-for-generative-ai-2585145.amp"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "China Focus: China accelerating development of large language models"
+    excerpt: "China's general-purpose LLMs application is expanding from office and entertainment to fields such as healthcare, the industrial sector and education, according to a report released by the ISTIC."
+    publishedDateTime: 2023-06-15T02:32:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202306/15/WS648a70d6a31033ad3f7bc686.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202306/15/648a70d6a31033ad342b0d04.jpeg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Snorkel AI Introduces New Foundation Model Data Platform to Bring the Power of Programmatic Data Development to Generative AI"
     excerpt: "Press Release Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic data development approach. With Snorkel AI's Foundation Model Data Platform,"
