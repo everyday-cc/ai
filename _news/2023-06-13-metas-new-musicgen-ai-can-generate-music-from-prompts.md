@@ -121,6 +121,20 @@ related:
         width: 360
         height: 220
         isCached: true
+  - title: "Meta unveils MusicGen, an AI designed to create music in just 5 minutes"
+    excerpt: "The Facebook parent company ... The researchers that announced the AI system said that all of the sounds MusicGen was trained on were covered by legal agreements with the owners of those music libraries. \"Open research can ensure that all actors have ..."
+    publishedDateTime: 2023-06-15T06:47:00Z
+    webUrl: "https://www.tweaktown.com/news/91911/meta-unveils-musicgen-an-ai-designed-to-create-music-in-just-5-minutes/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91911_2321_meta-unveils-ai-that-can-create-short-song-in-5-minutes_full.jpg"
+        width: 1500
+        height: 1125
+        isCached: true
   - title: "Meta just released an AI music generator that was trained on 20,000 hours of licensed music"
     excerpt: "Researchers at Facebook parent company Meta have developed an AI text-to-music generator called MusicGen. The language model, described by Meta’s Audiocraft research team as “a simple and controllable model for music generation”,"
     publishedDateTime: 2023-06-12T19:25:00Z

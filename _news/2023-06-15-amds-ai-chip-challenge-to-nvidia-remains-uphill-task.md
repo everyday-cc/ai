@@ -225,6 +225,20 @@ related:
         width: 753
         height: 423
         isCached: true
+  - title: "Amazon Ponders AMD's AI Chips Adoption; Boosts Competition in Market Dominated by NVIDIA"
+    excerpt: "Amazon Web Services (AWS) is contemplating incorporating Advanced Micro Devices (AMD)s latest artificial intelligence (AI) chips, potentially diversifying a market largely controlled by NVIDIA. The remarks were"
+    publishedDateTime: 2023-06-15T07:00:00Z
+    webUrl: "https://www.econotimes.com/Amazon-Cloud-Mulls-Using-AMDs-AI-Chips-1657872"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 45
+    images:
+      - url: "https://f1.econotimes.com/2023/06/o3ivuqy5on_th_1024x0.jpg"
+        width: 1024
+        height: 644
+        isCached: true
   - title: "As AMD Seeks to Slash Nvidia's AI Lead, Here's What Traders Need to Know"
     excerpt: "AMD introduced the firm's Ryzen PRO 7040 Series Mobile processors. These processors bring advanced 'Zen 4' performance and a dedicated Ryzen AI engin"
     publishedDateTime: 2023-06-14T14:19:00Z

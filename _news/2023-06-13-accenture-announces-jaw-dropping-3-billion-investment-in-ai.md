@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-bill
 webUrl: "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/"
 type: article
 quality: 67
-heat: 117
+heat: 77
 published: true
 
 provider:
@@ -44,47 +44,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Accenture Commits $3 Billion to Help Clients Harness AI to Transform Businesses"
-    excerpt: "Accenture announced a $3 billion investment over three years in its Data & AI practice to help clients across all industries rapidly and"
-    publishedDateTime: 2023-06-14T07:13:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32409-accenture-commits-3-billion-to-help-clients-harness-ai-to-transform-businesses"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 35
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/045e263db67e029b97fc5298a8cfa5a3.jpg?t=20230614_071235"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Accenture to Invest $3 Billion in AI to Accelerate Clients' Reinvention"
-    excerpt: "Accenture (NYSE: ACN) today announced a $3 billion investment over three years in its Data & AI practice to help clients across all industries rapidly and responsibly advance and use AI to achieve greater growth,"
-    publishedDateTime: 2023-06-13T11:01:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831180.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Accenture to Invest $3B in AI to Accelerate Clients’ Reinvention"
-    excerpt: "Accenture today announced a $3 billion investment over three years in its Data & AI practice to help clients across all"
-    publishedDateTime: 2023-06-13T16:17:00Z
-    webUrl: "https://www.datanami.com/this-just-in/accenture-to-invest-3b-in-ai-to-accelerate-clients-reinvention/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
-  - title: "Accenture announces $3bn bet on AI to help build new industry solutions"
-    excerpt: "The new investment is part of Accenture’s continued efforts to build itself as a leader in AI Accenture announces $3bn bet on AI to help build new industry solutions Accenture, AI adoption, AI innovation,"
-    publishedDateTime: 2023-06-14T11:48:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/accenture-announces-3bn-bet-on-ai-to-help-build-new-industry-solutions"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
 
 secured: "ztmmDxlH45Fq/MlgwHrpxgOWbjIPwOc2yHfG50ymilV31j8rX754oEtJSgOxvgVeqVdbfyh9Q1D2bdS476dWeI45E51/qwhUKH/PSDRduH9nXMmY0EMCC/oMXxX5vEPNE4ZdrWOhN3XhQQmLWUyOlhrvkeN8ybAbRzUY6IzmP61SoD6Wc5X4mauqAkmG3o1K/siBpfQVNCZZ599SZqcKB6rETI2Pqf9dqnNClLM8JiBbFl//y11Z5EqQRSwdu2QOxdjyz7DT3kkh/sAzkwmlxLT6sB+HYPBgmntdNxX8XNVQzL9ay0I7BClstMDHDVxiTPLPcu0sYNNC/mXj3NiQJt5WBwS7aTz/vMRwihz4O95Z9FudDONy7oPywqZMk0thooA6FLw08aRT0hSOWNH1mLWqc9wuVlSdB2WtIGgT2/HgrsnL32wNM1aepgj6//ayE8LMIUMR+I16at7G18aGqimrp1bddFv5d2xDp04+5DVb1RAgHDAhlMAGGce1Rnsr2Jq4s2mey7J+h/OEUXrEbw==;XdT6jqQm7JSkNUgnvxX+dg=="
 ---

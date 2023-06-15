@@ -19,35 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "Accenture announces jaw-dropping $3 billion investment in AI"
-    excerpt: "Accenture said it will double the size of its Data & AI practice from 40,000 at present to 80,000 through a combination of hiring, training"
-    publishedDateTime: 2023-06-13T15:33:00Z
-    webUrl: "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/"
+  - title: "Lenovo To Invest $1 Billion For Artificial Intelligence Acceleration"
+    excerpt: "Leovo has announced its plans to invest $1 billion over three years in the expansion of infrastructure solutions to accelerate the artificial intelligence ... manufacturing, healthcare, retail and smart city applications. \"Lenovo's commitment to the ..."
+    publishedDateTime: 2023-06-15T06:23:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/lenovo-to-invest-1-billion-for-artificial-intelligence/454144"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_stacks_of_dollar_bills_and_golden_coins_rise_into_the_s_cc2ae09e-3f57-4126-8542-b93587a347b3.png?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1686809515-Untitleddesign-2023-06-15T114129839.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Accenture pouring $3 billion into AI, joining long list of tech companies prepping to meet demand"
-    excerpt: "Technology services provider Accenture is the latest company to ramp up its artificial intelligence business, announcing Tuesday that it will invest $3 billion over the next three years and double its"
-    publishedDateTime: 2023-06-13T18:22:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/accenture-pouring-3-billion-ai-joining-long-list-100047820"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/accenture-pouring-3-billion-ai-joining-long-list-100047820"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/accenture-pouring-3-billion-ai-joining-long-list-100047820"
+  - title: "Generative AI startup Synthesia just raised $90 million in fresh funds from US fund Accel and Nvidia at a $1 billion valuation"
+    excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Generative AI startup Synthesia has raised $90 million in new funding at a unicorn valuation. The London-based company, founded in 2017, focuses on video production ..."
+    publishedDateTime: 2023-06-13T16:50:00Z
+    webUrl: "https://www.businessinsider.com/synthesia-generative-ai-startup-raises-90m-at-unicorn-valuation-2023-6"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
     images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_abc6d596b91be9cc206f842f341e0c77_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.insider.com/648899dbd4e551001974dc62?width=1200&format=jpeg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Lenovo to Invest $1 billion for Accelerating AI Solutions"
+    excerpt: "Lenovo has announced $1 billion over the next three years to expand its infrastructure solutions and accelerate the deployment of AI"
+    publishedDateTime: 2023-06-14T10:47:00Z
+    webUrl: "https://analyticsindiamag.com/lenovo-to-invest-1-billion-for-accelerating-ai-solutions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/How-Data-Democratisation-Gives-Lenovo-an-Edge-on-its-UI-UX-Play-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Accenture Commits $3 Billion to Help Clients Harness AI to Transform Businesses"
     excerpt: "Accenture announced a $3 billion investment over three years in its Data & AI practice to help clients across all industries rapidly and"
@@ -81,6 +93,24 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
+  - title: "Lenovo Announces $2B AI Revenue and Unveils $1B Global Expansion Plan"
+    excerpt: "Fueled by increased global digitalization and demand for IT infrastructure upgrades, Lenovo is simplifying the often-complex implementation of new AI capabilities by delivering AI to the source of data and harnessing its vast network of best-in-class partners to build next-generation solutions that enable computing intelligence directly at the edge."
+    publishedDateTime: 2023-06-14T12:23:00Z
+    webUrl: "https://www.datanami.com/this-just-in/lenovo-announces-2b-ai-revenue-and-unveils-1b-global-expansion-plan/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+  - title: "Targeting artificial intelligence: Lenovo to invest additional $1B over 3 years"
+    excerpt: "Lenovo, the world's top sellers of PCs and supercomputers, is broadening its investment in the fast-growing field of artificial intelligence. Here's the latest."
+    publishedDateTime: 2023-06-14T11:47:00Z
+    webUrl: "https://wraltechwire.com/2023/06/14/targeting-artificial-intelligence-lenovo-to-invest-additional-1b-over-3-years/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 15
 
 secured: "JapIsjPq17GGANq76rDoBDkYfBnVnYKH/bvr9Sij+InVOWRDMVYtjN9yzFTSBAl/U9dfs31p4liZPbf2u7nUIHE/fZaP5ktNdX4r36NV6jd5Iem+pKLNkiCmvRQrhroKV8C50Ly95nDQDTZqACAat0NddOA1tPa+sm5+K4rEdQgb6l+M0Kn34o/F3MSGbkFshw7l1SRlGhXfOgoWpr7B2P5exfrF1Lv0pUBylHMQRxgxNi/TXVZKYXZFo10y1V41EQt9VpTjqhfBDqeiu0zS/mzQekY3NbA8Tx7h/uqlry7CpO/1hQGXY1tagIQbZHT8vAZiWmp4HqGZwXpO+fULyWVoLw1kJiw8rm8e2xslwM35l4TY+/7y4KTUKq8w3T6ISz0AqXXOP5o8TgUhv5iEBsrCJuHRvxaTpqlwK8AAezIC7TNswAgWwX98h7o2pWwVAE5qEMu8bAUG7rEMMTiPIxCwVTFBGn4koXNJ7WYO045Q0tJ1j5IUY2TyXA8gIH6s7qyZEj+sikdHNNraI+EMig==;WRjRC2UHQUXFd8wDuQicvg=="
 ---

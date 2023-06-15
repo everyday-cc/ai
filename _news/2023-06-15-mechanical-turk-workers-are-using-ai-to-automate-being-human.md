@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 101
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 870
     isCached: true
+
+related:
+  - title: "Transforming medical diagnosis using artificial intelligence"
+    excerpt: "Dr Venugopal Pareek, Laparoscopic and Bariatric Surgeon, Care Hospitals, says, “AI comes into play, especially when we are doing the surgery with the help of robots."
+    publishedDateTime: 2023-06-14T03:57:00Z
+    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2023/jun/14/transforming-medical-diagnosis-using-ai-2584708.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2023/jun/14/transforming-medical-diagnosis-using-ai-2584708.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2023/jun/14/transforming-medical-diagnosis-using-ai-2584708.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 61
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/6/13/w600X390/Transforming_medical.jpg"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "LogzK8bFDV3flugIAqWPtiS6OkMqH6Ei2GaRoJMx9BBGUaW8fceC7ueTgjT2hNT9Uxiw1LP+Zx25cXwAX24caeWSVuio069c8mimXDiM71CFvgCW2g5jltgpRUjcjobdhF88O/K5ORfwAj7TrD4f1K+a60pnkaxVkszdr2MUhqwfnED/+Lfja6aAptsBmsKFZbRjxB5u9+3dsF8A2AvHljb+G5w1aMjzMMpb0wrKUK3r85Vz0kDSr3evSqbheaRILwU6JCgtHafpjDSKQYb/emt+Lu88yboW3mzefD1k9gVTmItjS2Wc/HlcbRH45NoZwSvKmWfyUXFrft19l36P8rubJetgt6L8gZmz4A/UuwpYmmST16v6HwHFHb4cu/vUVGSu8T2Tjt09EHqBlPFrd0DxYy9QZyjrsjks+c2JMc385BRmjDLjRncBPzJCTPsq5ENCzvxlXCVO29/eWX3jcuErLyUHFVgZpBdmwRqzkAfeTwc6MCJcFc0nNZohzAgMJ3NnlSviqYzJIfdKemUrPg==;pJYex1+wq9NpIZEfVEPMCw=="
 ---

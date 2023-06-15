@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-65881800.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65881800.amp"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3531/production/_130071631_gettyimages-1325244511.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Amazon experiments with using AI to sum up product reviews"
+    excerpt: "Amazon is experimenting with using artificial intelligence to sum up customer feedback about products on the site, with the potential to cut down on the time shoppers spend sifting through reviews before making a purchase."
+    publishedDateTime: 2023-06-13T17:38:00Z
+    webUrl: "https://www.cnn.com/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/221025100312-amazon-online-shopping-stock.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
         isCached: true
   - title: "Would you trust AI-generated reviews? The next Amazon product you buy may have them"
     excerpt: "Amazon is testing out generative AI to summarize its product reviews for its customers on some products across the store."

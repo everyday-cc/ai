@@ -66,15 +66,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "In 2023, AI is everywhere. Unless you listen to Apple."
-    excerpt: "Apple unveiled plenty of new hardware at WWCD 2023 but had very little to say on this year's hottest trend — generative AI."
-    publishedDateTime: 2023-06-10T13:59:00Z
-    webUrl: "https://www.androidauthority.com/apple-no-ai-wwdc-3332765/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 47
   - title: "Salesforce pledges to invest $500M in generative AI startups"
     excerpt: "Salesforce has announced that it has doubled the size of its Generative AI Fund for startups from $250 million to $500 million."
     publishedDateTime: 2023-06-12T13:31:00Z

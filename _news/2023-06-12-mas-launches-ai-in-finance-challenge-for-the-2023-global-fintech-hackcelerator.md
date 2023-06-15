@@ -41,6 +41,22 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Trailblazing AI Companies Headquartered in Singapore: Driving Innovation Forward"
+    excerpt: "Know about few of the best AI ventures utilizing power of AI for helping advancement of several other industries."
+    publishedDateTime: 2023-06-12T15:00:00Z
+    webUrl: "https://www.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
+    ampWebUrl: "https://amp.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.sg
+    quality: 54
+    images:
+      - url: "https://data.ibtimes.sg/en/full/68201/ai-powered-comapnies.jpg"
+        width: 1275
+        height: 1263
+        isCached: true
   - title: "Upstart Fintech Buys Airport-Area Office for HQ"
     excerpt: "The head of Finfare Inc., an up-and-coming fintech in the Spectrum area of Irvine, has made one of the larger office deals of the year in the area around John Wayne Airport."
     publishedDateTime: 2023-06-12T19:35:00Z

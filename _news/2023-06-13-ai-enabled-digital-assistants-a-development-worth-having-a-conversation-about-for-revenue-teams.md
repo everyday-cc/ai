@@ -26,17 +26,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Cutting-Edge Monster API Platform Transforms AI Development: Up to 90% Cost Reduction Achieved Through Decentralized Computing"
-    excerpt: "Using Monster API's full stack (an optimization layer, a compute orchestrator, a massive GPU infrastructure, and ready-to-use inference APIs) a developer can create AI-powered applications in a matter of minutes. In addition, one can fine-tune these large language models with custom datasets."
-    publishedDateTime: 2023-06-10T13:29:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273858445/cutting-edge-monster-api-platform-transforms-ai-development-up-to-90-cost-reduction-achieved-through-decentralized-computing"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
-
 secured: "BShvVtmVYOnjbnnMCMvS9wEOcCufKJEY2R4j92kHQKdRaqYfG/t0MlPj3NV5mG6dtVV89NtR4U3lfet4AhEhDns87BidGzXRNDIhR30/gDtR7comCmVwq9cliqV7V8c6ilJAuupQAKLk0EMa42h3pSZv8AyXz4+YxISw4p6mMu0Q4VelwjqwoRk1qg3P82PC+V05qZwIalrGHR9Sc8mJv5MmU560t74ATgff6GThShbY4higu7uDyPF+XgB+/4YgvR4JqbFS3k9qhDgPC0RGbAgtYK4wbdMBokBBoWK73hoBHQ8R1Tk2UwcSWxWE8d+3xv7hHjxxCDBzBlvwhXH7YCuD8iAonOv/1o5FY0UbtyeHpdTlcnvB6+gvAwaJEcZKz6gC3cgmKdBKGKJWzwjiq5jmUJS6hwYvbJylTvPfB64LBzq2AiSGRnGZl+NnJ6l60FQ0aC/+ceAIoVa+WpN1FlG5Tuug0mZZq1nJ4v3xUCdItNZ7kf+1KAEbBCcDZNEFav0fST0ctRwrqy9ECKPGCQ==;shZhLC66mNpTz9cxraxi0Q=="
 ---
 

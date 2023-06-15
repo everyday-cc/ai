@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-launches-musicg
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -112,6 +112,20 @@ related:
       - url: "https://geeknewscentral.com/wp-content/uploads/2016/05/Header-LogoGreenTag.png"
         width: 360
         height: 220
+        isCached: true
+  - title: "Meta unveils MusicGen, an AI designed to create music in just 5 minutes"
+    excerpt: "The Facebook parent company ... The researchers that announced the AI system said that all of the sounds MusicGen was trained on were covered by legal agreements with the owners of those music libraries. \"Open research can ensure that all actors have ..."
+    publishedDateTime: 2023-06-15T06:47:00Z
+    webUrl: "https://www.tweaktown.com/news/91911/meta-unveils-musicgen-an-ai-designed-to-create-music-in-just-5-minutes/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91911_2321_meta-unveils-ai-that-can-create-short-song-in-5-minutes_full.jpg"
+        width: 1500
+        height: 1125
         isCached: true
   - title: "Meta’s New MusicGen AI Can Generate Music From Prompts"
     excerpt: "Meta has recently unveiled MusicGen, an open-source AI model designed to generate music based on text prompts. Read on to learn more."

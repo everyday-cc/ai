@@ -239,6 +239,20 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Amazon Ponders AMD's AI Chips Adoption; Boosts Competition in Market Dominated by NVIDIA"
+    excerpt: "Amazon Web Services (AWS) is contemplating incorporating Advanced Micro Devices (AMD)s latest artificial intelligence (AI) chips, potentially diversifying a market largely controlled by NVIDIA. The remarks were"
+    publishedDateTime: 2023-06-15T07:00:00Z
+    webUrl: "https://www.econotimes.com/Amazon-Cloud-Mulls-Using-AMDs-AI-Chips-1657872"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 45
+    images:
+      - url: "https://f1.econotimes.com/2023/06/o3ivuqy5on_th_1024x0.jpg"
+        width: 1024
+        height: 644
+        isCached: true
   - title: "AI-Generated Video Platform Synthesia Receives Nvidia Backing At Unicorn Valuation"
     excerpt: "Synthesia is the latest AI startup to raise a big round and hit a $1 billion valuation after a $90 million Series C."
     publishedDateTime: 2023-06-13T17:36:00Z

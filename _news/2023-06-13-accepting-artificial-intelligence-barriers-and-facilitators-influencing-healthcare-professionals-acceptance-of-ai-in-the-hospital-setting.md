@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230613/Accepting-artificial-in
 webUrl: "https://www.news-medical.net/news/20230613/Accepting-artificial-intelligence-barriers-and-facilitators-influencing-healthcare-professionals-acceptance-of-AI-in-the-hospital-setting.aspx"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,26 @@ images:
     width: 1000
     height: 597
     isCached: true
+
+related:
+  - title: "TaxGPT: Advancing AI And The Tax Profession"
+    excerpt: "I'm going to start with talking about generative AI ... Chatbot Chat with AI, Artificial Intelligence. man using technology smart robot AI, artificial ... [+] intelligence by enter command prompt for generates something, Futuristic technology transformation."
+    publishedDateTime: 2023-06-14T18:49:00Z
+    webUrl: "https://www.forbes.com/sites/taxnotes/2023/06/14/taxgpt-advancing-ai-and-the-tax-profession/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "AI and tax prep: Practitioners weigh the pros and cons"
+    excerpt: "Tax pros have very mixed feelings about the potential impact of artificial intelligence. The annual list recognizes top leaders from accounting firms across the country. In this Vendor Spotlight, we feature time and activity tracking software provider CloudCapcha."
+    publishedDateTime: 2023-06-14T19:43:00Z
+    webUrl: "https://www.accountingtoday.com/news/ai-and-tax-prep-practitioners-weigh-the-pros-and-cons"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 17
 
 secured: "4ZQBMBg22SPBsj8zsFqfaVUfYvp+UbJ64SoPrP4qVeY6owH+KT1QDG9b9DXn8qC0T/nq6pPOSyKuexJJek1iUvwAkTGejAa2uxXaJBM4twdNGlPRPF7g7gkitoPr024XZJITlj2OX3iJv107XOm6u4xgzxtlgVddrLH+AEPOSh683Y+GF18PDJuV+Hmxq7zMCyHqezQg4fI39K0IVszX6k0FB0Yn/j6X3T9idHTAg/o6JOkRQvwU7wQr8Q/LxA+MkttT3yFsKUuRz5a7z7+8prChggiGOqPHYQdc+5rdOCWyg63paFYOwxora7r4Nff4wU1Qhy9QvcWIgCteOeKzpy7KEECrcbcOiaQnE9XAZbgY5bSNEV7UPlY9T5gwY3OrxZwoXtUGxPjXXrTqYxW7lugnV6kzify9YtBzis8Xugxfgi22NLHTXOAFkBubPztmwDrQM5g65Be3LWTxZOVmDsxp2vEZGLASVsYbBnBAFEbHjXgdNfMQvDsr+B5HSLksiI88wHlXExPEc9Wm805r3w==;mQf74WUSLDRzCo1Slh8KYw=="
 ---

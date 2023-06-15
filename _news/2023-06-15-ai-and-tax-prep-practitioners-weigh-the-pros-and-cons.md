@@ -7,7 +7,7 @@ originalUrl: "https://www.accountingtoday.com/news/ai-and-tax-prep-practitioners
 webUrl: "https://www.accountingtoday.com/news/ai-and-tax-prep-practitioners-weigh-the-pros-and-cons"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,31 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "TaxGPT: Advancing AI And The Tax Profession"
+    excerpt: "I'm going to start with talking about generative AI ... Chatbot Chat with AI, Artificial Intelligence. man using technology smart robot AI, artificial ... [+] intelligence by enter command prompt for generates something, Futuristic technology transformation."
+    publishedDateTime: 2023-06-14T18:49:00Z
+    webUrl: "https://www.forbes.com/sites/taxnotes/2023/06/14/taxgpt-advancing-ai-and-the-tax-profession/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Accepting artificial intelligence: barriers and facilitators influencing healthcare professionals' acceptance of AI in the hospital setting"
+    excerpt: "Researchers investigated the factors that hinder or promote healthcare professionals' acceptance of artificial intelligence (AI) in hospitals."
+    publishedDateTime: 2023-06-13T09:25:00Z
+    webUrl: "https://www.news-medical.net/news/20230613/Accepting-artificial-intelligence-barriers-and-facilitators-influencing-healthcare-professionals-acceptance-of-AI-in-the-hospital-setting.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 35
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_750839_16866475805559826.jpg"
+        width: 1000
+        height: 597
+        isCached: true
 
 secured: "s1kbbwc6UwXMFCJxsBXDxkaUqEyNLhh9JnLzn5olML1zVz8zS9z5I/T/wvPEaqEC7S3N/vwhPMVbtdpWrsRGIB10MZTT53rBYjHoR2rTimLohB2IOFQa63w/F6uufcmk58KdcHHuI/fbD9OIhAl84Idk0p9SRooMmpMcPT1j/HudKwBtf5mHCz+UB7Fk+KaMnDIXt39ZjCsTcaq0nGTKA1lpqtzii0V5ynuTXU1KL4c5ZjirDvZItgvAdHBcFK893SYto3LwOa+mymPmYke62G6QOITEd4PZonLbKP4Ty0NQoQ1PY7OEJ7wBd6vIWPRwTj3+faEP75Xfft2kHj8jbGDTZlyedOYRmuuWkEY/NAica3SU6evQuJ8lJ+cg6LT9EyzcvZK99NKQ2+HWtRuNyO3ilxvVSJyEYAd4bV+LjU8vEw1Cn+80lkWH3Avp9DZO26Nya139J7Nc8W9BhgSzAj79kCUO+od/z+UiacDxmB7+ne72Bt1f4//dNWFM5ipFRsguku5WWxtZt9KddqrI8w==;mCX1IznWcy/KjtadtAf8Tw=="
 ---

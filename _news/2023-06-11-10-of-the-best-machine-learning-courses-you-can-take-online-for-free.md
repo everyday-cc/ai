@@ -24,6 +24,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "10 of the best free artificial intelligence courses on edX"
+    excerpt: "TL;DR: A wide range of online courses on AI are available for free at edX. Master the basics, dive into machine learning, and grapple with ethical issues, without spending anything.edX competes with the likes of Udemy to offer the best and largest range of online courses,"
+    publishedDateTime: 2023-06-12T03:55:00Z
+    webUrl: "https://www.aol.com/news/10-best-free-artificial-intelligence-035500045.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/weh1BeSvCD56.9c0h2c9lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_mashable_370/bfc4cffba4101f10784f36891ed10e31"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "OgoKsUELLhglrEYN4+GrSYVrjgFir8AVQGUGFie241YPbn6GYbJqaOMi2fqAjPUlqP1U0EM3CeyZDuTYRuRU1C/qtBmTgngVH+iA4jWMKtCH8TvxbniPFNvHoZgq0YLFt0WyqeqcazaOllU9mGtdE+G1C4sARnO+d68sLbVl3r19W9UPRN5fSkbRfhQXQqPVoam75lzwM9yyplN6sZ6C77Mcy9yXrF4hJbX5YDqMmSMmUA+ggldxh5cf7GQuss3cIgMCZ0mVy9Z3+9tpfvbE0vdT/L3jdhJj1ws04/fzYuyicrKh1Z6Ocis+ids8+JieEqIxLGqQ3O0GHMYx4/iqGvPbs1Aal59aMrsnQwBUVuRn7+uOXdwfE+pH4e/CC+W1nhMZ8Yw/pwn933kfWLWUhAkXQ39lJCBJRJK+EecYo5+ri5MJsn5PgPKmS577OkhAgxi9tB15ikrnAG41z2K5I/6fEftUWfd93yZBddZw33nPsBgIG5JIW309DnpcYe8LTJWyWd91q8dCOfus8gHlPg==;UP+qGR7oGkgiwRDCEQfxJA=="
 ---
 

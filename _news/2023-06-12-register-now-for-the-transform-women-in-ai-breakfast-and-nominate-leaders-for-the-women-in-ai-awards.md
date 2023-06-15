@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/register-now-for-the-transform-women-in
 webUrl: "https://venturebeat.com/ai/register-now-for-the-transform-women-in-ai-breakfast-and-nominate-leaders-for-the-women-in-ai-awards/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1196
     height: 690
     isCached: true
+
+related:
+  - title: "Increasing focus on AI is driving demand for empathetic women leaders"
+    excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
+    publishedDateTime: 2023-06-11T01:50:00Z
+    webUrl: "https://yourstory.com/herstory/2023/06/women-leaders-inclusion-key-enterprises-ai"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/shutterstock1456783511-1672930865154.jpeg?fm=png&auto=format"
+        width: 2834
+        height: 1337
+        isCached: true
 
 secured: "ao8qpbBwAVyw1omSVKJvvBUjE4Q2hBdRpbr9xZp/SKvXvBOHKOCUXeG1GNsiAQq1GfU/pf8XLY+TGz8dVU3XcmPRwqL0vT39z94DOUIRz11GWtI/ogaCXnXJ044EEkzTZ1XIo/VmjurCvGVR2rzYafx+V3GLJYebAEQTP2Gmk7SwHwxKFRNqSoKnOii9Cnn+1+wEgls0FPyrQHz2WrtxEcJj/WDEdgazSvU3E4/yDN1J/6QwS7YqVWhBj1yEJyMsuLPlEojmk7SdIwWeQV2W1I1jW2WkO+6IAZ5mqFekEI+CsuybV1RqhlqQOofvFLg2OuzkNkKWkAmYNZHvfNcfxqxbccrGhSLTBdfazgUJI/g0fmHgqKF0Vl/n1Mdg4U4xgG3UznXLZ1HfMgyg/LYWFbPdoc0xmdx7os8Axly1S2BVryAPsDiLMbjs4MXFa6VrcfaA6fiehd/x2bwoaO3HQrOP+GETYh0c9svVadeTC3JA99yZjRnwar1t1QIoytmimZgR4ls4kSHnfW67/R5CTw==;RekhUDKKUM00Vjz3+f33oQ=="
 ---

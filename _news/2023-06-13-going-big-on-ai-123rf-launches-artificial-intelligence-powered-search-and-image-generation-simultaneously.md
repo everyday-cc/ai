@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32820890"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32820890"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Benzinga.com
@@ -40,6 +40,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Neural Wave Ltd Launches NLPearl.AI: Pioneering the Future of Telecommunications with AI-Powered Phone Agents"
+    excerpt: "Neural Wave Ltd, a leading light in the field of conversational artificial intelligence (AI), has announced the launch of its groundbreaking product, NLPearl.AI. This state-of-the-art software integrates advanced machine learning and natural language processing technologies,"
+    publishedDateTime: 2023-06-14T18:09:00Z
+    webUrl: "https://techbullion.com/neural-wave-ltd-launches-nlpearl-ai-pioneering-the-future-of-telecommunications-with-ai-powered-phone-agents/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "97ZXLOdonSZ4OMrnMEhMz/Kur13U2SKVPecaIEbeGvXPKhOYFZs6iTo3A5T0haDKMX+0bDyO3aUaIw6BTyeJQGmRS6ktTvC9ZoDumV/XQ3jBXOzY5D5f+2CeJ5QtNU128UPiIpFAVBtIHAsRLJPHfPbD+RMUCp+dhOd37wolEc3uoLarlS46V0nsb+Lm+gEM2DYCVdjy77+EVdq3Df9oCQy8O3lZ/JGVXsQ8oPcbalhqDWP2BhgHIoeivP3jNIWeTaYE9y7g4Mkh8wMMbVMQBC/uMyPwh//pJLoTDGRa6eVhXHyDexhANnHIrOUJ8OMoxnxJlCJl4x8xMFA/rfuHOOjlRLtQr/s6QYF6Y2WXtvY=;RG1YTOEkhd8eZuuSy6latA=="
 ---

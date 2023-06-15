@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Music world gets Startup Nation upgrade, using AI of course"
+    excerpt: "Israeli music startup incorporates cutting-edge technologies not to replace human artists, but to enrich their creations and expand creativity."
+    publishedDateTime: 2023-06-11T04:30:00Z
+    webUrl: "https://www.israel21c.org/music-world-gets-startup-nation-upgrade-using-ai-of-course/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 37
+    images:
+      - url: "https://static.israel21c.org/www/uploads/2023/05/COVER_courtesy_of_Session_42_s_Facebook.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Snorkel AI Introduces New Foundation Model Data Platform"
     excerpt: "Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic"
     publishedDateTime: 2023-06-12T16:41:00Z
