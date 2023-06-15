@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "When AI Overrules the Nurses Caring for You"
+    excerpt: "Artificial intelligence raises difficult questions about who makes the call in a health crisis: the human or the machine?"
+    publishedDateTime: 2023-06-15T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-799675/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Generative AI startup Mistral AI raises 105 million euros in seed-stage funding"
     excerpt: "The company is founded by ex-Meta and Google AI researchers, Guillaume Lample, Arthur Mensch and Timothee Lacriox."
     publishedDateTime: 2023-06-14T07:13:00Z

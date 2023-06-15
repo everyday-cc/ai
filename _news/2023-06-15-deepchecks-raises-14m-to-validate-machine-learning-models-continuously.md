@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuo
 webUrl: "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuously-validate-machine-learning-models/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 3648
     isCached: true
 
-secured: "H1R89iBuONIACBXfOGRYxC0vSBYQJe5JiIAGwPz2WlfHOkNX58z+oEVkTg7C6LHveM/IjV86TK5EpO1lZZt//3hto6q9KC+2hWuU8+e933b5no4DI6h/y5HqRVMgVJstnouaDABhzh9MBa39SYC3G2tTbem2PGqOh0K5EukoryGTnXMgUnRjvq7VlCo7F2AInCxRn7hBbz9VlmCDTL78MxXpY15iwlsR7McX4XVMEGiqD5ZoemJj3Hd0GW4TZLfKW9mT6dbYxh1azBMc66wV+W6ikBKuuaACNPNHSJ/sA4POwtfANb8U8aZK9AVI/ZIU7NnERDSCvJk6czxM/UYUgrdVQYAf1YQzggvh9d1CXuM=;A3Sv1UsfOcu+P7o5DyyCIw=="
+related:
+  - title: "Deepchecks unveils its open source solution for continuous validation of machine learning with $14M seed funding"
+    excerpt: "Deepchecks is the emerging standard to make machine learning safe and predictable from research to production TEL AVIV, Israel, June 15, 2023 /PRNewswire/ -- Today Deepchecks announced the general ava"
+    publishedDateTime: 2023-06-15T06:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32868381/deepchecks-unveils-its-open-source-solution-for-continuous-validation-of-machine-learning-with-14m"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32868381"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32868381"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+
+secured: "bGnorDWxMbaOwUbllZybVUNOaG4+UsUjev2NGLa/b6LpPTDMQoJ4OI4D4VMWXBIfVsFTTTywT+2/2x2+buXZDiQRLqVMDr7oDF49uh28yyqu1tvUPWo2AKPTwRgd8LF7Eu4QTJgAatfkPmnJEYrnUHmurecHCfMhIwUB8sTHG2M1zErr+hBjyjYpHtG71GJoCn1hNfGvUfwNsKxzRAGySwv2kJ0Q5xEm9Dg0l2515uWTihjxyC62RfJGsjESjsluMi0iSBwRKJoxSsQ3MMMS4pcwhZoAmDGltGMbSfmPRLJ5CrwG8lCgpfmE8WRLtfPdg0RzIQRqH77w6JfkkiHOIzXu1mfWAae59A3hckJog3XOAAa5b80oY5zGVronD3hqEDXnMmcQTI+GHIACHYTMgFb3SvaHnv1NKXvKDoDuUldtGP7xIeovbdJKjDjDiG6O7Spwtl8UETKuxaM8m/RLXbKmeTWz0q+p5qSQ0z7Ke9XwXaX5wckQkGvOYWGkg578tgAmyb0O1+abXz7b7m+TGA==;SCyC0dP5JYVsXrMRSzjEHg=="
 ---
 

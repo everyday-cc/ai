@@ -35,6 +35,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "OpenAI Launches New Version of Generative Text Feature: Revolutionizing Language Generation"
+    excerpt: "OpenAI's new version of the generative text feature marks a significant milestone in the field of artificial intelligence and natural language processing."
+    publishedDateTime: 2023-06-15T10:54:00Z
+    webUrl: "https://news24online.com/tech/openai-launches-new-version-of-generative-text-feature-revolutionizing-language-generation-psg/143581/"
+    ampWebUrl: "https://news24online.com/tech/openai-launches-new-version-of-generative-text-feature-revolutionizing-language-generation-psg/143581/amp/"
+    cdnAmpWebUrl: "https://news24online-com.cdn.ampproject.org/c/s/news24online.com/tech/openai-launches-new-version-of-generative-text-feature-revolutionizing-language-generation-psg/143581/amp/"
+    type: article
+    provider:
+      name: news24online
+      domain: news24online.com
+    quality: 49
+    images:
+      - url: "https://news24online.com/wp-content/uploads/2023/05/ChatGPT.jpg"
+        width: 1280
+        height: 850
+        isCached: true
   - title: "First Generation SiMa.ai Edge AI Platform Enters Mass Production Amidst Surge in Company Momentum"
     excerpt: "SiMa.ai, the machine learning company delivering solutions for the embedded edge, today announced it is experiencing significant company-wide momentum including a rapid rise in customer demand, new innovation accolades,"
     publishedDateTime: 2023-06-13T13:01:00Z

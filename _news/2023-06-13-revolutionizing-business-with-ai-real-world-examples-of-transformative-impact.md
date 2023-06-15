@@ -45,6 +45,22 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "BBVA Selects AWS to Accelerate Its Data-Driven Transformation"
+    excerpt: "With AWS, BBVA can harness its data to remain at the forefront of banking innovation, boosting its business insights and developing more compelling and personalized banking services quickly and cost-effectively."
+    publishedDateTime: 2023-06-15T10:08:00Z
+    webUrl: "https://www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/"
+    ampWebUrl: "https://www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/amp/"
+    cdnAmpWebUrl: "https://www-bbva-com.cdn.ampproject.org/c/s/www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/amp/"
+    type: article
+    provider:
+      name: bbva.com
+      domain: bbva.com
+    quality: 59
+    images:
+      - url: "https://www.bbva.com/wp-content/uploads/2023/06/BBVA-datio-AWS-1024x575.jpg"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Intelligent Document Processing market grows as important subset of digital transformation"
     excerpt: "As the pace of digital transformation accelerates, the Intelligent Document Processing (IDP) market is ramping up. Here's a snapshot of IDP―what it is and why it matters."
     publishedDateTime: 2023-06-13T15:48:00Z

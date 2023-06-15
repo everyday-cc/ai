@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-r
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
 type: article
 quality: 50
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/04/6430125ed7ad11.41242738.jpeg?w=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "AI is coming for jobs, but it might be San Francisco’s best hope"
+    excerpt: "Venture capitalists have funneled nearly $2 billion in San Francisco-based AI start-ups this year alone, a frenzy of activity that market researchers say could help usher in another tech boom for the beleaguered city, salvage its reputation as the ..."
+    publishedDateTime: 2023-06-15T11:02:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/06/15/ai-taking-jobs-san-francisco/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6Z4M76FEK26XEGV62AXIVRC6A.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
     excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."

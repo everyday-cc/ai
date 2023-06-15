@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/ai-enabled-digital-assistants-development-wor
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-enabled-digital-assistants-development-worth-having-conversation-about-revenue-teams?amp"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 740
     height: 450
     isCached: true
+
+related:
+  - title: "AI Takes Center Stage In Tech Development, But Enterprises Still Require A Digital Foundation"
+    excerpt: "How can technology leaders best leverage AI to benefit their companies and their customers? We've focused on a few areas that all technology leaders could benefit from."
+    publishedDateTime: 2023-06-15T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64492aaf47015e74f7f3312b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "BShvVtmVYOnjbnnMCMvS9wEOcCufKJEY2R4j92kHQKdRaqYfG/t0MlPj3NV5mG6dtVV89NtR4U3lfet4AhEhDns87BidGzXRNDIhR30/gDtR7comCmVwq9cliqV7V8c6ilJAuupQAKLk0EMa42h3pSZv8AyXz4+YxISw4p6mMu0Q4VelwjqwoRk1qg3P82PC+V05qZwIalrGHR9Sc8mJv5MmU560t74ATgff6GThShbY4higu7uDyPF+XgB+/4YgvR4JqbFS3k9qhDgPC0RGbAgtYK4wbdMBokBBoWK73hoBHQ8R1Tk2UwcSWxWE8d+3xv7hHjxxCDBzBlvwhXH7YCuD8iAonOv/1o5FY0UbtyeHpdTlcnvB6+gvAwaJEcZKz6gC3cgmKdBKGKJWzwjiq5jmUJS6hwYvbJylTvPfB64LBzq2AiSGRnGZl+NnJ6l60FQ0aC/+ceAIoVa+WpN1FlG5Tuug0mZZq1nJ4v3xUCdItNZ7kf+1KAEbBCcDZNEFav0fST0ctRwrqy9ECKPGCQ==;shZhLC66mNpTz9cxraxi0Q=="
 ---

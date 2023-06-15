@@ -46,6 +46,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "AI Is the Gold, These 3 Stocks Are the Picks & Shovels"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying the new gold rush hitting Wall Street, which is the"
+    publishedDateTime: 2023-06-15T10:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-the-gold-these-3-stocks-are-the-picks-shovels-1032391172"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "0OE2FX7Fcqa4b2uIYtNvzZYZu5R2QKplGbiq8B42g5ZaGommZdOwAlcoLHGZjIOEZKecLm3lmz7rRY0oADIVnrF6Q7VImfJ8wqkCSepRsQFiaJwxjqIShvjS0zPdAxVC84Xw0aZ7t2HB/V8XL8vjyez4iPqIIBENsz4hPwMdltrC+7Zaki4Fbj804shGRzHg3X/NhVIOhRZAcf++X/rQCJyhjX0C31zWLe8q6zcdPIsesiwhdvxSm3Xn84Aayq1A1Nji7qu9czdfu+rO4dCqYc7ypLnJ04tCTx5grpd/+nchP3yp4AcIaGZY2C2mPX5x4ySMjx3KrlJ8bKvWbCZSp2UCl/5F9fozqAP+5i/yznHQzIoyua8DrlF4wtKeFoNCXE+RWWDtNesO5hc3zmVHOPTyDIA3YDmTbWr3qPIds4mywKInUd50LyzwU8dS1sMOft9dXcAcnmD8mlvtBftPHn0yB9AlnUq8ksSNoO5/WYtGikMlInTOu7ykFOKXMqaPSN9RoS2yvuXwd+JCFF12fw==;7/IMWlQB1eGgGPE9gK5FoA=="
 ---

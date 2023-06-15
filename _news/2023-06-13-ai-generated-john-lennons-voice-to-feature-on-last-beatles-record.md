@@ -55,6 +55,20 @@ related:
         width: 620
         height: 572
         isCached: true
+  - title: "Artificial intelligence used to create ‘last recording’ from Beatles"
+    excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used. We’ll send you a myFT Daily Digest email rounding up the latest Photo essay news every morning."
+    publishedDateTime: 2023-06-14T00:23:00Z
+    webUrl: "https://www.ft.com/content/eb3f7669-49d5-4a7e-afb6-fedc2d9c8665"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7df1f6d5-8283-45b0-8bfb-b21a1eb24f81.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
   - title: "The Beatles are releasing their ‘last’ record. AI helped make it possible"
     excerpt: "Paul McCartney says artificial intelligence has been used to extract John Lennon’s voice from an old demo to create “the last Beatles record,” decades after the band broke up."
     publishedDateTime: 2023-06-14T03:34:00Z

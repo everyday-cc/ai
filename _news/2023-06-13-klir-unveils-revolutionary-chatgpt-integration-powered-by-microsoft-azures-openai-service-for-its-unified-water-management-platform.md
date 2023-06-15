@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "ChatGPT creator Sam Altman meets Modi, discusses global regulation for AI"
-    excerpt: "Creator of ChatGPT and CEO of Open AI Sam Altman called on Prime Minister Narendra Modi and talked about its downside and why it is important to look into it."
-    publishedDateTime: 2023-06-10T18:47:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/chatgpt-creator-meets-modi-discusses-global-regulation-for-ai-515746"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 18
 
 secured: "RwLTo8evUdH90g9XsFZwyspMm16aGnV/qW0vCzSxgPXkDVQAodKAp190v+FhlObjstrXfJIQleczo5BSfyq6oa/fXbQqy1xZKTduzIrczULnmJnqkGyvjPGrCxT3xd1znNMksrugCa10dEozSMetTpUvY9r7PGQUBkSXEyiBjjU8IMNBhjr9BtZ8+LgXq41mZdCfjLQj/YlnDqcAk6ucqgdZGcujB2a9/FbLuYzJt2UIKMh2PlfcPqZCk6aoP5qxYQb2UQ7N+3K1Ev7PdQ7Qe42zcbCs6qImwErWJ9KLhn6wLvHHnBCyfVfViD47nXr/bSFqPRttyX3siGaug9rvYv/EInD3ZYUpbttaxtsHTqKPk5S+1Rim9QCE2pkd2Pu+fRZiGe/ulU+fo7M0NQfkwdXdoAp2eUxwAPL740YRL29Bm3LQHTWjld7mxarg87+DQL5EiIolBoOLjVaZbDXq5OagYJN9HptpCCmXO8bSRE4RhAmRptQJUwtUON8GzNZLKzmBjZMygUo4IvuRNI8Akg==;sM39xdxISMRkr0yZ6x2UkA=="
 ---

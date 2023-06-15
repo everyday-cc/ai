@@ -68,6 +68,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Artificial intelligence used to create ‘last recording’ from Beatles"
+    excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used. We’ll send you a myFT Daily Digest email rounding up the latest Photo essay news every morning."
+    publishedDateTime: 2023-06-14T00:23:00Z
+    webUrl: "https://www.ft.com/content/eb3f7669-49d5-4a7e-afb6-fedc2d9c8665"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7df1f6d5-8283-45b0-8bfb-b21a1eb24f81.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "AQ0iXvx3X19QuAoR5ukfstjPILoXYoFOpyXhDIfl/5XsuVD55GRnYQjvklQIWbZ/k0lo/trHghzNWxtvK3zdR+hyakI+NodXzuciQK8fN5/2HzBxqtgg18U5003/mGc40Yx4HXuCtbAuPX4Y7E24X4eizuMCLpLhLAHGfw7bq5kniulxN1m6jOmiteTNbPDXW6V3FI6/cxWPLrfgNGIrHxYuZ6Hxa8CfDU8qhMXDC1km31FDnIlZUSEnBL5EB8405UIK9UeEL7PnBTqsw3QX0ZIuI5IImM5cwHt2/1Trfoq24Ixn5AbdHdS4nGUZn1NeRVlwf2o+1pqeALL3/NVgKQYUGQ6dFwpKmrb/tO8Ms9Q=;VaG5puXlrXbAB0tfE+4eIw=="
 ---

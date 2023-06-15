@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 773
         isCached: true
+  - title: "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions"
+    excerpt: "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030"
+    publishedDateTime: 2023-06-15T11:42:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 76
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGY3MGQ1ODUtM2NiNS00/0/image2-mohammedalromaizan-vpsapsaudiarabiaandashutoshmuni-interimmpofibmconsultingsaudiarabia-alongsideibm-sapteam-jpg.jpeg?f=3%3A2"
+        width: 873
+        height: 582
+        isCached: true
   - title: "Beyond Automation: How AI Is Transforming Aviation"
     excerpt: "“We strongly believe that generative AI will really start helping scale these things to the much bigger ... the impact that AI will have on the job market is not yet clear. Robots have already taken over some tasks that humans originally performed ..."
     publishedDateTime: 2023-06-14T15:33:00Z

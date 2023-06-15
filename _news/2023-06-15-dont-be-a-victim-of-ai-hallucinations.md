@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Hallucinations in the Courtroom: A Wake-Up Call for the Legal Profession"
-    excerpt: "A brief overview of how generative AI works, the issues in professional responsibility that are raised by the use of the generative AI, and some considerations for navigating a dynamic technological landscape."
-    publishedDateTime: 2023-06-14T14:00:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2023/06/14/ai-hallucinations-in-the-courtroom-a-wake-up-call-for-the-legal-profession/"
+  - title: "Can Generative AI Be Saved From AI Hallucinations By Using Chain-Of-Thought Step-By-Step Techniques, Asks AI Ethics And AI Law"
+    excerpt: "Generative AI is prone to AI hallucinations, but maybe the use of chain-of-thought step-by-step techniques can overcome or at least reduce such maladies. Here's the deal."
+    publishedDateTime: 2023-06-15T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2023/06/Barry-Dynkin-and-Ben-Dynkin-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648a7b3bea640d0f0675c365/0x0.jpg?format=jpg&crop=1589,1192,x266,y22,safe&width=1200"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "xhfxNRIJ0s6XvEAz0FQvqVJeXwY/oZc65BdxTYVM3x1dpuzRB4lsChM+Xbd7EyrjWuDiLU+Npu2etYoJ3CjXvFRj9OI8rNikgmxoO1KY1/VUXnKGdgesh/sVjk2b8eK4hHdQ6exKdOylNY//lZGlULUCw3oHf6+rSEQ6QRxSqU6i0IOC8r31zb+88WJKE+erjqquxTXKO4Ensd6oPprdJatkYRngbTEmpTqMUUNBDJipt42j6zthEh8GogiZOMvSOo+OKRH9luD9FnbtRfTpCmLFJz4CY5oxo6FNv0OdxBUbCxpm7bU7rVN3svhravjucT4RiQ50nJC1MxjaWu2G1Wxrb9LNnRXAq6PJBrGimPA=;XtFUEFmrKQwJ+G5q2v909Q=="

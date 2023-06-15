@@ -138,12 +138,12 @@ related:
     quality: 19
   - title: "Meta releases AI-powered music generator 'MusicGen'"
     excerpt: "Meta (formerly Facebook) has released its AI-powered music generator called 'MusicGen', which will turn text description and melody into audio. The company also released the code and models for open research,"
-    publishedDateTime: 2023-06-15T08:34:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4086770.html"
+    publishedDateTime: 2023-06-15T08:20:00Z
+    webUrl: "https://www.netindia123.com/netindia/showdetails.asp?id=4086770&cat=Science"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: Net India 123
+      domain: netindia123.com
     quality: 19
   - title: "Meta just released an AI music generator that was trained on 20,000 hours of licensed music"
     excerpt: "Researchers at Facebook parent company Meta have developed an AI text-to-music generator called MusicGen. The language model, described by Meta’s Audiocraft research team as “a simple and controllable model for music generation”,"

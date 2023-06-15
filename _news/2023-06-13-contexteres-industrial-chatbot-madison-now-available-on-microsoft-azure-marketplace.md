@@ -164,6 +164,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 32
+  - title: "HCLTech and Microsoft Expand Collaboration to Boost Innovation and Adoption of Generative AI with Microsoft's Azure OpenAI Service"
+    excerpt: "Leveraging HCLTech's deep domain expertise across various industries and Microsoft's Azure OpenAI Service, clients will benefit from innovative solutions that enhance employee productivity, streamline IT operations,"
+    publishedDateTime: 2023-06-15T11:34:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833322.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "GcL9Zz3Ehhnutw8A3+haK/pB2hYVErFNR/7I1DEqVhRiFsQwRt9304i5prlDq49uAyZ4kQD5wtxj7nyjjY5Ldzu2fThk3/5au1STBSdrXuLGLEatFIt5pKi2mNpjm1Qk7HyK6Fpb+qmicktM37Rc5RFaKOrraybXppRyFWJjSgdGaEsZGxFUoZYQkLLF1cE7dN+nb+1aSuGGJMb0VvPrnRV5YuGS+2QpIER9LwCJUuLLlaxcL96Mr3zuwK/Y/09jZJv9fyv7KzT0Q9K/lbR5Tvx1CtJfU/6Y4N1kForK+AW3DwbjkXQeTXr2ryXp3+7exxZjNniAwlif1ALO+n+hkfvwS8LfI+cuBJp81R19x/U=;6lposNTImFhHHiul8/RcWA=="
 ---

@@ -41,6 +41,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "AI Is the Gold, These 3 Stocks Are the Picks & Shovels"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying the new gold rush hitting Wall Street, which is the"
+    publishedDateTime: 2023-06-15T10:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-the-gold-these-3-stocks-are-the-picks-shovels-1032391172"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Up 40% This Year, Is It Time to Sell Your Alphabet Stock?"
     excerpt: "Should Alphabet investors consider cashing in on this AI-influenced bull run by selling some shares? Or will they be better off holding on to the stock because it has further potential to deliver outperformance?"
     publishedDateTime: 2023-06-11T13:35:00Z

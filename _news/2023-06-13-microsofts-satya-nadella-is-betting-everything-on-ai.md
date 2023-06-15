@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/microsofts-satya-nadella-is-betting-ev
 webUrl: "https://www.wired.com/story/microsofts-satya-nadella-is-betting-everything-on-ai/"
 type: article
 quality: 86
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -170,6 +170,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 32
+  - title: "HCLTech and Microsoft Expand Collaboration to Boost Innovation and Adoption of Generative AI with Microsoft's Azure OpenAI Service"
+    excerpt: "Leveraging HCLTech's deep domain expertise across various industries and Microsoft's Azure OpenAI Service, clients will benefit from innovative solutions that enhance employee productivity, streamline IT operations,"
+    publishedDateTime: 2023-06-15T11:34:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833322.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "PtYouk9modYnr8rDgBo31GFOK4hVq/8Tkfx/KufTzkj1cIKrCEmVX5/vkOpc/mSb5SiiV4fBIRjagcEMjkXODlKpjZUl10/YrQ4R9IVYrfkvFQcyXh3TIMeKrFXhbWth6jW43quaaeihaEvYJucFahvjEYhB4I/4N9EvgD3fg9hPxTXItlU/LapZnbbZ6tgMG7KEjcOOQp6Y1ogXhLPXssm4Xl3dLKJdqnRrUnCjoWRshEtxvyrC5+iyopVol3ZHDgGAjIn6Q7EtNpBevRo2Agd/yE8gLn5zN2MxKr5LnP69rh3Ou3vS/2hXu3M0xk5GMp3xyyQXBnw2MEJuRu1EZUpVlZsc033C7Z8rW1eCNomH3ryhA2INrTP5tl6aw9yf0PNc6vVMHfWimBXNQMPe+sj8qedp1O3pTx5wbG7MlX8D0oP2YF4/PBBawsyr7qxKwLuFmwhSUZkNOsbFDXw/k4jaJiZtlqYjiV9UYjSkquRHSfzbyKR2X+9pCSDoRt8M1ct5vJ/Gpo0xSglMAKPt3A==;BqIEhtNCaSx5KYu/VPgeOQ=="
 ---

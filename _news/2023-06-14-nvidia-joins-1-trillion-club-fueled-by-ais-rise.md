@@ -279,6 +279,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 34
+  - title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
+    excerpt: "Wall Street has singled out a number of chips companies that could get a boost from generative AI. The combined stock market value of AMD, Broadcom and Marvell jumped by $99bn, or 20 per cent, in the two days after Nvidia’s stunning sales forecast last month. But their AI-related sales are not expected to come from the market dominated by Nvidia."
+    publishedDateTime: 2023-06-15T10:00:00Z
+    webUrl: "https://www.ft.com/content/052e9375-b828-4d5c-aca8-d16c8926017c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
   - title: "Advanced Micro Devices has outlined its new AI chips as it beefs up fight with Nvidia"
     excerpt: "At an event in San Francisco, Santa Clara-based AMD unveiled chips that are part of its Instinct MI300 series. They include processors designed to power generative AI applications and a system that ties eight AI accelerators together."
     publishedDateTime: 2023-06-13T19:03:00Z

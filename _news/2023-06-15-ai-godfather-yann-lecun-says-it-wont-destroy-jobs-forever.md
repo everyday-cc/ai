@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-65886125.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65886125.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta scientist Yann LeCun says AI won't destroy jobs forever"
+    excerpt: "In 2018 Prof LeCun won the Turing Award with Geoffrey Hinton and Yoshua Bengio for their breakthroughs in AI and all three became known as \"the godfathers of AI\"."
+    publishedDateTime: 2023-06-15T07:59:00Z
+    webUrl: "https://www.bbc.com/news/technology-65886125"
+    ampWebUrl: "https://www.bbc.com/news/technology-65886125.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65886125.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1232B/production/_130093547_ai-index-meta.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AI 'godfather' Prof Yan LeCun says it won't take over the world"
     excerpt: "In 2018 Prof LeCun won the Turing Award with Geoffrey Hinton and Yoshua Bengio for their breakthroughs in AI and all three became known as \"the godfathers of AI\"."
     publishedDateTime: 2023-06-14T23:02:00Z
@@ -47,6 +63,6 @@ related:
         height: 576
         isCached: true
 
-secured: "fVqP7m6QiVI6nKxQJSQldqkvSMUWmVf0/dbRH6RW6s8ecKSifqolQ7/XbWitTzQ//jn8JHuUlooPKaniwozZXUgyuljOnvxQ4rJoJvFEZ0tSmL4KzquWLr2eFQpRCw/Vu4bw1SqRM1xxfmQlI+x2Vak91gDyi9/GKwV8vtO5a4KUz7js0FfJXJkdgC/oK9xnmVqOxdQUAD6TNFcjAdeAxLwKlujAajwnbsgFUWwd81MKHi9/636eqBwzpamt9Pb8jIHUzEsSgabvSwpYHAWEpvmDWzhB1Aj8AB/gbMvXw6El5vp+gVZcyRiihjWYisYPsaVmnjSQmQ6UMjPSJCQr21sUNLBKcB3UUqNyzCAwoAM=;9yjRAtUYc+VmZHR8UwAhmw=="
+secured: "F+9od7PFdpNulRbyUOdhJLazfbKL40mIhSHeLd8vFM+aEn5MQlyM5p8oGuL1+VwGZ4ey6V6TXLTMOeKr/lD9lxdqXwvWcuxGXUby+oQDzJag5H3Il4w85LdzyPajGFSl6u+GPe5gSkk2XQ81Ip9YkYsJJdRKBJJyM/qhBUXifeW8iWTSmu6Ou6c0relxCxTVI4Ze+ZIMdYlav6hgjplG7nQwq8McrO0DJmAH/oxqg1Wn0UMni4vOIeCwy5YBdR+kksHqk6IRYqDCnnlfRuLXAlD7/Z8ETiA9I2sjoEQ6t9BjcbisgCArNuIJr92nUlaw5FWWruy1ku09ZDl4RRi8gQAuwAR+bxjK7BYMA+Vz81IyEVIiYKFvtgEFaJ2cuskp2C/br49yELjYfmqKXOZtajRqEVQk4sXKfryMJud+ec1S/+JAuhFBlTQjMbBHC4EBRRbx+mmSrP5PPi8H51vdr1FBlNeTidDvd0LNXOVv0BL8UviKNFRg+XspKU2emSTp8/xdw/hf33s95xyBxwJoZA==;vhOuC9MaoPpNYpvyjKWSOQ=="
 ---
 
