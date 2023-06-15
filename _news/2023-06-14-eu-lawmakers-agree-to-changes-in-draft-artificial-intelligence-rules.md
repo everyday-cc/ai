@@ -87,22 +87,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "EU moves closer to passing one of world’s first laws governing AI"
-    excerpt: "Bloc hopes to set global standard for technology – including ban on police use of live facial recognition technology in public places"
-    publishedDateTime: 2023-06-14T13:14:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai?trk=public_post_comment-text"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/45841538e1aeae6c32c2c831ac875b5528ec564a/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=9b617722c7d6c86a671130539aea4b6a"
-        width: 620
-        height: 372
-        isCached: true
   - title: "How Europe is leading the world in the push to regulate AI"
     excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle"
     publishedDateTime: 2023-06-14T06:22:00Z
@@ -119,20 +103,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Battle over facial recognition as EU makes groundbreaking AI law"
-    excerpt: "Israeli authorities have put in place facial recognition to surveil Palestinians in occupied East Jerusalem, says Amnesty International, which also says products made in the EU have been used in China for the surveillance of Uighurs and other minorities."
-    publishedDateTime: 2023-06-15T04:00:00Z
-    webUrl: "https://www.irishtimes.com/world/europe/2023/06/15/battle-over-facial-recognition-as-eu-makes-groundbreaking-ai-law/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 54
-    images:
-      - url: "https://www.irishtimes.com/resizer/N28yYtQ-P22iupGeRH47u30PbJc=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BSCJH3QY3CMOJM7BKW55UXYMM4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "EU lawmakers pass landmark artificial intelligence regulation"
     excerpt: "The European Union's AI Act is the first comprehensive set of regulations for the artificial intelligence industry."
     publishedDateTime: 2023-06-14T11:44:00Z
@@ -142,15 +112,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 47
-  - title: "MEPs agree to curtail uses of facial recognition under changes to draft artificial intelligence rules"
-    excerpt: "The European Union took an important step Wednesday toward passing what would be one of the first big laws to regulate artificial intelligence, a potential model for policymakers around the world as they grapple with how to put guardrails on the rapidly developing technology."
-    publishedDateTime: 2023-06-14T11:35:00Z
-    webUrl: "https://www.irishtimes.com/world/europe/2023/06/14/meps-agree-to-curtail-uses-of-facial-recognition-under-changes-to-draft-artificial-intelligence-rules/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 34
   - title: "AI Regulation in Europe Gets Closer to a Final Vote"
     excerpt: "Legislators across the European Union have come one step closer to implementing broad artificial intelligence regulations. The EU AI Act, a proposed law that would assess and restrict AI applications based on risk,"
     publishedDateTime: 2023-06-14T19:58:00Z

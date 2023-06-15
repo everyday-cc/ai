@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202306/facial-recognition-use-in-p
 webUrl: "https://www.biometricupdate.com/202306/facial-recognition-use-in-public-spaces-under-the-microscope-in-eab-event"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2048
     height: 1152
     isCached: true
+
+related:
+  - title: "French Senate votes in favor of public facial recognition pilot"
+    excerpt: "The law will allow judicial investigators and intelligence services to use remote biometric identification in public for three years."
+    publishedDateTime: 2023-06-15T00:27:00Z
+    webUrl: "https://www.biometricupdate.com/202306/french-senate-votes-in-favor-of-public-facial-recognition-pilot"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "mE3zvLAH2+5Oe8mLvSRVYwQkyN8fii3fVEwkHWEiORpc9x2bZJv9VY6my4bPV+WOee1ec7jvEho/ybcbxIi10CmXYoMVtfSzIbVs5X1AyueSxm6bX2tMpzKurBUQ2CHnbxyCaf5At0i3Vcpe09ye2QDkntvKps5q3t7F1ZjZwG3za0JfZx4+z1fEBaC7OhscycmzNIFKrAci6/zo5BPLoKGRUL8LZYxuCyQMln8cnESFFkgmkTI94zxxn/kIKZ1Cpjkm5yM6jh8zkit6mM843YzVxEY5NCsie7cXBsZsjHFMWGNxVd9eVl1Sl5X1xVW5uzYwdlJ7Y7CQlDi6NVCutgHOKKNUDPU/E0fT/efsVYw=;jpq7s8jb6NSZarQekrF5yg=="
 ---

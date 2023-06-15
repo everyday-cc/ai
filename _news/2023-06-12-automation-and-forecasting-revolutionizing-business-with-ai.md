@@ -72,6 +72,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "The perils of open-source AI"
+    excerpt: "Experts are waking up to the threat posed by artificial intelligence programmes if they fall into malevolent hands"
+    publishedDateTime: 2023-06-14T15:00:00Z
+    webUrl: "https://www.ft.com/content/0cad55cd-7f07-4fd6-86b7-a2bbfacd214c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
 
 secured: "5aUgIV9RIHqkwPqrO7s2Odf+uM8qgWaeoTXyAjWZPcuZl/MDWH2zHMHDTuOo6QcqUcI6vBDs+7mcvNJ75Bv51W1U7DBkDhg4nbUx3dl3ANPMp89cXxpgvVRsns9AXy9o1HGhq3HoxDZtqQTVhnnGOlSn+tIWocvpVvjNOSndHslAjWyv80dg5UJSI+dOZ0S4odklAS17AZinzYtO4djgN0TcRIPAD7+TeEw22OUr3Xu2FTZUgcBGlMuuuZ+1KPKJWF+x+LMrS1u0kWTHqwbBvF/usnufmXmY4uerz5J75NLqmS1BivKHsPK2sOhkN14A+FUKGtctOM0wQsDrpdM4jXZN7OnFGlEYYUXF4D/ue+j9cPBYARknIqe4DM3amqYxLR98Q231qQT8jWkM2YpAO2qA6BMqVCkMmbrY4ultJUgws999i/ajqQIKVP4W5dt7uWB4GyGYC8vD2e0/Q4JRMO+icjmeauDbgOYi+hvIzsyxziueRZxfK0pyNTSxYsEcTjC9L0C6KpxLFW3BnqeAgA==;2fEdbW+EPldQ9RcZ+eTbjA=="
 ---

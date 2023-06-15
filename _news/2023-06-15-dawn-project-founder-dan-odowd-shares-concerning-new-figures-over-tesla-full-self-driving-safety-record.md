@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Tesla Rival XPeng Rolls Out Self-Driving Tech in Beijing. The Stock Is Rising."
+    excerpt: "It’s the first company to roll out an advanced driver-assistance system (ADAS) in Beijing, after it was approved for use on major ring roads and expressways in the capital city."
+    publishedDateTime: 2023-06-15T08:59:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 55
+    images:
+      - url: "https://images.barrons.com/im-417792/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla Won’t Pilot Full Self-Driving Function in Shanghai, Source Says"
     excerpt: "US electric carmaker Tesla will not pilot its Full Self-Driving Capability function in Shanghai, a source at Tesla China told Shanghai Securities News. A recent rumor on Chinese social media claimed that Tesla’s FSD would be available in some areas of China,"
     publishedDateTime: 2023-06-12T07:35:00Z

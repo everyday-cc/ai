@@ -59,6 +59,20 @@ related:
       name: eWeek
       domain: eweek.com
     quality: 64
+  - title: "AI and machine learning will dominate new solutions"
+    excerpt: "On how AI and machine learning is transforming risk management practices ... the application of cloud strategies in risk management have been beneficial to financial services companies by replacing dated legacy infrastructure. Using cloud services ..."
+    publishedDateTime: 2023-06-15T09:01:00Z
+    webUrl: "https://www.finextra.com/the-long-read/681/ai-and-machine-learning-will-dominate-new-solutions"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 56
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/681.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "Z+zaFp8l9BfD3Bf0ysZZ22CUl43lM5witEnv0/qP4QX+P7Z8Oihwf4xU4iOrb4ItLQI1GO7Q1XoVJlT03+ZT366+Aox0mb+hUFHdmpamQNqBAnWNRa5bCAj4QJ6EFvjL3rHofxsTREau/P4ZmUbpRK7BnUEkzD3wcJe6uUYWm1kEx1eQvh5ih+U6QYjJdr5SpKV4daeIocfpuZcDBWs2Hs2LR2DpUwfbou+j7zk9/d8tRKySnY+sxv++XoYnJVT3dJJzVFzMk39HYK9SKD50Egav+/w1G5kRli5zb0XNTcVxOCXkZ7FEjOMLqxdmKr2p93jYWeTBlDSlvzBr/jsRBkfaQ6RmuOaZ+w6GnhgKQJjZ3Dt9z7h39qZ22TSlz7BmDoECf0MIlSTBd7LVM+jqwHXAP1GA8Vp0HHKt2O/voLcQxji/RlZ1e2nzdpguoTcLtMTRmqbUFW/wApbauDz+PbbR5dTOGJORLRgHTP43a35qEJiR8zGR8tc0WnUo1HuEFHn3fDxlxBEIpeHoksoTjA==;b+VJr0oscVpqOMlJWI1u/g=="
 ---

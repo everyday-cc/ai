@@ -177,6 +177,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amazon thinking about using AMD’s AI"
+    excerpt: "It might fit into the invisible plane  Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision."
+    publishedDateTime: 2023-06-15T09:56:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57095-amazon-thinking-about-using-amd-s-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/e3d11e5df6ced9311c7bbd71f2cce315_L.jpg"
+        width: 620
+        height: 503
+        isCached: true
   - title: "Amazon expresses interest in AMD's new AI chips"
     excerpt: "To break Nvidia's dominance, AMD needs a big-ticket customer for its new AI chips. Amazon could benefit from the flexibility offered by AMD."
     publishedDateTime: 2023-06-14T10:40:00Z

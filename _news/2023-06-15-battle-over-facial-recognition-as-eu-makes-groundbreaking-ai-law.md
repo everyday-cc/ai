@@ -25,81 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "EU moves ahead with draft law to regulate AI"
-    excerpt: "The act, which has served as an example for other nations to develop their own AI regulations, restricts the use of technologies like facial recognition software and requires transparency from AI developers to share more data used to create their systems, like, for example, ChatGPT or Bing chat."
-    publishedDateTime: 2023-06-14T16:19:00Z
-    webUrl: "https://www.zdnet.com/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
+  - title: "Draft AI Act Passes, Banning Police Facial Recognition"
+    excerpt: "The European Parliament has passed the first draft of the AI Act, paving the way for a ban on police use of live facial recognition technology in public places."
+    publishedDateTime: 2023-06-15T08:58:00Z
+    webUrl: "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.zdnet.com/a/img/resize/77f737a8d9f3dc00c855519d11f5dd28d79ec0aa/2023/06/14/1ea8cf14-9e3c-43ff-92a5-f9a7db2fa51e/untitled-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648ad1e37f2b8f29459b8891/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "EU takes major steps towards regulating AI"
-    excerpt: "The European Union’s parliament passed a draft law restricting AI, limiting the use of facial recognition software and requiring AI companies to disclose more about the data behind their programs. NBC News’ Gabe Gutierrez has more details on the global debate over the technology."
-    publishedDateTime: 2023-06-14T23:19:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/eu-takes-major-steps-towards-regulating-ai-182262853951"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo182262853951"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo182262853951"
+  - title: "NY Schools Awaiting Decision on Facial Recognition"
+    excerpt: "Following debate at one district, a civil liberties lawsuit and what was initially an 18-month moratorium, the New York State Department of Education is drafting recommendations for facial recognition in schools."
+    publishedDateTime: 2023-06-12T22:23:00Z
+    webUrl: "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition"
+    ampWebUrl: "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1686784674905_nn_ggu_europe_approves_regulations_scam_warnings_230614_1920x1080-uuck9l.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/43ca251/2147483647/strip/true/crop/939x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc1%2Fda%2Fed997e65cb0d0ee391a741549da4%2Fshutterstock-1392652700.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "EU takes major step toward AI regulation as the AI Act moves into final phase"
-    excerpt: "If the AI Act gets put into law, it would become one of the first major laws to regulate the technology. This would put the EU squarely ahead of other countries like the US and Ch"
-    publishedDateTime: 2023-06-14T21:32:00Z
-    webUrl: "https://www.androidauthority.com/ai-act-moves-forward-3335218/"
+  - title: "Facial recognition emerges as AI rulebook’s make-or-break issue"
+    excerpt: "Forget ChatGPT: The battle brewing over artificial intelligence in Brussels is about facial recognition. The Parliament wants to crack down on the use of facial recognition in public places, an area considered one of artificial intelligence's riskiest uses."
+    publishedDateTime: 2023-06-14T15:35:00Z
+    webUrl: "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/"
+    ampWebUrl: "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 64
+      name: Politico Europe
+      domain: politico.eu
+    quality: 74
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/bing-chatgpt-chat-ai-icons-scaled.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "How Europe Is Leading the World in the Push to Regulate Artificial Intelligence"
-    excerpt: "One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights and values."
-    publishedDateTime: 2023-06-14T09:30:00Z
-    webUrl: "https://time.com/6287116/european-union-artificial-intelligence-law/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 63
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
-  - title: "EU lawmakers agree to changes in draft artificial intelligence rules"
-    excerpt: "The lawmakers will now have to thrash out details with EU countries before the draft rules become legislation."
-    publishedDateTime: 2023-06-14T10:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/articleshow/100991890.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-364372,msid-100992047/file-photo-european-union-flags-flutter-outside-the-european-commission-headquarters-in-brussels.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/14/GettyImages-1247531079-scaled.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "EU moves closer to passing one of world’s first laws governing AI"
     excerpt: "Bloc hopes to set global standard for technology – including ban on police use of live facial recognition technology in public places"
@@ -117,31 +89,20 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "How Europe is leading the world in the push to regulate AI"
-    excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle"
-    publishedDateTime: 2023-06-14T06:22:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
+  - title: "Facial recognition bots are scraping private data"
+    excerpt: "PimEyes, the facial recognition platform I used, markets itself as a privacy tool. Working from a photo that you upload, it scours the internet for your likeness and presents the results. The logic is that if you can find your images,"
+    publishedDateTime: 2023-06-10T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/facial-recognition-bots-scraping-private-data-pfs6p5dlw"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F2884f530-078b-11ee-8d81-e0eaecec6481.jpg?crop=8256%2C4644%2C0%2C430&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "EU lawmakers pass landmark artificial intelligence regulation"
-    excerpt: "The European Union's AI Act is the first comprehensive set of regulations for the artificial intelligence industry."
-    publishedDateTime: 2023-06-14T11:44:00Z
-    webUrl: "https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
   - title: "MEPs agree to curtail uses of facial recognition under changes to draft artificial intelligence rules"
     excerpt: "The European Union took an important step Wednesday toward passing what would be one of the first big laws to regulate artificial intelligence, a potential model for policymakers around the world as they grapple with how to put guardrails on the rapidly developing technology."
     publishedDateTime: 2023-06-14T11:35:00Z
@@ -151,24 +112,29 @@ related:
       name: The Irish Times
       domain: irishtimes.com
     quality: 34
-  - title: "AI Regulation in Europe Gets Closer to a Final Vote"
-    excerpt: "Legislators across the European Union have come one step closer to implementing broad artificial intelligence regulations. The EU AI Act, a proposed law that would assess and restrict AI applications based on risk,"
-    publishedDateTime: 2023-06-14T19:58:00Z
-    webUrl: "https://www.extremetech.com/computing/ai-regulation-in-europe-gets-closer-to-a-final-vote"
+  - title: "Breaking news. MEPs endorse blanket ban on facial recognition in public spaces, rejecting targeted exemptions"
+    excerpt: "The debate has been inevitably shaped by developments in China, where the Communist Party has rolled out a massive, sophisticated network of facial recognition cameras to monitor the country's population."
+    publishedDateTime: 2023-06-14T11:29:00Z
+    webUrl: "https://www.euronews.com/my-europe/2023/06/14/meps-endorse-blanket-ban-on-facial-recognition-in-public-spaces-rejecting-targeted-exempti"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
-  - title: "The EU just took a huge step towards regulating AI"
-    excerpt: "The European Parliament just cleared a major hurdle for its AI Act, which would significantly expand citizens' data privacy rights."
-    publishedDateTime: 2023-06-14T18:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-act-european-union/"
+      name: Euronews
+      domain: euronews.com
+    quality: 20
+    images:
+      - url: "https://static.euronews.com/articles/stories/07/67/57/20/1000x563_cmsv2_71361077-d5f0-5ec1-8e16-9785628cba83-7675720.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "AI Act could kill plans to introduce facial recognition technology for gardaí - Irish Council for Civil Liberties"
+    excerpt: "Plans to introduce facial recognition technology (FRT) for use by the gardaí could be dead in the water with the passing on a vote in the European Parliament of the landmark AI A"
+    publishedDateTime: 2023-06-14T13:05:00Z
+    webUrl: "https://www.businesspost.ie/tech/ai-act-could-kill-plans-to-introduce-facial-recognition-technology-for-gardai-irish-council-for-ci/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 13
 
 secured: "uKSRpzr4cFZ+dDoAK+myrZTNELbImFkuyYyGM+xLuQWYlY7vGcAbmOkBXX55xYEiXtkM9SznnKaHch36CSERMurvTV5/6DkMEdzWP8BvyYDNkaLX0ISOvTT8Vt+QZ+dpxEoqmn/aDhr0NLTfvGhnmEsIvfSO5GIPYlViR4LkrTTbwVVYdL7WbyOROs3JfwbMLNyasNNt+KOnXgyyYuGZ34cV4LlpqqF3IkObNFOFZGNqa5FkAkbGm3dINmUDb2NQtplqftH/adD2BhYEjM8LOS/Hl6S1z7o4YDyolao0ErImpNPNwCo90aAeI8qCY3TW0pPhyGhMggz4hlpunvaLJftoXgX5+F1PM0scau+dCeRnFkGFsX8CtoLmBDlprMiGyppgoXpr61wFb0Y4wIlKm7ndNhZaMjfKJXHTnGa79IIuKfnnekWVZEj4IKLGWJE7RVPP59IG3HojHh2te/6ESvnxUb/Y/dg6xsgOulJSBjjQKBPX2dRj7sbEriUTWt44/Aj+no06Hcemi4tDcjWHlQ==;8rlJtoZ4ZjrpnNjISJ1REQ=="
 ---

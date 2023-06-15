@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/brand-stories/why-use-python-for-ai-and-mac
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning/amp-11686566054332.html"
 type: article
 quality: 74
-heat: 77
+heat: 74
 published: true
 
 provider:

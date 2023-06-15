@@ -142,6 +142,15 @@ related:
       name: Telangana Today
       domain: telanganatoday.com
     quality: 36
+  - title: "Microsoft adds AI capabilities, enhances translation features to Skype"
+    excerpt: "In the latest update to Skype, Microsoft has incorporated AI capabilities and enhanced translation features into the platform. The updated version (8.99.76.102 for Insiders) of Skype includes several new features as well as the usual reliability fixes."
+    publishedDateTime: 2023-06-15T08:37:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4086912.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 36
   - title: "EY unlocks Microsoft Azure OpenAI Service to empower EY Tax professionals globally with EY Tax Copilot"
     excerpt: "The EY Tax Copilot program is designed to accelerate how the EY organization innovates, delivers services and provides value to teams and clients LONDON, June 14, 2023 /PRNewswire/ -- EY today announc"
     publishedDateTime: 2023-06-14T17:12:00Z

@@ -144,6 +144,15 @@ related:
       name: GIZBOT
       domain: gizbot.com
     quality: 19
+  - title: "Meta releases AI-powered music generator 'MusicGen'"
+    excerpt: "Meta (formerly Facebook) has released its AI-powered music generator called 'MusicGen', which will turn text description and melody into audio. The company also released the code and models for open research,"
+    publishedDateTime: 2023-06-15T08:34:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4086770.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "RjQubGp0oikHksPiJmIBr/as+PIt0WqQH3rO0RbUdGQAewwARkDY03r24rcJ0/ob9DeBLe1woPVQj+15ZbEkTojqisFVx7p0CnpZsmSxDAfWwCEArTu5C2rHbMaHzMsDIUPO+EljV0vU59bTeLjOPtzgxR3d5W+6gV5nP8yd+2BXH1a3KGKJtXKaHlyOE8iaQSs+F7qhGOojxgoG1NxFtUN6TycOF5DzwQirPqT0sdA9qfuiNjlKXROdrd3l2HRMmUWvsviEQu/gdY6LCLMkOj211/NpSlfxdMRtLHwb3ewVkMd6KzAlJYPJuwBxRnafkkbfnh8B42zt3G0mMDPoHtpAGTzEEz2V3fUw8Iq25yBpTYLE6LOa2hEuQqx7Lyumy5N4Mz7bF/IIfv2ekYSR8nqzIDsi5YfehWewG7QX0FT/Rv1moYZ1yTgs90YfWueZlMP8Txi+MUD24M3cYqn8TUOyTo7V8QLt93/TkXPxnIdz169UQgs4NsAiANHE7UAzBRM+SlzKKwqoFkP9b9NnDw==;OmtK0BZGDu03g+PzeuX2VQ=="
 ---

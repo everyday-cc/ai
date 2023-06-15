@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Draft AI Act Passes, Banning Police Facial Recognition"
+    excerpt: "The European Parliament has passed the first draft of the AI Act, paving the way for a ban on police use of live facial recognition technology in public places."
+    publishedDateTime: 2023-06-15T08:58:00Z
+    webUrl: "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648ad1e37f2b8f29459b8891/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "NY Schools Awaiting Decision on Facial Recognition"
     excerpt: "Following debate at one district, a civil liberties lawsuit and what was initially an 18-month moratorium, the New York State Department of Education is drafting recommendations for facial recognition in schools."
     publishedDateTime: 2023-06-12T22:23:00Z
@@ -41,20 +57,61 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "French Senate votes in favor of public facial recognition pilot"
-    excerpt: "The law will allow judicial investigators and intelligence services to use remote biometric identification in public for three years."
-    publishedDateTime: 2023-06-15T00:27:00Z
-    webUrl: "https://www.biometricupdate.com/202306/french-senate-votes-in-favor-of-public-facial-recognition-pilot"
+  - title: "Facial recognition emerges as AI rulebook’s make-or-break issue"
+    excerpt: "Forget ChatGPT: The battle brewing over artificial intelligence in Brussels is about facial recognition. The Parliament wants to crack down on the use of facial recognition in public places, an area considered one of artificial intelligence's riskiest uses."
+    publishedDateTime: 2023-06-14T15:35:00Z
+    webUrl: "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/"
+    ampWebUrl: "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
+      name: Politico Europe
+      domain: politico.eu
+    quality: 74
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04144353/public-facial-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/14/GettyImages-1247531079-scaled.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "EU moves closer to passing one of world’s first laws governing AI"
+    excerpt: "Bloc hopes to set global standard for technology – including ban on police use of live facial recognition technology in public places"
+    publishedDateTime: 2023-06-14T13:14:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai?trk=public_post_comment-text"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/45841538e1aeae6c32c2c831ac875b5528ec564a/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=9b617722c7d6c86a671130539aea4b6a"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Battle over facial recognition as EU makes groundbreaking AI law"
+    excerpt: "Israeli authorities have put in place facial recognition to surveil Palestinians in occupied East Jerusalem, says Amnesty International, which also says products made in the EU have been used in China for the surveillance of Uighurs and other minorities."
+    publishedDateTime: 2023-06-15T04:00:00Z
+    webUrl: "https://www.irishtimes.com/world/europe/2023/06/15/battle-over-facial-recognition-as-eu-makes-groundbreaking-ai-law/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 54
+    images:
+      - url: "https://www.irishtimes.com/resizer/N28yYtQ-P22iupGeRH47u30PbJc=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BSCJH3QY3CMOJM7BKW55UXYMM4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "MEPs agree to curtail uses of facial recognition under changes to draft artificial intelligence rules"
+    excerpt: "The European Union took an important step Wednesday toward passing what would be one of the first big laws to regulate artificial intelligence, a potential model for policymakers around the world as they grapple with how to put guardrails on the rapidly developing technology."
+    publishedDateTime: 2023-06-14T11:35:00Z
+    webUrl: "https://www.irishtimes.com/world/europe/2023/06/14/meps-agree-to-curtail-uses-of-facial-recognition-under-changes-to-draft-artificial-intelligence-rules/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 34
   - title: "Breaking news. MEPs endorse blanket ban on facial recognition in public spaces, rejecting targeted exemptions"
     excerpt: "The debate has been inevitably shaped by developments in China, where the Communist Party has rolled out a massive, sophisticated network of facial recognition cameras to monitor the country's population."
     publishedDateTime: 2023-06-14T11:29:00Z
@@ -69,15 +126,15 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "HED Receives National Recognition for Exemplary Engineering Achievement at ACEC's Engineering Excellence Awards"
-    excerpt: "The ACEC Engineering Excellence Awards are among the most prestigious honors in the engineering industry, recognizing firms that demonstrate exceptional innovation, technical expertise, and engineering excellence."
-    publishedDateTime: 2023-06-14T13:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hed-receives-national-recognition-for-exemplary-engineering-achievement-at-acec-s-engineering-excellence-awards-1032389016"
+  - title: "AI Act could kill plans to introduce facial recognition technology for gardaí - Irish Council for Civil Liberties"
+    excerpt: "Plans to introduce facial recognition technology (FRT) for use by the gardaí could be dead in the water with the passing on a vote in the European Parliament of the landmark AI A"
+    publishedDateTime: 2023-06-14T13:05:00Z
+    webUrl: "https://www.businesspost.ie/tech/ai-act-could-kill-plans-to-introduce-facial-recognition-technology-for-gardai-irish-council-for-ci/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 14
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 13
 
 secured: "Yyc+159DLv1oreSCfouEO7KeaX1WNgdItnVlnatlVSyAQqpTPu+NykvvAjStQWJiq87R7h/N7wy4cSyetGqydUFycIdqs9AuhNjrDixQqMQ4JP2LcWXzu2D+rf5shGws982zaV+Lq6lIqUxx4b5KVnul/wguvlgeVjulXlL7QYzLzmhv4qdmhUAxOc7gdnec7W7jytJHOdQmE26jMQkPpdsBG4vl32xD+aLaHTcVmEEEL7OXusRibHIfLWGOalJD6tPQx+ndlEj3TEZxASQS7XhTht3f+eP7Y+VMcHpzyXLlzncYqoJETGEoQn2d/3UogCGtVJCsGdf/21smGZswQx4djz3Msi9QV0S15LQdsfxF40PRcPHuQ0JugqyoQq3gJD6FgLMZqb3PeNOM3Yl5Pq89ubvpM1KCq3+++uZbaD3E5Agu3niBoM4u6UEkA2tV6rApH7X3p58dki7b71uWCU/jkkQ5A4eR/JInnV51ytJ6tMiFyH3gKSDRhi37PoWUbFiwrZUSl26Qa4qALwk6GQ==;JcrNBSDIpeDe4Tl1EqUJIA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-watsonx-ai-open-source-pre-trained-fo
 webUrl: "https://www.ibm.com/blog/ibm-watsonx-ai-open-source-pre-trained-foundation-models-make-ai-and-automation-easier-than-ever-before/"
 type: article
 quality: 117
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.ainonline.com/sites/default/files/styles/app_large_full/public/uploads/2023/05/363web-plane.jpg?itok=_y7c-TJV"
         width: 1000
         height: 500
+        isCached: true
+  - title: "The perils of open-source AI"
+    excerpt: "Experts are waking up to the threat posed by artificial intelligence programmes if they fall into malevolent hands"
+    publishedDateTime: 2023-06-14T15:00:00Z
+    webUrl: "https://www.ft.com/content/0cad55cd-7f07-4fd6-86b7-a2bbfacd214c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
         isCached: true
 
 secured: "uKs81ft1BxW/khfuIBk2wuar2QBIBMeMz30jY8iVkaIACR4KiuUWTQ9Vv7Ydk1vxxma+XuyVrb5MSj2YfellgvKTkdQhz9jEeOyDEv+TxhD/wQUkXelEQ/elHA9AiOdbDN8m0OnvqpVqMnqmn1spsvb6GlozqFAcaOkvogg9zlHLjz9Cj2gmQkSnm4C54ds6i/JzXjc+zzW610mBmJiGQwAFimFAZMD7NlIX/b8Z6xTjA9XJZVPE9/R1DXk0TBsvrIgA7ixSPLWRyuB0e4UVazsQLxhImI7ZTtSr80TI7r/K4oS/InKKKpcxkbhRUDF8e/MTpTeqkQ5xPq8mtIhgZOWIkQnbvq4kfK49ADwrbko=;CQLCUiLZ9KyKRxRK5IYckg=="

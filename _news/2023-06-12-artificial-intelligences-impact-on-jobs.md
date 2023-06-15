@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/artificial-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/em/emergency-blogs/disaster-zone/artificial-intelligences-impact-on-jobs?_amp=true"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Government Technology
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI is not yet killing jobs"
+    excerpt: "In the early 2010s many of them loudly predicted that robots would ... of an ai hit to employment. In the spring of 2020 white-collar jobs rose as a share of the total, as many people in service occupations lost their job at the start of the covid-19 ..."
+    publishedDateTime: 2023-06-15T09:42:00Z
+    webUrl: "https://www.economist.com/finance-and-economics/2023/06/15/ai-is-not-yet-killing-jobs"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230617_FNP502.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Germany’s BDÜ Issues Position Paper on AI’s Impact on the Translation Profession"
     excerpt: "Germany’s BDÜ highlights unavoidable need for AI and MT for translators; calls for fairer working conditions and remuneration."
     publishedDateTime: 2023-06-14T08:35:00Z

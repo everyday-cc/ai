@@ -132,6 +132,15 @@ related:
       name: Telangana Today
       domain: telanganatoday.com
     quality: 36
+  - title: "Microsoft adds AI capabilities, enhances translation features to Skype"
+    excerpt: "In the latest update to Skype, Microsoft has incorporated AI capabilities and enhanced translation features into the platform. The updated version (8.99.76.102 for Insiders) of Skype includes several new features as well as the usual reliability fixes."
+    publishedDateTime: 2023-06-15T08:37:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4086912.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 36
   - title: "How Microsoft Teams helped the Breakthru app bring wellbeing to 45,000 organizations"
     excerpt: "The Breakthru app in Microsoft Teams helps increase productivity, focus, and wellbeing with microbreaks in the flow of work. Learn more."
     publishedDateTime: 2023-06-12T15:00:00Z

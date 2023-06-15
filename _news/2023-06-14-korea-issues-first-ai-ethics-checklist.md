@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352971"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352971"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The ethics and creativity of Artificial intelligence"
-    excerpt: "Chef Kardea Brown, is the Emmy nominated host of Food Network, Delicious Miss Brown, and she joined New York Living to talk attending the 36th Annual Chefs’ Tribute to Citymeals on Wheels."
-    publishedDateTime: 2023-06-12T20:42:00Z
-    webUrl: "https://pix11.com/video/the-ethics-and-creativity-of-artificial-intelligence/8727344/"
-    type: article
-    provider:
-      name: pix11
-      domain: pix11.com
-    quality: 54
-    images:
-      - url: "https://pix11.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-        width: 396
-        height: 202
-        isCached: true
   - title: "Altman Urges South Korea To Lead In AI Chip Production"
     excerpt: "Sam Altman, the chief executive officer of ChatGPT developer OpenAI, met with South Korean President Yoon Suk Yeol on June 9 and urged South Korea"
     publishedDateTime: 2023-06-11T12:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-driv
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/amp/"
 type: article
 quality: 109
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: eWeek
       domain: eweek.com
     quality: 64
+  - title: "AI and machine learning will dominate new solutions"
+    excerpt: "On how AI and machine learning is transforming risk management practices ... the application of cloud strategies in risk management have been beneficial to financial services companies by replacing dated legacy infrastructure. Using cloud services ..."
+    publishedDateTime: 2023-06-15T09:01:00Z
+    webUrl: "https://www.finextra.com/the-long-read/681/ai-and-machine-learning-will-dominate-new-solutions"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 56
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/681.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Google's new AI tool aims to make online shopping more diverse and size-inclusive"
     excerpt: "Cher's virtual closet in the 1995 film classic Clueless is one of the most coveted futuristic tech suggestions of the pre-Y2K era. It's also the closest comparison Google has for its latest virtual try-on tool,"
     publishedDateTime: 2023-06-14T19:08:00Z

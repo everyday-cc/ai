@@ -35,6 +35,20 @@ related:
         width: 366
         height: 512
         isCached: true
+  - title: "AI is not yet killing jobs"
+    excerpt: "In the early 2010s many of them loudly predicted that robots would ... of an ai hit to employment. In the spring of 2020 white-collar jobs rose as a share of the total, as many people in service occupations lost their job at the start of the covid-19 ..."
+    publishedDateTime: 2023-06-15T09:42:00Z
+    webUrl: "https://www.economist.com/finance-and-economics/2023/06/15/ai-is-not-yet-killing-jobs"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230617_FNP502.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "uB+ey7s6m8yKofrinjmp4QaTNnbHyQH9le0nK0vhKpGWBcXz/ae9hGaveQDRUlW6BnHjiQ3s5pP9PLDTk2DmCP3VA9pak0V9NX5y7bc4zFagLHE2l4YSAE8OBifNKOWvwv8/nUvSXHyW0/fR0xq7CCXUXXbGv3yG8jCfbvfNt+8jGNAcZFxUJ/FfRC7YThkFsPpALsvJjWq2HeqnyRkUseHHXjKrpwi4N7qHqfXKuwxNp7b0WKGDhOzVkYB3Oqw8h32v+++e2n37fZx75BLBBLbog8fpOJffwlXrwrwchQHj96aEzlEncXanhdDhv1yewba/Iw+Cf9QTiRI3KK88alFOWbOvHUNc4DxPFy0gEYrDrS0V1R6s4is2JtMRavUwXfqEoKIQmMWW/mH0HVWweqPko37bBBgrNmg3yyQJtnRMTYZFu1oty5642dDmn7JFkA+XYuD0Cdwc7F9u6jFf6xbc6hGU9m5ZhJ0QkTnr4Tq7jbkJoaKvNHS96KffP0D/0idmoAr/OvpjMpasXoK6Iw==;VkVwFttyDXEEDwi48qSOHw=="
 ---

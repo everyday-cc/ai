@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/14/europe-takes-another-big-step-towa
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition emerges as AI rulebook’s make-or-break issue"
-    excerpt: "Forget ChatGPT: The battle brewing over artificial intelligence in Brussels is about facial recognition. The Parliament wants to crack down on the use of facial recognition in public places, an area considered one of artificial intelligence's riskiest uses."
-    publishedDateTime: 2023-06-14T15:35:00Z
-    webUrl: "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/"
-    ampWebUrl: "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 74
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/14/GettyImages-1247531079-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Regulation Is Almost Here in Europe"
     excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
     publishedDateTime: 2023-06-14T10:10:00Z

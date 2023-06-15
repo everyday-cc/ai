@@ -7,7 +7,7 @@ originalUrl: "https://www.yicaiglobal.com/news/20230612-10-tesla-wont-pilot-full
 webUrl: "https://www.yicaiglobal.com/news/20230612-10-tesla-wont-pilot-full-self-driving-function-in-shanghai-source-says"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Rival XPeng Rolls Out Self-Driving Tech in Beijing. The Stock Is Rising."
+    excerpt: "It’s the first company to roll out an advanced driver-assistance system (ADAS) in Beijing, after it was approved for use on major ring roads and expressways in the capital city."
+    publishedDateTime: 2023-06-15T08:59:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 55
+    images:
+      - url: "https://images.barrons.com/im-417792/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Dawn Project Founder Dan O'Dowd shares concerning new figures over Tesla Full Self-Driving safety record"
     excerpt: "It was recently revealed that Tesla's Full Self-Driving and Autopilot software has been involved in 736 crashes since 2019, according to analysis of National Highway"
     publishedDateTime: 2023-06-14T17:03:00Z

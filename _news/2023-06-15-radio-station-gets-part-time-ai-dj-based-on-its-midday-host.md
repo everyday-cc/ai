@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 800
     isCached: true
 
-secured: "6MqnwxQ1AuHxOJ6afRSZ+wTUZlm5gaYbyoC9/WXR6jHlTe/qd23KfP9AtIzw20hrV+DKJc/HjSMG9fzP0LDRI9Q8VKEEosQTJ1nLxmt/OacWYOmOCmt3SLFGOLg1eG9LHOFyfnvh0pUq4ZgEFpBtkQ18amTyKlK/8zCEdgENOtOQvvptHfkih2AH+EpVNDX+iAgRmWU9ckk2M3zSuOjgU58CxLhweMWoI+1+i4+KcpC4mRgF2QeM2z4/sny8nLOIEeOvu1fVoR1yzZNfVnrGdaXIcdn0bXoiFO4kJXFYJ/tl0+PtsWuW4SET021Vk/5DiPtjZ+EyrQDxJG3resbJ/1JhaopeH9l/USm2Op43wGI=;6wcsyqn+H1iVYBcWmUM2kg=="
+related:
+  - title: "Tune Into AI Broadcasts: Oregon Radio Station Hires GPT-4-Powered DJ To Assist Midday Host"
+    excerpt: "Live 95.5 's move didn't go so well with many users – at a time when the industry has been seeing several layoffs and station closures. They slammed the company for its decision to replace DJ Ashley,"
+    publishedDateTime: 2023-06-15T09:31:00Z
+    webUrl: "https://www.ibtimes.com/tune-ai-broadcasts-oregon-radio-station-hires-gpt-4-powered-dj-assist-midday-host-3700081"
+    ampWebUrl: "https://www.ibtimes.com/tune-ai-broadcasts-oregon-radio-station-hires-gpt-4-powered-dj-assist-midday-host-3700081?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tune-ai-broadcasts-oregon-radio-station-hires-gpt-4-powered-dj-assist-midday-host-3700081?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 49
+    images:
+      - url: "https://d.ibtimes.com/en/full/1767858/azerbaijan-radio-station-raid.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+
+secured: "6joS0oRP1VrogWmkGNR263/9HLYufJFg0CniVAriwB7hPS8ZU9870fmjvAkkMPWtzlFX3JLoNXVabvW+xyy5uu/wdOgjRM8mqDmkSAvPadsh7pAgzqgjaBn/qaeNGW10mRa7VCK7Kmy6wZbKyjNJma/63Kiaa9/GQa8290/fP83WhJUcggzQvO8MkRIXIbbv6ApZpRQXK9gRcUGX+UV1fCTOj/jcpW+XZCoc23UeyJaVyg/oyk+BrhwFvjZhZcTqJMzAHp2Wlp24iZbvRLY+uRQA6EgOfLTGrQaiGVaFgBz3oGh2Q3qtCt7bvUELI003Jbs2/eqKmdeyqayxp9tAWSPQIhOFbnZ7qasItz/3Fy4AeR9hvz9w9zbTUM34cTSH3XV43mTHnbAnZbsYlcZgBUVOKKuzPqqpoTUISnnmZ+BtlQNMBry8Y4cv75rDKd5XrCZCkgRQuNJzjou8Co5qk+f2v+4WSCT8LFQl46RuNOHTVDC6hT4Cau1XprWN7L5mzpZXOLd2KFvDxLfj590OaQ==;6qa8z+fRuuNL+NHJfSf5sg=="
 ---
 

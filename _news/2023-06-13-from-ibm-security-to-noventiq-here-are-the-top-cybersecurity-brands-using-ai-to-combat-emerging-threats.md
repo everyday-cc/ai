@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Trend Micro brings generative AI to Vision One cybersecurity platform"
+    excerpt: "Trend Micro's new generative AI-driven Vision One platform brings together cybersecurity capabilities including XDR and zero trust."
+    publishedDateTime: 2023-06-15T09:00:00Z
+    webUrl: "https://venturebeat.com/ai/trend-micro-brings-generative-ai-to-vision-one-cybersecurity-platform/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/11/3-Moving-from-zero-trust-to-zero-trust-network-access-2.0.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
   - title: "The Pace Of AI Innovation For Cybersecurity Is Fast And Furious"
     excerpt: "The most relevant disciplines of AI currently used in cybersecurity are ML and its subfield, DL. These subdomain AI technologies can parse through massive datasets to analyze relationships between previously detected threat patterns and new threats, providing descriptive, prescriptive and predictive guidance."
     publishedDateTime: 2023-06-14T13:00:00Z
