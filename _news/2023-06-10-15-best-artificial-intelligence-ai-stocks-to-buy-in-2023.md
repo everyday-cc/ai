@@ -21,6 +21,7 @@ topics:
   - AI in Healthcare
   - AI in Robotics
   - IBM AI
+  - AWS AI
 
 images:
   - url: "https://www.techworm.net/wp-content/uploads/2023/06/best-ai-stocks.jpg"

@@ -1,0 +1,34 @@
+---
+category: news
+title: "WiMi Hologram Cloud Designed A Sensor-based Electro-Holography Gesture Control System"
+excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced the development of a sensor-based electro-holography (EH) gesture control system."
+publishedDateTime: 2023-06-15T17:07:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/15/9833388.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/15/9833388.htm"
+type: article
+quality: 0
+heat: -1
+published: false
+
+provider:
+  name: TMCnet
+  domain: tmcnet.com
+
+topics:
+  - Computer Vision
+  - AI
+
+related:
+  - title: "WiMi to Develop A CNN-based Optical Scanning Holography Reconstruction Algorithm"
+    excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider,"
+    publishedDateTime: 2023-06-13T12:00:00Z
+    webUrl: "https://www.asiaone.com/business/wimi-develop-cnn-based-optical-scanning-holography-reconstruction-algorithm"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 0
+
+secured: "XWK5u7sdjYSB31me10dRk/yzMY+RVXcvHrZ4R8Syl+sibxls13UvTzETWe2FL4ejFAH15Nb00IoHtupjZoxXL7CGXPj4an0bJRysUdP63h2UZxOVdfQFV+HXS/ncTL2qAsRgxxjELBn6YmF6dPyholVVrBD7/ljKZcCjbZy7B9fycoWS3MG6NJiZTrK9K0N7L2kIOeMP0qNNEoTTDAP/0PBd3ZGFyU4Gn0D1PkwnqVXoQzU66M+xiTiPRb/f/EjEEThC4M5DOWUk6skFVeVUGHv1C/fjVuCU9VfWhCbz+OC35FeKV2HLTPcYLA+8ElpqTxTRoQQBH+rKmuv6+pbo/Hii4mh522SLBm1hlsnc9QY=;nXhfJ3l5nsptbimnIeBmvg=="
+---
+

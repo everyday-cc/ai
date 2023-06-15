@@ -147,6 +147,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 7
+  - title: "Cognite Launches Generative AI Accelerator, Promises 10x Efficiency Boost in Industrial Workflows"
+    excerpt: "Cognite AI, a comprehensive suite of Generative AI capabilities within ... “Celanese is building the Digital Plant of the Future and we rely on Cognite Data Fusion on Microsoft Azure to put the right data into the hands of our experts so they can spend ..."
+    publishedDateTime: 2023-06-15T16:34:00Z
+    webUrl: "https://www.datanami.com/this-just-in/cognite-launches-generative-ai-accelerator-promises-10x-efficiency-boost-in-industrial-workflows/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 6
   - title: "Leidos Leads Advancements in Large Language Models and Generative AI, Accelerating Trust and Strategic Partnerships"
     excerpt: "\"Generative AI is going to revolutionize industries and Leidos is at the forefront of putting this powerful technology into action,\" said Jim Carlini, Leidos Chief Technology Officer. \"Years ago, we recognized the potential of the LLMs that power today's Generative AI breakthroughs and began the work to unlock it."
     publishedDateTime: 2023-06-14T21:24:00Z

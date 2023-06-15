@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-
 ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds.amp"
 type: article
-quality: 72
-heat: 92
+quality: 74
+heat: 94
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54cf6e5e-46ce-4bd4-aed5-3dabe9838e97/e3852eca-5cd2-4283-bae9-15fbb23d888a/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
@@ -57,6 +58,6 @@ related:
       domain: devdiscourse.com
     quality: 25
 
-secured: "sSFuMx8VypVhUey0IeT1X2eqklu0qPCs6/ef/aL5G5N+59p3VXQEXIByo8kmLTxgAFRaS3jFww9+PbPBydSGPzCNzlQxhO+vgTnOTl5cYS+RF8MPZRpvMz02gdwk7y6eshPoncSxVwGA89R2qOvQBgn8HwOxeosIIc6lLNrMMIrveqvmzwGC+yHKQwq3ZhWAkbHiJs+HKYTPvUvPyyO7FmiZf54IZQWo6iaMnVCLy9o1AyQEr/NpwLW1GM02NrIhliDcIXI7PW1DwIsPvta2HKrguUtfRtpeJFWbdU2psDjdC23xnYi0yM2qs3OnWS6D46eWiev63dtrZXf6Dy8ArbDVbCTiyqInJq+3wK4sojc=;nfj6mlDXjUYec4q/rgIO+g=="
+secured: "GkLIUsThB3lO7+mCGwrnfIS7xdEW4vkOieV08GBii899kpgd6Mv9G8JTNaN4UGbhc+NSY8o2jxYkjEzwamJBl4Dk+a/mHd+Or/qE9dp3oJ5vXNXSBbSNpbvBHGPSdLai7AeczTnckUdhiaU5DfkZXPnWr5mIWIJbUUwSWvg++u2rAyBOeqUoMosHiAo03s0O30W4cPlhIYJqBoCGHuzyf7Ay2Ek8lgKGST/6rM4JCtWbHZrNOHTriOTvpYuMYHcRxccdukYi6BkWSmhBLLRwoa6zEh/eRZ/fNFlGc2XWycX/MfR1/ekDnswfmuWNqh37tR4RaL+UdMxF1kGZ9e7cOvAr/Znwyt6Ps2jm3R4jjBOlbWGI8zKisezb+7Cs1YpS8lfyi6ZCubPlT1d8OnZUYGgR+BuWBsn74HgQHZ6JfbeSGXyJfAisbuF8l8J9nWWh/gt1jsLxEeZtVZjasYqv2q3n7HRkK9wtFjEDJhrqIuU6IDpBYrnx02l9zHZ3egSmZiQx2VfsbK/waOhm/W1xTQ==;eJAvhkwde3zmNh5mehsYUg=="
 ---
 

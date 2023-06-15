@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208277-artificial-intellige
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208277-artificial-intelligence-smartmetric-to-embed-ai-into-its-biometric-credit-card/amp/"
 type: article
 quality: 68
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -26,33 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "App-less airport face biometrics roll out in India as US expansions meet mixed reaction"
-    excerpt: "Flyers in Gandhi International can now use facial recognition to move throughout the terminal, including security and boarding areas, without a mobile app."
-    publishedDateTime: 2023-06-12T21:29:00Z
-    webUrl: "https://www.biometricupdate.com/202306/app-less-airport-face-biometrics-roll-out-in-india-as-us-expansions-meet-mixed-reaction"
+  - title: "EU votes to ban AI in biometric surveillance, require disclosure from AI systems"
+    excerpt: "The new changes to the European Commission's proposed law—which have not yet been finalized—intend to shield EU citizens from potential threats linked to machine learning technology. The changes come amid the proliferation of generative AI systems that imitate human conversational abilities,"
+    publishedDateTime: 2023-06-15T17:03:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 82
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/12/20144953/india-airport-departure.png"
-        width: 2048
-        height: 1107
-        isCached: true
-  - title: "Recreation robots use face biometrics to serve humanity in US, Costa Rica"
-    excerpt: "Sold by the Costa Rican company Belca Food Service, the Kettybot, CC1 and Flashbot robots provide customer service, room deliveries and surface cleaning."
-    publishedDateTime: 2023-06-14T21:22:00Z
-    webUrl: "https://www.biometricupdate.com/202306/recreation-robots-use-face-biometrics-to-serve-humanity-in-us-costa-rica"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/14172030/Kettybot-CC1-and-Flashbot-robots.png"
-        width: 1339
-        height: 1204
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/eu_flag_hero_1-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "India using face biometrics to fight fraud in voting and mobile registration"
     excerpt: "Indian officials across India are increasingly using facial recognition to identify fraud in elections and SIM card registrations."
@@ -68,15 +56,6 @@ related:
         width: 2048
         height: 1812
         isCached: true
-  - title: "Retail face biometric payments launched in Abu Dhabi by Astra Tech"
-    excerpt: "An autonomous retail store accepting payments through face biometrics has been launched by UAE-based Astra Tech in Abu Dhabi’s Sky Tower."
-    publishedDateTime: 2023-06-13T17:59:00Z
-    webUrl: "https://www.biometricupdate.com/202306/retail-face-biometric-payments-launched-in-abu-dhabi-by-astra-tech"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
 
 secured: "PP179VvPMghY3patgKzFmZpGiUCLBoyMTQkILwYkjm3VpkVrjsgJWvh5BW8iG8tA/Fxd1OTMHDMDl7plhAImMwYqjJTU5YE4MmbYWlUuihUyM7r7qQ6u1lT1/70x3MMGiZQ5qU+OMRx3WTw1uL+laVnVZAnqZUFocNRDv8Yb1ZVz/4oI+oU2Pxd99WMbUG6IE3zyeuX2vI+N4vOxcsdJo4th0xdwcHuXENoXx59DB1Z6mqlMjAdS/71hfSolzIsSlcy/rfyUfTNaCfTjQbYoTZ5FViSALelRACnlq6N4cBS22VArFFN/bun6eYxN7MjjEUMQJYpFWNLyX1OZJBnjsj4V4C8XsQp8zEGN/skQV6dEbtCOgsyrbaw3ydZPe17nqPRsyC+wwgn4/gCqoMCsVfp/xxYQKZgdGwbxN7TSjhjdl6CG0+KwM/0fLsVEgadLA8ldtV4duMPmDDyiREHiBRUJJxx+c6kinalhQbmIVx02SCwsaaV0W/QsH0h2g0u8aNiySpYMAr+58N1xrOVoGg==;lIw1GQu4ole+yfg2wlfR6A=="
 ---

@@ -59,6 +59,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "HCL Tech To Partner With Microsoft To Spur Adoption Of Generative AI With Azure OpenAI"
+    excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness AI."
+    publishedDateTime: 2023-06-15T17:34:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 81
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ht6y4m693myozxkm_1686842932.jpeg"
+        width: 768
+        height: 439
+        isCached: true
+  - title: "How can AI and machine learning improve the use of financial data"
+    excerpt: "How can AI and machine learning improve the use of financial data Businesses gather vast amounts of data every day. Yet between 60 and 73% of that data goes unused, according to Forrester. As a result,"
+    publishedDateTime: 2023-06-15T17:00:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 76
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Reinventing the data experience: Use generative AI and modern data architecture to unlock insights"
     excerpt: "Implementing a modern data architecture provides a scalable method to integrate data from disparate sources. By organizing data by business domains instead of infrastructure, each domain can choose tools that suit their needs. Organizations can maximize the value of their modern data architecture with"
     publishedDateTime: 2023-06-13T17:18:47Z
@@ -253,6 +285,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "/0MKuaA88MaV/tel6UhYTJm39oududAXFRo5M8Z4RNE7a+WnmIylj7A07vaPWs7FwaUoXsj7XmCOZfvrEThK4WN68ljJ+CDm4At1GMqjDcm5lAjDlsWCnqotq51hIlyrLqrJRNN5b3WHtH75nW7C5KPnRWIrG1R1qEeHEgmeBUQYzdUoCgieqWQ4GTez2lfWcZMKyXzUoYuD1A520YHSUCoc3Wisty6rIrprWtECgYR/YuG40ZWljTG1HqjbGkBkQ1uV6K47xP2bbCHQA45eM2sNBrzlsX4ECPpJVLWqw8XDqtNYHnl5G3onIdzTIWgyA5UZbNTxTptWwlJFXfh+L95L4m/bD2+Aj1WIQtLyB8s=;z1P9CwTa+Aqgbu6G3LcIHQ=="
+secured: "tTjtHejOGaOIwwna5Go86LFZOpjCrUuNwRe61Vz1H2aM3JtEQCEG5YhE4zZ10sT3gwv+8rJyHpLr4o1lX7rOCzsEZFd2lAwUFMx2uSWL8qV7knXR/wbYAgeBCw36SYy1mHvfDeBM8pkmGJwE77P76jvhEfOZAfJR9FmZkwzN0/oKh1kUmyhz+Sm6U2Ywo3+BJRms8PgQ0mCaa4nSN47mpMNgiHW/dmShkny0096vPf8nn/T7Vdho5Rg9bvqdMgRpH61bUvSjIIU7dvCWUdnddGBgYT6EvLhm6+qi/hwsSgi5gHRyWRBkq0e7aDklmr2gcUTyfwk+DcTOHJLG4nBZYCphXu2WmFFNYCMxU+Wf9trTId2iyBIcg1W/7LhfnZzR+fpFGpoONgZf5mUrMo1g0A1Rawq9PT8Ox4Ipz4Cd1f5vwJ9jHvmVZXb3W/uVZ4lsbjw075rGP/svKVr6NlYQ+mVPAYVUJ8Ol1QAx62On5uDNC87Azem9JWuWgHTJD7GuALYNdHcd9AD3UJ89/XpTpQ==;mj1y/PYjJcWQrGJEfSr51g=="
 ---
 

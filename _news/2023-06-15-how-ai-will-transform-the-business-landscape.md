@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-15T15:14:00Z
 originalUrl: "https://www.thestreet.com/csuiteadvisors/stories/yasuhide-matsumoto-how-ai-will-transform-the-business-landscape"
 webUrl: "https://www.thestreet.com/csuiteadvisors/stories/yasuhide-matsumoto-how-ai-will-transform-the-business-landscape"
 type: article
-quality: 17
+quality: 21
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - AI Ethics
 
 related:
   - title: "Register now for the Transform Women in AI Breakfast and nominate leaders for the Women in AI Awards"

@@ -1,25 +1,25 @@
 ---
 category: news
 title: "How machine learning and new AI technologies could change the cybersecurity landscape"
-excerpt: "Use Next and Previous buttons to navigate How machine learning and new AI technologies could change the cybersecurity landscape The world has never been more online. From work meetings, emails, and texts to shopping,"
-publishedDateTime: 2023-06-14T19:58:00Z
-originalUrl: "https://www.timesunion.com/personal-finance/article/how-machine-learning-and-new-ai-technologies-18152566.php"
-webUrl: "https://www.timesunion.com/personal-finance/article/how-machine-learning-and-new-ai-technologies-18152566.php"
+excerpt: "Drata's analysis found new technology for data handling has security risks on the one hand and potential security benefits on the other."
+publishedDateTime: 2023-06-15T15:51:00Z
+originalUrl: "https://abc17news.com/stacker-money/2023/06/15/how-machine-learning-and-new-ai-technologies-could-change-the-cybersecurity-landscape/"
+webUrl: "https://abc17news.com/stacker-money/2023/06/15/how-machine-learning-and-new-ai-technologies-could-change-the-cybersecurity-landscape/"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: ABC 17 News
+  domain: abc17news.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/33/24/11/23937620/6/rawImage.jpg"
+  - url: "https://abc17news.b-cdn.net/abc17news.com/2023/06/server-center-gorodenkoff_0.jpg"
     width: 1080
     height: 770
     isCached: true
@@ -62,6 +62,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "MIT-based AI apps startup aims to block supply chain attacks with advanced cybersecurity"
+    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More The digital pandemic of increasing breaches and ransomware attacks is hitting supply chains and the manufacturers who rely on them hard this year."
+    publishedDateTime: 2023-06-15T17:07:00Z
+    webUrl: "https://venturebeat.com/security/mit-based-ai-apps-startup-aims-to-block-supply-chain-attacks-with-advanced-cybersecurity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 38
   - title: "From IBM Security to Noventiq: Here are the top cybersecurity brands using AI to combat emerging threats"
     excerpt: "In this listicle, we present the most trusted cybersecurity brands that are effectively utilizing AI to combat emerging threats., Technology & Science News, Times Now"
     publishedDateTime: 2023-06-13T12:21:00Z
@@ -72,6 +81,6 @@ related:
       domain: timesnownews.com
     quality: 19
 
-secured: "2MyH6SoXBfCmjV3pP0TGWWZIli/mnvAZ01AwveVIGNyyZ/t66CxdpeaX/xjuD/3N/fpLrqFn5ek3P0aa1MzSu2e0ZMYloWTMlXA/wljaTIBSLau2hr0KBCGEKjs2NRGzGuWuYmPMYlytckr+gLxA01R59hJo4MRwxODNxfRP7DpppsL74qeZ2m5ZPO9vjY1GKL8pSP8Gq5gMJPrVcz00zVhNYIYaiOdVXGNR9k71/LVvfJNG5IHmDN0l4enEXj2ZxrHBdaxtjpnW4tNDoGv3zjBH6YN1/XhTlUqG1MR82NprmnmGkUcctOvU+lVULX1eOvQG+pBpO92jxOCKOEHCTnGhFY1fMfSoSuvIkSc2FRBiOVYPeZgEwnzmCx9b7UBxhC2mLJJycjhESNpAuF/ZzkJO/v3lUASMc36VsuzykWtrHj7bVFWEme0KqMO5symGFTzKXOmYSCNhD2JMDt0JDqWAUAODdJzwezH+WLSWAQ498sC3hGnePV9zupL3zvkU7bEUu++Q5t9Ng73sZphG4A==;gGjxnf1HDCOvxeJvTTitcw=="
+secured: "zDJffi/LBwemHCLVfC0cT9BlAOcKWB8XVyrRx++yVEOO5/20XV3GeEedd+Mfg4jaTCnuM2BhXKRDyAcqir0AX4j3aaTYr+5SclqPDpOpD5Z38OQTjTVpasFwjIF8+CXm4H+szeQk7BiX61QKJPM++LAkQ5qH2xRR1MWr/HjmieaQiASaBk/JUDilDjhkhZe3yzTrQbWd+Lk51b+TQiAuf+KDjfzZghKQk/PeDdH1PwqC6mj2JCffJY93LH+E50gCf1KyZeZBzn/+bQoqXGuOYdrIWVmB6MW2iB025oGWIaoUtYxBfBXQ+lgNWFTB4nA2ckxuwjTnAxlbfS0cuHGfYUBQJfZ8e8kWAzVBoSBOIi0=;f7dmoS4NpSHQ/+bnDfnoqA=="
 ---
 

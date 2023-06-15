@@ -51,7 +51,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 17
+    quality: 21
 
 secured: "ao8qpbBwAVyw1omSVKJvvBUjE4Q2hBdRpbr9xZp/SKvXvBOHKOCUXeG1GNsiAQq1GfU/pf8XLY+TGz8dVU3XcmPRwqL0vT39z94DOUIRz11GWtI/ogaCXnXJ044EEkzTZ1XIo/VmjurCvGVR2rzYafx+V3GLJYebAEQTP2Gmk7SwHwxKFRNqSoKnOii9Cnn+1+wEgls0FPyrQHz2WrtxEcJj/WDEdgazSvU3E4/yDN1J/6QwS7YqVWhBj1yEJyMsuLPlEojmk7SdIwWeQV2W1I1jW2WkO+6IAZ5mqFekEI+CsuybV1RqhlqQOofvFLg2OuzkNkKWkAmYNZHvfNcfxqxbccrGhSLTBdfazgUJI/g0fmHgqKF0Vl/n1Mdg4U4xgG3UznXLZ1HfMgyg/LYWFbPdoc0xmdx7os8Axly1S2BVryAPsDiLMbjs4MXFa6VrcfaA6fiehd/x2bwoaO3HQrOP+GETYh0c9svVadeTC3JA99yZjRnwar1t1QIoytmimZgR4ls4kSHnfW67/R5CTw==;RekhUDKKUM00Vjz3+f33oQ=="
 ---

@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial intelligence in the securities industry"
+    excerpt: "Roger E. Barton of Barton LLP discusses the potential benefits and drawbacks of artificial intelligence in the securities industry as many companies race to implement AI-based tools into their service offerings and backend operations."
+    publishedDateTime: 2023-06-15T15:33:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "dXyHpVZFv7umdfZlG/jnhsLnedYISyo4YaS1NC/z7EwmO8osm5kHSEGyDsp+X+e+AiUysGomBkuoytt3z87ibBe9BTLb29QzT2NspZScuzvNkHjR9eFRljD3kFdOqUiXZCfezp3jbgI3qrNDxzdmtFXFDuKUibVgmHZtP0U8iVmngeownWXIeY0Qpo90EArOqxT6pREmzEYfpXnvTf/D2LpQ3XCFtqYi5i283Y5cWWC1wu2IoLyzNw9pkHWxH4CTsRDvOsAfIpO6fKeeQVRIRqoj7zmW0ngNTRzhPJjdLcwaTc5a1Cl26uaCYpBdPDGRbXJMQLmzJ314EpCxwHpq6F7nEEitFhTq/GJ7joq0vteO4cXk66sqWXIOQzcGU9PxFJOTqTns8mELGLhuOx7bHOnnrJkSzdlU7igttAw5pyyiTbLwv+rqPF9IttozirwLu8lmkU/uGjYX1B01wFklzOgWl6mfZu2gMOeU9bYq4Ce2t0vWYWHbmlmKeJuomcmyNeFVHXDhRd8v/OXZ/162vg==;ESpvamEHlAehLJfZsLVqOg=="
 ---

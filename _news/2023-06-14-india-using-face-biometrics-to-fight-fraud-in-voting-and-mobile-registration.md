@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "EU votes to ban AI in biometric surveillance, require disclosure from AI systems"
+    excerpt: "The new changes to the European Commission's proposed law—which have not yet been finalized—intend to shield EU citizens from potential threats linked to machine learning technology. The changes come amid the proliferation of generative AI systems that imitate human conversational abilities,"
+    publishedDateTime: 2023-06-15T17:03:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 82
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/eu_flag_hero_1-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence: SmartMetric to Embed AI into Its Biometric Credit Card"
     excerpt: "SmartMetric is to release advanced fingerprint biometric activated credit card and working on adding embedded AI into card’s electronics."
     publishedDateTime: 2023-06-11T11:06:00Z
@@ -41,43 +57,6 @@ related:
         width: 809
         height: 607
         isCached: true
-  - title: "App-less airport face biometrics roll out in India as US expansions meet mixed reaction"
-    excerpt: "Flyers in Gandhi International can now use facial recognition to move throughout the terminal, including security and boarding areas, without a mobile app."
-    publishedDateTime: 2023-06-12T21:29:00Z
-    webUrl: "https://www.biometricupdate.com/202306/app-less-airport-face-biometrics-roll-out-in-india-as-us-expansions-meet-mixed-reaction"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/12/20144953/india-airport-departure.png"
-        width: 2048
-        height: 1107
-        isCached: true
-  - title: "Recreation robots use face biometrics to serve humanity in US, Costa Rica"
-    excerpt: "Sold by the Costa Rican company Belca Food Service, the Kettybot, CC1 and Flashbot robots provide customer service, room deliveries and surface cleaning."
-    publishedDateTime: 2023-06-14T21:22:00Z
-    webUrl: "https://www.biometricupdate.com/202306/recreation-robots-use-face-biometrics-to-serve-humanity-in-us-costa-rica"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/14172030/Kettybot-CC1-and-Flashbot-robots.png"
-        width: 1339
-        height: 1204
-        isCached: true
-  - title: "Retail face biometric payments launched in Abu Dhabi by Astra Tech"
-    excerpt: "An autonomous retail store accepting payments through face biometrics has been launched by UAE-based Astra Tech in Abu Dhabi’s Sky Tower."
-    publishedDateTime: 2023-06-13T17:59:00Z
-    webUrl: "https://www.biometricupdate.com/202306/retail-face-biometric-payments-launched-in-abu-dhabi-by-astra-tech"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
 
 secured: "+NJWCXNrsCyWNpb5Ljgbgod8nfRlJKzB10NN0OQN30DOH4VpG+6wxfA0+YReh0aZzjCplMAugfhKlbtNEQNro2Fzggs2Voi6a3oqe9qleq+rH48DtVe6mS9WC7dri2tULzVwaT/tuSU64IK8kK/P5l3GQcvYWA2lQuCzlw1HZNNDQir+ZfzYAsaxWEiE2am2HJx9xUDxuOaCk3iHU8Db8/CIR+HA3ovBrkPdogrspHdkIK1fdjzq4Uk95W7mk/nbgkxCEBP+4hxXVFOkbemhwlfq7gmiaZf/qrcBR4JGzvpmLFjAWs+8FMbnSbmCn+4P+sHUURqHinj4hc6IqNyvk0ZuxIQudPpyUGGYt2jz5jo=;XfIGINV1z/lao2xRAiY26w=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-covid.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -40,6 +40,20 @@ related:
       - url: "https://cff2.earth.com/uploads/2023/06/13084935/AI-machine-learning_robot-solving-equation_credit-mikemacmarketing_1medium.jpg"
         width: 1500
         height: 1200
+        isCached: true
+  - title: "Can Docs Use Machine Learning to Determine COVID Treatment Course?"
+    excerpt: "A new study found that a machine-learning approach can trace patient responses to drugs for COVID-19 based on demographic characteristics."
+    publishedDateTime: 2023-06-15T17:30:00Z
+    webUrl: "https://healthitanalytics.com/news/can-docs-use-machine-learning-to-determine-covid-treatment-course"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1150668297.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "5ta4OPbrngs2PJrNLbp+P+ciV3JxJy8As5Wz3yl6EUSta0BMOaoGTIcq8pcg7JCjS436dHgJ1ABNhpcmbqUu5rn+pQ8kR33M/jHuRKH1LjdlnWCaPVRWuN1Ul+GsSVk7hoePn1vGIeAONmscgplI21fse5VP4SsINRqnMcEB6v5tvcRzKHATHPtQ/DpkCxpA6mzkaVIkoOE4e8geUIyWPBCTNjDdkI4Oh7DWlH/TKeFxnmKN0lo1ghkIDH9qLfwNwmpdl8KiHIHB60exmvi3SKnqlntWbEKz7oFCFZkeKBPhGETS6w/Z1E8MWfZACoSCdloLPvPJr5BXBNR+VjxzMHt6kie15cQFVqcqo3H94Enm6svcXeTEFA4moI+w8ye1ifVSlWi7ZOomtojBW1rYNOYc/wpchJWUoqJpSv9jGBVPQGf4Ki+1GE4uf1wBasDR0sPuTLZTYZfXCVThVmOn6nRM566veFdSmbx1cvfql/8FRI3zJq7PbqD7qpVRlWM2qdidQ+4l7KPXfAKFwj8zyg==;jMudZCcwdLWAx1pkKqq3JA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.delcotimes.com/2023/06/15/what-does-a-chatbot-know-about
 cdnAmpWebUrl: "https://www-delcotimes-com.cdn.ampproject.org/c/s/www.delcotimes.com/2023/06/15/what-does-a-chatbot-know-about-eating-disorders-users-of-a-help-line-are-about-to-find-out/amp/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amouranth made a chatbot clone to outsource flirting — and protect herself"
+    excerpt: "Siragusa told Polygon that she first heard about the AI chatbot technology through an agent who mentioned it to her. She’d already been reading about AI and its capabilities. “I just feel like it’s a good for the online creator space,"
+    publishedDateTime: 2023-06-15T11:59:00Z
+    webUrl: "https://www.polygon.com/23736317/amouranth-ai-chatbot-date-interview-artificial-intelligence-forever-voices"
+    ampWebUrl: "https://www.polygon.com/platform/amp/23736317/amouranth-ai-chatbot-date-interview-artificial-intelligence-forever-voices"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23736317/amouranth-ai-chatbot-date-interview-artificial-intelligence-forever-voices"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 42
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/ok3n-CQuG9h95xUt9oIlgOAil00=/0x0:3000x2000/1400x933/filters:focal(1315x354:1795x834):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72373259/Polygon_Amouranth_Interview.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "What does a chatbot know about eating disorders? Users of a help line are about to find out"
     excerpt: "For more than 20 years, the National Eating Disorders Association has operated a phone line and online platform for people seeking help for anorexia, bulimia, and other eating disorders. Last year, nearly 70,"
     publishedDateTime: 2023-06-12T10:29:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/moments-ai-fooled-internet-deepfakes-
 webUrl: "https://mashable.com/article/moments-ai-fooled-internet-deepfakes-misinformation"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence in the securities industry"
+    excerpt: "Roger E. Barton of Barton LLP discusses the potential benefits and drawbacks of artificial intelligence in the securities industry as many companies race to implement AI-based tools into their service offerings and backend operations."
+    publishedDateTime: 2023-06-15T15:33:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How Does AI Fit Into The Future Of Good PR?"
     excerpt: "AI can be useful in certain cases to make PR work more efficiently. Tools exist to help with reporter research, generate media coverage alerts, and even fuel creative brainstorming sessions. ChatGPT was a viral phenom, but we've been using tech tools in PR for quite some time now."
     publishedDateTime: 2023-06-14T11:44:00Z
