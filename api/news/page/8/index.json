@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-06-08-automattic-launches-an-ai-writing-assistant-for-wordpress.md",
+      "title": "Automattic launches an AI writing assistant for WordPress",
+      "excerpt": "WordPress.com owner Automattic launched a Jetpack AI assistant for the popular content management system on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/",
+      "originalUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/jetpack-ai-assistant.jpg?w=840",
+          "width": 840,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/",
+      "publishedDateTime": "2023-06-07T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-blush-the-ai-lover-from-the-same-team-as-replika-is-more-than-just-a-sexbot.md",
       "title": "Blush, the AI lover from the same team as Replika, is more than just a sexbot",
       "excerpt": "Blush, an AI dating sim from the same team as Replika, is designed to \"practice\" dating, from flirting to complex conversations about boundaries.",
@@ -1199,48 +1251,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-integrating-data-center-support-lower-costs-and-decrease-downtime-with-your-support-strategy.md",
-      "title": "Integrating data center support: Lower costs and decrease downtime with your support strategy",
-      "excerpt": "Exploring the benefits of integrating data center support with a single vendor who can provide holistic support.\nThe post Integrating data center support: Lower costs and decrease downtime with your support strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/integrating-data-center-support-lower-costs-and-decrease-downtime-with-your-support-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/integrating-data-center-support-lower-costs-and-decrease-downtime-with-your-support-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T06:06:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

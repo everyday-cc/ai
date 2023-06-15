@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true"
 type: article
 quality: 74
-heat: 107
+heat: 104
 published: true
 
 provider:

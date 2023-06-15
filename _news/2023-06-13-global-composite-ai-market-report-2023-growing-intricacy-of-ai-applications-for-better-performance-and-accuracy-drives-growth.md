@@ -50,6 +50,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 0
+  - title: "Global Neural Network Software Market Report 2023: Rising Demand for Digitalization is Expected to Propel Growth"
+    excerpt: "This report provides strategists, marketers and senior management with the critical information they need to assess the neural network software market. The global neural network software market is expected to grow from $21."
+    publishedDateTime: 2023-06-14T23:25:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/14/9833056.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "GvA9vg+fCH5hACvv1qTdufCdBRGxP4Tkkxlx+tZoUuiY64gscVOOVeLkNn9FsmsMVD4+73D/Aeybo38cfuEusYhOeFjb++R0jZ/Z83/UCi+1tZoOX2TbUC3KL0ocvTLuAUFzIsmPXHApoqEssfBHuhCdRPq5GVV7s5OAdGi0KyP1ZqTFGZGq1gz78AmBg63Joij+pKPcTD10yvhW8U2Eczd9z+bdtx1+1euPmSddt3gxNvCfjtV5HPbFmm/1YQyieNElJQ+1Lr8TFw+7fGTe6OgXVV+PCrQHo/w6DMvd3n/gCQ8Rg+Jlp6elOAPTqG0D2rbwNdRml9ZNZDnPjxbeO7y5K54zaLYTXkK3tetz2WA=;iRS5q97bl+ziNs2LPo18HA=="
 ---

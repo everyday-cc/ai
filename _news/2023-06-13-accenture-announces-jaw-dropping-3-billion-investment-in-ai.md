@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-bill
 webUrl: "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/"
 type: article
 quality: 67
-heat: 120
+heat: 117
 published: true
 
 provider:

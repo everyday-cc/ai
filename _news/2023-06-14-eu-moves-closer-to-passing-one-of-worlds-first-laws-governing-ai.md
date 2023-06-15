@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "EU takes major steps towards regulating AI"
+    excerpt: "The European Union’s parliament passed a draft law restricting AI, limiting the use of facial recognition software and requiring AI companies to disclose more about the data behind their programs. NBC News’ Gabe Gutierrez has more details on the global debate over the technology."
+    publishedDateTime: 2023-06-14T23:19:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/eu-takes-major-steps-towards-regulating-ai-182262853951"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo182262853951"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo182262853951"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1686784674905_nn_ggu_europe_approves_regulations_scam_warnings_230614_1920x1080-uuck9l.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "EU takes major step toward AI regulation as the AI Act moves into final phase"
     excerpt: "If the AI Act gets put into law, it would become one of the first major laws to regulate the technology. This would put the EU squarely ahead of other countries like the US and Ch"
     publishedDateTime: 2023-06-14T21:32:00Z

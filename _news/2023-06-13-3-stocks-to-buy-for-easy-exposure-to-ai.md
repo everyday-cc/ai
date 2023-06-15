@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "3 Strong-Buy-Rated AI Stocks to Watch"
-    excerpt: "Nvidia is likely to remain the heavyweight champion in the AI race, though, and it’s a worthy newcomer to the $1 trillion market cap club. As the company launches new chips tailored for AI, one has to think that firms will be quick to submit their bulk ..."
-    publishedDateTime: 2023-06-14T01:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-strong-buy-rated-ai-stocks-to-watch-1032387474"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/06/image-283-1024x345.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 1024
-        height: 345
-        isCached: true
   - title: "Up 35% to 169%, Is It Time to Buy These 3 AI Stocks?"
     excerpt: "What's more, leadership is bullish that as the AI wave continues to roll across the business landscape, Microsoft will be able to profit from it. The company already has more than 2,500 Azure OpenAI Service customers, and 36,000 organizations utilize AI ..."
     publishedDateTime: 2023-06-11T08:00:00Z
@@ -45,24 +31,24 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 49
-  - title: "3 Stocks These AI-Powered ETFs Are Betting On"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Given how popular artificial intelligence (AI) exchange-traded funds (ETFs)"
-    publishedDateTime: 2023-06-14T09:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-powered-etf-stock-picks-to-buy-1032388370"
+  - title: "3 Strong-Buy-Rated AI Stocks to Watch"
+    excerpt: "The recent rally in AI stocks has been the talk of the town these days. OpenAI's impressive large language model (LLM) ChatGPT opened the floodgates of enthusiasm. Indeed, many of us have now had time to get comfortable with generative AI."
+    publishedDateTime: 2023-06-14T01:08:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-strong-buy-rated-ai-stocks-to-watch"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 49
-  - title: "How to Retire Rich: AI Stocks Edition"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Not many of us remember how the emergence of the Internet changed our lives."
-    publishedDateTime: 2023-06-14T12:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-retire-rich-ai-stocks-edition-1032388817"
+  - title: "Up 40% This Year, Is It Time to Sell Your Alphabet Stock?"
+    excerpt: "Should Alphabet investors consider cashing in on this AI-influenced bull run by selling some shares? Or will they be better off holding on to the stock because it has further potential to deliver outperformance?"
+    publishedDateTime: 2023-06-11T13:35:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/GOOG-Q/pressreleases/17621453/up-40-this-year-is-it-time-to-sell-your-alphabet-stock/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 4
 
 secured: "ZdOWv45RvwSNTsKKYxE4Kbnuv7+rFzL2lz9uHAPvF2QpVjwnBeDIQ8LPTazR4QQ1cgucBgmFd5Q9w3cMD5DQ/+PrfY0FdaRB0yHL4l+pji1ZxtFILqElAIyAFatj9O0K7mA2fTjLRXnfCWagqicFJ9HALtL6AO2xkdmLDo5udCY4xuLbeL8vpHjJazeunfaofY/r3QR35tCSPuMKFkyP4/b9W486HaKTC4IAzjygeJN5KEiP9M5pTH9NzEKCEcGHKbcYB4D4PwaSV/Gsec21GnC/287eL6YIVKSZAThPfhiNnBEZBkKKdT9gPadZQfxz2EUkTT16czLQ8nSygNtlT9xLwsWfN2IU3YawfmN4rW1VXbF1n1zZg8im5LyB4LLn/LxYHa7DD5EtGRLSn86EUnzvRyk3LnK3/7GWr+OhuET3LqOYaWzDWwqMKZwyx39mdg0ROpm+cS6n7zRwLtdkVXwf91KqLme8cPpyurm86DLyzMvAjVaSAFywNFY5kqfaNZZABDzO3PAlx9/7HMr9+A==;f9TaiGQ+siWg7XxS/fwMtw=="
 ---

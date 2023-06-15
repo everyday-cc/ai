@@ -2,6 +2,49 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-05-08-we-know-that-ai-is-sexist-and-racist-is-it-also-ageist-resisting-the-allure-of-techno-solutionism-in-aged-care-provision.md",
+      "title": "We know that AI is sexist and racist — is it also ageist? Resisting the allure of techno-solutionism in aged-care provision",
+      "excerpt": "AI should be implemented in aged care as part ... The ABC’s Religion and Ethics portal is home to religious reporting & analysis, ethical discussion & philosophical discovery, and inspiring ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/religion/ai-is-sexist-and-racist-but-is-it-also-ageist/102316098",
+      "originalUrl": "https://www.abc.net.au/religion/ai-is-sexist-and-racist-but-is-it-also-ageist/102316098",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/6eef0016680bc7720af095e9fd8b5bbf?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+          "width": 862,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity-in-exciting-and-frightening-ways.md",
       "title": "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways",
       "excerpt": "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg.",
@@ -1147,48 +1190,6 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-the-best-way-to-avoid-a-down-round-is-to-found-an-ai-startup.md",
-      "title": "The best way to avoid a down round is to found an AI startup",
-      "excerpt": "In fact, new data from Carta, which provides cap table management and other services, indicates that AI-focused startups are outperforming their larger peer group at both the seed and Series A stage.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/06/ai-startups-q1-investments/",
-      "originalUrl": "https://techcrunch.com/2023/05/06/ai-startups-q1-investments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -6,9 +6,9 @@ publishedDateTime: 2023-06-14T13:00:00Z
 originalUrl: "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/"
 webUrl: "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "ServiceNow unveils Now Assist for Virtual Agent, a generative AI solution for self-service"
@@ -36,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NICE announces launch of digital and AI advice service for healthcare sector"
-    excerpt: "The AI and Digital Regulations Service is a multi-agency collaboration between NICE, the Care Quality Commission, the Health Research Authority and the Medicines and Healthcare products Regulatory Agency (MHRA)."
-    publishedDateTime: 2023-06-13T11:53:00Z
-    webUrl: "https://www.pmlive.com/pharma_news/nice_announces_launch_of_digital_and_ai_advice_service_for_healthcare_sector_1493003"
-    type: article
-    provider:
-      name: PMLiVE
-      domain: pmlive.com
-    quality: 51
-    images:
-      - url: "https://www.pmlive.com/__data/assets/image/0006/1453227/Clinical_development.jpg"
-        width: 480
-        height: 321
-        isCached: true
   - title: "Oracle beats expectations, reveals upcoming generative AI service, sending stock higher"
     excerpt: "“Aside from cost driven share gains, OCI also has the one thing that every AI startup is asking for today, spare GPU capacity,” Zukin wrote, referring to graphics processing units. “Similar to getting those first cloud workloads during ..."
     publishedDateTime: 2023-06-12T23:36:00Z
@@ -64,34 +57,7 @@ related:
         width: 2047
         height: 1365
         isCached: true
-  - title: "ServiceNow adds more AI with Now Assist for Virtual Agent"
-    excerpt: "ServiceNow is integrating more AI functionality into its platform. It recently introduced the AI chatbot Now Assist for Virtual Agent. The generative AI"
-    publishedDateTime: 2023-06-14T12:56:00Z
-    webUrl: "https://www.techzine.eu/news/applications/107490/servicenow-adds-more-ai-to-now-assist-for-virtual-agent/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 19
-  - title: "ServiceNow extends its AI capabilities with Now Assist for Virtual Agent"
-    excerpt: "During the event, ServiceNow introduced several new generative AI features for its platform. Now Assist for Virtual Agent builds on those features. ServiceNow’s namesake cloud platform helps information technology teams manage their day-to-day work."
-    publishedDateTime: 2023-06-13T18:12:00Z
-    webUrl: "https://siliconangle.com/2023/06/13/servicenow-extends-ai-capabilities-now-assist-virtual-agent/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 18
-  - title: "The world’s first self-driving ferry is now in service"
-    excerpt: "The MF Estelle will initially have an operator on board to make sure everything goes smoothly, but will be fully autonomously by 2024."
-    publishedDateTime: 2023-06-13T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/sweden-autonomous-electric-ferry/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 4
 
-secured: "m+U8Ivwx5H1NEFduxcpfdylL4kT1QCh/gu9zCMzBhoywCKoE45NBcuF71S/fri8ije7PTa9tny7toc4w/iAhmaUdSlz3chYLGhDgIxuofA79vpQ97VVTOaScLTYExJbJMTZIEgya1MmqWBmwtVihUvJQYPKNfgq2bmyp+7vRTia6sUu77Hq6SKl/3kJ4pGnF3/yVJ8jdEICCJ/vpT/0jTfTb3DKNWjsSSngClYc6s0Q20NKQ6L1rfMXZ6xWfNgrJPjeABH37mbrIdMr2Y46wPQ7sYo4r+OL6xzEMGFfBm1wJ08FzTlEDS3dziNdc6EF0Xx9+MpOISMs0JvDG7LvBSusU5gP+DCa4fTPWPo25xOXRUIxoKDutot20DZNi0rxUCJqrXTrU2kemcXFfMZx+SaMYNyvWOMZAB0lXuEsISvvMzRdE6MdYwKJyAmccXm1/xeLA1SHKUpow7+/5ZJJQG9z6tAj/joNsSAEYvv+z62g6z657UmY/gERz88v/mBGBEPI3GOKOal5RAc85wbx4kw==;KENddMzDMvVwA1KCrz93Ww=="
+secured: "+HFFU35yqW9B3+bdAP/e/6EwbR+kt01445j4y6el1Dof3HPq/C5Kq9zB26Nc7nbxqriLjEvhY7ta83wZdEwPSJYgTeOmbcHVEA5JXISAVkD08kmbcOKltvTSQq+7rPh7AdP3tV0anWayHJUK6vi9FRV7QZL1pwC0I9weDFp5hdICc3WpfZ4LjSdDVkD5L7vPmVJ0ls0lRHeWUptRpMXIouE7EPhFlrMNENiRVpb44Rz8pppc522KTLTYdyYdVjExYIcSYRtpu/Oyqu7JS1OVPNbJ0kQ8LJ7PWgU/FhZxD9EdVOwhFo6C6gWo0fWsJdswwadt+LLT1Ik5Kv+Boqvt/pPv7gj3trnT4iZ3+qnfTpM=;/3qqTlyEKuGvRWu+jFUohw=="
 ---
 

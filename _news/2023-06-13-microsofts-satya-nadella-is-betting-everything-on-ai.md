@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/microsofts-satya-nadella-is-betting-ev
 webUrl: "https://www.wired.com/story/microsofts-satya-nadella-is-betting-everything-on-ai/"
 type: article
 quality: 86
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/profile.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Ernst & Young Adds Microsoft AI Tools to Tax Platform"
+    excerpt: "Ernst & Young is tapping Microsoft Corp. artificial intelligence tools to give its tax professionals a technological edge, it said Wednesday."
+    publishedDateTime: 2023-06-14T21:43:00Z
+    webUrl: "https://news.bloomberglaw.com/artificial-intelligence/ernst-young-adds-microsoft-ai-tools-to-tax-platform"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 54
+    images:
+      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "AWS distances itself from Google, Microsoft with ‘unique’ approach to generative AI"
     excerpt: "AWS has emphasised its commitment to providing customers with the widest range of AI tools, in a strategy that distances it from other hyperscale AI providers. The firm, the third of the hyperscalers to fully enter the generative artificial intelligence (AI) foray,"

@@ -117,6 +117,20 @@ related:
         width: 640
         height: 300
         isCached: true
+  - title: "AI Crypto Tokens Lose Steam as Post-Nvidia Earnings Hype Wears Off"
+    excerpt: "Artificial intelligence (AI)-related tokens have lost as much as 25% of their value in June, as hype around the sector wore off after chip-maker"
+    publishedDateTime: 2023-06-14T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-tokens-lose-steam-as-post-nvidia-earnings-hype-wears-off-1032390187"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://www.coindesk.com/resizer/eBRDq6blcXlVZ9o6b5PKJ20hi9c=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VJ7B7YWIIVFDBNYE4B3C5O4O2Q.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Nvidia Joins $1 Trillion Club, Fueled by AI’s Rise"
     excerpt: "Here is what you need to know about the chip company and its rise to the elite trillion-dollar list."
     publishedDateTime: 2023-06-13T20:24:00Z
@@ -196,6 +210,20 @@ related:
       - url: "https://img.dunyanews.tv/news/2023/June/06-14-23/news_big_images/731843_88288148.jpg"
         width: 753
         height: 423
+        isCached: true
+  - title: "As AMD Seeks to Slash Nvidia's AI Lead, Here's What Traders Need to Know"
+    excerpt: "AMD introduced the firm's Ryzen PRO 7040 Series Mobile processors. These processors bring advanced 'Zen 4' performance and a dedicated Ryzen AI engin"
+    publishedDateTime: 2023-06-14T14:19:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/as-amd-seeks-to-slash-nvidia-s-ai-lead-here-s-what-traders-need-to-know-16126404"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 38
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/16e08cd1-b393-11e9-b14e-6799f7b581ee.png"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AI-Generated Video Platform Synthesia Receives Nvidia Backing At Unicorn Valuation"
     excerpt: "Synthesia is the latest AI startup to raise a big round and hit a $1 billion valuation after a $90 million Series C."

@@ -57,6 +57,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "How AI can have a tangible impact on healthcare"
+    excerpt: "AI and machine learning can help reduce medical errors, relieve administrative tasks, and reduce wait times for procedures in healthcare."
+    publishedDateTime: 2023-06-14T21:51:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/how-ai-can-have-a-tangible-impact-on-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "1qKHUM8xCpkGV+B/MoagFCuiu6xCCjvMq9PsGEdfilovfIE29tk57u8P8lc1UPWVswL3fvCkXpzuMx2Po+bFaV1dpanIPi/S+iu5aoa83KrjLumRRdYf1J7883ReX9qA/Wr7JAUAtBwngRlSz1eIDwnZKFNDFSUbylFA84MFj/+S3rJUIssTgxoDJVUHXn1EFr2HQJIfw9tzqVfsTCUdrwugTpfkUfPI279Rq6ukmXb6bSE0LeC3DuvVW9Qg8yNrZHkPDdiJi+B4VzYyRHZkwcRc9rLUj4x79jRSrRKDaEYNSVKrGZHFgvwnQtz0e3Fb2bRBsNnejDuimPd9wvMbifP97+rhfgLd5Aycf9IQvzyrkZZ0IdiEnj27KKFbYRzs6HULZmCZj+jAuxWoroELXRuIL/jMYQ3Pm2T9trRJfcPJN7LgNJDomrPd6FhFFJYlQQfy/YIAjAXJYGZlB8MGpBghI1VWz/UUa3XNvSUQ/2v2P+oAlD0z+GwM/MjVCE450puYminJ/zLUFLs1F6wPjg==;6sHNS9scTmWkn/xBXp0Pxw=="
 ---

@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "EU takes major steps towards regulating AI"
+    excerpt: "The European Union’s parliament passed a draft law restricting AI, limiting the use of facial recognition software and requiring AI companies to disclose more about the data behind their programs. NBC News’ Gabe Gutierrez has more details on the global debate over the technology."
+    publishedDateTime: 2023-06-14T23:19:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/eu-takes-major-steps-towards-regulating-ai-182262853951"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo182262853951"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo182262853951"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1686784674905_nn_ggu_europe_approves_regulations_scam_warnings_230614_1920x1080-uuck9l.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How Europe Is Leading the World in the Push to Regulate Artificial Intelligence"
     excerpt: "One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights and values."
     publishedDateTime: 2023-06-14T09:30:00Z
@@ -136,6 +152,6 @@ related:
       domain: popsci.com
     quality: 17
 
-secured: "m7DC1wNWhUoiDO8TzmxH5fA/U+2SfhtCi0zN/YaGOUYBy5M6c6AruqPSucBkrqwZvAAbWU6wd0oivokyAwNRMcRkoHOo+xLnBt+hmmZojVvjWKyhgUl2QIoBiaXvLZ+AhQDGyXnVWx9eFs7nBOS7KT45P/MX72a3KNBTTmKlV7WjBZvrrqkGy4Xm/AXlNYQQqAP37mlAQao9BdCszbSsBi2aWRMZ/2ifGO9S0OhF5lsyiREtkyylXLg7nB6C72dTq46DHWNUQ4ZmV9eRSRw2MbLYPuLS6qE0rsMFFNhPNeJfNyVwcRBb/wKEIhYneZgtNOHSgcHzWmW9+TBJXFy6cKtVklT7uAVvsqmguZRSvjc=;ABi1sZ71Wu24VlhdOuC8Yg=="
+secured: "1pOwSyhGdlZA166sl0+6Xy7FVJRiIRQV15bWMduKVDXZ6n8/jxK85yzQmGbdEg8fGk+HS+Zbvt6c2Aw3DDLKQ7fDtprbpDZbcv67Nzwc8Ga9xVeLupvqROVvMDN7HbHIYcp7tewgrIF/nvA0aYdMyvgmwE2zDKfSoU4wfCVHLfZ1OvwLvIFUUeQRSboRKSuDdBfLMEODlPWTfS0JPrp9gEK5YZx4YIsys/NryNUDB5kQttKGO2uenYL1hB6YNWi8Td4YC6GF1lpTO74dMxph0wcoCKGmop5xwMKzsUPmf/a6zSzDangMTx8JhKD22TzP6XSU6o/IW4UfMTMULYeGJ5hyXNVR992BSM4/LqWajNUixB9diikGq0EyDJItTdRm3xMgi5+zVbdpKM4LZrSB3taFmAgS5cm+HRwBdNqS6PFMv4EVi90ebniZOYYBj1Xx5Hx0eO4rK19ob9dPxTeFEvWsgXRRKr+QHK1OSB1370MlA21JucZbRpyKFjy9M4slc7sjLnZBExPkjDADiBmgCw==;vtEx4Z9yk9Uh5SFUqABDQQ=="
 ---
 

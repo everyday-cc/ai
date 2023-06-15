@@ -2,6 +2,57 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2023-04-01-intimidating-and-dangerous-how-much-do-members-of-congress-know-about-ai.md",
+      "title": "‘Intimidating’ and ‘dangerous’: How much do members of Congress know about AI?",
+      "excerpt": "Calls to regulate artificial intelligence are growing on Capitol Hill following a dire warning from tech giants. But many lawmakers also admit they don't know much more about the technology than the average American.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6323724862112",
+      "originalUrl": "https://www.foxnews.com/video/6323724862112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e5987de2-5285-4377-9f8a-b419cc8f00df/4c8bbe0f-b509-4f34-9d66-b8ffc481e867/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-breakthrough-google-ai-based-tiny-syringe-to-inject-gene-therapy-tumour-killing-drugs.md",
       "title": "Breakthrough! Google AI-based tiny syringe to inject gene therapy, tumour-killing drugs",
       "excerpt": "A team of researchers has harnessed Google’s AI venture DeepMind to develop a bacterial injection system which can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells.",
@@ -1170,49 +1221,6 @@
         "Microsoft AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-google-brain-needs-deepmind.md",
-      "title": "Google Brain Needs DeepMind",
-      "excerpt": "It’s already happening! Google and DeepMind are collaborating on a next-generation project called the Gemini. According to a report from The Information, both companies are “ pausing grudges ” and joining forces to go beyond what OpenAI has achieved or planning to achieve.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/google-brain-needs-deepmind/",
-      "originalUrl": "https://analyticsindiamag.com/google-brain-needs-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/image-40-1.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

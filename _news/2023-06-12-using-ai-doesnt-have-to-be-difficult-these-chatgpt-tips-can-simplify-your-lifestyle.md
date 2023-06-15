@@ -258,6 +258,20 @@ related:
         width: 750
         height: 360
         isCached: true
+  - title: "Meta guru says ChatGPT-style AI is out-of-date"
+    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising"
+    publishedDateTime: 2023-06-14T23:45:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/06/15/meta-guru-says-chatgpt-style-ai-is-out-of-date/74340"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 39
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/15/thumbs/400x400/121796.jpg"
+        width: 400
+        height: 268
+        isCached: true
   - title: "How ChatGPT’s Sam Altman stormed U.S. Congress to set the AI agenda"
     excerpt: "The chief executive of OpenAI, which makes ChatGPT, has met with at least 100 U.S. lawmakers in recent months. He has also taken his show abroad."
     publishedDateTime: 2023-06-12T14:00:00Z

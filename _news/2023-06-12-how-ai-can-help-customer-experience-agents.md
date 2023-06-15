@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.pmlive.com/__data/assets/image/0004/1492915/1541285245273.jpg"
         width: 900
         height: 900
+        isCached: true
+  - title: "How AI can have a tangible impact on healthcare"
+    excerpt: "AI and machine learning can help reduce medical errors, relieve administrative tasks, and reduce wait times for procedures in healthcare."
+    publishedDateTime: 2023-06-14T21:51:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/how-ai-can-have-a-tangible-impact-on-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "ThACOrCTLoQ2dioMdeGyy6V99V7BW0KFJSBm4iiBboCzR3wre2cpuKdKHgyr++CPgPo8PfSuzMUQK7tHmS0l+FxP+FuPGim1tKE276Lc+eDVCZjfrKIyTArufbJ+2ifvKOEReC9Ho/6qWIH9dgxvtrF7xz3RBUC9Yj4/9yDQZSmwuT/ZhWOLBPqjbq85eW3/PWQe1i17qY2JXoNrUeyo5wAykggO3pzsY1az0AIyBB9o+0Pj8IDVFBjH8QtQbWzDNYmAOgzlYEtvwKyTyrugBtCsFzwbVNF8RAytU9+BNmo7tny2eKH0VwPOvo20YYZRz9g1hB2OpzTHHOAcYAVdZwzjmjBnskmQRT6NXtbmLO51/p+oeyR/NVIVXaMrDD1U4FGYV1Y6DHh90nGHYkcOtmGsF7Ai75dAGOYs46IKKbiuqSKcJo5D1mEvO9zL/4bV7AgfA6uKt6TnJyXWSEW05s7IQNqCeb6vVejZtwrPxbdeUMko9HMyV0+eqRmrYFuRajKrS/6gaTO1wSY41ZAfhA==;wdOnuFuEb4iMpUcJ7Vk/Fg=="

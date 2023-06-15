@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-03-28-ai-solutions-for-healthcare-market-2023-2028-future-updates.md",
+      "title": "AI Solutions for Healthcare Market 2023-2028: Future Updates",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- The \"AI Solutions for Healthcare Market\" Growth report for 2023 is a comprehensive study that provides valuable insights into the industry's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-solutions-for-healthcare-market-2023-2028-future-updates-2023-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-solutions-for-healthcare-market-2023-2028-future-updates-2023-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-can-chatgpt-versions-make-its-way-in-healthcare-and-research-ft-dr-raju-vaishya.md",
       "title": "Can ChatGPT versions make its way in healthcare and research?- Ft. Dr. Raju Vaishya",
       "excerpt": "Medical information and healthcare have also gained an ample amount of importance in the tech world. Recently, OpenAI Inc. launched a new chatbot, called ChatGPT that interacts in a conversational way and its dialogue format makes it user-friendly and fast.",

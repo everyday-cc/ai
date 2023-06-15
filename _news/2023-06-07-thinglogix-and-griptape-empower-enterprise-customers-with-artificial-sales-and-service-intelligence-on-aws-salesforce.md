@@ -17,11 +17,11 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/06/beisel.jpg?w=2000&#038;ssl=1"
+  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/06/thumbnail_landlord-sued-pioneer-1.jpg?w=2000&#038;ssl=1"
     width: 800
-    height: 449
+    height: 450
     isCached: true
 
-secured: "hu4LfJeXcQVyjxBuG0+7ikKUe9g780VOYHPgaiZjcw3IF2MlClGBkgMAGAIhq89Rd1hKNw/i8quUddQXu5Q7Dpkf/effQ1eAQq2M5qgyXS/aotCtJP/v3NfqnjejsDFazEK3ajrmsUTAFRMqP8q4mTjWiwiVjTORqKLZcecdLKZsQHpCsHyfeHvawV3aGwOUIEhfYwkwpoaJhN5q26/ARe52iPYuDq6i6fBkNWjSpSsAlQcY2h0OyFBoQ286eA39eWsHCiSCvMVsArQhdxdg0A7pNE73sXDFzhTLyIytGmnRDnSQTX82U9EO8rl0H3GVS1g6fRJWpJcQngjUaT064bodKbecTXiJE6Sz5x5Rz00=;VZlBus+A2PDl30aVSZokVw=="
+secured: "zUr/EMU5dVLxGUZTiAZXq0Lqnc0xRN/3qmXxEBwzRs15HUxRSkHfHvbvIxeXW65nDoGDwJPPxcRWhWrcJc5pjenTWx4F/7kg2nygR4Ow4Iv2RZX7OtrwmqhqozQWHuKAx8fywAdn8r0CjS4uVQO7qpbkOftuVVo1I1P+tSrciwh6927HuSfm0zDD93jrj1xwR82acn2v963wZdHya7ztNNCecOwpJuS0pYDjLSvvB0Xjfb8fVedgCbmhoAA3oKqBvGcEslC8GX1c0/dh13lMQO8eTXIrQgSZFHrytrFGTD3eGPaHIC3pk5/vxC8UVjq3jXFFxVidu8gGIKUsyoBbBChevCarj2S5NsFWYvLmWq4=;lFP2aOzYCTpv5dIaU6AnLA=="
 ---
 

@@ -92,6 +92,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Ernst & Young Adds Microsoft AI Tools to Tax Platform"
+    excerpt: "Ernst & Young is tapping Microsoft Corp. artificial intelligence tools to give its tax professionals a technological edge, it said Wednesday."
+    publishedDateTime: 2023-06-14T21:43:00Z
+    webUrl: "https://news.bloomberglaw.com/artificial-intelligence/ernst-young-adds-microsoft-ai-tools-to-tax-platform"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 54
+    images:
+      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Contextere's Industrial Chatbot Madison Now Available on Microsoft Azure Marketplace"
     excerpt: "TheNewswire - June 13, 2023 - Contextere, the pioneer of Blue Collar AI®, announced today that Madison, its insight engine and industrial chatbot, is now available on the Microsoft Azure Marketplace."
     publishedDateTime: 2023-06-13T13:20:00Z

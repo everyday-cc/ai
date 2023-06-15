@@ -106,6 +106,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-14-octoml-debuts-self-optimizing-compute-services-for-generative-ai.md",
+      "title": "OctoML debuts self-optimizing compute services for generative AI",
+      "excerpt": "OctoML's new OctoAI self optimizing infrastructure aims to help organizations build and deploy generative AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-amazons-cloud-unit-is-considering-amds-new-ai-chips.md",
       "title": "Amazon's cloud unit is considering AMD's new AI chips",
       "excerpt": "The remarks came during an AMD event where the chip company outlined its strategy for the AI market, which is dominated by rival Nvidia Corp",
@@ -192,58 +244,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-14-3-strong-buy-rated-ai-stocks-to-watch.md",
-      "title": "3 Strong-Buy-Rated AI Stocks to Watch",
-      "excerpt": "Nvidia is likely to remain the heavyweight champion in the AI race, though, and it’s a worthy newcomer to the $1 trillion market cap club. As the company launches new chips tailored for AI, one has to think that firms will be quick to submit their bulk ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-strong-buy-rated-ai-stocks-to-watch-1032387474",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-strong-buy-rated-ai-stocks-to-watch-1032387474",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-283-1024x345.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 345,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T18:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-14-amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator.md",
       "title": "AMD unveils MI300x AI chip as 'generative AI accelerator'",
       "excerpt": "To be able to run an entire 40-billion parameter model in memory, said Lisa Su, actually reduces the number of GPUs you need.",
@@ -304,7 +304,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -452,7 +452,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 262,
+      "heat": 282,
       "tags": null,
       "images": [
         {

@@ -43,6 +43,20 @@ related:
         width: 790
         height: 497
         isCached: true
+  - title: "Chatbots in the Workplace: Usage Policies and Practical Considerations Related to Artificial Intelligence"
+    excerpt: "The increasing prevalence of artificial intelligence (AI) tools and, in particular, generative AI, is creating more reason for employers to adopt workplace policies that communicate to employees whether the use of these applications is appropriate and any ..."
+    publishedDateTime: 2023-06-14T20:49:00Z
+    webUrl: "https://www.natlawreview.com/article/chatbots-workplace-usage-policies-and-practical-considerations-related-to-artificial"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 22
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/AI_Artificial_Intelligence_Robot_SMALL_0.jpg?itok=vTytjmRH"
+        width: 500
+        height: 333
+        isCached: true
   - title: "An AI Chatbot May Be Your Next Therapist. Will It Actually Help Your Mental Health?"
     excerpt: "Kaiser Health News — In the past few years, 10,000 to 20,000 apps have stampeded into the mental health space, offering to “disrupt” traditional therapy. With the frenzy around AI innovations like ChatGPT, the claim that chatbots can provide mental health care is on the horizon."
     publishedDateTime: 2023-06-13T13:44:00Z
