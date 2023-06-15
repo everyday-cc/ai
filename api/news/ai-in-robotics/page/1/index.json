@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-15-artificial-intelligence-in-the-securities-industry.md",
+      "title": "Artificial intelligence in the securities industry",
+      "excerpt": "Roger E. Barton of Barton LLP discusses the potential benefits and drawbacks of artificial intelligence in the securities industry as many companies race to implement AI-based tools into their service offerings and backend operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/",
+      "originalUrl": "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-chinese-ai-firm-sensetime-launches-consumer-robot-capable-of-playing-the-ancient-strategy-game-go.md",
       "title": "Chinese AI firm SenseTime Launches Consumer Robot Capable of Playing the Ancient Strategy Game Go",
       "excerpt": "SenseTime introduces \"SenseRobot,\" by an interactive AI Robot that can play the renowned Chinese strategy game of Go.",
@@ -114,7 +166,7 @@
       "originalUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -737,8 +789,8 @@
       "title": "Powerful object recognition for diverse applications using AI and robotics",
       "excerpt": "New algorithms for object recognition and environment perception have been developed at Fraunhofer IPA, enabling sophisticated automation solutions for the service and production sectors.",
       "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news815664",
-      "originalUrl": "https://idw-online.de/de/news815664",
+      "webUrl": "https://idw-online.de/en/news815664",
+      "originalUrl": "https://idw-online.de/en/news815664",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -757,7 +809,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T02:23:00-07:00",
+      "publishedDateTime": "2023-06-07T03:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "idw",
@@ -1347,58 +1399,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-robot-takeover-not-quite-heres-what-ai-doomsday-would-look-like.md",
-      "title": "Robot takeover? Not quite. Here’s what AI doomsday would look like",
-      "excerpt": "Experts say the fallout from powerful AI will be less a nuclear bomb and more a creeping deterioration of society",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears?ref=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e5f4d936222873ba23161480fa267f6fb1ead285/0_0_5700_3800/master/5700.jpg?width=620&quality=85&auto=format&fit=max&s=046b8e059d1da3cb12fcb51f8c497ce0",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
-      "publishedDateTime": "2023-06-03T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

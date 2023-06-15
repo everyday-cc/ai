@@ -2,6 +2,212 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-16-the-vector-ai-research-institute-releases-six-ai-ethical-principles.md",
+      "title": "The Vector AI Research Institute Releases Six AI Ethical Principles",
+      "excerpt": "This article provides a list of the Vector Institute's updated Ethical AI Principles & a helpful list of other leading institutions researching and advancing Ethical AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648b7e68e97e0cbab9b1e992/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/amp/",
+      "publishedDateTime": "2023-06-15T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-this-week-in-xr-ai-startups-cohere-mistral-synthesia-raise-463-million-medivis-brings-x-ray-vision-to-hololens.md",
+      "title": "This Week In XR: AI StartUps Cohere, Mistral, Synthesia Raise $463 Million, Medivis Brings X-Ray Vision To Hololens",
+      "excerpt": "Apple’s unveiling of the Vision Pro XR headset on Monday June 5th continues to dominate tech news this week. Which is pretty incredible when you consider this is another record breaking week for AI startup investments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/06/15/this-week-in-xr-ai-startups-cohere-mistral-synthesia-score-463-million-medivis-brings-x-ray-vision-to-hololens/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/06/15/this-week-in-xr-ai-startups-cohere-mistral-synthesia-score-463-million-medivis-brings-x-ray-vision-to-hololens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6483afa277ce74146a2c5c61/0x0.jpg?format=jpg&crop=2000,1126,x0,y43,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/06/15/this-week-in-xr-ai-startups-cohere-mistral-synthesia-score-463-million-medivis-brings-x-ray-vision-to-hololens/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/06/15/this-week-in-xr-ai-startups-cohere-mistral-synthesia-score-463-million-medivis-brings-x-ray-vision-to-hololens/amp/",
+      "publishedDateTime": "2023-06-15T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine.md",
+      "title": "Generative AI: Just don't call it an 'artist' say scholars in Science magazine",
+      "excerpt": "Generative AI programs \"misleadingly imply that these systems exhibit humanlike intent,\" write AI researchers, when in fact, \"there is little room for autonomous machines being 'artists' or 'creative' in their own right.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/",
+      "originalUrl": "https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/253d8c6aa90ff4cb2f381668b9b5acd984002fb7/2020/09/18/72fc954c-565c-4d80-94de-9e313e04f9db/edmond-de-belamy-detail.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/",
+      "publishedDateTime": "2023-06-15T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-why-experts-cant-understand-or-predict-ai-behaviors.md",
+      "title": "Why Experts Can’t Understand Or Predict AI Behaviors",
+      "excerpt": "These systems are engineered using techniques for optimization rather than engineered for specific purposes,” says Blake Richards, who worked in Geoffrey Hinton's lab.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/",
+      "originalUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648b5dfc6c909f5e645e44a7/0x0.jpg?format=jpg&width=1200",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/amp/",
+      "publishedDateTime": "2023-06-15T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-a-machine-learning-engineers-guide-to-the-ai-act.md",
       "title": "A Machine Learning Engineer’s Guide To The AI Act",
       "excerpt": "EU Parliament passed the EU AI Act. The EU Parliament, Commission and Council will now engage in a final process to negotiate the final version of the law.",
@@ -158,6 +364,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-15-ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem.md",
+      "title": "AI Startups Have Tons of Cash, but Not Enough Data. That’s a Problem.",
+      "excerpt": "Big companies aren’t so willing to share proprietary data with startups looking to power their large-language models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120",
+      "originalUrl": "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-801076/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-prompting-progress-well-all-speak-ai-in-the-future-workforce.md",
       "title": "Prompting Progress: We'll All Speak AI In The Future Workforce",
       "excerpt": "In the future, prompt engineering may become less of a distinct profession and more of a critical skillset that all knowledge workers will need to master.",
@@ -209,21 +466,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-15-5-times-ai-fooled-the-internet-in-2023.md",
-      "title": "5 times AI fooled the internet in 2023",
-      "excerpt": "After generative AI went mainstream last year with the wide release of text-spewing chatbots, social media erupted with algorithmically generated images and sounds to go along with them. So as AI continued to chalk up wins,",
+      "path": "_news/2023-06-15-artificial-intelligence-in-the-securities-industry.md",
+      "title": "Artificial intelligence in the securities industry",
+      "excerpt": "Roger E. Barton of Barton LLP discusses the potential benefits and drawbacks of artificial intelligence in the securities industry as many companies race to implement AI-based tools into their service offerings and backend operations.",
       "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/moments-ai-fooled-internet-deepfakes-misinformation",
-      "originalUrl": "https://mashable.com/article/moments-ai-fooled-internet-deepfakes-misinformation",
+      "webUrl": "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/",
+      "originalUrl": "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://helios-i.mashable.com/imagery/articles/03l3aZP9u14NepIlfxVCVAY/hero-image.fill.size_1200x675.v1686839866.jpg",
+          "url": "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg",
           "width": 1200,
-          "height": 675,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -233,12 +490,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T08:36:00-07:00",
+      "publishedDateTime": "2023-06-15T08:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -247,7 +513,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -705,7 +972,7 @@
       "originalUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -794,7 +1061,7 @@
       "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -980,257 +1247,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-deepchecks-raises-14m-to-validate-machine-learning-models-continuously.md",
-      "title": "Deepchecks raises $14M to validate machine learning models continuously",
-      "excerpt": "Deepchecks was co-founded by Chief Executive Philip Tannor (pictured, right) and Chief Technology Officer Shir Chorev (left). It originally intended to be a traditional machine learning operations platform.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuously-validate-machine-learning-models/",
-      "originalUrl": "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuously-validate-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/2205-Philip-and-Shir-Deepchecks.png",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-lenovo-to-invest-1-billion-for-artificial-intelligence-acceleration.md",
-      "title": "Lenovo To Invest $1 Billion For Artificial Intelligence Acceleration",
-      "excerpt": "Leovo has announced its plans to invest $1 billion over three years in the expansion of infrastructure solutions to accelerate the artificial intelligence ... manufacturing, healthcare, retail and smart city applications. \"Lenovo's commitment to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/lenovo-to-invest-1-billion-for-artificial-intelligence/454144",
-      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/lenovo-to-invest-1-billion-for-artificial-intelligence/454144",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1686809515-Untitleddesign-2023-06-15T114129839.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai.md",
-      "title": "Why Companies Are Vastly Underprepared For The Risks Posed By AI",
-      "excerpt": "From accuracy and security threats to bias and cultural implications, this article explores the reasons behind organizations' lack of readiness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648aaa9fac6d92c810b12f50/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/amp/",
-      "publishedDateTime": "2023-06-14T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-artificial-intelligence-wont-likely-reach-human-like-levels-without-this-one-key-component-study-finds.md",
-      "title": "Artificial intelligence won't likely reach human-like levels without this one key component, study finds",
-      "excerpt": "Artificial intelligence platforms can mimic human learning, but will likely not match human-like cognition unless the programs are connected to robots, study finds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds",
-      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54cf6e5e-46ce-4bd4-aed5-3dabe9838e97/e3852eca-5cd2-4283-bae9-15fbb23d888a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds.amp",
-      "publishedDateTime": "2023-06-14T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-hanmi-semiconductor-rallies-tracking-us-ai-chip-stocks.md",
-      "title": "Hanmi Semiconductor Rallies, Tracking U.S. AI Chip Stocks",
-      "excerpt": "Hanmi Semiconductor's shares jumped Thursday, tracking the rally in U.S. artificial-intelligence chip stocks overnight. Shares of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/hanmi-semiconductor-rallies-tracking-u-s-ai-chip-stocks-afcd29fd",
-      "originalUrl": "https://www.marketwatch.com/story/hanmi-semiconductor-rallies-tracking-u-s-ai-chip-stocks-afcd29fd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/hanmi-semiconductor-rallies-tracking-u-s-ai-chip-stocks-afcd29fd",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/hanmi-semiconductor-rallies-tracking-u-s-ai-chip-stocks-afcd29fd",
-      "publishedDateTime": "2023-06-14T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -24,6 +24,17 @@ images:
     height: 496
     isCached: true
 
-secured: "RSeGg+3BBqlOPoQaLcz/2HpUmjZd8WM6Iz7of03kzJJ1bXnxXfZ75VWblpq0nTuLbmeTvoTwF9RfvsYe888rakD4D+EOtW8ctKg5/8502hJN/L15h0O1Mfoy6D3jtj281TPgi1Twi/6fiVdeYobCDJgO1aeY+ssnRVVVInDtfhueSUeVegK+mKy+1HMxaC69FSiokPkEuahibW+eJwXGUz9oXk8IISvkz9SfICNBzE3CFqkoEZML90HgictK3VGLrnfKsM90PvNhxyHE9gJ8QdKnEJ6/4ZfalyHC0Tfv0aqC+HDbk1iD03i0KAKX2vpuPU66DGQBtwssAhQVYN1DutCwhmwnFXKrRaNlEAxCKHU=;LHCWRJxDDVHQQDVOOstzog=="
+related:
+  - title: "DiagnaMed Launches a Generative Artificial Intelligence Medical Chatbot, Dr. GenAI"
+    excerpt: "DiagnaMed Holdings Corp. (\"DiagnaMed\" or the \"Company\") (CSE:DMED) (OTCQB:DGNMF), a generative AI healthcare company, is pleased to announce the launch of Dr. GenAI"
+    publishedDateTime: 2023-06-15T11:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/g32870843/diagnamed-launches-a-generative-artificial-intelligence-medical-chatbot-dr-genai"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
+
+secured: "DEC4XZO9a0uRia1aSRyMJ60c5SYAjU2UbTo6Xa39QYpoZS0Nbn9mFjgkJUraQCI3TxEnG6uxt/D8FVUFmIZPK8UzBic5gWPmlITU+lW60yIuJuTQsEcjrb+gPSH1Gz/lEMR2xNrRbZ55kz+FPl9UaAHORnjhhY+21UoG1Y81H9Mb8oZ7ByQmh2LaSIxMYi3J0tVHNO7reaVNHlV4/R+J5/Hy0DwbriX4MDUZGwrgzHQme/M+QhJ+8eat4qVPCdxv8UuoJRYrFU4kBa8kxKCOgC7GR5hvj+sqNIZcgDJQ9HZOQcKQd02mTksw6G7FVAYJVN+FatHzdj86sTOeZW0LHEf6pBlZM5JsKpWsZtRvJB6EgHGz0P6+l2Ibd3tPZNpgGJsEv6wyX6qtLsSCfJJSc1WDJuvKunGuwqZg+pC6uf1VCvWlD8AcCaLGz5ouBllAySJhxDbIy9AERCd+sJXg37xx+Ivwo/Udnuy3x5HiKjXFt5F1AyShayoPs/7RNz330QJix5PqkEm05+J0e6/Rpg==;fe9aITBwn1AevECxKeX+RQ=="
 ---
 

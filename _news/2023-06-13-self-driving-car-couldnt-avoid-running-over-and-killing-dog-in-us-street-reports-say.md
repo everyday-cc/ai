@@ -125,6 +125,15 @@ related:
       name: Idaho Statesman
       domain: idahostatesman.com
     quality: 18
+  - title: "San Francisco Officials Want to Put the Brakes on Self-Driving Taxis"
+    excerpt: "Local officials say autonomous cars are not yet safe enough to be permanently deployed across the entire city."
+    publishedDateTime: 2023-06-15T18:59:00Z
+    webUrl: "https://www.planetizen.com/news/2023/06/123985-san-francisco-officials-want-put-brakes-self-driving-taxis"
+    type: article
+    provider:
+      name: PLANetizen
+      domain: planetizen.com
+    quality: 4
 
 secured: "T60Xry7RqR18FJ6dTjIYd4uVX7iglf/TNgto+P6HR6y15xg5On+jMqp9qzWzbdynzg9r1FZDoRzKVn014fvdBfprnlGxZUA4ou4ydu+Giyc8fUwLhLAOfk3SDZz4P8m4JBeAeZhN1+WcFHw+7DgBOSabTf2FLdfAwb09Q+UqutLbVmRiu/laIYeEnmAGrV+b0eQT537GTGNeNG5KTzvY8ONpzrlchqMTcEJbo7Olr6mAuar25eZZw5G6XAoMHpA6Yoc3pXIiC3fEXAet6355z0jkXuwQ6aIvc2KuIVcxvbK1JJ449bL3thaOalj/+iSrotgoNId6cGS3DqU1tVmTqkFPRN5CxAr8u6N6xr6JZ/Y=;IqE7Ku04TXIf6QyxjEIiXg=="
 ---

@@ -120,6 +120,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 47
+  - title: "With AI Act, EU Moves To Protect People From Tech Risks"
+    excerpt: "Called the AI Act, the draft legislation aims to protect people's privacy, voting rights and copyrighted material. The law includes bans on using AI for discrimination and on invasive practices such as biometric identification in public spaces and \"predictive policing systems\" that could be used to illegally profile citizens."
+    publishedDateTime: 2023-06-15T18:15:00Z
+    webUrl: "https://www.cnet.com/tech/with-ai-act-eu-moves-to-protect-people-from-tech-risks/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "How to Regulate AI? Start With the Data."
     excerpt: "Data is an afterthought for many artificial-intelligence developers. It should be the first thought for policy makers, writes Susan Aaronson."
     publishedDateTime: 2023-06-15T13:15:00Z

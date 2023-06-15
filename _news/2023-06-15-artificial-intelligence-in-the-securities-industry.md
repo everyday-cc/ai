@@ -6,9 +6,9 @@ publishedDateTime: 2023-06-15T15:33:00Z
 originalUrl: "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/"
 webUrl: "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
   name: Reuters
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg"
@@ -42,16 +43,16 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Does AI Fit Into The Future Of Good PR?"
-    excerpt: "AI can be useful in certain cases to make PR work more efficiently. Tools exist to help with reporter research, generate media coverage alerts, and even fuel creative brainstorming sessions. ChatGPT was a viral phenom, but we've been using tech tools in PR for quite some time now."
-    publishedDateTime: 2023-06-14T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-does-ai-fit-into-the-future-of-good-pr/"
+  - title: "Immediate Industry Impacts from Gen AI in BWX"
+    excerpt: "Attend the translation and localization industry’s leading events, network with thought leaders, and grow your career and business online."
+    publishedDateTime: 2023-06-15T12:21:00Z
+    webUrl: "https://slator.com/event/immediate-industry-impacts-from-gen-ai-in-bwx/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: Slator
+      domain: slator.com
+    quality: 19
 
-secured: "y9+kHWOccTFXObxqDj9S88OJWDn1+D/Gq0JuhkaNxri/Ktkv6WLtOSKSEdgN9rXmPW+TOi/LQ4i7mn110I3osZCPFM32ZhzdmhalHyrRZYIGiJU0VlrMUKoo5kVcGxz/ZK4X4uToUsfksO4RGV4vAwc717a8gdMwhlmt9E3CneZIvOs3/TADr0ZYr5LY4cbGLNI6F8vMy9+pxrdgrVaE8QuMVquLTC0TLCXtJKjeGuCMqNxFDmR8dmMB/3rZNZstqFUKltYAPZllxEZq6ty8RKzx7D4gp4pS31IV8uZgW073yZovil2Oj/3yg1qkaaEelApmQ+n+hZ39vVGTbeyxbyDLi+Pt5zLr/4r5qBK2Ezk=;02tYdVzDrynCdlsT0f+9wg=="
+secured: "UoKr2zAlmBxLvjw8NvC7D4Us/mdR8AvZD8EBUs2OLW7++XkEQnwRpZQuqFWKMg3RwmfAAwgecmXALrLOmeIAAA3FyAo0In59eGvVopG+vAJYHPX9fUchwzPQtzsMIUesRT5zyv5eVAgU3xsulW937/0GP9d8TvsTv+2b+FLMZNHiFvP6s11/rj8JFawnPgVQYxkuXc+hE6HEg1YRUqLAimgLMwOsLB0dumwCD3Vlu9PbcVikURHGeXUu4nk77i0gUn9+nozNAty7TPBaNGexuCvNeW+o4c/+d+DB+253rpbNTnR7Jx2FV/ZuczEYvZhHbYluX6cG9wx92LmO0wXEo8ttc7ki57kN22cGYCnhwtcEY6PcmiPV6oCw0SOLhRBgmmpO/c0I0LjzwG5CyaWcIbQzX/qa5nPs8v/bHnpHqVyjjCcsmTddu7wFLs1d1qS0SGMG0UmtzHn+JSqQJ6zF+5LS3sKedHUUFBT5YsIDX3vXS6u9iTJI9a65KSKAS/fjv2z+7n4Q8ncWRPndnQ335Q==;cIy7+NdCWcc7EBxfGv716g=="
 ---
 

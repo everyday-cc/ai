@@ -34,20 +34,6 @@ related:
         width: 1196
         height: 690
         isCached: true
-  - title: "Increasing focus on AI is driving demand for empathetic women leaders"
-    excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
-    publishedDateTime: 2023-06-11T01:50:00Z
-    webUrl: "https://yourstory.com/herstory/2023/06/women-leaders-inclusion-key-enterprises-ai"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/shutterstock1456783511-1672930865154.jpeg?fm=png&auto=format"
-        width: 2834
-        height: 1337
-        isCached: true
 
 secured: "eE0JgYM/2HR0EKoeJTEU0x1rtD7Iz3blGg5UyFb5gkDsZNvIX/4uqk8CE2ncirKlMyopkopgVyewMxpbCslGeV57dVDzbcpZH6/Dssew9LYIWsSJ6jrGUAZJRDQ9wU75dEO9MYEMKXrJEm+cyjssxZVkOscYU7LqDV6SuVOS6xv8Uwq2mgJy+O2Tzw5E2a3DD/uSNkq2NIv5UcYezceGOUL/27Ah4jrDxl2J9FdXU4ddYv9SREChH9aMfZ03BbCw6MV5FJXl5484qt38tQAJzPCF9EvF3WKMSmsz6kug+trjySxCvhbOyZLfuhrJzsHT+J9v+7zjMqneCINzp2HwwLIZDcyUHeXtw67tdfmSm4kabOfP5dBloNdJiyVczXFSB7+fuzJ6S5Icq0LQor9bhSNVwZBnnc6zRYdlKekwOOcN0GnCA8j2V4H5rpD8OFAPpTsdB1yTcxNwldavnYsP4CpEfV+QiIl/W5tKIWfPOVQOOPPceQl2+a+oOTbzewei6n1tFb4vt5HVCJuSzqb8EA==;HLEyol/rIL8T7iP6JrfPMg=="
 ---

@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Act is ‘serious blow’ to introduction of facial recognition technology for gardaí"
+    excerpt: "Plans to introduce facial recognition technology (FRT) for use by the gardaí could be dead in the water with the passing of a vote in the European Parliament of the landmark AI Act, according to the Irish Council for Civil Liberties (ICCL)."
+    publishedDateTime: 2023-06-15T21:10:00Z
+    webUrl: "https://www.businesspost.ie/tech/ai-act-could-kill-plans-to-introduce-facial-recognition-technology-for-gardai-irish-council-for-ci/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 47
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=8b42d352-372e-9c24-247f-df37100b66df&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8506&x=0&y=0&width=3416&height=1922"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Breaking news. MEPs endorse blanket ban on facial recognition in public spaces, rejecting targeted exemptions"
     excerpt: "The debate has been inevitably shaped by developments in China, where the Communist Party has rolled out a massive, sophisticated network of facial recognition cameras to monitor the country's population."
     publishedDateTime: 2023-06-14T11:29:00Z

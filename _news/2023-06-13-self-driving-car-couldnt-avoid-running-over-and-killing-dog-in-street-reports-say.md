@@ -124,6 +124,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "San Francisco Officials Want to Put the Brakes on Self-Driving Taxis"
+    excerpt: "Local officials say autonomous cars are not yet safe enough to be permanently deployed across the entire city."
+    publishedDateTime: 2023-06-15T18:59:00Z
+    webUrl: "https://www.planetizen.com/news/2023/06/123985-san-francisco-officials-want-put-brakes-self-driving-taxis"
+    type: article
+    provider:
+      name: PLANetizen
+      domain: planetizen.com
+    quality: 4
 
 secured: "SMxDOHzfJz1cMWhJ+67CQ+L92YzeNe8S6JUrwDxs7z21HTExPj2lkg3XHWmqj+nySMUDvCT/QgtA7Ts8eASgKC2svHjPbAlqYijziX9CJlpl/LZ3HTePZMCIMyX15FjGCid25oSasRclb2jkpKseiAJB3O0uPGMd+bsw5fHgbkZzG3QKVD940U2AEIMUAwd2+nRgwPoc/50U84Hm7KqDl+NU7YZZvaEYcsVKq1aLhMeS2IUtDdikqvYlpo2RphnpneHfRkDso9jxyuKqDyuuBvQsPwRM6GtszEezvQfzRIoT9gekkuPzpO5U2CK3VHBDKcC4vR0woh45Zvfro4khZDRnBy//Q1mUQaw4PzSCvrOMh3ZznNUNOnzBhe2oo534kG8mN265tuxPma2R6YWDITabrCtu8Y0kF7/mCiEkTHPsVytDprJ4zCrINXaTF43I17+SkT9PGYm8ArRyjsHmnRrvFdP/oSW4q0EkybjAkguLOh235sQRiFLSLebRsgZ+BlAMzg5zGizEjXVN9icu1g==;mgyDyYHFuok6+YLDF8NE8g=="
 ---

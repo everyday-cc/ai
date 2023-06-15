@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CoinTelegraph
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia's Lead in Generative AI Market Unchallenged Despite AMD's New AI Chip Launch: Analysts"
+    excerpt: "Nvidia Corp (NASDAQ: NVDA) peers have struggled to gain traction in the generative AI chip war as the former grew in leaps and bounds."
+    publishedDateTime: 2023-06-15T18:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-lead-in-generative-ai-market-unchallenged-despite-amd-s-new-ai-chip-launch-analysts-1032392804"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
   - title: "AMD unveils new A.I. chip to rival Nvidia"
     excerpt: "AMD reveals the MI300X chip that supports up to 192GB of memory. Scott Nations still cautions against buying AMD shares at current price."
     publishedDateTime: 2023-06-13T20:11:00Z

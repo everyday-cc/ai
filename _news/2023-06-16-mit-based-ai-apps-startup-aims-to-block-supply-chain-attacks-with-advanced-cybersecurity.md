@@ -60,19 +60,14 @@ related:
       domain: forbes.com
     quality: 47
   - title: "How machine learning and new AI technologies could change the cybersecurity landscape"
-    excerpt: "Drata's analysis found new technology for data handling has security risks on the one hand and potential security benefits on the other."
-    publishedDateTime: 2023-06-15T15:51:00Z
-    webUrl: "https://abc17news.com/stacker-money/2023/06/15/how-machine-learning-and-new-ai-technologies-could-change-the-cybersecurity-landscape/"
+    excerpt: "Use Next and Previous buttons to navigate How machine learning and new AI technologies could change the cybersecurity landscape The world has never been more online. From work meetings, emails, and texts to shopping,"
+    publishedDateTime: 2023-06-14T23:30:00Z
+    webUrl: "https://www.timesunion.com/personal-finance/article/how-machine-learning-and-new-ai-technologies-18152566.php"
     type: article
     provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 47
-    images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2023/06/server-center-gorodenkoff_0.jpg"
-        width: 1080
-        height: 770
-        isCached: true
+      name: Times Union
+      domain: timesunion.com
+    quality: 27
   - title: "From IBM Security to Noventiq: Here are the top cybersecurity brands using AI to combat emerging threats"
     excerpt: "In this listicle, we present the most trusted cybersecurity brands that are effectively utilizing AI to combat emerging threats., Technology & Science News, Times Now"
     publishedDateTime: 2023-06-13T12:21:00Z

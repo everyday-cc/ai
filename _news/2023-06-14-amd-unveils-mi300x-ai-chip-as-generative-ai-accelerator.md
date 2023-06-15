@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/"
 type: article
 quality: 104
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -142,6 +142,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 7
+  - title: "Introducing Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization"
+    excerpt: "Cognite, a globally recognized leader in industrial software, today announced the launch of Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization. Cognite AI, a comprehensive suite of Generative AI capabilities within Cognite’s core Industrial DataOps platform,"
+    publishedDateTime: 2023-06-15T19:23:00Z
+    webUrl: "https://www.afp.com/en/news/1315/introducing-cognite-ai-generative-ai-accelerator-industrial-data-and-value-realization-202306131435971"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
     quality: 7
   - title: "Cognite Launches Generative AI Accelerator, Promises 10x Efficiency Boost in Industrial Workflows"
     excerpt: "Cognite AI, a comprehensive suite of Generative AI capabilities within ... “Celanese is building the Digital Plant of the Future and we rely on Cognite Data Fusion on Microsoft Azure to put the right data into the hands of our experts so they can spend ..."

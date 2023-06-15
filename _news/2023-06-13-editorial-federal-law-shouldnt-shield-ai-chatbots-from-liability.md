@@ -43,6 +43,20 @@ related:
         width: 790
         height: 497
         isCached: true
+  - title: "A chatbot that’s cautious about GPT, AI pronouncements, and a VC looks to Israel"
+    excerpt: "In the latest edition of STAT's Health Tech newsletter: a chatbot that's cautious about GPT, a string of AI announcements, and a VC looks to Israel."
+    publishedDateTime: 2023-06-15T20:41:00Z
+    webUrl: "https://www.statnews.com/2023/06/15/artificial-intelligence-ai-chatgpt-wysa/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 34
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2022/05/AdobeStock_479650030-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Chatbots in the Workplace: Usage Policies and Practical Considerations Related to Artificial Intelligence"
     excerpt: "The increasing prevalence of artificial intelligence (AI) tools and, in particular, generative AI, is creating more reason for employers to adopt workplace policies that communicate to employees whether the use of these applications is appropriate and any ..."
     publishedDateTime: 2023-06-14T20:49:00Z

@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "17 Smart and Simple Ways People With High Emotional Intelligence Are Already Using Artificial Intelligence"
-    excerpt: "When it comes to artificial intelligence, people with high emotional intelligence have an advantage over everyone else."
-    publishedDateTime: 2023-06-11T04:38:00Z
-    webUrl: "https://www.inc.com/bill-murphy-jr/17-smart-simple-ways-people-with-high-emotional-intelligence-are-already-using-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 1
 
 secured: "TlmEaEs1TAEzftT4YNFAr73dqZ9/tj1NRljG1U7tJRNIubeHNKDWHQXsxosflynSSsx57fGWEvKZdcQAxN/8bt3B51Aarz4qvICDoB+Bcaka6la3ef1GEFZ5uCeWu4DrJThAqMCKePi9M61+nmy8CAK91r02XRsmsBP3jznSWZ2daZalkVhmN1agkvkGTL0f0l5MR6Fe50asMjsw5mnwsUCVz8UvmclP2pzO5fzwgYaA3e51UflOEh4PfKy3gHpJNq+gcv65e7/5E+qLam9qsE7zQc5LEwZjYWYSzHWwsYreJn24Pvfaf/X8AWi3Cc20SrBzO85aWnO0dd7H+4dRdwIldsIqilS/9EEJ6JQSbtrHSrOl9ECsk40VFxKbwkParLscS7pImkTE4+71fvU6542awouzyXw5q+TQPR5NDJXTQmBUBe8fhKCRGxxIJixxvpytT9P4mKJQAoNw9rgtDMHXyOooA+zR42nTA75y+mTrtGykr0KKqPdszWzisq+lniYRFZXSv5YHNvLidvQJxA==;PjRCMQhygsIARco2BmyK6Q=="
 ---

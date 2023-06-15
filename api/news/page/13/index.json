@@ -2,6 +2,239 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-06-06-purdue-ethics-conference-tackles-big-picture-ai-challenges.md",
+      "title": "Purdue ethics conference tackles big-picture AI challenges",
+      "excerpt": "IEEE Ethics-2023 conference participants Sorin Adam Matei (left), professor of communication, and JP Messina, assistant professor of philosophy, participate in a panel discussion on “Perspectives from Liberal Arts on the Practical Turn in AI Ethics.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.purdue.edu/research/features/stories/purdue-ethics-conference-tackles-big-picture-ai-challenges/",
+      "originalUrl": "https://www.purdue.edu/research/features/stories/purdue-ethics-conference-tackles-big-picture-ai-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.purdue.edu/research/features/wp-content/uploads/2023/06/IEEE.-Ethics-Panel-800x450-1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Purdue University",
+        "domain": "purdue.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-tsa-expands-controversial-facial-recognition-program.md",
+      "title": "TSA expands controversial facial recognition program",
+      "excerpt": "At 25 airports in the U.S. and Puerto Rico, the TSA is expanding a controversial digital identification program that uses facial recognition. This comes as the TSA and other divisions of Homeland ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/tsa-facial-recognition-program-airports-expands/",
+      "originalUrl": "https://www.cbsnews.com/news/tsa-facial-recognition-program-airports-expands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/05/3affcfd9-5415-4c0a-ad36-c70430eb2c34/thumbnail/1200x630/c0e2aa04e10814ca6a8433e8cf5505e3/facial.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/tsa-facial-recognition-program-airports-expands/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tsa-facial-recognition-program-airports-expands/",
+      "publishedDateTime": "2023-06-05T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-apple-avoids-ai-hype-at-wwdc-keynote-by-baking-ml-into-products.md",
+      "title": "Apple avoids “AI” hype at WWDC keynote by baking ML into products",
+      "excerpt": "Amid notable new products like the Apple Silicon Mac Pro and the Apple Vision Pro revealed at Monday's WWDC 2023 keynote event, Apple presenters never once mentioned the term \"AI,\" a notable omission given that its competitors like Microsoft and Google have been heavily focusing on generative AI at the moment.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/vision_pro_face_scanning_2-800x451.jpg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/amp/",
+      "publishedDateTime": "2023-06-05T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-tech-slips-as-ai-optimism-fades-tech-roundup.md",
+      "title": "Tech Slips as AI Optimism Fades -- Tech Roundup",
+      "excerpt": "Shares of technology companies slipped as optimism about a new wave of artificial-intelligence technology faltered somewhat. Palantir Technologies rose",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
+      "originalUrl": "https://www.marketwatch.com/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-slips-as-ai-optimism-fades-tech-roundup-65d9d724",
+      "publishedDateTime": "2023-06-05T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-7-steps-for-managing-the-work-order-process.md",
+      "title": "7 steps for managing the work order process",
+      "excerpt": "The work order management process shows how a work order will move through the maintenance process, from task identification to post-completion analysis.\nThe post 7 steps for managing the work order process appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/7-steps-for-managing-the-work-order-process/",
+      "originalUrl": "https://www.ibm.com/blog/7-steps-for-managing-the-work-order-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T11:44:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-chatgpt-and-generative-ai-in-financial-services-reality-hype-whats-next-and-how-to-prepare.md",
       "title": "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare",
       "excerpt": "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work.",
@@ -963,248 +1196,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-fostering-international-collaboration-in-ai-in-healthcare.md",
-      "title": "Fostering International Collaboration In AI In Healthcare",
-      "excerpt": "Combining AI and robotics and healthcare with a mission to extend healthy human life. Meet Richard Yang, partner at Sinovation Ventures",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 266,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647bdd7fddd81ae2fc13b283/0x0.jpg?format=jpg&width=1200",
-          "width": 800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/",
-      "publishedDateTime": "2023-06-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-baidus-2022-esg-report-highlights-safe-and-controllable-as-highest-principle-of-ai-ethics.md",
-      "title": "Baidu's 2022 ESG Report Highlights \"Safe and Controllable\" as Highest Principle of AI Ethics",
-      "excerpt": "autonomous driving, smart terminals, system services, and a wide range of additional components. In 2022, Baidu's self-developed ERNIE Big Model has been used in place of traditional data classification technique to achieve automatic data management ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2023/06/05/baidu-s-2022-esg-report-highlights-safe-and-controllable-as-highest-principle-of",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2023/06/05/baidu-s-2022-esg-report-highlights-safe-and-controllable-as-highest-principle-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-ubs-buy-these-53-stocks-that-could-rise-at-least-20-as-they-profit-from-the-ai-revolution.md",
-      "title": "UBS: Buy these 53 stocks that could rise at least 20% as they profit from the AI revolution",
-      "excerpt": "UBS says investors who want exposure to the rise of the artificial intelligence industry should buy these 53 stocks with at least 20% upside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-ubs-2023-6",
-      "originalUrl": "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-investing-strategy-ubs-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/647a410440bf000019fa14d0?width=1200&format=jpeg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-getting-started-with-mqtt-in-azure-event-grid.md",
-      "title": "Getting started with MQTT in Azure Event Grid",
-      "excerpt": "Those events could also be stored in Azure Data Lake, where analysts can use tools like Data Explorer to extract insights from device data and use that data to train machine learning-powered control systems. Azure Event Grid is an important component of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.html",
-      "originalUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/02/shutterstock_1748437547-100937033-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.amp.html",
-      "publishedDateTime": "2023-06-05T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-it-might-be-controversial-but-ai-could-help-create-a-greener-future.md",
-      "title": "It Might Be Controversial, But AI Could Help Create A Greener Future",
-      "excerpt": "Arup’s digital services leader, Will Cavendish said it has used AI to calculate where best to deploy nature-based solutions in cities like Shanghai.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/",
-      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647d9bae4c670bf9090e1092/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/amp/",
-      "publishedDateTime": "2023-06-05T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

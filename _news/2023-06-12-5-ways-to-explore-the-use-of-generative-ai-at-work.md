@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-o
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
 type: article
 quality: 87
-heat: 287
+heat: 297
 published: true
 
 provider:
@@ -137,6 +137,22 @@ related:
       - url: "https://www.forbesindia.com/media/images/2023/Jun/img_210187_generativeai.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Q&A: The future of work—how will AI and automation affect work?"
+    excerpt: "For decades, advances in technology have changed the ways people work, and now artificial intelligence could be the next big disruptor."
+    publishedDateTime: 2023-06-15T20:57:00Z
+    webUrl: "https://techxplore.com/news/2023-06-qa-future-workhow-ai-automation.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-qa-future-workhow-ai-automation.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-qa-future-workhow-ai-automation.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-4.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "5 ways how Artificial Intelligence improve the workplace"
     excerpt: "Artificial intelligence (AI) is now a part of our everyday lives. More than we may sometimes realize; AI solutions are changing almost every aspect of our lives, and this extends well into the workplace as well. The impact of AI on the future of work is a ..."

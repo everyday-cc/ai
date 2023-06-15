@@ -7,8 +7,8 @@ originalUrl: "https://mashable.com/article/moments-ai-fooled-internet-deepfakes-
 webUrl: "https://mashable.com/article/moments-ai-fooled-internet-deepfakes-misinformation"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mashable
@@ -32,21 +32,21 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg"
         width: 1200
         height: 628
         isCached: true
-  - title: "How Does AI Fit Into The Future Of Good PR?"
-    excerpt: "AI can be useful in certain cases to make PR work more efficiently. Tools exist to help with reporter research, generate media coverage alerts, and even fuel creative brainstorming sessions. ChatGPT was a viral phenom, but we've been using tech tools in PR for quite some time now."
-    publishedDateTime: 2023-06-14T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-does-ai-fit-into-the-future-of-good-pr/"
+  - title: "Immediate Industry Impacts from Gen AI in BWX"
+    excerpt: "Attend the translation and localization industry’s leading events, network with thought leaders, and grow your career and business online."
+    publishedDateTime: 2023-06-15T12:21:00Z
+    webUrl: "https://slator.com/event/immediate-industry-impacts-from-gen-ai-in-bwx/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: Slator
+      domain: slator.com
+    quality: 19
 
 secured: "6lCFJXLqaiRiV5n8Oyzz5uud8CrooTnlIRq0fe8vO77sbSLGU5fMtWxC0sQ8YC5tS/7JmNIMutD6K3EBYcO3jD0BUIDcPDecfFT+6/J6ocW9bpu7ItK8ZjCOguJka1sRl53BQaVenOVdtsDx6VnUC4LTqGgWGjEERtpomb10SU9Zs3X7P3CkHYFC4yrnWP5KUGhvc016AmZAlGi8KdGJ6VnB0H+8VBQIH7gKJN1s0gnSMQ2nBKFtY3abBW4QWjAf9aWyj8PmDefDM30DmloRgHwlwrZudck9+lNI4HpJtVy1d4AHa9ylOz92rNejUw8mvmHOE4eamMda/N1L+yJzHd6g9w6Q8ivZKYNVlrzLe6s=;YQRQfq5JzwEEiD4G1ZbLVQ=="
 ---

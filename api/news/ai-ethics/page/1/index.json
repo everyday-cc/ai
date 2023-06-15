@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-16-the-vector-ai-research-institute-releases-six-ai-ethical-principles.md",
+      "title": "The Vector AI Research Institute Releases Six AI Ethical Principles",
+      "excerpt": "This article provides a list of the Vector Institute's updated Ethical AI Principles & a helpful list of other leading institutions researching and advancing Ethical AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648b7e68e97e0cbab9b1e992/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/amp/",
+      "publishedDateTime": "2023-06-15T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-ai-ethics-guidelines-that-organizations-should-consider.md",
       "title": "AI Ethics Guidelines That Organizations Should Consider",
       "excerpt": "Large language models like Bard and ChatGPT are powerful technologies with the potential to revolutionize many industries. They also raise a number of ethical concerns.",
@@ -192,58 +244,6 @@
         "AI in Robotics",
         "Natural Language Processing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-register-now-for-the-transform-women-in-ai-breakfast-and-nominate-leaders-for-the-women-in-ai-awards.md",
-      "title": "Register now for the Transform Women in AI Breakfast and nominate leaders for the Women in AI Awards",
-      "excerpt": "The Transform Women in AI Breakfast and the Women in AI awards are both fast approaching, July 11-12 in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/register-now-for-the-transform-women-in-ai-breakfast-and-nominate-leaders-for-the-women-in-ai-awards/",
-      "originalUrl": "https://venturebeat.com/ai/register-now-for-the-transform-women-in-ai-breakfast-and-nominate-leaders-for-the-women-in-ai-awards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/i-Pw8HBNc-X3.jpg?w=1200&strip=all",
-          "width": 1196,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {

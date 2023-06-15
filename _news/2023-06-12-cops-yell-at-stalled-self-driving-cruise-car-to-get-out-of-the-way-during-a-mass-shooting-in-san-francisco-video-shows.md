@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-r
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
 type: article
 quality: 50
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -129,6 +129,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "San Francisco Officials Want to Put the Brakes on Self-Driving Taxis"
+    excerpt: "Local officials say autonomous cars are not yet safe enough to be permanently deployed across the entire city."
+    publishedDateTime: 2023-06-15T18:59:00Z
+    webUrl: "https://www.planetizen.com/news/2023/06/123985-san-francisco-officials-want-put-brakes-self-driving-taxis"
+    type: article
+    provider:
+      name: PLANetizen
+      domain: planetizen.com
+    quality: 4
 
 secured: "tKIcOOUE/6vz6poy4jrLOL08k4L1HhgcFbIrBvVvawiidIbbMtgQK8AwUMqcxtyPwAusPVWJYc/hXQrgeKp0g7oMyOUr6oWC73/XrQA9PKAo/zgHwwbXDZWVgACd1Zh5UXVLZySDvs9KDi0pgrfLMBaY4BH+/RudmMf+DZXeJWjILAnFtdgxv+gdDs5VBtRUTQahMM5hg28nQCPDhp5wWjhRTyaxockxBLgqR+WtRCDq2ORZ7vuli+zQQ91qqZIdvpH9N16txuvvLI1Gcw5TjJld1RyUG1eozGgvK3THOLhcgr1cOYmhvMQbKMjI8kbF02nNQpYOuuaUfne3bCEsw9kIewcCFLlIJtp3fi+CNNOR3Kfjx17TIM5nmJNBJq7WZvGRFTebcBGsLJxpy+8rPgFiLxVnZaujPdKkUf2kdBx4f+M1wRGJT6JqSQw6YF83r1AauboTYgPk4JcYGGBKL0RZW/sE8q/W484mTILSvdFUH8QmgxVAIcDBH9GvZCG8WSkcRkdb0Cgu9yWxIogi0w==;R/cNebxnN+vs+9+6+G/nug=="
 ---

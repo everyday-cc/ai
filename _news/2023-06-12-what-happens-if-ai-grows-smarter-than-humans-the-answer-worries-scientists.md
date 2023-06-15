@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence: What is AI, is it dangerous and what jobs are at risk?"
+    excerpt: "Snapchat's AI chatbot, My AI, works in a similar way to provide helpful human-like responses to instructions. But My AI can also provide incorrect responses - called \"hallucinating\" - where it states untrue or misleading things as fact."
+    publishedDateTime: 2023-06-14T02:42:00Z
+    webUrl: "https://bbc.co.uk/news/technology-65855333?at_campaign=KARANGA&at_medium=RSS"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-65855333.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65855333.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 68
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/176FB/production/_129959959_gettyimages-1430317544.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google’s CEO Talks AI, Jobs and More"
     excerpt: "Bloomberg Chief Washington Correspondent Joe Mathieu delivers insight and analysis on the latest headlines from the White House and Capitol Hill, including conversations with influential lawmakers and key figures in politics and policy."
     publishedDateTime: 2023-06-12T16:50:00Z
@@ -121,15 +137,20 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Artificial Intelligence: What is AI, is it dangerous and what jobs are at risk?"
-    excerpt: "Artificial intelligence (AI) technology is developing at high speed, and is transforming many aspects of modern life. However, some experts fear that it could be used for malicious purposes, and may threaten jobs. AI allows a computer to think, act, and respond like a human."
-    publishedDateTime: 2023-06-14T02:42:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-65855333?at_medium=RSS"
+  - title: "What happens when the god AI arrives"
+    excerpt: "When pioneers in the field of artificial intelligence start to worry about their creations, we should pay attention. But do people really have reason to fear?"
+    publishedDateTime: 2023-06-15T20:25:00Z
+    webUrl: "https://www.afr.com/technology/what-happens-when-the-god-ai-arrives-20230524-p5dasr"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 28
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.1725%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_153/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/194fba7012c8b260e534fbd30e72d7ff350b1633"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Embrace AI, but ensure it complements not replaces human communications"
     excerpt: "Chief Communication Officer, Greaves Cotton Limited, writes about the transformative role of AI in communication, its benefits, challenges and considerations"
     publishedDateTime: 2023-06-14T13:27:00Z

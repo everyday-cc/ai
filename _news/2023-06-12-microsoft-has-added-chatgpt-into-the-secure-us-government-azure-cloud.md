@@ -185,6 +185,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 32
+  - title: "Microsoft Nears All-Time Closing High, $2.6 Trillion Value, Amid AI-Powered Rally"
+    excerpt: "Microsoft's early-mover advantage in AI has helped it surge past Google and possibly challenge Apple as the world's most-valuable tech company."
+    publishedDateTime: 2023-06-15T19:45:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/microsoft-nears-all-time-closing-high-2-6-trillion-value-amid-ai-powered-rally"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 29
   - title: "HCLTech and Microsoft Expand Collaboration to Boost Innovation and Adoption of Generative AI with Microsoft's Azure OpenAI Service"
     excerpt: "Leveraging HCLTech's deep domain expertise across various industries and Microsoft's Azure OpenAI Service, clients will benefit from innovative solutions that enhance employee productivity, streamline IT operations,"
     publishedDateTime: 2023-06-15T12:54:00Z

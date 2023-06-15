@@ -2,6 +2,256 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-14-6-gmail-ai-features-to-help-save-you-time.md",
+      "title": "6 Gmail AI features to help save you time",
+      "excerpt": "These AI-powered Gmail features can make your email experience even faster, easier and more organized.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/gmail/gmail-ai-features/",
+      "originalUrl": "https://blog.google/products/gmail/gmail-ai-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gmail_powered_by_ai_hero.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/gmail/gmail-ai-features/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/gmail/gmail-ai-features/amp/",
+      "publishedDateTime": "2023-06-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop.md",
+      "title": "AMD's Hardware AI Ryzen 'Phoenix' CPUs Set to Soar in Razer's Blade 14 Laptop",
+      "excerpt": "The chip maker is counting the iconic gaming ultraportable among its key design wins, ringing in the first-ever x86 processors with dedicated AI-accelerating silicon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop",
+      "originalUrl": "https://www.pcmag.com/news/amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03rpTfXU080tXpK8FhRFeGK-1.fit_lim.size_1200x630.v1686682147.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-applications-open-for-3rd-healthcare-robotics-startup-catalyst.md",
+      "title": "Applications open for 3rd Healthcare Robotics Startup Catalyst",
+      "excerpt": "The program provides healthcare startups with the opportunity to compete for a chance to join a world-class accelerator program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/applications-open-for-3rd-healthcare-robotics-startup-catalyst/",
+      "originalUrl": "https://www.therobotreport.com/applications-open-for-3rd-healthcare-robotics-startup-catalyst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/andromeda-robotics-at-robotics-summit.jpg",
+          "width": 775,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms.md",
+      "title": "AI And Retail: Consumer Adoption On The Rise, Yet Uncertainty Looms",
+      "excerpt": "AI technology is redefining the retail industry - from curated tailored promotions and deals to direct product purchase reminders and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64889ccacdfe7d759fb12f50/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/amp/",
+      "publishedDateTime": "2023-06-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-octoml-debuts-self-optimizing-compute-services-for-generative-ai.md",
+      "title": "OctoML debuts self-optimizing compute services for generative AI",
+      "excerpt": "OctoML's new OctoAI self optimizing infrastructure aims to help organizations build and deploy generative AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-openshift-version-413-now-available-in-red-hat-openshift-on-ibm-cloud.md",
       "title": "OpenShift version 4.13 now available in Red Hat OpenShift on IBM Cloud",
       "excerpt": "We are excited to announce the availability of OpenShift version 4.13 for your clusters that are running in Red Hat OpenShift on IBM Cloud.\nThe post OpenShift version 4.13 now available in Red Hat OpenShift on IBM Cloud appeared first on IBM Blog.\n",
@@ -237,6 +487,49 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amd-reveals-new-ai-chip-challenging-nvidias-dominance.md",
+      "title": "AMD reveals new A.I. chip challenging Nvidia's dominance",
+      "excerpt": "Advanced Micro Devices Inc (AMD) on Tuesday, June 13, gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp. The California-based AMD said its most-advanced graphics processing unit (GPU) for AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance",
+      "originalUrl": "https://cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/7c1f330a-757a-42bd-a5d2-ce768bc15a4b.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance/amp",
+      "publishedDateTime": "2023-06-14T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -783,7 +1076,7 @@
       "originalUrl": "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -926,310 +1219,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker.md",
-      "title": "How Forethought saves over 66% in costs for generative AI models using Amazon SageMaker",
-      "excerpt": "This post is co-written with Jad Chamoun, Director of Engineering at Forethought Technologies, Inc. and Salina Wu, Senior ML Engineer at Forethought Technologies, Inc. Forethought&nbsp;is a leading generative AI suite for customer service. At the core of its suite is the innovative SupportGPT™ technology",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/forethought-generative-ai-sagemaker.jpg",
-          "width": 1022,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:41:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-artificial-intelligence-the-way-forward.md",
-      "title": "Artificial Intelligence: The Way Forward",
-      "excerpt": "Artificial Intelligence (AI) will rule all the spheres of life in future but it's the human intelligence that controls and complements the norm",
-      "sourceUrl": null,
-      "webUrl": "https://www.omanobserver.om/article/1138712/oman/artificial-intelligence-the-way-forward",
-      "originalUrl": "https://www.omanobserver.om/article/1138712/oman/artificial-intelligence-the-way-forward",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.omanobserver.om/omanobserver/uploads/images/2023/06/13/2359214.jpg",
-          "width": 1000,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.omanobserver.om/ampArticle/1138712",
-      "cdnAmpWebUrl": "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1138712",
-      "publishedDateTime": "2023-06-13T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "omanobserver",
-        "domain": "omanobserver.om",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-vectara-lands-285m-to-supercharge-enterprise-search.md",
-      "title": "Vectara lands $28.5M to supercharge enterprise search",
-      "excerpt": "Vectara, a platform providing AI-powered enterprise search tech, has raised $28.5 million in a seed funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/",
-      "originalUrl": "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1352189853-1.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/amp/",
-      "publishedDateTime": "2023-06-13T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-loc-performance-and-milrem-robotics-collaborate-on-bid-for-us-armys-robotic-combat-vehicle-light-rcv-l-program.md",
-      "title": "Loc Performance and Milrem Robotics Collaborate on Bid for US Army's Robotic Combat Vehicle-Light (RCV-L) Program",
-      "excerpt": "Loc Performance (\"Loc\"), a leading provider of military vehicle systems, and Milrem Robotics (\"Milrem\"), the leading European developer of robotics and autonomous systems, have joined together to create a world class offering for the United States Army's Robotic Combat Vehicle-Light (RCV-L) Prototype program.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/loc-performance-and-milrem-robotics-collaborate-on-bid-for-us-army-s-robotic-combat-vehicle-light-rcv-l-program-1032386640",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/loc-performance-and-milrem-robotics-collaborate-on-bid-for-us-army-s-robotic-combat-vehicle-light-rcv-l-program-1032386640",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2100277/RCV_L_WarLoc.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-how-brainpad-fosters-internal-knowledge-sharing-with-amazon-kendra.md",
-      "title": "How BrainPad fosters internal knowledge sharing with Amazon Kendra",
-      "excerpt": "This post discusses how to structure internal knowledge sharing using Amazon Kendra and AWS Lambda and how Amazon Kendra solves the obstacles around knowledge sharing many companies face.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-brainpad-fosters-internal-knowledge-sharing-with-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-brainpad-fosters-internal-knowledge-sharing-with-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/brainpad-kendra.jpg",
-          "width": 1020,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:14:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-aws-inferentia2-builds-on-aws-inferentia1-by-delivering-4x-higher-throughput-and-10x-lower-latency.md",
-      "title": "AWS Inferentia2 builds on AWS Inferentia1 by delivering 4x higher throughput and 10x lower latency",
-      "excerpt": "The size of the machine learning (ML) models––large language models (LLMs) and foundation models (FMs)––is growing fast year-over-year, and these models need faster and more powerful accelerators, especially for generative AI. AWS Inferentia2 was designed from the ground up to deliver higher performance",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-inferentia2-builds-on-aws-inferentia1-by-delivering-4x-higher-throughput-and-10x-lower-latency/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-inferentia2-builds-on-aws-inferentia1-by-delivering-4x-higher-throughput-and-10x-lower-latency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/inferentia2-builds-on-inferentia1.jpg",
-          "width": 1025,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:09:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

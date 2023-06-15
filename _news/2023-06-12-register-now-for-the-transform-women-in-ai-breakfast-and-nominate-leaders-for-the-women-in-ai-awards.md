@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/register-now-for-the-transform-women-in
 webUrl: "https://venturebeat.com/ai/register-now-for-the-transform-women-in-ai-breakfast-and-nominate-leaders-for-the-women-in-ai-awards/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: VentureBeat
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Increasing focus on AI is driving demand for empathetic women leaders"
-    excerpt: "Empathetic women leadership will act as a bridge, enabling the translation of cold facts and figures into a resonant language of emotions and experiences of the respective teams."
-    publishedDateTime: 2023-06-11T01:50:00Z
-    webUrl: "https://yourstory.com/herstory/2023/06/women-leaders-inclusion-key-enterprises-ai"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/shutterstock1456783511-1672930865154.jpeg?fm=png&auto=format"
-        width: 2834
-        height: 1337
-        isCached: true
   - title: "How AI Will Transform the Business Landscape"
     excerpt: "Today, people interact with artificial intelligence (AI) on a daily basis without even realizing it. Think of something as simple as a chatbot on a random"
     publishedDateTime: 2023-06-15T15:14:00Z

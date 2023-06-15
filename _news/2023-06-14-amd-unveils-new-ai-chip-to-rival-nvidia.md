@@ -41,6 +41,15 @@ related:
         width: 740
         height: 492
         isCached: true
+  - title: "Nvidia's Lead in Generative AI Market Unchallenged Despite AMD's New AI Chip Launch: Analysts"
+    excerpt: "Nvidia Corp (NASDAQ: NVDA) peers have struggled to gain traction in the generative AI chip war as the former grew in leaps and bounds."
+    publishedDateTime: 2023-06-15T18:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-lead-in-generative-ai-market-unchallenged-despite-amd-s-new-ai-chip-launch-analysts-1032392804"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
 
 secured: "9NtGNXTEO93JTMphCOQNLo/nyfWdGZvjk7aG8L9HlSgJzJNKGyath1sM8WYdP9WzeDSVoo3jMIZrOillL03ZUcQ4AMfk036MVGkR8n7lCaLphBqEsGJTnEMR9WHH5z8uCHnQ+J5TV9EUsg3OQKMkZdvw6YLGWFyfGb/eIZYQvMlL0hy3RWT72WwD7NT+0pny2zlPBcyT+sLNxCug3rRmi378Y0A+hkVI/5kCtGe39fd4hWrRiwA0WVoDjCUw9GlwCSqGA4DoQTabW26kV4C20F49XAm8cBBmKCHnaDc6wNn8FE/2AJyd+xckKw9FRcQxAkiaFGMZ2UMZMKyUwzebnn1+ghsXPPU3XkxX2iSw9FI=;xeJsYb2nEdNzOpFmz7Pv0A=="
 ---

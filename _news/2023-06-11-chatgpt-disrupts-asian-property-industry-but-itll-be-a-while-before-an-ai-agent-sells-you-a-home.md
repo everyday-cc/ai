@@ -95,6 +95,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "This free AI tool can write your cover letters, and its easier to use than ChatGPT"
+    excerpt: "When looking for a job, you're likely applying to several positions at a time -- each requiring a uniquely hand-crafted application. Cover Letter Copilot has you covered."
+    publishedDateTime: 2023-06-15T20:19:00Z
+    webUrl: "https://www.zdnet.com/article/this-free-ai-tool-can-write-your-cover-letters-and-its-easier-to-use-than-chatgpt/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-free-ai-tool-can-write-your-cover-letters-and-its-easier-to-use-than-chatgpt/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-free-ai-tool-can-write-your-cover-letters-and-its-easier-to-use-than-chatgpt/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/024587305aa77c8b0a1bec41d14b5f806488f709/2023/06/15/e1a389e8-135b-4821-8082-95bf9a2a6606/gettyimages-1160331590-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Samsung Electronics to adopt own AI amid ChatGPT security concerns"
     excerpt: "Samsung Electronics plans to introduce a customized artificial intelligence (AI) service for knowledge search, translation and summarization this year as concerns over the possible leakage of key technological information enabled by ChatGPT are rising."
     publishedDateTime: 2023-06-11T05:15:00Z
@@ -266,6 +282,15 @@ related:
         width: 900
         height: 676
         isCached: true
+  - title: "This ChatGPT-powered AI tool can help you haggle to save money on bills"
+    excerpt: "This new ChatGPT-powered AI tool can negotiate your bills for you by writing a letter that you can send to a landlord or credit card company."
+    publishedDateTime: 2023-06-15T19:42:00Z
+    webUrl: "https://bgr.com/tech/this-chatgpt-powered-ai-tool-can-help-you-haggle-to-save-money-on-bills/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
   - title: "Can a robot plan your summer fun? Here's what ChatGPT says to do this summer"
     excerpt: "What are five fun summer activities to do in Norwich, Griswold, Killingly and Plainfield, CT? One should be off the beaten path, at least two should be family friendly, one should be a healthy activity and one should be male friendly. Then give me two other activities that are within a 30-minute drive of Norwich."
     publishedDateTime: 2023-06-14T09:15:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/ai-chatbots-could-help-pr
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.marinij.com/wp-content/uploads/2023/06/sam.jpg?w=1024&h=681"
         width: 1024
         height: 681
+        isCached: true
+  - title: "A chatbot that’s cautious about GPT, AI pronouncements, and a VC looks to Israel"
+    excerpt: "In the latest edition of STAT's Health Tech newsletter: a chatbot that's cautious about GPT, a string of AI announcements, and a VC looks to Israel."
+    publishedDateTime: 2023-06-15T20:41:00Z
+    webUrl: "https://www.statnews.com/2023/06/15/artificial-intelligence-ai-chatgpt-wysa/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 34
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2022/05/AdobeStock_479650030-1024x576.jpeg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Chatbots in the Workplace: Usage Policies and Practical Considerations Related to Artificial Intelligence"
     excerpt: "The increasing prevalence of artificial intelligence (AI) tools and, in particular, generative AI, is creating more reason for employers to adopt workplace policies that communicate to employees whether the use of these applications is appropriate and any ..."

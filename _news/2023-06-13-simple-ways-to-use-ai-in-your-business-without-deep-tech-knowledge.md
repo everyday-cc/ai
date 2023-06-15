@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/13/simple-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/13/simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 770
         height: 513
         isCached: true
-  - title: "17 Smart and Simple Ways People With High Emotional Intelligence Are Already Using Artificial Intelligence"
-    excerpt: "When it comes to artificial intelligence, people with high emotional intelligence have an advantage over everyone else."
-    publishedDateTime: 2023-06-11T04:38:00Z
-    webUrl: "https://www.inc.com/bill-murphy-jr/17-smart-simple-ways-people-with-high-emotional-intelligence-are-already-using-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 1
 
 secured: "yn+1B+VxUZtyDYFVgmrFMs6WV2df//GY01OKN0btEZwa2hNr7KUebzNVQNCJdacXdbpkvNbvkDKW0om+lNqsIzXI+RSf5Xjb+HW9iC2R/r6zoU0pCf8mBVR8mtOz0eyEVklIoNk9hXd5Vko0fUkUsvJr7E1GEHMi7DM0NfKRLLbEo9JLhIsORD7ow5C2M9XHR2XNMgJFV81bv8x+XnNRbadMffqu1KE5EJFmFcN2NLUXgON5mIikyoPiIFBUl7HkWJ29ic2lBTwK6iz9p30mZZ4K1nSfiXSeASdHHabVyh8IgVo5kK2AZgQSd9vTYOiG8Y81Mne5DkXFNkCoAnp7S6pb/r1z0T1tFU8GvlELyxs=;p8yeCK9eRLX3x7t+FgRKAw=="
 ---

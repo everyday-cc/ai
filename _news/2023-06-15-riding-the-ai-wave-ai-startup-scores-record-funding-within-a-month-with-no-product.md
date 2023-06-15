@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "How two founders approach building ethical AI startups in health care"
+    excerpt: "The hype around AI will produce a lot of startups built on shaky ethics. But founders already building in the space can offer some advice."
+    publishedDateTime: 2023-06-15T21:23:00Z
+    webUrl: "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1474076387.jpg?resize=1200,768"
+        width: 1200
+        height: 768
+        isCached: true
   - title: "When AI Overrules the Nurses Caring for You"
     excerpt: "Artificial intelligence raises difficult questions about who makes the call in a health crisis: the human or the machine?"
     publishedDateTime: 2023-06-15T08:30:00Z
@@ -97,20 +111,6 @@ related:
       - url: "https://i.insider.com/648881dc62d3f100199677a1?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Music world gets Startup Nation upgrade, using AI of course"
-    excerpt: "Israeli music startup incorporates cutting-edge technologies not to replace human artists, but to enrich their creations and expand creativity."
-    publishedDateTime: 2023-06-11T04:30:00Z
-    webUrl: "https://www.israel21c.org/music-world-gets-startup-nation-upgrade-using-ai-of-course/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 37
-    images:
-      - url: "https://static.israel21c.org/www/uploads/2023/05/COVER_courtesy_of_Session_42_s_Facebook.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Registration opens for the Mark Cuban Foundation’s Artificial Intelligence Bootcamp"
     excerpt: "Offered at no cost to low-income and diverse community high school students, the Mark Cuban Foundation's Artificial Intelligence Bootcamp will be held for the first time in San Antonio. The San Antonio Bootcamp,"

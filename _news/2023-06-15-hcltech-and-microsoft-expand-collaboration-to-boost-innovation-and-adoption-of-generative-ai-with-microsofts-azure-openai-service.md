@@ -189,6 +189,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 32
+  - title: "Microsoft Nears All-Time Closing High, $2.6 Trillion Value, Amid AI-Powered Rally"
+    excerpt: "Microsoft's early-mover advantage in AI has helped it surge past Google and possibly challenge Apple as the world's most-valuable tech company."
+    publishedDateTime: 2023-06-15T19:45:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/microsoft-nears-all-time-closing-high-2-6-trillion-value-amid-ai-powered-rally"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 29
 
 secured: "xs9qDJkmUcSisga2AVuXrn9hazB5Ran9nCdXOmYoI0XNO2Cha+2Ae52oCQ6RTJmodbCuMhH/DFhE0Pv//xJGJVBxRlltcNDZdqJq027pOYS0ypSoAcY99Scg81yjQFT/fUgA/oZq/gplbz3EGHiqb2QiRt/8mXVUohdkQwMtkrwTGHEE82/WejdP5FO8HjjjfK/x1eHShYqsfLZZ9Ud8W/AnFtUO0qb6/6+Yc5Vw7dp+TRPn3kcCiu3sxwdXI6FrIWAOexoJ9DqlX44hux7J9DpZJRoXb3FH6DYDIlgBJ34XBNJIwUI1n1+dxmAkM0E8ndDFk+7frK/FJPllUgOy24gTFjMZHiB4S/Evlon3zVE=;wlozQHBi+mysD8fBtubEiw=="
 ---

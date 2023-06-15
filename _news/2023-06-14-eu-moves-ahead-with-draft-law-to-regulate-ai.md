@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-l
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
+    quality: 47
+  - title: "With AI Act, EU Moves To Protect People From Tech Risks"
+    excerpt: "Called the AI Act, the draft legislation aims to protect people's privacy, voting rights and copyrighted material. The law includes bans on using AI for discrimination and on invasive practices such as biometric identification in public spaces and \"predictive policing systems\" that could be used to illegally profile citizens."
+    publishedDateTime: 2023-06-15T18:15:00Z
+    webUrl: "https://www.cnet.com/tech/with-ai-act-eu-moves-to-protect-people-from-tech-risks/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
     quality: 47
   - title: "AI Regulation in Europe Gets Closer to a Final Vote"
     excerpt: "Legislators across the European Union have come one step closer to implementing broad artificial intelligence regulations. The EU AI Act, a proposed law that would assess and restrict AI applications based on risk,"

@@ -150,6 +150,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Q&A: The future of work—how will AI and automation affect work?"
+    excerpt: "For decades, advances in technology have changed the ways people work, and now artificial intelligence could be the next big disruptor."
+    publishedDateTime: 2023-06-15T20:57:00Z
+    webUrl: "https://techxplore.com/news/2023-06-qa-future-workhow-ai-automation.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-qa-future-workhow-ai-automation.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-qa-future-workhow-ai-automation.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-4.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Generative AI's impact on chip industry and the upcoming growth cycle through 2024"
     excerpt: "Generative AI is stealing the spotlight from all other tech products as ChatGPT accumulated 1 million users in just a few months, and now tech analysts from UBS Investment Bank released their latest estimates of its impact on the semiconductor industry business."
     publishedDateTime: 2023-06-14T06:18:00Z

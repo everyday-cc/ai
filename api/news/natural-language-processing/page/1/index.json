@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-16-why-experts-cant-understand-or-predict-ai-behaviors.md",
+      "title": "Why Experts Can’t Understand Or Predict AI Behaviors",
+      "excerpt": "These systems are engineered using techniques for optimization rather than engineered for specific purposes,” says Blake Richards, who worked in Geoffrey Hinton's lab.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/",
+      "originalUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648b5dfc6c909f5e645e44a7/0x0.jpg?format=jpg&width=1200",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/amp/",
+      "publishedDateTime": "2023-06-15T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-build-a-multilingual-automatic-translation-pipeline-with-amazon-translate-active-custom-translation.md",
       "title": "Build a multilingual automatic translation pipeline with Amazon Translate Active Custom Translation",
       "excerpt": "Dive into Deep Learning (D2L.ai) is an open-source textbook that makes deep learning accessible to everyone. It features interactive Jupyter notebooks with self-contained code in PyTorch, JAX, TensorFlow, and MXNet, as well as real-world examples, exposition figures, and math. So far, D2L has been adopted",
@@ -106,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 271,
+      "heat": 291,
       "tags": null,
       "images": [
         {
@@ -214,7 +266,7 @@
       "originalUrl": "https://www.wired.com/story/microsofts-satya-nadella-is-betting-everything-on-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -873,19 +925,19 @@
     {
       "path": "_news/2023-06-06-netsmart-and-nvoq-partner-to-deliver-integrated-speech-recognition-to-tackle-the-documentation-challenge-for-in-home-healthcare-clients.md",
       "title": "Netsmart and nVoq partner to deliver integrated speech recognition to tackle the documentation challenge for in-home healthcare clients",
-      "excerpt": "As part of the partnership, Netsmart becomes the authorized reseller of the nVoq speech recognition products for Netsmart clients. The cloud-based speech recognition technology will be seamlessly integrated within the Netsmart myUnity EHR solution,",
+      "excerpt": "BOULDER, Colo., June 6, 2023 /PRNewswire/ -- nVoq Incorporated, an innovator of speech recognition technology within the in-home healthcare industry, and Netsmart, a leading provider of healthcare ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32738135/netsmart-and-nvoq-partner-to-deliver-integrated-speech-recognition-to-tackle-the-documentation-cha",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32738135/netsmart-and-nvoq-partner-to-deliver-integrated-speech-recognition-to-tackle-the-documentation-cha",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/2018676/nVoq_Incorporated__Logo.jpg",
-          "width": 300,
-          "height": 300,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -893,13 +945,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:02:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32738135",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32738135",
+      "publishedDateTime": "2023-06-06T06:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1415,59 +1467,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-translate-documents-in-real-time-with-amazon-translate.md",
-      "title": "Translate documents in real time with Amazon Translate",
-      "excerpt": "A critical component of business success is the ability to connect with customers. Businesses today want to connect with their customers by offering their content across multiple languages in real time. For most customers, the content creation process is disconnected from the localization effort of translating",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-documents-in-real-time-with-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-documents-in-real-time-with-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/31/real-time-document-translation.png",
-          "width": 1020,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T13:30:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Artificial Intelligence: What is AI, is it dangerous and what jobs are at risk?"
-excerpt: "Artificial intelligence (AI) technology is developing at high speed, and is transforming many aspects of modern life. However, some experts fear that it could be used for malicious purposes, and may threaten jobs. AI allows a computer to think, act, and respond like a human."
+excerpt: "Snapchat's AI chatbot, My AI, works in a similar way to provide helpful human-like responses to instructions. But My AI can also provide incorrect responses - called \"hallucinating\" - where it states untrue or misleading things as fact."
 publishedDateTime: 2023-06-14T02:42:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-65855333?at_medium=RSS"
-webUrl: "https://www.bbc.co.uk/news/technology-65855333?at_medium=RSS"
+originalUrl: "https://bbc.co.uk/news/technology-65855333?at_campaign=KARANGA&at_medium=RSS"
+webUrl: "https://bbc.co.uk/news/technology-65855333?at_campaign=KARANGA&at_medium=RSS"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-65855333.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65855333.amp"
 type: article
-quality: 28
+quality: 68
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/176FB/production/_129959959_gettyimages-1430317544.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "It’s Humans And AI, Not Humans Vs. AI"
@@ -129,6 +137,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "What happens when the god AI arrives"
+    excerpt: "When pioneers in the field of artificial intelligence start to worry about their creations, we should pay attention. But do people really have reason to fear?"
+    publishedDateTime: 2023-06-15T20:25:00Z
+    webUrl: "https://www.afr.com/technology/what-happens-when-the-god-ai-arrives-20230524-p5dasr"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.1725%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_153/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/194fba7012c8b260e534fbd30e72d7ff350b1633"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Embrace AI, but ensure it complements not replaces human communications"
     excerpt: "Chief Communication Officer, Greaves Cotton Limited, writes about the transformative role of AI in communication, its benefits, challenges and considerations"
     publishedDateTime: 2023-06-14T13:27:00Z
@@ -139,6 +161,6 @@ related:
       domain: exchange4media.com
     quality: 19
 
-secured: "9vVE1jmRyE8dHmxkQi2KhmKwE7T4Ueb1wh9aAwUwg5TlA47/Dp1gA0u3GjqXVKi3BXSaBUgn5g04Yi4ISnA0kk/Jrc5nRttuAtwPQTBLC8CPJ0TsundseHnKEKDbX+yl2Nhy8sRWauGs7MbAqXJ2cNlSztH41FUJtPP9OnvAhbBIa72StyUk+75AF06CF7jcotUngpT0GSvqf2m8xjV5Kox0TbHxp6fvRj65RiqRg5AWVNMIyZoXmSTFpVSMbvx29lEaEVKqJ99NqcGk008T/XvCeo+2kp1KE6XPOE+Fh8Cq4vqEqlLQwhusq+0kNAfcAOv4kho4zHZ98NjVhb/9PFR9zp1FVBzA6bn+Xr+dKSVLJimE7hQBkLx4wcsnl7Xoh3fUyT5QHBOyQeamrvbjRAKLikR0jh72p0smkN1GBknGEZlWSS19/e5HG6Hm4+MMA/lTyOGnw43dx5XUQetsb5yg2XYo+FPtUcG5pUbddQ2/8uHz6bITw5mPMKBEIfgwXW5a+1qTMvFd3l2mvGM+tw==;nsTldJGHM4AIYtnBJQK2zQ=="
+secured: "FL8xZ7Y959JJxHjp2RIpPwVPgmIn1dRYihJO5qK4JznFWRHiQ5M8oVupzVHh2zBL0B0AlIwOwcuPhH8o0fhzBmag8lYghcBwjm1tFx/dEvDVTLAWThJtu/2qZnipqGIqCV20l2ib3Pf70mED5g/GaAGTk7YWcdGwx6K8XEmsQgmJoWmBjoAeeK59RMm9L2iVEwrJyY1swYka3xOixezqU9SdcNhQOyZeensdQUcnjBt7d32XErPAMM5xHXrTeUaVt6j6+poqjEWHZE4JSFx9sCN5njxSMoLlIEhGhBUxF0r36a0Az+9ZknDXuDxD2F+TCfaMImyTHwQAzbN+YITbSJZChW7mz8lyXywA1iw+FIw=;msNY+iQ1cdpwCOzuLMuSZw=="
 ---
 

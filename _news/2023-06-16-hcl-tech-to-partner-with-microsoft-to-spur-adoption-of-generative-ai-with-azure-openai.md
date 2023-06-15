@@ -135,6 +135,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Q&A: The future of work—how will AI and automation affect work?"
+    excerpt: "For decades, advances in technology have changed the ways people work, and now artificial intelligence could be the next big disruptor."
+    publishedDateTime: 2023-06-15T20:57:00Z
+    webUrl: "https://techxplore.com/news/2023-06-qa-future-workhow-ai-automation.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-qa-future-workhow-ai-automation.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-qa-future-workhow-ai-automation.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-4.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "5 ways how Artificial Intelligence improve the workplace"
     excerpt: "Artificial intelligence (AI) is now a part of our everyday lives. More than we may sometimes realize; AI solutions are changing almost every aspect of our lives, and this extends well into the workplace as well. The impact of AI on the future of work is a ..."
     publishedDateTime: 2023-06-11T11:31:00Z
@@ -285,6 +301,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "yV+dVzoyoeZkA0mFED3yEozL7kudWJJrEcTzdBCa/INiYoUG1vH8RhJckpxPlEne1JvVKKo/Bp43u209WX+ve9yu73rGRDkAA9EkPiuII54PFo5nXYhoqpDVHNSKrgCvwsE/eHclyVOeMvpM2eOCe5G7fPJfo+I5c2V86qdqNGIsNAQTPzRiNLNE4uZbG5tZ78G6QI9xjGfe0t+bhaDIHs/zG9ZyPuFFZgNHnQ5VV3Y1UBvWjT6Z22ZorMMgRSYzlgUwnCiVYwLBJN4IbzVKTFzw42Ohcl1YyCjT26dVoB5N2s9G7g8HNV9j9qLhc2naJB04R8KTrquFfMfzanPs9C4v6Mvctr/DfG9jTEFw55M=;w7n6Z/nKS+WEUlH+m5uCzw=="
+secured: "qCn16TTp0zzzQP/b9jMIS6OQUBEY9q5DrgScAm8LmguRu3caua65q8OUpzAZRtGj7Jg7HgwBjweSLeKQiRov8Qt72/+WmeuwxRciL4hkMYrjhHL6PupaDp/W0hGxP9gAFyCq7hw4z0i79QqDiJ1YTHhO+3UmgoKOCaFNObSyGZZv5qqnOqIizd8pVjZUAtwNji+wi2KpU5+u+pDd1G2hp1P6OBlEj5+ERpnx0UhO1upAEIQP4hCx478efB+brdy6b/fqWIZNHgzkVO9Wb+BUSxyxP9B8DPrCgpkaB9DuWQPYAXbQtb5NR82UxMfkG1CEO7e8X2Ql444mN/vycwZpCPf6+JBE7rBBbsaJ09+brT55vvuU/uDd43ukZSMO/sNSZYobivWfjw2Tju1p17sQX6BbmkWFOS0ACISRX8QeoZE5cuS3Lzw3l6Lhat9KWTn3msa3mT/kSqd5ZVG8EzXooM9CcdP4Hd0cpKPsjaZJBiZ7DmoY+HERzhqU0LxUbzXzSJAH2EsXrK0HfrweGSAn1w==;zx+ITg2OiwCeadcz0QHVbw=="
 ---
 
