@@ -887,6 +887,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-01-driverless-trucks-on-california-highways-legislators-dont-trust-the-dmv-to-ensure-safety.md",
+      "title": "Driverless trucks on California highways? Legislators don’t trust the DMV to ensure safety",
+      "excerpt": "as human drivers of commercial vehicles face replacement by computer systems programmed with artificial intelligence. The Legislature handed driverless vehicle regulation to the DMV when it passed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2023-06-01/driverless-trucks-california-dmv-mistrust-safety-regulations",
+      "originalUrl": "https://www.latimes.com/business/story/2023-06-01/driverless-trucks-california-dmv-mistrust-safety-regulations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/bf490a0/2147483647/strip/true/crop/4000x2100+0+285/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2Ff4%2F617488cf40c1ba6d2446e1b2c82a%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F492682174",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-self-driving-cars-could-clear-light-rails-troubles.md",
       "title": "Self-driving cars could clear light rail’s troubles",
       "excerpt": "We propose that large, building-shaking trains be replaced with 6-9 passenger self-driving vehicles, propelled with plug-in technology (just like a Volt or Tesla automobile). Such vehicles would ...",
@@ -1297,41 +1340,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times.md",
-      "title": "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT – The New York Times",
-      "excerpt": "AdvertisementSupported byThe tech giant aims to remain at the forefront of generative artificial intelligence with its partnership with OpenAI.Send any friend",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/523511/microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times/",
-      "originalUrl": "https://www.inferse.com/523511/microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt-the-new-york-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-29T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence: What is AI, is it dangerous and what jobs are at risk?"
-excerpt: "Artificial intelligence (AI) technology is developing at high speed, and is transforming many aspects of modern life. However, some experts fear that it could be used for malicious purposes, and may threaten jobs. AI allows a computer to think, act, and respond almost as if it was a human."
-publishedDateTime: 2023-06-14T09:41:00Z
-originalUrl: "https://www.bbc.com/news/technology-65855333"
-webUrl: "https://www.bbc.com/news/technology-65855333"
+excerpt: "Artificial intelligence (AI) technology is developing at high speed, and is transforming many aspects of modern life. However, some experts fear that it could be used for malicious purposes, and may threaten jobs. AI allows a computer to think, act, and respond like a human."
+publishedDateTime: 2023-06-14T02:42:00Z
+originalUrl: "https://www.bbc.com/news/technology-65855333?at_format=link&at_bbc_team=editorial&at_link_id=CA3C9118-0A64-11EE-A0B1-895AAD7C7D13&at_link_type=web_link&at_ptr_name=twitter&at_campaign_type=owned&at_link_origin=BBCWorld"
+webUrl: "https://www.bbc.com/news/technology-65855333?at_format=link&at_bbc_team=editorial&at_link_id=CA3C9118-0A64-11EE-A0B1-895AAD7C7D13&at_link_type=web_link&at_ptr_name=twitter&at_campaign_type=owned&at_link_origin=BBCWorld"
 ampWebUrl: "https://www.bbc.com/news/technology-65855333.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65855333.amp"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 799
         isCached: true
 
-secured: "eIT1d/eN4Pk+LI/OClyN7MeQ1qsNM67MYGhkNwOGFs7SnjhY2ZBV2kBDHfkLyGx3AT3+1KpBEEDNUy0dinTFLT4dz7JMoiq5Ikd5J6mPNRWRP4RMXNQR9VIzEA0xHTu4vd1tBOgLTidRMy4m9FlKFbreDwxZ01OikM8ZeF85OfjvnO3dyoiggrQLhm/U79tkhhzobXM2wBecKVaarLeUKmJYhN1gPdQENIqmVfFgDCBwGOG2mmWIgNAZwch8OYt8R3dZ5R2L6S6A6KGyM24q3zdaKQrHDLlAvoopSu213dmZ1kFFc0v9F5+pPcXjLHcLVHWaf+QnPG8Q/SE9Kve8oa04Qm3FpiAGOsUs5NGdnCHt/OJCDFfzi4rvHH2F+onc1TkWbuT4HDqXd/lFym5H0ksZZtQ+8TIBy0C+a87gA5Wrq8R+zINomuUCL7qt5ogwSpp8PVvlsVguh1ikjJHGSMei192QV1yNJ63SkLYEhatTy48gJJ9kXUzIYFtxASBj51VKO7nHEI2zNa5TN6TEsg==;BiEATErLQdy+X4pSnff1rQ=="
+secured: "fiQdqeYaIT5fzmUBg6HJCdlARSDFfVwN3hNe2sCELakbHDafkThXLglDohIe7jaAHuwjzJuO29IN850KZaWOCN6KF9tqor0Adu59KCc9I63HJ5DEMA16XZi03QDZgAJGQATjN3W38P2UQqcyR5tBy4mOrqzptYHmmD9fMT69mo7f5GqLTUQdtwEjtbAL1wTdk+ef9oWl7DoAsTB/cW9nU/H+CtknLi8wbPS6XbElN0e6crXzxmsnoYAv8Ccqe+PNqLtyfPpD49aCprv52b1iwS24ZAbwTApabpcJVheFCpXdnt3qguHFXT2J2BAKDuTFRGnB38yQcV9EFKwAPzLkgXSte9sPqvp3OKh5KuesXeE=;cGygeJyvIlvNo3Qe+YxDQg=="
 ---
 

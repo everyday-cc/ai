@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Regulation Is Almost Here in Europe"
-    excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
-    publishedDateTime: 2023-06-14T10:10:00Z
-    webUrl: "https://www.wsj.com/articles/ai-regulation-is-almost-here-in-europe-10b32c8f"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-799506/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI Regulation Is Here. Almost."
     excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
     publishedDateTime: 2023-06-14T13:37:00Z
@@ -71,20 +57,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "Europe Adopts Groundbreaking AI Regulation"
-    excerpt: "The European Union Parliament, in a landmark move, has voted in favor of the proposed Artificial Intelligence Act, revolutionizing the regulatory landscape of AI in the continent. This pivotal decision ushers in a new era of AI governance,"
-    publishedDateTime: 2023-06-14T20:05:00Z
-    webUrl: "https://www.unite.ai/europe-adopts-groundbreaking-ai-regulation/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/06/christian-lue-MZWBMNP7Nro-unsplash-942x600.jpg"
-        width: 942
-        height: 600
-        isCached: true
   - title: "Four-week-old AI start-up raises record €105m in European push"
     excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105 million in Europe’s largest-ever seed round."
     publishedDateTime: 2023-06-14T16:29:00Z
@@ -108,15 +80,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "Europe votes on Artificial Intelligence Act"
-    excerpt: "Lawmakers in Europe signed off Wednesday on the world's first set of comprehensive rules for artificial intelligence, clearing a key hurdle as authorities across the globe race to rein in A.I. (June 1"
-    publishedDateTime: 2023-06-14T18:50:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2023/06/14/europe-votes-artificial-intelligence-act/12105644002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
 
 secured: "SnpQLjueT3f9zBarMEDzVVJSAgriKLR8QmXdrDF+9A8trTBndSd/ZO8e+sLwLLGAnxGL8sJ30meE18+/qHiiew3EW9S8LbFMD6R7044KWAXy9qrW3vEbC0Td3Gu7vhaNTSjgkiidvweh+jxqdvTzfno6MVRRU+9QDcvxCfpKjxrU/uHCmIoxtw8kAbGSVtxngk2BnUvweZqFrOikQ0zQY/dQprWvIhqIvAQBfpoe4h0ACqwUJzSVL2fc6SDHJ8Q3dczdPzDFeTTBcd9BwFtd33c9x18K3cFUiUXksBN+bGOpJB6EtUuJQo3yCkmLIBbcxZw9v/WddwlWYk+IMY1rBgTJx368Cw3C9B79By2JNLsETyAmZxOZjpsN1NZoo3sCI7qtqNq11jsMjvaysoqumqtBgyh81JzNIuAFFtkfvhES1olse9S89D0qYQl/zu0M3/kQ5rEUgKjcS2G9gTFXSnrwoy2Fq6zULJnxTbjgUihxS19OdsYrMAlkEC4rZWryRBrFx/5/JEcApEcd+T6okw==;bG4ALkM/J9Bkf6udbhhqPw=="
 ---

@@ -132,15 +132,6 @@ related:
       name: Telangana Today
       domain: telanganatoday.com
     quality: 36
-  - title: "Microsoft to move top AI experts from China to new lab in Canada"
-    excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
-    publishedDateTime: 2023-06-10T10:49:00Z
-    webUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55?sharetype=gift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "How Microsoft Teams helped the Breakthru app bring wellbeing to 45,000 organizations"
     excerpt: "The Breakthru app in Microsoft Teams helps increase productivity, focus, and wellbeing with microbreaks in the flow of work. Learn more."
     publishedDateTime: 2023-06-12T15:00:00Z

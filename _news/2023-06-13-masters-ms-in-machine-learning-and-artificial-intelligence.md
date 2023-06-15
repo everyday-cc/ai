@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-13T00:00:00Z
 originalUrl: "https://drexel.edu/cci/academics/masters-programs/ms-in-artificial-intelligence-machine-learning/"
 webUrl: "https://drexel.edu/cci/academics/masters-programs/ms-in-artificial-intelligence-machine-learning/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx"

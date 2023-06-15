@@ -32,9 +32,9 @@ images:
 
 related:
   - title: "Artificial Intelligence: What is AI, is it dangerous and what jobs are at risk?"
-    excerpt: "Artificial intelligence (AI) technology is developing at high speed, and is transforming many aspects of modern life. However, some experts fear that it could be used for malicious purposes, and may threaten jobs. AI allows a computer to think, act, and respond almost as if it was a human."
-    publishedDateTime: 2023-06-14T09:41:00Z
-    webUrl: "https://www.bbc.com/news/technology-65855333"
+    excerpt: "Artificial intelligence (AI) technology is developing at high speed, and is transforming many aspects of modern life. However, some experts fear that it could be used for malicious purposes, and may threaten jobs. AI allows a computer to think, act, and respond like a human."
+    publishedDateTime: 2023-06-14T02:42:00Z
+    webUrl: "https://www.bbc.com/news/technology-65855333?at_format=link&at_bbc_team=editorial&at_link_id=CA3C9118-0A64-11EE-A0B1-895AAD7C7D13&at_link_type=web_link&at_ptr_name=twitter&at_campaign_type=owned&at_link_origin=BBCWorld"
     ampWebUrl: "https://www.bbc.com/news/technology-65855333.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65855333.amp"
     type: article

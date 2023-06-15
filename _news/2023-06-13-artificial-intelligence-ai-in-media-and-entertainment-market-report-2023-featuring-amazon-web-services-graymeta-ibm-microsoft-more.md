@@ -133,15 +133,6 @@ related:
       name: Telangana Today
       domain: telanganatoday.com
     quality: 36
-  - title: "Microsoft to move top AI experts from China to new lab in Canada"
-    excerpt: "The Beijing-based Microsoft Research Asia (MSRA) has begun seeking visas to move top AI experts from China’s capital to its institute in Vancouver, said four people with knowledge of the plans."
-    publishedDateTime: 2023-06-10T10:49:00Z
-    webUrl: "https://www.ft.com/content/d21d2f85-7531-4536-bcce-8ca38620fe55?sharetype=gift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "EY unlocks Microsoft Azure OpenAI Service to empower EY Tax professionals globally with EY Tax Copilot"
     excerpt: "The EY Tax Copilot program is designed to accelerate how the EY organization innovates, delivers services and provides value to teams and clients LONDON, June 14, 2023 /PRNewswire/ -- EY today announc"
     publishedDateTime: 2023-06-14T17:12:00Z
