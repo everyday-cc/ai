@@ -2,6 +2,250 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-05-29-as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t.md",
+      "title": "As NVIDIA Approaches $1T, Company Announces AI Tech Needed To Surpass $2T",
+      "excerpt": "The NVIDIA DGX GH200’s massive shared memory space uses NVLink interconnect technology with the NVLink Switch System to combine 256 GH200 superchips, allowing them to",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6473c8a15a1b0fdc91569955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/",
+      "publishedDateTime": "2023-05-28T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei.md",
+      "title": "Nvidia CEO reveals groundbreaking generative AI innovations for industries at COMPUTEX Taipei",
+      "excerpt": "Huang believes the innovations will facilitate new business models and enhance efficiency across a multitude of industries.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-28T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-the-ai-boom-runs-on-chips-but-it-cant-get-enough.md",
+      "title": "The AI Boom Runs on Chips, but It Can’t Get Enough",
+      "excerpt": "A shortage of the kind of advanced chips that are the lifeblood of new generative AI systems has set off a race to lock down computing power and find workarounds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554",
+      "originalUrl": "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-790143/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-28T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution.md",
+      "title": "Arendai and AiQ Robotics Join Forces to Offer Unified Orchestration and Robotics Solution",
+      "excerpt": "Arendai and AiQ robotics last Thursday announced a partnership that will enable the companies to expand their services into the rapidly growing industry 4.0. By combining Arendai's cutting-edge solution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/32220-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/32220-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/f387e437c862082eed484b9d226001b5.jpg?t=20230529_022121",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-28T19:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-artificial-intelligence-to-estimate-the-accuracy-of-data-explaining.md",
+      "title": "Artificial Intelligence To Estimate The Accuracy Of Data Explaining",
+      "excerpt": "Despite their enormous size and power, today's artificial intelligence systems routinely fail to distinguish between hallucination and reality. Autonomous driving systems can fail to perceive pedestrians and emergency vehicles right in front of them,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
+      "originalUrl": "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2023/05/probabilistic-ai-00.jpg",
+          "width": 900,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
+      "publishedDateTime": "2023-05-28T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-destiny-2-season-of-the-deep-guides-season-pass-gear-exotics.md",
       "title": "Destiny 2: Season Of The Deep Guides, Season Pass Gear, Exotics",
       "excerpt": "GameSpot may get a commission from retail offers. Destiny 2's second season of 2023 is here, and after Season of Defiance kept the action focused mostly on Earth, Season of the Deep shifts the ...",
@@ -902,237 +1146,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you.md",
-      "title": "Cloud Paves The Way To AI. But Understand What Your Cloud Providers Aren’t Telling You",
-      "excerpt": "That's the word from David Linthicum, chief cloud strategy officer for Deloitte Consulting and author of the just-published book, An Insider's Guide to Cloud Computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64721da4e3e8f6f090569955/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/amp/",
-      "publishedDateTime": "2023-05-27T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses.md",
-      "title": "How the generative AI boom could deliver a wave of successful businesses",
-      "excerpt": "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
-      "originalUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-alphabets-secret-weapon-in-the-artificial-intelligence-race.md",
-      "title": "Alphabet's Secret Weapon in the Artificial Intelligence Race",
-      "excerpt": "The artificial intelligence (AI ... Automation, personalized experiences, autonomous systems like drones and self-driving cars, and a healthcare revolution are just the beginning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/alphabets-secret-weapon-in-the-artificial-intelligence-race",
-      "originalUrl": "https://www.nasdaq.com/articles/alphabets-secret-weapon-in-the-artificial-intelligence-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-travelers-to-uk-face-long-waits-amid-systems-problem.md",
-      "title": "Travelers to U.K. face long waits amid systems problem",
-      "excerpt": "LONDON >> Travelers arriving in the U.K. faced hourslong delays today after a technical problem shut electronic border gates at airports across the country, forcing everyone to have their passports checked manually on what was expected to be one of the busiest travel weekends of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/",
-      "originalUrl": "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.staradvertiser.com/wp-content/uploads/2023/05/web1_13843382-63da3cfc9dbc48d9b9ac4e6eb9aa4fde.jpg",
-          "width": 760,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/",
-      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/",
-      "publishedDateTime": "2023-05-27T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Honolulu Star-Advertiser",
-        "domain": "staradvertiser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-its-hard-to-rave-about-a-plain-white-t-shirt-so-retailers-are-making-ai-do-it.md",
-      "title": "It’s Hard To Rave About A Plain White T-Shirt, So Retailers Are Making AI Do It",
-      "excerpt": "Some retailers are using artificial intelligence to churn out hundreds of product descriptions that used to take weeks to write.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/laurendebter/2023/05/27/its-hard-to-rave-about-a-plain-white-t-shirt-so-retailers-are-making-ai-do-it/",
-      "originalUrl": "https://www.forbes.com/sites/laurendebter/2023/05/27/its-hard-to-rave-about-a-plain-white-t-shirt-so-retailers-are-making-ai-do-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6471142a6fcd75efc69d86b2/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

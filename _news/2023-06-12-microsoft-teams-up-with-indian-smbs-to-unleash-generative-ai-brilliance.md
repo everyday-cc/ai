@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft –AI Will Help Drive $100 Billion In Revenue By 2027"
+    excerpt: "The latest of these tools, generative AI capabilities through Microsoft Azure OpenAI Service, can help government agencies improve efficiency, enhance productivity, and unlock new insights from their data. Many agencies require a higher level of security ..."
+    publishedDateTime: 2023-06-15T00:00:00Z
+    webUrl: "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/"
+    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648bd2abff1c29c9aeb1e996/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Microsoft’s Satya Nadella Is Betting Everything on AI"
     excerpt: "Satya Nadella—and Microsoft, the company he runs—are riding high on the buzz from its search engine. That's quite a contrast from the first time I spoke with Nadella, in 2009. Back then, he was not so well known,"
     publishedDateTime: 2023-06-13T10:00:00Z
@@ -39,35 +55,37 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Microsoft has added ChatGPT into the secure US government Azure cloud"
-    excerpt: "Microsoft has announced its Azure OpenAI Service is now available to the US government in an even more secure format, with specific compliance promised for regulatory standards for classification and security."
-    publishedDateTime: 2023-06-12T15:03:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud"
+  - title: "HCL Tech To Partner With Microsoft To Spur Adoption Of Generative AI With Azure OpenAI"
+    excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness AI."
+    publishedDateTime: 2023-06-15T17:34:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 81
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/E9JMqiF2RG9PQAUBVnHM6h-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ht6y4m693myozxkm_1686842932.jpeg"
+        width: 768
+        height: 439
         isCached: true
-  - title: "Atmosera Attains Two New Microsoft Advanced Specializations, Reinforcing Cloud Security and Azure Virtual Desktop Expertise"
-    excerpt: "Atmosera continues to demonstrate its tenured experience and deep knowledge in the Azure tech stack and security domain. PORTLAND, Ore., June 12, 2023 /PRNewswire-PRWeb/ -- Atmosera, a recognized full"
-    publishedDateTime: 2023-06-12T20:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32825113/atmosera-attains-two-new-microsoft-advanced-specializations-reinforcing-cloud-security-and-azure-v"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32825113"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32825113"
+  - title: "HCL Tech, Microsoft expand partnership to spur adoption of generative AI with Azure OpenAI Service"
+    excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness generative artificial intelligence (AI) and develop joint solutions to enable businesses to achieve better outcomes."
+    publishedDateTime: 2023-06-15T14:56:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html/amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 80
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 75
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/01/HCL-Canada.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "HCLTech to offer generative AI solutions with Microsoft, train 10,000"
     excerpt: "This program will provide training and certification opportunities to employees and offer access to exclusive resources and tools."
@@ -99,74 +117,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AWS distances itself from Google, Microsoft with ‘unique’ approach to generative AI"
-    excerpt: "AWS has emphasised its commitment to providing customers with the widest range of AI tools, in a strategy that distances it from other hyperscale AI providers. The firm, the third of the hyperscalers to fully enter the generative artificial intelligence (AI) foray,"
-    publishedDateTime: 2023-06-12T12:15:00Z
-    webUrl: "https://www.techcentral.ie/aws-distances-itself-from-google-microsoft-with-unique-approach-to-generative-ai/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 45
-  - title: "Contextere's Industrial Chatbot Madison Now Available on Microsoft Azure Marketplace"
-    excerpt: "TheNewswire - June 13, 2023 - Contextere, the pioneer of Blue Collar AI®, announced today that Madison, its insight engine and industrial chatbot, is now available on the Microsoft Azure Marketplace."
-    publishedDateTime: 2023-06-13T13:20:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/17670028/contexteres-industrial-chatbot-madison-now-available-on-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 42
-  - title: "Microsoft adds AI capabilities, enhances translation features to Skype"
-    excerpt: "In the latest update to Skype, Microsoft has incorporated AI capabilities and enhanced translation features into the platform. The updated version (8.99.76.102 for Insiders) of Skype includes several new features as well as the usual reliability fixes."
-    publishedDateTime: 2023-06-13T18:15:00Z
-    webUrl: "https://telanganatoday.com/microsoft-adds-ai-capabilities-enhances-translation-features-to-skype"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 36
-  - title: "Microsoft adds AI capabilities, enhances translation features to Skype"
-    excerpt: "In the latest update to Skype, Microsoft has incorporated AI capabilities and enhanced translation features into the platform. The updated version (8.99.76.102 for Insiders) of Skype includes several new features as well as the usual reliability fixes."
-    publishedDateTime: 2023-06-15T08:37:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4086912.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 36
-  - title: "EY unlocks Microsoft Azure OpenAI Service to empower EY Tax professionals globally with EY Tax Copilot"
-    excerpt: "The EY Tax Copilot program is designed to accelerate how the EY organization innovates, delivers services and provides value to teams and clients LONDON, June 14, 2023 /PRNewswire/ -- EY today announc"
-    publishedDateTime: 2023-06-14T17:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32860556/ey-unlocks-microsoft-azure-openai-service-to-empower-ey-tax-professionals-globally-with-ey-tax-cop"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
-  - title: "How Microsoft Teams helped the Breakthru app bring wellbeing to 45,000 organizations"
-    excerpt: "The Breakthru app in Microsoft Teams helps increase productivity, focus, and wellbeing with microbreaks in the flow of work. Learn more."
-    publishedDateTime: 2023-06-12T15:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/06/12/how-microsoft-teams-helped-the-breakthru-app-bring-wellbeing-to-45000-organizations/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 32
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/05/Breakthru-hero.jpg"
-        width: 1113
-        height: 626
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Media and Entertainment Market Report 2023: Featuring Amazon Web Services, GrayMeta, IBM, Microsoft & More"
-    excerpt: "The \"Artificial Intelligence (AI) in Media and Entertainment Market - Forecasts from 2023 to 2028\" report has been added to ResearchAndMarkets.com's offering. AI in media and entertainment market is expected to grow at a CAGR of 31."
-    publishedDateTime: 2023-06-13T10:58:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831182.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
   - title: "Microsoft Nears All-Time Closing High, $2.6 Trillion Value, Amid AI-Powered Rally"
     excerpt: "Microsoft's early-mover advantage in AI has helped it surge past Google and possibly challenge Apple as the world's most-valuable tech company."
     publishedDateTime: 2023-06-15T19:45:00Z

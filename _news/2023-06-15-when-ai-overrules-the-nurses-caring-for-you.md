@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe"
 webUrl: "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Wall Street Journal
@@ -28,117 +28,52 @@ images:
     isCached: true
 
 related:
-  - title: "Creating A Strong Foundation For Your Startup With AI"
-    excerpt: "Startups must take proactive steps to overcome business challenges and get ahead. One of those steps should be implementing AI."
-    publishedDateTime: 2023-06-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/"
+  - title: "Miyares leads coalition on recommendations for artificial intelligence governance"
+    excerpt: "() - A bipartisan coalition of 23 attorneys general, co-led by Virginia Attorney General Jason Miyares, submitted a letter advising the National Telecommunications and Information Administration on go"
+    publishedDateTime: 2023-06-15T20:52:00Z
+    webUrl: "https://www.thecentersquare.com/issues/healthcare/article_8670e74e-0bbe-11ee-afe5-5fe03db4ca35.html"
+    ampWebUrl: "https://www.thecentersquare.com/issues/healthcare/article_8670e74e-0bbe-11ee-afe5-5fe03db4ca35.amp.html"
+    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/issues/healthcare/article_8670e74e-0bbe-11ee-afe5-5fe03db4ca35.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Center Square
+      domain: thecentersquare.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64824c948f1cd79e3030c0ae/0x0.jpg?format=jpg&crop=2988,1679,x0,y0,safe&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/2/7e/27e5ba8c-0b79-11ee-99a4-8720452f4ce8/648b05d01c113.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "How two founders approach building ethical AI startups in health care"
-    excerpt: "The hype around AI will produce a lot of startups built on shaky ethics. But founders already building in the space can offer some advice."
-    publishedDateTime: 2023-06-15T21:23:00Z
-    webUrl: "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/"
+  - title: "Discover the Power of Artificial Intelligence for Lead Generation and Website Visitor Conversion"
+    excerpt: "SmartFinds Marketing and Boom! Enterprises Present a Virtual Event on Leveraging AI to Maximize Business Growth.SmartFinds Marketing, a leading digital marketing agency, is pleased to announce an upco"
+    publishedDateTime: 2023-06-13T00:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32828527/discover-the-power-of-artificial-intelligence-for-lead-generation-and-website-visitor-conversion"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32828527"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32828527"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1474076387.jpg?resize=1200,768"
-        width: 1200
-        height: 768
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Generative AI startup Mistral AI raises 105 million euros in seed-stage funding"
-    excerpt: "The company is founded by ex-Meta and Google AI researchers, Guillaume Lample, Arthur Mensch and Timothee Lacriox."
-    publishedDateTime: 2023-06-14T07:13:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+  - title: "Artificial intelligence: Getting regulation right"
+    excerpt: "EDITORIAL. Setting up an international body to oversee the non-proliferation of the most dangerous AI systems must not serve as a distraction from the more immediate task of regulating AI as it exists today."
+    publishedDateTime: 2023-06-11T14:05:00Z
+    webUrl: "https://www.lemonde.fr/en/opinion/article/2023/06/11/artificial-intelligence-getting-regulation-right_6030878_23.html"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 53
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "With AI for kids, collaboration is key"
-    excerpt: "Moral and philosophical questions abound. The UNESCO’s recommendation on the ethics of AI set the normative framework to navigate the ethical jungle, with some core principles, including transparency, human oversight and determination. These guardrails ..."
-    publishedDateTime: 2023-06-12T07:47:00Z
-    webUrl: "https://www.thebookseller.com/comment/with-ai-for-kids-collaboration-is-key"
-    type: article
-    provider:
-      name: The Bookseller
-      domain: thebookseller.com
+      name: Le Monde.fr
+      domain: lemonde.fr
     quality: 39
     images:
-      - url: "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/473/Boy_reading.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://img.lemde.fr/2023/06/10/54/0/7256/4837/1440/960/60/0/e269e61_1686380078037-244000.jpg"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Mass layoffs are creating a new generation of founders building climate, health, and fintech startups"
-    excerpt: "Health and fintech are also popular. Ai-Ling Walker, a former creator success staffer at Patreon, is building the Noetic platform to help neurodiverse people receive a diagnosis. It took her five years to be diagnosed with ADHD, during which time she ..."
-    publishedDateTime: 2023-06-14T09:42:00Z
-    webUrl: "https://www.businessinsider.com/layoffs-spark-generation-technical-founders-climate-health-fintech-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/648881dc62d3f100199677a1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Registration opens for the Mark Cuban Foundation’s Artificial Intelligence Bootcamp"
-    excerpt: "Offered at no cost to low-income and diverse community high school students, the Mark Cuban Foundation's Artificial Intelligence Bootcamp will be held for the first time in San Antonio. The San Antonio Bootcamp,"
-    publishedDateTime: 2023-06-12T16:29:00Z
-    webUrl: "https://aldianews.com/en/leadership/advocacy/ai-bootcamp"
-    type: article
-    provider:
-      name: AL DA News
-      domain: aldianews.com
-    quality: 33
-    images:
-      - url: "https://aldianews.com/sites/default/files/2023-06/technology-3435575_1280%20%281%29.jpg"
-        width: 1280
-        height: 730
-        isCached: true
-  - title: "Riding the AI Wave: AI Startup Scores Record Funding within a Month with NO Product"
-    excerpt: "Mistral AI, an ambitious French startup, raised an astonishing $113.5 million seed round in just one month of existence, despite lacking a tangible product or substantial team., Technology & Science News,"
-    publishedDateTime: 2023-06-15T07:54:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/riding-the-ai-wave-ai-startup-scores-record-funding-within-a-month-with-no-product-article-101013897"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 31
-    images:
-      - url: "https://static.tnn.in/thumb/msid-101013897,updatedat-1686815669425,width-1280,height-720,resizemode-75/101013897.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Snorkel AI Introduces New Foundation Model Data Platform"
-    excerpt: "Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic"
-    publishedDateTime: 2023-06-12T16:41:00Z
-    webUrl: "https://www.datanami.com/this-just-in/snorkel-ai-introduces-new-foundation-model-data-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "6gcikgSwUFKF8nV0IRM6NEqHIaUMq/WgZPx3T6yr9wM5ADlVBTX88k/qZJ0ykpihiEIjz9WUoAXYzRjymu9pBY+WWg2c9YQrkE18y1tPQKldw5YLHGGOHLazVn3snTG00mrCAVAWWhY4Vjp/Esn1DO+M/sKaJAJoBPrgGS0UN1HyTXFqMV21lRQ2FAwgJx6Z9W3t1V2z7l7XcQL5/qr0386ceQA08dTnJ6c3JM1iRgX4KLIPtDtny3GRLkzPsIJlAtP6UEpX86lBQ0r/N8c4iEVHRX2Jp7sPdBmuffBabVmKh5vGDFpsdCSq9Brpj+PFtFBhxrEoxtdi8ATCz0A3H1YQabnT7TzIggN106IfRlFpjxQ1bOdwBjkG3EzBE/wbNnen4OEnGYwvzCBBkJERT6BGwtKUDltvEXfONOzOqsTvwBKGYY9zRu5R67z7Q/gIyXteaNs7EW/j6f9M5rNk5OeTb2s7QA08CQb117SxZlCbaNjrpO41UMsWSFhd8W7nA1pDtga35QF7JZMrUWDc/Q==;lVtbthlTxZj8skykGLh3kw=="
 ---

@@ -55,6 +55,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-15-bbfc-aws-collaborate-on-ai-project.md",
+      "title": "BBFC, AWS collaborate on AI project",
+      "excerpt": "The formation of the BBFC’s AI Ethics Committee is a clear step in the BBFC’s ongoing commitment to establish policies and procedures concerning AI ethics, and we are pleased to contribute to those activities. We look forward to continuing to share our ...",
+      "sourceUrl": null,
+      "webUrl": "https://advanced-television.com/2023/06/15/bbfc-aws-collaborate-on-ai-project/",
+      "originalUrl": "https://advanced-television.com/2023/06/15/bbfc-aws-collaborate-on-ai-project/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://advanced-television.com/wp-content/uploads/2019/03/BBFCNetflix-e1686820237688.png",
+          "width": 666,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Advanced Television",
+        "domain": "advanced-television.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker.md",
       "title": "How Forethought saves over 66% in costs for generative AI models using Amazon SageMaker",
       "excerpt": "This post is co-written with Jad Chamoun, Director of Engineering at Forethought Technologies, Inc. and Salina Wu, Senior ML Engineer at Forethought Technologies, Inc. Forethought&nbsp;is a leading generative AI suite for customer service. At the core of its suite is the innovative SupportGPT™ technology",
@@ -1340,49 +1384,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-score-baja-500-motorcycle-racer-killed-in-pre-running-accident.md",
-      "title": "SCORE Baja 500 Motorcycle Racer Killed in Pre-running Accident",
-      "excerpt": "A motorcycle racer pre-running this weekend’s coming SCORE Baja 500 course has died after a single-vehicle accident in the desert of Baja California, Mexico. Argentinian rider Juan “Juani ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoweek.com/racing/more-racing/a44046139/score-baja-500-motorcycle-racer-killed/",
-      "originalUrl": "https://www.autoweek.com/racing/more-racing/a44046139/score-baja-500-motorcycle-racer-killed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod/images/zunino4-png-6476cdf49d20f.png?crop=1.00xw:0.618xh;0,0.0220xh&resize=1200:*",
-          "width": 639,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoweek",
-        "domain": "autoweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

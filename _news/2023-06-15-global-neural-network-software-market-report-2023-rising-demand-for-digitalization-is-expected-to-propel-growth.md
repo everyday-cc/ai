@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Media and Entertainment Market Report 2023: Featuring Amazon Web Services, GrayMeta, IBM, Microsoft & More"
+    excerpt: "The \"Artificial Intelligence (AI) in Media and Entertainment Market - Forecasts from 2023 to 2028\" report has been added to ResearchAndMarkets.com's offering. AI in media and entertainment market is expected to grow at a CAGR of 31."
+    publishedDateTime: 2023-06-13T10:58:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831182.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
   - title: "Global Composite AI Market Report 2023: Growing Intricacy of AI Applications for Better Performance and Accuracy Drives Growth"
     excerpt: "The composite AI market is estimated to grow from USD 0.9 billion in 2023 to USD 4.4 billion by 2028, at a CAGR of 36.5% during the forecast period."
     publishedDateTime: 2023-06-13T01:29:00Z

@@ -2,59 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-05-09-cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation.md",
-      "title": "Cloud Services: AI, Partner Programs And Other Ways To Boost Your Company’s Valuation",
-      "excerpt": "These companies have leveraged Google's technology resources to develop cutting-edge solutions for a wide range of industries, including ICT, healthcare, finance, retail and manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6266a4046d73c134e2109d5b/0x0.jpg?format=jpg&crop=5735,3222,x1963,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/09/cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation/amp/",
-      "publishedDateTime": "2023-05-09T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-05-09-14-popular-ai-algorithms-and-their-uses.md",
       "title": "14 popular AI algorithms and their uses",
       "excerpt": "Large language models have captured the news cycle, but there are many other kinds of machine learning and deep learning with many different use cases.",
@@ -1464,6 +1411,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-the-risks-and-rewards-of-ai-powered-translation.md",
+      "title": "The risks and rewards of AI-powered translation",
+      "excerpt": "Free-to-use translation tools, and more recently generative AI platforms like ChatGPT, have brought security concerns to the fore around AI-powered translations in general. Many of us use language translation services in our day-to-day lives; it is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation",
+      "originalUrl": "https://www.business-reporter.co.uk/management/the-risks-and-rewards-of-ai-powered-translation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/028/AI_translation.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business-reporter.co.uk",
+        "domain": "business-reporter.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

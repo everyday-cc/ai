@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistra
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/fd1be72b-f6c8-4d53-97a6-d2228976568a.jpg"
         width: 740
         height: 493
+        isCached: true
+  - title: "Generative AI startup Mistral AI raises 105 million euros in seed-stage funding"
+    excerpt: "The company is founded by ex-Meta and Google AI researchers, Guillaume Lample, Arthur Mensch and Timothee Lacriox."
+    publishedDateTime: 2023-06-14T07:13:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 53
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Generating mania: Month-old Paris-based startup Mistral AI raises $113M in seed funding"
     excerpt: "Based in Paris, Mistral is the latest startup looking to take on Microsoft Corp.- backed OpenAI LP and Google in building the base infrastructure for generative AI models, which can create new text and images from simple prompts."

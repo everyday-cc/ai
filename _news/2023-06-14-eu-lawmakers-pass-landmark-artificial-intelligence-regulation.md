@@ -114,6 +114,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "How to Regulate AI? Start With the Data."
+    excerpt: "Data is an afterthought for many artificial-intelligence developers. It should be the first thought for policy makers, writes Susan Aaronson."
+    publishedDateTime: 2023-06-15T13:15:00Z
+    webUrl: "https://www.barrons.com/articles/ai-data-regulation-bfded1d4"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ai-data-regulation-bfded1d4"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-data-regulation-bfded1d4"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-800335/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "With AI Act, EU Moves To Protect People From Tech Risks"
     excerpt: "Called the AI Act, the draft legislation aims to protect people's privacy, voting rights and copyrighted material. The law includes bans on using AI for discrimination and on invasive practices such as biometric identification in public spaces and \"predictive policing systems\" that could be used to illegally profile citizens."
     publishedDateTime: 2023-06-15T18:15:00Z
@@ -132,15 +148,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "How to Regulate AI? Start With the Data."
-    excerpt: "Data is an afterthought for many artificial-intelligence developers. It should be the first thought for policy makers, writes Susan Aaronson."
-    publishedDateTime: 2023-06-15T13:15:00Z
-    webUrl: "https://www.barrons.com/articles/ai-data-regulation-bfded1d4"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 17
   - title: "The EU just took a huge step towards regulating AI"
     excerpt: "The European Parliament just cleared a major hurdle for its AI Act, which would significantly expand citizens' data privacy rights."
     publishedDateTime: 2023-06-14T18:00:00Z

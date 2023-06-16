@@ -110,6 +110,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "How to Regulate AI? Start With the Data."
+    excerpt: "Data is an afterthought for many artificial-intelligence developers. It should be the first thought for policy makers, writes Susan Aaronson."
+    publishedDateTime: 2023-06-15T13:15:00Z
+    webUrl: "https://www.barrons.com/articles/ai-data-regulation-bfded1d4"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ai-data-regulation-bfded1d4"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-data-regulation-bfded1d4"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-800335/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "EU lawmakers pass landmark artificial intelligence regulation"
     excerpt: "The European Union's AI Act is the first comprehensive set of regulations for the artificial intelligence industry."
     publishedDateTime: 2023-06-14T11:44:00Z
@@ -137,15 +153,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "How to Regulate AI? Start With the Data."
-    excerpt: "Data is an afterthought for many artificial-intelligence developers. It should be the first thought for policy makers, writes Susan Aaronson."
-    publishedDateTime: 2023-06-15T13:15:00Z
-    webUrl: "https://www.barrons.com/articles/ai-data-regulation-bfded1d4"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 17
 
 secured: "U/D2Z0fPQ2HImCTrrHAXA2LGPFDoJnpHvrQnZDdbQTOU7zxHF8cKkgrJXFhYkCVDhzz89y7nO1N8omCvlEzAh64+OaFrUTc+/7VzTKbr5pjvGCY4nycH3Nt4i/EXElefdAapWJ1SZcMCUgFQ6aMl+4KZ7TT3O6Bxzek8iTIsUVhEf1YDiylLbx/PawQKLZfmXkpmF0bURYE/XtknhscO8VkTP7297TEaCSFVt7P39OsrIiYx741zeRkPm2RaIWzjmaUpGvyyTLo6Xmc04v0Ix27Xx8IZ6Y01D1IVy79o3AiuJYyzkimuKpO5Woe+CRU6oVmk/42r8UOj0uEvfw6fpXQTIJzoXEUZUUSel6jqcnw2ZEz/wX+vow39Ax20ArOCuCSmGL53jNLuLmvnePplT3hkMySDyMuwn7B6XmlP4uCW8DgdIzXGs/NFdiq4p0AOTx2yBqh1+RqC26aJ92sW6n5T97Y3lRAYiB6pcfqRhhpTsgGV96Y80GXdLG9hMFwYStESaQZpOw2iZSkrrmVJ8w==;+gKyn+Z1UsBeqBG7+O9eZw=="
 ---

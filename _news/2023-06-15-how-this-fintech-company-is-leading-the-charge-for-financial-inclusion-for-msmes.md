@@ -1,25 +1,25 @@
 ---
 category: news
 title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
-excerpt: "Access to financing has long been a point of contention for micro, small, and medium-sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small businesses include the higher collateral requests by traditional financial institutions (58."
-publishedDateTime: 2023-06-15T03:00:00Z
-originalUrl: "https://www.thaipr.net/en/business_en/3347796"
-webUrl: "https://www.thaipr.net/en/business_en/3347796"
+excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
+publishedDateTime: 2023-06-15T00:00:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/268751"
+webUrl: "https://www.ryt9.com/en/anpi/268751"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: thaipr.net
-  domain: thaipr.net
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.thaipr.net/wp-content/uploads/2023/06/3894075.jpg"
+  - url: "https://www.ryt9.com/img/files/20230615/iqce444019d68df3b22a6258e23cd120a1.jpg"
     width: 800
     height: 360
     isCached: true
@@ -123,6 +123,6 @@ related:
       domain: businessinsider.com
     quality: 34
 
-secured: "j04VWQaUaemRt/e++gSZEDZWqdBhlkHYzBXFcilw77LrqlJ5JkLwYeSuRIPc+O266bv3bZqwVIshPTdjvREw9PfspA/ryxe62ZND2AsZl0Vgqa3LnSHrvGzOyZTjOunc2vPZpFaff126go7pfGut8H/ImiP+GegQQW7NqJnB2Uw2Nc/yZnNWU43NJX1+3sDf07M9yDOB6Ot8lR9YVw0S1YQTH6grkbzDjT4RdQb4R0nkbWWky8t2qMZISRwhuciUXUEgSDbnapQOfVhWyDnmn0CDXABMNOArvtHWJcccfo+36dBJqRR1X7XoKBzA6Ddk0AlvgcWV4+L0+NyetBMKTzWCPyTQ9OGI273KmjUvnHc=;7IO2xfn7X3jeRGwb5BKNrA=="
+secured: "msGK9FovjOdcsH4gso+pbS2e9Hag090uQKDGT/d7do2PwMp3LlkeSaUlGgxYtnPTzxHFfB5PugfZrmyb5CxReJZanVvCy2PqDDehNCoP9463lRuhLag6e1jTkhOP6+Ol9Jc+hHmukpx3KI49NKntMrk1xNvI0EGRFXFfwBB/mSUV6ruypzIqsj2jJqQ3okSrmAfdW34NMfIamlQHuYMvfTAW3eTWhK/YAvQyAU4TsGpjN+z5rYVJP3gtG4Y6u/HwOcp8BFMPVilT4Apby86IymbF/Bj2kPdbBtkDIkHEYOciXnD2Zyb6GOgWS+Ub2VdZ6uUyJw2nraZ7hineBJ+DfYcbWuGVds7gvIgasCRWpEw=;ayXAK7CfblA4czZ7jin0pQ=="
 ---
 

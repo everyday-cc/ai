@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "HCL Tech To Partner With Microsoft To Spur Adoption Of Generative AI With Azure OpenAI"
-    excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness AI."
-    publishedDateTime: 2023-06-15T17:34:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 81
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ht6y4m693myozxkm_1686842932.jpeg"
-        width: 768
-        height: 439
-        isCached: true
   - title: "How can AI and machine learning improve the use of financial data"
     excerpt: "How can AI and machine learning improve the use of financial data Businesses gather vast amounts of data every day. Yet between 60 and 73% of that data goes unused, according to Forrester. As a result,"
     publishedDateTime: 2023-06-15T17:00:00Z
@@ -105,22 +89,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/generative-ai-modern-data-architecture.jpg"
         width: 1021
         height: 510
-        isCached: true
-  - title: "HCL Tech, Microsoft expand partnership to spur adoption of generative AI with Azure OpenAI Service"
-    excerpt: "HCL Tech and Microsoft have expanded collaboration to boost innovation and adoption of generative AI with Microsoft's Azure OpenAI Service, the statement informed."
-    publishedDateTime: 2023-06-15T14:56:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/enterprise-services/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service/101024921"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service/101024921"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service/101024921"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 75
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101024921,imgsize-21104,width-1200,height=765,overlay-ettelecom/enterprise-services/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service.jpg"
-        width: 1200
-        height: 765
         isCached: true
   - title: "Rackspace takes a FAIR approach to generative AI"
     excerpt: "Rackspace offers new services to help organizations better understand, build and deploy generative AI workloads in public and private clouds."

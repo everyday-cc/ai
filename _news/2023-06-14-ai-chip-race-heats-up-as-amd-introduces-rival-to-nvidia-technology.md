@@ -3,8 +3,8 @@ category: news
 title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
 excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
 publishedDateTime: 2023-06-14T14:38:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
-webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+originalUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
+webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
 ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
 type: article
@@ -313,6 +313,6 @@ related:
       domain: emirates247.com
     quality: 17
 
-secured: "kU9cR/GLwuWC4+zcCriU5wz0AEV5Vk8x4dB7ihr4mEDZBFGk8OfIpRo+S8jnRzGnB0vydZiY0RZQ6Npmn7mV+QOqDgf3tLACpBZLQ9FhN8voM0eFoewiiSyB1jP/pCv121WnWCLR9EsHSkCR2MoeIcDGKi7Fq+fFzAPeeLc0dHZcT4GTiliN+50+gchNzunu8LExtfm9fY6ymSEusxHy2GhxK0ZErFazudP1espU6MUoKYAfbfbRzGQAzE8GCL/TZoM36TWb175L8BHQJUGVhmRB603adXFhv6EzVLzi2Ut3LqLA39O8Xg1cEN3dIiulZAeOQYOeM5fdkRzr+jZg6x9sENtZP4rPUzNslRpuYGy6o9pW6WK/i0Kp1t3wzmgX1kTyqCqVNv54Y7ZL2QLnGddWHE6vWJYmB6nT9KQBBZ4zO3hfm9iOFsOdsWT2ctVMwHbmsSIp5afrmtjLn2HXCp6BJQXX2KTDTFqks+SZHc7j5JwoAKfUAUXDmODUz2qwcI0S0+hqCBaHfajLkNIi+Q==;LOKU1yIyyvT1bjNYl1I92A=="
+secured: "s245DxjNTuQWF0P/VVBiYfmcLeFIhP0fn7GZtwARuKNJsJDKLubVxJ3Ex++/TcwV6hgSx2IPON9fCWKcmUOeurGAHgvYlMkT15hwd83ZSPNt7auoNSMlsWM8/ftWWjJoqqBqnIwObChEYgHQa8+kJCxQXx2SPLP9xAKnaQ7r5WGmTLebIl0+N5odOgaLtQmZ8R3oqAmywHDS2Nol/anszYDKm84mySMssH8HzggtT5VZEVxCLmDQDUnk9R5Mzn9/YdFQSuG1rzIq8qlVAPzAjP+w3YrC3gZUx0Cw0EnioovF0C+7ijUSYYF8dnc9h2gjFoopRi6qKMZlkiMSagCWYXmPOQqpJWAtXWyz9nL6NUs=;IgPxjc3kZFdXyuWVNmIgDA=="
 ---
 

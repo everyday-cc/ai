@@ -5,8 +5,10 @@ excerpt: "Data is an afterthought for many artificial-intelligence developers. I
 publishedDateTime: 2023-06-15T13:15:00Z
 originalUrl: "https://www.barrons.com/articles/ai-data-regulation-bfded1d4"
 webUrl: "https://www.barrons.com/articles/ai-data-regulation-bfded1d4"
+ampWebUrl: "https://www.barrons.com/amp/articles/ai-data-regulation-bfded1d4"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-data-regulation-bfded1d4"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://images.barrons.com/im-800335/social"
+    width: 1279
+    height: 640
+    isCached: true
 
 related:
   - title: "EU moves ahead with draft law to regulate AI"
@@ -147,6 +155,6 @@ related:
       domain: popsci.com
     quality: 17
 
-secured: "zUJTNT3VRYhRpFGFo8eGGd/sIKhE9ULjrrMQu2nSyI/pnO70aJlxrqKAjf6JunIsXJ7xq6Pq6oCkcbKO2zCNzuP/RYpifIne3l+vYsGvllEq8FALsJRKhfnv9zuSq0ZFtEVk2ZXq255EcGIRWLYbFjB5kchJ+K76SMYZXlIAz4VX3qj4i0S8nMvbqxwSt56/nScuWvY6r8BjXPw4YIEwb+iuUMRn8HZWr+Lo7Eg8ggdZczMBwC3B82jkd59d8MV9pAbFWPvqHWsjOfTwm7SkB4dGIyZL4pdfWEC9c2cU/V+Hfg7+nrpavYlJR081RJYdojkWY6VWd0bdKdzS4p2wJRYhIZ6HGs+UXSCjDQDJOwo=;oQiFzgbNwB5xIS9nLy49hw=="
+secured: "wWajUlukYBfghVlNenDuKaRbNDIxTT8zU5rOHhrXs9s+3vNGdGraElvnjwCQrkhaqFblQnCzeoU/LNzJN6UEHJQgO3pHcPCe+Zj2Kp29Uc5u2OSznnXsxIZq8Piza1vKN9Rx2ax+bQiG5ttGSIFfBHddyv+EuuK3fIB2NktD9mmbwk2povRnYa2MrjSS9fQaRUyBurcZyg8t3fwnDlWNgyMVk7fSK5Q4+dYG42gsHbmuHzWCpXEOXXl6r4yjYI6A1CFh+OHB6r0oV0Kqq5+b00GMA04Yjdw6fF5bF5Vc20c6CtYldovD2mKLJGrPLIpq/8pbP/zTyOKwbU7DMMk/btGeGu+gX/6Nf4+HvvJA6G8=;eDow0qKFisZ8Z+IST17/4Q=="
 ---
 

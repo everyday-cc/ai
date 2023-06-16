@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-16-how-two-founders-approach-building-ethical-ai-startups-in-health-care.md",
+      "title": "How two founders approach building ethical AI startups in health care",
+      "excerpt": "The hype around AI will produce a lot of startups built on shaky ethics. But founders already building in the space can offer some advice.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/",
+      "originalUrl": "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1474076387.jpg?resize=1200,768",
+          "width": 1200,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-the-vector-ai-research-institute-releases-six-ai-ethical-principles.md",
       "title": "The Vector AI Research Institute Releases Six AI Ethical Principles",
       "excerpt": "This article provides a list of the Vector Institute's updated Ethical AI Principles & a helpful list of other leading institutions researching and advancing Ethical AI.",
@@ -913,6 +965,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-15-ai-will-stir-the-pot-but-wont-change-the-game-for-decades-mark-zandi.md",
+      "title": "AI will ‘stir the pot,’ but won’t change the game for decades: Mark Zandi",
+      "excerpt": "The biggest factor contributing to companies' bottom lines right now is artificial intelligence, says Mark Zandi, chief economist at Moody's Analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107235733-1683218950741-gettyimages-1252638648-SENATE_GOP_DEBT_LIMIT.jpeg?v=1686828721",
+          "width": 5182,
+          "height": 3455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
+      "publishedDateTime": "2023-06-15T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law.md",
       "title": "Can Generative AI Be Saved From AI Hallucinations By Using Chain-Of-Thought Step-By-Step Techniques, Asks AI Ethics And AI Law",
       "excerpt": "Generative AI is prone to AI hallucinations, but maybe the use of chain-of-thought step-by-step techniques can overcome or at least reduce such maladies. Here's the deal.",
@@ -1064,6 +1167,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-15-bbfc-aws-collaborate-on-ai-project.md",
+      "title": "BBFC, AWS collaborate on AI project",
+      "excerpt": "The formation of the BBFC’s AI Ethics Committee is a clear step in the BBFC’s ongoing commitment to establish policies and procedures concerning AI ethics, and we are pleased to contribute to those activities. We look forward to continuing to share our ...",
+      "sourceUrl": null,
+      "webUrl": "https://advanced-television.com/2023/06/15/bbfc-aws-collaborate-on-ai-project/",
+      "originalUrl": "https://advanced-television.com/2023/06/15/bbfc-aws-collaborate-on-ai-project/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://advanced-television.com/wp-content/uploads/2019/03/BBFCNetflix-e1686820237688.png",
+          "width": 666,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Advanced Television",
+        "domain": "advanced-television.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-tesla-rival-xpeng-rolls-out-self-driving-tech-in-beijing-the-stock-is-rising.md",
       "title": "Tesla Rival XPeng Rolls Out Self-Driving Tech in Beijing. The Stock Is Rising.",
       "excerpt": "It’s the first company to roll out an advanced driver-assistance system (ADAS) in Beijing, after it was approved for use on major ring roads and expressways in the capital city.",
@@ -1104,153 +1251,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-draft-ai-act-passes-banning-police-facial-recognition.md",
-      "title": "Draft AI Act Passes, Banning Police Facial Recognition",
-      "excerpt": "The European Parliament has passed the first draft of the AI Act, paving the way for a ban on police use of live facial recognition technology in public places.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/",
-      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648ad1e37f2b8f29459b8891/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/",
-      "publishedDateTime": "2023-06-15T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-cambodian-facial-recognition-effort-raises-fears-of-misuse.md",
-      "title": "Cambodian Facial Recognition Effort Raises Fears of Misuse",
-      "excerpt": "The order, signed by Prime Minister Hun Sen and released in March in a recent tranche of government documents, would award the funds to HSC Co. Ltd., a Cambodian company led by tycoon Sok Hong that has previously printed Cambodian passports and installed CCTV cameras in Phnom Penh, Cambodia’s capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
-      "originalUrl": "https://www.voanews.com/a/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gdb.voanews.com/C19AFD84-F6C5-43D8-A79C-876DC943775B_w1080_h608_s.png",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
-      "publishedDateTime": "2023-06-15T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-mailchimp-leverages-ai-to-transform-into-an-omnichannel-marketing-powerhouse.md",
-      "title": "Mailchimp leverages AI to transform into an omnichannel marketing powerhouse",
-      "excerpt": "Mailchimp has announced plans to harness the power of artificial intelligence (AI) to expand its offerings of marketing automation solution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/mailchimp-leverages-ai-to-transform-into-an-omnichannel-marketing-powerhouse/",
-      "originalUrl": "https://venturebeat.com/ai/mailchimp-leverages-ai-to-transform-into-an-omnichannel-marketing-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Mailchimp-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

@@ -68,7 +68,7 @@ related:
   - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
     excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
     publishedDateTime: 2023-06-14T14:38:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
     ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
     type: article

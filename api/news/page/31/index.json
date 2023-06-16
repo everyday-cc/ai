@@ -2,6 +2,220 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-05-24-opera-takes-on-edge-by-adding-its-own-browser-ai.md",
+      "title": "Opera takes on Edge by adding its own browser AI",
+      "excerpt": "Opera’s browser AI is currently available for both desktop and mobile. However, if you want to try it out, you’ll need to download the developer version of Opera One for deskt",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/opera-browser-ai-aria-3328726/",
+      "originalUrl": "https://www.androidauthority.com/opera-browser-ai-aria-3328726/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/05/Aria-Cover-Image.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-the-right-to-react-to-harmful-speech.md",
+      "title": "The right to react to harmful speech",
+      "excerpt": "SCC dismisses a defamation action using anti-SLAPP law, and highlighting the public interest in protecting counter-speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalmagazine.ca/en-ca/articles/law/in-depth/2023/the-right-to-react-to-harmful-speech",
+      "originalUrl": "https://www.nationalmagazine.ca/en-ca/articles/law/in-depth/2023/the-right-to-react-to-harmful-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalmagazine.ca/MediaGallery/NM/NationalMagazine/Articles/Law/Judiciary/SCC1-ARTICLE768.jpg?ext=.jpg\r\n",
+          "width": 769,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nationalmagazine",
+        "domain": "nationalmagazine.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-deep-robotics-launches-lite3-quadruped-robot-with-advanced-front-flipping-mobility.md",
+      "title": "DEEP Robotics launches Lite3 quadruped robot with advanced front flipping mobility",
+      "excerpt": "DEEP Robotics Co. has announced the launch in Europe of the newest version of its dexterous intelligent robot dog, Lite3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/deep-robotics-launches-lite3-quadruped-robot-with-advanced-front-flipping-mobility/",
+      "originalUrl": "https://www.therobotreport.com/deep-robotics-launches-lite3-quadruped-robot-with-advanced-front-flipping-mobility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/deep-robotics-sponsored-featured-image-may2023.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-automated-machine-learning-automl-market-worth-64-billion-by-2028-growing-at-a-cagr-of-446-report-by-marketsandmarkets.md",
+      "title": "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028, growing at a CAGR of 44.6%: Report by MarketsandMarkets™",
+      "excerpt": "By deployment it is further bifurcated into cloud and on-premises. AutoML solutions are designed to automate many of the tasks involved in developing and deploying machine learning models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32552421/automated-machine-learning-automl-market-worth-6-4-billion-by-2028-growing-at-a-cagr-of-44-6-repor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32552421/automated-machine-learning-automl-market-worth-6-4-billion-by-2028-growing-at-a-cagr-of-44-6-repor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32552421",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32552421",
+      "publishedDateTime": "2023-05-24T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-tech-giants-trigger-generative-ai-investment-boom.md",
+      "title": "Tech Giants Trigger Generative AI Investment Boom",
+      "excerpt": "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit.",
+      "sourceUrl": null,
+      "webUrl": "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=",
+      "originalUrl": "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-israels-sapiens-microsoft-partner-to-use-ai-to-revolutionize-insurance.md",
       "title": "Israel's Sapiens, Microsoft partner to use AI to revolutionize insurance",
       "excerpt": "The alliance between Microsoft's AI technology and Sapiens' AI, cognitive services, and process automation is set to empower insurers at every stage of the insurance value chain. By combining forces, the partnership aims to enable instant responses across ...",
@@ -945,201 +1159,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-microsoft-launches-azure-ai-studio-for-developers-to-create-their-own-ai-copilots.md",
-      "title": "Microsoft Launches Azure AI Studio For Developers To Create Their Own AI 'Copilots'",
-      "excerpt": "(MENAFN- IANS) San Francisco, May 24 (IANS) Microsoft has launched Azure AI Studio, a new capability within the Azure OpenAI Service that allows customers to combine OpenAI chatbots with their own ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106303655/Microsoft-Launches-Azure-AI-Studio-For-Developers-To-Create-Their-Own-AI-Copilots",
-      "originalUrl": "https://menafn.com/1106303655/Microsoft-Launches-Azure-AI-Studio-For-Developers-To-Create-Their-Own-AI-Copilots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-understanding-the-deployment-of-deep-learning-algorithms-on-embedded-platforms.md",
-      "title": "Understanding the Deployment of Deep Learning algorithms on Embedded Platforms",
-      "excerpt": "These platforms, equipped with deep learning algorithms, have opened a world of possibilities, enabling smart devices, autonomous systems, and intelligent applications. The deployment of deep learning algorithms on embedded platforms is crucial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/54089/understanding-the-deployment-of-deep-learning-algorithms-on-embedded-platforms.html",
-      "originalUrl": "https://www.design-reuse.com/articles/54089/understanding-the-deployment-of-deep-learning-algorithms-on-embedded-platforms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-it-services-firms-leverage-generative-ai-capabilities-for-clients.md",
-      "title": "IT services firms leverage generative AI capabilities for clients",
-      "excerpt": "Infosys Topaz leverages Infosys applied AI framework to build an AI-first core that empowers people to deliver cognitive solutions that accelerate value-creation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html",
-      "originalUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/5/15/w600X390/Artificial_Intelligence.png",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp",
-      "publishedDateTime": "2023-05-23T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-i-would-never-use-ai-americans-detail-how-much-they-use-artificial-intelligence-in-their-daily-lives.md",
-      "title": "'I would never use AI': Americans detail how much they use artificial intelligence in their daily lives",
-      "excerpt": "Texas residents share how familiar they are with artificial intelligence on a scale from one to 10 and detailed how much they use it each day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives",
-      "originalUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1233101-dd3e-4fa5-b48e-450d89af5c6d/fa4dd4b4-d455-47e2-8a43-a3f5c7da6add/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp",
-      "publishedDateTime": "2023-05-23T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-startup-anthropic-raises-450m-for-safety-focused-chatbot.md",
-      "title": "AI startup Anthropic raises $450M for safety-focused chatbot",
-      "excerpt": "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
-      "originalUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
-      "publishedDateTime": "2023-05-23T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -54,6 +54,22 @@ related:
         width: 740
         height: 493
         isCached: true
+  - title: "Generative AI startup Mistral AI raises 105 million euros in seed-stage funding"
+    excerpt: "The company is founded by ex-Meta and Google AI researchers, Guillaume Lample, Arthur Mensch and Timothee Lacriox."
+    publishedDateTime: 2023-06-14T07:13:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 53
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Generative AI start-up Mistral AI raises €105 million in seed stage funding"
     excerpt: "AI is the future, and is totally off to races. It can be estimated by the fact that a four week old starter has picked up €105 million just in the seed funding round and is already a rival to Open AI in the building,"
     publishedDateTime: 2023-06-14T11:53:00Z

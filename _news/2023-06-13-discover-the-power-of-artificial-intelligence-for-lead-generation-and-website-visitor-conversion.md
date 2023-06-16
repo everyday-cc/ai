@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32828527"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32828527"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,52 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "When AI Overrules the Nurses Caring for You"
+    excerpt: "Artificial intelligence raises difficult questions about who makes the call in a health crisis: the human or the machine?"
+    publishedDateTime: 2023-06-15T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-799675/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Miyares leads coalition on recommendations for artificial intelligence governance"
+    excerpt: "() - A bipartisan coalition of 23 attorneys general, co-led by Virginia Attorney General Jason Miyares, submitted a letter advising the National Telecommunications and Information Administration on go"
+    publishedDateTime: 2023-06-15T20:52:00Z
+    webUrl: "https://www.thecentersquare.com/issues/healthcare/article_8670e74e-0bbe-11ee-afe5-5fe03db4ca35.html"
+    ampWebUrl: "https://www.thecentersquare.com/issues/healthcare/article_8670e74e-0bbe-11ee-afe5-5fe03db4ca35.amp.html"
+    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/issues/healthcare/article_8670e74e-0bbe-11ee-afe5-5fe03db4ca35.amp.html"
+    type: article
+    provider:
+      name: The Center Square
+      domain: thecentersquare.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/2/7e/27e5ba8c-0b79-11ee-99a4-8720452f4ce8/648b05d01c113.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Artificial intelligence: Getting regulation right"
+    excerpt: "EDITORIAL. Setting up an international body to oversee the non-proliferation of the most dangerous AI systems must not serve as a distraction from the more immediate task of regulating AI as it exists today."
+    publishedDateTime: 2023-06-11T14:05:00Z
+    webUrl: "https://www.lemonde.fr/en/opinion/article/2023/06/11/artificial-intelligence-getting-regulation-right_6030878_23.html"
+    type: article
+    provider:
+      name: Le Monde.fr
+      domain: lemonde.fr
+    quality: 39
+    images:
+      - url: "https://img.lemde.fr/2023/06/10/54/0/7256/4837/1440/960/60/0/e269e61_1686380078037-244000.jpg"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "ZvC3ExyIs+6rgPgOsFOErSev3ytPT5fU1Bv8t/GHHYz+/UaC1HR+p+ciTQ9eC2kipcKCtRa8bHdcoWeijFAGgSoUJ3o4K+AUsprKENnvH0NGVV44UqcSxYGYeRQ9uqWpEaCiL2PDZNbs0Ya6zwgzSD8DM6Lc3of27uD43dvJSIryyRAWlfNCSbRvU79uWm7QaSIxWdFLDX8nmsFpHCJZ2m/zhx6NKyIXLpsVHs0H7nW5z3o4U2J62ALYM2B1ubMLC4tw126JdVND72wp/Evmk3+Daa/Je4Imf606wGrswNgVJ6sCf+d5Q0K2W3IZx1ioh95mQH8JmODew76440NRW3dtKMinZgSLMIIymXDpXpE=;dMXRZxgA4nDrGAlR9FguyQ=="
 ---

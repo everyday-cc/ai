@@ -50,6 +50,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-15-microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027.md",
+      "title": "Microsoft –AI Will Help Drive $100 Billion In Revenue By 2027",
+      "excerpt": "The latest of these tools, generative AI capabilities through Microsoft Azure OpenAI Service, can help government agencies improve efficiency, enhance productivity, and unlock new insights from their data. Many agencies require a higher level of security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648bd2abff1c29c9aeb1e996/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/",
+      "publishedDateTime": "2023-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-amds-take-on-ai-instinct-mi300x-combines-gpu-cores-with-192-gb-of-hbm3-memory.md",
       "title": "AMD's take on AI: Instinct MI300X combines GPU cores with 192 GB of HBM3 memory",
       "excerpt": "Up until now, the big winner in the generative AI GPU game has been Nvidia, thanks to a combination of strong hardware and a large installed",
@@ -209,21 +261,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-13-microsofts-satya-nadella-is-betting-everything-on-ai.md",
-      "title": "Microsoft’s Satya Nadella Is Betting Everything on AI",
-      "excerpt": "Satya Nadella—and Microsoft, the company he runs—are riding high on the buzz from its search engine. That's quite a contrast from the first time I spoke with Nadella, in 2009. Back then, he was not so well known,",
+      "path": "_news/2023-06-12-microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud.md",
+      "title": "Microsoft has added ChatGPT into the secure US government Azure cloud",
+      "excerpt": "Microsoft has announced its Azure OpenAI Service is now available to the US government in an even more secure format, with specific compliance promised for regulatory standards for classification and security.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/microsofts-satya-nadella-is-betting-everything-on-ai/",
-      "originalUrl": "https://www.wired.com/story/microsofts-satya-nadella-is-betting-everything-on-ai/",
+      "webUrl": "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud",
+      "originalUrl": "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/64876c09c30f50376ee874fd/191:100/w_1280,c_limit/Satya-Nadella-Big-Interview-0096_CROP.jpg",
-          "width": 1280,
-          "height": 670,
+          "url": "https://cdn.mos.cms.futurecdn.net/E9JMqiF2RG9PQAUBVnHM6h-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -233,14 +285,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T03:00:00-07:00",
+      "publishedDateTime": "2023-06-12T08:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
+        "name": "TechRadar",
+        "domain": "techradar.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -256,9 +308,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -370,8 +421,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?501894",
-          "width": 375,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?39110",
+          "width": 467,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1426,59 +1477,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn.md",
-      "title": "Microsoft vets lead secretive education startup using generative AI to help students learn",
-      "excerpt": "Two decades after selling their startup to Microsoft, Eran Megiddo and Liviu Asnash are going back to their entrepreneurial roots. The longtime Microsoft leaders are the co-founders of Maximal Learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn/",
-      "originalUrl": "https://www.geekwire.com/2023/microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-31-at-7.07.16-AM.png",
-          "width": 1088,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "Microsoft AI"
       ]
     }
   ],

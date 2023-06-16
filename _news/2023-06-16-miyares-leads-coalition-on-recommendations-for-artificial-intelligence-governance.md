@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thecentersquare.com/issues/healthcare/article_8670e74e-0
 cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/issues/healthcare/article_8670e74e-0bbe-11ee-afe5-5fe03db4ca35.amp.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,50 @@ images:
     isCached: true
 
 related:
-  - title: "Germany’s BDÜ Issues Position Paper on AI’s Impact on the Translation Profession"
-    excerpt: "Germany’s BDÜ highlights unavoidable need for AI and MT for translators; calls for fairer working conditions and remuneration."
-    publishedDateTime: 2023-06-14T08:35:00Z
-    webUrl: "https://slator.com/germany-bdu-issues-position-paper-ai-impact-on-translation-profession/"
+  - title: "When AI Overrules the Nurses Caring for You"
+    excerpt: "Artificial intelligence raises difficult questions about who makes the call in a health crisis: the human or the machine?"
+    publishedDateTime: 2023-06-15T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 14
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-799675/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Discover the Power of Artificial Intelligence for Lead Generation and Website Visitor Conversion"
+    excerpt: "SmartFinds Marketing and Boom! Enterprises Present a Virtual Event on Leveraging AI to Maximize Business Growth.SmartFinds Marketing, a leading digital marketing agency, is pleased to announce an upco"
+    publishedDateTime: 2023-06-13T00:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32828527/discover-the-power-of-artificial-intelligence-for-lead-generation-and-website-visitor-conversion"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32828527"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32828527"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Artificial intelligence: Getting regulation right"
+    excerpt: "EDITORIAL. Setting up an international body to oversee the non-proliferation of the most dangerous AI systems must not serve as a distraction from the more immediate task of regulating AI as it exists today."
+    publishedDateTime: 2023-06-11T14:05:00Z
+    webUrl: "https://www.lemonde.fr/en/opinion/article/2023/06/11/artificial-intelligence-getting-regulation-right_6030878_23.html"
+    type: article
+    provider:
+      name: Le Monde.fr
+      domain: lemonde.fr
+    quality: 39
+    images:
+      - url: "https://img.lemde.fr/2023/06/10/54/0/7256/4837/1440/960/60/0/e269e61_1686380078037-244000.jpg"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "0gozRWoDYv2RMrW2Hmw52pvp2bwOfZJnRGhoK3p3xPT3bv93Qtt6GSCduewnyZocnA1ve1o4XICk5tVOxHrBMY0e6CFGnP8HWQcH1K1dco+muS04Ux+w9RgXbnCBr46H3A/1FxvVpaZ1eTfIam3vQ2SjIYpf6rQ0thwL9FEKyKP7uoXydQe9nSwJa3Mm2n01UD6H/UGRcXQ89/2liixhYxdbp2+y31GF7NeoXTJeVOoRq7sdNjehEShrez9tBXyCcQxrXyHd4cBS80/eXP1YAud/INmGciJnFybokOvkdHBarJr3+YMq6BKkHPMlrYuGnxxC0fVZZXOF9BobFPACewOxDJq1AdgPPdRQXTiFCLI=;ZZtV5ZO2SId6Wz1nIecDQw=="
 ---

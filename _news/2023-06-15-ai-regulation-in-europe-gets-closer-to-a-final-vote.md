@@ -111,6 +111,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "How to Regulate AI? Start With the Data."
+    excerpt: "Data is an afterthought for many artificial-intelligence developers. It should be the first thought for policy makers, writes Susan Aaronson."
+    publishedDateTime: 2023-06-15T13:15:00Z
+    webUrl: "https://www.barrons.com/articles/ai-data-regulation-bfded1d4"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ai-data-regulation-bfded1d4"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-data-regulation-bfded1d4"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-800335/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "EU lawmakers pass landmark artificial intelligence regulation"
     excerpt: "The European Union's AI Act is the first comprehensive set of regulations for the artificial intelligence industry."
     publishedDateTime: 2023-06-14T11:44:00Z
@@ -129,15 +145,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
-  - title: "How to Regulate AI? Start With the Data."
-    excerpt: "Data is an afterthought for many artificial-intelligence developers. It should be the first thought for policy makers, writes Susan Aaronson."
-    publishedDateTime: 2023-06-15T13:15:00Z
-    webUrl: "https://www.barrons.com/articles/ai-data-regulation-bfded1d4"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 17
   - title: "The EU just took a huge step towards regulating AI"
     excerpt: "The European Parliament just cleared a major hurdle for its AI Act, which would significantly expand citizens' data privacy rights."
     publishedDateTime: 2023-06-14T18:00:00Z
