@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-bill
 webUrl: "https://venturebeat.com/ai/accenture-announces-jaw-dropping-3-billion-investment-in-ai/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "WAVs AI Secures $20 Million Investment From Regal Investments"
+    excerpt: "Regal Investments' $20 Million Investment in WAVs AI Signals a Bold Move to Lead the AI Music Streaming RevolutionNEW YORK, NY / ACCESSWIRE /"
+    publishedDateTime: 2023-06-16T13:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wavs-ai-secures-20-million-investment-from-regal-investments-1032394522"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Accenture pouring $3 billion into AI, joining long list of tech companies prepping to meet demand"
     excerpt: "Technology services provider Accenture is the latest company to ramp up its artificial intelligence business, announcing Tuesday that it will invest $3 billion over the next three years and double its"
     publishedDateTime: 2023-06-13T18:22:00Z

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-11-a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory.md",
+      "title": "A Season Of Recognition: The Oklahoma City Thunder’s Individual Honors And A Promising Trajectory",
+      "excerpt": "Following an extremely successful 40-win season for the Oklahoma City Thunder, several individuals earned praise with the various awards and teams that are voted upon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/",
+      "originalUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645c6fe7bc41d9b5e65a4511/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholascrain/2023/05/11/a-season-of-recognition-the-oklahoma-city-thunders-individual-honors-and-a-promising-trajectory/amp/",
+      "publishedDateTime": "2023-05-11T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-face-recognition-systems-market-worldwide-industry-trends-2023-2030.md",
       "title": "Face Recognition Systems Market | Worldwide Industry Trends 2023-2030",
       "excerpt": "The report offers essential statistical information on the market status of Face Recognition Systems players, making it",
@@ -1313,58 +1365,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-facial-recognition-powers-automated-apartheid-in-israel-report-says.md",
-      "title": "Facial Recognition Powers ‘Automated Apartheid’ in Israel, Report Says",
-      "excerpt": "The Israeli government is using computer vision to monitor Palestinian travel across checkpoints, according to the report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2023/05/01/technology/israel-palestine-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/05/02/multimedia/01JPisrael-surveil-1-print-wkzg/01israel-surveil-01-wkzg-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

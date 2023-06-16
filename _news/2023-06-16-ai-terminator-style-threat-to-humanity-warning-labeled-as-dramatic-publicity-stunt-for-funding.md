@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/news/23/06/32890037/ai-terminator-style-threat
 ampWebUrl: "https://www.benzinga.com/amp/content/32890037"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32890037"
 type: article
-quality: 47
-heat: 47
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://cdn.benzinga.com/files/images/story/2023/London,,Uk,-,October,2018:,Madame,Tussauds,Waxwork,Museum,,Arnold.jpeg?width=1200&height=800&fit=crop"

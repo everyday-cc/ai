@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/06/12/1074449/real-ai-risks/am
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/12/1074449/real-ai-risks/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MIT Technology Review
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Forget about the AI apocalypse. The real dangers are already here"
+    excerpt: "Two weeks after members of Congress questioned OpenAI CEO Sam Altman about the potential for artificial intelligence tools to spread misinformation, disrupt elections and displace jobs, he and others in the industry went public with a much more frightening possibility: an AI apocalypse."
+    publishedDateTime: 2023-06-16T12:16:00Z
+    webUrl: "https://www.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 49
   - title: "Hospitals are testing AI to communicate with patients. They still don’t know how to talk to them about it"
     excerpt: "Hospitals are testing AI to communicate with patients. But they still don't know how to talk to them about the technology or its risks."
     publishedDateTime: 2023-06-13T08:30:00Z

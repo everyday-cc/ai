@@ -7,7 +7,7 @@ originalUrl: "https://www.economist.com/finance-and-economics/2023/06/15/ai-is-n
 webUrl: "https://www.economist.com/finance-and-economics/2023/06/15/ai-is-not-yet-killing-jobs"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Jeep says Artificial Intelligence is heading off-road"
-    excerpt: "The AI and autonomous off-road driving technology developed by Jeep has been installed in two hybrid Jeep Grand Cherokee 4xe test vehicles. According to Jeep, the purpose of this"
-    publishedDateTime: 2023-06-11T20:00:00Z
-    webUrl: "https://www.drive.com.au/news/jeep-says-artificial-intelligence-is-heading-off-road/"
+  - title: "Military AI is more than killer robots"
+    excerpt: "While the Hollywood cliché of killer robots or computers often springs to mind when thinking about military applications of AI, western militaries are engaged in intense debate around how to use the technology."
+    publishedDateTime: 2023-06-16T05:26:00Z
+    webUrl: "https://www.afr.com/politics/federal/military-ai-is-more-than-killer-robots-20230612-p5dfy4"
     type: article
     provider:
-      name: Drive.com.au
-      domain: drive.com.au
+      name: The Australian Financial Review
+      domain: afr.com
     quality: 39
     images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:good,w_1200/cms/uploads/mm6gqcquwz10snybg79k"
+      - url: "https://static.ffx.io/images/$zoom_0.187%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/2d9f6b4c7a1115bdfa95b2ede6e14fd75b9fbc8d"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
 
 secured: "MECchWZPmt0hAGO17ShTOgtBIO8vYfESBTAf18wbwziXVxMRbP1Nlgy73nryYBxl5siTh5IHYtUjge4FfwCxrdwWp4j6hMHSVwhbFCreb/9Td9/suCkH/UaLeBcbfZaN+7e/NWHOh8Mb/INEi3uZBsLBzhz3q6KQE27UXwFwxiC4hviXsLfrgMIUjHmOAnGHrhnPT77sIvC5pUBroazM9HHdB/dcfN2wZxprcWWAhbH/WtZ4KHpZf/nGluKgAaulKMlfvDeU+hhEDYWYqToeXpo5N/9WQX/tWDpVVCSsUaXVP+5/iOyysB/fB+X0gIWJrn02P8mMe3pycE/AeDFqzExxodRkEDEzjIbPwgRuI3U=;tTajcrpl/gaNV6Bzz9nwgw=="

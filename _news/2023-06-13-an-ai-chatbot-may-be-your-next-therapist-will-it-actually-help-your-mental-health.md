@@ -102,6 +102,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 19
+  - title: "Google Warns Its Own Workers to Avoid Using AI Chatbots"
+    excerpt: "Alphabet, Google's parent company, is reportedly cautioning employees about how they use chatbots, including its own Bard."
+    publishedDateTime: 2023-06-16T14:50:00Z
+    webUrl: "https://www.thestreet.com/technology/google-warns-its-own-workers-to-avoid-using-ai-chatbots"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
 
 secured: "HEYXuxo0JrBisEXWiUweK8uvfPQJWw4izcAaEBn/xzCdhUDvddePnfoI3FmAm40eDI20Wkgc28yd6RppCB92jEp7hVXhB0n0+EUextdGRSjCiECbZ1WXywjOtwxmp8cpONW4rtw0B9Bie/bW4tTnd6TgkbTUJW8M3rejGPr7dTxxKM/CK+bNYgsmuvhXOA2VV2KZ6JQNP1SuuvwCLoRJi0Ov22HfbHmCcVUTS2nHWJ8Swxo5v7EKdqjc7xpHGsxdiLoCcTQcQqcdQJ+2hTNjuFe5otx0k6n94sJDcC1xzBO28ywc9y4/WqS3CQrfV3qB59bdBkqTJgf8T3UvNuhf9oU+HMMF61ncIX3AFecQp1k=;cB6lqJc6Z1jgdl+2GkQzGw=="
 ---

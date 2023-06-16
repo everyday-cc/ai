@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/06/15/chinese-ai-firm-sensetime-la
 webUrl: "https://www.gizmochina.com/2023/06/15/chinese-ai-firm-sensetime-launches-consumer-robot-capable-of-playing-the-ancient-strategy-game-go/"
 type: article
 quality: 71
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 770
         height: 510
         isCached: true
+  - title: "U.S. Grapples With Potential Threats From Chinese AI"
+    excerpt: "Defining risky artificial intelligence poses a challenge as Washington moves to curb investment in Chinese tech and Secretary of State Antony Blinken visits Beijing this weekend."
+    publishedDateTime: 2023-06-16T12:45:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-grapples-with-potential-threats-from-chinese-ai-7d1f2e70"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "Chinese companies at cutting-edge of artificial intelligence, says report"
     excerpt: "Chinese enterprises are at a crucial juncture of breakthroughs in artificial intelligence, as generative AI and other rapidly evolving technologies usher in a future for business where the physical and digital worlds are inextricably linked,"
     publishedDateTime: 2023-06-12T23:47:00Z

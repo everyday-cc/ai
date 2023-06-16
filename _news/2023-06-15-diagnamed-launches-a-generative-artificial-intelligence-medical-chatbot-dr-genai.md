@@ -33,6 +33,15 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "Why Ogilvy is leading a crackdown on AI-generated social media ads"
+    excerpt: "The agency will label influencer content on social media with the hashtag #PoweredbyAI or by using a dedicated watermark."
+    publishedDateTime: 2023-06-16T12:48:00Z
+    webUrl: "https://www.thedrum.com/news/2023/06/16/why-ogilvy-leading-crackdown-ai-generated-social-media-ads"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 19
 
 secured: "NzMYmkcGeOOl7gM/ptiycKTKjUSadm4Ivdq63L+QG0TogsJGlLDOOrIIPBz/eE5bbkPuaHwXAL1EoAZ8bczRWKtG9ARdqeB5GLb7FIc8oC49nz/5NNNS+Pvl+vKVtpgpOSTZMofs46YQrrUumGLL2sPz3IkFK62lBfW9NzvvMRhd+eHZrgjeh97DtD/CUGl7sWJWs6iTCISlc42atWxJfB58HbWZoIMwso4ZdDnQbXlPKRZuvKXXYWO/TnFPnLtL456a7scma3DtcYqoGPAVa2N+idvVIDPZA4D/AHCbGEtQDRnyw7rSIIzwYzdu5f/BR7wmOGbS0uNuR4JfeWWdc49ejHE28gDxBJEJUo230YM=;+S59Bwg6G1RMzm7YgnxfwQ=="
 ---

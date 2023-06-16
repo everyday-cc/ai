@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "WAVs AI Secures $20 Million Investment From Regal Investments"
+    excerpt: "Regal Investments' $20 Million Investment in WAVs AI Signals a Bold Move to Lead the AI Music Streaming RevolutionNEW YORK, NY / ACCESSWIRE /"
+    publishedDateTime: 2023-06-16T13:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wavs-ai-secures-20-million-investment-from-regal-investments-1032394522"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "Nhz7j/uYQjXnTEZRiiccxWFc3NYl5xMYQVP3dB1sHrJ1zUFyLVGeCheP3USG73igV9DpM0o66K4qS4JGa5jxyzFSwTlvvJwhXReONvQBfSqpzWoZ7rfX6fXWE5HWag5AWG3XVVozm4ZR9O7EFj+QZ+BMmAKGVxYaDHIe7nCp0FfFWJq/rJc7KTWnGQPoABQ8U9rHX6xtMTX+Nrawcoj0jkfPlEL6+Nmy1VYKTN5U3G02W/QFIzBPlmhs12IOXJcY0+94uy3v6STbJniNfdjjuoJNDqabfSHRa/R1W8hCZZRf3746VV7bTeiMNeai/naEhuU1d4TsYDsTtTZMrLsUeG5v82B7UxOXEqpFnUJWalA5u9DAWWCC6NkYb4FU//76Lb9CucxKVFZ6KY1fsi/a8SzY2yYHd014MyX/1E00pCZ4dN8FkD4ggYxSaNuKoDWZFSj13Mgw0JZu8wmAtaAvwj5PYQEvttCJvvJWO3qGIRHEqsDISO4U8PHQU5YVdQmRAWy2frMMkIxK4ZrmWJQVIA==;vnEMPqKE/L3HC4FLVM5Yww=="
 ---

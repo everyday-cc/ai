@@ -2,6 +2,477 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-12-ai-deepfakes-of-innocent-images-fuel-spike-in-sextortion-scams-fbi-warns.md",
+      "title": "AI ‘deepfakes’ of innocent images fuel spike in sextortion scams, FBI warns",
+      "excerpt": "There has been an uptick in sextortion victims reporting the use of artificial intelligence-generated deepfakes since April, according to the FBI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns",
+      "originalUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dc9be95-a9de-408f-b909-3dcba83a1c8e/5656c770-0cfc-4904-8e70-c5c993136502/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns.amp",
+      "publishedDateTime": "2023-06-11T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
+      "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
+      "excerpt": "Competitive pressure among tech giants is propelling society into the future of artificial intelligence, ready or not. Scott Pelley dives into the world of AI with Google CEO Sundar Pichai",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
+      "publishedDateTime": "2023-06-11T16:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features.md",
+      "title": "Scality ARTESCA 2.0 Object Storage Focuses On CyberSecurity And Enterprise Features",
+      "excerpt": "Scality ARTESCA 2.0 S3 software-defined object storage enables new cybersecurity and cyber-resilience capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648642d4a607fe1d81f4b945/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/",
+      "publishedDateTime": "2023-06-11T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation.md",
+      "title": "Sunak Keeps Up Push To Make UK a Leader in AI Regulation",
+      "excerpt": "UK Prime Minister Rishi Sunak will on Monday keep up his push to give Britain a leading role in global regulation of artificial intelligence, while warning industry leaders the nation must act quickly to retain its position as one of the world’s tech capitals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isMt.CfJNIqk/v1/1200x802.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-11T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-ai-jobs-with-mind-blowing-paychecks-of-375k-a-year.md",
+      "title": "AI jobs with mind-blowing paychecks of $375K a year",
+      "excerpt": "When we’re talking AI and jobs, it’s easy to be nervous that the tech will make yours obsolete. Scan this list to see if AI might change the way you work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year",
+      "originalUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01b2467c-e906-47f1-b89c-f0941fbfe408/af430678-3518-4af0-b4c1-30530089dd9b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year.amp",
+      "publishedDateTime": "2023-06-11T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-11-amazon-bets-big-on-ai-how-the-company-is-investing-in-the-future-of-technology.md",
+      "title": "Amazon Bets Big on AI: How the Company Is Investing in the Future of Technology",
+      "excerpt": "and Amazon Rekognition. Finally, Amazon is more than just another e-commerce platform. It also operates a logistics network that is on par with United Parcel Service in delivering a package from a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/17621315/amazon-bets-big-on-ai-how-the-company-is-investing-in-the-future-of-technology/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/17621315/amazon-bets-big-on-ai-how-the-company-is-investing-in-the-future-of-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-11T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-11-creating-a-strong-foundation-for-your-startup-with-ai.md",
+      "title": "Creating A Strong Foundation For Your Startup With AI",
+      "excerpt": "Startups must take proactive steps to overcome business challenges and get ahead. One of those steps should be implementing AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64824c948f1cd79e3030c0ae/0x0.jpg?format=jpg&crop=2988,1679,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/",
+      "publishedDateTime": "2023-06-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-11-recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools.md",
+      "title": "Recruit teachers, upgrade labs to start AI, robotics classes: CISCE to schools",
+      "excerpt": "Syllabus prepared for subjects, uploaded on Council website The CISCE has already prepared the syllabus for the two new subjects - artificial intelligence (AI) and robotics - that are to be introduced in class IX from this academic session and uploaded it ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/articleshow/100907491.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/articleshow/100907491.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-100907494,width-1070,height-580,imgsize-86732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/amp_articleshow/100907491.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/amp_articleshow/100907491.cms",
+      "publishedDateTime": "2023-06-11T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-11-samsungs-chip-division-to-introduce-custom-ai-services-for-employees.md",
+      "title": "Samsung's chip division to introduce custom AI Services for employees",
+      "excerpt": "Samsung Electronics reportedly plans to launch an in-house artificial intelligence-based service for internal use this year amid security concerns raised over OpenAI’s highly-advanced chatbot ChatGPT,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20230611000126",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20230611000126",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F06%2F11%2F20230611000114_0.jpg",
+          "width": 630,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20230611000126",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230611000126",
+      "publishedDateTime": "2023-06-10T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-11-new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo.md",
+      "title": "New Trump Video Uses Matt Damon Monologue From ‘Air’ And Fake AI Photo",
+      "excerpt": "Trump’s campaign released a new video late Friday—the first since the former president was indicted on charges over his alleged mishandling of classified information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64853ab153c607d02d03689b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/amp/",
+      "publishedDateTime": "2023-06-10T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-10-how-ai-is-transforming-business-outcomes-across-industries-and-sectors.md",
       "title": "How AI Is transforming business outcomes across industries and sectors",
       "excerpt": "Why companies that embrace AI will find new and productive ways to integrate it with their existing workforces, products and operations.",
@@ -725,482 +1196,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-healthcare-and-ai-paradigm-shift-stocks-in-focus-ipa-mgrx-inbs-rmed.md",
-      "title": "Healthcare and AI \"Paradigm Shift\" Stocks in Focus: IPA, MGRX, INBS, RMED",
-      "excerpt": "The healthcare sector has huge potential, offering attractive opportunities as companies meet the growing demand for Artificial Intelligence (AI) wellness solutions and recent market research is signa",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/ab32798306/healthcare-and-ai-paradigm-shift-stocks-in-focus-ipa-mgrx-inbs-rmed",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32798306/healthcare-and-ai-paradigm-shift-stocks-in-focus-ipa-mgrx-inbs-rmed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32798306",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32798306",
-      "publishedDateTime": "2023-06-09T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-artificial-intelligencefor-good-health.md",
-      "title": "Artificial Intelligence—For Good Health",
-      "excerpt": "Will they carry out the most complex procedures without human supervision? Robots that are equipped with artificial intelligence (AI) and can analyze vast amounts of data will be able to choose the best procedures—taking into account (among other things ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/artificial-intelligence-for-good-health/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/artificial-intelligence-for-good-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&crop=5600,3149,x0,y370,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/artificial-intelligence-for-good-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/09/artificial-intelligence-for-good-health/amp/",
-      "publishedDateTime": "2023-06-09T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-wimi-hologram-cloud-developed-an-efficient-cgh-technology-based-on-deep-learning-and-neural-networks.md",
-      "title": "WiMi Hologram Cloud Developed an Efficient CGH Technology Based on Deep Learning and Neural Networks",
-      "excerpt": "Deep learning can find the optimal or local optimal solution in operation, making it efficient to compute CGH. CGH has been applied to holographic light traps, 3D displays, planar concentrators, AR displays, etc. CGH technology can obtain the best wave ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-hologram-cloud-developed-an-efficient-cgh-technology-based-on-deep-learning-and-neural-networks-1032380597",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-hologram-cloud-developed-an-efficient-cgh-technology-based-on-deep-learning-and-neural-networks-1032380597",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-openai-ceo-calls-for-global-cooperation-to-regulate-ai.md",
-      "title": "OpenAI CEO calls for global cooperation to regulate AI",
-      "excerpt": "Sam Altman, the CEO of ChatGPT maker OpenAI, used a high-profile trip to South Korea on Friday to call for coordinated international regulation of generative artificial intelligence, the technology that underpins his famous chatbot.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "originalUrl": "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230609034602-01-sam-altman-chatgpt-060923-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "publishedDateTime": "2023-06-09T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-why-advanced-api-security-is-critical-to-outsmarting-new-threats.md",
-      "title": "Why advanced API security is critical to outsmarting new threats",
-      "excerpt": "Noname Advanced API Security for IBM aims to further enhance the strength of solutions for monitoring and locking down APIs from evolving threats. \nThe post Why advanced API security is critical to outsmarting new threats appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/noname-advanced-api-security-for-ibm/",
-      "originalUrl": "https://www.ibm.com/blog/noname-advanced-api-security-for-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-artificial-intelligence-challenges-and-controversies-for-us-national-security.md",
-      "title": "Artificial intelligence: challenges and controversies for US national security",
-      "excerpt": "The United States and other countries must consider the possible impact of AI on their armed forces and their preparedness for war fighting or deterrence. Military theorists, strategic planners, scientists,",
-      "sourceUrl": null,
-      "webUrl": "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/",
-      "originalUrl": "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thebulletin.org/wp-content/uploads/2018/06/Landing-Page-AI-Twitter.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/",
-      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/06/artificial-intelligence-challenges-and-controversies-for-us-national-security/amp/",
-      "publishedDateTime": "2023-06-09T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bulletin of the Atomic Scientists",
-        "domain": "thebulletin.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-the-best-movies-on-amazon-prime-video-june-2023.md",
-      "title": "The best movies on Amazon Prime Video (June 2023)",
-      "excerpt": "While the first week of June was uncharacteristically quiet for Amazon Prime Video, the streamer is coming out swinging this week with the arrival of Creed III, the latest installment in the long ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/Michael-B-Jordan-and-Jonathan-Majors-face-each-other-in-a-boxing-ring-in-Creed-31.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-06-09T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-revolutionizing-business-finance-with-ai-a-new-era-is-coming.md",
-      "title": "Revolutionizing Business Finance With AI: A New Era Is Coming",
-      "excerpt": "With AI’s help, business finance is ripe for disruption. New technologies will be able to wrap around legacy bank systems and create a new layer of data attribution, ushering in a modern era for accounting and business finance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61814ed70e1ae168d212c0bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/09/revolutionizing-business-finance-with-ai-a-new-era-is-coming/amp/",
-      "publishedDateTime": "2023-06-09T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-inside-google-deepminds-approach-to-ai-safety.md",
-      "title": "Inside Google DeepMind’s approach to AI safety",
-      "excerpt": "Lila Ibrahim, COO of Google DeepMind, will speak at TNW Conference on June 16. Ahead of the talk, she shared the lab's approach to AI safety.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/inside-google-deepmind-ai-safety-strategy-lila-ibrahim",
-      "originalUrl": "https://thenextweb.com/news/inside-google-deepmind-ai-safety-strategy-lila-ibrahim",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-4.jpg&signature=95de9df374e2fef286cd748ac5d07e5c",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-do-self-driving-cars-have-a-future.md",
-      "title": "Do self-driving cars have a future?",
-      "excerpt": "The death of self-driving vehicles has been greatly exaggerated. That was the message of two experts, on the subjects of artificial intelligence and transportation, who recently weighed in on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/transportation-self-driving-cars-future-artificial-intelligence-san-jose-california",
-      "originalUrl": "https://www.washingtonexaminer.com/news/transportation-self-driving-cars-future-artificial-intelligence-san-jose-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/e324a99/2147483647/strip/true/crop/2290x1202+0+64/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F6f%2F4c%2F68ffaf6548d1a4b90bb7a4ab031b%2Fselfdrivingcars.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T23:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

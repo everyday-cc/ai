@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/artificial-intelligenc
 webUrl: "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/03l3aZP9u14NepIlfxVCVAY/hero-image.fill.size_1200x675.v1686839866.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Dust in the wind: Forecasting storms with AI"
+    excerpt: "Dust storms are not only a nuisance for anyone trying to keep their house spick and span, they also pose a very real health hazard and are a major ecological concern. Respiratory problems caused by breathing in dust and other airborne particles are one of the main causes of death worldwide."
+    publishedDateTime: 2023-06-16T14:34:00Z
+    webUrl: "https://phys.org/news/2023-06-storms-ai.html"
+    ampWebUrl: "https://phys.org/news/2023-06-storms-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-storms-ai.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/dust-in-the-wind-forec.jpg"
+        width: 1499
+        height: 1239
         isCached: true
   - title: "Immediate Industry Impacts from Gen AI in BWX"
     excerpt: "Attend the translation and localization industry’s leading events, network with thought leaders, and grow your career and business online."

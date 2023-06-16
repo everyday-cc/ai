@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/pixar-elemental-artificial-intelligence-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/pixar-elemental-artificial-intelligence-flames/amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 720
     isCached: true
 
-secured: "WICk8/9w+QAsSbZCLtszJqOj8n0QaH07N+ufyJkfhvQhA3RS6wbFmIvbtkk8zkEtzAGYKIFEyZ6MW4PkwzKP1JiOfIO1yhChsGJ5zzCi6nS73dkuDgsoO3ASvxLjUTiOVUPmYNbddqTP0WkBttbDr0KxAyveKhSVSDcoLe6/8LZl9qViT11XHgWXkgdkzeAyZac6LZOU7VoFlVqT592zt2VuIW/8PlTd7Bh3j9eR7AoSppqtcC2Q7jjwYasXAxyZ3Vod9cgP+VzEAfkxnE7sQotNk+d5WYkWWwbz/VA3a1e6e7nT0YgacMbqofGu6RzOmk2yNtjR46o9x68df2Uld97yxu6dC/vYe4wKBPfRFSc=;mehTjZyhBrLUfQEdKO+4xg=="
+related:
+  - title: "Pixar movie Elemental uses AI in one of the smartest ways possible"
+    excerpt: "The latest family-friendly flick from Pixar, Elemental is confirmed to have used AI to help create one of its most striking visual effects, the company confirmed in an interview with Wired."
+    publishedDateTime: 2023-06-16T15:23:00Z
+    webUrl: "https://www.dexerto.com/tech/pixar-movie-elemental-uses-ai-in-one-of-the-smartest-ways-possible-2180112/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/06/05/elemental_teaser_1668760241535_1668760241718_1668760241718.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
+secured: "k42nHeEst/IZ6zTWAivbBOQs0r8Vu+7iZ7sxZ4RAK5n7B46u+FmtdAvIhGQdOtSAU74hNyxGIBSkFcUD/OhTk4oZ8IfOpOk2qATOPQrV3LM88e9W9mX7fKWePHP7X6KmbMCYu/uJw4o/DJ5px/8Tm9RZs/kO6bBCzL53JnOxVYNKjuRw1T+Gf9iHCWaGai1wcBujrIMY6ifhhZzrX/B+ni6zhEsENf5WVMpgLuIpGe8kYcT0+92eViop5e/aAoWzZ47UQI9LI92um5OYJX9MTlWIN8E1H0u2eNkGYbi8aAei/Ht0H7RMWbLWTMV93TllONc/AwVqKFivl5Fa57spZQyjowU0kLMCXgRhca7ixuHfiYXN4EhgWKiCDAYf1g+O6uAPTmkZJ+BGEAHSVpsfJT6ZNOLjPcrX85QO1e3vBAqMscQF8WmsuhaL5zujonYu7xDHnst2LKXuNyI6cmcBJHXqkKRQEZglLk6GGUC/yaAvRFDpyYKZDszUHsPf90G2nEpvxocDFaAIqvsd6gZEBA==;yI/WqSWIzWNMkIRk0o/grA=="
 ---
 

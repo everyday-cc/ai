@@ -24,17 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "AI Technology Makes Its Way To Agriculture"
-    excerpt: "When most people think about artificial intelligence (AI) technology, visions of computers and robots generally come to mind ... To stay updated with top startup news & investments, sign up for Benzinga's Startup Investing & Equity Crowdfunding Newsletter ..."
-    publishedDateTime: 2023-06-14T17:49:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32861184/ai-technology-makes-its-way-to-agriculture"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
-
 secured: "bMqAnJCQvYvTr6jB+1tN+HHm6IZ8sB0z5qrR+9KbeoYuxPEXZAYpzgHk5xPgr6Ei8KBykOjZjbD6jou3lNhMrEvv3JEVTafhf4NxYwgJmVc3Tdlti/qC1c6WpeXrFgKI81IBfFNRdXjH6CQfHee5bk1PB2iJjDUfnM/Ktihj9SzEvFv4qc4rD7g2ULkY1wrc/7Cei7IBFd6CCkUePB0Qs6XeUI7btll7C3LyStGHMXwH8zu3k3wLnXFRvGSrx5b7rxHeoagrk1YYW5QL+i8iZfePaHfNiKpx+rw7H5uHkxzCYquwHHzXsE+24ad7FJQhJh/AqEoUpQQN66YuShIFoVYPmOMaV3fjueLRd0EmfrDcUBJRRwITKSVnbB3VDCQGzLlPZPs5hBPHy0uvTA1SiOyY+j4YfXPgqEDDNzdm1Km3mULfRk+8r3LovQqn7Pl8eep8vtn9YybIA43hMiL8suDtqwhzd0z/o0ked+Vfi5zb8lL0Y+NYRXAG5ky7WbU5hYqNIb9kZ7LZ48gLT93zTA==;V8ruiJhNqJ69jLC9gl+QeA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/news/asia/southeast-asia/article/3224342/sout
 webUrl: "https://www.scmp.com/news/asia/southeast-asia/article/3224342/southeast-asia-set-guardrails-ai-new-governance-code"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ASEAN Countries Said to Set Ethics 'Guardrails' With AI Governance Codes"
+    excerpt: "The ASEAN Guide on AI Governance and Ethics was taking shape and would try to balance the economic benefits of the technology with its many risks."
+    publishedDateTime: 2023-06-16T08:48:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/ai-guidelines-southeast-asia-artificial-intelligence-asean-ethics-regulations-4126402"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 33
 
 secured: "wKPBNotXR7SM/qMM6HoTrJALxYqlixAaMdLL89cSVATT5lYTHYXCV/nJ1BCA+cOVEjiaroHIaYqePbbbXFyVs//f0r5J6xuQXqu7yHPdi+qq1Av72N609+HDzvg8z56tvjO9KOEjEZsHYqSoTCwS4CpiD8HOj90VgtqZHdt9+5BM2iIyikoT9eAjQT3WmoRZ2DfS4ntzrGbdfDsTRqs4N1EU7DGvbXhSaQPA4EIZRsMQ1DnFomNGdZic2q99jUf2nqHpYFi/lgMY6JNytVL0bq8KblhNcTCgJJIDqQbFQ7A1B8Hh9wR6aWvDDG/MIGWuDBe/dE7J6C2upBhDHOoXNRnkHc5vDuMLA+275lvRPqk=;rbVXGg2XseGNZD8zoSSbig=="
 ---

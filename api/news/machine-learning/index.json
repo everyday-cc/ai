@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-16-this-google-leader-says-ml-infrastructure-is-conduit-to-companys-ai-success.md",
+      "title": "This Google leader says ML infrastructure is ‘conduit’ to company’s AI success",
+      "excerpt": "Google VP Nadav Eiron says his Core ML infrastructure team has played a key role in the company's GenAI success.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/this-google-leader-says-ml-infrastructure-is-conduit-to-companys-ai-success/",
+      "originalUrl": "https://venturebeat.com/ai/this-google-leader-says-ml-infrastructure-is-conduit-to-companys-ai-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-97.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies.md",
+      "title": "Top10 Artificial Intelligence (AI) And Machine Learning (ML) Development Companies",
+      "excerpt": "In this article, we'll look at the key criteria for evaluating AI and ML development organizations. We will discuss the factors that must be considered, such as knowledge, experience, innovation, and others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399",
+      "originalUrl": "https://www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1686926655.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies-news-295399/amp",
+      "publishedDateTime": "2023-06-16T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-the-week-in-ai-apple-makes-machine-learning-moves.md",
       "title": "The week in AI: Apple makes machine learning moves",
       "excerpt": "So until an AI can do it for you, here’s a handy roundup of the last week’s stories in the world of machine learning, along with notable research and experiments we didn’t cover on their own. It could be said that last week,",
@@ -10,7 +107,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -310,7 +407,7 @@
       "originalUrl": "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 271,
+      "heat": 291,
       "tags": null,
       "images": [
         {
@@ -1327,111 +1424,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-ai-machine-learning-and-automation-what-agencies-need-to-know.md",
-      "title": "AI, Machine Learning And Automation: What Agencies Need To Know",
-      "excerpt": "Automation refers to the use of machines to automate routine tasks that would otherwise be executed by humans. It involves configuring a set of rules and triggers to initiate actions. While automation is often complex, it lacks AI’s ability to learn from data to optimize performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fa196489a65b17baccf944f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/",
-      "publishedDateTime": "2023-06-02T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.md",
-      "title": "Microsoft offers Azure ML data import CLI, SDK for Snowflake, other databases",
-      "excerpt": "The new integration, which is in public preview, is designed to bring data into Azure’s ML service from data repositories outside the Azure platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
-      "originalUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/08/5_microsoft-azure-100733132-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "publishedDateTime": "2023-06-01T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]

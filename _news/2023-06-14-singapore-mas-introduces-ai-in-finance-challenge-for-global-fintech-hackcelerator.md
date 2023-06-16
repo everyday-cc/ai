@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introd
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/amp/"
 type: article
 quality: 68
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -100,13 +100,13 @@ related:
         height: 567
         isCached: true
   - title: "3 Fintech Stocks With High Potential for Growth"
-    excerpt: "This article will explore three fintech stocks with exceptional growth potential that are poised to make waves in the market. These three stocks are breeding growth potential with their innovative strategies,"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The financial technology (fintech) industry continues to reshape the landscape"
     publishedDateTime: 2023-06-14T17:31:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-with-high-potential-for-growth"
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-high-potential-for-growth-1032389799"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 34
   - title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
     excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
@@ -122,6 +122,15 @@ related:
         width: 800
         height: 360
         isCached: true
+  - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
+    excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."
+    publishedDateTime: 2023-06-16T14:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/24397/fintech-in-an-era-of-rising-interest-rates-and-economic-headwinds"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "MnSQFzhUblj2jgGoCnyLDvgVTpzJTRwjbxYuZ5qvItBG43ARbujS/Zw6DEoGf4ewfUUJUmUqTYfZIWTpP+ltQCeA2gHQ2xqDWEJZqnxRq3+GHqT0w+bzeDsSTHB8C+JGWVPH75pXdEvlvaWCeJyg+IADdHuAz8uxGeDiWsv9MEfQzxUbbKjCC5HsoUl3HVG+RnlXrXgnIQMzk+Vj7jEWb39Uz53/OWXkcauH/wJi/3amzkR+6Znb+3j/OBSbvi+ZMVM0Zi+Qat2PDgKcnC4cRxAPfkNPrRqy3qDeaOboGP2XGL/jjhQJvlmwFDpho+2xxK1MYTGGyRrB/DLW01qt7HpLxyZrkAi02PFg38OLMZmr3hfiE1J16+r4aHqQa+PMBnlUMZ+riP5NDgoBBPV5n3WyKKLOW1IkuosdY402lzfu/yyCytD/0MEl6PVEBNH2m802pY7QFpm3Sz+2QNrzgQpKxwrp7uru+zy0MNdjSle9Hpwi7p1MVEI58MZcbNiJx/Bx1KYetJKpmJ2SyVXW0A==;MYEW5HbZwC/kThYIbXZCFg=="
 ---

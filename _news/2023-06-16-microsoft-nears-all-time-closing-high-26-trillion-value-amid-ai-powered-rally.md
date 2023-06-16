@@ -139,6 +139,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "A Game-Changer for Microsoft: $10 Billion in Annual AI Revenue Sparks Stock Surge"
+    excerpt: "Microsoft’s stock soared to new heights on Thursday following positive endorsements from JPMorgan Chase analysts regarding the company’s prospects in the field of artificial intelligence (AI). Closing at $348."
+    publishedDateTime: 2023-06-16T15:21:00Z
+    webUrl: "https://techstory.in/a-game-changer-for-microsoft-10-billion-in-annual-ai-revenue-sparks-stock-surge/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 49
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/06/Microsoft-is-Reportedly-Working-on-AI-Chips-to-Train-LLMs.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "HCLTech and Microsoft Expand Collaboration to Boost Innovation and Adoption of Generative AI with Microsoft's Azure OpenAI Service"
     excerpt: "Leveraging HCLTech's deep domain expertise across various industries and Microsoft's Azure OpenAI Service, clients will benefit from innovative solutions that enhance employee productivity, streamline IT operations,"
     publishedDateTime: 2023-06-15T11:34:00Z

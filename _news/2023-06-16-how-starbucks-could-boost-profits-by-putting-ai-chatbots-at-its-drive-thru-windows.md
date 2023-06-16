@@ -98,6 +98,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 19
+  - title: "Google Warns Its Own Workers to Avoid Using AI Chatbots"
+    excerpt: "Alphabet, Google's parent company, is reportedly cautioning employees about how they use chatbots, including its own Bard."
+    publishedDateTime: 2023-06-16T14:50:00Z
+    webUrl: "https://www.thestreet.com/technology/google-warns-its-own-workers-to-avoid-using-ai-chatbots"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
   - title: "An AI Chatbot May Be Your Next Therapist. Will It Actually Help Your Mental Health?"
     excerpt: "Kaiser Health News — In the past few years, 10,000 to 20,000 apps have stampeded into the mental health space, offering to “disrupt” traditional therapy. With the frenzy around AI innovations like ChatGPT, the claim that chatbots can provide mental health care is on the horizon."
     publishedDateTime: 2023-06-13T13:44:00Z
@@ -108,6 +117,6 @@ related:
       domain: psychiatryadvisor.com
     quality: 13
 
-secured: "OfjAUY2TUmgKsSxO/USSt7zdfpM7KJuW0uFAklOeV6Z363B4gUzVz8RdsQZFxzlyQTzPuEeFymOz8KEISkaQ52cR2+EtnnMzNOc8F3xIrSWwFtZ/DOESbHS2ORMopjkUDGKaCc7QWPI0ZRs5lkqTdR0DfL2CdgypwFvUV9Poz60WF+bWIWiKdgdNsdh569b+Gq+KME29nOAK6fEu/L3f5fE2dqAuIR3vTrMs28k8abkMdG2IwJE0SYxLM4yh2FJ6Li4s4HKPXII9vkN497JFyRTe7cxo7uZeRbpeQz+4wUrDWG6TpCKh21Jra16QNcuZK1B5pTp5KpKNolckBd/gH44iqGVNNfhDRAA7znIAH8w=;+QeDkCt5lPXPv8nH8dRbPQ=="
+secured: "u8lnwvhlHexf6i62TeqOxTR1BCRE41XUJ4V6vBcxZazfEWbB+E+XbvvLIaRXsDZt61LGn6R3EuEe8BGscRQ7eM6NOvyJUt34UMoeXZauDhlAuGvZVEX+5+V/GXPOiW7XUrvGqTIaAVuQjIgSxwyCh2w7XvoQdV3bFNsEOIG4epZ41mwij2/ZEh0mfsx3NJIBw6nMROIhHLbdL5mAR0hYgPHx+YIx3jqpMGsXfU4mNmaXdhWWbttVicBqhhzO8Hxr+mNr6EZneaYmtANHDAR8gcCQ/cFWMP90xEHkzZjQZJZaT4J7WVwDvDNLSth4TkGt1xM9WBuBTSiwy6oe/KYMoN/t5a+O7depo4ZGxIfrqDRxQG1DB+pKzeqF1cvlVPsULFBKCFiPM6zWEBB7+f2mnN+LG4tdehOkSVmQRmY2XV/r5AtyuW+9I4mm4OCocx34NyAKIqU3ifsfgedL7VziOzePfXxLaPaQmF8YLyIvNYVpDVg4gHk/BlnfMZnX+hKK2KjfSx4/uylnPtYAOZkAPQ==;DRn1lcyBn/KN6GRGYiKpkA=="
 ---
 

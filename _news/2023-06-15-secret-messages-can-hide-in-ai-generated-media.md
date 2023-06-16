@@ -34,6 +34,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 28
+  - title: "Why Ogilvy is leading a crackdown on AI-generated social media ads"
+    excerpt: "The agency will label influencer content on social media with the hashtag #PoweredbyAI or by using a dedicated watermark."
+    publishedDateTime: 2023-06-16T12:48:00Z
+    webUrl: "https://www.thedrum.com/news/2023/06/16/why-ogilvy-leading-crackdown-ai-generated-social-media-ads"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 19
 
 secured: "DEC4XZO9a0uRia1aSRyMJ60c5SYAjU2UbTo6Xa39QYpoZS0Nbn9mFjgkJUraQCI3TxEnG6uxt/D8FVUFmIZPK8UzBic5gWPmlITU+lW60yIuJuTQsEcjrb+gPSH1Gz/lEMR2xNrRbZ55kz+FPl9UaAHORnjhhY+21UoG1Y81H9Mb8oZ7ByQmh2LaSIxMYi3J0tVHNO7reaVNHlV4/R+J5/Hy0DwbriX4MDUZGwrgzHQme/M+QhJ+8eat4qVPCdxv8UuoJRYrFU4kBa8kxKCOgC7GR5hvj+sqNIZcgDJQ9HZOQcKQd02mTksw6G7FVAYJVN+FatHzdj86sTOeZW0LHEf6pBlZM5JsKpWsZtRvJB6EgHGz0P6+l2Ibd3tPZNpgGJsEv6wyX6qtLsSCfJJSc1WDJuvKunGuwqZg+pC6uf1VCvWlD8AcCaLGz5ouBllAySJhxDbIy9AERCd+sJXg37xx+Ivwo/Udnuy3x5HiKjXFt5F1AyShayoPs/7RNz330QJix5PqkEm05+J0e6/Rpg==;fe9aITBwn1AevECxKeX+RQ=="
 ---

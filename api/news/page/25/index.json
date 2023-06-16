@@ -2,6 +2,452 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-05-30-qualcomm-says-ai-will-demand-more-power-than-just-the-cloud.md",
+      "title": "Qualcomm Says AI Will Demand More Power Than Just the Cloud",
+      "excerpt": "Qualcomm Inc. is betting the future of AI will require more computing power than what the cloud alone can provide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-30/qualcomm-says-ai-will-demand-more-power-than-just-the-cloud",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-30/qualcomm-says-ai-will-demand-more-power-than-just-the-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV9Pq7ZOJOmM/v1/1200x904.jpg",
+          "width": 1200,
+          "height": 904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-nortons-new-super-naked-cafe-racer-is-highly-saucy-way-too-pricey.md",
+      "title": "Norton's new super-naked cafe racer is highly saucy, way too pricey",
+      "excerpt": "Norton has made good on its threat to turn its slinky V4SV superbike into a cafe racer – without neutering its rorty 1200cc V4 engine. The new V4CR carries an absolutely brutal price tag, but a ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/motorcycles/norton-v4cr-cafe-racer/",
+      "originalUrl": "https://newatlas.com/motorcycles/norton-v4cr-cafe-racer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b438591/2147483647/strip/true/crop/1013x532+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fca%2Fb7%2F272f2e404139a49750dc2dcb84b0%2Fv4cr-video-thumb-01.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-nvidias-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.md",
+      "title": "Nvidia’s new Grace Hopper superchip to fuel its DGX GH200 AI supercomputer",
+      "excerpt": "The DGX GH200 AI supercomputer is targeted toward developing and supporting large language models. Google Cloud, Meta, and Microsoft already have access to it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.html",
+      "originalUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/05/nvidia-dgx-gh200-100941527-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html",
+      "publishedDateTime": "2023-05-30T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-microsoft-azure-openai-service-generally-available-chatgpt-api-voicebotai.md",
+      "title": "Microsoft Azure OpenAI Service Generally Available, ChatGPT API … – Voicebot.ai",
+      "excerpt": "Microsoft has made its Azure OpenAI Service generally available, bringing the enterprise generative AI tools out of its invite-only program. Now any customers",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/525616/microsoft-azure-openai-service-generally-available-chatgpt-api-voicebot-ai/",
+      "originalUrl": "https://www.inferse.com/525616/microsoft-azure-openai-service-generally-available-chatgpt-api-voicebot-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/05/wp-header-logo-1220.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-29T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-ai-boom-dont-miss-out-but-avoid-the-frenzy.md",
+      "title": "AI boom: Don’t miss out, but avoid the frenzy",
+      "excerpt": "Investors must take a cautious approach to the Artificial Intelligence (AI) boom to avoid getting ‘burned says Nigel Green.",
+      "sourceUrl": null,
+      "webUrl": "https://www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/",
+      "originalUrl": "https://www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.traveldailymedia.com/assets/2023/05/shutterstock_1040657359.jpg",
+          "width": 1000,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/amp/",
+      "cdnAmpWebUrl": "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/amp/",
+      "publishedDateTime": "2023-05-29T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Travel Daily Media",
+        "domain": "traveldailymedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-retail-investors-arent-buying-into-the-ai-hype-yet-and-the-boom-pales-in-comparison-to-the-meme-stock-bubble.md",
+      "title": "Retail investors aren't buying into the AI hype yet, and the boom pales in comparison to the meme-stock bubble",
+      "excerpt": "So far this year, Nvidia stock has shot up 167%. Meanwhile, the Global X Robotics & Artificial Intelligence ETF has soared 33%, and the ROBO Global Robotics & Automation Index ETF is up 19%.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6470ccbc3be3b50019f6fcaa?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5?amp",
+      "publishedDateTime": "2023-05-29T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-5-everyday-examples-of-cognitive-dissonance.md",
+      "title": "5 Everyday Examples of Cognitive Dissonance",
+      "excerpt": "Cognitive dissonance happens when you hold two conflicting thoughts in your mind at the same time — like loving both hamburgers and cows. Cognitive dissonance is a theory in social psychology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health/cognitive-dissonance-examples",
+      "originalUrl": "https://www.healthline.com/health/cognitive-dissonance-examples",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2018/11/Alcohol_Drink_Wine_Female-1200x628-Facebook.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-an-ai-challenge-balancing-open-and-closed-systems.md",
+      "title": "An AI Challenge: Balancing Open and Closed Systems",
+      "excerpt": "Technology debates are often a tug-of-war between open and closed systems. On one side, open allows interoperability, customization, and integration with third-party software or hardware. Champions highlight how openness promotes transparency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnas.org/publications/commentary/an-ai-challenge-balancing-open-and-closed-systems",
+      "originalUrl": "https://www.cnas.org/publications/commentary/an-ai-challenge-balancing-open-and-closed-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNAS",
+        "domain": "cnas.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-self-driving-cars-lack-social-intelligence-in-traffic.md",
+      "title": "Self-driving cars lack social intelligence in traffic",
+      "excerpt": "Self-driving cars fall short when it comes to understanding the social codes in traffic that let human drivers decide whether to give way or drive on, according to new award winning research from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/990773",
+      "originalUrl": "https://www.eurekalert.org/news-releases/990773",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal.md",
+      "title": "Sequoia China-Backed AI Startup Xtalpi To Partner With Pharma Giant Eli Lilly In $250 Million Novel Drug Deal",
+      "excerpt": "Xtalpi declined to comment on the report. Last year, AI-powered biotech startup Insilico Medicine, based across the border in Hong Kong, raised $60 million in Series D funding from investors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zinnialee/2023/05/30/sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal/",
+      "originalUrl": "https://www.forbes.com/sites/zinnialee/2023/05/30/sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6475df6af28e84d39d7b69dd/0x0.jpg?format=jpg&crop=3500,1970,x0,y76,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zinnialee/2023/05/30/sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zinnialee/2023/05/30/sequoia-china-backed-ai-startup-xtalpi-to-partner-with-pharma-giant-eli-lilly-in-250-million-novel-drug-deal/amp/",
+      "publishedDateTime": "2023-05-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai.md",
       "title": "SOXQ ETF: Front-Row Exposure to Semiconductor Stocks and AI",
       "excerpt": "On the other hand, I also wouldn’t want to not have exposure to these names, as AI is clearly here to stay and is just getting started on disrupting many industries. Thus, my strategy (not financial advice) with an ETF like this would be to start a ...",
@@ -720,462 +1166,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-the-ai-boom-runs-on-chips-but-it-cant-get-enough.md",
-      "title": "The AI Boom Runs on Chips, but It Can’t Get Enough",
-      "excerpt": "A shortage of the kind of advanced chips that are the lifeblood of new generative AI systems has set off a race to lock down computing power and find workarounds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554",
-      "originalUrl": "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-790143/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution.md",
-      "title": "Arendai and AiQ Robotics Join Forces to Offer Unified Orchestration and Robotics Solution",
-      "excerpt": "Arendai and AiQ robotics last Thursday announced a partnership that will enable the companies to expand their services into the rapidly growing industry 4.0. By combining Arendai's cutting-edge solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/32220-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/32220-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/f387e437c862082eed484b9d226001b5.jpg?t=20230529_022121",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-artificial-intelligence-to-estimate-the-accuracy-of-data-explaining.md",
-      "title": "Artificial Intelligence To Estimate The Accuracy Of Data Explaining",
-      "excerpt": "Despite their enormous size and power, today's artificial intelligence systems routinely fail to distinguish between hallucination and reality. Autonomous driving systems can fail to perceive pedestrians and emergency vehicles right in front of them,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
-      "originalUrl": "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2023/05/probabilistic-ai-00.jpg",
-          "width": 900,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
-      "publishedDateTime": "2023-05-28T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-destiny-2-season-of-the-deep-guides-season-pass-gear-exotics.md",
-      "title": "Destiny 2: Season Of The Deep Guides, Season Pass Gear, Exotics",
-      "excerpt": "GameSpot may get a commission from retail offers. Destiny 2's second season of 2023 is here, and after Season of Defiance kept the action focused mostly on Earth, Season of the Deep shifts the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/destiny-2-season-of-the-deep-guides-season-pass-gear-exotics/1100-6514462/",
-      "originalUrl": "https://www.gamespot.com/articles/destiny-2-season-of-the-deep-guides-season-pass-gear-exotics/1100-6514462/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T18:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones.md",
-      "title": "Arm's New CPU, GPU Cores to Deliver Next-Gen AI Experiences on Phones",
-      "excerpt": "Arm says pairing its Armv9 Cortex-X4 compute cluster and Arm Immortalis-G720 GPU in a single package will bring powerful AI, 3D, and gaming performance to the top smartphones of 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
-      "originalUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00n6JF7PK0qozSLHl73N4AU-1.fit_lim.size_1200x630.v1685112823.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-10-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
-      "title": "10 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
-      "excerpt": "Find the course here. Artificial intelligence: ethics & societal challenges Class description: The class covers the ethical and societal aspects of artificial intelligence over four modules that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
-      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
-      "publishedDateTime": "2023-05-28T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-google-deepmind-makes-youtube-shorts-more-searchable-with-ai.md",
-      "title": "Google Deepmind makes YouTube Shorts more searchable with AI",
-      "excerpt": "Google Deepmind has introduced a new visual language model for YouTube Shorts, making them more searchable with AI-generated metadata descriptions. The language model, Flamingo, also provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2023/05/google-deepmind-makes-youtube-shorts-more-searchable-with-ai.html",
-      "originalUrl": "https://www.androidheadlines.com/2023/05/google-deepmind-makes-youtube-shorts-more-searchable-with-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2020/09/AH-YouTube-Shorts-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2023/05/google-deepmind-makes-youtube-shorts-more-searchable-with-ai.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/05/google-deepmind-makes-youtube-shorts-more-searchable-with-ai.html/amp",
-      "publishedDateTime": "2023-05-28T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-how-generative-ai-can-revolutionize-customization-and-user-empowerment.md",
-      "title": "How generative AI can revolutionize customization and user empowerment",
-      "excerpt": "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/",
-      "originalUrl": "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-you-should-try-tesla-self-driving-says-elon-musk-to-meta-chief-ai-scientist.md",
-      "title": "'You Should Try Tesla Self-Driving,' Says Elon Musk To Meta Chief AI Scientist",
-      "excerpt": "Tesla Inc TSLA CEO Elon Musk on Friday recommended Tesla’s self-driving to Meta Platforms Inc META Chief Artificial Intelligence scientist looking for the missing element in machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/05/32611631/you-should-try-tesla-self-driving-says-elon-musk-to-meta-chief-ai-scientist",
-      "originalUrl": "https://www.benzinga.com/news/23/05/32611631/you-should-try-tesla-self-driving-says-elon-musk-to-meta-chief-ai-scientist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/elon_musk_ai4_7.png?width=1200&height=800&fit=crop",
-          "width": 861,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32611631",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32611631",
-      "publishedDateTime": "2023-05-28T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-i-took-a-trip-on-britains-first-driverless-bus-there-were-heart-stopping-moments-but-the-robots-are-coming.md",
-      "title": "I took a trip on Britain’s first driverless bus – there were heart-stopping moments but the robots are coming",
-      "excerpt": "Bristling with Artificial Intelligence software and hi-tech sensors ... is the vanguard of Britain’s coming driverless vehicle revolution. It is pitched as a safer alternative to human drivers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/tech/10791016/trip-britains-first-driverless-bus-edinburgh-robots/",
-      "originalUrl": "https://www.thesun.ie/tech/10791016/trip-britains-first-driverless-bus-edinburgh-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/05/stagecoachs-robobus-part-feature-rise-819905064.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.ie/tech/10791016/trip-britains-first-driverless-bus-edinburgh-robots/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/10791016/trip-britains-first-driverless-bus-edinburgh-robots/amp/",
-      "publishedDateTime": "2023-05-28T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

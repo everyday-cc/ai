@@ -117,6 +117,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Adobe Proves Its Determination To Lead The New Era Of Generative AI"
+    excerpt: "When it comes to Azure, Microsoft is facing the same dilemma because Amazon.com Inc AMZN has a much bigger representative on this front, Amazon Web Services. Amazon also launched its own platform that allows building and scaling generative AI services ..."
+    publishedDateTime: 2023-06-16T14:52:00Z
+    webUrl: "https://www.benzinga.com/23/06/32894175/adobe-proves-its-determination-to-lead-the-new-era-of-generative-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32894175"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32894175"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/9067755.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Q&A: The future of work—how will AI and automation affect work?"
     excerpt: "For decades, advances in technology have changed the ways people work, and now artificial intelligence could be the next big disruptor."
     publishedDateTime: 2023-06-15T20:57:00Z
@@ -186,14 +202,14 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Generative AI Will Change The Future Of Technology Organizations"
-    excerpt: "Now, with the acceleration wrought by generative AI and other emerging technologies tech leaders must build long-term strategies to address the growing demands."
-    publishedDateTime: 2023-06-14T13:17:00Z
-    webUrl: "https://www.forbes.com/sites/forrester/2023/06/14/generative-ai-will-change-the-future-of-technology-organizations/"
+  - title: "Roleverse empowers users to make their own games with generative AI"
+    excerpt: "Roleverse is bringing the power of creation to all users by enabling them to create their own games using generative AI."
+    publishedDateTime: 2023-06-16T13:30:00Z
+    webUrl: "https://venturebeat.com/games/roleverse-empowers-users-to-make-their-own-games-with-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 47
   - title: "AI-generated images are everywhere. Here's how to spot them"
     excerpt: "It's easy to be fooled by AI-generated images and other content. We talk about how to identify them, how media literacy can help, plus how to use these tools responsibly."

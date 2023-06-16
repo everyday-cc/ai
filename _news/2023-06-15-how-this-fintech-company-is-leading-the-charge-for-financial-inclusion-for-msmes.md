@@ -114,14 +114,23 @@ related:
         height: 567
         isCached: true
   - title: "3 Fintech Stocks With High Potential for Growth"
-    excerpt: "This article will explore three fintech stocks with exceptional growth potential that are poised to make waves in the market. These three stocks are breeding growth potential with their innovative strategies,"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The financial technology (fintech) industry continues to reshape the landscape"
     publishedDateTime: 2023-06-14T17:31:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-with-high-potential-for-growth"
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-high-potential-for-growth-1032389799"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 34
+  - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
+    excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."
+    publishedDateTime: 2023-06-16T14:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/24397/fintech-in-an-era-of-rising-interest-rates-and-economic-headwinds"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "9kkEA2ziSSNgucMl4IGGSurDZ2gBBoFUE/kkZhsNvtx9/pWeDUKzhRNwIEWjYZ+UEs39omy/OEUay1ota9+QHqHAcdqq58VoB8x/nlFkY7k/32KHELF29s+Ot6Igj9e91Wh3+m8OVVXyDV7o54O6hkAD4NU6iK2BuBZgoB3eRiTeSVnHobOLS2Ar2PTCZSe+pmUvPw/VWlNG/3L5l44ySkKVIJgZyoj8kneKTwtHfuZSBz9ucnCDj787qb4LL+ExGD5MvDVhOo7kweM8AhxYU0zufoB4P+QXfGabd+4/8RMV10Pe3ujI1rCMNoqocPK2AERrFiBytdoV/62pj2vhE8DjqZYLvAOJUvEJqwVw0vV8yHt4Ox1qvqV2L2djwJkGEt8+iskKNd8RrA5hrK8t3njTN1mYfvarKt4RO3/098PUzxWJHoVGpUA219HkF1kULrufsTtOlDOk8N+8SZvd18sO8mtSIZBfBiyACxdETsaYANNM7MTKwcGWtae5968bQ2sItXFMSqBmBij1X70cPg==;b5Drewz9tYIWboOz7FTobw=="
 ---

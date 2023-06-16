@@ -104,13 +104,13 @@ related:
         height: 567
         isCached: true
   - title: "3 Fintech Stocks With High Potential for Growth"
-    excerpt: "This article will explore three fintech stocks with exceptional growth potential that are poised to make waves in the market. These three stocks are breeding growth potential with their innovative strategies,"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The financial technology (fintech) industry continues to reshape the landscape"
     publishedDateTime: 2023-06-14T17:31:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-with-high-potential-for-growth"
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-high-potential-for-growth-1032389799"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 34
   - title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
     excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
@@ -126,6 +126,15 @@ related:
         width: 800
         height: 360
         isCached: true
+  - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
+    excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."
+    publishedDateTime: 2023-06-16T14:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/24397/fintech-in-an-era-of-rising-interest-rates-and-economic-headwinds"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "Z98hRfYexV6Bgy5QX/yw1kFCj5XhQClzMOedqQk41AlqO+Iomo0USbKvq8UF4EFt+cT2gsm39GJoWhVycSGv+Up1xwKFqE58Km8ekaYsLGbteOGwfeoUx9ZFXzbQRld3XreoojFvW8JorIgsziIbRjc1uiI9+rn3aS7ixJt2BQ43kszzkhXz8TfI501E5LR9kELpR/mscofKXdgjaRtIgSifrh9hInGzec79kpuZrX2XGjGCVPZCHj/NcSTW9EvfZqhRuehChm3h/I/3mobWI5U8lv5nv+OXYjPk2AvzHtbGIitFOcgn94Ko2XLFl/97X8IsbgRfeqKzRLPj4797JVWYrK/Pv8ysfDVC8AylUb4=;2aEgNttgUBwmamHvRRkFAA=="
 ---

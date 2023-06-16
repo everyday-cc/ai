@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-16T07:13:00Z
 originalUrl: "https://www.reuters.com/technology/southeast-asia-set-guardrails-ai-with-new-governance-code-sources-2023-06-16/?ref=upstract.com"
 webUrl: "https://www.reuters.com/technology/southeast-asia-set-guardrails-ai-with-new-governance-code-sources-2023-06-16/?ref=upstract.com"
 type: article
-quality: 64
+quality: 66
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.reuters.com/resizer/ea0d2lDu0N6wARD6MMauY1tDj44=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4B4CWPO5WVNHTHRQ3CCDGQXKTU.jpg"
@@ -91,6 +92,6 @@ related:
         height: 630
         isCached: true
 
-secured: "rhT0HUid1b6EktXeoQug0GRwh04C+n46pXYhCGvspuCMVaC4MpXRqC6bXfJonUgwSn0QLhyXPL5C16YvoBFBRrdriPaKNzdH/kWlfFH091B2ahlSW5hUY3gfwYbw8z3INyLJiTlK+6UJhRr1Okht2D44uGcejgXmoeECXa5/2aKAvT/wA+y0tpNpxLWw6TdRtryFajYovQWZKDa3xlzwrovIr1ZP8cu324oG6isb6u7xN40OXyMgvfAQhk/CZA3b8pUWD50J0lk86rtar+sp7OpXKtdOLnItMPUwuQ/y60LXv+9ICkjhjbJfdNPPuKw+esKCmx2KZHjgncB9fdYU0H0fnU6LF1S4rr5K2xW8vAM=;PFTfncBX9rwnGOctCYzhOA=="
+secured: "CQv/20xipK0Uq+JArVNRIVIohLo7YYatkjTUw+WbBgl6JpHDVsJl8DVOMVEnyJrQ2VdE02ig8ohVYgfQOV5tB63nyclxhrqkS1ntPCtdf1U4BMLAQ7YZQ7zxcDt+8+1Xi3dODpr/1hHCop3biQVbD/jSlCDLsc+49C00ZwU7XoLgtmyhn6JlqmcQ6SvVpHD7+MeqwcK22zaUXdFnLBv9OpHqBgY/Zp0rC3Q7gc4B6FdqXLmdj7z/Zuo6YiyYSrJTTg6D9H0Zy6/NdaltKPQgPrdoRjlaIRbMaJMeST5w8f/tvtIYXX1hgQs06jIQliJq9eY8ewd/yTqGw17YwGyQOulqTHoOlaw2yV/rJOw52uHRpLhFBW317PgsRUnkEUJFEJ6w8SuA6TDpelXOXZBEwR8ZKbI37r0GfYCqGxzLDvqoq2dDkbzeXd03TPcyTYMcRPe0OuSaYyq5XE6XC32ixyz9a0Yd7L//OOZJWBaQIoxSmcILioV64AR3AYQ1vV5sekQiGtglB9k81tNnOSA9ng==;PiFD4PCyQQ8ron1Mn3q2tQ=="
 ---
 

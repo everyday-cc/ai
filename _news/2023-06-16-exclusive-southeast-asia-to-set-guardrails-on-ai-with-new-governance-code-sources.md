@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ASEAN Countries Said to Set Ethics 'Guardrails' With AI Governance Codes"
+    excerpt: "The ASEAN Guide on AI Governance and Ethics was taking shape and would try to balance the economic benefits of the technology with its many risks."
+    publishedDateTime: 2023-06-16T08:48:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/ai-guidelines-southeast-asia-artificial-intelligence-asean-ethics-regulations-4126402"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 33
 
 secured: "DiGJ65M9oTan5iJiFK4YueP6O7zOBw/anIbG/JoDzlqKG8i37mt2qEl4wcqemJHMl1pIDfGn2uTk73tZA7Kv6+sZ6tXKo0RUT86XRppQlG5tJVpYtC8iV0jbzc68wV+mMlJ01AZb/aiZZmxHG9WwfAiifGRiUkaR2YAJRcGM1vqc17G9kZfr6Bzf9rKTPoBbjDADvfZYdSIxL/D6za7j+jMpq0hgzVdkP5Y6S2DScUEUdax9mGChSNkUbE/Ju8ydZssuDUr18ifTs4HzayyxDisNSrefDNHypGZ4VWYvFk3xn8fOQoZBRswvwyoLcatGa/Ji2lgSHpS/fD3Y0AkG437Fufetz7TKdcuP1Iy+pKExjk8jdHXp9LIZljjIcl6+/RDjreoCetxE12l80EKuQkaOIvJ8sQP5l4JMUyMrpw1XVeO2dokeW1BVdEWxLZ6/iMx75s42aniM0z7nkgMHg4H1+3LFVVVuAlSmpF8a3vAsOBLkA2+oiMSWBmsTWSyAE2QOLlgH7JPIiibRVa0MlA==;INdpkxDQICwxk16sdbFnOA=="
 ---

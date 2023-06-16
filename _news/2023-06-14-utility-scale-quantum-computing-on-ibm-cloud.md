@@ -42,6 +42,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Know your real clients: Use PROXY protocol on Red Hat OpenShift on IBM Cloud"
+    excerpt: "As of 14 June 2023, PROXY protocol is supported for Ingress Controllers in Red Hat OpenShift on IBM Cloud clusters hosted on VPC infrastructure.\nThe post Know your real clients: Use PROXY protocol on Red Hat OpenShift on IBM Cloud appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-06-16T13:03:36Z
+    webUrl: "https://www.ibm.com/blog/know-your-real-clients-use-proxy-protocol-on-red-hat-openshift-on-ibm-cloud/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 79
 
 secured: "/4axlODQ8zUd12qAN7xEInXaqW+Pzf5gIF59ls1UprJRfW808kuRd/4VqowHxRnn68nnFFq3AEClbhk3NDOE7JhSkn8nPLrfgOPXkrtl0puTmmEKMBxHH7beeUQ7d6GDwmrp2pv5UB7wq2MO/yJRQ1MLiokcj/YMvQhT/fsE8oGKeIDoryrhMNgEisczOQ1K5Lk7eW+65NKVSPG5S/45RAvd/QT/4Ycmzx3/YjjSemJegOGdZDIhd3gDgNXXJDD0PK9DxP+bH92VuLf4+M8AJqE2fdrh/8QTXV3cxD+LPxXoc6a4zikJsg/3u6takkpJevmfZrLsxWlnbz++6gj2HUXbqm84/sI9ke9JbyP47vU=;mfJme2eCD5QKtZZettnGdQ=="
 ---

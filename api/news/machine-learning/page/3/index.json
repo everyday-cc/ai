@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-24-team-first-to-successfully-scale-deep-neural-network-models-for-federated-learning-framework.md",
+      "title": "Team First to Successfully Scale Deep Neural Network Models for Federated Learning Framework",
+      "excerpt": "A new machine-learning (ML) framework for clients with varied computing resources is the first of its kind to successfully scale deep neural network (DNN) models like those used to detect and recognize objects in still and video images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/news/team-first-successfully-scale-deep-neural-network-models-federated-learning-framework",
+      "originalUrl": "https://www.cc.gatech.edu/news/team-first-successfully-scale-deep-neural-network-models-federated-learning-framework",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2023/Screen%20Shot%202023-06-01%20at%202.48.19%20PM.png",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cc.gatech.edu",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-machine-learning-model-operationalization-management-mlops-market-report-2023-increasing-adoption-rate-of-machine-learning-fuels-growth.md",
+      "title": "Machine Learning Model Operationalization Management (MLOPS) Market Report 2023: Increasing Adoption Rate Of Machine Learning Fuels Growth",
+      "excerpt": "Machine learning model operationalization management (MLOPS) market is expected to grow at a CAGR of 47.81% from a market size of US$842.105 million in 2021 to reach US$12,981.316 million in 2028. Machine learning model operationalization management (MLOps) is the process of managing and deploying machine learning models in a business environment and involves the integration of data pipelines,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106307830/Machine-Learning-Model-Operationalization-Management-MLOPS-Market-Report-2023-Increasing-Adoption-Rate-Of-Machine-Learning-Fuels-Growth",
+      "originalUrl": "https://menafn.com/1106307830/Machine-Learning-Model-Operationalization-Management-MLOPS-Market-Report-2023-Increasing-Adoption-Rate-Of-Machine-Learning-Fuels-Growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?227454",
+          "width": 323,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-understanding-the-deployment-of-deep-learning-algorithms-on-embedded-platforms.md",
       "title": "Understanding the Deployment of Deep Learning algorithms on Embedded Platforms",
       "excerpt": "These platforms, equipped with deep learning algorithms, have opened a world of possibilities, enabling smart devices, autonomous systems, and intelligent applications. The deployment of deep learning algorithms on embedded platforms is crucial.",
@@ -1248,92 +1334,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-humans-in-the-loop-ai-machine-learning-in-the-bloomberg-terminal.md",
-      "title": "Humans in the Loop: AI & Machine Learning in the Bloomberg Terminal",
-      "excerpt": "The Bloomberg Terminal provides access to more than 35 million financial instruments across all asset classes. That's a lot of data, and to make it useful, AI and machine learning (ML) are playing an increasingly central role in the Terminal's ongoing evolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/humans-in-the-loop-ai-amp-machine-learning-in-the-bloomberg-terminal-2023-05-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/humans-in-the-loop-ai-amp-machine-learning-in-the-bloomberg-terminal-2023-05-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-automated-machine-learning-automl-market-worth-64-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
-      "title": "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets",
-      "excerpt": "CHICAGO, May 12, 2023 /PRNewswire/ -- The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-05/59077549-automated-machine-learning-automl-market-worth-dollar-6-4-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-05/59077549-automated-machine-learning-automl-market-worth-dollar-6-4-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
         "publishers": null,
         "authors": null
       },

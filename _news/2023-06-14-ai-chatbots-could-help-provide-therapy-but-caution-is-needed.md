@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/ai-chatbots-could-help-pr
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
+    quality: 19
+  - title: "Google Warns Its Own Workers to Avoid Using AI Chatbots"
+    excerpt: "Alphabet, Google's parent company, is reportedly cautioning employees about how they use chatbots, including its own Bard."
+    publishedDateTime: 2023-06-16T14:50:00Z
+    webUrl: "https://www.thestreet.com/technology/google-warns-its-own-workers-to-avoid-using-ai-chatbots"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 19
   - title: "An AI Chatbot May Be Your Next Therapist. Will It Actually Help Your Mental Health?"
     excerpt: "Kaiser Health News — In the past few years, 10,000 to 20,000 apps have stampeded into the mental health space, offering to “disrupt” traditional therapy. With the frenzy around AI innovations like ChatGPT, the claim that chatbots can provide mental health care is on the horizon."

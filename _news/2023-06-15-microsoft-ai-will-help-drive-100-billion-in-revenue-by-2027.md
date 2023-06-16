@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "A Game-Changer for Microsoft: $10 Billion in Annual AI Revenue Sparks Stock Surge"
+    excerpt: "Microsoft’s stock soared to new heights on Thursday following positive endorsements from JPMorgan Chase analysts regarding the company’s prospects in the field of artificial intelligence (AI). Closing at $348."
+    publishedDateTime: 2023-06-16T15:21:00Z
+    webUrl: "https://techstory.in/a-game-changer-for-microsoft-10-billion-in-annual-ai-revenue-sparks-stock-surge/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 49
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/06/Microsoft-is-Reportedly-Working-on-AI-Chips-to-Train-LLMs.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Microsoft Nears All-Time Closing High, $2.6 Trillion Value, Amid AI-Powered Rally"
     excerpt: "Microsoft's early-mover advantage in AI has helped it surge past Google and possibly challenge Apple as the world's most-valuable tech company."

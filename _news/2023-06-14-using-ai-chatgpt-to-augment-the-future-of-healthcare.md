@@ -121,6 +121,22 @@ related:
         width: 700
         height: 402
         isCached: true
+  - title: "AI and the art of questioning: How investors can use chatbots"
+    excerpt: "The advancement of AI technology has led to the development of more complex machine learning models like rule-based systems, expert systems, and machine learning. The use of AI applications exploded,"
+    publishedDateTime: 2023-06-16T14:18:00Z
+    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/ai-and-the-art-of-questioning-how-investors-can-use-chatbots/articleshow/101049878.cms"
+    ampWebUrl: "https://m.economictimes.com/markets/stocks/news/ai-and-the-art-of-questioning-how-investors-can-use-chatbots/amp_articleshow/101049878.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/ai-and-the-art-of-questioning-how-investors-can-use-chatbots/amp_articleshow/101049878.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://img.etimg.com/photo/msid-99054901,quality-100.cms"
+        width: 681
+        height: 1401
+        isCached: true
   - title: "Building smarter chatbots: Machine learning techniques in conversational AI"
     excerpt: "The foundation of Conversational AI is built upon two fundamental concepts: Natural Language Processing and Machine Learning"
     publishedDateTime: 2023-06-16T05:26:00Z
@@ -243,6 +259,15 @@ related:
         width: 900
         height: 676
         isCached: true
+  - title: "This expert-led complete ChatGPT Artificial Intelligence training bundle is now on sale for $30"
+    excerpt: "Take on the rising world of AI with The Complete ChatGPT Artificial Intelligence OpenAI Training Bundle, which can help you learn how best to use AI in the workplace, content crea"
+    publishedDateTime: 2023-06-16T13:00:00Z
+    webUrl: "https://www.popsci.com/sponsored-content/chatgpt-ai-training-bundle-deal/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 20
   - title: "This ChatGPT-powered AI tool can help you haggle to save money on bills"
     excerpt: "This new ChatGPT-powered AI tool can negotiate your bills for you by writing a letter that you can send to a landlord or credit card company."
     publishedDateTime: 2023-06-15T19:42:00Z

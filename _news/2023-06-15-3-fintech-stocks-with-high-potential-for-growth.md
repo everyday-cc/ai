@@ -1,18 +1,22 @@
 ---
 category: news
 title: "3 Fintech Stocks With High Potential for Growth"
-excerpt: "This article will explore three fintech stocks with exceptional growth potential that are poised to make waves in the market. These three stocks are breeding growth potential with their innovative strategies,"
+excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The financial technology (fintech) industry continues to reshape the landscape"
 publishedDateTime: 2023-06-14T17:31:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-with-high-potential-for-growth"
-webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-with-high-potential-for-growth"
+originalUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-high-potential-for-growth-1032389799"
+webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-high-potential-for-growth-1032389799"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
@@ -121,7 +125,16 @@ related:
         width: 800
         height: 360
         isCached: true
+  - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
+    excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."
+    publishedDateTime: 2023-06-16T14:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/24397/fintech-in-an-era-of-rising-interest-rates-and-economic-headwinds"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
-secured: "qcYwDU8QC8GCId8dCW3QKnImqV7VNxOw3dTuN6W6oJMpDpEAP115/ZJ2MGQfATRY//wTZnVd6zy5K3W6nf9J3mJNY+inHZ4J4BvcNqzHzR0UmwT0i6OPYaaSKm4dD0BfRrVrYCET4xJCM+j8ubigfPQgbAVXY37hyKdQ9T2Yf+n986XSldDm5YlEklCIbBIO7t6ySsQpWV48u23uoGX0mG/NDM3+gbvRtbzAYsjtUMg9lpNLlCdtRWk+jusjw6kFZcHszdtB3/2WS9xdXuUyGo9A1ZCX9o6vljB/k/Jx04zvtAbB49JGuQHLS8A/krnHcD28fLaDVJjFjWhx/2UfVpPmEp5QvG/vF0DnTQJXKdKHILndhTv4aBcX76c+O55NSvMi1IEGVfGE5Nd7a3l77mT1RqNTrkeeSJscIiZj6m9QLXhmqP00uGy/+7h9+ZQ1HZW1GPCbgaHG/UrtP0lxLYv7lIAMcJx8DknR93CpM3ymuQPpgYmVJyOg0hVrL9fB72wUm8cf3+TLNtjoSZ0WCw==;QnsS96jVZ52ApQ0R2DxYww=="
+secured: "IoHAYjNPKq7c+ySS2OaTJFE8sF5kLixDN/arCIUk5sBUlsSACPRtqgiLKP9S3lzNb1PnEDqFe2Ozm82WSkVNirp7yaXLyx0Oci3SePh6LFDl3ZuDnusQWis+4j9vUjKAYYP6qTJmt+VJdx8L1gcBKWcfnAwTQv31ngteeZpv8u3nf41Aw+IyiHIuibsbMpjt3/TI9KPXVU64yNf7feIuFzQ1m+04dFin6HFSsAIuWi7lYJsckm9VEKXhJWbKM4N7FtPhGaKEN//c6aDZaa2EEE9C4wH17TunLG+017mAaNV8cJw6HKR0mr1cpjLX59GT0+FpBzeAOq0Wlixz5gpvmpujM12Cgrf9bRQwE15jwo8gPXlhTyfsm6zL4QIBZbaZHzz3b7JqQLH4fGRQgzhx4BQSGUHdGwo1fC2w8H8lyINAYHSbEYqiqUu/5OD+/Nw4b0CMTZM6YEeRHzzW22bdW9VsuNCgR6atxQUmZGGhwe0WebCEW9ZPTZ5xUacMCUUogoEEK8xNjqwjd0tGJBnCjw==;mrVzSYyuO8k5nBtAQs4q2Q=="
 ---
 

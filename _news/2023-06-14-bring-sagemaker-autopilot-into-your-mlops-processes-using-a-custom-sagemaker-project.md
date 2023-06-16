@@ -71,6 +71,20 @@ related:
         width: 1026
         height: 510
         isCached: true
+  - title: "SambaSafety automates custom R workload, improving driver safety with Amazon SageMaker and AWS Step Functions"
+    excerpt: "At SambaSafety, their mission is to promote safer communities by reducing risk through data insights. Since 1998, SambaSafety has been the leading North American provider of cloud–based mobility risk management software for organizations with commercial and non–commercial drivers. SambaSafety serves"
+    publishedDateTime: 2023-06-16T15:08:54Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/16/sambasafety-sagemaker-step-functions.jpg"
+        width: 1213
+        height: 605
+        isCached: true
   - title: "Fine-tune GPT-J using an Amazon SageMaker Hugging Face estimator and the model parallel library"
     excerpt: "GPT-J is an open-source 6-billion-parameter model released by Eleuther AI. The model is trained on the Pile and can perform various tasks in language processing. It can support a wide variety of use cases, including text classification, token classification, text generation, question and answering, entity"
     publishedDateTime: 2023-06-12T17:22:09Z

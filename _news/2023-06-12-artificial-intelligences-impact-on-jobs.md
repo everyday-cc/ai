@@ -42,6 +42,15 @@ related:
         width: 1054
         height: 593
         isCached: true
+  - title: "This Is the Worst Part of the AI Hype Cycle"
+    excerpt: "The reaction this elicited on WIRED Slack channels was somewhere between “cool” and “gross.” Using AI to resurrect Lennon for a new song has its appeal, but given the recent ethical questions around using the technology to make fake songs from artists like Drake and The Weeknd,"
+    publishedDateTime: 2023-06-16T13:00:00Z
+    webUrl: "https://www.wired.com/story/ai-hype-cycle-burnout/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "yiHKazoZWSM0ACBnmtUNxf2Mgi1XsS2BMVazNAjm560zVtru/p81O8EGenpjZqUoNb6MjEyoIYJ9eDX5j+iaRO2KrRjWdhUcK/Lyr2yGFxEZbqdZ/bwo1UYaW7K8IWDfB8RIycttB3zu64Lt6TY4ety4BT/a9Xhvh6Srh2hbubmONJPMnnI9xIGcn5L5ClKe8KDcpXntBA4wq9n/DtdnGRUMkqYVH3Z4ry+WuZofH+XMSDS1MHkKeP7eUoglQMT573HYw0IP4bYIlX+Oj0oeXIzDX5//86RKL6W6gcpKwWR3xuhoLnavRHRVHvu+BDHAUd/ptZ8yzqCZk9lbMHd7fs5yq9psrJTKQD0UWyB3/3E=;2naiOkpsDN4CwKD2ajoPKg=="
 ---

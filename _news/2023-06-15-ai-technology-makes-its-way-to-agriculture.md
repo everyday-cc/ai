@@ -19,20 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence to show its face"
-    excerpt: "As AI personas make their way into social media, have you ever wondered how they will create their own profile pictures? The Face Game is a research project that lets people and AI interact, helping us see how AI might choose its own face depending on its objectives and the people it interacts with."
-    publishedDateTime: 2023-06-14T00:20:00Z
-    webUrl: "https://www.mpg.de/20451157/0612-bild-the-face-game-149835-x"
+  - title: "Empowering Individuals With Disabilities Through AI Technology"
+    excerpt: "Tyler Weitzman, cofounder, President and Head of AI at Speechify. The WHO estimates that more than 2.5 billion disabled people will need one or more assistive technologies in 2030. Yet almost a billion of them can’t access these products."
+    publishedDateTime: 2023-06-16T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/"
     type: article
     provider:
-      name: Max Planck Society
-      domain: www.mpg.de
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.mpg.de/20452218/original-1686661025.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjA0NTIyMTh9--eabd529226abd267fe732c327b1ce4e1a4fcb17d"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648b358071553ed0ad9b88a1/0x0.jpg?format=jpg&width=1200"
+        width: 983
+        height: 655
         isCached: true
+  - title: "Generative AI Will Change The Future Of Technology Organizations"
+    excerpt: "Now, with the acceleration wrought by generative AI and other emerging technologies tech leaders must build long-term strategies to address the growing demands."
+    publishedDateTime: 2023-06-14T13:17:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/06/14/generative-ai-will-change-the-future-of-technology-organizations/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "City brings in AI technology to deter crime in parking lots"
+    excerpt: "NoiseVu was founded in Albuquerque. This new artificial technology is an audio security system that is always on, providing real-time alerts."
+    publishedDateTime: 2023-06-15T05:19:00Z
+    webUrl: "https://www.kob.com/new-mexico/city-brings-in-ai-technology-to-deter-crime-in-parking-lots/"
+    type: article
+    provider:
+      name: KOB 4
+      domain: kob.com
+    quality: 37
+    images:
+      - url: "https://www.kob.com/wp-content/uploads/akta/3C2E33390EFA0FB902ACA86D23E6B284.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Revolutionizing Business: 5 AI Powerhouses Transforming the Way Companies Thrive"
+    excerpt: "Brands that are at the forefront of delivering cutting-edge AI technologies and solutions to empower businesses across various industries., Technology & Science News, Times Now"
+    publishedDateTime: 2023-06-16T12:02:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/revolutionizing-business-5-ai-powerhouses-transforming-the-way-companies-thrive-article-101047009"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 14
 
 secured: "iu5gX0ARw6hgXvm68qwqDr21v7m7YsKNnVuAX+slljWV/YqFZwtrLQyPlTCSg8YYqIbZ+QLSa2bfPhG03Ae1YgWnsZreuww4r7KwH3boK586tPqEMy7bKR5r8zYHCvR6bVpZnx2ndreMfU3UAmyV8ZgeRDJ9OG3HrfmQkoO4r9r1f5LEX1UbEkZt71h+0kct1cJFwjGUIRgBh5QwLaGjMbtiW3oTN6vSe1zSWQmwsLJ/Z/u2v8vvG8b8HUPiRLqsqV7jX6S83mqf8PUhwrCtfMWZiwNqr6m72pDncGvvcgyMQJktg5Aw0MVSfKvvjDER3B2oqPSr3mabEm/UIHPxEfbKynlWoc3NREtWp3hqD2Y=;DbQzuWC/LjM5z2F+fhWfQw=="
 ---
