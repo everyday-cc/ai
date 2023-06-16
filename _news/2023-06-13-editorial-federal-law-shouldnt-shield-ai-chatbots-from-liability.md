@@ -43,6 +43,20 @@ related:
         width: 790
         height: 497
         isCached: true
+  - title: "How Starbucks could boost profits by putting AI chatbots at its drive-thru windows"
+    excerpt: "However, what hasn’t got as much attention is the opportunity that generative AI applications can bring to other sectors in the form of increased productivity and efficiency — and ultimately, margin improvements."
+    publishedDateTime: 2023-06-16T07:59:00Z
+    webUrl: "https://www.cnbc.com/2023/06/16/starbucks-could-boost-profits-by-putting-ai-chatbots-at-its-drive-thru-windows.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 63
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/103408730-IMG_9049rr.jpg?v=1686909601&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "A chatbot that’s cautious about GPT, AI pronouncements, and a VC looks to Israel"
     excerpt: "In the latest edition of STAT's Health Tech newsletter: a chatbot that's cautious about GPT, a string of AI announcements, and a VC looks to Israel."
     publishedDateTime: 2023-06-15T20:41:00Z

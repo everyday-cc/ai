@@ -17,11 +17,11 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/06/Olney-Street-crash-providence.jpg?w=2000&#038;ssl=1"
-    width: 800
-    height: 450
+  - url: "https://www.wpri.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
+    width: 396
+    height: 202
     isCached: true
 
-secured: "XFhBd59BIp/OWysdcenPCQ91NjiQKzO90s1IEogMb+3V0AEJR+SCT9meZEd9TsafvaBRsOr7wrXdWbSHz4TANGvqXS2tDZ0z0QKrYM4TXiiJQYIwKKRZQcgAQmbOthXRURLX45Qvy0gD5fYze9zGmnZtOExdWfro8Psydx6S/sUG0lWbUtHCBboRzZ4mT1DtzihoB9NlnVH79C5o2yaE2Obdod3OxW1kqv0E+/Dy1kHwDl1a8uBtPwi2NXlh0D2Z/x/0SoPcnEmzTvyezjJd+e9mpD9TU6M5I1gzMUpWdUIvvNlz5IXYwicK5WhOea0LABz0ja2fQhFblKfynREt74DIQs3APcZ2VpPxKu4CNxM=;lXrX0biI148xpqjZOqSwFA=="
+secured: "g+Gyd062i1wfeGZCMQ3D3iZkvgqC0xumTL/pWPfpt1ZDYM4sGQ25qqXr+EilMuwXr4jhQQNOKuvD3iXKf7CvtMs2qlwNYe4w5iDjXh1l88YxLbQeSj2MnxDvM+y/2up21l2+61xgbrAFxwKZJVxuq8VekqeAAYSomcg7585I0FJ91nM5uJ61u3raRH4uwWQpIOunDPQ6sPEQtxwkLwLTiFhuoeSN59hL7D6MzGzr+kxFz0UA7/5zQnC71qwJl4uCz265DvSWmhKtPLxMDDhbdDoqZtidsx9QDhKZq4edifkiffyckpgYsRUt9G7IsQi5Jr+/wiizr7tyBrinom5FVZFIE86aLidDYvrturz8Q54=;cGa6dX/JJM08rC23w+vAbA=="
 ---
 

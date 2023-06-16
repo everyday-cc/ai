@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "XL8 real-time AI-based interpretation app for Zoom"
+    excerpt: "XL8 , a Silicon Valley tech company that provides AI-powered machine translation technology optimised for media content and dialogue, has announced that its new"
+    publishedDateTime: 2023-06-16T10:27:00Z
+    webUrl: "https://advanced-television.com/2023/06/16/xl8-real-time-ai-based-interpretation-app-for-zoom/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 19
 
 secured: "6joS0oRP1VrogWmkGNR263/9HLYufJFg0CniVAriwB7hPS8ZU9870fmjvAkkMPWtzlFX3JLoNXVabvW+xyy5uu/wdOgjRM8mqDmkSAvPadsh7pAgzqgjaBn/qaeNGW10mRa7VCK7Kmy6wZbKyjNJma/63Kiaa9/GQa8290/fP83WhJUcggzQvO8MkRIXIbbv6ApZpRQXK9gRcUGX+UV1fCTOj/jcpW+XZCoc23UeyJaVyg/oyk+BrhwFvjZhZcTqJMzAHp2Wlp24iZbvRLY+uRQA6EgOfLTGrQaiGVaFgBz3oGh2Q3qtCt7bvUELI003Jbs2/eqKmdeyqayxp9tAWSPQIhOFbnZ7qasItz/3Fy4AeR9hvz9w9zbTUM34cTSH3XV43mTHnbAnZbsYlcZgBUVOKKuzPqqpoTUISnnmZ+BtlQNMBry8Y4cv75rDKd5XrCZCkgRQuNJzjou8Co5qk+f2v+4WSCT8LFQl46RuNOHTVDC6hT4Cau1XprWN7L5mzpZXOLd2KFvDxLfj590OaQ==;6qa8z+fRuuNL+NHJfSf5sg=="
 ---

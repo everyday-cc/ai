@@ -116,6 +116,15 @@ related:
         width: 356
         height: 250
         isCached: true
+  - title: "The Future is Hybrid: Financial Services, the Fintech Industry, and Data Centers"
+    excerpt: "In today's digital landscape, fintech has revolutionized the financial services industry, with seamless and convenient ways to manage finances. To achieve this, Fintech companies generate vast amounts of data,"
+    publishedDateTime: 2023-06-16T10:59:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/whitepapers/the-fintech-industry-and-data-centers/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 0
 
 secured: "mq4fTSSc2cNGN9TMID9MwmwBZrdbiLbVV3Zoyjw+A2N/aua2BUhgpvUw3n19bj0KInF6aTb/TECJwbtoPdfHgHB176QmPoAdv3khLg1eRwgaC7GDQEX2Llsz1KDktLkdk207osmrXhZp9CaICglAOU0RoToqAwNf0pJ6Gm1bCoCSs7PgjDJWfi0xnxBesNVVyG2w+2OYPkQ8yCbTfu1JQ/NceKjOqOFAG7I0J5rYBhEF3OWflFWLFivYp05PtwhH5ECVYO4dR5GrmVYjOtY6Zj7VyhGmck0BqQ9erMHQNnBow8RKQcQLEjLDCIojd77Qcv3TxoEf7CL+7hp9+9MyCX6dFdpP0LiA1hU5E+d4fG4=;G2Zph/pRH9hIff4OJTtxTg=="
 ---

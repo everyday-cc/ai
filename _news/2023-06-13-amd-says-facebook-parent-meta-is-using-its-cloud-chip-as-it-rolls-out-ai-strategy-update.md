@@ -223,20 +223,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 34
-  - title: "AMD shares are trading higher following a report suggesting Amazon's cloud unit is considering using the company's AI chips."
-    excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want ..."
-    publishedDateTime: 2023-06-14T11:22:00Z
-    webUrl: "https://www.benzinga.com/wiim/23/06/32851955/amd-shares-are-trading-higher-following-a-report-suggesting-amazons-cloud-unit-is-considering-using"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Amazon mulling use of AMD chips for AWS, eschews Nvida cloud system"
     excerpt: "Whether AMD will be successful in its attempt to take share away from dominant player Nvidia in the AI chip market is uncertain."
     publishedDateTime: 2023-06-14T20:57:00Z

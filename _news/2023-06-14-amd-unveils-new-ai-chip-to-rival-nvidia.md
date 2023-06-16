@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Morgan Stanley says Nvidia is the top pick for artificial intelligence over AMD"
+    excerpt: "Nvidia is the way to go to capitalize on the artificial intelligence boom, according to Morgan Stanley. Analyst Joseph Moore switched his top pick to Nvidia from Advanced Micro Devices, and hiked his price target,"
+    publishedDateTime: 2023-06-16T09:03:00Z
+    webUrl: "https://www.cnbc.com/2023/06/16/morgan-stanley-says-nvidia-is-the-top-pick-for-ai-over-amd.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 63
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107249321-1685630435513-gettyimages-1494623399-0j5a0211_n4plkmvu.jpeg?v=1686913396&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Morgan Stanley loves these 5 global A.I. chip stocks that could take Nvidia's market share"
+    excerpt: "Morgan Stanley is \"overweight\" on all five of the semiconductor stocks, and increased their price targets in a June 11 note."
+    publishedDateTime: 2023-06-12T22:04:00Z
+    webUrl: "https://www.cnbc.com/2023/06/13/morgan-stanley-5-ai-chip-stocks-that-could-take-nvidias-market-share.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 59
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107203248-1678120520555-A100_3.jpg?v=1686614674&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AMD reveals new A.I. chip challenging Nvidia's dominance"
     excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday, June 13, gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp. The California-based AMD said its most-advanced graphics processing unit (GPU) for AI ..."
     publishedDateTime: 2023-06-14T09:41:00Z
@@ -41,15 +69,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "Nvidia's Lead in Generative AI Market Unchallenged Despite AMD's New AI Chip Launch: Analysts"
-    excerpt: "Nvidia Corp (NASDAQ: NVDA) peers have struggled to gain traction in the generative AI chip war as the former grew in leaps and bounds."
-    publishedDateTime: 2023-06-15T18:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-lead-in-generative-ai-market-unchallenged-despite-amd-s-new-ai-chip-launch-analysts-1032392804"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
 
 secured: "9NtGNXTEO93JTMphCOQNLo/nyfWdGZvjk7aG8L9HlSgJzJNKGyath1sM8WYdP9WzeDSVoo3jMIZrOillL03ZUcQ4AMfk036MVGkR8n7lCaLphBqEsGJTnEMR9WHH5z8uCHnQ+J5TV9EUsg3OQKMkZdvw6YLGWFyfGb/eIZYQvMlL0hy3RWT72WwD7NT+0pny2zlPBcyT+sLNxCug3rRmi378Y0A+hkVI/5kCtGe39fd4hWrRiwA0WVoDjCUw9GlwCSqGA4DoQTabW26kV4C20F49XAm8cBBmKCHnaDc6wNn8FE/2AJyd+xckKw9FRcQxAkiaFGMZ2UMZMKyUwzebnn1+ghsXPPU3XkxX2iSw9FI=;xeJsYb2nEdNzOpFmz7Pv0A=="
 ---

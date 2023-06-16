@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ocregister.com/2023/06/14/california-professors-test-out
 cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/06/14/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/amp/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Hits The Water In Electric Boats As 2026 California Mandate Looms"
+    excerpt: "With a state deadline approaching to electrify short-run ferries and millions in funding to do it, climate focused maritime startups are flocking to San Francisco."
+    publishedDateTime: 2023-06-16T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6483792e6d12c36843fbe46d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 876
+        isCached: true
   - title: "California professors test out AI in the classroom, even as cheating debate continues"
     excerpt: "The AI got key details of the plot wrong in some cases, Loden said. In the film, for example, protagonist George takes his girlfriend to a lake and she falls in and accidentally drowns, but ChatGPT says that he purposely killed her there."
     publishedDateTime: 2023-06-16T04:38:00Z

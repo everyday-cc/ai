@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "New Neural Processor Aids in Adding AI to Small, Low-Power Vision Processing Designs"
-    excerpt: "From video doorbells to modern vehicles, the types of applications that rely on cameras are growing. For many of these systems, having access to real-time,"
-    publishedDateTime: 2023-06-15T15:20:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/54249/new-neural-processor-aids-in-adding-ai-to-small-low-power-vision-processing-designs.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 12
-
 secured: "RB4foeaagTJbGdi/Gd9xUgje6M15aelgsYw2hsVFpZ4o2O7DNFB9IzybFwzAMoRb0OsOBl4gTM1ddgQAiJt3Vve4KTdhjpkcicYW3H/nqKpo6kRnaIylc/Vm2xBkJgQgLCzX2QSaHHwm/hgRBfVgdQEezREFRWb96vN+xSe1zh5hJu4bp+xedl4CFu7IQZ+J6KwyUdTiyJEmUC/8UsUw3XbisYvqsP1AsAaLxVHqu2mOUEAUTFyZoJhFo9FWdF+7LYsabEwy+ThUI2NvImtc9WTYqtsoKQ5koBbKVIMlD67yMUPtj2kIM7phEMJF/RSTINZ2IYP9yyUeIGeeD3bGfcJ8e8OYqcmrdq3cSOJcBF0gCpVfSDUtVLcnrueAGjpn4JqIC5BmRwFF9kJY1ferygDdIU7MmbEdzmD7lXoO/qJYwMUWir6Y7DRF+EyhghMyanexTr0eAiEGg8ePCdu4+riUhNlODrYdwlMLujPL7qM8L4TQgbnNW0RV8YdO8QK4Z2PjiEXT088ccbE9a4FESg==;3HYXHOrD7wUIvegBt3e00g=="
 ---
 

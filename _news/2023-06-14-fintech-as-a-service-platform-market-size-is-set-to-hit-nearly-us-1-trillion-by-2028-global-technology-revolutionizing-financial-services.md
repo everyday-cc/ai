@@ -117,6 +117,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 0
+  - title: "The Future is Hybrid: Financial Services, the Fintech Industry, and Data Centers"
+    excerpt: "In today's digital landscape, fintech has revolutionized the financial services industry, with seamless and convenient ways to manage finances. To achieve this, Fintech companies generate vast amounts of data,"
+    publishedDateTime: 2023-06-16T10:59:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/whitepapers/the-fintech-industry-and-data-centers/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 0
 
 secured: "H92pu2Yyx6YpAeJptnZVkFdpYJeG7CfstSdnuyAVrlvlRq0jAS8iFiMR608012jo9QF1BGeD6KwU3YuyUS36NlPakJM72TcjjhAPGVgHhg8RKQb148T/3F8/UbVHxim2+NI86WiP/BI1D1lK3W1lNkonzLOnCDdXSou3+jyD2tBfsu8x4N0BqACpsNZ4BVeSNR9n6jxuLgZy+JTlJ6ycdQldVby8W2D6ydGXZHYKKnasKKZ4CYl5M50eCOpKrpUUiRnloKXxI+yRH12lgbnCTeYxp8gPgPDelMpFACZRFp1q2fh2NA9Q15xEWGF00PZaNEumXNkNEbkvFlTS994P+4bGU4ZqcPfilIUqdse+Euk=;bKFPS2/UMuBf9AjrXWykRw=="
 ---

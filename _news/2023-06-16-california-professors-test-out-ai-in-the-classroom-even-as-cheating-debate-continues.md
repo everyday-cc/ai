@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AI Hits The Water In Electric Boats As 2026 California Mandate Looms"
+    excerpt: "With a state deadline approaching to electrify short-run ferries and millions in funding to do it, climate focused maritime startups are flocking to San Francisco."
+    publishedDateTime: 2023-06-16T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6483792e6d12c36843fbe46d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 876
+        isCached: true
   - title: "California college professors test out AI in the classroom, even as cheating debate continues"
     excerpt: "While some remain concerned about students using ChatGPT to cheat in class, a growing number are choosing to encourage AI’s limited use in classroom assignments."
     publishedDateTime: 2023-06-14T14:39:00Z

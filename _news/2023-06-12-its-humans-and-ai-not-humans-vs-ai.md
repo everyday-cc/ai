@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-human
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -141,6 +141,20 @@ related:
       - url: "https://images.axios.com/S5uxPQgcy_YhlEyG7eTEeKAxZXA=/0x0:1920x1080/1366x768/2023/06/12/1686601340141.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Artificial Intelligence and the Future of Jobs"
+    excerpt: "The growth of artificial intelligence (AI) is driving fearful discussions around the disappearance of jobs and tasks that are traditionally done by humans. This has particularly impacted the working class,"
+    publishedDateTime: 2023-06-16T11:33:00Z
+    webUrl: "https://themedialine.org/mideast-mindset/artificial-intelligence-and-the-future-of-jobs/"
+    type: article
+    provider:
+      name: The Media Line
+      domain: themedialine.org
+    quality: 39
+    images:
+      - url: "https://themedialine.org/wp-content/uploads/2023/06/ai-artificial-intelligence-humanoid-robot-talking-human-consult-advise-wisely-project-development-generative-aix9xa-e1686915161791.jpg"
+        width: 2560
+        height: 1438
         isCached: true
   - title: "What happens when the god AI arrives"
     excerpt: "When pioneers in the field of artificial intelligence start to worry about their creations, we should pay attention. But do people really have reason to fear?"

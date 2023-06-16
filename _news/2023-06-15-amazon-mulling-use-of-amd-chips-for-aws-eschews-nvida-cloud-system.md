@@ -231,20 +231,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 27
-  - title: "AMD shares are trading higher following a report suggesting Amazon's cloud unit is considering using the company's AI chips."
-    excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want ..."
-    publishedDateTime: 2023-06-14T11:22:00Z
-    webUrl: "https://www.benzinga.com/wiim/23/06/32851955/amd-shares-are-trading-higher-following-a-report-suggesting-amazons-cloud-unit-is-considering-using"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "5KJ2qRBDcH5H5xDZjf/YaoWKxd1x/NPVXY2kFt/xx/iTzlMuQYN54t8D7fBmz8HxPFoCKZPMm33VRof0vjUeDVCiPVx7r+PGsPDgkX2R9D/eUnbWP0v9HlNHD90Q7zQtoixQZPtpIBXcrK/yDeO/1k9Zsbn9608eNoQQKYWBs3NXW30cei8JETNhgzn/ypUcgQEw6hpwKzBtU5Ovg5ZO4WN/NWlaveWYnUx3usoCTANtViVLtRiCD64GRRCDsxMc5JEzHYhXtn+txynerhxUPrgVb4h8wDaBdgFGMS7NubD+7Ago+InJCBYs6kFeL5htGhrVifl4gAgoY78qNvHmLi36onJ0UEcWp2qqh1TvXbj5RGhHcW9ayHHHWfhCrW97bvr8o05XaylHIBNN3kAIY99f2LttDBfKhkTxqOMO1lrW3X9Ew0SpwUrx6QvePJ5alGXvsCbwfZK20aOxD43Adh2NR0kQM9NX82/7k7FsZ6Q+CBaaootLUWrO/L/DlYa6R8fOEncd4k63B/HZzfu25g==;rQnGZLSJMNFyLxirceuwxA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/amp/"
 type: article
 quality: 104
-heat: 128
+heat: 129
 published: true
 
 provider:
