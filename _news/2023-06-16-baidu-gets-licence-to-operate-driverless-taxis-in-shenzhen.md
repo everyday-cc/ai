@@ -35,22 +35,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Baidu Launches Commercial Fully Driverless Ride-Hailing Service in Shenzhen, Expanding Nationwide Operations"
-    excerpt: "With its dedication to innovation and its relentless pursuit of excellence in autonomous driving technology, Baidu is positioned to enhance its role it as a key player in China's intelligent transportation industry. Founded in 2000, Baidu's mission is to ..."
-    publishedDateTime: 2023-06-16T13:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32892653/baidu-launches-commercial-fully-driverless-ride-hailing-service-in-shenzhen-expanding-nationwide-o"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32892653"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32892653"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Baidu gets commercial license for driverless taxis in Chinese city Shenzhen"
     excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
     publishedDateTime: 2023-06-16T14:14:00Z
@@ -65,6 +49,15 @@ related:
         width: 750
         height: 490
         isCached: true
+  - title: "Baidu Launches Commercial Fully Driverless Ride-Hailing Service in Shenzhen, Expanding Nationwide Operations"
+    excerpt: "Having provided a total of more than 2 million rides by Q1 2023, Apollo Go is the world's largest autonomous ride-hailing service provider. This expansion significantly broadens the scope of Baidu's commercial fully driverless ride-hailing service operations nationwide and paves the way for future expansion to paying users across China."
+    publishedDateTime: 2023-06-16T13:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/16/9834394.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
   - title: "Baidu Secures Regulatory Nod for Autonomous Ride-Hailing in Shenzhen, Threatens Competition in Chinese EV Market"
     excerpt: "Baidu, Inc BIDU bagged a license from regulators to offer ... On Thursday, Chinese electric vehicle maker XPeng Inc XPEV rolled out its assisted-driving technology in Beijing and three other cities. After winning regulatory approval, it became the ..."
     publishedDateTime: 2023-06-16T13:05:00Z

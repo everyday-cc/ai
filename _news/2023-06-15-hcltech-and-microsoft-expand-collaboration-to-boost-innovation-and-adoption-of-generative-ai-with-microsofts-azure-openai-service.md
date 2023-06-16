@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Microsoft’s stock rallies to record close as more analysts see AI leadership"
+    excerpt: "A previous version of this article incorrectly stated Microsoft’s previous closing record price. It has been corrected. Microsoft Corp. shares rallied Thursday for a sixth consecutive day of gains and closed at a record high as investors focused more on the tech giant’s artificial-intelligence roadmap and less on the stalled $69 billion acquisition of videogame publisher Activision Blizzard Inc."
+    publishedDateTime: 2023-06-16T12:16:00Z
+    webUrl: "https://www.marketwatch.com/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 101
+    images:
+      - url: "https://images.mktw.net/im-801260/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft’s Satya Nadella Is Betting Everything on AI"
     excerpt: "Satya Nadella—and Microsoft, the company he runs—are riding high on the buzz from its search engine. That's quite a contrast from the first time I spoke with Nadella, in 2009. Back then, he was not so well known,"
     publishedDateTime: 2023-06-13T10:00:00Z

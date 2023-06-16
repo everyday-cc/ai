@@ -181,7 +181,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Jaclyn-headshot.jpg?w=1200&strip=all"
         width: 1200

@@ -153,6 +153,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Asia's Opportunity for Generative AI"
+    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
+    publishedDateTime: 2023-06-16T19:36:00Z
+    webUrl: "https://cacm.acm.org/news/273906-asias-opportunity-for-generative-ai/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
   - title: "Introducing Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization"
     excerpt: "Cognite, a globally recognized leader in industrial software, today announced the launch of Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization. Cognite AI, a comprehensive suite of Generative AI capabilities within Cognite's core Industrial DataOps platform,"
     publishedDateTime: 2023-06-15T07:16:00Z

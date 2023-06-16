@@ -187,7 +187,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Jaclyn-headshot.jpg?w=1200&strip=all"
         width: 1200
@@ -313,6 +313,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "gG03lF6P6Y9V4GzVqTa/10UKPcsyI/VIwq/BznWlF21fZLBLGnvJ5xYQb50wneMV3Y2m6CowvGAXJ7B6lRoNZcTGZwm3j/6hv2WSv2HWFv1ZZ8x/bRu4JC8YsQZ+VUUAQCvXTmenZfRdWu7C70N2W9mzp5mR7N+J8MIL5is9XTfFPybQtocaIegkqr4E1+i5DMZtdvkKhgloA+W2PAUWsLUjapWZobsgreOPPOLXkIGWTnEJzRug9akCO9wJYzGU3iZiMkN+v4jvkBOuqW1SSp2h0RvUn0MZgVkiR3M5uwerZVwA3yuNHGgm1q3qRbUjT3Rty9mUKRAjJrg+4taUZczEmuNlzylCiCxYWc7Afq8=;oduvGoHacOcoZiyCjyHUAg=="
+secured: "PtXaKMIWlixhO3CAnsk8Q35SNQhyY4+oMsSil+xl3iUAwRFcXTTDBgY5ThhaAyLrD0o+Pp7AWJjZjkAkPEcNtXABKG8Y6WU0phiFFcdC4/gwME3bZMSCPWQ3N76WuWe21AEizCc07bR2FkSQ67dx/Y9QbJK3Mub0T/YBnYwVS7pTdy3OXpal0XRrd5en0pAg8K/NHxNsNphGRElvSSIdGnIRdidkZeHox6VvxIdHCo1WpUBq6VQYSUClN/AZ1zXql7M6zJTxJJcU5zOPDFypDZdpsYsLWvRW+G/30bmHUOkNSddoOtUWV6oxW5B87af5N7cB0TwQvOREIpLOF0cHTFDyG3LaBfTAr+rXE3L49mjXjIMkO+IT0ldeeYsSyyKDMn/NRen+wPnZdfk1YeTM6wXroFPscbCmH8Tmr9t4QD1yFgfDIR0YTVrmXcXpnRF6JflsRBREa/SthOYRFu2Eq2fuMFkHRp8r7XG5looe09w7/eDcSHLEup2Co59INQNULzKPr/6gxtGidcRgjGiEmA==;rLA5dfGASy2b68fOrZqKlA=="
 ---
 

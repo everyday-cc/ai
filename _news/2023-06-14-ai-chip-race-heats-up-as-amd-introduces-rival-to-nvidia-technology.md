@@ -3,12 +3,10 @@ category: news
 title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
 excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
 publishedDateTime: 2023-06-14T14:38:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
-webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+originalUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
+webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
@@ -19,12 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/Business/wirestory_13e81c67d6ca5dea0c1ccc147feb6487_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "TSMC stock gains on report that Nvidia AI-chip order has boosted production"
@@ -304,6 +296,6 @@ related:
       domain: bizjournals.com
     quality: 27
 
-secured: "r2IH2TZcQDFgdR5ccc/DLkY9JtrqBcbxtP7jOz19O5cOaziRKQ0TMTf2Z4fRpyC+ulcnRZggJXSgd9MEmKfcNZNv27XVwLeW8UdVDzyeHo8XZAP6TbR6aamiE4CuUoPzA95MJdaQ6CywAB5euJ/ZLAqLCAhgzjoC80u28YzUsYzpS/yUGdFpMnMyLJJYIHIf9HMRN+YF7vO9s4+IXhcdnPgxgvTy1M9ug0omqzcJCMkHMA80XU9Dkltw06Y6ku05G8f05jNNYJANipG4VvVg1qZjGqhrp7xuoWaRuw7LV5Z4KhT0T7V98ufLD18eBo9YqJ797cVvk27WFwpfL/9jGRdDp7fC1B5UzvTyhzojnjg=;CeFoCJdRZ+J7AHDjpXuwPQ=="
+secured: "lUT3mXFtGppi+kh0RSsP2AA6NWLL3WlaDT8rEIrQ5v4RtYJbozu3ThCbDhKQxPwts0EzK99CF7NvhdlkvB8lI0u13H74oO3iAjE2bNmDUFPiCJDhJHuzWAsz6ff+xxfZuQB+mMhEFGWpUOh7RmHky2GRGHab6d+wjnc+NHzhftnQnduFhbFyqoitdG0L7+52UUfb9eUkzmMifMLwIV4oied2RhiJVB5Jb/pi+ICuk2TVnOcrZ5dEIytO0oKXoa6581od71tFwBifYkO5gNWKymWZdgwPUoLdvD829xlvcRykVU+XVoCPJMP5aCJ35xVhpza5UZLttO2tVDs0K9LDuK19CzZc4802QT1dc+O/5Pp1XGjsXM8sAVpNm4AM3YVjT3j21lCUr8p2d6y+VIoBOg0aMl8DykDThPZXigDlRk8JcOfNQ3QeW3LTy+FnejgbbQ4BujYQ2lSMqyH25/KYX0NH62JhD3AqHKo9YEEAGkXSHyRJ3RrHqlUViuu9+uOaeBfTzRYf3Z321XxxRLXUaQ==;FNKmDlK7XOko0+0YrkfXIg=="
 ---
 

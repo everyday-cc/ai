@@ -73,22 +73,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
-    excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
-    publishedDateTime: 2023-06-14T14:38:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 74
-    images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_13e81c67d6ca5dea0c1ccc147feb6487_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "AMD CEO Sees $150 Billion Future In AI, New Chip To Take On Nvidia"
     excerpt: "AMD's new GPU, the MI300, is specifically designed for large language models such as GPT-4. The company will rollout MI300 to customers in the third quarter, with full production planned end of year."
     publishedDateTime: 2023-06-13T23:09:00Z
@@ -279,6 +263,15 @@ related:
     provider:
       name: WSAY
       domain: wsau.com
+    quality: 34
+  - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
+    excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
+    publishedDateTime: 2023-06-14T14:38:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 34
   - title: "AMD Leaps As Chipmaker Takes On Nvidia In $150 Billion AI Market"
     excerpt: "\"We have a chip that is incredibly powerful and we believe will be a significant winner in the AI market,\" said AMD CEO Lisa Su."

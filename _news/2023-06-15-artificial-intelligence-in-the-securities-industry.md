@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/artificial-intelligenc
 webUrl: "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1499
         height: 1239
         isCached: true
+  - title: "AB: Will AI Transform the Healthcare Industry for Investors?"
+    excerpt: "Healthcare companies are beginning to explore how artificial intelligence (AI) might unlock efficiencies for patients and medical systems."
+    publishedDateTime: 2023-06-15T14:31:00Z
+    webUrl: "https://www.csrwire.com/press_releases/776746-ab-will-ai-transform-healthcare-industry-investors"
+    type: article
+    provider:
+      name: CSR Wire
+      domain: csrwire.com
+    quality: 34
   - title: "Immediate Industry Impacts from Gen AI in BWX"
     excerpt: "Attend the translation and localization industry’s leading events, network with thought leaders, and grow your career and business online."
     publishedDateTime: 2023-06-15T12:21:00Z

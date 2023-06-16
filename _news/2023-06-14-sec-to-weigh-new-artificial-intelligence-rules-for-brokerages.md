@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-13/sec-to-weigh-ne
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-13/sec-to-weigh-new-artificial-intelligence-rules-for-brokerages"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Putting the ‘artificial’ in intelligence: the morality of the digital mind"
-    excerpt: "Artificial intelligence is, well, artificial. And the use of ‘intelligence’ in this label is a misnomer. AI machines cannot think. They are just (increasingly) very,"
-    publishedDateTime: 2023-06-12T02:39:00Z
-    webUrl: "https://www.spectator.com.au/2023/06/putting-the-artificial-in-intelligence-the-morality-of-the-digital-mind/"
-    type: article
-    provider:
-      name: spectator.com.au
-      domain: spectator.com.au
-    quality: 22
-    images:
-      - url: "https://www.spectator.com.au/wp-content/uploads/2023/06/AI.jpg"
-        width: 730
-        height: 486
-        isCached: true
 
 secured: "2ZZLsVgmq0XHwm1uFQ+VBEAomUkySu01ozspkotWZxodT8VlxdJwabb+ndebzcyBZ16EtLtopcAnnncWjlzQldaLLdigYIYHw1vLY5QprztfXCzberycDBrYo9OmV+GFeyj1V9WycOAhyTA+wVlKNed9SYhfAxxg6QLFE3Zh/hbxqRB92+bATXN12TqzVGCUuRXukaQLBM+wt2VBo++eD8aIu0j7Kl0R9888kRoqRTy8K7XHy3C8hMTGMpdlWpuolk23ItZJISxlhHI1ikVUi0NwYv7sx3qBobylar/Z8idR72TQ+wgesTXuMvzmpY91k9Vl38Q6vcTJ97p9bwz4Q7DNsAEwmiKdpBPIXH17sxrIu+0AbYCWF4I49QjOsSDhQZBm1PVwZSiZFMjeTDUaX91VAsIrcvQFSNBwSfQRttPUo0F1rEw5X4zVeC8IYwtW9tmMfmvVLmwPBSg54wJEnISJegqT+yEb7iTywdFht/UY7pg71xXNOCpDn+7YRxtHFgUdKgA60qIBb77LJKFTMg==;ZBSFtR8R3h1d2ktcsng2ug=="
 ---

@@ -22,7 +22,7 @@ related:
   - title: "Secret Messages Can Hide in AI-Generated Media"
     excerpt: "In steganography, an ordinary message masks the presence of a secret communication. Humans can never do it perfectly, but a new study shows it’s possible for machines"
     publishedDateTime: 2023-06-15T16:40:00Z
-    webUrl: "https://www.scientificamerican.com/article/secret-messages-can-hide-in-ai-generated-media/"
+    webUrl: "https://www.scientificamerican.com/article/secret-messages-can-hide-in-ai-generated-media/?ref=upstract.com"
     type: article
     provider:
       name: Scientific American

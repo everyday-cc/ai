@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-r
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
 type: article
 quality: 50
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dog dies after being hit by self-driving car in San Francisco"
-    excerpt: "A dog has died after being hit by a self-driving car last month in San Francisco, according to California's Department of Motor Vehicles."
-    publishedDateTime: 2023-06-12T01:30:00Z
-    webUrl: "https://www.ktvu.com/news/dog-dies-after-being-hit-by-self-driving-car-in-san-francisco"
-    ampWebUrl: "https://www.ktvu.com/news/dog-dies-after-being-hit-by-self-driving-car-in-san-francisco.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/dog-dies-after-being-hit-by-self-driving-car-in-san-francisco.amp"
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 44
-    images:
-      - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/06/932/470/GettyImages-1497020112.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Self-driving car hits and kills small dog in San Francisco"
     excerpt: "An initial review indicated that the Waymo’s system correctly identified the dog, which ran from behind a parked vehicle. However, the vehicle was unable to avoid hitting the animal."
     publishedDateTime: 2023-06-12T10:25:00Z

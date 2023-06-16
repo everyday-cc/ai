@@ -91,6 +91,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "How to access, install, and use AI ChatGPT-4 plugins (and why you should)"
+    excerpt: "ChatGPT-3.5 is useful. ChatGPT-4 can be very useful. But, for the most useful version of ChatGPT to date, you need to add, implement, and use ChatGPT-4 with plugins."
+    publishedDateTime: 2023-06-16T20:00:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/71db8dcabc6a9af772ff36d22386eb58ecefc7ec/2023/06/16/30a23833-79b1-4a6e-8e16-60d90aaf9a83/gettyimages-1250609807.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "This free AI tool can write your cover letters, and its easier to use than ChatGPT"
     excerpt: "When looking for a job, you're likely applying to several positions at a time -- each requiring a uniquely hand-crafted application. Cover Letter Copilot has you covered."
     publishedDateTime: 2023-06-15T20:19:00Z
@@ -164,6 +180,15 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 54
+  - title: "Even Google is warning its employees about AI chatbot use"
+    excerpt: "Anything you say to an AI chatbot like ChatGPT, Google Bard, and Bing Chat can be used to train it, as these bots are based on large language models (LLMs) that are in constant training. The companies behind these AI chatbots also store the data, which could be visible to their employees."
+    publishedDateTime: 2023-06-16T18:57:00Z
+    webUrl: "https://www.zdnet.com/article/even-google-is-warning-its-employees-about-ai-chatbot-use/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Is your workplace using artificial intelligence or tech like ChatGPT? Tell us about your experiences"
     excerpt: "Artificial intelligence (AI) is set to transform industries and revolutionise the way we work, and the ABC wants to hear from you — how are you using AI in your workplace? Whether you work in healthcare, finance, manufacturing, or any other field ..."
     publishedDateTime: 2023-06-14T05:58:00Z
@@ -261,6 +286,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "AI ChatGPT Responds to UN’s Proposed Code of Conduct to Monitor Artificial Intelligence"
+    excerpt: "As artificial intelligence (AI) turns into a global phenomenon, it has triggered widespread speculation on both its positive and negative consequences. Is AI technology threatening to go wild? the sceptics question."
+    publishedDateTime: 2023-06-16T18:29:00Z
+    webUrl: "https://www.ipsnews.net/2023/06/ai-chatgpt-responds-uns-proposed-code-conduct-monitor-artificial-intelligence/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 26
   - title: "Amid global ChatGPT obsession, UAB conference examines AI’s role in advancing health care and research"
     excerpt: "Experts at ATTIS 2023 shared reports from the front lines, including how they are using ChatGPT in their labs, the need for regulation and why this is a “tremendous time” for health care."
     publishedDateTime: 2023-06-14T17:02:00Z

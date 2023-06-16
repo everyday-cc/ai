@@ -89,6 +89,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "How to access, install, and use AI ChatGPT-4 plugins (and why you should)"
+    excerpt: "ChatGPT-3.5 is useful. ChatGPT-4 can be very useful. But, for the most useful version of ChatGPT to date, you need to add, implement, and use ChatGPT-4 with plugins."
+    publishedDateTime: 2023-06-16T20:00:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/71db8dcabc6a9af772ff36d22386eb58ecefc7ec/2023/06/16/30a23833-79b1-4a6e-8e16-60d90aaf9a83/gettyimages-1250609807.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "This free AI tool can write your cover letters, and its easier to use than ChatGPT"
     excerpt: "When looking for a job, you're likely applying to several positions at a time -- each requiring a uniquely hand-crafted application. Cover Letter Copilot has you covered."
     publishedDateTime: 2023-06-15T20:19:00Z
@@ -176,6 +192,15 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "Even Google is warning its employees about AI chatbot use"
+    excerpt: "Anything you say to an AI chatbot like ChatGPT, Google Bard, and Bing Chat can be used to train it, as these bots are based on large language models (LLMs) that are in constant training. The companies behind these AI chatbots also store the data, which could be visible to their employees."
+    publishedDateTime: 2023-06-16T18:57:00Z
+    webUrl: "https://www.zdnet.com/article/even-google-is-warning-its-employees-about-ai-chatbot-use/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Is your workplace using artificial intelligence or tech like ChatGPT? Tell us about your experiences"
     excerpt: "Artificial intelligence (AI) is set to transform industries and revolutionise the way we work, and the ABC wants to hear from you — how are you using AI in your workplace? Whether you work in healthcare, finance, manufacturing, or any other field ..."
     publishedDateTime: 2023-06-14T05:58:00Z
@@ -259,6 +284,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "AI ChatGPT Responds to UN’s Proposed Code of Conduct to Monitor Artificial Intelligence"
+    excerpt: "As artificial intelligence (AI) turns into a global phenomenon, it has triggered widespread speculation on both its positive and negative consequences. Is AI technology threatening to go wild? the sceptics question."
+    publishedDateTime: 2023-06-16T18:29:00Z
+    webUrl: "https://www.ipsnews.net/2023/06/ai-chatgpt-responds-uns-proposed-code-conduct-monitor-artificial-intelligence/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 26
   - title: "Amid global ChatGPT obsession, UAB conference examines AI’s role in advancing health care and research"
     excerpt: "Experts at ATTIS 2023 shared reports from the front lines, including how they are using ChatGPT in their labs, the need for regulation and why this is a “tremendous time” for health care."
     publishedDateTime: 2023-06-14T17:02:00Z
@@ -310,6 +344,6 @@ related:
       domain: azcentral.com
     quality: 10
 
-secured: "m9+QJEuEr0hKk0rRzS2b9A9l4aAuGyQ6SrLmGMhXHQFTQIRGAzBHMxZsJWDtH0bIt/YPY3D2YodgleBjfhJxM23m91oOBhZJXqbcF0gl8F+TpbPgqPHvIfK7mIRyTi7GM7BIQs6aXQnhnCD1P+suInb64UDy56GyeDhOfuxQ5DteJ5HM+9/MyHbNHoe6ZHutVSB5fep+Sv05u7GSvOxaQl7XfIj4H0qd9zogY9Jal86IkFS9cLVCyRs4g7oZCSs35vmpD3Nc8IdsBX251CJ1HKJqqUWTr/JH3FYCWsfG+7kjNg1DIloy1MGUqeY4ssxviUTsiGlbYqu1s7stjHwPO6e34CjUNiPY70gJNr8HD5c=;h2K5uVFYDg2L6JkB4q6UNw=="
+secured: "nCY8n2mr0EkyFskKag+QYkrr9yYx3K4L/6AZN4JoIavIrpIuSW2xAkbIWgdK0mmrFqX3ErFGCqM0b0Z79RNtMrIQmeX2fnGoWXj49YWQImIO+UP1/HXy1+yICQQ6Bw0H+w51dNg1oDdR48JxfhqyH4WGAWy+6Fc+mwKrgQTw5oNL7icbIW9d2cClVxmtOKkmbvGvT05jMIW6SXGFZv0l+kbcEZlZ8GCEAhb0H0cmsS6XGngHgl7UHU+YsyWeAH9zE+t5oU+5veOSPR1yG/sL2pQ+MXUHpjfsviYoK3lzMVVSJW8A9WZTaj/YC0NcVpOQOoyxDnJFq/sR/vFvJKXBYsIdrqsibdsv8Yv+M9mIugPWX0dcNPJrxs6DRTkotz+5hx8j1wiOwR/vsdmUkn38NtEaJegiLnDmXKfQt82HoXxTDWRwBU1rt3akmdzCgcJykObwBfiq165o++dsidEDr+rfrGUFyt+BiYHZZ2J6afkOkkEmaCNW5LiBiXGcy7CtHM4s+i4KDRUYfj6hZ2Td9A==;WiAAFCJBQxBlU7kSVnEQoQ=="
 ---
 

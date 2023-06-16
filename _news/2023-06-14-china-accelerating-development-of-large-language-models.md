@@ -25,73 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Zoho to develop large language model for generative AI"
-    excerpt: "An LLM is a deep learning algorithm that can recognise, summarise, translate, predict and generate content based on knowledge gained from massive datasets."
-    publishedDateTime: 2023-06-15T02:43:00Z
-    webUrl: "https://www.newindianexpress.com/cities/chennai/2023/jun/15/zoho-to-develop-large-language-model-for-generative-ai-2585145.html"
-    ampWebUrl: "https://www.newindianexpress.com/cities/chennai/2023/jun/15/zoho-to-develop-large-language-model-for-generative-ai-2585145.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2023/jun/15/zoho-to-develop-large-language-model-for-generative-ai-2585145.amp"
+  - title: "Unlocking VC Investment: The Key Element For Large Language Model-Backed Startups"
+    excerpt: "How a startup can stay competitive and defensible when building its core based on large language models such as ChatGPT?"
+    publishedDateTime: 2023-06-15T13:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/unlocking-vc-investment-the-key-element-for-large-language-model-backed-startups/"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/4/7/w600X390/declare_AI.jpg"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "Oracle trains generative AI to create model for medical, 1st responders"
-    excerpt: "Oracle and AI startup Cohere are partnering to develop generative AI services for healthcare, with Oracle using its own data to train Cohere for medical professionals."
-    publishedDateTime: 2023-06-14T14:48:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/oracle-trains-generative-ai-to-create-model-for-medical-1st-responders.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "China Focus: China accelerating development of large language models"
-    excerpt: "At the recently held 2023 Zhongguancun Forum a generalist large language model LLM using visual cues to perform arbitrary segme"
-    publishedDateTime: 2023-06-14T16:15:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273865227/china-focus-china-accelerating-development-of-large-language-models"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "China Focus: China accelerating development of large language models"
-    excerpt: "China's general-purpose LLMs application is expanding from office and entertainment to fields such as healthcare, the industrial sector and education, according to a report released by the ISTIC."
-    publishedDateTime: 2023-06-15T02:32:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202306/15/WS648a70d6a31033ad3f7bc686.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202306/15/648a70d6a31033ad342b0d04.jpeg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Snorkel AI Introduces New Foundation Model Data Platform to Bring the Power of Programmatic Data Development to Generative AI"
-    excerpt: "Press Release Snorkel AI, the data-centric AI company, introduced the Foundation Model Data Platform, powered by its unique programmatic data development approach. With Snorkel AI's Foundation Model Data Platform,"
-    publishedDateTime: 2023-06-12T14:26:00Z
-    webUrl: "https://venturebeat.com/business/snorkel-ai-introduces-new-foundation-model-data-platform-to-bring-the-power-of-programmatic-data-development-to-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 22
+      name: Forbes
+      domain: forbes.com
+    quality: 29
 
 secured: "YS7kegEnMMTH/L6+e32dAWnf/kVOdVtxTaUBAwcPlT/PXo6CxpzsBZPG8zm6ADx4iYli7f8yrbIuH1kQ0M67nrTEIUl5DtNDdCsSwfAXGqNF+N6ShwOcYGFWVbqH1cIJMba5mS19oeD1+ftU09ePhyinW1fBewOJKVvlXl62yJDckVc5ifbPGnAd/+rlJpG2CLTVpUBFY/gB9DIXl55CCXrRv7xN6kq6aCsxUE+JcuLo5W0c/4Jakg4qTOVa/LEAWKxXsGix8/yktOJ24v1jSNHXuXRM3mMzcjHzz12ws65qPbiue9MahfjL3uX6Hj+Zuvjf6P04rpjFLo4urfYd8md3YNBwSE7nYtBt9LOJvRyKrLetFxHWT+HXFVlSya2TZuGmBWFme39DONpfqMP/CmTcUX4B4jFbMjuaCU8wU0EyQwSFd/EcjWvvS2NUrth2kaFxuNWsBga5ubQ7+TsQqGA1DQT5zFzst8JY8ffOVTp/BLfzRBN/pGr7iyCHF9veI97p4RnxV2hnaYbN1tzBpQ==;+vGpl3bHkAgYSMlkZUjQ5w=="
 ---

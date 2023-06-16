@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Baidu Launches Commercial Fully Driverless Ride-Hailing Service in Shenzhen, Expanding Nationwide Operations"
-excerpt: "With its dedication to innovation and its relentless pursuit of excellence in autonomous driving technology, Baidu is positioned to enhance its role it as a key player in China's intelligent transportation industry. Founded in 2000, Baidu's mission is to ..."
+excerpt: "Having provided a total of more than 2 million rides by Q1 2023, Apollo Go is the world's largest autonomous ride-hailing service provider. This expansion significantly broadens the scope of Baidu's commercial fully driverless ride-hailing service operations nationwide and paves the way for future expansion to paying users across China."
 publishedDateTime: 2023-06-16T13:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32892653/baidu-launches-commercial-fully-driverless-ride-hailing-service-in-shenzhen-expanding-nationwide-o"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/n32892653/baidu-launches-commercial-fully-driverless-ride-hailing-service-in-shenzhen-expanding-nationwide-o"
-ampWebUrl: "https://www.benzinga.com/amp/content/32892653"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32892653"
+originalUrl: "https://technews.tmcnet.com/news/2023/06/16/9834394.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/16/9834394.htm"
 type: article
-quality: 55
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Baidu wins commercial licence for driverless taxis in Shenzhen"
@@ -76,6 +68,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "TptVPPJkJbBkYnWY3RNZUREzxK56dLUmDB3Pg0/2YTf+prAF6u1PKUYMjSKmYhMIUusIUvNQliKbX7mA30V82ikWHQviIgLZ9AA2gg6/rOQB5z7b7ki9eibuQ3WLwgjEMwcsXbdOwxaaorZQ8n+4nC9CEmrmMVVA0QvQ1d852iiUL7KTGZUevKW8161f50IIBxLMKxUiY3dYDQn64Jj9rzk6UznjF85KONcNBTrpA9PPbBCNVBMMSv5N4dgKt0KA1uiNM8vA7jLdLXeyke0pqM+Xm+eUcQjJoQYCymF50pNlBpShnPRg0It+xAoEgCfHQkC5YV6BZLHbV1yAyQkbmqZC7YFLj1as31tIyGy8bVE=;dzI+pmru+N5SgOsjl7HyCA=="
+secured: "0syq17kXl9TlttHAsvBDGaxe4ZUaFNwjeT/17tdVn6gDzFI2JG8oG+iWsHt4W/XImxJ8Tphayu0XK6ovs9nSqLZo9RzgwTv9RsIKe3HzyDFOBDJkDGFhbDjuEMasCSz/WLh7KdFviVMCGcP6jIdAQBzwxBgE9exBWfS0IP1vbBRD57frpNJmmLZKB8SuzGvrsbFo7WVBVHteXKzi02E8R9uasKq7bh4o94Ahinsl0KrGCuLMmmoQLG8vHQFp0qnM6e4G8icVDasaCkzPXcVk21A7UShPhW5VMuOICs6nKQljH0+CQaCbrCvpr2lIa63U7LEsA+RxRqMpG3R/Gjt5TOipfHBZ76DmRo2SzOCrocu4+9fNm82u+SBitFs8rFf5zkKsxDFJ+tHr1z+iM83CnWmS1LE9aotsucf+x3cjYcbsba5IP/gbtD0XHCqMROMi5k0cmD2aRVcOmKs47tEbUCuTv7eWFZTZVujeqTshw5ubbny8kVehf7UkjVWrGk7Y97jaVNsQEDXQQQh7qJgGOg==;V7QzlAzb4lEzPsXs6dvqdw=="
 ---
 
