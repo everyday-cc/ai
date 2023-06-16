@@ -60,18 +60,18 @@ related:
       domain: forbes.com
     quality: 47
   - title: "How machine learning and new AI technologies could change the cybersecurity landscape"
-    excerpt: "Drata's analysis found new technology for data handling has security risks on the one hand and potential security benefits on the other."
-    publishedDateTime: 2023-06-15T11:59:00Z
-    webUrl: "https://www.stltoday.com/business/collection_f0d7605d-fa7d-59db-970c-90826c16a8e8.html"
+    excerpt: "Use Next and Previous buttons to navigate How machine learning and new AI technologies could change the cybersecurity landscape The world has never been more online. From work meetings, emails, and texts to shopping,"
+    publishedDateTime: 2023-06-14T23:30:00Z
+    webUrl: "https://www.timesunion.com/personal-finance/article/how-machine-learning-and-new-ai-technologies-18152566.php"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Times Union
+      domain: timesunion.com
     quality: 47
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/04/104b1e4e-1dfc-50b8-ac8f-6b0ec96aa1ce/648a2cae8e33b.image.jpg?crop=1080%2C567%2C0%2C101&resize=1080%2C567&order=crop%2Cresize"
+      - url: "https://s.hdnux.com/photos/01/33/24/11/23937620/6/rawImage.jpg"
         width: 1080
-        height: 567
+        height: 770
         isCached: true
   - title: "From IBM Security to Noventiq: Here are the top cybersecurity brands using AI to combat emerging threats"
     excerpt: "In this listicle, we present the most trusted cybersecurity brands that are effectively utilizing AI to combat emerging threats., Technology & Science News, Times Now"

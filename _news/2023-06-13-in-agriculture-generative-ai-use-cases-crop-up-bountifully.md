@@ -104,20 +104,20 @@ related:
         height: 510
         isCached: true
   - title: "HCL Tech, Microsoft expand partnership to spur adoption of generative AI with Azure OpenAI Service"
-    excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness generative artificial intelligence (AI) and develop joint solutions to enable businesses to achieve better outcomes."
+    excerpt: "HCL Tech and Microsoft have expanded collaboration to boost innovation and adoption of generative AI with Microsoft's Azure OpenAI Service, the statement informed."
     publishedDateTime: 2023-06-15T14:56:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html/amp"
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/enterprise-services/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service/101024921"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service/101024921"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service/101024921"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 75
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/01/HCL-Canada.jpg"
-        width: 1280
-        height: 720
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101024921,imgsize-21104,width-1200,height=765,overlay-ettelecom/enterprise-services/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Rackspace takes a FAIR approach to generative AI"
     excerpt: "Rackspace offers new services to help organizations better understand, build and deploy generative AI workloads in public and private clouds."

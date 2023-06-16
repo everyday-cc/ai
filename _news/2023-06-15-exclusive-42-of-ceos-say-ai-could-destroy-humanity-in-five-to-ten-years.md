@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-ceos-warning/index.html"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.reuters.com/resizer/nWxnRVa8tZitEsJFI8qeg3L-Us8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LAD5NMZL7NOLXAROIUJFCXN5A4.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Artificial intelligence to destroy humanity in 5 years: Top CEOs alarmed by AI’s catastrophic potential"
+    excerpt: "CEOs believe that AI poses a potential threat to humanity within the next 5-10 years, according to a survey of 119 CEOs at the Yale CEO Summit."
+    publishedDateTime: 2023-06-16T01:45:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-to-destroy-humanity-in-5-years-top-ceos-alarmed-by-ai-s-catastrophic-potential-11686879506065.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-to-destroy-humanity-in-5-years-top-ceos-alarmed-by-ai-s-catastrophic-potential/amp-11686879506065.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-to-destroy-humanity-in-5-years-top-ceos-alarmed-by-ai-s-catastrophic-potential/amp-11686879506065.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/16/600x338/AI_robot_1686879859344_1686879865108.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "Survey: 42% of CEOs say AI could destroy humanity in five to ten years"
     excerpt: "Forty-two percent of CEOs surveyed at the Yale CEO Summit this week say AI has the potential to destroy humanity five to ten years from now, according to results of a recent survey."

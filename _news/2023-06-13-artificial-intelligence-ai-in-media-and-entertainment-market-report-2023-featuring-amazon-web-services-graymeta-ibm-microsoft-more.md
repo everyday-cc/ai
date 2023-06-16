@@ -80,20 +80,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Microsoft Extends OpenAI's Language Models to US Government Agencies via Azure Cloud"
-    excerpt: "By bringing OpenAI's sophisticated language models to Azure Government, Microsoft aims to empower US federal agencies with cutting-edge AI capabilities. This move underscores the company's commitment to delivering innovative solutions and advanced ..."
-    publishedDateTime: 2023-06-11T09:04:00Z
-    webUrl: "https://menafn.com/1106422461/Microsoft-Extends-OpenAIs-Language-Models-to-US-Government-Agencies-via-Azure-Cloud"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 62
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_80_menafn.jpg"
-        width: 512
-        height: 262
-        isCached: true
   - title: "Microsoft Teams up With Indian SMBs to Unleash Generative AI Brilliance"
     excerpt: "According to Microsoft research, almost 35% of SMBs surveyed were spending over 10% of their revenue on technology. Not only this, SMBs in India are also exploring leveraging the capabilities of Generative AI."
     publishedDateTime: 2023-06-12T07:37:00Z

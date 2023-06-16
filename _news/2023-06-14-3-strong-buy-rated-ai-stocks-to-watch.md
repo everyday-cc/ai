@@ -19,14 +19,32 @@ topics:
   - AI
 
 related:
-  - title: "Up 35% to 169%, Is It Time to Buy These 3 AI Stocks?"
-    excerpt: "What's more, leadership is bullish that as the AI wave continues to roll across the business landscape, Microsoft will be able to profit from it. The company already has more than 2,500 Azure OpenAI Service customers, and 36,000 organizations utilize AI ..."
-    publishedDateTime: 2023-06-11T08:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/11/up-35-to-169-is-it-time-to-buy-these-3-ai-stocks/"
+  - title: "3 Stocks These AI-Powered ETFs Are Betting On"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Given how popular artificial intelligence (AI) exchange-traded funds (ETFs)"
+    publishedDateTime: 2023-06-14T09:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-powered-etf-stock-picks-to-buy-1032388370"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "How to Retire Rich: AI Stocks Edition"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Not many of us remember how the emergence of the Internet changed our lives."
+    publishedDateTime: 2023-06-14T12:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-retire-rich-ai-stocks-edition-1032388817"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Invest in AI While The Gettin’s Good: 3 Top Stocks for 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The gettin’s good for the best artificial intelligence (AI) stocks for"
+    publishedDateTime: 2023-06-15T09:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/invest-in-ai-while-the-gettins-good-3-top-stocks-for-2023-1032391021"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 49
   - title: "3 Stocks to Buy for Easy Exposure to AI"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is the “next big thing” on the Street. And"
@@ -46,15 +64,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Up 40% This Year, Is It Time to Sell Your Alphabet Stock?"
-    excerpt: "Should Alphabet investors consider cashing in on this AI-influenced bull run by selling some shares? Or will they be better off holding on to the stock because it has further potential to deliver outperformance?"
-    publishedDateTime: 2023-06-11T13:35:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/GOOG-Q/pressreleases/17621453/up-40-this-year-is-it-time-to-sell-your-alphabet-stock/"
+  - title: "These Google AI apps are going to be amazing on Apple’s Vision Pro"
+    excerpt: "Google already has exciting AI apps that can be ported to Apple's Vision Pro spatial computer - here's why they're so interesting."
+    publishedDateTime: 2023-06-15T14:56:00Z
+    webUrl: "https://bgr.com/tech/these-google-ai-apps-are-going-to-be-amazing-on-apples-vision-pro/"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 4
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-vision-pro-official-4.jpg?quality=82&strip=all"
+        width: 1599
+        height: 1066
+        isCached: true
 
 secured: "mX4LryRAMJ0slNDijat9dOpRE2jx31AqeZTyFleFjiQJ2KM1pm1U7uZUWaqMqiZC4f24uv83XyQW1feaTcPeLtMd/ne20ecWA7GT39bI+YXxBjv3Mq22Pzw7jVMIFdE5wKqspGf7OLtyTmTQyh/HjLexMOM7uVBagJwVACkn4kAhpF+06P1AN1BuYg76nNnq4W9my4Dzne5abr4VnkOSIvMCMWy4+08A9P30ys7IlKpmBXxesLuNRZmusp3MqK2IC/DZ6/LbzEpBmcoF+sfwRcLkrXJqwNXaZJEJod8qpMI94jbnIfKBtHQgThIX8j3HB+DwIQ7zjZhOnS+gyMl8uUWV5oP053wAgUWuWkpnhO8uUvKSuVhnkwPZQCTd7AH3tF/Ymo9lUDaRRcXsfCHtsQiMU0TVDh1XJAhRiTgyuH5EtodHqJl0qlF2ymCrkC25wP1WhWqqUqUOlz3DNferVQH7XJbrVCJpsxEv6sxm3TfLQg37v9Esr5MbNjyKm43mInpwtPeRHfmrnSDxIAK/wg==;OQWOGoUCPhRantv+Bn7+EQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voanews.com/amp/cambodian-facial-recognition-effort-rais
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

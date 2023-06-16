@@ -109,14 +109,19 @@ related:
       domain: businessinsider.com
     quality: 34
   - title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
-    excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
-    publishedDateTime: 2023-06-15T00:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/268751"
+    excerpt: "Access to financing has long been a point of contention for micro, small, and medium-sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small businesses include the higher collateral requests by traditional financial institutions (58."
+    publishedDateTime: 2023-06-15T03:00:00Z
+    webUrl: "https://www.thaipr.net/en/business_en/3347796"
     type: article
     provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 0
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 19
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/06/3894075.jpg"
+        width: 800
+        height: 360
+        isCached: true
 
 secured: "MnSQFzhUblj2jgGoCnyLDvgVTpzJTRwjbxYuZ5qvItBG43ARbujS/Zw6DEoGf4ewfUUJUmUqTYfZIWTpP+ltQCeA2gHQ2xqDWEJZqnxRq3+GHqT0w+bzeDsSTHB8C+JGWVPH75pXdEvlvaWCeJyg+IADdHuAz8uxGeDiWsv9MEfQzxUbbKjCC5HsoUl3HVG+RnlXrXgnIQMzk+Vj7jEWb39Uz53/OWXkcauH/wJi/3amzkR+6Znb+3j/OBSbvi+ZMVM0Zi+Qat2PDgKcnC4cRxAPfkNPrRqy3qDeaOboGP2XGL/jjhQJvlmwFDpho+2xxK1MYTGGyRrB/DLW01qt7HpLxyZrkAi02PFg38OLMZmr3hfiE1J16+r4aHqQa+PMBnlUMZ+riP5NDgoBBPV5n3WyKKLOW1IkuosdY402lzfu/yyCytD/0MEl6PVEBNH2m802pY7QFpm3Sz+2QNrzgQpKxwrp7uru+zy0MNdjSle9Hpwi7p1MVEI58MZcbNiJx/Bx1KYetJKpmJ2SyVXW0A==;MYEW5HbZwC/kThYIbXZCFg=="
 ---

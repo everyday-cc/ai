@@ -45,6 +45,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Artificial intelligence to destroy humanity in 5 years: Top CEOs alarmed by AI’s catastrophic potential"
+    excerpt: "CEOs believe that AI poses a potential threat to humanity within the next 5-10 years, according to a survey of 119 CEOs at the Yale CEO Summit."
+    publishedDateTime: 2023-06-16T01:45:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-to-destroy-humanity-in-5-years-top-ceos-alarmed-by-ai-s-catastrophic-potential-11686879506065.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/artificial-intelligence-to-destroy-humanity-in-5-years-top-ceos-alarmed-by-ai-s-catastrophic-potential/amp-11686879506065.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/artificial-intelligence-to-destroy-humanity-in-5-years-top-ceos-alarmed-by-ai-s-catastrophic-potential/amp-11686879506065.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/16/600x338/AI_robot_1686879859344_1686879865108.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Survey: 42% of CEOs say AI could destroy humanity in five to ten years"
     excerpt: "Forty-two percent of CEOs surveyed at the Yale CEO Summit this week say AI has the potential to destroy humanity five to ten years from now, according to results of a recent survey."
     publishedDateTime: 2023-06-14T20:32:00Z

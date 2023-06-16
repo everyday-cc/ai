@@ -1,27 +1,27 @@
 ---
 category: news
 title: "How machine learning and new AI technologies could change the cybersecurity landscape"
-excerpt: "Drata's analysis found new technology for data handling has security risks on the one hand and potential security benefits on the other."
-publishedDateTime: 2023-06-15T11:59:00Z
-originalUrl: "https://www.stltoday.com/business/collection_f0d7605d-fa7d-59db-970c-90826c16a8e8.html"
-webUrl: "https://www.stltoday.com/business/collection_f0d7605d-fa7d-59db-970c-90826c16a8e8.html"
+excerpt: "Use Next and Previous buttons to navigate How machine learning and new AI technologies could change the cybersecurity landscape The world has never been more online. From work meetings, emails, and texts to shopping,"
+publishedDateTime: 2023-06-14T23:30:00Z
+originalUrl: "https://www.timesunion.com/personal-finance/article/how-machine-learning-and-new-ai-technologies-18152566.php"
+webUrl: "https://www.timesunion.com/personal-finance/article/how-machine-learning-and-new-ai-technologies-18152566.php"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/04/104b1e4e-1dfc-50b8-ac8f-6b0ec96aa1ce/648a2cae8e33b.image.jpg?crop=1080%2C567%2C0%2C101&resize=1080%2C567&order=crop%2Cresize"
+  - url: "https://s.hdnux.com/photos/01/33/24/11/23937620/6/rawImage.jpg"
     width: 1080
-    height: 567
+    height: 770
     isCached: true
 
 related:
@@ -81,6 +81,6 @@ related:
       domain: timesnownews.com
     quality: 19
 
-secured: "V/7hTQLKCJib1R3nHChNojmb+kUf4/RnuBMS09XT8saeHdmHLhvaMH1L3L2/d6nE5GTJW9Qc9AsI0QsHSaGIGGzXAjTf6Ank+aLJcTFhjBr3O3S6oK5cG5cz8vsPQelg/Adc+i1dMBUFVLst5Hd0/zuf9bxU7lPnmrNvExKTK2GbCHRR/zjxzZQMqx5B6AVXDqVaW95hCnDcbS9zVmyHZ9NLzz92N0BNIxbdiL6dGClZdWwXeEi1VELqmElL90Wr5Jzy/sx75LYG6KccOIeTKuouft5NUWIYMJlta38CuxiC6k4otsD9m1eQr0COtjpIVsNTLsCnY69737WOJh4CMa0qt/IUT6fx+bMvDir+4q0=;RA8V0hPW11G4w5qSYrsINQ=="
+secured: "VCsb5nNG6qpO/ByugchsAjOrJUl0/avw+6ZiGN6ebbOWVdyLR0cuOBTzirHSgt0Iurf1nHgFGXM8kyauggRESZ6VgFbbQcWtIflUZYYhomzdYiGm6Y46WhNDWyF06cj8f2hOaaC92epqnfbSsURowiN1zrJpmxLTbrYT1Ym8L4ni/wBn/xvd+dBRIAFO6YdfZhVlW2O2RtiwMbT1e5NT4TECj2N8p7KTPBH3kmILo/xRyyR+LbIh5Y11rQlafLtMC52Px2HZrJhjiHTJp0j8szmo7+0dkDI+8CvR8OBxzADdidPvnqnIR+87cIkokiqBxbMpSBdrGcfUdUBVETYEqvgj2O9HnsFdMo2p6Kow8Ys=;cArN8E0OCRmwKmZ0dcYzrw=="
 ---
 

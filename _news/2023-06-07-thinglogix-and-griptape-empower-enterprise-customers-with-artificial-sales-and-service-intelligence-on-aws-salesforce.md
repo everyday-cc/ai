@@ -17,11 +17,11 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2020/12/putnam.jpg?w=2000&#038;ssl=1"
-    width: 800
-    height: 448
+  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2018/05/generic20rhode20island20state20house_1524602188734-4.jpg_40592827_ver1.0-4.jpg?w=2000&#038;ssl=1"
+    width: 770
+    height: 433
     isCached: true
 
-secured: "sTylyx1+r775HkitUSDjz57tJzPEUvay++3jGv5EvPHBvEsrr0S2HRsI4oh/M/Rmz2SJ/eyBexdw70uW3LikekWwKFL941GC77yC32Wg7DOnJYdqoBIsQuadNUq1lwsldGleMqq+/7rZtmoJteYez92pRiSiMaDA7nJPcgbeAmzMw78EUHxZgxk/AmFJA6LeKFjjBhsXovuY0w1LDxHhhzXpGGeA+lyiGY5lRpRBPX5DlVQB8suEKe8ahcQFD6K+G1RZYdXHI7RuyoysJM1xTh9BnxR30QU7rbymYL9nIU0bxmwc11KPamiVj9E5eUsesbT1u1XoMj5S+ZCdD0MVLCjgrCDttnHe4CAdPXZDfc4=;e2/bVlyA9SxXxhqh6E1Igw=="
+secured: "6cs9q9uFvxnxnuTpt+i00yQtB79qFG5Z40wO41RluuGyVHRSIl1HuEidTSnD5aF8EDEMs+1cRzfhAWM5kfF87xGp7cEE5lDI9jhgxRp34Z2si5zIEYTlK0yyXiYTRD7wDu2xTyjMUeT/PNT75UdShiEZVds/U2tRAFKQuH4wAOMNW3Mn6jCoRSRTrCTxybN7idJdNFNfOnLIlawQFD0uMc5G48GHajVcTqPyLrpFd+NsviqJJanNrcbCHvSlu5zz+tH8mMpIMdomYaoUh8T0iZ9KgXKCtymmAhMWdHtxVM1gjvakyqlfxQ/lBtX9czAbX+/Ii+2d6t1nRsXy52rgc89v3YzkQGiRETazS3LTR8o=;NsRbQ6Q6FSJg3hzmui30ng=="
 ---
 

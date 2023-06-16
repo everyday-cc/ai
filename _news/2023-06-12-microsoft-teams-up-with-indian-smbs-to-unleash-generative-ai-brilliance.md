@@ -85,20 +85,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Microsoft Extends OpenAI's Language Models to US Government Agencies via Azure Cloud"
-    excerpt: "By bringing OpenAI's sophisticated language models to Azure Government, Microsoft aims to empower US federal agencies with cutting-edge AI capabilities. This move underscores the company's commitment to delivering innovative solutions and advanced ..."
-    publishedDateTime: 2023-06-11T09:04:00Z
-    webUrl: "https://menafn.com/1106422461/Microsoft-Extends-OpenAIs-Language-Models-to-US-Government-Agencies-via-Azure-Cloud"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 62
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_80_menafn.jpg"
-        width: 512
-        height: 262
-        isCached: true
   - title: "Ernst & Young Adds Microsoft AI Tools to Tax Platform"
     excerpt: "Ernst & Young is tapping Microsoft Corp. artificial intelligence tools to give its tax professionals a technological edge, it said Wednesday."
     publishedDateTime: 2023-06-14T21:43:00Z

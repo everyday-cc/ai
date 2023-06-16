@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 506
     isCached: true
+
+related:
+  - title: "The Ethical Implications of AI"
+    excerpt: "The conference, the first of its kind at Seattle University, will explore the role of AI in preparing workers for short- and long-term success, the implications for the shifting educational landscape and the potential impact of intelligent machines on tomorrow’s workforce."
+    publishedDateTime: 2023-06-15T00:00:00Z
+    webUrl: "https://www.seattleu.edu/newsroom/stories/2023/the-ethical-implications-of-ai.html"
+    type: article
+    provider:
+      name: Seattle University
+      domain: seattleu.edu
+    quality: 54
+    images:
+      - url: "https://www.seattleu.edu/newsroom/stories/2023/1.-Ethics-and-Tech-graphic-June-22.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "VLWgsvU822tqToa6Ccu3aIDix/9hD87vF/D6XY/x+SZfx0Wo93DhP3RIYKARzwvMtfiRPzedCcPP59xI5lASWEjxRnCd4YJglQ5kU6pZ5elgRVEI6D5pKAxXOwQmhN/UIgvG6UfO/FrOObaxn8Q8w31uHaO8cPTJMkxlplgDVy9GcHXyXLfycFMmpPtCwR013gCqkjdb2vTzWWjkRKp723HGWPiap1kDd36GDvrr5BEAP65sddHAZItnuJkKVNZxW/oI1lW9hytLsrez6xAIL4neOuHuJJ7UbnfJz08j04prGS3ZJCw7O1MR6mmWUYs8d1h9xOlaGolAuZtai6y1ts8I1t1J6TbeNDfsPoeSt5pN/VP5NLAopouIaaLOvOUS3QMQ6LJo5bZrZ5CWaJbf/rOAxxk2dXkkwhMh9MfkKWUZH5GUOvv/siJN1OJV5Z8BlMNES58TSHTd9hWfNReQ5I2JUOVwXzTJNtWwd5G2nDr18YGuOD/ZH7c2Ph5Dn+3f5DisZPL24L8j+WtSOrnRNA==;tmhRCE3YrmgOB08RjwfLkw=="
 ---

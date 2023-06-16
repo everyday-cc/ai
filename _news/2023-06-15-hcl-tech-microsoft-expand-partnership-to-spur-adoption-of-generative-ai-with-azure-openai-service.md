@@ -1,29 +1,29 @@
 ---
 category: news
 title: "HCL Tech, Microsoft expand partnership to spur adoption of generative AI with Azure OpenAI Service"
-excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness generative artificial intelligence (AI) and develop joint solutions to enable businesses to achieve better outcomes."
+excerpt: "HCL Tech and Microsoft have expanded collaboration to boost innovation and adoption of generative AI with Microsoft's Azure OpenAI Service, the statement informed."
 publishedDateTime: 2023-06-15T14:56:00Z
-originalUrl: "https://www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html"
-webUrl: "https://www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html"
-ampWebUrl: "https://www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html/amp"
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/enterprise-services/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service/101024921"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/enterprise-services/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service/101024921"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service/101024921"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service/101024921"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: telecom.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2022/01/HCL-Canada.jpg"
-    width: 1280
-    height: 720
+  - url: "https://etimg.etb2bimg.com/thumb/msid-101024921,imgsize-21104,width-1200,height=765,overlay-ettelecom/enterprise-services/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service.jpg"
+    width: 1200
+    height: 765
     isCached: true
 
 related:
@@ -315,6 +315,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "tTjtHejOGaOIwwna5Go86LFZOpjCrUuNwRe61Vz1H2aM3JtEQCEG5YhE4zZ10sT3gwv+8rJyHpLr4o1lX7rOCzsEZFd2lAwUFMx2uSWL8qV7knXR/wbYAgeBCw36SYy1mHvfDeBM8pkmGJwE77P76jvhEfOZAfJR9FmZkwzN0/oKh1kUmyhz+Sm6U2Ywo3+BJRms8PgQ0mCaa4nSN47mpMNgiHW/dmShkny0096vPf8nn/T7Vdho5Rg9bvqdMgRpH61bUvSjIIU7dvCWUdnddGBgYT6EvLhm6+qi/hwsSgi5gHRyWRBkq0e7aDklmr2gcUTyfwk+DcTOHJLG4nBZYCphXu2WmFFNYCMxU+Wf9trTId2iyBIcg1W/7LhfnZzR+fpFGpoONgZf5mUrMo1g0A1Rawq9PT8Ox4Ipz4Cd1f5vwJ9jHvmVZXb3W/uVZ4lsbjw075rGP/svKVr6NlYQ+mVPAYVUJ8Ol1QAx62On5uDNC87Azem9JWuWgHTJD7GuALYNdHcd9AD3UJ89/XpTpQ==;mj1y/PYjJcWQrGJEfSr51g=="
+secured: "bH/K0SXhKs01WlOdqT+OEAurP3QqL0dWSFNSBjULBXzPDMwN5U7e0wAzg0FxAT3lRsHpfDZWDk81LdvkpKQ7C8i1luUC7XU5HHGdJuP3pUjCZzwasnAVmVtZpez4sf/5Io0wdxqHV3Pe9F8IiItaW2NqhVbGByQH/AEWZDhNu/kcHi78MzOeXrMSDXYXOyECvFYecFk8N+vUWDR4ieghgoM893YdKlM4Gv4kBoajPo9EV9mcVCqp+EzNJhy3yMpO4iIRUepgFdH50UzQxunfA/YtX+pGOhCmrfy6Wv4n1tUIVwbHl/2D2mdCy//r4mjRbnhiK+T65dn6NPepw90KWcZajEd1ZyyiyhDqahveke8=;Cw32DRjcMdo0pw7A1IbHhQ=="
 ---
 

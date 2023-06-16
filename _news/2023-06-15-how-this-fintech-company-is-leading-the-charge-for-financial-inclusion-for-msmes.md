@@ -1,22 +1,28 @@
 ---
 category: news
 title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
-excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
-publishedDateTime: 2023-06-15T00:00:00Z
-originalUrl: "https://www.ryt9.com/en/anpi/268751"
-webUrl: "https://www.ryt9.com/en/anpi/268751"
+excerpt: "Access to financing has long been a point of contention for micro, small, and medium-sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small businesses include the higher collateral requests by traditional financial institutions (58."
+publishedDateTime: 2023-06-15T03:00:00Z
+originalUrl: "https://www.thaipr.net/en/business_en/3347796"
+webUrl: "https://www.thaipr.net/en/business_en/3347796"
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: RYT9
-  domain: ryt9.com
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.thaipr.net/wp-content/uploads/2023/06/3894075.jpg"
+    width: 800
+    height: 360
+    isCached: true
 
 related:
   - title: "Singapore: MAS Introduces AI in Finance Challenge for Global Fintech Hackcelerator"
@@ -117,6 +123,6 @@ related:
       domain: businessinsider.com
     quality: 34
 
-secured: "9v5WRhKGxHFdWjDfrc4elr5Cy3d9FpqoG9dVe4uMGsmOroKLT2wNvjuhNm5U/5hGClkTggjveDYzVYmNCzsVSFGApZbilNPpyq97w2VGb8UWAEqlkqz+a+HFBKj1qvhRToOtYR2rilm734x/neszBU5ZyEiThR0SRtLjEnes9S0+7agBMD1dPPOcuCYkWx+vKVQi24Dg3CrgnztuRwnHk5aQWU5R/k6z9JsvDFtiSxSxCmut3i3Ub/Zw9WwVWikHugGOaQuwCaNK9ftaXAHScz14O5mVfgNjdQAU+j2jQW3Ak3fwHtZzHJOws/C/uxEre00cHK+VEtm6n3Zvfkz86WcCHiD1iviK7aFFy6A0z7Tf7fb++NwOJuvpNGsInFJB4C13jm4mzREcXBq2/wL0+I3i/yiP8k2mUYS4ys8ihdHmCUVisj1WI4OA5PxTX0Ix7Kt6E2tY3vbs180h0Yj5YNoLLikQRF/ClDtGl7Wt3rgJ0r8UNn/Rt2BWOaB6EWNbJEr8klC2sQ9hUzc7LO2nwA==;YdoiopWYaH23ZoQ81REZlQ=="
+secured: "j04VWQaUaemRt/e++gSZEDZWqdBhlkHYzBXFcilw77LrqlJ5JkLwYeSuRIPc+O266bv3bZqwVIshPTdjvREw9PfspA/ryxe62ZND2AsZl0Vgqa3LnSHrvGzOyZTjOunc2vPZpFaff126go7pfGut8H/ImiP+GegQQW7NqJnB2Uw2Nc/yZnNWU43NJX1+3sDf07M9yDOB6Ot8lR9YVw0S1YQTH6grkbzDjT4RdQb4R0nkbWWky8t2qMZISRwhuciUXUEgSDbnapQOfVhWyDnmn0CDXABMNOArvtHWJcccfo+36dBJqRR1X7XoKBzA6Ddk0AlvgcWV4+L0+NyetBMKTzWCPyTQ9OGI273KmjUvnHc=;7IO2xfn7X3jeRGwb5BKNrA=="
 ---
 
