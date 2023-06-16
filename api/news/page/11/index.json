@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-06-07-how-hardcore-can-art-get-does-ai-need-therapy-and-other-thoughts-in-the-air-at-london-gallery-weekend.md",
+      "title": "How Hardcore Can Art Get? Does A.I. Need Therapy? And Other Thoughts in the Air at London Gallery Weekend",
+      "excerpt": "With London Gallery Weekend, the city's art scene is trying to create a mid-year moment for itself ahead of Art Basel.",
+      "sourceUrl": null,
+      "webUrl": "https://news.artnet.com/art-world/london-gallery-weekend-2023-2314878",
+      "originalUrl": "https://news.artnet.com/art-world/london-gallery-weekend-2023-2314878",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p-news-upload.storage.googleapis.com/2023/06/groucho-club.jpg",
+          "width": 1800,
+          "height": 1198,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.artnet.com/art-world/london-gallery-weekend-2023-2314878/amp-page",
+      "cdnAmpWebUrl": "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/london-gallery-weekend-2023-2314878/amp-page",
+      "publishedDateTime": "2023-06-07T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Artnet",
+        "domain": "artnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-job-listings-asking-for-generative-ai-skills-are-soaring-analysis-finds.md",
       "title": "Job listings asking for generative AI skills are soaring, analysis finds",
       "excerpt": "The average advertised salary for jobs citing generative AI skills is $146,244, according to job search engine Adzuna.",
@@ -1138,57 +1181,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-governments-worldwide-rush-to-place-regulations-on-artificial-intelligence-a-rapidly-growing-technology.md",
-      "title": "Governments worldwide rush to place regulations on artificial intelligence, a rapidly growing technology",
-      "excerpt": "Artificial intelligence continues to become more powerful, and governments across the world are looking to regulate the technology. Here's what different countries are doing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology",
-      "originalUrl": "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18095c3e-bc3a-4467-93fd-fbf40bb6ed4e/4488e10c-7119-406e-bfbb-9043f630b039/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/governments-worldwide-rush-place-regulations-artificial-intelligence-rapidly-growing-technology.amp",
-      "publishedDateTime": "2023-06-06T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

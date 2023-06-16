@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-excerpt: "AI chips and their leading designer, Nvidia, are now at the center of what some experts consider an AI revolution that could reshape the technology sector and possibly the world along with it."
-publishedDateTime: 2023-06-01T18:30:00Z
-originalUrl: "https://www.stltoday.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_0b2fb5bc-4a89-5c56-89ed-f184640d02a0.html"
-webUrl: "https://www.stltoday.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_0b2fb5bc-4a89-5c56-89ed-f184640d02a0.html"
+excerpt: "It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper. Such chips have suddenly taken center stage in what some experts ..."
+publishedDateTime: 2023-06-01T18:41:00Z
+originalUrl: "https://omaha.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_b29fedbe-109c-55f5-96f5-b3b3303c2067.html"
+webUrl: "https://omaha.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_b29fedbe-109c-55f5-96f5-b3b3303c2067.html"
 type: article
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/b2/0b2fb5bc-4a89-5c56-89ed-f184640d02a0/6478bbdbdbe14.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/29/b29fedbe-109c-55f5-96f5-b3b3303c2067/6478bd1bd654c.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "E4teKX4HMn+Jq9RMXburFJhscfNmRFVi2jeVEOlwJIMZSqn0xmADJVdMNZW4aNDVGGU9lSI252YmmEr4W9xzM1RFngk4yZlEf4NXx2B9VLqCmAjRAh354TWbc0Exnd7YSxIX2LBDGQ0GtXnTl/ys/R6vEtH8PZFPffrJgpOCcug2+L9ZyaLfdrIktvFRvTxIu4TuhX7ByHMylgBmckmIaz2T7TIIrEVPUGw9qSdkEDgXQ7I5hBHzlDOFqiM2rRSWMC+PPyZ/3lAYwv3li6Pk/QWKQQMII+C9saN11NKwoSt3hbDHxTgqTnNzxrMoidwBqz2Nfjp1a5nIUnfzdhebmyT9Xy/jqIpDTsy+5Gk1rhPGgwGuczTPV/5vRh2OZwXLbXjKrZu/p4SpdkP/GQJzPDqTQ2v9HkGN408YNejye5VOU8ufHcwR3EmBlO9vtdDi/nx68XtiY/kD1N11wSsoqA/A4c4LxqThE5gN1YKK/WcsejWdR5+/Jcohp22v5juP5sRNlZM5bEOgnwkchtTmXg==;Nb1AVkCikEp8nppABf8XIQ=="
+secured: "s+DeocUQLtb8I/fa8PfGMwt+lgMCj9m8re9PNXfEyvSnw88LL+pk9aMkbWqp+wlnlyHSgZSZ1QvY4nWb4H44tbKwPJQJH7RcUUsnbIwY2MXMXGsYOT8j5eZH89S/QNWRS1rf+kJaEJlrh8127vNX7Iv2F+WC8pAx1HaIZlY3xo5EHzBiofNNU7SVMC6CPn4Vh+Ka6jtNgdyZDutBpfIt9w5R9i6E/stgMvJFnFg0e13ePIgTjHDdri1GAyz8zu6z/TcEV6TefTSjruQ+RClgJ5F8eotOeEdoeCJBnYH6wszgbsmRIBHWurgiE+9iYzBlBZh6i9hcatVV+Foo2IGNKxVmdJ2GisZCxtqK/LVTkXM=;pq6LQ+cbKKBcQ2rOfSKXYw=="
 ---
 

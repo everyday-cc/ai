@@ -2,6 +2,99 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-04-28-spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators.md",
+      "title": "Spotify CEO Addresses AI Concerns, But Also Sees Opportunity To Attract More Creators",
+      "excerpt": "Spotify CEO Daniel Ek discussed concerns and opportunities surrounding the integration of AI into the music platform during its Q1 2023 earnings call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644b068b82129dfcc9027798/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/04/27/spotify-ceo-addresses-ai-concerns-but-also-sees-opportunity-to-attract-more-creators/amp/",
+      "publishedDateTime": "2023-04-27T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-how-artificial-intelligence-is-transforming-hollywood.md",
+      "title": "How artificial intelligence is transforming Hollywood",
+      "excerpt": "Artificial intelligence is revolutionizing Hollywood productions and raising new questions. CNBC’s Julia Boorstin shows us how companies are using AI to put actors’ faces on body doubles and even “revive” deceased movie stars on screen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/how-artificial-intelligence-is-transforming-hollywood-171546693664",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/how-artificial-intelligence-is-transforming-hollywood-171546693664",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/WA-NNWEB-20230427-01_AI_HOLLYWOOD_BOORSTIN_3_21_MIXDOWN_frame_3793-376hvp.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171546693664",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171546693664",
+      "publishedDateTime": "2023-04-27T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-first-babies-conceived-using-playstation-controlled-robot-are-born.md",
       "title": "First babies conceived using PlayStation-controlled robot are born",
       "excerpt": "the student mechanical engineer who controlled the sperm-injecting device, told MIT Technology Review. The robot was developed by Overture Life, a company that’s working towards automating in ...",
@@ -1083,100 +1176,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-write-long-form-content-in-seconds-with-half-off-this-leading-ai-tool.md",
-      "title": "Write long-form content in seconds with half off this leading AI tool",
-      "excerpt": "Wordplay AI Content Generator overhauls your content marketing and a lifetime subscription price is now half off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/Wordplay.jpg",
-          "width": 781,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/ai-tool-write-longform-content/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ai-tool-write-longform-content/amp/",
-      "publishedDateTime": "2023-04-27T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-best-graphics-card-under-1000-in-2023-top-gpu-picks.md",
-      "title": "Best graphics card under $1000 in 2023 – top GPU picks",
-      "excerpt": "Then there are also 4th Generation tensor cores, responsible for powering the AI optimisation of DLSS 3 and all this for under $1K. This is also a GPU with impressive specs. It comes with a boost ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.videogamer.com/tech/gpu/best-under-1000/",
-      "originalUrl": "https://www.videogamer.com/tech/gpu/best-under-1000/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Best-graphics-card-under-1000-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -138,6 +138,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
+  - title: "Introducing Cognite AI, The Generative AI Accelerator For Industrial Data And Value Realization"
+    excerpt: "(business wire )--cognite , a globally recognized leader in industrial software, today announced the launch of Cognite AI, the Generative AI Accelera"
+    publishedDateTime: 2023-06-16T04:45:00Z
+    webUrl: "https://menafn.com/1106445495/Introducing-Cognite-AI-The-Generative-AI-Accelerator-For-Industrial-Data-And-Value-Realization"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/updates/pr/2023-06/15/A_57b37image_story.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Introducing Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization"
     excerpt: "Cognite, a globally recognized leader in industrial software, today announced the launch of Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization. Cognite AI, a comprehensive suite of Generative AI capabilities within Cognite's core Industrial DataOps platform,"
     publishedDateTime: 2023-06-15T07:16:00Z
@@ -146,15 +160,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 7
-  - title: "Introducing Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization"
-    excerpt: "Cognite, a globally recognized leader in industrial software, today announced the launch of Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization. Cognite AI, a comprehensive suite of Generative AI capabilities within Cognite’s core Industrial DataOps platform,"
-    publishedDateTime: 2023-06-15T19:23:00Z
-    webUrl: "https://www.afp.com/en/news/1315/introducing-cognite-ai-generative-ai-accelerator-industrial-data-and-value-realization-202306131435971"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
     quality: 7
   - title: "AMD Announces Data Center EPYCs, Releases Instinct Accelerator Details and Software for Generative AI"
     excerpt: "At a product unveiling event this morning in San Francisco, AMD announced updates to its 4th Gen EPYC “Genoa” 5nm data center CPUs and released additional details on its MI300X GPU accelerator for generative AI."

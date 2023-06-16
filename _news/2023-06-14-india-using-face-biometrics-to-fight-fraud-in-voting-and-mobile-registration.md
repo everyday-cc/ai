@@ -41,22 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Artificial Intelligence: SmartMetric to Embed AI into Its Biometric Credit Card"
-    excerpt: "SmartMetric is to release advanced fingerprint biometric activated credit card and working on adding embedded AI into card’s electronics."
-    publishedDateTime: 2023-06-11T11:06:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/06/208277-artificial-intelligence-smartmetric-to-embed-ai-into-its-biometric-credit-card/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208277-artificial-intelligence-smartmetric-to-embed-ai-into-its-biometric-credit-card/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208277-artificial-intelligence-smartmetric-to-embed-ai-into-its-biometric-credit-card/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 68
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/AI-Artificial-Intelligence.jpeg"
-        width: 809
-        height: 607
-        isCached: true
 
 secured: "+NJWCXNrsCyWNpb5Ljgbgod8nfRlJKzB10NN0OQN30DOH4VpG+6wxfA0+YReh0aZzjCplMAugfhKlbtNEQNro2Fzggs2Voi6a3oqe9qleq+rH48DtVe6mS9WC7dri2tULzVwaT/tuSU64IK8kK/P5l3GQcvYWA2lQuCzlw1HZNNDQir+ZfzYAsaxWEiE2am2HJx9xUDxuOaCk3iHU8Db8/CIR+HA3ovBrkPdogrspHdkIK1fdjzq4Uk95W7mk/nbgkxCEBP+4hxXVFOkbemhwlfq7gmiaZf/qrcBR4JGzvpmLFjAWs+8FMbnSbmCn+4P+sHUURqHinj4hc6IqNyvk0ZuxIQudPpyUGGYt2jz5jo=;XfIGINV1z/lao2xRAiY26w=="
 ---

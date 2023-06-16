@@ -58,6 +58,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Are Investors Still Interested in Artificial Intelligence ETFs?"
+    excerpt: "The Global X Robotics & Artificial Intelligence ETF (BOTZ) is the largest AI-focused fund currently trading on U.S. markets with $2.5 billion in assets. Launched on September 12, 2016, BOTZ has an expense ratio of 0."
+    publishedDateTime: 2023-06-15T21:12:00Z
+    webUrl: "https://www.nasdaq.com/articles/are-investors-still-interested-in-artificial-intelligence-etfs"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "AI Is the Gold, These 3 Stocks Are the Picks & Shovels"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying the new gold rush hitting Wall Street, which is the"
     publishedDateTime: 2023-06-15T10:16:00Z

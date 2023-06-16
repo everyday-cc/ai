@@ -33,6 +33,20 @@ related:
         width: 8688
         height: 5792
         isCached: true
+  - title: "CAFC Affirms Google’s PTAB Invalidation of Voice Recognition Patent Claims"
+    excerpt: "Parus Holdings, Inc. was unsuccessful today in its bid to the U.S. Court of Appeals for the Federal Circuit (CAFC) to reverse two Patent Trial and Appeal Board (PTAB) decisions invalidating its patent claims for voice recognition technology."
+    publishedDateTime: 2023-06-16T00:02:00Z
+    webUrl: "https://ipwatchdog.com/2023/06/12/cafc-affirms-googles-ptab-invalidation-voice-recognition-patent-claims/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 37
+    images:
+      - url: "https://ipwatchdog.com/wp-content/uploads/2023/06/Depositphotos_261679234_XL-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "i5fhuCP3chJCWLUdAy+97EmGzS5Hl8xsPg8MFZMj/jPylsIvn1CMJn1LrTOGDjMfPI1AxY0Sk5jcZ4l3xBLuha+KLvsNdqirqB92qRtqjtZZXkbVP2B6mGKrHQuCEKywpzHlGaIMHJVWq5ak9Ro7qZVzNizhWhQ7kfPCXSwGVdBycJK/+emeH1yZU9VVSQsREGtKxRU0epUKvC219UdMKgjwpZvSkpK5iLwUB3CTtSYrPcVAHf4f0kLiPFMVCGC4XFD1TWAf2WXmvt7lstqNE9yUAUlEXgxzT4MlyO5E+fVSGaNbXk/ymenZ/GEyoU+DqHQC7KyNSB84l6FPpkXKLpvjZTZ5Nle/e9J2XGPpb84FzuwZI3Qc1L+/jivn7DDuLU2yySg0ixg52ACH+klXgGbNzQEGK77vW1qeqwg+jx+7Q7WR/V55moRGNYGl0PbP610BKN5Y0GsCzrIcx68GWoBrjiAYRscO25cfOoMD4eqCPG2jnD/xPzL3JIIrQgpkEEypybi9P4+eHgcm/PWMEg==;2hn77plvkx7SfFO0kaoA3g=="
 ---

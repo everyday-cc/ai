@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-26178,msid-101024428/hcl-tech.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Google is Flattered by Microsoft’s Azure AI Studio"
+    excerpt: "Listen to this story Earlier this month, Google announced general availability of Generative AI Studio on Vertex AI. With this update, developers can access its text model powered by PaLM 2, embeddings API for text,"
+    publishedDateTime: 2023-06-16T04:29:00Z
+    webUrl: "https://analyticsindiamag.com/google-is-flattered-by-microsofts-azure-ai-studio/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/unnamed-19.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Microsoft Teams up With Indian SMBs to Unleash Generative AI Brilliance"
     excerpt: "According to Microsoft research, almost 35% of SMBs surveyed were spending over 10% of their revenue on technology. Not only this, SMBs in India are also exploring leveraging the capabilities of Generative AI."

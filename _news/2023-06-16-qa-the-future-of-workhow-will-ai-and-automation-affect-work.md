@@ -119,22 +119,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "5 ways how Artificial Intelligence improve the workplace"
-    excerpt: "Artificial intelligence (AI) is now a part of our everyday lives. More than we may sometimes realize; AI solutions are changing almost every aspect of our lives, and this extends well into the workplace as well. The impact of AI on the future of work is a ..."
-    publishedDateTime: 2023-06-11T11:31:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Untitled-design83.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Elevating customer experience: The rise of generative AI and conversational data analytics"
     excerpt: "As the digital-first business landscape becomes increasingly complex and fast-paced, generative AI is becoming an indispensable tool."
     publishedDateTime: 2023-06-15T23:00:00Z

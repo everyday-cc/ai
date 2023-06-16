@@ -3,13 +3,13 @@ category: news
 title: "Korea issues first AI ethics checklist"
 excerpt: "The government has outlined the first national standard on how to use artificial intelligence (AI) ethically, in a move to bolster the emerging industry's sustainability and enhance its global presence,"
 publishedDateTime: 2023-06-14T08:00:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/tech/2023/06/419_352971.html"
-webUrl: "https://www.koreatimes.co.kr/www/tech/2023/06/419_352971.html"
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2023/06/129_352971.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2023/06/129_352971.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352971"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352971"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     height: 580
     isCached: true
 
-related:
-  - title: "Altman Urges South Korea To Lead In AI Chip Production"
-    excerpt: "Sam Altman, the chief executive officer of ChatGPT developer OpenAI, met with South Korean President Yoon Suk Yeol on June 9 and urged South Korea"
-    publishedDateTime: 2023-06-11T12:50:00Z
-    webUrl: "https://menafn.com/1106422872/Altman-Urges-South-Korea-To-Lead-In-AI-Chip-Production"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
-
-secured: "1dOWo0jNqhrXQD+ozr2KgT+OKSkkb0Eai1OscE0T3GFA3mU6Hp4oFZewAL08KGAcTqPB5+I8P/mbrydnRhp/2ynJ5+pSIbz7lc7qHTvZ16ATf87CO4WXtmjnhXOI2rIJCyiC6qcXNEeAa+it8oCu98gsaATtDnHB3yQW72KrVa719xwILTuXjM9n8QCGwPihpUT7ia6Tr3VwY0d1fu8IWtqy0UJHYXzr3YpWGhBMt1JV7Dp+azxVbwsuhKVPKtTN3iJkylM0G9w8sZyLbSKiUGILt8WNwIzb7vZzIeMRAdHwIiYNdgp0eIHjQd42G98FpA7FogR9KcVnmfr1q4K0/gdf6YSbC+l+YrS4rVSWokkhCzHz4k48QWGl7SgY9shvRd6TcMRsYJA2z3RRGcvtNkY/khFhQcDWGNGiPfe5SQWo5D3Lk3CuLyc240rfy5WxDqRnYP7yK5SYgfMOQhHQVK01JIVLY+KaNZNpqktawBxlSB3BiyyXdlUfcfNOqPr3d2+poL12sPrKxDreqJOzpw==;vxYHMxElzp/9b7u1PiEd6w=="
+secured: "lW+WIeP76ASk49O6i6dA7KSZsOqmV7ejcZePHB68YM0iEHKBSWROu/zcLtGBmUiufvnBeIB1zuOg+BAecKcSDfLI2flC5xAPi2hfjZB1yi391XJiVh1WVek7xSw7g4EhaxzFUQvSBmLrroYEfB2xq3R82sBGn5LYA/q+1l917LQoc/GNiLeeAKGsboN2pzFCa3COzatP47ouOeemdyoA5Vhmk5+dvqmirk6unCEfJdrtGPI6iiq33RBc/IM9QwUUaI0XZl0gMJ39yyXoIgwthoPg2WiGssNxdetYRZBC+kTsZCWNnKVGHXd6ydlmoPCO085c7QqGGwNRwBt0q0hp3rxFbjzIxbcAsVOZ76Os4Ps=;e5jWIpCYMZBOqnFHnPEgug=="
 ---
 

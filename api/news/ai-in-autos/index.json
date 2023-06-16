@@ -934,6 +934,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-02-dmv-cant-be-trusted-to-prevent-crashes-by-driverless-trucks-california-legislators-say.md",
+      "title": "DMV can't be trusted to prevent crashes by driverless trucks, California legislators say",
+      "excerpt": "as human drivers of commercial vehicles face replacement by computer systems programmed with artificial intelligence. How we got here The Legislature handed driverless vehicle regulation to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/dmv-cant-be-trusted-to-prevent-crashes-by-driverless-trucks-california-legislators-say/article_e2876637-adc7-59ae-b204-437ce2a944da.html",
+      "originalUrl": "https://www.eagletribune.com/region/dmv-cant-be-trusted-to-prevent-crashes-by-driverless-trucks-california-legislators-say/article_e2876637-adc7-59ae-b204-437ce2a944da.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-driverless-trucks-on-california-highways-legislators-dont-trust-the-dmv-to-ensure-safety.md",
       "title": "Driverless trucks on California highways? Legislators don’t trust the DMV to ensure safety",
       "excerpt": "as human drivers of commercial vehicles face replacement by computer systems programmed with artificial intelligence. The Legislature handed driverless vehicle regulation to the DMV when it passed ...",
@@ -1291,58 +1334,6 @@
         "name": "Palm Beach Post",
         "domain": "palmbeachpost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-tesla-driver-claims-she-crashed-into-a-tree-on-self-driving-mode.md",
-      "title": "Tesla driver claims she crashed into a tree on ‘self-driving mode’",
-      "excerpt": "A Tesla driver in Michigan claimed that her car was in “self-driving mode” when she crashed into a tree. As usual, it is important to take these claims with a grain of salt until the data is collected. The accident happened on Sunday evening near Big Rapids.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/",
-      "originalUrl": "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

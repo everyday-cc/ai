@@ -42,20 +42,6 @@ related:
         width: 1054
         height: 593
         isCached: true
-  - title: "Utah lawmakers, tech leaders discuss potential regulation of artificial intelligence"
-    excerpt: "The Utah Policy Innovation Lab talked about ways the state can regulate artificial intelligence to protect privacy and prevent the spread of AI-generated misinformation."
-    publishedDateTime: 2023-06-11T13:01:00Z
-    webUrl: "https://www.ksl.com/article/50660271/utah-lawmakers-tech-leaders-discuss-potential-regulation-of-artificial-intelligence"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 30
-    images:
-      - url: "https://img.ksl.com/slc/2922/292268/29226837.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
 
 secured: "yiHKazoZWSM0ACBnmtUNxf2Mgi1XsS2BMVazNAjm560zVtru/p81O8EGenpjZqUoNb6MjEyoIYJ9eDX5j+iaRO2KrRjWdhUcK/Lyr2yGFxEZbqdZ/bwo1UYaW7K8IWDfB8RIycttB3zu64Lt6TY4ety4BT/a9Xhvh6Srh2hbubmONJPMnnI9xIGcn5L5ClKe8KDcpXntBA4wq9n/DtdnGRUMkqYVH3Z4ry+WuZofH+XMSDS1MHkKeP7eUoglQMT573HYw0IP4bYIlX+Oj0oeXIzDX5//86RKL6W6gcpKwWR3xuhoLnavRHRVHvu+BDHAUd/ptZ8yzqCZk9lbMHd7fs5yq9psrJTKQD0UWyB3/3E=;2naiOkpsDN4CwKD2ajoPKg=="
 ---

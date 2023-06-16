@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/eu-votes-to-b
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence: SmartMetric to Embed AI into Its Biometric Credit Card"
-    excerpt: "SmartMetric is to release advanced fingerprint biometric activated credit card and working on adding embedded AI into card’s electronics."
-    publishedDateTime: 2023-06-11T11:06:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/06/208277-artificial-intelligence-smartmetric-to-embed-ai-into-its-biometric-credit-card/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208277-artificial-intelligence-smartmetric-to-embed-ai-into-its-biometric-credit-card/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208277-artificial-intelligence-smartmetric-to-embed-ai-into-its-biometric-credit-card/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 68
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/AI-Artificial-Intelligence.jpeg"
-        width: 809
-        height: 607
-        isCached: true
   - title: "India using face biometrics to fight fraud in voting and mobile registration"
     excerpt: "Indian officials across India are increasingly using facial recognition to identify fraud in elections and SIM card registrations."
     publishedDateTime: 2023-06-13T22:39:00Z

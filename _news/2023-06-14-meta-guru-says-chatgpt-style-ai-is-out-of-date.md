@@ -107,21 +107,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT disrupts Asian property industry, but it’ll be a while before an AI agent sells you a home"
-    excerpt: "AI-based property agents are still in the realm of science fiction, but artificial intelligence is disrupting the industry as companies invest to explore its advantages and limitations – and how the role of agents will change."
-    publishedDateTime: 2023-06-11T11:47:00Z
-    webUrl: "https://www.scmp.com/business/article/3223524/rise-bots-chatgpt-disrupts-asian-property-industry-itll-be-while-ai-agent-sells-you-home"
-    ampWebUrl: "https://amp.scmp.com/business/article/3223524/rise-bots-chatgpt-disrupts-asian-property-industry-itll-be-while-ai-agent-sells-you-home"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3223524/rise-bots-chatgpt-disrupts-asian-property-industry-itll-be-while-ai-agent-sells-you-home"
+  - title: "ChatGPT: US lawyer admits using AI for case research"
+    excerpt: "A New York lawyer is facing a court hearing of his own after his firm used AI tool ChatGPT for legal research. A judge said the court was faced with an \"unprecedented circumstance\" after a filing ..."
+    publishedDateTime: 2023-06-11T14:13:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-65735769?at_ptr_name=facebook_page&at_link_type=web_link&at_link_id=68EDE33E-FD3B-11ED-A6B2-0BFDD89D5CC3&at_link_origin=BBC_News&at_bbc_team=editorial&at_format=link&at_campaign=Social_Flow&at_campaign_type=owned&at_medium=social"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-65735769.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-65735769.amp"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 75
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/09/5bc71510-0d58-4d37-93a7-78ed8154caaf_b8c56151.jpg?itok=Fq42IGOx&v=1686293778"
-        width: 1200
-        height: 630
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0BA2/production/_129887920_a51ab5bf0f46a56367ee748173bcbc653fa4a8e9.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Using AI, ChatGPT to Augment the Future of Healthcare"
     excerpt: "During a June 7 event hosted by Northwestern Engineering, AI@NU, and the Institute for Augmented Intelligence in Medicine, computer scientists and physicians presented examples of how artificial intelligence technologies can augment healthcare tasks."
@@ -137,6 +137,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Building smarter chatbots: Machine learning techniques in conversational AI"
+    excerpt: "The foundation of Conversational AI is built upon two fundamental concepts: Natural Language Processing and Machine Learning"
+    publishedDateTime: 2023-06-16T05:26:00Z
+    webUrl: "https://www.dqindia.com/building-smarter-chatbots-machine-learning-techniques-in-conversational-ai/"
+    ampWebUrl: "https://www.dqindia.com/building-smarter-chatbots-machine-learning-techniques-in-conversational-ai/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/building-smarter-chatbots-machine-learning-techniques-in-conversational-ai/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 54
   - title: "Samsung Electronics Supplants ChatGPT With Proprietary AI Due to Security Concerns"
     excerpt: "Samsung Electronics is moving away from the use of ChatGPT, citing security issues, and developing its in-house artificial intelligence (AI) to assist employees with tasks such as translation, knowledge search,"
     publishedDateTime: 2023-06-12T07:25:00Z

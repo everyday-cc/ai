@@ -3,8 +3,8 @@ category: news
 title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
 excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
 publishedDateTime: 2023-06-14T14:38:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
-webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
+originalUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
 ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
 type: article
@@ -313,6 +313,6 @@ related:
       domain: emirates247.com
     quality: 17
 
-secured: "s245DxjNTuQWF0P/VVBiYfmcLeFIhP0fn7GZtwARuKNJsJDKLubVxJ3Ex++/TcwV6hgSx2IPON9fCWKcmUOeurGAHgvYlMkT15hwd83ZSPNt7auoNSMlsWM8/ftWWjJoqqBqnIwObChEYgHQa8+kJCxQXx2SPLP9xAKnaQ7r5WGmTLebIl0+N5odOgaLtQmZ8R3oqAmywHDS2Nol/anszYDKm84mySMssH8HzggtT5VZEVxCLmDQDUnk9R5Mzn9/YdFQSuG1rzIq8qlVAPzAjP+w3YrC3gZUx0Cw0EnioovF0C+7ijUSYYF8dnc9h2gjFoopRi6qKMZlkiMSagCWYXmPOQqpJWAtXWyz9nL6NUs=;IgPxjc3kZFdXyuWVNmIgDA=="
+secured: "UlWbfvVQcVHh1M9yW9HfLTbV6jboPCldzBBwQUu0shqSP5MQL9QAATmeyb+9dNCgRJ4Q967nWF0ps2AYArJ3MvH9t+5kEMyerAg8d1MuGiL1grG/fAMU40y+1WtBOpIz6iz0ECWZ05k4NvKHisXNx7h9sdHM6id1aUp4TiViZwtMbfXEIscRKRs/tlDLMj7j24jqW9nrIBTeR4ke9CQoU60BlAhCQ6y7POS5biUjcMHFZmdWcGGLx7ZSV6wRvFRGSLPcfunBMSCq47TgdWLfF1mn1hpi+xPcOn2Ye9OGwMm+oBNdJ7GZ4TgqTl5eVTRWm/GdSkSy5B3ZOdrs7ho3tI0m19joG0eAizlXICJMi9E=;rWt7ZTIF2znzxHLs/KNjiQ=="
 ---
 

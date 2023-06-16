@@ -103,6 +103,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Google is Flattered by Microsoft’s Azure AI Studio"
+    excerpt: "Listen to this story Earlier this month, Google announced general availability of Generative AI Studio on Vertex AI. With this update, developers can access its text model powered by PaLM 2, embeddings API for text,"
+    publishedDateTime: 2023-06-16T04:29:00Z
+    webUrl: "https://analyticsindiamag.com/google-is-flattered-by-microsofts-azure-ai-studio/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/unnamed-19.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Ernst & Young Adds Microsoft AI Tools to Tax Platform"
     excerpt: "Ernst & Young is tapping Microsoft Corp. artificial intelligence tools to give its tax professionals a technological edge, it said Wednesday."
     publishedDateTime: 2023-06-14T21:43:00Z

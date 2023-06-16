@@ -2,6 +2,92 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-05-02-new-relic-launches-grok-its-ai-observability-assistant.md",
+      "title": "New Relic launches Grok, its AI observability assistant",
+      "excerpt": "New Relic introduces Grok, its generative AI assistant for observability, simplifying data analysis and task management for engineers.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/",
+      "originalUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/11/new_relic_disrupt_afterparty.jpg?resize=1200,645",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/02/new-relic-launches-grok-its-ai-observability-assistant/amp/",
+      "publishedDateTime": "2023-05-02T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-deep-learning-in-drug-discovery-and-deep-learning-in-diagnostics-market-is-anticipated-to-grow-at-over-20-cagr-claims-roots-analysis.md",
+      "title": "Deep Learning in Drug Discovery and Deep Learning in Diagnostics Market is anticipated to grow at over 20% CAGR, claims Roots Analysis",
+      "excerpt": "Roots Analysis has announced the addition of \"Deep Learning in Drug Discovery Market and Deep Learning in Diagnostics Market (2nd",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/deep-learning-in-drug-discovery-and-deep-learning-in-diagnostics-market-is-anticipated-to-grow-at-over-20-cagr-claims-roots-analysis-301813085.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/deep-learning-in-drug-discovery-and-deep-learning-in-diagnostics-market-is-anticipated-to-grow-at-over-20-cagr-claims-roots-analysis-301813085.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-see-the-14-slide-presentation-an-ai-powered-startup-used-to-raise-25-million-to-upend-pharmaceutical-marketing.md",
       "title": "See the 14-slide presentation an AI-powered startup used to raise $25 million to upend pharmaceutical marketing",
       "excerpt": "Drug commercialization and marketing together are an expensive and labor-intensive process. Odaia is looking to change that through AI.",
@@ -1138,101 +1224,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-trailers-are-extremely-funny-abominations-for-now.md",
-      "title": "AI Trailers Are Extremely Funny Abominations. For Now",
-      "excerpt": "This hellish atrocity I've just described is an AI generated trailer, designed to show the capabilities of AI created content. It is, in no uncertain terms, an abomination. It's also extremely funny.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/ai-trailers-are-extremely-funny-abominations-for-now/",
-      "originalUrl": "https://www.cnet.com/tech/ai-trailers-are-extremely-funny-abominations-for-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/61a5f420b79395e60ab2c3b95dc1c53900376fb7/hub/2023/05/02/53a395d2-d456-40d1-b738-f1efd94ec9f9/screen-shot-2023-05-02-at-11-17-16-am.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny-abominations-for-now/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-trailers-are-extremely-funny-abominations-for-now/",
-      "publishedDateTime": "2023-05-01T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-robotics-experts-in-demand-clerical-jobs-losing-shine.md",
-      "title": "‘AI, robotics experts in demand; clerical jobs losing shine’",
-      "excerpt": "ISLAMABAD: The decision about what career to opt for is often a tough choice, but knowing what jobs are in demand and how the future markets will look like could help making an informed decision. According to a new report by the World Economic Forum (WEF) artificial learning and machine learning specialists,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dawn.com/news/1750426/ai-robotics-experts-in-demand-clerical-jobs-losing-shine",
-      "originalUrl": "https://www.dawn.com/news/1750426/ai-robotics-experts-in-demand-clerical-jobs-losing-shine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dawn.com/large/2023/05/0208295449a04c8.png?r=083100",
-          "width": 798,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dawn",
-        "domain": "dawn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

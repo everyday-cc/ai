@@ -89,6 +89,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Google is Flattered by Microsoft’s Azure AI Studio"
+    excerpt: "Listen to this story Earlier this month, Google announced general availability of Generative AI Studio on Vertex AI. With this update, developers can access its text model powered by PaLM 2, embeddings API for text,"
+    publishedDateTime: 2023-06-16T04:29:00Z
+    webUrl: "https://analyticsindiamag.com/google-is-flattered-by-microsofts-azure-ai-studio/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/unnamed-19.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Teams up With Indian SMBs to Unleash Generative AI Brilliance"
     excerpt: "According to Microsoft research, almost 35% of SMBs surveyed were spending over 10% of their revenue on technology. Not only this, SMBs in India are also exploring leveraging the capabilities of Generative AI."
     publishedDateTime: 2023-06-12T07:37:00Z
@@ -136,6 +150,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "RrKmwV4GXtgK4rozYEQoEkNWJ2/+I4OWa3Hv2sLpmMaCv5rZ8Jej28T9/JutchG2U7AszyEw/rTxySpwoT97b9PqT94bR3OLKUs+dZVzLqqJU/5Xe0HkZV+5iTLqRcO00EU414cBXI86gLW+C8sXGgNZCocBcq/d3T7avt3V1JtAjk6K7V5TJIJW3PPQVu8Og6HVErucWtEnIGFALZ2ZzHJDyEHQNXTXLgC30up/yvAecySUUKZs0kLwK5AGm9HTSdp1OJq9YuLmt/0IMdEyB9OCw30p2DFbyEx29XjNB4E1j7NKJlXU0blC6NSdhArLPM3drxbxHHQ6DSDyTo094QvXlLypL9DLFo+9j6V+Zi4=;wuS0kZgmhNtXnLH34ODCkA=="
+secured: "s3HhIrU2XGIre6lYZCBqShjQN8kmzA+KdPIkFyoiEbattNf6ZNy+k2uvmSjXf1QOi21gjuqI+sxGSFWq6zBHfaJNaVtf9v0malZm6IXyeP1kmgjHkxTMn9ue0yace/sBu3FhqAIQbBxsf58krvOnZq5X8Oih1IwCdotFi3KrCRJk37h4PaKpq2VA49uUH0xNsA1UaeVlvYzTrdk2AKITGmxEd5xOO75vdDfyFbw3CQsmubRuXjYl3Qd+B3vRHBWZ6+JhWsk4fejs5f8xRsds1iXuA70gXRl2BAWj1ZvIOKOo/4JN6UH5qr5FfzR+Qz573uSpuSla5RFlfkg3nP4EBOSvkrO7a4eD8ml+0TtUEuSBlMdRiF7FySvlWjRCs/IQmekjPID1TOLMWmA5fUEZr+AcM4djvoD51aQENj591gXh7mf+nqGe5W9OBfqODsid1sFSf9s72qoGbddr09hpv79Pu2kP2x53qeF9VA33sSB4xEBknNVqmqyVRsEXKECPlsy/RVrQOaatIdnTZeRzGg==;k8o/E5ZNzpRTjUgmBTNjqg=="
 ---
 

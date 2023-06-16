@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Introducing Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization"
-excerpt: "Cognite, a globally recognized leader in industrial software, today announced the launch of Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization. Cognite AI, a comprehensive suite of Generative AI capabilities within Cognite’s core Industrial DataOps platform,"
-publishedDateTime: 2023-06-15T19:23:00Z
-originalUrl: "https://www.afp.com/en/news/1315/introducing-cognite-ai-generative-ai-accelerator-industrial-data-and-value-realization-202306131435971"
-webUrl: "https://www.afp.com/en/news/1315/introducing-cognite-ai-generative-ai-accelerator-industrial-data-and-value-realization-202306131435971"
+title: "Introducing Cognite AI, The Generative AI Accelerator For Industrial Data And Value Realization"
+excerpt: "(business wire )--cognite , a globally recognized leader in industrial software, today announced the launch of Cognite AI, the Generative AI Accelera"
+publishedDateTime: 2023-06-16T04:45:00Z
+originalUrl: "https://menafn.com/1106445495/Introducing-Cognite-AI-The-Generative-AI-Accelerator-For-Industrial-Data-And-Value-Realization"
+webUrl: "https://menafn.com/1106445495/Introducing-Cognite-AI-The-Generative-AI-Accelerator-For-Industrial-Data-And-Value-Realization"
 type: article
-quality: 7
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: AFP
-  domain: afp.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2023-06/15/A_57b37image_story.jpg"
+    width: 480
+    height: 270
+    isCached: true
 
 related:
   - title: "AMD unveils MI300x AI chip as 'generative AI accelerator'"
@@ -175,6 +181,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "ZiL+ScMohPs7PaPaiuTDBCecwjwl7AoWTwln2b/xlttts+ql8Vk9tv6njGhu6gxdnks2isJcNvrh7bp/+tiUkjlRFwq2EpylvNWBKxd2aSt01sLAh9ZjXWJKjU4cpKWMXTaS7CwEjHgHb5tnZInQkjA5aGm6udReHk0dnoGMyMcVsG0yVyGTqjaUll8jTwUzyKOOr3pjPAuBBeMTJG/VGvcqsqbk3wka7FjgOfDCwQPipzMGqo7LPnAQPb/5jX7/3QcBd41lQDLIcC9M6ymtgfHN6D/Tuo16t6TrYYN0csnZm+IiTyj/rs7N4FyPOFcDSF/d060qQQwEL4UifCO//qv7C5SxcpOBSh8w3mMJPhjZuzwW6lhnBUuz0It4Uqnkzq5yGpekX7Br52ymwCEZEKAQbaWeEUsoV4tM3JKkkLxtoyNnVVogp7NLZZU6V5y9QNQWdrDQ6EumD4qy4g5i/KavYuHiy4xAdovCJCYhWgxV6xiHYoMXDMyOt/lkj2R5LfdBpItNWyFFn/xX2dn/lg==;J+I9g9naHL1ToQDQEH9rzQ=="
+secured: "GA7/UQTM6MeUfx3EqUzHoooKnYB1KdGRWR4vOXf702E+Dv1aLbuu1QuBow6WoGuWeW0uSsQWCpk7Lw2Z87h207xKfc9B8ON2zglOMe8foZZwdLOOQmmgOuqW8rH+JlbNxr5UMU6wwdAun37hx2cvZECEWTDNldkY1b4a/dUngmlMSqScefh4fqKMXCJ4omF8JYH4S8QvPMPgfx31bxnG5IGNK/Twiu7Mw31XgwZnvEN8dEbIrgwqeLe+mhWvz/WxFBQ/cUMNgA9iOTRTjNgq6aqc/J+fvw0eQ7BUmCL+mtlcuXN90vMVD/mNvA+gn/mYhZKyWuSm/yENTCt07K/rEnwoIGxNv2kONTAp1GejgkI=;jvOoBZoaTPEbZYRfQ3yThg=="
 ---
 

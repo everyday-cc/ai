@@ -136,22 +136,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "5 ways how Artificial Intelligence improve the workplace"
-    excerpt: "Artificial intelligence (AI) is now a part of our everyday lives. More than we may sometimes realize; AI solutions are changing almost every aspect of our lives, and this extends well into the workplace as well. The impact of AI on the future of work is a ..."
-    publishedDateTime: 2023-06-11T11:31:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-5-ways-how-artificial-intelligence-improve-the-workplace-3121818/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Untitled-design83.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Generative AI's impact on chip industry and the upcoming growth cycle through 2024"
     excerpt: "Generative AI is stealing the spotlight from all other tech products as ChatGPT accumulated 1 million users in just a few months, and now tech analysts from UBS Investment Bank released their latest estimates of its impact on the semiconductor industry business."
     publishedDateTime: 2023-06-14T06:18:00Z

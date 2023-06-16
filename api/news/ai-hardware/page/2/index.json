@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-05-google-pixel-8-could-get-a-major-gaming-and-ai-boost-from-leaked-tensor-g3-chip.md",
+      "title": "Google Pixel 8 could get a major gaming and AI boost from leaked Tensor G3 chip",
+      "excerpt": "One of the biggest upgrades likely to be offered by the Google Pixel 8 and Pixel 8 Pro is the chipset. We fully expect Google to replace the Tensor G2 found in the Pixel 7 series with a new Tensor G3, and now that chipset has leaked in full.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/google-tensor-g3",
+      "originalUrl": "https://www.techradar.com/news/google-tensor-g3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LJ7EmqJytnTPW6r4ag3GmZ-1200-80.jpg",
+          "width": 1000,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-duet-ai-for-google-workspace-what-is-it-and-how-does-it-work.md",
       "title": "Duet AI for Google Workspace: What is it and how does it work?",
       "excerpt": "Google has unveiled a new basket of features for its suite of apps, collectively called Duet AI for Workspace. Here's how to use it.",
@@ -357,17 +409,17 @@
     {
       "path": "_news/2023-06-02-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
       "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
-      "excerpt": "AI chips and their leading designer, Nvidia, are now at the center of what some experts consider an AI revolution that could reshape the technology sector and possibly the world along with it.",
+      "excerpt": "It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper. Such chips have suddenly taken center stage in what some experts ...",
       "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_0b2fb5bc-4a89-5c56-89ed-f184640d02a0.html",
-      "originalUrl": "https://www.stltoday.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_0b2fb5bc-4a89-5c56-89ed-f184640d02a0.html",
+      "webUrl": "https://omaha.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_b29fedbe-109c-55f5-96f5-b3b3303c2067.html",
+      "originalUrl": "https://omaha.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_b29fedbe-109c-55f5-96f5-b3b3303c2067.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/b2/0b2fb5bc-4a89-5c56-89ed-f184640d02a0/6478bbdbdbe14.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/29/b29fedbe-109c-55f5-96f5-b3b3303c2067/6478bd1bd654c.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -379,11 +431,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T11:30:00-07:00",
+      "publishedDateTime": "2023-06-01T11:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
+        "name": "Omaha.com",
+        "domain": "omaha.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -495,19 +547,19 @@
     {
       "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
       "title": "AI chips are hot. Here’s what they are, what they’re for and why investors see gold",
-      "excerpt": "It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper. Such chips have suddenly taken center stage in what some experts ...",
+      "excerpt": "This photo provided by the chipmaker Nvidia shows the company’s HGX H100 module, which can use as many as eight AI chips to train artificial intelligence systems and perform other tasks.",
       "sourceUrl": null,
-      "webUrl": "https://www.koin.com/news/business/ap-business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
-      "originalUrl": "https://www.koin.com/news/business/ap-business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
+      "webUrl": "https://wtop.com/national/2023/06/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
+      "originalUrl": "https://wtop.com/national/2023/06/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/05/64782e712aa221.54847492.jpeg?w=1280",
-          "width": 1280,
-          "height": 853,
+          "url": "https://wtop.com/wp-content/uploads/2023/06/AI_Chips_Explainer_85626-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -517,11 +569,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T07:49:00-07:00",
+      "publishedDateTime": "2023-06-01T04:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KOIN 6",
-        "domain": "koin.com",
+        "name": "WTOP News",
+        "domain": "wtop.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1379,58 +1431,6 @@
         "AI",
         "Microsoft AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation.md",
-      "title": "Nvidia Dominates AI Silicon, But That Doesn’t Justify A $1 Trillion Valuation",
-      "excerpt": "Nvidia (NASDAQ: NVDA) stock surged by 24% in Thursday’s trading after the company posted a better-than-expected set of Q1 FY’24 results and provided Q2 revenue guidance that was well ahead of Street estimates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647591d4304997e476bb5bd0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/",
-      "publishedDateTime": "2023-05-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

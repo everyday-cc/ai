@@ -95,6 +95,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "AMD's new Instinct MI300X for AI will consume a lot of power, like 750W"
+    excerpt: "It's starting to look like we're getting pretty close to seeing a new GPU draw 1KW of power as standard, with AMD's new Instinct MI300X rated at 750W."
+    publishedDateTime: 2023-06-16T04:32:00Z
+    webUrl: "https://www.tweaktown.com/news/91924/amds-new-instinct-mi300x-for-ai-will-consume-lot-of-power-like-750w/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91924_01_amds-new-instinct-mi300x-for-ai-will-consume-lot-of-power-like-750w_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
 
 secured: "t/BJJ70nvkvlLysuqxwBTHXELSz04bswjvqVRVIyMPI2c9Q9iaoIClSwnUPiq466ORlBUrUapEHfPXJNPS1w5qZPJ03tBeJO+9HecJXucShZF2R9CBjMq1O/c4xTgZr6CoI/QrsJ8BfS5POK9iUAXbjwcoEqEV//VUIwMECAouFLCthnMHtnYhaUxwhXPnS2cL6yYKX7Ovo61L9z0NU0sgEFx1zluK5pCA06cE9kg+C+CQRL0d9W3bv356eA4tg+3n0sWacnoqaCxn/35i6P6HEQ+mSW58UAVCZxsGeCdcLxikQqGa0bEn+IW9veNmHgVBgNwkgd1aHKmv02hjSiJAhIDI9OcRgI6PGH04aB4fg=;7aiE9k1e1meqe4eL3OrMvg=="
 ---
