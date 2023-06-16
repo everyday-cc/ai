@@ -79,6 +79,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Visions for the Future: How the Apple Vision Pro Could Herald a New Era for Fintech"
+    excerpt: "Fintech is an industry continually taking finance to new heights with its dedication to digital transformation and innovations geared toward disrupting traditional sector processes. With the recent launch of Apple’s flagship Vision Pro mixed reality headset, we may soon see another technology driving growth in fintech."
+    publishedDateTime: 2023-06-16T09:58:00Z
+    webUrl: "https://www.finextra.com/blogposting/24390/visions-for-the-future-how-the-apple-vision-pro-could-herald-a-new-era-for-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 18
+    images:
+      - url: "https://i.ibb.co/gWrpkgx/VR.png"
+        width: 639
+        height: 420
+        isCached: true
   - title: "Global Fintech As A Service Market Key Players, Size, Technology, End User, Demands, Growth Rate And Forecasts To 2028"
     excerpt: "ReportsnReports PUNE, INDIA, June 12, 2023/einpresswire.com / -- The global fintech as a service market is anticipated to experience signific"
     publishedDateTime: 2023-06-12T12:25:00Z

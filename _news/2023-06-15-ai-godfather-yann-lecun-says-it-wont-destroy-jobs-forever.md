@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-65886125.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65886125.amp"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1232B/production/_130093547_ai-index-meta.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "“AI will not destroy jobs forever,” states Yann LeCun, one of three AI Godfathers and Meta scientist"
+    excerpt: "Yann LeCun, the chief AI scientist at Meta, has dismissed the idea that AI will dominate the world or cause job losses as ‘utterly absurd’."
+    publishedDateTime: 2023-06-16T08:15:00Z
+    webUrl: "https://www.livemint.com/ai/ai-will-not-destroy-jobs-forever-states-yann-lecun-one-of-three-ai-godfathers-and-meta-scientist-11686901945627.html"
+    ampWebUrl: "https://www.livemint.com/ai/ai-will-not-destroy-jobs-forever-states-yann-lecun-one-of-three-ai-godfathers-and-meta-scientist/amp-11686901945627.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-will-not-destroy-jobs-forever-states-yann-lecun-one-of-three-ai-godfathers-and-meta-scientist/amp-11686901945627.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/16/600x338/ASEAN-AI--0_1686903129467_1686903156576.JPG"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "F+9od7PFdpNulRbyUOdhJLazfbKL40mIhSHeLd8vFM+aEn5MQlyM5p8oGuL1+VwGZ4ey6V6TXLTMOeKr/lD9lxdqXwvWcuxGXUby+oQDzJag5H3Il4w85LdzyPajGFSl6u+GPe5gSkk2XQ81Ip9YkYsJJdRKBJJyM/qhBUXifeW8iWTSmu6Ou6c0relxCxTVI4Ze+ZIMdYlav6hgjplG7nQwq8McrO0DJmAH/oxqg1Wn0UMni4vOIeCwy5YBdR+kksHqk6IRYqDCnnlfRuLXAlD7/Z8ETiA9I2sjoEQ6t9BjcbisgCArNuIJr92nUlaw5FWWruy1ku09ZDl4RRi8gQAuwAR+bxjK7BYMA+Vz81IyEVIiYKFvtgEFaJ2cuskp2C/br49yELjYfmqKXOZtajRqEVQk4sXKfryMJud+ec1S/+JAuhFBlTQjMbBHC4EBRRbx+mmSrP5PPi8H51vdr1FBlNeTidDvd0LNXOVv0BL8UviKNFRg+XspKU2emSTp8/xdw/hf33s95xyBxwJoZA==;vhOuC9MaoPpNYpvyjKWSOQ=="

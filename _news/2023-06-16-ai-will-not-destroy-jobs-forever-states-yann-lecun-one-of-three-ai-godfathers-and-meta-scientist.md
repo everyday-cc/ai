@@ -1,0 +1,81 @@
+---
+category: news
+title: "“AI will not destroy jobs forever,” states Yann LeCun, one of three AI Godfathers and Meta scientist"
+excerpt: "Yann LeCun, the chief AI scientist at Meta, has dismissed the idea that AI will dominate the world or cause job losses as ‘utterly absurd’."
+publishedDateTime: 2023-06-16T08:15:00Z
+originalUrl: "https://www.livemint.com/ai/ai-will-not-destroy-jobs-forever-states-yann-lecun-one-of-three-ai-godfathers-and-meta-scientist-11686901945627.html"
+webUrl: "https://www.livemint.com/ai/ai-will-not-destroy-jobs-forever-states-yann-lecun-one-of-three-ai-godfathers-and-meta-scientist-11686901945627.html"
+ampWebUrl: "https://www.livemint.com/ai/ai-will-not-destroy-jobs-forever-states-yann-lecun-one-of-three-ai-godfathers-and-meta-scientist/amp-11686901945627.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-will-not-destroy-jobs-forever-states-yann-lecun-one-of-three-ai-godfathers-and-meta-scientist/amp-11686901945627.html"
+type: article
+quality: 44
+heat: -1
+published: false
+
+provider:
+  name: Mint
+  domain: livemint.com
+
+topics:
+  - Facebook AI
+  - AI
+
+images:
+  - url: "https://www.livemint.com/lm-img/img/2023/06/16/600x338/ASEAN-AI--0_1686903129467_1686903156576.JPG"
+    width: 600
+    height: 338
+    isCached: true
+
+related:
+  - title: "AI 'godfather' Yann LeCun says it won't destroy jobs forever"
+    excerpt: "In 2018 Prof LeCun won the Turing Award with Geoffrey Hinton and Yoshua Bengio for their breakthroughs in AI and all three became known as \"the godfathers of AI\"."
+    publishedDateTime: 2023-06-15T07:59:00Z
+    webUrl: "https://www.bbc.com/news/technology-65886125?at_bbc_team=editorial&at_ptr_name=twitter&at_campaign_type=owned&at_format=link&at_link_type=web_link&at_link_origin=BBCNews&at_link_id=7862FF40-0B08-11EE-BF8D-DE9FD772BE90"
+    ampWebUrl: "https://www.bbc.com/news/technology-65886125.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65886125.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1232B/production/_130093547_ai-index-meta.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Meta scientist Yann LeCun says AI won't destroy jobs forever"
+    excerpt: "In 2018 Prof LeCun won the Turing Award with Geoffrey Hinton and Yoshua Bengio for their breakthroughs in AI and all three became known as \"the godfathers of AI\"."
+    publishedDateTime: 2023-06-15T07:59:00Z
+    webUrl: "https://www.bbc.com/news/technology-65886125"
+    ampWebUrl: "https://www.bbc.com/news/technology-65886125.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65886125.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1232B/production/_130093547_ai-index-meta.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "AI 'godfather' Prof Yan LeCun says it won't take over the world"
+    excerpt: "In 2018 Prof LeCun won the Turing Award with Geoffrey Hinton and Yoshua Bengio for their breakthroughs in AI and all three became known as \"the godfathers of AI\"."
+    publishedDateTime: 2023-06-14T23:02:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-65886125?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-65886125.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65886125.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1232B/production/_130093547_ai-index-meta.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
+secured: "jkAnkDWTDe4XrhNvswAAtuk+4N/wbGi5bJ/rzn/Yji8xw85bz5j7wZ6abinlrU44rcr5OXIZe60i778V4tTAW0XjBXkmMUSECcnpd+FD3mHpf4sivPaNLSPXqf0V1o2+u3EVBak4zovF+GeD4mJ3+AQxbDjvgsriaUZgA5NzB9sy10Y8J1gPoJJAtaXHEMuTA+W8PdlyZN3aeC8dBInlPOrwiH36e6tcImSKbwGoq93L5kGGjXMcmQSfrRLWNo9X8XRqtDky0K4MBsvxvZik8WjDu0dO2IeyXwd9PCHPCbMJTuFQ/vDjpmHoN53ziPnu094PDIGwaRLox4Ik5i8MMWmLCqL6AvQibsVRfrMWRsw=;dlv0zXIXL+78gSffxRM13Q=="
+---
+

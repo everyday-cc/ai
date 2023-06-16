@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-16-southeast-asia-to-set-guardrails-on-ai-with-new-governance-code.md",
+      "title": "Southeast Asia to set ‘guardrails’ on AI with new governance code",
+      "excerpt": "Southeast Asian countries are drawing up governance and ethics guidelines for artificial intelligence (AI) that will impose “guardrails” on the booming technology, five officials with direct knowledge of the matter said. Regulators across the world are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/asia/southeast-asia/article/3224342/southeast-asia-set-guardrails-ai-new-governance-code",
+      "originalUrl": "https://www.scmp.com/news/asia/southeast-asia/article/3224342/southeast-asia-set-guardrails-ai-new-governance-code",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/16/5e70a71b-2a77-4987-8c7f-992bc73a28e9_274dbd22.jpg?itok=JUJ7RsRP&v=1686907459",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-ai-rally-knocks-down-asia-stocks-correlation-to-bond-yields.md",
+      "title": "AI Rally Knocks Down Asia Stocks’ Correlation to Bond Yields",
+      "excerpt": "The negative correlation between Asian equities and US bond yields has broken down, as optimism about artificial intelligence overtakes concerns about the Federal Reserve’s next move.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-16/ai-rally-knocks-down-asia-stocks-correlation-to-bond-yields",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-16/ai-rally-knocks-down-asia-stocks-correlation-to-bond-yields",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iB3wgIrE56cs/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-hooksounds-unveils-ai-studio-revolutionising-video-editing-with-artificial-intelligence-generated-soundtracks.md",
       "title": "HookSounds Unveils AI Studio: Revolutionising Video Editing with Artificial Intelligence-Generated Soundtracks",
       "excerpt": "Revolutionising Video Editing with Artificial Intelligence-Generated Soundtracks London, England, United Kingdom",
@@ -61,7 +164,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1167,98 +1270,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-a-to-z-of-artificial-intelligence-ai-terminologies-buzzwords-worth-knowing.md",
-      "title": "A-To-Z Of Artificial Intelligence: AI Terminologies & Buzzwords Worth Knowing",
-      "excerpt": "From deep learning and environment to reinforcement learning and swarm intelligence, here's a handy glossary of AI-related terms worth knowing.",
-      "sourceUrl": null,
-      "webUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
-      "originalUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/06/15/f07ca4ed39925dc0b23208f32d0652101686820877963402_original.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp",
-      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp",
-      "publishedDateTime": "2023-06-15T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.abplive",
-        "domain": "abplive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AI in Autos",
-        "Natural Language Processing",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-bbfc-aws-collaborate-on-ai-project.md",
-      "title": "BBFC, AWS collaborate on AI project",
-      "excerpt": "The formation of the BBFC’s AI Ethics Committee is a clear step in the BBFC’s ongoing commitment to establish policies and procedures concerning AI ethics, and we are pleased to contribute to those activities. We look forward to continuing to share our ...",
-      "sourceUrl": null,
-      "webUrl": "https://advanced-television.com/2023/06/15/bbfc-aws-collaborate-on-ai-project/",
-      "originalUrl": "https://advanced-television.com/2023/06/15/bbfc-aws-collaborate-on-ai-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://advanced-television.com/wp-content/uploads/2019/03/BBFCNetflix-e1686820237688.png",
-          "width": 666,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Advanced Television",
-        "domain": "advanced-television.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

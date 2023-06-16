@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-09-anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development.md",
+      "title": "Anthropic releases AI constitution to promote ethical behavior and development",
+      "excerpt": "Anthropic unveiled its constitution for Claude, which aims to ensure that the AI system adheres to a set of ethical guidelines and principles, thereby making its behavior more helpful, harmless, and honest.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/",
+      "originalUrl": "https://venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/anthropic.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/amp/",
+      "publishedDateTime": "2023-05-09T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-ai-comes-with-ethics-questions.md",
       "title": "AI comes with ethics questions",
       "excerpt": "We’re light years away from Star Trek’s Commander Data, but AI experts tell us technology is closer to some kind of sentience than most realize. Now’s the time to prepare for it, and that includes thinking about ethics.",
@@ -1425,58 +1477,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-artificial-generative-intelligence-risks-a-return-to-cultural-colonialism.md",
-      "title": "Artificial generative intelligence risks a return to cultural colonialism",
-      "excerpt": "The explosive rise of AI chatbots has brought us to a pivotal moment that will have lasting effects on our collective worldview.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/",
-      "originalUrl": "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/",
-      "publishedDateTime": "2023-04-25T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "AI is already causing unintended harm. What happens when it falls into the wrong hands?"
-excerpt: "From 2018 to 2020 I worked on the Facebook civic integrity team ... s public scholar at UC Berkeley, senior research fellow at the International Computer Science Institute, senior adviser for AI ethics at the Psychology of Technology Institute, an ..."
-publishedDateTime: 2023-06-16T07:02:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/jun/16/ai-new-laws-powerful-open-source-tools-meta"
-webUrl: "https://www.theguardian.com/commentisfree/2023/jun/16/ai-new-laws-powerful-open-source-tools-meta"
+excerpt: "New laws are urgently needed to keep powerful open-source tools from being picked up by malicious actors, says David Evan Harris, an adviser on AI ethics"
+publishedDateTime: 2023-06-16T06:00:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2023/jun/16/ai-new-laws-powerful-open-source-tools-meta?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/commentisfree/2023/jun/16/ai-new-laws-powerful-open-source-tools-meta?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/16/ai-new-laws-powerful-open-source-tools-meta"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/16/ai-new-laws-powerful-open-source-tools-meta"
 type: article
-quality: 51
-heat: 51
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
   - AI
 
 images:
@@ -30,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "/43D4TV9o44POIS//6mlts8LyYei2RBVx4+vw+X7vD7Yg8AA/wBmUNuRBfOroq2VXHOBZDTA1iVmCatHVfSfJRgpdDJha4rLcB5jxPUMxLR5X97NA+QnO2wV43kQ+bIP3TJygta1aZdElG58hi201ciS9vskcU68ZcSD8GMHKLVyMVtdPhoYsHMkcqbPxo4mPZgzQXCu1iFgj4lA9itbYDJMfdwas809i5g1yr4q+3vueJwWXB8xl5sf75080pn9fnF/0r+xM0SEGsFUaeaLdSlhQVlJPuRlBr+Dw7D+h6KZyVfxr3s46dQHxHPitfR8Op08Y7vqy59tGRbqBPww8UcyP90Im4N7QNRcxUybfMw=;u5Z4Vf74SHPPt6zUKSqnxQ=="
+secured: "RAL0+vTTPyMNJFfIkN9/+gFVb45z42hvMKlp0C2b2MffPKg8N+C03Ab5A8XdXHb+c7jR5hPrkYtimXuyYKab+ViA/JFFa9WAdzUlnfLsfMNk1NtvLxOhe7F9X4+Z9RqFC/jNOUGeuX6lfB0icpfLbplXxbivt/wMeLi/4O+w928kBIxiDUDxO1bfuTZrZ0E+W1eSpVR9XMSowBwRoZuHa/eNK2jkt0ggZIKv6mPFhxyzqmFpfAXHmWWbmCFPs0g3Mpb7ai351B5GJMdRqdku1y8xPfr1fOcyL5gMPgx4QnmQHuj465vLDHZ7vdtQXX+MAMVKi5SammjCBVGTpwZDtMsSz3F1ZQGYvuHQmLamKzg=;Y65rIK/xffapHba/QrhCdQ=="
 ---
 

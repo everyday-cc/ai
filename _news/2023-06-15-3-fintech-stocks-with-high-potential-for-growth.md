@@ -1,22 +1,18 @@
 ---
 category: news
 title: "3 Fintech Stocks With High Potential for Growth"
-excerpt: "The financial technology (fintech) industry continues to reshape the landscape ... and the global south – further strengthens its long-term prospects. Leveraging AI and machine learning across its products and services enables continued automation ..."
-publishedDateTime: 2023-06-14T17:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-high-potential-for-growth-1032389799"
-webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-high-potential-for-growth-1032389799"
+excerpt: "This article will explore three fintech stocks with exceptional growth potential that are poised to make waves in the market. These three stocks are breeding growth potential with their innovative strategies,"
+publishedDateTime: 2023-06-14T17:31:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-with-high-potential-for-growth"
+webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-with-high-potential-for-growth"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
@@ -126,6 +122,6 @@ related:
         height: 360
         isCached: true
 
-secured: "R1f6ENIA8fpye5Rlh4WUitcg90+vFi0cq4IRi15y4Tdmmhw1THbTGFr2mOSRuBS4d5IJ0xAaCH97yqcEAZnrHAwUd9ytNu2ajDCVX5W03oOOaZUYPVZbpgG8/nHWpsdOUxCbK8FIOY3ujrx1gI5CWQgqvS79clyue6deboxaaoGWcdrD5xaPafo06jlVc0h+AMCoa9Gp0bXODU8GmGM3K8GZ3K7EWoz55y0up3CK7aCVf7OskuY3MsPmmmfBtjbK6cEJBBwc6VgE8ca7uUoIFBeFQP+L7+bzC2AAQIEBRnbKTqK9nnzSY6AZJEK335oJt5DK0Uz/f5wY7szkS423LYuaeMxn8wfqUxZFkA50Zc0=;cmuzTkzTlsqA2iN2iV9F7Q=="
+secured: "qcYwDU8QC8GCId8dCW3QKnImqV7VNxOw3dTuN6W6oJMpDpEAP115/ZJ2MGQfATRY//wTZnVd6zy5K3W6nf9J3mJNY+inHZ4J4BvcNqzHzR0UmwT0i6OPYaaSKm4dD0BfRrVrYCET4xJCM+j8ubigfPQgbAVXY37hyKdQ9T2Yf+n986XSldDm5YlEklCIbBIO7t6ySsQpWV48u23uoGX0mG/NDM3+gbvRtbzAYsjtUMg9lpNLlCdtRWk+jusjw6kFZcHszdtB3/2WS9xdXuUyGo9A1ZCX9o6vljB/k/Jx04zvtAbB49JGuQHLS8A/krnHcD28fLaDVJjFjWhx/2UfVpPmEp5QvG/vF0DnTQJXKdKHILndhTv4aBcX76c+O55NSvMi1IEGVfGE5Nd7a3l77mT1RqNTrkeeSJscIiZj6m9QLXhmqP00uGy/+7h9+ZQ1HZW1GPCbgaHG/UrtP0lxLYv7lIAMcJx8DknR93CpM3ymuQPpgYmVJyOg0hVrL9fB72wUm8cf3+TLNtjoSZ0WCw==;QnsS96jVZ52ApQ0R2DxYww=="
 ---
 

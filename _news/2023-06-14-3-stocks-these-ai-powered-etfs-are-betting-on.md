@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "3 Strong-Buy-Rated AI Stocks to Watch"
-    excerpt: "The recent rally in AI stocks has been the talk of the town these days. OpenAI's impressive large language model (LLM) ChatGPT opened the floodgates of enthusiasm. Indeed, many of us have now had time to get comfortable with generative AI."
-    publishedDateTime: 2023-06-14T01:08:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-strong-buy-rated-ai-stocks-to-watch"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "How to Retire Rich: AI Stocks Edition"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Not many of us remember how the emergence of the Internet changed our lives."
     publishedDateTime: 2023-06-14T12:12:00Z

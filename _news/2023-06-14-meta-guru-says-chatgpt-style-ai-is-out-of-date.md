@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Meta guru says ChatGPT-style AI is out-of-date"
-excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
-publishedDateTime: 2023-06-13T17:18:00Z
-originalUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
-webUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
-ampWebUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
+excerpt: "LeCun spoke as Meta announced its latest AI project -- called image-based Joint Embedding Predictive Architecture, or JEPA. The project seeks to move beyond ChatGPT-like generativ"
+publishedDateTime: 2023-06-14T09:20:00Z
+originalUrl: "https://www.daily-sun.com/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
+webUrl: "https://www.daily-sun.com/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
+ampWebUrl: "https://www.daily-sun.com/amp/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
+cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Daily Sun
+  domain: daily-sun.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
-    width: 2880
-    height: 1616
+  - url: "https://www.daily-sun.com/assets/news_images/2023/06/14/meta.jpg"
+    width: 700
+    height: 402
     isCached: true
 
 related:
@@ -176,20 +176,6 @@ related:
         width: 611
         height: 458
         isCached: true
-  - title: "Researchers Collaborate with ChatGPT to Design Robot"
-    excerpt: "The advent of artificial intelligence has not only reshaped our digital landscape but has also permeated various fields in unexpected ways. In the most recent manifestation of AI's transformative power,"
-    publishedDateTime: 2023-06-11T15:30:00Z
-    webUrl: "https://www.unite.ai/researchers-collaborate-with-chatgpt-to-design-robot/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/06/Screenshot-2023-06-08-at-7.18.42-PM-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "ChatGPT in Tesla: Here’s what Elon Musk has to say"
     excerpt: "Here’s a little background information for those unaware of the history behind Musk and OpenAI—the open-source platform that developed ChatGPT."
     publishedDateTime: 2023-06-12T13:44:00Z
@@ -285,6 +271,6 @@ related:
       domain: azcentral.com
     quality: 10
 
-secured: "J+pXVulOaPorpa2xUmlayzmJQ4eTsPEZIaxaEFq2sPdBeap2R4u75o1klV+7F1mQs/I6BKXFgmJFOHzaq1+1F/Ly3to4ejht4NnwevOxl3B3DzfPhLjywXjf+HOSyy2bGV/xUPPGyv7IXAgzyRU2YtiLz53RteqUfVo1Fr6Rs4pJwhqAxIPZLLBD0e6hHawrjgGoY+wIimqltBqqP3+I/T4fMCGsRBReM9ClBHo6VJchOWIag/HWkY4RQnZzojHId3pmStURz6SXG6pql1FSfEccu0j7srZMkvACnfnJrJ5zgRA540UUTvcvi4iBMpH0HGIyZlnM+4imPztvwGBBvCawVx9eGqP+57qqR8KHnxGlmLYJ9/6PjKsrxjyh5BLxGEfr9Jyr/c/wZXxr4RVIP+ZPverAFVKuH7oxWKPghnyFKtDz9b/XVoFiVH2phEmOT25URgctCY3z4bvTpsaHWqxb3dShgDpwVDN15Yi9MdanidfmBD36QMGTdYY0YPV4xdlZGvrH7PgAJZp1BXlmeA==;uSeUyiA/S7/XUt6LRT1G5A=="
+secured: "HDaxzXJsPFn8rJdK6p4ad7CsKP7Qrjp3BacLjNNqtWw1ZhKx68jCkeNO5ypRdi+tRuvEYjQ9KFMCMaTyZzLFWBFd6aVhUOI5WqzuNFf43jsJzLyXwEWIWvhKqMHhqcBo+Xpw0WdBs6QiLOLDV3Ni8HbocdMF//FoisKUpS5tLquW8bmkN2TP7zNpF9cU+m67It1XjQdm+o3Ljavwg5zwNv2KwOx+cZpSa8n9Ue+AZpgd6jDUdJ5wz5MDT8QaAbONg4sv9jZNE4XwzXvpkMwsphILLNmsdF89GuqlKvcZEtSEKHXhQ/FQaLKymXXxd03RRBzCU2yc+YtX8k5+A/crSwNDcPXW3DJB9m07rJ3Xk80=;qil1JuMGkMqzt7gxi6oKBA=="
 ---
 

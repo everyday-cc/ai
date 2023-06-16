@@ -66,7 +66,7 @@ related:
   - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
     excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
     publishedDateTime: 2023-06-14T14:38:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
     ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
     type: article
@@ -302,15 +302,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Artificial Intelligence Office organises AI-Enabled Entrepreneurs conference in collaboration with NVIDIA"
-    excerpt: "The conference aimed to introduce the latest innovations and developments in the fields of Generative Artificial Intelligence, Metaverses and robotics, and highlight the \"NVIDIA Inception\" programme. The conference further celebrated the success stories of ..."
-    publishedDateTime: 2023-06-11T15:48:00Z
-    webUrl: "https://www.emirates247.com/uae/artificial-intelligence-office-organises-ai-enabled-entrepreneurs-conference-in-collaboration-with-nvidia-2023-06-11-1.712994"
-    type: article
-    provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 17
 
 secured: "5IxE75r3dajR1XUT5IUHx83p/glSaYK2iG58+0QJYgBG2IVm0kYzAdj57bAsC9LA5v2/Rk3g+ULHCuz0SKUjoAP9e2gaCuWKPd+yllbiLR2v9qMImqh8uEq99t1FUWyKaInYz4UAaWNAEnQz/2jQE7tAU580C4FUaaVTXmc1yDtCgqftgnsdqK+A+24fK08SNMTK6tYvDfjxtZlkW907saeD6fbmlVYkgNv//DaV6Ocu3eiiqpKn35bqhIzug6m7Vy5dENW7tSeYRjmsH/Y8x39BYakXfLys2j06skXwV+SMMWfaVVC8aKCQ4QfKGozRHH3/Yc+rXxrRZIFqa9DF2IBN/fGkrsJIHVlc70MycBCo/604Uj7zh8P7B0XRIi5ccA1I+aEBDdTH3nuPPPVUhWKmwQw4c35duA0t+ZLMQfpJZ7hRZxIBEFW8x6Qx/W/Xxf6hyfyoySLoGEpZSVVhSZQUAN8A2TJNrkty0et1d5GR1dmjjyJ6PYtLWhc58bqhvNwus2pzk2er579q2foeYw==;ppXck4DRzPJO5KFSlzFcmA=="
 ---

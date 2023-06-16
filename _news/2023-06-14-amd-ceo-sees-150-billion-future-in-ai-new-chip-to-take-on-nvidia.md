@@ -74,7 +74,7 @@ related:
   - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
     excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
     publishedDateTime: 2023-06-14T14:38:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
     ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
     type: article
@@ -303,15 +303,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 27
-  - title: "Artificial Intelligence Office organises AI-Enabled Entrepreneurs conference in collaboration with NVIDIA"
-    excerpt: "The conference aimed to introduce the latest innovations and developments in the fields of Generative Artificial Intelligence, Metaverses and robotics, and highlight the \"NVIDIA Inception\" programme. The conference further celebrated the success stories of ..."
-    publishedDateTime: 2023-06-11T15:48:00Z
-    webUrl: "https://www.emirates247.com/uae/artificial-intelligence-office-organises-ai-enabled-entrepreneurs-conference-in-collaboration-with-nvidia-2023-06-11-1.712994"
-    type: article
-    provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 17
 
 secured: "8b88v6Cw9ALgfIvWLky0ClferWG9ixxNgtqABPR8n6RCn/a40lrdOiHs+gon6e9bckUjs+KVzHK7h6k+gOy3jOeJlnwT6AUC3dVL7XX+F+W4IUKdJzHz2Y6Ovct9ERQfclKQYnpNZ4YYcnaJwx2JoSRp/1x8WPxFP1JJ6Pb3OX+RmtpSj0Nc8egmxhhJEYKQ5Yv+jEKbhkv8E5drcBNPgB0PDCQiKVoWYQpr5s9cvSja6nbHa8RTymHP+ejuMUT+8XNjKXQ907fcvGpUHNgTyEY1TmFay/kLwY3BtqT0u+PfBOtzYWk19g4FoPOBqNEG/+Qe/ftuUS6jQXBYOx6drgQXo8Ck8QFS9xGOhDdIUhM=;wsi/f1RySOBFF79hlmMxKw=="
 ---

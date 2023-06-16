@@ -73,7 +73,7 @@ related:
   - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
     excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
     publishedDateTime: 2023-06-14T14:38:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
     ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
     type: article
@@ -304,15 +304,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 27
-  - title: "Artificial Intelligence Office organises AI-Enabled Entrepreneurs conference in collaboration with NVIDIA"
-    excerpt: "The conference aimed to introduce the latest innovations and developments in the fields of Generative Artificial Intelligence, Metaverses and robotics, and highlight the \"NVIDIA Inception\" programme. The conference further celebrated the success stories of ..."
-    publishedDateTime: 2023-06-11T15:48:00Z
-    webUrl: "https://www.emirates247.com/uae/artificial-intelligence-office-organises-ai-enabled-entrepreneurs-conference-in-collaboration-with-nvidia-2023-06-11-1.712994"
-    type: article
-    provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 17
 
 secured: "zgargY8T5asauNIEoFKDdBmD+CPLFR3+xkWgcKNbm+e2xGqaNvVsS1jAL4li8NCtjxZ0JBwqjD78CMwKHKysfXigMIN+eCVFvz5hNU9835M7ooz9BnCwezETHPknDhn5Nns9fUbZ3GZP219K/KGHm0ADsX3AePpxWaf0LYBVljN3d2mchm050hyIazjEycZt2IDeKd+/KvkcGneMApWcl2wG/N0G/BQ5A2aZtEwQdZBy3ooVslPIVwIx//fuADJOzvnuAAbCKBktVADtuF+CbLO+ywsKlPgXCcszQhFA41SyS2fCb8mLlxtitqTz7VRzi519MOp6OU84ceO1W+GdGDc+lAdcReAfySi2BTBdc/WOnPl5BZVyevuO14i1GMvvWpzJFRtRDXVculjK7O3M80c9tBTtzt5GeyhN+SFf89EpwcCkGZSv8aqUQ3AZ+VbpEfJRRwRsRoAO9KOmUdoUvEAlJXiVVyihY8fknfgZynJPOOFE5FzIfeQFFXjjD19woIe+svvrwXGAUXFellW1Wg==;qjdQGQAoUhShLbArlleZhg=="
 ---

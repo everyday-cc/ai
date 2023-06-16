@@ -17,11 +17,11 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2018/05/generic20rhode20island20state20house_1524602188734-4.jpg_40592827_ver1.0-4.jpg?w=2000&#038;ssl=1"
-    width: 770
-    height: 433
+  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/06/Olney-Street-crash-providence.jpg?w=2000&#038;ssl=1"
+    width: 800
+    height: 450
     isCached: true
 
-secured: "EwG4dR6oWcfzkCgZygm1+vAPvzL/Uw4XisJwE4qaFiADRJMhHemvI+39nvaRWZecW2cvf0kHXpIAv2YGsoafGYmaPGCMWJqOgGpId8mPeQI/sY2q8SkP6czmEOBi/3F/tbDWoOzaSzCT4louaAWn3sOVHTcGSgSuQxbFSsJ1r4wOFWci7Yf4fC28mhKBmIh0uHFl7BweXnBoa3/Vlczjc3Gev9Z6V21+lJzzJKqziSyc0Z70g/LwsaAUo+RnAbWOf7p46RIq7v1kKg+yrFWhbTVppItPOOYN4LMc3mYZRLH6Hm7+M42okCBSz0bjnBVMlFnszoVvH9jZzYE2GqbeusbCgbn6ZqUAKGtvBGcgkjE=;JdJXJGMCeI8nj/fmianOLA=="
+secured: "XFhBd59BIp/OWysdcenPCQ91NjiQKzO90s1IEogMb+3V0AEJR+SCT9meZEd9TsafvaBRsOr7wrXdWbSHz4TANGvqXS2tDZ0z0QKrYM4TXiiJQYIwKKRZQcgAQmbOthXRURLX45Qvy0gD5fYze9zGmnZtOExdWfro8Psydx6S/sUG0lWbUtHCBboRzZ4mT1DtzihoB9NlnVH79C5o2yaE2Obdod3OxW1kqv0E+/Dy1kHwDl1a8uBtPwi2NXlh0D2Z/x/0SoPcnEmzTvyezjJd+e9mpD9TU6M5I1gzMUpWdUIvvNlz5IXYwicK5WhOea0LABz0ja2fQhFblKfynREt74DIQs3APcZ2VpPxKu4CNxM=;lXrX0biI148xpqjZOqSwFA=="
 ---
 

@@ -79,6 +79,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Visions for the Future: How the Apple Vision Pro Could Herald a New Era for Fintech"
+    excerpt: "Fintech is an industry continually taking finance to new heights with its dedication to digital transformation and innovations geared toward disrupting traditional sector processes. With the recent launch of Apple’s flagship Vision Pro mixed reality headset, we may soon see another technology driving growth in fintech."
+    publishedDateTime: 2023-06-16T09:58:00Z
+    webUrl: "https://www.finextra.com/blogposting/24390/visions-for-the-future-how-the-apple-vision-pro-could-herald-a-new-era-for-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 18
+    images:
+      - url: "https://i.ibb.co/gWrpkgx/VR.png"
+        width: 639
+        height: 420
+        isCached: true
   - title: "F|T: The FinTech Times – SEC sets sights on crypto firms Binance and Coinbase"
     excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest ... The former pro poker player and AI whiz has ‘no regrets’ about launching US$3B crypto startup. Vancouver-based LayerZero raised $120 million USD at a $3 billion valuation ..."
     publishedDateTime: 2023-06-12T13:32:00Z

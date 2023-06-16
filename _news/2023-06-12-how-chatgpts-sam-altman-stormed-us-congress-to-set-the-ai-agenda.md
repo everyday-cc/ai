@@ -101,20 +101,20 @@ related:
         height: 675
         isCached: true
   - title: "Meta guru says ChatGPT-style AI is out-of-date"
-    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
-    publishedDateTime: 2023-06-13T17:18:00Z
-    webUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
+    excerpt: "LeCun spoke as Meta announced its latest AI project -- called image-based Joint Embedding Predictive Architecture, or JEPA. The project seeks to move beyond ChatGPT-like generativ"
+    publishedDateTime: 2023-06-14T09:20:00Z
+    webUrl: "https://www.daily-sun.com/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
+    ampWebUrl: "https://www.daily-sun.com/amp/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
+    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
+      name: Daily Sun
+      domain: daily-sun.com
     quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
-        width: 2880
-        height: 1616
+      - url: "https://www.daily-sun.com/assets/news_images/2023/06/14/meta.jpg"
+        width: 700
+        height: 402
         isCached: true
   - title: "Using AI, ChatGPT to Augment the Future of Healthcare"
     excerpt: "During a June 7 event hosted by Northwestern Engineering, AI@NU, and the Institute for Augmented Intelligence in Medicine, computer scientists and physicians presented examples of how artificial intelligence technologies can augment healthcare tasks."
@@ -184,20 +184,6 @@ related:
       - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
         width: 611
         height: 458
-        isCached: true
-  - title: "Researchers Collaborate with ChatGPT to Design Robot"
-    excerpt: "The advent of artificial intelligence has not only reshaped our digital landscape but has also permeated various fields in unexpected ways. In the most recent manifestation of AI's transformative power,"
-    publishedDateTime: 2023-06-11T15:30:00Z
-    webUrl: "https://www.unite.ai/researchers-collaborate-with-chatgpt-to-design-robot/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/06/Screenshot-2023-06-08-at-7.18.42-PM-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "ChatGPT in Tesla: Here’s what Elon Musk has to say"
     excerpt: "Here’s a little background information for those unaware of the history behind Musk and OpenAI—the open-source platform that developed ChatGPT."

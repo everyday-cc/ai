@@ -57,6 +57,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Xpeng expands self-driving capability to Beijing, eyes wider expansion"
+    excerpt: "Chinese electric vehicle maker Xpeng Inc on Thursday expanded its self-driving capability to Beijing as part of the automaker's expanded launch of City NGP (Navigation Guided Pilot) across the mainland."
+    publishedDateTime: 2023-06-16T09:07:00Z
+    webUrl: "https://www.carsifu.my/news/xpeng-expands-self-driving-capability-to-beijing-eyes-wider-expansion"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 24
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/06/Xpeng-ADAS-2-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Watch Out! Tesla - Rival XPeng Launches Self-Driving Tech in China"
     excerpt: "Also Read: XPeng Stock Drops After Q1 Earnings and Cautious Outlook: The Details XPeng said its City NGP (Navigation Guided Pilot) system, which is similar to Tesla Inc's TSLA FSD (Full Self-Driving) feature, is also available in Shanghai, Shenzhen ..."
     publishedDateTime: 2023-06-15T13:12:00Z

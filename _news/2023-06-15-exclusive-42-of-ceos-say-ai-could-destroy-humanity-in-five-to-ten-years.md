@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-ceos-warning/index.html"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
     quality: 84
     images:
       - url: "https://www.reuters.com/resizer/nWxnRVa8tZitEsJFI8qeg3L-Us8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LAD5NMZL7NOLXAROIUJFCXN5A4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Exclusive: Southeast Asia to set 'guardrails' on AI with new governance code"
+    excerpt: "Southeast Asian countries are drawing up governance and ethics guidelines for artificial intelligence (AI) that will impose \"guardrails\" on the booming technology, five officials with direct knowledge of the matter told Reuters."
+    publishedDateTime: 2023-06-16T07:13:00Z
+    webUrl: "https://www.reuters.com/technology/southeast-asia-set-guardrails-ai-with-new-governance-code-sources-2023-06-16/?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+    images:
+      - url: "https://www.reuters.com/resizer/ea0d2lDu0N6wARD6MMauY1tDj44=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4B4CWPO5WVNHTHRQ3CCDGQXKTU.jpg"
         width: 1200
         height: 628
         isCached: true

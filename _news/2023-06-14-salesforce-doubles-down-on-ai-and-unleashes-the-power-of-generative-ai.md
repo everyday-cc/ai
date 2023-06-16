@@ -132,6 +132,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "8 Best AI Logo Generators You Should Use"
+    excerpt: "The AI market is rife with many different tools, and today, we have listed the best AI logo generators to create a identity for your brand."
+    publishedDateTime: 2023-06-16T08:38:00Z
+    webUrl: "https://beebom.com/best-ai-logo-generators/"
+    ampWebUrl: "https://beebom.com/best-ai-logo-generators/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/best-ai-logo-generators/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 57
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/06/Best-AI-Logo-Generators.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Elevating customer experience: The rise of generative AI and conversational data analytics"
     excerpt: "As the digital-first business landscape becomes increasingly complex and fast-paced, generative AI is becoming an indispensable tool."
     publishedDateTime: 2023-06-15T23:00:00Z
@@ -205,20 +221,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/farmer-gpt.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Oracle invests in Cohere, plans to integrate generative AI tools into its cloud"
-    excerpt: "Oracle has invested in generative AI company Cohere, in a deal that valued the business at around $2.2 billion. The $270m Series C round also saw participation from Nvidia and Salesforce. Oracle's investment is said to loosely mirror that of Microsoft with OpenAI and Google with Anthropic,"
-    publishedDateTime: 2023-06-11T16:09:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/oracle-invests-in-cohere-plans-to-integrate-generative-ai-tools-into-its-cloud/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 35
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Oracle_plane.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Adobe to sell generative AI subscription with copyright assurance"
     excerpt: "Business customers will be charged a flat-rate subscription for companywide access to new so-called generative AI tools across Adobe products."

@@ -2,9 +2,9 @@
 category: news
 title: "Mphasis launches 'Mphasis.ai' business unit to help enterprises leverage the power of Generative AI to drive business outcomes and efficiency"
 excerpt: "Mphasis, (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today launched 'Mphasis.ai', a first-of-its-kind business unit, focused on transforming organizations globally by unlocking the potential of Artificial Intelligence (AI) to maximize business outcomes."
-publishedDateTime: 2023-06-01T14:48:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/01/9825024.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/01/9825024.htm"
+publishedDateTime: 2023-06-01T16:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mphasis-launches-mphasisai-business-unit-help-enterprises-leverage-/2023/06/01/9825024.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mphasis-launches-mphasisai-business-unit-help-enterprises-leverage-/2023/06/01/9825024.htm"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 215
     isCached: true
 
-secured: "rX0a1x3jvHMmlBOR0UTYpZHb5WfN1hidAoqzGYMlEnjUQPLhJE9i+GT6wqd6WTSLfnyEa+YT7UEGzF79o4aLhbtUKZBb1XilQs3ICWf2pm1iH0xHCO7nCPvCJjnWd6vubafLvfGchgXufIX3krfhPiGcOXZxyoj+coaHGNLWB1ZLg974EnPPCMp1wDIIyKKmRNdLiYKe2bOn0fPY8SyBnhtMV4wNeeQ8z/GqCvZ+WXzqQZ2IoPpMBFpOpDGzGF0+Bj7MnA1UjWVM1NrLCSInadN9KIyU/w8SfJkEU5pYh4O7fWhszGM7Fcbyvz94t6hSwJ/VeppvuBS9gNj3WXVR1IzgdVWsHqtNElNd+MF4KOIrWS6nhxxIH2Qp3FXoOSzGoaZLTpsd0lX4zRNmdC7F8jQE7mc983pklWPVIu2W9s7ttj0qCj9hOtgM4z9Ox/uBROcZktdiEszAH9s8KvtPLfmUmexzVlEMgYrJ2ORbZ0llFe+SNSe9eFP3oX/ACQHPuMHO6hAuyyzU1nZkaseaqg==;3FkH1Tn/HvDyd8oKCvsC9g=="
+secured: "/odsvMRZ+qwchqqcq+4Or68jMyOtZe/ZaEiX76XplxgX/mcSt3PgpZCbg/2tAKJU4skmzP/1YwaTGis5Yr/76IIKB3zzh19ydei0301OD/BmNn1FBWotDo9RNZXCbYc+Y1PpJErpUloHu9dMQbQ30nNAjN7kuVVaVP2LITolmC81OgBq+VP0KVdzXajcyerOW2/AirzWBgbPgcgPjFpM4qd3YxOH84hA5pvvO49w1ux0p7XafP8E/twXD5cBkjSjjymI/4PmTA2bBB6Rx6hkMPYvDFI8cAwj+fdZn4n3gBGhrBPUwxbwR1K0+PdguTjoAOnH8MRBKPGtkbE/Jp8GpHxyxtdrNmF8CnfG+uDWAPc=;7Pit9vKk8GrFKbqlASDGIA=="
 ---
 

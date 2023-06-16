@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tsmc-stock-outpaces-chips-on-r
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tsmc-stock-outpaces-chips-on-report-nvidia-ai-order-boosted-capacity-use-81f76f26"
 type: article
 quality: 102
-heat: 322
+heat: 312
 published: true
 
 provider:
@@ -62,7 +62,7 @@ related:
   - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
     excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
     publishedDateTime: 2023-06-14T14:38:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
     ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
     type: article
@@ -307,15 +307,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 27
-  - title: "Artificial Intelligence Office organises AI-Enabled Entrepreneurs conference in collaboration with NVIDIA"
-    excerpt: "The conference aimed to introduce the latest innovations and developments in the fields of Generative Artificial Intelligence, Metaverses and robotics, and highlight the \"NVIDIA Inception\" programme. The conference further celebrated the success stories of ..."
-    publishedDateTime: 2023-06-11T15:48:00Z
-    webUrl: "https://www.emirates247.com/uae/artificial-intelligence-office-organises-ai-enabled-entrepreneurs-conference-in-collaboration-with-nvidia-2023-06-11-1.712994"
-    type: article
-    provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 17
 
 secured: "leDRHkgsIdQLF93ubVc6qn8Tbd7bmtB2sK9bXC4yPmIxDFTA4tSfxOqpDGwgcd+ZH19lDKyH3hhAqlayUgUTjd7mgP91+CBCZFGWKLhrw6ev7QH9+kVX5GHhYbG63BL3kw91E7J/2iIpgZx6IsdL5dKoZ1IrYThpSOeTKWnCETSbL1n/HAQvrOdNB9tlA14CBf7+ZJ2QHK3pByb/SPwRPhV6pC/sDJCHG03MN6MlAONM+5mQhRrR2ysE75g/lPT5A4rbSIwRoj84C8yS6h4+cq+6l2LJNQm0hkQ+bj6EnjNJUtDnqhHar/GEL321cGQV4IkMNry8PeoCRDDxkgqH7EaaZfeFYncOZ2a5OtAL2hAMdZb5a3Y3G7dMFneALQnDPmR425ufdzzJYWsS5zu0JOfdLK3odt8V9WAHQlGCfMdfEHd+I4by0eJHL6bPXe9c0++b6ErSOGn8ny+1uL1XkC9rv3uACZ0ea+ezrkt9T+OGmB0IWjkirhRFLt009BDFkoXwV04Sv2VNwhIzbpAl2w==;kwUqnF9MdQefWqEmgHfkBQ=="
 ---

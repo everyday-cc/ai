@@ -41,6 +41,22 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Healthcare Virtual Assistants Market: Unlocking the Potential of Virtual Assistants in Healthcare: A Game-Changer for Providers"
+    excerpt: "Growth Plus Reports estimated the size of the global market for healthcare virtual assistants in 2022 to be worth US$ 858.29 million and is expected to"
+    publishedDateTime: 2023-06-16T07:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/g32888455/healthcare-virtual-assistants-market-unlocking-the-potential-of-virtual-assistants-in-healthcare-a"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32888455"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32888455"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "EF/3C2o5HWYGmnNb5J4K55Lz6m4YXgvnFdbjliQFQ5ZdnE4Zw2IaUneEYOZ9k0aBmRbxoCaGKLwXkN3zoOtAnaXfCgevfAJl9aSJKHE6tviGiTGEqG/N5O6ACW4njvingU7922NMKrXEU5ijWmI2hikDEmOiK/dCe3mp2AAEOtZ6PXk/GOtGf7RsENNIPLS88fjq5a1t1AggwrFTenarTWlcdhWsCEO7m+FjK1tK3H/iVqV0axWaA31fnjzWxb/pI4S1QSE62XMOLdwX/iWAWHTkzhb/1rvC7x0iYqJJ4BB+n57nPn1WwwLXhLEuytUIp4r66p6Iq7v6DfpDz933yXdbT6O946CVqsCzQGfro7k=;6BFFSnGDiPLBLOAAvluw1g=="
 ---

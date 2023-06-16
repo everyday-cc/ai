@@ -58,6 +58,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "“AI will not destroy jobs forever,” states Yann LeCun, one of three AI Godfathers and Meta scientist"
+    excerpt: "Yann LeCun, the chief AI scientist at Meta, has dismissed the idea that AI will dominate the world or cause job losses as ‘utterly absurd’."
+    publishedDateTime: 2023-06-16T08:15:00Z
+    webUrl: "https://www.livemint.com/ai/ai-will-not-destroy-jobs-forever-states-yann-lecun-one-of-three-ai-godfathers-and-meta-scientist-11686901945627.html"
+    ampWebUrl: "https://www.livemint.com/ai/ai-will-not-destroy-jobs-forever-states-yann-lecun-one-of-three-ai-godfathers-and-meta-scientist/amp-11686901945627.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/ai-will-not-destroy-jobs-forever-states-yann-lecun-one-of-three-ai-godfathers-and-meta-scientist/amp-11686901945627.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/16/600x338/ASEAN-AI--0_1686903129467_1686903156576.JPG"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "B6EOlyWm+K0Jrm8gG2nzhGV/b18MA0PJInjc8HDl7cQ9BUOcR3C2sS1iCJ5q1vsL7Ij2nqdHzdypWdLf1QzWkf4IohqywEV9NugxQ2zj+35B/dqLODDlpQSqxHeKZX6xZXmwcmxIjdRcFzQOFrUa377BYq6qh4fK3erzMRA5YqCgKj7Tv8uZlrFUeiK9JKXHv4a5xUMhQ2E1UUXwfAQXNwQJEeY5EpFkEqSax1NGs8g/YhUVFvqk402bCMlXHr1cR0nk665ZiPAzoFNF/lxESwb/ycx9+RPXuAHq8BlQaXh1TdjoAgZoOip+eIMGC8aY72elBUobSdQHfC0mF4/tLwq5GO8dby0g5ilDEr0+gXV51cBy5iagt8xV3hY4Qnub0Qq3ZT9ytwRKQtXeLvK8Qh9hcXr5+XqfXzulMCLcrxFjnythbtcRbh0MzBoWllxIG9mKOQ5JqkAwqxQh5MQpYpkaw2MEaIxAlZKBQvHe8bB8XQASHhUeAfbfsSfQTb6MIMCWNyjxbF3iWoyd6ZAyFg==;Ns3TxhuZwTlR4wschYsHHA=="
 ---

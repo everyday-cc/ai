@@ -72,7 +72,7 @@ related:
   - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
     excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
     publishedDateTime: 2023-06-14T14:38:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+    webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
     ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
     type: article
@@ -303,15 +303,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 27
-  - title: "Artificial Intelligence Office organises AI-Enabled Entrepreneurs conference in collaboration with NVIDIA"
-    excerpt: "The conference aimed to introduce the latest innovations and developments in the fields of Generative Artificial Intelligence, Metaverses and robotics, and highlight the \"NVIDIA Inception\" programme. The conference further celebrated the success stories of ..."
-    publishedDateTime: 2023-06-11T15:48:00Z
-    webUrl: "https://www.emirates247.com/uae/artificial-intelligence-office-organises-ai-enabled-entrepreneurs-conference-in-collaboration-with-nvidia-2023-06-11-1.712994"
-    type: article
-    provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 17
 
 secured: "fwW7l5hfwwnAJOYxF5TBnk2RsjNXD3M6IB6vDKr+aQrnGoj4o45l6la9uiyadf09NHp4xs9R6KrGsbGUXLXKK/RWc/OJEWTHX98nvCDaGHKa7fEFttCisObfQ7UpGxkbVfoJC1lvWVZbViqal5rwGC1w2JsG0tyuFNO7e15pj8urXP+Ua2W1IDqjEqbkcMu04acXBlql/i9fi54CyA9JUN78t9+fGJU9xDqPUX+Q8CbE3y/j1kF99795hOWa7juic2agFD55Rwe6/Q43bKtyKpOZlTW1tFhx6GgBwCEGI5sQKEBuPKL8R1eWqWcO1FUiOUuj874dX255bo/oxIp5FNBoSOc2YEJ8xZW9jGUn4Ls=;gG5hH83WPaqORbyxp2SOew=="
 ---
