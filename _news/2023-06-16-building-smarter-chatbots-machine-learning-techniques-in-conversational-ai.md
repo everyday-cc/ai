@@ -102,22 +102,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT: US lawyer admits using AI for case research"
-    excerpt: "A New York lawyer is facing a court hearing of his own after his firm used AI tool ChatGPT for legal research. A judge said the court was faced with an \"unprecedented circumstance\" after a filing ..."
-    publishedDateTime: 2023-06-11T14:13:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-65735769?at_ptr_name=facebook_page&at_link_type=web_link&at_link_id=68EDE33E-FD3B-11ED-A6B2-0BFDD89D5CC3&at_link_origin=BBC_News&at_bbc_team=editorial&at_format=link&at_campaign=Social_Flow&at_campaign_type=owned&at_medium=social"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-65735769.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-65735769.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0BA2/production/_129887920_a51ab5bf0f46a56367ee748173bcbc653fa4a8e9.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Meta guru says ChatGPT-style AI is out-of-date"
     excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
     publishedDateTime: 2023-06-13T17:18:00Z

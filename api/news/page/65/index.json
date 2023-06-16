@@ -2,6 +2,58 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-05-05-top-10-artificial-intelligence-ai-cryptocurrencies.md",
+      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
+      "excerpt": "Editorial Note: Forbes Advisor may earn a commission on sales made from partner links on this page, but that doesn't affect our editors' opinions or evaluations. It’s hard to imagine two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "originalUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg.md",
       "title": "Microsoft helping finance AMD's expansion into AI chips- Bloomberg",
       "excerpt": "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter.",
@@ -1108,59 +1160,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-microsoft-confirms-speech-recognition-issues-in-windows-11-22h20-0.md",
-      "title": "Microsoft confirms speech recognition issues in Windows 11 22H20 0",
-      "excerpt": "According to the company, Windows 11 version 22H2 users might experience problems with speech recognition, expressive input, and handwriting after installing KB5022913 (and subsequent releases).",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-confirms-speech-recognition-issues-in-windows-11-22h2/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-confirms-speech-recognition-issues-in-windows-11-22h2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2022/06/1654151911_windows_vulnerability_story.jpg",
-          "width": 760,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -57,20 +57,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial intelligence: Getting regulation right"
-    excerpt: "EDITORIAL. Setting up an international body to oversee the non-proliferation of the most dangerous AI systems must not serve as a distraction from the more immediate task of regulating AI as it exists today."
-    publishedDateTime: 2023-06-11T14:05:00Z
-    webUrl: "https://www.lemonde.fr/en/opinion/article/2023/06/11/artificial-intelligence-getting-regulation-right_6030878_23.html"
-    type: article
-    provider:
-      name: Le Monde.fr
-      domain: lemonde.fr
-    quality: 39
-    images:
-      - url: "https://img.lemde.fr/2023/06/10/54/0/7256/4837/1440/960/60/0/e269e61_1686380078037-244000.jpg"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "0gozRWoDYv2RMrW2Hmw52pvp2bwOfZJnRGhoK3p3xPT3bv93Qtt6GSCduewnyZocnA1ve1o4XICk5tVOxHrBMY0e6CFGnP8HWQcH1K1dco+muS04Ux+w9RgXbnCBr46H3A/1FxvVpaZ1eTfIam3vQ2SjIYpf6rQ0thwL9FEKyKP7uoXydQe9nSwJa3Mm2n01UD6H/UGRcXQ89/2liixhYxdbp2+y31GF7NeoXTJeVOoRq7sdNjehEShrez9tBXyCcQxrXyHd4cBS80/eXP1YAud/INmGciJnFybokOvkdHBarJr3+YMq6BKkHPMlrYuGnxxC0fVZZXOF9BobFPACewOxDJq1AdgPPdRQXTiFCLI=;ZZtV5ZO2SId6Wz1nIecDQw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-co
 webUrl: "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html"
 type: article
 quality: 82
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "AMD Instinct MI300X Datacenter GPU gets 750W TBP"
+    excerpt: "AMD recently presented its latest technological advancement, the Instinct MI300X GPU, at the Data Center and AI Technology Premiere event on June 15th. In the keynote address, specific information"
+    publishedDateTime: 2023-06-16T06:17:00Z
+    webUrl: "https://www.guru3d.com/news-story/amd-instinct-mi300x-datacenter-gpu-gets-750w-tbp.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
 
 secured: "a6WOoUTOd16YBba1ETEiVh9dCKDcjALttDlKh4w6HZNSXRGkHeo/preyfk8mPMvR1W+sG86R88KEe6kOxvV1yac8CRMzxMtrquF6d6LfHwdIavZcdcLlNi4Kep8oX/FaTr0NIVSaYnlgRQrQzmD9d/wOw55LOvi2Fvs8oJhCCDYUzcT5j3lqutlXhjYztETytOuboX+GvFd4R/FbbHDwUdJZTVCRxW/UY0rEmWJ7dBRVKu4wm+m//SNJ6Qu6QpFzw8Vx14wbjkyRUaDCtKmsrrsILhFzNP/XdL69CimnqAkbnGBoBIxlmUnmCmrjpPMe+pjhfcGj3IDr0cXwlFLwhUfAOP3nyuWgOCUpSueoWBojARlmx2pB6MCWvpQ3wEpck7s+p42KjieQFlV7ZbASGSHHA16DKRX6GMAo7o1N7yEPzVsDns5WrepbM4lMN81gYrUU4GotSlumjbMKeYb1lIlc7MTXwIITLRZz5q1Kqmvyi+F87z5f/Rjwgi1TEOGQ9UMz/zmfI0e0xcZZv0S+sA==;JlpUrKHSSQdra0rzebfZJg=="
 ---

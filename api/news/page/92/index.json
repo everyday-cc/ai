@@ -2,6 +2,58 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-04-19-artificial-intelligence-in-healthcare-market-new-trend-analysis-2023-2030.md",
+      "title": "Artificial Intelligence in Healthcare Market New Trend Analysis 2023-2030",
+      "excerpt": "The Global Artificial Intelligence in Healthcare market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-new-trend-analysis-2023-2030-2023-04-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-new-trend-analysis-2023-2030-2023-04-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-global-healthcare-artificial-intelligence-market-by-2023-2029-with-revenue-outsourcing.md",
       "title": "Global Healthcare Artificial Intelligence Market by [2023-2029] with Revenue Outsourcing",
       "excerpt": "The Global Healthcare Artificial Intelligence market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
@@ -1093,49 +1145,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-investigational-deep-learning-model-may-help-stratify-risk-for-patients-with-endometrial-cancer.md",
-      "title": "Investigational deep learning model may help stratify risk for patients with endometrial cancer",
-      "excerpt": "An investigational deep learning model requiring one histopathologic slide accurately predicted the risk of distant recurrence in patients with endometrial cancer, according to findings presented at the AACR Annual Meeting 2023,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-04-deep-stratify-patients-endometrial-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-04-deep-stratify-patients-endometrial-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/microscope-slide.jpg",
-          "width": 1920,
-          "height": 1271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-04-deep-stratify-patients-endometrial-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-deep-stratify-patients-endometrial-cancer.amp",
-      "publishedDateTime": "2023-04-18T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

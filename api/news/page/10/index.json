@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-08-heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks.md",
+      "title": "Here's one thing AI can do for 3 of our mega-cap tech stocks",
+      "excerpt": "A series of recent deals, announcements and upgrades involving three major cloud-computing names all share a common thread: Artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106207351-1572269966772gettyimages-1135936133.jpeg?v=1686171192&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-ai-can-help-doctors-with-breast-cancer-risk-predictions-a-new-study-found.md",
       "title": "AI can help doctors with breast cancer risk predictions, a new study found",
       "excerpt": "Artificial intelligence is being used in increasingly more areas and could now help predict breast cancer risks, a new study shows. The study, which used five AI algorithms, found that when put to ...",
@@ -346,6 +398,40 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat.md",
+      "title": "Introducing VoxelGPT: AI-Powered Computer Vision Insights Delivered Through Chat",
+      "excerpt": "Game-changing natural language plugin makes complex AI tasks accessible to everyone ANN ARBOR, Mich., June 7, 2023 /PRNewswire/ -- Voxel51, a leading innovator in data-centric computer vision and machine learning software,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/07/9828592.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/07/9828592.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -699,49 +785,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat.md",
-      "title": "Introducing VoxelGPT: AI-Powered Computer Vision Insights Delivered Through Chat",
-      "excerpt": "ANN ARBOR, Mich., June 7, 2023 /PRNewswire/ -- Voxel51, a leading innovator in data-centric computer vision and machine learning software, today unveiled an extraordinary breakthrough in computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32760545/introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32760545/introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32760545",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32760545",
-      "publishedDateTime": "2023-06-07T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1182,58 +1225,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-how-ai-can-address-the-crisis-in-healthcare-labor-costs.md",
-      "title": "How AI Can Address The Crisis In Healthcare Labor Costs",
-      "excerpt": "AI creates exciting possibilities in healthcare, and it’s tempting to fixate on the sexiest use cases. A much nearer-term opportunity lies in addressing labor costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/",
-      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647fd04bcc09b43b71595934/0x0.jpg?format=jpg&width=1200",
-          "width": 633,
-          "height": 322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/07/how-ai-can-address-the-crisis-in-healthcare-labor-costs/amp/",
-      "publishedDateTime": "2023-06-07T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

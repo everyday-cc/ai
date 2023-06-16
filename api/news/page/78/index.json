@@ -2,6 +2,49 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2023-04-27-aurora-self-driving-truck-service-to-launch-in-2024.md",
+      "title": "Aurora self-driving truck service to launch in 2024",
+      "excerpt": "Aurora Innovation, the self-driving technology startup founded by Chris Urmson, one of the original engineers of the Google Self-Driving Car Project that eventually became Waymo, plans to launch a ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/automotive/internet-brands/aurora-self-driving-truck-service-to-launch-in-2024/",
+      "originalUrl": "https://ktla.com/automotive/internet-brands/aurora-self-driving-truck-service-to-launch-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2023/04/644a9ed8efce58.97446895.jpg?w=1280",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ktla.com/automotive/internet-brands/aurora-self-driving-truck-service-to-launch-in-2024/amp/",
+      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/automotive/internet-brands/aurora-self-driving-truck-service-to-launch-in-2024/amp/",
+      "publishedDateTime": "2023-04-27T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-write-long-form-content-in-seconds-with-half-off-this-leading-ai-tool.md",
       "title": "Write long-form content in seconds with half off this leading AI tool",
       "excerpt": "Wordplay AI Content Generator overhauls your content marketing and a lifetime subscription price is now half off.",
@@ -1154,59 +1197,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-the-ai-revolution-how-companies-like-nvidia-and-tesla-are-leading-the-way.md",
-      "title": "The AI Revolution: How Companies like Nvidia and Tesla Are Leading the Way",
-      "excerpt": "But what about the competition? Alphabet recently claimed its AI chip was more powerful than Nvidia's A100 chips. However, that's not Nvidia's latest and greatest GPU. It would be fairer to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/27/the-ai-revolution-how-companies-like-nvidia-and-te/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/27/the-ai-revolution-how-companies-like-nvidia-and-te/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/729397/tesla-model-3-driving-on-the-road.jpg",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

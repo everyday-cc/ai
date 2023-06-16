@@ -2,6 +2,57 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-05-02-92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided.md",
+      "title": "92% of businesses use AI-driven personalization but consumer confidence is divided",
+      "excerpt": "State of Personalization report highlights the significance of building customer loyalty through tailored experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/",
+      "originalUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/07/personalization-marketing-targeting-e1683039275909.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
+      "publishedDateTime": "2023-05-02T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-new-relic-launches-grok-its-ai-observability-assistant.md",
       "title": "New Relic launches Grok, its AI observability assistant",
       "excerpt": "New Relic introduces Grok, its generative AI assistant for observability, simplifying data analysis and task management for engineers.",
@@ -1180,49 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions.md",
-      "title": "AI chatbot outperforms human doctors in responding to patient questions",
-      "excerpt": "An artificial intelligence chatbot was able ... presented a team of licensed health care professionals with responses to 195 randomly drawn patient questions. The evaluators determined that ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/",
-      "originalUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/11/laptop-doctor_042822istock_cyber-health-care.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/amp/",
-      "publishedDateTime": "2023-05-01T19:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

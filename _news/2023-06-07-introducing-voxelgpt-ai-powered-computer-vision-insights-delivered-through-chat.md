@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Introducing VoxelGPT: AI-Powered Computer Vision Insights Delivered Through Chat"
-excerpt: "ANN ARBOR, Mich., June 7, 2023 /PRNewswire/ -- Voxel51, a leading innovator in data-centric computer vision and machine learning software, today unveiled an extraordinary breakthrough in computer ..."
-publishedDateTime: 2023-06-07T15:04:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32760545/introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/n32760545/introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat"
-ampWebUrl: "https://www.benzinga.com/amp/content/32760545"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32760545"
+excerpt: "Game-changing natural language plugin makes complex AI tasks accessible to everyone ANN ARBOR, Mich., June 7, 2023 /PRNewswire/ -- Voxel51, a leading innovator in data-centric computer vision and machine learning software,"
+publishedDateTime: 2023-06-07T16:26:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/07/9828592.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/07/9828592.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "ixj4hXLAcaToa6R4z6VJnv+QV0J+XUXfoIu2jvxaXxDRY0EffQzqNnb2UVlcXnLelA619Ets3Sqt2cJqAqpS2LIJzyddt+d2mzdFfH5daTpjSULGjBh/q3WwYUJfGoA9OaFsXdcJ/5W/G5wRwt2XbQcOH4g5XC+eqFrBfZRe94i4RPw+q1Wf3B+EkqIE9qszAI9FeD6QAsU88G/0SGTZEZmhGqK5pA70Fz8NoOADB/kYaJi+9qJAqaeTORmUUmgIsIrfqO1x78QegD+OIAWc7+CId049rNu9v9EI14KzntzB0gjff7eIXy/dm36owfu+tDCbf15MQ5bdjCo2M+xtkehbIrWbq0P5AiIKm7YvgSo=;5RQWjHMxly8ed7ffzqnUVQ=="
+secured: "/xpRUhHEPsykYsOEtMRUMW5BfTrRn1fJVa0GW9jXQ2JFnOfWSkW6eROlqqbHCE156Uffiz5QJCp7feQeINMWKzwO3Y2azaey99q2mrGodlHPpRK2lawAXhxCBVQZ3Sg1ms52yR9RkMR8A44lac19aQMhuM8iD1rxs2tJrip06fuLIXNhbmpUslFC7OVTlSiLoDMWEAGeB95uRRFeUSZ48TMApSlBVuduNAcBb63gQU9TCOIxnihH9HkrBcc8jp90wUNjiCu1a+t3kVYpRXxmlKyZHyCuA7pSeVZn0eYt5ChzuHKNzBhHEqg4A46wVlZFGPul0NW4YnL6Zto8y3XEMrl/g0rQe0LzJ8gDMd6U8p4=;TngITFU0cfnrmKdHTeXWvA=="
 ---
 

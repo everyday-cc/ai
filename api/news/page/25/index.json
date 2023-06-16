@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-05-29-self-administered-smartphone-speech-app-may-spot-alzheimers-early-on.md",
+      "title": "Self-administered smartphone speech app may spot Alzheimer’s early on",
+      "excerpt": "Researchers have developed a self-administered smartphone app to screen for neurodegenerative conditions like Alzheimer’s disease and mild cognitive impairment by analyzing speech patterns. With subtle speech disturbances being an early indicator of these conditions,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/",
+      "originalUrl": "https://newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/96441db/2147483647/strip/true/crop/1999x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2F43%2F688be2a14c71b250a8669ff2d7db%2Fdepositphotos-299713804-l.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/?amp=true",
+      "publishedDateTime": "2023-05-29T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production.md",
       "title": "Nvidia unveils new kind of Ethernet for AI, Grace Hopper 'Superchip' in full production",
       "excerpt": "The Spectrum-X ethernet switch offers \"lossless\" transmission via a new kind of congestion control, said Nvidia.",
@@ -1137,49 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-aws-selects-25-startups-for-its-first-fintech-in-africa-accelerator.md",
-      "title": "AWS Selects 25 Startups For Its First ‘Fintech In Africa’ Accelerator",
-      "excerpt": "African fintech startups have been selected for the first Amazon Web Services (AWS) FinTech Africa Accelerator cohort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techawkng.com/2023/05/27/aws-selects-25-startups-for-its-first-fintech-in-africa-accelerator/",
-      "originalUrl": "https://www.techawkng.com/2023/05/27/aws-selects-25-startups-for-its-first-fintech-in-africa-accelerator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techawkng.com/wp-content/uploads/2023/03/Gogo.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techawkng",
-        "domain": "techawkng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

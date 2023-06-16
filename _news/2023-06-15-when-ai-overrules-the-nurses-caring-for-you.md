@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe"
 webUrl: "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Artificial intelligence: Getting regulation right"
-    excerpt: "EDITORIAL. Setting up an international body to oversee the non-proliferation of the most dangerous AI systems must not serve as a distraction from the more immediate task of regulating AI as it exists today."
-    publishedDateTime: 2023-06-11T14:05:00Z
-    webUrl: "https://www.lemonde.fr/en/opinion/article/2023/06/11/artificial-intelligence-getting-regulation-right_6030878_23.html"
-    type: article
-    provider:
-      name: Le Monde.fr
-      domain: lemonde.fr
-    quality: 39
-    images:
-      - url: "https://img.lemde.fr/2023/06/10/54/0/7256/4837/1440/960/60/0/e269e61_1686380078037-244000.jpg"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "6gcikgSwUFKF8nV0IRM6NEqHIaUMq/WgZPx3T6yr9wM5ADlVBTX88k/qZJ0ykpihiEIjz9WUoAXYzRjymu9pBY+WWg2c9YQrkE18y1tPQKldw5YLHGGOHLazVn3snTG00mrCAVAWWhY4Vjp/Esn1DO+M/sKaJAJoBPrgGS0UN1HyTXFqMV21lRQ2FAwgJx6Z9W3t1V2z7l7XcQL5/qr0386ceQA08dTnJ6c3JM1iRgX4KLIPtDtny3GRLkzPsIJlAtP6UEpX86lBQ0r/N8c4iEVHRX2Jp7sPdBmuffBabVmKh5vGDFpsdCSq9Brpj+PFtFBhxrEoxtdi8ATCz0A3H1YQabnT7TzIggN106IfRlFpjxQ1bOdwBjkG3EzBE/wbNnen4OEnGYwvzCBBkJERT6BGwtKUDltvEXfONOzOqsTvwBKGYY9zRu5R67z7Q/gIyXteaNs7EW/j6f9M5rNk5OeTb2s7QA08CQb117SxZlCbaNjrpO41UMsWSFhd8W7nA1pDtga35QF7JZMrUWDc/Q==;lVtbthlTxZj8skykGLh3kw=="

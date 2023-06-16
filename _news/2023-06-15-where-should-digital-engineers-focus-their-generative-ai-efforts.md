@@ -39,6 +39,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Digital Garage Launches STARTUP STUDIO \"GenLab,\" for the Next-Generation Entrepreneurs in Generative AI, with IT Pioneers"
+    excerpt: "Operated by a Global Community Leaders based at \"DG717\" in San Francisco~ DG launches a STARTUP STUDIO \"GenLab\" for the next-generation entrepreneurs working with Generative AI at \"DG717,\" DG's incubation center in San Francisco."
+    publishedDateTime: 2023-06-15T16:21:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833873.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "iILuUcWJrTBdHLhO6T0supOb17MqcGdG89cwFs2Tey/vizZm1yWS2SNrrYWUdKHZK2VGGFwW8PE3cGjsncu6G+yEKLwNW89lCwZgfVpfjiWV/aJZbkq+wdVm6eKkdlYX01ETdU8QixCOuUYYxt4MLzdKHOoKqfVATr0BzpfPS544BQEUA+fLawgUcO+Smd8vZ8pDermvHRlaz9kK4Ry8XlVQSBowHW9yNNUV7fkvXjx7kIzQ3qrFZxzmMSAzh/HxY3dfV52J8yI/vrkUW5+8Tmj5Wr10DKbjS+AMm+cwl9Y/tDs4MGQP2hk0JkKKQE7pA0WhRleUhVxI0lOwYNLH9XXbJ+AmIBavKcQ/d6TBsyU=;HCGTk+7hz/d7V0ystbAMuQ=="
 ---

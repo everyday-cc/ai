@@ -2,6 +2,57 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-05-09-william-on-f1-ai-harvard-and-the-future-of-the-black-eyed-peas.md",
+      "title": "Will.i.am On F1, AI, Harvard And The Future Of The Black-Eyed Peas",
+      "excerpt": "The entrepreneur and cofounder of The Black-Eyed Peas talks about his innovative artist-in-residence program with Formula 1, a sport that he calls “a perfect example of science, technology, engineering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dianebrady/2023/05/08/william-on-f1-ai-harvard-and-the-future-of-the-black-eyed-peas/",
+      "originalUrl": "https://www.forbes.com/sites/dianebrady/2023/05/08/william-on-f1-ai-harvard-and-the-future-of-the-black-eyed-peas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64597685dc84d6dd7e2796e1/0x0.jpg?format=jpg&crop=2997,1405,x0,y15,safe&width=1200",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-integration-of-ai-in-healthcare.md",
       "title": "Integration of AI in healthcare",
       "excerpt": "According to a case study by Medtronic titled “5 Ways Artificial Intelligence is Transforming Healthcare,” the use of AI in healthcare improves accuracy, promotes interventional insights, supports training and education,",
@@ -1139,57 +1190,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikes-forbes-ai-newsletter-may-6th.md",
-      "title": "Jobs Market Remains Strong And The Fed Hints At A Pause To Rate Hikes - Forbes AI Newsletter May 6th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6458f92af96b32b6112796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/amp/",
-      "publishedDateTime": "2023-05-08T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

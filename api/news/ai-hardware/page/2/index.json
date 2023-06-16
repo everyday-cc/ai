@@ -545,49 +545,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
-      "title": "AI chips are hot. Here’s what they are, what they’re for and why investors see gold",
-      "excerpt": "This photo provided by the chipmaker Nvidia shows the company’s HGX H100 module, which can use as many as eight AI chips to train artificial intelligence systems and perform other tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/national/2023/06/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
-      "originalUrl": "https://wtop.com/national/2023/06/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2023/06/AI_Chips_Explainer_85626-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-stable-diffusion-torch-is-not-able-to-use-gpu-can-you-fix.md",
       "title": "Stable Diffusion “Torch is not able to use GPU” – can you fix?",
       "excerpt": "Having issues with running Stable Diffusion? Need to resolve “Torch is not able to use GPU” error message? Take a read of this post which explains how to resolve ...",
@@ -760,6 +717,49 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
+      "excerpt": "It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper. Such chips have suddenly taken center stage in what some experts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455",
+      "originalUrl": "https://www.newsday.com/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/ace/c:N2ViMjRmZDUtMmI4Zi00:MjVkMzA3/landscape/1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455",
+      "publishedDateTime": "2023-05-31T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {

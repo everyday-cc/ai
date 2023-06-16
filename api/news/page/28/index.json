@@ -2,6 +2,57 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-05-26-hands-on-with-magic-compose-the-ai-generating-messages-tool.md",
+      "title": "Hands-on with Magic Compose, the AI-generating Messages tool",
+      "excerpt": "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
+      "originalUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds.md",
       "title": "This new AI tool will summarize YouTube videos for you in seconds",
       "excerpt": "The Eightify Chrome extension uses GPT technology to help you cut straight to the main points of any YouTube video.",
@@ -1183,48 +1234,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-the-five-key-benefits-of-aiops-and-automation.md",
-      "title": "The five key benefits of AIOps and automation",
-      "excerpt": "How AIOps can help your IT staff move from a “break-fix” approach to one that’s more predictive and proactive.\nThe post The five key benefits of AIOps and automation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-five-key-benefits-of-aiops-and-automation/",
-      "originalUrl": "https://www.ibm.com/blog/the-five-key-benefits-of-aiops-and-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T06:34:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-04-28-amazon-stock-down-5-as-high-prices-slow-aws-growth.md",
+      "title": "Amazon Stock Down 5% As High Prices Slow AWS Growth",
+      "excerpt": "Amazon stock fell after CFO, Brian Olsavsky, told investors that the AWS growth rate in April is tracking five percentage points below its first quarter growth rate. Were that slowdown to continue, AWS could grow at 10.8% in the second quarter — well below the 13% Wall Street projects for the second quarter, the Journal wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644aade0f54d022866bfa396/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/04/28/amazon-stock-down-2-as-high-prices-slow-aws-growth/amp/",
+      "publishedDateTime": "2023-04-28T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-ais-earns-seventh-microsoft-advanced-specialization-in-analytics-on-azure-securing-access-to-end-customer-funding-and-resources.md",
       "title": "AIS Earns Seventh Microsoft Advanced Specialization in Analytics on Azure, Securing Access to End-Customer Funding and Resources",
       "excerpt": "AIS (Applied Information Sciences), experts in helping organizations modernize and innovate with Microsoft Cloud,",
@@ -1122,57 +1175,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt.md",
-      "title": "AI Weekly: Replit Raises $97 Million For AI Coding, Hugging Face Takes Aim At ChatGPT",
-      "excerpt": "The feature is said to be an experiment available in select regions. AI startup Runway launches an app to bring users video-to-video generative AI Runway, which contributed to the development Stable Diffusion, has launched a video-to-video generative AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644b07d0576948b60d02778e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/04/27/ai-weekly-replit-raises-97-million-for-ai-coding-hugging-face-takes-aim-at-chatgpt/amp/",
-      "publishedDateTime": "2023-04-27T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

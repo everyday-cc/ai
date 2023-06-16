@@ -106,6 +106,15 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "AMD Instinct MI300X Datacenter GPU gets 750W TBP"
+    excerpt: "AMD recently presented its latest technological advancement, the Instinct MI300X GPU, at the Data Center and AI Technology Premiere event on June 15th. In the keynote address, specific information"
+    publishedDateTime: 2023-06-16T06:17:00Z
+    webUrl: "https://www.guru3d.com/news-story/amd-instinct-mi300x-datacenter-gpu-gets-750w-tbp.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
 
 secured: "SaTVpavaiSMAhqEDyQQ4b2QMTgQceqCX5HbDcVgG87NRhMm2HN7NTWDSPKnEPKdJJOp03pWyMy9FkrGskQ1Vf6FmGTCI5VKVVXihfFPmYE3fj61RzbgCmNMsaXq+053d1nbvjRBhxrND/ae7m/yc+CbAWaV6mN2SZxcGan3SlK0lZA218C6pRffQiCV7araGKl4SXAJqcUPjFxGkdsAH1Oi6xrf2eeWkk01WmbkglUnXS+hfaS/2ODD8wGxL0Tzx5MZL9Y11UlGZYb58rWagOb+YXUDPSE7KQtUOFLPUuKLt6u59YQP69VC5bD0HdZYAJbQ509iTHH8Hk6VSZhLlpczS7xKAeOvfyEItFq3oY4zQ6WnSvcEbqNyF8VIGmpcWiyPA5pm8MAtMLxObx9j5vbYPmxIYKDNzftg3HshjCXkJOYdcyuvDIhSyuPRimz+1lOjBAox6xALI1xaXfktJok+JMGeSgML7Flb5w+UeMht0vDuBrbFU9IvrGF0cnDxaV4qnfmc2JqYRYHubVi+L9w==;6gBMTylpmt80Bzt6WMsvkA=="
 ---

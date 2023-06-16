@@ -24,6 +24,22 @@ images:
     height: 453
     isCached: true
 
-secured: "bEz2rkoSsBotGZ+VWqCKuoV39GnZwGzBQBZH1B8h8buzigFZcShHJTwfixdC9GMX3oAYC7NVzGsLhoiz/OkTS83IOIH1e2TKcsNiCq0cD4F0VF5PYE7mQhnKctsAw52htLG1YMl4BL204hIx/oI0Z2orCw4Enjb6q0P6Lg3huPdUsJLr8vC+9sKoDHkwMCfEUc+r0llDxcb2rgRNKBvV/hyVlo9MOnFO9i9xUO6QcEvkxWKPhxrrq0v9w2Ol6Q/dp3mCKPPKIU592+KfU5L7xoqGgLDJIo8DLxW9TB0WbfuUVP5g6fuAx3I1Cpn+bCZdS8kYLKDfk599a17MSxEpdMm07MmjtRAKUC5lDm1BKrE=;p7UEAiM1W8DLh//nP2kIRw=="
+related:
+  - title: "Developing Effective and Safe AI With a Growth Mindset"
+    excerpt: "Not even close. The failure could hardly be blamed on a lack of technical expertise, for IBM tasked an army of engineers to work on Watson Health. Our extensive research on the challenges of developing AI in various commercial settings points to a ..."
+    publishedDateTime: 2023-06-16T06:12:00Z
+    webUrl: "https://knowledge.insead.edu/strategy/developing-effective-and-safe-ai-growth-mindset"
+    type: article
+    provider:
+      name: knowledge.insead.edu
+      domain: insead.edu
+    quality: 39
+    images:
+      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-05/shutterstock_1798672534_0.jpg?itok=eWLH-K3s"
+        width: 1000
+        height: 587
+        isCached: true
+
+secured: "/AZ2R5XqU96BvcONBQ/sA1Ga+BxI3YUnTF+RyLGOt3p7TL0qwCiSoSG76wj5RUiFHenfQAHZJZZpHVxNvj+EaYScJZmMtFWGM8SrPwULHWKKW0xr5+Fe7HnSgDQWkvpNURTegrgDraRh20aAGCnZY4eoMY0DFICBtNiR5auAHfl13u6EwO8rd2ZguoiTRUz/RsrHJ81ABXwsYm+MppnQNFr7xWnWr37icG86SXuC7h1lm9reWyVCAv+r9fwr6reyS9LQwwyh/QQXeQEIRfbENwFeuhm5kdiQogCBFpukFuFbtxwzfCxOE2GzaVxh9mYoMrhFZIRtGYfeEzp7qMAy+dtdJxc2MMHE4WCteqGABNtxKiyiRTKUOaxK1LMXr17rXvcjygehke0uR7llT7qxMZcIbzx/X759kDOQNXjNcBpPBk1B/aC6KIv6R2dWiUzStYzHXvx+cRqboANFCAgRLDOselpb7smJLvH5HCmJeHu8kQvOOsVwJhjZselhlNtRPVkIQKBCRoIuBL6gS/ZuPA==;sL5OWwI6hKCo2eGEid9TaQ=="
 ---
 

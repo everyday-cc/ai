@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-10-florida-universities-look-to-stave-off-ai-in-academic-malfeasance.md",
+      "title": "Florida universities look to stave off AI in academic malfeasance",
+      "excerpt": "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology's power - and stave off the potential for academic malfeasance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
+      "originalUrl": "https://www.cbsnews.com/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2021/08/25/7e0af7b7-b883-4e71-8888-91f4a6d57169/thumbnail/1200x630/e39dd1ecc9fadc10750a0c64b128bd1b/snapshot-2-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/florida-universities-look-to-stave-off-ai-in-academic-malfeasance/",
+      "publishedDateTime": "2023-06-09T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-fast-track-graph-ml-with-graphstorm-a-new-way-to-solve-problems-on-enterprise-scale-graphs.md",
       "title": "Fast-track graph ML with GraphStorm: A new way to solve problems on enterprise-scale graphs",
       "excerpt": "We are excited to announce the open-source release of GraphStorm 0.1, a low-code enterprise graph machine learning (ML) framework to build, train, and deploy graph ML solutions on complex enterprise-scale graphs in days instead of months. With GraphStorm, you can build solutions that directly take into",
@@ -1110,8 +1153,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?161861",
-          "width": 424,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?535903",
+          "width": 388,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1137,58 +1180,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-ai-chips-could-help-intel-stock-nasdaqintc-regain-its-footing.md",
-      "title": "AI Chips Could Help Intel Stock (NASDAQ:INTC) Regain Its Footing",
-      "excerpt": "Intel (NASDAQ:INTC) stock seems to be stuck in neutral, but a new focus on artificial intelligence (AI) chips could help the company regain",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chips-could-help-intel-stock-nasdaq-intc-regain-its-footing-1032379568",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chips-could-help-intel-stock-nasdaq-intc-regain-its-footing-1032379568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-156.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 781,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

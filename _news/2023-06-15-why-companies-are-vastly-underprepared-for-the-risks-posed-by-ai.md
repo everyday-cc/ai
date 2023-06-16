@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
