@@ -2,19 +2,27 @@
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
 excerpt: "It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper. Such chips have suddenly taken center stage in what some experts ..."
-publishedDateTime: 2023-06-01T08:16:00Z
-originalUrl: "https://www.chron.com/business/article/ai-chips-are-hot-here-s-what-they-are-what-18129273.php"
-webUrl: "https://www.chron.com/business/article/ai-chips-are-hot-here-s-what-they-are-what-18129273.php"
+publishedDateTime: 2023-06-01T05:55:00Z
+originalUrl: "https://www.newsday.com/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455"
+webUrl: "https://www.newsday.com/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455"
+ampWebUrl: "https://www.newsday.com/amp/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455"
+cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455"
 type: article
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Newsday
+  domain: newsday.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "I+CDle4KgwmIFVhc7Tl/elesULvM7ELUwHiGgfLqBZubSCURmsLW8FY8GN98lKdKq0MH5CpM8+WzU8yrgz917dxJCApxA49oiNDX4o5Ub9OpCFJ2EvCibZH1Kh522JucqLNog2kV5lDoECmj/e+kwFKqlsAKX04a5Ec1rfzbTlkP/f98WM2ZTdGX/LtCSsvrQnqLJazTnTozmFBqS/IdQnwKK+1N+kZdTc4a6L8PgtndsQ9+TqMl2O21mhgeCX8zjKVTT4Mp1M+Oh3zOb12bI4h45kyfZxUp+5QE9QivT9kJIsIwgN7uoNkl31w6ABGP+dHPVU7zuvsD7NQPZue+oV6rEcKx02jkuo0ohZp2JwQ=;DAjLhJSUjAWJxWCYJqn9ew=="
+images:
+  - url: "https://cdn.newsday.com/ace/c:N2ViMjRmZDUtMmI4Zi00:MjVkMzA3/landscape/1280"
+    width: 1280
+    height: 719
+    isCached: true
+
+secured: "ylomBO1igyUpdJjpOcNb8l21Nr020KsdgjITfSt6qLeA3NPwMR2fW95d4apjCTRahX/maDCmcPCHrRerJ4GftHd4ta0g9e0Bo3IQk9opEM6LjrEPDvEPB9obis8shDVx4okFE4PgCdRN88gzS5+LIosvlO0fylEWZTAhzhalU2J/Qaz3zi7YY1UPdWslKQON9GA5xmf/D0OcOnWFWwJm4ToxBL8DNdQ9Rlqf9DRvFMuDLoXvnz6A1AyJO/7/did1QgmTluxdHH6V861S9ybFVow5jj9qYLwrQpbCbOqx9GWoOEtDQLnQrtDmxIYA7XCTlvq1OQZacN373OGs4LE/CzLqW6BnSSxu3GpSVClGNls=;pYkGvziPwCwUZZkaVsqzug=="
 ---
 

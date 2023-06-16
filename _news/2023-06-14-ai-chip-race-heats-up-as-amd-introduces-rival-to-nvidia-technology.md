@@ -3,8 +3,8 @@ category: news
 title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
 excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
 publishedDateTime: 2023-06-14T14:38:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
-webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
+originalUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
+webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
 ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678"
 type: article
@@ -304,6 +304,6 @@ related:
       domain: bizjournals.com
     quality: 27
 
-secured: "wteoUe0IZyoo4JUfnn/kQ+hcdqI5CxaLqyJbsezpOhkiLsi4rg2SVaB1XENMKWd682uG6aR6jWOvuTkYbHj5pr3ZtZMMCftScPJUWNhCe/ixn7gdmoOVfygkMTozp8Dn4BwBNu/kAUbNkh+N5zSq50Zfa3z2CDmdofMsStlivth+bLjsMRNE9z5yOPhYVMfViwsacCppSHUj8YAlcY691QsAQXc7lgXKD4RC2AVHshCQMSzTNN/wpoMjFBgbi67fBd5OsbHVvVQC6F8HY2yA2ok+8rPvk/TZxcTAlA9mYrYDAnS7/HHgllTJ/GXfcds0IwMxzMjZBZSvolmEiG2A1ID2CYjhLlbutSmY79CJVPERQ6n5jcUvZfNANu1XudPLFM0LnLzERPnvVRl7lCtkvvc+Y6iuyG5kqzWTto+/AW+nzOmm+hJfX3aaR0BpHBgB9UcowD3aiW9QuEB2k+DEfsYY7TnjMPMsnHsJFohEZtuz32EB9gOWthtbeu0571usUKsyr0Slp+qfRql7uTIPpw==;+axyWSl6Z6TwKmd3j4rpfA=="
+secured: "r2IH2TZcQDFgdR5ccc/DLkY9JtrqBcbxtP7jOz19O5cOaziRKQ0TMTf2Z4fRpyC+ulcnRZggJXSgd9MEmKfcNZNv27XVwLeW8UdVDzyeHo8XZAP6TbR6aamiE4CuUoPzA95MJdaQ6CywAB5euJ/ZLAqLCAhgzjoC80u28YzUsYzpS/yUGdFpMnMyLJJYIHIf9HMRN+YF7vO9s4+IXhcdnPgxgvTy1M9ug0omqzcJCMkHMA80XU9Dkltw06Y6ku05G8f05jNNYJANipG4VvVg1qZjGqhrp7xuoWaRuw7LV5Z4KhT0T7V98ufLD18eBo9YqJ797cVvk27WFwpfL/9jGRdDp7fC1B5UzvTyhzojnjg=;CeFoCJdRZ+J7AHDjpXuwPQ=="
 ---
 

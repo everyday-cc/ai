@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32860482"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32860482"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "Computer-driven trading firms fret over risks AI poses to their profits"
-    excerpt: "Hedge funds and other computer-driven trading firms are growing increasingly concerned about the threat that artificial intelligence presents to their profits, after a fake image of an explosion near the Pentagon triggered a brief sell-off in US stocks."
-    publishedDateTime: 2023-06-15T16:18:00Z
-    webUrl: "https://www.ft.com/content/72e59c68-157b-4621-b063-441ab41430b5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
-        isCached: true
 
 secured: "XLqfnrupgfJ32IoaDSTqMlG0VRrLkl0upwIdSdU8OibYSZnHuXjuQ+7AFn2mkjJrHcMg001LVZIU35OXCVlC3oWy8JXUzfaLXEpWF2QBpnvWgSy+hHiAbTbz7gKsMMIuwXC0HGWj9ykXotyfFgbX9hVlQEtOOJHDPl14Dakh12+ZsOyI7Gs4k/O25840G1QynCE4VLwhWuQv7Ty1BN6PIQqZ4LPN/rZh/YzKrZOYkYVir0xiu0H/+fFvdujBevVlbFuvGlPbP1xZMBK+75T8DR+aXUs8Mxoc7FMLSGg84vmGWWpZDTk7kwgAW9i1yR4y1mabRyZru0EZ14RQHn0xFxyrUyGpc00OQX8eGOXnzLw=;eRoZVK0+sJVSzUDbPZoxbA=="
 ---

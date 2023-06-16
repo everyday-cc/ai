@@ -173,6 +173,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Tribe AI’s CEO on why generative AI is seeing more rapid uptake by enterprises than web3 and crypto"
+    excerpt: "The second one is continued specialization. AI is not a monolith, it’s not one thing. We’re seeing people start to specialize and focus and go deep on a specific use case or a specific industry. That’s where you’re going to see the most value ..."
+    publishedDateTime: 2023-06-16T17:40:00Z
+    webUrl: "https://venturebeat.com/ai/tribe-ais-ceo-on-why-generative-ai-is-seeing-more-rapid-uptake-by-enterprises-than-web3-and-crypto/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 53
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Jaclyn-headshot.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Generative AI's impact on chip industry and the upcoming growth cycle through 2024"
     excerpt: "Generative AI is stealing the spotlight from all other tech products as ChatGPT accumulated 1 million users in just a few months, and now tech analysts from UBS Investment Bank released their latest estimates of its impact on the semiconductor industry business."
     publishedDateTime: 2023-06-14T06:18:00Z
@@ -232,6 +246,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/farmer-gpt.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "ANALYSIS: Three Considerations for Attorneys Using Generative AI"
+    excerpt: "Although legal ethics rules don’t yet specifically address AI usage, they certainly still apply. For lawyers using AI in their practice, here are three considerations to ensure their ethical duties stay top of mind. A crucial preliminary step to using ..."
+    publishedDateTime: 2023-06-16T09:00:00Z
+    webUrl: "https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-three-considerations-for-attorneys-using-generative-ai"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/55d996e/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F91%2F2c%2F47ed98a84c8193856e370cff5f1b%2Fai-2.jpg"
+        width: 1920
+        height: 740
         isCached: true
   - title: "Salesforce doubles down on AI and unleashes the power of generative AI"
     excerpt: "On AI Day, Salesforce unveils AI Cloud, GPT for Customer 360, and doubles Generative AI Fund to US$500M for responsible AI development."

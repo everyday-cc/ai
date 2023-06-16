@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Rival XPeng Rolls Out Self-Driving Tech in Beijing. The Stock Is Rising."
-    excerpt: "It’s the first company to roll out an advanced driver-assistance system (ADAS) in Beijing, after it was approved for use on major ring roads and expressways in the capital city."
-    publishedDateTime: 2023-06-15T08:59:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
+  - title: "Tesla shares jump after Elon Musk declares self-driving cars are near"
+    excerpt: "Tesla has a market capitalization of around $800 billion, but for years has missed Musk’s targets to achieve full self-driving capability."
+    publishedDateTime: 2023-06-16T17:38:00Z
+    webUrl: "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/"
+    ampWebUrl: "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 55
+      name: New York Post
+      domain: nypost.com
+    quality: 59
     images:
-      - url: "https://images.barrons.com/im-417792/social"
-        width: 1280
-        height: 640
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/musk-tesla-self-driving-cars.jpg?quality=75&strip=all&1686920619&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Tesla Won’t Pilot Full Self-Driving Function in Shanghai, Source Says"
     excerpt: "US electric carmaker Tesla will not pilot its Full Self-Driving Capability function in Shanghai, a source at Tesla China told Shanghai Securities News. A recent rumor on Chinese social media claimed that Tesla’s FSD would be available in some areas of China,"
@@ -57,29 +57,6 @@ related:
         width: 770
         height: 510
         isCached: true
-  - title: "Xpeng expands self-driving capability to Beijing, eyes wider expansion"
-    excerpt: "Chinese electric vehicle maker Xpeng Inc on Thursday expanded its self-driving capability to Beijing as part of the automaker's expanded launch of City NGP (Navigation Guided Pilot) across the mainland."
-    publishedDateTime: 2023-06-16T09:07:00Z
-    webUrl: "https://www.carsifu.my/news/xpeng-expands-self-driving-capability-to-beijing-eyes-wider-expansion"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 24
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/06/Xpeng-ADAS-2-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Watch Out! Tesla - Rival XPeng Launches Self-Driving Tech in China"
-    excerpt: "Also Read: XPeng Stock Drops After Q1 Earnings and Cautious Outlook: The Details XPeng said its City NGP (Navigation Guided Pilot) system, which is similar to Tesla Inc's TSLA FSD (Full Self-Driving) feature, is also available in Shanghai, Shenzhen ..."
-    publishedDateTime: 2023-06-15T13:12:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32870034/watch-out-tesla-rival-xpeng-launches-self-driving-tech-in-china"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "XPeng Stock Rises. The Tesla Rival Rolled Out Self-Driving Tech."
     excerpt: "XPeng is the first company to roll out an advanced driver-assistance system in Beijing after it was approved for use on major ring roads and expressways in the capital city."
     publishedDateTime: 2023-06-15T12:47:00Z

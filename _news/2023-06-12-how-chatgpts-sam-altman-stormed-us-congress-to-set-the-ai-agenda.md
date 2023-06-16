@@ -243,6 +243,20 @@ related:
         width: 400
         height: 268
         isCached: true
+  - title: "Mercedes-Benz Luxury Cars Set To Pick Up An AI Passenger In ChatGPT"
+    excerpt: "An optional beta program begins today in the United States for over 900,000 vehicles equipped with the MBUX infotainment system."
+    publishedDateTime: 2023-06-16T15:45:00Z
+    webUrl: "https://hothardware.com/news/mercedes-benz-cars-pick-up-an-ai-passenger-in-chatgpt"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 39
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61859/content/hero-mercedes-benz-azure-chatgpt.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Amid global ChatGPT obsession, UAB conference examines AI’s role in advancing health care and research"
     excerpt: "Experts at ATTIS 2023 shared reports from the front lines, including how they are using ChatGPT in their labs, the need for regulation and why this is a “tremendous time” for health care."
     publishedDateTime: 2023-06-14T17:02:00Z

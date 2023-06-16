@@ -23,35 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "It’s time to talk about the real AI risks"
-    excerpt: "Experts at RightsCon want us to focus less on existential threats, and more on the harms here and now."
-    publishedDateTime: 2023-06-12T11:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/12/1074449/real-ai-risks/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/12/1074449/real-ai-risks/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/12/1074449/real-ai-risks/amp/"
+  - title: "The Advancement Of Artificial Intelligence Is Inevitable. Here's How We Should Get Ready For It."
+    excerpt: "Additionally, there is an ever-increasing demand for AI applications in the healthcare, finance, and transportation industries. As these industries (and several more) become more reliant on automation and data analytics, the need for AI solutions will only ..."
+    publishedDateTime: 2023-06-16T03:50:00Z
+    webUrl: "https://www.entrepreneur.com/en-ae/growth-strategies/the-advancement-of-artificial-intelligence-is-inevitable/454155"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 56
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/16A1997-crop.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "Hospitals are testing AI to communicate with patients. They still don’t know how to talk to them about it"
-    excerpt: "Hospitals are testing AI to communicate with patients. But they still don't know how to talk to them about the technology or its risks."
-    publishedDateTime: 2023-06-13T08:30:00Z
-    webUrl: "https://www.statnews.com/2023/06/13/ai-hospitals-patient-consent-health-care/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 22
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_476047632-645x645.jpeg"
-        width: 645
-        height: 645
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1686821787-Shutterstock-2118106892.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "ekVDl0KtMBGyLf37GRYCHf5rMXINEQCiHYg2g3U9Cjw+/GqD2HMdcHJW///64KaMKRrMJyXCtH8cwOrrezrAX2dRwhMqxFqMBizh+UpBVr3H3Bg9fd/wLMaUT9S0l1gTDdRcqQRjLSTk5rstDmgjK1ZCPKiWIVC6oHo4JsbFzPn+MuslsHW+DIg+nTNflAa+v4BU7kigNu1L2OkASSEfrv+cLY8GWvglppgoVa2eFwJCb+lSl5BUUInzDlv++TinM/5gt+gZZOKjItcKlSx5gx3lGkt/PaJzvjZy9YaA412JPg+zGECkXN2f7d0LO2qIO7G/7ZtepWdCzycMK77aFZP03lPrKdHynfKNSSnXXc/7IOE54izgVtsJ/buMQa2FwfHtfsVf9k7YZNaTzW8PnUK2K9WR3dt1a1YNIONPM0CIYp5yrPvBAETzOOSYGfVMg5GXgfyjK0HC+U0YoEz2Ij38w1+hilMZMlmNFHjaR6GUkr9UZmF0kmawhYVEMQqGz/ibgPM0bog3fWUy1uTHCw==;VYqjNmZ5jC7YDzC9CBtM/w=="

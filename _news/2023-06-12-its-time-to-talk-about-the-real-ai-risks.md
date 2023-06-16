@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/06/12/1074449/real-ai-risks/am
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/12/1074449/real-ai-risks/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: MIT Technology Review
@@ -26,28 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Forget about the AI apocalypse. The real dangers are already here"
-    excerpt: "Two weeks after members of Congress questioned OpenAI CEO Sam Altman about the potential for artificial intelligence tools to spread misinformation, disrupt elections and displace jobs, he and others in the industry went public with a much more frightening possibility: an AI apocalypse."
-    publishedDateTime: 2023-06-16T12:16:00Z
-    webUrl: "https://www.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html"
+  - title: "IFS Connect 2023 - why talk about generative AI when robotics and connected manufacturing are ready for prime time?"
+    excerpt: "IFS avoids technology festivals in favor of industry shop talk. But at IFS Connect, I found customers knee deep in AI preparations. It's all about getting your plant floor machines talking. And, for CDF Corporation,"
+    publishedDateTime: 2023-06-16T16:22:00Z
+    webUrl: "https://diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready"
+    ampWebUrl: "https://diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready?amp"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 49
-  - title: "Hospitals are testing AI to communicate with patients. They still don’t know how to talk to them about it"
-    excerpt: "Hospitals are testing AI to communicate with patients. But they still don't know how to talk to them about the technology or its risks."
-    publishedDateTime: 2023-06-13T08:30:00Z
-    webUrl: "https://www.statnews.com/2023/06/13/ai-hospitals-patient-consent-health-care/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 22
+      name: Diginomica
+      domain: diginomica.com
+    quality: 69
     images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_476047632-645x645.jpeg"
-        width: 645
-        height: 645
+      - url: "https://diginomica.com/sites/default/files/images/2023-06/Alex%20Ivkovic%20-%20CDF%20-%20CIO.jpg"
+        width: 1083
+        height: 638
         isCached: true
 
 secured: "YIF3aS8jnmJzVdFqQl/sgp98e6LPwi30ZotBKY9HqGKlIuT95FjiF1aZtI9TzkMiqz+5MUAWzG7PKIJOgkPgKDsZGnCbZc53echH2b0whjgvP5jv+PFtV5QYjdTM/w4u5lw7Hk1HF/n95oyfCngP/R4nhRlTDj4hArPvt9MG/Dw8wYU2F4o1pyR7/XWBDIVd/pAtAwwOsAgKCeWIZFod1LxgQWkEqYT078jDbJja6QIZRuI/qcFUYl83KU+9GjYP/qUoiEkveYokICXbLkloqMk9M9vb5NOawc7P0nRYaRGUHB1xzONinQydNPIealejordLsl7xTR8oyXUWkmTL8I9H8HEhx23vXSPMEZytVwQuPTCZbkygpJ5Z+dqLx7G7kXHGM2aWrckdcGZA7S24aqqheTQyQ2CMhxxR6noFjcdyMMKfEaloTas1wvSz+k0CI51XdmH8YcsRuvnR8KNvbR9QDhnhJS5cu5diniJN/p4KnNgysPPJkoCoV50BOrhZHBpUpmpUQm6WVoxitDEfsg==;PLwyZc1kmSDsdSBcNjx0uw=="

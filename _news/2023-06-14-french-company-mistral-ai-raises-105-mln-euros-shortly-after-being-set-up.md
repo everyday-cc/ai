@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-13T17:03:00Z
 originalUrl: "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/"
 webUrl: "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/"
 type: article
-quality: 66
-heat: 76
+quality: 68
+heat: 98
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MS2EJQ474JPEXC4RWVPXT4BLJ4.jpg"
@@ -28,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI startup Mistral AI raises 105 million euros in seed-stage funding"
+    excerpt: "The company is founded by ex-Meta and Google AI researchers, Guillaume Lample, Arthur Mensch and Timothee Lacriox."
+    publishedDateTime: 2023-06-14T07:13:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 53
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI start-up Mistral bags €105m after just one month"
     excerpt: "Mistral AI, a French start-up founded last month, has already managed to raise €105m in a seed round, showing the current hype surrounding the AI sector. The company was founded by former researchers of Google’s Deepmind and Meta and has ambitious ..."
     publishedDateTime: 2023-06-14T07:39:00Z
@@ -42,6 +59,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Generative AI start-up Mistral AI raises €105 million in seed stage funding"
+    excerpt: "AI is the future, and is totally off to races. It can be estimated by the fact that a four week old starter has picked up €105 million just in the seed funding round and is already a rival to Open AI in the building,"
+    publishedDateTime: 2023-06-14T11:53:00Z
+    webUrl: "https://techstory.in/generative-ai-start-up-mistral-ai-raises-e105-million-in-seed-stage-funding/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 15
 
 secured: "AufINtBfLVo87wRy/xLRmau4Vxft1DHSG9YOArq0uKVQclqJqsO6KSqby5ctVtNR0Zqo31icGsKVPTNyRCKDHFQQjIpYXBmai8/xXxHal+ZcWCZ+SGzbxowjR21nFdJuIpE0NLnMhDGA31K4TU07jK0cAXPkqidB6rcPsJd+XOvFrIUSGDpX/BhHLalqeow//VQIJjLKLf6i4gRvN/m2k+Cuhuxj1p8BLaioPLueB+xOaT7O/XDL7IRgnSUvQbSTT02pcAxPeS2ApBTGKAZLjBsX5oQinOf8gGXKG5jJmL5pp1qTriMxs00ekfNPlNKvrng6cUoJdbd3Rf2oXcFyEugecvEAakT3FJkk+hoMtmw=;n9+PkVMdq+BhIWZ/hP6FGQ=="
 ---

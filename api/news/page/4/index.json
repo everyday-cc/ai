@@ -2,6 +2,246 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-14-new-beatles-song-to-bring-john-lennons-voice-back-with-a-little-help-from-ai.md",
+      "title": "New Beatles song to bring John Lennon’s voice back, with a little help from AI",
+      "excerpt": "Sir Paul McCartney explained to the BBC that an AI-driven process helped isolate John's vocals from an old tape for a last Beatles album.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/ai-beatles-song-john-lennon/",
+      "originalUrl": "https://www.popsci.com/technology/ai-beatles-song-john-lennon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/06/14/john-lennon-ai-scaled.jpg?auto=webp",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/ai-beatles-song-john-lennon/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-beatles-song-john-lennon/?amp",
+      "publishedDateTime": "2023-06-14T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-european-lawmakers-sign-off-on-worlds-first-set-of-rules-for-artificial-intelligence.md",
+      "title": "European lawmakers sign off on world's first set of rules for artificial intelligence",
+      "excerpt": "European lawmakers have signed off on the first official set of comprehensive rules for AI. Here is an official look at the EU's Artificial Intelligence Act.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/577eba2f-d2ca-43d3-a404-f0ed39fe314d/6c0f48f4-c758-4bba-adda-cbfe95bd919f/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence.amp",
+      "publishedDateTime": "2023-06-14T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-ai-chatbots-could-help-provide-therapy-but-caution-is-needed.md",
+      "title": "AI Chatbots Could Help Provide Therapy, but Caution Is Needed",
+      "excerpt": "Therapy apps are incorporating AI programs such as ChatGPT. But such programs could provide unvetted or harmful feedback if they’re not well regulated",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/",
+      "originalUrl": "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/1A754ECE-07C0-407C-81F2761EEE57345F.jpg",
+          "width": 790,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true",
+      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true",
+      "publishedDateTime": "2023-06-14T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how.md",
+      "title": "Artificial Intelligence Will Dramatically Impact Facebook And Instagram. Here’s How",
+      "excerpt": "Later, you might use a built-in AI feature that’s part of the app, asking for modifications. Using a text interface, you might ask Instagram to make the photo brighter or even add a brighter smile to your face. On Facebook, you might do a broader text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/",
+      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639b5b9e36621a9dd42f2a94/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/amp/",
+      "publishedDateTime": "2023-06-14T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-6-gmail-ai-features-to-help-save-you-time.md",
+      "title": "6 Gmail AI features to help save you time",
+      "excerpt": "These AI-powered Gmail features can make your email experience even faster, easier and more organized.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/gmail/gmail-ai-features/",
+      "originalUrl": "https://blog.google/products/gmail/gmail-ai-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gmail_powered_by_ai_hero.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/gmail/gmail-ai-features/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/gmail/gmail-ai-features/amp/",
+      "publishedDateTime": "2023-06-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop.md",
       "title": "AMD's Hardware AI Ryzen 'Phoenix' CPUs Set to Soar in Razer's Blade 14 Laptop",
       "excerpt": "The chip maker is counting the iconic gaming ultraportable among its key design wins, ringing in the first-ever x86 processors with dedicated AI-accelerating silicon.",
@@ -553,7 +793,7 @@
       "originalUrl": "https://www.ibm.com/blog/the-real-secret-to-a-successful-digital-transformation-human-empathy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -963,263 +1203,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise.md",
-      "title": "AI Everywhere: Salesforce Unveils Its Vision Of The AI-First Enterprise",
-      "excerpt": "All of this is part of a massive vision Salesforce is unveiling that deeply integrates generative AI into almost everything a company does, from sales to service to",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6488f2ccaa9dbc12a1b12f50/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/",
-      "publishedDateTime": "2023-06-13T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator.md",
-      "title": "AMD unveils MI300x AI chip as 'generative AI accelerator'",
-      "excerpt": "To be able to run an entire 40-billion parameter model in memory, said Lisa Su, actually reduces the number of GPUs you need.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
-      "originalUrl": "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/09a61156c2e512b3889a7a43ae434e45b6622c57/2023/06/13/840d775b-68f5-4132-b4c2-96dd75f3de48/amd-mi300x-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
-      "publishedDateTime": "2023-06-13T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds.md",
-      "title": "TikTok's new Script Generator tool uses AI to write ad scripts for you in seconds",
-      "excerpt": "TikTok's new Script Generator tool uses AI to generate ad scripts within seconds. All that the user has to do is select an industry and enter a product name and description to get a custom script for videos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
-      "originalUrl": "https://www.zdnet.com/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9dc660b29580f24121a2d9e8bb20f7cc3f4d8fb2/2023/06/13/d3bcd14b-3920-4145-98bc-c991499c26e4/gettyimages-1405560217-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
-      "publishedDateTime": "2023-06-13T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-frances-mistral-ai-raises-113-million-in-big-eu-startup-debut.md",
-      "title": "France’s Mistral AI Raises $113 Million in Big EU Startup Debut",
-      "excerpt": "Mistral AI, a new startup from former DeepMind and Meta Platforms Inc. researchers, has raised €105 million ($113 million) in an initial financing round to become “a new global player” in artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iprLPgQiE4Hk/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker.md",
-      "title": "How Forethought saves over 66% in costs for generative AI models using Amazon SageMaker",
-      "excerpt": "This post is co-written with Jad Chamoun, Director of Engineering at Forethought Technologies, Inc. and Salina Wu, Senior ML Engineer at Forethought Technologies, Inc. Forethought&nbsp;is a leading generative AI suite for customer service. At the core of its suite is the innovative SupportGPT™ technology",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/forethought-generative-ai-sagemaker.jpg",
-          "width": 1022,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:41:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

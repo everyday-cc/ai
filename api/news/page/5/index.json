@@ -2,6 +2,263 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-14-ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise.md",
+      "title": "AI Everywhere: Salesforce Unveils Its Vision Of The AI-First Enterprise",
+      "excerpt": "All of this is part of a massive vision Salesforce is unveiling that deeply integrates generative AI into almost everything a company does, from sales to service to",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6488f2ccaa9dbc12a1b12f50/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/",
+      "publishedDateTime": "2023-06-13T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator.md",
+      "title": "AMD unveils MI300x AI chip as 'generative AI accelerator'",
+      "excerpt": "To be able to run an entire 40-billion parameter model in memory, said Lisa Su, actually reduces the number of GPUs you need.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
+      "originalUrl": "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/09a61156c2e512b3889a7a43ae434e45b6622c57/2023/06/13/840d775b-68f5-4132-b4c2-96dd75f3de48/amd-mi300x-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
+      "publishedDateTime": "2023-06-13T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds.md",
+      "title": "TikTok's new Script Generator tool uses AI to write ad scripts for you in seconds",
+      "excerpt": "TikTok's new Script Generator tool uses AI to generate ad scripts within seconds. All that the user has to do is select an industry and enter a product name and description to get a custom script for videos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
+      "originalUrl": "https://www.zdnet.com/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9dc660b29580f24121a2d9e8bb20f7cc3f4d8fb2/2023/06/13/d3bcd14b-3920-4145-98bc-c991499c26e4/gettyimages-1405560217-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
+      "publishedDateTime": "2023-06-13T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-frances-mistral-ai-raises-113-million-in-big-eu-startup-debut.md",
+      "title": "France’s Mistral AI Raises $113 Million in Big EU Startup Debut",
+      "excerpt": "Mistral AI, a new startup from former DeepMind and Meta Platforms Inc. researchers, has raised €105 million ($113 million) in an initial financing round to become “a new global player” in artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iprLPgQiE4Hk/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker.md",
+      "title": "How Forethought saves over 66% in costs for generative AI models using Amazon SageMaker",
+      "excerpt": "This post is co-written with Jad Chamoun, Director of Engineering at Forethought Technologies, Inc. and Salina Wu, Senior ML Engineer at Forethought Technologies, Inc. Forethought&nbsp;is a leading generative AI suite for customer service. At the core of its suite is the innovative SupportGPT™ technology",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/forethought-generative-ai-sagemaker.jpg",
+          "width": 1022,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T10:41:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-vectara-lands-285m-to-supercharge-enterprise-search.md",
       "title": "Vectara lands $28.5M to supercharge enterprise search",
       "excerpt": "Vectara, a platform providing AI-powered enterprise search tech, has raised $28.5 million in a seed funding round.",
@@ -272,7 +529,7 @@
       "originalUrl": "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -311,7 +568,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1003,239 +1261,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-thumbay-institutecollege-of-artificial-intelligence-technology-in-healthcare-launched-at-gmu.md",
-      "title": "Thumbay Institute/College of Artificial Intelligence & Technology in Healthcare launched at GMU",
-      "excerpt": "Opening new avenues for research, education, healthcare delivery, innovation, and technological advancements in the field",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/thumbay-institute-college-of-artificial-intelligence-and-technology-in-healthcare-launched-at-gmu-ke5mc6iq",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/thumbay-institute-college-of-artificial-intelligence-and-technology-in-healthcare-launched-at-gmu-ke5mc6iq",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/YmRlYWI3MDAtNWU4NS00/0/niversity-2-jpeg.jpeg?f=3%3A2",
-          "width": 765,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/thumbay-institute-college-of-artificial-intelligence-and-technology-in-healthcare-launched-at-gmu-ke5mc6iq?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/thumbay-institute-college-of-artificial-intelligence-and-technology-in-healthcare-launched-at-gmu-ke5mc6iq?amp=1",
-      "publishedDateTime": "2023-06-13T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-meta-launches-musicgen-an-ai-powered-music-generator.md",
-      "title": "Meta launches MusicGen, an AI-powered music generator",
-      "excerpt": "Meta's MusicGen offers AI-generated music from text and melody, but Google's MusicLM, available through the AI Test Kitchen app, also generates high-fidelity music based on text descriptions across genres.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/06/meta-pixabay-copy-1686645297.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748",
-      "publishedDateTime": "2023-06-13T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-what-new-ai-twin-product-doppl-means-for-the-future-of-personal-branding-and-our-online-presence.md",
-      "title": "What New AI Twin Product Doppl Means For The Future Of Personal Branding And Our Online Presence",
-      "excerpt": "Newly unveiled AI twin creation technology Doppl is raising the game when it comes to our online presence and the future of social media says CEO Thibault Launay.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/06/13/what-new-ai-twin-product-doppl-means-for-the-future-of-personal-branding-and-our-online-presence/",
-      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/06/13/what-new-ai-twin-product-doppl-means-for-the-future-of-personal-branding-and-our-online-presence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64876c3bfc79d414ec8d81e4/0x0.jpg?format=jpg&crop=1855,1011,x0,y14,safe&width=1200",
-          "width": 1200,
-          "height": 654,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/06/13/what-new-ai-twin-product-doppl-means-for-the-future-of-personal-branding-and-our-online-presence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/06/13/what-new-ai-twin-product-doppl-means-for-the-future-of-personal-branding-and-our-online-presence/amp/",
-      "publishedDateTime": "2023-06-12T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-uk-tech-vies-for-ai-startups-to-escape-silicon-valleys-shadow.md",
-      "title": "UK Tech Vies for AI Startups to Escape Silicon Valley’s Shadow",
-      "excerpt": "And yet, there’s no shortage of veteran London investors unswayed in their optimism. They say there’s an opportunity for the UK to seize tech’s next wave by setting its own financing and regulation rules, distinct from Brussels and the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-13/uk-tech-vies-for-ai-startups-to-escape-silicon-valley-s-shadow",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-13/uk-tech-vies-for-ai-startups-to-escape-silicon-valley-s-shadow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRjlFYuZy9JQ/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-tech-chips-away-at-pain-points-for-health-care-providers.md",
-      "title": "Tech chips away at pain points for health care providers",
-      "excerpt": "State of play: Carbon Health, a primary care startup, is using AI to write notes during patient appointments, one of the most time-intensive tasks for physicians. Tempus, a precision medicine company, has rolled out its Tempus One voice and text assistant for clinicians that uses generative AI to retrieve and access patient data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/2023/06/12/tech-health-care-shortage",
-      "originalUrl": "https://www.axios.com/2023/06/12/tech-health-care-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/sE7ya98MsDVW1L9uxwiZYk5q_Sw=/0x0:1920x1080/1366x768/2023/06/12/1686600941252.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

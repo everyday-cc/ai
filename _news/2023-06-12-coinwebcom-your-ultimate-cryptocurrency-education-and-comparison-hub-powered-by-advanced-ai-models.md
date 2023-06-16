@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/coinweb-com-your-u
 webUrl: "https://markets.businessinsider.com/news/stocks/coinweb-com-your-ultimate-cryptocurrency-education-and-comparison-hub-powered-by-advanced-ai-models-1032382269"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Hybrid AI-powered computer vision combines physics and big data"
+    excerpt: "Researchers have laid out a new approach to enhance artificial intelligence-powered computer vision technologies by adding physics-based awareness to data-driven techniques. The study offered an overview of a hybrid methodology designed to improve how AI ..."
+    publishedDateTime: 2023-06-14T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/06/230614220605.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "Hybrid AI-powered computer vision combines physics and big data"
     excerpt: "Researchers from UCLA and the United States Army Research Laboratory have laid out a new approach to enhance artificial intelligence-powered computer vision technologies by adding physics-based awareness to data-driven techniques."
     publishedDateTime: 2023-06-14T18:46:00Z

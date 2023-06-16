@@ -171,6 +171,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 6
+  - title: "Leidos Leads Advancements in LLMs and Generative AI, Accelerating Trust and Strategic Partnerships"
+    excerpt: "Leidos, a FORTUNE 500 science and technology leader, has announced the successful deployment of Large Language Models (LLMs)"
+    publishedDateTime: 2023-06-16T16:50:00Z
+    webUrl: "https://www.datanami.com/this-just-in/leidos-leads-advancements-in-llms-and-generative-ai-accelerating-trust-and-strategic-partnerships/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 5
   - title: "AMD Announces Data Center EPYCs, Releases Instinct Accelerator Details and Software for Generative AI"
     excerpt: "At a product unveiling event this morning in San Francisco, AMD announced updates to its 4th Gen EPYC “Genoa” 5nm data center CPUs and released additional details on its MI300X GPU accelerator for generative AI."
     publishedDateTime: 2023-06-13T18:30:00Z

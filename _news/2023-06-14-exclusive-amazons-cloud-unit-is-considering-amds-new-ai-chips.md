@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Exclusive: Xi Jinping tells Bill Gates he welcomes U.S. AI tech in China"
+    excerpt: "Chinese President Xi Jinping discussed the global rise of artificial intelligence with Bill Gates on Friday and said he welcomed U.S. firms including Microsoft bringing their AI tech to China, two sources familiar with the talks said."
+    publishedDateTime: 2023-06-16T15:57:00Z
+    webUrl: "https://www.reuters.com/technology/chinas-xi-tells-bill-gates-he-welcomes-us-ai-tech-china-2023-06-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://www.reuters.com/resizer/IpUmrPPET2tRd5BBtgiTHKNkeTc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GPH6QKVE3NMAXKECMEYTI2QAQE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Artificial intelligence to destroy humanity in 5 years: Top CEOs alarmed by AI’s catastrophic potential"
     excerpt: "CEOs believe that AI poses a potential threat to humanity within the next 5-10 years, according to a survey of 119 CEOs at the Yale CEO Summit."
     publishedDateTime: 2023-06-16T01:45:00Z

@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI startup Mistral AI raises 105 million euros in seed-stage funding"
-    excerpt: "The company is founded by ex-Meta and Google AI researchers, Guillaume Lample, Arthur Mensch and Timothee Lacriox."
-    publishedDateTime: 2023-06-14T07:13:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 53
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI Startup By Ex-Meta And Google Researchers Raises $113M In Seed Funding"
     excerpt: "The artificial intelligence (AI) firm from Paris facilitate the release of the company’s first set of models for text-based generative AI."
     publishedDateTime: 2023-06-14T14:52:00Z
@@ -68,15 +52,6 @@ related:
         width: 690
         height: 398
         isCached: true
-  - title: "Generative AI start-up Mistral AI raises €105 million in seed stage funding"
-    excerpt: "AI is the future, and is totally off to races. It can be estimated by the fact that a four week old starter has picked up €105 million just in the seed funding round and is already a rival to Open AI in the building,"
-    publishedDateTime: 2023-06-14T11:53:00Z
-    webUrl: "https://techstory.in/generative-ai-start-up-mistral-ai-raises-e105-million-in-seed-stage-funding/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 15
 
 secured: "Oi59wXPX5ihdsABtO3xA8I2C1f05YiEsrIQhE7tQx61c0kq7YIgr5HPhTnOzFPw68nlElaShc2b1vfYJDf+INyfru1cz2WS1G4UcuTIn/GyVvKidcm/9uXAHGpLFZ1Cn8CHUJ2vLUz0rHJERTCzcozspxJ/402LgjXVyHIz4F2xxHC80WBRT0APJEIlsSH5SinDAAmL746JHA2nZsJOtjrFso3Ej/EgzfWWNU2AQ5XES0/Xf5G3D41WhOWXlE84LGGAJ1qKAoXSSXWDzov9X4C+KRv9hvYMEsdd/451iXFrkRqywZ/uJF0sZZvSKwyBSkkyN29IZZ7zLGynaAmrrcg4UaOIm4IgUAfHNkHlaHdmPi8ruvN2RrmSyC9dzg7u4Rnr8Qiq2NTWGozjCGGCMK/DFcathfUFgEzs/rZOYD3rY5W/UO5v+g5EMX8ySyqjg/+MFSItrHxbRFY92MGxQ9sC83rfrqo3Qp2nxeBAEXlHohjWT0sVOgEgkMiPasYdeuZraIy2Jt0kheJB5UzJY5g==;BCTx3GRmTZGOudejlinnYw=="
 ---

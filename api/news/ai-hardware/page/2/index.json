@@ -579,40 +579,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
-      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
-      "excerpt": "It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper. Such chips have suddenly taken center stage in what some experts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/ai-chips-are-hot-here-s-what-they-are-what-18129273.php",
-      "originalUrl": "https://www.chron.com/business/article/ai-chips-are-hot-here-s-what-they-are-what-18129273.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-investors-see-ai-chips-as-new-gold-heres-why.md",
       "title": "Investors See AI Chips as New Gold. Here’s Why",
       "excerpt": "AI chips have suddenly taken center stage in what is considered an AI revolution that could reshape the technology sector—and the world",
@@ -751,6 +717,49 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
+      "excerpt": "It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper. Such chips have suddenly taken center stage in what some experts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455",
+      "originalUrl": "https://www.newsday.com/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/ace/c:N2ViMjRmZDUtMmI4Zi00:MjVkMzA3/landscape/1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455",
+      "publishedDateTime": "2023-05-31T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {

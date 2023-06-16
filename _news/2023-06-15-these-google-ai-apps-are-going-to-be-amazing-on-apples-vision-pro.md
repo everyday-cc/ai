@@ -24,60 +24,48 @@ images:
     isCached: true
 
 related:
-  - title: "3 Stocks These AI-Powered ETFs Are Betting On"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Given how popular artificial intelligence (AI) exchange-traded funds (ETFs)"
-    publishedDateTime: 2023-06-14T09:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-powered-etf-stock-picks-to-buy-1032388370"
+  - title: "Retail traders are taking profits on AI. Here’s what they are selling"
+    excerpt: "Vanda Research said in a note to clients that retail traders were trimming their positions in a few hot stocks."
+    publishedDateTime: 2023-06-16T12:00:00Z
+    webUrl: "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "How to Retire Rich: AI Stocks Edition"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Not many of us remember how the emergence of the Internet changed our lives."
-    publishedDateTime: 2023-06-14T12:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-retire-rich-ai-stocks-edition-1032388817"
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107249473-1685637213225-Traders-Photo-MW-20230601-0206-PRESS-19.jpg?v=1686924006&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Beware the office guru when handling AI"
+    excerpt: "Company directors are unaware of the widespread deployment of artificial intelligence in their firms’ systems and urgently need robust governance around its use, a report has found."
+    publishedDateTime: 2023-06-12T23:32:00Z
+    webUrl: "https://www.afr.com/politics/federal/beware-the-office-guru-when-handling-ai-20230609-p5dfe5"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Invest in AI While The Gettin’s Good: 3 Top Stocks for 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The gettin’s good for the best artificial intelligence (AI) stocks for"
-    publishedDateTime: 2023-06-15T09:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/invest-in-ai-while-the-gettins-good-3-top-stocks-for-2023-1032391021"
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_2.6489%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_315/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/332763ec6021bd9fa2920d2b11c9086caf02a789"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Computer-driven trading firms fret over risks AI poses to their profits"
+    excerpt: "Hedge funds and other computer-driven trading firms are growing increasingly concerned about the threat that artificial intelligence presents to their profits, after a fake image of an explosion near the Pentagon triggered a brief sell-off in US stocks."
+    publishedDateTime: 2023-06-15T16:18:00Z
+    webUrl: "https://www.ft.com/content/72e59c68-157b-4621-b063-441ab41430b5"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Are Investors Still Interested in Artificial Intelligence ETFs?"
-    excerpt: "The Global X Robotics & Artificial Intelligence ETF (BOTZ) is the largest AI-focused fund currently trading on U.S. markets with $2.5 billion in assets. Launched on September 12, 2016, BOTZ has an expense ratio of 0."
-    publishedDateTime: 2023-06-15T21:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/are-investors-still-interested-in-artificial-intelligence-etfs"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-  - title: "3 Stocks to Buy for Easy Exposure to AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is the “next big thing” on the Street. And"
-    publishedDateTime: 2023-06-12T19:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-buy-for-easy-exposure-to-ai-1032384428"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "AI Is the Gold, These 3 Stocks Are the Picks & Shovels"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying the new gold rush hitting Wall Street, which is the"
-    publishedDateTime: 2023-06-15T10:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-the-gold-these-3-stocks-are-the-picks-shovels-1032391172"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
+        width: 619
+        height: 376
+        isCached: true
 
 secured: "j88rE6/1z3xoyNwiIRYDfG6RX/n3aQquljRiMMhFAoqNxtOhnPOkJ/oVi3XKPgfdh49CyAlRCc7uSPBlT7V+I42xCxnMv2AAdQ2KU+8UBbqD8tH0Zc/5wBemB59bujbASHu8MUucl78kTUB+Xfkq5L1vebOHKIHB1+D0hgh5L1fAzlKRBnspJHBAqe+fLTQAVHbS/IPh8ugcX5cJ0B/+/fYNejXJgUARoe5YgcoZ9itS+sYx21bSh1F2QDdMk8hyojStngdbBMSuzFfeDBsHp9SzmKixp5zgQkFAiE2Q2Xu5FgaltGcw7GURaW+pz6LACO0onRSx7t466XYywiSU0P1mMIejxK3DzWDcsYeWU+w=;HD7yonh0g7MXqbkiTvMUlw=="
 ---

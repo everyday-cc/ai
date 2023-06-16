@@ -242,6 +242,20 @@ related:
         width: 400
         height: 268
         isCached: true
+  - title: "Mercedes-Benz Luxury Cars Set To Pick Up An AI Passenger In ChatGPT"
+    excerpt: "An optional beta program begins today in the United States for over 900,000 vehicles equipped with the MBUX infotainment system."
+    publishedDateTime: 2023-06-16T15:45:00Z
+    webUrl: "https://hothardware.com/news/mercedes-benz-cars-pick-up-an-ai-passenger-in-chatgpt"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 39
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61859/content/hero-mercedes-benz-azure-chatgpt.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "How ChatGPT’s Sam Altman stormed U.S. Congress to set the AI agenda"
     excerpt: "The chief executive of OpenAI, which makes ChatGPT, has met with at least 100 U.S. lawmakers in recent months. He has also taken his show abroad."
     publishedDateTime: 2023-06-12T14:00:00Z

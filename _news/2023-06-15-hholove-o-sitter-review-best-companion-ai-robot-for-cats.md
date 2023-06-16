@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best
 webUrl: "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best-companion-ai-robot-for-cats/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "HHOLOVE Launched the World's First Companion Robot for Cats：O Sitter"
+    excerpt: "Following the HHOGene GPods digital light earbuds, HHOLOVE, a rising digital pet brand under HHO, has launched the world's first cat smart companion robot—O Sitter on Kickstarter, the world's largest crowdfunding platform,"
+    publishedDateTime: 2023-06-16T17:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hholove-launched-the-world-s-first-companion-robot-for-cats-o-sitter-1032394885"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/2104095/HHOLOVE_O_Sitter.jpg"
+        width: 400
+        height: 223
+        isCached: true
   - title: "Amazon Fire Max 11 review: Easily the best Fire tablet yet"
     excerpt: "The newest Amazon Fire tablet checks all of the boxes for an affordable, mid-range tablet. But you'll want to read the rest before buying one."
     publishedDateTime: 2023-06-14T13:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/health/uae-leads-in-precision-medicine-
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/uae-leads-in-precision-medicine-for-cancer-patients-forum-hears-1.96376022"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 540
     height: 405
     isCached: true
+
+related:
+  - title: "NovAccess Global Partners with CKN Ventures to Expand its New AI-driven Precision Medicine Division"
+    excerpt: "NovAccess Global is currently developing a cancer vaccine therapy that enhances the patient's immune ... Founded in 2019 we apply advanced technologies and artificial intelligence (AI) to process diverse peer reviewed data (genome, medical test results ..."
+    publishedDateTime: 2023-06-16T16:43:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/ac32896769/novaccess-global-partners-with-ckn-ventures-to-expand-its-new-ai-driven-precision-medicine-divisi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32896769"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32896769"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "hpsy39ueJB2iHX+HbXRdbE1iaHtSqEuk2og1P0+Ayyn5f/qOUzvKxaF+oDAMumEZH1T429p9O2V/fDDUp2nWRbcK5xNy6RjI+2PlhpFfS2WaL0EC/B9PYZKZH93e/iusoU1aZigofXEReYPsGImIdZ4aWAJA+jj7VUiNDUj4GVx9QDhkInqtUyF1JH8H4UTwS+8kGpTPbeOUzfh3zIlq3SvYW8UcVSdFNvRY71O4/jhdEcCWyYSAV2xw5rfDq3CLrrFKFoFZwHoJKUZmYJ4a0r82gBLjhOJTJ+XABOvfoljrdYI2Og2xAxI4Q8//wIyzNZgHE8/owJhEf44kcZ/M2lcDsAXIqRl67vUPXBhAFEE=;oz12r88+e6+N+A+EwfCkNw=="
 ---

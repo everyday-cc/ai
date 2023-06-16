@@ -52,6 +52,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Elon Musk Backs AI Regulation, But Offers Only Vague Solutions"
+    excerpt: "I’m in favor of AI regulation because...advanced AI is [a] risk to the public,' he says today. But when pushed for specifics, the Tesla CEO comes up empty."
+    publishedDateTime: 2023-06-16T17:10:00Z
+    webUrl: "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offers-only-vague-solutions"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05DAz1A8aNpuSWJBng8gzvN-1.fit_lim.size_1200x630.v1686931162.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Four-week-old AI start-up raises record €105m in European push"
     excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105 million in Europe’s largest-ever seed round."
     publishedDateTime: 2023-06-14T16:29:00Z

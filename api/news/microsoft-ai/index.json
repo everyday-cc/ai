@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-16-ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready-for-prime-time.md",
+      "title": "IFS Connect 2023 - why talk about generative AI when robotics and connected manufacturing are ready for prime time?",
+      "excerpt": "IFS avoids technology festivals in favor of industry shop talk. But at IFS Connect, I found customers knee deep in AI preparations. It's all about getting your plant floor machines talking. And, for CDF Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready",
+      "originalUrl": "https://diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2023-06/Alex%20Ivkovic%20-%20CDF%20-%20CIO.jpg",
+          "width": 1083,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready?amp",
+      "publishedDateTime": "2023-06-16T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-a-to-z-of-artificial-intelligence-ai-terminologies-buzzwords-worth-knowing.md",
       "title": "A-To-Z Of Artificial Intelligence: AI Terminologies & Buzzwords Worth Knowing",
       "excerpt": "From deep learning and environment to reinforcement learning and swarm intelligence, here's a handy glossary of AI-related terms worth knowing.",
@@ -421,8 +465,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?824936",
-          "width": 376,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?121324",
+          "width": 375,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1424,59 +1468,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-dell-techworld-2023-security-ai-and-multicloud.md",
-      "title": "Dell TechWorld 2023 — Security, AI And Multicloud",
-      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, dives into the technological innovations at Dell Tech World 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/05/31/dell-techworld-2023---security-ai-and-multicloud/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/05/31/dell-techworld-2023---security-ai-and-multicloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64776f263cda87b81f9453bf/Picture6/960x0.jpg?height=533&width=711&fit=bounds",
-          "width": 711,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/05/31/dell-techworld-2023---security-ai-and-multicloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/31/dell-techworld-2023---security-ai-and-multicloud/amp/",
-      "publishedDateTime": "2023-05-31T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -71,6 +71,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "What does a chatbot know about eating disorders? Users of a help line are about to find out"
+    excerpt: "For more than 20 years, the National Eating Disorders Association has operated a phone line and online platform for people seeking help for anorexia, bulimia, and other eating disorders. Last year, nearly 70,"
+    publishedDateTime: 2023-06-16T16:02:00Z
+    webUrl: "https://techxplore.com/news/2023-06-chatbot-disorders-users-line.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 14
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatbot.jpg"
+        width: 1920
+        height: 1372
+        isCached: true
 
 secured: "HpiDbrS/azZSWQx7l76YMDrV5QXIwRRzjHIgwCMLdMm0wKXnWKzWq0sxvFvwkFkS1Vkv6XNs62D/XGFlJHy9CXBJ2RdoeT0piiOEHQVlQN53F5hW/Y6LG6Hjkf6EcsUYEYTZaTcIXUpsHdQjqFw212ihsopuVP4rN5cs/BGKSVkv1/b5Wp1YzKRf1hochwq3DhHO+spkLkEMH3DWJBOEw0h0XURmYOhrCfsjhkQtU6JmqXuYeEefbbFX5nYUBJqWQheSaG8kI9tBR9RAYX/IveNRYJVH5NAksWvtP1LXvQLHUUMHbmQyOJw8Dd9l4mat1NPCADgUiCZfxzyUrT6g2kgreHzYECAPZxvZuDlaZ85ZBxVTGm5COQcM7TQvbO4diQy11CWcSxz02O2szp4IlL+tu/6jyHpaKwU6hVN9yrZbEFZJrkCqCd/nPm2LZMps1bRb5Jtzb53ETYt6Deqa2/JtuMh1+7xbNNvdMJStXhVYPBhM3nE2nYHcmHzeuWfZhbjC9V/WPvUQ08f7gHrf6A==;F/Mfpgjpy2WRxpiQQeJoXA=="
 ---

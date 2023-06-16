@@ -37,6 +37,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "HHOLOVE Launched the World's First Companion Robot for Cats：O Sitter"
+    excerpt: "Following the HHOGene GPods digital light earbuds, HHOLOVE, a rising digital pet brand under HHO, has launched the world's first cat smart companion robot—O Sitter on Kickstarter, the world's largest crowdfunding platform,"
+    publishedDateTime: 2023-06-16T17:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hholove-launched-the-world-s-first-companion-robot-for-cats-o-sitter-1032394885"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/2104095/HHOLOVE_O_Sitter.jpg"
+        width: 400
+        height: 223
+        isCached: true
 
 secured: "UnwJL4JLHErm9pGLBxKlq5uP36mdg6sstKQIZbuOiwyX+tX9ziEpex53YbsquZsXzu0RnV/9Hc6M0xV2IlNnkblSmjPfpYqyD9l43QVBgcjuN72gdH2KL9TfL6cYEW9r0ThBsiRk+D2H/0UIqIe07AwjHed9dxgLWDyuL9czWWrFPuajsGf2LWuVzS61h/vHhrB6zXqOB2WT6SmUURbIqrKqhm7Dp9zlje/dWyFGrv+L/U9RdRFQR03u2ruumi3rKnLq1O3rENX0iZmoFjFmPSPy0w+HMv9OpMZ9PgILnIlLNmMoVDNuEf0b7wEulC/eCpw6b8b/7MjzX+dbWFUPD2S83qP6/ahNtshO3GAv+zqNQpwz0xQ5d4A8oapMh7Qg4+tqX9VCg/NkCtNtA7CWmmhSs/AZV928LGrjXtCUWqDzrov3KjbEqUov+NSb8dS8HNlHXLZgNnoOUC36qjLZvkLZ1XCIJcHY/gKqUqWeFaimQwCHkCjVI39W0IEQMyHWz0tnrLL3CHDQnBt07nt9cA==;zsVTP5sQgF6pOp+g1GDf3g=="
 ---

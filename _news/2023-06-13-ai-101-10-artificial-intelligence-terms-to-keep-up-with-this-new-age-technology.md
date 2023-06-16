@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-13T08:30:00Z
 originalUrl: "https://yourstory.com/2023/06/artificial-intelligence-terms-new-age-technology"
 webUrl: "https://yourstory.com/2023/06/artificial-intelligence-terms-new-age-technology"
 type: article
-quality: 51
-heat: 61
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/AIGlossaryfeature-1686638855088.jpg?fm=png&auto=format"

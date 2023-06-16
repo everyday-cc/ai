@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI startup Mistral AI raises 105 million euros in seed-stage funding"
-    excerpt: "The company is founded by ex-Meta and Google AI researchers, Guillaume Lample, Arthur Mensch and Timothee Lacriox."
-    publishedDateTime: 2023-06-14T07:13:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 53
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Generating mania: Month-old Paris-based startup Mistral AI raises $113M in seed funding"
     excerpt: "Based in Paris, Mistral is the latest startup looking to take on Microsoft Corp.- backed OpenAI LP and Google in building the base infrastructure for generative AI models, which can create new text and images from simple prompts."
     publishedDateTime: 2023-06-14T03:10:00Z
@@ -68,15 +52,6 @@ related:
         width: 2000
         height: 1121
         isCached: true
-  - title: "Generative AI start-up Mistral AI raises €105 million in seed stage funding"
-    excerpt: "AI is the future, and is totally off to races. It can be estimated by the fact that a four week old starter has picked up €105 million just in the seed funding round and is already a rival to Open AI in the building,"
-    publishedDateTime: 2023-06-14T11:53:00Z
-    webUrl: "https://techstory.in/generative-ai-start-up-mistral-ai-raises-e105-million-in-seed-stage-funding/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 15
 
 secured: "sDcw/9ToRWmC5dvIbrOXvhL3Jk97EuTD7Ke8w7iBtWGpcE4r8fVcxmsqQw4RxlGvG5d8ZsTAsBVet97BZR/3dNYGNcOCvYVJsSDK5WniUu4yXDHA+SI8fQcG0FI0IYS8C2mm5psOk+3R0ps2yTca1KyVV5e/K39p5DVhGAjd/5K60ZDEF7r6R2hiMotDbtVoACe0AKUE87Vh94yx0wf/oFFU98/FFE0vkU31JREakVdYW6E9LHjmnGFV++EeOeqqCL88EwU3SfgfYU4OW+m12YJ+L4ZLVjXeqrkwiX8Q+uHtCnSjHZhpT5WuWQtBlTdjRM32UTWpZ6K7MXILWe09FUSZYe2y+oMoCKN0TtOlhzKq05b8wJuGtnmTLrboi2IzOE9u13hNAof0BQyYIifZgAgkomoTJGBH8tEWWEaPwA9g76DQoKfS5508MW968DeZxwAcD9PEIXAgSNjOpuZi/CYwqwgfNDsSlaicznYJKVpyqcs8WCnlC49ogpwTR7kidBWCPVRrxNjvmhHAbwyUNQ==;hxjhxbuH60fK74RzvzHIdQ=="
 ---
