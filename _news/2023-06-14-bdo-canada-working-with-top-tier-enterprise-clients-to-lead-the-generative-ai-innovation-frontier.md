@@ -175,6 +175,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elevating customer experience: The rise of generative AI and conversational data analytics"
+    excerpt: "As the digital-first business landscape becomes increasingly complex and fast-paced, generative AI is becoming an indispensable tool."
+    publishedDateTime: 2023-06-15T23:00:00Z
+    webUrl: "https://venturebeat.com/ai/the-future-of-personalization-how-generative-ai-is-elevating-customer-experiences/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/7.-Gen-AI-for-dynamic-offerings_FINAL_Mesa-de-trabajo-1-copia-4.jpg?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Generative AI's impact on chip industry and the upcoming growth cycle through 2024"
     excerpt: "Generative AI is stealing the spotlight from all other tech products as ChatGPT accumulated 1 million users in just a few months, and now tech analysts from UBS Investment Bank released their latest estimates of its impact on the semiconductor industry business."
     publishedDateTime: 2023-06-14T06:18:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "HCLTech and Microsoft Expand Collaboration to Boost Innovation and Adoption of Generative AI with Microsoft's Azure OpenAI Service"
 excerpt: "Leveraging HCLTech's deep domain expertise across various industries and Microsoft's Azure OpenAI Service, clients will benefit from innovative solutions that enhance employee productivity, streamline IT operations,"
-publishedDateTime: 2023-06-15T12:54:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/06/15/9833322.htm"
-webUrl: "https://it.tmcnet.com/news/2023/06/15/9833322.htm"
+publishedDateTime: 2023-06-15T11:34:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/15/9833322.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833322.htm"
 type: article
 quality: 19
 heat: -1
@@ -199,6 +199,6 @@ related:
       domain: thestreet.com
     quality: 29
 
-secured: "xs9qDJkmUcSisga2AVuXrn9hazB5Ran9nCdXOmYoI0XNO2Cha+2Ae52oCQ6RTJmodbCuMhH/DFhE0Pv//xJGJVBxRlltcNDZdqJq027pOYS0ypSoAcY99Scg81yjQFT/fUgA/oZq/gplbz3EGHiqb2QiRt/8mXVUohdkQwMtkrwTGHEE82/WejdP5FO8HjjjfK/x1eHShYqsfLZZ9Ud8W/AnFtUO0qb6/6+Yc5Vw7dp+TRPn3kcCiu3sxwdXI6FrIWAOexoJ9DqlX44hux7J9DpZJRoXb3FH6DYDIlgBJ34XBNJIwUI1n1+dxmAkM0E8ndDFk+7frK/FJPllUgOy24gTFjMZHiB4S/Evlon3zVE=;wlozQHBi+mysD8fBtubEiw=="
+secured: "MXEe33x6G9SvQkQUF53VgKNSy8b89MEEqjxbn5o3kAepT+AS6oN7p55H3FBpKOgxKnQnuxGuv8ls+lXGkPEUsCSuWTCKU5NXIkvlMb3zC+f2ol/QfD04HFlAUUKasAajhU6bWo01rHMZKAONaawaIqTzUKrVT13UeX/h+0rc/zdhDa7M1e3jxLNIgORhZRHEdrzKgw/5cwRjtbAEewS7v3yS7LZSCX9pxHjJWinex3215VAkmntufAlIi1SPm97Py6VW+lhmMagvZVI0Q+ev7Y7O6d6YQdXyA6nHeXA0jXNGYkXXpme6GkM9bviavyHUCCRA/LSFL3YeANRm+BpqPBS8K8XhFmpXgmnW2DVT9s4=;OicSgIpevE9J1Ye9mUUm6A=="
 ---
 

@@ -167,6 +167,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elevating customer experience: The rise of generative AI and conversational data analytics"
+    excerpt: "As the digital-first business landscape becomes increasingly complex and fast-paced, generative AI is becoming an indispensable tool."
+    publishedDateTime: 2023-06-15T23:00:00Z
+    webUrl: "https://venturebeat.com/ai/the-future-of-personalization-how-generative-ai-is-elevating-customer-experiences/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/7.-Gen-AI-for-dynamic-offerings_FINAL_Mesa-de-trabajo-1-copia-4.jpg?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Generative AI's impact on chip industry and the upcoming growth cycle through 2024"
     excerpt: "Generative AI is stealing the spotlight from all other tech products as ChatGPT accumulated 1 million users in just a few months, and now tech analysts from UBS Investment Bank released their latest estimates of its impact on the semiconductor industry business."
     publishedDateTime: 2023-06-14T06:18:00Z
@@ -301,6 +315,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "krexX5Gg7MwsAH+Fs66mOdiz47Glawv0LPUIzP+ETRWJeestrIeUvXt29LTc1IKpkUkt/Fa5+SE9h1WYVsrUrlSKdzk5D5+86etqUnjAKx2+EecjU5vYXelHkUWF4U8DBudW/xaZP5ZoivHttB5dyhxIG5VcQSd2rslTRUxaJUPdxL1x3r1i6MkCGMjUHD4Bowt63Qo3ryFKA285yimqmWD8e23jYWoS7I1YYJ5sAXDHwSMsOocwAsEykUj2IHEiPRk1mOt2aceil0fK2+xaPaT9lb+Ip0E3W7TRUOf3KZsqAkFNMvecOqxw+xLzQi1Vy1gNOPzxKHwBAHWjaf0N0ggMizQiNKmUV8mKypS1rjE=;XVAcztDHIZWNTHk1KR3AIw=="
+secured: "tbbLD49P0bF5ud+uFsDouEPBe2nNU5Cgyk2NaRPKx43pTfH8dHR7ZPyYygoJsNqScKId/nfpD6k8jRrKEq+/JfHes6fpWux5Kdpu/fqxH8oYUwfLeVBqPrkaA+eJfF1xuJxwUZ1GMP2Rcf5OYHLcLqSdK5niYeb+N4crPXD8+hy0N7HDHWj9I0nEAoUkrB29ZIGNvg9gg/eIze096lwiPKoMvNA+/wirRRLLrN/gVcM43tizi8IMeBNPVfPDii2HZSyuNoR+S3z+FaZZKP2qLjHhLhDIOfbJNcHN4PfZ0Qcmw06OTBXJ+fir4VH+HrmwOun9bWj2m+moExabHPcELfcmwgtghdzrEinLfPaw6p9l7H5ud04hyGVcm7PlBN/0lpFgfAzcGnu+a/rzhrP19rZ5yB7rUubN1GPWyRqvwmIcyp97Rt/Kl0Upahq6sOb6cn/3Lwg0R8qGgVzRBuDjZVghHFeML4kIS753LOVc+D6PbpcuaFPv/ptjPAKWKnw5YeLukmbfX9witggJ7yiyXA==;o2PCM+Ke+gz41pft9cRPHQ=="
 ---
 

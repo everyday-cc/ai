@@ -3,8 +3,8 @@ category: news
 title: "AI and patents: How machine learning can help or hinder innovation"
 excerpt: "The aim is to disincentivise businesses from machine-generating thousands of new patents which recombine existing patents for purely strategic purposes: when they have no intention of developing the invention, but aim to prevent others from developing similar innovations, or make some financial gain."
 publishedDateTime: 2023-06-14T04:01:00Z
-originalUrl: "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b?sf179113301=1"
-webUrl: "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b?sf179113301=1"
+originalUrl: "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b"
+webUrl: "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 506
     isCached: true
 
-secured: "M7BAGi1qUu65c7UCDUhbJIIzI1XlOMxCwNELuKLuHZcysIU+NiW5Ss0cYFKe8h4vxots/5dx6irV1ECG5+VIcIARiW5ejwqoHwJPlSCWQiieHutEwjF5D/pR7opFEiCxOBy4BOT1DTqIO5s2wlTmOzsTIxze3f6seso25DXd8vd9g4+t9i9dbyTKBQsoKEKA+A6lDbBSf1NjTtXrBUKJZ0Q8w9P6drGCBBlWFyPiRorjlhkKpbzPTW5tjIted+sXdakT/uGK1m3bMa3W2rqpcK9/viBTxkOCj8WNuLdifIzgzyptfbHh5U7Kt3o0j0oK5Uk3pHi46az6kBUM6aEqcZIwbVOmg87DBcQ73JtmniWlPQhtrE+TpnXaOAR/4e/6UUmrRExbQWV4h+1Nb4EYAgAvuPlYvo40GrEHFq+Kg85gON5pPoPPgL3Msuvmsy49hxPR5RFs+G6tdDAkZCpNJQdWprpp53dF8+rHnikdZHy2QTuru8M5eM36sBO4XdgLbYW6tbs89mkXmKZMx+aFrA==;tDrTNmWieRH25rIs6I4YiA=="
+secured: "Py0eCFW6zzp+4Ivp2WoMKm9yKtH/lIUcNRkh9Tnky4cw3XMf+NMFtWAMMLvqvcalT7M7cmE4M5DY4UQTCD4m0XKd6enS5/x5mitN3/VWdYbKEcOvROh27+tMV8g+77HNPx67CVKtBJiKETEbo60tEykJqN84NDMkuIeBGyNftxXg82CyZiSVIWqBwr5YTWWV3sLH8HA9eKv+1koZJevSFcOoe+5jQLAXfjdlCs+Z8iIfATtSNzjyLhgPB2mmrdxigsnlz2JinmEKjf6T3PCbIfAyBXRw7L/UKvy03+sA0aBgc1Oh+IDZzm4pC/+peSp7v/ffyTlYhH+w7LjDD1BhL3s/5p6QyVgZoSwRisaRyKk=;j9aqhc+Ci6jyQVKJLHkBUg=="
 ---
 

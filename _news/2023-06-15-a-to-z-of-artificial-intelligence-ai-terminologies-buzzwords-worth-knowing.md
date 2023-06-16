@@ -8,8 +8,8 @@ webUrl: "https://news.abplive.com/technology/ai-image-generator-video-full-form-
 ampWebUrl: "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp"
 cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp"
 type: article
-quality: 77
-heat: 87
+quality: 81
+heat: 81
 published: true
 
 provider:
@@ -22,23 +22,14 @@ topics:
   - Microsoft AI
   - Machine Learning
   - AI in Autos
+  - Natural Language Processing
+  - AI in Healthcare
 
 images:
   - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/06/15/f07ca4ed39925dc0b23208f32d0652101686820877963402_original.jpg"
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Investing in AI: What to Consider"
-    excerpt: "Artificial intelligence may prove to be the most disruptive and significant change in technology in a generation. As more companies are moving to incorporate AI into their core businesses, the space appears to be ripe for investment,"
-    publishedDateTime: 2023-06-15T17:36:00Z
-    webUrl: "https://www.cnbc.com/video/2023/06/15/investing-in-ai-what-to-consider.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
 
 secured: "vwH6Ykjpm6dsDi4pmFplNwMpCDTHEdkThOYX1tkyb/f5PYkyT8Q+VyQHfAMGni9M/H7E+Kmu93y8Qbb1LJqBSMNYP2OFPIYtCjZ+0kgS5fjlDU8Mk9KsO+0E5MZloruHDimKLXzgEi+9ii4BhW/yULqpM7qPcaNky90SiSw/gPuno5maZaQWdEBCsvHMXNzKHQNPmjGPVNgr5TZ/TcGFTUpGP5EQp8ERia6ig9ZWWaKhM++UzCXCzgx52DtUWQcKDlrbp2YPnNpgm7RitNTzbfGSWym5QHkj79MOh2lcfk02ToeAP0B0q0/Bv/HnkXonL4MAPA7vSyZwKc4nLNzht9wgCOpZdRqgqblrPk4HvRZUE7pUr2cuW9wYRDmzHyYkeZB1CIwa0nKXDpNjoHgVGS2DfBrNxxHoW1WHBVNhI8hvhRgseVJ55hQJzZLnAn2IPMO7vYYeRXVsEQI0+qv6ISGYPNKHBOVF6l+NiFDazonV7h/gxHe8wlz+pmKxA4V/0NGSqAEvQhVRLPhbmwmMAw==;LxjB8NYwytPAwyAIqCk4zg=="
 ---

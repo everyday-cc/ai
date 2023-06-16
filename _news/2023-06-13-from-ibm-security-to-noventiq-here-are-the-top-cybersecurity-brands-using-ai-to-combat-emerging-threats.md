@@ -57,6 +57,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How machine learning and new AI technologies could change the cybersecurity landscape"
+    excerpt: "Drata's analysis found new technology for data handling has security risks on the one hand and potential security benefits on the other."
+    publishedDateTime: 2023-06-15T11:59:00Z
+    webUrl: "https://www.stltoday.com/business/collection_f0d7605d-fa7d-59db-970c-90826c16a8e8.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/04/104b1e4e-1dfc-50b8-ac8f-6b0ec96aa1ce/648a2cae8e33b.image.jpg?crop=1080%2C567%2C0%2C101&resize=1080%2C567&order=crop%2Cresize"
+        width: 1080
+        height: 567
+        isCached: true
   - title: "MIT-based AI apps startup aims to block supply chain attacks with advanced cybersecurity"
     excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More The digital pandemic of increasing breaches and ransomware attacks is hitting supply chains and the manufacturers who rely on them hard this year."
     publishedDateTime: 2023-06-15T17:07:00Z
@@ -66,15 +80,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 38
-  - title: "How machine learning and new AI technologies could change the cybersecurity landscape"
-    excerpt: "Use Next and Previous buttons to navigate How machine learning and new AI technologies could change the cybersecurity landscape The world has never been more online. From work meetings, emails, and texts to shopping,"
-    publishedDateTime: 2023-06-14T23:30:00Z
-    webUrl: "https://www.timesunion.com/personal-finance/article/how-machine-learning-and-new-ai-technologies-18152566.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 27
 
 secured: "usLeandkabJCe8fw7t+Zs1fyvfjSmKL+PZwcToUht6SPA9/yqwdzWZMddM/6q02/cUxKV7P052z1MUanSNoDN9fbnXvbob68nkrEI857qmO5pbg6JJ7dwmiChbh0wAhjtbHPnJxeFGRjtsSnAwbYvWaRZA5Dpd6Q4QbeEeSLjlXNmNbHJB5xnz6MC9Rq6wAIvv6lKfgPq/fMX2g2nu7Lkzy0zs+8VxKw3QwRmJLmKRexcHSIEBZcGn6oPlpUz4Qfqu6wMRvl7Hoc8hnPvwk4mH5N2UBi3GydZ5Qht3ouyI1TvSFEPC8sVxMUsIGt+T5Q5wJTLiAK2Y9BgnwZj4BdKBvYZSTYKYpetjhlRaD94o5Hu+HzKb0+ax7tUX4TgmsbQKvQLEyRrtTprWuvpUD/knfWqR+s3xoXGY37dDGX5idMQyUbGnRs06vcwM3tTUYRl9ODWGZBTBjfdLJPWapJ6KpI5Y0sc/oMYrSIPt3bKVz9RR+Frf+jiB8zsnJnLug4Pc3OczpM0CfVLrVDoLZUBw==;WAAMc9uZ9VcTPRaJ7Pfk6w=="
 ---

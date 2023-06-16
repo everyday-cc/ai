@@ -17,11 +17,11 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/06/David-Lynch-Mug.jpg?w=2000&#038;ssl=1"
+  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2020/12/putnam.jpg?w=2000&#038;ssl=1"
     width: 800
-    height: 450
+    height: 448
     isCached: true
 
-secured: "wAnoLAzJ7LC/LnubfvyYs6ESJTVeMJgLlXhlQ3WvJeeD1Lho3JOduGOT2ehlgJzj+5R2DkQFEKt6CaZ8tpDaC3/YJZRzQAdVhR9nmEikHltS/vdMpWIgmNF3PVnV9pnpDATAwZZQ+x6ib5JEnr0kUovYy3kcWcjY89cNKZspP/ihYc3OsL5JuloGJyHS0rHjKDz0QJ70b+xkeQKHwbBW69Vn2jhtv0U7ZLqU8kXFbfgaFZhBfnG947fds5murgqwUAHDgcgvpmrEGG22TwZaxfz2O66zgYp3bW21itvxplHlJsslOQA7bwPASgSVk49wJmF/xmeBTMtiebhY7xrMRT4awp7rqBbHZbd+hZTlzSI=;RcoSCbYRqXM9Xoo4Hp5CWQ=="
+secured: "sTylyx1+r775HkitUSDjz57tJzPEUvay++3jGv5EvPHBvEsrr0S2HRsI4oh/M/Rmz2SJ/eyBexdw70uW3LikekWwKFL941GC77yC32Wg7DOnJYdqoBIsQuadNUq1lwsldGleMqq+/7rZtmoJteYez92pRiSiMaDA7nJPcgbeAmzMw78EUHxZgxk/AmFJA6LeKFjjBhsXovuY0w1LDxHhhzXpGGeA+lyiGY5lRpRBPX5DlVQB8suEKe8ahcQFD6K+G1RZYdXHI7RuyoysJM1xTh9BnxR30QU7rbymYL9nIU0bxmwc11KPamiVj9E5eUsesbT1u1XoMj5S+ZCdD0MVLCjgrCDttnHe4CAdPXZDfc4=;e2/bVlyA9SxXxhqh6E1Igw=="
 ---
 

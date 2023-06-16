@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-def
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/amp/"
 type: article
 quality: 91
-heat: 291
+heat: 281
 published: true
 
 provider:
@@ -95,22 +95,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/024587305aa77c8b0a1bec41d14b5f806488f709/2023/06/15/e1a389e8-135b-4821-8082-95bf9a2a6606/gettyimages-1160331590-1.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Samsung Electronics to adopt own AI amid ChatGPT security concerns"
-    excerpt: "Samsung Electronics plans to introduce a customized artificial intelligence (AI) service for knowledge search, translation and summarization this year as concerns over the possible leakage of key technological information enabled by ChatGPT are rising."
-    publishedDateTime: 2023-06-11T05:15:00Z
-    webUrl: "https://koreatimes.co.kr/www/tech/2023/06/419_352712.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 76
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202306/70266bbc95114a4db02f6a0137bbf2d1.jpg"
-        width: 980
-        height: 536
         isCached: true
   - title: "ChatGPT disrupts Asian property industry, but it’ll be a while before an AI agent sells you a home"
     excerpt: "AI-based property agents are still in the realm of science fiction, but artificial intelligence is disrupting the industry as companies invest to explore its advantages and limitations – and how the role of agents will change."

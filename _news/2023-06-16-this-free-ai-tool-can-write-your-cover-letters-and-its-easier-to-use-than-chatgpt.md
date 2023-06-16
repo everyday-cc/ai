@@ -94,22 +94,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Samsung Electronics to adopt own AI amid ChatGPT security concerns"
-    excerpt: "Samsung Electronics plans to introduce a customized artificial intelligence (AI) service for knowledge search, translation and summarization this year as concerns over the possible leakage of key technological information enabled by ChatGPT are rising."
-    publishedDateTime: 2023-06-11T05:15:00Z
-    webUrl: "https://koreatimes.co.kr/www/tech/2023/06/419_352712.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352712"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 76
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202306/70266bbc95114a4db02f6a0137bbf2d1.jpg"
-        width: 980
-        height: 536
-        isCached: true
   - title: "ChatGPT disrupts Asian property industry, but it’ll be a while before an AI agent sells you a home"
     excerpt: "AI-based property agents are still in the realm of science fiction, but artificial intelligence is disrupting the industry as companies invest to explore its advantages and limitations – and how the role of agents will change."
     publishedDateTime: 2023-06-11T11:47:00Z
@@ -309,6 +293,6 @@ related:
       domain: azcentral.com
     quality: 10
 
-secured: "fsDn/P+L+TJ/B3iIdUiDxIBsEp2FdoHlAMAxbXb6qhm7JmiRnf31jDeXbasobpq4/prgNmBK6GYAuag2YljYl+9dRUO73ywqgZWLGuP1822l7ljqi3b+SWvCuCDIEY7hZbxKbiax25VwEu5gAKJ7pcbpjVTl1U1t8blsd55CC189doTaNJPdoozRJl+XOP6z/YliJVcPGeRnRzDwG3s81ByCVp2ai4CSsAN5i0q1VfxfJX+7NHmUzwWn4N3HGDD6ZEHtzcAHgnea+JCpk3hQ0Ao18A9c2O5HrFiuCiwDfENiJA8XmQFA56kK1BAu3PrzeqtLL5lYe6gPwwZ2+qAwZNR1h3gELyc/F0Ks1EIjA7I=;cbRoO97l7/bJlymvbKmoTQ=="
+secured: "AMx7tA+chUiLhHOQyntjLPmmPN+eCljSU7acC4+gPqMNCYEKcHlPpwp45dbb4qc6DT4XYqBmwkkHOKbd/oYlpjhITyyI8eUwXHxwTc5rce2QG9tiYU6DGgSf64Vvs5yR09d+a8zOQCqXkgMsqgo7r+gdrtD/wztLEaFKGFfhC/NnBaZGxn78OpbNP9C9lf7whTLuND/3iqU5vJYjZjvtmvTNoc/RqoLBV5PNVGxlNEedhKlDY2IDFETfkcKk2dnpqwUUV7K3xe+qeULD6yw9Rq6YPKQ/1nAlM2N9FGfA+nbdChyKh0Sp5J0Z+L+VHQ6bbMHo+UhBHuEAblA+sFKxg2cS0kDaDPhxSxV/LA0OmvRgCZ1uDToTWAbYVOM2gFrN7olXBApcY9RVaVZbqIoP5hEu1hZhLXHLe6ZjZD8uqZ8VkITciRb8z/V4Jeysf0BTlQLw9r0qqdAPY2/RPx7TTA72/gBIfsWSL3WVGrhKefe9gpFR2Et1wWlV2L84M1gr1qb1Fqv/w4otK+WnOzgXRg==;ifiJ6t1kF4Aa0DbDLA8AdA=="
 ---
 

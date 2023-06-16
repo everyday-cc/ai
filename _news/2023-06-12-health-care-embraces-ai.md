@@ -75,15 +75,6 @@ related:
       name: Crain's Chicago Business
       domain: chicagobusiness.com
     quality: 19
-  - title: "Molina Healthcare and Partners Share Results of Obstetrics Health Care Model Incorporating Artificial Intelligence"
-    excerpt: "Molina Healthcare, Inc. (\"Molina\") recently shared some notable results of a groundbreaking health care model that uses artificial intelligence (AI) to impact the full cycle of obstetrical care, from early pregnancy detection to post-NICU community-based care management."
-    publishedDateTime: 2023-06-13T13:42:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831670.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "ebqGdlW+f3awRNtuLPIJfZvGD9lCAPh5izB7s4rCFKbJu95CzUmBliG1xJcZ54bWNZKWD6bptpAgkUBKw5iaTJySI8al1zowCIZzWZEPUstrgy2603rh5IZkkcX1tDrUjKBe7FUBnkQfRscy3By7kDZdy6cxy5hv+qy33y4GgNz0BJwjARBaHSERHx5vQBLYMRCI7GAS2TR6BQqUaKyW5zPCoy/MYXIiWKCVFTCD8jdmjvnAhEEpZxoa5pfuMGurdVOyoL4mKjZPcdKHWUqGSED3NBN6XInCHQtn/8/MoB5M/Eqtl6icnYJu8glr7foDP88EiMqIk5lSFbsEygVWN7GTHafyHxg2eKep33tMzJeWi+L9gVOYXZR46Nt/cwQAtLhO+jYIH/P4B0UacUJOE9lblJh8dHmsUfNLP1v0ph5WfApNvy4CIwCf1jE8UOK76CxSdxt/pPijIOYdTqy1Dm6JXVtin+SyL/Niab97Q9mPnv+pWtz8AEDvxGhgJ29wxUbxlUdcl/nFqKrw6GkWhA==;cw0nvSahIGPHPypBj5xEKQ=="
 ---

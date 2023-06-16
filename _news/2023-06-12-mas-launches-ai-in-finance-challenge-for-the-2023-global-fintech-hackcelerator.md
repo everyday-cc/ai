@@ -57,6 +57,20 @@ related:
         width: 1275
         height: 1263
         isCached: true
+  - title: "Lending A Helping Hand to Fintech Businesses"
+    excerpt: "Demonetization acted as a catalyst in India to promote digital transactions which in turn accelerated the use of fintech platforms, including lending tech solutions as an alternative to cash-based transactions. Increase in Embedded Credit and AI-driven ..."
+    publishedDateTime: 2023-06-15T14:30:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/business-news/lending-a-helping-hand-to-fintech-businesses/454175"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1686838737-pexels-karolina-grabowska-4968630.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Upstart Fintech Buys Airport-Area Office for HQ"
     excerpt: "The head of Finfare Inc., an up-and-coming fintech in the Spectrum area of Irvine, has made one of the larger office deals of the year in the area around John Wayne Airport."
     publishedDateTime: 2023-06-12T19:35:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/amp/"
 type: article
 quality: 87
-heat: 123
+heat: 117
 published: true
 
 provider:

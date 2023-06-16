@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introd
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/amp/"
 type: article
 quality: 68
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://data.ibtimes.sg/en/full/68201/ai-powered-comapnies.jpg"
         width: 1275
         height: 1263
+        isCached: true
+  - title: "Lending A Helping Hand to Fintech Businesses"
+    excerpt: "Demonetization acted as a catalyst in India to promote digital transactions which in turn accelerated the use of fintech platforms, including lending tech solutions as an alternative to cash-based transactions. Increase in Embedded Credit and AI-driven ..."
+    publishedDateTime: 2023-06-15T14:30:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/business-news/lending-a-helping-hand-to-fintech-businesses/454175"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1686838737-pexels-karolina-grabowska-4968630.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "MAS launches AI in Finance Challenge for the 2023 Global FinTech Hackcelerator"
     excerpt: "The Monetary Authority of Singapore (MAS) today launched the 8th edition of the Global FinTech Hackcelerator, titled “Artificial Intelligence (AI) in Finance Global Challenge”, to produce innovative and market-ready AI solutions that can transform the financial services industry."
