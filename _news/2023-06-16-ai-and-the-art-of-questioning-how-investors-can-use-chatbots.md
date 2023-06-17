@@ -124,20 +124,20 @@ related:
         height: 675
         isCached: true
   - title: "Meta guru says ChatGPT-style AI is out-of-date"
-    excerpt: "LeCun spoke as Meta announced its latest AI project -- called image-based Joint Embedding Predictive Architecture, or JEPA. The project seeks to move beyond ChatGPT-like generativ"
-    publishedDateTime: 2023-06-14T09:20:00Z
-    webUrl: "https://www.daily-sun.com/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
-    ampWebUrl: "https://www.daily-sun.com/amp/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
-    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
+    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
+    publishedDateTime: 2023-06-13T17:18:00Z
+    webUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
     type: article
     provider:
-      name: Daily Sun
-      domain: daily-sun.com
+      name: techxplore
+      domain: techxplore.com
     quality: 59
     images:
-      - url: "https://www.daily-sun.com/assets/news_images/2023/06/14/meta.jpg"
-        width: 700
-        height: 402
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
+        width: 2880
+        height: 1616
         isCached: true
   - title: "Using AI, ChatGPT to Augment the Future of Healthcare"
     excerpt: "During a June 7 event hosted by Northwestern Engineering, AI@NU, and the Institute for Augmented Intelligence in Medicine, computer scientists and physicians presented examples of how artificial intelligence technologies can augment healthcare tasks."

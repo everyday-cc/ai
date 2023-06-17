@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-human
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -88,22 +88,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/06/possessed-photography-dRMQiAubdws-unsplash-1-scaled.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "What happens if AI grows smarter than humans? The answer worries scientists."
-    excerpt: "Some AI experts have begun to confront the 'Singularity.' What they see scares them. In 1993, computer scientist and sci-fi author Vernor Vinge predicted that within three decades, we would have the technology to create a form of intelligence that surpasses our own."
-    publishedDateTime: 2023-06-12T10:00:00Z
-    webUrl: "https://www.popsci.com/science/ai-singularity/"
-    ampWebUrl: "https://www.popsci.com/science/ai-singularity/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/ai-singularity/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 54
-    images:
-      - url: "https://www.popsci.com/uploads/2023/06/09/agent-smith-the-matrix-singularity-ai.jpg?auto=webp"
-        width: 2000
-        height: 1112
         isCached: true
   - title: "The ethics and creativity of Artificial intelligence"
     excerpt: "Chef Kardea Brown, is the Emmy nominated host of Food Network, Delicious Miss Brown, and she joined New York Living to talk attending the 36th Annual Chefs’ Tribute to Citymeals on Wheels."

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Meta guru says ChatGPT-style AI is out-of-date"
-excerpt: "LeCun spoke as Meta announced its latest AI project -- called image-based Joint Embedding Predictive Architecture, or JEPA. The project seeks to move beyond ChatGPT-like generativ"
-publishedDateTime: 2023-06-14T09:20:00Z
-originalUrl: "https://www.daily-sun.com/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
-webUrl: "https://www.daily-sun.com/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
-ampWebUrl: "https://www.daily-sun.com/amp/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
-cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
+excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
+publishedDateTime: 2023-06-13T17:18:00Z
+originalUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
+webUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
+ampWebUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Daily Sun
-  domain: daily-sun.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://www.daily-sun.com/assets/news_images/2023/06/14/meta.jpg"
-    width: 700
-    height: 402
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
+    width: 2880
+    height: 1616
     isCached: true
 
 related:
@@ -330,6 +330,6 @@ related:
       domain: azcentral.com
     quality: 10
 
-secured: "MLsaZTKfGLjA+qF/gfDPWFFs++yOBFiVd+vU7gkEufxL/RRYritshZIlkzw/6ls1TiKKjarph+tpsz6A+lozHqZHjRQ9s8JWmQyM4e48gfmu342LfIrxpWmi6uM0fC6SYHf40R1TwoF5X+y+kAxIiB5rmS3grA6jnEMwCfyMXSfEL2+tC5fpDlLtcTd85NGJ4MuDETIAwHFpcWxQ38pNHeYNOKifbTDrSD+NMBMyv1ncFzDI+hjGaWhdpnzf+OQ9qoMwSfZ98oJ09HH3RdSinAdMZ0VKLs6+WbJrXKW7M9z143OXHfT3I0uY0Jttccn9YCeQQw4xY9eGH/iW+Yib6uS1TqmxKwPGu/ZMoE81RXzQpN/fik0h+Ed37vByseaj8KRgV9KzCW7QKbLSqtDtotI1esVReZFkp6iHy870/JETeXT+3yl0fyjTiAPWdXue+Po4DJXmwA7buyeM6Ka+gTwYINVLs4VAMFW1gA+o8HFlpt51lufYMckkLNdrkkzt+iqq8+33cgbsUjFCZuiyDA==;UA4sMiJAAoeDXsIUfoVXFw=="
+secured: "OTiBVBpQ8wnMORW3YIYVpXjoRPUZUq3X1ojkyTXMQoTOiGIn6X8r1UJh8obIu27HCvCNb5ONxge8uiMND01v4Lj1Qe5hCelo9JQ+ympYN3N/yhWlCqIFPGqY+E7M1jjVGuCtAFutehNLMxDf9O2GRqtGai5iZqnf+suJNYttme/NKk+62aKtb+s9LMrIjruhCZ+Zoa5z1WX6F4gQUrJVHPcZjsJorXRq9u2fjBRRgwz1V779ZdOZPDUEJ3raYO98TZgg0i4qLKxEfsEzwYbc/GqN2VVwp4G62Lvx5lX2PXnVWAXTA8yg9d4lYa81+6Om9Ell4kty0gwK3qXxXrIEZ1iOjMhRoX9ePI47/LzanjM=;FhnCB/0SBhwD1KgMLeNJSQ=="
 ---
 

@@ -54,7 +54,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -687,6 +687,41 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-accenture-acquires-nextira-expanding-engineering-capabilities-in-artificial-intelligence-and-machine-learning.md",
+      "title": "Accenture Acquires Nextira, Expanding Engineering Capabilities in Artificial Intelligence and Machine Learning",
+      "excerpt": "Nextira will join the Accenture AWS Business Group with a focus on media and entertainment industry clients . Accenture (NYSE: ACN) has acquired Nextira, an Amazon Web Services (A",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-1-accenture-acquires-nextira-expanding-engineering-capabilities-in-artificial-intelligence-and-machine-learning",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-1-accenture-acquires-nextira-expanding-engineering-capabilities-in-artificial-intelligence-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1390,50 +1425,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications.md",
-      "title": "ApartmentLove Names Ken Lang CTO as the Company Adopts Machine Learning and AI Applications",
-      "excerpt": "This is a wonderfully formative time for the Company and to have Ken leading our engineering, Machine Learning and AI initiatives ensures ... and vacation rental marketing services to property managers, owners, renters, and vacationers in more than 30 ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11",
-      "originalUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dcs-static.gprod.postmedia.digital/13.7.7/websites/images/canada/fallback.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11/amp/",
-      "publishedDateTime": "2023-05-18T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

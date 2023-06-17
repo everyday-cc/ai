@@ -8,9 +8,9 @@ webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32904061/artificial-inte
 ampWebUrl: "https://www.benzinga.com/amp/content/32904061"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32904061"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 51
+heat: 101
+published: true
 
 provider:
   name: Benzinga.com
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"

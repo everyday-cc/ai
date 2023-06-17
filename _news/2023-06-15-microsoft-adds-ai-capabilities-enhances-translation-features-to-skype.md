@@ -20,15 +20,17 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AWS distances itself from Google, Microsoft with ‘unique’ approach to generative AI"
-    excerpt: "AWS has emphasised its commitment to providing customers with the widest range of AI tools, in a strategy that distances it from other hyperscale AI providers. The firm, the third of the hyperscalers to fully enter the generative artificial intelligence (AI) foray,"
-    publishedDateTime: 2023-06-12T12:15:00Z
-    webUrl: "https://www.techcentral.ie/aws-distances-itself-from-google-microsoft-with-unique-approach-to-generative-ai/"
+  - title: "Viettel, Microsoft Vietnam improve AI application capability"
+    excerpt: "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,"
+    publishedDateTime: 2023-06-17T03:35:00Z
+    webUrl: "https://english.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov"
+    ampWebUrl: "https://amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
+    cdnAmpWebUrl: "https://amp-vov-vn.cdn.ampproject.org/c/s/amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
     type: article
     provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 45
+      name: VOV Online
+      domain: english.vov.vn
+    quality: 54
   - title: "Microsoft adds AI capabilities, enhances translation features to Skype"
     excerpt: "In the latest update to Skype, Microsoft has incorporated AI capabilities and enhanced translation features into the platform. The updated version (8.99.76.102 for Insiders) of Skype includes several new features as well as the usual reliability fixes."
     publishedDateTime: 2023-06-13T18:15:00Z

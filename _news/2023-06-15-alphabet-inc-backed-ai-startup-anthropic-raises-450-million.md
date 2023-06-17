@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI, DeepMind will open up models to UK government"
-    excerpt: "Google DeepMind, OpenAI and Anthropic have agreed to open up their AI models to the U.K. government for research and safety purposes, Prime Minister Rishi Sunak announced at London Tech"
-    publishedDateTime: 2023-06-12T10:07:00Z
-    webUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/"
-    ampWebUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 74
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/31/GettyImages-1248338134-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "f0lg5ssL8Fxp7FtSOuKz4GlHCyuJHfSj1xlfVnEVYvjkBUTVXQVs7/qRe6a0rIBJyn3RVehrttCT2VieN3hzAOZ3UwKbN3bGhkhg53+IvihWw5m5cQLaxL1bEGezd+FOR/qP6S5oSiNaefhfK9ZYsgU8M3T2EBIzAPY+S1g7FsGyIrBbFUF9CGabsh/O9wGWcXaLGI54yhgTQrOcl5cJr+ROFvss91BwowIF3yDYMXzNjEwecGLRtFjFNfArkraVUJj3J/kjgBA4LanPIwjVkKSSBvPaagQ2F+0H18W2ews+mFlvcLpbikZMgH/LwD7UJ8aGN6U8S5abNsY1HB1UGTfRBjf1ycagGmdkesu1xQ8=;5bqV6p5N7ofSu6rAfxA5Pg=="
 ---

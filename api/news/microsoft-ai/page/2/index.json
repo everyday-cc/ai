@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-01-generative-ai-startup-runway-recently-signed-a-huge-cloud-computing-contract-with-google.md",
+      "title": "Generative AI startup Runway recently signed a huge cloud computing contract with Google",
+      "excerpt": "It indicates the ability to send an email. An curved arrow pointing right. Google and Runway have a major new contract that provides the generative AI startup will millions of dollars in cloud services and related credits. Runway, which has raised funding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-cloud-runway-generative-ai-startup-contract-2023-5",
+      "originalUrl": "https://www.businessinsider.com/google-cloud-runway-generative-ai-startup-contract-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-dell-techworld-2023-security-ai-and-multicloud.md",
       "title": "Dell TechWorld 2023 — Security, AI And Multicloud",
       "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, dives into the technological innovations at Dell Tech World 2023.",
@@ -1322,58 +1374,6 @@
       "ampWebUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
       "publishedDateTime": "2023-05-23T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.md",
-      "title": "At Microsoft Build 2023, Azure Cosmos DB joins the AI toolchain",
-      "excerpt": "Microsoft has introduced a spectrum of new tools to make it easier to customize and focus the output of GPT-based AI models. Cosmos DB plays an important role.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.html",
-      "originalUrl": "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 689,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70",
-          "width": 1199,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.amp.html",
-      "publishedDateTime": "2023-05-23T12:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoWorld",

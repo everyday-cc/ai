@@ -57,20 +57,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "MAS launches AI in Finance Challenge for the 2023 Global FinTech Hackcelerator"
-    excerpt: "The Monetary Authority of Singapore (MAS) today launched the 8th edition of the Global FinTech Hackcelerator, titled “Artificial Intelligence (AI) in Finance Global Challenge”, to produce innovative and market-ready AI solutions that can transform the financial services industry."
-    publishedDateTime: 2023-06-12T10:53:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97212/mas-launches-ai-in-finance-challenge-for-the-2023-global-fintech-hackcelerator"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 50
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Upstart Fintech Buys Airport-Area Office for HQ"
     excerpt: "The head of Finfare Inc., an up-and-coming fintech in the Spectrum area of Irvine, has made one of the larger office deals of the year in the area around John Wayne Airport."
     publishedDateTime: 2023-06-12T19:35:00Z

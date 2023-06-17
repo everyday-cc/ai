@@ -44,20 +44,6 @@ related:
         height: 568
         isCached: true
   - title: "What does a chatbot know about eating disorders? Users of a help line are about to find out"
-    excerpt: "For more than 20 years, the National Eating Disorders Association has operated a phone line and online platform for people seeking help for anorexia, bulimia, and other eating disorders. Last year, nearly 70,"
-    publishedDateTime: 2023-06-12T10:29:00Z
-    webUrl: "https://www.news-medical.net/news/20230612/What-does-a-chatbot-know-about-eating-disorders-Users-of-a-help-line-are-about-to-find-out.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 14
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "What does a chatbot know about eating disorders? Users of a help line are about to find out"
     excerpt: "Many mental health organizations and companies are struggling to provide services and care in response to a sharp escalation in demand, and some are turning to chatbots and AI, even though clinicians"
     publishedDateTime: 2023-06-13T13:51:00Z
     webUrl: "https://www.minnpost.com/other-nonprofit-media/2023/06/what-does-a-chatbot-know-about-eating-disorders-users-of-a-help-line-are-about-to-find-out/"

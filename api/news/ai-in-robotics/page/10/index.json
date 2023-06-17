@@ -2,59 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2023-03-31-could-this-self-driving-ev-charging-robot-be-a-game-changer.md",
-      "title": "Could this self-driving EV charging robot be a game changer?",
-      "excerpt": "The orange-and-white automatic self-drive EV charging robot is waterproof and shockproof, and it’s got deep learning, 5G, V2X, simultaneous localization and mapping, and other tech capabilities. China-based NaaS says the robot can complete the charging ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/03/31/self-driving-ev-charging-robot/",
-      "originalUrl": "https://electrek.co/2023/03/31/self-driving-ev-charging-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/03/NaaS-EV-mobile-charging-robot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-03-31-the-case-for-how-and-why-ai-might-kill-us-all.md",
       "title": "The case for how and why AI might kill us all",
       "excerpt": "Some believe AI is flat-out going to wipe out all of biological life at ... inspired by the way the human brain connects concepts. It worked with Microsoft Azure to build the hardware to run it, then fed it billions and billions of bits of human text ...",

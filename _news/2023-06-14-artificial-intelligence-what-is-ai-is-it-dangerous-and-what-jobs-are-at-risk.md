@@ -84,22 +84,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "What happens if AI grows smarter than humans? The answer worries scientists."
-    excerpt: "Some AI experts have begun to confront the 'Singularity.' What they see scares them. In 1993, computer scientist and sci-fi author Vernor Vinge predicted that within three decades, we would have the technology to create a form of intelligence that surpasses our own."
-    publishedDateTime: 2023-06-12T10:00:00Z
-    webUrl: "https://www.popsci.com/science/ai-singularity/"
-    ampWebUrl: "https://www.popsci.com/science/ai-singularity/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/ai-singularity/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 54
-    images:
-      - url: "https://www.popsci.com/uploads/2023/06/09/agent-smith-the-matrix-singularity-ai.jpg?auto=webp"
-        width: 2000
-        height: 1112
-        isCached: true
   - title: "The ethics and creativity of Artificial intelligence"
     excerpt: "Chef Kardea Brown, is the Emmy nominated host of Food Network, Delicious Miss Brown, and she joined New York Living to talk attending the 36th Annual Chefs’ Tribute to Citymeals on Wheels."
     publishedDateTime: 2023-06-12T20:42:00Z

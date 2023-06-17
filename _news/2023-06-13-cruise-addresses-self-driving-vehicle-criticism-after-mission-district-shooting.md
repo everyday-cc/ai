@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Self-driving car hits and kills small dog in San Francisco"
-    excerpt: "An initial review indicated that the Waymo’s system correctly identified the dog, which ran from behind a parked vehicle. However, the vehicle was unable to avoid hitting the animal."
-    publishedDateTime: 2023-06-12T10:25:00Z
-    webUrl: "https://thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/"
-    ampWebUrl: "https://thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/AP23077014398441-e1686565582597.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI is coming for jobs, but it might be San Francisco’s best hope"
     excerpt: "Venture capitalists have funneled nearly $2 billion in San Francisco-based AI start-ups this year alone, a frenzy of activity that market researchers say could help usher in another tech boom for the beleaguered city, salvage its reputation as the ..."
     publishedDateTime: 2023-06-15T11:02:00Z

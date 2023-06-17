@@ -51,22 +51,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 91
-  - title: "Automation And Forecasting: Revolutionizing Business With AI"
-    excerpt: "One of the most promising AI technologies is the generative pre-trained transformer (GPT) model, a natural language processing tool that is revolutionizing how businesses communicate and operate."
-    publishedDateTime: 2023-06-12T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/648337895224cd868d750fc7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 773
-        isCached: true
   - title: "IBM plans to make a difference in AI with Watson X"
     excerpt: "IBM Watson X, as a platform, is in fact designed to reduce the barrier of entry in terms of getting to use this type of model and technology."
     publishedDateTime: 2023-06-13T00:30:00Z

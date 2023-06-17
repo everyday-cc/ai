@@ -45,50 +45,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-16-ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready-for-prime-time.md",
-      "title": "IFS Connect 2023 - why talk about generative AI when robotics and connected manufacturing are ready for prime time?",
-      "excerpt": "IFS avoids technology festivals in favor of industry shop talk. But at IFS Connect, I found customers knee deep in AI preparations. It's all about getting your plant floor machines talking. And, for CDF Corporation,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready",
-      "originalUrl": "https://diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-06/Alex%20Ivkovic%20-%20CDF%20-%20CIO.jpg",
-          "width": 1083,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready?amp",
-      "publishedDateTime": "2023-06-16T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-16-robots-and-ai-a-new-economic-era.md",
       "title": "Robots and AI: A new economic era",
       "excerpt": "First, this article is written by a human. I was born and delivered by organic parents.But soon many articles and most — if not all — goods and services will be produced, operated and delivered by robots and AI.",
@@ -140,7 +96,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-16/venture-capital-s-ai-run-lettuce-farms-are-starting-to-go-bust",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1411,6 +1367,58 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-04-droneos-how-to-take-control-of-the-countrys-growing-robot-army.md",
+      "title": "DroneOS: How To Take Control Of The Country's Growing Robot Army",
+      "excerpt": "The Pentagon wants to build a robot army. Nelson Paez of DreamHammer hopes to make it as easy to operate as possible. The Pentagon has a big command-and-control problem. Not insubordination among ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/",
+      "originalUrl": "https://www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/blogs-images/thumbnails/blog_1016/pt_1016_14198_o.jpg?format=jpg&width=1200",
+          "width": 320,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/amp/",
+      "publishedDateTime": "2023-06-03T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

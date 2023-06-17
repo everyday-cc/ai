@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-03-improving-fluid-simulations-with-embedded-neural-networks.md",
+      "title": "Improving fluid simulations with embedded neural networks",
+      "excerpt": "While neural networks can help to improve the accuracy of fluid flow simulations, new research shows how their accuracy is limited unless the right approach is taken. By embedding fluid properties ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.html",
+      "originalUrl": "https://phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/improving-fluid-simula.jpg",
+          "width": 2031,
+          "height": 1074,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.amp",
+      "publishedDateTime": "2023-06-02T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-ai-terminologies-101-how-attention-mechanism-is-transforming-deep-learning.md",
+      "title": "AI TERMINOLOGIES 101: How Attention Mechanism is Transforming Deep Learning",
+      "excerpt": "As machine learning and deep learning continue to revolutionize various industries, several innovative techniques and methodologies have been developed to optimize these learning processes. One of these techniques is the Attention Mechanism. In essence ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/06/understanding-attention-mechanism-in-deep-learning",
+      "originalUrl": "https://yourstory.com/2023/06/understanding-attention-mechanism-in-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Screenshot2023-06-02at6-1685709549095.png?fm=png&auto=format",
+          "width": 2134,
+          "height": 1058,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence.md",
       "title": "A Quantum Leap In AI: IonQ Aims To Create Quantum Machine Learning Models At The Level Of General Human Intelligence",
       "excerpt": "At some point, quantum systems will more easily handle the ongoing exponential growth in data compared to classical computers, which may struggle to keep up. Theoretically, at some point in the not-too-distant future,",
@@ -146,6 +232,41 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-accenture-acquires-nextira-expanding-engineering-capabilities-in-artificial-intelligence-and-machine-learning.md",
+      "title": "Accenture Acquires Nextira, Expanding Engineering Capabilities in Artificial Intelligence and Machine Learning",
+      "excerpt": "Nextira will join the Accenture AWS Business Group with a focus on media and entertainment industry clients . Accenture (NYSE: ACN) has acquired Nextira, an Amazon Web Services (A",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-1-accenture-acquires-nextira-expanding-engineering-capabilities-in-artificial-intelligence-and-machine-learning",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-1-accenture-acquires-nextira-expanding-engineering-capabilities-in-artificial-intelligence-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI",
         "Machine Learning"
       ]
@@ -1161,126 +1282,6 @@
       "provider": {
         "name": "InfoQ",
         "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-iit-jodhpur-futurense-unveils-pg-diploma-in-data-science-engineering.md",
-      "title": "IIT Jodhpur, Futurense Unveils PG Diploma In Data Science & Engineering",
-      "excerpt": "Indian Institute of Technology, Jodhpur (IIT Jodhpur) along with Futurense Technologies has launched hybrid Post Graduate Diploma (PGD) in Data Science and Engineering. This programme is designed by faculty at IIT Jodhpur,",
-      "sourceUrl": null,
-      "webUrl": "https://bweducation.businessworld.in/article/IIT-Jodhpur-Futurense-Unveils-PG-Diploma-In-Data-Science-Engineering/25-05-2023-477913/",
-      "originalUrl": "https://bweducation.businessworld.in/article/IIT-Jodhpur-Futurense-Unveils-PG-Diploma-In-Data-Science-Engineering/25-05-2023-477913/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.businessworld.in/article/article_extra_large_image/1614155462_IQoCq9_deeplear_1_.jpg",
-          "width": 870,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Businessworld",
-        "domain": "businessworld.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-global-automated-machine-learning-automl-market-report-2023-increasing-need-for-accurate-fraud-detection-drives-growth.md",
-      "title": "Global Automated Machine Learning (AutoML) Market Report 2023: Increasing Need for Accurate Fraud Detection Drives Growth",
-      "excerpt": "DUBLIN, May 24, 2023 /PRNewswire/ -- The \"Automated Machine Learning (AutoML) Market by Offering (Solutions & Services), Application (Data Processing, Model Selection, Hyperparameter Optimization ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32564655/global-automated-machine-learning-automl-market-report-2023-increasing-need-for-accurate-fraud-det",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32564655/global-automated-machine-learning-automl-market-report-2023-increasing-need-for-accurate-fraud-det",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32564655",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32564655",
-      "publishedDateTime": "2023-05-24T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-ai-terminology-101-automl-the-game-changer-in-machine-learning.md",
-      "title": "AI Terminology 101: AutoML - The Game Changer in Machine Learning",
-      "excerpt": "This complex yet intriguing area has a lot to offer, and one of its increasingly popular innovations is AutoML, or Automated Machine Learning. AutoML refers to the automated process of end-to-end development of machine learning models. It aims to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/05/ai-terminology-101-automl-demystified",
-      "originalUrl": "https://yourstory.com/2023/05/ai-terminology-101-automl-demystified",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
         "images": null,
         "publishers": null,
         "authors": null

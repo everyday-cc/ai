@@ -65,20 +65,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "MAS launches AI in Finance Challenge for the 2023 Global FinTech Hackcelerator"
-    excerpt: "The Monetary Authority of Singapore (MAS) today launched the 8th edition of the Global FinTech Hackcelerator, titled “Artificial Intelligence (AI) in Finance Global Challenge”, to produce innovative and market-ready AI solutions that can transform the financial services industry."
-    publishedDateTime: 2023-06-12T10:53:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97212/mas-launches-ai-in-finance-challenge-for-the-2023-global-fintech-hackcelerator"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 50
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Upstart Fintech Buys Airport-Area Office for HQ"
     excerpt: "The head of Finfare Inc., an up-and-coming fintech in the Spectrum area of Irvine, has made one of the larger office deals of the year in the area around John Wayne Airport."
     publishedDateTime: 2023-06-12T19:35:00Z
@@ -117,6 +103,6 @@ related:
         height: 360
         isCached: true
 
-secured: "q84rucCSn0EJ+Ju4lEHzXcszeLqVZuK6hGjkLc9s6uFqm7djTPHir1S2STxeD6V91v7iogz41+YnKxvK1qCrD+Wt/HpQgLaRDsC3VByijnrf0U4BARIO4nc0AGuqqmhdpQjzTmXAeyB/Yo+/uOChlcSnOz6IqiDe2sFGlEf341R61VCsDxarMi1HZWRvLbXVczzocvsQ8Wx75DFF9KaLELyVN2oVyxuKgRQAcTHqqc3tqZ08xsjvbUeBOGypWP4dUjoXO1MKlgHpN6wWCzNTGBD6jsfBJ/cH1g6NgIjRr1Al8tOni3ibfjECaXkfBMmpH4yRlaoWc6rUhSV3U4xtQqpiVMB7z3AYgoy5DYBhy1c=;lbd4ubH4q/i4UYTOL5zQeg=="
+secured: "VaZusnLBwhm67hCg6q+drWjBHzbhojzhUj0uVEkLqJ1F3ZalhcdaY21BGwFS37pqr0jsoL1RhPmhr4MX9BPxbwFqOp3EbnIxaWYI17TqY3qrzPNRAo8rxEck0KiCs9t3tXc0pQ0zP7e8HFkid/gGAvRPa9qY5DPYHOWcbKCp1sPyik/QR2gZ9HHwyLy/16AaVXViMqoPTGDz8GpFaDX+YCd9K8RZeqTY5JVV4g3jQS+KCxd3jmMgU5upnfg2rkoJNZjywvAqqEVJ0aoq8NylctX3BWVXcjXXKDr2JbH83KmvgLVjb6/FhbWJzLSbnGmerEEbp8aoSLbujftUA158IK2+vYrtr77y5+ULIztIWLufc7n8X5pJtvwmyEk5Fz4Wrl6er3REY6BMZEGiYDAh4Ktu3m9sbkNNIRQmaJKf4M9erxGaAVlnXW4ndZBzRfrTsJ/5i179UFd2EVyTb20fixcsHVC+JIa/UfQGGVTWoLOmSV+0SC52IYhZ+2JEXYUa4YSjrb1cNMbuM9i+wDlLNQ==;gg5QNTm7HJioh3P3RczESQ=="
 ---
 

@@ -71,20 +71,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "MAS launches AI in Finance Challenge for the 2023 Global FinTech Hackcelerator"
-    excerpt: "The Monetary Authority of Singapore (MAS) today launched the 8th edition of the Global FinTech Hackcelerator, titled “Artificial Intelligence (AI) in Finance Global Challenge”, to produce innovative and market-ready AI solutions that can transform the financial services industry."
-    publishedDateTime: 2023-06-12T10:53:00Z
-    webUrl: "https://www.finextra.com/pressarticle/97212/mas-launches-ai-in-finance-challenge-for-the-2023-global-fintech-hackcelerator"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 50
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "3 Fintech Stocks With High Potential for Growth"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The financial technology (fintech) industry continues to reshape the landscape"
     publishedDateTime: 2023-06-14T17:31:00Z

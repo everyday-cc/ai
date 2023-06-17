@@ -17,11 +17,11 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/06/prov-suspect.jpg?w=2000&#038;ssl=1"
+  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2022/01/iStock-1086742976.jpg?w=2000&#038;ssl=1"
     width: 800
-    height: 450
+    height: 449
     isCached: true
 
-secured: "HtELCrZ+xZDHtpYOmkiCEIQS5XgPpRyKR7nBrvEPGubyxCE1T6e/Y2S7dM8LMMA4c3WVuvEx8OKx2GSxDTkBQp2BkwN2W/HuX6h0d/VZXITwkwRYdKvSsda8s9SY8LMD22dbvb7+ICuq3CCflPOALzmnOU1ES3qFk1QRm04AO1lNbRv2oTtBbY0gjnTblhHljfIJlqUSwQLjqdjTPhfnDZYi58EJ/iACmMt8UIGoGfs1u2o8AaRMNbZNIqU0u38fe9cTJIff9iSnBPVfH8Ys44p5E8ZqwSemM3uN2fPLFch7+wNsnKtLRbwSmzQP2lXUnW58ai4SFvm2mgmXpOnV9kbWwp8+kdERg9CZgz+RHvI=;isND7pWMTlWLAw2aJVPLEA=="
+secured: "luMlQokfv9Aj0m7iftzVjKYWGRogUtue7eR2u4qP1vE5WoFLp60WqzGEKhYMIaOai6avtKEYY0pXy/L3T/Hs1fD50gZMRbtJUvQacshfxlhPjdC3Qtdv5b8cRRqVzaKyN/onPUKE6Ueixmx6In0i5huYRUMOu4fPy3ciDueuO4sXJHvdnsA66+4MyfZaY8YmPRXly0BVJtLYHBLf3pN2NJl1ncL+vJiPbEhl0PpxlKTOOcD7Gh1aBeXMeeu3Z2OJ1TIB8+/YC6MRHOzUxT7JaHJxeBZ93ciq/rLKVX4MH7Oyb7Ee1tN0hYSYGEOeVXTXpdHT7smj/xQpLuYGxPe4NSr/He+R5YXtK6WsZNpkA2E=;iWaNVulsTcch/g+5weBNFQ=="
 ---
 

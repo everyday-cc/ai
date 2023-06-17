@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/science/nazca-lines-ai/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/nazca-lines-ai/?amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 2000
     height: 1125
     isCached: true
-
-related:
-  - title: "AI identifies 3 more 'Nazca Lines' figures in Peru"
-    excerpt: "The deep-learning system is 21 times faster than a human at finding ancient \"geoglyphs\" in aerial photographs of Peru's Nazca Desert."
-    publishedDateTime: 2023-06-12T10:00:00Z
-    webUrl: "https://www.livescience.com/archaeology/ai-identifies-3-more-nazca-lines-figures-in-peru"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/pciczQXmxdHWsTsNyrePdP-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "kvAmGdCRZIzJOJQLLALwsqGhLlzwWHg56Mi3D/hhm4xJC+q2j7Kjii5tmcT+LRsVpKpif+bcv2vn4JTG/iW7YJAUWiTEF8Ukl1bF4qpcQ0XljjqxjE2tUST9F1MzVKKWzCmB9KI+tfTlAiPjKB6n1pA2OiUq6RdwPTTtB/LtkK3tM2ZmrHmeCJ9++VzbzSMWtMLncAay539h3ouq4+hjjyDqiWlKtg6VkLcSKd9m3+WPF6WeEmW55yi8q+GRYuKb4NzW/rocpyV9q2Ptqi1oqSP1vHPV+AmiypRlTs41OYfo3yhT0unooNnAJ9DvFiii8GSl/V9Cg8ILg4UIror41txXPH5KtE4O31KpwxRsFf5deVRDqkcyV3Kn16bDEZ62F1kXnlIxy7YyJZ+4BE+X6nfqg9c7HvWY02MXfQCRrSHd0wtkfbLP8HJuQdu6l0/wmaxpIzlPlpiOzn6H/bLwgjahxcYBjWroNJ0Gf5sIcediupDUZj6gqehAKxvUOS5hIcAkj+XkOOb7GsJXxrAtYw==;8NH99O2tmEhPU8PTQSAVUQ=="
 ---

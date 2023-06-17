@@ -53,20 +53,6 @@ related:
         width: 700
         height: 475
         isCached: true
-  - title: "OpenAI CEO says 'optimistic' on global AI coordination"
-    excerpt: "The CEO of ChatGPT maker OpenAI on Monday said a tour of capital cities had left him \"quite optimistic\" about prospects for global coordination on artificial intelligence (AI). The public face of the startup,"
-    publishedDateTime: 2023-06-12T09:11:00Z
-    webUrl: "https://www.aol.com/news/openai-ceo-says-optimistic-global-061145122.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/a918d58a1babd296503473bae2894330"
-        width: 800
-        height: 577
-        isCached: true
   - title: "KORIKA, OpenAI to build AI based on Indonesian values"
     excerpt: "Head of the Artificial Intelligence Industry Research and Innovation Collaboration (KORIKA), Hammam Riza, has said that KORIKA and OpenAI will build an"
     publishedDateTime: 2023-06-14T13:00:00Z

@@ -47,22 +47,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 91
-  - title: "Automation And Forecasting: Revolutionizing Business With AI"
-    excerpt: "One of the most promising AI technologies is the generative pre-trained transformer (GPT) model, a natural language processing tool that is revolutionizing how businesses communicate and operate."
-    publishedDateTime: 2023-06-12T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/06/12/automation-and-forecasting-revolutionizing-business-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/648337895224cd868d750fc7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 773
-        isCached: true
   - title: "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions"
     excerpt: "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030"
     publishedDateTime: 2023-06-15T11:42:00Z

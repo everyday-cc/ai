@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-17-artificial-intelligence-market-growth-2023-industry-size-share-trends-and-forecast-2028.md",
+      "title": "Artificial Intelligence Market Growth 2023, Industry Size, Share, Trends and Forecast 2028",
+      "excerpt": "IMARC Group, a leading market research company, has recently releases report titled “Artificial Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/ab32904061/artificial-intelligence-market-growth-2023-industry-size-share-trends-and-forecast-2028",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32904061/artificial-intelligence-market-growth-2023-industry-size-share-trends-and-forecast-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32904061",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32904061",
+      "publishedDateTime": "2023-06-16T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-tesla-shares-jump-after-elon-musk-declares-self-driving-cars-are-near.md",
       "title": "Tesla shares jump after Elon Musk declares self-driving cars are near",
       "excerpt": "Tesla has a market capitalization of around $800 billion, but for years has missed Musk’s targets to achieve full self-driving capability.",
@@ -239,7 +283,7 @@
       "originalUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1307,40 +1351,6 @@
       "provider": {
         "name": "Modesto Bee",
         "domain": "modbee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-10-ways-gpt-4-is-impressive-but-still-flawed-the-new-york-times.md",
-      "title": "10 Ways GPT-4 Is Impressive but Still Flawed – The New York Times",
-      "excerpt": "When Chris Nicholson, an A.I. expert and a partner with the venture capital firm Page One Ventures, used GPT-4 on a recent afternoon, he told the bot that he was an English speaker with no knowledge of Spanish.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/528764/10-ways-gpt-4-is-impressive-but-still-flawed-the-new-york-times/",
-      "originalUrl": "https://www.inferse.com/528764/10-ways-gpt-4-is-impressive-but-still-flawed-the-new-york-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
         "images": null,
         "publishers": null,
         "authors": null

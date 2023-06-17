@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-r
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
 type: article
 quality: 50
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving car hits and kills small dog in San Francisco"
-    excerpt: "An initial review indicated that the Waymo’s system correctly identified the dog, which ran from behind a parked vehicle. However, the vehicle was unable to avoid hitting the animal."
-    publishedDateTime: 2023-06-12T10:25:00Z
-    webUrl: "https://thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/"
-    ampWebUrl: "https://thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/4044685-self-driving-car-hits-and-kills-small-dog-in-san-francisco/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/AP23077014398441-e1686565582597.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Cruise addresses self-driving vehicle criticism after Mission District shooting"
     excerpt: "A Cruise vehicle was spotted near the chaos of the emergency response to the Mission District mass shooting on Friday night, and the self-driving vehicle company spoke out about the incident on"
     publishedDateTime: 2023-06-12T17:27:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-16/venture-capital
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-16/venture-capital-s-ai-run-lettuce-farms-are-starting-to-go-bust"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isP5Xb70JjuU/v0/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI does not want to kill you claims venture capitalist"
-    excerpt: "It is the venture capitalists that want to do that Venture capitalist Marc Andreessen, who has coincidently invested cash in AI, says that there is nothing to worry about and it the technology is not going to kill you."
-    publishedDateTime: 2023-06-12T09:40:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57065-ai-does-not-want-to-kill-you-claims-venture-capitalist"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/8a1d1473e1cbc4958f6149c31f26a970_L.jpg"
-        width: 620
-        height: 465
         isCached: true
 
 secured: "wp8JNeIQglGJKMIy9QcMVEB/ADQPaIaz7VS6IhWJd29qKH8xc9w+P/xxHc6CGot8wCWwBxB5jpTsvUSLxE27pDcq4YjUmndVUafA2SiYsZew+Xy4q4JQzcumoIkhMUi0AoYoGf9VgEGd8htJcF2n/Q5zzcDQDbyEJYQSoBiBJgD0eBHMN79SqlMECAImTgKyePKhW1yVPLWCcvtPisxciBCQ1n7VPgX37lo2Y+K7IKu+e0aJ85SnzdBvsWLYw+f88mSo2zUl6h3Y1AhBbwOM1ikqcnQbiDulUIUL6XxyS3iHpy4G9HNk2tYN53oCS9PaoDcVnkO4kGXbSAv6glbovhJe+HQfsU8VW0ch0ut7RBU=;BYLKoU9V9xKKJNIzDgDfTg=="
