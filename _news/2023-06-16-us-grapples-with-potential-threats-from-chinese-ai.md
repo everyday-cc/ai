@@ -64,20 +64,6 @@ related:
         width: 770
         height: 510
         isCached: true
-  - title: "Chinese companies at cutting-edge of artificial intelligence, says report"
-    excerpt: "Chinese enterprises are at a crucial juncture of breakthroughs in artificial intelligence, as generative AI and other rapidly evolving technologies usher in a future for business where the physical and digital worlds are inextricably linked,"
-    publishedDateTime: 2023-06-12T23:47:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202306/13/WS6487a398a31033ad3f7bbdbd.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 38
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202306/13/6487a5cfa31033ad342ae6fc.jpeg"
-        width: 642
-        height: 428
-        isCached: true
   - title: "SenseTime reveals AI-powered board game robot"
     excerpt: "SenseTime has launched a robot that can play the ancient strategy board game Go, as it continues to seek revenue from consumers."
     publishedDateTime: 2023-06-17T13:04:00Z

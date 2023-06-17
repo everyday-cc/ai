@@ -58,20 +58,6 @@ related:
         width: 873
         height: 582
         isCached: true
-  - title: "IBM plans to make a difference in AI with Watson X"
-    excerpt: "IBM Watson X, as a platform, is in fact designed to reduce the barrier of entry in terms of getting to use this type of model and technology."
-    publishedDateTime: 2023-06-13T00:30:00Z
-    webUrl: "https://techwireasia.com/2023/06/heres-how-ibm-plans-to-make-a-difference-in-ai-with-watson-x/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/06/shutterstock_2301582847-1-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Beyond Automation: How AI Is Transforming Aviation"
     excerpt: "“We strongly believe that generative AI will really start helping scale these things to the much bigger ... the impact that AI will have on the job market is not yet clear. Robots have already taken over some tasks that humans originally performed ..."
     publishedDateTime: 2023-06-14T15:33:00Z

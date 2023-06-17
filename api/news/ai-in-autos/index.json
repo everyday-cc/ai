@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-17-tesla-shares-jump-after-elon-musk-declares-self-driving-cars-are-near.md",
-      "title": "Tesla shares jump after Elon Musk declares self-driving cars are near",
-      "excerpt": "Tesla has a market capitalization of around $800 billion, but for years has missed Musk’s targets to achieve full self-driving capability.",
+      "path": "_news/2023-06-17-teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware.md",
+      "title": "Tesla’s Full Self-Driving Matches Waymo Skills Despite Far Less Hardware",
+      "excerpt": "In a single test using each system both vehicles performed without need for human intervention but that doesn't make them the same",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/",
-      "originalUrl": "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/",
+      "webUrl": "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/",
+      "originalUrl": "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 103,
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/06/musk-tesla-self-driving-cars.jpg?quality=75&strip=all&1686920619&w=1024",
-          "width": 1024,
-          "height": 682,
+          "url": "https://www.carscoops.com/wp-content/uploads/2023/06/Whole-Mars-Catalog.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/",
-      "publishedDateTime": "2023-06-16T10:38:00-07:00",
+      "ampWebUrl": "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/",
+      "publishedDateTime": "2023-06-17T09:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
+        "name": "Carscoops",
+        "domain": "carscoops.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -144,7 +144,7 @@
       "originalUrl": "https://www.barrons.com/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {

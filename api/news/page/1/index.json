@@ -2,12 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-17-teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware.md",
+      "title": "Tesla’s Full Self-Driving Matches Waymo Skills Despite Far Less Hardware",
+      "excerpt": "In a single test using each system both vehicles performed without need for human intervention but that doesn't make them the same",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/",
+      "originalUrl": "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2023/06/Whole-Mars-Catalog.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/",
+      "publishedDateTime": "2023-06-17T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-5-loreal-hair-and-beauty-innovations-at-viva-tech-ar-ai-web3-driving-di-and-utility.md",
+      "title": "5 L’Oréal Hair And Beauty Innovations At Viva Tech: AR, AI, Web3 Driving D&I And Utility",
+      "excerpt": "Top 5 L'Oréal hair and beauty innovations premiered at Viva Tech in Paris with AR, AI, Web3 technology driving diversity, inclusion and utility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/06/17/5-loral-hair-and-beauty-innovations-at-viva-tech-ar-ai-web3-driving-di-and-utility/",
+      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/06/17/5-loral-hair-and-beauty-innovations-at-viva-tech-ar-ai-web3-driving-di-and-utility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648dd29e6c865656a85e44ab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 823,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/06/17/5-loral-hair-and-beauty-innovations-at-viva-tech-ar-ai-web3-driving-di-and-utility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/06/17/5-loral-hair-and-beauty-innovations-at-viva-tech-ar-ai-web3-driving-di-and-utility/amp/",
+      "publishedDateTime": "2023-06-17T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-ai-drive-thrus-may-be-good-for-business-but-not-for-the-rest-of-us.md",
       "title": "AI drive-thrus may be good for business. But not for the rest of us",
       "excerpt": "Over the past few years, restaurants have been investing in artificial intelligence tech for drive-thrus. They say it will spped up the drive-thru and boost sales. But customers — and workers — may not be thrilled with the technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/17/business/ai-drive-thru/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/17/business/ai-drive-thru/index.html",
+      "webUrl": "https://edition.cnn.com/2023/06/17/business/ai-drive-thru/index.html",
+      "originalUrl": "https://edition.cnn.com/2023/06/17/business/ai-drive-thru/index.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
@@ -138,7 +232,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-makes-anyone-speak-a-foreign-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -178,49 +272,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-tesla-shares-jump-after-elon-musk-declares-self-driving-cars-are-near.md",
-      "title": "Tesla shares jump after Elon Musk declares self-driving cars are near",
-      "excerpt": "Tesla has a market capitalization of around $800 billion, but for years has missed Musk’s targets to achieve full self-driving capability.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/",
-      "originalUrl": "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/06/musk-tesla-self-driving-cars.jpg?quality=75&strip=all&1686920619&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/",
-      "publishedDateTime": "2023-06-16T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -570,7 +621,7 @@
       "originalUrl": "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1135,57 +1186,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-ai-investing-a-complete-beginners-guide.md",
-      "title": "AI Investing: A Complete Beginner's Guide",
-      "excerpt": "As with any emerging technology, there's a lot of noise around artificial intelligence (AI), and it can be difficult to separate the signal. In this look at AI investing for beginners, we'll review the ins and outs to help you determine whether investing in AI is right for you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-investing-for-beginners/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-investing-for-beginners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

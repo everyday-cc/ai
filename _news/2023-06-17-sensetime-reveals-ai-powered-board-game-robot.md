@@ -70,20 +70,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "Chinese companies at cutting-edge of artificial intelligence, says report"
-    excerpt: "Chinese enterprises are at a crucial juncture of breakthroughs in artificial intelligence, as generative AI and other rapidly evolving technologies usher in a future for business where the physical and digital worlds are inextricably linked,"
-    publishedDateTime: 2023-06-12T23:47:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202306/13/WS6487a398a31033ad3f7bbdbd.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 38
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202306/13/6487a5cfa31033ad342ae6fc.jpeg"
-        width: 642
-        height: 428
-        isCached: true
   - title: "SenseTime Unveils SenseRobot Go: The Second AI-Powered Board Game Robot Joins the SenseRobot Family"
     excerpt: "The SenseRobot Go is endorsed by Olympic Gold Medalist Guo Jingjing and has received great acclaim from Mr. Nie Weiping, Vice Chairman of the Chinese Weiqi Association (CWA) and a highly respected Go master,"
     publishedDateTime: 2023-06-14T12:47:00Z

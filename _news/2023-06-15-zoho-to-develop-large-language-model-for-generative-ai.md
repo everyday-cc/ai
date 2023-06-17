@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta's Voicebox AI Tech Could Give Your Digital Assistant a Familiar Voice"
+    excerpt: "Meta teased Voicebox as a way to make virtual assistants sound less robotic or power non-playable characters in the metaverse. But it's not releasing the AI model publicly yet."
+    publishedDateTime: 2023-06-17T16:34:00Z
+    webUrl: "https://www.pcmag.com/news/metas-voicebox-ai-tech-could-give-your-digital-assistant-a-familiar-voice"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 65
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03NM2PpZqwZLg4BMzrhErAj-1.fit_lim.size_1200x630.v1687019297.png"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "Rny0zU455n3jt1WIqCy1ZaFdklbwso2c3fw9JY01gUBGYbluSHxKeODz7J4SMfO6S+4MuLYWvJj+LM5UBWA26froX3vbOpXcgpYP++6rec+7q/+F4qPyaGmuC+K/E/wk0zgaQZmgOWQX9cAH/oYv+V5bDmUVAwJfT5cQFC6h6ZeoqQW+47PaB9IEwgt7EP9zwPddy/uXAu9ZjvOQXnMKVMqIvrqgThT1X4SY0XsAXcnn1y9R5Lo1Zi+O380V7rdMXqWQ3wdCURJo5dr4LGnLOcnF2kmNuTvGYppkusyk1BeiAgjWkglNXoVsmrLVzcd5BzKm7QEd3mqEo+DjKHWMp4pflBkgocar+AOfMylbW3s=;VMb7VHF6dLDXmDmyPzj47A=="
 ---

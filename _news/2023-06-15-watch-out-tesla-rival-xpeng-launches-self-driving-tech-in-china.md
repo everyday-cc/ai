@@ -19,61 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "Tesla Rival XPeng Rolls Out Self-Driving Tech in Beijing. The Stock Is Rising."
-    excerpt: "It’s the first company to roll out an advanced driver-assistance system (ADAS) in Beijing, after it was approved for use on major ring roads and expressways in the capital city."
-    publishedDateTime: 2023-06-15T08:59:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
+  - title: "Tesla’s Full Self-Driving Matches Waymo Skills Despite Far Less Hardware"
+    excerpt: "In a single test using each system both vehicles performed without need for human intervention but that doesn't make them the same"
+    publishedDateTime: 2023-06-17T16:37:00Z
+    webUrl: "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/"
+    ampWebUrl: "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 73
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/06/Whole-Mars-Catalog.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Tesla shares jump after Elon Musk declares self-driving cars are near"
+    excerpt: "Tesla has a market capitalization of around $800 billion, but for years has missed Musk’s targets to achieve full self-driving capability."
+    publishedDateTime: 2023-06-16T17:38:00Z
+    webUrl: "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/"
+    ampWebUrl: "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/musk-tesla-self-driving-cars.jpg?quality=75&strip=all&1686920619&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "XPeng Stock Rises. The Tesla Rival Rolled Out Self-Driving Tech."
+    excerpt: "XPeng is the first company to roll out an advanced driver-assistance system in Beijing after it was approved for use on major ring roads and expressways in the capital city."
+    publishedDateTime: 2023-06-15T12:47:00Z
+    webUrl: "https://www.barrons.com/articles/xpeng-stock-price-self-driving-tech-f88945dc"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 55
-    images:
-      - url: "https://images.barrons.com/im-417792/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "How self-driving cars could fuel a shift in ridesharing"
-    excerpt: "Robert Stone and Sheila Zieglowsky aren't the typical image of technological early adopters, but the octogenarians have been quick to take up a newly expanded ride-hailing service that uses self ..."
-    publishedDateTime: 2023-06-13T00:07:00Z
-    webUrl: "https://www.cbsnews.com/news/waymo-self-driving-car-rideshare/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-self-driving-car-rideshare/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-self-driving-car-rideshare/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/12/c382aedc-5de0-45c8-8ffc-b22a8620e174/thumbnail/1200x630/23a6420664d9780e95a7f614fbf8048c/gettyimages-1247366679.jpg?v=23da2bed74e9783333cf303fba619e89"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Robot waiters taking more orders, improving assisted living dining rooms"
-    excerpt: "Artificial intelligence-powered robots are increasingly being tested in senior living and other industries, taking over repetitive tasks done by humans"
-    publishedDateTime: 2023-06-13T04:36:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/robot-waiters-taking-more-orders-improving-assisted-living-dining-rooms/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 33
-  - title: "Xpeng expands self-driving capability to Beijing, eyes wider expansion"
-    excerpt: "Chinese electric vehicle maker Xpeng Inc on Thursday expanded its self-driving capability to Beijing as part of the automaker's expanded launch of City NGP (Navigation Guided Pilot) across the mainland."
-    publishedDateTime: 2023-06-16T09:07:00Z
-    webUrl: "https://www.carsifu.my/news/xpeng-expands-self-driving-capability-to-beijing-eyes-wider-expansion"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 24
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/06/Xpeng-ADAS-2-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+    quality: 19
 
 secured: "2hXhhbw+RBAXugYGn7IxrAGoRs2U9rTrRFG8q5Vy+pUKmFmyVOrhKkdk51oZ2Xq9iSAkshzL5L2k5ONoUfwL7xlGTsJs6VRBxiR1bvNYeJKR5IlFBgzEMvpgL/aLecVuZ8qngEkAy9K/jECfuSPgaVaYpJkDWok/9npi7xWZwAEknyOKIkNqD9uwLy/wliXuBTt0cJB7OLx4KYRQby3RgMNj3gsayxymbMcDhbp3JhtYwQT3SKnb5ygcTZYHmyqrJTzYCpwRL8/PH6prUKCcqQ1Ci6T2bB6CUw/VSn9bOtheMc4bEnkLKLhQwxdwUjhQBt536Zw0gBfqeIhPwVvgnUmD5JJwLySdlc5kZInODoQ=;Vi0Gh8efDWq4S9iJRG3SlQ=="
 ---

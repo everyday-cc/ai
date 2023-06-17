@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe"
 webUrl: "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/2/7e/27e5ba8c-0b79-11ee-99a4-8720452f4ce8/648b05d01c113.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Discover the Power of Artificial Intelligence for Lead Generation and Website Visitor Conversion"
-    excerpt: "SmartFinds Marketing and Boom! Enterprises Present a Virtual Event on Leveraging AI to Maximize Business Growth.SmartFinds Marketing, a leading digital marketing agency, is pleased to announce an upco"
-    publishedDateTime: 2023-06-13T00:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32828527/discover-the-power-of-artificial-intelligence-for-lead-generation-and-website-visitor-conversion"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32828527"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32828527"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
 
 secured: "6gcikgSwUFKF8nV0IRM6NEqHIaUMq/WgZPx3T6yr9wM5ADlVBTX88k/qZJ0ykpihiEIjz9WUoAXYzRjymu9pBY+WWg2c9YQrkE18y1tPQKldw5YLHGGOHLazVn3snTG00mrCAVAWWhY4Vjp/Esn1DO+M/sKaJAJoBPrgGS0UN1HyTXFqMV21lRQ2FAwgJx6Z9W3t1V2z7l7XcQL5/qr0386ceQA08dTnJ6c3JM1iRgX4KLIPtDtny3GRLkzPsIJlAtP6UEpX86lBQ0r/N8c4iEVHRX2Jp7sPdBmuffBabVmKh5vGDFpsdCSq9Brpj+PFtFBhxrEoxtdi8ATCz0A3H1YQabnT7TzIggN106IfRlFpjxQ1bOdwBjkG3EzBE/wbNnen4OEnGYwvzCBBkJERT6BGwtKUDltvEXfONOzOqsTvwBKGYY9zRu5R67z7Q/gIyXteaNs7EW/j6f9M5rNk5OeTb2s7QA08CQb117SxZlCbaNjrpO41UMsWSFhd8W7nA1pDtga35QF7JZMrUWDc/Q==;lVtbthlTxZj8skykGLh3kw=="

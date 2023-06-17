@@ -27,31 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla shares jump after Elon Musk declares self-driving cars are near"
-    excerpt: "Tesla has a market capitalization of around $800 billion, but for years has missed Musk’s targets to achieve full self-driving capability."
-    publishedDateTime: 2023-06-16T17:38:00Z
-    webUrl: "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/"
-    ampWebUrl: "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/musk-tesla-self-driving-cars.jpg?quality=75&strip=all&1686920619&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "XPeng Stock Rises. The Tesla Rival Rolled Out Self-Driving Tech."
-    excerpt: "XPeng is the first company to roll out an advanced driver-assistance system in Beijing after it was approved for use on major ring roads and expressways in the capital city."
-    publishedDateTime: 2023-06-15T12:47:00Z
-    webUrl: "https://www.barrons.com/articles/xpeng-stock-price-self-driving-tech-f88945dc"
+  - title: "Tesla Rival XPeng Rolls Out Self-Driving Tech in Beijing. The Stock Is Rising."
+    excerpt: "It’s the first company to roll out an advanced driver-assistance system (ADAS) in Beijing, after it was approved for use on major ring roads and expressways in the capital city."
+    publishedDateTime: 2023-06-15T08:59:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 19
+    quality: 55
+    images:
+      - url: "https://images.barrons.com/im-417792/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Robot waiters taking more orders, improving assisted living dining rooms"
+    excerpt: "Artificial intelligence-powered robots are increasingly being tested in senior living and other industries, taking over repetitive tasks done by humans"
+    publishedDateTime: 2023-06-13T04:36:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/robot-waiters-taking-more-orders-improving-assisted-living-dining-rooms/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 33
+  - title: "Xpeng expands self-driving capability to Beijing, eyes wider expansion"
+    excerpt: "Chinese electric vehicle maker Xpeng Inc on Thursday expanded its self-driving capability to Beijing as part of the automaker's expanded launch of City NGP (Navigation Guided Pilot) across the mainland."
+    publishedDateTime: 2023-06-16T09:07:00Z
+    webUrl: "https://www.carsifu.my/news/xpeng-expands-self-driving-capability-to-beijing-eyes-wider-expansion"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 24
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/06/Xpeng-ADAS-2-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "H5B7R7bVvg0yk3izjhj5U8pt9WT8a6/UbjEhTc3FP8Z+GWY/BE148wnK4GW6ME3RwQwdiVEBrrpt/UElYuIcUSorvRSoUyJr/xFcxV5SdeA0OvyqoIBijajtK8nFTMtJsNBQ2EfGTSVDjE+jW9V+VlLlAxbMXHn2uTeuVXnOKR/UEBjDPNErQImJPtgnJJv1NPx0TPZSPb2uWHDPwX6hLszX3ngHGbURRhLldcUI2XqfdKzbJTRaj6e0q34xeN+sNSGMIS3MEggilCbybwrAtUfG0Won4psn7PPQ76Hgcg2Y4Qg4FtECb/lR/vC0IjAvkKSnPHJWWhPo5qkMrY1ahxINtvCOhPtEa7SO9P1zY3Q=;+1Pdy6tZfGpWX1Ug1YSIsg=="
 ---

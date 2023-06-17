@@ -1,24 +1,28 @@
 ---
 category: news
 title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
-excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools."
-publishedDateTime: 2023-06-14T14:21:00Z
-originalUrl: "https://www.seattletimes.com/business/ia-chip-race-heats-up-as-amd-introduces-rival-to-nvidia-technology/"
-webUrl: "https://www.seattletimes.com/business/ia-chip-race-heats-up-as-amd-introduces-rival-to-nvidia-technology/"
-ampWebUrl: "https://www.seattletimes.com/business/ia-chip-race-heats-up-as-amd-introduces-rival-to-nvidia-technology/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ia-chip-race-heats-up-as-amd-introduces-rival-to-nvidia-technology/?amp=1"
+excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
+publishedDateTime: 2023-06-14T09:26:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/06/14/amd-generative-ai-chip-mi300x-nvidia/b5abd09c-0abe-11ee-8132-a84600f3bb9b_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/06/14/amd-generative-ai-chip-mi300x-nvidia/b5abd09c-0abe-11ee-8132-a84600f3bb9b_story.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJXSPRQKXYI65AJSVBDAB453TM.jpg&w=1440"
+    width: 1440
+    height: 980
+    isCached: true
 
 related:
   - title: "AMD Preps GPU to Challenge Nvidia's Grip on the Generative AI Market"
@@ -395,6 +399,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "bwvmI3r6bWs75qHW1KU9rO/VC7P11YcgNIRCQGzAJUGNbYnW91nWdO8YRSUYuoyPzFQ4KIdrYpognCGnz/PlL9N1PGuRSflp7jZaRf8xzBj4DQfZoRXNXrObi/981AzEvP9rJrLZUl+r7cpplfqq4bwVNcrOyOYg4Of9meKUu9j8NrONwUHh0CDCG1DvOotTu/UcKZ+SjyrTuHAgQrGwfljY2cW9jORyey6IX8Pvcng4etDLjx7GqyNlbFfv+j4NZobiLk85UHUc/p27KsLr29AhScyKqRd+4Zn80mmznAJoTu2Jd6Oi5wbhNcTe3gm/GuhbKyhD2HqRhpk3jj7VqjUa0SmBTrvmHbycjgWMcG5A1KcNp/bp0/T4IRhaI8MGqgLMGKv6lJynHqGgPczWIwZswWUGrTBOOFqKpb4YnvkPLnTZ6kECITC4lI9EcwcD5sCIG5oWb7aru3iteI21dybAz1F9qi2W/7cbT5Rk/LgNqO0yl73GhvSY9HqAxkiUK2jDi/oO7tM66PiFICuV7w==;bgJAgM6vUp2vLSAxZ3cpdQ=="
+secured: "JtWRIMxgx+qCFygbQvZWRkreuIfmLdLa2OkTkZjaPfEuP/e3ALCguDLdjGx2DT34UPohAnbxYzzAqmm6JisvarIjXY+MdojK9OehLalkB/rS+k5Q9FFD8jI1ZFJj0D4fMPWbjX72RQxG1+JXtKeldPQRJXo0vq/2ZuqHXYIOpZvi7JN4RzNy4gTfg4d5QLIu/l0c6pmx1NGu0ipJXpw1QmrsEqssnTB3/nkZuRS4X8+umufH+C65HQmZA34tq4dWiDI3OD1/9MJ2Im4exsBP5hNIqm6nrCE8HYqMU7qg23CoNy5i1TRdgLuCbMfw9iK+GZBmRAuUsXKTQRCDm6YO/44M/qGxX/6xqmrs2SI2hCA=;D09IrOTeHRYB8EP5msTkNA=="
 ---
 

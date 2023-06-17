@@ -41,21 +41,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How self-driving cars could fuel a shift in ridesharing"
-    excerpt: "Robert Stone and Sheila Zieglowsky aren't the typical image of technological early adopters, but the octogenarians have been quick to take up a newly expanded ride-hailing service that uses self ..."
-    publishedDateTime: 2023-06-13T00:07:00Z
-    webUrl: "https://www.cbsnews.com/news/waymo-self-driving-car-rideshare/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-self-driving-car-rideshare/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-self-driving-car-rideshare/"
+  - title: "Dawn Project Founder Dan O'Dowd shares concerning new figures over Tesla Full Self-Driving safety record"
+    excerpt: "It was recently revealed that Tesla's Full Self-Driving and Autopilot software has been involved in 736 crashes since 2019, according to analysis of National Highway"
+    publishedDateTime: 2023-06-15T10:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32869904/dawn-project-founder-dan-odowd-shares-concerning-new-figures-over-tesla-full-self-driving-safety-r"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32869904"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32869904"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/12/c382aedc-5de0-45c8-8ffc-b22a8620e174/thumbnail/1200x630/23a6420664d9780e95a7f614fbf8048c/gettyimages-1247366679.jpg?v=23da2bed74e9783333cf303fba619e89"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Robot waiters taking more orders, improving assisted living dining rooms"
     excerpt: "Artificial intelligence-powered robots are increasingly being tested in senior living and other industries, taking over repetitive tasks done by humans"
@@ -66,15 +66,6 @@ related:
       name: McKnight's Senior Living
       domain: mcknightsseniorliving.com
     quality: 33
-  - title: "Watch Out! Tesla - Rival XPeng Launches Self-Driving Tech in China"
-    excerpt: "Also Read: XPeng Stock Drops After Q1 Earnings and Cautious Outlook: The Details XPeng said its City NGP (Navigation Guided Pilot) system, which is similar to Tesla Inc's TSLA FSD (Full Self-Driving) feature, is also available in Shanghai, Shenzhen ..."
-    publishedDateTime: 2023-06-15T13:12:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32870034/watch-out-tesla-rival-xpeng-launches-self-driving-tech-in-china"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "7gFJ9T5VKtGUGBq8lHHx0JA0kEQUbChiB5fWFCIwpylpwZuzG59Me6B7TmiEfmOysTwTVH17o/tMjbrV+fEJb+cG8ATulTBPJdCBHLL+1O8YXlMvpZL/B21+f8NwJyB59nMP4sMf6TroIoJWN2Xi/6MbzIFYtAn3zvo32NeiJArSqGtUxrCw7MmqsKMY8mlVmZytwVqmWbnNGjdqZzfT1eGfIXsE0NoA92WPri0zsFsxylk9SGerdyTLpzXva1uEHjlPYd3+VelVLAW+HI0UeUv277i2wTHQWDnj3wst0rUZBrXFMHHoyJPQBIWkHygViDkZtYY8swnFYZaM4Wez22YQcAwng42La5RB6w+3dpI=;1dLU3U2JS9V2WvQ1klSQow=="
 ---

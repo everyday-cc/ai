@@ -65,20 +65,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "Oracle beats expectations, reveals upcoming generative AI service, sending stock higher"
-    excerpt: "“Aside from cost driven share gains, OCI also has the one thing that every AI startup is asking for today, spare GPU capacity,” Zukin wrote, referring to graphics processing units. “Similar to getting those first cloud workloads during ..."
-    publishedDateTime: 2023-06-12T23:36:00Z
-    webUrl: "https://siliconangle.com/2023/06/12/oracle-beats-expectations-reveals-upcoming-generative-ai-service-sending-stock-higher/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/5007504146_9efd13e6a1_k.jpg"
-        width: 2047
-        height: 1365
-        isCached: true
 
 secured: "g80sM6IjwyGY/ataxE87yb+JZr+VOG1psHuVQqzU9Yhw0La/bXrlzb3y1R5AtYJvPc+qet8Rn0FHtSPnDg4xdbqwPLhAxKC8GjFJ3mN7kmDF1s4qiY41GGJIfB2xoozexumsGAmtS6lEhCedlbiUib+u1OjQ7WXo2eZN1/SboBE0bKmKIp6RqWLNK9oW6JSF+Ld0WWf7yVJbkjaJ79S0uqRE2n8merG4Y0GyUxCObonjL652NNxfR3YQiF1nMHciiyQE+TRsKWwfJVVwXRqGJ+VOvLYLU1YUs6b+5wcZnPYRkjLJIyYzUGmX21+tnOkVRZMqNsuEpRS+Kf4DRIOSynYtP2n1hOhljspjisQ45io=;qoxUbFXOjnkn3D1KQtSDcQ=="
 ---

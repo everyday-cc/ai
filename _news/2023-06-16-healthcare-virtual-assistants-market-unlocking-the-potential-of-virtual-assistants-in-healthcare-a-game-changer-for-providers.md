@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32888455"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32888455"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -27,36 +27,24 @@ images:
     isCached: true
 
 related:
-  - title: "Tech chips away at pain points for health care providers"
-    excerpt: "State of play: Carbon Health, a primary care startup, is using AI to write notes during patient appointments, one of the most time-intensive tasks for physicians. Tempus, a precision medicine company, has rolled out its Tempus One voice and text assistant for clinicians that uses generative AI to retrieve and access patient data."
-    publishedDateTime: 2023-06-12T23:11:00Z
-    webUrl: "https://www.axios.com/2023/06/12/tech-health-care-shortage"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 54
-    images:
-      - url: "https://images.axios.com/sE7ya98MsDVW1L9uxwiZYk5q_Sw=/0x0:1920x1080/1366x768/2023/06/12/1686600941252.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Charlie Munger Said Healthcare Providers Artificially Prolong Death To Make More Money, Compares Patients To African Carcass"
-    excerpt: "Some startups have seen success where they failed. iRemedy, for example, is a startup using artificial intelligence (AI) technology, that offers a solution to the healthcare system’s challenges through its large procurement marketplace. Its platform ..."
-    publishedDateTime: 2023-06-15T17:01:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32879833/charlie-munger-said-healthcare-providers-artificially-prolong-death-to-make-more-money-compares-pati"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32879833"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32879833"
+  - title: "Google's AI Revolutionizing Healthcare: Mayo Clinic Leaps Ahead With AI Chatbots!"
+    excerpt: "It sounds like a far-fetched reality, but the use of generative artificial intelligence (AI) in healthcare is developing at a rapid pace. The most recent development is Google Cloud's announcement that Mayo Clinic is using a new service — Enterprise ..."
+    publishedDateTime: 2023-06-14T19:26:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32862720/googles-ai-revolutionizing-healthcare-mayo-clinic-leaps-ahead-with-ai-chatbots"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Charlie,Munger,,Vice,President,Of,Berkshire,Hathaway,Is,Interviewed,After_1.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
+    quality: 29
+  - title: "Molina Healthcare and Partners Share Results of Obstetrics Health Care Model Incorporating Artificial Intelligence"
+    excerpt: "Molina Healthcare, Inc. (\"Molina\") recently shared some notable results of a groundbreaking health care model that uses artificial intelligence (AI) to impact the full cycle of obstetrical care, from early pregnancy detection to post-NICU community-based care management."
+    publishedDateTime: 2023-06-13T13:42:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831670.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "a4K/dPVHTaK+mqey81Mthkc6Ghd4RHib7ck+JGH2zqisiql1F0Q9Q2z6a5fSV+x0xMaqUuvJdtygvaWffYQ8PifrSCKE54KrU0AHZ80NvQJjbvxRyjYrQXbhm8IFwPbFKhMsx/cHsIp7nk0hN3iCNQK5VDWdYUu6PDnS2lbrc+Ivee5sOaUexnFwOr6GiDa7z2bce8E+dcvpQS+RFvr2tocJPm7/WD0esNh7HlbB/uYksMLRPcAgW/873YoNsgNW7JW49NgB8nECP3y+3qNMTRDOQ+OeSlLxqWx+mWT0Ja+7gTODmdgMD3HXtv81xHEbeFRCxJbtzTWpwWtPapeSvb2XOmyPWXNHJseqizF3eBA=;wZXw9H5HhdtYniGtRneCOg=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Discover the Power of Artificial Intelligence for Lead Generation and Website Visitor Conversion"
-    excerpt: "SmartFinds Marketing and Boom! Enterprises Present a Virtual Event on Leveraging AI to Maximize Business Growth.SmartFinds Marketing, a leading digital marketing agency, is pleased to announce an upco"
-    publishedDateTime: 2023-06-13T00:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32828527/discover-the-power-of-artificial-intelligence-for-lead-generation-and-website-visitor-conversion"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32828527"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32828527"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "0gozRWoDYv2RMrW2Hmw52pvp2bwOfZJnRGhoK3p3xPT3bv93Qtt6GSCduewnyZocnA1ve1o4XICk5tVOxHrBMY0e6CFGnP8HWQcH1K1dco+muS04Ux+w9RgXbnCBr46H3A/1FxvVpaZ1eTfIam3vQ2SjIYpf6rQ0thwL9FEKyKP7uoXydQe9nSwJa3Mm2n01UD6H/UGRcXQ89/2liixhYxdbp2+y31GF7NeoXTJeVOoRq7sdNjehEShrez9tBXyCcQxrXyHd4cBS80/eXP1YAud/INmGciJnFybokOvkdHBarJr3+YMq6BKkHPMlrYuGnxxC0fVZZXOF9BobFPACewOxDJq1AdgPPdRQXTiFCLI=;ZZtV5ZO2SId6Wz1nIecDQw=="
 ---

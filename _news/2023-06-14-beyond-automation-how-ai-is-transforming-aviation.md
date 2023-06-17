@@ -64,20 +64,6 @@ related:
         width: 873
         height: 582
         isCached: true
-  - title: "IBM plans to make a difference in AI with Watson X"
-    excerpt: "IBM Watson X, as a platform, is in fact designed to reduce the barrier of entry in terms of getting to use this type of model and technology."
-    publishedDateTime: 2023-06-13T00:30:00Z
-    webUrl: "https://techwireasia.com/2023/06/heres-how-ibm-plans-to-make-a-difference-in-ai-with-watson-x/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/06/shutterstock_2301582847-1-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "The perils of open-source AI"
     excerpt: "Experts are waking up to the threat posed by artificial intelligence programmes if they fall into malevolent hands"
     publishedDateTime: 2023-06-14T15:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-dr
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
 type: article
 quality: 55
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "How self-driving cars could fuel a shift in ridesharing"
-    excerpt: "Robert Stone and Sheila Zieglowsky aren't the typical image of technological early adopters, but the octogenarians have been quick to take up a newly expanded ride-hailing service that uses self ..."
-    publishedDateTime: 2023-06-13T00:07:00Z
-    webUrl: "https://www.cbsnews.com/news/waymo-self-driving-car-rideshare/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-self-driving-car-rideshare/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-self-driving-car-rideshare/"
+  - title: "Dawn Project Founder Dan O'Dowd shares concerning new figures over Tesla Full Self-Driving safety record"
+    excerpt: "It was recently revealed that Tesla's Full Self-Driving and Autopilot software has been involved in 736 crashes since 2019, according to analysis of National Highway"
+    publishedDateTime: 2023-06-15T10:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32869904/dawn-project-founder-dan-odowd-shares-concerning-new-figures-over-tesla-full-self-driving-safety-r"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32869904"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32869904"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/12/c382aedc-5de0-45c8-8ffc-b22a8620e174/thumbnail/1200x630/23a6420664d9780e95a7f614fbf8048c/gettyimages-1247366679.jpg?v=23da2bed74e9783333cf303fba619e89"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Robot waiters taking more orders, improving assisted living dining rooms"
     excerpt: "Artificial intelligence-powered robots are increasingly being tested in senior living and other industries, taking over repetitive tasks done by humans"
@@ -66,15 +66,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Watch Out! Tesla - Rival XPeng Launches Self-Driving Tech in China"
-    excerpt: "Also Read: XPeng Stock Drops After Q1 Earnings and Cautious Outlook: The Details XPeng said its City NGP (Navigation Guided Pilot) system, which is similar to Tesla Inc's TSLA FSD (Full Self-Driving) feature, is also available in Shanghai, Shenzhen ..."
-    publishedDateTime: 2023-06-15T13:12:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32870034/watch-out-tesla-rival-xpeng-launches-self-driving-tech-in-china"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "aCenuculVnTFybGRP9xEhHyrG2KYGE0y0mK8xO9LnP/Cjw9mSTTMptIe6bEKXz9yXdXWNmTr2m7nJ/mVr/+YRROHetWy7fyEP5S56O03H6eAimhg3L659MQuy6OoJcB7RzxwQPmAQyT083IKvg+BrqVbg9u2ACL9C5po8GX0idJOHazjs7pm7uCkijS3Jm0ajUx2D8asOQxRQlZLQDdjYlkDIoGaXjEjfpzKZRh4qR0wcRIUjVlmw8YHTkXlQzeEVXX5f7GDQQ9q6KWrwLM58NaYYFfXez6fYdi9dS6/CqIvn5FmJo6eqXbaxX72Ev/fyKqB35Ee4KzLIPF0em2ugi4DRSKjMiZqbqjFnb/mJTSsiQIAVi/Bj+hvXpUMRqBVyh3bqj5Zn7Bwej+vOSuptWfqD30e4A8lMi6daGacjlviRxYG5JRpvUMNxtm3LHVizItPcErw/+X+m3vVkmygmsVzd8RblKJYaK7xQbAc/T9vinKENvGyYN3nqHn72sg8JBY7Nzsr1BBxCl+wOmXj2g==;ES955t6JjGRitheTsCefSQ=="
 ---

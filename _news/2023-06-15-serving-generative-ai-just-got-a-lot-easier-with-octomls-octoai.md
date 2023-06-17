@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Oracle beats expectations, reveals upcoming generative AI service, sending stock higher"
-    excerpt: "“Aside from cost driven share gains, OCI also has the one thing that every AI startup is asking for today, spare GPU capacity,” Zukin wrote, referring to graphics processing units. “Similar to getting those first cloud workloads during ..."
-    publishedDateTime: 2023-06-12T23:36:00Z
-    webUrl: "https://siliconangle.com/2023/06/12/oracle-beats-expectations-reveals-upcoming-generative-ai-service-sending-stock-higher/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/5007504146_9efd13e6a1_k.jpg"
-        width: 2047
-        height: 1365
-        isCached: true
 
 secured: "LrxfgYsR0xx3QooWobyHgcekHG6weEZbYhGG34TI34gPp3UxLNUG/fCx676W5EjPtzvaS0EaCXZwPQQStFpgm8i9MNOu0bWGU71VKRbS5c4gTFUAN+GpmjSRpkgz4xCqAuH+4bcXZzeL+N7jW0iEiu3tjIx+3fH27lFfEGeh/Ep5tKIL+Yb//5i21q23ZQUbCyNUoctHt1z7iEoX/3jQnbeCnV439BJABygPtvistVnhcb6trGg8+U9w7qLocNFzRfnZ6EhOuAKAtcugZZpbVqGYoiqJ5gKS5SWXYz8nPNSt1yliwRCIDH4MJfq+X01VlUnWgVSlQzynvz5KduCVHrP3ZLtBstocQTr6g+g/bI2Io4HEED0GLDKybcjX/M0GecU7fFEQnqvI9IRvqH8pYNi8poybDchLd7Q2MqAPiJtaiqx4Yb8Lioym4yucWlsfwgRr1WaUUTfakdYrIVEVtRogwb9fAEaSSNWF47OoHSPOQNA6P71SDl5ETpgsGn3OXnS5CxebzH8jNQ1aUnuqew==;RSRXT6WZ3Szqc1e/cd5IkQ=="
 ---

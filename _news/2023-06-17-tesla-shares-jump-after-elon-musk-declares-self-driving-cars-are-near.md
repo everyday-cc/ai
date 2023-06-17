@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-dri
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -27,22 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Dawn Project Founder Dan O'Dowd shares concerning new figures over Tesla Full Self-Driving safety record"
-    excerpt: "It was recently revealed that Tesla's Full Self-Driving and Autopilot software has been involved in 736 crashes since 2019, according to analysis of National Highway"
-    publishedDateTime: 2023-06-15T10:41:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32869904/dawn-project-founder-dan-odowd-shares-concerning-new-figures-over-tesla-full-self-driving-safety-r"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32869904"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32869904"
+  - title: "Tesla’s Full Self-Driving Matches Waymo Skills Despite Far Less Hardware"
+    excerpt: "In a single test using each system both vehicles performed without need for human intervention but that doesn't make them the same"
+    publishedDateTime: 2023-06-17T16:37:00Z
+    webUrl: "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/"
+    ampWebUrl: "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 73
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/06/Whole-Mars-Catalog.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Watch Out! Tesla - Rival XPeng Launches Self-Driving Tech in China"
+    excerpt: "Also Read: XPeng Stock Drops After Q1 Earnings and Cautious Outlook: The Details XPeng said its City NGP (Navigation Guided Pilot) system, which is similar to Tesla Inc's TSLA FSD (Full Self-Driving) feature, is also available in Shanghai, Shenzhen ..."
+    publishedDateTime: 2023-06-15T13:12:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32870034/watch-out-tesla-rival-xpeng-launches-self-driving-tech-in-china"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 42
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+    quality: 19
   - title: "XPeng Stock Rises. The Tesla Rival Rolled Out Self-Driving Tech."
     excerpt: "XPeng is the first company to roll out an advanced driver-assistance system in Beijing after it was approved for use on major ring roads and expressways in the capital city."
     publishedDateTime: 2023-06-15T12:47:00Z

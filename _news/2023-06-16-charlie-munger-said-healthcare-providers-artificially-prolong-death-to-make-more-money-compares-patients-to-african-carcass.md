@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32879833"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32879833"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "Tech chips away at pain points for health care providers"
-    excerpt: "State of play: Carbon Health, a primary care startup, is using AI to write notes during patient appointments, one of the most time-intensive tasks for physicians. Tempus, a precision medicine company, has rolled out its Tempus One voice and text assistant for clinicians that uses generative AI to retrieve and access patient data."
-    publishedDateTime: 2023-06-12T23:11:00Z
-    webUrl: "https://www.axios.com/2023/06/12/tech-health-care-shortage"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 54
-    images:
-      - url: "https://images.axios.com/sE7ya98MsDVW1L9uxwiZYk5q_Sw=/0x0:1920x1080/1366x768/2023/06/12/1686600941252.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Healthcare Virtual Assistants Market: Unlocking the Potential of Virtual Assistants in Healthcare: A Game-Changer for Providers"
-    excerpt: "Growth Plus Reports estimated the size of the global market for healthcare virtual assistants in 2022 to be worth US$ 858.29 million and is expected to"
-    publishedDateTime: 2023-06-16T07:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/g32888455/healthcare-virtual-assistants-market-unlocking-the-potential-of-virtual-assistants-in-healthcare-a"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32888455"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32888455"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "EF/3C2o5HWYGmnNb5J4K55Lz6m4YXgvnFdbjliQFQ5ZdnE4Zw2IaUneEYOZ9k0aBmRbxoCaGKLwXkN3zoOtAnaXfCgevfAJl9aSJKHE6tviGiTGEqG/N5O6ACW4njvingU7922NMKrXEU5ijWmI2hikDEmOiK/dCe3mp2AAEOtZ6PXk/GOtGf7RsENNIPLS88fjq5a1t1AggwrFTenarTWlcdhWsCEO7m+FjK1tK3H/iVqV0axWaA31fnjzWxb/pI4S1QSE62XMOLdwX/iWAWHTkzhb/1rvC7x0iYqJJ4BB+n57nPn1WwwLXhLEuytUIp4r66p6Iq7v6DfpDz933yXdbT6O946CVqsCzQGfro7k=;6BFFSnGDiPLBLOAAvluw1g=="
 ---

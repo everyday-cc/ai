@@ -241,16 +241,19 @@ related:
         height: 492
         isCached: true
   - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
-    excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools."
-    publishedDateTime: 2023-06-14T14:21:00Z
-    webUrl: "https://www.seattletimes.com/business/ia-chip-race-heats-up-as-amd-introduces-rival-to-nvidia-technology/"
-    ampWebUrl: "https://www.seattletimes.com/business/ia-chip-race-heats-up-as-amd-introduces-rival-to-nvidia-technology/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ia-chip-race-heats-up-as-amd-introduces-rival-to-nvidia-technology/?amp=1"
+    excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
+    publishedDateTime: 2023-06-14T09:26:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/06/14/amd-generative-ai-chip-mi300x-nvidia/b5abd09c-0abe-11ee-8132-a84600f3bb9b_story.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: The Washington Post
+      domain: washingtonpost.com
     quality: 54
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJXSPRQKXYI65AJSVBDAB453TM.jpg&w=1440"
+        width: 1440
+        height: 980
+        isCached: true
   - title: "AMD showcases AI chip to take on Nvidia"
     excerpt: "The MI300X accelerator is based on AMD’s CDNA 3 technology and uses as much as 192GB of memory to handle workloads for large language models and generative AI, the Santa Clara, California-based company said."
     publishedDateTime: 2023-06-14T05:35:00Z

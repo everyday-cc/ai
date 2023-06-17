@@ -30,38 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon cracks down on fake reviews with AI"
-    excerpt: "Amazon has been using AI in the battle against fake reviews for several years, but the company says continued investment in more \"sophisticated tools\" should improve protection for customers and sellers on its platform."
-    publishedDateTime: 2023-06-12T23:10:00Z
-    webUrl: "https://www.bbc.com/news/technology-65881800"
-    ampWebUrl: "https://www.bbc.com/news/technology-65881800.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65881800.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3531/production/_130071631_gettyimages-1325244511.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Amazon using AI to boost fight against fake reviews"
-    excerpt: "Amazon has been using AI in the battle against fake reviews for several years, but the company says continued investment in more \"sophisticated tools\" should improve protection for customers and sellers on its platform."
-    publishedDateTime: 2023-06-12T23:10:00Z
-    webUrl: "https://www.bbc.com/news/technology-65881800"
-    ampWebUrl: "https://www.bbc.com/news/technology-65881800.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65881800.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3531/production/_130071631_gettyimages-1325244511.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Amazon experiments with using AI to sum up product reviews"
     excerpt: "Amazon is experimenting with using artificial intelligence to sum up customer feedback about products on the site, with the potential to cut down on the time shoppers spend sifting through reviews before making a purchase."
     publishedDateTime: 2023-06-13T17:38:00Z
@@ -77,6 +45,20 @@ related:
       - url: "https://media.cnn.com/api/v1/images/stellar/prod/221025100312-amazon-online-shopping-stock.jpg?c=16x9&q=w_800,c_fill"
         width: 800
         height: 450
+        isCached: true
+  - title: "Amazon thinking about using AMD’s AI"
+    excerpt: "It might fit into the invisible plane  Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision."
+    publishedDateTime: 2023-06-15T09:56:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57095-amazon-thinking-about-using-amd-s-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/e3d11e5df6ced9311c7bbd71f2cce315_L.jpg"
+        width: 620
+        height: 503
         isCached: true
 
 secured: "8TTr+tCdcj2Fsffb3n60bVoVdywAU5LVj2JX0reddZzY+jmEjAUbhiTmqpO/eOPV152wJ0hWr/gaPctBpRIu8R3ob9n4TMagLijB7hYETGBTv1tJuKnVyRrZ1+XA1GXKcVsQ0600E+l951JRFtm2SbOYBTKGMbhILs8JaJEDpziSg0BdnTmjJwuTB6LDj1Hxg9dWDbfVvHULozvaItyxLglaBdssXNpaZwc5Ka/dV+WM6l7w/D+LWOEpUkms259DsRmrj6Rq03yh5RN18bVjOCgeXm77FCe6JPlOwJfnkkc5SEd6Z3JBn9R4z3p2MvItAIUBSI02E9qa9P8PpKmzoQkpfKATf68VeuW6XXeMC0o=;WgE/+Le3Y9RChytNxIODSQ=="

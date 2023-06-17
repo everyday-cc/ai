@@ -42,20 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Beware the office guru when handling AI"
-    excerpt: "Company directors are unaware of the widespread deployment of artificial intelligence in their firms’ systems and urgently need robust governance around its use, a report has found."
-    publishedDateTime: 2023-06-12T23:32:00Z
-    webUrl: "https://www.afr.com/politics/federal/beware-the-office-guru-when-handling-ai-20230609-p5dfe5"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_2.6489%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_315/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/332763ec6021bd9fa2920d2b11c9086caf02a789"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Computer-driven trading firms fret over risks AI poses to their profits"
     excerpt: "Hedge funds and other computer-driven trading firms are growing increasingly concerned about the threat that artificial intelligence presents to their profits, after a fake image of an explosion near the Pentagon triggered a brief sell-off in US stocks."
     publishedDateTime: 2023-06-15T16:18:00Z

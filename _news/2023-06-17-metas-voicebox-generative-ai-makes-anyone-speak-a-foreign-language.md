@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-m
 webUrl: "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-makes-anyone-speak-a-foreign-language/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta's Voicebox AI Tech Could Give Your Digital Assistant a Familiar Voice"
+    excerpt: "Meta teased Voicebox as a way to make virtual assistants sound less robotic or power non-playable characters in the metaverse. But it's not releasing the AI model publicly yet."
+    publishedDateTime: 2023-06-17T16:34:00Z
+    webUrl: "https://www.pcmag.com/news/metas-voicebox-ai-tech-could-give-your-digital-assistant-a-familiar-voice"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 65
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03NM2PpZqwZLg4BMzrhErAj-1.fit_lim.size_1200x630.v1687019297.png"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Zoho to develop large language model for generative AI"
     excerpt: "An LLM is a deep learning algorithm that can recognise, summarise, translate, predict and generate content based on knowledge gained from massive datasets."
     publishedDateTime: 2023-06-15T02:43:00Z

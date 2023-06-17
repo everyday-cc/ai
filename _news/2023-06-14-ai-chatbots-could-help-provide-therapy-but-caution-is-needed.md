@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/ai-chatbots-could-help-pr
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/103408730-IMG_9049rr.jpg?v=1686909601&w=1920&h=1080"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Editorial: Federal law shouldn’t shield AI chatbots from liability"
-    excerpt: "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,” 350 AI scientists and other notable figures cautioned in an open letter from the Center for AI Safety,"
-    publishedDateTime: 2023-06-13T00:30:00Z
-    webUrl: "https://www.marinij.com/2023/06/12/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/"
-    ampWebUrl: "https://www.marinij.com/2023/06/12/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/amp/"
-    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/12/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/amp/"
-    type: article
-    provider:
-      name: Marin Independent Journal
-      domain: marinij.com
-    quality: 59
-    images:
-      - url: "https://www.marinij.com/wp-content/uploads/2023/06/sam.jpg?w=1024&h=681"
-        width: 1024
-        height: 681
         isCached: true
   - title: "AI chatbots lose money every time you use them. That is a problem."
     excerpt: "Tech is not your friend. We are. Sign up for The Tech Friend newsletter. Their expense, and the limited availability of the computer chips they require, are also constraining which companies can ..."

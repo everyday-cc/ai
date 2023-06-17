@@ -32,7 +32,7 @@ related:
   - title: "AI drive-thrus may be good for business. But not for the rest of us"
     excerpt: "Over the past few years, restaurants have been investing in artificial intelligence tech for drive-thrus. They say it will spped up the drive-thru and boost sales. But customers — and workers — may not be thrilled with the technology."
     publishedDateTime: 2023-06-17T09:05:00Z
-    webUrl: "https://www.cnn.com/2023/06/17/business/ai-drive-thru/index.html"
+    webUrl: "https://edition.cnn.com/2023/06/17/business/ai-drive-thru/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2023/06/17/business/ai-drive-thru/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/17/business/ai-drive-thru/index.html"
     type: article
@@ -46,6 +46,6 @@ related:
         height: 450
         isCached: true
 
-secured: "LRLOupGR6gyYstxJnpIHhLUpXTjie8s4hOPeSGS7iYOu+6khj8SSjdsP4cJStG+0LSOc//2EG3oXVA6fXVPVNt77CqOEgHKrn+SPdiFPZYgko7R7ge5DVJq+5omii1Q551EIQ4f6DTFl1oKx0cj9tVOsGXGnhINd+yl1VbZQ3mVJdKj3tyCH7UGs0YPsfHLeO1rrivgFQs7q879IwZ82NffSlEVSADhqYESX9X3zq05bErJwC/SGwOuyQHgRvlwqyQdtA9tsyZ2x4U6BMbwuxqnXWUs+eXR7M7j1WVdRcPm6HS00iWrFn0QwNbXkXWodAGqaRotKRtYEbMpMeWwT0iedjAPQzl17d96CLNT7S8Q=;W1wj21YTEaoHIRp2KfrHLA=="
+secured: "jOrx6J2IegZDVcMdVmU5PiUyUBUfB9BcZfv84zEb1ptKlz9gx99FuyqT8J5Pp1ZEwK0RC4Z5+taiErl+GOvx6GUzG8d5KVzBZO2ZGAfLVGxKbabKbi7eow1XJDZBe3nj2LP1Gt/NQNs9Qavg3jVvh5OaI4h+Ena4WkRTy22/HnxqXz2oivg42IuaaKbosUJCHCrjMrkcrdej9zquSoSM+MvBPyBAlw6uBt/mr+kud3eF3YWacDPTh2Nfx8N1RnrrPNKy7Nm29wc9cqnq3M36Cg1XCoFF/z18PQ+jV2wJXmN6MY+h0IRXyVlfCClu4vdg9ARJfIPYdTeuy/j/GpIhCp094VxkvXWLGe3nId2g1UpNm63b6YbFbgcaxdQrZnX8ZCnMf/OxqtU0OAclS7Lp20dTNQ4iv3Z1gMijfggLmQ6U8503HQBTBEyXctcX5BNT+mmkvxq+s/bN79I9uKvjrkdKjhsBWvZa2ZCEyEsGYP3WWH3v49W0i5YbuzzErtSQva8t7jJRaf62QOy+lk+F0g==;ULoJ2UDEkGtTlH9B+sijFA=="
 ---
 
