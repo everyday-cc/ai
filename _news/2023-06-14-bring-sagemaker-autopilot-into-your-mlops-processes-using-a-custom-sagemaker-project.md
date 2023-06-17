@@ -57,20 +57,6 @@ related:
         width: 1023
         height: 510
         isCached: true
-  - title: "Build custom chatbot applications using OpenChatkit models on Amazon SageMaker"
-    excerpt: "Open-source large language models (LLMs) have become popular, allowing researchers, developers, and organizations to access these models to foster innovation and experimentation. This encourages collaboration from the open-source community to contribute to developments and improvement of LLMs. Open-source"
-    publishedDateTime: 2023-06-12T21:37:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-custom-chatbot-applications-using-openchatkit-models-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/12/build-custom-chatbot-applications.jpg"
-        width: 1026
-        height: 510
-        isCached: true
   - title: "SambaSafety automates custom R workload, improving driver safety with Amazon SageMaker and AWS Step Functions"
     excerpt: "At SambaSafety, their mission is to promote safer communities by reducing risk through data insights. Since 1998, SambaSafety has been the leading North American provider of cloud–based mobility risk management software for organizations with commercial and non–commercial drivers. SambaSafety serves"
     publishedDateTime: 2023-06-16T15:08:54Z

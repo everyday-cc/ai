@@ -46,15 +46,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "3 Stocks to Buy for Easy Exposure to AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is the “next big thing” on the Street. And"
-    publishedDateTime: 2023-06-12T19:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-buy-for-easy-exposure-to-ai-1032384428"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "AI Is the Gold, These 3 Stocks Are the Picks & Shovels"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying the new gold rush hitting Wall Street, which is the"
     publishedDateTime: 2023-06-15T10:16:00Z

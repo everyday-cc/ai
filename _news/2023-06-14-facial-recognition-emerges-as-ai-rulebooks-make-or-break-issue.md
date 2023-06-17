@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NY Schools Awaiting Decision on Facial Recognition"
-    excerpt: "Following debate at one district, a civil liberties lawsuit and what was initially an 18-month moratorium, the New York State Department of Education is drafting recommendations for facial recognition in schools."
-    publishedDateTime: 2023-06-12T22:23:00Z
-    webUrl: "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/ny-schools-awaiting-decision-on-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/43ca251/2147483647/strip/true/crop/939x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc1%2Fda%2Fed997e65cb0d0ee391a741549da4%2Fshutterstock-1392652700.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "EU moves closer to passing one of world’s first laws governing AI"
     excerpt: "Bloc hopes to set global standard for technology – including ban on police use of live facial recognition technology in public places"
     publishedDateTime: 2023-06-14T13:14:00Z

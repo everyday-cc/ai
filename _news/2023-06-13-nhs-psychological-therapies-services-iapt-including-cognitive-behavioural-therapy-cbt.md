@@ -21,9 +21,9 @@ topics:
 
 related:
   - title: "NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)"
-    excerpt: "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT) treatment and services at this hospital."
+    excerpt: "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT) treatment and services at this clinic."
     publishedDateTime: 2023-06-13T21:07:00Z
-    webUrl: "https://www.nhs.uk/services/hospital/wiltshire-iapt/XRVN6A/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt"
+    webUrl: "https://www.nhs.uk/services/clinic/richmond-wellbeing-service/XRWK1H/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt"
     type: article
     provider:
       name: NHS Choices

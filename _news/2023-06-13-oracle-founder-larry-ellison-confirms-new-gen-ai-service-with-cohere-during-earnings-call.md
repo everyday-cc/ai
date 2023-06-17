@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/oracle-founder-larry-e
 webUrl: "https://venturebeat.com/data-infrastructure/oracle-founder-larry-ellison-confirms-new-gen-ai-service-with-cohere-during-earnings-call/"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1189
     height: 691
     isCached: true
-
-related:
-  - title: "Larry Ellison Rides AI Boom to Highest Wealth Ranking Ever"
-    excerpt: "The Oracle founder has surpassed Bill Gates to rank fourth on the Bloomberg Billionaires Index as shares of the software firm have climbed 42% this year."
-    publishedDateTime: 2023-06-12T20:46:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-12/larry-ellison-rides-ai-boom-to-highest-wealth-ranking-ever"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izvhhhmG9wEg/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "inZpo5szRRH4kl8ZHCHnsNb6en7RuVKPhK1y7Vu0xWb/oLMy/eK/3ZHUdT6mtODz2BPBR3KBjEEJSolUJJZ/YrzTABhAOm/nsEztSOqCHqUCm0vgaWkNHSRI42e91xOgtCU20Vl0XO3yU7pOY1yPRFR/jzNoihS99Ix3Akq5gFHb+qaw/xHHMlSysdyGzX3D9AULmFao8P+2kSzh56QwIZcKcN2w0WB3Q3Q8m3GoVMd8IxIIYCjiB6vZ/LEjKTBKnaLrGvSArG3ZTOh50zvjJBxhLavDefFH+wdbrU6qsrVNiA/aDLt8pBSMY3d1ktbljx78mru3ppvCtTZZQhUIepf+gDhphFwOH3JxSj4oROcAVWVfciUIOgk/bpXJNk2WNE/kcU3QlGTTphlllUFVh6xsvFYebb8tUnzc2yeCQXo6ft2j3Kf6hrCeGNvVnWWeCuFXIwdN3s6E9E3clB61HvPnLpiNR4dXT3SyrIXFSrfeT7fqcNoaLjqB3fghleCEaLQMZwIwR+Z1nbALk/ndtA==;1T/CD7bqtWfe1B07Ue2L4g=="
 ---

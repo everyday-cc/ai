@@ -40,6 +40,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 36
+  - title: "Viettel, Microsoft cooperate to promote application of Industry 4.0 solutions"
+    excerpt: "Telecoms Group (Viettel) announced on June 16 that its affiliate Viettel Solutions has signed a strategic cooperation agreement with Microsoft Vietnam to foster the application of Industry 4.0 technology solutions such as Cloud,"
+    publishedDateTime: 2023-06-17T12:03:00Z
+    webUrl: "https://en.qdnd.vn/economy/military-businesses/viettel-microsoft-cooperate-to-promote-application-of-industry-4-0-solutions-553466"
+    type: article
+    provider:
+      name: en.qdnd
+      domain: qdnd.vn
+    quality: 16
 
 secured: "9qLv8JS0uOV7scOO67dBFVnBwu1QQaRcKMsMvz52VoP62yJw2paJm1/UjfqpAJlH1NauP3Te4vMy8Rawo6wxEvADFbsLrzQ/HEV0WAb4vnkefi9viVck1epLdiZtKTmnfqJzgpBViv2M79VRpqHxIRNcZHj/g4Z3ntfefMTRP92t1Ue7oobh0qfwEAF5DOVjESfgk5gOdb7622lX/whBkULj37ypHuALx8fhmOATSm1VQBTOXc6i+lFOvpCeK2VfgqtcBa5YcMRy+EXnX4u/scefSkx3zd9dZLrzbXA9rZ8RgV4LKlNns6Mw4bkaCb5hAhwTHIFlcMSW/OqpAZEN4If7DmOAHh7OspmwDsmVlq24Y0MJfh3WrtRXWXQg/PtcNbIdgfl/3mc0Dc1dMnGoBKpVunfrtDOIPkQsEZ1UX7qEvdkM8iNtvBGFSXrQhkJDCHbh4kCHsvIYBISxMbh8F902wu1obelJsNsY9qGLQ679ko5+Bw9qZQT9AaX+grPFCVGXPEvY3jxoS0x7ttGpjA==;Kj1g2LZGBVqKqmizviVOQg=="
 ---

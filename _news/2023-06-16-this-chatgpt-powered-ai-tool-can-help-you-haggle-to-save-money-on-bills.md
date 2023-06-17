@@ -82,22 +82,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta guru says ChatGPT-style AI is out-of-date"
-    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising new artificial intelligence resembling human rationality."
-    publishedDateTime: 2023-06-13T17:18:00Z
-    webUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-meta-guru-chatgpt-style-ai-out-of-date.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
-        width: 2880
-        height: 1616
-        isCached: true
   - title: "AI and the art of questioning: How investors can use chatbots"
     excerpt: "The advancement of AI technology has led to the development of more complex machine learning models like rule-based systems, expert systems, and machine learning. The use of AI applications exploded,"
     publishedDateTime: 2023-06-16T14:18:00Z
@@ -224,6 +208,15 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 20
+  - title: "Meta guru says ChatGPT-style AI is out-of-date"
+    excerpt: "LeCun spoke as Meta announced its latest AI project -- called image-based Joint Embedding Predictive Architecture, or JEPA. The project seeks to move beyond ChatGPT-like generativ"
+    publishedDateTime: 2023-06-14T09:20:00Z
+    webUrl: "https://www.daily-sun.com/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
+    type: article
+    provider:
+      name: Daily Sun
+      domain: daily-sun.com
+    quality: 19
   - title: "Can a robot plan your summer fun? Here's what ChatGPT says to do this summer"
     excerpt: "What are five fun summer activities to do in Norwich, Griswold, Killingly and Plainfield, CT? One should be off the beaten path, at least two should be family friendly, one should be a healthy activity and one should be male friendly. Then give me two other activities that are within a 30-minute drive of Norwich."
     publishedDateTime: 2023-06-14T09:15:00Z

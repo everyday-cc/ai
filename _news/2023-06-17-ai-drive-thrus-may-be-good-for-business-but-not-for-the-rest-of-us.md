@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/06/17/business/ai-drive-thru/index.html
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/17/business/ai-drive-thru/index.html"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "5 tips for business leaders to leverage the real potential of generative AI"
+    excerpt: "It feels like generative AI is everywhere. The explosive launch of advanced chatbots and other generative AI technology, like ChatGPT and others, has commanded the attention of everyone, from consumers to business leaders to the media."
+    publishedDateTime: 2023-06-17T15:21:00Z
+    webUrl: "https://venturebeat.com/ai/chatbots-just-beginning-how-leverage-real-potential-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_artificial_intelligence_technology_coming_out_of_a_compu_53e4a63c-a4cc-46a1-989a-6b3bc275a023.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "5t10TqHDqPkonH1deru5JabbemIdI5c8mXzNlzipnUqrFks6FVl3omeeo8l134tcP0jjnWqFc6JUSl+KT3ZU+liLPAUEfaPAtEw+EX9ax+cQGhiAF22v5Ik1f38q9VOlElKIfF7MRZjnXuMbF+a/8xBkusQd7d0O38HEqB+VsUhlJBVo66Frd59W0/LSbT9dMbfSgS4clVxz2AA2GmrvRi+LNGq4hJN5xEKJmnU/QtVnOpOL0BHQG+L5W1ebwLyh8FzLtPi+pBoLXtutGbHhzwv7BuaTTC9HJ0RwlXHZj9f479HgbNdsQfpm7XvXuPIiYsePSVx907aXjEXRxMkY4W3f2Td6ZL8oVJeEVCXqL2iLn6uJShTtzZiJyeKJxgKw9IkKgfmvnJy1MH4nJHVJ/L0OZVNjZc8yUwSo9lpLhz5kTUOrlCAMmyPI/I4U7PyhU1WBuTswsRod10QMHN3nI7Wfi/MHHqIL54E0u9xEBCVuzHnBzufB9GlP1O5Fl87PuI2dWFXH4NwqBr3PcHy62Q==;yYv8hRnxzYCl094fjmxjng=="
 ---

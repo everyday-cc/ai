@@ -72,15 +72,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Salesforce touts AI strategy, doubles investment in start-ups"
-    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI start-ups as the company banks on the emerging technology to help resuscitate sales growth."
-    publishedDateTime: 2023-06-12T19:19:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/jun/12/salesforce-touts-ai-strategy-doubles-investment-in/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 17
 
 secured: "UR3NTXqdxkMLzSa/egvCQyXEdUVYu+C0sZiCaiGhIQRdSeaCExx0hMY26J1hMRDcbVcFLuTTpCLRwJXJNj5iVHxqX0YVr1m/tjzRm4IjzQ8X4w9usolaMicrT5ORi7RdAlVeoQxL3U4mQ8bH0AsTT+/+Uh0LuLi6whzGwQNrP6qcFyhwLbEiV7XRImf3tu5ZRyHHS1QAjstBF52JB07V8pOYqPuwH4/ayTw98yf6Qxu3mo3bw6gyo2apzSKKx+tKOCDNHzDc0bRAp++nQHNNioBJc3QTx+yB/+E6szHpHx4mIZnBKs5Hlp2JghjjfGgzxO7s3S9JNWfK5qjAwA7Te35m5XRZOB5tWIewjslNQ0I=;R12xlfltdQVzJwVB+ALhmQ=="
 ---

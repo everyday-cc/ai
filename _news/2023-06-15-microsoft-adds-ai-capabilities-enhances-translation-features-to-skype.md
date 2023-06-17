@@ -40,6 +40,15 @@ related:
       name: Telangana Today
       domain: telanganatoday.com
     quality: 36
+  - title: "Viettel, Microsoft cooperate to promote application of Industry 4.0 solutions"
+    excerpt: "Telecoms Group (Viettel) announced on June 16 that its affiliate Viettel Solutions has signed a strategic cooperation agreement with Microsoft Vietnam to foster the application of Industry 4.0 technology solutions such as Cloud,"
+    publishedDateTime: 2023-06-17T12:03:00Z
+    webUrl: "https://en.qdnd.vn/economy/military-businesses/viettel-microsoft-cooperate-to-promote-application-of-industry-4-0-solutions-553466"
+    type: article
+    provider:
+      name: en.qdnd
+      domain: qdnd.vn
+    quality: 16
 
 secured: "6ed1qdMONq4N4JYv5nS2Kie/fvay97IV47o743d9KqHooM1qYE3k97bOIrRorh4vC3kX8rnv5Fjd5HveZfPSdDJMAchyPGgAbJZg8HhWYyhKUVrAQi6mJW4Vgw9NHO5na9kZPWyy+yHrj8s3Qi7kuMODt7P1hViAvXUAAot+gZlqi+TXySB4BU/hNTwDTClm4+A9LyyscryivvMq3LE0Z5H4LsN3viQ+NnBikm/W1ZURTtvzsd9L2qM5lQSgQF/nh0/vjfqwk5RzrJqvwViauMrDeLIuk6wRxnmniSjz1TbKoDy+YKbsU2Edpl/ULaPVr0Ewl8HMdQKaTF5aMpGm019MbfBe7s0VIphgJd077ao=;SqfluJjBBrncaoHJgaKt2g=="
 ---

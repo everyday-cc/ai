@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/hooksounds-unveils
 webUrl: "https://markets.businessinsider.com/news/stocks/hooksounds-unveils-ai-studio-revolutionising-video-editing-with-artificial-intelligence-generated-soundtracks-1032393236"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Hospitality Industry"
-    excerpt: "For better or worse, generative Artificial Intelligence (AI) is already transforming the way we live and work. Within two months of its initial release to the public, ChatGPT reached 100 million month"
-    publishedDateTime: 2023-06-12T20:05:00Z
-    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-hospitality-industry"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 33
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=bUj9XK9t"
-        width: 500
-        height: 309
-        isCached: true
   - title: "The AI revolution: Harnessing innovation, addressing challenges and shaping our future"
     excerpt: "In the realm of AI’s endless reach, Potential blossoms, lessons to teach. With thoughtful ethics as our guide, Humans and AI stand side by side. Together we’ll forge a"
     publishedDateTime: 2023-06-17T09:16:00Z

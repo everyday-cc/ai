@@ -7,7 +7,7 @@ originalUrl: "https://www.imveurope.com/news/training-model-navigates-four-legge
 webUrl: "https://www.imveurope.com/news/training-model-navigates-four-legged-robots-across-rough-terrain"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 520
     height: 346
     isCached: true
-
-related:
-  - title: "Four-legged robot traverses tricky terrains thanks to improved 3D vision"
-    excerpt: "Researchers led by the University of California San Diego have developed a new model that trains four-legged robots to see more clearly in 3D. The advance enabled a robot to autonomously cross challenging terrain with ease—including stairs,"
-    publishedDateTime: 2023-06-12T21:20:00Z
-    webUrl: "https://techxplore.com/news/2023-06-four-legged-robot-traverses-tricky-terrains.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-four-legged-robot-traverses-tricky-terrains.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-four-legged-robot-traverses-tricky-terrains.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 55
 
 secured: "Qsx7yvmaMRmW1fHGEdB7IG1zjid62SyT91mWpr5jJH5xQ1yA111NvCz2lkT5TCJH6ipIFwPC/X3/z/nHpofIBI4KvBnVD7/fVe5RLUclBYhbBTijvXUyn5fkdC1SgdUQdGkVO84oAuD4zscWWuZt8m0xMSS3f6yM9N5+A7eKRcximPYkr6zctm+IPe+KfmIHN/haBk8/udyzavXpbfHOHm7R7utu8WqaGEZTp0v7ZC48ianOCJ3x9WYBwQaJO+0qxtJy5OoHe25x48lWhDgtVouVdXbwtOLdSStRpheOypUiam7OYV0/H/YZJAWFGo651t6nrpoKIt3Z8EJHA663NlKkBPRddN5LD3WGJvHE42EPVJ2Muj8/jWzCvpu46jnfcnovPqKT8gXQnEDLSldASiWI9WC8eUhprYv5Bo7j6/Ch56Vuqeb0TEKSGcuirk5VIIY8QblGzVWkkx6t3fEVvNe+L0Q/zfMC/BeukLQC42166w2+rqq9WSGnOIQrFTNjRFBa+sL6llsqnIDR8vsuXQ==;y8i2k09BVnN0pIQUH15rmQ=="
 ---

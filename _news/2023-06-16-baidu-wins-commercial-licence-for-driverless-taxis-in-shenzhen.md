@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Baidu wins commercial licence for driverless taxis in Shenzhen"
-excerpt: "China's tech firm Baidu Inc said on Friday that it has obtained a commercial licence from regulators for its driverless ride-hailing service in parts of Shenzhen, the country's tech hub. Its fleet of driverless robotaxis,"
-publishedDateTime: 2023-06-16T14:12:00Z
-originalUrl: "https://www.aol.com/news/baidu-wins-commercial-licence-driverless-082609881.html"
-webUrl: "https://www.aol.com/news/baidu-wins-commercial-licence-driverless-082609881.html"
-ampWebUrl: "https://www.aol.com/amphtml/baidu-wins-commercial-licence-driverless-082609881.html"
-cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/baidu-wins-commercial-licence-driverless-082609881.html"
+title: "Baidu Wins Commercial Licence for Driverless Taxis in Shenzhen"
+excerpt: "China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen. Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen,"
+publishedDateTime: 2023-06-16T08:26:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen"
+webUrl: "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen"
 type: article
-quality: 74
-heat: 114
+quality: 64
+heat: 104
 published: true
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/7a888a91cd68db77e6e809f2785b4473"
-    width: 800
-    height: 534
-    isCached: true
 
 related:
   - title: "Baidu gets commercial license for driverless taxis in Chinese city Shenzhen"
@@ -69,6 +65,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "JG+tqCVHkOF/rhcfUCh//xafJ7tLtpUY4HAoFwjsVLw/Dk3gzxQLH+l+LRTZ2vWxLkcN6MRQLQ4Ch+AGIPEWaDDiyuTwsBIc2U4s8Gtk98NwIuhtTE/p1BXeN8p82iB80dJahZ6WwhrieujARhbCxUr+FuoEpmS0Z0HHk8YCcvMyn6pDQUiBEkULQDLI6lSkoYrDRjdsoKsyRDraO0EIhpUVh8X6bYlYPTTrndCxZbPPxRZOcTilI+/oW0JGm6tj+5FplJlm8BRIrivVWoS+GqI3FLYkqGw+A0Kmr24luDR0PyYkrfmzX0Lb2mvIqI4rrRooNjgi+ba1vdT2o1fVA2775wgcRzgL4VmITKnb69hSRfl4o9suBViK5TFiTIuE1CMNjpIn9VBotQeLBY+uUL8wiea4ASpI99X6Y6tCyVyXPygZDrencg/QuCIuhVyOfyBa0nSt0VyRWWAbvz/tQ0JngCXaSGejg6/7u4bQF85rdUTWCViXwgtLM+GY9vW+GZvaUd9M6uNUus2xVJyuPA==;F4wLJpQ6p2M1Aao1hUEDzw=="
+secured: "1MJidhAehxyrX+WzoqPo6CWSMOTWq8z7E72qz6R71sbMITAV0574CxJHeGXmMaZlsyuxXeCwMgRZGnZjUKp53fg27zWPt1IaSUs/N/XJxi8jNDYb6o5/UJ/EljdlrMe9YOpBiIxFB6IOCbuJ5cOt/JYB0hVd6jHOFr8cgXoiMsC69O7fAZPiAUuCsXNGj0FMU8Py0UdXFgLcxrvKoR1LIifc7QxCEFhQrwGcx4+r5Fm6Pmkv19MVzw5X1r8WcSVPcg3yxbONI2DSYSHUEODtLPp0tcoXNT7eCghjRv7+z2Dh5SIlMqrI0RFyWyUsyYMs8Punlp9U6Cutgng8lJXD0ol3hkyi9mVmS5arkXd7rkriYVwfUwdwueowWNR6ROW72uhJBFJ2F/y9VuyKdtfffYzyPzyP1l+lUb1zGd8ujhwG+HVqfgjgtWtpwtG130+X0yMASHfD4PYfnVuFREW8UBe0swftDaQ9qDPkleEDjnK1t6S7/fAI8iAW7xDDN+JTmAsGVMACsSc9loMzuGVGwg==;1CadvctolOsiQIwvrjhLPQ=="
 ---
 

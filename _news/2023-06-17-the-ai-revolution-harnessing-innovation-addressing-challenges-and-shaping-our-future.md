@@ -39,20 +39,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Hospitality Industry"
-    excerpt: "For better or worse, generative Artificial Intelligence (AI) is already transforming the way we live and work. Within two months of its initial release to the public, ChatGPT reached 100 million month"
-    publishedDateTime: 2023-06-12T20:05:00Z
-    webUrl: "https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-hospitality-industry"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 33
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/AI%20Artificial%20Intelligence%20Technology%20Machine%20Learning_0.jpg?itok=bUj9XK9t"
-        width: 500
-        height: 309
-        isCached: true
 
 secured: "jIZ/+vKM3malNafa3q9dnR42NYn6wk/Kd6Z4qz4kyIMX32IxP8UErl4HYMIeaHD6YDvF/a2s81rgSE8Y5s7Kl1pG1j2xKqQWccenkO68YpjpjdsK0pWxkiX4HgZjQW2uVwspDzROPCoaYQZYkFVfY/kuXoIMNNj1QvgwXYvlKcOFK59yvhQm9RImr/cllntUtyoWtEyktGz1u8zJutNZI0WtntGjyyL2U5MbGOa8Fiyv+dCM2lyojWY7VgT/DDHK6izyxMqcPrfM3E/9H6ewfbIFw/OPS7Fmz6v+BuAjOiik9lyafh/7n3Yo1GNzM1z+N4FjQhwS1eInUyvKrGJzH/y5miQAm8s1L+1xvh2AEhA=;DKa2Sx7JOAJZKjnm/ck/+Q=="
 ---

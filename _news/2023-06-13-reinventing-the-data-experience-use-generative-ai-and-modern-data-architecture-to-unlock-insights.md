@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-the-data
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights/"
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: idw
       domain: idw-online.de
     quality: 45
+  - title: "Some advertisers are requiring their agencies to disclose when they use generative AI"
+    excerpt: "The marketing consultancy Ebiquity said between 10% to 20% of its clients have updated their contracts with agencies to include wording around AI."
+    publishedDateTime: 2023-06-17T13:00:00Z
+    webUrl: "https://www.businessinsider.com/some-advertisers-want-their-agencies-disclose-when-they-use-generative-ai-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
 
 secured: "GqcaE5d9iT2tiRbAPYghaHfg1gn8mg2QICR5JMTEeGCX1Y7w6pOZ7olEIhnPErLLSKok57/kLmJshUC/jvs+JLf81q0IsDU8MlDpzLDsU4tgLwH6Rdiq6CHfe0/SxR8xeLhaiVaLE+Hh3xOICXpsJnW9FjL/Bh+B50FmBko0DgJbZB5eTwhFTSTi/RYTI5YjNcm3dmx6EPGffpxeKRJDq8cI5fjC10cM7vtV+LubI3nUnCWThynVLlqNQWJa0vAIjlpos6KObX3551cn4SlPP02SW9uSgTMf558t1ZNmyZEVTgc2QY4NDwaB4sVSHc7utvW1LFgU8y1NN9Rr2oEMZhNcdUbSX2+nzrn5WACBptI=;qhPqkksc5wMoTvl/uiOBvQ=="
 ---

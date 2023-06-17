@@ -58,22 +58,15 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "UN chief calls for coordinated global action on disinformation, hate and artificial intelligence"
-    excerpt: "The United Nations chief says the proliferation of hate and lies on digital platforms and the threat that artificial intelligence can become an uncontrolled “monster” demand coordinated global action"
-    publishedDateTime: 2023-06-12T22:01:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
+  - title: "The risk of extinction from the AI robots"
+    excerpt: "Haven’t done the AI thing. Haven’t got the ChatGPT app, apparently the most popular in history. Because now we’re supposed to let the whole evil network of artificial intelligence around the world listen in?"
+    publishedDateTime: 2023-06-17T13:00:00Z
+    webUrl: "https://www.ocregister.com/2023/06/17/the-risk-of-extinction-from-the-ai-robots/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 34
 
 secured: "y13kC7giXcGN7UN58mxS+A4fRZJtpZ5Unum9zpzOttt1bY/AvQZFpDBzd/GwdM6PLWWmRaH/pMTXd7mK02ZFha7yzHIXpESheQcy8jyMWTPuCmmBsbjwiVattnluQQTjOGWgnGSrTKAlC9lS0zPQ6g/wdJbS4efs18dSO1l3QXyPYbXFqO9pgNZoZnEqhsrmdeinXCeyT9mPWd2gewnqS4nCnS1Q7daGy6yHlijAi7pMUtc5V6TbeemkPbrN3U7WviTs8jh2MWcf4uvKSthPZjBIIX0TCYBIQvzOw10jpIPzRjC5hFHRtSnu3iKcHDeb+n6tfLfrMZYcqvSz5s0Uf5Sp8l+YIN0MLEpdtYURLBkpQ7IfcuEgtXsYxFCzqrFB1/VnWRtKZ/81oe/G8TIyyozCMehJEoBf5+1UoruQt9guqecGPcNyWz0NuaYwQ2mLWEnT5k8HfwKTbYNN3bvkYxqgM8vRVjeSBPqIwlXJMJ9DwPhiXvXBIZ05J+e0JSPHvdCHtnT3761c/OyequATrQ==;3wGcJ0OyUk65/A73flniZA=="
 ---

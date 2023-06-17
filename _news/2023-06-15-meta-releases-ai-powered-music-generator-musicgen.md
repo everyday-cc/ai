@@ -114,15 +114,6 @@ related:
       name: GIZBOT
       domain: gizbot.com
     quality: 19
-  - title: "Meta just released an AI music generator that was trained on 20,000 hours of licensed music"
-    excerpt: "Researchers at Facebook parent company Meta have developed an AI text-to-music generator called MusicGen. The language model, described by Meta’s Audiocraft research team as “a simple and controllable model for music generation”,"
-    publishedDateTime: 2023-06-12T19:25:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/meta-just-released-an-ai-music-generator-that-was-trained-on-20000-hours-of-licensed-music/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 9
 
 secured: "QC/jkaC76aLI/8zcsGGnrClaIKj6onfj+TDeXk9b7ol90tLn2TehjBmvPOhv9APogRF063N97L9D0Pfpk+p2mt40FAA0w6CztYIE2Pky3bcqcfwPLpFJKk5ftkES2V2zvjTipos1Mr/NhrtFG1gmfBG40Lp7tYYRu53902ArWWVzAx5ZcUkh0MHYSK6hZ42kNNKSs92rkrxLJ/skzzzjrQzqzZGmRKRooW8pfrf6jdhvGi8b5I60QJ0UVi27+Ko2VnHCpYFqk72GBT60I6Q8XvyBWiTHbjOhmEaF9XM24wstdtO85NF33j9NtUfPwz2y1s202aKJFgc82Yq0H7bdEG+rCt626Gy1sSQDXMDvYm4=;kjSJci7Omu9tWUr8hg68xQ=="
 ---

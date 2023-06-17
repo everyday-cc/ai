@@ -62,22 +62,15 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "UN chief calls for coordinated global action on disinformation, hate and artificial intelligence"
-    excerpt: "The United Nations chief says the proliferation of hate and lies on digital platforms and the threat that artificial intelligence can become an uncontrolled “monster” demand coordinated global action"
-    publishedDateTime: 2023-06-12T22:01:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/chief-calls-coordinated-global-action-disinformation-hate-artificial-100023757"
+  - title: "The risk of extinction from the AI robots"
+    excerpt: "Haven’t done the AI thing. Haven’t got the ChatGPT app, apparently the most popular in history. Because now we’re supposed to let the whole evil network of artificial intelligence around the world listen in?"
+    publishedDateTime: 2023-06-17T13:00:00Z
+    webUrl: "https://www.ocregister.com/2023/06/17/the-risk-of-extinction-from-the-ai-robots/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 34
 
 secured: "0h+gOyCap6Zap/d6V03ivMHQ6UhT/IuvTJx6wWkbaBVttByEByR5lgKQZ8PG4wzLu3yongTPLtSJsqpE6ngnD5EhpB3iFeycYeP/SAFSpRuf9m6blMnN64tjXG4mZzmrXkO0uA9Zd0oPBu6S8mIO+VFWDMntfvUXQIy21yJmq4TunwMoswtBWx/h4UnWI09UicZLhyr/kxaPpPgkK022ooWavUtmX6Mml0JOYgo5359AUYIekzA4NUwZIk1D7kekS146UmzX37Q3Kzmf6LcNcB5hC6EKGAv7FTzqw3bB3+yTAbBCAlA4N6QYbssjRBT4YgRZYckdAKCTIlHdEv6mEZ1t/615mOtSWsbUo1RskAI=;ogHnixxw0t0puiRaMbE4rg=="
 ---

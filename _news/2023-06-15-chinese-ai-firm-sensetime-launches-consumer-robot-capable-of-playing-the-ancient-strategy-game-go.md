@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/06/15/chinese-ai-firm-sensetime-la
 webUrl: "https://www.gizmochina.com/2023/06/15/chinese-ai-firm-sensetime-launches-consumer-robot-capable-of-playing-the-ancient-strategy-game-go/"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
         width: 642
         height: 428
         isCached: true
+  - title: "SenseTime reveals AI-powered board game robot"
+    excerpt: "SenseTime has launched a robot that can play the ancient strategy board game Go, as it continues to seek revenue from consumers."
+    publishedDateTime: 2023-06-17T13:04:00Z
+    webUrl: "https://interestingengineering.com/innovation/sensetime-reveals-ai-powered-board-game-robot"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
   - title: "SenseTime Unveils SenseRobot Go: The Second AI-Powered Board Game Robot Joins the SenseRobot Family"
     excerpt: "The SenseRobot Go is endorsed by Olympic Gold Medalist Guo Jingjing and has received great acclaim from Mr. Nie Weiping, Vice Chairman of the Chinese Weiqi Association (CWA) and a highly respected Go master,"
     publishedDateTime: 2023-06-14T12:47:00Z

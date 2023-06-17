@@ -115,15 +115,6 @@ related:
       name: Net India 123
       domain: netindia123.com
     quality: 19
-  - title: "Meta just released an AI music generator that was trained on 20,000 hours of licensed music"
-    excerpt: "Researchers at Facebook parent company Meta have developed an AI text-to-music generator called MusicGen. The language model, described by Meta’s Audiocraft research team as “a simple and controllable model for music generation”,"
-    publishedDateTime: 2023-06-12T19:25:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/meta-just-released-an-ai-music-generator-that-was-trained-on-20000-hours-of-licensed-music/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 9
 
 secured: "DpRTIV3HKQBvje85tg20mhIrc8zZrx92JdFEGJhv51pbx0eMG8vsMmpcA2k3l/GigTN2WiLsbAqc+17tD8gzTvUSzRnhYRIYV4Yy1Ij6iydPRvvL/Mc5Gz7A+c3hvYJNhr4VtvlXBaJauAsFJE0kVqPlm9k1f4z9qtElKuQA7E8lRRDX2f2Cx/3xxS8ycIk217sBcFqIe2FmT1cvYBeG6H4I6sJ6fUOJP0UpC+xhOIHsWHcGwWm4KlowzzR5hUk8PThdAoNIT11iFsktt/WEQaUOAQYsxS2B5S0ydW++aZg+IGQInbK4DuHnrw/Kt88GlCk4SRnLuraybE1rVV61Wd2jSgIXBVa4MaNlE7UUfMZMe5gGATC59YR8j2l7NM4v2Q4iEG+KdpMn3Fzfa80kiCpa2B0Bkk1tqFEskJmPOEFztIbQ1jaXPreoMFgG3ehhthoHgAdR+WLC9yhsybdcAm9vvGCujMhTjlCKAAj034sGRKV2+/z+rju0Cfxww26xfVZywBysOPRcCKHkNdYE6Q==;rmit6DxllXzJiyB3z0Slbw=="
 ---

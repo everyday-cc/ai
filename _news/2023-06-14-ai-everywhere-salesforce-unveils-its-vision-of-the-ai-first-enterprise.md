@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Salesforce touts AI strategy, doubles investment in start-ups"
-    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI start-ups as the company banks on the emerging technology to help resuscitate sales growth."
-    publishedDateTime: 2023-06-12T19:19:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/jun/12/salesforce-touts-ai-strategy-doubles-investment-in/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 17
 
 secured: "B8dAOh4xFPm3L2SeUt9zqauo9mFd/J4hmwVzVTZvf9WLluIwfwwIki3RsFB35QyvqPZagpMU/g1wa0pPrwvZJCIJDfcK7x4clZYWFH0qq3UIKh7hRK2CRLk2MauVG3ez43lqGoHLuXQEXLqC9sgBZkYX9JOiMKx05D2pnDdQimkQz5cAnl2g44iNh5noK7RK2O2Tqx0YU2irn9M+54r5sau+gAPFQsUkSJp+7rkvi5C/FpsKMBDhVvNNxjRNIrSdgH7u/Dcac1yEvXSrgMOt5giK9yCyc888uEkCwWucixENcS6srfF6nXx1U9pVse6NvpMzcDjAbdqHaoF659339uXxNkD9KAObd4XK952HX4aCn4aOaSLApT2ZKsTc4j9i8gKeE3JMZWeYzMHJMmUGpyXdLgB1QHf9jB56iwAsIcZqAdnNNpDA/tusisN+GWuNRx+7GT96s/9WqXtT/4pNqHeyORSHSmdrRFaU3cVG0iPcnOTPPsBMwpLpuPHXwb0T5TdmjmuMWlBZfD53V0R4Ow==;MtFaoXZr6ewaRbcQoEatqA=="
 ---

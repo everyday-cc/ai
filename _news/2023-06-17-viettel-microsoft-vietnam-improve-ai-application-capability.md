@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-a
 cdnAmpWebUrl: "https://amp-vov-vn.cdn.ampproject.org/c/s/amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 36
+  - title: "Viettel, Microsoft cooperate to promote application of Industry 4.0 solutions"
+    excerpt: "Telecoms Group (Viettel) announced on June 16 that its affiliate Viettel Solutions has signed a strategic cooperation agreement with Microsoft Vietnam to foster the application of Industry 4.0 technology solutions such as Cloud,"
+    publishedDateTime: 2023-06-17T12:03:00Z
+    webUrl: "https://en.qdnd.vn/economy/military-businesses/viettel-microsoft-cooperate-to-promote-application-of-industry-4-0-solutions-553466"
+    type: article
+    provider:
+      name: en.qdnd
+      domain: qdnd.vn
+    quality: 16
 
 secured: "jyWDYmj7/yEK/nS1r5PajxVnQPpFdPI5izciAChoWzjoSgUe8v++2sO86Ty+5TdXKUzpwbC4ftHSeXtRWXGB2baCNKD9dsF2K43yrAiqeUhLV5NRxDqmMjIcisSE1scT/PpPJF8RDZR1b3PTMzTJqbLz/ZEqKYis4dg1PLkzP3TPTs3+DM26TDbEa2PNEiwrWSLRVMFqc/OBDhY+b797lS4I2b2/K80PGbmVY9hwyM/RRLfFSamzQfLORH2WnHXKinULDNvBQpcr8XbvGEm4OY9mOiImHrPXYiey8ZH39nr1U97tHfOS0hu1UC0VjM7gX79FpeQmb8TIU+OQOm5QUa09lghcgCvxK3ATBmZXLSQyGtRFkDB3ojouyCLd5ZhntvREDZEmvTvjz4sT8WBUIxw5lzoohLnE6QDz7foRxC93jpUYU06nOe/9nAbVDNbXOy1MOlXAGPWoKvln8jiztOErVylG7cDsySYD9LKabNXc+S007X+xEXgm1FROU3fh8N1M8FJX/TECzAvk2pJFCg==;hNc78PF+brddosup9VGjZw=="
 ---

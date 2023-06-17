@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "BBVA Selects AWS to Accelerate Its Data-Driven Transformation"
-    excerpt: "(NASDAQ: AMZN), today announced that Banco Bilbao Vizcaya Argentaria, S.A. (BBVA), a global banking leader, will use AWS to deliver advanced analytics and data services in the cloud, taking a decisive step in its data and artificial intelligence (AI) transformation process."
-    publishedDateTime: 2023-06-15T09:44:00Z
-    webUrl: "https://www.kentuckytoday.com/news/business/bbva-selects-aws-to-accelerate-its-data-driven-transformation/article_9f2c17f0-a860-5fed-9d55-e1c4312e9348.html"
-    type: article
-    provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "BBVA taps AWS for new data platform"
     excerpt: "BBVA has selected Amazon Web Services analytics and AI technology for a new data platform that will provide a secure repository of the Spanish bank's operations and customer data."
     publishedDateTime: 2023-06-15T23:13:00Z

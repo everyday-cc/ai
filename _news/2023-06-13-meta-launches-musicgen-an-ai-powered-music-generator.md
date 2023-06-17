@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-launches-musicg
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -115,15 +115,6 @@ related:
       name: Net India 123
       domain: netindia123.com
     quality: 19
-  - title: "Meta just released an AI music generator that was trained on 20,000 hours of licensed music"
-    excerpt: "Researchers at Facebook parent company Meta have developed an AI text-to-music generator called MusicGen. The language model, described by Meta’s Audiocraft research team as “a simple and controllable model for music generation”,"
-    publishedDateTime: 2023-06-12T19:25:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/meta-just-released-an-ai-music-generator-that-was-trained-on-20000-hours-of-licensed-music/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 9
 
 secured: "YfczzkKYCySgJgddB8Qi7AksWYQon7ul6Yre08SuJVr8szDk4raAij4h/CGdTtjcDpK5V/FRcK7tHQXwQ1RSxthhutJtxWo27S/HJUVeD5P+n2gOysWBBhBAA9LZ21CqYHmo0NtUj+VtcM9OedVP6AO5Mv3DQ+LtmUnkKQ98Vol/Jtd1Vy2Q9u8V79AurGN1QJFMNxFLE4m/i0w6B9nMSwZDpv6tpq6tF2JAXKWe4HdJuDFR4qEpce/zlkfiE4fZkPPdlz8jrIpVwr7wCJwvKCLJwgqSXntxol3wVHGijPIY3vYbY3P0XzmxqX4lDceHbyXHOvvSxJlx+pvMisnvC3Gpz2Kky+3L4Qd8yI903BNOWdDC7kfvH9U5mVktAAu8A6QwNQz+YNQcEUUHr0afniRzHb/bwY/bHQUAOfYFxvkoa5cP3V4gQVqRzKYpHLsnWKOoL1xPfeQ6caD/QX5ROmyaRkCCZZY6kIVFoR3441Ipu4eWmiEBky2wNcplumeycwPvJNJhTX11GWiS6Iej7w==;Doj1YH697mB1tyDsyOOguA=="
 ---

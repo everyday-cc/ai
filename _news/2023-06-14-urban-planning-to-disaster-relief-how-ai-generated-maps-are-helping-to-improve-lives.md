@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/location-intelligence/2023/jun/14/urban-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/location-intelligence/2023/jun/14/urban-planning-to-disaster-relief-how-ai-generated-maps-are-helping-to-improve-lives"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 600
     height: 304
     isCached: true
-
-related:
-  - title: "AI-generated images are everywhere. Here's how to spot them"
-    excerpt: "It's easy to be fooled by AI-generated images and other content. We talk about how to identify them, how media literacy can help, plus how to use these tools responsibly."
-    publishedDateTime: 2023-06-13T04:10:00Z
-    webUrl: "https://www.npr.org/2023/06/07/1180768459/how-to-identify-ai-generated-deepfake-images"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 39
-    images:
-      - url: "https://media.npr.org/assets/img/2023/06/08/detectingai_02_wide-490b899012edf8bee6419139f70e38d991cbd644-s1400-c100.jpg"
-        width: 1400
-        height: 787
-        isCached: true
 
 secured: "HrdqkiS4DqbBa8GZblKltts5lRJZZZy7iIJ/aQ3/uFUfwlfgspsZjV/B1d0A7tl12mLmMOJRHveEzkfntS7ZL+kLKkERyoQpKA/VgF+e2TfeOVtrgTDNTVn8ubO4J8SzgFdUJBjIlXhXq6coFNU/SYLtbQmR5T482pksgTlFWvU5QjNsqUhSeEDvVFlhj251Fv18G2KJN1Okty6IB2bEBow1vQBHJszE0yo3lvmMxPLTDxYwj4fktgwbSPnqNuq4iSwH0WpvKpb0qvNbt/Ff4crvQHCkDfxPZ8d1Rz/Uc7aA+GMezt+TvM9jE/GYcsgfKP/Wm1PG0OloP6nEucFlrUB54IBlaPOls2wT+HBL3Pc=;vHMdDU2avfKROLsffWbeBg=="
 ---

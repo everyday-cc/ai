@@ -85,6 +85,15 @@ related:
         width: 642
         height: 428
         isCached: true
+  - title: "SenseTime reveals AI-powered board game robot"
+    excerpt: "SenseTime has launched a robot that can play the ancient strategy board game Go, as it continues to seek revenue from consumers."
+    publishedDateTime: 2023-06-17T13:04:00Z
+    webUrl: "https://interestingengineering.com/innovation/sensetime-reveals-ai-powered-board-game-robot"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
 
 secured: "MAd0j5O6P3bnfk611bbH+uFk60bwlhnEa0x3cc9C0i3qE/fBDN9KYnQv5lp3F9BNtO3f8xIKOeqLyNDIi0jFbxJ5Er9gm5NNrh4XWRAoOqcozLrHqRXKMu3qcmgPTHGS8hFbONUOzT3LoogTvP1yYSnDA4NDJ9eFhvmtZSqVAqfu8l51SjCDB1OdU/8iXkLW3PKyLgzlK3io/xDuwkHc0lPhcTSB0PppnlrPHZaAp19foDSyvqDybkfZirqfj9BNHKVMva9UzlMu9lnu09DRu4jD8xJZtrlUWFJ/RYaEmfsDqe2fKEleY98w/fOKNY+NtKLRTMrF0DtwtqkWjXAR/fw+JCdSqoIKzicpJq2WdWkwbIf9vIy716xULw/TfUuOBe5sj8uL7jQBzkemSBtdMhqkSwNWXeiqwpUXrQUdcREWhoKpeFoJ9ACjfMmxTbtU8x7FsTxb5HoTNKfni48m7jHEP+J9tuu/hwsbTRuuhwo4sYMHY4z8+2FaDPyzHgwFI/C6RK9SK0qbodSqkVxGng==;mzOH8y0Y0h851YOklVqDTA=="
 ---

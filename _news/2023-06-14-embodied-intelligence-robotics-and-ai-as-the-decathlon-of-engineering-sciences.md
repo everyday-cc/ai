@@ -47,6 +47,15 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Some advertisers are requiring their agencies to disclose when they use generative AI"
+    excerpt: "The marketing consultancy Ebiquity said between 10% to 20% of its clients have updated their contracts with agencies to include wording around AI."
+    publishedDateTime: 2023-06-17T13:00:00Z
+    webUrl: "https://www.businessinsider.com/some-advertisers-want-their-agencies-disclose-when-they-use-generative-ai-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
 
 secured: "kzGLb4wQtcLRzRU2pTJduA6XjepQYKN7rg7gZytCq2sOlHh4S7b1FdA9zK7mSF5U/el9YdyJJITD7cZ7qer4KWuc1acgdsihvXTlp9cVwn8baQU1Oc9D9cEKKkOkuQdpapgwVbLXNf8rPJdHI0fNxJoj0jNVFB+RuqZDH4mpb3ZvZ69Rgxg0x00aOVXgTtbYGD42chYESjMt/aExoUopH2quQgTkD57cIpk4SqBq75l+f//q7iIch2PT68KQQeXv2eppyzQ4i3DdyfoUu1c2dHJvEur/fneJDF0egmAAETpNoV2Oz/KxwPlGMI0P8nPraiou5gC/B1IcNqXxM6UUulvuLzdQWFVPaDjRG+83lGM=;xInszZ+8XdlU6/ageJtlWQ=="
 ---
