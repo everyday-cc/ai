@@ -25,52 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Help Customer Experience Agents"
-    excerpt: "When reading recent AI headlines, many people may be afraid of AI or worried that it will render their day-to-day roles obsolete."
-    publishedDateTime: 2023-06-12T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
+  - title: "The Impact Of AI On Thought Leadership"
+    excerpt: "We are faced with an unprecedented vision of our potential as creative forces as AI has emerged as one of the most promising innovations in the tech industry."
+    publishedDateTime: 2023-06-15T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63a465eb8717a0459e633478/0x0.jpg?format=jpg&width=1200"
-        width: 853
-        height: 568
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6401f00fffe104e0998619c1/0x0.jpg?format=jpg&crop=1054,593,x0,y50,safe&width=1200"
+        width: 1054
+        height: 593
         isCached: true
-  - title: "Artificial Intelligence can help with hearing loss"
-    excerpt: "McDonaldHearingServices.com For more information about the services McDonald Hearing Services offers, click here. Copyright 2023 Nexstar Media Inc. All rights reserved. This material may not be published,"
-    publishedDateTime: 2023-06-13T14:57:00Z
-    webUrl: "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/"
-    ampWebUrl: "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/"
-    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/"
+  - title: "Regulating AI Isn’t Impossible. It’s A Leadership Commitment."
+    excerpt: "The EU's AI Act is just one early step in a long, ongoing process, and we're nowhere near a systemized regulatory framework. But it’s a start, and that’s what leaders do."
+    publishedDateTime: 2023-06-16T21:43:00Z
+    webUrl: "https://www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/"
+    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/amp/"
     type: article
     provider:
-      name: WOOD-TV
-      domain: woodtv.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/keenan.jpg?w=1280"
-        width: 800
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648cd5fb58d4466d39b1e992/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 751
         isCached: true
-  - title: "How artificial intelligence can expand the borders of healthcare"
-    excerpt: "Artificial intelligence (AI) has taken the healthcare industry by storm. While many look to implement AI to create efficiencies, it is important to approach AI in a larger context to truly understand its long-term implications."
-    publishedDateTime: 2023-06-14T10:09:00Z
-    webUrl: "https://www.pmlive.com/pharma_thought_leadership/how_artificial_intelligence_can_expand_the_borders_of_healthcare_1492937"
+  - title: "This Is the Worst Part of the AI Hype Cycle"
+    excerpt: "The reaction this elicited on WIRED Slack channels was somewhere between “cool” and “gross.” Using AI to resurrect Lennon for a new song has its appeal, but given the recent ethical questions around using the technology to make fake songs from artists like Drake and The Weeknd,"
+    publishedDateTime: 2023-06-16T13:00:00Z
+    webUrl: "https://www.wired.com/story/ai-hype-cycle-burnout/"
     type: article
     provider:
-      name: PMLiVE
-      domain: pmlive.com
-    quality: 54
-    images:
-      - url: "https://www.pmlive.com/__data/assets/image/0004/1492915/1541285245273.jpg"
-        width: 900
-        height: 900
-        isCached: true
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "YnXl/x8vFZ9RZ/SaSB7HypwYVoB4qCsUBOJUIb90blgqUdsxW9vVxmC/v7GL4j9LbcrlXukxPQDou2mOQzg1F8TJJZLWT2ntPxcHka1vPWn8SCdxh297RfTYN7ZszSOjFWNcG2+xpX9y/6mnxFn9o9IgSJtDaAUZ2HR6xFnvjjfvxUHS+YuM1hL8wezIP9/DYHyf1V9fYszntU+lbOj89JYVOE3wcie6wy8LdIsZcMbHjPNeScRxjp6noVzK9R7X2LvC7MecnjMgFyXGZb1MJQHmVa38G1EBQteKr8LWbhvJETV4ZjhSSRDoRruQrSapwd9WdsTWnO0jj8MGy/WENBhLzJiUZVR59IAnJtTMe7k=;3RXUfQncc2d7p0mfm8s/wQ=="
 ---

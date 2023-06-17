@@ -55,15 +55,6 @@ related:
         width: 1920
         height: 1060
         isCached: true
-  - title: "Self-Driving vehicles in Dominica: China’s tech company Baidu is open to the possibility of getting this done"
-    excerpt: "Chinese multinational tech company Baidu is optimistic that in the not-too-distant future, they will be able to get their self-driving vehicles in Dominica, the Caribbean region, and other parts of the world."
-    publishedDateTime: 2023-06-12T11:30:00Z
-    webUrl: "https://dominicanewsonline.com/news/homepage/news/self-driving-vehicles-in-dominica-chinas-tech-company-baidu-is-open-to-the-possibility-of-getting-this-done/"
-    type: article
-    provider:
-      name: Dominica News Online
-      domain: dominicanewsonline.com
-    quality: 0
 
 secured: "pOEIAejzk63CW8iNWkuLY4GArGFR5SZQxygK9nXNBe0zR1Yqx+0N1bz0RI36mvBvgAycMlHq7Vjq5MAKzRw48/+7yS3B6yba6v4PC0UfLILUQSWYlzU/Dzj7Ssetxq9qMWiroNhBcVe509FBq7RRLErMa2fYkyEWloblluIbEn6WQoJeFhnNjzm5N8uAkTvyrnA9YLnKiOfU98REDPFPgh67QmK9/TnHxTL243E/dD63U18ZE+jbGxunyAXnfVhDSBJPmhkRNhRLnYAysS1mD5INxtIloc9fmvEP6P8unB8rW5piRGh9CdnlQKHnCi1uXPmoqXOOjOxRAsGRfgRCs4yKe5AKjbo3VZiWPgE00nyE8gn9uEaK3nmEyP9m0FSaGKdV8lDZk6D4wFusK0D8URLzhbMCViItSBVJvB6VEZ6myXawAuKa7QbqzJkDHiczRgYJrR7H+0fBHAnAyUycKILXbLRtsVpG/OJaOPBmgTKZDi4wKb29LAeO09bnWOHjeHgh6WnWw0RXFOfh9cHk9g==;cixlY3FvPglbaJQYHck6bQ=="
 ---

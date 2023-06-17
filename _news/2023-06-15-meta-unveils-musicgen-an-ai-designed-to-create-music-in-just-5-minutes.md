@@ -41,20 +41,6 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "Meta’s new MusicGen AI was trained on 20k hours of (licensed) music"
-    excerpt: "If you’re a music industry exec wanting a bracing start to your week, look no further than the latest musical AI model… built by Meta."
-    publishedDateTime: 2023-06-12T11:19:00Z
-    webUrl: "https://musically.com/2023/06/12/metas-new-musicgen-ai-was-trained-on-20k-hours-of-licensed-music/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2021/10/Meta-logo-2.jpg?fit=1200%2C400&#038;ssl=1"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Introducing MusicGen: Meta Unveils Revolutionary AI Music Generator"
     excerpt: "Meta, the social media giant formerly known as Facebook, has recently launched their groundbreaking AI-powered music generator"
     publishedDateTime: 2023-06-13T14:02:00Z

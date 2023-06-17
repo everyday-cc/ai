@@ -9,7 +9,7 @@ ampWebUrl: "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artif
 cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,49 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Help Customer Experience Agents"
-    excerpt: "When reading recent AI headlines, many people may be afraid of AI or worried that it will render their day-to-day roles obsolete."
-    publishedDateTime: 2023-06-12T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
+  - title: "AI Promises Humanity One Last Job. Helping AI Help Humanity"
+    excerpt: "With AI threatening to overtake the world of work, at least one pretty good job will always be in demand From dethroning chess masters and game show champions to outperforming radiologists, the dazzling—and at times overwhelming— world of artificial intelligence raises deep questions about the future of human jobs."
+    publishedDateTime: 2023-06-14T14:06:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-promises-humanity-one-last-job-helping-ai-help-humanity/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-promises-humanity-one-last-job-helping-ai-help-humanity/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-promises-humanity-one-last-job-helping-ai-help-humanity/?amp=true"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63a465eb8717a0459e633478/0x0.jpg?format=jpg&width=1200"
-        width: 853
-        height: 568
-        isCached: true
-  - title: "How artificial intelligence can expand the borders of healthcare"
-    excerpt: "Artificial intelligence (AI) has taken the healthcare industry by storm. While many look to implement AI to create efficiencies, it is important to approach AI in a larger context to truly understand its long-term implications."
-    publishedDateTime: 2023-06-14T10:09:00Z
-    webUrl: "https://www.pmlive.com/pharma_thought_leadership/how_artificial_intelligence_can_expand_the_borders_of_healthcare_1492937"
-    type: article
-    provider:
-      name: PMLiVE
-      domain: pmlive.com
-    quality: 54
-    images:
-      - url: "https://www.pmlive.com/__data/assets/image/0004/1492915/1541285245273.jpg"
-        width: 900
-        height: 900
-        isCached: true
-  - title: "How AI can have a tangible impact on healthcare"
-    excerpt: "AI and machine learning can help reduce medical errors, relieve administrative tasks, and reduce wait times for procedures in healthcare."
-    publishedDateTime: 2023-06-14T21:51:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-ai-can-have-a-tangible-impact-on-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://static.scientificamerican.com/sciam/cache/file/374C3615-CAC0-4071-80E3ADB652FDA3FA.jpg"
+        width: 790
+        height: 496
         isCached: true
 
 secured: "taaZww9CQCzVvgrpujDWwlGKe6l0lwkMDoKbCEwSddvOgd2YWMN+R7r/omAUKnRtEUDfgYIRIbY6TaEg3pXbjVrxAUdys3mJkZlMdedFF3nRb1OCC6VMBcnnQGyNzUSUykuUeaF8s21BkdyK+9SehQ4eKJ2OPsNtoXE+st/nSmh+KDRPXweC3cWJrrWtqby5V9Ik3ljyAGs9l3+PchSPQC0ZalJDRGTBXljl+q550SmFSkkDUb/+EsG1d8ivRWK7acCxoGrJtxhwEA3oWfjGx/ixLDeRvsq8QKzHpg/q4d1l3jVTTihX5WMl6rD5uMtbYFPIjkGYgCpAQQ6Po2V+2lQtOfUk9RtDU3aeSh0qbDU=;9E8L5tTnidYxgz3NCw8eBA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-rea
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds.amp"
 type: article
 quality: 74
-heat: 95
+heat: 84
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 1920
         height: 1920
         isCached: true
-  - title: "AI won't gain human-like cognition, unless connected to real world through robots: Study"
-    excerpt: "Read more about AI won't gain human-like cognition, unless connected to real world through robots: Study on Devdiscourse"
-    publishedDateTime: 2023-06-12T12:18:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2485553-ai-wont-gain-human-like-cognition-unless-connected-to-real-world-through-robots-study"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 25
 
 secured: "GkLIUsThB3lO7+mCGwrnfIS7xdEW4vkOieV08GBii899kpgd6Mv9G8JTNaN4UGbhc+NSY8o2jxYkjEzwamJBl4Dk+a/mHd+Or/qE9dp3oJ5vXNXSBbSNpbvBHGPSdLai7AeczTnckUdhiaU5DfkZXPnWr5mIWIJbUUwSWvg++u2rAyBOeqUoMosHiAo03s0O30W4cPlhIYJqBoCGHuzyf7Ay2Ek8lgKGST/6rM4JCtWbHZrNOHTriOTvpYuMYHcRxccdukYi6BkWSmhBLLRwoa6zEh/eRZ/fNFlGc2XWycX/MfR1/ekDnswfmuWNqh37tR4RaL+UdMxF1kGZ9e7cOvAr/Znwyt6Ps2jm3R4jjBOlbWGI8zKisezb+7Cs1YpS8lfyi6ZCubPlT1d8OnZUYGgR+BuWBsn74HgQHZ6JfbeSGXyJfAisbuF8l8J9nWWh/gt1jsLxEeZtVZjasYqv2q3n7HRkK9wtFjEDJhrqIuU6IDpBYrnx02l9zHZ3egSmZiQx2VfsbK/waOhm/W1xTQ==;eJAvhkwde3zmNh5mehsYUg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-launches-musicg
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748"
 type: article
 quality: 59
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta’s new MusicGen AI was trained on 20k hours of (licensed) music"
-    excerpt: "If you’re a music industry exec wanting a bracing start to your week, look no further than the latest musical AI model… built by Meta."
-    publishedDateTime: 2023-06-12T11:19:00Z
-    webUrl: "https://musically.com/2023/06/12/metas-new-musicgen-ai-was-trained-on-20k-hours-of-licensed-music/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2021/10/Meta-logo-2.jpg?fit=1200%2C400&#038;ssl=1"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Introducing MusicGen: Meta Unveils Revolutionary AI Music Generator"
     excerpt: "Meta, the social media giant formerly known as Facebook, has recently launched their groundbreaking AI-powered music generator"
     publishedDateTime: 2023-06-13T14:02:00Z

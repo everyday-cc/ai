@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 643
         height: 321
         isCached: true
-  - title: "Converging Generative AI With Blockchain Technology"
-    excerpt: "The transformative impact of technologies such as blockchain and generative artificial intelligence (AI) can be seen in almost every aspect of business and our lives."
-    publishedDateTime: 2023-06-12T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/12/converging-generative-ai-with-blockchain-technology/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "WQ2jK0MJDxX848mfC8RnH5Sc+criqo8weBIMkfS1Ft6460HVo/K1fARbUDu7WsPc74Z6Mk0JnahMbDgqZV8Pah+Fq9VbVY8CgbRBvtV838baEA5a8+M8ckx8HaTvhLa1bepmqyn5ZPFMqfIjVBqpZ5MOY9PA8y98pXMkOFLe409k4Lf3AelaoTF960idVPf1OfuHSLwe79nxfRPWWayh1WgbI1Cn0Dm71SoZkrlVZS7GIhFGe2UP/vIEh1+Kgp5svsidNO7wQY+S1Hni7zGd45mhwU4i7rtDQUzJiMZNIxkFexhmCNxRQxBS2RB5nLxtrz9NdvHhgXvhSLQIsbUrF7bwslECkUWly9dPIP3IkhsC/amuV92sL64GypwaTPL/VKyzdZD8vv+gI22LU2V39issfY+CEEus9bq3qZrnWnxsGakdH1yXAvQ98ukIHtb9imGieapaiy457QePBC9u4H+rxof+9XLuxC7XniDZWgv4tPobbgES3kNBhJZMcfJ6Al4OF5bdvmxWFlA0u0dZoQ==;BW6I2EsR+XPYZ2A+Ii8otQ=="
 ---

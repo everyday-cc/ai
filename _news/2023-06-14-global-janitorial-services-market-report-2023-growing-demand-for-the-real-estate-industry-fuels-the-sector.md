@@ -69,15 +69,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 15
-  - title: "Global Fintech As A Service Market Key Players, Size, Technology, End User, Demands, Growth Rate And Forecasts To 2028"
-    excerpt: "ReportsnReports PUNE, INDIA, June 12, 2023/einpresswire.com / -- The global fintech as a service market is anticipated to experience signific"
-    publishedDateTime: 2023-06-12T12:25:00Z
-    webUrl: "https://menafn.com/1106426029/Global-Fintech-As-A-Service-Market-Key-Players-Size-Technology-End-User-Demands-Growth-Rate-And-Forecasts-To-2028"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "z2i6qUMlBJDg5yMzJYcBGutGa9IVN3LRnh8LxqEXO94RKsyw9Og066W8twP947nPpLekExT86bvj2gxgS4w0sFUUHvvEyUaYDbCiFHmePqUWfOix7IbtvJUC1aQBLTyk8ftm7otmKtbTA6/hu0MDv4fPT6u7bRVpMIPaxZmjh/2uC7x49ledS17JDW9Y6pPUwqfOhGVwU9YrXceJQY7aRX3Cdy9psVbGuGviofijdYRPEinQm8V8AXWpraL5bALTUvDf9/MpQ2XALFNjoVqChriQ4zt99x7kVUTgp5EHzX8m6MRo8ZsC4wUTDenjep4U8DZsIlUQTSQt6CE3kUZP0EMno2Av7JO8pWYALtwS8oM=;kScDXrRVa1+zNYbowse7qQ=="
 ---

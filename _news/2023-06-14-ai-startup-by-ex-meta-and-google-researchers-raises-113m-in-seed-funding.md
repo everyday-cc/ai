@@ -1,29 +1,26 @@
 ---
 category: news
-title: "AI startup by ex-Meta and Google researchers raises $113M in seed funding"
-excerpt: "With no product at hand, the company is on a hiring spree and on the lookout for researchers, software engineers and product developers in AI."
-publishedDateTime: 2023-06-14T07:43:00Z
-originalUrl: "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding"
-webUrl: "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding"
-ampWebUrl: "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding/amp"
-cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding/amp"
+title: "AI Startup By Ex-Meta And Google Researchers Raises $113M In Seed Funding"
+excerpt: "The artificial intelligence (AI) firm from Paris facilitate the release of the company’s first set of models for text-based generative AI."
+publishedDateTime: 2023-06-14T14:52:00Z
+originalUrl: "https://insidebitcoins.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding"
+webUrl: "https://insidebitcoins.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding"
 type: article
-quality: 58
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: CoinTelegraph
-  domain: cointelegraph.com
+  name: Inside Bitcoins
+  domain: insidebitcoins.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/fd1be72b-f6c8-4d53-97a6-d2228976568a.jpg"
-    width: 740
-    height: 493
+  - url: "https://insidebitcoins.com/wp-content/uploads/2023/06/airobothead_cna.jpg"
+    width: 690
+    height: 398
     isCached: true
 
 related:
@@ -56,6 +53,6 @@ related:
         height: 1121
         isCached: true
 
-secured: "YkqRbm/f6xElZbvxoOyEZ9L/nKS+YZXuc1rQxpe130ROzHwoo/FOpYhvIkv/R8Xyna0K5/NYnco3BvuRMbD0uA53nfTEusRD/FjEAMIMB8+k+uuL9Ebc8Ng/l6FnS71NQHpcOnG4h/pmry28bjc2hkHer8/s9opuPtKA8VAPAF/Xnt7/f/GD0sX7Xm9ENOzEQXG97ueMrhwoAlNte9HOFKhEdBGb0tj+Bo9ZaBu2/aF+D6gWbDQim/3rBYXu7PTMVTy7uJcrDTDlvaOxxXzfGb6yjkIIRwqBr6DUi65HmiOjZVllIozFvbS+awMgeRQ1Oy5et0Jft8KnF1BZOTsJWZqKz3nkMbH/gtCwJ5tLu/w=;VpbyNzvBseGV92dMbWn1dw=="
+secured: "eTa+rsV9mZWKfjUkKxVK+4TrLRYs9AunOJH5yisbiIp0nSt5ZhgDuHm4QuZKuGE2qFMDkq5srmAatNhQShVqb6KGP1ZxOxXHeYwoJpPCxkkchCvPEngqQus7fOumQ6pJDuU/w4WExXpPmb9kSiIG0SjjKMtD/kb6weYQoWmTXlYLIqK8HFrin93Ai4oTfyaVTB1pb/2DFKQJpXt1rRMsg30fMU6xVmfE0LLah8VFnkug80OLHeHRbBlqzvH2C0iiod2xjBiBOVfXYSjBiAhCVkak7kHqnw1T6tzvthF3t+oNPmvKEZLFyJxZ3rsw85hY9qfFBL/V52hl+8pbs/HdfJyvLNrB71B2J713C3NUFV4=;QlTPMP9iLIMacxDVU9sfnQ=="
 ---
 

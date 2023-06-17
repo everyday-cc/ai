@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 768
         isCached: true
+  - title: "How artificial intelligence can expand the borders of healthcare"
+    excerpt: "Artificial intelligence (AI) has taken the healthcare industry by storm. While many look to implement AI to create efficiencies, it is important to approach AI in a larger context to truly understand its long-term implications."
+    publishedDateTime: 2023-06-14T10:09:00Z
+    webUrl: "https://www.pmlive.com/pharma_thought_leadership/how_artificial_intelligence_can_expand_the_borders_of_healthcare_1492937"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 54
+    images:
+      - url: "https://www.pmlive.com/__data/assets/image/0004/1492915/1541285245273.jpg"
+        width: 900
+        height: 900
+        isCached: true
   - title: "The missing steps in the application of AI on remote health monitoring"
     excerpt: "Remote health monitoring refers to the use of technology to monitor a patient's health remotely outside of traditional healthcare settings, utilising connected devices like wearable sensors."
     publishedDateTime: 2023-06-12T15:07:00Z

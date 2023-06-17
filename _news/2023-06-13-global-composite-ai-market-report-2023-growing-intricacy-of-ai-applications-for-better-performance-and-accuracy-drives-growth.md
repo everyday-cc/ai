@@ -61,15 +61,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 15
-  - title: "Global Fintech As A Service Market Key Players, Size, Technology, End User, Demands, Growth Rate And Forecasts To 2028"
-    excerpt: "ReportsnReports PUNE, INDIA, June 12, 2023/einpresswire.com / -- The global fintech as a service market is anticipated to experience signific"
-    publishedDateTime: 2023-06-12T12:25:00Z
-    webUrl: "https://menafn.com/1106426029/Global-Fintech-As-A-Service-Market-Key-Players-Size-Technology-End-User-Demands-Growth-Rate-And-Forecasts-To-2028"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
   - title: "Global Janitorial Services Market Report 2023: Growing Demand for the Real Estate Industry Fuels the Sector"
     excerpt: "The \"Janitorial Services Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
     publishedDateTime: 2023-06-13T17:59:00Z

@@ -200,15 +200,6 @@ related:
         width: 336
         height: 224
         isCached: true
-  - title: "Snorkel AI looks beyond data labeling for generative AI"
-    excerpt: "Snorkel AI is announcing new capabilities that extend beyond data labeling to help organizations, curate and prepare data for Generative AI."
-    publishedDateTime: 2023-06-12T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/snorkel-ai-looks-beyond-data-labeling-for-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Roleverse empowers users to make their own games with generative AI"
     excerpt: "Roleverse is bringing the power of creation to all users by enabling them to create their own games using generative AI."
     publishedDateTime: 2023-06-16T13:30:00Z
@@ -274,15 +265,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Adobe to sell generative AI subscription with copyright assurance"
-    excerpt: "Business customers will be charged a flat-rate subscription for companywide access to new so-called generative AI tools across Adobe products."
-    publishedDateTime: 2023-06-12T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/adobe-to-sell-generative-ai-subscription-with-copyright-assurance/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
   - title: "Oracle to introduce cloud-based generative AI service"
     excerpt: "Oracle will soon be introducing a cloud-based generative AI service. The move was announced by CEO Larry Ellison during a call following the quarterly"
     publishedDateTime: 2023-06-13T11:35:00Z

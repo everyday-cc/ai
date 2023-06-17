@@ -25,52 +25,71 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Help Customer Experience Agents"
-    excerpt: "When reading recent AI headlines, many people may be afraid of AI or worried that it will render their day-to-day roles obsolete."
-    publishedDateTime: 2023-06-12T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/12/how-ai-can-help-customer-experience-agents/amp/"
+  - title: "How two founders approach building ethical AI startups in health care"
+    excerpt: "The hype around AI will produce a lot of startups built on shaky ethics. But founders already building in the space can offer some advice."
+    publishedDateTime: 2023-06-15T21:23:00Z
+    webUrl: "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63a465eb8717a0459e633478/0x0.jpg?format=jpg&width=1200"
-        width: 853
-        height: 568
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1474076387.jpg?resize=1200,768"
+        width: 1200
+        height: 768
         isCached: true
-  - title: "Artificial Intelligence can help with hearing loss"
-    excerpt: "McDonaldHearingServices.com For more information about the services McDonald Hearing Services offers, click here. Copyright 2023 Nexstar Media Inc. All rights reserved. This material may not be published,"
-    publishedDateTime: 2023-06-13T14:57:00Z
-    webUrl: "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/"
-    ampWebUrl: "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/"
-    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/"
+  - title: "The missing steps in the application of AI on remote health monitoring"
+    excerpt: "Remote health monitoring refers to the use of technology to monitor a patient's health remotely outside of traditional healthcare settings, utilising connected devices like wearable sensors."
+    publishedDateTime: 2023-06-12T15:07:00Z
+    webUrl: "https://www.ibtimes.co.uk/missing-steps-application-ai-remote-health-monitoring-1715990"
     type: article
     provider:
-      name: WOOD-TV
-      domain: woodtv.com
-    quality: 57
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
     images:
-      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/keenan.jpg?w=1280"
-        width: 800
-        height: 450
+      - url: "https://d.ibtimes.co.uk/en/full/1715715/digital-healthcare-smartwatch.jpg"
+        width: 2500
+        height: 1475
         isCached: true
-  - title: "How AI can have a tangible impact on healthcare"
-    excerpt: "AI and machine learning can help reduce medical errors, relieve administrative tasks, and reduce wait times for procedures in healthcare."
-    publishedDateTime: 2023-06-14T21:51:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-ai-can-have-a-tangible-impact-on-healthcare.html"
+  - title: "Mass layoffs are creating a new generation of founders building climate, health, and fintech startups"
+    excerpt: "Health and fintech are also popular. Ai-Ling Walker, a former creator success staffer at Patreon, is building the Noetic platform to help neurodiverse people receive a diagnosis. It took her five years to be diagnosed with ADHD, during which time she ..."
+    publishedDateTime: 2023-06-14T09:42:00Z
+    webUrl: "https://www.businessinsider.com/layoffs-spark-generation-technical-founders-climate-health-fintech-2023-6"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
+      - url: "https://i.insider.com/648881dc62d3f100199677a1?width=1200&format=jpeg"
+        width: 1200
         height: 600
         isCached: true
+  - title: "How 16 Vendors Are Helping Partners Build AI Businesses"
+    excerpt: "While several of these vendors have been offering AI products and services for years—such as Amazon Web Services, IBM, Google Cloud and Microsoft Azure, to name a few—demand for such technologies has reached new heights recently due to the hype ..."
+    publishedDateTime: 2023-06-15T20:40:00Z
+    webUrl: "https://www.crn.com/news/software/how-16-vendors-are-helping-partners-build-ai-businesses"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0281-1804c926faf8-92cd93414eca-1000/intelligent-data-mind.jpeg"
+        width: 611
+        height: 456
+        isCached: true
+  - title: "AMA delegates call for more oversight of AI in health care"
+    excerpt: "Critics deride Cook County Health as it spends millions creating its own medical research department and investigates the nonprofit managing its clinical trials. AMA House of Delegates will discuss and potentially vote on a wide range of policy proposals at the event in Chicago."
+    publishedDateTime: 2023-06-13T18:51:00Z
+    webUrl: "https://www.chicagobusiness.com/health-care/ai-healthcare-needs-more-oversight-ama-delegates-say"
+    type: article
+    provider:
+      name: Crain's Chicago Business
+      domain: chicagobusiness.com
+    quality: 19
 
 secured: "1qKHUM8xCpkGV+B/MoagFCuiu6xCCjvMq9PsGEdfilovfIE29tk57u8P8lc1UPWVswL3fvCkXpzuMx2Po+bFaV1dpanIPi/S+iu5aoa83KrjLumRRdYf1J7883ReX9qA/Wr7JAUAtBwngRlSz1eIDwnZKFNDFSUbylFA84MFj/+S3rJUIssTgxoDJVUHXn1EFr2HQJIfw9tzqVfsTCUdrwugTpfkUfPI279Rq6ukmXb6bSE0LeC3DuvVW9Qg8yNrZHkPDdiJi+B4VzYyRHZkwcRc9rLUj4x79jRSrRKDaEYNSVKrGZHFgvwnQtz0e3Fb2bRBsNnejDuimPd9wvMbifP97+rhfgLd5Aycf9IQvzyrkZZ0IdiEnj27KKFbYRzs6HULZmCZj+jAuxWoroELXRuIL/jMYQ3Pm2T9trRJfcPJN7LgNJDomrPd6FhFFJYlQQfy/YIAjAXJYGZlB8MGpBghI1VWz/UUa3XNvSUQ/2v2P+oAlD0z+GwM/MjVCE450puYminJ/zLUFLs1F6wPjg==;6sHNS9scTmWkn/xBXp0Pxw=="
 ---

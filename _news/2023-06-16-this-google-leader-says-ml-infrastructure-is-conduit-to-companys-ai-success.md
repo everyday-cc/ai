@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/this-google-leader-says-ml-infrastructu
 webUrl: "https://venturebeat.com/ai/this-google-leader-says-ml-infrastructure-is-conduit-to-companys-ai-success/"
 type: article
 quality: 82
-heat: 82
+heat: 85
 published: true
 
 provider:
