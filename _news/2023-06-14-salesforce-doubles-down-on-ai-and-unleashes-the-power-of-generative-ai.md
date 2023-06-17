@@ -24,275 +24,91 @@ images:
     isCached: true
 
 related:
-  - title: "5 ways to explore the use of generative AI at work"
-    excerpt: "ChatGPT and other generative AI tools have captured the public imagination. Here's how you can turn a much hyped tool into a productivity boon."
-    publishedDateTime: 2023-06-12T13:52:00Z
-    webUrl: "https://www.zdnet.com/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/6448985610910fb9c6027b90eaf317dac61b65da/2023/06/12/c6a475c6-2642-4195-b8e8-9aabbb64edee/gettyimages-1252207238.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Generative AI Will Unleash E-Commerce's Next Big Bang"
-    excerpt: "As the future of e-commerce unfolds, it is crucial for businesses to recognize the potential of generative AI and the brand-breaking approach."
-    publishedDateTime: 2023-06-14T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-generative-ai-will-unleash-e-commerces-next-big-bang/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-generative-ai-will-unleash-e-commerces-next-big-bang/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-generative-ai-will-unleash-e-commerces-next-big-bang/amp/"
+  - title: "AI Everywhere: Salesforce Unveils Its Vision Of The AI-First Enterprise"
+    excerpt: "All of this is part of a massive vision Salesforce is unveiling that deeply integrates generative AI into almost everything a company does, from sales to service to"
+    publishedDateTime: 2023-06-13T23:01:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64888186f992c59130f4b947/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6488f2ccaa9dbc12a1b12f50/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 691
         isCached: true
-  - title: "How can AI and machine learning improve the use of financial data"
-    excerpt: "How can AI and machine learning improve the use of financial data Businesses gather vast amounts of data every day. Yet between 60 and 73% of that data goes unused, according to Forrester. As a result,"
-    publishedDateTime: 2023-06-15T17:00:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/"
+  - title: "Salesforce Aims to Plug ‘AI Trust Gap’ With New Tech Tools"
+    excerpt: "The software giant says its new technology will help clients use generative AI tools such as ChatGPT safely by protecting proprietary data, among other things."
+    publishedDateTime: 2023-06-13T20:23:00Z
+    webUrl: "https://www.wsj.com/articles/salesforce-aims-to-plug-ai-trust-gap-with-new-tech-tools-19e11750"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 76
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "Reinventing the data experience: Use generative AI and modern data architecture to unlock insights"
-    excerpt: "Implementing a modern data architecture provides a scalable method to integrate data from disparate sources. By organizing data by business domains instead of infrastructure, each domain can choose tools that suit their needs. Organizations can maximize the value of their modern data architecture with"
-    publishedDateTime: 2023-06-13T17:18:47Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 75
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/generative-ai-modern-data-architecture.jpg"
-        width: 1021
-        height: 510
-        isCached: true
-  - title: "Rackspace takes a FAIR approach to generative AI"
-    excerpt: "Rackspace offers new services to help organizations better understand, build and deploy generative AI workloads in public and private clouds."
-    publishedDateTime: 2023-06-13T20:59:00Z
-    webUrl: "https://venturebeat.com/ai/rackspace-takes-a-fair-approach-to-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-527941127-e1686608448258.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-799829/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Navigating through the ethos and sophistication of Generative AI"
-    excerpt: "Generative AI has been the underpinning and steering factor as AI advances from auto-pilot mode to co-pilot mode. Now the new course—of fairness, equity, bias-free development, and deployment—will req"
-    publishedDateTime: 2023-06-13T09:31:00Z
-    webUrl: "https://www.forbesindia.com/article/iim-bangalore/navigating-through-the-ethos-and-sophistication-of-generative-ai/85691/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/iim-bangalore/navigating-through-the-ethos-and-sophistication-of-generative-ai/85691/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/iim-bangalore/navigating-through-the-ethos-and-sophistication-of-generative-ai/85691/1"
+  - title: "Salesforce launches AI Cloud with raft of generative AI tools"
+    excerpt: "Salesforce's ChatGPT-style tools are designed to provide customers with large language models integrated with the company's products."
+    publishedDateTime: 2023-06-12T18:31:00Z
+    webUrl: "https://www.techrepublic.com/article/salesforce-launches-ai-cloud-generative-ai-tools/"
     type: article
     provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 59
-    images:
-      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_210187_generativeai.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Adobe Proves Its Determination To Lead The New Era Of Generative AI"
-    excerpt: "When it comes to Azure, Microsoft is facing the same dilemma because Amazon.com Inc AMZN has a much bigger representative on this front, Amazon Web Services. Amazon also launched its own platform that allows building and scaling generative AI services ..."
-    publishedDateTime: 2023-06-16T14:52:00Z
-    webUrl: "https://www.benzinga.com/23/06/32894175/adobe-proves-its-determination-to-lead-the-new-era-of-generative-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32894175"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32894175"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/9067755.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Q&A: The future of work—how will AI and automation affect work?"
-    excerpt: "For decades, advances in technology have changed the ways people work, and now artificial intelligence could be the next big disruptor."
-    publishedDateTime: 2023-06-15T20:57:00Z
-    webUrl: "https://techxplore.com/news/2023-06-qa-future-workhow-ai-automation.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-qa-future-workhow-ai-automation.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-qa-future-workhow-ai-automation.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-4.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "8 Best AI Logo Generators You Should Use"
-    excerpt: "The AI market is rife with many different tools, and today, we have listed the best AI logo generators to create a identity for your brand."
-    publishedDateTime: 2023-06-16T08:38:00Z
-    webUrl: "https://beebom.com/best-ai-logo-generators/"
-    ampWebUrl: "https://beebom.com/best-ai-logo-generators/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/best-ai-logo-generators/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 57
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2023/06/Best-AI-Logo-Generators.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Elevating customer experience: The rise of generative AI and conversational data analytics"
-    excerpt: "As the digital-first business landscape becomes increasingly complex and fast-paced, generative AI is becoming an indispensable tool."
-    publishedDateTime: 2023-06-15T23:00:00Z
-    webUrl: "https://venturebeat.com/ai/the-future-of-personalization-how-generative-ai-is-elevating-customer-experiences/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/7.-Gen-AI-for-dynamic-offerings_FINAL_Mesa-de-trabajo-1-copia-4.jpg?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Tribe AI’s CEO on why generative AI is seeing more rapid uptake by enterprises than web3 and crypto"
-    excerpt: "The second one is continued specialization. AI is not a monolith, it’s not one thing. We’re seeing people start to specialize and focus and go deep on a specific use case or a specific industry. That’s where you’re going to see the most value ..."
-    publishedDateTime: 2023-06-16T17:40:00Z
-    webUrl: "https://venturebeat.com/ai/tribe-ais-ceo-on-why-generative-ai-is-seeing-more-rapid-uptake-by-enterprises-than-web3-and-crypto/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 55
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Jaclyn-headshot.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Generative AI's impact on chip industry and the upcoming growth cycle through 2024"
-    excerpt: "Generative AI is stealing the spotlight from all other tech products as ChatGPT accumulated 1 million users in just a few months, and now tech analysts from UBS Investment Bank released their latest estimates of its impact on the semiconductor industry business."
-    publishedDateTime: 2023-06-14T06:18:00Z
-    webUrl: "https://www.digitimes.com/news/a20230613VL214/east-asia-generative-ai-ic-manufacturing.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 48
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230613vl214_files/1_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
-  - title: "Roleverse empowers users to make their own games with generative AI"
-    excerpt: "Roleverse is bringing the power of creation to all users by enabling them to create their own games using generative AI."
-    publishedDateTime: 2023-06-16T13:30:00Z
-    webUrl: "https://venturebeat.com/games/roleverse-empowers-users-to-make-their-own-games-with-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 47
-  - title: "AI-generated images are everywhere. Here's how to spot them"
-    excerpt: "It's easy to be fooled by AI-generated images and other content. We talk about how to identify them, how media literacy can help, plus how to use these tools responsibly."
-    publishedDateTime: 2023-06-13T04:10:00Z
-    webUrl: "https://www.npr.org/2023/06/07/1180768459/how-to-identify-ai-generated-deepfake-images"
+  - title: "Salesforce AI Cloud Seeks To Combat ‘Trust Gap,’ Hallucinations"
+    excerpt: "Salesforce is also working on AI prompts to ground generated outputs and provide generated content without hallucinations, the term for when AI produces incorrect results despite the training data. Two AI Cloud features go into GA this month. One is Einstein GPT Trust Layer, which promises to prevent LLMs from retaining sensitive customer data."
+    publishedDateTime: 2023-06-13T13:55:00Z
+    webUrl: "https://www.crn.com/news/cloud/salesforce-ai-cloud-seeks-to-combat-trust-gap-hallucinations"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
+      name: CRN
+      domain: crn.com
     quality: 39
     images:
-      - url: "https://media.npr.org/assets/img/2023/06/08/detectingai_02_wide-490b899012edf8bee6419139f70e38d991cbd644-s1400-c100.jpg"
-        width: 1400
-        height: 787
+      - url: "https://www.crn.com/resources/0282-183f20e618a6-0da55896c868-1000/salesforce-einstein-1.jpeg"
+        width: 611
+        height: 459
         isCached: true
-  - title: "In Agriculture, Generative AI Use Cases Crop Up Bountifully"
-    excerpt: "Generative AI is finding multiple use cases in the Indian agricultural sector. Platforms like Kissan AI ( previously known as KissanGPT) have showcased the prowess of generative AI in agriculture."
-    publishedDateTime: 2023-06-13T09:24:00Z
-    webUrl: "https://analyticsindiamag.com/generative-ai-already-finding-multiple-use-cases-agriculture/"
+  - title: "Salesforce Ventures Doubles Down On AI Investments"
+    excerpt: "Three months after launching it, Salesforce Ventures announced it will double the size of its Generative AI Fund to $500 million."
+    publishedDateTime: 2023-06-12T16:52:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/salesforce-ventures-generative-ai/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/farmer-gpt.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
+        width: 900
+        height: 506
         isCached: true
-  - title: "ANALYSIS: Three Considerations for Attorneys Using Generative AI"
-    excerpt: "Although legal ethics rules don’t yet specifically address AI usage, they certainly still apply. For lawyers using AI in their practice, here are three considerations to ensure their ethical duties stay top of mind. A crucial preliminary step to using ..."
-    publishedDateTime: 2023-06-16T09:00:00Z
-    webUrl: "https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-three-considerations-for-attorneys-using-generative-ai"
+  - title: "Salesforce touts AI strategy, doubles investment in start-ups"
+    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI start-ups as the company banks on the emerging technology to help resuscitate sales growth."
+    publishedDateTime: 2023-06-12T19:19:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jun/12/salesforce-touts-ai-strategy-doubles-investment-in/"
     type: article
     provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/55d996e/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F91%2F2c%2F47ed98a84c8193856e370cff5f1b%2Fai-2.jpg"
-        width: 1920
-        height: 740
-        isCached: true
-  - title: "Oracle to introduce cloud-based generative AI service"
-    excerpt: "Oracle will soon be introducing a cloud-based generative AI service. The move was announced by CEO Larry Ellison during a call following the quarterly"
-    publishedDateTime: 2023-06-13T11:35:00Z
-    webUrl: "https://www.techzine.eu/news/applications/107393/oracle-to-introduce-cloud-based-generative-ai-service/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
+      name: The Spokesman-Review
+      domain: spokesman.com
     quality: 17
-  - title: "Generative AI is disrupting its own investment case"
-    excerpt: "The very pace of transformative technology makes it tougher for start-ups — and for existing investment portfolios"
-    publishedDateTime: 2023-06-15T12:32:00Z
-    webUrl: "https://www.ft.com/content/00f517b8-41e9-4405-9320-e0b19ac65e6b"
+  - title: "Salesforce introduces AI Cloud, announces $500Mn generative AI startup fund"
+    excerpt: "Salesforce introduces AI Cloud, integrating Einstein, Data Cloud, Tableau, Flow, and MuleSoft to boost productivity with generative AI capabilities."
+    publishedDateTime: 2023-06-12T18:18:00Z
+    webUrl: "https://thetechportal.com/2023/06/12/salesforce-introduces-ai-cloud-announces-500mn-generative-ai-startup-fund/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "Impact of generative AI on chatbots"
-    excerpt: "From cloud chaos to clarity.” Generative AI can enable chatbots to provide meaningful and relevant responses to users, but there are risks and challenges that must be considered when adopting it. Click here to continue."
-    publishedDateTime: 2023-06-15T13:05:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/15/1074743/impact-of-generative-ai-on-chatbots/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
-  - title: "BDO CANADA WORKING WITH TOP-TIER ENTERPRISE CLIENTS TO LEAD THE GENERATIVE AI INNOVATION FRONTIER"
-    excerpt: "CNW/ - Today BDO Canada announced a significant step forward in their collaboration with Microsoft through the utilization of Microsoft Azure OpenAI Servic"
-    publishedDateTime: 2023-06-14T11:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/14/9832308.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 15
 
 secured: "mdl87++OZj7JSj9AGclTRunr6hQ3UHpR6BOl1yTuRQEzsPyVMJo1sZ7dOltc1fhbbTZTF2deA9ut/QMrIEqnOqEAkM1xyYjg2xPURt2Sfz4SWr4wCT+FoJc5/eIMitTHW6LY4XJL32f4AXkweR3oxL7uLJ5ikjqOW82PzuAYG0jnIavrY5yWonffKLs/9vDBc+DuSPpYyqUS9VyPlU5p8IaZCQ6Et2xqOvv/7YPtxDnU2oTL77S6O2E3ZNyRrAQxbbJNFfk2PLehScGC0NGXyXuPylJ8KY/LlAgJnpqmvP7GixDoJgkQIXLzXV46c0t9fYn9B7MNXf5TFqgSpbsvLUD3vI5KFj/pCU6FnOpl8g4=;cqUqAdtyafxZv4mIFyzydA=="
 ---

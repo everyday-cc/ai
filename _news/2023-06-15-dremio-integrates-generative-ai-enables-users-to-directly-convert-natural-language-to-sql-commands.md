@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/06/15/9833462.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833462.htm"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Roleverse empowers users to make their own games with generative AI"
+    excerpt: "Roleverse is bringing the power of creation to all users by enabling them to create their own games using generative AI."
+    publishedDateTime: 2023-06-16T13:30:00Z
+    webUrl: "https://venturebeat.com/games/roleverse-empowers-users-to-make-their-own-games-with-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "H3HIBfJUKeKct5ZiQJTfFhbKnT4wCEk3TR2SPFRM1nwLYhqZ+8/9PdPoVKxtu+wRTsuGxlq3FgaILyLLlp0mu8lOyoRXLV72gAWmQbZw/dLsUg5e7hOE0hMHowITeEKr5Q7D0EB4icdPs4Iue2gaRPow4mfI8XiBN9ZgQg9RCqAG8qHz/N4iHwb+e9GjCLklbs5d2XwKvmaAD7GPypKMUjFE+u3B9pje28ekUKemjDOsh8f3/RT4n1SYTphUp0U3EJL+ssQpQW8mIkkIYP8y504npI1ZP9/gVwQBoUtXgD5CzNT421W0C6LxPGyHuTyWjN/R2cPvtnYKTgURa0Nt+1r92/yn7SLK88dT3ILU9ZM=;5cJLi4ZVR7wiajhWICTSeg=="
 ---

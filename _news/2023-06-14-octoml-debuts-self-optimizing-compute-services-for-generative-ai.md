@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-s
 webUrl: "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rackspace takes a FAIR approach to generative AI"
+    excerpt: "Rackspace offers new services to help organizations better understand, build and deploy generative AI workloads in public and private clouds."
+    publishedDateTime: 2023-06-13T20:59:00Z
+    webUrl: "https://venturebeat.com/ai/rackspace-takes-a-fair-approach-to-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-527941127-e1686608448258.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ServiceNow unveils Now Assist for Virtual Agent, a generative AI solution for self-service"
     excerpt: "This tool utilizes generative AI to deliver direct and contextually accurate responses to user inquiries for digital workflows."
     publishedDateTime: 2023-06-13T07:00:00Z

@@ -474,6 +474,40 @@
       ]
     },
     {
+      "path": "_news/2023-06-09-which-cars-have-self-driving-features.md",
+      "title": "Which Cars Have Self-Driving Features?",
+      "excerpt": "A self-driving car (sometimes called an autonomous car or driverless car) is a vehicle that uses a combination of sensors, cameras, radar, and artificial intelligence (AI) to travel between destinations without a human operator. Companies developing and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdpower.com/cars/shopping-guides/which-cars-have-self-driving-features",
+      "originalUrl": "https://www.jdpower.com/cars/shopping-guides/which-cars-have-self-driving-features",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jdpower",
+        "domain": "jdpower.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-teslas-ai-dreams-may-already-be-priced-into-stock.md",
       "title": "Tesla’s AI Dreams May Already Be Priced Into Stock",
       "excerpt": "After an 82% year-to-date rally, Tesla shares trade at about 61 times forward earnings, compared with the mid-to-high single-digit multiples of auto stalwarts General Motors Co. and Ford Motor Co. Even current AI darling Nvidia Corp. trades at only 42 times.",
@@ -1317,40 +1351,6 @@
       "provider": {
         "name": "Khaleej Times",
         "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-lawmakers-and-big-tech-clash-over-the-fate-of-self-driving-semitrucks-in-california.md",
-      "title": "Lawmakers and Big Tech clash over the fate of self-driving semitrucks in California",
-      "excerpt": "Let’s face it. There are a lot of people in Big Tech lobbying against this bill,” said Assemblywoman Cecilia Aguiar-Curry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modbee.com/news/california/article275831791.html",
-      "originalUrl": "https://www.modbee.com/news/california/article275831791.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.modbee.com/news/california/article275831791.html",
-      "cdnAmpWebUrl": "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/california/article275831791.html",
-      "publishedDateTime": "2023-05-31T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modesto Bee",
-        "domain": "modbee.com",
         "images": null,
         "publishers": null,
         "authors": null

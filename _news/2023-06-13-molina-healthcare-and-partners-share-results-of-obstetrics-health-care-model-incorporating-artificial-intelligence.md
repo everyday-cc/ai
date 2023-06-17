@@ -20,20 +20,15 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Determining AI’s Place in Healthcare Financial Management and Improving its Setbacks"
-    excerpt: "Highway to Health” host David Kemp, talks about expectations for the upcoming HFMA 2023 Annual Conference, and artificial intelligence’s (AI) usefulness in healthcare financial management."
-    publishedDateTime: 2023-06-15T23:37:00Z
-    webUrl: "https://marketscale.com/industries/health/determining-ais-place-in-healthcare-financial-management-and-improving-its-setbacks/"
+  - title: "Google's AI Revolutionizing Healthcare: Mayo Clinic Leaps Ahead With AI Chatbots!"
+    excerpt: "It sounds like a far-fetched reality, but the use of generative artificial intelligence (AI) in healthcare is developing at a rapid pace. The most recent development is Google Cloud's announcement that Mayo Clinic is using a new service — Enterprise ..."
+    publishedDateTime: 2023-06-14T19:26:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32862720/googles-ai-revolutionizing-healthcare-mayo-clinic-leaps-ahead-with-ai-chatbots"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 47
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/06/shutterstock_1044371023.jpg"
-        width: 1000
-        height: 563
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
 
 secured: "dQwIYfunIPHCuPSDL38RrWQH11CVHpMS/8Y4K7TY3pb2t+EEYdve69MPELcsBcCP9nS9/rFNah9t02TPDnfkMyA3q00k1stDa+L2tWUQgmpMGA4GCEmhnA92oy1CPzNEs/986/QWOOaSrKsR+QFXQ54U0vXP8/onmrxy1XzWW5SI75J4RE1LrlbCpY7BZd4V69atc8NCrTZA04w5WQK+YMmasDjxKHmWuyIJPgnDmd6UvJDglk7UGtPKSE13r2PqluyjwA+Mqzpkvqbr8aOWoHXof0LMZMoZvK54UvQ14g6kAyqbLzHpewuV9PbqsJwQwIHc4AzZ/F5ETZyvPiVX2+Y8R1KqFeU1mcf7qDeZfYY=;BXYR9Edlj1QCVMpCiTjm9w=="
 ---

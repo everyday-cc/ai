@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Generative AI's impact on chip industry and the upcoming growth cycle through 2024"
+    excerpt: "Generative AI is stealing the spotlight from all other tech products as ChatGPT accumulated 1 million users in just a few months, and now tech analysts from UBS Investment Bank released their latest estimates of its impact on the semiconductor industry business."
+    publishedDateTime: 2023-06-14T06:18:00Z
+    webUrl: "https://www.digitimes.com/news/a20230613VL214/east-asia-generative-ai-ic-manufacturing.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 48
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230613vl214_files/1_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
   - title: "This Is the Worst Part of the AI Hype Cycle"
     excerpt: "The reaction this elicited on WIRED Slack channels was somewhere between “cool” and “gross.” Using AI to resurrect Lennon for a new song has its appeal, but given the recent ethical questions around using the technology to make fake songs from artists like Drake and The Weeknd,"
     publishedDateTime: 2023-06-16T13:00:00Z
@@ -69,6 +83,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Impact of generative AI on chatbots"
+    excerpt: "From cloud chaos to clarity.” Generative AI can enable chatbots to provide meaningful and relevant responses to users, but there are risks and challenges that must be considered when adopting it. Click here to continue."
+    publishedDateTime: 2023-06-15T13:05:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/15/1074743/impact-of-generative-ai-on-chatbots/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "+rUbWVZpoi6L6VdXe6+TQTth6aA3CYOoaVa4iyRo/a2lExySPk4w+z+Ub7i8QTaqO8H6I/Lqz3AL4pzO9bHKr6CTB4Ev2lMUypwjAS5rB6zgD/Kq9mbK+ej4KkEYC7G2M99fgNRbU4RghY6hdBExAiUXUEqiF1ak1Cx4QdPw6fOKCc8xFSTyF3xKoU6zWgp7V2IsgN8zNblw9cWZxz+Uc9yJH4u7XZVQSz42ahglLyIeXyyWQkQcbTAqFD9TlbKl7/vgF6ShFumtesrEG9IWVWxw4opYtODpAEqxOqGuXsVcYPBCvj0+33rJteBw+j6G7pz6HWQl1UoEsw3/014aZ90ccrAJ1t3mRTg+xPc3s34=;q0DABg73BkEUjuVNklDLnQ=="
 ---

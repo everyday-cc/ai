@@ -113,15 +113,6 @@ related:
         width: 396
         height: 202
         isCached: true
-  - title: "What Could AI Replace In Your Company, And What Should You Keep Human?"
-    excerpt: "No topic is dominating current headlines more than artificial intelligence (AI). In the past month alone, we’ve questioned the ethics of AI-aided “overemployment,” been warned about questionable AI-run news websites and seen an influx of AI-generated ..."
-    publishedDateTime: 2023-06-12T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/12/what-could-ai-replace-in-your-company-and-what-should-you-keep-human/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Inside today’s AI-human rights hearing"
     excerpt: "A Senate Judiciary Committee panel on Tuesday holds a hearing on the impact of artificial intelligence on human rights."
     publishedDateTime: 2023-06-13T13:55:00Z

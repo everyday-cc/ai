@@ -68,6 +68,29 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Generative AI's impact on chip industry and the upcoming growth cycle through 2024"
+    excerpt: "Generative AI is stealing the spotlight from all other tech products as ChatGPT accumulated 1 million users in just a few months, and now tech analysts from UBS Investment Bank released their latest estimates of its impact on the semiconductor industry business."
+    publishedDateTime: 2023-06-14T06:18:00Z
+    webUrl: "https://www.digitimes.com/news/a20230613VL214/east-asia-generative-ai-ic-manufacturing.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 48
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230613vl214_files/1_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
+  - title: "Impact of generative AI on chatbots"
+    excerpt: "From cloud chaos to clarity.” Generative AI can enable chatbots to provide meaningful and relevant responses to users, but there are risks and challenges that must be considered when adopting it. Click here to continue."
+    publishedDateTime: 2023-06-15T13:05:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/15/1074743/impact-of-generative-ai-on-chatbots/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "KZNBj1iW9mteMdyoITbQF3dDjrNvVmbrMNo2hiUJuuKixewz2BR2NUGUxnBHt+AOykV8oK+bYlbAc1MRl/2VzbVRTWjKG7v0TH4//ovaGauLyWh2ckvS1hKk/yvNaICOKXcre3wCaupT/Q0CCi/JHtXjzN6KGk0bGIVGLqrCJnN72Q93fNDpXAyfibmDvglwI5NdNVSZ8KDqhn7p4HNZEoHd6923kHOpIXiFq36nHyJAO2T9wcmXTFTiVSu/P5Lk9zIbCnn3LlSYMnrhl+HHVyR+S1lRme+DEO00bLyNTPuhSwoFOtT3TqJFqiqKj52t600i1uT/nJAJE7xPzGaU5GSA4mTeQzzWr5GIYjJKhptpdFZyGsjL+yNqRU3gVXeMfyIVL/sthyP7CQLDmbAc25yzQXuSwo5TDIBpyBb81HDbVCbuC8yF6oVBOLbLXc+t0r2EoCA/NjRnpjPruj9fIsYWW/laC5P7P9nQcQCFjI0wR8N60vOakGIYeolTfri539AFFahF3N3AyMRaqcJGIQ==;gy14+qcvCL3gM1G5Ymsolw=="
 ---

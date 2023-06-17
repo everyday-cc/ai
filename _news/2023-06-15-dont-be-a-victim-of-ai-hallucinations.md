@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Navigating through the ethos and sophistication of Generative AI"
+    excerpt: "Generative AI has been the underpinning and steering factor as AI advances from auto-pilot mode to co-pilot mode. Now the new course—of fairness, equity, bias-free development, and deployment—will req"
+    publishedDateTime: 2023-06-13T09:31:00Z
+    webUrl: "https://www.forbesindia.com/article/iim-bangalore/navigating-through-the-ethos-and-sophistication-of-generative-ai/85691/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/iim-bangalore/navigating-through-the-ethos-and-sophistication-of-generative-ai/85691/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/iim-bangalore/navigating-through-the-ethos-and-sophistication-of-generative-ai/85691/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 59
+    images:
+      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_210187_generativeai.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "xhfxNRIJ0s6XvEAz0FQvqVJeXwY/oZc65BdxTYVM3x1dpuzRB4lsChM+Xbd7EyrjWuDiLU+Npu2etYoJ3CjXvFRj9OI8rNikgmxoO1KY1/VUXnKGdgesh/sVjk2b8eK4hHdQ6exKdOylNY//lZGlULUCw3oHf6+rSEQ6QRxSqU6i0IOC8r31zb+88WJKE+erjqquxTXKO4Ensd6oPprdJatkYRngbTEmpTqMUUNBDJipt42j6zthEh8GogiZOMvSOo+OKRH9luD9FnbtRfTpCmLFJz4CY5oxo6FNv0OdxBUbCxpm7bU7rVN3svhravjucT4RiQ50nJC1MxjaWu2G1Wxrb9LNnRXAq6PJBrGimPA=;XtFUEFmrKQwJ+G5q2v909Q=="
 ---

@@ -113,15 +113,6 @@ related:
         width: 396
         height: 202
         isCached: true
-  - title: "What Could AI Replace In Your Company, And What Should You Keep Human?"
-    excerpt: "No topic is dominating current headlines more than artificial intelligence (AI). In the past month alone, we’ve questioned the ethics of AI-aided “overemployment,” been warned about questionable AI-run news websites and seen an influx of AI-generated ..."
-    publishedDateTime: 2023-06-12T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/12/what-could-ai-replace-in-your-company-and-what-should-you-keep-human/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Artificial Intelligence and the Future of Jobs"
     excerpt: "The growth of artificial intelligence (AI) is driving fearful discussions around the disappearance of jobs and tasks that are traditionally done by humans. This has particularly impacted the working class,"
     publishedDateTime: 2023-06-16T11:33:00Z

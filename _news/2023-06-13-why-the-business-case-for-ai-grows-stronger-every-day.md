@@ -24,6 +24,17 @@ images:
     height: 375
     isCached: true
 
+related:
+  - title: "How AI Will Transform the Business Landscape"
+    excerpt: "Today, people interact with artificial intelligence (AI) on a daily basis without even realizing it. Think of something as simple as a chatbot on a random"
+    publishedDateTime: 2023-06-15T15:14:00Z
+    webUrl: "https://www.thestreet.com/csuiteadvisors/stories/yasuhide-matsumoto-how-ai-will-transform-the-business-landscape"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 21
+
 secured: "QkKiIBm2FmyuwNclAcoerQOwe0dbRCK+x5XJXVzeedZecr9BSDYp/XzMc+mgxiogP/6mTs/pXFG46/WZcjsSVAcaETaiZhZAYJcdwORg2q0j5AsebSihbvKTfEH8Aei5MhgwQo5gqq3Xk4mowhMLclSZ9DpLIJrXNcXyh/X1/5pN+XeZ8uC8jFybjtI0tV/slCClRzmR7YW4aOZtzGlyvIULw3SzQIBE7mvLEV0ro5YoaZWimw4QdlD/32n0rY/Llb6tDI3vsGhLClx+fFdS4NIstNBiILQTiU2wLDUnK7884EOxvuk3g0gIoRMinL85Ctdftv1Es6A3fsl4gs9d5qen5OOXaZm20dtkAS1/oXQ=;LWoNnjt0Fokepe3BC6+Juw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.wlrn.org/education/2023-06-12/university-of-florida-fl
 webUrl: "https://www.wlrn.org/education/2023-06-12/university-of-florida-florida-gulf-coast-university-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Florida universities are keeping an eye on AI"
-    excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology's power — and stave off the potential for academic malfeasance."
-    publishedDateTime: 2023-06-12T13:38:00Z
-    webUrl: "https://news.wjct.org/state-news/2023-06-12/florida-universities-are-keeping-an-eye-on-ai"
-    type: article
-    provider:
-      name: WJCT
-      domain: wjct.org
-    quality: 39
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/88845b8/2147483647/strip/true/crop/3889x2042+0+361/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fb6%2F31%2F9ee61b88403bb5044bd3aed326b5%2Fcentury-tower-fresh-take-florida-110221.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Florida universities study pros and cons of artificial intelligence"
-    excerpt: "As everyone knows, generative AI hallucinates. ChatGPT makes mistakes, it doesn’t give the right answers. It is subject to flights of fancy and depression.\""
-    publishedDateTime: 2023-06-12T13:55:00Z
-    webUrl: "https://www.cltampa.com/news/florida-universities-study-pros-and-cons-of-artificial-intelligence-15798704"
-    type: article
-    provider:
-      name: Creative Loafing Tampa
-      domain: cltampa.com
-    quality: 19
 
 secured: "wNarhR/1arpKM8PhBKtB+GFJjh6gccMhdYX7J/vZ4orAP0dcSL5GbWW/9Qn5mSmpGhIapfGeoQXvZ7WFNujEwg+HxjP2xJxXT9Fy9jwI5CkFiFzdtbvq6qNVvTI45ldTv4yOHpcSfgDXb+2spJYBAL5K3FZemW82qHlckZj2PokWZxRdl7nw5uogg/5ZuVcVfylZeG02vrgBqjwOKCJ93zVRxqN2/dUhg2Ry3mjF7uOVxQcNb2zfOCDk2j6vwJT+Yu8vr7pNpQ/MgElYEXgN5osZn35mDFmI/1gpbdciMkNdSkP11jv1Q0xadjjCgHdqBIV0FC6okG3YVvFAjF6TzXKBU+W6RgnqlL/dVC4dVEA=;8YZUpqUPWO80ZCHohkKBbA=="
 ---

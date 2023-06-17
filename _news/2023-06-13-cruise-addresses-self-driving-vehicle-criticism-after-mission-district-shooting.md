@@ -27,81 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Cops yell at stalled self-driving Cruise car to get out of the way during a mass shooting in San Francisco, video shows"
-    excerpt: "A Cruise self-driving taxi disrupted emergency crews at a mass shooting in San Francisco on Friday night, according to witnesses and videos."
-    publishedDateTime: 2023-06-12T14:03:00Z
-    webUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
+  - title: "Online, people claimed the self-driving vehicle blocked emergency responders. Police say it isn't true."
+    excerpt: "San Francisco police say a viral video that sparked condemnation of the city’s self-driving taxis may have been taken out of context and unfairly ignited a firestorm of controversy around the self-driving vehicles."
+    publishedDateTime: 2023-06-15T08:38:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/4424426/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/4424426/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/4424426/?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 43
     images:
-      - url: "https://i.insider.com/648721831eeec400193dd877?width=1200&format=jpeg"
+      - url: "https://media.nbcnewyork.com/2023/06/GettyImages-1497019980.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "AI is coming for jobs, but it might be San Francisco’s best hope"
-    excerpt: "Venture capitalists have funneled nearly $2 billion in San Francisco-based AI start-ups this year alone, a frenzy of activity that market researchers say could help usher in another tech boom for the beleaguered city, salvage its reputation as the ..."
-    publishedDateTime: 2023-06-15T11:02:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/06/15/ai-taking-jobs-san-francisco/"
+  - title: "Oracle trains generative AI to create model for medical, 1st responders"
+    excerpt: "Oracle and AI startup Cohere are partnering to develop generative AI services for healthcare, with Oracle using its own data to train Cohere for medical professionals."
+    publishedDateTime: 2023-06-14T14:48:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/oracle-trains-generative-ai-to-create-model-for-medical-1st-responders.html"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 37
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6Z4M76FEK26XEGV62AXIVRC6A.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
-    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
-    publishedDateTime: 2023-06-13T02:21:00Z
-    webUrl: "https://www.sacbee.com/news/california/article276329166.html"
-    ampWebUrl: "https://amp.sacbee.com/news/california/article276329166.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article276329166.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 18
-  - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
-    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
-    publishedDateTime: 2023-06-15T11:44:00Z
-    webUrl: "https://www.idahostatesman.com/news/nation-world/national/article276329166.html"
-    ampWebUrl: "https://amp.idahostatesman.com/news/nation-world/national/article276329166.html"
-    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/nation-world/national/article276329166.html"
-    type: article
-    provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
-    quality: 18
-  - title: "Self-driving car couldn’t avoid running over and killing dog in US street, reports say"
-    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said."
-    publishedDateTime: 2023-06-13T08:35:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/13/self-driving-car-couldnt-avoid-running-over-and-killing-dog-in-us-street-reports-say"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 16
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/13/2123763.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "San Francisco Officials Want to Put the Brakes on Self-Driving Taxis"
-    excerpt: "Local officials say autonomous cars are not yet safe enough to be permanently deployed across the entire city."
-    publishedDateTime: 2023-06-15T18:59:00Z
-    webUrl: "https://www.planetizen.com/news/2023/06/123985-san-francisco-officials-want-put-brakes-self-driving-taxis"
-    type: article
-    provider:
-      name: PLANetizen
-      domain: planetizen.com
-    quality: 4
 
 secured: "UEg7cwFya786o8deKAjFH0DTKBlEBd8pSIzlxAsf9nlRlGLJLHTBK3XszZFsFqWi+aZDk6kBdn7FiNRpd3JcA0UDOE7y+yum3JUcMKC+REXAeuA26Nuyv1dmzSTwPzHchzMfriROatf2yMWLKhR5/k3Gq9HPC1eFPqJFX9PlcbGiRiGY+cu1RDt+re9o+GrffhsOuChMq9rcPjC5g/vUY8bzFq+eciBrasSCa7aYjLn0iZmFv/rU16meoLTsekiihLOxicRl+BBimejHmAxI0mBLJuNwunC6RQlhOYD+uXijUkgSQHHiDjTZnlxDwZ7fbe1zUysoIVGqxWqSRyVm5bootnj6cEYoivBttsNcP84=;T6eO0amorLTc6vJ3zrlt8A=="
 ---

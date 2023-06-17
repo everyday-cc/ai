@@ -41,22 +41,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "Trailblazing AI Companies Headquartered in Singapore: Driving Innovation Forward"
-    excerpt: "Know about few of the best AI ventures utilizing power of AI for helping advancement of several other industries."
-    publishedDateTime: 2023-06-12T15:00:00Z
-    webUrl: "https://www.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
-    ampWebUrl: "https://amp.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/trailblazing-ai-companies-headquartered-singapore-driving-innovation-forward-70558"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 54
-    images:
-      - url: "https://data.ibtimes.sg/en/full/68201/ai-powered-comapnies.jpg"
-        width: 1275
-        height: 1263
-        isCached: true
   - title: "Lending A Helping Hand to Fintech Businesses"
     excerpt: "Demonetization acted as a catalyst in India to promote digital transactions which in turn accelerated the use of fintech platforms, including lending tech solutions as an alternative to cash-based transactions. Increase in Embedded Credit and AI-driven ..."
     publishedDateTime: 2023-06-15T14:30:00Z

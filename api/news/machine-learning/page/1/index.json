@@ -203,6 +203,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-16-how-can-ai-and-machine-learning-improve-the-use-of-financial-data.md",
+      "title": "How can AI and machine learning improve the use of financial data",
+      "excerpt": "How can AI and machine learning improve the use of financial data Businesses gather vast amounts of data every day. Yet between 60 and 73% of that data goes unused, according to Forrester. As a result,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/",
+      "originalUrl": "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/",
+      "publishedDateTime": "2023-06-15T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-how-machine-learning-and-location-data-are-disrupting-industries.md",
       "title": "How Machine Learning And Location Data Are Disrupting Industries",
       "excerpt": "Machine learning-powered location data intelligence is a powerful tool that can offer transformative benefits, but it needs to be used wisely and responsibly.",
@@ -459,7 +503,7 @@
       "originalUrl": "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 321,
+      "heat": 271,
       "tags": null,
       "images": [
         {
@@ -599,49 +643,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-why-use-python-for-ai-and-machine-learning.md",
-      "title": "Why Use Python for AI and Machine Learning?",
-      "excerpt": "1. Versatility: The extensive libraries of Python and its framework provide various tools for tasks like NLP, data manipulation, and Machine Learning. This usage flexibility gives the AI developers the leverage to integrate different components and develop an intricate AI system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning-11686566054332.html",
-      "originalUrl": "https://www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning-11686566054332.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/06/12/600x338/Screenshot_2023-06-12_160547_1686566275246_1686566280852.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning/amp-11686566054332.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning/amp-11686566054332.html",
-      "publishedDateTime": "2023-06-13T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

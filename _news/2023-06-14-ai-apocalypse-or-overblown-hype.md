@@ -9,7 +9,7 @@ ampWebUrl: "https://pursuit.unimelb.edu.au/articles/ai-apocalypse-or-overblown-h
 cdnAmpWebUrl: "https://pursuit-unimelb-edu-au.cdn.ampproject.org/c/s/pursuit.unimelb.edu.au/articles/ai-apocalypse-or-overblown-hype.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Are AI ETFs Worth the Hype?"
+    excerpt: "And the lack of consensus shows: the two largest AI ETFs, Global X Robotics & Artificial Intelligence ETF BOTZ and iShares Robotics and Artificial Intelligence Multisector ETF IRBO, focus more ..."
+    publishedDateTime: 2023-06-14T13:34:00Z
+    webUrl: "https://www.morningstar.com/etfs/are-ai-etfs-worth-hype"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 39
+    images:
+      - url: "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/KiAjhPgxvrVmiRZ-T63JBOTvjRI=/2500x1406/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/54RIEB5NTVG73FNGCTH6TGQMWU.png"
+        width: 2500
+        height: 1309
+        isCached: true
 
 secured: "0hnuoGtDzghOT7Mh2GsD7yvzDqoGQllBWroVc+t7oG4VTlO761G6KdsrSlV1FysUJ+58wlrDxHfoANzs9PCzcK8wkKYav0YLOfG4qNA2GyKdcT+NzWj6GK6POnZjFyAp80+ZGvVxaDJWYV6E06q08hJROqeScB1RUcfR+h1JGhQRy9Qy3f+qvc5btBWen0H4+RdWcpmWoJMTsmRdgT50IJIVkSE8waZJ94uEl1vzVNfmb7liwEIbOZJH02e+gTQKCOZ+TPRMNBwTF0BGfpTHXg6i5IKGc5fT6qUmShp/pTsw7Xo11sYdvxXgGG7DX9TI0OKLec5Pcr5MD+dYt8iAKoGzH9pvtZCYsmyYrZ77YyY=;K3WJm1B2EHDRqZDSiJpJVA=="
 ---

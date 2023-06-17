@@ -52,29 +52,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Salesforce announces AI Cloud to empower enterprises with trusted generative AI"
-    excerpt: "The new AI Cloud platform from Salesforce offers real-time generative AI capabilities easily incorporated into business operations."
-    publishedDateTime: 2023-06-12T14:52:00Z
-    webUrl: "https://venturebeat.com/ai/salesforce-announces-ai-cloud-to-empower-enterprises-with-trusted-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_marc_benioff_stands_below_a_puffy_glowing_blue_cloud_ra_0acbf8bf-d49f-4e8b-8bb0-7e63ea41c82e.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Salesforce pledges to invest $500M in generative AI startups"
-    excerpt: "Salesforce has announced that it has doubled the size of its Generative AI Fund for startups from $250 million to $500 million."
-    publishedDateTime: 2023-06-12T13:31:00Z
-    webUrl: "https://techcrunch.com/2023/06/12/salesforce-pledges-to-invest-500m-in-generative-ai-startups/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Salesforce AI Cloud Seeks To Combat ‘Trust Gap,’ Hallucinations"
     excerpt: "Salesforce is also working on AI prompts to ground generated outputs and provide generated content without hallucinations, the term for when AI produces incorrect results despite the training data. Two AI Cloud features go into GA this month. One is Einstein GPT Trust Layer, which promises to prevent LLMs from retaining sensitive customer data."
     publishedDateTime: 2023-06-13T13:55:00Z
@@ -102,6 +79,20 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "Salesforce doubles down on AI and unleashes the power of generative AI"
+    excerpt: "On AI Day, Salesforce unveils AI Cloud, GPT for Customer 360, and doubles Generative AI Fund to US$500M for responsible AI development."
+    publishedDateTime: 2023-06-14T05:54:00Z
+    webUrl: "https://techwireasia.com/2023/06/salesforce-doubles-down-on-ai-and-unleashes-the-power-of-generative-ai/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 37
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/13062023_Salesforce-doubles-down-on-AI-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Salesforce touts AI strategy, doubles investment in start-ups"
     excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI start-ups as the company banks on the emerging technology to help resuscitate sales growth."

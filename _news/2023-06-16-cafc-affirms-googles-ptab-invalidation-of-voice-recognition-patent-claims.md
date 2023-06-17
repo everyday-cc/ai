@@ -39,15 +39,6 @@ related:
         width: 8688
         height: 5792
         isCached: true
-  - title: "Google, Samsung Keep Voice-Recognition Patent Wins on Appeal (1)"
-    excerpt: "Google LLC, Samsung Electronics Co., and LG Electronics Inc. rightly convinced an administrative tribunal that parts of two voice-recognition patents are invalid, the Federal Circuit agreed Monday."
-    publishedDateTime: 2023-06-12T14:55:00Z
-    webUrl: "https://news.bloomberglaw.com/ip-law/google-samsung-keep-voice-recognition-patent-wins-on-appeal"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 4
 
 secured: "ZGq71iFVcrJNguPxlwIc8xMN+5EAPQwakxwj3pGuggqkswApUEuZjFaApfyty1/o+XFdUqFOhQlWul/uqiyDWzUFjeybAxY2g1XlHCdLLU2UUJQCMwbibkLkWSEKfMa3TiiwOfjVuEoxhB+NaNPXY7NKlO0pdWMXOF4dIDwBuWnBu5/Lsl0BA3EpTdXM4TmweUNRO6U4EAIn0j5v/Hchy9f8VSwDNUBhh33Ktn+dzamEf1lKaGp6jsF1RQ34Ka+LprUTBEYrHyTas2Ykzn0QPL7mSmMIIMXMxnofuJJKKaTs9Rowf+nJX+A0Yv9IVpHVV8wstQn5wwbFx6TfhqwTo0aaFXZzHNH6ZlMKKeft/ZOnESFMDiBcaYPI/CkvA97iSfPe6FyCd5y5TmCqyy2HP3apwk5M0OxiaXuLsGQfJKmjNB1irgKRI7MGvwHLGGOZEbWp2U/rHFrj3bY4hDv5vEG5GEoo8zY+lemUwrIFybThvKWeFkVk/RoqBgucGbJmmF4IoW6G+0hqq/H+TSlgyA==;rmGZ3neeii/FKxHZydjsGg=="
 ---

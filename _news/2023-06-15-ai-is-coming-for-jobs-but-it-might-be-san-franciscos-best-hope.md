@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2023/06/15/ai-taking-job
 webUrl: "https://www.washingtonpost.com/technology/2023/06/15/ai-taking-jobs-san-francisco/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,74 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cops yell at stalled self-driving Cruise car to get out of the way during a mass shooting in San Francisco, video shows"
-    excerpt: "A Cruise self-driving taxi disrupted emergency crews at a mass shooting in San Francisco on Friday night, according to witnesses and videos."
-    publishedDateTime: 2023-06-12T14:03:00Z
-    webUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: "https://i.insider.com/648721831eeec400193dd877?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Cruise addresses self-driving vehicle criticism after Mission District shooting"
-    excerpt: "A Cruise vehicle was spotted near the chaos of the emergency response to the Mission District mass shooting on Friday night, and the self-driving vehicle company spoke out about the incident on"
-    publishedDateTime: 2023-06-12T17:27:00Z
-    webUrl: "https://www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/"
-    ampWebUrl: "https://www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/amp/"
-    type: article
-    provider:
-      name: KRON4 News
-      domain: kron4.com
-    quality: 40
-    images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/04/6430125ed7ad11.41242738.jpeg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
-    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
-    publishedDateTime: 2023-06-13T02:21:00Z
-    webUrl: "https://www.sacbee.com/news/california/article276329166.html"
-    ampWebUrl: "https://amp.sacbee.com/news/california/article276329166.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article276329166.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 18
-  - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
-    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
-    publishedDateTime: 2023-06-15T11:44:00Z
-    webUrl: "https://www.idahostatesman.com/news/nation-world/national/article276329166.html"
-    ampWebUrl: "https://amp.idahostatesman.com/news/nation-world/national/article276329166.html"
-    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/nation-world/national/article276329166.html"
-    type: article
-    provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
-    quality: 18
-  - title: "Self-driving car couldn’t avoid running over and killing dog in US street, reports say"
-    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said."
-    publishedDateTime: 2023-06-13T08:35:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/13/self-driving-car-couldnt-avoid-running-over-and-killing-dog-in-us-street-reports-say"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 16
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/13/2123763.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "San Francisco Officials Want to Put the Brakes on Self-Driving Taxis"
     excerpt: "Local officials say autonomous cars are not yet safe enough to be permanently deployed across the entire city."
     publishedDateTime: 2023-06-15T18:59:00Z

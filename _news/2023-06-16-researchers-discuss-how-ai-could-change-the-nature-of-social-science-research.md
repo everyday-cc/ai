@@ -29,14 +29,14 @@ related:
   - title: "Researchers build working robot based on AI’s design"
     excerpt: "Researchers have built an \"actually useful\" working robot based on a design dreamt up by AI. Teams at TU Delft and Swiss technical university EPFL tasked artificial intelligence tool ChatGPT to help with food production."
     publishedDateTime: 2023-06-17T00:00:00Z
-    webUrl: "https://www.ktbs.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_a9ba5f52-949d-5479-aa07-1ba1a6e7f89a.html"
+    webUrl: "https://www.nbcrightnow.com/national/researchers-build-working-robot-based-on-ai-s-design/article_67835f8f-d5e6-5923-bc65-0dd3546531a1.html"
     type: article
     provider:
-      name: KTBS
-      domain: ktbs.com
+      name: NBC Right Now
+      domain: nbcrightnow.com
     quality: 54
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/2/e2/2e23c03c-ff54-5a8b-9e65-6720bd7c24a0/648c98bc9dc23.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/nbcrightnow.com/content/tncms/assets/v3/editorial/4/d4/4d480188-c66f-5c34-9111-2b23fa1489e5/648c990f67f7a.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

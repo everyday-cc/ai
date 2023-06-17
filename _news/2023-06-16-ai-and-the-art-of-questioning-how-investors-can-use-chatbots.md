@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How to chat with ChatGPT right on your Apple Watch. Meet Petey AI"
-    excerpt: "With Petey on your iPhone or Apple Watch, you can type, tap, or speak your requests and then carry on a conversation. The chat not only appears on the screen but can be spoken aloud. You can even share the chat with someone else via email, text message, or social media app."
-    publishedDateTime: 2023-06-12T14:30:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-chat-with-chatgpt-right-on-your-apple-watch-meet-petey-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/2e7df5b35202c121fb5859af4251df29c49a76f8/2023/06/07/32d4f646-aba1-4462-a3cc-7afacc424c11/figure-top-how-to-chat-with-the-petey-ai-chatbot-on-your-iphone-and-apple-watch.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Europe plans to put guardrails on ChatGPT and other AI apps"
     excerpt: "The European Union has taken the first steps towards regulating AI, with its parliament voting to put restrictions on systems such as ChatGPT."
     publishedDateTime: 2023-06-14T11:44:00Z
@@ -189,34 +173,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "The ChatGPT-Fueled AI Gold Rush: How Solution Providers Are Cashing In"
-    excerpt: "Some forward-thinking solution providers have spent years building artificial intelligence practices, and today their bets are paying off as businesses rush to figure out how to take advantage of generative AI."
-    publishedDateTime: 2023-06-12T14:00:00Z
-    webUrl: "https://www.crn.com/news/software/the-chatgpt-fueled-ai-gold-rush-how-solution-providers-are-cashing-in"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 43
-    images:
-      - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
-        width: 611
-        height: 458
-        isCached: true
-  - title: "ChatGPT in Tesla: Here’s what Elon Musk has to say"
-    excerpt: "Here’s a little background information for those unaware of the history behind Musk and OpenAI—the open-source platform that developed ChatGPT."
-    publishedDateTime: 2023-06-12T13:44:00Z
-    webUrl: "https://yourstory.com/2023/05/chatgpt-in-tesla-heres-what-elon-musk-has-to-say"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/large-1684301392916.jpeg?fm=png&auto=format"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Samsung Is Developing In-House AI Service Amid ChatGPT Ban"
     excerpt: "Samsung Electronics is set to develop its own AI service for data retrieval, document translation, and word processing."
     publishedDateTime: 2023-06-12T15:57:00Z
@@ -259,17 +215,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "How ChatGPT’s Sam Altman stormed U.S. Congress to set the AI agenda"
-    excerpt: "The chief executive of OpenAI, which makes ChatGPT, has met with at least 100 U.S. lawmakers in recent months. He has also taken his show abroad."
-    publishedDateTime: 2023-06-12T14:00:00Z
-    webUrl: "https://www.seattletimes.com/business/how-chatgpts-sam-altman-stormed-u-s-congress-to-set-the-ai-agenda/"
-    ampWebUrl: "https://www.seattletimes.com/business/how-chatgpts-sam-altman-stormed-u-s-congress-to-set-the-ai-agenda/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/how-chatgpts-sam-altman-stormed-u-s-congress-to-set-the-ai-agenda/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "AI ChatGPT Responds to UN’s Proposed Code of Conduct to Monitor Artificial Intelligence"
     excerpt: "As artificial intelligence (AI) turns into a global phenomenon, it has triggered widespread speculation on both its positive and negative consequences. Is AI technology threatening to go wild? the sceptics question."
     publishedDateTime: 2023-06-16T18:29:00Z
@@ -320,15 +265,6 @@ related:
       name: The Bulletin
       domain: norwichbulletin.com
     quality: 16
-  - title: "Using AI doesn't have to be difficult. These ChatGPT tips can simplify your lifestyle"
-    excerpt: "To start a new thread, click on the \"New Chat\" button at the top ... new prompts is to search the Internet or social media for your specific interests (ex: AI prompts for marketing). It’s important to understand that ChatGPT does not have direct access ..."
-    publishedDateTime: 2023-06-12T13:11:00Z
-    webUrl: "https://www.azcentral.com/story/money/business/tech/2023/06/12/simple-tips-to-effectively-use-chatgpt/70308241007/"
-    type: article
-    provider:
-      name: AZ Central
-      domain: azcentral.com
-    quality: 10
 
 secured: "aiic/QZRG08bL5oo9GN7KlHo8Gw3fCEhZWIkaDcYA6uhR/Vhl4K6n0TTqkNiKSTQwqD1jAky8tSTUj5+VCW0BEqLLYwGxHKFYOlMF3TzW8VCaUzPT+SHo+DIc5JJ2bPUbxa4zVZ0yoJF7PmTq55knk3GzaRdr0PuyoRuQAVYj4X1JpBTLz8U8p1YG0+tmXneTyZT+wwyHqtNGiBbVYFC384/Tg5/HRChvd+1+6QV0Yj3HLHAaJkQxaL5T/+WQTVfyWre7HUW3vRWmmc6qpBudba1Ibf45OycYaozktyfKEdpZP14hcbb+VXJuZIaaXZK5d9h3oCB1JTjAOSAYzS7Y1kpwYXkiIupY4gOAR1MjD8=;j1tn1t1Z2gHIfBRSuT+SEQ=="
 ---
