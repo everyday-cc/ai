@@ -171,20 +171,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 54
-  - title: "Samsung Electronics Supplants ChatGPT With Proprietary AI Due to Security Concerns"
-    excerpt: "Samsung Electronics is moving away from the use of ChatGPT, citing security issues, and developing its in-house artificial intelligence (AI) to assist employees with tasks such as translation, knowledge search,"
-    publishedDateTime: 2023-06-12T07:25:00Z
-    webUrl: "https://www.econotimes.com/Samsung-Electronics-to-Launch-Own-AI-for-Employees-Replacing-ChatGPT-over-Security-Concerns-1657654"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 52
-    images:
-      - url: "https://f1.econotimes.com/2023/06/0713js8rfc_th_1024x0.jpeg"
-        width: 1024
-        height: 680
-        isCached: true
   - title: "Even Google is warning its employees about AI chatbot use"
     excerpt: "Anything you say to an AI chatbot like ChatGPT, Google Bard, and Bing Chat can be used to train it, as these bots are based on large language models (LLMs) that are in constant training. The companies behind these AI chatbots also store the data, which could be visible to their employees."
     publishedDateTime: 2023-06-16T18:57:00Z

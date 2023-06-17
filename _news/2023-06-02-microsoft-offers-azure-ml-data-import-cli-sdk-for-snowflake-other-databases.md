@@ -2,23 +2,14 @@
 category: news
 title: "Microsoft offers Azure ML data import CLI, SDK for Snowflake, other databases"
 excerpt: "The new integration, which is in public preview, is designed to bring data into Azure’s ML service from data repositories outside the Azure platform."
-publishedDateTime: 2023-06-01T17:06:00Z
-originalUrl: "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html"
-webUrl: "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html"
-ampWebUrl: "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html"
+publishedDateTime: 2023-06-02T00:44:00Z
+originalUrl: "https://www.reseller.co.nz/article/707450/microsoft-offers-azure-ml-data-import-cli-sdk-snowflake-other-databases/"
+webUrl: "https://www.reseller.co.nz/article/707450/microsoft-offers-azure-ml-data-import-cli-sdk-snowflake-other-databases/"
 type: article
-quality: 118
-heat: 138
-published: true
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - Microsoft AI
@@ -26,45 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://images.idgesg.net/images/article/2017/08/5_microsoft-azure-100733132-large.jpg?auto=webp&quality=85,70"
-    width: 700
-    height: 467
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/microsoft_headquarters_by_efes_kitap_cc0_via_pixabay_1200x800-100766833-orig-100916747-orig_2.jpgautowebp8570"
+    width: 472
+    height: 315
     isCached: true
 
-related:
-  - title: "Microsoft’s AI-powered Designer tool comes to Teams"
-    excerpt: "Designer, Microsoft’s AI-powered art-generating tool, is coming to the free version of Teams. Starting today in preview on Windows 11, Microsoft Teams users can tap Designer, a Canva-like app, to generate designs for presentations,"
-    publishedDateTime: 2023-06-01T15:45:00Z
-    webUrl: "https://techcrunch.com/2023/06/01/microsofts-ai-powered-designer-tool-comes-to-teams/"
-    ampWebUrl: "https://techcrunch.com/2023/06/01/microsofts-ai-powered-designer-tool-comes-to-teams/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/01/microsofts-ai-powered-designer-tool-comes-to-teams/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Using Innovation To Expand Microsoft’s Markets"
-    excerpt: "Learn how Chris Capossela, Microsoft’s Executive Vice President and Chief Marketing Officer is helping the company realize the full market potential the shift to cloud infrastructure, the future of work,"
-    publishedDateTime: 2023-06-02T00:24:00Z
-    webUrl: "https://www.forbes.com/sites/stephendiorio/2023/06/01/using-innovation-to-expand-microsofts-markets/"
-    ampWebUrl: "https://www.forbes.com/sites/stephendiorio/2023/06/01/using-innovation-to-expand-microsofts-markets/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2023/06/01/using-innovation-to-expand-microsofts-markets/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647901c847b2a3e2ed11cc53/0x0.jpg?format=jpg&crop=5000,2342,x0,y284,safe&width=1200"
-        width: 1200
-        height: 562
-        isCached: true
-
-secured: "k+KA18rkCV6FMbDvm5llCiMvDllF7QD/1OvTypqRyldNXnqyysCXqGxAvbMO6waW0sm2ccXPly9a6gp4zZs/5oOV1bwYCG95OTLZtzdFPuYcPgKZJjdVujIca0eC18hlT5jaDU241Ny3eDC2Czy1ioGtdy3vQKIFnR8hHazZT1RRu0zB+Bmx+CAxc9PD0en013oxkeosyu0acYrR0lSMbIi5+pLgwGcjndJBD2CnXgxLn+cWxU65iNSsZZR+xeRGTkF7c6seku5R0dxvuW5SVD5yV8QgKaXiJYYN6ylWtiPV75nb/g7bFwggrzdeC2u3AFX6u3MopgsVwWHnAulebCMmbu1srPYXewsDVifejUShD+oCyvw7nvsBV6O1pqYKMLJp0ggFSblJUE8oF6QzztPbi2YqXYyG7L9MSa2x29wwCI5nore9idPAfITRi6cKEXHYaLZ0lqeeCqL/MjPkr8FOUFx1wtmupHw2HSpWxOD43gjX2PromBP6z7r4aTGPJC8XMaKGoLszbpGm1rk6qQ==;eEA8EGNw/F/y7yLeJ5+PHw=="
+secured: "RuggKyV9v69k+bmzAepIWuxf6zuP5ZSSMWYZbjbBW2/xXhDwVA4oXrz2G4xL5RdoxiPYpjyukmYX7j5GOIPEn29ESq82uybb+2npxMrFTGEMPYyo7QWcDJwH1NfXPdfdyPqD3QekFGq01DM3XHBUKdWsRG8VyBcwTC7yLfCdlChkAisxoh+vOgafZjfrAj8wDlly/8GDmd/5s623aO9a6xMTtc1bieobImtl7XzTi21MvNuCWiYSqGxRhfPq63Drayov3AsEpQPs8DSa7smCrDNh3EM74VTeY8URxGmE4IhFoePQLhuj6OLK5ELH266ve9RNYu77TVanVmRiT7DNGuSEZZL4EJd5A5P8m2eHSNY=;yNyaDlIOnUNWkoyvFkqnIw=="
 ---
 

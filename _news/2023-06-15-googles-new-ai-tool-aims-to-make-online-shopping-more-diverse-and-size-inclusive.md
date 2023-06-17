@@ -73,6 +73,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Google’s new AI-powered search tools are not coming for anyone’s job"
+    excerpt: "Google is adding new capabilities to its AI-powered search (aka SGE), but it's still a far cry from the usefulness of a standard search."
+    publishedDateTime: 2023-06-17T00:42:00Z
+    webUrl: "https://bgr.com/tech/googles-new-ai-powered-search-tools-are-not-coming-for-anyones-job/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/Google-Search-AI-Speakers.jpg?quality=82&strip=all"
+        width: 1492
+        height: 877
+        isCached: true
 
 secured: "Z+zaFp8l9BfD3Bf0ysZZ22CUl43lM5witEnv0/qP4QX+P7Z8Oihwf4xU4iOrb4ItLQI1GO7Q1XoVJlT03+ZT366+Aox0mb+hUFHdmpamQNqBAnWNRa5bCAj4QJ6EFvjL3rHofxsTREau/P4ZmUbpRK7BnUEkzD3wcJe6uUYWm1kEx1eQvh5ih+U6QYjJdr5SpKV4daeIocfpuZcDBWs2Hs2LR2DpUwfbou+j7zk9/d8tRKySnY+sxv++XoYnJVT3dJJzVFzMk39HYK9SKD50Egav+/w1G5kRli5zb0XNTcVxOCXkZ7FEjOMLqxdmKr2p93jYWeTBlDSlvzBr/jsRBkfaQ6RmuOaZ+w6GnhgKQJjZ3Dt9z7h39qZ22TSlz7BmDoECf0MIlSTBd7LVM+jqwHXAP1GA8Vp0HHKt2O/voLcQxji/RlZ1e2nzdpguoTcLtMTRmqbUFW/wApbauDz+PbbR5dTOGJORLRgHTP43a35qEJiR8zGR8tc0WnUo1HuEFHn3fDxlxBEIpeHoksoTjA==;b+VJr0oscVpqOMlJWI1u/g=="
 ---

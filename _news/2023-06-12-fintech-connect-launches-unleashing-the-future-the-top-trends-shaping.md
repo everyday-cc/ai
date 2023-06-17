@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Provenir Launches New Podcast Series on the Future of Fintech"
-    excerpt: "The podcast series features one-on-one interviews with thought leaders and innovators from the financial services industry. Hosted by regional Provenir leaders, the podcast explores what's next in fintech,"
-    publishedDateTime: 2023-06-14T15:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-provenir-launches-new-podcast-series-the-future-fintech-/2023/06/14/9832620.htm"
+  - title: "Visions for the Future: How the Apple Vision Pro Could Herald a New Era for Fintech"
+    excerpt: "Fintech is an industry continually taking finance to new heights with its dedication to digital transformation and innovations geared toward disrupting traditional sector processes. With the recent launch of Apple’s flagship Vision Pro mixed reality headset, we may soon see another technology driving growth in fintech."
+    publishedDateTime: 2023-06-16T09:58:00Z
+    webUrl: "https://www.finextra.com/blogposting/24390/visions-for-the-future-how-the-apple-vision-pro-could-herald-a-new-era-for-fintech"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
+      name: Finextra
+      domain: finextra.com
+    quality: 18
+    images:
+      - url: "https://i.ibb.co/gWrpkgx/VR.png"
+        width: 639
+        height: 420
+        isCached: true
 
 secured: "WlAYJUaxeUN6BbFuAnIdauvfIwx1kCajse9/CN4RfnrdKbyWfCjS1KzP/a5JsOx0DP5ikT8+zoVO7IfPgXMUmFknaLOlkNWLMgCdPy9YwRFPdu/gvjHM8PeVawVsZcTLqazqggd/aLDUNBK48YT0/se9wUhuW0EDi2S2u5tUpSsJ/f96TaZ0o032Mglg0k9pjvJIE6nYWG2dVWBfp9BW1PMBGPJdYfp81s7Ijc+hB7Ari2tg7xxiRg8W9UF/XmhhAPosIr9BCjulXbGyKb1lmUThRIeHj62/rxs6Ak7WIoVhfmG1qs0jjV4rluWvOn4/JxN3led4ngOJmt+RovTu37TyArj0I+MNHxfO+5flRvYFRfJeIDrjYGDJFQZH9FMmGDYwwU1HTf58BzmZpqLLtNBT6shd9GW0ySNyVT8Ywzmhm5maqHOajT7cnBOdEzQjablY6UO28DAZFrw+2pYmjgJf4vFhyhgGF9+sKRqP/iP2ZBG6kblSe3dL+MJONsoklSUNlMyxHMwyAFAw6CqiRw==;9wfmFXay/s0QYEYC3ktXOA=="
 ---

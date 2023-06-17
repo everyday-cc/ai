@@ -69,6 +69,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Google’s new AI-powered search tools are not coming for anyone’s job"
+    excerpt: "Google is adding new capabilities to its AI-powered search (aka SGE), but it's still a far cry from the usefulness of a standard search."
+    publishedDateTime: 2023-06-17T00:42:00Z
+    webUrl: "https://bgr.com/tech/googles-new-ai-powered-search-tools-are-not-coming-for-anyones-job/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/Google-Search-AI-Speakers.jpg?quality=82&strip=all"
+        width: 1492
+        height: 877
+        isCached: true
   - title: "Google's new AI tool aims to make online shopping more diverse and size-inclusive"
     excerpt: "Cher's virtual closet in the 1995 film classic Clueless is one of the most coveted futuristic tech suggestions of the pre-Y2K era. It's also the closest comparison Google has for its latest virtual try-on tool,"
     publishedDateTime: 2023-06-14T19:08:00Z

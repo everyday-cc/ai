@@ -71,6 +71,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "AI chatbots lose money every time you use them. That is a problem."
+    excerpt: "Tech is not your friend. We are. Sign up for The Tech Friend newsletter. Their expense, and the limited availability of the computer chips they require, are also constraining which companies can ..."
+    publishedDateTime: 2023-06-13T23:33:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/06/05/chatgpt-hidden-cost-gpu-compute/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VJWEWCXV3MI63EMNAESXFVSJGA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Chatbots in the Workplace: Usage Policies and Practical Considerations Related to Artificial Intelligence"
     excerpt: "The increasing prevalence of artificial intelligence (AI) tools and, in particular, generative AI, is creating more reason for employers to adopt workplace policies that communicate to employees whether the use of these applications is appropriate and any ..."
     publishedDateTime: 2023-06-14T20:49:00Z

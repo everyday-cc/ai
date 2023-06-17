@@ -167,20 +167,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 54
-  - title: "Samsung Electronics Supplants ChatGPT With Proprietary AI Due to Security Concerns"
-    excerpt: "Samsung Electronics is moving away from the use of ChatGPT, citing security issues, and developing its in-house artificial intelligence (AI) to assist employees with tasks such as translation, knowledge search,"
-    publishedDateTime: 2023-06-12T07:25:00Z
-    webUrl: "https://www.econotimes.com/Samsung-Electronics-to-Launch-Own-AI-for-Employees-Replacing-ChatGPT-over-Security-Concerns-1657654"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 52
-    images:
-      - url: "https://f1.econotimes.com/2023/06/0713js8rfc_th_1024x0.jpeg"
-        width: 1024
-        height: 680
-        isCached: true
   - title: "Even Google is warning its employees about AI chatbot use"
     excerpt: "Anything you say to an AI chatbot like ChatGPT, Google Bard, and Bing Chat can be used to train it, as these bots are based on large language models (LLMs) that are in constant training. The companies behind these AI chatbots also store the data, which could be visible to their employees."
     publishedDateTime: 2023-06-16T18:57:00Z
@@ -347,6 +333,6 @@ related:
       domain: azcentral.com
     quality: 10
 
-secured: "AMwDIsNuM/B5JRacDbTIEAhjWklCR+9UBf6VyQIBP1RyBfPoukSIVbLgSszQRGRXiZIHJg7MsjDO+7Xfszq1qmwFPV9xWNRsMtBFc5D+/nnR/Q+CRRRnVspHO4rEAlDIyhnCynsSNx54qv4zo8/lTkPfpOMQJUF92blhIBsq+AS21YkPDJiw5VRjPsWwDjZ1yToEbVtKAdACBGyYV31HcfETDpF6jV8FPBEGIQc5P+B7HYtX0WGBFOy3mleQ3qnVbjqHXp8vVtiBJEVUFAsT/YJYh7bzAUKmpAr44DTRmNJJKJFXeoY3MkY15yi5rEszWxdTBD57mUhftT+AR5BOR9/gGo2eIet0Su0a23mtP/U=;xhT+PWuyN5nIWgH85euozA=="
+secured: "fSYBIBUSU4PTvKfo8+e+2/wjE2OrK7SW6diqcqwU+e5/wTHgbVADQ1hBxLSham8AuqMflXQqGUE62CVjBAuzF10No4x1uSeJkx7Up88bNkOKvcDUietBZFA9eBHiRdDrJDanxTA9Gu67Wq7hmHpYJIoXzD4jX2V6C4VcVOOi0iYKMtaTLbPbcOWK1pb1NjC1uan47myWLbuANJXR0GMNIV4+xEFH8Ilqb7ZvxO0RBYoomdBmJ2sk0DPiJMaBRs9rc9w35eh7tBHLt0timXNcWSxR8JcqN3FdcN29kYNlavF9sMQFsVT0Wjzik8wAT/lDP1ADgaRMJ9LZq/DFMJi8zJV1leLv3E0T3BaqzQ6//8WWMVqW4w5iBPfupiNH8P1QxJjBA8cSG0NHe09EBag6C8BgaKePmkUJul3LkA0QPcaNzcLOJcHyHWPuJ/qIfTaG8hQ9S57hn0mRJ9yZpUbtePwfH5nac+HA0Vj2tltRSO8AYRVJ45U5Y7pJwCNZ8ECYW0m3f7anAaocNvfCqic64g==;QhIy8n4zVYE7CLg+9/7pJg=="
 ---
 

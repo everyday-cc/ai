@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "FinTech Connect Launches “Unleashing the Future: The Top Trends Shaping..."
-    excerpt: "FinTech Connect North America 2023, the only dedicated fintech event for the entire ecosystem, today released its 2023 Benchmark report, Unleashing the Future: The Top Trends Shaping Fintech in 2023,"
-    publishedDateTime: 2023-06-12T10:24:00Z
-    webUrl: "https://financialit.net/news/fintech-startups/fintech-connect-launches-unleashing-future-top-trends-shaping-fintech-2023"
+  - title: "Join the Fintech Revolution With These 3 Fintech Companies!"
+    excerpt: "Real-time index price for TSX Global Base Metals Index (TXBM), along with buy or sell indicators, analysis, charts, historical performance, news and more"
+    publishedDateTime: 2023-06-13T10:01:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/TXBM/pressreleases/17663728/join-the-fintech-revolution-with-these-3-fintech-companies/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 22
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 24
     images:
-      - url: "https://financialit.net/sites/default/files/fintech_connect_4.png"
-        width: 1366
-        height: 768
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/73ed88fc281332c45d8bd1029529595d/yyzzuhq2manbfxbtnn_cna5zgbkviqlieo-gnw6v4kcwrfomq4wmlforj7qszabuq27ahl3ts64ysxab-0qxunpr11p94jr4wabov4fvojk-zwrt4qaj1__koh6kmwvoujq8xhjsobcszggciup6vuy"
+        width: 863
+        height: 402
         isCached: true
 
 secured: "KdgFqYkLRasH5mVwYv1Io6EnSdtEXF/u5AF5kIahD1/OvGv2l8iLq4LGYXKgbW+Z5moKk/wimpZxGYz43FSXKfi1V0OtAIKjPAXZh+/9ha8b9sERzotOt6KUGp+a1sR3mZ/ABS35mRcWSMNbF8BVI687Nh75GFAKeJKcOPRT0QFHwafUMRcuO51gdLntihWSyMZOR9wKAHsqO/5wVN0nyNfASrnJJFpOF8iMKvsa9vWEXzXzcZNVtC5pkHspokYjAplsziN3/qGrWWO4nuzthtRbRRJnvEXTQJUNK/nthHkxrJKgwURpj847gdLIEwgZPELic5O0izn8sCVUTXE6Pa9Rt/RY03Rz0IG9+hFgN3E=;C9Am/PxlZ0GHclMEh6/vdw=="

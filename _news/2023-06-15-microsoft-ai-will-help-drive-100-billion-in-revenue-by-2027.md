@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -120,20 +120,6 @@ related:
     quality: 69
     images:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/unnamed-19.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft Teams up With Indian SMBs to Unleash Generative AI Brilliance"
-    excerpt: "According to Microsoft research, almost 35% of SMBs surveyed were spending over 10% of their revenue on technology. Not only this, SMBs in India are also exploring leveraging the capabilities of Generative AI."
-    publishedDateTime: 2023-06-12T07:37:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-teams-up-with-indian-smbs-to-unleash-generative-ai-brilliance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/profile.jpg"
         width: 1920
         height: 1080
         isCached: true

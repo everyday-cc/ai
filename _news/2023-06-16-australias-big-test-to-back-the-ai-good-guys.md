@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 714
         isCached: true
+  - title: "Australia: Regulating AI – Emerging Issues"
+    excerpt: "Amid global calls for tailored regulation of artificial intelligence tools, the Australian Federal Government has released a discussion paper on the safe and responsible use of AI.&nbsp"
+    publishedDateTime: 2023-06-16T00:00:00Z
+    webUrl: "https://www.natlawreview.com/article/australia-regulating-ai-emerging-issues"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/42266/AI_Artificial_Intelligence_Robot_SMALL_0.jpg?itok=YCCxEg_3"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "EZ32HflszuqF5ZMsmZmhYZeFoqGE1UL4ADuh5MhtnCptfhFju78rpo/Lk+/ylpSEw60EbhS21267Rn6S6YLkEv2nHlnuUh1395omq5VVtrY7ElDzxFw/rNdagToPnl5mu0PrT1Oq/4NsZ7TF0Aa8GYJ6bVO7aBrL+93eczAiF2O3yTQVcMnbiwULZYktuQVaVG9ndsZ2nTI6UADtk0YqjyF/9lmCwOGUBSOYuEikKGpwzvS6GPFVHHsOUGnBymiQ9GfkbsrQXMiJwzTKoXHEmXAPNkDQH/mov5M1UUBnnrWtTiLgESsN0wfhf7dxVuJQv1f1inoNoF8mwNgsYJYCQ5SmYpE8ZGzJi6GoiEKWBwI=;q6zmHta0YhAAAzChz64zdg=="
 ---

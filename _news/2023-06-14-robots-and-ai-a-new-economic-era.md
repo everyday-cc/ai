@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robots and AI: A new economic era"
+    excerpt: "But soon many articles and most — if not all — goods and services will be produced, operated and delivered by robots and AI. Robots and AI will change not only the way we work, but also the way we live."
+    publishedDateTime: 2023-06-17T01:04:00Z
+    webUrl: "https://www.manilatimes.net/2023/06/17/opinion/columns/robots-and-ai-a-new-economic-era/1896427"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 54
+    images:
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/06/17/205184.jpg"
+        width: 1200
+        height: 979
+        isCached: true
 
 secured: "/oVCV6S5wRC4dBnF6iCg74jrq8HLrUdqxFxLC9H5YlkkN62s9UetZP9F8inBDC2tYsYRNb+qvT+h+0CSnYgxLWsgAQY8lBs2f1qz8KOFxwTrMXNXVLpW35+ysTErbA4MK/pIqcMtW9aeH4Xw6sdYPe3xfWF6VbhYL9+BePL8L6SkW/2sAMzpIkVtrwUSRrpxd6KI5agWEXcIuUd3yyeI+M/eCE0HOMF0+EUORUS3GwzR1XAjDozLsV5lEoCsvN0jlLUGWM7LXAo3K4ptQcJlOc1EHCw8CGVXl940P/rODhURDyzTrv2ufLEYCly+93wnJmGoSAi+EpSDKgUamdO95ctyYI1Own8yeBAhfQ4ZZkRgdFCiMr19Xak7D4BRvrEmHrx5A+RtcCog6IIOILQJg4am78Wm8r2IfGlCdDT2gsWxqWTzNJJMISmx+fJTRSxKBLDuMhwT23RBQTl5l9vnPG4GEwtLUOKLFM2nFgNROELrEtgOlQfThyM2b6RAjJbotXZHtTI35U8eREMibg/mJw==;8QkCWR9lyL01j48qDgz/aQ=="
 ---

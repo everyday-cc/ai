@@ -41,22 +41,6 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "Meta Open Sources An AI-Powered Music Generator"
-    excerpt: "Meta has released its own AI-powered music generator - and, unlike Google, open-sourced it, TechCrunch reported. Called MusicGen, Meta’s music-generating"
-    publishedDateTime: 2023-06-13T03:27:00Z
-    webUrl: "https://geeknewscentral.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/"
-    ampWebUrl: "https://geeknewscentral.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
-    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
-    type: article
-    provider:
-      name: Geek News Central
-      domain: geeknewscentral.com
-    quality: 59
-    images:
-      - url: "https://geeknewscentral.com/wp-content/uploads/2023/06/Meta-logo-2023.png"
-        width: 670
-        height: 224
-        isCached: true
   - title: "Introducing MusicGen: Meta Unveils Revolutionary AI Music Generator"
     excerpt: "Meta, the social media giant formerly known as Facebook, has recently launched their groundbreaking AI-powered music generator"
     publishedDateTime: 2023-06-13T14:02:00Z

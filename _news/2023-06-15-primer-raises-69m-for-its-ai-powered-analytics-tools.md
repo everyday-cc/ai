@@ -18,14 +18,39 @@ topics:
   - AI
 
 related:
-  - title: "BBVA uses AI and analytics services from AWS"
-    excerpt: "BBVA invests in Amazon Web Services cloud platforms to help transform itself into an organisation driven by AI and data."
-    publishedDateTime: 2023-06-16T07:59:00Z
-    webUrl: "https://www.computerweekly.com/news/366541809/BBVA-uses-AI-and-analytics-services-from-AWS"
+  - title: "Hybrid AI-powered computer vision combines physics and big data"
+    excerpt: "Researchers have laid out a new approach to enhance artificial intelligence-powered computer vision technologies by adding physics-based awareness to data-driven techniques. The study offered an overview of a hybrid methodology designed to improve how AI ..."
+    publishedDateTime: 2023-06-14T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/06/230614220605.htm"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
+  - title: "Meta Open Sources An AI-Powered Music Generator"
+    excerpt: "Meta has released its own AI-powered music generator - and, unlike Google, open-sourced it, TechCrunch reported. Called MusicGen, Meta’s music-generating"
+    publishedDateTime: 2023-06-13T03:27:00Z
+    webUrl: "https://geeknewscentral.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/"
+    ampWebUrl: "https://geeknewscentral.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
+    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
+    type: article
+    provider:
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 59
+    images:
+      - url: "https://geeknewscentral.com/wp-content/uploads/2023/06/Meta-logo-2023.png"
+        width: 670
+        height: 224
+        isCached: true
+  - title: "Hybrid AI-powered computer vision combines physics and big data"
+    excerpt: "Researchers from UCLA and the United States Army Research Laboratory have laid out a new approach to enhance artificial intelligence-powered computer vision technologies by adding physics-based awareness to data-driven techniques."
+    publishedDateTime: 2023-06-14T18:46:00Z
+    webUrl: "https://techxplore.com/news/2023-06-hybrid-ai-powered-vision-combines-physics.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
     quality: 34
 
 secured: "sfZ5WB643czfn3J+Ls7V6kMfwd87bPNXARkjCVTVyBkypSoo6HXOY5I1HPBhG71WunCCt9pPcTAbJDRifAZxbsnRaDRVVtnyR4mwFWBFVI347WNMUJaUaGirRg7spB8QXASb4kLCZjhptxtSBbujQRfd+qFjgdW1DQChS4cF/LirF+bOTLG3hBAj+QGAQedHINsFF+RcoY2SdX5uytK4+3ThgWdbh0782C5yKkbHpVEu2DpCzk7Xc8B4t1zMjfTolFpvsGPDELhk5xXBl+nZAtkpcAZp8MWYvWVkmfRQ2H9G77cQOHrzy9J3ZONdPuM2iszg1snz6m5Xv1LX37IkHSjvoPXzk7bTg4Y+XjbnKtgIjgyD/8pwnV9ZxzXF4dZVAfifuXKipaCQZ9WUidEflVHT0HbcLEQqPbeZHN2YcP3oNddORQutUB/N7bycAbsu3gxmCs3HAXoOXAQvixiYrFvWg68CGOvx2+GFDLhwnEF+vHK+lTdw3tGt6p6plVWBND2w9OIHsTMMvIS9AMoNag==;3qmNKov7y7QgZY/SgDzz9w=="

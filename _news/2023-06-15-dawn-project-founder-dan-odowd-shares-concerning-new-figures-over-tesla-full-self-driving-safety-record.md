@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla Won’t Pilot Full Self-Driving Function in Shanghai, Source Says"
-    excerpt: "US electric carmaker Tesla will not pilot its Full Self-Driving Capability function in Shanghai, a source at Tesla China told Shanghai Securities News. A recent rumor on Chinese social media claimed that Tesla’s FSD would be available in some areas of China,"
-    publishedDateTime: 2023-06-12T07:35:00Z
-    webUrl: "https://www.yicaiglobal.com/news/20230612-10-tesla-wont-pilot-full-self-driving-function-in-shanghai-source-says"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 54
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/06/25142668994245.jpg"
-        width: 770
-        height: 510
-        isCached: true
   - title: "XPeng Stock Rises. The Tesla Rival Rolled Out Self-Driving Tech."
     excerpt: "XPeng is the first company to roll out an advanced driver-assistance system in Beijing after it was approved for use on major ring roads and expressways in the capital city."
     publishedDateTime: 2023-06-15T12:47:00Z

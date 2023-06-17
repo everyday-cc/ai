@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-launches-musicg
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748"
 type: article
 quality: 59
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Open Sources An AI-Powered Music Generator"
-    excerpt: "Meta has released its own AI-powered music generator - and, unlike Google, open-sourced it, TechCrunch reported. Called MusicGen, Meta’s music-generating"
-    publishedDateTime: 2023-06-13T03:27:00Z
-    webUrl: "https://geeknewscentral.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/"
-    ampWebUrl: "https://geeknewscentral.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
-    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
-    type: article
-    provider:
-      name: Geek News Central
-      domain: geeknewscentral.com
-    quality: 59
-    images:
-      - url: "https://geeknewscentral.com/wp-content/uploads/2023/06/Meta-logo-2023.png"
-        width: 670
-        height: 224
-        isCached: true
   - title: "Meta’s new MusicGen AI was trained on 20k hours of (licensed) music"
     excerpt: "If you’re a music industry exec wanting a bracing start to your week, look no further than the latest musical AI model… built by Meta."
     publishedDateTime: 2023-06-12T11:19:00Z

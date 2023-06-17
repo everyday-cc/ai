@@ -133,20 +133,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft Teams up With Indian SMBs to Unleash Generative AI Brilliance"
-    excerpt: "According to Microsoft research, almost 35% of SMBs surveyed were spending over 10% of their revenue on technology. Not only this, SMBs in India are also exploring leveraging the capabilities of Generative AI."
-    publishedDateTime: 2023-06-12T07:37:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-teams-up-with-indian-smbs-to-unleash-generative-ai-brilliance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/profile.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "A Game-Changer for Microsoft: $10 Billion in Annual AI Revenue Sparks Stock Surge"
     excerpt: "Microsoft’s stock soared to new heights on Thursday following positive endorsements from JPMorgan Chase analysts regarding the company’s prospects in the field of artificial intelligence (AI). Closing at $348."
     publishedDateTime: 2023-06-16T15:21:00Z

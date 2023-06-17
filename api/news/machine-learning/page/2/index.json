@@ -111,17 +111,17 @@
       "title": "Microsoft offers Azure ML data import CLI, SDK for Snowflake, other databases",
       "excerpt": "The new integration, which is in public preview, is designed to bring data into Azure’s ML service from data repositories outside the Azure platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
-      "originalUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
+      "webUrl": "https://www.reseller.co.nz/article/707450/microsoft-offers-azure-ml-data-import-cli-sdk-snowflake-other-databases/",
+      "originalUrl": "https://www.reseller.co.nz/article/707450/microsoft-offers-azure-ml-data-import-cli-sdk-snowflake-other-databases/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/article/2017/08/5_microsoft-azure-100733132-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 467,
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/microsoft_headquarters_by_efes_kitap_cc0_via_pixabay_1200x800-100766833-orig-100916747-orig_2.jpgautowebp8570",
+          "width": 472,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -129,23 +129,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "publishedDateTime": "2023-06-01T10:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T17:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
         "publishers": null,
         "authors": null
       },

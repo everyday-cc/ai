@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-dri
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Won’t Pilot Full Self-Driving Function in Shanghai, Source Says"
-    excerpt: "US electric carmaker Tesla will not pilot its Full Self-Driving Capability function in Shanghai, a source at Tesla China told Shanghai Securities News. A recent rumor on Chinese social media claimed that Tesla’s FSD would be available in some areas of China,"
-    publishedDateTime: 2023-06-12T07:35:00Z
-    webUrl: "https://www.yicaiglobal.com/news/20230612-10-tesla-wont-pilot-full-self-driving-function-in-shanghai-source-says"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 54
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/06/25142668994245.jpg"
-        width: 770
-        height: 510
-        isCached: true
   - title: "Dawn Project Founder Dan O'Dowd shares concerning new figures over Tesla Full Self-Driving safety record"
     excerpt: "It was recently revealed that Tesla's Full Self-Driving and Autopilot software has been involved in 736 crashes since 2019, according to analysis of National Highway"
     publishedDateTime: 2023-06-15T10:41:00Z

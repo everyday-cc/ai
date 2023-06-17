@@ -97,7 +97,7 @@
       "originalUrl": "https://www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -119,6 +119,58 @@
         "name": "manilatimes",
         "domain": "manilatimes.net",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-venture-capitals-ai-run-lettuce-farms-start-to-go-bust.md",
+      "title": "Venture Capital’s AI-Run Lettuce Farms Start to Go Bust",
+      "excerpt": "The pitch for vertical farming had all the promise of a modern venture capital dream: a new way to grow crops that would use robots and artificial intelligence to conserve water, combat food insecurity and save the environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-16/venture-capital-s-ai-run-lettuce-farms-are-starting-to-go-bust",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-16/venture-capital-s-ai-run-lettuce-farms-are-starting-to-go-bust",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.oWmx9lxOeo/v3/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1359,58 +1411,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-04-droneos-how-to-take-control-of-the-countrys-growing-robot-army.md",
-      "title": "DroneOS: How To Take Control Of The Country's Growing Robot Army",
-      "excerpt": "The Pentagon wants to build a robot army. Nelson Paez of DreamHammer hopes to make it as easy to operate as possible. The Pentagon has a big command-and-control problem. Not insubordination among ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/",
-      "originalUrl": "https://www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/blogs-images/thumbnails/blog_1016/pt_1016_14198_o.jpg?format=jpg&width=1200",
-          "width": 320,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kashmirhill/2012/05/17/droneos-dreamhammers-plans-to-take-control-of-the-countrys-growing-robot-army/amp/",
-      "publishedDateTime": "2023-06-03T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

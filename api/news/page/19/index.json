@@ -2,38 +2,29 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2023-06-02-microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.md",
-      "title": "Microsoft offers Azure ML data import CLI, SDK for Snowflake, other databases",
-      "excerpt": "The new integration, which is in public preview, is designed to bring data into Azure’s ML service from data repositories outside the Azure platform.",
+      "path": "_news/2023-06-02-artificial-intelligence-ai-in-finance.md",
+      "title": "Artificial Intelligence (AI) in Finance",
+      "excerpt": "Artificial intelligence is poised to reshape the finance industry, yet finance companies face numerous concerns about this emerging technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
-      "originalUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
+      "webUrl": "https://www.eweek.com/artificial-intelligence/artificial-intelligence-finance/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/artificial-intelligence-finance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 99,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/08/5_microsoft-azure-100733132-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "publishedDateTime": "2023-06-01T10:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T11:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
+        "name": "eWeek",
+        "domain": "eweek.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI",
-        "Machine Learning"
+        "AI in Finance"
       ]
     },
     {

@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI chatbots lose money every time you use them. That is a problem."
+    excerpt: "Tech is not your friend. We are. Sign up for The Tech Friend newsletter. Their expense, and the limited availability of the computer chips they require, are also constraining which companies can ..."
+    publishedDateTime: 2023-06-13T23:33:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/06/05/chatgpt-hidden-cost-gpu-compute/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VJWEWCXV3MI63EMNAESXFVSJGA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "A chatbot that’s cautious about GPT, AI pronouncements, and a VC looks to Israel"
     excerpt: "In the latest edition of STAT's Health Tech newsletter: a chatbot that's cautious about GPT, a string of AI announcements, and a VC looks to Israel."
     publishedDateTime: 2023-06-15T20:41:00Z

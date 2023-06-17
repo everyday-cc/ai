@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-05-31-translate-documents-in-real-time-with-amazon-translate.md",
-      "title": "Translate documents in real time with Amazon Translate",
-      "excerpt": "A critical component of business success is the ability to connect with customers. Businesses today want to connect with their customers by offering their content across multiple languages in real time. For most customers, the content creation process is disconnected from the localization effort of translating",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-documents-in-real-time-with-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-documents-in-real-time-with-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/31/real-time-document-translation.png",
-          "width": 1020,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T13:30:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-05-31-scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances.md",
       "title": "Scale your machine learning workloads on Amazon ECS powered by AWS Trainium instances",
       "excerpt": "Running machine learning (ML) workloads with containers is becoming a common practice. Containers can fully encapsulate not just your training code, but the entire dependency stack down to the hardware libraries and drivers. What you get is an ML development environment that is consistent and portable.",
@@ -1300,6 +1247,40 @@
       "provider": {
         "name": "Science News",
         "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-can-competition-elevate-deep-giants-wr-room-with-no-obvious-no-1.md",
+      "title": "Can competition elevate deep Giants WR room with no obvious No. 1?",
+      "excerpt": "Saquon Barkley won’t be at the Giants’ first open OTA practice on Thursday and likely not at any other practice until he receives a new contract. So while Daniel Jones’ top running back ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/sports/football/giants/ny-otas-wide-receiver-competition-20230524-shfuc72elfhgblatrqbsffpj7m-story.html",
+      "originalUrl": "https://www.nydailynews.com/sports/football/giants/ny-otas-wide-receiver-competition-20230524-shfuc72elfhgblatrqbsffpj7m-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
         "images": null,
         "publishers": null,
         "authors": null

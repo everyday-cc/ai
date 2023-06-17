@@ -836,7 +836,7 @@
       "originalUrl": "https://www.ibm.com/blog/introducing-anycloud-backup-365/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1115,50 +1115,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-15-bbfc-aws-collaborate-on-ai-project.md",
-      "title": "BBFC, AWS collaborate on AI project",
-      "excerpt": "The formation of the BBFC’s AI Ethics Committee is a clear step in the BBFC’s ongoing commitment to establish policies and procedures concerning AI ethics, and we are pleased to contribute to those activities. We look forward to continuing to share our ...",
-      "sourceUrl": null,
-      "webUrl": "https://advanced-television.com/2023/06/15/bbfc-aws-collaborate-on-ai-project/",
-      "originalUrl": "https://advanced-television.com/2023/06/15/bbfc-aws-collaborate-on-ai-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://advanced-television.com/wp-content/uploads/2019/03/BBFCNetflix-e1686820237688.png",
-          "width": 666,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Advanced Television",
-        "domain": "advanced-television.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-15-tesla-rival-xpeng-rolls-out-self-driving-tech-in-beijing-the-stock-is-rising.md",
       "title": "Tesla Rival XPeng Rolls Out Self-Driving Tech in Beijing. The Stock Is Rising.",
       "excerpt": "It’s the first company to roll out an advanced driver-assistance system (ADAS) in Beijing, after it was approved for use on major ring roads and expressways in the capital city.",
@@ -1250,6 +1206,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-when-ai-overrules-the-nurses-caring-for-you.md",
+      "title": "When AI Overrules the Nurses Caring for You",
+      "excerpt": "Artificial intelligence raises difficult questions about who makes the call in a health crisis: the human or the machine?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe",
+      "originalUrl": "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-799675/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

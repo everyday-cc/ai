@@ -93,20 +93,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "MAS Now Accepting Applications for AI-Focused Global Fintech Hackcelerator 2023"
-    excerpt: "MAS launched the Global Fintech Hackcelerator where finalists will pitch their solutions during Demo Day at the Singapore Fintech Festival."
-    publishedDateTime: 2023-06-12T08:04:00Z
-    webUrl: "https://fintechnews.sg/75043/singapore-fintech-festival-2023/mas-now-accepting-applications-for-ai-focused-global-fintech-hackcelerator-2023/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 35
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/MAS-Now-Accepting-Applications-for-AI-Focused-Global-Fintech-Hackcelerator-2023.png?x22319"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "3 Fintech Stocks With High Potential for Growth"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The financial technology (fintech) industry continues to reshape the landscape"
     publishedDateTime: 2023-06-14T17:31:00Z

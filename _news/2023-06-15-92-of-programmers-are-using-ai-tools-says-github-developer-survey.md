@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/github-developer-survey-fin
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/github-developer-survey-finds-92-of-programmers-using-ai-tools/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

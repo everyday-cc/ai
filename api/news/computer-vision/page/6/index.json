@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-06-ai-company-harvested-billions-of-facebook-photos-for-a-facial-recognition-database-it-sold-to-police.md",
+      "title": "AI company harvested billions of Facebook photos for a facial recognition database it sold to police",
+      "excerpt": "Artificial intelligence is having a cultural moment ... scraped from social media platforms like Facebook and provided them to U.S. law enforcement. The CEO also said that the database has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.salon.com/2023/04/06/ai-company-harvested-billions-of-facebook-photos-for-a-facial-recognition-database-it-sold-to-police/",
+      "originalUrl": "https://www.salon.com/2023/04/06/ai-company-harvested-billions-of-facebook-photos-for-a-facial-recognition-database-it-sold-to-police/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2019/01/facial-recognition2.jpg",
+          "width": 1200,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-meta-unveils-ai-model-for-object-detection-and-largest-dataset-of-its-kind.md",
       "title": "Meta unveils AI model for object detection and largest dataset of its kind",
       "excerpt": "Meta has announced the release of an artificial intelligence model that is capable of identifying specific objects within an image. Alongside the model, Meta has also published a dataset of image ...",
