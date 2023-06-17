@@ -68,15 +68,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "U.S. Cyber Envoy Warns That European AI Rules Could Stymie Sector"
-    excerpt: "If more nimble regulation were adopted, ‘little Silicon Valleys’ could sprout across the democracies of Europe, says Nathaniel Fick, whose comments come amid rising tensions with China."
-    publishedDateTime: 2023-06-12T18:24:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-cyber-envoy-warns-that-european-ai-rules-could-stymie-sector-a78cca83"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "Four-week-old AI start-up raises record €105mn in European push"
     excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105mn in Europe’s largest-ever seed round."
     publishedDateTime: 2023-06-13T16:00:00Z

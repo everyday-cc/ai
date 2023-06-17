@@ -27,22 +27,6 @@ images:
     height: 1439
     isCached: true
 
-related:
-  - title: "Machine-learning method used for self-driving cars could improve lives of type-1 diabetes patients"
-    excerpt: "Type 1 diabetes is one of the most prevalent auto-immune conditions in the UK and is characterised by an insufficiency of the hormone insulin, which is responsible for blood glucose regulation. Many factors affect a person’s blood glucose and therefore it can be a challenging and burdensome task to select the correct insulin dose for a given scenario."
-    publishedDateTime: 2023-06-17T09:29:00Z
-    webUrl: "https://robohub.org/machine-learning-method-used-for-self-driving-cars-could-improve-lives-of-type-1-diabetes-patients/"
-    type: article
-    provider:
-      name: Robohub
-      domain: robohub.org
-    quality: 10
-    images:
-      - url: "https://robohub.org/wp-content/uploads/2023/06/T1D-article-425x283.jpg"
-        width: 425
-        height: 283
-        isCached: true
-
 secured: "Q/cO2UPM3hcBiWxzi6uIbKqMVfmjxXdbaCjQZtwBtJV1gPuJjHQ+jaL0lnm+uq/6a3RV6vjkDT+jFf9fuwWNSpLDjQO697vM3OGexxOasuCPCMvvy4g1qacZVo3JKqjLlWxmelMOOCM6OIRSjz2mcT+H3bE2VDRkI95ts4T2EyoUbSRazYBhRRXk6tf8rWFgT7Xp2WweGr5W1Da6NifFnS58BKfb1nP/2VrZHVbZ4kClzkIvstP242c/v7uJnmH1CfZieyKYFV71UcFbIp/L36UWCQokgG5fyENfLHFeR4Y7mvKVggx1GNi+/30tpKZX2ZPmgtOgbIOhMpRsWBtTeLKSsXvlyICOOYKEpr4Vfo+yEkV+WXmf2r3Nd9UMm+1uK1EIGgBwX57p0m7KCYTUThkh6zlXI1DaxFS+2O7OLPk+INOtmdXYxxizOjhekuH1zYNcfI04t3Gztxe02xBGcI9lkRkge+Qx7CurhRuq3h+yxB0ngbSUFtKhUYidV0DvPcTDpS86CfKG5uXgeCZz+Q==;XTarNIWGzcg5o05Vzg1PEg=="
 ---
 

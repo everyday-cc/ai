@@ -1,22 +1,28 @@
 ---
 category: news
 title: "BBVA Selects AWS to Accelerate Its Data-Driven Transformation"
-excerpt: "BBVA will leverage a broad portfolio of AWS analytics and AI services across its operations and create a new data platform that will be deployed globally, delivering a secure repository of BBVA's operations and customer data."
-publishedDateTime: 2023-06-15T11:24:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/06/15/9833207.htm"
-webUrl: "https://it.tmcnet.com/news/2023/06/15/9833207.htm"
+excerpt: "(NASDAQ: AMZN), today announced that Banco Bilbao Vizcaya Argentaria, S.A. (BBVA), a global banking leader, will use AWS to deliver advanced analytics and data services in the cloud, taking a decisive step in its data and artificial intelligence (AI) transformation process."
+publishedDateTime: 2023-06-15T09:44:00Z
+originalUrl: "https://www.kentuckytoday.com/news/business/bbva-selects-aws-to-accelerate-its-data-driven-transformation/article_9f2c17f0-a860-5fed-9d55-e1c4312e9348.html"
+webUrl: "https://www.kentuckytoday.com/news/business/bbva-selects-aws-to-accelerate-its-data-driven-transformation/article_9f2c17f0-a860-5fed-9d55-e1c4312e9348.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Kentucky Today
+  domain: kentuckytoday.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Amazon’s AWS Cuts Ties With Triumph Adds BBVA & Veriff"
@@ -43,6 +49,6 @@ related:
         height: 270
         isCached: true
 
-secured: "u1IHeth7NV8C7vHwYePCJNUx+6cFzEQbci50W3psatTv8Ck9XApi7KLKkWt9v3zRym0517X2AUfBqIUT14u+khMbahHZeM0Ty6o+rh6RZ1EHgY+pcra5+BcvAatGE374D9ni3DIzbzpmgE7Vo4KP05HZAUcuLuHCyqpk91c8Ru4OYTCmiEZjaH0KFCOEumfS0aa8aNd3Q7YR9jA8GMe9qf2SOpM9re9+OMFlrKMqNEUqXMqjvov/uZ2phCMHd07pEQ1zWb6BnlDmrNLTixTap4yvUbGN7VqwmWoupFwD28YKyKpbsCX/4U+yFLY818DD8+xy6Rdw3RYHGfs8pRr5naXlY4VcZG9D/5pKlglt5jg=;2gnVQC+T+v85mhu7ihf/wA=="
+secured: "oP1bx68NfMzDVGbvGFyOZKJiCReovnUZJ1wKmPpYauQJH9Ly1rifN4GCG17vXSmwO5oRAyCHGuL6lEUis23b5e59GgZqmHO9zrFxuvavfcpDnRjbBxr6aydciCxGcJgx660h4lCqeswID4Vmlcunx89c0VlTpzyqdISwQQIBlNn9MeMsuav1sI1V2F9xyr/yzV6An3q8p14u+slXqY8YUCwjQvG7M0GLtJQREn7PcDOxCM1hF9bnyUNzRxhE0wdkyomo+7q4mz2EisGs0JYWKHQl/pabRUQUjtTN6PSdRTh++8UuxSnDofaFXCitfRk9bLD6TiSmy378uBrAySOeteAZAXATIruJjW5URKQGcMM=;g9b3ndT7g3pyEdseVoDQUQ=="
 ---
 

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise addresses self-driving vehicle criticism after Mission District shooting"
-    excerpt: "A Cruise vehicle was spotted near the chaos of the emergency response to the Mission District mass shooting on Friday night, and the self-driving vehicle company spoke out about the incident on"
-    publishedDateTime: 2023-06-12T17:27:00Z
-    webUrl: "https://www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/"
-    ampWebUrl: "https://www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/cruise-addresses-self-driving-vehicle-criticism-after-mission-district-shooting/amp/"
-    type: article
-    provider:
-      name: KRON4 News
-      domain: kron4.com
-    quality: 40
-    images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/04/6430125ed7ad11.41242738.jpeg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Oracle trains generative AI to create model for medical, 1st responders"
     excerpt: "Oracle and AI startup Cohere are partnering to develop generative AI services for healthcare, with Oracle using its own data to train Cohere for medical professionals."
     publishedDateTime: 2023-06-14T14:48:00Z

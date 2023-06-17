@@ -2,6 +2,50 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-06-01-the-top-5-ai-careers-in-2023-unlocking-the-potential-of-artificial-intelligence.md",
+      "title": "The Top 5 AI Careers in 2023: Unlocking the Potential of Artificial Intelligence",
+      "excerpt": "Artificial intelligence has become next big thing, paving the way for exciting career opportunities. From machine learning to robotics, AI careers have expanded across various domains. In this article,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
+      "originalUrl": "https://www.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/67921/ai-career.jpg",
+          "width": 1600,
+          "height": 884,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
+      "publishedDateTime": "2023-05-31T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance.md",
       "title": "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance",
       "excerpt": "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat.",
@@ -1116,49 +1160,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-aws-picks-biotech-startup-for-ai-accelerator-program.md",
-      "title": "AWS picks biotech startup for AI accelerator program",
-      "excerpt": "Ordaos, a drug design company, was selected for the AWS Generative AI Accelerator, a mentorship program for companies working with generative artificial intelli",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
-      "originalUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

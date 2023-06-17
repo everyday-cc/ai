@@ -48,15 +48,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Salesforce launches AI Cloud with raft of generative AI tools"
-    excerpt: "Salesforce's ChatGPT-style tools are designed to provide customers with large language models integrated with the company's products."
-    publishedDateTime: 2023-06-12T18:31:00Z
-    webUrl: "https://www.techrepublic.com/article/salesforce-launches-ai-cloud-generative-ai-tools/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 47
   - title: "Salesforce AI Cloud Seeks To Combat ‘Trust Gap,’ Hallucinations"
     excerpt: "Salesforce is also working on AI prompts to ground generated outputs and provide generated content without hallucinations, the term for when AI produces incorrect results despite the training data. Two AI Cloud features go into GA this month. One is Einstein GPT Trust Layer, which promises to prevent LLMs from retaining sensitive customer data."
     publishedDateTime: 2023-06-13T13:55:00Z
@@ -85,15 +76,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Salesforce introduces AI Cloud, announces $500Mn generative AI startup fund"
-    excerpt: "Salesforce introduces AI Cloud, integrating Einstein, Data Cloud, Tableau, Flow, and MuleSoft to boost productivity with generative AI capabilities."
-    publishedDateTime: 2023-06-12T18:18:00Z
-    webUrl: "https://thetechportal.com/2023/06/12/salesforce-introduces-ai-cloud-announces-500mn-generative-ai-startup-fund/"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 15
 
 secured: "ATU+E3CXsioP0IXgpZ7Z5HBdidaayM1lN3QndaxFOJuN7MelJ7dDcyYht4kJ4aX/uvrREJEjtE26sMDZt1SwALPpah3DcAXe1HU5/wTfwuKDJjE2ljD/VIi35TrOnXhejVtoH+mtKdSv9uXtelptU3bzpQgnWNGvW9IjxTnHcoMDncciWBc6R779NFBvuj8PXlVQzS4BzaMe35mmKcE88040OXrEnIKJKuH9Scf0luYLGotMkhJk2l/QqHL+om62g8CLVTP18uwGhqaE+2tfR7C4hM021Ti7M3EfkhzTkKlOG7zzc+9jdOfF+hBMHIvbNIMYcosVkuSGmQsh9Up855rgwdu19N3vIykOtht1pl/7y7lm49+YXgduJtpNAOWUCDikmtl3pO2DpiElmiqOkqUsi/QuUGw5Co1k8szIqastKtpZl/9eHqFtNWLtDWrXiSkQMhihSmyoxHGAPRwnUPL/lPzVozjGxQK3eqm4q2kIGQQUNw8RYgxTKIs/SNx0RxvilRqDJESk9iLlgd2nbA==;R7+GCpHN+1uzVqshw2fAuw=="
 ---

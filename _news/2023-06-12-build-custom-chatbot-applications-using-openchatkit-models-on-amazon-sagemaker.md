@@ -85,20 +85,6 @@ related:
         width: 1023
         height: 513
         isCached: true
-  - title: "Fine-tune GPT-J using an Amazon SageMaker Hugging Face estimator and the model parallel library"
-    excerpt: "GPT-J is an open-source 6-billion-parameter model released by Eleuther AI. The model is trained on the Pile and can perform various tasks in language processing. It can support a wide variety of use cases, including text classification, token classification, text generation, question and answering, entity"
-    publishedDateTime: 2023-06-12T17:22:09Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-gpt-j-using-an-amazon-sagemaker-hugging-face-estimator-and-the-model-parallel-library/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/12/gpt-j-sagemaker-hugging-face.jpg"
-        width: 1024
-        height: 510
-        isCached: true
 
 secured: "TFjJ0qh9bzyT8DjmAc3OEX8yXtl8I2izsxxUoqKcGJjPv4FMQhGS2asSHNXK+Eo6G9cjh86BrLrgPekC8R7obgcCNVbe2RPtLzfHRkdNQ+GStnw+SgzWHAI88766JShCq7aCl4QqKkLlkyI1EYnC4+eBha1Q6s568mOi9Uqfk1yjacqtVIUIpYwpax2D+fPhY/z0jqTGDw5+7yA7Pwt/JqYx3vR1/dwIfh7Uj8HDZ1x5H3BjD/Z5HqVF3bxFoWTu1qXq3s3rjBvm6sQdFlSmL0iABto8ACb42McMlcjotThVfFc1Lj3foKSCsu/yRl0uJmlwd+Lw/o+PJeTqSHxguVEZY/nrBbJ2oSPJXyH9NII=;hCCGeVTI9wNGTUQSwoTnRg=="
 ---

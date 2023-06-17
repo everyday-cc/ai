@@ -54,15 +54,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Salesforce launches AI Cloud with raft of generative AI tools"
-    excerpt: "Salesforce's ChatGPT-style tools are designed to provide customers with large language models integrated with the company's products."
-    publishedDateTime: 2023-06-12T18:31:00Z
-    webUrl: "https://www.techrepublic.com/article/salesforce-launches-ai-cloud-generative-ai-tools/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 47
   - title: "Salesforce AI Cloud Seeks To Combat ‘Trust Gap,’ Hallucinations"
     excerpt: "Salesforce is also working on AI prompts to ground generated outputs and provide generated content without hallucinations, the term for when AI produces incorrect results despite the training data. Two AI Cloud features go into GA this month. One is Einstein GPT Trust Layer, which promises to prevent LLMs from retaining sensitive customer data."
     publishedDateTime: 2023-06-13T13:55:00Z
@@ -86,15 +77,6 @@ related:
       name: The Spokesman-Review
       domain: spokesman.com
     quality: 17
-  - title: "Salesforce introduces AI Cloud, announces $500Mn generative AI startup fund"
-    excerpt: "Salesforce introduces AI Cloud, integrating Einstein, Data Cloud, Tableau, Flow, and MuleSoft to boost productivity with generative AI capabilities."
-    publishedDateTime: 2023-06-12T18:18:00Z
-    webUrl: "https://thetechportal.com/2023/06/12/salesforce-introduces-ai-cloud-announces-500mn-generative-ai-startup-fund/"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 15
 
 secured: "mdl87++OZj7JSj9AGclTRunr6hQ3UHpR6BOl1yTuRQEzsPyVMJo1sZ7dOltc1fhbbTZTF2deA9ut/QMrIEqnOqEAkM1xyYjg2xPURt2Sfz4SWr4wCT+FoJc5/eIMitTHW6LY4XJL32f4AXkweR3oxL7uLJ5ikjqOW82PzuAYG0jnIavrY5yWonffKLs/9vDBc+DuSPpYyqUS9VyPlU5p8IaZCQ6Et2xqOvv/7YPtxDnU2oTL77S6O2E3ZNyRrAQxbbJNFfk2PLehScGC0NGXyXuPylJ8KY/LlAgJnpqmvP7GixDoJgkQIXLzXV46c0t9fYn9B7MNXf5TFqgSpbsvLUD3vI5KFj/pCU6FnOpl8g4=;cqUqAdtyafxZv4mIFyzydA=="
 ---

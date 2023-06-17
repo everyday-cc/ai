@@ -2,6 +2,41 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-06-07-machine-learning-and-data-sciences-for-financial-markets.md",
+      "title": "Machine Learning and Data Sciences for Financial Markets",
+      "excerpt": "Leveraging the research efforts of more than sixty experts in the area, this book reviews cutting-edge practices in machine learning for financial markets. Instead of seeing machine learning as a new field, the authors explore the connection between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/us/universitypress/subjects/mathematics/mathematical-finance/machine-learning-and-data-sciences-financial-markets-guide-contemporary-practices?format=AR",
+      "originalUrl": "https://www.cambridge.org/us/universitypress/subjects/mathematics/mathematical-finance/machine-learning-and-data-sciences-financial-markets-guide-contemporary-practices?format=AR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-microsoft-has-no-shame-bing-spit-on-my-chrome-search-with-a-fake-ai-answer.md",
       "title": "Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer",
       "excerpt": "I typed “Chrome” into the Microsoft Edge search bar. I was greeted with a full-screen Microsoft Bing AI chatbot window, which promptly told me it was searching for... Bing features. I get it to work on a different computer.",
@@ -1159,49 +1194,6 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-usd-402-billion-growth-in-automotive-voice-recognition-system-market-size-industry-analysis-market-trends-market-growth-opportunities.md",
-      "title": "USD 4.02 Billion Growth in Automotive Voice Recognition System Market Size - Industry Analysis, Market Trends, Market Growth, Opportunities",
-      "excerpt": "Automotive voice recognition system refers to the concept of using speech recognition technology in vehicles. The technology is gaining traction among consumers across the globe due to its growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32740680/usd-4-02-billion-growth-in-automotive-voice-recognition-system-market-size-industry-analysis-marke",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32740680/usd-4-02-billion-growth-in-automotive-voice-recognition-system-market-size-industry-analysis-marke",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32740680",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32740680",
-      "publishedDateTime": "2023-06-06T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

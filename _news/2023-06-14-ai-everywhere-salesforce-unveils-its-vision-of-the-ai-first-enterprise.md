@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Salesforce launches AI Cloud with raft of generative AI tools"
-    excerpt: "Salesforce's ChatGPT-style tools are designed to provide customers with large language models integrated with the company's products."
-    publishedDateTime: 2023-06-12T18:31:00Z
-    webUrl: "https://www.techrepublic.com/article/salesforce-launches-ai-cloud-generative-ai-tools/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 47
   - title: "Salesforce AI Cloud Seeks To Combat ‘Trust Gap,’ Hallucinations"
     excerpt: "Salesforce is also working on AI prompts to ground generated outputs and provide generated content without hallucinations, the term for when AI produces incorrect results despite the training data. Two AI Cloud features go into GA this month. One is Einstein GPT Trust Layer, which promises to prevent LLMs from retaining sensitive customer data."
     publishedDateTime: 2023-06-13T13:55:00Z
@@ -90,15 +81,6 @@ related:
       name: The Spokesman-Review
       domain: spokesman.com
     quality: 17
-  - title: "Salesforce introduces AI Cloud, announces $500Mn generative AI startup fund"
-    excerpt: "Salesforce introduces AI Cloud, integrating Einstein, Data Cloud, Tableau, Flow, and MuleSoft to boost productivity with generative AI capabilities."
-    publishedDateTime: 2023-06-12T18:18:00Z
-    webUrl: "https://thetechportal.com/2023/06/12/salesforce-introduces-ai-cloud-announces-500mn-generative-ai-startup-fund/"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 15
 
 secured: "B8dAOh4xFPm3L2SeUt9zqauo9mFd/J4hmwVzVTZvf9WLluIwfwwIki3RsFB35QyvqPZagpMU/g1wa0pPrwvZJCIJDfcK7x4clZYWFH0qq3UIKh7hRK2CRLk2MauVG3ez43lqGoHLuXQEXLqC9sgBZkYX9JOiMKx05D2pnDdQimkQz5cAnl2g44iNh5noK7RK2O2Tqx0YU2irn9M+54r5sau+gAPFQsUkSJp+7rkvi5C/FpsKMBDhVvNNxjRNIrSdgH7u/Dcac1yEvXSrgMOt5giK9yCyc888uEkCwWucixENcS6srfF6nXx1U9pVse6NvpMzcDjAbdqHaoF659339uXxNkD9KAObd4XK952HX4aCn4aOaSLApT2ZKsTc4j9i8gKeE3JMZWeYzMHJMmUGpyXdLgB1QHf9jB56iwAsIcZqAdnNNpDA/tusisN+GWuNRx+7GT96s/9WqXtT/4pNqHeyORSHSmdrRFaU3cVG0iPcnOTPPsBMwpLpuPHXwb0T5TdmjmuMWlBZfD53V0R4Ow==;MtFaoXZr6ewaRbcQoEatqA=="
 ---

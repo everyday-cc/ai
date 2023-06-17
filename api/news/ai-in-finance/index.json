@@ -187,59 +187,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-13-uk-tech-vies-for-ai-startups-to-escape-silicon-valleys-shadow.md",
-      "title": "UK Tech Vies for AI Startups to Escape Silicon Valley’s Shadow",
-      "excerpt": "And yet, there’s no shortage of veteran London investors unswayed in their optimism. They say there’s an opportunity for the UK to seize tech’s next wave by setting its own financing and regulation rules, distinct from Brussels and the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-13/uk-tech-vies-for-ai-startups-to-escape-silicon-valley-s-shadow",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-13/uk-tech-vies-for-ai-startups-to-escape-silicon-valley-s-shadow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRjlFYuZy9JQ/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-06-10-heres-whats-hot-and-whats-not-in-fintech-right-now.md",
       "title": "Here's what's hot — and what's not — in fintech right now",
       "excerpt": "That's as ChatGPT, the popular generative AI software from OpenAI which produces human-like responses to user queries, dazzled fintech and banking leaders looking to understand its potential.",
@@ -1398,6 +1345,58 @@
         "name": "Longview News-Journal",
         "domain": "news-journal.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-ai-startups-outpace-others-in-securing-funding-from-vcs.md",
+      "title": "AI startups outpace others in securing funding from VCs",
+      "excerpt": "Sponsored Jobs Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More While fintech has enjoyed the largest stake of funding in recent years it seems to be losing its luster — in 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/",
+      "originalUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/dev-team-e1644869815394.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/",
+      "publishedDateTime": "2023-05-23T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

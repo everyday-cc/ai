@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-rea
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds.amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI unlikely to gain human-like cognition, unless connected to real world through robots, says study"
-    excerpt: "Connecting artificial intelligence systems to the real world through robots and designing them using principles from evolution is the most likely way AI will gain human-like cognition, according to research from the University of Sheffield."
-    publishedDateTime: 2023-06-12T17:05:00Z
-    webUrl: "https://techxplore.com/news/2023-06-ai-gain-human-like-cognition-real.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-ai-gain-human-like-cognition-real.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-gain-human-like-cognition-real.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 60
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-robot-1.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
 
 secured: "GkLIUsThB3lO7+mCGwrnfIS7xdEW4vkOieV08GBii899kpgd6Mv9G8JTNaN4UGbhc+NSY8o2jxYkjEzwamJBl4Dk+a/mHd+Or/qE9dp3oJ5vXNXSBbSNpbvBHGPSdLai7AeczTnckUdhiaU5DfkZXPnWr5mIWIJbUUwSWvg++u2rAyBOeqUoMosHiAo03s0O30W4cPlhIYJqBoCGHuzyf7Ay2Ek8lgKGST/6rM4JCtWbHZrNOHTriOTvpYuMYHcRxccdukYi6BkWSmhBLLRwoa6zEh/eRZ/fNFlGc2XWycX/MfR1/ekDnswfmuWNqh37tR4RaL+UdMxF1kGZ9e7cOvAr/Znwyt6Ps2jm3R4jjBOlbWGI8zKisezb+7Cs1YpS8lfyi6ZCubPlT1d8OnZUYGgR+BuWBsn74HgQHZ6JfbeSGXyJfAisbuF8l8J9nWWh/gt1jsLxEeZtVZjasYqv2q3n7HRkK9wtFjEDJhrqIuU6IDpBYrnx02l9zHZ3egSmZiQx2VfsbK/waOhm/W1xTQ==;eJAvhkwde3zmNh5mehsYUg=="
 ---

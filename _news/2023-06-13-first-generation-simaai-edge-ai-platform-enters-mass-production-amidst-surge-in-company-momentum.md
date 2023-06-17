@@ -25,47 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Going Big on AI, 123RF Launches Artificial Intelligence Powered Search and Image Generation Simultaneously"
-    excerpt: "Revolutionizing Stock Content Discovery with Innovative, User-centric Search and Image Generation Technology. 123RF, a global pioneer in the stock content industry, is announcing the introduction of i"
-    publishedDateTime: 2023-06-12T17:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32820890/going-big-on-ai-123rf-launches-artificial-intelligence-powered-search-and-image-generation-simult"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32820890"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32820890"
+  - title: "BittWare selects EdgeCortix's SAKURA-I AI Processors as its Edge Focused Artificial Intelligence Acceleration Solution"
+    excerpt: "EdgeCortix® Inc., the innovative Edge Artificial Intelligence (AI) Platform company, focused on delivering class-leading compute efficiency and ultra-low latency for AI inference, announced, that BittWare,"
+    publishedDateTime: 2023-06-13T06:23:00Z
+    webUrl: "https://www.design-reuse.com/news/54222/bittware-edgecortix-sakura-i-ai-processor.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 30
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://static.designandreuse.com/news_img2/homepage54222/20230613_1.jpg"
+        width: 485
+        height: 377
         isCached: true
-  - title: "OpenAI Launches New Version of Generative Text Feature: Revolutionizing Language Generation"
-    excerpt: "OpenAI's new version of the generative text feature marks a significant milestone in the field of artificial intelligence and natural language processing."
-    publishedDateTime: 2023-06-15T10:54:00Z
-    webUrl: "https://news24online.com/tech/openai-launches-new-version-of-generative-text-feature-revolutionizing-language-generation-psg/143581/"
-    ampWebUrl: "https://news24online.com/tech/openai-launches-new-version-of-generative-text-feature-revolutionizing-language-generation-psg/143581/amp/"
-    cdnAmpWebUrl: "https://news24online-com.cdn.ampproject.org/c/s/news24online.com/tech/openai-launches-new-version-of-generative-text-feature-revolutionizing-language-generation-psg/143581/amp/"
-    type: article
-    provider:
-      name: news24online
-      domain: news24online.com
-    quality: 49
-    images:
-      - url: "https://news24online.com/wp-content/uploads/2023/05/ChatGPT.jpg"
-        width: 1280
-        height: 850
-        isCached: true
-  - title: "Neural Wave Ltd Launches NLPearl.AI: Pioneering the Future of Telecommunications with AI-Powered Phone Agents"
-    excerpt: "Neural Wave Ltd, a leading light in the field of conversational artificial intelligence (AI), has announced the launch of its groundbreaking product, NLPearl.AI. This state-of-the-art software integrates advanced machine learning and natural language processing technologies,"
-    publishedDateTime: 2023-06-14T18:09:00Z
-    webUrl: "https://techbullion.com/neural-wave-ltd-launches-nlpearl-ai-pioneering-the-future-of-telecommunications-with-ai-powered-phone-agents/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
 
 secured: "+kAi8q+RZ69jCZye0ZpnRhsEPRo20JOe/fi4CYiKVDB+44xhUR61tKCBGLUfyh2BIgthk53wap25gQxpoKFkJXNYwOWEjUlIEKL6PRMgIr3EwMkVrmdDdmYvyE4Im3ZkVJ7oEPKNpcIV6P3FBRsTKoMlz1JNH+XgWU6MQ56L1HwMAgg5o7+5CC2mM9c0SCf7AfVn/GloCTuv/H7uDzNViM8ymouevra+dNbznGCSjO1bHqS2hGf2nt0TOwjgEryPih8M+qwePbMbXALq2Qhll0s2VZxbukLixe5tkvy0fO+qOyz+fcLi1SLoim2lgNrrLdBljD//GbU82AtokkaumYNz5HroG4q4wiaWXr39mso=;ypWxL/5ZuuMkAWPcCkjYoQ=="
 ---

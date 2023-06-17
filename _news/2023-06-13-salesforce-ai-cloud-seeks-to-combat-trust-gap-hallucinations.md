@@ -55,15 +55,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Salesforce launches AI Cloud with raft of generative AI tools"
-    excerpt: "Salesforce's ChatGPT-style tools are designed to provide customers with large language models integrated with the company's products."
-    publishedDateTime: 2023-06-12T18:31:00Z
-    webUrl: "https://www.techrepublic.com/article/salesforce-launches-ai-cloud-generative-ai-tools/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 47
   - title: "Salesforce doubles down on AI and unleashes the power of generative AI"
     excerpt: "On AI Day, Salesforce unveils AI Cloud, GPT for Customer 360, and doubles Generative AI Fund to US$500M for responsible AI development."
     publishedDateTime: 2023-06-14T05:54:00Z
@@ -87,15 +78,6 @@ related:
       name: The Spokesman-Review
       domain: spokesman.com
     quality: 17
-  - title: "Salesforce introduces AI Cloud, announces $500Mn generative AI startup fund"
-    excerpt: "Salesforce introduces AI Cloud, integrating Einstein, Data Cloud, Tableau, Flow, and MuleSoft to boost productivity with generative AI capabilities."
-    publishedDateTime: 2023-06-12T18:18:00Z
-    webUrl: "https://thetechportal.com/2023/06/12/salesforce-introduces-ai-cloud-announces-500mn-generative-ai-startup-fund/"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 15
 
 secured: "DacPVnYvzF2oS1X3hA8F+Lxs9XuJqrFlUpbiuEHtvetAgde4N41A4GrcVPY4b2kAvy8fWu2vxCcrpEifWmCcNRLE+WXF3/VhUiFYmOB8eZEbpaJlrFpdEGXafSsg9U7lu/lJHluOAAefB8tAVJOlHqtHK9jKTKkYKTSUllSrD9GeJrrkpK4EwF2EfU6m6dzUkqfaN9VU6fCNFpxsmSA5NRs1c1E0GJuoof6ZzjCMqLp3HDINnhq88llKnyhNYHOkzHJu9R70zSt23K6yY99EoAAhUF5bCU1HKuyDsSfBT2rfcgy2ORSB8rmQsRd2ysU4l6JsWXpbU6D+V/gvUSDCudzeyTxFJLTyOcYpKVQt6uT+UrzOuNkcZg4ztBgLLgd9ekOmFGBuudWK+33qUTqUTCw9Ryp08/i7eywtmOaeDMPJ9dfLt32Su1fm7DcWRYCaSzzbfY9V/VwJaFiuOaMo/3woorgWk4HJ6QD2UaYxe7DJwp0qo7IgDsQ0IGmT+fgF4BaMhWxJhX8cSS61B5n7jA==;RmI2vNAm/AJKK0gDluVWzA=="
 ---

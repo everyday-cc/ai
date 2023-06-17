@@ -35,14 +35,19 @@ related:
       domain: forbes.com
     quality: 49
   - title: "BBVA Selects AWS to Accelerate Its Data-Driven Transformation"
-    excerpt: "BBVA will leverage a broad portfolio of AWS analytics and AI services across its operations and create a new data platform that will be deployed globally, delivering a secure repository of BBVA's operations and customer data."
-    publishedDateTime: 2023-06-15T11:24:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/15/9833207.htm"
+    excerpt: "(NASDAQ: AMZN), today announced that Banco Bilbao Vizcaya Argentaria, S.A. (BBVA), a global banking leader, will use AWS to deliver advanced analytics and data services in the cloud, taking a decisive step in its data and artificial intelligence (AI) transformation process."
+    publishedDateTime: 2023-06-15T09:44:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/bbva-selects-aws-to-accelerate-its-data-driven-transformation/article_9f2c17f0-a860-5fed-9d55-e1c4312e9348.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "BboLIotYtdHVNRQLurSWFzvtT5ejNps/CAYPEnccL4YkQqN+YJOqtQaJBobDt38NTQPyPIP7UzAo/OF3EfZWTb9kPqqLRH3z16+70eS+rzVf/EN/K8jemLZSJvib9JH00jdrAYiOUGhYRfo9wdlVUh7v66RrN3jfWNBUaRxDffrWtSbAx/c0btg3crckH3A7kd1gmOykDJBSOecQ8j1G6HQkNtigTBwSug+Nq9OE2kfAswi0AMKEzyqsfMJZIqcutVc7aW7l4yqf2D8hdsAk7Wc51G7N0qitBq5wXiv1/jc3vXXqWffik36w5dPh058kgF4EvmaXiCZkaBkGO+qxjKBV137eC+mcB6g5pjBmwy7/uMVKfl4cwvB4yGe+fUX4FOj5CUNVKqjFQt4+eRgzmtQpRU4mTJfwbaLg2+SYjw3e21bVJsOyC4vBM4J/tOVHEU16tjv8xe9NynSi+qK47jayUNo1g1GhZrkwx/UV5ciCCJirL+uIZp4CxdO7ftM3Xh9Fk4jhflxwxV9K1+Xptw==;3907aJJRZkbxRBLgjcrzDg=="
 ---

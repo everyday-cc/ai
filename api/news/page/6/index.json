@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-13-artificial-intelligence-can-help-with-hearing-loss.md",
+      "title": "Artificial Intelligence can help with hearing loss",
+      "excerpt": "McDonaldHearingServices.com For more information about the services McDonald Hearing Services offers, click here. Copyright 2023 Nexstar Media Inc. All rights reserved. This material may not be published,",
+      "sourceUrl": null,
+      "webUrl": "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/",
+      "originalUrl": "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/keenan.jpg?w=1280",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/",
+      "cdnAmpWebUrl": "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/",
+      "publishedDateTime": "2023-06-13T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOOD-TV",
+        "domain": "woodtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-cadence-ai-can-increase-chip-designer-productivity-by-over-10x.md",
+      "title": "Cadence AI Can Increase Chip Designer Productivity By Over 10X",
+      "excerpt": "Company’s clients have readied over 180 new chips using Cerebras AI to speed development and make chips that run faster, use less energy, and cost less.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64597b7ef0c1a34df22796e1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/amp/",
+      "publishedDateTime": "2023-06-13T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
       "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
       "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ...",
@@ -525,59 +619,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-uk-tech-vies-for-ai-startups-to-escape-silicon-valleys-shadow.md",
-      "title": "UK Tech Vies for AI Startups to Escape Silicon Valley’s Shadow",
-      "excerpt": "And yet, there’s no shortage of veteran London investors unswayed in their optimism. They say there’s an opportunity for the UK to seize tech’s next wave by setting its own financing and regulation rules, distinct from Brussels and the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-13/uk-tech-vies-for-ai-startups-to-escape-silicon-valley-s-shadow",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-13/uk-tech-vies-for-ai-startups-to-escape-silicon-valley-s-shadow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRjlFYuZy9JQ/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1160,57 +1201,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-ai-how-good-is-good-enough.md",
-      "title": "AI: How Good Is Good Enough?",
-      "excerpt": "Many business leaders today are excited by the idea of implementing AI solutions that will replace humans in customer-facing roles. But, there are roadblocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rogerdooley/2023/06/12/ai-how-good-is-good-enough/",
-      "originalUrl": "https://www.forbes.com/sites/rogerdooley/2023/06/12/ai-how-good-is-good-enough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64849d40973109c1cc58a779/0x0.jpg?format=jpg&crop=3527,1986,x914,y641,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rogerdooley/2023/06/12/ai-how-good-is-good-enough/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2023/06/12/ai-how-good-is-good-enough/amp/",
-      "publishedDateTime": "2023-06-12T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

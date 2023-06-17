@@ -25,23 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Machine-learning method used for self-driving cars could improve lives of type-1 diabetes patients"
-    excerpt: "The same type of machine learning methods used to pilot self-driving cars and beat top chess players could help type-1 diabetes sufferers keep their blood glucose levels in a safe range."
-    publishedDateTime: 2023-06-14T22:59:00Z
-    webUrl: "https://medicalxpress.com/news/2023-06-machine-learning-method-self-driving-cars-type-.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-06-machine-learning-method-self-driving-cars-type-.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-machine-learning-method-self-driving-cars-type-.amp"
+  - title: "Driving Diabetes Away: Can Self-Driving Car Technology Deliver Insulin?"
+    excerpt: "Reinforcement learning outperforms commercial blood glucose controllers, revolutionizing blood glucose control for individuals with type 1 diabetes."
+    publishedDateTime: 2023-06-17T10:23:00Z
+    webUrl: "https://www.medindia.net/news/healthwatch/driving-diabetes-away-can-self-driving-car-technology-deliver-insulin-212298-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/healthwatch/driving-diabetes-away-can-self-driving-car-technology-deliver-insulin-212298-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthwatch/driving-diabetes-away-can-self-driving-car-technology-deliver-insulin-212298-1.htm"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 32
+      name: Medindia
+      domain: medindia.net
+    quality: 44
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-metho-3.jpg"
-        width: 1760
-        height: 1439
+      - url: "https://www.medindia.net/images/common/news/950_400/diabetes-with-self-driving-car-technology.jpg"
+        width: 735
+        height: 600
         isCached: true
+  - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
+    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
+    publishedDateTime: 2023-06-13T02:21:00Z
+    webUrl: "https://www.sacbee.com/news/california/article276329166.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article276329166.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article276329166.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 18
+  - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
+    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
+    publishedDateTime: 2023-06-15T11:44:00Z
+    webUrl: "https://www.idahostatesman.com/news/nation-world/national/article276329166.html"
+    ampWebUrl: "https://amp.idahostatesman.com/news/nation-world/national/article276329166.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/nation-world/national/article276329166.html"
+    type: article
+    provider:
+      name: Idaho Statesman
+      domain: idahostatesman.com
+    quality: 18
 
-secured: "ZWnx6bSdgmyc4tJi1udNcS7mFC8e35/Sj3+W50Z4mjYRGLdI9nJ1y0M96fyD1NdSxo6dT5Lfos/ncybhe/+OY88Pcq9FvOk3mgeAcYXE5l2Jx4DK73mCq9qOB3K0ea+ymjOurXNkiQiipzHO4WIJIll71Li50PSLcc10aoQ9B47Q/G3GXhtUqO2xzjUvds7EO4MqkphTNOCr/Tl97tgGCREvugxO+R+lXqhp2rS0Q1+3fBithe4xhljLyxDa2zqxjYkdmFS1KOeJ+//c620dOlfCg18w/9JF1pbEqABMeR24hEt25efA67lEST2OaGPsbc3+g2pDtlnDiMd1HakwMldvqNXG1KG47Gh3GqRdPW4=;5wy80gufoj1uifxk1Dw9Aw=="
+secured: "DTljlPC7EaaMJDcLkq+L5dOWFjnkM7mcKcZaiyG1byvzAT/navL6dTOHUMJsiD6iAHTu500utg4yLbZLia6I4NAdb1QTkymtKp13v3Z3sVOsW+PDVv8/fF1Idye0r/lnzomKnYqdogRatyENkWkyEPecMtEqkqc2mCIIDhi8DdZZGZIiEHgQDYPPz/qB7lhSFebGz/KKjQceZ2XAHw4WvPkKrzBr2IDq8KBNn1XtW+5mqSEA+xEdBeRh/FbXdT72jF2zUlgN2HoTb3QngpdIAcJT6tTEIZtvTX4DpLF+JkkExFQlqhjqaODhGK1B2kQC9snYy77b17xYnlD0fMQnlSkKh5bvHYwwGaXkC0E3pbCSOmA78N9mo3UHjfXUHqxjIzCduT76JQXFu7B7l9FR+InYv4u5VLUde2cZn8ZWsz7Y865PSqTfukqQQoR0JXav2TgQparg8PUyn/VWwX9LKFvidCY/K5eSAzExoNXTGRR6B3PTn+5kgYrYnHIv/S/Ks7pXV2e/Dj1iKT6CP/a+vQ==;jAkRNdUyRRBRYkHIKLKPXg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-forethought-save
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/"
 type: article
 quality: 96
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/14/bring-sagemaker-autopilot-mlops.jpg"
         width: 1023
         height: 513
-        isCached: true
-  - title: "Fine-tune GPT-J using an Amazon SageMaker Hugging Face estimator and the model parallel library"
-    excerpt: "GPT-J is an open-source 6-billion-parameter model released by Eleuther AI. The model is trained on the Pile and can perform various tasks in language processing. It can support a wide variety of use cases, including text classification, token classification, text generation, question and answering, entity"
-    publishedDateTime: 2023-06-12T17:22:09Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-gpt-j-using-an-amazon-sagemaker-hugging-face-estimator-and-the-model-parallel-library/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/12/gpt-j-sagemaker-hugging-face.jpg"
-        width: 1024
-        height: 510
         isCached: true
 
 secured: "fgtgOLf7OmQoVN//P4IPI83DYcl+Fpf4lsFzd60+5Q6S9qmkVlI6jiCY9iJvl9XndkDXvbvJf19wJaMonRCN0JoEcUX+BIVSgbW/njmhJMjs/l4QpmT6Sna+JG0OeZ0ZCLMDKxrhQKmmd+wdVmyZczjmSDNDAx4K0cabB+usvzSgO+kRL5IV53pD/2FAII8fciA7JDv0l85t4acnrC+RI5UxtpggUjDvzBmHi0L+bNZjJdl1HFdfuwS3VIK9QMtW7XpAnY1QeLTf2Ax56DqBEUVht47qKhw19eBJoqeKVWJRpq1oO50NLcyZr6HowES217hzdEbRWKmIb944XOS89cPjrBq9YSBKlybzztecmZg=;hmcpISyeODHFfXoMXFA0kg=="

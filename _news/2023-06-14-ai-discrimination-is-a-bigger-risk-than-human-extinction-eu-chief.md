@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/14/ai-discrimination
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Discrimination bigger concern from AI than human extinction, says EU"
-    excerpt: "Discrimination is a more pressing concern from advancing artificial intelligence than human extinction, says the EU's competition chief. Margrethe Vestager told the BBC \"guardrails\" were needed to counter the technology's biggest risks."
-    publishedDateTime: 2023-06-14T06:03:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-65881389?at_campaign=KARANGA&at_medium=RSS&miRedirects=1"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-65881389.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65881389.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/EFCA/production/_130068316_ed7d6122dae2ae5743e39dcebd623cd20d0a6h33a.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI discrimination is a bigger risk than human extinction – EU commissioner"
     excerpt: "Commissioner says existential threat unlikely, but ‘guardrails’ needed for decisions affecting livelihoods"
     publishedDateTime: 2023-06-14T09:51:00Z

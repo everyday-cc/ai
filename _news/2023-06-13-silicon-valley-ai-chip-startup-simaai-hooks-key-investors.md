@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Silicon Valley AI Chip Startup SiMa.ai Hooks Key Investors"
-excerpt: "OAKLAND, California (Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Tuesday said it raised an additional $13 million from investors including a key fund in Taiwan called VentureTech Alliance, which has a strong strategic partnership with Taiwan Semiconductor Manufacturing Co."
-publishedDateTime: 2023-06-13T13:06:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-06-13/silicon-valley-ai-chip-startup-sima-ai-hooks-key-investors"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-06-13/silicon-valley-ai-chip-startup-sima-ai-hooks-key-investors"
+title: "Silicon Valley AI chip startup SiMa.ai hooks key investors"
+excerpt: "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. SiMa.ai/Handout via REUTERS/File Photo OAKLAND, California, June 13(Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Tuesday said ..."
+publishedDateTime: 2023-06-13T16:37:00Z
+originalUrl: "https://www.reuters.com/technology/silicon-valley-ai-chip-startup-simaai-hooks-key-investors-2023-06-13/"
+webUrl: "https://www.reuters.com/technology/silicon-valley-ai-chip-startup-simaai-hooks-key-investors-2023-06-13/"
 type: article
-quality: 66
-heat: -1
-published: false
+quality: 86
+heat: 96
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +22,12 @@ topics:
   - AI in Robotics
   - AI
   - AI Hardware
+
+images:
+  - url: "https://www.reuters.com/resizer/jo7mRBawPSBhYlaFccaHL42PO1k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LWMV7SSZZ5L7TNYIV7HNEYJKYQ.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "UK Tech Vies for AI Startups to Escape Silicon Valley’s Shadow"
@@ -39,6 +45,6 @@ related:
         height: 800
         isCached: true
 
-secured: "UyvJ+PioDL6J4hFz/X0uwR0bIMER6+ArHkakllYX94MXAk8ZsGIRZ+/P71xPVH8Pr1n6EQSSkEu8YlT5LOe+IgYicwVxanVEcMUjdpy46WmFeXgbIFOroWbqdyvDLgJ1KI4q/PQ/Kl8MXFmsQR5z77BEzaU3KKdtLUkbE8neHv29RRBZzAIeX6eHVFUxI9MygjjfWc4J9SwOZVTw0XTbd9eZ4J1vANuNwvvWCKIgH4L3P9MHhCpTTsSd6ZzPp0TuICJ5gQIpOlZOfm6HnBvAMjwGkSDSfyZz8MAlnZQfAzXoo4JUFXJtSkcEMK0ruNbXJkQY2aUaZpsiBvVZPHZHhN9/V2eLhwPAdadcld/AfyTA48An7FAiQ1p0/90oEKQSu2engfgmtnzE4MnpGN+OsubzsDw61jzpXf2EY3om7i1uVxWyQUXOTiL1+0Q9IYl46yNXo49I9gFFANbPHJb4JF+h6AdY5liT34dHyyGM0TOOxnjhY0IzZWMUmcWPBBxOoHvVYC8CWFlTF0hWywbB/w==;O6mUSOz4qkb+1twbDNu9jQ=="
+secured: "8OUsXl2DYxc7mGJnBTW9QtEuBFE0jk0M1vVqayZbaIoFDpkwBmJIBUNFnTIE7y78GaWZDvzj0g4gyzQpmGy6VwsWh5j9Rz7kWUD24HozwMZazueFLBkvFQGmktfbKgvtVUr6FINSEcpiY+Oz12nb2WAjBxQq3B1QF9CHF0c2+B7gqKK91Lx9c9honwzNxJqcUk9MH80QNo2itmhiLKeG4gP3+dSaw0neLSi9+k+GkF9qomn+CD761g8rnxgvOgRwsRCsn7ldCAtgyGmr04t/sAmbwv9OKxCITd7T0pWXDrYvj+uSJ+xWITGybl5TNP43j18OmrYqnzQUS93OEiFe/P/qtQtgGupA+WEqY1nSTSM=;bvMOdOe3Hp3o93xYlvyg6Q=="
 ---
 
