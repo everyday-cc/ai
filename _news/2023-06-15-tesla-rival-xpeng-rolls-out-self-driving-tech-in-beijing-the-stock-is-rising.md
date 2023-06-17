@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-dr
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Robot waiters taking more orders, improving assisted living dining rooms"
-    excerpt: "Artificial intelligence-powered robots are increasingly being tested in senior living and other industries, taking over repetitive tasks done by humans"
-    publishedDateTime: 2023-06-13T04:36:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/robot-waiters-taking-more-orders-improving-assisted-living-dining-rooms/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 33
   - title: "Xpeng expands self-driving capability to Beijing, eyes wider expansion"
     excerpt: "Chinese electric vehicle maker Xpeng Inc on Thursday expanded its self-driving capability to Beijing as part of the automaker's expanded launch of City NGP (Navigation Guided Pilot) across the mainland."
     publishedDateTime: 2023-06-16T09:07:00Z

@@ -29,22 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI drive-thrus may be good for business. But not for the rest of us"
-    excerpt: "Over the past few years, restaurants have been investing in artificial intelligence tech for drive-thrus. They say it will spped up the drive-thru and boost sales. But customers — and workers — may not be thrilled with the technology."
-    publishedDateTime: 2023-06-17T09:05:00Z
-    webUrl: "https://edition.cnn.com/2023/06/17/business/ai-drive-thru/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/17/business/ai-drive-thru/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/17/business/ai-drive-thru/index.html"
+  - title: "Five potential outcomes of AI in 99 seconds"
+    excerpt: "The BBC spoke to various experts about the dangers artificial intelligence could pose."
+    publishedDateTime: 2023-06-16T01:37:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-65885899"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
+      name: BBC
+      domain: bbc.com
+    quality: 67
     images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230609145607-carls-jr-drive-thru-employee-file-restricted-050923.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D1D8/production/_130102735_p0fvh3l1.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Southern Baptist Convention makes official statement on dangers of AI"
+    excerpt: "It appears this resolution makes Southern Baptists the first religious denomination to make an official statement on the challenges of AI and present a theological and ethical grid for dealing with"
+    publishedDateTime: 2023-06-16T13:34:00Z
+    webUrl: "https://www.christianpost.com/voices/so-baptist-convention-makes-official-statement-on-dangers-of-ai.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 19
 
 secured: "jOrx6J2IegZDVcMdVmU5PiUyUBUfB9BcZfv84zEb1ptKlz9gx99FuyqT8J5Pp1ZEwK0RC4Z5+taiErl+GOvx6GUzG8d5KVzBZO2ZGAfLVGxKbabKbi7eow1XJDZBe3nj2LP1Gt/NQNs9Qavg3jVvh5OaI4h+Ena4WkRTy22/HnxqXz2oivg42IuaaKbosUJCHCrjMrkcrdej9zquSoSM+MvBPyBAlw6uBt/mr+kud3eF3YWacDPTh2Nfx8N1RnrrPNKy7Nm29wc9cqnq3M36Cg1XCoFF/z18PQ+jV2wJXmN6MY+h0IRXyVlfCClu4vdg9ARJfIPYdTeuy/j/GpIhCp094VxkvXWLGe3nId2g1UpNm63b6YbFbgcaxdQrZnX8ZCnMf/OxqtU0OAclS7Lp20dTNQ4iv3Z1gMijfggLmQ6U8503HQBTBEyXctcX5BNT+mmkvxq+s/bN79I9uKvjrkdKjhsBWvZa2ZCEyEsGYP3WWH3v49W0i5YbuzzErtSQva8t7jJRaf62QOy+lk+F0g==;ULoJ2UDEkGtTlH9B+sijFA=="
 ---

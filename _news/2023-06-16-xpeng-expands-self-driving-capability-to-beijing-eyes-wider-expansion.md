@@ -57,15 +57,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Robot waiters taking more orders, improving assisted living dining rooms"
-    excerpt: "Artificial intelligence-powered robots are increasingly being tested in senior living and other industries, taking over repetitive tasks done by humans"
-    publishedDateTime: 2023-06-13T04:36:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/robot-waiters-taking-more-orders-improving-assisted-living-dining-rooms/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 33
 
 secured: "7gFJ9T5VKtGUGBq8lHHx0JA0kEQUbChiB5fWFCIwpylpwZuzG59Me6B7TmiEfmOysTwTVH17o/tMjbrV+fEJb+cG8ATulTBPJdCBHLL+1O8YXlMvpZL/B21+f8NwJyB59nMP4sMf6TroIoJWN2Xi/6MbzIFYtAn3zvo32NeiJArSqGtUxrCw7MmqsKMY8mlVmZytwVqmWbnNGjdqZzfT1eGfIXsE0NoA92WPri0zsFsxylk9SGerdyTLpzXva1uEHjlPYd3+VelVLAW+HI0UeUv277i2wTHQWDnj3wst0rUZBrXFMHHoyJPQBIWkHygViDkZtYY8swnFYZaM4Wez22YQcAwng42La5RB6w+3dpI=;1dLU3U2JS9V2WvQ1klSQow=="
 ---

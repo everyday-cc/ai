@@ -18,6 +18,22 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Fintech Apps: American Consumer Credit Counseling (ACCC) to Introduce CreditU Mobile App"
+    excerpt: "American Consumer Credit Counseling (ACCC) is urging clients and other consumers to join a pre-order waiting list for its CreditU mobile app."
+    publishedDateTime: 2023-06-17T20:06:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208841-fintech-apps-american-consumer-credit-counseling-accc-to-introduce-creditu-mobile-app/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 15
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/09/App-Money-iPhone.jpg"
+        width: 1280
+        height: 960
+        isCached: true
+
 secured: "zuzza4SjVYE2QESyppJR1mJ8bsdJmF02xF+wLjjWOawmOJuSOuOg5eGHOQLltjSbKxm3u3IX1OswnncAIbbLO0nOmtFsmGidZ+EmUhUhZ+/FFMNtxiewx+b164YwN2/B1B15opKtN4Yf16Ybut74h21dccdRheT/fx3sMjweI07vMWG9f84GDqiS0LO/o9nxvYWThpaLurjsBRfTD8nlbezw0GrAn/j2zjouxL7VsM5GpyBCFPOXgl63f/ds4pRlZT4v7P61eX8sXYOHwONxg7Ek29DGGv8yFInLH35ijfvA0lHFzKkUoolWnh9p4GUN4vltq4wbPBJc5COuDkZ9KIH/mGpswhAFbCj4WkG5fhM=;ztO/W7PHGYY25eb5WaYR2A=="
 ---
 

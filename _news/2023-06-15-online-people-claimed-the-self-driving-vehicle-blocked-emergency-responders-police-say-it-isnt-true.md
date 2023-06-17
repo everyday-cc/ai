@@ -2,29 +2,21 @@
 category: news
 title: "Online, people claimed the self-driving vehicle blocked emergency responders. Police say it isn't true."
 excerpt: "San Francisco police say a viral video that sparked condemnation of the city’s self-driving taxis may have been taken out of context and unfairly ignited a firestorm of controversy around the self-driving vehicles."
-publishedDateTime: 2023-06-14T21:38:00Z
-originalUrl: "https://www.nbclosangeles.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/3170781/"
-webUrl: "https://www.nbclosangeles.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/3170781/"
-ampWebUrl: "https://www.nbclosangeles.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/3170781/?amp=1"
-cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/3170781/?amp=1"
+publishedDateTime: 2023-06-15T08:38:00Z
+originalUrl: "https://www.nbcnewyork.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/4424426/"
+webUrl: "https://www.nbcnewyork.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/4424426/"
 type: article
-quality: 43
-heat: 43
+quality: 3
+heat: -1
 published: false
 
 provider:
-  name: NBC Los Angeles
-  domain: nbclosangeles.com
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://media.nbclosangeles.com/2023/06/GettyImages-1497019980.jpg?quality=85&strip=all&resize=1200%2C675"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Oracle trains generative AI to create model for medical, 1st responders"
@@ -42,6 +34,6 @@ related:
         height: 600
         isCached: true
 
-secured: "sejRPtu0NISIHtE7da+g8STEJObaae8f2HhHXH3ebjtvqm45DfNcTMeXVGZd/fXyBcdIzS1CNrRrhbe4r+wwOwE2dNMtEkLYI8I+HON2YOqFO+3ob7tg+FWdaaIGZPl4LEsThD9R5VHi8lplDUmI7SgOhA62t2DubFn4rJHhxNJbqdMa4PJ/tVv6RLLdxNy/uAe3vzC3qSbqxAEL4nqCkBnHMVDuYi+jp70db/wpd62q43UFkhu5QXFcespY7SWJqXP19nvTKLjnnulukkmPXjGNwt0wHccp4xdZJ41KFZ1XRsPj87oVXhmZ7s1l0EtCKYOPAj/2tmjxxGrPB5PpHbZzAzmbKOO47s689+2JNH4=;tk8X1Q09gGzHNde0geUi5w=="
+secured: "XlAqVIM1QAQziXdna1ogarppl3nz+iHY+5sEvJS/wKw35M/Rd3eXJm6DHDvMNdz55Fiyb4gKciEnCbY8PGzfIl/PmFa56W+u24mJmvb3jSBk20++/70JRiK4X+4z5yn+D7RGBjmG/zVUXgktchYvpef/i5nW+urSrfM+GAaoHfQcc42EdB3C0xlBAzxWY9mo011zl9a7v0Om6D1QLshv2lWEew1mXbOWR3/K8zJFDX6ft1b2QNwBTztkpxXS1QRlUjanota/CuwpGDDk9SaUBWsKkVizMDpFopAOInAyPHA48WK+GpEMFFAVpX8HJgDVAPmEwMkNxnZyCl7m0j84mX3Ip9kFG5pP6SbxP022j2wqrKkdUiv1vyjSDTqyIFd02T4G2zcoOlTIGAg2ybPZSowgSIEQE1xj2jXyWz7XkJsAX8fcAMT0L9Iya+R5lF8GqiZ3mwS87eb2cT+hc+GZWzAR9LPyiimqjbT8X8XXhvOaYSHl2R53zzQHd6ccFmJPBUquCMm8RaUejWZtI++NDg==;T9pid5JD80P1ywFxPmjNng=="
 ---
 

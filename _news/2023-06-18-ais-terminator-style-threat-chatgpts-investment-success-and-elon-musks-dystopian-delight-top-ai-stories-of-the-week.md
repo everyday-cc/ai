@@ -1,33 +1,22 @@
 ---
 category: news
-title: "Europe plans to put guardrails on ChatGPT and other AI apps"
-excerpt: "The European Union has taken the first steps towards regulating AI, with its parliament voting to put restrictions on systems such as ChatGPT."
-publishedDateTime: 2023-06-14T11:44:00Z
-originalUrl: "https://www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6"
-webUrl: "https://www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6"
-ampWebUrl: "https://www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6?amp"
+title: "AI's Terminator-Style Threat, ChatGPT's Investment Success, And Elon Musk's Dystopian Delight: Top AI Stories Of The Week"
+excerpt: "The warning about AI potentially wiping out humanity has been labeled as a dramatic publicity stunt for funding by Sandra Wachter, a renowned expert in data ethics, AI, robotics, algorithms, and regulation. She argues that the focus should be on present ..."
+publishedDateTime: 2023-06-17T19:12:00Z
+originalUrl: "https://www.benzinga.com/tech/23/06/32905596/ais-terminator-style-threat-chatgpts-investment-success-and-elon-musks-dystopian-delight-top-ai-stor"
+webUrl: "https://www.benzinga.com/tech/23/06/32905596/ais-terminator-style-threat-chatgpts-investment-success-and-elon-musks-dystopian-delight-top-ai-stor"
 type: article
-quality: 87
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI Ethics
   - AI
-
-images:
-  - url: "https://i.insider.com/6489a7aeb6429600188221ab?width=1200&format=jpeg"
-    width: 1200
-    height: 600
-    isCached: true
 
 related:
   - title: "With ChatGPT, Defense Investors Are Learning To Speak AI"
@@ -45,6 +34,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6489d53c3e9469660975c365/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Europe plans to put guardrails on ChatGPT and other AI apps"
+    excerpt: "The European Union has taken the first steps towards regulating AI, with its parliament voting to put restrictions on systems such as ChatGPT."
+    publishedDateTime: 2023-06-14T11:44:00Z
+    webUrl: "https://www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/6489a7aeb6429600188221ab?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "How to access, install, and use AI ChatGPT-4 plugins (and why you should)"
     excerpt: "ChatGPT-3.5 is useful. ChatGPT-4 can be very useful. But, for the most useful version of ChatGPT to date, you need to add, implement, and use ChatGPT-4 with plugins."
@@ -231,16 +236,7 @@ related:
       name: The Bulletin
       domain: norwichbulletin.com
     quality: 16
-  - title: "AI's Terminator-Style Threat, ChatGPT's Investment Success, And Elon Musk's Dystopian Delight: Top AI Stories Of The Week"
-    excerpt: "The warning about AI potentially wiping out humanity has been labeled as a dramatic publicity stunt for funding by Sandra Wachter, a renowned expert in data ethics, AI, robotics, algorithms, and regulation. She argues that the focus should be on present ..."
-    publishedDateTime: 2023-06-17T19:12:00Z
-    webUrl: "https://www.benzinga.com/tech/23/06/32905596/ais-terminator-style-threat-chatgpts-investment-success-and-elon-musks-dystopian-delight-top-ai-stor"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
-secured: "4qFqKHTPC1Z+uy/2S604kNxtfM3m6lEC4qf6eo+jO1SHXADz1p0b68/5IrT9IUQDOC/Ek09HG4a+tdyx3YJfOiH3dTgf6h7L8DyGl+W7s9CTYh5qF2B304i9RfcFJQUdfjEjbJh1bnmgOEraX3PfECoFPNtUW0BL4UrKxQnElARfScpqZTKuf3fN/NGFDQwWghb2ikh1oX6knm8RmAX284tUZ6K+8Bxyc+JMlmcLrG3vKhbu4ILMMQx7Cd/kjoYGJv61R9uhVy0qZe1nkDuBKHk2yJLQisPqd2JbdwyoGQmSNJd80lqqjP6IvDN4sweETPYnNT7duSfPUq21kBrgCo3rReKUBAAPAOP8lIXHqRw=;Ky4ze6iXOqiZZRWRXdNztA=="
+secured: "opiPC0i/mfteWu+PhDbE9TPXsl1rhk0c4X1N2196jPiQ95F+paM/bY2qoIwJf3356fJ6Pi5kzl2QPOgfQKHKjukoKrll5tcKm9DnUyFRkaPyGmWRoiBuBt0XQZLQ9EJvDzk//trsdwy1URhJmPkX0Tsn4wPcDRnpk7ufdsy6ELB5fD66PoESfrmAYVYDVDRPFezT6vYXkJuMEjvYQn/eFR5pSHqzVJ8DvnG7fKKxdfYnCDiCwdmZDTDZpv3UVxkWe8jZK+0h+/Uivst92MB3aFEagJzXfYwSECdaeHX/OJzi/NdQF1OlXzEmk709ENDOlb2Qq0m7ihghtTupZ3t2pn4Br2cl2qoDnVOHUJNL850=;lZ8vqlDoOV87tzQV2d7IQA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-def
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/amp/"
 type: article
 quality: 91
-heat: 251
+heat: 261
 published: true
 
 provider:
@@ -233,6 +233,15 @@ related:
       name: The Bulletin
       domain: norwichbulletin.com
     quality: 16
+  - title: "AI's Terminator-Style Threat, ChatGPT's Investment Success, And Elon Musk's Dystopian Delight: Top AI Stories Of The Week"
+    excerpt: "The warning about AI potentially wiping out humanity has been labeled as a dramatic publicity stunt for funding by Sandra Wachter, a renowned expert in data ethics, AI, robotics, algorithms, and regulation. She argues that the focus should be on present ..."
+    publishedDateTime: 2023-06-17T19:12:00Z
+    webUrl: "https://www.benzinga.com/tech/23/06/32905596/ais-terminator-style-threat-chatgpts-investment-success-and-elon-musks-dystopian-delight-top-ai-stor"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "i5BGapWjF/AkX23R2cxt1PXdYqie1jHHZf+RetmbdMKQs4PpPg9/89rQEtaxStEgXV0/8szsIW8MC6wbXeaSDQHXbVMnXEMQGsxjDLagF/n4g6fLVA7dgCsh1kqnIA+XgGMAhSsDJSect2/17paJtXCWEwsfCfi5+5eRtgKTGYkXXWCSRcxqjsGNsYgEuJsBTUi4gTpGch1kGsbZZic7nor5AWPuWOQhEkqpSkc2LnrP5qxCMZNyZPq7BrCdIaYrRg2fbaWYINnLd64BImq+93qjjeqh+adWWolZpWSI65LgJkROmVDwgBmKWX+i3+1pIqRpIlEXOZbvmzM0NttrDIgGbdplG0nyaXGx5SAnsdqSSLAIzmppIcErIj2Z70XFtbwFGSuRo7ZTrnmZb4sIopawiTWjPxsSzHXjfRh5mRDaIKgbKyMyy7vCQ1He+KF0/KXR8IrDk9ZNntKkQfC2huZpPdGCgaa7EWGHF0S1s/gqrKyHq2j0WbvuAtrESJik4JvMIzEShfLxtEbqTOav5w==;LWLyuWKEbUYglJTYpNpejw=="
 ---

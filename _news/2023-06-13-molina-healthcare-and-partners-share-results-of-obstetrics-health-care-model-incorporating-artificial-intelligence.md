@@ -1,23 +1,22 @@
 ---
 category: news
 title: "Molina Healthcare and Partners Share Results of Obstetrics Health Care Model Incorporating Artificial Intelligence"
-excerpt: "Molina Healthcare, Inc. (\"Molina\") recently shared some notable results of a groundbreaking health care model that uses artificial intelligence (AI) to impact the full cycle of obstetrical care, from early pregnancy detection to post-NICU community-based care management."
-publishedDateTime: 2023-06-13T13:42:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/13/9831670.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831670.htm"
+excerpt: "LONG BEACH, Calif.--(BUSINESS WIRE)--Molina Healthcare, Inc. (“Molina”) recently shared some notable results of a groundbreaking health care model that uses artificial intelligence (AI) to ..."
+publishedDateTime: 2023-06-13T13:41:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230613396794/en/Molina-Healthcare-and-Partners-Share-Results-of-Obstetrics-Health-Care-Model-Incorporating-Artificial-Intelligence"
+webUrl: "https://www.businesswire.com/news/home/20230613396794/en/Molina-Healthcare-and-Partners-Share-Results-of-Obstetrics-Health-Care-Model-Incorporating-Artificial-Intelligence"
 type: article
-quality: 14
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Healthcare
+  - AI
 
 related:
   - title: "Healthcare Virtual Assistants Market: Unlocking the Potential of Virtual Assistants in Healthcare: A Game-Changer for Providers"
@@ -46,6 +45,6 @@ related:
       domain: benzinga.com
     quality: 29
 
-secured: "dQwIYfunIPHCuPSDL38RrWQH11CVHpMS/8Y4K7TY3pb2t+EEYdve69MPELcsBcCP9nS9/rFNah9t02TPDnfkMyA3q00k1stDa+L2tWUQgmpMGA4GCEmhnA92oy1CPzNEs/986/QWOOaSrKsR+QFXQ54U0vXP8/onmrxy1XzWW5SI75J4RE1LrlbCpY7BZd4V69atc8NCrTZA04w5WQK+YMmasDjxKHmWuyIJPgnDmd6UvJDglk7UGtPKSE13r2PqluyjwA+Mqzpkvqbr8aOWoHXof0LMZMoZvK54UvQ14g6kAyqbLzHpewuV9PbqsJwQwIHc4AzZ/F5ETZyvPiVX2+Y8R1KqFeU1mcf7qDeZfYY=;BXYR9Edlj1QCVMpCiTjm9w=="
+secured: "NSY+iUoMZx7/+lXqWVZ8HWw4kYwtMhUyjOe7ASOZWSAJJGDtEWNv9xu5U4w73LWvzvE4Xy/5z1KZlILurBvriOfM07EQhXJAbsgeQHvtAK/tazUV06hjrrK8jNUXFx9si7EdFXRgEsbMTUlZcsmAI9GRQpmHBchAuxccuTq8Y0iASSI5hrJtNTW8gMyFqjYl0NsHdh0BjAVtUtb2TJJ8mIuKb9p1z1okAQGmUgK+hw02Bmdn92uP7nmM9R8kjj9I85DMb/bjmF5ut2DrLOEqgMUJlJNsWQDbyvJt9QEnDkjAWlJgOqw0toI22ZTYNp+FvcY1rpsT+yL1GXwOUVpBSM9T681zUNLcgu7dvqGHxO8=;ePh4YpQcRZl34GrdBB9v6A=="
 ---
 

@@ -36,14 +36,14 @@ related:
         height: 1043
         isCached: true
   - title: "Molina Healthcare and Partners Share Results of Obstetrics Health Care Model Incorporating Artificial Intelligence"
-    excerpt: "Molina Healthcare, Inc. (\"Molina\") recently shared some notable results of a groundbreaking health care model that uses artificial intelligence (AI) to impact the full cycle of obstetrical care, from early pregnancy detection to post-NICU community-based care management."
-    publishedDateTime: 2023-06-13T13:42:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831670.htm"
+    excerpt: "LONG BEACH, Calif.--(BUSINESS WIRE)--Molina Healthcare, Inc. (“Molina”) recently shared some notable results of a groundbreaking health care model that uses artificial intelligence (AI) to ..."
+    publishedDateTime: 2023-06-13T13:41:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230613396794/en/Molina-Healthcare-and-Partners-Share-Results-of-Obstetrics-Health-Care-Model-Incorporating-Artificial-Intelligence"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 12
 
 secured: "Sp49kbOAMWqsOfC4he9MOpS8aAQqkZjuq8TjPmQ8WNbMS7p3wBoHWQ2Li1c/PzKbx3LIUO/wEJg/sXF17jB3v9EUI8Hp7fKxDA1upG/e+Li8X/rbBlmEJJU8+Nydta3yyPmmCzqUE7Z8XruDoUvmHpsw6VQsPX+CjZFL5aqWBBOCz1t8eOUwr3is0g9CpYcLo33xR7DKGtxulfuv9j0M6O+i0TFfU4T9VOjCCDHf/YlgxOkd23VXuTJlafkIyeKSVHXaLi4kjri/SQ8iNDtSJTn3/N3wy2uB+ad6mL7vXzMEAlZ/GfkUsF1951Bo1zyI/em/VyrEkH3i4+wD59mgXS8u0NoR8YfqyFbvkxkNJPc=;ofiwIwPuORt3ngLN85JEBw=="
 ---

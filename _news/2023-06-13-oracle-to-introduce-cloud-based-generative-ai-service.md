@@ -59,20 +59,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Generative AI In E-Commerce Market To Surpass A Valuation Of US$ 2.1 Billion By 2032 Driven By Personalized Shopping Experiences"
-    excerpt: "The global generative AI in E-commerce market includes software solutions, platforms as well as services that use generative AI algorithms to provide E-commerce businesses with different functionalities like product recommendations,"
-    publishedDateTime: 2023-06-13T03:53:00Z
-    webUrl: "https://menafn.com/1106426923/Generative-AI-In-E-Commerce-Market-To-Surpass-A-Valuation-Of-US-21-Billion-By-2032-Driven-By-Personalized-Shopping-Experiences"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 10
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?126584"
-        width: 389
-        height: 250
-        isCached: true
 
 secured: "WTr/89yGQhnxI7rRf/8wXLniku2fZK/S1VuyJBTWnwhx+ojvW5JVoVr4VwQOBZJSsMWyBMXlTToAXzv6H3SPJV7r7zh0k5v3vmK0hzjvJps2rZlLjfV0Zdk/ctPN4CIRvJkzlELQkLxu2ql2O54YXyCkk02dj4rDt0fFdYfK5XhObaFh31EfMB4UP9acZE7Ymc6jYhmv9KK2mbdI66Smoz+4lz6+275aCj4NEgckfuEbvt5rPlCURrQP2d0SgbMizc9lUfHmF/QF7Kd48wM6nnXcvkuBcZmRaKIiaE97ZCGcBVH7NjBO0N3KiNbSYYnmF/fYrmSDbaTrH2eDhNJBVVJLtdoioShhNtckH+tka1n2/CLLw02UDNt/Ywjqw5m2/PXjh/YKMAjFaPrPDzEdlzz+87tGtQ+4kXZg69hoMhLrH144S4MUzO45H6xF0iz4aqEEcx03E4lsvx1XCJjuwCxhrCofL+mezYop4z7gno29dS9sXBxSLAl5gW070GyRqUDnrc+lIfb1SJ4tfImOrg==;d2w9OaxajgUI/+whlGJ9Ow=="
 ---

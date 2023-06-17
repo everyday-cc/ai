@@ -227,6 +227,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 17
+  - title: "AI's Terminator-Style Threat, ChatGPT's Investment Success, And Elon Musk's Dystopian Delight: Top AI Stories Of The Week"
+    excerpt: "The warning about AI potentially wiping out humanity has been labeled as a dramatic publicity stunt for funding by Sandra Wachter, a renowned expert in data ethics, AI, robotics, algorithms, and regulation. She argues that the focus should be on present ..."
+    publishedDateTime: 2023-06-17T19:12:00Z
+    webUrl: "https://www.benzinga.com/tech/23/06/32905596/ais-terminator-style-threat-chatgpts-investment-success-and-elon-musks-dystopian-delight-top-ai-stor"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "Wyr3/dDoP4N0GaT5LiC99lbk0XGVTHAM41pyoLIOHj0uRYl0xLho60vyduF3bLIm7VgFOWPipK4YIIRIKV0WMS3RHn9m3aSyjMRbExcRRieAgOQdi/xIjG8bMmr91SWJBOVcEqId97ZQBpGZG1wSrp0CRirLjVXYD+kOC/CUQoRFN3+dU4AV5Hj7jlRKk8E9Ejupt4ZT3fI1A56QA0fLSYqWhq+vbVr+NlY25JSuTb+vm+dIe6p1tqJ/+XzcMoV9RZeKhzThRK8PbIsDfz/KsK5lJ7lbjB1Bp8x8VdEedRDQv2hkDkZbxvWYZ1MHWicJ8/NDYB6/aJ9cgZt/r1N9o+hCtcTtXxQMWjI1xbFuc+EBNGrGuL4REuD/AY2t0hp16Nh/+lX4TfEwFeBOuooXWti66hzMtyyPxf8SsMlGdgYXNS1svxb9s4ihmZqu/bdG6p/IfRUqzGHUeRD6E6U41ddXq57lx3nbyWEljyG8I4eLGgUus2BUQnu0jeXiiq1J+18RY9Jh5LEyRI/tf81g+Q==;RpE0agN31iiowzP3CaJTow=="
 ---

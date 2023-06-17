@@ -229,6 +229,15 @@ related:
       name: The Bulletin
       domain: norwichbulletin.com
     quality: 16
+  - title: "AI's Terminator-Style Threat, ChatGPT's Investment Success, And Elon Musk's Dystopian Delight: Top AI Stories Of The Week"
+    excerpt: "The warning about AI potentially wiping out humanity has been labeled as a dramatic publicity stunt for funding by Sandra Wachter, a renowned expert in data ethics, AI, robotics, algorithms, and regulation. She argues that the focus should be on present ..."
+    publishedDateTime: 2023-06-17T19:12:00Z
+    webUrl: "https://www.benzinga.com/tech/23/06/32905596/ais-terminator-style-threat-chatgpts-investment-success-and-elon-musks-dystopian-delight-top-ai-stor"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "Ro7QJcH7iAO8qZxMaTjaKJmURuTYVNng3w2LS0nVm4axUql2QIFeXEyXbPBTyRAt71lZLx9DbwtLHligcXObQEgpaQEslR9WiVI4+fTPsaHh7q/g9x2YJ6CrXDU1GDJm6DCPHR2umWcbm82NEvcJtqql1xABLYqnp/d+n+qMWnkwFS6j1eWnjpcVH58EaMkiY0rPFECtikp8FXCCQe3GQDcwPSgN78D+9MWpMhlzUaEotUZc9scUvamd+idaXFs5jICEyzzQh25W/w+CGLgbHBylXioe/V9qY/T8M+nTZ3R+0aZ8dyQi3NPRSJx+BTtCn9COroR7dPknOxCtA9AHfRyVQ8mb81AWsKkxH323X3PgGfUyv3rlULnpRgaXxoAQ3lWisUfo+Xkp3AVese9ibhGmB7aaREKXHEtq83n8ThyvpW77rjVLTfAYuKEwAe01uy3fiuUBejLFbpPOtKBnmHUKZUbSqQe6UUI3lU7rEKGeoIXLmVMAMvFdvAThpGg6fwWquvg1Q+EybIlLPG6N+A==;qluSJICadyg3U6Mwv9VOZw=="
 ---
