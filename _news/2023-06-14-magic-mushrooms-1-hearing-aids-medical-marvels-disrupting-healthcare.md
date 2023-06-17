@@ -7,7 +7,7 @@ originalUrl: "https://www.newsweek.com/2023/06/30/magic-mushrooms-1-hearing-aids
 webUrl: "https://www.newsweek.com/2023/06/30/magic-mushrooms-1-hearing-aids-medical-marvels-disrupting-healthcare-1805918.html"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

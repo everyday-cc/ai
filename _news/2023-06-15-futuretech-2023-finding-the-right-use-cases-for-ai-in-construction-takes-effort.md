@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Banking 2023: How Banks Use AI"
-    excerpt: "According to a report by Business Insider, by implementing AI applications, banks  are projected to save $447 billion by the end of 2023. This huge figure demonstrates the revolutionary impact of AI in the banking industry. Here is a quick chart that depicts the region-wise business value of AI in the banking industry worldwide from 2018 to 2030."
-    publishedDateTime: 2023-06-12T06:05:00Z
-    webUrl: "https://www.finextra.com/blogposting/24358/artificial-intelligence-in-banking-2023-how-banks-use-ai"
+  - title: "TANDEM study shows potential of HistoIndex SHG/TPE imaging and AI-based technology in evaluating the effects of combination therapy for NASH"
+    excerpt: "The study found that the AI-based analysis using SHG/TPE digital pathology was able to detect effects seen in different zones of the liver lobule that may not have been detected using conventional microscopy."
+    publishedDateTime: 2023-06-15T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tandem-study-shows-potential-of-histoindex-shg-tpe-imaging-and-ai-based-technology-in-evaluating-the-effects-of-combination-therapy-for-nash-1032391468"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 52
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
     images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/649a3a23-0cb2-4013-b9ca-3683ec9e6a7f.jpg"
-        width: 500
-        height: 277
+      - url: "https://mma.prnewswire.com/media/2101884/TANDEM_Accompanying_Image__1.jpg"
+        width: 400
+        height: 218
         isCached: true
 
 secured: "YZ710y7zGKWsCUI4HMTmYOkkEmK5Ii+eGTAGLwd1idUr907tKZyVDMfyQlgf0AYa8jKwpo0EB6vm6dWW1K82PKlbxBGvOX1P/mrWYWLyOeQU5AbXQNnMVmVkPhgqOilqWGcKx43cnQRDAnYTbkgR/gryr5NBdddokn1nArxHYwTwIyYCWzl5sz/InkACZ6koT2gtKH1vCsLO21R/CzjFAFdkLvC1dNvWoHll/wmYd3e47S0qdjUyqSHZejeP4Hq7mTPXyN4Hfnva/+XdFWH/wpS/m5JzAQlHwwfLwcpItkJPgkyWAFRqucE3bmuEXS6gI2PJmquU3ixa2Astz93CZLCJJmFLdJ4poKwyRHlVIgdXqxLDnkliM++MbeZWtbfjIhMqj2LzY08bUshdG6wdVxt6ppyzNPn+lX3MY5cETOV5t3AMpCsBw4kUCGKEV7xzGw5UAzmZVWBrvxAuFj/ctnicDVrZt5yb033/bJwO8NFLRSi79ZdcuwVIRdaZH5LTYm+pUrX0AcgMqo8Nfftq3w==;tKc9BCtKKsjiqpQVTr5Mgg=="

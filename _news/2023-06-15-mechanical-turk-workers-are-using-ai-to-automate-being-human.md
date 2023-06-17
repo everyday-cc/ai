@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/amp/"
 type: article
 quality: 87
-heat: 101
+heat: 97
 published: true
 
 provider:

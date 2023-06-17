@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

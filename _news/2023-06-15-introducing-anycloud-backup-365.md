@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/introducing-anycloud-backup-365/"
 webUrl: "https://www.ibm.com/blog/introducing-anycloud-backup-365/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

@@ -2,6 +2,49 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-04-05-rise-of-the-commentator-bot-the-masters-leans-into-generative-ai.md",
+      "title": "Rise Of The Commentator Bot: The Masters Leans Into Generative AI",
+      "excerpt": "IBM upgrades the Masters digital experience every year, often using their sponsorship of golf’s most popular event to showcase technology available to their enterprise customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikedojc/2023/04/05/rise-of-the-commentator-bot-the-masters-leans-into-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/mikedojc/2023/04/05/rise-of-the-commentator-bot-the-masters-leans-into-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go.md",
       "title": "Scott Reeder | Artificial intelligence daunting but has a ways to go",
       "excerpt": "Truck drivers may soon face a similar threat as artificial intelligence is perfected and self-driving vehicles become commonplace. I was reading a Wall Street Journal article that said the future of truck stops is imperiled.",
@@ -896,49 +939,6 @@
       "provider": {
         "name": "VietnamPlus",
         "domain": "vietnamplus.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-everything-we-know-about-amazon-prime-day-2023-so-far.md",
-      "title": "Everything we know about Amazon Prime Day 2023 so far",
-      "excerpt": "We’ll continue updating you as Amazon releases new information over the next few weeks. Amazon has not yet announced when it is hosting Prime Day 2023. The sale is historically held in July ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/select/shopping/amazon-prime-day-2023-ncna1303931",
-      "originalUrl": "https://www.nbcnews.com/select/shopping/amazon-prime-day-2023-ncna1303931",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2023_13/3600625/230329-prime-day-amazon-explainer-kb-2x1.jpg",
-          "width": 2400,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/select/amp/ncna1303931",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/select/amp/ncna1303931",
-      "publishedDateTime": "2023-04-04T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null

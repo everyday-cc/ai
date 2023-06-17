@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b?sf
 webUrl: "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b?sf179113301=1"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 900
     height: 506
     isCached: true
+
+related:
+  - title: "Investment Strategy Monthly Insights: Defined Outcome Strategies, Robotics & AI, and Cybersecurity"
+    excerpt: "Revolutionizing Industries – Harnessing the Power of Automation, Robotics and Artificial Intelligence for Growth and Transformation Thematic investing provides access to the key disruptive, technological trends shaping our world. Automation plays a key ..."
+    publishedDateTime: 2023-06-13T17:54:00Z
+    webUrl: "https://www.benzinga.com/markets/emerging-markets/23/06/32842172/investment-strategy-monthly-insights-defined-outcome-strategies-robotics-ai-and-cybersec"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
 
 secured: "yumRaYVPpGYPejo38M0S70HtNZjsSrakZFGGnUzRqyTikOJLsO2DJmqxcfys5Ir+MzMQqy6MdHzjWbX0nhrBQYd0jnrVSXS6Z9FzDAXGdwznlZfZu+PKn1HLjN9p31PL3MKQOWt0JiE4a1vbnnyXAuLvKBOzBC6GEYeLLdwXl9ClzedKskhYNlUmxNPEjrul3z8OjUgoWRSCuIEsEyDnagKxfwX/L+TN+pjyJnMirY20KwiD5n/2gzzE5B4BvwwTt9p/QNVFAGh90Ar3TrMihySv0n9p1thYRzerlqglM7t3uG3cReYXw7mzYkJgrHW6zSmqsXLyNwpyrMMzPSJgOZ3NmOv7NpIXgd5fzYpAphXUup9zS8UBF28sufYptb0dNoEcEXoVSLhr5FX3IpwyPATtVdOwEs07I6mzHge569i8LfDgrJFu510qsCnKKfEkKPKYyhP/piB5YCe8KWecEJAJc/sQBLAfLMB6crY6dNdtPi4A7PCAAPzBNrWf+zPkjfn7wp/sm+AyJ4SW4RW6Pw==;vWbMrKLdlYr0voesHsPAPQ=="
 ---

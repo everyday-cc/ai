@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-17-could-a-robot-win-a-grammy-ai-music-is-eligible-sort-of.md",
+      "title": "Could a robot win a Grammy? AI music is eligible — sort of",
+      "excerpt": "Hold the (gramo)phone: Artificial intelligence-generated music is eligible for Grammy Awards — err, kind of. The Recording Academy announced sweeping changes Friday to music’s biggest night, including that it will allow entries that use AI, as long as there is a “meaningful” and “relevant” human component.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/06/16/could-a-robot-win-a-grammy-ai-music-is-eligible-sort-of/",
+      "originalUrl": "https://nypost.com/2023/06/16/could-a-robot-win-a-grammy-ai-music-is-eligible-sort-of/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/06/AI-grammys.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/06/16/could-a-robot-win-a-grammy-ai-music-is-eligible-sort-of/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/16/could-a-robot-win-a-grammy-ai-music-is-eligible-sort-of/amp/",
+      "publishedDateTime": "2023-06-16T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-metas-voicebox-generative-ai-makes-anyone-speak-a-foreign-language.md",
       "title": "Meta's Voicebox Generative AI Makes Anyone Speak a Foreign Language",
       "excerpt": "Meta says Voicebox can be used to give a natural-sounding voice to virtual assistants or non-player characters in the metaverse, which are digital worlds in which people will gather to work, play and hang out. It could also be used by visually impaired people to hear messages read by the voices of their friends.",
@@ -580,7 +623,7 @@
       "originalUrl": "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1128,7 +1171,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1169,58 +1212,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-how-two-founders-approach-building-ethical-ai-startups-in-health-care.md",
-      "title": "How two founders approach building ethical AI startups in health care",
-      "excerpt": "The hype around AI will produce a lot of startups built on shaky ethics. But founders already building in the space can offer some advice.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/",
-      "originalUrl": "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1474076387.jpg?resize=1200,768",
-          "width": 1200,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

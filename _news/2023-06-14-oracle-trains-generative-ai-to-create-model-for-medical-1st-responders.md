@@ -26,17 +26,17 @@ images:
 related:
   - title: "Online, people claimed the self-driving vehicle blocked emergency responders. Police say it isn't true."
     excerpt: "San Francisco police say a viral video that sparked condemnation of the city’s self-driving taxis may have been taken out of context and unfairly ignited a firestorm of controversy around the self-driving vehicles."
-    publishedDateTime: 2023-06-14T21:38:00Z
-    webUrl: "https://www.nbclosangeles.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/3170781/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/3170781/?amp=1"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/3170781/?amp=1"
+    publishedDateTime: 2023-06-15T08:38:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/4424426/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/4424426/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/4424426/?amp=1"
     type: article
     provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
+      name: NBC New York
+      domain: nbcnewyork.com
     quality: 43
     images:
-      - url: "https://media.nbclosangeles.com/2023/06/GettyImages-1497019980.jpg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://media.nbcnewyork.com/2023/06/GettyImages-1497019980.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true

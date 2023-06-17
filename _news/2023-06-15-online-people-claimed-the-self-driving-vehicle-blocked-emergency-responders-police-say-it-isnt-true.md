@@ -2,26 +2,26 @@
 category: news
 title: "Online, people claimed the self-driving vehicle blocked emergency responders. Police say it isn't true."
 excerpt: "San Francisco police say a viral video that sparked condemnation of the city’s self-driving taxis may have been taken out of context and unfairly ignited a firestorm of controversy around the self-driving vehicles."
-publishedDateTime: 2023-06-14T21:38:00Z
-originalUrl: "https://www.nbclosangeles.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/3170781/"
-webUrl: "https://www.nbclosangeles.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/3170781/"
-ampWebUrl: "https://www.nbclosangeles.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/3170781/?amp=1"
-cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/3170781/?amp=1"
+publishedDateTime: 2023-06-15T08:38:00Z
+originalUrl: "https://www.nbcnewyork.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/4424426/"
+webUrl: "https://www.nbcnewyork.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/4424426/"
+ampWebUrl: "https://www.nbcnewyork.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/4424426/?amp=1"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/4424426/?amp=1"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: NBC Los Angeles
-  domain: nbclosangeles.com
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.nbclosangeles.com/2023/06/GettyImages-1497019980.jpg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcnewyork.com/2023/06/GettyImages-1497019980.jpg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "R60f3U/m2uoW06+YljSsvlDYrxzCE9jcKUPxLK88LJ87lnxsXB5YhwJ8PhzNLBMh3VHWbTn8rSTOc9Ng4f9BfvNXv0GM1TESnfKFPenv3+mJGt5VfXK6LvlhR/j3OTaAfzgbASxtpl6cKWBphSvDQXWOwV4BhrH44QR74odRriA/Hfne71jdN7OdvjnJL8afoaT1uWOi3pbYrTlc1xl6BV3wNYVU+WCZJRsn7W8a0bxfp3vZr6HokUgLB4E4GFG8vzPAsJns7pLpuK7mhuOfvl0S7oPH7C06q/O6zXLnwllfL8WzS4QBlf/rPyV7WQmLpZS4uKJTE4nHjB8p0Gnl1wLKbLlTUCUS9hIyDWTxRR4=;ZmaDgnmq7iSxvdkzzcNb+A=="
+secured: "6mFpxQRhlLxG05GuOHpYXxhyxxb90P8E0GlnJf/MI37QH7MMvTozn6uNjkuVeG7oBZXjnkEW0hkbwrvX0gu7Gdtu6RqB0GvpDpOMQEhvrtZAsqp+pqAj8TWK06xF5/MEKsuyYZSI2taaEWVmjjOhfo1mc5uCrtM3pc+0DHSJ3xVIRelGAOTsoW1mSgF5UNLDPIsjfXPy4hm0dDr2HMWmHlpLGlnZT9UNosq/Ew9FoYC9P1JoJ57LubH37G+mh4cZz16UJwAWYR73CEsC7xn1aO/VBvcpgmYPk/4oYoj/hHT2duhKypnDqAmGRBWzwCYRmyiefslXYrhMLbexViT2pVoXcclWTz6KrlbzA4g+KEM=;Iy4PEz2S5tJOFAWF8t9LMg=="
 ---
 

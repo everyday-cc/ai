@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "It’s not just hype, corporate America is making huge bets on AI transforming their businesses"
+    excerpt: "There’s an all-out race to leverage AI to add more utility and value to products, and to reap a portion of the resulting demand in AI-powered products and services."
+    publishedDateTime: 2023-06-16T20:19:00Z
+    webUrl: "https://techcrunch.com/2023/06/16/ai-transformating-corporate-america/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 56
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1483825958.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Beware the office guru when handling AI"
     excerpt: "Company directors are unaware of the widespread deployment of artificial intelligence in their firms’ systems and urgently need robust governance around its use, a report has found."
     publishedDateTime: 2023-06-12T23:32:00Z

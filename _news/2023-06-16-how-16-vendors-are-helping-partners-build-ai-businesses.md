@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 768
         isCached: true
-  - title: "Health Care Embraces AI"
-    excerpt: "“We believe that this is not right for health care generally and ABA specifically, but instead espouse to create ‘human-in-the-loop’ products that leverage artificial intelligence as an aid, not a replacement.” Adu said that because SpectrumAi ..."
-    publishedDateTime: 2023-06-12T07:04:00Z
-    webUrl: "https://labusinessjournal.com/special-reports/health-care-embraces-ai/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 39
-    images:
-      - url: "https://images.labusinessjournal.com/wp-content/uploads/2023/06/SR_DEEP6-AI_Study-Detail-Dashboard_0612-1024x671.png"
-        width: 1024
-        height: 671
-        isCached: true
   - title: "The missing steps in the application of AI on remote health monitoring"
     excerpt: "Remote health monitoring refers to the use of technology to monitor a patient's health remotely outside of traditional healthcare settings, utilising connected devices like wearable sensors."
     publishedDateTime: 2023-06-12T15:07:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-co
 webUrl: "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html"
 type: article
 quality: 82
-heat: 152
+heat: 153
 published: true
 
 provider:

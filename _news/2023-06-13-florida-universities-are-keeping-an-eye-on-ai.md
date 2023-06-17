@@ -48,15 +48,6 @@ related:
       name: Creative Loafing Tampa
       domain: cltampa.com
     quality: 19
-  - title: "Florida universities look at threats, opportunities from artificial intelligence"
-    excerpt: "As artificial intelligence becomes an increasingly high-profile topic in higher education, Florida universities are holding discussions about how to harness the technology’s power — and stave off the potential for academic malfeasance."
-    publishedDateTime: 2023-06-12T06:30:00Z
-    webUrl: "https://www.bizjournals.com/jacksonville/inno/stories/news/2023/06/12/florida-universities-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "wNarhR/1arpKM8PhBKtB+GFJjh6gccMhdYX7J/vZ4orAP0dcSL5GbWW/9Qn5mSmpGhIapfGeoQXvZ7WFNujEwg+HxjP2xJxXT9Fy9jwI5CkFiFzdtbvq6qNVvTI45ldTv4yOHpcSfgDXb+2spJYBAL5K3FZemW82qHlckZj2PokWZxRdl7nw5uogg/5ZuVcVfylZeG02vrgBqjwOKCJ93zVRxqN2/dUhg2Ry3mjF7uOVxQcNb2zfOCDk2j6vwJT+Yu8vr7pNpQ/MgElYEXgN5osZn35mDFmI/1gpbdciMkNdSkP11jv1Q0xadjjCgHdqBIV0FC6okG3YVvFAjF6TzXKBU+W6RgnqlL/dVC4dVEA=;8YZUpqUPWO80ZCHohkKBbA=="
 ---

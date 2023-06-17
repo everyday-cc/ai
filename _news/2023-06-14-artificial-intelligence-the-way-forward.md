@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI vs AI: Next front in phishing wars"
+    excerpt: "Threat intelligence firm Abnormal Software is seeing cybercriminals using generative AI to go phishing; the same technology is part of the defense."
+    publishedDateTime: 2023-06-16T22:36:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-vs-ai-phishing-wars/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr061723-featuredimg-ai-vs-ai-phishing-wars.jpeg"
+        width: 1366
+        height: 910
+        isCached: true
   - title: "Investing in AI: What to Consider"
     excerpt: "Artificial intelligence may prove to be the most disruptive and significant change in technology in a generation. As more companies are moving to incorporate AI into their core businesses, the space appears to be ripe for investment,"
     publishedDateTime: 2023-06-15T17:36:00Z

@@ -1,18 +1,20 @@
 ---
 category: news
 title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
-excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
-publishedDateTime: 2023-06-14T14:38:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
-webUrl: "https://abcnews.go.com/Business/wireStory/ia-chip-race-heats-amd-introduces-rival-nvidia-100069678?0=utm_source=ground.news&1=utm_medium=referral"
+excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools."
+publishedDateTime: 2023-06-14T14:21:00Z
+originalUrl: "https://www.seattletimes.com/business/ia-chip-race-heats-up-as-amd-introduces-rival-to-nvidia-technology/"
+webUrl: "https://www.seattletimes.com/business/ia-chip-race-heats-up-as-amd-introduces-rival-to-nvidia-technology/"
+ampWebUrl: "https://www.seattletimes.com/business/ia-chip-race-heats-up-as-amd-introduces-rival-to-nvidia-technology/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ia-chip-race-heats-up-as-amd-introduces-rival-to-nvidia-technology/?amp=1"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI Hardware
@@ -296,6 +298,6 @@ related:
       domain: bizjournals.com
     quality: 27
 
-secured: "lUT3mXFtGppi+kh0RSsP2AA6NWLL3WlaDT8rEIrQ5v4RtYJbozu3ThCbDhKQxPwts0EzK99CF7NvhdlkvB8lI0u13H74oO3iAjE2bNmDUFPiCJDhJHuzWAsz6ff+xxfZuQB+mMhEFGWpUOh7RmHky2GRGHab6d+wjnc+NHzhftnQnduFhbFyqoitdG0L7+52UUfb9eUkzmMifMLwIV4oied2RhiJVB5Jb/pi+ICuk2TVnOcrZ5dEIytO0oKXoa6581od71tFwBifYkO5gNWKymWZdgwPUoLdvD829xlvcRykVU+XVoCPJMP5aCJ35xVhpza5UZLttO2tVDs0K9LDuK19CzZc4802QT1dc+O/5Pp1XGjsXM8sAVpNm4AM3YVjT3j21lCUr8p2d6y+VIoBOg0aMl8DykDThPZXigDlRk8JcOfNQ3QeW3LTy+FnejgbbQ4BujYQ2lSMqyH25/KYX0NH62JhD3AqHKo9YEEAGkXSHyRJ3RrHqlUViuu9+uOaeBfTzRYf3Z321XxxRLXUaQ==;FNKmDlK7XOko0+0YrkfXIg=="
+secured: "bwvmI3r6bWs75qHW1KU9rO/VC7P11YcgNIRCQGzAJUGNbYnW91nWdO8YRSUYuoyPzFQ4KIdrYpognCGnz/PlL9N1PGuRSflp7jZaRf8xzBj4DQfZoRXNXrObi/981AzEvP9rJrLZUl+r7cpplfqq4bwVNcrOyOYg4Of9meKUu9j8NrONwUHh0CDCG1DvOotTu/UcKZ+SjyrTuHAgQrGwfljY2cW9jORyey6IX8Pvcng4etDLjx7GqyNlbFfv+j4NZobiLk85UHUc/p27KsLr29AhScyKqRd+4Zn80mmznAJoTu2Jd6Oi5wbhNcTe3gm/GuhbKyhD2HqRhpk3jj7VqjUa0SmBTrvmHbycjgWMcG5A1KcNp/bp0/T4IRhaI8MGqgLMGKv6lJynHqGgPczWIwZswWUGrTBOOFqKpb4YnvkPLnTZ6kECITC4lI9EcwcD5sCIG5oWb7aru3iteI21dybAz1F9qi2W/7cbT5Rk/LgNqO0yl73GhvSY9HqAxkiUK2jDi/oO7tM66PiFICuV7w==;bgJAgM6vUp2vLSAxZ3cpdQ=="
 ---
 

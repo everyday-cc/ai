@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-wont-likely-rea
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-wont-likely-reach-human-like-levels-without-key-component-study-finds.amp"
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 768
         isCached: true
-  - title: "Health Care Embraces AI"
-    excerpt: "“We believe that this is not right for health care generally and ABA specifically, but instead espouse to create ‘human-in-the-loop’ products that leverage artificial intelligence as an aid, not a replacement.” Adu said that because SpectrumAi ..."
-    publishedDateTime: 2023-06-12T07:04:00Z
-    webUrl: "https://labusinessjournal.com/special-reports/health-care-embraces-ai/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 39
-    images:
-      - url: "https://images.labusinessjournal.com/wp-content/uploads/2023/06/SR_DEEP6-AI_Study-Detail-Dashboard_0612-1024x671.png"
-        width: 1024
-        height: 671
-        isCached: true
   - title: "Mass layoffs are creating a new generation of founders building climate, health, and fintech startups"
     excerpt: "Health and fintech are also popular. Ai-Ling Walker, a former creator success staffer at Patreon, is building the Noetic platform to help neurodiverse people receive a diagnosis. It took her five years to be diagnosed with ADHD, during which time she ..."
     publishedDateTime: 2023-06-14T09:42:00Z
