@@ -57,20 +57,6 @@ related:
         width: 900
         height: 900
         isCached: true
-  - title: "The missing steps in the application of AI on remote health monitoring"
-    excerpt: "Remote health monitoring refers to the use of technology to monitor a patient's health remotely outside of traditional healthcare settings, utilising connected devices like wearable sensors."
-    publishedDateTime: 2023-06-12T15:07:00Z
-    webUrl: "https://www.ibtimes.co.uk/missing-steps-application-ai-remote-health-monitoring-1715990"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 39
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1715715/digital-healthcare-smartwatch.jpg"
-        width: 2500
-        height: 1475
-        isCached: true
   - title: "How 16 Vendors Are Helping Partners Build AI Businesses"
     excerpt: "While several of these vendors have been offering AI products and services for years—such as Amazon Web Services, IBM, Google Cloud and Microsoft Azure, to name a few—demand for such technologies has reached new heights recently due to the hype ..."
     publishedDateTime: 2023-06-15T20:40:00Z

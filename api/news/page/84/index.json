@@ -2,6 +2,300 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-04-26-artificial-generative-intelligence-risks-a-return-to-cultural-colonialism.md",
+      "title": "Artificial generative intelligence risks a return to cultural colonialism",
+      "excerpt": "The explosive rise of AI chatbots has brought us to a pivotal moment that will have lasting effects on our collective worldview.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/",
+      "originalUrl": "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/artificial-generative-intelligence-risks-a-return-to-cultural-colonialism/amp/",
+      "publishedDateTime": "2023-04-25T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-a-pioneering-artificial-intelligence-method-to-fight-urban-air-pollution.md",
+      "title": "A pioneering artificial intelligence method to fight urban air pollution",
+      "excerpt": "World Health Organization (WHO). This scenario is exacerbated in urban areas where more than 50% of the world's population is concentrated.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.html",
+      "originalUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-pioneering-artificia.jpg",
+          "width": 2067,
+          "height": 1831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-artificial-intelligence-method-urban-air.amp",
+      "publishedDateTime": "2023-04-25T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid.md",
+      "title": "GOP releases 100% AI-generated ad to fearmonger over Biden’s reelection bid",
+      "excerpt": "On the screen flashes a dark, AI-generated image of Biden and Vice President Kamala Harris, smiling and waving in front of a sea of American flags. From there, a series of AI-generated scenes show the faked future that the RNC imagines that this election result would bring,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/Beat-Biden-RNC-2023-response-ad-screenshot-800x362.png",
+          "width": 800,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/04/gop-releases-100-ai-generated-ad-to-fearmonger-over-bidens-reelection-bid/amp/",
+      "publishedDateTime": "2023-04-25T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-the-race-continues-google-search-set-to-be-backed-by-conversational-ai.md",
+      "title": "The Race Continues: Google Search Set To Be Backed By Conversational AI",
+      "excerpt": "The addition of Generative AI capabilities to Google Search will be critical if Google intends to remain the top search engine globally. And while there are more questions than answers at this time, Google is going to be adding conversational to its search platform and it should be well received.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/",
+      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644827328980223119f33129/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/04/25/the-race-continues-google-search-set-to-be-backed-by-conversational-ai/amp/",
+      "publishedDateTime": "2023-04-25T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-top-10-artificial-intelligence-ai-cryptocurrencies.md",
+      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
+      "excerpt": "If you’re interested in two of today’s hottest alternative investments but you’re having trouble choosing between crypto and artificial intelligence (AI), there’s good news: You don’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/top-10-artificial-intelligence-ai-190017402.html",
+      "originalUrl": "https://www.aol.com/top-10-artificial-intelligence-ai-190017402.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/mVoD2uWOrG6UMDfUinCT.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/2fb2049818c4e7f748ab277ea4751027",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/top-10-artificial-intelligence-ai-190017402.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/top-10-artificial-intelligence-ai-190017402.html",
+      "publishedDateTime": "2023-04-25T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform.md",
+      "title": "RSAC 2023: SecurityScorecard launches ‘first’ GPT-4 security ratings platform",
+      "excerpt": "At RSAC 2023 in San Francisco, SecurityScorecard announced the launch of the 'first' GPT-4 security ratings platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/",
+      "originalUrl": "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_security-breach-padlock_3_1200x800.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/rsac-2023-securityscorecard-launches-first-gpt-4-security-ratings-platform/amp/",
+      "publishedDateTime": "2023-04-25T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
       "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
       "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs.",
@@ -860,301 +1154,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-microsoft-earnings-to-highlight-ai-cloud-services-direction.md",
-      "title": "Microsoft earnings to highlight AI, cloud services direction",
-      "excerpt": "Goldman Sachs analyst Kash Rangan said that Wall Street has been concerned about a potential slowdown in the growth rate of Microsoft's (MSFT) Azure services. However, Rangan added that ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3959368-microsoft-earnings-to-highlight-ai-cloud-services-direction",
-      "originalUrl": "https://seekingalpha.com/news/3959368-microsoft-earnings-to-highlight-ai-cloud-services-direction",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1184908397/image_1184908397.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-onemeta-aitm-launches-verbumcalltm-the-ultimate-ai-driven-mobile-phone-translation-service-revolutionizing-global-communication.md",
-      "title": "OneMeta AI(TM) launches VerbumCall(TM): The Ultimate AI-driven Mobile Phone Translation Service Revolutionizing Global Communication",
-      "excerpt": "BOUNTIFUL, UT / ACCESSWIRE / April 25, 2023 / OneMeta AI (www.onemeta.ai) ONEI. OneMeta AI, the pioneering mastermind behind AI-powered language solutions, has unveiled the groundbreaking ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/ac31985816/onemeta-ai-tm-launches-verbumcall-tm-the-ultimate-ai-driven-mobile-phone-translation-service-revo",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/ac31985816/onemeta-ai-tm-launches-verbumcall-tm-the-ultimate-ai-driven-mobile-phone-translation-service-revo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31985816",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31985816",
-      "publishedDateTime": "2023-04-25T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance.md",
-      "title": "4 steps to improving your ESG risk management to increase financial performance",
-      "excerpt": "Environmental, Social, and Governance (ESG) risk management has emerged as a critical aspect of business strategy for companies worldwide. A 2023 IBM IBV study showed that organizations that are seen as ESG leaders are 43% more likely to outperform their peers on profitability. However, 57% of CEOs admit",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance/",
-      "originalUrl": "https://www.ibm.com/blog/4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/4-steps-to-improving-your-ESG-risk-management-to-increase-financial-performance-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-gpu-for-deep-learning-market-sales-volume-and-forecast-2030.md",
-      "title": "GPU for Deep Learning Market Sales Volume, And Forecast 2030",
-      "excerpt": "The \" GPU for Deep Learning Market\" Size, Trends and Forecasts (2023-2030)â, provides a comprehensive analysis of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success.md",
-      "title": "The Generative AI Frontier: Mastering LLM Adoption For CEOs And CTOs To Drive Business Success",
-      "excerpt": "As the adoption of LLMs expands, it's vital for leaders to understand these risks and develop strategies to mitigate them effectively, ensuring that generative AI propels their organizations forward instead of hindering their progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6446876e15b9e495eda821c1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/25/the-generative-ai-frontier-mastering-llm-adoption-for-ceos-and-ctos-to-drive-business-success/amp/",
-      "publishedDateTime": "2023-04-25T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-what-marketing-and-advertising-specialists-can-expect-from-chatgpt.md",
-      "title": "What Marketing And Advertising Specialists Can Expect From ChatGPT",
-      "excerpt": "Attracting nearly 40 million users per day, ChatGPT is one of the many chatbots being utilized to provide customer service, draft copy and even assist in market research. As it continues to become more ubiquitous and the technology powering it matures, we will continue noticing several major changes in the marketing and advertising industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 281,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62cec7ed48d72a6b106829cf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/04/25/what-marketing-and-advertising-specialists-can-expect-from-chatgpt/amp/",
-      "publishedDateTime": "2023-04-25T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

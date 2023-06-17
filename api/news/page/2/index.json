@@ -164,7 +164,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -257,57 +257,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-this-week-in-xr-ai-startups-cohere-mistral-synthesia-raise-463-million-medivis-brings-x-ray-vision-to-hololens.md",
-      "title": "This Week In XR: AI StartUps Cohere, Mistral, Synthesia Raise $463 Million, Medivis Brings X-Ray Vision To Hololens",
-      "excerpt": "Apple’s unveiling of the Vision Pro XR headset on Monday June 5th continues to dominate tech news this week. Which is pretty incredible when you consider this is another record breaking week for AI startup investments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/06/15/this-week-in-xr-ai-startups-cohere-mistral-synthesia-score-463-million-medivis-brings-x-ray-vision-to-hololens/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/06/15/this-week-in-xr-ai-startups-cohere-mistral-synthesia-score-463-million-medivis-brings-x-ray-vision-to-hololens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6483afa277ce74146a2c5c61/0x0.jpg?format=jpg&crop=2000,1126,x0,y43,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/06/15/this-week-in-xr-ai-startups-cohere-mistral-synthesia-score-463-million-medivis-brings-x-ray-vision-to-hololens/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/06/15/this-week-in-xr-ai-startups-cohere-mistral-synthesia-score-463-million-medivis-brings-x-ray-vision-to-hololens/amp/",
-      "publishedDateTime": "2023-06-15T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -828,7 +777,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1262,6 +1211,54 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-a-to-z-of-artificial-intelligence-ai-terminologies-buzzwords-worth-knowing.md",
+      "title": "A-To-Z Of Artificial Intelligence: AI Terminologies & Buzzwords Worth Knowing",
+      "excerpt": "From deep learning and environment to reinforcement learning and swarm intelligence, here's a handy glossary of AI-related terms worth knowing.",
+      "sourceUrl": null,
+      "webUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
+      "originalUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/06/15/f07ca4ed39925dc0b23208f32d0652101686820877963402_original.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp",
+      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp",
+      "publishedDateTime": "2023-06-15T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.abplive",
+        "domain": "abplive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning",
+        "AI in Autos",
+        "Natural Language Processing",
+        "AI in Healthcare"
       ]
     }
   ],

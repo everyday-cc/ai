@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Artificial Intelligence and the Future of Jobs"
+    excerpt: "The growth of artificial intelligence (AI) is driving fearful discussions around the disappearance of jobs and tasks that are traditionally done by humans. This has particularly impacted the working class,"
+    publishedDateTime: 2023-06-16T11:33:00Z
+    webUrl: "https://themedialine.org/mideast-mindset/artificial-intelligence-and-the-future-of-jobs/"
+    type: article
+    provider:
+      name: The Media Line
+      domain: themedialine.org
+    quality: 39
+    images:
+      - url: "https://themedialine.org/wp-content/uploads/2023/06/ai-artificial-intelligence-humanoid-robot-talking-human-consult-advise-wisely-project-development-generative-aix9xa-e1686915161791.jpg"
+        width: 2560
+        height: 1438
+        isCached: true
   - title: "Impact of generative AI on chatbots"
     excerpt: "From cloud chaos to clarity.” Generative AI can enable chatbots to provide meaningful and relevant responses to users, but there are risks and challenges that must be considered when adopting it. Click here to continue."
     publishedDateTime: 2023-06-15T13:05:00Z

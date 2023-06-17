@@ -39,22 +39,6 @@ related:
         width: 1300
         height: 733
         isCached: true
-  - title: "Meta open sources an AI-powered music generator"
-    excerpt: "Not to be outdone by Google, Meta has released its own AI-powered music generator — and, unlike Google, open-sourced it. Called MusicGen, Meta’s music-generating tool, a demo of which can be found here,"
-    publishedDateTime: 2023-06-12T16:41:00Z
-    webUrl: "https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/"
-    ampWebUrl: "https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-logo-pattern-float.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI and machine learning will dominate new solutions"
     excerpt: "On how AI and machine learning is transforming risk management practices ... the application of cloud strategies in risk management have been beneficial to financial services companies by replacing dated legacy infrastructure. Using cloud services ..."
     publishedDateTime: 2023-06-15T09:01:00Z

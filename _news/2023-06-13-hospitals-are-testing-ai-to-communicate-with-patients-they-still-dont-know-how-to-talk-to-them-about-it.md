@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-13T08:30:00Z
 originalUrl: "https://www.statnews.com/2023/06/13/ai-hospitals-patient-consent-health-care/"
 webUrl: "https://www.statnews.com/2023/06/13/ai-hospitals-patient-consent-health-care/"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.statnews.com/wp-content/uploads/2023/06/AdobeStock_476047632-645x645.jpeg"

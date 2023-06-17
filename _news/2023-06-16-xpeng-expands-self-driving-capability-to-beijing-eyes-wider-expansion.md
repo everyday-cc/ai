@@ -41,6 +41,31 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "How self-driving cars could fuel a shift in ridesharing"
+    excerpt: "Robert Stone and Sheila Zieglowsky aren't the typical image of technological early adopters, but the octogenarians have been quick to take up a newly expanded ride-hailing service that uses self ..."
+    publishedDateTime: 2023-06-13T00:07:00Z
+    webUrl: "https://www.cbsnews.com/news/waymo-self-driving-car-rideshare/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-self-driving-car-rideshare/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-self-driving-car-rideshare/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/12/c382aedc-5de0-45c8-8ffc-b22a8620e174/thumbnail/1200x630/23a6420664d9780e95a7f614fbf8048c/gettyimages-1247366679.jpg?v=23da2bed74e9783333cf303fba619e89"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Robot waiters taking more orders, improving assisted living dining rooms"
+    excerpt: "Artificial intelligence-powered robots are increasingly being tested in senior living and other industries, taking over repetitive tasks done by humans"
+    publishedDateTime: 2023-06-13T04:36:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/robot-waiters-taking-more-orders-improving-assisted-living-dining-rooms/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 33
   - title: "Watch Out! Tesla - Rival XPeng Launches Self-Driving Tech in China"
     excerpt: "Also Read: XPeng Stock Drops After Q1 Earnings and Cautious Outlook: The Details XPeng said its City NGP (Navigation Guided Pilot) system, which is similar to Tesla Inc's TSLA FSD (Full Self-Driving) feature, is also available in Shanghai, Shenzhen ..."
     publishedDateTime: 2023-06-15T13:12:00Z

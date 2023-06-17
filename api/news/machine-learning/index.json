@@ -503,7 +503,7 @@
       "originalUrl": "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 271,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -761,6 +761,49 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-syntiant-analog-deep-learning-chips.md",
+      "title": "Syntiant: Analog Deep Learning Chips",
+      "excerpt": "The chip they’ll be building is an inference accelerator designed to run deep-learning processes 50x more efficiently than traditional stored-program architectures, according to the company. The processor uses custom analog neural networks to optimize ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/syntiant-analog-deep-learning-chips/",
+      "originalUrl": "https://semiengineering.com/syntiant-analog-deep-learning-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-8.39.02-AM-258x300.png",
+          "width": 258,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1141,6 +1184,41 @@
       ]
     },
     {
+      "path": "_news/2023-06-07-machine-learning-and-data-sciences-for-financial-markets.md",
+      "title": "Machine Learning and Data Sciences for Financial Markets",
+      "excerpt": "Leveraging the research efforts of more than sixty experts in the area, this book reviews cutting-edge practices in machine learning for financial markets. Instead of seeing machine learning as a new field, the authors explore the connection between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/us/universitypress/subjects/mathematics/mathematical-finance/machine-learning-and-data-sciences-financial-markets-guide-contemporary-practices?format=AR",
+      "originalUrl": "https://www.cambridge.org/us/universitypress/subjects/mathematics/mathematical-finance/machine-learning-and-data-sciences-financial-markets-guide-contemporary-practices?format=AR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-ai-terminology-101-how-recurrent-neural-networks-are-revolutionising-ai.md",
       "title": "AI Terminology 101: How Recurrent Neural Networks Are Revolutionising AI",
       "excerpt": "Artificial Intelligence (AI) is a broad, exciting field that's continually evolving, making breakthroughs, and impacting our lives in myriad ways. One of the fascinating aspects of AI ...",
@@ -1332,101 +1410,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-scientists-use-machine-learning-to-see-how-the-brain-adapts-to-different-environments.md",
-      "title": "Scientists use machine learning to 'see' how the brain adapts to different environments",
-      "excerpt": "Johns Hopkins scientists have developed a method involving artificial intelligence to visualize and track changes in the strength of synapses—the connection points through which nerve cells in the brain communicate—in live animals.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/scientists-use-machine.jpg",
-          "width": 1540,
-          "height": 2341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-scientists-machine-brain-environments.amp",
-      "publishedDateTime": "2023-06-05T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-04-google-is-using-machine-learning-models-to-speed-up-gmail-search.md",
-      "title": "Google is using machine learning models to speed up Gmail search",
-      "excerpt": "Millions of users around the world rely on Gmail as their primary email service. And it's no mystery that the sheer number of emails sent and",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/98937-google-using-machine-learning-models-speed-up-gmail.html",
-      "originalUrl": "https://www.techspot.com/news/98937-google-using-machine-learning-models-speed-up-gmail.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-04-image-2.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-04T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

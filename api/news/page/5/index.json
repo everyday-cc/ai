@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-14-meta-steps-up-ai-game-by-open-sourcing-i-jepa-its-human-like-image-creation-model.md",
+      "title": "Meta Steps Up AI Game By Open-Sourcing I-JEPA — Its 'Human-Like' Image Creation Model",
+      "excerpt": "What Happened: In line with Zuckerberg’s previous statement that Meta plans to adopt an open approach in terms of AI development, the parent company of Facebook and Instagram ... publishing open-sourced AI research through its dedicated in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/06/32849554/meta-steps-up-ai-game-by-open-sourcing-i-jepa-its-human-like-image-creation-model",
+      "originalUrl": "https://www.benzinga.com/news/23/06/32849554/meta-steps-up-ai-game-by-open-sourcing-i-jepa-its-human-like-image-creation-model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Meta_IJEPA_AI.jpeg?width=1200&height=800&fit=crop",
+          "width": 864,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32849554",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32849554",
+      "publishedDateTime": "2023-06-14T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders.md",
       "title": "TRAI directs telcos to deploy AI, machine learning to detect pesky SMS senders",
       "excerpt": "The Telecom Regulatory Authority of India said that while measures taken by it to curb pesky messages has led to a drop in complaints against Register",
@@ -54,7 +97,7 @@
       "originalUrl": "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -137,49 +180,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-debunking-ai-myths-top-5-misconceptions-about-artificial-intelligence-explained.md",
-      "title": "Debunking AI Myths: Top 5 Misconceptions About Artificial Intelligence Explained",
-      "excerpt": "Artificial Intelligence (AI) has become an integral part of our lives, influencing various industries and transforming the way we interact with technology. However, despite its widespread adoption, there are still many misconceptions and myths surrounding AI that can hinder its understanding and acceptance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/debunking-ai-myths-top-5-misconceptions-about-artificial-intelligence-explained-70574",
-      "originalUrl": "https://www.ibtimes.sg/debunking-ai-myths-top-5-misconceptions-about-artificial-intelligence-explained-70574",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/65132/artificial-intelligence.jpg?w=650",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/debunking-ai-myths-top-5-misconceptions-about-artificial-intelligence-explained-70574",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/debunking-ai-myths-top-5-misconceptions-about-artificial-intelligence-explained-70574",
-      "publishedDateTime": "2023-06-13T17:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -286,7 +286,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1160,6 +1160,48 @@
       ]
     },
     {
+      "path": "_news/2023-06-13-artificial-intelligence-can-help-with-hearing-loss.md",
+      "title": "Artificial Intelligence can help with hearing loss",
+      "excerpt": "McDonaldHearingServices.com For more information about the services McDonald Hearing Services offers, click here. Copyright 2023 Nexstar Media Inc. All rights reserved. This material may not be published,",
+      "sourceUrl": null,
+      "webUrl": "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/",
+      "originalUrl": "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/keenan.jpg?w=1280",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/",
+      "cdnAmpWebUrl": "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/",
+      "publishedDateTime": "2023-06-13T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOOD-TV",
+        "domain": "woodtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-cadence-ai-can-increase-chip-designer-productivity-by-over-10x.md",
       "title": "Cadence AI Can Increase Chip Designer Productivity By Over 10X",
       "excerpt": "Company’s clients have readied over 180 new chips using Cerebras AI to speed development and make chips that run faster, use less energy, and cost less.",
@@ -1168,7 +1210,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1208,49 +1250,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
-      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "originalUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "publishedDateTime": "2023-06-13T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7",
-        "domain": "abc7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

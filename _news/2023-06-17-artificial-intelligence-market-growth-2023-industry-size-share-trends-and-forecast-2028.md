@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32904061"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32904061"
 type: article
 quality: 51
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -28,49 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Global Composite AI Market Report 2023: Growing Intricacy of AI Applications for Better Performance and Accuracy Drives Growth"
-    excerpt: "The composite AI market is estimated to grow from USD 0.9 billion in 2023 to USD 4.4 billion by 2028, at a CAGR of 36.5% during the forecast period."
-    publishedDateTime: 2023-06-13T01:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32828651/global-composite-ai-market-report-2023-growing-intricacy-of-ai-applications-for-better-performance"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32828651"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32828651"
+  - title: "Top AI Statistics And Trends In 2023"
+    excerpt: "Do Alexa, automated chatbots, robots or self-driving vehicles intrigue you? If they do, then you must know that they are all based on the technology of “AI” or “artificial intelligence”. AI is a branch of computer science,"
+    publishedDateTime: 2023-06-15T05:22:00Z
+    webUrl: "https://www.forbes.com/advisor/in/business/ai-statistics/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/06/possessed-photography-dRMQiAubdws-unsplash-1-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
-  - title: "Artificial Intelligence (AI) Market 2023 Growth, Trend, Share, And Forecast Till 2029 X Herald"
-    excerpt: "In December 2021, AWS announced the release of AWS Cloud WAN ... and value chain analysis. The“World Artificial Intelligence (AI) Market Research Report” is an in-depth analysis of the global industry with a focus on the current situation of the ..."
-    publishedDateTime: 2023-06-15T17:53:00Z
-    webUrl: "https://menafn.com/1106443771/Artificial-Intelligence-AI-Market-2023-Growth-Trend-Share-And-Forecast-Till-2029-X-Herald"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 22
-  - title: "Natural Language Processing Market Size, Share And Future Growth 2029 X Herald"
-    excerpt: "The research seeks to natural language processing market size and future growth potential across various segments, including deployment modes, end users, and geographic locations. The base year used to Natural Language Processing Market size ranges from ..."
-    publishedDateTime: 2023-06-13T11:23:00Z
-    webUrl: "https://menafn.com/1106430753/Natural-Language-Processing-Market-Size-Share-And-Future-Growth-2029-X-Herald"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
-  - title: "Global Janitorial Services Market Report 2023: Growing Demand for the Real Estate Industry Fuels the Sector"
-    excerpt: "The \"Janitorial Services Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
-    publishedDateTime: 2023-06-13T17:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32842253/global-janitorial-services-market-report-2023-growing-demand-for-the-real-estate-industry-fuels-th"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "8SBotVcrLxBSGqdoUtKWPDqr1+S+nBaYOHvf0oV8U2EMvNSSZaV/1RV385oizzd8wZbY64L0guBWx+CWDaVUL2N/05zQqCbdkCzH+lV/owaR/L60XMFJeL3/5Ex88e+Q44il6wLxTcdugvsU6PbAgX+zJomGMwGHjMbPDTJTE01C+nkmiyn1YMcrg6ZBTEc97fSKUjcMn3Up3U/dm16plSPawZX7PLhckFB0s3AHA/wG1TL/8LR54WNyZcFU4dgdKJVdQXYXM3o2L4PJ78PvzcOBtKPGG1gyHwPGXotN9auyPFkxrlQReKJoefz7vQ/Fiz4VAOyXiipT8mSEg7+GJOrCYCSlKkGhjdBES7OSRkE=;QWGqhaf1GopUl1AXxyOh2A=="
 ---

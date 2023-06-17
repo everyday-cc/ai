@@ -17,11 +17,11 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2022/01/iStock-1086742976.jpg?w=2000&#038;ssl=1"
-    width: 800
-    height: 449
+  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/05/cocktail-guru.jpg?w=2000&#038;ssl=1"
+    width: 512
+    height: 288
     isCached: true
 
-secured: "8uSufOZwrhpcs0krSZkf9Vh4aRwQOdsS/LQ8zqMIWGoawTl0QdEUL+Z5fsTxstgD0aDYFpSuFoNeQgFZhQuk/frL4mXSYxuSoYSq0bcRsbRVREjiyYQIFBZd1vEnZ+AdrdsBVnGwy7WjBynWFTv8l9UoNtVFotHoLCZ3s8j6CNXZI6fqtjx97LTRPhhI5fEh/ifmNjLpSKfiq3pQ1wXetaHQtTxFik3gM0hQi5Vf7JnyTtJY3ZeWkxp5tHzSv5++aKGHVeJnqT0GQVjuW2Z2ZThf3mx5e/gqN+2tJQWVzulwVnToPu8w7DfSwXe4cA1wfpMXMCOpI/OAxxjmwQc4Ui3rBhh+gkpvAQWywTA9/cw=;AgvdLeT9PnvlNsc8uuAxkQ=="
+secured: "cFRPFrYh3tsKPvLviKMZFyIhbn5loynO0mD38ZxfnV4heStzCHNanqPTKsrU+BGdh2MTY2EsT6umljmCR/bChSSk9AqKnf4x92M5EcVQz/vu1htOqsR79gDkmWqa0V0GBFzdZQfuIhiVwthoWYPBsxiZ6ZJTJQnCh+rTAp8E4mY/vdIjvrunTjLUoO0u6N9iXPZBr0Iuld6tnjmgwWvG91oIe0daHxq4pxSXig6+xiV3GAxmeyDJtRCIlWyH9tB1a93CJdUj3QNkr3C8CJ86s89mnPPYpHGJq/kzUrgjOVwAmiv4iuJ7BmXVJ2KdKPyXt21q2jKFJHRcakPy5F4gd8DSN9alBXN1icQnvYKzvZc=;CFzfVz5CcLaY4Zb6yX4hNA=="
 ---
 

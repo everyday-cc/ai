@@ -87,6 +87,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Artificial Intelligence and the Future of Jobs"
+    excerpt: "The growth of artificial intelligence (AI) is driving fearful discussions around the disappearance of jobs and tasks that are traditionally done by humans. This has particularly impacted the working class,"
+    publishedDateTime: 2023-06-16T11:33:00Z
+    webUrl: "https://themedialine.org/mideast-mindset/artificial-intelligence-and-the-future-of-jobs/"
+    type: article
+    provider:
+      name: The Media Line
+      domain: themedialine.org
+    quality: 39
+    images:
+      - url: "https://themedialine.org/wp-content/uploads/2023/06/ai-artificial-intelligence-humanoid-robot-talking-human-consult-advise-wisely-project-development-generative-aix9xa-e1686915161791.jpg"
+        width: 2560
+        height: 1438
+        isCached: true
 
 secured: "uiJH0yqFFArekjH4tleVaQjt2x1A4lYpml5BklKwV+8l32qCr12jKSnNicqjI0FmBvQ+m6ZfY38W7aokNbs7TpFntv4IhwprtVFadYWfCfoR/ARnZzsVd/2Jz4fMQ+CUnrMgdXW6Sj4cvRmI94rFFpdU+SFjh/iB2FV+93gf4G4WYlU8uBluWaL8Iktb28RuuTb/b70KQArqUxpxyu2pPLubFC+tA2RIiOoOPI+z4Rlyzf1HeQoJRpahGUxt1zZY/a7RBEnfFk5pGq8/H6kacjMvkjQy7z3jF2UmOCv8OwJjRlANchoX9R818fuIPh/1+G58Sr/G5HXbDdWidQHCRKEwoBfZuJgStAwjS64U9J0oHR3LoLjLHtE6+DhzmogC0AVZH/Q4tMDilE3bKLpsuXoFmFdgoEvq9c4oNa28Dh8TUS0XQrLsN4oYrKPJzdmtx2UhqcII64bWsgGV4BI70R44IsLDkU4ftZGe1XqUaSjakA3gCL63jVxcN2i3+zoNgeXHRiGxSxXDNpGzzDAFmQ==;Kt+7C6uXIncCOIFtMwTq3w=="
 ---

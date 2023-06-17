@@ -119,6 +119,20 @@ related:
         width: 687
         height: 371
         isCached: true
+  - title: "Why are Nvidia's shares soaring and what is its role in the AI boom?"
+    excerpt: "FROM GAMING TO AI: NVIDIA'S FOCUS SHIFT Nvidia, known for its chips used in videogames, pivoted to the data center market over the last few years. The company's business rapidly expanded during ..."
+    publishedDateTime: 2023-06-14T12:34:00Z
+    webUrl: "https://www.reuters.com/technology/why-are-nvidias-shares-soaring-what-is-its-role-ai-boom-2023-05-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/J5SpDHtT6EMtegPDZfWfxx21VVo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ETF2CIGAE5KMRMKA2O3JHQPJ5U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Nvidia Joins $1 Trillion Club, Fueled by AI’s Rise"
     excerpt: "Here is what you need to know about the chip company and its rise to the elite trillion-dollar list."
     publishedDateTime: 2023-06-13T20:24:00Z

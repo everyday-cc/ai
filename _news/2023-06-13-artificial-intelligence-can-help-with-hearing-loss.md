@@ -9,8 +9,8 @@ ampWebUrl: "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artif
 cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: WOOD-TV
@@ -41,6 +41,20 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/374C3615-CAC0-4071-80E3ADB652FDA3FA.jpg"
         width: 790
         height: 496
+        isCached: true
+  - title: "Inside today’s AI-human rights hearing"
+    excerpt: "A Senate Judiciary Committee panel on Tuesday holds a hearing on the impact of artificial intelligence on human rights."
+    publishedDateTime: 2023-06-13T13:55:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2023/06/13/inside-todays-ai-human-rights-hearing"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/S5uxPQgcy_YhlEyG7eTEeKAxZXA=/0x0:1920x1080/1366x768/2023/06/12/1686601340141.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "taaZww9CQCzVvgrpujDWwlGKe6l0lwkMDoKbCEwSddvOgd2YWMN+R7r/omAUKnRtEUDfgYIRIbY6TaEg3pXbjVrxAUdys3mJkZlMdedFF3nRb1OCC6VMBcnnQGyNzUSUykuUeaF8s21BkdyK+9SehQ4eKJ2OPsNtoXE+st/nSmh+KDRPXweC3cWJrrWtqby5V9Ik3ljyAGs9l3+PchSPQC0ZalJDRGTBXljl+q550SmFSkkDUb/+EsG1d8ivRWK7acCxoGrJtxhwEA3oWfjGx/ixLDeRvsq8QKzHpg/q4d1l3jVTTihX5WMl6rD5uMtbYFPIjkGYgCpAQQ6Po2V+2lQtOfUk9RtDU3aeSh0qbDU=;9E8L5tTnidYxgz3NCw8eBA=="

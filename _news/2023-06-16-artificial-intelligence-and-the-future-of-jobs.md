@@ -25,131 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "It’s Humans And AI, Not Humans Vs. AI"
-    excerpt: "In 2013, IBM and MD Anderson embarked on a joint project ... The bar was set too high for Watson Health. In the area of diagnoses then, AI cannot replace humans—at least, not yet—but it can assist in certain diagnoses where there is enough data."
-    publishedDateTime: 2023-06-12T15:33:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/"
+  - title: "The Impact Of AI On Thought Leadership"
+    excerpt: "We are faced with an unprecedented vision of our potential as creative forces as AI has emerged as one of the most promising innovations in the tech industry."
+    publishedDateTime: 2023-06-15T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6487382d36c8dc564b5004be/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6401f00fffe104e0998619c1/0x0.jpg?format=jpg&crop=1054,593,x0,y50,safe&width=1200"
+        width: 1054
+        height: 593
         isCached: true
-  - title: "Artificial Intelligence: What is AI, is it dangerous and what jobs are at risk?"
-    excerpt: "Snapchat's AI chatbot, My AI, works in a similar way to provide helpful human-like responses to instructions. But My AI can also provide incorrect responses - called \"hallucinating\" - where it states untrue or misleading things as fact."
-    publishedDateTime: 2023-06-14T02:42:00Z
-    webUrl: "https://bbc.co.uk/news/technology-65855333?at_campaign=KARANGA&at_medium=RSS"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-65855333.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65855333.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 68
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/176FB/production/_129959959_gettyimages-1430317544.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Google’s CEO Talks AI, Jobs and More"
-    excerpt: "Bloomberg Chief Washington Correspondent Joe Mathieu delivers insight and analysis on the latest headlines from the White House and Capitol Hill, including conversations with influential lawmakers and key figures in politics and policy."
-    publishedDateTime: 2023-06-12T16:50:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-12/google-ceo-sundar-pichai-on-how-its-ai-chatbot-bard-stacks-up"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSCmk1xSalro/v1/1200x799.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Google's AI ambitions just hit another major roadblock"
-    excerpt: "However, that plan has hit a bit of a snag. According to Politico, the Irish Data Protection Commission has serious concerns about the privacy implications of Bard. The watchdog group questioned Google on these matters but felt the company didn’t provide enough information about how the tool protects Europeans’ privacy."
-    publishedDateTime: 2023-06-14T15:23:00Z
-    webUrl: "https://www.androidauthority.com/google-bard-postpone-eu-launch-3335082/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Top AI Statistics And Trends In 2023"
-    excerpt: "Do Alexa, automated chatbots, robots or self-driving vehicles intrigue you? If they do, then you must know that they are all based on the technology of “AI” or “artificial intelligence”. AI is a branch of computer science,"
-    publishedDateTime: 2023-06-15T05:22:00Z
-    webUrl: "https://www.forbes.com/advisor/in/business/ai-statistics/"
+  - title: "Regulating AI Isn’t Impossible. It’s A Leadership Commitment."
+    excerpt: "The EU's AI Act is just one early step in a long, ongoing process, and we're nowhere near a systemized regulatory framework. But it’s a start, and that’s what leaders do."
+    publishedDateTime: 2023-06-16T21:43:00Z
+    webUrl: "https://www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/"
+    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/06/possessed-photography-dRMQiAubdws-unsplash-1-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648cd5fb58d4466d39b1e992/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 751
         isCached: true
-  - title: "The ethics and creativity of Artificial intelligence"
-    excerpt: "Chef Kardea Brown, is the Emmy nominated host of Food Network, Delicious Miss Brown, and she joined New York Living to talk attending the 36th Annual Chefs’ Tribute to Citymeals on Wheels."
-    publishedDateTime: 2023-06-12T20:42:00Z
-    webUrl: "https://pix11.com/video/the-ethics-and-creativity-of-artificial-intelligence/8727344/"
+  - title: "How AI can have a tangible impact on healthcare"
+    excerpt: "AI and machine learning can help reduce medical errors, relieve administrative tasks, and reduce wait times for procedures in healthcare."
+    publishedDateTime: 2023-06-14T21:51:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/how-ai-can-have-a-tangible-impact-on-healthcare.html"
     type: article
     provider:
-      name: pix11
-      domain: pix11.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 54
     images:
-      - url: "https://pix11.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-        width: 396
-        height: 202
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Inside today’s AI-human rights hearing"
-    excerpt: "A Senate Judiciary Committee panel on Tuesday holds a hearing on the impact of artificial intelligence on human rights."
-    publishedDateTime: 2023-06-13T13:55:00Z
-    webUrl: "https://www.axios.com/pro/tech-policy/2023/06/13/inside-todays-ai-human-rights-hearing"
+  - title: "Generative AI's impact on chip industry and the upcoming growth cycle through 2024"
+    excerpt: "Generative AI is stealing the spotlight from all other tech products as ChatGPT accumulated 1 million users in just a few months, and now tech analysts from UBS Investment Bank released their latest estimates of its impact on the semiconductor industry business."
+    publishedDateTime: 2023-06-14T06:18:00Z
+    webUrl: "https://www.digitimes.com/news/a20230613VL214/east-asia-generative-ai-ic-manufacturing.html"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
+      name: Digi Times
+      domain: digitimes.com
+    quality: 48
     images:
-      - url: "https://images.axios.com/S5uxPQgcy_YhlEyG7eTEeKAxZXA=/0x0:1920x1080/1366x768/2023/06/12/1686601340141.jpg"
-        width: 1366
-        height: 768
+      - url: "https://img.digitimes.com/newsshow/20230613vl214_files/1_r.jpg"
+        width: 336
+        height: 224
         isCached: true
-  - title: "What happens when the god AI arrives"
-    excerpt: "When pioneers in the field of artificial intelligence start to worry about their creations, we should pay attention. But do people really have reason to fear?"
-    publishedDateTime: 2023-06-15T20:25:00Z
-    webUrl: "https://www.afr.com/technology/what-happens-when-the-god-ai-arrives-20230524-p5dasr"
+  - title: "This Is the Worst Part of the AI Hype Cycle"
+    excerpt: "The reaction this elicited on WIRED Slack channels was somewhere between “cool” and “gross.” Using AI to resurrect Lennon for a new song has its appeal, but given the recent ethical questions around using the technology to make fake songs from artists like Drake and The Weeknd,"
+    publishedDateTime: 2023-06-16T13:00:00Z
+    webUrl: "https://www.wired.com/story/ai-hype-cycle-burnout/"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.1725%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_153/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/194fba7012c8b260e534fbd30e72d7ff350b1633"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Embrace AI, but ensure it complements not replaces human communications"
-    excerpt: "Chief Communication Officer, Greaves Cotton Limited, writes about the transformative role of AI in communication, its benefits, challenges and considerations"
-    publishedDateTime: 2023-06-14T13:27:00Z
-    webUrl: "https://www.exchange4media.com/pr-and-corporate-communication-news/embrace-ai-but-ensure-it-complements-not-replaces-human-communications-128015.html"
+      name: Wired
+      domain: wired.com
+    quality: 47
+  - title: "Impact of generative AI on chatbots"
+    excerpt: "From cloud chaos to clarity.” Generative AI can enable chatbots to provide meaningful and relevant responses to users, but there are risks and challenges that must be considered when adopting it. Click here to continue."
+    publishedDateTime: 2023-06-15T13:05:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/15/1074743/impact-of-generative-ai-on-chatbots/"
     type: article
     provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 19
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "ZhU2fhfoFBhtGkHNlfFHx5rUWgvS7n+vBJPDdK/pHnASgxzua5mv/fDN9eZdFzYCqjdOt48emdg4tHgEyAg3sD2QLLbZ0/W/A3r4ZS/yB+9ByVvQdJqQSi40SgWZmkERSKbgyIzkc35OGBrIR/cs8Uv02/z8b1ipsbuRU16WtpF/0J662QIFGwezdQViFPCmbkPqH9MQPEIDjMB9YPM8zGIGUwToUaRVqHw7V2grW59ycDfUXZyv1gb1/Sr7lnj8JO4OMhpxiCBdzFhBmFioMrQKgBMZSP3iVolrJIKAG/GmKTu/Ca6uPK+7YavUXQJ2Rr5MDOVzDfaLO6Ad14a1oKUyfGpXhKBvNi6x5UpHcPcsOzmjNjDRRNX8/cW6Rmzq4izmg6Eq3/AziIge2d80cln5gcXTiIjM/CJkJr1f+5DJiE8+iTrgEB0bFVmoUuJFSC0rZDdVVp6pVUNR5/nqCaHYtax3bY/pBH9Tl8JTP+As+M77jzUFi4pYlr3KsGg+XIVDZ3Bzz6/oNdo8sL9N/A==;cUaHUX+bwIa/r7Jx6StQzA=="
 ---

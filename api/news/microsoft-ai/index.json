@@ -295,6 +295,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-13-atmosera-attains-two-new-microsoft-advanced-specializations-reinforcing-cloud-security-and-azure-virtual-desktop-expertise.md",
+      "title": "Atmosera Attains Two New Microsoft Advanced Specializations, Reinforcing Cloud Security and Azure Virtual Desktop Expertise",
+      "excerpt": "Atmosera continues to demonstrate its tenured experience and deep knowledge in the Azure tech stack and security domain. PORTLAND, Ore., June 12, 2023 /PRNewswire-PRWeb/ -- Atmosera, a recognized full",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32825113/atmosera-attains-two-new-microsoft-advanced-specializations-reinforcing-cloud-security-and-azure-v",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32825113/atmosera-attains-two-new-microsoft-advanced-specializations-reinforcing-cloud-security-and-azure-v",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32825113",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32825113",
+      "publishedDateTime": "2023-06-12T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud.md",
       "title": "Microsoft has added ChatGPT into the secure US government Azure cloud",
       "excerpt": "Microsoft has announced its Azure OpenAI Service is now available to the US government in an even more secure format, with specific compliance promised for regulatory standards for classification and security.",
@@ -455,8 +499,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?921511",
-          "width": 396,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?160159",
+          "width": 444,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1406,50 +1450,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-cisco-aims-for-ai-first-security-with-armorblox-buy.md",
-      "title": "Cisco aims for AI-first security with Armorblox buy",
-      "excerpt": "Looking to bolster the AI support in its Security Cloud strategy Cisco announced plans to acquire Armorblox, a 6-year old predictive and generative AI vendor that specializes in attack prediction and rapid threat detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.html",
-      "originalUrl": "https://www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/04/05/08/pcworld-infosec4tc-platinum-membership-cyber-security-training-lifetime-access-100939398-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.amp.html",
-      "publishedDateTime": "2023-05-31T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

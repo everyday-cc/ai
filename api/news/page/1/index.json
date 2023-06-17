@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-17-ai-drive-thrus-may-be-good-for-business-but-not-for-the-rest-of-us.md",
+      "title": "AI drive-thrus may be good for business. But not for the rest of us",
+      "excerpt": "Over the past few years, restaurants have been investing in artificial intelligence tech for drive-thrus. They say it will spped up the drive-thru and boost sales. But customers — and workers — may not be thrilled with the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/06/17/business/ai-drive-thru/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/17/business/ai-drive-thru/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230609145607-carls-jr-drive-thru-employee-file-restricted-050923.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/17/business/ai-drive-thru/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/17/business/ai-drive-thru/index.html",
+      "publishedDateTime": "2023-06-17T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-viettel-microsoft-vietnam-improve-ai-application-capability.md",
       "title": "Viettel, Microsoft Vietnam improve AI application capability",
       "excerpt": "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,",
@@ -33,50 +84,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-artificial-intelligence-market-growth-2023-industry-size-share-trends-and-forecast-2028.md",
-      "title": "Artificial Intelligence Market Growth 2023, Industry Size, Share, Trends and Forecast 2028",
-      "excerpt": "IMARC Group, a leading market research company, has recently releases report titled “Artificial Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/ab32904061/artificial-intelligence-market-growth-2023-industry-size-share-trends-and-forecast-2028",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32904061/artificial-intelligence-market-growth-2023-industry-size-share-trends-and-forecast-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32904061",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32904061",
-      "publishedDateTime": "2023-06-16T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1155,7 +1162,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/hooksounds-unveils-ai-studio-revolutionising-video-editing-with-artificial-intelligence-generated-soundtracks-1032393236",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {

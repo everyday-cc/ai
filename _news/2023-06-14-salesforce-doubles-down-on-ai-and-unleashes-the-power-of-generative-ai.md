@@ -77,20 +77,6 @@ related:
         width: 611
         height: 459
         isCached: true
-  - title: "Salesforce Ventures Doubles Down On AI Investments"
-    excerpt: "Three months after launching it, Salesforce Ventures announced it will double the size of its Generative AI Fund to $500 million."
-    publishedDateTime: 2023-06-12T16:52:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/salesforce-ventures-generative-ai/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Salesforce touts AI strategy, doubles investment in start-ups"
     excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI start-ups as the company banks on the emerging technology to help resuscitate sales growth."
     publishedDateTime: 2023-06-12T19:19:00Z

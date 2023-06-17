@@ -47,20 +47,6 @@ related:
         width: 900
         height: 900
         isCached: true
-  - title: "The missing steps in the application of AI on remote health monitoring"
-    excerpt: "Remote health monitoring refers to the use of technology to monitor a patient's health remotely outside of traditional healthcare settings, utilising connected devices like wearable sensors."
-    publishedDateTime: 2023-06-12T15:07:00Z
-    webUrl: "https://www.ibtimes.co.uk/missing-steps-application-ai-remote-health-monitoring-1715990"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 39
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1715715/digital-healthcare-smartwatch.jpg"
-        width: 2500
-        height: 1475
-        isCached: true
   - title: "Mass layoffs are creating a new generation of founders building climate, health, and fintech startups"
     excerpt: "Health and fintech are also popular. Ai-Ling Walker, a former creator success staffer at Patreon, is building the Noetic platform to help neurodiverse people receive a diagnosis. It took her five years to be diagnosed with ADHD, during which time she ..."
     publishedDateTime: 2023-06-14T09:42:00Z

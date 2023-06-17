@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://www.crn.com/resources/0282-183f20e618a6-0da55896c868-1000/salesforce-einstein-1.jpeg"
         width: 611
         height: 459
-        isCached: true
-  - title: "Salesforce Ventures Doubles Down On AI Investments"
-    excerpt: "Three months after launching it, Salesforce Ventures announced it will double the size of its Generative AI Fund to $500 million."
-    publishedDateTime: 2023-06-12T16:52:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/salesforce-ventures-generative-ai/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
-        width: 900
-        height: 506
         isCached: true
   - title: "Salesforce doubles down on AI and unleashes the power of generative AI"
     excerpt: "On AI Day, Salesforce unveils AI Cloud, GPT for Customer 360, and doubles Generative AI Fund to US$500M for responsible AI development."
