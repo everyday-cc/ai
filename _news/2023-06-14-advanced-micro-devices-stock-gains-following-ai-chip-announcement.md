@@ -48,15 +48,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 18
-  - title: "Advanced Micro Devices Shows Mixed Signals Heading Into Highly Anticipated AI Event: The Bull, Bear Case"
-    excerpt: "The chip maker printed a reversal candlestick Monday, but a bullish reaction to the company's AI event could negate the signal. Advanced Micro Devices, Inc AMD closed 3.42% higher Monday ahead of its highly anticipated “AMD Data Center and AI Technology ..."
-    publishedDateTime: 2023-06-13T13:08:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/23/06/32828778/advanced-micro-devices-shows-mixed-signals-heading-into-highly-anticipated-ai-event-the-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
 
 secured: "KbQ2H03Q7HjkaM84AjzuRasH93VIRbcaKpdtjsh/FXAgXV5HEOZS115Cb4hiZDaexbJvtZKQza5x86Mi32iW+rTsUKb/7PAV9MBL9kuSnMJCBFb+24q7O5HnJNxNOLDMAEO+9hhPix/Gx9lq3pfUsyR056cxNJH3qdkBXTOR+V7JFdGrwAdJ6MWXtT1/a4xoaox3Q99Z1gCPoysSHmkpTFvk7wUu307ZEeQRb+1WpkJxbizbe2Tb1KgddD0NDvXMFRkGXGFyJVgIr0waQl4tZw8HcZtkhDvf9EHeMVFE1GM8UUyxoe4SzpBJVgF9L4D6IFKf3z11GPXy4TwY56rSAbAaT+W+cIGM5w9N/D3dpXJoLI/ZCDHbrm4vM46SE+cnOOh9BnV8rdGAc4b89S7L7jAsb6yJuVtLQMqrpQUCY2nTeftt5hu73Nyw4PMgjpyv78QU84/8IFgfEN3TWeizxm8Fpeb3I0urolqQ/fhzQl9SRc7DgnIAwR4kkoAaU/C+l9lBSnvU9rTKpWwl2B1Oyg==;RscF83c0YwuMk8XlE+VAOQ=="
 ---

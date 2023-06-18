@@ -3,26 +3,26 @@ category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
 excerpt: "It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper. Such chips have suddenly taken center stage in what some experts ..."
 publishedDateTime: 2023-06-01T05:55:00Z
-originalUrl: "https://www.newsday.com/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455"
-webUrl: "https://www.newsday.com/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455"
-ampWebUrl: "https://www.newsday.com/amp/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455"
-cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold-pnndi455"
+originalUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
 type: article
 
 provider:
-  name: Newsday
-  domain: newsday.com
+  name: ABC News
+  domain: abcnews.go.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://cdn.newsday.com/ace/c:N2ViMjRmZDUtMmI4Zi00:MjVkMzA3/landscape/1280"
-    width: 1280
-    height: 719
+  - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "fMY5TRkvhK62yJhgq46eGxpsE8rxK2LJ49QpwOR47eYcOoRJdmND6Kx6/KchsZX7S/XY83s0shbVWEVeUty2rZDIkeSRUWl8+rquRsoPt49QvtS3IaU9rfjRVfKEerA5xpT83wkteBLOMkLPaO1CohFuA6sK2R2m+AS+N8hmZK3f6fVjo8Qljz4T1O3u9S8m6bfjqZuh72sNu7gnGkzXeM9YYQ5qUzXFxITArMwx1HWeMrbywi4Eq6/zbEiuT2yAYjRM1mQpHRiVo8Wfup8uPibnkn0byj3n2XYnC7Ac6B9THLWBeLq6dribQ9xcQr5HcUFdKSoQ7SqDq0WS7G/oQT/k4KSfYemE1A3C2uf2pAQ=;4jl18S1i/XusEmAyVcQGRQ=="
+secured: "D55oDpphmq+hVOdYoSrHvKhvsW01mRLx3uUZNS0cNPp5Bw0nbBltlxn5tZAhM9Kcb2QOKvfM+TXV31f+3r0MUyR063sVhHTytb+1Q9P9B0BPuAz1PLR7Rwb47w3bUpIPrmV8zjmKfodmnPPT19jFlxYeBXWFlHYp7hFDpNrhxnWmBKrAa+Ybj2ObjowUf7RTTnGrzUg94yHKzzh87VQsVTY9j3gmy0eWl3i9f67pEQWcCZlEUDXL2CqZEv3BgjCudOI0v0j6Mww60SQEOW4D4U4K31jrEQ4TJNHO4dXFiN490Tiz7yxkMWvSVd/B66o4fAB5ELCmA/NXRr5VEP+VqtMU3VrdPhTFm/zoY3Egg8Y=;PAgKVGuaOvl7YKdSygDIrg=="
 ---
 

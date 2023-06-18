@@ -54,20 +54,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Salesforce AI Cloud Seeks To Combat ‘Trust Gap,’ Hallucinations"
-    excerpt: "Salesforce is also working on AI prompts to ground generated outputs and provide generated content without hallucinations, the term for when AI produces incorrect results despite the training data. Two AI Cloud features go into GA this month. One is Einstein GPT Trust Layer, which promises to prevent LLMs from retaining sensitive customer data."
-    publishedDateTime: 2023-06-13T13:55:00Z
-    webUrl: "https://www.crn.com/news/cloud/salesforce-ai-cloud-seeks-to-combat-trust-gap-hallucinations"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0282-183f20e618a6-0da55896c868-1000/salesforce-einstein-1.jpeg"
-        width: 611
-        height: 459
-        isCached: true
 
 secured: "mdl87++OZj7JSj9AGclTRunr6hQ3UHpR6BOl1yTuRQEzsPyVMJo1sZ7dOltc1fhbbTZTF2deA9ut/QMrIEqnOqEAkM1xyYjg2xPURt2Sfz4SWr4wCT+FoJc5/eIMitTHW6LY4XJL32f4AXkweR3oxL7uLJ5ikjqOW82PzuAYG0jnIavrY5yWonffKLs/9vDBc+DuSPpYyqUS9VyPlU5p8IaZCQ6Et2xqOvv/7YPtxDnU2oTL77S6O2E3ZNyRrAQxbbJNFfk2PLehScGC0NGXyXuPylJ8KY/LlAgJnpqmvP7GixDoJgkQIXLzXV46c0t9fYn9B7MNXf5TFqgSpbsvLUD3vI5KFj/pCU6FnOpl8g4=;cqUqAdtyafxZv4mIFyzydA=="
 ---

@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Baidu wins commercial licence for driverless taxis in Shenzhen"
-excerpt: "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off."
-publishedDateTime: 2023-06-16T10:58:00Z
-originalUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
-webUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
+title: "Baidu Wins Commercial Licence for Driverless Taxis in Shenzhen"
+excerpt: "China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen. Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen,"
+publishedDateTime: 2023-06-16T08:26:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen"
+webUrl: "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen"
 type: article
-quality: 84
-heat: 124
+quality: 64
+heat: 104
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Baidu gets commercial license for driverless taxis in Chinese city Shenzhen"
@@ -71,6 +65,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "LfQozbWSuXXZQ72C5H0Er3jeEovQk2tdl9ASgmJrqJ1SyDUHaCq9IjD2AyTuy5sMlHpMn9WunBMJnCtFkjy3W9xbrCpRqDyN0k/YNukgjdJGbcfr260VdSvAX1l61g44lsl7OGoo7TMWhkjdhcSbCvj4hr/L/LfH/nA1r0qMWUUXSKCPTtVIcY+nHvuN0bZfWPBfxDrPI4l2t37waXt60tSNARgEKpwIDD2Wi8NaMCiORO8MCfqmldFb2S3NtvqZ2bzGa6RQHxmcKHQqcm5OQ7jiL5xGTZJZAEnLm6sNDt84J/jT4eNdQytnNGF+mHCd7dDKvac5QnQArOF44HhxG8q5/pycoqVheeCiL7MqWqo=;WG87wI9L6uoCoTTfK3tCtw=="
+secured: "33zHQyA+qNKQbVId0KUxq7p+f0JOJ7TpftO0tVKHDaZMlTzRe5DLd571tBh87bq6aHL7ViRG1dvaNfXMuNQbYMteocj1oNYeZdEe7bqZncPVtIIAm+DLVrt1MYmXksKd/s1oGSghKqhTStQGfuNcgiZ8kFz361SaGB/mTO9INWhb1Ro2mX32d4leX6BMjjE0BJU4k3p6GEtXHVdVo7hk53SIJy27jS1em1j91Dw/eJ906sxqXJ5Cdg0RRewOHHEvzR8f38wA9lVib8tCW9/lxrM275v7GaVG8/rRckWRbOru/VcrJpYZq9gLYkFbULfbOrqfTGvyhyI36TzCniEjSWVkkIN8/lzK19T65DFE3CYCQF1m2aQMW2H/IzIsREXHQFyiCnvnD5Fph50dYgFJKFBtiW2+viAN5nk7tKrMFJg3Hdg8LZ8ynqvb9vu4mIZt/TrFtth3EjnWzu5qVV/PlDR5fGJTkywVzTblJJaOz05xO41yX3XndC3tCZWuW9nhpShIVMB2p90t06OfxNtrxA==;EjqOck+sduyDNyXX+1P3Kw=="
 ---
 

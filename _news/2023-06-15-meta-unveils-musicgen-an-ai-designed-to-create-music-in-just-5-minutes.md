@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/91911/meta-unveils-musicgen-an-ai-d
 webUrl: "https://www.tweaktown.com/news/91911/meta-unveils-musicgen-an-ai-designed-to-create-music-in-just-5-minutes/index.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Introducing MusicGen: Meta Unveils Revolutionary AI Music Generator"
-    excerpt: "Meta, the social media giant formerly known as Facebook, has recently launched their groundbreaking AI-powered music generator"
-    publishedDateTime: 2023-06-13T14:02:00Z
-    webUrl: "https://techstory.in/introducing-musicgen-meta-unveils-revolutionary-ai-music-generator/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/03/congress-sec-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Meta releases AI-powered music generator 'MusicGen'"
     excerpt: "Meta (formerly Facebook) has released its AI-powered music generator called 'MusicGen', which will turn text description and melody into audio. The company also released the code and models for open research,"
     publishedDateTime: 2023-06-15T08:20:00Z

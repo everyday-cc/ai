@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/ai-chatbots-could-help-pr
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 19
-  - title: "An AI Chatbot May Be Your Next Therapist. Will It Actually Help Your Mental Health?"
-    excerpt: "Kaiser Health News — In the past few years, 10,000 to 20,000 apps have stampeded into the mental health space, offering to “disrupt” traditional therapy. With the frenzy around AI innovations like ChatGPT, the claim that chatbots can provide mental health care is on the horizon."
-    publishedDateTime: 2023-06-13T13:44:00Z
-    webUrl: "https://www.psychiatryadvisor.com/home/topics/general-psychiatry/ai-chatbot-mental-health-apps/"
-    type: article
-    provider:
-      name: psychiatryadvisor.com
-      domain: psychiatryadvisor.com
-    quality: 13
 
 secured: "k7XuzOeE5DzdZ2COb4Rwslo7iDySMjNeSQE6moVJqa4EvIU6Ezt5bp0xYNmzgvB2kkBvvVpXLqgs4ekqhQZX99W1JrJ4HmJEwaUpP7KusoVzhXPoRb2bRDsRmTPo6nUGXYJt+iqCRWATqmvZQ+lOJHeKZeTVhz+D/BM26qZTVD39cQfl1GzNmTHCj+NMq8GjfQcrqkrR4dklMCSfnGV46l3X/3HB5oFOrBX6O/aGjl0mRe6BvpjXFL6oqDKTkOlW4b8wVsRyMEk9jlfJyYeE3LfrOccDKZPvKROv4rivuz5EBF+SLSy3rrAW+BKF9sATChguGYLd/vWwZKaMDyQ5t+6FdVvFD8m1BmsMXQx4MU3fSJCg7teGCvNMlUwDKjI5hnNqHaeWcpc5z7wioNlN9aBM8KyjmYuISCJvejGq2PMJqZ8NQCGS+pviV0197O25+EDgPtF6QVwKEJ1/NFUACuwzFwMFMKHIt8YiEJTcvp3yj9bgyM5CuG2JaNdhKxR3aAF3ccqN4yE9BkOdHKrhDA==;ZlC+oE+0+b/UXUw4VOyAGQ=="
 ---

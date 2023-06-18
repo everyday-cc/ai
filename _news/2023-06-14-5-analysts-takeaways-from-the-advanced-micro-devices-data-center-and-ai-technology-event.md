@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/5-analysts-takeawa
 webUrl: "https://markets.businessinsider.com/news/stocks/5-analysts-takeaways-from-the-advanced-micro-devices-data-center-and-ai-technology-event-1032389582"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 18
-  - title: "Advanced Micro Devices Shows Mixed Signals Heading Into Highly Anticipated AI Event: The Bull, Bear Case"
-    excerpt: "The chip maker printed a reversal candlestick Monday, but a bullish reaction to the company's AI event could negate the signal. Advanced Micro Devices, Inc AMD closed 3.42% higher Monday ahead of its highly anticipated “AMD Data Center and AI Technology ..."
-    publishedDateTime: 2023-06-13T13:08:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/23/06/32828778/advanced-micro-devices-shows-mixed-signals-heading-into-highly-anticipated-ai-event-the-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
 
 secured: "vYmQ8pOWvsR8CR7vg1OVjqskkvC//vQiI9iSp+u5XyP5BprtJ8s4BdpqEe8mVsUNs34II8AS3pC/oFWy4KtN61WYMY8U9kKKI8DqAuDO6Whq9Kkzc6t8ae3UthKX7dRZ/zVU0fGOVJS0BbxNPdPWh/ygR6dHJVTrDNlB+P6P3ot4GCIJZrefyPX8HN1mR1Q3FU1cki33ENBzV+b8Cv4mdPZUC8z9kTlzXICd0LuWxezcNjD8WHlIqitaj9FnKM2R/FZnHJ4gTKe81EeoXybrgy0e/0T7BLu7+h7Rcr8Inty/A7zKuj7E5a6gTTNfNItCZmc9FR0DMfcgjMHkjqPSwmoLscHP5OPHPprn9az2ZZc/RSxrcm5ztIO+Nyee1eYX/Vh74951f/aZg+lc7xrKMZtpnDusUI/tOSGCqBiXKEGKnSjrnLojxBxbhGkiEEVKeL5AE12vNIEGEt2f0vFv5Y2e1jeyYaIolT+1fjvivpxnc6BPIxWWXXchiYoFFbkA6Oi2Ln0b5v6daEFj2PwYBQ==;UDRX+8HFQxSS00Mg67CDzg=="
 ---

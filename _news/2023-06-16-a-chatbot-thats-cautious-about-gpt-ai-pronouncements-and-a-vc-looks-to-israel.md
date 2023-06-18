@@ -101,15 +101,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 19
-  - title: "An AI Chatbot May Be Your Next Therapist. Will It Actually Help Your Mental Health?"
-    excerpt: "Kaiser Health News — In the past few years, 10,000 to 20,000 apps have stampeded into the mental health space, offering to “disrupt” traditional therapy. With the frenzy around AI innovations like ChatGPT, the claim that chatbots can provide mental health care is on the horizon."
-    publishedDateTime: 2023-06-13T13:44:00Z
-    webUrl: "https://www.psychiatryadvisor.com/home/topics/general-psychiatry/ai-chatbot-mental-health-apps/"
-    type: article
-    provider:
-      name: psychiatryadvisor.com
-      domain: psychiatryadvisor.com
-    quality: 13
 
 secured: "fe/hbg1to/ZdxfzfjRti8GcyIZExhm768haxpW16VCytt1KN3Vo8buIP9DU7eAXxcwjaK6zuswlycqu3VlKhoKcqvTmutQOXmMkmG3HguNcls4g6az6R+TCSJJGQiH/e8tH8Q6g+9iXJLKwq3LqAba5SbU9w//sZfNXCcLb4PPFcf4t2Wnh882N7LL9tU84DhHCUTQzIl0zNjUegYRVUu5vPSjMjdSMjANRdwqs4s3VqSnNcC9+bYsEhIsplBo+Dzt0I1jx/0FeEVK+SwEYtqdH+qU7G9yijtHTYdV/52XtZTvzv11+SkGhVBRfeYuoYOkgYngSBNF1T1+xODsmc9egiZMTagsQLAPF7GAUWmMs=;wjyd/xWnJngH+Dfue7NpFg=="
 ---

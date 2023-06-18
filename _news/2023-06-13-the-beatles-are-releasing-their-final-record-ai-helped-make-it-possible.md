@@ -150,31 +150,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Artificial intelligence helped create 'last Beatles record,' Paul McCartney says"
-    excerpt: "Artificial intelligence has been used to extract John Lennon's voice from an old demo to create \"the last Beatles record,\" decades after the band broke up, Paul McCartney said Tuesday.McCartney, 80, told the BBC that the technology was used to separate the ..."
-    publishedDateTime: 2023-06-13T14:51:00Z
-    webUrl: "https://www.ksbw.com/article/ai-helped-create-last-beatles-record/44185984"
-    ampWebUrl: "https://www.ksbw.com/amp/article/ai-helped-create-last-beatles-record/44185984"
-    cdnAmpWebUrl: "https://www-ksbw-com.cdn.ampproject.org/c/s/www.ksbw.com/amp/article/ai-helped-create-last-beatles-record/44185984"
-    type: article
-    provider:
-      name: KSBW The Central Coast
-      domain: ksbw.com
-    quality: 52
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9szwrlltfmnze4yjvhy2jkmjy5odazymuxytgwn2nkotawzmm0-l19wywdlcy9oxzkyzgi2n2qyoty1nwqzotkxyjgwztkwywiznmzimzm3-jpg-6488761c6f6de.jpg?crop=1.00xw:0.787xh;0,0.0895xh&resize=1200:*"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "AI You Need Is Love: Artificial Intelligence Helps Create ‘Final’ Beatles Song, Paul McCartney Says"
-    excerpt: "A new Beatles song will be released later this year with a little help from artificial intelligence, musician Paul McCartney announced Tuesday, the latest example of how creative industries are using the fast-evolving technology as lawmakers and regulators begin to grapple with the ethical and legal issues it raises."
-    publishedDateTime: 2023-06-13T13:11:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2023/06/13/ai-you-need-is-love-artificial-intelligence-helps-create-final-beatles-song-paul-mccartney-says/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 48
   - title: "Paul McCartney Uses AI to Create the Final Beatles Song"
     excerpt: "The long and winding road has connected The Beatles with artificial intelligence."
     publishedDateTime: 2023-06-14T19:42:00Z
@@ -251,15 +226,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sir Paul McCartney says 'final' Beatles song coming thanks to AI"
-    excerpt: "In an interview with BBC Radio 4's \"Today\" program released Tuesday, the legendary musician and former Beatle was asked about AI and how it's been used to make his voice sound younger – and to resurrect the voices of fellow band members John Lennon and George Harrison who died in 1980 and 2001, respectively."
-    publishedDateTime: 2023-06-13T13:31:00Z
-    webUrl: "https://www.cbsnews.com/atlanta/news/sir-paul-mccartney-says-final-beatles-song-coming-thanks-to-ai/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
   - title: "Paul McCartney says AI helped him finish one last Beatles song – here’s what I think is coming"
     excerpt: "\"When we came to make what will be the last Beatles record… We were able to get John's voice through AI.\" Ahead of his exhibition at @NPGLondon of Beatles photos, Sir Paul McCartney spoke to @Marthakearney and revealed that a new record will be released this year. #R4Today"
     publishedDateTime: 2023-06-13T17:38:00Z

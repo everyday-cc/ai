@@ -101,6 +101,20 @@ related:
         width: 2560
         height: 1438
         isCached: true
+  - title: "The impact of artificial intelligence developments on cybersecurity"
+    excerpt: "By taking a closer look at the evolutions of artificial intelligence, IT security professionals are preparing to face new kinds of threats."
+    publishedDateTime: 2023-06-18T07:00:00Z
+    webUrl: "https://gulfbusiness.com/impact-of-artificial-intelligence-cybersecurity/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 39
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/konstantin.jpg"
+        width: 930
+        height: 620
+        isCached: true
 
 secured: "uiJH0yqFFArekjH4tleVaQjt2x1A4lYpml5BklKwV+8l32qCr12jKSnNicqjI0FmBvQ+m6ZfY38W7aokNbs7TpFntv4IhwprtVFadYWfCfoR/ARnZzsVd/2Jz4fMQ+CUnrMgdXW6Sj4cvRmI94rFFpdU+SFjh/iB2FV+93gf4G4WYlU8uBluWaL8Iktb28RuuTb/b70KQArqUxpxyu2pPLubFC+tA2RIiOoOPI+z4Rlyzf1HeQoJRpahGUxt1zZY/a7RBEnfFk5pGq8/H6kacjMvkjQy7z3jF2UmOCv8OwJjRlANchoX9R818fuIPh/1+G58Sr/G5HXbDdWidQHCRKEwoBfZuJgStAwjS64U9J0oHR3LoLjLHtE6+DhzmogC0AVZH/Q4tMDilE3bKLpsuXoFmFdgoEvq9c4oNa28Dh8TUS0XQrLsN4oYrKPJzdmtx2UhqcII64bWsgGV4BI70R44IsLDkU4ftZGe1XqUaSjakA3gCL63jVxcN2i3+zoNgeXHRiGxSxXDNpGzzDAFmQ==;Kt+7C6uXIncCOIFtMwTq3w=="
 ---

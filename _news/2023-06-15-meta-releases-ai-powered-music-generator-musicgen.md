@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Introducing MusicGen: Meta Unveils Revolutionary AI Music Generator"
-    excerpt: "Meta, the social media giant formerly known as Facebook, has recently launched their groundbreaking AI-powered music generator"
-    publishedDateTime: 2023-06-13T14:02:00Z
-    webUrl: "https://techstory.in/introducing-musicgen-meta-unveils-revolutionary-ai-music-generator/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/03/congress-sec-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Meta unveils MusicGen, an AI designed to create music in just 5 minutes"
     excerpt: "The Facebook parent company ... The researchers that announced the AI system said that all of the sounds MusicGen was trained on were covered by legal agreements with the owners of those music libraries. \"Open research can ensure that all actors have ..."
     publishedDateTime: 2023-06-15T06:47:00Z

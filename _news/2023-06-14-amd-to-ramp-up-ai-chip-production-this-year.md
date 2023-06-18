@@ -199,15 +199,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 34
-  - title: "AMD says Facebook parent Meta is using its cloud chip as it rolls out AI strategy update"
-    excerpt: "The update came as AMD planned to reveal new details about an AI ‘superchip’ that analysts believe will be a strong challenger to Nvidia Corp"
-    publishedDateTime: 2023-06-13T14:31:00Z
-    webUrl: "https://www.theglobeandmail.com/business/technology/article-amd-says-facebook-parent-meta-is-using-its-cloud-chip-as-it-rolls-out/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 27
   - title: "Amazon mulling use of AMD chips for AWS, eschews Nvida cloud system"
     excerpt: "Whether AMD will be successful in its attempt to take share away from dominant player Nvidia in the AI chip market is uncertain."
     publishedDateTime: 2023-06-14T20:57:00Z

@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Synthesia gains unicorn status after Nvidia-backed fundraise"
-    excerpt: "June 13 (Reuters) - Synthesia, a UK-based artificial intelligence (AI) startup, said on Tuesday it has raised about $90 million at a valuation of $1 billion from a funding round led by venture ..."
-    publishedDateTime: 2023-06-13T13:46:00Z
-    webUrl: "https://www.reuters.com/technology/ai-startup-synthesia-gains-unicorn-status-after-nvidia-backed-fundraise-2023-06-13/"
+  - title: "This Week In XR: AI StartUps Cohere, Mistral, Synthesia Raise $463 Million, Medivis Brings X-Ray Vision To Hololens"
+    excerpt: "Apple’s unveiling of the Vision Pro XR headset on Monday June 5th continues to dominate tech news this week. Which is pretty incredible when you consider this is another record breaking week for AI startup investments."
+    publishedDateTime: 2023-06-15T21:12:00Z
+    webUrl: "https://www.forbes.com/sites/charliefink/2023/06/15/this-week-in-xr-ai-startups-cohere-mistral-synthesia-score-463-million-medivis-brings-x-ray-vision-to-hololens/"
+    ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/06/15/this-week-in-xr-ai-startups-cohere-mistral-synthesia-score-463-million-medivis-brings-x-ray-vision-to-hololens/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/06/15/this-week-in-xr-ai-startups-cohere-mistral-synthesia-score-463-million-medivis-brings-x-ray-vision-to-hololens/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 65
     images:
-      - url: "https://www.reuters.com/resizer/FSPUvb7djINBafN665jGm5-QZEM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TIDCQXE4ZLHTGW3OELMLU5JIU.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6483afa277ce74146a2c5c61/0x0.jpg?format=jpg&crop=2000,1126,x0,y43,safe&width=1200"
         width: 1200
-        height: 628
-        isCached: true
-  - title: "This AI Startup From Paris Raises Highest Seed Funding Ever"
-    excerpt: "A company just one month old, without a product, with employees still getting hired, has already received a valuation of around $260 million"
-    publishedDateTime: 2023-06-14T07:48:00Z
-    webUrl: "https://analyticsindiamag.com/this-ai-startup-from-paris-raises-highest-seed-funding-ever/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/paris.jpg"
-        width: 1920
-        height: 1080
+        height: 676
         isCached: true
 
 secured: "m7hUzXKdiLxEgYHocm77+qpjOxApfQF7yZH3ZIOi8C+1P5MuEhW/8r7x4COu0S4R2OP6z0YZGnbPTdIPhmjyC45xYYgmgRzTJ5O6LWJaROIkf0WXq1CNVBwGzFasMjJ9Dzbrgz1lG4muYquVdRuHKRgtxvWqmZv5WrzvydFjfA9VOx1ekpU7bjO6OyGWrNCMm0htSoEb87pDqPrG1mFgPvwvACk3H8sCD3WfaE0AdkZIssTNtQ+BQK1MOj53rgkSPFPj8w0fz+ul6sqEwpXCbld0d6xFuPY9Rrm3jHLvPPoI6jS+VecliK4d2seoYmz7jWbr7Mk6eSwHWiAwC5/uhWeF6egnnDCfrNvU4y2D6gfhIc2ZxkzhXhR+5IkDq7MwMEAIzm+ZVPj0phKSvJlsElC7r3ET9kgLWUDhMNHQTtoTo4/j+PcOdIGfqNcD8+fTTyJy7sYb1YiTrS++CXq8x68HigswJrN074zsXUaWQ8kGWumZ06sbjqhnvN2EuQ+2YGSU5xeG598QTdaWiOzHKA==;a3s3YUKTR0yTUN20sIUPZg=="

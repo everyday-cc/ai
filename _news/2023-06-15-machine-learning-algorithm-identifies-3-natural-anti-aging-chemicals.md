@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/medical/machine-learning-algorithm-identifies
 webUrl: "https://newatlas.com/medical/machine-learning-algorithm-identifies-natural-anti-aging-chemicals/"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

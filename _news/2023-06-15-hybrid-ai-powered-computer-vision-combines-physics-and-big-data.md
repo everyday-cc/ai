@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Hybrid AI-powered computer vision combines physics and big data"
-excerpt: "Researchers from UCLA and the United States Army Research Laboratory have laid out a new approach to enhance artificial intelligence-powered computer vision technologies by adding physics-based awareness to data-driven techniques."
-publishedDateTime: 2023-06-14T18:46:00Z
-originalUrl: "https://techxplore.com/news/2023-06-hybrid-ai-powered-vision-combines-physics.html"
-webUrl: "https://techxplore.com/news/2023-06-hybrid-ai-powered-vision-combines-physics.html"
+excerpt: "Researchers from UCLA and the United States Army Research Laboratory have laid out a new approach to enhance artificial intelligence-powered computer vision technologies by adding physics-based ..."
+publishedDateTime: 2023-06-14T18:06:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/992573"
+webUrl: "https://www.eurekalert.org/news-releases/992573"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c27dcee8-4d7b-4af6-8e7c-10f136ca0bd0/Rendition/low-res/Content/Public"
+    width: 700
+    height: 394
+    isCached: true
 
 related:
   - title: "Hybrid AI-powered computer vision combines physics and big data"
@@ -38,6 +44,6 @@ related:
       domain: siliconangle.com
     quality: 17
 
-secured: "2PRj8z1JKJU7ayvQXkbw1027ipg1jL1XLpzc1aDtTZ6evXqNPKIAHrf/yJ0D8FJ2xjqTdWBfJSJb6neqxHe2J1VC2gCoixEhetH3DAWv0ZrpJrVUJEwJUCVPCcYs+2fqWJbnifs9ZRBZ4gLHA+K8v0aoejxcdGWWEHwK7htVojynk6Qj4d6h9ozpj977Lv6676lXQNNfA+0kw1u7eead79tIs7in1hjg5JesgZnCCaanivJSGWNkaVp0BtNC/x0GEd4XVP/TggiNmbiNtvCR0brkSSZsm6yOutrJWn0d3JkUAQvjD0e1oyMhZ+mL24kagg2PYgnYZWuXv42I8+UPwoNc7K8FbjLJHX8aGcHY2h69XM7tU1d+V1osCIIw3W2nxU6mcNqYvXKP1vMCsGD/gQc4Bn9eNtG/1I86qMjaeO2uVoclhAd/Iho6CIYoIVS3H15iCh7Aav9ZU0Ot6g8PueadAY7ZmomS+TxWtK/d3L2ary/Kfh4o/gVXKOkEORmK7qcb6lB/jooXSeoOzTWaaA==;HY6sgJZ884w+vRbyNK+uHA=="
+secured: "az8r82teyB0lnFKKSCIfnb1T3bWK8TGjVzBSVBridBXAc65pL+G78v9PbO6cAbzgHhTS0VAWhOyC099d0ygTl2hrcOceC3VLH69sQJU75qP0Tt/lKLWeZKasSFyeQ8Lg3Kw+j1xvT8RUnE23lS/xfysUhkDqoqVFb1sOj55Ycw22nchg6JoLV7PbQkRD0b/upPeYN1g/S/F9S8ewDEsBwH8TyvrUgG7UA3QTxG7J7HHUsog2ziUpSsVDltsOCtfcxQF2NWyI/B9JwH9/wYGfW8Z8OSgemp6YVazbQrmgIX5Z1wvdB8xK6HoZP7JaVC03lOqXa+Qzco7l6ihKgutOQ7EShQlWQEfuzeTlRW5/6pM=;ceVpjiNzTSFK+Zmd9mkA4w=="
 ---
 

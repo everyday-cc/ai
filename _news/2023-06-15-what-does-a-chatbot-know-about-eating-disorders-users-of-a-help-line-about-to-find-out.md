@@ -44,20 +44,6 @@ related:
         height: 933
         isCached: true
   - title: "What does a chatbot know about eating disorders? Users of a help line are about to find out"
-    excerpt: "Many mental health organizations and companies are struggling to provide services and care in response to a sharp escalation in demand, and some are turning to chatbots and AI, even though clinicians"
-    publishedDateTime: 2023-06-13T13:51:00Z
-    webUrl: "https://www.minnpost.com/other-nonprofit-media/2023/06/what-does-a-chatbot-know-about-eating-disorders-users-of-a-help-line-are-about-to-find-out/"
-    type: article
-    provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 14
-    images:
-      - url: "https://www.minnpost.com/wp-content/uploads/2023/06/ArtificialIntelligenceIllo740.png"
-        width: 740
-        height: 502
-        isCached: true
-  - title: "What does a chatbot know about eating disorders? Users of a help line are about to find out"
     excerpt: "For more than 20 years, the National Eating Disorders Association has operated a phone line and online platform for people seeking help for anorexia, bulimia, and other eating disorders. Last year, nearly 70,"
     publishedDateTime: 2023-06-16T16:02:00Z
     webUrl: "https://techxplore.com/news/2023-06-chatbot-disorders-users-line.html"

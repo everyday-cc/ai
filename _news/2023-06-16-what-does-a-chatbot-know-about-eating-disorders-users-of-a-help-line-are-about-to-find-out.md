@@ -57,20 +57,6 @@ related:
         width: 1022
         height: 568
         isCached: true
-  - title: "What does a chatbot know about eating disorders? Users of a help line are about to find out"
-    excerpt: "Many mental health organizations and companies are struggling to provide services and care in response to a sharp escalation in demand, and some are turning to chatbots and AI, even though clinicians"
-    publishedDateTime: 2023-06-13T13:51:00Z
-    webUrl: "https://www.minnpost.com/other-nonprofit-media/2023/06/what-does-a-chatbot-know-about-eating-disorders-users-of-a-help-line-are-about-to-find-out/"
-    type: article
-    provider:
-      name: MinnPost
-      domain: minnpost.com
-    quality: 14
-    images:
-      - url: "https://www.minnpost.com/wp-content/uploads/2023/06/ArtificialIntelligenceIllo740.png"
-        width: 740
-        height: 502
-        isCached: true
 
 secured: "9wrVAgckq55I2ZQykdHwNEFAvEOAFkDiUEdw24e71BGIlq6W7MlQcMqICE66JI/eqAcq4MnYTCIIOENujRhcR6dHV9aMpdOnFTJmkb5B275yLChHNqpl1IizmLDsG7oTM9J6SeghgGYvXTMAxNLqV/xkRfJzZIjnD20apodYDgjlfte+5BxsV+McZALbReJzOVLiJ6RPFWoY56ytuKkz4jKoZBKMPiaMhuQMghRPIcTmTh6G/2DacK4XTXZ9p5+fSAsdfTiFkXlFYNW+P5LIi7DGXjZOR+gH+lnRuUIQH+F8pZgbiQY2udeKgG2vCH/hnktv97EtR3SIF/nidQRZ+xo851UiRQtQZgV9YFBc/mLhaSqJL9qOvwqqdlY/Bxbk2qdmAlPdkzRvu5VRNNx3puAEWOeTXZpZU5ZF/e5eUJgEnBsIBhKnU4epbgExDxYvvhFTl1UYlW5H/EKlEc3R3u0jyMB85UkKNuppKnPvz4VWbHxSG2THs/vzPR6bSXsMBjUREMMDkBtWtltS4Zp5uw==;DzFYVs5gPVUtvR6BpRcdUQ=="
 ---
