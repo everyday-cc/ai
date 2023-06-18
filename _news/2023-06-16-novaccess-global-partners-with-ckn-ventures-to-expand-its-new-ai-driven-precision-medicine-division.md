@@ -26,24 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "UAE leads in precision medicine for cancer patients, forum hears"
-    excerpt: "Cancer patients in the UAE have access to advanced precision medicines and cutting-edge diagnosis incorporating Artificial Intelligence (AI), a top doctor said today. To ensure accurate cancer diagnosis and personalised therapy, the UAE offers three types ..."
-    publishedDateTime: 2023-06-13T15:58:00Z
-    webUrl: "https://gulfnews.com/uae/health/uae-leads-in-precision-medicine-for-cancer-patients-forum-hears-1.96376022"
-    ampWebUrl: "https://gulfnews.com/amp/uae/health/uae-leads-in-precision-medicine-for-cancer-patients-forum-hears-1.96376022"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/uae-leads-in-precision-medicine-for-cancer-patients-forum-hears-1.96376022"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 44
-    images:
-      - url: "https://imagevars.gulfnews.com/2023/06/13/NAT-PF-12-1686670911079_188b56ba67f_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
-
 secured: "DRKBf+1rlfGptvRW4IvG+f8hf9/bj7mu1F8v0+aP+158JfdnvcIgyNjeAySe0EOWVfJJHwoXlX+/s8vmNNnH0GL8jPEGT3PsIQZgWCv0DKu+iCM7G0Jh/61IzItU+RvuQ+7FH2ALKCbEcPOGg2RCwWlu3cT1NxRnoE17c/GG32Nx2E6rDJ+7TJrTBK8O0KKk5II5d6F43fRoWxLlkY8gYa8PaOjTiRO3AVNGUaQWqDTZ4pqGWdPpc/O8LcM0ihJXS/8bEnNgCxLHgjqh7caUp0eFVQBAMzY5UXH6nS+9HieW7TuTfYUgCQCbGzPw7k35JOhEJPjv4D25jgeQ4VVSHsXMWas+V5lMgh4YFaQMCrA=;g+Il35fbY4nAXHwesVnHDg=="
 ---
 

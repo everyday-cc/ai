@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/273865234/china-accelerating-d
 webUrl: "https://www.bignewsnetwork.com/news/273865234/china-accelerating-development-of-large-language-models"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking VC Investment: The Key Element For Large Language Model-Backed Startups"
-    excerpt: "How a startup can stay competitive and defensible when building its core based on large language models such as ChatGPT?"
-    publishedDateTime: 2023-06-15T13:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/unlocking-vc-investment-the-key-element-for-large-language-model-backed-startups/"
+  - title: "China Focus: China accelerating development of large language models"
+    excerpt: "At the recently held 2023 Zhongguancun Forum a generalist large language model LLM using visual cues to perform arbitrary segme"
+    publishedDateTime: 2023-06-14T16:15:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273865227/china-focus-china-accelerating-development-of-large-language-models"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 29
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "China Focus: China accelerating development of large language models"
+    excerpt: "China's general-purpose LLMs application is expanding from office and entertainment to fields such as healthcare, the industrial sector and education, according to a report released by the ISTIC."
+    publishedDateTime: 2023-06-15T02:32:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202306/15/WS648a70d6a31033ad3f7bc686.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202306/15/648a70d6a31033ad342b0d04.jpeg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "YS7kegEnMMTH/L6+e32dAWnf/kVOdVtxTaUBAwcPlT/PXo6CxpzsBZPG8zm6ADx4iYli7f8yrbIuH1kQ0M67nrTEIUl5DtNDdCsSwfAXGqNF+N6ShwOcYGFWVbqH1cIJMba5mS19oeD1+ftU09ePhyinW1fBewOJKVvlXl62yJDckVc5ifbPGnAd/+rlJpG2CLTVpUBFY/gB9DIXl55CCXrRv7xN6kq6aCsxUE+JcuLo5W0c/4Jakg4qTOVa/LEAWKxXsGix8/yktOJ24v1jSNHXuXRM3mMzcjHzz12ws65qPbiue9MahfjL3uX6Hj+Zuvjf6P04rpjFLo4urfYd8md3YNBwSE7nYtBt9LOJvRyKrLetFxHWT+HXFVlSya2TZuGmBWFme39DONpfqMP/CmTcUX4B4jFbMjuaCU8wU0EyQwSFd/EcjWvvS2NUrth2kaFxuNWsBga5ubQ7+TsQqGA1DQT5zFzst8JY8ffOVTp/BLfzRBN/pGr7iyCHF9veI97p4RnxV2hnaYbN1tzBpQ==;+vGpl3bHkAgYSMlkZUjQ5w=="
 ---

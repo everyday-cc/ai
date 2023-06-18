@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Four-week-old AI start-up raises record €105mn in European push"
-    excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105mn in Europe’s largest-ever seed round."
-    publishedDateTime: 2023-06-13T16:00:00Z
-    webUrl: "https://www.ft.com/content/cf939ea4-d96c-4908-896a-48a74381f251"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
   - title: "French start-up Mistral AI to compete with Silicon Valley firms, raises 105 million euros in Europe's largest seed funding"
     excerpt: "Mistral AI, formed by former Google and Meta AI researchers is planning to launch Large Language Model to compete with ChatGPT next year"
     publishedDateTime: 2023-06-14T13:31:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-forethought-save
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/"
 type: article
 quality: 96
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deploy Falcon-40B with large model inference DLCs on Amazon SageMaker"
-    excerpt: "Last week, Technology Innovation Institute (TII) launched TII Falcon LLM, an open-source foundational large language model (LLM). Trained on 1 trillion tokens with Amazon SageMaker, Falcon boasts top-notch performance (#1 on the Hugging Face leaderboard at time of writing) while being comparatively lightweight"
-    publishedDateTime: 2023-06-13T16:59:56Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-falcon-40b-with-large-model-inference-dlcs-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/deploy-falcon-40b-sagemaker.jpg"
-        width: 1023
-        height: 510
-        isCached: true
   - title: "SambaSafety automates custom R workload, improving driver safety with Amazon SageMaker and AWS Step Functions"
     excerpt: "At SambaSafety, their mission is to promote safer communities by reducing risk through data insights. Since 1998, SambaSafety has been the leading North American provider of cloud–based mobility risk management software for organizations with commercial and non–commercial drivers. SambaSafety serves"
     publishedDateTime: 2023-06-16T15:08:54Z

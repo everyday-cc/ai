@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Would you trust AI-generated reviews? The next Amazon product you buy may have them"
-    excerpt: "Amazon is testing out generative AI to summarize its product reviews for its customers on some products across the store."
-    publishedDateTime: 2023-06-13T16:02:00Z
-    webUrl: "https://www.zdnet.com/article/would-you-trust-ai-generated-reviews-the-next-amazon-product-you-buy-may-have-them/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/would-you-trust-ai-generated-reviews-the-next-amazon-product-you-buy-may-have-them/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/would-you-trust-ai-generated-reviews-the-next-amazon-product-you-buy-may-have-them/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/6e98e1feda94de9884e3ccec9cf609e2e58653ff/2023/06/13/885f44eb-dc15-41c2-84f9-fcfe1d438e84/amazon-boxes.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon thinking about using AMD’s AI"
     excerpt: "It might fit into the invisible plane  Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision."
     publishedDateTime: 2023-06-15T09:56:00Z

@@ -51,6 +51,20 @@ related:
         width: 400
         height: 223
         isCached: true
+  - title: "Karcher RCV 5 review: a robot vacuum for when you're home"
+    excerpt: "The Karcher RCV 5 looks like any other robot vacuum; it's circular in shape, has a low profile, and comes with a separate charging base. The robot vac measures 9.7 x 35cm (h x d), with the base station coming in at 9.9 x 13.5cm (h x l) – it takes up far less space than some of the best cordless vacuum cleaner, for example."
+    publishedDateTime: 2023-06-18T09:00:00Z
+    webUrl: "https://www.techradar.com/reviews/karcher-rcv-5"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/BhKreibxBxPDnqMFxbFVK9-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "UnwJL4JLHErm9pGLBxKlq5uP36mdg6sstKQIZbuOiwyX+tX9ziEpex53YbsquZsXzu0RnV/9Hc6M0xV2IlNnkblSmjPfpYqyD9l43QVBgcjuN72gdH2KL9TfL6cYEW9r0ThBsiRk+D2H/0UIqIe07AwjHed9dxgLWDyuL9czWWrFPuajsGf2LWuVzS61h/vHhrB6zXqOB2WT6SmUURbIqrKqhm7Dp9zlje/dWyFGrv+L/U9RdRFQR03u2ruumi3rKnLq1O3rENX0iZmoFjFmPSPy0w+HMv9OpMZ9PgILnIlLNmMoVDNuEf0b7wEulC/eCpw6b8b/7MjzX+dbWFUPD2S83qP6/ahNtshO3GAv+zqNQpwz0xQ5d4A8oapMh7Qg4+tqX9VCg/NkCtNtA7CWmmhSs/AZV928LGrjXtCUWqDzrov3KjbEqUov+NSb8dS8HNlHXLZgNnoOUC36qjLZvkLZ1XCIJcHY/gKqUqWeFaimQwCHkCjVI39W0IEQMyHWz0tnrLL3CHDQnBt07nt9cA==;zsVTP5sQgF6pOp+g1GDf3g=="
 ---

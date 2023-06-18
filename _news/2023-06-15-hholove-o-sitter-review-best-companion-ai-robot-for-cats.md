@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best
 webUrl: "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best-companion-ai-robot-for-cats/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://mma.prnewswire.com/media/2104095/HHOLOVE_O_Sitter.jpg"
         width: 400
         height: 223
+        isCached: true
+  - title: "Karcher RCV 5 review: a robot vacuum for when you're home"
+    excerpt: "The Karcher RCV 5 looks like any other robot vacuum; it's circular in shape, has a low profile, and comes with a separate charging base. The robot vac measures 9.7 x 35cm (h x d), with the base station coming in at 9.9 x 13.5cm (h x l) – it takes up far less space than some of the best cordless vacuum cleaner, for example."
+    publishedDateTime: 2023-06-18T09:00:00Z
+    webUrl: "https://www.techradar.com/reviews/karcher-rcv-5"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/BhKreibxBxPDnqMFxbFVK9-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Amazon Fire Max 11 review: Easily the best Fire tablet yet"
     excerpt: "The newest Amazon Fire tablet checks all of the boxes for an affordable, mid-range tablet. But you'll want to read the rest before buying one."

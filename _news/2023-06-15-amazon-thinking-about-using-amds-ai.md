@@ -41,22 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Would you trust AI-generated reviews? The next Amazon product you buy may have them"
-    excerpt: "Amazon is testing out generative AI to summarize its product reviews for its customers on some products across the store."
-    publishedDateTime: 2023-06-13T16:02:00Z
-    webUrl: "https://www.zdnet.com/article/would-you-trust-ai-generated-reviews-the-next-amazon-product-you-buy-may-have-them/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/would-you-trust-ai-generated-reviews-the-next-amazon-product-you-buy-may-have-them/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/would-you-trust-ai-generated-reviews-the-next-amazon-product-you-buy-may-have-them/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/6e98e1feda94de9884e3ccec9cf609e2e58653ff/2023/06/13/885f44eb-dc15-41c2-84f9-fcfe1d438e84/amazon-boxes.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "1i2mJS5WlBpej3Yw8qhHDkwZqXchpA3OfxHLMZmyCQMuxo27rmLNu9vt9lH8nnXW/AezZ3YWrPsQsGVwfVW5i+izV+JgeBtKa5X9YfsRAjROLfdc1r1mU3+Ff7S72P7Paqb6gyecTdHELVeu/+auMe5de4wMAg2UevB4RnEAUVr3ULjA4rQjS7WQAJB67eh8XHnDYGPAhNp0HjfZCaaD5l5JTfbgwXur14TBCvJa+NqrPozMWV+WKA8TcBwN6AVJEtJi2ekjWY/azXhEfe0gmDfdKR9ybyjQVznfPsw8KHzLNo9wcnVX0A3gexq/N1B1uLqenbK79D505NKnDPdCgPQ4AVgJSsb/J1zR6yb3dF0=;yqtqmItashZRH+jiZSzODQ=="
 ---

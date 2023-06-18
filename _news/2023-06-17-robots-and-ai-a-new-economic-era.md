@@ -52,6 +52,15 @@ related:
       name: The Jakarta Post
       domain: thejakartapost.com
     quality: 54
+  - title: "The risks and rewards of artificial intelligence: Color Us Connected"
+    excerpt: "A month or so ago, a friend suggested that an artificial intelligence (AI) app could write a press release just about as well as I could."
+    publishedDateTime: 2023-06-18T09:20:00Z
+    webUrl: "https://www.seacoastonline.com/story/opinion/columns/2023/06/18/the-risks-and-rewards-of-artificial-intelligence-color-us-connected/70325270007/"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 17
 
 secured: "qQBYURwD0lWuL/VPu43krsRJawNSzAHfBXZangCWdSyLw1k3L+9E+0vwCba8mUOg7wgnT23GaQAflJIVxJId9Rw/GvIqAnjGo7pgKWxdZX/hjvaNeiA/MqSgmjV+lYuY/KgB1nISOwdhYRpKo3+ijK9tBvuHUHMVlkM41xQ0xfH8ZZ3bnp7szxV+vVbUk0NfMvfWoAZkSWiJ2yaiRYOqFroc1D0eh9SprE0dG+ppm6eyt6uWHJLpvXrr5+HvIk7HWvcrzSGjJYSB1RJXJt4UnBrFEEG1Cy1cnkx0d9PI4eow/rvtgqhmxZHFXBTjFOlwDmurDWX97+Sb4aSG0FZoKs1YdqYuK5fH+3DdjNuImmyUuCB1MnUe3PNEvJhq+YpE4AhR5rsn3ZgwhQrF3uJ+DMSubonkpzK0YLqunfPzrj7erv7TQuotFuMmUAJQuz4Z0bKapx6zH8IDP3ZEHavnLm5clJTMe+/qrMBdLITjAq/6wStGhaAeAmi8G+o14jsXPc7j45tiupW9XrYD4CG6IQ==;UahFq2fxXvR5ZHoEVIJRTw=="
 ---

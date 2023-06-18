@@ -24,36 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "New Beatles song to bring John Lennon’s voice back, with a little help from AI"
-    excerpt: "Sir Paul McCartney explained to the BBC that an AI-driven process helped isolate John's vocals from an old tape for a last Beatles album."
-    publishedDateTime: 2023-06-14T15:30:00Z
-    webUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/"
-    ampWebUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
+  - title: "Paul McCartney reveals AI was used to create the 'last Beatles record'"
+    excerpt: "McCartney revealed that what he called \"the last Beatles record\" is on its way, adding that it was created with the help of AI. \"It was a demo that John had that we worked on,\" he"
+    publishedDateTime: 2023-06-13T23:08:00Z
+    webUrl: "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com"
+    ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 53
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://www.popsci.com/uploads/2023/06/14/john-lennon-ai-scaled.jpg?auto=webp"
-        width: 2560
-        height: 1440
+      - url: "https://s.abcnews.com/images/GMA/mccartney-1-ap-er-230613_1686693220455_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Artificial intelligence used to create ‘last recording’ from Beatles"
-    excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used. We’ll send you a myFT Daily Digest email rounding up the latest Photo essay news every morning."
-    publishedDateTime: 2023-06-14T00:23:00Z
-    webUrl: "https://www.ft.com/content/eb3f7669-49d5-4a7e-afb6-fedc2d9c8665"
+  - title: "Paul McCartney Says New Beatles Song Finished With Help From Artificial Intelligence"
+    excerpt: "A new song from The Beatles, which broke up in 1969, has been finished thanks to help from artificial intelligence technology, according to Paul McCartney."
+    publishedDateTime: 2023-06-13T18:26:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/06/13/paul-mccartney-says-new-beatles-song-finished-with-help-from-artificial-intelligence/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7df1f6d5-8283-45b0-8bfb-b21a1eb24f81.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 42
   - title: "The Beatles are releasing their ‘last’ record. AI helped make it possible"
     excerpt: "Paul McCartney says artificial intelligence has been used to extract John Lennon’s voice from an old demo to create “the last Beatles record,” decades after the band broke up."
     publishedDateTime: 2023-06-14T03:34:00Z
@@ -68,6 +63,29 @@ related:
         width: 1024
         height: 747
         isCached: true
+  - title: "Paul McCartney says artificial intelligence made upcoming ‘last Beatles record’ possible"
+    excerpt: "A new Beatles song is coming together with a little help from AI, according to Paul McCartney. Artificial intelligence made it possible to turn a decades-old demo recording by John Lennon into “what will be the last Beatles record,"
+    publishedDateTime: 2023-06-14T05:46:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jun/13/paul-mccartney-says-artificial-intelligence-made-u/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 28
+    images:
+      - url: "https://thumb.spokesman.com/AqxftTYeEENWbTc1UcjzkaqTQmo=/1200x630/smart/media.spokesman.com/photos/2023/06/13/6488f98322828.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Paul McCartney says AI helped him finish one last Beatles song – here’s what I think is coming"
+    excerpt: "\"When we came to make what will be the last Beatles record… We were able to get John's voice through AI.\" Ahead of his exhibition at @NPGLondon of Beatles photos, Sir Paul McCartney spoke to @Marthakearney and revealed that a new record will be released this year. #R4Today"
+    publishedDateTime: 2023-06-13T17:38:00Z
+    webUrl: "https://bgr.com/entertainment/paul-mccartney-says-ai-helped-him-finish-one-last-beatles-song-heres-what-i-think-is-coming/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 5
 
 secured: "BlHQKwch1T7wqNQ1/tya7OMjo3VUS4FZTh3ooI4KgrOFAT6OmQjjcu5w0K6C3dvKxscNXRef1Q14R0+wQDT4DOHeSZRKQBKD6SCzx+xfN9Q2CjQsPVyTUu93yViBv1f583MjfLCpqprRgqtpddO0Sri4MvfT+O0IeoMAVsd/iEXYVMoShHVSlC80Hjw51W0/T9gZpKrEZ0m+jy7NVU1p9WftZ4DUAH1QKSJOytzN8e4/1xOFtcNWNH/ztR+lYopVNmatEEMFHoYJHWUEm3rFMq1PCJUzCMoqRO+uuzcj25O8KnP9JuKRzumRoPrVYnt3G8D4xKmJwN14Fe894AHaJoJXF3gwJHuMmioMz/gBbco=;tiGYBXRO6STbeGcMlwH/yg=="
 ---

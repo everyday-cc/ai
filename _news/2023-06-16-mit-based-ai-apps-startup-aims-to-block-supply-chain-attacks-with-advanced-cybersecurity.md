@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "AI-powered malware is a growing security concern, CyberArk survey finds"
-    excerpt: "AI-enabled threats are a major concern; 93% of cybersecurity professionals surveyed expect such threats to impact their organization."
-    publishedDateTime: 2023-06-13T15:10:00Z
-    webUrl: "https://venturebeat.com/security/ai-powered-malware-is-a-growing-security-concern-cyberark-survey-finds/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_a_computer_screen_displays_a_pixellated_skull_and_cross_95c92a74-f651-4ddf-ae1d-891284dd88bf.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Trend Micro brings generative AI to Vision One cybersecurity platform"
     excerpt: "Trend Micro's new generative AI-driven Vision One platform brings together cybersecurity capabilities including XDR and zero trust."
     publishedDateTime: 2023-06-15T09:00:00Z
@@ -64,6 +50,15 @@ related:
         width: 1080
         height: 567
         isCached: true
+  - title: "Investment Strategy Monthly Insights: Defined Outcome Strategies, Robotics & AI, and Cybersecurity"
+    excerpt: "Revolutionizing Industries – Harnessing the Power of Automation, Robotics and Artificial Intelligence for Growth and Transformation Thematic investing provides access to the key disruptive, technological trends shaping our world. Automation plays a key ..."
+    publishedDateTime: 2023-06-13T17:54:00Z
+    webUrl: "https://www.benzinga.com/markets/emerging-markets/23/06/32842172/investment-strategy-monthly-insights-defined-outcome-strategies-robotics-ai-and-cybersec"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
 
 secured: "O0HrLyTYjqETVMqg+pi2yrwdyyTwo4QJzW0hlzbFhlKwUjNN0s7M1+NQIAdWoBgwuhHuFamuTm6ayW/y2yaySv7L15U0I+uxB3kOb4ciH+6y6ZdMVbQxBLQFU2lkp5PJwevB0wHhoHx8CnefioLeOjBtd2Hv+5ahfb4eY9DmVc0u3UZzTYL477zn08waiqTaHh9dBkFuLgMyfoJuaB33zwxRlXDHFkANX0h92h/AjRY+NDyNLiJZYGWmyq5kFncn9XIv/iepw+qv8cN+kZL9kmNpfJ+NxiNH+MckPCk7zbvIQ9pGXOueXk85zM3tA1As2QFSkC6wrNif2lIVt3QuGcVo7hRtEvPvo2rhd+GB3dtE74sjsjJQBQljdFGP6CCm52TJxO+KCVdSuIXgRXBdMIGvZe+ilyYshXYdnaKCDjkg8FKEo+S6EGh5zoDA5YjEF/n/NMZH/ixYCIe1+bYmPXZxvOKNtN94dwq/l1tVh8Njk3X1MQ5h9yw1XnX3Y6nPnBmY1qlcOeXKfHij1Fzvrw==;+1OFlLijaNwNG61ZIpLDzA=="
 ---

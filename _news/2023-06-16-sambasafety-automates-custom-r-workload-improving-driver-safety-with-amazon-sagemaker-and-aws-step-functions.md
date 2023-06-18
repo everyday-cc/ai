@@ -43,20 +43,6 @@ related:
         width: 1022
         height: 512
         isCached: true
-  - title: "Deploy Falcon-40B with large model inference DLCs on Amazon SageMaker"
-    excerpt: "Last week, Technology Innovation Institute (TII) launched TII Falcon LLM, an open-source foundational large language model (LLM). Trained on 1 trillion tokens with Amazon SageMaker, Falcon boasts top-notch performance (#1 on the Hugging Face leaderboard at time of writing) while being comparatively lightweight"
-    publishedDateTime: 2023-06-13T16:59:56Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-falcon-40b-with-large-model-inference-dlcs-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/deploy-falcon-40b-sagemaker.jpg"
-        width: 1023
-        height: 510
-        isCached: true
   - title: "Bring SageMaker Autopilot into your MLOps processes using a custom SageMaker Project"
     excerpt: "Every organization has its own set of standards and practices that provide security and governance for their AWS environment. Amazon SageMaker is a fully managed service to prepare data and build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools,"
     publishedDateTime: 2023-06-14T17:03:03Z

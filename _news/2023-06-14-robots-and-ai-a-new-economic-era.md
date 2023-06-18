@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 979
         isCached: true
+  - title: "The risks and rewards of artificial intelligence: Color Us Connected"
+    excerpt: "A month or so ago, a friend suggested that an artificial intelligence (AI) app could write a press release just about as well as I could."
+    publishedDateTime: 2023-06-18T09:20:00Z
+    webUrl: "https://www.seacoastonline.com/story/opinion/columns/2023/06/18/the-risks-and-rewards-of-artificial-intelligence-color-us-connected/70325270007/"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 17
 
 secured: "/oVCV6S5wRC4dBnF6iCg74jrq8HLrUdqxFxLC9H5YlkkN62s9UetZP9F8inBDC2tYsYRNb+qvT+h+0CSnYgxLWsgAQY8lBs2f1qz8KOFxwTrMXNXVLpW35+ysTErbA4MK/pIqcMtW9aeH4Xw6sdYPe3xfWF6VbhYL9+BePL8L6SkW/2sAMzpIkVtrwUSRrpxd6KI5agWEXcIuUd3yyeI+M/eCE0HOMF0+EUORUS3GwzR1XAjDozLsV5lEoCsvN0jlLUGWM7LXAo3K4ptQcJlOc1EHCw8CGVXl940P/rODhURDyzTrv2ufLEYCly+93wnJmGoSAi+EpSDKgUamdO95ctyYI1Own8yeBAhfQ4ZZkRgdFCiMr19Xak7D4BRvrEmHrx5A+RtcCog6IIOILQJg4am78Wm8r2IfGlCdDT2gsWxqWTzNJJMISmx+fJTRSxKBLDuMhwT23RBQTl5l9vnPG4GEwtLUOKLFM2nFgNROELrEtgOlQfThyM2b6RAjJbotXZHtTI35U8eREMibg/mJw==;8QkCWR9lyL01j48qDgz/aQ=="
 ---

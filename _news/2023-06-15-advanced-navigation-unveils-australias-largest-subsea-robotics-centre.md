@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/advanced-navigatio
 webUrl: "https://markets.businessinsider.com/news/stocks/advanced-navigation-unveils-australia-s-largest-subsea-robotics-centre-1032390898"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -21,6 +21,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Australia’s big test to back the AI good guys"
+    excerpt: "There’s no escaping the rise of the AI era, and governments are trying to grease the wheels of invention, while stopping the baddies in their tracks."
+    publishedDateTime: 2023-06-15T23:43:00Z
+    webUrl: "https://www.afr.com/technology/government-s-big-test-to-back-the-ai-good-guys-20230615-p5dgq1"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 41
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.2118%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/319b93e95b685c8c48acb514d9a01c104f96960b"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "8UP2ES1coXcotTJ6Hg7v0xAeZ+3xsTwRFtw94q5wMqFCFDOHeVFR1i/djxq2GfBGsm+x3n2NlR3ivEUYxTNLKStxGGytQJ+liTV3WhQt7p5tCu+vp7EPmTrKJGH1SUNwlbPLtCVRh/V+YTnPUO7ASqRfJQpzZxyZQYVd60sGLTz8KIV3WMO0VekYr3SWIp9OvEApvhwlMHJY0YSYRF6UYFqD3yHhkKkdQ8ItKf5yErh6sa1YZm1o2WlugZYZQtKWwKWv4nbw2hMH2UaGkbqO+nakYXE+PjhhcqhmTxsP3R/MZJuXJIlt5CewuCH6NCQn9yfXZihhbGkyAmyiK97khoWypbIm1qGmAPLKVSm/rhjFW2Dyhx3ckztSmCjCrz8oL/bo13qj5IskYKVvCqXsXn8LerM2qdC5hrGOgEvWXWyIQaAu2zFmUXvD3y1/08dUW787QE87KSVFSKzJrJ5n6e5Ew7lpW8NUdQDpHbM64IANB7X4MOwSSH44WQRMLUVWna3WWYZDRkRHufLh1wLZrw==;JpfFucHkNn6b0XuB43rvRw=="
 ---

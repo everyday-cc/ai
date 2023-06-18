@@ -33,20 +33,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Generative AI startup Synthesia just raised $90 million in fresh funds from US fund Accel and Nvidia at a $1 billion valuation"
-    excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Generative AI startup Synthesia has raised $90 million in new funding at a unicorn valuation. The London-based company, founded in 2017, focuses on video production ..."
-    publishedDateTime: 2023-06-13T16:50:00Z
-    webUrl: "https://www.businessinsider.com/synthesia-generative-ai-startup-raises-90m-at-unicorn-valuation-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/648899dbd4e551001974dc62?width=1200&format=jpeg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Lenovo to Invest $1 billion for Accelerating AI Solutions"
     excerpt: "Lenovo has announced $1 billion over the next three years to expand its infrastructure solutions and accelerate the deployment of AI"
     publishedDateTime: 2023-06-14T10:47:00Z
@@ -75,15 +61,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Accenture to Invest $3B in AI to Accelerate Clients’ Reinvention"
-    excerpt: "Accenture today announced a $3 billion investment over three years in its Data & AI practice to help clients across all"
-    publishedDateTime: 2023-06-13T16:17:00Z
-    webUrl: "https://www.datanami.com/this-just-in/accenture-to-invest-3b-in-ai-to-accelerate-clients-reinvention/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
   - title: "Accenture announces $3bn bet on AI to help build new industry solutions"
     excerpt: "The new investment is part of Accenture’s continued efforts to build itself as a leader in AI Accenture announces $3bn bet on AI to help build new industry solutions Accenture, AI adoption, AI innovation,"
     publishedDateTime: 2023-06-14T11:48:00Z

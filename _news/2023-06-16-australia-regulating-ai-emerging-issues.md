@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/australia-regulating-ai-emerg
 webUrl: "https://www.natlawreview.com/article/australia-regulating-ai-emerging-issues"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 500
     height: 333
     isCached: true
-
-related:
-  - title: "The Australian AI governance debate starts to heat up"
-    excerpt: "Australian ministers debate whether implementing regulations for AI will address the challenges caused by a lack of skilled AI talent."
-    publishedDateTime: 2023-06-13T15:26:00Z
-    webUrl: "https://www.techrepublic.com/article/au-ai-governance-debate/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-artificial-intelligence-ai-synitia-data-intelligence.jpeg"
-        width: 1200
-        height: 714
-        isCached: true
-  - title: "Australia’s big test to back the AI good guys"
-    excerpt: "There’s no escaping the rise of the AI era, and governments are trying to grease the wheels of invention, while stopping the baddies in their tracks."
-    publishedDateTime: 2023-06-15T23:43:00Z
-    webUrl: "https://www.afr.com/technology/government-s-big-test-to-back-the-ai-good-guys-20230615-p5dgq1"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 41
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2118%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/319b93e95b685c8c48acb514d9a01c104f96960b"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "Xe9H+wi5Ja2ZmBWHn2PiwCcsQFPWxJWx3bfmNaEBFGfjEGjYn0/b5jer+hBPYP5EuxHxyVb0cuJK6l3oy1VW1WtVGEBusknEJLbXssYbVgMxnBIlSylaItjYNddSWWPz+ubNb/k9MtdiT+/ZugG2fxy7RwMRmzpgz64o2QUpVIjUXoKcJ/fkddLMDXRHf700ef5RdYM7C73tJmMF8w7GkcYCWVsXTN6lpNGj8BTmIX6hoHGpHd1mEqwKQg8G19gQ9FKFAlYIb5pMDqmDd72rnq/S5JPviOgvoilgptJB86Y7syt/GBZ0J1Dahx07kMHQ2tQ4HmTl0Q0wXDWffdG8o+UFY3dqWNzUM6tFczHtSWHKZ6S7A9+qPiFd+9TWc1lnmYuzJFvCBRGSqmqmtye37Do5ZhuWVHc9NMkecE9CyQ4ejPLHClpRMlnHteId4Qtjlyk7xpAWiB0+tVNLgEjkR4DRg4iwWzqU/cqy4bF1Nz3Qtt0qMtk1lH+IuemZT2HEVbxYc35fpoXDM7kUMKiBYQ==;J2e+Bjs0uo9KrpBRuWbcCA=="
 ---
