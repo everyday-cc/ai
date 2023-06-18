@@ -48,15 +48,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "The Pace Of AI Innovation For Cybersecurity Is Fast And Furious"
-    excerpt: "The most relevant disciplines of AI currently used in cybersecurity are ML and its subfield, DL. These subdomain AI technologies can parse through massive datasets to analyze relationships between previously detected threat patterns and new threats, providing descriptive, prescriptive and predictive guidance."
-    publishedDateTime: 2023-06-14T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/14/the-pace-of-ai-innovation-for-cybersecurity-is-fast-and-furious/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "How machine learning and new AI technologies could change the cybersecurity landscape"
     excerpt: "Drata's analysis found new technology for data handling has security risks on the one hand and potential security benefits on the other."
     publishedDateTime: 2023-06-15T11:59:00Z

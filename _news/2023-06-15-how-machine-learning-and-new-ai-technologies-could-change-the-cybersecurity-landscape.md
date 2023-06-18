@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "The Pace Of AI Innovation For Cybersecurity Is Fast And Furious"
-    excerpt: "The most relevant disciplines of AI currently used in cybersecurity are ML and its subfield, DL. These subdomain AI technologies can parse through massive datasets to analyze relationships between previously detected threat patterns and new threats, providing descriptive, prescriptive and predictive guidance."
-    publishedDateTime: 2023-06-14T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/14/the-pace-of-ai-innovation-for-cybersecurity-is-fast-and-furious/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "MIT-based AI apps startup aims to block supply chain attacks with advanced cybersecurity"
     excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More The digital pandemic of increasing breaches and ransomware attacks is hitting supply chains and the manufacturers who rely on them hard this year."
     publishedDateTime: 2023-06-15T17:07:00Z

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Meta launches MusicGen, an AI-powered music generator"
-    excerpt: "Meta's MusicGen offers AI-generated music from text and melody, but Google's MusicLM, available through the AI Test Kitchen app, also generates high-fidelity music based on text descriptions across genres."
-    publishedDateTime: 2023-06-13T08:36:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-launches-musicgen-an-ai-powered-music-generator-2023-06-13-875748"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/06/meta-pixabay-copy-1686645297.jpg"
-        width: 360
-        height: 202
-        isCached: true
   - title: "Introducing MusicGen: Meta Unveils Revolutionary AI Music Generator"
     excerpt: "Meta, the social media giant formerly known as Facebook, has recently launched their groundbreaking AI-powered music generator"
     publishedDateTime: 2023-06-13T14:02:00Z
@@ -48,20 +32,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2023/03/congress-sec-360x240.jpg"
         width: 360
         height: 240
-        isCached: true
-  - title: "Meta Releases AI-Powered Music Generator 'Musicgen'"
-    excerpt: "Meta (formerly Facebook) has released its AI-powered music generator called 'MusicGen', which will turn text descriptio"
-    publishedDateTime: 2023-06-13T08:15:00Z
-    webUrl: "https://menafn.com/1106429969/Meta-Releases-AI-Powered-Music-Generator-Musicgen"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-06/13/I_87af4image_story.jpg"
-        width: 1000
-        height: 707
         isCached: true
   - title: "Meta trained music-making AI tool on “20,000 hours of licensed music”"
     excerpt: "Felix Kreuk from the Facebook owner’s AI research team last week posted on Twitter about the music-making tool, which is called MusicGen. It is, he wrote, “a simple and controllable music generation model” which can be “prompted by both text and melody”."

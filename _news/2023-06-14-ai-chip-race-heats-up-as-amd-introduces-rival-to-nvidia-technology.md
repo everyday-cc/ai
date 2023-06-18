@@ -228,20 +228,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Google Launches AI Supercomputer Powered By Nvidia H100 Gpus"
-    excerpt: "By integrating Nvidia's cutting-edge NVIDIA H100 Tensor Core GPU into its supercomputer infrastructure, Google aims to accelerate the development and deployment of advanced AI models and algorithms. The H100 GPUs, renowned for their exceptional performance ..."
-    publishedDateTime: 2023-06-13T07:40:00Z
-    webUrl: "https://menafn.com/1106429818/Google-Launches-AI-Supercomputer-Powered-By-Nvidia-H100-Gpus"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-06/13/F_f7d31image_story.JPG"
-        width: 964
-        height: 492
-        isCached: true
   - title: "AMD showcases AI chip to take on Nvidia"
     excerpt: "The MI300X accelerator is based on AMD’s CDNA 3 technology and uses as much as 192GB of memory to handle workloads for large language models and generative AI, the Santa Clara, California-based company said."
     publishedDateTime: 2023-06-14T05:35:00Z

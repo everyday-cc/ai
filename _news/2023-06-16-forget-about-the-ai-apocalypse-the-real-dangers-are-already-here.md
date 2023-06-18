@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "We are all AI’s free data workers"
-    excerpt: "In fact, we are all data laborers for big technology companies, whether we are aware of it or not, argue researchers at the University of California, Berkeley, the University of California, Davis, the University of Minnesota, and Northwestern University in a new paper presented at FAccT."
-    publishedDateTime: 2023-06-13T08:05:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/13/1074560/we-are-all-ais-free-data-workers/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/13/1074560/we-are-all-ais-free-data-workers/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/13/1074560/we-are-all-ais-free-data-workers/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/MIT-Tech-Review_AI-Data-Annotators_Updated.jpg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "The Advancement Of Artificial Intelligence Is Inevitable. Here's How We Should Get Ready For It."
     excerpt: "Additionally, there is an ever-increasing demand for AI applications in the healthcare, finance, and transportation industries. As these industries (and several more) become more reliant on automation and data analytics, the need for AI solutions will only ..."
     publishedDateTime: 2023-06-16T03:50:00Z

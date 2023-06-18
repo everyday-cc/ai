@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "ONSCHAIN: The World’s First Blockchain Created by Chat-GPT4 and Managed by Artificial Intelligence"
-    excerpt: "ONSCHAIN is the world's first blockchain created and managed by AI, specifically OpenAI's Chat-GPT4, combining the power of artificial intelligence and blockchain technology to create a decentralized, secure, and transparent system that promises ..."
-    publishedDateTime: 2023-06-13T07:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/onschain-the-world-s-first-blockchain-created-by-chat-gpt4-and-managed-by-artificial-intelligence-1032384745"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/P12FFoKgxlTVtIq8T95FBvfJ1vC3/1686585526566-0.jpg"
-        width: 643
-        height: 321
-        isCached: true
 
 secured: "WQ2jK0MJDxX848mfC8RnH5Sc+criqo8weBIMkfS1Ft6460HVo/K1fARbUDu7WsPc74Z6Mk0JnahMbDgqZV8Pah+Fq9VbVY8CgbRBvtV838baEA5a8+M8ckx8HaTvhLa1bepmqyn5ZPFMqfIjVBqpZ5MOY9PA8y98pXMkOFLe409k4Lf3AelaoTF960idVPf1OfuHSLwe79nxfRPWWayh1WgbI1Cn0Dm71SoZkrlVZS7GIhFGe2UP/vIEh1+Kgp5svsidNO7wQY+S1Hni7zGd45mhwU4i7rtDQUzJiMZNIxkFexhmCNxRQxBS2RB5nLxtrz9NdvHhgXvhSLQIsbUrF7bwslECkUWly9dPIP3IkhsC/amuV92sL64GypwaTPL/VKyzdZD8vv+gI22LU2V39issfY+CEEus9bq3qZrnWnxsGakdH1yXAvQ98ukIHtb9imGieapaiy457QePBC9u4H+rxof+9XLuxC7XniDZWgv4tPobbgES3kNBhJZMcfJ6Al4OF5bdvmxWFlA0u0dZoQ==;BW6I2EsR+XPYZ2A+Ii8otQ=="
 ---

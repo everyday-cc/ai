@@ -28,17 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup by ex-Meta and Google researchers raises $113M in seed funding"
-    excerpt: "With no product at hand, the company is on a hiring spree and on the lookout for researchers, software engineers and product developers in AI."
-    publishedDateTime: 2023-06-14T07:43:00Z
-    webUrl: "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding"
-    ampWebUrl: "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding/amp"
+  - title: "AI Startup By Ex-Meta And Google Researchers Raises $113M In Seed Funding"
+    excerpt: "The artificial intelligence (AI) firm from Paris facilitate the release of the company’s first set of models for text-based generative AI."
+    publishedDateTime: 2023-06-14T14:52:00Z
+    webUrl: "https://insidebitcoins.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 38
+      name: Inside Bitcoins
+      domain: insidebitcoins.com
+    quality: 36
+    images:
+      - url: "https://insidebitcoins.com/wp-content/uploads/2023/06/airobothead_cna.jpg"
+        width: 690
+        height: 398
+        isCached: true
   - title: "Generating mania: Month-old Paris-based startup Mistral AI raises $113M in seed funding"
     excerpt: "Based in Paris, Mistral is the latest startup looking to take on Microsoft Corp.- backed OpenAI LP and Google in building the base infrastructure for generative AI models, which can create new text and images from simple prompts."
     publishedDateTime: 2023-06-14T03:10:00Z

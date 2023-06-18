@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-m
 webUrl: "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-makes-anyone-speak-a-foreign-language/"
 type: article
 quality: 69
-heat: 89
+heat: 91
 published: true
 
 provider:

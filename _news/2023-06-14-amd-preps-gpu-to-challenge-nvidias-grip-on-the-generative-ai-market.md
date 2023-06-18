@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/amd-preps-gpu-to-challenge-nvidias-grip
 webUrl: "https://www.pcmag.com/news/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market"
 type: article
 quality: 84
-heat: 364
+heat: 354
 published: true
 
 provider:
@@ -217,20 +217,6 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/429590/spain-telecom-technology.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Google Launches AI Supercomputer Powered By Nvidia H100 Gpus"
-    excerpt: "By integrating Nvidia's cutting-edge NVIDIA H100 Tensor Core GPU into its supercomputer infrastructure, Google aims to accelerate the development and deployment of advanced AI models and algorithms. The H100 GPUs, renowned for their exceptional performance ..."
-    publishedDateTime: 2023-06-13T07:40:00Z
-    webUrl: "https://menafn.com/1106429818/Google-Launches-AI-Supercomputer-Powered-By-Nvidia-H100-Gpus"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-06/13/F_f7d31image_story.JPG"
-        width: 964
-        height: 492
         isCached: true
   - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
     excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
