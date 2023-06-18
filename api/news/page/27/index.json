@@ -2,6 +2,59 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-05-29-as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t.md",
+      "title": "As NVIDIA Approaches $1T, Company Announces AI Tech Needed To Surpass $2T",
+      "excerpt": "The NVIDIA DGX GH200’s massive shared memory space uses NVLink interconnect technology with the NVLink Switch System to combine 256 GH200 superchips, allowing them to",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6473c8a15a1b0fdc91569955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/",
+      "publishedDateTime": "2023-05-28T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei.md",
       "title": "Nvidia CEO reveals groundbreaking generative AI innovations for industries at COMPUTEX Taipei",
       "excerpt": "Huang believes the innovations will facilitate new business models and enhance efficiency across a multitude of industries.",
@@ -1093,57 +1146,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you.md",
-      "title": "Cloud Paves The Way To AI. But Understand What Your Cloud Providers Aren’t Telling You",
-      "excerpt": "That's the word from David Linthicum, chief cloud strategy officer for Deloitte Consulting and author of the just-published book, An Insider's Guide to Cloud Computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64721da4e3e8f6f090569955/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/amp/",
-      "publishedDateTime": "2023-05-27T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

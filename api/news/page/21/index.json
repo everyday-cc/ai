@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-06-01-investors-see-ai-chips-as-new-gold-heres-why.md",
+      "title": "Investors See AI Chips as New Gold. Here’s Why",
+      "excerpt": "AI chips have suddenly taken center stage in what is considered an AI revolution that could reshape the technology sector—and the world",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6284046/nvidia-ai-chips-investment/",
+      "originalUrl": "https://time.com/6284046/nvidia-ai-chips-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-artificial-intelligence-series-1-of-5-past-present-and-future.md",
       "title": "Artificial Intelligence Series 1 Of 5: Past, Present, And Future",
       "excerpt": "Human integration with technology has always been intertwined. From fire to AI. However, the speed of technology development is exponentially changing.",
@@ -1095,57 +1147,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-ai-expanded-album-cover-artworks-go-viral-thanks-to-photoshops-generative-fill.md",
-      "title": "AI-expanded album cover artworks go viral thanks to Photoshop’s Generative Fill",
-      "excerpt": "AI-powered makeovers of famous music album covers went viral on Twitter thanks to Adobe Photoshop's Generative Fill, an image synthesis tool that debuted in a beta version of the image editor last week.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/ai-expanded-album-cover-artworks-go-viral-thanks-to-photoshops-generative-fill/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/ai-expanded-album-cover-artworks-go-viral-thanks-to-photoshops-generative-fill/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/beatles_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/ai-expanded-album-cover-artworks-go-viral-thanks-to-photoshops-generative-fill/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-expanded-album-cover-artworks-go-viral-thanks-to-photoshops-generative-fill/amp/",
-      "publishedDateTime": "2023-05-31T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

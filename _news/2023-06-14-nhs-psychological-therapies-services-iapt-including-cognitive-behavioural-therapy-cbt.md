@@ -1,10 +1,10 @@
 ---
 category: news
 title: "NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)"
-excerpt: "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT) treatment and services at this clinic."
+excerpt: "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT) treatment and services at this hospital."
 publishedDateTime: 2023-06-13T21:07:00Z
-originalUrl: "https://www.nhs.uk/services/clinic/richmond-wellbeing-service/XRWK1H/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt"
-webUrl: "https://www.nhs.uk/services/clinic/richmond-wellbeing-service/XRWK1H/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt"
+originalUrl: "https://www.nhs.uk/services/hospital/wiltshire-iapt/XRVN6A/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt"
+webUrl: "https://www.nhs.uk/services/hospital/wiltshire-iapt/XRVN6A/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt"
 type: article
 quality: 11
 heat: 11
@@ -19,6 +19,6 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "z1HHMAaIBLLWv9qg6i5xoGFW0SpLhBkxE/0db0lFLHtCKesUkkHHVuOGJgfavdm3Mf5DVgypvEraIeFVj01kqJT/wNYx1zh+PP+7LxoA16mHpoUyGHA5OI5gTuVexrCj4AAhN3CdZCHrzrEfH+ffwIUxjcwF8a+0F3xF+FfDB8m9uhMFjfQ3rsDVVI607RTEevloGwQzZuS4vd1ft/Fr7z4NBfKYZTGBs7o9TeN1/pTnH6aN2UxpA2Lwaoe/HOkeuP/TxCjWZnmi03zZelKj8y/u083vSFOCziWSv+u1HzCNIayyhDfdNw+pia6ZYO0rNOaJjWFSyviv3OANwTiM8B/u3KIXiypm1JaWYfIASJo=;67oL6V5DjM61NmuRnEAOag=="
+secured: "pde3WIcCE6FWqI1FcLLUfcQ95APUR8FuRFQwMq7P9LEt28AG/MPylj8pJ2NSy/9lRASS/BPVAkrfMn5fb+9watMcbTTCkiaG1gb/qcqoOLlbWxhmFhP8qpc6EgOmO64IV796TsTdzh0GQmOVQvoDLkEDNow2ECqjx6h3e97zBUiPoLfge3trizi2k358bog0PDjkPM1PnHoegI5mFi0GuOYWmLTsNcuyEql8BNMYAtlV1eGMNpko9wXG88dQj0CJMQ1StfNZXVZ6sGxyBuasTi2zAgLzJN/dGDcjMGyHzIv+3raeyYiT9DfS1m+TSf3mqTni7QiehWEvUTU6MiSm9eJeHixZOOlrHENyPZPt7qM=;rveHxCoj+p4W0lip2lw3qA=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-05-22-how-does-ai-add-value-to-sales-intelligence.md",
+      "title": "How Does AI add Value To Sales Intelligence?",
+      "excerpt": "AI improves sales pipeline intelligence by leveraging advanced algorithms and data analysis techniques to extract valuable insights from large volumes of data. Here are several ways AI enhances sales pipeline intelligence:",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-05-21-how-generative-ais-impact-on-digital-advertising-methodology-is-evolving.md",
       "title": "How generative AI’s impact on digital advertising methodology is evolving",
       "excerpt": "Despite issues around brand safety, intellectual property and security, generative AI tools for brands and advertisers are here to stay.",
@@ -1156,49 +1199,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-this-shark-2-in-1-robot-vacuum-and-mop-is-like-living-with-a-dream-roommate.md",
-      "title": "This Shark 2-in-1 Robot Vacuum and Mop Is Like Living With a Dream Roommate",
-      "excerpt": "I’ve tinkered with and used a fair share of robot vacuums while bouncing from rental to rental this last decade. I’ve seen friends’ vacs get caught under bed frames and TV stands, listened to roaring motors suck up cat hair like margarita salt,",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/home/interior-projects/a43867014/shark-ai-ultra-2-in-1-robot-vacuum-review/",
-      "originalUrl": "https://www.popularmechanics.com/home/interior-projects/a43867014/shark-ai-ultra-2-in-1-robot-vacuum-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod/images/shark-wandvac-245-645d52ec32723.jpg?crop=1.00xw:0.671xh;0,0.290xh&resize=1200:*",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

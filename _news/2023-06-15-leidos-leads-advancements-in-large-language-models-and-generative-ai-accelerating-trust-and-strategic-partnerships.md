@@ -1,23 +1,30 @@
 ---
 category: news
 title: "Leidos Leads Advancements in Large Language Models and Generative AI, Accelerating Trust and Strategic Partnerships"
-excerpt: "\"Generative AI is going to revolutionize industries and Leidos is at the forefront of putting this powerful technology into action,\" said Jim Carlini, Leidos Chief Technology Officer. \"Years ago, we recognized the potential of the LLMs that power today's Generative AI breakthroughs and began the work to unlock it."
-publishedDateTime: 2023-06-14T21:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-leidos-leads-advancements-large-language-models-generative-ai-/2023/06/14/9832964.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-leidos-leads-advancements-large-language-models-generative-ai-/2023/06/14/9832964.htm"
+excerpt: "Leidos (NYSE:LDOS), a FORTUNE® 500 science and technology leader, today announced the successful deployment of Large Language Models (LLMs) – the foundational technology"
+publishedDateTime: 2023-06-14T20:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32863248/leidos-leads-advancements-in-large-language-models-and-generative-ai-accelerating-trust-and-strate"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32863248/leidos-leads-advancements-in-large-language-models-and-generative-ai-accelerating-trust-and-strate"
+ampWebUrl: "https://www.benzinga.com/amp/content/32863248"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32863248"
 type: article
-quality: 0
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
-  - AI Ethics
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "AMD unveils MI300x AI chip as 'generative AI accelerator'"
@@ -199,6 +206,6 @@ related:
       domain: insidehpc.com
     quality: 4
 
-secured: "rTLAb2+7F9HNnWXucjcjd2j4f+uNgQXg5D/DZAba7rLXMB9VcNntqmHoUIugmoKFEEoetsIiyRaRb92PAxgI0/9ctDT2tYd/aGtDzlHGeZlhIPGI/BCEelcY0s2NVE6k2INUPUqVn0KbPCSPwzMCnH8+WL4GIuvgbJn0KlgMdhv4pPMNd8V7OTHvx1Mj3qHW+vhwOTBJ4wHY1pKG5bTTjOqkNOQ7P5rTBtr7hjHWIG2RbExTltjauMItna2VE0TofHqN2JoZBrMXipoRbKjmbRO/c58WOoq/KtjX5nUyBf7KvPt3vLIIeJdCTsaoD/OM4yhFpfXy9LvEXpm0LYqvcimLPTGo2fAoPMffDF8npjWvG+1ym7IDF+XbL+3txtJqNDltXjOTGuNGostKE8zprOFERXvN3aq3Kxy7sUesjo5sI8qFNrr82a73Aia3INx9xqxQd6WLUH1C5F1Fv2WxpEH4hUjvuY5zDdxM89bHKAQ0nfgLZpN6TTBX7dRDbe9eY17liLWBhFCfeOhKfIU2BQ==;CVHObaWpuqN6HRX5Qi7WOQ=="
+secured: "IwRnt16H9o22vyom1N1Zm2nsJMpEM7ZEqRLoip6QI59SpMheZkBdVBXakiYmOpnCPHmg/f2NlstxCR6NAIBV10UeUXod6qjLCMKmumbqCMaqfrssRdMNYIELtlL/fy2Ow6X5YoBQvLyZXC6/UB97KvnGoNEjGNLYPP/uqoJppTMZKwJA50285lk+oWekjLBB0tD66ktGvxX4ezAJdOQygomSk2Efl5YdcXocZMNKp0l43nfKxDdM982N3wuhbseqrHg/UfaRJAFrZ+HZFgnM4eETE+dNEtA0cZb0qrok0GSCFNlz6LZb8+5bjmAtGZQltdlT1VSTpgSkTGkvYkHpqBjnVraz8VsFHE3gRMi0FTA=;yrDBnVxx2SjV2XFL8y2Tdg=="
 ---
 

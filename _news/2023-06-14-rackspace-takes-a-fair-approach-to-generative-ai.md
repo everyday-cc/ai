@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ServiceNow unveils Now Assist for Virtual Agent, a generative AI solution for self-service"
-    excerpt: "This tool utilizes generative AI to deliver direct and contextually accurate responses to user inquiries for digital workflows."
-    publishedDateTime: 2023-06-13T07:00:00Z
-    webUrl: "https://venturebeat.com/ai/servicenow-unveils-now-assist-for-virtual-agent-a-generative-ai-solution-for-self-service/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Now-Assist-for-Virtual-Agent.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Serving Generative AI just got a lot easier with OctoML's OctoAI"
     excerpt: "Generative AI, because of its compute intensity, is especially hard to put into production. OctoML says it can streamline all of that with its years of optimization expertise."
     publishedDateTime: 2023-06-15T13:47:00Z

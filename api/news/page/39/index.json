@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-05-20-this-shark-2-in-1-robot-vacuum-and-mop-is-like-living-with-a-dream-roommate.md",
+      "title": "This Shark 2-in-1 Robot Vacuum and Mop Is Like Living With a Dream Roommate",
+      "excerpt": "I’ve tinkered with and used a fair share of robot vacuums while bouncing from rental to rental this last decade. I’ve seen friends’ vacs get caught under bed frames and TV stands, listened to roaring motors suck up cat hair like margarita salt,",
+      "sourceUrl": null,
+      "webUrl": "https://www.popularmechanics.com/home/interior-projects/a43867014/shark-ai-ultra-2-in-1-robot-vacuum-review/",
+      "originalUrl": "https://www.popularmechanics.com/home/interior-projects/a43867014/shark-ai-ultra-2-in-1-robot-vacuum-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/shark-wandvac-245-645d52ec32723.jpg?crop=1.00xw:0.671xh;0,0.290xh&resize=1200:*",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Mechanics",
+        "domain": "popularmechanics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-20-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only-xbb-variants-and.md",
       "title": "Health News Roundup: US FDA approves Genmab-AbbVie's blood cancer therapy; WHO recommends new COVID shots should target only XBB variants and more",
       "excerpt": "A U.S. district court judge issued a temporary restraining order late on Wednesday after the two companies and the FTC reached an agreement that both sides said in a joint filing would permit a full briefing and \"less-compressed consideration\" by the court of the FTC request.",
@@ -1167,58 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-machine-learning-creates-new-technologies.md",
-      "title": "Machine Learning Creates New Technologies",
-      "excerpt": "Machine learning is finding increasing uses in developing new materials, including magnetic materials used for digital storage. Although not infallible, these approaches can speed scientific and engineering discoveries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64670c15549215f4ea41e295/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/amp/",
-      "publishedDateTime": "2023-05-18T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

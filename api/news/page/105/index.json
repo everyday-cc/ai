@@ -2,6 +2,40 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-04-08-new-deep-learning-based-model-estimates-breast-density-with-high-precision.md",
+      "title": "New deep learning-based model estimates breast density with high precision",
+      "excerpt": "Breast cancer is the most common cancer to affect women worldwide. According to the American Cancer Society, about 1 in 8 women in the United States will develop breast cancer in their lifetime.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230407/New-deep-learning-based-model-estimates-breast-density-with-high-precision.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230407/New-deep-learning-based-model-estimates-breast-density-with-high-precision.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-08-the-worlds-first-self-driving-public-bus-fleet-is-rolling-out-in-scotland.md",
       "title": "The world’s first self-driving public bus fleet is rolling out in Scotland",
       "excerpt": "On May 15, Stagecoach’s self-driving vehicles will begin operations along a 14-mile route that includes Edinburgh’s historic Forth Road suspension bridge. According to the BBC, a total of five ...",
@@ -1004,40 +1038,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-riane-lumer-is-penn-the-new-happy-valley.md",
-      "title": "Riane Lumer | Is Penn the New Happy Valley?",
-      "excerpt": "Columnist Riane Lumer responds to the Resume.io study that Liz Magill reposted about university happiness rankings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedp.com/article/2023/04/instagram-happiness-liz-magill-penn-ranking",
-      "originalUrl": "https://www.thedp.com/article/2023/04/instagram-happiness-liz-magill-penn-ranking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Pennsylvanian",
-        "domain": "thedp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

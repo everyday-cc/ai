@@ -103,6 +103,22 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Leidos Leads Advancements in Large Language Models and Generative AI, Accelerating Trust and Strategic Partnerships"
+    excerpt: "Leidos (NYSE:LDOS), a FORTUNE® 500 science and technology leader, today announced the successful deployment of Large Language Models (LLMs) – the foundational technology"
+    publishedDateTime: 2023-06-14T20:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32863248/leidos-leads-advancements-in-large-language-models-and-generative-ai-accelerating-trust-and-strate"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32863248"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32863248"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "AMD unveils MI300X, steps up play into AI chip segment"
     excerpt: "Chipmaker AMD has unveiled MI300X, one of its most-advanced GPUs (graphics processing units) for artificial intelligence, which would be available from the second half of this year."
     publishedDateTime: 2023-06-14T13:51:00Z
@@ -189,15 +205,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 4
-  - title: "Leidos Leads Advancements in Large Language Models and Generative AI, Accelerating Trust and Strategic Partnerships"
-    excerpt: "\"Generative AI is going to revolutionize industries and Leidos is at the forefront of putting this powerful technology into action,\" said Jim Carlini, Leidos Chief Technology Officer. \"Years ago, we recognized the potential of the LLMs that power today's Generative AI breakthroughs and began the work to unlock it."
-    publishedDateTime: 2023-06-14T21:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-leidos-leads-advancements-large-language-models-generative-ai-/2023/06/14/9832964.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "N0pKLm1zO8b4bWvsipO7BaDuzYZiED9fFwDz+pBnrNa2eCFjAPReNxi9B7xMEtbor/qE/4VkAkbKurA5t2LyfN6nIjpb0SqE4WKFwnSLvKyFf+bXuFG7zG3mvfVS0RMiXMzeR69QuyPO31P3Eod3g75HTPJj3pk2QfFKjDrlVOaAnU8bBhKfT98xXMeJtlnO8dknMc2LGBl82dCzLQXIIxJtE0WrroBVtkdvhtRn7wgJifCdzJ+1U1VuxAY3VHdpblvsAPfFkdmCom7dhkj16t6d7a+uVXj1wqBeHy8zvmWJsLki/2trC1d7fx7ZL/Z4IrxGL7KVXCYPFSl0Rl7JnXpOCzkZLBJ6u57+tIXY48o=;+9uc613CM1q1tp18heduiw=="
 ---

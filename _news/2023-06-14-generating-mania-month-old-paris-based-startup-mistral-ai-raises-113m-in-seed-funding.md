@@ -38,20 +38,17 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Startup By Ex-Meta And Google Researchers Raises $113M In Seed Funding"
-    excerpt: "The artificial intelligence (AI) firm from Paris facilitate the release of the company’s first set of models for text-based generative AI."
-    publishedDateTime: 2023-06-14T14:52:00Z
-    webUrl: "https://insidebitcoins.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding"
+  - title: "AI startup by ex-Meta and Google researchers raises $113M in seed funding"
+    excerpt: "With no product at hand, the company is on a hiring spree and on the lookout for researchers, software engineers and product developers in AI."
+    publishedDateTime: 2023-06-14T07:43:00Z
+    webUrl: "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding"
+    ampWebUrl: "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding/amp"
     type: article
     provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 36
-    images:
-      - url: "https://insidebitcoins.com/wp-content/uploads/2023/06/airobothead_cna.jpg"
-        width: 690
-        height: 398
-        isCached: true
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 38
 
 secured: "Oi59wXPX5ihdsABtO3xA8I2C1f05YiEsrIQhE7tQx61c0kq7YIgr5HPhTnOzFPw68nlElaShc2b1vfYJDf+INyfru1cz2WS1G4UcuTIn/GyVvKidcm/9uXAHGpLFZ1Cn8CHUJ2vLUz0rHJERTCzcozspxJ/402LgjXVyHIz4F2xxHC80WBRT0APJEIlsSH5SinDAAmL746JHA2nZsJOtjrFso3Ej/EgzfWWNU2AQ5XES0/Xf5G3D41WhOWXlE84LGGAJ1qKAoXSSXWDzov9X4C+KRv9hvYMEsdd/451iXFrkRqywZ/uJF0sZZvSKwyBSkkyN29IZZ7zLGynaAmrrcg4UaOIm4IgUAfHNkHlaHdmPi8ruvN2RrmSyC9dzg7u4Rnr8Qiq2NTWGozjCGGCMK/DFcathfUFgEzs/rZOYD3rY5W/UO5v+g5EMX8ySyqjg/+MFSItrHxbRFY92MGxQ9sC83rfrqo3Qp2nxeBAEXlHohjWT0sVOgEgkMiPasYdeuZraIy2Jt0kheJB5UzJY5g==;BCTx3GRmTZGOudejlinnYw=="
 ---

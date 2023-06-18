@@ -2,6 +2,49 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-05-23-can-artificial-intelligence-ever-be-truly-creative.md",
+      "title": "Can Artificial Intelligence Ever Be Truly Creative?",
+      "excerpt": "When Jane Goodall discovered chimpanzees using tools — bending sticks into just the right shape to penetrate a termite mound, drawing out the insects like fish on a hook — she caused an outcry. “The Toolmaker” could no longer be our species’ special title and people had a collective identity crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/can-artificial-intelligence-ever-be-truly-creative/",
+      "originalUrl": "https://www.unite.ai/can-artificial-intelligence-ever-be-truly-creative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2023/05/ai-creativity-feature-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-this-week-in-data-how-to-talk-ai.md",
       "title": "This week in data: How to talk AI",
       "excerpt": "In this week's video, Bruno and a special guest discuss “how to talk AI” and best practices for currently available generative AI tools.",
@@ -1104,49 +1147,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-how-does-ai-add-value-to-sales-intelligence.md",
-      "title": "How Does AI add Value To Sales Intelligence?",
-      "excerpt": "AI improves sales pipeline intelligence by leveraging advanced algorithms and data analysis techniques to extract valuable insights from large volumes of data. Here are several ways AI enhances sales pipeline intelligence:",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

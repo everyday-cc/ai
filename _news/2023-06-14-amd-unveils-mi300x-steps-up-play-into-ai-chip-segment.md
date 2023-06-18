@@ -111,6 +111,22 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Leidos Leads Advancements in Large Language Models and Generative AI, Accelerating Trust and Strategic Partnerships"
+    excerpt: "Leidos (NYSE:LDOS), a FORTUNE® 500 science and technology leader, today announced the successful deployment of Large Language Models (LLMs) – the foundational technology"
+    publishedDateTime: 2023-06-14T20:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32863248/leidos-leads-advancements-in-large-language-models-and-generative-ai-accelerating-trust-and-strate"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32863248"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32863248"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "AMD's Instinct MI300X GPU targets generative AI workloads"
     excerpt: "Company claims it is the \"world's most advanced accelerator\" for gen AI, but offers few details At its data center and AI event in San Francisco, AMD pitched its AMD Instinct MI300X GPU as built for generative AI workloads."
     publishedDateTime: 2023-06-13T18:27:00Z
@@ -188,15 +204,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 4
-  - title: "Leidos Leads Advancements in Large Language Models and Generative AI, Accelerating Trust and Strategic Partnerships"
-    excerpt: "\"Generative AI is going to revolutionize industries and Leidos is at the forefront of putting this powerful technology into action,\" said Jim Carlini, Leidos Chief Technology Officer. \"Years ago, we recognized the potential of the LLMs that power today's Generative AI breakthroughs and began the work to unlock it."
-    publishedDateTime: 2023-06-14T21:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-leidos-leads-advancements-large-language-models-generative-ai-/2023/06/14/9832964.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "V76DmZEfSMAKnaP34pVp++XbiFWPXcRqLN/xds09IX1WfX3bA2v1eJo/Ae/XnnnBgtshHd3IJ324PZ8V9/SvCbNUr8KQ4EglwlUKztIFxEUjLb2twcc4mMPY/OEPNMZ6MjQucJz76YB22SFxSpm0f2391brLZFWHljP54L0QCk6T50O2dj/igqtZfHRbRk4QO11/Xr75IiUho6bQRszKIpH/DU7RlaSHUFOH8YEUnKcnzu4nqXz2g0/n6+Y6T0IU7AoOjscAReTP8PiERq1LcPOrEzlcK/UYTkg7NJNBXb2X9Br9FfyEkmmyhSOq4q4/1Q/ic6nU+vwv+wDzTq4CnY/AcPeFACqitUN8RXThtXjFNgX9ynjyZKxTACkUPEGcmu9CNBE6+O3nc2HecW/xnQGNGwUZWtTCQKv6OAYKXO2XJRLCk3a+LlNG3vPA1eAbuiomX0Q3JPrjVB1w/8FcncGoFRpgBuonnBm/0yXBZhX4rISowBsEW2BLM8PqU9ym2pGpYcXzODfT8DhIkUkPtw==;93HLsiwl68GjtfpYxQe98w=="
 ---

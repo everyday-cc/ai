@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/world-us-canada-65885899"
 webUrl: "https://www.bbc.com/news/av/world-us-canada-65885899"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:

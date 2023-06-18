@@ -2,6 +2,49 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2023-04-28-first-babies-born-after-being-conceived-by-playstation-controlled-robot.md",
+      "title": "First Babies Born After Being Conceived By Playstation-Controlled Robot",
+      "excerpt": "(MENAFN- IANS) San Francisco, April 28 (IANS) Overture Life, a Spanish startup, which developed a sperm-injecting robot that can be controlled using a PlayStation controller, has successfully ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106125998/First-Babies-Born-After-Being-Conceived-By-Playstation-Controlled-Robot",
+      "originalUrl": "https://menafn.com/1106125998/First-Babies-Born-After-Being-Conceived-By-Playstation-Controlled-Robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-04/28/I_b2afeimage_story.jpg",
+          "width": 400,
+          "height": 268,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-machine-learning-operations-mlops-market-research-analysis-2023-2031.md",
       "title": "Machine Learning Operations (MLOps) Market Research Analysis 2023-2031",
       "excerpt": "What is the Machine Learning Operations (MLOps) market growth? Machine Learning Operations (MLOps) Market Size is projected to Reach Multimillion USD by 2031, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2031.",
@@ -1128,49 +1171,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-first-babies-conceived-using-playstation-controlled-robot-are-born.md",
-      "title": "First babies conceived using PlayStation-controlled robot are born",
-      "excerpt": "the student mechanical engineer who controlled the sperm-injecting device, told MIT Technology Review. The robot was developed by Overture Life, a company that’s working towards automating in ...",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/?ico=tag-post-strip_item_3_news",
-      "originalUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/?ico=tag-post-strip_item_3_news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/04/picsea-kd3qRzgEl70-unsplash-5929.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/amp/",
-      "publishedDateTime": "2023-04-27T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
