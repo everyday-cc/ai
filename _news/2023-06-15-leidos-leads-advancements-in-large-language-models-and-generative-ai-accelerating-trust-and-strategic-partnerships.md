@@ -19,166 +19,48 @@ topics:
   - AI
 
 related:
-  - title: "AMD unveils MI300x AI chip as 'generative AI accelerator'"
-    excerpt: "To be able to run an entire 40-billion parameter model in memory, said Lisa Su, actually reduces the number of GPUs you need."
-    publishedDateTime: 2023-06-13T20:53:00Z
-    webUrl: "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/"
+  - title: "China accelerating development of large language models"
+    excerpt: "China's general-purpose LLMs application is expanding from office and entertainment to fields such as healthcare, the industrial sector and education, according to a report released by the ISTIC."
+    publishedDateTime: 2023-06-14T16:18:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273865234/china-accelerating-development-of-large-language-models"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
     images:
-      - url: "https://www.zdnet.com/a/img/resize/09a61156c2e512b3889a7a43ae434e45b6622c57/2023/06/13/840d775b-68f5-4132-b4c2-96dd75f3de48/amd-mi300x-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.bignewsnetwork.com/cus1686628836267.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "AMD Cloud-Native EPYC Bergamo, HPC Optimized Genoa-X CPUs And MI300 AI Accelerators Take Flight"
-    excerpt: "Under Dr. Su’s leadership, the company has assembled a comprehensive suite of silicon solutions for the lucrative cloud data center, HPC and AI markets."
-    publishedDateTime: 2023-06-13T23:41:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/"
+  - title: "China Focus: China accelerating development of large language models"
+    excerpt: "At the recently held 2023 Zhongguancun Forum a generalist large language model LLM using visual cues to perform arbitrary segme"
+    publishedDateTime: 2023-06-14T16:15:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273865227/china-focus-china-accelerating-development-of-large-language-models"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6488e5d20f339468b475c365/0x0.jpg?format=jpg&width=1200"
-        width: 1024
-        height: 587
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Dremio bets on generative AI, adds new tools to accelerate data workflows"
-    excerpt: "Dremio has announced new generative AI tools for its data lakehouse, including a new text-to-SQL editor for conversational querying of data."
-    publishedDateTime: 2023-06-15T15:01:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/dremio-bets-on-generative-ai-adds-tools-to-accelerate-data-workflows/"
+  - title: "China Focus: China accelerating development of large language models"
+    excerpt: "China's general-purpose LLMs application is expanding from office and entertainment to fields such as healthcare, the industrial sector and education, according to a report released by the ISTIC."
+    publishedDateTime: 2023-06-15T02:32:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202306/15/WS648a70d6a31033ad3f7bc686.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_the_silhouette_of_a_narwhal_poking_its_long_straight_sl_d23d2087-c4ed-4704-99d7-43f6ddfecd52.png?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "http://img2.chinadaily.com.cn/images/202306/15/648a70d6a31033ad342b0d04.jpeg"
+        width: 720
+        height: 480
         isCached: true
-  - title: "AI chip race heats up as AMD unveils rival to Nvidia-world’s most advanced accelerator for GAI"
-    excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with rival chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools. The semiconductor company,"
-    publishedDateTime: 2023-06-15T03:51:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 62
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/06/14/1600x900/AMD-AI--0_1686759502337_1686759560307.JPG"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Asia’s opportunity for generative AI"
-    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
-    publishedDateTime: 2023-06-14T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://i.ytimg.com/vi/3Jf81EQ_1Jw/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "AMD Instinct MI300X accelerator for AI revealed, combines CPU, GPU, and 192 GB of HBM3 memory"
-    excerpt: "AMD's new Instinct MI300X is designed for generative AI and will compete with NVIDIA's H100 and Grace Hopper, and it's out soon too."
-    publishedDateTime: 2023-06-14T05:26:00Z
-    webUrl: "https://www.tweaktown.com/news/91881/amd-instinct-mi300x-accelerator-for-ai-revealed-combines-cpu-gpu-and-192-gb-of-hbm3-memory/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 43
-    images:
-      - url: "https://static.tweaktown.com/news/9/1/91881_03_amd-instinct-mi300x-accelerator-for-ai-revealed-combines-cpu-gpu-and-192-gb-of-hbm3-memory_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
-  - title: "AMD unveils MI300X, steps up play into AI chip segment"
-    excerpt: "Chipmaker AMD has unveiled MI300X, one of its most-advanced GPUs (graphics processing units) for artificial intelligence, which would be available from the second half of this year."
-    publishedDateTime: 2023-06-14T13:51:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-amd-amd-mi300x-nvidia-nlp-meta-ai-artificial-intelligence-linux-foundation-amd-ai-devices-mi300x-240002"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 34
-  - title: "AMD unveils new chip as generative AI accelerator"
-    excerpt: "The MI300X is based on the next-gen AMD CDNA 3 accelerator architecture and supports up to 192 GB of HBM3 memory to provide the compute and memory efficiency needed for large language model training and inference for generative AI workloads,"
-    publishedDateTime: 2023-06-15T11:40:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4087236.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
-  - title: "Introducing Cognite AI, The Generative AI Accelerator For Industrial Data And Value Realization"
-    excerpt: "(business wire )--cognite , a globally recognized leader in industrial software, today announced the launch of Cognite AI, the Generative AI Accelera"
-    publishedDateTime: 2023-06-16T04:45:00Z
-    webUrl: "https://menafn.com/1106445495/Introducing-Cognite-AI-The-Generative-AI-Accelerator-For-Industrial-Data-And-Value-Realization"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/updates/pr/2023-06/15/A_57b37image_story.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Asia's Opportunity for Generative AI"
-    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
-    publishedDateTime: 2023-06-16T19:36:00Z
-    webUrl: "https://cacm.acm.org/news/273906-asias-opportunity-for-generative-ai/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
-  - title: "Introducing Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization"
-    excerpt: "Cognite, a globally recognized leader in industrial software, today announced the launch of Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization. Cognite AI, a comprehensive suite of Generative AI capabilities within Cognite's core Industrial DataOps platform,"
-    publishedDateTime: 2023-06-15T07:16:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833141.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
-  - title: "Cognite Launches Generative AI Accelerator, Promises 10x Efficiency Boost in Industrial Workflows"
-    excerpt: "Cognite AI, a comprehensive suite of Generative AI capabilities within ... “Celanese is building the Digital Plant of the Future and we rely on Cognite Data Fusion on Microsoft Azure to put the right data into the hands of our experts so they can spend ..."
-    publishedDateTime: 2023-06-15T16:34:00Z
-    webUrl: "https://www.datanami.com/this-just-in/cognite-launches-generative-ai-accelerator-promises-10x-efficiency-boost-in-industrial-workflows/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 6
-  - title: "Leidos Leads Advancements in LLMs and Generative AI, Accelerating Trust and Strategic Partnerships"
-    excerpt: "Leidos, a FORTUNE 500 science and technology leader, has announced the successful deployment of Large Language Models (LLMs)"
-    publishedDateTime: 2023-06-16T16:50:00Z
-    webUrl: "https://www.datanami.com/this-just-in/leidos-leads-advancements-in-llms-and-generative-ai-accelerating-trust-and-strategic-partnerships/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 5
 
 secured: "75HBCSE5Ht+q1i7V5s0bSEmxai0zhkv9UwyHow3dmseuhXgeZSy0Egwf8IAXJAVopRMBdB8szxw7GTuMqc3hfXA3+9egrj+MqKNZGM8HogmsvmpaBX0tMXJSh9E3/Rq70gejCDoD+/iimmc8hrkxAWVRMSYTnslkF2SH/QIajuRd/70UDGaHF8qcJYHABAjuUp6xsDiIhz0G52nLU6U81HaEKC008frNa6FWF1x+GzYuJN6QY1jbhA4kJ8q8gE5fMl2cddmmN6XsQX0luqv/Q8osAfMLNtI6QkKbBzjXIT0I14LmqixIoIP32oxogBrVWg4Ytj5vnHhSnG0C2rLjiOL6nBUx/T6QSCkrSTE/eDPJTM2o1HxoP7+i4/ae8UJEIsXJl/CD8QFkiwTzdicQEzQjHeVy/3hNz1zZhM4UgQcOAeaJsKjNRkbW/IUwNx4QEPyNchGmeWR1igrvwg6cnY89zQQe9wMD0OMV0tZgPxhwNVTsvFMGd0Eb+bZ5J9gfogye/lcW82BOh6KE5edrIw==;Mz2BFC321ViYkBhpmt/tsg=="
 ---

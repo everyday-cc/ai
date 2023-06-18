@@ -42,19 +42,35 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 60
-  - title: "AMD Eyes AI, Cloud Expansion With Instinct MI300X, EPYC 97X4 Chips"
-    excerpt: "AMD is taking aim at Nvidia for running large language models with its upcoming Instinct MI300X GPU while targeting cloud workloads with its new EPYC 97X4 Bergamo CPUs."
-    publishedDateTime: 2023-06-13T20:36:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/amd-eyes-ai-cloud-expansion-with-instinct-mi300x-epyc-97x4-chips"
+  - title: "The Third Time Charm Of AMD’s Instinct GPU"
+    excerpt: "The great thing about the Cambrian explosion in compute that has been forced by the end of Dennard scaling of clock frequencies and Moore’s Law lowering"
+    publishedDateTime: 2023-06-14T05:43:00Z
+    webUrl: "https://www.nextplatform.com/2023/06/14/the-third-time-charm-of-amds-instinct-gpu/"
+    ampWebUrl: "https://www.nextplatform.com/2023/06/14/the-third-time-charm-of-amds-instinct-gpu/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/14/the-third-time-charm-of-amds-instinct-gpu/amp/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 56
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: "https://www.crn.com/resources/0282-183fb0570bbb-6da6e9757d14-1000/amd_instinct.png"
-        width: 600
-        height: 450
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/06/amd-mi300a-die-package-shot-updated.jpg"
+        width: 999
+        height: 731
+        isCached: true
+  - title: "AMD Instinct MI300X accelerator for AI revealed, combines CPU, GPU, and 192 GB of HBM3 memory"
+    excerpt: "AMD's new Instinct MI300X is designed for generative AI and will compete with NVIDIA's H100 and Grace Hopper, and it's out soon too."
+    publishedDateTime: 2023-06-14T05:26:00Z
+    webUrl: "https://www.tweaktown.com/news/91881/amd-instinct-mi300x-accelerator-for-ai-revealed-combines-cpu-gpu-and-192-gb-of-hbm3-memory/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 43
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91881_03_amd-instinct-mi300x-accelerator-for-ai-revealed-combines-cpu-gpu-and-192-gb-of-hbm3-memory_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
   - title: "AMD's new Instinct MI300X for AI will consume a lot of power, like 750W"
     excerpt: "It's starting to look like we're getting pretty close to seeing a new GPU draw 1KW of power as standard, with AMD's new Instinct MI300X rated at 750W."
@@ -70,6 +86,15 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "AMD unveils MI300X, steps up play into AI chip segment"
+    excerpt: "Chipmaker AMD has unveiled MI300X, one of its most-advanced GPUs (graphics processing units) for artificial intelligence, which would be available from the second half of this year."
+    publishedDateTime: 2023-06-14T13:51:00Z
+    webUrl: "https://www.zeebiz.com/technology/news-amd-amd-mi300x-nvidia-nlp-meta-ai-artificial-intelligence-linux-foundation-amd-ai-devices-mi300x-240002"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 34
 
 secured: "RAqOFmZVKg3BSL4uTtgePEGh+xqjNcp7jM5S5E8IXVETawy1r+Mr1pnT13P5QLUnKrH8+De5pDJ+wfrhubbwiQMmmfq+CVPMRyGCMXns5PsgjlYIoSzofZ5vHi9i3C10l2Q+/IsUGSDEWAsnyBywR8xfuzNApMxr/5dtE/kHIOd7o0Ty0W3FgCKywMjP3oYV780uSlfBc/A2z8b+6MLlI0eZewwLPIk8ObKfil6TEZU010oRaUX8UZwwed0dp75WDLIFAizzjLkrwQCUd0sdZXIb15jrUNVzlXNUI21Bq9Q/ASO4PEUtAPGOrBOQ5vim3Au18DyK59BfrRCgKve0Im548vcSd0PlaxnMlOhEnG4=;byyQjcqkGqvsDLN2znbKCQ=="
 ---

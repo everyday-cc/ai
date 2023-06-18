@@ -53,6 +53,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Leidos Leads Advancements in Large Language Models and Generative AI, Accelerating Trust and Strategic Partnerships"
+    excerpt: "\"Generative AI is going to revolutionize industries and Leidos is at the forefront of putting this powerful technology into action,\" said Jim Carlini, Leidos Chief Technology Officer. \"Years ago, we recognized the potential of the LLMs that power today's Generative AI breakthroughs and began the work to unlock it."
+    publishedDateTime: 2023-06-14T21:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-leidos-leads-advancements-large-language-models-generative-ai-/2023/06/14/9832964.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "18CKARzfjaBRxG+Tj0Ar5xAwdWSlxsd6M7pZBY+qQm8jS+Zm4Xlp3FjCAOI3/4DQ3n5VVXhThcz3RmtvCgqpNwbhqiwNphh8Q9b5Arg4mARlewVB4Tyr0ZcnntqyB+SMqL07PDYQkkJkJlhgEz/CN6QV6b7TZDUiX3FNQh4YmVR5NKjbZ1bUVdRndai8JbARwMVx78dtsrA0b0AQKOj5pd7ryorhoSQfa+C6N1UWEsJrFEcWKH4d1ZzUUX5YJhsSHSjvUQNYflZV43p0gl+xrYIZlZ+1NpLmItWrRm0GH/RSJN0ZqpiBYPyKjQzUmti/ulSbyUeSLY1iuI5rJ+lMyfOnKKGUzo+8CJ/2dwzNyK8=;wn8C4ilXYQS+iKzmEyV9lA=="
 ---

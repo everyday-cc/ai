@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-15-how-machine-learning-and-location-data-are-disrupting-industries.md",
+      "title": "How Machine Learning And Location Data Are Disrupting Industries",
+      "excerpt": "Machine learning-powered location data intelligence is a powerful tool that can offer transformative benefits, but it needs to be used wisely and responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6489c66337a23195857d5722/0x0.jpg?format=jpg&crop=1942,1092,x0,y201,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/amp/",
+      "publishedDateTime": "2023-06-15T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-openais-cto-says-ai-will-be-your-daily-companion.md",
       "title": "OpenAI’s CTO Says AI Will Be Your Daily Companion",
       "excerpt": "Eight months ago, ChatGPT did not exist to the general public. Now, it’s one of the most talked-about technology products in the world. This week’s episode of The Circuit With Emily Chang goes inside OpenAI, the maker of ChatGPT.",
@@ -188,7 +240,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/advanced-navigation-unveils-australia-s-largest-subsea-robotics-centre-1032390898",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1071,6 +1123,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-15-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report.md",
+      "title": "Amazon’s cloud unit AWS ‘considering’ AMD’s new MI300 AI chips: Report",
+      "excerpt": "While AWS has not made any public commitments to use AMD's new MI300 chips in its cloud services, Dave Brown, vice president of elastic compute cloud at Amazon, said AWS is considering them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/",
+      "originalUrl": "https://www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/06/aws-reuters.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/lite/",
+      "publishedDateTime": "2023-06-14T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-hanmi-semiconductor-rallies-tracking-us-ai-chip-stocks.md",
       "title": "Hanmi Semiconductor Rallies, Tracking U.S. AI Chip Stocks",
       "excerpt": "Hanmi Semiconductor's shares jumped Thursday, tracking the rally in U.S. artificial-intelligence chip stocks overnight. Shares of the",
@@ -1119,109 +1214,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-radio-station-gets-part-time-ai-dj-based-on-its-midday-host.md",
-      "title": "Radio station gets part-time AI DJ based on its midday host",
-      "excerpt": "RadioGPT launched today, an AI-driven localized radio host system that combines OpenAI’s GPT-3 language model with AI voice tech.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/",
-      "originalUrl": "https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-899910422.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/amp/",
-      "publishedDateTime": "2023-06-14T20:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027.md",
-      "title": "Microsoft –AI Will Help Drive $100 Billion In Revenue By 2027",
-      "excerpt": "The latest of these tools, generative AI capabilities through Microsoft Azure OpenAI Service, can help government agencies improve efficiency, enhance productivity, and unlock new insights from their data. Many agencies require a higher level of security ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648bd2abff1c29c9aeb1e996/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/",
-      "publishedDateTime": "2023-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

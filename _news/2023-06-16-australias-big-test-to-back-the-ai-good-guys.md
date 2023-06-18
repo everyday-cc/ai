@@ -35,6 +35,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "New Australia v old Australia: a yes vote on the voice is a vote for the future"
+    excerpt: "The referendum’s success will be a monumental achievement but to arrive there we must explain to the country why the voice is needed"
+    publishedDateTime: 2023-06-18T14:00:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/jun/19/new-australia-v-old-indigenous-voice-referendum"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jun/19/new-australia-v-old-indigenous-voice-referendum"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jun/19/new-australia-v-old-indigenous-voice-referendum"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 40
+    images:
+      - url: "https://i.guim.co.uk/img/media/18a136b40c356e0bf86e24a1a10a56399acb1a91/0_0_4500_2700/master/4500.jpg?width=620&quality=85&auto=format&fit=max&s=91e28e1a73e22b977d4ca04763d46eb9"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "EZ32HflszuqF5ZMsmZmhYZeFoqGE1UL4ADuh5MhtnCptfhFju78rpo/Lk+/ylpSEw60EbhS21267Rn6S6YLkEv2nHlnuUh1395omq5VVtrY7ElDzxFw/rNdagToPnl5mu0PrT1Oq/4NsZ7TF0Aa8GYJ6bVO7aBrL+93eczAiF2O3yTQVcMnbiwULZYktuQVaVG9ndsZ2nTI6UADtk0YqjyF/9lmCwOGUBSOYuEikKGpwzvS6GPFVHHsOUGnBymiQ9GfkbsrQXMiJwzTKoXHEmXAPNkDQH/mov5M1UUBnnrWtTiLgESsN0wfhf7dxVuJQv1f1inoNoF8mwNgsYJYCQ5SmYpE8ZGzJi6GoiEKWBwI=;q6zmHta0YhAAAzChz64zdg=="
 ---

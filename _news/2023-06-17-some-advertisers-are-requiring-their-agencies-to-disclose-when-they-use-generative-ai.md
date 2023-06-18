@@ -31,15 +31,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Dremio Integrates Generative AI, Enables Users to Directly Convert Natural Language to SQL Commands"
-    excerpt: "Mark Sear, director of data at Maersk, expressed his enthusiasm for these innovative additions to Dremio, stating, \"Maersk's data team is embracing the transformative power of generative AI to enhance our capabilities."
-    publishedDateTime: 2023-06-15T12:47:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833462.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "SMbTNgJQxxP/WoDk3tAGMrPb7lmsP2MrSMgH01nEIoPUk2+vUtYaVTMSEXtenD98EylwPxhQsYCWWHJtuzEYVH7zcTwFTuiR/mjHU8E4isvra7Ila0iE/gLDa/Ci2LK2j7Ws5F6X2IaxfdQMPe2LragebiSgsgcSKLbRZsPY2bqIjVBXYVxJN75xK3k4tEc8JM6gfV2pGz0h1jAnPeSN08R4A9B/KRvp0pwgurhl+ziPm0e9+LqXoKdrnqAblxMVbou6Zx7R2EJteNzSgxcp0JrmommzPeqZ8sTaFkp4YkO5xhQCSkOye4bpbzcnrCh57pV2z8/TyGxpgC7fnUUAue/2Bw53wlgK7/APhrI46ejPd+2E6mFnKJbA19F8yxigEATdnHLNCiU+O1c5+z5k5LF5QxmNQCbaMMr/Sqf0Cozfnf4+tYMFf+SiSnD3NEZYLabWTy9PPr1FAOS0Q0yxElneYg3t1XJD4p+eVKEBN0IDqV0U4q8yrqvL4LciKLEgrjeAapYfbWSYQFl2ZsWPzA==;9CsNKm3zvQD2r2mwx/jO3A=="
 ---

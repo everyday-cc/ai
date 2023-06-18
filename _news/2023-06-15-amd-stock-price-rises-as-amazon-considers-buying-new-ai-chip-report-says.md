@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon's cloud unit is considering AMD's new AI chips"
-    excerpt: "The remarks came during an AMD event where the chip company outlined its strategy for the AI market, which is dominated by rival Nvidia Corp"
-    publishedDateTime: 2023-06-14T09:52:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3"
-    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ODVkMDI4YTctNWQ1Yy00/1/usa-treasury-cloud-computing.jpeg?f=3%3A2"
-        width: 834
-        height: 556
-        isCached: true
   - title: "Amazon’s cloud unit AWS ‘considering’ AMD’s new MI300 AI chips: Report"
     excerpt: "While AWS has not made any public commitments to use AMD's new MI300 chips in its cloud services, Dave Brown, vice president of elastic compute cloud at Amazon, said AWS is considering them."
     publishedDateTime: 2023-06-15T04:40:00Z
@@ -71,36 +55,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "AWS is considering AMD’s new AI chips"
-    excerpt: "Amazon Web Services, the world’s largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision, an AWS executive said. The remarks came during an AMD event where the chip company outlined its strategy for the AI market,"
-    publishedDateTime: 2023-06-14T07:13:00Z
-    webUrl: "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 71
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/11/lisa-su-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
-  - title: "AMD’s New Chip Fails to Impress Investors. It’s Still an AI Winner, Analyst Says."
-    excerpt: "The chip maker's big product launch may have left investors feeling uninspired but it can still challenge Nvidia, according to one analyst."
-    publishedDateTime: 2023-06-14T08:56:00Z
-    webUrl: "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3"
-    ampWebUrl: "https://www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 69
-    images:
-      - url: "https://images.barrons.com/im-574599/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Report: AWS considers diversifying its AI server offerings with AMD’s new chips"
     excerpt: "AWS, the world’s largest cloud computing company, is reportedly considering AMD’s new Instinct MI300X accelerator, which was announced at a special event yesterday. The MI300X chip is designed specifically for generative AI workloads,"
     publishedDateTime: 2023-06-15T03:28:00Z
@@ -114,59 +68,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/46600198075_8477bdd292_k-1-2.jpg"
         width: 2048
         height: 1366
-        isCached: true
-  - title: "AMD to ramp up AI chip production this year"
-    excerpt: "and a key performance measure for how well the chip will handle the large AI systems behind services similar to ChatGPT. \"There's no question that AI will be the key driver of silicon consumption for the foreseeable future,\" Su said. Su said customers will ..."
-    publishedDateTime: 2023-06-14T05:39:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 54
-  - title: "AMD unveils latest chips at Data Center and AI Technology Premiere"
-    excerpt: "AMD introduced two new additions to the acclaimed 4th Gen EPYC CPU portfolio, presenting the industry with processors tailored to meet the demands of"
-    publishedDateTime: 2023-06-14T13:00:00Z
-    webUrl: "https://www.techzine.eu/news/applications/107472/amd-unveils-latest-chips-at-data-center-and-ai-technology-premiere/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/IMG_20180831_151701-1.jpg"
-        width: 3413
-        height: 2560
-        isCached: true
-  - title: "Full AMD announcement: New chips and AI tech"
-    excerpt: "From cloud and enterprise data centres to 5G networks to AI, automotive, healthcare, PC's and so much more, AMD technology is truly everywhere and we're touching the lives of billions of people every day. Today, we're here to talk about our newest epic ..."
-    publishedDateTime: 2023-06-13T23:48:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/full-amd-announcement-new-chips-and-ai-tech.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 54
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/79724cb994733508a57bdd218e615dd2_M.jpg"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "AWS is considering AMD's new AI chips"
-    excerpt: "Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from Advanced Micro Devices, though it has not made a final decision, an AWS executive told Reuters."
-    publishedDateTime: 2023-06-14T19:47:00Z
-    webUrl: "https://www.itnews.com.au/news/aws-is-considering-amds-new-ai-chips-596915"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20220802075518_aws-sign-summit.jpg"
-        width: 610
-        height: 457
         isCached: true
   - title: "AMD Stock Leaps After New AI 'MI300' Chip Reveal, Reports Amazon Could Be Buyer"
     excerpt: "\"We have a chip that is incredibly powerful and we believe will be a significant winner in the AI market,\" said AMD CEO Lisa Su."
@@ -196,15 +97,6 @@ related:
         width: 620
         height: 503
         isCached: true
-  - title: "Amazon expresses interest in AMD's new AI chips"
-    excerpt: "To break Nvidia's dominance, AMD needs a big-ticket customer for its new AI chips. Amazon could benefit from the flexibility offered by AMD."
-    publishedDateTime: 2023-06-14T10:40:00Z
-    webUrl: "https://interestingengineering.com/innovation/amazon-buying-amd-new-ai-chips"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
   - title: "Amazon mulling use of AMD chips for AWS, eschews Nvida cloud system"
     excerpt: "Whether AMD will be successful in its attempt to take share away from dominant player Nvidia in the AI chip market is uncertain."
     publishedDateTime: 2023-06-14T20:57:00Z

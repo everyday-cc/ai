@@ -62,7 +62,7 @@
       "originalUrl": "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -219,7 +219,7 @@
       "originalUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -263,21 +263,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-14-amazons-cloud-unit-is-considering-amds-new-ai-chips.md",
-      "title": "Amazon's cloud unit is considering AMD's new AI chips",
-      "excerpt": "The remarks came during an AMD event where the chip company outlined its strategy for the AI market, which is dominated by rival Nvidia Corp",
+      "path": "_news/2023-06-14-amds-new-chip-fails-to-impress-investors-its-still-an-ai-winner-analyst-says.md",
+      "title": "AMD’s New Chip Fails to Impress Investors. It’s Still an AI Winner, Analyst Says.",
+      "excerpt": "The chip maker's big product launch may have left investors feeling uninspired but it can still challenge Nvidia, according to one analyst.",
       "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3",
+      "webUrl": "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3",
+      "originalUrl": "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/ODVkMDI4YTctNWQ1Yy00/1/usa-treasury-cloud-computing.jpeg?f=3%3A2",
-          "width": 834,
-          "height": 556,
+          "url": "https://images.barrons.com/im-574599/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -285,13 +285,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1",
-      "publishedDateTime": "2023-06-14T02:52:00-07:00",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3",
+      "publishedDateTime": "2023-06-14T01:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
+        "name": "Barron's",
+        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -303,6 +303,111 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amds-new-ai-chip-wont-be-enough-to-knock-nvidia-off-its-throne.md",
+      "title": "AMD's new AI chip won't be enough to knock Nvidia off its throne",
+      "excerpt": "Nvidia (NVDA) is likely to remain the dominant artificial intelligence chip designer, despite fellow Club holding AMD's best challenge yet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/14/amd-new-ai-chip-not-enough-to-knock-nvidia-off-its-throne.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/14/amd-new-ai-chip-not-enough-to-knock-nvidia-off-its-throne.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 374,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107255927-1686678111044-gettyimages-1454311939-_8db9584_cfaef0d0-1157-4b88-8cf2-14e3c6b21865.jpeg?v=1686736801&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight.md",
+      "title": "AMD Cloud-Native EPYC Bergamo, HPC Optimized Genoa-X CPUs And MI300 AI Accelerators Take Flight",
+      "excerpt": "Under Dr. Su’s leadership, the company has assembled a comprehensive suite of silicon solutions for the lucrative cloud data center, HPC and AI markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6488e5d20f339468b475c365/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 587,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/",
+      "publishedDateTime": "2023-06-13T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
       ]
     },
     {
@@ -1368,101 +1473,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-apples-brainiest-mac-chip-so-far-the-m2-ultra-means-no-more-intel.md",
-      "title": "Apple's Brainiest Mac Chip So Far, the M2 Ultra, Means No More Intel",
-      "excerpt": "The new chip powers Apple's new Mac Pro and upgraded Mac Studio, letting power users pack as much as 192GB of memory into their machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/apples-brainiest-mac-chip-so-far-the-m2-ultra-means-no-more-intel/",
-      "originalUrl": "https://www.cnet.com/tech/computing/apples-brainiest-mac-chip-so-far-the-m2-ultra-means-no-more-intel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/ac9f4e6185ebc3ddef15f8ddeb86f837ce737b6f/hub/2023/06/05/3d6a31c0-2940-4f7d-952b-e0ca9eb6e96b/apple-m2-ultra-processor.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-micron-is-the-top-chip-stock-pick-amid-ai-hype-says-analyst.md",
-      "title": "Micron Is the Top Chip Stock Pick Amid AI Hype, Says Analyst",
-      "excerpt": "Citi analyst Christopher Danely says chip stocks \"are due for a pullback.” He's cautious on the group, and has moved Micron stock to the front of the pack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/micron-chip-ai-stock-pick-806ef36a",
-      "originalUrl": "https://www.barrons.com/articles/micron-chip-ai-stock-pick-806ef36a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-794279/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/micron-chip-ai-stock-pick-806ef36a",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/micron-chip-ai-stock-pick-806ef36a",
-      "publishedDateTime": "2023-06-05T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

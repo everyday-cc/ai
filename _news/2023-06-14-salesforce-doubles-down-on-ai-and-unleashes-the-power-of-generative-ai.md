@@ -24,36 +24,81 @@ images:
     isCached: true
 
 related:
-  - title: "AI Everywhere: Salesforce Unveils Its Vision Of The AI-First Enterprise"
-    excerpt: "All of this is part of a massive vision Salesforce is unveiling that deeply integrates generative AI into almost everything a company does, from sales to service to"
-    publishedDateTime: 2023-06-13T23:01:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/"
-    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/"
+  - title: "How Generative AI Will Unleash E-Commerce's Next Big Bang"
+    excerpt: "As the future of e-commerce unfolds, it is crucial for businesses to recognize the potential of generative AI and the brand-breaking approach."
+    publishedDateTime: 2023-06-14T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-generative-ai-will-unleash-e-commerces-next-big-bang/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-generative-ai-will-unleash-e-commerces-next-big-bang/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-generative-ai-will-unleash-e-commerces-next-big-bang/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6488f2ccaa9dbc12a1b12f50/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64888186f992c59130f4b947/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 691
+        height: 800
         isCached: true
-  - title: "Salesforce Aims to Plug ‘AI Trust Gap’ With New Tech Tools"
-    excerpt: "The software giant says its new technology will help clients use generative AI tools such as ChatGPT safely by protecting proprietary data, among other things."
-    publishedDateTime: 2023-06-13T20:23:00Z
-    webUrl: "https://www.wsj.com/articles/salesforce-aims-to-plug-ai-trust-gap-with-new-tech-tools-19e11750"
+  - title: "Asia’s opportunity for generative AI"
+    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
+    publishedDateTime: 2023-06-14T16:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
     images:
-      - url: "https://images.wsj.net/im-799829/social"
-        width: 1280
-        height: 640
+      - url: "https://i.ytimg.com/vi/3Jf81EQ_1Jw/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
+  - title: "Adobe Proves Its Determination To Lead The New Era Of Generative AI"
+    excerpt: "When it comes to Azure, Microsoft is facing the same dilemma because Amazon.com Inc AMZN has a much bigger representative on this front, Amazon Web Services. Amazon also launched its own platform that allows building and scaling generative AI services ..."
+    publishedDateTime: 2023-06-16T14:52:00Z
+    webUrl: "https://www.benzinga.com/23/06/32894175/adobe-proves-its-determination-to-lead-the-new-era-of-generative-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32894175"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32894175"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/9067755.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How Google is using generative AI for virtual try-ons"
+    excerpt: "Google today announced it is using a diffusion-based AI model to enable a new virtual try-on shopping feature in Search."
+    publishedDateTime: 2023-06-16T19:07:00Z
+    webUrl: "https://venturebeat.com/ai/how-google-is-using-generative-ai-for-virtual-try-ons/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "AMD unveils new chip as generative AI accelerator"
+    excerpt: "The MI300X is based on the next-gen AMD CDNA 3 accelerator architecture and supports up to 192 GB of HBM3 memory to provide the compute and memory efficiency needed for large language model training and inference for generative AI workloads,"
+    publishedDateTime: 2023-06-15T11:40:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4087236.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
+  - title: "Asia's Opportunity for Generative AI"
+    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
+    publishedDateTime: 2023-06-16T19:36:00Z
+    webUrl: "https://cacm.acm.org/news/273906-asias-opportunity-for-generative-ai/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "mdl87++OZj7JSj9AGclTRunr6hQ3UHpR6BOl1yTuRQEzsPyVMJo1sZ7dOltc1fhbbTZTF2deA9ut/QMrIEqnOqEAkM1xyYjg2xPURt2Sfz4SWr4wCT+FoJc5/eIMitTHW6LY4XJL32f4AXkweR3oxL7uLJ5ikjqOW82PzuAYG0jnIavrY5yWonffKLs/9vDBc+DuSPpYyqUS9VyPlU5p8IaZCQ6Et2xqOvv/7YPtxDnU2oTL77S6O2E3ZNyRrAQxbbJNFfk2PLehScGC0NGXyXuPylJ8KY/LlAgJnpqmvP7GixDoJgkQIXLzXV46c0t9fYn9B7MNXf5TFqgSpbsvLUD3vI5KFj/pCU6FnOpl8g4=;cqUqAdtyafxZv4mIFyzydA=="
 ---

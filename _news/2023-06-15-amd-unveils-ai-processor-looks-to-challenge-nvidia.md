@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD Preps GPU to Challenge Nvidia's Grip on the Generative AI Market"
-    excerpt: "The AMD Instinct MI300X supports up to 192GB of HBM3 memory, and it's designed to train large language models that power programs such as ChatGPT."
-    publishedDateTime: 2023-06-13T20:57:00Z
-    webUrl: "https://www.pcmag.com/news/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05QRwD3jur9IBN1rQ1rDcNw-1.fit_lim.size_1200x630.v1686688086.png"
-        width: 1147
-        height: 630
-        isCached: true
   - title: "AMD's new AI chip won't be enough to knock Nvidia off its throne"
     excerpt: "Nvidia (NVDA) is likely to remain the dominant artificial intelligence chip designer, despite fellow Club holding AMD's best challenge yet."
     publishedDateTime: 2023-06-14T08:00:00Z
@@ -87,6 +73,20 @@ related:
         width: 640
         height: 300
         isCached: true
+  - title: "AWS is considering AMD’s new AI chips"
+    excerpt: "Amazon Web Services, the world’s largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision, an AWS executive said. The remarks came during an AMD event where the chip company outlined its strategy for the AI market,"
+    publishedDateTime: 2023-06-14T07:13:00Z
+    webUrl: "https://techcentral.co.za/aws-is-considering-amds-new-ai-chips/227023/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 71
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/11/lisa-su-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "AMD launches new Instict MI300X AI chip to take on Nvidia’s GPUs"
     excerpt: "During a keynote speech, AMD Chair and Chief Executive Lisa Su announced the company’s new Instinct MI300X accelerator, which is targeted specifically at generative AI workloads. Generative AI is the technology that underpins OpenAI’s famed chatbot ChatGPT,"
     publishedDateTime: 2023-06-14T01:47:00Z
@@ -129,19 +129,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia Joins $1 Trillion Club, Fueled by AI’s Rise"
-    excerpt: "Here is what you need to know about the chip company and its rise to the elite trillion-dollar list."
-    publishedDateTime: 2023-06-13T20:24:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-joins-1-trillion-club-fueled-by-ais-rise-f515dd6e"
+  - title: "AI Crypto Tokens Lose Steam as Post-Nvidia Earnings Hype Wears Off"
+    excerpt: "Artificial intelligence (AI)-related tokens have lost as much as 25% of their value in June, as hype around the sector wore off after chip-maker"
+    publishedDateTime: 2023-06-14T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-tokens-lose-steam-as-post-nvidia-earnings-hype-wears-off-1032390187"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://images.wsj.net/im-790766/social"
-        width: 1280
-        height: 640
+      - url: "https://www.coindesk.com/resizer/eBRDq6blcXlVZ9o6b5PKJ20hi9c=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VJ7B7YWIIVFDBNYE4B3C5O4O2Q.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "AMD Unveils Advanced AI Chip To Compete With Nvidia In AI Market"
     excerpt: "Advanced Micro Devices (AMD), the Santa Clara-based semiconductor company, has introduced its latest artificial intelligence or AI"
@@ -166,6 +166,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI chip race heats up as AMD unveils rival to Nvidia-world’s most advanced accelerator for GAI"
+    excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with rival chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools. The semiconductor company,"
+    publishedDateTime: 2023-06-15T03:51:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 62
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/06/14/1600x900/AMD-AI--0_1686759502337_1686759560307.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AMD reveals new A.I. chip challenging Nvidia's dominance"
     excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday, June 13, gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp. The California-based AMD said its most-advanced graphics processing unit (GPU) for AI ..."
     publishedDateTime: 2023-06-14T09:41:00Z
@@ -181,22 +197,6 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/7c1f330a-757a-42bd-a5d2-ce768bc15a4b.jpg"
         width: 740
         height: 492
-        isCached: true
-  - title: "The Third Time Charm Of AMD’s Instinct GPU"
-    excerpt: "The great thing about the Cambrian explosion in compute that has been forced by the end of Dennard scaling of clock frequencies and Moore’s Law lowering"
-    publishedDateTime: 2023-06-14T05:43:00Z
-    webUrl: "https://www.nextplatform.com/2023/06/14/the-third-time-charm-of-amds-instinct-gpu/"
-    ampWebUrl: "https://www.nextplatform.com/2023/06/14/the-third-time-charm-of-amds-instinct-gpu/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/14/the-third-time-charm-of-amds-instinct-gpu/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/06/amd-mi300a-die-package-shot-updated.jpg"
-        width: 999
-        height: 731
         isCached: true
   - title: "AMD Introduces New Lineup of AI Processors, Aiming to Compete with Nvidia"
     excerpt: "AMD Instinct MI300 Series will include an accelerator that can speed processing for generative AI, similarly used by ChatGPT and other chatbots."
@@ -239,6 +239,17 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 54
+  - title: "AMD to ramp up AI chip production this year"
+    excerpt: "and a key performance measure for how well the chip will handle the large AI systems behind services similar to ChatGPT. \"There's no question that AI will be the key driver of silicon consumption for the foreseeable future,\" Su said. Su said customers will ..."
+    publishedDateTime: 2023-06-14T05:39:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
   - title: "AMD's AI chip challenge to Nvidia remains uphill fight"
     excerpt: "Advanced Micro Devices Inc gave new details about an artificial intelligence chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know - who plans to buy it."
     publishedDateTime: 2023-06-14T03:00:00Z
@@ -267,6 +278,20 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "AWS is considering AMD's new AI chips"
+    excerpt: "Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from Advanced Micro Devices, though it has not made a final decision, an AWS executive told Reuters."
+    publishedDateTime: 2023-06-14T19:47:00Z
+    webUrl: "https://www.itnews.com.au/news/aws-is-considering-amds-new-ai-chips-596915"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220802075518_aws-sign-summit.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "Nvidia's Lead in Generative AI Market Unchallenged Despite AMD's New AI Chip Launch: Analysts"
     excerpt: "Nvidia Corp (NASDAQ: NVDA) peers have struggled to gain traction in the generative AI chip war as the former grew in leaps and bounds."
     publishedDateTime: 2023-06-15T18:46:00Z
@@ -290,6 +315,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "AMD faces path dependency struggle as it challenges Nvidia with MI300X AI GPU"
+    excerpt: "Advanced Micro Devices Inc. (AMD) on June 13 revealed its most-advanced GPU for artificial intelligence (AI), the MI300X, trying to get a bigger bite of the pie of the GPU market that has been ..."
+    publishedDateTime: 2023-06-15T12:56:00Z
+    webUrl: "https://www.digitimes.com/news/a20230614VL207/commentary-ai-gpu-amd-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230614vl207_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Amazon Ponders AMD's AI Chips Adoption; Boosts Competition in Market Dominated by NVIDIA"
     excerpt: "Amazon Web Services (AWS) is contemplating incorporating Advanced Micro Devices (AMD)s latest artificial intelligence (AI) chips, potentially diversifying a market largely controlled by NVIDIA. The remarks were"
     publishedDateTime: 2023-06-15T07:00:00Z
@@ -304,30 +343,16 @@ related:
         width: 1024
         height: 644
         isCached: true
-  - title: "AMD unveils new A.I. chip to rival Nvidia"
-    excerpt: "AMD reveals the MI300X chip that supports up to 192GB of memory. Scott Nations still cautions against buying AMD shares at current price."
-    publishedDateTime: 2023-06-13T20:11:00Z
-    webUrl: "https://invezz.com/news/2023/06/13/amd-mi300x-ai-chip-to-rival-nvidia/"
+  - title: "Amazon’s cloud unit is considering AMD’s new AI chips"
+    excerpt: "Find out more about subscription packages here. AMAZON Web Services (AWS), the world’s largest cloud computing provider, is considering using new artificial intelligence (AI) chips from Advanced Micro Devices (AMD), though it has not made a final ..."
+    publishedDateTime: 2023-06-14T00:00:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/amazons-cloud-unit-considering-amds-new-ai-chips"
+    ampWebUrl: "https://www.businesstimes.com.sg/companies-markets/amazons-cloud-unit-considering-amds-new-ai-chips?amp"
+    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/companies-markets/amazons-cloud-unit-considering-amds-new-ai-chips?amp"
     type: article
     provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 39
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/06/krzysztof-hepner-60g-xu5-zfk-unsplash-min-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Why nVidia created the DGX GH200, the most powerful GPU on the planet"
-    excerpt: "When nVidia announced that it had stitched 256 Grace-Hopper superchips together to make the DGX GH200 at Computex in Taipei, the reasons behind it were all driven by one thing: the increasing demands of AI."
-    publishedDateTime: 2023-06-15T14:05:00Z
-    webUrl: "https://www.redsharknews.com/why-nvidia-created-the-most-powerful-gpu-on-the-planet"
-    ampWebUrl: "https://www.redsharknews.com/why-nvidia-created-the-most-powerful-gpu-on-the-planet?hs_amp=true"
-    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/why-nvidia-created-the-most-powerful-gpu-on-the-planet?hs_amp=true"
-    type: article
-    provider:
-      name: redsharknews.com
-      domain: redsharknews.com
+      name: Business Times
+      domain: businesstimes.com.sg
     quality: 39
   - title: "As AMD Seeks to Slash Nvidia's AI Lead, Here's What Traders Need to Know"
     excerpt: "AMD introduced the firm's Ryzen PRO 7040 Series Mobile processors. These processors bring advanced 'Zen 4' performance and a dedicated Ryzen AI engin"
@@ -343,6 +368,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amazon expresses interest in AMD's new AI chips"
+    excerpt: "To break Nvidia's dominance, AMD needs a big-ticket customer for its new AI chips. Amazon could benefit from the flexibility offered by AMD."
+    publishedDateTime: 2023-06-14T10:40:00Z
+    webUrl: "https://interestingengineering.com/innovation/amazon-buying-amd-new-ai-chips"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
   - title: "AMD Leaps As Chipmaker Takes On Nvidia In $150 Billion AI Market"
     excerpt: "\"We have a chip that is incredibly powerful and we believe will be a significant winner in the AI market,\" said AMD CEO Lisa Su."
     publishedDateTime: 2023-06-14T15:50:00Z

@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "‘We can’t turn back now’, Linda Burney digs in on Indigenous voice to parliament model"
-    excerpt: "Linda Burney and prominent supporters of an Indigenous voice to parliament are staring down calls to reset the Yes campaign or delay the referendum and reconciliation, with the Indigenous Australians Minister declaring Australia has come too far to turn back now."
-    publishedDateTime: 2023-06-13T19:32:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/we-cant-turn-back-now-linda-burney-digs-in-on-indigenous-voice-to-parliament-model/news-story/0d4a399a0ddb2b47b995ad8e7d6649c1"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
   - title: "No camp can’t afford to sit back as Indigenous voice to parliament support falters"
     excerpt: "This is because few No donors are prepared to be outed via mandatory disclosure of amounts over $15,000 and because the No campaign still has not gained tax deductibility for donations, even though Yes has had it since last October and the Prime Minister announced it for both sides months ago."
     publishedDateTime: 2023-06-14T23:30:00Z

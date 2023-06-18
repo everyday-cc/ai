@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-s
 webUrl: "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rackspace takes a FAIR approach to generative AI"
-    excerpt: "Rackspace offers new services to help organizations better understand, build and deploy generative AI workloads in public and private clouds."
-    publishedDateTime: 2023-06-13T20:59:00Z
-    webUrl: "https://venturebeat.com/ai/rackspace-takes-a-fair-approach-to-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-527941127-e1686608448258.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Serving Generative AI just got a lot easier with OctoML's OctoAI"
     excerpt: "Generative AI, because of its compute intensity, is especially hard to put into production. OctoML says it can streamline all of that with its years of optimization expertise."
     publishedDateTime: 2023-06-15T13:47:00Z

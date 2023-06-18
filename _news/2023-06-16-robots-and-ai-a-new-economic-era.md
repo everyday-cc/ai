@@ -9,7 +9,7 @@ ampWebUrl: "https://www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-e
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427/amp"
 type: article
 quality: 74
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots and AI: A new economic era"
-    excerpt: "When developed countries adopt robots and AI, it has an impact on trade with developing countries, leading to increased exports from developing to developed countries, particularly in sectors experiencing high levels of robotization."
-    publishedDateTime: 2023-06-13T20:56:00Z
-    webUrl: "https://www.thejakartapost.com/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
-    ampWebUrl: "https://www.thejakartapost.com/amp/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
-    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/opinion/2023/06/14/robots-and-ai-a-new-economic-era.html"
-    type: article
-    provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 54
   - title: "Robots and AI: A new economic era"
     excerpt: "But soon many articles and most — if not all — goods and services will be produced, operated and delivered by robots and AI. Robots and AI will change not only the way we work, but also the way we live."
     publishedDateTime: 2023-06-17T01:04:00Z

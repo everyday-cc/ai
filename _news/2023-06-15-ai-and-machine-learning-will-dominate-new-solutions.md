@@ -42,15 +42,6 @@ related:
         width: 1300
         height: 733
         isCached: true
-  - title: "Generative AI Ethics: Concerns and Solutions"
-    excerpt: "Generative AI ethics is a growing concern as this AI technology gains rapid adoption. Plus: tips for creating an AI ethics policy for your company. Generative AI is one of the most recent artificial intelligence developments, where AI models are trained to ..."
-    publishedDateTime: 2023-06-13T21:36:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-ethics/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 64
   - title: "Google’s new AI-powered search tools are not coming for anyone’s job"
     excerpt: "Google is adding new capabilities to its AI-powered search (aka SGE), but it's still a far cry from the usefulness of a standard search."
     publishedDateTime: 2023-06-17T00:42:00Z

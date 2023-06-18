@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Google Translate vs. ChatGPT: Which One Is the Best Language Translator?"
-excerpt: "We put ChatGPT, Bing AI, and Google Bard to the test, asking people who are fluent in seven, non-English languages to rate how AI chatbot results compare to responses from Google Translate."
-publishedDateTime: 2023-06-08T17:29:00Z
-originalUrl: "https://www.pcmag.com/news/google-translate-vs-chatgpt-which-one-is-the-best-language-translator"
-webUrl: "https://www.pcmag.com/news/google-translate-vs-chatgpt-which-one-is-the-best-language-translator"
+excerpt: "With the languages and AI models selected, we crafted some paragraphs in English that would reveal the limits of each service's translation capabilities. The first included two tricky ..."
+publishedDateTime: 2023-06-08T17:35:00Z
+originalUrl: "https://au.pcmag.com/ai/100375/google-translate-vs-chatgpt-which-one-is-the-best-language-translator"
+webUrl: "https://au.pcmag.com/ai/100375/google-translate-vs-chatgpt-which-one-is-the-best-language-translator"
 type: article
 
 provider:
@@ -20,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/07ilwlubto1pcrXyT9KY5l3-2.fit_lim.size_1200x630.v1685991836.jpg"
-    width: 1120
-    height: 630
+  - url: "https://sm.pcmag.com/t/pcmag_au/news/g/google-tra/google-translate-vs-chatgpt-which-one-is-the-best-language-t_uqch.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "a5+GH+rWR7Yu08vnWpOxBPbh8bTyIUW6oa1jNORRWYNLdVWjFceTY6QbkC3YBRlDJKO3LceB57WUf4sRnRy4tX4zPs8Ggw0BFjtFaKVJN0BMT/efRd7NH09/ry2dvyRbUwoHoAUtIAVgklkYxGgcTkJwfOpkIdCAsfmos74LRgmoGjdk4OFeNIed7ar/C/xRmwuUWRXlDIJ7mAck8GsPDvB9cKIKPHsgXWWdc7LPXbSNMEiLyqNwAkj9Y0Edqhvi7uzAKPgLWDjXVW2Ofp/5ejKzbaJm1AY0UjmmE+yEZ2kG9lNefsQNXmhiijQ3g+Pp0q+u/Gz4oTSIz2VaAtttRvhzcQRcuINaKdFwSJaybHYahTd8EQ8SdRgXjV926DIYWEmJcCv9qBNISGvkO9WvmDGl2mInknZ16WbDjFWxRN5MbGqHrVZxZxa3Tjy1+FhnfAGL9Ze3n0TMW7FcPHvPQofJAoWXMwo8J+Wt8iFQlb244R40quaIV+fwkRDjL0QeRmTseSRN6EqCOMifvgS03Q==;Zw2Vu5p/MDqZ/9djwiTH8g=="
+secured: "0NiojeGXRdlyVLS7XGg+PhnMZrbPatu3wDK0OAgrLjv+Bv9K8Xz7SkqoW7ihunLq0ZeFgzXcc6c90CICglhya+bIhhNve/+QsvKIAxfPzvGm1Neoy8Ekc5IDC70AjXvpNpaZ2dmqG773u/mkyvKxhMfu6nOOVRpfqm2uoBOBQSbfxtjXougcQ2VKw4x5pBHgQ/N8NZYxYwCTD0bdqs9XUHxtBlD9a3AB8vyPY9z/ho8ZvrYHbI/X/Y0mUWVvCCrkWSyZdFfyi9/chSe9RU16gmqKGo0HX+wc23QXSZtMQ8tyKdLnbPlZhhYprmaFbzYKme5bSQoCWLPNBdvHUwKpldqSaLcCzCENLFXPo99ErCE=;bvQXBRsXmNHNkvv9cp6MEA=="
 ---
 

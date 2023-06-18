@@ -2,6 +2,196 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-09-googles-generative-ai-platform-is-now-available-to-everyone.md",
+      "title": "Google's Generative AI Platform Is Now Available To Everyone",
+      "excerpt": "With the service becoming GA, enterprises and organizations could integrate the platform's capabilities with their applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6482b8837a0f4f82412c5c61/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/amp/",
+      "publishedDateTime": "2023-06-08T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-microsoft-is-letting-companies-build-their-own-ai-copilots.md",
+      "title": "Microsoft is letting companies build their own AI 'copilots'",
+      "excerpt": "Microsoft (MSFT), on Tuesday, announced a new service that will allow enterprises to build their own AI-powered apps. Unveiled at Microsoft's annual Build conference, the offering, known as Azure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/microsoft-giving-letting-companies-build-150003775.html",
+      "originalUrl": "https://www.aol.com/finance/microsoft-giving-letting-companies-build-150003775.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/7FwzaEN0YvUK_Xbntj0JqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/e34f91bf8aa03dff3cacc8549b0fe3ad",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-bytedance-tiktoks-chinese-parent-company-is-testing-an-ai-chatbot.md",
+      "title": "ByteDance, TikTok’s Chinese Parent Company, Is Testing an AI Chatbot",
+      "excerpt": "ByteDance is testing an artificial intelligence-powered chatbot among employees, the first official indication of the company’s push into the nascent field of generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6286069/bytedance-tiktok-artificial-intelligence-chatbot-china/",
+      "originalUrl": "https://time.com/6286069/bytedance-tiktok-artificial-intelligence-chatbot-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-deepmind-boss-says-human-level-ai-is-just-a-few-years-away.md",
+      "title": "DeepMind boss says human-level AI is just a few years away",
+      "excerpt": "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/deepmind-boss-says-human-level-115422614.html",
+      "originalUrl": "https://www.aol.com/news/deepmind-boss-says-human-level-115422614.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/383722a72aee24b2f4a7b7a17d5aeb64",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T21:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf.md",
       "title": "Apple Displaced As Top Holding By AI-Play Big Tech In Robot-Run Large-Cap ETF",
       "excerpt": "The company’s potential to leverage its AI capabilities into standard features within every iPhone, iPad, and MacBook, including object and person recognition tools, could position it as a significant player in the AI space. The intensifying AI battle ...",
@@ -58,8 +248,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?874728",
-          "width": 547,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?92257",
+          "width": 309,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -634,19 +824,19 @@
     {
       "path": "_news/2023-06-09-google-translate-vs-chatgpt-which-one-is-the-best-language-translator.md",
       "title": "Google Translate vs. ChatGPT: Which One Is the Best Language Translator?",
-      "excerpt": "We put ChatGPT, Bing AI, and Google Bard to the test, asking people who are fluent in seven, non-English languages to rate how AI chatbot results compare to responses from Google Translate.",
+      "excerpt": "With the languages and AI models selected, we crafted some paragraphs in English that would reveal the limits of each service's translation capabilities. The first included two tricky ...",
       "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-translate-vs-chatgpt-which-one-is-the-best-language-translator",
-      "originalUrl": "https://www.pcmag.com/news/google-translate-vs-chatgpt-which-one-is-the-best-language-translator",
+      "webUrl": "https://au.pcmag.com/ai/100375/google-translate-vs-chatgpt-which-one-is-the-best-language-translator",
+      "originalUrl": "https://au.pcmag.com/ai/100375/google-translate-vs-chatgpt-which-one-is-the-best-language-translator",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.pcmag.com/imagery/articles/07ilwlubto1pcrXyT9KY5l3-2.fit_lim.size_1200x630.v1685991836.jpg",
-          "width": 1120,
-          "height": 630,
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/g/google-tra/google-translate-vs-chatgpt-which-one-is-the-best-language-t_uqch.1200.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -656,7 +846,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T10:29:00-07:00",
+      "publishedDateTime": "2023-06-08T10:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -1024,188 +1214,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems.md",
-      "title": "Nvidia’s new AI “Superchip” combines CPU and GPU to train monster AI systems",
-      "excerpt": "Early last week at COMPUTEX, Nvidia announced that its new GH200  \"Superchip\"—a combination CPU and GPU specifically created for large-scale AI applications—has entered full production. It's a beast.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/gh200_grace_hopper_chip-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/nvidias-new-ai-superchip-combines-cpu-and-gpu-to-train-monster-ai-systems/amp/",
-      "publishedDateTime": "2023-06-08T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-sanchar-shakti.md",
-      "title": "The AI Revolution: How Machine Learning is Changing the Way We Live and Work : Sanchar Shakti",
-      "excerpt": "In the discussion like this we can talk on & on but raising concerns and suggesting solutions  are not going to work . We need a robust platform where these suggestions become our way of life that turns  our choices into our command says “Productivity Conultant & Founder of Sanchar Shakti” Kabeer Goswami.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
-      "originalUrl": "https://www.mid-day.com/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mid-day.com/images/images/2023/jun/Sanchar-Shakti-0806_d.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
-      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
-      "publishedDateTime": "2023-06-08T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-microsoft-is-a-leader-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
-      "title": "Microsoft is a Leader in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services",
-      "excerpt": "We are excited to announce that Microsoft is recognized as a Leader for the 4th year in a row in the Gartner Magic Quadrant for Cloud AI Developer Services and are especially proud to be placed furthest for our Completeness of Vision. \nThe post Microsoft is a Leader in the 2023 Gartner® Magic Quadrant™",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government.md",
-      "title": "Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence to accelerate AI adoption in government",
-      "excerpt": "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Chairman of The Executive Council of Dubai and Chairman of the Board of Trustees of the Dubai Future Foundation, t",
-      "sourceUrl": null,
-      "webUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890",
-      "originalUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.emirates247.com/polopoly_fs/1.712892.1686234760!/image/image.jpg",
-          "width": 2048,
-          "height": 1362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout",
-      "cdnAmpWebUrl": "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout",
-      "publishedDateTime": "2023-06-08T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Emirates247",
-        "domain": "emirates247.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

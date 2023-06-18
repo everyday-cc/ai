@@ -60,20 +60,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AI is Helping Paul McCartney Create the Final Beatles Song"
-    excerpt: "McCartney received the demo tape in 1994 from Lennon's widow, Yoko Ono, on a cassette marked \"For Paul.\" It was one of several songs Lennon had recorded shortly before he was murdered in 1980. According to the BBC, Lennon sat at a piano in his New York apartment at the Dakota and recorded the \"lo-fi and embryonic\" tracks onto a boombox."
-    publishedDateTime: 2023-06-13T20:22:00Z
-    webUrl: "https://www.cnet.com/tech/ai-is-helping-paul-mccartney-create-the-final-beatles-song/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/be3a0a8d84c167f55cb52c61098429f44691fc39/hub/2023/06/13/89e676cb-0e55-4c01-bf1d-01767af0c86e/gettyimages-1405277134.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Paul McCartney Uses AI to Create the Final Beatles Song"
     excerpt: "The long and winding road has connected The Beatles with artificial intelligence."
     publishedDateTime: 2023-06-14T19:42:00Z

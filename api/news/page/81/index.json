@@ -2,6 +2,160 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-04-27-robots-run-the-show-as-swiss-radio-tests-ai-voices-for-a-day.md",
+      "title": "Robots run the show as Swiss radio tests AI voices for a day",
+      "excerpt": "Listeners of an offbeat Swiss public radio station have been repeatedly given the message: Today’s programming is brought to you by Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2023/04/27/switzerland-radio-gpt-artificial-intelligence/eda963fe-e536-11ed-9696-8e874fd710b8_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/2023/04/27/switzerland-radio-gpt-artificial-intelligence/eda963fe-e536-11ed-9696-8e874fd710b8_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023.md",
+      "title": "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023",
+      "excerpt": "Udemy (Nasdaq: UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentuckytoday.com/news/business/chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023/article_44a37423-47c6-515d-bbf6-cd4c852d09d6.html",
+      "originalUrl": "https://www.kentuckytoday.com/news/business/chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023/article_44a37423-47c6-515d-bbf6-cd4c852d09d6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kentucky Today",
+        "domain": "kentuckytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-first-babies-conceived-using-playstation-controlled-robot-are-born.md",
+      "title": "First babies conceived using PlayStation-controlled robot are born",
+      "excerpt": "the student mechanical engineer who controlled the sperm-injecting device, told MIT Technology Review. The robot was developed by Overture Life, a company that’s working towards automating in ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/",
+      "originalUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-nextira-selected-by-aws-for-ansys-technology-partner-program-to-support-predictive-enterprise.md",
+      "title": "Nextira Selected by AWS for Ansys Technology Partner Program to Support Predictive Enterprise",
+      "excerpt": "Ansys Gateway is a solution for developers, designers and engineers who want to expand their Ansys simulation and computer-aided design or engineering (CAD/CAE) capability into the cloud. Using Ansys Gateway for design and modeling improves companies' ability to evolve into predictive enterprises by removing users' dependence on on-premise servers,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/27/9803380.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/27/9803380.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
+          "width": 550,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-the-risks-and-rewards-of-ai-powered-translation.md",
       "title": "The risks and rewards of AI-powered translation",
       "excerpt": "Free-to-use translation tools, and more recently generative AI platforms like ChatGPT, have brought security concerns to the fore around AI-powered translations in general. Many of us use language translation services in our day-to-day lives; it is ...",
@@ -1045,202 +1199,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-chinas-drivegpt-could-leave-companies-rushing-to-catch-up.md",
-      "title": "China’s DriveGPT could leave companies rushing to catch up",
-      "excerpt": "Beijing’s regulatory guidelines set a framework for companies to follow, but China’s self-driving industry has grown beyond this. TikTok’s owner ByteDance Ltd, along with startup Haomo Zhixing Technology, backed by domestic automaker Great Wall Motor Co, have established the country’s biggest computing centre for autonomous-driving infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/columns/chinas-drivegpt-could-leave-companies-rushing-to-catch-up-11682533135144.html",
-      "originalUrl": "https://www.livemint.com/opinion/columns/chinas-drivegpt-could-leave-companies-rushing-to-catch-up-11682533135144.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/04/26/600x338/AI_1682534525072_1682534531346.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/columns/chinas-drivegpt-could-leave-companies-rushing-to-catch-up/amp-11682533135144.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/chinas-drivegpt-could-leave-companies-rushing-to-catch-up/amp-11682533135144.html",
-      "publishedDateTime": "2023-04-26T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-heres-what-first-wave-of-ai-rules-from-congress-could-look-like.md",
-      "title": "Here's what first wave of AI rules from Congress could look like",
-      "excerpt": "A likely candidate for early congressional action to regulate AI is a bill passed in committee last year, which would put up guardrails against discriminatory outcomes in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/first-wave-ai-rules-congress-look-like",
-      "originalUrl": "https://www.foxnews.com/politics/first-wave-ai-rules-congress-look-like",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c928e5fe-c755-4e83-9dbf-542ea2239cfe/0c22fc9e-78fd-40df-b554-732cc6a0a77a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/first-wave-ai-rules-congress-look-like.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-wave-ai-rules-congress-look-like.amp",
-      "publishedDateTime": "2023-04-26T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-artificial-intelligence-ai-in-bfsi-market-latest-report-2023-to-2030.md",
-      "title": "Artificial Intelligence (AI) in BFSI Market LATEST REPORT 2023 to 2030",
-      "excerpt": "Artificial Intelligence (AI) in BFSI Market” Are a Collection of Information and Analysis Obtained From Diverse Sources",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-latest-report-2023-to-2030-2023-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-latest-report-2023-to-2030-2023-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building.md",
-      "title": "Databricks and Hugging Face integrate Apache Spark for faster AI model building",
-      "excerpt": "Databricks and Hugging Face integrate Apache Spark to more seamlessly load and transform data for AI model training and fine-tuning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/",
-      "originalUrl": "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/pexels-photo-577585.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/amp/",
-      "publishedDateTime": "2023-04-26T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

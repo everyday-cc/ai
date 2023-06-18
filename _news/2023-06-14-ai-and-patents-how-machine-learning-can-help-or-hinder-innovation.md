@@ -28,7 +28,7 @@ related:
   - title: "AI and patents: How machine learning can help or hinder innovation"
     excerpt: "One of the first examples was Lex Machina, software that uses machine learning to comb data sources and provide legal analytics. A Stanford university spinout, it was created by Lemley with George ..."
     publishedDateTime: 2023-06-15T01:50:00Z
-    webUrl: "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b?miRedirects=1"
+    webUrl: "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b"
     type: article
     provider:
       name: The Financial Times

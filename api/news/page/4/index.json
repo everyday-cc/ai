@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-15-radio-station-gets-part-time-ai-dj-based-on-its-midday-host.md",
+      "title": "Radio station gets part-time AI DJ based on its midday host",
+      "excerpt": "RadioGPT launched today, an AI-driven localized radio host system that combines OpenAI’s GPT-3 language model with AI voice tech.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/",
+      "originalUrl": "https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-899910422.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/amp/",
+      "publishedDateTime": "2023-06-14T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027.md",
+      "title": "Microsoft –AI Will Help Drive $100 Billion In Revenue By 2027",
+      "excerpt": "The latest of these tools, generative AI capabilities through Microsoft Azure OpenAI Service, can help government agencies improve efficiency, enhance productivity, and unlock new insights from their data. Many agencies require a higher level of security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648bd2abff1c29c9aeb1e996/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/",
+      "publishedDateTime": "2023-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-mechanical-turk-workers-are-using-ai-to-automate-being-human.md",
       "title": "Mechanical Turk workers are using AI to automate being human",
       "excerpt": "\"Turkers\" appear to be using AI to do tasks that were specifically intended to be done by humans because AI couldn't. Great job everybody!",
@@ -247,7 +350,7 @@
       "originalUrl": "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1149,109 +1252,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-octoml-debuts-self-optimizing-compute-services-for-generative-ai.md",
-      "title": "OctoML debuts self-optimizing compute services for generative AI",
-      "excerpt": "OctoML's new OctoAI self optimizing infrastructure aims to help organizations build and deploy generative AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-openshift-version-413-now-available-in-red-hat-openshift-on-ibm-cloud.md",
-      "title": "OpenShift version 4.13 now available in Red Hat OpenShift on IBM Cloud",
-      "excerpt": "We are excited to announce the availability of OpenShift version 4.13 for your clusters that are running in Red Hat OpenShift on IBM Cloud.\nThe post OpenShift version 4.13 now available in Red Hat OpenShift on IBM Cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/openshift-version-4-13-now-available-in-red-hat-openshift-on-ibm-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/openshift-version-4-13-now-available-in-red-hat-openshift-on-ibm-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/ee0d6256-c147-4628-a6bd-14ccb48d7e9d.lr_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T05:50:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

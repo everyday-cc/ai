@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-14-octoml-debuts-self-optimizing-compute-services-for-generative-ai.md",
+      "title": "OctoML debuts self-optimizing compute services for generative AI",
+      "excerpt": "OctoML's new OctoAI self optimizing infrastructure aims to help organizations build and deploy generative AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-openshift-version-413-now-available-in-red-hat-openshift-on-ibm-cloud.md",
+      "title": "OpenShift version 4.13 now available in Red Hat OpenShift on IBM Cloud",
+      "excerpt": "We are excited to announce the availability of OpenShift version 4.13 for your clusters that are running in Red Hat OpenShift on IBM Cloud.\nThe post OpenShift version 4.13 now available in Red Hat OpenShift on IBM Cloud appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/openshift-version-4-13-now-available-in-red-hat-openshift-on-ibm-cloud/",
+      "originalUrl": "https://www.ibm.com/blog/openshift-version-4-13-now-available-in-red-hat-openshift-on-ibm-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/ee0d6256-c147-4628-a6bd-14ccb48d7e9d.lr_2x1.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T05:50:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-10-things-in-tech-twitter-20-how-to-create-with-ai-and-reddit-employees-swag-warning.md",
       "title": "10 Things in Tech: Twitter 2.0, how to create with AI, and Reddit employees' swag warning",
       "excerpt": "Linda Yaccarino's Twitter 2.0 plan, how to create with AI, and Reddit employees' swag warning",
@@ -61,7 +164,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-generative-ai-will-unleash-e-commerces-next-big-bang/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -250,49 +353,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-14-amazons-cloud-unit-is-considering-amds-new-ai-chips.md",
-      "title": "Amazon's cloud unit is considering AMD's new AI chips",
-      "excerpt": "The remarks came during an AMD event where the chip company outlined its strategy for the AI market, which is dominated by rival Nvidia Corp",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/ODVkMDI4YTctNWQ1Yy00/1/usa-treasury-cloud-computing.jpeg?f=3%3A2",
-          "width": 834,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/amazons-cloud-unit-is-considering-amds-new-ai-chips-hxuulxq3?amp=1",
-      "publishedDateTime": "2023-06-14T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-14-magic-mushrooms-1-hearing-aids-medical-marvels-disrupting-healthcare.md",
       "title": "Magic Mushrooms, $1 Hearing Aids: Medical Marvels Disrupting Healthcare",
       "excerpt": "Magic mushrooms for depression. $1 hearing aids. Meds for 85 percent less. These are just a few of the advances these healthcare disruptors are engineering.",
@@ -396,6 +456,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-14-amds-new-chip-fails-to-impress-investors-its-still-an-ai-winner-analyst-says.md",
+      "title": "AMD’s New Chip Fails to Impress Investors. It’s Still an AI Winner, Analyst Says.",
+      "excerpt": "The chip maker's big product launch may have left investors feeling uninspired but it can still challenge Nvidia, according to one analyst.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3",
+      "originalUrl": "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-574599/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3",
+      "publishedDateTime": "2023-06-14T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief.md",
       "title": "AI discrimination is a bigger risk than human extinction – EU chief",
       "excerpt": "Commissioner says existential threat unlikely, but ‘guardrails’ needed for decision affecting livelihoods",
@@ -443,6 +546,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amds-new-ai-chip-wont-be-enough-to-knock-nvidia-off-its-throne.md",
+      "title": "AMD's new AI chip won't be enough to knock Nvidia off its throne",
+      "excerpt": "Nvidia (NVDA) is likely to remain the dominant artificial intelligence chip designer, despite fellow Club holding AMD's best challenge yet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/14/amd-new-ai-chip-not-enough-to-knock-nvidia-off-its-throne.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/14/amd-new-ai-chip-not-enough-to-knock-nvidia-off-its-throne.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 374,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107255927-1686678111044-gettyimages-1454311939-_8db9584_cfaef0d0-1157-4b88-8cf2-14e3c6b21865.jpeg?v=1686736801&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -498,7 +653,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -593,7 +748,7 @@
       "originalUrl": "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -771,6 +926,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight.md",
+      "title": "AMD Cloud-Native EPYC Bergamo, HPC Optimized Genoa-X CPUs And MI300 AI Accelerators Take Flight",
+      "excerpt": "Under Dr. Su’s leadership, the company has assembled a comprehensive suite of silicon solutions for the lucrative cloud data center, HPC and AI markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6488e5d20f339468b475c365/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 587,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/",
+      "publishedDateTime": "2023-06-13T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
       ]
     },
     {
@@ -1018,211 +1226,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds.md",
-      "title": "TikTok's new Script Generator tool uses AI to write ad scripts for you in seconds",
-      "excerpt": "TikTok's new Script Generator tool uses AI to generate ad scripts within seconds. All that the user has to do is select an industry and enter a product name and description to get a custom script for videos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
-      "originalUrl": "https://www.zdnet.com/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9dc660b29580f24121a2d9e8bb20f7cc3f4d8fb2/2023/06/13/d3bcd14b-3920-4145-98bc-c991499c26e4/gettyimages-1405560217-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
-      "publishedDateTime": "2023-06-13T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-frances-mistral-ai-raises-113-million-in-big-eu-startup-debut.md",
-      "title": "France’s Mistral AI Raises $113 Million in Big EU Startup Debut",
-      "excerpt": "Mistral AI, a new startup from former DeepMind and Meta Platforms Inc. researchers, has raised €105 million ($113 million) in an initial financing round to become “a new global player” in artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iprLPgQiE4Hk/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker.md",
-      "title": "How Forethought saves over 66% in costs for generative AI models using Amazon SageMaker",
-      "excerpt": "This post is co-written with Jad Chamoun, Director of Engineering at Forethought Technologies, Inc. and Salina Wu, Senior ML Engineer at Forethought Technologies, Inc. Forethought&nbsp;is a leading generative AI suite for customer service. At the core of its suite is the innovative SupportGPT™ technology",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/forethought-generative-ai-sagemaker.jpg",
-          "width": 1022,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:41:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amazon-experiments-with-using-ai-to-sum-up-product-reviews.md",
-      "title": "Amazon experiments with using AI to sum up product reviews",
-      "excerpt": "Amazon is experimenting with using artificial intelligence to sum up customer feedback about products on the site, with the potential to cut down on the time shoppers spend sifting through reviews before making a purchase.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/221025100312-amazon-online-shopping-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
-      "publishedDateTime": "2023-06-13T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
