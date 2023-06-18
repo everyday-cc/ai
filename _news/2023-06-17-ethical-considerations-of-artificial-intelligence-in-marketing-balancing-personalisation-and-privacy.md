@@ -80,6 +80,15 @@ related:
         width: 300
         height: 283
         isCached: true
+  - title: "Primer raises $69M for its AI-powered analytics tools"
+    excerpt: "Primer will use the capital to hire more employees and enhance its technology. San Francisco-based Primer provides analytics software that is used by government agencies and enterprises to scan large amounts of data for useful insights."
+    publishedDateTime: 2023-06-14T19:40:00Z
+    webUrl: "https://siliconangle.com/2023/06/14/primer-raises-69m-ai-powered-analytics-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "gNxAA85asCOXGirsh/RuYCKS4hEIY4xrFXqpsYsIMVhIQFw/SIfyGIacftHPKj+liEW4Qt6ACjJgLoFfatSZ0QQiqDXY6Kz+oRCI2LdxrcCOK88gptgJg1FI3MEObM0D73kgiAq15WHcXhgIZ5Eb30o6RtB543itNztkGxgmmYOKUP+ZAhrMjhcbxxCeAOhgWNk9TOTCNwkbR7t087038I9Axr38yeSsQZeQiUHsaV+cr9KlZXCp61wMszMlDY0YQ/7JITEwApQ+oo8dV0jedz7iYjn8JFBVIg/WQhRuT2bAZth+fdLo5ddgZEVsfSCKlLQ8V3ZbhKnGLC+rdSNVVhZC76J8sYkdQFOG+p0f0qHZs7VjFSd5SavOCml9kgb0qlG22tAccnVpEWXBdpBb3pePpFBaDBMCP2eckinHUn7/qBlEcZ2/Rxysxq7EjkC8S71bXWb3P6gHDgHQ9GJ9PsS3riAbDR7Fsp6MUuyUsENF5NkwfcKpnt7FubAlU4pTA5/+scbqtT/ucQVK4yBB9Q==;IqjhgB6fhB4TjzfCKFCMcQ=="
 ---

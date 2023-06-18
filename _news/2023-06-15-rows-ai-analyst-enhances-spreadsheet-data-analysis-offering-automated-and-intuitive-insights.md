@@ -79,6 +79,15 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 34
+  - title: "Primer raises $69M for its AI-powered analytics tools"
+    excerpt: "Primer will use the capital to hire more employees and enhance its technology. San Francisco-based Primer provides analytics software that is used by government agencies and enterprises to scan large amounts of data for useful insights."
+    publishedDateTime: 2023-06-14T19:40:00Z
+    webUrl: "https://siliconangle.com/2023/06/14/primer-raises-69m-ai-powered-analytics-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "8/eG0hkQvI42U2DHgLg9c4LIqNETH/FJf5PH1UVOxLoKUA0wTdpaig4IkmwQSXK97nQ7+qsWMrb3RDG6auAe0Ocx0B5Rtl3PtERXVrTqxOA6D2qfVNQCORGCi7qlBJGBL2ndJN3KR5wJ9fqtWhdmL9AjBwrI/8O6D+Bdh0F0uCv07h3muI7N8UCV82F0zNrPPL/K2uGA1ssD/JopTg6jh7r4KM1j8TSTB7BIJhd7VIqTnW9yc1OeybnUocuWzVvTPGdmYorU0YM8ZFZr/muZVNDwW8kbm5SMJJk41+uyNYBrb4/jvmbvSltxCZtYJetbl1HbbhQa7Uf6mZnEz3+sHpfw9OPlKUvamxvOf8ZxtB4=;LXUMO3cTWIYSCsOzU27SfQ=="
 ---

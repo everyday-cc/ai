@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Full AMD announcement: New chips and AI tech"
-    excerpt: "From cloud and enterprise data centres to 5G networks to AI, automotive, healthcare, PC's and so much more, AMD technology is truly everywhere and we're touching the lives of billions of people every day. Today, we're here to talk about our newest epic ..."
-    publishedDateTime: 2023-06-13T23:48:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/full-amd-announcement-new-chips-and-ai-tech.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 54
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/79724cb994733508a57bdd218e615dd2_M.jpg"
-        width: 375
-        height: 211
-        isCached: true
 
 secured: "EYAUembGAbaWY6CAc97EmPkZD0mzWRTAaYw27t5LdClOtv7O+YZ93lt+3mA9XlfYOrvu9qP6VEB3wRubOaxX1T9Ez4Pt4h5/mM2pPDBQ3FNSW6bmu9Z0PUseUlH9Irp7IBGPOPtR4QVQgY8v8JWr4Hzh/6qVZzpHLV6nyG86eX1ZAdLLj0cHRrdTym8yQWn2bPO5yBLHnxqQNzjSksVjSAB+kD45WQ1paLOedjP2jGlhYh2H00nIRxfvmmPIwCP2PttBsNjBoxHFYW050jGHeqM7L8iX+awB9NuJ0Byngq2QHZmJiEX8kzn4g5lWCHHdDAGOoP8LofUGQkgf461Pkg/hZQuzkHu/sulUnPFDsQ0=;jhBTM6edLHc9FG5aE2+tfg=="
 ---

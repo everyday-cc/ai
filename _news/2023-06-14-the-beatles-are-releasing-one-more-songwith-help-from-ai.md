@@ -69,34 +69,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
-  - title: "Artificial intelligence used to create a new Beatles album"
-    excerpt: "Artificial intelligence used to create a new Beatles album"
-    publishedDateTime: 2023-06-13T23:52:00Z
-    webUrl: "https://www.sbs.com.au/news/podcast-episode/artificial-intelligence-used-to-create-a-new-beatles-album/2aoixus5s"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 37
-    images:
-      - url: "https://www.sbs.com.au/_next/static/img/news/podcast-newsupdates-495060a.jpg"
-        width: 450
-        height: 450
-        isCached: true
-  - title: "Artificial intelligence used to create ‘last recording’ from Beatles"
-    excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used. We’ll send you a myFT Daily Digest email rounding up the latest Photo essay news every morning."
-    publishedDateTime: 2023-06-14T00:23:00Z
-    webUrl: "https://www.ft.com/content/eb3f7669-49d5-4a7e-afb6-fedc2d9c8665"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7df1f6d5-8283-45b0-8bfb-b21a1eb24f81.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "VOeXhPnTdPAguddhWxu8r5cmEa5aMzR6h393LC+swakUsTZ5vexxb9Ckuyvjne1gvbgHmXqqFK8dFRaOYyWTEX7AUOOvfO4Cs5uFgw+PlQ324DjZgudtIdBniCEtpxgAnBpAPDRArEhoO3IA9v8lhLRC58CGX+Bkl+HhMDPrfhzkI4ZObELspql4eeskbLf2sW+/D4aicz5p7FtL0XTjmyFMzszFmWG+YVChqz4aL0gMSYbeEK1j88WYS5yg8xjfZpIBdoReJ7+gFJNlLW7GMN25cdlp92MH8ZwV7BVmWQ43quvEcSD9TbJiQrE/0VSsJSmLOVc8N3ZCOa7IAhDapaZHqgfkkGf4XwOJQHGA3r1h3DbkZ0sNYAHx9Jv+jmipMVFU+1lQMxWlQQxduin4FjMd1ZWrUQr+JllcZTF9l+s9Sa55ONoGxQocG6uEdi1aSrl78VzDg0/VAYGZq4ko0rYy5uYaqlU2laQYeYIOW2lkjh9Ppe2gxZp6enmPVZIPe1o8WH2s1bm5e2kwASk4QQ==;END1ez44dLyn7Jv4gFuCxA=="
 ---

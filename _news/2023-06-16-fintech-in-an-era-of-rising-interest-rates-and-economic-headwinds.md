@@ -61,16 +61,16 @@ related:
   - title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
     excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
     publishedDateTime: 2023-06-15T00:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/268751"
+    webUrl: "https://www.ryt9.com/en/anpi/268769"
     type: article
     provider:
       name: RYT9
       domain: ryt9.com
     quality: 19
     images:
-      - url: "https://www.ryt9.com/img/files/20230615/iqce444019d68df3b22a6258e23cd120a1.jpg"
-        width: 800
-        height: 360
+      - url: "https://www.ryt9.com/img/files/20230615/iq0bcdd89128e4fef2b7a15c540eccde2a.jpg"
+        width: 565
+        height: 470
         isCached: true
 
 secured: "VaZusnLBwhm67hCg6q+drWjBHzbhojzhUj0uVEkLqJ1F3ZalhcdaY21BGwFS37pqr0jsoL1RhPmhr4MX9BPxbwFqOp3EbnIxaWYI17TqY3qrzPNRAo8rxEck0KiCs9t3tXc0pQ0zP7e8HFkid/gGAvRPa9qY5DPYHOWcbKCp1sPyik/QR2gZ9HHwyLy/16AaVXViMqoPTGDz8GpFaDX+YCd9K8RZeqTY5JVV4g3jQS+KCxd3jmMgU5upnfg2rkoJNZjywvAqqEVJ0aoq8NylctX3BWVXcjXXKDr2JbH83KmvgLVjb6/FhbWJzLSbnGmerEEbp8aoSLbujftUA158IK2+vYrtr77y5+ULIztIWLufc7n8X5pJtvwmyEk5Fz4Wrl6er3REY6BMZEGiYDAh4Ktu3m9sbkNNIRQmaJKf4M9erxGaAVlnXW4ndZBzRfrTsJ/5i179UFd2EVyTb20fixcsHVC+JIa/UfQGGVTWoLOmSV+0SC52IYhZ+2JEXYUa4YSjrb1cNMbuM9i+wDlLNQ==;gg5QNTm7HJioh3P3RczESQ=="

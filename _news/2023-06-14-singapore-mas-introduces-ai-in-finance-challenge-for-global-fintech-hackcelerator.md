@@ -53,16 +53,16 @@ related:
   - title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
     excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
     publishedDateTime: 2023-06-15T00:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/268751"
+    webUrl: "https://www.ryt9.com/en/anpi/268769"
     type: article
     provider:
       name: RYT9
       domain: ryt9.com
     quality: 19
     images:
-      - url: "https://www.ryt9.com/img/files/20230615/iqce444019d68df3b22a6258e23cd120a1.jpg"
-        width: 800
-        height: 360
+      - url: "https://www.ryt9.com/img/files/20230615/iq0bcdd89128e4fef2b7a15c540eccde2a.jpg"
+        width: 565
+        height: 470
         isCached: true
   - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
     excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."

@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-14-amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop.md",
+      "title": "AMD's Hardware AI Ryzen 'Phoenix' CPUs Set to Soar in Razer's Blade 14 Laptop",
+      "excerpt": "The chip maker is counting the iconic gaming ultraportable among its key design wins, ringing in the first-ever x86 processors with dedicated AI-accelerating silicon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop",
+      "originalUrl": "https://www.pcmag.com/news/amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03rpTfXU080tXpK8FhRFeGK-1.fit_lim.size_1200x630.v1686682147.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-applications-open-for-3rd-healthcare-robotics-startup-catalyst.md",
+      "title": "Applications open for 3rd Healthcare Robotics Startup Catalyst",
+      "excerpt": "The program provides healthcare startups with the opportunity to compete for a chance to join a world-class accelerator program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/applications-open-for-3rd-healthcare-robotics-startup-catalyst/",
+      "originalUrl": "https://www.therobotreport.com/applications-open-for-3rd-healthcare-robotics-startup-catalyst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/andromeda-robotics-at-robotics-summit.jpg",
+          "width": 775,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms.md",
+      "title": "AI And Retail: Consumer Adoption On The Rise, Yet Uncertainty Looms",
+      "excerpt": "AI technology is redefining the retail industry - from curated tailored promotions and deals to direct product purchase reminders and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64889ccacdfe7d759fb12f50/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/amp/",
+      "publishedDateTime": "2023-06-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-octoml-debuts-self-optimizing-compute-services-for-generative-ai.md",
       "title": "OctoML debuts self-optimizing compute services for generative AI",
       "excerpt": "OctoML's new OctoAI self optimizing infrastructure aims to help organizations build and deploy generative AI applications.",
@@ -311,48 +457,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-14-month-old-ai-start-up-nets-105m-in-funding.md",
-      "title": "Month-old AI start-up nets €105M in funding",
-      "excerpt": "An AI start-up founded by a trio of former Meta Platforms and Google researchers four weeks ago raised €105 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/month-old-ai-start-up-nets-e105m-in-funding/",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/month-old-ai-start-up-nets-e105m-in-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2018/10/MWL_Euros_cash_buy-e1558434523944.jpg",
-          "width": 650,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/month-old-ai-start-up-nets-e105m-in-funding/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/month-old-ai-start-up-nets-e105m-in-funding/amp/",
-      "publishedDateTime": "2023-06-14T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-14-magic-mushrooms-1-hearing-aids-medical-marvels-disrupting-healthcare.md",
       "title": "Magic Mushrooms, $1 Hearing Aids: Medical Marvels Disrupting Healthcare",
       "excerpt": "Magic mushrooms for depression. $1 hearing aids. Meds for 85 percent less. These are just a few of the advances these healthcare disruptors are engineering.",
@@ -464,7 +568,7 @@
       "originalUrl": "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -507,7 +611,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -558,7 +662,7 @@
       "originalUrl": "https://www.cnbc.com/2023/06/14/amd-new-ai-chip-not-enough-to-knock-nvidia-off-its-throne.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 374,
+      "heat": 354,
       "tags": null,
       "images": [
         {
@@ -645,6 +749,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-14-ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding.md",
+      "title": "AI startup by ex-Meta and Google researchers raises $113M in seed funding",
+      "excerpt": "With no product at hand, the company is on a hiring spree and on the lookout for researchers, software engineers and product developers in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding",
+      "originalUrl": "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/fd1be72b-f6c8-4d53-97a6-d2228976568a.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding/amp",
+      "publishedDateTime": "2023-06-14T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music.md",
       "title": "AI Creates ‘Final Beatles Song’: What Does It Mean For The Future Of Music?",
       "excerpt": "Explore how AI is revolutionizing the music industry, from creating original songs to altering how we discover and listen to music & even posing questions about copyright",
@@ -653,7 +800,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1071,161 +1218,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise.md",
-      "title": "AI Everywhere: Salesforce Unveils Its Vision Of The AI-First Enterprise",
-      "excerpt": "All of this is part of a massive vision Salesforce is unveiling that deeply integrates generative AI into almost everything a company does, from sales to service to",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6488f2ccaa9dbc12a1b12f50/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/",
-      "publishedDateTime": "2023-06-13T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market.md",
-      "title": "AMD Preps GPU to Challenge Nvidia's Grip on the Generative AI Market",
-      "excerpt": "The AMD Instinct MI300X supports up to 192GB of HBM3 memory, and it's designed to train large language models that power programs such as ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market",
-      "originalUrl": "https://www.pcmag.com/news/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 344,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05QRwD3jur9IBN1rQ1rDcNw-1.fit_lim.size_1200x630.v1686688086.png",
-          "width": 1147,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator.md",
-      "title": "AMD unveils MI300x AI chip as 'generative AI accelerator'",
-      "excerpt": "To be able to run an entire 40-billion parameter model in memory, said Lisa Su, actually reduces the number of GPUs you need.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
-      "originalUrl": "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/09a61156c2e512b3889a7a43ae434e45b6622c57/2023/06/13/840d775b-68f5-4132-b4c2-96dd75f3de48/amd-mi300x-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
-      "publishedDateTime": "2023-06-13T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

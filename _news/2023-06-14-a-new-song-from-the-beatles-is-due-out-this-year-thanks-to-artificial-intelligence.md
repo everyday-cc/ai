@@ -69,34 +69,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
-  - title: "Artificial intelligence used to create a new Beatles album"
-    excerpt: "Artificial intelligence used to create a new Beatles album"
-    publishedDateTime: 2023-06-13T23:52:00Z
-    webUrl: "https://www.sbs.com.au/news/podcast-episode/artificial-intelligence-used-to-create-a-new-beatles-album/2aoixus5s"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 37
-    images:
-      - url: "https://www.sbs.com.au/_next/static/img/news/podcast-newsupdates-495060a.jpg"
-        width: 450
-        height: 450
-        isCached: true
-  - title: "Artificial intelligence used to create ‘last recording’ from Beatles"
-    excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used. We’ll send you a myFT Daily Digest email rounding up the latest Photo essay news every morning."
-    publishedDateTime: 2023-06-14T00:23:00Z
-    webUrl: "https://www.ft.com/content/eb3f7669-49d5-4a7e-afb6-fedc2d9c8665"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7df1f6d5-8283-45b0-8bfb-b21a1eb24f81.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "EH1+J2l35WzCOcCS3GcPpEOSYfG3CZe8Issf6niA3JQ8DhA1xW6fbxhP7qWeeCQ6D0otfSNQft9srvql+zr6A+CRjbIUAWCfGoKfdz+S6RenX+I3JVrKTerfC4AjP99/6mILBmozHf2tDKiOKBY/oA5FgUP7X+epimcARenBJzKNv0hEyKj9S7p/iKkjWxm5M6od3enrNCd7ApmkYya0rRjfe/g4qdpMd7y8K23AwjAPI9CvbnOg1muLIo+rTK5KKBH8ixqi9vNqN0/JNNbzYKSnJEqV19voV5OgGGGh4AnnxKRV4NvE8nUjuSQtSjMvQA6o7wo4mYu2QAFdaNOJ3a0D9pyoIaKjkWjWoX1jt9ga5/LxUEspt3q5lYncac0TaFaxwiHP/ViltJ6PB2tmkKQz5HFdOJKwHJ7l2mb0/6PhX8gpW4hthZGZ6Y/s1oXm0nqZs8ZGTAAvwzUBwS/5XpfTXbEz4jHKNRsf3ILSazOCc9Wfvkzd/xEs5IsK3VKw+6c4627LEYCNgLTRIoBqEA==;khUTaS4S/WoGF2heKKjUOQ=="
 ---

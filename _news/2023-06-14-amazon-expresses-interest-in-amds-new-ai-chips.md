@@ -33,22 +33,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AMD CEO Sees $150 Billion Future In AI, New Chip To Take On Nvidia"
-    excerpt: "AMD's new GPU, the MI300, is specifically designed for large language models such as GPT-4. The company will rollout MI300 to customers in the third quarter, with full production planned end of year."
-    publishedDateTime: 2023-06-13T23:09:00Z
-    webUrl: "https://www.benzinga.com/news/large-cap/23/06/32846752/amd-ceo-sees-150-billion-future-in-ai-new-chip-to-take-on-nvidia"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32846752"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32846752"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/06/13/shutterstock_1954818265.jpg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "AMD reveals details about AI chip that can take on leader Nvidia"
     excerpt: "Su discussed the chip’s capabilities during a keynote presentation in San Francisco, where she showcased an AI system on the MI300X chip writing a poem about the city. “The more memory that you have, the larger the set of models” the chip can handle ..."
     publishedDateTime: 2023-06-14T02:23:00Z
@@ -351,17 +335,6 @@ related:
         width: 1024
         height: 644
         isCached: true
-  - title: "Amazon’s cloud unit is considering AMD’s new AI chips"
-    excerpt: "Find out more about subscription packages here. AMAZON Web Services (AWS), the world’s largest cloud computing provider, is considering using new artificial intelligence (AI) chips from Advanced Micro Devices (AMD), though it has not made a final ..."
-    publishedDateTime: 2023-06-14T00:00:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/amazons-cloud-unit-considering-amds-new-ai-chips"
-    ampWebUrl: "https://www.businesstimes.com.sg/companies-markets/amazons-cloud-unit-considering-amds-new-ai-chips?amp"
-    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/companies-markets/amazons-cloud-unit-considering-amds-new-ai-chips?amp"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 39
   - title: "As AMD Seeks to Slash Nvidia's AI Lead, Here's What Traders Need to Know"
     excerpt: "AMD introduced the firm's Ryzen PRO 7040 Series Mobile processors. These processors bring advanced 'Zen 4' performance and a dedicated Ryzen AI engin"
     publishedDateTime: 2023-06-14T14:19:00Z

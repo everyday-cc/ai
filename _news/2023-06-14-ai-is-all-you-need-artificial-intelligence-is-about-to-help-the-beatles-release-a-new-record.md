@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Paul McCartney reveals AI was used to create the 'last Beatles record'"
-    excerpt: "McCartney revealed that what he called \"the last Beatles record\" is on its way, adding that it was created with the help of AI. \"It was a demo that John had that we worked on,\" he"
-    publishedDateTime: 2023-06-13T23:08:00Z
-    webUrl: "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com"
-    ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489"
+  - title: "New Beatles song to bring John Lennon’s voice back, with a little help from AI"
+    excerpt: "Sir Paul McCartney explained to the BBC that an AI-driven process helped isolate John's vocals from an old tape for a last Beatles album."
+    publishedDateTime: 2023-06-14T15:30:00Z
+    webUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
+      name: Popular Science
+      domain: popsci.com
+    quality: 53
     images:
-      - url: "https://s.abcnews.com/images/GMA/mccartney-1-ap-er-230613_1686693220455_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.popsci.com/uploads/2023/06/14/john-lennon-ai-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "The Beatles are releasing their ‘last’ record. AI helped make it possible"
     excerpt: "Paul McCartney says artificial intelligence has been used to extract John Lennon’s voice from an old demo to create “the last Beatles record,” decades after the band broke up."

@@ -2,6 +2,202 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-05-24-red-hat-extends-openshift-for-the-generative-ai-era.md",
+      "title": "Red Hat extends OpenShift for the generative AI era",
+      "excerpt": "IBM's Red Hat business unit announces the expansion of its AI capabilities with the new Red Hat OpenShift AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/",
+      "originalUrl": "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat-e1684880569131.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/",
+      "publishedDateTime": "2023-05-23T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-ai-now-has-a-key-to-spotifys-songwriting-fortress.md",
+      "title": "AI Now Has a Key to Spotify’s Songwriting Fortress",
+      "excerpt": "Overnight on Wall Street is morning in Europe. Bloomberg Daybreak Europe, anchored live from London, tracks breaking news in Europe and around the world. Markets never sleep, and neither does Bloomberg News. Monitor your investments 24 hours a day, around the clock from around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-05-24/ai-and-music-software-now-has-a-key-to-spotify-s-songwriting-fortress",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-05-24/ai-and-music-software-now-has-a-key-to-spotify-s-songwriting-fortress",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isRoo_2ChE8o/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-uber-partners-with-alphabet-over-self-driving-taxis.md",
+      "title": "Uber Partners With Alphabet Over Self-Driving Taxis",
+      "excerpt": "Learn More To keep dreaming its self-driving dream, Uber is entering into a new relationship with an old adversary. Uber and Waymo, the autonomous driving... For more crisp and insightful business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/05/23/uber-partners-with-alphabet-over-self-driving-taxi/",
+      "originalUrl": "https://www.fool.com/investing/2023/05/23/uber-partners-with-alphabet-over-self-driving-taxi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search.md",
+      "title": "Google to experiment with ads that appear in its AI chatbot in Search",
+      "excerpt": "Google detailed its plans for running Search and Shopping ads inside its conversational AI experience in Search, via the recently announced Search Generative Experience (SGE) in the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/",
+      "originalUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Screenshot-2023-05-23-at-12.41.47-PM.jpg?resize=1200,676",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/",
+      "publishedDateTime": "2023-05-23T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-metas-open-source-speech-ai-recognizes-over-4000-spoken-languages.md",
       "title": "Meta’s open-source speech AI recognizes over 4,000 spoken languages",
       "excerpt": "Speech recognition and text-to-speech models typically require training on thousands of hours of audio with accompanying transcription labels. (Labels are crucial to machine learning, allowing the algorithms to correctly categorize and “understand” the ...",
@@ -997,177 +1193,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ai-optimism-how-embracing-artificial-intelligence-is-getting-workers-ahead.md",
-      "title": "AI optimism: How embracing artificial intelligence is getting workers ahead",
-      "excerpt": "The idea of AI in the workplace may be unnerving – yet far more workers are excited about the technology than it may seem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/worklife/article/20230522-ai-optimism-how-embracing-artificial-intelligence-is-getting-workers-ahead",
-      "originalUrl": "https://www.bbc.com/worklife/article/20230522-ai-optimism-how-embracing-artificial-intelligence-is-getting-workers-ahead",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0fprh8l.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at-the-bottom-of-the-pyramid-news-journalcom.md",
-      "title": "AI-First FinTech Platform Line expands to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid | | news-journal.com",
-      "excerpt": "To learn more about Line, please visit https://useline.com. About Line Financial Line is a profitable AI-First fintech platform that accurately risk ranks the bottom 80% of the US working ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at/article_b3cc3bc1-78fd-565d-bf2f-7b5410f0ece9.html",
-      "originalUrl": "https://www.news-journal.com/ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at/article_b3cc3bc1-78fd-565d-bf2f-7b5410f0ece9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-intel-announces-falcon-shores-its-ai-chip-for-2025.md",
-      "title": "Intel announces Falcon Shores, its AI chip for 2025",
-      "excerpt": "Intel has revealed early details about its next-gen artificial intelligence (AI) chip. Called Falcon Shores, this chip will reportedly boast 288GB of high bandwidth memory (HMB3) and support 8-bit floating-point computation. The company plans to introduce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html",
-      "originalUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/12/AH-Intel-logo-MWC-2018-2-New.jpg",
-          "width": 1918,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp",
-      "publishedDateTime": "2023-05-23T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-robotics-coding-are-key-for-kids-at-this-business.md",
-      "title": "Robotics, coding are key for kids at this business",
-      "excerpt": "Zebra offers over 25 courses in robotics, artificial intelligence, coding, electronics and technology to kids in grades 1 through 12. What sets Zebra Robotics apart from other programs in the area?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wral.com/story/robotics-coding-are-key-for-kids-at-this-business/20867751/",
-      "originalUrl": "https://www.wral.com/story/robotics-coding-are-key-for-kids-at-this-business/20867751/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wwwcache.wral.com/asset/lifestyles/family/2023/05/18/20867753/Zebra_Competition-DMID1-5yy50wqwd-640x480.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wral.com/amp/20867751/",
-      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20867751/",
-      "publishedDateTime": "2023-05-23T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL",
-        "domain": "wral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
