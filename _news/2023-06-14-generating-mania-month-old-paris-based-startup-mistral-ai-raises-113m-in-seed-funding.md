@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "France’s Mistral AI Raises $113 Million in Big EU Startup Debut"
-    excerpt: "Mistral AI, a new startup from former DeepMind and Meta Platforms Inc. researchers, has raised €105 million ($113 million) in an initial financing round to become “a new global player” in artificial intelligence,"
-    publishedDateTime: 2023-06-13T18:41:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iprLPgQiE4Hk/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI Startup By Ex-Meta And Google Researchers Raises $113M In Seed Funding"
     excerpt: "The artificial intelligence (AI) firm from Paris facilitate the release of the company’s first set of models for text-based generative AI."
     publishedDateTime: 2023-06-14T14:52:00Z

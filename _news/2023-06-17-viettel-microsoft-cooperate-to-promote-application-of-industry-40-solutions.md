@@ -32,15 +32,6 @@ related:
     quality: 54
   - title: "Microsoft adds AI capabilities, enhances translation features to Skype"
     excerpt: "In the latest update to Skype, Microsoft has incorporated AI capabilities and enhanced translation features into the platform. The updated version (8.99.76.102 for Insiders) of Skype includes several new features as well as the usual reliability fixes."
-    publishedDateTime: 2023-06-13T18:15:00Z
-    webUrl: "https://telanganatoday.com/microsoft-adds-ai-capabilities-enhances-translation-features-to-skype"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 36
-  - title: "Microsoft adds AI capabilities, enhances translation features to Skype"
-    excerpt: "In the latest update to Skype, Microsoft has incorporated AI capabilities and enhanced translation features into the platform. The updated version (8.99.76.102 for Insiders) of Skype includes several new features as well as the usual reliability fixes."
     publishedDateTime: 2023-06-15T08:37:00Z
     webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4086912.html"
     type: article

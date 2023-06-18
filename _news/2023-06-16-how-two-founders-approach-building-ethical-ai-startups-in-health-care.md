@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "RAISE-Health addresses ethical and safety issues in AI innovation"
+    excerpt: "Responding to rapid advances in artificial intelligence and the urgent ... Both awareness of AI and skepticism about its use in health care have skyrocketed in the last 12 months."
+    publishedDateTime: 2023-06-15T06:56:00Z
+    webUrl: "https://www.news-medical.net/news/20230615/Addressing-ethical-and-safety-issues-in-AI-innovation.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 56
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "How artificial intelligence can expand the borders of healthcare"
     excerpt: "Artificial intelligence (AI) has taken the healthcare industry by storm. While many look to implement AI to create efficiencies, it is important to approach AI in a larger context to truly understand its long-term implications."
     publishedDateTime: 2023-06-14T10:09:00Z
@@ -71,15 +85,6 @@ related:
         width: 611
         height: 456
         isCached: true
-  - title: "AMA delegates call for more oversight of AI in health care"
-    excerpt: "Critics deride Cook County Health as it spends millions creating its own medical research department and investigates the nonprofit managing its clinical trials. AMA House of Delegates will discuss and potentially vote on a wide range of policy proposals at the event in Chicago."
-    publishedDateTime: 2023-06-13T18:51:00Z
-    webUrl: "https://www.chicagobusiness.com/health-care/ai-healthcare-needs-more-oversight-ama-delegates-say"
-    type: article
-    provider:
-      name: Crain's Chicago Business
-      domain: chicagobusiness.com
-    quality: 19
 
 secured: "ny2wUj4Y/LapkImdMi3j8MeU2baiE9+bdy9XJ/iI8Ow/yXHy7+xum85b5fnb3QS+iyxFXraoOS7As4gQKhkfUupXr3ugJQ+BipnIsZNFwHhcY8+V6Qxe4GWEzNoR14T6JK5DVyvHKaCYww+L/o0tqLL4lO/h9xl30tVbGXG79vn7rGEP8lT4nOHVIbhAwRVHJaJRAGpcsTp7bl9wcrN21ESDPOkxiYtcfPtDf+UeXQri16ImSMSziFquDcp1qwyUbopa6mYOXnfPJKkBAGUp5zwplqbF44x8C4DO82y3pGC8IbsBUa2N3gLv9xIGPZwfvuzQEP65EEGMJ5VsWJ1/elr5VV/7mQ0EHHq/TGP3Gp4nOohrCGx6+f5KaKAsfphrBzlSMNiPCQNUxONXR0GFv9QpuOb/FYeSpwGOn0ns/hU0v/3SqndN8SoVOBsVjcfgj2yQk0XmjPunDynm7PoH0ZlyumjxVYQkEITHG+9QL8KsE+2OOC0ZuxRO9u9H3uS5YNtxrlij/0J2WUJZcdOR4A==;rr+95pdEF7oCCJerYNvK5Q=="
 ---

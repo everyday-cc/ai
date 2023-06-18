@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-thre
 webUrl: "https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-three-considerations-for-attorneys-using-generative-ai"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,63 @@ images:
     width: 1920
     height: 740
     isCached: true
+
+related:
+  - title: "Elevating customer experience: The rise of generative AI and conversational data analytics"
+    excerpt: "As the digital-first business landscape becomes increasingly complex and fast-paced, generative AI is becoming an indispensable tool."
+    publishedDateTime: 2023-06-15T23:00:00Z
+    webUrl: "https://venturebeat.com/ai/the-future-of-personalization-how-generative-ai-is-elevating-customer-experiences/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/7.-Gen-AI-for-dynamic-offerings_FINAL_Mesa-de-trabajo-1-copia-4.jpg?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Embodied intelligence: Robotics and AI as the decathlon of engineering sciences"
+    excerpt: "Robots need a physical body combined with artificial intelligence – in other words, “embodied intelligence”. - The robot of the future is adaptable and capable of learning. - Catching balls, picking peppers, balancing a tray: specific tasks are ..."
+    publishedDateTime: 2023-06-14T12:44:00Z
+    webUrl: "https://idw-online.de/de/news816023"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 45
+  - title: "Ethical considerations of artificial intelligence in marketing: Balancing personalisation and privacy"
+    excerpt: "Artificial Intelligence (AI) has revolutionized marketing by decoding complex customer data and driving hyper-personalization. However, as we wield this powerful tool, it’s crucial to balance personalization and privacy – a critical ethical consideration in"
+    publishedDateTime: 2023-06-17T13:03:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ethical-considerations-of-artificial-intelligence-in-marketing-balancing-personalisation-and-privacy/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 36
+  - title: "BBVA uses AI and analytics services from AWS"
+    excerpt: "BBVA invests in Amazon Web Services cloud platforms to help transform itself into an organisation driven by AI and data."
+    publishedDateTime: 2023-06-16T07:59:00Z
+    webUrl: "https://www.computerweekly.com/news/366541809/BBVA-uses-AI-and-analytics-services-from-AWS"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 34
+  - title: "Rows’ AI Analyst Enhances Spreadsheet Data Analysis, Offering Automated and Intuitive Insights"
+    excerpt: "Rows, the next-generation spreadsheet for businesses, has launched Rows AI Analyst, its latest feature. The new tool will"
+    publishedDateTime: 2023-06-14T17:36:00Z
+    webUrl: "https://www.datanami.com/this-just-in/rows-ai-analyst-enhances-spreadsheet-data-analysis-offering-automated-and-intuitive-insights/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 25
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/ai_rows-300x283.png"
+        width: 300
+        height: 283
+        isCached: true
 
 secured: "PtXaKMIWlixhO3CAnsk8Q35SNQhyY4+oMsSil+xl3iUAwRFcXTTDBgY5ThhaAyLrD0o+Pp7AWJjZjkAkPEcNtXABKG8Y6WU0phiFFcdC4/gwME3bZMSCPWQ3N76WuWe21AEizCc07bR2FkSQ67dx/Y9QbJK3Mub0T/YBnYwVS7pTdy3OXpal0XRrd5en0pAg8K/NHxNsNphGRElvSSIdGnIRdidkZeHox6VvxIdHCo1WpUBq6VQYSUClN/AZ1zXql7M6zJTxJJcU5zOPDFypDZdpsYsLWvRW+G/30bmHUOkNSddoOtUWV6oxW5B87af5N7cB0TwQvOREIpLOF0cHTFDyG3LaBfTAr+rXE3L49mjXjIMkO+IT0ldeeYsSyyKDMn/NRen+wPnZdfk1YeTM6wXroFPscbCmH8Tmr9t4QD1yFgfDIR0YTVrmXcXpnRF6JflsRBREa/SthOYRFu2Eq2fuMFkHRp8r7XG5looe09w7/eDcSHLEup2Co59INQNULzKPr/6gxtGidcRgjGiEmA==;rLA5dfGASy2b68fOrZqKlA=="
 ---

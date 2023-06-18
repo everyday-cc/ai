@@ -40,15 +40,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Paul McCartney Says New Beatles Song Finished With Help From Artificial Intelligence"
-    excerpt: "A new song from The Beatles, which broke up in 1969, has been finished thanks to help from artificial intelligence technology, according to Paul McCartney."
-    publishedDateTime: 2023-06-13T18:26:00Z
-    webUrl: "https://www.forbes.com/sites/mattnovak/2023/06/13/paul-mccartney-says-new-beatles-song-finished-with-help-from-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
   - title: "The Beatles are releasing their ‘last’ record. AI helped make it possible"
     excerpt: "Paul McCartney says artificial intelligence has been used to extract John Lennon’s voice from an old demo to create “the last Beatles record,” decades after the band broke up."
     publishedDateTime: 2023-06-14T03:34:00Z
@@ -77,15 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Paul McCartney says AI helped him finish one last Beatles song – here’s what I think is coming"
-    excerpt: "\"When we came to make what will be the last Beatles record… We were able to get John's voice through AI.\" Ahead of his exhibition at @NPGLondon of Beatles photos, Sir Paul McCartney spoke to @Marthakearney and revealed that a new record will be released this year. #R4Today"
-    publishedDateTime: 2023-06-13T17:38:00Z
-    webUrl: "https://bgr.com/entertainment/paul-mccartney-says-ai-helped-him-finish-one-last-beatles-song-heres-what-i-think-is-coming/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 5
 
 secured: "BlHQKwch1T7wqNQ1/tya7OMjo3VUS4FZTh3ooI4KgrOFAT6OmQjjcu5w0K6C3dvKxscNXRef1Q14R0+wQDT4DOHeSZRKQBKD6SCzx+xfN9Q2CjQsPVyTUu93yViBv1f583MjfLCpqprRgqtpddO0Sri4MvfT+O0IeoMAVsd/iEXYVMoShHVSlC80Hjw51W0/T9gZpKrEZ0m+jy7NVU1p9WftZ4DUAH1QKSJOytzN8e4/1xOFtcNWNH/ztR+lYopVNmatEEMFHoYJHWUEm3rFMq1PCJUzCMoqRO+uuzcj25O8KnP9JuKRzumRoPrVYnt3G8D4xKmJwN14Fe894AHaJoJXF3gwJHuMmioMz/gBbco=;tiGYBXRO6STbeGcMlwH/yg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/culture/story/paul-mccartney-reve
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489"
 type: article
 quality: 57
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Paul McCartney Says New Beatles Song Finished With Help From Artificial Intelligence"
-    excerpt: "A new song from The Beatles, which broke up in 1969, has been finished thanks to help from artificial intelligence technology, according to Paul McCartney."
-    publishedDateTime: 2023-06-13T18:26:00Z
-    webUrl: "https://www.forbes.com/sites/mattnovak/2023/06/13/paul-mccartney-says-new-beatles-song-finished-with-help-from-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
   - title: "AI is all you need: Artificial intelligence is about to help the Beatles release a new record"
     excerpt: "The singer-songwriter, who’s one of two Beatles still alive along with Ringo Starr, told the BBC that new technology has allowed him and his production team to “extricate” the voice of John Lennon (pictured) – the outspoken Beatle who was gunned down in New York City in 1980."
     publishedDateTime: 2023-06-14T02:33:00Z
@@ -77,15 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Paul McCartney says AI helped him finish one last Beatles song – here’s what I think is coming"
-    excerpt: "\"When we came to make what will be the last Beatles record… We were able to get John's voice through AI.\" Ahead of his exhibition at @NPGLondon of Beatles photos, Sir Paul McCartney spoke to @Marthakearney and revealed that a new record will be released this year. #R4Today"
-    publishedDateTime: 2023-06-13T17:38:00Z
-    webUrl: "https://bgr.com/entertainment/paul-mccartney-says-ai-helped-him-finish-one-last-beatles-song-heres-what-i-think-is-coming/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 5
 
 secured: "jrnfKRox5xcrZWGczW2fJg0PG8sbr58BJEIl45G/H3W8MrQoGw1/IGu90ommio7uAvCMGLmA+4y5Dc7+ZU725MY7/XeFFKbWx7wsrq+yAh7Rp7LnTLZIBAhGGJQGLRprHcRubjTqWuuPyhXUv7OecRXAIsFIc7skWNiPYi4twXGrjSSGPc0Deqk5zRVDaoDySMg+ZQW5/7On/BX4ne2sPAXvTG+gFT7gEF3naZqBRuyuMJCkPdCrPsjcfz/i3FJCXyK6kLLVHkx5nsSxjz+tT5KfU2rYzod/7FWDv5aiZEE+nko0lpCkd0qr6/JgpjjmKP+Gfc994du0os75SC+C0Nm9y3vU3JY1EHYqnzdacZE=;10pEUOMXr3viBRsNgKzAtA=="
 ---

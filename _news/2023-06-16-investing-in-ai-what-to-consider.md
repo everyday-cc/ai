@@ -52,22 +52,6 @@ related:
         width: 1366
         height: 910
         isCached: true
-  - title: "Artificial Intelligence: The Way Forward"
-    excerpt: "Artificial Intelligence (AI) will rule all the spheres of life in future but it's the human intelligence that controls and complements the norm"
-    publishedDateTime: 2023-06-13T17:31:00Z
-    webUrl: "https://www.omanobserver.om/article/1138712/oman/artificial-intelligence-the-way-forward"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1138712"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1138712"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 61
-    images:
-      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2023/06/13/2359214.jpg"
-        width: 1000
-        height: 650
-        isCached: true
 
 secured: "YeEv1Vd1VFXvZFpJ7SMd8Zfe8qkoAkXcg3Naizcr8C9jmquA8YINY4WkLJ+SrKQ+8xuevBEmxtG/enWO6zMOl/Mo8qx9JTWb68sODqouDoEQnSk3a6OFCRPnfDPmRSWEdmyhFkUIwZ2V4xaH9ngw6cUZIkdkShlfSnoqU4+7dZeL+eDKj4AylkefMcsXLyd38YqpN3jt9sXbbYo5ueITthkZ+GEGdP8iA6XtQN/h94VQ8qRvCxlxOL9uRJnA57WX4/8WmpAiXVUfhvoIeZc4XOnDHdR8k6XYDdMABv6/5oJZr1BflDlSxo7SF9BcR9XhIQqJazRRWt0nR6VyrjpbfoFsIlB6ThgghDR6my4ZTbBTxECmCDwDVZoKo5HyVTa7zRAzsHKLGFn/kAk3h9wxi+0niF9hGCHZpAIg5jrv9ockqx0oefxjFwJ+2ClODYbdJhqMheYcg/8wESqfYxqs7Zj4xxxWMaZ2pln3jdg/pmFeNZS7H9hhfJUKvppagX7yM17P92HvqI9Ij7qJmBQ07w==;8BMEg2sJ1ehT6MzDMe0FbQ=="
 ---

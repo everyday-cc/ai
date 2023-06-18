@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 768
         isCached: true
+  - title: "RAISE-Health addresses ethical and safety issues in AI innovation"
+    excerpt: "Responding to rapid advances in artificial intelligence and the urgent ... Both awareness of AI and skepticism about its use in health care have skyrocketed in the last 12 months."
+    publishedDateTime: 2023-06-15T06:56:00Z
+    webUrl: "https://www.news-medical.net/news/20230615/Addressing-ethical-and-safety-issues-in-AI-innovation.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 56
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Mass layoffs are creating a new generation of founders building climate, health, and fintech startups"
     excerpt: "Health and fintech are also popular. Ai-Ling Walker, a former creator success staffer at Patreon, is building the Noetic platform to help neurodiverse people receive a diagnosis. It took her five years to be diagnosed with ADHD, during which time she ..."
     publishedDateTime: 2023-06-14T09:42:00Z
@@ -67,15 +81,6 @@ related:
         width: 611
         height: 456
         isCached: true
-  - title: "AMA delegates call for more oversight of AI in health care"
-    excerpt: "Critics deride Cook County Health as it spends millions creating its own medical research department and investigates the nonprofit managing its clinical trials. AMA House of Delegates will discuss and potentially vote on a wide range of policy proposals at the event in Chicago."
-    publishedDateTime: 2023-06-13T18:51:00Z
-    webUrl: "https://www.chicagobusiness.com/health-care/ai-healthcare-needs-more-oversight-ama-delegates-say"
-    type: article
-    provider:
-      name: Crain's Chicago Business
-      domain: chicagobusiness.com
-    quality: 19
 
 secured: "1qKHUM8xCpkGV+B/MoagFCuiu6xCCjvMq9PsGEdfilovfIE29tk57u8P8lc1UPWVswL3fvCkXpzuMx2Po+bFaV1dpanIPi/S+iu5aoa83KrjLumRRdYf1J7883ReX9qA/Wr7JAUAtBwngRlSz1eIDwnZKFNDFSUbylFA84MFj/+S3rJUIssTgxoDJVUHXn1EFr2HQJIfw9tzqVfsTCUdrwugTpfkUfPI279Rq6ukmXb6bSE0LeC3DuvVW9Qg8yNrZHkPDdiJi+B4VzYyRHZkwcRc9rLUj4x79jRSrRKDaEYNSVKrGZHFgvwnQtz0e3Fb2bRBsNnejDuimPd9wvMbifP97+rhfgLd5Aycf9IQvzyrkZZ0IdiEnj27KKFbYRzs6HULZmCZj+jAuxWoroELXRuIL/jMYQ3Pm2T9trRJfcPJN7LgNJDomrPd6FhFFJYlQQfy/YIAjAXJYGZlB8MGpBghI1VWz/UUa3XNvSUQ/2v2P+oAlD0z+GwM/MjVCE450puYminJ/zLUFLs1F6wPjg==;6sHNS9scTmWkn/xBXp0Pxw=="
 ---

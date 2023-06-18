@@ -28,6 +28,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Some advertisers are requiring their agencies to disclose when they use generative AI"
+    excerpt: "The marketing consultancy Ebiquity said between 10% to 20% of its clients have updated their contracts with agencies to include wording around AI."
+    publishedDateTime: 2023-06-17T13:00:00Z
+    webUrl: "https://www.businessinsider.com/some-advertisers-want-their-agencies-disclose-when-they-use-generative-ai-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
 
 secured: "H3HIBfJUKeKct5ZiQJTfFhbKnT4wCEk3TR2SPFRM1nwLYhqZ+8/9PdPoVKxtu+wRTsuGxlq3FgaILyLLlp0mu8lOyoRXLV72gAWmQbZw/dLsUg5e7hOE0hMHowITeEKr5Q7D0EB4icdPs4Iue2gaRPow4mfI8XiBN9ZgQg9RCqAG8qHz/N4iHwb+e9GjCLklbs5d2XwKvmaAD7GPypKMUjFE+u3B9pje28ekUKemjDOsh8f3/RT4n1SYTphUp0U3EJL+ssQpQW8mIkkIYP8y504npI1ZP9/gVwQBoUtXgD5CzNT421W0C6LxPGyHuTyWjN/R2cPvtnYKTgURa0Nt+1r92/yn7SLK88dT3ILU9ZM=;5cJLi4ZVR7wiajhWICTSeg=="
 ---

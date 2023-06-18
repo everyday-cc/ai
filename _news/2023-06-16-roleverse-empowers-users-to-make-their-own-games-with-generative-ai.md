@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Some advertisers are requiring their agencies to disclose when they use generative AI"
+    excerpt: "The marketing consultancy Ebiquity said between 10% to 20% of its clients have updated their contracts with agencies to include wording around AI."
+    publishedDateTime: 2023-06-17T13:00:00Z
+    webUrl: "https://www.businessinsider.com/some-advertisers-want-their-agencies-disclose-when-they-use-generative-ai-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
   - title: "Dremio Integrates Generative AI, Enables Users to Directly Convert Natural Language to SQL Commands"
     excerpt: "Mark Sear, director of data at Maersk, expressed his enthusiasm for these innovative additions to Dremio, stating, \"Maersk's data team is embracing the transformative power of generative AI to enhance our capabilities."
     publishedDateTime: 2023-06-15T12:47:00Z

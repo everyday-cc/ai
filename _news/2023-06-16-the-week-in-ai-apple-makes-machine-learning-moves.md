@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr061723-featuredimg-ai-vs-ai-phishing-wars.jpeg"
         width: 1366
         height: 910
-        isCached: true
-  - title: "Artificial Intelligence: The Way Forward"
-    excerpt: "Artificial Intelligence (AI) will rule all the spheres of life in future but it's the human intelligence that controls and complements the norm"
-    publishedDateTime: 2023-06-13T17:31:00Z
-    webUrl: "https://www.omanobserver.om/article/1138712/oman/artificial-intelligence-the-way-forward"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1138712"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1138712"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 61
-    images:
-      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2023/06/13/2359214.jpg"
-        width: 1000
-        height: 650
         isCached: true
   - title: "Investing in AI: What to Consider"
     excerpt: "Artificial intelligence may prove to be the most disruptive and significant change in technology in a generation. As more companies are moving to incorporate AI into their core businesses, the space appears to be ripe for investment,"

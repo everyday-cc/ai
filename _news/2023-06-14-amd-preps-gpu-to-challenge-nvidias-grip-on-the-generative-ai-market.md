@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/amd-preps-gpu-to-challenge-nvidias-grip
 webUrl: "https://www.pcmag.com/news/amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market"
 type: article
 quality: 84
-heat: 354
+heat: 344
 published: true
 
 provider:
@@ -346,20 +346,6 @@ related:
       - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/16e08cd1-b393-11e9-b14e-6799f7b581ee.png"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI-Generated Video Platform Synthesia Receives Nvidia Backing At Unicorn Valuation"
-    excerpt: "Synthesia is the latest AI startup to raise a big round and hit a $1 billion valuation after a $90 million Series C."
-    publishedDateTime: 2023-06-13T17:36:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/synthesia-artificial-intelligence-nvidia-unicorn/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 35
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Unicorn.jpg"
-        width: 900
-        height: 506
         isCached: true
   - title: "AMD Leaps As Chipmaker Takes On Nvidia In $150 Billion AI Market"
     excerpt: "\"We have a chip that is incredibly powerful and we believe will be a significant winner in the AI market,\" said AMD CEO Lisa Su."

@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Confronting the biases embedded in AI and mitigating the risks"
-    excerpt: "The risk of bias is high in artificial intelligence systems and the explosion of AI should prompt a call-to-action to develop best practices."
-    publishedDateTime: 2023-06-13T18:46:00Z
-    webUrl: "https://washingtontechnology.com/opinion/2023/06/confronting-biases-embedded-ai-and-mitigating-risks/387468/"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 19
 
 secured: "7TeXzUwHyn+eZXBicCASti6yk/alnouQ8eXXFQwrTAby+JXBm6rEOtJj+ctra/XcUePbjlUsPw6q/7DUpuIfhKTemIYVG2Itx6Kg0S8S31z+H6EzGfX10hyw9Y6XNAPzF2rijn6pWvpDgNNQiUVzFHgRVmuTdQzOS45oiQrtSaIOmfpmW9Pi47ZPlht+uGqQntPvHerW6Yg+wx18HMRJmyVj3e+HTTmVoDyE0E4RELRm2FIuP66rrZP5BZUBL5DNemJRfs0PZ/EzZ40pWzwBVPNz2TIKq9pVd0l3Rws30mcsVZsxuHriWCdwkfFHxXFrGaO6P/GLZPk297R+Db60EgyAEyqbJsjGGSUJP/AmVMc=;8j7cpjSK/5goswAXJpD/Iw=="
 ---

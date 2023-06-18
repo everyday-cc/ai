@@ -40,15 +40,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Paul McCartney Says New Beatles Song Finished With Help From Artificial Intelligence"
-    excerpt: "A new song from The Beatles, which broke up in 1969, has been finished thanks to help from artificial intelligence technology, according to Paul McCartney."
-    publishedDateTime: 2023-06-13T18:26:00Z
-    webUrl: "https://www.forbes.com/sites/mattnovak/2023/06/13/paul-mccartney-says-new-beatles-song-finished-with-help-from-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
   - title: "AI is all you need: Artificial intelligence is about to help the Beatles release a new record"
     excerpt: "The singer-songwriter, who’s one of two Beatles still alive along with Ringo Starr, told the BBC that new technology has allowed him and his production team to “extricate” the voice of John Lennon (pictured) – the outspoken Beatle who was gunned down in New York City in 1980."
     publishedDateTime: 2023-06-14T02:33:00Z
@@ -77,15 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Paul McCartney says AI helped him finish one last Beatles song – here’s what I think is coming"
-    excerpt: "\"When we came to make what will be the last Beatles record… We were able to get John's voice through AI.\" Ahead of his exhibition at @NPGLondon of Beatles photos, Sir Paul McCartney spoke to @Marthakearney and revealed that a new record will be released this year. #R4Today"
-    publishedDateTime: 2023-06-13T17:38:00Z
-    webUrl: "https://bgr.com/entertainment/paul-mccartney-says-ai-helped-him-finish-one-last-beatles-song-heres-what-i-think-is-coming/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 5
 
 secured: "AQ0iXvx3X19QuAoR5ukfstjPILoXYoFOpyXhDIfl/5XsuVD55GRnYQjvklQIWbZ/k0lo/trHghzNWxtvK3zdR+hyakI+NodXzuciQK8fN5/2HzBxqtgg18U5003/mGc40Yx4HXuCtbAuPX4Y7E24X4eizuMCLpLhLAHGfw7bq5kniulxN1m6jOmiteTNbPDXW6V3FI6/cxWPLrfgNGIrHxYuZ6Hxa8CfDU8qhMXDC1km31FDnIlZUSEnBL5EB8405UIK9UeEL7PnBTqsw3QX0ZIuI5IImM5cwHt2/1Trfoq24Ixn5AbdHdS4nGUZn1NeRVlwf2o+1pqeALL3/NVgKQYUGQ6dFwpKmrb/tO8Ms9Q=;VaG5puXlrXbAB0tfE+4eIw=="
 ---

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Reinventing the data experience: Use generative AI and modern data architecture to unlock insights"
-    excerpt: "Implementing a modern data architecture provides a scalable method to integrate data from disparate sources. By organizing data by business domains instead of infrastructure, each domain can choose tools that suit their needs. Organizations can maximize the value of their modern data architecture with"
-    publishedDateTime: 2023-06-13T17:18:47Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 75
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/generative-ai-modern-data-architecture.jpg"
-        width: 1021
-        height: 510
-        isCached: true
   - title: "Elevating customer experience: The rise of generative AI and conversational data analytics"
     excerpt: "As the digital-first business landscape becomes increasingly complex and fast-paced, generative AI is becoming an indispensable tool."
     publishedDateTime: 2023-06-15T23:00:00Z
@@ -47,15 +33,52 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Some advertisers are requiring their agencies to disclose when they use generative AI"
-    excerpt: "The marketing consultancy Ebiquity said between 10% to 20% of its clients have updated their contracts with agencies to include wording around AI."
-    publishedDateTime: 2023-06-17T13:00:00Z
-    webUrl: "https://www.businessinsider.com/some-advertisers-want-their-agencies-disclose-when-they-use-generative-ai-2023-6"
+  - title: "ANALYSIS: Three Considerations for Attorneys Using Generative AI"
+    excerpt: "Although legal ethics rules don’t yet specifically address AI usage, they certainly still apply. For lawyers using AI in their practice, here are three considerations to ensure their ethical duties stay top of mind. A crucial preliminary step to using ..."
+    publishedDateTime: 2023-06-16T09:00:00Z
+    webUrl: "https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-three-considerations-for-attorneys-using-generative-ai"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/55d996e/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F91%2F2c%2F47ed98a84c8193856e370cff5f1b%2Fai-2.jpg"
+        width: 1920
+        height: 740
+        isCached: true
+  - title: "Ethical considerations of artificial intelligence in marketing: Balancing personalisation and privacy"
+    excerpt: "Artificial Intelligence (AI) has revolutionized marketing by decoding complex customer data and driving hyper-personalization. However, as we wield this powerful tool, it’s crucial to balance personalization and privacy – a critical ethical consideration in"
+    publishedDateTime: 2023-06-17T13:03:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ethical-considerations-of-artificial-intelligence-in-marketing-balancing-personalisation-and-privacy/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 36
+  - title: "BBVA uses AI and analytics services from AWS"
+    excerpt: "BBVA invests in Amazon Web Services cloud platforms to help transform itself into an organisation driven by AI and data."
+    publishedDateTime: 2023-06-16T07:59:00Z
+    webUrl: "https://www.computerweekly.com/news/366541809/BBVA-uses-AI-and-analytics-services-from-AWS"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 34
+  - title: "Rows’ AI Analyst Enhances Spreadsheet Data Analysis, Offering Automated and Intuitive Insights"
+    excerpt: "Rows, the next-generation spreadsheet for businesses, has launched Rows AI Analyst, its latest feature. The new tool will"
+    publishedDateTime: 2023-06-14T17:36:00Z
+    webUrl: "https://www.datanami.com/this-just-in/rows-ai-analyst-enhances-spreadsheet-data-analysis-offering-automated-and-intuitive-insights/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 25
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/ai_rows-300x283.png"
+        width: 300
+        height: 283
+        isCached: true
 
 secured: "kzGLb4wQtcLRzRU2pTJduA6XjepQYKN7rg7gZytCq2sOlHh4S7b1FdA9zK7mSF5U/el9YdyJJITD7cZ7qer4KWuc1acgdsihvXTlp9cVwn8baQU1Oc9D9cEKKkOkuQdpapgwVbLXNf8rPJdHI0fNxJoj0jNVFB+RuqZDH4mpb3ZvZ69Rgxg0x00aOVXgTtbYGD42chYESjMt/aExoUopH2quQgTkD57cIpk4SqBq75l+f//q7iIch2PT68KQQeXv2eppyzQ4i3DdyfoUu1c2dHJvEur/fneJDF0egmAAETpNoV2Oz/KxwPlGMI0P8nPraiou5gC/B1IcNqXxM6UUulvuLzdQWFVPaDjRG+83lGM=;xInszZ+8XdlU6/ageJtlWQ=="
 ---

@@ -126,15 +126,6 @@ related:
       name: Zee Business
       domain: zeebiz.com
     quality: 34
-  - title: "AMD's Instinct MI300X GPU targets generative AI workloads"
-    excerpt: "Company claims it is the \"world's most advanced accelerator\" for gen AI, but offers few details At its data center and AI event in San Francisco, AMD pitched its AMD Instinct MI300X GPU as built for generative AI workloads."
-    publishedDateTime: 2023-06-13T18:27:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/amds-instinct-mi300x-gpu-targets-generative-ai-workloads/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 34
   - title: "AMD unveils new chip as generative AI accelerator"
     excerpt: "The MI300X is based on the next-gen AMD CDNA 3 accelerator architecture and supports up to 192 GB of HBM3 memory to provide the compute and memory efficiency needed for large language model training and inference for generative AI workloads,"
     publishedDateTime: 2023-06-15T11:40:00Z
@@ -180,15 +171,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 5
-  - title: "AMD Announces Data Center EPYCs, Releases Instinct Accelerator Details and Software for Generative AI"
-    excerpt: "At a product unveiling event this morning in San Francisco, AMD announced updates to its 4th Gen EPYC “Genoa” 5nm data center CPUs and released additional details on its MI300X GPU accelerator for generative AI."
-    publishedDateTime: 2023-06-13T18:30:00Z
-    webUrl: "https://insidehpc.com/2023/06/amd-announces-data-center-epycs-releases-instinct-accelerator-details-and-software-for-generative-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 4
   - title: "Leidos Leads Advancements in Large Language Models and Generative AI, Accelerating Trust and Strategic Partnerships"
     excerpt: "\"Generative AI is going to revolutionize industries and Leidos is at the forefront of putting this powerful technology into action,\" said Jim Carlini, Leidos Chief Technology Officer. \"Years ago, we recognized the potential of the LLMs that power today's Generative AI breakthroughs and began the work to unlock it."
     publishedDateTime: 2023-06-14T21:24:00Z

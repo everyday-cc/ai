@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "French company Mistral AI raises 105 mln euros shortly after being set up"
-    excerpt: "\"Bravo to the start-up Mistral AI which has raised 105 million euros just a month after its creation: a record!\" wrote Barrot on his Twitter account on Tuesday. Mistral AI was set up by former Meta and Google artificial intelligence researchers, and it is ..."
-    publishedDateTime: 2023-06-13T17:03:00Z
-    webUrl: "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/"
+  - title: "Month-old AI start-up nets €105M in funding"
+    excerpt: "An AI start-up founded by a trio of former Meta Platforms and Google researchers four weeks ago raised €105 million in funding."
+    publishedDateTime: 2023-06-14T10:34:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/month-old-ai-start-up-nets-e105m-in-funding/"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/month-old-ai-start-up-nets-e105m-in-funding/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/month-old-ai-start-up-nets-e105m-in-funding/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 68
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 57
     images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MS2EJQ474JPEXC4RWVPXT4BLJ4.jpg"
-        width: 4000
-        height: 2741
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/10/MWL_Euros_cash_buy-e1558434523944.jpg"
+        width: 650
+        height: 399
         isCached: true
   - title: "AI start-up Mistral bags €105m after just one month"
     excerpt: "Mistral AI, a French start-up founded last month, has already managed to raise €105m in a seed round, showing the current hype surrounding the AI sector. The company was founded by former researchers of Google’s Deepmind and Meta and has ambitious ..."

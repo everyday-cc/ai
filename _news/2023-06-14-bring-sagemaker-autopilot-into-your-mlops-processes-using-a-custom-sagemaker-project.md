@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Forethought saves over 66% in costs for generative AI models using Amazon SageMaker"
-    excerpt: "This post is co-written with Jad Chamoun, Director of Engineering at Forethought Technologies, Inc. and Salina Wu, Senior ML Engineer at Forethought Technologies, Inc. Forethought&nbsp;is a leading generative AI suite for customer service. At the core of its suite is the innovative SupportGPT™ technology"
-    publishedDateTime: 2023-06-13T17:41:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 96
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/forethought-generative-ai-sagemaker.jpg"
-        width: 1022
-        height: 512
-        isCached: true
   - title: "SambaSafety automates custom R workload, improving driver safety with Amazon SageMaker and AWS Step Functions"
     excerpt: "At SambaSafety, their mission is to promote safer communities by reducing risk through data insights. Since 1998, SambaSafety has been the leading North American provider of cloud–based mobility risk management software for organizations with commercial and non–commercial drivers. SambaSafety serves"
     publishedDateTime: 2023-06-16T15:08:54Z
@@ -56,6 +42,22 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/16/sambasafety-sagemaker-step-functions.jpg"
         width: 1213
         height: 605
+        isCached: true
+  - title: "AI Safety: New Research Explores Machine Learning Safety Without Conducting Countless Trials"
+    excerpt: "Machine learning has long drawn inspiration from human learning processes, including the valuable lessons learned from mistakes. However, the application of machine learning in safety-critical autonomous systems, such as self-driving cars and power systems ..."
+    publishedDateTime: 2023-06-15T10:36:00Z
+    webUrl: "https://www.techtimes.com/articles/292629/20230615/ai-safety-new-research-explores-machine-learning.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/292629/20230615/ai-safety-new-research-explores-machine-learning.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292629/20230615/ai-safety-new-research-explores-machine-learning.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 63
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429696/ai-safety-new-research-explores-machine-learning-safety-without-conducting-countless-trials.jpg"
+        width: 1500
+        height: 843
         isCached: true
 
 secured: "Dttq2v62lzxAHbG0k5Aapq2oPu9JcybaTdWLAg7KoWpW/rNm/ZEXBq7gWzqIEBc5r93lZJhXAjIfflcY6evpZxhX3J1AS68SBjIB+z12baNOFxsvk98QlNPPQpavGTDquLyXWd1sf2qQ9jfIi6RFBxc9WdyWiP2UN92QwdvqKQvwEAk6K6lzWMOYytRnSkTge3+twCNH6ePHSPqcBxBead8KVPT29ir+XYqmGO9XnRxRGpxcJsB1+bnHBvI3Af7JmrhM5mEs2SKrJ4gToJ5YfFoARzLPkKtKD7OdictIUlvor1HT6gFpKFNejUm+KV0gLtwBhAVtdbBm+lP5ncmjwTbtt/BWe/h1keLlqxlvliM=;pKdefH6iFVjIIASvIp0JgQ=="

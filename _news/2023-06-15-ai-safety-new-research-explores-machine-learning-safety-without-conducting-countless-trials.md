@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/292629/20230615/ai-safety-new
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292629/20230615/ai-safety-new-research-explores-machine-learning.htm"
 type: article
 quality: 63
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     width: 1500
     height: 843
     isCached: true
+
+related:
+  - title: "SambaSafety automates custom R workload, improving driver safety with Amazon SageMaker and AWS Step Functions"
+    excerpt: "At SambaSafety, their mission is to promote safer communities by reducing risk through data insights. Since 1998, SambaSafety has been the leading North American provider of cloud–based mobility risk management software for organizations with commercial and non–commercial drivers. SambaSafety serves"
+    publishedDateTime: 2023-06-16T15:08:54Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/16/sambasafety-sagemaker-step-functions.jpg"
+        width: 1213
+        height: 605
+        isCached: true
+  - title: "Bring SageMaker Autopilot into your MLOps processes using a custom SageMaker Project"
+    excerpt: "Every organization has its own set of standards and practices that provide security and governance for their AWS environment. Amazon SageMaker is a fully managed service to prepare data and build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools,"
+    publishedDateTime: 2023-06-14T17:03:03Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-sagemaker-autopilot-into-your-mlops-processes-using-a-custom-sagemaker-project/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/14/bring-sagemaker-autopilot-mlops.jpg"
+        width: 1023
+        height: 513
+        isCached: true
 
 secured: "SiqRpaM8QwgZAWOveqZV6sIJGmv2xidguswyqD8CgyFx2Cu4KFix4OIf8m6U/kfHveQ88vK8Vcy72SY2cbfRI3HodeirTVaVG2UBZ4ag47MPIz93fyLbHSMk1/NNhlWDkSKwBAmp0XPJMjCl1nprMsmkg4XwbH5Phuqo0QJmFbaCU6eFXb3HFXO+L+0TPGVeq743L3Gscoy3hLHUrB56r1tXEWPn9y/n4Engy+sYGkSndXwBo0FyKD5arsWi5/6uehHyrea5m0eAtv0EnEZaJzYOTLXeKkYisPxo4KRbUwz4rDT3FMEJj0CA9fyOkPnTmlJk3j6moXtaa/iXYJwdbqpLrha0JwcLlD6LUir6dmU=;n2mM67/1rzwJ36yJTxFT+g=="
 ---

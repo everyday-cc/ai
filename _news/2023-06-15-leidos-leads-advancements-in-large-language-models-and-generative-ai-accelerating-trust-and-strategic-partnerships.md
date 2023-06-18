@@ -120,15 +120,6 @@ related:
       name: Zee Business
       domain: zeebiz.com
     quality: 34
-  - title: "AMD's Instinct MI300X GPU targets generative AI workloads"
-    excerpt: "Company claims it is the \"world's most advanced accelerator\" for gen AI, but offers few details At its data center and AI event in San Francisco, AMD pitched its AMD Instinct MI300X GPU as built for generative AI workloads."
-    publishedDateTime: 2023-06-13T18:27:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/amds-instinct-mi300x-gpu-targets-generative-ai-workloads/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 34
   - title: "AMD unveils new chip as generative AI accelerator"
     excerpt: "The MI300X is based on the next-gen AMD CDNA 3 accelerator architecture and supports up to 192 GB of HBM3 memory to provide the compute and memory efficiency needed for large language model training and inference for generative AI workloads,"
     publishedDateTime: 2023-06-15T11:40:00Z
@@ -188,15 +179,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 5
-  - title: "AMD Announces Data Center EPYCs, Releases Instinct Accelerator Details and Software for Generative AI"
-    excerpt: "At a product unveiling event this morning in San Francisco, AMD announced updates to its 4th Gen EPYC “Genoa” 5nm data center CPUs and released additional details on its MI300X GPU accelerator for generative AI."
-    publishedDateTime: 2023-06-13T18:30:00Z
-    webUrl: "https://insidehpc.com/2023/06/amd-announces-data-center-epycs-releases-instinct-accelerator-details-and-software-for-generative-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 4
 
 secured: "75HBCSE5Ht+q1i7V5s0bSEmxai0zhkv9UwyHow3dmseuhXgeZSy0Egwf8IAXJAVopRMBdB8szxw7GTuMqc3hfXA3+9egrj+MqKNZGM8HogmsvmpaBX0tMXJSh9E3/Rq70gejCDoD+/iimmc8hrkxAWVRMSYTnslkF2SH/QIajuRd/70UDGaHF8qcJYHABAjuUp6xsDiIhz0G52nLU6U81HaEKC008frNa6FWF1x+GzYuJN6QY1jbhA4kJ8q8gE5fMl2cddmmN6XsQX0luqv/Q8osAfMLNtI6QkKbBzjXIT0I14LmqixIoIP32oxogBrVWg4Ytj5vnHhSnG0C2rLjiOL6nBUx/T6QSCkrSTE/eDPJTM2o1HxoP7+i4/ae8UJEIsXJl/CD8QFkiwTzdicQEzQjHeVy/3hNz1zZhM4UgQcOAeaJsKjNRkbW/IUwNx4QEPyNchGmeWR1igrvwg6cnY89zQQe9wMD0OMV0tZgPxhwNVTsvFMGd0Eb+bZ5J9gfogye/lcW82BOh6KE5edrIw==;Mz2BFC321ViYkBhpmt/tsg=="
 ---

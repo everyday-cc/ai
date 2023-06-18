@@ -31,15 +31,6 @@ related:
       name: VOV Online
       domain: english.vov.vn
     quality: 54
-  - title: "Microsoft adds AI capabilities, enhances translation features to Skype"
-    excerpt: "In the latest update to Skype, Microsoft has incorporated AI capabilities and enhanced translation features into the platform. The updated version (8.99.76.102 for Insiders) of Skype includes several new features as well as the usual reliability fixes."
-    publishedDateTime: 2023-06-13T18:15:00Z
-    webUrl: "https://telanganatoday.com/microsoft-adds-ai-capabilities-enhances-translation-features-to-skype"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 36
   - title: "Viettel, Microsoft cooperate to promote application of Industry 4.0 solutions"
     excerpt: "Telecoms Group (Viettel) announced on June 16 that its affiliate Viettel Solutions has signed a strategic cooperation agreement with Microsoft Vietnam to foster the application of Industry 4.0 technology solutions such as Cloud,"
     publishedDateTime: 2023-06-17T12:03:00Z

@@ -102,20 +102,6 @@ related:
         width: 681
         height: 1401
         isCached: true
-  - title: "Using AI, ChatGPT to Augment the Future of Healthcare"
-    excerpt: "During a June 7 event hosted by Northwestern Engineering, AI@NU, and the Institute for Augmented Intelligence in Medicine, computer scientists and physicians presented examples of how artificial intelligence technologies can augment healthcare tasks."
-    publishedDateTime: 2023-06-13T17:15:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/06/using-ai-chatgpt-to-augment-the-future-of-healthcare/"
-    type: article
-    provider:
-      name: mccormick.northwestern.edu
-      domain: northwestern.edu
-    quality: 54
-    images:
-      - url: "https://www.mccormick.northwestern.edu/images/news/2023/06/using-ai-chatgpt-to-augment-the-future-of-healthcare-social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Even Google is warning its employees about AI chatbot use"
     excerpt: "Anything you say to an AI chatbot like ChatGPT, Google Bard, and Bing Chat can be used to train it, as these bots are based on large language models (LLMs) that are in constant training. The companies behind these AI chatbots also store the data, which could be visible to their employees."
     publishedDateTime: 2023-06-16T18:57:00Z
