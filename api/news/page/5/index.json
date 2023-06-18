@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-14-artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how.md",
+      "title": "Artificial Intelligence Will Dramatically Impact Facebook And Instagram. Here’s How",
+      "excerpt": "Later, you might use a built-in AI feature that’s part of the app, asking for modifications. Using a text interface, you might ask Instagram to make the photo brighter or even add a brighter smile to your face. On Facebook, you might do a broader text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/",
+      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639b5b9e36621a9dd42f2a94/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/amp/",
+      "publishedDateTime": "2023-06-14T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-6-gmail-ai-features-to-help-save-you-time.md",
+      "title": "6 Gmail AI features to help save you time",
+      "excerpt": "These AI-powered Gmail features can make your email experience even faster, easier and more organized.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/gmail/gmail-ai-features/",
+      "originalUrl": "https://blog.google/products/gmail/gmail-ai-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gmail_powered_by_ai_hero.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/gmail/gmail-ai-features/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/gmail/gmail-ai-features/amp/",
+      "publishedDateTime": "2023-06-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop.md",
       "title": "AMD's Hardware AI Ryzen 'Phoenix' CPUs Set to Soar in Razer's Blade 14 Laptop",
       "excerpt": "The chip maker is counting the iconic gaming ultraportable among its key design wins, ringing in the first-ever x86 processors with dedicated AI-accelerating silicon.",
@@ -310,7 +414,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-generative-ai-will-unleash-e-commerces-next-big-bang/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -453,6 +557,48 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-month-old-ai-start-up-nets-105m-in-funding.md",
+      "title": "Month-old AI start-up nets €105M in funding",
+      "excerpt": "An AI start-up founded by a trio of former Meta Platforms and Google researchers four weeks ago raised €105 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/month-old-ai-start-up-nets-e105m-in-funding/",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/month-old-ai-start-up-nets-e105m-in-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2018/10/MWL_Euros_cash_buy-e1558434523944.jpg",
+          "width": 650,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/month-old-ai-start-up-nets-e105m-in-funding/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/month-old-ai-start-up-nets-e105m-in-funding/amp/",
+      "publishedDateTime": "2023-06-14T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -662,7 +808,7 @@
       "originalUrl": "https://www.cnbc.com/2023/06/14/amd-new-ai-chip-not-enough-to-knock-nvidia-off-its-throne.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -745,49 +891,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding.md",
-      "title": "AI startup by ex-Meta and Google researchers raises $113M in seed funding",
-      "excerpt": "With no product at hand, the company is on a hiring spree and on the lookout for researchers, software engineers and product developers in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding",
-      "originalUrl": "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/fd1be72b-f6c8-4d53-97a6-d2228976568a.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding/amp",
-      "publishedDateTime": "2023-06-14T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -1126,99 +1229,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-paul-mccartney-reveals-ai-was-used-to-create-the-last-beatles-record.md",
-      "title": "Paul McCartney reveals AI was used to create the 'last Beatles record'",
-      "excerpt": "McCartney revealed that what he called \"the last Beatles record\" is on its way, adding that it was created with the help of AI. \"It was a demo that John had that we worked on,\" he",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com",
-      "originalUrl": "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/GMA/mccartney-1-ap-er-230613_1686693220455_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489",
-      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489",
-      "publishedDateTime": "2023-06-13T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-ai-and-coding-how-these-tech-companies-are-using-generative-ai-for-programming.md",
-      "title": "AI and coding: How these tech companies are using generative AI for programming",
-      "excerpt": "Diamond Bishop, CEO and co-founder at Augmend, a Seattle collaboration software startup Diamond Bishop, CEO of Augmend. (Augmend Photo) “AI is making it so small startups like ours can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/ai-and-coding-how-seattle-tech-companies-are-using-generative-ai-for-programming/",
-      "originalUrl": "https://www.geekwire.com/2023/ai-and-coding-how-seattle-tech-companies-are-using-generative-ai-for-programming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/06/3743d9d0-77a9-4f15-8e09-b755373102f0.jpeg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-m
 webUrl: "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-makes-anyone-speak-a-foreign-language/"
 type: article
 quality: 69
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/4/7/w600X390/declare_AI.jpg"
         width: 600
         height: 390
+        isCached: true
+  - title: "Meta announces Voicebox, a generative model for multiple voice synthesis tasks"
+    excerpt: "One of the interesting applications of Voicebox is voice sampling. The model can generate various speech samples from a single text sequence."
+    publishedDateTime: 2023-06-18T20:40:00Z
+    webUrl: "https://venturebeat.com/ai/meta-announces-voicebox-a-generative-model-for-multiple-voice-synthesis-tasks/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 50
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_a_robot_speaks_into_a_microphone_67f9bdd0-06de-49c1-9e51-0eb05f82f74f.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
 
 secured: "u2JzBcwJg2AZtv4FrdmX6EscGA/O/blHTtHuW4EV57S7QYSoEUU9o04t75jcIlkLbH+JSKW1TzM4HXNmI5chO0Lff0tJkfCUceSmzOH9a0/5EqYkvG18pXiBPs7psr8kha2q8XwbSDOC5iZGycXkwv3RYK3iNDYuKj1w5cQjBevm8/sfYJkNRoWYMBLPSF71Z0aWlhn4aj8pzbf7yT6lDrRyCfxCSob/6LsNMeHAYiJ4bJIkwTCMQv3gHGUAVtx/WA1s/R9mFRpjqF3VrPMUe81guuIuud4yK7vfPegVm/5ipPcs7xKMbBntZAp8aaNbrTC1OD9sHIFF5SdmioY3/LoDtl/GJPEqDw+5ki5DxPbjHe0xSD0wxi+Mo497mitkYOzHWytz4XLzjx/fVLaol171T/D267DzUAczu21tfD8oxktnnVZT8QlumPfuCJDQyAKKARQt/NRIS1EDktNIovG5Vo4OeGHeFr91FT4huzgkt8qIjwdiTaraIw7pDfarZkGxpmWprYk8xnfjd4TSFA==;uSeWwtR05WABTZ2iLxs5hQ=="

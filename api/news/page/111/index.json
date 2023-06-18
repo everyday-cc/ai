@@ -2,6 +2,83 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2023-04-05-darya-trepova-what-clues-does-new-russian-bomb-footage-reveal.md",
+      "title": "Darya Trepova: What clues does new Russian bomb footage reveal?",
+      "excerpt": "New footage has emerged showing the moment a bomb exploded in a St Petersburg cafe, killing pro-war blogger Vladlen Tatarsky. The Russian authorities have charged 26-year-old Darya Trepova with terrorism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-europe-65178332",
+      "originalUrl": "https://www.bbc.com/news/world-europe-65178332",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-eightfold-ai-announces-talent-intelligence-copilots-bringing-generative-ai-to-its-deep-learning-ai-platform.md",
+      "title": "Eightfold AI Announces Talent Intelligence Copilots, Bringing Generative AI to its Deep-Learning AI Platform",
+      "excerpt": "Since its founding, Eightfold AI has used deep-learning AI to understand a job seeker's skills, potential, ability to learn new skills and adapt to new situations, as well as facilitate the placement of those candidates in roles that help them fulfill their career potential.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/04/9788781.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/04/9788781.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-artificial-intelligence-enters-a-new-phase-of-corporate-dominance.md",
       "title": "Artificial Intelligence Enters a New Phase of Corporate Dominance",
       "excerpt": "Decisions about how to deploy this technology and how to balance risk and opportunity lie firmly in the hands of corporate players, as we’ve seen over the past years with AI tools, like ChatGPT, Bing,",
@@ -872,83 +949,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-azure-our-ai-platform.md",
-      "title": "Azure: Our AI Platform",
-      "excerpt": "Since 2016, Microsoft has committed to building Azure into an AI supercomputer for the world, serving as the foundation of our vision to democratize AI as a platform. Through our initial investment and collaboration, Microsoft and OpenAI pushed the ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/2023/04/04/azure-our-ai-platform/",
-      "originalUrl": "https://news.microsoft.com/2023/04/04/azure-our-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-lensless-complex-amplitude-demodulation-based-on-deep-learning-in-holographic-data-storage.md",
-      "title": "Lensless complex amplitude demodulation based on deep learning in holographic data storage",
-      "excerpt": "A new publication from Opto-Electronic Advances, 10.29026/oea.2023.220157 discusses lensless complex amplitude demodulation based on deep learning in holographic data storage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/984981",
-      "originalUrl": "https://www.eurekalert.org/news-releases/984981",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

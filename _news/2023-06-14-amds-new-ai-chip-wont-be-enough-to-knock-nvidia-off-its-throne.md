@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/06/14/amd-new-ai-chip-not-enough-to-knoc
 webUrl: "https://www.cnbc.com/2023/06/14/amd-new-ai-chip-not-enough-to-knock-nvidia-off-its-throne.html"
 type: article
 quality: 84
-heat: 354
+heat: 304
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD reveals details about AI chip that can take on leader Nvidia"
-    excerpt: "Su discussed the chip’s capabilities during a keynote presentation in San Francisco, where she showcased an AI system on the MI300X chip writing a poem about the city. “The more memory that you have, the larger the set of models” the chip can handle ..."
-    publishedDateTime: 2023-06-14T02:23:00Z
-    webUrl: "https://www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796"
-    ampWebUrl: "https://www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796?amp=1"
-    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796?amp=1"
-    type: article
-    provider:
-      name: Telecom Lead
-      domain: telecomlead.com
-    quality: 74
-    images:
-      - url: "https://www.telecomlead.com/wp-content/uploads/2022/08/AMD-chipset-business.jpg"
-        width: 640
-        height: 300
-        isCached: true
   - title: "AWS is considering AMD’s new AI chips"
     excerpt: "Amazon Web Services, the world’s largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision, an AWS executive said. The remarks came during an AMD event where the chip company outlined its strategy for the AI market,"
     publishedDateTime: 2023-06-14T07:13:00Z
@@ -58,34 +42,6 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2022/11/lisa-su-1500-800.jpg"
         width: 1500
         height: 800
-        isCached: true
-  - title: "AMD launches new Instict MI300X AI chip to take on Nvidia’s GPUs"
-    excerpt: "During a keynote speech, AMD Chair and Chief Executive Lisa Su announced the company’s new Instinct MI300X accelerator, which is targeted specifically at generative AI workloads. Generative AI is the technology that underpins OpenAI’s famed chatbot ChatGPT,"
-    publishedDateTime: 2023-06-14T01:47:00Z
-    webUrl: "https://siliconangle.com/2023/06/13/amd-launches-new-instict-mi300x-ai-chip-to-take-on-nvidias-gpus/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 69
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image_2023-06-14_084033192.png"
-        width: 687
-        height: 371
-        isCached: true
-  - title: "AMD launches new Instinct MI300X AI chip to take on Nvidia’s GPUs"
-    excerpt: "During a keynote speech, AMD Chair and Chief Executive Lisa Su (pictured) announced the company’s new Instinct MI300X accelerator, which is targeted specifically at generative AI workloads. Generative AI is the technology that underpins OpenAI’s famed chatbot ChatGPT,"
-    publishedDateTime: 2023-06-14T02:27:00Z
-    webUrl: "https://siliconangle.com/2023/06/13/amd-launches-new-instinct-mi300x-ai-chip-to-take-on-nvidias-gpus/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 69
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image_2023-06-14_084033192.png"
-        width: 687
-        height: 371
         isCached: true
   - title: "Why are Nvidia's shares soaring and what is its role in the AI boom?"
     excerpt: "FROM GAMING TO AI: NVIDIA'S FOCUS SHIFT Nvidia, known for its chips used in videogames, pivoted to the data center market over the last few years. The company's business rapidly expanded during ..."
@@ -186,22 +142,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AMD Introduces New Lineup of AI Processors, Aiming to Compete with Nvidia"
-    excerpt: "AMD Instinct MI300 Series will include an accelerator that can speed processing for generative AI, similarly used by ChatGPT and other chatbots."
-    publishedDateTime: 2023-06-14T02:03:00Z
-    webUrl: "https://www.techtimes.com/articles/292565/20230613/amd-introduces-new-lineup-ai-processors-aiming-compete-nvidia.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/292565/20230613/amd-introduces-new-lineup-ai-processors-aiming-compete-nvidia.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292565/20230613/amd-introduces-new-lineup-ai-processors-aiming-compete-nvidia.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 58
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429590/spain-telecom-technology.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
     excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
     publishedDateTime: 2023-06-14T09:26:00Z
@@ -238,20 +178,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
-  - title: "AMD's AI chip challenge to Nvidia remains uphill fight"
-    excerpt: "Advanced Micro Devices Inc gave new details about an artificial intelligence chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know - who plans to buy it."
-    publishedDateTime: 2023-06-14T03:00:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/731843-AMD/'s-AI-chip-challenge-to-Nvidia-remains-uphill-fight"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 54
-    images:
-      - url: "https://img.dunyanews.tv/news/2023/June/06-14-23/news_big_images/731843_88288148.jpg"
-        width: 753
-        height: 423
-        isCached: true
   - title: "AMD’s AI chip challenge to Nvidia remains uphill task"
     excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know – who plans to buy it."
     publishedDateTime: 2023-06-15T01:16:00Z

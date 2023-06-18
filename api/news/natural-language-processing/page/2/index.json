@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-02-sigmaos-launches-a-contextual-ai-assistant-for-its-browser.md",
+      "title": "SigmaOS launches a contextual AI assistant for its browser",
+      "excerpt": "LocalGlobe- and Y Combinator-backed web browser startup SigmaOS launched its own AI assistant on Thursday to a limited set of people.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/",
+      "originalUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Explain.jpg?resize=1200,750",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/",
+      "publishedDateTime": "2023-06-02T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-ai-terminology-101-transformer-networks-revolutionizing-natural-language-processing-and-beyond.md",
       "title": "AI TERMINOLOGY 101: Transformer Networks - Revolutionizing Natural Language Processing and Beyond",
       "excerpt": "Traditional NLP models struggled to capture long-range dependencies and contextual relationships in language due to their ... relevant words or phrases while processing input.",
@@ -1318,58 +1370,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup.md",
-      "title": "Scaling Human Kindness In The Age Of AI: A New Kind Of Israeli Startup",
-      "excerpt": "In this age of dizzying technological innovation, no one has invented the technology to scale human capital. a humanitarian startup aims to scale kindness",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carrierubinstein/2023/05/18/scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup/",
-      "originalUrl": "https://www.forbes.com/sites/carrierubinstein/2023/05/18/scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646602d32c4c4bdd28b1abc6/0x0.jpg?format=jpg&crop=2889,1864,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carrierubinstein/2023/05/18/scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carrierubinstein/2023/05/18/scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup/amp/",
-      "publishedDateTime": "2023-05-18T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

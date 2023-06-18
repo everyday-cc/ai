@@ -43,6 +43,52 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Lending A Helping Hand to Fintech Businesses"
+    excerpt: "Demonetization acted as a catalyst in India to promote digital transactions which in turn accelerated the use of fintech platforms, including lending tech solutions as an alternative to cash-based transactions. Increase in Embedded Credit and AI-driven ..."
+    publishedDateTime: 2023-06-15T14:30:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/business-news/lending-a-helping-hand-to-fintech-businesses/454175"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1686838737-pexels-karolina-grabowska-4968630.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "3 Fintech Stocks With High Potential for Growth"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The financial technology (fintech) industry continues to reshape the landscape"
+    publishedDateTime: 2023-06-14T17:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-high-potential-for-growth-1032389799"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
+    excerpt: "Access to financing has long been a point of contention for micro, small, and medium-sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small businesses include the higher collateral requests by traditional financial institutions (58."
+    publishedDateTime: 2023-06-15T03:00:00Z
+    webUrl: "https://www.thaipr.net/en/business_en/3347796"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 19
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/06/TGO_post-b63bb766-768x402.jpg"
+        width: 768
+        height: 402
+        isCached: true
+  - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
+    excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."
+    publishedDateTime: 2023-06-16T14:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/24397/fintech-in-an-era-of-rising-interest-rates-and-economic-headwinds"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "The Future is Hybrid: Financial Services, the Fintech Industry, and Data Centers"
     excerpt: "In today's digital landscape, fintech has revolutionized the financial services industry, with seamless and convenient ways to manage finances. To achieve this, Fintech companies generate vast amounts of data,"
     publishedDateTime: 2023-06-16T10:59:00Z

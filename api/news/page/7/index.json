@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-13-the-benefits-of-automated-attack-surface-management.md",
+      "title": "The benefits of automated attack surface management",
+      "excerpt": "Start automating attack surface management with IBM Security Randori Recon.\nThe post The benefits of automated attack surface management appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-benefits-of-automated-attack-surface-management/",
+      "originalUrl": "https://www.ibm.com/blog/the-benefits-of-automated-attack-surface-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/21_58_p_gorodenkoff-023.lr_2x1.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T06:13:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-nice-announces-launch-of-digital-and-ai-advice-service-for-healthcare-sector.md",
+      "title": "NICE announces launch of digital and AI advice service for healthcare sector",
+      "excerpt": "The AI and Digital Regulations Service is a multi-agency collaboration between NICE, the Care Quality Commission, the Health Research Authority and the Medicines and Healthcare products Regulatory Agency (MHRA).",
+      "sourceUrl": null,
+      "webUrl": "https://www.pmlive.com/pharma_news/nice_announces_launch_of_digital_and_ai_advice_service_for_healthcare_sector_1493003",
+      "originalUrl": "https://www.pmlive.com/pharma_news/nice_announces_launch_of_digital_and_ai_advice_service_for_healthcare_sector_1493003",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pmlive.com/__data/assets/image/0006/1453227/Clinical_development.jpg",
+          "width": 480,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PMLiVE",
+        "domain": "pmlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-simple-ways-to-use-ai-in-your-business-without-deep-tech-knowledge.md",
       "title": "Simple Ways To Use AI In Your Business Without Deep Tech Knowledge",
       "excerpt": "Even if technology and AI are beyond your understanding or interest, there are a number of business functions that organizations can—and should—benefit from.",
@@ -1115,110 +1209,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-its-humans-and-ai-not-humans-vs-ai.md",
-      "title": "It’s Humans And AI, Not Humans Vs. AI",
-      "excerpt": "In 2013, IBM and MD Anderson embarked on a joint project ... The bar was set too high for Watson Health. In the area of diagnoses then, AI cannot replace humans—at least, not yet—but it can assist in certain diagnoses where there is enough data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6487382d36c8dc564b5004be/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/",
-      "publishedDateTime": "2023-06-12T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud.md",
-      "title": "Microsoft has added ChatGPT into the secure US government Azure cloud",
-      "excerpt": "Microsoft has announced its Azure OpenAI Service is now available to the US government in an even more secure format, with specific compliance promised for regulatory standards for classification and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud",
-      "originalUrl": "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/E9JMqiF2RG9PQAUBVnHM6h-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

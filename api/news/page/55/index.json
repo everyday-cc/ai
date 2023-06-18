@@ -2,6 +2,110 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-05-11-10-things-in-tech-tesla-teases-a-new-cybertruck-meta-eyes-hyper-targeted-ads-and-google-brings-ai-to-search.md",
+      "title": "10 Things in Tech: Tesla teases a new cybertruck, Meta eyes hyper-targeted ads, and Google brings AI to search",
+      "excerpt": "Etsy launches a wedding registry, DoorDashers demand more tip, and more headlines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5",
+      "originalUrl": "https://www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63c8ac85eee94d001a78e2e2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-amazon-facebook-microsoft-tesla-san-francisco-etsy-ai-2023-5?amp",
+      "publishedDateTime": "2023-05-11T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-face-recognition-systems-market-worldwide-industry-trends-2023-2030.md",
+      "title": "Face Recognition Systems Market | Worldwide Industry Trends 2023-2030",
+      "excerpt": "The report offers essential statistical information on the market status of Face Recognition Systems players, making it",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-how-europe-is-at-the-forefront-of-building-artificial-intelligence-guardrails.md",
       "title": "How Europe is at the forefront of building artificial intelligence guardrails",
       "excerpt": "Authorities around the world are racing to draw up rules for artificial intelligence, including in the European Union, where draft legislation faced a pivotal moment on Thursday. A",
@@ -1110,112 +1214,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-deepmind-cofounder-warns-governments-seriously-need-to-find-solutions-for-people-who-lose-their-jobs-to-ai.md",
-      "title": "DeepMind cofounder warns governments seriously need to find solutions for people who lose their jobs to A.I.",
-      "excerpt": "Mustafa Suleyman, who cofounded the London-based lab DeepMind, later sold to Google in 2014, told the GIC Bridge Forum event in San Francisco on Tuesday that policymakers needed to step up and provide some form of aid such as universal basic income (UBI).",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/",
-      "originalUrl": "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-961707246-e1683733321936.jpg?w=840",
-          "width": 840,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/10/artificial-intelligence-deepmind-co-founder-mustafa-suleyman-ubi-governments-seriously-need-to-find-solution-for-people-that-lose-their-jobs/amp/",
-      "publishedDateTime": "2023-05-10T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development.md",
-      "title": "Google expands TensorFlow open-source tooling for accelerated machine learning development",
-      "excerpt": "Google enhances TensorFlow with deep learning capabilities and parallelism techniques for developer choice in machine language tooling.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/",
-      "originalUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_google_deepmind_annc_042023-copy.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/amp/",
-      "publishedDateTime": "2023-05-10T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -55,6 +55,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Meta announces Voicebox, a generative model for multiple voice synthesis tasks"
+    excerpt: "One of the interesting applications of Voicebox is voice sampling. The model can generate various speech samples from a single text sequence."
+    publishedDateTime: 2023-06-18T20:40:00Z
+    webUrl: "https://venturebeat.com/ai/meta-announces-voicebox-a-generative-model-for-multiple-voice-synthesis-tasks/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 50
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_a_robot_speaks_into_a_microphone_67f9bdd0-06de-49c1-9e51-0eb05f82f74f.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
 
 secured: "Rny0zU455n3jt1WIqCy1ZaFdklbwso2c3fw9JY01gUBGYbluSHxKeODz7J4SMfO6S+4MuLYWvJj+LM5UBWA26froX3vbOpXcgpYP++6rec+7q/+F4qPyaGmuC+K/E/wk0zgaQZmgOWQX9cAH/oYv+V5bDmUVAwJfT5cQFC6h6ZeoqQW+47PaB9IEwgt7EP9zwPddy/uXAu9ZjvOQXnMKVMqIvrqgThT1X4SY0XsAXcnn1y9R5Lo1Zi+O380V7rdMXqWQ3wdCURJo5dr4LGnLOcnF2kmNuTvGYppkusyk1BeiAgjWkglNXoVsmrLVzcd5BzKm7QEd3mqEo+DjKHWMp4pflBkgocar+AOfMylbW3s=;VMb7VHF6dLDXmDmyPzj47A=="
 ---

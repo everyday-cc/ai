@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Google Translate vs. ChatGPT: Which One Is the Best Language Translator?"
-excerpt: "With the languages and AI models selected, we crafted some paragraphs in English that would reveal the limits of each service's translation capabilities. The first included two tricky ..."
-publishedDateTime: 2023-06-08T17:35:00Z
-originalUrl: "https://au.pcmag.com/ai/100375/google-translate-vs-chatgpt-which-one-is-the-best-language-translator"
-webUrl: "https://au.pcmag.com/ai/100375/google-translate-vs-chatgpt-which-one-is-the-best-language-translator"
+excerpt: "We put ChatGPT, Bing AI, and Google Bard to the test, asking people who are fluent in seven, non-English languages to rate how AI chatbot results compare to responses from Google Translate."
+publishedDateTime: 2023-06-08T17:29:00Z
+originalUrl: "https://www.pcmag.com/news/google-translate-vs-chatgpt-which-one-is-the-best-language-translator"
+webUrl: "https://www.pcmag.com/news/google-translate-vs-chatgpt-which-one-is-the-best-language-translator"
 type: article
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/g/google-tra/google-translate-vs-chatgpt-which-one-is-the-best-language-t_uqch.1200.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "gHzDrSJVYGbkk9iT5wjmoDYzD+c5gzyCbXggWWX7CHDuxjWhlJxEl/kbLqugEfIs7a6ydQzuhphD62I63hRgRJIcWTBhtoX9N+to+CracjoWPasWijKJLCqZm3g8WPliYFOyaMrMVynNLJsOoc4O9LcyPvCCugVgOcdfSoJEcWXIhFBw7tt5qhYOR9QW6lZYiTbTMOsi629wsoup9Bn1qtflz5MpnYhwlhxwsH+6wOAA0enF1c7aGuswUNuPd2h8vg/1sPTVJ+/lzF/gX0PHev251eihgGNs7cJotVzeUIBynkk89sOZ91YhSiPhIWBLPOJGEwosLHCZ8+RzkwLQEbdRFAIiRGZlcCKNnHPaPIQ=;SON6w5CprDeVuNPe4xh0ug=="
+secured: "UG/TdsTSNPdaeIos9HW8KprzKoVBnosnNtm15YRtNicN6O6hNtqn5qSMIMUkiCzUXTPF19qfQsR9Zouub1svmRNM4unjm+g4mFwbNIc6dNhTo3qgp3BUk+nco1zwjuzA2667PHDnOohFpWHKgtzMbt2XA9g8xBAhsS/T2okTyvD33fNVzoQlmSAKKBR7gk1OribyZGE2FSR1/E5yheVmPDpaQvcGkEoJr0qyfe1DsEMErF+ExvlHKg5cLDyoqeH3Umlu/5YKgOEnyIvjxqXCruCgZhok5vOYup1XdRtYy6f/HSc8qui3t2e29yW53tAOQprEN7nv7Mn+vBju/9vHe3EU+Vj5N+4S0jt732b30uhIMevrpI18A/7JfYstbZQijaH4+CbxaAbkqR5vUjCnEjWNcUbQJTLi7zAPzzVEWipaXgZ5XVnb3XZ9VdP/8GDu4ENRxqPqq9PjVwYZBSaWdHseI6i83Q2tf1DO+cUFjTCe6XDA4/FdguIdvVbeWPDxtIghDfig7UmW1HutG16DzA==;ZeUWzuDDtPfE5pAO73a5kw=="
 ---
 

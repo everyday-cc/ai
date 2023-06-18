@@ -18,49 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Introducing new AI-powered ad solutions to drive demand"
-    excerpt: "Google and YouTube’s new AI-powered solutions help advertisers multiply their creativity and generate demand."
-    publishedDateTime: 2023-06-14T04:00:00Z
-    webUrl: "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/"
-    ampWebUrl: "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/amp/"
+  - title: "Google’s new AI will show how clothes look on different body types"
+    excerpt: "Google is launching a fashion-related generative AI that aims to make virtual clothing try-ons more realistic. The company compares it to Cher’s closet preview tech in the movie “ Clueless .” This new tool will first be available in the US for brands like Anthropologie,"
+    publishedDateTime: 2023-06-14T20:15:00Z
+    webUrl: "https://www.popsci.com/technology/google-try-on-generative-ai/"
+    ampWebUrl: "https://www.popsci.com/technology/google-try-on-generative-ai/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-try-on-generative-ai/?amp"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/edited2-VVC__Demand_Gen_Launch_Hero_Image_V04.width-1300.png"
-        width: 1300
-        height: 733
-        isCached: true
-  - title: "AI and machine learning will dominate new solutions"
-    excerpt: "On how AI and machine learning is transforming risk management practices ... the application of cloud strategies in risk management have been beneficial to financial services companies by replacing dated legacy infrastructure. Using cloud services ..."
-    publishedDateTime: 2023-06-15T09:01:00Z
-    webUrl: "https://www.finextra.com/the-long-read/681/ai-and-machine-learning-will-dominate-new-solutions"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 56
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/681.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Google’s new AI-powered search tools are not coming for anyone’s job"
-    excerpt: "Google is adding new capabilities to its AI-powered search (aka SGE), but it's still a far cry from the usefulness of a standard search."
-    publishedDateTime: 2023-06-17T00:42:00Z
-    webUrl: "https://bgr.com/tech/googles-new-ai-powered-search-tools-are-not-coming-for-anyones-job/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/Google-Search-AI-Speakers.jpg?quality=82&strip=all"
-        width: 1492
-        height: 877
+      - url: "https://www.popsci.com/uploads/2023/06/14/BlogImage1.png?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
 
 secured: "Z+zaFp8l9BfD3Bf0ysZZ22CUl43lM5witEnv0/qP4QX+P7Z8Oihwf4xU4iOrb4ItLQI1GO7Q1XoVJlT03+ZT366+Aox0mb+hUFHdmpamQNqBAnWNRa5bCAj4QJ6EFvjL3rHofxsTREau/P4ZmUbpRK7BnUEkzD3wcJe6uUYWm1kEx1eQvh5ih+U6QYjJdr5SpKV4daeIocfpuZcDBWs2Hs2LR2DpUwfbou+j7zk9/d8tRKySnY+sxv++XoYnJVT3dJJzVFzMk39HYK9SKD50Egav+/w1G5kRli5zb0XNTcVxOCXkZ7FEjOMLqxdmKr2p93jYWeTBlDSlvzBr/jsRBkfaQ6RmuOaZ+w6GnhgKQJjZ3Dt9z7h39qZ22TSlz7BmDoECf0MIlSTBd7LVM+jqwHXAP1GA8Vp0HHKt2O/voLcQxji/RlZ1e2nzdpguoTcLtMTRmqbUFW/wApbauDz+PbbR5dTOGJORLRgHTP43a35qEJiR8zGR8tc0WnUo1HuEFHn3fDxlxBEIpeHoksoTjA==;b+VJr0oscVpqOMlJWI1u/g=="

@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/06/15/9833321.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833321.htm"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Is OpenSource AI Threatening The Tech Titans?"
+    excerpt: "Open-source AI can be defined as software engineers collaborating on various artificial intelligence projects that are open to the public to develop. The goal is to better integrate computing with humanity."
+    publishedDateTime: 2023-06-18T21:54:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/06/18/is-opensource-ai-threatening-the-tech-titans/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648f7a783dd766b3fe5e44a7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "n4lmH1dzRp6gecXFecJ0vsAZ06W3DUbnPH3k1cPLBXjIzXesS9oRLZVcS4D3RpU4W2uo0Xg4ITob1d0pfE45Rnq3e+EqSQy2lAFyBImIwsY/JG+skI6YwV1namr+sa/zsHVwORL+ZY6lfFotIQbhkHdDD43Wq8QwMKYuPGW8H7JTO/fRNtZjT2Qfbw7ehwgvJ3WQophEW/vP4ONxstL2X01AhVDijOUFTX5pITgI22BAljDZLmYV9HAbinpb5LMW4s/+0rppqBso985fMxN7Yi0/eDxGS8MUkQwH6C2X2ltgJI+0xMiCFklBFZwtbETbvUQs2GxpDGlrSqcR49ygEHEbDf3b2LXIMW3q2EjMzxM=;tPAEWgJ8Y+XtkUynAwSrFQ=="
 ---

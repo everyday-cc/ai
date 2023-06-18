@@ -46,7 +46,7 @@ related:
     provider:
       name: Robohub
       domain: robohub.org
-    quality: 10
+    quality: 12
     images:
       - url: "https://robohub.org/wp-content/uploads/2023/06/T1D-article-425x283.jpg"
         width: 425

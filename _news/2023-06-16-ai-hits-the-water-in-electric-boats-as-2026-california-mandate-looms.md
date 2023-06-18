@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-wat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
     provider:
       name: Davis Enterprise
       domain: davisenterprise.com
+    quality: 12
+  - title: "California professors test out AI in the classroom, even as cheating debate continues"
+    excerpt: "While some California college professors remain concerned about students using generative AI such as ChatGPT to cheat in class, a growing number are choosing to encourage its limited use in classroom assignments."
+    publishedDateTime: 2023-06-18T18:05:00Z
+    webUrl: "https://www.capradio.org/articles/2023/06/18/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
     quality: 12
 
 secured: "spy85Ki17CpwA/oEDar5x1Z0Vkpp3B0Gq/cMowcHW/fD/THKjIQU5xHnhyXZ7IP2aESnjr7i3lKPkjH6KrbI5O6kvOSsDZ0u1yRhc5/YGIz31VfnVVL8EJ3S/hRx9zcmv8BRHcJlND+mFY+VnoW6hzKrH4dI9tl95kAYYXECrGBfZr/m5szdowD1BaooV3v3XNpoLGMs4ekWcaGaItNPq0nN4DzfGmbFOb09UVCb6vHwaHmpvi17d7uIUGLrQTdm8NnKQjZsiTHDYIhZiUcCZNI92R25tdueJqCrHX5SnC77V5pPwvsB45eMhvn1PrRCYAxRJ9Ae6QLuYZle1Gr9rwuXfIS+A1fYsuzFUwMRVB8=;WHTTCFVAQKZ2P7xK7D4YGw=="

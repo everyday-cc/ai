@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Indigenous voice to parliament Yes campaigner Thomas Mayo’s radical vision"
+    excerpt: "Prominent Yes campaigner for the Indigenous voice to parliament Thomas Mayo has described former prime minister John Howard as a “bastard” and threatened that politicians would be “punished” if they ignored the voice advisory body."
+    publishedDateTime: 2023-06-18T21:41:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-yes-campaigner-thomas-mayos-radical-vision/news-story/3368b82d2d1d2ba5d08512ea6940a0b9"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-yes-campaigner-thomas-mayos-radical-vision/news-story/3368b82d2d1d2ba5d08512ea6940a0b9?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-yes-campaigner-thomas-mayos-radical-vision/news-story/3368b82d2d1d2ba5d08512ea6940a0b9?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 37
   - title: "Shock of recognition as Yes vote for Indigenous voice to parliament softens"
     excerpt: "The Yes campaign for an Indigenous voice to parliament and executive government is in trouble even before final passage of the referendum legislation next week and the official announcement of a poll date – expected to be in October."
     publishedDateTime: 2023-06-16T23:30:00Z

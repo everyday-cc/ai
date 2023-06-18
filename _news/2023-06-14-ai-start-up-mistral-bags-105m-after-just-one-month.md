@@ -40,6 +40,31 @@ related:
         width: 650
         height: 399
         isCached: true
+  - title: "Generative AI startup Mistral AI raises 105 million euros in seed-stage funding"
+    excerpt: "The company is founded by ex-Meta and Google AI researchers, Guillaume Lample, Arthur Mensch and Timothee Lacriox."
+    publishedDateTime: 2023-06-14T07:13:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/generative-ai-startup-mistral-ai-raises-105-million-euros-in-seed-stage-funding-10794871.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 53
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Generative AI start-up Mistral AI raises €105 million in seed stage funding"
+    excerpt: "AI is the future, and is totally off to races. It can be estimated by the fact that a four week old starter has picked up €105 million just in the seed funding round and is already a rival to Open AI in the building,"
+    publishedDateTime: 2023-06-14T11:53:00Z
+    webUrl: "https://techstory.in/generative-ai-start-up-mistral-ai-raises-e105-million-in-seed-stage-funding/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 15
 
 secured: "AlpfjiBJyWNk1UaD+3W7kLLR/rVikJ3gRZelEBUcMBDyethX6JvqeDqim5JqKXikkKfM806dK3POOKpOhMWFs8nHsPettwBlvaqgjT9BP//+nlKqHXGE5MA7iruXVsxnKwBMWGqXSKjfftnFu61GYcV2bnn2Chql2sHEdJTsHInlCwLnKrUxVQdsodH8Q2rkHnF1WFc8cSh8PMq+aO3+plbb6C7lSDwWc3P1hzCi56hocCmvpk5vHWtxCnxAkchHRbPW+HNfc2XJS7nK/OX+ssC0Uuob6jiCSvRNsh6wAtWja2CpoPPNjy/G7da93+SS5mpXoKsxRejHvS6nbzUrMaoyLU6JNWrhsQSBNVIcKhI=;LGk8FS0nHJjqDONGZGt+aQ=="
 ---

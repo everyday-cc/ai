@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-17T09:29:00Z
 originalUrl: "https://robohub.org/machine-learning-method-used-for-self-driving-cars-could-improve-lives-of-type-1-diabetes-patients/"
 webUrl: "https://robohub.org/machine-learning-method-used-for-self-driving-cars-could-improve-lives-of-type-1-diabetes-patients/"
 type: article
-quality: 10
+quality: 12
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://robohub.org/wp-content/uploads/2023/06/T1D-article-425x283.jpg"

@@ -34,6 +34,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Grammys OK AI Use in Music—But Ban Fully AI-Generated Songs"
+    excerpt: "A rtificial intelligence is permeating the artistic world—a fact the Recording Academy, the organization behind the Grammy Awards, is accounting for under their new eligibility requirements that restrict fully AI-generated songs but allow for its use in award-eligible music."
+    publishedDateTime: 2023-06-18T17:23:00Z
+    webUrl: "https://time.com/6288131/grammys-ai-rules/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 47
   - title: "Grammy Awards Restrict AI: Only ‘Meaningful’ Human Work Will Be Recognized"
     excerpt: "Any song created by artificial intelligence must have a “human authorship component” that is “meaningful,” according to new eligibility requirements."
     publishedDateTime: 2023-06-16T19:34:00Z

@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How generative AI is creating new classes of security threats"
+    excerpt: "Why we must act now so that security professionals can develop strategies and react as large-scale issues arise with the evolution of AI."
+    publishedDateTime: 2023-06-18T18:09:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Adobe Proves Its Determination To Lead The New Era Of Generative AI"
     excerpt: "When it comes to Azure, Microsoft is facing the same dilemma because Amazon.com Inc AMZN has a much bigger representative on this front, Amazon Web Services. Amazon also launched its own platform that allows building and scaling generative AI services ..."
     publishedDateTime: 2023-06-16T14:52:00Z

@@ -51,6 +51,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "California professors test out AI in the classroom, even as cheating debate continues"
+    excerpt: "While some California college professors remain concerned about students using generative AI such as ChatGPT to cheat in class, a growing number are choosing to encourage its limited use in classroom assignments."
+    publishedDateTime: 2023-06-18T18:05:00Z
+    webUrl: "https://www.capradio.org/articles/2023/06/18/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 12
 
 secured: "asTTiE2L0f8qz40lOv3b5T2oI9WWVl36s3n8BL4TRlgg7FBF3ybyGZW/Gcb9Iou3nybZmqkZ/slkMmLh4Ms5mQULZzOsUZy+t8SkWbKnS483gEy8jtwfe/z8OHQHLgUvXOXNogbTExO1QyUgtxGxQ1OflPTq5vR0U91VfOZVLgt76PAtlo4MGiU79Lon2jnueH6s5grddfCtdA210PqxhcHrnmTKorCLVJ1Ta99tXS1LqFTnCjYwwesQxbFU5isNkCyC4bfGG8xlp1Rl5zw2gBKA6NXdw08qUovgtq+idQ+wP5RYMHel7kZZFnhdd1pJ/yawKB37BKsUaoaOgWUZ5KmMckn/ZcobCs6EEcB4wWRuSKK2tX9Vl7UhdrGLND8GrjRNCBsgxt+0Jn+RusiKJ85meold9zY7DBSqqM8tkrznfnI5lXl8ZqiWp5fWsQLhaSOFv/9dP1s4sPXGkPLYE3L5d2xAV8zTr03n1Y7Wub+29iQrZPwCudtyxWxCRthEP5aocwMh4/kPIS/4U4xWfg==;982FQRrm+qVqVCMUSieqzg=="
 ---

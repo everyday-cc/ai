@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How generative AI is creating new classes of security threats"
+    excerpt: "Why we must act now so that security professionals can develop strategies and react as large-scale issues arise with the evolution of AI."
+    publishedDateTime: 2023-06-18T18:09:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Asia’s opportunity for generative AI"
     excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
     publishedDateTime: 2023-06-14T16:00:00Z

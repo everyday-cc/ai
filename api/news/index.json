@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-19-is-opensource-ai-threatening-the-tech-titans.md",
+      "title": "Is OpenSource AI Threatening The Tech Titans?",
+      "excerpt": "Open-source AI can be defined as software engineers collaborating on various artificial intelligence projects that are open to the public to develop. The goal is to better integrate computing with humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/06/18/is-opensource-ai-threatening-the-tech-titans/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/06/18/is-opensource-ai-threatening-the-tech-titans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648f7a783dd766b3fe5e44a7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-18T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-18-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services.md",
       "title": "Fintech Paro Raises $25M via Series C to Build Enterprise Platform for Finance, Accounting Services",
       "excerpt": "Paro, a Chicago-based startup disrupting the way companies access on-demand finance and accounting expertise, raises $25 million via Series C.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -534,7 +585,7 @@
       "originalUrl": "https://nypost.com/2023/06/16/could-a-robot-win-a-grammy-ai-music-is-eligible-sort-of/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -577,7 +628,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-makes-anyone-speak-a-foreign-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -766,6 +817,50 @@
         "Google AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-growth-opportunities-in-artificial-intelligence-machine-learning-generative-ai-nlp-synthetic-data-saas-no-code-designops-2023.md",
+      "title": "Growth Opportunities in Artificial Intelligence, Machine Learning, Generative AI, NLP, Synthetic Data, SaaS, No-Code, DesignOps 2023",
+      "excerpt": "The \"Growth Opportunities in Artificial Intelligence, Machine Learning, Generative AI, NLP, Synthetic Data, SaaS, No-Code, DesignOps\" report has been added",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32894493/growth-opportunities-in-artificial-intelligence-machine-learning-generative-ai-nlp-synthetic-data-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32894493/growth-opportunities-in-artificial-intelligence-machine-learning-generative-ai-nlp-synthetic-data-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32894493",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32894493",
+      "publishedDateTime": "2023-06-16T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1101,109 +1196,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms.md",
-      "title": "AI Hits The Water In Electric Boats As 2026 California Mandate Looms",
-      "excerpt": "With a state deadline approaching to electrify short-run ferries and millions in funding to do it, climate focused maritime startups are flocking to San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6483792e6d12c36843fbe46d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/amp/",
-      "publishedDateTime": "2023-06-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-navigating-the-ai-frontier-unlocking-new-opportunities-for-press-and-marketing-exposure.md",
-      "title": "Navigating The AI Frontier: Unlocking New Opportunities For Press And Marketing Exposure",
-      "excerpt": "The brands that thoughtfully adopt AI-powered tools and navigate this new frontier that can not only survive but thrive in the age of intelligent machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/navigating-the-ai-frontier-unlocking-new-opportunities-for-press-and-marketing-exposure/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/navigating-the-ai-frontier-unlocking-new-opportunities-for-press-and-marketing-exposure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6409dd0c5d71339822b50055/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/navigating-the-ai-frontier-unlocking-new-opportunities-for-press-and-marketing-exposure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/navigating-the-ai-frontier-unlocking-new-opportunities-for-press-and-marketing-exposure/amp/",
-      "publishedDateTime": "2023-06-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

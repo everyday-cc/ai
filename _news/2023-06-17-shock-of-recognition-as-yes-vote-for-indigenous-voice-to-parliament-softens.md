@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theaustralian.com.au/inquirer/shock-of-recognition-as-ye
 cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/shock-of-recognition-as-yes-vote-for-indigenous-voice-to-parliament-softens/news-story/dba6e38a90e15946477b3c30aa021d87?amp"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "Indigenous voice to parliament Yes campaigner Thomas Mayo’s radical vision"
+    excerpt: "Prominent Yes campaigner for the Indigenous voice to parliament Thomas Mayo has described former prime minister John Howard as a “bastard” and threatened that politicians would be “punished” if they ignored the voice advisory body."
+    publishedDateTime: 2023-06-18T21:41:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-yes-campaigner-thomas-mayos-radical-vision/news-story/3368b82d2d1d2ba5d08512ea6940a0b9"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-yes-campaigner-thomas-mayos-radical-vision/news-story/3368b82d2d1d2ba5d08512ea6940a0b9?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-yes-campaigner-thomas-mayos-radical-vision/news-story/3368b82d2d1d2ba5d08512ea6940a0b9?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 37
   - title: "No camp can’t afford to sit back as Indigenous voice to parliament support falters"
     excerpt: "This is because few No donors are prepared to be outed via mandatory disclosure of amounts over $15,000 and because the No campaign still has not gained tax deductibility for donations, even though Yes has had it since last October and the Prime Minister announced it for both sides months ago."
     publishedDateTime: 2023-06-14T23:30:00Z

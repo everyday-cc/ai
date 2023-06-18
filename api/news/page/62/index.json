@@ -2,6 +2,100 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-05-09-finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth.md",
+      "title": "Finovax Leads the Charge in Fintech Innovation: AI-Powered Solutions Drive Business Growth",
+      "excerpt": "New York-Based Fintech Company Embraces Artificial Intelligence to Revolutionize Financial Data Products and Fuel Expansion New York, United",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-1032302798",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/finovax-leads-the-charge-in-fintech-innovation-ai-powered-solutions-drive-business-growth-1032302798",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-uipath-co-ceo-rob-enslin-on-ai-and-workplace-automation-the-c-suite-interview.md",
+      "title": "UiPath Co-CEO Rob Enslin On AI And Workplace Automation: The C-Suite Interview",
+      "excerpt": "\"We're at that tipping point,\" says the co-CEO of UiPath. \"When I was at Google, I thought we were at a tipping point but it didn't happen.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dianebrady/2023/05/08/uipath-co-ceo-rob-enslin-on-ai-and-workplace-automation-the-c-suite-interview/",
+      "originalUrl": "https://www.forbes.com/sites/dianebrady/2023/05/08/uipath-co-ceo-rob-enslin-on-ai-and-workplace-automation-the-c-suite-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64595346c962fe6795be84e7/0x0.jpg?format=jpg&crop=2455,1381,x5,y17,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy.md",
       "title": "Chinese Tech Companies Forced To Think Outside The Box To Overcome US Chip Ban In The Race For AI Supremacy",
       "excerpt": "By the time the sanctions were issued in October, Chinese institutions were producing 4.5 times more research papers on the topic of AI than American ones, according to a report released by State of AI. The release of ChatGPT in November 2021 by OpenAI ...",
@@ -1104,100 +1198,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-makemytrip-introduces-microsoft-ai-to-make-travel-more-inclusive-accessible.md",
-      "title": "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible",
-      "excerpt": "MakeMyTrip introduces Microsoft AI to make travel more inclusive, accessible - Leading online travel company MakeMyTrip said it has collaborated with Microsoft to make travel planning",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconindia.com/news/general/makemytrip-introduces-microsoft-ai-to-make-travel-more-inclusive-accessible-nid-222799-cid-1.html",
-      "originalUrl": "https://www.siliconindia.com/news/general/makemytrip-introduces-microsoft-ai-to-make-travel-more-inclusive-accessible-nid-222799-cid-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconindia.com/news/newsimages/fW35MAc4.jpg",
-          "width": 570,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconIndia",
-        "domain": "siliconindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai.md",
-      "title": "Should We Be Worried About AI? I Thought Not, Until I Asked An AI",
-      "excerpt": "With the introduction of ChatGPT last November, millions of people suddenly discovered that AI was far, far more than just a research activity. The range and sophistication of ChatGPT’s answers to questions across a wide range of disciplines is,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/",
-      "originalUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6457a40845ad46981d9c02fc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevensalzberg/2023/05/08/should-we-be-worried-about-ai-i-thought-not-until-i-asked-an-ai/amp/",
-      "publishedDateTime": "2023-05-08T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
