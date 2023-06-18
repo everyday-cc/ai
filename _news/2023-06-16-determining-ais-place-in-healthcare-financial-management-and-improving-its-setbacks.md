@@ -41,22 +41,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Why Use Python for AI and Machine Learning?"
-    excerpt: "1. Versatility: The extensive libraries of Python and its framework provide various tools for tasks like NLP, data manipulation, and Machine Learning. This usage flexibility gives the AI developers the leverage to integrate different components and develop an intricate AI system."
-    publishedDateTime: 2023-06-13T11:13:00Z
-    webUrl: "https://www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning-11686566054332.html"
-    ampWebUrl: "https://www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning/amp-11686566054332.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/why-use-python-for-ai-and-machine-learning/amp-11686566054332.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/12/600x338/Screenshot_2023-06-12_160547_1686566275246_1686566280852.png"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Part One: Can Next Gen AI Upend Financial Services Over The Next Five Years?"
     excerpt: "The financial services industry has proven surprisingly resilient to disruption. How will generative AI technology change financial services?"
     publishedDateTime: 2023-06-15T18:04:00Z

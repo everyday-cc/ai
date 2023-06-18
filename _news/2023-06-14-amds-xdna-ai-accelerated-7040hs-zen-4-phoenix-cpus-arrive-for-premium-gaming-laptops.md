@@ -41,15 +41,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "AMD Ryzen PRO 7000 Series CPUs: The future of AI-powered business for laptops and (maybe) desktops"
-    excerpt: "Ryzen to the challenge with AI-powered CPUs for business pros. AMD announces its new Ryzen PRO 7000 series of processors for desktops, notebook laptops, and workstations, focusing on energy efficiency and AI."
-    publishedDateTime: 2023-06-13T13:00:00Z
-    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/amd-ryzen-pro-7000-series-desktop-mobile-cpus-announced"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 5
 
 secured: "RerTea+G5evOWczyhaTXpUgb/+bEYT1P714mGRWuv+j+d6HI4iSpcDkDLgKoWp0oXD5pEOzuSXwcf0y+oG9S+kYMZKfBRKl2ldP/jxwZe3f9vRwqJyLt7IlxT+7URuzkKxUcyZscD84tG2e5mTEOv8pOP5Zu+C7Yd6fyRlImpxW+LBveprCBWW58VlIz5XPCA9lA8OFvg+icxyy/Dtl8DzPN05g1QTMOjcxpC2L2GDKQnXcwA9TzFfxLHHzcVyXkizBiglNz++fdQQsbw7LCOlK9leUoxstj90VKORaWzXY096ruGRDA5ktSNc4nFICxpXNl3TtzrRXuf5DAmA+bp74KJYrfSdMM3njy8JVA8XgdeH7REM1Kq6F/cZuwXgz8kUyr6UdycnB1YdpfNT8qj9BRQ2frBcb+9MdY7/41dN23UunC3i4SUA3UJTmPGH9YEZX0f1bPJqUYmuctRR2pON7HqTNlijDfJCwDm453AVZy2G3gFsSSCm0F23lSTV0wkrE3auHVxMpbyF2VELVzdQ==;2vUrV5Vhe2gVXxa/JXJXEw=="
 ---

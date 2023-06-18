@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/2023/06/208841-fintech-apps-ameri
 webUrl: "https://www.crowdfundinsider.com/2023/06/208841-fintech-apps-american-consumer-credit-counseling-accc-to-introduce-creditu-mobile-app/"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1280
     height: 960
     isCached: true
-
-related:
-  - title: "Momnt Named a Best Place to Work in Fintech by American Banker"
-    excerpt: "We have successfully achieved both of these objectives and as we continue to grow and expand, our commitment remains unwavering in cultivating a supportive and enjoyable workplace.\" Recently, Momnt was also named to Inc."
-    publishedDateTime: 2023-06-13T12:01:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/momnt-named-a-best-place-to-work-in-fintech-by-american-banker/article_a17c3f28-aa58-5d1e-a65d-246fa93f85ea.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 19
 
 secured: "HpJAMHcYXXCDl5O4JlDFmjyFTyEB3AlK9mEeGaAC2g3mtpz9aA5rX+2mgjA7kbMpQ/ea8YRa4g8fjpZ0iunDnJgbRIHRvgnzrFZKE06VzyM4OdlCuSq0Qgmj42AYYY0hQcm6Xov3ks+l0VHV34dgqpNI+NfnmREMF9i5Sn4QF8katWtoyn0tDFLmy076mAnQzdci1vqSnC7wu7EHBrbOjHxYjLChdc7VSAD8Ntsj11/1QOGclmxDT7HWW0Ck1WTc8STkXGiqdGYBEDKhSuzbZJknxz5AfX3x+W65bvE2hMT9yO9tDgY8WvwSRGUOZF9c1V56JQpsd1yeKFQa/Dv4+f1AJIEWALu99x98s+DubZ+JXoZWmDg/OUwd3EgqCQKZSaKAyIgxMW6/iMUDEKewq1rYnNe/qwAgiLyyZLGmiY11nUjGqctLoUNduHK+Sy8ThjvQqycYgVEn0jZvBXYzii5ir54ysQtfFpYfmKgu07JSdZMfE3T37OzoGadmgikn2oYMppAxs3JjUk+0pgfaGg==;aOctpCV0Fuoufp+YRpxpig=="
 ---

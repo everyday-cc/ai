@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32849554"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32849554"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta AI researchers unveil I-JEPA, a computer vision model that learns more like humans do"
-    excerpt: "Artificial intelligence researchers from Meta Platforms Inc. say they’re making progress on the vision of its Chief AI Scientist Yann LeCun to develop a new architecture for machines that can learn internal models of how the world works."
-    publishedDateTime: 2023-06-13T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/06/13/meta-ai-researchers-unveil-jepa-computer-vision-model-learns-like-humans/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
   - title: "Meta’s ‘human-like’ AI model available soon"
     excerpt: "I-JEPA is contrary to other generative AI models. Meta's 'human-like' AI model available soon. AI, Artificial Intelligence, I-JEPA, META, META.O. Emergent Tech."
     publishedDateTime: 2023-06-14T06:04:00Z

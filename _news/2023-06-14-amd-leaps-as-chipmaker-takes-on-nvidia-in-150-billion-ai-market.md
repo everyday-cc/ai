@@ -365,15 +365,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "AMD likely to offer details on AI chip in challenge to Nvidia"
-    excerpt: "Advanced Micro Devices on Tuesday is expected to reveal new details about an AI \"superchip\" that analysts believe will"
-    publishedDateTime: 2023-06-13T11:02:00Z
-    webUrl: "https://wsau.com/2023/06/13/amd-likely-to-offer-details-on-ai-chip-in-challenge-to-nvidia/"
-    type: article
-    provider:
-      name: WSAY
-      domain: wsau.com
-    quality: 34
   - title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
     excerpt: "Wall Street has singled out a number of chips companies that could get a boost from generative AI. The combined stock market value of AMD, Broadcom and Marvell jumped by $99bn, or 20 per cent, in the two days after Nvidia’s stunning sales forecast last month. But their AI-related sales are not expected to come from the market dominated by Nvidia."
     publishedDateTime: 2023-06-15T10:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2023/06/15/9833388.htm"
 webUrl: "https://it.tmcnet.com/news/2023/06/15/9833388.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "WiMi to Develop A CNN-based Optical Scanning Holography Reconstruction Algorithm"
-    excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider,"
-    publishedDateTime: 2023-06-13T12:00:00Z
-    webUrl: "https://www.asiaone.com/business/wimi-develop-cnn-based-optical-scanning-holography-reconstruction-algorithm"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 0
   - title: "WiMi Hologram Cloud to Introduce A 3D-CNN-based Hologram Classification Algorithm"
     excerpt: "Using a 3D stereo hologram as input can capture the shape and spatial features of the target more accurately. The hologram image passes through convolutional, pooling, and fully connected layers, from which the algorithm extracts feature information and filters and optimizes it layer by layer."
     publishedDateTime: 2023-06-16T12:07:00Z

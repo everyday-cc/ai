@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "WiMi to Develop A CNN-based Optical Scanning Holography Reconstruction Algorithm"
-    excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider,"
-    publishedDateTime: 2023-06-13T12:00:00Z
-    webUrl: "https://www.asiaone.com/business/wimi-develop-cnn-based-optical-scanning-holography-reconstruction-algorithm"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 0
   - title: "WiMi Hologram Cloud Designed A Sensor-based Electro-Holography Gesture Control System"
     excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced the development of a sensor-based electro-holography (EH) gesture control system."
     publishedDateTime: 2023-06-15T17:07:00Z

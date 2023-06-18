@@ -22,22 +22,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "High-Tech Robots Fit for Your Home"
-    excerpt: "From do-it-all in-home companions and single-task servitors to security drones and A.I.-powered puppies, today’s smart robots bring the glorious technological future to your home now. Here are our picks for high-tech robots for your home."
-    publishedDateTime: 2023-06-13T11:27:00Z
-    webUrl: "https://www.mansionglobal.com/articles/high-tech-robots-fit-for-your-home-a186ae63"
-    type: article
-    provider:
-      name: Mansion Global
-      domain: mansionglobal.com
-    quality: 39
-    images:
-      - url: "https://images.mansionglobal.com/im-81441837/social"
-        width: 1280
-        height: 640
-        isCached: true
-
 secured: "lPDUh2lKgMXtYbL8NWF/fhDm61I1WrInYuScpDaU7mlnZWkhEoFJ/qLnTCuvXUwdfKspqkNLPOsiC3DkXiiuSc51vNa2U3lOuOXVmZsXq0yn7Thgoq4UBrYKONOGRuLQtx6ynhuaQ3m4nbQv0K1uAWhinvzzJHC7zpVOPmpoeT/TBBOVbuu7zNN9TDSNoiDSN9vHtfj85uUrc2i667KrxLBWS8tXNPC/xMRH66KtpoW695wnl3ckz/gckcbYuBKBu2EzeS753dtYwoOyl+lLPaLkwvhaSHXPamgiSWAZDH/uErTldU2wpFshYTp3nJMzbQrSiDJaxVzDN5rsxoPc5MemO5yWZibbF/8256ViViLh86BPGMqtVTmBWHaTpYZUKafiU9dFBEyf1L4pWC5UmIawcvJMVAph1KpYQu6NozGHrbVlHxIPpnMcpcKgetPoNx/C42Tj/M/cyrDq6p6K1zQ4K+gnRj2um5/DgZ2oCxGAxZkoXrjBQPVVjlM9slCGwC34uySJohWzxCcSIB60Ww==;WT97b/Kwqq/Q2Mp514Z+uw=="
 ---
 

@@ -33,20 +33,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Combining Azure Cognitive Search with the Azure OpenAI Service"
-    excerpt: "Learn more about combining Azure Cognitive Search with the Azure OpenAI Service to create a wealth of useful applications to help both your"
-    publishedDateTime: 2023-06-13T11:31:00Z
-    webUrl: "https://www.geeky-gadgets.com/azure-openai-service/"
+  - title: "OpenAI’s Mira Murati: the woman charged with pushing generative AI into the real world"
+    excerpt: "The potential risks of AI software, especially as it becomes more powerful, are top of mind for policymakers and the business and research communities. Among these are challenges like the spread of AI-generated manipulation and misinformation. In the ..."
+    publishedDateTime: 2023-06-18T04:10:00Z
+    webUrl: "https://www.ft.com/content/73f9686e-12cd-47bc-aa6e-52054708b3b3"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiS36n9rO6OQ%2F0.jpg"
-        width: 480
-        height: 360
-        isCached: true
+      name: The Financial Times
+      domain: ft.com
+    quality: 11
 
 secured: "EFLoUVm/Kcv2cadY9q6l61W4V2YTQKh2smZziQ4hokNuKhPeqCEWFiLIX+ql42I592qaGlZzlwFyP9OJf8O6BMGHABZ+iHdiN9UTH8wz6rVRhdQeKFvg/Yoct+HXnWGt0l/o6RMl/hGcJ/lQtjbRNp1GkGHrE1rLJ7IUfcRwiIAxymeNdqXVJKmlDkgXfrArS4PPKZm05ZGjyVTJ64GO/3zeAsO+wEmhjlwIr7hstIsa7Zh18t4Tk7z9cbHJ0nNIrru6cQVhEhjvaMl9tob7BfHfAJ3c0rSio5MNsuQ6jn3TcWJ13g7rtQBUpDdj/bUIev/RWEUK2+PIY++qVyEQdsObs44A0qD8/oFOfgkPOysbu/4aZxzGn7EdxM6xk0/BW/UgEFb2M12LEu8Y7JdMUlB2kWHwo//sCI3xDrBfAO34qLCbc2/AeGfmsscY/Hm2/3bKoM6pGp/J7ODzMP8Po6HwXS7VSiuDcfGcaSK5l4gwMcCPPAeBvnJyO37gqSMBn+otkGzLZiOb6I9u/m2DKA==;F24BcrOji9gBT+ow7lEMtw=="
 ---

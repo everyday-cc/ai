@@ -3,8 +3,8 @@ category: news
 title: "AI Startups Have Tons of Cash, but Not Enough Data. That’s a Problem."
 excerpt: "Big companies aren’t so willing to share proprietary data with startups looking to power their large-language models."
 publishedDateTime: 2023-06-15T16:28:00Z
-originalUrl: "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120"
-webUrl: "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120"
+originalUrl: "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120?tpl=venturecapital"
+webUrl: "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120?tpl=venturecapital"
 type: article
 quality: 67
 heat: 87
@@ -54,6 +54,6 @@ related:
       domain: wsj.com
     quality: 47
 
-secured: "FigfM9qa8EIs5V/tmAqpHBPeCpzepGNCfTho4/M+OsJGVMKpE20YmKtrNN4wmnUvLIS+NHz7UwOkptf4/j5PzCdCpqwTWpfcJqEJ09qLM/Dmg5jX8dYKDWGJ3fGVjarzM3GILu83pqozXAmLD6nvYp4n9xnBvTJGBxM7A9CGF6B+Nql5pN3K++P5Hajs33p50PeHkFYaUVz+WExIN4gX2h30F0uGHtJdUe4QunQBdBpocVe8i+Uz5vjlUUBKejEdHjOXleDx/5g0U7rOmCANsdvLRYjbK1N2AyEvTkMNRHG0CgwSfO4VRLtfFcqsnlQ3/3YgSvQ0YDk94KPe5oE94kUYXxf7mYF8Lries9aqk6k=;ZtL+r5KBa8oUhHtOFiX+Mw=="
+secured: "2YjjJxHYPQVxW/QjZT56yRKxvg4cDawtZzP8S19R1xkhuRxtQ3wS24VqWxho+Lz+uGuGKQkefszq8mqSoQJWDJ0ZBneIKFVmOo7ruFiQr4hAYRK+mskDWYmnnqBNWg6vI4tItpVy8f9Dy/PQsD5gZVChC7Dc5XAO74SusZj2A2QIFiol7YVhPTiWgnAkhs434FkPqU1D2jKeIWlAPNTzd9sHf4ppFYnvfb1goG+RZ3fst1ovxJn19n4T/zT8FuqUrYNAQ6PceV+DFoW7Fx+vvxneopoRYZqUpk1clqBxIn3o+fVBtf1DpmFdh71iST34w4XzJsYXrmiY4YFI+fHyqJ9TJE1UtgQxqeVWjnpiUco=;LLPGiopi4rkmFtWUUgnKjg=="
 ---
 

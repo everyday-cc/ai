@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/ifs-connect-2023-why-talk-about-generative-ai
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready?amp"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 70
+published: true
 
 provider:
   name: Diginomica

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta trained music-making AI tool on “20,000 hours of licensed music”"
-    excerpt: "Felix Kreuk from the Facebook owner’s AI research team last week posted on Twitter about the music-making tool, which is called MusicGen. It is, he wrote, “a simple and controllable music generation model” which can be “prompted by both text and melody”."
-    publishedDateTime: 2023-06-13T11:17:00Z
-    webUrl: "https://completemusicupdate.com/article/meta-trained-music-making-ai-tool-on-20000-hours-of-licensed-music/"
-    type: article
-    provider:
-      name: completemusicupdate
-      domain: completemusicupdate.com
-    quality: 39
-    images:
-      - url: "https://completemusicupdate.com/wp-content/uploads/2023/06/metalogo-1250x500.jpg"
-        width: 1250
-        height: 500
-        isCached: true
   - title: "Meta unveils MusicGen, an AI designed to create music in just 5 minutes"
     excerpt: "The Facebook parent company ... The researchers that announced the AI system said that all of the sounds MusicGen was trained on were covered by legal agreements with the owners of those music libraries. \"Open research can ensure that all actors have ..."
     publishedDateTime: 2023-06-15T06:47:00Z
@@ -53,15 +39,6 @@ related:
         width: 1500
         height: 1125
         isCached: true
-  - title: "Meta’s New MusicGen AI Can Generate Music From Prompts"
-    excerpt: "Meta has recently unveiled MusicGen, an open-source AI model designed to generate music based on text prompts. Read on to learn more."
-    publishedDateTime: 2023-06-13T12:10:00Z
-    webUrl: "https://www.gizbot.com/internet/news/meta-s-new-musicgen-ai-can-generate-music-from-prompts-085875.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 19
   - title: "Meta releases AI-powered music generator 'MusicGen'"
     excerpt: "Meta (formerly Facebook) has released its AI-powered music generator called 'MusicGen', which will turn text description and melody into audio. The company also released the code and models for open research,"
     publishedDateTime: 2023-06-15T08:20:00Z

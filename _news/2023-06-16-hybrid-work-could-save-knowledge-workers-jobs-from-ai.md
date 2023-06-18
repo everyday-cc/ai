@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/16/hybrid-work-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/06/16/hybrid-work-could-save-knowledge-workers-jobs-from-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

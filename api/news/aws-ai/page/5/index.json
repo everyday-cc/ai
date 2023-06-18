@@ -2,40 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-04-28-amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value.md",
-      "title": "Amazon's cloud warning set to erase nearly $60 billion in value",
-      "excerpt": "Amazon.com Inc shares fell nearly 5% on Friday after the company warned its lucrative cloud services business slowed further in April, fueling concerns that the long-time growth driver was struggling with a pullback in technology spending. We apologize ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value/wcm/92febc1e-31b2-4f30-8947-9de8e4b61a51/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/amazons-cloud-warning-set-to-erase-nearly-60-billion-in-value/wcm/92febc1e-31b2-4f30-8947-9de8e4b61a51/amp/",
-      "publishedDateTime": "2023-04-28T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-28-amazon-stock-down-5-as-high-prices-slow-aws-growth.md",
       "title": "Amazon Stock Down 5% As High Prices Slow AWS Growth",
       "excerpt": "Amazon stock fell after CFO, Brian Olsavsky, told investors that the AWS growth rate in April is tracking five percentage points below its first quarter growth rate. Were that slowdown to continue, AWS could grow at 10.8% in the second quarter — well below the 13% Wall Street projects for the second quarter, the Journal wrote.",
@@ -1397,6 +1363,59 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath.md",
+      "title": "AI Computer Vision Market Hitting New Highs by 2030 | NetApp, IBM, SAS, UiPath",
+      "excerpt": "The AI Computer Vision market report provides a detailed analysis of global market size, regional and country-level",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath-2023-04-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath-2023-04-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

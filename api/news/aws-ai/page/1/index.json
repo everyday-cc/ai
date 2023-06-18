@@ -108,50 +108,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-14-deloitte-reveals-new-enterprise-cloud-focused-security-and-compliance-offering-with-aws-convergesecurity.md",
-      "title": "Deloitte Reveals New Enterprise Cloud Focused Security and Compliance Offering With AWS: ConvergeSECURITY",
-      "excerpt": "Deloitte, today announces it is working with AWS to deliver ConvergeSECURITY, a cloud focused security and compliance service.",
-      "sourceUrl": null,
-      "webUrl": "https://itsecuritywire.com/news/deloitte-reveals-new-enterprise-cloud-focused-security-and-compliance-offering-with-aws-convergesecurity/",
-      "originalUrl": "https://itsecuritywire.com/news/deloitte-reveals-new-enterprise-cloud-focused-security-and-compliance-offering-with-aws-convergesecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itsecuritywire.com/wp-content/uploads/2023/06/Deloitte-Reveals-New-Enterprise-Cloud-Focused-Security-and-Compliance-Offering-With-AWS-ConvergeSECURITY.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://itsecuritywire.com/news/deloitte-reveals-new-enterprise-cloud-focused-security-and-compliance-offering-with-aws-convergesecurity/amp/",
-      "cdnAmpWebUrl": "https://itsecuritywire-com.cdn.ampproject.org/c/s/itsecuritywire.com/news/deloitte-reveals-new-enterprise-cloud-focused-security-and-compliance-offering-with-aws-convergesecurity/amp/",
-      "publishedDateTime": "2023-06-14T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "itsecuritywire",
-        "domain": "itsecuritywire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-06-13-how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker.md",
       "title": "How Forethought saves over 66% in costs for generative AI models using Amazon SageMaker",
       "excerpt": "This post is co-written with Jad Chamoun, Director of Engineering at Forethought Technologies, Inc. and Salina Wu, Senior ML Engineer at Forethought Technologies, Inc. Forethought&nbsp;is a leading generative AI suite for customer service. At the core of its suite is the innovative SupportGPT™ technology",
@@ -1372,6 +1328,49 @@
       "provider": {
         "name": "CBS News",
         "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-aws-picks-biotech-startup-for-ai-accelerator-program.md",
+      "title": "AWS picks biotech startup for AI accelerator program",
+      "excerpt": "Ordaos, a drug design company, was selected for the AWS Generative AI Accelerator, a mentorship program for companies working with generative artificial intelli",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
+      "originalUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
         "images": null,
         "publishers": null,
         "authors": null

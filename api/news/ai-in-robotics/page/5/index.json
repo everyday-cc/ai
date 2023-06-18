@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-11-amazon-reportedly-has-more-ai-features-in-development-for-astro-robot.md",
+      "title": "Amazon reportedly has more AI features in development for Astro robot",
+      "excerpt": "Amazon’s robot Astro reportedly has future new artificial intelligence (AI ... \"Astro is off to a very promising start. Invite requests remain strong, and we continue to get great feedback ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/amazon-reportedly-more-ai-features-development-astro-robot",
+      "originalUrl": "https://www.foxbusiness.com/technology/amazon-reportedly-more-ai-features-development-astro-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/3857a654-3dc9-4412-81d0-f67bc9fda558/5f7ed505-cc5e-4bc5-b94a-d8f50817c27b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/amazon-reportedly-more-ai-features-development-astro-robot.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/amazon-reportedly-more-ai-features-development-astro-robot.amp",
+      "publishedDateTime": "2023-05-10T19:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-the-evolution-of-robotic-technology-from-robotic-assistance-to-augmented-intelligence-to-elevate-all-surgery.md",
+      "title": "The Evolution of Robotic Technology: From Robotic Assistance to Augmented Intelligence to Elevate All Surgery",
+      "excerpt": "Unlike artificial intelligence, augmented intelligence serves as a “navigation ... Surgeons are seeing these enhancements first-hand, from a more economical way to use robotics in more surgeries to improved ergonomics and reduced cognitive toll.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/robotics/evolution-robotic-technology-robotic-assistance-augmented-intelligence-elevate-all-surgery",
+      "originalUrl": "https://www.mddionline.com/robotics/evolution-robotic-technology-robotic-assistance-augmented-intelligence-elevate-all-surgery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/MDDI%20graphic2%20web.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-education-startup-teky-raises-5m-from-foreign-investors.md",
       "title": "Education startup TEKY raises $5M from foreign investors",
       "excerpt": "Education startup TEKY Alpha has raised US$5 million from Singaporean investment firm Sweef Capital to expand its operations.",
@@ -1290,102 +1376,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-the-life-and-death-of-a-robot-vacuum.md",
-      "title": "The life and death of a robot vacuum",
-      "excerpt": "Last-minute robot delivery exists in limited quantities but is still regarded as a novelty. More broadly, however, robots are here right now. They’re mostly behind the scenes, but they’re doing a lot of work.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/",
-      "originalUrl": "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/20230227_090555.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/04/the-life-and-death-of-a-robot-vacuum/amp/",
-      "publishedDateTime": "2023-05-04T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi.md",
-      "title": "UAE: Chemo robot, artificial intelligence-guided radiotherapy for cancer care now available in Abu Dhabi",
-      "excerpt": "Newly-launched Fatima bint Mubarak Center also has latest non-invasive treatments Abu Dhabi: An artificial intelligence-guided radiotherapy treatment, a targeted therapy for liver cancer, and a chemotherapy robot are some of the innovative options that are ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
-      "originalUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2023/05/04/Cleveland_Clinic_Abu_Dhabi_Fatima_bint_Mubarak_Center-_Chemotherapy_robot-1683221993322_187e7d95774_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
-      "publishedDateTime": "2023-05-04T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/google-lens/google-lens-features/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-lens/google-lens-features/amp/"
 type: article
 quality: 94
-heat: 95
+heat: 94
 published: true
 
 provider:

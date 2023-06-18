@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-04-30-ai-winners-arent-who-you-think.md",
-      "title": "AI Winners Aren't Who You Think",
-      "excerpt": "Artificial intelligence is the biggest buzzword on the market today, and there are a lot of ways to invest in this area of growth. But the biggest winners dominating the discussion today might not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/30/ai-winners-arent-who-you-think/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/30/ai-winners-arent-who-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/729429/chatgpt-keyboard.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-30T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-28-largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-14b-fund.md",
       "title": "Largest-ever federal university grant awarded for AI and robotics research, as part of $1.4B fund",
       "excerpt": "The Canadian government has unveiled which universities will be receiving a portion of $1.4 billion in research funding, with the single largest sum going to the University of Toronto for its work on artificial intelligence.",
@@ -1449,6 +1397,40 @@
       "provider": {
         "name": "AFAQS",
         "domain": "afaqs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-facebook-chief-zuckerberg-consumed-by-race-to-launch-ai-in-snub-to-musk-backed-pause.md",
+      "title": "Facebook chief Zuckerberg consumed by race to launch AI in snub to Musk-backed pause",
+      "excerpt": "Meta is the parent company of Facebook, Instagram WhatsApp ... \"We certainly have a large research organization, hundreds of people.\" CHATGPT AI LISTS JOBS IT CAN DO BETTER THAN HUMANS AS MILLIONS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/facebook-chief-zuckerberg-consumed-race-launch-ai-snub-musk-backed-pause",
+      "originalUrl": "https://www.foxbusiness.com/technology/facebook-chief-zuckerberg-consumed-race-launch-ai-snub-musk-backed-pause",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
         "images": null,
         "publishers": null,
         "authors": null

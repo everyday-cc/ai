@@ -98,49 +98,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-14-meta-steps-up-ai-game-by-open-sourcing-i-jepa-its-human-like-image-creation-model.md",
-      "title": "Meta Steps Up AI Game By Open-Sourcing I-JEPA — Its 'Human-Like' Image Creation Model",
-      "excerpt": "What Happened: In line with Zuckerberg’s previous statement that Meta plans to adopt an open approach in terms of AI development, the parent company of Facebook and Instagram ... publishing open-sourced AI research through its dedicated in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/06/32849554/meta-steps-up-ai-game-by-open-sourcing-i-jepa-its-human-like-image-creation-model",
-      "originalUrl": "https://www.benzinga.com/news/23/06/32849554/meta-steps-up-ai-game-by-open-sourcing-i-jepa-its-human-like-image-creation-model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Meta_IJEPA_AI.jpeg?width=1200&height=800&fit=crop",
-          "width": 864,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32849554",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32849554",
-      "publishedDateTime": "2023-06-14T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-13-ai-powered-malware-is-a-growing-security-concern-cyberark-survey-finds.md",
       "title": "AI-powered malware is a growing security concern, CyberArk survey finds",
       "excerpt": "AI-enabled threats are a major concern; 93% of cybersecurity professionals surveyed expect such threats to impact their organization.",
@@ -149,7 +106,7 @@
       "originalUrl": "https://venturebeat.com/security/ai-powered-malware-is-a-growing-security-concern-cyberark-survey-finds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1432,6 +1389,59 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-the-security-hole-at-the-heart-of-chatgpt-and-bing.md",
+      "title": "The Security Hole at the Heart of ChatGPT and Bing",
+      "excerpt": "Indirect prompt-injection attacks can leave people vulnerable to scams and data theft when they use the AI chatbots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/",
+      "originalUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/646ea845f2de86183cf5b400/master/pass/The-Security-Hole-at-the-Heart-of-ChatGPT-and-Bing-Security-GettyImages-1264516882.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatgpt-prompt-injection-attack-security/amp",
+      "publishedDateTime": "2023-05-24T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

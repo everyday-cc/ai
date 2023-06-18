@@ -52,15 +52,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Oracle to introduce cloud-based generative AI service"
-    excerpt: "Oracle will soon be introducing a cloud-based generative AI service. The move was announced by CEO Larry Ellison during a call following the quarterly"
-    publishedDateTime: 2023-06-13T11:35:00Z
-    webUrl: "https://www.techzine.eu/news/applications/107393/oracle-to-introduce-cloud-based-generative-ai-service/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 17
 
 secured: "hUAezsLc8DzLKAnV7aQpnKG5hkwmRJfyhdk8y1v9O/ffhJveKy1fgvuhBRgOohDGBsQGoMnZf3pGWz/i36f97yaKWQSnJfc0A2zFVFbXQnyq9trqcOLDEgcV4DHl+bEqbZDHad3GnOyVoO6KwLgpW91nRWII7wofgXpmzthksRYKWcn9jw3IuBZRnpGC9TcKCi8bQ5a2s1dCbP2WlDdvknnKeoXbU+jeuBdyN/0cSMxZNlBqWETwbjksoc3CVoreWsmKsWYZik3k1VopvtHRVb+r/ydAjennePpCQiNxq4OJTjgdeOv/Jqd8hnI4d5lyrPUN2OHJIeN9aqBBOZ+lwGeVcePiaL4/LOcCs5xbNDs=;X8yFA6J0nRK12/XJtkubfg=="
 ---

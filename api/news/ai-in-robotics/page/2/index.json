@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-05-killer-robots-could-emerge-from-ai-in-just-two-years-gov-expert-warns.md",
+      "title": "Killer robots could emerge from AI in just TWO years, Gov expert warns",
+      "excerpt": "WORLD leaders have TWO YEARS left to tame Artificial Intelligence before humans are unable to control powerful computers,  a government top adviser says. Tech entrepreneur Matt Clifford, the Prime",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/",
+      "originalUrl": "https://www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/06/kdf6e3-creepy-robot-heads-ai-820760241.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/amp/",
+      "publishedDateTime": "2023-06-05T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-fostering-international-collaboration-in-ai-in-healthcare.md",
+      "title": "Fostering International Collaboration In AI In Healthcare",
+      "excerpt": "Combining AI and robotics and healthcare with a mission to extend healthy human life. Meet Richard Yang, partner at Sinovation Ventures",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647bdd7fddd81ae2fc13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/",
+      "publishedDateTime": "2023-06-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-04-droneos-how-to-take-control-of-the-countrys-growing-robot-army.md",
       "title": "DroneOS: How To Take Control Of The Country's Growing Robot Army",
       "excerpt": "The Pentagon wants to build a robot army. Nelson Paez of DreamHammer hopes to make it as easy to operate as possible. The Pentagon has a big command-and-control problem. Not insubordination among ...",
@@ -1289,93 +1385,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution.md",
-      "title": "Arendai and AiQ Robotics Join Forces to Offer Unified Orchestration and Robotics Solution",
-      "excerpt": "Arendai and AiQ robotics last Thursday announced a partnership that will enable the companies to expand their services into the rapidly growing industry 4.0. By combining Arendai's cutting-edge solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/32220-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/32220-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/f387e437c862082eed484b9d226001b5.jpg?t=20230529_022121",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-open-ai-backed-start-up-deploys-robot-as-security-guard.md",
-      "title": "Open AI-backed start-up deploys robot as security guard",
-      "excerpt": "The Norway-based robotic start-up deployed the AI-enabled robot as patrolling guard at two manufacturing sites, one in the USA and the other in Europe",
-      "sourceUrl": null,
-      "webUrl": "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard",
-      "originalUrl": "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.telanganatoday.com/wp-content/uploads/2023/05/robot-1.jpg",
-          "width": 1280,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telangana Today",
-        "domain": "telanganatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

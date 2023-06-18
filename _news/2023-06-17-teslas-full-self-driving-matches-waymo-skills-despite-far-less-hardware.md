@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-w
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 105
 published: true
 
 provider:

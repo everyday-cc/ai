@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/amds-hardware-ai-ryzen-phoenix-cpus-set
 webUrl: "https://www.pcmag.com/news/amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 708
         height: 475
         isCached: true
-  - title: "AMD Ryzen PRO 7000 Series CPUs: The future of AI-powered business for laptops and (maybe) desktops"
-    excerpt: "Ryzen to the challenge with AI-powered CPUs for business pros. AMD announces its new Ryzen PRO 7000 series of processors for desktops, notebook laptops, and workstations, focusing on energy efficiency and AI."
-    publishedDateTime: 2023-06-13T13:00:00Z
-    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/amd-ryzen-pro-7000-series-desktop-mobile-cpus-announced"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 5
 
 secured: "TYgc6ub08tgqWPLHtKzUc5kjHWdxKqpFU/NefkMd8TVyUC6B2edho4T6DbWk/sTjTfqFcdjRKumHh5l6/Q2ArX7LOQjksXxUVPjFqSzYo29vAwQJkl9OKTx5pTprsIqDR2o2ZLR64W37ySFv4spINeiIfeup6i7fbTpiG7l1CAnA+t8MYKcfA2meWM2iUZI/+yOAj+xhM1bIQPTa0yEKLEFlFw+tI4oFd7U0Ar0hpS83LbObsjKkXXlK/uZJbKWBBsHLuwLgCXxNJsaw6Xn2c9sSUugLmkhVY/edQzLO0xQeVRFRhIXOcp01CZCYSeqBfYc8NtNd69F6XFQVtjfbWKh8gbmcPhevI6pDQ8KfeHY=;bOjkVMyEaYYuuxIX+R26PA=="
 ---

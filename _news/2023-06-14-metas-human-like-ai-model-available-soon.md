@@ -35,15 +35,6 @@ related:
         width: 864
         height: 576
         isCached: true
-  - title: "Meta AI researchers unveil I-JEPA, a computer vision model that learns more like humans do"
-    excerpt: "Artificial intelligence researchers from Meta Platforms Inc. say they’re making progress on the vision of its Chief AI Scientist Yann LeCun to develop a new architecture for machines that can learn internal models of how the world works."
-    publishedDateTime: 2023-06-13T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/06/13/meta-ai-researchers-unveil-jepa-computer-vision-model-learns-like-humans/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
 
 secured: "34QMhPhakvGqDEUJX6fX6bCgV7ZvyIqFPIaKRQydfI4dzS4Y3odGDvF2qeEUc4buumwqmAi4B//J+unmA97dBUHw9e7AR/EEb97gKTGGQzvIRXJbwSEaxwxELxSQnJiWU0GiyiqA68rs9J5WheZ16si6j5PgYGzAN/J3cnLZRH8JQDw70oxGWfHOfI/LNeSOKPshYPQhUJrHqGKbdVHsG8kL8dKlQaatn1PHJAo6yrypeV3kkZt8X7zOl6lwy720YgSSSU5M8XPtiv9VMiugYoiROZvkGQyxdar7gNt8AYiu0LfSvmWWB5VhR6B66bZ1Gwkx7jvi3ikofMoLwRi+p9TAmOe2vNyHCQmqMJAss/0yOPHxbuV63fQXPs8TPiSsQZsr3yRyVHQPmaSXnBDfhqrnjtVtxc51VcU372S8u1vSCkaO7N9+xE8D1NLSaFVS+otPUN4iEu1GjZTpWY+53daUctl2Mumc8OOJpoKhJ3/n8oyrhXzWXtUS3tXnTX3eOyrpnFhe/une7N0hvow3lg==;ip2oK8DsqBRsj2OmJdodYA=="
 ---

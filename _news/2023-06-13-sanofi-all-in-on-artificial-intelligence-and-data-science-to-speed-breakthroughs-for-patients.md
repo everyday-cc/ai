@@ -24,17 +24,6 @@ images:
     height: 448
     isCached: true
 
-related:
-  - title: "Sanofi - Aventis Groupe: Press Release: Sanofi \"all in\" on artificial intelligence and data science to speed breakthroughs for patients"
-    excerpt: "Sanofi \"all in\" on artificial intelligence and data science to speed breakthroughs ... Sanofi @ Vivatech Sanofi's Consumer Healthcare business unit will present its recently launched Open Innovation Portal, which allows the wider supply chain community ..."
-    publishedDateTime: 2023-06-13T12:11:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59324967-sanofi-aventis-groupe-press-release-sanofi-all-in-on-artificial-intelligence-and-data-science-to-speed-breakthroughs-for-patients-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
-
 secured: "yk+ReM0cy6q95OSpcBwX7TJAvKFmBl49aNNuCK2Yc2PafS3qoWAYoIqZDTFirqnF8ie4qXRoN5BjKs4ug91lRonMyK0x0Q/hA6PRN82VfnSryJJi8xYvNcr9a4sxzViw6FqtKtjVKuSUoiE92diGFu0JbPKDtn+talCjcJi8if/kljEPvKE0UbBOc87qaIXze6xHIrtb3qANxYY0qk/Wf2IfhJYPNdtBxwDFPSJ+GQeqwWDzNPhasW+4Kgci9SYmOlXlnWdOIoUFEb9wnKhNfFSnKUSO+6dInSbrFL6wt2IBaNg4OyXe85kPUc1giRJNRqrxtcX7EXm7uvd0d5uGZ3tuiMcCS7sgbnEMP6iUljE=;5NqknOQh0LKSB1ZNlmeJvQ=="
 ---
 

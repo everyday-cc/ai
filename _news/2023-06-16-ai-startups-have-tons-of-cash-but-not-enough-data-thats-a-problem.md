@@ -25,7 +25,7 @@ related:
   - title: "AI Startups Have Tons of Cash, but Not Enough Data. That’s a Problem."
     excerpt: "Big companies aren’t so willing to share proprietary data with startups looking to power their large-language models."
     publishedDateTime: 2023-06-15T16:28:00Z
-    webUrl: "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120"
+    webUrl: "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120?tpl=venturecapital"
     type: article
     provider:
       name: Wall Street Journal

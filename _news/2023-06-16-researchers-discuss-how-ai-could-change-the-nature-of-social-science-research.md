@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-06-discuss-ai-nature-social-science.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-discuss-ai-nature-social-science.amp"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -29,16 +29,18 @@ related:
   - title: "Researchers build working robot based on AI’s design"
     excerpt: "Researchers have built an \"actually useful\" working robot based on a design dreamt up by AI. Teams at TU Delft and Swiss technical university EPFL tasked artificial intelligence tool ChatGPT to help with food production."
     publishedDateTime: 2023-06-17T00:00:00Z
-    webUrl: "https://www.nbcrightnow.com/national/researchers-build-working-robot-based-on-ai-s-design/article_67835f8f-d5e6-5923-bc65-0dd3546531a1.html"
+    webUrl: "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.html"
+    ampWebUrl: "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html"
+    cdnAmpWebUrl: "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html"
     type: article
     provider:
-      name: NBC Right Now
-      domain: nbcrightnow.com
-    quality: 54
+      name: Tyler Morning Telegraph
+      domain: tylerpaper.com
+    quality: 74
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nbcrightnow.com/content/tncms/assets/v3/editorial/4/d4/4d480188-c66f-5c34-9111-2b23fa1489e5/648c990f67f7a.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/c/ab/cab7a7e7-7f99-558b-a9df-e0eaf8ff7d97/648c9899a0027.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "hb/ZdQ6/+3S3G/XVL9WIYBDzi7FkkN/iu99PI3W9Tx5Xw+DZQmPH/1Ev7lMmrrVJGczfbyd1KEbjtxBC6lJ2eKnOSGpi5/czN5cHgQ4wORhU64Yz7GXpdTSJ3hui5W2W+1nSjeEua0bfjgL5qj/9EWs4Rn7BZGspDUjfBUWDigqTurOEJKhmz6dk026mhb8o60hKHNPpizIKb6PuetdZlGhpkvFsV3+t0sFAfHR2Wcu2htJHBXCRqL/qP0Zsw5hKCPdIWIA5mNiDACPidfpGWDtFY1Eat5FBJVSJxIw9aL/P2L+YNyFIHSc4Ywsk+TnDsPW0rAg/EXWSo4ruQrukUN/SqLwL8wol4fgCGSH3hEQ=;Aw+1QUhmIoeHLC62CBiYTw=="

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-17-researchers-build-working-robot-based-on-ais-design.md",
+      "title": "Researchers build working robot based on AI’s design",
+      "excerpt": "Researchers have built an \"actually useful\" working robot based on a design dreamt up by AI. Teams at TU Delft and Swiss technical university EPFL tasked artificial intelligence tool ChatGPT to help with food production.",
+      "sourceUrl": null,
+      "webUrl": "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.html",
+      "originalUrl": "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/c/ab/cab7a7e7-7f99-558b-a9df-e0eaf8ff7d97/648c9899a0027.image.jpg?resize=1024%2C683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html",
+      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html",
+      "publishedDateTime": "2023-06-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tyler Morning Telegraph",
+        "domain": "tylerpaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-could-a-robot-win-a-grammy-ai-music-is-eligible-sort-of.md",
       "title": "Could a robot win a Grammy? AI music is eligible — sort of",
       "excerpt": "Hold the (gramo)phone: Artificial intelligence-generated music is eligible for Grammy Awards — err, kind of. The Recording Academy announced sweeping changes Friday to music’s biggest night, including that it will allow entries that use AI, as long as there is a “meaningful” and “relevant” human component.",
@@ -42,6 +85,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready-for-prime-time.md",
+      "title": "IFS Connect 2023 - why talk about generative AI when robotics and connected manufacturing are ready for prime time?",
+      "excerpt": "IFS avoids technology festivals in favor of industry shop talk. But at IFS Connect, I found customers knee deep in AI preparations. It's all about getting your plant floor machines talking. And, for CDF Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready",
+      "originalUrl": "https://diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2023-06/Alex%20Ivkovic%20-%20CDF%20-%20CIO.jpg",
+          "width": 1083,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ifs-connect-2023-why-talk-about-generative-ai-when-robotics-and-connected-manufacturing-are-ready?amp",
+      "publishedDateTime": "2023-06-16T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1324,102 +1411,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-killer-robots-could-emerge-from-ai-in-just-two-years-gov-expert-warns.md",
-      "title": "Killer robots could emerge from AI in just TWO years, Gov expert warns",
-      "excerpt": "WORLD leaders have TWO YEARS left to tame Artificial Intelligence before humans are unable to control powerful computers,  a government top adviser says. Tech entrepreneur Matt Clifford, the Prime",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/",
-      "originalUrl": "https://www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/06/kdf6e3-creepy-robot-heads-ai-820760241.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/amp/",
-      "publishedDateTime": "2023-06-05T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-fostering-international-collaboration-in-ai-in-healthcare.md",
-      "title": "Fostering International Collaboration In AI In Healthcare",
-      "excerpt": "Combining AI and robotics and healthcare with a mission to extend healthy human life. Meet Richard Yang, partner at Sinovation Ventures",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 266,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647bdd7fddd81ae2fc13b283/0x0.jpg?format=jpg&width=1200",
-          "width": 800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/",
-      "publishedDateTime": "2023-06-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

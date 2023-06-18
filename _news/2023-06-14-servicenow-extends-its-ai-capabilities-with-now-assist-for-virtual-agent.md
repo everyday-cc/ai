@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/06/13/servicenow-extends-ai-capabili
 webUrl: "https://siliconangle.com/2023/06/13/servicenow-extends-ai-capabilities-now-assist-virtual-agent/"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "ServiceNow adds more AI with Now Assist for Virtual Agent"
+    excerpt: "ServiceNow is integrating more AI functionality into its platform. It recently introduced the AI chatbot Now Assist for Virtual Agent. The generative AI"
+    publishedDateTime: 2023-06-14T12:56:00Z
+    webUrl: "https://www.techzine.eu/news/applications/107490/servicenow-adds-more-ai-to-now-assist-for-virtual-agent/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
 
 secured: "5oZNvPYAnjdaLbc9ApnIx4VsFiyb8YKTuDC/W2r5+l+77I9yaEw2vAY274xvLlFBNkJb32/wEQvI4t0R/CPlMhpqsv8GxD0UYXwEJRnIOqfEnZiL4Z/p/M3NnFTE2Bslg7al8uZoAZXpoLiZkpGxUnk27qi0l1MwA0ykW344lFgxuYv6RRIV9hTqnlGxNGcYA5nDpdYtM0ybuLD2jKdPOV0X1tVM1No1UIac5PnBkKKZ6E7xrbdGtD2Nq6weVLOoaa7UNW7IFI9rwHwNIvaxzXpGQtV2L2DYp8E98ldYyifLGKm51P0gwUGm7syhqEvyXGegIgT7KVzd4vwzQQNbai5VBY8GcvLomjylAUpfeVhb0hh+XzMF8zA0KJN64WspyjgSQAlQgYQzQDPpk63badC2q6XoZuhIgt9e6cUzMs79FBnc0UUo/nFQ6VMSUCVKXw1NTbYlJC9eeqsSqjyjZ68T1g6RKdXmly481YgDqwIMYR+HlOaygeByt4QydiaUA365iM1XNKC7lp7ZAyyiDQ==;taJhlSiE7o3+Cpmrxa/KGw=="
 ---

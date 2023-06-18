@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-gene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-generative-ai-will-unleash-e-commerces-next-big-bang/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Oracle to introduce cloud-based generative AI service"
-    excerpt: "Oracle will soon be introducing a cloud-based generative AI service. The move was announced by CEO Larry Ellison during a call following the quarterly"
-    publishedDateTime: 2023-06-13T11:35:00Z
-    webUrl: "https://www.techzine.eu/news/applications/107393/oracle-to-introduce-cloud-based-generative-ai-service/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 17
 
 secured: "w7vAeVkjOZuiyCFeS7Vr2Ogq7azBWigJnJWIGBwEQ9mBEYrpDaJ/HkOyq3iEUlL/MoC98Y7XEHCgQy9S7zOdkdCB+2Mbts1eVBfTwrQ8m8HI2HGDaevXFthFpIb7DUuiQxTDijY0EPMFo4HVxBo4BRtHqdlJdeLIZC6sYzf78ENfnmZd4ASoBzNExpNwXAbvZhjR0+CsktO5MDSiHbNVsXb6+WyUljtAqoVJ5RHvhuXcQhJz43PCfz+rBf4sipRIuEqcO2mWL2zhvnYa/l1RWTo7a1lRzO1OCnulY66Ae2aZq2AgGUxqx7T4UCNDRyZ0cFsCIUICTupFLVk7M78H5SggMkhWmYslzakA68PljgM=;a+5oUB4Fc8G1vAKwEJbpsQ=="
 ---

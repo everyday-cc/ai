@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-16-forget-about-the-ai-apocalypse-the-real-dangers-are-already-here.md",
+      "title": "Forget about the AI apocalypse. The real dangers are already here",
+      "excerpt": "Two weeks after members of Congress questioned OpenAI CEO Sam Altman about the potential for artificial intelligence tools to spread misinformation, disrupt elections and displace jobs, he and others in the industry went public with a much more frightening possibility: an AI apocalypse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230322173826-person-using-laptop-stock.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html",
+      "publishedDateTime": "2023-06-16T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-ai-rally-knocks-down-asia-stocks-correlation-to-bond-yields.md",
+      "title": "AI Rally Knocks Down Asia Stocks’ Correlation to Bond Yields",
+      "excerpt": "The negative correlation between Asian equities and US bond yields has broken down, as optimism about artificial intelligence overtakes concerns about the Federal Reserve’s next move.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-16/ai-rally-knocks-down-asia-stocks-correlation-to-bond-yields",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-16/ai-rally-knocks-down-asia-stocks-correlation-to-bond-yields",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iB3wgIrE56cs/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-hooksounds-unveils-ai-studio-revolutionising-video-editing-with-artificial-intelligence-generated-soundtracks.md",
       "title": "HookSounds Unveils AI Studio: Revolutionising Video Editing with Artificial Intelligence-Generated Soundtracks",
       "excerpt": "Revolutionising Video Editing with Artificial Intelligence-Generated Soundtracks London, England, United Kingdom",
@@ -525,7 +627,7 @@
       "originalUrl": "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -618,8 +720,8 @@
       "title": "AI Startups Have Tons of Cash, but Not Enough Data. That’s a Problem.",
       "excerpt": "Big companies aren’t so willing to share proprietary data with startups looking to power their large-language models.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120",
-      "originalUrl": "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120",
+      "webUrl": "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120?tpl=venturecapital",
+      "originalUrl": "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120?tpl=venturecapital",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -1143,109 +1245,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law.md",
-      "title": "Can Generative AI Be Saved From AI Hallucinations By Using Chain-Of-Thought Step-By-Step Techniques, Asks AI Ethics And AI Law",
-      "excerpt": "Generative AI is prone to AI hallucinations, but maybe the use of chain-of-thought step-by-step techniques can overcome or at least reduce such maladies. Here's the deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648a7b3bea640d0f0675c365/0x0.jpg?format=jpg&crop=1589,1192,x266,y22,safe&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-06-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation.md",
-      "title": "AI Takes Center Stage In Tech Development, But Enterprises Still Require A Digital Foundation",
-      "excerpt": "How can technology leaders best leverage AI to benefit their companies and their customers? We've focused on a few areas that all technology leaders could benefit from.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64492aaf47015e74f7f3312b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/amp/",
-      "publishedDateTime": "2023-06-15T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

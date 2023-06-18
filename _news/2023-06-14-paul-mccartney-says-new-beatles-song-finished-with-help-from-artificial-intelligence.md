@@ -39,22 +39,6 @@ related:
         width: 800
         height: 457
         isCached: true
-  - title: "Paul McCartney To Release 1 Final Beatles Song, Thanks To AI Technology"
-    excerpt: "While some celebrities have turned their backs on artificial intelligence tech to help make their work, Beatles legend Sir Paul McCartney has leaned into it to create the group’s “final” song."
-    publishedDateTime: 2023-06-13T11:18:00Z
-    webUrl: "https://www.huffpost.com/entry/paul-mccartney-final-beatles-song-ai_n_64884e43e4b04ee51a97085c"
-    ampWebUrl: "https://www.huffpost.com/entry/paul-mccartney-final-beatles-song-ai_n_64884e43e4b04ee51a97085c/amp"
-    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/paul-mccartney-final-beatles-song-ai_n_64884e43e4b04ee51a97085c/amp"
-    type: article
-    provider:
-      name: HuffPost
-      domain: huffpost.com
-    quality: 87
-    images:
-      - url: "https://img.huffingtonpost.com/asset/648832d92900006c00c99109.jpeg?cache=Cmy2NUsrlF&ops=1200_630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Beatles are dropping one last track with the help of AI"
     excerpt: "On BBC's Best of Today podcast, Paul McCartney shared his thoughts on AI in the music industry and revealed that The Beatles would be dropping a new track soon with the help of AI."
     publishedDateTime: 2023-06-13T16:20:00Z
@@ -146,22 +130,6 @@ related:
       - url: "https://time.com/img/icons/wallet-connect.png"
         width: 256
         height: 256
-        isCached: true
-  - title: "AI helped create 'last Beatles record,' Paul McCartney says"
-    excerpt: "Paul McCartney says artificial intelligence has been used to extract John Lennon’s voice from an old demo to create “the last Beatles record.\""
-    publishedDateTime: 2023-06-13T12:02:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ai-helped-create-beatles-record-paul-mccartney-100035037"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-helped-create-beatles-record-paul-mccartney-100035037"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-helped-create-beatles-record-paul-mccartney-100035037"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_2dc3d8c818e12b708d4e9409cb7dc856_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Paul McCartney reveals AI was used to create the 'last Beatles record'"
     excerpt: "McCartney revealed that what he called \"the last Beatles record\" is on its way, adding that it was created with the help of AI. \"It was a demo that John had that we worked on,\" he"
