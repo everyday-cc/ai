@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-16T09:00:00Z
 originalUrl: "https://www.washingtonpost.com/technology/2023/06/16/ai-photoshop-generative-fill-review/"
 webUrl: "https://www.washingtonpost.com/technology/2023/06/16/ai-photoshop-generative-fill-review/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RTH4VOWM7QZXR77TKWRFK5S76M.jpg&w=1440"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-enabled digital assistants - a development worth having a conversation about for revenue teams"
-    excerpt: "Today, there are AI-powered revenue digital assistants for sales, marketing, and customer success. I spoke with Conversica's CEO Jim Kaskade to learn more about these digital assistants, how generative AI comes into play,"
-    publishedDateTime: 2023-06-13T09:14:00Z
-    webUrl: "https://diginomica.com/ai-enabled-digital-assistants-development-worth-having-conversation-about-revenue-teams"
-    ampWebUrl: "https://diginomica.com/ai-enabled-digital-assistants-development-worth-having-conversation-about-revenue-teams?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-enabled-digital-assistants-development-worth-having-conversation-about-revenue-teams?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 46
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/Shutterstock_2285573277.png"
-        width: 740
-        height: 450
-        isCached: true
   - title: "Comet teams up with Snowflake to simplify AI development for enterprises"
     excerpt: "As part of the collaboration, Comet has developed an integration for Snowflake’s Snowpark tool. According to the startup, its new integration will simplify AI projects that focus on using data stored in Snowflake to train neural networks."
     publishedDateTime: 2023-06-16T18:29:00Z

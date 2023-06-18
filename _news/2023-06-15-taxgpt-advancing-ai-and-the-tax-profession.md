@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Accepting artificial intelligence: barriers and facilitators influencing healthcare professionals' acceptance of AI in the hospital setting"
-    excerpt: "Researchers investigated the factors that hinder or promote healthcare professionals' acceptance of artificial intelligence (AI) in hospitals."
-    publishedDateTime: 2023-06-13T09:25:00Z
-    webUrl: "https://www.news-medical.net/news/20230613/Accepting-artificial-intelligence-barriers-and-facilitators-influencing-healthcare-professionals-acceptance-of-AI-in-the-hospital-setting.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 35
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_750839_16866475805559826.jpg"
-        width: 1000
-        height: 597
-        isCached: true
   - title: "AI and tax prep: Practitioners weigh the pros and cons"
     excerpt: "Tax pros have very mixed feelings about the potential impact of artificial intelligence. The annual list recognizes top leaders from accounting firms across the country. In this Vendor Spotlight, we feature time and activity tracking software provider CloudCapcha."
     publishedDateTime: 2023-06-14T19:43:00Z

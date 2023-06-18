@@ -75,15 +75,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Accenture to Invest $3 Billion in AI to Accelerate Clients' Reinvention"
-    excerpt: "Accenture (NYSE: ACN) today announced a $3 billion investment over three years in its Data & AI practice to help clients across all industries rapidly and responsibly advance and use AI to achieve greater growth,"
-    publishedDateTime: 2023-06-13T11:01:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831180.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Accenture announces $3bn bet on AI to help build new industry solutions"
     excerpt: "The new investment is part of Accenture’s continued efforts to build itself as a leader in AI Accenture announces $3bn bet on AI to help build new industry solutions Accenture, AI adoption, AI innovation,"
     publishedDateTime: 2023-06-14T11:48:00Z

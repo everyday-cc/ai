@@ -32,7 +32,7 @@ related:
   - title: "Forget about the AI apocalypse. The real dangers are already here"
     excerpt: "Two weeks after members of Congress questioned OpenAI CEO Sam Altman about the potential for artificial intelligence tools to spread misinformation, disrupt elections and displace jobs, he and others in the industry went public with a much more frightening possibility: an AI apocalypse."
     publishedDateTime: 2023-06-16T08:19:00Z
-    webUrl: "https://edition.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html"
+    webUrl: "https://www.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html"
     type: article

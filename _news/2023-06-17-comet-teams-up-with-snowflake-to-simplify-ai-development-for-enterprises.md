@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI-enabled digital assistants - a development worth having a conversation about for revenue teams"
-    excerpt: "Today, there are AI-powered revenue digital assistants for sales, marketing, and customer success. I spoke with Conversica's CEO Jim Kaskade to learn more about these digital assistants, how generative AI comes into play,"
-    publishedDateTime: 2023-06-13T09:14:00Z
-    webUrl: "https://diginomica.com/ai-enabled-digital-assistants-development-worth-having-conversation-about-revenue-teams"
-    ampWebUrl: "https://diginomica.com/ai-enabled-digital-assistants-development-worth-having-conversation-about-revenue-teams?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-enabled-digital-assistants-development-worth-having-conversation-about-revenue-teams?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 46
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/Shutterstock_2285573277.png"
-        width: 740
-        height: 450
-        isCached: true
 
 secured: "zo3ZEMlOVSn89NWgn4YxV1lJAy30Yultht9iUuvdX7AAvKOSkyEQhRpMAxCbmg2LTCcQ0LRGbeN4DICEbzALHvD/PWi/jo0etKhk8ZDHkZ/8kTJVCM37RKYr/eGrnyIu6amjZVCpKC4ZwiOPAmbV+KOJ9By5CIdf0wAoLUnIaPGJUPR2YOIh5n72EvrAG5nZ9DU2vgbsbMKdNGtBY3go0rwULMPqmHn2F82Numm/azwGWzWJpySHUNM7NtpuYbwQPBQY1dLok9l6RL/YrnXy6KkjTsQb464nck2d/rXWHcGMoI/KIuvhQqHF+iIY/CoEKSxAQpXjP64f1eCmhb7epxHImRgoEpgErATWDu9Wdp+tPbEqnZ6n/eXtc6jUJuVoxC/N8s6867zkqAuBddPy8mW0+TaAOBToCbhTLour7Mop4Pr20Bgz1BcMtN1buZREMW4yTYwIemeBmS9MigGGDnWCxcH64vzC1lpEEF4wL5V8+qit17DzIIL616SEy9PcwvK+OR2VYV599OYZfz+Zzw==;yVexEm9PkTGvahG0F3MxcQ=="
 ---

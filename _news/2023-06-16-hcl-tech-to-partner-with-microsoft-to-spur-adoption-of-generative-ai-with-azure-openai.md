@@ -59,20 +59,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft’s Satya Nadella Is Betting Everything on AI"
-    excerpt: "Satya Nadella—and Microsoft, the company he runs—are riding high on the buzz from its search engine. That's quite a contrast from the first time I spoke with Nadella, in 2009. Back then, he was not so well known,"
-    publishedDateTime: 2023-06-13T10:00:00Z
-    webUrl: "https://www.wired.com/story/microsofts-satya-nadella-is-betting-everything-on-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 86
-    images:
-      - url: "https://media.wired.com/photos/64876c09c30f50376ee874fd/191:100/w_1280,c_limit/Satya-Nadella-Big-Interview-0096_CROP.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "HCL Tech, Microsoft expand partnership to spur adoption of generative AI with Azure OpenAI Service"
     excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness generative artificial intelligence (AI) and develop joint solutions to enable businesses to achieve better outcomes."
     publishedDateTime: 2023-06-15T14:56:00Z

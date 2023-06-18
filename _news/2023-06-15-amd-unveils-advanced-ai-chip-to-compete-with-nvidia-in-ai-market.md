@@ -387,6 +387,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
+    excerpt: "In the three weeks since Nvidia shocked the tech world with its forecast of an unprecedented leap in sales, Wall Street has been on the hunt for other chip companies that could benefit from the latest AI boom. But as the search has gone on, the gulf that ..."
+    publishedDateTime: 2023-06-18T02:38:00Z
+    webUrl: "https://www.ft.com/content/052e9375-b828-4d5c-aca8-d16c8926017c?miRedirects=1"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "onA0KloCEjy14Vazr0v93JkAkBsPkn0b8APM9dxKqTV3vf7oBDDwt2K46g7IF1MIdTFgANj0ZREB0Eg9sYou5i9zOendnfXfu5t6c38r9fqCpC2gSwpThJfN49pvUu+oLhn0mZMJj1zBThDb+eGE5bhWGA4m7HBoDPB1NAqappla1M/RhJHAq0Lmf9kjhBv0DjqLe3nKTUUJxAwkkxcDJ9GfRhgwussRaL+Oyr5RqNn7/GBtmmJhDDlG923b7ubysdbP5cV+5cnPPmNTu4d1co3iVEVt1R2qHJnO0WzK22faQyufmw6hizy1ZdpvzX7XaQvW14848bRpRV2tlrSkMFxkzSlOmwfaJ9XvU8rD3+Y=;JeayTtZ4m7OxHPenuUhZ7g=="
 ---

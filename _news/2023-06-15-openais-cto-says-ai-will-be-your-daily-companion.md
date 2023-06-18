@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-15/openai-s-cto-sa
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-15/openai-s-cto-says-ai-will-be-your-daily-companion"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiS36n9rO6OQ%2F0.jpg"
         width: 480
         height: 360
-        isCached: true
-  - title: "How to create AI art using Azure OpenAI Service"
-    excerpt: "In this article, we’ll discuss how to create your very own AI art using the Azure OpenAI Service. The Azure OpenAI is part of Microsoft’s Azure, is a suite of cloud services that houses some of the most current language models in the field. These ..."
-    publishedDateTime: 2023-06-13T09:46:00Z
-    webUrl: "https://www.geeky-gadgets.com/azure-openai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/06/How-to-create-AI-art-using-Azure-OpenAI-Service.jpg"
-        width: 700
-        height: 475
         isCached: true
   - title: "KORIKA, OpenAI to build AI based on Indonesian values"
     excerpt: "Head of the Artificial Intelligence Industry Research and Innovation Collaboration (KORIKA), Hammam Riza, has said that KORIKA and OpenAI will build an"

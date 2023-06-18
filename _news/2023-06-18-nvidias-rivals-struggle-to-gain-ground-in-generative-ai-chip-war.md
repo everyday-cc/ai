@@ -1,30 +1,22 @@
 ---
 category: news
-title: "AMD reveals details about AI chip that can take on leader Nvidia"
-excerpt: "Su discussed the chip’s capabilities during a keynote presentation in San Francisco, where she showcased an AI system on the MI300X chip writing a poem about the city. “The more memory that you have, the larger the set of models” the chip can handle ..."
-publishedDateTime: 2023-06-14T02:23:00Z
-originalUrl: "https://www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796"
-webUrl: "https://www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796"
-ampWebUrl: "https://www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796?amp=1"
-cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796?amp=1"
+title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
+excerpt: "In the three weeks since Nvidia shocked the tech world with its forecast of an unprecedented leap in sales, Wall Street has been on the hunt for other chip companies that could benefit from the latest AI boom. But as the search has gone on, the gulf that ..."
+publishedDateTime: 2023-06-18T02:38:00Z
+originalUrl: "https://www.ft.com/content/052e9375-b828-4d5c-aca8-d16c8926017c?miRedirects=1"
+webUrl: "https://www.ft.com/content/052e9375-b828-4d5c-aca8-d16c8926017c?miRedirects=1"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Telecom Lead
-  domain: telecomlead.com
+  name: The Financial Times
+  domain: ft.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.telecomlead.com/wp-content/uploads/2022/08/AMD-chipset-business.jpg"
-    width: 640
-    height: 300
-    isCached: true
 
 related:
   - title: "AMD Preps GPU to Challenge Nvidia's Grip on the Generative AI Market"
@@ -70,6 +62,22 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/06/13/shutterstock_1954818265.jpg?width=1200&height=800&fit=crop"
         width: 1000
         height: 667
+        isCached: true
+  - title: "AMD reveals details about AI chip that can take on leader Nvidia"
+    excerpt: "Su discussed the chip’s capabilities during a keynote presentation in San Francisco, where she showcased an AI system on the MI300X chip writing a poem about the city. “The more memory that you have, the larger the set of models” the chip can handle ..."
+    publishedDateTime: 2023-06-14T02:23:00Z
+    webUrl: "https://www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796"
+    ampWebUrl: "https://www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/amd-reveals-details-about-ai-chip-that-can-take-on-leader-nvidia-110796?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 74
+    images:
+      - url: "https://www.telecomlead.com/wp-content/uploads/2022/08/AMD-chipset-business.jpg"
+        width: 640
+        height: 300
         isCached: true
   - title: "AMD launches new Instict MI300X AI chip to take on Nvidia’s GPUs"
     excerpt: "During a keynote speech, AMD Chair and Chief Executive Lisa Su announced the company’s new Instinct MI300X accelerator, which is targeted specifically at generative AI workloads. Generative AI is the technology that underpins OpenAI’s famed chatbot ChatGPT,"
@@ -384,16 +392,7 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
-    excerpt: "In the three weeks since Nvidia shocked the tech world with its forecast of an unprecedented leap in sales, Wall Street has been on the hunt for other chip companies that could benefit from the latest AI boom. But as the search has gone on, the gulf that ..."
-    publishedDateTime: 2023-06-18T02:38:00Z
-    webUrl: "https://www.ft.com/content/052e9375-b828-4d5c-aca8-d16c8926017c?miRedirects=1"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
-secured: "VJ7Izi4jq6HaXw6E0iP3KQXEy5OV2BWNXdDPL7F1P3YZTC24W6hpJCN99iT8ToAUgEgt1Dnznm2yh4Q53pYm2fks9psgETiLViqSbWk0JLFlcZJ3U/BTuqQdjvjwViczBTIAG8fa/9x5ud5D2ENryaOb1zXrhgSxbpXOaEx7Y9M7dIU9gRYP5roeAUrlA9GaUCH3hjMx98iFP0aJnDe0TTlbT+11XZlaDWJRvWaT1PL9ocEl/xz7laow24bhRsMGyFrYerWM+grN8ZrbNbJ5YR7h9Mcxp3/EUwQZLYci/WZbmWkGzuVLpo+2mKCwEG70ENRPRyuFdT9YMzcrx+TdriUHA6f2SEaAGb0hFcLeC5U=;EMc5QIDyyprY7HUXjFi3IQ=="
+secured: "S0JCEg0jihLED9KvDNR7RtdJ+wsPeMkepaS/PRnzhrNu4hMgCYNgaEg5u8IOvo6gO9JQt5ul099dRM6jUiUC1Die+df2eqsti9ZJww0g8nAbzois8rEStwUgVTOFj1Rs44PShykiyg17hpSSp0JT33sExHtm7KeBf+X7lrm+1XV3R2vKTu8YyqocUTmd1SHvUbxCmCtYIEAy1JRh5mRk5/rclSI/qiOz+YzWfvki7WuKvpus+v8AWeRteJw5vEl/XrcV7qDRmNmkUgojGZrXspdXaCvZC3jCbIdpWhi4N/RA6JtFGs5NeI6pH2PH0NMx3e2i1mB7ZllPpyDWPVWqPXFNCUm1Q8wMQIydJ7ik+Yw=;k+oAm/VoxwM9MBTlgYr57g=="
 ---
 

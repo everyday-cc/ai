@@ -7,7 +7,7 @@ originalUrl: "https://www.earth.com/news/machine-learning-reveals-how-to-prevent
 webUrl: "https://www.earth.com/news/machine-learning-reveals-how-to-prevent-covid-19-from-ever-returning/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning uncovers the best drug combos to prevent COVID recurrence"
-    excerpt: "A groundbreaking machine-learning study has unmasked the best drug combinations to prevent COVID-19 from coming back after an initial infection. It turns out these combos are not the same for every patient."
-    publishedDateTime: 2023-06-13T09:41:00Z
-    webUrl: "https://medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-covid.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-covid.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-covid.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-4.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Can Docs Use Machine Learning to Determine COVID Treatment Course?"
     excerpt: "A new study found that a machine-learning approach can trace patient responses to drugs for COVID-19 based on demographic characteristics."
     publishedDateTime: 2023-06-15T17:30:00Z

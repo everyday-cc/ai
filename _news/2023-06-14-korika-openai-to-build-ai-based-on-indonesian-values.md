@@ -47,20 +47,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "How to create AI art using Azure OpenAI Service"
-    excerpt: "In this article, we’ll discuss how to create your very own AI art using the Azure OpenAI Service. The Azure OpenAI is part of Microsoft’s Azure, is a suite of cloud services that houses some of the most current language models in the field. These ..."
-    publishedDateTime: 2023-06-13T09:46:00Z
-    webUrl: "https://www.geeky-gadgets.com/azure-openai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/06/How-to-create-AI-art-using-Azure-OpenAI-Service.jpg"
-        width: 700
-        height: 475
-        isCached: true
 
 secured: "EFLoUVm/Kcv2cadY9q6l61W4V2YTQKh2smZziQ4hokNuKhPeqCEWFiLIX+ql42I592qaGlZzlwFyP9OJf8O6BMGHABZ+iHdiN9UTH8wz6rVRhdQeKFvg/Yoct+HXnWGt0l/o6RMl/hGcJ/lQtjbRNp1GkGHrE1rLJ7IUfcRwiIAxymeNdqXVJKmlDkgXfrArS4PPKZm05ZGjyVTJ64GO/3zeAsO+wEmhjlwIr7hstIsa7Zh18t4Tk7z9cbHJ0nNIrru6cQVhEhjvaMl9tob7BfHfAJ3c0rSio5MNsuQ6jn3TcWJ13g7rtQBUpDdj/bUIev/RWEUK2+PIY++qVyEQdsObs44A0qD8/oFOfgkPOysbu/4aZxzGn7EdxM6xk0/BW/UgEFb2M12LEu8Y7JdMUlB2kWHwo//sCI3xDrBfAO34qLCbc2/AeGfmsscY/Hm2/3bKoM6pGp/J7ODzMP8Po6HwXS7VSiuDcfGcaSK5l4gwMcCPPAeBvnJyO37gqSMBn+otkGzLZiOb6I9u/m2DKA==;F24BcrOji9gBT+ow7lEMtw=="
 ---

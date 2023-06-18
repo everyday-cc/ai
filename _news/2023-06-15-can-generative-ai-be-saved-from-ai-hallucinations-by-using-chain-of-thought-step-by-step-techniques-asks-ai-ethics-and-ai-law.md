@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating through the ethos and sophistication of Generative AI"
-    excerpt: "Generative AI has been the underpinning and steering factor as AI advances from auto-pilot mode to co-pilot mode. Now the new course—of fairness, equity, bias-free development, and deployment—will req"
-    publishedDateTime: 2023-06-13T09:31:00Z
-    webUrl: "https://www.forbesindia.com/article/iim-bangalore/navigating-through-the-ethos-and-sophistication-of-generative-ai/85691/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/iim-bangalore/navigating-through-the-ethos-and-sophistication-of-generative-ai/85691/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/iim-bangalore/navigating-through-the-ethos-and-sophistication-of-generative-ai/85691/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 59
-    images:
-      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_210187_generativeai.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Don't be a victim of AI hallucinations"
     excerpt: "A little knowledge of how artificial intelligence goes a long way in making sure its results aren't entirely made up."
     publishedDateTime: 2023-06-14T17:01:00Z

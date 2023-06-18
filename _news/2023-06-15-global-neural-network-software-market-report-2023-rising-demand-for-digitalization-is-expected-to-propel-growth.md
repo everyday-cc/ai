@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Media and Entertainment Market Report 2023: Featuring Amazon Web Services, GrayMeta, IBM, Microsoft & More"
-    excerpt: "The \"Artificial Intelligence (AI) in Media and Entertainment Market - Forecasts from 2023 to 2028\" report has been added to ResearchAndMarkets.com's offering. AI in media and entertainment market is expected to grow at a CAGR of 31."
-    publishedDateTime: 2023-06-13T10:58:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/13/9831182.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
   - title: "Global Janitorial Services Market Report 2023: Growing Demand for the Real Estate Industry Fuels the Sector"
     excerpt: "The \"Janitorial Services Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior"
     publishedDateTime: 2023-06-13T17:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2023/06/16/could-a-robot-win-a-grammy-ai-music-is
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/16/could-a-robot-win-a-grammy-ai-music-is-eligible-sort-of/amp/"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

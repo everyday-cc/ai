@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Leidos Leads Advancements in Large Language Models and Generative AI, Accelerating Trust and Strategic Partnerships"
-excerpt: "Leidos (NYSE:LDOS), a FORTUNE® 500 science and technology leader, today announced the successful deployment of Large Language Models (LLMs) – the foundational technology"
-publishedDateTime: 2023-06-14T20:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32863248/leidos-leads-advancements-in-large-language-models-and-generative-ai-accelerating-trust-and-strate"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/n32863248/leidos-leads-advancements-in-large-language-models-and-generative-ai-accelerating-trust-and-strate"
-ampWebUrl: "https://www.benzinga.com/amp/content/32863248"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32863248"
+excerpt: "\"Generative AI is going to revolutionize industries and Leidos is at the forefront of putting this powerful technology into action,\" said Jim Carlini, Leidos Chief Technology Officer. \"Years ago, we recognized the potential of the LLMs that power today's Generative AI breakthroughs and began the work to unlock it."
+publishedDateTime: 2023-06-14T21:24:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-leidos-leads-advancements-large-language-models-generative-ai-/2023/06/14/9832964.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-leidos-leads-advancements-large-language-models-generative-ai-/2023/06/14/9832964.htm"
 type: article
-quality: 37
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "AMD unveils MI300x AI chip as 'generative AI accelerator'"
@@ -206,6 +198,6 @@ related:
       domain: insidehpc.com
     quality: 4
 
-secured: "IwRnt16H9o22vyom1N1Zm2nsJMpEM7ZEqRLoip6QI59SpMheZkBdVBXakiYmOpnCPHmg/f2NlstxCR6NAIBV10UeUXod6qjLCMKmumbqCMaqfrssRdMNYIELtlL/fy2Ow6X5YoBQvLyZXC6/UB97KvnGoNEjGNLYPP/uqoJppTMZKwJA50285lk+oWekjLBB0tD66ktGvxX4ezAJdOQygomSk2Efl5YdcXocZMNKp0l43nfKxDdM982N3wuhbseqrHg/UfaRJAFrZ+HZFgnM4eETE+dNEtA0cZb0qrok0GSCFNlz6LZb8+5bjmAtGZQltdlT1VSTpgSkTGkvYkHpqBjnVraz8VsFHE3gRMi0FTA=;yrDBnVxx2SjV2XFL8y2Tdg=="
+secured: "75HBCSE5Ht+q1i7V5s0bSEmxai0zhkv9UwyHow3dmseuhXgeZSy0Egwf8IAXJAVopRMBdB8szxw7GTuMqc3hfXA3+9egrj+MqKNZGM8HogmsvmpaBX0tMXJSh9E3/Rq70gejCDoD+/iimmc8hrkxAWVRMSYTnslkF2SH/QIajuRd/70UDGaHF8qcJYHABAjuUp6xsDiIhz0G52nLU6U81HaEKC008frNa6FWF1x+GzYuJN6QY1jbhA4kJ8q8gE5fMl2cddmmN6XsQX0luqv/Q8osAfMLNtI6QkKbBzjXIT0I14LmqixIoIP32oxogBrVWg4Ytj5vnHhSnG0C2rLjiOL6nBUx/T6QSCkrSTE/eDPJTM2o1HxoP7+i4/ae8UJEIsXJl/CD8QFkiwTzdicQEzQjHeVy/3hNz1zZhM4UgQcOAeaJsKjNRkbW/IUwNx4QEPyNchGmeWR1igrvwg6cnY89zQQe9wMD0OMV0tZgPxhwNVTsvFMGd0Eb+bZ5J9gfogye/lcW82BOh6KE5edrIw==;Mz2BFC321ViYkBhpmt/tsg=="
 ---
 

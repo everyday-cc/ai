@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.mktw.net/im-801260/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Microsoft’s Satya Nadella Is Betting Everything on AI"
-    excerpt: "Satya Nadella—and Microsoft, the company he runs—are riding high on the buzz from its search engine. That's quite a contrast from the first time I spoke with Nadella, in 2009. Back then, he was not so well known,"
-    publishedDateTime: 2023-06-13T10:00:00Z
-    webUrl: "https://www.wired.com/story/microsofts-satya-nadella-is-betting-everything-on-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 86
-    images:
-      - url: "https://media.wired.com/photos/64876c09c30f50376ee874fd/191:100/w_1280,c_limit/Satya-Nadella-Big-Interview-0096_CROP.jpg"
-        width: 1280
-        height: 670
         isCached: true
   - title: "HCL Tech To Partner With Microsoft To Spur Adoption Of Generative AI With Azure OpenAI"
     excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness AI."

@@ -147,34 +147,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "The Beatles Come Together for ‘Last Record’ Using AI, Paul McCartney Says"
-    excerpt: "More than 50 years after the group’s final studio album, Paul McCartney says he has used artificial intelligence to create what he called “the last Beatles record.”"
-    publishedDateTime: 2023-06-13T10:04:00Z
-    webUrl: "https://www.wsj.com/articles/the-last-beatles-record-to-be-released-this-year-using-ai-paul-mccartney-says-45a950d6?mod=newsviewer_click"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 66
-    images:
-      - url: "https://images.wsj.net/im-799253/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "‘The Last Beatles Record’ to Be Released This Year Using AI, Paul McCartney Says"
-    excerpt: "More than 50 years after the group’s final studio album, Paul McCartney says he has used artificial intelligence to create what he called “the last Beatles record.”"
-    publishedDateTime: 2023-06-13T10:04:00Z
-    webUrl: "https://www.wsj.com/articles/the-last-beatles-record-to-be-released-this-year-using-ai-paul-mccartney-says-45a950d6"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 62
-    images:
-      - url: "https://images.wsj.net/im-799253/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI helped create 'last Beatles record,' Paul McCartney says"
     excerpt: "Paul McCartney says artificial intelligence has been used to extract John Lennon’s voice from an old demo to create “the last Beatles record.\""
     publishedDateTime: 2023-06-13T12:02:00Z
@@ -190,22 +162,6 @@ related:
       - url: "https://s.abcnews.com/images/International/wirestory_2dc3d8c818e12b708d4e9409cb7dc856_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "AI used to create new and final Beatles song, says Paul McCartney"
-    excerpt: "Musician says he used technology to ‘extricate’ John Lennon’s voice from an old demo and complete a decades-old song"
-    publishedDateTime: 2023-06-13T09:50:00Z
-    webUrl: "https://www.theguardian.com/music/2023/jun/13/ai-used-to-create-new-and-final-beatles-song-says-paul-mccartney"
-    ampWebUrl: "https://amp.theguardian.com/music/2023/jun/13/ai-used-to-create-new-and-final-beatles-song-says-paul-mccartney"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2023/jun/13/ai-used-to-create-new-and-final-beatles-song-says-paul-mccartney"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/81ffa97a938cdc60ec66d6e44ac2ae1b185aa5f6/0_100_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=d0436e5360b22fab803598b872b14f12"
-        width: 620
-        height: 372
         isCached: true
   - title: "Paul McCartney reveals AI was used to create the 'last Beatles record'"
     excerpt: "McCartney revealed that what he called \"the last Beatles record\" is on its way, adding that it was created with the help of AI. \"It was a demo that John had that we worked on,\" he"
@@ -340,15 +296,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 17
-  - title: "Paul McCartney says \"final\" Beatles song coming thanks to artificial intelligence"
-    excerpt: "When it comes to artificial intelligence, Sir Paul McCartney doesn't sound like he's willing to just \"Let It Be.\""
-    publishedDateTime: 2023-06-13T10:32:00Z
-    webUrl: "https://www.cbsnews.com/sacramento/news/paul-mccartney-says-final-beatles-song-coming-thanks-to-artificial-intelligence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 12
   - title: "Paul McCartney says AI helped him finish one last Beatles song – here’s what I think is coming"
     excerpt: "\"When we came to make what will be the last Beatles record… We were able to get John's voice through AI.\" Ahead of his exhibition at @NPGLondon of Beatles photos, Sir Paul McCartney spoke to @Marthakearney and revealed that a new record will be released this year. #R4Today"
     publishedDateTime: 2023-06-13T17:38:00Z

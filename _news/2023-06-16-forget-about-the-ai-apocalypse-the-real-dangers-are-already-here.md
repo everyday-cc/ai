@@ -3,8 +3,8 @@ category: news
 title: "Forget about the AI apocalypse. The real dangers are already here"
 excerpt: "Two weeks after members of Congress questioned OpenAI CEO Sam Altman about the potential for artificial intelligence tools to spread misinformation, disrupt elections and displace jobs, he and others in the industry went public with a much more frightening possibility: an AI apocalypse."
 publishedDateTime: 2023-06-16T08:19:00Z
-originalUrl: "https://edition.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html"
-webUrl: "https://edition.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html"
+originalUrl: "https://www.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html"
+webUrl: "https://www.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "zk7v7UgCr5SsKgGn0B7rdw1QnTBtXWZ3PrdgKr+RGOOnGEQs4Pf32Ro9/Y6XHd3nh8dJVKe7s5qxevVlhzsQ8kQ7glhVC/DxG+fpIWMdpNpWc9A3WFVY9CIucanLbXD9ZewJbjgNMGBoLqvlonlkzRiSTVHuLGAznJ63BpMglQXo+fXl3fjMMIsVd5RY5vBDXWrSOq73h3JOD94p4/+ONgeJQzcAeU21X6nbihaSeWghrWB2Y0pSgmcD0d+/7qZhUxjB4dKmNuPH0UahWWIbEOxiybVbR/FtpVzWB2peb3Gu6m3qCVhcLy2NncbROaJC5m6te1WjYQso6AfiDJhoqGsrq+fRO49Y8ULde6x5oLn2vhOclpfhAAaDfqe5ZoaMEh2Otcr0EbdIU+sK9y3C+ckYCLdRefncTNENFOSPo/X0Gic4apmqBXmevN39laX9E9GtC0lks1rw8v+SG2SjeS+sYM3jhGv4cTyLqYihhodgR2Hv1RITFoK4Luj3UQ/CzG7LVDAGCf5D56XcV5OWRw==;qxSXTQrG/tm67JLW2xPTRw=="
+secured: "HSnB6BdLviWUT9KnE9dlLsXl4b60sqfPq1+AUOWX5iT4DCRbbm7dlAWotMiQ1L0Ry9rL2pLm8ZIST4Pfi1O/6DGkTgPwIzq0BhU4p8546pZubk6DZc4YExVPoxPMIv/+d1MgIdumkaoRsu6DTrGpveb1lACYdMduj6+TS7qHdlAEqZl1IRq+Mjo0DZN4UZExtsiewdDspI54l+a/Hj01W2l80Hb931xoV23dfSM7M08j/P3OsWaUqjMjy1/S6g833kbYg9d/0I2BowKNJ1vIlsloIi3NCHrZ3Q9sy+6kDTmnW6lEvwNBBqwXsG6kZc2hy6qb1mfaICb8fetl5hU0e7pFAr/pjJpy4ilr0yVKE1w=;3Z63wZy9urQKOYX+5KAbHg=="
 ---
 
