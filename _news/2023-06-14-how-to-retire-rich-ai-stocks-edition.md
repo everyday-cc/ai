@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-to-retire-rich
 webUrl: "https://markets.businessinsider.com/news/stocks/how-to-retire-rich-ai-stocks-edition-1032388817"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,10 +23,10 @@ topics:
   - AI
 
 related:
-  - title: "3 Stocks These AI-Powered ETFs Are Betting On"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Given how popular artificial intelligence (AI) exchange-traded funds (ETFs)"
-    publishedDateTime: 2023-06-14T09:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-powered-etf-stock-picks-to-buy-1032388370"
+  - title: "How to Retire Rich: AI Stocks Edition"
+    excerpt: "On the intelligent digitalization front, Big Blue enters the arena with IBM Watson. A powerful platform developed by top engineers and data scientists, Watson builds trust and scales AI protocols across various cloud environments. In addition, IBM Watson ..."
+    publishedDateTime: 2023-06-14T23:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-retire-rich-ai-stocks-edition-2-1032390191"
     type: article
     provider:
       name: Business Insider
@@ -40,15 +40,6 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
-  - title: "Are Investors Still Interested in Artificial Intelligence ETFs?"
-    excerpt: "The Global X Robotics & Artificial Intelligence ETF (BOTZ) is the largest AI-focused fund currently trading on U.S. markets with $2.5 billion in assets. Launched on September 12, 2016, BOTZ has an expense ratio of 0."
-    publishedDateTime: 2023-06-15T21:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/are-investors-still-interested-in-artificial-intelligence-etfs"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
     quality: 49
   - title: "AI Is the Gold, These 3 Stocks Are the Picks & Shovels"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying the new gold rush hitting Wall Street, which is the"
@@ -68,20 +59,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Are AI ETFs Worth the Hype?"
-    excerpt: "And the lack of consensus shows: the two largest AI ETFs, Global X Robotics & Artificial Intelligence ETF BOTZ and iShares Robotics and Artificial Intelligence Multisector ETF IRBO, focus more ..."
-    publishedDateTime: 2023-06-14T13:34:00Z
-    webUrl: "https://www.morningstar.com/etfs/are-ai-etfs-worth-hype"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 39
-    images:
-      - url: "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/KiAjhPgxvrVmiRZ-T63JBOTvjRI=/2500x1406/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/54RIEB5NTVG73FNGCTH6TGQMWU.png"
-        width: 2500
-        height: 1309
-        isCached: true
 
 secured: "QsTw9ZWTLFNI9dZFuObAOGvvaOZMA4AAyZlg7wfVkhcvkjhTNGCcdFJbVXsQdoFDh+sNlo8ERNFqMPRuQN0ES/9ivfojQiYObe7Wn6GSHwELKP5VMTmQtNYmP9rBx9tCd62+jxJqBDSR3/HpF3299BYYPiex+J6QmTetESdj5OqJGm0Hk3u0TGhYbTS9/iIbWkQM86XNyUCmDINtHzyO5gW8Y2ig3al+ijdu00VJM49ZXPXClmbK7K9aNvZpF5YdWQTZYC/A3Z4WEODyIaz4CXJidajFBiyo2VviFMmR0ebV3cE/VbZQD3EAJDY27NNfeDLqIaY7u7yd6i4W5yWh1+dVbsex/QKnNJ5zhzhiYrKH6t+pFuXpXv3uTIF5s+xOqYUzNuGGgUqwZQPZV3T17u6ydbFbEVFw4kXnvzlCRy8UUvQ85s9IuqibwpSJfWd82JMC7pXyZUB6L6t+obk79eUlG5wfsi2193evMmItmcc/uFjW+Hzaq1TwkAjTXT+DmdEpvUhQ2RU0lXz2Pl5EIw==;2czx9YmMNrHbWDupBmE9Sw=="
 ---

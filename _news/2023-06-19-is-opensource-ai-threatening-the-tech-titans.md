@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2023/06/18/is-opensource-
 webUrl: "https://www.forbes.com/sites/cindygordon/2023/06/18/is-opensource-ai-threatening-the-tech-titans/"
 type: article
 quality: 67
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "The perils of open-source AI"
+    excerpt: "Experts are waking up to the threat posed by artificial intelligence programmes if they fall into malevolent hands"
+    publishedDateTime: 2023-06-14T15:00:00Z
+    webUrl: "https://www.ft.com/content/0cad55cd-7f07-4fd6-86b7-a2bbfacd214c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "SourceScrub Integrates Generative AI to Transform Private Equity Deal-Sourcing"
     excerpt: "Sourcing GPT applies the generative AI capabilities of Open AI’s GPT models to SourceScrub’s best-in-class deal-sourcing software. Now in customer beta testing, the generative AI tool joins a suite of AI-driven capabilities SourceScrub provides to enable business development and deal-sourcing teams to find and develop the right opportunities faster than the competition."
     publishedDateTime: 2023-06-15T11:33:00Z

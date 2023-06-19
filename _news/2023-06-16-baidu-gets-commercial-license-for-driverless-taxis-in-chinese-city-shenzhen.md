@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu wins commercial licence for driverless taxis in Shenzhen"
-    excerpt: "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off."
-    publishedDateTime: 2023-06-16T10:58:00Z
-    webUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
+  - title: "Baidu Wins Commercial Licence for Driverless Taxis in Shenzhen"
+    excerpt: "China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen. Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen,"
+    publishedDateTime: 2023-06-16T08:26:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Baidu gets licence to operate driverless taxis in Shenzhen"
     excerpt: "Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen, making it the fourth city in which the company's driverless cars operate in."
     publishedDateTime: 2023-06-16T12:35:00Z

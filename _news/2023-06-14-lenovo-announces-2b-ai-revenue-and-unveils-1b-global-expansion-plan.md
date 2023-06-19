@@ -33,20 +33,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Lenovo to Invest $1 billion for Accelerating AI Solutions"
-    excerpt: "Lenovo has announced $1 billion over the next three years to expand its infrastructure solutions and accelerate the deployment of AI"
-    publishedDateTime: 2023-06-14T10:47:00Z
-    webUrl: "https://analyticsindiamag.com/lenovo-to-invest-1-billion-for-accelerating-ai-solutions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/How-Data-Democratisation-Gives-Lenovo-an-Edge-on-its-UI-UX-Play-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Accenture announces $3bn bet on AI to help build new industry solutions"
     excerpt: "The new investment is part of Accenture’s continued efforts to build itself as a leader in AI Accenture announces $3bn bet on AI to help build new industry solutions Accenture, AI adoption, AI innovation,"
     publishedDateTime: 2023-06-14T11:48:00Z

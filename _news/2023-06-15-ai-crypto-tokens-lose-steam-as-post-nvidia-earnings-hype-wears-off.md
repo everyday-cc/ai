@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-toke
 webUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-tokens-lose-steam-as-post-nvidia-earnings-hype-wears-off-1032390187"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip race heats up as AMD introduces rival to Nvidia technology"
-    excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with fellow chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools"
-    publishedDateTime: 2023-06-14T09:26:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/06/14/amd-generative-ai-chip-mi300x-nvidia/b5abd09c-0abe-11ee-8132-a84600f3bb9b_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 54
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJXSPRQKXYI65AJSVBDAB453TM.jpg&w=1440"
-        width: 1440
-        height: 980
-        isCached: true
   - title: "AMD’s AI chip challenge to Nvidia remains uphill task"
     excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know – who plans to buy it."
     publishedDateTime: 2023-06-15T01:16:00Z

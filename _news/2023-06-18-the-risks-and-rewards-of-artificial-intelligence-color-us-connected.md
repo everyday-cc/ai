@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 979
         isCached: true
+  - title: "Applied Artificial Intelligence: The Key to Success During Economic Uncertainty in the Food & Beverage Industry"
+    excerpt: "By Terry Smagh, Senior Vice President and General Manager for Asia Pacific and Japan, Infor In the face of high inflation and increased prices, innovative food and beverage companies have turned to ar"
+    publishedDateTime: 2023-06-19T02:31:00Z
+    webUrl: "https://www.ryt9.com/en/prg/268800"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 32
+    images:
+      - url: "https://www.ryt9.com/img/files/20230619/iq26c4fde2d4a0439837a926a12796c5ef.jpg"
+        width: 800
+        height: 800
+        isCached: true
 
 secured: "9yy9oWwAytNHBrveW2jzYiLxsu4TiJJczhBE3MPv7YBwA4V13h4myZM4x0q2jTqX8gf4vZhOaBeJ+zblkkN++uNn6u2hO/9FJSmQeKyD71AyGV/gZzBmVsgu1Md9Ijo1g9VgO5j0Gzb5NSX/rxWCC0EcFl8yiIJe52yYE5GWl1VSWY0VvXbN1F1pN2iNwhwW4RnZSCtLUNy7ckRMeGyKoLnFJbzst8Ek+rjOzYItuea5YljFzmNoKw7qRIP6lbhrt26EhUUW0rzA7M8dJYmLE8T13z6gHHEVwDXN7v4GVftYDuSuGV1QDAR5NQrBY6XAW9lU8QJQ5CZgrebtWfBZ1D9mgwTCCQsp6LnJpk63ZUX10CiqIphMz1d7SIGFFd1p1RDlm8HCS+E7QqHRyKeGzwesi/eljtOsWM4q5Sw8/Kx9NQtJfPxf1dfjWZ1+8T55d/oanRh9Pz8Sp11ARrI64v8vfuDiGMbqIFr/dXTY2vzL7XScpRANlp+f+DM63l2GVt6I1e7OwPCgx+hXmKsoEw==;OAvSqS13HrY9rrPJ/xJW6w=="
 ---

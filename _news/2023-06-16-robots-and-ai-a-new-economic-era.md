@@ -9,7 +9,7 @@ ampWebUrl: "https://www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-e
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/06/17/205184.jpg"
         width: 1200
         height: 979
+        isCached: true
+  - title: "Applied Artificial Intelligence: The Key to Success During Economic Uncertainty in the Food & Beverage Industry"
+    excerpt: "By Terry Smagh, Senior Vice President and General Manager for Asia Pacific and Japan, Infor In the face of high inflation and increased prices, innovative food and beverage companies have turned to ar"
+    publishedDateTime: 2023-06-19T02:31:00Z
+    webUrl: "https://www.ryt9.com/en/prg/268800"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 32
+    images:
+      - url: "https://www.ryt9.com/img/files/20230619/iq26c4fde2d4a0439837a926a12796c5ef.jpg"
+        width: 800
+        height: 800
         isCached: true
   - title: "The risks and rewards of artificial intelligence: Color Us Connected"
     excerpt: "A month or so ago, a friend suggested that an artificial intelligence (AI) app could write a press release just about as well as I could."

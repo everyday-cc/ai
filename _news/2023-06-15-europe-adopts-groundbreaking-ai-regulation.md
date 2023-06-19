@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Regulation Is Almost Here in Europe"
-    excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
-    publishedDateTime: 2023-06-14T10:10:00Z
-    webUrl: "https://www.wsj.com/articles/ai-regulation-is-almost-here-in-europe-10b32c8f"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-799506/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Europe votes on Artificial Intelligence Act"
     excerpt: "Lawmakers in Europe signed off Wednesday on the world's first set of comprehensive rules for artificial intelligence, clearing a key hurdle as authorities across the globe race to rein in A.I. (June 1"
     publishedDateTime: 2023-06-14T18:50:00Z

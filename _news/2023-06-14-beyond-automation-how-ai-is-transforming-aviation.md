@@ -25,68 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "IBM watsonx.ai: Open source, pre-trained foundation models make AI and automation easier than ever before"
-    excerpt: "Discover how watsonx.ai and its pre-trained, open source foundation models make it easier to train, turn and deploy AI across your business.\nThe post IBM watsonx.ai: Open source, pre-trained foundation models make AI and automation easier than ever before appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-06-14T11:00:00Z
-    webUrl: "https://www.ibm.com/blog/ibm-watsonx-ai-open-source-pre-trained-foundation-models-make-ai-and-automation-easier-than-ever-before/"
+  - title: "Build a multilingual automatic translation pipeline with Amazon Translate Active Custom Translation"
+    excerpt: "Dive into Deep Learning (D2L.ai) is an open-source textbook that makes deep learning accessible to everyone. It features interactive Jupyter notebooks with self-contained code in PyTorch, JAX, TensorFlow, and MXNet, as well as real-world examples, exposition figures, and math. So far, D2L has been adopted"
+    publishedDateTime: 2023-06-15T16:49:07Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-multilingual-automatic-translation-pipeline-with-amazon-translate-active-custom-translation/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 117
+      name: AWS
+      domain: aws.amazon.com
+    quality: 92
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/ibm-watsonxai-a04.l_2x1.jpg"
-        width: 1312
-        height: 656
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/15/multilingual-translation-pipeline.jpg"
+        width: 1017
+        height: 509
         isCached: true
-  - title: "The disruptive potential of open data lakehouse architectures and IBM watsonx.data"
-    excerpt: "Learn about watsonx.data, a data store built on an open data lakehouse architecture to help organizations scale AI workloads.\nThe post The disruptive potential of open data lakehouse architectures and IBM watsonx.data appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-06-15T12:05:00Z
-    webUrl: "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 91
-  - title: "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions"
-    excerpt: "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030"
-    publishedDateTime: 2023-06-15T11:42:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 76
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGY3MGQ1ODUtM2NiNS00/0/image2-mohammedalromaizan-vpsapsaudiarabiaandashutoshmuni-interimmpofibmconsultingsaudiarabia-alongsideibm-sapteam-jpg.jpeg?f=3%3A2"
-        width: 873
-        height: 582
-        isCached: true
-  - title: "The perils of open-source AI"
-    excerpt: "Experts are waking up to the threat posed by artificial intelligence programmes if they fall into malevolent hands"
-    publishedDateTime: 2023-06-14T15:00:00Z
-    webUrl: "https://www.ft.com/content/0cad55cd-7f07-4fd6-86b7-a2bbfacd214c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
-  - title: "EU gives more power to AI translation machines"
-    excerpt: "The European Commission has launched a pilot project to translate some press releases without any human oversight."
-    publishedDateTime: 2023-06-15T13:01:00Z
-    webUrl: "https://www.politico.eu/article/ai-technology-eu-commission-parliament-gives-more-power-to-ai-translation-machines/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 19
 
 secured: "wBE0tTPh6w5uZsQPEBETXgOy4CRjXcN7UzFIioGXaj9hfJuN0xIlpLhCSNwwzfNvtVfuT/zOhtvvHOZwoiUSc+D6hgkPZaEgjxd3FDjm/w2oKND7HEhxXja5GgsIH6GHTgOuhpMcQH5hnB+B0IavRXQ5KfIfJUqji2/vey+/y2YfP/GnpKE9B53KbK+edwBwfPuICe2nlReb6WlnsJwFgmaNPtVU4AJ+V9lnKC1DH0x0/IkP8Yay2b+DrHs0mKYIewCTubvf7QZugNYesHNTlXJzFXawBRAt8qYEGLKPt9S+K6GeszNjBItgzz67GDE+8hRi+Tc5x121uaZr1KOA3Kn0tDhnJyBz2h46Cnh1TU8TRFGVdnyUt7s/r+LGTfH6HJ/hZQOvuKr+0g1QL3c//qVfyvAphk7CHUtHqYUcfw6spF4MiDiZ+ftgbphkVhgQ7rZAmXOFaRz6xmbVK7+bdexCHcgSm5GfjAqI0bkZR/GFEzyND1c/GSO62Xx7btG31beN1TvAx+aodYgjeFKotw==;buNfgreNML6rH2EjbNXYTg=="
 ---

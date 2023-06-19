@@ -64,36 +64,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How Europe Is Leading the World in the Push to Regulate Artificial Intelligence"
-    excerpt: "One of the EU's main goals is to guard against any AI threats to health and safety and protect fundamental rights and values."
-    publishedDateTime: 2023-06-14T09:30:00Z
-    webUrl: "https://time.com/6287116/european-union-artificial-intelligence-law/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 63
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
-  - title: "EU lawmakers agree to changes in draft artificial intelligence rules"
-    excerpt: "The lawmakers will now have to thrash out details with EU countries before the draft rules become legislation."
-    publishedDateTime: 2023-06-14T10:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/articleshow/100991890.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/eu-lawmakers-agree-to-changes-in-draft-artificial-intelligence-rules/amp_articleshow/100991890.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-364372,msid-100992047/file-photo-european-union-flags-flutter-outside-the-european-commission-headquarters-in-brussels.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "How to Regulate AI? Start With the Data."
     excerpt: "Data is an afterthought for many artificial-intelligence developers. It should be the first thought for policy makers, writes Susan Aaronson."
     publishedDateTime: 2023-06-15T13:15:00Z
@@ -136,6 +106,15 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
+    quality: 19
+  - title: "EU gives more power to AI translation machines"
+    excerpt: "The European Commission has launched a pilot project to translate some press releases without any human oversight."
+    publishedDateTime: 2023-06-15T13:01:00Z
+    webUrl: "https://www.politico.eu/article/ai-technology-eu-commission-parliament-gives-more-power-to-ai-translation-machines/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
     quality: 19
 
 secured: "U/D2Z0fPQ2HImCTrrHAXA2LGPFDoJnpHvrQnZDdbQTOU7zxHF8cKkgrJXFhYkCVDhzz89y7nO1N8omCvlEzAh64+OaFrUTc+/7VzTKbr5pjvGCY4nycH3Nt4i/EXElefdAapWJ1SZcMCUgFQ6aMl+4KZ7TT3O6Bxzek8iTIsUVhEf1YDiylLbx/PawQKLZfmXkpmF0bURYE/XtknhscO8VkTP7297TEaCSFVt7P39OsrIiYx741zeRkPm2RaIWzjmaUpGvyyTLo6Xmc04v0Ix27Xx8IZ6Y01D1IVy79o3AiuJYyzkimuKpO5Woe+CRU6oVmk/42r8UOj0uEvfw6fpXQTIJzoXEUZUUSel6jqcnw2ZEz/wX+vow39Ax20ArOCuCSmGL53jNLuLmvnePplT3hkMySDyMuwn7B6XmlP4uCW8DgdIzXGs/NFdiq4p0AOTx2yBqh1+RqC26aJ92sW6n5T97Y3lRAYiB6pcfqRhhpTsgGV96Y80GXdLG9hMFwYStESaQZpOw2iZSkrrmVJ8w==;+gKyn+Z1UsBeqBG7+O9eZw=="

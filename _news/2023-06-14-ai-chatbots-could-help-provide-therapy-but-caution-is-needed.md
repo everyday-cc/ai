@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/ai-chatbots-could-help-pr
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/103408730-IMG_9049rr.jpg?v=1686909601&w=1920&h=1080"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "AI chatbots in dermatology: Promising, but proceed with caution, says new study"
+    excerpt: "Study finds AI chatbots in dermatology show promise in answering patient questions and simplifying medical jargon, but limitations in accuracy and knowledge highlight the need for cautious integration into clinical practice."
+    publishedDateTime: 2023-06-19T03:26:00Z
+    webUrl: "https://www.news-medical.net/news/20230618/AI-chatbots-in-dermatology-Promising-but-proceed-with-caution-says-new-study.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 35
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_751389_16871450926988823.jpg"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "A chatbot that’s cautious about GPT, AI pronouncements, and a VC looks to Israel"
     excerpt: "In the latest edition of STAT's Health Tech newsletter: a chatbot that's cautious about GPT, a string of AI announcements, and a VC looks to Israel."

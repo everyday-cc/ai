@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "‘AWS considering new AI chips from AMD’"
-    excerpt: "AWS may want to use AI chips from AMD processors. \"We are still working together on exactly where that will land between AWS and AMD,\" Amazon's Dave Brown"
-    publishedDateTime: 2023-06-14T09:40:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/107470/aws-considering-new-ai-chips-from-amd/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 71
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/01/shutterstock_1584762601.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "AWS is considering AMD's new AI chips"
     excerpt: "Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from Advanced Micro Devices, though it has not made a final decision, an AWS executive told Reuters."
     publishedDateTime: 2023-06-14T19:47:00Z
@@ -112,15 +98,6 @@ related:
         width: 620
         height: 503
         isCached: true
-  - title: "Amazon expresses interest in AMD's new AI chips"
-    excerpt: "To break Nvidia's dominance, AMD needs a big-ticket customer for its new AI chips. Amazon could benefit from the flexibility offered by AMD."
-    publishedDateTime: 2023-06-14T10:40:00Z
-    webUrl: "https://interestingengineering.com/innovation/amazon-buying-amd-new-ai-chips"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
   - title: "Amazon mulling use of AMD chips for AWS, eschews Nvida cloud system"
     excerpt: "Whether AMD will be successful in its attempt to take share away from dominant player Nvidia in the AI chip market is uncertain."
     publishedDateTime: 2023-06-14T20:57:00Z

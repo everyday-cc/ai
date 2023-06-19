@@ -24,68 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "IBM watsonx.ai: Open source, pre-trained foundation models make AI and automation easier than ever before"
-    excerpt: "Discover how watsonx.ai and its pre-trained, open source foundation models make it easier to train, turn and deploy AI across your business.\nThe post IBM watsonx.ai: Open source, pre-trained foundation models make AI and automation easier than ever before appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-06-14T11:00:00Z
-    webUrl: "https://www.ibm.com/blog/ibm-watsonx-ai-open-source-pre-trained-foundation-models-make-ai-and-automation-easier-than-ever-before/"
+  - title: "Is OpenSource AI Threatening The Tech Titans?"
+    excerpt: "Open-source AI can be defined as software engineers collaborating on various artificial intelligence projects that are open to the public to develop. The goal is to better integrate computing with humanity."
+    publishedDateTime: 2023-06-18T21:54:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/06/18/is-opensource-ai-threatening-the-tech-titans/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 117
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/ibm-watsonxai-a04.l_2x1.jpg"
-        width: 1312
-        height: 656
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648f7a783dd766b3fe5e44a7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 720
         isCached: true
-  - title: "The disruptive potential of open data lakehouse architectures and IBM watsonx.data"
-    excerpt: "Learn about watsonx.data, a data store built on an open data lakehouse architecture to help organizations scale AI workloads.\nThe post The disruptive potential of open data lakehouse architectures and IBM watsonx.data appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-06-15T12:05:00Z
-    webUrl: "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/"
+  - title: "SourceScrub Integrates Generative AI to Transform Private Equity Deal-Sourcing"
+    excerpt: "Sourcing GPT applies the generative AI capabilities of Open AI’s GPT models to SourceScrub’s best-in-class deal-sourcing software. Now in customer beta testing, the generative AI tool joins a suite of AI-driven capabilities SourceScrub provides to enable business development and deal-sourcing teams to find and develop the right opportunities faster than the competition."
+    publishedDateTime: 2023-06-15T11:33:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833321.htm"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 91
-  - title: "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions"
-    excerpt: "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030"
-    publishedDateTime: 2023-06-15T11:42:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 76
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGY3MGQ1ODUtM2NiNS00/0/image2-mohammedalromaizan-vpsapsaudiarabiaandashutoshmuni-interimmpofibmconsultingsaudiarabia-alongsideibm-sapteam-jpg.jpeg?f=3%3A2"
-        width: 873
-        height: 582
-        isCached: true
-  - title: "Beyond Automation: How AI Is Transforming Aviation"
-    excerpt: "“We strongly believe that generative AI will really start helping scale these things to the much bigger ... the impact that AI will have on the job market is not yet clear. Robots have already taken over some tasks that humans originally performed ..."
-    publishedDateTime: 2023-06-14T15:33:00Z
-    webUrl: "https://www.ainonline.com/aviation-news/aerospace/2023-06-14/beyond-automation-how-ai-transforming-aviation"
-    type: article
-    provider:
-      name: Ainonline.com
-      domain: ainonline.com
-    quality: 39
-    images:
-      - url: "https://www.ainonline.com/sites/default/files/styles/app_large_full/public/uploads/2023/05/363web-plane.jpg?itok=_y7c-TJV"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "EU gives more power to AI translation machines"
-    excerpt: "The European Commission has launched a pilot project to translate some press releases without any human oversight."
-    publishedDateTime: 2023-06-15T13:01:00Z
-    webUrl: "https://www.politico.eu/article/ai-technology-eu-commission-parliament-gives-more-power-to-ai-translation-machines/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 19
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "J7gpaZib3Ic0cwdy7FI94N8SyaxMJuM2sQuDRMUFQ3rvOHhLtgyS7uDAkcYjlN7yoIPU5VDHshQ1TBnwaAW6Zcq6DClUW332jSX5UllmCS3ZnYrNm0lqGts6VqC/UsUYW98QZdMGjuTvLFFB/ZQEAVkI75JiFrvJ4TGMx1wi8iMP6H/CiCzpYJoakkA+Ihl7ETFEcZsoQXZs3SZW5nzf70RUj+gNnRgh5u4u6FJf6jZt4F2uOMAnUOIK/QSxZSacPTvynox+7nt4Mp1ots/rMbpB67XE/RMUNH2s4Py+XRoBE4IJ9dTYsZBYmCJMBXD1/OBAKu2JtvXoy6ciYTLS4+0tMEzwdDy/l4V5K9ntfeA=;Z75FXuxa2sb2esdu0M3rWg=="
 ---

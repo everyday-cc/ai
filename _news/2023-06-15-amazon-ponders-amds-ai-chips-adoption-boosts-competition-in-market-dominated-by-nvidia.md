@@ -55,22 +55,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AMD reveals new A.I. chip challenging Nvidia's dominance"
-    excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday, June 13, gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp. The California-based AMD said its most-advanced graphics processing unit (GPU) for AI ..."
-    publishedDateTime: 2023-06-14T09:41:00Z
-    webUrl: "https://cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance"
-    ampWebUrl: "https://cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/amd-reveals-new-a-i-chip-challenging-nvidia-s-dominance/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/7c1f330a-757a-42bd-a5d2-ce768bc15a4b.jpg"
-        width: 740
-        height: 492
-        isCached: true
 
 secured: "XeahLLuM3wPJZTjMzijU2PTL2n6QPrL2SRaqulLzCHhdUFg8oFqwOk3LO9ctgFnY+HhhRGS+UR7thKjjkWehz/JxToa023iPRiVdBd/if243uSpbceV+U/o0zfJWHvIz8CZ8kN5HyueQbhVw5ENBBeAu/GsAJqjPpdsodgmaZ70zz8rjXfuPNpqpZ50sXyCIsEbs4qVafypxLy6gkQ8Ifjm1BkbcnWGJK9OUcGrwyyuYihWliLHKh/bSG8hTxSgapLi8sp5gV477/VbYGJMUePQRsFDf5YGNkl9toaxFCUpMgP0SDs16+APIZS6Ya37xbB5lLtwrucyEdmUxyyuHqrLSLsx2bEbortlsoQFKPWrMYKAQKsyVh7FyaLBOwbVH4wA3UslqUAhGbLXnFbnPk6QxBGJrtSRa3bqE09qkcj8fMDrKcuqrM74e31gw3JidQYppNd30TnQ+xYRIvOr/Gr9hND4sN0XKDHr9TolPh9a5u9a1xAOd9NppJf47g3ayHAXnKwMPFIJRhDRkuZBO2g==;7eyHj6hcv7aylnsXmKsOTg=="
 ---

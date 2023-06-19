@@ -18,6 +18,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Global Neural Network Software Market Report 2023: Rising Demand for Digitalization is Expected to Propel Growth"
+    excerpt: "This report provides strategists, marketers and senior management with the critical information they need to assess the neural network software market. The global neural network software market is expected to grow from $21."
+    publishedDateTime: 2023-06-14T23:25:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/14/9833056.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "7wWpSKpXdls5iHVanLXlJgc1hgdHd9BZ3shQIY2ZWzQS54+X3+cVYYRGvbSyGBcqe/cV0L2PSVu0iL3jwGP5GfA7PStbtbidT0wRyIY5brvvm9h3eVy6rS2/BGeNiWw4OVgmzMzD62fzKn/2DbI9o9kgoaTm3lDqc569fd19sR9Bhwglp9s1ywoP9WilzObgLQ6k46IiOk+nGMtNDSM63N3SycVFi4TdOMXuWXah+O+tGG4FOjxM9qzWp6yArXghKejs1BIUgpxrGwQP34QtImk/6X9J/cDxoSAG4PNwxEaCFci1HTt7nk8DYYOdzP25DSHHPO+9TGGgPbupDDhsTjX9GAEg+juUIE2JEp5O4/U=;nXHf8clyDesDEY7SLf6cxg=="
 ---
 

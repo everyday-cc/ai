@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Applied Artificial Intelligence: The Key to Success During Economic Uncertainty in the Food & Beverage Industry"
+    excerpt: "By Terry Smagh, Senior Vice President and General Manager for Asia Pacific and Japan, Infor In the face of high inflation and increased prices, innovative food and beverage companies have turned to ar"
+    publishedDateTime: 2023-06-19T02:31:00Z
+    webUrl: "https://www.ryt9.com/en/prg/268800"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 32
+    images:
+      - url: "https://www.ryt9.com/img/files/20230619/iq26c4fde2d4a0439837a926a12796c5ef.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "The risks and rewards of artificial intelligence: Color Us Connected"
     excerpt: "A month or so ago, a friend suggested that an artificial intelligence (AI) app could write a press release just about as well as I could."
     publishedDateTime: 2023-06-18T09:20:00Z

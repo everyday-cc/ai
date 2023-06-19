@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/14/europe-takes-another-big-step-towa
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Regulation Is Almost Here in Europe"
-    excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
-    publishedDateTime: 2023-06-14T10:10:00Z
-    webUrl: "https://www.wsj.com/articles/ai-regulation-is-almost-here-in-europe-10b32c8f"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-799506/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Europe Adopts Groundbreaking AI Regulation"
     excerpt: "The European Union Parliament, in a landmark move, has voted in favor of the proposed Artificial Intelligence Act, revolutionizing the regulatory landscape of AI in the continent. This pivotal decision ushers in a new era of AI governance,"
     publishedDateTime: 2023-06-14T20:05:00Z

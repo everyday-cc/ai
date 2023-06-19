@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "‘AWS considering new AI chips from AMD’"
-    excerpt: "AWS may want to use AI chips from AMD processors. \"We are still working together on exactly where that will land between AWS and AMD,\" Amazon's Dave Brown"
-    publishedDateTime: 2023-06-14T09:40:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/107470/aws-considering-new-ai-chips-from-amd/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 71
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/01/shutterstock_1584762601.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Report: AWS considers diversifying its AI server offerings with AMD’s new chips"
     excerpt: "AWS, the world’s largest cloud computing company, is reportedly considering AMD’s new Instinct MI300X accelerator, which was announced at a special event yesterday. The MI300X chip is designed specifically for generative AI workloads,"
     publishedDateTime: 2023-06-15T03:28:00Z
@@ -119,15 +105,6 @@ related:
         width: 620
         height: 503
         isCached: true
-  - title: "Amazon expresses interest in AMD's new AI chips"
-    excerpt: "To break Nvidia's dominance, AMD needs a big-ticket customer for its new AI chips. Amazon could benefit from the flexibility offered by AMD."
-    publishedDateTime: 2023-06-14T10:40:00Z
-    webUrl: "https://interestingengineering.com/innovation/amazon-buying-amd-new-ai-chips"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
 
 secured: "5KJ2qRBDcH5H5xDZjf/YaoWKxd1x/NPVXY2kFt/xx/iTzlMuQYN54t8D7fBmz8HxPFoCKZPMm33VRof0vjUeDVCiPVx7r+PGsPDgkX2R9D/eUnbWP0v9HlNHD90Q7zQtoixQZPtpIBXcrK/yDeO/1k9Zsbn9608eNoQQKYWBs3NXW30cei8JETNhgzn/ypUcgQEw6hpwKzBtU5Ovg5ZO4WN/NWlaveWYnUx3usoCTANtViVLtRiCD64GRRCDsxMc5JEzHYhXtn+txynerhxUPrgVb4h8wDaBdgFGMS7NubD+7Ago+InJCBYs6kFeL5htGhrVifl4gAgoY78qNvHmLi36onJ0UEcWp2qqh1TvXbj5RGhHcW9ayHHHWfhCrW97bvr8o05XaylHIBNN3kAIY99f2LttDBfKhkTxqOMO1lrW3X9Ew0SpwUrx6QvePJ5alGXvsCbwfZK20aOxD43Adh2NR0kQM9NX82/7k7FsZ6Q+CBaaootLUWrO/L/DlYa6R8fOEncd4k63B/HZzfu25g==;rQnGZLSJMNFyLxirceuwxA=="
 ---

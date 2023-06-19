@@ -193,15 +193,6 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 20
-  - title: "Meta guru says ChatGPT-style AI is out-of-date"
-    excerpt: "LeCun spoke as Meta announced its latest AI project -- called image-based Joint Embedding Predictive Architecture, or JEPA. The project seeks to move beyond ChatGPT-like generativ"
-    publishedDateTime: 2023-06-14T09:20:00Z
-    webUrl: "https://www.daily-sun.com/post/694929/Meta-guru-says-ChatGPTstyle-AI-is-outofdate"
-    type: article
-    provider:
-      name: Daily Sun
-      domain: daily-sun.com
-    quality: 19
   - title: "This ChatGPT-powered AI tool can help you haggle to save money on bills"
     excerpt: "This new ChatGPT-powered AI tool can negotiate your bills for you by writing a letter that you can send to a landlord or credit card company."
     publishedDateTime: 2023-06-15T19:42:00Z
@@ -211,15 +202,6 @@ related:
       name: BGR
       domain: bgr.com
     quality: 17
-  - title: "Can a robot plan your summer fun? Here's what ChatGPT says to do this summer"
-    excerpt: "What are five fun summer activities to do in Norwich, Griswold, Killingly and Plainfield, CT? One should be off the beaten path, at least two should be family friendly, one should be a healthy activity and one should be male friendly. Then give me two other activities that are within a 30-minute drive of Norwich."
-    publishedDateTime: 2023-06-14T09:15:00Z
-    webUrl: "https://www.norwichbulletin.com/story/lifestyle/2023/06/14/norwich-summer-fun-chatgpt-griswold-killingly-plainfield-mystic-aquarium-pachaug-state-forest-slater/70313495007/"
-    type: article
-    provider:
-      name: The Bulletin
-      domain: norwichbulletin.com
-    quality: 16
 
 secured: "opiPC0i/mfteWu+PhDbE9TPXsl1rhk0c4X1N2196jPiQ95F+paM/bY2qoIwJf3356fJ6Pi5kzl2QPOgfQKHKjukoKrll5tcKm9DnUyFRkaPyGmWRoiBuBt0XQZLQ9EJvDzk//trsdwy1URhJmPkX0Tsn4wPcDRnpk7ufdsy6ELB5fD66PoESfrmAYVYDVDRPFezT6vYXkJuMEjvYQn/eFR5pSHqzVJ8DvnG7fKKxdfYnCDiCwdmZDTDZpv3UVxkWe8jZK+0h+/Uivst92MB3aFEagJzXfYwSECdaeHX/OJzi/NdQF1OlXzEmk709ENDOlb2Qq0m7ihghtTupZ3t2pn4Br2cl2qoDnVOHUJNL850=;lZ8vqlDoOV87tzQV2d7IQA=="
 ---

@@ -33,20 +33,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Lenovo to Invest $1 billion for Accelerating AI Solutions"
-    excerpt: "Lenovo has announced $1 billion over the next three years to expand its infrastructure solutions and accelerate the deployment of AI"
-    publishedDateTime: 2023-06-14T10:47:00Z
-    webUrl: "https://analyticsindiamag.com/lenovo-to-invest-1-billion-for-accelerating-ai-solutions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/How-Data-Democratisation-Gives-Lenovo-an-Edge-on-its-UI-UX-Play-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Lenovo Announces $2B AI Revenue and Unveils $1B Global Expansion Plan"
     excerpt: "Fueled by increased global digitalization and demand for IT infrastructure upgrades, Lenovo is simplifying the often-complex implementation of new AI capabilities by delivering AI to the source of data and harnessing its vast network of best-in-class partners to build next-generation solutions that enable computing intelligence directly at the edge."
     publishedDateTime: 2023-06-14T12:23:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-
 webUrl: "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.html"
 type: article
 quality: 67
-heat: 98
+heat: 97
 published: true
 
 provider:

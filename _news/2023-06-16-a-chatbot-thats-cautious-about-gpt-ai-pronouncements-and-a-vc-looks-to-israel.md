@@ -55,6 +55,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI chatbots in dermatology: Promising, but proceed with caution, says new study"
+    excerpt: "Study finds AI chatbots in dermatology show promise in answering patient questions and simplifying medical jargon, but limitations in accuracy and knowledge highlight the need for cautious integration into clinical practice."
+    publishedDateTime: 2023-06-19T03:26:00Z
+    webUrl: "https://www.news-medical.net/news/20230618/AI-chatbots-in-dermatology-Promising-but-proceed-with-caution-says-new-study.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 35
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_751389_16871450926988823.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Chatbots in the Workplace: Usage Policies and Practical Considerations Related to Artificial Intelligence"
     excerpt: "The increasing prevalence of artificial intelligence (AI) tools and, in particular, generative AI, is creating more reason for employers to adopt workplace policies that communicate to employees whether the use of these applications is appropriate and any ..."
     publishedDateTime: 2023-06-14T20:49:00Z

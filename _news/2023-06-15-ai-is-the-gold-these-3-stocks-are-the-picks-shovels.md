@@ -22,19 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "3 Stocks These AI-Powered ETFs Are Betting On"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Given how popular artificial intelligence (AI) exchange-traded funds (ETFs)"
-    publishedDateTime: 2023-06-14T09:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-powered-etf-stock-picks-to-buy-1032388370"
+  - title: "How to Retire Rich: AI Stocks Edition"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Not many of us remember how the emergence of the Internet changed our lives."
+    publishedDateTime: 2023-06-14T12:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-retire-rich-ai-stocks-edition-1032388817"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
   - title: "How to Retire Rich: AI Stocks Edition"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Not many of us remember how the emergence of the Internet changed our lives."
-    publishedDateTime: 2023-06-14T12:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-retire-rich-ai-stocks-edition-1032388817"
+    excerpt: "On the intelligent digitalization front, Big Blue enters the arena with IBM Watson. A powerful platform developed by top engineers and data scientists, Watson builds trust and scales AI protocols across various cloud environments. In addition, IBM Watson ..."
+    publishedDateTime: 2023-06-14T23:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-retire-rich-ai-stocks-edition-2-1032390191"
     type: article
     provider:
       name: Business Insider
@@ -49,15 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Are Investors Still Interested in Artificial Intelligence ETFs?"
-    excerpt: "The Global X Robotics & Artificial Intelligence ETF (BOTZ) is the largest AI-focused fund currently trading on U.S. markets with $2.5 billion in assets. Launched on September 12, 2016, BOTZ has an expense ratio of 0."
-    publishedDateTime: 2023-06-15T21:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/are-investors-still-interested-in-artificial-intelligence-etfs"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "3 Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While artificial intelligence isn’t a crystal ball for predicting"
     publishedDateTime: 2023-06-18T20:27:00Z
@@ -67,20 +58,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Are AI ETFs Worth the Hype?"
-    excerpt: "And the lack of consensus shows: the two largest AI ETFs, Global X Robotics & Artificial Intelligence ETF BOTZ and iShares Robotics and Artificial Intelligence Multisector ETF IRBO, focus more ..."
-    publishedDateTime: 2023-06-14T13:34:00Z
-    webUrl: "https://www.morningstar.com/etfs/are-ai-etfs-worth-hype"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 39
-    images:
-      - url: "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/KiAjhPgxvrVmiRZ-T63JBOTvjRI=/2500x1406/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/54RIEB5NTVG73FNGCTH6TGQMWU.png"
-        width: 2500
-        height: 1309
-        isCached: true
 
 secured: "v2h57Ajcor1RdHkvonhp+dN/HQSJNoKNx2vl9ngPSQBCzts7Qw6BCcwlcr2LbKrfWtsrWAtzSAzhJqYFMscFeOIWPRw2Cts8llgIIUOwEuqNv096Seaooio4+JU1b+gGjzXcsgLPVa2/LlOF1ELYg2LfnYbpPApNGf55UZda5vVsE0MpMsW3qKafyppOahOZKHd9Uece7dbCNG3jXliov9UfPG9t8nGTcTKbmi+CXcGPC8f5Qy9SIqENct3BTuMC/FtKZz0nqrw4sttVtQh8H8JjnalLh8+UsumnxXJDhOa4brEO0/itVRHIVTTVet07lqWa/nAF9QYkqVXjIwMfIzNtfNwmQHOXU1aHD9w+Q/RyXSHVojvcIq6XltEKGbNw+cu02p9T3TXmLusJL8ilH9w62fRULU7FD+L82AvQOrCbwZAXGlUddYzsM9iRMHEgINTfaafd/TN0LnOLc6pS9fdC34ANO+DPzVa00ckVYMkux+QEqCv8/dHcRWQ+SzWiguCwYz2y69YASlYykVfk/Q==;xRNYiC9/0VLtE8yGjgo6RQ=="
 ---

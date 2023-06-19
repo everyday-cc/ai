@@ -40,34 +40,6 @@ related:
         width: 1200
         height: 768
         isCached: true
-  - title: "How artificial intelligence can expand the borders of healthcare"
-    excerpt: "Artificial intelligence (AI) has taken the healthcare industry by storm. While many look to implement AI to create efficiencies, it is important to approach AI in a larger context to truly understand its long-term implications."
-    publishedDateTime: 2023-06-14T10:09:00Z
-    webUrl: "https://www.pmlive.com/pharma_thought_leadership/how_artificial_intelligence_can_expand_the_borders_of_healthcare_1492937"
-    type: article
-    provider:
-      name: PMLiVE
-      domain: pmlive.com
-    quality: 54
-    images:
-      - url: "https://www.pmlive.com/__data/assets/image/0004/1492915/1541285245273.jpg"
-        width: 900
-        height: 900
-        isCached: true
-  - title: "Mass layoffs are creating a new generation of founders building climate, health, and fintech startups"
-    excerpt: "Health and fintech are also popular. Ai-Ling Walker, a former creator success staffer at Patreon, is building the Noetic platform to help neurodiverse people receive a diagnosis. It took her five years to be diagnosed with ADHD, during which time she ..."
-    publishedDateTime: 2023-06-14T09:42:00Z
-    webUrl: "https://www.businessinsider.com/layoffs-spark-generation-technical-founders-climate-health-fintech-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/648881dc62d3f100199677a1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How 16 Vendors Are Helping Partners Build AI Businesses"
     excerpt: "While several of these vendors have been offering AI products and services for years—such as Amazon Web Services, IBM, Google Cloud and Microsoft Azure, to name a few—demand for such technologies has reached new heights recently due to the hype ..."
     publishedDateTime: 2023-06-15T20:40:00Z

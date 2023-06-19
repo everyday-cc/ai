@@ -53,34 +53,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "How artificial intelligence can expand the borders of healthcare"
-    excerpt: "Artificial intelligence (AI) has taken the healthcare industry by storm. While many look to implement AI to create efficiencies, it is important to approach AI in a larger context to truly understand its long-term implications."
-    publishedDateTime: 2023-06-14T10:09:00Z
-    webUrl: "https://www.pmlive.com/pharma_thought_leadership/how_artificial_intelligence_can_expand_the_borders_of_healthcare_1492937"
-    type: article
-    provider:
-      name: PMLiVE
-      domain: pmlive.com
-    quality: 54
-    images:
-      - url: "https://www.pmlive.com/__data/assets/image/0004/1492915/1541285245273.jpg"
-        width: 900
-        height: 900
-        isCached: true
-  - title: "Mass layoffs are creating a new generation of founders building climate, health, and fintech startups"
-    excerpt: "Health and fintech are also popular. Ai-Ling Walker, a former creator success staffer at Patreon, is building the Noetic platform to help neurodiverse people receive a diagnosis. It took her five years to be diagnosed with ADHD, during which time she ..."
-    publishedDateTime: 2023-06-14T09:42:00Z
-    webUrl: "https://www.businessinsider.com/layoffs-spark-generation-technical-founders-climate-health-fintech-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/648881dc62d3f100199677a1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "l8mGqBlYBV3awiNy+69u8tfP6HCKgFReiDF5f4PJlNFrgb8021XJ3lQdAsmPEceTM7AoVvbTIVvytFmOSTpO02kneUixvbd2RgImB3h05mCtIG2vfNrNrKuFNb8qhC95kp6T6xZ34HE01QTacqXYZXCjmCXh/KMlfh6tWWPy976Y8zaKupgwFobz7wc9SS0POSxlaDjdPOtSYQE7EeJsGQMZ6nxKEiKXKtDbNStKHRXPf3WHKUqcsxKYt+WlYXBkReZ7lnfuNkTEnA0YOKhBNrn4Ns5QQYEsVyPDF0TNKMS8pu6rQJqhkCCaj9umopgE0klQi6GQy2rW7PnQ/f2TFWaWRvGMcfOVTkyjrH+oMgoZkoEKxRQqQXs3qYxEX7ITc7F7bt0tYMZDn9sJEE8QBm+NXadWFMG6T14bnz+cif40DxnZp5iU5vpKT/y9kh6IAK0csDJt3UXygxAZMsH6+cHDz7hhnxpvyk+gv2NCHTJeVL8uIuJkIqUZeS5MDfdDeW7l8tIsLoYjvkuRbbmCSQ==;4NdiFefUUNuaFJsoyb3JMg=="
 ---
