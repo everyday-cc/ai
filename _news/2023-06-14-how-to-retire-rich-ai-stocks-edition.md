@@ -68,6 +68,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Are AI ETFs Worth the Hype?"
+    excerpt: "And the lack of consensus shows: the two largest AI ETFs, Global X Robotics & Artificial Intelligence ETF BOTZ and iShares Robotics and Artificial Intelligence Multisector ETF IRBO, focus more ..."
+    publishedDateTime: 2023-06-14T13:34:00Z
+    webUrl: "https://www.morningstar.com/etfs/are-ai-etfs-worth-hype"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 39
+    images:
+      - url: "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/KiAjhPgxvrVmiRZ-T63JBOTvjRI=/2500x1406/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/54RIEB5NTVG73FNGCTH6TGQMWU.png"
+        width: 2500
+        height: 1309
+        isCached: true
 
 secured: "QsTw9ZWTLFNI9dZFuObAOGvvaOZMA4AAyZlg7wfVkhcvkjhTNGCcdFJbVXsQdoFDh+sNlo8ERNFqMPRuQN0ES/9ivfojQiYObe7Wn6GSHwELKP5VMTmQtNYmP9rBx9tCd62+jxJqBDSR3/HpF3299BYYPiex+J6QmTetESdj5OqJGm0Hk3u0TGhYbTS9/iIbWkQM86XNyUCmDINtHzyO5gW8Y2ig3al+ijdu00VJM49ZXPXClmbK7K9aNvZpF5YdWQTZYC/A3Z4WEODyIaz4CXJidajFBiyo2VviFMmR0ebV3cE/VbZQD3EAJDY27NNfeDLqIaY7u7yd6i4W5yWh1+dVbsex/QKnNJ5zhzhiYrKH6t+pFuXpXv3uTIF5s+xOqYUzNuGGgUqwZQPZV3T17u6ydbFbEVFw4kXnvzlCRy8UUvQ85s9IuqibwpSJfWd82JMC7pXyZUB6L6t+obk79eUlG5wfsi2193evMmItmcc/uFjW+Hzaq1TwkAjTXT+DmdEpvUhQ2RU0lXz2Pl5EIw==;2czx9YmMNrHbWDupBmE9Sw=="
 ---

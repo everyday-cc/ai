@@ -9,7 +9,7 @@ ampWebUrl: "https://www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-e
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427/amp"
 type: article
 quality: 74
-heat: 98
+heat: 94
 published: true
 
 provider:

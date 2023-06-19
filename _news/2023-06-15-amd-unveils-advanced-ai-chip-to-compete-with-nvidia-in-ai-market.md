@@ -155,28 +155,6 @@ related:
         width: 1440
         height: 980
         isCached: true
-  - title: "AMD showcases AI chip to take on Nvidia"
-    excerpt: "The MI300X accelerator is based on AMD’s CDNA 3 technology and uses as much as 192GB of memory to handle workloads for large language models and generative AI, the Santa Clara, California-based company said."
-    publishedDateTime: 2023-06-14T05:35:00Z
-    webUrl: "https://mybroadband.co.za/news/hardware/496253-amd-showcases-ai-chip-to-take-on-nvidia.html"
-    ampWebUrl: "https://mybroadband.co.za/news/hardware/496253-amd-showcases-ai-chip-to-take-on-nvidia.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/hardware/496253-amd-showcases-ai-chip-to-take-on-nvidia.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 54
-  - title: "AMD to ramp up AI chip production this year"
-    excerpt: "and a key performance measure for how well the chip will handle the large AI systems behind services similar to ChatGPT. \"There's no question that AI will be the key driver of silicon consumption for the foreseeable future,\" Su said. Su said customers will ..."
-    publishedDateTime: 2023-06-14T05:39:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/amd-to-ramp-up-ai-chip-production-this-year/article66967040.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 54
   - title: "AMD’s AI chip challenge to Nvidia remains uphill task"
     excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know – who plans to buy it."
     publishedDateTime: 2023-06-15T01:16:00Z

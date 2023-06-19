@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2023/06/14/exp-new-beatles-song
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: CNN
@@ -30,35 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Creates ‘Final Beatles Song’: What Does It Mean For The Future Of Music?"
-    excerpt: "Explore how AI is revolutionizing the music industry, from creating original songs to altering how we discover and listen to music & even posing questions about copyright"
-    publishedDateTime: 2023-06-14T06:27:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/amp/"
+  - title: "New Beatles song to bring John Lennon’s voice back, with a little help from AI"
+    excerpt: "Sir Paul McCartney explained to the BBC that an AI-driven process helped isolate John's vocals from an old tape for a last Beatles album."
+    publishedDateTime: 2023-06-14T15:30:00Z
+    webUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: Popular Science
+      domain: popsci.com
+    quality: 53
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64895da1c32a9cf3edb12f50/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "The Beatles Are Releasing One More Song—With Help From AI"
-    excerpt: "Artificial intelligence has been used to extract John Lennon's voice from an old demo to create “the last Beatles record,” decades after the band broke up, says Paul McCartney."
-    publishedDateTime: 2023-06-14T06:45:00Z
-    webUrl: "https://time.com/6287103/the-beatles-artificial-intelligence-song/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
+      - url: "https://www.popsci.com/uploads/2023/06/14/john-lennon-ai-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Paul McCartney Uses AI to Create the Final Beatles Song"
     excerpt: "The long and winding road has connected The Beatles with artificial intelligence."
@@ -69,6 +55,20 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
+  - title: "Is AI The Cause Of Job Cuts This Year?"
+    excerpt: "Indeed, according to Crunchbase data, funding to AI startups made up about 10% of global startup funding. Venture’s dramatic shift in funding priorities has rocked every industry from the art world to health care. And whenever a new piece of technology promises to disrupt an industry, the first worry is that it will replace workers."
+    publishedDateTime: 2023-06-14T11:00:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/artificial-intelligence-layoffs-job-market/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Nesting_Doll.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "EH1+J2l35WzCOcCS3GcPpEOSYfG3CZe8Issf6niA3JQ8DhA1xW6fbxhP7qWeeCQ6D0otfSNQft9srvql+zr6A+CRjbIUAWCfGoKfdz+S6RenX+I3JVrKTerfC4AjP99/6mILBmozHf2tDKiOKBY/oA5FgUP7X+epimcARenBJzKNv0hEyKj9S7p/iKkjWxm5M6od3enrNCd7ApmkYya0rRjfe/g4qdpMd7y8K23AwjAPI9CvbnOg1muLIo+rTK5KKBH8ixqi9vNqN0/JNNbzYKSnJEqV19voV5OgGGGh4AnnxKRV4NvE8nUjuSQtSjMvQA6o7wo4mYu2QAFdaNOJ3a0D9pyoIaKjkWjWoX1jt9ga5/LxUEspt3q5lYncac0TaFaxwiHP/ViltJ6PB2tmkKQz5HFdOJKwHJ7l2mb0/6PhX8gpW4hthZGZ6Y/s1oXm0nqZs8ZGTAAvwzUBwS/5XpfTXbEz4jHKNRsf3ILSazOCc9Wfvkzd/xEs5IsK3VKw+6c4627LEYCNgLTRIoBqEA==;khUTaS4S/WoGF2heKKjUOQ=="
 ---

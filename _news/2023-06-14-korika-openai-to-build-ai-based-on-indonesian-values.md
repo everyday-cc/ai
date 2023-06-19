@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "7 AI Companies That Could Become Trillion-Dollar Companies"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the world marches towards a future defined by artificial intelligence, the"
+    publishedDateTime: 2023-06-18T21:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-companies-that-could-become-trillion-dollar-companies-1032395851"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "OpenAI’s Mira Murati: the woman charged with pushing generative AI into the real world"
     excerpt: "The potential risks of AI software, especially as it becomes more powerful, are top of mind for policymakers and the business and research communities. Among these are challenges like the spread of AI-generated manipulation and misinformation. In the ..."
     publishedDateTime: 2023-06-18T04:10:00Z

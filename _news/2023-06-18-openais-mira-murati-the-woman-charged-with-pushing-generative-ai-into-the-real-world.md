@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "7 AI Companies That Could Become Trillion-Dollar Companies"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the world marches towards a future defined by artificial intelligence, the"
+    publishedDateTime: 2023-06-18T21:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-companies-that-could-become-trillion-dollar-companies-1032395851"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "KORIKA, OpenAI to build AI based on Indonesian values"
     excerpt: "Head of the Artificial Intelligence Industry Research and Innovation Collaboration (KORIKA), Hammam Riza, has said that KORIKA and OpenAI will build an"
     publishedDateTime: 2023-06-14T13:00:00Z

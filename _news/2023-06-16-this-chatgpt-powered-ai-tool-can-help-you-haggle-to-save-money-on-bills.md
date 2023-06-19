@@ -109,6 +109,20 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 54
+  - title: "No 10 reboots AI Council blindsided by ChatGPT and DeepMind"
+    excerpt: "Downing Street is overhauling its advisers on artificial intelligence (AI) amid criticism that they were caught out by the advances in large language models suc"
+    publishedDateTime: 2023-06-18T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/no-10-reboots-ai-council-blindsided-by-chatgpt-and-deepmind-mcjknmt32"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fef88028a-0e20-11ee-9d84-6e8ed24abaa3.jpg?crop=6000%2C3375%2C0%2C312&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Even Google is warning its employees about AI chatbot use"
     excerpt: "Anything you say to an AI chatbot like ChatGPT, Google Bard, and Bing Chat can be used to train it, as these bots are based on large language models (LLMs) that are in constant training. The companies behind these AI chatbots also store the data, which could be visible to their employees."
     publishedDateTime: 2023-06-16T18:57:00Z
@@ -118,22 +132,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "Is your workplace using artificial intelligence or tech like ChatGPT? Tell us about your experiences"
-    excerpt: "Artificial intelligence (AI) is set to transform industries and revolutionise the way we work, and the ABC wants to hear from you — how are you using AI in your workplace? Whether you work in healthcare, finance, manufacturing, or any other field ..."
-    publishedDateTime: 2023-06-14T05:58:00Z
-    webUrl: "https://www.abc.net.au/news/2023-06-14/artificial-intelligence-workplace-chatgpt-share-your-story-730/102477624"
-    ampWebUrl: "https://amp.abc.net.au/article/102477624"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102477624"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 44
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/fdd6b8d5128f137cf7a0af15450d9b98?impolicy=wcms_crop_resize&cropH=360&cropW=640&xPos=0&yPos=63&width=862&height=485"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Meta guru says ChatGPT-style AI is out-of-date"
     excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising"
     publishedDateTime: 2023-06-14T23:45:00Z

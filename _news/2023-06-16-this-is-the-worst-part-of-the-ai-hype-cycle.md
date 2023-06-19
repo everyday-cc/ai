@@ -68,20 +68,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Generative AI's impact on chip industry and the upcoming growth cycle through 2024"
-    excerpt: "Generative AI is stealing the spotlight from all other tech products as ChatGPT accumulated 1 million users in just a few months, and now tech analysts from UBS Investment Bank released their latest estimates of its impact on the semiconductor industry business."
-    publishedDateTime: 2023-06-14T06:18:00Z
-    webUrl: "https://www.digitimes.com/news/a20230613VL214/east-asia-generative-ai-ic-manufacturing.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 48
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230613vl214_files/1_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
   - title: "Artificial Intelligence and the Future of Jobs"
     excerpt: "The growth of artificial intelligence (AI) is driving fearful discussions around the disappearance of jobs and tasks that are traditionally done by humans. This has particularly impacted the working class,"
     publishedDateTime: 2023-06-16T11:33:00Z

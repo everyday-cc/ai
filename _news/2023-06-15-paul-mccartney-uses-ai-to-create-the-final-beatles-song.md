@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Creates ‘Final Beatles Song’: What Does It Mean For The Future Of Music?"
-    excerpt: "Explore how AI is revolutionizing the music industry, from creating original songs to altering how we discover and listen to music & even posing questions about copyright"
-    publishedDateTime: 2023-06-14T06:27:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64895da1c32a9cf3edb12f50/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "A new song from the Beatles is due out this year, thanks to artificial intelligence"
     excerpt: "Paul McCartney says A.I. is being used to remake the voices of John Lennon and George Harrison. CNN's John Vause discusses the news with music expert Bob Lefsetz."
     publishedDateTime: 2023-06-14T07:12:00Z
@@ -54,19 +38,35 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "The Beatles Are Releasing One More Song—With Help From AI"
-    excerpt: "Artificial intelligence has been used to extract John Lennon's voice from an old demo to create “the last Beatles record,” decades after the band broke up, says Paul McCartney."
-    publishedDateTime: 2023-06-14T06:45:00Z
-    webUrl: "https://time.com/6287103/the-beatles-artificial-intelligence-song/"
+  - title: "New Beatles song to bring John Lennon’s voice back, with a little help from AI"
+    excerpt: "Sir Paul McCartney explained to the BBC that an AI-driven process helped isolate John's vocals from an old tape for a last Beatles album."
+    publishedDateTime: 2023-06-14T15:30:00Z
+    webUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 67
+      name: Popular Science
+      domain: popsci.com
+    quality: 53
     images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
+      - url: "https://www.popsci.com/uploads/2023/06/14/john-lennon-ai-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Is AI The Cause Of Job Cuts This Year?"
+    excerpt: "Indeed, according to Crunchbase data, funding to AI startups made up about 10% of global startup funding. Venture’s dramatic shift in funding priorities has rocked every industry from the art world to health care. And whenever a new piece of technology promises to disrupt an industry, the first worry is that it will replace workers."
+    publishedDateTime: 2023-06-14T11:00:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/artificial-intelligence-layoffs-job-market/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Nesting_Doll.jpg"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "msx5CqYaYuN7sFEUCTpMnjlUUxZzDcTV0QU1fY74DUavPSBAJOQLJeIg0fMcd7Gi0VFm4cGAAYPbr/Bqgq0ph7Ej/1h2zJrJG+PbhNztds4X2jlS2hKRDBoxlnRI4/sfoHijMUiinsz5XBfrctnNG1z+hZNFMzjKd9rmMT8t1xMRJ5tTowwMLjxcfrOaGFpS6C3oCAslbEaA4+dKcNSjV0j+q89aYUWTsehBoFCHhV6M59RWKYl7sUU2EJkJCEeNQglDtQUzqe1zVg6L7+t0W1V2VTSqNVFAm+RMq0jbj31iIuQbgKo10fr6v9a0OJsFM96AvmumUAY2GM9Ur3+8sWCXVnrQGfftm+hZRLKBTVjWMbi2Kj1Y/e9E5EFeZBRAF9irvAaJ3x3TraN60U4tVcjE4QSjtoPMEH2vvg36Wcsc9BrC6TJkTnEQaIs0K7pxYQ9e+MZf1PCg2uMfJVqmqGAsRqK75r6zxZ6Elrve79BwH1B9tR459lSKv5619DaNkLrB7ndzeTjpBAtCOqfPdw==;CnAqvscWCk8CLD39dKi3qw=="

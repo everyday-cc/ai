@@ -87,22 +87,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "How Europe is leading the world in the push to regulate AI"
-    excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle"
-    publishedDateTime: 2023-06-14T06:22:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "How to Regulate AI? Start With the Data."
     excerpt: "Data is an afterthought for many artificial-intelligence developers. It should be the first thought for policy makers, writes Susan Aaronson."
     publishedDateTime: 2023-06-15T13:15:00Z

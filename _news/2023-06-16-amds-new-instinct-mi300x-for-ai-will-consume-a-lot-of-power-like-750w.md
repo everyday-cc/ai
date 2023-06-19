@@ -48,36 +48,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 60
-  - title: "The Third Time Charm Of AMD’s Instinct GPU"
-    excerpt: "The great thing about the Cambrian explosion in compute that has been forced by the end of Dennard scaling of clock frequencies and Moore’s Law lowering"
-    publishedDateTime: 2023-06-14T05:43:00Z
-    webUrl: "https://www.nextplatform.com/2023/06/14/the-third-time-charm-of-amds-instinct-gpu/"
-    ampWebUrl: "https://www.nextplatform.com/2023/06/14/the-third-time-charm-of-amds-instinct-gpu/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/14/the-third-time-charm-of-amds-instinct-gpu/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/06/amd-mi300a-die-package-shot-updated.jpg"
-        width: 999
-        height: 731
-        isCached: true
-  - title: "AMD Instinct MI300X accelerator for AI revealed, combines CPU, GPU, and 192 GB of HBM3 memory"
-    excerpt: "AMD's new Instinct MI300X is designed for generative AI and will compete with NVIDIA's H100 and Grace Hopper, and it's out soon too."
-    publishedDateTime: 2023-06-14T05:26:00Z
-    webUrl: "https://www.tweaktown.com/news/91881/amd-instinct-mi300x-accelerator-for-ai-revealed-combines-cpu-gpu-and-192-gb-of-hbm3-memory/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 43
-    images:
-      - url: "https://static.tweaktown.com/news/9/1/91881_03_amd-instinct-mi300x-accelerator-for-ai-revealed-combines-cpu-gpu-and-192-gb-of-hbm3-memory_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "AMD unveils MI300X, steps up play into AI chip segment"
     excerpt: "Chipmaker AMD has unveiled MI300X, one of its most-advanced GPUs (graphics processing units) for artificial intelligence, which would be available from the second half of this year."
     publishedDateTime: 2023-06-14T13:51:00Z

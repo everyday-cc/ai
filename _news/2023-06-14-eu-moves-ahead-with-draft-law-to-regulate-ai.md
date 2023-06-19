@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-l
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -89,22 +89,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-364372,msid-100992047/file-photo-european-union-flags-flutter-outside-the-european-commission-headquarters-in-brussels.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "How Europe is leading the world in the push to regulate AI"
-    excerpt: "Authorities worldwide are racing to rein in artificial intelligence, including in the European Union, where groundbreaking legislation is set to pass a key hurdle"
-    publishedDateTime: 2023-06-14T06:22:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/europe-leading-world-push-regulate-ai-100061806"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
         isCached: true
   - title: "How to Regulate AI? Start With the Data."
     excerpt: "Data is an afterthought for many artificial-intelligence developers. It should be the first thought for policy makers, writes Susan Aaronson."
