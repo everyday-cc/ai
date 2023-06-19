@@ -46,20 +46,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Everything You Need to Know About the EU's Game-Changing AI Legislation"
-    excerpt: "The European Parliament votes to pass the first comprehensive AI rules. Here's a brief summary of the AI Act, the influence of which will likely extend beyond the EU."
-    publishedDateTime: 2023-06-14T17:08:00Z
-    webUrl: "https://www.pcmag.com/news/everything-you-need-to-know-about-the-eus-game-changing-ai-legislation"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06YSHh9Q84O3ILT58Wkxzi4-2.fit_lim.size_1200x630.v1686758662.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "EU takes major step toward AI regulation as the AI Act moves into final phase"
     excerpt: "If the AI Act gets put into law, it would become one of the first major laws to regulate the technology. This would put the EU squarely ahead of other countries like the US and Ch"
     publishedDateTime: 2023-06-14T21:32:00Z
@@ -120,15 +106,6 @@ related:
       name: Politico Europe
       domain: politico.eu
     quality: 19
-  - title: "The EU just took a huge step towards regulating AI"
-    excerpt: "The European Parliament just cleared a major hurdle for its AI Act, which would significantly expand citizens' data privacy rights."
-    publishedDateTime: 2023-06-14T18:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-act-european-union/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "QCJfv5zWSJoNK9bbjvd830HE+baZlt8mweN24+VnG9OoiWI+O3BflCkJtPaKx4CkXquO8rCtTcSZkTwY5jCUWvvd+7RKxoAtAtQkGES7VA05gVQ5xPc9FSL414AQV6DWB4NAuciapakI2gTYs7VmC29HqDiVLcM3wUuwiHU/jaeuBHLU4rPlaGasUwOddzcwxTEYnhQHuvywNOx8goVHdw/8NNFacVzilZYKTgpZ9+9GBv9zc2Fnk5W0bDL2AfAqJvZnv3tldeZUa/PPRL84Ps+9dy3gBYRhQQOyj0sfG2xzhMwpmpSbsiqO/OnoFebDT87+NZ8EUHNdcoH/BcEfArhZHCtCUS8ms6xBMnpLP8A=;0wIx+q6tCkJYd/7HLjJWaw=="
 ---

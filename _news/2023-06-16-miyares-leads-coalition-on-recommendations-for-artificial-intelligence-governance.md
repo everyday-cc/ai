@@ -55,6 +55,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Elon Musk surprised by support for AI pause, calls for strong regulation"
+    excerpt: "Aidan Gomez, CEO of Cohere, a $2 billion AI startup, expressed skepticism about the feasibility of implementing the pause, stating that debating the extinction of humanity due to superintelligent AI. was an inefficient use of time and resources."
+    publishedDateTime: 2023-06-19T10:54:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/19/elon-musk-surprised-support-ai-pause-calls-for-strong-regulation/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 46
 
 secured: "0gozRWoDYv2RMrW2Hmw52pvp2bwOfZJnRGhoK3p3xPT3bv93Qtt6GSCduewnyZocnA1ve1o4XICk5tVOxHrBMY0e6CFGnP8HWQcH1K1dco+muS04Ux+w9RgXbnCBr46H3A/1FxvVpaZ1eTfIam3vQ2SjIYpf6rQ0thwL9FEKyKP7uoXydQe9nSwJa3Mm2n01UD6H/UGRcXQ89/2liixhYxdbp2+y31GF7NeoXTJeVOoRq7sdNjehEShrez9tBXyCcQxrXyHd4cBS80/eXP1YAud/INmGciJnFybokOvkdHBarJr3+YMq6BKkHPMlrYuGnxxC0fVZZXOF9BobFPACewOxDJq1AdgPPdRQXTiFCLI=;ZZtV5ZO2SId6Wz1nIecDQw=="
 ---

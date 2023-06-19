@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe"
 webUrl: "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Elon Musk surprised by support for AI pause, calls for strong regulation"
+    excerpt: "Aidan Gomez, CEO of Cohere, a $2 billion AI startup, expressed skepticism about the feasibility of implementing the pause, stating that debating the extinction of humanity due to superintelligent AI. was an inefficient use of time and resources."
+    publishedDateTime: 2023-06-19T10:54:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/19/elon-musk-surprised-support-ai-pause-calls-for-strong-regulation/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 46
 
 secured: "6gcikgSwUFKF8nV0IRM6NEqHIaUMq/WgZPx3T6yr9wM5ADlVBTX88k/qZJ0ykpihiEIjz9WUoAXYzRjymu9pBY+WWg2c9YQrkE18y1tPQKldw5YLHGGOHLazVn3snTG00mrCAVAWWhY4Vjp/Esn1DO+M/sKaJAJoBPrgGS0UN1HyTXFqMV21lRQ2FAwgJx6Z9W3t1V2z7l7XcQL5/qr0386ceQA08dTnJ6c3JM1iRgX4KLIPtDtny3GRLkzPsIJlAtP6UEpX86lBQ0r/N8c4iEVHRX2Jp7sPdBmuffBabVmKh5vGDFpsdCSq9Brpj+PFtFBhxrEoxtdi8ATCz0A3H1YQabnT7TzIggN106IfRlFpjxQ1bOdwBjkG3EzBE/wbNnen4OEnGYwvzCBBkJERT6BGwtKUDltvEXfONOzOqsTvwBKGYY9zRu5R67z7Q/gIyXteaNs7EW/j6f9M5rNk5OeTb2s7QA08CQb117SxZlCbaNjrpO41UMsWSFhd8W7nA1pDtga35QF7JZMrUWDc/Q==;lVtbthlTxZj8skykGLh3kw=="
 ---

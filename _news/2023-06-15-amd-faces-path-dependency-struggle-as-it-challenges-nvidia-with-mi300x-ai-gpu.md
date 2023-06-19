@@ -25,52 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "AMD's take on AI: Instinct MI300X combines GPU cores with 192 GB of HBM3 memory"
-    excerpt: "Up until now, the big winner in the generative AI GPU game has been Nvidia, thanks to a combination of strong hardware and a large installed"
-    publishedDateTime: 2023-06-14T18:04:00Z
-    webUrl: "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html"
+  - title: "Morgan Stanley says Nvidia is the top pick for artificial intelligence over AMD"
+    excerpt: "Nvidia is the way to go to capitalize on the artificial intelligence boom, according to Morgan Stanley. Analyst Joseph Moore switched his top pick to Nvidia from Advanced Micro Devices, and hiked his price target,"
+    publishedDateTime: 2023-06-16T09:03:00Z
+    webUrl: "https://www.cnbc.com/2023/06/16/morgan-stanley-says-nvidia-is-the-top-pick-for-ai-over-amd.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 82
+      name: CNBC
+      domain: cnbc.com
+    quality: 63
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-14-image-29.jpg"
-        width: 2098
-        height: 1440
+      - url: "https://image.cnbcfm.com/api/v1/image/107249321-1685630435513-gettyimages-1494623399-0j5a0211_n4plkmvu.jpeg?v=1686913396&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "AMD's take on AI: Instinct MI300X combines CPU, GPU, and 192 GB of HBM3 memory"
-    excerpt: "TechSpot means tech analysis and advice you can trust. The big picture: One of the most undisputed beneficiaries of the generative AI phenomenon has been the GPU, a chip that first made its mark as a graphics accelerator for gaming. As it happens ..."
-    publishedDateTime: 2023-06-14T18:08:00Z
-    webUrl: "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html"
+  - title: "AI chip race heats up as AMD unveils rival to Nvidia-world’s most advanced accelerator for GAI"
+    excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with rival chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools. The semiconductor company,"
+    publishedDateTime: 2023-06-15T03:51:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 60
-  - title: "AMD's new Instinct MI300X for AI will consume a lot of power, like 750W"
-    excerpt: "It's starting to look like we're getting pretty close to seeing a new GPU draw 1KW of power as standard, with AMD's new Instinct MI300X rated at 750W."
-    publishedDateTime: 2023-06-16T04:32:00Z
-    webUrl: "https://www.tweaktown.com/news/91924/amds-new-instinct-mi300x-for-ai-will-consume-lot-of-power-like-750w/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 39
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 62
     images:
-      - url: "https://static.tweaktown.com/news/9/1/91924_01_amds-new-instinct-mi300x-for-ai-will-consume-lot-of-power-like-750w_full.jpg"
-        width: 1500
-        height: 843
+      - url: "https://images.hindustantimes.com/tech/img/2023/06/14/1600x900/AMD-AI--0_1686759502337_1686759560307.JPG"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "AMD Instinct MI300X Datacenter GPU gets 750W TBP"
-    excerpt: "AMD recently presented its latest technological advancement, the Instinct MI300X GPU, at the Data Center and AI Technology Premiere event on June 15th. In the keynote address, specific information"
-    publishedDateTime: 2023-06-16T06:17:00Z
-    webUrl: "https://www.guru3d.com/news-story/amd-instinct-mi300x-datacenter-gpu-gets-750w-tbp.html"
+  - title: "Amazon Ponders AMD's AI Chips Adoption; Boosts Competition in Market Dominated by NVIDIA"
+    excerpt: "Amazon Web Services (AWS) is contemplating incorporating Advanced Micro Devices (AMD)s latest artificial intelligence (AI) chips, potentially diversifying a market largely controlled by NVIDIA. The remarks were"
+    publishedDateTime: 2023-06-15T07:00:00Z
+    webUrl: "https://www.econotimes.com/Amazon-Cloud-Mulls-Using-AMDs-AI-Chips-1657872"
     type: article
     provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 19
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 45
+    images:
+      - url: "https://f1.econotimes.com/2023/06/o3ivuqy5on_th_1024x0.jpg"
+        width: 1024
+        height: 644
+        isCached: true
 
 secured: "ncEVdhTfoltQ5vI5OHH/jaOKD9luUf66G2J7M5MuhlYxYHnDx9CjimbaR1adS85QPwDRTx7zpOgyo6cg/QU0N7jcCmkLTT5al4AGxO4qMK0JctQ59nLVbGfxsITTRu0C5/gyNiKJ3hMaaKJKvK9OjKgcLoC885GzID8TBFFdyvITCVPyeZDNuSnAP3bNcvpULSZ+smXO8VBs5853gXU7TrON90QeodrM9Mov/qycjBRIE+tSwPJlMNgLb/7UeMdo6owHmPeklYXn2MB9J0M/ZsIUZ/XKuWEBARmfSvWl2L5cBQsoxkw7afxpRvgziZjjCUBQ0RCOFiNaw3jbqxxAY+eMWyGodhcq9ADBI9oUZxI=;kMZrz5gt2urwvLZj3eqaQw=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft Azure Expert MSP success for tech consultancy"
 excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
-publishedDateTime: 2023-06-19T08:54:00Z
-originalUrl: "https://www.insidermedia.com/news/north-west/microsoft-azure-expert-msp-success-for-tech-consultancy"
-webUrl: "https://www.insidermedia.com/news/north-west/microsoft-azure-expert-msp-success-for-tech-consultancy"
+publishedDateTime: 2023-06-19T11:20:00Z
+originalUrl: "https://www.insidermedia.com/news/business/microsoft-azure-expert-msp-success-for-tech-consultancy"
+webUrl: "https://www.insidermedia.com/news/business/microsoft-azure-expert-msp-success-for-tech-consultancy"
 type: article
 quality: 54
 heat: -1
@@ -39,16 +39,7 @@ related:
         width: 375
         height: 437
         isCached: true
-  - title: "EY unlocks Microsoft Azure OpenAI Service to empower EY Tax professionals globally with EY Tax Copilot"
-    excerpt: "The EY Tax Copilot program is designed to accelerate how the EY organization innovates, delivers services and provides value to teams and clients LONDON, June 14, 2023 /PRNewswire/ -- EY today announc"
-    publishedDateTime: 2023-06-14T17:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32860556/ey-unlocks-microsoft-azure-openai-service-to-empower-ey-tax-professionals-globally-with-ey-tax-cop"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
 
-secured: "XuqNeEVtzRdaDS7YpOfsr7gzuJlumxkOevN9xNGjFPzSl86kvZLPix11Y9f/XV/2Ug1XEhwWGvOq2zDwX1tWqodY2ytyx3nS/UyElpBbKYIcqTfZreCED51yEuxh1OPSwPpCAKI1PchXDSOmwz0DiTRnT6OiIIj4tVR/EhG+3rS7Nb3NknVzh2eS085/bQiUodydxy8j9GE9T/a7bnvkQ6lLMtzhhEWocLiocjargYK5WZdKAFkAAB+tSehXPce9lUzvB/NcjoSSHCX7F7S3nvcEjQhRKO2axGHs8DCnH06mO0UwAmTE3F0KBNtKcit4GHxywTLCqxepN9yGXZVq09ourwopqbmqMX7fb+03Hp4=;Li872lPhdxUiPIdGjPsDtA=="
+secured: "841+JkTWEDa0bKK2xdSbmjNDtMQDxlO0VR9vjKRLbAppfZHbgtL42Bnty2AZdK3nlqWBhwuaIVCr8MmyOlSCTH8rzsspSs+IGRVsFq1vJATdiNBk/HBvPhNJtM6h7fxKP+vmJWMg+SK9vjtbvcdDwfnD+Ifj7CmBGBHdlmxKIiyQkLH4REt6fcJGAOl16UbbeWV23kFIlgZkjueWexOdMHZX+W/O3kW3RcWzQbkCHeMNnsE/zoisiPBdW0VE6mrGlFt1WMqnOOVn8xhrO1/xr4ZR9CObUYn1/Qv+rUeAy2vQ2vrvrmTal/kHNTbV+I2hZMPPVMO0QyCg0+TUPsNaIFwrPGDHS6G6BogkGSciesI=;FaeuNcuvIMS8sg6kKJDXNw=="
 ---
 

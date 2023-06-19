@@ -2,6 +2,204 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-19-why-machine-learning-is-imperative-to-your-brands-digital-marketing.md",
+      "title": "Why Machine Learning Is Imperative To Your Brand’s Digital Marketing",
+      "excerpt": "Business owners and executives new to machine learning and its applications may not know the full potential it has for their digital marketing strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6234c761e493a5459f8e0764/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/amp/",
+      "publishedDateTime": "2023-06-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence.md",
+      "title": "Keeping An Eye On AI: The New Skills Needed To Embrace Artificial Intelligence",
+      "excerpt": "The transformational technology has been hailed as a revolutionary force in science and medicine, but it has widespread applications in business too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64902945286542b0783b3640/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-06-19T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees.md",
+      "title": "Omnicom Group to Debut Tool Using Generative AI for Advertising Employees",
+      "excerpt": "Ad holding company Omnicom Group plans to debut its first generative artificial intelligence tool as part of a partnership with Microsoft: A virtual assistant to help ad agency employees with tasks across the advertising process such as compiling audience insights and building media plans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees-4976424",
+      "originalUrl": "https://www.wsj.com/articles/omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees-4976424",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-802415/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics.md",
+      "title": "From manufacturing to mosquitoes, universities explore AI uses, ethics",
+      "excerpt": "University of Wisconsin-Milwaukee student Kathryn Pecha (left) and professor of industrial engineering Wilkistar Otieno pictured in the school’s Connected Systems Institute, an AI-optimized mini factory designed to support the development of advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/",
+      "originalUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.biztimes.com/2023/06/061923-SR-Innovation-Research-and-Development-photo.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/?amp",
+      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/?amp",
+      "publishedDateTime": "2023-06-19T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTimes",
+        "domain": "biztimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-19-this-fintech-startup-serves-a-75-trillion-per-day-market.md",
       "title": "This Fintech Startup Serves A $7.5 Trillion Per Day Market",
       "excerpt": "Swiss-Israeli fintech startup Okoora is expanding the reach of its AI-powered platform to multiple European countries.",
@@ -10,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -309,7 +507,7 @@
       "originalUrl": "https://itwire.com/business-it-news/security/microsoft-claims-azure,-outlook-june-outages-due-to-ddos-attacks.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1013,205 +1211,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-how-to-access-install-and-use-ai-chatgpt-4-plugins-and-why-you-should.md",
-      "title": "How to access, install, and use AI ChatGPT-4 plugins (and why you should)",
-      "excerpt": "ChatGPT-3.5 is useful. ChatGPT-4 can be very useful. But, for the most useful version of ChatGPT to date, you need to add, implement, and use ChatGPT-4 with plugins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/71db8dcabc6a9af772ff36d22386eb58ecefc7ec/2023/06/16/30a23833-79b1-4a6e-8e16-60d90aaf9a83/gettyimages-1250609807.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
-      "publishedDateTime": "2023-06-16T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-robots-and-ai-a-new-economic-era.md",
-      "title": "Robots and AI: A new economic era",
-      "excerpt": "First, this article is written by a human. I was born and delivered by organic parents.But soon many articles and most — if not all — goods and services will be produced, operated and delivered by robots and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427",
-      "originalUrl": "https://www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.manilatimes.net/manilatimes/uploads/images/2023/06/16/204988.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427/amp",
-      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427/amp",
-      "publishedDateTime": "2023-06-16T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilatimes",
-        "domain": "manilatimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-sambasafety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions.md",
-      "title": "SambaSafety automates custom R workload, improving driver safety with Amazon SageMaker and AWS Step Functions",
-      "excerpt": "At SambaSafety, their mission is to promote safer communities by reducing risk through data insights. Since 1998, SambaSafety has been the leading North American provider of cloud–based mobility risk management software for organizations with commercial and non–commercial drivers. SambaSafety serves",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/16/sambasafety-sagemaker-step-functions.jpg",
-          "width": 1213,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T08:08:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-this-google-leader-says-ml-infrastructure-is-conduit-to-companys-ai-success.md",
-      "title": "This Google leader says ML infrastructure is ‘conduit’ to company’s AI success",
-      "excerpt": "Google VP Nadav Eiron says his Core ML infrastructure team has played a key role in the company's GenAI success.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/this-google-leader-says-ml-infrastructure-is-conduit-to-companys-ai-success/",
-      "originalUrl": "https://venturebeat.com/ai/this-google-leader-says-ml-infrastructure-is-conduit-to-companys-ai-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-97.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

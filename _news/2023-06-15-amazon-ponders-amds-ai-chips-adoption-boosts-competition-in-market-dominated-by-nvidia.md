@@ -55,6 +55,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AMD faces path dependency struggle as it challenges Nvidia with MI300X AI GPU"
+    excerpt: "Advanced Micro Devices Inc. (AMD) on June 13 revealed its most-advanced GPU for artificial intelligence (AI), the MI300X, trying to get a bigger bite of the pie of the GPU market that has been ..."
+    publishedDateTime: 2023-06-15T12:56:00Z
+    webUrl: "https://www.digitimes.com/news/a20230614VL207/commentary-ai-gpu-amd-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230614vl207_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "XeahLLuM3wPJZTjMzijU2PTL2n6QPrL2SRaqulLzCHhdUFg8oFqwOk3LO9ctgFnY+HhhRGS+UR7thKjjkWehz/JxToa023iPRiVdBd/if243uSpbceV+U/o0zfJWHvIz8CZ8kN5HyueQbhVw5ENBBeAu/GsAJqjPpdsodgmaZ70zz8rjXfuPNpqpZ50sXyCIsEbs4qVafypxLy6gkQ8Ifjm1BkbcnWGJK9OUcGrwyyuYihWliLHKh/bSG8hTxSgapLi8sp5gV477/VbYGJMUePQRsFDf5YGNkl9toaxFCUpMgP0SDs16+APIZS6Ya37xbB5lLtwrucyEdmUxyyuHqrLSLsx2bEbortlsoQFKPWrMYKAQKsyVh7FyaLBOwbVH4wA3UslqUAhGbLXnFbnPk6QxBGJrtSRa3bqE09qkcj8fMDrKcuqrM74e31gw3JidQYppNd30TnQ+xYRIvOr/Gr9hND4sN0XKDHr9TolPh9a5u9a1xAOd9NppJf47g3ayHAXnKwMPFIJRhDRkuZBO2g==;7eyHj6hcv7aylnsXmKsOTg=="
 ---

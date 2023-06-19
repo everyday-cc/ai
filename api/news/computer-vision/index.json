@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -180,58 +180,6 @@
         "name": "Voice of America",
         "domain": "voanews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-feds-say-facial-recognition-ided-a-bosnian-war-criminal-living-in-tennessee.md",
-      "title": "Feds Say Facial Recognition IDed a Bosnian War Criminal Living in Tennessee",
-      "excerpt": "We may earn a commission from links on this page. Homeland Security agents used facial recognition to identify and arrest a man living in Tennessee they say stands committed war crimes during the ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/facial-recognition-bosnia-war-criminal-sead-miljkovic-1850538786",
-      "originalUrl": "https://gizmodo.com/facial-recognition-bosnia-war-criminal-sead-miljkovic-1850538786",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f79ae532b87aecc386c6041581eede73.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1360,6 +1308,50 @@
         "Computer Vision",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-microsoft-introduces-new-ui-experience-for-trying-out-computer-vision-with-vision-studio.md",
+      "title": "Microsoft Introduces New UI Experience for Trying out Computer Vision with Vision Studio",
+      "excerpt": "Microsoft recently introduced a new User Interface (UI) for developers called Vision Studio to try its Computer Vision API. Vision Studio is intended to allow developers to explore, demo and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/",
+      "originalUrl": "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/11/azure-computer-vision-studio/en/headerimage/generatedHeaderImage-1667429468411.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

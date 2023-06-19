@@ -9,8 +9,8 @@ ampWebUrl: "https://www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-e
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427/amp"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: manilatimes
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Keeping An Eye On AI: The New Skills Needed To Embrace Artificial Intelligence"
+    excerpt: "The transformational technology has been hailed as a revolutionary force in science and medicine, but it has widespread applications in business too."
+    publishedDateTime: 2023-06-19T10:13:00Z
+    webUrl: "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 98
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64902945286542b0783b3640/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Robots and AI: A new economic era"
     excerpt: "But soon many articles and most — if not all — goods and services will be produced, operated and delivered by robots and AI. Robots and AI will change not only the way we work, but also the way we live."
     publishedDateTime: 2023-06-17T01:04:00Z
@@ -41,29 +57,15 @@ related:
         width: 1200
         height: 979
         isCached: true
-  - title: "Applied Artificial Intelligence: The Key to Success During Economic Uncertainty in the Food & Beverage Industry"
-    excerpt: "By Terry Smagh, Senior Vice President and General Manager for Asia Pacific and Japan, Infor In the face of high inflation and increased prices, innovative food and beverage companies have turned to artificial intelligence (AI) and more specifically machine learning (ML) to drive efficiency and cut costs."
-    publishedDateTime: 2023-06-19T02:31:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3348359"
+  - title: "Google's new AI tool aims to make online shopping more diverse and size-inclusive"
+    excerpt: "Cher's virtual closet in the 1995 film classic Clueless is one of the most coveted futuristic tech suggestions of the pre-Y2K era. It's also the closest comparison Google has for its latest virtual try-on tool,"
+    publishedDateTime: 2023-06-14T19:08:00Z
+    webUrl: "https://www.aol.com/news/googles-ai-tool-aims-online-160841592.html"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 32
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/06/Infor-Logo-7b6a1c4d-e1687141863156.png"
-        width: 800
-        height: 800
-        isCached: true
-  - title: "The risks and rewards of artificial intelligence: Color Us Connected"
-    excerpt: "A month or so ago, a friend suggested that an artificial intelligence (AI) app could write a press release just about as well as I could."
-    publishedDateTime: 2023-06-18T09:20:00Z
-    webUrl: "https://www.seacoastonline.com/story/opinion/columns/2023/06/18/the-risks-and-rewards-of-artificial-intelligence-color-us-connected/70325270007/"
-    type: article
-    provider:
-      name: Seacoastonline.com
-      domain: seacoastonline.com
-    quality: 17
+      name: AOL
+      domain: aol.com
+    quality: 12
 
 secured: "6OgJt7Ccr2kfTKg5vcBHcYmA/a6inM3+hkyKJOR+v5JJ/NFowJzmCNiiYMFweZ/5dRQC5NJgB6Nz78RQlNVP0Y1ZoWWAVbsF4JFKW+RLYs31aMlLtBN56vONYYge/kvr5/My60E4g9LfpuSvAZ1TUqVtL0AyWdXzFHI1pr5h8NyND9Aau4LXN7Uv4+zaaDVNEeNfdyeRvxFGDOX2b4EXNmyYIHmVfHTi4qRj6/9xb+5oSXGElvGmzssEuDGUu6tXEVHNk8UoZ3UNVQBs9lLh9RwPlg5+pHe5QFbO/m/g2XjO23Gb8prNQ10jmRL87aQFRVJBVprTIQ+MvrxqxVy8PWVna0zoO8w2pJzMJ0Esrwiz1tPkli12ejpYXFnOX9ShjMPbsF1xdSqo51T2HaAgRn2HMWYkoBFkHY1ESm6mwyZu2Jxx8DmRDsTciVSKaOCI1vKL9hRG2dsdRHlFpoyOv88TZBSEu2xDOcjZcwy+9XGQ3d8N823yU3ZldXSDr4H11XH30f5rXYY9KeDIST2tEA==;AZAb8z3+mxsUC5tpPjGbzg=="
 ---

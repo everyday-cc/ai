@@ -45,6 +45,36 @@ related:
         width: 1200
         height: 755
         isCached: true
+  - title: "This Industry Expert Explains Why Fintech Holds a Bright Future For Small Businesses"
+    excerpt: "However, the emerging market of SMB-focused financial technology (FinTech) companies presents promising possibilities for these businesses. Anchit Singh, the Head of Product & Credit Strategy at Fundbox, an AI-driven financial platform for small businesses ..."
+    publishedDateTime: 2023-06-19T11:28:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/finance/this-industry-expert-explains-why-fintech-holds-a-bright/454342"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 62
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1687172448-Yourparagraphtext4.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Despite Funding Winter AI, Fintech Offers Hope To Young Entrepreneurs"
+    excerpt: "Fintech takes the lead with 171 valuable startups, boasting a combined value of $728 billion. The SaaS sector comes in second with 136 unicorns."
+    publishedDateTime: 2023-06-19T11:16:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 59
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/r9nlqv0vwkc9estt_1687172425.jpeg"
+        width: 768
+        height: 437
+        isCached: true
   - title: "Trezy, a fintech that uses AI to help small businesses manage cash flow, just raised $3.3 million with this 23-slide pitch deck"
     excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Trezy, a fintech startup that uses AI to help small businesses manage cash flow, has raised $3.3 million. The Paris and Amsterdam-based company, founded in 2020 ..."
     publishedDateTime: 2023-06-15T09:46:00Z
@@ -59,15 +89,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "3 Fintech Stocks With High Potential for Growth"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The financial technology (fintech) industry continues to reshape the landscape"
-    publishedDateTime: 2023-06-14T17:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-high-potential-for-growth-1032389799"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
     excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
     publishedDateTime: 2023-06-15T00:00:00Z

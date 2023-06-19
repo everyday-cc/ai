@@ -55,20 +55,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 34
-  - title: "Rows’ AI Analyst Enhances Spreadsheet Data Analysis, Offering Automated and Intuitive Insights"
-    excerpt: "Rows, the next-generation spreadsheet for businesses, has launched Rows AI Analyst, its latest feature. The new tool will"
-    publishedDateTime: 2023-06-14T17:36:00Z
-    webUrl: "https://www.datanami.com/this-just-in/rows-ai-analyst-enhances-spreadsheet-data-analysis-offering-automated-and-intuitive-insights/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 25
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/ai_rows-300x283.png"
-        width: 300
-        height: 283
-        isCached: true
 
 secured: "sfZ5WB643czfn3J+Ls7V6kMfwd87bPNXARkjCVTVyBkypSoo6HXOY5I1HPBhG71WunCCt9pPcTAbJDRifAZxbsnRaDRVVtnyR4mwFWBFVI347WNMUJaUaGirRg7spB8QXASb4kLCZjhptxtSBbujQRfd+qFjgdW1DQChS4cF/LirF+bOTLG3hBAj+QGAQedHINsFF+RcoY2SdX5uytK4+3ThgWdbh0782C5yKkbHpVEu2DpCzk7Xc8B4t1zMjfTolFpvsGPDELhk5xXBl+nZAtkpcAZp8MWYvWVkmfRQ2H9G77cQOHrzy9J3ZONdPuM2iszg1snz6m5Xv1LX37IkHSjvoPXzk7bTg4Y+XjbnKtgIjgyD/8pwnV9ZxzXF4dZVAfifuXKipaCQZ9WUidEflVHT0HbcLEQqPbeZHN2YcP3oNddORQutUB/N7bycAbsu3gxmCs3HAXoOXAQvixiYrFvWg68CGOvx2+GFDLhwnEF+vHK+lTdw3tGt6p6plVWBND2w9OIHsTMMvIS9AMoNag==;3qmNKov7y7QgZY/SgDzz9w=="
 ---

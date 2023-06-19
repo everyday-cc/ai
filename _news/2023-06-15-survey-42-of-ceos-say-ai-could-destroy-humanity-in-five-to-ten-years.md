@@ -26,50 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: 42% of CEOs say AI could destroy humanity in five to ten years"
-    excerpt: "Many top business leaders are seriously worried that artificial intelligence could pose an existential threat to humanity in the not-too-distant future."
-    publishedDateTime: 2023-06-14T17:38:00Z
-    webUrl: "https://www.cnn.com/2023/06/14/business/artificial-intelligence-ceos-warning/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-ceos-warning/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-ceos-warning/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 86
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230607154817-person-working-laptop-screen-stock.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Exclusive: Southeast Asia to set 'guardrails' on AI with new governance code"
-    excerpt: "Southeast Asian countries are drawing up governance and ethics guidelines for artificial intelligence (AI) that will impose \"guardrails\" on the booming technology, five officials with direct knowledge of the matter told Reuters."
-    publishedDateTime: 2023-06-16T07:13:00Z
-    webUrl: "https://www.reuters.com/technology/southeast-asia-set-guardrails-ai-with-new-governance-code-sources-2023-06-16/?ref=upstract.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: "https://www.reuters.com/resizer/ea0d2lDu0N6wARD6MMauY1tDj44=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4B4CWPO5WVNHTHRQ3CCDGQXKTU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Exclusive: Xi Jinping tells Bill Gates he welcomes U.S. AI tech in China"
-    excerpt: "Chinese President Xi Jinping discussed the global rise of artificial intelligence with Bill Gates on Friday and said he welcomed U.S. firms including Microsoft bringing their AI tech to China, two sources familiar with the talks said."
-    publishedDateTime: 2023-06-16T15:57:00Z
-    webUrl: "https://www.reuters.com/technology/chinas-xi-tells-bill-gates-he-welcomes-us-ai-tech-china-2023-06-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: "https://www.reuters.com/resizer/IpUmrPPET2tRd5BBtgiTHKNkeTc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GPH6QKVE3NMAXKECMEYTI2QAQE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Artificial intelligence to destroy humanity in 5 years: Top CEOs alarmed by AI’s catastrophic potential"
     excerpt: "CEOs believe that AI poses a potential threat to humanity within the next 5-10 years, according to a survey of 119 CEOs at the Yale CEO Summit."
     publishedDateTime: 2023-06-16T01:45:00Z

@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-06-06-collaborative-robot-leverages-motion-control-speed-and-agility.md",
-      "title": "Collaborative Robot Leverages Motion Control Speed and Agility",
-      "excerpt": "With that in mind, ABB has identified three growing trends in ... covering automation and control, motion control, power transmission, robotics, and fluid power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/YuMi%20VIII.jpg",
-          "width": 7360,
-          "height": 5197,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-05-killer-robots-could-emerge-from-ai-in-just-two-years-gov-expert-warns.md",
       "title": "Killer robots could emerge from AI in just TWO years, Gov expert warns",
       "excerpt": "WORLD leaders have TWO YEARS left to tame Artificial Intelligence before humans are unable to control powerful computers,  a government top adviser says. Tech entrepreneur Matt Clifford, the Prime",
@@ -1375,6 +1332,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit.md",
+      "title": "Drone Nerds to Feature UAV Platforms at Energy Drone and Robotics Summit",
+      "excerpt": "Drone Nerds, an enterprise drone solutions provider, will attend the 7th Annual Energy Drone and Robotics Summit in Houston, Texas. The Energy Drone & Robotics",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32614299/drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32614299/drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32614299",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32614299",
+      "publishedDateTime": "2023-05-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

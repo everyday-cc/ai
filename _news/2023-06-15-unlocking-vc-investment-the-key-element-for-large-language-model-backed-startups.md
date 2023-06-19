@@ -32,6 +32,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "AI-music directory WAVs AI raises a $20m funding round"
+    excerpt: "WAVs AI is the latest AI-music startup to raise funding – $20m in its case. It’s a directory of AI music from… familiar-sounding artists."
+    publishedDateTime: 2023-06-19T10:00:00Z
+    webUrl: "https://musically.com/2023/06/19/ai-music-directory-wavs-ai-raises-a-20m-funding-round/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2023/06/Screenshot-2023-06-19-at-09.07.20.png?fit=1200%2C792&#038;ssl=1"
+        width: 1200
+        height: 792
+        isCached: true
 
 secured: "Fmpo7XVZWaaF0V03p5vUcMQv9dh8w7D+j6AF4BpCb3hP7Jy0h/98UVRkaOVUcKy7cGGkUfDeG0cnTtJooz5ftDqk+wHozcVkihVRW1yqTTZDtdBW9GUnWfwgztUlAAwhlLfi3PqvrFuw+wfI98/SkTWw9YQPJbnQyDr7ltIwJ63+JKTDT0vaNlXUruaM0iF4PrmOqo51+2K1zCq280tEg8MatwRNQ8rJWdDZ4Mp8uFekMkHGHEm08m3SvNDyiDOe4n3MiaXHK9wGGRtKeRVmxfQYcdg2eSrCxas8poiPnY3/Np6/4iMPtg4CludGCAc9dGQeGrF6dLrOf/OLa3mjWVZIJSMW4v4FKI6tW7O5aWWYsYU3gqDMmJzYVMTehottHsuVOVs9DI69mugnA/A3SQrvPIPnaeLDWyginlQK2A6By737q6oRlwn6VIUwdIM4LMmXySpZBO6CnvUmM9l8zSKB55E9eeCwoN9deLCQfqtDxdKvIMZGIzqoPp9B1V5wC8J6R7tEoEueRpzXvpvqbg==;shyjCAP4UJ50521AQBhhgA=="
 ---

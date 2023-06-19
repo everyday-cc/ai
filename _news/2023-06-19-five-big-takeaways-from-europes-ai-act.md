@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeawa
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     height: 1688
     isCached: true
 
-related:
-  - title: "Europe votes on Artificial Intelligence Act"
-    excerpt: "Lawmakers in Europe signed off Wednesday on the world's first set of comprehensive rules for artificial intelligence, clearing a key hurdle as authorities across the globe race to rein in A.I. (June 1"
-    publishedDateTime: 2023-06-14T18:50:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2023/06/14/europe-votes-artificial-intelligence-act/12105644002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
-
-secured: "oqg46S60gDi7HKBHbX7ir3Bf4erJoV7AYGhW9vBV4w2/bewSRzaqvPfPyMA1++zY5l0YHYVtUQta6quKj47vfaqZ6C2H24+IEEKFLpJja/fIbze/tZIYnqh7eClan3aDPXPtt8EoYvdA9HcBaHbu5hT+OUcPsM87mNggutBLGH/bmpdvOAO0i8RReof3rBSXYTrZy5OQPDwnpRzH5q5JFkA4vhvjuVZlhw59nzRD09ialx6hmjK2qb9Odiew9fg5DALrndZPA0JgoJZLXx51I2WXhNS5acr4pJuI9ttDbTQNbn1vx/+9mP0TEGIAccVtFq+mCab9CXfiAvvMslwWW3mzYxdqjB98+MYGVs/tODc=;EKHnV9Il49xydFEATeYOhg=="
+secured: "cckTYT/440g7U4w99FBYTE5Cz8KVDHXUswKd6Fw4DitSaqVrbcw5GWWZdxz0WNOypc2EM9ycmj2Dx+mZ0zPeBBypUso3P28DyBQSXC06boDgSi/F3HJskgj77z7BqzzWIv30SjttokGZ0es7B5AgHIYNNbXeRv/aAiAL/qWpz9FTKplwD476zVwWW6lk6MHYLgotapTYlU+2tDVoHq2CuVwf+mkLHGhdd25/DdrStEA1bSqbg8lxjuJi8ceIzFhkNz2i7aiJDPKBhmRggPp5u+c7zJRVQcVbPKATCs7bZCv5qwWaL2JWs2vgEVhbOweXiaa2U7kmx5gIm68UrvNHrNwEUj/OCbpKkzPAFwFUPAg5XDctcwWrVucCtjAmL1cV7xHq8pJOXW1htk8t9dB1qijhR518G9IzE6qz+IfuukWBYobgAPpWjH3TuOS46c90uThta5RktwAECMjng0AWbb7QT8cZKk7ZBGVrAdg+jwaN280iDvP+VJ/y5lceQhktTWyNWgPuEXqju9/00h8NXQ==;45Y+TQnqnPOjNc+FUGu3Jw=="
 ---
 

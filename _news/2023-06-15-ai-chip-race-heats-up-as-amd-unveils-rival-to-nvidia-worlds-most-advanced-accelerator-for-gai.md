@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AMD faces path dependency struggle as it challenges Nvidia with MI300X AI GPU"
+    excerpt: "Advanced Micro Devices Inc. (AMD) on June 13 revealed its most-advanced GPU for artificial intelligence (AI), the MI300X, trying to get a bigger bite of the pie of the GPU market that has been ..."
+    publishedDateTime: 2023-06-15T12:56:00Z
+    webUrl: "https://www.digitimes.com/news/a20230614VL207/commentary-ai-gpu-amd-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230614vl207_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Amazon Ponders AMD's AI Chips Adoption; Boosts Competition in Market Dominated by NVIDIA"
     excerpt: "Amazon Web Services (AWS) is contemplating incorporating Advanced Micro Devices (AMD)s latest artificial intelligence (AI) chips, potentially diversifying a market largely controlled by NVIDIA. The remarks were"
     publishedDateTime: 2023-06-15T07:00:00Z

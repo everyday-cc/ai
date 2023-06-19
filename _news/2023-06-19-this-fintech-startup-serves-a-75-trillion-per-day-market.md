@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "This Industry Expert Explains Why Fintech Holds a Bright Future For Small Businesses"
+    excerpt: "However, the emerging market of SMB-focused financial technology (FinTech) companies presents promising possibilities for these businesses. Anchit Singh, the Head of Product & Credit Strategy at Fundbox, an AI-driven financial platform for small businesses ..."
+    publishedDateTime: 2023-06-19T11:28:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/finance/this-industry-expert-explains-why-fintech-holds-a-bright/454342"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 62
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1687172448-Yourparagraphtext4.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Despite Funding Winter AI, Fintech Offers Hope To Young Entrepreneurs"
+    excerpt: "Fintech takes the lead with 171 valuable startups, boasting a combined value of $728 billion. The SaaS sector comes in second with 136 unicorns."
+    publishedDateTime: 2023-06-19T11:16:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 59
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/r9nlqv0vwkc9estt_1687172425.jpeg"
+        width: 768
+        height: 437
+        isCached: true
   - title: "Lending A Helping Hand to Fintech Businesses"
     excerpt: "Demonetization acted as a catalyst in India to promote digital transactions which in turn accelerated the use of fintech platforms, including lending tech solutions as an alternative to cash-based transactions. Increase in Embedded Credit and AI-driven ..."
     publishedDateTime: 2023-06-15T14:30:00Z
@@ -59,15 +89,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "3 Fintech Stocks With High Potential for Growth"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The financial technology (fintech) industry continues to reshape the landscape"
-    publishedDateTime: 2023-06-14T17:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-with-high-potential-for-growth-1032389799"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
     excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
     publishedDateTime: 2023-06-15T00:00:00Z
@@ -101,6 +122,6 @@ related:
       domain: datacenterdynamics.com
     quality: 0
 
-secured: "lWkrdCohhydP7y5jWoySZbRl/01vSMEM2obTTFAZSWikQB5EWXOJ8pOqNUI6zf3ygpFpOatxOE2DCDQNp5bdulQBIAyYGws2vBWeVbfdCXUQ0lKsVdY131RGk0IzLCtkpRDaXj8Pa3mcbO14XTMyLWOwT7W0PyamWwiQdeNQCvrLoJLB8mTkq7pmpz5dHLljTSTrFOVA2p5LhymVw/bEG4LEUmLejg5fqWxF4dgeF166LBDE9KIDQFQmAzwtxerNIA32GbFK2BDd/hkbcXlQTfWSaF69VV87AyAxOBu1XlTDgrhcgGH3FWGxzNQuJB8Twm6Ywlafbcvi/5nXX7Se0KzPER8cisBg3f0LVFmPcc4=;k5EBrdSGqCytIy/JvtK9xQ=="
+secured: "Hn1Hg/eLXwiO4xmcVPLBOIeZ3/UNVZQtn4EO/NrH19SCekuW6fZqsgonh+NQRw8o/sf2+QpchLMj6P9vVvzvNITFKyRWl1NbVP+Q4ejDukGC0Y7a9plhPMy6IljInnVV1JazaoCNP5X+TT8LgzrDvs5LtXrlCtcS8dt77BXZReTCJwFzexhw5uu43vfk7qAY7diJdPoWgfj3bI851P1Pu5fBMrNqDccYXZ5w1YrEwGQOoRhd946gjVyrgXj7eswvQePjbxGWg4znqgIt/UCKRZWKy//o8YCpfGVoYr5aP5Z20aQVFPoSLCAM/whpkEwmaGBL4PiTCIICNFtZzK68gSj3Me4o0stf8jVXx44jwvNKPTbj1ZxM6lJGmbxeO3ZtfXDHTzuSCu9C/unGLp45vz7DsqttKOQjJgWqqYEhfYLszpHbUGnTt/3Rxp9a7unk3N7YRjjBE+G5yWUXqNmtzUf0bwclYAIDBBH4YlvJpKvnlzRHGtEFk4hoDZpySl1t4IBbdOhPArlC4B/GISPuSg==;JRKjHOajjWxVPmUqSf9IcQ=="
 ---
 

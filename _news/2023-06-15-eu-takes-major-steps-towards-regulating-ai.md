@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo182262853951"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo182262853951"
 type: article
 quality: 87
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1242038246.jpg?resize=1200,800"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Everything You Need to Know About the EU's Game-Changing AI Legislation"
-    excerpt: "The European Parliament votes to pass the first comprehensive AI rules. Here's a brief summary of the AI Act, the influence of which will likely extend beyond the EU."
-    publishedDateTime: 2023-06-14T17:08:00Z
-    webUrl: "https://www.pcmag.com/news/everything-you-need-to-know-about-the-eus-game-changing-ai-legislation"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06YSHh9Q84O3ILT58Wkxzi4-2.fit_lim.size_1200x630.v1686758662.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "EU takes major step toward AI regulation as the AI Act moves into final phase"
     excerpt: "If the AI Act gets put into law, it would become one of the first major laws to regulate the technology. This would put the EU squarely ahead of other countries like the US and Ch"
@@ -116,15 +102,6 @@ related:
       name: Politico Europe
       domain: politico.eu
     quality: 19
-  - title: "The EU just took a huge step towards regulating AI"
-    excerpt: "The European Parliament just cleared a major hurdle for its AI Act, which would significantly expand citizens' data privacy rights."
-    publishedDateTime: 2023-06-14T18:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-act-european-union/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "FFhLp78LHpe3ajdZ/4v2D4IifqKrR4ZHT5a2l0jgQS5Hh7XYJpOCjXEkuDOLTpAmRzS1wHHAJBVmUDTtrwkQO4aPTKCHcMUUfMXeQHBuVngiyYLkfcmvcqt6aP0IO07rnrdPcD8R+KwWy22/5TYKb5uP+2lSBrAB5Ce9Uwe0NxDolpE1fZcLNZjbq30VkjLvg4BVohyHI2+mBha8iweO3u8qn4agxuEM4X3sWd+Lcz3JgjKR/Qd42/8xAFK4audNUSEMwnS7Y30xjjwfyMSrfsydzraZ3qcWNC+HVRgHOSPqIgTA3qVe75OuA9z9oCOGdWQ6teGwilZti278s7xX6+/puItdWFSQjaj896K7Mgps74MOFwpTMVsVEOceL48Op1XzDWPXL+yI2ELNb05LmQohgiH6LgYd8dVHQcWmE+sMbR0pFUougJpJDQNV5he5TA0lnSe8O4sFKHpePXz5PhUxpduRDihMCFVw8nu7KKDO/PnRT7qWX/g6O/1kix6sDJjl0nMG0CpcrgTqkw4x2A==;RnHZn0VK23QrM++ccPjnRA=="
 ---

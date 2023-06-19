@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-19-from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics.md",
+      "title": "From manufacturing to mosquitoes, universities explore AI uses, ethics",
+      "excerpt": "University of Wisconsin-Milwaukee student Kathryn Pecha (left) and professor of industrial engineering Wilkistar Otieno pictured in the school’s Connected Systems Institute, an AI-optimized mini factory designed to support the development of advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/",
+      "originalUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.biztimes.com/2023/06/061923-SR-Innovation-Research-and-Development-photo.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/?amp",
+      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/?amp",
+      "publishedDateTime": "2023-06-19T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTimes",
+        "domain": "biztimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-19-yin-and-yang-of-ai-balancing-innovation-ethics.md",
       "title": "Yin and Yang of AI: Balancing innovation, ethics",
       "excerpt": "In the realm of global tech regulation, the European Union's recent Artificial Intelligence Act represents a moment of significance, in addressing the potential risks associated with artificial intelligence (AI).",
@@ -96,7 +139,7 @@
       "originalUrl": "https://www.scmp.com/news/asia/southeast-asia/article/3224342/southeast-asia-set-guardrails-ai-new-governance-code",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -241,49 +284,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-ai-ethics-guidelines-that-organizations-should-consider.md",
-      "title": "AI Ethics Guidelines That Organizations Should Consider",
-      "excerpt": "Large language models like Bard and ChatGPT are powerful technologies with the potential to revolutionize many industries. They also raise a number of ethical concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-ethics-guidelines-that-organizations-should-consider/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-ethics-guidelines-that-organizations-should-consider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {

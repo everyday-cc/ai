@@ -7,8 +7,8 @@ originalUrl: "https://gizmodo.com/facial-recognition-bosnia-war-criminal-sead-mi
 webUrl: "https://gizmodo.com/facial-recognition-bosnia-war-criminal-sead-miljkovic-1850538786"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Gizmodo
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "US, Kyrgyzstan, India hunt criminals with facial recognition watchlists"
-    excerpt: "The Department of Homeland Security has reportedly used facial recognition and fingerprint biometric data to locate an alleged Bosnian war criminal."
-    publishedDateTime: 2023-06-14T17:30:00Z
-    webUrl: "https://www.biometricupdate.com/202306/us-kyrgyzstan-india-hunt-criminals-with-facial-recognition-watchlists"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
 
 secured: "Hq44Ma8lR3VKKXjWy3OUE5Krxh75f4q8JeL25tN2d9OFU9fVENrR421Ln1dLobnhccz7XCZ+vqxtwS5GQY0rhL+L0G76TLmO//k5HdpABOAbyvc1cqceHqHHiWUYR8z671syuvI3AO+cpUN/P0q8pZmaGShTT6WCLhzTjKRYnx/qgFZuTfIhF5sciEQDADXBOYTexZJ83Sb0MiHPZWhJACnKJyicDBbbpHyXKUj3j+Qf3P84KJLP1aKe9JTy0f2lcZzx2T4WCzwIS/NdFF/Jn97zJTDYuXgv28pzeCak9bGLZAKfDUs3nurVK3QP2ZCeyh+CZARummnJ3AcZJbz55euXd568lRP5MAlcKwbJJ8k=;jaz2U/T+DLRFHmWGgUgACQ=="
 ---

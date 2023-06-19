@@ -24,6 +24,22 @@ images:
     height: 316
     isCached: true
 
+related:
+  - title: "Tencent Cloud Recognised by Gartner® in 2023 Magic Quadrant™ for Cloud AI Developer Services for Fourth Consecutive Year"
+    excerpt: "Gartner Inc has published its 2023 Magic Quadrant for Cloud AI Developer Services, where Tencent Cloud has been recognised in this Magic Quadrant for four consecutive years."
+    publishedDateTime: 2023-06-19T10:10:00Z
+    webUrl: "https://www.bangkokpost.com/thailand/pr/2595079/tencent-cloud-recognised-by-gartner®-in-2023-magic-quadrant™-for-cloud-ai-developer-services-for-fourth-consecutive-year"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 14
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20230619/c1_2595079_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
+
 secured: "3L2VxAMAdKFjcRoixRv3ug4Wg7JnnJRCbAEJE5Xsi9KEMvm7Y5LR+s6PYdb1hAKY4fGjX0G/JCQDF5cKR1pnPgt6TupzLMWpe8V1i85JwbXvkwsB8w/Us2SXXMbIeI8R1CVzX9bjlGs58p7QQ0Wvj7sro4/APEWKvKh5zY23Z04X0bynfGmVZy0T6q3CCMDxxSNPa/a6Bo8/dn/IA1RFXlxEeSnMvx/4XlrL3rR4vhHC3N+wlsGovZcVre+VU3/2jT+PQNJ96WHgaSZRQYoCB/85q9BDy4Oh0AS4j02/RVgffZ/56OueiqibDAVdLw7fgE29jrpcTtm/qvq/C2yf1cH1qdkTdBLk/5WymDQjnJExDhr4XV4joJRds+sbNcWFzjbBizeRbJ4AhB/33jGgFuay+uMCB3uMx9qn0JykIikXof5+m4drXsr+eNUyBQdC7Sx5feD/YV0Bymu3NKwGuypCXWpT4ugo4oqdpki3L1V8Ve0BisyzsE8DRZoKeNc67NN01C+HD44kblaLTxxvEQ==;Wz1d/maTX+YINKOyCafl4w=="
 ---
 

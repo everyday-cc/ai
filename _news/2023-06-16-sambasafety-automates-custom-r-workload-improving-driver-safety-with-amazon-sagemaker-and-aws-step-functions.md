@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/samba-safety-automat
 webUrl: "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bring SageMaker Autopilot into your MLOps processes using a custom SageMaker Project"
-    excerpt: "Every organization has its own set of standards and practices that provide security and governance for their AWS environment. Amazon SageMaker is a fully managed service to prepare data and build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools,"
-    publishedDateTime: 2023-06-14T17:03:03Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-sagemaker-autopilot-into-your-mlops-processes-using-a-custom-sagemaker-project/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/14/bring-sagemaker-autopilot-mlops.jpg"
-        width: 1023
-        height: 513
-        isCached: true
   - title: "AI Safety: New Research Explores Machine Learning Safety Without Conducting Countless Trials"
     excerpt: "Machine learning has long drawn inspiration from human learning processes, including the valuable lessons learned from mistakes. However, the application of machine learning in safety-critical autonomous systems, such as self-driving cars and power systems ..."
     publishedDateTime: 2023-06-15T10:36:00Z

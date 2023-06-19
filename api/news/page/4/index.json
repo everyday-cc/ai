@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-15-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
+      "title": "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions",
+      "excerpt": "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/OGY3MGQ1ODUtM2NiNS00/0/image2-mohammedalromaizan-vpsapsaudiarabiaandashutoshmuni-interimmpofibmconsultingsaudiarabia-alongsideibm-sapteam-jpg.jpeg?f=3%3A2",
+          "width": 873,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
+      "publishedDateTime": "2023-06-15T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law.md",
+      "title": "Can Generative AI Be Saved From AI Hallucinations By Using Chain-Of-Thought Step-By-Step Techniques, Asks AI Ethics And AI Law",
+      "excerpt": "Generative AI is prone to AI hallucinations, but maybe the use of chain-of-thought step-by-step techniques can overcome or at least reduce such maladies. Here's the deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648a7b3bea640d0f0675c365/0x0.jpg?format=jpg&crop=1589,1192,x266,y22,safe&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-06-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation.md",
       "title": "AI Takes Center Stage In Tech Development, But Enterprises Still Require A Digital Foundation",
       "excerpt": "How can technology leaders best leverage AI to benefit their companies and their customers? We've focused on a few areas that all technology leaders could benefit from.",
@@ -204,7 +300,7 @@
       "originalUrl": "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -789,58 +885,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-15-feds-say-facial-recognition-ided-a-bosnian-war-criminal-living-in-tennessee.md",
-      "title": "Feds Say Facial Recognition IDed a Bosnian War Criminal Living in Tennessee",
-      "excerpt": "We may earn a commission from links on this page. Homeland Security agents used facial recognition to identify and arrest a man living in Tennessee they say stands committed war crimes during the ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/facial-recognition-bosnia-war-criminal-sead-miljkovic-1850538786",
-      "originalUrl": "https://gizmodo.com/facial-recognition-bosnia-war-criminal-sead-miljkovic-1850538786",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f79ae532b87aecc386c6041581eede73.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-15-microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027.md",
       "title": "Microsoft –AI Will Help Drive $100 Billion In Revenue By 2027",
       "excerpt": "The latest of these tools, generative AI capabilities through Microsoft Azure OpenAI Service, can help government agencies improve efficiency, enhance productivity, and unlock new insights from their data. Many agencies require a higher level of security ...",
@@ -901,7 +945,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/eu-takes-major-steps-towards-regulating-ai-182262853951",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1170,59 +1214,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-amds-take-on-ai-instinct-mi300x-combines-gpu-cores-with-192-gb-of-hbm3-memory.md",
-      "title": "AMD's take on AI: Instinct MI300X combines GPU cores with 192 GB of HBM3 memory",
-      "excerpt": "Up until now, the big winner in the generative AI GPU game has been Nvidia, thanks to a combination of strong hardware and a large installed",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html",
-      "originalUrl": "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-14-image-29.jpg",
-          "width": 2098,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

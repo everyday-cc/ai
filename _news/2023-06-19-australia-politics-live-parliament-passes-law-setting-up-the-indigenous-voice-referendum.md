@@ -47,6 +47,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Australian parliament backs Indigenous recognition referendum: ‘Together, we can make history’, PM Albanese says"
+    excerpt: "The referendum will seek support to establish an Aboriginal and Torres Strait Islander voice to advise the government on issues affecting those communities."
+    publishedDateTime: 2023-06-19T11:05:00Z
+    webUrl: "https://www.scmp.com/news/asia/australasia/article/3224633/australian-parliament-backs-indigenous-recognition-referendum-together-we-can-make-history-says-pm"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 33
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/19/956fcb73-6a89-451f-a120-f3c9954adfa1_f5ca44e5.jpg?itok=Ae-mOu0_&v=1687172680"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Australia’s Senate votes to hold referendum on creating Indigenous Voice"
     excerpt: "Australia’s Senate has voted to hold a referendum this year on creating an Indigenous Voice to Parliament – an advocate aiming to give the nation’s most disadvantaged ethnic minority more say on government policy."
     publishedDateTime: 2023-06-19T05:06:00Z

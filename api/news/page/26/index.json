@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-05-31-uber-and-serve-robotics-to-deploy-up-to-2000-food-delivery-robots.md",
+      "title": "Uber and Serve Robotics to deploy up to 2,000 food delivery robots",
+      "excerpt": "Uber Technologies Inc. and startup Serve Robotics Inc. plan to deploy a fleet of up 2,000 delivery robots that will transport restaurant orders to consumers. The companies detailed the initiative today.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/05/30/uber-serve-robotics-deploy-2000-food-delivery-robots/",
+      "originalUrl": "https://siliconangle.com/2023/05/30/uber-serve-robotics-deploy-2000-food-delivery-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/robot.png",
+          "width": 800,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-tech-up-on-ai-enthusiasm-tech-roundup.md",
       "title": "Tech Up on AI Enthusiasm -- Tech Roundup",
       "excerpt": "Shares of technology companies rose slightly as optimism about new artificial-intelligence developments buoyed some mega cap stocks. Nvidia crossed",
@@ -1129,58 +1172,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-sap-wants-to-future-proof-businesses-with-ai.md",
-      "title": "SAP Wants To Future-Proof Businesses With AI",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead examines how SAP says it wants to help customers transform business models in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647617a83cda87b81f945378/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/amp/",
-      "publishedDateTime": "2023-05-30T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Australian parliament backs Indigenous recognition referendum: ‘Together, we can make history’, PM Albanese says"
+    excerpt: "The referendum will seek support to establish an Aboriginal and Torres Strait Islander voice to advise the government on issues affecting those communities."
+    publishedDateTime: 2023-06-19T11:05:00Z
+    webUrl: "https://www.scmp.com/news/asia/australasia/article/3224633/australian-parliament-backs-indigenous-recognition-referendum-together-we-can-make-history-says-pm"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 33
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/19/956fcb73-6a89-451f-a120-f3c9954adfa1_f5ca44e5.jpg?itok=Ae-mOu0_&v=1687172680"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8teo1DBKNx3rE1H2wbHcCvZKX6y5WT4sCdmsw1iu0WoSbmHX9Ow7gBxjAGV5zoMZKAhIPC9BynizbWlUbIMZjjLxQhXKUCkGuxh09nQ0ZdSfchWeaILyvtIh5S+1pjjNPd0IXYF9gVHcvyD+yRzNN9/u/39DmgKo75kT+mw8yoZqdiz7ZxEcIAZX+Zsl0ytMa/KtvgWAyto4Q3Fk6mPLEDh1AZZIW8gRJvuEPgUjj6VhRUWAFVunZBbcZFWHjXJyzAcwNsFEwX/K/39K6G0mxNok2Ws5BaXrQ+lW5AbJujD8yBvecIzoSibf3EMI+Rb9pQvBAYdmgaCXpFNdWUzVzanDFgooofWqNI3TkdxSGis=;jB/gamNFeq9sNh8XjQFD2w=="
 ---

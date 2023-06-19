@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-14-vectara-lands-285m-to-supercharge-enterprise-search.md",
+      "title": "Vectara lands $28.5M to supercharge enterprise search",
+      "excerpt": "Vectara, a platform providing AI-powered enterprise search tech, has raised $28.5 million in a seed funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/",
+      "originalUrl": "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1352189853-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/amp/",
+      "publishedDateTime": "2023-06-13T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights.md",
       "title": "Reinventing the data experience: Use generative AI and modern data architecture to unlock insights",
       "excerpt": "Implementing a modern data architecture provides a scalable method to integrate data from disparate sources. By organizing data by business domains instead of infrastructure, each domain can choose tools that suit their needs. Organizations can maximize the value of their modern data architecture with",
@@ -1192,49 +1244,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-artificial-intelligence-could-turn-human-contact-into-a-prerogative-of-the-wealthy.md",
-      "title": "Artificial intelligence could turn human contact into a prerogative of the wealthy",
-      "excerpt": "(Photo by Matthew Horwood/Getty Images) Artificial intelligence won’t destroy our ... agent’ that offers users Cognitive Behavioural Therapy (CBT). The app’s CEO claims it has tens of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/artificial-intelligence-could-turn-human-contact-into-a-prerogative-of-the-wealthy/",
-      "originalUrl": "https://www.cityam.com/artificial-intelligence-could-turn-human-contact-into-a-prerogative-of-the-wealthy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2023/06/city-A.M-2023-06-12T165703.298-e1686585439321.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

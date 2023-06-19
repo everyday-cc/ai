@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Everything You Need to Know About the EU's Game-Changing AI Legislation"
-    excerpt: "The European Parliament votes to pass the first comprehensive AI rules. Here's a brief summary of the AI Act, the influence of which will likely extend beyond the EU."
-    publishedDateTime: 2023-06-14T17:08:00Z
-    webUrl: "https://www.pcmag.com/news/everything-you-need-to-know-about-the-eus-game-changing-ai-legislation"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06YSHh9Q84O3ILT58Wkxzi4-2.fit_lim.size_1200x630.v1686758662.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "EU takes major step toward AI regulation as the AI Act moves into final phase"
     excerpt: "If the AI Act gets put into law, it would become one of the first major laws to regulate the technology. This would put the EU squarely ahead of other countries like the US and Ch"
     publishedDateTime: 2023-06-14T21:32:00Z
@@ -116,15 +102,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "The EU just took a huge step towards regulating AI"
-    excerpt: "The European Parliament just cleared a major hurdle for its AI Act, which would significantly expand citizens' data privacy rights."
-    publishedDateTime: 2023-06-14T18:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-act-european-union/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "qucq4JIuGuNKyntjfvnr1tPOEhnk9f8x+zoOZbnJ5aiCcaXrvU4VDkBDXVrVdhSOn9g0BriYbTxmg5D9h71xfe5Y+gp4DPyceHLww+H/d8Itfp167Ey5I0zLE2xvgej87k8rCSulkewy/ZUdfYQNZ+oGnHySBrf8Jk4I+qPnBPCZsjqqwJXDiK8OmclFTdshDDVA15kyi4bvpoh3xIX5jCE2nLeex0CJwyf+l6KA0tsVIMpIVUo7aruwYujJs+IA9q5+YoaThpRnctz1bAa/9LaSFJDxkqwDQNWNwoVld4+Sv2+xZAUYCJFMWeiZbjdt2oovtN3SJDHqccq12HG2dYXDEwkZMnt1Pku0BRSI77fQsu6/hlBeKxOgV5im7XYqTeVaNo2xVlL08SHWzO0C7lrKllOH8RdPup1+dHU0eIeTNGfI56UPjFVvzqinnJL/LiBMv6NufkTy3XPXDq9qscl0iH3SX3kdVXvg9M1qF+tSbfPKq8IhnOk07dAzpjUmsmODVPEPHt5cBLf7Dek1gg==;R5jn1ccstHR3tCz92oEe/w=="
 ---

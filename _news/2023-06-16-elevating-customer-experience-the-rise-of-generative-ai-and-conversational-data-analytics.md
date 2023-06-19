@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/the-future-of-personalization-how-gener
 webUrl: "https://venturebeat.com/ai/the-future-of-personalization-how-generative-ai-is-elevating-customer-experiences/"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 34
-  - title: "Rows’ AI Analyst Enhances Spreadsheet Data Analysis, Offering Automated and Intuitive Insights"
-    excerpt: "Rows, the next-generation spreadsheet for businesses, has launched Rows AI Analyst, its latest feature. The new tool will"
-    publishedDateTime: 2023-06-14T17:36:00Z
-    webUrl: "https://www.datanami.com/this-just-in/rows-ai-analyst-enhances-spreadsheet-data-analysis-offering-automated-and-intuitive-insights/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 25
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/ai_rows-300x283.png"
-        width: 300
-        height: 283
-        isCached: true
   - title: "Primer raises $69M for its AI-powered analytics tools"
     excerpt: "Primer will use the capital to hire more employees and enhance its technology. San Francisco-based Primer provides analytics software that is used by government agencies and enterprises to scan large amounts of data for useful insights."
     publishedDateTime: 2023-06-14T19:40:00Z

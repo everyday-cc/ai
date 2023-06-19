@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/"
 type: article
 quality: 91
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI Technology Makes Its Way To Agriculture"
-    excerpt: "When most people think about artificial intelligence (AI) technology, visions of computers and robots generally come to mind ... To stay updated with top startup news & investments, sign up for Benzinga's Startup Investing & Equity Crowdfunding Newsletter ..."
-    publishedDateTime: 2023-06-14T17:49:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32861184/ai-technology-makes-its-way-to-agriculture"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "Revolutionizing Business: 5 AI Powerhouses Transforming the Way Companies Thrive"
     excerpt: "Brands that are at the forefront of delivering cutting-edge AI technologies and solutions to empower businesses across various industries., Technology & Science News, Times Now"
     publishedDateTime: 2023-06-16T12:02:00Z

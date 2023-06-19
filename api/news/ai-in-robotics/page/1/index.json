@@ -88,49 +88,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-16-robots-and-ai-a-new-economic-era.md",
-      "title": "Robots and AI: A new economic era",
-      "excerpt": "First, this article is written by a human. I was born and delivered by organic parents.But soon many articles and most — if not all — goods and services will be produced, operated and delivered by robots and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427",
-      "originalUrl": "https://www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.manilatimes.net/manilatimes/uploads/images/2023/06/16/204988.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427/amp",
-      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427/amp",
-      "publishedDateTime": "2023-06-16T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilatimes",
-        "domain": "manilatimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-16-venture-capitals-ai-run-lettuce-farms-start-to-go-bust.md",
       "title": "Venture Capital’s AI-Run Lettuce Farms Start to Go Bust",
       "excerpt": "The pitch for vertical farming had all the promise of a modern venture capital dream: a new way to grow crops that would use robots and artificial intelligence to conserve water, combat food insecurity and save the environment.",
@@ -1411,6 +1368,49 @@
         "AI in Education",
         "AI in Healthcare",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-collaborative-robot-leverages-motion-control-speed-and-agility.md",
+      "title": "Collaborative Robot Leverages Motion Control Speed and Agility",
+      "excerpt": "With that in mind, ABB has identified three growing trends in ... covering automation and control, motion control, power transmission, robotics, and fluid power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/YuMi%20VIII.jpg",
+          "width": 7360,
+          "height": 5197,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

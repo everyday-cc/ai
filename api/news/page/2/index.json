@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-17-how-to-access-install-and-use-ai-chatgpt-4-plugins-and-why-you-should.md",
+      "title": "How to access, install, and use AI ChatGPT-4 plugins (and why you should)",
+      "excerpt": "ChatGPT-3.5 is useful. ChatGPT-4 can be very useful. But, for the most useful version of ChatGPT to date, you need to add, implement, and use ChatGPT-4 with plugins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/71db8dcabc6a9af772ff36d22386eb58ecefc7ec/2023/06/16/30a23833-79b1-4a6e-8e16-60d90aaf9a83/gettyimages-1250609807.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
+      "publishedDateTime": "2023-06-16T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-sambasafety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions.md",
+      "title": "SambaSafety automates custom R workload, improving driver safety with Amazon SageMaker and AWS Step Functions",
+      "excerpt": "At SambaSafety, their mission is to promote safer communities by reducing risk through data insights. Since 1998, SambaSafety has been the leading North American provider of cloud–based mobility risk management software for organizations with commercial and non–commercial drivers. SambaSafety serves",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/16/sambasafety-sagemaker-step-functions.jpg",
+          "width": 1213,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T08:08:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-this-google-leader-says-ml-infrastructure-is-conduit-to-companys-ai-success.md",
+      "title": "This Google leader says ML infrastructure is ‘conduit’ to company’s AI success",
+      "excerpt": "Google VP Nadav Eiron says his Core ML infrastructure team has played a key role in the company's GenAI success.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/this-google-leader-says-ml-infrastructure-is-conduit-to-companys-ai-success/",
+      "originalUrl": "https://venturebeat.com/ai/this-google-leader-says-ml-infrastructure-is-conduit-to-companys-ai-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-97.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-growth-opportunities-in-artificial-intelligence-machine-learning-generative-ai-nlp-synthetic-data-saas-no-code-designops-2023.md",
       "title": "Growth Opportunities in Artificial Intelligence, Machine Learning, Generative AI, NLP, Synthetic Data, SaaS, No-Code, DesignOps 2023",
       "excerpt": "The \"Growth Opportunities in Artificial Intelligence, Machine Learning, Generative AI, NLP, Synthetic Data, SaaS, No-Code, DesignOps\" report has been added",
@@ -149,7 +305,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -191,6 +347,49 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
+      "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
+      "excerpt": "China's tech firm Baidu Inc said on Friday that it has obtained a commercial licence from regulators for its driverless ride-hailing service in parts of Shenzhen, the country's tech hub. Its fleet of driverless robotaxis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/baidu-wins-commercial-licence-driverless-082609881.html",
+      "originalUrl": "https://www.aol.com/news/baidu-wins-commercial-licence-driverless-082609881.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/7a888a91cd68db77e6e809f2785b4473",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/baidu-wins-commercial-licence-driverless-082609881.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/baidu-wins-commercial-licence-driverless-082609881.html",
+      "publishedDateTime": "2023-06-16T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -526,58 +725,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
-      "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
-      "excerpt": "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
-      "originalUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-16-facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition.md",
       "title": "Facebook Parent Company Meta Uses Bible Translations To Train Artificial Intelligence In Speech Recognition",
       "excerpt": "The artificial intelligence arm of Facebook parent company Meta has turned to widely translated religious texts like the Bible to provide data for its Massively Multilingual Speech project, which aims to expand text-to-speech and speech-to-text technology to underserved languages.",
@@ -733,7 +880,7 @@
       "originalUrl": "https://www.scmp.com/news/asia/southeast-asia/article/3224342/southeast-asia-set-guardrails-ai-new-governance-code",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -785,7 +932,7 @@
       "originalUrl": "https://www.cnbc.com/2023/06/16/morgan-stanley-says-nvidia-is-the-top-pick-for-ai-over-amd.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1081,161 +1228,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-elevating-customer-experience-the-rise-of-generative-ai-and-conversational-data-analytics.md",
-      "title": "Elevating customer experience: The rise of generative AI and conversational data analytics",
-      "excerpt": "As the digital-first business landscape becomes increasingly complex and fast-paced, generative AI is becoming an indispensable tool.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-future-of-personalization-how-generative-ai-is-elevating-customer-experiences/",
-      "originalUrl": "https://venturebeat.com/ai/the-future-of-personalization-how-generative-ai-is-elevating-customer-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/7.-Gen-AI-for-dynamic-offerings_FINAL_Mesa-de-trabajo-1-copia-4.jpg?fit=750%2C422&#038;strip=all",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-the-week-in-ai-apple-makes-machine-learning-moves.md",
-      "title": "The week in AI: Apple makes machine learning moves",
-      "excerpt": "So until an AI can do it for you, here’s a handy roundup of the last week’s stories in the world of machine learning, along with notable research and experiments we didn’t cover on their own. It could be said that last week,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/",
-      "originalUrl": "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Apple-Vision-Pro-WWDC-21-1.jpeg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/amp/",
-      "publishedDateTime": "2023-06-15T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-how-two-founders-approach-building-ethical-ai-startups-in-health-care.md",
-      "title": "How two founders approach building ethical AI startups in health care",
-      "excerpt": "The hype around AI will produce a lot of startups built on shaky ethics. But founders already building in the space can offer some advice.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/",
-      "originalUrl": "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1474076387.jpg?resize=1200,768",
-          "width": 1200,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
