@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-19-this-fintech-startup-serves-a-75-trillion-per-day-market.md",
+      "title": "This Fintech Startup Serves A $7.5 Trillion Per Day Market",
+      "excerpt": "Swiss-Israeli fintech startup Okoora is expanding the reach of its AI-powered platform to multiple European countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648deabd2e68568627b1e992/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/amp/",
+      "publishedDateTime": "2023-06-19T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-why-isnt-apple-talking-about-ai.md",
+      "title": "Why isn’t Apple talking about AI?",
+      "excerpt": "Apple has been innovating with AI for a long time, but it focuses on the magic of the user experience, not the tech. There's a lesson here, especially since GenAI isn't always the right tool.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3700048/why-isnt-apple-talking-about-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3700048/why-isnt-apple-talking-about-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/07/10/apple_logo-100941896-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3700048/why-isnt-apple-talking-about-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700048/why-isnt-apple-talking-about-ai.amp.html",
+      "publishedDateTime": "2023-06-19T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-19-your-next-job-interview-could-be-with-ai-instead-of-a-person.md",
       "title": "Your next job interview could be with AI instead of a person",
       "excerpt": "Many job seekers already use AI to build resumes and cover letters, but employers are also using it on their side, with more to come.",
@@ -206,7 +309,7 @@
       "originalUrl": "https://itwire.com/business-it-news/security/microsoft-claims-azure,-outlook-june-outages-due-to-ddos-attacks.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -300,7 +403,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -342,49 +445,6 @@
         "AI",
         "AI in Security",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-18-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services.md",
-      "title": "Fintech Paro Raises $25M via Series C to Build Enterprise Platform for Finance, Accounting Services",
-      "excerpt": "Paro, a Chicago-based startup disrupting the way companies access on-demand finance and accounting expertise, raises $25 million via Series C.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2014/04/Chicago-City-Skyscraper.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/amp/",
-      "publishedDateTime": "2023-06-18T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {
@@ -869,7 +929,7 @@
       "originalUrl": "https://www.nbcnews.com/news/asian-america/tool-reducing-asian-influence-ai-generated-art-rcna89086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -952,6 +1012,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-how-to-access-install-and-use-ai-chatgpt-4-plugins-and-why-you-should.md",
+      "title": "How to access, install, and use AI ChatGPT-4 plugins (and why you should)",
+      "excerpt": "ChatGPT-3.5 is useful. ChatGPT-4 can be very useful. But, for the most useful version of ChatGPT to date, you need to add, implement, and use ChatGPT-4 with plugins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/71db8dcabc6a9af772ff36d22386eb58ecefc7ec/2023/06/16/30a23833-79b1-4a6e-8e16-60d90aaf9a83/gettyimages-1250609807.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
+      "publishedDateTime": "2023-06-16T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1101,101 +1212,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-growth-opportunities-in-artificial-intelligence-machine-learning-generative-ai-nlp-synthetic-data-saas-no-code-designops-2023.md",
-      "title": "Growth Opportunities in Artificial Intelligence, Machine Learning, Generative AI, NLP, Synthetic Data, SaaS, No-Code, DesignOps 2023",
-      "excerpt": "The \"Growth Opportunities in Artificial Intelligence, Machine Learning, Generative AI, NLP, Synthetic Data, SaaS, No-Code, DesignOps\" report has been added",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32894493/growth-opportunities-in-artificial-intelligence-machine-learning-generative-ai-nlp-synthetic-data-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32894493/growth-opportunities-in-artificial-intelligence-machine-learning-generative-ai-nlp-synthetic-data-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32894493",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32894493",
-      "publishedDateTime": "2023-06-16T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-distillersr-transforming-global-health-with-smart-ai-powered-evidence-based-research-solution.md",
-      "title": "DistillerSR: Transforming Global Health With Smart AI Powered Evidence-Based Research Solution",
-      "excerpt": "This Article profiles DistillerSR's global market growth and value from their AI evidence based literature research solution, used in the Pharma and Medical industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/06/16/distillersr-transforming-global-health-with-smart-ai-powered-evidence-based-research-solution/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/06/16/distillersr-transforming-global-health-with-smart-ai-powered-evidence-based-research-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648c7613aac5257c135e44a9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/06/16/distillersr-transforming-global-health-with-smart-ai-powered-evidence-based-research-solution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/16/distillersr-transforming-global-health-with-smart-ai-powered-evidence-based-research-solution/amp/",
-      "publishedDateTime": "2023-06-16T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

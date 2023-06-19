@@ -2,6 +2,126 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2023-04-06-a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools.md",
+      "title": "A Staggering Number Of New Tools Revealed by “The Google search for AI tools”",
+      "excerpt": "A new search tool for AI, known as Topapps.ai reveals just how proliferated tha AI tool industry has become. In short: if you believe you know what AI is and what it can do, it is highly probable that this tool will re-educate you on the vastness of possibilities.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools/",
+      "originalUrl": "https://techbullion.com/a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-meta-has-a-new-ai-model-that-can-identify-objects-within-an-image.md",
+      "title": "Meta has a new AI model that can identify objects within an image",
+      "excerpt": "The Facebook owner also unveiled ... Earlier this year, Meta released a new research-focused large language model called Llama, or Large Language Model Meta AI, to join the increasing competition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/machines/meta-ai-model-segmentation-sam-identify-object-in-image",
+      "originalUrl": "https://www.siliconrepublic.com/machines/meta-ai-model-segmentation-sam-identify-object-in-image",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-police-under-pressure-to-ban-face-recognition-tech-after-multiple-mistakes.md",
+      "title": "Police Under Pressure to Ban Face Recognition Tech After Multiple Mistakes",
+      "excerpt": "What he didn't know was that the detectives accusing him of stealing watches from a Shinola store in 2018 were doing so because of an erroneous hit using facial recognition technology. Detroit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
+      "originalUrl": "https://www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2217819/police-under-pressure-ban-face-recognition.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/police-under-pressure-ban-facial-recognition-technology-1792740",
+      "publishedDateTime": "2023-04-06T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-exclusive-driverless-taxis-in-dubai-by-end-of-2023-how-much-it-will-cost-where-you-will-find-the-cabs-revealed.md",
       "title": "Exclusive: Driverless taxis in Dubai by end of 2023; how much it will cost, where you will find the cabs revealed",
       "excerpt": "The work being done will ensure Cruise’s advanced generalisable AI (artificial intelligence ... meaning commuters will enjoy riding a driverless taxi when they go to La Mer Beach, Mercato ...",
@@ -864,126 +984,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-new-study-shows-the-potential-of-machine-learning-in-the-early-identification-of-people-with-inflammatory-arthritis.md",
-      "title": "New study shows the potential of machine learning in the early identification of people with inflammatory arthritis",
-      "excerpt": "A study by Swansea University has revealed how machine learning can help with the early detection of Ankylosing Spondylitis (AS) inflammatory arthritis and revolutionize how people are detected and diagnosed by their GPs.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-1.jpg",
-          "width": 1920,
-          "height": 1316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-04-potential-machine-early-identification-people.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-potential-machine-early-identification-people.amp",
-      "publishedDateTime": "2023-04-05T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-heres-how-many-us-workers-chatgpt-says-it-could-replace.md",
-      "title": "Here's how many U.S. workers ChatGPT says it could replace",
-      "excerpt": "ChatGPT appears to be smart enough to recognize that artificial intelligence poses a threat to workers' livelihoods. Global outplacement and executive coaching firm Challenger, Gray & Christmas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-jobs/",
-      "originalUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-near-the-us-border-aurora-teaches-self-driving-trucks-to-navigate-checkpoints.md",
-      "title": "Near the U.S. border, Aurora teaches self-driving trucks to navigate checkpoints",
-      "excerpt": "Self-driving tech company Aurora is collaborating with the U.S. Border Patrol to assess how autonomous trucks navigate checkpoints as part of its preparations for a 2024 commercial launch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/auroras-self-driving-trucks-greeted-us-border-checkpoint",
-      "originalUrl": "https://www.autonews.com/mobility-report/auroras-self-driving-trucks-greeted-us-border-checkpoint",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Sierra-MAIN_i.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

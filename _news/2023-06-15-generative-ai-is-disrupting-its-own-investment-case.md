@@ -108,6 +108,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "AMD unveils new chip as generative AI accelerator"
+    excerpt: "The MI300X is based on the next-gen AMD CDNA 3 accelerator architecture and supports up to 192 GB of HBM3 memory to provide the compute and memory efficiency needed for large language model training and inference for generative AI workloads,"
+    publishedDateTime: 2023-06-15T11:40:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4087236.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "6nigMBh/8b2utQM2mZgzKhLGibnuVyYenYBAjxaWS6FdDezbvOVKa2EOOqwCMYhPd+jHZ+a25dfLGUzqyyb5PLhnZSST3A631XD88APmWqbFs8IHt9ZNsha7pCt0DTvlQNlEJXljNvLFpQPBBYB8P1ydzM15QYLN5m01Kfu7WGv9cPDWq4QvQuJJHGqtaVV253C0jYTyRVZ5tVIC+ztkPYD4omOhuEQRHFYJssoFy0KNzutI8dm7C7ci5IvhnR9W7OYJKzGz6s9r4J2dvk0xUhZNxNkgEcpgYaYIq7Nag7px4wIc76stYMMy5YXn42CefAONRN8z7QHKOsXiBcHHO63EfdUd50rPzQa5iRbfU7AoCX8SXXWD4+iVPnqmXP135NUMEdxa6z5pjc0tb+8n49yJKhst+e6vg4oZw3MPw1OHtutHV1C3Etlx9C6KMOFAeW797DJqtrzJ/3hyFjqQAEuK3GPn5Y2yIoxtKAPI5ou2g7n+KTT8hA6lYpYcexGSRWmWonfsqp/WhYjinPhI0Q==;oDLdMFrkl1NToswVyczXSQ=="
 ---

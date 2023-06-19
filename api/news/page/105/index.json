@@ -2,6 +2,162 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-04-11-researchers-predict-artificial-intelligence-could-lead-to-a-nuclear-level-catastrophe.md",
+      "title": "Researchers predict artificial intelligence could lead to a 'nuclear-level catastrophe'",
+      "excerpt": "In the past few years, the world has seen huge advancements in artificial intelligence, with chatbots being able to have almost human-like conversations with users in real time, and image ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/researchers-predict-artificial-intelligence-lead-nuclear-level-catastrophe",
+      "originalUrl": "https://www.foxnews.com/media/researchers-predict-artificial-intelligence-lead-nuclear-level-catastrophe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/researchers-predict-artificial-intelligence-lead-nuclear-level-catastrophe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/researchers-predict-artificial-intelligence-lead-nuclear-level-catastrophe.amp",
+      "publishedDateTime": "2023-04-10T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-bot-services-market-research-report-2023-by-product-application-end-users-region-and-forecast-to-2031.md",
+      "title": "Bot Services Market Research Report 2023 by Product, Application, End-users, Region And Forecast to 2031",
+      "excerpt": "Bot service is a web service that uses a conversational interface and communicates with the bot framework service to send and receive events and messages. Factors such as the growing integration of chatbots with social media such as Telegram,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/bot-services-market-research-report-2023-by-product-application-end-users-region-and-forecast-to-2031-2023-04-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/bot-services-market-research-report-2023-by-product-application-end-users-region-and-forecast-to-2031-2023-04-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-how-to-use-large-language-models-and-knowledge-graphs-to-manage-enterprise-data.md",
+      "title": "How to use large language models and knowledge graphs to manage enterprise data",
+      "excerpt": "By combining ontology and large language model-driven techniques, engineers can build a knowledge graph that is easily queried and updatable.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-to-use-large-language-models-and-knowledge-graphs-to-manage-enterprise-data/",
+      "originalUrl": "https://venturebeat.com/ai/how-to-use-large-language-models-and-knowledge-graphs-to-manage-enterprise-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1168971517-e1611944131140.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-to-use-large-language-models-and-knowledge-graphs-to-manage-enterprise-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-use-large-language-models-and-knowledge-graphs-to-manage-enterprise-data/amp/",
+      "publishedDateTime": "2023-04-10T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-11-ahlenius-where-will-ai-impact-our-jobs-most.md",
       "title": "AHLENIUS: Where will AI impact our jobs most?",
       "excerpt": "The first phases of AI have yet to move the needle in labor market performance, such as labor productivity or manufacturing productivity growth. In addition, it is hard to aggregate productivity numbers and productivity gains with internet applications like GPS navigation,",
@@ -993,144 +1149,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-build-your-own-selfie-drone-with-computer-vision.md",
-      "title": "Build Your Own Selfie Drone With Computer Vision",
-      "excerpt": "Yes, all the processing for the selfie drone happens on a non-flying computer, because computer vision takes processing power and battery life. The software comes from CMU’s OpenPose library ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/06/30/build-your-own-selfie-drone-with-computer-vision/",
-      "originalUrl": "https://hackaday.com/2019/06/30/build-your-own-selfie-drone-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/06/Telloheader.png",
-          "width": 800,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-chatgpt-may-be-coming-for-our-jobs-here-are-the-10-roles-that-ai-is-most-likely-to-replace.md",
-      "title": "ChatGPT may be coming for our jobs. Here are the 10 roles that AI is most likely to replace.",
-      "excerpt": "Insider talked to experts and conducted research to compile a list of jobs that are at highest-risk for replacement by AI. Tech jobs (Coders, computer programmers, software engineers, data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63daec1e0a08ae0018a66c69?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02?amp",
-      "publishedDateTime": "2023-04-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-university-of-lincoln-robot-seal-used-to-help-vulnerable-people.md",
-      "title": "University of Lincoln 'robot' seal used to help vulnerable people",
-      "excerpt": "Research is currently taking place to see how robots could provide an increasing number of services across the NHS. Up Next. A mind-controlled beer-pouring robot has landed. Video, 00:01:25A ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/av/uk-england-lincolnshire-65178888",
-      "originalUrl": "https://www.bbc.co.uk/news/av/uk-england-lincolnshire-65178888",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/139BD/production/_129271308_p0fdsvsc.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

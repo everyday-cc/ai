@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Everything You Need to Know About the EU's Game-Changing AI Legislation"
-    excerpt: "The European Parliament votes to pass the first comprehensive AI rules. Here's a brief summary of the AI Act, the influence of which will likely extend beyond the EU."
-    publishedDateTime: 2023-06-14T17:08:00Z
-    webUrl: "https://www.pcmag.com/news/everything-you-need-to-know-about-the-eus-game-changing-ai-legislation"
+  - title: "10 questions about the Voice to Parliament - answered by the experts"
+    excerpt: "Mis- and disinformation about the Voice to Parliament proposal are rife. Here, experts address 10 of the most common myths."
+    publishedDateTime: 2023-06-18T20:08:00Z
+    webUrl: "https://theconversation.com/10-questions-about-the-voice-to-parliament-answered-by-the-experts-207014"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: The Conversation
+      domain: theconversation.com
+    quality: 24
     images:
-      - url: "https://i.pcmag.com/imagery/articles/06YSHh9Q84O3ILT58Wkxzi4-2.fit_lim.size_1200x630.v1686758662.jpg"
-        width: 1120
-        height: 630
+      - url: "https://images.theconversation.com/files/532084/original/file-20230615-23-pikx8q.jpg?ixlib=rb-1.1.0&rect=0%2C1112%2C8181%2C4090&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "MnF2egDZ/V0zOozsu8j1WHuE8wDj3AHh8vfCmDCWXl38zj+LoMAxauCujJwP44Dfr/oFP8oFgP5Es6T3YAHn+Kz0YZy3uYR99kZ12qbpe5lqxC0g6ss7tp5pIPUsESM7zLz9PSwFt5/5+k8W4+r5AkavHl0aPG+QnhPpLy3b4VCnYaFf+gX/g3V+O+LOZNtrBLFfQ0heIazFx2VvluqdMHs7FYzipah2xl478Und8YNQQxVsWvN/eCH0lPhgv2/BvMFhKvGmS09LuQ167lzUa+ZZZNAyYrzpLCc2iool00R3LIsz9CAYPyhhod2PGdPri3u2PvVRVVVG+/tZeH11G6MIN92i2vi0FaQZQ+Mrn8c=;yvNPX0Qw+vBQu/Cps303Ew=="

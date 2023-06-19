@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Don't be a victim of AI hallucinations"
-    excerpt: "A little knowledge of how artificial intelligence goes a long way in making sure its results aren't entirely made up."
-    publishedDateTime: 2023-06-14T17:01:00Z
-    webUrl: "https://www.accountingtoday.com/opinion/dont-be-a-victim-of-ai-hallucinations"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/b058df5/2147483647/strip/true/crop/1080x567+0+21/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fa1%2F91%2Fe4b3404b479db66f090cefb02121%2Fact-og-image.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pxbxocJhmzwVR1f14ZIIRePZQceBb7f2HA1N/RAY97RDjuFfV9KUVeaeM0UWFe/I57B/h0sBlQ5dDYk/NiXhdZUG3yirkl5rtOWFB0zPVfeICXFOx6w7thSpndVnVGJsHjuFbgDICA72OHnmk007bydnGWAW7exrjNA8/hwP8OxNvrnMAxJSNn8JK5drpjn9gi9ZXl1K8kX9mdINB3GPPiIfYSezXTj8hmS1Hons9JLAv4vzLtvnkmghA/hVjd7VemTD+6ZPOF1NSg6Ia+l+oYvLW+N9SlHZ0iOOA+Fq3r74EGszjJjXgcw+wdSZJyNBuE8o5+muS2BvNT7caXAVlTCGEkhzd+IIhoyiF0/aFySUF+9OKOngQBVMusRzdRzFqkJaUnJY+8yxLjYd6QntlohHqfLeCa0TYriUEuyDgzMiglXL457UWn8bTUC4TqVjhUqX328s2j7G/aa/QEi0BiUEFSEhdBbIg8hrYfGIFZbSuZJWnIwN9PoQvvdzQOD3yhs8WSAqpq6i+W5/k8XcLg==;wlN7m2ikTHkdhYJlQ9HLIA=="
 ---

@@ -2,6 +2,160 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-06-12-coinwebcom-your-ultimate-cryptocurrency-education-and-comparison-hub-powered-by-advanced-ai-models.md",
+      "title": "Coinweb.com: Your Ultimate Cryptocurrency Education and Comparison Hub, Powered by Advanced AI Models",
+      "excerpt": "Your Ultimate Destination for Cryptocurrency Education and Comparison, Powered by Cutting-Edge AI TechnologyDubai,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/coinweb-com-your-ultimate-cryptocurrency-education-and-comparison-hub-powered-by-advanced-ai-models-1032382269",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/coinweb-com-your-ultimate-cryptocurrency-education-and-comparison-hub-powered-by-advanced-ai-models-1032382269",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/ifVQDvKEZZMuxhtiOyhcAAz1TmH2/1686517473221-0.png",
+          "width": 653,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-bing-image-creator-vs-dall-e-2-which-generates-the-best-ai-images.md",
+      "title": "Bing Image Creator vs DALL-E 2: Which generates the best AI images?",
+      "excerpt": "As generative AI becomes more and more popular, users have a range of tools they can use to create images. We'll help you choose the best one for you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/bing-image-creator-vs-dall-e-2-which-generates-the-best-ai-images/",
+      "originalUrl": "https://www.zdnet.com/article/bing-image-creator-vs-dall-e-2-which-generates-the-best-ai-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2de31cb3f78ee30e658b4022dada977e69566cbd/2023/06/08/c3f30109-5de9-4baa-a77a-9991631fe8de/bing-and-dalle.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bing-image-creator-vs-dall-e-2-which-generates-the-best-ai-images/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bing-image-creator-vs-dall-e-2-which-generates-the-best-ai-images/",
+      "publishedDateTime": "2023-06-12T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-ai-deepfakes-of-innocent-images-fuel-spike-in-sextortion-scams-fbi-warns.md",
+      "title": "AI ‘deepfakes’ of innocent images fuel spike in sextortion scams, FBI warns",
+      "excerpt": "There has been an uptick in sextortion victims reporting the use of artificial intelligence-generated deepfakes since April, according to the FBI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns",
+      "originalUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dc9be95-a9de-408f-b909-3dcba83a1c8e/5656c770-0cfc-4904-8e70-c5c993136502/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns.amp",
+      "publishedDateTime": "2023-06-11T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-amazon-bets-big-on-ai-how-the-company-is-investing-in-the-future-of-technology.md",
       "title": "Amazon Bets Big on AI: How the Company Is Investing in the Future of Technology",
       "excerpt": "and Amazon Rekognition. Finally, Amazon is more than just another e-commerce platform. It also operates a logistics network that is on par with United Parcel Service in delivering a package from a ...",
@@ -1052,153 +1206,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-ron-desantis-angers-maga-with-ai-generated-trump-attack-ad-images.md",
-      "title": "Ron DeSantis Angers MAGA With AI-Generated Trump Attack Ad Images",
-      "excerpt": "On Thursday, Trump supporter Laura Loomer tagged Elon Musk —who hosted DeSantis last month on Twitter Spaces as he announced his candidacy to become president in 2024—as part of a tweet request to understand why Trump supporters receive a \"community note\" when posting about DeSantis, but the DeSantis War Room video did not.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687",
-      "originalUrl": "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2244911/ron-desantis-angers-maga.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687?amp=1",
-      "publishedDateTime": "2023-06-09T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
-      "title": "Age of AI: Everything you need to know about artificial intelligence",
-      "excerpt": "From the latest developments to relevant terms and companies, here's everything you need to stay current in the fast-moving field of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "originalUrl": "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-06-09T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-host-ml-models-on-amazon-sagemaker-using-triton-onnx-models.md",
-      "title": "Host ML models on Amazon SageMaker using Triton: ONNX Models",
-      "excerpt": "ONNX (Open Neural Network Exchange) is an open-source standard for representing deep learning models widely supported by many providers. ONNX provides tools for optimizing and quantizing models to reduce the memory and compute needed to run machine learning (ML) models. One of the biggest benefits of",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T12:48:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

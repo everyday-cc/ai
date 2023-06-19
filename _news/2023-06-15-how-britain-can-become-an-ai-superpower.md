@@ -24,22 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "How to make Britain’s AI dreams reality"
-    excerpt: "AI has great potential, and Britain has an edge that could help it to prosper. The country is arguably the foremost location, outside China and America, to start a new tech company. It is home to important AI outfits,"
-    publishedDateTime: 2023-06-14T16:54:00Z
-    webUrl: "https://www.economist.com/britain/2023/06/14/how-to-make-britains-ai-dreams-reality"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 37
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230617_BRD001.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "QANcNg/W17DMNKc+DlmO5NM15+E+UmHQQD8XcW9sayst8MBORxJzxlRANDY23AtPTwdi/E5HTG6hJqCFhzTJlbVYcGFFggr6/Y1XsBfVG4oOJ5U9qydza9djLj10LSknf/ceibcbSOLjSQJN0tKvhT4fXyNDlZTQxS9NBYwxxGbuXszZjPhlxXukGu6UCjaEEylwfxcKxPnq4hrqpY469BvD8QqRO9+CPJeu82vP+KtQGkCMJwsa2Aql05xkAivDM2SbZRNrb8ZAOEVpvZDL1DAWWfl+/FFViuciQ6qOQalfy460i1olSNAg94G/+d+hhdy9E1vrx3K3ABZv7GOnkqYWLaaERqG/qUiA6OLhFzmQaR69WRMyUh6r7fcEgty5mhP83ZEOR5kUp1E8hN+/9FjSGZjh77Y0LCK4XdCsqPGNo4sWvEm04K9kmTa433aqc0XiW8Ut/K6U2xzVeQTRGhrs9wi0GTtK9QzuUuC/aMyUZamOv+LZtLov23BJWqzvodH0JqPy6xUTpn+FedF1jg==;UbuuJoGPhg1NPK3A0sX8jQ=="
 ---
 

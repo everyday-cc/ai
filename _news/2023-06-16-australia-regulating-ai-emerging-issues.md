@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/australia-regulating-ai-emerg
 webUrl: "https://www.natlawreview.com/article/australia-regulating-ai-emerging-issues"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,36 +25,107 @@ images:
     isCached: true
 
 related:
-  - title: "Australia politics live: parliament passes law setting up the Indigenous voice referendum"
-    excerpt: "Follow live"
-    publishedDateTime: 2023-06-19T00:19:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/jun/19/australia-politics-live-voice-referendum-senate-anthony-albanese-peter-dutton-david-van-housing-fund-cost-of-living-rent-freeze-greens-nick-mckim?filterKeyEvents=false&page=with:block-648fa3828f08c1a38208aede"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jun/19/australia-politics-live-voice-referendum-senate-anthony-albanese-peter-dutton-david-van-housing-fund-cost-of-living-rent-freeze-greens-nick-mckim"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jun/19/australia-politics-live-voice-referendum-senate-anthony-albanese-peter-dutton-david-van-housing-fund-cost-of-living-rent-freeze-greens-nick-mckim"
+  - title: "EU takes major steps towards regulating AI"
+    excerpt: "The European Union’s parliament passed a draft law restricting AI, limiting the use of facial recognition software and requiring AI companies to disclose more about the data behind their programs. NBC News’ Gabe Gutierrez has more details on the global debate over the technology."
+    publishedDateTime: 2023-06-14T23:19:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/eu-takes-major-steps-towards-regulating-ai-182262853951"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo182262853951"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo182262853951"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 35
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
     images:
-      - url: "https://i.guim.co.uk/img/media/50747729f646e76a1c061d046d65507970b29cda/0_550_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=f3d6452dfd05bf4449a90586ac646d8e"
-        width: 620
-        height: 372
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1686784674905_nn_ggu_europe_approves_regulations_scam_warnings_230614_1920x1080-uuck9l.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Australia’s Senate votes to hold referendum on creating Indigenous Voice"
-    excerpt: "Australia’s Senate has voted to hold a referendum this year on creating an Indigenous Voice to Parliament – an advocate aiming to give the nation’s most disadvantaged ethnic minority more say on government policy."
-    publishedDateTime: 2023-06-19T05:06:00Z
-    webUrl: "https://www.breakingnews.ie/entertainment/australias-senate-votes-to-hold-referendum-on-creating-indigenous-voice-1490977.html"
+  - title: "Europe takes another big step toward agreeing an AI rulebook"
+    excerpt: "The European Parliament has voted to confirm its negotiating mandate for the AI Act -- hitting a major milestone which unlocks the next stage of negotiations toward a pan-EU rule-book for artificial intelligence."
+    publishedDateTime: 2023-06-14T21:13:00Z
+    webUrl: "https://techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/"
+    ampWebUrl: "https://techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/amp/"
     type: article
     provider:
-      name: BreakingNews.ie
-      domain: breakingnews.ie
-    quality: 23
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDZcXFwvMTkwNjAwMTNcXFwvNmEzZDNjM2NiMmU2NGVlMWJlYTZjNTAzZGYyNGI4YWMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI0YzU5YmJkMTY2M2Y0ODc1YzY4Nzc1MjUxZWE1NTIzMTUxNDJlNWZmIn0=/australia-s-senate-votes-to-hold-referendum-on-creating-indigenous-voice.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1242038246.jpg?resize=1200,800"
         width: 1200
-        height: 627
+        height: 800
         isCached: true
+  - title: "Everything You Need to Know About the EU's Game-Changing AI Legislation"
+    excerpt: "The European Parliament votes to pass the first comprehensive AI rules. Here's a brief summary of the AI Act, the influence of which will likely extend beyond the EU."
+    publishedDateTime: 2023-06-14T17:08:00Z
+    webUrl: "https://www.pcmag.com/news/everything-you-need-to-know-about-the-eus-game-changing-ai-legislation"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06YSHh9Q84O3ILT58Wkxzi4-2.fit_lim.size_1200x630.v1686758662.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "EU takes major step toward AI regulation as the AI Act moves into final phase"
+    excerpt: "If the AI Act gets put into law, it would become one of the first major laws to regulate the technology. This would put the EU squarely ahead of other countries like the US and Ch"
+    publishedDateTime: 2023-06-14T21:32:00Z
+    webUrl: "https://www.androidauthority.com/ai-act-moves-forward-3335218/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 64
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/bing-chatgpt-chat-ai-icons-scaled.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Europe Adopts Groundbreaking AI Regulation"
+    excerpt: "The European Union Parliament, in a landmark move, has voted in favor of the proposed Artificial Intelligence Act, revolutionizing the regulatory landscape of AI in the continent. This pivotal decision ushers in a new era of AI governance,"
+    publishedDateTime: 2023-06-14T20:05:00Z
+    webUrl: "https://www.unite.ai/europe-adopts-groundbreaking-ai-regulation/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/06/christian-lue-MZWBMNP7Nro-unsplash-942x600.jpg"
+        width: 942
+        height: 600
+        isCached: true
+  - title: "AI Regulation in Europe Gets Closer to a Final Vote"
+    excerpt: "Legislators across the European Union have come one step closer to implementing broad artificial intelligence regulations. The EU AI Act, a proposed law that would assess and restrict AI applications based on risk,"
+    publishedDateTime: 2023-06-14T19:58:00Z
+    webUrl: "https://www.extremetech.com/computing/ai-regulation-in-europe-gets-closer-to-a-final-vote"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
+  - title: "EU gives more power to AI translation machines"
+    excerpt: "The European Commission has launched a pilot project to translate some press releases without any human oversight."
+    publishedDateTime: 2023-06-15T13:01:00Z
+    webUrl: "https://www.politico.eu/article/ai-technology-eu-commission-parliament-gives-more-power-to-ai-translation-machines/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 19
+  - title: "The EU just took a huge step towards regulating AI"
+    excerpt: "The European Parliament just cleared a major hurdle for its AI Act, which would significantly expand citizens' data privacy rights."
+    publishedDateTime: 2023-06-14T18:00:00Z
+    webUrl: "https://www.popsci.com/technology/ai-act-european-union/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "Xe9H+wi5Ja2ZmBWHn2PiwCcsQFPWxJWx3bfmNaEBFGfjEGjYn0/b5jer+hBPYP5EuxHxyVb0cuJK6l3oy1VW1WtVGEBusknEJLbXssYbVgMxnBIlSylaItjYNddSWWPz+ubNb/k9MtdiT+/ZugG2fxy7RwMRmzpgz64o2QUpVIjUXoKcJ/fkddLMDXRHf700ef5RdYM7C73tJmMF8w7GkcYCWVsXTN6lpNGj8BTmIX6hoHGpHd1mEqwKQg8G19gQ9FKFAlYIb5pMDqmDd72rnq/S5JPviOgvoilgptJB86Y7syt/GBZ0J1Dahx07kMHQ2tQ4HmTl0Q0wXDWffdG8o+UFY3dqWNzUM6tFczHtSWHKZ6S7A9+qPiFd+9TWc1lnmYuzJFvCBRGSqmqmtye37Do5ZhuWVHc9NMkecE9CyQ4ejPLHClpRMlnHteId4Qtjlyk7xpAWiB0+tVNLgEjkR4DRg4iwWzqU/cqy4bF1Nz3Qtt0qMtk1lH+IuemZT2HEVbxYc35fpoXDM7kUMKiBYQ==;J2e+Bjs0uo9KrpBRuWbcCA=="
 ---

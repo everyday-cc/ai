@@ -36,20 +36,6 @@ related:
         width: 966
         height: 590
         isCached: true
-  - title: "SenseTime unveils Go robot powered by AI"
-    excerpt: "The Go version of \"SenseRobot\", an AI interactive robot developed by SenseTime, is unveiled on June 14 in Shanghai. [Photo provided to chinadaily.com.cn] Chinese artificial intelligence pioneer SenseTime unveiled an AI interactive Go version of its consumer product \"SenseRobot\","
-    publishedDateTime: 2023-06-14T15:55:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202306/14/WS6489d0bda31033ad3f7bc425.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202306/14/6489d0bda31033ad342b03cf.png"
-        width: 652
-        height: 434
-        isCached: true
   - title: "Chinese AI Giant SenseTime Unveils USD559 Robot That Can Play Chinese Board Game Go"
     excerpt: "SenseTime Group, a leading Chinese developer of artificial intelligence software, has unveiled a USD3,999 (USD559) AI-powered robot that can play Chinese board game Go. SenseRobot uses robotic arms to play Go against people on a real board,"
     publishedDateTime: 2023-06-15T04:03:00Z

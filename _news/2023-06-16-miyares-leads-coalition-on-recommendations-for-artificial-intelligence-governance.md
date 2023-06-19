@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Elon Musk Backs AI Regulation, But Offers Only Vague Solutions"
+    excerpt: "I’m in favor of AI regulation because...advanced AI is [a] risk to the public,' he says today. But when pushed for specifics, the Tesla CEO comes up empty."
+    publishedDateTime: 2023-06-16T17:10:00Z
+    webUrl: "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offers-only-vague-solutions"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05DAz1A8aNpuSWJBng8gzvN-1.fit_lim.size_1200x630.v1686931162.jpg"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "0gozRWoDYv2RMrW2Hmw52pvp2bwOfZJnRGhoK3p3xPT3bv93Qtt6GSCduewnyZocnA1ve1o4XICk5tVOxHrBMY0e6CFGnP8HWQcH1K1dco+muS04Ux+w9RgXbnCBr46H3A/1FxvVpaZ1eTfIam3vQ2SjIYpf6rQ0thwL9FEKyKP7uoXydQe9nSwJa3Mm2n01UD6H/UGRcXQ89/2liixhYxdbp2+y31GF7NeoXTJeVOoRq7sdNjehEShrez9tBXyCcQxrXyHd4cBS80/eXP1YAud/INmGciJnFybokOvkdHBarJr3+YMq6BKkHPMlrYuGnxxC0fVZZXOF9BobFPACewOxDJq1AdgPPdRQXTiFCLI=;ZZtV5ZO2SId6Wz1nIecDQw=="
 ---

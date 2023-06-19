@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "EU moves ahead with draft law to regulate AI"
-    excerpt: "The act, which has served as an example for other nations to develop their own AI regulations, restricts the use of technologies like facial recognition software and requires transparency from AI developers to share more data used to create their systems, like, for example, ChatGPT or Bing chat."
-    publishedDateTime: 2023-06-14T16:19:00Z
-    webUrl: "https://www.zdnet.com/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/77f737a8d9f3dc00c855519d11f5dd28d79ec0aa/2023/06/14/1ea8cf14-9e3c-43ff-92a5-f9a7db2fa51e/untitled-1.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "EU takes major steps towards regulating AI"
     excerpt: "The European Union’s parliament passed a draft law restricting AI, limiting the use of facial recognition software and requiring AI companies to disclose more about the data behind their programs. NBC News’ Gabe Gutierrez has more details on the global debate over the technology."
     publishedDateTime: 2023-06-14T23:19:00Z
@@ -51,6 +35,36 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Europe takes another big step toward agreeing an AI rulebook"
+    excerpt: "The European Parliament has voted to confirm its negotiating mandate for the AI Act -- hitting a major milestone which unlocks the next stage of negotiations toward a pan-EU rule-book for artificial intelligence."
+    publishedDateTime: 2023-06-14T21:13:00Z
+    webUrl: "https://techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/"
+    ampWebUrl: "https://techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1242038246.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Everything You Need to Know About the EU's Game-Changing AI Legislation"
+    excerpt: "The European Parliament votes to pass the first comprehensive AI rules. Here's a brief summary of the AI Act, the influence of which will likely extend beyond the EU."
+    publishedDateTime: 2023-06-14T17:08:00Z
+    webUrl: "https://www.pcmag.com/news/everything-you-need-to-know-about-the-eus-game-changing-ai-legislation"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06YSHh9Q84O3ILT58Wkxzi4-2.fit_lim.size_1200x630.v1686758662.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "EU takes major step toward AI regulation as the AI Act moves into final phase"
     excerpt: "If the AI Act gets put into law, it would become one of the first major laws to regulate the technology. This would put the EU squarely ahead of other countries like the US and Ch"
     publishedDateTime: 2023-06-14T21:32:00Z
@@ -65,31 +79,34 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How to Regulate AI? Start With the Data."
-    excerpt: "Data is an afterthought for many artificial-intelligence developers. It should be the first thought for policy makers, writes Susan Aaronson."
-    publishedDateTime: 2023-06-15T13:15:00Z
-    webUrl: "https://www.barrons.com/articles/ai-data-regulation-bfded1d4"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ai-data-regulation-bfded1d4"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-data-regulation-bfded1d4"
+  - title: "Europe Adopts Groundbreaking AI Regulation"
+    excerpt: "The European Union Parliament, in a landmark move, has voted in favor of the proposed Artificial Intelligence Act, revolutionizing the regulatory landscape of AI in the continent. This pivotal decision ushers in a new era of AI governance,"
+    publishedDateTime: 2023-06-14T20:05:00Z
+    webUrl: "https://www.unite.ai/europe-adopts-groundbreaking-ai-regulation/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
+      name: unite
+      domain: unite.ai
+    quality: 39
     images:
-      - url: "https://images.barrons.com/im-800335/social"
-        width: 1279
-        height: 640
+      - url: "https://www.unite.ai/wp-content/uploads/2023/06/christian-lue-MZWBMNP7Nro-unsplash-942x600.jpg"
+        width: 942
+        height: 600
         isCached: true
-  - title: "With AI Act, EU Moves To Protect People From Tech Risks"
-    excerpt: "Called the AI Act, the draft legislation aims to protect people's privacy, voting rights and copyrighted material. The law includes bans on using AI for discrimination and on invasive practices such as biometric identification in public spaces and \"predictive policing systems\" that could be used to illegally profile citizens."
-    publishedDateTime: 2023-06-15T18:15:00Z
-    webUrl: "https://www.cnet.com/tech/with-ai-act-eu-moves-to-protect-people-from-tech-risks/"
+  - title: "Australia: Regulating AI – Emerging Issues"
+    excerpt: "Amid global calls for tailored regulation of artificial intelligence tools, the Australian Federal Government has released a discussion paper on the safe and responsible use of AI.&nbsp"
+    publishedDateTime: 2023-06-16T00:00:00Z
+    webUrl: "https://www.natlawreview.com/article/australia-regulating-ai-emerging-issues"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/42266/AI_Artificial_Intelligence_Robot_SMALL_0.jpg?itok=YCCxEg_3"
+        width: 500
+        height: 333
+        isCached: true
   - title: "AI Regulation in Europe Gets Closer to a Final Vote"
     excerpt: "Legislators across the European Union have come one step closer to implementing broad artificial intelligence regulations. The EU AI Act, a proposed law that would assess and restrict AI applications based on risk,"
     publishedDateTime: 2023-06-14T19:58:00Z

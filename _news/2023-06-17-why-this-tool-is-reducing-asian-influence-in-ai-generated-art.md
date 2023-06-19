@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna89086"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna89086"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Asia’s opportunity for generative AI"
-    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
-    publishedDateTime: 2023-06-14T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://i.ytimg.com/vi/3Jf81EQ_1Jw/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Secret Messages Can Hide in AI-Generated Media"
     excerpt: "In steganography, an ordinary message masks the presence of a secret communication. Humans can never do it perfectly, but a new study shows it’s possible for machines"
     publishedDateTime: 2023-06-15T16:40:00Z

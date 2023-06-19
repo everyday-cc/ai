@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-dr
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
 type: article
 quality: 55
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Consumers choose safety over self-driving technology"
+    excerpt: "Car buyers understand and want advanced driver assistance systems (ADAS) features that provide safer driving – and they expect them to be standard in new luxury and mainstream vehicles. But the same feelings do not apply when ADAS is applied to autonomous driving systems."
+    publishedDateTime: 2023-06-19T09:19:00Z
+    webUrl: "https://it-online.co.za/2023/06/19/consumers-choose-safety-over-self-driving-technology/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
 
 secured: "aCenuculVnTFybGRP9xEhHyrG2KYGE0y0mK8xO9LnP/Cjw9mSTTMptIe6bEKXz9yXdXWNmTr2m7nJ/mVr/+YRROHetWy7fyEP5S56O03H6eAimhg3L659MQuy6OoJcB7RzxwQPmAQyT083IKvg+BrqVbg9u2ACL9C5po8GX0idJOHazjs7pm7uCkijS3Jm0ajUx2D8asOQxRQlZLQDdjYlkDIoGaXjEjfpzKZRh4qR0wcRIUjVlmw8YHTkXlQzeEVXX5f7GDQQ9q6KWrwLM58NaYYFfXez6fYdi9dS6/CqIvn5FmJo6eqXbaxX72Ev/fyKqB35Ee4KzLIPF0em2ugi4DRSKjMiZqbqjFnb/mJTSsiQIAVi/Bj+hvXpUMRqBVyh3bqj5Zn7Bwej+vOSuptWfqD30e4A8lMi6daGacjlviRxYG5JRpvUMNxtm3LHVizItPcErw/+X+m3vVkmygmsVzd8RblKJYaK7xQbAc/T9vinKENvGyYN3nqHn72sg8JBY7Nzsr1BBxCl+wOmXj2g==;ES955t6JjGRitheTsCefSQ=="
 ---

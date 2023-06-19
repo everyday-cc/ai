@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/eu-votes-to-b
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "With AI Act, EU Moves To Protect People From Tech Risks"
+    excerpt: "Called the AI Act, the draft legislation aims to protect people's privacy, voting rights and copyrighted material. The law includes bans on using AI for discrimination and on invasive practices such as biometric identification in public spaces and \"predictive policing systems\" that could be used to illegally profile citizens."
+    publishedDateTime: 2023-06-15T18:15:00Z
+    webUrl: "https://www.cnet.com/tech/with-ai-act-eu-moves-to-protect-people-from-tech-risks/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
 
 secured: "D80v8hKpQAvPU/2MxUnLUTU+3DIwiI/0ojo89lXJj1+uQLA1DFVtiModiUdO1gwPN6RDQUbT2FefUrnWujT89VLk4HnJ4g+K7D249QrJbmBqiNrIdBuAEAt0cnH+xeRPp6H5eNdXufYtznoX1yMi2TD4CKTE7i6EZTjmV09LptaUXHzRYTI+unxyADMINDzc/vODFuETJmgdN7DUtf7NWvmgb7pj1xH/Rygp06szPT9xbJeEdY61rBeGmiKW6rQ8wMUEv3kN9Yi/+a6VlrEHyIR5rBEEFCeJ7MYkE8m/j80ucTJZk5BXE1FDqyIfofxMLUKKHXBdKW7MShSmqAFlJ+/Ax/c6K9AVybFFojbyWjI=;dDUBPiXnbc8/CDCsyrCikA=="
 ---

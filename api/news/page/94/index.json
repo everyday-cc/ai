@@ -2,6 +2,135 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2023-04-20-cellular-data-controlled-robot.md",
+      "title": "Cellular Data Controlled Robot",
+      "excerpt": "[Jatinderjit] sent along the latest in LEGO robotics. The cell phone controlled robot. It’s based on a LEGO Excavator kit with a few spare parts via ebay. The controller is a Nokia phone running ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2008/02/02/cellular-data-controlled-robot/",
+      "originalUrl": "https://hackaday.com/2008/02/02/cellular-data-controlled-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://hackaday.com/wp-content/uploads/2008/02/cell-bot-nokia.jpg",
+          "width": 262,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-from-cozmo-to-vector-how-anki-designs-robots-with-emotional-intelligence.md",
+      "title": "From Cozmo to Vector: How Anki Designs Robots With Emotional Intelligence",
+      "excerpt": "Anki, the company behind Cozmo, says its mission is to “create robots that move you,” combining robotics and artificial intelligence to create technologies with which people can build emotional bonds. Cozmo isn't an industrial robot by any stretch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "originalUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Vector_Lifestyle_007_noLogo.jpg",
+          "width": 6504,
+          "height": 3659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-how-much-more-can-autonomous-cars-improve-waymo.md",
+      "title": "How Much More Can Autonomous Cars Improve? Waymo!",
+      "excerpt": "Alphabet’s autonomous vehicle subsidiary, Waymo, remains optimistic and the company points out that while other companies are suffering high-profile collisions, Waymo is continuing to deliver autonomous taxi services safely and reliably in Phoenix ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automotive-engineering/how-much-more-can-autonomous-cars-improve-waymo",
+      "originalUrl": "https://www.designnews.com/automotive-engineering/how-much-more-can-autonomous-cars-improve-waymo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Waymo%20Pacifica%20Passenger.jpg",
+          "width": 1527,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform.md",
       "title": "More Nigerians to access credit facilities with Kredete AI-Powered lending platform",
       "excerpt": "Fintech startup, Kredete, has opened up an opportunity for more Nigerians to get access to credit facilities with the launch of an Artificial Intelligence, AI-powered application for lending ...",
@@ -985,154 +1114,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor.md",
-      "title": "CENTCOM hires former Google Cloud exec as first-ever AI, robotics advisor",
-      "excerpt": "Andrew Moore founded startup Lovelace AI and had testified before Congress about DoD's lack of urgency when it came to actually implementing AI and machine learning in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/",
-      "originalUrl": "https://breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2022/05/220526_pentagon_AI_brain-e1653573962375.png",
-          "width": 2105,
-          "height": 1184,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/?amp=1",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2023/04/centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor/?amp=1",
-      "publishedDateTime": "2023-04-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-chinese-ev-giant-byd-says-self-driving-tech-is-more-valuable-for-factories-than-cars.md",
-      "title": "Chinese EV giant BYD says self-driving tech is more valuable for factories than cars",
-      "excerpt": "Many electric car and tech companies are working on self-driving technology. Using a form of the tech for assisting drivers with parking and other tasks is increasingly a feature that Tesla and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107227471-1681859635999-IMG_8936.jpg?v=1681870045",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html",
-      "publishedDateTime": "2023-04-19T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath.md",
-      "title": "AI Computer Vision Market Hitting New Highs by 2030 | NetApp, IBM, SAS, UiPath",
-      "excerpt": "The AI Computer Vision market report provides a detailed analysis of global market size, regional and country-level",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath-2023-04-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath-2023-04-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

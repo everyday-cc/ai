@@ -33,6 +33,20 @@ related:
         width: 375
         height: 437
         isCached: true
+  - title: "Microsoft Azure Expert MSP success for tech consultancy"
+    excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
+    publishedDateTime: 2023-06-19T08:54:00Z
+    webUrl: "https://www.insidermedia.com/news/north-west/microsoft-azure-expert-msp-success-for-tech-consultancy"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 54
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "MCj/7dw5lWSNTS9V7siELYdFXkX12B44czElqZT3Z8Xr8GdCUmdh4wauQbmBmfPhUUwDDiux4qmEGomE/v5vPCQcmkggPxesnk4MxpbXKaaY15WjQFVE9g6NU/MnTVk/95drD6wQIlZalx8HEpSgokm3UEKR8rQcJsQtn+X/Bvz9dVausN4Ff4kLME/k4zGhgrvaVN2zdvPGTcTBPYf8k+yjPpLFMkzZhMMV60kQiUenzo7lLnpIC07qTC0X9DwKO5bKYMDrFyR2CFPNWiWA3fyEDoyAbH5C8BqJF27HYTuoSCACFntoz8u5mot5Ff9BlfeV6wliMhsb2SZaeodzjZnTLl0ZQx2uRq261TbBv8Q=;ZGXHaT6Ghzw4zW0urYg3jw=="
 ---

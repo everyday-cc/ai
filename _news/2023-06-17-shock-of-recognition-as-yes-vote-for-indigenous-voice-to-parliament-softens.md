@@ -32,6 +32,17 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 37
+  - title: "What’s next for the Indigenous Voice referendum as key law passes parliament?"
+    excerpt: "The wheels have been set in motion on the Indigenous Voice referendum after the laws that will allow the national poll to be conducted passed parliament."
+    publishedDateTime: 2023-06-19T09:27:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/whats-next-for-the-indigenous-voice-referendum-as-key-law-passes-parliament/news-story/b5af4046d5bc4da03288e1adedfff5d7"
+    ampWebUrl: "https://www.news.com.au/finance/work/leaders/whats-next-for-the-indigenous-voice-referendum-as-key-law-passes-parliament/news-story/b5af4046d5bc4da03288e1adedfff5d7?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/work/leaders/whats-next-for-the-indigenous-voice-referendum-as-key-law-passes-parliament/news-story/b5af4046d5bc4da03288e1adedfff5d7?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 21
   - title: "No camp can’t afford to sit back as Indigenous voice to parliament support falters"
     excerpt: "This is because few No donors are prepared to be outed via mandatory disclosure of amounts over $15,000 and because the No campaign still has not gained tax deductibility for donations, even though Yes has had it since last October and the Prime Minister announced it for both sides months ago."
     publishedDateTime: 2023-06-14T23:30:00Z

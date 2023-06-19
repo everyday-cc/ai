@@ -28,35 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "European lawmakers sign off on world's first set of rules for artificial intelligence"
-    excerpt: "European lawmakers have signed off on the first official set of comprehensive rules for AI. Here is an official look at the EU's Artificial Intelligence Act."
-    publishedDateTime: 2023-06-14T15:20:00Z
-    webUrl: "https://www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence"
-    ampWebUrl: "https://www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence.amp"
+  - title: "When AI Overrules the Nurses Caring for You"
+    excerpt: "Artificial intelligence raises difficult questions about who makes the call in a health crisis: the human or the machine?"
+    publishedDateTime: 2023-06-15T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 80
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/577eba2f-d2ca-43d3-a404-f0ed39fe314d/6c0f48f4-c758-4bba-adda-cbfe95bd919f/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://images.wsj.net/im-799675/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Four-week-old AI start-up raises record €105m in European push"
-    excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105 million in Europe’s largest-ever seed round."
-    publishedDateTime: 2023-06-14T16:29:00Z
-    webUrl: "https://www.irishtimes.com/technology/2023/06/14/four-week-old-ai-start-up-raises-record-105m-in-european-push/"
+  - title: "Miyares leads coalition on recommendations for artificial intelligence governance"
+    excerpt: "() - A bipartisan coalition of 23 attorneys general, co-led by Virginia Attorney General Jason Miyares, submitted a letter advising the National Telecommunications and Information Administration on go"
+    publishedDateTime: 2023-06-15T20:52:00Z
+    webUrl: "https://www.thecentersquare.com/issues/healthcare/article_8670e74e-0bbe-11ee-afe5-5fe03db4ca35.html"
+    ampWebUrl: "https://www.thecentersquare.com/issues/healthcare/article_8670e74e-0bbe-11ee-afe5-5fe03db4ca35.amp.html"
+    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/issues/healthcare/article_8670e74e-0bbe-11ee-afe5-5fe03db4ca35.amp.html"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
+      name: The Center Square
+      domain: thecentersquare.com
+    quality: 54
     images:
-      - url: "https://www.irishtimes.com/resizer/Mb6mOZAQ_w6oqqSSkatXcapAeg8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7SWEGZQO3RHBFE4Q57SO6GXENY.jpg"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/2/7e/27e5ba8c-0b79-11ee-99a4-8720452f4ce8/648b05d01c113.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "25KUGxqagWBO7RiY5IcKJP+6LXj7VC42J15z/RUnZo+jlC+DEN85FgbVnLP/+7m2fpbV29R1RUGfxJRRI+pWkVqiXc6EJYEEfxHXiHSgIaLSXNzKH4iCCSmSi8SaDfApr/t5qLPjwaHd6NsSBhmyRmvdgSsHou/nZZCynu1JAsXp8txZhUeX0F9eSR7SsmANJOLDDlsOt+MefGWArPDuTm/nQTgyXKvu8RbBVkWYzcDLGyV5+vqbenNoZodFf0FZjUjgBCl21Nuy2N/rnDA0U8wHKH5u5zMS5TTzbMd3wyIV+mhBr6yYx0LrTTYxMSDZbp6UCug4PWR+IdoFNetgdVoqrK5k8gaWpylATEu1CmhU6fxZSuRB8dUWYyalZCXe6E31y+wiCRAYuB4m16nxW+hg6QqFTbqHhHdB5BkWXODHjZ3LZVIqt2y3BsuxEdehFJ+epWoqqQz70ewokzJUiqIczWsY21Kw+BcSoK/9AArRzmvJJDOTlMtRRuROiBY8trD4KmOMMvura1aE4L3HcQ==;LaWvwVJQ1W/2ysFeL0u+7w=="

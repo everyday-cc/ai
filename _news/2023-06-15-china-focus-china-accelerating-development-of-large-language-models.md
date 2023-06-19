@@ -7,7 +7,7 @@ originalUrl: "https://www.chinadaily.com.cn/a/202306/15/WS648a70d6a31033ad3f7bc6
 webUrl: "https://www.chinadaily.com.cn/a/202306/15/WS648a70d6a31033ad3f7bc686.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China accelerating development of large language models"
-    excerpt: "China's general-purpose LLMs application is expanding from office and entertainment to fields such as healthcare, the industrial sector and education, according to a report released by the ISTIC."
-    publishedDateTime: 2023-06-14T16:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273865234/china-accelerating-development-of-large-language-models"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1686628836267.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "China Focus: China accelerating development of large language models"
-    excerpt: "At the recently held 2023 Zhongguancun Forum a generalist large language model LLM using visual cues to perform arbitrary segme"
-    publishedDateTime: 2023-06-14T16:15:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273865227/china-focus-china-accelerating-development-of-large-language-models"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Leidos Leads Advancements in Large Language Models and Generative AI, Accelerating Trust and Strategic Partnerships"
     excerpt: "\"Generative AI is going to revolutionize industries and Leidos is at the forefront of putting this powerful technology into action,\" said Jim Carlini, Leidos Chief Technology Officer. \"Years ago, we recognized the potential of the LLMs that power today's Generative AI breakthroughs and began the work to unlock it."
     publishedDateTime: 2023-06-14T21:24:00Z

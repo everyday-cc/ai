@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-class
 webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
 type: article
 quality: 86
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -106,6 +106,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "AMD unveils new chip as generative AI accelerator"
+    excerpt: "The MI300X is based on the next-gen AMD CDNA 3 accelerator architecture and supports up to 192 GB of HBM3 memory to provide the compute and memory efficiency needed for large language model training and inference for generative AI workloads,"
+    publishedDateTime: 2023-06-15T11:40:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4087236.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
   - title: "Generative AI is disrupting its own investment case"
     excerpt: "The very pace of transformative technology makes it tougher for start-ups — and for existing investment portfolios"
     publishedDateTime: 2023-06-15T12:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jun/19/australi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jun/19/australia-politics-live-voice-referendum-senate-anthony-albanese-peter-dutton-david-van-housing-fund-cost-of-living-rent-freeze-greens-nick-mckim"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Australia: Regulating AI – Emerging Issues"
-    excerpt: "Amid global calls for tailored regulation of artificial intelligence tools, the Australian Federal Government has released a discussion paper on the safe and responsible use of AI.&nbsp"
-    publishedDateTime: 2023-06-16T00:00:00Z
-    webUrl: "https://www.natlawreview.com/article/australia-regulating-ai-emerging-issues"
+  - title: "Opposition claims Anthony Albanese is treating Australians 'as mugs' ahead of Voice to Parliament referendum bill passing"
+    excerpt: "Anthony Albanese is being urged to consider a bipartisan approach to Indigenous recognition, ahead of the Voice to Parliament reaching a crucial milestone."
+    publishedDateTime: 2023-06-18T23:48:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90?amp"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 34
     images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/42266/AI_Artificial_Intelligence_Robot_SMALL_0.jpg?itok=YCCxEg_3"
-        width: 500
-        height: 333
+      - url: "https://content.api.news/v3/images/bin/123bca4a3788b767fd7efa4fce7a9ddb"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Australia’s Senate votes to hold referendum on creating Indigenous Voice"
     excerpt: "Australia’s Senate has voted to hold a referendum this year on creating an Indigenous Voice to Parliament – an advocate aiming to give the nation’s most disadvantaged ethnic minority more say on government policy."

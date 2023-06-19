@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/business-it-news/security/microsoft-claims-azur
 webUrl: "https://itwire.com/business-it-news/security/microsoft-claims-azure,-outlook-june-outages-due-to-ddos-attacks.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure Expert MSP success for tech consultancy"
+    excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
+    publishedDateTime: 2023-06-19T08:54:00Z
+    webUrl: "https://www.insidermedia.com/news/north-west/microsoft-azure-expert-msp-success-for-tech-consultancy"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 54
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "EY unlocks Microsoft Azure OpenAI Service to empower EY Tax professionals globally with EY Tax Copilot"
     excerpt: "The EY Tax Copilot program is designed to accelerate how the EY organization innovates, delivers services and provides value to teams and clients LONDON, June 14, 2023 /PRNewswire/ -- EY today announc"
     publishedDateTime: 2023-06-14T17:12:00Z

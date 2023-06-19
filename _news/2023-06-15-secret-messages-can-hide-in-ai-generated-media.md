@@ -41,22 +41,6 @@ related:
         width: 673
         height: 564
         isCached: true
-  - title: "Asia’s opportunity for generative AI"
-    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
-    publishedDateTime: 2023-06-14T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://i.ytimg.com/vi/3Jf81EQ_1Jw/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Here’s five Asian AI stock picks to rival Nvidia"
     excerpt: "Custom semiconductor chips and the growth of edge computing could help these businesses outperform, according to Morgan Stanley."
     publishedDateTime: 2023-06-19T05:57:00Z

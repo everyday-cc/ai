@@ -18,35 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Europe takes another big step toward agreeing an AI rulebook"
-    excerpt: "The European Parliament has voted to confirm its negotiating mandate for the AI Act -- hitting a major milestone which unlocks the next stage of negotiations toward a pan-EU rule-book for artificial intelligence."
-    publishedDateTime: 2023-06-14T21:13:00Z
-    webUrl: "https://techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/"
-    ampWebUrl: "https://techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/amp/"
+  - title: "Five big takeaways from Europe’s AI Act"
+    excerpt: "The AI Act vote passed with an overwhelming majority, but the final version is likely to look a bit different"
+    publishedDateTime: 2023-06-19T09:01:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/"
+    ampWebUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1242038246.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Europe Adopts Groundbreaking AI Regulation"
-    excerpt: "The European Union Parliament, in a landmark move, has voted in favor of the proposed Artificial Intelligence Act, revolutionizing the regulatory landscape of AI in the continent. This pivotal decision ushers in a new era of AI governance,"
-    publishedDateTime: 2023-06-14T20:05:00Z
-    webUrl: "https://www.unite.ai/europe-adopts-groundbreaking-ai-regulation/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/06/christian-lue-MZWBMNP7Nro-unsplash-942x600.jpg"
-        width: 942
-        height: 600
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/eu-act2.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
 
 secured: "fnLHHi9b/whgRZcFJXfyiqe3zkiWET5QV9q+ZHnGeHXAzrbimBXTlqhCU0wWqExdqL6w2vtwLGxt0UOnnM4/Ar5c+54DUESD/X7XhT+E/qm6m5QMwlRvR6RFu9RYDtcAlCFRQe4Xuvgxgyu8PBrTpWmS8HKZlqM8V0r3JCok/4Ae+5DyWV+FC5OwhEixDC1hzfaiPkwGNcQrXv12m1DdMl867rv3XEhe2jywNTuwyOw79lBCOdljdi+iK1w5Fd6PDrvgis/619oqBTIiJORVFbL5PMox1FPm8snY5oDtrgQzDeHdwQfvkrXsYvstcgclO4GqdjyYn5rgnvfuAUycYuH9neS8lFrJ6P25rxq6kleTOH28c4aGTLXH8P+d8oIHPioaGvXuN51iIzCW/Ub8GvTQayzWpAGcSkEclwcE3pFN7/6KtZfsKq+ax0V7sl/+05UW/liAgbp3gKsQOJFw9OPxzytzZqLf0BwbeOJ+YHXyrxeROB52WAyc2MhHsOFCs6XszKQmP7iEWdcdcedfqw==;3cGrViJ9SjmUAsH4jYZadg=="

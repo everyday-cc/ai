@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Paro Raises $25M via Series C to Build Enterprise Platform for Finance, Accounting Services"
-    excerpt: "Paro, a Chicago-based startup disrupting the way companies access on-demand finance and accounting expertise, raises $25 million via Series C."
-    publishedDateTime: 2023-06-18T16:26:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/amp/"
+  - title: "This Fintech Startup Serves A $7.5 Trillion Per Day Market"
+    excerpt: "Swiss-Israeli fintech startup Okoora is expanding the reach of its AI-powered platform to multiple European countries."
+    publishedDateTime: 2023-06-19T09:01:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 60
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2014/04/Chicago-City-Skyscraper.jpg"
-        width: 600
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve/648deabd2e68568627b1e992/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 755
         isCached: true
   - title: "Lending A Helping Hand to Fintech Businesses"
     excerpt: "Demonetization acted as a catalyst in India to promote digital transactions which in turn accelerated the use of fintech platforms, including lending tech solutions as an alternative to cash-based transactions. Increase in Embedded Credit and AI-driven ..."
@@ -49,21 +49,19 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Fintech ForwardAI, an Aggregated Direct Data Access Provider to Accounting and ERP Platforms, Launches Forwardly"
-    excerpt: "ForwardAI, a fintech providing aggregated direct data access to accounting and ERP platforms, recently announced the launch of Forwardly."
-    publishedDateTime: 2023-06-14T16:22:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/06/208515-fintech-forwardai-an-aggregated-direct-data-access-provider-to-accounting-and-erp-platforms-launches-forwardly/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208515-fintech-forwardai-an-aggregated-direct-data-access-provider-to-accounting-and-erp-platforms-launches-forwardly/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208515-fintech-forwardai-an-aggregated-direct-data-access-provider-to-accounting-and-erp-platforms-launches-forwardly/amp/"
+  - title: "Trezy, a fintech that uses AI to help small businesses manage cash flow, just raised $3.3 million with this 23-slide pitch deck"
+    excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Trezy, a fintech startup that uses AI to help small businesses manage cash flow, has raised $3.3 million. The Paris and Amsterdam-based company, founded in 2020 ..."
+    publishedDateTime: 2023-06-15T09:46:00Z
+    webUrl: "https://www.businessinsider.com/trezy-cash-management-fintech-startup-raises-33-million-2023-6"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 38
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/10/data-code.jpg"
+      - url: "https://i.insider.com/648ad6891cc64b001ae140ef?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
   - title: "3 Fintech Stocks With High Potential for Growth"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The financial technology (fintech) industry continues to reshape the landscape"
