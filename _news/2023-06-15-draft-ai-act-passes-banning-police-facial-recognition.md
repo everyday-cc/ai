@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -120,29 +120,6 @@ related:
       - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=8b42d352-372e-9c24-247f-df37100b66df&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8506&x=0&y=0&width=3416&height=1922"
         width: 3000
         height: 1687
-        isCached: true
-  - title: "MEPs agree to curtail uses of facial recognition under changes to draft artificial intelligence rules"
-    excerpt: "The European Union took an important step Wednesday toward passing what would be one of the first big laws to regulate artificial intelligence, a potential model for policymakers around the world as they grapple with how to put guardrails on the rapidly developing technology."
-    publishedDateTime: 2023-06-14T11:35:00Z
-    webUrl: "https://www.irishtimes.com/world/europe/2023/06/14/meps-agree-to-curtail-uses-of-facial-recognition-under-changes-to-draft-artificial-intelligence-rules/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 34
-  - title: "Breaking news. MEPs endorse blanket ban on facial recognition in public spaces, rejecting targeted exemptions"
-    excerpt: "The debate has been inevitably shaped by developments in China, where the Communist Party has rolled out a massive, sophisticated network of facial recognition cameras to monitor the country's population."
-    publishedDateTime: 2023-06-14T11:29:00Z
-    webUrl: "https://www.euronews.com/my-europe/2023/06/14/meps-endorse-blanket-ban-on-facial-recognition-in-public-spaces-rejecting-targeted-exempti"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 20
-    images:
-      - url: "https://static.euronews.com/articles/stories/07/67/57/20/1000x563_cmsv2_71361077-d5f0-5ec1-8e16-9785628cba83-7675720.jpg"
-        width: 1000
-        height: 563
         isCached: true
   - title: "AI Act could kill plans to introduce facial recognition technology for gardaí - Irish Council for Civil Liberties"
     excerpt: "Plans to introduce facial recognition technology (FRT) for use by the gardaí could be dead in the water with the passing on a vote in the European Parliament of the landmark AI A"

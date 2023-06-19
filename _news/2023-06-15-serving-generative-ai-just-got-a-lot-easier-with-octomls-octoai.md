@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/serving-generative-ai-just-got-a-lot
 webUrl: "https://www.zdnet.com/article/serving-generative-ai-just-got-a-lot-easier-with-octomls-octoai/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "OctoML debuts self-optimizing compute services for generative AI"
-    excerpt: "OctoML's new OctoAI self optimizing infrastructure aims to help organizations build and deploy generative AI applications."
-    publishedDateTime: 2023-06-14T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "LrxfgYsR0xx3QooWobyHgcekHG6weEZbYhGG34TI34gPp3UxLNUG/fCx676W5EjPtzvaS0EaCXZwPQQStFpgm8i9MNOu0bWGU71VKRbS5c4gTFUAN+GpmjSRpkgz4xCqAuH+4bcXZzeL+N7jW0iEiu3tjIx+3fH27lFfEGeh/Ep5tKIL+Yb//5i21q23ZQUbCyNUoctHt1z7iEoX/3jQnbeCnV439BJABygPtvistVnhcb6trGg8+U9w7qLocNFzRfnZ6EhOuAKAtcugZZpbVqGYoiqJ5gKS5SWXYz8nPNSt1yliwRCIDH4MJfq+X01VlUnWgVSlQzynvz5KduCVHrP3ZLtBstocQTr6g+g/bI2Io4HEED0GLDKybcjX/M0GecU7fFEQnqvI9IRvqH8pYNi8poybDchLd7Q2MqAPiJtaiqx4Yb8Lioym4yucWlsfwgRr1WaUUTfakdYrIVEVtRogwb9fAEaSSNWF47OoHSPOQNA6P71SDl5ETpgsGn3OXnS5CxebzH8jNQ1aUnuqew==;RSRXT6WZ3Szqc1e/cd5IkQ=="
 ---

@@ -39,15 +39,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Embodied intelligence: Robotics and AI as the decathlon of engineering sciences"
-    excerpt: "Robots need a physical body combined with artificial intelligence – in other words, “embodied intelligence”. - The robot of the future is adaptable and capable of learning. - Catching balls, picking peppers, balancing a tray: specific tasks are ..."
-    publishedDateTime: 2023-06-14T12:44:00Z
-    webUrl: "https://idw-online.de/de/news816023"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 45
   - title: "Ethical considerations of artificial intelligence in marketing: Balancing personalisation and privacy"
     excerpt: "Artificial Intelligence (AI) has revolutionized marketing by decoding complex customer data and driving hyper-personalization. However, as we wield this powerful tool, it’s crucial to balance personalization and privacy – a critical ethical consideration in"
     publishedDateTime: 2023-06-17T13:03:00Z

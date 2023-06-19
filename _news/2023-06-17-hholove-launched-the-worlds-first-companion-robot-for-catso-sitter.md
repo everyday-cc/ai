@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon Fire Max 11 review: Easily the best Fire tablet yet"
-    excerpt: "The newest Amazon Fire tablet checks all of the boxes for an affordable, mid-range tablet. But you'll want to read the rest before buying one."
-    publishedDateTime: 2023-06-14T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-fire-max-11-review/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 34
 
 secured: "cbQ74dvnhGsddDDAFVljh2xvG9VlaAvqqTlgp0gLJx8AZNi6pGNMFzmNCr2CX6SY4nrrVKgQJXeKiAv/zNVRMadL6H0yUZUfee1bd2ccx5OrwaJZhkQwYa72FxwnKXIIXh8m/phgzMDcxchvDXCFQQ7b+SJigJomFiMC8HhFejIdNf0E6hKhuAnI4QeAa17kuMOUHuLq1ojF5UNovwM2k7Ks0HhTszlzVhi//D8ghzhRMjM+6kcM+ScPmJjZPuIBoXEpkookztN+XzKW1EZa/Lpl3idLJL+ISFX+umzzFQsQgzjp5GO+wLY6BcHmBvABuKdcKQV/uCkKpQ/Iu+FBe1CeTLftGdRAiaeMEVv3cCtSFXJb62ZxSygXgHqV6PNESRlakp6Tp68TM1oFckEqSeM0A/ifNai7iuBdG02oC/nAiQRjEGCmjNUbYMXub4vf5VtyskUtOMkN7Z77gq5jh0QrCbwGFbsnhF0aRQGB6vcAQ/EkZo7hHdgeO+aC+2UyOpj62/tfssgAOQfAGXdzDg==;07m6k01C/KHt3ufXy/6kxw=="
 ---

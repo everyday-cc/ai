@@ -34,15 +34,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Embodied intelligence: Robotics and AI as the decathlon of engineering sciences"
-    excerpt: "Robots need a physical body combined with artificial intelligence – in other words, “embodied intelligence”. - The robot of the future is adaptable and capable of learning. - Catching balls, picking peppers, balancing a tray: specific tasks are ..."
-    publishedDateTime: 2023-06-14T12:44:00Z
-    webUrl: "https://idw-online.de/de/news816023"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 45
   - title: "ANALYSIS: Three Considerations for Attorneys Using Generative AI"
     excerpt: "Although legal ethics rules don’t yet specifically address AI usage, they certainly still apply. For lawyers using AI in their practice, here are three considerations to ensure their ethical duties stay top of mind. A crucial preliminary step to using ..."
     publishedDateTime: 2023-06-16T09:00:00Z

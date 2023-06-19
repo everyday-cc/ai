@@ -19,19 +19,19 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Why are Nvidia's shares soaring and what is its role in the AI boom?"
-    excerpt: "FROM GAMING TO AI: NVIDIA'S FOCUS SHIFT Nvidia, known for its chips used in videogames, pivoted to the data center market over the last few years. The company's business rapidly expanded during ..."
-    publishedDateTime: 2023-06-14T12:34:00Z
-    webUrl: "https://www.reuters.com/technology/why-are-nvidias-shares-soaring-what-is-its-role-ai-boom-2023-05-25/"
+  - title: "AI Crypto Tokens Lose Steam as Post-Nvidia Earnings Hype Wears Off"
+    excerpt: "Artificial intelligence (AI)-related tokens have lost as much as 25% of their value in June, as hype around the sector wore off after chip-maker"
+    publishedDateTime: 2023-06-14T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-tokens-lose-steam-as-post-nvidia-earnings-hype-wears-off-1032390187"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 69
     images:
-      - url: "https://www.reuters.com/resizer/J5SpDHtT6EMtegPDZfWfxx21VVo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ETF2CIGAE5KMRMKA2O3JHQPJ5U.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.coindesk.com/resizer/eBRDq6blcXlVZ9o6b5PKJ20hi9c=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VJ7B7YWIIVFDBNYE4B3C5O4O2Q.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "AMD Unveils Advanced AI Chip To Compete With Nvidia In AI Market"
     excerpt: "Advanced Micro Devices (AMD), the Santa Clara-based semiconductor company, has introduced its latest artificial intelligence or AI"
@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AMD’s AI chip challenge to Nvidia remains uphill task"
+    excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know – who plans to buy it."
+    publishedDateTime: 2023-06-15T01:16:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/06/15/amds-ai-chip-challenge-to-nvidia-remains-uphill-task"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/15/2126711.jpeg"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "As AMD Seeks to Slash Nvidia's AI Lead, Here's What Traders Need to Know"
     excerpt: "AMD introduced the firm's Ryzen PRO 7040 Series Mobile processors. These processors bring advanced 'Zen 4' performance and a dedicated Ryzen AI engin"
     publishedDateTime: 2023-06-14T14:19:00Z
@@ -81,15 +95,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Explainer-Why are Nvidia’s shares soaring and what is its role in the AI boom?"
-    excerpt: "Chip designer Nvidia closed Tuesday with a trillion-dollar market value for the first time, part of a steady climb in the stock's price in recent months on the back of the artificial intelligence (AI) boom."
-    publishedDateTime: 2023-06-14T12:34:00Z
-    webUrl: "https://kfgo.com/2023/06/14/explainer-why-are-nvidias-shares-soaring-and-what-is-its-role-in-the-ai-boom-2/"
-    type: article
-    provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 13
 
 secured: "LxVcBxXQ/P2A2xpSLKxguKEwis7SuHKdtkA9oBWMe61rPM9j0g83IRVbedRbXcvLPvILavae6n594XvTHeYIdmACDqLVOn5WcnmlXR2/nM6vh1ISiKapLxubtwZ2+Pt4G0T9avA7FklIvhheX01LgaicHOEYF6DHMBcWOEwr1jFn7AGZxhy0Z+aYGwqbC+d3pVVP/SbF/o7VHAR831PvJK0VchV7GLbegtq3AxDlaV5J4xknIhiRJxPXQUQxakFCtGLOKWv+miDZ/1VbyMwsyJ0ItD2cQt32ngOMbWXA3aqgOKtGGNwC7T0d/ja0sdZ5NIknBTHn6IPkQbmnDkf4jbANzxbEq77RVW3wdtYfsnc4tzswBzwg7EpyUAhgfenWMep7BrjgJ0BroZ2AarvCK2ZB4ULaVJwQTCroxZJyg1grrPYQ6qb42WMVM8Lj1yYN9AQ2oBy2gOm6VonqL31YH8MfQBzYK35V67Vn1O9aQL8kXhUuuc+NHGX6qf7nsYFiSAsxihXVfr0NJgbcm8OiVQ==;p2rZ3PkknVyY7BkOpCza8A=="
 ---

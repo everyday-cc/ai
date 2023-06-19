@@ -117,29 +117,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "MEPs agree to curtail uses of facial recognition under changes to draft artificial intelligence rules"
-    excerpt: "The European Union took an important step Wednesday toward passing what would be one of the first big laws to regulate artificial intelligence, a potential model for policymakers around the world as they grapple with how to put guardrails on the rapidly developing technology."
-    publishedDateTime: 2023-06-14T11:35:00Z
-    webUrl: "https://www.irishtimes.com/world/europe/2023/06/14/meps-agree-to-curtail-uses-of-facial-recognition-under-changes-to-draft-artificial-intelligence-rules/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 34
-  - title: "Breaking news. MEPs endorse blanket ban on facial recognition in public spaces, rejecting targeted exemptions"
-    excerpt: "The debate has been inevitably shaped by developments in China, where the Communist Party has rolled out a massive, sophisticated network of facial recognition cameras to monitor the country's population."
-    publishedDateTime: 2023-06-14T11:29:00Z
-    webUrl: "https://www.euronews.com/my-europe/2023/06/14/meps-endorse-blanket-ban-on-facial-recognition-in-public-spaces-rejecting-targeted-exempti"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 20
-    images:
-      - url: "https://static.euronews.com/articles/stories/07/67/57/20/1000x563_cmsv2_71361077-d5f0-5ec1-8e16-9785628cba83-7675720.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "AI Act could kill plans to introduce facial recognition technology for gardaí - Irish Council for Civil Liberties"
     excerpt: "Plans to introduce facial recognition technology (FRT) for use by the gardaí could be dead in the water with the passing on a vote in the European Parliament of the landmark AI A"
     publishedDateTime: 2023-06-14T13:05:00Z

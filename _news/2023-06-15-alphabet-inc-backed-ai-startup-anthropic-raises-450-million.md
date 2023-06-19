@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32860795"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32860795"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "Generative AI start-up Mistral AI raises €105 million in seed stage funding"
-    excerpt: "AI is the future, and is totally off to races. It can be estimated by the fact that a four week old starter has picked up €105 million just in the seed funding round and is already a rival to Open AI in the building,"
-    publishedDateTime: 2023-06-14T11:53:00Z
-    webUrl: "https://techstory.in/generative-ai-start-up-mistral-ai-raises-e105-million-in-seed-stage-funding/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 15
 
 secured: "f0lg5ssL8Fxp7FtSOuKz4GlHCyuJHfSj1xlfVnEVYvjkBUTVXQVs7/qRe6a0rIBJyn3RVehrttCT2VieN3hzAOZ3UwKbN3bGhkhg53+IvihWw5m5cQLaxL1bEGezd+FOR/qP6S5oSiNaefhfK9ZYsgU8M3T2EBIzAPY+S1g7FsGyIrBbFUF9CGabsh/O9wGWcXaLGI54yhgTQrOcl5cJr+ROFvss91BwowIF3yDYMXzNjEwecGLRtFjFNfArkraVUJj3J/kjgBA4LanPIwjVkKSSBvPaagQ2F+0H18W2ews+mFlvcLpbikZMgH/LwD7UJ8aGN6U8S5abNsY1HB1UGTfRBjf1ycagGmdkesu1xQ8=;5bqV6p5N7ofSu6rAfxA5Pg=="
 ---

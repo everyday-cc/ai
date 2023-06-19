@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-def
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/amp/"
 type: article
 quality: 91
-heat: 231
+heat: 221
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Europe plans to put guardrails on ChatGPT and other AI apps"
-    excerpt: "The European Union has taken the first steps towards regulating AI, with its parliament voting to put restrictions on systems such as ChatGPT."
-    publishedDateTime: 2023-06-14T11:44:00Z
-    webUrl: "https://www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/6489a7aeb6429600188221ab?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How to access, install, and use AI ChatGPT-4 plugins (and why you should)"
     excerpt: "ChatGPT-3.5 is useful. ChatGPT-4 can be very useful. But, for the most useful version of ChatGPT to date, you need to add, implement, and use ChatGPT-4 with plugins."
     publishedDateTime: 2023-06-16T20:00:00Z

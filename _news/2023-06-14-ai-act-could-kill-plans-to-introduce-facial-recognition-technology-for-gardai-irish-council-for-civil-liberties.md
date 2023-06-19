@@ -125,29 +125,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "MEPs agree to curtail uses of facial recognition under changes to draft artificial intelligence rules"
-    excerpt: "The European Union took an important step Wednesday toward passing what would be one of the first big laws to regulate artificial intelligence, a potential model for policymakers around the world as they grapple with how to put guardrails on the rapidly developing technology."
-    publishedDateTime: 2023-06-14T11:35:00Z
-    webUrl: "https://www.irishtimes.com/world/europe/2023/06/14/meps-agree-to-curtail-uses-of-facial-recognition-under-changes-to-draft-artificial-intelligence-rules/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 34
-  - title: "Breaking news. MEPs endorse blanket ban on facial recognition in public spaces, rejecting targeted exemptions"
-    excerpt: "The debate has been inevitably shaped by developments in China, where the Communist Party has rolled out a massive, sophisticated network of facial recognition cameras to monitor the country's population."
-    publishedDateTime: 2023-06-14T11:29:00Z
-    webUrl: "https://www.euronews.com/my-europe/2023/06/14/meps-endorse-blanket-ban-on-facial-recognition-in-public-spaces-rejecting-targeted-exempti"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 20
-    images:
-      - url: "https://static.euronews.com/articles/stories/07/67/57/20/1000x563_cmsv2_71361077-d5f0-5ec1-8e16-9785628cba83-7675720.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "9XsUowPzg/0sOk9MzMG14FoelQsIlk/1NvKW0BMF2rLAQbf9z+FJBpOGggFeOkAsy/FOUvixtsV7Xa6zlz+32t2A9a9KWeFZwTtXWrUl6W/IrJnE6vZa80SXWd6fTl4iv7xrivP38qct9W7/dQyoC16zgCNnhupVL2vz8Ifva2RXLFXYFNbYZRk3WP0o7LmoxDU39BZ5xal6mG/PNzaegobsZOgoV84+4b0O7ePQ6Qc2CRDrv3XIPhsfGajtmlj2240X+BE/F0mo/O3TB5D9/bk2s7Ys0E1E1FoZL0NhjY06uQn2WoishFEjZ62viF6qS7b27WWyv4fAjSMDsTNbtfcX0yyqekSGH/73saxDaAZrjMJMq9Z3pSabKUXaqP3aR8xsbXXmxgc8wGvFtK8dUKI/FinBAmIro7WTiRiXBhr8mkmbI1m4yqGBtETYMyBqV2na4ConSge45xzZ3AUN2+7afGSMbi+fsMSk43zxm54LylATn6t9HS0u5sU+QJhUBaDIHHVA2GbDIV+DYBwKPQ==;mbfIZzKCVAMzLOxwg4B0Wg=="
 ---

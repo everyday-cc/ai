@@ -73,15 +73,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 34
-  - title: "SenseTime Unveils SenseRobot Go: The Second AI-Powered Board Game Robot Joins the SenseRobot Family"
-    excerpt: "The SenseRobot Go is endorsed by Olympic Gold Medalist Guo Jingjing and has received great acclaim from Mr. Nie Weiping, Vice Chairman of the Chinese Weiqi Association (CWA) and a highly respected Go master,"
-    publishedDateTime: 2023-06-14T12:47:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/14/9832475.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
 
 secured: "KYNxNE/AaxjEaxzYRxQeAeNiNIc00CfwooZeGLXg9GhnJa8cWXLiJU9epbivkqrmU0vxtvJnlCDWaQPHX+mMXnRbPoepWU8bvWhDXAtGn8GILwBydzalvuDrDwcNviFZp06Qw8H5fQTBnCvuCgZ0eBJnizFK5gwdkPYJb1iECNxCgGDOQJ6M8AM1v003Sd5hjNNPsGtjyvPkXJuo0d6Ss8a16Aqdko5cb5JZHCmKv00x2xRc4eSw61uGZohbHdrEBS3M6FFKaFCUv+atEsHQbo/j4E4ZKnk24kVtPDfVZcPUuGV4f7gQDQLj92Bgvk72Nx47OEivbyu9502ALFrZXXOVs2VaZZ8uM54rWQPvzSHUaC16kRfd2uniN79OOuSu2PFG5DYLYB6+KQU5POE6bCgVsCDZ24C8gQX19eZe/EtJr1gy6TQfH1eVxO/3gwNAAt159VM04qhsEUGVdELRcWcqwIy7+T+YCblnBfeT2LmmVKqrQAzGQRmh4kts/2gV4CpLN6Yvx3KUT+7ll3+PgQ==;OYZ5xDc7dM/bo3zXo5DR3w=="
 ---

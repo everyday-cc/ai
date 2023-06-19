@@ -47,20 +47,6 @@ related:
         width: 701
         height: 394
         isCached: true
-  - title: "AMD unveils latest chips at Data Center and AI Technology Premiere"
-    excerpt: "AMD introduced two new additions to the acclaimed 4th Gen EPYC CPU portfolio, presenting the industry with processors tailored to meet the demands of"
-    publishedDateTime: 2023-06-14T13:00:00Z
-    webUrl: "https://www.techzine.eu/news/applications/107472/amd-unveils-latest-chips-at-data-center-and-ai-technology-premiere/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/IMG_20180831_151701-1.jpg"
-        width: 3413
-        height: 2560
-        isCached: true
 
 secured: "Jny6UnMo2zrDoV4bSAtZsKoo87M5JEDgcsfpOmM3zBfEhZIBPw7R4cZivoeRykgWN7UVpXUh+syqX4zHurQuVLWK67ZHDTZnbV82zv18CTIYNJIMpqdF03tjLf8r3e9DlzGGolwRfYnfD3cifhEEO0mNf+BSW+a2VsjaovHP4grHnKcfijEJnr6IjDtQpVqYOigOwLb4n4W27aEHHrGiQkee77aKmlfORVW+sEquBFe/Pk1gigKSRrmsflMsk6jo2WRLWGeL4aTPNzExPijvW6OUgh+v7gNqD5qkTxcSnSiLZC8CWMck0QzD3GHzv3oA9nJtoGHyiWo6F3QLNFmvpjB0CPOVjPEhRgyKwILg3Kc=;lrpg9M/y/af6SmX0IH8i4w=="
 ---

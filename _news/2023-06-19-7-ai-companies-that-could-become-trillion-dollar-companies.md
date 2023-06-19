@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "KORIKA, OpenAI to build AI based on Indonesian values"
-    excerpt: "Head of the Artificial Intelligence Industry Research and Innovation Collaboration (KORIKA), Hammam Riza, has said that KORIKA and OpenAI will build an"
-    publishedDateTime: 2023-06-14T13:00:00Z
-    webUrl: "https://en.antaranews.com/news/285117/korika-openai-to-build-ai-based-on-indonesian-values"
-    type: article
-    provider:
-      name: Antara News
-      domain: antaranews.com
-    quality: 19
   - title: "OpenAI’s Mira Murati: the woman charged with pushing generative AI into the real world"
     excerpt: "The potential risks of AI software, especially as it becomes more powerful, are top of mind for policymakers and the business and research communities. Among these are challenges like the spread of AI-generated manipulation and misinformation. In the ..."
     publishedDateTime: 2023-06-18T04:10:00Z

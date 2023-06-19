@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2023/06/18/is-opensource-
 webUrl: "https://www.forbes.com/sites/cindygordon/2023/06/18/is-opensource-ai-threatening-the-tech-titans/"
 type: article
 quality: 67
-heat: 90
+heat: 93
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/life/technology-amazons-cloud-unit-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/lite/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://cwebdotcom.b-cdn.net/wp-content/uploads/2023/06/timothy-dykes-nWgpCe-LQa4-unsplash-scaled.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AMD Stock Leaps After New AI 'MI300' Chip Reveal, Reports Amazon Could Be Buyer"
-    excerpt: "\"We have a chip that is incredibly powerful and we believe will be a significant winner in the AI market,\" said AMD CEO Lisa Su."
-    publishedDateTime: 2023-06-14T11:51:00Z
-    webUrl: "https://www.news-journal.com/arena/thestreet/amd-stock-leaps-after-new-ai-mi300-chip-reveal-reports-amazon-could-be-buyer/article_8ecca2aa-5884-5ffb-b86e-499048263fcf.html"
-    type: article
-    provider:
-      name: Longview News-Journal
-      domain: news-journal.com
-    quality: 50
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/a/3f/a3fa56b1-341e-53ce-865e-95b267453275/6489b38f8338e.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
-        width: 600
-        height: 315
         isCached: true
   - title: "Amazon thinking about using AMD’s AI"
     excerpt: "It might fit into the invisible plane  Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision."

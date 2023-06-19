@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/applications-open-for-3rd-healthcar
 webUrl: "https://www.therobotreport.com/applications-open-for-3rd-healthcare-robotics-startup-catalyst/"
 type: article
 quality: 101
-heat: 103
+heat: 101
 published: true
 
 provider:

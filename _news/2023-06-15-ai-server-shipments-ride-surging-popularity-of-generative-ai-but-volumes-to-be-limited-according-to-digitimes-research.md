@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230614VL208/digitimes-research-g
 webUrl: "https://www.digitimes.com/news/a20230614VL208/digitimes-research-generative-ai-server-shipments-meet-the-analyst.html"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "Can generative AI limit the impact of a shrinking, ageing field service workforce?"
-    excerpt: "Can ChatGPT help drive automation and deliver change in how organizations recruit skills, manage existing engineers and improve field services work? Sumair Dutta from ServiceMax investigates."
-    publishedDateTime: 2023-06-14T11:11:00Z
-    webUrl: "https://diginomica.com/generative-ai-shrinking-field-service-workforce"
-    ampWebUrl: "https://diginomica.com/generative-ai-shrinking-field-service-workforce?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-shrinking-field-service-workforce?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 33
 
 secured: "fRtwXBF5LOqaD4T5Hb8aRokxUpeOdIGyQctDj7CJkJrlqyG042P4K+SGVomSEK77HwRd2+9IbDK6HMty1YPZeX0hCWVifm97up5/+ZNIAfO6RvejwD0YeaYiNjh3aFnFUOVfk91zAUfWInrzDNZOIgRA6qgeFL6T4suZqTmFvjyfJt3zeQKYdL4r7kOF9qFqvG1Un/6iHEqri8Vxi+h2xx2zLmW9+8blMZi75QIcdj0RXBp72p/h6HVG4fkwZo/YDihvX3295imUOcpASpsFWZoXvlAK2kDqiNtpA8I4TJcrqxY42mq3oK5ipVKB+pr8OV4a3me2lkSDNAhA9UWbwm7kmTgOD/4cSS/fGTHvK9Q=;DboxiDVB4/zIvEYVejtGDA=="
 ---

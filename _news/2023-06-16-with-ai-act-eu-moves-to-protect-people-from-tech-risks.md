@@ -84,15 +84,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "EU lawmakers pass landmark artificial intelligence regulation"
-    excerpt: "The European Union's AI Act is the first comprehensive set of regulations for the artificial intelligence industry."
-    publishedDateTime: 2023-06-14T11:44:00Z
-    webUrl: "https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
   - title: "AI Regulation in Europe Gets Closer to a Final Vote"
     excerpt: "Legislators across the European Union have come one step closer to implementing broad artificial intelligence regulations. The EU AI Act, a proposed law that would assess and restrict AI applications based on risk,"
     publishedDateTime: 2023-06-14T19:58:00Z

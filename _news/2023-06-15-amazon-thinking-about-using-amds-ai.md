@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AMD Stock Leaps After New AI 'MI300' Chip Reveal, Reports Amazon Could Be Buyer"
-    excerpt: "\"We have a chip that is incredibly powerful and we believe will be a significant winner in the AI market,\" said AMD CEO Lisa Su."
-    publishedDateTime: 2023-06-14T11:51:00Z
-    webUrl: "https://www.news-journal.com/arena/thestreet/amd-stock-leaps-after-new-ai-mi300-chip-reveal-reports-amazon-could-be-buyer/article_8ecca2aa-5884-5ffb-b86e-499048263fcf.html"
-    type: article
-    provider:
-      name: Longview News-Journal
-      domain: news-journal.com
-    quality: 50
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/a/3f/a3fa56b1-341e-53ce-865e-95b267453275/6489b38f8338e.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Amazon mulling use of AMD chips for AWS, eschews Nvida cloud system"
     excerpt: "Whether AMD will be successful in its attempt to take share away from dominant player Nvidia in the AI chip market is uncertain."
     publishedDateTime: 2023-06-14T20:57:00Z

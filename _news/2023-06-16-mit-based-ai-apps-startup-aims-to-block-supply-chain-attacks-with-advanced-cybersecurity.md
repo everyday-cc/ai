@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Trend Micro brings generative AI to Vision One cybersecurity platform"
-    excerpt: "Trend Micro's new generative AI-driven Vision One platform brings together cybersecurity capabilities including XDR and zero trust."
-    publishedDateTime: 2023-06-15T09:00:00Z
-    webUrl: "https://venturebeat.com/ai/trend-micro-brings-generative-ai-to-vision-one-cybersecurity-platform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/3-Moving-from-zero-trust-to-zero-trust-network-access-2.0.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "How machine learning and new AI technologies could change the cybersecurity landscape"
     excerpt: "Drata's analysis found new technology for data handling has security risks on the one hand and potential security benefits on the other."
     publishedDateTime: 2023-06-15T11:59:00Z
@@ -50,6 +36,15 @@ related:
         width: 1080
         height: 567
         isCached: true
+  - title: "How is AI changing the course of the security marketplace?"
+    excerpt: "According to a report by the U.S. Government Accountability Office (GAO), artificial intelligence (AI) is expected to transform all sectors of society, including national security. The"
+    publishedDateTime: 2023-06-15T13:01:00Z
+    webUrl: "https://www.sourcesecurity.com/insights/ai-changing-security-marketplace-co-227-ga-co-1151-ga-co-1645-ga-co-1756-ga-co-2566-ga-co-2710-ga-co-4022-ga-co-7200-ga-co-9742-ga-co-1554987129-ga-co-1584600779-ga-co-1610540101-ga-co-1622793934-ga-co-1633418524-ga-co-1637761998-ga-off.1686832187.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 36
 
 secured: "O0HrLyTYjqETVMqg+pi2yrwdyyTwo4QJzW0hlzbFhlKwUjNN0s7M1+NQIAdWoBgwuhHuFamuTm6ayW/y2yaySv7L15U0I+uxB3kOb4ciH+6y6ZdMVbQxBLQFU2lkp5PJwevB0wHhoHx8CnefioLeOjBtd2Hv+5ahfb4eY9DmVc0u3UZzTYL477zn08waiqTaHh9dBkFuLgMyfoJuaB33zwxRlXDHFkANX0h92h/AjRY+NDyNLiJZYGWmyq5kFncn9XIv/iepw+qv8cN+kZL9kmNpfJ+NxiNH+MckPCk7zbvIQ9pGXOueXk85zM3tA1As2QFSkC6wrNif2lIVt3QuGcVo7hRtEvPvo2rhd+GB3dtE74sjsjJQBQljdFGP6CCm52TJxO+KCVdSuIXgRXBdMIGvZe+ilyYshXYdnaKCDjkg8FKEo+S6EGh5zoDA5YjEF/n/NMZH/ixYCIe1+bYmPXZxvOKNtN94dwq/l1tVh8Njk3X1MQ5h9yw1XnX3Y6nPnBmY1qlcOeXKfHij1Fzvrw==;+1OFlLijaNwNG61ZIpLDzA=="
 ---

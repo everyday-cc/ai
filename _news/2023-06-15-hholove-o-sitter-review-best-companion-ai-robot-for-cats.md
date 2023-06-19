@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best
 webUrl: "https://www.gizmochina.com/2023/06/15/hholove-o-sitter-review-best-companion-ai-robot-for-cats/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon Fire Max 11 review: Easily the best Fire tablet yet"
-    excerpt: "The newest Amazon Fire tablet checks all of the boxes for an affordable, mid-range tablet. But you'll want to read the rest before buying one."
-    publishedDateTime: 2023-06-14T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-fire-max-11-review/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 34
 
 secured: "HHo2HyvuzsC8E7uNFrrD2/Jsm40SGXb3Exrqjmo81fxG2SC01AXKZoxrtk4Bcu7QjfL+DGTXrwtmXqVm5OFM4l0WVYBdhZzW9OBvmq8G4xl7qdavnhOR271CbpyEf6XAa3sVcEuED7MmG5kN17DD2kii8l6pSOdpeAM+P40pYIDW1U5qRCq+TBY4u+dkbqhTEGI7ry0lx5FY0aysEa02PrlYocxqH3SWM/2+T2UQuVF6KXXrcikyrSXuFtGVuJILKIYFW3wXiirxrAjdbrk0RdX0ExnhNWxtCw6SVZ/06hwfDSmoH3TZQtBv29JiLkrxDLqtWT9q03IFot5iSGBd9J1/C5Rm58lYam8tgxaE3uQbOmDHo0F/8f0CqlWmaQwlWpG7AxRDkCuGQkBDz8aCSjjdCZsQ/6yTDDzJLRaJnzqJsVn+bVqgWiM0NpS48e3EXtKAo01IXWfyryyFaSU8FSPIBzltkiU7bFj74KjPsxW2j+OaDwb9RGy9CqGjdc9AvWuT9rHWSuBEjusBegPiaw==;+HttLZ+7rjMCOltwFF9hUQ=="
 ---

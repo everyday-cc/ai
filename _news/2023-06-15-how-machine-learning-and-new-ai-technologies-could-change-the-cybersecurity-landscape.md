@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/collection_f0d7605d-fa7d-59db-970c-90826c
 webUrl: "https://www.stltoday.com/collection_f0d7605d-fa7d-59db-970c-90826c16a8e8.html"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trend Micro brings generative AI to Vision One cybersecurity platform"
-    excerpt: "Trend Micro's new generative AI-driven Vision One platform brings together cybersecurity capabilities including XDR and zero trust."
-    publishedDateTime: 2023-06-15T09:00:00Z
-    webUrl: "https://venturebeat.com/ai/trend-micro-brings-generative-ai-to-vision-one-cybersecurity-platform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/3-Moving-from-zero-trust-to-zero-trust-network-access-2.0.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "MIT-based AI apps startup aims to block supply chain attacks with advanced cybersecurity"
     excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More The digital pandemic of increasing breaches and ransomware attacks is hitting supply chains and the manufacturers who rely on them hard this year."
     publishedDateTime: 2023-06-15T17:07:00Z
@@ -48,6 +34,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 38
+  - title: "How is AI changing the course of the security marketplace?"
+    excerpt: "According to a report by the U.S. Government Accountability Office (GAO), artificial intelligence (AI) is expected to transform all sectors of society, including national security. The"
+    publishedDateTime: 2023-06-15T13:01:00Z
+    webUrl: "https://www.sourcesecurity.com/insights/ai-changing-security-marketplace-co-227-ga-co-1151-ga-co-1645-ga-co-1756-ga-co-2566-ga-co-2710-ga-co-4022-ga-co-7200-ga-co-9742-ga-co-1554987129-ga-co-1584600779-ga-co-1610540101-ga-co-1622793934-ga-co-1633418524-ga-co-1637761998-ga-off.1686832187.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 36
 
 secured: "7M6MhdF8KInafkPSkTAu5BGDyf4A5+D4q7q0668QNcK4UZPSd6t01xnc9KxXtwHF4lTuIf1CEEb1Gb9Mz0aTAOFrMUWxitDhhwsMtxI8a8bYlavuZRdNrPzO/uO+lWPXfXt6zDu4G8zoqMJzXWWwW8nYo63mLdLeNcsmgYn6ep2h00m5dXqyBzgPxs3djMUZSPngMlvH6x1jyCPVKVxP9LXexCBQoYqnSRr6xhldd08RAMK+7YjoybaKvQOf9a4aHkx19OSAEeLRXHq9TzPVMgpxtbC+6MBSImW05/Wkh2mMqyWLjcOh7rwqNr5aovTNTC8HfcznjIpNFpYAblWZhStTnyIbZebPoy1NEahC0G5FsSkkdi1gXJ1Sgd647XeWCS7G+D2j1bOdLoYPv61+P5vVp5lR8J8KyxU7+lMxz9EdnM1AxW0F/cUwMHkrLl/oJog7ZX9VA3kIdZoUTTXCPQn8YPwIdXLIJBaX83JERBdr7UJrJb0GVM4BWBK9fzEpvztCnnb3rd1C4lCskn64Mw==;n2xzXuqbZ/H2/rfVPT6imA=="
 ---

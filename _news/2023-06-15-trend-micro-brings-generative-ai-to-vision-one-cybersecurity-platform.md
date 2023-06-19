@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/trend-micro-brings-generative-ai-to-vis
 webUrl: "https://venturebeat.com/ai/trend-micro-brings-generative-ai-to-vision-one-cybersecurity-platform/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,29 +29,91 @@ images:
     isCached: true
 
 related:
-  - title: "How machine learning and new AI technologies could change the cybersecurity landscape"
-    excerpt: "Drata's analysis found new technology for data handling has security risks on the one hand and potential security benefits on the other."
-    publishedDateTime: 2023-06-15T11:59:00Z
-    webUrl: "https://www.stltoday.com/collection_f0d7605d-fa7d-59db-970c-90826c16a8e8.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 47
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/04/104b1e4e-1dfc-50b8-ac8f-6b0ec96aa1ce/648a2cae8e33b.image.jpg?crop=1080%2C567%2C0%2C101&resize=1080%2C567&order=crop%2Cresize"
-        width: 1080
-        height: 567
-        isCached: true
-  - title: "MIT-based AI apps startup aims to block supply chain attacks with advanced cybersecurity"
-    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More The digital pandemic of increasing breaches and ransomware attacks is hitting supply chains and the manufacturers who rely on them hard this year."
-    publishedDateTime: 2023-06-15T17:07:00Z
-    webUrl: "https://venturebeat.com/security/mit-based-ai-apps-startup-aims-to-block-supply-chain-attacks-with-advanced-cybersecurity/"
+  - title: "How generative AI is creating new classes of security threats"
+    excerpt: "Why we must act now so that security professionals can develop strategies and react as large-scale issues arise with the evolution of AI."
+    publishedDateTime: 2023-06-18T18:09:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 38
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_light_and_technology_creating_a_dangerous_force._colorfu_4939c964-541c-44c0-aa32-9df44f5360ae.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AI And Security: Is Your Organization Ready?"
+    excerpt: "“AI can create such convincing content to the average person that it’s going to be difficult for them to discern what’s real without intensive training,” Lefever said. “Social engineering approaches will become much more sophisticated and convincing, and it will require teaching the workforce to be critical thinkers around security.”"
+    publishedDateTime: 2023-06-16T18:07:00Z
+    webUrl: "https://www.forbes.com/sites/larryenglish/2023/06/16/ai-and-security-is-your-organization-ready/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Adobe Proves Its Determination To Lead The New Era Of Generative AI"
+    excerpt: "When it comes to Azure, Microsoft is facing the same dilemma because Amazon.com Inc AMZN has a much bigger representative on this front, Amazon Web Services. Amazon also launched its own platform that allows building and scaling generative AI services ..."
+    publishedDateTime: 2023-06-16T14:52:00Z
+    webUrl: "https://www.benzinga.com/23/06/32894175/adobe-proves-its-determination-to-lead-the-new-era-of-generative-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32894175"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32894175"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/9067755.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Tribe AI’s CEO on why generative AI is seeing more rapid uptake by enterprises than web3 and crypto"
+    excerpt: "The second one is continued specialization. AI is not a monolith, it’s not one thing. We’re seeing people start to specialize and focus and go deep on a specific use case or a specific industry. That’s where you’re going to see the most value ..."
+    publishedDateTime: 2023-06-16T17:40:00Z
+    webUrl: "https://venturebeat.com/ai/tribe-ais-ceo-on-why-generative-ai-is-seeing-more-rapid-uptake-by-enterprises-than-web3-and-crypto/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 55
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Jaclyn-headshot.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How Google is using generative AI for virtual try-ons"
+    excerpt: "Google today announced it is using a diffusion-based AI model to enable a new virtual try-on shopping feature in Search."
+    publishedDateTime: 2023-06-16T19:07:00Z
+    webUrl: "https://venturebeat.com/ai/how-google-is-using-generative-ai-for-virtual-try-ons/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Generative AI will upend the professions"
+    excerpt: "They emphatically refute the idea that AI systems must “think” to undertake the tasks that require “creativity” or “judgment” — a common line of defence from the old guard. High-performing systems do not need to “reason” about the law like a lawyer to produce a solid contract, nor “understand” anatomy like a doctor to deliver useful medical advice."
+    publishedDateTime: 2023-06-18T04:00:00Z
+    webUrl: "https://www.ft.com/content/96a1877f-0bbb-48c7-be8f-4fed437810e8"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
+  - title: "Generative AI is disrupting its own investment case"
+    excerpt: "The very pace of transformative technology makes it tougher for start-ups — and for existing investment portfolios"
+    publishedDateTime: 2023-06-15T12:32:00Z
+    webUrl: "https://www.ft.com/content/00f517b8-41e9-4405-9320-e0b19ac65e6b"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "NZnP7eNJGJdU9ydMjJSsLeI1ESzCcbF+rKAdH/0RLCtRfuXVlWN2a/O2RGANsU6FI8Xs9fA/sZ7JPZEApz0NvqFb+BgB6O7Gq1sF4ylAgIGKINxi53slrqP5cEqFQYAEjvRp+pKt/q11hiIHxLclSuoacK/RXNPNEiusSgT5RXfSOOdkk5m9vh7e5sUS0pFunxIoNjm2CS06VgCakYTT1bflpapHSIcSRFtKjaiuB9hS/V5BrlPTnLU68B1b62QVqAFBRs17u4HJgc2qjCJVzAsifCfqJG2KDadUNSl62bNtCPSm9ToBOxCas0cn/7s4c48dYUX1tKQTcHAkzToh4KwKRNkTt1ibI+prkNtMCyXywYd/9R6paYI6XglPQVz4lo4K2wfeNL2W967iTanMQtwdU0zkbA1SrYNXmme90Mpctjm3BRXSbJjo3JFR/sdpN/4ZcgvhP4wWkzLTcGhxbAO+dk6Ncoo5k/TpU7WHU4dSDSp6RApae+K8Vh6AbLmUjSHksayZYmgsgTiV/BAo2w==;TGNfn5M+NZz9fdmpVb+uMA=="
 ---

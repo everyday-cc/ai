@@ -42,15 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "KORIKA, OpenAI to build AI based on Indonesian values"
-    excerpt: "Head of the Artificial Intelligence Industry Research and Innovation Collaboration (KORIKA), Hammam Riza, has said that KORIKA and OpenAI will build an"
-    publishedDateTime: 2023-06-14T13:00:00Z
-    webUrl: "https://en.antaranews.com/news/285117/korika-openai-to-build-ai-based-on-indonesian-values"
-    type: article
-    provider:
-      name: Antara News
-      domain: antaranews.com
-    quality: 19
 
 secured: "6yXOoZkUfzt23ekFJQbjVO592ORzqnepN1J1GNEDIhxwDr8PopOZTBg35sMzOqg3zzEeYAWy/VdOvblMg40B6KDsEJYU3TmZM2F3wSeXIMKxeskbI78QGFhfHfJAYBq4W4AhMd5LPJUKJAVN1AVk2+dDr5Lx7L/E8jqF2Kwkqi22YKbPn/1WHo3jsfjbMyp4UJjtLXje06oPPig/5EbqIkzmlb8jAimYbaSEUcD6LFNR9dr5RrXJYd42dgzt8aOxgZzjflt9C/cl6nOehvQtWXFj7eTOx5iS4LNmd3f7gDjtEKMWXMfBydbW8SxY4tX+k/ybNdjtMb8v8TtRk+5m/chHJAvaBiVWLS1ma6QaeOU=;zBLYcGwxb+dkzVTWXK0G3Q=="
 ---

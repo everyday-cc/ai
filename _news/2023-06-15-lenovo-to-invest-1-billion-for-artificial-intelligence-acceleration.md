@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/lenovo-to-inves
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/lenovo-to-invest-1-billion-for-artificial-intelligence/454144"
 type: article
 quality: 69
-heat: 99
-published: true
+heat: 69
+published: false
 
 provider:
   name: Entrepreneur
@@ -27,35 +27,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "Accenture announces $3bn bet on AI to help build new industry solutions"
-    excerpt: "The new investment is part of Accenture’s continued efforts to build itself as a leader in AI Accenture announces $3bn bet on AI to help build new industry solutions Accenture, AI adoption, AI innovation,"
-    publishedDateTime: 2023-06-14T11:48:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/accenture-announces-3bn-bet-on-ai-to-help-build-new-industry-solutions"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
-  - title: "Lenovo Announces $2B AI Revenue and Unveils $1B Global Expansion Plan"
-    excerpt: "Fueled by increased global digitalization and demand for IT infrastructure upgrades, Lenovo is simplifying the often-complex implementation of new AI capabilities by delivering AI to the source of data and harnessing its vast network of best-in-class partners to build next-generation solutions that enable computing intelligence directly at the edge."
-    publishedDateTime: 2023-06-14T12:23:00Z
-    webUrl: "https://www.datanami.com/this-just-in/lenovo-announces-2b-ai-revenue-and-unveils-1b-global-expansion-plan/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
-  - title: "Targeting artificial intelligence: Lenovo to invest additional $1B over 3 years"
-    excerpt: "Lenovo, the world's top sellers of PCs and supercomputers, is broadening its investment in the fast-growing field of artificial intelligence. Here's the latest."
-    publishedDateTime: 2023-06-14T11:47:00Z
-    webUrl: "https://wraltechwire.com/2023/06/14/targeting-artificial-intelligence-lenovo-to-invest-additional-1b-over-3-years/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 15
 
 secured: "81Hn0Sv/emFGwYfZtxyH7sM2JxlzneAmjgg+eA7zk8eXE4hz57dD5yLSOjCQMevxgf5X9k+xW+69hZYQfgSoKj9WhPOwj/TPQ2FJdxCA2uiP1tQgffWhcYH+JVF+gheRizV8HwZXBUlCKuWGOIgVnK7SlzojuQY9kS4oX5ypj30q/oaKyXlpVSk9X/J0pJA9+dlu+Meu+ORuy7gEVjnrS3CmBUCvHo2onPXjQqL3E3pk11ZUiNwU5LFAHJTgfvHwpDuAaDngdt0+qsyPfrUyhpLewUJ7nFFV7zhONC2oOjB2iVp/tDkWZHkTumVaNMQNKsS3Ejz6cgrzGqUVQQCkB5bOgi5hjI92GoQ+wP8UDI0=;6N3QdqnnB6VlqMF0aUNwIA=="
 ---

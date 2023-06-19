@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Europe plans to put guardrails on ChatGPT and other AI apps"
-    excerpt: "The European Union has taken the first steps towards regulating AI, with its parliament voting to put restrictions on systems such as ChatGPT."
-    publishedDateTime: 2023-06-14T11:44:00Z
-    webUrl: "https://www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/europe-plans-to-put-guardrails-on-chatgpt-other-ai-apps-2023-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/6489a7aeb6429600188221ab?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "This free AI tool can write your cover letters, and its easier to use than ChatGPT"
     excerpt: "When looking for a job, you're likely applying to several positions at a time -- each requiring a uniquely hand-crafted application. Cover Letter Copilot has you covered."
     publishedDateTime: 2023-06-15T20:19:00Z

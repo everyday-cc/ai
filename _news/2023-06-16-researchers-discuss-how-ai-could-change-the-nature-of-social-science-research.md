@@ -42,6 +42,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Meta’s AI Vision is Crumbling, One-Third of AI Researchers left Last Year"
+    excerpt: "Meta, the tech giant formerly known as Facebook, is facing significant challenges in the ... Meta has lost a substantial portion of its AI research team, which has had a direct impact on its ability to compete with industry leaders. Factors such as job ..."
+    publishedDateTime: 2023-06-19T03:48:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/19/meta-lower-confidence-ai-employees/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 48
 
 secured: "hb/ZdQ6/+3S3G/XVL9WIYBDzi7FkkN/iu99PI3W9Tx5Xw+DZQmPH/1Ev7lMmrrVJGczfbyd1KEbjtxBC6lJ2eKnOSGpi5/czN5cHgQ4wORhU64Yz7GXpdTSJ3hui5W2W+1nSjeEua0bfjgL5qj/9EWs4Rn7BZGspDUjfBUWDigqTurOEJKhmz6dk026mhb8o60hKHNPpizIKb6PuetdZlGhpkvFsV3+t0sFAfHR2Wcu2htJHBXCRqL/qP0Zsw5hKCPdIWIA5mNiDACPidfpGWDtFY1Eat5FBJVSJxIw9aL/P2L+YNyFIHSc4Ywsk+TnDsPW0rAg/EXWSo4ruQrukUN/SqLwL8wol4fgCGSH3hEQ=;Aw+1QUhmIoeHLC62CBiYTw=="
 ---

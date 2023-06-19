@@ -1,22 +1,28 @@
 ---
 category: news
-title: "AI startup by ex-Meta and Google researchers raises $113M in seed funding"
-excerpt: "With no product at hand, the company is on a hiring spree and on the lookout for researchers, software engineers and product developers in AI."
-publishedDateTime: 2023-06-14T07:43:00Z
-originalUrl: "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding"
-webUrl: "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding"
-ampWebUrl: "https://cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding/amp"
-cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding/amp"
+title: "AI Startup By Ex-Meta And Google Researchers Raises $113M In Seed Funding"
+excerpt: "The artificial intelligence (AI) firm from Paris facilitate the release of the company’s first set of models for text-based generative AI."
+publishedDateTime: 2023-06-14T14:52:00Z
+originalUrl: "https://insidebitcoins.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding"
+webUrl: "https://insidebitcoins.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
-  name: CoinTelegraph
-  domain: cointelegraph.com
+  name: Inside Bitcoins
+  domain: insidebitcoins.com
 
 topics:
-  - Facebook AI
   - AI
 
-secured: "SpGzvLkdeSY86u2oC8nyE+MdzWihDj2NCd0FlzrPFf3JUGRNYPbP040X6/8HB1x21Hz+8eXTQWlMqu93YrxTdTuObQFjCcn+iz4suSdscFoz7vn4XDtCB6TahfVw/NMCFNYrlSUqkoKy7jY8PLQ1j1c6g022PSzn9oIe+ADSxnUUjJbWgRc0xM9RDTFtKfd54qAERiqEhdg2NkvpN+l05s0kDQwQ2OvkcpRLTcj3ADv4nucRe/ip4o47CLy8LvIdLVFVUqYCbqByQpXamu1eZChWtbqdEMhv6B638vrcfUGgG7wCOPut72RFujsdqloBEoSFVikplcJMcpl7CUFmAbtkacqONrXX1J9tbtzDsQ6Oo8oV/DcO7EvygDqnD4cgP+/RfHlUzLwUi/eVpoFKM8S/l3U/yBSOIF5RyE2iPsJC/ARpWevF5Lwm4Q9oIRnD8s2dUURf18zkMQmL6e+Oi4Ulm51aVFpEu974FOtTvjz7EGqlQSnhWe9BbdYqfgEV48qts8bXyowcQ+BPMI4oag==;l6z/9G1xCXCxoCt4NvMrOg=="
+images:
+  - url: "https://insidebitcoins.com/wp-content/uploads/2023/06/airobothead_cna.jpg"
+    width: 690
+    height: 398
+    isCached: true
+
+secured: "nShjv6fKewJMpVuR3xONgssVwq5MsdIkWnszB/l3iR7VqXpOknkAxlQFH+z9bwWAyXPvBHVJU60WDJ/h7TeRGr0T+Rr19d/USvtBuuauYkbG5pKfltVVS/2VHQq3AYH97TuaBP8qOrSk7BLuUn5CjS7bsYHFntg5G4lr/tEKj33XDcFsXBDgb3YYXCIqD7mEk/5BWz+jqE1dZDxu2AnZCK7HNp4qg6QVYZPELtmTlJ9gbgMs4S4pmF16+T/n4kXIFTauNdk8/aBt5qbBopmoYltCYjwyrWIHo4G3IJUQrFFE+CJROmW/qpt11IVx/w7KQYdR7vEhcmBtBKf0vBu5qGJ0J64w5tgrumkbB27+8/E=;8uuLqVvP/lLINf1xobivpw=="
 ---
 
