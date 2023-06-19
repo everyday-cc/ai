@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Zenarate AI Simulation Training Wins Banking Tech Awards USA's 'FinTech of the Future' as it Transforms How Contact Center Agents Learn and Perform"
-excerpt: "Zenarate takes top honors in Artificial Intelligence & Machine Learning Category for developing confident top-performing agents through its personal unbiased AI Coach. PALO ALTO,"
-publishedDateTime: 2023-06-14T14:19:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/14/9832733.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/14/9832733.htm"
+excerpt: "Zenarate takes top honors in Artificial Intelligence & Machine Learning Category for developing confident top-performing agents through its personal unbiased AI Coach Zenarate AI Coach is the ..."
+publishedDateTime: 2023-06-14T14:16:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32856065/zenarate-ai-simulation-training-wins-banking-tech-awards-usas-fintech-of-the-future-as-it-transfor"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32856065/zenarate-ai-simulation-training-wins-banking-tech-awards-usas-fintech-of-the-future-as-it-transfor"
+ampWebUrl: "https://www.benzinga.com/amp/content/32856065"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32856065"
 type: article
-quality: 16
-heat: 16
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1690386/Zenarate__Logo.jpg"
-    width: 400
-    height: 309
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "F4IKR2Pdb2ZK5yw+/RxBYGIKwGTwL9BQyA4T6K/RflxWqRxtC8Q6lKm4iWOW2dTiLttXShaMMMoBwJlSQ1QGuqFgLucA3b57HOg7jdNsx0mcMV9kKKtp+EoqfmayFcvmzRU2QlWfrKuB/B5boLIY1t3kxiNz5OddeerkzcZsZILA1ycCp56rdhcINoHZicreJx4ANmSEaFSJFQlOtXNzLLfwhPktg7CigYEnhCY6HyJ9Bni7AHU0gG0fZd4SuaIrWdPeFXWnZph9ePcwj97NEryWD6pq6ZeQW5RF+uTKWSy8Z4ZUh8vExwsZ66T6+7qWxJBGPYYjYHEj1QyfYh2UJZyhk7dRoLHiaq1fYVFb7yMgvx9jhjt+YtWsyLzWNE3sUYdmB/t3Ly7Mci5qNmmRld0QoUpwyNWu0TxVy1wpd9SStM/TPWx4sYb5usomA0TKP9BX0e25Er6ax8S22bvFynRPlFVyvEFlxouLtC3EOUjwuGX6vmsFxaAQME38FMsQ3XezJrolFhxFLXT9G8sFcQ==;k8g7RCSKBMddMjFU/zybRQ=="
+secured: "4gVkVpjxDJGKE6LK5v/E1WA+2M52cU6mQkOPwZO9/cCQ+SPue9ni4jlxhLOn9sBODqdV9oX3pQvx8189XfyUUF2eYchBS+XYXd6lVJS2v6XAAydEVZOv/qHHjGWQnzRNFIacf3r3h5L2whDjZtAtJutnu2teMLYeTmtzpGbGG2IkoZlpjhpWK6AtJzhjgA9/1aACekCCbGf29pFiBp+zckn+ZScFeLtRi4rLv0isvylp0SRzm0m7nYfVmSm2ZOrtDVqbigwfBE0eCdBkKbo+UMtI4HaqeEajcs7qD6UxJ9JSmMH62YajAXnZqgeqJltQ3Q4LWj5tAXWXLiinaUpDHi+60fbK/fwbObfkdn1HuG4=;HLyiiuS6iqAcvJJtKLDD1Q=="
 ---
 

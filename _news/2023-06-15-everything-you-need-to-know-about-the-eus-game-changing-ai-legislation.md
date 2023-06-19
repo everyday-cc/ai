@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/everything-you-need-to-know-about-the-e
 webUrl: "https://www.pcmag.com/news/everything-you-need-to-know-about-the-eus-game-changing-ai-legislation"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: PC Magazine
@@ -26,6 +26,22 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "The Voice to Parliament has passed: Everything you need to know about the historic referendum to come"
+    excerpt: "Now that the Voice to Parliament bill has passed the Senate, a referendum must occur in the next six months. Here's what you need to know."
+    publishedDateTime: 2023-06-19T06:51:00Z
+    webUrl: "https://harpersbazaar.com.au/voice-to-parliament-bill-passes-referendum/"
+    type: article
+    provider:
+      name: Harper's BAZAAR
+      domain: harpersbazaar.com.au
+    quality: 9
+    images:
+      - url: "https://harpersbazaar.com.au/wp-content/uploads/2023/06/Voice-to-Parliament-referendum-1024x725.png"
+        width: 1024
+        height: 725
+        isCached: true
 
 secured: "nUBdMnntZMvOC6kvOElFRgS/TyKsg0YZlvPRsiFBT3hXWMZkxquSLC+0XdRlPKY5y+8IRc5sjYDnvduD5QMjgrNmPvQFiygTTKddRKUDoJjGXq5+RGSyumsS9BZ06q+vKDVU6GpFkPOqWIeQSrkwthxx+ZxAZTA79ixf7aHmbEnyfhceCZiOklrGidZN8x3SDNAOfE1tgeeMDjW6PT757o0AiSxPTgP1SVrqbyU2fFdBl+ikIEkOH9Pm+5zRZiP2+LXld/vM4kESuxmTL/VJDzKyurmcQx4cYX//VElVl+9lobMQjkQfH9sT49wM+C0TKyOlNNTLfcjKSkPUCjTiMCAt7doBLpj7zAt0K+KuVCM6ziwtTkS9kIITGvX2xYLxDkcB/g4bQDmOZzXhGHpWRsc/TGQlHKdqSELusH8DxAnIXIa2M+l0FVp+7y5wSrI2SdohtdkkEoPBoFDX8XgJ3GWoE+S19XkTRKxpAvPf4yZiqbwMfy8IVsR8PxnwcmA7xUecWpgph/rgj9Y6oTyVlg==;0BuTVv83FrzAUNITOZAQxw=="
 ---

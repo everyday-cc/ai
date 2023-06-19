@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 876
         isCached: true
-  - title: "California college professors test out AI in the classroom, even as cheating debate continues"
-    excerpt: "While some remain concerned about students using ChatGPT to cheat in class, a growing number are choosing to encourage AI’s limited use in classroom assignments."
-    publishedDateTime: 2023-06-14T14:39:00Z
-    webUrl: "https://www.ocregister.com/2023/06/14/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/"
-    ampWebUrl: "https://www.ocregister.com/2023/06/14/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/06/14/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 48
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/06/060623-Professor-AI-Midjourney-CM-01.webp?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "California professors test out AI in the classroom, even as cheating debate continues"
     excerpt: "While some California college professors remain concerned about students using generative AI such as ChatGPT to cheat in class, a growing number are choosing to encourage its limited use in classroom assignments."
     publishedDateTime: 2023-06-18T18:05:00Z

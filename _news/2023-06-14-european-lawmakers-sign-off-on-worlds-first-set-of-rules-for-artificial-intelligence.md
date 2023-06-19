@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/european-lawmakers-sign-worlds-first-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/european-lawmakers-sign-worlds-first-set-rules-artificial-intelligence.amp"
 type: article
 quality: 80
-heat: 120
+heat: 100
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Regulation Is Here. Almost."
-    excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
-    publishedDateTime: 2023-06-14T13:37:00Z
-    webUrl: "https://www.wsj.com/articles/ai-regulation-is-almost-here-in-europe-10b32c8f?mod=tech_lead_pos3"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-799506/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Elon Musk Backs AI Regulation, But Offers Only Vague Solutions"
     excerpt: "I’m in favor of AI regulation because...advanced AI is [a] risk to the public,' he says today. But when pushed for specifics, the Tesla CEO comes up empty."
     publishedDateTime: 2023-06-16T17:10:00Z
@@ -72,15 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "French start-up Mistral AI to compete with Silicon Valley firms, raises 105 million euros in Europe's largest seed funding"
-    excerpt: "Mistral AI, formed by former Google and Meta AI researchers is planning to launch Large Language Model to compete with ChatGPT next year"
-    publishedDateTime: 2023-06-14T13:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/current-affairs/french-start-up-mistral-ai-to-compete-with-silicon-valley-firms-raises-105-million-euros-in-europes-largest-seed-funding-10797461.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 0
 
 secured: "TskhWF+c/oSAQWg3n38DmoOJVSAhAsNeTNBniaYW0xWRK7kv5ThswR+GO8VOkczPTfoMZIIvKrWqadRrHk+tKXjHfoOVtxipFr891haS3g5KtDjh6K6T7oOy2LdposFJHrsQ5eTZPZ4vHfCb14BgnAUl4mlqXQKUD4RLdH97VVGlWYtwS2sSa5ev08QRlbKZ42C2/A5JGdJIhpjId2LLkbOYjPw+LtmoUB7BfXf9iazuCn2WXDWKHtJrl92NkPQxlc73/EQJQHkVXiU0S/z5LXY6u8dzJ6Pk3WfxFLeUf3hJKwAC/1EgIvArkU1txDIQLJLoMg2AHTiUYWJUm763DLTEIOdBJyuFI8+XrHXcN8RE9koOJTz0dRf4HxFePAwTtOJ7tty4qQ+9BFw5evtxp11ANVlsauqnOV9basTGz3dDnkIlEJ22nnQi3EidFelfr6Qup0QcVrEhQKXrb7KFeKhJoyjTmATVg11Z5VeoNJULoJkKcXTfvFA5Jpw5N9bH0HreImI/Rt3t69ETbLhekg==;d4CA4MFAOg63Ol6bIV/r9Q=="
 ---

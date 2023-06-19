@@ -70,15 +70,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "AMD unveils MI300X, steps up play into AI chip segment"
-    excerpt: "Chipmaker AMD has unveiled MI300X, one of its most-advanced GPUs (graphics processing units) for artificial intelligence, which would be available from the second half of this year."
-    publishedDateTime: 2023-06-14T13:51:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-amd-amd-mi300x-nvidia-nlp-meta-ai-artificial-intelligence-linux-foundation-amd-ai-devices-mi300x-240002"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 34
 
 secured: "RAqOFmZVKg3BSL4uTtgePEGh+xqjNcp7jM5S5E8IXVETawy1r+Mr1pnT13P5QLUnKrH8+De5pDJ+wfrhubbwiQMmmfq+CVPMRyGCMXns5PsgjlYIoSzofZ5vHi9i3C10l2Q+/IsUGSDEWAsnyBywR8xfuzNApMxr/5dtE/kHIOd7o0Ty0W3FgCKywMjP3oYV780uSlfBc/A2z8b+6MLlI0eZewwLPIk8ObKfil6TEZU010oRaUX8UZwwed0dp75WDLIFAizzjLkrwQCUd0sdZXIb15jrUNVzlXNUI21Bq9Q/ASO4PEUtAPGOrBOQ5vim3Au18DyK59BfrRCgKve0Im548vcSd0PlaxnMlOhEnG4=;byyQjcqkGqvsDLN2znbKCQ=="
 ---

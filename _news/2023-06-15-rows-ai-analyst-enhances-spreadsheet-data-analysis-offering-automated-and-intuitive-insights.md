@@ -52,15 +52,6 @@ related:
         width: 1920
         height: 740
         isCached: true
-  - title: "Ethical considerations of artificial intelligence in marketing: Balancing personalisation and privacy"
-    excerpt: "Artificial Intelligence (AI) has revolutionized marketing by decoding complex customer data and driving hyper-personalization. However, as we wield this powerful tool, it’s crucial to balance personalization and privacy – a critical ethical consideration in"
-    publishedDateTime: 2023-06-17T13:03:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ethical-considerations-of-artificial-intelligence-in-marketing-balancing-personalisation-and-privacy/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 36
   - title: "BBVA uses AI and analytics services from AWS"
     excerpt: "BBVA invests in Amazon Web Services cloud platforms to help transform itself into an organisation driven by AI and data."
     publishedDateTime: 2023-06-16T07:59:00Z

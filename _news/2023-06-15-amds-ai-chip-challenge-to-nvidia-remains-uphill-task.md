@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "As AMD Seeks to Slash Nvidia's AI Lead, Here's What Traders Need to Know"
-    excerpt: "AMD introduced the firm's Ryzen PRO 7040 Series Mobile processors. These processors bring advanced 'Zen 4' performance and a dedicated Ryzen AI engin"
-    publishedDateTime: 2023-06-14T14:19:00Z
-    webUrl: "https://realmoney.thestreet.com/investing/as-amd-seeks-to-slash-nvidia-s-ai-lead-here-s-what-traders-need-to-know-16126404"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 38
-    images:
-      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/16e08cd1-b393-11e9-b14e-6799f7b581ee.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
     excerpt: "Wall Street has singled out a number of chips companies that could get a boost from generative AI. The combined stock market value of AMD, Broadcom and Marvell jumped by $99bn, or 20 per cent, in the two days after Nvidia’s stunning sales forecast last month. But their AI-related sales are not expected to come from the market dominated by Nvidia."
     publishedDateTime: 2023-06-15T10:00:00Z

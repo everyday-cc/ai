@@ -49,16 +49,16 @@ related:
         height: 979
         isCached: true
   - title: "Applied Artificial Intelligence: The Key to Success During Economic Uncertainty in the Food & Beverage Industry"
-    excerpt: "By Terry Smagh, Senior Vice President and General Manager for Asia Pacific and Japan, Infor In the face of high inflation and increased prices, innovative food and beverage companies have turned to ar"
+    excerpt: "By Terry Smagh, Senior Vice President and General Manager for Asia Pacific and Japan, Infor In the face of high inflation and increased prices, innovative food and beverage companies have turned to artificial intelligence (AI) and more specifically machine learning (ML) to drive efficiency and cut costs."
     publishedDateTime: 2023-06-19T02:31:00Z
-    webUrl: "https://www.ryt9.com/en/prg/268800"
+    webUrl: "https://www.thaipr.net/en/it_en/3348359"
     type: article
     provider:
-      name: RYT9
-      domain: ryt9.com
+      name: thaipr.net
+      domain: thaipr.net
     quality: 32
     images:
-      - url: "https://www.ryt9.com/img/files/20230619/iq26c4fde2d4a0439837a926a12796c5ef.jpg"
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/06/Infor-Logo-7b6a1c4d-e1687141863156.png"
         width: 800
         height: 800
         isCached: true

@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/gmail-will-help-you-write-your-email
 webUrl: "https://www.zdnet.com/article/gmail-will-help-you-write-your-emails-now-how-to-access-googles-new-ai-tool/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "6 Gmail AI features to help save you time"
-    excerpt: "These AI-powered Gmail features can make your email experience even faster, easier and more organized."
-    publishedDateTime: 2023-06-14T15:00:00Z
-    webUrl: "https://blog.google/products/gmail/gmail-ai-features/"
-    ampWebUrl: "https://blog.google/products/gmail/gmail-ai-features/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/gmail/gmail-ai-features/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gmail_powered_by_ai_hero.width-1300.jpg"
-        width: 1300
-        height: 541
-        isCached: true
 
 secured: "ppIDD+CgHMax0QYNCBKUeNBXh8OhjYSNZLIOdMhvGMvYmG8zC7CGnT/1UpNXGagu6WDVV3/mcD3QjJ2KZ0eqMYO6DWdvpg4hgSkSPMO/hjthxNafQM14rTyIRjg2AiB5aydXwDBg3J2f3S1WCfhblo/Ypx3CrrnzmLh4I+TS9PlSRKqtWMi6j6VseVnP5RF5wph/RZCL5aqesrOmn9Nd2xRm3gXUGWCT1QunuQ25spOG37HKkruD6Hgci7/2xoU19XVgWOimZW/RVwGjc0iOKld6k653Igay12MUoI5biuebflcw9DnJ57e5egwzOiSdZlsC3v0IJJ+eGY5jZyQgZ5krcHfPopxBZ7fuarwKfxDtd05Kwvmk85UXL+mW9xrBhN31cS4FLM4st6yUL5492f2eLVZJ9Sra6DAp0r+/D/+oitiBzzhi/Xwq+WBglLFIc8nwO8vG9WTOgLYDiKk7ueZTBLVHcQ4jL4TIxqs7RyUN96acatXv4dqs6jXRAXHTF5wg4vUiZZ0LjKFL7v5y+Q==;m46A9Jf8nyDJ+s5Pjeou+A=="
 ---

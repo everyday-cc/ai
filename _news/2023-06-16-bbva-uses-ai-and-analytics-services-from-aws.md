@@ -47,15 +47,6 @@ related:
         width: 1920
         height: 740
         isCached: true
-  - title: "Ethical considerations of artificial intelligence in marketing: Balancing personalisation and privacy"
-    excerpt: "Artificial Intelligence (AI) has revolutionized marketing by decoding complex customer data and driving hyper-personalization. However, as we wield this powerful tool, it’s crucial to balance personalization and privacy – a critical ethical consideration in"
-    publishedDateTime: 2023-06-17T13:03:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ethical-considerations-of-artificial-intelligence-in-marketing-balancing-personalisation-and-privacy/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 36
   - title: "Rows’ AI Analyst Enhances Spreadsheet Data Analysis, Offering Automated and Intuitive Insights"
     excerpt: "Rows, the next-generation spreadsheet for businesses, has launched Rows AI Analyst, its latest feature. The new tool will"
     publishedDateTime: 2023-06-14T17:36:00Z

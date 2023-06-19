@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "EU moves closer to passing one of world’s first laws governing AI"
-    excerpt: "Bloc hopes to set global standard for technology – including ban on police use of live facial recognition technology in public places"
-    publishedDateTime: 2023-06-14T13:14:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai?trk=public_post_comment-text"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/45841538e1aeae6c32c2c831ac875b5528ec564a/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=9b617722c7d6c86a671130539aea4b6a"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Europe votes to regulate AI and ban use of live facial recognition"
     excerpt: "Tech giant Google has urged the EU to coordinate its regulatory approach on AI with the United States, with CEO Sundar Pichai calling their alignment “critical”. And MEPs are set to work with their US Congressional counterparts to develop a short-term code of conduct to cover the period until 2025 when the Act comes into force."
     publishedDateTime: 2023-06-15T10:39:00Z
@@ -117,15 +101,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "AI Act could kill plans to introduce facial recognition technology for gardaí - Irish Council for Civil Liberties"
-    excerpt: "Plans to introduce facial recognition technology (FRT) for use by the gardaí could be dead in the water with the passing on a vote in the European Parliament of the landmark AI A"
-    publishedDateTime: 2023-06-14T13:05:00Z
-    webUrl: "https://www.businesspost.ie/tech/ai-act-could-kill-plans-to-introduce-facial-recognition-technology-for-gardai-irish-council-for-ci/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 13
 
 secured: "uKSRpzr4cFZ+dDoAK+myrZTNELbImFkuyYyGM+xLuQWYlY7vGcAbmOkBXX55xYEiXtkM9SznnKaHch36CSERMurvTV5/6DkMEdzWP8BvyYDNkaLX0ISOvTT8Vt+QZ+dpxEoqmn/aDhr0NLTfvGhnmEsIvfSO5GIPYlViR4LkrTTbwVVYdL7WbyOROs3JfwbMLNyasNNt+KOnXgyyYuGZ34cV4LlpqqF3IkObNFOFZGNqa5FkAkbGm3dINmUDb2NQtplqftH/adD2BhYEjM8LOS/Hl6S1z7o4YDyolao0ErImpNPNwCo90aAeI8qCY3TW0pPhyGhMggz4hlpunvaLJftoXgX5+F1PM0scau+dCeRnFkGFsX8CtoLmBDlprMiGyppgoXpr61wFb0Y4wIlKm7ndNhZaMjfKJXHTnGa79IIuKfnnekWVZEj4IKLGWJE7RVPP59IG3HojHh2te/6ESvnxUb/Y/dg6xsgOulJSBjjQKBPX2dRj7sbEriUTWt44/Aj+no06Hcemi4tDcjWHlQ==;8rlJtoZ4ZjrpnNjISJ1REQ=="
 ---

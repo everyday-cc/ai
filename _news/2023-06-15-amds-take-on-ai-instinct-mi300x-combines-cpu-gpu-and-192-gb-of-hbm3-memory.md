@@ -65,15 +65,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "AMD unveils MI300X, steps up play into AI chip segment"
-    excerpt: "Chipmaker AMD has unveiled MI300X, one of its most-advanced GPUs (graphics processing units) for artificial intelligence, which would be available from the second half of this year."
-    publishedDateTime: 2023-06-14T13:51:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-amd-amd-mi300x-nvidia-nlp-meta-ai-artificial-intelligence-linux-foundation-amd-ai-devices-mi300x-240002"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 34
   - title: "AMD Instinct MI300X Datacenter GPU gets 750W TBP"
     excerpt: "AMD recently presented its latest technological advancement, the Instinct MI300X GPU, at the Data Center and AI Technology Premiere event on June 15th. In the keynote address, specific information"
     publishedDateTime: 2023-06-16T06:17:00Z

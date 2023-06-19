@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Regulation Is Here. Almost."
-    excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
-    publishedDateTime: 2023-06-14T13:37:00Z
-    webUrl: "https://www.wsj.com/articles/ai-regulation-is-almost-here-in-europe-10b32c8f?mod=tech_lead_pos3"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-799506/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Four-week-old AI start-up raises record €105m in European push"
     excerpt: "A French start-up founded four weeks ago by a trio of former Meta and Google artificial intelligence researchers has raised €105 million in Europe’s largest-ever seed round."
     publishedDateTime: 2023-06-14T16:29:00Z
@@ -72,15 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "French start-up Mistral AI to compete with Silicon Valley firms, raises 105 million euros in Europe's largest seed funding"
-    excerpt: "Mistral AI, formed by former Google and Meta AI researchers is planning to launch Large Language Model to compete with ChatGPT next year"
-    publishedDateTime: 2023-06-14T13:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/current-affairs/french-start-up-mistral-ai-to-compete-with-silicon-valley-firms-raises-105-million-euros-in-europes-largest-seed-funding-10797461.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 0
 
 secured: "25KUGxqagWBO7RiY5IcKJP+6LXj7VC42J15z/RUnZo+jlC+DEN85FgbVnLP/+7m2fpbV29R1RUGfxJRRI+pWkVqiXc6EJYEEfxHXiHSgIaLSXNzKH4iCCSmSi8SaDfApr/t5qLPjwaHd6NsSBhmyRmvdgSsHou/nZZCynu1JAsXp8txZhUeX0F9eSR7SsmANJOLDDlsOt+MefGWArPDuTm/nQTgyXKvu8RbBVkWYzcDLGyV5+vqbenNoZodFf0FZjUjgBCl21Nuy2N/rnDA0U8wHKH5u5zMS5TTzbMd3wyIV+mhBr6yYx0LrTTYxMSDZbp6UCug4PWR+IdoFNetgdVoqrK5k8gaWpylATEu1CmhU6fxZSuRB8dUWYyalZCXe6E31y+wiCRAYuB4m16nxW+hg6QqFTbqHhHdB5BkWXODHjZ3LZVIqt2y3BsuxEdehFJ+epWoqqQz70ewokzJUiqIczWsY21Kw+BcSoK/9AArRzmvJJDOTlMtRRuROiBY8trD4KmOMMvura1aE4L3HcQ==;LaWvwVJQ1W/2ysFeL0u+7w=="
 ---

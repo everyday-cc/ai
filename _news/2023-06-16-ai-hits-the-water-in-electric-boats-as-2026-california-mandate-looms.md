@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-wat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "California college professors test out AI in the classroom, even as cheating debate continues"
-    excerpt: "While some remain concerned about students using ChatGPT to cheat in class, a growing number are choosing to encourage AI’s limited use in classroom assignments."
-    publishedDateTime: 2023-06-14T14:39:00Z
-    webUrl: "https://www.ocregister.com/2023/06/14/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/"
-    ampWebUrl: "https://www.ocregister.com/2023/06/14/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/06/14/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 48
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/06/060623-Professor-AI-Midjourney-CM-01.webp?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "California professors test out AI in the classroom, even as cheating debate continues"
     excerpt: "The AI got key details of the plot wrong in some cases, Loden said. In the film, for example, protagonist George takes his girlfriend to a lake and she falls in and accidentally drowns, but ChatGPT says that he purposely killed her there."
     publishedDateTime: 2023-06-16T04:38:00Z

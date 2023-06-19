@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "EU moves closer to passing one of world’s first laws governing AI"
-    excerpt: "Bloc hopes to set global standard for technology – including ban on police use of live facial recognition technology in public places"
-    publishedDateTime: 2023-06-14T13:14:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai?trk=public_post_comment-text"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/45841538e1aeae6c32c2c831ac875b5528ec564a/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=9b617722c7d6c86a671130539aea4b6a"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Battle over facial recognition as EU makes groundbreaking AI law"
     excerpt: "Israeli authorities have put in place facial recognition to surveil Palestinians in occupied East Jerusalem, says Amnesty International, which also says products made in the EU have been used in China for the surveillance of Uighurs and other minorities."
     publishedDateTime: 2023-06-15T04:00:00Z
@@ -117,15 +101,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "AI Act could kill plans to introduce facial recognition technology for gardaí - Irish Council for Civil Liberties"
-    excerpt: "Plans to introduce facial recognition technology (FRT) for use by the gardaí could be dead in the water with the passing on a vote in the European Parliament of the landmark AI A"
-    publishedDateTime: 2023-06-14T13:05:00Z
-    webUrl: "https://www.businesspost.ie/tech/ai-act-could-kill-plans-to-introduce-facial-recognition-technology-for-gardai-irish-council-for-ci/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 13
 
 secured: "ISS9/jdGuH3e7B9hjuoeHISc95EX5ujs5BpJUIwigkv8A2wcImcKe3PxwlFFQ7YBS2KVPLxxZVIdRDgBA8DoBoIrdrtJpNAEHMcsvrXDwYAgq37/AD1aI4UzRu/b7t/uu3pDnqTh9TCYtnv4KxYLITRBHlfqvwSNVVaAwnQ7HT2Ted9L5gPZUUwdzVRujNMmLDhTyqdFvhRnxoYgLRg19KEG+tEf08Y9dwtcNxtC+naG4lE22UgKPz58SHn+YQKIXN7JnNwfrvAb0jwteg8f/igSAMFATrXyo7OYnpOqMPWNHFHeAAjDABKXDyXXG5ws76EyLxcMJ2u57OsWhSG2vUGavIzRdKxd9xlAMggaRpk=;ugtRkV00oIkCdCCLtHLV0w=="
 ---

@@ -40,15 +40,6 @@ related:
         width: 983
         height: 655
         isCached: true
-  - title: "Generative AI Will Change The Future Of Technology Organizations"
-    excerpt: "Now, with the acceleration wrought by generative AI and other emerging technologies tech leaders must build long-term strategies to address the growing demands."
-    publishedDateTime: 2023-06-14T13:17:00Z
-    webUrl: "https://www.forbes.com/sites/forrester/2023/06/14/generative-ai-will-change-the-future-of-technology-organizations/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI Technology Makes Its Way To Agriculture"
     excerpt: "When most people think about artificial intelligence (AI) technology, visions of computers and robots generally come to mind ... To stay updated with top startup news & investments, sign up for Benzinga's Startup Investing & Equity Crowdfunding Newsletter ..."
     publishedDateTime: 2023-06-14T17:49:00Z

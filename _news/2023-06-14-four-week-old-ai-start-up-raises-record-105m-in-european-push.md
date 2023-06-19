@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Regulation Is Here. Almost."
-    excerpt: "The European Union’s Parliament voted to push forward draft legislation that is positioned to be the West’s first comprehensive set of AI regulations."
-    publishedDateTime: 2023-06-14T13:37:00Z
-    webUrl: "https://www.wsj.com/articles/ai-regulation-is-almost-here-in-europe-10b32c8f?mod=tech_lead_pos3"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-799506/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Elon Musk Backs AI Regulation, But Offers Only Vague Solutions"
     excerpt: "I’m in favor of AI regulation because...advanced AI is [a] risk to the public,' he says today. But when pushed for specifics, the Tesla CEO comes up empty."
     publishedDateTime: 2023-06-16T17:10:00Z
@@ -68,15 +54,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "French start-up Mistral AI to compete with Silicon Valley firms, raises 105 million euros in Europe's largest seed funding"
-    excerpt: "Mistral AI, formed by former Google and Meta AI researchers is planning to launch Large Language Model to compete with ChatGPT next year"
-    publishedDateTime: 2023-06-14T13:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/current-affairs/french-start-up-mistral-ai-to-compete-with-silicon-valley-firms-raises-105-million-euros-in-europes-largest-seed-funding-10797461.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 0
 
 secured: "zvSVfsC9pR20IyCyZviTJW/uMDagQ4TBf2niAuWGqm0SR2tOuS1WOLeyy2K6OXTZeut6t/PR1EuBG0X7eIjUPmeCRcCf/8oZoddRZI6BV6TL7EGQdf6duGmKnW/P94lmkjy3RXEUJKwCexhLKJc7B7Gt67RauH9+LiI/4Ckj1Jgvx39tCRZz3fXOY8TxC4fFk8s52CDx+ZNgCOqSJTdIArSdPSYQC4zG5/tiUl6xfDb97ejuajau+qnBvRHXsYNwMmO5BPvNYRfZBtSWEMJp+OBgpBro5SDdietiqlhpSgRU2ZlVV/PFQPEjk2wRUJCHbZKz96uMtIhmDKIIxsGwdgysWDzif+y91wjV2HBNTLY=;CTAXwl0Th4nU9c+PNMwimg=="
 ---

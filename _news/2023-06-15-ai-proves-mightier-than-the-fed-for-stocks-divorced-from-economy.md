@@ -28,15 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Five of the Best Artificial Intelligence Stocks for the Second Half of 2023"
-    excerpt: "\"We are at a defining moment - like the internet in the '90s - where Artificial Intelligence (AI) is moving towards mass adoption, with large language models like ChatGPT finally enabling us to fully capitalize on the data revolution,"
-    publishedDateTime: 2023-06-14T14:01:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/markets-news/BayStreet.ca/17709421/five-of-the-best-artificial-intelligence-stocks-for-the-second-half-of-2023/"
+  - title: "Tech-Stock Boom Pits AI Against the Fed"
+    excerpt: "Investors can’t agree on whether the rally looks like a repeat of 1999 or the start of something bigger."
+    publishedDateTime: 2023-06-19T05:00:00Z
+    webUrl: "https://www.wsj.com/articles/tech-stock-boom-pits-ai-against-the-fed-6ac93965"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 17
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-802215/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "2ZL12UrARG7dJgrcuJJx7H0tsw0H07V3oEwRX7It7Mhn4o+HbU/Y21pdmqo/6E8GpSklIqMaS3aNLEoV6Rg3EoZzU4gvBOHEIiIuWfjbbQnHRyuPjnCdry6TxDfCFow/V+d1SaRwMSH+gN6EahbrVI4BZZ89hC38wAnBy2mRPLbwV1YTfSfCniKi2ZJxheMO80RnI6RosC8Eykkj4YV8KIOQF88xsAFga8ypYrvNQHKArIHVf7q7HSlcQJw+w4Eyp3bG8jSQWp54kF+gfqNCo71/EBnwkbpi0Mx7FzsXgh7tKtEdmLzUJDIr7OAgScXcXZCfmbEszkLkhfbeuU564cf7emyd1DEBq3wRU81qYXjMVOqYAqiJuRpX+wrmYkk5RI+8OhVRfj6K5qgb+XBPgxZE8alw57cCNvn8272ifKdO7xZO2neNbDv8Jzd7hVvWWSw3iG570HwMWgCDui3NZpl3WaXHNvCg1fqkcPRyGTmH+5OtR96wtr1ZSQEPiAazzFzpj3bjtXIm+ju1SdXDqA==;R+sl6lluna4rdnw+ju9NcA=="
 ---

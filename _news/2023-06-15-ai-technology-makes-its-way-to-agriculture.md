@@ -35,15 +35,6 @@ related:
         width: 983
         height: 655
         isCached: true
-  - title: "Generative AI Will Change The Future Of Technology Organizations"
-    excerpt: "Now, with the acceleration wrought by generative AI and other emerging technologies tech leaders must build long-term strategies to address the growing demands."
-    publishedDateTime: 2023-06-14T13:17:00Z
-    webUrl: "https://www.forbes.com/sites/forrester/2023/06/14/generative-ai-will-change-the-future-of-technology-organizations/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "City brings in AI technology to deter crime in parking lots"
     excerpt: "NoiseVu was founded in Albuquerque. This new artificial technology is an audio security system that is always on, providing real-time alerts."
     publishedDateTime: 2023-06-15T05:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 154
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "EU moves closer to passing one of world’s first laws governing AI"
-    excerpt: "Bloc hopes to set global standard for technology – including ban on police use of live facial recognition technology in public places"
-    publishedDateTime: 2023-06-14T13:14:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai?trk=public_post_comment-text"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/eu-moves-closer-to-passing-one-of-worlds-first-laws-governing-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/45841538e1aeae6c32c2c831ac875b5528ec564a/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=9b617722c7d6c86a671130539aea4b6a"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Battle over facial recognition as EU makes groundbreaking AI law"
     excerpt: "Israeli authorities have put in place facial recognition to surveil Palestinians in occupied East Jerusalem, says Amnesty International, which also says products made in the EU have been used in China for the surveillance of Uighurs and other minorities."
     publishedDateTime: 2023-06-15T04:00:00Z
@@ -121,15 +105,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "AI Act could kill plans to introduce facial recognition technology for gardaí - Irish Council for Civil Liberties"
-    excerpt: "Plans to introduce facial recognition technology (FRT) for use by the gardaí could be dead in the water with the passing on a vote in the European Parliament of the landmark AI A"
-    publishedDateTime: 2023-06-14T13:05:00Z
-    webUrl: "https://www.businesspost.ie/tech/ai-act-could-kill-plans-to-introduce-facial-recognition-technology-for-gardai-irish-council-for-ci/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 13
 
 secured: "ptAyVf0ByVltL6za9KgSEebjREYSUgCShfb2RpjqvnWfy+1CjYitRfwSVJyOKWg4UWf2kRTpOlAo6Sj+bLFO1+j5rnuffZD2HgF6gDceidsJvU8z/9F5nZqoUF+jqGdBxsEf4bQ43TYuRVuw1ZWh4616qlMR/9sGLPKsIn5w3BGpYCA++W4Vd3x1pvGlvGbPefG8sW4fkFEInd0pyMzP7+nsfT1ZW+1A1TxUBHUwCmg34jxfG5XUjY5GbUxo3bXNOSARE93eWkDsmXjJzLsAfmDNe8RYHO9MV/mVciZfKqslzUPiqma6VC3ifW7nualwYljUPOKbu276Rl+/bKznEla9X0TTcS3WI6FZI68raM6jY/txrAfAuCeez/RII9XhyihCT7yC6SnSL8oOCC2LRwwBdHkDYgVTlPPbxqkIVfyaDt5KP8Am2b42aJMaJ9JkwkpOX+Eg/ckqxxhC/vYsMrNJCuLpgSu0RtzPRBwpHp1V73lOwgJrlcgcm/8QvvRFnjeKgNQ1J4Tj9+KEtNdMfw==;wXcVjWBN2nhB1StZ2ikDjA=="
 ---

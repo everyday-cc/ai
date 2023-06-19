@@ -7,7 +7,7 @@ originalUrl: "https://www.devdiscourse.com/article/science-environment/2488412-r
 webUrl: "https://www.devdiscourse.com/article/science-environment/2488412-researchers-discover-device-that-mimics-human-vision-memory-abilities"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 920
     height: 690
     isCached: true
-
-related:
-  - title: "Tiny device mimics human vision and memory abilities"
-    excerpt: "Researchers have created a small device that \"sees\" and creates memories in a similar way to humans, in a promising step towards one day having applications that can make rapid, complex decisions such as in self-driving cars."
-    publishedDateTime: 2023-06-14T14:00:00Z
-    webUrl: "https://techxplore.com/news/2023-06-tiny-device-mimics-human-vision.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-tiny-device-mimics-human-vision.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-tiny-device-mimics-human-vision.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/tiny-device-mimics-hum-1.jpg"
-        width: 2880
-        height: 3840
-        isCached: true
 
 secured: "eRBSjJx6/FHqfs8kmT6d64Obs+Z/REXbm8eN0sVfwAeAgNRgQJTb36tsMDvzkgkT1UZ434a03fyhhmHUhXWFGeVnudpg7Nk09sRPN6wLNZ6qMdBtOFliQbsjkhMq7UpajSqq7Ikkq40RhIU9wjyqyldRd82oKyn5H/J735bvM7Hq6doxpW903UKQhrh7CaqZBpcNLk+fSPfm+y0/5hsq68MDZ4HNO1uqNBEzSukEJV6NEstiruoo1mFnynbu8qBnTVT8w4BjMSd1YlLAaT87r23VSMRSba9Su9ufM7pz2V3vQNZdFp+LStIPTtojxTKVDlyymJu2PZFk4EwnMWFi/H02feiaVdFsrFBW/TOKhNdVIhjZne7ooqk2Pl1NSRbF0/tD9yj7FvuPp7UdIs1Fi1NlYI7IW6nlQwspoIycPi63D+hYQXT7NVFPAz1skT51I9oASyCni4Ju+clBmMj/dvN5KSXhcona7Y8etjTfHeTgPqssEYr6bJ3FUuA1G+eRRhGPdPgWiwqX3ZsPBGCniQ==;bDWdmdxWcKHh/p/2lPu6+A=="
 ---
