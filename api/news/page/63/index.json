@@ -2,6 +2,187 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-05-09-ai-bots-like-chatgpt-are-being-censored-but-i-think-that-could-be-a-good-thing.md",
+      "title": "AI bots like ChatGPT are being censored - but I think that could be a good thing",
+      "excerpt": "I was immensely disappointed to see that Microsoft laid off its entire AI ethics team earlier this year. As a pioneer in the AI space, committing to AI in a number of ways, Microsoft should be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/opinion/ai-bots-like-chatgpt-are-being-censored-but-i-think-that-could-be-a-good-thing",
+      "originalUrl": "https://www.techradar.com/opinion/ai-bots-like-chatgpt-are-being-censored-but-i-think-that-could-be-a-good-thing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/inbHpFycZt8CF9SN5Qdn8f-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-consilient-inc-and-harex-infotech-partner-to-fight-financial-crime-in-south-korea.md",
+      "title": "Consilient Inc. and Harex InfoTech Partner to Fight Financial Crime in South Korea",
+      "excerpt": "Consilient, a fintech innovator aiming to transform financial crime compliance, announced it has partnered with Harex InfoTech, Inc.to transform the fight against financial crime in South Korea. The current technologies and methods for protecting the financial system are outdated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/operations/consilient-inc-and-harex-infotech-partner-to-fight-financial-crime-in-south-korea",
+      "originalUrl": "https://www.darkreading.com/operations/consilient-inc-and-harex-infotech-partner-to-fight-financial-crime-in-south-korea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ai-ethics-for-ad-professionals-10-rules-of-engagement.md",
+      "title": "AI ethics for ad professionals: 10 rules of engagement",
+      "excerpt": "Advertising professionals need guidelines for AI ethics. Here are 10 rules for engagement with artificial intelligence tools at work.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-ethics-for-ad-professionals-10-rules-of-engagement/",
+      "originalUrl": "https://venturebeat.com/ai/ai-ethics-for-ad-professionals-10-rules-of-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/08/TV-advertising.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 869,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-ethics-for-ad-professionals-10-rules-of-engagement/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-ethics-for-ad-professionals-10-rules-of-engagement/amp/",
+      "publishedDateTime": "2023-05-08T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-study-presents-large-brain-like-neural-networks-for-ai.md",
+      "title": "Study presents large brain-like neural networks for AI",
+      "excerpt": "In a new study in Nature Machine Intelligence, researchers Bojian Yin and Sander Bohté from the HBP partner Dutch National Research Institute for Mathematics and Computer Science (CWI) demonstrate a significant step towards artificial intelligence that can be used in local devices like smartphones and in VR-like applications,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.html",
+      "originalUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/human-brain-project-st.jpg",
+          "width": 1345,
+          "height": 1105,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp",
+      "publishedDateTime": "2023-05-08T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-ai-and-predictive-analytics-moving-from-insights-to-foresight.md",
       "title": "AI And Predictive Analytics: Moving From Insights To Foresight",
       "excerpt": "Given how much AI dominates today's technology conversations, many businesses feel the competitive pressure to jump on AI and analytics opportunities.",
@@ -1019,186 +1200,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity.md",
-      "title": "For Artificial Intelligence to Really Work, The Military Will Need Better Connectivity",
-      "excerpt": "While talking with CENTCOM’s chief technology officer, Schuyler Moore, I opined that in a peer fight the U.S. military’s data and communications networks may not hold up for even 24 hours. She waited a beat before saying,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/",
-      "originalUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64554c059234b64d096396dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/amp/",
-      "publishedDateTime": "2023-05-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-the-risks-and-limitations-of-ai-in-insurance.md",
-      "title": "The risks and limitations of AI in insurance",
-      "excerpt": "After examining the world of opportunities between AI and the insurance industry, it's time to investigate the risks of AI and how to adopt AI responsibly.\nThe post The risks and limitations of AI in insurance appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
-      "originalUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-question-for-your-doctor-artificial-intelligence-can-help.md",
-      "title": "Question for your doctor? Artificial intelligence can help.",
-      "excerpt": "Health systems are turning to artificial intelligence to solve a ... Physicians at three different health care systems across the U.S. are testing a \"generative\" AI tool based on ChatGPT that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-ai-health-care-patient-messages/",
-      "originalUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-ai-health-care-patient-messages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/04/a9c028de-10e6-4e49-a641-fc68a0e582a0/thumbnail/1200x630/d83cbdd087d5055ecf6f045276983232/gettyimages-1256204443.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/chatgpt-artificial-intelligence-ai-health-care-patient-messages/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chatgpt-artificial-intelligence-ai-health-care-patient-messages/",
-      "publishedDateTime": "2023-05-08T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae.md",
-      "title": "Saudi Arabia’s AI powerhouse, Mozn announces GCC expansion as it launches into the UAE",
-      "excerpt": "Regional AI leader to bring AML and Anti-Fraud capabilities to financial institutions across the Emirates, GCC, boosting their compliance journeys and accelerating economic progress",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MzAzODlmNjktYWQ5MS00/0/mozn1-jpg.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx?amp=1",
-      "publishedDateTime": "2023-05-08T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

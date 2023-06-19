@@ -53,6 +53,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 47
+  - title: "Emotional Intelligence Over AI: Learning To Manage EI"
+    excerpt: "\"How well you can implement AI, or any other new digital technology, will depend on your company’s emotional intelligence.\""
+    publishedDateTime: 2023-06-19T19:43:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/19/emotional-intelligence-over-ai-learning-to-manage-ei/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "GVUXEIffbDGHh+iwmnU+8LxvZFQhvdTGZVAcKbyjYfMjgdHcfdieF1uf+xuXt9YhRQymIERp6zHL1tXb77NGQdPc2Yt05wztnZhNVN/XHzCu3VHvi1+svH/1LqhTjAatO40dOJsha94wd3KSK90upF5NaPyXUkDJTyPiir8e0jc/XxZHklYB9iaz59i6XBpD16wv52KugdTNJoJsTm9BE/2v8lozZbZQEXl3v/YUxd1vDt4xnHaJdtPfzYE6MXMVBTdEPU7b3WZfOVASXv2ExQECfa1CVv2yoYXTvyPihDqJwOL9GXIVSIB3bova7vyTJlXFt3oPFUPatYCX97qBBuCL0Dw8fioQ52cYdNu0gCVl/4gwSKDqaWrSmgl4xUnqDhfuCNIZjE5FibaBtxPlNf8FPM7e59lw/L8zDwJRTpPR7HKpaq9h7wy4e7/LSRfEHbJkO5GgsWIOg3aFtJ0BE8ai+BIT88JSowyfFGTbEjoVjaudiFRp4m98xXWRyRdrCLeMM62tiTGQ3buUMmFmWQ==;IYq6GBFEqjSc+/Ldolta/A=="
 ---

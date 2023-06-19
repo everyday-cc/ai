@@ -59,6 +59,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Cloud security leader Zscaler bets on generative AI as future of zero trust"
+    excerpt: "Zscaler made new product and service announcements this week reflecting an aggressive growth strategy and intent to monetize generative AI."
+    publishedDateTime: 2023-06-19T19:22:00Z
+    webUrl: "https://venturebeat.com/security/cloud-security-leader-zscaler-bets-on-generative-ai-as-future-of-zero-trust/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Tribe AI’s CEO on why generative AI is seeing more rapid uptake by enterprises than web3 and crypto"
     excerpt: "The second one is continued specialization. AI is not a monolith, it’s not one thing. We’re seeing people start to specialize and focus and go deep on a specific use case or a specific industry. That’s where you’re going to see the most value ..."
     publishedDateTime: 2023-06-16T17:40:00Z

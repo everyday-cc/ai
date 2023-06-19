@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-m
 webUrl: "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-makes-anyone-speak-a-foreign-language/"
 type: article
 quality: 69
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta unveils Voicebox AI to replicate the voices of your friends and loved ones"
+    excerpt: "The technology breakthrough was announced via a published paper. Though it's not widely available, you can listen to demos."
+    publishedDateTime: 2023-06-19T20:50:00Z
+    webUrl: "https://www.zdnet.com/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0f6175641e6f073c41c25e1b3a165e2850ba2138/2023/06/19/d548baf5-4665-48c4-a867-b8e8acee2d6e/gettyimages-1385575023.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta's Voicebox AI Tech Could Give Your Digital Assistant a Familiar Voice"
     excerpt: "Meta teased Voicebox as a way to make virtual assistants sound less robotic or power non-playable characters in the metaverse. But it's not releasing the AI model publicly yet."
     publishedDateTime: 2023-06-17T16:34:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03NM2PpZqwZLg4BMzrhErAj-1.fit_lim.size_1200x630.v1687019297.png"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Zoho to develop large language model for generative AI"
-    excerpt: "An LLM is a deep learning algorithm that can recognise, summarise, translate, predict and generate content based on knowledge gained from massive datasets."
-    publishedDateTime: 2023-06-15T02:43:00Z
-    webUrl: "https://www.newindianexpress.com/cities/chennai/2023/jun/15/zoho-to-develop-large-language-model-for-generative-ai-2585145.html"
-    ampWebUrl: "https://www.newindianexpress.com/cities/chennai/2023/jun/15/zoho-to-develop-large-language-model-for-generative-ai-2585145.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2023/jun/15/zoho-to-develop-large-language-model-for-generative-ai-2585145.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/4/7/w600X390/declare_AI.jpg"
-        width: 600
-        height: 390
         isCached: true
   - title: "Meta announces Voicebox, a generative model for multiple voice synthesis tasks"
     excerpt: "One of the interesting applications of Voicebox is voice sampling. The model can generate various speech samples from a single text sequence."

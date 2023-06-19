@@ -66,6 +66,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Cloud security leader Zscaler bets on generative AI as future of zero trust"
+    excerpt: "Zscaler made new product and service announcements this week reflecting an aggressive growth strategy and intent to monetize generative AI."
+    publishedDateTime: 2023-06-19T19:22:00Z
+    webUrl: "https://venturebeat.com/security/cloud-security-leader-zscaler-bets-on-generative-ai-as-future-of-zero-trust/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
     excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
     publishedDateTime: 2023-06-19T13:00:00Z

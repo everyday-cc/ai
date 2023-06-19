@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla’s “Self-Driving” System Never Should Have Been Allowed on the Road"
-    excerpt: "The French government is attempting to attract foreign industrial investment. Back in 2016, Tesla CEO Elon Musk promised on Twitter that his self-driving technology would allow one of his cars to drive across the country unaided “by next year,” and ..."
-    publishedDateTime: 2023-06-15T01:06:00Z
-    webUrl: "https://prospect.org/justice/06-13-2023-elon-musk-tesla-self-driving-bloodbath/"
-    type: article
-    provider:
-      name: The American Prospect
-      domain: prospect.org
-    quality: 38
-    images:
-      - url: "https://prospect.org/downloads/19755/download/elon-musk%2006142023.png?cb=5871c8e8dd42891a24eb4696e79fbbd4&w=1200"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Xpeng expands self-driving capability to Beijing, eyes wider expansion"
     excerpt: "Chinese electric vehicle maker Xpeng Inc on Thursday expanded its self-driving capability to Beijing as part of the automaker's expanded launch of City NGP (Navigation Guided Pilot) across the mainland."
     publishedDateTime: 2023-06-16T09:07:00Z

@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Dubai's AI & Web 3.0 Campus Aims To Attract Over 500 Companies By 2028"
+    excerpt: "Dubai International Financial Centre (DIFC) on Monday announced it would build the 'Dubai AI & Web 3.0 Campus', the largest cluster of artificial in"
+    publishedDateTime: 2023-06-19T19:22:00Z
+    webUrl: "https://menafn.com/1106456825/Dubais-AI-Web-30-Campus-Aims-To-Attract-Over-500-Companies-By-2028"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-06/19/KT_d6479image_story.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "A bot on the side: is it adultery if you cheat with an AI companion?"
     excerpt: "Some people indulge in erotic role play with their avatar, others just want friendship. But for those with a real-life partner, does this amount to infidelity?"
     publishedDateTime: 2023-06-15T12:28:00Z

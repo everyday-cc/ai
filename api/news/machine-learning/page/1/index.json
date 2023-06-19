@@ -256,7 +256,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -644,6 +644,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-15-ai-and-patents-how-machine-learning-can-help-or-hinder-innovation.md",
+      "title": "AI and patents: How machine learning can help or hinder innovation",
+      "excerpt": "One of the first examples was Lex Machina, software that uses machine learning to comb data sources and provide legal analytics. A Stanford university spinout, it was created by Lemley with George ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b",
+      "originalUrl": "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcba43e1d-6434-4dd2-a6c0-6ba408741944.jpg?source=next-opengraph&fit=scale-down&width=900",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-with-chatgpt-defense-investors-are-learning-to-speak-ai.md",
       "title": "With ChatGPT, Defense Investors Are Learning To Speak AI",
       "excerpt": "With AI exploding into the public consciousness, companies that once struggled to explain their machine-learning, national security tools can operate with the confidence that their value proposition is now more intuitively understood by the both the ...",
@@ -738,6 +782,40 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-propel-growth.md",
+      "title": "Global Neural Network Software Market Report 2023: Rising Demand for Digitalization is Expected to Propel Growth",
+      "excerpt": "This report provides strategists, marketers and senior management with the critical information they need to assess the neural network software market. The global neural network software market is expected to grow from $21.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/14/9833056.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/14/9833056.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1319,84 +1397,6 @@
       "provider": {
         "name": "WRAL TechWire",
         "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-machine-learning-and-data-sciences-for-financial-markets.md",
-      "title": "Machine Learning and Data Sciences for Financial Markets",
-      "excerpt": "Leveraging the research efforts of more than sixty experts in the area, this book reviews cutting-edge practices in machine learning for financial markets. Instead of seeing machine learning as a new field, the authors explore the connection between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/us/universitypress/subjects/mathematics/mathematical-finance/machine-learning-and-data-sciences-financial-markets-guide-contemporary-practices?format=AR",
-      "originalUrl": "https://www.cambridge.org/us/universitypress/subjects/mathematics/mathematical-finance/machine-learning-and-data-sciences-financial-markets-guide-contemporary-practices?format=AR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-ai-terminology-101-how-recurrent-neural-networks-are-revolutionising-ai.md",
-      "title": "AI Terminology 101: How Recurrent Neural Networks Are Revolutionising AI",
-      "excerpt": "Artificial Intelligence (AI) is a broad, exciting field that's continually evolving, making breakthroughs, and impacting our lives in myriad ways. One of the fascinating aspects of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/05/ai-terminology-101-unraveling-recurrent-neural-networks&sa=U",
-      "originalUrl": "https://yourstory.com/2023/05/ai-terminology-101-unraveling-recurrent-neural-networks&sa=U",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/28b45140-2d6a-11e9-aa97-9329348d4c3e/Jugaad_3_-_feature1565154893495.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -52,6 +52,15 @@ related:
         width: 1366
         height: 910
         isCached: true
+  - title: "Emotional Intelligence Over AI: Learning To Manage EI"
+    excerpt: "\"How well you can implement AI, or any other new digital technology, will depend on your company’s emotional intelligence.\""
+    publishedDateTime: 2023-06-19T19:43:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/19/emotional-intelligence-over-ai-learning-to-manage-ei/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "YeEv1Vd1VFXvZFpJ7SMd8Zfe8qkoAkXcg3Naizcr8C9jmquA8YINY4WkLJ+SrKQ+8xuevBEmxtG/enWO6zMOl/Mo8qx9JTWb68sODqouDoEQnSk3a6OFCRPnfDPmRSWEdmyhFkUIwZ2V4xaH9ngw6cUZIkdkShlfSnoqU4+7dZeL+eDKj4AylkefMcsXLyd38YqpN3jt9sXbbYo5ueITthkZ+GEGdP8iA6XtQN/h94VQ8qRvCxlxOL9uRJnA57WX4/8WmpAiXVUfhvoIeZc4XOnDHdR8k6XYDdMABv6/5oJZr1BflDlSxo7SF9BcR9XhIQqJazRRWt0nR6VyrjpbfoFsIlB6ThgghDR6my4ZTbBTxECmCDwDVZoKo5HyVTa7zRAzsHKLGFn/kAk3h9wxi+0niF9hGCHZpAIg5jrv9ockqx0oefxjFwJ+2ClODYbdJhqMheYcg/8wESqfYxqs7Zj4xxxWMaZ2pln3jdg/pmFeNZS7H9hhfJUKvppagX7yM17P92HvqI9Ij7qJmBQ07w==;8BMEg2sJ1ehT6MzDMe0FbQ=="
 ---

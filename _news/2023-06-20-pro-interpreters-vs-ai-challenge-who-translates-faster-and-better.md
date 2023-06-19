@@ -6,9 +6,9 @@ publishedDateTime: 2023-06-19T17:03:00Z
 originalUrl: "https://www.wired.com/video/watch/pro-interpreters-vs-ai-who-translates-faster-and-better"
 webUrl: "https://www.wired.com/video/watch/pro-interpreters-vs-ai-who-translates-faster-and-better"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: Wired
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1686933411/wired_pro-interpreters-vs-ai-who-translates-faster-and-better.jpg"
@@ -27,6 +28,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "fhGRyWHzRCw8aEflck0vgsN7ldAJA1JAf6wBn1qI8fMs/ij+YslomwMjxFbpoo5QFxPfNy6uVyZJpktN3YuBsCEgoBSxNiqU/Z0RaIAFhdB7N4Xv+Ui2eZ42yGn+U2Bag6IqXytDBAhcsnR/VmqizE1qDG86C9fQX4rbVxbAaGZ1rBp3pAFjuTylUcPAXJH81ZZuoV4oxnGnP13ThCwtl+xy2MenLoEu2jXvYdnIMuSOpqH5VLeyLLkWomvYcSY3MyDo9UmKzPBAmsqXoW2Hb2Vtf5x+AFfZIr6v/tu5cWCoVKRv1j8I2Xd4pbyrQxgnzrIW0aGhZmJ779VSM0zhOyJZ4wBDT4jC/7fMPnqnyLc=;PhtAffz0rLUwWk+Y0wibmg=="
+secured: "msf+H6y6o7D3xlVXz2bNSkQJ2EPnjiLla6nKXlIOtic5lLCaIRb2gAfUpA8jhEG/KX2sLGPi1k49Yy3ptXcmnJYcqZQbq1crBRcmG695r0toeUY/FPSSiIm5FA4rCW0dZhDHXjwANjyd4JnikSRHYr4oiUVzpOwk5M1qfLzDeZ44TzBOY6o60USwOf2kykLMtQryWZmNo4apPEKnt4LDJmP3fz7vF/WJcgVnp+jO1AOuA0/eCgU5UiHlOO4z6eD98rGqrmWVmHHCNJBn4arwkO8nK0cH/w3hwSQVH2tYXsA1IVjBO8rCJAZzQzxE01esXMVUdhev4BSWgeBYP+kJoPpNRqzLHljnaEP6LMF0DQZlAemUevjGgZIM2TpMS3Fpzwi9sgsrO38wEafoCSlZoJrPjdwf6RNwux07+6tvjBYQ8tqRIVkpv3b8ErkZGiI+8J9423Fj8pDkoJ3JnvTHygTuM7Dwy9RoZeIxifD0oQWfM/KNayEGpHhwM7XyvIN42an6BGFwXASlD2IekNvecw==;VIgaYRFE9LWpaMfYpsOZ1A=="
 ---
 

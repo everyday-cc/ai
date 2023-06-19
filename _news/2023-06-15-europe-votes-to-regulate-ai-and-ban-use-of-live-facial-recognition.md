@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Battle over facial recognition as EU makes groundbreaking AI law"
-    excerpt: "Israeli authorities have put in place facial recognition to surveil Palestinians in occupied East Jerusalem, says Amnesty International, which also says products made in the EU have been used in China for the surveillance of Uighurs and other minorities."
-    publishedDateTime: 2023-06-15T04:00:00Z
-    webUrl: "https://www.irishtimes.com/world/europe/2023/06/15/battle-over-facial-recognition-as-eu-makes-groundbreaking-ai-law/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 54
-    images:
-      - url: "https://www.irishtimes.com/resizer/N28yYtQ-P22iupGeRH47u30PbJc=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BSCJH3QY3CMOJM7BKW55UXYMM4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Act is ‘serious blow’ to introduction of facial recognition technology for gardaí"
     excerpt: "Plans to introduce facial recognition technology (FRT) for use by the gardaí could be dead in the water with the passing of a vote in the European Parliament of the landmark AI Act, according to the Irish Council for Civil Liberties (ICCL)."
     publishedDateTime: 2023-06-15T21:10:00Z
@@ -84,6 +70,20 @@ related:
       - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=8b42d352-372e-9c24-247f-df37100b66df&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8506&x=0&y=0&width=3416&height=1922"
         width: 3000
         height: 1687
+        isCached: true
+  - title: "US state, Ireland curb police use of facial recognition"
+    excerpt: "The push and pull of law enforcement policy governing biometric surveillance has been tugged at hard by privacy advocates."
+    publishedDateTime: 2023-06-19T20:39:00Z
+    webUrl: "https://www.biometricupdate.com/202306/us-state-ireland-curb-police-use-of-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "hsWmRAknT1FUFBCTJslWcONe8na99yan2bHq5p9x4Gkb6ksxxCUw6YerB/b+UKw+ouzTNYrLJP/imkX43WJpZdT1cSBy7BiE7krGi5H5i+ua8W79Ju6+y6Siy0BQfKx02tAs+cyX7fVPg2+orVdFbv0l05hrM+pnvZe/O1fPuaz0avdqLDlY1cyPTPM5gOU5e/5xMesUtvorMSlkx/7hcS80d+wHztz2mk3CzpRjHKdy0ekvTNDJOPAKG4xufo+4Oipou08o4LbiZgTqdOGAMa04eJbIkegHDZjcYw06XtaimPE6TvxusX3N454wSLPHSLfZhslwHSNvypEvjXQgdkA+OgVTz4aG1ifp5Hi1vmw=;DJbLmyHRcSF75xwNe91uZQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/06/16/morgan-stanley-says-nvidia-is-the-
 webUrl: "https://www.cnbc.com/2023/06/16/morgan-stanley-says-nvidia-is-the-top-pick-for-ai-over-amd.html"
 type: article
 quality: 63
-heat: 103
+heat: 83
 published: true
 
 provider:
@@ -28,36 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip race heats up as AMD unveils rival to Nvidia-world’s most advanced accelerator for GAI"
-    excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with rival chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools. The semiconductor company,"
-    publishedDateTime: 2023-06-15T03:51:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 62
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/06/14/1600x900/AMD-AI--0_1686759502337_1686759560307.JPG"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "AMD’s AI chip challenge to Nvidia remains uphill task"
-    excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know – who plans to buy it."
-    publishedDateTime: 2023-06-15T01:16:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2023/06/15/amds-ai-chip-challenge-to-nvidia-remains-uphill-task"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/15/2126711.jpeg"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "AMD faces path dependency struggle as it challenges Nvidia with MI300X AI GPU"
     excerpt: "Advanced Micro Devices Inc. (AMD) on June 13 revealed its most-advanced GPU for artificial intelligence (AI), the MI300X, trying to get a bigger bite of the pie of the GPU market that has been ..."
     publishedDateTime: 2023-06-15T12:56:00Z

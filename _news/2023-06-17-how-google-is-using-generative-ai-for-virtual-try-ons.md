@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Parallel Domain’s API lets customers use generative AI to build synthetic datasets"
+    excerpt: "Parallel Domain is putting the ability to generate synthetic datasets into the hands of its customers with its new API called Data Lab."
+    publishedDateTime: 2023-06-19T19:55:00Z
+    webUrl: "https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/"
+    ampWebUrl: "https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/Generative-AI.png?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "5 tips for business leaders to leverage the real potential of generative AI"
     excerpt: "It feels like generative AI is everywhere. The explosive launch of advanced chatbots and other generative AI technology, like ChatGPT and others, has commanded the attention of everyone, from consumers to business leaders to the media."
     publishedDateTime: 2023-06-17T15:21:00Z

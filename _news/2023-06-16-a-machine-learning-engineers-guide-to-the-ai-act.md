@@ -46,18 +46,18 @@ related:
         height: 640
         isCached: true
   - title: "The Ghost In The Machine Shouldn’t Be AI"
-    excerpt: "Once upon a time in the 18th century, a fantastic chess-playing machine known as the Mechanical Turk was exhibited around the world, stunning audiences with its ability to beat skilled players and heads of state like Napoleon Bonaparte."
-    publishedDateTime: 2023-06-18T23:16:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/06/19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks/ac97a1e6-0e58-11ee-8d22-5f65b2e2f6ad_story.html"
+    excerpt: "Normally, companies and academics hire MTurk workers because of their ability to do things that computers cannot, like label an image, rate an ad or answer survey questions. Their work is often used to train algorithms to do things like recognize photos or read receipts."
+    publishedDateTime: 2023-06-19T04:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQBHZOQOLAI65DJCL5S3FYXWVU.jpg&w=1440"
-        width: 1440
-        height: 958
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJpQAGLIb6o0/v1/1200x799.jpg"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "2EajvfVIVp7+xXR/HTlEBBbpfvgKNuGgvppvHMwn1cmlMCkD0sBgIDru5gDLClEpFvdI7p3qeKQi/005SLnZlffWps5xFhqpijk+lIbxG8a1se7J6qoCz/e4uMHBayJ+bO0hlUY0RgnBnDSaVUGu2IOFephVPSxV2tDJDvdhlGY1eShJA2HqPPQOiS2NRUtDx2FLQf9199JyZHBcicsyFTCdFjQMeYHWhoguYQYaGD7e7S+N+ZjRAM1yUHZdhMxYIqjBswwHzRFnuRA9Q+emJm8RQN9uBLBmDq3tmceQRwQohWYcDKrzEEbJhxQwH9LPwGFlZCLvHQ7opzTddXLS+4Zsq6EEaszL7thnIqIrFFqAhwYwac4cPwOFPjo5asRYSlEiHEHtsUVu3ZE7RJNPv+y+qQAtt9+wpxjWF6rdLWixA5Oi+6tBDTKNkZvlf9MgpxQ8LLMkgEG2cqUXwq0qBl52N1wpdqIuQHjcajf8x6MigMvdKkbtLcQFwaluNQ8vIHrHRfTWsjAjGv80LEX2Cg==;U+4nj/S07lCvZ7LsHN60mw=="

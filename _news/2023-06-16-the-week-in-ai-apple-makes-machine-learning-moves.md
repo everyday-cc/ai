@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
+    quality: 47
+  - title: "Emotional Intelligence Over AI: Learning To Manage EI"
+    excerpt: "\"How well you can implement AI, or any other new digital technology, will depend on your company’s emotional intelligence.\""
+    publishedDateTime: 2023-06-19T19:43:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/06/19/emotional-intelligence-over-ai-learning-to-manage-ei/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 47
 
 secured: "GkvajgHNffHYXU5Rbd1LsXJjdPOADYrnh5QgpntLcH2ZtWdumwSF5ipbDMFKOc07vyOa2M/l5Y/SfvjgeVrqAx46Lab+/9zurgBALDcX/JFqIBYL8po+Y1ZlT8Q/Aa+hkE3lz62VufVqvwQ46RNUR89hz//B535qX/wljhVxsgiQyz+Sxf+evCCS7ENPxhGN8f0GyQiREhbXelvnihTo6gBTwhY/NTFvN7VIOLa6mv3JAm0vVXFoEUXT8x2/qsRTQD/ZgY+iK3/Aps5PL3gOD1Kh9XZvyck2Go5AAEkUl1bXnpjWJK9ceXbt8OnwNzfDXAyU62IMoJKLYtnV/X90LA8FkDFCwOBhC41EuXPgE3ySAi9uGnzKdsHtGeh3rPbcAnDi+sXGPL0MIBd7LVaPVZRyP4+zcRWQgE8X23MXawKhFQWEYxmbtvdryDxWr0lHwAEXqUg8uzEn6sXofQj9HCjktrqeWmf6nW4BTMz8PrxOlo+Pv22I1fmS5PLTxYrQ2YzcXKzeIKzajaCApnqYYQ==;hO7NXuGsYz6es9vnsJceNg=="

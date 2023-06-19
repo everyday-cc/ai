@@ -7,7 +7,7 @@ originalUrl: "https://www.bangkokpost.com/thailand/pr/2595079/tencent-cloud-reco
 webUrl: "https://www.bangkokpost.com/thailand/pr/2595079/tencent-cloud-recognised-by-gartner®-in-2023-magic-quadrant™-for-cloud-ai-developer-services-for-fourth-consecutive-year"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 700
     height: 467
     isCached: true
-
-related:
-  - title: "Tencent Cloud Recognized by Gartner® in 2023 Magic Quadrant™ for Cloud AI Developer Services for Fourth Consecutive Year"
-    excerpt: "Gartner Inc has published its 2023 Magic Quadrant for Cloud AI Developer Services, where Tencent Cloud has been recognized in this Magic Quadrant for four"
-    publishedDateTime: 2023-06-15T04:00:00Z
-    webUrl: "https://www.asiaone.com/business/tencent-cloud-recognized-gartnerr-2023-magic-quadranttm-cloud-ai-developer-services-fourth"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 14
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/pr-newswire_500_4_903.jpg?h=7de12b8a&itok=uNDH5O_N"
-        width: 600
-        height: 316
-        isCached: true
 
 secured: "0yQf7JDeAqWp1/q7EPIYa7smQAOEor00P4IgQOYBtZaFInHFDZbJbqsHj/NnNzGADwPxm77HABugVzUaOBeTsnejWfKVtOviYkfle2cyX4byf20dcFZXwKV0NM4jEnXbj/Z6sdRa2YjF+auR81XdNdy7WpZZwyaalb81FswYKm2x0R/7Ihn1BPubEXwfm+I9Ly4WJxDs0Mb2LOZhhc8sXtjARvZHhrj6zZEYFhE+HpqMN1dbA0lk+y0sOje0DW/s9ev2aQa6VjWNbnuHuEocgo7azSjOsZd6oBeWADHYGuxctd9s0AKnOJL1OmbHvZ+IGkcgLqbAFrxtD7agPu8JH3Q2a9LMubX0BWMbrF8YF9f3zhp9K1O1Z5YzR5Yte3oFh1P1VaqEooxmIhqojp5n91nRuWmgQCtsZ3AwonC3/mgl/2bWd8v1bioyNBFmj3HYjE7569KziPm0jsQtyYCw8qMbNCKBtFPhcvzMZxZaGm/9uO4ZQT/YBuqr42quyByWmydVkBb5EoPChCHzKK8ZaQ==;TN63nNgglGH+uaozaYqgMw=="
 ---

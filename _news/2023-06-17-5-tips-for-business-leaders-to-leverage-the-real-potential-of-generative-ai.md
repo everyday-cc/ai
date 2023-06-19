@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Parallel Domain’s API lets customers use generative AI to build synthetic datasets"
+    excerpt: "Parallel Domain is putting the ability to generate synthetic datasets into the hands of its customers with its new API called Data Lab."
+    publishedDateTime: 2023-06-19T19:55:00Z
+    webUrl: "https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/"
+    ampWebUrl: "https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/Generative-AI.png?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Adobe Proves Its Determination To Lead The New Era Of Generative AI"
     excerpt: "When it comes to Azure, Microsoft is facing the same dilemma because Amazon.com Inc AMZN has a much bigger representative on this front, Amazon Web Services. Amazon also launched its own platform that allows building and scaling generative AI services ..."
     publishedDateTime: 2023-06-16T14:52:00Z

@@ -2,6 +2,85 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-17-future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision.md",
+      "title": "Future of AI in e-commerce: Transforming data with ML and computer vision",
+      "excerpt": "While a lot has been discussedin areas of face recognition, graphical capabilities, some of the following use cases in e-Commerce can greatly benefit from computer vision, image processing. As a customer you want to know the best offers on your favourite ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
+      "originalUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
+      "publishedDateTime": "2023-05-16T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-new-survey-finds-financial-leaders-investing-in-analytics-ai-and-machine-learning-tools-as-they-navigate-economic-uncertainty-in-2023.md",
+      "title": "New survey finds financial leaders investing in analytics, AI and machine learning tools as they navigate economic uncertainty in 2023",
+      "excerpt": "OneStream Software, the provider of corporate performance management (CPM) solutions for the world’s leading enterprises, published its Enterprise Financial Decision-Makers Outlook – April 2023 semi-annual survey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsit.com/articles/2023/05/16/new-survey-finds-financial-leaders-investing-in-analytics,-ai-and-machine-learning-tools-as-they-navigate-economic-uncertainty-in-2023",
+      "originalUrl": "https://www.logisticsit.com/articles/2023/05/16/new-survey-finds-financial-leaders-investing-in-analytics,-ai-and-machine-learning-tools-as-they-navigate-economic-uncertainty-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.logisticsit.com/assets/image-cache/files/images/18_05_23/bigstock-human-chat-with-ai-ai-chatbot-471415907.7fa9aa46.jpg",
+          "width": 650,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing & Logistics IT Magazine",
+        "domain": "logisticsit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-to-make-ai-work-for-national-security-invest-in-humans-too.md",
       "title": "To make AI work for national security, invest in humans too",
       "excerpt": "Artificial intelligence is rapidly developing across the globe. The United States needs human-centered artificial intelligence for national security. However, it also needs AI-centered humans.",
@@ -1368,93 +1447,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-machine-learning-as-a-service-mlaas-market-2023-insightsamazon-oracle-ibm-microsoftn.md",
-      "title": "Machine Learning as a Service (MLaaS) Market 2023 InsightsAmazon, Oracle, IBM, Microsoftn",
-      "excerpt": "Global Machine Learning as a Service (MLaaS) Market Research Report 2023 begins with an overview of the Market and offers throughout development. It presents a comprehensive analysis of all the regional and major player segments that gives closer insights upon present market conditions and future market opportunities along with drivers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-insightsamazon-oracle-ibm-microsoftn-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-insightsamazon-oracle-ibm-microsoftn-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-new-survey-finds-financial-leaders-investing-in-analytics-ai-and-machine-learning-tools-as-they-navigate-economic-uncertainty-in-2023.md",
-      "title": "New Survey Finds Financial Leaders Investing in Analytics, AI and Machine Learning Tools as They Navigate Economic Uncertainty in 2023",
-      "excerpt": "OneStream unleashes organizational value by unifying data management, financial close and consolidation, planning, reporting, analytics and machine learning. We empower Finance and Operations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230504005722/en/New-Survey-Finds-Financial-Leaders-Investing-in-Analytics-AI-and-Machine-Learning-Tools-as-They-Navigate-Economic-Uncertainty-in-2023/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230504005722/en/New-Survey-Finds-Financial-Leaders-Investing-in-Analytics-AI-and-Machine-Learning-Tools-as-They-Navigate-Economic-Uncertainty-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

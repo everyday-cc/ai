@@ -36,20 +36,6 @@ related:
         width: 966
         height: 590
         isCached: true
-  - title: "Chinese AI Giant SenseTime Unveils USD559 Robot That Can Play Chinese Board Game Go"
-    excerpt: "SenseTime Group, a leading Chinese developer of artificial intelligence software, has unveiled a USD3,999 (USD559) AI-powered robot that can play Chinese board game Go. SenseRobot uses robotic arms to play Go against people on a real board,"
-    publishedDateTime: 2023-06-15T04:03:00Z
-    webUrl: "https://www.yicaiglobal.com/news/20230615-01-chinese-ai-giant-sensetime-unveils-usd559-robot-that-can-play-chinese-board-game-go"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 48
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/06/25395306234565.jpg"
-        width: 770
-        height: 510
-        isCached: true
   - title: "SenseTime reveals AI-powered board game robot"
     excerpt: "SenseTime has launched a robot that can play the ancient strategy board game Go, as it continues to seek revenue from consumers."
     publishedDateTime: 2023-06-17T13:04:00Z

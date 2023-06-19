@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta unveils Voicebox AI to replicate the voices of your friends and loved ones"
+    excerpt: "The technology breakthrough was announced via a published paper. Though it's not widely available, you can listen to demos."
+    publishedDateTime: 2023-06-19T20:50:00Z
+    webUrl: "https://www.zdnet.com/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0f6175641e6f073c41c25e1b3a165e2850ba2138/2023/06/19/d548baf5-4665-48c4-a867-b8e8acee2d6e/gettyimages-1385575023.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta's Voicebox Generative AI Makes Anyone Speak a Foreign Language"
     excerpt: "Meta says Voicebox can be used to give a natural-sounding voice to virtual assistants or non-player characters in the metaverse, which are digital worlds in which people will gather to work, play and hang out. It could also be used by visually impaired people to hear messages read by the voices of their friends."
     publishedDateTime: 2023-06-16T21:02:00Z
@@ -41,22 +57,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/0715307a68876c2264d2924f9491eec206a9622f/hub/2022/04/15/27e03c86-200d-44d3-a570-673e0b1427f7/meta-logo-2022-425.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Zoho to develop large language model for generative AI"
-    excerpt: "An LLM is a deep learning algorithm that can recognise, summarise, translate, predict and generate content based on knowledge gained from massive datasets."
-    publishedDateTime: 2023-06-15T02:43:00Z
-    webUrl: "https://www.newindianexpress.com/cities/chennai/2023/jun/15/zoho-to-develop-large-language-model-for-generative-ai-2585145.html"
-    ampWebUrl: "https://www.newindianexpress.com/cities/chennai/2023/jun/15/zoho-to-develop-large-language-model-for-generative-ai-2585145.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2023/jun/15/zoho-to-develop-large-language-model-for-generative-ai-2585145.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/4/7/w600X390/declare_AI.jpg"
-        width: 600
-        height: 390
         isCached: true
   - title: "Meta announces Voicebox, a generative model for multiple voice synthesis tasks"
     excerpt: "One of the interesting applications of Voicebox is voice sampling. The model can generate various speech samples from a single text sequence."

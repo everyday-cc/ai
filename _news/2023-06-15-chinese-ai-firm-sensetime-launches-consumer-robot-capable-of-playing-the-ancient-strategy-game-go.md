@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/06/15/chinese-ai-firm-sensetime-la
 webUrl: "https://www.gizmochina.com/2023/06/15/chinese-ai-firm-sensetime-launches-consumer-robot-capable-of-playing-the-ancient-strategy-game-go/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI Giant SenseTime Unveils USD559 Robot That Can Play Chinese Board Game Go"
-    excerpt: "SenseTime Group, a leading Chinese developer of artificial intelligence software, has unveiled a USD3,999 (USD559) AI-powered robot that can play Chinese board game Go. SenseRobot uses robotic arms to play Go against people on a real board,"
-    publishedDateTime: 2023-06-15T04:03:00Z
-    webUrl: "https://www.yicaiglobal.com/news/20230615-01-chinese-ai-giant-sensetime-unveils-usd559-robot-that-can-play-chinese-board-game-go"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 48
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/06/25395306234565.jpg"
-        width: 770
-        height: 510
-        isCached: true
   - title: "U.S. Grapples With Potential Threats From Chinese AI"
     excerpt: "Defining risky artificial intelligence poses a challenge as Washington moves to curb investment in Chinese tech and Secretary of State Antony Blinken visits Beijing this weekend."
     publishedDateTime: 2023-06-16T12:45:00Z

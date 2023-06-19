@@ -45,20 +45,20 @@ related:
         height: 798
         isCached: true
   - title: "The Ghost In The Machine Shouldn’t Be AI"
-    excerpt: "Once upon a time in the 18th century, a fantastic chess-playing machine known as the Mechanical Turk was exhibited around the world, stunning audiences with its ability to beat skilled players and heads of state like Napoleon Bonaparte."
-    publishedDateTime: 2023-06-18T23:16:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/06/19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks/ac97a1e6-0e58-11ee-8d22-5f65b2e2f6ad_story.html"
+    excerpt: "Normally, companies and academics hire MTurk workers because of their ability to do things that computers cannot, like label an image, rate an ad or answer survey questions. Their work is often used to train algorithms to do things like recognize photos or read receipts."
+    publishedDateTime: 2023-06-19T04:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQBHZOQOLAI65DJCL5S3FYXWVU.jpg&w=1440"
-        width: 1440
-        height: 958
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJpQAGLIb6o0/v1/1200x799.jpg"
+        width: 1200
+        height: 799
         isCached: true
 
-secured: "X5ZGXi1zdrDWUQuMyM73Lwu4ByCOyc7vXT4gJquyWJeGuthLicVdsfxUrKHQuuYeXWg4u9wnCbO9K9IGtS2Je661mlwPl6qM1n9yf6rrx0bG4ew8kzBDAbydIAPB7oxOm4A/q5RsV9L6TIcuEcBypeh6k6xRTotRQRLtGa6Z28oxNORNTIfi4Oe+DWqeNIOCaXX/LUzn4nVJbyPlFgxrn3WjdBMU0T9B4u/qvwRUIuG3GMvTQl3EJ7qSqtAHFFeaROOe6B8Qtt911ANVgd0TFiXaQOP3t7SFg0Ea8YLtIE3Y39ZfoDwGBWTbq0+jF9OdtafGfyP/Xp/7rdwk4JLmMrrVkNXG8lgKoieTnDrhdq8=;SV2s95SwPY29y2ZUzAQ0Jw=="
+secured: "skek9dcehbEr6+HQJOolCYx2lubCX7izTX0O9N5uxzhy1scFJWrZt+d61aYK5az6KqbEiPgCdWKhdSaXwK7UHQrOAzDeLbcovVeDgUEpfGIJoktYx+zGnNj/FEbnrkKu2Z+xv8kGnasI1f9ChCCI7nrvlN+e9Z3Y9+P6Xj7hlzfV6d2Z/JPFvSh3/9SDlzujROMAvHTi/T/quoNGtryQUgoPBAftaqpTGGB/aTDmzuC8fmqXxJl4jA7uRaB9YsAdiaYltobOun/gJ/w9Be82/+D+vrg1mJeC2o4/rSWaJuU5WV/fja38bnapOpqpMumcFAwo/coPbNEnhX6JRrYT9kFTcrm8bhJLVqIKuKG/Ct7KwBNlUc/e0ZvB7gDX9xT5FUSSka9z38l2POEC8PrFUHjeqtr2wiTR4jukFw3QRAchhNAva6QluIZeFmiqO5i2YLf49ubg2TMVYxeSjaz0BTxAJQN2d3a+IB/07PI3QemPkNmlWd5VIph/pKH7BScywtpzkwfdF+lI1xqJwj8DNw==;qZ+ftjHBNpde4+U/IHzEOQ=="
 ---
 
