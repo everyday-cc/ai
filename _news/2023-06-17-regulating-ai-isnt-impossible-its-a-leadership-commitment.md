@@ -83,6 +83,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Western offers new course on the intersection of artificial intelligence and writing"
+    excerpt: "KALAMAZOO, Mich.—As the world of technology continues to evolve at an unprecedented pace, Western Michigan University is at the forefront of innovation bringing together artificial intelligence (AI) and the art of writing. “One of the key aspects of ..."
+    publishedDateTime: 2023-06-19T14:42:00Z
+    webUrl: "https://wmich.edu/news/2023/06/71959"
+    type: article
+    provider:
+      name: Western Michigan University
+      domain: wmich.edu
+    quality: 30
+    images:
+      - url: "https://wmich.edu/sites/default/files/styles/1200x628/public/images/news/2023/06/MSB09517.jpg?itok=9Zym4SlD"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "K9U8kD4wIcYRJ/hcsumsmadBaKKuZRRsQwqMjISQiRG+yi6N3IPZFLhEoCqSggk/xcwo5EwKDGtR8+E0DTxmfx591/CIpWiomlnsyonMQhpBKEpaoq/uA/xm7AZlsgMVI/1FoeGoECxK00Gu/eRdCqS2RXp/ScVVoqwHZG8aaI7yNEjPQdbcWBrWwGocuFr4C1v9gN1/ir/ooSFJrMfExcNGh9VAliuHogpvH+YqCSudzr9nT1e/sNAY5TzUJYpXlYJKuKEvHWCRAgzrbW5XLOyeuppkjYlOFb3aW+e7HqfnNka+p892kuz+BFvXgmOF5YdnrD5KfKwbVktP7NnsTLp+TrTn3cYP2ScZ+P+/6sZ+m6sHX1HzFYu4LUTevf20OPGIku8JD11pHqw10P7BXy2BZQasyFl1vRzz4IZlxpIL311lX+XhJumEhAR6Wn4i9bsEZNH1RiZ3qj+9/XJtz0po5lEajHiP7fuaUWzz+TvrY0bkK/TPMZx/fZ5DEwY/s/ChHAELHq1HqbdmEkEqKg==;fYY3bZYWlwM4858vE7ncDg=="
 ---

@@ -93,20 +93,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
-    excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
-    publishedDateTime: 2023-06-15T00:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/268769"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 19
-    images:
-      - url: "https://www.ryt9.com/img/files/20230615/iq0bcdd89128e4fef2b7a15c540eccde2a.jpg"
-        width: 565
-        height: 470
-        isCached: true
   - title: "The Future is Hybrid: Financial Services, the Fintech Industry, and Data Centers"
     excerpt: "In today's digital landscape, fintech has revolutionized the financial services industry, with seamless and convenient ways to manage finances. To achieve this, Fintech companies generate vast amounts of data,"
     publishedDateTime: 2023-06-16T10:59:00Z

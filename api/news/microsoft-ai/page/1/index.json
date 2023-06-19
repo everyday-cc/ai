@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-19-microsoft-claims-azure-outlook-june-outages-due-to-ddos-attacks.md",
-      "title": "Microsoft claims Azure, Outlook June outages due to DDoS attacks",
-      "excerpt": "Software giant Microsoft claims outages to its Outlook, OneDrive and Azure services earlier this month were due to distributed denial of service attacks staged by a group it calls Storm-1359. In a blog post on Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/business-it-news/security/microsoft-claims-azure,-outlook-june-outages-due-to-ddos-attacks.html",
-      "originalUrl": "https://itwire.com/business-it-news/security/microsoft-claims-azure,-outlook-june-outages-due-to-ddos-attacks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/17e9d7c204305520f52f5304ac685b8a_M.jpg",
-          "width": 375,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-17-datas-destiny-former-microsoft-and-snowflake-exec-bob-muglia-on-the-future-of-ai-and-humanity.md",
       "title": "Data’s destiny: Former Microsoft and Snowflake exec Bob Muglia on the future of AI and humanity",
       "excerpt": "This week: the origins of data, and the future of the digital species. Our guest on the GeekWire Podcast is business and tech leader Bob Muglia, a startup investor and… Read More",
@@ -97,27 +54,45 @@
       ]
     },
     {
-      "path": "_news/2023-06-17-viettel-microsoft-vietnam-improve-ai-application-capability.md",
-      "title": "Viettel, Microsoft Vietnam improve AI application capability",
-      "excerpt": "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,",
+      "path": "_news/2023-06-16-microsofts-stock-rallies-to-record-close-as-more-analysts-see-ai-leadership.md",
+      "title": "Microsoft’s stock rallies to record close as more analysts see AI leadership",
+      "excerpt": "A previous version of this article incorrectly stated Microsoft’s previous closing record price. It has been corrected. Microsoft Corp. shares rallied Thursday for a sixth consecutive day of gains and closed at a record high as investors focused more on the tech giant’s artificial-intelligence roadmap and less on the stalled $69 billion acquisition of videogame publisher Activision Blizzard Inc.",
       "sourceUrl": null,
-      "webUrl": "https://english.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov",
-      "originalUrl": "https://english.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov",
+      "webUrl": "https://www.marketwatch.com/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641",
+      "originalUrl": "https://www.marketwatch.com/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 211,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-801260/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page=",
-      "cdnAmpWebUrl": "https://amp-vov-vn.cdn.ampproject.org/c/s/amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page=",
-      "publishedDateTime": "2023-06-16T20:35:00-07:00",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641",
+      "publishedDateTime": "2023-06-16T05:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VOV Online",
-        "domain": "english.vov.vn",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -647,8 +622,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?60063",
-          "width": 477,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?582855",
+          "width": 366,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1487,6 +1462,49 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-mphasis-launches-mphasisai-business-unit-to-help-enterprises-leverage-the-power-of-generative-ai-to-drive-business-outcomes-and-efficiency.md",
+      "title": "Mphasis launches 'Mphasis.ai' business unit to help enterprises leverage the power of Generative AI to drive business outcomes and efficiency",
+      "excerpt": "Platform to integrate capabilities of Next Labs, Sparkle Innovation Ecosystem, and Mphasis' Hyperscaler network. NEW YORK, June 1, 2023 /PRNewswire/ -- Mphasis, (BSE: 526299; NSE: MPHASIS), an Informa",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32671902/mphasis-launches-mphasis-ai-business-unit-to-help-enterprises-leverage-the-power-of-generative-ai-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32671902/mphasis-launches-mphasis-ai-business-unit-to-help-enterprises-leverage-the-power-of-generative-ai-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32671902",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32671902",
+      "publishedDateTime": "2023-06-01T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta guru says ChatGPT-style AI is out-of-date"
-    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising"
-    publishedDateTime: 2023-06-14T23:45:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/06/15/meta-guru-says-chatgpt-style-ai-is-out-of-date/74340"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 39
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/15/thumbs/400x400/121796.jpg"
-        width: 400
-        height: 268
-        isCached: true
 
 secured: "D1T+577qS07MuzDVJ1zJeiGzc4g1HHDQWEbXqAC79nj5PNJQr2D7GMOo4xSiL3NoggztkkAvOfgbFupv+EfGMoModJlGCIrKJVamxiFsPOrISF+eb0dG0j26AqvovwROSE70gn/uRMzK4KhwPdXCgzPtoS+t7+H/MavfXUH5fk/q63GfnkYxFAlaXZoGBfuKVpAC2dgLfbiFObfS2Rignn8stM3lI2aQ6Rbttlj4z0ZZIn75ywvz6zX6qt1D395h4zEw4UVycjVz4q53nu8U+XUm2UscWc3M9InXi2pkaNW5fUGz3WwUAgbk7YWNRQ+giLb1cW6L3wGH59Cg8xLiR61pIGi8vr4J4BziSk0FBQM6yq+hHRvIEYRoBgzJSeMP36xuF+OJtbdkL3xvefNDnw6krUMVPYs/Aq3zL9xeeoEwRncHYi0QEyUBTys/ZwrcWEUN3LofM8BwpxFnXvXQyD9TfLNRIaR2WOMNovlJo912Z7k7qUteKgYoNn+uOmxHz4Vd9yEr26QW8RvNxOLxrg==;L2TjV9eURbg53kBJbP9Ocw=="
 ---

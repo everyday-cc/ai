@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-19T13:03:00Z
 originalUrl: "https://www.bizpacreview.com/2023/06/19/ai-jesus-offers-lessons-on-morality-dating-and-video-games-people-genuinely-find-it-inspiring-1369785/"
 webUrl: "https://www.bizpacreview.com/2023/06/19/ai-jesus-offers-lessons-on-morality-dating-and-video-games-people-genuinely-find-it-inspiring-1369785/"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.bizpacreview.com/wp-content/uploads/2023/06/SGAIJesus-1200x630-1.jpeg"
@@ -35,13 +36,13 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c85df20d-1b6f-439b-a609-8fcc7f5d33f2/95dc3e58-3f6c-463e-97b3-ac92fda0f9e5/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
         isCached: true
 
-secured: "G9TSEUpcLlhqwdNHnnId1Q3ADJOpEPv9gaAvCl13x1Kl9gV0ho72Y3cgdDKacAQhMAum8bYSmO649QRVJNSxXlqbNfMZ5xGBcCIm64P6YWfqiA10qVgGITAim/zF7a9SfEyKALUZhFL4aO0S1c5IKfY4gH8bEYieNUPASRHm06o8VPTxcoTvbVSCKJzXDeCqkLJjI6Uku5+nX1Y5ePNKJcvZ1Fsymn4Tqx3myGdzhxYpUCVCrMJWIfeI7lJcloKH2eE5rXYL1+qQPgcwamvqLtk2iN3+SJ8Avt0SuLmtcujURBBRX4sbZH7VFY5HTkiLDFIafuK4XG5GTZSbksBAQDrAq7r5XqbPpubLlNMY794=;xz6PJ3rBT8ZDG71zNwRP6g=="
+secured: "lUk7xIcjFzfI8q84EnngYar35Qq7pV2JHM6WF1lACymEKoSR9OobjqJ4m83oodYgofXvgKwqvEMw9K5gvn2CBrZ77EuUknmhEp0Mldr5xUjzJvvZn1qGB0rJ8ofBalK+Mt8pWsCJSZyDfcLSUUtt8ElNWVemFj6ayxC6uLqg3AnVUCy1shgDqLN9dtMl/yshpwMKoPWI/RAsR1+31now9lLcAW3NYbEqQbV5xacRq7imLpEv2BHta+xNbXsfKmZLlrCmcmNpt8/l8T+4rqBLWktZ/3/DepSrPYCh/R2fe3O578oScBYfeTl3yMk9AfOdHkkYVTI9VYS+I1E4R0Ma9RaJtj7Dh++S7tB4MsTyRUwPp3XtlD17ZWQXenQMmn5os6ELJQoKhQGubUR6uGH0lLOcUPkxLAA2AiwYk5kNLa8Gu5JnDWLUgKNR2uOCT2XU1buDRnFfdqWBl2sXcA1rrPh4HJ+bfP22Go0XFopcrxZMa52nRFhs8zopg7HtLeRXInUqTsPKTuNe106ZtabreQ==;xFjKTrdIr7detpMnHhXUcA=="
 ---
 

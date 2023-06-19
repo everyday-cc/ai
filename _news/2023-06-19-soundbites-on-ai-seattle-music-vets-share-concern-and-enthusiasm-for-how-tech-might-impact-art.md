@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-19T14:58:00Z
 originalUrl: "https://www.geekwire.com/2023/soundbites-on-ai-seattle-music-vets-share-concern-and-enthusiasm-for-how-tech-might-impact-art/"
 webUrl: "https://www.geekwire.com/2023/soundbites-on-ai-seattle-music-vets-share-concern-and-enthusiasm-for-how-tech-might-impact-art/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2023/06/aimusicbing.jpeg"
@@ -28,6 +29,6 @@ images:
     height: 1024
     isCached: true
 
-secured: "sBZU4RoEW7y/jDW/tTRaw00jW1Tqwfup/4DDu6ex4F2nh6k1cKxFMXiwfBPAV/aG6zLRRxZMCXTKuPNvQmEyx8kEA5RAmwnZmkwmr50k4N1KZFvvbejFjawOXMoHKURdGfpUifbFtyBW1rI96Xb50BNlMDuTpqunyKSUdMfsgBnybCVZNnquYbKE9LkOoLoGay35UXcLtkXC7vIc7aiISQqLiD1jKJ34YH9poLDIRV2qRHTP7q96Wgm31xec4AlpgXGNxvuuFnpwsO8XlaVI6c0nv+UQrcdi/csmS4wneaVP0TDRe9dqNj6AFQcpw1+CPMDk88B4DXyaxYa+wVAXaqkuecXzGhpnfraaecNXmis=;yBdrP0eoTxBCND5ZTyJg9g=="
+secured: "1I9p5OKTQOQj66/+hz0HiSVlAT0v2o0h9xC3JL3RN//h2iG1MvRaEqICBP9LbLFzYzAlgWQbTyQoInvlU01k16x6zWDW0MMUc+NiOo2/Iq3K/ychWxARK5PH19gMl3siyvpuxTrI0geLaw/Rt9Jw7C6zsAVCdvXzARM3ElbfZqkCUPlLgY5Op3Gl6uI9mUJxNJp6MCPUl9Lolk/m4d1YkAmDCoqLtUD1NSgsQcNF53K+TE0YwWssq8jDhUtqOvPBOHKn4Unz/bE4syp2zJaNvytGkPpxXV8cuALmzYYb6x6jqqY14SHANDv7ByeEuvr25zv1XmZp1M97m3vvx11bTRO8pxgpeXaFlSiI6/f8EUwg2JTAXoHzt9fxlYdVegSDmBZgsX0RqqoTJctbosp3YI+t1GVfHlEFEkqafqhovwycU4K8bGqiRfUU/DHWDybSW7pu7WCKBrSBB6Du/ttDqSDHXU1IzIaq6QmHzS8p7PKjrW5hrJ5HVkDAnqJr1pdEd5gqxMIbSmvTWJJFj+HdWA==;e1XatyG0CvQCG/lGTirwkw=="
 ---
 

@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Baidu wins commercial licence for driverless taxis in Shenzhen"
-excerpt: "China's tech firm Baidu Inc said on Friday that it has obtained a commercial licence from regulators for its driverless ride-hailing service in parts of Shenzhen, the country's tech hub. Its fleet of driverless robotaxis,"
-publishedDateTime: 2023-06-16T14:12:00Z
-originalUrl: "https://www.aol.com/news/baidu-wins-commercial-licence-driverless-082609881.html"
-webUrl: "https://www.aol.com/news/baidu-wins-commercial-licence-driverless-082609881.html"
-ampWebUrl: "https://www.aol.com/amphtml/baidu-wins-commercial-licence-driverless-082609881.html"
-cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/baidu-wins-commercial-licence-driverless-082609881.html"
+excerpt: "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off."
+publishedDateTime: 2023-06-16T10:58:00Z
+originalUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
+webUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
 type: article
-quality: 74
-heat: 114
+quality: 84
+heat: 124
 published: true
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/7a888a91cd68db77e6e809f2785b4473"
-    width: 800
-    height: 534
+  - url: "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -69,6 +71,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "jPGGIfNqUCaoqGrsbOCtXxmbob0QEwkzXlZkryPPP/TdVuXfMBH49DOxnsmKx0nh6wwItUe1XfxiG9l6huMBwcVyBdgufBluDdiF189xAEE4BFjSzhVRWZVcsg9McnNadyT/7cqqt0OEzkzFFYqwKgJ2qhBUZmrBRdmP5yRJL59UvcG8LcpjF1xfqXj5wruSVYxcQ7gSOxS7ySV5n51p9WTw2/S3+damXeTdjdhkawB+wdZwNa2UaGgbNRIsDFwQHhjceI05xoW/4c4E/KZrfu0zloBtXJ6++SkfWwCkOhIaa/4VbNOmoa4VxmaZ6ghdi8Xmy5om+b/9zjhnSqv8qLfQE4jMBB8nZCHg9QBonj4=;wxCCFROp2nFoJDZiemNikw=="
+secured: "937dg6BIH3OIga2q9nu0VQ5PuNnyUmNSgFV5wOzlOP9mowIeIG5jgMXeMAVXCAQyGVpm3n2lj0FGTPAVYA/hazodN+A4IZ1A5B2MGaWbl3bQ1aCgDW4BbKckwV/PAwzzBQ0mAmFdo+SOOhKot1yp1bXGmOU1DCKhUvPWZIIkP5AGfG5Bl5trv/+3T9cv/gSOvuDKjLvZWxMhITOdmdrnWzklLuTMkaUvU5mGttw/6ZfgQRv7T49Ernm98cbq7CcObwBsKDcD1iUYrhqw9PdEFLk71jRNSMLvmg+FzEgD1Ecqg5Jd74wyC1I0LWMS6fVPEa2Fy1Tg6X7wEWncEOuER1+opiUTkM3f/h05lViPu1w=;DF6rePbbNTNKXVz41krsSg=="
 ---
 

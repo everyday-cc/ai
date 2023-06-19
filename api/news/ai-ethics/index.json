@@ -105,7 +105,7 @@
       "originalUrl": "https://www.koreatimes.co.kr/www/opinion/2023/06/197_353192.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -148,7 +148,7 @@
       "originalUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -188,7 +188,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -347,7 +348,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/06/15/the-vector-ai-research-institute-releases-six-ai-ethical-principles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {

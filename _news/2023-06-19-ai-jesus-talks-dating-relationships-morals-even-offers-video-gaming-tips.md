@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-m
 ampWebUrl: "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.amp"
 type: article
-quality: 85
-heat: 95
+quality: 87
+heat: 97
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c85df20d-1b6f-439b-a609-8fcc7f5d33f2/95dc3e58-3f6c-463e-97b3-ac92fda0f9e5/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
@@ -39,7 +40,7 @@ related:
     provider:
       name: BizPac Review
       domain: bizpacreview.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://www.bizpacreview.com/wp-content/uploads/2023/06/SGAIJesus-1200x630-1.jpeg"
         width: 1200

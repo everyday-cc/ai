@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta guru says ChatGPT-style AI is out-of-date"
-    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising"
-    publishedDateTime: 2023-06-14T23:45:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/06/15/meta-guru-says-chatgpt-style-ai-is-out-of-date/74340"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 39
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/15/thumbs/400x400/121796.jpg"
-        width: 400
-        height: 268
-        isCached: true
   - title: "This ChatGPT-powered AI tool can help you haggle to save money on bills"
     excerpt: "This new ChatGPT-powered AI tool can negotiate your bills for you by writing a letter that you can send to a landlord or credit card company."
     publishedDateTime: 2023-06-15T19:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/life/technology-amazons-cloud-unit-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/lite/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/46600198075_8477bdd292_k-1-2.jpg"
         width: 2048
         height: 1366
-        isCached: true
-  - title: "AMD stock price rises as Amazon considers buying new AI chip, report says"
-    excerpt: "Advanced Micro Devices Inc., (AMD) shares rose at pre-market on Wednesday, after there was a report that Amazon Inc. might buy its newest AI chip. There was a decline on Tuesday after a presentation by the company which unveiled its new AI chip."
-    publishedDateTime: 2023-06-15T00:33:00Z
-    webUrl: "https://www.cweb.com/amd-stock-price-rises-as-amazon-considers-buying-new-ai-chip-report-says/"
-    type: article
-    provider:
-      name: cweb
-      domain: cweb.com
-    quality: 53
-    images:
-      - url: "https://cwebdotcom.b-cdn.net/wp-content/uploads/2023/06/timothy-dykes-nWgpCe-LQa4-unsplash-scaled.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Amazon thinking about using AMD’s AI"
     excerpt: "It might fit into the invisible plane  Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision."

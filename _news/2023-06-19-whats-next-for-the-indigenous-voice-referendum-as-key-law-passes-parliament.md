@@ -43,15 +43,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 22
-  - title: "No camp can’t afford to sit back as Indigenous voice to parliament support falters"
-    excerpt: "This is because few No donors are prepared to be outed via mandatory disclosure of amounts over $15,000 and because the No campaign still has not gained tax deductibility for donations, even though Yes has had it since last October and the Prime Minister announced it for both sides months ago."
-    publishedDateTime: 2023-06-14T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/no-camp-cant-afford-to-sit-back-as-indigenous-voice-to-parliament-support-falters/news-story/3176e8a6aa3879d3d984a1d4df216666"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
 secured: "6xrIUgrcbqFMdFj1YSGlwsWNzwuk2Uoo3M3RUXhY2zlAJMelU2q9BEuhJpQy04Ei4R9flZyjLxhbxF5Bh02I2J2h6+liR0PYbFgiIQ+8C+IPt+688sM4ekZKyQiJYmlaaHfVABgEbUkjy1UcOEnfpBycRYWzh/lrHZdSq40p7CqJBwyjMy1kqgZ9t4YtViVFbkvSnBEBp4NOfikaawsw1dbQ8HU3Wx3Ndr0u9JILv/xRPevPgwb8/Y7LkFVCGFD6j6IKSRsM6k0mydaqihracyINoL4eT4hhsiNmjKWle5OgYu9fGRNsjRYtExLjS+Sgyj97dSbkBp5/6qEx/EuvMSSM/I/HyGRc4e4qggQWNhFqgswvP2DjJKjomwOBV8gOqOxA5KJdIQlBGwBuPBMmA1WSlhbnfJzrMCketQyH0jM89yD0K72DiKp0C56l/FEzH7iI2wYVvSLmSDY9e5HabsWknrgDOihDLW5Uzbr0TOgE6EePhP8yzN8TGXUsQCHNH/AbpaU0qH9I3OPz1f1NrA==;T+c6klXooNp6qq8lYPyTXw=="
 ---

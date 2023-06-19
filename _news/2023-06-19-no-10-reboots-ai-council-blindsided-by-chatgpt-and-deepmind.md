@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta guru says ChatGPT-style AI is out-of-date"
-    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising"
-    publishedDateTime: 2023-06-14T23:45:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/06/15/meta-guru-says-chatgpt-style-ai-is-out-of-date/74340"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 39
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/15/thumbs/400x400/121796.jpg"
-        width: 400
-        height: 268
-        isCached: true
   - title: "This ChatGPT-powered AI tool can help you haggle to save money on bills"
     excerpt: "This new ChatGPT-powered AI tool can negotiate your bills for you by writing a letter that you can send to a landlord or credit card company."
     publishedDateTime: 2023-06-15T19:42:00Z
@@ -81,6 +67,6 @@ related:
       domain: bgr.com
     quality: 17
 
-secured: "WXkOqQUX6vU6OrqFlw7M8aruOsoknnBs7gDijgVj0n2J/ehWqV1r45xsnwpibBJsR2aDBibik+70Btk0Zch40NHAgz/D/P8DzQFrNrm1pRb3bv7jmkcW8yxD+U10YNUiKxh4OmIcnJmtN6jl5/JsJ9Hi5LUvyvECKV9AJ1MJ6bmB32SGB1++W03GLNUJgvZHyD6xhtqLZRDIbA9BOugzNjM79R6SbGNP6zkBJPET5h2Fm0/9GDivi9AR4xgLmEcFG+Ts3S1NChUqxmAtySvbZF4ZX6SWX8s0Q3W0C9vGbmSZNw7awLzMgi4/2MsCPwe778oTBo9HM/lD5gvxS6jItO0GGp2SoOv6zwsHcyf+NbY=;pFz921WQacr/6zQYmw4TaA=="
+secured: "kLysS/OsElUMiM6vU9/ThjuVzhIizbYHkbyOux4g43TcoIzzx/gsYBxujyzqSu2INwglCogEnqeea2SroFKcHlwgKF49hJUvQzu+9k9FH69bWv0hgUHO6orrE6EDYG+/r6yhbUitFlUBdZqab0QEmYw7HA64r55QHfkEdv5dRrv+53jVcpq9wEqj3KqBvG5OwK0u63GALsLCd3CWqnrR3IoXsqDScUDSQWvUHilhHRkcAO3BkT5JAJxnwu7A0IhExb7zWNH36Qs6G6lIM5C1f0U1yspx3wp9VG/PBy+36KRL9yI5AfdQwZN6thEk/NscpZyoPLr7uhhT1QwOui5PBPRj2yzkdVnr3O8SnOUneWqwbxBAC9VT0BcMsQ4IvbywBPUf8IDry4Gr+jWoXkPSjr8sysC4Lq5ZfqUFvQnE90FB8Jx87Neb0cObw50JN9mEeRh8aC1ESTJf1i+LnJ5Y4Ug8QwYCs7nEaVE+IKBPR5OKwGuVFUL9Ks2FzsQQba+/p/DBtlQDDq8m888lBN4MVg==;w32Nz5Uh8IJVUwEkw/MyMA=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2023/06/19/1075140/how-existential-ris
 ampWebUrl: "https://www.technologyreview.com/2023/06/19/1075140/how-existential-risk-became-biggest-meme-in-ai/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075140/how-existential-risk-became-biggest-meme-in-ai/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/Ai-ghoststory1a.jpeg?w=3000"
@@ -25,6 +26,6 @@ images:
     height: 1688
     isCached: true
 
-secured: "iEYXz2SxaCevclTQVjX/kl5opjl1W1byMAF1AKK8/WvckXHhG4ypcH+NFLiGXtGzxBNnlvSlDYo32HgOlmfCMirmFLoVQGAv+0mIZLzSTqp1X5Vxa3Va8LsWxgs4vA5vx7Wbb1D7HkREXhqmSvJV22dti/cewGmADFuHpLrW5Hdepm4rOw0+uCxjlx0VBXYbfPFJwNrY+XOKvtTBvirTFtz7tJWbblHCeYFYo/8DfZZ0OFFxrwHlv5b8hmYoJuSNLzo91KyjECKHQyjuoqYJk8o70Wb8Qgxzx4DW2dVz8n7Ijoeio2ylwuUuidX1fW6UyoKpJWHwSSseyErMMKYWsJVOk/VUkd8RkK5pcgyTV88=;ouM3HHm8nUT0llfnUzJOLw=="
+secured: "Q8NcDopbfPQ4MdpaTrBFq5oIEueUr5P5GjqogAGlIZFus8IhtIA8CT+ueAblbNfWOWPTLQ+usdWs3VHS3XeKxm291hmR1vfGrntgoTbMzCX1Xq+fq5+sWiwo00u1vnzhLed6Hjm4dndpHdfBXzhyxfDo3ZAVyQqnxHmwFdjlcxZQ9snfolH8r2q4rhKbXy4Kjeq29iLHtzM2mnmmd2z2FizIvWsiR3rV+on3+Sw/unZO9ZcaYvu4+BWOXrIX9UADaY1RvcjEtoAJHwoedAnPyCVKr41DRluOzOjMHdkErwkY5nh2gsv1yUSjqO/0GsutzpoohjMb0ix6ZF8Gwtbmx9+0WkD1DBYPY35/9UBCpYK7NxI44quodutd1/C2xFauPzClyWssskfxJGKlWB95O7vx2bTerK0yrhJ4O5ANGzuSs89inTq4snarOdCMU+Nf3EFN0QxW5kSh4NAGs0Q+PMluVyceEOv08sLQcqKIT5bkTao34yYtBJnt6d3C6GdV5AHONSYZsJJZxbom70qBYg==;ruMgklRVViH5ZxzzpM/Uhw=="
 ---
 

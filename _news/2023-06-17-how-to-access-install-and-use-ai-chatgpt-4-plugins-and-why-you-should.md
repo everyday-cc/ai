@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-access-install-and-u
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fef88028a-0e20-11ee-9d84-6e8ed24abaa3.jpg?crop=6000%2C3375%2C0%2C312&resize=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Meta guru says ChatGPT-style AI is out-of-date"
-    excerpt: "The chief scientist for Facebook-owner Meta on Tuesday said that generative AI, the technology behind ChatGPT, was already at a dead end, instead promising"
-    publishedDateTime: 2023-06-14T23:45:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/06/15/meta-guru-says-chatgpt-style-ai-is-out-of-date/74340"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 39
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/15/thumbs/400x400/121796.jpg"
-        width: 400
-        height: 268
         isCached: true
   - title: "This ChatGPT-powered AI tool can help you haggle to save money on bills"
     excerpt: "This new ChatGPT-powered AI tool can negotiate your bills for you by writing a letter that you can send to a landlord or credit card company."

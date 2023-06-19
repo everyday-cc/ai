@@ -28,15 +28,15 @@ related:
   - title: "Congress ponders whether artificial intelligence should have the power of the patent"
     excerpt: "Lawmakers are beginning to consider ways in which artificial intelligence systems are involved in inventive processes like discovery of new drugs, and how the use of such technologies affects what is — and is not — patentable."
     publishedDateTime: 2023-06-18T21:45:00Z
-    webUrl: "https://tucson.com/news/congress-ponders-whether-artificial-intelligence-should-have-the-power-of-the-patent/article_bb088dd2-fc56-5346-a4e8-8b099dea4b96.html"
+    webUrl: "https://www.nwitimes.com/news/nation-world/government-politics/congress-ponders-whether-artificial-intelligence-should-have-the-power-of-the-patent/article_d31ff5c9-a44b-5a6b-911a-beb63226e362.html"
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
+      name: The Times of Northwest Indiana
+      domain: nwitimes.com
     quality: 30
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/b/b0/bb088dd2-fc56-5346-a4e8-8b099dea4b96/648a46a69254d.preview.jpg?crop=1196%2C674%2C367%2C61&resize=1118%2C630&order=crop%2Cresize"
-        width: 1118
+      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/31/d31ff5c9-a44b-5a6b-911a-beb63226e362/648a469f71a65.preview.jpg?crop=1198%2C630%2C367%2C83&resize=1198%2C630&order=crop%2Cresize"
+        width: 1198
         height: 630
         isCached: true
 

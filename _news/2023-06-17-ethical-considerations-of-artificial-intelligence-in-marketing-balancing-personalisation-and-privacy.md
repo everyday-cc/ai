@@ -36,6 +36,22 @@ related:
         width: 740
         height: 888
         isCached: true
+  - title: "Opinion: Artificial intelligence can support architects but lacks empathy and ethics"
+    excerpt: "Artificial intelligence (AI) has revolutionized many different industries in recent years. It gained a lot of attention and popularity with the launch of ChatGPT, a tool capable of writing poems, solving equations and producing articles on different topics."
+    publishedDateTime: 2023-06-19T16:43:00Z
+    webUrl: "https://techxplore.com/news/2023-06-opinion-artificial-intelligence-architects-lacks.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-opinion-artificial-intelligence-architects-lacks.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-opinion-artificial-intelligence-architects-lacks.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 67
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-54.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "The AI revolution: Harnessing innovation, addressing challenges and shaping our future"
     excerpt: "In the realm of AI’s endless reach, Potential blossoms, lessons to teach. With thoughtful ethics as our guide, Humans and AI stand side by side. Together we’ll forge a"
     publishedDateTime: 2023-06-17T09:16:00Z

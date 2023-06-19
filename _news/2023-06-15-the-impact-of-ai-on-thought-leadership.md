@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/konstantin.jpg"
         width: 930
         height: 620
+        isCached: true
+  - title: "Western offers new course on the intersection of artificial intelligence and writing"
+    excerpt: "KALAMAZOO, Mich.—As the world of technology continues to evolve at an unprecedented pace, Western Michigan University is at the forefront of innovation bringing together artificial intelligence (AI) and the art of writing. “One of the key aspects of ..."
+    publishedDateTime: 2023-06-19T14:42:00Z
+    webUrl: "https://wmich.edu/news/2023/06/71959"
+    type: article
+    provider:
+      name: Western Michigan University
+      domain: wmich.edu
+    quality: 30
+    images:
+      - url: "https://wmich.edu/sites/default/files/styles/1200x628/public/images/news/2023/06/MSB09517.jpg?itok=9Zym4SlD"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "+rUbWVZpoi6L6VdXe6+TQTth6aA3CYOoaVa4iyRo/a2lExySPk4w+z+Ub7i8QTaqO8H6I/Lqz3AL4pzO9bHKr6CTB4Ev2lMUypwjAS5rB6zgD/Kq9mbK+ej4KkEYC7G2M99fgNRbU4RghY6hdBExAiUXUEqiF1ak1Cx4QdPw6fOKCc8xFSTyF3xKoU6zWgp7V2IsgN8zNblw9cWZxz+Uc9yJH4u7XZVQSz42ahglLyIeXyyWQkQcbTAqFD9TlbKl7/vgF6ShFumtesrEG9IWVWxw4opYtODpAEqxOqGuXsVcYPBCvj0+33rJteBw+j6G7pz6HWQl1UoEsw3/014aZ90ccrAJ1t3mRTg+xPc3s34=;q0DABg73BkEUjuVNklDLnQ=="

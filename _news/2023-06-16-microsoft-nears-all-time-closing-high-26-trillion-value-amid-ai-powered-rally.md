@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft –AI Will Help Drive $100 Billion In Revenue By 2027"
-    excerpt: "The latest of these tools, generative AI capabilities through Microsoft Azure OpenAI Service, can help government agencies improve efficiency, enhance productivity, and unlock new insights from their data. Many agencies require a higher level of security ..."
-    publishedDateTime: 2023-06-15T00:00:00Z
-    webUrl: "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/"
-    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/648bd2abff1c29c9aeb1e996/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Microsoft’s stock rallies to record close as more analysts see AI leadership"
     excerpt: "A previous version of this article incorrectly stated Microsoft’s previous closing record price. It has been corrected. Microsoft Corp. shares rallied Thursday for a sixth consecutive day of gains and closed at a record high as investors focused more on the tech giant’s artificial-intelligence roadmap and less on the stalled $69 billion acquisition of videogame publisher Activision Blizzard Inc."
     publishedDateTime: 2023-06-16T12:16:00Z
@@ -113,6 +97,31 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Viettel, Microsoft Vietnam improve AI application capability"
+    excerpt: "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,"
+    publishedDateTime: 2023-06-17T03:35:00Z
+    webUrl: "https://english.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov"
+    ampWebUrl: "https://amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
+    cdnAmpWebUrl: "https://amp-vov-vn.cdn.ampproject.org/c/s/amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
+    type: article
+    provider:
+      name: VOV Online
+      domain: english.vov.vn
+    quality: 54
+  - title: "Microsoft Azure Expert MSP success for tech consultancy"
+    excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
+    publishedDateTime: 2023-06-19T11:20:00Z
+    webUrl: "https://www.insidermedia.com/news/business/microsoft-azure-expert-msp-success-for-tech-consultancy"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 54
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "A Game-Changer for Microsoft: $10 Billion in Annual AI Revenue Sparks Stock Surge"
     excerpt: "Microsoft’s stock soared to new heights on Thursday following positive endorsements from JPMorgan Chase analysts regarding the company’s prospects in the field of artificial intelligence (AI). Closing at $348."
     publishedDateTime: 2023-06-16T15:21:00Z
@@ -127,6 +136,29 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Elon Musk, Microsoft, Google Are Invested in AI: InQubeta Is Your Chance to Align with AI Giants"
+    excerpt: "Artificial Intelligence (AI) has captured the attention of the world’s leading tech visionaries and industry giants. From Elon Musk to Microsoft and Google, these influential figures and companies recognize the transformative power of AI and its potential to reshape industries and societies."
+    publishedDateTime: 2023-06-17T08:00:00Z
+    webUrl: "https://techbullion.com/elon-musk-microsoft-google-are-invested-in-ai-inqubeta-is-your-chance-to-align-with-ai-giants/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/06/Invested-in-AI-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Microsoft adds AI capabilities, enhances translation features to Skype"
+    excerpt: "In the latest update to Skype, Microsoft has incorporated AI capabilities and enhanced translation features into the platform. The updated version (8.99.76.102 for Insiders) of Skype includes several new features as well as the usual reliability fixes."
+    publishedDateTime: 2023-06-15T08:37:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4086912.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 36
   - title: "HCLTech and Microsoft Expand Collaboration to Boost Innovation and Adoption of Generative AI with Microsoft's Azure OpenAI Service"
     excerpt: "Leveraging HCLTech's deep domain expertise across various industries and Microsoft's Azure OpenAI Service, clients will benefit from innovative solutions that enhance employee productivity, streamline IT operations,"
     publishedDateTime: 2023-06-15T11:34:00Z

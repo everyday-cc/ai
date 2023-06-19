@@ -5,6 +5,8 @@ excerpt: "It’s an artificial intelligence chip, designed specifically to make 
 publishedDateTime: 2023-06-01T05:55:00Z
 originalUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
 webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "M0rvUPq9tbWHEHeSFm9/esFaeRIsP7ItLLAmIVWFm6CsRVstzpIk55K7KjMtBR11QFeI51gsD2qfnDnqB9X9bwstH0ewJxEfFtes35S4Hy7NWJ/qVdJxhmyGjwwdoBRPTWBxDJHFnWoogiOw4uBlsTEdyqiHh22PzuWlQGuTWsVpPjAsjD3xI3u/rjSvEL9aNkJZR0LK2Hgjsoz0oBPNrx6R73YRtPcIbn+osp2AZGaOWWiiRbjuxKUJxcwfVoZ10g0VqM7RAOInLPi4kD3OTrWu6okh+nX4U0FvlkronVMhFygQLaO5UYDxXY0X1wCt6YufxHgg8HBCrppKZ37TgRSX3MkGHPgalbc+k06AjJw=;su/mPoMp6zRM7CAQs28JKA=="
+images:
+  - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+secured: "4iY7wYGgTmHtJi9r4sM4rsAEd6Hy5JJceLAUu+K+G2abjP4NGs80zfXlt0aalcCql4CA+oqi7BWQzgDKXA2tfCfD2NOPdWVMjKC7vTnYD1xJ9w8py2ORRfeo786T5wuK3+tah3RPPi6MzHZ1mbRfiBmr/yUMaYcDa6t503Y/St33uBGZ6/VrrmmnQRgRe1XJ1kJSAZ6Z1lzTJXdylgcBb0OyKM5fXH1vk0Okjwr4O/sGw7iOfmBKmBY0hHeqPs/jNpdIkjcc+UpUXIXKSHRUTwzzCgU1YZOGK1jOVVXy0ZhG2nQTbcg+PO8To6IPMwhWLAYIOfRF1oqR6/ZwQNsfGSAOcvjgqkhZwkdsgtlnALs=;nWfYRTtRxuS7VB9z4l43DA=="
 ---
 

@@ -55,20 +55,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "AMD stock price rises as Amazon considers buying new AI chip, report says"
-    excerpt: "Advanced Micro Devices Inc., (AMD) shares rose at pre-market on Wednesday, after there was a report that Amazon Inc. might buy its newest AI chip. There was a decline on Tuesday after a presentation by the company which unveiled its new AI chip."
-    publishedDateTime: 2023-06-15T00:33:00Z
-    webUrl: "https://www.cweb.com/amd-stock-price-rises-as-amazon-considers-buying-new-ai-chip-report-says/"
-    type: article
-    provider:
-      name: cweb
-      domain: cweb.com
-    quality: 53
-    images:
-      - url: "https://cwebdotcom.b-cdn.net/wp-content/uploads/2023/06/timothy-dykes-nWgpCe-LQa4-unsplash-scaled.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "1i2mJS5WlBpej3Yw8qhHDkwZqXchpA3OfxHLMZmyCQMuxo27rmLNu9vt9lH8nnXW/AezZ3YWrPsQsGVwfVW5i+izV+JgeBtKa5X9YfsRAjROLfdc1r1mU3+Ff7S72P7Paqb6gyecTdHELVeu/+auMe5de4wMAg2UevB4RnEAUVr3ULjA4rQjS7WQAJB67eh8XHnDYGPAhNp0HjfZCaaD5l5JTfbgwXur14TBCvJa+NqrPozMWV+WKA8TcBwN6AVJEtJi2ekjWY/azXhEfe0gmDfdKR9ybyjQVznfPsw8KHzLNo9wcnVX0A3gexq/N1B1uLqenbK79D505NKnDPdCgPQ4AVgJSsb/J1zR6yb3dF0=;yqtqmItashZRH+jiZSzODQ=="
 ---

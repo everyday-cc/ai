@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://i.insider.com/648ad6891cc64b001ae140ef?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
-    excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
-    publishedDateTime: 2023-06-15T00:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/268769"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 19
-    images:
-      - url: "https://www.ryt9.com/img/files/20230615/iq0bcdd89128e4fef2b7a15c540eccde2a.jpg"
-        width: 565
-        height: 470
         isCached: true
   - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
     excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-20-who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you.md",
+      "title": "Who owns the code? If ChatGPT's AI helps write your app, does it still belong to you?",
+      "excerpt": "For a view of code ownership outside the US, ZDNET turned to Robert Piasentin, a Vancouver-based partner in the Technology Group at McMillan LLP, a Canadian business law firm. He says that ownership, as it pertains to AI-generated works, is still an \"unsettled area of the law.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/",
+      "originalUrl": "https://www.zdnet.com/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b1987e38f12344abad7beedabb2d91023ac3ed41/2023/06/19/451a63be-1834-497c-a0bb-483ba168d357/gettyimages-1470555159.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/",
+      "publishedDateTime": "2023-06-19T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-19-generative-ai-should-be-more-inclusive-as-it-evolves-according-to-openais-ceo.md",
       "title": "Generative AI should be more inclusive as it evolves, according to OpenAI's CEO",
       "excerpt": "How should generative artificial intelligence (AI) tools such as ChatGPT move forward, so they can be accepted by a wider global population?",
@@ -101,6 +152,57 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-5-ai-job-search-mistakes-you-need-to-sidestep.md",
+      "title": "5 AI Job Search Mistakes You Need To Sidestep",
+      "excerpt": "Learn the most damaging AI job searches that candidates are making, so that you can avoid them and increase your chances of landing your dream job",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/",
+      "originalUrl": "https://www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6489b33233b97d979475c366/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/amp/",
+      "publishedDateTime": "2023-06-19T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -354,7 +456,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -508,7 +610,7 @@
       "originalUrl": "https://www.koreatimes.co.kr/www/opinion/2023/06/197_353192.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -602,7 +704,7 @@
       "originalUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -642,7 +744,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -693,49 +796,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-microsoft-claims-azure-outlook-june-outages-due-to-ddos-attacks.md",
-      "title": "Microsoft claims Azure, Outlook June outages due to DDoS attacks",
-      "excerpt": "Software giant Microsoft claims outages to its Outlook, OneDrive and Azure services earlier this month were due to distributed denial of service attacks staged by a group it calls Storm-1359. In a blog post on Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/business-it-news/security/microsoft-claims-azure,-outlook-june-outages-due-to-ddos-attacks.html",
-      "originalUrl": "https://itwire.com/business-it-news/security/microsoft-claims-azure,-outlook-june-outages-due-to-ddos-attacks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/17e9d7c204305520f52f5304ac685b8a_M.jpg",
-          "width": 375,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1194,40 +1254,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-viettel-microsoft-vietnam-improve-ai-application-capability.md",
-      "title": "Viettel, Microsoft Vietnam improve AI application capability",
-      "excerpt": "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,",
-      "sourceUrl": null,
-      "webUrl": "https://english.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov",
-      "originalUrl": "https://english.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page=",
-      "cdnAmpWebUrl": "https://amp-vov-vn.cdn.ampproject.org/c/s/amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page=",
-      "publishedDateTime": "2023-06-16T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VOV Online",
-        "domain": "english.vov.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

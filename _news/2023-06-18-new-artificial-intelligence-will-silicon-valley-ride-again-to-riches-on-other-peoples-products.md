@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-18T15:01:00Z
 originalUrl: "https://www.courant.com/2023/06/18/new-artificial-intelligence-will-silicon-valley-ride-again-to-riches-on-other-peoples-products/"
 webUrl: "https://www.courant.com/2023/06/18/new-artificial-intelligence-will-silicon-valley-ride-again-to-riches-on-other-peoples-products/"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.courant.com/wp-content/uploads/2023/06/SJM-L-AIPROPERTY-0618-online.jpg?w=1024&#038;h=698"

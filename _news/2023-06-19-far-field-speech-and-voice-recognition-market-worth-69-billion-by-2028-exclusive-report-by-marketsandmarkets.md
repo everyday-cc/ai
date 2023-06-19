@@ -33,6 +33,15 @@ related:
         width: 898
         height: 470
         isCached: true
+  - title: "Autonomous AI and Autonomous Agents Market worth $28.5 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The Autonomous AI and Autonomous Agents Market is estimated to grow from USD 4.8 billion in 2023 to USD 28.5 billion by 2028, at a CAGR of 43.0% during the forecast period, according to a new report by MarketsandMarkets™."
+    publishedDateTime: 2023-06-19T17:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-autonomous-ai-autonomous-agents-market-worth-285-billion-/2023/06/19/9834940.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "1ait1WmJiliMsajn+8Y3DQAa6BPIv7lwte4A/sABm8yc4PO5IMdqiZIOtJ2bStqGF8u7KkcLfa9QW/UQjG6MqekYJ25kBMWM5OM7IU6JZvC5QHfc7b6UMiNCopbtgRDM5xT9JRZW3muPKnaC8ZogUeWLTJWNGZInngMyv7eBNNoXrqNq2ajLe1+vHrXI+BinwsfpNxd+9GKTcT1EZFlnSAszaa8URvZSNZRuEBBiL8nCRN4Ew7t7sPEwcxD+mA8ujoRky9g0QC05i/aH8MKNyCiggJ6OrW0wRNZTe45kBNC5NobbEavsKSL+ghAmtdZyQ86vmcZsSB8tpCvCLsrIQyas//W/4mrjnTd+v4VqqKE=;JwTZjyyMN5gwK8PC6QE06Q=="
 ---

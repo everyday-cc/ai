@@ -7,7 +7,7 @@ originalUrl: "https://www.knowyourmobile.com/ai/google-ai-products-list/"
 webUrl: "https://www.knowyourmobile.com/ai/google-ai-products-list/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Hartford Courant
       domain: courant.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.courant.com/wp-content/uploads/2023/06/SJM-L-AIPROPERTY-0618-online.jpg?w=1024&#038;h=698"
         width: 1024
