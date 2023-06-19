@@ -3,23 +3,23 @@ category: news
 title: "Congress ponders whether artificial intelligence should have the power of the patent"
 excerpt: "Lawmakers are beginning to consider ways in which artificial intelligence systems are involved in inventive processes like discovery of new drugs, and how the use of such technologies affects what is — and is not — patentable."
 publishedDateTime: 2023-06-18T21:45:00Z
-originalUrl: "https://tulsaworld.com/news/nation-world/government-politics/congress-ponders-whether-artificial-intelligence-should-have-the-power-of-the-patent/article_b971cee9-c49e-536e-8e1b-375205e38b18.html"
-webUrl: "https://tulsaworld.com/news/nation-world/government-politics/congress-ponders-whether-artificial-intelligence-should-have-the-power-of-the-patent/article_b971cee9-c49e-536e-8e1b-375205e38b18.html"
+originalUrl: "https://tucson.com/news/congress-ponders-whether-artificial-intelligence-should-have-the-power-of-the-patent/article_bb088dd2-fc56-5346-a4e8-8b099dea4b96.html"
+webUrl: "https://tucson.com/news/congress-ponders-whether-artificial-intelligence-should-have-the-power-of-the-patent/article_bb088dd2-fc56-5346-a4e8-8b099dea4b96.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/b/97/b971cee9-c49e-536e-8e1b-375205e38b18/648a46a738c2f.preview.jpg?crop=1198%2C630%2C367%2C83&resize=1198%2C630&order=crop%2Cresize"
-    width: 1198
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/b/b0/bb088dd2-fc56-5346-a4e8-8b099dea4b96/648a46a69254d.preview.jpg?crop=1196%2C674%2C367%2C61&resize=1118%2C630&order=crop%2Cresize"
+    width: 1118
     height: 630
     isCached: true
 
@@ -39,6 +39,6 @@ related:
         height: 241
         isCached: true
 
-secured: "IgLcgCYkiR46gwV7+PuPhMNSe/iik22iPpItnRaiuvVeL8/aGvEbeG6N0Fz+r46Zt1J0A8xrTMb0GUecpaIROkCx6gxu7KaoJrLsnq/OlGryd41k0e4n5FMxuhgRuz4QGKdMfnRUe04nJqXtEoWj4A30wZqfLCC8ENn+h12gm/ULzMqdVG8ubBwbSnk5YJf8heh4gnk/gZXj211kT6OUcFh5p/0svdEOfTw8OIpPAkINOW2NeFffGMFqnOyqrlP0KQqPfSE34UUGglogNIaJL8sMhBCN3dNKahoFK1LY7zX7BbdsYEIXyYW+9a9bhPTbNTz3KV0C8crWg1tPWm+LckF/1HEjyLxTBwe6s9u+3KiPJ2L/qOsIxaeXvutHfE33ZtEspHU6Y6Nr2WrRwnCTnLVWNzy+3wLEPzKiAEv6ng1U89/1FZLR5tyGOVejpYVucPPSZCMWg/WBs+Y+FkrHUOY5i41li8Dl1nzUiS8Hr78xtLGFP05RhzzStwucELSOFEQSzBOg83wetw9i2Ro45Q==;JIjWQSViXJL4ZlNAcMGF5w=="
+secured: "MG/NQA01uCzwAMoB8auZlV99ap9+6ekNfjoMenubngm8T9RASAJ110474fcXD1qyrmpgg/t/siEPrtJKJeMsJ9Zn+/AZGJl/vvH6m7NK/LPDJRAJrHqZ9fekOSZ1NcqGLyJgaDU2/nNPJnnAjA0sLN1EfZSZewR3b5grOEm6lPDf+Ink5Cqr7ZUVP9OXSeyGQGH0dq9wwr5RXlvVtdhaZsbJTQCuH11R+4oMDU7vspuE6kZLGSLCTQiFwEmpDm9BTF+9zOxdojVXlFV9FeMJZLMajaxLjwOQ8AEqzFRLlXsuEoakgJDVxUqm1XgzKP0LkoZwyTz1qF2qoUZPjdir5mWp/ybtNGUy0bovt9f0ewQ=;6ZPfAHbAt1jnvmsBWhcFqA=="
 ---
 

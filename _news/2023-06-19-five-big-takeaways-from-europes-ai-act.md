@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeawa
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 3000
     height: 1688
     isCached: true
+
+related:
+  - title: "France’s Bid to Become Europe’s AI Hub: A Potential Challenge for the U.S"
+    excerpt: "In a bold move to solidify its position on the global artificial intelligence (AI) map, France is strategically gearing up to become Europe's principal hub for AI. This development is not only set to challenge European nations but also aims to redefine the established hierarchy of global tech giants,"
+    publishedDateTime: 2023-06-19T13:06:00Z
+    webUrl: "https://www.unite.ai/frances-bid-to-become-europes-ai-hub-a-potential-challenge-for-the-u-s/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 18
 
 secured: "cckTYT/440g7U4w99FBYTE5Cz8KVDHXUswKd6Fw4DitSaqVrbcw5GWWZdxz0WNOypc2EM9ycmj2Dx+mZ0zPeBBypUso3P28DyBQSXC06boDgSi/F3HJskgj77z7BqzzWIv30SjttokGZ0es7B5AgHIYNNbXeRv/aAiAL/qWpz9FTKplwD476zVwWW6lk6MHYLgotapTYlU+2tDVoHq2CuVwf+mkLHGhdd25/DdrStEA1bSqbg8lxjuJi8ceIzFhkNz2i7aiJDPKBhmRggPp5u+c7zJRVQcVbPKATCs7bZCv5qwWaL2JWs2vgEVhbOweXiaa2U7kmx5gIm68UrvNHrNwEUj/OCbpKkzPAFwFUPAg5XDctcwWrVucCtjAmL1cV7xHq8pJOXW1htk8t9dB1qijhR518G9IzE6qz+IfuukWBYobgAPpWjH3TuOS46c90uThta5RktwAECMjng0AWbb7QT8cZKk7ZBGVrAdg+jwaN280iDvP+VJ/y5lceQhktTWyNWgPuEXqju9/00h8NXQ==;45Y+TQnqnPOjNc+FUGu3Jw=="
 ---

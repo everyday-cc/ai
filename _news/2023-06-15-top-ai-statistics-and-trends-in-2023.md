@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/in/business/ai-statistics/"
 webUrl: "https://www.forbes.com/advisor/in/business/ai-statistics/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "How To Use AI To Build A Website In 2023"
+    excerpt: "Do you know that you can create your own website in just seconds with the help of “Artificial Intelligence”? Yes, it is very much possible to design and generate the website on your own with the help of advanced AI powered tools and methods."
+    publishedDateTime: 2023-06-19T12:20:00Z
+    webUrl: "https://www.forbes.com/advisor/in/business/software/how-to-use-ai-for-website-building/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "p5yiXbENmEJcPrN7EdH95kwIShUc1IMZ78adGtzUGxgItsPamipvv5YgGweAkw0n6By+JxLYS/jti6A9zm9ptzts0ukuZIfXHhF5GAMUv0xDizbYSmlf/IOxAxkJBt4QyeMNRQik55snGZpVMax+eYV4t4kjdQD3Ne/W6vKi1B0/mYmqkariXyNuSOMNca1oAVwD/LrCTL2Psu+vVPESvJWM0Nj4mUV7LGac7m4frSHdI6pij52kN2Nwjv84zWDNu5uhrBxBfHUKspg65+SFjJ2BMoYLXdsuM970/xUQwuUegX2iY6GLyaOMJsPSTEet5dIxD/guYPtFJi9FVclT09xx0UjkSzAZbDpg6HXbMBC9LetMSAdYG7b8u1eVcSFxY42e71WNeyllruVw0lSfnvVM6O3L37nE3DsI8+KZpg/OxC860fmhR6vdZgkWrKUdOGZxXVxkE2i909mt9kW5AALKdaxAp3uCkemyQJG0VNJZvgaKFpV2X1FAqSD61S54mAKwUx2Ye88aBsAEiBOBjA==;3FDA+Bd5K3CgY8BU9B/xDQ=="
 ---

@@ -50,6 +50,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
+  - title: "Massage Therapy And AI"
+    excerpt: "In my curiosity, I found a few articles about AI being used in massage. That’s right folks, in my industry there might be a day when you walk into a place, swipe your credit card and lay down for an hour of massage with a pair of cold metal hands."
+    publishedDateTime: 2023-06-19T00:00:00Z
+    webUrl: "https://www.minthilltimes.com/columns/life-in-touch/massage-therapy-and-ai/"
+    type: article
+    provider:
+      name: The Mint Hill Times
+      domain: minthilltimes.com
+    quality: 34
 
 secured: "NiX5V7Wk59j8tJ24vv1za58Um1OE0gn4+kfIU+bgjCTh5TRR33ZfTaO1PXC/p0y62qekMJmQGscIMqn2cY4kl+Uo/h/s/fnI6sP/407Ti3vPHUu1VFcAetay02ih0NymUHVmfs3sjWfElYOUjN0FYbtFzr3AR/LmQVcr8XoE50pobdOX8Bc3n3QYTLvC8h9OMwWaxkOUGHZtzCy1s1TNNHhl5jljZoQL+ixNkdI9igYdukg1SlLyxozKQCK0CvCbIxxzr6gRQp/sxafYYKXx+3A1DokhW8SPwd2yi+n0Er4edk7l1FEy2lqAnAWg1bYtaHWtE5ThvNza7Q25HFJ0sD+PcMUaFLJ0av2/GzwhjC1lKWgkzVGLdGvpnp+Ta+0RQsyZUGXjGCcN4i0DGWJStV+H5ZkjMWJnG/ZGhgwt/XRqj1hnZVG4RsnIBUtI0egGSEqQDRQa4GRlSpfdV+e6pqlbsGjSx4PNS71XV3zLiIg++nBlJT8qYZDzSqTziJldZr6ggXXfQJDLuhAefiyLJw==;nDqFCgiIbLSb8F2J9hA19A=="
 ---

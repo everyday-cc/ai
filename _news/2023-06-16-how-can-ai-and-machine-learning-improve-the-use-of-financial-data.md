@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learn
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
+  - title: "Massage Therapy And AI"
+    excerpt: "In my curiosity, I found a few articles about AI being used in massage. That’s right folks, in my industry there might be a day when you walk into a place, swipe your credit card and lay down for an hour of massage with a pair of cold metal hands."
+    publishedDateTime: 2023-06-19T00:00:00Z
+    webUrl: "https://www.minthilltimes.com/columns/life-in-touch/massage-therapy-and-ai/"
+    type: article
+    provider:
+      name: The Mint Hill Times
+      domain: minthilltimes.com
+    quality: 34
 
 secured: "z0JcxkLrG8TGRyHimYLU9yu9R5We2jytR/pkpbjErtLRoQF2iHGU5ZmxW5hYhbZMuJQC8o6Ksm/a/c/8PQ2GOUknrV6EVVM/Q1njMSdt0xZtWfV05GraFHT3kRcZuL3qL6Fsovqu02FFnx3miGi2MMNjWdjYnjarWUK/Q5DXhI6kwtrtgoviPQZuOsqOjPrUnV4ZG9VwA5k4RvTeEhPlKWAIDuVrwDwp+4Vh3V4hrdHWDMSRqQtxFPLiTCIba1lBB9zviGkPS+HRjK8ItRZie2Eei9139Hgrm+NI8OplV655nPBravPi4/M9g/Kv75rWtvLYqTlJd8MU35WN3uoPDp6AdgCYZ0W4eJ3E6UkYSv+S2OSixhfUbSxoXgB7wugXfhSx2T4BGVTenBymH9UsUNnVTs7+lua3tGmlnzY6O/8EEWGuQdkv05necoVvUJcHC+ttRUfIJzATmxXIo3XtT0U9XsQ6vyzs2tBzCSq0MnN//6nNRtOHfd+1Y9ryvlEAzPXSHeOf4QNy5RjZwoP9Rw==;uJnQ9JCY1Fc6qlB2dOdouw=="
 ---

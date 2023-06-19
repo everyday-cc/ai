@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/life/technology-amazons-cloud-unit-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-amazons-cloud-unit-aws-considering-amds-new-mi300-ai-chips-report-3126357/lite/"
 type: article
 quality: 74
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "AWS is considering AMD's new AI chips"
-    excerpt: "Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from Advanced Micro Devices, though it has not made a final decision, an AWS executive told Reuters."
-    publishedDateTime: 2023-06-14T19:47:00Z
-    webUrl: "https://www.itnews.com.au/news/aws-is-considering-amds-new-ai-chips-596915"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20220802075518_aws-sign-summit.jpg"
-        width: 610
-        height: 457
-        isCached: true
   - title: "AMD stock price rises as Amazon considers buying new AI chip, report says"
     excerpt: "Advanced Micro Devices Inc., (AMD) shares rose at pre-market on Wednesday, after there was a report that Amazon Inc. might buy its newest AI chip. There was a decline on Tuesday after a presentation by the company which unveiled its new AI chip."
     publishedDateTime: 2023-06-15T00:33:00Z
@@ -83,15 +69,6 @@ related:
         width: 620
         height: 503
         isCached: true
-  - title: "Amazon mulling use of AMD chips for AWS, eschews Nvida cloud system"
-    excerpt: "Whether AMD will be successful in its attempt to take share away from dominant player Nvidia in the AI chip market is uncertain."
-    publishedDateTime: 2023-06-14T20:57:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/14/amd-amazon-aws-cloud-nvidia-dgx.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "POh9t8fPIO4JIoKA2bU6cazopa7wi2Cmf6ShrL3La3kjmyWVwS4CARDMc0U8prJBMcYQN4TjAsQcNCm4+5Cj04JSpw8pjSvSiTP6ZNsyiPYLFFBAmEYGbLRtG5b5qaBUBPvzUwOh/hV9xoRAaifGC59Jwpd3H6QjY0oW1SaIYt8RX/xMxPAFpCG/EiTTfFacOy1JKQZ23KgwC1WeSmsBQnyybT7Rd+z4Yj6SV/wxlsKkjpvJjdltDljXoC6dZvhQORNpn8E/nFPJMRdHNqiGPQ0aYDfentRFjhVeXzT6xcRgh1JpC3MaOeao3VNERjfYa1c8Im/WKk7cJan58iecDANb61uRjMNrLMw+MBMDxUuLJIPQ1YUVJ6rZC/3y6dxoFGq6Nha+i6CkX7cNgziTdZLsHJFt4XFsqus4zL+h5vxxB5tIpIK51oxLWGVHb0nU9BsP36MKikf7zlNsvZpgl1RLLGXO4YJXKyDiqMmql3jzWChgwOPONjXOJVrlBKZXUaJR+bWgYirJMntvlIW33g==;eu5Qi+oPTeomiHWz444zkA=="
 ---

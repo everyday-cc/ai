@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "With Omni Assist, Omnicom Leverages First-Mover Access to Open AI to Accelerate the Timeline from Insights to Outcomes"
+    excerpt: "Omnicom (NYSE: OMC) today unveiled Omni Assist, the inaugural Generative AI capability enabled by a first-mover partnership with Microsoft. Omnicom is the first agency holding company to have enterprise access to the latest Open AI GPT models."
+    publishedDateTime: 2023-06-19T14:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-with-omni-assist-omnicom-leverages-first-mover-access-/2023/06/19/9834868.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "AF/L+h86ap9Fg/sKPD8WzU0XEq1c6ybk6m+/nXAYVsB2BsVgM5kDrYiyp4ED/8V/C97TFvhLTk5bOvxnSrbINmD77Zezt5FpUFtc8r6g5HyfHSqE9TQ+luPmC1YZdjfuNsxLPEGKual4ZXOlQA3svjEQwLoqJLCOsEADmjeD059jnWmbpWXT5+oO0x9pnPRgRovNr26Z/RngP1Jnr+gJ5zVvnhoo0MRmsmBQoaGbDvxCFpbJY2KYhqEHdbDDEUF4J/cSk0T64ae4R9tT4ndJlQt12g9JconLyAZQnzdE/46VwEfN8UPEhboHQFYuLdoUSFy9MW3VvOdCPO/3NLnHeWbo7KJDDy+ATXXWBIbeMwY=;XG9/JIQWis2KNHgMPlUksA=="
 ---

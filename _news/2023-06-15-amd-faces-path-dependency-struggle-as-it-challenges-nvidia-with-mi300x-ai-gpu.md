@@ -55,6 +55,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AMD’s AI chip challenge to Nvidia remains uphill task"
+    excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know – who plans to buy it."
+    publishedDateTime: 2023-06-15T01:16:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/06/15/amds-ai-chip-challenge-to-nvidia-remains-uphill-task"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/15/2126711.jpeg"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "Amazon Ponders AMD's AI Chips Adoption; Boosts Competition in Market Dominated by NVIDIA"
     excerpt: "Amazon Web Services (AWS) is contemplating incorporating Advanced Micro Devices (AMD)s latest artificial intelligence (AI) chips, potentially diversifying a market largely controlled by NVIDIA. The remarks were"
     publishedDateTime: 2023-06-15T07:00:00Z

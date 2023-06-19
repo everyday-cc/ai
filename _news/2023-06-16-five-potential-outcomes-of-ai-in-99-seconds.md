@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/world-us-canada-65885899"
 webUrl: "https://www.bbc.com/news/av/world-us-canada-65885899"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 tips for business leaders to leverage the real potential of generative AI"
-    excerpt: "It feels like generative AI is everywhere. The explosive launch of advanced chatbots and other generative AI technology, like ChatGPT and others, has commanded the attention of everyone, from consumers to business leaders to the media."
-    publishedDateTime: 2023-06-17T15:21:00Z
-    webUrl: "https://venturebeat.com/ai/chatbots-just-beginning-how-leverage-real-potential-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_artificial_intelligence_technology_coming_out_of_a_compu_53e4a63c-a4cc-46a1-989a-6b3bc275a023.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Southern Baptist Convention makes official statement on dangers of AI"
     excerpt: "It appears this resolution makes Southern Baptists the first religious denomination to make an official statement on the challenges of AI and present a theological and ethical grid for dealing with"
     publishedDateTime: 2023-06-16T13:34:00Z

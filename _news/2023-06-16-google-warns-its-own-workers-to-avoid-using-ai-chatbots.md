@@ -56,20 +56,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Chatbots in the Workplace: Usage Policies and Practical Considerations Related to Artificial Intelligence"
-    excerpt: "The increasing prevalence of artificial intelligence (AI) tools and, in particular, generative AI, is creating more reason for employers to adopt workplace policies that communicate to employees whether the use of these applications is appropriate and any ..."
-    publishedDateTime: 2023-06-14T20:49:00Z
-    webUrl: "https://www.natlawreview.com/article/chatbots-workplace-usage-policies-and-practical-considerations-related-to-artificial"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 22
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/AI_Artificial_Intelligence_Robot_SMALL_0.jpg?itok=vTytjmRH"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "edAgDBQGJyKK/Ov5oXhWARETeaVBE29Mbs6D+o78sCSxBENafpPSdaUJQMF6S4T43riqRh0I2pgvOC6gSO+/BRN5bv0W7nGT5g04EXbN407im0WIA78U80GLUG297m7AuMzkoA5RTdpTp0IYJeXCLlvNexvfn+5nvHcbldzdclca88w+gggvCSG6KtsDXIMfbUZAyiXjjnt7H4V6UoL/dq3AsNY4O34TPlr8I9ffjDu6mdhC0/YY6g5fQaU4vPAE1uRozgXTZ3QbE+67pgFaEIRGPLflvXRYnFjHKCiHgFnxzUYZu2H0TY6C2oVK9qbnrMzg7xKgCEBnysH5GZEgt7P7+eYBupDo3WFz/4HA8qtjjCFFrj3eY+oq+UnRN+uJzLklkBObV2nPNbwfrBERJLjGE+vdCeKnyLIyqBOlTOiSL426nK45RcLTDsHVhYEdeMlgLTMCBqlTizeMmxlo1yuQ/A3OfX/Rhp48m+QhCkU02r2P0uXXHMSCU/RcyRQd3I1gBSIY1701BXrntJUkKg==;Kd78S+jUD5V3MRHNcuOKeQ=="
 ---

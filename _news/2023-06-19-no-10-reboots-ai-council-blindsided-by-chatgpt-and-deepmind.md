@@ -3,8 +3,8 @@ category: news
 title: "No 10 reboots AI Council blindsided by ChatGPT and DeepMind"
 excerpt: "Downing Street is overhauling its advisers on artificial intelligence (AI) amid criticism that they were caught out by the advances in large language models suc"
 publishedDateTime: 2023-06-18T23:01:00Z
-originalUrl: "https://www.thetimes.co.uk/article/no-10-reboots-ai-council-blindsided-by-chatgpt-and-deepmind-mcjknmt32"
-webUrl: "https://www.thetimes.co.uk/article/no-10-reboots-ai-council-blindsided-by-chatgpt-and-deepmind-mcjknmt32"
+originalUrl: "https://www.thetimes.co.uk/article/no-10-reboots-ai-council-blindsided-by-chatgpt-and-deepmind-mcjknmt32?ilc=timesradio:morefromthetimes"
+webUrl: "https://www.thetimes.co.uk/article/no-10-reboots-ai-council-blindsided-by-chatgpt-and-deepmind-mcjknmt32?ilc=timesradio:morefromthetimes"
 type: article
 quality: 54
 heat: -1
@@ -81,6 +81,6 @@ related:
       domain: bgr.com
     quality: 17
 
-secured: "4tbowt+ZolRUXwDO1WIESdhyKPhCOl+r0YX6d1BxCRTeF6M8HR7X2uETMcPLDh7pNcWwke9Dt6ESvV+rrLDsQ1AfzoaFMGFsra9reishoCtVSN3UosgoD1+zaFJaEvgfnCrxExDGwicQXx2ksdtsQJdZxR0FoL4mQC6ffHobpUfdja9vz+FSeRpRHHgokVBJ6CD1d91n5Bu4bVi0c13LDllTiXoweEORrFIi5mCQ13s3XhX1NF18gSz8eqs7c7TekCNzhFm9C7dBQJpQiqsTW4XHMaKrDpAUOA8QB5bNh3+O1AwOi442gnpuzMWkPlGV9mT91rxNTczD4s5ObDLpeHiZIQPaJS7UnrFWqLRzOfj2fCKt1H/YBSgkY9rHbb0Ta9tdd1Dg3YDFHM0ZLUo69ZjWoKeGKwadqCSMLalQ+S38NXeTrEvTTs5f4zlNtnBGCfYAJlJkKyiThF6xw3DZKi56MWQyuc5yN710l+AczOuCdh7gmTh5hjyGEHarWDDfvYkTpo3pUdT37/OtFV86Mg==;unJetZxVyofXg1HfYzyDxg=="
+secured: "WXkOqQUX6vU6OrqFlw7M8aruOsoknnBs7gDijgVj0n2J/ehWqV1r45xsnwpibBJsR2aDBibik+70Btk0Zch40NHAgz/D/P8DzQFrNrm1pRb3bv7jmkcW8yxD+U10YNUiKxh4OmIcnJmtN6jl5/JsJ9Hi5LUvyvECKV9AJ1MJ6bmB32SGB1++W03GLNUJgvZHyD6xhtqLZRDIbA9BOugzNjM79R6SbGNP6zkBJPET5h2Fm0/9GDivi9AR4xgLmEcFG+Ts3S1NChUqxmAtySvbZF4ZX6SWX8s0Q3W0C9vGbmSZNw7awLzMgi4/2MsCPwe778oTBo9HM/lD5gvxS6jItO0GGp2SoOv6zwsHcyf+NbY=;pFz921WQacr/6zQYmw4TaA=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-a
 ampWebUrl: "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/"
 type: article
-quality: 98
-heat: 128
+quality: 100
+heat: 130
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64902945286542b0783b3640/0x0.jpg?format=jpg&width=1200"
@@ -60,16 +61,16 @@ related:
         width: 1200
         height: 979
         isCached: true
-  - title: "Google's new AI tool aims to make online shopping more diverse and size-inclusive"
-    excerpt: "Cher's virtual closet in the 1995 film classic Clueless is one of the most coveted futuristic tech suggestions of the pre-Y2K era. It's also the closest comparison Google has for its latest virtual try-on tool,"
-    publishedDateTime: 2023-06-14T19:08:00Z
-    webUrl: "https://www.aol.com/news/googles-ai-tool-aims-online-160841592.html"
+  - title: "Embrace AI: Top 3 Tech Stocks Crushing the Competition"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Generally speaking, tech stocks are crushing the competition in 2023."
+    publishedDateTime: 2023-06-19T12:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/embrace-ai-top-3-tech-stocks-crushing-the-competition-1032396831"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 12
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
 
-secured: "KMmyJ3dVsoqg1PZAMBJIUUAwyOlMmsAZBuk1yWDI3Bpr0NM8tA8Ng/NbQQxgnrmO7WGxNDlKejrcfoL2Sk5ktMENrGqafvXtbHUXnWfaZAzbBZGXMIB2I4y3thzAVhI9DHf5Mg20YiPPPqsEvKckwDaMt1iL0ziHtief1+SaRSQK4OGxA1YrnHxBg8xwV7TGeB8Vo9aH9kIj9tj5SHUuv5YiILuxsri/qcS4Q26Desqd7Fa9ovusHpmqVxnMb8f8YB8cSM1G8tWEOkdLx4FDYlc4UBknDR88RHkSJoNUSJR2+Y7hfxYNmqqsJYwJqJFoNyNzsah9QZVXt9F27g5MX5LHj+Z3xSvNqwkoBcDd3Ck=;MU49PG+jy3i1ptzaVhCQJg=="
+secured: "QMXnC6gxcbEOGxQZDM3H5KMVt2W1up2nWBSFL12agVD/V5CUObg5RSQLfmwjCXLBac2VylHzmSuqjfbsJktl7IBWjlDEKiIhA98Bbm/7aiA69p1Qb+NiqHli7UtoZetIVnTok8ZajmNtTLWJ+xkN8UQmrHKUumpicJsd58rYYDcUOzI/yHevZGwqaUExi8bUhqgHvPs1SiwBNraEf4c9Hjb3MboavkyhOKp1jNbGwzghNC3qgvbZzWKo1wWxk63JpGPpxv6NuRSPkB/LemBWJQDSbO2EkrnrDcVPtShIbfnuNpqdrPAHxdHOuNWh9ue4pmp2nwlwlNjcDUpDiOFfT2ypVNMdFZlSrK0iXJfC+62tWfpuTUa1RSzidvRcukOyGz39dqx9I51Zx/5fh34Tl3Kbr2r+BBHt0wfFtk7xL7hr7XkdnPTQCDou2cMdvMSZVWebYkvYCckx0Tc0ROY1NUvrf2GtU0ynkzcTUPzGbMttyOZpZHQCBFDETeof33h/sNU5QpkFyMLBbiiEfDw8uw==;iHWb/XFXXzJjUxu2105r2Q=="
 ---
 

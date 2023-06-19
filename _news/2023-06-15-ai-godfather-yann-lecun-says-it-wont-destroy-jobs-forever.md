@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-65886125.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65886125.amp"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1232B/production/_130093547_ai-index-meta.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI 'godfather' Prof Yan LeCun says it won't take over the world"
-    excerpt: "In 2018 Prof LeCun won the Turing Award with Geoffrey Hinton and Yoshua Bengio for their breakthroughs in AI and all three became known as \"the godfathers of AI\"."
-    publishedDateTime: 2023-06-14T23:02:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-65886125?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-65886125.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65886125.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1232B/production/_130093547_ai-index-meta.jpg"
         width: 1024

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/the-future-of-personalization-how-gener
 webUrl: "https://venturebeat.com/ai/the-future-of-personalization-how-generative-ai-is-elevating-customer-experiences/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 34
-  - title: "Primer raises $69M for its AI-powered analytics tools"
-    excerpt: "Primer will use the capital to hire more employees and enhance its technology. San Francisco-based Primer provides analytics software that is used by government agencies and enterprises to scan large amounts of data for useful insights."
-    publishedDateTime: 2023-06-14T19:40:00Z
-    webUrl: "https://siliconangle.com/2023/06/14/primer-raises-69m-ai-powered-analytics-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "emTUsy5xuSKWR9XEpXNxBdFTPuZEzGfCniG9obOG4K1xyOh7Ccv6oJH0V1krIHf02da1w2dl128vh6ODVQPRkvrghJ9nFhtS9hVt3x+XuJ1SV3IaszztmrLPIVzXnfFk9tjEoot+9ftZPkX3pX2X2QjJI2GsnP+rS0yOq8HbPwOItPwwE27YZd1ANAdfdLkzpMZ3v9NMCo0YQU+NivOUqc+l3AKJrCvyrQ8IEUzd5Z5ZFMdCJxjVJSEWFgx2WerDPcUoNqsM/U6c5ZFYvPhstJfTfGVhWxBcA/pEEMumjFIbdO4kXdUDuCchylE94T7BvsTDZlV6JtOEK02nvajuZfud4kHzI2Cnk6uE+tBBC8k=;Lbc9eX8YV6xdbq4F+g0mBw=="
 ---

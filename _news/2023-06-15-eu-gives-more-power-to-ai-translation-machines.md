@@ -35,50 +35,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Europe takes another big step toward agreeing an AI rulebook"
-    excerpt: "The European Parliament has voted to confirm its negotiating mandate for the AI Act -- hitting a major milestone which unlocks the next stage of negotiations toward a pan-EU rule-book for artificial intelligence."
-    publishedDateTime: 2023-06-14T21:13:00Z
-    webUrl: "https://techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/"
-    ampWebUrl: "https://techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1242038246.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "EU takes major step toward AI regulation as the AI Act moves into final phase"
-    excerpt: "If the AI Act gets put into law, it would become one of the first major laws to regulate the technology. This would put the EU squarely ahead of other countries like the US and Ch"
-    publishedDateTime: 2023-06-14T21:32:00Z
-    webUrl: "https://www.androidauthority.com/ai-act-moves-forward-3335218/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 64
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/bing-chatgpt-chat-ai-icons-scaled.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Europe Adopts Groundbreaking AI Regulation"
-    excerpt: "The European Union Parliament, in a landmark move, has voted in favor of the proposed Artificial Intelligence Act, revolutionizing the regulatory landscape of AI in the continent. This pivotal decision ushers in a new era of AI governance,"
-    publishedDateTime: 2023-06-14T20:05:00Z
-    webUrl: "https://www.unite.ai/europe-adopts-groundbreaking-ai-regulation/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/06/christian-lue-MZWBMNP7Nro-unsplash-942x600.jpg"
-        width: 942
-        height: 600
-        isCached: true
   - title: "Australia: Regulating AI – Emerging Issues"
     excerpt: "Amid global calls for tailored regulation of artificial intelligence tools, the Australian Federal Government has released a discussion paper on the safe and responsible use of AI.&nbsp"
     publishedDateTime: 2023-06-16T00:00:00Z
@@ -93,15 +49,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "AI Regulation in Europe Gets Closer to a Final Vote"
-    excerpt: "Legislators across the European Union have come one step closer to implementing broad artificial intelligence regulations. The EU AI Act, a proposed law that would assess and restrict AI applications based on risk,"
-    publishedDateTime: 2023-06-14T19:58:00Z
-    webUrl: "https://www.extremetech.com/computing/ai-regulation-in-europe-gets-closer-to-a-final-vote"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "qucq4JIuGuNKyntjfvnr1tPOEhnk9f8x+zoOZbnJ5aiCcaXrvU4VDkBDXVrVdhSOn9g0BriYbTxmg5D9h71xfe5Y+gp4DPyceHLww+H/d8Itfp167Ey5I0zLE2xvgej87k8rCSulkewy/ZUdfYQNZ+oGnHySBrf8Jk4I+qPnBPCZsjqqwJXDiK8OmclFTdshDDVA15kyi4bvpoh3xIX5jCE2nLeex0CJwyf+l6KA0tsVIMpIVUo7aruwYujJs+IA9q5+YoaThpRnctz1bAa/9LaSFJDxkqwDQNWNwoVld4+Sv2+xZAUYCJFMWeiZbjdt2oovtN3SJDHqccq12HG2dYXDEwkZMnt1Pku0BRSI77fQsu6/hlBeKxOgV5im7XYqTeVaNo2xVlL08SHWzO0C7lrKllOH8RdPup1+dHU0eIeTNGfI56UPjFVvzqinnJL/LiBMv6NufkTy3XPXDq9qscl0iH3SX3kdVXvg9M1qF+tSbfPKq8IhnOk07dAzpjUmsmODVPEPHt5cBLf7Dek1gg==;R5jn1ccstHR3tCz92oEe/w=="
 ---

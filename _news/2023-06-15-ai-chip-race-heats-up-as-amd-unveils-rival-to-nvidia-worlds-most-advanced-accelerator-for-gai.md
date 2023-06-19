@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AMD’s AI chip challenge to Nvidia remains uphill task"
+    excerpt: "Advanced Micro Devices Inc (AMD) on Tuesday gave new details about an artificial intelligence (AI) chip that will challenge market leader Nvidia Corp, but the company left out what Wall Street wanted to know – who plans to buy it."
+    publishedDateTime: 2023-06-15T01:16:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/06/15/amds-ai-chip-challenge-to-nvidia-remains-uphill-task"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/15/2126711.jpeg"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "AMD faces path dependency struggle as it challenges Nvidia with MI300X AI GPU"
     excerpt: "Advanced Micro Devices Inc. (AMD) on June 13 revealed its most-advanced GPU for artificial intelligence (AI), the MI300X, trying to get a bigger bite of the pie of the GPU market that has been ..."
     publishedDateTime: 2023-06-15T12:56:00Z

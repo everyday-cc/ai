@@ -35,7 +35,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 98
+    quality: 100
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64902945286542b0783b3640/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -57,15 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google's new AI tool aims to make online shopping more diverse and size-inclusive"
-    excerpt: "Cher's virtual closet in the 1995 film classic Clueless is one of the most coveted futuristic tech suggestions of the pre-Y2K era. It's also the closest comparison Google has for its latest virtual try-on tool,"
-    publishedDateTime: 2023-06-14T19:08:00Z
-    webUrl: "https://www.aol.com/news/googles-ai-tool-aims-online-160841592.html"
+  - title: "Embrace AI: Top 3 Tech Stocks Crushing the Competition"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Generally speaking, tech stocks are crushing the competition in 2023."
+    publishedDateTime: 2023-06-19T12:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/embrace-ai-top-3-tech-stocks-crushing-the-competition-1032396831"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 12
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
 
 secured: "qQBYURwD0lWuL/VPu43krsRJawNSzAHfBXZangCWdSyLw1k3L+9E+0vwCba8mUOg7wgnT23GaQAflJIVxJId9Rw/GvIqAnjGo7pgKWxdZX/hjvaNeiA/MqSgmjV+lYuY/KgB1nISOwdhYRpKo3+ijK9tBvuHUHMVlkM41xQ0xfH8ZZ3bnp7szxV+vVbUk0NfMvfWoAZkSWiJ2yaiRYOqFroc1D0eh9SprE0dG+ppm6eyt6uWHJLpvXrr5+HvIk7HWvcrzSGjJYSB1RJXJt4UnBrFEEG1Cy1cnkx0d9PI4eow/rvtgqhmxZHFXBTjFOlwDmurDWX97+Sb4aSG0FZoKs1YdqYuK5fH+3DdjNuImmyUuCB1MnUe3PNEvJhq+YpE4AhR5rsn3ZgwhQrF3uJ+DMSubonkpzK0YLqunfPzrj7erv7TQuotFuMmUAJQuz4Z0bKapx6zH8IDP3ZEHavnLm5clJTMe+/qrMBdLITjAq/6wStGhaAeAmi8G+o14jsXPc7j45tiupW9XrYD4CG6IQ==;UahFq2fxXvR5ZHoEVIJRTw=="
 ---

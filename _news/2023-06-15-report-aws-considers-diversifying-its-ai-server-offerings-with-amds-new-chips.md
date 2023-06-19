@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AWS is considering AMD's new AI chips"
-    excerpt: "Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from Advanced Micro Devices, though it has not made a final decision, an AWS executive told Reuters."
-    publishedDateTime: 2023-06-14T19:47:00Z
-    webUrl: "https://www.itnews.com.au/news/aws-is-considering-amds-new-ai-chips-596915"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20220802075518_aws-sign-summit.jpg"
-        width: 610
-        height: 457
-        isCached: true
   - title: "AMD stock price rises as Amazon considers buying new AI chip, report says"
     excerpt: "Advanced Micro Devices Inc., (AMD) shares rose at pre-market on Wednesday, after there was a report that Amazon Inc. might buy its newest AI chip. There was a decline on Tuesday after a presentation by the company which unveiled its new AI chip."
     publishedDateTime: 2023-06-15T00:33:00Z
@@ -84,15 +70,6 @@ related:
         width: 620
         height: 503
         isCached: true
-  - title: "Amazon mulling use of AMD chips for AWS, eschews Nvida cloud system"
-    excerpt: "Whether AMD will be successful in its attempt to take share away from dominant player Nvidia in the AI chip market is uncertain."
-    publishedDateTime: 2023-06-14T20:57:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/14/amd-amazon-aws-cloud-nvidia-dgx.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "11THYW0Q49aKHBOOmBPl3SdN3LMb/gGdJM3E7Z/a0eoXf1F1e4A7JEs/9jbqumXlCD8l1Z5NbGYzE/yCi6/SlvGgpUUCrY80Fqymj1rN4S6AsXupVcjuR8z2SqkAZ2dSWtL+EEyeSvHv8bsKMXmMQpC+2YR2CSSiW6dqkUeo7ZGHHQwbLppbzsXnlm6rM07E+9bTNXHny5CTkbms/FRq3bFc+B8drLcOMRu6RRAn3ZVmTWzOuK5ZAfhg5iMk/6WB8M1uKIT2RX9jHtuQnLcJkwp0BKXdfYKXMeoal/2EZigSP3CMlVRkVneF1X6ayR0ox+bUwr1bZ5s6BJs9lFFhq9DFcbNYfYU8CoflmhKNUXxtyyixQbhADK+jhwr+Oh3RtiC/k2JFWZVFLG34EFdMrq52E15TJhQ4rysTMIfd8/Mj9205CpNAzUZUv+Y5GNG7Yl6I2NbG5YGuA9kkxo/8ll846noPi3JqFCiImFXMaOSKz2OpYLwFIx0tbzPucUwPWGHUXj8W1+iK5peduO1VWw==;g5OTB8DSO3RVOZ45MbvwfQ=="
 ---

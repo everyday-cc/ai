@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 751
         isCached: true
-  - title: "How AI can have a tangible impact on healthcare"
-    excerpt: "AI and machine learning can help reduce medical errors, relieve administrative tasks, and reduce wait times for procedures in healthcare."
-    publishedDateTime: 2023-06-14T21:51:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-ai-can-have-a-tangible-impact-on-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence and the Future of Jobs"
     excerpt: "The growth of artificial intelligence (AI) is driving fearful discussions around the disappearance of jobs and tasks that are traditionally done by humans. This has particularly impacted the working class,"
     publishedDateTime: 2023-06-16T11:33:00Z
@@ -96,15 +82,6 @@ related:
         width: 930
         height: 620
         isCached: true
-  - title: "Impact of generative AI on chatbots"
-    excerpt: "From cloud chaos to clarity.” Generative AI can enable chatbots to provide meaningful and relevant responses to users, but there are risks and challenges that must be considered when adopting it. Click here to continue."
-    publishedDateTime: 2023-06-15T13:05:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/15/1074743/impact-of-generative-ai-on-chatbots/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "KZNBj1iW9mteMdyoITbQF3dDjrNvVmbrMNo2hiUJuuKixewz2BR2NUGUxnBHt+AOykV8oK+bYlbAc1MRl/2VzbVRTWjKG7v0TH4//ovaGauLyWh2ckvS1hKk/yvNaICOKXcre3wCaupT/Q0CCi/JHtXjzN6KGk0bGIVGLqrCJnN72Q93fNDpXAyfibmDvglwI5NdNVSZ8KDqhn7p4HNZEoHd6923kHOpIXiFq36nHyJAO2T9wcmXTFTiVSu/P5Lk9zIbCnn3LlSYMnrhl+HHVyR+S1lRme+DEO00bLyNTPuhSwoFOtT3TqJFqiqKj52t600i1uT/nJAJE7xPzGaU5GSA4mTeQzzWr5GIYjJKhptpdFZyGsjL+yNqRU3gVXeMfyIVL/sthyP7CQLDmbAc25yzQXuSwo5TDIBpyBb81HDbVCbuC8yF6oVBOLbLXc+t0r2EoCA/NjRnpjPruj9fIsYWW/laC5P7P9nQcQCFjI0wR8N60vOakGIYeolTfri539AFFahF3N3AyMRaqcJGIQ==;gy14+qcvCL3gM1G5Ymsolw=="
 ---

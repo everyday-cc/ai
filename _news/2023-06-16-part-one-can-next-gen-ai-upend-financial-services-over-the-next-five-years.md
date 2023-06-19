@@ -52,6 +52,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Massage Therapy And AI"
+    excerpt: "In my curiosity, I found a few articles about AI being used in massage. That’s right folks, in my industry there might be a day when you walk into a place, swipe your credit card and lay down for an hour of massage with a pair of cold metal hands."
+    publishedDateTime: 2023-06-19T00:00:00Z
+    webUrl: "https://www.minthilltimes.com/columns/life-in-touch/massage-therapy-and-ai/"
+    type: article
+    provider:
+      name: The Mint Hill Times
+      domain: minthilltimes.com
+    quality: 34
 
 secured: "Snyys/dhaWeQV3V5dZMIdbJ/WUiu37ljGK94U4tKGZ41/bYYfSX+UvupuxzcUlebb13Q3u+tQAUilq6nh/p0GSgX2Et2ZBIb78dKv9+jX23iy1khpRB2JSWgj44tk3hr7xrT3NnsC7uTMA3GXMOcvu6VPg3Rv4kNhTPABeM06e6rW/1TChyYoL188GID9Badftg0KWgXkG74ollf1SMmbVuJBWDKdZAmd7Nt1zRe+AmIvRDc405bZnFs1C4Rs39EwyI8f3tBofnkZ+mp+yrScwP5BclZHG0Kaop9SpnpTPSkeoTUuiTXCQ019C2ZaL6DbSFAqpiAUnjXPzxTb0sScpQRRrcQFRIE8wor0XGjrGjR9z64SmyMwC9p1FTxRku8/jQz/tYfQTZUXPaWTG1afmSPlnmps74sZ/8K8wEucB79cXXbvdH+YRAPJSXk+DhOpd+nOuIOareRZ0Q/WdqL1u+3U5yjv8OgqukyYuhiFKM6QgAiTPXIUBk2WUIbQnZ2++3LCzs+b4h2yMFCLNAYlA==;0Ve/Kwgv3oLApYOjtLIT0g=="
 ---

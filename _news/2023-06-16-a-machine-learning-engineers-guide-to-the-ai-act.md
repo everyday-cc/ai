@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Best AI Apps to Try Now"
+    excerpt: "AI tools can turn your ideas into impressive text and graphics, if you know the right apps."
+    publishedDateTime: 2023-06-19T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/ai-apps-tools-214958d8"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-799666/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "The Ghost In The Machine Shouldn’t Be AI"
     excerpt: "Once upon a time in the 18th century, a fantastic chess-playing machine known as the Mechanical Turk was exhibited around the world, stunning audiences with its ability to beat skilled players and heads of state like Napoleon Bonaparte."
     publishedDateTime: 2023-06-18T23:16:00Z

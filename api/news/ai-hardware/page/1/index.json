@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-16-nvidias-lead-in-generative-ai-market-unchallenged-despite-amds-new-ai-chip-launch-analysts.md",
+      "title": "Nvidia's Lead in Generative AI Market Unchallenged Despite AMD's New AI Chip Launch: Analysts",
+      "excerpt": "Nvidia Corp (NASDAQ: NVDA) peers have struggled to gain traction in the generative AI chip war as the former grew in leaps and bounds.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-s-lead-in-generative-ai-market-unchallenged-despite-amd-s-new-ai-chip-launch-analysts-1032392804",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-s-lead-in-generative-ai-market-unchallenged-despite-amd-s-new-ai-chip-launch-analysts-1032392804",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-hanmi-semiconductor-rallies-tracking-us-ai-chip-stocks.md",
       "title": "Hanmi Semiconductor Rallies, Tracking U.S. AI Chip Stocks",
       "excerpt": "Hanmi Semiconductor's shares jumped Thursday, tracking the rally in U.S. artificial-intelligence chip stocks overnight. Shares of the",
@@ -1439,50 +1482,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-ai-driven-security-processors-on-a-single-chip.md",
-      "title": "AI-Driven Security Processors On A Single Chip",
-      "excerpt": "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip",
-      "originalUrl": "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg",
-          "width": 1024,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electronicsforu",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

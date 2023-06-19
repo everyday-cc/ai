@@ -46,20 +46,6 @@ related:
         width: 1054
         height: 593
         isCached: true
-  - title: "How AI can have a tangible impact on healthcare"
-    excerpt: "AI and machine learning can help reduce medical errors, relieve administrative tasks, and reduce wait times for procedures in healthcare."
-    publishedDateTime: 2023-06-14T21:51:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-ai-can-have-a-tangible-impact-on-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "This Is the Worst Part of the AI Hype Cycle"
     excerpt: "The reaction this elicited on WIRED Slack channels was somewhere between “cool” and “gross.” Using AI to resurrect Lennon for a new song has its appeal, but given the recent ethical questions around using the technology to make fake songs from artists like Drake and The Weeknd,"
     publishedDateTime: 2023-06-16T13:00:00Z
@@ -97,15 +83,6 @@ related:
         width: 930
         height: 620
         isCached: true
-  - title: "Impact of generative AI on chatbots"
-    excerpt: "From cloud chaos to clarity.” Generative AI can enable chatbots to provide meaningful and relevant responses to users, but there are risks and challenges that must be considered when adopting it. Click here to continue."
-    publishedDateTime: 2023-06-15T13:05:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/15/1074743/impact-of-generative-ai-on-chatbots/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "K9U8kD4wIcYRJ/hcsumsmadBaKKuZRRsQwqMjISQiRG+yi6N3IPZFLhEoCqSggk/xcwo5EwKDGtR8+E0DTxmfx591/CIpWiomlnsyonMQhpBKEpaoq/uA/xm7AZlsgMVI/1FoeGoECxK00Gu/eRdCqS2RXp/ScVVoqwHZG8aaI7yNEjPQdbcWBrWwGocuFr4C1v9gN1/ir/ooSFJrMfExcNGh9VAliuHogpvH+YqCSudzr9nT1e/sNAY5TzUJYpXlYJKuKEvHWCRAgzrbW5XLOyeuppkjYlOFb3aW+e7HqfnNka+p892kuz+BFvXgmOF5YdnrD5KfKwbVktP7NnsTLp+TrTn3cYP2ScZ+P+/6sZ+m6sHX1HzFYu4LUTevf20OPGIku8JD11pHqw10P7BXy2BZQasyFl1vRzz4IZlxpIL311lX+XhJumEhAR6Wn4i9bsEZNH1RiZ3qj+9/XJtz0po5lEajHiP7fuaUWzz+TvrY0bkK/TPMZx/fZ5DEwY/s/ChHAELHq1HqbdmEkEqKg==;fYY3bZYWlwM4858vE7ncDg=="
 ---

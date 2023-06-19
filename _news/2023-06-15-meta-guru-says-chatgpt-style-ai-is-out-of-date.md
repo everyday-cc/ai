@@ -60,7 +60,7 @@ related:
   - title: "No 10 reboots AI Council blindsided by ChatGPT and DeepMind"
     excerpt: "Downing Street is overhauling its advisers on artificial intelligence (AI) amid criticism that they were caught out by the advances in large language models suc"
     publishedDateTime: 2023-06-18T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/no-10-reboots-ai-council-blindsided-by-chatgpt-and-deepmind-mcjknmt32"
+    webUrl: "https://www.thetimes.co.uk/article/no-10-reboots-ai-council-blindsided-by-chatgpt-and-deepmind-mcjknmt32?ilc=timesradio:morefromthetimes"
     type: article
     provider:
       name: The Times

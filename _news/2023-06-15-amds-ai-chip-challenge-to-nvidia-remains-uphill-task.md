@@ -25,63 +25,64 @@ images:
     isCached: true
 
 related:
-  - title: "AI Crypto Tokens Lose Steam as Post-Nvidia Earnings Hype Wears Off"
-    excerpt: "Artificial intelligence (AI)-related tokens have lost as much as 25% of their value in June, as hype around the sector wore off after chip-maker"
-    publishedDateTime: 2023-06-14T21:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-tokens-lose-steam-as-post-nvidia-earnings-hype-wears-off-1032390187"
+  - title: "Morgan Stanley says Nvidia is the top pick for artificial intelligence over AMD"
+    excerpt: "Nvidia is the way to go to capitalize on the artificial intelligence boom, according to Morgan Stanley. Analyst Joseph Moore switched his top pick to Nvidia from Advanced Micro Devices, and hiked his price target,"
+    publishedDateTime: 2023-06-16T09:03:00Z
+    webUrl: "https://www.cnbc.com/2023/06/16/morgan-stanley-says-nvidia-is-the-top-pick-for-ai-over-amd.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: CNBC
+      domain: cnbc.com
+    quality: 63
     images:
-      - url: "https://www.coindesk.com/resizer/eBRDq6blcXlVZ9o6b5PKJ20hi9c=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VJ7B7YWIIVFDBNYE4B3C5O4O2Q.png"
-        width: 800
-        height: 600
+      - url: "https://image.cnbcfm.com/api/v1/image/107249321-1685630435513-gettyimages-1494623399-0j5a0211_n4plkmvu.jpeg?v=1686913396&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "AMD Unveils Advanced AI Chip To Compete With Nvidia In AI Market"
-    excerpt: "Advanced Micro Devices (AMD), the Santa Clara-based semiconductor company, has introduced its latest artificial intelligence or AI"
-    publishedDateTime: 2023-06-14T20:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amd-unveils-advanced-ai-chip-to-compete-with-nvidia-in-ai-market-1032390009"
+  - title: "AI chip race heats up as AMD unveils rival to Nvidia-world’s most advanced accelerator for GAI"
+    excerpt: "Advanced Micro Devices has revealed a new artificial intelligence chip in its race to compete with rival chipmaker Nvidia in supplying the foundation for a boom in AI-fueled business tools. The semiconductor company,"
+    publishedDateTime: 2023-06-15T03:51:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-chip-amd-nvidia-generative-ai-lisa-su-71686757954749.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "AMD unveils AI processor, looks to challenge Nvidia"
-    excerpt: "AMD is coming for Nvidia’s AI crown in a big way with the launch of its new Instinct processor, which it claims can do the work of multiple GPUs. CEO Lisa Su called the Instinct MI300X “the most complex thing we’ve ever built.” She held up the chip, which is about the size of a drink coaster, at an event on Tuesday in San Francisco."
-    publishedDateTime: 2023-06-14T21:40:00Z
-    webUrl: "https://www.networkworld.com/article/3699434/amd-unveils-ai-processor-looks-to-challenge-nvidia.html"
-    ampWebUrl: "https://www.networkworld.com/article/3699434/amd-unveils-ai-processor-looks-to-challenge-nvidia.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3699434/amd-unveils-ai-processor-looks-to-challenge-nvidia.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 62
     images:
-      - url: "https://images.idgesg.net/images/article/2022/12/graphic-board-micro-chip-processor-abstract.jpgs1024x1024wisk20csvm36ypnf8nec6qon80o9dl2g_zizhylac5qb0wiabm-100935569-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://images.hindustantimes.com/tech/img/2023/06/14/1600x900/AMD-AI--0_1686759502337_1686759560307.JPG"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
-    excerpt: "Wall Street has singled out a number of chips companies that could get a boost from generative AI. The combined stock market value of AMD, Broadcom and Marvell jumped by $99bn, or 20 per cent, in the two days after Nvidia’s stunning sales forecast last month. But their AI-related sales are not expected to come from the market dominated by Nvidia."
-    publishedDateTime: 2023-06-15T10:00:00Z
-    webUrl: "https://www.ft.com/content/052e9375-b828-4d5c-aca8-d16c8926017c"
+  - title: "AMD faces path dependency struggle as it challenges Nvidia with MI300X AI GPU"
+    excerpt: "Advanced Micro Devices Inc. (AMD) on June 13 revealed its most-advanced GPU for artificial intelligence (AI), the MI300X, trying to get a bigger bite of the pie of the GPU market that has been ..."
+    publishedDateTime: 2023-06-15T12:56:00Z
+    webUrl: "https://www.digitimes.com/news/a20230614VL207/commentary-ai-gpu-amd-nvidia.html"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
-    excerpt: "In the three weeks since Nvidia shocked the tech world with its forecast of an unprecedented leap in sales, Wall Street has been on the hunt for other chip companies that could benefit from the latest AI boom. But as the search has gone on, the gulf that ..."
-    publishedDateTime: 2023-06-18T02:38:00Z
-    webUrl: "https://www.ft.com/content/052e9375-b828-4d5c-aca8-d16c8926017c?miRedirects=1"
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230614vl207_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Amazon Ponders AMD's AI Chips Adoption; Boosts Competition in Market Dominated by NVIDIA"
+    excerpt: "Amazon Web Services (AWS) is contemplating incorporating Advanced Micro Devices (AMD)s latest artificial intelligence (AI) chips, potentially diversifying a market largely controlled by NVIDIA. The remarks were"
+    publishedDateTime: 2023-06-15T07:00:00Z
+    webUrl: "https://www.econotimes.com/Amazon-Cloud-Mulls-Using-AMDs-AI-Chips-1657872"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 45
+    images:
+      - url: "https://f1.econotimes.com/2023/06/o3ivuqy5on_th_1024x0.jpg"
+        width: 1024
+        height: 644
+        isCached: true
 
 secured: "fwW7l5hfwwnAJOYxF5TBnk2RsjNXD3M6IB6vDKr+aQrnGoj4o45l6la9uiyadf09NHp4xs9R6KrGsbGUXLXKK/RWc/OJEWTHX98nvCDaGHKa7fEFttCisObfQ7UpGxkbVfoJC1lvWVZbViqal5rwGC1w2JsG0tyuFNO7e15pj8urXP+Ua2W1IDqjEqbkcMu04acXBlql/i9fi54CyA9JUN78t9+fGJU9xDqPUX+Q8CbE3y/j1kF99795hOWa7juic2agFD55Rwe6/Q43bKtyKpOZlTW1tFhx6GgBwCEGI5sQKEBuPKL8R1eWqWcO1FUiOUuj874dX255bo/oxIp5FNBoSOc2YEJ8xZW9jGUn4Ls=;gG5hH83WPaqORbyxp2SOew=="
 ---

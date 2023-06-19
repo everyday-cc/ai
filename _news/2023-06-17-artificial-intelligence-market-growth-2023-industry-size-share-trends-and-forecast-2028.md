@@ -42,6 +42,15 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "How To Use AI To Build A Website In 2023"
+    excerpt: "Do you know that you can create your own website in just seconds with the help of “Artificial Intelligence”? Yes, it is very much possible to design and generate the website on your own with the help of advanced AI powered tools and methods."
+    publishedDateTime: 2023-06-19T12:20:00Z
+    webUrl: "https://www.forbes.com/advisor/in/business/software/how-to-use-ai-for-website-building/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "8SBotVcrLxBSGqdoUtKWPDqr1+S+nBaYOHvf0oV8U2EMvNSSZaV/1RV385oizzd8wZbY64L0guBWx+CWDaVUL2N/05zQqCbdkCzH+lV/owaR/L60XMFJeL3/5Ex88e+Q44il6wLxTcdugvsU6PbAgX+zJomGMwGHjMbPDTJTE01C+nkmiyn1YMcrg6ZBTEc97fSKUjcMn3Up3U/dm16plSPawZX7PLhckFB0s3AHA/wG1TL/8LR54WNyZcFU4dgdKJVdQXYXM3o2L4PJ78PvzcOBtKPGG1gyHwPGXotN9auyPFkxrlQReKJoefz7vQ/Fiz4VAOyXiipT8mSEg7+GJOrCYCSlKkGhjdBES7OSRkE=;QWGqhaf1GopUl1AXxyOh2A=="
 ---

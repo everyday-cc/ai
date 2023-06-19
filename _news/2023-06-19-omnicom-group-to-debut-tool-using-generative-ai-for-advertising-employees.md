@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/omnicom-group-to-debut-tool-using-gen
 webUrl: "https://www.wsj.com/articles/omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees-4976424"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -42,7 +42,16 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "With Omni Assist, Omnicom Leverages First-Mover Access to Open AI to Accelerate the Timeline from Insights to Outcomes"
+    excerpt: "Omnicom (NYSE: OMC) today unveiled Omni Assist, the inaugural Generative AI capability enabled by a first-mover partnership with Microsoft. Omnicom is the first agency holding company to have enterprise access to the latest Open AI GPT models."
+    publishedDateTime: 2023-06-19T14:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-with-omni-assist-omnicom-leverages-first-mover-access-/2023/06/19/9834868.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "f41NSHlbez8YCTXcSoLoERxPkj5kDuqooRw5PRgh0A3T/guDdrzHhJBi7cPI/a/RvX4rIHOWYkxWBBbYWz8u3YtV760ckESodw1LfnFUl7pDtbzn0o6lhYAXgE5tVHjPDRYifQB7HtmULJvW5+cj7+CZGl3cZR4Pdqyj6YUK/XQHWR33XPlbYqPdWxRdnAjL8SHjm6770vJyl3npnaMu4kiP5VFf2b4oToQbJB6HAs90zWx/p81bC+dbtOM1gFGhxxv+oPmI6bOFJHNb5+IbkoHBI/5suW4/+rmt8GrhjhP+8oKPfZNCJ8DwpwHcVVFtWKR/UuL/At4RLxMhp41aUzPMeQVAjbXcMJwH2k+dBZk=;SccJpoBOftlCpugFUn+t5w=="
+secured: "k42OHXdSk1xhBlOK/6CmJ9JO3wJ6lxoDOov1D3IHgliOficMAenFwBKsO8cH7729UfUM9QffNVxcY7uzzNnX+fFABvsZhB5KYVQH+wptgu7Iox2Hnz+TZeps0+QFHQVN6FbpQZl79lyVAA6Ypi8NsCWTznktQujBV9mWSNa3pm6xbgWKriTTzUoME66lKVTfR4zcHCUybTWhIq6LsNt03EjTCtauUGzLWZFoJt1b+OPfmiP52r+OtamxX22IZBOpHPDTVfjZAYBwnvyQm7hs8HFs1U8f8fbVndRxm78vsOISK1R05rMtM8Zqw7fjcalCAZsGLttwD8d0Y1Ab0nognuARD8vxwK+8jcGJdb7l7E0YvMajXnPq1Epm5Vu4qzqqNKZ51RxnBeAA+INHAR+j/MvgDUrCzNXycIMhNfr/yDGSoteeiPI+EWsS2rQEakcbB+9hLi3SwX9rXHpku+wIgWLpqEL0ijn0d0JZv9p2XdtGxu8+P0VbgFInbXYq5t01SgQKFcBWOX7xOOUXgXKqDg==;4qRcAK35AfMqjvHgx+G7ag=="
 ---
 

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "The Best AI Apps to Try Now"
+    excerpt: "AI tools can turn your ideas into impressive text and graphics, if you know the right apps."
+    publishedDateTime: 2023-06-19T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/ai-apps-tools-214958d8"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-799666/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "GouT8pysdRvzgeixb/pb7Y1eelJJvwNb2F7J3Xt3q2Yhr2IAU948DDNd8UMHD9/Yore6QNoU6OdlcMddwE+Mck83GKKfADkaQU0USohhQrEPTgGNIi/XyBizWo6EWRXJegRUe/tQ/iQ9hOlyOu9lcr5nY2bpSK1g83BmDNkiX+elloDGmQ4eVXMlxj6jJR/EiJs+aRKUkH7bJhJeX1bztrmMJkG652cmeI23KyMO9rx6pUhMbPHSxOw60ETjOybO73AxDGmVDi3oud5dG1iU122SAXT6Ml0b+y5F7xfn7YyY1c/VscF6mSwWI0uFK7CoCJq16pzOAHWE8Z0fegmWD/fDrcdvqus5u1xGvPGib/tVGNgCB4qbb7h9xt7mj3Mg9XfZ0Ope40nK8KXyWZYGZyMprZYHCm9zxyI6DvNCwGxL9fhJ12ncCVCbAguF8wIzMm1aNegVGMg8DfOHgyYx0/fRm07dFu5nLM8vmt8ss4maA20n+5orzau8PGpr1bbQcW0uuQynAOorTnpptsijtQ==;b5lppLzdLu9xeLOOfLAJIw=="
 ---

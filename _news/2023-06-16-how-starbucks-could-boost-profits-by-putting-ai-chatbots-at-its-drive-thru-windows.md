@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/06/16/starbucks-could-boost-profits-by-p
 webUrl: "https://www.cnbc.com/2023/06/16/starbucks-could-boost-profits-by-putting-ai-chatbots-at-its-drive-thru-windows.html"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_751389_16871450926988823.jpg"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "Chatbots in the Workplace: Usage Policies and Practical Considerations Related to Artificial Intelligence"
-    excerpt: "The increasing prevalence of artificial intelligence (AI) tools and, in particular, generative AI, is creating more reason for employers to adopt workplace policies that communicate to employees whether the use of these applications is appropriate and any ..."
-    publishedDateTime: 2023-06-14T20:49:00Z
-    webUrl: "https://www.natlawreview.com/article/chatbots-workplace-usage-policies-and-practical-considerations-related-to-artificial"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 22
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/AI_Artificial_Intelligence_Robot_SMALL_0.jpg?itok=vTytjmRH"
-        width: 500
-        height: 333
         isCached: true
   - title: "Google Warns Its Own Workers to Avoid Using AI Chatbots"
     excerpt: "Alphabet, Google's parent company, is reportedly cautioning employees about how they use chatbots, including its own Bard."

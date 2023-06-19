@@ -119,20 +119,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Ernst & Young Adds Microsoft AI Tools to Tax Platform"
-    excerpt: "Ernst & Young is tapping Microsoft Corp. artificial intelligence tools to give its tax professionals a technological edge, it said Wednesday."
-    publishedDateTime: 2023-06-14T21:43:00Z
-    webUrl: "https://news.bloomberglaw.com/artificial-intelligence/ernst-young-adds-microsoft-ai-tools-to-tax-platform"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 54
-    images:
-      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Microsoft Nears All-Time Closing High, $2.6 Trillion Value, Amid AI-Powered Rally"
     excerpt: "Microsoft's early-mover advantage in AI has helped it surge past Google and possibly challenge Apple as the world's most-valuable tech company."
     publishedDateTime: 2023-06-15T19:45:00Z
