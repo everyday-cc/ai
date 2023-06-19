@@ -75,18 +75,18 @@ related:
       domain: businessinsider.com
     quality: 34
   - title: "HOW THIS FINTECH COMPANY IS LEADING THE CHARGE FOR FINANCIAL INCLUSION FOR MSMES"
-    excerpt: "Access to financing has long been a point of contention for micro, small, and medium-sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small businesses include the higher collateral requests by traditional financial institutions (58."
-    publishedDateTime: 2023-06-15T03:00:00Z
-    webUrl: "https://www.thaipr.net/en/business_en/3347796"
+    excerpt: "Access to financing has long been a point of contention for micro, small, and medium sized enterprises (MSMEs). In Malaysia, it is reported that some of the financing difficulties faced by small busin"
+    publishedDateTime: 2023-06-15T00:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/268769"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
+      name: RYT9
+      domain: ryt9.com
     quality: 19
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/06/TGO_post-b63bb766-768x402.jpg"
-        width: 768
-        height: 402
+      - url: "https://www.ryt9.com/img/files/20230615/iq0bcdd89128e4fef2b7a15c540eccde2a.jpg"
+        width: 565
+        height: 470
         isCached: true
   - title: "The Future is Hybrid: Financial Services, the Fintech Industry, and Data Centers"
     excerpt: "In today's digital landscape, fintech has revolutionized the financial services industry, with seamless and convenient ways to manage finances. To achieve this, Fintech companies generate vast amounts of data,"

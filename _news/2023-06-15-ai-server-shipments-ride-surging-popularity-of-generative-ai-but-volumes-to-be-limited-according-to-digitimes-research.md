@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Urban planning to disaster relief: how AI-generated maps are helping to improve lives"
-    excerpt: "Pioneering Ordnance Survey technology is speeding up the creation of detailed maps, ensuring policymakers have accurate information when responding to challenges"
-    publishedDateTime: 2023-06-14T08:24:00Z
-    webUrl: "https://www.theguardian.com/location-intelligence/2023/jun/14/urban-planning-to-disaster-relief-how-ai-generated-maps-are-helping-to-improve-lives"
-    ampWebUrl: "https://amp.theguardian.com/location-intelligence/2023/jun/14/urban-planning-to-disaster-relief-how-ai-generated-maps-are-helping-to-improve-lives"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/location-intelligence/2023/jun/14/urban-planning-to-disaster-relief-how-ai-generated-maps-are-helping-to-improve-lives"
+  - title: "Can generative AI limit the impact of a shrinking, ageing field service workforce?"
+    excerpt: "Can ChatGPT help drive automation and deliver change in how organizations recruit skills, manage existing engineers and improve field services work? Sumair Dutta from ServiceMax investigates."
+    publishedDateTime: 2023-06-14T11:11:00Z
+    webUrl: "https://diginomica.com/generative-ai-shrinking-field-service-workforce"
+    ampWebUrl: "https://diginomica.com/generative-ai-shrinking-field-service-workforce?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-shrinking-field-service-workforce?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 50
-    images:
-      - url: "https://i.guim.co.uk/img/media/b1cbe64bef72d2d451134ddf26847e131bf06fa3/0_0_5178_2615/master/5178.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d2436b127dceafa862ff26efc06d91c5"
-        width: 600
-        height: 304
-        isCached: true
+      name: Diginomica
+      domain: diginomica.com
+    quality: 33
 
 secured: "fRtwXBF5LOqaD4T5Hb8aRokxUpeOdIGyQctDj7CJkJrlqyG042P4K+SGVomSEK77HwRd2+9IbDK6HMty1YPZeX0hCWVifm97up5/+ZNIAfO6RvejwD0YeaYiNjh3aFnFUOVfk91zAUfWInrzDNZOIgRA6qgeFL6T4suZqTmFvjyfJt3zeQKYdL4r7kOF9qFqvG1Un/6iHEqri8Vxi+h2xx2zLmW9+8blMZi75QIcdj0RXBp72p/h6HVG4fkwZo/YDihvX3295imUOcpASpsFWZoXvlAK2kDqiNtpA8I4TJcrqxY42mq3oK5ipVKB+pr8OV4a3me2lkSDNAhA9UWbwm7kmTgOD/4cSS/fGTHvK9Q=;DboxiDVB4/zIvEYVejtGDA=="
 ---

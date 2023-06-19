@@ -25,22 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "AMD’s New Chip Fails to Impress Investors. It’s Still an AI Winner, Analyst Says."
-    excerpt: "The chip maker's big product launch may have left investors feeling uninspired but it can still challenge Nvidia, according to one analyst."
-    publishedDateTime: 2023-06-14T08:56:00Z
-    webUrl: "https://www.barrons.com/articles/amd-chip-ai-stock-nvidia-50985fd3"
-    ampWebUrl: "https://www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-chip-ai-stock-nvidia-50985fd3"
+  - title: "5 Analysts Takeaways From The Advanced Micro Devices Data Center And AI Technology Event"
+    excerpt: "Shares of Advanced Micro Devices, Inc. (NASDAQ: AMD) rose in early trading on Wednesday, after the company held on Tuesday its key Data Center and AI Technologies event."
+    publishedDateTime: 2023-06-14T16:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-analysts-takeaways-from-the-advanced-micro-devices-data-center-and-ai-technology-event-1032389582"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://images.barrons.com/im-574599/social"
-        width: 1280
-        height: 640
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/06/14/amd.shutterstock_2168690235.jpg"
+        width: 1024
+        height: 768
         isCached: true
+  - title: "Advanced Micro Devices Stock Gains Following AI Chip Announcement"
+    excerpt: "Shares of Advanced Micro Devices (NASDAQ:AMD) rose nearly 2% intra-day today after the semiconductor maker provided details about its new artificial intelligence chip called the MI300X. The MI300X chip is designed to accelerate processing times for generative AI programs like ChatGPT and similar chatbots."
+    publishedDateTime: 2023-06-14T16:45:00Z
+    webUrl: "https://www.cweb.com/advanced-micro-devices-stock-gains-following-ai-chip-announcement/"
+    type: article
+    provider:
+      name: cweb
+      domain: cweb.com
+    quality: 54
+    images:
+      - url: "https://cdn.financialmodelingprep.com/images/fmp-1686760518654.jpg"
+        width: 701
+        height: 394
+        isCached: true
+  - title: "5 Advanced Micro Devices Analyst Takeaways On AI Event: Is Chipmaker 'Somewhat Late' Vs. Rival Nvidia?"
+    excerpt: "Analyst John Vinh reaffirmed an Overweight rating on the stock. Advanced Micro Devices expects its generative AI-optimized GPU, the MI300X, “to ship for meaningful revenues in 4Q23,” Vinh said. The company also raised its AI accelerator TAM outlook to ..."
+    publishedDateTime: 2023-06-14T16:26:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/06/32856895/5-analysts-takeaways-from-the-advanced-micro-devices-data-center-and-ai-technology-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
 
 secured: "EYAUembGAbaWY6CAc97EmPkZD0mzWRTAaYw27t5LdClOtv7O+YZ93lt+3mA9XlfYOrvu9qP6VEB3wRubOaxX1T9Ez4Pt4h5/mM2pPDBQ3FNSW6bmu9Z0PUseUlH9Irp7IBGPOPtR4QVQgY8v8JWr4Hzh/6qVZzpHLV6nyG86eX1ZAdLLj0cHRrdTym8yQWn2bPO5yBLHnxqQNzjSksVjSAB+kD45WQ1paLOedjP2jGlhYh2H00nIRxfvmmPIwCP2PttBsNjBoxHFYW050jGHeqM7L8iX+awB9NuJ0Byngq2QHZmJiEX8kzn4g5lWCHHdDAGOoP8LofUGQkgf461Pkg/hZQuzkHu/sulUnPFDsQ0=;jhBTM6edLHc9FG5aE2+tfg=="
 ---

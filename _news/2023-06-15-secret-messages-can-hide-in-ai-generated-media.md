@@ -7,7 +7,7 @@ originalUrl: "https://www.scientificamerican.com/article/secret-messages-can-hid
 webUrl: "https://www.scientificamerican.com/article/secret-messages-can-hide-in-ai-generated-media/?ref=upstract.com"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,23 +25,46 @@ images:
     isCached: true
 
 related:
-  - title: "DiagnaMed Launches a Generative Artificial Intelligence Medical Chatbot, Dr. GenAI"
-    excerpt: "DiagnaMed Holdings Corp. (\"DiagnaMed\" or the \"Company\") (CSE:DMED) (OTCQB:DGNMF), a generative AI healthcare company, is pleased to announce the launch of Dr. GenAI"
-    publishedDateTime: 2023-06-15T11:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/g32870843/diagnamed-launches-a-generative-artificial-intelligence-medical-chatbot-dr-genai"
+  - title: "Why this tool is reducing Asian influence in AI-generated art"
+    excerpt: "Sasha Luccioni, a Montreal-based AI ethics researcher at the Hugging Face, an AI startup headquartered in New York City, said text-to-image generators tend to reinforce existing societal biases. “"
+    publishedDateTime: 2023-06-16T22:59:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/tool-reducing-asian-influence-ai-generated-art-rcna89086"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna89086"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna89086"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
-  - title: "Why Ogilvy is leading a crackdown on AI-generated social media ads"
-    excerpt: "The agency will label influencer content on social media with the hashtag #PoweredbyAI or by using a dedicated watermark."
-    publishedDateTime: 2023-06-16T12:48:00Z
-    webUrl: "https://www.thedrum.com/news/2023/06/16/why-ogilvy-leading-crackdown-ai-generated-social-media-ads"
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230613-style-less-asian-ai-al-1428-25dd68.jpg"
+        width: 673
+        height: 564
+        isCached: true
+  - title: "Asia’s opportunity for generative AI"
+    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
+    publishedDateTime: 2023-06-14T16:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
     type: article
     provider:
-      name: The Drum
-      domain: thedrum.com
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
+    images:
+      - url: "https://i.ytimg.com/vi/3Jf81EQ_1Jw/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
+  - title: "Asia's Opportunity for Generative AI"
+    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
+    publishedDateTime: 2023-06-16T19:36:00Z
+    webUrl: "https://cacm.acm.org/news/273906-asias-opportunity-for-generative-ai/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
     quality: 19
 
 secured: "S33oaEyBqUlhnDsKqJWQEgLV0ljw6V+9Uq352KeHbHFu4FN87Ch9mHDz5lO2GPiC6bojDqW4WdHHogWK/td29gGpXZKogANYzixBBneEcCfTkuZdx1wFfzoIqUGdw6bBYvvHT6UMjnagd3Sv0qF3Zg4q0glNGlwKyvP7PxFfMZ/DP4Igc8CydT1zrPtlqTk4BhhCZ2sVtIZxxLfLOKOa7Cyr9KZ2TpzXeC8cxl1k0zsKykOPC4sM2Z+lvnz8KhVIZhbN7QwTEpm0l0XMKoazfNT/cJflUu6X1ojmyN4MXZ6B8W1ZzM9MQbWRkkYNKzHrGsymIeNEqPBkRZlLU2Q6eKp86W1pm/ko0mBnMl6L0tMkFh+zjEVGkPyjBz5mi+JMKNGQIzXjudlV99BrijEcEyQiySK+r6VF70CJiQt334MVEP5YNpdhfMwLDs/prdeuceIfATra+sVGk2Tz1B7I+DZdm1hglgxOejiimE7LjEs+wNt5nTbFN2XQR/aqzI1Fat4DHG3JTJUVQuK6Mjy/Lg==;JorfPOrbOyyihOblrrrZIA=="

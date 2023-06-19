@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-19-microsoft-claims-azure-outlook-june-outages-due-to-ddos-attacks.md",
+      "title": "Microsoft claims Azure, Outlook June outages due to DDoS attacks",
+      "excerpt": "Software giant Microsoft claims outages to its Outlook, OneDrive and Azure services earlier this month were due to distributed denial of service attacks staged by a group it calls Storm-1359. In a blog post on Friday,",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/business-it-news/security/microsoft-claims-azure,-outlook-june-outages-due-to-ddos-attacks.html",
+      "originalUrl": "https://itwire.com/business-it-news/security/microsoft-claims-azure,-outlook-june-outages-due-to-ddos-attacks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/17e9d7c204305520f52f5304ac685b8a_M.jpg",
+          "width": 375,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-18T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-19-is-opensource-ai-threatening-the-tech-titans.md",
       "title": "Is OpenSource AI Threatening The Tech Titans?",
       "excerpt": "Open-source AI can be defined as software engineers collaborating on various artificial intelligence projects that are open to the public to develop. The goal is to better integrate computing with humanity.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/06/18/is-opensource-ai-threatening-the-tech-titans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -155,7 +198,7 @@
       "originalUrl": "https://www.wsj.com/articles/ai-deepfakes-celebrity-marketing-brands-81381aa6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -362,7 +405,7 @@
       "originalUrl": "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -456,7 +499,7 @@
       "originalUrl": "https://www.geekwire.com/2023/datas-destiny-why-former-microsoft-and-snowflake-exec-bob-muglia-is-optimistic-about-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -620,6 +663,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-17-why-this-tool-is-reducing-asian-influence-in-ai-generated-art.md",
+      "title": "Why this tool is reducing Asian influence in AI-generated art",
+      "excerpt": "Sasha Luccioni, a Montreal-based AI ethics researcher at the Hugging Face, an AI startup headquartered in New York City, said text-to-image generators tend to reinforce existing societal biases. “",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/asian-america/tool-reducing-asian-influence-ai-generated-art-rcna89086",
+      "originalUrl": "https://www.nbcnews.com/news/asian-america/tool-reducing-asian-influence-ai-generated-art-rcna89086",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230613-style-less-asian-ai-al-1428-25dd68.jpg",
+          "width": 673,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna89086",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna89086",
+      "publishedDateTime": "2023-06-16T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-metas-voicebox-generative-ai-makes-anyone-speak-a-foreign-language.md",
       "title": "Meta's Voicebox Generative AI Makes Anyone Speak a Foreign Language",
       "excerpt": "Meta says Voicebox can be used to give a natural-sounding voice to virtual assistants or non-player characters in the metaverse, which are digital worlds in which people will gather to work, play and hang out. It could also be used by visually impaired people to hear messages read by the voices of their friends.",
@@ -628,7 +714,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-makes-anyone-speak-a-foreign-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -723,7 +809,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1020,7 +1106,7 @@
       "originalUrl": "https://www.ibm.com/blog/moving-ibm-db2-on-cloud-instances-to-mzrs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1101,100 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.md",
-      "title": "Retail traders are taking profits on AI. Here’s what they are selling",
-      "excerpt": "Vanda Research said in a note to clients that retail traders were trimming their positions in a few hot stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.html",
-      "originalUrl": "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107249473-1685637213225-Traders-Photo-MW-20230601-0206-PRESS-19.jpg?v=1686924006&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-opencv-know-how-to-use-this-ai-tool-for-image-processing-and-real-time-computer-vision.md",
-      "title": "OpenCV: Know how to use this AI tool for image processing and real-time computer vision",
-      "excerpt": "OpenCV is a library of programming functions mainly for real-time computer vision. Know how to use it for image processing to get better results. A couple of days ago, artificial intelligence researchers at Meta said that they have made significant progress in building computer vision models,",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/opencv-know-how-to-use-this-ai-tool-for-image-processing-and-real-time-computer-vision-71686912741450.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/opencv-know-how-to-use-this-ai-tool-for-image-processing-and-real-time-computer-vision-71686912741450.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/06/16/1600x900/OpenCV_1686913169463_1686913174528.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/opencv-know-how-to-use-this-ai-tool-for-image-processing-and-real-time-computer-vision-71686912741450.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/opencv-know-how-to-use-this-ai-tool-for-image-processing-and-real-time-computer-vision-71686912741450.html",
-      "publishedDateTime": "2023-06-16T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

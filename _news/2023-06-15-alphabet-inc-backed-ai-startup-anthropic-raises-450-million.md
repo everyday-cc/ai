@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32860795"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32860795"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "This AI Startup From Paris Raises Highest Seed Funding Ever"
-    excerpt: "A company just one month old, without a product, with employees still getting hired, has already received a valuation of around $260 million"
-    publishedDateTime: 2023-06-14T07:48:00Z
-    webUrl: "https://analyticsindiamag.com/this-ai-startup-from-paris-raises-highest-seed-funding-ever/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/paris.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "f0lg5ssL8Fxp7FtSOuKz4GlHCyuJHfSj1xlfVnEVYvjkBUTVXQVs7/qRe6a0rIBJyn3RVehrttCT2VieN3hzAOZ3UwKbN3bGhkhg53+IvihWw5m5cQLaxL1bEGezd+FOR/qP6S5oSiNaefhfK9ZYsgU8M3T2EBIzAPY+S1g7FsGyIrBbFUF9CGabsh/O9wGWcXaLGI54yhgTQrOcl5cJr+ROFvss91BwowIF3yDYMXzNjEwecGLRtFjFNfArkraVUJj3J/kjgBA4LanPIwjVkKSSBvPaagQ2F+0H18W2ews+mFlvcLpbikZMgH/LwD7UJ8aGN6U8S5abNsY1HB1UGTfRBjf1ycagGmdkesu1xQ8=;5bqV6p5N7ofSu6rAfxA5Pg=="
 ---

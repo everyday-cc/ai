@@ -39,20 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Accenture Commits $3 Billion to Help Clients Harness AI to Transform Businesses"
-    excerpt: "Accenture announced a $3 billion investment over three years in its Data & AI practice to help clients across all industries rapidly and"
-    publishedDateTime: 2023-06-14T07:13:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32409-accenture-commits-3-billion-to-help-clients-harness-ai-to-transform-businesses"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 35
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/045e263db67e029b97fc5298a8cfa5a3.jpg?t=20230614_071235"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Accenture announces $3bn bet on AI to help build new industry solutions"
     excerpt: "The new investment is part of Accenture’s continued efforts to build itself as a leader in AI Accenture announces $3bn bet on AI to help build new industry solutions Accenture, AI adoption, AI innovation,"
     publishedDateTime: 2023-06-14T11:48:00Z

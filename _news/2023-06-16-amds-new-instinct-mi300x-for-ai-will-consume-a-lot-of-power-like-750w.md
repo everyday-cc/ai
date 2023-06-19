@@ -48,6 +48,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 60
+  - title: "AMD faces path dependency struggle as it challenges Nvidia with MI300X AI GPU"
+    excerpt: "Advanced Micro Devices Inc. (AMD) on June 13 revealed its most-advanced GPU for artificial intelligence (AI), the MI300X, trying to get a bigger bite of the pie of the GPU market that has been ..."
+    publishedDateTime: 2023-06-15T12:56:00Z
+    webUrl: "https://www.digitimes.com/news/a20230614VL207/commentary-ai-gpu-amd-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230614vl207_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "AMD unveils MI300X, steps up play into AI chip segment"
     excerpt: "Chipmaker AMD has unveiled MI300X, one of its most-advanced GPUs (graphics processing units) for artificial intelligence, which would be available from the second half of this year."
     publishedDateTime: 2023-06-14T13:51:00Z

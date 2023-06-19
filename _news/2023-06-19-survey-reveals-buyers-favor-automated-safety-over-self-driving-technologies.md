@@ -1,0 +1,75 @@
+---
+category: news
+title: "Survey Reveals Buyers Favor Automated Safety Over Self-Driving Technologies"
+excerpt: "Getting into a self-driving car may sound like an out-of-this-world experience, but the idea doesn't sit well with car buyers. In a consumer survey by the S&P Global Mobility, buyers desire automated safety through advanced driver system (ADAS) features in their cars instead of self-driving technologies."
+publishedDateTime: 2023-06-19T00:47:00Z
+originalUrl: "https://carbuzz.com/news/survey-reveals-buyers-favor-automated-safety-over-self-driving-technologies"
+webUrl: "https://carbuzz.com/news/survey-reveals-buyers-favor-automated-safety-over-self-driving-technologies"
+type: article
+quality: 22
+heat: -1
+published: false
+
+provider:
+  name: https//carbuzz
+  domain: carbuzz.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "http://cdn.carbuzz.com/gallery-images/1600/1148000/700/1148771.jpg"
+    width: 1600
+    height: 1066
+    isCached: true
+
+related:
+  - title: "SambaSafety automates custom R workload, improving driver safety with Amazon SageMaker and AWS Step Functions"
+    excerpt: "At SambaSafety, their mission is to promote safer communities by reducing risk through data insights. Since 1998, SambaSafety has been the leading North American provider of cloud–based mobility risk management software for organizations with commercial and non–commercial drivers. SambaSafety serves"
+    publishedDateTime: 2023-06-16T15:08:54Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/16/sambasafety-sagemaker-step-functions.jpg"
+        width: 1213
+        height: 605
+        isCached: true
+  - title: "Bring SageMaker Autopilot into your MLOps processes using a custom SageMaker Project"
+    excerpt: "Every organization has its own set of standards and practices that provide security and governance for their AWS environment. Amazon SageMaker is a fully managed service to prepare data and build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools,"
+    publishedDateTime: 2023-06-14T17:03:03Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-sagemaker-autopilot-into-your-mlops-processes-using-a-custom-sagemaker-project/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/14/bring-sagemaker-autopilot-mlops.jpg"
+        width: 1023
+        height: 513
+        isCached: true
+  - title: "AI Safety: New Research Explores Machine Learning Safety Without Conducting Countless Trials"
+    excerpt: "Machine learning has long drawn inspiration from human learning processes, including the valuable lessons learned from mistakes. However, the application of machine learning in safety-critical autonomous systems, such as self-driving cars and power systems ..."
+    publishedDateTime: 2023-06-15T10:36:00Z
+    webUrl: "https://www.techtimes.com/articles/292629/20230615/ai-safety-new-research-explores-machine-learning.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/292629/20230615/ai-safety-new-research-explores-machine-learning.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292629/20230615/ai-safety-new-research-explores-machine-learning.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 63
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429696/ai-safety-new-research-explores-machine-learning-safety-without-conducting-countless-trials.jpg"
+        width: 1500
+        height: 843
+        isCached: true
+
+secured: "pZIohqHGeUCZQaBr4cu7zeHeU1iTeDBRyzom1AU4XPiXrDpzOBXjctQW+dk3q8laBMLG7j+6rTIN2i+cXPHzuMIOJ0aeBAU75vr/JqQhi8+Y4zqdY2IT0afJfy78TvYDNCI9RLq5PHf4uip63uXMHJ0MSuYw5t+9fDfHoc2MplxdRb/VbDizGMikPNxp8YZTsijsjFpa21n9J+nUkEmpjmPEW5ROyeOj9dMVUVepU8VX/N5wtHzuo8KB9OVe8bov9mhZlLBslTui3UTCtBybD2hLmmHvavkIo1ADfBaccwyrPPZk2lEXM1117qITQbJJ+fD0k3ssO9q77kRkgeQAyhYLR96tt7lTT7ODV8xwH+E=;jzsocvoHKp+mnin1ilhh8A=="
+---
+

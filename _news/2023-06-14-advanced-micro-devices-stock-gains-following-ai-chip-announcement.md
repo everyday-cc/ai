@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "AMD unveils latest chips at Data Center and AI Technology Premiere"
+    excerpt: "AMD introduced two new additions to the acclaimed 4th Gen EPYC CPU portfolio, presenting the industry with processors tailored to meet the demands of"
+    publishedDateTime: 2023-06-14T13:00:00Z
+    webUrl: "https://www.techzine.eu/news/applications/107472/amd-unveils-latest-chips-at-data-center-and-ai-technology-premiere/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/IMG_20180831_151701-1.jpg"
+        width: 3413
+        height: 2560
+        isCached: true
   - title: "5 Advanced Micro Devices Analyst Takeaways On AI Event: Is Chipmaker 'Somewhat Late' Vs. Rival Nvidia?"
     excerpt: "Analyst John Vinh reaffirmed an Overweight rating on the stock. Advanced Micro Devices expects its generative AI-optimized GPU, the MI300X, “to ship for meaningful revenues in 4Q23,” Vinh said. The company also raised its AI accelerator TAM outlook to ..."
     publishedDateTime: 2023-06-14T16:26:00Z

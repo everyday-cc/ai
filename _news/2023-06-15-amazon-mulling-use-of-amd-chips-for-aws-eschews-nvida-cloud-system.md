@@ -63,6 +63,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "AWS is considering AMD's new AI chips"
+    excerpt: "Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from Advanced Micro Devices, though it has not made a final decision, an AWS executive told Reuters."
+    publishedDateTime: 2023-06-14T19:47:00Z
+    webUrl: "https://www.itnews.com.au/news/aws-is-considering-amds-new-ai-chips-596915"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220802075518_aws-sign-summit.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "AMD stock price rises as Amazon considers buying new AI chip, report says"
     excerpt: "Advanced Micro Devices Inc., (AMD) shares rose at pre-market on Wednesday, after there was a report that Amazon Inc. might buy its newest AI chip. There was a decline on Tuesday after a presentation by the company which unveiled its new AI chip."
     publishedDateTime: 2023-06-15T00:33:00Z
@@ -105,6 +119,15 @@ related:
         width: 620
         height: 503
         isCached: true
+  - title: "Amazon expresses interest in AMD's new AI chips"
+    excerpt: "To break Nvidia's dominance, AMD needs a big-ticket customer for its new AI chips. Amazon could benefit from the flexibility offered by AMD."
+    publishedDateTime: 2023-06-14T10:40:00Z
+    webUrl: "https://interestingengineering.com/innovation/amazon-buying-amd-new-ai-chips"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
 
 secured: "5KJ2qRBDcH5H5xDZjf/YaoWKxd1x/NPVXY2kFt/xx/iTzlMuQYN54t8D7fBmz8HxPFoCKZPMm33VRof0vjUeDVCiPVx7r+PGsPDgkX2R9D/eUnbWP0v9HlNHD90Q7zQtoixQZPtpIBXcrK/yDeO/1k9Zsbn9608eNoQQKYWBs3NXW30cei8JETNhgzn/ypUcgQEw6hpwKzBtU5Ovg5ZO4WN/NWlaveWYnUx3usoCTANtViVLtRiCD64GRRCDsxMc5JEzHYhXtn+txynerhxUPrgVb4h8wDaBdgFGMS7NubD+7Ago+InJCBYs6kFeL5htGhrVifl4gAgoY78qNvHmLi36onJ0UEcWp2qqh1TvXbj5RGhHcW9ayHHHWfhCrW97bvr8o05XaylHIBNN3kAIY99f2LttDBfKhkTxqOMO1lrW3X9Ew0SpwUrx6QvePJ5alGXvsCbwfZK20aOxD43Adh2NR0kQM9NX82/7k7FsZ6Q+CBaaootLUWrO/L/DlYa6R8fOEncd4k63B/HZzfu25g==;rQnGZLSJMNFyLxirceuwxA=="
 ---

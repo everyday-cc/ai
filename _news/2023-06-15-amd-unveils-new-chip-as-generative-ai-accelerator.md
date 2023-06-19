@@ -43,22 +43,11 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 64
-  - title: "Asia’s opportunity for generative AI"
-    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
-    publishedDateTime: 2023-06-14T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
+    quality: 86
     images:
-      - url: "https://i.ytimg.com/vi/3Jf81EQ_1Jw/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_light_and_technology_creating_a_dangerous_force._colorfu_4939c964-541c-44c0-aa32-9df44f5360ae.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Adobe Proves Its Determination To Lead The New Era Of Generative AI"
     excerpt: "When it comes to Azure, Microsoft is facing the same dilemma because Amazon.com Inc AMZN has a much bigger representative on this front, Amazon Web Services. Amazon also launched its own platform that allows building and scaling generative AI services ..."
@@ -99,15 +88,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "Asia's Opportunity for Generative AI"
-    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
-    publishedDateTime: 2023-06-16T19:36:00Z
-    webUrl: "https://cacm.acm.org/news/273906-asias-opportunity-for-generative-ai/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "/++TeF6t+P7+3DtnGSEwTJJZEeCNWuhtxmHcaXZpIQXeXxQtc/jA9HV/BamFm5eTsovWh3RMgolDKsVZum3yEQvzqptyYzT9d5qRWHxNCP0ffhrw2S8/GzwueyxQGwuA5JGEna8P7n1SxLp0tGh3MCDXxOLPTfD7XSAtg4wXUbl/18RRRg4zLDjxKPEJ6/zW3hbn6NS/oaD8C4Rgy4MATz1FtUanY/0wVNV3bo+hJtNZGA+iK4viJvtGXbote8iEmyVmHA0L7wRX6d+ptClGI2HG3NaOxESOHuPMzjAbi62j9ojrq4fm1yJiXrEEBi7nFn54bIphUBhFcYZywZOfSnXsfpG5UjnOsFvFYkYFouY=;pUODfVre0lJdsGi6fqciyw=="
 ---

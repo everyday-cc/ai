@@ -47,20 +47,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Accenture Commits $3 Billion to Help Clients Harness AI to Transform Businesses"
-    excerpt: "Accenture announced a $3 billion investment over three years in its Data & AI practice to help clients across all industries rapidly and"
-    publishedDateTime: 2023-06-14T07:13:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32409-accenture-commits-3-billion-to-help-clients-harness-ai-to-transform-businesses"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 35
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/045e263db67e029b97fc5298a8cfa5a3.jpg?t=20230614_071235"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Lenovo Announces $2B AI Revenue and Unveils $1B Global Expansion Plan"
     excerpt: "Fueled by increased global digitalization and demand for IT infrastructure upgrades, Lenovo is simplifying the often-complex implementation of new AI capabilities by delivering AI to the source of data and harnessing its vast network of best-in-class partners to build next-generation solutions that enable computing intelligence directly at the edge."
     publishedDateTime: 2023-06-14T12:23:00Z

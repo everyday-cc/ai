@@ -59,6 +59,20 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Survey Reveals Buyers Favor Automated Safety Over Self-Driving Technologies"
+    excerpt: "Getting into a self-driving car may sound like an out-of-this-world experience, but the idea doesn't sit well with car buyers. In a consumer survey by the S&P Global Mobility, buyers desire automated safety through advanced driver system (ADAS) features in their cars instead of self-driving technologies."
+    publishedDateTime: 2023-06-19T00:47:00Z
+    webUrl: "https://carbuzz.com/news/survey-reveals-buyers-favor-automated-safety-over-self-driving-technologies"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 22
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/1600/1148000/700/1148771.jpg"
+        width: 1600
+        height: 1066
+        isCached: true
 
 secured: "Dttq2v62lzxAHbG0k5Aapq2oPu9JcybaTdWLAg7KoWpW/rNm/ZEXBq7gWzqIEBc5r93lZJhXAjIfflcY6evpZxhX3J1AS68SBjIB+z12baNOFxsvk98QlNPPQpavGTDquLyXWd1sf2qQ9jfIi6RFBxc9WdyWiP2UN92QwdvqKQvwEAk6K6lzWMOYytRnSkTge3+twCNH6ePHSPqcBxBead8KVPT29ir+XYqmGO9XnRxRGpxcJsB1+bnHBvI3Af7JmrhM5mEs2SKrJ4gToJ5YfFoARzLPkKtKD7OdictIUlvor1HT6gFpKFNejUm+KV0gLtwBhAVtdbBm+lP5ncmjwTbtt/BWe/h1keLlqxlvliM=;pKdefH6iFVjIIASvIp0JgQ=="
 ---

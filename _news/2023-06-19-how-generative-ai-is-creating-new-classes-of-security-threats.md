@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-18T18:09:00Z
 originalUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
 webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
 type: article
-quality: 64
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,13 @@ provider:
 topics:
   - AI
   - AI in Security
+  - Facebook AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_light_and_technology_creating_a_dangerous_force._colorfu_4939c964-541c-44c0-aa32-9df44f5360ae.png?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "How Generative AI Will Unleash E-Commerce's Next Big Bang"
@@ -38,22 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64888186f992c59130f4b947/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Asia’s opportunity for generative AI"
-    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
-    publishedDateTime: 2023-06-14T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://i.ytimg.com/vi/3Jf81EQ_1Jw/hqdefault.jpg"
-        width: 480
-        height: 360
         isCached: true
   - title: "Adobe Proves Its Determination To Lead The New Era Of Generative AI"
     excerpt: "When it comes to Azure, Microsoft is facing the same dilemma because Amazon.com Inc AMZN has a much bigger representative on this front, Amazon Web Services. Amazon also launched its own platform that allows building and scaling generative AI services ..."
@@ -103,16 +94,7 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Asia's Opportunity for Generative AI"
-    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
-    publishedDateTime: 2023-06-16T19:36:00Z
-    webUrl: "https://cacm.acm.org/news/273906-asias-opportunity-for-generative-ai/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
-secured: "8c3m19+DEx0PJAadRd4QeedAuXcRZ4xdBdg+dkP1pDcFJJpRiesy0u23FeO3YT1O20Tw16YuzQdTXUCmbUIM1BGIkx5JrKfolB2ERvuST4lMQ+YRIEaoBTpxV4jB648G58ELA6qTQCdTM0i3FBtovH0g4g3+oR89IwLnvReu3O9x9XYEqIn6CNw13aTLf+lA5m6khijCgNI8ly+svSoct00R8q9R0IzcGHgfLIZNEER+xMZab6S/i24eyyFDx+IS7Tb9lBNMTx3ORerTQ7vF/7oFQKxrKDefRJHBBYwDbccu+d5iqTT6dEBmHpWYFl+VnqL+xBYdxN0kwiFPq65CjXaujLvoU7q2NBeQiL1Mir+4+0eSPHN0wxMq8GhcWIJ15JXFgTY5P7suH0r2MMJscArmyc5i453bloB3v6nStA/Zk+ubwf3ol3joxChQqk6eXjCS0Xd8561JnZvpEYUlKJhhsjt+LM12gVTcvR4DPcHsESxr7pJgNbcNrblsg/6u69GMstTsCcs/LCZNRmCr5A==;5xERUmWOek2ZhaUN34UoBQ=="
+secured: "ujoFwmpzTI6K3GOhyPBcZM5Le8VktvyqaRICI7fEqFp7n+7dCaurVHdjwSBGYfbHJxcO+HAsDDz5vb3soy8hrI0zT6p0i71vxhV/PoBaMuQiyaZECtfJGHitInGhvAQO9i1LLPymKWFv/XRIFBCsSscRiqNa2wnHOBaslYKa7v3T93/gRYNbQ5fKnsq14aAcAzQcVWDCxCz4yWmKQpGlCJYWcN3vHgjFJx7tcOHw6vafakkTR4UgGAa4ir4FJKudsNwxBWIbkCnkMVaoRm21gcrewYlfdjQrbccdjWxkKSxlG8n1NNkU17PE93u4Dvv2AwCOsELdfHxbPpPYGUdEhrcc0l5SxJr0uHjQ4437o3g=;UHZHIjE81uo3cq4PACC6yg=="
 ---
 

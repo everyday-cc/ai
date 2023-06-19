@@ -51,22 +51,11 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 64
-  - title: "Asia’s opportunity for generative AI"
-    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
-    publishedDateTime: 2023-06-14T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
+    quality: 86
     images:
-      - url: "https://i.ytimg.com/vi/3Jf81EQ_1Jw/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_light_and_technology_creating_a_dangerous_force._colorfu_4939c964-541c-44c0-aa32-9df44f5360ae.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "How Google is using generative AI for virtual try-ons"
     excerpt: "Google today announced it is using a diffusion-based AI model to enable a new virtual try-on shopping feature in Search."
@@ -100,15 +89,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Asia's Opportunity for Generative AI"
-    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
-    publishedDateTime: 2023-06-16T19:36:00Z
-    webUrl: "https://cacm.acm.org/news/273906-asias-opportunity-for-generative-ai/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "hUAezsLc8DzLKAnV7aQpnKG5hkwmRJfyhdk8y1v9O/ffhJveKy1fgvuhBRgOohDGBsQGoMnZf3pGWz/i36f97yaKWQSnJfc0A2zFVFbXQnyq9trqcOLDEgcV4DHl+bEqbZDHad3GnOyVoO6KwLgpW91nRWII7wofgXpmzthksRYKWcn9jw3IuBZRnpGC9TcKCi8bQ5a2s1dCbP2WlDdvknnKeoXbU+jeuBdyN/0cSMxZNlBqWETwbjksoc3CVoreWsmKsWYZik3k1VopvtHRVb+r/ydAjennePpCQiNxq4OJTjgdeOv/Jqd8hnI4d5lyrPUN2OHJIeN9aqBBOZ+lwGeVcePiaL4/LOcCs5xbNDs=;X8yFA6J0nRK12/XJtkubfg=="
 ---

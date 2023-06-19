@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-16/venture-capital
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-16/venture-capital-s-ai-run-lettuce-farms-are-starting-to-go-bust"
 type: article
 quality: 69
-heat: 80
+heat: 82
 published: true
 
 provider:

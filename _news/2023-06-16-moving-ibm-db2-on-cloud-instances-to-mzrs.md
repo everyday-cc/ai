@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/moving-ibm-db2-on-cloud-instances-to-mzrs
 webUrl: "https://www.ibm.com/blog/moving-ibm-db2-on-cloud-instances-to-mzrs/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

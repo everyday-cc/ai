@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-gene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/14/how-generative-ai-will-unleash-e-commerces-next-big-bang/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -38,22 +38,11 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 64
-  - title: "Asia’s opportunity for generative AI"
-    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
-    publishedDateTime: 2023-06-14T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/14/1074434/asias-opportunity-for-generative-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
+    quality: 86
     images:
-      - url: "https://i.ytimg.com/vi/3Jf81EQ_1Jw/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_light_and_technology_creating_a_dangerous_force._colorfu_4939c964-541c-44c0-aa32-9df44f5360ae.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Adobe Proves Its Determination To Lead The New Era Of Generative AI"
     excerpt: "When it comes to Azure, Microsoft is facing the same dilemma because Amazon.com Inc AMZN has a much bigger representative on this front, Amazon Web Services. Amazon also launched its own platform that allows building and scaling generative AI services ..."
@@ -103,15 +92,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Asia's Opportunity for Generative AI"
-    excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
-    publishedDateTime: 2023-06-16T19:36:00Z
-    webUrl: "https://cacm.acm.org/news/273906-asias-opportunity-for-generative-ai/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "w7vAeVkjOZuiyCFeS7Vr2Ogq7azBWigJnJWIGBwEQ9mBEYrpDaJ/HkOyq3iEUlL/MoC98Y7XEHCgQy9S7zOdkdCB+2Mbts1eVBfTwrQ8m8HI2HGDaevXFthFpIb7DUuiQxTDijY0EPMFo4HVxBo4BRtHqdlJdeLIZC6sYzf78ENfnmZd4ASoBzNExpNwXAbvZhjR0+CsktO5MDSiHbNVsXb6+WyUljtAqoVJ5RHvhuXcQhJz43PCfz+rBf4sipRIuEqcO2mWL2zhvnYa/l1RWTo7a1lRzO1OCnulY66Ae2aZq2AgGUxqx7T4UCNDRyZ0cFsCIUICTupFLVk7M78H5SggMkhWmYslzakA68PljgM=;a+5oUB4Fc8G1vAKwEJbpsQ=="
 ---

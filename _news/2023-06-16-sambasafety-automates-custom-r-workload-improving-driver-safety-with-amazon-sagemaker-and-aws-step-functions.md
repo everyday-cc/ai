@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/samba-safety-automat
 webUrl: "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/429696/ai-safety-new-research-explores-machine-learning-safety-without-conducting-countless-trials.jpg"
         width: 1500
         height: 843
+        isCached: true
+  - title: "Survey Reveals Buyers Favor Automated Safety Over Self-Driving Technologies"
+    excerpt: "Getting into a self-driving car may sound like an out-of-this-world experience, but the idea doesn't sit well with car buyers. In a consumer survey by the S&P Global Mobility, buyers desire automated safety through advanced driver system (ADAS) features in their cars instead of self-driving technologies."
+    publishedDateTime: 2023-06-19T00:47:00Z
+    webUrl: "https://carbuzz.com/news/survey-reveals-buyers-favor-automated-safety-over-self-driving-technologies"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 22
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/1600/1148000/700/1148771.jpg"
+        width: 1600
+        height: 1066
         isCached: true
 
 secured: "FWT5k/FLVzSbms0FeND2i6rSFR4klbv6EOgC8At3P3jw7QinZ+KuPp3uIppT2KFADwTYwTXCIfS0F1oOwAReXDFpyQoC6VyXyJZAC6aVxd+zidek/UUUQP2tcSijPejI+VtogKMbN/74Sdb/wGUY7Yrw1fD46m7+IXewlriaB1ebOX2mBVAKumTwFdu55yloeE2RM8Bqen+Sgk7xvtYlBVk3fdvAD4AhSvjL9AcSy3L2hD01vPNVUuhV6dqw2NNph7Natq5qCCdPBCxCeQHdwBtvHLmBypGZiAsddrCKrDv48+h/6TpeeR0WmCjWaHK8fd1C/jKwPuKPnQK4C71V32XnlDEmOGBPzWS06TIdcm4=;dWdnHYPmGAVrgtYozWj1dA=="

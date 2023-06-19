@@ -7,7 +7,7 @@ originalUrl: "https://news.crunchbase.com/ai-robotics/artificial-intelligence-la
 webUrl: "https://news.crunchbase.com/ai-robotics/artificial-intelligence-layoffs-job-market/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,49 +22,6 @@ images:
     width: 900
     height: 506
     isCached: true
-
-related:
-  - title: "A new song from the Beatles is due out this year, thanks to artificial intelligence"
-    excerpt: "Paul McCartney says A.I. is being used to remake the voices of John Lennon and George Harrison. CNN's John Vause discusses the news with music expert Bob Lefsetz."
-    publishedDateTime: 2023-06-14T07:12:00Z
-    webUrl: "https://www.cnn.com/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 81
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230614024930-exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world-00000808.png?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "New Beatles song to bring John Lennon’s voice back, with a little help from AI"
-    excerpt: "Sir Paul McCartney explained to the BBC that an AI-driven process helped isolate John's vocals from an old tape for a last Beatles album."
-    publishedDateTime: 2023-06-14T15:30:00Z
-    webUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/"
-    ampWebUrl: "https://www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-beatles-song-john-lennon/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 53
-    images:
-      - url: "https://www.popsci.com/uploads/2023/06/14/john-lennon-ai-scaled.jpg?auto=webp"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Paul McCartney Uses AI to Create the Final Beatles Song"
-    excerpt: "The long and winding road has connected The Beatles with artificial intelligence."
-    publishedDateTime: 2023-06-14T19:42:00Z
-    webUrl: "https://www.cnet.com/tech/paul-mccartney-uses-ai-to-create-the-final-beatles-song/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 47
 
 secured: "zhJgnsdzDlXtuwKbptzjW6gsoB27a9RDWuRzYNxi2hRSfPvvfVlUo7ZIvrz0qzHtX08MjzXF8PM3QMgsh7b71usKiDLhjxZFG04MW/1BrymmbrpA4C+0oUaEovq0cfIHX6uyuPOyiul7laAaBc82d9jw32cMLcScVfG5XBaCMl+XDuzvb6PNGongLqeMlzS6YfvDTaFCx1A8etXTVpJBTA5HNbavdQ67kjM8WgNQI7fWdQ7BguWk0SHbpCJYXFA9EJlsSc5R7CrPwSYiMtmvJ8XJcNIsojyCTKofFt7l2MCcScHMn6kWIZiGtQwifpgZVauKLJr4yLIrma/+6gCbaddqZYD4X57gKJo0pYR3LrQ=;D5YdNI/z5EiytceVBmgGdg=="
 ---

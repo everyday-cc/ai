@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-deepfakes-celebrity-marketing-bran
 webUrl: "https://www.wsj.com/articles/ai-deepfakes-celebrity-marketing-brands-81381aa6"
 type: article
 quality: 67
-heat: 97
+heat: 100
 published: true
 
 provider:
