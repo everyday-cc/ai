@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 876
         isCached: true
-  - title: "California professors test out AI in the classroom, even as cheating debate continues"
-    excerpt: "The AI got key details of the plot wrong in some cases, Loden said. In the film, for example, protagonist George takes his girlfriend to a lake and she falls in and accidentally drowns, but ChatGPT says that he purposely killed her there."
-    publishedDateTime: 2023-06-16T04:38:00Z
-    webUrl: "https://www.davisenterprise.com/news/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/"
-    type: article
-    provider:
-      name: Davis Enterprise
-      domain: davisenterprise.com
-    quality: 12
 
 secured: "kSzBgWpXkhDSNmoKTzTUtTChzJ/crTr8/jRkhq0aewsMzEGWu6a0QbtXodic3hGNwfDmBMaKLZ1V+KrXxZHsQRS+9yJB6Qpv3GuMXjYEnHbzHNOrJLUZdZHcZHhNJC2tzjY+n/+XySOg4Ttbug3nEVIFHxbNsa5YZZ4yFpzuV1TeqidmZX/c+c+LXo8S1n1wh0/++QTjZDcKbkqpgmH7fur5uC/0KFAtM0mhBX+dKX3W1BL0UyAD6Ben9FK/r7Yhxt8qQaC2KjJjypUWVPHznKBUFueUJ0sojUNKxdCf4Pjw+tosgn/70BzrZFGCR1r5NuPTKDN3ukbWj+aYedpYnECEd1QXXnvEZQrFJOQoCs4=;RhIN4Cx4U1KRcTDXkAcnNQ=="
 ---

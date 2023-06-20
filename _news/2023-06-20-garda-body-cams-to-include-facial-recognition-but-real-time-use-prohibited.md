@@ -55,6 +55,33 @@ related:
         width: 1963
         height: 1167
         isCached: true
+  - title: "It is supposed to help identify bad guys. But facial recognition doesn’t always recognize them."
+    excerpt: "Critics warn the growing use of the technology brings with it the danger that flawed identification could put innocent people in prison."
+    publishedDateTime: 2023-06-20T19:20:00Z
+    webUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html"
+    ampWebUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 47
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4GU6OYKFLRH6ZBZY3PG737PJM4.jpg"
+        width: 1680
+        height: 971
+        isCached: true
+  - title: "New Jersey Questions Facial Recognition’s Accuracy"
+    excerpt: "Proponents of the technology claim that it can be used as an important crime-fighting and security tool. But critics argue that mistakes and wrong identifications could put innocent people in prison and threaten data privacy."
+    publishedDateTime: 2023-06-20T20:40:00Z
+    webUrl: "https://www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy"
+    ampWebUrl: "https://www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
 
 secured: "CuF8h8ewKTl3ZfkHOKDm1p9yOCLDquDWqkCrmzi1iLN1e974iGQ2UT5GYmwfu9fwrFWfjEp7wE3wnyse+pdZUubtHh1uegMVmQrC2yRQBeuFP7EYsXSWZa3Sjo/ztO0rK0dLL0RLvAJeu090bpEjs0M5smz2KzsYfOkQGeqEONA+IPymzibPxlT3TE8J7fCJ0znm4iw/4UDXNqQ+J1HfhLt09Cj30MtomL6m4zEdp49SyBcJ9xb0VL6ktnGEjG8Ryc1nfhgrnUchxMUmr5C7PA71S5RYOrumSJ9vNrFW9gDEybQgJGmei6y0pyOCvgS1nJeZR+DecrT9AnRUUnX5uqyMsWnO7+GmHsvYjKJFrp3Hk8PrFPjaZ82rP3A7H3NwgrY006MNQEQ6p3VSQXDBu39lXYMtTsulXpCOj0xcfRMeS9ptAfivqmUJVji3ftLpfnqLMm0mFKxqr+S3iuWpLW4Vs/D3KSLzNB6LxlPmlUSBQpevVVZeCKfj2dyyGw7fBNYp+Q1cHRPBKyXtov53Yg==;3WeZ8fw0MHOWFXEdMESZ0Q=="
 ---

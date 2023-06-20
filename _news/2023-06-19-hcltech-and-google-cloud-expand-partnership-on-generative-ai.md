@@ -7,7 +7,7 @@ originalUrl: "https://www.cloudcomputing-news.net/news/2023/jun/19/hcltech-and-g
 webUrl: "https://www.cloudcomputing-news.net/news/2023/jun/19/hcltech-and-google-cloud-expand-partnership-on-generative-ai/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ topics:
   - AI
 
 related:
+  - title: "IBM expands Adobe partnership to accelerate content supply chains with generative AI"
+    excerpt: "The collaboration between IBM and Adobe will concentrate on helping clients create personalized customer experiences through generative AI."
+    publishedDateTime: 2023-06-20T19:21:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-expands-adobe-partnership-accelerate-content-supply-chains-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 40
+  - title: "Compass UOL Launches AI Cockpit with Generative AI"
+    excerpt: "Digital services company Compass UOL today announced it has equipped its workforce of 6,000 software engineers with AI Cockpit,"
+    publishedDateTime: 2023-06-19T15:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/compass-uol-launches-ai-cockpit-with-generative-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
   - title: "Leidos Leads Advancements in LLMs and Generative AI, Accelerating Trust and Strategic Partnerships"
     excerpt: "Leidos, a FORTUNE 500 science and technology leader, has announced the successful deployment of Large Language Models (LLMs)"
     publishedDateTime: 2023-06-16T16:50:00Z

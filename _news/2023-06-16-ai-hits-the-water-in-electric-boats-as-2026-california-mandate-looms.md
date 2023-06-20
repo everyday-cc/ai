@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-wat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "California professors test out AI in the classroom, even as cheating debate continues"
-    excerpt: "The AI got key details of the plot wrong in some cases, Loden said. In the film, for example, protagonist George takes his girlfriend to a lake and she falls in and accidentally drowns, but ChatGPT says that he purposely killed her there."
-    publishedDateTime: 2023-06-16T04:38:00Z
-    webUrl: "https://www.davisenterprise.com/news/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/"
-    type: article
-    provider:
-      name: Davis Enterprise
-      domain: davisenterprise.com
-    quality: 12
   - title: "California professors test out AI in the classroom, even as cheating debate continues"
     excerpt: "While some California college professors remain concerned about students using generative AI such as ChatGPT to cheat in class, a growing number are choosing to encourage its limited use in classroom assignments."
     publishedDateTime: 2023-06-18T18:05:00Z

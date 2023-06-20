@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Advancement Of Artificial Intelligence Is Inevitable. Here's How We Should Get Ready For It."
-    excerpt: "Additionally, there is an ever-increasing demand for AI applications in the healthcare, finance, and transportation industries. As these industries (and several more) become more reliant on automation and data analytics, the need for AI solutions will only ..."
-    publishedDateTime: 2023-06-16T03:50:00Z
-    webUrl: "https://www.entrepreneur.com/en-ae/growth-strategies/the-advancement-of-artificial-intelligence-is-inevitable/454155"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 56
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1686821787-Shutterstock-2118106892.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "The Artificial Intelligence Glossary"
     excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
     publishedDateTime: 2023-06-20T00:36:00Z

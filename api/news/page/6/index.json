@@ -2,6 +2,247 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-15-tesla-rival-xpeng-rolls-out-self-driving-tech-in-beijing-the-stock-is-rising.md",
+      "title": "Tesla Rival XPeng Rolls Out Self-Driving Tech in Beijing. The Stock Is Rising.",
+      "excerpt": "It’s the first company to roll out an advanced driver-assistance system (ADAS) in Beijing, after it was approved for use on major ring roads and expressways in the capital city.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc",
+      "originalUrl": "https://www.barrons.com/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-417792/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc",
+      "publishedDateTime": "2023-06-15T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-draft-ai-act-passes-banning-police-facial-recognition.md",
+      "title": "Draft AI Act Passes, Banning Police Facial Recognition",
+      "excerpt": "The European Parliament has passed the first draft of the AI Act, paving the way for a ban on police use of live facial recognition technology in public places.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/",
+      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648ad1e37f2b8f29459b8891/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/",
+      "publishedDateTime": "2023-06-15T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-when-ai-overrules-the-nurses-caring-for-you.md",
+      "title": "When AI Overrules the Nurses Caring for You",
+      "excerpt": "Artificial intelligence raises difficult questions about who makes the call in a health crisis: the human or the machine?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe",
+      "originalUrl": "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-799675/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-cambodian-facial-recognition-effort-raises-fears-of-misuse.md",
+      "title": "Cambodian Facial Recognition Effort Raises Fears of Misuse",
+      "excerpt": "The order, signed by Prime Minister Hun Sen and released in March in a recent tranche of government documents, would award the funds to HSC Co. Ltd., a Cambodian company led by tycoon Sok Hong that has previously printed Cambodian passports and installed CCTV cameras in Phnom Penh, Cambodia’s capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voanews.com/a/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
+      "originalUrl": "https://www.voanews.com/a/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gdb.voanews.com/C19AFD84-F6C5-43D8-A79C-876DC943775B_w1080_h608_s.png",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voanews.com/amp/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
+      "publishedDateTime": "2023-06-15T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voice of America",
+        "domain": "voanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-mailchimp-leverages-ai-to-transform-into-an-omnichannel-marketing-powerhouse.md",
+      "title": "Mailchimp leverages AI to transform into an omnichannel marketing powerhouse",
+      "excerpt": "Mailchimp has announced plans to harness the power of artificial intelligence (AI) to expand its offerings of marketing automation solution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mailchimp-leverages-ai-to-transform-into-an-omnichannel-marketing-powerhouse/",
+      "originalUrl": "https://venturebeat.com/ai/mailchimp-leverages-ai-to-transform-into-an-omnichannel-marketing-powerhouse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Mailchimp-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-ai-godfather-yann-lecun-says-it-wont-destroy-jobs-forever.md",
       "title": "AI 'godfather' Yann LeCun says it won't destroy jobs forever",
       "excerpt": "In 2018 Prof LeCun won the Turing Award with Geoffrey Hinton and Yoshua Bengio for their breakthroughs in AI and all three became known as \"the godfathers of AI\".",
@@ -968,263 +1209,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-92-of-programmers-are-using-ai-tools-says-github-developer-survey.md",
-      "title": "92% of programmers are using AI tools, says GitHub developer survey",
-      "excerpt": "GitHub partnered with Wakefield Research to survey 500 US-based enterprise developers. They found that 70% of programmers believe AI is providing significant benefits to their code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/github-developer-survey-finds-92-of-programmers-using-ai-tools/",
-      "originalUrl": "https://www.zdnet.com/article/github-developer-survey-finds-92-of-programmers-using-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/17056194a20c467b3f81bb7510469e8b006f37ee/2023/06/14/96567fed-dc63-4868-b088-eb719664f8f5/gettyimages-1429526787.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/github-developer-survey-finds-92-of-programmers-using-ai-tools/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/github-developer-survey-finds-92-of-programmers-using-ai-tools/",
-      "publishedDateTime": "2023-06-14T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future.md",
-      "title": "AMD Laid The Groundwork For Big Hyperscaler AI Accelerator Play In The Future",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as yesterday AMD held an in-person event in San Francisco to cover the latest in its datacenter and AI progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6489e8531c18e5e7d67d5722/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/amp/",
-      "publishedDateTime": "2023-06-14T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-eu-moves-ahead-with-draft-law-to-regulate-ai.md",
-      "title": "EU moves ahead with draft law to regulate AI",
-      "excerpt": "The act, which has served as an example for other nations to develop their own AI regulations, restricts the use of technologies like facial recognition software and requires transparency from AI developers to share more data used to create their systems, like, for example, ChatGPT or Bing chat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/eu-moves-ahead-with-draft-law-to-regulate-ai/",
-      "originalUrl": "https://www.zdnet.com/article/eu-moves-ahead-with-draft-law-to-regulate-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/77f737a8d9f3dc00c855519d11f5dd28d79ec0aa/2023/06/14/1ea8cf14-9e3c-43ff-92a5-f9a7db2fa51e/untitled-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eu-moves-ahead-with-draft-law-to-regulate-ai/",
-      "publishedDateTime": "2023-06-14T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-wanted-business-leaders-who-can-bend-artificial-intelligence-in-new-directions.md",
-      "title": "Wanted: Business Leaders Who Can Bend Artificial Intelligence In New Directions",
-      "excerpt": "AI for decision-making means we’re not going to need managers and executives anymore, right? Hold that thought.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/14/wanted-business-leaders-who-can-bend-artificial-intelligence-in-new-directions/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/14/wanted-business-leaders-who-can-bend-artificial-intelligence-in-new-directions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6489e59be5ec9652e8b12f50/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/14/wanted-business-leaders-who-can-bend-artificial-intelligence-in-new-directions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/06/14/wanted-business-leaders-who-can-bend-artificial-intelligence-in-new-directions/amp/",
-      "publishedDateTime": "2023-06-14T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-5-analysts-takeaways-from-the-advanced-micro-devices-data-center-and-ai-technology-event.md",
-      "title": "5 Analysts Takeaways From The Advanced Micro Devices Data Center And AI Technology Event",
-      "excerpt": "Shares of Advanced Micro Devices, Inc. (NASDAQ: AMD) rose in early trading on Wednesday, after the company held on Tuesday its key Data Center and AI Technologies event.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/5-analysts-takeaways-from-the-advanced-micro-devices-data-center-and-ai-technology-event-1032389582",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-analysts-takeaways-from-the-advanced-micro-devices-data-center-and-ai-technology-event-1032389582",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/06/14/amd.shutterstock_2168690235.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

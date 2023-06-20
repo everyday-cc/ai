@@ -56,20 +56,6 @@ related:
         width: 760
         height: 506
         isCached: true
-  - title: "Google is Flattered by Microsoft’s Azure AI Studio"
-    excerpt: "Listen to this story Earlier this month, Google announced general availability of Generative AI Studio on Vertex AI. With this update, developers can access its text model powered by PaLM 2, embeddings API for text,"
-    publishedDateTime: 2023-06-16T04:29:00Z
-    webUrl: "https://analyticsindiamag.com/google-is-flattered-by-microsofts-azure-ai-studio/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/unnamed-19.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Viettel, Microsoft Vietnam improve AI application capability"
     excerpt: "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,"
     publishedDateTime: 2023-06-17T03:35:00Z
@@ -147,6 +133,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "tgo2nrh5zOLUiz+V83sGYOqH9aAGj0M8ipYF+1vSA77DQKtDqA8m3b/IIZo/z79aeiFgLyt8bJp9bSMRy7Q4NABI9RVDhZE0ermzlus2ms2Pto/16if1wssNukVplzeMtkoj1bNjRNzFzQ6HvLlEmXWobnWkeJtMOf7jYUXrIzdPlGGDzyhfl1CMADwK2UarKvYF9anBgaQeh52CgYwBflLtbugX+Mj8zEHF+06YonY7mxCzbIJqQoHaQSjcGiMh9u3V/SRjRalqeH95ljJKVaDqGUQjuj5r4xsu/KQCRtVzKoi6kL2QxNWwTnyRERrzj1MTSaN9v4tw0oIbglTQvQZRvRjDxtEcmKDyvvRS6hs=;81X5pEHttisedHarBco+2Q=="
+secured: "eNNoUsJ3jLvUQkr4zf8fctF65Hvjqa13dfD4UEZwVwDgJ08wIT31dnA3IExlm0yTTip152DDpUMrRA1/jAH3wea8+lgfqo5Wji0cAEfzD4tI0YBPuiLeCH9vdcaYxJ059Z17pbPcpK2CE6VhFzjx73ZK59kL8SZAcnNzYQR5Wouyr2lg0Do/PuzYAuQE7I24A0Tnmdl8gTXbwR528BKc8gL6qQbcJ101MEUUYhpjdUkSWNjen7wc8vsZq+nA2z3O/EsZi9h+ELNRWpZNCbII4ab6Q02U1to8loJzAegYQDWePd/gadezLfQPLJVScWdpZXLQTsZIMkcUXkaFLLcB/kTmCTdogBMJ73SY2GATFxu6z3SEruvcsWQoa0qsVJhbLlAmRotlfQBY1S3k9oKEXYquHEw0lXrrAW7FxpbWPdUu1jvKozhcVSYt5mIW7nymvU0ZHHHZ8yVfdt+4dXBa2njvkApA5HQ3a4RK5rDCJKt6QRjL2pij11LhFfTbEwDqXAg4EGB4aZD3inQr6oGQUg==;X9nvXuZflZ3xXUoL5d7WFw=="
 ---
 

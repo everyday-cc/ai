@@ -1,18 +1,18 @@
 ---
 category: news
 title: "GMR Group selects IDEMIA for DigiYatra face recognition tech"
-excerpt: "The technology has already been implemented at Delhi International Airport Limited (DIAL) for DigiYatra that facilitates entry of domestic travellers into the airport without showing identity documents."
-publishedDateTime: 2023-06-20T13:14:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/gmr-group-selects-idemia-for-digiyatra-face-recognition-tech/articleshow/101138971.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/gmr-group-selects-idemia-for-digiyatra-face-recognition-tech/articleshow/101138971.cms"
+excerpt: "GMR Group has selected IDEMIA for implementing face recognition technology for DigiYatra service at Delhi International Airport, Hyderabad and Goa, a technology firm said on Tuesday."
+publishedDateTime: 2023-06-20T12:46:00Z
+originalUrl: "https://www.devdiscourse.com/article/technology/2494936-gmr-group-selects-idemia-for-digiyatra-face-recognition-tech"
+webUrl: "https://www.devdiscourse.com/article/technology/2494936-gmr-group-selects-idemia-for-digiyatra-face-recognition-tech"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Computer Vision
@@ -36,6 +36,6 @@ related:
         height: 765
         isCached: true
 
-secured: "Z6X8nj4QU41MSJ7zPcTpNO+mG1HBUBKrynJFqbWGMZROiZ+QfxJhw0OmKFmCa/urpOetObRxtz62NaYSska5ckAI7fCRb1SvZndOX387lL3ROe4gicqnvlQ7kBJCp16VufbyhoKZKU6oVlC1yq2IGv0kOedFa0Lv6yNYWZzkQXxzJBemvYtEJkXbjJeIBccLvOGx2Xt/fbxjgTAryArPx3xL28gXJ2AUOxwj1NAzkqGtWXvLruykMKHPFcjCRXHQ54tYXv0F2LtnbZdnJD7EAfpI+LqJ8AKhucno99ESpUHl3lMaYJZDpxrijpybspNIzT7HRQtHKoC93ei6Gn1gM/nA1tN75P7kcvHfPv5XXIjxADikHaMdCjiSXvsR5t4rHqkN29FkNDbZWAMragSNo7CQ72GYIn7V/GX9hLdAZeymSp1T56CADpcf162de9Wtf4RoEZtQkpn8Vh/aCgihFMFtfSFMsVNHs5YBNf89a5vR6vwKFxLTNwYl/4KG6M9MzjBNK6yWnXNRrrkm2I31fg==;5W3KWblJWjIB/k8g70/Xhw=="
+secured: "9Xe88Sjc3YxuZWt8CMOcleNZ4R/HCS13Nw+cyX+VeTUagkDvibYo5rg+WZitY51aG2gWctjqYfDlCa9mob+J3jj09cbBkCEU61OfpkLXrmPycfJlkYY/oUxUgYNeylFj6XEXpJHajKWOLVoMkTuzu0nf+zsg3qM1xc4QthiZQeGp/gO25t7LhKEP42YLi5Fp00knicaEk397mp4NOdUdDQCo7exaiQmOgHhnOKF+L1Gzg50eTGquRYO/2ooDJKR3bo7CWmfrz6ZCdjvMCIQkyoGtHr7cbeXVcjUT8PXRhZfR+a+1ObCZsH8tyduSn2gTEVWJ7QcQdPPNi4SHhP57k5C7/IZIhGtZCL50E79cEQw=;ErWfWVaS0ieNBS+eVxcNRg=="
 ---
 

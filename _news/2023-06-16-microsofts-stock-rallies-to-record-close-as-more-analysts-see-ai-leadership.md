@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/microsofts-stock-rallies-towar
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641"
 type: article
 quality: 101
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://cdn.neowin.com/news/images/uploaded/2018/09/1537837168_satya_nadella_story.jpg"
         width: 760
         height: 506
-        isCached: true
-  - title: "Google is Flattered by Microsoft’s Azure AI Studio"
-    excerpt: "Listen to this story Earlier this month, Google announced general availability of Generative AI Studio on Vertex AI. With this update, developers can access its text model powered by PaLM 2, embeddings API for text,"
-    publishedDateTime: 2023-06-16T04:29:00Z
-    webUrl: "https://analyticsindiamag.com/google-is-flattered-by-microsofts-azure-ai-studio/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/unnamed-19.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft and Google rivalry could supercharge development of AI"
     excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."

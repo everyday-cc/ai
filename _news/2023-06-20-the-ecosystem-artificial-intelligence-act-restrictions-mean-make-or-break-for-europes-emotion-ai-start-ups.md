@@ -54,6 +54,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Europe unveils strategy to defend AI, chips but divided on China"
+    excerpt: "While the strategy does not mention China by name, its language reflects criticism frequently leveled at Beijing by Europe, the U.S., and others. The proposal adds further detail to a de-risking strategy originally laid out by EC President Ursula von der Leyen on March 30."
+    publishedDateTime: 2023-06-20T18:04:00Z
+    webUrl: "https://asia.nikkei.com/Location/Rest-of-the-World/Europe/Europe-unveils-strategy-to-defend-AI-chips-but-divided-on-China"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 34
   - title: "France’s Bid to Become Europe’s AI Hub: A Potential Challenge for the U.S"
     excerpt: "In a bold move to solidify its position on the global artificial intelligence (AI) map, France is strategically gearing up to become Europe's principal hub for AI. This development is not only set to challenge European nations but also aims to redefine the established hierarchy of global tech giants,"
     publishedDateTime: 2023-06-19T13:06:00Z

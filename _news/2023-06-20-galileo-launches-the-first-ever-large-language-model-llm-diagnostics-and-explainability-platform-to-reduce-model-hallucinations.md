@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Galileo Launches the First-Ever Large Language Model (LLM) Diagnostics and Explainability Platform to Reduce Model Hallucinations"
-excerpt: "Galileo, the first-ever machine-learning (ML) data intelligence company for LLMs and Computer Vision, announced a suite of new tools called Galileo LLM Studio - now available for waitlist signups here."
-publishedDateTime: 2023-06-20T15:47:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/20/9835905.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835905.htm"
+excerpt: "Galileo, the first-ever machine-learning (ML) data intelligence company for LLMs and Computer Vision, announced a suite of new tools called Galileo LLM Studio — now available for waitlist signups here."
+publishedDateTime: 2023-06-20T15:28:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8a861513-a01c-5262-b855-5c4c3029de90.html"
+webUrl: "https://www.bakersfield.com/ap/news/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8a861513-a01c-5262-b855-5c4c3029de90.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Natural Language Processing
@@ -29,6 +29,6 @@ related:
       domain: venturebeat.com
     quality: 47
 
-secured: "KqJQ9GSIUpBqc/E887cOtDuRBO0iV+NLrtPBhu0iZVZCEwLEEfhrrzNrEmKrXD4fPVF6YtQP4mwMzJK9xDVy7uHMt4iyKD4GWhf3gJmZnbLxVCEIckORMJEgo3r2pFilw++6tVzchsmcyNfcN06K9WK3HtibniquPJ6baScRgyPIHhDFkLbBFQb/W3ULxyK2JYfk+acG+FBU9Zajv9lece1Ey7LHlrIrpeyyilZKMhKzR5NDRCz2WEBjpPKtMEecPsGnIEQBR1cwnVEYd5lzt8X2VuzndSiG8SfOTK9vWxxqDpwpwUcZb2aK+hEzYwgeoH4CFzwhrO9CHq1ZtRU6AufBYE6Q0NUYyX9siVDpqGbrljpi6SK66DnutbxM1/SgH8a1L5bvRMUHuAURCzqZTf7CqcgNYbK2Tk2y8LYJnCj7C3ax4Xt5JQ3JA/zfZPZQmA18i/g0DwaiFxQYm/AX0z4+7GD/B9jEL46aVBsVMrT0sGj3RgHc7xIqCc0Jm+dmGuTeG2mJdebqycHWXBqGvA==;FLLZejGBxxB22YHD7Zy8aw=="
+secured: "kc3/lUIZKLZ0ff2LD/lViMCJ7P52gWO2zUnlp5O4+hZu9CtIjvg98B9fmgnRA7rMjwGKBScL/ZayskF8OM801uoy+pynSl8bXlHtxabiB2qWANvZGOklUuTR3xilj2+vdbEUAC39UuZs+EQ0y87Q5F+ExVzXrAcHR3wAH0gvD8zHLeJkIXAXDRb8tUweyfrBxDUBluFsHcZvKDrypxFGnRPR8UTJFAee5bd7mjL7OJmCiReJFxYjWkfAO2KkChxD+t6qUffObtexIfG5iHc4BhWZwDtSew0kz46pox7/PY2i7TPdTZSkUgBiS5zcmkO7R4wz/llpkffZ+L0g1JbCTlerWD40DDeg6vlH9igzOEm9KSw5Cd6Uh6qGVQFCwGCdjFa65JegSdItr9vxdBMsZqvji/v0Xrv2jQ6+VtHPatc1TRbam8cQS5wH23dhGmeYg1epybN7wboHQ9rkSzRz7MoFX9h8sW2gruQvBu4sjO9o1nRYygoN7kQmB7wV0d6CjhYtZxbaz8i29BuWbiuqeQ==;fM8nDgyCSTxllmJ+8Oke6A=="
 ---
 

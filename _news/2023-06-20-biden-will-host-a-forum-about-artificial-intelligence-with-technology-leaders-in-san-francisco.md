@@ -50,6 +50,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Biden talks AI with tech leaders in San Francisco"
+    excerpt: "President Joe Biden ramps up his reelection effort this week with four fundraisers in the San Francisco area, as his campaign builds up its coffers and lays strategic foundations for 2024."
+    publishedDateTime: 2023-06-20T20:54:00Z
+    webUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco"
+    ampWebUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 39
   - title: "You Can Watch AI Trump Vs. AI Biden In An Endless, Unhinged Live Debate"
     excerpt: "The former presidents are powered by advanced artificial intelligence, which is why they're discussing catgirls"
     publishedDateTime: 2023-06-20T13:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeawa
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Europe unveils strategy to defend AI, chips but divided on China"
+    excerpt: "While the strategy does not mention China by name, its language reflects criticism frequently leveled at Beijing by Europe, the U.S., and others. The proposal adds further detail to a de-risking strategy originally laid out by EC President Ursula von der Leyen on March 30."
+    publishedDateTime: 2023-06-20T18:04:00Z
+    webUrl: "https://asia.nikkei.com/Location/Rest-of-the-World/Europe/Europe-unveils-strategy-to-defend-AI-chips-but-divided-on-China"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 34
   - title: "The Ecosystem: Artificial Intelligence Act restrictions mean make or break for Europe’s emotion AI start-ups"
     excerpt: "The European Parliament has introduced a series of restrictions into the draft EU Artificial Intelligence (AI) Act that would prevent AI-driven facial recognition technology being used in public spaces for surveillance or law enforcement purposes."
     publishedDateTime: 2023-06-20T16:50:00Z

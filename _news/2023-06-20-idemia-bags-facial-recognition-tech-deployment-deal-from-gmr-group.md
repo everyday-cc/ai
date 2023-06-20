@@ -28,13 +28,13 @@ images:
 
 related:
   - title: "GMR Group selects IDEMIA for DigiYatra face recognition tech"
-    excerpt: "The technology has already been implemented at Delhi International Airport Limited (DIAL) for DigiYatra that facilitates entry of domestic travellers into the airport without showing identity documents."
-    publishedDateTime: 2023-06-20T13:14:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/gmr-group-selects-idemia-for-digiyatra-face-recognition-tech/articleshow/101138971.cms"
+    excerpt: "GMR Group has selected IDEMIA for implementing face recognition technology for DigiYatra service at Delhi International Airport, Hyderabad and Goa, a technology firm said on Tuesday."
+    publishedDateTime: 2023-06-20T12:46:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2494936-gmr-group-selects-idemia-for-digiyatra-face-recognition-tech"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: devdiscourse
+      domain: devdiscourse.com
     quality: 19
 
 secured: "1dGMUfFfZk4DXfXFddtKazDMJJ5sQsvqlIbnG+Q4c996eB85TB81NOuUta+sXAnyb8bgDvJi7ccmX1SyV2V8JE0zSsz4tb3Aw7jXgY5lc1qHIuw4vFurHDNslQITPLriefrp5eNpz6g+yFrd5NXz6lQtwN5IlSUlh5XEv1bi4xdRFPDrS/MVmDuyeBn6KBwwmzDZg2mLTLiMDaLcDuGQyqxaMmPFw062089/GCxlaNXMSRvaExn9524h2MqkDBVHSLk8t6N+uMvbF9RonsNsn8zSPCfDy1cgOzTssriOXcKwyNFITQ8Bi5WgKZqyxrHbTSRBYwRbWioqnhoYuLPbYMSEjjBt3V0EhfO5rqMX1NQ=;FsktGfmbzUb4V6U2zgAMkA=="

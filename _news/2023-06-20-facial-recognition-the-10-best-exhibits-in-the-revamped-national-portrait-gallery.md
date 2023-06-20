@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pic
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
 type: article
 quality: 68
-heat: 88
+heat: 108
 published: true
 
 provider:
@@ -45,6 +45,33 @@ related:
         width: 1963
         height: 1167
         isCached: true
+  - title: "It is supposed to help identify bad guys. But facial recognition doesn’t always recognize them."
+    excerpt: "Critics warn the growing use of the technology brings with it the danger that flawed identification could put innocent people in prison."
+    publishedDateTime: 2023-06-20T19:20:00Z
+    webUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html"
+    ampWebUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 47
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4GU6OYKFLRH6ZBZY3PG737PJM4.jpg"
+        width: 1680
+        height: 971
+        isCached: true
+  - title: "New Jersey Questions Facial Recognition’s Accuracy"
+    excerpt: "Proponents of the technology claim that it can be used as an important crime-fighting and security tool. But critics argue that mistakes and wrong identifications could put innocent people in prison and threaten data privacy."
+    publishedDateTime: 2023-06-20T20:40:00Z
+    webUrl: "https://www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy"
+    ampWebUrl: "https://www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
   - title: "Garda body cams to include facial recognition but real-time use prohibited"
     excerpt: "Goal of legislation will be safe and ethical use of facial-recognition technology to help faster investigation of serious crimes subject to maximum sentence of life imprisonment"
     publishedDateTime: 2023-06-20T03:59:00Z

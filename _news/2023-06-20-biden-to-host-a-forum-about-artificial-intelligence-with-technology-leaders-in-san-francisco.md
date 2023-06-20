@@ -42,6 +42,17 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "President Biden talks AI with tech leaders in San Francisco"
+    excerpt: "President Joe Biden ramps up his reelection effort this week with four fundraisers in the San Francisco area, as his campaign builds up its coffers and lays strategic foundations for 2024."
+    publishedDateTime: 2023-06-20T20:54:00Z
+    webUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco"
+    ampWebUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 39
   - title: "You Can Watch AI Trump Vs. AI Biden In An Endless, Unhinged Live Debate"
     excerpt: "The former presidents are powered by advanced artificial intelligence, which is why they're discussing catgirls"
     publishedDateTime: 2023-06-20T13:55:00Z
@@ -66,6 +77,6 @@ related:
       domain: chron.com
     quality: 5
 
-secured: "F0kjJG/knW0a6JOlOXyU3p7hPxJOrL33NirKZtMH1s66h2zXg4Cp6sYybEBCSqBXB0jsXPCSO7gkf0nGFi2GnAoRRSVbpR26Dm7XkTa9pODH6Fz2H73HjTKTWqh829LzUyv0eg0nY+BvAGm89Y9BW37EgFMkD5Qv/C04JcGmXc/NfWOk2GPoAatC86B/2s4OTpISTdsVQ3+f7chN5InhUjp4x2sh5nNGHM2gWZ2ZQc4QgVWdvKh3sXp5N+MwE6UhXsse6uVwGSubRlA1gcjL+owERpAOPf3Aj0IxpYVUy2KDiuMZEIbXEUpTQoaz2W4ZLAfIzleV5rV5EC5DpmlHv+O8ls2j4JrUpzDBJcmGj9w=;tTLj+bYCuIGNlvSZY4Ny2Q=="
+secured: "B+BlHV3d9iYLyf6wL9Vy1pC5n6r+p4ADhKzuuDW4z0fxUvRQHs6gCoCbWopGnON+tS5KmG9pdJbhjq8XqFtveDmp9YyQ8SCf5PHQokPHKucCvvBqLhoa2YkswjwJ73MCi/FA8DciLRL7uKH3AB5yM8JKkmVmOiDpBkShznM5EzSn5olSscdAmfyeVKUWrUCvnQC+2b/MWcLpPD0QAkU0igsRdSEZB+1wEu9UWg57hbMpYlo50coKw1zX7AqlLeHpl/EwdsY4Vewfi4ELWfzebC6mKijxkcIfange6txQtRCQJRctfD9n1PS/EfkX846s2Jjw8I4iuN6QMvWVAjaVdXviIWWUmnA4sSy/M2Aqh1cRpWhca1OKRT+Sunztx5UW8nRtM0nTSkt4EJZOVRqogyT3x06mVUBVWjDcB44VIjhl6rbmq5zKDLnq7hU+kbl/GeuOJtnrAqDH8CDCF91LFG955II86o2pkh2lr675kp8fgLM9M4HxeKns1+FfQh7FxDLxjSK2Dls8xKOz2XbiRA==;IzDNXe4Xir2CRxRpSdnZnw=="
 ---
 

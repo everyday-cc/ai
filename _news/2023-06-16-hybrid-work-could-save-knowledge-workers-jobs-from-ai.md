@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/16/hybrid-work-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/06/16/hybrid-work-could-save-knowledge-workers-jobs-from-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "AI Is a Lot of Work"
+    excerpt: "A few months after graduating from college in Nairobi, a 30-year-old I’ll call Joe got a job as an annotator — the tedious work of processing the raw information used to train artificial intelligence ... “When you start off, the rules are relatively ..."
+    publishedDateTime: 2023-06-19T08:25:00Z
+    webUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 19
 
 secured: "zSa4uR843DY8tFFWj+OIS3S+QjlvapZBcbhXajPkZWaMZp1u1yDxeiLpsltUrZ1TbST9N7w6QWcRwqRrybUjpN1e+F6EaXTa6pqfNjIjix1EQ1ca7Xo1CobeY8spZRyeHfHEBOLYdAJWMcnmiIhiJ5B2UQLCK6D7HoDoV3Cv1cH3ihavOX4JsoZahxJInHtYNqshayh+UFast80GTYMNPBsvfijFSCgi0NS9wx/6p0Qdkn/A6xrAnUqxJMdKOcidlHxF02eZPo0+Kv2m4Tg3MBEqjlxbn8nDRZyG9Qein4H78uAOgjwXOFh1sh6cnpjVemBWF1HaSSDmPplZkz8l3+IDlh8SpiJ9QkM2n9r0JRo=;2r2HWtV+y2TabHm2R4z9kw=="
 ---

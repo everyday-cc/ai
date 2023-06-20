@@ -2,6 +2,245 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-05-17-ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue.md",
+      "title": "AI-driven personalization-at-scale: The key to boosting fintech customer engagement and revenue",
+      "excerpt": "Learn how top fintechs are delighting customers and building strong relationships with AI-enabled platforms and data sources in this VB Spotlight. Register to watch free on-demand! “There’s a direct correlation between customers loving your products ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/",
+      "originalUrl": "https://venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/AdobeStock_155767679.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/amp/",
+      "publishedDateTime": "2023-05-17T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-how-job-seekers-are-using-ai-to-supercharge-their-job-hunt.md",
+      "title": "How job-seekers are using AI to supercharge their job hunt",
+      "excerpt": "The startup raised $2.3 million last year ... \"I think in a few years, everyone will have their own personal recruiter — their own AI recruiter,\" he said. To be sure, there are potential downsides to robo-applying. There's the possibility that too ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/ai-job-applications-mass-apply-autofill-job-search/",
+      "originalUrl": "https://www.cbsnews.com/news/ai-job-applications-mass-apply-autofill-job-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/14/03736f5c-c142-4ec7-bc92-ec942ec01152/thumbnail/1200x630/a6a67b308a63607fdfd13f8320a224f9/job-gettyimages-475352876.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-job-applications-mass-apply-autofill-job-search/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-job-applications-mass-apply-autofill-job-search/",
+      "publishedDateTime": "2023-05-17T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-before-ai-takes-over-make-plans-to-give-everyone-money.md",
+      "title": "Before AI Takes Over, Make Plans to Give Everyone Money",
+      "excerpt": "Here in the United States, an AI jobs revolution need not be anything for average wage-earning families to fear. If AI does not enslave the human race or destroy humanity outright, this generative technology can and should be a very,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/",
+      "originalUrl": "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/VCHLO5tj8BoZvOSAmITi2py2Mqw=/0x102:4792x2598/1200x625/media/img/mt/2023/05/AI_UBI_2/original.jpg",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly.md",
+      "title": "Latest moves show Stability AI is fully committed to open source — well, mostly",
+      "excerpt": "Stability AI released StableStudio, the latest in a series of moves to highlight its bonafides during an open source AI boom.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/",
+      "originalUrl": "https://venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/image-6.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/amp/",
+      "publishedDateTime": "2023-05-17T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare.md",
+      "title": "Hippocratic AI Rakes USD 50 Million in Seed Funding to Develop Models for Healthcare",
+      "excerpt": "According to a report, a startup developing AI models for the healthcare sector, Hippocratic AI, has raked in USD 50 million in a seed funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/Hippocratic-AI-Rakes-USD-50-Million-in-Seed-Funding-to-Develop.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/amp/",
+      "publishedDateTime": "2023-05-17T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-ai-and-the-future-of-work-developing-a-fascination-and-appreciation-for-the-unknown.md",
       "title": "AI And The Future Of Work: Developing A Fascination And Appreciation For The Unknown",
       "excerpt": "There will always be resistance when AI and machine learning tools go mainstream. As humans, we are creatures of habit who tend to cling to our belief systems, and the rapid advancement of AI tools tends to trigger our fear of the unknown.",
@@ -964,258 +1203,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-meet-my-new-co-pilot-in-the-doctors-office-artificial-intelligence.md",
-      "title": "Meet my new co-pilot in the doctor's office: Artificial Intelligence",
-      "excerpt": "The more I learn about the growing uses of Artificial intelligence in health care, the more convinced I become about its essential place in not just the lab or radiology suite but also in the doctor’s office. It can help usher in a world where tests and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence.amp",
-      "publishedDateTime": "2023-05-16T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-ai-startup-because-advances-tourism-sustainability-practices-with-strong-support-from-angel-investors.md",
-      "title": "AI Startup BeCause Advances Tourism Sustainability Practices with Strong Support from Angel Investors",
-      "excerpt": "The $450,000 investment provides important financial backing for the Danish company's next phase and brings valuable strategic guidance and advice from seasoned investors known for identifying successful enterprises and generating significant returns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-startup-because-advances-tourism-sustainability-practices-with-strong-support-from-angel-investors-2023-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-startup-because-advances-tourism-sustainability-practices-with-strong-support-from-angel-investors-2023-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us.md",
-      "title": "Robot Lawyer With A 64% Success Rate, You Can Now Hire AI Lawyers In The U.S.",
-      "excerpt": "In this report, we take a closer look at how AI is already disrupting the legal sector. Is this a start of an era where we could witness robot lawyers? Watch as Business Today TV’s Rachna Dhanrajani explores.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/bt-tv/video/robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us-381617-2023-05-17",
-      "originalUrl": "https://www.businesstoday.in/bt-tv/video/robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us-381617-2023-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/video/202305/thumb_web_46-sixteen_nine.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesstoday.in/amp/bt-tv/video/robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us-381617-2023-05-17",
-      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/bt-tv/video/robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us-381617-2023-05-17",
-      "publishedDateTime": "2023-05-16T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-natural-language-processing-nlp-in-healthcare-market-size-share-demand-growth-analysis-2023-to-2030-3m-linguamatics-amazon-aws.md",
-      "title": "Natural Language Processing (NLP) in Healthcare Market Size, Share, Demand, Growth Analysis 2023 to 2030 | 3M, Linguamatics, Amazon AWS",
-      "excerpt": "Download Free Sample Natural Language Processing (NLP) in Healthcare Market report  The Key companies profiled in the Natural Language Processing (NLP) in Healthcare Market: The study examines the Natural Language Processing (NLP) in Healthcare Market's competitive landscape and includes data on 3M,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-size-share-demand-growth-analysis-2023-to-2030-3m-linguamatics-amazon-aws-2023-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-size-share-demand-growth-analysis-2023-to-2030-3m-linguamatics-amazon-aws-2023-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T22:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-face-recognition-systems-market-2023-2030-size-and-driving-growth.md",
-      "title": "Face Recognition Systems Market 2023-2030 Size and Driving Growth",
-      "excerpt": "The Face Recognition Systems Market Scope and Overview Report for 2023 presents a detailed analysis of the latest trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

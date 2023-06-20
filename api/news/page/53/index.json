@@ -2,6 +2,247 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-05-15-the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare.md",
+      "title": "The Race Intensfies: Google Announces Bold Progress In AI, Advancing Med-PaLM 2 For Healthcare",
+      "excerpt": "AI has been all the buzz in both Silicon Valley and around the world for the last few months, especially after the release of Chat-GPT and advanced generative AI systems. This has triggered somewhat of a frantic rat-race amongst tech giants: everyone wants a piece of the AI pie, and the race to the top is intense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6461b63580f36a6d14cef342/0x0.jpg?format=jpg&crop=6058,3406,x0,y61,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/amp/",
+      "publishedDateTime": "2023-05-14T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
+      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
+      "excerpt": "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration says the tec",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/lifestyles/technology/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html",
+      "originalUrl": "https://omaha.com/lifestyles/technology/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport/article_1960d054-fedf-59b8-a1ed-b6d087e61991.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/e7/9e729762-a89b-5a79-9f4d-c13f116cf8fa/6461b5a12f579.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-artificial-intelligence-in-construction-market-2030.md",
+      "title": "Artificial Intelligence in Construction Market | 2030",
+      "excerpt": "The Global Artificial Intelligence in Construction market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2030-2023-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2030-2023-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T18:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-nvidias-ai-chips-will-help-power-these-5-industries-for-years-to-come.md",
+      "title": "Nvidia's AI Chips Will Help Power These 5 Industries for Years to Come",
+      "excerpt": "Nvidia is the world leader in advanced semiconductor chips known as GPUs. The company has leaned into AI, developing hardware and software platforms for customers. Nvidia is poised to grow by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/05/14/nvidias-ai-chips-will-help-power-these-industries/",
+      "originalUrl": "https://www.fool.com/investing/2023/05/14/nvidias-ai-chips-will-help-power-these-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/731598/artificial-intelligence-ai-data-deep-processing-2.jpg",
+          "width": 5500,
+          "height": 4125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-life-and-death-decisions-are-being-made-by-artificial-intelligence.md",
+      "title": "‘Life and death decisions are being made’ by artificial intelligence",
+      "excerpt": "Jacob Ward reports on how the invisible power structures we are assembling, by accident and on purpose, have the potential to change not just individual lives but the very future of humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-life-and-death-decisions-are-being-made-by-artifical-intelligence-174337605845",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-life-and-death-decisions-are-being-made-by-artifical-intelligence-174337605845",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684078202095_mtp_clip_mtpr602_spot_230512_1920x1080-2b3j1a.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174337605845",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174337605845",
+      "publishedDateTime": "2023-05-14T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-14-ai-presents-political-peril-for-2024-with-threat-to-mislead-voters.md",
       "title": "AI presents political peril for 2024 with threat to mislead voters",
       "excerpt": "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available",
@@ -985,262 +1226,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-ai-verification-and-impacts-on-commercial-due-diligence.md",
-      "title": "AI, verification and impacts on commercial due diligence",
-      "excerpt": "AI has loudly announced itself, offering enterprises exciting potential. Why due diligence, verification and vetting are essential.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-verification-and-impacts-on-commercial-due-diligence/",
-      "originalUrl": "https://venturebeat.com/ai/ai-verification-and-impacts-on-commercial-due-diligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-verification-and-impacts-on-commercial-due-diligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-verification-and-impacts-on-commercial-due-diligence/amp/",
-      "publishedDateTime": "2023-05-12T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-hear-reddit-co-founders-response-when-asked-if-government-is-equipped-to-regulate-ai.md",
-      "title": "Hear Reddit co-founder’s response when asked if Government is equipped to regulate AI",
-      "excerpt": "Reddit co-founder Alexis Ohanian joins CNN's Chris Wallace to discuss artificial intelligence and if the Government is equipped to regulate it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn",
-      "originalUrl": "https://www.cnn.com/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230512224047-alexis-ohanian-wtcw-vpx-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/05/13/alexis-ohanian-artificial-intelligence-government-regulation-ai-reddit-wallace-sot-contd-wtcw-vpx.cnn",
-      "publishedDateTime": "2023-05-12T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-how-this-safe-browsing-feature-is-using-ai-to-stay-ahead-of-scammers.md",
-      "title": "How this safe browsing feature is using AI to stay ahead of scammers",
-      "excerpt": "Kurt \"The CyberGuy\" Knutsson shares steps on how to enable Android's Safe Browsing feature, so you can feel more secure when browsing the internet on your phone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers",
-      "originalUrl": "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68f44d3f-4879-4357-aa2e-a9418b634a84/f9e8ca78-fc06-4391-ad1c-2a735f711145/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-this-safe-browsing-feature-is-using-ai-stay-ahead-scammers.amp",
-      "publishedDateTime": "2023-05-12T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-forbes-magazines-new-majority-owner-is-a-28-year-old-billionaire-who-made-his-money-in-self-driving-car-tech.md",
-      "title": "Forbes magazine’s new majority owner is a 28-year-old billionaire who made his money in self-driving car tech",
-      "excerpt": "The Forbes family will not, though Steve Forbes will remain involved. Russell is the chief executive officer of Luminar Technologies Inc., which provides antonymous driving technology to the automotive industry. The company, which has a $2.1 billion market ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/",
-      "originalUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1248342207-e1683937269697.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/amp/",
-      "publishedDateTime": "2023-05-12T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-what-does-ai-mean-for-your-money.md",
-      "title": "What Does AI Mean For Your Money?",
-      "excerpt": "AI – is grabbing headlines at the moment, with some commentators assessing its likely impact on daily life as being on the same scale as the Industrial Revolution or the development of the internet. Still in its relative infancy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/personal-finance/what-does-ai-mean-for-your-money/",
-      "originalUrl": "https://www.forbes.com/advisor/in/personal-finance/what-does-ai-mean-for-your-money/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/05/rsz_pexels-thisisengineering-3861969.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

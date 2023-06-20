@@ -36,6 +36,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI and the art of questioning: How investors can use chatbots"
+    excerpt: "The advancement of AI technology has led to the development of more complex machine learning models like rule-based systems, expert systems, and machine learning. The use of AI applications exploded,"
+    publishedDateTime: 2023-06-16T14:18:00Z
+    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/ai-and-the-art-of-questioning-how-investors-can-use-chatbots/articleshow/101049878.cms"
+    ampWebUrl: "https://m.economictimes.com/markets/stocks/news/ai-and-the-art-of-questioning-how-investors-can-use-chatbots/amp_articleshow/101049878.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/ai-and-the-art-of-questioning-how-investors-can-use-chatbots/amp_articleshow/101049878.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://img.etimg.com/photo/msid-99054901,quality-100.cms"
+        width: 681
+        height: 1401
+        isCached: true
   - title: "AI chatbots in dermatology: Promising, but proceed with caution, says new study"
     excerpt: "Study finds AI chatbots in dermatology show promise in answering patient questions and simplifying medical jargon, but limitations in accuracy and knowledge highlight the need for cautious integration into clinical practice."
     publishedDateTime: 2023-06-19T03:26:00Z

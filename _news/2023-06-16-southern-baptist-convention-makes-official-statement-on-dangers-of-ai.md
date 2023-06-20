@@ -19,29 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "Five potential outcomes of AI in 99 seconds"
-    excerpt: "The BBC spoke to various experts about the dangers artificial intelligence could pose."
-    publishedDateTime: 2023-06-16T01:37:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-65885899"
+  - title: "Elon Musk Backs AI Regulation, But Offers Only Vague Solutions"
+    excerpt: "I’m in favor of AI regulation because...advanced AI is [a] risk to the public,' he says today. But when pushed for specifics, the Tesla CEO comes up empty."
+    publishedDateTime: 2023-06-16T17:10:00Z
+    webUrl: "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offers-only-vague-solutions"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
+      name: PC Magazine
+      domain: pcmag.com
     quality: 67
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D1D8/production/_130102735_p0fvh3l1.jpg"
-        width: 1024
-        height: 576
+      - url: "https://i.pcmag.com/imagery/articles/05DAz1A8aNpuSWJBng8gzvN-1.fit_lim.size_1200x630.v1686931162.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "How Edge AI Is Fueling Industry 4.0 Outcomes"
-    excerpt: "To close the gap between today's technology and Industry 4.0, manufacturers must consider new approaches to interoperability that allow for ML-enabled insights at scale."
-    publishedDateTime: 2023-06-20T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-edge-ai-is-fueling-industry-40-outcomes/"
+  - title: "Artificial intelligence is the new frontier... in election misinformation"
+    excerpt: "The RNC admitted the ad was built entirely of images created using artificial intelligence. Along with fake reports of what sound like news reporters. The RNC included a small watermark in the corner of the video disclosing it was “built entirely with AI imagery."
+    publishedDateTime: 2023-06-19T21:53:00Z
+    webUrl: "https://www.wusa9.com/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
+    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
+    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: WUSA
+      domain: wusa9.com
+    quality: 56
+    images:
+      - url: "https://media.wusa9.com/assets/WUSA/images/efdc0fb5-71c0-4533-bafa-96e8338baeab/efdc0fb5-71c0-4533-bafa-96e8338baeab_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Elon Musk surprised by support for AI pause, calls for strong regulation"
+    excerpt: "Aidan Gomez, CEO of Cohere, a $2 billion AI startup, expressed skepticism about the feasibility of implementing the pause, stating that debating the extinction of humanity due to superintelligent AI. was an inefficient use of time and resources."
+    publishedDateTime: 2023-06-19T10:54:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/19/elon-musk-surprised-support-ai-pause-calls-for-strong-regulation/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 46
 
 secured: "tEzv6ZdID0e6+kZRD1H5aIpPxiE+DW123/RYkZQIbLUh8igCQXIiuqvhEBJS2unXM1blawXwY498Ty/rmoV8N8sOHf22V6zk8v4sk4JlHuIFF/OFwVuF2lkFVsv1ydRHnvvZnV5k2ZQTEPaj1FG0Yzwy/4vAtcjsjyeiKkSCcVpyJ2fYT71G0HxZyjwtWXjEdPdSLR1P8/fUcpm09flfucFvN8cYCKg9Z4yNDtLKSPfSvpLowbvANL/4XrTms7HWfRoPS2xVlSsvkUqrEKX1IZ55gUVP/BW4TYZGmU06tcRoQju0SbPN1zxkZFJ+XitKlPubZeLYPBhwVn5nyBJaogzT1rbJmJL9YuBl9knJ3hjrZJiC8oydIKcAe7Rq69Eb1g3GwaC7M8tq6DRV/9dzIpk1gzwaZNSnNGgXzRfr3QbqZvyr+Ln6xKn/fLVERCA3q9TLeTVJ//IENdAuLGkyflUJmhOqTPGBNkelMUofJpwXHRNNFcpqb1Q5msb/yhBoopqNMo8BrnJCrylpdYgCdQ==;ZQ7RSnF7+NMFXjd8wLFaqg=="
 ---

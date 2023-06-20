@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Now is the time: Let’s discuss generative AI in a critical peer-to-peer setting"
+    excerpt: "VB Event Generative AI is the most transformative trend this year and growing at a faster pace than any AI technologies that have come before it, which has sparked a genuine industry-spanning uproar."
+    publishedDateTime: 2023-06-20T20:40:00Z
+    webUrl: "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/i-Lb6ZHvf-X3.jpg?w=1200&strip=all"
+        width: 1198
+        height: 685
+        isCached: true
   - title: "Cloud security leader Zscaler bets on generative AI as future of zero trust"
     excerpt: "Zscaler made new product and service announcements this week reflecting an aggressive growth strategy and intent to monetize generative AI."
     publishedDateTime: 2023-06-19T19:22:00Z
@@ -60,6 +74,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "5 ways generative AI will help bring greater precision to cybersecurity"
+    excerpt: "Cybersecurity vendors have different visions of how generative AI can serve customers but all know they must provide guidance to reduce risk"
+    publishedDateTime: 2023-06-20T18:15:00Z
+    webUrl: "https://venturebeat.com/security/5-ways-generative-ai-will-help-bring-greater-precision-to-cybersecurity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
     excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
     publishedDateTime: 2023-06-19T13:00:00Z

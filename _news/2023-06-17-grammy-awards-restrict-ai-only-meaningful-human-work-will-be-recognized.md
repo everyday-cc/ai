@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Purely AI-generated songs declared ineligible for Grammy Awards"
+    excerpt: "Amid increasing use of generative AI in music, the Recording Academy has updated its rules for the 66th annual Grammy Awards regarding the role of AI in considered works, Reuters reports. To be eligible for an award,"
+    publishedDateTime: 2023-06-20T21:07:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/tin_robots_hero-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Could a robot win a Grammy? AI music is eligible — sort of"
     excerpt: "Hold the (gramo)phone: Artificial intelligence-generated music is eligible for Grammy Awards — err, kind of. The Recording Academy announced sweeping changes Friday to music’s biggest night, including that it will allow entries that use AI, as long as there is a “meaningful” and “relevant” human component."
     publishedDateTime: 2023-06-16T23:06:00Z
@@ -62,6 +78,15 @@ related:
     provider:
       name: Time
       domain: time.com
+    quality: 47
+  - title: "The Grammys' New Rules: AI Can't Win Awards"
+    excerpt: "AI proved just how talented it can be at ripping off major artists after a computer-generated song based on The Weeknd and Drake went viral in April. Now, the Recording Academy—the body that votes on and manages the annual Grammy Awards—is setting new rules for AI’s role in the coveted accolade."
+    publishedDateTime: 2023-06-20T19:25:00Z
+    webUrl: "https://gizmodo.com/ai-the-grammys-chatgpt-ai-cant-win-awards-1850556918"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
     quality: 47
   - title: "New Grammy rule addresses artificial intelligence, says \"only human creators\" eligible for awards"
     excerpt: "Under the new rule, works that features elements of AI are still eligible as long as a human creator is responsible for a \"meaningful\" contribution."

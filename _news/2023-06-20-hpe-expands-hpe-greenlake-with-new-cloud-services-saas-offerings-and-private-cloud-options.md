@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/06/20/hpe-expands-hpe-greenlake-new-
 webUrl: "https://siliconangle.com/2023/06/20/hpe-expands-hpe-greenlake-new-cloud-services-saas-offerings-private-cloud-options/"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 438
     isCached: true
 
-secured: "Sh/kAgqlbVQ4ctG449U2V9UQIK1oURJcqK+rSLxNlJmnGsSeji6WHqjkRUxV3AVoBualI0iSEzsbRj8bBd4I0XfCU8Q/VacxvMQ8EdrpL3SW4FDi+3mSzcrTp4QeWPHLPUL6HNPl0Ksxu9oU8b0ZeMMfDz/nErF5lfaAyaNwuKWu4AqFUweJU1D1yja4dFBK7G2BxAc+n7v6rWgUUbbiqD6k7SeHliSb4G3iTUEarbRehUKrff6f0ThpplKxzaW3BVCRenVSHYMV7BN/V8ndt5At/86hoSVeI1A4WWtf8ZNpjd8j+pxWfwFVDL1fYZKO+4JMFPyEXdvubKYUdF4ZzG7wNx1MIvm3Fci3O1MezrI=;cTmDGi86tnf1uqZ3z039Jw=="
+related:
+  - title: "HPE Discover 2023: GreenLake enters the AI market with LLM cloud service"
+    excerpt: "GreenLake for LLMs was created in partnership with Aleph Alpha, a German AI startup, which provided a pre-trained LLM called Luminous. The Luminous LLM can work in English, French, German, Italian and Spanish and can use text and images to make predictions."
+    publishedDateTime: 2023-06-20T21:22:00Z
+    webUrl: "https://www.techrepublic.com/article/hpe-discover-2023/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 66
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/09/tr-edge-ai1.jpeg"
+        width: 794
+        height: 585
+        isCached: true
+
+secured: "UJsRJVFTwWFbCDNC4/1BCWLTV2UQRt40h0KCvetaLPEGFMlYOwCbs8XGyCGZ8qzXM1HkJ7FALBtd0ANvrz/8mg2Z71NnAfMClinPAAtSTA8ES4S6Z3YjWn5kVU5zDPhtvHc1EeRLSY/Rl5cmJwqUOoPaBAS2/TeKvfhENUcEBC9Kie+jep2VkRttPA0Bl+tBhWQWhcV5yeGv2OLSVQI9xdpJLG++PhUdIV7nZRfvgBoCFa0qcif0MhJBvPdx9Y8VvDIaX5bAshW+29P+e6FaNzhMvZa5n4tKoJ++/jEWG0XgNgS6zP85qUYJDzWOHvg5E0Dk5Rs1MiCw/4opGJmHYY8llCzK5AfvMgBwL/Frua66Y//f60/lrG3C5WSAInswYyILDdRgm8rDr15bWNwm2O1k0VCWdbCCvazO85BD5vjYXEY7VP2slQ9hObjATYMoNLfTTmB6JVjwKD0KznjvAKNoYv0sRumj1sNcBSgm7U7iSQIAWBFYL9kMx5mCNWSNd5Ku2bRWXvHv04qmn9ZR+g==;6m1atbI1BRqNrSVzSzS8Jw=="
 ---
 

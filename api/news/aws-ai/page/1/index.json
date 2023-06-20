@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-20-reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators.md",
+      "title": "Reduce energy consumption of your machine learning workloads by up to 90% with AWS purpose-built accelerators",
+      "excerpt": "Machine learning (ML) engineers have traditionally focused on striking a balance between model training and deployment cost vs. performance. Increasingly, sustainability (energy efficiency) is becoming an additional objective for customers. This is important because training ML models and then using",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/ML-13388_inference_experiments-1122x630.png",
+          "width": 1122,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T14:38:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-18-aws-reinforce-2023-navigating-the-crossroads-of-security-diversity-and-ai-innovation.md",
       "title": "AWS re:Inforce 2023: Navigating The Crossroads Of Security, Diversity, And AI Innovation",
       "excerpt": "AWS announced an array of new services and capabilities—as they typically do at events like this—and there were many informative keynotes and breakout sessions.",
@@ -1366,58 +1419,6 @@
       "topics": [
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-washington-boy-plummets-20-feet-deep-into-well-during-recess.md",
-      "title": "Washington boy plummets 20 feet deep into well during recess",
-      "excerpt": "A 12-year-old boy in Washington state fell into a well during recess on Tuesday afternoon. Fire officials in Marysville, Washington said in a press release that firefighters initially responded to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess",
-      "originalUrl": "https://www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/340/340/23004538_10210746000863057_8699735736880323065_o.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess.amp",
-      "publishedDateTime": "2023-06-01T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

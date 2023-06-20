@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "IBM expands Adobe partnership to accelerate content supply chains with generative AI"
+    excerpt: "The collaboration between IBM and Adobe will concentrate on helping clients create personalized customer experiences through generative AI."
+    publishedDateTime: 2023-06-20T19:21:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-expands-adobe-partnership-accelerate-content-supply-chains-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 40
   - title: "HCLTech and Google Cloud expand partnership on generative AI"
     excerpt: "HCLTech will train more than 18,000 experts to help businesses implement Google Cloud’s generative AI models and capabilities."
     publishedDateTime: 2023-06-19T09:38:00Z
@@ -28,6 +37,15 @@ related:
       name: Cloud Computing
       domain: cloudcomputing-news.net
     quality: 19
+  - title: "Compass UOL Launches AI Cockpit with Generative AI"
+    excerpt: "Digital services company Compass UOL today announced it has equipped its workforce of 6,000 software engineers with AI Cockpit,"
+    publishedDateTime: 2023-06-19T15:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/compass-uol-launches-ai-cockpit-with-generative-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
 
 secured: "8ymZV+7O69FH0c/jXdLjQD6ACVgqTFPt8LhLI9Wtff3SLkS6go937cKN6vAmlhmkgco+4sikL1Zf8IuDeHeBwnwuDO47UAvJ6VeTIN4RWucyzgDB4BC71raFySJAt3iuAK/OIvk9LYedNjQZv0wvdRkh7uw9yTq18LhVNX7YMb7epYtTqt374g+hst3gCJK9/ygpWTbayxYISaQb9mLFe6vwnGf2VXtUHqWuHquVe0KnVH4R28GfSrtxN3ZjmqttXrHei3IafnshYo4q38knefnxyhpt/lz07DC5S/toZ4cscRxwXyH53yNjy8KTIzkaYAp1wvOZvy6XxdJ26t5R4QCebVc7h2LdY8FAFzAzlWrT3/5SxUCZQEs9J0dEA6T1DaY/TGXk63zoCX60J9feRbLU3WxRN3wNSGzP0NkzdpJHDWVQo8NPgGoKVvQN1vi9mlYUGdvobfJULW1aOp9IEyKZe4DHkfPYEgAU1uaS3GRAD8jO163yl5YKpkXZens0XF3FrLTyARHXYF3a/M9knA==;DubS6tb2hlNAYFKwwdxNzA=="
 ---

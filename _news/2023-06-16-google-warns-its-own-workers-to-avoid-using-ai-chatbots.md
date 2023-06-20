@@ -33,6 +33,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI and the art of questioning: How investors can use chatbots"
+    excerpt: "The advancement of AI technology has led to the development of more complex machine learning models like rule-based systems, expert systems, and machine learning. The use of AI applications exploded,"
+    publishedDateTime: 2023-06-16T14:18:00Z
+    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/ai-and-the-art-of-questioning-how-investors-can-use-chatbots/articleshow/101049878.cms"
+    ampWebUrl: "https://m.economictimes.com/markets/stocks/news/ai-and-the-art-of-questioning-how-investors-can-use-chatbots/amp_articleshow/101049878.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/ai-and-the-art-of-questioning-how-investors-can-use-chatbots/amp_articleshow/101049878.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://img.etimg.com/photo/msid-99054901,quality-100.cms"
+        width: 681
+        height: 1401
+        isCached: true
   - title: "Even Google is warning its employees about AI chatbot use"
     excerpt: "Anything you say to an AI chatbot like ChatGPT, Google Bard, and Bing Chat can be used to train it, as these bots are based on large language models (LLMs) that are in constant training. The companies behind these AI chatbots also store the data, which could be visible to their employees."
     publishedDateTime: 2023-06-16T18:57:00Z

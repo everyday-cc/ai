@@ -2,6 +2,247 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-20-reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators.md",
+      "title": "Reduce energy consumption of your machine learning workloads by up to 90% with AWS purpose-built accelerators",
+      "excerpt": "Machine learning (ML) engineers have traditionally focused on striking a balance between model training and deployment cost vs. performance. Increasingly, sustainability (energy efficiency) is becoming an additional objective for customers. This is important because training ML models and then using",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/ML-13388_inference_experiments-1122x630.png",
+          "width": 1122,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T14:38:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-hpe-discover-2023-greenlake-enters-the-ai-market-with-llm-cloud-service.md",
+      "title": "HPE Discover 2023: GreenLake enters the AI market with LLM cloud service",
+      "excerpt": "GreenLake for LLMs was created in partnership with Aleph Alpha, a German AI startup, which provided a pre-trained LLM called Luminous. The Luminous LLM can work in English, French, German, Italian and Spanish and can use text and images to make predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/hpe-discover-2023/",
+      "originalUrl": "https://www.techrepublic.com/article/hpe-discover-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/tr-edge-ai1.jpeg",
+          "width": 794,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse.md",
+      "title": "The AI voice-generating platform that shocked the world is getting an update to fight abuse",
+      "excerpt": "ElevenLab's voice cloning feature has been put to work for good and bad use cases. Can the latest update stop the misuse?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/",
+      "originalUrl": "https://www.zdnet.com/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5dedb52e46dc19d799d96bf3578c1b24d2e28690/2023/06/20/340f4394-39ad-4558-93b6-a50a24bfab58/gettyimages-1458045240.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/",
+      "publishedDateTime": "2023-06-20T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-biden-holds-meeting-on-possibilities-and-the-risks-of-ai.md",
+      "title": "Biden holds meeting on 'possibilities and the risks' of AI",
+      "excerpt": "President Biden held a meeting on artificial intelligence during a visit to San Francisco.  He assured his administration would work to \"manage the risks to our society\" while \"safeguarding\" the rights and safety of Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/biden-holds-meeting-on-artificial-intelligence-183553093957",
+      "originalUrl": "https://www.nbcnews.com/video/biden-holds-meeting-on-artificial-intelligence-183553093957",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687293423519_f_mo_dc_biden_ai_meet_230620_1920x1080-etwbna.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo183553093957",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183553093957",
+      "publishedDateTime": "2023-06-20T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-by-top-cloud-providers.md",
+      "title": "Cisco Unveils Game-Changing AI Supercomputer Networking Chips, Tested by Top Cloud Providers",
+      "excerpt": "Cisco Systems has introduced a groundbreaking series of networking chips designed for AI supercomputers, aiming to compete with industry giants like Broadcom and Marvell Technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/292825/20230620/cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-top.htm",
+      "originalUrl": "https://www.techtimes.com/articles/292825/20230620/cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-top.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/411327/cisco.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/292825/20230620/cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-top.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292825/20230620/cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-top.htm",
+      "publishedDateTime": "2023-06-20T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-college-will-start-new-courses-in-ai-and-ml.md",
       "title": "‘College will start new courses in AI and ML’",
       "excerpt": "ILS Law College Pune plans to introduce courses in artificial intelligence and machine learning for undergraduate and postgraduate students. The institute also runs a legal aid centre for the marginalised class in Maharashtra.",
@@ -284,7 +525,7 @@
       "originalUrl": "https://www.zdnet.com/article/can-ai-generated-music-win-a-music-award-the-grammys-make-their-verdict/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -438,7 +679,7 @@
       "originalUrl": "https://appleinsider.com/articles/23/06/20/apples-machine-learning-head-departs-to-run-ai-thinktank",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -626,7 +867,7 @@
       "originalUrl": "https://www.benzinga.com/23/06/32924098/amd-promises-an-ai-chip-power-shift",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -859,21 +1100,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-20-chinese-vendors-bypass-us-embargo-to-supply-high-end-nvidia-a100-ai-chips-report-reveals-hidden-market-dynamics.md",
-      "title": "Chinese Vendors Bypass US Embargo to Supply High-end Nvidia A100 AI Chips: Report Reveals Hidden Market Dynamics",
-      "excerpt": "China's famed Huaqiangbei electronics area in the southern Chinese city of Shenzhen shows startling revelations regarding the availability of Nvidia Corp NVDA AI chips. The U.S. embargo has led to an underground market with vendors dodging scrutiny from ...",
+      "path": "_news/2023-06-20-harry-styles-cardiff-concert-face-recognition-to-be-used-on-crowd.md",
+      "title": "Harry Styles Cardiff Concert: Face recognition to be used on crowd",
+      "excerpt": "Thousands of fans attending the Harry Styles concert in Cardiff could be scanned by live face recognition cameras deployed in the area by South Wales Police. The cameras will help identify people wanted for \"priority offences\".",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/government/23/06/32917499/chinese-vendors-bypass-us-embargo-to-supply-high-end-nvidia-a100-ai-chips-report-reveals-hidden-mark",
-      "originalUrl": "https://www.benzinga.com/government/23/06/32917499/chinese-vendors-bypass-us-embargo-to-supply-high-end-nvidia-a100-ai-chips-report-reveals-hidden-mark",
+      "webUrl": "https://www.bbc.com/news/uk-wales-65960525",
+      "originalUrl": "https://www.bbc.com/news/uk-wales-65960525",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/06/20/nvidia-photo_by_mizter_x94_via_pixabay.jpg?width=1200&height=800&fit=crop",
-          "width": 1080,
-          "height": 720,
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/723D/production/_129754292_mediaitem129754291.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -881,205 +1122,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32917499",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32917499",
-      "publishedDateTime": "2023-06-20T04:36:00-07:00",
+      "ampWebUrl": "https://www.bbc.com/news/uk-wales-65960525.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-65960525.amp",
+      "publishedDateTime": "2023-06-20T04:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-biden-to-host-forum-on-artificial-intelligence-with-tech-leaders-in-san-francisco.md",
-      "title": "Biden to host forum on artificial intelligence with tech leaders in San Francisco",
-      "excerpt": "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
-      "originalUrl": "https://www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mychamplainvalley.com/wp-content/uploads/sites/61/2023/06/64918813890167.37422042.jpeg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://www-mychamplainvalley-com.cdn.ampproject.org/c/s/www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/",
-      "publishedDateTime": "2023-06-20T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WVNY",
-        "domain": "mychamplainvalley.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai.md",
-      "title": "These 3 Approaches Are Key For Businesses To Avoid Being Eaten By AI",
-      "excerpt": "Given the deafening buzz in the six months since the public debut of ChatGPT, it can feel like we’ve entered an AI bubble.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai/",
-      "originalUrl": "https://www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64917f6cbaae7f061c9b887a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai/amp/",
-      "publishedDateTime": "2023-06-20T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "BBC",
+        "domain": "bbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-can-ai-make-airspace-security-smarter.md",
-      "title": "Can AI Make Airspace Security Smarter?",
-      "excerpt": "The impact of AI on keeping our airspace safe is determined by how well it is designed and what it has been trained on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648c6132caf85eefc9b1e992/0x0.jpg?format=jpg&crop=3033,1707,x0,y156,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/amp/",
-      "publishedDateTime": "2023-06-20T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-facial-recognition-the-10-best-exhibits-in-the-revamped-national-portrait-gallery.md",
-      "title": "Facial recognition: the 10 best exhibits in the revamped National Portrait Gallery",
-      "excerpt": "To mark the London gallery’s reopening this week after a £35m redevelopment, its director and chief curator introduce their favourite paintings from the expanded collection",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery",
-      "originalUrl": "https://www.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/86f5befebaa19f22dc825812fe692a115dd8ffc7/0_0_2400_3071/master/2400.jpg?width=620&quality=85&auto=format&fit=max&s=5a0693576ecf70dc873199c8c7a2d902",
-          "width": 620,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery",
-      "publishedDateTime": "2023-06-20T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1100,21 +1152,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-20-how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization.md",
-      "title": "How Healthcare Can Pioneer Industry-Specific AI For Privacy And Optimization",
-      "excerpt": "As the healthcare sector pioneers ways to use AI within these rules, other sectors will have good reason to follow suit.",
+      "path": "_news/2023-06-20-biden-to-host-forum-on-artificial-intelligence-with-tech-leaders-in-san-francisco.md",
+      "title": "Biden to host forum on artificial intelligence with tech leaders in San Francisco",
+      "excerpt": "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/",
+      "webUrl": "https://www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
+      "originalUrl": "https://www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6405efa13b66613f66c92092/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.mychamplainvalley.com/wp-content/uploads/sites/61/2023/06/64918813890167.37422042.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1122,65 +1174,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/amp/",
-      "publishedDateTime": "2023-06-20T03:00:00-07:00",
+      "ampWebUrl": "https://www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://www-mychamplainvalley-com.cdn.ampproject.org/c/s/www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/",
+      "publishedDateTime": "2023-06-20T04:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-the-art-of-a-good-unicorn-the-allure-of-ai-for-startup-founders.md",
-      "title": "The Art Of A Good Unicorn| The allure of AI for startup founders",
-      "excerpt": "The AI hype has given rise to a situation where you might have to force-fit AI in your startup. Is it a wise move? In the buzz surrounding ChatGPT and other services, startups may feel the heat to integrate AI in their operations. They must think about AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/opinion/the-art-of-a-good-unicorn-the-allure-of-ai-for-startup-founders-101687238366026.html",
-      "originalUrl": "https://www.hindustantimes.com/opinion/the-art-of-a-good-unicorn-the-allure-of-ai-for-startup-founders-101687238366026.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/06/20/1600x900/AI_1685779523053_1687238650133.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/opinion/the-art-of-a-good-unicorn-the-allure-of-ai-for-startup-founders-101687238366026-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/the-art-of-a-good-unicorn-the-allure-of-ai-for-startup-founders-101687238366026-amp.html",
-      "publishedDateTime": "2023-06-19T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
+        "name": "WVNY",
+        "domain": "mychamplainvalley.com",
         "images": null,
         "publishers": null,
         "authors": null

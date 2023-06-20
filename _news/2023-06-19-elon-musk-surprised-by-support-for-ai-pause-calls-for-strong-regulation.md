@@ -52,6 +52,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Southern Baptist Convention makes official statement on dangers of AI"
+    excerpt: "It appears this resolution makes Southern Baptists the first religious denomination to make an official statement on the challenges of AI and present a theological and ethical grid for dealing with"
+    publishedDateTime: 2023-06-16T13:34:00Z
+    webUrl: "https://www.christianpost.com/voices/so-baptist-convention-makes-official-statement-on-dangers-of-ai.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 19
 
 secured: "OmNr4ssd2jYDA7yQl9tSGcDWNzGxNWsiM8A/IOR5cTevGiUSD+dqesl9vYoRNUfNIP4YLzjTUgfAiHyi3leqh9h5fo5tzqxmX0SRam0FQLYVM0ZPC1idsWydTZS/+mJiAQEcFLKG6hzmTG3xNUoKax7iehPlhTu+Hkzps5h3Ip13g4v1NuvZ6wNb21j+6hiA1D7Y/3z7Ld51OAIW6FIlzDLCtAGVnl9PetZM6oPP2Rv4nQp7yN0WwhGy/3zI5AOLahv1398OL2fE2egHF/5mhj62gcDBp7/S35ZlrXj4UxaCylu2lit7e7V05PD+diMrWf4eyL64nfwdbXqjCEGPDPWnObfLX0xTXyqBR4cvWQk=;FASP94g1nU+re3qy0Pqb9A=="
 ---
