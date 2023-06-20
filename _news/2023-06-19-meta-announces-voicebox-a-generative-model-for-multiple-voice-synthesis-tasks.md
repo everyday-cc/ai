@@ -73,6 +73,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Meta's Voicebox AI Mimics Voices of People, Versatile Speech Generator for Audio Editing"
+    excerpt: "The latest development from Meta delivers the Voicebox AI which it claims to help generate audio from text or speeches, as well as act as an audio editing tool for all needs. Meta boasts it to be the most \"versatile\" speech generation tool in the industry,"
+    publishedDateTime: 2023-06-20T01:00:00Z
+    webUrl: "https://www.techtimes.com/articles/292788/20230619/metas-voicebox-ai-mimics-voices-people-versatile-speech-generator-audio.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/292788/20230619/metas-voicebox-ai-mimics-voices-people-versatile-speech-generator-audio.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292788/20230619/metas-voicebox-ai-mimics-voices-people-versatile-speech-generator-audio.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 52
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429932/meta-voicebox-ai.png"
+        width: 1500
+        height: 843
+        isCached: true
 
 secured: "d+/6WO4LnZkPaPD5vLEtulYhsWVVWP8chyb2pDh4LBwllR3+tLwPjZqaVyQPnTULPJlG3ZTqWXnQcwtuwaoyR4s54cr0E1L3k7UnJWGZe5VryV4zyI8zU0FT9sIloH6VFRcRX3KcHT2ZEPB84okr9zEMiKp/npw2zp8rFPYOXPNLWrHQiSZ6elmJWgH1q7ToWBuVwSjRqc7G6P3dYcHzAQ8XzfakpcZxyXQUlgdWA7wVPMJmIIWYHBwBJs93BeASN3X1uyKNJAFgX2jwfO8Alxp1AZFXzzn2jg1tfr3f7+m1yZjtqtck+Ql9Rnu3DGzDo5qNBou3qrW/BJdq6WYM15u2FylnvEIie2gD/8N55pyt2QJ/fIz8EFdSaggA0pkUnmRmctYxO3DoxEnkgqA1bMHkShu8Gk2IfZrP20KuZeCuWNYVwYIlHxzZB0eiIM7IS+MNJK9xM8fiv3vqvkLo6EY36KTuoJYFMlUFeQiTIqWm20pLUl7xC2iLxPduM98UU9gGtbz5YqFPq3XWH/epjA==;eNl98vWFPgZvIuUlSZ+CxQ=="
 ---

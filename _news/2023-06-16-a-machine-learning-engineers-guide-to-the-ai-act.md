@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJpQAGLIb6o0/v1/1200x799.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
+    publishedDateTime: 2023-06-20T00:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/19/the-artificial-intelligence-glossary/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "2EajvfVIVp7+xXR/HTlEBBbpfvgKNuGgvppvHMwn1cmlMCkD0sBgIDru5gDLClEpFvdI7p3qeKQi/005SLnZlffWps5xFhqpijk+lIbxG8a1se7J6qoCz/e4uMHBayJ+bO0hlUY0RgnBnDSaVUGu2IOFephVPSxV2tDJDvdhlGY1eShJA2HqPPQOiS2NRUtDx2FLQf9199JyZHBcicsyFTCdFjQMeYHWhoguYQYaGD7e7S+N+ZjRAM1yUHZdhMxYIqjBswwHzRFnuRA9Q+emJm8RQN9uBLBmDq3tmceQRwQohWYcDKrzEEbJhxQwH9LPwGFlZCLvHQ7opzTddXLS+4Zsq6EEaszL7thnIqIrFFqAhwYwac4cPwOFPjo5asRYSlEiHEHtsUVu3ZE7RJNPv+y+qQAtt9+wpxjWF6rdLWixA5Oi+6tBDTKNkZvlf9MgpxQ8LLMkgEG2cqUXwq0qBl52N1wpdqIuQHjcajf8x6MigMvdKkbtLcQFwaluNQ8vIHrHRfTWsjAjGv80LEX2Cg==;U+4nj/S07lCvZ7LsHN60mw=="

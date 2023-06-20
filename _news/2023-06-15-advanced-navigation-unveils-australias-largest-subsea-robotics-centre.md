@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/advanced-navigatio
 webUrl: "https://markets.businessinsider.com/news/stocks/advanced-navigation-unveils-australia-s-largest-subsea-robotics-centre-1032390898"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "A roadmap for robotics to enhance Australia’s modern manufacturing capabilities"
+    excerpt: "As industries that have always prioritised innovation, manufacturing and robotics have a long and illustrious history."
+    publishedDateTime: 2023-06-20T01:01:00Z
+    webUrl: "https://www.manmonthly.com.au/a-roadmap-for-robotics-to-enhance-modern-manufacturing/"
+    type: article
+    provider:
+      name: Manufacturers' Monthly
+      domain: manmonthly.com.au
+    quality: 30
 
 secured: "8UP2ES1coXcotTJ6Hg7v0xAeZ+3xsTwRFtw94q5wMqFCFDOHeVFR1i/djxq2GfBGsm+x3n2NlR3ivEUYxTNLKStxGGytQJ+liTV3WhQt7p5tCu+vp7EPmTrKJGH1SUNwlbPLtCVRh/V+YTnPUO7ASqRfJQpzZxyZQYVd60sGLTz8KIV3WMO0VekYr3SWIp9OvEApvhwlMHJY0YSYRF6UYFqD3yHhkKkdQ8ItKf5yErh6sa1YZm1o2WlugZYZQtKWwKWv4nbw2hMH2UaGkbqO+nakYXE+PjhhcqhmTxsP3R/MZJuXJIlt5CewuCH6NCQn9yfXZihhbGkyAmyiK97khoWypbIm1qGmAPLKVSm/rhjFW2Dyhx3ckztSmCjCrz8oL/bo13qj5IskYKVvCqXsXn8LerM2qdC5hrGOgEvWXWyIQaAu2zFmUXvD3y1/08dUW787QE87KSVFSKzJrJ5n6e5Ew7lpW8NUdQDpHbM64IANB7X4MOwSSH44WQRMLUVWna3WWYZDRkRHufLh1wLZrw==;JpfFucHkNn6b0XuB43rvRw=="
 ---

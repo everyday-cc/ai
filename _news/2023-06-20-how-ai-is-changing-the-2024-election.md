@@ -9,7 +9,7 @@ ampWebUrl: "https://www.myarklamiss.com/news/how-ai-is-changing-the-2024-electio
 cdnAmpWebUrl: "https://www-myarklamiss-com.cdn.ampproject.org/c/s/www.myarklamiss.com/news/how-ai-is-changing-the-2024-election/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is the new frontier... in election misinformation"
-    excerpt: "The RNC admitted the ad was built entirely of images created using artificial intelligence. Along with fake reports of what sound like news reporters. The RNC included a small watermark in the corner of the video disclosing it was “built entirely with AI imagery."
-    publishedDateTime: 2023-06-19T21:53:00Z
-    webUrl: "https://www.wusa9.com/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    type: article
-    provider:
-      name: WUSA
-      domain: wusa9.com
-    quality: 56
-    images:
-      - url: "https://media.wusa9.com/assets/WUSA/images/efdc0fb5-71c0-4533-bafa-96e8338baeab/efdc0fb5-71c0-4533-bafa-96e8338baeab_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "How is AI changing the course of the security marketplace?"
     excerpt: "According to a report by the U.S. Government Accountability Office (GAO), artificial intelligence (AI) is expected to transform all sectors of society, including national security. The"
     publishedDateTime: 2023-06-15T13:01:00Z

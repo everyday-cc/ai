@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "A roadmap for robotics to enhance Australia’s modern manufacturing capabilities"
+    excerpt: "As industries that have always prioritised innovation, manufacturing and robotics have a long and illustrious history."
+    publishedDateTime: 2023-06-20T01:01:00Z
+    webUrl: "https://www.manmonthly.com.au/a-roadmap-for-robotics-to-enhance-modern-manufacturing/"
+    type: article
+    provider:
+      name: Manufacturers' Monthly
+      domain: manmonthly.com.au
+    quality: 30
 
 secured: "d894MEROQqaBP9G7jjzlwkYdt5Efs0iW/EHPEN4LoE0cU401emvvLF+CHzEc5X6KsWFPlomXyOQP615GQbDLJnso1VBhHNibJHNcL1iS6WDMH7Kl+re8vPO3Vp0CkZJcD4c5qvkDazZOraJTn0/fJ3fmatnct7YeFHFTeWl3ZyZSktID6VAyUlD4xwfY5y3P2V5mNyP6d0iM+FGGOY+5LGUkSJ7/0bi16sule6wn6cibm76Q7LHTTVT3+THMfmNzNI+0iHrrzsVSUok3I6spacRvms59Iz7A4p7idnZVsQCXiOBQXn5ud90MINfgx/bT5CPRMrdDPJB+WtQ5tOYv873Rz/Y12uG1oJwIP4CRk0Y=;hxouNv9zaFS9cZCVr9AxrQ=="
 ---

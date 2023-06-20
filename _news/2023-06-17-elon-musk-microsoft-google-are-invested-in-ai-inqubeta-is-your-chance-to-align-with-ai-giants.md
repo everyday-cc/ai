@@ -142,15 +142,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Microsoft adds AI capabilities, enhances translation features to Skype"
-    excerpt: "In the latest update to Skype, Microsoft has incorporated AI capabilities and enhanced translation features into the platform. The updated version (8.99.76.102 for Insiders) of Skype includes several new features as well as the usual reliability fixes."
-    publishedDateTime: 2023-06-15T08:37:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4086912.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 36
   - title: "Microsoft Nears All-Time Closing High, $2.6 Trillion Value, Amid AI-Powered Rally"
     excerpt: "Microsoft's early-mover advantage in AI has helped it surge past Google and possibly challenge Apple as the world's most-valuable tech company."
     publishedDateTime: 2023-06-15T19:45:00Z
@@ -162,8 +153,8 @@ related:
     quality: 29
   - title: "HCLTech and Microsoft Expand Collaboration to Boost Innovation and Adoption of Generative AI with Microsoft's Azure OpenAI Service"
     excerpt: "Leveraging HCLTech's deep domain expertise across various industries and Microsoft's Azure OpenAI Service, clients will benefit from innovative solutions that enhance employee productivity, streamline IT operations,"
-    publishedDateTime: 2023-06-15T11:34:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833322.htm"
+    publishedDateTime: 2023-06-15T12:54:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/15/9833322.htm"
     type: article
     provider:
       name: TMCnet

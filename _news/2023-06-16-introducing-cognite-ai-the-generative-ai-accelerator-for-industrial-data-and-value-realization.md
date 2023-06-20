@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Introducing Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization"
-    excerpt: "Cognite, a globally recognized leader in industrial software, today announced the launch of Cognite AI, the Generative AI Accelerator for Industrial Data and Value Realization. Cognite AI, a comprehensive suite of Generative AI capabilities within Cognite's core Industrial DataOps platform,"
-    publishedDateTime: 2023-06-15T07:16:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833141.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
   - title: "Cognite Launches Generative AI Accelerator, Promises 10x Efficiency Boost in Industrial Workflows"
     excerpt: "Cognite AI, a comprehensive suite of Generative AI capabilities within ... “Celanese is building the Digital Plant of the Future and we rely on Cognite Data Fusion on Microsoft Azure to put the right data into the hands of our experts so they can spend ..."
     publishedDateTime: 2023-06-15T16:34:00Z

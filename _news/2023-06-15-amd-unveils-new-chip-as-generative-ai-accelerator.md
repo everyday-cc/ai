@@ -19,84 +19,59 @@ topics:
   - AI
 
 related:
-  - title: "How generative AI is creating new classes of security threats"
-    excerpt: "Why we must act now so that security professionals can develop strategies and react as large-scale issues arise with the evolution of AI."
-    publishedDateTime: 2023-06-18T18:09:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_light_and_technology_creating_a_dangerous_force._colorfu_4939c964-541c-44c0-aa32-9df44f5360ae.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trend Micro brings generative AI to Vision One cybersecurity platform"
-    excerpt: "Trend Micro's new generative AI-driven Vision One platform brings together cybersecurity capabilities including XDR and zero trust."
-    publishedDateTime: 2023-06-15T09:00:00Z
-    webUrl: "https://venturebeat.com/ai/trend-micro-brings-generative-ai-to-vision-one-cybersecurity-platform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/3-Moving-from-zero-trust-to-zero-trust-network-access-2.0.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
-  - title: "AI And Security: Is Your Organization Ready?"
-    excerpt: "“AI can create such convincing content to the average person that it’s going to be difficult for them to discern what’s real without intensive training,” Lefever said. “Social engineering approaches will become much more sophisticated and convincing, and it will require teaching the workforce to be critical thinkers around security.”"
-    publishedDateTime: 2023-06-16T18:07:00Z
-    webUrl: "https://www.forbes.com/sites/larryenglish/2023/06/16/ai-and-security-is-your-organization-ready/"
+  - title: "AMD Hops On The Generative AI Bandwagon With Instinct MI300X"
+    excerpt: "The big AI news at the AMD Data Center & AI Technology Event was the introduction of a new variant of its Instinct MI300 designed to support generative AI models."
+    publishedDateTime: 2023-06-20T01:11:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
-  - title: "Cloud security leader Zscaler bets on generative AI as future of zero trust"
-    excerpt: "Zscaler made new product and service announcements this week reflecting an aggressive growth strategy and intent to monetize generative AI."
-    publishedDateTime: 2023-06-19T19:22:00Z
-    webUrl: "https://venturebeat.com/security/cloud-security-leader-zscaler-bets-on-generative-ai-as-future-of-zero-trust/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-  - title: "Tribe AI’s CEO on why generative AI is seeing more rapid uptake by enterprises than web3 and crypto"
-    excerpt: "The second one is continued specialization. AI is not a monolith, it’s not one thing. We’re seeing people start to specialize and focus and go deep on a specific use case or a specific industry. That’s where you’re going to see the most value ..."
-    publishedDateTime: 2023-06-16T17:40:00Z
-    webUrl: "https://venturebeat.com/ai/tribe-ais-ceo-on-why-generative-ai-is-seeing-more-rapid-uptake-by-enterprises-than-web3-and-crypto/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 55
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Jaclyn-headshot.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6490f58d3117088bf13b363e/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 706
         isCached: true
-  - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
-    excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://venturebeat.com/games/hidden-door-launches-playtests-for-wizard-of-oz-games-created-by-generative-ai/"
+  - title: "AMD faces path dependency struggle as it challenges Nvidia with MI300X AI GPU"
+    excerpt: "Advanced Micro Devices Inc. (AMD) on June 13 revealed its most-advanced GPU for artificial intelligence (AI), the MI300X, trying to get a bigger bite of the pie of the GPU market that has been ..."
+    publishedDateTime: 2023-06-15T12:56:00Z
+    webUrl: "https://www.digitimes.com/news/a20230614VL207/commentary-ai-gpu-amd-nvidia.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
-  - title: "Generative AI is disrupting its own investment case"
-    excerpt: "The very pace of transformative technology makes it tougher for start-ups — and for existing investment portfolios"
-    publishedDateTime: 2023-06-15T12:32:00Z
-    webUrl: "https://www.ft.com/content/00f517b8-41e9-4405-9320-e0b19ac65e6b"
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230614vl207_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "AMD's new Instinct MI300X for AI will consume a lot of power, like 750W"
+    excerpt: "It's starting to look like we're getting pretty close to seeing a new GPU draw 1KW of power as standard, with AMD's new Instinct MI300X rated at 750W."
+    publishedDateTime: 2023-06-16T04:32:00Z
+    webUrl: "https://www.tweaktown.com/news/91924/amds-new-instinct-mi300x-for-ai-will-consume-lot-of-power-like-750w/index.html"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91924_01_amds-new-instinct-mi300x-for-ai-will-consume-lot-of-power-like-750w_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
+  - title: "AMD Instinct MI300X Datacenter GPU gets 750W TBP"
+    excerpt: "AMD recently presented its latest technological advancement, the Instinct MI300X GPU, at the Data Center and AI Technology Premiere event on June 15th. In the keynote address, specific information"
+    publishedDateTime: 2023-06-16T06:17:00Z
+    webUrl: "https://www.guru3d.com/news-story/amd-instinct-mi300x-datacenter-gpu-gets-750w-tbp.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
 
 secured: "/++TeF6t+P7+3DtnGSEwTJJZEeCNWuhtxmHcaXZpIQXeXxQtc/jA9HV/BamFm5eTsovWh3RMgolDKsVZum3yEQvzqptyYzT9d5qRWHxNCP0ffhrw2S8/GzwueyxQGwuA5JGEna8P7n1SxLp0tGh3MCDXxOLPTfD7XSAtg4wXUbl/18RRRg4zLDjxKPEJ6/zW3hbn6NS/oaD8C4Rgy4MATz1FtUanY/0wVNV3bo+hJtNZGA+iK4viJvtGXbote8iEmyVmHA0L7wRX6d+ptClGI2HG3NaOxESOHuPMzjAbi62j9ojrq4fm1yJiXrEEBi7nFn54bIphUBhFcYZywZOfSnXsfpG5UjnOsFvFYkYFouY=;pUODfVre0lJdsGi6fqciyw=="
 ---

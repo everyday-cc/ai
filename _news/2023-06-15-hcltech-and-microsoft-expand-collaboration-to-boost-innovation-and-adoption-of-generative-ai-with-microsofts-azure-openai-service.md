@@ -2,9 +2,9 @@
 category: news
 title: "HCLTech and Microsoft Expand Collaboration to Boost Innovation and Adoption of Generative AI with Microsoft's Azure OpenAI Service"
 excerpt: "Leveraging HCLTech's deep domain expertise across various industries and Microsoft's Azure OpenAI Service, clients will benefit from innovative solutions that enhance employee productivity, streamline IT operations,"
-publishedDateTime: 2023-06-15T11:34:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/15/9833322.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833322.htm"
+publishedDateTime: 2023-06-15T12:54:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/15/9833322.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/15/9833322.htm"
 type: article
 quality: 19
 heat: -1
@@ -150,15 +150,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Microsoft adds AI capabilities, enhances translation features to Skype"
-    excerpt: "In the latest update to Skype, Microsoft has incorporated AI capabilities and enhanced translation features into the platform. The updated version (8.99.76.102 for Insiders) of Skype includes several new features as well as the usual reliability fixes."
-    publishedDateTime: 2023-06-15T08:37:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4086912.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 36
   - title: "Microsoft Nears All-Time Closing High, $2.6 Trillion Value, Amid AI-Powered Rally"
     excerpt: "Microsoft's early-mover advantage in AI has helped it surge past Google and possibly challenge Apple as the world's most-valuable tech company."
     publishedDateTime: 2023-06-15T19:45:00Z
@@ -169,6 +160,6 @@ related:
       domain: thestreet.com
     quality: 29
 
-secured: "MXEe33x6G9SvQkQUF53VgKNSy8b89MEEqjxbn5o3kAepT+AS6oN7p55H3FBpKOgxKnQnuxGuv8ls+lXGkPEUsCSuWTCKU5NXIkvlMb3zC+f2ol/QfD04HFlAUUKasAajhU6bWo01rHMZKAONaawaIqTzUKrVT13UeX/h+0rc/zdhDa7M1e3jxLNIgORhZRHEdrzKgw/5cwRjtbAEewS7v3yS7LZSCX9pxHjJWinex3215VAkmntufAlIi1SPm97Py6VW+lhmMagvZVI0Q+ev7Y7O6d6YQdXyA6nHeXA0jXNGYkXXpme6GkM9bviavyHUCCRA/LSFL3YeANRm+BpqPBS8K8XhFmpXgmnW2DVT9s4=;OicSgIpevE9J1Ye9mUUm6A=="
+secured: "88rDn3IhVYMWYAi3n42xlZig5wMhSD9ryaxu7BM3KWjSXvj5Us4mZeIP+ZNByhp1PTsmyYdkQyUE+XKbqKMUfgssrd7ZDYgkvL34sG4BsJmjjz8QRtEWSiy5NwBWBMJ1P7Z2fzwtseop9qSAiIaDMusvOufjohDlGrwxPnL5MlOhS5PvQcRin+uaUC560wbvcvnWCaXAq2xOdf6lzSDa6cGniHpNV54f8iZfPLapeGrxTdNbdFo92hGU1fm6Khm1HnNijcyhtZT3OrMcfU4HaJdHYY8r8uOc7Goi9pa7IKgn0cTY8IcCz93gmt9CnE8EpZETpUGHKhBsykJLOEQv3uehodtNwquFcAvRa65KzX4=;26sBxuZW4QmQsIPIHQ45eA=="
 ---
 

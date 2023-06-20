@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offer
 webUrl: "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offers-only-vague-solutions"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: PC Magazine
@@ -28,35 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "When AI Overrules the Nurses Caring for You"
-    excerpt: "Artificial intelligence raises difficult questions about who makes the call in a health crisis: the human or the machine?"
-    publishedDateTime: 2023-06-15T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe"
+  - title: "Artificial intelligence is the new frontier... in election misinformation"
+    excerpt: "The RNC admitted the ad was built entirely of images created using artificial intelligence. Along with fake reports of what sound like news reporters. The RNC included a small watermark in the corner of the video disclosing it was “built entirely with AI imagery."
+    publishedDateTime: 2023-06-19T21:53:00Z
+    webUrl: "https://www.wusa9.com/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
+    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
+    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: WUSA
+      domain: wusa9.com
+    quality: 56
     images:
-      - url: "https://images.wsj.net/im-799675/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Miyares leads coalition on recommendations for artificial intelligence governance"
-    excerpt: "() - A bipartisan coalition of 23 attorneys general, co-led by Virginia Attorney General Jason Miyares, submitted a letter advising the National Telecommunications and Information Administration on go"
-    publishedDateTime: 2023-06-15T20:52:00Z
-    webUrl: "https://www.thecentersquare.com/issues/healthcare/article_8670e74e-0bbe-11ee-afe5-5fe03db4ca35.html"
-    ampWebUrl: "https://www.thecentersquare.com/issues/healthcare/article_8670e74e-0bbe-11ee-afe5-5fe03db4ca35.amp.html"
-    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/issues/healthcare/article_8670e74e-0bbe-11ee-afe5-5fe03db4ca35.amp.html"
-    type: article
-    provider:
-      name: The Center Square
-      domain: thecentersquare.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/2/7e/27e5ba8c-0b79-11ee-99a4-8720452f4ce8/648b05d01c113.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://media.wusa9.com/assets/WUSA/images/efdc0fb5-71c0-4533-bafa-96e8338baeab/efdc0fb5-71c0-4533-bafa-96e8338baeab_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Elon Musk surprised by support for AI pause, calls for strong regulation"
     excerpt: "Aidan Gomez, CEO of Cohere, a $2 billion AI startup, expressed skepticism about the feasibility of implementing the pause, stating that debating the extinction of humanity due to superintelligent AI. was an inefficient use of time and resources."

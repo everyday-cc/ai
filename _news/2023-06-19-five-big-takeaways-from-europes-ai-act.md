@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeawa
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MIT Technology Review
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Europe votes to regulate AI and ban use of live facial recognition"
+    excerpt: "Tech giant Google has urged the EU to coordinate its regulatory approach on AI with the United States, with CEO Sundar Pichai calling their alignment “critical”. And MEPs are set to work with their US Congressional counterparts to develop a short-term code of conduct to cover the period until 2025 when the Act comes into force."
+    publishedDateTime: 2023-06-15T10:39:00Z
+    webUrl: "https://inews.co.uk/news/world/europe-votes-regulate-ai-facial-recognition-2413187?ito=social_ifb_theipaper"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 54
+    images:
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/06/SEI_158377846.jpg?w=1200&h=675&crop=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "France’s Bid to Become Europe’s AI Hub: A Potential Challenge for the U.S"
     excerpt: "In a bold move to solidify its position on the global artificial intelligence (AI) map, France is strategically gearing up to become Europe's principal hub for AI. This development is not only set to challenge European nations but also aims to redefine the established hierarchy of global tech giants,"
     publishedDateTime: 2023-06-19T13:06:00Z

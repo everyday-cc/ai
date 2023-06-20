@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trend Micro brings generative AI to Vision One cybersecurity platform"
-    excerpt: "Trend Micro's new generative AI-driven Vision One platform brings together cybersecurity capabilities including XDR and zero trust."
-    publishedDateTime: 2023-06-15T09:00:00Z
-    webUrl: "https://venturebeat.com/ai/trend-micro-brings-generative-ai-to-vision-one-cybersecurity-platform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/3-Moving-from-zero-trust-to-zero-trust-network-access-2.0.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "Cloud security leader Zscaler bets on generative AI as future of zero trust"
     excerpt: "Zscaler made new product and service announcements this week reflecting an aggressive growth strategy and intent to monetize generative AI."
     publishedDateTime: 2023-06-19T19:22:00Z
@@ -83,15 +69,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
-  - title: "AMD unveils new chip as generative AI accelerator"
-    excerpt: "The MI300X is based on the next-gen AMD CDNA 3 accelerator architecture and supports up to 192 GB of HBM3 memory to provide the compute and memory efficiency needed for large language model training and inference for generative AI workloads,"
-    publishedDateTime: 2023-06-15T11:40:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4087236.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
   - title: "Generative AI is disrupting its own investment case"
     excerpt: "The very pace of transformative technology makes it tougher for start-ups — and for existing investment portfolios"
     publishedDateTime: 2023-06-15T12:32:00Z

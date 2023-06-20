@@ -52,6 +52,15 @@ related:
         width: 425
         height: 283
         isCached: true
+  - title: "Consumers choose safety over self-driving technology"
+    excerpt: "Car buyers understand and want advanced driver assistance systems (ADAS) features that provide safer driving – and they expect them to be standard in new luxury and mainstream vehicles. But the same feelings do not apply when ADAS is applied to autonomous driving systems."
+    publishedDateTime: 2023-06-19T09:19:00Z
+    webUrl: "https://it-online.co.za/2023/06/19/consumers-choose-safety-over-self-driving-technology/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
 
 secured: "mpojNKiqErmL0OGLuTHFP0bSCPzy51dfBUV+aseBAbIsN+VOlRSWD+kEYFOOedhazRStxpE/er3OoVIZcXSLsf9bQl9QhZPkmb75BLEeSl6T0kj8KrKy75jkevIDitGQJDrfv8WxznDRG/Rg3KSa2BnNfGkogiyT7z5BeOu9dRn4IklfPewXmLX8ofmx6o5ghSHSKRQM1ina7iJ8NDBnqi4cGXVS6kO3pFQWNKXXKMFuca6/eA13czXEwLWQooxL38ZhBJwm3FWO9+ShtgohK53kgoAM/iiYWlCz+aZatsOoS5Fe0lziN2XppixnHwzlY7voOK9CkzE+GPXzueBG4Z2WgIgMxIfoK3/wh/ENFuY=;O0QRiFPUNuJ4TVrWTxOftA=="
 ---

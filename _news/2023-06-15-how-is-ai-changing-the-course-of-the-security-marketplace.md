@@ -36,22 +36,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "Artificial intelligence is the new frontier... in election misinformation"
-    excerpt: "The RNC admitted the ad was built entirely of images created using artificial intelligence. Along with fake reports of what sound like news reporters. The RNC included a small watermark in the corner of the video disclosing it was “built entirely with AI imagery."
-    publishedDateTime: 2023-06-19T21:53:00Z
-    webUrl: "https://www.wusa9.com/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    type: article
-    provider:
-      name: WUSA
-      domain: wusa9.com
-    quality: 56
-    images:
-      - url: "https://media.wusa9.com/assets/WUSA/images/efdc0fb5-71c0-4533-bafa-96e8338baeab/efdc0fb5-71c0-4533-bafa-96e8338baeab_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "The risk of extinction from the AI robots"
     excerpt: "Haven’t done the AI thing. Haven’t got the ChatGPT app, apparently the most popular in history. Because now we’re supposed to let the whole evil network of artificial intelligence around the world listen in?"
     publishedDateTime: 2023-06-17T13:00:00Z

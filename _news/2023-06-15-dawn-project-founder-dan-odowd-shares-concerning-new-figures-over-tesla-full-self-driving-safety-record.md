@@ -27,45 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Rival XPeng Rolls Out Self-Driving Tech in Beijing. The Stock Is Rising."
-    excerpt: "It’s the first company to roll out an advanced driver-assistance system (ADAS) in Beijing, after it was approved for use on major ring roads and expressways in the capital city."
-    publishedDateTime: 2023-06-15T08:59:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
+  - title: "The Dawn Project and major Tesla investor to test Tesla Full Self-Driving in Santa Barbara on 22 June"
+    excerpt: "Public safety advocacy group The Dawn Project has announced an event in collaboration with renowned Tesla investor Ross Gerber, President and CEO of Gerber Kawasaki Wealth"
+    publishedDateTime: 2023-06-16T20:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32900377/the-dawn-project-and-major-tesla-investor-to-test-tesla-full-self-driving-in-santa-barbara-on-22-j"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32900377"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32900377"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 55
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://images.barrons.com/im-417792/social"
-        width: 1280
-        height: 640
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Xpeng expands self-driving capability to Beijing, eyes wider expansion"
-    excerpt: "Chinese electric vehicle maker Xpeng Inc on Thursday expanded its self-driving capability to Beijing as part of the automaker's expanded launch of City NGP (Navigation Guided Pilot) across the mainland."
-    publishedDateTime: 2023-06-16T09:07:00Z
-    webUrl: "https://www.carsifu.my/news/xpeng-expands-self-driving-capability-to-beijing-eyes-wider-expansion"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 24
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/06/Xpeng-ADAS-2-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Consumers choose safety over self-driving technology"
-    excerpt: "Car buyers understand and want advanced driver assistance systems (ADAS) features that provide safer driving – and they expect them to be standard in new luxury and mainstream vehicles. But the same feelings do not apply when ADAS is applied to autonomous driving systems."
-    publishedDateTime: 2023-06-19T09:19:00Z
-    webUrl: "https://it-online.co.za/2023/06/19/consumers-choose-safety-over-self-driving-technology/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
 
 secured: "H5B7R7bVvg0yk3izjhj5U8pt9WT8a6/UbjEhTc3FP8Z+GWY/BE148wnK4GW6ME3RwQwdiVEBrrpt/UElYuIcUSorvRSoUyJr/xFcxV5SdeA0OvyqoIBijajtK8nFTMtJsNBQ2EfGTSVDjE+jW9V+VlLlAxbMXHn2uTeuVXnOKR/UEBjDPNErQImJPtgnJJv1NPx0TPZSPb2uWHDPwX6hLszX3ngHGbURRhLldcUI2XqfdKzbJTRaj6e0q34xeN+sNSGMIS3MEggilCbybwrAtUfG0Won4psn7PPQ76Hgcg2Y4Qg4FtECb/lR/vC0IjAvkKSnPHJWWhPo5qkMrY1ahxINtvCOhPtEa7SO9P1zY3Q=;+1Pdy6tZfGpWX1Ug1YSIsg=="
 ---

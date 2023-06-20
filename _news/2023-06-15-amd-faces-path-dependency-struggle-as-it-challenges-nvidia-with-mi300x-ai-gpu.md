@@ -25,20 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "Morgan Stanley says Nvidia is the top pick for artificial intelligence over AMD"
-    excerpt: "Nvidia is the way to go to capitalize on the artificial intelligence boom, according to Morgan Stanley. Analyst Joseph Moore switched his top pick to Nvidia from Advanced Micro Devices, and hiked his price target,"
-    publishedDateTime: 2023-06-16T09:03:00Z
-    webUrl: "https://www.cnbc.com/2023/06/16/morgan-stanley-says-nvidia-is-the-top-pick-for-ai-over-amd.html"
+  - title: "AMD Hops On The Generative AI Bandwagon With Instinct MI300X"
+    excerpt: "The big AI news at the AMD Data Center & AI Technology Event was the introduction of a new variant of its Instinct MI300 designed to support generative AI models."
+    publishedDateTime: 2023-06-20T01:11:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107249321-1685630435513-gettyimages-1494623399-0j5a0211_n4plkmvu.jpeg?v=1686913396&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6490f58d3117088bf13b363e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 706
         isCached: true
+  - title: "AMD's new Instinct MI300X for AI will consume a lot of power, like 750W"
+    excerpt: "It's starting to look like we're getting pretty close to seeing a new GPU draw 1KW of power as standard, with AMD's new Instinct MI300X rated at 750W."
+    publishedDateTime: 2023-06-16T04:32:00Z
+    webUrl: "https://www.tweaktown.com/news/91924/amds-new-instinct-mi300x-for-ai-will-consume-lot-of-power-like-750w/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91924_01_amds-new-instinct-mi300x-for-ai-will-consume-lot-of-power-like-750w_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
+  - title: "AMD unveils new chip as generative AI accelerator"
+    excerpt: "The MI300X is based on the next-gen AMD CDNA 3 accelerator architecture and supports up to 192 GB of HBM3 memory to provide the compute and memory efficiency needed for large language model training and inference for generative AI workloads,"
+    publishedDateTime: 2023-06-15T11:40:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20230615/4087236.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
+  - title: "AMD Instinct MI300X Datacenter GPU gets 750W TBP"
+    excerpt: "AMD recently presented its latest technological advancement, the Instinct MI300X GPU, at the Data Center and AI Technology Premiere event on June 15th. In the keynote address, specific information"
+    publishedDateTime: 2023-06-16T06:17:00Z
+    webUrl: "https://www.guru3d.com/news-story/amd-instinct-mi300x-datacenter-gpu-gets-750w-tbp.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
 
 secured: "ncEVdhTfoltQ5vI5OHH/jaOKD9luUf66G2J7M5MuhlYxYHnDx9CjimbaR1adS85QPwDRTx7zpOgyo6cg/QU0N7jcCmkLTT5al4AGxO4qMK0JctQ59nLVbGfxsITTRu0C5/gyNiKJ3hMaaKJKvK9OjKgcLoC885GzID8TBFFdyvITCVPyeZDNuSnAP3bNcvpULSZ+smXO8VBs5853gXU7TrON90QeodrM9Mov/qycjBRIE+tSwPJlMNgLb/7UeMdo6owHmPeklYXn2MB9J0M/ZsIUZ/XKuWEBARmfSvWl2L5cBQsoxkw7afxpRvgziZjjCUBQ0RCOFiNaw3jbqxxAY+eMWyGodhcq9ADBI9oUZxI=;kMZrz5gt2urwvLZj3eqaQw=="
 ---

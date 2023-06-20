@@ -53,6 +53,15 @@ related:
       name: Idaho Statesman
       domain: idahostatesman.com
     quality: 18
+  - title: "Consumers choose safety over self-driving technology"
+    excerpt: "Car buyers understand and want advanced driver assistance systems (ADAS) features that provide safer driving – and they expect them to be standard in new luxury and mainstream vehicles. But the same feelings do not apply when ADAS is applied to autonomous driving systems."
+    publishedDateTime: 2023-06-19T09:19:00Z
+    webUrl: "https://it-online.co.za/2023/06/19/consumers-choose-safety-over-self-driving-technology/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
 
 secured: "DTljlPC7EaaMJDcLkq+L5dOWFjnkM7mcKcZaiyG1byvzAT/navL6dTOHUMJsiD6iAHTu500utg4yLbZLia6I4NAdb1QTkymtKp13v3Z3sVOsW+PDVv8/fF1Idye0r/lnzomKnYqdogRatyENkWkyEPecMtEqkqc2mCIIDhi8DdZZGZIiEHgQDYPPz/qB7lhSFebGz/KKjQceZ2XAHw4WvPkKrzBr2IDq8KBNn1XtW+5mqSEA+xEdBeRh/FbXdT72jF2zUlgN2HoTb3QngpdIAcJT6tTEIZtvTX4DpLF+JkkExFQlqhjqaODhGK1B2kQC9snYy77b17xYnlD0fMQnlSkKh5bvHYwwGaXkC0E3pbCSOmA78N9mo3UHjfXUHqxjIzCduT76JQXFu7B7l9FR+InYv4u5VLUde2cZn8ZWsz7Y865PSqTfukqQQoR0JXav2TgQparg8PUyn/VWwX9LKFvidCY/K5eSAzExoNXTGRR6B3PTn+5kgYrYnHIv/S/Ks7pXV2e/Dj1iKT6CP/a+vQ==;jAkRNdUyRRBRYkHIKLKPXg=="
 ---

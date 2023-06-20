@@ -19,51 +19,46 @@ topics:
   - AI
 
 related:
-  - title: "Tesla Rival XPeng Rolls Out Self-Driving Tech in Beijing. The Stock Is Rising."
-    excerpt: "It’s the first company to roll out an advanced driver-assistance system (ADAS) in Beijing, after it was approved for use on major ring roads and expressways in the capital city."
-    publishedDateTime: 2023-06-15T08:59:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc"
+  - title: "Driving Diabetes Away: Can Self-Driving Car Technology Deliver Insulin?"
+    excerpt: "Reinforcement learning outperforms commercial blood glucose controllers, revolutionizing blood glucose control for individuals with type 1 diabetes."
+    publishedDateTime: 2023-06-17T10:23:00Z
+    webUrl: "https://www.medindia.net/news/healthwatch/driving-diabetes-away-can-self-driving-car-technology-deliver-insulin-212298-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/healthwatch/driving-diabetes-away-can-self-driving-car-technology-deliver-insulin-212298-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthwatch/driving-diabetes-away-can-self-driving-car-technology-deliver-insulin-212298-1.htm"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 55
+      name: Medindia
+      domain: medindia.net
+    quality: 44
     images:
-      - url: "https://images.barrons.com/im-417792/social"
-        width: 1280
-        height: 640
+      - url: "https://www.medindia.net/images/common/news/950_400/diabetes-with-self-driving-car-technology.jpg"
+        width: 735
+        height: 600
         isCached: true
-  - title: "Dawn Project Founder Dan O'Dowd shares concerning new figures over Tesla Full Self-Driving safety record"
-    excerpt: "It was recently revealed that Tesla's Full Self-Driving and Autopilot software has been involved in 736 crashes since 2019, according to analysis of National Highway"
-    publishedDateTime: 2023-06-15T10:41:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32869904/dawn-project-founder-dan-odowd-shares-concerning-new-figures-over-tesla-full-self-driving-safety-r"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32869904"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32869904"
+  - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
+    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
+    publishedDateTime: 2023-06-15T11:44:00Z
+    webUrl: "https://www.idahostatesman.com/news/nation-world/national/article276329166.html"
+    ampWebUrl: "https://amp.idahostatesman.com/news/nation-world/national/article276329166.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/nation-world/national/article276329166.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Xpeng expands self-driving capability to Beijing, eyes wider expansion"
-    excerpt: "Chinese electric vehicle maker Xpeng Inc on Thursday expanded its self-driving capability to Beijing as part of the automaker's expanded launch of City NGP (Navigation Guided Pilot) across the mainland."
-    publishedDateTime: 2023-06-16T09:07:00Z
-    webUrl: "https://www.carsifu.my/news/xpeng-expands-self-driving-capability-to-beijing-eyes-wider-expansion"
+      name: Idaho Statesman
+      domain: idahostatesman.com
+    quality: 18
+  - title: "Machine-learning method used for self-driving cars could improve lives of type-1 diabetes patients"
+    excerpt: "Type 1 diabetes is one of the most prevalent auto-immune conditions in the UK and is characterised by an insufficiency of the hormone insulin, which is responsible for blood glucose regulation. Many factors affect a person’s blood glucose and therefore it can be a challenging and burdensome task to select the correct insulin dose for a given scenario."
+    publishedDateTime: 2023-06-17T09:29:00Z
+    webUrl: "https://robohub.org/machine-learning-method-used-for-self-driving-cars-could-improve-lives-of-type-1-diabetes-patients/"
     type: article
     provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 24
+      name: Robohub
+      domain: robohub.org
+    quality: 12
     images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/06/Xpeng-ADAS-2-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://robohub.org/wp-content/uploads/2023/06/T1D-article-425x283.jpg"
+        width: 425
+        height: 283
         isCached: true
 
 secured: "k/FWe7k6RYSLFc3TwNN3WjuQFCDx1ltiMk0tEUX1KsVYKJv4tRLP71y+HejcvNr+TWVtyMPWJ9jVowW07htB9OzFL/Q20kbUiZz3GOhbzAFzsqmyADa0ZcWog8JtPsa6m6oknxg2QcPEdE0xlgKphU0Poe//Zb+NEYsjpW2tLFoaXvOXU/XVPgxozNh/N82VXuM/JphuD0htzL+d1ZA2yY9t2mQ3MewOIrtHkJWXe9CCcMXtt5Q42Q9Z1If2XzmEOrw3LglHkpZU1GaevNMTtvo+lfSNOsli2TAT1/MTmzEh+7LzQxsTWIMhFmMkiLFrOha0UJcT0xj1R1lxJk4yb9W8rphv1o/yiy5HeBQuW5c=;sSa91kl0Qu/VcaVrxNgqSw=="

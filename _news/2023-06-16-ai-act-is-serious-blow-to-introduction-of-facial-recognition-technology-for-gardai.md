@@ -7,7 +7,7 @@ originalUrl: "https://www.businesspost.ie/tech/ai-act-could-kill-plans-to-introd
 webUrl: "https://www.businesspost.ie/tech/ai-act-could-kill-plans-to-introduce-facial-recognition-technology-for-gardai-irish-council-for-ci/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -25,65 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Draft AI Act Passes, Banning Police Facial Recognition"
-    excerpt: "The European Parliament has passed the first draft of the AI Act, paving the way for a ban on police use of live facial recognition technology in public places."
-    publishedDateTime: 2023-06-15T08:58:00Z
-    webUrl: "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/"
-    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/"
+  - title: "Plans to allow use of facial recognition technology by gardaí will not be included in body-cam law"
+    excerpt: "Plans to allow the use of facial recognition technology (FRT) by gardaí will not be included in a new law to bring in body-worn cameras for Garda members, The Irish Times understands."
+    publishedDateTime: 2023-06-19T14:17:00Z
+    webUrl: "https://www.irishtimes.com/ireland/2023/06/19/plans-to-allow-use-of-facial-recognition-technology-by-gardai-will-not-be-included-in-body-cam-law/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 25
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/648ad1e37f2b8f29459b8891/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue"
-    excerpt: "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ..."
-    publishedDateTime: 2023-06-16T17:58:00Z
-    webUrl: "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/"
-    ampWebUrl: "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 70
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/14/GettyImages-1247531079-scaled.jpg"
+      - url: "https://www.irishtimes.com/resizer/lb-AaDrUbfEkoXuM5XwF9ANERoo=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/WRPC4K2Q2NPIRZWUZN7SSU6K2Q.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Europe votes to regulate AI and ban use of live facial recognition"
-    excerpt: "Tech giant Google has urged the EU to coordinate its regulatory approach on AI with the United States, with CEO Sundar Pichai calling their alignment “critical”. And MEPs are set to work with their US Congressional counterparts to develop a short-term code of conduct to cover the period until 2025 when the Act comes into force."
-    publishedDateTime: 2023-06-15T10:39:00Z
-    webUrl: "https://inews.co.uk/news/world/europe-votes-regulate-ai-facial-recognition-2413187?ito=social_ifb_theipaper"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 54
-    images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/06/SEI_158377846.jpg?w=1200&h=675&crop=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "US state, Ireland curb police use of facial recognition"
-    excerpt: "The push and pull of law enforcement policy governing biometric surveillance has been tugged at hard by privacy advocates."
-    publishedDateTime: 2023-06-19T20:39:00Z
-    webUrl: "https://www.biometricupdate.com/202306/us-state-ireland-curb-police-use-of-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
         isCached: true
 
 secured: "MKrZMdqi5sSsrptEBKhkP93TUMZ5MDfvrWdLDNcrKSm7tZ4XowOemCYGMMmKDd65/gOlPCFjKoVhjoJfkG/9XIivY+EJL4qqvdoZp5Fz9gEYAua93N5bQ5juZbT6jHh8aG6QO2iUS/qe7inpizAxD4Lms7BuVsYOx5cFQbKiukTjLx38HTo9DfASYehDsq0AKgV+UqcucVWnS2cDofKIppKMaqQJ4I3ZboIWl4sGJElazHxtEwUQRQHvYVcBphyLMjv74wXiRbM+6slo6sBfs9l25JSXz10rnBju+SKBllz4YzDxBjTYgqRTsI+RdAGsTbZpgOxD1h8cYpokOFGqSc7Eh+r0CsM4C+L7OxgysVr/kodAwWgAQ5xTABCBknqclobJk9tWnm/LX4OreMvJ0SrJCnfeVHfxZLnnUMtu9VqHQmr2VaClkz5DwQiobaOcWXabea2F/Sl8Hflc4etjnPYGJw7Wnmn2NGcWSDj/derTq4H3fz//xIJ+D0dTKRqfo+VsgkJZ5Iab1na5nfpYLA==;Gz1t5C3iiIAsK/HlP9u1sQ=="

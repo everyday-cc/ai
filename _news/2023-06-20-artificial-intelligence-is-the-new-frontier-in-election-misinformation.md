@@ -26,41 +26,30 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is changing the 2024 election"
-    excerpt: "As the generative artificial intelligence (AI) industry booms, the 2024 election cycle is shaping up to be a watershed moment for the technology’s role in political campaigns. The"
-    publishedDateTime: 2023-06-19T21:50:00Z
-    webUrl: "https://www.myarklamiss.com/news/how-ai-is-changing-the-2024-election/"
-    ampWebUrl: "https://www.myarklamiss.com/news/how-ai-is-changing-the-2024-election/amp/"
-    cdnAmpWebUrl: "https://www-myarklamiss-com.cdn.ampproject.org/c/s/www.myarklamiss.com/news/how-ai-is-changing-the-2024-election/amp/"
+  - title: "Elon Musk Backs AI Regulation, But Offers Only Vague Solutions"
+    excerpt: "I’m in favor of AI regulation because...advanced AI is [a] risk to the public,' he says today. But when pushed for specifics, the Tesla CEO comes up empty."
+    publishedDateTime: 2023-06-16T17:10:00Z
+    webUrl: "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offers-only-vague-solutions"
     type: article
     provider:
-      name: KTVE
-      domain: myarklamiss.com
-    quality: 57
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://www.myarklamiss.com/wp-content/uploads/sites/15/2023/06/twitterAI_061623_getty_AI.jpg?w=1280"
-        width: 1280
-        height: 719
+      - url: "https://i.pcmag.com/imagery/articles/05DAz1A8aNpuSWJBng8gzvN-1.fit_lim.size_1200x630.v1686931162.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "How is AI changing the course of the security marketplace?"
-    excerpt: "According to a report by the U.S. Government Accountability Office (GAO), artificial intelligence (AI) is expected to transform all sectors of society, including national security. The"
-    publishedDateTime: 2023-06-15T13:01:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/ai-changing-security-marketplace-co-227-ga-co-1151-ga-co-1645-ga-co-1756-ga-co-2566-ga-co-2710-ga-co-4022-ga-co-7200-ga-co-9742-ga-co-1554987129-ga-co-1584600779-ga-co-1610540101-ga-co-1622793934-ga-co-1633418524-ga-co-1637761998-ga-off.1686832187.html"
+  - title: "Elon Musk surprised by support for AI pause, calls for strong regulation"
+    excerpt: "Aidan Gomez, CEO of Cohere, a $2 billion AI startup, expressed skepticism about the feasibility of implementing the pause, stating that debating the extinction of humanity due to superintelligent AI. was an inefficient use of time and resources."
+    publishedDateTime: 2023-06-19T10:54:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/19/elon-musk-surprised-support-ai-pause-calls-for-strong-regulation/"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 36
-  - title: "The risk of extinction from the AI robots"
-    excerpt: "Haven’t done the AI thing. Haven’t got the ChatGPT app, apparently the most popular in history. Because now we’re supposed to let the whole evil network of artificial intelligence around the world listen in?"
-    publishedDateTime: 2023-06-17T13:00:00Z
-    webUrl: "https://www.ocregister.com/2023/06/17/the-risk-of-extinction-from-the-ai-robots/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 34
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 46
 
-secured: "0vRxdTt3ETdhWz7La6Fb62tf3nPVedf8QTfYA6BWR3BN3vNy67zFf1YCX7pyIF7sKuI1ZQr0jUGwTneGw3WB1B0ejeaIsu3D7UK8lcPp5XcvTBsZHCGkCa52ewqTba7J7Wwg+qkv1FVTmtc45KWYmoXx+WWx61JyfOM8fQQWb395v7TNDjIWhg+4QKOIZDYdC0g02cedme5D6wEYBInAUcjDtYmCSHJ2ql0TcFGXWtYDyPqsekq4axu/hfquQMzbJJMWK5W1wJarD9V4UlyO0II2I/rTeB7IaZAAeCyepFlbXynuc3dgFqW3WzZrlYpx2h9VwgTa/KxhEJY2GfxgQGYQHe9LExRtRHchleHfNU0=;D+uOSoSH6S63Qa9JcT6SxA=="
+secured: "D75wVRuk3kipEo8Tv1qgK0gMyxFCvA7km2Ji2bHHO2vrTOi1eQ0MYqx7fdxk7qSvxD384lKToL5UBxft1jryMp4fbJXp85/P1evuAu4KrmPei4UUx7qALR99z+2GS9EIdBEmryPE+r13uuiGHrQooZKSTY5vigvDuODSZlCXmP43k5+n6S1rBOjOL55PMLAaX2gvGsJBcRpGHX4R0am6X5wzGUZCCkaZVBDGw9IZVkdH//RsXEaGZhkCC3P7zk3cbeAZRzSu2aWyqfhl6tZs0IGYnoegQTjHIFMgbEoBhGsdPKLRTa80k5KCs6XXMaCBlDzbr7ME2Ggn6DnHVosQKdnXtpjN/euMdg/J1DfchLPVePKcOnyQYMA74ZOW1Y8SahKIJ23o6/RtCTzC9yac/zGzosNib8+M2g9raqWMirIRaMOpb7JPTVGJa74WHL3tBnj/OUt/ZsXn0HVuJZvRGG5Fjlwquzo2i+XErk7Y3vMSnbe5cAZF6ZIj3KHyO4N/thPynuFuOMOxZ7PzL9LqJA==;UJ/elOUubvwiJAXkns11yQ=="
 ---
 

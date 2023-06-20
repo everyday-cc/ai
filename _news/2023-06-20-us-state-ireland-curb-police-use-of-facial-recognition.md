@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202306/us-state-ireland-curb-polic
 webUrl: "https://www.biometricupdate.com/202306/us-state-ireland-curb-police-use-of-facial-recognition"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,68 +23,6 @@ images:
     width: 2048
     height: 1152
     isCached: true
-
-related:
-  - title: "Draft AI Act Passes, Banning Police Facial Recognition"
-    excerpt: "The European Parliament has passed the first draft of the AI Act, paving the way for a ban on police use of live facial recognition technology in public places."
-    publishedDateTime: 2023-06-15T08:58:00Z
-    webUrl: "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/"
-    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/648ad1e37f2b8f29459b8891/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue"
-    excerpt: "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ..."
-    publishedDateTime: 2023-06-16T17:58:00Z
-    webUrl: "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/"
-    ampWebUrl: "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 70
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/14/GettyImages-1247531079-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Europe votes to regulate AI and ban use of live facial recognition"
-    excerpt: "Tech giant Google has urged the EU to coordinate its regulatory approach on AI with the United States, with CEO Sundar Pichai calling their alignment “critical”. And MEPs are set to work with their US Congressional counterparts to develop a short-term code of conduct to cover the period until 2025 when the Act comes into force."
-    publishedDateTime: 2023-06-15T10:39:00Z
-    webUrl: "https://inews.co.uk/news/world/europe-votes-regulate-ai-facial-recognition-2413187?ito=social_ifb_theipaper"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 54
-    images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/06/SEI_158377846.jpg?w=1200&h=675&crop=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI Act is ‘serious blow’ to introduction of facial recognition technology for gardaí"
-    excerpt: "Plans to introduce facial recognition technology (FRT) for use by the gardaí could be dead in the water with the passing of a vote in the European Parliament of the landmark AI Act, according to the Irish Council for Civil Liberties (ICCL)."
-    publishedDateTime: 2023-06-15T21:10:00Z
-    webUrl: "https://www.businesspost.ie/tech/ai-act-could-kill-plans-to-introduce-facial-recognition-technology-for-gardai-irish-council-for-ci/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 47
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=8b42d352-372e-9c24-247f-df37100b66df&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8506&x=0&y=0&width=3416&height=1922"
-        width: 3000
-        height: 1687
-        isCached: true
 
 secured: "H0wh/GtHwlaT4sbYILKBhCUhlFiQnRzeKQypAoMbRYs8cQ5sKRl1qXGK8U1VWmHiGZnG3Aalrc36T6Dx1AnhgKIk2x4sd7GrqcTU40yUl3ZIBAkfmys6K33rRngUX0EhOYW9m4maHFafgTLqGRlIl5FGKGEiGko8y5O30aNKRWsRbqHcBfHoDTnrKpH21cGr4gBVQydCK0VAw2vdE2+LV5vSQMne/KPTtXxH8k3oRCobTSwQrwloMAWkFrXL/G6KzSiGCW1gZ5J1L0564fn9xSFpRXs28Ffx07J86PYvx2rmoxIiWhkqoGlqIE9m87M7No4IZL1v7hPj0w+aw0xbKZF7rFydMAyJ+1x1KhGEr76LEr+lzWb6wO5WVwipDABOpYJVpoDvaWdaDQoyQOShdy+vXETM0sn6Z/CfcQXZn6MeSatuSJ4ivIDQzwhp+VGbTcPDFEbdTnuW9meGvEPLyQpA6zsq2vZhF0YxKOdGI3tZ+C95EVTxzdcJcFR55AWjYfyBWDmU6dLZqoOneQ+XKA==;pGt5bjBHR2JN2BB2tiqTSw=="
 ---

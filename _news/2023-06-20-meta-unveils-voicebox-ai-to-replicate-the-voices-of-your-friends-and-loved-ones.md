@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03NM2PpZqwZLg4BMzrhErAj-1.fit_lim.size_1200x630.v1687019297.png"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Meta's Voicebox AI Mimics Voices of People, Versatile Speech Generator for Audio Editing"
+    excerpt: "The latest development from Meta delivers the Voicebox AI which it claims to help generate audio from text or speeches, as well as act as an audio editing tool for all needs. Meta boasts it to be the most \"versatile\" speech generation tool in the industry,"
+    publishedDateTime: 2023-06-20T01:00:00Z
+    webUrl: "https://www.techtimes.com/articles/292788/20230619/metas-voicebox-ai-mimics-voices-people-versatile-speech-generator-audio.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/292788/20230619/metas-voicebox-ai-mimics-voices-people-versatile-speech-generator-audio.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292788/20230619/metas-voicebox-ai-mimics-voices-people-versatile-speech-generator-audio.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 52
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429932/meta-voicebox-ai.png"
+        width: 1500
+        height: 843
         isCached: true
   - title: "Meta announces Voicebox, a generative model for multiple voice synthesis tasks"
     excerpt: "One of the interesting applications of Voicebox is voice sampling. The model can generate various speech samples from a single text sequence."
