@@ -33,6 +33,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "How Edge AI Is Fueling Industry 4.0 Outcomes"
+    excerpt: "To close the gap between today's technology and Industry 4.0, manufacturers must consider new approaches to interoperability that allow for ML-enabled insights at scale."
+    publishedDateTime: 2023-06-20T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-edge-ai-is-fueling-industry-40-outcomes/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "tEzv6ZdID0e6+kZRD1H5aIpPxiE+DW123/RYkZQIbLUh8igCQXIiuqvhEBJS2unXM1blawXwY498Ty/rmoV8N8sOHf22V6zk8v4sk4JlHuIFF/OFwVuF2lkFVsv1ydRHnvvZnV5k2ZQTEPaj1FG0Yzwy/4vAtcjsjyeiKkSCcVpyJ2fYT71G0HxZyjwtWXjEdPdSLR1P8/fUcpm09flfucFvN8cYCKg9Z4yNDtLKSPfSvpLowbvANL/4XrTms7HWfRoPS2xVlSsvkUqrEKX1IZ55gUVP/BW4TYZGmU06tcRoQju0SbPN1zxkZFJ+XitKlPubZeLYPBhwVn5nyBJaogzT1rbJmJL9YuBl9knJ3hjrZJiC8oydIKcAe7Rq69Eb1g3GwaC7M8tq6DRV/9dzIpk1gzwaZNSnNGgXzRfr3QbqZvyr+Ln6xKn/fLVERCA3q9TLeTVJ//IENdAuLGkyflUJmhOqTPGBNkelMUofJpwXHRNNFcpqb1Q5msb/yhBoopqNMo8BrnJCrylpdYgCdQ==;ZQ7RSnF7+NMFXjd8wLFaqg=="
 ---

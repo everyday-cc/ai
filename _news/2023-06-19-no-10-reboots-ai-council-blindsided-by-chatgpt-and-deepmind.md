@@ -41,31 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This free AI tool can write your cover letters, and its easier to use than ChatGPT"
-    excerpt: "When looking for a job, you're likely applying to several positions at a time -- each requiring a uniquely hand-crafted application. Cover Letter Copilot has you covered."
-    publishedDateTime: 2023-06-15T20:19:00Z
-    webUrl: "https://www.zdnet.com/article/this-free-ai-tool-can-write-your-cover-letters-and-its-easier-to-use-than-chatgpt/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-free-ai-tool-can-write-your-cover-letters-and-its-easier-to-use-than-chatgpt/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-free-ai-tool-can-write-your-cover-letters-and-its-easier-to-use-than-chatgpt/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/024587305aa77c8b0a1bec41d14b5f806488f709/2023/06/15/e1a389e8-135b-4821-8082-95bf9a2a6606/gettyimages-1160331590-1.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "This ChatGPT-powered AI tool can help you haggle to save money on bills"
-    excerpt: "This new ChatGPT-powered AI tool can negotiate your bills for you by writing a letter that you can send to a landlord or credit card company."
-    publishedDateTime: 2023-06-15T19:42:00Z
-    webUrl: "https://bgr.com/tech/this-chatgpt-powered-ai-tool-can-help-you-haggle-to-save-money-on-bills/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
 
 secured: "kLysS/OsElUMiM6vU9/ThjuVzhIizbYHkbyOux4g43TcoIzzx/gsYBxujyzqSu2INwglCogEnqeea2SroFKcHlwgKF49hJUvQzu+9k9FH69bWv0hgUHO6orrE6EDYG+/r6yhbUitFlUBdZqab0QEmYw7HA64r55QHfkEdv5dRrv+53jVcpq9wEqj3KqBvG5OwK0u63GALsLCd3CWqnrR3IoXsqDScUDSQWvUHilhHRkcAO3BkT5JAJxnwu7A0IhExb7zWNH36Qs6G6lIM5C1f0U1yspx3wp9VG/PBy+36KRL9yI5AfdQwZN6thEk/NscpZyoPLr7uhhT1QwOui5PBPRj2yzkdVnr3O8SnOUneWqwbxBAC9VT0BcMsQ4IvbywBPUf8IDry4Gr+jWoXkPSjr8sysC4Lq5ZfqUFvQnE90FB8Jx87Neb0cObw50JN9mEeRh8aC1ESTJf1i+LnJ5Y4Ug8QwYCs7nEaVE+IKBPR5OKwGuVFUL9Ks2FzsQQba+/p/DBtlQDDq8m888lBN4MVg==;w32Nz5Uh8IJVUwEkw/MyMA=="
 ---

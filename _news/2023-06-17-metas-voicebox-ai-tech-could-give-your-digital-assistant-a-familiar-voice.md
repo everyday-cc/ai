@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta Announces Voicebox Generative AI Model, Touting Accessibility Implications"
+    excerpt: "In a blog post published last week, Facebook parent company Meta announced Voicebox ... post that Voicebox represents “an important step forward in our generative AI research,” one can’t help but be tantalized by the accessibility-related ..."
+    publishedDateTime: 2023-06-20T15:43:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/"
+    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6490e4efd2fae043769b888b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta unveils Voicebox AI to replicate the voices of your friends and loved ones"
     excerpt: "The technology breakthrough was announced via a published paper. Though it's not widely available, you can listen to demos."
     publishedDateTime: 2023-06-19T20:50:00Z
@@ -88,6 +104,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Yellow.ai launches generative AI-powered ChatBots and VoiceBots solution for customer and employee experience automation on SAP® Store"
+    excerpt: "By integrating with five SAP solutions, enterprises can now leverage Yellow.ai's Dynamic Automation Platform to deliver autonomous, human-like"
+    publishedDateTime: 2023-06-20T13:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-launches-generative-ai-powered-chatbots-and-voicebots-solution-for-customer-and-employee-experience-automation-on-sap-store-1032398986"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
 
 secured: "SfW6ja2darWCtV4O8fRJXqMguCEuwj2OrbUp29aE3eX8fpBhy9SJKBGS6iFGC5kf5/jFsjLLJk/mo8gyFtgCOqGNPy2tSSU4Z/U9lviAsblXEMUzKQoUrx1Rg75z8qr1W6kWmAU/sM3Nj3uvwdbcty2adquzTo5m+bvFCRyBGBREcXf/8Eux3QPlRVDy1/7iWKhCMzBT7hVveKXMgIa4a/2rsG4bXqPm34bxWQXMmM4DdMmZcMSTx45s3qa+1IHTSaJmzoZ3Dumql2Av5Tz/Vr/KoEeBzYxDwfMdmt+FHkTxfjxaNUq2Ipw7zggJoaANWmXeWoFGf7FZxgAeniQQVdMfS48QRfmV7zPPZkIg3DqzN2ynNXKxz08O+PrB7UdjuU8aY1n9qfvLS6ydPXOPoS25EzlWep3TnyrSj9+xuEC2OJtorUy4kX/pZJCfoLQuuz+03F8TL61vJNfkCfttOgryMY/vpxY5TYUc2sFEvmldsaFjCYygVfuoxWKYZJ3noGvkcYjRdpSFvPw0mJZREw==;4wF2k1u1vsmICqiv/lWyiA=="
 ---

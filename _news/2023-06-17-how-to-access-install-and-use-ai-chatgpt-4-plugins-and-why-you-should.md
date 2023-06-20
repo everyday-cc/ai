@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-access-install-and-u
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/"
 type: article
 quality: 86
-heat: 116
+heat: 96
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "This free AI tool can write your cover letters, and its easier to use than ChatGPT"
-    excerpt: "When looking for a job, you're likely applying to several positions at a time -- each requiring a uniquely hand-crafted application. Cover Letter Copilot has you covered."
-    publishedDateTime: 2023-06-15T20:19:00Z
-    webUrl: "https://www.zdnet.com/article/this-free-ai-tool-can-write-your-cover-letters-and-its-easier-to-use-than-chatgpt/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-free-ai-tool-can-write-your-cover-letters-and-its-easier-to-use-than-chatgpt/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-free-ai-tool-can-write-your-cover-letters-and-its-easier-to-use-than-chatgpt/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/024587305aa77c8b0a1bec41d14b5f806488f709/2023/06/15/e1a389e8-135b-4821-8082-95bf9a2a6606/gettyimages-1160331590-1.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "No 10 reboots AI Council blindsided by ChatGPT and DeepMind"
     excerpt: "Downing Street is overhauling its advisers on artificial intelligence (AI) amid criticism that they were caught out by the advances in large language models suc"
     publishedDateTime: 2023-06-18T23:01:00Z
@@ -60,15 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This ChatGPT-powered AI tool can help you haggle to save money on bills"
-    excerpt: "This new ChatGPT-powered AI tool can negotiate your bills for you by writing a letter that you can send to a landlord or credit card company."
-    publishedDateTime: 2023-06-15T19:42:00Z
-    webUrl: "https://bgr.com/tech/this-chatgpt-powered-ai-tool-can-help-you-haggle-to-save-money-on-bills/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
 
 secured: "fSYBIBUSU4PTvKfo8+e+2/wjE2OrK7SW6diqcqwU+e5/wTHgbVADQ1hBxLSham8AuqMflXQqGUE62CVjBAuzF10No4x1uSeJkx7Up88bNkOKvcDUietBZFA9eBHiRdDrJDanxTA9Gu67Wq7hmHpYJIoXzD4jX2V6C4VcVOOi0iYKMtaTLbPbcOWK1pb1NjC1uan47myWLbuANJXR0GMNIV4+xEFH8Ilqb7ZvxO0RBYoomdBmJ2sk0DPiJMaBRs9rc9w35eh7tBHLt0timXNcWSxR8JcqN3FdcN29kYNlavF9sMQFsVT0Wjzik8wAT/lDP1ADgaRMJ9LZq/DFMJi8zJV1leLv3E0T3BaqzQ6//8WWMVqW4w5iBPfupiNH8P1QxJjBA8cSG0NHe09EBag6C8BgaKePmkUJul3LkA0QPcaNzcLOJcHyHWPuJ/qIfTaG8hQ9S57hn0mRJ9yZpUbtePwfH5nac+HA0Vj2tltRSO8AYRVJ45U5Y7pJwCNZ8ECYW0m3f7anAaocNvfCqic64g==;QhIy8n4zVYE7CLg+9/7pJg=="
 ---

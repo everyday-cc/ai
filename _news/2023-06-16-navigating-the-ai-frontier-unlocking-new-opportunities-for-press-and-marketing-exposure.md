@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/naviga
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/navigating-the-ai-frontier-unlocking-new-opportunities-for-press-and-marketing-exposure/amp/"
 type: article
 quality: 95
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Generative AI is 'the next productivity frontier', report says"
+    excerpt: "Generative AI is poised to unleash the next wave of productivity, according to a new report stating that it could add the equivalent of $2.6 trillion to $4.4 trillion annually across 63 use cases."
+    publishedDateTime: 2023-06-20T12:20:00Z
+    webUrl: "https://www.ibtimes.co.uk/generative-ai-next-productivity-frontier-report-says-1716910"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 19
 
 secured: "kTPf3Wqx61N2mkeFOwK9lsmelpuGoGd5q4i+PF7gY5rcVei0pzBJpm6UUxSvAHAMv0P+C4q+sUH14ek1rsxdN5lqCc9STK2D3xL5Rn9MT3uSyrgvsBTBlL1m5h7utBfYAvCLHbr+3dJIa0phSAkfI7Dua915W2ugxZh2BfET9U2rbtHz/fyYxes2jAuZkraD4jpFhr+ARsQ6XfUPGdU8ojOAuPztT93WM9m/rMlLqsIp8dHrDpsdE3eZiNyTeoTtIceMp91S9pMyGkkdxGULf+n4SvWjj+SCv1o+XAo2YfNp4BcbBZx47wy5Qoi4lqmiAoaqaap7MmkhguZaXd7Wm7ok0MYaxFBinnm62Kg56hg=;2Fkn0L3B5wQ0HK8f+I6xuQ=="
 ---

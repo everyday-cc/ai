@@ -22,6 +22,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "BBVA uses AI and analytics services from AWS"
+    excerpt: "BBVA invests in Amazon Web Services cloud platforms to help transform itself into an organisation driven by AI and data."
+    publishedDateTime: 2023-06-16T07:59:00Z
+    webUrl: "https://www.computerweekly.com/news/366541809/BBVA-uses-AI-and-analytics-services-from-AWS"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 34
+
 secured: "w9UP5GZvKX6e2QkUvrHdxZB/UXys9SlSxbjd2y17SCFh9BhciVWW1yAZtABoZI2WVgzyAp2a5bjsPHi83HlrXRtweq4KQl6hfaMI+EwgdqlbYYyxeaiO3rq57oLRvxw7C3W8ICb48ENlwMWk+fuGpu8ejy4AeoRX9mLHBa6kxR3DB/S0BnaukivW+VSWOkTyEGWHisay+jhck4fjo/lA68SKhZ9xEP58BEofNiMeYkbYT03RimbnPTlO0EyWHMH+EdtpbnKT2NpZgF1dJpzOTTISXwlCDlLgjmPa+k9sTev30Am5xKukRXWTwE+1iim1K7JiP2J6MHa64+bqXUc1TljYzer2AeoLEX+j0B8/281tRHA7iDTwG+d2AVLEqS2ylabHUi0SvId00tPeypHPoEdeOG9dEKoHFjthVIJ9bGq0h+1NdazCNJetsASP6FBt/oJAqwa5LfClNvvB/PCmFHvv/v93nCngGZx2q597j8G0PpXOXt3cT4bliQKFw+vYAgp2lMIu/vqUGaqX37v5aA==;qUsSPmQX1ggyDKLp7sO/8A=="
 ---
 

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
-excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence"
-publishedDateTime: 2023-06-20T04:18:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/06/20/biden-ai-artificial-intelligence/7656488c-0f4b-11ee-8d22-5f65b2e2f6ad_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/06/20/biden-ai-artificial-intelligence/7656488c-0f4b-11ee-8d22-5f65b2e2f6ad_story.html"
+excerpt: "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,"
+publishedDateTime: 2023-06-20T13:19:00Z
+originalUrl: "https://www.chron.com/business/article/biden-will-host-a-forum-about-artificial-18160448.php"
+webUrl: "https://www.chron.com/business/article/biden-will-host-a-forum-about-artificial-18160448.php"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -34,7 +34,21 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "You Can Watch AI Trump Vs. AI Biden In An Endless, Unhinged Live Debate"
+    excerpt: "The former presidents are powered by advanced artificial intelligence, which is why they're discussing catgirls"
+    publishedDateTime: 2023-06-20T13:55:00Z
+    webUrl: "https://kotaku.com/twitch-biden-donald-trump-ai-artificial-intelligence-1850555581"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 37
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/83171901e6430097427ef734336e8314.png"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "dNpgfdUYB1PRrNNWqaL6eJX8Vdyk6x0z4Gul7KUBTxLLm1bVEQ1CDyrxoYxKPRg0BwqwsfRXvXv4Fl9jlHvAZZ9qGFHdASVBeqiL03h5o5MQQFIThicQ3/6XUSwM5+uXJc5YnK5WOgwOn4h1PKWmCDXBIiGIXxxFlUZPsaLphSqRGswh2PoXaLCkBGFNpom2LZnHk6uwl8owqEVmVQDcnRys4Z1YGwGWblkO9dgMG40IPsJzqW2FOBNkQPTpi6sSTScriiRARs3HnatoBiURHk1chlcGVEl55KT1yBOfNDNpsqundqcnAB0+NQwGJtebgSoLjkgtn25IDScQjEiXbCjWdozwRn5Ziw6cY6bZ6EETi+cvq9liQ9MF2xinb0fC1bCgq1Xv8xIssPCU6fGZujLWYwIcqDnUnyRaVsjQasFhchNe/T87W3mGhgiIyEeHni+5Kz+6zSDfdqzqQ7Wv1DONVKYaUeAReqZ//tnS43hxZdcbprKm7/K8S+G+r5ajHBKVkCYomcrT9AJOVqEZyA==;d9aI7kHzomyv/3VTAJpqzg=="
+secured: "ComuEo74vr4G6jA4BlaE0ww5ti9seEdwdMncrxoQZtAdJUDcBYXwXsmBsWRaA9NKo4Zhjuvwp+Py/uzYnoYzj1IG1yoINi9ZfMyRkbpDC7Xj7G6o05l/HxMzxpCUo3s3JldSLKE/Mrfx0HAysB59SSRVGu7yTXUrbtlBITWZM3ss7l2L/sdLB94W7gADT0UtRfd5CgdNPuJB8Acwd9Aot6lSZaqJHEOzK/UVve+XTAG2ksPkFlm1v9CWnCm6+RSsa2glg1SvuGIxF9mJJNuHTwrwRqhxzBnDq33/E2p7T12Wvhl0waafiWsz0oHIi2eweK/7vB6+ga70GYxcBcj7UAUizQPytBkVrpCF9NgRu4HzpNK7EV4reYof9lIwUSbh3d1oRYJ3L44wohbu4zJOfuxCTLrgk86HvWF50BiN9HtoJD1q1LhqRcEHAgqaZ0g5+l7BI4wQsmf4AMZGy9TecVfvjMqBmmomE7huFGUQnZxLqkISXTsWeGDntuBTZW/usjXKW5IhZHfmJAq35rQlMg==;GWgIwV2FemEcqpTRg3gCjw=="
 ---
 

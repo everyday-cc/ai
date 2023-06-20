@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI vs AI: Next front in phishing wars"
+    excerpt: "Threat intelligence firm Abnormal Software is seeing cybercriminals using generative AI to go phishing; the same technology is part of the defense."
+    publishedDateTime: 2023-06-16T22:36:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-vs-ai-phishing-wars/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr061723-featuredimg-ai-vs-ai-phishing-wars.jpeg"
+        width: 1366
+        height: 910
+        isCached: true
   - title: "Embrace AI: Top 3 Tech Stocks Crushing the Competition"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Generally speaking, tech stocks are crushing the competition in 2023."
     publishedDateTime: 2023-06-19T12:30:00Z

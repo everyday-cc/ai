@@ -41,22 +41,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Europe, US urged to investigate the type of AI that powers systems like ChatGPT"
-    excerpt: "European Union consumer protection groups are urging regulators to investigate the type of artificial intelligence underpinning systems like ChatGPT over risks that leave people vulnerable"
-    publishedDateTime: 2023-06-20T10:37:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/europe-us-urged-investigate-type-ai-powers-systems-100225786"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/europe-us-urged-investigate-type-ai-powers-systems-100225786"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/europe-us-urged-investigate-type-ai-powers-systems-100225786"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 53
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_e05a51e888ee24190f0d17fc41d13895_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "France’s Bid to Become Europe’s AI Hub: A Potential Challenge for the U.S"
     excerpt: "In a bold move to solidify its position on the global artificial intelligence (AI) map, France is strategically gearing up to become Europe's principal hub for AI. This development is not only set to challenge European nations but also aims to redefine the established hierarchy of global tech giants,"
     publishedDateTime: 2023-06-19T13:06:00Z
@@ -66,6 +50,15 @@ related:
       name: unite
       domain: unite.ai
     quality: 18
+  - title: "Europe, US urged to investigate the type of AI that powers systems like ChatGPT"
+    excerpt: "Europe has led the world in efforts to regulate artificial intelligence, which gained urgency with the rise of a new breed of artificial intelligence that gives AI chatbots like ChatGPT the power to generate text,"
+    publishedDateTime: 2023-06-20T15:36:00Z
+    webUrl: "https://www.houstonchronicle.com/news/world/article/europe-us-urged-to-investigate-the-type-of-ai-18160525.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 13
 
 secured: "JIrE3xJPrAbslq+ujseqzZRd05rIeXrR1WE6omMMI9t0n+jlwANtTPvCp/bSpX604E0HZRJ05/ZnIoTUsMlKgU97HoEw7At0J0NIoLYKiwcjEu0BF3wCohQzKzm8f4j7MvsJtO6raQAb7pdBB0rJSaQnf4DSj3ZAL3rKrBurhayBhZqKr1HmTQ2Ync6w0/IB/G0ufN9+hvLiPXOpZf+IT/t4q5xlxElq1fa19n6MU5uVfPCYm6MRvaq17NNJPC+I5tEdJGOZuFlVq90YKhzFcouTZzunSY2ty2vGL+ojt8gPu6+T+UhR5yMrR9PK1kV3eRwG2jAxGvxyfG0sYptk4SROUY51RR/dsnHLIza0mKM=;N+L26OkV9y5zak/vMWhZCg=="
 ---

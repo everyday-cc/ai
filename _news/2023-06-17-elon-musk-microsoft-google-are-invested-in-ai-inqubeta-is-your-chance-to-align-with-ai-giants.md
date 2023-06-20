@@ -94,6 +94,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft outlines broader AI ecosystem for Chinese users"
+    excerpt: "During the company's offline event for its annual developers conference in Beijing, Microsoft presented, for the first time in China, how generative AI can be applied to help facilitate users' day-to-day productivity through its copilot initiative."
+    publishedDateTime: 2023-06-20T15:30:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202306/20/WS6491bab1a310bf8a75d6af47.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202306/20/6491bab1a310bf8a1d22b3e8.jpeg"
+        width: 615
+        height: 410
+        isCached: true
   - title: "A Game-Changer for Microsoft: $10 Billion in Annual AI Revenue Sparks Stock Surge"
     excerpt: "Microsoft’s stock soared to new heights on Thursday following positive endorsements from JPMorgan Chase analysts regarding the company’s prospects in the field of artificial intelligence (AI). Closing at $348."
     publishedDateTime: 2023-06-16T15:21:00Z
@@ -108,15 +122,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Microsoft Nears All-Time Closing High, $2.6 Trillion Value, Amid AI-Powered Rally"
-    excerpt: "Microsoft's early-mover advantage in AI has helped it surge past Google and possibly challenge Apple as the world's most-valuable tech company."
-    publishedDateTime: 2023-06-15T19:45:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/microsoft-nears-all-time-closing-high-2-6-trillion-value-amid-ai-powered-rally"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 29
   - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
     excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
     publishedDateTime: 2023-06-20T08:54:00Z

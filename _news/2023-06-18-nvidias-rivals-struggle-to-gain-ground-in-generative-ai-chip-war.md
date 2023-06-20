@@ -35,6 +35,24 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "US sanctions ignite booming black market for Nvidia AI chips in China"
+    excerpt: "In September last year, the US further tightened sanctions against China by instructing Nvidia and AMD to stop selling their high-performance AI-focused GPUs to the country"
+    publishedDateTime: 2023-06-20T14:33:00Z
+    webUrl: "https://www.techspot.com/news/99136-us-sanctions-ignite-booming-black-market-ai-chips.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
+  - title: "Chinese vendors are making a killing selling Nvidia's AI chips"
+    excerpt: "In the wake of US-imposed sanctions, China's underground market players are selling high-end AI chips from Nvidia at double the asking price"
+    publishedDateTime: 2023-06-20T12:21:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/chinese-vendors-are-making-a-killing-selling-nvidias-ai-chips-10827931.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 34
   - title: "Expensive NVIDIA H100 Hopper AI graphics card put to the test in gaming benchmarks"
     excerpt: "The NVIDIA H100 Tensor Core GPU is not built for gaming, but that hasn't stopped people from using the $40,000 GPU to play PC games."
     publishedDateTime: 2023-06-20T05:29:00Z

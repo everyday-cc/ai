@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/16/hybrid-work-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/06/16/hybrid-work-could-save-knowledge-workers-jobs-from-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Q&A: The future of work—how will AI and automation affect work?"
-    excerpt: "For decades, advances in technology have changed the ways people work, and now artificial intelligence could be the next big disruptor."
-    publishedDateTime: 2023-06-15T20:57:00Z
-    webUrl: "https://techxplore.com/news/2023-06-qa-future-workhow-ai-automation.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-qa-future-workhow-ai-automation.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-qa-future-workhow-ai-automation.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-4.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Hybrid Work Shields Knowledge Workers From AI Job Displacement"
     excerpt: "On one hand, the prospect of returning to the office stirs up a cocktail of dread and nostalgia. On the other hand, the threat of AI-driven job elimination looms large."
     publishedDateTime: 2023-06-16T13:06:00Z

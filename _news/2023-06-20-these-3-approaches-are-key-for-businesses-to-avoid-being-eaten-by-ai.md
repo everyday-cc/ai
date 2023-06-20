@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approache
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/c3RwNWN8XeDGfgrBXGaR4f-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How 16 Vendors Are Helping Partners Build AI Businesses"
-    excerpt: "While several of these vendors have been offering AI products and services for years—such as Amazon Web Services, IBM, Google Cloud and Microsoft Azure, to name a few—demand for such technologies has reached new heights recently due to the hype ..."
-    publishedDateTime: 2023-06-15T20:40:00Z
-    webUrl: "https://www.crn.com/news/software/how-16-vendors-are-helping-partners-build-ai-businesses"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0281-1804c926faf8-92cd93414eca-1000/intelligent-data-mind.jpeg"
-        width: 611
-        height: 456
         isCached: true
 
 secured: "+CoKpWYFhq6ekfOQC5rnxkxSe67OQ2bhaLq6oAul1MyfdSMOjuleqOKrlx5wEV0ayHOCTIVYdhhbli3IAleKkcuXG1rD1BkwMr0nIG2LHZ9bAd/qhdFTVMp62IDGir7R6bMCRgjhexnpOx8KhIcbWY9yJT1EQ1xftMP5PydIiPQC79zpDLPayBq2UkNZ06uBCC1rFy+2xsMcTvVTAVTOf6jUYsncZuzcRwTewIE9GpDlV8y++R8qNqneQyeOvWAetScYPqKpRBjROl5CysVBkFQJgOO8vfKRKNa7dAQQcXI69bhG+rwdmmM0tsnPDyi0PzfX5ajIwJO6d8CRKLE0VmUhX9sjH62aPnqbE3LQQMg=;ogSdEskX1RjjoHsW9MuyPQ=="

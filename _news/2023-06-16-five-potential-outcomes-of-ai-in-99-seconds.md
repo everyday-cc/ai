@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/world-us-canada-65885899"
 webUrl: "https://www.bbc.com/news/av/world-us-canada-65885899"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "How Edge AI Is Fueling Industry 4.0 Outcomes"
+    excerpt: "To close the gap between today's technology and Industry 4.0, manufacturers must consider new approaches to interoperability that allow for ML-enabled insights at scale."
+    publishedDateTime: 2023-06-20T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-edge-ai-is-fueling-industry-40-outcomes/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Southern Baptist Convention makes official statement on dangers of AI"
     excerpt: "It appears this resolution makes Southern Baptists the first religious denomination to make an official statement on the challenges of AI and present a theological and ethical grid for dealing with"
     publishedDateTime: 2023-06-16T13:34:00Z

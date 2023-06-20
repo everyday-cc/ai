@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/article/facial-recognition-artificial-intell
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI, chatbots and ChatGPT: Threat to knowledge work, or a ‘dancing bear’?"
+    excerpt: "AI holds many possibilities for society, but caution is needed, especially at universities where platforms such as ChatGPT threaten academic integrity."
+    publishedDateTime: 2023-06-20T15:25:00Z
+    webUrl: "https://www.news.uct.ac.za/article/-2023-06-20-ai-chatbots-and-chatgpt-threat-to-knowledge-work-or-a-dancing-bear"
+    type: article
+    provider:
+      name: news.uct
+      domain: uct.ac.za
+    quality: 38
+    images:
+      - url: "http://www.news.uct.ac.za/images/userfiles/images/news/2023/2023-06-20_ai-chatbots.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "ISS9/jdGuH3e7B9hjuoeHISc95EX5ujs5BpJUIwigkv8A2wcImcKe3PxwlFFQ7YBS2KVPLxxZVIdRDgBA8DoBoIrdrtJpNAEHMcsvrXDwYAgq37/AD1aI4UzRu/b7t/uu3pDnqTh9TCYtnv4KxYLITRBHlfqvwSNVVaAwnQ7HT2Ted9L5gPZUUwdzVRujNMmLDhTyqdFvhRnxoYgLRg19KEG+tEf08Y9dwtcNxtC+naG4lE22UgKPz58SHn+YQKIXN7JnNwfrvAb0jwteg8f/igSAMFATrXyo7OYnpOqMPWNHFHeAAjDABKXDyXXG5ws76EyLxcMJ2u57OsWhSG2vUGavIzRdKxd9xlAMggaRpk=;ugtRkV00oIkCdCCLtHLV0w=="
 ---

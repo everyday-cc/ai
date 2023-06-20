@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/business-65675027.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "US sanctions ignite booming black market for Nvidia AI chips in China"
+    excerpt: "In September last year, the US further tightened sanctions against China by instructing Nvidia and AMD to stop selling their high-performance AI-focused GPUs to the country"
+    publishedDateTime: 2023-06-20T14:33:00Z
+    webUrl: "https://www.techspot.com/news/99136-us-sanctions-ignite-booming-black-market-ai-chips.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
   - title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
     excerpt: "In the three weeks since Nvidia shocked the tech world with its forecast of an unprecedented leap in sales, Wall Street has been on the hunt for other chip companies that could benefit from the latest AI boom. But as the search has gone on, the gulf that ..."
     publishedDateTime: 2023-06-18T02:38:00Z
@@ -35,6 +44,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Chinese vendors are making a killing selling Nvidia's AI chips"
+    excerpt: "In the wake of US-imposed sanctions, China's underground market players are selling high-end AI chips from Nvidia at double the asking price"
+    publishedDateTime: 2023-06-20T12:21:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/chinese-vendors-are-making-a-killing-selling-nvidias-ai-chips-10827931.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 34
   - title: "Expensive NVIDIA H100 Hopper AI graphics card put to the test in gaming benchmarks"
     excerpt: "The NVIDIA H100 Tensor Core GPU is not built for gaming, but that hasn't stopped people from using the $40,000 GPU to play PC games."

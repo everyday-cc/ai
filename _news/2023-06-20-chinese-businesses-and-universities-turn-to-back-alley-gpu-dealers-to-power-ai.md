@@ -41,21 +41,7 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "How 16 Vendors Are Helping Partners Build AI Businesses"
-    excerpt: "While several of these vendors have been offering AI products and services for years—such as Amazon Web Services, IBM, Google Cloud and Microsoft Azure, to name a few—demand for such technologies has reached new heights recently due to the hype ..."
-    publishedDateTime: 2023-06-15T20:40:00Z
-    webUrl: "https://www.crn.com/news/software/how-16-vendors-are-helping-partners-build-ai-businesses"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0281-1804c926faf8-92cd93414eca-1000/intelligent-data-mind.jpeg"
-        width: 611
-        height: 456
-        isCached: true
 
-secured: "MPFT75CUClJ2h2FDUYFr8yjl6RRN/ZpuiDkslfoywJgjPkyt3d1k9a/Ua4n1lobzyungenclvUDQxZw7hejCtVpPRejq3zMTCB6PT6iXL6eIGIhy86hX+IXQY8KDBY+i5tgjgzck0EAi0hlQUoXZCgdX1OwUQGCkEHJ0TN8DpNTepgz0RWhrjgQtGwC+ZY1SWWq5bIzluSRBe9m0kdi4ZvkYx8Uv7iYNq61J2jHLBsMsxDtf1dU0dB6zLqn3wu0SqzWBFWawZAxPXSsNteKxuKtIYOJjASYHaJWsAogb6uSQw34dCVHSWdyFU+LbAxcQekfyJiM8Finm+oqQqvDA85Jw7yPFmgGKs5kQ6lokLiA=;fL8HVsuVdNXydOZJ1c3wdw=="
+secured: "9shrHRs32u0c+n8TkRoDe8s1gQsjzOqkjLfMe3BIgpflVPPNyMH9c9Sgf6BVlyGPBC8vw6+oETWU8Pa+Wxt/wbKTLQ6U+pVhqWpfMTcZmVnMQztvem2r2jOgfGDPe82Ca1Vr79N8AbA09BJqOvtBe9Xrt0yhfDr9Q1rzUHeMK+REd4sGD9MS4XcHrialDBJrv+tKqeGEa94QVhJNw2dPbmkQjmvdCvumEzgyZi8qJzFGJpqHjKspaFUcpgY9e5OwYapIusmwmagRFPUoEQRyziqb8T+jJnKMMaE06SX3vTnI8g0sKZ99WEKiUjt3uVJdsT9G1tU9rdiCmr7etF6o7JeM/nBPnH7UcVO1hOqCwCjm3pd21wj0h2uxj8TT6vLZyyZOGo0W2qwCz9+qx71lFjZz46InATOgmyIuGDp26m9MjH+v75LNeAhtfcCZ7RhotiQTUuBw/EptxB8atr7/AeNRJjhqwcOnZamkfAt0OYaVV6Qek5Zip/nVr+MFkObO5yzZweWDzh88byi6dld5+g==;UojLuTEFf3g5oQg7A+PUaA=="
 ---
 

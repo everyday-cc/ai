@@ -1,29 +1,21 @@
 ---
 category: news
 title: "Europe, US urged to investigate the type of AI that powers systems like ChatGPT"
-excerpt: "European Union consumer protection groups are urging regulators to investigate the type of artificial intelligence underpinning systems like ChatGPT over risks that leave people vulnerable"
-publishedDateTime: 2023-06-20T10:37:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/europe-us-urged-investigate-type-ai-powers-systems-100225786"
-webUrl: "https://abcnews.go.com/International/wireStory/europe-us-urged-investigate-type-ai-powers-systems-100225786"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/europe-us-urged-investigate-type-ai-powers-systems-100225786"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/europe-us-urged-investigate-type-ai-powers-systems-100225786"
+excerpt: "Europe has led the world in efforts to regulate artificial intelligence, which gained urgency with the rise of a new breed of artificial intelligence that gives AI chatbots like ChatGPT the power to generate text,"
+publishedDateTime: 2023-06-20T15:36:00Z
+originalUrl: "https://www.houstonchronicle.com/news/world/article/europe-us-urged-to-investigate-the-type-of-ai-18160525.php"
+webUrl: "https://www.houstonchronicle.com/news/world/article/europe-us-urged-to-investigate-the-type-of-ai-18160525.php"
 type: article
-quality: 53
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/International/wirestory_e05a51e888ee24190f0d17fc41d13895_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Five big takeaways from Europe’s AI Act"
@@ -66,6 +58,6 @@ related:
       domain: unite.ai
     quality: 18
 
-secured: "O6rv1yOXovr9OUU5eOTBsfdsxvWRbyyH44bHcjAO4HHrwVKQ2Q+MYoFLJiGcGMUR2tv4zzwwoc9Log99IHSiwDAUsn+rPMH3RJi+z2ZA3QtUQfBPtH7Y3OmDXAMwiub5/WM8vjIN2TDRYPFvjlCPDBcL7G4tj8zGx9dAYnO4vTxmYpQR72PpI7agUbkxBgs1X+bAczEc+ve1cGbQGIyRnVYukQogkviSPJCRu43GYsRuO1rv50qnrjoUriP8UfZ0KBZWDgk7MR680TIctydC2zts8GM9DjHkYq41vBwtyNcrmHlpjUdnruRMKzwqHt3JDTlVXW2hGMmfVCoQXZqW7fgrdjUfFyqwkg3ihTbe5xA=;PYC4DO7l6u6v2sQifKY7Bg=="
+secured: "KRdIzi0IF4G6etbwJ9U94WNfshn7ShbdTtpHeFIqC4vJG1VFUqwBpqo26cA5hplyhvS4ZQba9tN3JLQL1mvNAojSFWb7gLlpfTQGLh40DWC5LneGcMjVWMtis8NsGMGqIFElDrJ3w8us3rnDJjjz2YfShdtAshE8S/oYdl+yGsOrbD0NSWCWqOEPt2PgTAZfBpFMVDu9M7I5dJ0fTtOXIH16M99BnEVFmQ1Ih71kAAwbRmFS3CsLaxCrdmoMesAIO1dlEGjGDHzKu79ZJAGy52xKJgqGImJaaGcTRfbLlEZmb9/ByBjngfODOst+Wfr0m90PI7Qat5Uh2s0lHx4YznhzkgwZ7s9h57bQyT6wCsFxG6zeYfBEhq3nqXOQDR0g7ZUmGn4gAHhP7y40lXC769mb+sgnqD3jIO5wjSYNcljOsbXG+6sVFoJClCe2Pkkj0YnDTvKs634wqAU26DhZi0WtoLlJBJcQb4mOC8NmLzgEaQORvLG1H1LdHmJRQqS57RYWYC6CN0Ht+/O2RJj8hw==;Ofa9QKQwItX7RX8QAVaLSg=="
 ---
 

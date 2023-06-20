@@ -22,22 +22,6 @@ topics:
   - AWS AI
   - AI
 
-related:
-  - title: "BBVA taps AWS for new data platform"
-    excerpt: "BBVA has selected Amazon Web Services analytics and AI technology for a new data platform that will provide a secure repository of the Spanish bank's operations and customer data."
-    publishedDateTime: 2023-06-15T23:13:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42489/bbva-taps-aws-for-new-data-platform"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/bbva-ia-factory-sede_2-1920x1440.jpg"
-        width: 480
-        height: 270
-        isCached: true
-
 secured: "Yo/mMCrxgycMz+9uCnEcZUyxNqWusx1U5fRcHM/LpOzuN5mQ1bfpTVA/WRq8KoVk6yCap7Do4Wat7ndPqQpg+vt86k38fBBSY4qt008EVhdb5o1ffdLtk2AMzS6U6EgRP8A7e1uxsUOzait+hNIzhUfs0RVcOg0uiBV8pFuAjGz5jPWzgLT0CdldcJqjwW7thdi7JX2xhlz1PkqYSrt/zSXc29o3R2cXTPPW8BJQTqmZdpeni1pZMt1Xgw65P4n8RcsogJEQ4g/iltkGxnkWmSVIhEESe0Nu2vQkaK+NizpY1YGPdAKfT4Tqp2IoGFjfWA4FI7InG8Y1swBabreffb7poCmM6vCEBN+S0WA58XM=;trBI+XU/1wNZlZAMY12qeQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/"
 type: article
 quality: 83
-heat: 123
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta Announces Voicebox Generative AI Model, Touting Accessibility Implications"
+    excerpt: "In a blog post published last week, Facebook parent company Meta announced Voicebox ... post that Voicebox represents “an important step forward in our generative AI research,” one can’t help but be tantalized by the accessibility-related ..."
+    publishedDateTime: 2023-06-20T15:43:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/"
+    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6490e4efd2fae043769b888b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta's Voicebox Generative AI Makes Anyone Speak a Foreign Language"
     excerpt: "Meta says Voicebox can be used to give a natural-sounding voice to virtual assistants or non-player characters in the metaverse, which are digital worlds in which people will gather to work, play and hang out. It could also be used by visually impaired people to hear messages read by the voices of their friends."
     publishedDateTime: 2023-06-16T21:02:00Z
@@ -88,6 +104,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Yellow.ai launches generative AI-powered ChatBots and VoiceBots solution for customer and employee experience automation on SAP® Store"
+    excerpt: "By integrating with five SAP solutions, enterprises can now leverage Yellow.ai's Dynamic Automation Platform to deliver autonomous, human-like"
+    publishedDateTime: 2023-06-20T13:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-launches-generative-ai-powered-chatbots-and-voicebots-solution-for-customer-and-employee-experience-automation-on-sap-store-1032398986"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
 
 secured: "1a8XVs09LQ6F+kp+V/f7JgFrYdUdOXeczl07bgEHCvbTwaV4gk6uD7Zu5ALM77UR/3kbo/HxzVpZXHDMq9IZbnSE8f3ClNmr97cJ/CNqxLxtzwQQUmacyu4I1VYKVGIgyuM+nl+WdzfSndnkFeT0kHa8Y8ZL8ue0mC34cygb9vyuOAAV8Sk14Cl3Xbdh4++dZZyvBNXI43gOc35HyIhVrA/zPW+45kocGzQqKMy4KKoNit4wKBPI9LJAT1thExEHCFp5ZRCLpuC1oK8xbRPVt6QZyjtUt+QeOil743LgaCHjN6uni3NsTD3Fo6OugPAbPEC5CzYRdhBJA8rhPW5i5Ax9U4fvr67hY9COnlyPbEA4YtHkd6zMIQYE/kqwrlpLrsPIrdnAPFiPP3R7mnKzySKIL1ZnWZFYuV2vVanKtW6FTKeNyF2sLoe7tppsVxknHg3jFPwmGKKaW406fZj0PUdBM7+UiK/mJq6cz7duHZ5kvghUCH54EVSIryCY7Jit1670H6R7lCYRcRiMjjAoqg==;XeHP1X6VXRDSa52JZkyBiQ=="
 ---

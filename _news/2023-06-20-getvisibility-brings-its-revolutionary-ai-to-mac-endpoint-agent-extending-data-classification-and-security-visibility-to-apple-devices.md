@@ -2,12 +2,12 @@
 category: news
 title: "Getvisibility brings its Revolutionary AI to Mac Endpoint Agent, Extending Data Classification and Security Visibility to Apple Devices"
 excerpt: "In a technology breakthrough, Getvisibility is the first classification and data monitoring endpoint tool to fully support the new M1 Apple chip, ensuring compatibilty and exceptional performance for Mac users."
-publishedDateTime: 2023-06-20T11:34:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/20/9835289.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835289.htm"
+publishedDateTime: 2023-06-20T13:01:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-getvisibility-brings-its-revolutionary-ai-mac-endpoint-agent-/2023/06/20/9835289.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-getvisibility-brings-its-revolutionary-ai-mac-endpoint-agent-/2023/06/20/9835289.htm"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - AI
   - AI in Security
 
-images:
-  - url: "https://mma.prnewswire.com/media/2101944/Getvisibility_Logo.jpg"
-    width: 400
-    height: 217
-    isCached: true
-
-secured: "1FaSM1D4eqAx6kNdIOfh3+2RsK8qtbCcwJCOgL0VysXsKFbU47BqlGJbBvn2zEdS+enhPOPrp7Ga1MwplqIJ1HhMN0M1I+C1C1pEXXSz15dhH4ZrM7KQi6hRIREpGlQcE3t3zzFJyQtYSCyQZSZ1zKB7pNCGpCitHhuk2/fTW6wwr0IW0shd/BExt/I8sdRI8k92ah6EsfzYXLERBT4rYlHuLnx2FHWETBrYs+XKQSYL/vRRZ0TaLkazkty4NxxWD2PyDDoc21bWcltPqw98PPcIc/fvMRcMJx0PHeYtz0h6NIYDOtZvIkNropGzaevGvJpufVySXWb9WaMdbHeFfI7mJ+nbgJbCKQKqO2PW2a4=;h/5bZaqylgAkHxhqjW2jqg=="
+secured: "pE7zqM0kDHUJoDd0aw+m/RIjk7HZCA2jneH/ZNH6HbujJ7rZR3uMjWjXzXLftdyDja7XzdJOqSDWq4AX3qPduCKEYzXjvVx1HH3zCuH6taLOwXcoLtWe19zlj0++YzWBE2EVLzCE8hfzSfjzvN69U94+SMDQA0Gp8EzHWp7fcIcjnhFxQjf9+gvFQCTg5Oc6xF8d/6re/Z4FB+X+jdoHRVOyWtTP9jV9BTQiyBczRIPPhXbXwEUjvfm3OsNf1Za0Op1uoNLoJe4NE/j3J8vvqXhi15UUJl2lSDboKT7sZfceLbPPqdieLeB18L16pWL681nyTPdmGxUBONcvALRu3gICWzsVBJJ9lH85vDP4PUlct9rU/FzcHhDtMiyK66tc5sB1iVVVHKwJUgwW8pfMi++IP4xQvDjNvQxiemiQiYqLO02YVCKcLkQ9T4S5wEGqOxtIP84ea/xVHqvZb1viKXBjiKYHLTll+gyg+fbsp4kla6o9u3E3Sk0C5gVfFMkWkDaGHODVv82mkEVRTIZM+Q==;MuL8yb0SZQa3BOz1jsf7rg=="
 ---
 
